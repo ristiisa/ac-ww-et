@@ -1,0 +1,60 @@
+{
+ "file": "script/ENG/message/ge/q10/layout_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 04 00}{0b 03 00}{04 1f 00}, you've got\nstuff {07 15 00}ALL OVER YOUR ROOM!\n\n{07 16 00}I'd only give it {04 12 00}\nout of five stars!",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 16 00}Um...like...ew!{01 00 00 05 00} It looks like\na GROSS BOMB went off in\nhere, {01 00 00 05 00}{04 02 00}!\n{07 00 00}Maybe you should {07 0b 00}put some\nof this stuff away?{01 00 00 0a 00} Like,\nin a closet or something?\n{07 00 00}{07 19 00}On a scale of five\nstars, I'd give this room\n{04 12 00}!",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 04 00}WHA--?!{01 00 00 14 00} {07 0b 00}Oh no! You've got\nfurniture facing completely\nthe WRONG DIRECTION!!{01 00 00 0a 00} NOOO!!\n{07 16 00}Can't you TELL that? Can't\nyou just look at it and\nTELL, {01 00 00 05 00}{04 02 00}?!\n{07 16 00}Totally lame! I hereby give\nthis room...{04 12 00} out\nof five stars!",
+   "et": ""
+  },
+  {
+   "id": 3,
+   "en": "{07 04 00}Oh no!{01 00 00 0a 00} {07 00 00}You've got furniture\nturned all sideways! {01 00 00 0a 00}{07 0b 00}Did you\nMEAN to do that?\n{07 16 00}Umm...NOT cool!{01 00 00 0a 00}{07 00 00} So I would\nonly give it {04 12 00} out\nof five stars!!",
+   "et": ""
+  },
+  {
+   "id": 4,
+   "en": "{07 16 00}{0b 03 00}{04 1f 00}, your room\nlooks like a fallout shelter\nor a cave or something...\n{07 00 00}You have, like, NONE of the\nnecessary items for modern\ndaily life!!\n{07 00 00}{07 19 00}On my exclusive five-star\nrating scale,{01 00 00 05 00} I would give\nthis place {04 12 00}!",
+   "et": ""
+  },
+  {
+   "id": 5,
+   "en": "{07 16 00}{0b 03 00}{04 1f 00}? {07 00 00}Are you, like,\nsome kind of crazy person\nor something, {01 00 00 05 00}{04 02 00}?\n{07 16 00}I mean, it's OK to have a\nhobby and all, but this\nroom is...\n{07 00 00}Anyway, out of five stars,\nI'd give this room\n{04 12 00}, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 6,
+   "en": "{07 00 00}I can tell you're trying,{01 00 00 0a 00} but\nI don't think you have, like,\na solid CONCEPT yet...\n{07 14 00}Y'know, if you collect the\nsame TYPES of furniture, it\nwill look a LOT better!\n{07 00 00}Right now, I can only give\nyour place {04 12 00}.",
+   "et": ""
+  },
+  {
+   "id": 7,
+   "en": "{07 00 00}{0b 03 00}{04 1f 00}, {01 00 00 05 00}this place\nisn't too bad.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}I guess{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.\n{07 16 00}but there's no UNITY!\n{07 0c 00}I KNOW! {01 00 00 05 00}You should totally\ncollect similar furniture!\nThat would be WAY COOL!\n{07 00 00}But for now, I can only give\nit {04 12 00} out of five\nstars!",
+   "et": ""
+  },
+  {
+   "id": 8,
+   "en": "{07 00 00}{0b 03 00}{04 1f 00}, your room is\npretty decent, but...{01 00 00 0a 00}{07 16 00}you're\nSTILL missing something!\nI think it would help if you\ncollected stuff from the\nsame series.\n{07 00 00}So out of five stars, I'd\ngive this about {04 12 00},\n{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 9,
+   "en": "{07 00 00}Most of the furniture in \nyour room is VERY similar!{01 00 00 05 00}\nIt's soooo close to perfect!\nYou know what I would do if\nI were you?{01 00 00 0a 00} I'd complete\nthe ENTIRE SET, {01 00 00 05 00}{04 02 00}!\n{07 15 00}It's SO HARD!{01 00 00 05 00} Stupid STUFF!{01 00 00 05 00}\nYeah, nearly impossible...{01 00 00 05 00}\nbut I KNOW you can do it!\n{07 00 00}I'd give your current room\n{04 12 00} out of five\nstars!",
+   "et": ""
+  },
+  {
+   "id": 10,
+   "en": "{07 06 00}Wow!{01 00 00 05 00} Like, WOW!{01 00 00 0a 00} W-O-W!!{01 01 00}\n{07 14 00}{0b 03 00}{04 1f 00}, your room is,\nlike, {04 12 00}!\n{07 15 00}Of course that's on a five\nstar scale!{01 00 00 05 00} Even stupid old\n{04 0c 00} would like this!\n{07 0c 00}HEY! You should TOTALLY \ndecorate my room, too!{01 00 00 0a 00}\n{07 06 00}C'mon! Promise me you will!",
+   "et": ""
+  }
+ ]
+}

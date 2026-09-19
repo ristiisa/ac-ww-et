@@ -1,0 +1,65 @@
+{
+ "file": "script/ENG/message/bo/3p/bo_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{09 01 00}{09 08 00}{07 16 00}I don't really{01 00 00 05 00} want to have\nto say this, {01 00 00 05 00}{ff 00 00 06}{04 10 00}{ff 00 00 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n\n{07 00 00}But there's something weird{01 00 00 05 00}\n{07 06 00}about where you're standing\nright now,{01 00 00 05 00} {04 02 00}!{09 09 00}",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{09 01 00}{09 08 00}{07 00 00}Um,{01 00 00 05 00} {ff 00 00 06}{04 10 00}{ff 00 00 00},{01 00 00 0a 00}{07 0b 00} do you like\n{04 12 00}?{01 00 00 05 00}\n{0b 03 00}{04 02 00}?{09 09 00}",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{09 01 00}{09 08 00}{07 00 00}This is just between us,{01 00 00 0a 00}{07 16 00}\nbut{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n\n{07 06 00}I think I like\n{04 13 00},{01 00 00 05 00}\n{04 02 00}.{09 09 00}",
+   "et": ""
+  },
+  {
+   "id": 3,
+   "en": "{09 00 00}{09 08 00}{09 01 00}{07 16 00}{09 02 00}{09 06 00}{07 02 00}Oh!{01 00 00 0f 00} Really?!{01 01 00} {07 00 00}Whoops,{01 00 00 05 00} sorry!\nI thought something was\noff.\n{07 16 00}We're standing in each\nother's spots,{01 00 00 05 00} {04 02 00}!{09 09 00}",
+   "et": ""
+  },
+  {
+   "id": 4,
+   "en": "{09 00 00}{09 06 00}{09 01 00}{09 02 00}{07 15 00}Sheesh!{01 00 00 0a 00} How long have we\nbeen rehearsing this dance\nroutine?!\n{07 06 00}If you don't get it together\nsoon, we're gonna have\nproblems,{01 00 00 05 00} {04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 5,
+   "en": "{09 00 00}{09 08 00}{09 02 00}{09 06 00}{07 14 00}Of course!{01 00 00 0f 00}{07 13 00} It's my favorite\nthing in the world,{01 00 00 05 00}\n{04 02 00}!\n{07 14 00}Except maybe for\n{04 13 00},\n{ff 00 00 06}{04 0f 00}{ff 00 00 00}. {01 01 00}{07 0b 00}How about you?{09 09 00}",
+   "et": ""
+  },
+  {
+   "id": 6,
+   "en": "{09 00 00}{09 06 00}{09 01 00}{07 14 00}Of course I do,{01 00 00 05 00} {04 02 00}!\n{01 01 00}{07 0a 00}If it's edible,{01 00 00 05 00} I'm a fan!{09 09 00}",
+   "et": ""
+  },
+  {
+   "id": 7,
+   "en": "{09 00 00}{09 08 00}{09 02 00}{07 14 00}Huh huh huh! I'm exactly the\nsame way! {01 00 00 05 00}See, this is why\nit's so fun talking to you!\n{07 0a 00}We're always of the same\nmind and belly, {01 00 00 05 00}{04 02 00}!{03 01 00 01}{09 01 00}{03 01 00 01}",
+   "et": ""
+  },
+  {
+   "id": 8,
+   "en": "{09 00 00}{09 08 00}{09 01 00}{07 16 00}{09 02 00}{09 06 00}{07 02 00}WHAT?!{01 00 00 0f 00} What do you mean\nyou THINK you like it,\n{01 00 00 05 00}{04 02 00}?!\n{07 06 00}Is that different from\nactually liking it? What are\nyou saying here?!{09 09 00}",
+   "et": ""
+  },
+  {
+   "id": 9,
+   "en": "{09 00 00}{09 06 00}{09 02 00}{07 00 00}{09 01 00}{07 16 00}Uh.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0f 00} I don't dislike it so\nmuch I hate it{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{09 09 00}",
+   "et": ""
+  },
+  {
+   "id": 10,
+   "en": "{09 00 00}{09 08 00}{09 02 00}{07 19 00}OK.{01 00 00 0f 00} In that case, I guess I\nget it{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{07 16 00} Love and hate are\ntwo sides of the same coin.\n{07 00 00}Not until I start hating my\nbeloved {04 12 00}\ncan I say that\n{07 13 00}I love {04 12 00}\nfrom the bottom of my\nheart,{01 00 00 05 00} {04 02 00}.{09 09 00}",
+   "et": ""
+  },
+  {
+   "id": 11,
+   "en": "{09 00 00}{09 06 00}{09 01 00}{07 19 00}Whoa. {01 00 00 05 00}We're so deep.\nEspecially when we talk\nabout love and hate{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{07 15 00}\nIt doesn't even matter if\nit makes sense, {07 13 00}{01 00 00 05 00}'cause we\njust look sooo cool!{03 01 00 01}",
+   "et": ""
+  }
+ ]
+}

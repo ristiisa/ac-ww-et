@@ -1,0 +1,115 @@
+{
+ "file": "script/ENG/message/ta/tsu/event1_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 1c 00}{01 00 00 0a 00}This Sunday is the big\n{ff 00 00 03}Fishing Tourney{ff 00 00 00},{01 00 00 0a 00}\n{04 02 00}!\n{07 16 00}I{01 00 00 05 00} don't really like\nthose kind of outdoorsy\nactivities but{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 0b 00}Are you entering,\n{04 1f 00}?{02 00 00 0e 0f}\nOf course!\nI don't know...",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 0e 00}{01 00 00 0a 00}Do I want to go to the\n{ff 00 00 03}Fishing Tourney{ff 00 00 00} on Sunday?{01 00 00 0a 00}\n{07 00 00}I've already got a date.\n{07 16 00}But without me, it'll be like\na princessless parade.{01 01 00}\n{01 00 00 0a 00}{07 1b 00}{01 00 00 05 00}What to do, {01 00 00 0a 00}{04 02 00}?",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 14 00}Hey, {01 00 00 05 00}{04 1f 00},{01 00 00 0a 00} this\nSunday is the {ff 00 00 03}Bug-Off{ff 00 00 00},\n{01 00 00 05 00}{04 02 00}.\n{07 00 00}In actuality, it's just bug\ncatching, but it's{01 00 00 0a 00} really\nfun out there with others!\n{07 15 00}{04 0b 00} is really\nlooking forward to it too,\n{01 00 00 0a 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 3,
+   "en": "{07 0c 00}{01 00 00 0a 00}The {ff 00 00 03}Bug-Off{ff 00 00 00} is this Sunday,\n{01 00 00 05 00}{04 02 00}. Did you know\nthat?\n{07 00 00}Because it's such a{01 00 00 05 00} huge\nevent, we might have\nvisitors from other towns!\n{07 13 00}{01 00 00 0a 00}I'm actually{01 00 00 05 00} a bit nervous,\n{01 00 00 05 00}{04 02 00}! Imagine that!{01 00 00 0a 00}\nMe, nervous!",
+   "et": ""
+  },
+  {
+   "id": 4,
+   "en": "{07 0e 00}{01 00 00 0a 00}This Saturday is the\n{ff 00 00 03}Flea Market{ff 00 00 00}, {01 00 00 05 00}{04 02 00}!\nI'm so excited!\n{07 14 00}Last time I made\n{04 0b 00} buy a\n{04 15 00}!\n{07 0a 00}Bargaining is SO FUN! {01 01 00}{07 11 00}{01 00 00 0a 00}Hmm.{01 00 00 05 00}\nI wonder what I'll make\nsomeone buy this time.",
+   "et": ""
+  },
+  {
+   "id": 5,
+   "en": "{07 0b 00}{01 00 00 0a 00}{0b 03 00}{04 1f 00}, are you going\nto sell something at the \n{ff 00 00 03}Flea Market {ff 00 00 00}on Saturday?{01 00 00 0a 00}\n{06 01 00 10 11 12}",
+   "et": ""
+  },
+  {
+   "id": 6,
+   "en": "{07 0d 00}{01 00 00 0a 00}Hee hee,{01 00 00 0f 00} it's almost\n{ff 00 00 03}La-Di-Day{ff 00 00 00}, {01 00 00 05 00}{04 02 00}!{01 00 00 0a 00}\nYou're in for a treat!\nWhy? {01 00 00 0a 00}'Cause you'll get to\nhear so much of my soulful\nvoice, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 7,
+   "en": "{07 0e 00}{01 00 00 0a 00}Saturday is {ff 00 00 03}La-Di-Day{ff 00 00 00},\nbut{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}. {07 16 00}I think they should\nmake it longer, don't you?\n{07 06 00}They should at least let me\nsing until dawn,\n{01 00 00 0a 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 8,
+   "en": "{07 14 00}Hey,{01 00 00 05 00} {04 1f 00}.{01 00 00 0a 00} You know\nthis Sunday is {ff 00 00 03}Yay Day{ff 00 00 00},\nright, {01 00 00 05 00}{04 02 00}?\n{07 16 00}Though I'm sure it's a\nchallenge to find words \nthat do justice to me, \n{07 0d 00}{01 00 00 0a 00}please pick the right\nwords to describe me, all\nright, {01 00 00 0a 00}{04 02 00}?",
+   "et": ""
+  },
+  {
+   "id": 9,
+   "en": "{07 0e 00}{01 00 00 0a 00}The {ff 00 00 02}kind words{ff 00 00 00} that you\nhear on {ff 00 00 03}Yay Day{ff 00 00 00},{01 00 00 05 00} well, they\nstay with you!\n{07 11 00}This Sunday is {ff 00 00 03}Yay Day{ff 00 00 00}, you\nknow, {01 00 00 05 00}{04 02 00}!\n{01 00 00 0a 00}{07 19 00}Choose your words carefully.\n{07 09 00}'Cause they might keep\nsome lonely soul warm on\na cold night.{07 00 00}",
+   "et": ""
+  },
+  {
+   "id": 10,
+   "en": "{07 14 00}{0b 03 00}{04 1f 00}, {ff 00 00 06}{04 0f 00}{ff 00 00 00}'s\nbirthday is the {04 11 00},\nright!? {07 00 00}So{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n{07 0d 00}{01 00 00 0a 00}Let's call all of our closest\nfriends and celebrate!",
+   "et": ""
+  },
+  {
+   "id": 11,
+   "en": "{07 0e 00}{01 00 00 0a 00}Isn't {04 10 00} {04 11 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 14 00} {07 0c 00}{01 00 00 05 00}\nOmigosh! Isn't that\n{ff 00 00 06}{04 0f 00}{ff 00 00 00}'s birthday?\n{06 01 00 13 14 15}",
+   "et": ""
+  },
+  {
+   "id": 12,
+   "en": "{07 14 00}You definitely gotta do the\n{ff 00 00 03}New Year's Eve Countdown{ff 00 00 00} in\na group!\n{07 0d 00}Gather round, make noise,{01 00 00 0a 00}\nand forget all the bad\nstuff, {01 00 00 0a 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 13,
+   "en": "{07 0e 00}{01 00 00 0a 00}Maybe I'll visit a friend{01 00 00 0a 00}\nin another town for their\n{ff 00 00 03}New Year's Eve Countdown{ff 00 00 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 13 00}{01 00 00 0a 00}Besides celebrating the new\nyear, a new romance might\nblossom there, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 14,
+   "en": "{07 16 00}The thing about me is,{01 01 00} {07 15 00}the\nmore everyone around me\ngets all hyped up,\n{01 00 00 0a 00}{07 1b 00}{01 00 00 05 00}the less enthused I become.\nThat might seem cold, {01 00 00 0a 00}\nbut really, it's just cool.",
+   "et": ""
+  },
+  {
+   "id": 15,
+   "en": "{07 00 00}So, you say you're planning\non making an appearance\ntoo, huh?\n{07 14 00}Well, maybe then I'll have to\ngive the crowd a little \nsomething too, {01 00 00 0a 00}{04 02 00}.",
+   "et": ""
+  },
+  {
+   "id": 16,
+   "en": "{07 15 00}I use it as an opportunity\nto get rid of excess stuff\nlike gifts from exes.\n{01 00 00 0a 00}{07 1b 00}{01 00 00 05 00}It's part of cleansing and\nstarting fresh. Two birds,\none stone, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 17,
+   "en": "{07 19 00}You might be able to sell it{01 00 00 0a 00}\nfor more than {ff 00 00 06}Tom Nook\n{ff 00 00 00}would give you, {01 00 00 0a 00}{04 02 00}{07 00 00}!",
+   "et": ""
+  },
+  {
+   "id": 18,
+   "en": "{07 14 00}As a customer, it's a lot of\nfun to just gossip with\nfriends, too, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 19,
+   "en": "{07 14 00}Hmm{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} What should my\npresent be this year,\n{01 00 00 05 00}{04 02 00}?",
+   "et": ""
+  },
+  {
+   "id": 20,
+   "en": "{07 16 00}I want to celebrate this\nspecial occasion with all of\nyou, {04 02 00}, but{01 00 00 0a 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 09 00}{01 00 00 0a 00}{04 10 00} {04 11 00} is full of\n{01 00 00 0a 00}bad memories for me{01 00 00 05 00}.{01 00 00 05 00}.{03 03 00 03}. If\nI talk about it, I'll cry.",
+   "et": ""
+  },
+  {
+   "id": 21,
+   "en": "{07 16 00}Should I bring a birthday\npresent? Or is my presence\npresent enough?\n{01 00 00 0a 00}{07 1b 00}{01 00 00 05 00}Come to think of it, I\nalways give way more than I\nget. {01 00 00 0a 00}I'm selfless that way.\n{07 19 00}So, by all rights, I really\nshould be the one getting\nthe gifts, {01 00 00 0a 00}{04 02 00}!{07 00 00}",
+   "et": ""
+  }
+ ]
+}

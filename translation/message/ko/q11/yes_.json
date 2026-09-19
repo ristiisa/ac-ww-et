@@ -1,0 +1,20 @@
+{
+ "file": "script/ENG/message/ko/q11/yes_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 14 00}Hey, thanks!{01 00 00 0f 00} {0b 03 00}{04 12 00}\nBells!{01 00 00 0f 00} This'll come in handy!\nMaybe I'll buy a new hat!{01 00 00 05 00}\n{07 00 00}And here! This big 'ol\n{0b 02 00}{04 1a 00} is\nall yours now, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 14 00}We got a deal!{01 00 00 0f 00} Now this\n{0b 02 00}{04 1a 00} is\nyours forever!",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 14 00}Whooo hooo!{01 00 00 05 00} Thanks for the\n{04 12 00} Bells!{07 00 00}\n\n{07 05 00}Now be sure to guard this\n{0b 02 00}{04 1a 00}\nlike it was your own child!!",
+   "et": ""
+  }
+ ]
+}

@@ -1,0 +1,135 @@
+{
+ "file": "script/ENG/message/fu/tsu/friend_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 04 00}{ff 00 00 06}{04 16 00}{ff 00 00 00} and\n{ff 00 00 06}{04 17 00} {ff 00 00 00}certainly are\ngood friends, aren't they?\n{07 0b 00}I sometimes wonder if\nthey're not a little{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.more\nthan that, {04 02 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{02 00 00 09 0a}\nWell, duh!\nI doubt it.",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "You know, {ff 00 00 06}{04 16 00}{ff 00 00 00} and\n{ff 00 00 06}{04 17 00} {ff 00 00 00}seem like\npretty OK friends, right?\n{06 00 00 0d 0e}",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 06 00}I'd steer clear of\n{ff 00 00 06}{04 16 00}{ff 00 00 00} and\n{ff 00 00 06}{04 17 00} {ff 00 00 00}for a while.\n{07 15 00}Things are a little weird\nbetween them right now,\n{01 00 00 05 00}{04 02 00}!{01 00 00 0f 00}\n{06 01 00 0f 10 11}",
+   "et": ""
+  },
+  {
+   "id": 3,
+   "en": "{07 02 00}{0b 03 00}{04 1f 00},{01 00 00 0a 00} I have\nthe most horrible news,\n{01 00 00 05 00}{04 02 00}!\n{07 06 00}{ff 00 00 06}{04 16 00}{ff 00 00 00} and\n{ff 00 00 06}{04 17 00} {ff 00 00 00}are getting\nalong way too well.\n{06 00 00 16 17}",
+   "et": ""
+  },
+  {
+   "id": 4,
+   "en": "What's up with {ff 00 00 06}{04 16 00}{ff 00 00 00}\nand {ff 00 00 06}{04 17 00}{ff 00 00 00}, anyway?\n\nIt looks like they get along\nOK, but they don't really\nseem like friends.\nTell me, {04 1f 00},\n{07 0b 00}what do you think\nof them, {01 00 00 05 00}{04 02 00}?{02 00 00 12 13}\nWe have to help!\nLeave 'em alone!",
+   "et": ""
+  },
+  {
+   "id": 5,
+   "en": "{07 06 00}{ff 00 00 06}{04 16 00}{ff 00 00 00} and\n{ff 00 00 06}{04 17 00} {ff 00 00 00}are fighting!\nThey're in total spat mode!\n{06 00 00 18 19}",
+   "et": ""
+  },
+  {
+   "id": 6,
+   "en": "Is it just me, or are\n{ff 00 00 06}{04 16 00}{ff 00 00 00} and\n{ff 00 00 06}{04 17 00} {ff 00 00 00}chatting a lot?\n{06 00 00 14 15}",
+   "et": ""
+  },
+  {
+   "id": 7,
+   "en": "Don't you think {ff 00 00 06}{04 16 00}{ff 00 00 00}\nand {ff 00 00 06}{04 17 00}{ff 00 00 00} {07 0b 00}have a lot\nin common, {01 00 00 05 00}{04 02 00}?\n{07 0e 00}It weirds me out that they\ndon't seem even remotely\ninterested in each other.\n{07 14 00}But{01 00 00 05 00} I guess it's better\nthan if they were at one\nanother's throats.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}",
+   "et": ""
+  },
+  {
+   "id": 8,
+   "en": "{07 14 00}Have you heard what\n{ff 00 00 06}{04 16 00}{ff 00 00 00} has been\nsaying about {ff 00 00 06}{04 17 00}{ff 00 00 00}?\n{07 00 00}What's up with the two of\nthem? They're like sisters,\nthe way they argue.\n{07 1b 00}Trust me, I know all about\nhow mean sisters can be,\n{01 00 00 05 00}{04 02 00}.",
+   "et": ""
+  },
+  {
+   "id": 9,
+   "en": "{06 00 00 0b 0c}",
+   "et": ""
+  },
+  {
+   "id": 10,
+   "en": "{07 14 00}I'm glad to hear you say\nthat, and I totally agree\nwith you, {01 00 00 05 00}{04 02 00}.\n{07 00 00}Just because they hang\nout ALL THE TIME doesn't\nmean they're dating.\n{07 14 00}At least, not yet.",
+   "et": ""
+  },
+  {
+   "id": 11,
+   "en": "{07 04 00}Well, duh! I knew it right\naway{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0f 00} {07 06 00} In fact, I saw the\nsigns myself, {01 00 00 05 00}{04 02 00}!\n{07 16 00}Yep,{01 00 00 05 00} they were alone on\nthe beach, talking in\nhushed tones{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 06 00}They were passionately{01 00 00 05 00}\ndiscussing the history of\nthe {04 15 00}!",
+   "et": ""
+  },
+  {
+   "id": 12,
+   "en": "{07 0e 00}You think so?{01 00 00 0f 00}\n\n\n{07 00 00}If you ask me, they're more\nlike a big sister and her\nkid brother, {01 00 00 05 00}{04 02 00}.\n{07 14 00}She's definitely the older\none, don't you think?{01 00 00 05 00} Older\nthan me, certainly.",
+   "et": ""
+  },
+  {
+   "id": 13,
+   "en": "{07 00 00}I think {ff 00 00 06}{04 16 00}{ff 00 00 00} should\nstep up and {07 15 00}make the first\nmove, {01 00 00 05 00}{04 02 00}.\n{07 06 00}{ff 00 00 06}{04 17 00}{ff 00 00 00}'s probably\npining away for him this\nvery second, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 14,
+   "en": "{07 00 00}I'm not sure how smart he\nis, so {ff 00 00 06}{04 17 00} {ff 00 00 00}needs\nto drop a hint.\n{07 14 00}Nothing unsubtle. Just\nenough to make sure he\ngets the message.\n{07 19 00}You can't leave something\nthis important to a boy,\n{01 00 00 05 00}{04 02 00}.",
+   "et": ""
+  },
+  {
+   "id": 15,
+   "en": "{07 16 00}There's nothing we can do,\nso {01 00 00 05 00}I guess we'll just let\nnature take its course.",
+   "et": ""
+  },
+  {
+   "id": 16,
+   "en": "{07 06 00}I think {ff 00 00 06}{04 16 00}{ff 00 00 00} ought\nto be the one to apologize,\n{01 00 00 05 00}{04 02 00}.\n{07 16 00}Boys get so stubborn about\nthe smallest little things!",
+   "et": ""
+  },
+  {
+   "id": 17,
+   "en": "{07 06 00}I hope {ff 00 00 06}{04 17 00}{ff 00 00 00} just\nhurries up and apologizes\nfirst, {01 00 00 05 00}{04 02 00}.\n{07 16 00}It's not her fault, but she\nshould give him a chance to\nsave face, {01 00 00 05 00}{04 02 00}.",
+   "et": ""
+  },
+  {
+   "id": 18,
+   "en": "{07 0d 00}That's right, {04 1f 00}!\nIt's time we kick their\nfriendship up a notch!\n{07 14 00}I'll just leave the details\nto you. Let me know how it\nworks out, {01 00 00 05 00}{04 02 00}!{03 01 00 01}",
+   "et": ""
+  },
+  {
+   "id": 19,
+   "en": "{07 16 00}I'm not nosy, {01 00 00 05 00}{04 02 00}.{01 00 00 0f 00}\nI'm just concerned. I want\nthem both to be happy.\n{07 14 00}But maybe it's for the\nbest. You don't get hurt\nif you don't risk anything.\n{07 09 00}Maybe that's just the way\nmature, adult friendships\nare supposed to be.{07 00 00}",
+   "et": ""
+  },
+  {
+   "id": 20,
+   "en": "{07 14 00}They look happy together!\n\n\n{07 0d 00}They seem as tight as\nsisters, like {ff 00 00 06}Mabel{ff 00 00 00} and\n{ff 00 00 06}Sable{ff 00 00 00}, {01 00 00 05 00}{04 02 00}.",
+   "et": ""
+  },
+  {
+   "id": 21,
+   "en": "{07 00 00}The other day, {01 00 00 0a 00}they were\ntalking about how to snazz\nup a {04 15 00}...\n{07 15 00}{01 02 00}\"{ff 00 00 02}to make it more\nfashion friendly{ff 00 00 00}\"!{01 03 00}\n\n{07 14 00}I know!{01 00 00 0a 00} That's really{01 00 00 05 00}\nwhat they were talking\nabout, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 22,
+   "en": "{07 06 00}I saw it with my own eyes!\nThey do everything\ntogether, {01 00 00 05 00}{04 02 00}!\n{07 16 00}They even bought matching\n{04 15 00}s!\n\nI don't know why.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n{07 10 00}but I got so jealous\nwatching them, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 23,
+   "en": "{07 0e 00}I can't quite explain why{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0f 00}\n{07 16 00}but it's making me really\njealous!",
+   "et": ""
+  },
+  {
+   "id": 24,
+   "en": "{07 00 00}When you get right down to\nit, {ff 00 00 06}{04 16 00}{ff 00 00 00} started the\nwhole thing, {01 00 00 05 00}{04 02 00}.\n{07 16 00}He's the one who broke\nthat {04 15 00}. He\nshould buy a new one!\n{07 0e 00}But maybe {ff 00 00 06}{04 17 00}{ff 00 00 00}\nshould mellow out. It wasn't\na big deal{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.",
+   "et": ""
+  },
+  {
+   "id": 25,
+   "en": "{07 06 00}I hope they sort it all\nout quickly{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 14 00}\n{07 16 00}Boys are so stubborn!",
+   "et": ""
+  }
+ ]
+}

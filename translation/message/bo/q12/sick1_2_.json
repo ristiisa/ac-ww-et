@@ -1,0 +1,115 @@
+{
+ "file": "script/ENG/message/bo/q12/sick1_2_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 07 00}{01 08 00}HACKity HACK HACK!{01 00 00 05 00} SNEEYORF!{01 00 00 0a 00}\nI'b OK.{01 00 00 0a 00} I'b t{01 00 00 03 00}-tough{01 00 00 03 00} like rock\nc{01 00 00 03 00}-candy, see{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\nW{01 00 00 03 00}-why are da two of you\nlooking at be like dat?",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{ff 00 00 04}{07 16 00}{01 08 00}HACKITY! {01 01 00}{ff 00 00 00}{07 14 00}I can taste the\nmusic! {01 01 00}{07 03 00}{01 08 00}WHOOO! TASTES LIKE\nPEAS!{01 01 00} {07 07 00}I'm totally delirious.",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 07 00}Ugh, {01 00 00 0a 00}my throat hurts too\nmuch to eat.{01 00 00 0f 00}{07 02 00} WHAT IF I\nNEVER EAT AGAIN!?{01 01 00}{07 07 00} {ff 00 00 04}{01 08 00}HACKITY!",
+   "et": ""
+  },
+  {
+   "id": 3,
+   "en": "{07 14 00}Uh huh huh! {01 00 00 0a 00}{07 07 00}Are you the\ncupcake fairy?{01 00 00 0a 00} I th{01 00 00 03 00}-thought\nyou'd have wings... {ff 00 00 04}{01 00 00 0a 00}{01 08 00}HWEEZE!",
+   "et": ""
+  },
+  {
+   "id": 4,
+   "en": "{07 07 00}{01 08 00}SNEEEYORF!{01 00 00 0a 00} HACKSNORF!{01 00 00 0a 00} {07 08 00}By\nhead id full of pudding!{01 00 00 0a 00}\n{07 07 00}{01 08 00}HACKity HACK HACK!",
+   "et": ""
+  },
+  {
+   "id": 5,
+   "en": "{07 1c 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}Maybe you, uh, shouldn't\nbe here. {01 01 00}{07 16 00}You might catch\nsomething TERRIBLE!",
+   "et": ""
+  },
+  {
+   "id": 6,
+   "en": "{07 07 00}Don't breathe around me!{01 00 00 0a 00}\nYou don't wanna get what\nI've got, {01 00 00 0a 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 7,
+   "en": "{07 14 00}Aww, thanks.{01 00 00 0a 00} {07 00 00}You've been\nreally good to me.",
+   "et": ""
+  },
+  {
+   "id": 8,
+   "en": "{07 16 00}I was just about to go buy\nsome. {01 00 00 0a 00}{07 14 00}Thanks, {01 00 00 0a 00}{04 02 00}.",
+   "et": ""
+  },
+  {
+   "id": 9,
+   "en": "{07 14 00}You sure are thoughtful,\n{01 00 00 0a 00}{04 02 00}.",
+   "et": ""
+  },
+  {
+   "id": 10,
+   "en": "{07 14 00}I might be OK even without\n{ff 00 00 07}medicine{ff 00 00 00}, though.",
+   "et": ""
+  },
+  {
+   "id": 11,
+   "en": "{07 16 00}I really don't like the {01 00 00 0a 00}bad-\ntasting stuff{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}. This\n{ff 00 00 07}medicine{ff 00 00 00} isn't candy, yanno!",
+   "et": ""
+  },
+  {
+   "id": 12,
+   "en": "{07 07 00}Eww, {ff 00 00 07}medicine{ff 00 00 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} {07 16 00}Just when I\nthought it couldn't get any\nworse, {01 00 00 0a 00}{04 02 00}.",
+   "et": ""
+  },
+  {
+   "id": 13,
+   "en": "{07 16 00}Aww, man! You gotta be\nkidding me! {01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 07 00}Blecch!",
+   "et": ""
+  },
+  {
+   "id": 14,
+   "en": "{07 09 00}{0b 03 00}{04 1f 00}, you got me the\nnasty kind on purpose,\ndidn't you!",
+   "et": ""
+  },
+  {
+   "id": 15,
+   "en": "{07 07 00}Phewwagggh!{01 00 00 0a 00} I think I was\nfeeling better before!",
+   "et": ""
+  },
+  {
+   "id": 16,
+   "en": "{07 16 00}I hate {ff 00 00 07}medicine{ff 00 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} {07 00 00}BLEEECH!{01 00 00 0a 00}\nTalk about gross,\n{01 00 00 0a 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 17,
+   "en": "{ff 00 00 04}{07 07 00}HACK! URGGGGLE{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}. {ff 00 00 00}{07 16 00}Thanks.{01 00 00 14 00}\nI know you mean well, but\nthat {ff 00 00 07}medicine{ff 00 00 00} was terrible.",
+   "et": ""
+  },
+  {
+   "id": 18,
+   "en": "{07 16 00}Oh, gross.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} {07 14 00}Thanks.{01 00 00 14 00} I think\nI feel a little better,\n{01 00 00 0a 00}{04 02 00}.",
+   "et": ""
+  },
+  {
+   "id": 19,
+   "en": "{07 14 00}Thanks for worrying about\nme, {01 00 00 0a 00}{04 02 00}.",
+   "et": ""
+  },
+  {
+   "id": 20,
+   "en": "{07 14 00}Uh huh huh!{01 00 00 0a 00} {0b 03 00}{04 1f 00},\nyou're too good to me,\n{01 00 00 05 00}{04 02 00}.",
+   "et": ""
+  },
+  {
+   "id": 21,
+   "en": "{07 0d 00}Thanks.{01 00 00 14 00} You've made me feel\nmuch better, {01 00 00 0a 00}{04 02 00}!",
+   "et": ""
+  }
+ ]
+}

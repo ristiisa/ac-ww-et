@@ -1,0 +1,20 @@
+{
+ "file": "script/ENG/message/ta/q/icancel_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "Tell me, {01 00 00 05 00}{07 01 00}is wasting my time{01 00 00 03 00},\nlike, {01 00 00 03 00}your life goal or\nsomething?!",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 15 00}Why are you toying with my\nemotions, {01 00 00 0a 00}{04 02 00}?",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 15 00}W-{01 00 00 05 00}what?!{01 00 00 14 00} {07 05 00}Stop trying to\nfool me, then! Sheesh,\n{01 00 00 0a 00}{04 02 00}!",
+   "et": ""
+  }
+ ]
+}

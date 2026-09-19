@@ -1,0 +1,100 @@
+{
+ "file": "script/ENG/message/ge/etc/learn_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "What?{01 00 00 05 00} What was that,\n{01 00 00 05 00}{04 02 00}?!\n\nWere you, like, trying to do\nTHIS by any chance?",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "Oh, like, ew!{01 00 00 0a 00} What in the\nworld was that?!{01 01 00}\nDid you mean...this?!",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{0b 03 00}{04 1f 00}!{01 00 00 0a 00} Was that me?!\nAre you, like, trying to\nmake fun of me?{01 00 00 0a 00} HOW RUDE!\nI THINK you were trying\nto do this, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 3,
+   "en": "Um, hello? Yeah, not quite...{01 01 00}\n{0b 03 00}{ff 00 00 02}{04 0f 00} {ff 00 00 00}doesn't\nwork like that{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.",
+   "et": ""
+  },
+  {
+   "id": 4,
+   "en": "{0b 03 00}{04 1f 00}, your\n{ff 00 00 02}{04 0f 00} {ff 00 00 00}is, like,\na seven out of ten.{01 00 00 0f 00} Maybe.",
+   "et": ""
+  },
+  {
+   "id": 5,
+   "en": "I'll do it one more time.{01 00 00 05 00}\nWatch me carefully,\n{01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 6,
+   "en": "I'll show you one more time,{01 00 00 05 00}\nso watch closely!{01 00 00 0a 00} Got it,\n{01 00 00 05 00}{04 02 00}?!",
+   "et": ""
+  },
+  {
+   "id": 7,
+   "en": "See?!{01 00 00 0a 00} You got that, \n{01 00 00 05 00}{04 02 00}?!",
+   "et": ""
+  },
+  {
+   "id": 8,
+   "en": "It's like that!{01 00 00 0a 00} See?{01 00 00 0a 00}\nDid you get it,\n{01 00 00 05 00}{04 02 00}?",
+   "et": ""
+  },
+  {
+   "id": 9,
+   "en": "YAY, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 10,
+   "en": "Oh, well!{01 00 00 0a 00} {0b 03 00}{04 1f 00}, this\nis just for you!!",
+   "et": ""
+  },
+  {
+   "id": 11,
+   "en": "YAY!{01 00 00 0f 00} Yippy skippy YAY!{01 00 00 0f 00}\nNow you're a master at\n{ff 00 00 02}{04 0f 00}{ff 00 00 00}, too!",
+   "et": ""
+  },
+  {
+   "id": 12,
+   "en": "Good job, {04 1f 00}!{01 00 00 0a 00}\nYou're, like, a quick study,\n{01 00 00 05 00}{04 02 00}!\nYou'll TOTALLY pass the big\n{ff 00 00 02}{04 0f 00} {ff 00 00 00}exam!",
+   "et": ""
+  },
+  {
+   "id": 13,
+   "en": "Oops?!{01 00 00 05 00} You can't remember\nany more {ff 00 00 02}expressions{ff 00 00 00}!\n\nBut if you want to forget\nan {ff 00 00 02}expression{ff 00 00 00}, you can\nlearn this one instead.\nWhich one do you want to,\nlike, forget, {01 00 00 05 00}{04 02 00}?",
+   "et": ""
+  },
+  {
+   "id": 14,
+   "en": "{07 02 00}Oh, ew!{01 01 00} {07 00 00}{0b 03 00}{04 1f 00}, you're\nso greedy!{01 00 00 0a 00} You can't learn\nany more {ff 00 00 02}expressions{ff 00 00 00}!\nTo remember this one, you\nHAVE TO forget an old one{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}\nWhich one, {01 00 00 05 00}{04 02 00}?",
+   "et": ""
+  },
+  {
+   "id": 15,
+   "en": "OK then!{01 00 00 0a 00} Reeeeady?{01 00 00 0a 00}\nThree{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00} Twooo{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}\nOOOONNNNEEE{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}\n{07 0a 00}PRESTO!!!{01 09 00}\n\n\n{07 00 00}You TOTALLY forgot\n{ff 00 00 02}{04 10 00}{ff 00 00 00}, and \nlearned {ff 00 00 02}{04 0f 00}{ff 00 00 00}!\nGood job, {01 00 00 05 00}{04 1f 00}!",
+   "et": ""
+  },
+  {
+   "id": 16,
+   "en": "OK! {01 00 00 05 00}{07 11 00}Looook into my eyes{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 01 00}\nOh!{01 00 00 0a 00}{07 17 00} Now I'm all embarrassed!{01 00 00 0a 00}\n'K, I'll stop acting stupid...\n{07 00 00}Forget {ff 00 00 02}{04 10 00}{ff 00 00 00}...\nAnd instead, remember\n{ff 00 00 02}{04 0f 00}{ff 00 00 00}!\n{0b 03 00}{04 1f 00},{01 00 00 05 00} you're like a\nnew person, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 17,
+   "en": "I see{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} Well, I guess if it\nmakes YOU happy{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n\nHuh? Oh, no! No!{01 00 00 0a 00} I'm not\nupset at all{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}",
+   "et": ""
+  },
+  {
+   "id": 18,
+   "en": "{0b 03 00}{04 1f 00}, I knew you'd be\nthe kind of person who\ncherished old memories!",
+   "et": ""
+  }
+ ]
+}

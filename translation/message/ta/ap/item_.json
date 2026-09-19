@@ -1,0 +1,160 @@
+{
+ "file": "script/ENG/message/ta/ap/item_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 14 00}Hello!{01 00 00 14 00} So, are you taking\ngood care of {ff 00 00 02}that item {ff 00 00 00}I\ngave you the other day?{02 01 00 08 09 0a}\nWhat item?\nOf course!\nDuh...",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 14 00}About that {ff 00 00 07}picture of me {ff 00 00 00}I\ngave you the other day...{01 00 00 0a 00}\nThe super-extra-cute one?\n{07 00 00}You displayed it in your\nplace, right?{01 00 00 14 00} {07 0b 00}You didn't\nlose it, did you?{02 01 00 0b 0c 0d}\nDon't worry!\nWhat's it to ya?\nUh...",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 14 00}Because we're such good\nfriends, {04 1f 00}, I have\nsomething special for you.\nTake good care of it,\nbecause it's worth a lot.\n{01 01 00}{07 00 00}Here you go, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 3,
+   "en": "{07 0b 00}You know what? {01 00 00 0a 00}I never hear\nany gossip about you.\n\n{06 03 00 0f 10}",
+   "et": ""
+  },
+  {
+   "id": 4,
+   "en": "{07 04 00}Oh, {01 00 00 0a 00}{07 14 00}I brought that item\nyou really wanted, {07 00 00}but now\nthat I think about it,\nyour hands are too full to\ncarry it!{01 01 00} {07 1b 00}Too bad,\n{01 00 00 0a 00}{04 02 00}.",
+   "et": ""
+  },
+  {
+   "id": 5,
+   "en": "{07 0b 00}Why do you always carry so\nmuch stuff with you? Do\nyou really need all of that?\n{07 16 00}I was going to give you \na present, but {07 1b 00}you can't\nhold it!\nOh, wow!{01 00 00 05 00} What terrible luck\nyou have, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 6,
+   "en": "{07 00 00}Hey, {01 00 00 05 00}{04 1f 00}!{01 00 00 0a 00} {07 16 00}This\nmight sound kind of sudden\nto you, but...\n{06 03 00 07 12}",
+   "et": ""
+  },
+  {
+   "id": 7,
+   "en": "You see, {01 00 00 05 00}{04 1f 00},{01 00 00 14 00} when\nI become close friends with\npeople, \n{07 14 00}I always give them the\n{ff 00 00 07}picture of me{ff 00 00 00} with my most\nwinning smile.\n{07 00 00}It's a long-standing\n{04 01 00} family\ntradition.{01 01 00} .{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}{07 0b 00}Strange, huh?",
+   "et": ""
+  },
+  {
+   "id": 8,
+   "en": "{07 02 00}The {ff 00 00 07}picture of me{ff 00 00 00}, space\ncase!{01 01 00} {07 16 00}You didn't lose it,{01 00 00 05 00}\ndid you?\n{07 01 00}That was a really good\n{ff 00 00 07}picture of me{ff 00 00 00}!{01 00 00 0a 00} If you lost\nit.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{01 08 00}I'll REALLY lose it!",
+   "et": ""
+  },
+  {
+   "id": 9,
+   "en": "{07 14 00}Oh, {01 00 00 05 00}I'm so glad!{01 01 00} {ff 00 00 07}{07 19 00}My picture\n{ff 00 00 00}is a VERY rare item. {01 00 00 05 00}Keep\nit in a safe place! \n{07 14 00}In ten years, it will be\nworth a fortune!",
+   "et": ""
+  },
+  {
+   "id": 10,
+   "en": "{07 09 00}{01 00 00 0a 00}\"Duh\"?{01 01 00} {07 01 00}What kind of a\nresponse is that?! I'm\ntalking about {ff 00 00 07}my picture!\n{07 00 00}{ff 00 00 00}Remember? {01 00 00 05 00}I gave it to you!\n{07 14 00}If you lost it{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}I'll never,\never talk to you again!{00 00 00}",
+   "et": ""
+  },
+  {
+   "id": 11,
+   "en": "{07 14 00}That's good. {01 01 00}Now even when\nI'm not around, you can\ncontemplate my cuteness. ",
+   "et": ""
+  },
+  {
+   "id": 12,
+   "en": "{07 00 00}Oh, no, {01 00 00 0a 00}it's nothing.{01 00 00 14 00} {07 19 00}I'm\njust making sure you didn't\nlose it, {01 00 00 0a 00}{04 02 00}.\n{07 00 00}See, you're the only person\nwho got one, {01 00 00 0a 00}{07 14 00}so if you lost\nit, I'd have to destroy you.",
+   "et": ""
+  },
+  {
+   "id": 13,
+   "en": "{07 02 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.You lost it, didn't you?!\n{01 00 00 0a 00}{0b 03 00}{04 02 00}!\n\n{07 16 00}Then {01 00 00 0a 00}what I heard about it\nbeing sold at the next town\nover must be true.\n{07 06 00}That's so creepy!{01 00 00 14 00} I'm used\nto admirers, {01 00 00 0a 00}and even fans.{01 01 00}{07 07 00}\nBut this is something else!",
+   "et": ""
+  },
+  {
+   "id": 14,
+   "en": "It's a{ff 00 00 07} picture of me{ff 00 00 00}!{01 00 00 14 00} {07 0d 00}Do I\nlook good {01 00 00 05 00}or do I look\ngood, {01 00 00 05 00}{04 02 00}?",
+   "et": ""
+  },
+  {
+   "id": 15,
+   "en": "{07 14 00}Let's start some! {01 00 00 0a 00}OK, what\nyou gotta do is take this\n{ff 00 00 07}picture of me{ff 00 00 00}.{01 00 00 0a 00} Cute, huh?\n{07 0d 00}Now everyone will think\nyou've got a crush on me!{01 00 00 0a 00}\nTee hee hee!",
+   "et": ""
+  },
+  {
+   "id": 16,
+   "en": "{07 14 00}I'll give you {ff 00 00 07}my picture{ff 00 00 00}. \n{01 00 00 05 00}Now the whole town will be\nabuzz about our friendship!",
+   "et": ""
+  },
+  {
+   "id": 17,
+   "en": "{07 14 00}You DO have siblings, {07 0b 00}right?{02 00 00 13 14}\nWhy do you ask?\nNope.",
+   "et": ""
+  },
+  {
+   "id": 18,
+   "en": "{07 14 00}What type of guys do you\nlike?{01 00 00 14 00} {07 0b 00}Cute, boyish guys?{01 00 00 14 00} Or\ndependable, mature types?{02 02 00 16 17 18 19}\nCute!\nDependable!\nI don't care.\nNeither!",
+   "et": ""
+  },
+  {
+   "id": 19,
+   "en": "{07 14 00}Tee hee! I knew it! {01 00 00 0a 00}I'm just\na very perceptive gal is\nall, {01 00 00 0a 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 20,
+   "en": "{07 04 00}Well, color me surprised! {01 01 00}{07 16 00}I\nhave lots of siblings{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00} It\nwas a big litter, you see.\n{07 1b 00}Being an only child must be\nnice, 'cause then you're like\nthe star of the show!",
+   "et": ""
+  },
+  {
+   "id": 21,
+   "en": "{07 1b 00}What does that mean?{01 01 00} Are\nyou just being mysterious\nabout your past?\n{07 00 00}Then, {01 00 00 05 00}what do you have to\nsay about {ff 00 00 02}this{ff 00 00 00}? {ff 00 00 04}(I can be\nmysterious, too!)\n{ff 00 00 02}{07 11 00}This {ff 00 00 00}is really rare. What\nwould you say if I said I'd\ngive {ff 00 00 02}this {ff 00 00 00}to you? {02 00 00 1c 1d}\nUh...I dunno.\nYou go, girl?",
+   "et": ""
+  },
+  {
+   "id": 22,
+   "en": "{07 14 00}Boyish types remind me of\nmy younger brother. {01 00 00 0a 00}He was\ncute when he was little,\n{07 1b 00}but as he got older,\nhe got really, really\nannoying, {01 00 00 0a 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 23,
+   "en": "{07 14 00}I totally agree! {01 01 00}{07 19 00}Dependable\ntypes always have all their\nissues sorted,\nwhich means more attention\nfor me!{07 00 00}",
+   "et": ""
+  },
+  {
+   "id": 24,
+   "en": "{07 1b 00}Well, {01 00 00 0a 00}I guess beggars can't\nbe choosers, huh! {01 00 00 05 00}Ooh,\nsnap! {07 03 00}Tee hee!\n{07 14 00}You know{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}. You've got a\ngood sense of humor. {07 0a 00}We\nshould hang out more!{03 01 00 01}",
+   "et": ""
+  },
+  {
+   "id": 25,
+   "en": "{07 04 00}Really?! {01 01 00}{07 0e 00}Well, now that I\nthink about it, you do have\na point. \nWhy think about boys when\nyou could be thinking about\nREALLY important issues?\n{07 1b 00}Like accessories!{01 01 00} I truly\nbelieve they have the power\nto make or break a look.",
+   "et": ""
+  },
+  {
+   "id": 26,
+   "en": "{07 09 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}I'll just be waiting\npatiently, {01 00 00 0a 00}{04 02 00}.",
+   "et": ""
+  },
+  {
+   "id": 27,
+   "en": "{07 14 00}But then,{01 00 00 0a 00} you couldn't be\ncuter than me! It's just\nimpossible, {01 00 00 05 00}{04 02 00}.",
+   "et": ""
+  },
+  {
+   "id": 28,
+   "en": "{07 02 00}What?!{01 01 00} {07 15 00}Fine! You proved your\npoint! No need to rub it in\nmy face!\nYou're more mysterious\nthan I am! This is a {ff 00 00 07}picture\nof me{ff 00 00 00}. Take it already!",
+   "et": ""
+  },
+  {
+   "id": 29,
+   "en": "{07 03 00}Tee hee hee!{01 01 00} {07 14 00}That's ALWAYS\nthe right answer in my\nbook, {01 00 00 05 00}{04 1f 00}!\n{07 00 00}All right then, {01 00 00 0a 00}I'll give you\nthis special {ff 00 00 07}picture of me\n{ff 00 00 00}as a prize!",
+   "et": ""
+  },
+  {
+   "id": 30,
+   "en": "{07 00 00}Tee hee hee!{01 00 00 05 00} You'd better\ntake good care of it,\n{01 00 00 0a 00}{04 02 00}!",
+   "et": ""
+  }
+ ]
+}

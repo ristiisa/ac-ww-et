@@ -1,0 +1,85 @@
+{
+ "file": "script/ENG/message/ko/ev/gardeniing_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 00 00}Hey, {01 00 00 05 00}guess what?{01 00 00 14 00}\nThe {ff 00 00 03}Flower Fest{ff 00 00 00} starts\ntoday, {01 00 00 05 00}{04 02 00}!\nNext Sunday, the big winner\nwill be announced.\n\n{07 15 00}Expect me to be the victor\nin this great flowery\nbattle, my friend!",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 14 00}{0b 03 00}{04 1f 00}, the {ff 00 00 03}{01 00 00 0f 00}Flower\nFest {ff 00 00 00}starts today,\n{01 00 00 05 00}{04 02 00}!\n{07 00 00}I don't even like flowers,\n{01 00 00 05 00}but lemme say this{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n\n{07 0d 00}When there's a trophy\ninvolved, I ALWAYS destroy\nthe competition!",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 00 00}Hey, {01 00 00 05 00}{04 1f 00}!{01 00 00 0a 00} How's the\ngardening going,\n{01 00 00 05 00}{04 02 00}?\n{07 15 00}Sunday's the last day!\nSo just keep that in mind\nwhen you're losing, loser!",
+   "et": ""
+  },
+  {
+   "id": 3,
+   "en": "{07 00 00}Guys like me aren't really\nsupposed to be into\ngardening.\n{07 14 00}But once you start, I guess\nit's not all that awful,\n{01 00 00 05 00}{04 02 00}.",
+   "et": ""
+  },
+  {
+   "id": 4,
+   "en": "{07 00 00}I don't really know how\nflower choice affects your\nchances of winning.\nSo I figure I'll just plant\nlike crazy and see what\nhappens, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 5,
+   "en": "{07 00 00}We're about halfway into\nthe {ff 00 00 03}Flower Fest{ff 00 00 00},\n{01 00 00 05 00}{04 02 00}.\nI wasn't into it at first,\nbut now I love taking care\nof my little flower friends!\n.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}Uhh, {01 00 00 0f 00}{07 0f 00}let's just pretend I\ndidn't say that, OK?",
+   "et": ""
+  },
+  {
+   "id": 6,
+   "en": "{07 00 00}The {ff 00 00 03}Flower Fest{ff 00 00 00} ends next\nSunday! {07 15 00}But I won't be beat,\n{01 00 00 05 00}{04 02 00}!\nI'm gonna scream insults at\nthese flowers until they\nbloom!",
+   "et": ""
+  },
+  {
+   "id": 7,
+   "en": "{07 15 00}Hey, {01 00 00 05 00}{04 1f 00}.{01 00 00 0f 00}\nListen up, {01 00 00 05 00}{04 02 00}!\n\nI knew this guy who was so\ninto gardening{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.\n\nYup, he was so crazy about\nit that he forgot all about\nhis manly hobbies{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.\n{07 19 00}But he was still tough,\ny'hear?!\n\n{07 09 00}Uhh{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}. Yeah, he was like a\nfriend of a friend or\nsomething, {01 00 00 05 00}{04 02 00}{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.",
+   "et": ""
+  },
+  {
+   "id": 8,
+   "en": "{07 16 00}Today is the end of the\n{ff 00 00 03}Flower Fest{ff 00 00 00}, {01 00 00 05 00}{04 02 00}!\n\n{07 00 00}But I just don't feel like\nI've had enough flower\nplantin'!\n{07 16 00}Maybe I should get an early\nstart on next year!{01 00 00 05 00}\n\nYou know, {01 00 00 05 00}uhhh,{01 00 00 05 00} just to get\nahead of the competition{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n{0b 03 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 9,
+   "en": "{07 16 00}No more {ff 00 00 03}Flower Fest{ff 00 00 00} after\ntoday, {01 00 00 05 00}{04 02 00}.\n\n{07 0e 00}I wonder who's gonna walk\naway with that trophy?",
+   "et": ""
+  },
+  {
+   "id": 10,
+   "en": "{07 14 00}You know, gardening isn't\nso bad, {01 00 00 05 00}{04 02 00}.",
+   "et": ""
+  },
+  {
+   "id": 11,
+   "en": "{07 14 00}I kinda like this gardening\nstuff, {01 00 00 05 00}{04 02 00}.",
+   "et": ""
+  },
+  {
+   "id": 12,
+   "en": "{07 14 00}Hey, {04 1f 00}!\n{0b 03 00}{01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 13,
+   "en": "{07 19 00}A truly manly flower{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n\n\n{07 00 00}{01 04 00}The drains in men's locker\nrooms are shaped kinda\nlike flowers...{01 05 00}\n{07 14 00}Now THOSE are some manly\nflowers, {01 00 00 05 00}{04 02 00}.",
+   "et": ""
+  },
+  {
+   "id": 14,
+   "en": "{07 19 00}A flower for a true man{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n\n\n{07 00 00}{01 04 00}You know those flowers in\nthe jungle that smell\nlike rotting meat?{01 05 00}\n{07 14 00}Now THOSE are flowers for\nreal men, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 15,
+   "en": "{07 19 00}A manly flower{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n\n\n{07 00 00}{01 04 00}How 'bout the Daisy Cutter!\nNow that's manly! A big\nbomb that flattens flowers!\nYeah, it's not a flower\nitself, but boy is it manly!{01 00 00 05 00}{01 05 00}\n\n{07 14 00}You see, flowers are manly,\ntoo, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  }
+ ]
+}

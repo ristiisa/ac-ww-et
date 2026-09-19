@@ -1,0 +1,20 @@
+{
+ "file": "script/ENG/message/ha/q07/end_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 14 00}You are the COOLEST!{01 00 00 05 00}\nThanks, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 0d 00}You rock, {04 1f 00}!{01 00 00 0a 00}\nThanks for your help,\n{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 14 00}I'm SO stoked you live in\nthis town, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  }
+ ]
+}

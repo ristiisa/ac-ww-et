@@ -1,0 +1,20 @@
+{
+ "file": "script/ENG/message/ge/q07/open2_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 04 00}Huh?{01 00 00 0a 00} Wait, is the letter{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\nopened, {01 00 00 05 00}{04 02 00}?\n\n{07 0e 00}You{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} Don't tell me...{01 00 00 05 00} {07 15 00}You\nREAD the letter?!\n\n{07 08 00}I can't believe you!{01 00 00 0a 00}\n{0b 03 00}{04 1f 00}, you stink!{01 00 00 05 00}\nFor real, {04 02 00}!{03 03 00 01}",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 02 00}Omigosh!{01 00 00 0a 00} The letter is torn!{01 00 00 05 00}\nBut how, {01 00 00 05 00}{04 02 00}?!\n\n{07 15 00}It was YOU, {01 00 00 05 00}{04 1f 00}!{01 01 00}\n{07 05 00}I know it was you, lame-o!\nYou broke my heart!{03 02 00 01}",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 1d 00}Wait just one minute!{01 00 00 0a 00} This\nletter...{01 00 00 05 00}looks like it's\nbeen opened{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\nAnd...{01 00 00 05 00}YOU'RE the only one\nwho could have done it,\n{01 00 00 05 00}{04 02 00}!\n{07 0f 00}Ohhhhhh, {01 00 00 05 00}{04 1f 00}!{01 00 00 05 00} To\nthink, I trusted you{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}. I'm\nsuch a bad judge of people!{03 03 00 01}",
+   "et": ""
+  }
+ ]
+}

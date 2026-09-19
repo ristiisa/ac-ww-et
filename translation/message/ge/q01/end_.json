@@ -1,0 +1,15 @@
+{
+ "file": "script/ENG/message/ge/q01/end_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 00 00}So, like, nobody is better\nthan you at catching bugs,\n{07 0b 00}huh?\n.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}{07 04 00}WHOA.{01 00 00 05 00} Does that mean\nyou're the bug-catching\nchamp?!\n{07 0e 00}I think I'm jealous{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.{01 01 00}\n{07 06 00}YEP! I'm pretty jealous,\n{01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 14 00}You're such a sweetie for\nspending time with me and\ncatching bugs!\n{07 00 00}{07 16 00}But you are WAY too good at\nit, {04 1f 00}!{01 00 00 05 00}\n\n{07 06 00}Don't think I'm gonna forget\nthat you took my place as\nthe bug-catching champ!\nAnd there's no way I'm\ngonna let you steal my\nthunder in other contests!\n{07 06 00}I'm trying to become the\nprincess of all hobbies in\nthis town, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  }
+ ]
+}

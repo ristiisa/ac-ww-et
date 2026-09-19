@@ -1,0 +1,20 @@
+{
+ "file": "script/ENG/message/ko/q05/req_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 0b 00}So what kind of furniture\nare you into collecting \nright now, {01 00 00 05 00}{04 02 00}?\n{07 00 00}I'm all about \n{ff 00 00 07}{04 0f 00}{ff 00 00 00},\n{01 00 00 05 00}{04 02 00}!\n{07 19 00}I'm pretty sure I'm setting\na trend, by the way.",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 00 00}Hey, {04 1f 00},{01 00 00 05 00} {07 0b 00}what kind\nof furniture do you like,\n{01 00 00 05 00}{04 02 00}?!\n{07 14 00}I've gotta say, I like\n{ff 00 00 07}{04 0f 00}{ff 00 00 00}!{01 01 00}\n{07 13 00}Like?{01 00 00 14 00} I mean LOVE! \n{07 15 00}Anyway,{01 00 00 0f 00} I'm having trouble\ntracking down everything\nI want...\nIsn't that weird{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}?\n{07 09 00}Why does everything have to\nbe so complicated?!",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 00 00}What do you think about\n{ff 00 00 07}{04 0f 00}{ff 00 00 00}?\n{07 0b 00}Sophisticated or not?\n{07 0d 00}Chowing on sushi in a room \nfull of that stuff{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} Now \nthat's living, {01 00 00 05 00}{04 02 00}.\n{07 04 00}Ahhh{01 00 00 03 00}... Ahhhh{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.{01 01 00}\n{07 01 00}AH-CHOOOO!!!{01 00 00 14 00}\n{07 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 07 00}Ugh,{01 00 00 0f 00} I hate that!",
+   "et": ""
+  }
+ ]
+}

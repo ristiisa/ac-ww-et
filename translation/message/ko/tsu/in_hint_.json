@@ -1,0 +1,35 @@
+{
+ "file": "script/ENG/message/ko/tsu/in_hint_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "So maybe I'm too old to be\ncatching bugs.{01 00 00 05 00} But it's...\n{01 00 00 05 00}fun. Is that such a crime?{01 00 00 05 00}\n{07 14 00}And this time of year{01 00 00 05 00}\nis {0b 02 00}{ff 00 00 07}{04 1a 00}\n{ff 00 00 00}season!\n{07 0e 00}When did I see one again?{01 00 00 0f 00}\n{07 14 00}I guess I'll look around\n{04 12 00}{01 00 00 05 00}.",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 15 00}I'm CRAZY{01 00 00 0a 00} about\n{0b 02 00}{04 1a 00}\nseason! {0b 03 00}{01 00 00 05 00}{04 02 00}!\n{07 11 00}I'm gonna check grassy\nplaces {04 12 00} to\nfind some of 'em!",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 0e 00}I mean, can you believe it's\nalready {04 05 00} {04 06 00}?{01 00 00 05 00}\n{07 02 00}That's craziness!\n{07 14 00}It's time to catch me\n{04 1a 00},\n{01 00 00 05 00}{04 02 00}!\n{07 00 00}If you want to find one,\ngo hunting {07 0b 00}{04 12 00}.{01 00 00 05 00}\nEr, I think.",
+   "et": ""
+  },
+  {
+   "id": 3,
+   "en": "So, the other day I saw\n{04 1a 00}\nhangin' out by a tree.\n{07 14 00}Weird, right? Who knew you\ncould find them this time\nof year, {01 00 00 05 00}{04 02 00}?!",
+   "et": ""
+  },
+  {
+   "id": 4,
+   "en": "{07 15 00}Some bugs really freak me\nout. That's why I dread\n{04 05 00}, {01 00 00 05 00}{04 02 00}!\n{07 16 00}{0b 03 00}{04 1a 00}\ncould be in every grass\nclump!",
+   "et": ""
+  },
+  {
+   "id": 5,
+   "en": "So what if it's {04 05 00}?\n{07 0d 00}You can still catch\n{04 1a 00}{01 00 00 05 00}!\nYa hear that, {01 00 00 05 00}{04 1f 00}?{01 00 00 0f 00}\nNow you've got nothing to\nwhine about, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  }
+ ]
+}

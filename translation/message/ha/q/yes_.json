@@ -1,0 +1,20 @@
+{
+ "file": "script/ENG/message/ha/q/yes_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 14 00}Right on!{01 00 00 05 00} Take really good\ncare of it, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 0d 00}All righty then, I'm countin'\non you, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 0a 00}Rock ON, {04 1f 00}!{01 00 00 0a 00}\nI knew I could count on you!",
+   "et": ""
+  }
+ ]
+}

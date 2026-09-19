@@ -1,0 +1,80 @@
+{
+ "file": "script/ENG/message/ha/ev/insect_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 14 00}The {ff 00 00 03}Bug-Off {ff 00 00 00}opens today!\n\n\n{07 00 00}So, {04 1f 00}, do you have\n{07 0b 00}any awesome techniques or\nwhat, {01 00 00 05 00}{04 02 00}?\n{07 15 00}If I'm not catching any, I\nslap tree sap all over my\nbody to attract 'em!",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 00 00}{07 15 00}I'm not gonna lose to you!{01 00 00 05 00}\nThe {ff 00 00 03}Bug-Off {ff 00 00 00}just started\ntoday, and I OWN it!\nThe key to catching bugs is\nto be casual until you\ncorner 'em, then POUNCE!\n{07 01 00}I'm gonna win this thing,\n{01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 16 00}{07 00 00}What's up, {04 1f 00}?{01 00 00 05 00}\nWhy are you fooling around?{01 00 00 0a 00}\nThe {ff 00 00 03}Bug-Off {ff 00 00 00}has started!\n{07 15 00}If you wanna be in my\nleague, you're gonna have\nto try harder, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 3,
+   "en": "{07 14 00}Listen up, {04 1f 00}!{01 00 00 0a 00}\n\n\n{07 0a 00}Right now, the {ff 00 00 02}{04 0f 00}-mm{ff 00 00 00}\nbug I caught is Number 1!\n\n{07 11 00}So what's up, {04 1f 00}?{01 00 00 05 00}\nThink you can top that,\n{01 00 00 05 00}{04 02 00}?",
+   "et": ""
+  },
+  {
+   "id": 4,
+   "en": "{07 14 00}{ff 00 00 05}{0b 03 00}{04 1f 00}{ff 00 00 00}! {01 00 00 05 00}What's up?{01 00 00 0a 00}\nYou know I caught that\n{0b 02 00}{04 1a 00}...\n{07 03 00}Well, it was {ff 00 00 02}{04 0f 00} mm{ff 00 00 00}\nlong!{01 00 00 05 00} Can you BELIEVE that,{01 00 00 05 00}\n{04 02 00}?!",
+   "et": ""
+  },
+  {
+   "id": 5,
+   "en": "{07 14 00}I'm in the lead right now!{01 00 00 05 00}\nMy {ff 00 00 02}{04 0f 00}-mm {ff 00 00 00}bug is the\nbiggest, baby!\n{07 00 00}Yeah, I was doing my bug\ndance, and there it was!{01 00 00 05 00}\n{0b 03 00}{04 1a 00}!\n{07 07 00}Man, it was a monster!{01 00 00 05 00}\nI was a little freaked out\nat first, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 6,
+   "en": "{07 16 00}It's so HARD to find a\nreally big one{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.\n\n{07 06 00}Tell me, {ff 00 00 05}{04 1f 00}{ff 00 00 00}!{01 00 00 0a 00}\nWhat's WRONG with me?!",
+   "et": ""
+  },
+  {
+   "id": 7,
+   "en": "{07 0e 00}I heard {04 10 00}{ff 00 00 06} {ff 00 00 00}caught\na massive, {ff 00 00 02}{04 0f 00}-mm\n{0b 02 00}{ff 00 00 00}{04 1a 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 15 00}This STINKS!{01 00 00 14 00} I can't lose,{01 00 00 05 00}\n{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 8,
+   "en": "{07 16 00}So {04 10 00} is on top\nright now?! {01 00 00 05 00}Guess you\nalready knew that, though.\n{07 01 00}No way!{01 00 00 14 00} Did anyone check to\nsee if the leading bug is\nreal?!{01 00 00 05 00} It might be stuffed!",
+   "et": ""
+  },
+  {
+   "id": 9,
+   "en": "{07 15 00}Pay attention, {04 1f 00}!{01 00 00 0a 00}\nYou gotta feel what bugs\nare feeling to find them!\n{07 05 00}Cover yourself in tree sap!{01 00 00 14 00}\nTREE SAP, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 10,
+   "en": "{07 04 00}WHO'S still on top?!{01 00 00 05 00}\n{0b 03 00}{04 10 00}?! {01 00 00 05 00}Crud!\n\n{07 05 00}Look, I can't tell you why, {01 00 00 05 00}\nbut I just CAN'T lose!",
+   "et": ""
+  },
+  {
+   "id": 11,
+   "en": "{07 16 00}Whoa, man, a {ff 00 00 02}{04 0f 00}-mm{ff 00 00 00}\n{0b 02 00}{04 1a 00}?{01 00 00 05 00}\nIs it for real?!\n{07 07 00}Man, what're they FEEDING\nthe bugs in {04 03 00}?!",
+   "et": ""
+  },
+  {
+   "id": 12,
+   "en": "{07 15 00}Listen, {04 1f 00}, {01 00 00 05 00}I heard\nyou gotta be one with the\nbug, {01 00 00 05 00}{04 02 00}!\n{07 00 00}So {01 00 00 05 00}you oughta pretend that\nyou're a family member of\n{04 1a 00}!\n{07 15 00}Remember to be really nice\nto the giant momma bug!{01 01 00}\n{07 08 00}Mommy, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 13,
+   "en": "{07 16 00}Man, there's just NO\nmovement on the bug front\nlately, {01 00 00 05 00}{04 02 00}...\n{07 00 00}Maybe I oughta do some\nbeetle-back ab crunches to\nstay loose{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}",
+   "et": ""
+  },
+  {
+   "id": 14,
+   "en": "{07 14 00}The {0b 02 00}{04 1a 00}\n{04 10 00}{ff 00 00 06} {ff 00 00 00}caught was{01 00 00 05 00}\n{ff 00 00 02}{04 0f 00} mm{ff 00 00 00}?!\n{07 00 00}Well, {01 00 00 05 00}that's definitely\nsmaller than my arm, but...\n\n{07 14 00}I gotta admit, that's pretty\nhuge in the bug kingdom,{01 00 00 05 00}\n{04 02 00}!",
+   "et": ""
+  }
+ ]
+}

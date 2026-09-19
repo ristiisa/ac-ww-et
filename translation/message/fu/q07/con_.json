@@ -1,0 +1,20 @@
+{
+ "file": "script/ENG/message/fu/q07/con_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 00 00}Hey, {01 00 00 05 00}{04 1f 00}?{01 00 00 0a 00} {07 0b 00}Do you\nstill have that letter I\nasked you to deliver?\n{07 00 00}Look, I'm sorry for asking,{01 00 00 05 00} \nand I KNOW that it's really\nlast-minute...\n{07 14 00}But please make sure to\ndeliver it on time,\n{01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 00 00}So about the letter that I\nwrote to {ff 00 00 06}{04 10 00}{01 00 00 05 00}{ff 00 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\nThe one I gave to you?\n{07 06 00}PLEASE make sure that it's\ndelivered on time,\n{01 00 00 05 00}{04 02 00}!\n{07 1a 00}I don't mean to sound like\na nag,{01 00 00 03 00} but it's supposed to\nbe a big surprise!",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 00 00}So, um,{01 00 00 05 00} are you SURE that\nyou can deliver that letter\non time, {01 00 00 05 00}{04 02 00}?\n{07 06 00}{0b 03 00}{ff 00 00 06}{04 10 00} {ff 00 00 00}will be so\nupset if it's late!{01 00 00 0a 00} ...{07 01 00}And I\nwon't be happy either!",
+   "et": ""
+  }
+ ]
+}

@@ -1,0 +1,35 @@
+{
+ "file": "script/ENG/message/fu/q12/ask1_2_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 07 00}I'm feeling a little woozy,\n{01 00 00 05 00}{04 02 00}. I think I'd\nbetter lie down.",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 07 00}Ugh. I just can't wake up\ntoday, {01 00 00 05 00}{04 02 00}.\nAnd I ache all over. Bleh.",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 07 00}I don't feel so hot today.\nI hope I'm not coming down\nwith something.",
+   "et": ""
+  },
+  {
+   "id": 3,
+   "en": "{07 00 00}I feel better. {01 00 00 0a 00}I guess the\n{ff 00 00 07}medicine{ff 00 00 00} is starting to\nwork.\n{07 14 00}I hereby proclaim\n{ff 00 00 05}{04 0f 00}{ff 00 00 00} to be my hero!",
+   "et": ""
+  },
+  {
+   "id": 4,
+   "en": "{07 14 00}I'm gonna read to you from\nmy diary now, so listen\nup.\n\"Dear Diary, {01 00 00 0a 00}I'm so glad\n{ff 00 00 05}{04 0f 00} {ff 00 00 00}came along. {01 00 00 0a 00}The\n{ff 00 00 07}medicine {ff 00 00 00}really helped.\"",
+   "et": ""
+  },
+  {
+   "id": 5,
+   "en": "{07 14 00}Looks like I'm going to be\nall right now that I got\nsome {ff 00 00 07}medicine{ff 00 00 00}.\nI just wanna yell from\nthe rooftops,{01 00 00 0a 00} {07 0a 00}{01 08 00}\"{0b 03 00}{ff 00 00 05}{04 0f 00}{ff 00 00 00}\nSAVED ME!\"",
+   "et": ""
+  }
+ ]
+}

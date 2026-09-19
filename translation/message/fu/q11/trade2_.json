@@ -1,0 +1,20 @@
+{
+ "file": "script/ENG/message/fu/q11/trade2_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 00 00}Great! All you have to do\nis {ff 00 00 01}touch {ff 00 00 00}the item you're\ntalking about.",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 0b 00}So what is it?{01 01 00}\nJust {ff 00 00 01}touch {ff 00 00 00}the item for\nme, OK, {01 00 00 05 00}{04 02 00}?",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 00 00}All right then.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} {07 0b 00}Which is\nit? {01 00 00 14 00}{07 00 00}Just {ff 00 00 01}touch {ff 00 00 00}it to let\nme know, {01 00 00 05 00}{04 02 00}.",
+   "et": ""
+  }
+ ]
+}

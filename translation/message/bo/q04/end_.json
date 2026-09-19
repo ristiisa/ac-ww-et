@@ -1,0 +1,15 @@
+{
+ "file": "script/ENG/message/bo/q04/end_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 14 00}I gotta say, {04 1f 00}, {01 00 00 05 00}\nyour sense of style is\npretty awesome.\n{07 00 00}And thanks to the outfit\nyou picked out for me, I\nlook amazing, too!\n{07 19 00}Uh-huh!{01 00 00 14 00} These clothes make\nme feel great, {01 00 00 0f 00}{07 14 00}like I've got\nsuper powers!\n{07 0d 00}Yeah, I'm Fashion Lad, here\nto fight fashion crimes,\none gold shoe at a time!",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 00 00}But anyway, thanks to the\noutfit you chose for me{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n\n{07 0a 00}I'm the best-dressed dude\nin all of {04 03 00}!\n\n{07 15 00}Nobody's gonna ask me \"{ff 00 00 02}Are\nyou wearin' that outfit\nagain?{ff 00 00 00}\" ever again!\n{07 0d 00}{01 00 00 0a 00}I mean, I am so stylin'\nnow,{01 00 00 0a 00} {04 02 00}!",
+   "et": ""
+  }
+ ]
+}

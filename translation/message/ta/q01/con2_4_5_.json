@@ -1,0 +1,20 @@
+{
+ "file": "script/ENG/message/ta/q01/con2_4_5_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 16 00}Why is it, {01 00 00 05 00}when I actually \nwant to catch one, I can't\nfind them anywhere?\n{07 0b 00}Where the heck does the\n{0b 02 00}{04 1a 00}\nlive, anyway, {01 00 00 0a 00}{04 02 00}?",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 0b 00}{0b 03 00}{04 1a 00},\nyou say?{01 00 00 14 00} {07 1b 00}Well, I don't see a\nsingle one anywhere!\n{07 15 00}But {01 00 00 0a 00}you can bet your house\nI'm not going to lose to\nyou! Ever!",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 1c 00}I can't believe I'm having\nsuch trouble catching\n{04 1a 00}{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.\n{07 0f 00}I guess I've lost my touch...",
+   "et": ""
+  }
+ ]
+}

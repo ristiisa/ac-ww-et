@@ -1,0 +1,40 @@
+{
+ "file": "script/ENG/message/bo/tsu/move2_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 02 00}Whoa, {01 00 00 0a 00}{04 1f 00}! I haven't\ncleaned my place at all!\nIt's a pigsty!\n{07 06 00}I don't want you to see\nthis mess!{01 00 00 0a 00} Come back\ntomorrow,{01 00 00 0a 00} {04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 08 00}Gah! This place is such a\nmess! {01 00 00 0a 00}I gotta unpack my\npillows so I can sleep!",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 0b 00}Hmm?{01 00 00 14 00}{07 00 00} Are you{01 00 00 05 00} here to help\nme clean up my room?{02 00 00 05 06}\nYep!\nHeck, no!",
+   "et": ""
+  },
+  {
+   "id": 3,
+   "en": "{07 01 00}I'm cleaning my room right\nnow! {07 06 00}This is a restricted\narea! Cleaning staff only!",
+   "et": ""
+  },
+  {
+   "id": 4,
+   "en": "{07 06 00}I'm sorry!{01 00 00 0a 00} I'm in the middle\nof cleaning up my room.\n\n{07 0d 00}It'll be totally clean\nby tomorrow, though,{01 00 00 0a 00}\n{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 5,
+   "en": "{07 00 00}Umm, OK{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 16 00} But there's {01 00 00 0a 00}\nsome embarrassing stuff\nlying around, so{01 00 00 0a 00}{07 14 00} that's OK!\n{07 0d 00}You can just come back to\nsee me tomorrow,{01 00 00 0a 00}\n{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 6,
+   "en": "{07 0b 00}Really?{01 00 00 14 00} {07 16 00}I have to clean all\nthis stuff up{01 00 00 0a 00} by end of day\ntoday!\n{07 14 00}But we can talk for as long\nas you like tomorrow,{01 00 00 0a 00}\n{04 02 00}.",
+   "et": ""
+  }
+ ]
+}

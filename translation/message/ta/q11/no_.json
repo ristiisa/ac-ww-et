@@ -1,0 +1,20 @@
+{
+ "file": "script/ENG/message/ta/q11/no_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 16 00}Really. {01 00 00 05 00}Well, that's just too\nbad, {01 00 00 0a 00}{04 02 00}.",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 15 00}What?!{01 00 00 14 00} You're no fun!",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 00 00}Hmmm.{01 00 00 14 00} Maybe I'll sell it to\n{04 0b 00}, then.",
+   "et": ""
+  }
+ ]
+}

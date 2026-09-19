@@ -1,0 +1,110 @@
+{
+ "file": "script/ENG/message/fu/tsu/ghint_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 14 00}Hey, {04 1f 00},{01 00 00 0f 00} how would\nyou feel {07 00 00}if lots of people\ncame to visit {04 03 00}?\nAnd I'm talking about all at\nonce, not one at a time.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\nSo?{01 00 00 05 00} {07 0b 00}What do you think?{02 00 00 0f 10}\nThat'd be great!\nHuh? What?",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "Say, {04 1f 00}, {07 0b 00}do you\nknow much about design?{01 00 00 05 00}\nYou know, feng shui?{02 00 00 05 06}\nI certainly do!\nFeng who?",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 14 00}Sometimes, I just like to\nstand here and stare up\ninto the clouds.\nAnd sometimes, I see other\nthings up there than just\nclouds, {01 00 00 05 00}{04 02 00}.\nIf I had a{ff 00 00 07} slingshot{ff 00 00 00},{07 0b 00} I\nwonder if I'd be able to\nshoot them down.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}",
+   "et": ""
+  },
+  {
+   "id": 3,
+   "en": "{0b 03 00}{04 1f 00}, has anyone\ntold you about the {ff 00 00 02}Happy\nRoom Academy{ff 00 00 00}?{02 00 00 0a 0b}\nI'm a member!\nThe happy what?",
+   "et": ""
+  },
+  {
+   "id": 4,
+   "en": "{0b 03 00}{04 1f 00},{01 00 00 0a 00} have you\nsigned up for health\ninsurance, {01 00 00 05 00}{04 02 00}?\n{07 00 00}I was thinking I'd get some\nfor myself, you know, just\nin case something happens.\n{07 16 00}But I heard there's been\nsome kind of insurance\nscam going on lately!\n{07 19 00}So be very suspicious of\nanyone asking you to take\na survey, {01 00 00 05 00}{04 02 00}.",
+   "et": ""
+  },
+  {
+   "id": 5,
+   "en": "{07 14 00}I knew you had an eye for\ninterior design the moment\nI saw you, {04 1f 00}.\n{07 0d 00}The {ff 00 00 02}Happy Room Academy{ff 00 00 00} is\njust going to love you\nto pieces, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 6,
+   "en": "{07 00 00}Feng shui, silly{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0f 00} Think of\nit as a technique to help\nyou make your room comfy.\nThere's more to it than\nthat, though. It can even\naffect your luck!\n{06 01 00 07 08 09}",
+   "et": ""
+  },
+  {
+   "id": 7,
+   "en": "{07 14 00}For example, {01 00 00 0f 00}I've heard it's\ngood to put yellow items\nagainst your west wall.\n{07 0e 00}Yellow furniture{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0f 00} Hm{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0f 00}\nI wonder,{07 0b 00} do I have any\nyellow furniture at home?",
+   "et": ""
+  },
+  {
+   "id": 8,
+   "en": "{07 0e 00}I'm not entirely sure how it\nall works, but{01 00 00 0f 00} {07 00 00}I hear that\nsomething good will happen\nif you put red furniture\nalong the eastern side of\nyour room, {01 00 00 05 00}{04 02 00}.",
+   "et": ""
+  },
+  {
+   "id": 9,
+   "en": "{07 14 00}If you want to try it, put\nsome green furniture in\nyour room's southern side.",
+   "et": ""
+  },
+  {
+   "id": 10,
+   "en": "{06 01 00 0c 0d 0e}",
+   "et": ""
+  },
+  {
+   "id": 11,
+   "en": "{07 04 00}Are you serious?{01 00 00 0f 00} {07 00 00}I could\nhave sworn you were\nalready a member.\n{07 16 00}Maybe I've got you confused\nfor someone else,\n{01 00 00 05 00}{04 02 00}.",
+   "et": ""
+  },
+  {
+   "id": 12,
+   "en": "{07 04 00}Really?{01 00 00 05 00} That's great.{01 00 00 0f 00} {07 14 00}All\nright, let me give you a\nfew tips, {01 00 00 05 00}{04 02 00}.\n{07 00 00}You know how you feel good{01 00 00 05 00}\n{07 0b 00}just being in a room that\nhas a real unity of color?\n{07 00 00}Well, that's what the {ff 00 00 02}HRA{ff 00 00 00}\nlooks for, so collect items\nthat are the same color.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n{07 0d 00}I guarantee that you'll like\nthe results as much as the\n{ff 00 00 02}Happy Room Academy{ff 00 00 00} does!",
+   "et": ""
+  },
+  {
+   "id": 13,
+   "en": "{07 04 00}Great!{01 00 00 05 00} I'm glad to hear\nthat.{01 00 00 0f 00} {07 14 00}Let me give you the\ninside scoop, {01 00 00 05 00}{04 02 00}.\nRare furniture, the sort of\nthing you get only at\nspecial occasions,\n{07 0d 00}gives you higher points\nthan plain old, everyday\nfurniture, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 14,
+   "en": "{07 04 00}Fantastic!{01 00 00 05 00} I'm glad.{01 00 00 0f 00} {07 14 00}You'll\nbe extra glad to hear this,\nthen, {01 00 00 05 00}{04 02 00}.\n{07 00 00}Don't just toss your stuff\non the floor.{01 00 00 05 00} Remember,\nnobody likes a slob. \nIt's important to keep your\nroom clean and to put your\nstuff away properly.",
+   "et": ""
+  },
+  {
+   "id": 15,
+   "en": "{06 00 00 11 12}",
+   "et": ""
+  },
+  {
+   "id": 16,
+   "en": "{06 00 00 13 14}",
+   "et": ""
+  },
+  {
+   "id": 17,
+   "en": "{07 0a 00}I couldn't agree with you\nmore, {01 00 00 05 00}{04 02 00}!{03 01 00 01}",
+   "et": ""
+  },
+  {
+   "id": 18,
+   "en": "{07 00 00}{0b 03 00}{04 1f 00}, if you want to\nhave lots of friends over,\njust let me know, OK?\nI'll try not to interrupt\nyour fun, {01 00 00 05 00}{04 02 00}. In\nfact, I'll just stay inside.\n{07 14 00}After all, you'll be busy\nshowing your friends all\nthe sights of {04 03 00}.",
+   "et": ""
+  },
+  {
+   "id": 19,
+   "en": "If you don't know, I'm not\ntelling you! You'll just have\nto try it and see.",
+   "et": ""
+  },
+  {
+   "id": 20,
+   "en": "{07 00 00}If you want to know,{01 00 00 05 00} invite\nsome friends to visit us\ntomorrow, {01 00 00 05 00}{04 02 00}!\n{07 14 00}You can have up to three\npeople visiting us here at\nthe same time.\n{07 0a 00}I'll even whip up some fresh\n{04 13 00} for you\nall to enjoy, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  }
+ ]
+}

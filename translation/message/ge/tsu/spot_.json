@@ -1,0 +1,115 @@
+{
+ "file": "script/ENG/message/ge/tsu/spot_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 0b 00}Oh, {04 1f 00}, have you{01 00 00 05 00}\nHEARD, {01 00 00 05 00}{04 02 00}?!\n\n{06 01 00 0f 10 11}",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{06 03 00 12 13}",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 00 00}The other day, I was just\nsorta chatting with {ff 00 00 06}Pete {ff 00 00 00}at\nthe {ff 00 00 08}town hall{ff 00 00 00}...\n{07 16 00}...and all of a sudden, I\nnotice {ff 00 00 06}Pelly {ff 00 00 00}looking daggers\nat me from the front desk!\n{07 0b 00}What do you think her deal\nwas?{01 00 00 05 00} Did I do something\nwrong, {01 00 00 05 00}{04 02 00}?",
+   "et": ""
+  },
+  {
+   "id": 3,
+   "en": "{07 0b 00}Hey, so, {01 00 00 05 00}did you know?{01 00 00 05 00}\n{07 00 00}{ff 00 00 06}Tom Nook {ff 00 00 00}looks all\nsuccessful, right? \n{07 15 00}Well, you wouldn't believe\nwhat that guy has been\nthrough, {01 00 00 05 00}{04 02 00}!\n{07 11 00}His feud with {ff 00 00 06}Sable{ff 00 00 00}!{01 00 00 0a 00}\nHis intense market-share\nbattle with {ff 00 00 06}Redd{ff 00 00 00}!\n.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 03 00}Hee hee hee hee hee!{01 00 00 0a 00}\nBoy, I have got a WILD\nimagination, huh?",
+   "et": ""
+  },
+  {
+   "id": 4,
+   "en": "{07 00 00}Boy, that {ff 00 00 06}Tom Nook{ff 00 00 00}... He\nsaves Bells like you WOULD\nNOT BELIEVE! {01 00 00 05 00}He's neurotic!\n{07 06 00}On the other hand, {ff 00 00 06}Sable{ff 00 00 00}...\nShe's so laid-back... What\na difference, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 5,
+   "en": "{07 00 00}So keep it under your hat,{01 00 00 05 00}\nbut I heard some dirt about\n{ff 00 00 06}Tom Nook{ff 00 00 00}...\n{07 15 00}Yeah, apparently he and\n{ff 00 00 06}Sable{ff 00 00 00} have some sort of\nrelationship, {01 00 00 05 00}{04 02 00}!\n{07 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 0b 00}Do you think it's true?{01 01 00}\n{07 16 00}Do you know anything?{01 00 00 05 00}\nAt all, {01 00 00 05 00}{04 02 00}?",
+   "et": ""
+  },
+  {
+   "id": 6,
+   "en": "{07 16 00}Is it just me, or is that\nowl {ff 00 00 06}Blathers{ff 00 00 00} always napping,\n{01 00 00 05 00}{04 02 00}?\nY'know, I heard he used to\nlive in the city... \n\n{07 16 00}Maybe he partied too much{01 00 00 05 00}\nand his internal clock got \nmessed up, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 7,
+   "en": "{07 00 00}You know that {ff 00 00 06}Blathers {ff 00 00 00}at \nthe {ff 00 00 08}museum{ff 00 00 00}, right?{01 00 00 05 00}\n\n{07 14 00}Well, I heard that he once\nwanted to be a pro \narchaeologist!\n{07 16 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}Boy, seems like EVERYONE\naround here has skeletons\nin the closet, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 8,
+   "en": "{07 00 00}I just remembered this\nrumor I heard about the\n{ff 00 00 08}museum{ff 00 00 00}{01 00 00 05 00} curator, {ff 00 00 06}Blathers{ff 00 00 00}...\n{07 14 00}I heard he's a college\ngraduate! {01 00 00 05 00}Not the hottest\nrumor, yeah, but whatever.\n{07 16 00}The thing is, I don't care\nhow many degrees you have,\nif you sleep all the time...\n...you're just NEVER gonna\nfind Ms. Right, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 9,
+   "en": "{07 14 00}Check it, {01 00 00 05 00}{04 1f 00}!{01 00 00 05 00}\nThis is what I like to call\nhome, {01 00 00 05 00}{04 02 00}!\n{07 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{01 00 00 05 00}{07 17 00}{07 13 00}Ahhhhhhhhhhhhhhhh!{01 00 00 05 00}\nIt feels SO good to know \nsomeone's appreciating me!",
+   "et": ""
+  },
+  {
+   "id": 10,
+   "en": "{07 15 00}Step 1: Buy furniture that\nlooks unique but isn't\nreally all that rare!\nStep 2: Hide all your junk\nand pretend it never\nexisted!\n{07 14 00}There you go! {01 00 00 05 00}My foolproof\nstrategy to fool the\n{ff 00 00 02}HRA{ff 00 00 00}, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 11,
+   "en": "{07 15 00}Hey, {01 00 00 05 00}what's with the tiptoe\naction, twinkle toes?\n\n{07 06 00}There's nothing to fear\non MY floor, that's for\nsure, {04 02 00}!\n{07 02 00}Gaaack!{01 01 00} {07 0f 00}I just stepped in\nthe {04 13 00} I\nspilled yesterday!",
+   "et": ""
+  },
+  {
+   "id": 12,
+   "en": "{07 04 00}Eeek!{01 00 00 0a 00} {0b 03 00}{04 1f 00}?!\n\n\n{07 06 00}Listen{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} Promise me you\nwon't tell what I was just\ndoing here, {01 00 00 05 00}{04 02 00}!\n{07 0b 00}Huh? {01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}You didn't see it?{01 01 00}\n{07 14 00}Oh, goooooood, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 13,
+   "en": "{07 06 00}Ow ow OW!{01 00 00 0a 00} My legs totally\nfeel like lead, {01 00 00 05 00}{04 02 00}!\n\n{07 16 00}Hey, c'mon, {04 1f 00}!{01 00 00 0a 00}\n{07 06 00}Gimme a piggyback ride back\nto my house!\n{06 03 00 14 15}",
+   "et": ""
+  },
+  {
+   "id": 14,
+   "en": "{07 16 00}Gosh, just getting back to\nmy place is gonna be such\na pain in the tush...\n{07 00 00}Think I oughta stay over at\n{04 0b 00}'s house for\n{07 0b 00}dinner tonight, {01 00 00 05 00}{04 02 00}?",
+   "et": ""
+  },
+  {
+   "id": 15,
+   "en": "{07 15 00}Boy, what a hot rumor!{01 00 00 05 00}\nThose gals {ff 00 00 06}Pelly {ff 00 00 00}and {ff 00 00 06}Phyllis\n{ff 00 00 00}from the {ff 00 00 08}town hall{ff 00 00 00}...\n{07 00 00}The way I hear it, they're\nafter the same guy! {01 00 00 05 00}No way\nis THAT gonna end well!\n{07 06 00}Sounds like the mess got\nas crazy as the Bermuda\nTriangle, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 16,
+   "en": "{07 00 00}There's this choice rumor \nthat {ff 00 00 06}Pelly {ff 00 00 00}is writing\nmessages in secret!\n{07 11 00}Yeah, on the {ff 00 00 08}bulletin board{ff 00 00 00}.{01 00 00 05 00}\nAnd supposedly she is\nLOVING it, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 17,
+   "en": "{07 00 00}The latest gossip is that\n{ff 00 00 06}Phyllis {ff 00 00 00}is actually super\nloving to her young sister!\nCould that mean that her\nhard shell hides a big, warm\nheart?{01 01 00} {07 06 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}Imagine that!",
+   "et": ""
+  },
+  {
+   "id": 18,
+   "en": "{07 04 00}Hey, you!{01 00 00 05 00} {07 0b 00}Look, you're not,\ny'know, INTO those girls at\nthe {ff 00 00 08}town hall{ff 00 00 00}, are ya?\n{07 16 00}'Cause, I mean, if you've\na crush on one of them,\nyou oughta reconsider.\n{07 14 00}Let's just say that the\nlives of adults are really\ncomplex, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 19,
+   "en": "{07 00 00}Listen, {04 1f 00}!{01 00 00 0a 00} {07 0b 00}Have\nyou heard the rumor about\nthe girl at the {ff 00 00 08}town hall{ff 00 00 00}?\n{07 16 00}There's so much hot gossip\ngoing around, I could host\na slimy talk show!\nI don't know what's true and\nwhat's not...\n\n{07 0d 00}...but I don't care! I'm\nalways on the girl's side!{01 00 00 05 00}\nDon't tell, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 20,
+   "en": "{07 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}Although, {01 00 00 05 00}actually...\n{07 16 00}You don't look burly enough,\nso never mind, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 21,
+   "en": "{07 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.{07 0b 00}{01 00 00 05 00}How was that?{01 00 00 0a 00} How was\nmy method acting,{01 00 00 05 00}\n{01 00 00 05 00}{04 02 00}?\n{07 14 00}I just wanted to see how\nyou'd react, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  }
+ ]
+}

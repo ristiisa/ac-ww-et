@@ -1,0 +1,405 @@
+{
+ "file": "script/ENG/message/sp/npc/drama2_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 1c 00}Phew{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n\n\n{07 00 00}That certainly was a time...{01 00 00 05 00}\nOh, but I'm terribly sorry!{01 00 00 0f 00}\nHow can I help you, hm?{02 07 00 00 00 00 19 00}\nI want to sell!\nCatalog, please!\nTurnip prices!\nWhat happened?\nNever mind.",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 1c 00}Oh me, oh my{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n\n\n{07 00 00}Oh,{01 00 00 05 00} I must apologize, hm?{01 00 00 0f 00}\nForgive this humble {ff 00 00 06}Nook{ff 00 00 00}!{01 00 00 0f 00}\nWhat can I do for you?{02 07 00 00 00 00 1b 00}\nI want to sell!\nCatalog, please!\nTurnip prices!\nWhat's wrong?\nNever mind!",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 1c 00}Hmmmm{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n\n\n{07 00 00}Whoops!{01 00 00 05 00} My apologies!{01 00 00 0f 00}\nWhat is it that I can do\nfor you, hm?{02 07 00 00 00 00 1e 00}\nI want to sell!\nCatalog, please!\nTurnip prices!\nTalk to me!\nNever mind!",
+   "et": ""
+  },
+  {
+   "id": 3,
+   "en": "{07 1c 00}Hmmph{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n\n\n{07 00 00}Oh, mercy!{01 00 00 05 00} I'm so sorry!{01 00 00 0f 00}\nWhat brings you here?{01 00 00 05 00}\nSome shopping, yes?{02 07 00 00 00 00 21 00}\nI want to sell!\nCatalog, please!\nTurnip prices!\nTalk to me!\nNever mind!",
+   "et": ""
+  },
+  {
+   "id": 4,
+   "en": "{07 1c 00}Ummmm{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n\n\n{07 00 00}Oh my,{01 00 00 05 00} I didn't see you!{01 00 00 0f 00}\nHow can I be at your\nservice, hm?{02 07 00 00 00 00 24 00}\nI want to sell!\nCatalog, please!\nTurnip prices!\nWhat's up?\nNever mind!",
+   "et": ""
+  },
+  {
+   "id": 5,
+   "en": "{07 1c 00}Oh my{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n\n\n{07 00 00}Good gracious,{01 00 00 05 00} I'm sorry!{01 00 00 0f 00}\nHow might I be able to help\nyou, hm?{02 07 00 00 00 00 27 00}\nI want to sell!\nCatalog, please!\nTurnip prices?\nSomething wrong?\nNever mind.",
+   "et": ""
+  },
+  {
+   "id": 6,
+   "en": "{07 1c 00}Mercy me{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n\n\n{07 00 00}Oh my!{01 00 00 05 00} Terribly sorry, hm?{01 00 00 0f 00}\nSomething I can perhaps\nhelp you with, yes?{02 07 00 00 00 00 2a 00}\nI want to sell!\nCatalog, please!\nTurnip prices!\nYou OK?\nNever mind.",
+   "et": ""
+  },
+  {
+   "id": 7,
+   "en": "{07 1c 00}Hrrrgh{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n\n\n{07 00 00}Oh,{01 00 00 05 00} I'm afraid I must beg\nyour pardon.{01 00 00 0f 00} What can I\nhelp you with, hm?{02 07 00 00 00 00 2d 00}\nI want to sell!\nCatalog, please!\nTurnip prices!\nWhat's going on?\nNever mind.",
+   "et": ""
+  },
+  {
+   "id": 8,
+   "en": "{07 1c 00}Harumph{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n\n\n{07 00 00}Oh my!{01 00 00 05 00} My,{01 00 00 05 00} excuse me!{01 00 00 0f 00}\nA thousand apologies!{01 00 00 05 00}\nWhat do you need, hm?{02 07 00 00 00 00 2f 00}\nI want to sell!\nCatalog, please!\nTurnip prices!\nYou look down.\nNever mind.",
+   "et": ""
+  },
+  {
+   "id": 9,
+   "en": "{07 1c 00}Hm{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n\n\n{07 00 00}Oh my,{01 00 00 05 00} terribly sorry.{01 00 00 0f 00}\nWhat business can I help\nyou with, hm?{02 07 00 00 00 00 31 00}\nI want to sell!\nCatalog, please!\nTurnip prices!\nYou seem down.\nNever mind.",
+   "et": ""
+  },
+  {
+   "id": 10,
+   "en": "{07 1c 00}Ummph{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n\n\n{07 00 00}Oh, gracious me!{01 00 00 05 00} I'm so\nterribly sorry, yes?{01 00 00 0f 00}\nCan I help you?{02 07 00 00 00 00 34 00}\nI want to sell!\nCatalog, please!\nTurnip prices!\nWhat's going on?\nNever mind.",
+   "et": ""
+  },
+  {
+   "id": 11,
+   "en": "{07 1c 00}Awwwww{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n\n\n{07 00 00}Oh.{01 00 00 05 00} Oh, you must forgive\nme!{01 00 00 0f 00} Whatever can I do for\nyou, hm?{02 07 00 00 00 00 36 00}\nI want to sell!\nCatalog, please!\nTurnip prices!\nHow are you?\nNever mind!",
+   "et": ""
+  },
+  {
+   "id": 12,
+   "en": "{07 1c 00}Psshhew{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n\n\n{07 00 00}Oh mercy,{01 00 00 05 00} I must offer my\napologies!{01 00 00 0f 00} What can I do for\nyou, hm?{02 07 00 00 00 00 39 00}\nI want to sell!\nCatalog, please!\nTurnip prices?\nWhat happened?\nNever mind.",
+   "et": ""
+  },
+  {
+   "id": 13,
+   "en": "{07 1c 00}Hmm{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n\n\n{07 00 00}Oh my,{01 00 00 05 00} how very rude.{01 00 00 0f 00}\nPlease accept my apology.{01 00 00 05 00}\nWhat do you need, hm?{02 07 00 00 00 00 3b 00}\nI want to sell!\nCatalog, please!\nTurnip prices!\nFeeling OK?\nNever mind!",
+   "et": ""
+  },
+  {
+   "id": 14,
+   "en": "{07 1c 00}Ohhhh{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n\n\n{07 00 00}Oh,{01 00 00 05 00} I'm awfully sorry!{01 00 00 0f 00}\nI was{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} Well, never mind.{01 00 00 05 00}\nWhat can I do for you, hm?{02 07 00 00 00 00 3d 00}\nI want to sell!\nCatalog, please!\nTurnip prices!\nTalk to me!\nNever mind!",
+   "et": ""
+  },
+  {
+   "id": 15,
+   "en": "{07 1c 00}Mmmmph{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n\n\n{07 00 00}Oh me! Oh my!{01 00 00 05 00} How rude of\nme!{01 00 00 0f 00} What can I help you\nwith, hm?{02 07 00 00 00 00 3f 00}\nI want to sell!\nCatalog, please!\nTurnip prices!\nWhat's up?\nNever mind!",
+   "et": ""
+  },
+  {
+   "id": 16,
+   "en": "{07 1c 00}Oh, mercy{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n\n\n{07 00 00}Whoops!{01 00 00 05 00} How very forgetful\nof me, yes?{01 00 00 0f 00} What can I do\nfor you, hm?{02 07 00 00 00 00 42 00}\nI want to sell!\nCatalog, please!\nTurnip prices!\nWhat's wrong?\nNever mind!",
+   "et": ""
+  },
+  {
+   "id": 17,
+   "en": "{07 1c 00}Grrrumph{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n\n\n{07 00 00}Oh,{01 00 00 05 00} I'm most awfully sorry!{01 00 00 0f 00}\nPlease, I insist you tell me\nwhat I can do for you, yes?{02 07 00 00 00 00 45 00}\nI want to sell!\nCatalog, please!\nTurnip prices!\nWhat happened?\nNever mind!",
+   "et": ""
+  },
+  {
+   "id": 18,
+   "en": "{07 1c 00}Oh boy{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n\n\n{07 00 00}Ah,{01 00 00 05 00} please forgive me.{01 00 00 0f 00}\nWhat brings you here to my\nestablishment, hm?{02 07 00 00 00 00 48 00}\nI want to sell!\nCatalog, please!\nTurnip prices!\nWhat happened?\nNever mind!",
+   "et": ""
+  },
+  {
+   "id": 19,
+   "en": "{07 1c 00}Oh me{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n\n\n{07 00 00}Oh my!{01 00 00 05 00} I couldn't be more\nsorry!{01 00 00 0f 00} What is it you need\nfrom me, hm?{02 07 00 00 00 00 4a 00}\nI want to sell!\nCatalog, please!\nTurnip prices!\nWhat happened?\nNever mind!",
+   "et": ""
+  },
+  {
+   "id": 20,
+   "en": "{07 1c 00}Oh dear{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n\n\n{07 00 00}Oh dear, {01 00 00 05 00}terribly sorry.\nForgive my woolgathering.{01 00 00 0f 00}\nCan I help you, hm?{02 07 00 00 00 00 4d 00}\nI want to sell!\nCatalog, please!\nTurnip prices!\nHow've you been?\nNever mind.",
+   "et": ""
+  },
+  {
+   "id": 21,
+   "en": "{06 01 00 16 17 18}",
+   "et": ""
+  },
+  {
+   "id": 22,
+   "en": "{07 00 00}Yes, yes,{01 00 00 05 00} I see.",
+   "et": ""
+  },
+  {
+   "id": 23,
+   "en": "{07 00 00}I believe I've said a bit too\nmuch, yes?",
+   "et": ""
+  },
+  {
+   "id": 24,
+   "en": "{07 00 00}I'm so very, very sorry!{01 00 00 05 00}\nI started talking and just\ncouldn't stop, hm?",
+   "et": ""
+  },
+  {
+   "id": 25,
+   "en": "{07 04 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}Well, {01 00 00 05 00}actually, {07 00 00}I was just\nthinking about the good\nold days, hm?\nI know it seems that the\nworld is my oyster, what\nwith my fine shop...\nBut in my childhood, I lived\nthe kind of life you\ncouldn't even imagine!{02 04 00 1a 15}\nReally?\nThat's enough.",
+   "et": ""
+  },
+  {
+   "id": 26,
+   "en": "{07 14 00}Yes, yes, but this was all\nsome time ago, before I\nmoved to this town, hm?\n{07 00 00}Of course, I was born in\nour lovely {04 03 00}, but\nI moved away for a time...\nYes, yes, the city years, I\nlike to call them.{01 00 00 05 00} I was a\nraccoon of action, hm?\nThe big city certainly had \nits charms{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}but it had its\npitfalls, as well.\n{07 16 00}Indeed, I had to endure\ncertain hardships that I've\nnever spoken of, hm?\n.{01 00 00 05 00}.{01 00 00 05 00}.{01 01 00}{07 14 00}Hard to believe, yes?\n\n\n{07 06 00}You're probably asking\nyourself,{01 00 00 05 00} what the heck is\n{ff 00 00 06}Nook{ff 00 00 00} talking about, hm?\n{07 14 00}For now, {04 00 00}, {01 00 00 05 00}maybe\nit's best that we forget \nwe ever talked about this.",
+   "et": ""
+  },
+  {
+   "id": 27,
+   "en": "{07 00 00}The other day, after I told\nyou a little about my past,\nyoung {04 00 00}...\nI started thinking more and\nmore about the days of my\nyouth, hm?{02 04 00 1c 15}\nNostalgic?\nThat's enough.",
+   "et": ""
+  },
+  {
+   "id": 28,
+   "en": "{07 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}Actually,{01 00 00 0f 00} I think you hit\nthe nail on the head! {01 00 00 05 00}Yes,\nyes, right on it!\nI don't know what's come\nover me. {01 00 00 05 00}I'm a businessman \nfirst and foremost...\n{07 03 00}I shouldn't let my mind\nwander while working, hm?\n\n{07 00 00}Work is work, and{01 00 00 0f 00} Bells are\nBells.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0f 00}{07 15 00} And the world can\nbe a cold, cruel place!{02 04 00 1d 15}\nDon't say that!\nThat's enough.",
+   "et": ""
+  },
+  {
+   "id": 29,
+   "en": "{07 04 00}Oh, an optimist, hm?\n\n\n{07 00 00}Well, well, {04 00 00}...\nI expected you to be more\ncynical than that, hm?\nTell me, have you ever\nin your life joined the\nwork force?\nIt's brutal!{01 00 00 05 00} The working\nworld is a tough place{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 01 00}\nDefinitely dog eat dog, hm?\nLet your guard down,{01 00 00 05 00} and\nbefore you know it, the\nMan's got you pinned!\nNo matter how grand your\ndreams are or how lofty\nyour goals become...\nIn the end,{01 00 00 05 00} in this world,{01 00 00 05 00}\nmoney is everything, hm?\n\n{07 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 15 00}Dreams alone aren't\nenough to make your belly\nfull, no!",
+   "et": ""
+  },
+  {
+   "id": 30,
+   "en": "{07 16 00}{0b 03 00}{04 00 00},{01 00 00 05 00} I'd like to\napologize for acting so\nself-important days ago{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 1c 00}I think I may have eaten\nsomething that disagreed \nwith me, yes?{02 04 00 1f 15}\nNot to worry!\nThat's enough.",
+   "et": ""
+  },
+  {
+   "id": 31,
+   "en": "{07 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}Yes, yes, {04 00 00}...\n\n\n{07 0b 00}I already mentioned to you\nthat I'd spent some of my\nyouth in the city, yes?\n{07 00 00}To be honest, there's a \nbitter memory that I have\nof that time...\nI haven't quite come to\nterms with it, you see{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 01 00}\nMay I tell you about it?{02 04 00 20 15}\nSure.\nI'll pass.",
+   "et": ""
+  },
+  {
+   "id": 32,
+   "en": "{07 00 00}Yes, yes, thanks much!{01 00 00 05 00}\nYou see, I had visions of\nsuccess in the big city...\nSuch visions led me from\n{04 03 00} and into \nthe cold arms of the city.\nSoon after I arrived, I\ndiscovered metropolitan\nlife to be difficult...\nI was most unprepared, yes?{01 00 00 05 00}\nAnd soon, it was one error\nafter another for me{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\nYes, yes, I lost everything.{01 00 00 05 00}\nI gathered my few meager\npossessions and slunk home.\n{07 16 00}Yes, city life was rough{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\nSavage and wild{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n\n{07 00 00}But all was not dire, hm?{01 00 00 05 00}\nBecause I experienced the\ndespair of rock-bottom...\n{07 14 00}I was able to push myself\nto become the success{01 00 00 05 00} that\nI am now, yes?",
+   "et": ""
+  },
+  {
+   "id": 33,
+   "en": "{07 00 00}Yes, yes, {04 00 00}...\nI've already shared much\nwith you already, hm?{01 00 00 05 00}\nAt this point, I'd thank you\nmuch if you could hear me\nout to the end, yes?{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{02 04 00 22 15}\nLay it on me!\nThat's enough.",
+   "et": ""
+  },
+  {
+   "id": 34,
+   "en": "{07 00 00}Yes, my big-city dreams\nshattered in its heartless\nstreets, so I returned, hm?\nOnce back in {04 03 00},\nthere was a period where\nI did absolutely nothing{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 06 00}When I left,{01 00 00 05 00} I was bragging\nto everyone about what a\nsuccess I was going to be...\n{07 1c 00}And then I returned without\na thing,{01 00 00 05 00} my tail between\nmy legs{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 00 00}I was so depressed that{01 00 00 05 00}\neven the kind words of my\nfriends hurt me, hm?\n{07 16 00}When they tried to console\nme,{01 00 00 05 00} I would push them away\nand even yell at them!\n{07 00 00}Appalling. {01 00 00 05 00}When I think of\nmy behavior, {01 00 00 05 00}I'm mortified\nby the way I acted...{02 04 00 23 15}\nTake it easy.\nThat's enough.",
+   "et": ""
+  },
+  {
+   "id": 35,
+   "en": "{07 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}No, I was wrong, and I got\nworse. {01 00 00 05 00}I had a friend who\nwas my biggest supporter...\nWe grew up together, hm?{01 00 00 0f 00}\nShe wasn't what you would\ncall a verbose girl, but...\n{07 16 00}She was the first to tell\nme{01 00 00 05 00} that I could never give\nup on my dreams.\n{07 00 00}But I...{01 00 00 05 00} One day I{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\nI turned to her and{01 00 00 05 00} said\nthese words:\n{07 15 00}\"{ff 00 00 02}Dreams are nothing in \nthe face of money{ff 00 00 00}!\"\n\n{07 00 00}She turned her back on me.{01 00 00 05 00}\nFrom that day on,{01 00 00 05 00} we were\nnever the same again, hm?\nThe strange thing is, {01 00 00 05 00}her\nwords of encouragement{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\nare still with me today.",
+   "et": ""
+  },
+  {
+   "id": 36,
+   "en": "{07 15 00}Hmmph!{01 00 00 0f 00} I cannot BELIEVE\nthe audacity of {ff 00 00 06}Timmy {ff 00 00 00}and\n{ff 00 00 06}Tommy{ff 00 00 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{02 04 00 25 15}\nWhat happened?\nThat's enough.",
+   "et": ""
+  },
+  {
+   "id": 37,
+   "en": "{07 00 00}Do they honestly think I\ncan't tell the two of them\napart, I wonder?\nThe fact that they come to\nme individually for their\npaychecks makes me leery...\n{07 15 00}I think{01 00 00 05 00} it's their way of\nchallenging my intellect.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0f 00}\nTesting me, hm?{02 04 00 26 15}\nNah!\nThat's enough.",
+   "et": ""
+  },
+  {
+   "id": 38,
+   "en": "{07 00 00}Yes, yes, well, no way to be\nsure, of course.{01 00 00 0f 00} But you\nshould know, {04 00 00}...\n{07 0e 00}I know how to tell \n{ff 00 00 06}Timmy{ff 00 00 00} and{ff 00 00 06} Tommy {ff 00 00 00}apart{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n\n{07 00 00}The one with the mole on\nhis left wrist is young\n{ff 00 00 06}Tommy{ff 00 00 00}, yes?\nAnd the one with the mole\non his right wrist is little\n{ff 00 00 06}Timmy{ff 00 00 00}!\n{07 04 00}Hm?{01 01 00} {07 0e 00}Wait, that is, unless{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0f 00}\n{07 06 00}Maybe I have that\nreversed, hm?",
+   "et": ""
+  },
+  {
+   "id": 39,
+   "en": "{07 00 00}Hrrmmph{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n\n\n{07 1c 00}{ff 00 00 06}Timmy {ff 00 00 00}and {ff 00 00 06}Tommy {ff 00 00 00}are\ngetting too sneaky for \ntheir own good!{02 04 00 28 15}\nWhat happened?\nThat's enough!",
+   "et": ""
+  },
+  {
+   "id": 40,
+   "en": "{07 00 00}Well{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} Let me first say\nthat every night, before I\nturn in... \nI treat myself to a lick of\nsweet, sweet honey, yes?\n\nAn indulgence, yes, but in\nmy line of work, you use\nyour head all the time...\nAt the end of the day, all\nyou want is something sweet\nto eat, hm?{02 04 00 29 15}\nAnd?\nThat's enough!",
+   "et": ""
+  },
+  {
+   "id": 41,
+   "en": "And{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}that honey, {01 00 00 05 00}MY honey,\nthe delicious honey that I\nsample every night...\n{ff 00 00 06}{07 15 00}Timmy {ff 00 00 00}and {ff 00 00 06}Tommy {ff 00 00 00}went and\nate the entire jar! {01 00 00 05 00}I was\novercome with rage, yes?\n.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}I consider myself a\npatient individual, but I\njust lost it!\n{07 06 00}I was so enraged,{01 00 00 05 00} I even\nbroke a vase on the show\nfloor, hm?\n{07 00 00}But{01 00 00 05 00} those crafty imps{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\nTheir excuse pulled at my\nheartstrings{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 0d 00}\"{ff 00 00 02}We want to become just\nlike you, Mr. Nook, because\nwe admire you so, hm?{ff 00 00 00}\n\"{ff 00 00 02}That's why, while we knew\nit was wrong, {01 00 00 05 00}we ate all of\nyour delicious honey!{ff 00 00 00}\"\n{07 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}How could I stay mad, hm?{01 00 00 05 00}\nI smiled at the scamps and\nsent them on their way!",
+   "et": ""
+  },
+  {
+   "id": 42,
+   "en": "{07 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}Ugh.{01 00 00 05 00}.{01 00 00 05 00}.\n\n\nIt's not that I want to live\na life of solitude forever,\nhm?{02 04 00 2b 15}\nYou have kids!\nThat's enough.",
+   "et": ""
+  },
+  {
+   "id": 43,
+   "en": "{07 04 00}Hm?!{01 01 00}{07 03 00} Oh ho ho ho!{01 00 00 05 00} No, no{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n{04 00 00}, {01 00 00 05 00}how old do you\nthink I am, hm?\n{ff 00 00 06}{07 00 00}Tommy{ff 00 00 00} and {ff 00 00 06}Timmy{ff 00 00 00} are not\nmy children!\n\nThose two are just my \nemployees, yes?{01 00 00 05 00} We're not\nrelated at all!\n{07 19 00}I like to think of them as\nmy {ff 00 00 02}pupils{ff 00 00 00} and myself as\ntheir {ff 00 00 02}mentor{ff 00 00 00}, hm?{01 00 00 05 00}\n{07 0b 00}Haven't you heard them call\nme \"{ff 00 00 06}Mr. Nook{ff 00 00 00}\" before?\n\n{07 03 00}I don't know about you, but{01 00 00 05 00}\nI've never seen a kid call\nhis dad \"Mr. Something\"!{02 04 00 2c 15}\nI see.\nThat's enough!",
+   "et": ""
+  },
+  {
+   "id": 44,
+   "en": "{07 14 00}I'm still just a swinging\nbachelor, yes? \n\n{07 06 00}People usually assume that \nI'm divorced or something, \nbut I've never married, hm?\n{07 04 00}What?{01 01 00}{07 00 00} Oh{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n\n\nWell, {04 00 00}, I guess\nthere's no need to explain\nthen,{01 00 00 05 00} is there, hm?",
+   "et": ""
+  },
+  {
+   "id": 45,
+   "en": "{07 00 00}Yes, yes, {04 00 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\nI'd like to ask you a\nslightly strange question.\n{07 0b 00}What do you think{01 00 00 05 00} about the\nway that I dress, hm?\n\n{07 00 00}Do you think I command the\nrespect that the owner of\na shop ought to?{02 04 00 2e 15}\nUh, maybe?\nThat's enough!",
+   "et": ""
+  },
+  {
+   "id": 46,
+   "en": "{07 00 00}Are you trying to confuse\nme? {01 00 00 05 00}Does it please you to\ntaunt me, hm?\n{07 15 00}I'm most certainly not\ntrying to imitate those\nyoung hipsters, you know!\n{07 00 00}Yes, yes, I see how it is.{01 00 00 05 00}\nYour eyes betray your\nthoughts, {04 00 00}.\n{07 1c 00}These clothes just don't\nsuit me{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n",
+   "et": ""
+  },
+  {
+   "id": 47,
+   "en": "{07 00 00}.{01 00 00 05 00}.{01 00 00 05 00}{01 00 00 05 00}.Remember the other day,\n{04 00 00},{01 00 00 0f 00} when you said{01 00 00 05 00}\nmy clothes were ugly, hm?\n.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}I was reminded of it\nwhen{ff 00 00 06} Mabel{ff 00 00 00} said the exact\nsame thing to me{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{02 04 00 30 15}\nThought so!\nThat's enough!",
+   "et": ""
+  },
+  {
+   "id": 48,
+   "en": "{07 00 00}That {ff 00 00 06}Mabel{ff 00 00 00}!{01 00 00 05 00} Such insolence!{01 01 00}\n{07 14 00}\"{ff 00 00 02}Tom Nook! You should really\ntry to dress more hip!\n{ff 00 00 00}\"{ff 00 00 02}I bet my sister would\ntotally tailor a suit for\nyou for free!{ff 00 00 00}\"\n{07 00 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}She was holding forth\non subjects she clearly\nknows nothing about, hm?\n{07 1b 00}Yes, yes, her conduct just\ngoes to show that {ff 00 00 06}Mabel{ff 00 00 00} is\nstill{01 00 00 05 00} a child.\n{07 00 00}At her age, {01 00 00 05 00}she shouldn't be\nexpected to understand a\nman's aesthetics, yes?\nIt's no slight against the\ngirl, I assure you. {01 00 00 05 00}It's just\nthe way of things, hm?",
+   "et": ""
+  },
+  {
+   "id": 49,
+   "en": "{07 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}Well, a customer told me\ntoday {01 00 00 0f 00}that my clothes are\ntoo old-fashioned, hm?\nShe looked me square in the\nface when she said it, as\nwell! {01 00 00 05 00}Unbelievable, yes?\n{07 0f 00}It was a bit of a shock,\nactually{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{02 04 00 32 15}\nWas she mean?\nThat's enough!",
+   "et": ""
+  },
+  {
+   "id": 50,
+   "en": "{07 15 00}Yes, yes, she was, at that!{01 01 00}\n{07 00 00}Why, back when I lived in\nthe city...\nI was known as the famous\n\"Off-the-Hook Nook\"!{02 04 00 33 15}\nWhy?\nThat's enough!",
+   "et": ""
+  },
+  {
+   "id": 51,
+   "en": "{07 00 00}Oh, some sort of slang, hm?{01 00 00 05 00}\nThe point is, looks are part\nof business, {04 00 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\nA businessman should never{01 00 00 05 00}\nstand out more than his\ncustomers, yes?\n{07 15 00}His mannerisms, his clothes,\neverything about him{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\nModeration is the key, hm?\n{07 00 00}Besides, looking a bit\noutdated also puts older\ncustomers' minds at ease!",
+   "et": ""
+  },
+  {
+   "id": 52,
+   "en": "{07 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}Well, {01 00 00 05 00}I've been seriously\nconsidering a new business\nprospect lately, hm?\n{07 06 00}But the one who would be\nmy partner is reluctant to\nagree, unfortunately.\n{07 00 00}If it goes well here, I know\nit will be a hit in the big \ncity too, yes?{02 04 00 35 15}\nWhat is it?\nThat's enough!",
+   "et": ""
+  },
+  {
+   "id": 53,
+   "en": "{07 00 00}Yes, yes, it's novel! {01 00 00 05 00}It's{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n{07 0d 00}a select shop that carries\nclothes and sundries!\n{07 00 00}The shop would have a very\ndistinct flavor and a stock\nof only items I like, hm?\nI've been exchanging letters\nwith a friend who I knew\nwhen I lived in the city...{01 00 00 05 00}\nShe's been sending me all\nkinds of incredibly valuable\ninformation, yes?\nShe said that shops of this\nsort are booming{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.even in\nthe big city!\nBut while{01 00 00 05 00} I'd be able to\nsupply the sundries{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.I still\nneed the clothes.\n{07 1c 00}Ah well,{01 00 00 0f 00} I guess I'll have to\ngo talk to the sisters\nagain tomorrow, hm?",
+   "et": ""
+  },
+  {
+   "id": 54,
+   "en": "{07 04 00}Hm?!{01 00 00 0f 00} Ah, yes, of course{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n{07 00 00}Are you talking about{01 00 00 05 00} the\nselect shop of mine?\nWell, I've given up on that!{01 00 00 0f 00}\nI've given up on that \nwholeheartedly, yes?{02 04 00 37 15}\nWhy?\nStop already!",
+   "et": ""
+  },
+  {
+   "id": 55,
+   "en": "{07 00 00}I talked to {ff 00 00 06}Sable {ff 00 00 00}from the \ntailor shop, and she\nconvinced me...\n\"{ff 00 00 02}Tom Nook{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} Are you sure\nthis shop{01 00 00 05 00} will catch on?{ff 00 00 00}\"\nshe said.\nAnd with those words...{01 00 00 05 00}\n{07 04 00}I snapped out of it{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n\n{07 00 00}Yes, yes, I'm sure I seemed\na little wild-eyed and\nreckless lately, hm?\nI was very fortunate to\nhave level-headed{ff 00 00 06} Sable\n{ff 00 00 00}there to set me straight{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\nWhat do I know about\nclothes{01 00 00 0f 00} and the big city?\n\n{ff 00 00 06}Sable {ff 00 00 00}works hard every day,\nwith her eye on one simple \ngoal. {01 00 00 05 00}Commendable, hm?{02 04 00 38 15}\nExactly!\nGimme a break!",
+   "et": ""
+  },
+  {
+   "id": 56,
+   "en": "{07 19 00}I'm glad you agree, hm?{01 00 00 0f 00}\nI've got to keep my eyes on\nthe prize, too!{07 00 00}\n{07 00 00}Yesterday, I took those\nletters from the city and\ntore them all to shreds!\nI truly have to say{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 01 00}\n{07 1c 00}Hmmmmmph{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n\n{ff 00 00 06}{07 16 00}Sable {ff 00 00 00}is always the voice of\nreason,{01 00 00 05 00} there to snap me\nback into reality{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 00 00}We've been friends for a\nlong time,{01 00 00 05 00} but her wisdom\noccasionally frustrates me.",
+   "et": ""
+  },
+  {
+   "id": 57,
+   "en": "{07 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}Young {04 00 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\nI bet you think...\n\n...that all I think about is\nmoney and how to make\nmore of it, hm? {07 0b 00}Don't you?{02 04 00 3a 15}\nWell, yeah.\nEnough!",
+   "et": ""
+  },
+  {
+   "id": 58,
+   "en": "{07 00 00}Well, perhaps you're right{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\nBut I'm absolutely, 100%{01 00 00 05 00}\nOK with that, hm?{01 00 00 05 00} Indeed!\n{07 15 00}I like to think that it's\nmy job to show you young \npeople how hard life is!\nAs an adult, it's my\nresponsibility.{01 00 00 05 00} It's my TRUE\njob, if you will, hm?",
+   "et": ""
+  },
+  {
+   "id": 59,
+   "en": "{07 00 00}I know that I look like the\nvery embodiment of a\nsuccessful businessman...\nIn my youth, however, I had\nmy share of terrible \nmistakes, you know!{02 04 00 3c 15}\nReally?\nEnough!",
+   "et": ""
+  },
+  {
+   "id": 60,
+   "en": "{07 00 00}Yes, yes, that was a rough\ntime for me{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n\n{07 16 00}Accidents and mistakes are\ndifficult to get over, hm?\n\nYes, I lost more than just\nmoney.{01 00 00 05 00} I lost a friend{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n\nWorst of all,{01 00 00 05 00} my passion\nfaded, and that is a thing\nno man can live without.\n{07 15 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}Listen up, {01 00 00 0f 00}{04 00 00}.{01 00 00 0f 00}\n\"Easy\" moneymaking schemes\nare NEVER easy, hm?\nIf such a deal should\npresent itself to you, I'd\nadvise a quick retreat!",
+   "et": ""
+  },
+  {
+   "id": 61,
+   "en": "{07 00 00}My point is, {04 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\nThis town is laid-back and\neasy to live in.\n{07 15 00}Life in the city is\ncompletely different{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\nIt's a scary place, yes?\n{07 0e 00}It's a place where, unless\nyou have money, no one will\ngive you the time of day{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 15 00}It's just as they say, hm?{01 00 00 05 00}\nA concrete jungle!{02 04 00 3e 15}\nReally?\nOK, OK!",
+   "et": ""
+  },
+  {
+   "id": 62,
+   "en": "{07 15 00}Yes, yes, really.{01 00 00 05 00} Assuredly!{01 01 00}\n{07 00 00}Take the big-city banks, \nfor example{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 15 00}They will deny a young man\na loan, though they know\nnothing of his character!\n{07 00 00}But I'm smarter now, yes?{01 00 00 05 00}\nI know that you must take\nthe branch manager out!\nYou must woo his financial\ninstincts if you are to get\nhim on your side, hm?\n{07 1c 00}Yes, yes, sadly, I lacked\nthat knowledge when I was a\nyoung, naive raccoon.\n{07 00 00}In fact, I got so upset{01 00 00 05 00}\nthat I went on a tirade to\nend all tirades, hm?\nAnd the rest is history.{01 00 00 05 00}\nYes, yes, sad history{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n\n{07 16 00}Back then, I was so very\nignorant, hm?\n\n{07 00 00}But such is the price of{01 00 00 05 00}\nthe passion of youth{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.",
+   "et": ""
+  },
+  {
+   "id": 63,
+   "en": "{07 00 00}I told you about how, in my\nyouth, {07 0b 00}I made that mistake\nin the city, yes?\n{07 00 00}Well, I tell you such things\nso you don't have to go\nthrough the same trials.\nIf you're going into\nbusiness, be sure to do a\nlittle of everything, hm?{02 04 00 40 15}\nWhy?\nLeave me alone!",
+   "et": ""
+  },
+  {
+   "id": 64,
+   "en": "{07 00 00}Well, I'll tell you!{01 00 00 05 00}\n{07 15 00}That way, you're diversified\nand risk less, yes?\n{07 00 00}Having a wider focus has\na downside, of course{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}. \n\nYes, yes, you've got a lot \nmore to keep track of, hm?\n\nBut imagine the alternative!{01 00 00 05 00}\nWhen you're banking on one\nthing and it goes under{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\nYou lose everything, hm?{01 00 00 05 00}\nA fate worse than death!{02 04 00 41 15}\nOh, I get it.\nStop!",
+   "et": ""
+  },
+  {
+   "id": 65,
+   "en": "{07 04 00}Do you truly, {01 00 00 05 00}{04 00 00}?{01 00 00 0f 00}\n{07 00 00}Well, then, here's what you\nmust do{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\nExpand your business only\nas far as you yourself can\nkeep track of, yes?\nTrust no one! {01 00 00 05 00}In this area,\nyou can't hire someone to\nmanage for you.\n{07 16 00}The city is very scary, hm?{01 00 00 05 00}\nSay you have someone you\ntrust. {01 00 00 05 00}Why, they might...\n{07 15 00}They might be waiting for\nyou to turn your back so\nthey can take your assets!{01 00 00 05 00}\n{07 00 00}So, remember my words, hm?{01 00 00 05 00}\nExpand your field only as\nfar as you can manage{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\nThough it sounds easy, it's \nnot!{01 00 00 05 00} And it's the crux of \ngood business!",
+   "et": ""
+  },
+  {
+   "id": 66,
+   "en": "{07 00 00}I wonder, {01 00 00 05 00}{04 00 00}...{01 00 00 0f 00}\nDo you know... \n\n{07 0b 00}...the number-one reason\nfriends become enemies?{02 04 00 43 15}\nNo, what?\nStop!",
+   "et": ""
+  },
+  {
+   "id": 67,
+   "en": "{07 15 00}Well{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} It all starts with\na small loan between pals.\n\n{07 00 00}No matter how much you \ntrust someone...\n\n...you should never let a \nfriend borrow money, hm?\n\nUnless you're willing to loan\nit to them assuming you'll\nnever get it back,\nif a friend approaches\nyou asking for help, you\nmust be firm and say no!{02 04 00 44 15}\nAll right, fine!\nEnough!",
+   "et": ""
+  },
+  {
+   "id": 68,
+   "en": "{07 15 00}It sounds callous, but no!{01 00 00 05 00}\nThe longer you live, the\nmore you'll understand{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 00 00}Even the most solid\nfriendships become fragile\nwhen money is involved, hm?\nThis is something that I \nlearned firsthand when I\nwas young. {01 00 00 05 00}It's the truth!",
+   "et": ""
+  },
+  {
+   "id": 69,
+   "en": "{07 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}Yes, yes, well{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n\n\nI told you about how I lost\nmy dream in the cold heart\nof the big city, yes?\nWell, I should admit{01 00 00 05 00} that in\npoint of fact, that dream\nstill exists{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{02 04 00 46 15}\nReally?\nEnough!",
+   "et": ""
+  },
+  {
+   "id": 70,
+   "en": "{07 00 00}Yes, yes, it lives on,{01 00 00 05 00} but I\nknow better now{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n\n{07 15 00}You can't live off of \ndreams alone, hm?\n\n{07 00 00}In the end,{01 00 00 05 00} what really\nmatters is money{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n\nI know it's depressing, but{01 00 00 05 00}\nit's the truth.{02 04 00 47 15}\nUh...\nStop already!",
+   "et": ""
+  },
+  {
+   "id": 71,
+   "en": "{07 06 00}Oh,{01 00 00 05 00} I'm so very sorry!{01 00 00 0f 00}\nI started getting carried\naway, there, hm?\n{07 00 00}I should know that{01 00 00 05 00}{07 16 00} a youth\nlike you{01 00 00 05 00} doesn't want to\nhear about MY youth{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n{07 14 00}Yes, yes,{01 00 00 0f 00} I'm not going to \ntalk about it anymore!\n\nIf you would, do me a\npersonal favor and forget I\never said anything, hm?",
+   "et": ""
+  },
+  {
+   "id": 72,
+   "en": "{07 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}You know {ff 00 00 06}Harriet{ff 00 00 00}, the\nhairdresser who recently\nmoved into my store, yes?\nWell, just the other day,\nshe said to me{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n\n{01 04 00}\"{ff 00 00 02}Nook, sugar, have you ever\nthought about changing your\nhairstyle just a skosh?{ff 00 00 00}\"{01 05 00}{02 04 00 49 15}\nAHHH ha ha ha!\nStop, please!",
+   "et": ""
+  },
+  {
+   "id": 73,
+   "en": "{07 01 00}Well, I never!{01 00 00 05 00} How very rude\nof you!\n\n{07 15 00}You may not believe this,\nsince it's not incredibly\nobvious to the naked eye...\nBut I trim my hair every\nday, hm?{01 01 00} Without fail!\n\n{07 00 00}And on top of that, \ndepending on how I feel\nthat day, I customize it!\n{07 06 00}Now, perhaps it might be a\nlittle too subtle for most\npeople, but{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 00 00}That's how I{01 00 00 05 00} express myself!{01 00 00 05 00}\nIt's where I let it all hang\nout, as they say, hm?{01 00 00 05 00}\nDon't think{01 00 00 05 00} I've not tried\nalternatives! {01 00 00 05 00}This is the\nonly style that suits me!",
+   "et": ""
+  },
+  {
+   "id": 74,
+   "en": "{07 00 00}{0b 03 00}{04 00 00}, it's all right\nto ask you something, yes?\n\n{07 0b 00}Do you happen to know what\na \"petriperm\" is?{02 04 00 4b 15}\nUh, a rock band?\nEnough!",
+   "et": ""
+  },
+  {
+   "id": 75,
+   "en": "{07 00 00}Uh, no,{01 00 00 05 00} I don't believe so.{01 00 00 05 00}\nThe other day, {ff 00 00 06}Harriet {ff 00 00 00}came\nup to me and said...\n{01 04 00}\"{ff 00 00 02}Nook, I bet you'd look \nabsolutely scrumptious in\na petriperm!{ff 00 00 00}\"{01 05 00}\nWell, {01 00 00 05 00}{04 00 00}?{01 00 00 0f 00}\n.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 0b 00}What do you think?{01 00 00 0f 00}\nA \"petriperm\"???{02 04 00 4c 15}\nNo idea.\nWho cares?!",
+   "et": ""
+  },
+  {
+   "id": 76,
+   "en": "{07 00 00}I have no idea either, hm?{01 00 00 05 00}\nWhen she asked me, I got\npanicky and said...\n{07 04 00}{01 04 00}\"{ff 00 00 02}Oh,{01 00 00 05 00} yes, yes, {01 00 00 05 00}a petriperm.{01 00 00 05 00}\nI had those all the time\nwhen I was younger!{ff 00 00 00}\"{01 05 00}\n{07 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}Yes, yes,{01 00 00 05 00} a blatant lie.{01 00 00 05 00}\nI acted like I knew what it\nwas, yes?\n{ff 00 00 06}Harriet{ff 00 00 00} just laughed{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n\n\n{07 0e 00}Petriperm!{01 00 00 05 00} Petriperm{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\nWhat in the world could\nthat mean, hm?\n{07 00 00}Ugh{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0f 00} {07 06 00}Thinking about this is\nsure to steal sleep from\nme tonight!",
+   "et": ""
+  },
+  {
+   "id": 77,
+   "en": "{07 00 00}Well{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0f 00} You remember that\nword that had us stumped,\nyes?\nI finally figured it out!{01 00 00 05 00}\nI now know precisely what\na \"petriperm\" is!{02 04 00 4e 15}\nWhat?\nDon't care.",
+   "et": ""
+  },
+  {
+   "id": 78,
+   "en": "{07 00 00}Yes, yes, I'll tell you!{01 00 00 05 00}\nA \"petriperm\" is...\n\n{07 15 00}...simply a shortened\nversion of the term\n\"petrified perm\"!{02 04 00 4f 15}\nAh ha ha ha!\nUgh.",
+   "et": ""
+  },
+  {
+   "id": 79,
+   "en": "{07 06 00}It's no laughing matter, hm?{01 01 00}\n{07 16 00}Do you even know what a\npetrified perm is?\n{07 00 00}They take a very skinny\ncurling iron and give you\nvery tight curls, yes?\nThe curls are firm as rock!{01 00 00 05 00}\nWhy, if I did that, I'd look\nlike a circus clown!\n{07 0e 00}I'd be the laughing stock of\ntown, hm? {07 06 00} They'd ask where\nmy red nose was!\n{07 0f 00}Ugh{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} How mortifying, hm?{01 00 00 0f 00}\nThe very thought makes me\nfeel such humiliation...\n{07 00 00}That{01 00 00 05 00} {ff 00 00 06}Harriet{ff 00 00 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n\n\n{07 0e 00}She probably knew I'd feel\nthis way.{01 00 00 05 00} That must be why\nshe was laughing, hm?\n{07 05 00}Ugh!{01 01 00} I swear, I will never\nagain play the fool for\nsome big-city girl!",
+   "et": ""
+  }
+ ]
+}

@@ -1,0 +1,20 @@
+{
+ "file": "script/ENG/message/bo/q03/return_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 0a 00}You know what?{01 00 00 0a 00} I just LOVE\nthe smell of fossils,\n{01 00 00 0a 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 14 00}Uh huh huh huh!{01 00 00 0a 00} I already\nknow where I'm going to put\nthis thing,{01 00 00 0a 00} {04 02 00}.",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 00 00}I'm gonna go to sleep\nnext to this fossil tonight!\n\n{07 0a 00}I'm gonna have{01 00 00 0a 00} the coolest\ndreams ever,{01 00 00 0a 00} {04 02 00}!",
+   "et": ""
+  }
+ ]
+}

@@ -1,0 +1,20 @@
+{
+ "file": "script/ENG/message/ge/q05/talk3_5_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 14 00}{0b 03 00}{04 1f 00},{01 00 00 05 00} like, thank you\nSO SUPER MUCH!{01 00 00 0a 00} Who's the\nbest? {01 00 00 0a 00}{07 0a 00}{0b 03 00}{04 1f 00}!",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 0d 00}I'm only one step away from\nfinishing my dream room,\n{01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 15 00}This is the BIG test!{01 00 00 0a 00} {07 00 00}{07 19 00}Do it\nand you TOTALLY pass,\n{01 00 00 05 00}{04 1f 00}!{01 00 00 05 00} Good luck!",
+   "et": ""
+  }
+ ]
+}

@@ -1,0 +1,20 @@
+{
+ "file": "script/ENG/message/ha/q/timeover_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 1d 00}Hey yo,{01 00 00 05 00} {04 1f 00}!{01 00 00 05 00}\nGuess what, {04 02 00}!\n\n{07 00 00}{0b 03 00}{ff 00 00 06}{04 0f 00} {ff 00 00 00}was looking for\nyou earlier, {01 00 00 05 00}{04 02 00}...\n\nYeah, sporting some angry\nforehead wrinkles, too!{01 00 00 05 00}\n{07 15 00}Looked really cheesed off!\nYeah, boy, if I were you,\n{07 0b 00}wouldn't it be smart to\ncheck in, {01 00 00 05 00}{04 02 00}?",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 00 00}Yo yo,{01 00 00 05 00} {04 1f 00}!\n\n\n{0b 03 00}{ff 00 00 06}{04 0f 00} {ff 00 00 00}was running\naround earlier, yelling your\nname like a fire alarm!\nNot sure what's going on,{01 00 00 05 00}\n{07 0b 00}but it sure SEEMED like an\nemergency, {01 00 00 05 00}{04 02 00}!\n{07 00 00}Better go check it out\nright away, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 1d 00}Oh, hey,{01 00 00 0a 00} {ff 00 00 05}{04 1f 00}{ff 00 00 00}!\n\n\n{07 16 00}{0b 03 00}{ff 00 00 06}{04 0f 00} {ff 00 00 00}was looking for\nyou, looking about as mad\nas I've ever seen an animal.\n{07 06 00}Whatever went down, I'd\nadvise you to go apologize,\nand quick!",
+   "et": ""
+  }
+ ]
+}

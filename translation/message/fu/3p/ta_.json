@@ -1,0 +1,105 @@
+{
+ "file": "script/ENG/message/fu/3p/ta_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{09 01 00}{09 08 00}{07 14 00}Want to see me do my\nimpression of you,\n{ff 00 00 06}{04 10 00}{ff 00 00 00}? Here, watch!\n{ff 00 00 02}{07 1b 00}{ff 00 00 00}\"{ff 00 00 02}What's up with your hair?\nIt looks like someone left\nyou out in the rain!{ff 00 00 00}\"\n{07 0b 00}So what do you think,{ff 00 00 02}\n{ff 00 00 06}{04 10 00}{ff 00 00 00}? That was\nspot-on, huh, {04 02 00}?{09 09 00}",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{09 01 00}{09 08 00}{07 00 00}Hey, {01 00 00 05 00}{ff 00 00 06}{04 10 00}{ff 00 00 00}, what one\nphrase {07 0b 00}describes you best,\nand why, {01 00 00 05 00}{04 02 00}?{07 00 00}{09 09 00}",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{09 01 00}{09 08 00}{07 00 00}If I had to say there was\none thing I liked about you,\n{ff 00 00 06}{04 10 00}{ff 00 00 00}, it would be...\nthat you're so confident.\nYou come right out and say\nwhatever's on your mind.\n.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 16 00}I wish I could do that,\nbut I guess I'm just too\npolite, {01 00 00 05 00}{04 02 00}.\n{07 00 00}So, do you have any tips on\nhow to be more, you know,\n{07 0b 00}blunt,{01 00 00 05 00} {ff 00 00 06}{04 10 00}{ff 00 00 00}?{07 00 00}{09 09 00}",
+   "et": ""
+  },
+  {
+   "id": 3,
+   "en": "{09 00 00}{09 08 00}{09 02 00}{09 06 00}{07 04 00}What? {01 00 00 05 00}That's supposed to be\nme?{01 01 00} {07 00 00}I don't think so.\n\nWhere's the cutting wit?\nWhere's the biting, pointed\nobservation, {01 00 00 05 00}{04 02 00}?\nThat was just lame. Here,\nlet me show you how it's\ndone. This is you.{01 00 00 05 00}.{01 00 00 05 00}.\n{ff 00 00 02}{07 13 00}{ff 00 00 00}\"{ff 00 00 06}{04 10 00}{ff 00 00 02} is such a\npretty princess! I wish I\ncould be more like her!{ff 00 00 00}\"{ff 00 00 02}{07 00 00}{09 09 00}",
+   "et": ""
+  },
+  {
+   "id": 4,
+   "en": "{09 00 00}{09 06 00}{09 01 00}{07 02 00}What.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}was that?{01 00 00 0a 00}\nYou think that's me,\n{01 00 00 05 00}{04 02 00}?\n{07 16 00}I don't get it.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00}\nWhat part of me did you\njust impersonate?{09 09 00}",
+   "et": ""
+  },
+  {
+   "id": 5,
+   "en": "{09 00 00}{09 08 00}{09 02 00}{07 00 00}Isn't it obvious? {01 00 00 0a 00}{07 11 00}That was\nmy impression of the INNER\nyou, {01 00 00 05 00}{04 02 00}!\n{ff 00 00 02}{07 06 00}{ff 00 00 00}\"{ff 00 00 02}Oh, no! What if {ff 00 00 06}{04 10 00}{ff 00 00 02}\nsees me wearing these old\nrags! She's so fashionable!{ff 00 00 00}\"\n{07 14 00}It's OK. I understand. How\ncould you NOT want to be\nme? {01 00 00 05 00}I mean, {07 13 00}look at me!{09 09 00}",
+   "et": ""
+  },
+  {
+   "id": 6,
+   "en": "{09 00 00}{09 06 00}{09 01 00}{07 01 00}Every conversation we have\nends up with you making\nfun of my clothes!{03 02 00 01}",
+   "et": ""
+  },
+  {
+   "id": 7,
+   "en": "{09 00 00}{09 08 00}{09 02 00}{09 06 00}{07 04 00}What a weird question!{01 01 00}\n{07 0e 00}Hmmmmm. {01 00 00 05 00}Let me think{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n\n{07 0c 00}Ah! I've got it!{01 01 00}{07 00 00}\n\"{ff 00 00 02}Every rose has a thorn.{ff 00 00 00}\"\nThat's perfect for me.\nAfter all, I'm beautiful, but\nI am also.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 11 00}deadly.{09 09 00}",
+   "et": ""
+  },
+  {
+   "id": 8,
+   "en": "{09 00 00}{09 06 00}{09 01 00}{07 0e 00}That's great, but.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} Um.{01 00 00 05 00}{07 00 00}\nRoses aren't deadly.\n\nI mean, yeah, they've got\nthorns, but those just\nhurt. They're not deadly.{09 09 00}",
+   "et": ""
+  },
+  {
+   "id": 9,
+   "en": "{09 00 00}{09 08 00}{09 02 00}{07 00 00}Oh, really? Not even{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}\n{07 11 00}POISON ROSES!?{09 09 00}",
+   "et": ""
+  },
+  {
+   "id": 10,
+   "en": "{09 00 00}{09 06 00}{09 01 00}{07 1c 00}I don't even know why I\nbother asking you questions\nlike that, {ff 00 00 06}{04 10 00}{ff 00 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{09 02 00}{03 01 00 01}",
+   "et": ""
+  },
+  {
+   "id": 11,
+   "en": "{09 00 00}{09 08 00}{09 02 00}{09 06 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0f 00}{ff 00 00 06}{04 0f 00}{ff 00 00 00}, your hair\nlooks dumb, {01 00 00 05 00}{04 02 00}.{09 09 00}",
+   "et": ""
+  },
+  {
+   "id": 12,
+   "en": "{09 00 00}{09 06 00}{09 01 00}{07 14 00}Yeah, that's exactly what\nI--{01 00 00 0a 00} {07 04 00}What?{09 09 00}",
+   "et": ""
+  },
+  {
+   "id": 13,
+   "en": "{09 00 00}{09 08 00}{09 02 00}{07 00 00}See? It's easy! All you\nhave to do is not really\ncare what people think.\n{07 15 00}People need honest opinions,\nand I'm just the one to\ngive them to 'em!\nWhy, {07 16 00}it would be selfish of\nme NOT to share my wisdom\nwith the world!\n{07 11 00}The world needs people like\nme to tell everyone what's\nwrong with them!{09 09 00}",
+   "et": ""
+  },
+  {
+   "id": 14,
+   "en": "{09 00 00}{09 06 00}{09 02 00}{07 14 00}{09 01 00}So, you're saying all I have\nto do is tell people what's\nwrong with them?\n{07 16 00}But what if I hurt their\nfeelings, {01 00 00 05 00}{04 02 00}?{09 09 00}",
+   "et": ""
+  },
+  {
+   "id": 15,
+   "en": "{09 00 00}{09 08 00}{09 02 00}{07 15 00}\"But\"? {01 00 00 05 00}There's no \"but\" here!\nI'm right, and everyone\nelse is wrong!\n{07 01 00}About everything!{01 01 00} {07 14 00}See? It's\nall about certainty. There's\nno room for doubt!{09 09 00}",
+   "et": ""
+  },
+  {
+   "id": 16,
+   "en": "{09 00 00}{09 06 00}{09 01 00}{07 04 00}What if{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 16 00}{09 09 00}",
+   "et": ""
+  },
+  {
+   "id": 17,
+   "en": "{09 00 00}{09 08 00}{09 02 00}{07 15 00}No! No \"what ifs,\" either!\nEveryone has a right to\nknow what's wrong with 'em!{09 09 00}",
+   "et": ""
+  },
+  {
+   "id": 18,
+   "en": "{09 00 00}{09 06 00}{09 01 00}{07 06 00}Hey, maybe you think you\nknow what's best for\nsomeone, {01 00 00 05 00}{04 02 00},\n{07 16 00}but that doesn't give you\nthe right to make people\nfeel bad!{09 09 00}",
+   "et": ""
+  },
+  {
+   "id": 19,
+   "en": "{09 00 00}{09 08 00}{09 02 00}{07 1c 00}You just don't get it, do\nyou? Oh, well.{01 00 00 05 00}.{01 00 00 05 00}.\n\n{07 14 00}Well, on the plus side, that\nwas pretty blunt and direct\nof you, {01 00 00 05 00}{04 02 00}.{09 01 00}{07 14 00}{09 02 00}\nMaybe you'll get the hang of\nthis after all!",
+   "et": ""
+  }
+ ]
+}

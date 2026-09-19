@@ -1,0 +1,35 @@
+{
+ "file": "script/ENG/message/bo/q12/ask3_5_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 07 00}My forehead's as cold as ice\ncream, but my body's as\nhot as tomato soup!\nAnd my belly is churning\ntoo much for me to eat\nanything!{01 01 00} I'm really sick!",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 16 00}I f{01 00 00 03 00}-feel all sh{01 00 00 03 00}-shivery{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\nAnd every sq{01 00 00 03 00}-square inch\nof me feels so achy.\n{07 07 00}But, on the upside, I{01 00 00 03 00}-I can\nunderstand what the bugs\nare saying now.",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 07 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}S{01 00 00 03 00}-so very cold.{01 00 00 14 00} Can't\nstop sh-shaking.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} Brrrr.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\nH{01 00 00 03 00}-head overheating.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n{07 02 00}{01 08 00}I CAN TASTE THE CLOUDS!{01 00 00 05 00}\nDELICIOUS, FLUFFY CLOUDS!{01 01 00} {07 07 00}Oh,\nman, I gotta lie down.",
+   "et": ""
+  },
+  {
+   "id": 3,
+   "en": "{07 00 00}I just wanna yell from my\nrooftop, {01 00 00 14 00}{01 08 00}{07 0a 00}\"{ff 00 00 05}{04 0f 00}{ff 00 00 00}'s\n{ff 00 00 07}medicine {ff 00 00 00}HEALED ME!\"",
+   "et": ""
+  },
+  {
+   "id": 4,
+   "en": "{07 00 00}The {ff 00 00 07}medicine {ff 00 00 00}worked! {01 00 00 0f 00}I just\nwanna scream {01 00 00 0f 00}{01 08 00}\"{0b 03 00}{ff 00 00 05}{04 0f 00}\n{ff 00 00 00}is my hero!\"\n{07 14 00}But now I can't understand\nwhat the bugs are saying\nanymore.",
+   "et": ""
+  },
+  {
+   "id": 5,
+   "en": "{07 14 00}I feel so much better now,\nthanks to {01 00 00 05 00}the one, {01 00 00 05 00}the\nonly,{01 00 00 0f 00} {ff 00 00 05}{04 0f 00}{ff 00 00 00}!",
+   "et": ""
+  }
+ ]
+}

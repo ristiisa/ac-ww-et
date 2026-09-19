@@ -1,0 +1,20 @@
+{
+ "file": "script/ENG/message/ha/q04/req1_2_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 00 00}This is hard to believe...{01 00 00 05 00}\n{07 14 00}but check it: {01 00 00 05 00}I'm WAY into\nshirt collecting lately!\n{07 00 00}You know I work out every\nday, {07 0b 00}right? {01 00 00 05 00}You see me\nrock these abs?\n{07 16 00}Yeah, well, I sweat like a\npig,{01 00 00 05 00} so I run out of clean\nshirts before you can blink!\n{07 06 00}So anyway, {04 1f 00}...{01 00 00 05 00}\nIf you have extra shirts, \ngive 'em to me, OK?",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 0a 00}SHIRTS! SHIRTS! SHIRTS!{01 01 00}\n{07 14 00}Shirts rock! {01 00 00 05 00}Especially on\nTHIS bod, baby!\n{07 16 00}The thing is, {01 00 00 05 00}it's kinda\nunmanly to go clothes\nshopping, {01 00 00 05 00}{04 02 00}...\n{07 06 00}So...{01 00 00 05 00}could YOU go buy me\nsome shirts?{01 00 00 05 00} Any shirt'll\ndo, seriously! ",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 00 00}Look, it's no secret that I\nsweat a lot, {07 0b 00}am I right,{01 00 00 05 00}\n{04 02 00}?\n{07 16 00}Yeah, well, just the other\nday,{01 00 00 05 00} I fell asleep wearing a\nwet shirt, {07 07 00}and got sick{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 16 00}So, listen, {01 00 00 05 00}{ff 00 00 05}{04 1f 00}{ff 00 00 00}!{01 00 00 0a 00}\n{07 06 00}If you find a sweat-soaker\nshirt, {01 00 00 0a 00}lemme know!",
+   "et": ""
+  }
+ ]
+}

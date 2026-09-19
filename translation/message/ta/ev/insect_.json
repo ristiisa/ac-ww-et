@@ -1,0 +1,80 @@
+{
+ "file": "script/ENG/message/ta/ev/insect_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 00 00}Hey,{01 00 00 05 00} today is the \n{ff 00 00 03}Bug-Off{ff 00 00 00}, isn't it?\n\n{07 09 00}Is there anything more\ntragic than a girl catching\nbugs all alone?\n{07 15 00}But I have to stick it out{01 00 00 05 00}\nif my special someone is to\ncatch me, {01 00 00 0a 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 14 00}Tee hee,{01 00 00 0a 00} I know it wouldn't\nseem like it, {01 00 00 05 00}but I just\nlove catching bugs!\nI love the sound they make\nscurrying about in my{ff 00 00 07} net{ff 00 00 00},\ntrying to escape. Tee hee!",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 14 00}The winner of the{ff 00 00 07} {ff 00 00 03}Bug-Off{ff 00 00 00}\ngets a {ff 00 00 07}trophy{ff 00 00 00}.\n\n{07 1b 00}Now, I know the {ff 00 00 06}mayor{ff 00 00 00}'s\ntrying to up his approval\nrating, but really{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 14 00}",
+   "et": ""
+  },
+  {
+   "id": 3,
+   "en": "{07 03 00}Tee hee HEE hee!{01 01 00} {07 14 00}Right now,\nI'm in the lead!{01 00 00 05 00} That's\nright, it's all me, baby!\n{07 00 00}With my {ff 00 00 02}{04 0f 00}-mm{ff 00 00 00}\n{0b 02 00}{04 1a 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n{07 14 00}I'm a shoo-in!",
+   "et": ""
+  },
+  {
+   "id": 4,
+   "en": "The {0b 02 00}{04 1a 00}\nthat I caught {07 15 00}measured in\nat a whopping {ff 00 00 02}{04 0f 00} mm{ff 00 00 00}.\n{07 14 00}Listen closely to me:{01 00 00 0a 00}\nVICTORY IS MINE!",
+   "et": ""
+  },
+  {
+   "id": 5,
+   "en": "{07 15 00}Did you know that I caught\n{04 1a 00}\nthat measured {ff 00 00 02}{04 0f 00} mm{ff 00 00 00}?\n{07 00 00}I wasn't even that serious\nabout catching it either{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.{01 01 00}\n{07 1b 00}I'm just gifted, I guess!",
+   "et": ""
+  },
+  {
+   "id": 6,
+   "en": "{07 19 00}I heard that the winner\nlast time around used a\n{ff 00 00 07}golden net{ff 00 00 00}.\n{07 17 00}If it was me,{01 00 00 05 00} I'd have used\na platinum one. {01 00 00 05 00}That's\n'cause I'm high class!",
+   "et": ""
+  },
+  {
+   "id": 7,
+   "en": "{07 15 00}The key to catching bugs is\nto not run around like a \nlunatic.\n{07 00 00}Approach them slowly, {01 00 00 05 00}like\nyou're a friend. {01 01 00}And, SMILE\na little, for Pete's sake.\nI guess you could say you\ncatch bugs and people in\nalmost the same way.",
+   "et": ""
+  },
+  {
+   "id": 8,
+   "en": "{07 16 00}Did you hear that\n{04 10 00}{ff 00 00 06} {ff 00 00 00}is in the lead\nright now?\n{07 00 00}Oh, silly me. What was I\nthinking? {01 01 00}{07 14 00}Of course you\nknow.",
+   "et": ""
+  },
+  {
+   "id": 9,
+   "en": "{07 15 00}No matter how smart you\nthink they are, they're\nstill just bugs!\n{07 19 00}You just have to focus!{01 00 00 0a 00}\n{07 14 00}Then you're bound to catch \none, {01 00 00 0a 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 10,
+   "en": "{07 15 00}{01 00 00 05 00}{0b 03 00}{04 10 00} always gets\nso serious, {01 00 00 05 00}but I AM NOT\ngonna lose to that dork!\n{07 01 00}{01 08 00}WHAT ARE YOU STARING AT?!\n{01 00 00 05 00}{0b 03 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 11,
+   "en": "{07 04 00}Hey, {01 00 00 0a 00}I heard{ff 00 00 06} {ff 00 00 00}that{ff 00 00 06}\n{04 10 00} {ff 00 00 00}caught\n{04 1a 00}!\n{07 16 00}It was {ff 00 00 02}{04 0f 00} mm{ff 00 00 00}!{01 01 00} {07 1c 00}{01 00 00 05 00}Oh,\nright. {01 00 00 05 00}You already know\nthat, huh, {01 00 00 0a 00}{04 02 00}?",
+   "et": ""
+  },
+  {
+   "id": 12,
+   "en": "{07 0e 00}The bugs must really hate \nthe {ff 00 00 03}Bug-Off{ff 00 00 00}, huh?! {01 01 00}{07 15 00}Just\nthink about it.\nAll the people in the town\nget together to hunt you!\n{07 06 00}Can you imagine?\nOf course,{07 1c 00}{01 00 00 0a 00} I can. I spend SO\nmuch time dodging the\npaparazzi, {01 00 00 0a 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 13,
+   "en": "{07 0e 00}I used to be fine with \ncatching bugs{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.",
+   "et": ""
+  },
+  {
+   "id": 14,
+   "en": "{07 16 00}{ff 00 00 04}So {04 10 00} caught a\nhuge, {04 0f 00}-mm-long\n{0b 02 00}{04 1a 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{ff 00 00 00}\n{07 11 00}Interesting.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} {01 00 00 05 00}It's like some\nmutant monster bug! {01 01 00}Maybe\nit'll be disqualified!",
+   "et": ""
+  }
+ ]
+}

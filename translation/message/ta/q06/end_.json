@@ -1,0 +1,20 @@
+{
+ "file": "script/ENG/message/ta/q06/end_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 00 00}If there's anything else I\nneed, I'll let you know, \n{01 00 00 0a 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 00 00}Thank you so much!{01 00 00 14 00} {07 14 00}Your\nhelp is much appreciated, \n{01 00 00 0a 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 00 00}Anyway{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00}{07 19 00} I'm so glad that\nyou did that favor for me.{01 00 00 14 00}\n{07 14 00}Thank you, {01 00 00 0a 00}{04 02 00}!",
+   "et": ""
+  }
+ ]
+}

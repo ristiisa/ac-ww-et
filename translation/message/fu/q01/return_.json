@@ -1,0 +1,20 @@
+{
+ "file": "script/ENG/message/fu/q01/return_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 0e 00}I can't decide where to put\nthis beaut{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 14 00} {07 14 00}I want it to\nbe the center of attention!",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 15 00}I'll have to catch one of\nthose next time.{01 00 00 14 00} {07 1c 00}They\nARE a little creepy, though.",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 14 00}I'm gonna put this little\nguy in my room right away!\n\n{07 00 00}Should I have cleaned up a\nlittle?{01 00 00 0f 00} {07 06 00}I don't want him\nto think I live in a pigsty!",
+   "et": ""
+  }
+ ]
+}

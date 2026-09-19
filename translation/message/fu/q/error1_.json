@@ -1,0 +1,15 @@
+{
+ "file": "script/ENG/message/fu/q/error1_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 06 00}Whoa there! Not so fast!\nI can't keep up with you,\n{01 00 00 05 00}{04 02 00}!\n{07 16 00}I just need a little more\ntime to get myself\norganized!",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 04 00}Hey, hey, hey! Wait a\nsecond!{01 00 00 14 00} {07 16 00}Don't you think\nyou're moving too fast?\nI'm not really ready right\nnow. {01 00 00 0f 00}Give me a little more\ntime, will you?",
+   "et": ""
+  }
+ ]
+}

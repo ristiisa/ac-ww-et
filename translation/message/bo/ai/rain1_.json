@@ -1,0 +1,65 @@
+{
+ "file": "script/ENG/message/bo/ai/rain1_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 12 00}{01 00 00 14 00}{0b 03 00}{01 06 00}YEEE-AWN{01 07 00}!{01 00 00 14 00}\nWhew, that was a big one!{01 00 00 0a 00}\nMornin',{01 00 00 0a 00} {04 1f 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00}\n{07 16 00}When it's all wet like this,{01 00 00 0a 00}\nit doesn't feel like morning\nat all.\n{07 19 00}It's like you're still\nwrapped up{01 00 00 0a 00} in a big, wet\nblanket, {01 00 00 0a 00}{04 02 00}.{07 16 00}",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{0b 03 00}{01 06 00}Hey, hey, hey{01 07 00}!\nIt's {01 00 00 05 00}{04 1f 00}.{01 00 00 0a 00}\n\n{07 14 00}I like rainy days, 'cause I\nget to use my umbrella.\n\n{01 00 00 0a 00}{07 1b 00}{01 00 00 05 00}People who don't use\numbrellas{01 00 00 0a 00} are kinda\n{04 15 00},{01 00 00 0a 00} huh?",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 14 00}{0b 03 00}{01 06 00}Good morning{01 07 00}{01 00 00 05 00}!\nSo, {04 1f 00}.{01 00 00 0a 00} Sure is\nrainin' hard today, isn't it?\n{07 0b 00}{01 00 00 05 00}If this rain keeps up,{01 00 00 05 00}\nthere's gonna be a drought\nin the sky,{01 00 00 0a 00} {04 02 00}.",
+   "et": ""
+  },
+  {
+   "id": 3,
+   "en": "Hey,{01 00 00 0a 00} {04 1f 00}.{01 00 00 14 00}{07 16 00} Can you\nbelieve this rain? It makes\nit really hard to motivate.\n{07 0e 00}Hmm{01 00 00 0a 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 14 00}{07 0c 00}{01 01 00} {07 14 00}It's like I'm a\nwaterlogged sloth,{01 00 00 0a 00}\n{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 4,
+   "en": "{0b 03 00}{01 06 00}Hey, how goes it{01 07 00}!{01 00 00 05 00}\nSo, {04 1f 00}.{01 00 00 14 00} {07 16 00}It's sure\ncoming down,{01 00 00 05 00} isn't it?\n{07 14 00}Days like today{01 00 00 0a 00} are great\nfor staying at home and\nsleeping all day.",
+   "et": ""
+  },
+  {
+   "id": 5,
+   "en": "{07 14 00}Hello,{01 00 00 05 00} {04 1f 00}.{01 00 00 14 00} {07 00 00}Think\nthis rain{01 00 00 05 00} will ever let up,\n{01 00 00 0a 00}{04 02 00}?\nYou think{01 00 00 05 00} if I ditch my\numbrella and just run\nbetween the raindrops...\n{07 0b 00}{01 00 00 05 00}...I'll stay dry?{01 00 00 14 00} {07 0e 00}If I was a\nlittle skinnier, I wouldn't\nhave to run much!",
+   "et": ""
+  },
+  {
+   "id": 6,
+   "en": "{07 0e 00}{01 00 00 0a 00}What should I have for my\nafter-dinner beverage\ntonight?{01 00 00 14 00}{07 14 00} RAIN, {01 00 00 0a 00}{04 02 00}!\n{07 0d 00}Heh heh heh!{01 00 00 0a 00} And it's all\nyou can drink, too!{01 00 00 0a 00}\n{0b 03 00}{01 00 00 0a 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 7,
+   "en": "{0b 03 00}{01 06 00}Well, good evening{01 07 00}.{01 00 00 14 00} {07 16 00}\nI guess it rained{01 00 00 05 00}\nall day long.\n{07 14 00}I felt so waterlogged,{01 00 00 05 00} I\nthought I was gonna\ndissolve, {01 00 00 0a 00}{04 02 00}.",
+   "et": ""
+  },
+  {
+   "id": 8,
+   "en": "{07 0e 00}It was a dark and stormy\nnight.{01 00 00 14 00} A lone figure stood\nalone in the downpour{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{07 00 00}\n{07 0a 00}{01 00 00 05 00}Heh heh heh!{01 00 00 0a 00} It's like the\nopening to a really good\nbad movie,{01 00 00 0a 00} {04 02 00}.",
+   "et": ""
+  },
+  {
+   "id": 9,
+   "en": "{07 14 00}I think the only things\nawake at this hour{01 00 00 0a 00} are you,{01 00 00 0a 00}\nme,{01 00 00 0a 00} and all this rain{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 13 00}{01 00 00 0a 00}It's nice that I don't have\nto make small talk with\neither of you,{01 00 00 0a 00} {04 02 00}.",
+   "et": ""
+  },
+  {
+   "id": 10,
+   "en": "{0b 03 00}{01 06 00}Good evening{01 07 00}!{01 00 00 05 00}\nThis rain is really\nsomething, {04 02 00}.\n{07 14 00}It's great for me,{01 00 00 05 00} since I\ndidn't have time to take a\nshower today.",
+   "et": ""
+  },
+  {
+   "id": 11,
+   "en": "{07 16 00}Say,{01 00 00 05 00} {04 1f 00},{01 00 00 0a 00} doesn't\ntonight's rain feel a little\ncold? {01 00 00 05 00}{0b 03 00}{04 02 00}?\n{07 06 00}{01 00 00 05 00}I don't mind the cold,{01 00 00 0a 00} as\nlong as I've got some nice\n{04 19 00} at home.",
+   "et": ""
+  }
+ ]
+}

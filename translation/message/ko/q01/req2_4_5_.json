@@ -1,0 +1,20 @@
+{
+ "file": "script/ENG/message/ko/q01/req2_4_5_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 00 00}Hey, {01 00 00 05 00}you ever heard of\n{04 1a 00}?\n\n{07 14 00}Catching 'em is my\nspecialty. I'm the best that\never lived, {01 00 00 05 00}{04 02 00}!\n{07 15 00}What?! You want me to\nprove it? Fine, let's see\nwho can catch one first!",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 00 00}I{01 00 00 05 00} told{01 00 00 05 00} my niece that I'd get{01 00 00 05 00}\n{04 1a 00}\nfor her, {01 00 00 05 00}{04 02 00}!\n{07 15 00}Hey, {04 1f 00},{01 00 00 0f 00} you've got\nnothin' better to do.\n\n{07 14 00}Let's see who can nab one\nfirst, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 00 00}I'm really into catching\nbugs lately. I guess you\ncould say I'm buggin' out!\n{07 14 00}So today, I'm obsessed with\ntrying to catch\n{04 1a 00}!\n{07 11 00}Wanna compete to see who\ncan snag one first,\n{01 00 00 05 00}{04 02 00}?",
+   "et": ""
+  }
+ ]
+}

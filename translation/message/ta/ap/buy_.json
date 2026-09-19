@@ -1,0 +1,100 @@
+{
+ "file": "script/ENG/message/ta/ap/buy_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 00 00}What's all this!{01 00 00 14 00} {07 16 00}You've got\n{04 1a 00}!{01 00 00 0a 00}\nAnd I don't! Hmph!\n{07 0b 00}Would you sell it to me for\n{04 10 00} Bells?{07 14 00}{01 00 00 05 00} Pretty please?\n{01 00 00 05 00}Just look at this smile!{02 00 00 03 04}\nSure thing!\nNo way!",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 15 00}Hey, you!{01 00 00 14 00} I really want that\n{0b 02 00}{04 1a 00}\nyou've got!\n{07 06 00}Just name your price{01 00 00 0a 00} and\nI'll buy it from you,\n{01 00 00 0a 00}{04 02 00}!{02 00 00 0c 0b}\nOK.\nI'm not selling!",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 00 00}The {0b 02 00}{04 1a 00}\nyou have there {07 14 00}is kind of\nnice.\n{07 0b 00}Could I buy it off of you\nfor {04 10 00} Bells?{02 00 00 03 04}\nDeal!\nSorry, no.",
+   "et": ""
+  },
+  {
+   "id": 3,
+   "en": "{06 01 00 05 06 07}",
+   "et": ""
+  },
+  {
+   "id": 4,
+   "en": "{06 01 00 08 09 0a}",
+   "et": ""
+  },
+  {
+   "id": 5,
+   "en": "{07 14 00}Tee hee!{01 00 00 0a 00} Everyone falls for\nmy killer smile! {01 01 00}{07 0d 00}I'm just so\nirresistibly adorable!\n{07 00 00}Well, here are the {04 10 00}\nBells I promised,\n{01 00 00 0a 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 6,
+   "en": "{07 14 00}I love having friends who\nare big pushovers, 'cause\nmy smile always slays them.\n{07 14 00}Well anyway, {01 00 00 05 00}here are the\n{04 10 00} Bells I promised you.",
+   "et": ""
+  },
+  {
+   "id": 7,
+   "en": "{07 14 00}Tee hee!{01 00 00 0a 00} {07 19 00}You know, I think\nyou look your best when\nyou're agreeing with me.\n{07 0d 00}You couldn't look cuter than\nyou do right now! {01 01 00}Here, {01 00 00 05 00}\n{04 10 00} Bells for {04 1f 00}!",
+   "et": ""
+  },
+  {
+   "id": 8,
+   "en": "{07 15 00}{01 08 00}WHAT! {01 00 00 05 00}Are you{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.saying no to\nme?!{01 01 00}{07 10 00} But that was my best\nsmile! {01 00 00 05 00}How can you say no?\n{07 16 00}{0b 03 00}{0b 01 00}{04 1a 00}\nis so hot now{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 01 00} This just\nisn't fair!\n{07 15 00}You don't even care about\nkeeping up on trends!",
+   "et": ""
+  },
+  {
+   "id": 9,
+   "en": "{07 15 00}Fine, but I don't think that\n{0b 02 00}{04 1a 00}\nsuits you at all!",
+   "et": ""
+  },
+  {
+   "id": 10,
+   "en": "{07 16 00}But{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 14 00}I REALLY need it!{01 01 00} {07 1b 00}I\ncould sweeten the deal with\nsome more Bells...\n{07 0b 00}Is there any way you would \nchange your mind if I did? {01 00 00 05 00}\nOh, please, {04 02 00}?{02 00 00 0b 03}\nNO!\nFine, whatever.",
+   "et": ""
+  },
+  {
+   "id": 11,
+   "en": "{07 00 00}Oh.{01 00 00 0f 00} {07 0e 00}So my charming smile\ndidn't work.{01 00 00 0f 00} And my extra\nBells didn't work.\n{07 16 00}Your heart must be made of\nstone. {01 00 00 0a 00}There's just no\nother way to explain this.",
+   "et": ""
+  },
+  {
+   "id": 12,
+   "en": "{07 14 00}Tee hee,{01 00 00 05 00} now that's the\nspirit!{01 01 00} {07 00 00}So,{01 00 00 0a 00}{07 0b 00} what's the\nprice?{05 05 00 04 0e 04 03 04 03 04 0d}\n8 million Bells!\nFree!",
+   "et": ""
+  },
+  {
+   "id": 13,
+   "en": "{07 15 00}I only have {04 10 00} Bells!{01 01 00} This\nis a total racket you've got\ngoing on here!\n{07 00 00}Here, {01 00 00 05 00}just take it already!\n{01 00 00 05 00}{0b 03 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 14,
+   "en": "{06 00 00 0f 10}",
+   "et": ""
+  },
+  {
+   "id": 15,
+   "en": "{07 02 00}F-{01 00 00 0a 00}free?!{01 00 00 0a 00} {07 11 00}I don't know. This\nsounds AWFULLY fishy to me.\n\n{07 16 00}Oh, I get it. {01 00 00 0a 00}Of course.{01 00 00 0a 00} The\n{0b 02 00}{04 1a 00} is,\nlike, CURSED or something!\nWhy else would it be free{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}\nNo, I changed my mind now,\n{01 00 00 0a 00}{04 02 00}! I don't want it!",
+   "et": ""
+  },
+  {
+   "id": 16,
+   "en": "{07 04 00}Really?{01 00 00 0a 00} Free?!{01 01 00} {07 16 00}That sounds\nway too good to be true!\nHow can it be free?\n{07 11 00}Oh, YOU! {01 00 00 05 00}Listen, I wasn't\nborn yesterday, and you're\nnot going to fool me!",
+   "et": ""
+  },
+  {
+   "id": 17,
+   "en": "{07 14 00}You're officially on my good\nside!{01 00 00 14 00} Thanks, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 18,
+   "en": "{07 14 00}Tee hee hee!{01 00 00 05 00} I just love\ngood deals! {01 00 00 05 00}They bring out\nthe sparkle in my eyes!",
+   "et": ""
+  }
+ ]
+}

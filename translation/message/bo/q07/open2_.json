@@ -1,0 +1,20 @@
+{
+ "file": "script/ENG/message/bo/q07/open2_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 1d 00}Hey! {01 00 00 05 00}What's this?{01 00 00 14 00} The seal\nis broken{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00} Say it ain't so,\n{04 1f 00}!\nTell me you didn't read this\nletter!{01 01 00} 'Cause if you did,{01 00 00 05 00} I\nwon't like you anymore.",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 04 00}Whoa!{01 00 00 14 00} This envelope has\nalready been opened!{01 01 00} Wait a\nsecond! {0b 03 00}{04 1f 00}?\nDid you open it,{01 00 00 05 00}\n{04 02 00}? .{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}I can't\nbelieve this!{01 00 00 14 00}\nNow {ff 00 00 06}{04 10 00}{ff 00 00 00}'s and my\nsecret will get out! This is\nterrible!",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 04 00}Hey!{01 00 00 14 00} The more I look at\nthis, the more it looks like\nthe envelope is open{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00}{07 15 00}{0b 03 00}{ff 00 00 06}{04 0f 00}{ff 00 00 00} is so\ncareless,{01 00 00 0a 00} {04 02 00}!",
+   "et": ""
+  }
+ ]
+}

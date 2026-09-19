@@ -1,0 +1,150 @@
+{
+ "file": "script/ENG/message/bo/tsu/drama_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 16 00}Who knew that {ff 00 00 06}Blathers{ff 00 00 00}{01 00 00 05 00} had\nso many problems,{01 00 00 0a 00}\n{04 02 00}?\n{07 14 00}Maybe you should share your\ntroubles, too!",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 0f 00}{01 00 00 14 00}Aw, {01 00 00 0a 00}I wanted to try out the\ntroubled and brooding thing\nthat {ff 00 00 06}Blathers{ff 00 00 00} is into.\n{07 15 00}That's it!{01 00 00 14 00}{07 0d 00} I'm gonna get him{01 00 00 05 00}\nto tell me his problems\nonce more,{01 00 00 0a 00} {04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 1c 00}{01 00 00 14 00}I tried really hard, {01 00 00 0a 00}but I\ncouldn't seem to cheer up\n{ff 00 00 06}Blathers{ff 00 00 00}.\n{07 15 00}But you, {01 00 00 05 00}{04 1f 00},{01 00 00 05 00} maybe\nyou can do something for\npoor {ff 00 00 06}Blathers{ff 00 00 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.",
+   "et": ""
+  },
+  {
+   "id": 3,
+   "en": "People seem to be fraught\nwith all sorts of troubles,{01 00 00 05 00}\n{04 02 00}.\n{07 16 00}Yeah, even old {ff 00 00 06}Tom Nook{ff 00 00 00}\nis feeling the pressure.{01 00 00 0a 00} {07 1b 00}{01 00 00 05 00}I\nwas shocked to hear that!",
+   "et": ""
+  },
+  {
+   "id": 4,
+   "en": "{07 16 00}{ff 00 00 06}Tom Nook{ff 00 00 00} seemed really{01 00 00 0a 00}\nout of it today,\n{01 00 00 0a 00}{04 02 00}.\n{07 0b 00}{01 00 00 05 00}{0b 03 00}{04 1f 00},{01 00 00 05 00} have you heard\nanything about it?{02 00 00 13 14}\nOf course!\nNot yet?",
+   "et": ""
+  },
+  {
+   "id": 5,
+   "en": "{07 1c 00}{01 00 00 14 00}{ff 00 00 06}Tom Nook{ff 00 00 00} never shares{01 00 00 05 00}\nany important information.{01 01 00}\n{07 0e 00}{01 00 00 0a 00}Or maybe just not to me.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}",
+   "et": ""
+  },
+  {
+   "id": 6,
+   "en": "{07 19 00}Today I really got some\ninsight into both {ff 00 00 06}Mabel{ff 00 00 00} and\n{ff 00 00 06}Sable{ff 00 00 00}, {01 00 00 05 00}{04 02 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00}{07 00 00}\n{07 16 00}Working as hard as they do,\ndespite the great sadness\nthat hangs over them{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 06 00}Well,{01 00 00 0a 00} it just gives you an\neven greater appreciation\nfor the clothes!",
+   "et": ""
+  },
+  {
+   "id": 7,
+   "en": "{01 00 00 0a 00}{07 1b 00}{01 00 00 05 00}Both {ff 00 00 06}Mabel{ff 00 00 00} and {ff 00 00 06}Sable{ff 00 00 00} seemed{01 00 00 05 00}\na little down in the dumps\ntoday,{01 00 00 05 00} {04 02 00}.\n{07 0e 00}{01 00 00 0a 00}The killer {04 01 00} smile\ndidn't even work on 'em{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.",
+   "et": ""
+  },
+  {
+   "id": 8,
+   "en": "{07 15 00}I bet {01 00 00 0a 00}{ff 00 00 06}Mabel{ff 00 00 00} and {ff 00 00 06}Sable{ff 00 00 00} have\nsomething big hanging over\nthem,{01 00 00 05 00} {04 02 00}.{02 00 00 15 16}\nWhy is that?\nSo what?",
+   "et": ""
+  },
+  {
+   "id": 9,
+   "en": "As of today,{01 00 00 05 00} I'm going to\nstart going to the {ff 00 00 08}town\nhall{ff 00 00 00}.\n{01 00 00 0a 00}{07 1b 00}{01 00 00 05 00}I can't just leave those\npoor,{01 00 00 05 00} troubled ladies there\nto fend for themselves!{02 00 00 17 18}\nYou're dynamite!\nWhatever.",
+   "et": ""
+  },
+  {
+   "id": 10,
+   "en": "{07 0b 00}Do you think {ff 00 00 06}Pelly{ff 00 00 00} and\n{ff 00 00 06}Phyllis{ff 00 00 00}{01 00 00 05 00} are under a lot of\npressure?{01 00 00 05 00} {0b 03 00}{04 02 00}?\n{07 14 00}{0b 03 00}{04 1f 00},{01 00 00 05 00} maybe you\nshould go listen to their\ncomplaints, too.",
+   "et": ""
+  },
+  {
+   "id": 11,
+   "en": "{07 16 00}So, between {ff 00 00 06}Pelly{ff 00 00 00}, the\nyounger sister, and {ff 00 00 06}Phyllis{ff 00 00 00},\nthe older sister,\n{07 0b 00}{01 00 00 05 00}who do you like better,\n{01 00 00 05 00}{04 02 00}?{02 02 00 19 19 19 19}\nPelly!\nPhyllis!\nI like 'em both!\nI hate 'em both!",
+   "et": ""
+  },
+  {
+   "id": 12,
+   "en": "{ff 00 00 06}Sable{ff 00 00 00} was acting like{01 00 00 05 00} a\ntotal space cadet today.\n\n.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00}{07 06 00}What could have her more\nspaced out than me,{01 00 00 05 00}\n{04 02 00}?",
+   "et": ""
+  },
+  {
+   "id": 13,
+   "en": "{07 14 00}I heard{01 00 00 05 00} an interesting\nstory{01 00 00 05 00} at the {ff 00 00 08}Able Sisters{ff 00 00 00}\n{ff 00 00 08}shop{ff 00 00 00} today!\n{07 00 00}But{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 1b 00}{01 00 00 05 00}I can't tell anyone,{01 00 00 0a 00}\nnot even you, {04 1f 00}!{01 00 00 05 00}\n{0b 03 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 14,
+   "en": "So{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 0b 00}{01 00 00 0a 00} What kind of\nrelationship do {ff 00 00 06}Tom Nook\n{ff 00 00 00}and {ff 00 00 06}Sable{ff 00 00 00} have, anyway?\n{07 00 00}Do you think it's the same\nkind of relationship{01 00 00 0a 00} I have\nwith {04 13 00}?",
+   "et": ""
+  },
+  {
+   "id": 15,
+   "en": "{07 0e 00}{01 00 00 0a 00}So I guess {ff 00 00 06}Tom Nook{ff 00 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}was a\ntroublemaker back in his\nyounger days{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 04 00}{01 00 00 0a 00}Oh! Oops!{01 01 00} {07 16 00}That information\nis top secret! {07 06 00}Forget I said\nanything,{01 00 00 0a 00} {04 02 00}.",
+   "et": ""
+  },
+  {
+   "id": 16,
+   "en": "{07 0e 00}{01 00 00 0a 00}So, where do they draw the\nline{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00}between the city and\nthe sticks,{01 00 00 05 00} {04 02 00}?\n{07 00 00}That thought just came to\nme{01 00 00 05 00} during a conversation\nat the {ff 00 00 08}Able Sisters{ff 00 00 00} {ff 00 00 08}shop{ff 00 00 00}.",
+   "et": ""
+  },
+  {
+   "id": 17,
+   "en": "{07 14 00}Just like {ff 00 00 06}Sable{ff 00 00 00},{01 00 00 05 00} I, too, have\na box with a treasure\ninside, {01 00 00 05 00}{04 02 00}!\n{07 13 00}{01 00 00 0a 00}It's got a {04 15 00}\ninside{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}. {07 06 00}Oh! {01 00 00 0f 00}I.{01 00 00 05 00}.{01 00 00 05 00}. I.{01 00 00 05 00}.{01 00 00 05 00}.{01 01 00}\n{07 0a 00}I just love it SO MUCH!",
+   "et": ""
+  },
+  {
+   "id": 18,
+   "en": "{07 19 00}I had a really good chat\nwith {ff 00 00 06}Sable{ff 00 00 00} down at the\n{ff 00 00 08}Able Sisters{ff 00 00 00} {ff 00 00 08}shop{ff 00 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.{07 00 00}\n{07 00 00}It was nice, but in that\ntime, {04 0e 00} and I\ncould've made {07 0d 00}cookies! Lots!",
+   "et": ""
+  },
+  {
+   "id": 19,
+   "en": "{07 14 00}Huh huh huh! I should have\nknown, {04 1f 00}! You\nhear all the gossip!\n{07 19 00}It's 'cause you're a social\nbutterfly, {04 02 00}!{01 01 00}\n{07 14 00}I gotta be more like that.",
+   "et": ""
+  },
+  {
+   "id": 20,
+   "en": "{07 06 00}Oh, it's just terrible{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} You\nhave to go check on him\nright now, {01 00 00 05 00}{04 02 00}!\n{07 16 00}I've never seen anyone so\nstressed out!",
+   "et": ""
+  },
+  {
+   "id": 21,
+   "en": "{07 00 00}Huh huh huh!{01 00 00 05 00} {0b 03 00}{04 1f 00},\nyou know I like you, but\nyou can be so dense!\n{07 06 00}Once you see them,{01 00 00 05 00} it'll be\nobvious, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 22,
+   "en": "{07 16 00}What a mean thing to say!\n{01 00 00 14 00}{07 15 00}Are you always this cold,\n{04 1f 00}?",
+   "et": ""
+  },
+  {
+   "id": 23,
+   "en": "{07 00 00}Huh huh huh!{01 00 00 0f 00}{07 17 00} I'm dynamite?{01 01 00}\n{07 0d 00}I don't know what it means,\nbut it sounds good!{03 01 00 01}",
+   "et": ""
+  },
+  {
+   "id": 24,
+   "en": "{07 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 14 00}{07 15 00}Gosh!{01 01 00} {07 06 00}You can be really\ncold sometimes, huh,\n{04 1f 00}!{01 00 00 05 00} {0b 03 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 25,
+   "en": "{06 01 00 1a 1b 1c}",
+   "et": ""
+  },
+  {
+   "id": 26,
+   "en": "{07 0e 00}{01 00 00 0a 00}Hmm.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{04 02 00}. {07 1b 00}{01 00 00 05 00}Eh.{01 00 00 0f 00}\nGuess it doesn't really\nmatter anyway.",
+   "et": ""
+  },
+  {
+   "id": 27,
+   "en": "{07 0e 00}{01 00 00 0a 00}Hmm{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00} Is that so,{01 00 00 05 00}\n{04 02 00}? {01 01 00}{07 00 00}Well, I'll tell\nyou who I like{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 0a 00}Whoever makes me dinner!{01 00 00 14 00}{01 01 00}\n{07 17 00}I'm just a simple guy with\nsimple tastes!{03 01 00 01}",
+   "et": ""
+  },
+  {
+   "id": 28,
+   "en": "{07 16 00}{01 00 00 0a 00}Hmm{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00} Is that so,{01 00 00 05 00}\n{04 02 00}? {01 01 00}{07 15 00}Well, I'll tell\nyou my preference!\n{07 11 00}It is most decidedly{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 01 00}\n{07 0a 00}bananas,{01 00 00 05 00} {04 02 00}!{03 01 00 01}",
+   "et": ""
+  }
+ ]
+}

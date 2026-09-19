@@ -1,0 +1,20 @@
+{
+ "file": "script/ENG/message/ko/q/yes_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 14 00}All right, {01 00 00 05 00}{04 1f 00}!{01 00 00 0a 00}\nYou're in for it now,\n{01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 00 00}{01 00 00 05 00}I'm relying on you to take\ncare of business.{01 00 00 14 00}\nThanks, kid. {0b 03 00}{01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 14 00}All right, kid.{01 00 00 0f 00}\nMaybe you're not so bad,\n{01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  }
+ ]
+}

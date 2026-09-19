@@ -1,0 +1,55 @@
+{
+ "file": "script/ENG/message/bo/tsu/dress_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 14 00}Look! Look!{01 00 00 05 00} Doesn't the\noutfit I'm wearing today{01 00 00 0a 00}\nlook totally cool?\n{06 01 00 06 07 08}",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 14 00}Isn't my shirt cool,\n{01 00 00 05 00}{04 02 00}? {01 01 00}{07 0d 00}{01 00 00 0a 00}Geek chic is\nall the rage now.",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 17 00}I heard that {ff 00 00 05}{04 0f 00}\n{ff 00 00 00}designed this outfit,{01 00 00 05 00} so I\nbought it immediately!\n{07 13 00}{01 00 00 0a 00}Talk about someone{01 00 00 05 00} with a\nflair for fashion{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} It's so\ncool,{01 00 00 0a 00} {04 02 00}.",
+   "et": ""
+  },
+  {
+   "id": 3,
+   "en": "{07 0b 00}{01 00 00 05 00}Do you know {ff 00 00 05}{04 0f 00}{ff 00 00 00}{01 00 00 0a 00},\nfrom {ff 00 00 08}{04 10 00}{ff 00 00 00},{01 00 00 05 00}\n{01 00 00 05 00}{04 02 00}?{02 01 00 04 05 09}\nWe're friends.\nWho from where?\nWhat's it to ya?",
+   "et": ""
+  },
+  {
+   "id": 4,
+   "en": "{07 02 00}{01 00 00 14 00}What?!{01 00 00 05 00} Really???{01 00 00 05 00} Are you\nbeing serious, {01 00 00 05 00}{04 02 00}?!\n\n{07 06 00}The clothes{01 00 00 05 00} I'm wearing\ntoday{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00}were DESIGNED by\n{ff 00 00 05}{04 0f 00}{ff 00 00 00}!\n{07 13 00}{01 00 00 0a 00}That is so cool{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0f 00}\nYou're friends with a\ncelebrity!{01 00 00 05 00} {0b 03 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 5,
+   "en": "{07 16 00}Aw, {01 00 00 05 00}{04 1f 00}! You're so\nbehind the times!{01 00 00 14 00} {07 06 00}That's\nwho designed this outfit!",
+   "et": ""
+  },
+  {
+   "id": 6,
+   "en": "{07 00 00}The best accessory for an\noutfit like this {01 00 00 0a 00}{07 1b 00}{01 00 00 05 00}is a grim-\nlooking buddy by my side,{01 00 00 05 00}\nwaiting on me hand and\nfoot{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00} {07 13 00}{01 00 00 0a 00}So I'll just hang out\nwith you all day!",
+   "et": ""
+  },
+  {
+   "id": 7,
+   "en": "{07 00 00}The best way to accessorize\nis {01 00 00 0a 00}{07 1b 00}{01 00 00 05 00}with a strategically\nplaced {04 15 00}.\nBut this is super high-\nconcept fashion,\n{01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 8,
+   "en": "It fits just right so as to\nhighlight the shape of my\nbody{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 0d 00}It's like the buttons and\nzipper are ready to pop\nright off,{01 00 00 05 00} {04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 9,
+   "en": "{07 00 00}If I were to get close\nto {ff 00 00 05}{04 0f 00}{ff 00 00 00},\nI think I'd{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 0d 00}I'd be so excited,{01 00 00 05 00} my\ntail would catch fire,{01 00 00 0a 00}\n{04 02 00}!{03 01 00 01}",
+   "et": ""
+  }
+ ]
+}

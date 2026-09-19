@@ -1,0 +1,65 @@
+{
+ "file": "script/ENG/message/ha/ai/nfirst_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 04 00}Hey!{01 00 00 0a 00} New face!\nHowzit goin', {01 00 00 05 00}{04 02 00}?\n\n{07 14 00}I oughta introduce myself.{01 01 00}\nI'm {04 01 00}, and my\nsign is {04 0f 00}!\nYou want lessons on\nhow to {04 22 00},\nwatch me, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 14 00}Hey, nice to meet you!{01 00 00 0a 00}\nThe name's {04 01 00},\n{01 00 00 05 00}{04 02 00}!\n{07 0b 00}So yeah, uh, who are you?{01 00 00 0a 00}{01 00 00 05 00}\n.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}Oh, OK, I gotcha.{01 00 00 05 00} Right.{01 00 00 05 00}\n{07 00 00}{0b 03 00}{04 1f 00}, huh?\nI've known you since\n{07 11 00}before you were born!\nScout's honor, {01 00 00 05 00}{04 02 00}!\n{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 16 00}OK, OK, I'm just joshing!{01 00 00 05 00}\nYou shoulda seen the\n{07 06 00}look on your face, though!",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 04 00}Oh! Hang on, now!{01 00 00 0a 00}\n{07 0b 00}Are you from {04 03 00}?\n\n{07 14 00}My name's {04 01 00}!{01 00 00 0a 00}\nI'm the local hunky hunk.{01 00 00 05 00}\nAsk anyone!\n{07 0e 00}And your name is{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.?{01 01 00}\n{07 14 00}Ahh, {01 00 00 05 00}{04 1f 00}, huh?\n\nMaybe{01 00 00 05 00} you can be the funky\nfunkmaster!{01 00 00 05 00} Whatcha think,\n{01 00 00 05 00}{04 02 00}?",
+   "et": ""
+  },
+  {
+   "id": 3,
+   "en": "{07 14 00}Hey, how are you?{01 00 00 0a 00}\nWait, no, {01 00 00 05 00}WHO are you?{01 00 00 0a 00}\n\n{07 0e 00}So you're telling me.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n{07 0b 00}they call you {04 1f 00}?\nReally, {01 00 00 05 00}{04 02 00}?\nYou oughta drink protein-\nenriched {04 18 00}\nnow and then, skinny!",
+   "et": ""
+  },
+  {
+   "id": 4,
+   "en": "{07 14 00}Niiiiiiiiiiiiiiiiice!{01 00 00 0a 00}\nA new face in town!{01 00 00 05 00}\nHeck yeah, {01 00 00 05 00}{04 02 00}!\nI'm {04 01 00}!{01 00 00 0a 00}\n{07 0e 00}So, you're{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00}{07 14 00}{04 1f 00}?\n\nIf you ever wanna try to\n{04 22 00} while\nflexing, holler at your boy!",
+   "et": ""
+  },
+  {
+   "id": 5,
+   "en": "{07 14 00}Hey, nice to meet you!{01 00 00 0a 00}\nThey call me {04 01 00}...{01 00 00 0a 00}\nMy sign is {04 0f 00}!\n{07 00 00}If you ever get the urge\nto {04 22 00}...\n\nDon't hesitate to let me\nknow, OK, {01 00 00 05 00}{04 02 00}?",
+   "et": ""
+  },
+  {
+   "id": 6,
+   "en": "{07 14 00}Hey, pleased ta meetcha!{01 00 00 0a 00}\nI'm {04 01 00}!{01 00 00 0a 00}\n{07 0b 00}Who are you, {01 00 00 05 00}{04 02 00}?\n.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}Ah, so you're known as{01 00 00 0a 00}\n{07 00 00}{04 1f 00}, huh?\n\n{07 14 00}I was super busy{01 00 00 05 00} all day\ntoday, so I'm doing my\nworkout now.\n{07 04 00}What, {01 00 00 05 00}you too?{01 01 00}\n{07 15 00}Well, gimme some space!{01 00 00 05 00}\nThese pythons need room!",
+   "et": ""
+  },
+  {
+   "id": 7,
+   "en": "{07 14 00}Hey,{01 00 00 05 00} how's your evening?{01 00 00 0a 00}\nOh, hey, and nice to meet\nyou, {01 00 00 05 00}{04 02 00}!\n{07 00 00}I'm {04 01 00}, aka the\nChugging Ninja!{01 00 00 05 00} I just\nmoved here.\nEver tried your hand at \nchugging?{01 00 00 05 00} I mean,\ncompetitively?\n{07 00 00}Well,{01 00 00 05 00} next time, it's on!{01 00 00 05 00}\n{07 0d 00}Fresh {04 18 00}!{01 00 00 05 00}\nYou and me, head to head!",
+   "et": ""
+  },
+  {
+   "id": 8,
+   "en": "{07 14 00}Hey, nice to meetcha!{01 00 00 0a 00}\nI'm {04 01 00}!{01 01 00}\n{07 00 00}You're {01 00 00 05 00}{04 1f 00}, right?\n{07 14 00}I heard about you from\nsomeone this afternoon!\n\n{07 0d 00}Well, {01 00 00 05 00}here's to you and me\nbecoming good friends, huh?{01 00 00 0a 00}\nRock on, {ff 00 00 05}{04 1f 00}{ff 00 00 00}!",
+   "et": ""
+  },
+  {
+   "id": 9,
+   "en": "{07 14 00}Yo, {01 00 00 05 00}how's your evening?{01 01 00}\nI'm {04 01 00}, and my\nsign is {04 0f 00}!\nHm{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} So your name is\n{04 1f 00}, huh,\n{01 00 00 05 00}{04 02 00}?\nListen, if you ever spot\n{04 0f 00}, you have to\npromise to{01 00 00 05 00} tell me, OK?",
+   "et": ""
+  },
+  {
+   "id": 10,
+   "en": "{07 14 00}Yo yo!{01 00 00 0a 00} I just moved into\ntown a little bit ago.{01 00 00 05 00}\nI'm {04 01 00}!\n{07 00 00}So, {01 00 00 05 00}why are you talking to \nme this late at night?{01 00 00 05 00}\n{07 0b 00}Your days are that busy?\n{07 14 00}Well, I've never got anything\nthat important going on,{01 00 00 05 00}\nso come over...whenever!",
+   "et": ""
+  },
+  {
+   "id": 11,
+   "en": "You{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 02 00}night creeper!{01 00 00 0a 00}\nGosh, {01 00 00 05 00}{04 02 00}!!!\n\n{07 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}Wait! You're no monster!{01 00 00 05 00}\n{07 16 00}Have we even met yet?!{01 00 00 0a 00}\nYou scared me!\n{07 00 00}Look, I'm {04 01 00}.{01 01 00}\n{07 0e 00}So, OK, you're called{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n{07 00 00}{04 1f 00}, huh?\nIf you're ever in the mood\nto {04 22 00} late\nat night, lemme know!",
+   "et": ""
+  }
+ ]
+}

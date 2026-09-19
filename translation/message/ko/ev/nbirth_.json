@@ -1,0 +1,160 @@
+{
+ "file": "script/ENG/message/ko/ev/nbirth_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 04 00}Hey!{01 00 00 0f 00} Well, if it isn't{01 00 00 05 00}\n{04 1f 00}!\n\n{07 06 00}You.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} You know, you didn't\nhave to come.\n\n{07 16 00}I guess you just had some\ntime on your hands, then?\nEh, {01 00 00 05 00}{04 02 00}?",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 04 00}Hey, {01 00 00 05 00}{04 1f 00}!\nYou're late!\n\n{07 06 00}We've been waiting forever\nfor you to show up!",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 00 00}{ff 00 00 06}{04 0f 00}{ff 00 00 00} came along to\ncelebrate, too!\n\nI didn't think I needed any\nfriends, but{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.\n\n{07 08 00}You guys are the best{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.\n{01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 3,
+   "en": "{07 00 00}{0b 03 00}{04 1f 00} and\n{ff 00 00 06}{04 0f 00}{ff 00 00 00}{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.\n\nTo think I'd have as many\nas TWO people at my\nbirthday party{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 08 00}Sniff!{01 00 00 14 00} This is the best\nbirthday EVER, {01 00 00 05 00}{04 02 00}.",
+   "et": ""
+  },
+  {
+   "id": 4,
+   "en": "{07 00 00}By the way, {04 1f 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0f 00}\n\n\nNo pressure, but, uh, {07 14 00}is\nthere anything you want to\nGIVE me? {0b 03 00}{01 00 00 05 00}{04 02 00}?{02 00 00 ff ff}\nOh, yeah!\nUh, no.",
+   "et": ""
+  },
+  {
+   "id": 5,
+   "en": "{07 00 00}Say,{01 00 00 05 00} I know it's awkward for\nme to bring it up, but{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n{07 0b 00}where's my present?{02 00 00 ff ff}\nRight here!\nIn your dreams.",
+   "et": ""
+  },
+  {
+   "id": 6,
+   "en": "{07 00 00}Hey, {01 00 00 05 00}{04 1f 00},{01 00 00 0f 00}\ndon't overdo it, now.\n{0b 03 00}{01 00 00 05 00}{04 02 00}!\nRight now,{01 00 00 05 00} you've got that\nkind of cornered animal\nlook on you.\n{07 15 00}I can see it on your face,\n{01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 7,
+   "en": "{07 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 16 00}Yeah, I sorta expected\nthat.",
+   "et": ""
+  },
+  {
+   "id": 8,
+   "en": "{07 05 00}All right, you gravy-nosed\npastry-face!{01 00 00 14 00} You tryin' to\nmake me look bad?!",
+   "et": ""
+  },
+  {
+   "id": 9,
+   "en": "{07 04 00}Whoa!{01 00 00 0f 00} You serious?\n\n\n{07 00 00}Is it, uh, a birthday\npresent, perhaps?\n{0b 03 00}{01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 10,
+   "en": "{07 04 00}No{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00} No way!{01 00 00 14 00}\nYou sure you're not just\n{07 00 00}yankin' my chain?",
+   "et": ""
+  },
+  {
+   "id": 11,
+   "en": "{07 04 00}Whoa, check it out{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 01 00}\n{0b 03 00}{04 1a 00}!\n\n{07 00 00}I always wanted to start\ngetting into these!\n\n{07 0d 00}And now my new\n{0b 02 00}{04 1a 00}\nwill be my chance!",
+   "et": ""
+  },
+  {
+   "id": 12,
+   "en": "{07 00 00}Hey!{01 00 00 14 00} Look at that!\n{0b 03 00}{04 1a 00}!\n\nIt's not like I wanted or\ndidn't want one, but{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n\nHey, who's complaining,\nright? {0b 03 00}{01 00 00 05 00}{04 02 00}!\n\n{07 14 00}{0b 03 00}{04 1f 00}, you're not a \nslack-jawed cheese-hugger\nafter all!",
+   "et": ""
+  },
+  {
+   "id": 13,
+   "en": "{07 1d 00}Could it...{01 00 00 05 00} Could it...{01 00 00 05 00}be...\n{04 1a 00}?! \n\n{07 06 00}Yee-haaah!{01 00 00 0f 00} I have{01 00 00 05 00} ALWAYS\nwanted a present like this,\n{01 00 00 05 00}{04 02 00}!\n{07 0d 00}You must really know my\nstyle!",
+   "et": ""
+  },
+  {
+   "id": 14,
+   "en": "{07 1d 00}No way! {01 00 00 14 00}Yesssss!\n{0b 03 00}{04 1a 00}!\n\n{0b 03 00}{04 1f 00}, how'd you\nknow{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.?\n\n{07 08 00}I'm so glad we're friends,\n{01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 15,
+   "en": "{07 00 00}You gotta take my\n{0b 02 00}{04 1b 00} in\nreturn!\nIt's the least I can do.",
+   "et": ""
+  },
+  {
+   "id": 16,
+   "en": "{07 00 00}Oh yeah,{01 00 00 0f 00} it's not right just\nto take and take and take.\n\n{07 14 00}So I want you to have my\n{0b 02 00}{04 1b 00} in\nreturn, {01 00 00 05 00}{04 02 00}.",
+   "et": ""
+  },
+  {
+   "id": 17,
+   "en": "{07 14 00}This is gonna sound kinda\nlame, {01 00 00 05 00}but let's always\nbe friends, {04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 18,
+   "en": "{07 00 00}I think this is the start of\na great friendship,\n{01 00 00 05 00}{04 02 00}.",
+   "et": ""
+  },
+  {
+   "id": 19,
+   "en": "{07 00 00}I guess this year\nrepresents the peak of my\nmanliness{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}\n{07 11 00}I should try to pull off\nsomething more manly than\never before, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 20,
+   "en": "{07 00 00}Still,{01 00 00 05 00} I have to say I didn't\nexpect you to come!\n\n{07 06 00}Actually,{01 00 00 05 00} I thought you\ntotally hated me!\n\n{07 08 00}Bwahhhaaaa!{01 00 00 14 00} I'm so happy,\n{01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 21,
+   "en": "{07 00 00}I'm so happy to have you\ntwo here to party with!\n\n{07 15 00}Ahhhh {01 00 00 05 00}AGGHHH {01 00 00 05 00}AGHHHHH...{01 01 00}\n{07 01 00}{01 08 00}...CHOOOOOOOOOOOO!!!{01 00 00 14 00}\n{07 16 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}Ugh, {01 00 00 05 00}dadblastit!",
+   "et": ""
+  },
+  {
+   "id": 22,
+   "en": "{07 16 00}You know,{01 00 00 05 00} I just got one\nyear older.{01 00 00 05 00}\n\n{07 1c 00}I guess birthdays aren't\nmuch for celebrating after\nall, {01 00 00 0f 00}are they?",
+   "et": ""
+  },
+  {
+   "id": 26,
+   "en": "{07 00 00}So tell me, {01 00 00 05 00}{04 1f 00},{01 00 00 14 00}\nwhat's the deal between you\nand {ff 00 00 06}{04 10 00}{ff 00 00 00},{ff 00 00 06} {ff 00 00 00}{07 0b 00}anyway?\n{07 00 00}.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}Oh!{01 00 00 0f 00} I see, {01 00 00 05 00}I see.\n\n\n{07 15 00}Well, it must be nice to be\nyoung, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 27,
+   "en": "{07 14 00}Should we do something\nnice for {ff 00 00 06}{04 10 00}{ff 00 00 00}'s\nbirthday, too?\n{07 15 00}Hm.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} All right, then!{01 01 00}\nWe'll come up with somethin'\ncrazy for {ff 00 00 06}{04 10 00}{ff 00 00 00}!\n{07 11 00}It'll be the most\nraging birthday party in\nthe history of ever!",
+   "et": ""
+  },
+  {
+   "id": 28,
+   "en": "{07 04 00}Huh?{01 00 00 14 00} You haven't given your\npresent yet?\n\n{07 00 00}So uh,{01 00 00 05 00} you're just a big\ntease, aren'tcha?",
+   "et": ""
+  },
+  {
+   "id": 29,
+   "en": "{07 14 00}Look,{01 00 00 0f 00} {ff 00 00 06}{04 10 00}{ff 00 00 00} is smiling\nlike an idiot, {01 00 00 05 00}{04 02 00}!\n\n{07 00 00}If you just hand over\na present, you'd have a\nbuddy for life!",
+   "et": ""
+  },
+  {
+   "id": 30,
+   "en": "{07 00 00}The best way to get happy\n{07 19 00}is to make others happy.\n\n{07 03 00}Not that I'd know anything\nabout that!\n",
+   "et": ""
+  },
+  {
+   "id": 31,
+   "en": "{07 00 00}So, do you think you and \n{ff 00 00 06}{04 10 00}{ff 00 00 00} will come to my\nbirthday party?\n{07 06 00}I'll be pretty bummed if\nyou don't, {04 1f 00}!\nSeriously, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 32,
+   "en": "{07 13 00}Man, you can really feel the\nlove in here. {01 00 00 05 00}And it's not\neven makin' me sick!\n{07 14 00}I wish there was a birthday\naround here every day,\n{01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 33,
+   "en": "{07 14 00}So, {ff 00 00 06}{04 10 00} {ff 00 00 00}looks\npretty happy, {01 00 00 05 00}{04 02 00}.\n\nI mean, who wouldn't be\nhappy with party guests\nlike us?{01 00 00 05 00}\nAnd, {04 1f 00}, you even\nbrought a present and\neverything!",
+   "et": ""
+  }
+ ]
+}

@@ -1,0 +1,85 @@
+{
+ "file": "script/ENG/message/obj/etc/nchest_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "\nIt's empty!",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "\nWhat are you looking for?",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "You found 10 Rupees!\nTalk about lucky!\n\nToo bad you can't use them\nin this town...",
+   "et": ""
+  },
+  {
+   "id": 3,
+   "en": "Ugh! Avert your eyes!\nIt's total chaos in there...",
+   "et": ""
+  },
+  {
+   "id": 4,
+   "en": "Un... Unbelievable...\nPretend you never saw that!",
+   "et": ""
+  },
+  {
+   "id": 5,
+   "en": "Oops! You just broke the\nhandle! Put it back so it\nlooks totally fine!",
+   "et": ""
+  },
+  {
+   "id": 6,
+   "en": "It's empty.\n\n\n...Huh? What's that written\nthere way in the back?\n\n\"Made in Japan\"",
+   "et": ""
+  },
+  {
+   "id": 7,
+   "en": "Eww...\nIt smells in there!\nAnd it ain't mothballs...",
+   "et": ""
+  },
+  {
+   "id": 8,
+   "en": "You really shouldn't\nrummage through people's\ndrawers, you know.",
+   "et": ""
+  },
+  {
+   "id": 9,
+   "en": "...Oh! WOW! COOL!\n\n\nThat explains a LOT!",
+   "et": ""
+  },
+  {
+   "id": 10,
+   "en": "You've seen something you\nweren't intended to see...\n\nWell, it's been real nice\nknowing you!",
+   "et": ""
+  },
+  {
+   "id": 11,
+   "en": "Something stinks in here!",
+   "et": ""
+  },
+  {
+   "id": 12,
+   "en": "What are Luigi's clothes\ndoing in here?!?",
+   "et": ""
+  },
+  {
+   "id": 13,
+   "en": "Wow! Is it THAT hard to\nclean up a little before\nhaving guests over?",
+   "et": ""
+  },
+  {
+   "id": 14,
+   "en": "Heh heh! I'm such a snoop!",
+   "et": ""
+  },
+  {
+   "id": 15,
+   "en": "What the HECK is going on\nhere?! What a weirdo!",
+   "et": ""
+  }
+ ]
+}

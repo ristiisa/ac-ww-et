@@ -1,0 +1,20 @@
+{
+ "file": "script/ENG/message/ko/q10/reserve_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 1d 00}Oh, hey!{01 00 00 0f 00} That's quite\nneighborly of you,\n{01 00 00 05 00}{04 02 00}!\n{07 00 00}{07 0b 00}So then, what time should\nI come over?",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 1d 00}Oh!{01 00 00 0f 00} {07 00 00}{07 16 00}Hey, look, it doesn't\nneed to happen right away\nor anything.\n{07 00 00}{07 0b 00}What time works for you,\n{01 00 00 05 00}{04 02 00}?",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 04 00}Oh yeah!{01 00 00 0f 00} I'm real flattered\nthat you'd invite me over,\n{01 00 00 05 00}{04 02 00}!\n{07 00 00}{07 0b 00}Well then, about when should\nI show up?\n\n{07 03 00}I bet you need a few weeks\nto clean up your place,\n{01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  }
+ ]
+}

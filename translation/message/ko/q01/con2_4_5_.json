@@ -1,0 +1,20 @@
+{
+ "file": "script/ENG/message/ko/q01/con2_4_5_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 15 00}Hey! {01 00 00 05 00}You don't have\n{04 1a 00}\nyet, do you, {04 1f 00}?{01 00 00 05 00}\n{07 11 00}Heh {01 00 00 05 00}heh {01 00 00 05 00}heh{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}. Good thing\nI've been warning 'em\nto stay away from you!",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 15 00}Shootin' the breeze, eh?\n\n\n{07 11 00}Good, good. While you're\nslacking, I'll be off finding\n{04 1a 00}!",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 0e 00}Where the HECK is it, {01 00 00 05 00}\n{01 00 00 05 00}{04 02 00}? {01 00 00 05 00}WHERE?!\n\nIt's got a small head, but\n{0b 01 00}{04 1a 00}\nis thinking big!",
+   "et": ""
+  }
+ ]
+}

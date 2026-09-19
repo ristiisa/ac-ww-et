@@ -1,0 +1,20 @@
+{
+ "file": "script/ENG/message/ge/q09/explain_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 14 00}Wow, {04 1f 00}!{01 00 00 0a 00} You're\ndoing really good today,\n{01 00 00 05 00}{04 02 00}!\n{07 00 00}OK then, {01 00 00 05 00}here's the rules...\nI'm gonna hide, and you get\n{ff 00 00 02}FIVE minutes{ff 00 00 00} to find me!\nIf you DO find me within\n{ff 00 00 02}five minutes{ff 00 00 00}...you WIN,\n{01 00 00 05 00}{04 02 00}!\n{07 14 00}And if not... {01 00 00 05 00}I WIN!!{01 01 00}\n{07 11 00}OK, here I go!\n{01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 0a 00}Yaaaay!{01 00 00 0a 00} Fun things are FUN!{01 00 00 0a 00}\nOK, lemme explain the rules!\n\n{07 00 00}I'm gonna go hide,{01 00 00 05 00} and YOU\nhave {ff 00 00 02}ten minutes{ff 00 00 00} to find\nme!{01 00 00 0a 00} {07 0b 00}Are you ready?\nReeeeeeady...{01 01 00}\nSeeeeet{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}{01 01 00} Goat!{01 00 00 0f 00}\n{07 03 00}Tee hee, just kidding... {01 00 00 0a 00}GO!",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 14 00}Yes!!{01 00 00 14 00} {0b 03 00}{04 1f 00}, you so\ntotally rule, {04 02 00}!\n{07 00 00}We'll take it slow at first.{01 00 00 05 00}\n{07 14 00}Let's set the time limit to\n{ff 00 00 02}fifteen minutes{ff 00 00 00}! Oh, and\nby the way...\n{07 0d 00}I GET TO HIDE! {01 00 00 05 00}Yay!{01 00 00 05 00}\n{07 14 00}OK, I'm gonna go hide now...{01 01 00}\nTRYANDFINDME!{01 00 00 05 00} Hee hee hee!!",
+   "et": ""
+  }
+ ]
+}

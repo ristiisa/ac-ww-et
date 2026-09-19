@@ -1,0 +1,20 @@
+{
+ "file": "script/ENG/message/bo/q11/trade1_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 00 00}These are some of my\nfavorite pieces of\nfurniture!\n{07 14 00}Please tell me if you like\nany of them, {01 00 00 05 00}{04 02 00}.{02 04 00 ff ff}\nSure.\nNever!",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 14 00}No one ever tells me which\npiece of furniture in my\nhouse they like the best.\nBut, {01 00 00 03 00}as one of my best\nbuddies, {01 00 00 03 00}you'll tell me,\n{07 0b 00}right? {02 04 00 ff ff}\nSure.\nNot now.",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "Hey, do you like any of my\nfurniture? {01 00 00 05 00}Please let me\nknow if you do!{02 04 00 ff ff}\nUh, OK.\nLeave me alone!",
+   "et": ""
+  }
+ ]
+}

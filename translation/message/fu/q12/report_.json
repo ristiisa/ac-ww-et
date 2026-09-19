@@ -1,0 +1,20 @@
+{
+ "file": "script/ENG/message/fu/q12/report_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 00 00}I'm sorry if I had you\nworried about me. {01 00 00 0f 00}{07 0a 00}I feel\n100% better now!\n{07 14 00}It's all because you brought\nme that {ff 00 00 07}medicine{ff 00 00 00}!\n\n{07 0d 00}I don't know what I'd do\nwithout you, {04 1f 00}!\nThank you so much!",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 14 00}Thanks a bunch for getting\nme {ff 00 00 07}medicine{ff 00 00 00} the other day.\n\n{07 0a 00}I think I'm totally over\nthat cold now, {04 1f 00}!",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 14 00}I feel so happy! {01 00 00 05 00}Thanks to\nall of my friends,\nI'm totally recovered!\n{07 0d 00}It was a bad cold, but your\n{ff 00 00 07}medicine{ff 00 00 00} saved me from\nbecoming a snot factory!",
+   "et": ""
+  }
+ ]
+}

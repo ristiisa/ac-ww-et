@@ -1,0 +1,20 @@
+{
+ "file": "script/ENG/message/fu/q04/dress_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 00 00}Look, what do you think of\nmy current fashion sense?{01 00 00 0a 00}\nAnd be honest, {01 00 00 05 00}{04 02 00}!\n.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}{07 06 00}Not bad?{01 00 00 0a 00} .{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}{07 00 00}{07 0b 00}Bad?{01 00 00 14 00}\n.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 00 00}{07 02 00}Yipes! It's not THAT bad,\nis it?!",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 14 00}Hey, {01 00 00 05 00}{04 1f 00}!{01 00 00 0f 00} Like my\noutfit?{01 00 00 0a 00} {07 0d 00}I think it makes\nme pretty, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 14 00}So what do you think, {01 00 00 0a 00}\n{04 1f 00}? Not bad, huh?\n\n{07 0d 00}Yeah, once I get all dolled\nup, {01 00 00 03 00}I'm pretty cute,\n{01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  }
+ ]
+}

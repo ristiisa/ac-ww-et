@@ -1,0 +1,20 @@
+{
+ "file": "script/ENG/message/ko/q01/nlose_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 0f 00}I lost?{01 00 00 0a 00} How is that even\npossible, {01 00 00 05 00}{04 02 00}?\n\n{07 16 00}And I lost to {04 1f 00}\nof all people? That's just\nsad.",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 02 00}Are you serious!?{01 00 00 14 00}\nYou've already caught one!?{01 00 00 05 00}\n\n{07 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{01 00 00 05 00}{07 16 00}Do I have to be all nice\nabout losing? I hate that,\n{01 00 00 05 00}{04 02 00}.",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 02 00}Whoa, whoa, whoa,\n{01 00 00 14 00}{04 1f 00}! {01 00 00 05 00}You actually\nbeat me?!\n{07 06 00}So I slacked off a little,{01 00 00 05 00}\nbut you caught that way\ntoo fast, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  }
+ ]
+}

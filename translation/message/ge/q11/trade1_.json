@@ -1,0 +1,20 @@
+{
+ "file": "script/ENG/message/ge/q11/trade1_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 00 00}{0b 03 00}{04 1f 00}!! {07 0b 00}Do you see \nanything you like? {01 00 00 05 00}I have,\nlike, many fine deals!!{02 04 00 ff ff}\nI gotta buy!\nJust lookin'.",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 19 00}Look at your eyes{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 14 00} {07 11 00}You\nfound something you can't\nlive without!\n{07 14 00}You gotta tell me what it\nis, {01 00 00 05 00}{04 02 00}!!{02 04 00 ff ff}\nSell me stuff!\nJust lookin'.",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 0b 00}Anything you like? I'll, like,\nTOTALLY sell you something\ngreat, {01 00 00 05 00}{04 02 00}!{02 04 00 ff ff}\nSounds good!\nNot today.",
+   "et": ""
+  }
+ ]
+}

@@ -1,0 +1,130 @@
+{
+ "file": "script/ENG/message/bo/ev/arbeit_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 06 00}Uh, {04 1f 00},{01 00 00 0a 00} there's\nsomething I want to ask\nyou.\n{07 16 00}Umm{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00}{01 01 00} {07 0b 00}When's your birthday,{01 00 00 05 00}\n{04 02 00}?\n",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 04 00}Hey, {04 1f 00}!{01 00 00 0a 00} Listen,\nI've been thinking{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 01 00} {07 14 00}Cursive\nis kinda awesome, isn't it?\n{07 19 00}Not only is it pretty, but\nit's also a sign that you're\ncool and grown-up{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n{07 14 00}Are you already grown up,\n{04 1f 00}? {01 01 00}{07 0b 00}Or are you\nstill a kid?{02 00 00 14 15}\nGrown up!\nKid!",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 14 00}Say, {04 1f 00},{01 00 00 0a 00}{07 00 00} have you\nseen any trees with fruit\non them?\nYou can shake them two\nways: {ff 00 00 01}touch {ff 00 00 00}the trees, or\npress the {ff 00 00 01}A Button{ff 00 00 00}...\n{07 0d 00}Then the sweet, sweet fruit\nfalls to the ground, like\nrain sent from the heavens!\n{07 0e 00}You can sell any fruit you\ncollect at {ff 00 00 06}Tom Nook{ff 00 00 00}'s shop.\n\n{07 19 00}But I prefer to just plant\nthat fruit in the ground\nto grow a new tree.\n{07 00 00}If you care for trees well,\n{01 00 00 05 00}the whole town will be like\na {ff 00 00 02}fruit orchard{ff 00 00 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n{07 0a 00}Then it will be like an\nall-you-can-eat buffet of\nfresh fruit,{01 00 00 0a 00} {04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 3,
+   "en": "{07 14 00}Listen, if you want to plant\nfruit, you need a {ff 00 00 07}shovel{ff 00 00 00} so\nyou can dig a hole.\n{07 00 00}They sell {ff 00 00 07}shovels{ff 00 00 00} at {ff 00 00 06}Tom\nNook{ff 00 00 00}'s shop, {07 14 00}so save up\nyour Bells, {01 00 00 0a 00}{04 02 00}!\n{07 04 00}Oh!{01 00 00 0a 00} But{01 00 00 0a 00} that's not all {ff 00 00 06}Tom\nNook{ff 00 00 00} sells. {07 19 00}He also sells\n{ff 00 00 07}fishing rods{ff 00 00 00}{07 00 00} to catch fish!\n{07 14 00}And he sells {ff 00 00 07}watering\ncans{ff 00 00 00}, so you can give new\nlife to withered flowers.\nHe has all the latest and\ngreatest tools there,\n{01 00 00 0a 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 4,
+   "en": "{07 14 00}OK!{01 00 00 14 00} Now I'm gonna tell you\nabout some great\nBell-making schemes!\n{07 06 00}Umm{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{01 01 00} {07 00 00}OK, you know how\nthere are lots of fish and\nbugs in this town?\nAnd there are tons of fruit\n{01 00 00 0a 00}{01 00 00 05 00}and shells? Well,{01 00 00 05 00}{07 14 00} {01 00 00 05 00}{ff 00 00 06}Tom Nook\n{ff 00 00 00}buys all that at his shop!\n{07 15 00}Viva {04 03 00}!{01 01 00} {07 14 00}This town\nis like a mountain of\ntreasure, {01 00 00 0a 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 5,
+   "en": "{07 04 00}Oh,{01 00 00 0a 00} {04 1f 00}! Have you\nalready heard about how to\nsend letters? It's easy!\n{07 00 00}To send mail to someone in\ntown,{01 00 00 0a 00} go to the {ff 00 00 08}post\noffice{ff 00 00 00} in the {ff 00 00 08}town hall{ff 00 00 00}.\n{07 14 00}And if you want to send a\ngift with your letter,\n\n{07 00 00}just {ff 00 00 01}touch{ff 00 00 00} the item in\nyour pockets that you want\nto send,\n{07 0d 00}and then just {ff 00 00 01}slide{ff 00 00 00} it over\nto your letter!\n\n{07 00 00}In fact, I sent a letter to\n{04 0b 00} just the other\nday.\n{07 0f 00}{01 00 00 05 00}But I haven't gotten a\nresponse yet.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{01 00 00 0a 00}{04 02 00}.\n",
+   "et": ""
+  },
+  {
+   "id": 6,
+   "en": "{07 00 00}Uh, {04 1f 00}?{01 00 00 0a 00}{07 14 00} Did anyone\nbother to tell you about\nthe {ff 00 00 02}town tune{ff 00 00 00} yet?\nYou know how when you talk\nto someone, and at the\n3 o'clock snack time,\n{07 0d 00}and at all sorts of other\ntimes, the {04 03 00}\ntheme song plays?\n{07 00 00}Well, anyone who lives here\ncan go to the {ff 00 00 08}town hall{ff 00 00 00}\nand register a new tune.\nIt's a good way to show\nothers in town how creative\nand cool you are!",
+   "et": ""
+  },
+  {
+   "id": 7,
+   "en": "You probably already know\nthis, but {01 00 00 0a 00}up to four people\ncan live in your house!\n{07 13 00}Four people! Cool, huh!{01 00 00 14 00}\nYou could have your mom,{01 00 00 0a 00}\nyour brother,{01 00 00 0a 00} your sister{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n{07 0a 00}Wow! Practically my whole\nfamily could fit in your\nhouse,{01 00 00 05 00} {04 02 00}!\n{07 04 00}Eh?{01 00 00 14 00} What do you do when\nyou want to set out on\nyour own, you ask?\n{07 14 00}Just go to the {ff 00 00 08}civic center{ff 00 00 00}\nin the {ff 00 00 08}town hall{ff 00 00 00} to move\nout.\n{07 16 00}The movers are kinda\ncrummy {01 00 00 05 00}and have a\nreputation for losing stuff.\n{07 14 00}So I'd listen closely to all\nthe details before you\nmove.",
+   "et": ""
+  },
+  {
+   "id": 8,
+   "en": "{07 16 00}The other day, {04 0b 00}\nhad a friend visiting from\nout of town.{07 1c 00}{01 00 00 0a 00} It was so nice.\n{07 19 00}Yeah, you're allowed to\ninvite up to three friends\nto {04 03 00} at a time.\n{07 00 00}Do you think any of your\nfriends will come visit,\n{01 00 00 05 00}{04 1f 00}?\n{07 14 00}When they do, let me know\nby writing a message on\nthe {ff 00 00 08}bulletin board{ff 00 00 00}, OK?\n{07 04 00}What?{01 00 00 0a 00} You're asking if I'd\nwant to play with you?{01 01 00} {07 16 00}{01 00 00 05 00}Oh!\nI'm way too shy for that!\n{07 19 00}I'll just observe your\nfriends from the shadows{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n\n{07 00 00}Oh, and the same goes for\nwhen you leave town,{01 00 00 0a 00}\n{04 02 00}.\n{07 14 00}Just shout to the\n{ff 00 00 06}gatekeepers{ff 00 00 00},{01 00 00 05 00} \"I want out! I\nwant out!\"",
+   "et": ""
+  },
+  {
+   "id": 9,
+   "en": "{07 16 00}Um,{01 00 00 05 00} {04 1f 00},{01 00 00 14 00} promise\nme you won't forget me,\neven if I go far, far away.\n{07 1c 00}{01 00 00 05 00}And promise me you'll talk\nto the {ff 00 00 06}gatekeepers {ff 00 00 00}to visit\nme in my new town{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00}\n{07 06 00}I'll bring all the letters\nyou sent me, too{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 01 00}{07 00 00} Or\nsomething like that.{01 00 00 0a 00}\n{07 1b 00}That was weird, {01 00 00 05 00}{04 1f 00}.{01 00 00 0f 00}\nIt was like practicing for\nmoving away!",
+   "et": ""
+  },
+  {
+   "id": 10,
+   "en": "{07 00 00}Huh?{01 00 00 14 00} {07 0b 00}Why are you bringing\nthis to me, {04 1f 00}?\n\n{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 14 00}{07 14 00}Oh,{01 00 00 05 00} is that it?{01 00 00 14 00} You're\nhelping out at{01 00 00 05 00} {ff 00 00 06}Tom Nook{ff 00 00 00}'s\nshop, are you?\n{07 00 00}Look at you! Workin' hard!{01 00 00 14 00}\nI'm gonna have to work\nhard, too!\n{07 14 00}Here! Consider this your\nhousewarming present!",
+   "et": ""
+  },
+  {
+   "id": 11,
+   "en": "I hope you need\n{04 1a 00}.\n\n{07 0b 00}Didn't you come here\nempty-handed?{01 01 00} {07 19 00}You're like a\nwandering bird,\n{07 0d 00}casually fluttering about,{01 00 00 0a 00}\nsleeping in whatever patch\nof grass you find.\n{07 00 00}If you want to put this in\nyour place, {ff 00 00 01}tap {ff 00 00 00}yourself on\nthe {ff 00 00 01}Touch Screen{ff 00 00 00}.\n{07 14 00}Yeah, and then you can\ngrab your furniture.\n\n{07 00 00}Then you can {ff 00 00 01}slide{ff 00 00 00} it to\npush it or pull it{01 00 00 0a 00} {07 14 00}and move\nit wherever you want!\nGood luck,{01 00 00 0a 00} {04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 12,
+   "en": "{07 04 00}Oh!{01 00 00 05 00} A carpet!{01 00 00 14 00}{07 00 00} You're sure\nworkin' hard, aren't you,\n{04 1f 00}?\n{07 0c 00}{01 00 00 0a 00}Which reminds me,{01 00 00 0a 00}{07 16 00} you don't\nhave any furniture at all in\nyour place yet, do you?\n{07 0b 00}Do you think you\ncould use my, uh{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{0b 02 00}{04 1a 00}?\n{07 00 00}Why, just spreadin' out\nsome carpet can make the\nplace feel a lot homier.",
+   "et": ""
+  },
+  {
+   "id": 13,
+   "en": "{07 04 00}Oh!{01 00 00 14 00}{07 00 00} This carpet just\nreminded me! {07 14 00}{ff 00 00 06}Tom Nook\n{ff 00 00 00}changes his stock daily.\n{07 19 00}So, you have to go back\nevery day to see what's\nnew, {01 00 00 0a 00}{04 02 00}.\n{07 0d 00}You never know when you\nmight find a cool carpet\nlike I did!",
+   "et": ""
+  },
+  {
+   "id": 14,
+   "en": "{07 14 00}Hey!{01 00 00 05 00} It's {04 1f 00}, the\ndelivery{01 00 00 0a 00} person!{01 00 00 14 00}\n\n{07 14 00}Finally! With this {ff 00 00 07}watering\ncan{ff 00 00 00}, I can get all my wilted\nflowers to bloom again!\n{07 04 00}Oh!{01 00 00 0a 00} By the by,{07 00 00} are you the\none{01 00 00 0a 00} who sent me this\nletter?",
+   "et": ""
+  },
+  {
+   "id": 15,
+   "en": "{07 14 00}Everyone in {04 03 00}\nloves to get letters.\n\n{07 19 00}In fact, we get together\nalmost daily to brag about\nthe letters we received!\n{07 00 00}If you aren't careful, your\nletters may get passed\nto people in another town!\n{07 0d 00}Then they'll be laughing at\nall your love letters!",
+   "et": ""
+  },
+  {
+   "id": 16,
+   "en": "{07 0e 00}{0b 03 00}{04 0f 00} {04 10 00}?{01 00 00 05 00} Oh{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 14 00} {07 0c 00}{01 00 00 0a 00}So\nyour sign must be\n{04 11 00}, right?{02 00 00 11 12}\nThat's right!\nNO!",
+   "et": ""
+  },
+  {
+   "id": 17,
+   "en": "{07 19 00}Oh, yeah.{01 00 00 0a 00} I definitely got\nthat vibe from you right\nfrom the start{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00}\n{07 00 00}OK,{01 00 00 05 00} then how about this.\n{07 0b 00}Who do you like better,{01 00 00 0a 00}\nyour mom or your dad?{02 02 00 13 13 13 13}\nMy dad.\nMy mom.\nI like 'em both.\nUh...",
+   "et": ""
+  },
+  {
+   "id": 18,
+   "en": "{07 04 00}Really?{01 00 00 14 00}{07 00 00} My brain must still\nbe sleepy.{07 0b 00} Can you tell me\nagain,{01 00 00 0a 00} {04 02 00}?",
+   "et": ""
+  },
+  {
+   "id": 19,
+   "en": "{07 00 00}Hmmm.{01 00 00 05 00} I see, {01 00 00 0a 00}{07 14 00}{04 02 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00}\nI think I understand you a\nlittle bit better.\n{07 1d 00}Oh!{01 00 00 05 00} By the way!{01 01 00} {07 0d 00}You know\nwho I like best?{01 00 00 05 00} My uncle,\n{01 00 00 0a 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 20,
+   "en": "{07 04 00}Neat! So,{01 00 00 05 00} I bet you write in\ncursive all the time, huh!{02 00 00 18 15}\nUh, I guess.\nNo, I was lying.",
+   "et": ""
+  },
+  {
+   "id": 21,
+   "en": "{07 04 00}Um{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 14 00} {07 0b 00}So, you don't write\nin cursive?{02 00 00 17 14}\nNope, I don't!\nYES I DO!",
+   "et": ""
+  },
+  {
+   "id": 22,
+   "en": "{07 14 00}Yep,{01 00 00 05 00} thanks, {04 1f 00},\nthe delivery person!{01 00 00 0a 00}\n\n{07 00 00}With this {ff 00 00 07}watering can{ff 00 00 00}, I\ncan reinvigorate all my\nwilted flowers.\n{07 14 00}Yahoo!{01 00 00 0f 00} Good work,{01 00 00 05 00}\n{04 02 00}.",
+   "et": ""
+  },
+  {
+   "id": 23,
+   "en": "{07 1b 00}That makes sense. I mean, I\nlook like a grown-up, but I\ndon't use cursive, either.\n.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 02 00}No! It's true!{01 00 00 14 00} I get\nmistaken for a grown-up\nall the time!\n{07 06 00}Hah{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}. Hah.{01 00 00 05 00}.{01 00 00 05 00}.{01 01 00}\n{07 19 00}{01 08 00}HAH-CHOOO!{07 00 00}{01 00 00 0a 00} {0b 03 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 24,
+   "en": "{07 19 00}OK. OK.{01 00 00 0a 00} Then I'm gonna try\nhard to write in cursive,\ntoo!{07 14 00}\n{07 0a 00}Lemme tell you,{01 00 00 0a 00} it's a lot\nharder when you don't\nhave opposable thumbs!",
+   "et": ""
+  }
+ ]
+}

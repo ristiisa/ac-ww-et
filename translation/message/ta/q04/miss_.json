@@ -1,0 +1,30 @@
+{
+ "file": "script/ENG/message/ta/q04/miss_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 09 00}Um.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} Are you trying to get\nme{01 00 00 05 00} to wear that\n{0b 02 00}{04 1c 00}?!\n{07 1c 00}{01 00 00 05 00}You know, {04 1f 00},{01 00 00 05 00} I\nreally don't get your\nfashion sense, {01 00 00 05 00}{04 02 00}.",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 14 00}{07 15 00}Hey,{01 00 00 0a 00} I know you meant\nwell and everything,\nbut...\nI really think that my\n{0b 02 00}{04 1c 00}\nwould look better on you.",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "You know,{01 00 00 0f 00} I think my\n{0b 02 00}{04 1c 00}\nwould look better on you.\n{07 14 00}When a pretty gal{01 00 00 05 00} wears\nsomething like that,{01 00 00 05 00} all the\nother girls feel bad.",
+   "et": ""
+  },
+  {
+   "id": 3,
+   "en": "Hel-LO?!{01 00 00 0f 00} I've already got\n{04 1c 00}!{01 00 00 0a 00}\nYou know I like you...\nBut {01 00 00 05 00}{07 01 00}{01 08 00}START PAYING\nATTENTION, you big doofus!",
+   "et": ""
+  },
+  {
+   "id": 4,
+   "en": "{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 14 00}Hey, {01 00 00 0a 00}I know you brought\nthis here for me and all.\nThat's nice.\n{07 15 00}But I don't need\n{04 1c 00}.{01 01 00}\nPAY ATTENTION!",
+   "et": ""
+  }
+ ]
+}

@@ -1,0 +1,20 @@
+{
+ "file": "script/ENG/message/ko/q/preitem_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 00 00}Oh.{01 00 00 05 00} I guess that means I've\ngotta say thanks to you.",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 00 00}Well, uhhh...{01 00 00 0f 00} I'm not very\ngood at this, so...{01 00 00 05 00} Thanks,\nI guess. {01 00 00 0f 00}{0b 03 00}{04 02 00}.",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 00 00}Well, {01 00 00 05 00}that may be true, but\nI'd better say thanks.{01 00 00 05 00} So...\n{01 00 00 05 00}Thanks, {04 1f 00}.",
+   "et": ""
+  }
+ ]
+}

@@ -1,0 +1,20 @@
+{
+ "file": "script/ENG/message/bo/q10/reserve_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 0a 00}Yay!{01 00 00 0a 00} All right, {01 00 00 05 00}{04 02 00}!{01 01 00}\nSo, uh,{01 00 00 05 00} {07 0b 00}when should I come\nover?",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 14 00}All right!{01 00 00 14 00} {07 0d 00}What time should\nI visit?",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 0a 00}All right!{01 01 00} {07 14 00}Now here comes\nmy{01 00 00 05 00} super catchy jingle\nthat I just made up.\n{07 00 00}One-and-a two-and-a{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.{01 01 00}\n{07 01 00}{01 00 00 05 00}\"{ff 00 00 02}When should I be there?{01 00 00 05 00}\nOr do you not care?!{ff 00 00 00}\"",
+   "et": ""
+  }
+ ]
+}

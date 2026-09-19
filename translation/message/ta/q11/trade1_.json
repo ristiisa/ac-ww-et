@@ -1,0 +1,20 @@
+{
+ "file": "script/ENG/message/ta/q11/trade1_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 14 00}So, what do you think?{01 00 00 0a 00}\nPRET-ty nice, huh!\n\nTell me if there's anything\nyou're interested in, {07 0b 00}OK?{02 04 00 ff ff}\nOkey dokey!\nJust lookin'.",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 00 00}Do you think this room is\nas pretty as me?!\n\nIf you like something,{01 00 00 05 00} can\nyou let me know? {01 00 00 05 00}It's just\nfor my information.{02 04 00 ff ff}\nYup!\nNo thanks.",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 00 00}La la la!{01 00 00 14 00} Isn't my house\njust too awesome for\nwords?!\nIf there's something you \nlike, {07 0b 00}you have to tell\nme, OK, {01 00 00 05 00}{04 02 00}?{02 04 00 ff ff}\nOK!\nJUST LOOKING!",
+   "et": ""
+  }
+ ]
+}

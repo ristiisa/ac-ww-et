@@ -1,0 +1,20 @@
+{
+ "file": "script/ENG/message/bo/q06/con_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 0b 00}{01 00 00 05 00}Huh?{01 00 00 14 00} You're back already?!\n{01 01 00}{ff 00 00 06}{07 16 00}{0b 03 00}{04 10 00}{ff 00 00 00} is really\nfreakish about punctuality.\n{07 14 00}Make sure you deliver it\nsoon,{01 00 00 0a 00} {04 02 00}.",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 06 00}{0b 03 00}{ff 00 00 06}{04 10 00}{ff 00 00 00} can be kind of\na stickler when it comes to\nthe clock.\n{07 16 00}So make sure you deliver\nthat{01 00 00 0a 00} like you promised,{01 00 00 0a 00}\n{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 14 00}Huh huh huh!{01 00 00 0a 00} {0b 03 00}{ff 00 00 06}{04 10 00}{ff 00 00 00} is\ngonna be pretty surprised.\n\n{07 0d 00}Um,{01 00 00 05 00} {04 1f 00}?{01 00 00 0a 00} Can you\njust be sure you deliver it\non time,{01 00 00 0a 00} {04 02 00}?",
+   "et": ""
+  }
+ ]
+}

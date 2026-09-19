@@ -1,0 +1,120 @@
+{
+ "file": "script/ENG/message/ko/ap/sell_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 14 00}{0b 03 00}{01 06 00}Hey hey{01 07 00}!{01 00 00 0f 00}\n{0b 03 00}{04 1f 00}!\n\n{07 00 00}Right now, I'm holding a\nlittle somethin'-somethin'.\n\n{07 11 00}And for you, I'd be willing\nto let it go for just\n{04 11 00} Bells{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 0b 00}Whaddaya say? Are ya in,\n{01 00 00 05 00}{04 02 00}?{02 00 00 0c 14}\nSure. Why not?\nI'll pass.",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 00 00}{0b 03 00}Don't you want my\n{0b 02 00}{04 1c 00},\n{04 1f 00}?\n{07 00 00}You could always pay\n{ff 00 00 06}Nook{ff 00 00 00}'s regular price of\n{07 0e 00}{04 11 00} Bells for it...\n{07 0b 00}Whaddaya say? {02 00 00 0c 14}\nGimme, gimme!\nNo, no, no!",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 14 00}{0b 03 00}{01 06 00}Hey, hey{01 07 00}!{01 00 00 0f 00}\nListen up, {04 1f 00}!\n\n{07 00 00}For only {04 11 00} Bells,\nI'll sell ya somethin' good!\n\n{07 11 00}Oh, yes. Somethin' good,\nall right{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} Are you in\nor what?{05 05 00 06 03 02 04 02 04 06 05}\nI want it!\nOnly sorta.",
+   "et": ""
+  },
+  {
+   "id": 3,
+   "en": "{06 01 00 06 07 07}",
+   "et": ""
+  },
+  {
+   "id": 4,
+   "en": "{07 16 00}Pfft, {01 00 00 0f 00}well,{01 00 00 0f 00} don't get TOO\nexcited there{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}. You might\npull a muscle or something.\n{07 15 00}You know what, never mind!{01 00 00 14 00}\nJust forget I ever said\nanything, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 5,
+   "en": "{06 00 00 09 0a}",
+   "et": ""
+  },
+  {
+   "id": 6,
+   "en": "{07 16 00}You don't sound so\ninterested.\n\n{07 01 00}Well, maybe I'm not so\ninterested in you,\n{01 00 00 05 00}{04 02 00}.",
+   "et": ""
+  },
+  {
+   "id": 7,
+   "en": "{07 15 00}Only sorta? {0b 03 00}{04 1f 00}!!!\n\n\nYou must have absolutely NO\nRESPECT for me and my\nwares.\n{07 00 00}Look, if it's so worthless,\nwhy don't you just take it,\n{01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 8,
+   "en": "{07 00 00}Here, go ahead and take my\n{01 00 00 0f 00}{0b 02 00}{04 1c 00}!{01 00 00 14 00}\n\nJust do whatever you want\nwith it! I don't care,\n{01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 9,
+   "en": "{07 15 00}Yeah?{01 00 00 14 00} You want my\n{0b 02 00}{04 1c 00},\ndo you, {01 00 00 05 00}{04 02 00}?\n{07 00 00}Well then, {01 00 00 05 00}I hope you've got\n{04 11 00} Bells{01 00 00 05 00} to pay for it!",
+   "et": ""
+  },
+  {
+   "id": 10,
+   "en": "{07 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 04 00}Y-{01 00 00 0a 00}you really want it that\nbadly, {01 00 00 05 00}{04 02 00}?\n{07 16 00}Arrgh! {01 00 00 14 00}Fine!{01 00 00 14 00}\nTake it. You can have my\n{0b 02 00}{04 1c 00}{01 00 00 05 00}\nfor free, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 11,
+   "en": "{07 00 00}Just treat it with some\ncare and respect, will ya?",
+   "et": ""
+  },
+  {
+   "id": 12,
+   "en": "{06 01 00 0d 0e 0f}",
+   "et": ""
+  },
+  {
+   "id": 13,
+   "en": "{07 14 00}Heh heh heh.{01 00 00 0f 00} That's what I\nlike to hear, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 14,
+   "en": "{07 0d 00}Excellent{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} Now that's my\nlittle {04 1f 00},\n{01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 15,
+   "en": "{07 0d 00}Meh!{01 00 00 14 00} I hate people with\nloads of money,\n{01 00 00 05 00}{04 02 00}.\n{07 0f 00}They think it gives them a\nright to be meaner to\npeople than I am{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.",
+   "et": ""
+  },
+  {
+   "id": 16,
+   "en": "{06 01 00 11 12 13}",
+   "et": ""
+  },
+  {
+   "id": 17,
+   "en": "{07 14 00}Thanks, come again!{01 00 00 14 00}\n{ff 00 00 04}(Heh,{01 00 00 0f 00} I should sell ALL my\njunk to suckers like this!)",
+   "et": ""
+  },
+  {
+   "id": 18,
+   "en": "{07 14 00}All right, we've got a\ndeal!\n\n{07 0d 00}Har har har! {01 00 00 14 00}I got\n{04 11 00} Bells, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 19,
+   "en": "{07 00 00}You better take extremely\ngood care of my\n{0b 02 00}{04 1c 00}!\n{01 00 00 14 00}And I'll know, 'cause I'll be\nwatching you!",
+   "et": ""
+  },
+  {
+   "id": 20,
+   "en": "{06 00 00 15 16}",
+   "et": ""
+  },
+  {
+   "id": 21,
+   "en": "{07 15 00}What?!{01 00 00 14 00} Come on, pal, get\ninto the conversation,\n{01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 22,
+   "en": "{07 00 00}Bah!{01 00 00 0f 00} You're just saying\nthat to drive the price\ndown!\n{07 15 00}But weak bargaining like\nthat won't do squat to a\npro haggler like me!",
+   "et": ""
+  }
+ ]
+}

@@ -1,0 +1,45 @@
+{
+ "file": "script/ENG/message/ko/ai/shop2_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 14 00}Heh heh!{01 00 00 14 00} These girls are\nstill as snippity as ever,\n{01 00 00 05 00}{04 02 00}. {01 00 00 14 00}{07 09 00}Get it?!",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 15 00}I tried to sell them this\nshirt with a nasty\n{04 18 00} stain...\n{07 11 00}And they almost bought\nit, {01 00 00 05 00}{04 02 00}...",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 17 00}I think I look best in\n{04 15 00}-style\nshirts, {01 00 00 05 00}{04 02 00}.\n{ff 00 00 06}{07 0a 00}Mabel{ff 00 00 00} and {ff 00 00 06}Sable{ff 00 00 00} know how to\ndo that, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 3,
+   "en": "Hey, {01 00 00 0f 00}{07 0b 00}how many shirts\ndo you have?\n\n{07 00 00}Wait.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} On second thought,\nyou don't have to tell me. \n{01 00 00 14 00}{07 0f 00}It'll just depress me.",
+   "et": ""
+  },
+  {
+   "id": 4,
+   "en": "You know, {01 00 00 0f 00}I'm not really\ninto huge megastores.\n\n{07 0e 00}Small stores may have less\nto choose from,{01 00 00 05 00} but the \nstyles are way more fresh.{01 00 00 05 00}\n{07 19 00}Well, {01 00 00 0f 00}I guess it's all about\nhow you think about it,\n{01 00 00 05 00}{04 02 00}.",
+   "et": ""
+  },
+  {
+   "id": 5,
+   "en": "They say it's what's on\nthe inside that matters...{01 00 00 14 00}\n{07 14 00}But I like clothes.",
+   "et": ""
+  },
+  {
+   "id": 6,
+   "en": "You know those retail sales\npeople {07 0b 00}who act like they're\nyour best friend?\n{07 00 00}I don't understand{01 00 00 05 00}\nhow they do that{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n{0b 03 00}{01 00 00 05 00}{04 02 00}.\n{07 06 00}Oh, hey... {01 00 00 0f 00}I'm not talking\nabout {ff 00 00 06}Sable {ff 00 00 00}when I say that\nor anything.",
+   "et": ""
+  },
+  {
+   "id": 7,
+   "en": "{07 0b 00}So you thought this weird\nold shirt I always wear was\nout of style?\n{07 11 00}Wrong!{01 00 00 14 00} {07 15 00}Don't you know that \nretro clothes are the new \nhotness, {01 00 00 05 00}{04 02 00}?",
+   "et": ""
+  }
+ ]
+}

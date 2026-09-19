@@ -1,0 +1,20 @@
+{
+ "file": "script/ENG/message/ta/q/time_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 00 00}So, you think you can do it\nwithin {ff 00 00 02}10 minutes{ff 00 00 00}? {01 00 00 0a 00}{07 0b 00}Or is it\ntoo hard for you?",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 00 00}Yes,{01 00 00 0a 00} I'm sure you can do it\nwithin {ff 00 00 02}30 minutes{ff 00 00 00}. {01 00 00 0a 00}I mean,\nit's not rocket science.",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 00 00}As long as it's delivered\nwithin {ff 00 00 02}1 hour {ff 00 00 00}from now{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00}",
+   "et": ""
+  }
+ ]
+}

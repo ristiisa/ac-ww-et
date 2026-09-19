@@ -1,0 +1,20 @@
+{
+ "file": "script/ENG/message/ta/q06/open3_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 00 00}Hmm{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 14 00} I know that\n{ff 00 00 06}{04 0f 00} {ff 00 00 00}{01 00 00 0a 00}really likes\nstuff like this.\nBut seriously, where in the\nworld does one wear\n{04 1a 00}?!",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "Oh{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00} Look at this. It's{01 00 00 14 00}\n{04 1a 00}?\nIt seems to me that\n{07 00 00}this gift wasn't based on\nwhat I like, but rather what\nthe SENDER likes.\n{07 03 00}{0b 03 00}{04 1a 00},\nfor crying out loud! {01 00 00 0a 00}This is\ntotally ridiculous!{07 00 00}",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "What in the world is this?{01 00 00 14 00}\n{0b 03 00}{04 1a 00}?\n\nHm, {01 00 00 0a 00}some people just never\ngrow up, {01 00 00 0a 00}{04 02 00}.",
+   "et": ""
+  }
+ ]
+}

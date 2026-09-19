@@ -1,0 +1,65 @@
+{
+ "file": "script/ENG/string/st_fortune.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "Super Lucky",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "Kinda Lucky",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "Lucky",
+   "et": ""
+  },
+  {
+   "id": 3,
+   "en": "Unlucky",
+   "et": ""
+  },
+  {
+   "id": 4,
+   "en": "Giant Acorn",
+   "et": ""
+  },
+  {
+   "id": 5,
+   "en": "Medium Acorn",
+   "et": ""
+  },
+  {
+   "id": 6,
+   "en": "Mini Acorn",
+   "et": ""
+  },
+  {
+   "id": 7,
+   "en": "Rotten Acorn",
+   "et": ""
+  },
+  {
+   "id": 8,
+   "en": "Giant Explosion",
+   "et": ""
+  },
+  {
+   "id": 9,
+   "en": "Big Fireworks",
+   "et": ""
+  },
+  {
+   "id": 10,
+   "en": "Firecracker",
+   "et": ""
+  },
+  {
+   "id": 11,
+   "en": "Dud",
+   "et": ""
+  }
+ ]
+}

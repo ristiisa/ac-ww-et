@@ -1,0 +1,35 @@
+{
+ "file": "script/ENG/bbs/bbs_raccoon.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": " **Nook's Cranny News**\nThanks to your kind\npatronage, we're going to\nexpand! We'll be closed\n{04 11 00} {04 12 00} for\nconstruction.",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "  **Nook 'N' Go News**\n\nWe're expanding again...\nPlease excuse our mess!\nOh, and we will be closed\non {04 11 00} {04 12 00}.",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "    **Nookway News**\nMake way for progress!\nNookway will be expanding\nin our current location,\nso the store is closed on\n{04 11 00} {04 12 00}.",
+   "et": ""
+  },
+  {
+   "id": 4,
+   "en": "  **Nook 'N' Go News**\n\nCome see our new store!\nWe're bigger and better\nand ready to serve all\nyour consumer needs!",
+   "et": ""
+  },
+  {
+   "id": 5,
+   "en": "    **Nookway News**\nWelcome to our new\nbuilding! We're back with\nservice AND a smile, so\ndon't miss out on our\ngrand re-opening!",
+   "et": ""
+  },
+  {
+   "id": 6,
+   "en": "   **Nookington News**\nThe grand opening of\nNookington's department\nstore is now under way!\nCome, ye shoppers,\nand be AMAZED!",
+   "et": ""
+  }
+ ]
+}

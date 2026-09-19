@@ -1,0 +1,35 @@
+{
+ "file": "script/ENG/message/fu/ai/rain2_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 14 00}The sound of rain is so\nsoothing, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{0b 03 00}{01 06 00}It's still raining{01 07 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\nMy feet are getting soaked,\n{04 02 00}.",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{0b 03 00}{01 06 00}This rain just won't let up{01 07 00}!",
+   "et": ""
+  },
+  {
+   "id": 3,
+   "en": "{07 14 00}Rain makes flowers grow!{01 00 00 0a 00}\nWhat? I'm looking at the\nbright side, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 4,
+   "en": "{07 0f 00}I'm starting to think{01 00 00 05 00} all\nthis rain is my fault.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}",
+   "et": ""
+  },
+  {
+   "id": 5,
+   "en": "{07 14 00}{0b 03 00}{01 06 00}Oh, hi{01 07 00}!{01 00 00 0f 00}\nSo, {04 1f 00}. Still at it,\n{01 00 00 05 00}{04 02 00}?",
+   "et": ""
+  }
+ ]
+}

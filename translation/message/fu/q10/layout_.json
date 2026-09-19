@@ -1,0 +1,60 @@
+{
+ "file": "script/ENG/message/fu/q10/layout_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 00 00}{0b 03 00}{04 1f 00},{01 00 00 0f 00} I don't want\nto sound like a jerk or\nanything, buuuuut...\n{07 16 00}It's not a good idea to keep\nunused items out too long,\n{01 00 00 05 00}{04 02 00}.\n{07 00 00}There's lots of clutter{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} So\nI'd give this room a score\nof {04 12 00} out of five.",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 00 00}Listen, {01 00 00 05 00}{04 1f 00}{01 00 00 0f 00}, this is\njust my personal opinion,\nbut...{01 00 00 0a 00} You need help.\n{07 0b 00}Why don't you put all your\nunused items into a piece\nof furniture, {01 00 00 05 00}{04 02 00}?\n{07 16 00}If you don't, your house will\nlook like some kind of huge\njunkyard.\n{07 00 00}Yeah, so, I'd only give this\nroom a score of {04 12 00}\nout of five.",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 00 00}Wow{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00} So, I don't want to\nsound like a know-it-all,\nbut...{01 00 00 0a 00} How do I say this...?\n{07 0e 00}If a dresser is facing the\nwall, you can't use it,\ncan you?\n{07 00 00}See, furniture doesn't have\na meaning unless you use\nit correctly.\n{07 1b 00}Unfortunately, your room\nonly gets {04 12 00} out\nof five.",
+   "et": ""
+  },
+  {
+   "id": 3,
+   "en": "{07 00 00}Um{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} {0b 03 00}{04 1f 00}?{01 00 00 05 00} Um...{01 00 00 0a 00}\n{07 06 00}Look, if a bed is upside\ndown, it's useless, right?\n{07 16 00}Same thing here. You should\npay more attention to your\nfurniture placement.\n{07 00 00}On the {04 01 00} scale, \nthis room gets {04 12 00}\nout of five.",
+   "et": ""
+  },
+  {
+   "id": 4,
+   "en": "{07 00 00}{0b 03 00}{04 1f 00}?{01 00 00 05 00} {07 03 00}Look at this\nplace!{01 00 00 05 00} Ever hear of a bed?\nChairs? ...Stuff like that?\n{07 0a 00}Look, this is crazy!{01 00 00 05 00} You've\ngot to get some housing\nstandards in here.\n{07 00 00}I'm only going to give this\nroom {04 12 00} out of\nfive. {01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 03 00}Tee hee! So empty!",
+   "et": ""
+  },
+  {
+   "id": 5,
+   "en": "{07 00 00}Look, {04 1f 00}. {01 00 00 05 00}Things\nlike tables and dressers\nare pretty basic...\n{07 03 00}And YOU need some of the\nbasics in here, {01 00 00 05 00}{04 02 00}!{01 00 00 0a 00}\nIt's like a cave!\n{07 00 00}If I were a judge, I'd only\ngive {04 00 00}'s cave\n{04 12 00} out of five.",
+   "et": ""
+  },
+  {
+   "id": 6,
+   "en": "{07 00 00}Hey, {04 1f 00},{01 00 00 05 00} {07 0b 00}everyone\nhas a desire to collect\nthings, don't you think?\n{07 0d 00}I know I like collecting!{01 00 00 0a 00} And\nI always try to get things\nin the same style.\n{07 14 00}So if you had the same\nkinds of items in here,{01 00 00 05 00} it\nwould help a lot!\n{07 00 00}It's pretty nice,{01 00 00 05 00} but right\nnow I'd only give this room\n{04 12 00} out of five.",
+   "et": ""
+  },
+  {
+   "id": 7,
+   "en": "{07 00 00}{0b 03 00}{04 1f 00},{01 00 00 05 00} {07 0b 00}what do you\nthink of collectors?{01 00 00 0f 00} {07 14 00}No, not\nCRAZY ones, {04 02 00}!\n{07 00 00}I mean people who collect\nmatching items and display\nthem nicely!\n{07 0d 00}That kind of thing can make\na huge impact on a room!\nAnd in a good way!{01 00 00 05 00}\n{07 00 00}But{01 00 00 05 00} your room...{01 00 00 0a 00} I'd give it\n{04 12 00} out of five...{01 01 00}\n{07 1a 00}Just an opinion.",
+   "et": ""
+  },
+  {
+   "id": 8,
+   "en": "{07 00 00}I bet you like sets of\nfurniture, {04 1f 00}! Am\nI right?{01 00 00 0a 00} ...I KNEW it!\n{07 0a 00}When you collect a whole\nset, you feel really good\nabout yourself!\n{07 00 00}Still, this place is\npretty classy...{01 00 00 0a 00} {07 14 00}I'd give it\n{04 12 00} out of five!",
+   "et": ""
+  },
+  {
+   "id": 9,
+   "en": "{07 00 00}{0b 03 00}{04 1f 00}, {07 0b 00}did you ever\nthink about getting an\nentire furniture set?\n{07 00 00}When you make a whole set,{01 00 00 05 00}\nyou've crossed the last\nhurdle of collecting!\n{07 0d 00}And I bet that YOU could\nmake that dream come true,\n{04 02 00}{01 00 00 05 00}!\n{07 14 00}The color in here is pretty\nnice, so I'd give the room \n{04 12 00} out of five.",
+   "et": ""
+  },
+  {
+   "id": 10,
+   "en": "{07 1a 00}{0b 03 00}{04 1f 00}, I can't say any\nmore about your room{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00}\nIt's PERFECT, {01 00 00 05 00}{04 02 00}!\n{07 0d 00}So perfect, in fact, that I\nwould give it a score of\n{04 12 00} out of five!\n{07 16 00}I'm.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00} I'm.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}. My head is\nspinning!{01 00 00 05 00} {07 1b 00}I'm dizzy with\npride, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  }
+ ]
+}

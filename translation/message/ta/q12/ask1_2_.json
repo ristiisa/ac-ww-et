@@ -1,0 +1,35 @@
+{
+ "file": "script/ENG/message/ta/q12/ask1_2_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 07 00}I don't feel like myself\ntoday{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 14 00} Brrrr{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}. I think I'm\ncatching a cold!",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 16 00}AAACK!{01 00 00 05 00} KARF! KARF! HAAACK!{01 01 00}\nOh, no! I think I'm catching\na cold, {01 00 00 05 00}{04 02 00}.",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 07 00}Ohh.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} I don't {01 00 00 05 00}feel {01 00 00 05 00}so {01 00 00 05 00}good. \nI think I'm gonna barf. {01 00 00 05 00}No,\nI'm OK. {01 00 00 05 00}I think.{01 01 00}{01 08 00} I'm so sick!",
+   "et": ""
+  },
+  {
+   "id": 3,
+   "en": "{07 00 00}I was a goner, {01 00 00 05 00}but then\nthe {ff 00 00 07}medicine {ff 00 00 00}started to\nwork!\n{07 05 00}{01 08 00}HEY, EVERYBODY!{01 00 00 0f 00} {0b 03 00}{ff 00 00 05}{04 0f 00}\n{ff 00 00 00}is my HERO!{01 00 00 0f 00}{01 01 00} {07 07 00}That really\nhurt my throat.",
+   "et": ""
+  },
+  {
+   "id": 4,
+   "en": "{07 14 00}I'm feeling so much better!{01 00 00 14 00}\n{07 00 00}The {ff 00 00 07}medicine {ff 00 00 00}really did the\ntrick!\n{07 17 00}{0b 03 00}{ff 00 00 05}{04 0f 00} {ff 00 00 00}is my new hero.",
+   "et": ""
+  },
+  {
+   "id": 5,
+   "en": "{07 16 00}{01 08 00}KACK KAK HURK!{01 00 00 0a 00} HRACK {01 00 00 05 00}HRACK!\n{07 14 00}Don't worry. It sounds\nworse than it is.\nThe {ff 00 00 07}medicine {ff 00 00 00}that my hero,\n{ff 00 00 05}{04 0f 00}{ff 00 00 00}, gave me {01 00 00 0a 00}is\nstarting to work.",
+   "et": ""
+  }
+ ]
+}

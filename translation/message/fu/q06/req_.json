@@ -1,0 +1,20 @@
+{
+ "file": "script/ENG/message/fu/q06/req_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 00 00}Hey, {04 1f 00}, you know\nwho {ff 00 00 06}{04 10 00}{ff 00 00 00} is...{01 00 00 0a 00}{07 0b 00} Don't\nyou, {01 00 00 05 00}{04 02 00}?\n{07 00 00}Well, I have something that\nneeds to be delivered to\n{ff 00 00 06}{04 10 00}{ff 00 00 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 17 00}Um...{01 00 00 05 00} Would you do it,\n{01 00 00 05 00}{04 02 00}?{01 00 00 05 00} Please?",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 00 00}Hey, {01 00 00 05 00}{04 1f 00}.{01 00 00 0a 00} Can I ask\nyou a favor?{01 00 00 05 00} It's a big\none, but it's pretty easy.\nI need you to deliver a\npresent to {ff 00 00 06}{04 10 00}{ff 00 00 00},\n{01 00 00 05 00}{04 02 00}!{01 00 00 0a 00} Can ya do it?",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 00 00}{07 14 00}Oh, hey. Look, I'm sorry to\nbug you like this, but I\nneed a favor.\nCould you take this present\nover to {ff 00 00 06}{04 10 00} {ff 00 00 00}for\nme, {04 02 00}?",
+   "et": ""
+  }
+ ]
+}

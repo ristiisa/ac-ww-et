@@ -1,0 +1,105 @@
+{
+ "file": "script/ENG/message/sp/npc/dog_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "No need to stand there and\nstare. Grab a seat.",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "Hey,{01 00 00 05 00} what a groovy night.{01 01 00}\nAlways glad to see new\nfaces making the scene.\nMy name is {ff 00 00 06}K.K. Slider{ff 00 00 00}.\nI play my tunes here pretty\nmuch every Saturday night.\nAnd what do they call you{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00}\n{04 00 00}?{01 00 00 05 00} Cool.\n\nCare for a song?{02 00 00 05 04}\nOh, yeah!\nNo, thanks.",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "Hey, {01 00 00 05 00}{04 00 00}.{01 01 00}\nYou here for a song?{02 04 00 05 04}\nYou know it!\nNo, thanks.",
+   "et": ""
+  },
+  {
+   "id": 3,
+   "en": "{0b 03 00}{04 00 00}.{01 00 00 0f 00} You again, my\nman? Glad to see you're\nstill diggin' the action.\nHere for a song?{02 04 00 05 04}\nYou know it!\nNo, thanks.",
+   "et": ""
+  },
+  {
+   "id": 4,
+   "en": "{07 39 00}No?{01 00 00 0a 00} You gonna split? I can\ndig. I'll catch you later.",
+   "et": ""
+  },
+  {
+   "id": 5,
+   "en": "Cool.\n\n\nHey, if there's something\nyou want to hear, just give\nit to me straight.\nI'm taking requests, if\nyou're giving 'em.{02 00 00 07 0a}\nOoo! Yeah!\nNot this time.",
+   "et": ""
+  },
+  {
+   "id": 6,
+   "en": "{01 00 00 05 00}All right, {01 00 00 0a 00}get ready to dig\nthe riffs on this ditty:{01 01 00}{01 00 00 0a 00}\n{0b 03 00}{0b 02 00}{04 1c 00}!{01 00 00 28 00}{01 10 00 3c}",
+   "et": ""
+  },
+  {
+   "id": 7,
+   "en": "Far out, man.{01 00 00 05 00} Far out.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\nWhat do you want to hear?",
+   "et": ""
+  },
+  {
+   "id": 8,
+   "en": "Mellow.{01 00 00 05 00} I can dig that.\n\n\nI'm all set to play,{01 00 00 05 00}\nso cop a seat, man.",
+   "et": ""
+  },
+  {
+   "id": 9,
+   "en": "{01 00 00 05 00}This is far out.{01 00 00 0a 00} Get ready\nto groove{01 01 00}{01 00 00 0a 00}\nto {04 1a 00}{01 00 00 28 00}!{01 10 00 3c}",
+   "et": ""
+  },
+  {
+   "id": 10,
+   "en": "You like surprises?{01 00 00 0f 00}\nNo problem.\n\nI got my axe ready,{01 00 00 05 00}\nso take a seat.",
+   "et": ""
+  },
+  {
+   "id": 11,
+   "en": "Don't throw me that look,\nman. I know that's the\nwrong riff.\nThe thing is,\n{04 1a 00}'s\nnot on my set list, man.\nSo I was just pulling your\nleg.{01 00 00 0f 00} I didn't mean to put\nyou on, dig?\nDrop by next week, man.\nI'll wail another request out\nfor you then.",
+   "et": ""
+  },
+  {
+   "id": 12,
+   "en": "Hey, thanks for listening.\n\n\nI hooked you up with a boot\nof {0b 02 00}{04 1b 00}.{01 00 00 05 00}\nYou know, a bootleg?\nYou can play it on the box\nback at your pad anytime.\nIt's cool. No charge.\nThose industry fat cats try\nto put a price on my music,\nbut it wants to be free.\nYou be sure to drop on\nby and catch me again, man.{01 01 00}\nI'll be around.{01 00 00 05 00}.{01 00 00 05 00}.",
+   "et": ""
+  },
+  {
+   "id": 13,
+   "en": "Cool, cool. Glad you dug\nthe show, man.\n\nIf you dug the vibe of\n{0b 02 00}{04 1b 00},\nyou can take the tune.{01 00 00 05 00}.{01 00 00 05 00}.\nOh, that's a drag. Your\npockets are full. I can't\ntoss you the tune.\nYou be sure to drop on\nby and catch me again, man.{01 01 00}\nI'll be around.{01 00 00 05 00}.{01 00 00 05 00}.",
+   "et": ""
+  },
+  {
+   "id": 14,
+   "en": "Hey. {01 00 00 05 00}{07 39 00}That axe of yours is\njust about the wildest thing\nI've ever seen.{07 00 00}\nTalk about a bad axe.{01 00 00 05 00}.{01 00 00 05 00}.\nIs that a{01 00 00 05 00} {ff 00 00 07}country guitar{ff 00 00 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}?!\n\nI'm tapped for Bells,{01 00 00 05 00} but if\nyou're cool, I'll trade you{01 00 00 0a 00}\nfor my {ff 00 00 07}picture{ff 00 00 00}. You cool?{02 04 00 10 0f}\nI'm cool!\nI'm out.",
+   "et": ""
+  },
+  {
+   "id": 15,
+   "en": "Aw, man. No need to come\noff all cold like that.{01 00 00 0a 00}\nI can dig.",
+   "et": ""
+  },
+  {
+   "id": 16,
+   "en": "Cool.{01 01 00} You're one hep cat.{01 00 00 0f 00}\n\n\nRight on.{01 00 00 05 00} Here you go. One\n{ff 00 00 07}picture{ff 00 00 00} of yours truly.",
+   "et": ""
+  },
+  {
+   "id": 17,
+   "en": "It's in your pocket, where\nyou won't lose it.\n\nI even autographed the\nflip side for you.",
+   "et": ""
+  },
+  {
+   "id": 18,
+   "en": "Today's tunes were hot,{01 00 00 05 00}\nwere they not?\n\nYou're a cool cat. Be sure\nto come back next week and\ncatch the cafe scene.",
+   "et": ""
+  },
+  {
+   "id": 19,
+   "en": "Be chill, man. I'm still\nwrapping up my sound check.\n\nYou'll have to lay back until\n8 o'clock.{01 01 00} Sorry.",
+   "et": ""
+  }
+ ]
+}

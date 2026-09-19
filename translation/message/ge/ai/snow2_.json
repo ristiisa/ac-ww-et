@@ -1,0 +1,35 @@
+{
+ "file": "script/ENG/message/ge/ai/snow2_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 14 00}{0b 03 00}{01 06 00}Cold day{01 07 00}!\nBrrrrrr!{01 00 00 05 00} I need, like,{01 00 00 05 00} a\nparka or something.",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 14 00}{0b 03 00}{01 06 00}Um, like, hi{01 07 00}!\n{01 00 00 05 00}{0b 03 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "Omigosh, {04 1f 00}!{01 00 00 05 00} {07 14 00}It's,\nlike, soooo cold,{01 00 00 05 00}\n{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 3,
+   "en": "{07 07 00}I th-think it's gonna\ns-stop snowing t-tonight, {01 00 00 05 00}\n{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 4,
+   "en": "{07 14 00}Wow, {01 00 00 0a 00}I think this snow is...{01 00 00 05 00}\n{07 00 00}{07 0a 00}Just like me, {01 00 00 05 00}{04 02 00}!\n'Cause it's fun!{01 00 00 05 00} And stuff.",
+   "et": ""
+  },
+  {
+   "id": 5,
+   "en": "{07 07 00}It's a l-lot c-c-colder\ntoday, {01 00 00 05 00}{04 02 00}! M-my\nbrains are f-freezing!",
+   "et": ""
+  }
+ ]
+}

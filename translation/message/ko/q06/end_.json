@@ -1,0 +1,20 @@
+{
+ "file": "script/ENG/message/ko/q06/end_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 00 00}Well, this isn't like me, but\nI want to thank you.{01 00 00 14 00}\n{07 14 00}So{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} Thanks, {01 00 00 05 00}{04 1f 00}!",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 14 00}Thanks for all your help,\n{04 1f 00}!{01 00 00 14 00} You're a good\nkid, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 00 00}You were a big, giant help, \n{01 00 00 05 00}{04 1f 00}. {07 14 00}Thanks a load!",
+   "et": ""
+  }
+ ]
+}

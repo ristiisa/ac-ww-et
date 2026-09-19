@@ -1,0 +1,105 @@
+{
+ "file": "script/ENG/message/ge/tsu/in_act_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 16 00}Y'know, {01 00 00 05 00}I just have a hard\ntime getting into bug\ncatching, {01 00 00 05 00}{04 02 00}!\n{07 14 00}It's just so gross, y'know?{01 00 00 05 00}\nI'd totally rather do\nsomething else.\n{07 11 00}{ff 00 00 04}(Actually, {01 00 00 05 00}I'm totally lying!{01 00 00 05 00}\nI'm fooling my competition.{01 00 00 05 00}\nI'm a psychological genius!)",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 14 00}Someday, I wanna have\n{04 1a 00}\nhunt with you, {04 1f 00}!\n{07 0d 00}We'll fill a small room with\n'em, and then we can catch\nall we want, {01 00 00 05 00}{04 02 00}!\n{07 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}But now that I think\nabout it...{01 00 00 05 00}{07 07 00} A room full of\nbugs sounds sorta uncool!",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 00 00}{0b 03 00}{04 1f 00}, {01 00 00 05 00}you ever seen\n{07 0b 00}{04 1a 00}? \n\n{07 00 00}Someone showed me one the\nother day, {01 00 00 05 00}but it was so\ntiny!{01 00 00 05 00} I had to squint!\n{07 06 00}I always assumed one of\nthose would be as big as a\n{04 15 00}!",
+   "et": ""
+  },
+  {
+   "id": 3,
+   "en": "{07 14 00}I gotta say, {01 00 00 05 00}I LOVE bugs\nthat sing, {01 00 00 05 00}{04 02 00}!{01 00 00 05 00}\nYou GO, bug-diva!\n{07 16 00}Oh, ick, but you know what\nI hate? {01 00 00 05 00}The brown ones\nwith squirmy tentacles{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 07 00}Bleck!{01 00 00 05 00} Ugh!{01 00 00 05 00} I feel all\ncreeped out just talking\nabout it, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 4,
+   "en": "{07 01 00}YOU!{01 00 00 05 00} Don't come any closer!{01 00 00 05 00}\n{01 00 00 05 00}I mean it, {04 02 00}!\n\n{06 00 00 12 13}",
+   "et": ""
+  },
+  {
+   "id": 5,
+   "en": "{07 06 00}AIIGH!{01 00 00 05 00} Shoo! Don't come talk\nto me! {01 00 00 05 00}Are you blind or\nwhat, {01 00 00 05 00}{04 02 00}?!\n{07 16 00}Maybe you haven't noticed,{01 00 00 05 00}\nbut I'm trying to become\nthe Bug-Catching Master!",
+   "et": ""
+  },
+  {
+   "id": 6,
+   "en": "{07 16 00}Look, I'm trying to catch\nthat bug over there... \n\n{07 15 00}So while I'm focusing, don't\ndo anything stupid, OK?!{01 00 00 05 00}\nSheesh, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 7,
+   "en": "{07 15 00}OK, {04 1f 00}, you go\naround behind that bug and\nflush him out, {01 00 00 05 00}{04 02 00}!\nHe'll have to come over\nthis way, and he'll be MINE!{01 01 00}\n{07 0a 00}OK! {01 00 00 05 00}Let's go!",
+   "et": ""
+  },
+  {
+   "id": 8,
+   "en": "{07 00 00}This {ff 00 00 07}net{ff 00 00 00}?{01 00 00 05 00} Oh, I mostly use\nthis to keep admirers away\nfrom me, {01 00 00 05 00}{04 02 00}!\n{07 15 00}Yeah, one button-press, and\nBZZZZT! {01 00 00 05 00}Mr. Smooth gets\nan electric surprise!\n.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 16 00}Actually, that model was\ntoo expensive, so I just\nwhack guys, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 9,
+   "en": "{07 16 00}I gotta admit, I'm on a\nsorta tight budget this\nmonth{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 14 00}That's why I gotta get bugs\nand sell 'em to {ff 00 00 06}Tom Nook{ff 00 00 00}!{01 00 00 05 00}\nInstant cash, {04 02 00}!\n{07 06 00}Still, what a gross job!{01 00 00 0a 00}\nHow long do I have to live \nlike this, {01 00 00 05 00}{04 02 00}?!",
+   "et": ""
+  },
+  {
+   "id": 10,
+   "en": "{07 14 00}Ah, {04 1f 00}, {01 00 00 05 00}I see you\nhave an eye for really cool\nstuff, {01 00 00 05 00}{04 02 00}!\n{07 0a 00}Yup, you're 100% right!{01 00 00 05 00}\nThis {ff 00 00 07}net {ff 00 00 00}is a super-pricey\nbrand-name one!\n{07 15 00}The quality{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} Even bugs can\nprobably appreciate it,\nright, {01 00 00 05 00}{04 02 00}?",
+   "et": ""
+  },
+  {
+   "id": 11,
+   "en": "{07 0e 00}Ohhh, my brain hurts{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0f 00}\n{07 16 00}It's SO hard to locate\n{04 1a 00}!\n{07 00 00}Hey, you! {01 00 00 05 00}You haven't seen\none around here, have you?{01 00 00 05 00}\n{07 0b 00}{0b 03 00}{04 1a 00}?{02 00 00 10 11}\nI saw one!\nNot today...",
+   "et": ""
+  },
+  {
+   "id": 12,
+   "en": "{07 00 00}Oh, ick. {01 00 00 05 00}That bug isn't.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n{07 06 00}gonna spray poison, is it?{01 00 00 05 00}\nOr goo, {04 02 00}?\n{07 11 00}Hey! {01 00 00 05 00}Why don't you try and\nsee, {01 00 00 05 00}{04 02 00}?",
+   "et": ""
+  },
+  {
+   "id": 13,
+   "en": "{07 00 00}Me and that bug are locked\nin a contest of wills.{01 00 00 05 00}\n{07 0b 00}{0b 03 00}{04 1f 00}, can you help?\n{07 15 00}I...{01 00 00 05 00}think it's time me and\nthat bug went our separate\nways{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}",
+   "et": ""
+  },
+  {
+   "id": 14,
+   "en": "{07 04 00}A bug!{01 00 00 05 00} Right there!{01 01 00} {07 16 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}Oh\ngosh, {01 00 00 05 00}I'm not sure I can do\nthis!\n{07 15 00}You!{01 00 00 05 00} You do it!{01 00 00 05 00} For me!{01 00 00 05 00}\nPLEASE, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 15,
+   "en": "{07 00 00}When you hunt a bug, you\ngotta hold your breath and{01 00 00 05 00}\n{07 15 00}slooowly, slooowly creep{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 00 00}But {01 00 00 0a 00}just the other day, I\nheld my breath {01 00 00 05 00}too long,\nand {07 09 00}I almost passed out!\n{07 15 00}Me and that bug oughta be\na good match! {01 00 00 05 00}We're both\ntotal idiots, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 16,
+   "en": "{07 02 00}Huh?! {01 00 00 05 00}Really?!{01 00 00 05 00} No way!{01 00 00 14 00}\n{07 16 00}That's so completely out\nthere, {01 00 00 05 00}{04 02 00}!\n{07 06 00}You think maybe cute girls\naren't able to see\n{04 1a 00}?",
+   "et": ""
+  },
+  {
+   "id": 17,
+   "en": "{07 0b 00}Oh, no luck either?{01 00 00 14 00} Maybe\nit IS out of season, \n{01 00 00 05 00}{04 02 00}...\n{07 06 00}Huh...{01 00 00 05 00} I think that total\njerkface, {04 0c 00}, may\nhave fooled me again!",
+   "et": ""
+  },
+  {
+   "id": 18,
+   "en": "{07 15 00}Right now, I'm luring bugs \nout using my new perfume,\nEau de Musk, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 19,
+   "en": "{07 15 00}What if your sweat is\nscaring off all the bugs,\nhuh, {01 00 00 05 00}{04 02 00}?!",
+   "et": ""
+  }
+ ]
+}

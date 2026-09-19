@@ -1,0 +1,20 @@
+{
+ "file": "script/ENG/message/bo/q09/over_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 16 00}Uh{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}that's great that\nyou found me and all,\n{04 1f 00},\nbut time is up. {01 01 00}{07 1b 00}You made\nme wait so long{01 00 00 05 00} my belly\nalmost ate itself!\nI'm going home now{07 14 00} and\ncuddling up with a big plate\nof pasta, {01 00 00 0a 00}{04 02 00}.",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 00 00}{0b 03 00}{04 1f 00}!{01 00 00 14 00} I can't believe\nyou found me! {07 11 00}But{01 00 00 05 00} you\nshould've found me sooner!\n{07 17 00}I win the match! {07 0d 00}Yay!{01 00 00 05 00}\nHooray!{01 00 00 05 00} {0b 03 00}{04 1f 00} LOSES,{01 00 00 05 00}\n{04 01 00} WINS!",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 00 00}Umm{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}OK. You found me.{01 00 00 0a 00}\nBut you found me{01 00 00 05 00} too late,{01 00 00 05 00}\n{04 02 00}!\nRemember the time limit?\nWell your time is up!\n\n{07 14 00}Which means I win!{01 00 00 14 00} And that\nmeans{01 00 00 05 00} YOU LOSE!\n{01 00 00 05 00}{0b 03 00}{04 02 00}!\n{07 0d 00}Hip hip{01 00 00 05 00} hooray!{01 00 00 05 00}\n{0b 03 00}{04 1f 00} is a hide-and-\nseek LOSER!",
+   "et": ""
+  }
+ ]
+}

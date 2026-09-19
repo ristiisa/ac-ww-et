@@ -1,0 +1,20 @@
+{
+ "file": "script/ENG/message/ta/q07/report_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 04 00}So you made it on time?{01 01 00} {07 14 00}Oh,\ngood{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00} Thanks!",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 14 00}Nice work!{01 00 00 14 00} {07 00 00}You're so helpful,\n{01 00 00 0a 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 04 00}Wow, {01 00 00 05 00}nicely done!{01 01 00} {07 14 00}I'll\nremember how helpful you've\nbeen, {01 00 00 0a 00}{04 02 00}!",
+   "et": ""
+  }
+ ]
+}

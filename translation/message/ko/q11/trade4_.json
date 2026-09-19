@@ -1,0 +1,20 @@
+{
+ "file": "script/ENG/message/ko/q11/trade4_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 00 00}Har har!{01 00 00 05 00} That's a really\nnice piece, {01 00 00 05 00}{04 02 00}!\n\n{07 14 00}And I wasn't planning on\nselling it, either!",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 04 00}You really know your stuff,\n{01 00 00 05 00}{04 02 00}! That's a great\nchoice right there.\n{07 01 00}Even though it doesn't look\nlike much{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} {07 00 00}It's great, I\ntells ya! Great!",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 0b 00}Yeah, that one's pretty\ncool, huh, {01 00 00 05 00}{04 02 00}?\n\nOur taste is pretty\nsimilar!{01 00 00 0a 00} {07 14 00}And that means\nit's good!",
+   "et": ""
+  }
+ ]
+}

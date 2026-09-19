@@ -1,0 +1,80 @@
+{
+ "file": "script/ENG/message/ko/ev/fishing_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 14 00}Hey, {01 00 00 05 00}{04 1f 00}!{01 00 00 14 00}\nToday's the big {ff 00 00 03}Fishing\nTourney{ff 00 00 00}, {01 00 00 05 00}{04 02 00}!\n{07 00 00}I love to just throw down\npiles of sushi!\n\n{07 0d 00}So if it's cool with you,\njust gimme what you catch\nand I'll eat it raw!",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 15 00}But listen up,{01 00 00 0f 00} I've got this\n{ff 00 00 03}Fishing Tourney{ff 00 00 00} in the bag,\nya hear?! {01 00 00 0a 00}In the bag!",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 00 00}Today's {ff 00 00 03}Fishing Tourney{ff 00 00 00}{01 00 00 0f 00}\nis all about catching HUGE,\nFREAKISH, MONSTER fish!\n{07 15 00}So get your guts in order,\nkid!\n\n{07 03 00}If you throw your back out\nhauling one in, don't come\nwhining to me, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 3,
+   "en": "{07 00 00}I've got the record for\nthe biggest fish right now,\nkiddo!\n{07 14 00}That's right: {ff 00 00 02}{04 0f 00} inches{ff 00 00 00}\nof {0b 02 00}{04 1a 00},\npal!{01 00 00 14 00}\n{07 11 00}No one can beat me!",
+   "et": ""
+  },
+  {
+   "id": 4,
+   "en": "{07 00 00}Whoa,{01 00 00 05 00} {04 1f 00}!{01 00 00 14 00} {07 17 00}I might\njust be a natural-born\nfishing genius, {01 00 00 05 00}{04 02 00}!\n{07 15 00}I mean, who else could\ncatch a {ff 00 00 02}{04 0f 00}-inch{ff 00 00 00}\n{0b 02 00}{04 1a 00}?!",
+   "et": ""
+  },
+  {
+   "id": 5,
+   "en": "{07 00 00}Right now, my {ff 00 00 02}{04 0f 00}-inch\n{ff 00 00 00}{0b 02 00}{04 1a 00} is\nspanking the competition!{ff 00 00 02}\n{ff 00 00 00}{07 1b 00}Maybe there's just no one\nhere who can challenge me,\n{01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 6,
+   "en": "{07 15 00}Hey,{01 00 00 05 00} {04 1f 00}!{01 00 00 0f 00}\nGet outta my face!\n\nYou trying to throw my\ngame or something?!\n\nAin't gonna happen, kid,\nso get lost! {0b 03 00}{01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 7,
+   "en": "{07 16 00}Man, this fishing spot\nis awful!{01 00 00 14 00}\n\nIf you're goin' for big fish,\nI mean! There's plenty of\nlame little minnows!",
+   "et": ""
+  },
+  {
+   "id": 8,
+   "en": "{07 00 00}Now, I hear {04 10 00}'s\ngot the record right now!\n\n{07 15 00}I say, we're just gettin'\nstarted!",
+   "et": ""
+  },
+  {
+   "id": 9,
+   "en": "{07 00 00}Fishing is fine and all{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n\n\n{07 13 00}But gnawin' fish raw right\nout of the water is what\nit's all about!",
+   "et": ""
+  },
+  {
+   "id": 10,
+   "en": "{07 15 00}{0b 03 00}{04 10 00}{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 0f 00}\n\n\nHow can someone pretend to\nhate fishing and then catch\nthe biggest fish?!\n{07 11 00}What a diabolical scheme,\n{01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 11,
+   "en": "{07 0e 00}{0b 03 00}{04 10 00} pulled up a big\n{0b 02 00}{04 1a 00}?\n\n{07 00 00}Well, {01 00 00 05 00}this ain't over yet!\n{07 05 00}Yeah, {ff 00 00 02}{04 0f 00} inches {ff 00 00 00}means\nNOTHING to me, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 12,
+   "en": "{07 0e 00}Whatever! You can get all\nthe fish you want at a\nmarket{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 06 00}That is, {01 00 00 0f 00}if we had one!{01 01 00}\n{07 0f 00}Dang it{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 13,
+   "en": "{07 15 00}{0b 03 00}{04 1f 00},{01 00 00 0f 00} fishing is all\nabout concentration!\n\nJust put out your line,\nand wait! {01 00 00 05 00}Oh, {01 00 00 05 00}and yeah,{01 00 00 05 00}\nconcentrate!\n{07 19 00}Wandering around looking\nfor fish makes you look\nlike a fool, {01 00 00 05 00}{04 02 00}!{07 14 00}",
+   "et": ""
+  },
+  {
+   "id": 14,
+   "en": "{07 00 00}Arrggh! The front-runner\nright now is {04 10 00},\n{01 00 00 05 00}{04 02 00}!\n{07 0e 00}A {ff 00 00 02}{04 0f 00}-inch{ff 00 00 00}\n{0b 02 00}{04 1a 00}{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.{01 01 00}\n{07 15 00}Well, I am NOT givin' up!",
+   "et": ""
+  }
+ ]
+}

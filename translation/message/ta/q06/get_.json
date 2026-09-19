@@ -1,0 +1,20 @@
+{
+ "file": "script/ENG/message/ta/q06/get_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{01 00 00 14 00}{07 00 00}Oh,{01 00 00 0a 00} so this is from\n{ff 00 00 06}{04 0f 00}{ff 00 00 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 14 00} That was\nfast!\nWhat in the world could it\nbe?! I hope it rocks!",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 00 00}This is from {ff 00 00 06}{04 0f 00}{ff 00 00 00}?{01 00 00 14 00}\nI thought so, {01 00 00 0a 00}{04 02 00}.\n\nI wonder what treat\n{ff 00 00 06}{04 0f 00}{ff 00 00 00} thought would\nwin me over?",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{01 00 00 14 00}{07 00 00}{01 00 00 05 00}Oh, {01 00 00 05 00}could this be from\n{ff 00 00 06}{04 0f 00}{ff 00 00 00}?{01 00 00 14 00} That was\nquick! I wonder what I got!",
+   "et": ""
+  }
+ ]
+}

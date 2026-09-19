@@ -1,0 +1,20 @@
+{
+ "file": "script/ENG/message/fu/q02/req3_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 00 00}So, you like fishing, eh,\n{04 1f 00}? {01 00 00 05 00}Think you're,\nlike, the fish master?\n{07 14 00}Because I'll bet you I can\ncatch a fish that's more\nrare than any you catch!\n{07 00 00}Here's the deal.{01 00 00 05 00} You and I\neach catch a fish that's\nnot really in season now.\nThen, we'll figure out who's\ncaught the more rare fish.{01 01 00}\n{07 0b 00}Does that sound good?",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 00 00}I hear you're good at\ncatching fish, {04 1f 00}.\n\nBut do you just catch\nany old fish, or {07 0b 00}do you\nhave a good eye for 'em?\n{07 00 00}Here's a little test.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} We\neach catch a fish, and we'll\nsee which is rarer.\nTry to catch a fish that's\nnot in season right now,{01 00 00 05 00}\n{07 19 00}and bring it to me.\n{07 0b 00}How does that sound?",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 00 00}I've been having a real\nstring of good luck\ncatching fish lately.\n{07 04 00}Oh! {01 00 00 05 00}So you think you can\noutfish me, do you,\n{01 00 00 05 00}{04 02 00}?\n{07 00 00}All right, let's have a\nlittle contest, shall we?{01 00 00 05 00}\nJust you and me.\nCatch something, and {07 19 00}I'll\njudge whose fish is more\nrare.{01 01 00} {07 0b 00}Does that sound fair?",
+   "et": ""
+  }
+ ]
+}

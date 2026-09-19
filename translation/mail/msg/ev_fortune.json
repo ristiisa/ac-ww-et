@@ -1,0 +1,20 @@
+{
+ "file": "script/ENG/mail/msg/ev_fortune.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{04 0f 00}\nDreams: {04 10 00}\nLove: {04 11 00}\nHealth: {04 12 00}",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{04 0f 00}\nHead: {04 10 00}\nHeart: {04 11 00}\nBelly: {04 12 00}",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{04 0f 00}\nLife: {04 10 00}\nHopes: {04 11 00}\nKarma: {04 12 00}",
+   "et": ""
+  }
+ ]
+}

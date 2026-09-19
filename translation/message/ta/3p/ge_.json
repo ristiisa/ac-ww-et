@@ -1,0 +1,80 @@
+{
+ "file": "script/ENG/message/ta/3p/ge_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{09 01 00}{09 08 00}{07 04 00}Oh!{01 00 00 0f 00} {ff 00 00 06}{04 10 00}{ff 00 00 00},{01 00 00 0f 00} what{01 00 00 05 00} in the\nworld happened to you?{01 01 00}\n{07 16 00}That's{01 00 00 05 00} just horrid.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{09 09 00}",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{09 01 00}{09 08 00}{07 14 00}{ff 00 00 06}{04 10 00}{ff 00 00 00}, you're always\nso full of energy and, uh,\nenthusiastic.\n{07 19 00}Girls like you are destined\nto be cheerleaders,{01 00 00 0a 00}{07 0f 00} never\nthe stars of the show.\n{07 00 00}I've always wanted to ask\nyou,{01 00 00 05 00} {ff 00 00 06}{04 10 00}{ff 00 00 00},{01 00 00 05 00}{07 0b 00} what's it\nlike to be on the sidelines?{09 09 00}",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{09 01 00}{09 08 00}{07 05 00}Get up, {ff 00 00 06}{04 10 00}{ff 00 00 00}! {01 00 00 05 00}I'm not\ndone with the lesson yet,\n{01 00 00 05 00}{04 02 00}!\n{07 15 00}Enough of this standing\naround! {01 00 00 05 00}Let's dance!{09 09 00}",
+   "et": ""
+  },
+  {
+   "id": 3,
+   "en": "{09 00 00}{09 08 00}{09 02 00}{09 06 00}{07 14 00}Huh?{01 00 00 0f 00} {07 02 00}OH!{01 00 00 05 00} {07 16 00}I took a little too\nmuch off my bangs\nyesterday, {01 00 00 05 00}{04 02 00}!\n{07 00 00}I was doing it myself,{01 00 00 0a 00} {07 16 00}and\nlemme tell you, getting\nthem even is TOTALLY HARD!\n{07 15 00}And before I knew it,\nthis is what I had{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}done.{01 01 00}\n{07 0f 00}Ugh,{01 00 00 05 00} I'm so bummed.{09 09 00}",
+   "et": ""
+  },
+  {
+   "id": 4,
+   "en": "{09 00 00}{09 06 00}{09 01 00}{07 02 00}So that's what happened?! {01 00 00 0a 00}{07 16 00}I\ndidn't even notice that you\ncut your bangs!\n{07 00 00}Hmm{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} But now that you\nmention it,{01 00 00 05 00} I guess they do\nlook shorter.{09 09 00}",
+   "et": ""
+  },
+  {
+   "id": 5,
+   "en": "{09 00 00}{09 08 00}{09 02 00}{07 02 00}What?!{01 00 00 05 00} But they're, like, SO\nshort! I can't believe you\ndidn't notice them!\n{07 16 00}Wait a sec{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0f 00} If you weren't\ntalking about them, {01 00 00 05 00}what\nWERE you talking about?!{09 09 00}",
+   "et": ""
+  },
+  {
+   "id": 6,
+   "en": "{09 00 00}{09 06 00}{09 01 00}{07 00 00}Oh{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} {07 14 00}No,{01 00 00 0f 00} um{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} {07 16 00}I.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} {07 14 00}I meant\n{01 00 00 05 00}that short bangs will grow\nback, so it's no big deal.\n{07 15 00}Please don't worry about it.{01 00 00 05 00}\nIt was nothing, {01 00 00 05 00}{04 02 00}!\nI promise!",
+   "et": ""
+  },
+  {
+   "id": 7,
+   "en": "{09 00 00}{09 08 00}{09 02 00}{09 06 00}{07 02 00}What?!{01 00 00 0f 00} {07 16 00}You have GOT to be\njoking, {01 00 00 05 00}{ff 00 00 06}{04 10 00}{ff 00 00 00}!{01 00 00 0f 00} I'm a\nrising star, GOSH DARN IT!\n{07 01 00}Don't MAKE me bust out my\njazz hands, {01 00 00 05 00}{04 02 00}!{09 09 00}",
+   "et": ""
+  },
+  {
+   "id": 8,
+   "en": "{09 00 00}{09 06 00}{09 01 00}{07 19 00}Yes, it must be terribly\nnice to live your life\noutside the public eye.{01 00 00 05 00}.{01 00 00 05 00}.\nFar away from the \"pop pop\npop\" of the paparazzi's\neager cameras.{01 00 00 05 00}.{01 00 00 05 00}.\nNever having to.{01 00 00 05 00}.{01 00 00 05 00}.{07 09 00}{01 00 00 05 00}comb your\nhair or{01 00 00 05 00} dress respectably.{01 01 00}\n{07 07 00}What a horrible existence!{09 09 00}",
+   "et": ""
+  },
+  {
+   "id": 9,
+   "en": "{09 00 00}{09 08 00}{09 01 00}{07 15 00}{09 02 00}{07 18 00}{01 00 00 14 00}WHAT?! Who graced the cover\nof {ff 00 00 02}Ms. Nintendique{ff 00 00 00}'s \"Rising\nStars\" issue, {01 00 00 05 00}{04 02 00}?\n{07 15 00}You or ME?!{01 00 00 05 00}{09 01 00}{07 1b 00}{09 02 00} That's right.{01 00 00 05 00} ME!{01 01 00}\n{07 01 00}And I do {01 08 00}TOO comb my hair!\n\n{09 01 00}{07 00 00}{09 02 00}That's IT! {01 00 00 05 00}I'm busting out\nmy jazz hands! {01 01 00}{07 0a 00}Yeah! Check\n'em out!\nMy jazz hands are like a\none-two punch of{01 00 00 05 00}\n{01 08 00}AWESOMENESS, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 10,
+   "en": "{09 00 00}{09 08 00}{09 02 00}{09 06 00}{07 16 00}I don't know what you're\ntalking about{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}. {07 0c 00}Oh, {01 00 00 05 00}wait\nwait WAIT!\nAre you challenging me to a\ndance-off? {01 01 00}{07 15 00}You ARE, {01 00 00 05 00}aren't \nyou!\nWell, I'm always up for\nshaking it! {07 00 00}Ready?{01 01 00} You\nsure?{01 01 00} OK!{01 00 00 05 00} {07 0d 00}Woot!{01 00 00 0f 00} Woot!{01 00 00 0f 00} WOOT!{09 09 00}",
+   "et": ""
+  },
+  {
+   "id": 11,
+   "en": "{09 00 00}{09 06 00}{09 01 00}{07 02 00}You're so.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}energetic. {01 00 00 05 00}Do you\ndrink a lot of coffee or\nsomething, {01 00 00 05 00}{04 02 00}?\n{07 16 00}It's kinda{01 00 00 05 00} contagious!\nWatching you makes even me\nwanna dance{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n{07 06 00}No! {01 00 00 05 00}I gotta stay cool{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}. Oh,\nbut I just can't help\nmyself!{01 01 00} .{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 0d 00}Woot!{01 00 00 05 00} Woot WOOT!{09 09 00}",
+   "et": ""
+  },
+  {
+   "id": 12,
+   "en": "{09 00 00}{09 08 00}{09 02 00}{07 0d 00} Woot!{01 00 00 05 00} Woot WOOT!{09 09 00}",
+   "et": ""
+  },
+  {
+   "id": 13,
+   "en": "{09 00 00}{09 06 00}{09 01 00}{07 0a 00} Yeah!{01 00 00 05 00} Shake it, girlfriend!{09 09 00}",
+   "et": ""
+  },
+  {
+   "id": 14,
+   "en": "{09 00 00}{09 08 00}{09 02 00}{07 0a 00}Go, girl!{01 00 00 05 00} Woot WOOT!\n.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}OMIGOSH!{01 00 00 05 00} I'm having, like,\nTHE BEST TIME EVER!{03 01 00 01}{09 01 00}{03 01 00 01}",
+   "et": ""
+  }
+ ]
+}

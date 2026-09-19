@@ -1,0 +1,20 @@
+{
+ "file": "script/ENG/message/ko/q/icancel_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 1c 00}HEY!{01 00 00 14 00} You think I'm stupid?!\nWell, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 15 00}Ha.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0f 00} I didn't expect much\nfrom ya, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 15 00}Don't even think for a \nsecond that you can \noutsmart me, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  }
+ ]
+}

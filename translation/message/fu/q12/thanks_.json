@@ -1,0 +1,20 @@
+{
+ "file": "script/ENG/message/fu/q12/thanks_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 0a 00}{0b 03 00}{04 1f 00},{01 00 00 0a 00} I can't tell\nyou how grateful I am that\nyou got me that {ff 00 00 07}medicine{ff 00 00 00}.\n{07 14 00}I'm back to my normal self\nagain, and I owe it all\nto you, {01 00 00 05 00}{04 02 00}.\nThat's why I want you to\nhave this little token\nof appreciation.",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 0a 00}{0b 03 00}{04 1f 00}, {01 00 00 05 00}if it weren't\nfor that {ff 00 00 07}medicine {ff 00 00 00}you\nbrought, I'd still be sick.\n{07 06 00}If it weren't for you,{01 00 00 05 00} I'd\nstill be curled up in bed,\nfeeling miserable!\n{07 00 00}It's nothing special, but.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\nI want you to have this.\n",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 14 00}You have given me the most\nprecious of gifts.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\nThe gift of good health!\n{07 00 00}Seriously, without your\ncare, {01 00 00 0a 00}{07 16 00}I'd probably still\nbe sniffling in bed.\n{07 00 00}So I just want to be able\nto thank you properly,\n{01 00 00 05 00}{04 02 00}.",
+   "et": ""
+  }
+ ]
+}

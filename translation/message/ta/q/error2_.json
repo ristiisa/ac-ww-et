@@ -1,0 +1,15 @@
+{
+ "file": "script/ENG/message/ta/q/error2_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 1c 00}{01 00 00 05 00}Are you serious?{01 00 00 0f 00} {07 16 00}You think\nI can make it then?!\n\n{07 15 00}I want to be there as soon\nas possible, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 16 00}I'm a busy girl, you know.\n{01 01 00}{07 15 00}You gotta stop by a little\nearlier, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  }
+ ]
+}

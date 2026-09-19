@@ -1,0 +1,65 @@
+{
+ "file": "script/ENG/message/fu/ap/buy_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 14 00}{0b 03 00}{04 1f 00},{01 00 00 05 00} I really like\n{0b 01 00}{04 1a 00}\nyou've got there.\n{07 00 00}I could sure use one. Would\nyou consider selling it for,\noh, {07 0b 00}{04 10 00} Bells?{02 00 00 03 04}\nSure!\nNot this one...",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 06 00}I don't have time to\nexplain,{01 00 00 05 00} and I know it's a\nbit sudden, but{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.\n{07 16 00}Would you want to sell your\n{0b 02 00}{04 1a 00}\nfor {01 00 00 0f 00}{07 0b 00}{04 10 00} Bells?{02 00 00 03 04}\nGladly!\nNot a chance!",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 16 00}I've got a bit of a favor\nto ask, {04 1f 00}, and I\ndon't have time to explain.\nWould you {01 00 00 0a 00}{07 0b 00}sell me your\n{0b 02 00}{04 1a 00}\nfor {04 10 00} Bells?{02 00 00 03 04}\nWhy not?\nWhy should I?",
+   "et": ""
+  },
+  {
+   "id": 3,
+   "en": "{07 14 00}Oh, that's great. I've been\nwanting one of those for\na long time, {01 00 00 05 00}{04 02 00}.\nHere you go. Exactly\n{04 10 00} Bells, just like I\npromised.",
+   "et": ""
+  },
+  {
+   "id": 4,
+   "en": "{06 01 00 06 07 08}",
+   "et": ""
+  },
+  {
+   "id": 5,
+   "en": "{06 01 00 09 0a 0b}",
+   "et": ""
+  },
+  {
+   "id": 6,
+   "en": "{07 16 00}I'm sorry--was that too\nforward?{01 00 00 05 00} Should I have\nasked more nicely?\n{07 06 00}I've been going out to\n{04 22 00} so much\nthat I've lost my manners!",
+   "et": ""
+  },
+  {
+   "id": 7,
+   "en": "{07 1c 00}Well, I guess it is yours{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\nYou can do whatever you\nwant with it, {01 00 00 05 00}{04 02 00}.",
+   "et": ""
+  },
+  {
+   "id": 8,
+   "en": "{07 16 00}Oh{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00} OK. I guess that's\njust too bad for me,\nisn't it?\n{07 00 00}But I understand.{01 00 00 0f 00} I'll just\nkeep looking for one on my\nown, {01 00 00 05 00}{04 02 00}.",
+   "et": ""
+  },
+  {
+   "id": 9,
+   "en": "{07 14 00}Thank you so very much!\n{01 00 00 05 00}{0b 03 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 10,
+   "en": "{07 14 00}I'll take good care of it,\n{01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 11,
+   "en": "{07 14 00}Thank you!{01 00 00 0f 00} {07 0a 00}I've always said\nwhat a nice person you are,\n{04 1f 00}!",
+   "et": ""
+  }
+ ]
+}

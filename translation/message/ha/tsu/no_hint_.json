@@ -1,0 +1,20 @@
+{
+ "file": "script/ENG/message/ha/tsu/no_hint_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 00 00}Check this out: I was\nstaring at the sky, just\nkinda spacing out, right?\nAnd I saw something flying,{01 00 00 05 00}\n{07 16 00}but I wasn't able to jump\nhigh enough to catch it.\n{07 0b 00}I got mad hops, too! {01 00 00 05 00}How's\na guy supposed to nab\nstuff like that?",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 16 00}Ow! Ack! Yargh! Yurk{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 01 00}\n{07 06 00}I've been walking so long,{01 00 00 05 00}\nI got blisters on my feet!\n.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 04 00}Oh, wait! {01 00 00 05 00}You think maybe\nit's 'cuz {07 17 00}we don't wear\nshoes, {01 00 00 05 00}{04 02 00}?",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 14 00}Walks are good for the bod,\nof course, but they're also\ngood for Brian.\n{07 0e 00}Hm?{01 00 00 05 00} Brain? {01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}You sure it's\nnot Brian?{01 00 00 05 00} You're positive?{01 00 00 05 00}\n{07 16 00}Am I a meathead?",
+   "et": ""
+  }
+ ]
+}

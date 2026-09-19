@@ -1,0 +1,60 @@
+{
+ "file": "script/ENG/message/sp/npc/turtle7_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 14 00}{01 00 00 0a 00}I've been waiting,\n{04 00 00}.{01 00 00 0f 00} I have\nsomething for you.\nYou've probably guessed\nwhat it is... {07 13 00}{01 00 00 0a 00}It's an\n{ff 00 00 02}engagement ring{ff 00 00 00}!\n{07 03 00}{01 00 00 0a 00}Just kidding, little\nfirecracker!{01 00 00 14 00} Heh heh heh!\nIt's a {ff 00 00 07}golden fishing rod!",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 00 00}So,{01 00 00 05 00} you've really caught{01 00 00 05 00}\nall the fish?{07 14 00}{01 00 00 0f 00} Well then!\nThis rod is your prize!\nYou may not need it, but\nwho doesn't want a rod made\nof gold?\n{07 00 00}Now, don't get all\ncomplacent{01 00 00 05 00} just because \nyou've caught many fish!\nDo you understand me,\n{01 00 00 05 00}{04 00 00}?{01 01 00} You're still\na wee young'un!\nThere's plenty more ahead\nof you in life!{01 00 00 14 00} {07 03 00}{01 00 00 0f 00}A heh heh\nheh! {01 00 00 05 00}A hee hee HORF! {01 00 00 05 00}HOOO!",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 14 00}{01 00 00 0a 00}I've been waiting for you,\n{04 00 00}.{01 00 00 0f 00} I have\nsomething special for you.\nYes, brace yourself, for it\nis.{01 00 00 05 00}.{01 00 00 05 00}.{07 13 00}{01 00 00 0a 00}a{ff 00 00 02} love letter{ff 00 00 00}!{01 01 00} {07 03 00}{01 00 00 0f 00}A heh heh\nheh! Got you there!\n{07 00 00}You're not the first to\nget one,{01 00 00 0a 00} but please take\nthis {ff 00 00 07}golden fishing rod{ff 00 00 00}.",
+   "et": ""
+  },
+  {
+   "id": 3,
+   "en": "{07 14 00}{01 00 00 0a 00}I've been waiting for you,\n{04 00 00}.{01 00 00 0f 00} Why?\n\nBecause you've caught every\ntype of bug!{01 00 00 05 00} {07 19 00}{01 00 00 0a 00}What a brave\nwarrior you are.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 1a 00}{01 00 00 0f 00}Your bravery\nis the net that's captured\nour hearts!\nWe honor you today,{07 00 00} master\nbug catcher, with\nthis {ff 00 00 07}golden net{ff 00 00 00}.",
+   "et": ""
+  },
+  {
+   "id": 4,
+   "en": "{07 00 00}You may not need it,{01 00 00 05 00} but\nthis net is fit to catch\nthe finest of butterflies!\n.{01 00 00 05 00}.{01 00 00 05 00}.{07 14 00}{01 00 00 0a 00}So show some respect!{01 01 00}\n{07 00 00}Still{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0f 00}a net is a fine\nthing,\n{07 13 00}{01 00 00 0f 00}but it is the net of love\nthat catches our hearts!{01 00 00 0a 00}\n{07 00 00}{01 00 00 0a 00}Contemplate that, sprout{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00}\nMy hip sure is {01 00 00 05 00}{07 09 00}acting up\ntoday{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.",
+   "et": ""
+  },
+  {
+   "id": 5,
+   "en": "{07 14 00}{01 00 00 0a 00}I've been waiting for you,\n{04 00 00}!{01 00 00 0f 00} It seems you\n{01 00 00 05 00}caught every type of bug!\nAnd, in doing so, you have\ncaptured our hearts as\nwell!{01 00 00 05 00}\n{07 00 00}Come and claim your prize,{01 00 00 05 00}\nthe {ff 00 00 07}golden net{ff 00 00 00}, available\nnowhere else!\nWell, to be honest, someone\nelse in {04 03 00} already\nhas one, but hey{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\nYou'll take it, won't you,\nsprout? {01 00 00 05 00}{07 03 00}Oh, what a happy\nday! Heh heh heh!",
+   "et": ""
+  },
+  {
+   "id": 6,
+   "en": "{07 14 00}Treat it as well as you\nwould treat me.",
+   "et": ""
+  },
+  {
+   "id": 7,
+   "en": "Now, when people see you\nwith that thing, they'll be\nso awestruck, they'll just{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\nEr, {01 00 00 05 00}{07 11 00}never mind.",
+   "et": ""
+  },
+  {
+   "id": 8,
+   "en": "Now, when people see you\nwith that thing, they'll be\nso awestruck, they'll just{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n\nErr, {01 00 00 05 00}{07 11 00}never mind.",
+   "et": ""
+  },
+  {
+   "id": 9,
+   "en": "{07 14 00}{01 00 00 0a 00}I've been waiting for you,\n{04 00 00}.{01 00 00 0f 00} I have\nsomething for you.\n{07 15 00}{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}But, {01 00 00 03 00}you already have too\nmany things!\n\nBah!{01 00 00 05 00} Now I can't give you\nthis {07 09 00}{01 00 00 05 00}{ff 00 00 02}engagement ring{ff 00 00 00}{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.",
+   "et": ""
+  },
+  {
+   "id": 10,
+   "en": "{07 14 00}{01 00 00 0a 00}I've been waiting for you,\n{04 00 00}.{01 00 00 0f 00} I have\nsomething special for you.\n{07 15 00}{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}But {01 00 00 03 00}you have too much\nstuff already!\n\nNow you'll never get a\nchance to read my{01 00 00 0a 00}\n{07 09 00}{ff 00 00 02}love letter{ff 00 00 00}{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.",
+   "et": ""
+  }
+ ]
+}

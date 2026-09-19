@@ -1,0 +1,125 @@
+{
+ "file": "script/ENG/message/ha/3p/fu_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{09 01 00}{09 08 00}{07 17 00}Whoa, stay back{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\nI'm serious! Back off!{09 09 00}",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{09 01 00}{09 08 00}{07 0a 00}Good thing I picked up this\nhigh-tech workout shirt,\n{01 00 00 05 00}{04 02 00}!{09 09 00}",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{09 01 00}{09 07 00}{07 14 00}Yo!{01 00 00 05 00} Help me come up\nwith a name for my\nfinishing move!{09 09 00}",
+   "et": ""
+  },
+  {
+   "id": 3,
+   "en": "{09 00 00}{09 08 00}{09 02 00}{07 04 00}Huh?!{01 00 00 14 00} {07 16 00}What's the deal,\n{ff 00 00 06}{04 0f 00}{ff 00 00 00}? {01 00 00 05 00}Is something\nwrong?{09 09 00}",
+   "et": ""
+  },
+  {
+   "id": 4,
+   "en": "{09 00 00}{09 06 00}{09 01 00}{07 16 00}Uhhhhh{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}I was just doing\na set of thunder squats,{01 00 00 05 00}\nand I kinda split my pants.\n{07 17 00}You better not laugh,\n{01 00 00 05 00}{04 02 00}!{09 09 00}",
+   "et": ""
+  },
+  {
+   "id": 5,
+   "en": "{09 00 00}{09 08 00}{09 02 00}{07 03 00}Ha ha ha ha ha! {01 00 00 05 00}You split\nyour pants doing squats?!\n{01 00 00 05 00}HAHAHA!\n{07 0b 00}Hey, wait a sec.{07 00 00} You don't\nwear pants. So, then{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{01 01 00}\n{07 02 00}What split?!?!{09 09 00}",
+   "et": ""
+  },
+  {
+   "id": 6,
+   "en": "{09 00 00}{09 06 00}{09 01 00}{07 02 00}Dude.{01 01 00}\n{07 06 00}I gotta go, {01 00 00 05 00}{04 02 00}!{09 09 00}",
+   "et": ""
+  },
+  {
+   "id": 7,
+   "en": "{07 16 00}{09 00 00}{09 08 00}{09 02 00}{07 02 00}...{09 01 00}{03 02 00 01}",
+   "et": ""
+  },
+  {
+   "id": 8,
+   "en": "{09 00 00}{09 08 00}{09 02 00}{07 0e 00}Huh? {01 00 00 05 00}What are you talking\nabout, {ff 00 00 06}{04 0f 00}{ff 00 00 00}?{09 09 00}",
+   "et": ""
+  },
+  {
+   "id": 9,
+   "en": "{07 00 00}{09 03 00}{09 01 00}{09 04 00}{09 00 00}{09 06 00}{09 01 00}{07 00 00}Dude, {ff 00 00 05}{01 00 00 05 00}{04 1f 00}{ff 00 00 00},{01 00 00 0a 00}\n{07 0b 00}you know about high-tech\nworkout gear, right?{02 00 00 0a 0d}\nAre you insane?\nOh, totally!",
+   "et": ""
+  },
+  {
+   "id": 10,
+   "en": "{07 01 00}Dude, how could you not be\nup on the latest fat-\nburning technology?!{09 09 00}",
+   "et": ""
+  },
+  {
+   "id": 11,
+   "en": "{09 00 00}{09 08 00}{09 02 00}{09 06 00}Settle down there,\n{ff 00 00 06}{04 0f 00}{ff 00 00 00}!{01 00 00 05 00}\n\nNot everybody is a fitness\npsycho like you,\n{01 00 00 05 00}{04 02 00}!{09 01 00}{09 08 00}\n{09 02 00}{07 16 00}I mean, why would you want\na high-tech workout shirt\nin the first place?{09 09 00}",
+   "et": ""
+  },
+  {
+   "id": 12,
+   "en": "{09 00 00}{09 06 00}{09 01 00}{09 08 00}{07 01 00}You don't even KNOW!\nThese new shirts totally\nblow away spandex! \n{09 04 00}{07 15 00}And the best part is the\nbuilt-in parachute!\n\nIt's useful when you're\njogging and you accidentally\njog off a cliff.\nYou can pull off a killer\nbase jump!{03 02 00 01}",
+   "et": ""
+  },
+  {
+   "id": 13,
+   "en": "{09 01 00}{07 0a 00}I knew you'd back me up,{01 00 00 0a 00}\n{ff 00 00 05}{04 1f 00}{ff 00 00 00}!\n\n{07 06 00}Space-age polymers make\nmy workout 187% harder\nthan when I wear spandex!{09 09 00}",
+   "et": ""
+  },
+  {
+   "id": 14,
+   "en": "{07 16 00}{09 00 00}{09 08 00}{09 02 00}{07 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{09 06 00}I don't get it. {01 00 00 0a 00}How does\nsome shirt make your\nworkout harder?{01 00 00 0a 00}\n{07 16 00}And why do you want your\nworkouts to be even\nharder?! Geez, {01 00 00 05 00}{04 02 00}!{09 09 00}",
+   "et": ""
+  },
+  {
+   "id": 15,
+   "en": "{09 00 00}{09 06 00}{09 01 00}{09 08 00}{07 15 00}Isn't it obvious?! It's so\ntight that I have to fight\nthe shirt just to move!\n{07 00 00}I can even hit a button\nto eject a parachute for\neven more wind resistance!\n{07 0a 00}If you thought wind sprints\nwere gnarly, try running\nwith a parachute deployed!",
+   "et": ""
+  },
+  {
+   "id": 16,
+   "en": "{09 00 00}{09 08 00}{09 02 00}{07 06 00}Huh? {01 00 00 0f 00}You mean, like a\nwrestling move?\n\nUmmmm, I don't really know\nanything about wrestling,\nbut...\n{07 0c 00}Wait, I've got it!{01 00 00 14 00} {07 00 00}You should\nuse your name as part of\nyour special move!{09 09 00}",
+   "et": ""
+  },
+  {
+   "id": 17,
+   "en": "{09 00 00}{09 06 00}{09 01 00}{07 00 00}That's a killer idea!\nHow about the{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n{07 0c 00}Atomic {04 01 00} Pinch!\n{07 00 00}{09 04 00}Yo, {ff 00 00 05}{04 1f 00}{ff 00 00 00}!{01 00 00 05 00} Whaddya\nthink of that?{01 00 00 05 00}{09 02 00}{09 03 00}{09 01 00}{07 0d 00}{02 00 00 12 16}\nAwesome!\nWeak!",
+   "et": ""
+  },
+  {
+   "id": 18,
+   "en": "{07 14 00}You think so?!{01 00 00 14 00} I'll bust out\nthat bad boy at my next\nelectric-cage match!{09 09 00}",
+   "et": ""
+  },
+  {
+   "id": 19,
+   "en": "{09 07 00}{09 00 00}{09 08 00}{09 02 00}{09 06 00}{07 1a 00}Way to go, {ff 00 00 06}{04 0f 00}{ff 00 00 00}!{01 00 00 05 00}\nGood luck with that!{09 09 00}",
+   "et": ""
+  },
+  {
+   "id": 20,
+   "en": "{07 14 00}{09 00 00}{09 06 00}{09 01 00}{09 08 00}{09 02 00}{07 00 00}{09 01 00}Yes!{01 01 00} {07 05 00}Headbutt!{01 00 00 0a 00} Full nelson!{01 00 00 0a 00}\nArmpit rip!{01 00 00 05 00}\n\nThen finish off the dude\nwith a crowd-pleasing\nAtomic {04 01 00} Pinch!\n{07 15 00}With a finishing move\nlike that, I'll be totally\nunstoppable, {01 00 00 05 00}{04 02 00}!{09 09 00}",
+   "et": ""
+  },
+  {
+   "id": 21,
+   "en": "{09 00 00}{09 08 00}{09 02 00}{09 05 00}{ff 00 00 06}{04 0f 00}{ff 00 00 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n{07 09 00}Isn't that fighting dirty,\n{01 00 00 05 00}{04 02 00}?",
+   "et": ""
+  },
+  {
+   "id": 22,
+   "en": "{07 02 00}HWHAT?!{01 00 00 14 00} {07 05 00}Do you even know\nwhat an electric-cage\nmatch is all about?!\nThere aren't any rules!\nIt's NO-HOLDS-BARRED,\nrip-roarin' wrasslin'!{09 09 00}",
+   "et": ""
+  },
+  {
+   "id": 23,
+   "en": "{09 00 00}{09 08 00}{09 02 00}{09 05 00}Oh!{01 00 00 0a 00} Well, in that case,\nget out there and do your\nworst, {ff 00 00 06}{04 0f 00}{ff 00 00 00}!{09 01 00}",
+   "et": ""
+  }
+ ]
+}

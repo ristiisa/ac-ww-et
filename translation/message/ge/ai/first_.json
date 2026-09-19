@@ -1,0 +1,65 @@
+{
+ "file": "script/ENG/message/ge/ai/first_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 14 00}Hey! {01 00 00 05 00}Nice to meet you!{01 00 00 0f 00} {07 00 00}I'm\n{04 01 00}!{01 00 00 0a 00} Yep yep yep!\nAnd you must be.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n{0b 03 00}{04 1f 00}, right?{01 00 00 0a 00} Yep!\nHere's to a long and lively\nfriendship, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 14 00}Gooooooooooood morning!{01 00 00 05 00} I'm\n{04 01 00}! {01 00 00 14 00}{07 00 00}I totally love\nto {04 22 00}!\n{07 0e 00}And you would be{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} Aha!{01 00 00 05 00}\n{07 14 00}{0b 03 00}{04 1f 00}, of course!\n\nWell, it's nice to meet you,{01 00 00 05 00}\n{04 1f 00}! {01 00 00 05 00}{0b 03 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 15 00}Hey, you!{01 00 00 0a 00} Yeah, you with the\nface! {01 00 00 05 00}Why do you keep\nstaring at me like that?\n{07 04 00}Huh? You{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}you{07 00 00} want to be\nfriends?{01 00 00 0a 00} OK, then speak up,\nwill you?\n{07 14 00}My name's {04 01 00}!{01 01 00}\n{07 00 00}You're{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{04 1f 00}, right?\n\n{07 14 00}OK, so let's meet up and\n{04 22 00} sometime,\n{01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 3,
+   "en": "{07 14 00}Hi there!{01 00 00 0a 00} {07 04 00}Hey, {01 00 00 05 00}you're new\naround here, aren't you?\n{01 00 00 05 00}{0b 03 00}{04 02 00}?\n{07 14 00}I'm {04 01 00}! {01 00 00 0a 00}I totally\nlove to {04 22 00}.{01 00 00 14 00}\nWell, it's nice to meet you!",
+   "et": ""
+  },
+  {
+   "id": 4,
+   "en": "{07 04 00}Wait a sec...{01 00 00 0a 00} I've never met\nyou before, have I? Well, my\nname's {04 01 00}!{01 00 00 0a 00}\n{04 0f 00} is my sign. {01 00 00 05 00}\nI live to {04 22 00}!\nIt's good to meet you!\n{07 14 00}Yep, the {04 01 00} fan\nclub is always accepting new\nmembers! {01 00 00 05 00}{0b 03 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 5,
+   "en": "{07 14 00}Hiya!{01 00 00 0a 00} Long time, no see,\n{01 00 00 05 00}{04 02 00}!{01 01 00} {07 02 00}WHAAAT? {01 00 00 05 00}We've\nnever met before?\n{07 06 00}Oops! {01 00 00 05 00}My bad.{01 00 00 0a 00} This is SOOO\nembarrassing, I could die!{01 00 00 0a 00}\n{07 14 00}OK, let me start over{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\nMy name's {04 01 00}.{01 00 00 0f 00} I\nlove to {04 22 00}!\n\nI'm pretty energetic, {01 00 00 05 00}but\ndon't let that scare you\noff, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 6,
+   "en": "{07 04 00}Oh, {01 00 00 05 00}a new face!{01 00 00 0a 00} Right?{01 01 00} Well,\n{07 14 00}I'm {04 01 00}, and my\nsign is {04 0f 00}!\n{07 0e 00}You would be{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 14 00}{04 1f 00},\nright?{01 00 00 0a 00} {07 0d 00}Well, here's to our\nnew friendship, {01 00 00 0a 00}{04 1f 00}!",
+   "et": ""
+  },
+  {
+   "id": 7,
+   "en": "{07 02 00}HOLY MOLY!{01 00 00 0a 00} Who goes there?{01 01 00}\n{07 16 00}Sorry!{01 00 00 0a 00} It's so dark, I\ncouldn't see anything.\n{07 0b 00}Are you new here?{01 00 00 14 00} {07 14 00}Well\nthen, {01 00 00 05 00}let me, like,\nintroduce myself!\n{04 01 00}!{01 00 00 0f 00} That's my\nname! {01 00 00 14 00}Nice to meet you,\n{01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 8,
+   "en": "{07 14 00}Good evening! {01 00 00 0f 00}And, like, {01 00 00 05 00}nice\nto meet you!{01 00 00 0f 00} {01 00 00 05 00}{0b 03 00}{04 02 00}!\nThe name's {04 01 00}!{01 00 00 0f 00}\nI like to {01 00 00 05 00}{04 22 00}!\n{07 00 00}If you do too, {07 0d 00}I'll teach\nyou everything I know!",
+   "et": ""
+  },
+  {
+   "id": 9,
+   "en": "This may be the first time\nI've said, {07 14 00}\"Nice to meet\nyou!\" this late at night.\nMy name's {04 01 00}! {07 0b 00}Are\nyou{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{04 1f 00}?{01 00 00 05 00}\n\n{07 11 00}Wandering around at this\ntime of night...{01 01 00} You're\ntrouble, aren't you?",
+   "et": ""
+  },
+  {
+   "id": 10,
+   "en": "{07 02 00}PRANCING POLKA DOTS!!!{01 01 00} Huh?\nHave we met before?\n\n{07 16 00}Running into someone I've\nnever met {01 00 00 05 00}totally freaked\nme out{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 14 00}I'm kind of high strung like\nthat. {01 00 00 05 00}I'm {04 01 00}!{01 00 00 0a 00} I\nlove to {04 22 00}!\n{07 00 00}So you're {01 00 00 05 00}{07 14 00}{04 1f 00}, huh?{01 00 00 0a 00}\n{07 0d 00}Remember, {01 00 00 05 00}honesty's the\nthing. {01 00 00 05 00}Honest, {01 00 00 0a 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 11,
+   "en": "{07 12 00}YAAAAWN{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00} Must have some\n{04 19 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n\n{07 04 00}Wha?!?{01 00 00 14 00} {07 06 00}Did you hear me\ntalking to myself? {07 00 00}I'm{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{04 01 00}.\nWho are you?{01 01 00} Oh,\n{04 1f 00}, huh?{01 00 00 05 00}\n\n{07 15 00}OK, eavesdropper, {01 00 00 05 00}you owe\nme some {04 19 00},\n{01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  }
+ ]
+}

@@ -1,0 +1,15 @@
+{
+ "file": "script/ENG/message/fu/q/error2_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 1d 00}Whoa, hey! No, no, no!{01 00 00 0a 00}\n{07 16 00}It's way too late for this\nright now, {01 00 00 05 00}{04 02 00}!\n{07 06 00}Maybe another time. Say{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.a\nmore appropriate time?",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 04 00}What? Now? Are you serious?\n\n\n{07 16 00}No, sorry, but this just\ndoesn't work for me. Sorry,\nanother time, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  }
+ ]
+}

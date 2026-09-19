@@ -1,0 +1,55 @@
+{
+ "file": "script/ENG/message/ge/tsu/fo_act_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 0d 00}{0b 03 00}{04 1f 00}!{01 00 00 05 00} Let's get\ncrackin'!\n\n{07 00 00}What?! {01 00 00 05 00}You don't know what\nI'm doing? {07 06 00}Can't you tell by\nthe way I'm dressed?\n{07 15 00}I'm hunting fossils!{01 00 00 05 00}\nFO{01 00 00 05 00}SSILS! And you're gonna\nhelp me!\n{07 01 00}Quit spacing out, you big\nfreak sandwich! {01 00 00 05 00}Look alive\nand follow me!",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 16 00}Hey, you!{01 00 00 0a 00} Hellooooooo?!\nStop daydreaming, you\nfreakazoid!\n{07 06 00}Come help me find a fossil!{01 01 00}\n{07 16 00}When I find one, I sell it to\n{ff 00 00 06}Tom Nook{ff 00 00 00} for huge money!\n{07 11 00}We can split the profits\n100/0, right? {01 00 00 05 00}Good,\n{01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 14 00}Just the other day I found\na fossil! {01 00 00 05 00}Yes, A FOSSIL!!!{01 00 00 05 00}\n\n{07 00 00}But that hypernerd {01 00 00 05 00}{ff 00 00 06}Blathers\n{ff 00 00 00}told me {07 16 00}it was just a piece\nof plastic, {01 00 00 05 00}{04 02 00}!\n{07 01 00}Who did it?! {01 00 00 05 00}Who had to go\nand shatter my irresistibly\nadorable little heart?\n{07 05 00}You know what I think?{01 00 00 05 00}\nI think it was YOU, you\nplastic-fossil SICKO!",
+   "et": ""
+  },
+  {
+   "id": 3,
+   "en": "{06 03 00 08 09}",
+   "et": ""
+  },
+  {
+   "id": 4,
+   "en": "{07 16 00}Why has it got to be so\nhard to find a stupid\nfossil? Seriously{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 06 00}Right now, I wouldn't mind\ndigging up a hot spring to\nsoak in, {01 00 00 05 00}{04 02 00}.",
+   "et": ""
+  },
+  {
+   "id": 5,
+   "en": "{07 16 00}YARRRPZAZZZLEGRAGH!!{01 00 00 05 00}\nWhy can't I find a single\nfossil, {01 00 00 05 00}{04 02 00}?\nI bet that snakeface\n{04 0c 00} dug 'em all up\nalready!\n{07 06 00}I know you're hiding out\nthere somewhere, snickering\nas I waste my time!\nI'll get my revenge!\nYou hear me, {04 0c 00}? \nThis is TOTALLY uncool.",
+   "et": ""
+  },
+  {
+   "id": 6,
+   "en": "{07 14 00}Phew, {01 00 00 05 00}I'm EXHAUSTED!{01 01 00} {07 16 00}It's\nlike I'm out sweatin' with a\nshovel for nothin'!{01 00 00 05 00}\n{07 02 00}{01 08 00}OH NO!{01 01 00} I meant...s'walking,\nnot sweatin'! {01 00 00 0f 00}Cute girls like\nme don't sweat!",
+   "et": ""
+  },
+  {
+   "id": 7,
+   "en": "{07 0d 00}La-la la... {01 00 00 05 00}Laaaaaa!{00 01 00}{01 01 00} {07 14 00}Being\noutside is fun when you\nsing to yourself.\n{07 16 00}But I still haven't\nfound a single fossil{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n\n{07 06 00}The way things are going,{01 00 00 05 00}\nI could record a double\nalbum with all my singing{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.",
+   "et": ""
+  },
+  {
+   "id": 8,
+   "en": "{07 15 00}Hey, {01 00 00 05 00}{04 1f 00}!{01 01 00} {07 06 00}If you're\nso good at fossil hunting,\nfind me one!\n{07 0d 00}If you get a fossil, be a\nlamb and mail it to me!\nGot that, {01 00 00 05 00}{04 02 00}?",
+   "et": ""
+  },
+  {
+   "id": 9,
+   "en": "{07 15 00}Hey, {01 00 00 05 00}{04 1f 00}!{01 00 00 0a 00} {07 16 00}Don't just\nstand there! {01 00 00 0a 00}Help me find\na cool fossil!\n{07 02 00}What?! {01 00 00 0a 00}You don't want to\nget dirty?! Oh c'mon,\n{01 00 00 05 00}{04 02 00}!\n{07 06 00}HONESTLY, {0b 03 00}{04 1f 00}, you\ncan be such a little priss\nsometimes!",
+   "et": ""
+  }
+ ]
+}

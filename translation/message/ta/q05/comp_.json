@@ -1,0 +1,20 @@
+{
+ "file": "script/ENG/message/ta/q05/comp_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 00 00}So I've been toying around\nwith interior design lately.\n\n{07 0d 00}I like to keep my house\non the edge of style,\n{01 00 00 0a 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 14 00}I totally fell in love with\nthis new furniture I got,\n{04 1f 00}.\n{07 07 00}Sometimes it's weird\nthinking about what life was\nlike before I had it.{01 00 00 0a 00}{07 00 00}",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "My new furniture is the\nbest, {01 00 00 0a 00}{04 02 00}.\n\n{07 00 00}I've totally fallen in love\nwith it!{01 01 00} {07 14 00}It's a whirlwind\nromance!",
+   "et": ""
+  }
+ ]
+}

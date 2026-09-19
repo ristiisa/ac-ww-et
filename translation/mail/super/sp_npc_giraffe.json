@@ -1,0 +1,45 @@
+{
+ "file": "script/ENG/mail/super/sp_npc_giraffe.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "Disastrous \n,",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "Dear frumpy \n,\n",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "Dear redneck \n,",
+   "et": ""
+  },
+  {
+   "id": 3,
+   "en": "Hey wannabe \n,",
+   "et": ""
+  },
+  {
+   "id": 4,
+   "en": "Dear boring \n,",
+   "et": ""
+  },
+  {
+   "id": 5,
+   "en": "Dear tolerable \n,",
+   "et": ""
+  },
+  {
+   "id": 6,
+   "en": "Hey there, hot \n,",
+   "et": ""
+  },
+  {
+   "id": 7,
+   "en": "Dear fabulous \n,",
+   "et": ""
+  }
+ ]
+}

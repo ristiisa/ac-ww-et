@@ -1,0 +1,20 @@
+{
+ "file": "script/ENG/message/ha/etc/cancel_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 00 00}Now you're just{01 00 00 05 00} straight-up{01 00 00 0a 00}\ndissing me, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 00 00}Really?{01 00 00 05 00} Are you sure?!{01 00 00 05 00}\nOK, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 00 00}Well, {01 00 00 05 00}all right. {01 00 00 05 00}Fine!{01 00 00 05 00}\nI don't care, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  }
+ ]
+}

@@ -1,0 +1,20 @@
+{
+ "file": "script/ENG/message/ta/q09/end_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 00 00}Wow, that was tons of fun!{01 00 00 14 00}\n{07 14 00}Thanks a lot, {01 00 00 0a 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 15 00}I won't lose next time, \n{01 00 00 0a 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 14 00}Hide-and-seek can be fun{01 00 00 05 00}\nonce in a while,\n{01 00 00 0a 00}{04 02 00}!",
+   "et": ""
+  }
+ ]
+}

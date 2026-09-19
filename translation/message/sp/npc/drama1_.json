@@ -1,0 +1,455 @@
+{
+ "file": "script/ENG/message/sp/npc/drama1_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 1c 00}Hooo{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{02 04 00 1a 00}\nWhat's wrong?\nGet to work!",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 1c 00}Hrrm{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{02 04 00 1d 00}\nWhat's wrong?\nGet to work!",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 1c 00}Hoo hooo{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{02 04 00 20 00}\nWhat's wrong?\nGet to work!",
+   "et": ""
+  },
+  {
+   "id": 3,
+   "en": "{07 16 00}Hrmm{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{02 04 00 23 00}\nWhat's wrong?\nGet to work!",
+   "et": ""
+  },
+  {
+   "id": 4,
+   "en": "{07 1c 00}Hoooo{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{07 1c 00}{02 04 00 26 00}\nWhat's wrong?\nGet to work!",
+   "et": ""
+  },
+  {
+   "id": 5,
+   "en": "{07 1c 00}Hrrrgh{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{02 04 00 2a 00}\nWhat's wrong?\nGet to work!",
+   "et": ""
+  },
+  {
+   "id": 6,
+   "en": "{07 16 00}Mrrrrgh{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{02 04 00 2d 00}\nWhat's wrong?\nGet to work!",
+   "et": ""
+  },
+  {
+   "id": 7,
+   "en": "{07 1c 00}I say{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{02 04 00 31 00}\nWhat's wrong?\nGet to work!",
+   "et": ""
+  },
+  {
+   "id": 8,
+   "en": "{07 16 00}Muhhh{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{02 04 00 34 00}\nWhat's wrong?\nGet to work!",
+   "et": ""
+  },
+  {
+   "id": 9,
+   "en": "{07 16 00}Huhhhh{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{02 04 00 36 00}\nWhat's wrong?\nGet to work!",
+   "et": ""
+  },
+  {
+   "id": 10,
+   "en": "{07 1c 00}Ugh{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{02 04 00 39 00}\nWhat's wrong?\nGet to work!",
+   "et": ""
+  },
+  {
+   "id": 11,
+   "en": "{07 1c 00}Bah{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{02 04 00 3d 00}\nWhat's wrong?\nGet to work!",
+   "et": ""
+  },
+  {
+   "id": 12,
+   "en": "{07 16 00}Hrmph{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{02 04 00 40 00}\nWhat's wrong?\nGet to work!",
+   "et": ""
+  },
+  {
+   "id": 13,
+   "en": "{07 1c 00}Awwww{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{02 04 00 42 00}\nWhat's wrong?\nGet to work!",
+   "et": ""
+  },
+  {
+   "id": 14,
+   "en": "{07 16 00}Ooooh{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{02 04 00 44 00}\nWhat's wrong?\nGet to work!",
+   "et": ""
+  },
+  {
+   "id": 15,
+   "en": "{07 1c 00}Hoooogh{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{02 04 00 47 00}\nWhat's wrong?\nGet to work!",
+   "et": ""
+  },
+  {
+   "id": 16,
+   "en": "{07 1c 00}Pshhhh{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{02 04 00 4a 00}\nWhat's wrong?\nGet to work!",
+   "et": ""
+  },
+  {
+   "id": 17,
+   "en": "{07 1c 00}Uuurgh{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{02 04 00 4c 00}\nWhat's wrong?\nGet to work!",
+   "et": ""
+  },
+  {
+   "id": 18,
+   "en": "{07 16 00}Muhhhh{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{02 04 00 4e 00}\nWhat's wrong?\nGet to work!",
+   "et": ""
+  },
+  {
+   "id": 19,
+   "en": "{07 1c 00}Ahhhh{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{02 04 00 50 00}\nWhat's wrong?\nGet to work!",
+   "et": ""
+  },
+  {
+   "id": 20,
+   "en": "{07 1c 00}Mmmmph{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{02 04 00 54 00}\nWhat's wrong?\nGet to work!",
+   "et": ""
+  },
+  {
+   "id": 21,
+   "en": "{07 1c 00}Ooh hoo{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{02 04 00 56 00}\nWhat's wrong?\nGet to work!",
+   "et": ""
+  },
+  {
+   "id": 22,
+   "en": "{06 01 00 17 18 19}",
+   "et": ""
+  },
+  {
+   "id": 23,
+   "en": "{07 16 00}{01 00 00 0a 00}Hoo,{01 00 00 05 00} is that quite so{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.",
+   "et": ""
+  },
+  {
+   "id": 24,
+   "en": "{07 16 00}{01 00 00 0a 00}Ah. {01 00 00 05 00}I'm terribly sorry{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\nI fear I might've said a wee\nbit too much.",
+   "et": ""
+  },
+  {
+   "id": 25,
+   "en": "{07 03 00}{01 00 00 0a 00}Hoo hoo!{01 00 00 0f 00}{07 16 00}{01 00 00 0a 00} Is that so{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.",
+   "et": ""
+  },
+  {
+   "id": 26,
+   "en": "{07 00 00}Ah. {01 00 00 05 00}Yes.{01 00 00 05 00} Were you aware\nthat at this {ff 00 00 08}museum{ff 00 00 00}, we\nhave our own coffeehouse?{02 04 00 1b 16}\nI know!\nEnough already.",
+   "et": ""
+  },
+  {
+   "id": 27,
+   "en": "{07 00 00}We weren't always so lucky\nto have that shop here,{01 00 00 05 00} but\nI had a clear vision, wot!\n{01 00 00 05 00}I desired to get more\n{04 03 00} residents to\ncome to the {ff 00 00 08}museum{ff 00 00 00}...\nSo I called my good friend\n{ff 00 00 06}Brewster{ff 00 00 00}, and he moved with\nall speed!{01 00 00 05 00}\nYes, hoo! {01 00 00 05 00}He opened his\nshop right here in this\n{ff 00 00 08}museum{ff 00 00 00}, wouldn't you know!\n{07 14 00}{01 00 00 0a 00}And ever since, {01 00 00 05 00}even people\nwho never knew where the\n{ff 00 00 08}museum {ff 00 00 00}was came in force! \nIndeed, they became\nregulars, wot! {01 00 00 05 00}And now\nbusiness rather booms!\n{07 00 00}I must say, for me, the\nwhole experience has been \nmost uplifting{07 16 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{02 04 00 1c 16}\nWhat's wrong?\nEnough already!",
+   "et": ""
+  },
+  {
+   "id": 28,
+   "en": "{07 16 00}Well{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} Sadly, we've noticed\nan increasing number of...{01 00 00 05 00}\nundesirables as well.{01 00 00 05 00} Yes.\n{07 00 00}In fact, just the other day\nwe had a rather odd guest\ndarken our door.\n'Twas a Saturday, and yet\nthis fellow wore a very\nhot-looking business suit. \nYes. {01 00 00 05 00}Yes, he was rather\nrelentless with his queries,\nas well...\n{07 16 00}He even went so far as to\nask me some quite personal\nquestions, eh wot?\n{07 1c 00}If I'm to be honest,{01 00 00 05 00} I must\nadmit I tired of these\nquestions quickly.{01 00 00 05 00} Yes{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 00 00}In the end, the cheeky chap\nasked if I had insurance\nand if I wanted to sign up!\n{07 15 00}{01 00 00 0a 00}Why, {01 00 00 05 00}that tore it!{01 00 00 05 00} I lost my\ntemper and threw the lout\nout!{01 01 00} The nerve{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 16 00}This is a museum, I said!{01 00 00 05 00}\nWhy couldn't he glean that\nsimple fact {01 00 00 05 00}and be gone?!",
+   "et": ""
+  },
+  {
+   "id": 29,
+   "en": "{07 00 00}Yes.{01 00 00 05 00} Ah. Well. I believe I'd\nmentioned before that since\nopening the cafe...\nwe've seen an increase in\nthe number of rather odd\ncustomers at the {ff 00 00 08}museum{ff 00 00 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 1b 00}{01 00 00 0a 00}Yes, well, I believe we saw\none of the more extreme\ncases the other day.{02 04 00 1e 16}\nTell me more!\nEnough already!",
+   "et": ""
+  },
+  {
+   "id": 30,
+   "en": "{07 00 00}Yes. {01 00 00 05 00}Hoo.{01 00 00 05 00} Well.{01 00 00 05 00} At first\nglance,{01 00 00 05 00} he appeared to be a\ndriver or a pilot...\nAh, yes!{01 00 00 05 00} The fellow was with\na woman, as well, I recall.\n\n.{01 00 00 05 00}.{01 00 00 05 00}.{07 1b 00}{01 00 00 0a 00}Hoo, indeed, this fellow\nwas of a rather arrogant\nbent, eh wot?\nThe type that might enjoy\nfisticuffs with other men.{02 04 00 1f 16}\nHmm...\nEnough already!",
+   "et": ""
+  },
+  {
+   "id": 31,
+   "en": "{07 00 00}Yes.{01 00 00 05 00} Hm.{01 00 00 05 00} Well. {01 00 00 05 00}In any case,\nthat livery-looking fellow\nroamed around{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\nHe'd plant himself before\neach of the exhibits and\nstart ranting, wot?\n{07 16 00}Such madness this chap\nspewed! \"This painting be\no' the Chowder era.\" \n\"This be the ancestor o'\nthe modern-day shrimp.\"{01 00 00 05 00}\nFilthy lies, all of them{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 15 00}{01 00 00 0a 00}And in such a lowbrow\ndialect, as well! {01 00 00 05 00}Merely\nwatching him{01 00 00 05 00} pained me.\n{07 16 00}The truly sad part is, I\nsuspect the cretin actually\nbelieved he was right...{01 00 00 05 00}",
+   "et": ""
+  },
+  {
+   "id": 32,
+   "en": "{07 00 00}Hoo, mercy{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} Another odd\ncustomer paid us a visit\nthe other day{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{02 04 00 21 16}\nReally?\nEnough already!",
+   "et": ""
+  },
+  {
+   "id": 33,
+   "en": "{07 00 00}'Twas a lady, elegant and\nrefined.{01 00 00 05 00} Almost certainly\nhailing from the big city.\nYes.{01 00 00 05 00} Hoo.{01 00 00 05 00} Rather more\nrefined than anyone from\n{04 03 00},{01 00 00 05 00} I thought{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 04 00}{01 00 00 0f 00}Ah! Hoo!{01 01 00}\n{07 06 00}{01 00 00 0a 00}No,{01 00 00 05 00} no!{01 00 00 05 00} Forgive me, please!\n\nI would never insinuate that\nthe residents of this town\nare uncouth!{01 00 00 05 00} Not at all!\n{07 16 00}Yes.{01 00 00 05 00} Hoo.{01 00 00 05 00} I just meant that\nthis lady was refined like\naged Stilton, you see{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{02 04 00 22 16}\nI see...\nEnough already!",
+   "et": ""
+  },
+  {
+   "id": 34,
+   "en": "{07 15 00}What{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} What of it?!{01 00 00 0f 00}\nYour accusing eyes strike\nme to the very core!\n{07 16 00}I assure you{01 00 00 05 00}, I am NOT\nsmitten{01 00 00 05 00} with this lovely,\nbewitching older woman!\n{07 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.{07 04 00}{01 00 00 0a 00}Uh-hoo?!\n\n\n{07 06 00}{01 00 00 0a 00}I meant not one word!{01 00 00 05 00}\nYes! {01 00 00 05 00}You've tied my tongue!\nThis is all your fault!\n{07 00 00}Yes.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} Anyhoo, to have a\nwoman of such lofty, dare I\nsay angelic, calibre...\nTo have such a creature\nvisit our humble {ff 00 00 08}museum{ff 00 00 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n\n{07 0d 00}{01 00 00 0a 00}Well, hootie hoo, I say!{01 00 00 0f 00}\nAs curator of this {ff 00 00 08}museum{ff 00 00 00},\nI was ever so honored!",
+   "et": ""
+  },
+  {
+   "id": 35,
+   "en": "{07 00 00}Yes. {01 00 00 05 00}Hm. {01 00 00 05 00}Hoo.{01 00 00 05 00} Well.{01 00 00 05 00} Indeed.{01 00 00 05 00}\nWe had another unusual\nguest the other day{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{02 04 00 24 16}\nHow strange...\nEnough already!",
+   "et": ""
+  },
+  {
+   "id": 36,
+   "en": "{07 03 00}{01 00 00 0a 00}Actually, I'm getting rather\nused to this strange bunch\nat this point{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 16 00}Even so, it's safe to say{01 00 00 05 00}\nthat this last guest takes\nthe cake, eh wot?\nThis chap had his helmet\npulled down and his brow\nfurrowed in consternation.\n{07 00 00}Apropos of nothing, he\nall of a sudden declared{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 01 00}\n\"{ff 00 00 02}Don't get a big head!{ff 00 00 00}\"\nWell, suffice to say, I had{01 00 00 05 00}\nno idea what the bloke\nmeant, so{01 00 00 05 00} I merely stared.\nThe chap had not finished{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 01 00}\n\"{ff 00 00 02}There's but one reason you\nbecame curator,{ff 00 00 00}\" he said.{ff 00 00 02}\n{ff 00 00 00}\"{ff 00 00 02}You are curator because\nyour parents worked their\nwings to the bone!{ff 00 00 00}\"\n\"{ff 00 00 02}You know this! {01 00 00 05 00}And so you\nshould at least write your\nparents once a week!{ff 00 00 00}\"\n.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}Hoo! {01 00 00 05 00}The audacity of some\npeople! {01 00 00 05 00}Honestly! {01 00 00 05 00}It boggles\nthe mind!{02 04 00 25 16}\nDid you write?\nEnough already!",
+   "et": ""
+  },
+  {
+   "id": 37,
+   "en": "{07 16 00}{01 00 00 0a 00}Indeed, {01 00 00 05 00}I did write them.{01 01 00}\nI wrote them that very\nsame day, in fact.{01 00 00 05 00} Hoo!\n{07 0b 00}{01 00 00 0a 00}But the identity of that\nunknown nagger remains a\nmystery to me{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 00 00}Ah! {01 00 00 05 00}And,{01 00 00 05 00} on his way out, he\nput his thumb betwixt my\nshoulder blades and said:\n\"{ff 00 00 02}And always brush before\nyou go to bed!{ff 00 00 00}\"\n\nRather bizarre, eh wot?{01 01 00}\nWhat wonders this world\nproduces, hoo!",
+   "et": ""
+  },
+  {
+   "id": 38,
+   "en": "{07 00 00}Ah.{01 00 00 05 00} Hoo. {01 00 00 05 00}I was just thinking\nabout my hometown...\n\nNot that this old bird is\nhomesick, mind you...\n\n{07 09 00}{01 00 00 0f 00}But there are certain times{01 00 00 05 00}{07 00 00}\nwhen I yearn for the neon\nlights of the big city.{01 00 00 05 00}.{01 00 00 05 00}.{02 04 00 27 16}\nReally?\nEnough already!",
+   "et": ""
+  },
+  {
+   "id": 39,
+   "en": "{07 0b 00}{01 00 00 0a 00}Hoo?{01 00 00 0f 00} What times, {01 00 00 0f 00}you ask?{01 01 00}\n{07 00 00}Well, it all relates to my\nuniversity years, you see{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\nAt the behest of my\nprofessor, I often stayed\nlate in the laboratory...\nSo, rather than find a flat\nas I worked on my master's,\nI lived with my parents.\nThen I started working on\nmy doctorate, of course{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n{01 00 00 05 00}Yes, STARTED, hoo...{02 04 00 28 16}\nDidn't finish?\nEnough already!",
+   "et": ""
+  },
+  {
+   "id": 40,
+   "en": "No, not as such{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} You see,\none day, my professor\napproached me with an idea.\nHe spoke of plans in the\noffing to build a museum\nin this town.\nThey were having a most\ndifficult time filling the\ncurator position{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n'Twas my understanding that\nno one from the main\n{ff 00 00 02}Farway Museum{ff 00 00 00} would move...\nAnd sadly, they were unable\nto fill the position with\nlocal talent{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\nSo, they asked the person\nheading up the project to\nfind a good fit, wot!{01 00 00 05 00}\nAnd that good fit was none\nother than yours truly!{01 00 00 05 00}\nAnd so it went,{01 00 00 05 00} hoo!{02 04 00 29 16}\nSo that means...\nEnough already!",
+   "et": ""
+  },
+  {
+   "id": 41,
+   "en": "{07 14 00}{01 00 00 0a 00}Yes.{01 00 00 05 00} Well, the timing{01 00 00 05 00} was\nperfect{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} I'd just received\nmy{01 00 00 05 00} curator's license,\n{07 00 00}and before I knew it,{01 00 00 05 00} I was\nthe newest resident of\ndear old {04 03 00}!\nAnd the rest, as they say,\nis history,{01 00 00 05 00} wot wot!\n\nDon't misunderstand,{01 00 00 05 00} it's\nnot as though I regret\nmoving here! {01 00 00 05 00}Not one jot!\n{07 09 00}{01 00 00 0a 00}It's just that{01 00 00 05 00} I can't help\nbut get a wee bit{07 16 00}\nnostalgic at times!",
+   "et": ""
+  },
+  {
+   "id": 42,
+   "en": "{07 00 00}Ah. {01 00 00 05 00}Yes.{01 00 00 05 00} Hoo. {01 00 00 05 00}I was.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}merely\nreminiscing again...{02 04 00 2b 16}\nTell me!\nEnough already!",
+   "et": ""
+  },
+  {
+   "id": 43,
+   "en": "I suppose I was still at\nuniversity then. {01 00 00 05 00}Indeed,{01 00 00 05 00}\nI was on summer holiday.\nYes.{01 00 00 05 00} Hoo. {01 00 00 05 00}As I recall, I was\nabout to start{01 00 00 05 00} my new\npart-time job.\nYou see, there was a bit of\na mold problem with the\nlibrary's books, wot.\nSo, it was my duty to lay\nthem out on the windowsill\nto dry in the sunlight.\n{07 16 00}{01 00 00 0a 00}Hoo! {01 00 00 05 00}The horror of it all{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n'Twas on that job that I\nmade a grievous error...{02 04 00 2c 16}\nWhat'd you do?\nEnough already!",
+   "et": ""
+  },
+  {
+   "id": 44,
+   "en": "{07 00 00}Hoo.{01 00 00 05 00} Very well. {01 00 00 05 00}There are\nvarious specialized books in\nthe university library...\n...not to mention the\nreference books that rarely\nget read,{01 00 00 05 00} eh wot?\n{07 16 00}{01 00 00 0a 00}These books tend to get \neaten by book lice and\nthe like, you see{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 00 00}Now, bear in mind, I loathe\ninsects. I was holding a\nbook by a page's corner,\nbut the weight of the\ntome proved too portly\nfor the poor page...\n{07 02 00}{01 00 00 0a 00}{ff 00 00 02}RRRRRRRRRRIIIIIIIP{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{ff 00 00 00}\n{07 0f 00}{01 00 00 0a 00}I looked up, aghast, and the\nlibrarians' eyes were on me!\n{07 00 00}Such shame...{01 00 00 05 00} Such shame...{01 00 00 05 00}\nI must say, I rather think\nthe episode served to...\n{07 16 00}{01 00 00 0a 00}Well, I believe it\nexacerbated my fear of \ncreepy-crawlies.{01 00 00 05 00} Hoo{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.",
+   "et": ""
+  },
+  {
+   "id": 45,
+   "en": "{07 00 00}Hoo. {01 00 00 05 00}To be quite honest{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\nI was just mulling a bitter\nrecollection from my past...{02 04 00 2e 16}\nTell me!\nI don't care.",
+   "et": ""
+  },
+  {
+   "id": 46,
+   "en": "Hoo. {01 00 00 05 00}Yes. {01 00 00 05 00}Ah. {01 00 00 05 00}Indeed. {01 00 00 05 00}Well.{01 00 00 05 00}\nIt happened back when I \nwas still at university{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\nMy professor asked me to \ndo a spot of work for him.\n\nHe wished me to proctor\nthe college entrance\nexamination,{01 00 00 05 00} eh wot?\nYes, in any case, it was my\njob to hand out the test\nforms...\nAnd to foil cheaters, of\ncourse.{01 00 00 05 00} A crucial job, to\nbe sure, but quite easy.\n{07 16 00}{01 00 00 0a 00}Or so I thought until,{01 00 00 05 00}\nduring the examination,{01 00 00 05 00}\nsomething awful happened{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{02 04 00 2f 16}\nWhat?!\nEnough already!",
+   "et": ""
+  },
+  {
+   "id": 47,
+   "en": "{07 00 00}Hoo. {01 00 00 05 00}Yes.{01 00 00 05 00} The exam had\nbegun, and all the students\nwere working away...\nBut the room began to get\nrather warm and stuffy,\ndon't you know, so...\nThinking it a capital idea\nto let some air in, I\nopened a window a tad.\n{07 16 00}{01 00 00 0a 00}Hoo, what a tragic error!{01 00 00 05 00}\nA single fly flew into the \nexam room{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} Vile thing.\nUgh. {01 00 00 05 00}I couldn't peel my eyes\noff the wretched creature\nas it flew around the room!\nThat suffocating room...{01 01 00}\nI stood, nearly molting,\ngrinding my beak{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 00 00}After an eternity, the bell\nrang, as scheduled, and the\nexam was over...\n{07 16 00}{01 00 00 0a 00}But the constant beak\ngrinding had given me a\ncramp in my face muscles{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{02 04 00 30 16}\nLong story!!!\nEnough already!",
+   "et": ""
+  },
+  {
+   "id": 48,
+   "en": "{07 06 00}{01 00 00 0a 00}Hoo my!{01 00 00 0f 00} My apologies!{01 01 00}\nI shan't bore you with my\nstories any longer{07 16 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\nI don't know what's gotten \ninto me...\n\nI don't think of myself as\nbeing prone to bouts of\nhomesickness{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.",
+   "et": ""
+  },
+  {
+   "id": 49,
+   "en": "{07 00 00}I can't fathom why I'm\ntelling you this but{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n\nI really envy your youth,\n{04 00 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} Yes. Hoo.{02 04 00 32 16}\nWhat's wrong?!\nEnough already.",
+   "et": ""
+  },
+  {
+   "id": 50,
+   "en": "{07 14 00}{01 00 00 0a 00}Well, when I was a nestling\nyouth,{01 00 00 05 00} it was my dream to\nbecome an archaeologist{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 00 00}I wished to travel the world\nin search of fossils that\nno one had ever glimpsed{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\nHoo! {01 00 00 05 00}Especially dinosaur\nfossils. {01 00 00 05 00}To me, they were\nthe ultimate find{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 04 00}{01 00 00 0a 00}What's that?{01 00 00 05 00}{01 01 00} {07 0b 00}{01 00 00 0a 00}I should be\ncontent looking at fossils\nhere, you say?\n{07 17 00}{01 00 00 0a 00}Ah. {01 00 00 05 00}Hoo.{01 00 00 05 00} Well, {01 00 00 05 00}{04 00 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\nYou see, to a true fossil\nconnoisseur,\n{07 14 00}{01 00 00 0a 00}the joy of fossil hunting{01 00 00 05 00}\nlies more in the search\nthan in the find, eh wot?{02 04 00 33 16}\nWell, good luck!\nEnough already!",
+   "et": ""
+  },
+  {
+   "id": 51,
+   "en": "{07 15 00}{01 00 00 0a 00}Hmmph!{01 01 00} .{01 00 00 05 00}.{01 00 00 05 00}.{07 14 00}{01 00 00 0a 00}Hoo, I say! Indeed,\nhootie hoo, {04 00 00}!\n\nI daresay I should take\nyour comment just now...{01 01 00}\n{07 11 00}{01 00 00 0a 00}as a challenge, wot?\n{07 14 00}{01 00 00 0a 00}Yes. {01 00 00 05 00}Hoo.{01 00 00 05 00} Indeed{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n\n\n{07 0c 00}{01 00 00 0a 00}Done! {01 00 00 05 00}Without further delay,{01 01 00}\n{07 14 00}{01 00 00 0a 00}starting today,{01 00 00 05 00} and every\nday forthwith...\nI shall find the time to do \nsome fieldwork of my own!{01 00 00 05 00}\nSound the trumpets, hoo!\nYou shall just have to wait\nand see what I can find,\n{04 00 00}!",
+   "et": ""
+  },
+  {
+   "id": 52,
+   "en": "{07 00 00}Remind me, {01 00 00 05 00}{04 00 00}...\nThe other day, did I...\n\nDid I declare to you that\nI would find time in my \nschedule...\nto start my fossil-finding\nfieldwork again, with much\nbluster and fanfare?{02 04 00 35 16}\nYes, you did.\nEnough already!",
+   "et": ""
+  },
+  {
+   "id": 53,
+   "en": "Such grandiose avowals...{01 00 00 05 00}\nHoo! {01 00 00 05 00}What came over me?{01 00 00 05 00}\nThis birdbrain is addled...\n{07 16 00}{01 00 00 0a 00}When I actually got out\nthere and began digging{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n\nI remembered how heavy a \nshovel is!{01 00 00 05 00} Hoo, yes!{01 00 00 05 00} Digging\nis quite exhausting{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 0f 00}{01 00 00 0a 00}'Twas a sad reminder that\nI am simply not made for\nmanual labor...\nHoo.{01 00 00 05 00} Yes. {01 00 00 05 00}Indeed. {01 00 00 05 00}I shall\nnever forget that bit of\npersonal insight again{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}",
+   "et": ""
+  },
+  {
+   "id": 54,
+   "en": "{07 00 00}Hoo. {01 00 00 05 00}Well.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}it's my fossil\nhunting, actually.\n\n{07 16 00}{01 00 00 0a 00}Every day I'm out there,\nI'm savaged by how hard\nthe physical trials are{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{02 04 00 37 16}\nWhat's hard?\nEnough already!",
+   "et": ""
+  },
+  {
+   "id": 55,
+   "en": "Well, take this scenario\nas a for-instance{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n\nYou know when you really\nget in there with your\nshovel, wot wot?\nAnd then you spot it!{01 00 00 05 00} There\nin the wet dirt!{01 00 00 05 00} A vile\nworm!{07 07 00}{01 00 00 0f 00} I can't stand those.{01 00 00 05 00}.{01 00 00 05 00}.{02 04 00 38 16}\nWimp!\nEnough already!",
+   "et": ""
+  },
+  {
+   "id": 56,
+   "en": "{07 01 00}{01 00 00 0a 00}Hoo?{01 00 00 05 00} I.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}beg your pardon?{07 05 00}{01 00 00 0f 00}\nWhy, just think about it!{01 00 00 05 00}\nThe horror! {01 00 00 05 00}The repugnance!\n{07 16 00}That wriggly menace pokes\nits skinny, repellant head\nout of the dirt...\nIt writhes about like the\nvery incarnation of all\nthat is odious in the world!\n{07 07 00}{01 00 00 0a 00}Just thinking about it{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 01 00}\nmakes my feathers crawl!\n\n{07 16 00}{01 00 00 0a 00}Ah. {01 00 00 05 00}Yes.{01 00 00 05 00} Hoo.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} Well,{01 00 00 05 00} of\ncourse, I am well aware of\nthe fact that...\nyou must dig rather a bit\ndeeper in order to find a\nfossil, but{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.",
+   "et": ""
+  },
+  {
+   "id": 57,
+   "en": "{07 00 00}Well{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} The other night I\nwent a touch overboard with\nmy fossil hunting...\nIt reminded me of the fact\nthat fieldwork is a real\nchallenge, eh wot?\nI'm rather not sure{01 00 00 05 00} I'm up\nto it anymore, I must say.{02 04 00 3a 16}\nDon't push it!\nEnough already!",
+   "et": ""
+  },
+  {
+   "id": 58,
+   "en": "{07 16 00}I should be able to take\nit.{01 00 00 0a 00} It may shock you,{01 00 00 05 00} but\nI'm still in my twenties{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 00 00}Well, {01 00 00 05 00}it's beside the point.\n{07 14 00}{01 00 00 0a 00}Something rather uplifting\noccurred the other day.\nAs per my usual schedule, I\ntook a break during a lapse\nin my day at the {ff 00 00 08}museum{ff 00 00 00}.\n{07 00 00}I grabbed my shovel, sallied\nforth, and began digging in\nodd-looking soil patches.\nI dug like a veritable mole,\nwot!{01 00 00 05 00} Until suddenly, the tip\nof my shovel clanged!\nIndeed, I had hit something\nthat felt very, very hard.\n\n{07 14 00}{01 00 00 0a 00}I was so invigorated{01 00 00 05 00} at the\nthought of finding a fossil\nthat I leapt for joy!\n{07 16 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}But{01 00 00 05 00} my vigor was soon\ndampened. {01 00 00 05 00}Hoo.{01 00 00 05 00} As I began\npushing the dirt aside... \nI found something that both\nlooked just like a fossil...{01 00 00 05 00}\nand NOTHING like one!{02 04 00 3b 16}\nWhat was it?\nEnough already!",
+   "et": ""
+  },
+  {
+   "id": 59,
+   "en": "{07 00 00}'Twas a round, plastic,\nmanufactured doodad{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\nIt appeared to be a ball.\nI turned it to and fro, and\nas I examined it...\n\n{07 04 00}{01 00 00 0a 00}...that plastic ball suddenly\ncracked open!{07 00 00} {01 00 00 05 00}Hoo! {01 00 00 05 00}My heart\nnearly burst asunder!\nAfter my shock abated, I\nnoticed a pair of letters\nin the plastic cocoon{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\nAh-hoo! {01 00 00 0f 00}The thing I had\npulled from the earth was\na sort of {ff 00 00 02}time capsule{ff 00 00 00}.{01 00 00 05 00}\nAnd{01 01 00} though my conscience\nverily shrieked at me...\n\nI{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.went ahead and read both\nletters {01 00 00 05 00}with all speed and\nfurtive pleasure!{02 04 00 3c 16}\nShame on you!\nEnough already!",
+   "et": ""
+  },
+  {
+   "id": 60,
+   "en": "Yes. {01 00 00 05 00}Hoo.{01 00 00 05 00} Well.{01 00 00 05 00} I'm awash in\nshame, I quite assure you{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 01 00}\nRegardless, one letter said:\n\"{ff 00 00 02}I want to own a shop so\nbig that I can stock\nanything I want!{ff 00 00 00}\"\nThe penmanship was squiggly\nand childlike, like worms on\nthe paper. {01 00 00 05 00}Ugh.\nThe other letter was neat{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\nthough still rather childlike\nsomehow...{01 00 00 05 00} It said:\n\"{ff 00 00 02}Even if it's small, I want\nto own a pretty shop.{ff 00 00 00}\"\n\n.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}Yes.{01 00 00 05 00} That was it, then.\nTwo simple, yet heartfelt\nletters,{01 00 00 05 00} eh wot!\n{07 14 00}{01 00 00 0a 00}I say, my heart gooified!{01 00 00 05 00}\nSuch a warm, fuzzy glow\nwelled up within me...\nSmiling at the innocent\nbeauty of youth, I put each\nletter back in the capsule.\nAnd then, with a private\nsmile, {01 00 00 05 00}I put it back in the\nground.{01 00 00 05 00} Quite uplifting, no?",
+   "et": ""
+  },
+  {
+   "id": 61,
+   "en": "{07 00 00}Between you and me,{01 00 00 05 00} I quite\ndetest them. {01 00 00 05 00}All of them!\n{01 00 00 05 00}The bugs, I mean{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{02 04 00 3e 16}\nConquer fear!\nEnough already!",
+   "et": ""
+  },
+  {
+   "id": 62,
+   "en": "{07 06 00}{01 00 00 0a 00}Well.{01 00 00 05 00} Hm.{01 00 00 05 00} Hoo. {01 00 00 05 00}Indeed. {01 00 00 05 00}Easier\nsaid than done, of course.{01 00 00 05 00}\nFear is rather robust{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\nEveryone has strengths and\nweaknesses, eh wot?\n\n.{01 00 00 05 00}.{01 00 00 05 00}.{07 14 00}{01 00 00 0a 00}But{01 00 00 0f 00} I do suppose you\nhave a point, after all.{01 00 00 05 00}\nI'm making excuses.\nAfter all, I am the curator\nof the {04 03 00} {ff 00 00 08}museum{ff 00 00 00}!{01 00 00 05 00}\nA noble office!\nSuch dread is irrational!{01 00 00 05 00}\nIt's unprofessional!{01 00 00 05 00} Who\nfears bugs, really?\n{07 00 00}Well, to begin, I shall talk \nto my sister, {ff 00 00 06}Celeste{ff 00 00 00},\nabout this matter, wot?\nOddly enough, she is rather\ncomfortable touching them.{01 00 00 05 00}\nBugs, I mean{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\nI've seen her gazing at\nbutterflies before,{01 00 00 05 00}\ncompletely relaxed.{02 04 00 3f 16}\nThey're cute!\nEnough already!",
+   "et": ""
+  },
+  {
+   "id": 63,
+   "en": "{07 1b 00}{01 00 00 0a 00}They are most assuredly\nNOT cute!!!{01 00 00 0a 00} Have you gone\nquite mad?!\n{07 00 00}Be truthful: {01 00 00 05 00}have you ever\nlooked really closely at a\nbutterfly's belly?\n{07 16 00}{01 00 00 0a 00}It appears quite squishy!{01 00 00 05 00}\nIt looks like it's waiting{01 00 00 05 00}\nto spew something on you!{01 00 00 05 00}\n{07 07 00}{01 00 00 0a 00}Ugh!{01 00 00 05 00} Vile{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.",
+   "et": ""
+  },
+  {
+   "id": 64,
+   "en": "{07 00 00}You recall that I declared{01 00 00 05 00}\nI'd work on conquering my\nfear of bugs, eh wot?\nYes. {01 00 00 05 00}Well, I've been doing\nmy own special training!{02 04 00 41 16}\nTraining?\nEnough already!",
+   "et": ""
+  },
+  {
+   "id": 65,
+   "en": "The means to which I have\nresorted are quite extreme,\nreally{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 16 00}{01 00 00 0a 00}Hoo. {01 00 00 05 00}Yes. {01 00 00 05 00}Indeed.{01 00 00 05 00} Just\nthinking about it makes my\nbelly burble, but...\n{07 00 00}I lay my Giant Dictionary \nof Insects before me, fight\nmy gag reflex, and{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n...slowly run my talon over\neach of the foul images!\n\n{07 07 00}{01 00 00 0a 00}Ugh{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} The thought alone of\nthose furtive caresses\nmakes my gorge rise!\n{07 06 00}{01 00 00 0a 00}The other day, I opened the\nbook to a close-up of a\ngreen caterpillar's face...\nI believe I may have\npocket-retched a bit{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 01 00}\n{07 07 00}{01 00 00 0a 00}Ugh.{01 00 00 05 00} So very vile{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.",
+   "et": ""
+  },
+  {
+   "id": 66,
+   "en": "{07 00 00}Yes. {01 00 00 05 00}Hoo. {01 00 00 05 00}About the training\nI'm doing to get over my\nfear of insects{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\nSadly, it's not working.{01 00 00 05 00}\nYesterday, I reclined on the\nfloor with my bug book...\nThe next thing I knew, my\nsister was waking me up!{01 00 00 05 00}\nYes. {01 00 00 05 00}Hoo.{01 00 00 05 00} I'd fainted{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{02 04 00 43 16}\nPitiful.\nStop it!",
+   "et": ""
+  },
+  {
+   "id": 67,
+   "en": "{07 1b 00}{01 00 00 0a 00}Yes{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}quite pitiful, indeed.{01 00 00 05 00}\nTo try so hard and still\nfail to overcome my fear!\n{07 00 00}Rather humiliating, really.{01 00 00 05 00}\nIt reminds me of{01 00 00 05 00} that night\na few summers ago{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n'Twas a moth, I believe, but\na leviathan one about the\nsize of your hand...\n{07 02 00}{01 00 00 0a 00}This netherworld beast\nstormed into the museum\n{07 16 00}in the dead of night!\nThe flitting sound of its\nmonstrous wings{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} Ugh. {01 00 00 05 00}The\nvery thought sickens me.\n{07 00 00}I'm none too proud of it,\nbut I fled to {ff 00 00 06}Brewster{ff 00 00 00}'s\nand sipped coffee...\nYes. {01 00 00 05 00}Indeed. {01 00 00 05 00}I sipped coffee\nuntil I was sure that\nflittering brute was gone{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 0f 00}{01 00 00 0f 00}I stayed until morning!{01 00 00 05 00}\n{07 1b 00}{01 00 00 0a 00}Rather an eye-opening\nexperience, eh wot!",
+   "et": ""
+  },
+  {
+   "id": 68,
+   "en": "{07 00 00}It's been some time since I\nbegan trying to conquer\nmy fear of insects...\nIndeed, TOO long! {01 00 00 05 00}I must\nsay, the lack of results{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0f 00}\nhas left me rather blue.{02 04 00 45 16}\nReally?\nEnough already!",
+   "et": ""
+  },
+  {
+   "id": 69,
+   "en": "{07 15 00}{01 00 00 0a 00}No trifling matter, this!{01 00 00 05 00}\nI'll have you know, I have\nan important goal in mind!\n{07 14 00}{01 00 00 0a 00}I'd very much like to take\nCeleste camping in the\nsummertime, you see{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 00 00}Youths her age still tend\nto enjoy such activities,\ndo they not?\nYes. {01 00 00 05 00}Well. {01 00 00 05 00}In any case{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 01 00}\n{07 14 00}{01 00 00 0a 00}I believe a night of\ncamping is just the thing!\nI should think she'd rather\nenjoy that, wouldn't you\nsay so?{02 04 00 46 16}\nDefinitely!\nEnough already!",
+   "et": ""
+  },
+  {
+   "id": 70,
+   "en": "{07 17 00}{01 00 00 0a 00}To be forthright, I owe her\nan enjoyable time. {01 00 00 05 00}I've been\na substandard brother{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 16 00}{01 00 00 0a 00}We go to the beach, I see a\nsea louse, and soon I'm\ncovered in nerve-hives{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\nWe go hiking, I glimpse a\ncommon butterfly and need\na week of therapy{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{07 0f 00}{01 00 00 0a 00}When I think of the\nscenes I've made, I'm simply\nhorrified for Celeste!",
+   "et": ""
+  },
+  {
+   "id": 71,
+   "en": "{07 00 00}Hoo. {01 00 00 05 00}Yes. {01 00 00 05 00}Well, I don't know\nquite how to put this, but\nmy bug-fear training...{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\nWell, I'm calling it quits on\nthe entire regimen.{02 04 00 48 16}\nWhy?\nEnough already!",
+   "et": ""
+  },
+  {
+   "id": 72,
+   "en": "I shall tell you. {01 00 00 05 00}Last night,\nI was gingerly perusing\nmy bug dictionary... \n{07 0f 00}{01 00 00 0f 00}I imagine this will come as\nno surprise, but some vile\nimage caused me to swoon...\n{07 00 00}When I came to, there was \nCeleste caring for me.{01 00 00 05 00}\nShe said this to me:\n\"{ff 00 00 02}Big brother, {01 00 00 05 00}I have had\nquite enough.{01 00 00 05 00} This madness\nmust end this minute!{ff 00 00 00}\"\n\"{ff 00 00 02}Why, everyone has certain\nfears, certain things that\none cannot abide.{ff 00 00 00}\"\n\"{ff 00 00 02}You detest bugs, Brother!{01 00 00 05 00}\nAnd that is what makes you\nyou!{01 00 00 05 00} Got it?{ff 00 00 00}\"\n.{01 00 00 05 00}.{01 00 00 05 00}.{07 08 00}{01 00 00 0a 00}I daresay{01 00 00 05 00} they were the\nnicest words I'd ever heard.{01 00 00 05 00}\nHoo! {01 00 00 05 00}Indeed, hootie hoo!{02 04 00 49 16}\nHow nice!\nEnough already!",
+   "et": ""
+  },
+  {
+   "id": 73,
+   "en": "{07 16 00}{01 00 00 0a 00}It saddens me that I lack\nenough leisure time to\ndedicate to her, but...\n{07 00 00}Even without brotherly\nguidance, Celeste has grown\ninto a fine young lady{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 14 00}{01 00 00 0a 00}The pride I feel for my\nlittle sister{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} Well, it\ncannot be quantified, wot!\nYou could scour the essays\nand dissertations of the\nworld's academics,\n{07 03 00}{01 00 00 0a 00}and I'm quite certain\nyou'd fail to find evidence\nof a superior sibling! ",
+   "et": ""
+  },
+  {
+   "id": 74,
+   "en": "{07 00 00}I should say, dear {ff 00 00 06}Brewster{ff 00 00 00}\nhas provided me much\namusement over the years...{01 00 00 05 00}\nIt's not that the fellow\nis naive, per se, it's just{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n{07 16 00}Well{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} How to put this?{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\nThat wonderful pigeon is\njust rather simple.{02 04 00 4b 16}\nReally?\nEnough already!",
+   "et": ""
+  },
+  {
+   "id": 75,
+   "en": "{07 19 00}Indeed, he is, though I don't\nmean to say he's daft{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n{07 00 00}He's just{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}innocent.\n{07 15 00}For instance, the other day,\na sleazy business-type\noozed into the cafe...\n{07 06 00}This wretch was trying to\nsell {ff 00 00 06}Brewster {ff 00 00 00}a counterfeit\npiece of art!{01 00 00 05 00} Hoo-rrific!\n{07 11 00}\"{ff 00 00 02}Real coffee.{01 00 00 05 00} Real art.{01 00 00 05 00}\nReal profits. {01 00 00 05 00}You'd be CRAZY\nto pass up this deal!{ff 00 00 00}\"\n.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 00 00}Now, of course, most folk\nwould see right through\nsuch a charlatan...\nNot our pigeon, however.{01 00 00 05 00}\nThank goodness I showed up\nwhen I did, eh wot!\n{07 19 00}Indeed, \"FAKE!\" I cried,\nand the cad fled from my\npique-ruffled feathers!",
+   "et": ""
+  },
+  {
+   "id": 76,
+   "en": "{07 16 00}{01 00 00 0a 00}No,{01 00 00 05 00} no, pay me no mind.{01 00 00 05 00}\nI believe I'm just a touch\non the drowzy side{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\nIf you think about it, I\nkeep this place open day\nand night, 24 hours{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\nIt's no lovely park stroll!{01 00 00 05 00}\nRather a ferocious work\nschedule, eh wot?{02 04 00 4d 16}\nIncredible!\nEnough already!",
+   "et": ""
+  },
+  {
+   "id": 77,
+   "en": "{07 00 00}But, then, it is my duty, so\nI try not to admit fatigue\nor clamor for vacation.\nAnd{01 00 00 05 00} if you care to know a\nbit of a naughty secret,\nwhen the {ff 00 00 08}museum{ff 00 00 00} is empty...\n{07 14 00}{01 00 00 0a 00}I go downstairs for a cup\nof coffee and a wee break,{01 00 00 05 00}\nhoo!{01 00 00 05 00} Oh, such naughtiness!\n{07 06 00}{01 00 00 0a 00}Ah. {01 00 00 05 00}Yes.{01 00 00 05 00} Hoo.{01 00 00 05 00} Indeed.{01 00 00 05 00}\nDelectable{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n\nAll this talking has got me \nthinking about how{01 00 00 05 00} simply\nglorious a cup would taste!\n{07 00 00}That bitter aroma that hits\nyou as soon as you set\nfoot in the shop{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 13 00}{01 00 00 0a 00}Hoo!{01 00 00 05 00} Indeed, hootie hoo!{01 00 00 0f 00}\n{07 14 00}{01 00 00 0a 00}A cup of java would truly \nhit the spot, wot wot!",
+   "et": ""
+  },
+  {
+   "id": 78,
+   "en": "{07 00 00}Well,{01 00 00 05 00} I've been dealing with\na rather nasty bit of\ninsomnia lately{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\nCould I perhaps have been\ndrinking too much coffee?{02 04 00 4f 16}\nProbably...\nEnough already!",
+   "et": ""
+  },
+  {
+   "id": 79,
+   "en": "{07 00 00}Hoo. {01 00 00 05 00}Yes.{01 00 00 05 00} You have a point.{01 00 00 05 00}\nIn coffee, there is a\nsubstance called caffeine...\nAnd in caffeine, there are\nstimulants which awaken\nyour senses, wot wot!\n{07 14 00}{01 00 00 0a 00}That said, {01 00 00 05 00}my usual is a\nheady blend which includes\n{ff 00 00 06}Brewster{ff 00 00 00}'s special...\n.{01 00 00 05 00}.{01 00 00 05 00}.{07 0c 00}{01 00 00 0a 00}\"{ff 00 00 02}Pigeon Milk{ff 00 00 00}\"!{07 00 00}\n\n\nJust brilliant stuff, that!{01 00 00 05 00}\nIt counteracts stimulants{01 00 00 05 00}\nand actually relaxes, {01 00 00 05 00}wot!\n{07 19 00}{01 00 00 0a 00}Yes. {01 00 00 05 00}Indeed. {01 00 00 05 00}Hoo. {01 00 00 05 00}Ultimately,\nthe subtle{01 00 00 05 00} yin and yang of\nthe two give me balance!\n{07 00 00}Hoo?{01 00 00 05 00} I beg your pardon?{01 01 00}\nYou think that means{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n\nThey cancel each other out?{01 00 00 05 00}\nSo it wouldn't matter if I\ndrank it or not?\nHoo. {01 00 00 05 00}Yes. {01 00 00 05 00}Ah.{01 00 00 05 00} Hm.{01 00 00 05 00} Indeed.{01 01 00}\n{07 0b 00}Why on earth AM I drinking\nthat stuff, anyway?",
+   "et": ""
+  },
+  {
+   "id": 80,
+   "en": "{07 00 00}Actually, {01 00 00 05 00}I was just thinking\nabout the very day that\n{ff 00 00 06}Brewster{ff 00 00 00} and I met{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{02 04 00 51 16}\nTell me!\nEnough already!",
+   "et": ""
+  },
+  {
+   "id": 81,
+   "en": "Well, {ff 00 00 06}Brewster{ff 00 00 00} and I met{01 00 00 05 00} in\na town far from here{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}in\nmy hometown, in fact{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n'Twas on the outskirts of \ndowntown, in the shadows of\nits towering skyscrapers{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\nHe owned and operated a\ncafe, much like the one in \nthis {ff 00 00 08}museum{ff 00 00 00}, {01 00 00 05 00}wot wot!{02 04 00 52 16}\nTell me more!\nEnough already!",
+   "et": ""
+  },
+  {
+   "id": 82,
+   "en": "{07 14 00}{01 00 00 0a 00}Crave the details, do you?{01 00 00 05 00}\nPerhaps I should tell you\nwhat brought us together{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 00 00}I was still very young at\nthe time, just a spring owl\nattending university.\nI was working toward a\ndeadline on my thesis and \nhaving a rough time of it.\nI went all over town, from\ncafe to cafe,{01 00 00 05 00} writing in an\nabsolute furor, but...{01 00 00 05 00}\nI still couldn't complete it.{01 00 00 05 00}\nWith each passing day,{01 00 00 05 00} I\nbecame more frustrated.\n{07 14 00}{01 00 00 0a 00}And then, as I descended\ninto madness{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}the owner of\na cafe said to me...{02 04 00 53 16}\nWhat? WHAT?!\nEnough already!",
+   "et": ""
+  },
+  {
+   "id": 83,
+   "en": "{07 00 00}\"{ff 00 00 02}There's nothing more\nbitter or tragic than{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\na rushed cup of coffee.{ff 00 00 00}\"\nJust a simple comment,\nreally.{01 00 00 05 00} But it struck me to\nthe very core, wot!\n{07 14 00}{01 00 00 0a 00}It cut through the pall\nof anger and opened my\neyes to what I was doing.\n{07 15 00}{01 00 00 0a 00}Making coffee is more than\njust pouring hot water over\ngrounds, you see.{01 00 00 05 00}\nIt's about taking one's time\nto coax the flavor from\nthe savory beans{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 0c 00}{01 00 00 0a 00}A thesis is the same way.{01 00 00 05 00}\n{07 14 00}He taught me that my brain\nwas like his coffee beans!\nYes. {01 00 00 05 00}Hoo. {01 00 00 05 00}You've guessed it.{01 00 00 0f 00}\nThat barista was none other\nthan{01 00 00 05 00} {ff 00 00 06}Brewster{ff 00 00 00} himself, {01 00 00 05 00}wot!\nAnd that is how{01 00 00 0f 00} our long\nand deep-rooted friendship\nbegan!{01 00 00 05 00} Hootie hoo!",
+   "et": ""
+  },
+  {
+   "id": 84,
+   "en": "{07 00 00}Well{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} To be quite honest,\nI was just revisiting my \npast a bit...{02 04 00 55 16}\nWhat part?\nEnough already!",
+   "et": ""
+  },
+  {
+   "id": 85,
+   "en": "{07 00 00}Yes.{01 00 00 05 00} Hoo. {01 00 00 05 00}I was thinking\nabout {ff 00 00 06}Brewster{ff 00 00 00}, who owns\nthe cafe downstairs.\n{07 0e 00}{01 00 00 0a 00}Well, when he lived in my\nhometown, {01 00 00 05 00}he had a bit of\na rough life, you see{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\nCompared to this town, it\nwas a gargantuan city, and\nyou know big-city life...\n{07 16 00}{01 00 00 0a 00}Land was savagely expensive,\nand taxes astronomical...\n\n...and dear {ff 00 00 06}Brewster{ff 00 00 00} was\nhaving a hard time making\nends meet at the shop!",
+   "et": ""
+  },
+  {
+   "id": 86,
+   "en": "{07 00 00}Well{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} I was just mulling\nover how {ff 00 00 06}Brewster{ff 00 00 00} used to\nbe, {01 00 00 05 00}once upon a time.\nIt's in the past, so I think\nit's fine for me to share\nthat he had it rough.{02 04 00 57 16}\nReally?\nEnough already!",
+   "et": ""
+  },
+  {
+   "id": 87,
+   "en": "{07 00 00}Like {ff 00 00 06}Brewster{ff 00 00 00} himself, his\nshops have always been\nsolely about the coffee{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 16 00}{01 00 00 0a 00}But traditional coffee\ncafes {01 00 00 05 00}don't draw customers\nlike they once did{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\nAnd those in the city{01 00 00 05 00} that\ntry to attract hipsters\nhave it even harder, wot!\n{07 00 00}Because he was having a\nhard time filling the seats,\nhe was financially pressed.\n{07 16 00}{01 00 00 0a 00}At the time, he even\nconsidered closing up shop\nand turning in his apron{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{02 04 00 58 16}\nPoor thing.\nEnough already!",
+   "et": ""
+  },
+  {
+   "id": 88,
+   "en": "{07 00 00}Poor thing, indeed! {01 00 00 05 00}Hoo!{01 00 00 05 00}\nWhen I got wind of dear\n{ff 00 00 06}Brewster{ff 00 00 00}'s predicament...\nWhy, I knew I had to do\nsomething!{01 00 00 05 00} I promptly\ndashed off a letter...\nI offered him one of the\n{ff 00 00 08}museum{ff 00 00 00}'s rooms, free of\ncharge, of course...\nBut only if he agreed to\nmove to {04 03 00}, start\na new shop and a new life!{02 04 00 59 16}\nHe agreed?\nEnough already!",
+   "et": ""
+  },
+  {
+   "id": 89,
+   "en": ".{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}Indeed! {01 00 00 05 00}You can see what\nhe thought of the idea!{01 01 00}\n{07 03 00}{01 00 00 0a 00}And business is booming!{01 00 00 0a 00}\n{07 14 00}{01 00 00 0a 00}Oh, you can't swing a net in\nthe city without hitting a\ncoffee shop nowadays...\n...but in {04 03 00}, it's\nstill a bit of a rare treat,\neh wot? {01 00 00 05 00}I should say so!\n{07 00 00}That pigeon loves coffee\nmore than life itself, and\nhe shares that love!{01 00 00 05 00}\nIndeed, {ff 00 00 06}Brewster{ff 00 00 00} is what I\nwould call{07 14 00}{01 00 00 0a 00} a luminary of\nluscious lattes, wot!",
+   "et": ""
+  }
+ ]
+}

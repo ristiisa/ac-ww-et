@@ -1,0 +1,755 @@
+{
+ "file": "script/ENG/string/st_npc_name.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "Cyrano",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "Antonio",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "Pango",
+   "et": ""
+  },
+  {
+   "id": 3,
+   "en": "Anabelle",
+   "et": ""
+  },
+  {
+   "id": 4,
+   "en": "Teddy",
+   "et": ""
+  },
+  {
+   "id": 5,
+   "en": "Pinky",
+   "et": ""
+  },
+  {
+   "id": 6,
+   "en": "Curt",
+   "et": ""
+  },
+  {
+   "id": 7,
+   "en": "Chow",
+   "et": ""
+  },
+  {
+   "id": 8,
+   "en": "Jay",
+   "et": ""
+  },
+  {
+   "id": 9,
+   "en": "Robin",
+   "et": ""
+  },
+  {
+   "id": 10,
+   "en": "Anchovy",
+   "et": ""
+  },
+  {
+   "id": 11,
+   "en": "Twiggy",
+   "et": ""
+  },
+  {
+   "id": 12,
+   "en": "Jitters",
+   "et": ""
+  },
+  {
+   "id": 13,
+   "en": "Angus",
+   "et": ""
+  },
+  {
+   "id": 14,
+   "en": "Rodeo",
+   "et": ""
+  },
+  {
+   "id": 15,
+   "en": "Bob",
+   "et": ""
+  },
+  {
+   "id": 16,
+   "en": "Mitzi",
+   "et": ""
+  },
+  {
+   "id": 17,
+   "en": "Rosie",
+   "et": ""
+  },
+  {
+   "id": 18,
+   "en": "Olivia",
+   "et": ""
+  },
+  {
+   "id": 19,
+   "en": "Kiki",
+   "et": ""
+  },
+  {
+   "id": 20,
+   "en": "Tangy",
+   "et": ""
+  },
+  {
+   "id": 21,
+   "en": "Punchy",
+   "et": ""
+  },
+  {
+   "id": 22,
+   "en": "Purrl",
+   "et": ""
+  },
+  {
+   "id": 23,
+   "en": "Moe",
+   "et": ""
+  },
+  {
+   "id": 24,
+   "en": "Kabuki",
+   "et": ""
+  },
+  {
+   "id": 25,
+   "en": "Kid Cat",
+   "et": ""
+  },
+  {
+   "id": 26,
+   "en": "Monique",
+   "et": ""
+  },
+  {
+   "id": 27,
+   "en": "Tabby",
+   "et": ""
+  },
+  {
+   "id": 28,
+   "en": "Bluebear",
+   "et": ""
+  },
+  {
+   "id": 29,
+   "en": "Maple",
+   "et": ""
+  },
+  {
+   "id": 30,
+   "en": "Poncho",
+   "et": ""
+  },
+  {
+   "id": 31,
+   "en": "Pudge",
+   "et": ""
+  },
+  {
+   "id": 32,
+   "en": "Kody",
+   "et": ""
+  },
+  {
+   "id": 33,
+   "en": "Stitches",
+   "et": ""
+  },
+  {
+   "id": 34,
+   "en": "Goose",
+   "et": ""
+  },
+  {
+   "id": 35,
+   "en": "Benedict",
+   "et": ""
+  },
+  {
+   "id": 36,
+   "en": "Egbert",
+   "et": ""
+  },
+  {
+   "id": 37,
+   "en": "Patty",
+   "et": ""
+  },
+  {
+   "id": 38,
+   "en": "Tipper",
+   "et": ""
+  },
+  {
+   "id": 39,
+   "en": "Alfonso",
+   "et": ""
+  },
+  {
+   "id": 40,
+   "en": "Alli",
+   "et": ""
+  },
+  {
+   "id": 41,
+   "en": "Goldie",
+   "et": ""
+  },
+  {
+   "id": 42,
+   "en": "Butch",
+   "et": ""
+  },
+  {
+   "id": 43,
+   "en": "Lucky",
+   "et": ""
+  },
+  {
+   "id": 44,
+   "en": "Biskit",
+   "et": ""
+  },
+  {
+   "id": 45,
+   "en": "Bones",
+   "et": ""
+  },
+  {
+   "id": 46,
+   "en": "Portia",
+   "et": ""
+  },
+  {
+   "id": 47,
+   "en": "Walker",
+   "et": ""
+  },
+  {
+   "id": 48,
+   "en": "Daisy",
+   "et": ""
+  },
+  {
+   "id": 49,
+   "en": "Bill",
+   "et": ""
+  },
+  {
+   "id": 50,
+   "en": "Joey",
+   "et": ""
+  },
+  {
+   "id": 51,
+   "en": "Pate",
+   "et": ""
+  },
+  {
+   "id": 52,
+   "en": "Maelle",
+   "et": ""
+  },
+  {
+   "id": 53,
+   "en": "Deena",
+   "et": ""
+  },
+  {
+   "id": 54,
+   "en": "Pompom",
+   "et": ""
+  },
+  {
+   "id": 55,
+   "en": "Mallary",
+   "et": ""
+  },
+  {
+   "id": 56,
+   "en": "Freckles",
+   "et": ""
+  },
+  {
+   "id": 57,
+   "en": "Derwin",
+   "et": ""
+  },
+  {
+   "id": 58,
+   "en": "Drake",
+   "et": ""
+  },
+  {
+   "id": 59,
+   "en": "Opal",
+   "et": ""
+  },
+  {
+   "id": 60,
+   "en": "Dizzy",
+   "et": ""
+  },
+  {
+   "id": 61,
+   "en": "Big Top",
+   "et": ""
+  },
+  {
+   "id": 62,
+   "en": "Eloise",
+   "et": ""
+  },
+  {
+   "id": 63,
+   "en": "Margie",
+   "et": ""
+  },
+  {
+   "id": 64,
+   "en": "Lily",
+   "et": ""
+  },
+  {
+   "id": 65,
+   "en": "Ribbot",
+   "et": ""
+  },
+  {
+   "id": 66,
+   "en": "Frobert",
+   "et": ""
+  },
+  {
+   "id": 67,
+   "en": "Camofrog",
+   "et": ""
+  },
+  {
+   "id": 68,
+   "en": "Drift",
+   "et": ""
+  },
+  {
+   "id": 69,
+   "en": "Wart Jr.",
+   "et": ""
+  },
+  {
+   "id": 70,
+   "en": "Puddles",
+   "et": ""
+  },
+  {
+   "id": 71,
+   "en": "Jeremiah",
+   "et": ""
+  },
+  {
+   "id": 72,
+   "en": "Chevre",
+   "et": ""
+  },
+  {
+   "id": 73,
+   "en": "Nan",
+   "et": ""
+  },
+  {
+   "id": 74,
+   "en": "Cesar",
+   "et": ""
+  },
+  {
+   "id": 75,
+   "en": "Peewee",
+   "et": ""
+  },
+  {
+   "id": 76,
+   "en": "Boone",
+   "et": ""
+  },
+  {
+   "id": 77,
+   "en": "Rocco",
+   "et": ""
+  },
+  {
+   "id": 78,
+   "en": "Buck",
+   "et": ""
+  },
+  {
+   "id": 79,
+   "en": "Victoria",
+   "et": ""
+  },
+  {
+   "id": 80,
+   "en": "Savannah",
+   "et": ""
+  },
+  {
+   "id": 81,
+   "en": "Elmer",
+   "et": ""
+  },
+  {
+   "id": 82,
+   "en": "Roscoe",
+   "et": ""
+  },
+  {
+   "id": 83,
+   "en": "Yuka",
+   "et": ""
+  },
+  {
+   "id": 84,
+   "en": "Alice",
+   "et": ""
+  },
+  {
+   "id": 85,
+   "en": "Melba",
+   "et": ""
+  },
+  {
+   "id": 86,
+   "en": "Kitt",
+   "et": ""
+  },
+  {
+   "id": 87,
+   "en": "Mathilda",
+   "et": ""
+  },
+  {
+   "id": 88,
+   "en": "Bud",
+   "et": ""
+  },
+  {
+   "id": 89,
+   "en": "Elvis",
+   "et": ""
+  },
+  {
+   "id": 90,
+   "en": "Dora",
+   "et": ""
+  },
+  {
+   "id": 91,
+   "en": "Limberg",
+   "et": ""
+  },
+  {
+   "id": 92,
+   "en": "Bella",
+   "et": ""
+  },
+  {
+   "id": 93,
+   "en": "Bree",
+   "et": ""
+  },
+  {
+   "id": 94,
+   "en": "Samson",
+   "et": ""
+  },
+  {
+   "id": 95,
+   "en": "Rod",
+   "et": ""
+  },
+  {
+   "id": 96,
+   "en": "Octavian",
+   "et": ""
+  },
+  {
+   "id": 97,
+   "en": "Marina",
+   "et": ""
+  },
+  {
+   "id": 98,
+   "en": "Queenie",
+   "et": ""
+  },
+  {
+   "id": 99,
+   "en": "Gladys",
+   "et": ""
+  },
+  {
+   "id": 100,
+   "en": "Apollo",
+   "et": ""
+  },
+  {
+   "id": 101,
+   "en": "Amelia",
+   "et": ""
+  },
+  {
+   "id": 102,
+   "en": "Pierce",
+   "et": ""
+  },
+  {
+   "id": 103,
+   "en": "Aurora",
+   "et": ""
+  },
+  {
+   "id": 104,
+   "en": "Roald",
+   "et": ""
+  },
+  {
+   "id": 105,
+   "en": "Cube",
+   "et": ""
+  },
+  {
+   "id": 106,
+   "en": "Hopper",
+   "et": ""
+  },
+  {
+   "id": 107,
+   "en": "Friga",
+   "et": ""
+  },
+  {
+   "id": 108,
+   "en": "Gwen",
+   "et": ""
+  },
+  {
+   "id": 109,
+   "en": "Curly",
+   "et": ""
+  },
+  {
+   "id": 110,
+   "en": "Truffles",
+   "et": ""
+  },
+  {
+   "id": 111,
+   "en": "Rasher",
+   "et": ""
+  },
+  {
+   "id": 112,
+   "en": "Hugh",
+   "et": ""
+  },
+  {
+   "id": 113,
+   "en": "Lucy",
+   "et": ""
+  },
+  {
+   "id": 114,
+   "en": "Bunnie",
+   "et": ""
+  },
+  {
+   "id": 115,
+   "en": "Dotty",
+   "et": ""
+  },
+  {
+   "id": 116,
+   "en": "Coco",
+   "et": ""
+  },
+  {
+   "id": 117,
+   "en": "Snake",
+   "et": ""
+  },
+  {
+   "id": 118,
+   "en": "Gaston",
+   "et": ""
+  },
+  {
+   "id": 119,
+   "en": "Gabi",
+   "et": ""
+  },
+  {
+   "id": 120,
+   "en": "Pippy",
+   "et": ""
+  },
+  {
+   "id": 121,
+   "en": "Tiffany",
+   "et": ""
+  },
+  {
+   "id": 122,
+   "en": "Genji",
+   "et": ""
+  },
+  {
+   "id": 123,
+   "en": "Ruby",
+   "et": ""
+  },
+  {
+   "id": 124,
+   "en": "Tank",
+   "et": ""
+  },
+  {
+   "id": 125,
+   "en": "Rhonda",
+   "et": ""
+  },
+  {
+   "id": 126,
+   "en": "Vesta",
+   "et": ""
+  },
+  {
+   "id": 127,
+   "en": "Baabara",
+   "et": ""
+  },
+  {
+   "id": 128,
+   "en": "Peanut",
+   "et": ""
+  },
+  {
+   "id": 129,
+   "en": "Blaire",
+   "et": ""
+  },
+  {
+   "id": 130,
+   "en": "Filbert",
+   "et": ""
+  },
+  {
+   "id": 131,
+   "en": "Pecan",
+   "et": ""
+  },
+  {
+   "id": 132,
+   "en": "Nibbles",
+   "et": ""
+  },
+  {
+   "id": 133,
+   "en": "Agent S",
+   "et": ""
+  },
+  {
+   "id": 134,
+   "en": "Caroline",
+   "et": ""
+  },
+  {
+   "id": 135,
+   "en": "Sally",
+   "et": ""
+  },
+  {
+   "id": 136,
+   "en": "Static",
+   "et": ""
+  },
+  {
+   "id": 137,
+   "en": "Mint",
+   "et": ""
+  },
+  {
+   "id": 138,
+   "en": "Rolf",
+   "et": ""
+  },
+  {
+   "id": 139,
+   "en": "Rowan",
+   "et": ""
+  },
+  {
+   "id": 140,
+   "en": "Chief",
+   "et": ""
+  },
+  {
+   "id": 141,
+   "en": "Lobo",
+   "et": ""
+  },
+  {
+   "id": 142,
+   "en": "Wolfgang",
+   "et": ""
+  },
+  {
+   "id": 143,
+   "en": "Whitney",
+   "et": ""
+  },
+  {
+   "id": 144,
+   "en": "Champ",
+   "et": ""
+  },
+  {
+   "id": 145,
+   "en": "Nana",
+   "et": ""
+  },
+  {
+   "id": 146,
+   "en": "Simon",
+   "et": ""
+  },
+  {
+   "id": 147,
+   "en": "Tammi",
+   "et": ""
+  },
+  {
+   "id": 148,
+   "en": "Monty",
+   "et": ""
+  },
+  {
+   "id": 149,
+   "en": "Elise",
+   "et": ""
+  }
+ ]
+}

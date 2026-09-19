@@ -1,0 +1,275 @@
+{
+ "file": "script/ENG/message/sp/npc/ysister_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 14 00}Hey, welcome!{01 00 00 0a 00} Welcome to\n{ff 00 00 02}Able Sisters{ff 00 00 00},{01 00 00 05 00} where YOU are\nthe fashion designer!",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 14 00}Oh!{01 00 00 05 00} Welcome!",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 14 00}Great to see you!{01 00 00 05 00} Come\nback soon, OK?",
+   "et": ""
+  },
+  {
+   "id": 3,
+   "en": "{07 14 00}Well then, what can I help\nyou with?{02 06 00 0b 14 05 06}\nCreate a design\nI wanna sell!\nWhere am I?\nNever mind...",
+   "et": ""
+  },
+  {
+   "id": 4,
+   "en": "{07 14 00}OK,{01 00 00 05 00} OK!{01 00 00 0a 00} And what can I do\nfor you?{02 06 00 0b 14 05 06}\nI want to design!\nI want to sell!\nYou tell me!\nNothing...",
+   "et": ""
+  },
+  {
+   "id": 5,
+   "en": "{07 00 00}You ought to know, creating\nfashion that reflects your\ntastes{01 00 00 05 00} is kind of tough.\nBut even if perfection is\nsometimes out of reach,{07 0b 00}\nisn't it still fun to try?\n{07 14 00}Here at {ff 00 00 02}Able Sisters{ff 00 00 00},{01 00 00 0a 00} we do\neverything we can to make\nfashion dreams come true!{01 00 00 0a 00}\n{07 0b 00}Want to hear more?{02 04 00 07 06}\nYes! Absolutely!\nNo, thanks.",
+   "et": ""
+  },
+  {
+   "id": 6,
+   "en": "{07 00 00}Ohh, my.{01 00 00 05 00} Really?{01 00 00 0f 00}{07 14 00} Well, you're\nfree to ask me anytime.{01 00 00 05 00}\nI'll be happy to talk to you!",
+   "et": ""
+  },
+  {
+   "id": 7,
+   "en": "{07 00 00}At our little shop,{01 00 00 05 00} you\nwon't just find fashionable\nclothes and accessories...\nNo! {01 00 00 05 00}You can also create\nyour own designs for use\non clothes and umbrellas.\nAnd{01 00 00 0a 00} when you display your\nfashion creations in our\nlovely shop here,\nother people who like your\ndesigns can buy them.{01 00 00 05 00} \nIsn't that dreamy?\n{07 14 00}Doesn't the thought of\nsomeone wearing one of\nyour designs excite you?\n{07 00 00}If you want to display a\npattern, just stand by a\nshirt{01 00 00 0a 00} and {ff 00 00 01}tap{ff 00 00 00} it.\nYou can also just press\nthe {ff 00 00 01}A Button{ff 00 00 00}.\n\n{07 14 00}And if you want to design\nyour own new fashion line,{01 00 00 0a 00}\njust come talk to me!",
+   "et": ""
+  },
+  {
+   "id": 8,
+   "en": "{09 01 00}{09 08 00}Oh, Um...{01 00 00 0a 00} There's something\nelse{01 00 00 05 00} I'm supposed to tell\nyou,{01 00 00 0a 00} right, Sis?{09 09 00}",
+   "et": ""
+  },
+  {
+   "id": 9,
+   "en": "{09 00 00}{09 08 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}How to dress.{09 09 00}",
+   "et": ""
+  },
+  {
+   "id": 10,
+   "en": "{09 00 00}{09 06 00}{09 01 00}{09 04 00}Oh,{01 00 00 05 00} right!\n\n\nI have to teach you how to\ntry on the patterns you\ndesign, don't I?{01 00 00 0a 00} Duh!\nOpen your pockets and\nswitch to the pencil\nicon to see your designs.\nYou can use your designs on\numbrellas,{01 00 00 05 00} clothes,{01 00 00 05 00} hats,\n{07 14 00}and on other things, too.{01 00 00 05 00}\n{07 00 00}So,{01 00 00 05 00} um,{01 00 00 0a 00} I guess that's it.\n\n\n{07 14 00}But if you don't understand,{01 00 00 05 00}\njust come back and ask me\nwhenever you like, OK?",
+   "et": ""
+  },
+  {
+   "id": 11,
+   "en": "{07 14 00}You want to create your\nown design?{01 00 00 0f 00} OK! That will\nbe 350 Bells for materials.\n{07 00 00}Oh, and you can only save{01 00 00 05 00}\neight designs total.\n\nSo you'll have to erase one\nof the designs you have\nright now.{01 00 00 05 00}{07 0b 00} Is that OK?{02 04 00 00 0c}\nThat's fine.\nNo, it's not!",
+   "et": ""
+  },
+  {
+   "id": 12,
+   "en": "{07 00 00}Oh,{01 00 00 05 00} so you don't want\nto create a new design\nright now?\nSo,{01 00 00 05 00}{07 0b 00} is there anything else I\ncan do for you today?{02 06 00 0b 14 05 06}\nI want to design!\nI want to sell!\nYou tell me!\nNothing...",
+   "et": ""
+  },
+  {
+   "id": 13,
+   "en": "{07 16 00}Oops!{01 00 00 05 00} How embarrassing.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\nYou, um...{01 00 00 0a 00} You don't have\nenough money!\n{07 00 00}So, uh,{01 00 00 05 00}{07 0b 00} is there anything\nelse I can do for you?{02 06 00 0b 14 05 06}\nI want to design!\nI want to sell!\nYou tell me!\nNope, nothing.",
+   "et": ""
+  },
+  {
+   "id": 14,
+   "en": "{07 14 00}OK,{01 00 00 05 00} then choose where you\nwant to save this design,{01 00 00 05 00}\nand start designing!",
+   "et": ""
+  },
+  {
+   "id": 15,
+   "en": "{07 00 00}Ohh, you changed your mind?\n\n\nThen{01 00 00 05 00}{07 0b 00} is there anything else\nI can do for you?{02 06 00 0b 14 05 06}\nI want to design!\nI want to sell!\nYou tell me!\nNope, nothing.",
+   "et": ""
+  },
+  {
+   "id": 16,
+   "en": "{07 00 00}{07 14 00}You're all done!{01 00 00 0a 00} So tell me,{01 00 00 05 00}\n{07 0b 00}what was your driving\nconcept with this design?{02 01 00 11 11 11}\nFormal, refined.\nBasic, yet new!\nDidn't have one.",
+   "et": ""
+  },
+  {
+   "id": 17,
+   "en": "{07 19 00}Oh, yes,{01 00 00 0f 00}{07 00 00} now that you\nmention it, I see EXACTLY\nwhat you mean!\n{07 0b 00}What do you call it?",
+   "et": ""
+  },
+  {
+   "id": 18,
+   "en": "{07 14 00}Then that will be{01 00 00 05 00} 350 Bells,\nplease!",
+   "et": ""
+  },
+  {
+   "id": 19,
+   "en": "{07 0b 00}Is there anything else I can\ndo for you?{02 06 00 0b 14 05 06}\nI want to design!\nI want to sell!\nYou tell me!\nNope, nothing.",
+   "et": ""
+  },
+  {
+   "id": 20,
+   "en": "{07 14 00}In that case,{01 00 00 05 00} choose the\nproduct you'd like to sell!",
+   "et": ""
+  },
+  {
+   "id": 21,
+   "en": "{07 00 00}So, you changed your mind?{01 00 00 14 00}\nThen{01 00 00 05 00}{07 0b 00} is there anything else\nI can help you with?{02 06 00 0b 14 05 06}\nI want to design!\nI want to sell!\nYou tell me!\nNope, nothing.",
+   "et": ""
+  },
+  {
+   "id": 23,
+   "en": "{07 16 00}Oh, I'm really sorry,{01 00 00 05 00} but we\ncan't buy that sort of\nthing here.\n{07 00 00}But if you just want to get\nrid of it I can do that.{01 00 00 05 00}\n{07 0b 00}What do you say?{02 04 00 18 19}\nGet rid of it!\nI'll keep it.",
+   "et": ""
+  },
+  {
+   "id": 24,
+   "en": "{07 14 00}No problem!{01 00 00 05 00} I'll just toss it\nin the trash for you!\n\n{07 00 00}So,{07 0b 00} is there anything else I\ncan do for you?{02 06 00 0b 14 05 06}\nI want to design!\nI want to sell!\nYou tell me!\nNope, nothing.",
+   "et": ""
+  },
+  {
+   "id": 25,
+   "en": "{07 14 00}That's true!{01 00 00 05 00} You never know\nwhat may inspire your next\ncreative burst!\n{07 00 00}So, then,{07 0b 00} is there anything\nelse I can do for you?{02 06 00 0b 14 05 06}\nI want to design!\nI want to sell!\nYou tell me!\nNope, nothing.",
+   "et": ""
+  },
+  {
+   "id": 26,
+   "en": "{07 14 00}OK!{01 00 00 05 00}\n\n\n{07 00 00}So,{07 0b 00} is there anything else\nI can do for you?{02 06 00 0b 14 05 06}\nI wanna design!\nI wanna sell!\nYou tell me!\nNope! That's it.",
+   "et": ""
+  },
+  {
+   "id": 27,
+   "en": "{07 00 00}Oh, OK, in that case, I can\npay you {04 10 00} Bells.{01 00 00 05 00}\n{07 0b 00}Does that sound all right?{02 04 00 00 15}\nYou bet!\nMaybe not...",
+   "et": ""
+  },
+  {
+   "id": 28,
+   "en": "{07 00 00}We create one-of-a-kind\nfashions here!\n\n{07 0d 00}How many times have you\nwished you could express\nyour inner emotions{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\nor said to yourself, \"I must\nshare this with the world\"?\n{07 00 00}{07 0b 00}Once? Twice? Even more!?\n{07 14 00}We make our customers'{01 00 00 0a 00}\ndreams a reality here!{01 00 00 0a 00}\nWe make it all possible!\n{07 0b 00}Want to hear more?{02 04 00 1d 06}\nTell me more!\nThat's enough.",
+   "et": ""
+  },
+  {
+   "id": 29,
+   "en": "{07 00 00}See, at our little shop,{01 00 00 05 00} you\nwon't just find fashionable\nclothes and accessories.\nHere you can also create\nyour own designs for use\non clothes and umbrellas!\nAnd{01 00 00 0a 00} if you display your\nfashion creations in our\nlovely shop...\nPeople who like your designs\ncan pick them up too!{01 00 00 0a 00}\nIsn't that so dreamy?\n{07 14 00}Doesn't the thought of\nsomeone wearing one of\nyour designs get you going?\n{07 00 00}If you have a pattern you\nwant to display, just{ff 00 00 01} tap{ff 00 00 00}\na shirt.{01 00 00 0a 00}\n{07 14 00}And if you want to design\nyour own new fashion line,{01 00 00 0a 00}\njust come talk to me!\n{07 00 00}Ohh, um, {01 00 00 05 00}I think...{01 00 00 0a 00}that's\njust about it.\n\n{07 14 00}If you have{01 00 00 05 00} any more\nquestions, {01 00 00 05 00}come talk to me\nanytime, OK?",
+   "et": ""
+  },
+  {
+   "id": 30,
+   "en": "{07 04 00}Oh,{01 00 00 05 00} but you can't carry\nall that money!{07 00 00}\n\nI guess I'll put it into\nmoney bags{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}",
+   "et": ""
+  },
+  {
+   "id": 33,
+   "en": "{07 14 00}This design{01 00 00 05 00} just might\nbecome all the rage!{01 00 00 05 00} \nIt's so hip, right?",
+   "et": ""
+  },
+  {
+   "id": 34,
+   "en": "{07 00 00}Oh, OK. {01 00 00 05 00}I see. {01 00 00 05 00}You changed\nyour mind.",
+   "et": ""
+  },
+  {
+   "id": 35,
+   "en": "{07 14 00}OK,{01 00 00 05 00} then choose which\ndesign you'd like to trade!",
+   "et": ""
+  },
+  {
+   "id": 36,
+   "en": "{07 0e 00}Hmm...{01 00 00 05 00} I wonder if maybe\nthis design{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{07 14 00}will catch on...",
+   "et": ""
+  },
+  {
+   "id": 37,
+   "en": "{07 00 00}When you have more than\nseven designs, you know\nwhat has to happen, right?\nYou have to erase one of\nthe ones you have now,{01 00 00 0a 00} but\nthat's fine,{07 0b 00} right?{02 05 00 26 23 22}\nYeah, that's fine.\nMaybe I'll trade...\nUm, never mind.",
+   "et": ""
+  },
+  {
+   "id": 38,
+   "en": "{07 14 00}OK,{01 00 00 05 00} then choose where you\nwant to keep it!",
+   "et": ""
+  },
+  {
+   "id": 39,
+   "en": "{07 14 00}Then,{01 00 00 0a 00} here is the design\nyou've fallen in love with!\n{01 00 00 05 00}Enjoy!",
+   "et": ""
+  },
+  {
+   "id": 40,
+   "en": "{07 00 00}Ohh, yes, you're looking at\n{04 1a 00}.{01 00 00 0f 00}\nThe price is {04 0f 00} Bells.",
+   "et": ""
+  },
+  {
+   "id": 41,
+   "en": "{07 14 00}Enjoy!",
+   "et": ""
+  },
+  {
+   "id": 42,
+   "en": "{07 14 00}{04 0f 00} Bells,{01 00 00 05 00} exactly!",
+   "et": ""
+  },
+  {
+   "id": 43,
+   "en": "{07 16 00}Oops!{01 00 00 05 00} Oh, how embarrassing!{01 00 00 0a 00}\nI'm sorry, but you don't\nhave enough.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 14 00}Maybe you can come back{01 00 00 05 00}\nwhen you have a little more\ncash, OK?",
+   "et": ""
+  },
+  {
+   "id": 44,
+   "en": "{07 16 00}Oh, um,{01 00 00 05 00} I'm sorry,{01 00 00 0a 00} but your\npockets are full.{01 00 00 05 00}.{01 00 00 05 00}.\n\n{07 14 00}Maybe you can come back{01 00 00 05 00}\nafter you empty your\npockets a little, OK?",
+   "et": ""
+  },
+  {
+   "id": 45,
+   "en": "{07 04 00}Wow!{01 00 00 05 00} You are looking really,\nreally good! {01 00 00 05 00}I mean it!{01 00 00 0f 00}\n{07 14 00}Are you interested?{02 04 00 00 06}\nI'll buy it!\nThanks, but no.",
+   "et": ""
+  },
+  {
+   "id": 46,
+   "en": "{07 0b 00}Huh?{01 00 00 05 00} What happened?{02 04 00 2f 03}\nDelivery!\nNothing.",
+   "et": ""
+  },
+  {
+   "id": 47,
+   "en": "{07 0b 00}Oh!{01 00 00 0a 00} Is that {07 0e 00}the product\nI ordered from {ff 00 00 06}Saharah{ff 00 00 00}?\n\n{07 00 00}{0b 03 00}{04 00 00},{01 00 00 05 00} did you come\nall the way here just to\ndeliver that to me?\n{07 14 00}Wow, thanks so much!{01 00 00 0a 00}\nYou're too sweet!\n\n{07 04 00}Oh,{01 00 00 05 00} and if you could,{07 00 00} please\ntell {ff 00 00 06}Saharah{ff 00 00 00} thank you for\nme.{01 00 00 05 00} I'd really appreciate it!\n{07 14 00}Can I count on you?{01 00 00 0f 00}\nSorry to be a bother!",
+   "et": ""
+  },
+  {
+   "id": 48,
+   "en": "Ohh!{01 00 00 05 00}{07 16 00} What is it you need?",
+   "et": ""
+  },
+  {
+   "id": 49,
+   "en": "{07 14 00}Ohh, {01 00 00 05 00}that pattern is the\n{0b 02 00}{04 1c 00}.\n\nWhat should we do?{02 06 00 35 25 23 34}\nI want to display!\nI want it!\nI want to trade!\nI'm just looking.",
+   "et": ""
+  },
+  {
+   "id": 50,
+   "en": "{07 14 00}Oh, this?{01 00 00 05 00} {0b 03 00}{ff 00 00 05}{04 11 00}{ff 00 00 00}\ndesigned this particular\npattern.\nThis design is called\n{04 1c 00}.{01 00 00 0f 00}\n\nWhat would you like to do?{02 06 00 35 25 23 34}\nI want to display!\nI want it!\nI want to trade!\nI'm just looking.",
+   "et": ""
+  },
+  {
+   "id": 51,
+   "en": "{07 14 00}Ohh, yes!{01 00 00 05 00} That was designed\nby {ff 00 00 05}{04 11 00}{ff 00 00 08} {ff 00 00 00}from{ff 00 00 08}\n{04 12 00}{ff 00 00 00}.\nThat design is called\n{04 1c 00}.{01 00 00 0f 00}\n\nWhat shall we do?{02 06 00 35 25 23 34}\nI want to display!\nI want it!\nI want to trade!\nI'm just looking.",
+   "et": ""
+  },
+  {
+   "id": 52,
+   "en": "{07 14 00}Feel free to look around{01 00 00 05 00}\nas much as you like, OK?",
+   "et": ""
+  },
+  {
+   "id": 53,
+   "en": "{07 00 00}We'll have to get rid of{01 00 00 05 00}\nthe pattern on display\nright now.\n{07 0b 00}But you don't mind, do you?{02 05 00 36 23 22}\nThat's fine.\nI'll trade instead.\nOh, never mind.",
+   "et": ""
+  },
+  {
+   "id": 54,
+   "en": "{07 14 00}OK,{01 00 00 05 00} then just choose the\ndesign you want to display!",
+   "et": ""
+  },
+  {
+   "id": 55,
+   "en": "{07 16 00}Ohh, we're running low on\nsupplies right now, so{01 00 00 05 00} you\ncan't make a design!\nI'm SO sorry! {01 00 00 0f 00}Who knew that\nvisitors were coming? {01 00 00 0a 00}No\none tells me anything!\n{07 00 00}.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}{07 14 00}Again, I am very sorry!",
+   "et": ""
+  },
+  {
+   "id": 56,
+   "en": "{07 16 00}Oh, no!{01 00 00 0a 00} You can't carry any\nmore Bells!\n\n{07 14 00}Go organize your items so\nthat you have room for a \nmoney bag{01 00 00 05 00} and come back!\nSo, {01 00 00 05 00}is there anything else\n{07 0b 00}we can do for you?{02 06 00 0b 14 05 06}\nI wanna design!\nI wanna sell!\nYou tell me!\nNothing.",
+   "et": ""
+  }
+ ]
+}

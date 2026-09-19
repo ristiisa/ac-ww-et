@@ -1,0 +1,65 @@
+{
+ "file": "script/ENG/message/fu/ai/indoor_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 14 00}{0b 03 00}{01 06 00}Oh, good morning{01 07 00}!\n\n\n{07 0b 00}I didn't expect to see you\nthis early in the morning,\n{01 00 00 0a 00}{04 1f 00}.\n{07 00 00}I wish you'd told me you\nwere coming by so that I\ncould have had some time\nto {07 10 00}clean the house,\n{01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 14 00}{0b 03 00}{01 06 00}Oh, my{01 07 00}!\nWelcome to my humble home!\nI have guests so rarely!\n{07 16 00}I'm so sorry. I don't have\nany {0b 02 00}{04 18 00} or\n{0b 02 00}{04 19 00}, but.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 00 00}\n{07 14 00}Make yourself at home just\nthe same, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 04 00}{0b 03 00}{01 06 00}Oh{01 07 00}!\n{01 00 00 05 00}{0b 03 00}{04 1f 00}!\n\n{07 14 00}I guess you must not have\nany work to do today, isn't\nthat right, {01 00 00 05 00}{04 02 00}?\nYou always seem so busy,\n{04 1f 00}. A little too\nbusy if you ask me.\n{07 19 00}Remember, you have to rest\nevery now and then. For\nyour health, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 3,
+   "en": "{07 14 00}{0b 03 00}{01 06 00}Well, hello there{01 07 00}!\n{01 00 00 05 00}{0b 03 00}{04 1f 00}, it's nice of\nyou to drop by!\n{07 0b 00}So, what do you think?{01 00 00 05 00}\nMy place looks great,\ndoesn't it?\n{07 19 00}I know you think I like to\n{04 22 00} all the\ntime.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\nBut I want you to know\nthat I do occasionally stop\nto clean up, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 4,
+   "en": "{07 04 00}Wow! {01 00 00 05 00}{0b 03 00}{04 1f 00}! You're\nhere! You're really here,\n{01 00 00 05 00}{04 02 00}!\n{07 00 00}Last night,{01 00 00 05 00} I made a little\nwish that you'd come visit\nme today.\nI wrote my wish on a piece\nof paper{07 1a 00} over and over\nagain,{01 00 00 05 00} and now you're here!\nAll my hard work finally\npaid off, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 5,
+   "en": "{07 04 00}{0b 03 00}{01 06 00}Oh{01 07 00}!{01 00 00 05 00}\nWell, if it isn't you,\n{04 1f 00}.\n{07 11 00}Isn't that what I call\nyou? {0b 03 00}{04 1f 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}?{01 00 00 05 00}\nI thought so, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 6,
+   "en": "{07 14 00}{0b 03 00}{01 06 00}Good evening{01 07 00}.\n{07 0b 00}How was your day,\n{01 00 00 05 00}{04 02 00}?\nNobody too mean to you?{01 00 00 05 00}\nNobody stick you with any\nerrands to take care of?\n{07 19 00}Because if anyone ever\ndoes, you come tell me\nabout it, OK, {01 00 00 05 00}{04 02 00}?\nI'll take care of it for\nyou, {04 1f 00}. You can\ncount on that!",
+   "et": ""
+  },
+  {
+   "id": 7,
+   "en": "{07 04 00}{0b 03 00}{01 06 00}{0b 03 00}{04 1f 00}!{01 07 00}{01 00 00 05 00}\n{07 0b 00}Why are you out so late?\nWhy aren't you in bed?\n{07 14 00}I should go to sleep, {01 00 00 05 00}but\nI've got too much on my\nmind, {01 00 00 05 00}{04 02 00}.",
+   "et": ""
+  },
+  {
+   "id": 8,
+   "en": "{07 14 00}Hi there, {01 00 00 05 00}{04 1f 00}!{01 00 00 0f 00} It's\nalready {04 08 00}:{04 09 00}, but don't\nlet that bother you.\n{07 00 00}Why don't you make yourself\nat home and {01 00 00 05 00}relax a little\n{07 14 00}before you go home.\nI'm not sleepy, {01 00 00 05 00}{04 02 00}.",
+   "et": ""
+  },
+  {
+   "id": 9,
+   "en": "{07 04 00}Ahh! {01 00 00 05 00}{0b 03 00}{04 1f 00}!{01 00 00 05 00}\n{07 14 00}{0b 03 00}{01 06 00}Hi{01 07 00}!{01 00 00 05 00}\nSorry, but you startled me!\n{07 00 00}I went out to\n{04 22 00} earlier,\nbut now I'm just relaxing.\n{07 14 00}I'd feed you, but I'm out of\n{0b 02 00}{04 18 00} and\n{0b 02 00}{04 19 00}. Sorry!",
+   "et": ""
+  },
+  {
+   "id": 10,
+   "en": "{07 04 00}Wow, {01 00 00 05 00}{04 1f 00}!{01 00 00 0f 00} This is\nlate, even for you!\n\n{07 0e 00}\"{04 1f 00} at\n{04 08 00}:{04 09 00}\".{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n\n{07 0a 00}Isn't that the name of a\nmovie, {01 00 00 05 00}{04 02 00}?",
+   "et": ""
+  },
+  {
+   "id": 11,
+   "en": "Oh, {01 00 00 05 00}{04 1f 00}!{01 00 00 0f 00} You picked\nan odd time for a visit.\n{07 0b 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}Did something happen?\nAre you all right? Is it.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\nfleas? You have fleas, don't\nyou, {01 00 00 05 00}{04 02 00}?\n{07 14 00}Oh, cheer up!{01 01 00}\n{07 19 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}These things happen to\neveryone sooner or later.\n{07 14 00}So don't you worry! Be\nhappy, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  }
+ ]
+}

@@ -1,0 +1,20 @@
+{
+ "file": "script/ENG/message/ge/q/timeover_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 1d 00}Oh, gosh, it's {04 1f 00}!{01 00 00 05 00}\nYou're in some hot water,\n{01 00 00 05 00}{04 02 00}!\n{07 16 00}{ff 00 00 06}{04 0f 00}{ff 00 00 00} was looking\nfor you with the REDDEST\nface I've ever seen!\nI was too freaked to ask\nfor details, but{01 00 00 05 00} {07 0b 00}I'd say\nsorry soon, huh?",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 04 00}{0b 03 00}{04 1f 00},{01 00 00 05 00} what are you\ndoing goofing off like\nthat?\n{07 16 00}{ff 00 00 06}{0b 03 00}{04 0f 00} {ff 00 00 00}was practically\ndoing a door-to-door\ncheck looking for you!\n{07 06 00}You'd better go get that\nsituation under control,\nand quick, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 1d 00}Uh-oh! {01 00 00 0a 00}It's you!{01 00 00 05 00}\n{07 0b 00}Haven't you gone to \n{ff 00 00 06}{04 0f 00}{ff 00 00 00}'s place yet?\n{07 00 00}{ff 00 00 06}{0b 03 00}{04 0f 00}{ff 00 00 00} was looking\nfor you all over{01 00 00 05 00} with a\nthrobbing forehead vein...\n{07 16 00}That was one mad animal!{01 00 00 05 00}\nMaybe {01 00 00 05 00}you oughta go take\ncare of that, {01 00 00 05 00}{04 02 00}?",
+   "et": ""
+  }
+ ]
+}

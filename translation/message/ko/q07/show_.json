@@ -1,0 +1,20 @@
+{
+ "file": "script/ENG/message/ko/q07/show_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 14 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}Yeah, I guess I can show\nit to ya.{01 00 00 0f 00} But just a peek,\n{01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}You're here, {01 00 00 05 00}{04 02 00}.{01 00 00 14 00}\n{07 14 00}I guess I can show it to\nyou.",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 14 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}Heh heh,{01 00 00 05 00} what?!\n{07 0b 00}Oh, so you wanna see it?\n\n{07 00 00}OK, OK.{01 00 00 05 00} But don't go blabbin'\nabout it! Check this out.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n{01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  }
+ ]
+}

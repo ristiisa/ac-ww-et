@@ -1,0 +1,20 @@
+{
+ "file": "script/ENG/message/bo/q01/return_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 14 00}Huh huh huh.{01 00 00 0a 00} This bug is\nreally cool, isn't it,{01 00 00 0a 00}\n{04 02 00}?",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 14 00}Huh huh huh.{01 00 00 0a 00} I wonder what\nkind of bug I should look\nfor next,{01 00 00 0a 00} {04 02 00}.",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 14 00}Starting today, the bugs\nand I are gonna be super\ntight, {01 00 00 0a 00}{04 02 00}.",
+   "et": ""
+  }
+ ]
+}

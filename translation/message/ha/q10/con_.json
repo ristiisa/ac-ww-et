@@ -1,0 +1,20 @@
+{
+ "file": "script/ENG/message/ha/q10/con_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 00 00}I'm supposed to go to your \npad {07 0b 00}at {04 10 00}:{04 11 00}, am I right?\nYou DO mean on the {04 0f 00}?\n{07 0d 00}Make sure to be somewhere\nwhere you can hear someone\nhollerin' from outside!",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 00 00}Hey, better be sure you're\naround at {04 10 00}:{04 11 00}! And\nI DO mean on the {04 0f 00}!\n{07 14 00}No need to do any cleanage!{01 01 00}\n{07 0d 00}I wanna see it in a\nnatural state, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 15 00}I just checked my calendar!\nHouse party at your pad at\n{04 10 00}:{04 11 00} on the {04 0f 00}!\n{07 0d 00}Make sure you don't miss\nthe sound of my fist\nbangin' on your door!",
+   "et": ""
+  }
+ ]
+}

@@ -1,0 +1,125 @@
+{
+ "file": "script/ENG/message/fu/3p/ko_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{09 01 00}{09 08 00}{07 00 00}When I was little,{01 00 00 05 00} my\nparents would always read\nto me before I went to bed.{09 09 00}",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{09 01 00}{09 08 00}{07 00 00}Why do you always have to\nstart a fight whenever we\ntalk, {ff 00 00 06}{04 10 00}{ff 00 00 00}?{09 09 00}",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{09 01 00}{09 08 00}{07 14 00}I'm not so good at\nremembering names, so I\nuse colors instead.\nSee, I just think up a color\nthat describes what kind of\npersonality you have.\n{09 03 00}Then, I just remember you\nas, like, Green {04 00 00}!\nOr Purple {04 01 00}!{09 09 00}",
+   "et": ""
+  },
+  {
+   "id": 3,
+   "en": "{09 00 00}{09 08 00}{09 02 00}{09 06 00}{07 14 00}That sounds pretty cool.\nI'm jealous. {01 00 00 0a 00}Things were\ndifferent when I was little.\nMy dad would leap out of\nthe closet wearing a hockey\nmask when I went to bed.\n{07 07 00}That's why I always chuck a\nbrick into my closet before\nI go to sleep, {01 00 00 05 00}{04 02 00}.{09 09 00}",
+   "et": ""
+  },
+  {
+   "id": 4,
+   "en": "{09 00 00}{09 06 00}{09 01 00}{07 16 00}Oh, dude!{01 00 00 05 00} That's not right!\nYou poor thing!{01 00 00 05 00} No wonder\nyou're so messed up!{09 09 00}",
+   "et": ""
+  },
+  {
+   "id": 5,
+   "en": "{09 00 00}{09 08 00}{09 02 00}{07 03 00}No, no! I'm just joking! I--{01 00 00 0f 00}\n{07 00 00}Wait, what do you mean,\n\"messed up\"?{07 16 00}{09 09 00}",
+   "et": ""
+  },
+  {
+   "id": 6,
+   "en": "{09 00 00}{09 06 00}{09 01 00}{07 02 00}Oh! I.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} {07 16 00}Nothing! Nothing\nat all. Never mind. Pretend\nI didn't say anything.{09 09 00}",
+   "et": ""
+  },
+  {
+   "id": 7,
+   "en": "{09 00 00}{09 08 00}{09 02 00}{07 03 00}Ha ha ha! Got you again!{01 00 00 0a 00}\nOh, MAN! {01 00 00 05 00}You shoulda seen\nthe look on your face!{07 14 00}{09 09 00}",
+   "et": ""
+  },
+  {
+   "id": 8,
+   "en": "{09 00 00}{09 06 00}{09 01 00}{07 08 00}Aaaaaah! Stop it! Can't we\njust have a normal\nconversation for once?\n{07 16 00}Why do you have to keep\nplaying pranks on me like\nthat, {ff 00 00 06}{04 10 00}{ff 00 00 00}?{09 09 00}",
+   "et": ""
+  },
+  {
+   "id": 9,
+   "en": "{09 00 00}{09 08 00}{09 02 00}{07 1b 00}My dad taught me all the\nbest practical jokes! He's\nthe best{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 14 00}So maybe we've got\nsomething in common after\nall, huh, {01 00 00 05 00}{04 02 00}?{09 01 00}{07 14 00}",
+   "et": ""
+  },
+  {
+   "id": 10,
+   "en": "{09 00 00}{09 08 00}{09 02 00}{09 06 00}Oh, I don't start fights.{01 00 00 0f 00}\n{07 01 00}I finish them!{09 09 00}",
+   "et": ""
+  },
+  {
+   "id": 11,
+   "en": "{09 00 00}{09 06 00}{09 01 00}{07 00 00}I suppose I'd be impressed\n{07 05 00}if I understood a word you\nwere saying, {01 00 00 05 00}{04 02 00}!{09 09 00}",
+   "et": ""
+  },
+  {
+   "id": 12,
+   "en": "{09 00 00}{09 08 00}{09 02 00}{07 00 00}Let me explain it for you.\nSee, I am a master of the\narts of fighting.\n{07 14 00}In my mind, I have already\nfought this battle a\nmillion times!{09 09 00}",
+   "et": ""
+  },
+  {
+   "id": 13,
+   "en": "{09 00 00}{09 06 00}{09 01 00}{07 00 00}Battle? What battle?\nI thought we were just\ntalking about cupcakes!{09 09 00}",
+   "et": ""
+  },
+  {
+   "id": 14,
+   "en": "{09 00 00}{09 08 00}{09 02 00}{07 01 00}Oh, yeah!?{01 00 00 0a 00} Well.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}you're a big\ndoodie head!{09 09 00}",
+   "et": ""
+  },
+  {
+   "id": 15,
+   "en": "{09 00 00}{09 06 00}{09 01 00}{07 09 00}That's it?{01 00 00 0a 00}{07 00 00} You played this\nout a million times, and\nthat's your best comeback?\nLook, it's an easy question.\nDo you want to come over\nfor cupcakes or not?{09 09 00}",
+   "et": ""
+  },
+  {
+   "id": 16,
+   "en": "{09 00 00}{09 08 00}{09 02 00}.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}{07 1c 00}OK. {01 01 00}{07 15 00}But they'd better be\ntasty, or next time, you\nmight not get off so light!{09 01 00}{03 02 00 01}",
+   "et": ""
+  },
+  {
+   "id": 17,
+   "en": "{09 00 00}{09 08 00}{09 02 00}{09 06 00}{07 04 00}Huh.{01 00 00 05 00} You don't say?\nThat's really freakish!{09 01 00}{09 07 00}{09 02 00}\n\n{07 14 00}So, uh, should I even ask\nwhat color I am? {01 00 00 05 00}{07 15 00}Come on,\nout with it, {01 00 00 05 00}{ff 00 00 06}{04 0f 00}{ff 00 00 00}!{09 09 00}",
+   "et": ""
+  },
+  {
+   "id": 18,
+   "en": "{09 00 00}{09 06 00}{09 01 00}{07 00 00}{ff 00 00 06}{04 10 00}{ff 00 00 00}, you are.{01 00 00 05 00}.{01 00 00 05 00}.{09 09 00}",
+   "et": ""
+  },
+  {
+   "id": 19,
+   "en": "{09 00 00}{09 08 00}{09 02 00}{07 15 00}Hey, {01 00 00 05 00}wait a sec!{01 00 00 0a 00} Are you\ngonna tell me it's black?{01 00 00 05 00}\n{07 05 00}Come on, that's so obvious!\n{07 14 00}I used to think the same\nthing until I went to see\nthis color coordinator.\n{07 19 00}He told me I'm an autumn.\nHe says my power color is\nburnt umber. I gotta say.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 15 00}I, for one, think he's on to\nsomething! {01 00 00 05 00}But {07 0b 00}what were\nyou going to say?{09 09 00}",
+   "et": ""
+  },
+  {
+   "id": 20,
+   "en": "{09 00 00}{09 06 00}{09 01 00}{07 0e 00}Black? That's such a sad\ncolor for you, {ff 00 00 06}{04 10 00}{ff 00 00 00}!\nNo, I think of you as a{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 0c 00}Wait, no! You really are a\nburnt umber! {01 00 00 05 00}{07 14 00}I can't believe\nI never saw it before!{09 09 00}",
+   "et": ""
+  },
+  {
+   "id": 21,
+   "en": "{09 00 00}{09 08 00}{09 02 00}{07 17 00}Yeah, this guy's pretty\ngood, isn't he?{01 00 00 0a 00} I can give\nyou his number if you want.{09 09 00}",
+   "et": ""
+  },
+  {
+   "id": 22,
+   "en": "{09 00 00}{09 06 00}{09 01 00}{07 00 00}Yeah, I mean, I was going\nto say black at first, but\nhe's totally got you pegged.\n{07 14 00}What you need is a little\ncolor to bring out your\ninner warmth.{09 09 00}",
+   "et": ""
+  },
+  {
+   "id": 23,
+   "en": "{09 00 00}{09 08 00}{09 02 00}I've got inner warmth?\nNo one's ever told me that\nbefore! Thanks!\nI have ZERO idea what you're\ntalking about, but it sounds\ncool, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  }
+ ]
+}

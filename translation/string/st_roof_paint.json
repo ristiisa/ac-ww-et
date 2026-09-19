@@ -1,0 +1,85 @@
+{
+ "file": "script/ENG/string/st_roof_paint.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "gray",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "brown",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "red",
+   "et": ""
+  },
+  {
+   "id": 3,
+   "en": "pink",
+   "et": ""
+  },
+  {
+   "id": 4,
+   "en": "orange",
+   "et": ""
+  },
+  {
+   "id": 5,
+   "en": "yellow",
+   "et": ""
+  },
+  {
+   "id": 6,
+   "en": "pale green",
+   "et": ""
+  },
+  {
+   "id": 7,
+   "en": "green",
+   "et": ""
+  },
+  {
+   "id": 8,
+   "en": "dark green",
+   "et": ""
+  },
+  {
+   "id": 9,
+   "en": "turquoise",
+   "et": ""
+  },
+  {
+   "id": 10,
+   "en": "sky blue",
+   "et": ""
+  },
+  {
+   "id": 11,
+   "en": "blue",
+   "et": ""
+  },
+  {
+   "id": 12,
+   "en": "navy blue",
+   "et": ""
+  },
+  {
+   "id": 13,
+   "en": "purple",
+   "et": ""
+  },
+  {
+   "id": 14,
+   "en": "lilac",
+   "et": ""
+  },
+  {
+   "id": 15,
+   "en": "hot pink",
+   "et": ""
+  }
+ ]
+}

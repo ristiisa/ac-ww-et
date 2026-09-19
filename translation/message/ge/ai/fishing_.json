@@ -1,0 +1,65 @@
+{
+ "file": "script/ENG/message/ge/ai/fishing_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "I'm not having any luck, but\nI will NOT give up,\n{01 00 00 05 00}{04 02 00}!\nJust you wait! {01 00 00 05 00}I'll catch\nevery fish there is to\ncatch before I'm done! ",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{0b 03 00}{0b 01 00}{ff 00 00 07}{04 1a 00} {ff 00 00 00}is not\nonly, like, totally sweet in\nthe water,\nbut it makes the cutest\nroom decorations, too!\n{01 00 00 05 00}{0b 03 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "I caught {ff 00 00 07}{04 1a 00}\n{ff 00 00 00}that's so big I can't carry\nit! {01 00 00 05 00}What should I do?",
+   "et": ""
+  },
+  {
+   "id": 3,
+   "en": "If you keep {ff 00 00 07}{04 1a 00}{ff 00 00 00}{01 00 00 05 00}\nfor long enough, will it\nturn into a gigantic whale?\nThat would be so cool,\n{01 00 00 05 00}{04 02 00}.",
+   "et": ""
+  },
+  {
+   "id": 4,
+   "en": "Big fish have gross mouths.\nThey're all huge and slimy,\nbut little ones are OK{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\nThey're small and cute {01 00 00 05 00}like\nme! {01 00 00 05 00}{0b 03 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 5,
+   "en": "What kind of fish do I like?{01 00 00 14 00}\nThe little, cute ones of\ncourse!\nYou know what I mean! Like\n{0b 01 00}{04 1a 00},\n{01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 6,
+   "en": "Grrrr{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} I can't catch\nanything! It's so, so, SO\nANNOYING, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 7,
+   "en": "Oooh! {01 00 00 05 00}There's no way I'm\ngiving up! {01 00 00 05 00}Did you hear me,\nfishies? NO WAY!\nI'm not gonna have any\n{04 19 00} until I\ncatch a fish, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 8,
+   "en": "Hi there!{01 00 00 14 00} I'm {04 01 00}!\nI'm concentrating on\ncatching {ff 00 00 07}{04 1a 00}{ff 00 00 00}.\nSo please stay out of my\nway, OK? But you're welcome\nto watch, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 9,
+   "en": "Nice to meet you!{01 00 00 0a 00}\nI'm {01 00 00 05 00}{04 01 00}!\n\nI'm about ready to hook a\nfish, so I can't really chat\nright now{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\nIf you need someone to\ncatch you {ff 00 00 07}{04 1a 00}{ff 00 00 00},\nI'm your girl!",
+   "et": ""
+  },
+  {
+   "id": 10,
+   "en": "Huh? {01 00 00 0a 00}I've never seen you\nbefore. {01 00 00 14 00}Guess I should{01 00 00 05 00}\nintroduce myself!\nI'm {04 01 00}! At the\nmoment, I'm trying to catch\n{ff 00 00 07}{04 1a 00}{ff 00 00 00}!\nThis is how I make my\nliving, so try to stay out\nof my way, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 11,
+   "en": "{0b 03 00}{04 03 00} is the greatest\nplace to catch fish!\n\nMy name's {04 01 00}!\nI'm trying to catch myself\n{ff 00 00 07}{04 1a 00}!{ff 00 00 00}\nIt would be so totally\ndynamite to catch one.{01 00 00 0f 00}\nCheer me on, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  }
+ ]
+}

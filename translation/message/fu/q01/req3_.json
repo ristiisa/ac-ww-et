@@ -1,0 +1,20 @@
+{
+ "file": "script/ENG/message/fu/q01/req3_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 14 00}Looks like you're not too\nshabby at snagging the old\nbugs, huh, {04 1f 00}?\n{07 0b 00}Are you up for a little\nchallenge? {01 00 00 05 00}Let's see who\ncan catch the rarest bug!\nWe'll be able to experience\nthe thrill of knowing\n{07 0c 00}{01 02 00}\"This is it!\"{01 03 00}{01 00 00 14 00}\n{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 00 00}Assuming, of course, that\nyou catch anything at all.\nSo show me your stuff!\nJust find a bug, and we'll\nsee how rare it is. {01 00 00 05 00}{07 0b 00}Sound\ngood to you, {01 00 00 05 00}{04 02 00}?",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 00 00}I hear you're quite the\nbug catcher, {04 1f 00}.{01 00 00 0a 00}\n{07 0b 00}Are you up for a challenge?\n{07 14 00}What I've got in mind is\nthat you and I see who can\ncatch the rarest bug.\nWhat you want is something\nthat makes you scream out,\n{07 0c 00}\"Eureka! I have found you!\"{01 00 00 0f 00}\n.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}{07 00 00}That's the sort of bug\nI'm talking about. Show\nit to me, and I'll judge it.\n{07 14 00}Whoever has the most rare\nbug wins, {01 00 00 05 00}{04 02 00}.{01 01 00}\n{07 0b 00}Up for it, {01 00 00 0a 00}{04 1f 00}?",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 00 00}{0b 03 00}{04 1f 00}, you seem like\na sensitive sort... I don't\nwanna hurt your feelings.\n{07 15 00}But I've got to know which\nof us is the better bug\nsnatcher, {01 00 00 05 00}{04 02 00}!\n{07 0c 00}I've got it! We'll compete to\nsee who can find the most\nuncommon insect!\n{07 00 00}I'll give you a little time\nto find the most incredibly\nrare bug this season.\nWhen you think you've got\nit, bring it to me, and I'll\nbe the judge, {01 00 00 05 00}{04 02 00}.\n{07 14 00}Once I've seen what you've\ngot, we'll find out who's\nthe mightiest bug hunter!\n{07 0b 00}So, what do you say? Have\nwe got a deal, {01 00 00 05 00}{04 02 00}?",
+   "et": ""
+  }
+ ]
+}

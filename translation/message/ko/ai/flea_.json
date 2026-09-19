@@ -1,0 +1,20 @@
+{
+ "file": "script/ENG/message/ko/ai/flea_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 03 00}{01 00 00 05 00}Huh huh huh huh!{01 00 00 14 00} Don't\nsweat the small stuff!\n\n{07 1b 00}Don't worry about it!{01 00 00 14 00} It's\njust a {ff 00 00 07}flea{ff 00 00 00} or two, right,\n{01 00 00 0a 00}{04 02 00}?!",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 15 00}What's the smart idea?{01 00 00 05 00} Hey!{01 00 00 14 00}\nDon't go catchin' my stuff,\n{04 02 00}!\n{07 00 00}I was enjoying that itchy\nfeeling!{01 00 00 05 00} Scratching is one\nof life's small pleasures!",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 04 00}Oh! {01 00 00 14 00}Hey you!{01 00 00 05 00} Did you catch\nthem for me, {01 00 00 0a 00}{04 02 00}?\nI hope so.\n{07 00 00}I was getting tired of\nscratching.{01 00 00 0a 00} {07 14 00}You saved me, I\nguess, {01 00 00 0a 00}{04 02 00}!",
+   "et": ""
+  }
+ ]
+}

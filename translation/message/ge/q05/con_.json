@@ -1,0 +1,20 @@
+{
+ "file": "script/ENG/message/ge/q05/con_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 14 00}I'm gonna fill my room with\n{ff 00 00 07}{04 0f 00}{ff 00 00 00},\n{01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 14 00}Right now,{01 00 00 05 00}{01 00 00 05 00} I'm ALL ABOUT\n{ff 00 00 07}{04 0f 00}{ff 00 00 00}!{01 00 00 05 00}\nALL.{01 00 00 0a 00} ABOUT.{01 00 00 0a 00} IT.",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 0a 00}I wanna live surrounded by\n{ff 00 00 07}{04 0f 00}{ff 00 00 00}!{01 00 00 0a 00}\nSooo cute!{01 00 00 0a 00} And so FUN!",
+   "et": ""
+  }
+ ]
+}

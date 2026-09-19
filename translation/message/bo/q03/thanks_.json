@@ -1,0 +1,20 @@
+{
+ "file": "script/ENG/message/bo/q03/thanks_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 04 00}Whoa!{01 00 00 05 00} Look at this awesome\n{0b 02 00}{04 1a 00}!\nIt's amazing!\n{07 0c 00}{01 00 00 0a 00}Wait a sec! {01 00 00 0a 00}Did you go out\nand find this{01 00 00 0a 00} for me?\n\n{07 0d 00}Wow!{01 00 00 0a 00} You're the best friend\never!{01 00 00 05 00} Thanks,{01 00 00 05 00} {04 02 00}!\nThat was so nice!",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 04 00}Whoa!{01 00 00 05 00} Neat!{01 00 00 0a 00} Look at that\n{0b 02 00}{04 1a 00}!\n{01 00 00 0a 00}{0b 03 00}{04 02 00}!\n{07 04 00}Wh-what?{01 00 00 0f 00} This is{01 00 00 05 00} for me?\nWow! \n\nNo one's ever given me a\ngift like this before.{01 00 00 0f 00}\nYou're the best!\nI have to find a way to\nrepay you!",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "Woo-hoo!{01 00 00 0f 00} That's the\n{0b 02 00}{04 1a 00} I\nwanted!{01 00 00 0a 00} {0b 03 00}{04 02 00}.\n{07 0e 00}That's amazing, {04 1f 00}!{01 00 00 0a 00}\nYou really have a talent\nfor this.{07 00 00}\nIt's not much, but let me\nshow my thanks!",
+   "et": ""
+  }
+ ]
+}

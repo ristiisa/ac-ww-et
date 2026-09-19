@@ -1,0 +1,20 @@
+{
+ "file": "script/ENG/message/fu/q06/get_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 1d 00}Oh, cool!{01 00 00 0f 00} It's a present\nfrom {ff 00 00 06}{04 0f 00}{ff 00 00 00}. Oh, I'm\nso excited, {01 00 00 05 00}{04 02 00}!\n{07 0d 00}Now THIS makes me happy!{01 00 00 0a 00}\n{07 00 00}{07 14 00}Heck, I can't wait! I'm gonna\nopen it NOW{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 04 00}Hey, look who it is!{01 00 00 0a 00} And\nright on time! {0b 03 00}{ff 00 00 06}{04 0f 00}{ff 00 00 00}\nsaid you were reliable!\nAll right! Enough chitchat!\nLet's get this thing open{01 00 00 05 00}\nRIGHT{01 00 00 05 00} NOW!",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 04 00}Oh, cool! Is this a present\nfrom {ff 00 00 06}{04 0f 00}{ff 00 00 00}?!{01 00 00 0a 00} Wow, \nthis is great, {01 00 00 05 00}{04 02 00}!\n{07 0d 00}And you're even on time and\neverything!{01 00 00 0a 00} Hmmmm... \n{07 0e 00}I wonder what's in it{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.",
+   "et": ""
+  }
+ ]
+}

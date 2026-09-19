@@ -1,0 +1,95 @@
+{
+ "file": "script/ENG/message/ha/tsu/memory_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 16 00}You know what I'd like?{01 00 00 05 00} A\nchance to talk to someone \nwho isn't you. {01 00 00 05 00}No offense{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n{07 00 00}Of course,{01 00 00 05 00} {07 0d 00}it'd be even\nbetter if they could talk\nabout muscles!",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 00 00}You know someone named\n{ff 00 00 05}{04 19 00}{ff 00 00 00}, {04 02 00}?\n{07 0b 00}From{ff 00 00 08} {04 18 00}{ff 00 00 00}?\n{07 14 00}Every time I see that kid,\nI just think to myself:\n\"{04 11 00}\"!{01 00 00 0a 00}\n{07 16 00}It's been {04 0f 00} days since I\nsaw that kid... {01 00 00 05 00}I wonder \n{07 0e 00}how things are goin'{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 00 00}Huh? Wuzzat?{01 00 00 0a 00}\n{07 0b 00}{0b 03 00}{ff 00 00 05}{04 19 00}{ff 00 00 00} from\n{ff 00 00 08}{04 18 00}{ff 00 00 00}?\n{07 00 00}The one who defined the\nphrase \"{04 11 00}\"?{01 00 00 05 00} The\none I couldn't {07 16 00}warm up to?\nWell, I guess it's been,\nlike, {04 0f 00} days since I saw\nthe likes of that kid!",
+   "et": ""
+  },
+  {
+   "id": 3,
+   "en": "{07 00 00}I've been thinking a lot{01 00 00 05 00}\nabout {ff 00 00 08}{04 18 00}{ff 00 00 00} lately.\n\n{07 14 00}While I was there, I'd get\nletters all the time from\na kid named {ff 00 00 05}{04 19 00}{ff 00 00 00}. \nYeah, {01 00 00 05 00}letters just like\nthis, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 4,
+   "en": "{07 14 00}Y'know, I really like the\nphrase \"{ff 00 00 02}{04 10 00}{ff 00 00 00}.\"\nIt just rocks, {01 00 00 05 00}{04 02 00}!\n{07 00 00}I'm dedicated to living life\n\"{ff 00 00 02}{04 10 00}{ff 00 00 00}\"-style!{01 00 00 05 00}\nNo matter where I live...{01 00 00 05 00}\n{07 0a 00}I'll do the same brutal\nworkout schedule I always\ndo, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 5,
+   "en": "{07 00 00}I{01 00 00 05 00} used to live in another\ntown, ya know! {01 00 00 05 00}True story,\n{01 00 00 05 00}{04 02 00}!\n{07 0c 00}Oh yeah!{01 00 00 0f 00} And the town\nsong there {07 14 00}went a li'l\nsomethin' like this!{01 00 00 05 00} Hit it!",
+   "et": ""
+  },
+  {
+   "id": 6,
+   "en": "{07 00 00}The other day I met this\nkid named {ff 00 00 05}{04 19 00}{ff 00 00 00}.\n\n{07 16 00}It was the weirdest thing,\n'cause the kid gave off a\n\"{04 11 00}\" vibe.\n{06 01 00 0f 10 11}",
+   "et": ""
+  },
+  {
+   "id": 7,
+   "en": "{07 0e 00}\"{0b 03 00}{ff 00 00 02}{04 10 00}{ff 00 00 00},\" huh{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n{07 14 00}That's the perfect tag line\nfor me!\n{ff 00 00 02}{07 15 00}{0b 03 00}{04 10 00}{ff 00 00 00}...{ff 00 00 02}{01 00 00 05 00}\n{0b 03 00}{04 10 00}{01 00 00 05 00}{ff 00 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n\n{07 00 00}Whoa{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} That's so rad!{01 00 00 05 00}\n{07 06 00}Saying it over and over{01 00 00 05 00}\nmakes my muscles twitch!",
+   "et": ""
+  },
+  {
+   "id": 8,
+   "en": "{07 04 00}What?{01 00 00 14 00} Hey, hang on!{01 00 00 05 00}\n{07 00 00}Isn't{ff 00 00 05} {04 19 00}{ff 00 00 00}...\n\nYeah!{01 00 00 05 00} It's that kid that\nlives with you, {07 0b 00}right?{01 00 00 05 00}\nTotally, {01 00 00 05 00}{04 02 00}!\n{07 00 00}Yeah, well, for some reason\nyour roomie sent me this\nletter the other day{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.",
+   "et": ""
+  },
+  {
+   "id": 9,
+   "en": "{07 00 00}The other day I got a\nletter from some kid{01 00 00 05 00} named\n{ff 00 00 05}{04 19 00}{ff 00 00 00}!{ff 00 00 05}\n{ff 00 00 00}{07 14 00}Hey, {01 00 00 05 00}you oughta check it\nout, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 10,
+   "en": "{07 14 00}The other day, some kid\nnamed {ff 00 00 05}{04 19 00} {ff 00 00 00}gave me\n{04 1b 00}!\n{07 00 00}The first thing that popped\ninto my head was, like,\n\"{04 11 00},\" but...\n{07 15 00}Then I realized, that kid\nwas pretty dang gutsy,\n{01 00 00 05 00}{04 02 00}!{03 01 00 01}",
+   "et": ""
+  },
+  {
+   "id": 11,
+   "en": "{07 00 00}I heard{01 00 00 05 00} that kid didn't\nlike writing letters, but...\n\n{07 14 00}I guess everyone lets loose\nwhen their hearts say so.{01 00 00 05 00}\nIt's all good, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 12,
+   "en": "{07 00 00}Every time I hear this,{01 00 00 05 00}\nI think of that kid who was\nable to keep up with me...\nYeah, never batted an eye\nwhen I talked about how I\nlike to {04 22 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}",
+   "et": ""
+  },
+  {
+   "id": 13,
+   "en": "{07 03 00}Oh, man, isn't that a RIOT?!{01 00 00 14 00}\nLooks like a worm was\nbreak-dancing on it!\n{07 15 00}Wait, if that kid abused a\nworm...{01 00 00 05 00}I'd slug that fool!{01 01 00}\n{07 03 00}War har har har!",
+   "et": ""
+  },
+  {
+   "id": 14,
+   "en": "{07 14 00}Who cares what it says?!{01 00 00 05 00}\nIf the passion is there,\nTHAT'S what matters!\n{07 15 00}You know, you could learn\na thing or two from this\nkid, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 15,
+   "en": "{07 14 00}Nah, {01 00 00 05 00}I didn't really mean\nanything by it,\n{01 00 00 05 00}{04 02 00}.",
+   "et": ""
+  },
+  {
+   "id": 16,
+   "en": "{07 00 00}Well, {01 00 00 05 00}that's the kind of\nkid who could keep up with\nme!{01 00 00 05 00} {07 14 00}King Squat-Thrust!",
+   "et": ""
+  },
+  {
+   "id": 17,
+   "en": "{07 13 00}Maybe we could become\nsparring partners and have{01 00 00 05 00}\nchats with our fists!",
+   "et": ""
+  }
+ ]
+}

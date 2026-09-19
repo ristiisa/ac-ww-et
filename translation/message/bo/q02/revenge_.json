@@ -1,0 +1,20 @@
+{
+ "file": "script/ENG/message/bo/q02/revenge_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 00 00}I'm gonna try a lot harder\nnext time,{01 00 00 05 00}{07 14 00} so come back\nand we'll do this again, OK?",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 14 00}I won't lose next time,{01 00 00 05 00}\n{04 02 00}!{01 00 00 05 00} I swear!",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 00 00}The next time we do this,{01 00 00 05 00}\nI'm actually gonna try!{01 00 00 05 00} We'll\nsee who wins then!",
+   "et": ""
+  }
+ ]
+}

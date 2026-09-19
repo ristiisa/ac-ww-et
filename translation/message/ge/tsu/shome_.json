@@ -1,0 +1,80 @@
+{
+ "file": "script/ENG/message/ge/tsu/shome_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{06 04 00 03 04 05 06}",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{06 04 00 07 08 09 0a}",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 00 00}{0b 03 00}{04 1f 00}, I'm wondering...{01 00 00 05 00}\n{07 0b 00}What size of house do you\nprefer?{05 05 00 04 0b 08 0c 01 0d 03 0e}\nA big one!\nSmall!",
+   "et": ""
+  },
+  {
+   "id": 3,
+   "en": "{07 14 00}Hey, I gotta tell you, your\nhouse is so small and\nadorable, {01 00 00 05 00}{04 02 00}!\n{07 16 00}Oh no, {01 00 00 05 00}I didn't mean that\nin a BAD way!\n\n{07 06 00}I seriously think it's cute,\n{01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 4,
+   "en": "{07 15 00}I saw it, {04 1f 00}!{01 00 00 05 00} Yup,\nI saw it!\n\n{07 1a 00}Your place! {01 00 00 05 00}It got bigger!{01 01 00}\n{07 14 00}What kind of black magic\nis that, {01 00 00 05 00}{04 02 00}?!\n{07 06 00}Aiiiigh!{01 00 00 05 00} I've gotta know,\n{01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 5,
+   "en": "{07 02 00}H-{01 00 00 05 00}hey!{01 01 00} {07 06 00}Your house!{01 00 00 05 00} It, like,\ngrew a second floor!{01 00 00 05 00} How is\nthat even POSSIBLE?!\n{07 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 04 00}WHAT?!{01 00 00 05 00} {ff 00 00 06}Tom Nook {ff 00 00 00}built\nthat addition?!\n\n{07 16 00}{ff 00 00 06}Tom Nook{ff 00 00 00}, huh...{01 00 00 05 00} Well, why\ndoesn't he do the same to\nmy house?!\n{07 06 00}Life is SO not fair,\n{01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 6,
+   "en": "{07 06 00}Ooh! {01 00 00 05 00}Ooh! {01 00 00 05 00}{0b 03 00}{04 1f 00}!{01 00 00 0a 00}\nHey, {04 1f 00}!\n\n{07 06 00}Your house, {04 02 00}!{01 00 00 05 00}\nWhat the heck's going on?!{01 00 00 0a 00}\nIt got SOOOO big!\n{07 0d 00}When you remodel your\nhouse next time, build me\nan exercise room, OK?",
+   "et": ""
+  },
+  {
+   "id": 7,
+   "en": "{07 14 00}Your house is{01 00 00 05 00} so nice and\ncompact, huh?\n\nIn such a small space,{01 00 00 05 00} I bet\nthe air conditioner works\ngreat, huh, {01 00 00 05 00}{04 02 00}?",
+   "et": ""
+  },
+  {
+   "id": 8,
+   "en": "{07 04 00}Oh, hey, {04 1f 00}!{01 00 00 14 00} {07 1a 00}Your\nplace got bigger, huh?{01 00 00 05 00} Nice,\n{01 00 00 05 00}{04 02 00}!\n{07 0b 00}Of course, you're planning \nto make it even bigger,\nI assume?\n{07 06 00}Yeah, you don't seem like\nyou'd be satisfied with this\nsize!",
+   "et": ""
+  },
+  {
+   "id": 9,
+   "en": "{07 00 00}Whoa, {04 1f 00}, your\nhouse is{01 00 00 05 00} {07 0b 00}two stories high\nnow, {01 00 00 05 00}{04 02 00}?!\n{07 0f 00}Aw, even if I work my whole\nlife, I'd never be able\nafford that{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}",
+   "et": ""
+  },
+  {
+   "id": 10,
+   "en": "{07 00 00}{0b 03 00}{04 1f 00}, your house!{01 00 00 05 00}\n{07 14 00}Wowzer, it really got big,\n{01 00 00 05 00}{04 02 00}!\n{07 16 00}Until now, I was OK just \npopping in whenever, {01 00 00 05 00}but\nnow I'm a little nervous!\n{07 00 00}As a housewarming gift,\n{07 0b 00}should I bring expensive \n{04 13 00}?\n{07 0f 00}Well, {01 00 00 05 00}of course, there's no\nway I can afford something \nlike that{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{04 02 00}.",
+   "et": ""
+  },
+  {
+   "id": 11,
+   "en": "{07 04 00}Huh! {01 00 00 05 00}Is that a fact!{01 00 00 14 00}\n{07 14 00}Well, I gotta say, I totally\nagree with that!\n{07 16 00}But you know what I DON'T\nagree with?{01 00 00 05 00} That tiny\nespresso cup at the cafe!\n{07 06 00}That thing just gets me so\ndarn ANGRY, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 12,
+   "en": "{07 04 00}Ah! Gotcha! Nice!{01 00 00 0a 00} {07 16 00}So,\n{04 1f 00}, {01 00 00 05 00}you prefer\nthe common touch...\n{07 00 00}Well, as you might know,\nI plan to be a star looked\nup to by common folk...\n{07 11 00}Looks like you and I might\nbe sorta in competition,\n{01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 13,
+   "en": "{07 02 00}All I can say is WOW!{01 00 00 14 00}\n{07 1a 00}{0b 03 00}{04 1f 00}, you are \nso cool, {01 00 00 05 00}{04 02 00}!\n{07 00 00}A space not too big and not\ntoo small,{01 00 00 05 00} and also not too\nwide and not too narrow{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 14 00}A subtle space, as they\nsay.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} I had no idea you\nwere so hip, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 14,
+   "en": "{07 16 00}Now, listen, {01 00 00 05 00}{04 1f 00}!{01 00 00 14 00}\nJust big isn't good enough!\n\n{07 14 00}Unless you're talking about\na heart. {01 00 00 05 00}Those are always\nbetter bigger, {01 00 00 05 00}{04 02 00}!\n{07 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 06 00}I just said something SO\ndeep!{01 00 00 05 00} Quick, write that\ndown, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  }
+ ]
+}

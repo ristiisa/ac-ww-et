@@ -1,0 +1,20 @@
+{
+ "file": "script/ENG/message/fu/q01/pay_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 00 00}In exchange for your\n{0b 02 00}{04 1a 00}, I'll\ngive you this, {01 00 00 05 00}{04 02 00}.\n{07 14 00}From my very own stash,\nI present to you my\n{0b 02 00}{04 1b 00}.",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 14 00}Well, here. Please take my\n{0b 02 00}{04 1b 00} in\nthanks for finding the bug.",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 00 00}Here, I want to give you my\n{0b 02 00}{04 1b 00} as\na trade, {01 00 00 05 00}{04 02 00}.",
+   "et": ""
+  }
+ ]
+}

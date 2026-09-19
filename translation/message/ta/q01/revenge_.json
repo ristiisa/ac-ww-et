@@ -1,0 +1,20 @@
+{
+ "file": "script/ENG/message/ta/q01/revenge_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 15 00}Don't you sass me, 'cause\nI'm gonna knock your socks\noff next time!\nYou'll be crying and running\naround barefoot. {01 00 00 05 00}We'll see\nwho's sassing who then!",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 1c 00}I lost to you?!{01 01 00} {07 1b 00}Those\nopposable thumbs you have\nreally help, huh?",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "I-{01 00 00 0a 00}I'm going to do some\nmore research on bugs!\n\nLet's have a rematch\nsomeday, OK, {01 00 00 0a 00}{04 02 00}?",
+   "et": ""
+  }
+ ]
+}

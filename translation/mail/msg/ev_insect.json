@@ -1,0 +1,35 @@
+{
+ "file": "script/ENG/mail/msg/ev_insect.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "The winner is {04 13 00}!\nYour amazing {04 12 00}-mm\n{04 11 00} gave\nus all the heebie-jeebies!",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "Well caught, {04 13 00}!\nThat {04 12 00}-mm\n{04 11 00} has\nstunned us all! Congrats!",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{0b 03 00}{04 13 00} is the MVP of\ninsects! That {04 12 00}-mm\n{04 11 00}? It's\njust insane! Well played!",
+   "et": ""
+  },
+  {
+   "id": 3,
+   "en": "Nice try, {04 13 00}! You\ndidn't win, but your brave\neffort brought a tear to\nour collective eye!",
+   "et": ""
+  },
+  {
+   "id": 4,
+   "en": "{0b 03 00}{04 13 00}, you are the\nrunner-up! Your passion\nfor bugs is impressive!\nBetter luck next time!",
+   "et": ""
+  },
+  {
+   "id": 5,
+   "en": "Oooo...runner-up! Doesn't\nthat sting, {04 13 00}?\nWe know you can win next\ntime! Never give up!",
+   "et": ""
+  }
+ ]
+}

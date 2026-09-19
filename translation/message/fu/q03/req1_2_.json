@@ -1,0 +1,20 @@
+{
+ "file": "script/ENG/message/fu/q03/req1_2_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 00 00}Lately, I've become very \ninterested in collecting\nfossils, {01 00 00 05 00}{04 02 00}.\n{07 06 00}The more I find, the more I\nwant!{01 00 00 05 00} I know that sounds\nodd, but I can't help it.\n{07 16 00}I hope I find one today!{01 01 00}\nIf I don't, the whole day\nwill be a bit of a waste.",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 14 00}I just love, love, LOVE\ncollecting ancient fossils,\n{01 00 00 05 00}{04 02 00}!\n{07 0e 00}I'm not exactly sure why{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 05 00}\nOh well! {07 0a 00}Sometimes you \ndon't need a reason, right?\n{07 17 00}Say, {04 1f 00}, would you\nwant to help me find a{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.{01 01 00}\n{07 06 00}Um...{01 00 00 0f 00}never mind.{01 00 00 0f 00} Sorry.",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 00 00}{0b 03 00}{04 1f 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} {07 0b 00}What do you\nthink of {01 00 00 05 00}fossils?{01 00 00 05 00} Do you\nlike 'em, {04 02 00}?\n{07 00 00}Some people think they're\ngross.{01 00 00 05 00} ...I guess I\ncan understand that.\n{07 19 00}They are bones, after all.{01 00 00 05 00}\nAnd bones can be kinda\ncreepy{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 06 00}But me personally, I just\nlove fossils! They're so\ndarn interesting!\n{07 14 00}{0b 03 00}{04 1f 00}, you should\nhelp me improve my fossil\ncollection, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  }
+ ]
+}

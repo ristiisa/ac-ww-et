@@ -1,0 +1,20 @@
+{
+ "file": "script/ENG/message/fu/q06/over_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 00 00}{07 1a 00}Sooooooo{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}this is kind of\nawkward, buuuut{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n\n{07 16 00}It's way past the delivery\ntime, {04 02 00}.\n\n{07 0f 00}Yeah, I told {ff 00 00 06}{04 10 00} {ff 00 00 00}\nwhat time it was coming\nand everything, so{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\nI guess I'll just do it\nmyself.{01 00 00 0f 00} Here, let me take\nthat from you.",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 16 00}Um, so, about the present's\ndelivery time?{01 00 00 0f 00} It's way\noverdue{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} Waaaaay overdue.\n{07 0f 00}You know, {04 1f 00}, I\nthought you would keep\nyour word...\n{07 00 00}But, I guess I'll just do\nit myself, {01 00 00 05 00}{04 02 00}.{01 00 00 14 00} I'll\ntake the present back now.",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 04 00}Ahhhhhhhhh!!\n{07 02 00}{0b 03 00}{ff 00 00 06}{04 10 00}{ff 00 00 00}'s present!!{01 01 00}\nYou haven't delivered it!\nOh, now it's really late,\n{01 00 00 05 00}{04 02 00}!!\n\n{07 0f 00}Now I have to go visit\n{ff 00 00 06}{04 10 00} {ff 00 00 00}and apologize.{01 00 00 0f 00}\nHere.{01 00 00 05 00} Give me the present.",
+   "et": ""
+  }
+ ]
+}

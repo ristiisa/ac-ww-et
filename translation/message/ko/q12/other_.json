@@ -1,0 +1,20 @@
+{
+ "file": "script/ENG/message/ko/q12/other_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 15 00}Hey,{01 00 00 05 00} you had no idea that\nI was sick, huh?\nEh, {01 00 00 05 00}{04 02 00}???\n{07 16 00}There I was, laying in bed,\nagonizing while some stupid\ncold clobbered me silly.\n{07 06 00}But I'm all better now\nthanks to the {ff 00 00 07}medicine{ff 00 00 00}\n{ff 00 00 05}{04 10 00}{ff 00 00 00} brought me!\n{07 01 00}But you{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} You had no idea\nI was sick. {01 00 00 05 00}I'm sure it was\nan honest mistake.",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 00 00}I was violently sick for\na while.{01 00 00 05 00} I never knew my\nbody could do...what it did.\n{07 16 00}But because {ff 00 00 05}{04 10 00} \n{ff 00 00 00}took such good care of me,{01 00 00 05 00}\nI was able to recover.\n{07 07 00}It was pretty touch and go\nthere for a while{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n\n{07 14 00}But, {01 00 00 05 00}then again, you had no\nidea,{01 00 00 0f 00} did you?\n\n{07 01 00}{01 08 00}DID YOU, {01 00 00 05 00}{04 02 00}?!",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 16 00}Man, {01 00 00 05 00}that was the worst!\n{01 00 00 05 00}{0b 03 00}{04 02 00}!\n\n{07 00 00}So, I caught the flu in the\nworst way.\n\nYou know, I write the names\nof people who do nice\nthings for me on a list.\n{07 19 00}Like{ff 00 00 05} {04 10 00}{ff 00 00 00}, for\nexample. {01 00 00 05 00}That kid's even\ngot a gold star{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 04 00}Oh, my!{01 00 00 0f 00} What's this?{01 01 00}\n{07 06 00}Next to your name is a\nskull and crossbones!",
+   "et": ""
+  }
+ ]
+}

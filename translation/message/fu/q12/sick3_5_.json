@@ -1,0 +1,115 @@
+{
+ "file": "script/ENG/message/fu/q12/sick3_5_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 07 00}I{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}don't feel so good.\nI don't wanna be sick\nanymore.{01 00 00 05 00}.{01 00 00 05 00}.",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 0f 00}I hate being sick. {01 00 00 05 00}I hate\nthe way snot drips down my\nthroat. {01 00 00 05 00}I hate everything.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 07 00}I wish I had some {ff 00 00 07}medicine{ff 00 00 00}.\nMaybe that would help.{01 00 00 05 00}.{01 00 00 05 00}.",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 07 00}I feel really woozy.{07 07 00} I think\nI'm gonna hurl.{07 07 00} I wish I had\nsome {ff 00 00 07}medicine{ff 00 00 00}.",
+   "et": ""
+  },
+  {
+   "id": 3,
+   "en": "{07 07 00}Ugh.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} I feel like somebody\nstuffed my head full of\ncotton.",
+   "et": ""
+  },
+  {
+   "id": 4,
+   "en": "{07 07 00}H{01 00 00 05 00}e{01 00 00 05 00}l{01 00 00 05 00}p{01 00 00 05 00} m{01 00 00 05 00}e{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.",
+   "et": ""
+  },
+  {
+   "id": 5,
+   "en": "{07 07 00}Don't worry. I'm not\ncontagious. At least, I\ndon't think so.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} {01 08 00}ACHOO!",
+   "et": ""
+  },
+  {
+   "id": 6,
+   "en": "{07 07 00}You're so cold.{01 00 00 05 00}.{01 00 00 05 00}.",
+   "et": ""
+  },
+  {
+   "id": 7,
+   "en": "{07 16 00}{ff 00 00 07}Medicine{ff 00 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} I need some\n{ff 00 00 07}medicine{ff 00 00 00}!",
+   "et": ""
+  },
+  {
+   "id": 8,
+   "en": "{07 04 00}Is that medicine? {01 00 00 0f 00}{07 07 00}You\nbrought it for me?\nI'm.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}so glad.{01 00 00 05 00}.{01 00 00 05 00}.",
+   "et": ""
+  },
+  {
+   "id": 9,
+   "en": "{07 16 00}Ohhh.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} That's so much\nbetter.",
+   "et": ""
+  },
+  {
+   "id": 10,
+   "en": "{07 0f 00}You gave me hope, only to\nsteal it away from me!{01 00 00 05 00} How\ncruel.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} {01 08 00}Achoo!",
+   "et": ""
+  },
+  {
+   "id": 11,
+   "en": "{07 04 00}What?{01 00 00 0f 00} {07 0f 00}But I thought you\nwere going to bring me\nsome {ff 00 00 07}medicine{ff 00 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.",
+   "et": ""
+  },
+  {
+   "id": 12,
+   "en": "{ff 00 00 06}{07 07 00}Nook{ff 00 00 00} should have some\n{ff 00 00 07}medicine{ff 00 00 00}.{01 00 00 05 00}.{01 00 00 05 00}. {01 00 00 05 00}Go.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}see.{01 00 00 05 00}.{01 00 00 05 00}.{ff 00 00 06}Nook{ff 00 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.",
+   "et": ""
+  },
+  {
+   "id": 13,
+   "en": "{07 0f 00}How.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} How could you?",
+   "et": ""
+  },
+  {
+   "id": 14,
+   "en": "{07 0f 00}Am I just feverish? {01 00 00 05 00}I could\nswear you had some\n{ff 00 00 07}medicine{ff 00 00 00} right there.{01 00 00 05 00}.{01 00 00 05 00}.",
+   "et": ""
+  },
+  {
+   "id": 15,
+   "en": "{07 15 00}How could you be so mean\nto someone so sick!",
+   "et": ""
+  },
+  {
+   "id": 16,
+   "en": "{07 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n\n\n{07 14 00}Phew!{01 00 00 14 00} That stuff works\nfast! I don't feel like I'm\ngoing to pass out anymore!",
+   "et": ""
+  },
+  {
+   "id": 17,
+   "en": "{07 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n\n\nI can't believe how much\nbetter I feel already!{01 00 00 14 00}\n{07 14 00}Thanks, {04 1f 00}.",
+   "et": ""
+  },
+  {
+   "id": 18,
+   "en": "{07 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n\n\nI feel so much better now!{01 00 00 14 00}\nMaybe you should also have\nsome.{01 00 00 05 00} You look a bit pasty.",
+   "et": ""
+  },
+  {
+   "id": 19,
+   "en": "{07 14 00}From now on, I'll be sure to\ncheck the expiration dates\non the food in my fridge!",
+   "et": ""
+  },
+  {
+   "id": 20,
+   "en": "{07 14 00}Thank you! It's nice to have\na friend who doesn't run\nscreaming when I get sick.",
+   "et": ""
+  },
+  {
+   "id": 21,
+   "en": "{07 0a 00}Ever since you brought me\nthat {ff 00 00 07}medicine{ff 00 00 00}, I've felt so\nmuch better, {01 00 00 05 00}{04 02 00}!\n{07 14 00}Thanks for caring about\nme, which is more than I\ncan say for SOME friends.",
+   "et": ""
+  }
+ ]
+}

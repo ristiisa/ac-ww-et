@@ -1,0 +1,60 @@
+{
+ "file": "script/ENG/message/ko/q10/layout_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 00 00}Look, I love me the useless\njunk.\n\n{07 15 00}But, {01 00 00 05 00}{04 02 00}, don't you\nthink your house is\ncluttered enough?\n{07 00 00}If I was one of the {ff 00 00 02}Happy\nRoom Academy{ff 00 00 00} judges...\n\n{07 15 00}I'd give you {04 12 00} out\nof five stars! {01 01 00}{07 05 00}{01 08 00}AND THAT\nWOULD BE IT!",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 0b 00}Mind if I point something\nout to you, {01 00 00 05 00}{04 1f 00}?{01 00 00 05 00}\nGood, {01 00 00 05 00}{04 02 00}.\n{07 15 00}If you're not using\nsomethin', {01 00 00 05 00}PUT IT AWAY!\nLike in a closet!\n{07 00 00}I'd rate your room\n{04 12 00} out of five\nstars.{01 01 00} {07 15 00}Needs work!",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 00 00}I'd say your room deserves\n{04 12 00} out of five\nstars.\n{07 0e 00}I don't know how to say\nthis nicely, {07 15 00}so I won't.{01 00 00 05 00}\nYou've got too much JUNK!\n{07 15 00}Use your noggin and\narrange stuff the right\nway, {01 00 00 05 00}{04 02 00}.",
+   "et": ""
+  },
+  {
+   "id": 3,
+   "en": "{07 15 00}C'mon, {04 1f 00}, get with\nthe program!\n\nWhy have you got perfectly\nusable furniture facing\nthe wrong way?!\n{07 15 00}Your room hardly deserves\n{04 12 00} out of five\nstars, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 4,
+   "en": "{07 19 00}Hm{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0f 00} Yep, I think I'd give\nyou{01 00 00 05 00} {04 12 00} out of five\nstars.\n{07 00 00}It's not a total disaster,\nbut you're still missing\nsome basic stuff.\n{07 0e 00}You know, like a bed,\ndresser, or table{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.\n\n{07 00 00}Man, you really gotta work\non the whole atmosphere\nthing!",
+   "et": ""
+  },
+  {
+   "id": 5,
+   "en": "{07 00 00}Hey, {07 0b 00}do you even know what\nthe basic essentials are?\n\n{07 14 00}That stuff really pulls\nthe room together,\n{01 00 00 05 00}{04 02 00}!\n{07 15 00}But as long as you don't\nhave 'em, all I can give you\nis {04 12 00} out of five.",
+   "et": ""
+  },
+  {
+   "id": 6,
+   "en": "{07 00 00}It's natural to want to\ncollect stuff.\n\n{07 14 00}But if you're gonna do it,{01 00 00 05 00}\nat least go with a theme\nor something, {01 00 00 05 00}{04 1f 00}.\n{07 00 00}No offense or anything,\nbut I'd give your room\n{04 12 00}. Out of five.\n{07 15 00}Maybe you should take my\nadvice for once if you\nwanna get a better score.",
+   "et": ""
+  },
+  {
+   "id": 7,
+   "en": "{07 19 00}Hmmm.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0f 00} I'd give your room\n{04 12 00} out of five\nstars!\n{07 00 00}It's not that bad, but{01 00 00 05 00}\nyou need to spice it up\na little!\n{07 0e 00}You know what would help?\nUsing lots of items from\none collection{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 00 00}Show people that you've\ngot good taste,\n{01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 8,
+   "en": "{07 04 00}Your room is kinda nice,\n{07 14 00}{01 00 00 05 00}{04 02 00}!\n\n{07 00 00}If it were up to me, \nI'd give you {04 12 00} out\nof five stars!\n{07 15 00}But if you wanna make it\neven better, try collecting\na furniture set!",
+   "et": ""
+  },
+  {
+   "id": 9,
+   "en": "{07 0d 00}You got a good thing goin'\non in your room here,\n{01 00 00 05 00}{04 1f 00}!\n{07 00 00}If it were up to me,\n{01 00 00 05 00}I'd score it {04 12 00}\nout of five stars!\n{07 14 00}But it won't get any\nhigher unless you finish\na furniture series.",
+   "et": ""
+  },
+  {
+   "id": 10,
+   "en": "{07 00 00}All I can say about your\nroom is{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} It's perfect!\n\n{07 15 00}You get {04 12 00} out of\nfive!{01 01 00} That's the highest\nscore I give, {01 00 00 05 00}{04 1f 00}!\n{07 1b 00}I'm impressed.{01 00 00 05 00} I didn't\nthink you had it in you.\n\n{07 1a 00}Way to go!{01 00 00 14 00} I've seen a lot\nof rooms in my day, and\nyours is the best by far.",
+   "et": ""
+  }
+ ]
+}

@@ -1,0 +1,15 @@
+{
+ "file": "script/ENG/message/ha/q03/end_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 14 00}Thanks to you, {04 1f 00},\nI've got a ton of fossils!{01 00 00 05 00}\nIt rocks, {04 02 00}!\n{07 15 00}You {01 00 00 05 00}are the true fossil-\nfinding machine!{01 00 00 05 00} You can't\nbe stopped, just contained!\n{07 0d 00}I'm animal enough to admit\nthat, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 14 00}Yo yo, {ff 00 00 05}{04 1f 00}{ff 00 00 00}!{01 00 00 0a 00}\nThanks for the help with\nall the fossil collecting!\n{07 00 00}We sure did get a boat-load\nof rocks, {01 00 00 05 00}{04 02 00}!\n\n{07 14 00}I betcha I can even do a\ngood {ff 00 00 06}Blathers {ff 00 00 00}imitation\nnow! Hold on!{01 00 00 05 00} Hold on{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 04 00}Crud!{01 00 00 0a 00} I can't do it!{01 00 00 05 00}\n\n\n{07 06 00}I'll never remember all the\nfossil names!{01 00 00 05 00} They're too\nlong! {01 00 00 05 00}My brain, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  }
+ ]
+}

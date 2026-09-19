@@ -1,0 +1,115 @@
+{
+ "file": "script/ENG/message/ko/tsu/se_act_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "When life beans you with a\ncurveball, you should go to\nthe beach, {01 00 00 05 00}{04 02 00}!\n{06 01 00 08 09 0a}",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "Hey {04 1f 00},{01 00 00 0f 00} don't you\nthink the sea is really\nhuge, {01 00 00 05 00}{04 02 00}?\n{06 00 00 12 13}",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "You wanna go \n{07 0b 00}{04 22 00} with me\nsometime, {01 00 00 05 00}{04 02 00}?\n{06 09 00 0b 0c 0d}",
+   "et": ""
+  },
+  {
+   "id": 3,
+   "en": "{06 00 00 14 15}",
+   "et": ""
+  },
+  {
+   "id": 4,
+   "en": "Get a whiff of that, kid!{01 00 00 05 00}{07 14 00}\nSalty sea air is so\ninvigorating, {01 00 00 05 00}{04 02 00}.\n{07 16 00}Maybe I shouldn't drink so\nmuch seawater, though. {01 00 00 05 00}It's\nnot so refreshing...",
+   "et": ""
+  },
+  {
+   "id": 5,
+   "en": "{07 0b 00}Ever wanna go to the beach\nso badly that you think\nyour head's gonna 'splode?{02 00 00 0e 0f}\nTotally!\nNot so much.",
+   "et": ""
+  },
+  {
+   "id": 6,
+   "en": "{0b 03 00}I like to {04 22 00},\nbut I was in the mood to go\nto the beach today.\nRelaxing on the beach will\ncure anyone's nasty mood.\n\n{07 15 00}Don't forget that! It's one \nof {04 01 00}'s rules to \nlive by, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 7,
+   "en": "Some of my best schemes \nhave been hatched while\nspacing out at the beach.\n{06 00 00 10 11}",
+   "et": ""
+  },
+  {
+   "id": 8,
+   "en": "{07 00 00}We're nothin' compared to\nthe wonder of the big blue\nsea, {01 00 00 05 00}{04 02 00}!\n{07 19 00}Think on that for a while\nnext time you think you're\nall that, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 9,
+   "en": "{07 14 00}Think of the beach as the\nset of a big-budget movie.\n\n{07 00 00}You're the star, and\nthere's a huge spotlight\nshining on you, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 10,
+   "en": "{07 0b 00}Me?{01 00 00 0f 00} Naw, I'm not\nsleepy, {01 00 00 05 00}{04 02 00}!\n\n{07 19 00}I'm just kickin' back and\nchilling out on the beach, \n{01 00 00 05 00}{04 02 00}.",
+   "et": ""
+  },
+  {
+   "id": 11,
+   "en": "{07 15 00}Man, I hate it when people \nyap on and on using words \nlike \"calm\" and \"soothing.\"\n{07 00 00}That's all a bunch of \nhogwash if ya ask me, \n{01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 12,
+   "en": "{07 19 00}I like to {04 22 00}\nwhile being pelted by rain.{01 00 00 0f 00}\nWithout an umbrella{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 14 00}It's my style.{01 00 00 0f 00} I'm just\nhardcore like that,\n{01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 13,
+   "en": "{07 00 00}I like to {04 22 00}\nduring snowstorms{01 00 00 0f 00} until my\nhands are frozen solid{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 14 00}It's a battle of endurance{01 00 00 05 00}\nand a test of will,\n{01 00 00 05 00}{04 02 00}.",
+   "et": ""
+  },
+  {
+   "id": 14,
+   "en": "{07 00 00}That means you're just a\nbig baby{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n\n{07 19 00}Either that, or a grown-up\nwho has a boring life!{01 00 00 0f 00}\nWhich is it, {01 00 00 05 00}{04 02 00}?",
+   "et": ""
+  },
+  {
+   "id": 15,
+   "en": "{07 01 00}BAH!{01 00 00 0f 00} .{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 16 00}You'll understand\n{01 00 00 0f 00}when you grow up,\n{01 00 00 05 00}{04 02 00}.",
+   "et": ""
+  },
+  {
+   "id": 16,
+   "en": "{07 00 00}That's why that \nphilosophizing otter is \nalways staring out to sea.\nHe's doing some deep diving\nin his brain, thinking...\n{01 00 00 05 00}{04 02 00}.",
+   "et": ""
+  },
+  {
+   "id": 17,
+   "en": "{07 14 00}After I {04 22 00}\nall day,{01 00 00 05 00} I come here, \n{01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 18,
+   "en": "{07 15 00}And you're small too!{01 01 00}\n{07 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}I guess I'm just like you,\n{01 00 00 05 00}{04 02 00}.",
+   "et": ""
+  },
+  {
+   "id": 19,
+   "en": "{07 00 00}Man, I have to admire{01 00 00 05 00}\nsomebody that just doesn't\ngive a rip, {01 00 00 05 00}{04 02 00}.\nYou know, somebody who\njust lives their life the\nway they want to!",
+   "et": ""
+  },
+  {
+   "id": 20,
+   "en": "{07 16 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}Ahhh, memories{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{0b 03 00}{01 00 00 05 00}{04 02 00}.\n\n.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}Whenever I visit the sea,\nI can't help getting all \nsoft and sentimental!",
+   "et": ""
+  },
+  {
+   "id": 21,
+   "en": "{07 00 00}The savory bass fillet I\neat after I\n{04 22 00} all day{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 0e 00}And the after-dinner cuppa\n{04 13 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 01 00} {07 0a 00}There\nain't nothin' better!",
+   "et": ""
+  }
+ ]
+}

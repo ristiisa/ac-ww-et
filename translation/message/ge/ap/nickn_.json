@@ -1,0 +1,35 @@
+{
+ "file": "script/ENG/message/ge/ap/nickn_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 14 00}Hi! What's up, {01 00 00 05 00}{04 1f 00}?\n{01 00 00 05 00}{0b 03 00}{04 02 00}!\n\n{07 00 00}Hey, guess what? I totally {01 00 00 05 00}\nthought of the CUTEST new\nnickname for you!\n{07 0b 00}Wanna hear it???",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 16 00}What?!{01 00 00 0a 00} Seriously?{01 00 00 0a 00} Oh, wow,\nthat's really COLD!",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 14 00}OK, here it is!{01 00 00 0a 00} Your new \n{07 00 00}AWESOME nickname is{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n\n{07 0d 00}{0b 03 00}\"{ff 00 00 02}{04 0f 00}{ff 00 00 00}\"!!!{01 01 00} {07 0b 00}Isn't it\njust the coolest thing\never, {01 00 00 05 00}{04 02 00}? Yup yup!",
+   "et": ""
+  },
+  {
+   "id": 3,
+   "en": "{07 16 00}Huh?!{01 00 00 0a 00} You don't like it? \nOh wow, total bummer.{01 00 00 05 00} I was\nthinking it was so great...\n{07 15 00}Well, FINE then! What kind of\nlame nickname DO you want,\n{01 00 00 05 00}{04 02 00}?!",
+   "et": ""
+  },
+  {
+   "id": 4,
+   "en": "{07 00 00}{0b 03 00}\"{ff 00 00 02}{04 0f 00}{ff 00 00 00}\"?{01 01 00} Seriously,\n{01 00 00 05 00}{04 02 00}?\n\n{07 16 00}Well...I dunno.{01 00 00 0a 00} It seems\nkinda dull to me.{01 00 00 0a 00} {07 0b 00}Do YOU\nlike it??",
+   "et": ""
+  },
+  {
+   "id": 5,
+   "en": "{07 14 00}OK then!{01 00 00 05 00} Done!{01 00 00 0a 00} Hooray! From\nnow on, you're always gonna\nbe {ff 00 00 02}{04 1f 00}{ff 00 00 00}!\n{07 0d 00}I just know it will make you\nSUPER popular with people,\n{01 00 00 05 00}{04 02 00}! Yay, nicknames!{03 01 00 00}",
+   "et": ""
+  }
+ ]
+}

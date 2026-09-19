@@ -1,0 +1,20 @@
+{
+ "file": "script/ENG/message/fu/q07/show_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 14 00}Psst!{01 00 00 0a 00} {0b 03 00}{04 1f 00}, I'll show\nit to you...{01 00 00 0a 00} But ONLY you!{01 00 00 0f 00}\nDon't tell anyone!",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 14 00}I like you, {01 00 00 05 00}{04 02 00}, so{01 00 00 0f 00}\nI'm going to show you my\nletter{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} Ready?",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 14 00}Shhhhhh! {0b 03 00}{04 1f 00}, I'll\nshow you the letter, OK?{01 00 00 05 00}\nIt'll be our little secret!",
+   "et": ""
+  }
+ ]
+}

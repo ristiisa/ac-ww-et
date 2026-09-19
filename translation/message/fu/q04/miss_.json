@@ -1,0 +1,30 @@
+{
+ "file": "script/ENG/message/fu/q04/miss_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 16 00}...I'm sorry, {01 00 00 05 00}{04 02 00}.{01 00 00 0f 00}\nIt was nice of you to bring\nthis out here for me...\n{07 1a 00}But it's just not really my\nstyle{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} Sorry about that.",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 00 00}Um{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} Gee, thank you for\nthis super cool\n{0b 02 00}{04 1c 00},\nbuuuut{01 00 00 05 00} I don't think this\nlooks like my kind of thing,\n{01 00 00 05 00}{04 02 00}.\n{07 00 00}I don't want to sound like a\nchump, but...{01 00 00 0f 00}{07 06 00} I can't take\nit.{01 00 00 0a 00} SORRY, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 16 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}Oooo, yeah, actually...{01 00 00 0a 00}\n{07 06 00}I'm allergic to any kind of\n{0b 02 00}{04 1c 00}.\n{07 16 00}Yeah, I feel pretty bad\nabout this{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} I hope you\ndon't think I'm a jerk!",
+   "et": ""
+  },
+  {
+   "id": 3,
+   "en": "{07 16 00}Thanks for thinking of me,\nbut I've already got\n{04 1c 00}{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.\nSorry, but I just can't \naccept this, {01 00 00 05 00}{04 02 00}.",
+   "et": ""
+  },
+  {
+   "id": 4,
+   "en": "{07 16 00}Oh, dear. {01 00 00 05 00}I've already got\n{04 1c 00}{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.\n\nWhy don't you give it to \n{04 0b 00} as a gift, \n{01 00 00 05 00}{04 02 00}?",
+   "et": ""
+  }
+ ]
+}

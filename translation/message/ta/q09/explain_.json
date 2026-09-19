@@ -1,0 +1,20 @@
+{
+ "file": "script/ENG/message/ta/q09/explain_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 14 00}All right, let me explain\nthe rules to you! {01 00 00 05 00}{07 00 00}The time\nlimit is  {ff 00 00 02}5 minutes{ff 00 00 00}!\nIf you can find me within\n{ff 00 00 02}5 minutes{ff 00 00 00} then you win! {07 00 00}OK?\n{01 00 00 05 00}{07 0b 00}Simple, huh?\n{07 15 00}All right, {01 00 00 0a 00}here we go then,\n{01 00 00 0a 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 14 00}Hmm, I like it, {01 00 00 05 00}{04 02 00}!{01 00 00 0a 00}\n{07 00 00}I guess I should probably {01 00 00 0a 00}\nexplain the rules then, huh?\n{07 19 00}I'm going to hide somewhere\nin this town, so{01 00 00 05 00}{07 00 00} you have\n{ff 00 00 02}10 minutes{ff 00 00 00} to find me.\nIf{ff 00 00 02} 10 minutes{ff 00 00 00} come and go,{01 00 00 05 00}\nyou lose!{01 01 00} And I'll lord it\nover you forever! {07 0b 00}Got it?\n{07 14 00}OK then! Let the game{01 00 00 0a 00}\nBEGIN! {01 00 00 0a 00}{0b 03 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 14 00}Wow! I like your enthusiasm,\n{01 00 00 0a 00}{04 02 00}! It brings a\ntwinkle to your eyes!\n{07 00 00}Please allow me to explain\nthe rules{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.{01 01 00} The limit is\n{ff 00 00 02}15 minutes{ff 00 00 00}.\n{07 00 00}You have to find where in\nthis town I'm hiding in {ff 00 00 02}15\nminutes{ff 00 00 00}.\n{07 0b 00}Got that?{01 01 00} {07 14 00}Well then,{01 00 00 05 00} I'm\ngonna go hide, {01 00 00 0a 00}{04 02 00}!",
+   "et": ""
+  }
+ ]
+}

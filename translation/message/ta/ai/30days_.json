@@ -1,0 +1,35 @@
+{
+ "file": "script/ENG/message/ta/ai/30days_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 04 00}Oh, hey. {01 00 00 05 00}It's been a while,\n{04 1f 00}!{01 01 00} {07 0b 00}{01 00 00 05 00}Did you vacay\nin Ibiza again?\nIt must be nice to get so\nmuch vacation time. {07 15 00}We\nanimals NEVER get a break!\n{07 00 00}Did you at least get me\nsome {04 19 00}?{01 00 00 0a 00}\n{07 14 00}I love presents!\n{07 00 00}Well,{01 00 00 0a 00} I knew you would be\nback sometime... So{01 00 00 0a 00} I wasn't\ntoo worried, {01 00 00 0a 00}{04 02 00}.",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 04 00}Hey, {01 00 00 0a 00}{04 1f 00}!{01 00 00 14 00}\n{07 15 00}Where have you been?\n{01 00 00 0a 00}{07 1b 00}{01 00 00 05 00}I know you're busy...{01 00 00 0a 00}\nBut do you know how many\nmonths it's been? {04 12 00}!\nSheesh!\n{07 15 00}You couldn't stop by even\nonce? {01 00 00 0a 00}What, did you break\nyour thumbs?",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 0b 00}{01 00 00 05 00}Hello. {01 00 00 0a 00}And who might you\nbe?{01 01 00} .{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 15 00}{0b 03 00}{04 1f 00}?\n\n{07 0e 00}Hmmmm...{01 00 00 0a 00}I think I met \nsomeone {04 12 00} months ago with\nthat name, but{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{01 00 00 0a 00}{07 1b 00}It's all so fuzzy, \n{01 00 00 05 00}{04 02 00}.",
+   "et": ""
+  },
+  {
+   "id": 3,
+   "en": "{07 04 00}Oh, hey, {01 00 00 05 00}{04 1f 00}!{01 00 00 14 00}\nWelcome home, {01 00 00 0a 00}{04 02 00}!\n\n{07 00 00}So, {01 00 00 14 00}{07 0b 00}how was it?{01 00 00 05 00}{01 00 00 0a 00}\nYour {04 12 00}-month-long\nsoul-searching adventure{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 00 00}Did you discover important\nthings about yourself? Are\nyou a changed person?\n{07 03 00}You don't look different,\n{01 00 00 0a 00}{04 02 00}! {01 00 00 05 00}Same doofy\ngrin and everything!",
+   "et": ""
+  },
+  {
+   "id": 4,
+   "en": "{07 04 00}Hey, {01 00 00 05 00}{04 1f 00}!{01 00 00 14 00} It's been\nsuch a long time!{01 01 00}\n{07 00 00}So, what was it this time?\n{07 14 00}A {04 18 00} study?{01 00 00 0a 00}\nOr a {04 19 00}\nstudy?{01 00 00 05 00}\n{0b 03 00}{04 19 00} research\nis my area of expertise,\nyou know.\n{07 1b 00}You should really tell\npeople where you're going\nwhen you leave.",
+   "et": ""
+  },
+  {
+   "id": 5,
+   "en": "{07 04 00}{01 00 00 0a 00}Hey, {01 00 00 05 00}you. It's been a while!{01 01 00}\n{07 0e 00}{01 00 00 0a 00}Um{01 00 00 0a 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 14 00} {07 0b 00}{01 00 00 05 00}What was your name\nagain?\n{07 14 00}Oh, yeah, {04 1f 00}.{01 00 00 14 00}\n{07 00 00}I almost forgot\nabout you, {01 00 00 05 00}{04 02 00}.",
+   "et": ""
+  }
+ ]
+}

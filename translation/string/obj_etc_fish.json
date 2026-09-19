@@ -1,0 +1,285 @@
+{
+ "file": "script/ENG/string/obj_etc_fish.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "Size: 3.9 inches\nHabitat: Rivers\nSeason: Winter\nThey lay their\neggs in live\nshellfish, so\nthey're easy to\nraise, but hard\nto breed.",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "Size: 5.9 inches\nHabitat: Rivers\nSeason: All year\nThey can be\ncaught and eaten\nyear-round!\nThe fisherman's\nbest friend.",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "Size: 11.7 inches\nHabitat: Rivers\nSeason: All year\nUnlike carp,\ncrucian carp lack\nwhiskers.",
+   "et": ""
+  },
+  {
+   "id": 3,
+   "en": "Size: 13.7 inches\nHabitat: Rivers\nSeason: All year\nThey're just the\nAverage Joe of\nthe fish world.",
+   "et": ""
+  },
+  {
+   "id": 4,
+   "en": "Size: 19.5 inches\nHabitat: Rivers\nSeason: All year\nRelated to carp.\n\"Barbel\" refers\nto whiskers.",
+   "et": ""
+  },
+  {
+   "id": 5,
+   "en": "Size: 2.4 feet\nHabitat: Rivers\nSeason: All year\nThey feed by\nsucking the\nriver's bottom.",
+   "et": ""
+  },
+  {
+   "id": 6,
+   "en": "Size: 2.4 feet\nHabitat: Rivers\nSeason: All year\nBred to be\nadmired, koi are\neasy to raise.\nThey can live up\nto 100 years.\nWow!",
+   "et": ""
+  },
+  {
+   "id": 7,
+   "en": "Size: 5.9 inches\nHabitat: Rivers\nSeason: All year\nA member of the\ncarp family, it's\nbred for beauty.\nHowever, unlike\ncarp, goldfish\nhave no whiskers.",
+   "et": ""
+  },
+  {
+   "id": 8,
+   "en": "Size: 5.9 inches\nHabitat: Rivers\nSeason: All year\nThough their eyes\nare big, their\nvision is poor.\nThat's why they\nhave a hard time\nfinding food.",
+   "et": ""
+  },
+  {
+   "id": 9,
+   "en": "Size: 1.6 inches\nHabitat: Ponds\nSeason: Spring\nThough small,\nthey're efficient\nbreeders. \nThey love the sun\nand warm places.",
+   "et": ""
+  },
+  {
+   "id": 10,
+   "en": "Size: 4.7 inches\nHabitat: Ponds\n\nSeason: Spring\nand summer\n\nWhen threatened,\nthey cut their\nlegs off,\nbut these grow\nback when\nthey molt.",
+   "et": ""
+  },
+  {
+   "id": 11,
+   "en": "Size: 4.7 inches\nHabitat: Ponds\n\nSeason: Spring to\nfall\n\nTheir skin must\nbe wet for them\nto survive,\nbut they can't\nlive in water.",
+   "et": ""
+  },
+  {
+   "id": 12,
+   "en": "Size: 5.9 inches\nHabitat: Rivers\n\nSeason: Winter to\nsummer.\nNocturnal.\nTo keep from\ngetting swept\naway,\nthey use suction\ncups to stabilize\nthemselves.\nThey have an\naudible cry.",
+   "et": ""
+  },
+  {
+   "id": 13,
+   "en": "Size: 7.8 inches\nHabitat: Rivers\nSeason: Spring\nSucker-shaped\nmouths help them\nbottom-feed.\nTo control their\nvertical position\nin the water,\nthey inhale\nair and pass\ngas. Shocking!",
+   "et": ""
+  },
+  {
+   "id": 14,
+   "en": "Size: 23.4 inches\nHabitat: Ponds\n\nSeason: Summer\nand fall\n\nThey're nocturnal\ncarnivores and\ncannibals.\nThis, of course,\nmakes them\nhard to breed.",
+   "et": ""
+  },
+  {
+   "id": 15,
+   "en": "Size: 3.25 feet\nHabitat: Rivers\nSeason: Summer\nThey are actually\nborn in the\nocean. \nThey have scales\nthat are too\nsmall to be seen.",
+   "et": ""
+  },
+  {
+   "id": 16,
+   "en": "Size: 2.6 feet\nHabitat: Ponds\nSeason: Summer\nTheir name comes\nfrom their\nsnakelike look.\nTheir teeth are\nstrong, so watch\nyour fingers.",
+   "et": ""
+  },
+  {
+   "id": 17,
+   "en": "Size: 9.8 inches\nHabitat: Rivers\nSeason: All year\nTheir name comes\nfrom their blue\ngills.\nThe spines on\ntheir backs serve\nas protection.",
+   "et": ""
+  },
+  {
+   "id": 18,
+   "en": "Size: 13.7 inches\nHabitat: Rivers\n\nSeason: Fall and\nwinter\n\nBass love to\nfeast on this\nfish,\nwhich is why some\nlures are shaped\nlike yellow perch.",
+   "et": ""
+  },
+  {
+   "id": 19,
+   "en": "Size: 19.5 inches\nHabitat: Rivers\nSeason: All year\nThey breed well,\nas the males\nguard the eggs.",
+   "et": ""
+  },
+  {
+   "id": 20,
+   "en": "Size: 5.9 inches\nHabitat: Rivers\nSeason: Winter\nThey made ice\nfishing famous!",
+   "et": ""
+  },
+  {
+   "id": 21,
+   "en": "Size: 9.8 inches\nHabitat: Rivers\nSeason: Summer\nDepending on\nwhere they're\ncaught,\ntheir flavor can\nchange.\n\nIt's common to\nuse sweetfish to\ncatch sweetfish.",
+   "et": ""
+  },
+  {
+   "id": 22,
+   "en": "Size: 13.7 inches\nHabitat: Rivers\n\nSeason: Spring to\nfall\n\nThey have\ndistinctive oval\nmarkings.\nTheir size when\nspawning can vary\ngreatly.",
+   "et": ""
+  },
+  {
+   "id": 23,
+   "en": "Size: 19.5 inches\nHabitat: Waterfall\n\nSeason: Spring\nand fall\n\nThey made\nmountain stream\nfishing famous.\nThey thrive in\neven the coldest\nwater.",
+   "et": ""
+  },
+  {
+   "id": 24,
+   "en": "Size: 2.3 feet\nHabitat: Rivers\n\nSeason: Spring\nand fall\n\nTheir orange\ncolor resembles\na rainbow.\nBecause they are\nhearty eaters,\n\nthey are fun to\ncatch and good \nto eat.",
+   "et": ""
+  },
+  {
+   "id": 25,
+   "en": "Size: 4.9 feet\nHabitat: Rivers\nSeason: Winter\nA relative of the\nsalmon, they can \nlive a long time.\nThey are seldomly\nseen and very\nprized.",
+   "et": ""
+  },
+  {
+   "id": 26,
+   "en": "Size: 2.9 feet\nHabitat: Rivers\nand estuaries\nMonth: September\nThey are famous\nfor their roe.\nTheir flesh is\npink, but they're\nwhite fish.",
+   "et": ""
+  },
+  {
+   "id": 27,
+   "en": "Size: 5.2 feet\nHabitat: Rivers\nand estuaries\nMonth: September\nThe largest of\nall the salmons,\nthey're also\namong the most\nvaluable fish.",
+   "et": ""
+  },
+  {
+   "id": 28,
+   "en": "Size: 1.6 inches\nHabitat: Rivers\n\nSeason: Spring to\nfall\n\nThey're a type of\nkillifish, bred\nfor observation.\nThey are hardy\nand easy to\nraise.",
+   "et": ""
+  },
+  {
+   "id": 29,
+   "en": "Size: 4.7 inches\nHabitat: Rivers\n\nSeason: Spring to\nfall\n\nTheir tall fins\ndiscourage\npredators.",
+   "et": ""
+  },
+  {
+   "id": 30,
+   "en": "Size: 11.7 inches\nHabitat: Rivers\nSeason: Summer\nThey eat small\nfish by tearing\noff pieces\nand swallowing\nthem whole.\nVicious!",
+   "et": ""
+  },
+  {
+   "id": 31,
+   "en": "Size: 2.3 feet\nHabitat: Rivers\nSeason: Summer\nThe male raises\nits young in its\nmouth.\nWhile doing this,\nhe eats nothing.\nWhat dedication.",
+   "et": ""
+  },
+  {
+   "id": 32,
+   "en": "Size: 3.25 feet\nHabitat: Rivers\nSeason: Summer\n\"Dorado\" means\n\"golden,\" and this\nfish is that!\nEverybody wants\nto catch one\nonce!",
+   "et": ""
+  },
+  {
+   "id": 33,
+   "en": "Size: 6.2 feet\nHabitat: Ponds\nSeason: Summer\nThey resemble\nalligators, and\nare so large,\nthey can even\neat waterfowl.",
+   "et": ""
+  },
+  {
+   "id": 34,
+   "en": "Size: 9.75 feet\nHabitat: Rivers\nSeason: Summer\nThe largest\nfreshwater fish\nin the world,\nthey poke their\nheads above\nwater to breathe.",
+   "et": ""
+  },
+  {
+   "id": 35,
+   "en": "Size: 1.2 inches\nHabitat: Ocean\nSeason: Winter\nA type of snail,\nit eats plankton\nand shellfish.\nIt navigates the\nwater by flapping\nits \"wings.\"",
+   "et": ""
+  },
+  {
+   "id": 36,
+   "en": "Size: 9.8 inches\nHabitat: Ocean\n\nMonth: Late\nAugust\n\nThese plankton\nhave a vicious\nsting!",
+   "et": ""
+  },
+  {
+   "id": 37,
+   "en": "Size: 3.1 inches\nHabitat: Ocean\n\nSeason: Spring to\nfall\n\nThey look like\nreptiles but are,\nin fact, fish.\nThe female lays\nher eggs in the\nmale's stomach.",
+   "et": ""
+  },
+  {
+   "id": 38,
+   "en": "Size: 5.9 inches\nHabitat: Ocean\n\nClownfish spend\nlife protected by\nanemones.\nAll clownfish\nstart life as\nmales.",
+   "et": ""
+  },
+  {
+   "id": 39,
+   "en": "Size: 11.7 inches\nHabitat: Ocean\n\nSeason: Spring to\nfall\n\nTheir dorsal fin\nis poisonous, so\ndon't get stung!\nThey are calm\nfish, and won't\nscare off easily.",
+   "et": ""
+  },
+  {
+   "id": 40,
+   "en": "Size: 13.7 inches\nHabitat: Ocean\nSeason: Summer\nEach puffer fish\nhas about 400 \nneedles.\nThey're related\nto blowfish, but\naren't poisonous.",
+   "et": ""
+  },
+  {
+   "id": 41,
+   "en": "Size: 15.6 inches\nHabitat: Ocean\nSeason: All year\nThey have hard\nscales called\n\"scutes.\"",
+   "et": ""
+  },
+  {
+   "id": 42,
+   "en": "Size: 23.4 inches\nHabitat: Ocean\n\nSeason: Spring\nand summer\nTough to catch.",
+   "et": ""
+  },
+  {
+   "id": 43,
+   "en": "Size: 3.25 feet\nHabitat: Ocean\nSeason: All year\nThey put up a\nfight, but it's\nworth it.",
+   "et": ""
+  },
+  {
+   "id": 44,
+   "en": "Size: 2.9 feet\nHabitat: Ocean\nSeason: All year\nTheir red color\ncomes from their\nshrimp diet.",
+   "et": ""
+  },
+  {
+   "id": 45,
+   "en": "Size: 19.5 inches\nHabitat: Ocean\n\nSeason: Fall and\nwinter\n\nAbout half the\nsize of olive\nflounders,\nthey like to bury\nthemselves in\nthe sand.",
+   "et": ""
+  },
+  {
+   "id": 46,
+   "en": "Size: 2.6 feet\nHabitat: Ocean\n\nSeason: Spring to\nfall\n\nTheir eyes are in\nthe middle when\nthey are born,\nthen move to\neither side as\nthey mature.",
+   "et": ""
+  },
+  {
+   "id": 47,
+   "en": "Size: 13.7 inches\nHabitat: Ocean\n\nSeason: Winter to\nsummer\n\nEight of its ten\nappendages are\narms,\nand the other\ntwo are\ntentacles.",
+   "et": ""
+  },
+  {
+   "id": 48,
+   "en": "Size: 23.4 inches\nHabitat: Ocean\n\nSeason: Fall to\nspring\n\nAs intelligent as\na ten-month-old\nhuman baby, they\ncan change colors\nto match their\nsurroundings.",
+   "et": ""
+  },
+  {
+   "id": 49,
+   "en": "Size: 23.4 inches\nHabitat: Ocean\n\nSeason: Fall to\nspring\n\nMales are only a\nfew centimeters\nlong.\nBacteria on the\nfish make them\nglow.",
+   "et": ""
+  },
+  {
+   "id": 50,
+   "en": "Size: 7.5 feet\nHabitat: Ocean\nSeason: Winter\nThey can swim up\nto 60 miles per\nhour.",
+   "et": ""
+  },
+  {
+   "id": 51,
+   "en": "Size: 7.2 feet\nHabitat: Ocean\nMonth: August\nThey attack prey\nwith a sharp horn\nbefore eating it.",
+   "et": ""
+  },
+  {
+   "id": 52,
+   "en": "Size: 9.75 feet\nHabitat: Ocean\nSeason: Summer\nA relative of the\nblowfish, they\nhave caudal fins\nat birth, but\nas they grow,\nthe fins vanish.",
+   "et": ""
+  },
+  {
+   "id": 53,
+   "en": "Size: 8.1 feet\nHabitat: Ocean\nSeason: Summer\nThere are eight\nspecies of\nhammerheads.\nThey school and\nrarely attack\nhumans.",
+   "et": ""
+  },
+  {
+   "id": 54,
+   "en": "Size: 17.6 feet\nHabitat: Ocean\n\nSeason: Summer\nand fall\n\nThey lose and \nreplace their\nteeth often.\nTheir teeth,\nhowever, are\nactually scales.",
+   "et": ""
+  },
+  {
+   "id": 55,
+   "en": "Size: 4.9 feet\nHabitat: Ocean\nSeason: All year\nNocturnal.\nTheir fins look\nlike feet.\nUnlike other fish,\nthey crawl to\nswim.",
+   "et": ""
+  }
+ ]
+}

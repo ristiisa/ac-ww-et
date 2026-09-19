@@ -1,0 +1,75 @@
+{
+ "file": "script/ENG/message/ko/ai/fishing_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "What do you want?!{01 00 00 0f 00} Don't\ntalk to me right now!{01 00 00 05 00} Can't\nyou see I'm busy!\nI was this close to snaring\n{ff 00 00 07}{04 1a 00}{ff 00 00 00}\nand you distracted me!{02 00 00 0c 0d}\nI'm so sorry!\nWhatever, jerk!",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "When I fish{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}I like to be\nalone and quiet. It makes\nme feel peaceful.\nSo do me a favor and zip\nit, {01 00 00 05 00}{04 02 00}! {01 00 00 05 00}We on the\nsame page?",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "I heard{01 00 00 05 00} there was good\nfishing in these parts,{01 00 00 05 00} but\nI think it was a lie{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.",
+   "et": ""
+  },
+  {
+   "id": 3,
+   "en": "I was planning on kicking\nback here and catching\n{ff 00 00 07}{04 1a 00}.",
+   "et": ""
+  },
+  {
+   "id": 4,
+   "en": "Hmm. {01 00 00 0f 00}I don't think this\nplace is as good as I\nthought, {01 00 00 05 00}{04 02 00}.",
+   "et": ""
+  },
+  {
+   "id": 5,
+   "en": "The fish are onto me.\nEspecially that\n{0b 02 00}{ff 00 00 07}{04 1a 00}.\n{ff 00 00 00}{01 00 00 05 00}Try as I might, I still\nhaven't caught it.{01 00 00 05 00}\n\nGRRR!{01 00 00 0f 00} Who knew fish were\nso{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.cunning!",
+   "et": ""
+  },
+  {
+   "id": 6,
+   "en": "It's been a while, but I\nhave to say, it feels good\nto be outside.\nBut waiting around for\n{ff 00 00 07}{04 1a 00}{ff 00 00 00}\njust isn't my thing.\nI just get so dang\nimpatient, {01 00 00 05 00}{04 02 00}!\n\nHurry up, stupid\n{0b 02 00}{04 1a 00}!",
+   "et": ""
+  },
+  {
+   "id": 7,
+   "en": "Hey, would you do me a\nfavor and spare me the\nchitchat, {01 00 00 05 00}{04 02 00}?!\nIf you wanna catch\n{ff 00 00 07}{04 1a 00}{ff 00 00 00},\ndo it with your trap shut!",
+   "et": ""
+  },
+  {
+   "id": 8,
+   "en": "Hey hey!{01 00 00 0f 00} The fish isn't\ngonna bite with all that\ncommotion{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\nHey! Hold on a sec.{01 00 00 14 00} Do I\nknow you?\n\nWell, I'm {04 01 00}.{01 00 00 14 00} I'm\ntrying to catch\n{ff 00 00 07}{04 1a 00}!{ff 00 00 00}\nIt's nice to make your\nacquaintance, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 9,
+   "en": "Can't you see I'm trying to\nfish here?! Don't distract\nme, OK?\nI've been eyeing that\n{0b 02 00}{ff 00 00 07}{04 1a 00}\n{ff 00 00 00}all day long!\n.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}Oh, {01 00 00 05 00}well.{01 00 00 14 00} Anyway, I'm\n{04 01 00}.{01 00 00 14 00} It's a\npleasure, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 10,
+   "en": "Hey,{01 00 00 0f 00} no worries!{01 00 00 14 00} Your\nyapping won't throw off my\ngame or anything.\nMostly 'cause I haven't got\nany!{01 00 00 0a 00} I'm {04 01 00}, by\nthe way. And you are{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.?\nOh, {01 00 00 0f 00}{04 1f 00}!{01 01 00} Well, I\nlook forward to talkin'\nwith you again!",
+   "et": ""
+  },
+  {
+   "id": 11,
+   "en": "Whoa!{01 00 00 14 00} I've seen you around,\nbut this is the first time\nwe've had a chance to talk.\nI'm {04 01 00} and I like\nto chow down on\n{0b 02 00}{ff 00 00 07}{04 1a 00}{ff 00 00 00}!\nAnyhoo, {01 00 00 05 00}nice meeting you,\n{01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 12,
+   "en": "If \"sorry\" was enough, we\nwouldn't need lawyers,\n{01 00 00 05 00}{04 02 00}!\nWhy don't you try to{01 00 00 05 00} make\nit up to me by catching\nme a fish!",
+   "et": ""
+  },
+  {
+   "id": 13,
+   "en": "WHAT{01 00 00 05 00} IS{01 00 00 05 00} YOUR{01 00 00 05 00} PROBLEM?! And{01 00 00 05 00}\nwhat's with this whole\nfishing expert act, anyway?\nIf you're trying to show me{01 00 00 05 00}\nhow it's done, do it over\nthere, would you?!",
+   "et": ""
+  }
+ ]
+}

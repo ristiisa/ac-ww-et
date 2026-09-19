@@ -1,0 +1,205 @@
+{
+ "file": "script/ENG/message/ta/ap/present1_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 14 00}I've been reading this book\ncalled \"{ff 00 00 02}Finding the Inner\nSelf Within{ff 00 00 00}.\"\n{07 16 00}It's a lot harder than you'd\nthink.{01 01 00} I guess she's hiding.{01 01 00}\n{07 0b 00}So, do you wanna try it?\n{07 14 00}If you find your inner self,\nI'll give you a prize! {01 00 00 0a 00}PLUS,\nyou'll discover yourself!{02 00 00 03 04}\nLet's do it!\nNo thanks.",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 00 00}Hi, {01 00 00 05 00}I know it's sudden, but\ncan I ask you something?\nIt's really important!\n{07 0b 00}Which of the following\ndo you usually sleep on?{02 03 00 15 15 15 15 19}\nBack!\nStomach!\nRight side.\nLeft side.\n...",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 14 00}{0b 03 00}{01 06 00}Hey{01 07 00}!{01 00 00 14 00}\nI have a big question! {01 00 00 0a 00}How\ndoes my makeup look?{02 01 00 1d 20 23}\nPerfect!\nUh...\nClownish!",
+   "et": ""
+  },
+  {
+   "id": 3,
+   "en": "{07 00 00}The way this personal\njourney works is by\nanswering some questions.\nLet's start with a basic\none. {01 01 00}When you start eating,\nyou say, \"Let's eat.\"\n{07 0b 00}Then, {01 00 00 05 00}when you've finished\neating, you say...?{02 00 00 08 05}\n\"Let's eat!\"\n\"I'm done!\"",
+   "et": ""
+  },
+  {
+   "id": 4,
+   "en": "{07 00 00}Oh, {01 00 00 05 00}really?{01 00 00 14 00} {07 15 00}I guess for\nsome people, ignorance\nis bliss, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 5,
+   "en": "{07 0e 00}Interesting.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} {07 14 00}There are no\nright or wrong answers in\nthe path to self-discovery.\n{07 0a 00}Except for that one! That's\ncorrect!{01 00 00 14 00} {07 00 00}Let's dig deeper in\nthis next question.\n{06 00 00 06 07}",
+   "et": ""
+  },
+  {
+   "id": 6,
+   "en": "{07 14 00}If you greet your neighbor's\ndog in the morning,\n{01 00 00 0a 00}{07 0b 00}what do you say?{02 01 00 09 09 09}\nWoof!\nYarf!\nBow wow!",
+   "et": ""
+  },
+  {
+   "id": 7,
+   "en": "{07 14 00}What would you say to greet\na lovely rose?{02 01 00 09 09 09}\nHi there?\nYou smell good?\nLost weight?",
+   "et": ""
+  },
+  {
+   "id": 8,
+   "en": "{07 02 00}Oh, no{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00} According to the\nbook, the proper answer is\n\"I'm done.\"\n{07 1c 00}{01 00 00 05 00}Seems like your inner self\nhas no, {01 00 00 0a 00}uh,{01 00 00 0a 00} self-control.{01 00 00 0a 00}\nAnd it's fat.",
+   "et": ""
+  },
+  {
+   "id": 9,
+   "en": "{06 01 00 0a 0b 0c}",
+   "et": ""
+  },
+  {
+   "id": 10,
+   "en": "{07 14 00}Ooh!{01 00 00 14 00} That says a LOT about\nyour inner self! We're just\nPEELING back the layers now!\n{07 0b 00}Ready to dig deeper? {01 00 00 0a 00}It\ncould get painful! {01 01 00}{07 00 00}OK, on to\nthe next question!\nOn the way to school, you\nsee a cute stranger{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{07 14 00}a\nnew transfer student!\n{07 0b 00}What should you say?{02 00 00 0d 0d}\n...\nGood morning?",
+   "et": ""
+  },
+  {
+   "id": 11,
+   "en": "{06 01 00 0e 0f 10}",
+   "et": ""
+  },
+  {
+   "id": 12,
+   "en": "{06 01 00 11 12 13}",
+   "et": ""
+  },
+  {
+   "id": 13,
+   "en": "It says here {01 00 00 0a 00}that either\n{07 15 00}\"{ff 00 00 02}Greeting shyly{ff 00 00 00}\"{01 00 00 0a 00} or \"{ff 00 00 02}Looking\ndown nervously{ff 00 00 00}\" means...\n{07 00 00}You're totally in touch with\nyour inner self! You two\nare, {07 0e 00}{01 00 00 05 00}like,{01 00 00 05 00} the same person!\n{07 14 00}Or something.{01 01 00} Your\nself-awareness wins you\n{04 1b 00}!",
+   "et": ""
+  },
+  {
+   "id": 14,
+   "en": "{07 04 00}Wow!{01 00 00 05 00} You're right!{01 01 00} {07 16 00}Is that\ncommon knowledge or\nsomething?\n{07 00 00}OK. {01 00 00 14 00}{07 14 00}I'll give you my\n{0b 02 00}{04 1b 00}\nas a prize, {01 00 00 0a 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 15,
+   "en": "{07 04 00}Oh, my!{01 00 00 05 00} {01 01 00}{07 1b 00}You're so in tune\nwith your inner self, it's\nkind of scary.\n{07 14 00}As I promised earlier,\nI'll give you my\n{0b 02 00}{04 1b 00}!",
+   "et": ""
+  },
+  {
+   "id": 16,
+   "en": "{07 16 00}Hmmm{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 14 00} Don't you think\nthat's a tad {07 0b 00}unrealistic?\n\n{07 1b 00}Well, at least you're in\ntouch with your imagination!",
+   "et": ""
+  },
+  {
+   "id": 17,
+   "en": "{07 00 00}No, I don't think so.{01 01 00} {07 16 00}I think\nyou should spend more time\ngetting to know yourself.",
+   "et": ""
+  },
+  {
+   "id": 18,
+   "en": "{07 16 00}You wouldn't REALLY say\nthat, would you?\n\nI think you should\nreevaluate your worldview\nbefore you look inside.",
+   "et": ""
+  },
+  {
+   "id": 19,
+   "en": "{07 16 00}Um, {01 00 00 0a 00}not only do you not get\nyour inner self, you don't\neven get the outside world!\n{07 15 00}You should spend less time\nyapping and more time\nlistening!",
+   "et": ""
+  },
+  {
+   "id": 20,
+   "en": "{07 14 00}Well,{01 00 00 05 00} that was a good time,\nwouldn't you say,\n{01 00 00 05 00}{04 02 00}?",
+   "et": ""
+  },
+  {
+   "id": 21,
+   "en": "{06 01 00 16 17 18}",
+   "et": ""
+  },
+  {
+   "id": 22,
+   "en": "{07 00 00}Yeah, {01 00 00 0a 00}and if you put your\nfeet on the other side of \nthe blanket, it feels good!\n{07 14 00}Tee hee hee!{01 00 00 0f 00} {07 0d 00}I'm so glad you\nunderstand where I'm coming\nfrom{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}\nHere's a special\n{0b 02 00}{04 1b 00}\njust for you!{07 00 00}",
+   "et": ""
+  },
+  {
+   "id": 23,
+   "en": "{07 14 00}Yeah, {01 00 00 05 00}then put two pillows\nnext to each other,{01 00 00 05 00} and put\nyour head between them.\n{07 00 00}That feels pretty good!\n{07 14 00}Especially when you're\nwearing curlers!",
+   "et": ""
+  },
+  {
+   "id": 24,
+   "en": "{07 14 00}Oh, yeah,{01 00 00 0a 00} and then you feel\naround for the cool spot\nunder the pillow!\nI'm glad we feel the same\nway about this important\nissue,{01 00 00 05 00} so this is for you!",
+   "et": ""
+  },
+  {
+   "id": 25,
+   "en": "{06 00 00 1a 1b}",
+   "et": ""
+  },
+  {
+   "id": 26,
+   "en": "{07 00 00}Tee hee!{01 00 00 0a 00} {07 1b 00}I bet you sleep\nstanding up or something\ncreepy like that!",
+   "et": ""
+  },
+  {
+   "id": 27,
+   "en": "{07 14 00}Tee hee, {01 00 00 0a 00}I guess you sleep\nin that super-embarrassing\nposition, too.\n{07 00 00}Here, take my\n{0b 02 00}{04 1b 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00}\nIt helps with beauty rest.\nI hope it works for you,\ntoo, {07 14 00}'cause you could\ndefinitely use a little.",
+   "et": ""
+  },
+  {
+   "id": 28,
+   "en": "{07 00 00}Let me know how it works\nout, {01 00 00 0a 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 29,
+   "en": "{06 00 00 1e 1f}",
+   "et": ""
+  },
+  {
+   "id": 30,
+   "en": "{07 00 00}Tee hee hee!{01 00 00 0a 00} You're smarter\nthan you look, {01 00 00 0a 00}{04 02 00}.",
+   "et": ""
+  },
+  {
+   "id": 31,
+   "en": "{07 17 00}Oh{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} You've made me blush!\nHow strange.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} It makes me\nfeel like a young girl!\n{07 14 00}Here!{01 00 00 14 00} I got this for free\nat the makeup counter. {01 00 00 05 00}It's\n{04 1b 00}.",
+   "et": ""
+  },
+  {
+   "id": 32,
+   "en": "{06 00 00 21 22}",
+   "et": ""
+  },
+  {
+   "id": 33,
+   "en": "{07 15 00}Hmph! You don't know\nanything!{01 00 00 0a 00} I'm wearing the\nlatest Nintendique lipstick!",
+   "et": ""
+  },
+  {
+   "id": 34,
+   "en": "{07 15 00}Bah, what do you know!{01 00 00 0a 00} This\nis the latest creation by\nNintendique!\n{07 00 00}By the way, I got my\n{0b 02 00}{04 1b 00} as\na gift with my purchase.\nI don't need it, {01 00 00 05 00}so you can\nhave it.",
+   "et": ""
+  },
+  {
+   "id": 35,
+   "en": "{06 00 00 24 25}",
+   "et": ""
+  },
+  {
+   "id": 36,
+   "en": "{07 01 00}Ugh!{01 00 00 14 00} You're a total idiot!{01 00 00 14 00}\nDo CLOWNS wear the latest\nNintendique lip glosses?!\n{07 15 00}NO, THEY DON'T! {01 01 00}{07 0e 00}But they DO\nmake balloon animals, and\nthat's nothing to sniff at.\n{07 1b 00}OK, point taken.{01 00 00 05 00} Take my\n{0b 02 00}{04 1b 00}!\nGood riddance!",
+   "et": ""
+  },
+  {
+   "id": 37,
+   "en": "{07 09 00}You really{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}don't mince\nwords, do you.{01 01 00} {07 1b 00}Well, it's\nkind of refreshing.",
+   "et": ""
+  },
+  {
+   "id": 38,
+   "en": "{07 00 00}You better treasure it,{01 00 00 0a 00}\n'cause it's not every day\nthat you get such a gem!",
+   "et": ""
+  },
+  {
+   "id": 39,
+   "en": "It's my favorite\n{0b 02 00}{04 1b 00}!{01 00 00 14 00}\n{07 14 00}Take good care of it.",
+   "et": ""
+  }
+ ]
+}

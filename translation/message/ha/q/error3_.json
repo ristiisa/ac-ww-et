@@ -1,0 +1,15 @@
+{
+ "file": "script/ENG/message/ha/q/error3_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 16 00}Whoa there, {01 00 00 05 00}{04 1f 00}!{01 00 00 14 00}\nAre you nocturnal or what,\n{01 00 00 05 00}{04 02 00}?!\n{07 06 00}Let's go with an earlier\ntime, whaddaya say?{07 00 00}",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 0e 00}Uh, I plan on being really,\nreally asleep around then{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n\n{07 0b 00}How about another time,\n{01 00 00 05 00}{04 02 00}?",
+   "et": ""
+  }
+ ]
+}

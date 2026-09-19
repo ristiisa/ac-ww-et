@@ -1,0 +1,175 @@
+{
+ "file": "script/ENG/message/ha/ai/shop3_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{06 08 00 06 07 08 09}",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{06 01 00 0d 0e 0f}",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{06 01 00 10 11 12}",
+   "et": ""
+  },
+  {
+   "id": 3,
+   "en": "{06 0b 00 13 13 13 13 13 14 13}",
+   "et": ""
+  },
+  {
+   "id": 4,
+   "en": "{06 09 00 20 21 22}",
+   "et": ""
+  },
+  {
+   "id": 6,
+   "en": "{07 00 00}I'm going to eat all the\n{04 05 00} specials for\nbreakfast in one sitting!\n{06 01 00 0a 0b 0c}",
+   "et": ""
+  },
+  {
+   "id": 7,
+   "en": "{07 14 00}I have them add a little\nextra to the kid's meal for\nmy lunch every day!\n{06 01 00 0a 0b 0c}",
+   "et": ""
+  },
+  {
+   "id": 8,
+   "en": "{07 14 00}Going out to dinner rules!\n{01 00 00 05 00}You just gotta do it now\nand then, {01 00 00 05 00}{04 02 00}!\n{06 00 00 0a 0b}",
+   "et": ""
+  },
+  {
+   "id": 9,
+   "en": "{07 00 00}Are you eating supper too,{01 00 00 0a 00}\n{ff 00 00 05}{04 1f 00}{ff 00 00 00}?!\n\n{07 14 00}Meals that you eat later in\nthe day are the best, am I\nright, {01 00 00 05 00}{04 02 00}?\n{06 00 00 0a 0b}",
+   "et": ""
+  },
+  {
+   "id": 10,
+   "en": "{07 14 00}And to wash it down,\na bowl of beef stew!{01 00 00 05 00}\nYum, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 11,
+   "en": "{07 14 00}Rather than{01 00 00 05 00} three square\nmeals, I prefer five round\nones, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 12,
+   "en": "{07 00 00}I ate too much hot food\nand burned my tongue...{01 00 00 05 00}\n{07 0d 00}It's awesome, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 13,
+   "en": "{07 00 00}I've maxed out my training{01 00 00 05 00}\nfor today, so I'm taking a\nbreak to regenerate muscle.{01 00 00 05 00}\n{07 14 00}Just wait: in an hour, I'll\nbe able to break walls with\nmy glutes, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 14,
+   "en": "{07 00 00}I've got manners, so I never{01 00 00 05 00}\nput my elbows on the table,\n{01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 15,
+   "en": "{07 00 00}When I'm maxed out, I come\nhere, sip a protein-pumped\n{04 18 00}...\nAnd then, instead of\nweights, I pick up{07 14 00} chicks,\n{01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 16,
+   "en": "{06 01 00 17 18 19}",
+   "et": ""
+  },
+  {
+   "id": 17,
+   "en": "{06 01 00 1a 1b 1c}",
+   "et": ""
+  },
+  {
+   "id": 18,
+   "en": "{06 01 00 1d 1e 1f}",
+   "et": ""
+  },
+  {
+   "id": 19,
+   "en": "{06 01 00 14 14 15}",
+   "et": ""
+  },
+  {
+   "id": 20,
+   "en": "{07 00 00}You could've watched me \nworking out if you were\njust a little earlier.\n{07 16 00}{04 1f 00}, you should\nlearn to make better use\nof your time, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 21,
+   "en": "{07 04 00}Oh, {01 00 00 05 00}yeah, now I remember!{01 00 00 0a 00}\n{07 00 00}Listen, {04 1f 00}...\n\nOn Saturdays you can see \nthe most interesting thing\nhere, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 22,
+   "en": "{07 00 00}Today, in honor of\n{ff 00 00 06}K.K. Slider{ff 00 00 00}'s rocking live\nperformance this evening... \n{07 16 00}I haven't eaten anything\nall day. {01 00 00 0a 00}Yeah. {01 00 00 0a 00}Nothing.{01 00 00 0a 00}\n{07 06 00}I'm starving, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 23,
+   "en": "Hey, {ff 00 00 06}Brewster{ff 00 00 00}!{01 00 00 0a 00} How's about\nadding a salad bar over\nhere, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 24,
+   "en": "{ff 00 00 05}{07 15 00}{0b 03 00}{04 1f 00}{ff 00 00 00}! You're late!{01 00 00 0a 00}\nYou need to catch up!{01 00 00 05 00}\n{07 14 00}Have a {04 18 00}!{01 00 00 05 00}",
+   "et": ""
+  },
+  {
+   "id": 25,
+   "en": "{07 16 00}Aw, man{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n{07 06 00}I'd kill for a buffet line,\n{01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 26,
+   "en": "{07 00 00}Hey, {ff 00 00 06}Brewster{ff 00 00 00}!{01 00 00 0a 00}\nFill the tub for {04 1f 00}\nhere, {07 0d 00}will ya?!",
+   "et": ""
+  },
+  {
+   "id": 27,
+   "en": "{07 00 00}Relaxing, {04 18 00}\nin our hands, {07 0e 00}we must{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 01 00}\n{07 0d 00}look{01 00 00 05 00} SO HOT!",
+   "et": ""
+  },
+  {
+   "id": 28,
+   "en": "{07 00 00}Today, like every day,{01 00 00 05 00}\n{07 14 00}I shall eat like a horse\nand train like a horse!",
+   "et": ""
+  },
+  {
+   "id": 29,
+   "en": "{07 00 00}For me, it's more about{01 00 00 05 00}\n{07 14 00}sheer volume than flavor,\n{01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 30,
+   "en": "Mom!{01 00 00 05 00} Seconds please,\n{01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 31,
+   "en": "{07 00 00}You need to eat everything\n{07 16 00}to build quality muscle,{01 00 00 05 00}\n{ff 00 00 05}{04 1f 00}{ff 00 00 00}!",
+   "et": ""
+  },
+  {
+   "id": 32,
+   "en": "{07 00 00}I feel so refreshed today,{01 00 00 05 00}\n{ff 00 00 05}{04 1f 00}{ff 00 00 00}!\n\n{07 14 00}You should make sure to\ntake time to spoil yourself\ntoo, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 33,
+   "en": "{07 00 00}I came here to wait the\nrain out...\n\n{07 16 00}But I ended up eating like\na heavyweight wrestler{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\nUrg, {01 00 00 05 00}{04 02 00}.\n{07 1d 00}Hey!{01 00 00 0a 00} I'll bet this is{01 00 00 05 00} just\nhow they planned it!{01 01 00}\n{07 06 00}Ugh! {01 00 00 05 00}And I fell for it!",
+   "et": ""
+  },
+  {
+   "id": 34,
+   "en": "{07 15 00}On days like this, I like to\nrelax in the coffee shop,\n{01 00 00 05 00}{04 02 00}!\n{07 00 00}There's nothing like iced\n{04 18 00} when it's\nsnowing!{01 01 00} {07 07 00}Brain freeze! Ow!",
+   "et": ""
+  }
+ ]
+}

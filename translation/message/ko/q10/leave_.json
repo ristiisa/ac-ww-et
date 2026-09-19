@@ -1,0 +1,20 @@
+{
+ "file": "script/ENG/message/ko/q10/leave_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 15 00}Hey!{01 00 00 05 00} Kid!{01 00 00 0f 00} You and me made\nplans for me to come over,\nremember? REMEMBER?\n{07 05 00}WHERE WERE YOU?{01 01 00}\n{07 00 00}I got there with bells on,\nand no one was home!\nAw, when somethin' like this\nhappens{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 0f 00}it just brings\nme down, {04 02 00}.{03 03 00 01}",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 15 00}You!{01 00 00 05 00} Hey, you!{01 00 00 05 00} Yeah, YOU!\nI got a BONE to pick with\nyou, {01 00 00 05 00}{04 02 00}!\n{07 01 00}We'd made plans for me to \ncome over to your place{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 14 00}\nWhy'd you stand me up?!\n{07 05 00}I{01 00 00 05 00} waited and waited in front\nof your house for you!{01 01 00}\n{07 0f 00}I feel like a dang fool{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{03 03 00 01}",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 00 00}Hey, {01 00 00 05 00}{04 1f 00}!{01 00 00 0f 00} {07 00 00}{07 01 00}Why do\nyou gotta treat people like\nthat, huh?\n{07 16 00}I was looking forward to\nhanging out at your house,\n{01 00 00 05 00}{04 02 00}!!\n{07 05 00}And then you weren't there!{01 01 00}\nYou're nothin' but a CHUMP,\n{04 1f 00}!{03 02 00 01}",
+   "et": ""
+  }
+ ]
+}

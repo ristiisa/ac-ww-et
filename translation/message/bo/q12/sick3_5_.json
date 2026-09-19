@@ -1,0 +1,115 @@
+{
+ "file": "script/ENG/message/bo/q12/sick3_5_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 16 00}{01 08 00}HWEEZE {01 00 00 0a 00}HWEEZE{01 00 00 05 00} HACKITY!{01 01 00} {07 07 00}Man, I\nfeel like my insides are\nshaking.",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 16 00}{01 08 00}HACKITY!{01 00 00 05 00} {01 08 00}HACKITY!{01 00 00 0a 00} {07 07 00}Ow ow!\nEven my earlobes ache{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 07 00}{01 08 00}HA-KARF! {01 00 00 0a 00}I'd keep my\ndistance if I were you.",
+   "et": ""
+  },
+  {
+   "id": 3,
+   "en": "{07 07 00}The grass is speaking to\nme{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} It says it's cold{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\nAnd bored{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.",
+   "et": ""
+  },
+  {
+   "id": 4,
+   "en": "{07 16 00}{01 08 00}HACKITY!{01 00 00 05 00} HA-KARF!{01 00 00 0a 00} {07 07 00}S{01 00 00 03 00}-save\nyourself, {01 00 00 05 00}{04 02 00}.",
+   "et": ""
+  },
+  {
+   "id": 5,
+   "en": "{07 16 00}Oh{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} Wow{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} {07 07 00}The world is\nspinning too fast,\n{01 00 00 0a 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 6,
+   "en": "{07 16 00}Need.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{ff 00 00 07}medicine{ff 00 00 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}. {01 08 00}HWEEZE!",
+   "et": ""
+  },
+  {
+   "id": 7,
+   "en": "{07 07 00}{01 08 00}HACK! HACK! HACK!{01 00 00 14 00} Thanks.{01 00 00 14 00}\n{07 00 00}You're awesome.",
+   "et": ""
+  },
+  {
+   "id": 8,
+   "en": "{07 07 00}Thanks, {04 1f 00}.{01 00 00 14 00} I knew\nyou'd{01 00 00 0a 00} come through,\n{01 00 00 0a 00}{04 02 00}.",
+   "et": ""
+  },
+  {
+   "id": 9,
+   "en": "{07 07 00}{01 08 00}HACKity!{01 00 00 05 00} HWEEZE HWEEZE!{01 00 00 0a 00}\nThanks{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00} HWEEZE!{01 01 00} Now let me\nchoke this stuff down.",
+   "et": ""
+  },
+  {
+   "id": 10,
+   "en": "{07 16 00}Eyes swimming{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} Head\nburning{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} Toenails aching{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n{07 07 00}Must have{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{ff 00 00 07}medicine{01 00 00 05 00}{ff 00 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.",
+   "et": ""
+  },
+  {
+   "id": 11,
+   "en": "{07 07 00}Brrr{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}. I'm so cold, {01 00 00 05 00}you\ncould make ice cream in my\nbelly, {01 00 00 0a 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 12,
+   "en": "{07 07 00}Ungh.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} {07 16 00}Got {ff 00 00 07}medicine{ff 00 00 00}?{01 00 00 0a 00}\nPLEASE! {01 00 00 0a 00}{01 08 00}SNOOOORFLE!",
+   "et": ""
+  },
+  {
+   "id": 13,
+   "en": "{07 16 00}I can hear the colors!{01 00 00 0a 00}\n{07 07 00}It's like a million ringing\nbells{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}. {01 08 00}DING DING DING!",
+   "et": ""
+  },
+  {
+   "id": 14,
+   "en": "{07 07 00}{01 08 00}HACK! {01 00 00 05 00}SNEEYORF!{01 00 00 05 00} HWEEZE!{01 01 00} Are\nyou having fun observing\nmy misery?",
+   "et": ""
+  },
+  {
+   "id": 15,
+   "en": "{07 07 00}AHHHH-{01 08 00}CHOOOOOO!{01 00 00 05 00} HACK! HACK!{01 00 00 05 00}\nYou know, {01 00 00 05 00}I don't have a lot\nof time for this right now!",
+   "et": ""
+  },
+  {
+   "id": 16,
+   "en": "{07 14 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}Thanks.{01 00 00 14 00} Yeah, that kinda\nfeels a little better.",
+   "et": ""
+  },
+  {
+   "id": 17,
+   "en": "{07 16 00}.{01 00 00 05 00}.{01 00 00 05 00}.What is this,{01 00 00 05 00} the\nextra-grody formula or\nsomething?",
+   "et": ""
+  },
+  {
+   "id": 18,
+   "en": "{07 00 00}Ah-{01 00 00 05 00}ah-{01 00 00 05 00}ah{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n{01 08 00}KERSCHNOFF-a-blatts!\n\n{07 04 00}Whoa,{01 00 00 0a 00} I think I sneezed away\nthe chills there.",
+   "et": ""
+  },
+  {
+   "id": 19,
+   "en": "{07 14 00}Whew, {01 00 00 0a 00}thanks.",
+   "et": ""
+  },
+  {
+   "id": 20,
+   "en": "{07 14 00}Thanks, buddy.{01 00 00 14 00} You're a good\negg, that's for sure.",
+   "et": ""
+  },
+  {
+   "id": 21,
+   "en": "{07 16 00}Ughhh{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} Why are you being\nso nice, {01 00 00 0a 00}{04 02 00}?",
+   "et": ""
+  }
+ ]
+}

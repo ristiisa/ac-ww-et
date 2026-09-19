@@ -1,0 +1,15 @@
+{
+ "file": "script/ENG/message/ha/q01/pdraw_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 1d 00}Whoa! You're crazy! {01 00 00 05 00}{07 0b 00}I can't\nbelieve you really caught\n{04 1c 00}!\n{07 0e 00}I mean, y'know, I nabbed\n{04 1d 00}...\nBut{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 00 00}Well, both of these bugs\nare equally dangerous, so{01 00 00 0a 00}\nit's a draw!\n{07 14 00}Here, {01 00 00 05 00}take your bug back.{01 01 00}\nLet's do this again\nsometime, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 0e 00}{0b 03 00}{04 1c 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0f 00}\n{07 00 00}And what do I got?{01 00 00 05 00}\n{0b 03 00}{04 1d 00}.\n{07 14 00}Listen,{01 00 00 05 00} the way I see it,\nthese two bugs are like\ntwo heavyweights.\n{07 14 00}I mean, they both rock.{01 00 00 05 00}\nWhich means our contest\nends in a tie, {01 00 00 05 00}{04 02 00}!\n{07 00 00}You can have yours back.{01 00 00 05 00}\nLet's try this again\nanother day, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  }
+ ]
+}

@@ -1,0 +1,160 @@
+{
+ "file": "script/ENG/message/ge/ev/nbirth_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 04 00}Oh, it's {01 00 00 05 00}{04 1f 00}!{01 00 00 14 00}\n{07 14 00}Yaaaaay! You came!{01 01 00}\nCome on in!",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 14 00}{0b 03 00}{04 1f 00}!{01 00 00 0a 00} I knew you'd\nshow up, {01 00 00 05 00}{04 02 00}!\n{01 00 00 05 00}Don't be shy. C'mon in!",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 00 00}Yesssss! {01 00 00 05 00}{ff 00 00 06}{04 0f 00} {ff 00 00 00}is\nhere for my birthday party,\ntoo!\n{07 0d 00}This is the best birthday\never, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 3,
+   "en": "{07 0d 00}Even {ff 00 00 06}{04 0f 00} {ff 00 00 00}came out\nto party with me!{ff 00 00 06}\n{ff 00 00 00}\n{07 14 00}Seriously,{01 00 00 05 00} you guys must be\nhardcore fans,\n{01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 4,
+   "en": "{07 00 00}You brought me a totally\ncute present, right?{02 00 00 ff ff}\nYou know it!\nUmmm...no.",
+   "et": ""
+  },
+  {
+   "id": 5,
+   "en": "{07 16 00}It's my birthday! You've got\nto give something to the\nbirthday girl, {01 00 00 05 00}{04 02 00}!{02 00 00 ff ff}\nWell, I am!\nNot so much.",
+   "et": ""
+  },
+  {
+   "id": 6,
+   "en": "{07 14 00}That's cool. It's the\nthought that counts,\nanyway.\n{07 16 00}Of course, it's always nice\nto get fun loot from your\nfriends, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 7,
+   "en": "{07 1c 00}Now I know how you REALLY\nfeel about me{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.",
+   "et": ""
+  },
+  {
+   "id": 8,
+   "en": "{07 14 00}Don't even worry about it!{01 00 00 0a 00}\nI'm not all materialistic\nanyway, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 9,
+   "en": "{07 06 00}{0b 03 00}{04 1f 00}! Don't mess\nwith me like that!",
+   "et": ""
+  },
+  {
+   "id": 10,
+   "en": "{07 0d 00}YAAAY! {01 00 00 05 00}You're such\na sweetheart, {01 00 00 05 00}{04 02 00}!\n\n{07 14 00}I knew you loved me,\n{04 1f 00}!",
+   "et": ""
+  },
+  {
+   "id": 11,
+   "en": "{07 1d 00}Yessssssssssssssss!{01 00 00 0a 00}\n{0b 03 00}{04 1a 00}!\n\n{07 14 00}You didn't have to get\nme anything, {04 1f 00}! \nYou rock, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 12,
+   "en": "{07 1d 00}Like, no way! {01 00 00 05 00}NO WAY!\n{0b 03 00}{04 1a 00}?!{01 00 00 14 00}\n{07 14 00}Whoa, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 13,
+   "en": "{07 1d 00}TANGY TANGERINES!{01 00 00 0a 00} WOWWIE!\n{0b 03 00}{04 1a 00}!\n\n{07 06 00}How'd ya know I wanted\nthat, {01 00 00 05 00}{04 02 00}?",
+   "et": ""
+  },
+  {
+   "id": 14,
+   "en": "{07 1d 00}Huh-what?! {01 00 00 0f 00} Oh, WOW!\n{0b 03 00}{04 1a 00}?!\n\n{07 06 00}{0b 03 00}{04 1f 00}, {01 00 00 05 00}how'd you know\nI really wanted\n{04 1a 00}?!",
+   "et": ""
+  },
+  {
+   "id": 15,
+   "en": "{07 14 00}You're making me feel bad!{01 00 00 05 00}\n{0b 03 00}{01 00 00 05 00}{04 02 00}, take my\n{0b 02 00}{04 1b 00}!",
+   "et": ""
+  },
+  {
+   "id": 16,
+   "en": "{07 14 00}You've GOT to take my\n{0b 02 00}{04 1b 00}!\nSeriously, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 17,
+   "en": "{07 0a 00}We're gonna be\nBFF, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 18,
+   "en": "{07 0a 00}I wouldn't sell our\nfriendship for a bazillion\nBells, {01 00 00 0a 00}{04 1f 00}!",
+   "et": ""
+  },
+  {
+   "id": 19,
+   "en": "{07 17 00}Tee hee hee hee.{01 00 00 0a 00} Now I'm\none year closer to being a\ngrown-up, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 20,
+   "en": "{07 00 00}Growing up is fun.{07 0f 00} {01 00 00 05 00}But I\nwanna be gut-wrenchingly\ncute forever!",
+   "et": ""
+  },
+  {
+   "id": 21,
+   "en": "{07 04 00}How old am I?!?!\n\n\n{07 15 00}I'm gonna pretend that you\ndidn't ask such an AWFUL\nquestion, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 22,
+   "en": "{07 02 00}Do you think I'm getting too\nold to be a pop star?!\n\n{07 11 00}Maybe I'll just shave a few\nyears off of what I tell\nthe magazines{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}",
+   "et": ""
+  },
+  {
+   "id": 26,
+   "en": "Whoa, {04 1f 00}! I didn't \nknow you were here, too,\n{01 00 00 05 00}{04 02 00}!\nDoes this mean that\n{ff 00 00 06}{04 10 00} {ff 00 00 00}thinks we're\nequally important?!",
+   "et": ""
+  },
+  {
+   "id": 27,
+   "en": "Hey, {04 1f 00}! So you\nwere invited to the party\ntoo, huh?\nWell, let's get this\n{ff 00 00 06}{04 10 00} {ff 00 00 00}party\nstarted, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 28,
+   "en": "Ummmm...{04 1f 00}? {01 00 00 05 00} You\nbrought a present, right?\n\nWell, how about you give it\nright now, {01 00 00 05 00}{04 02 00}?\n\nThe anticipation is just\nKILLING poor {ff 00 00 06}{04 10 00}{ff 00 00 00}!",
+   "et": ""
+  },
+  {
+   "id": 29,
+   "en": "{0b 03 00}{04 1f 00}! {01 00 00 05 00}Don't even tell\nme you came without a\npresent!\nIf you have one, you better\ngive it right away.\n\nI'm sure {ff 00 00 06}{04 10 00} {ff 00 00 00}is\ndyin' to see what's inside,\n{01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 30,
+   "en": "{07 0d 00}Birthday parties make me\nwant to throw my arms up\nin the air, {01 00 00 05 00}{04 02 00}!\nAnd, you know, wave 'em\naround!{01 00 00 05 00} Like, I don't\neven care!",
+   "et": ""
+  },
+  {
+   "id": 31,
+   "en": "{07 14 00}Don't worry, {04 1f 00}! {01 00 00 05 00}\nI'll invite you to my\nbirthday party, too!",
+   "et": ""
+  },
+  {
+   "id": 32,
+   "en": "{07 0a 00}Happy, happy, happy\nbirthday, {ff 00 00 06}{04 10 00}{ff 00 00 00}!\nYaaaaay, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 33,
+   "en": "{07 14 00}People need to celebrate\nme, too!{01 00 00 0a 00} Who cares if it's\nnot my birthday!",
+   "et": ""
+  }
+ ]
+}

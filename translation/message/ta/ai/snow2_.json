@@ -1,0 +1,35 @@
+{
+ "file": "script/ENG/message/ta/ai/snow2_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 0c 00}{0b 03 00}{01 06 00}Oh, hey{01 07 00}!{01 00 00 0f 00}\n{0b 03 00}{04 1f 00}.",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 07 00}{0b 03 00}{01 00 00 0a 00}{01 06 00}Oh, BRRRRRR{01 07 00}!{01 00 00 0f 00}\nAnother cold one today,\n{01 00 00 05 00}{04 02 00}.",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 16 00}{01 00 00 05 00}The snow doesn't look like\nit'll be letting up at all{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.",
+   "et": ""
+  },
+  {
+   "id": 3,
+   "en": "{07 14 00}Snow is prettiest when it's\nstill falling, {01 00 00 14 00}{04 02 00}.",
+   "et": ""
+  },
+  {
+   "id": 4,
+   "en": "{0b 03 00}{01 06 00}Oh, no{01 07 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} The\nsky's still dumping white\ndown on us, {01 00 00 0a 00}{04 02 00}.",
+   "et": ""
+  },
+  {
+   "id": 5,
+   "en": "{07 15 00}{0b 03 00}{01 06 00}UGH{01 07 00}!{01 00 00 14 00} How\nmuch longer is it gonna\nkeep falling, {01 00 00 0a 00}{04 02 00}?!",
+   "et": ""
+  }
+ ]
+}

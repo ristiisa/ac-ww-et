@@ -1,0 +1,30 @@
+{
+ "file": "script/ENG/mail/msg/fu_byebye.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "I'm leaving. You've been\nthe nicest person in\n{04 11 00}! Thank you\nso much for everything!",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "I'm leaving. I know this is\na surprise. Please forgive\nme... I just need to see\nthe world. Bye for now!",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "I'm moving out! Gonna see\nthe world! Everyone in\n{04 11 00} was fun, but\nyou were always the best!",
+   "et": ""
+  },
+  {
+   "id": 3,
+   "en": "I'm sick of being normal!\nI wanna be peppy or angry\nor tired or...anything!\nSo I'm moving! See ya!",
+   "et": ""
+  },
+  {
+   "id": 4,
+   "en": "I'm moving, but don't\nworry! Tortimer told me\nwe're all on the same\nplanet, so I'll be OK!",
+   "et": ""
+  }
+ ]
+}

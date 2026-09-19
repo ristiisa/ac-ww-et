@@ -1,0 +1,80 @@
+{
+ "file": "script/ENG/message/ko/ev/insect_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 15 00}{0b 03 00}{04 1f 00}!{01 00 00 0f 00} Today's every\nkid's dream, the big\n{ff 00 00 03}Bug-Off{ff 00 00 00}!\nSo you think you've got a\nshot at winning? You'd\nbetter stop dreamin'!\n{07 15 00}At the end of the day,\nonly one of us walks away\nwith that trophy.\nSo stay outta my way!",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 12 00}Nnnngh{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0f 00} Yeah, so it's the\nbig {ff 00 00 03}Bug-Off{ff 00 00 00} and all, {07 00 00}but I\ndon't care if I win or lose.\n{07 14 00}I just wanna hang out{01 00 00 03 00}\nand enjoy the scenery,\n{01 00 00 05 00}{04 02 00}.",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 00 00}Today's the big {04 03 00}\n{ff 00 00 03}Bug-Off{ff 00 00 00}, {01 00 00 05 00}{04 02 00}!\n{07 0b 00}Huh?{01 00 00 0f 00} What makes it so big?\n{07 15 00}Look, we're in a small town\nhere, kid! You wanna give\nus a break, {01 00 00 05 00}{04 02 00}?!",
+   "et": ""
+  },
+  {
+   "id": 3,
+   "en": "{07 00 00}Hey, {01 00 00 05 00}{04 1f 00}!\n\n\n{07 14 00}I just caught a {ff 00 00 02}{04 0f 00}-mm\n{0b 02 00}{ff 00 00 00}{04 1a 00}!\n\n{07 0d 00}Might as well hand over the\nprize now. {01 00 00 05 00}It's as good\nas mine, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 4,
+   "en": "{07 14 00}Heh heh heh!{01 00 00 05 00} This \n{0b 02 00}{04 1a 00} is\ngonna win it for sure{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.\n{07 15 00}I mean, we're talkin' a\n{ff 00 00 02}{04 0f 00}-mm {ff 00 00 00}beast here,\n{01 00 00 05 00}{04 02 00}{01 00 00 14 00}!\nI'll take my prize now,\nthanks!",
+   "et": ""
+  },
+  {
+   "id": 5,
+   "en": "{07 15 00}Whaa?! {01 00 00 05 00}{0b 03 00}{04 1f 00}!!!{01 00 00 14 00}\n\n\nYou think that just 'cause\nI'm in the lead right now,\n{07 0b 00}I'm heading for a fall?\n{07 15 00}I don't like your attitude,\nkid!\n\n{07 00 00}This {ff 00 00 02}{04 0f 00}-mm\n{ff 00 00 00}{0b 02 00}{04 1a 00} is\nmy ticket to victory!{01 00 00 05 00}\nI've got this for sure,\n{01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 6,
+   "en": "{07 00 00}There isn't anything sad\nabout chasin' bugs at our\nage!\n{07 1c 00}The only sad thing would be\ngetting too old to run\nafter 'em, {01 00 00 05 00}{04 02 00}!\n{07 00 00}But, hey,{01 00 00 05 00} I've got plenty of\ngood bug-chasin' years still\nleft in me!",
+   "et": ""
+  },
+  {
+   "id": 7,
+   "en": "{07 00 00}You can't rely on your eyes\nalone to hunt bugs, y'know.\n\n{07 15 00}You gotta FEEL the bug{07 00 00}\n{ff 00 00 02}before you swing your net{ff 00 00 00},\n{01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 8,
+   "en": "{07 00 00}Yeah, {04 10 00} caught a\nbig one, all right{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n\n{07 01 00}Hey, what're you lookin' at?{01 01 00}\n{07 05 00}I'm not out of this yet,\n{01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 9,
+   "en": "{07 00 00}Bugs are really different\nfrom folks like us,\n{01 00 00 05 00}{04 02 00}.\n{07 1c 00}Even if they were our size,\nI don't think we'd get\nalong.\n{07 15 00}Y'know, they'd be trying to\nconquer us and become\nour insect overlords.\nAnd that is just NOT cool!",
+   "et": ""
+  },
+  {
+   "id": 10,
+   "en": "{07 0e 00}{0b 03 00}{04 10 00} is a better\nbug hunter than I thought!\n\n{07 1b 00}Oh, but you already\nknew that, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 11,
+   "en": "{07 16 00}So {04 10 00} caught a\n{ff 00 00 02}{04 0f 00}-millimeter\n{0b 02 00}{ff 00 00 00}{04 1a 00}?\n{07 15 00}Arrggh{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} Some people! {01 00 00 05 00}They\njust think they're good at\neverything, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 12,
+   "en": "{07 15 00}At this rate, {04 10 00}\nis gonna win it all,\n{01 00 00 05 00}{04 02 00}!\n{07 00 00}But I don't care about any\nol' {ff 00 00 02}{04 0f 00}-mm\n{ff 00 00 00}{0b 02 00}{04 1a 00}!\nThis isn't over yet,\n{01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 13,
+   "en": "{07 00 00}I thought bugs were hard to\nfind, but I took a nap at\na friend's house.\n{07 07 00}When I woke up, there were\nbugs all over the place!\nDid that really happen?!\n{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 06 00}Or am I going crazy?",
+   "et": ""
+  },
+  {
+   "id": 14,
+   "en": "{07 00 00}If it ended now, {04 10 00}\nwould win, {01 00 00 05 00}{04 02 00}!\n\nIs it even possible to beat\na {ff 00 00 02}{04 0f 00}-mm{ff 00 00 00}\n{0b 02 00}{04 1a 00}?!\n{07 0c 00}Oh! Hey, {04 1f 00}!\n",
+   "et": ""
+  }
+ ]
+}

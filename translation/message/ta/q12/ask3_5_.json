@@ -1,0 +1,35 @@
+{
+ "file": "script/ENG/message/ta/q12/ask3_5_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 16 00}KAAAAAK! HRACK!{01 00 00 05 00} HRAAAAAACK!{01 00 00 14 00}\n{07 07 00}I can't believe I'm making\nthese sounds!\nSo {01 00 00 05 00}very sick{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 01 00} If I pass\nout here, please make sure\nI have some lipstick on.",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 07 00}I've got the worst chills{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\nI can't stop shaking,\n{01 00 00 0a 00}{04 02 00}.",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 07 00}So {01 00 00 05 00}very{01 00 00 05 00} cold.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00} Can't {01 00 00 05 00}stop{01 00 00 05 00}\nshivering{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}. Lipstick{01 00 00 05 00} all{01 00 00 05 00}\nover{01 00 00 05 00} face{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.",
+   "et": ""
+  },
+  {
+   "id": 3,
+   "en": "{07 14 00}Thanks to the {ff 00 00 07}medicine{ff 00 00 00},{01 00 00 05 00}\nI feel a little better.\n\n{07 09 00}It's clear that I only have\none friend in this world,{01 00 00 0a 00}\nand that's {ff 00 00 05}{04 0f 00}{ff 00 00 00}.",
+   "et": ""
+  },
+  {
+   "id": 4,
+   "en": "{07 00 00}The {ff 00 00 07}medicine{ff 00 00 05} {ff 00 00 00}feels like it's\nworking.\n\n{07 19 00}There's one name that just\nmoved to the top of my\nfriend list:{01 00 00 0a 00} {ff 00 00 05}{04 0f 00}{ff 00 00 00}.",
+   "et": ""
+  },
+  {
+   "id": 5,
+   "en": "{07 00 00}Thanks to the {ff 00 00 07}medicine{ff 00 00 00}, {07 14 00}I\nfeel loads better{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.\n\nI have one person to thank\nfor this, {01 00 00 0f 00}and that's\n{ff 00 00 05}{04 0f 00}{ff 00 00 00}.",
+   "et": ""
+  }
+ ]
+}

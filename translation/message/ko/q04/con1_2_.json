@@ -1,0 +1,20 @@
+{
+ "file": "script/ENG/message/ko/q04/con1_2_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 17 00}I never thought I'd ever be\ninto style and fashion this\nmuch, {01 00 00 05 00}{04 02 00}!\n{07 11 00}And nobody better hear a\nwhisper of it!",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 14 00}{0b 03 00}{04 1f 00}!{01 00 00 0f 00} {07 06 00}You know, uh...{01 00 00 05 00}\nIf you have any clothes you\ndon't want, {01 00 00 05 00}I'll take 'em!",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 19 00}Stylish clothes are so \ncool{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n\n{07 00 00}But can they take a serious\nsushi-spill accident? {01 00 00 05 00}That's\nthe real test, {01 00 00 05 00}{04 02 00}.",
+   "et": ""
+  }
+ ]
+}

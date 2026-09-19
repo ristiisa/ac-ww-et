@@ -1,0 +1,450 @@
+{
+ "file": "script/ENG/message/sp/npc/osister_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": ".{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 16 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}I'm a little busy right\nnow.{01 00 00 05 00}.{01 00 00 05 00}.",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": ".{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{ff 00 00 06}Mabel{ff 00 00 00},{01 00 00 05 00} can you take care\nof this customer here?{09 09 00}",
+   "et": ""
+  },
+  {
+   "id": 3,
+   "en": "{07 16 00}I just can't let my claws\nstray from their work{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\nI'm sorry!",
+   "et": ""
+  },
+  {
+   "id": 4,
+   "en": "If you have a question,\nwould you mind asking the\nclerk over there?",
+   "et": ""
+  },
+  {
+   "id": 5,
+   "en": ".{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{ff 00 00 06}Mabel{ff 00 00 00}, please!{09 09 00}",
+   "et": ""
+  },
+  {
+   "id": 6,
+   "en": "Umm.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} I really do\nappreciate you coming in as\noften as you do, but...\n{07 16 00}I'm a little overloaded.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00}\nI'm sorry!",
+   "et": ""
+  },
+  {
+   "id": 7,
+   "en": "{07 16 00}I'm sorry{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}. I can't take my\nclaws away from my work\nright now.{01 00 00 05 00}.{01 00 00 05 00}.",
+   "et": ""
+  },
+  {
+   "id": 8,
+   "en": "{ff 00 00 06}Mabel{ff 00 00 00}!{01 00 00 05 00} Hey, Sis,{01 00 00 0f 00} can you\nplease take care of this\ncustomer?{09 09 00}",
+   "et": ""
+  },
+  {
+   "id": 9,
+   "en": "{07 0e 00}Umm{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} Your name is\n{04 00 00}, isn't it?{07 00 00}{09 09 00}",
+   "et": ""
+  },
+  {
+   "id": 10,
+   "en": "{07 14 00}Feel free to look around,\n{01 00 00 05 00}{04 00 00}.",
+   "et": ""
+  },
+  {
+   "id": 11,
+   "en": "You're always busily running\naround, yet you always\ncheck in on us.\n{07 14 00}It really means a lot to\nme, {04 00 00}.",
+   "et": ""
+  },
+  {
+   "id": 12,
+   "en": "{07 04 00}Oh! {04 00 00}!{01 00 00 0a 00}\n{07 00 00}You're looking happy and\nhealthy.{01 00 00 0a 00} I'm glad!\nYou're so sweet. {01 00 00 0a 00}You always\ntake the time to stop by\nand see us...\n{07 16 00}But I never even have time\nto make you any coffee!\n{ff 00 00 04}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}Patience, Sable.{ff 00 00 00}\n{07 00 00}It's times like these that I\nreally wish we had one more\nset of claws around.\nThen I could take the time\nto sit and chat with you.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{09 09 00}",
+   "et": ""
+  },
+  {
+   "id": 13,
+   "en": "{07 14 00}Tee hee hee!{01 00 00 05 00} {04 00 00}!{01 00 00 0f 00}\nIf you see anything you\nlike, just let {ff 00 00 06}Mabel{ff 00 00 00} know!",
+   "et": ""
+  },
+  {
+   "id": 14,
+   "en": "{07 14 00}Thank you, {04 00 00}{01 00 00 0a 00},\nas always.",
+   "et": ""
+  },
+  {
+   "id": 15,
+   "en": "{07 14 00}Hi there, {04 00 00}!\nWelcome!\n\nThanks so much for making\nour shop your favorite.{07 00 00}{09 09 00}",
+   "et": ""
+  },
+  {
+   "id": 16,
+   "en": "{07 14 00}{0b 03 00}{04 00 00}!{01 00 00 05 00} It's good to\nsee you, as always!",
+   "et": ""
+  },
+  {
+   "id": 17,
+   "en": "All this detailed stitchwork\nsure does cramp up the\nshoulders...\nBut after we close up shop\ntoday, {ff 00 00 06}Mabel{ff 00 00 00} promised me a\ngood massage.{01 00 00 05 00}.{01 00 00 05 00}.\n{09 01 00}{09 07 00}{01 00 00 05 00}{07 0b 00}Right, {01 00 00 05 00}{07 14 00}Mabel?{09 09 00}",
+   "et": ""
+  },
+  {
+   "id": 18,
+   "en": "{07 14 00}Oh, {04 00 00}!\nWelcome!\n\n{07 00 00}Um,{01 00 00 05 00} I'm very busy,{01 00 00 05 00} as usual.{01 00 00 05 00}\nThey're all just ready-made\npatterns, but the margin...\nIt's just so low!\n\n\n{07 16 00}No matter how much I work,\nI can't produce the volume\nI need to make much profit!{07 00 00}{09 09 00}",
+   "et": ""
+  },
+  {
+   "id": 19,
+   "en": "{07 14 00}Today, I've sped up my work\npace!{01 00 00 0a 00} The trick is, you just\nhave to get in the zone!{09 09 00}",
+   "et": ""
+  },
+  {
+   "id": 20,
+   "en": "{07 14 00}How are things,{01 00 00 05 00}\n{04 00 00}?",
+   "et": ""
+  },
+  {
+   "id": 21,
+   "en": "{07 14 00}Welcome, {04 00 00}.\n\n\n{07 00 00}As you can see, I'm as busy\nas ever.\n\nHmm?{01 00 00 0a 00} What's that?{01 00 00 0f 00}\n{07 0b 00}How can I handle always\nbeing overloaded with work?\n{07 00 00}Well, you know,{01 00 00 05 00} without this\njob, {07 16 00}we wouldn't be able to\nsurvive.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 00 00}Instead of thinking too\nmuch on it, I just accept\nthat this is my life.\nIt's been like this ever\nsince I was young. {01 00 00 0a 00}It's\nall I've ever known.\nYes,{01 00 00 05 00} I've been sitting in\nfront of a sewing machine\nsince I was a young girl.\nThe first thing I ever made{01 00 00 05 00}\nwas a {ff 00 00 02}pair of gloves{ff 00 00 00}.{09 09 00}",
+   "et": ""
+  },
+  {
+   "id": 22,
+   "en": "In the end,{01 00 00 05 00} I'm just happy\nto have a job.{01 00 00 05 00}.{01 00 00 05 00}.\n\n{07 14 00}And I have a number of\npeople to thank for that.{01 00 00 0a 00}\nI can't forget them.",
+   "et": ""
+  },
+  {
+   "id": 23,
+   "en": "{07 14 00}{04 00 00},{01 00 00 05 00} thank you so\nmuch for always coming by\nour shop. {01 00 00 0a 00}It's so sweet!{09 09 00}",
+   "et": ""
+  },
+  {
+   "id": 24,
+   "en": "{07 14 00}Oh,{01 00 00 05 00} welcome!\n\n\n{07 04 00}What?{01 00 00 05 00} The couple in that\nphoto?{01 00 00 0f 00} {07 16 00}Oh, stop it,\n{01 00 00 05 00}{04 00 00}, really.{01 00 00 0a 00}\nI'm still single!{07 00 00} Of course\nthat's not me.{01 00 00 0a 00} That's my\nlate mother.\nI'm the young girl, there,{01 00 00 0a 00}\nand the smaller girl beside\nme is {ff 00 00 06}Mabel{ff 00 00 00}. \nThe two of us are ten\nyears apart.{01 00 00 05 00}.{01 00 00 05 00}.\n\n{07 16 00}Both Mother and Father died\nwhen {ff 00 00 06}Mabel{ff 00 00 00} was still just a\nlittle girl.\n{07 00 00}But since she was so small,\nshe doesn't remember a\nthing, the poor dear.\n{07 16 00}The only memory she has of\nour parents is this photo.{01 00 00 05 00}.{01 00 00 05 00}.\n\n{07 00 00}I never thought I'd be able\nto take the place of our\nparents for her...\nSo I just did what I had to\nand tried to look after her\nas best I could.\n{07 14 00}Somehow, thankfully, she\ngrew up to be that bright\nbit of sunshine we all love.\nIt was a huge relief that\nshe grew up so normal.{01 00 00 05 00}\n\n{07 16 00}Her only fault is that she\ncan sometimes be a bit too\ntomboyish.{01 00 00 05 00}.{01 00 00 05 00}.{07 00 00}{09 09 00}",
+   "et": ""
+  },
+  {
+   "id": 25,
+   "en": "{07 16 00}Oh, please pardon me!{01 00 00 0f 00}\nI didn't mean to make you\nlisten to our gloomy tale.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n{07 00 00}To be honest, I don't\nusually{01 00 00 05 00} tell people that\nstory.\nBut when you're around,\n{04 00 00}, I feel so\nat ease,{01 00 00 05 00} I just let it out.\n{07 0b 00}Why, I wonder?{01 00 00 0f 00} {07 00 00}That's a\nlittle strange, huh?",
+   "et": ""
+  },
+  {
+   "id": 26,
+   "en": "{07 16 00}It's so old,{01 00 00 05 00} this sewing\nmachine!{01 00 00 0f 00}{07 14 00} But{01 00 00 05 00} it's like\na part of me now.\n{07 00 00}It's almost like{01 00 00 05 00} I couldn't\nwork without it.{01 00 00 0f 00}{07 14 00} I have to\ntake good care of it!",
+   "et": ""
+  },
+  {
+   "id": 27,
+   "en": "{07 04 00}Oh.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} Hi there!\n\n\n{07 00 00}Um,{01 00 00 05 00} {04 00 00},{01 00 00 0f 00} thank you\nso much for stopping by,\nas always...\n{07 16 00}But I'd rather you not look\ntoo closely at my face\ntoday, OK?\nIt's just that{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\nWell, I have this{01 00 00 05 00} whopper\nof a zit on my nose.{01 00 00 05 00}.{01 00 00 05 00}.\nI don't know why,{01 00 00 05 00} but I get\nthem so easily.{01 00 00 0f 00} Yuck!{01 00 00 0a 00}\nStupid nose pimples!\nMaybe that's why I've always\nhad this bad habit of\nlooking down.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n{07 04 00}Oh!{01 00 00 05 00} That reminds me!\n{07 16 00}I had a HUGE one when that\npicture was taken, too.{09 09 00}",
+   "et": ""
+  },
+  {
+   "id": 28,
+   "en": "{07 14 00}I'm so glad you come by as\noften as you do,{01 00 00 05 00}\n{04 00 00}.{09 09 00}",
+   "et": ""
+  },
+  {
+   "id": 29,
+   "en": "{04 00 00}, whenever you\ncome into the store,{01 00 00 05 00} I\nalways feel so.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\nN-{01 00 00 05 00}no.{01 00 00 0f 00} It's nothing.{01 00 00 0f 00} Don't\nmind me.{01 00 00 0a 00} Forget it.",
+   "et": ""
+  },
+  {
+   "id": 30,
+   "en": "{07 14 00}Oh!{01 00 00 05 00} Welcome!\n\n\nI'm so glad I get to see\nyour lovely face again,\n{04 00 00}.\n{07 00 00}Actually,{01 00 00 05 00} this is just\nbetween us,{01 00 00 0a 00} but when I see\nyour eyes, {04 00 00}...\nI remember this strong\nmemory from my childhood.\n\nThose perfectly round,\nsparkling glass marbles{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n\nThat's right.{01 00 00 05 00} It was back\nwhen Mother and Father\nwere still alive.\nThey were both working\nhappily in the shop back\nthen{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\nFather bought {ff 00 00 06}Mabel{ff 00 00 00} some\nmarbles to play with...\n\nThey were so pretty, so I\nasked,{01 00 00 0a 00}{07 0b 00} \"Aren't there any for\nme, Daddy?\"{01 00 00 0a 00}\n{07 00 00}Well, Father said, {01 00 00 05 00}{07 15 00}\"{ff 00 00 06}Sable{ff 00 00 00}!\nYou're the eldest! You're\ntoo old for toys!\"{01 00 00 05 00}{07 00 00}\nWhen he said it like that,\nI just started bawling\nlike crazy.{01 00 00 0f 00}\n.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}It's not that I was all\nthat sad, but the tears\nkept coming anyway.\nThey wouldn't stop!{01 00 00 05 00} And I\njust got so frustrated and\nsnapped all of a sudden!\n{07 16 00}Without thinking about it,\nI snatched away all of\n{ff 00 00 06}Mabel{ff 00 00 00}'s marbles.\n{07 15 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}And then everything just\nwent to pieces!\n\n{07 16 00}{ff 00 00 06}Mabel{ff 00 00 00} started crying.{01 00 00 0a 00}\nFather got really angry.\nAnd I mean REALLY angry.\nThen I ran out of the\nshop...{01 00 00 0a 00}in my bare feet,\nno less!{07 00 00}{09 09 00}",
+   "et": ""
+  },
+  {
+   "id": 31,
+   "en": "{07 14 00}My sewing machine is just\npurring along today!{01 00 00 05 00} I'm\ngetting a lot of work done!",
+   "et": ""
+  },
+  {
+   "id": 32,
+   "en": "{07 14 00}The tapestry hanging on\nthat wall there is a\nmemento from my mother.\nHaving it on that wall\nmakes me feel like she's\nwatching over me...",
+   "et": ""
+  },
+  {
+   "id": 33,
+   "en": "{07 14 00}Welcome,{01 00 00 05 00} {04 00 00}.\n\n\nIt's Monday today,{01 00 00 0a 00} the\nstart of a new week. \n\nHere's hoping we both make\nit through all right!",
+   "et": ""
+  },
+  {
+   "id": 34,
+   "en": "{07 14 00}Welcome,{01 00 00 05 00} {04 00 00}.\n\n\n{07 00 00}Did you know Tuesday is the\nday people are most likely\nto slack off?\nLet's try to stay focused!\n\n\n{07 15 00}If a seamstress is going to\nmake a mistake, you can\nbet it'll be on Tuesday!\n{07 00 00}Mother used to say that\nlike it was going out of\nstyle{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.",
+   "et": ""
+  },
+  {
+   "id": 35,
+   "en": "{07 14 00}Welcome,{01 00 00 05 00} {04 00 00}.\n\n\n{07 00 00}Well, it's Wednesday.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\nOr \"hump day,\" as they call\nit. {01 00 00 0a 00}Whoever \"they\" are.\nI know it's not easy,{01 00 00 05 00} but\nlet's both try to get over\nthat hump!",
+   "et": ""
+  },
+  {
+   "id": 36,
+   "en": "{07 14 00}Welcome,{01 00 00 05 00} {04 00 00}.\n\n\n{07 00 00}You know, after we close up\non Thursday every week, I\nlike to relax and watch TV.\nYesterday, {ff 00 00 06}Mabel{ff 00 00 00} recorded\nmy favorite soap for me.{01 00 00 05 00}.{01 00 00 05 00}.\nIt's called \"{ff 00 00 02}Pointed Love{ff 00 00 00}.\"\nIt's all about porcupines in\nromantic relationships.{01 00 00 0a 00}\nIt's such a guilty pleasure.\n{07 0e 00}I wonder what happened this\nweek.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00} Did Reginald survive\nthat de-quilling procedure?\nAnd who is Esther's mystery\nporcupine? {07 06 00}Oh,{01 00 00 05 00} I can't\nwait to watch it tonight!\n{07 16 00}The main character is so\ndarn indecisive.{01 00 00 05 00}.{01 00 00 05 00}.\n\nShe's always changing her\nmind! {01 00 00 0a 00}It keeps me on pins\nand needles!",
+   "et": ""
+  },
+  {
+   "id": 37,
+   "en": "{07 14 00}Welcome,{01 00 00 05 00} {04 00 00}!\n\n\n{07 00 00}Thank goodness it's Friday!{01 00 00 0f 00}\nSo, {04 00 00},{01 00 00 05 00} will you be\nable to rest up tomorrow?{07 0b 00}\n{07 0e 00}What's that.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}?{01 00 00 05 00}\nYou want to know what I'm\ndoing tomorrow?\n{07 16 00}Nothing in particular.{01 00 00 05 00}.{01 00 00 05 00}.\n\n\n{07 00 00}I'll most likely be\nsewing and embroidering,\nyou know...\nJust like I do every\nweekend.",
+   "et": ""
+  },
+  {
+   "id": 38,
+   "en": "{07 14 00}Hey, {01 00 00 05 00}{04 00 00},{01 00 00 0a 00} welcome!\n\n\n{07 04 00}What!?{01 00 00 0a 00} Are you telling me\nI should take {07 0b 00}Saturday off{01 00 00 05 00}?\n\n{07 03 00}Tee hee hee hee!{01 00 00 05 00}\nYeah, right, {04 00 00}!{01 00 00 0a 00}\n{07 16 00}I know that you know.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n{07 00 00}Saturdays are our\nbusiest days!\n\n{07 14 00}We need to take advantage\nof the times when everyone\nelse is relaxing.\n{07 00 00}The shortest route to\ngetting something done is\nto just do it!\nDad used to say that when I\nwas little.{01 00 00 05 00}.{01 00 00 05 00}.",
+   "et": ""
+  },
+  {
+   "id": 39,
+   "en": "{07 14 00}Welcome,{01 00 00 05 00} {04 00 00}.\n\n\nI'm so happy that you\ndecided to pay us a visit...\nand on a Sunday, too!\n{07 0b 00}What?{01 00 00 0a 00} Who, me?{01 01 00}\n{07 03 00}Tee hee hee!\n \n{07 00 00}I'm at my happiest here at\nwork, don't you know?\n\nPlus, I get to chitchat\nwith our clients.{01 00 00 05 00}.{01 00 00 05 00}.",
+   "et": ""
+  },
+  {
+   "id": 40,
+   "en": "{07 14 00}It's always so good to see\nyou,{01 00 00 0a 00} {04 00 00}!{09 09 00}",
+   "et": ""
+  },
+  {
+   "id": 41,
+   "en": "{07 14 00}Tee hee hee!{01 00 00 05 00} What could\nyou be shopping for today?",
+   "et": ""
+  },
+  {
+   "id": 42,
+   "en": "{0b 03 00}{04 00 00},{01 00 00 05 00} if you really\nlike our shop...\n\nYou're welcome to spend all\nday here!",
+   "et": ""
+  },
+  {
+   "id": 43,
+   "en": "{0b 03 00}{04 00 00},{01 00 00 05 00}{07 0b 00} what kind of\nclothes do you like?{09 09 00}",
+   "et": ""
+  },
+  {
+   "id": 44,
+   "en": "{07 14 00}Whenever you drop by,\n{04 00 00}...\n\nIt makes all my work feel\nworthwhile!",
+   "et": ""
+  },
+  {
+   "id": 46,
+   "en": "{09 09 00}{09 02 00}{09 06 00}{07 15 00}What,{01 00 00 05 00} Sis?!?{01 00 00 0f 00}\nI'm busy, too, you know!{09 09 00}",
+   "et": ""
+  },
+  {
+   "id": 47,
+   "en": "{09 00 00}{09 06 00}{09 01 00}{07 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.",
+   "et": ""
+  },
+  {
+   "id": 48,
+   "en": "{09 09 00}{09 02 00}{09 06 00}{07 15 00}Augh!{01 00 00 0a 00} My sister always does\nthat to people.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{09 09 00}",
+   "et": ""
+  },
+  {
+   "id": 49,
+   "en": "{09 00 00}{09 06 00}{09 01 00}{07 16 00}{ff 00 00 04}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}Patience, Sable.",
+   "et": ""
+  },
+  {
+   "id": 50,
+   "en": "{09 00 00}{09 08 00}{09 02 00}{09 06 00}{07 15 00}Sis!{01 00 00 0a 00} You always brush people\noff like that!",
+   "et": ""
+  },
+  {
+   "id": 51,
+   "en": "{09 00 00}{09 08 00}{09 02 00}{09 06 00}Hey!\n{07 0b 00}What gives, Sis?\n\n{07 14 00}You almost never remember\na customer's name!{09 09 00}",
+   "et": ""
+  },
+  {
+   "id": 52,
+   "en": "{09 00 00}{09 06 00}{09 01 00}{09 08 00}{01 04 00}{01 00 00 05 00}{01 05 00}{07 15 00}Don't say things you don't \nneed to, {ff 00 00 06}Mabel{ff 00 00 00}.\n\n{09 03 00}{07 14 00}Do feel free to take a look\naround,{01 00 00 05 00} and don't mind us.",
+   "et": ""
+  },
+  {
+   "id": 53,
+   "en": "{09 00 00}{09 08 00}{09 02 00}{09 06 00}{07 15 00}There you go again,{01 00 00 05 00} Sis.{01 00 00 05 00}\n{07 16 00}Why do you want to fight\nabout stuff we don't have.{01 00 00 05 00}.{01 00 00 05 00}.\nDon't you remember? {01 00 00 0a 00}When\nwe decided to do this\ntogether...\n...you promised not to say\nstuff like that anymore!{09 09 00}",
+   "et": ""
+  },
+  {
+   "id": 54,
+   "en": "{09 00 00}{09 06 00}{09 01 00}{07 00 00}{09 07 00}{07 04 00}Oh, that's right.\nYou're right, {ff 00 00 06}Mabel{ff 00 00 00}.\n\n{07 00 00}{09 03 00}On that note, {04 00 00},\nI'll just leave you to\nyourself, then.\n{07 14 00}Take all the time you\nneed to look around.",
+   "et": ""
+  },
+  {
+   "id": 55,
+   "en": "{09 00 00}{09 08 00}{09 02 00}{09 06 00}{07 14 00}Tee hee.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} Oh, Sis,{01 00 00 05 00}\nI see you've become fast\nfriends with {04 00 00}.\n{07 00 00}Anyway...\n\n\n{07 06 00}\"{ff 00 00 02}Oh, hey,{01 00 00 05 00} Mabel...{01 00 00 0a 00}\nWhat time are you expecting\n{04 00 00}{01 00 00 05 00} to come by?{ff 00 00 00}\"\n{07 14 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}Tee hee hee hee hee!{01 00 00 0a 00}\nIt's not even noon, and\nyou're thinking about that?{09 09 00}",
+   "et": ""
+  },
+  {
+   "id": 56,
+   "en": "{09 00 00}{09 06 00}{09 01 00}{09 08 00}{01 04 00}{01 00 00 05 00}{01 05 00}{07 01 00}{ff 00 00 06}Ma-{01 00 00 05 00}Mabel{ff 00 00 00}!{09 09 00}",
+   "et": ""
+  },
+  {
+   "id": 57,
+   "en": "{09 00 00}{09 08 00}{09 02 00}{07 03 00}Ah hee hee hee!{01 00 00 05 00}\nOh, come on!",
+   "et": ""
+  },
+  {
+   "id": 58,
+   "en": "{09 00 00}{09 08 00}{09 02 00}{09 06 00}{07 06 00}Ohh, I'm on my feet all\nday long! {01 00 00 0a 00}This lower back\nof mine is always aching.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 14 00}Ha!{01 00 00 0a 00} Psych!\n\n\n{09 04 00}{07 0a 00}Unlike my ancient sister,\nI'm still young, so my\nback is still fine!{09 01 00}{07 04 00}{09 02 00}{09 09 00}",
+   "et": ""
+  },
+  {
+   "id": 59,
+   "en": "{09 00 00}{09 06 00}{09 01 00}{09 08 00}{01 04 00}{01 00 00 05 00}{01 05 00}{07 01 00}{ff 00 00 06}MABEL{ff 00 00 00}!{09 09 00}",
+   "et": ""
+  },
+  {
+   "id": 60,
+   "en": "{09 00 00}{09 08 00}{09 02 00}{07 16 00}Oh, {01 00 00 05 00}I'm just kidding!{01 00 00 0a 00}\nCome on, now, Sis.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0f 00}\n{07 16 00}Loosen up!",
+   "et": ""
+  },
+  {
+   "id": 61,
+   "en": "{09 00 00}{09 08 00}{09 02 00}{09 06 00}{07 16 00}Hold up,{01 00 00 05 00} {ff 00 00 06}Sable{ff 00 00 00}!\nWhat are you saying?\n\n{07 16 00}\"Make something good,\nand make it on the cheap!\"{01 00 00 0a 00}\nSound familiar?\n{07 15 00}Who says those words like\nthey're going out of style?{01 00 00 0a 00}\nNot me, that's for sure!{09 09 00}",
+   "et": ""
+  },
+  {
+   "id": 62,
+   "en": "{09 00 00}{09 06 00}{09 01 00}{09 08 00}{07 16 00}B-{01 00 00 05 00}but, {01 00 00 05 00}{ff 00 00 06}Mabel{ff 00 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n\n\n{07 16 00}We take great pride in\nour work,{01 00 00 05 00} and our hearts\n{07 0b 00}go into making our clothes.\n{07 00 00}Don't you want to be able\nto offer them at the best\nprice possible?{09 09 00}",
+   "et": ""
+  },
+  {
+   "id": 63,
+   "en": "{09 00 00}{09 08 00}{09 02 00}{07 15 00}Aaaaaaaaargh!{01 00 00 0f 00}\nCustomers are OK with it,{01 00 00 0a 00}\nbut you aren't, Sis!\n{07 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}Look, just forget it.{01 00 00 0a 00}\n{07 14 00}I love that worker-bee\nmentality of yours, Sis.{09 09 00}",
+   "et": ""
+  },
+  {
+   "id": 64,
+   "en": "{09 00 00}{09 06 00}{09 01 00}{09 07 00}{07 0b 00}What?{01 00 00 0a 00} Come again, {ff 00 00 06}Mabel{ff 00 00 00}?{01 00 00 0a 00}\nDid you say something?\n\n{07 00 00}{09 08 00}I was so into my sewing\nthat I didn't hear you.{09 09 00}\n",
+   "et": ""
+  },
+  {
+   "id": 65,
+   "en": "{09 00 00}{09 08 00}{09 02 00}{07 14 00}Tee hee hee.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00}\nYes,{01 00 00 05 00}{01 00 00 05 00} Sis!",
+   "et": ""
+  },
+  {
+   "id": 66,
+   "en": "{09 00 00}{09 08 00}{09 02 00}{09 04 00}{07 14 00}Tee hee!{01 00 00 05 00} Oh, my silly sister!{01 00 00 05 00}\nEver since {04 00 00}\nstarted coming here...\nYou've been just FULL of\nenergy, haven't you?{09 09 00}",
+   "et": ""
+  },
+  {
+   "id": 67,
+   "en": "{09 00 00}{09 06 00}{09 01 00}{09 08 00}{01 04 00}{01 00 00 05 00}{01 05 00}{07 04 00}{ff 00 00 06}Ma-{01 00 00 05 00}MABEL{ff 00 00 00}!\n\n\n{07 16 00}Ugh.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} What would possess\nyou to go and say such a\nthing.{01 00 00 05 00}.{01 00 00 05 00}.",
+   "et": ""
+  },
+  {
+   "id": 68,
+   "en": "{09 00 00}{09 08 00}{09 02 00}{07 14 00}I suppose I should thank\nyou too.{01 00 00 0f 00}{07 14 00} So...thank you!",
+   "et": ""
+  },
+  {
+   "id": 70,
+   "en": "{09 00 00}{09 08 00}{09 02 00}{09 04 00}{07 14 00}Thank you!",
+   "et": ""
+  },
+  {
+   "id": 71,
+   "en": "{09 00 00}{09 08 00}{09 02 00}{09 06 00}{07 0e 00}Um,{01 00 00 0a 00} using a white and green\ngingham plaid.{01 00 00 05 00}.{01 00 00 05 00}.{09 09 00}",
+   "et": ""
+  },
+  {
+   "id": 72,
+   "en": "{09 00 00}{09 06 00}{09 01 00}{09 08 00}Ugh!{01 00 00 0f 00} Yes, that's {ff 00 00 06}Mabel{ff 00 00 00}'s\ntaste, all right.",
+   "et": ""
+  },
+  {
+   "id": 73,
+   "en": "{09 00 00}{09 08 00}{09 02 00}{09 06 00}{07 04 00}Hey.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} Maybe.{01 00 00 05 00}.{01 00 00 05 00}.{09 09 00}",
+   "et": ""
+  },
+  {
+   "id": 74,
+   "en": "{09 00 00}{09 06 00}{09 01 00}{09 07 00}{07 03 00}Tee hee hee hee hee!{01 00 00 05 00}\n{07 0e 00}How long ago did that\nhappen, again?\n{09 04 00}{07 00 00}It was a very cold winter,{01 00 00 05 00}\nand {ff 00 00 06}Mabel{ff 00 00 00}'s claws got a\nnasty case of frostbite...\nI couldn't bear to see her\nsuffer,{01 00 00 05 00} so I made her\nsome gloves.\nI put {ff 00 00 06}Mabel{ff 00 00 00}'s little claws\non top of the cloth like\nthis to make a{01 00 00 05 00} pattern...\n{07 16 00}But it was my first time,\nso the gloves that I made\nwere terribly misshapen! {07 00 00}{09 09 00}",
+   "et": ""
+  },
+  {
+   "id": 75,
+   "en": "{09 00 00}{09 08 00}{09 02 00}{09 03 00}{07 16 00}Right,{01 00 00 05 00} they were huge.{01 00 00 05 00}.{01 00 00 05 00}.\n\n\n{07 14 00}{09 06 00}But{01 00 00 05 00} they were oh-so warm!\n\n\n{07 0a 00}Thanks again for making\nthose for me, Sis!{09 09 00}",
+   "et": ""
+  },
+  {
+   "id": 76,
+   "en": "{09 00 00}{09 06 00}{09 01 00}{09 08 00}{07 14 00}No, no,{01 00 00 05 00} it was nothing!\n\n\n{07 00 00}Do you remember what you \ndid with those gloves?\n\n{07 16 00}You didn't wear them on\nyour claws, but on your\nears! {01 00 00 05 00}Remember?\nI bet{01 00 00 05 00} you thought they were\n{07 0b 00}earmuffs, didn't you?{07 00 00}{09 09 00}",
+   "et": ""
+  },
+  {
+   "id": 77,
+   "en": "{09 00 00}{09 08 00}{09 02 00}{07 03 00}Hee hee hee hee.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n{07 16 00}Not that story again!\n\n{07 00 00}I was so little back then\nthat I don't really\nremember what happened.{01 00 00 05 00}.{01 00 00 05 00}.\nBut...{01 00 00 05 00}I bet I thought I was\ngoing {07 0b 00}to get frostbitten\nears or something.\n{07 06 00}OK, Sis, {01 00 00 05 00}enough already!",
+   "et": ""
+  },
+  {
+   "id": 78,
+   "en": "{09 00 00}{09 08 00}{09 02 00}{09 06 00}{07 05 00}Sis!{01 00 00 0f 00} I hope you're not\ntelling{01 00 00 05 00} stories again,\nare you?{09 09 00}",
+   "et": ""
+  },
+  {
+   "id": 79,
+   "en": "{09 01 00}{09 07 00}{07 06 00}No,{01 00 00 05 00} don't you worry!{01 00 00 0f 00}\n{07 14 00}{09 04 00}Phew!{01 00 00 05 00} That was a close one.",
+   "et": ""
+  },
+  {
+   "id": 80,
+   "en": "{09 00 00}{09 08 00}{09 02 00}{09 06 00}{07 0b 00}What?{01 00 00 0f 00} Really?\n\n\n{07 00 00}I'm looking,{01 00 00 05 00} but I don't see\na pimple {07 0e 00}anywhere!{09 09 00}",
+   "et": ""
+  },
+  {
+   "id": 81,
+   "en": "{09 00 00}{09 06 00}{09 01 00}{07 00 00}{09 07 00}No,{01 00 00 0a 00} back then you were so\nsmall that{01 00 00 05 00} you've probably\nforgotten.\n{09 04 00}Ironically, the day before,\nFather was planning to get\na family portrait taken...\n{07 16 00}I got a huge pimple on the\ntip of my nose and was so\nself-conscious...{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 00 00}I would look in the mirror\nover and over and wipe it\nwith a wet towel...\nI thought it would cool it\noff or something. {01 00 00 05 00}After a\nwhile, Father got mad.\n{07 15 00}\"It's just a pimple!\nLeave that thing alone! {01 00 00 0f 00}\nBeauty is on the inside!\"{07 00 00}\nHe was right, of course,\nbut I was just a kid...\n\nI didn't understand the\nkindness behind those words\nand just cried and cried...\nBut before I went to bed,\nMother{01 00 00 05 00} whispered\nto me...\nShe said the photographer\ncould erase the pimple{01 00 00 05 00}\nand not to worry.{01 00 00 0a 00}\n.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}It was just a zit, but\nit became such a big deal.{01 00 00 05 00}\nSo silly in retrospect.\n{07 00 00}Still, when she said that,\nI was so happy, I thought\nI was going to cry.{09 09 00}",
+   "et": ""
+  },
+  {
+   "id": 82,
+   "en": "{09 00 00}{09 08 00}{09 02 00}{07 16 00}Awww.{01 00 00 05 00}.{01 00 00 05 00}.\n\n\n{07 14 00}Mother and Father{01 00 00 05 00} were\nsuch sweethearts, huh?{07 00 00}{09 09 00}",
+   "et": ""
+  },
+  {
+   "id": 83,
+   "en": "{09 00 00}{09 06 00}{09 01 00}{07 00 00}{09 08 00}That's right, {01 00 00 05 00}{ff 00 00 06}Mabel{ff 00 00 00}.\n\n\nYou and I have that blood\nrunning through our veins...\n\nWe'd better not forget\neverything that Mother{01 00 00 05 00}\nand Father did for us.",
+   "et": ""
+  },
+  {
+   "id": 84,
+   "en": "{09 00 00}{09 08 00}{09 02 00}{09 06 00}{07 16 00}Aw, gee, Sis.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\nI didn't know about that{01 00 00 0f 00}.\nI'm sorry.{09 09 00}",
+   "et": ""
+  },
+  {
+   "id": 85,
+   "en": "{09 00 00}{09 06 00}{09 01 00}{09 07 00}{07 14 00}Oh no,{01 00 00 0a 00} it's OK, {ff 00 00 06}Mabel{ff 00 00 00}.\n\n\n{07 00 00}Hey, even though we were\nalways getting in trouble...\n\nRemember how Father would{01 00 00 0a 00}\ncrack open the bedroom\ndoor for us at night?\nAnd how, after we'd gotten\ninto bed, Mother would come\nin and lay down with us?\nShe'd hold our claws and\nsay, {07 14 00}\"Let {ff 00 00 06}Sable{ff 00 00 00}'s and\n{ff 00 00 06}Mabel{ff 00 00 00}'s claws be kind.\"\n{07 19 00}She said that in the hopes\nthat{01 00 00 05 00} it would sustain us,\nyou know, {ff 00 00 06}Mabel{ff 00 00 00}.\n{07 14 00}So, even when work is at\nits worst,{01 00 00 0a 00} I'm fine because\nmy claws are special.{01 00 00 05 00}\nThey hold Mother's love\ninside of them{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{09 09 00}",
+   "et": ""
+  },
+  {
+   "id": 86,
+   "en": "{09 00 00}{09 08 00}{09 02 00}Aw, Sis.{01 00 00 05 00}.{01 00 00 05 00}.\n\n\n{07 14 00}Let's work together, huh,{01 00 00 0f 00}\nSis!",
+   "et": ""
+  },
+  {
+   "id": 87,
+   "en": "{06 01 00 58 59 5a}",
+   "et": ""
+  },
+  {
+   "id": 88,
+   "en": ".{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}",
+   "et": ""
+  },
+  {
+   "id": 89,
+   "en": "{07 16 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}I haven't got a\nfree claw right now.{01 00 00 0f 00}\nI'm sorry.",
+   "et": ""
+  },
+  {
+   "id": 90,
+   "en": "{07 16 00}My apologies.{01 00 00 0f 00}\nI can't help you right now{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.",
+   "et": ""
+  }
+ ]
+}

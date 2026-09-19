@@ -1,0 +1,100 @@
+{
+ "file": "script/ENG/message/bo/3p/fu_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{09 01 00}So, {ff 00 00 06}{04 10 00}{ff 00 00 00},{01 00 00 0a 00}{09 08 00}{07 0b 00} do you,\nlike,{01 00 00 05 00} like me,{01 00 00 05 00} {04 02 00}?{09 09 00}",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{09 01 00}{09 07 00}{07 16 00}Um,{ff 00 00 06}{01 00 00 05 00} {04 10 00}{ff 00 00 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}who do you\nthink{01 00 00 05 00} I'm gonna end up\nmarrying?{09 09 00}",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{09 01 00}{09 07 00}{07 14 00}Yesterday,{01 00 00 05 00} I had the most\namazing{01 00 00 0a 00} dream,{01 00 00 05 00} {04 02 00}.{01 01 00}\n{07 00 00}I was this HUGE movie star!\n{07 0a 00}And I got invited to all\nthese parties!\n\nThere were all these famous\nactresses, and we all ate\n{04 12 00} together!{09 09 00}",
+   "et": ""
+  },
+  {
+   "id": 3,
+   "en": "{09 00 00}{09 08 00}{09 02 00}{09 06 00}{07 14 00}Of course!{01 00 00 05 00} I like you.{01 00 00 0f 00} We\nare friends, after all,{01 00 00 05 00}\n{04 02 00}.{09 09 00}",
+   "et": ""
+  },
+  {
+   "id": 4,
+   "en": "{09 00 00}{09 06 00}{09 01 00}{07 04 00}OK.{01 00 00 05 00} OK,{01 00 00 05 00} {04 02 00}.{01 00 00 05 00} Then\n{07 0b 00}what is it about me that\nyou like?\nMy style?{01 00 00 0f 00}{07 14 00} My charming\ngrin?{01 00 00 0f 00} {07 00 00}Or.{01 00 00 05 00}.{01 00 00 05 00}.{01 01 00}{07 14 00}how cool I am?{09 09 00}",
+   "et": ""
+  },
+  {
+   "id": 5,
+   "en": "{09 00 00}{09 08 00}{09 02 00}{07 0b 00}What do I like about you,\n{ff 00 00 06}{04 0f 00}{ff 00 00 00}?{01 00 00 05 00} Well.{01 00 00 05 00}.{01 00 00 05 00}. {09 01 00}{07 00 00}{09 02 00}{07 0e 00}I like{01 01 00}\nhow unambitious you are.{09 09 00}",
+   "et": ""
+  },
+  {
+   "id": 6,
+   "en": "{09 00 00}{09 06 00}{09 01 00}{07 02 00}Huh?!{01 00 00 0f 00}{07 00 00} {07 0b 00}What do you mean\n\"unambitious\"?{09 09 00}",
+   "et": ""
+  },
+  {
+   "id": 7,
+   "en": "{09 00 00}{09 08 00}{09 02 00}{09 06 00}{07 16 00}Oh, {01 00 00 05 00}well.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} I just meant that\nyou don't have any huge\ndreams or anything.{09 09 00}",
+   "et": ""
+  },
+  {
+   "id": 8,
+   "en": "{09 00 00}{09 06 00}{09 01 00}{07 0f 00}{01 00 00 0a 00}I've got dreams{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 01 00} {07 06 00}I just\nfinished up the cape for my{01 00 00 05 00}\nFashion Lad outfit.\n{07 16 00}See,{01 00 00 0a 00} I've got dreams! {01 00 00 05 00}\nDreams of saving this world\nfrom bad taste!{09 09 00}",
+   "et": ""
+  },
+  {
+   "id": 9,
+   "en": "{09 00 00}{09 08 00}{09 01 00}{09 02 00}{07 00 00}I have no idea what you're\ntalking about, {01 00 00 05 00}{04 02 00}.\n\n{07 02 00}Wait a sec! {01 01 00}You're not\ntalking about scrunchies,\nare you?!\n'Cause I'll defend those to\nthe death! {01 01 00}{07 01 00}Wanna fight?!\n{09 09 00}",
+   "et": ""
+  },
+  {
+   "id": 10,
+   "en": "{09 00 00}{09 06 00}{09 01 00}{07 02 00}Huh?!{01 01 00} {07 00 00}Well, you're so pretty,\nit doesn't matter what\natrocious thing you wear.",
+   "et": ""
+  },
+  {
+   "id": 11,
+   "en": "{09 00 00}{09 08 00}{09 02 00}{09 06 00}{07 18 00}Huh?!{01 00 00 0f 00} Why are you asking me\nthis?{07 00 00} That noggin of yours\nis such a mystery to me.\n{07 06 00}You are, like, soooo creepy\nsometimes, {ff 00 00 06}{04 0f 00}{ff 00 00 00}.{09 09 00}",
+   "et": ""
+  },
+  {
+   "id": 12,
+   "en": "{09 00 00}{09 06 00}{09 01 00}{07 16 00}Well{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} I AM gonna have to\nget hitched one of these\ndays.\n{07 00 00}I mean, if I want to have\nthe wedding banquet, I\nguess I gotta get married.\n{07 06 00}But,{01 00 00 05 00} what should I DO,\n{01 00 00 0f 00}{ff 00 00 06}{04 10 00}{ff 00 00 00}? I need your\nhelp,{01 00 00 05 00} {04 02 00}!{09 09 00}",
+   "et": ""
+  },
+  {
+   "id": 13,
+   "en": "{ff 00 00 06}{09 00 00}{09 08 00}{09 02 00}{07 16 00}{04 0f 00}{ff 00 00 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}. {07 00 00}You don't\nhave to worry so much.\n\n{07 14 00}I don't really think you're,\nuh, the marrying kind.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n{04 02 00}.",
+   "et": ""
+  },
+  {
+   "id": 14,
+   "en": "{09 00 00}{09 08 00}{09 02 00}{09 06 00}{07 16 00}Um{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 01 00} {07 14 00}That's just a dream.{09 09 00}",
+   "et": ""
+  },
+  {
+   "id": 15,
+   "en": "{09 00 00}{09 06 00}{09 01 00}{07 00 00}Oh{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}well, yeah. Now that you\nmention it, I guess it was!\n\n{07 04 00}{01 00 00 14 00}By the way,{01 00 00 05 00} {04 02 00},{01 00 00 05 00}\nyou were in my dream, too,\n{ff 00 00 06}{04 10 00}{ff 00 00 00}.{09 09 00}",
+   "et": ""
+  },
+  {
+   "id": 16,
+   "en": "{09 00 00}{09 08 00}{09 02 00}{07 14 00}Oh! Goodness! Really?{01 00 00 0f 00}\n{07 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}So,{01 00 00 05 00}{07 0b 00} what was I like? Was I\na famous actress, too?{09 09 00}",
+   "et": ""
+  },
+  {
+   "id": 17,
+   "en": "{09 00 00}{09 06 00}{09 01 00}{07 00 00}Actually, you were in the\nkitchen cooking the\n{04 12 00}.\n{07 03 00}Yeah, you were really\nsweating up a storm!{09 02 00}{07 02 00}{09 01 00}\n{07 14 00}Yep.{01 00 00 05 00} As usual, you were\nthe star of the party,{01 00 00 05 00}\n{04 02 00}!{09 09 00}",
+   "et": ""
+  },
+  {
+   "id": 18,
+   "en": "{09 00 00}{09 08 00}{09 02 00}{07 09 00}I guess I could take that\nas a compliment{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00}{01 01 00}{07 01 00} Yeah,\nif I were a total idiot!\nYou're a stupid, sexist\njerk!{01 00 00 05 00} {07 0f 00}And I thought we were\nfriends!{03 03 00 01}",
+   "et": ""
+  }
+ ]
+}

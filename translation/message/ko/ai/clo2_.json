@@ -1,0 +1,20 @@
+{
+ "file": "script/ENG/message/ko/ai/clo2_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 14 00}{0b 03 00}{01 00 00 05 00}{04 1f 00}!{01 01 00} My outfit\ntoday{01 00 00 05 00} {07 0b 00}looks kind of tight,\nhuh? I mean snug, {01 00 00 05 00}not cool!\n{0b 03 00}{ff 00 00 05}{04 14 00}{ff 00 00 00}{01 00 00 0f 00} mailed me this\n{0b 02 00}{04 1b 00}.\nIs tight in fashion now?\n{07 0d 00}If the overstuffed sausage\nlook is in,{01 00 00 05 00} there's nothing\nwe can do but embrace it.",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "Hey, {01 00 00 0f 00}{07 0b 00}what's up, {04 1f 00}?{01 00 00 14 00}\nHuh?{01 00 00 0f 00} This shirt? Oh, it was\na present.\n{ff 00 00 05}{07 17 00}{0b 03 00}{04 14 00} {ff 00 00 00}sent this\n{0b 02 00}{04 1b 00} {01 00 00 14 00}\nin a letter, {01 00 00 05 00}{04 02 00}.\n{07 19 00}I don't care if it's \"in\" {01 00 00 05 00}or\n\"out\"{01 00 00 05 00} or whatever.\n\nIt just makes me happy \nthat {ff 00 00 05}{04 14 00}{ff 00 00 00} thought\nof me, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 14 00}Hey, {01 00 00 05 00}{04 1f 00}!{01 00 00 14 00} Don't I\nlook{01 00 00 05 00}{07 0b 00} sharp today? That's\n'cause my outfit's new!\n{ff 00 00 05}{07 17 00}{0b 03 00}{04 14 00}{ff 00 00 00} sent this\n{0b 02 00}{04 1b 00} to\nme in a letter!\n{07 19 00}It was like I'd{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}ordered\nsomething from a catalog.{01 00 00 05 00}\nBut not, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  }
+ ]
+}

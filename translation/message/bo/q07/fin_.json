@@ -1,0 +1,20 @@
+{
+ "file": "script/ENG/message/bo/q07/fin_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 14 00}That was almost as exciting\nas the time I found a\ncookie under my bed!\n{07 00 00}Thanks,{01 00 00 05 00} {04 1f 00}!{01 00 00 0a 00} {07 14 00}And\nsay hi to {ff 00 00 06}{04 0f 00} {ff 00 00 00}for\nme, too,{01 00 00 0a 00} {04 02 00}.",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 14 00}Hoo!{01 00 00 05 00} My heart feels all\nwarm now! {01 00 00 05 00}{07 00 00}Thanks so much!{01 00 00 14 00}\n{07 14 00}And say hi to {ff 00 00 06}{04 0f 00}{ff 00 00 00}!",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 14 00}Huh huh huh.{01 00 00 0f 00} Letters really{01 00 00 05 00}\nsoothe the heart.{01 00 00 14 00} Almost\nas much as pizza.\n{07 00 00}Give my regards to\n{ff 00 00 06}{04 0f 00}{ff 00 00 00},{01 00 00 0a 00}\n{04 02 00}!",
+   "et": ""
+  }
+ ]
+}

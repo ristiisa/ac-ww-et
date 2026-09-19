@@ -1,0 +1,20 @@
+{
+ "file": "script/ENG/message/ha/q10/reserve_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 0d 00}Oh, AWESOME, {ff 00 00 05}{04 1f 00}{ff 00 00 00}!{01 00 00 14 00}\n{07 0b 00}So {01 00 00 05 00}when should I come over?",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 04 00}Gotcha!{01 01 00} {07 00 00}I wanna come over \nwhen it's still bright out...\n\n{07 0b 00}When would be good for you,\n{01 00 00 05 00}{04 02 00}?",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 03 00}War har har har har!{01 00 00 0f 00}\nMan, you always tell me\nwhat I wanna hear!\n{07 00 00}OK then, {01 00 00 05 00}{07 0b 00}when do you wanna\ndo this, {01 00 00 05 00}{04 02 00}?",
+   "et": ""
+  }
+ ]
+}

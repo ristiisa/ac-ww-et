@@ -1,0 +1,80 @@
+{
+ "file": "script/ENG/message/fu/ev/fishing_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 14 00}Oh, hey, {01 00 00 05 00}{04 1f 00}.{01 00 00 0f 00}\nDoesn't the {ff 00 00 03}Fishing Tourney\n{ff 00 00 00}start today?\n{07 15 00}You'd better believe I'm\ngoing to be the one to\ntake home the {ff 00 00 07}trophy{ff 00 00 00}!",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 00 00}I've been trying out my new\ntraining regimen for the\n{ff 00 00 03}Fishing Tourney{ff 00 00 00}.\nI stick my face in the\nriver and {07 09 00}become one with\nthe fish{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 00 00}I can't do it for long,{01 00 00 05 00}\nbut I've learned so much\nabout how fish think.\n{07 11 00}Those fish aren't gonna\nstand a chance against me\nthis year, {01 00 00 05 00}{04 02 00}.",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 14 00}So, are you all set,\n{04 1f 00}? The {ff 00 00 03}Fishing\nTourney{ff 00 00 00} starts today!\n{07 00 00}I'm not worried about\nwinning right now. I'm just\nrelaxing and having fun.",
+   "et": ""
+  },
+  {
+   "id": 3,
+   "en": "{07 14 00}You may not know it,\n{04 1f 00},{01 00 00 0a 00} but I'm the\ncurrent record holder.\n{07 0d 00}That's right! I caught that\nmassive {ff 00 00 02}{04 0f 00}-inch{ff 00 00 00}\n{0b 02 00}{04 1a 00}!",
+   "et": ""
+  },
+  {
+   "id": 4,
+   "en": "I just caught a\n{0b 02 00}{04 1a 00}!\n\nYou should have seen it! It\nwas {ff 00 00 02}{04 0f 00} inches{ff 00 00 00} long!\n\n{07 14 00}That's the fish that put me\nin the lead as the record\nholder, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 5,
+   "en": "{07 00 00}I'm in the lead right now,\nthanks to my {ff 00 00 02}{04 0f 00}-inch {ff 00 00 00}\n{0b 02 00}{04 1a 00}!\n{07 14 00}I'm glad I caught it, but I\nhave to tell you, it was\njust beginner's luck.",
+   "et": ""
+  },
+  {
+   "id": 6,
+   "en": "{07 14 00}Oh, hey, {04 1f 00}.{01 00 00 0a 00} Say,\nif you find a good spot for\nfishing, let me know.",
+   "et": ""
+  },
+  {
+   "id": 7,
+   "en": "{07 00 00}I concentrate better {01 00 00 05 00}when\nthere's nobody else fishing\nnear me, {01 00 00 05 00}{04 02 00}.\n{07 14 00}When it's nice and quiet,\nthe fish don't get spooked\nand run away, {01 00 00 05 00}{04 02 00}.",
+   "et": ""
+  },
+  {
+   "id": 8,
+   "en": "{07 00 00}Right now, {04 10 00} is in\nthe lead with the biggest\nfish, {01 00 00 05 00}{04 02 00}!\n{07 15 00}But I'm not quitting yet!",
+   "et": ""
+  },
+  {
+   "id": 9,
+   "en": "{07 16 00}If you run around, stomping\nyour feet everywhere you\ngo, the fish get scared!\nIf you don't hook them at\nthe right time, the fish\nget scared, {01 00 00 05 00}{04 02 00}!\n{07 06 00}Who knew fish were such\nsensitive creatures?!",
+   "et": ""
+  },
+  {
+   "id": 10,
+   "en": "{07 00 00}I was doing really well for\na while there.\n\n{07 0f 00}Up until {04 10 00} stole\nmy fishing spot, that is{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.",
+   "et": ""
+  },
+  {
+   "id": 11,
+   "en": "{07 00 00}{04 10 00} has the record\nwith a surprising specimen\nof {04 1a 00}!\n{07 0e 00}I think it was only about\n{ff 00 00 02}{04 0f 00} inches{ff 00 00 00}{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.{01 01 00}\n{07 15 00}I'm not gonna lose to that!",
+   "et": ""
+  },
+  {
+   "id": 12,
+   "en": "{07 00 00}{0b 03 00}{04 1f 00},{01 00 00 0a 00} the secret to\nwinning is not really caring\nif you win or lose.\nForget about the {ff 00 00 07}trophy{ff 00 00 00},\nand just be who you are,\nonly{07 0e 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0f 00}{07 0c 00}with a fishing rod.",
+   "et": ""
+  },
+  {
+   "id": 13,
+   "en": "{07 00 00}{0b 03 00}{04 1f 00},{01 00 00 05 00} fish are VERY\nsensitive to loud noises.\nYou know that, right?\n{07 16 00}If you run around near the\nwater, they'll hear you and\nfreak out, {01 00 00 05 00}{04 02 00}.",
+   "et": ""
+  },
+  {
+   "id": 14,
+   "en": "{07 00 00}\"{0b 03 00}{04 10 00} is leading!\"\nThat's what everyone's been\nsaying, at any rate.\n{07 06 00}Catching a {ff 00 00 02}{04 0f 00}-inch\n{ff 00 00 00}{0b 02 00}{04 1a 00} IS\npretty impressive, though!",
+   "et": ""
+  }
+ ]
+}

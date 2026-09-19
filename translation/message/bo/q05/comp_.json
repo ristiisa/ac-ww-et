@@ -1,0 +1,20 @@
+{
+ "file": "script/ENG/message/bo/q05/comp_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 00 00}The new furniture in my\nhouse looks cool.\n\n{07 0a 00}Huh huh huh.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00} I knew I\ncould be stylish,\n{01 00 00 0a 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 14 00}Man, I hope a lot of people\ncome visit me!\n\n{07 0d 00}I've got some sweet\nfurniture and stuff to\nshow off, {01 00 00 0a 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 00 00}My new furniture{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00}{07 14 00}is sooo\ncool!\n\n{07 00 00}I was so happy to get it,{01 00 00 05 00} I\ndanced around!{01 00 00 05 00} I was on\nfire!{01 01 00} {07 0a 00}{01 00 00 0a 00}Yeah!{01 00 00 0a 00} Feel the fire!{03 01 00 01}",
+   "et": ""
+  }
+ ]
+}

@@ -1,0 +1,430 @@
+{
+ "file": "script/ENG/bbs/bbs_slogan.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "  *Message of the Week*\n\nBalls and windows don't\nmix!\n\nPlay ball? Play safe!",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "  *Message of the Week*\n\nWant wealth? Try saving!\n\nWaste not, want not!",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "  *Message of the Week*\n\nThe early bird gets the\nworm.\nThe late mouse gets\nthe cheese!",
+   "et": ""
+  },
+  {
+   "id": 3,
+   "en": "  *Message of the Week*\n\nMake hay while you can!\n\nNobody likes overtime!",
+   "et": ""
+  },
+  {
+   "id": 4,
+   "en": "  *Message of the Week*\n\nGreen means go!\n\nUnless you're lazy.",
+   "et": ""
+  },
+  {
+   "id": 5,
+   "en": "  *Message of the Week*\n\nAdvice is easy.\n\nListening is hard.",
+   "et": ""
+  },
+  {
+   "id": 6,
+   "en": "  *Message of the Week*\n\nStamp your mail!\n\nStomp your feet!",
+   "et": ""
+  },
+  {
+   "id": 7,
+   "en": "  *Message of the Week*\n\nSay no to headphones!\n\n...WHO SAID THAT?!",
+   "et": ""
+  },
+  {
+   "id": 8,
+   "en": "  *Message of the Week*\n\nCoffee shops are great!\n\nGo buy a cup of joe!",
+   "et": ""
+  },
+  {
+   "id": 9,
+   "en": "  *Message of the Week*\n\nFor the earth! For\nyourself!\n\nRecycle! Recycle! Recycle!",
+   "et": ""
+  },
+  {
+   "id": 10,
+   "en": "  *Message of the Week*\n\nHey! You! Take a break!\n\nDon't pick fruit all day!",
+   "et": ""
+  },
+  {
+   "id": 11,
+   "en": "  *Message of the Week*\n\nLunch is at noon.\n\nBreakfast is anytime!",
+   "et": ""
+  },
+  {
+   "id": 12,
+   "en": "  *Message of the Week*\n\nTrying to save money?\n\nEat your rotten turnips!",
+   "et": ""
+  },
+  {
+   "id": 13,
+   "en": "  *Message of the Week*\n\nBurritos in the morning?\n\nSailors take warning!",
+   "et": ""
+  },
+  {
+   "id": 14,
+   "en": "  *Message of the Week*\n\nMice can move a mountain!\n\nBut it does take time.",
+   "et": ""
+  },
+  {
+   "id": 15,
+   "en": "  *Message of the Week*\n\nJoy is received. Not\ntaken.\n\nPeace!",
+   "et": ""
+  },
+  {
+   "id": 16,
+   "en": "  *Message of the Week*\n\nCan't live on bread alone?\n\nJust add mayo!",
+   "et": ""
+  },
+  {
+   "id": 17,
+   "en": "  *Message of the Week*\n\nThe Mexican wrestler\ncries beneath his mask.\nWounds of the heart hurt\nthe most.",
+   "et": ""
+  },
+  {
+   "id": 18,
+   "en": "  *Message of the Week*\n\nRemoving bandages hurts.\n\nLeave them on!",
+   "et": ""
+  },
+  {
+   "id": 19,
+   "en": "  *Message of the Week*\n\nEating at midnight is bad.\n\nBut it feels so good!",
+   "et": ""
+  },
+  {
+   "id": 20,
+   "en": "  *Message of the Week*\n\nMy dad wakes me at 6 a.m.\n\nJust to make his coffee!",
+   "et": ""
+  },
+  {
+   "id": 21,
+   "en": "  *Message of the Week*\n\nSome wrestlers hate\ntights.\n\nFight stereotypes!",
+   "et": ""
+  },
+  {
+   "id": 22,
+   "en": "  *Message of the Week*\n\nEveryone loves kids!\n\nI just ate three!",
+   "et": ""
+  },
+  {
+   "id": 23,
+   "en": "  *Message of the Week*\n\nSquatting helps me think.\n\n...Don't ask!",
+   "et": ""
+  },
+  {
+   "id": 24,
+   "en": "  *Message of the Week*\n\nPut tight pants on slowly.\n\nTrust me on this one.",
+   "et": ""
+  },
+  {
+   "id": 25,
+   "en": "  *Message of the Week*\n\nShedding blood, sweat,\nand tears is not as easy\nas it looks.\nAnd it looks hard!!",
+   "et": ""
+  },
+  {
+   "id": 26,
+   "en": "  *Message of the Week*\n\nPride comes before a fall.\n\nWear a padded pride suit!",
+   "et": ""
+  },
+  {
+   "id": 27,
+   "en": "  *Message of the Week*\n\nCall the firefighters.\n\nBefore the house burns.",
+   "et": ""
+  },
+  {
+   "id": 28,
+   "en": "  *Message of the Week*\n\nIt takes strength to fail.\n\nI'm the strongest ever!",
+   "et": ""
+  },
+  {
+   "id": 29,
+   "en": "  *Message of the Week*\n\nRushing leads to mistakes.\n\nTake your time!",
+   "et": ""
+  },
+  {
+   "id": 30,
+   "en": "  *Message of the Week*\n\nStrangers are scary!\n\nFlee from their candy!",
+   "et": ""
+  },
+  {
+   "id": 31,
+   "en": "  *Message of the Week*\n\nPostcards aren't cards.\n\nWeird.",
+   "et": ""
+  },
+  {
+   "id": 32,
+   "en": "  *Message of the Week*\n\nSmiles are free.\n\nBut they're worth a lot.",
+   "et": ""
+  },
+  {
+   "id": 33,
+   "en": "  *Message of the Week*\n\nClouds have silver linings.\n\nWhy don't they sink?",
+   "et": ""
+  },
+  {
+   "id": 34,
+   "en": "  *Message of the Week*\n\nKeep a positive attitude...\n\nIgnore the horror of it\nall!",
+   "et": ""
+  },
+  {
+   "id": 35,
+   "en": "  *Message of the Week*\n\nThe high life is stressful.\n\nRelax a little.",
+   "et": ""
+  },
+  {
+   "id": 36,
+   "en": "  *Message of the Week*\n\nCherry tomatoes are\ngreat.\nBut how many are too\nmuch?",
+   "et": ""
+  },
+  {
+   "id": 37,
+   "en": "  *Message of the Week*\n\nYou only get one first\nchance.\n\nUnless you have amnesia!",
+   "et": ""
+  },
+  {
+   "id": 38,
+   "en": "  *Message of the Week*\n\nHistory? Written by\nwinners.\n\nMessage boards? Losers.",
+   "et": ""
+  },
+  {
+   "id": 39,
+   "en": "  *Message of the Week*\n\nHousework before\nhomework.\n\nSleep before everything!",
+   "et": ""
+  },
+  {
+   "id": 40,
+   "en": "  *Message of the Week*\n\nIt hurts to think.\n\nI try not to.",
+   "et": ""
+  },
+  {
+   "id": 41,
+   "en": "  *Message of the Week*\n\nDon't make mountains out\nof molehills.\n\nIt leads to angry moles.",
+   "et": ""
+  },
+  {
+   "id": 42,
+   "en": "  *Message of the Week*\n\nMaybe is a good answer.\n\nBut not on a test.",
+   "et": ""
+  },
+  {
+   "id": 43,
+   "en": "  *Message of the Week*\n\nIf you lose something big,\n\npretend pirates took it.\n",
+   "et": ""
+  },
+  {
+   "id": 44,
+   "en": "  *Message of the Week*\n\nRaiding the fridge is bad.\n\nEspecially the neighbors'.",
+   "et": ""
+  },
+  {
+   "id": 45,
+   "en": "  *Message of the Week*\n\nCan't say anything nice?\n\nWrite it down!",
+   "et": ""
+  },
+  {
+   "id": 46,
+   "en": "  *Message of the Week*\n\nTired of studying? Stop!\n\nThen go work as a carnie!",
+   "et": ""
+  },
+  {
+   "id": 47,
+   "en": "  *Message of the Week*\n\nDon't ask others to do\nsomething you wouldn't.\nMAKE them do it.",
+   "et": ""
+  },
+  {
+   "id": 48,
+   "en": "  *Message of the Week*\n\nExercise relieves stress.\n\nNothing relieves exercise.",
+   "et": ""
+  },
+  {
+   "id": 49,
+   "en": "  *Message of the Week*\n\nAlways carry extra\nshorts.\n\nDon't get me started!",
+   "et": ""
+  },
+  {
+   "id": 50,
+   "en": "  *Message of the Week*\n\nDon't sweat the small\nstuff.\n\nPerspiring is icky.",
+   "et": ""
+  },
+  {
+   "id": 51,
+   "en": "  *Message of the Week*\n\nA friend in need is a\nfriend indeed.\nAn enemy in need is\nhilarious.",
+   "et": ""
+  },
+  {
+   "id": 52,
+   "en": "  *Message of the Week*\n\nBird, bird, bird.\n\nBird is the word.",
+   "et": ""
+  },
+  {
+   "id": 53,
+   "en": "  *Message of the Week*\n\nDon't cry over spilt milk.\n\nUnless you can cry milk.",
+   "et": ""
+  },
+  {
+   "id": 54,
+   "en": "  *Message of the Week*\n\nThere's no \"I\" in team.\n\nBut there IS one in\ntraitor!",
+   "et": ""
+  },
+  {
+   "id": 55,
+   "en": "  *Message of the Week*\n\nHome is where the heart\nis.\n\nHome is the rib cage.",
+   "et": ""
+  },
+  {
+   "id": 56,
+   "en": "  *Message of the Week*\n\nAn apple a day keeps the\ndoctor away.\nAn onion a day keeps\neveryone away.",
+   "et": ""
+  },
+  {
+   "id": 57,
+   "en": "  *Message of the Week*\n\nMilk is good for you.\n\nMilk shakes, not so much.",
+   "et": ""
+  },
+  {
+   "id": 58,
+   "en": "  *Message of the Week*\n\nYou catch more bees with\nhoney than with vinegar.\nThat's why honey makes a\npoor facial moisturizer.",
+   "et": ""
+  },
+  {
+   "id": 59,
+   "en": "  *Message of the Week*\n\nYou're as old as you feel.\n\nI feel sick.",
+   "et": ""
+  },
+  {
+   "id": 60,
+   "en": "  *Message of the Week*\n\nFate has a fickle finger.\n\nI have a pickle finger.",
+   "et": ""
+  },
+  {
+   "id": 61,
+   "en": "  *Message of the Week*\n\nFind a penny, pick it up.\n\nWaste of time, man.",
+   "et": ""
+  },
+  {
+   "id": 62,
+   "en": "  *Message of the Week*\n\nFeed a fever, starve a\ncold.\nLightly sup with rickets.",
+   "et": ""
+  },
+  {
+   "id": 63,
+   "en": "  *Message of the Week*\n\nWhen it rains, it pours.\n\nBring an umbrella.",
+   "et": ""
+  },
+  {
+   "id": 64,
+   "en": "  *Message of the Week*\n\nA little learning can't\nhurt.\n\nExcept at Pain State.",
+   "et": ""
+  },
+  {
+   "id": 65,
+   "en": "  *Message of the Week*\n\nLaughter is good medicine.\n\nBurping is just rude.",
+   "et": ""
+  },
+  {
+   "id": 66,
+   "en": "  *Message of the Week*\n\nIf getting there is half\nthe fun...\nWhat happens if you turn\naround halfway?",
+   "et": ""
+  },
+  {
+   "id": 67,
+   "en": "  *Message of the Week*\n\nKeep your friends close,\nand your enemies closer.\nAnd make sure everyone\nuses lots of deodorant.",
+   "et": ""
+  },
+  {
+   "id": 68,
+   "en": "  *Message of the Week*\n\nWinners never quit.\n\nQuitters occasionally win.",
+   "et": ""
+  },
+  {
+   "id": 69,
+   "en": "  *Message of the Week*\n\nTrue love is forever.\n\nThe good kind of forever.",
+   "et": ""
+  },
+  {
+   "id": 70,
+   "en": "  *Message of the Week*\n\nHa ha ha.\nHee hee hee.\nOh, pitfalls,\nI love thee.",
+   "et": ""
+  },
+  {
+   "id": 71,
+   "en": "  *Message of the Week*\n\nSqueaky wheels gets\ngrease.\n\nGreasy wheels are gross.",
+   "et": ""
+  },
+  {
+   "id": 72,
+   "en": "  *Message of the Week*\n\nMoney is the root of evil.\n\nDig! Dig! Dig!",
+   "et": ""
+  },
+  {
+   "id": 73,
+   "en": "  *Message of the Week*\n\nBirthdays come once a\nyear.\n\nIn-laws come all the time.",
+   "et": ""
+  },
+  {
+   "id": 74,
+   "en": "  *Message of the Week*\n\nGenius is 1% inspiration\nand 99% perspiration.\nGenius smells terrible.",
+   "et": ""
+  },
+  {
+   "id": 75,
+   "en": "  *Message of the Week*\n\nBlood is thicker than\nwater.\n\nThat's kinda gross.",
+   "et": ""
+  },
+  {
+   "id": 76,
+   "en": "  *Message of the Week*\n\nOompa pow pow.\n\nOompa oomp pow pow.",
+   "et": ""
+  },
+  {
+   "id": 77,
+   "en": "  *Message of the Week*\n\nGive a man a fish,\nand he'll eat for a day.\nGive a fish a man,\nand he'll eat for weeks!",
+   "et": ""
+  },
+  {
+   "id": 78,
+   "en": "  *Message of the Week*\n\nYou can kill two birds\nwith one stone.\nOr you can watch them\nand be much happier.",
+   "et": ""
+  },
+  {
+   "id": 79,
+   "en": "  *Message of the Week*\n\nIt's darkest before dawn.\n\nSleep in.",
+   "et": ""
+  },
+  {
+   "id": 80,
+   "en": "  *Message of the Week*\n\nA bird in the hand...\n\nIs really painful.",
+   "et": ""
+  },
+  {
+   "id": 81,
+   "en": "  *Message of the Week*\n\nIt never hurts to ask.\n\nUnless you ask for hurt.",
+   "et": ""
+  },
+  {
+   "id": 82,
+   "en": "  *Message of the Week*\n\nEasy come, easy go.\n\nAm I coming or going?",
+   "et": ""
+  },
+  {
+   "id": 83,
+   "en": "  *Message of the Week*\n\nNeedle in a haystack?\n\nBuy a new one! Sheesh!",
+   "et": ""
+  },
+  {
+   "id": 84,
+   "en": "  *Message of the Week*\n\nI want some electric\nsocks.\n\nWith stripes.",
+   "et": ""
+  }
+ ]
+}

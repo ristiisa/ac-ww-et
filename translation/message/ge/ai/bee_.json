@@ -1,0 +1,65 @@
+{
+ "file": "script/ENG/message/ge/ai/bee_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 18 00}Holy smoke!{01 00 00 05 00} What on\nearth--{01 00 00 05 00} What on earth\nhappened to your face?\n{07 16 00}Did a giant bee come and\npunch you in the eyeball,\n{01 00 00 05 00}{04 02 00}?\n{07 04 00}Wow, {01 00 00 05 00}you're braver than you\nlook!{01 00 00 0f 00} {07 13 00}I didn't know you had\nit in you!",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 18 00}GWAAAAAH!{01 00 00 0a 00} Stay back! {01 00 00 05 00}Don't\neat me, {01 00 00 05 00}{04 02 00}! Eek!{01 01 00}\n{07 04 00}Huh? {01 00 00 0a 00}{0b 03 00}{04 1f 00}?{01 00 00 0a 00} Gosh!\n{07 16 00}I thought you were some\nkind of {04 01 00}-eating\nmonster!\nYou know, that's going to be{01 00 00 05 00}\nswollen all day. {01 00 00 05 00}Keep\nyour chin up though, {01 00 00 05 00}OK?",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 02 00}MOPPING MARSHMALLOWS!!!{01 00 00 0a 00}\nYou scared the stuffing out\nof me!\n{07 16 00}Those bees really did a\nnumber on your face,\n{04 1f 00}!\n{07 03 00}Wow! {01 00 00 05 00}I'm wide awake\nnow, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 3,
+   "en": "{07 02 00}Zowwie! {01 00 00 0a 00}That's quite a look\nyou're sporting there,\n{04 1f 00}!{01 00 00 05 00}\n{07 11 00}Let's see.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} You were\nshaking trees, weren't you?{01 01 00}\n{07 03 00}I knew it! {01 00 00 05 00}Ha ha ha ha!\n{07 14 00}I hope you've learned\nyour lesson, {04 1f 00}!\n{01 00 00 05 00}{0b 03 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 4,
+   "en": "{07 18 00}EEEEEEEEEK!{01 00 00 0a 00} Do you have any\nidea what your face looks\nlike, {01 00 00 05 00}{04 02 00}?\n{07 16 00}Omigosh! This is, like, the\nworst case of bee stings\nI've ever seen{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n{07 0c 00}Wait! {01 00 00 05 00}I've got an idea!{01 00 00 14 00}\n{07 14 00}If you take some {ff 00 00 07}medicine{ff 00 00 00},\nit'll clear up right away!",
+   "et": ""
+  },
+  {
+   "id": 5,
+   "en": "{07 07 00}Ouch! {01 00 00 05 00}That looks like it\nreally hurts{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} {07 16 00}That IS you,\nisn't it, {01 00 00 05 00}{04 1f 00}?\n{07 00 00}You got stung by bees,\ndidn't you? {01 00 00 0f 00}That is just the\nworst, {01 00 00 05 00}{04 02 00}!\n{07 06 00}When you see bees, {01 00 00 05 00}you\ncan't just stand there! {01 00 00 05 00}You\ngotta RUN! ",
+   "et": ""
+  },
+  {
+   "id": 6,
+   "en": "{07 18 00}Jeepers! {01 00 00 0a 00}You almost scared\nme to death!{01 00 00 0a 00} {07 16 00}Don't sneak up\non me looking like that!{01 00 00 05 00}\n{07 14 00}You know what, though, {01 00 00 05 00}\nthat's actually a good look\nfor you, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 7,
+   "en": "{07 04 00}Yipes! {01 00 00 0a 00}{0b 03 00}{04 1f 00}?{01 01 00} {07 16 00}You look\nlike a mutant grapefruit or\nsomething!\n{07 0b 00}Oh, I get it...{01 00 00 05 00} Bees did this\nto you, right, {01 00 00 05 00}{04 02 00}?\n\n{07 14 00}Well, {01 00 00 05 00}the day's almost over\nso you won't have to look\nlike that for long!",
+   "et": ""
+  },
+  {
+   "id": 8,
+   "en": "{07 02 00}OH NO OH NO OH NO! {01 00 00 05 00}Monster\nalert!{01 00 00 0a 00} Stay back, you\nhideous fiend! {01 00 00 05 00}{0b 03 00}{04 02 00}!\n{07 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 04 00}Huh?{01 00 00 14 00} {07 16 00}Is that really you\nin there, {04 1f 00}?\n\n{07 00 00}If that swelling doesn't go\ndown right away, {01 00 00 05 00}you might\nthink about going to bed{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.",
+   "et": ""
+  },
+  {
+   "id": 9,
+   "en": "{07 18 00}ZOMBIE MUTANT MONSTER!!!{01 01 00}\n{07 02 00}What? {01 00 00 0a 00}Is that really you,\n{04 1f 00}?\n{07 16 00}Eeeeeek!{01 00 00 0a 00} You just about\ngave me a heart attack,\n{01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 10,
+   "en": "{07 02 00}EEEEK! {01 00 00 05 00}{0b 03 00}{04 02 00}!\n\n\n{07 16 00}Wait a sec{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00} I know you. {01 00 00 05 00}It\nis you under all that, isn't\nit, {04 1f 00}?\n{07 0f 00}Darn it. {01 00 00 05 00}Now that was a\nwaste of a perfectly good\nfreak-out.",
+   "et": ""
+  },
+  {
+   "id": 11,
+   "en": "{07 15 00}You're not fooling me!{01 00 00 0a 00}\nYou act all nice, but you're\nreally just a bee baiter!\n{07 14 00}Yeah, that's what I thought!\n{01 00 00 05 00}It's not that big a deal,\n{04 1f 00}, but{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 16 00}...when bees attack, {01 00 00 0a 00}it's not\na pretty thing. {01 00 00 05 00}Believe me,\n{01 00 00 05 00}{04 02 00}, I know.",
+   "et": ""
+  }
+ ]
+}

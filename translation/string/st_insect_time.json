@@ -1,0 +1,35 @@
+{
+ "file": "script/ENG/string/st_insect_time.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "late at night",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "in the morning",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "during the day",
+   "et": ""
+  },
+  {
+   "id": 3,
+   "en": "in the evening",
+   "et": ""
+  },
+  {
+   "id": 4,
+   "en": "at night",
+   "et": ""
+  },
+  {
+   "id": 5,
+   "en": "at any time",
+   "et": ""
+  }
+ ]
+}

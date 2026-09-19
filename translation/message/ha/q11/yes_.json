@@ -1,0 +1,20 @@
+{
+ "file": "script/ENG/message/ha/q11/yes_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 14 00}Pleasure doin' business!{01 00 00 0a 00}\nI'll just take those\n{04 12 00} Bells...\n{07 00 00}Use my totally awesome\n{0b 02 00}{04 1a 00} \nas you like, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 14 00}{0b 03 00}{04 1a 00},{01 00 00 05 00}\ncomin' up!\n\n{07 03 00}All sales are final!{01 00 00 05 00}\nNo refunds, no exchanges,\nno griping, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 14 00}Thanks for your Bells!{01 00 00 05 00}\nAll {04 12 00} of 'em,{01 00 00 05 00}\n{04 02 00}!\n{07 15 00}You gotta promise me you'll\ntrain all day with your new\n{0b 02 00}{04 1a 00}!",
+   "et": ""
+  }
+ ]
+}

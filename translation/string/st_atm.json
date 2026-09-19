@@ -1,0 +1,25 @@
+{
+ "file": "script/ENG/string/st_atm.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "Member",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "Silver",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "Gold",
+   "et": ""
+  },
+  {
+   "id": 3,
+   "en": "Platinum",
+   "et": ""
+  }
+ ]
+}

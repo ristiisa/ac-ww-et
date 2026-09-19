@@ -1,0 +1,135 @@
+{
+ "file": "script/ENG/message/ge/ai/shop3_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{06 0b 00 06 06 06 06 06 0a 0b}",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{06 08 00 0c 0d 0e 0f}",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{06 01 00 10 11 12}",
+   "et": ""
+  },
+  {
+   "id": 3,
+   "en": "{06 01 00 13 14 15}",
+   "et": ""
+  },
+  {
+   "id": 4,
+   "en": "Y'know, Brewster makes \nreally good coffee,\n{01 00 00 05 00}{04 02 00}!\n{06 01 00 18 19 1a}",
+   "et": ""
+  },
+  {
+   "id": 6,
+   "en": "{06 01 00 07 08 09}",
+   "et": ""
+  },
+  {
+   "id": 7,
+   "en": "{07 02 00}This place doesn't have an\nall-you-can-eat buffet?!\nHow lame, {01 00 00 05 00}{04 02 00}!\n{07 16 00}I brought my own doggie  \nbag and everything!{01 00 00 0a 00}\n{07 06 00}Bummer! B-U-M-M-E-R!",
+   "et": ""
+  },
+  {
+   "id": 8,
+   "en": "{07 0b 00}Besides {04 19 00}, \nwhat else should I have for\ndessert, {04 02 00}?",
+   "et": ""
+  },
+  {
+   "id": 9,
+   "en": "{07 14 00}Every Saturday, {ff 00 00 06}K.K. Slider\n{ff 00 00 00}holds a live concert here,\n{01 00 00 05 00}{04 02 00}!\nIf I could describe him in\none word, it would be...{01 00 00 0a 00}\nSupercoolmusician!\n{07 0a 00}I wanna sing on a stage,\ntoo! I could be the next big\nstar, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 10,
+   "en": "{07 15 00}Huh? {01 00 00 05 00}No, you CAN'T sit here!{01 00 00 05 00}\nIn fact, I'll say it again{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\nNO! N-O! No way! Uh uh!\nThis is, like, VIP seating\nfor {ff 00 00 06}K.K. Slider{ff 00 00 00}'s concert...{01 00 00 0a 00}\nAnd it's {01 00 00 05 00}ALL{01 00 00 0a 00} MINE{01 00 00 0a 00}!",
+   "et": ""
+  },
+  {
+   "id": 11,
+   "en": "{07 14 00}Whenever I have a day off,\nI come here and relax, \n{01 00 00 05 00}{04 02 00}!\n{07 14 00}Want to know when my day\noff is, {04 02 00}?!{01 00 00 05 00}\n.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}EVERY DAY! Tee hee!",
+   "et": ""
+  },
+  {
+   "id": 12,
+   "en": "Heya, {04 1f 00}!{01 00 00 05 00} {07 0b 00}Are you\neating breakfast,\n{01 00 00 05 00}{04 02 00}?\n{07 00 00}I eat a big breakfast\nevery morning! With fish\nand marmalade and...{01 00 00 05 00}stuff.\n{07 06 00}Why? Duuuuuh! Because I\ndon't wanna get all sick\nand fainty, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 13,
+   "en": "{07 15 00}I'm waaaay too mature\nfor the kiddie meal! {01 00 00 05 00}Sheesh!\nThat's so yesterday!\n{07 0a 00}{01 00 00 05 00}Today, I'm gonna eat an\nadult-size combo meal!{01 00 00 0a 00}\nBut only if it has a toy...",
+   "et": ""
+  },
+  {
+   "id": 14,
+   "en": "Tonight, I'm gonna eat the\nbest meal they have!{01 00 00 0a 00}\n{07 16 00}Oh, no{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}. It's so expensive!\n{07 06 00}If I keep this up, I'm\ngonna run out of Bells\nquick, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 15,
+   "en": "{07 16 00}It's late, {04 1f 00}!\nDon't drink lots of coffee,\nor you'll never go to sleep!{07 00 00}",
+   "et": ""
+  },
+  {
+   "id": 16,
+   "en": "{07 06 00}Whaa-?! I'm, like, starving!\nI'm gonna wolf down some\n{04 19 00}!\n{07 07 00}Ooo, but the calories.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n{07 00 00}Aw, who cares! I'm young,\nright, {01 00 00 05 00}{04 02 00}?",
+   "et": ""
+  },
+  {
+   "id": 17,
+   "en": "{07 14 00}\"Brewster!{01 00 00 05 00} Gimme the usual!\"{01 01 00}\n{07 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}That's all I need to say!\nBecause I ALWAYS get...\n{0b 03 00}{04 18 00}! Oh, yeah!\nEvery single time!{01 00 00 0a 00}\nEvery.{01 00 00 0a 00} Single. {01 00 00 0a 00}Time.\n{07 16 00}Hmmm...maybe I should try\na new drink,{01 00 00 05 00} {04 02 00}.\nNow I'm totally confused!",
+   "et": ""
+  },
+  {
+   "id": 18,
+   "en": "Brewster is sooooo cool!{01 00 00 05 00}\n{07 14 00}He's the best-looking guy\nin town, {01 00 00 05 00}{04 02 00}!\n{07 04 00}Um...{01 00 00 05 00} did I just say that?{01 00 00 14 00}\n{07 00 00}{07 15 00}I don't BELIEVE I said that!{01 00 00 0a 00}\nDON'T{01 00 00 0a 00} TELL{01 00 00 0a 00} ANYONE!!!",
+   "et": ""
+  },
+  {
+   "id": 19,
+   "en": "Y'know, Brewster is always\nwiping that same glass.{01 00 00 05 00}\nI wonder.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 16 00}Maybe it was a present\nfrom his late wife! Oh no!\nThat's soooo sad{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 14 00}Wait, I'm being silly!{01 00 00 05 00} Do you\nthink I watch too many soap\noperas, {01 00 00 05 00}{04 02 00}?",
+   "et": ""
+  },
+  {
+   "id": 20,
+   "en": "{07 15 00}Hey,{01 00 00 05 00} {04 1f 00}! HEY!{01 00 00 0a 00}\n{07 01 00}You're standing in my{01 00 00 05 00}\ncoolness bubble! Quit it!\nI'm trying to look my best\nand meet a cute boy.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n{07 05 00}SO BUZZ OFF!!",
+   "et": ""
+  },
+  {
+   "id": 21,
+   "en": "{07 13 00}Ooh, what a sweet song! {00 01 00}{01 00 00 0a 00}{01 01 00}\n{07 14 00}If a nice boy confessed his\nlove to me right now{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{06 03 00 16 17}",
+   "et": ""
+  },
+  {
+   "id": 22,
+   "en": "{07 04 00}Oh, fishheads! {01 00 00 05 00}What in the...{01 00 00 0a 00}\n{07 00 00}{0b 03 00}{04 1f 00}?! {0b 03 00}{04 1f 00}!\nHELLO?? I didn't mean YOU!!\n{07 01 00}Don't follow me like a hyena\nlooking for some tasty{01 00 00 05 00}\n{04 19 00}!",
+   "et": ""
+  },
+  {
+   "id": 23,
+   "en": "{07 15 00}W-{01 00 00 05 00}what?!{01 00 00 0a 00} Not you, silly! In\nfact{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00}. You could be\ncompetition!\nDon't get any funny ideas,{01 00 00 05 00}\n{04 02 00}!{01 00 00 0a 00} Go get your\nown hopes and dreams!",
+   "et": ""
+  },
+  {
+   "id": 24,
+   "en": "{07 14 00}I LOVE the way he picks\nmusic for the jukebox, too!{01 00 00 05 00}\nIt's so jazzy and laid back.\n{07 06 00}I wish I was passionate\nabout something like that,\n{01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 25,
+   "en": "He tries to hide his eyes\nbehind those glasses, but I\nsee them! So sensitive{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 16 00}Ahhhhhh! Who am I kidding?{01 00 00 0c 00}\n{07 00 00}{07 1c 00}Oh, I could just stare at\nhim all day, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 26,
+   "en": "{07 19 00}I bet he likes cookies, too!{01 00 00 05 00}\nJust like me, {01 00 00 05 00}{04 02 00}!{07 00 00}",
+   "et": ""
+  }
+ ]
+}

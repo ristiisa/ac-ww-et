@@ -1,0 +1,15 @@
+{
+ "file": "script/ENG/message/ge/q02/plose_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "Oh, {01 00 00 05 00}this here looks like\n{04 1c 00},\n{01 00 00 05 00}{04 02 00}.\nBut look what I got!{01 00 00 0a 00}\n{0b 03 00}{ff 00 00 07}{04 1d 00}{ff 00 00 00}!{01 01 00}\n{07 03 00}Teeeheee!{01 00 00 0a 00} I'm the winner!\nIf you want to catch the\nbig one,{01 00 00 05 00} you gotta go\nALL OUT,{01 00 00 05 00} {04 1f 00}!",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "This looks like{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n{04 1c 00},\n{01 00 00 05 00}{04 02 00}!\nBUUUUT, looky here! {01 00 00 05 00}I got\n{04 1d 00}!{01 00 00 0a 00}\nOh...that means that I win{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 0a 00}YEEESSS!!{01 00 00 05 00} It was TOTALLY\nworth devoting so much\ntime to this, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  }
+ ]
+}

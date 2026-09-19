@@ -1,0 +1,45 @@
+{
+ "file": "script/ENG/message/sp/npc/atm_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "Thank you for using the{01 00 00 0f 00}\n{ff 00 00 02}Tom Nook Point System{ff 00 00 00}.{01 00 00 0f 00}\nHow can I be of service?{02 05 00 00 06 04}\nBalance inquiry.\nWhat are points?\nNever mind.",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{0b 03 00}{04 00 00}\nBalance: {04 0f 00}",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{0b 03 00}{04 00 00}\nStatus: {04 11 00}\nBalance: {04 0f 00}",
+   "et": ""
+  },
+  {
+   "id": 3,
+   "en": "Points required to reach\n{0b 02 00}{04 12 00} status:\n{04 10 00}",
+   "et": ""
+  },
+  {
+   "id": 4,
+   "en": "\nThank you very much.",
+   "et": ""
+  },
+  {
+   "id": 5,
+   "en": "Like the endless sparkle\nof the purest platinum\ndebit cards,\nmay your shopping habits\ncontinue to shine on\nforevermore.\nCongratulations. You have\nachieved the highest\nmember status, {04 00 00}.",
+   "et": ""
+  },
+  {
+   "id": 6,
+   "en": "The {ff 00 00 02}Point System{ff 00 00 00} operates\nas follows:\n\n1. You earn points\n   automatically each time\n   you make a purchase.\n2. As you earn points, your\n   status will increase,\n   earning you rewards.\n3. At each status level,\n   you receive a slight\n   discount on store rates.\n4. Purchasing pricier\n   products earns you\n   more points.",
+   "et": ""
+  },
+  {
+   "id": 7,
+   "en": "How else can I be of\nservice today?{02 05 00 00 06 04}\nBalance inquiry.\nWhat are points?\nNever mind.",
+   "et": ""
+  }
+ ]
+}

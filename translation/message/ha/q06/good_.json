@@ -1,0 +1,20 @@
+{
+ "file": "script/ENG/message/ha/q06/good_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 14 00}Score!{01 00 00 0a 00} I was right on\ntarget as usual!\n\n{07 15 00}To be pro-style,{01 00 00 05 00} you gotta\nstart by truly knowing your\nopponent, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 14 00}Awesome, {01 00 00 05 00}{04 02 00}!\n\n\n{07 15 00}{0b 03 00}{04 1f 00}, both you and\n{ff 00 00 06}{04 10 00} {ff 00 00 00}are my bestest\nof best buds!\n{07 0d 00}And I take care of my\npeeps, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 14 00}Aw, I TOTALLY knew it!{01 01 00}\n{07 14 00}See, I'd heard {01 00 00 05 00}{ff 00 00 06}{04 10 00} \n{ff 00 00 00}just started working out!\n{07 0a 00}Sportswear is in my blood,\n{01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  }
+ ]
+}

@@ -1,0 +1,20 @@
+{
+ "file": "script/ENG/message/ha/q02/con1_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 01 00}I can't catch a single\n{0b 02 00}{04 1a 00}!{01 00 00 05 00}\nYaaaargh, {04 02 00}!\n{07 16 00}Is this even the right\nseason?{01 01 00} {07 05 00}Who's in charge of\nthis mess, {01 00 00 05 00}{04 02 00}?",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "Yo, {ff 00 00 05}{04 1f 00}{ff 00 00 00}! {01 00 00 0a 00}{07 0b 00}Can't catch\n{04 1a 00}?\n\n{07 06 00}Yeah, I know, me neither!{01 00 00 05 00}\nIt stinks, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 0b 00}{0b 03 00}{04 1a 00}?{01 01 00}\n{07 04 00}Oh, right!{01 00 00 14 00} {07 06 00}We're racing to\ncatch one, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  }
+ ]
+}

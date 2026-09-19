@@ -1,0 +1,20 @@
+{
+ "file": "script/ENG/message/bo/q10/req_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 0e 00}I think we should hang out\nmore, {01 00 00 05 00}don't you?\n\n{07 0c 00}{01 00 00 14 00}Oh!{01 00 00 05 00} {07 14 00}Oh! Oh! I know!{01 00 00 14 00}{07 0b 00} Can I{01 00 00 0a 00}\ncome over to your house\nsometime?",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 00 00}Hey, {04 1f 00}, I've\nalways wondered what kind\nof a house you live in.\n{07 15 00}You play it like you're all\ncasual, {01 00 00 05 00}{07 11 00}but I bet your\nhouse is awesome!\n{07 0f 00}But this is all just\nspeculation, 'cause you've\nnever invited me over!\n{07 00 00}So whaddaya say? {07 0b 00}Can I\ncome by and see your\nplace, {01 00 00 05 00}{04 02 00}?",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 14 00}Having someone visit your\nhouse is proof that they're\nyour friend, huh?\n{07 06 00}I'd sure like to see your\nplace, too, {01 00 00 0a 00}{04 02 00}.{01 01 00}\n{ff 00 00 04}Hint, hint.",
+   "et": ""
+  }
+ ]
+}

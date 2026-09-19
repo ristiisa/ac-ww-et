@@ -1,0 +1,20 @@
+{
+ "file": "script/ENG/message/ha/q12/report_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 14 00}Check me OUT! {01 00 00 05 00}In case it\nisn't obvious, I'm feeling\nsuper pumped again!\nThat {ff 00 00 07}medicine {ff 00 00 00}you brought\nme really hit the spot,\n{01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 14 00}Thanks for that {ff 00 00 07}medicine{ff 00 00 00}{01 00 00 05 00}\nthe other day!\n\n{07 0d 00}I'm a brand-new me,\n{01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 14 00}Thanks to that {ff 00 00 07}medicine{ff 00 00 00},{01 00 00 05 00}\nI'm fully recovered and full\nof beans, baby!\n{07 08 00}Having friends rocks HARD,\n{01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  }
+ ]
+}

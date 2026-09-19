@@ -1,0 +1,20 @@
+{
+ "file": "script/ENG/message/fu/q12/end_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 14 00}I really appreciate\neverything you did for me,\n{01 00 00 05 00}{04 02 00}.",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 06 00}I'll never forget your\nkindness!{01 01 00} {07 14 00}It's nice to know\nyou're there for me.",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 0a 00}{0b 03 00}{04 1f 00}, I don't know\nwhat I would have done if\nyou weren't here!\n{07 14 00}So don't go moving on me,\nbecause I don't want to\nhave to find out!",
+   "et": ""
+  }
+ ]
+}

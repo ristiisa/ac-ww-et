@@ -1,0 +1,305 @@
+{
+ "file": "script/ENG/message/obj/etc/getinsect_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "I caught a common\nbutterfly!{01 00 00 05 00}\nIt's so white and pure!",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "I caught a yellow butterfly!{01 00 00 05 00}\n\nWhat? {01 00 00 05 00}Is it scared?",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "I caught a tiger\nbutterfly!{01 00 00 05 00}\nThe star of butterflies!",
+   "et": ""
+  },
+  {
+   "id": 3,
+   "en": "I caught a peacock\nbutterfly!{01 00 00 05 00}\nThese colors! Beautiful!",
+   "et": ""
+  },
+  {
+   "id": 4,
+   "en": "I caught a monarch\nbutterfly!{01 00 00 05 00}\nThis butterfly can travel!",
+   "et": ""
+  },
+  {
+   "id": 5,
+   "en": "I caught an emperor\nbutterfly!{01 00 00 05 00}\nThis blue... It's royal!",
+   "et": ""
+  },
+  {
+   "id": 6,
+   "en": "I caught an agrias\nbutterfly!\nIt's so vibrant and lovely!",
+   "et": ""
+  },
+  {
+   "id": 7,
+   "en": "I caught a birdwing\nbutterfly!{01 00 00 05 00}\nA green light in midair!",
+   "et": ""
+  },
+  {
+   "id": 8,
+   "en": "Yuck! I caught a moth!{01 00 00 05 00}\n\nIt's OK...{01 00 00 05 00} I'm OK...",
+   "et": ""
+  },
+  {
+   "id": 9,
+   "en": "I caught a Japanese oak\nsilk moth.{01 00 00 05 00}\nIt's pretty, but...yuck!",
+   "et": ""
+  },
+  {
+   "id": 10,
+   "en": "I caught a honeybee!{01 00 00 05 00}\n\nHello,{01 00 00 05 00} honey!",
+   "et": ""
+  },
+  {
+   "id": 11,
+   "en": "I caught a bee!\n\nI'm so happy...\nthat I didn't get stung!",
+   "et": ""
+  },
+  {
+   "id": 12,
+   "en": "I caught a long locust!\n\nLocust where? Here!",
+   "et": ""
+  },
+  {
+   "id": 13,
+   "en": "I caught a migratory\nlocust!{01 00 00 05 00}\nAin't migrating anymore!",
+   "et": ""
+  },
+  {
+   "id": 14,
+   "en": "I caught a mantis!{01 00 00 05 00}\n\nThe hunter is the hunted!",
+   "et": ""
+  },
+  {
+   "id": 15,
+   "en": "I caught an orchid mantis!{01 00 00 05 00}\n\nIt hunts in flowers!",
+   "et": ""
+  },
+  {
+   "id": 16,
+   "en": "I caught a brown cicada!{01 00 00 05 00}\n\nThese guys are{01 00 00 05 00} everywhere!",
+   "et": ""
+  },
+  {
+   "id": 17,
+   "en": "I caught a robust cicada!{01 00 00 05 00}\n\nYou're a hearty little guy!",
+   "et": ""
+  },
+  {
+   "id": 18,
+   "en": "I caught a walker cicada!{01 00 00 05 00}\n\nThese guys chirp funny!",
+   "et": ""
+  },
+  {
+   "id": 19,
+   "en": "I caught an evening cicada!{01 00 00 05 00}\n\nI can't stand the chirping!",
+   "et": ""
+  },
+  {
+   "id": 20,
+   "en": "I caught a lanternfly!{01 00 00 05 00}\n\nYou light up my life!",
+   "et": ""
+  },
+  {
+   "id": 21,
+   "en": "I caught a red dragonfly!{01 00 00 05 00}\n\nIt's the color of sunset!",
+   "et": ""
+  },
+  {
+   "id": 22,
+   "en": "I caught a darner\ndragonfly!{01 00 00 05 00}\nDarn right I did!",
+   "et": ""
+  },
+  {
+   "id": 23,
+   "en": "I did it!{01 00 00 05 00}\n\n\nDid you see that?{01 00 00 05 00} Did ya?\nI caught the elusive\nbanded dragonfly!{01 00 00 05 00}",
+   "et": ""
+  },
+  {
+   "id": 24,
+   "en": "I caught an ant!{01 00 00 05 00}\n\nAnt misbehavin'!",
+   "et": ""
+  },
+  {
+   "id": 25,
+   "en": "I caught a pondskater!{01 00 00 05 00}\n\nTry to skate away from ME!",
+   "et": ""
+  },
+  {
+   "id": 26,
+   "en": "I caught a snail!{01 00 00 05 00}\n\nEscargot? Escar-NO!",
+   "et": ""
+  },
+  {
+   "id": 27,
+   "en": "I caught a cricket!{01 00 00 05 00}\n\nAutumn's own musician!",
+   "et": ""
+  },
+  {
+   "id": 28,
+   "en": "I caught a bell cricket!{01 00 00 05 00}\n\nHe's the littlest musician!{00 01 00}",
+   "et": ""
+  },
+  {
+   "id": 29,
+   "en": "I caught a grasshopper!{01 00 00 05 00}\nNo vacationing for these\nguys, even in the summer!",
+   "et": ""
+  },
+  {
+   "id": 30,
+   "en": "I caught a mole cricket!{01 00 00 05 00}\nI don't see any{01 00 00 05 00} moles on\nyou, little guy!",
+   "et": ""
+  },
+  {
+   "id": 31,
+   "en": "I caught a walkingstick!{01 00 00 05 00}\n\nIt's {01 00 00 05 00}a walking...stick?",
+   "et": ""
+  },
+  {
+   "id": 32,
+   "en": "I caught a ladybug!{01 00 00 05 00}\n\nSo petite! So lovely!",
+   "et": ""
+  },
+  {
+   "id": 33,
+   "en": "I caught an emerald fruit\nbeetle!{01 00 00 05 00}\nPretty iridescent coloring!",
+   "et": ""
+  },
+  {
+   "id": 34,
+   "en": "I caught a scarab beetle!{01 00 00 05 00}\n\nIt looks like a jewel!",
+   "et": ""
+  },
+  {
+   "id": 35,
+   "en": "I caught a dung beetle!{01 00 00 05 00}\nShouldn't you be rolling\nsomething else?",
+   "et": ""
+  },
+  {
+   "id": 36,
+   "en": "I caught the goliath beetle!{01 00 00 05 00}\n\n\nIt's...{01 00 00 05 00}GOLIATH!",
+   "et": ""
+  },
+  {
+   "id": 37,
+   "en": "Hey hey!{01 00 00 05 00}\nI caught a firefly!{01 00 00 05 00}\n\nThe gentle light...\nIt relaxes me...",
+   "et": ""
+  },
+  {
+   "id": 38,
+   "en": "I caught a jewel beetle!{01 00 00 05 00}\n\nLook at that sparkle!",
+   "et": ""
+  },
+  {
+   "id": 39,
+   "en": "I caught a longhorn beetle!{01 00 00 05 00}\n\nDon't chew through my net!",
+   "et": ""
+  },
+  {
+   "id": 40,
+   "en": "Right on!\nI caught a saw stag beetle!{01 00 00 05 00}\n\nLook at its chin...\nWhat an amazing specimen!",
+   "et": ""
+  },
+  {
+   "id": 41,
+   "en": "I did it!\nI caught a stag beetle!{01 00 00 05 00}\nI bet he's fun at parties!",
+   "et": ""
+  },
+  {
+   "id": 42,
+   "en": "Whoa!\n\nI caught a giant beetle!\nHe's so big and chunky\nand cool-looking, huh?{01 00 00 05 00}\nHe's the king of beetles!",
+   "et": ""
+  },
+  {
+   "id": 43,
+   "en": "I caught a rainbow stag!\n\n\nThe seven colors are so\nbright, I better put on\nsome shades!",
+   "et": ""
+  },
+  {
+   "id": 44,
+   "en": "I did it!{01 00 00 05 00}\nI caught a dynastid beetle!{01 00 00 05 00}\nTalk about{01 00 00 05 00} powerful!",
+   "et": ""
+  },
+  {
+   "id": 45,
+   "en": "I caught the atlas beetle!\n\n\nIt's black and looks tough!\n\nIt's the strongest beetle!",
+   "et": ""
+  },
+  {
+   "id": 46,
+   "en": "I caught an elephant beetle!{01 00 00 05 00}\n\nThe heavyweight of beetles!",
+   "et": ""
+  },
+  {
+   "id": 47,
+   "en": "I caught a hercules beetle!\n\n\nThe largest beetle in the\nworld!!!",
+   "et": ""
+  },
+  {
+   "id": 48,
+   "en": "Fleas! Fleas! Fleas!\n\nItchy!",
+   "et": ""
+  },
+  {
+   "id": 49,
+   "en": "I caught a pill bug!{01 00 00 05 00}\n\nRoll up if you want...\nyou're MINE!",
+   "et": ""
+  },
+  {
+   "id": 50,
+   "en": "I caught a mosquito!{01 00 00 05 00}\n\nGive me my blood back!{01 00 00 05 00}\nI gave at work!",
+   "et": ""
+  },
+  {
+   "id": 51,
+   "en": "I caught a fly...{01 00 00 05 00}\n\nBuzz off!",
+   "et": ""
+  },
+  {
+   "id": 52,
+   "en": "Oh, gross!!!{01 00 00 05 00}\n\nCockroach!\nBut now he's mine!\nAll mine!!!",
+   "et": ""
+  },
+  {
+   "id": 53,
+   "en": "I caught a spider!{01 00 00 05 00}\n\nYou're in MY web now!!!",
+   "et": ""
+  },
+  {
+   "id": 54,
+   "en": "I caught a tarantula!{01 00 00 05 00}\n\nDon't try this at home!",
+   "et": ""
+  },
+  {
+   "id": 55,
+   "en": "I caught a scorpion!{01 00 00 05 00}\n\nBut he didn't catch me!",
+   "et": ""
+  },
+  {
+   "id": 60,
+   "en": "But{01 00 00 05 00} I can't hold any more!{01 00 00 05 00}\n\nOh well,{01 00 00 05 00} I'll let him go.",
+   "et": ""
+  },
+  {
+   "id": 61,
+   "en": "But{01 00 00 05 00} I can't hold any more.{01 00 00 05 00}\n\nShould I swap it?{02 00 00 00 00}\nSwap!\nRelease!",
+   "et": ""
+  },
+  {
+   "id": 63,
+   "en": "You caught\n{04 1a 00}.\nThat means...",
+   "et": ""
+  },
+  {
+   "id": 64,
+   "en": "\n{01 08 00}I did it!\n\n\nI caught every kind of bug!",
+   "et": ""
+  }
+ ]
+}

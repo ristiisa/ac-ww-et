@@ -1,0 +1,20 @@
+{
+ "file": "script/ENG/message/bo/q02/nwin_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 02 00}Whoa{01 00 00 0a 00}.{01 00 00 0a 00}.{01 00 00 0a 00}.{01 01 00} {07 14 00}Huh huh huh!{01 00 00 0a 00} I win!{01 00 00 0a 00}\n{0b 03 00}{04 02 00}!\n\n{07 0d 00}Yup! I just caught this\n{0b 02 00}{04 1a 00}.{01 00 00 05 00}{07 00 00}\nToo bad,{01 00 00 0a 00} {04 1f 00}!",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 04 00}Oh! You were so close,\n{04 1f 00}!\n\n{07 14 00}But I just caught\n{04 1a 00}\nmyself.\n{07 17 00}I've been really nice to the\nfish all day.\n\n{07 14 00}Anyhow, it looks like this\nvictory is mine,{01 00 00 0a 00}\n{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 0b 00}Huh?{01 00 00 14 00} Oh, I already caught\n{04 1a 00}.\nYeah, it's old news.\n{07 14 00}You're one step behind me!{01 01 00}\n{07 0d 00}Huh huh huh{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} I win this\ntime, {01 00 00 0a 00}{04 02 00}!\nBut I'll play you again if\nyou want{01 00 00 0a 00}.{01 00 00 0a 00}.{01 00 00 0a 00}.and win!",
+   "et": ""
+  }
+ ]
+}

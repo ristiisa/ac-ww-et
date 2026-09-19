@@ -1,0 +1,85 @@
+{
+ "file": "script/ENG/message/bo/tsu/friend_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 0e 00}{01 00 00 0a 00}What's going on with\n{ff 00 00 06}{04 16 00}{ff 00 00 00} and\n{ff 00 00 06}{04 17 00}{ff 00 00 00}?\n{07 02 00}{01 00 00 14 00}Are they a couple or\nsomething? {07 15 00}I mean, {01 00 00 05 00}they're,\nlike, joined at the hip!\n{06 01 00 09 0a 0b}",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 0e 00}{01 00 00 0a 00}You know {ff 00 00 06}{04 16 00}{ff 00 00 00} and\n{ff 00 00 06}{04 17 00}{ff 00 00 00}?{01 00 00 0a 00} {07 0b 00}{01 00 00 05 00}What do you\nthink is up with them?{05 05 00 04 0f 06 0e 02 0d 04 0c}\nThey're friends.\nLotsa smooching.",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 16 00}Doesn't it seem like\n{ff 00 00 06}{04 16 00}{ff 00 00 00}{01 00 00 05 00} and {ff 00 00 06}{04 17 00}{ff 00 00 00}{01 00 00 0a 00}\nare always fighting?\n{07 0e 00}{01 00 00 0a 00}They used to be so close\nthey'd split a single cup of\n{04 13 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{01 00 00 0a 00}{07 1b 00}{01 00 00 05 00}What could have caused\nthings to go so wrong\nbetween them,{01 00 00 05 00} {04 02 00}?",
+   "et": ""
+  },
+  {
+   "id": 3,
+   "en": "So, {ff 00 00 06}{04 16 00}{ff 00 00 00} and\n{ff 00 00 06}{04 17 00}{ff 00 00 00}{01 00 00 0a 00} are pretty\ntight, right,{01 00 00 0a 00} {04 02 00}?\n{07 14 00}They were wearing matching\n{04 15 00}-print\noutfits yesterday!\n{07 0d 00}It was{01 00 00 0a 00} sooooooo,{01 00 00 0a 00} {07 00 00}{01 01 00}well,\nlame, actually!",
+   "et": ""
+  },
+  {
+   "id": 4,
+   "en": "{07 16 00}{0b 03 00}{ff 00 00 06}{04 16 00}{ff 00 00 00} and {ff 00 00 06}{04 17 00}\n{ff 00 00 00}are pretty cold around\neach other, aren't they?\n{01 00 00 0a 00}{07 1b 00}{01 00 00 05 00}They both looked totally\nindifferent towards the\nother.\n{07 1c 00}Eh.{01 00 00 05 00} Who really cares?\nI guess I'm pretty\nindifferent to them, too.",
+   "et": ""
+  },
+  {
+   "id": 5,
+   "en": "{07 16 00}Right now, {ff 00 00 06}{04 16 00}{ff 00 00 00} and\n{ff 00 00 06}{04 17 00}{ff 00 00 00} are getting\nalong sooo terribly!\n{07 15 00}{0b 03 00}{ff 00 00 06}{04 16 00}{ff 00 00 00} was the one who\nwas looking for trouble\nin the first place!\n{07 1c 00}{01 00 00 14 00}But when {ff 00 00 06}{04 17 00}{ff 00 00 00} said\nthere wasn't any to be had,\nthings went sour{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{01 00 00 0a 00}{07 1b 00}{01 00 00 05 00}In the heart's baseball\ngame, someone{01 00 00 0a 00} made an\nerror.{01 01 00}{07 0d 00} Wow, I'm soooo deep!",
+   "et": ""
+  },
+  {
+   "id": 6,
+   "en": "{07 14 00}Have you noticed how close\n{ff 00 00 06}{04 16 00}{ff 00 00 00} and {ff 00 00 06}{04 17 00}{ff 00 00 00}\nare?\n{07 0e 00}{01 00 00 0a 00}Yeah, they were holding\nhands{01 00 00 0a 00} and laughing {01 00 00 0a 00}and\nhugging{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 13 00}{01 00 00 0a 00}Do you think{01 00 00 0a 00} all girls act\nlike that when they're\ntogether,{01 00 00 0a 00} {04 02 00}?",
+   "et": ""
+  },
+  {
+   "id": 7,
+   "en": "{07 00 00}{0b 03 00}{ff 00 00 06}{04 16 00}{ff 00 00 00} and {ff 00 00 06}{04 17 00}{ff 00 00 00}{01 00 00 0a 00}\nhave a really weird\nrelationship.\nThey're all like,{07 14 00} \"What are\nyou wearing tonight?\"{01 00 00 14 00}{07 00 00} and{01 00 00 14 00}{07 14 00}\n\"Did you cut your hair?\"{01 00 00 14 00}{07 00 00}\n{07 06 00}I don't like being mean, but\nI want to yell at them,{01 00 00 05 00}\n{07 15 00}\"Who really cares anyway?\"",
+   "et": ""
+  },
+  {
+   "id": 8,
+   "en": "{07 16 00}Watching {ff 00 00 06}{04 16 00}{ff 00 00 00} and\n{ff 00 00 06}{04 17 00}{ff 00 00 00}{01 00 00 0a 00} is like watching\na soap opera!\n{07 06 00}They had the biggest fight\never yesterday! They even\nthrew food at each other.\n{07 16 00}It was terrible! {01 01 00}{07 08 00}{01 00 00 05 00}I'm sorry,\nbut I get so upset when\npeople disrespect fruit!",
+   "et": ""
+  },
+  {
+   "id": 9,
+   "en": "{07 14 00}I ask 'cause they relax by\nkicking back and drinking\n{04 13 00}!\n{07 17 00}They're like an old couple\nthat's been together so\nlong they look alike!",
+   "et": ""
+  },
+  {
+   "id": 10,
+   "en": "{07 00 00}They're like an elderly\ncouple out for their daily\nwalk,{01 00 00 05 00} {04 02 00}!\n{07 0d 00}Seeing them{01 00 00 0a 00} made me want\nto see my mom and dad\nagain!",
+   "et": ""
+  },
+  {
+   "id": 11,
+   "en": "{01 00 00 0a 00}{07 1b 00}{01 00 00 05 00}They're like a couple in\nlove{01 00 00 05 00} who can't help\nbut argue and bicker!\n{07 19 00}I guess that's what you call{01 00 00 05 00}\na lovers' quarrel.{07 00 00}{01 00 00 05 00} Or\nsomething. I don't know.",
+   "et": ""
+  },
+  {
+   "id": 12,
+   "en": "{07 00 00}Really, {01 00 00 0a 00}{04 02 00}?{01 00 00 14 00} You\nthink they're just friends?{01 01 00}\n{07 15 00}Well, that's boring!",
+   "et": ""
+  },
+  {
+   "id": 13,
+   "en": "{07 19 00}Yeah,{01 00 00 14 00}{07 00 00} I heard {ff 00 00 06}{04 16 00}{ff 00 00 00}{01 00 00 0a 00}\nactually likes someone else.{01 01 00}\n{07 11 00}It's getting interesting!",
+   "et": ""
+  },
+  {
+   "id": 14,
+   "en": "{07 04 00}So, they're more than\nfriends{01 00 00 0a 00} but not exactly\ndating?\n{07 0d 00}I just love talking about\nother people! It's almost\nas fun as eating!",
+   "et": ""
+  },
+  {
+   "id": 15,
+   "en": "{07 03 00}{01 00 00 0a 00}WHAT?!{01 00 00 14 00} No way,{01 00 00 05 00} {04 02 00}!{01 00 00 14 00}\n{07 07 00}That's soooo gross it\nmakes me want to barf!\n{07 1b 00}{01 00 00 05 00}The only thing I let touch\nmy lips is my cup of\n{04 13 00}!",
+   "et": ""
+  }
+ ]
+}

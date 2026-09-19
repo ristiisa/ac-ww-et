@@ -1,0 +1,115 @@
+{
+ "file": "script/ENG/message/ko/q12/sick1_2_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 16 00}Bllurrrrrrf{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} You stupid\nfever. Why don't you go\nmake someone else sick?\n{01 08 00}BLUUURRRRFFF, {01 00 00 05 00}{04 02 00}.",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 07 00}HARCKGH HARCKGH! Is that all\nyou got{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}? HARCKGH!\n\nWhat, were all the A-list\ncolds booked up...{01 00 00 05 00}HARKGH!!!",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 16 00}Ugh.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} What is this,\nbacteria amateur hour?\nHARCKGHH!\nI've had indigestion that\nwas worse than you,\nHARCKGHHHHH!",
+   "et": ""
+  },
+  {
+   "id": 3,
+   "en": "{07 1c 00}Haaaaarrrkgggh! The\nsandwich gnomes{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}keep\n'em away!\nThey're after my hoagie!\n{07 07 00}HAARRKKGGHH!",
+   "et": ""
+  },
+  {
+   "id": 4,
+   "en": "{07 07 00}See ya{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}HARKGHH!\nOh, {01 00 00 05 00}{04 02 00}.",
+   "et": ""
+  },
+  {
+   "id": 5,
+   "en": "{07 16 00}What{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{04 02 00}?",
+   "et": ""
+  },
+  {
+   "id": 6,
+   "en": "{07 15 00}Your {01 00 00 05 00}head{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} It's exploding\nwith music, {01 00 00 05 00}{04 02 00}.",
+   "et": ""
+  },
+  {
+   "id": 7,
+   "en": "{07 1d 00}Whoa.{01 00 00 0f 00} You have {ff 00 00 02}medicine{ff 00 00 00}?{01 00 00 0f 00}\n.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}Thanks, {04 1f 00}!",
+   "et": ""
+  },
+  {
+   "id": 8,
+   "en": "{07 04 00}Man!{01 00 00 0f 00} Thanks, {01 00 00 05 00}{04 02 00}.{01 00 00 05 00}\nI mean it this time.",
+   "et": ""
+  },
+  {
+   "id": 9,
+   "en": "{07 14 00}Oh!{01 00 00 0f 00} You actually thought of\nme, eh? Wow, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 10,
+   "en": "{07 15 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}Why?!{01 00 00 0f 00} You didn't bring me\nanything?\n\nI'm so confused{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}and so\ncold{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}",
+   "et": ""
+  },
+  {
+   "id": 11,
+   "en": "{07 16 00}What?! You didn't bring\nanything?{01 00 00 05 00} {07 15 00}You good for\nnothin'{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}",
+   "et": ""
+  },
+  {
+   "id": 12,
+   "en": "{07 15 00}Aw, man,{01 00 00 05 00} you didn't bring\nme anything!",
+   "et": ""
+  },
+  {
+   "id": 13,
+   "en": "{07 07 00}I really can't deal with you\nright now{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.",
+   "et": ""
+  },
+  {
+   "id": 14,
+   "en": "{07 15 00}So, do you like taunting\nsick people?! Is that how it\nis?!\nYou're the sick one,\n{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 15,
+   "en": "{07 15 00}Ugh, {01 00 00 05 00}{04 02 00}!{01 00 00 0f 00} You're\nmaking me sick!",
+   "et": ""
+  },
+  {
+   "id": 16,
+   "en": "{07 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.{07 0a 00}Whoa.{01 00 00 0f 00} I feel better\nalready! {01 00 00 05 00}{07 00 00}I guess this means\nI owe you one, {01 00 00 05 00}{04 02 00}.",
+   "et": ""
+  },
+  {
+   "id": 17,
+   "en": "{07 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{0b 03 00}{04 02 00}!\n\n\n{07 04 00}Crazy!{01 00 00 0f 00}{07 0a 00} I'm feeling better \nalready.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{04 02 00}!\n{07 14 00}I owe you, {01 00 00 05 00}{04 1f 00}!",
+   "et": ""
+  },
+  {
+   "id": 18,
+   "en": "{07 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{0b 03 00}{04 02 00}!\n\n\n{07 0a 00}Oh!{01 00 00 0f 00} I'm feelin' pretty dang\ngood all of a sudden!{01 01 00}\nThanks, {01 00 00 05 00}{04 1f 00}!\n{07 08 00}You're so good to me.\nI shouldn't have called you\nall those names.",
+   "et": ""
+  },
+  {
+   "id": 19,
+   "en": "{07 14 00}Thanks a load. I'm so happy\nthat you showed up,\n{01 00 00 05 00}{04 02 00}.",
+   "et": ""
+  },
+  {
+   "id": 20,
+   "en": "{07 00 00}No worries, now!{01 00 00 14 00}\n{07 14 00}Thanks to the {ff 00 00 02}medicine{ff 00 00 00},{01 00 00 05 00}\nI'm feeling way better.",
+   "et": ""
+  },
+  {
+   "id": 21,
+   "en": "{07 14 00}Thanks, {01 00 00 05 00}{04 02 00}!{01 00 00 14 00}\nYou take care now. Don't go\ncatchin' a cold.",
+   "et": ""
+  }
+ ]
+}

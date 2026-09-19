@@ -1,0 +1,120 @@
+{
+ "file": "script/ENG/message/ko/ev/arbeit_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 15 00}HEY! Stop right there and\nput your hands up! This is\n{04 03 00} security!\n{07 00 00}I've never seen you around\nbefore. Yup, you definitely\nlook kinda shady.\nI'm going to have to run\na background check on you,\nso answer my questions!\n{07 0b 00}Your name is {04 00 00}?{01 01 00}\n{07 00 00}Let me run you through\nthe system{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} {01 00 00 05 00}\n{07 02 00}It says here that you're\nwanted in three towns for\ngrand theft coconut!\nWait a minute{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} You're that\nheinous villain,\nthe Coconutter!\n{07 15 00}At least, I think{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\nYou'd better tell me your\ndate of birth, {01 00 00 05 00}{04 02 00}.",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 00 00}Just between you and me,\nI spent most of school in\ndetention.{01 00 00 05 00}\n{07 16 00}So my handwriting isn't\nall that hot!{02 00 00 14 15}\nYou're doomed!\nDon't sweat it.",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 00 00}So unless you're kinda slow,\nyou probably noticed fruit\nhanging from trees.\nIf you want some fruit, get\nup next to the tree and\n{ff 00 00 01}touch {ff 00 00 00}it.\n{07 14 00}If you're all old-fashioned,\nyou could also press the\n{ff 00 00 01}A Button{ff 00 00 00} to{ff 00 00 01} {ff 00 00 00}shake it.\n{07 00 00}You could gorge yourself on\nfruit, or be smart and\nsell it all to {ff 00 00 06}Tom Nook{ff 00 00 00}.\nYou can also dig holes and\nplant 'em in the ground\nto make a tree.\n{07 14 00}Do that enough, and you've\ngot yourself a full-blown\n{ff 00 00 02}orchard{ff 00 00 00},{ff 00 00 02} {ff 00 00 00}{01 00 00 05 00}{04 02 00}!\n{07 11 00}If you get your little\nbusiness off the ground,\nI expect a 10% cut!",
+   "et": ""
+  },
+  {
+   "id": 3,
+   "en": "{07 00 00}You can't plant any fruit\nwithout a {ff 00 00 07}shovel{ff 00 00 00} to dig\na hole.\n{07 14 00}You can pick up one of\nthose at {ff 00 00 06}Tom Nook{ff 00 00 00}'s shop. \n\n{07 00 00}While you're there, pick up\na {ff 00 00 07}fishing rod{ff 00 00 00} to catch\nthose icky little fish.{01 00 00 05 00}\nOh, and a {ff 00 00 07}watering can{ff 00 00 00} will\nhelp you keep your flowers\nfrom keelin' over.\n{07 15 00}Now go get yourself some\ntools!",
+   "et": ""
+  },
+  {
+   "id": 4,
+   "en": "{07 00 00}Furniture, tools, sushi{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n{07 16 00}Everything worth having in\nthis world costs Bells.\n{07 00 00}There are tons of get-\nrich-quick schemes out\nthere, so find one you like.\nMe? I pick up random junk\naround town.\n\n{07 14 00}Then I threaten {ff 00 00 06}Tom Nook\n{ff 00 00 00}until{ff 00 00 06} {ff 00 00 00}he buys all of it for\na ridiculous price.\n{07 11 00}It's a fun and fast way to\nget rich, {01 00 00 05 00}{04 02 00}.",
+   "et": ""
+  },
+  {
+   "id": 5,
+   "en": "{07 00 00}You can send letters from\nthe {ff 00 00 08}post office{ff 00 00 00} in the\n{ff 00 00 08}town hall{ff 00 00 00}, {01 00 00 05 00}{04 02 00}.{ff 00 00 08}\n{ff 00 00 00}{07 04 00}What?! You already knew\nthat?!\n\n{07 15 00}OK, smarty-face, do you\nknow how to attach a gift\nto {07 0b 00}a letter, {01 00 00 05 00}{04 02 00}?\n{07 00 00}Reach into your {ff 00 00 01}pockets{ff 00 00 00},\nand {ff 00 00 01}touch {ff 00 00 00}the item\nyou want to send.\nThen {ff 00 00 01}drag{ff 00 00 00} it over to the\nletter!\n\n{07 19 00}Grab the present and put it\nin the letter! Easy as\nsushi, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 6,
+   "en": "{07 00 00}Did you know you can change\nthe {ff 00 00 02}town tune{ff 00 00 00} at the\n{ff 00 00 08}town hall{ff 00 00 00}?\n{07 14 00}Seriously. Anybody can\nrewrite it when they feel\nlike it, {01 00 00 05 00}{04 02 00}.\n{07 19 00}But don't change it if\nyou've got bad taste!{01 00 00 05 00}\nI don't wanna suffer!",
+   "et": ""
+  },
+  {
+   "id": 7,
+   "en": "{07 16 00}Your house is way too big\nfor one person! {01 00 00 0a 00}But you\nprobably know that already.\n{07 0a 00}The more the merrier,\nI usually{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}sometimes say!\n\n{07 15 00}Unless they end up being\na bunch of filthy, thieving,\ninconsiderate jerks.\n{07 14 00}{01 00 00 05 00}But you don't need to\nworry! {01 00 00 05 00}You can ALWAYS move\nout!\n{07 00 00}All you have to do is hit\nup the {ff 00 00 08}civic center{ff 00 00 00} in the\n{ff 00 00 08}town hall{ff 00 00 00}!\n{07 0d 00}You'll be on your way to\na jerk-free town in\nminutes, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 8,
+   "en": "{07 00 00}Hey{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 0b 00}don't you have any\nfriends? {01 00 00 05 00}You know, outside\nof this town?\n{07 00 00}If by some miracle you do,{01 00 00 05 00}\nup to three of 'em can\ncome to {04 03 00}.\n{07 14 00}They can all hang out\nhere at the same time,\n{01 00 00 05 00}{04 02 00}!\n{07 00 00}You can walk around, chat\nabout meaningless stuff,\ngive each other gifts{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 14 00}See?{01 00 00 0f 00} It actually\nsounds kinda fun, huh?\n\n{07 00 00}And if some visitor came\nand left you a message on\nthe {ff 00 00 08}bulletin board{ff 00 00 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 19 00}Wouldn't that make your\nlife a little less lame,\n{01 00 00 05 00}{04 02 00}?\n{07 00 00}So get out of this town\nand explore! Go ask\n{ff 00 00 06}Copper {ff 00 00 00}and {ff 00 00 06}Booker{ff 00 00 00} about it.{ff 00 00 06}\n{ff 00 00 00}{07 0d 00}As long as they do their\njobs and keep out the\nweirdos, everyone is happy!",
+   "et": ""
+  },
+  {
+   "id": 9,
+   "en": "{07 00 00}Do you ever want to be\na total vagrant and just\ndrift between towns?\n{07 15 00}That's the {04 01 00} way\nof life! Don't even try\nto hold {04 01 00} down!\n{07 14 00}Yeah! {01 00 00 0f 00}Maybe it's time for\nme to get a move on,\n{01 00 00 05 00}{04 02 00}.\n{07 15 00}But don't worry, I'm not\ngonna forget about ya.\n\n{07 00 00}When you miss me,{01 00 00 05 00} just ask\n{ff 00 00 06}Copper{ff 00 00 00} and{ff 00 00 06} Booker {ff 00 00 00}to open\nthe gate.\nThat way, you can come\nvisit me!",
+   "et": ""
+  },
+  {
+   "id": 10,
+   "en": "{07 0b 00}Huh?{01 00 00 0f 00} Why are you delivering\nfurniture, {04 1f 00}?\n\n{07 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 14 00}Hah!{01 00 00 0f 00} So you're\n{ff 00 00 06}Tom Nook{ff 00 00 00}'s little servant?{01 00 00 14 00}\n{07 03 00}Have fun with that!\n{07 00 00}If you can't pay up, you\ngotta work for it!\nEh, {01 00 00 05 00}{04 02 00}?\n.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}Well,{01 00 00 05 00} you ARE lookin' a\nlittle sad and pathetic, {07 15 00}so\nI'll help ya out.\n{07 00 00}Here{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}take my\n{0b 02 00}{04 1a 00}!",
+   "et": ""
+  },
+  {
+   "id": 11,
+   "en": "{07 00 00}Nahhh!{01 00 00 0f 00} No worries.{01 00 00 14 00} There'll\nbe plenty of time for you\nto do me favors later.\nIn the meantime, practice\nyour decorating skills with\nwhat I just gave you.\nJust drop it in your room\nand then {ff 00 00 01}tap{ff 00 00 00} your head,\n{01 00 00 05 00}{04 02 00}!\n{07 19 00}Then you can {ff 00 00 01}slide {ff 00 00 00}it\naround! Just push, pull, or\nrotate it any way you want.\n{07 15 00}Don't forget to {ff 00 00 01}tap {ff 00 00 00}your\nhead when you're standing\nnext to some furniture.\n{07 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}Knowing you,{01 00 00 05 00} that tip will\nprobably be out of your\nbrain in a hurry.\nSo run home and try it\nbefore it leaks out of\nyour ears, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 12,
+   "en": "{07 00 00}{07 01 00}You're LATE! And I'm sick of\nwaiting around for you,\n{01 00 00 05 00}{04 02 00}!\n{07 00 00}{07 15 00}Late-faces like you\nprobably don't know this\n'cause you're always LATE{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n{07 00 00}...but a lot of your house's\nstyle depends on carpet\nand wallpaper, {01 00 00 05 00}{04 02 00}.\n{07 00 00}I bet you don't even know\nwhat a carpet is!\n\nGo on, take this old\n{0b 02 00}{04 1a 00}!",
+   "et": ""
+  },
+  {
+   "id": 13,
+   "en": "{07 16 00}Look,{01 00 00 05 00} I know {ff 00 00 06}Tom Nook {ff 00 00 00}is\ndoing his best...\n\nBut honestly, having only\none store in town is SO\nannoying!\n{07 00 00}He does try to stock new\nitems, but I hate having to\ncheck the store every day.\nAnd if I forget to buy\nsomething, I never know\nwhen I'll see it again!\n{07 01 00}I gotta go there tomorrow,\nand the next day, and the\nnext day{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 14,
+   "en": "{07 04 00}Whoa-hey!{01 00 00 0f 00} You're finally\nhere, {01 00 00 05 00}{04 02 00}!\n\n{07 14 00}Now I can freshen up\nmy dried-up flowers!\n\n{07 00 00}By the way, {01 00 00 05 00}you sent this\nletter,{01 00 00 05 00} didn't you?",
+   "et": ""
+  },
+  {
+   "id": 15,
+   "en": "{07 14 00}That was SO funny!{01 00 00 14 00} I didn't\nunderstand a single thing\nyou said!\n{07 03 00}Heh heh heh!{01 00 00 0f 00} Just messin'\nwith ya, {01 00 00 05 00}{04 02 00}.\n\n{07 00 00}Everyone in this town is\nCRAZY about getting letters\nin the mail.\nWhen we get one, we hang \non to it forever!\n\nThen {01 00 00 0f 00}we show 'em to our \nbuddies on the sly. You\nknow{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}for giggles.\n{07 00 00}So if I ever move away, I'll\ntake the incriminating\nletters with me!\n{07 00 00}So you better not write me\nanything too nasty,\n{01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 16,
+   "en": "{07 00 00}You were born on\n{04 0f 00} {04 10 00},\neh? So, you must be a...\nOh, duh! I've got it! Your\nsign is {04 11 00}!{02 00 00 11 12}\nTrue that!\nNot even!",
+   "et": ""
+  },
+  {
+   "id": 17,
+   "en": "{07 00 00}Hmmmm{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} {07 15 00}That means you're\nnot that thieving insane-o,\nthe Coconutter, after all.{01 00 00 05 00}\n{07 0f 00}Awww, you're not even\nwanted for a petty fashion\ninfraction.\n{07 00 00}Fine. You can go for now.{01 00 00 0f 00}\nBut I'll have my people\nwatching you, {01 00 00 05 00}{04 02 00}.",
+   "et": ""
+  },
+  {
+   "id": 18,
+   "en": "{07 15 00}You're acting VERY\nsuspiciously! You'd better\nnot lie to me!",
+   "et": ""
+  },
+  {
+   "id": 20,
+   "en": "{07 00 00}Huh{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n\n\n{07 14 00}Using Kanji to bluff your \nway out maybe something \na man must do{02 00 00 17 15}\nThat's right!\nNo, Hiragana is enough",
+   "et": ""
+  },
+  {
+   "id": 21,
+   "en": "{07 04 00}Oh.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}Is that so?{01 00 00 0f 00}\nYou would accept me as \nwho I am? {01 00 00 05 00}{04 02 00}?\n{07 00 00}Then, from now on,\n{07 14 00}I'll talk using only Hiragana!\n{01 00 00 05 00}{04 02 00}!{02 00 00 17 14}\nThat's OK!\nNo, use Kanji!",
+   "et": ""
+  },
+  {
+   "id": 22,
+   "en": "{07 04 00}FINALLY! You're here,\n{01 00 00 05 00}{04 02 00}.\n\n{07 14 00}Now I can get around to\nsaving my dried-up flowers\nfrom certain doom.\n{07 14 00}Thanks a ton,\n{01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 23,
+   "en": "{07 15 00}I see.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} Well then, you\nbetter prepare yourself,{01 00 00 05 00}\n{04 1f 00}!\nNo excuses, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  }
+ ]
+}

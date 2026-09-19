@@ -1,0 +1,20 @@
+{
+ "file": "script/ENG/message/fu/q/full_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 04 00}Oh! That's a shame.{01 00 00 0f 00}{07 00 00} This\nisn't going to work out,\n{01 00 00 05 00}{04 1f 00}.\nYour pockets are full! You\ncan't carry any more stuff!\n{07 16 00}Too bad, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 1d 00}Oops!{01 00 00 0f 00} We've got a bit of a\nproblem here, {04 1f 00}.\n\nLooks like you can't carry\nany more stuff, so I can't\ngive you anything!\n{07 14 00}Maybe some other time, you\nthink, {01 00 00 05 00}{04 02 00}?",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 0b 00}What's up with{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 00 00}Oh, now I get it. {01 00 00 05 00}You're\nfull up, {01 00 00 05 00}{04 02 00}.\n{07 14 00}We'll have to do this\nsometime when you're not\ncarrying so much.",
+   "et": ""
+  }
+ ]
+}

@@ -1,0 +1,20 @@
+{
+ "file": "script/ENG/message/fu/q03/clear_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 0d 00}Oh, NICE!{01 01 00} I'm gonna put this\non display!{01 00 00 0a 00} {07 14 00}See ya,\n{01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 14 00}Hey, if anything else like\nthis ever comes up,{01 00 00 05 00} I'll\ncall you first, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 0a 00}This has been a great day!{01 00 00 05 00}\nWhat a cool friend you are!{01 00 00 0a 00}\nThanks, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  }
+ ]
+}

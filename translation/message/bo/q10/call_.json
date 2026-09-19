@@ -1,0 +1,20 @@
+{
+ "file": "script/ENG/message/bo/q10/call_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "Hey, it's me! {01 00 00 05 00}{04 01 00}!{01 00 00 0f 00}\nI came to get down,\n{01 00 00 0a 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "Hey, {04 1f 00},{01 00 00 0a 00} my main,{01 00 00 05 00}\nuh,{01 00 00 05 00} human!{01 00 00 0a 00} Let's {01 00 00 05 00}shake {01 00 00 05 00}it,\n{01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "Hey, {04 1f 00}!{01 00 00 14 00} The party\nhas arrived!{01 00 00 05 00} Let's go nuts!{01 00 00 05 00}\nGot any snacks?",
+   "et": ""
+  }
+ ]
+}

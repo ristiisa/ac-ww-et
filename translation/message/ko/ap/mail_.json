@@ -1,0 +1,60 @@
+{
+ "file": "script/ENG/message/ko/ap/mail_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 00 00}Hey, {01 00 00 05 00}{04 1f 00}.{01 00 00 14 00}\nSo I just got a letter from\na friend of mine.\nYou wanna see it,\n{01 00 00 05 00}{04 02 00}?\n\n{06 01 00 04 08 0a}",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 00 00}{0b 03 00}{01 06 00}Hey{01 07 00}!{01 00 00 0f 00}\nIt's {04 1f 00}!\n\nI bet you're pretty curious\nabout what sort of people I\nhang out with, {01 00 00 05 00}{04 02 00}.\n{07 00 00}Well, I just got this letter{01 00 00 05 00}\nfrom this friend of mine\nthat's kinda{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}weird.\n{07 14 00}I'll show it to you if you\npromise not to go around\ntown yakkin' about it.\n{06 01 00 04 08 0a}",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 00 00}{0b 03 00}{01 06 00}Hey{01 07 00}!{01 00 00 0f 00}\n{0b 03 00}{04 1f 00}!\n\nThe other day, I was diggin'\nin my couch and found this\ncreepy old letter!{01 00 00 05 00}\nYou have GOT to check it\nout, {01 00 00 05 00}{04 02 00}!\n\n{06 00 00 08 09}",
+   "et": ""
+  },
+  {
+   "id": 3,
+   "en": "{07 00 00}{0b 03 00}{01 06 00}Hey, hey{01 07 00}!{01 00 00 0f 00}\n{0b 03 00}{04 1f 00}! {07 0b 00}You're not\ndoing anything big, right?\nOf course not! {01 00 00 14 00}{07 14 00}That's why\nyou gotta sneak a peek at\nthis letter!\n{06 00 00 08 09}",
+   "et": ""
+  },
+  {
+   "id": 4,
+   "en": "{07 00 00}So?! Whaddaya think,\n{01 00 00 05 00}{04 02 00}?{02 01 00 05 05 05}\nHow sweet!\nCool, I guess...\nCreeeepy!",
+   "et": ""
+  },
+  {
+   "id": 5,
+   "en": "{06 00 00 06 07}",
+   "et": ""
+  },
+  {
+   "id": 6,
+   "en": "{07 04 00}I know, right?!{01 00 00 14 00} {07 03 00}Har har har!\nI thought so, too!{01 00 00 14 00}\n\n{07 16 00}I mean, it's no big deal\n{07 14 00}as long as we both agree on\nit, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 7,
+   "en": "{07 16 00}Hmmm.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0f 00} Really? For some\nreason, I wasn't expectin'\nthat.\n{07 0e 00}Yeah,{01 00 00 0f 00} come to think of it,\nyou WOULD say something\nlike that{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 14 00}But it's always worth\nasking, right, {01 00 00 05 00}{04 02 00}?\n{07 1c 00}{0b 03 00}{04 1f 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}so predictable.{01 00 00 0f 00}",
+   "et": ""
+  },
+  {
+   "id": 8,
+   "en": "{07 00 00}How was it, {01 00 00 05 00}{04 02 00}?{01 00 00 14 00}\n{07 06 00}It makes you kinda feel\nqueasy, right?\n{07 00 00}But, you know{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0f 00} {07 13 00}I think\nthat's what I liked best\nabout it!",
+   "et": ""
+  },
+  {
+   "id": 9,
+   "en": "{07 16 00}It sounds stupid, but {01 00 00 05 00}I\ncan't even remember {01 00 00 05 00}where\nor when I got that letter.{01 00 00 05 00}\n{07 00 00}All I can say is I obviously\ngot it from someone I\ndidn't care about!\n{07 06 00}Unless I got it from you.\nThen I, uh{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 0c 00} You didn't\nsend it to me, did you?!",
+   "et": ""
+  },
+  {
+   "id": 10,
+   "en": "{07 03 00}War har har! {01 00 00 0f 00}{01 00 00 05 00}This one's\nfunny,{01 00 00 14 00} too!\n\n{07 00 00}I gotta say, it's hard\nfor even ME to dislike\nsomeone{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0f 00}\n{07 17 00}...who writes letters this\nhilarious, {01 00 00 05 00}{04 02 00}!\n\n{07 15 00}You know{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0f 00} You could get\noff your lazy rump and\nwrite me one of these!",
+   "et": ""
+  }
+ ]
+}

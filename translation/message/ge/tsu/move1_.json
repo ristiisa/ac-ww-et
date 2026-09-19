@@ -1,0 +1,65 @@
+{
+ "file": "script/ENG/message/ge/tsu/move1_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 14 00}Oh, {04 1f 00}!{01 00 00 05 00} Listen,\njust so you know,{01 00 00 05 00} I'm\ngonna move out soon...\nThanks SO much for being \ngood friends with me,\n{01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 06 00}Oh, gee whiz, {04 1f 00}...{01 00 00 05 00}\nI'm really, really sorry!{01 01 00}\n{07 16 00}This'll seem sudden...\nBut here's the deal: {01 00 00 05 00}I'm\ngonna be moving out of\ntown soon, {01 00 00 05 00}{04 02 00}.\n{07 14 00}It was really great talking\nwith you and stuff, so\nthanks, and take care!",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 14 00}Hey, to tell you the truth,\nI'm gonna be moving soon,\n{01 00 00 05 00}{04 02 00}!\n{07 16 00}Now you're gonna have to\nfind someone else to cook\nyou totally tasty snacks!\n{07 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}Huh?{01 00 00 05 00} {07 0b 00}I've never cooked\nfor you, {01 00 00 05 00}{04 02 00}?\n\n{07 00 00}Well, {01 00 00 05 00}ANYWAY...{01 01 00} {07 14 00}Thank you so\nmuch for everything! I had\na lot of fun!{01 00 00 05 00} Really!",
+   "et": ""
+  },
+  {
+   "id": 3,
+   "en": "{07 14 00}Neat!{01 00 00 0a 00} I can't wait to see\nyou again once I'm all\nsettled in, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 4,
+   "en": "{07 06 00}I'm never gonna forget \nabout you, {04 1f 00}!{01 00 00 05 00}\nNEVER, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 5,
+   "en": "{07 14 00}Good luck to you, too,\n{01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 6,
+   "en": "{07 16 00}I've gotta do what's right\nfor ME this time!{01 00 00 05 00} I'm really\nsorry, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 7,
+   "en": "{07 08 00}Y'know, {01 00 00 05 00}this isn't easy for\nme either, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 8,
+   "en": "{07 06 00}{0b 03 00}{04 1f 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} Take care,\n{01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 9,
+   "en": "{07 0e 00}Well, gee whiz{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} When you\nput it that way{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n\n{07 16 00}Oh, what should I do?{01 00 00 05 00}\nShould I change my mind,\n{01 00 00 05 00}{04 02 00}?",
+   "et": ""
+  },
+  {
+   "id": 10,
+   "en": "{07 04 00}Whaaaaaaaaaaaaaaaat?!{01 00 00 14 00}\n{07 16 00}You think I oughta change\nmy mind, {01 00 00 05 00}{04 02 00}?\n{07 06 00}Do you really think I'm that\nflighty, {01 00 00 05 00}{04 02 00}?",
+   "et": ""
+  },
+  {
+   "id": 11,
+   "en": "{07 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 0b 00}Oh, really, that much?{01 00 00 14 00}\n{07 0e 00}Oh. {01 00 00 05 00}Well{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n\n{07 16 00}What am I supposed to do \nabout the cancel penalty,\n{01 00 00 05 00}{04 02 00}?",
+   "et": ""
+  }
+ ]
+}

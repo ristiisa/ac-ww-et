@@ -1,0 +1,15 @@
+{
+ "file": "script/ENG/message/bo/q02/plose_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 00 00}Oooh!{01 00 00 05 00} This is\n{04 1c 00},\nisn't it? It's a nice one!\n{07 0e 00}But compared to the rockin'\n{0b 02 00}{04 1d 00} I\ncaught{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n{07 14 00}Looks like I win by a hair,{01 00 00 05 00}\n{04 02 00}!\n\n{07 00 00}I'll give you your\n{0b 02 00}{04 1c 00}\nback,{01 00 00 0a 00}{07 14 00} so study up!",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 0e 00}Hey, isn't this{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n{04 1c 00}?{01 00 00 14 00}\n{07 14 00}That's just like you!\n{07 00 00}Unfortunately, it just can't\ncompete with my\n{0b 02 00}{04 1d 00}!\nHuh huh huh!{01 00 00 0a 00} My skills again\ncarry me to victory,{01 00 00 0a 00}\n{04 02 00}!\n{07 00 00}You can keep your\n{0b 02 00}{04 1c 00} to\nremind you of my win!",
+   "et": ""
+  }
+ ]
+}

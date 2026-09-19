@@ -1,0 +1,115 @@
+{
+ "file": "script/ENG/message/fu/q12/sick1_2_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 16 00}Oh, don't worry about me{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\nI'll be fine. I hope.{01 00 00 05 00}.{01 00 00 05 00}.",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 16 00}I should probably take a\nlittle {ff 00 00 07}medicine{ff 00 00 00} for this\nstupid cold.{01 00 00 05 00}.{01 00 00 05 00}.",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 07 00}I think it's getting worse.\nNot that you should worry\nabout me. I'll be{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.fine.",
+   "et": ""
+  },
+  {
+   "id": 3,
+   "en": "{07 07 00}I think{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 00 00}it's all in my mind.{01 01 00}\n{07 07 00}{01 08 00}Oog.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} It's definitely not in\nmy head.{01 00 00 05 00}.{01 00 00 05 00}.",
+   "et": ""
+  },
+  {
+   "id": 4,
+   "en": "{07 16 00}Huh?",
+   "et": ""
+  },
+  {
+   "id": 5,
+   "en": "{07 1c 00}Oh, {01 00 00 05 00}OK. {01 00 00 05 00}Later{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.",
+   "et": ""
+  },
+  {
+   "id": 6,
+   "en": "{07 16 00}Take care of yourself.\nI don't want you coming\ndown with this.",
+   "et": ""
+  },
+  {
+   "id": 7,
+   "en": "{07 04 00}Oh! You brought me some\n{ff 00 00 07}medicine{ff 00 00 00}? {07 04 00}That is JUST what\nthe doctor ordered!",
+   "et": ""
+  },
+  {
+   "id": 8,
+   "en": "{07 1d 00}Is that {ff 00 00 07}medicine{ff 00 00 00} for me?",
+   "et": ""
+  },
+  {
+   "id": 9,
+   "en": "{07 1d 00}Ahhh{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}. {ff 00 00 07}Medicine{ff 00 00 00}, sweet\n{ff 00 00 07}medicine{ff 00 00 00}! {01 00 00 0a 00}Thank you. I'm\nsure it will help.",
+   "et": ""
+  },
+  {
+   "id": 10,
+   "en": "{07 16 00}I thought you said you'd\nhelp me! {01 00 00 05 00}{0b 03 00}{04 1f 00},\nyou're so wishy-washy!",
+   "et": ""
+  },
+  {
+   "id": 11,
+   "en": "{07 0b 00}What? You don't have any\n{ff 00 00 07}medicine{ff 00 00 00} at all?\n\n{07 07 00}No, it's OK. Don't worry\nabout me.{01 00 00 05 00} I'm sure I'll\npull through somehow{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.",
+   "et": ""
+  },
+  {
+   "id": 12,
+   "en": "{07 16 00}Wait, so you DON'T have any\n{ff 00 00 07}medicine{ff 00 00 00} on you?\n\nBut I thought{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}. {07 07 00}No, it's\nfine. Really. {01 00 00 05 00}I'll just\nfight this cold on my own.",
+   "et": ""
+  },
+  {
+   "id": 13,
+   "en": "{07 16 00}What's wrong with you?{01 00 00 05 00} Why\nwould you tease me when\nyou KNOW I don't feel good?",
+   "et": ""
+  },
+  {
+   "id": 14,
+   "en": "{07 16 00}{0b 03 00}{04 1f 00},{01 00 00 05 00} if this is\ncomedy to you, you need to\nwork on your routine.",
+   "et": ""
+  },
+  {
+   "id": 15,
+   "en": "{07 16 00}Oh{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}. {01 00 00 05 00}So you just came here\nto taunt me with your\ngood health, is that it?",
+   "et": ""
+  },
+  {
+   "id": 16,
+   "en": "{07 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n\n\n{07 14 00}Oh, wow.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} I feel so much\nbetter. I didn't think it\nwould work that fast!",
+   "et": ""
+  },
+  {
+   "id": 17,
+   "en": "{07 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n\n\nAhhh{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} I can feel all the\ntoxins draining from my\nbody.{01 00 00 05 00}.{01 00 00 05 00}.\nAt least, I think it's the\ntoxins{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 14 00}but maybe it's\nsnot.",
+   "et": ""
+  },
+  {
+   "id": 18,
+   "en": "{07 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n\n\n{07 14 00}I feel better! I{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} I can\nfeel my toes again! {01 00 00 14 00}{07 0d 00}Thank\nyou SO much!",
+   "et": ""
+  },
+  {
+   "id": 19,
+   "en": "{07 16 00}I hope you weren't too\nworried about me.{01 01 00} {07 14 00}I think\nI'm going to pull through.",
+   "et": ""
+  },
+  {
+   "id": 20,
+   "en": "{07 16 00}I'm so glad you were there\nto care for me in my\nmoment of sickness!\n{07 13 00}When everyone else had\nabandoned me, you were\nthere! You're so sweet!",
+   "et": ""
+  },
+  {
+   "id": 21,
+   "en": "{07 14 00}Thank you, {01 00 00 05 00}{04 1f 00}.{01 00 00 0a 00}\nI'm so glad you came by\nto check up on me!",
+   "et": ""
+  }
+ ]
+}

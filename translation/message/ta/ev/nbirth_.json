@@ -1,0 +1,160 @@
+{
+ "file": "script/ENG/message/ta/ev/nbirth_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "Well, well, look who it is.\n{01 00 00 0a 00}{07 14 00}Welcome to {04 01 00}'s\nBirthday Bash, {01 00 00 0a 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 14 00}Oh, {01 00 00 05 00}{04 1f 00},{01 00 00 14 00} you're\nlate!{01 00 00 0a 00} {07 14 00}Well, don't just stand\nthere!{01 00 00 0a 00} Come on in!",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 00 00}{0b 03 00}{ff 00 00 06}{04 0f 00} {ff 00 00 00}showed up, too.\n{01 01 00}{07 14 00}{0b 03 00}{ff 00 00 06}{04 0f 00} {ff 00 00 00}and\n{04 1f 00}{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.\n{07 0d 00}That's not a bad turnout\nat all, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 3,
+   "en": "{07 14 00}{0b 03 00}{ff 00 00 06}{04 0f 00} {ff 00 00 00}came over\ntoday, too. {01 01 00}{07 19 00}Wow,{01 00 00 14 00} I just feel\nso loved today.{07 14 00}",
+   "et": ""
+  },
+  {
+   "id": 4,
+   "en": "{07 0c 00}{01 00 00 0a 00}What?{01 00 00 14 00} There's something you\nwant to give me?{02 00 00 ff ff}\nYes, there is!\nUh, no.",
+   "et": ""
+  },
+  {
+   "id": 5,
+   "en": "{07 14 00}Hmmm,{01 00 00 0a 00} what is it? Did you\nget me a present?{02 00 00 ff ff}\nThat's right!\nHuh? What?",
+   "et": ""
+  },
+  {
+   "id": 6,
+   "en": "{07 14 00}Thank you so much!{01 00 00 14 00} How\nvery thoughtful of you,\n{01 00 00 0a 00}{04 02 00}.",
+   "et": ""
+  },
+  {
+   "id": 7,
+   "en": "{07 14 00}Oh!{01 00 00 0a 00} I thought it was\nsomething like that,\n{01 00 00 0a 00}{04 02 00}.",
+   "et": ""
+  },
+  {
+   "id": 8,
+   "en": "{07 15 00}What?!{01 00 00 05 00} What's that supposed\nto mean?!",
+   "et": ""
+  },
+  {
+   "id": 9,
+   "en": "{07 04 00}Huh?{01 00 00 0a 00} Really?{01 01 00} {07 14 00}I'm so excited!\n{01 00 00 0a 00}{0b 03 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 10,
+   "en": "{07 04 00}What?{01 00 00 05 00} A present{01 00 00 05 00}\nfrom {04 1f 00}?\n\n{07 00 00}Hm,{01 00 00 0a 00} {07 14 00}I wonder if it's going\nto rain tomorrow,\n{01 00 00 0a 00}{04 02 00}?",
+   "et": ""
+  },
+  {
+   "id": 11,
+   "en": "{07 14 00}Oh,{01 00 00 05 00} look at this! It's just\nwhat I've always wanted!\n{0b 03 00}{04 1a 00}.{01 00 00 14 00}\n{07 14 00}Honestly, I'm just happy you\ncame to celebrate my\nbirthday. Thank you!",
+   "et": ""
+  },
+  {
+   "id": 12,
+   "en": "{07 00 00}Oh, {01 00 00 05 00}look at this. It's\n{04 1a 00}.\n\n{07 14 00}You've made such an\ninteresting choice for me,\n{01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 13,
+   "en": "{07 04 00}Wow!{01 00 00 14 00} Look at this! It's\n{04 1a 00}.{01 00 00 14 00}\n{07 14 00}Wow, {01 00 00 05 00}{04 1f 00}!\nHow did you know {07 0b 00}what I\nwanted?! {07 00 00}Do you think that\nmaybe...\n{07 13 00}We have some kind of\ncosmic connection,\n{01 00 00 0a 00}{04 02 00}?",
+   "et": ""
+  },
+  {
+   "id": 14,
+   "en": "{07 04 00}Wow.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00} I can hardly believe\nit! {01 00 00 14 00}You brought me\n{04 1a 00}!\n{07 00 00}How did you know that I was\ncollecting these, \n{01 00 00 05 00}{04 02 00}?\n{07 13 00}Friendship is such a lovely \nthing, 'cause it gives you\nthe ability to read minds!",
+   "et": ""
+  },
+  {
+   "id": 15,
+   "en": "{07 14 00}In return, {01 00 00 05 00}please take my\n{0b 02 00}{04 1b 00}\nas a party favor!",
+   "et": ""
+  },
+  {
+   "id": 16,
+   "en": "Well then, {01 00 00 0a 00}{07 14 00}I should give you\nsomething in return.{01 01 00}{01 00 00 05 00} Here,{01 00 00 05 00}\n{04 1b 00}!",
+   "et": ""
+  },
+  {
+   "id": 17,
+   "en": "{07 14 00}I just know that we'll\nalways be friends,\n{01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 18,
+   "en": "{07 14 00}Let's be friends for ever\nand ever, {01 00 00 0a 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 19,
+   "en": "Wow, {01 00 00 05 00}I really love \nbirthdays.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 05 00}{04 02 00}.",
+   "et": ""
+  },
+  {
+   "id": 20,
+   "en": "{07 14 00}If this is how it's gonna\nhappen, {01 00 00 0a 00}I really don't mind\ngetting older, {01 00 00 0a 00}{04 02 00}.",
+   "et": ""
+  },
+  {
+   "id": 21,
+   "en": "{07 1c 00}{01 00 00 05 00}I know I'm a year older, but\n{07 15 00}I'm still{01 00 00 05 00} as lovely as ever, \n{01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 22,
+   "en": "{07 15 00}My skin might look older,\nbut I still feel as feisty\nas ever, {01 00 00 0a 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 26,
+   "en": "{07 14 00}Oh, {01 00 00 05 00}{04 1f 00}!{01 00 00 14 00} So you're\nhere to celebrate\n{ff 00 00 06}{04 10 00}{ff 00 00 00}'s birthday?\n{ff 00 00 06}{07 19 00}{0b 03 00}{04 10 00}{ff 00 00 00}'s so lucky to\nhave such wonderful friends\nas us, {07 14 00}{01 00 00 0a 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 27,
+   "en": "{07 14 00}You're here to celebrate\n{ff 00 00 06}{04 10 00}{ff 00 00 00}'s birthday? {01 00 00 05 00}\nYou're nicer than I thought!",
+   "et": ""
+  },
+  {
+   "id": 28,
+   "en": "{07 14 00}Hey, {01 00 00 05 00}{04 1f 00},{01 00 00 0a 00} you\nbrought a present with you,\ndidn't you?\n{07 00 00}Well then,{01 00 00 05 00} aren't you going\nto fork it over?\n\n{07 14 00}{0b 03 00}{ff 00 00 06}{04 10 00}{ff 00 00 00}'s been \nwaiting anxiously, you know,\n{01 00 00 0a 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 29,
+   "en": "{07 14 00}Hey, {01 00 00 05 00}{04 1f 00},{01 00 00 0a 00} doesn't\n{ff 00 00 06}{04 10 00} {ff 00 00 00}look kinda\n{07 0b 00}anxious to you?\n{07 0d 00}I'd better hand over my\ngift!",
+   "et": ""
+  },
+  {
+   "id": 30,
+   "en": "{07 16 00}I don't like getting older,\nbut{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 01 00}{07 14 00}birthdays are\nwonderful things!",
+   "et": ""
+  },
+  {
+   "id": 31,
+   "en": "Birthdays that aren't mine\nare the best, {01 00 00 05 00}{04 02 00}!\n\n'Cause I get to eat cake,{01 00 00 05 00}\nbut I don't get any older,\n{01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 32,
+   "en": "{07 00 00}Look, {04 1f 00}!{01 00 00 14 00}\n{07 14 00}{0b 03 00}{ff 00 00 06}{04 10 00} {ff 00 00 00}looks so\nhappy!\n{07 0a 00}It's making me happy\njust watching {ff 00 00 06}{04 10 00}{ff 00 00 00},\n{01 00 00 0a 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 33,
+   "en": "{07 14 00}{0b 02 00}{ff 00 00 06}{04 10 00} {ff 00 00 00}is so lucky{01 00 00 0a 00}\nto have such great\nfriends, {01 00 00 0a 00}{04 02 00}!",
+   "et": ""
+  }
+ ]
+}

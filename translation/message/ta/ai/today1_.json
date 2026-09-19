@@ -1,0 +1,65 @@
+{
+ "file": "script/ENG/message/ta/ai/today1_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 04 00}{0b 03 00}{01 06 00}Oh, hey{01 07 00}!\n{01 00 00 05 00}Good morning.{01 00 00 14 00} You're up a\nlot earlier than I thought!",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 12 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 14 00}Hmm?{01 00 00 14 00} What, {04 1f 00}?{01 01 00}\n{07 00 00}Oh, good morning{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n{04 02 00}.\n{07 16 00}You're so awake and ready\nto face the day. I'm so\njealous, {01 00 00 0a 00}{04 02 00}.",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 12 00}{0b 03 00}{01 00 00 14 00}{01 06 00}Morning{01 07 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 14 00}\nI slept in this morning{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 16 00}All I can think of is {01 00 00 05 00}bed.",
+   "et": ""
+  },
+  {
+   "id": 3,
+   "en": "{07 04 00}{01 00 00 0a 00}{0b 03 00}{01 06 00}Hey{01 07 00},\n{01 00 00 05 00}{04 1f 00}!\n\n{07 0e 00}There was something{01 00 00 0a 00}\nI wanted to tell you, but{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n\n{07 14 00}I can't remember what it\nwas. {01 01 00}{07 1b 00}I'm sure it{01 00 00 05 00} wasn't a\nbig deal, though.",
+   "et": ""
+  },
+  {
+   "id": 4,
+   "en": "{07 12 00}{01 00 00 0a 00}Phew{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 01 00} What, {01 00 00 0a 00}{04 1f 00}?{01 00 00 14 00}\n{07 00 00}{0b 03 00}{01 06 00}Oh, hello{01 07 00}.\n\n{07 16 00}I ate way too much for\nlunch, and now I'm in a food\ncoma, {01 00 00 05 00}{04 02 00}. ",
+   "et": ""
+  },
+  {
+   "id": 5,
+   "en": "{07 0e 00}{01 00 00 0a 00}Ugh{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} For some reason, I've\ngot a ton of stuff to do\ntoday!\n{07 16 00}I wanna {04 22 00},{01 00 00 0a 00}\n{07 1b 00}but I have to talk to you\nand stuff, so{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{07 00 00}",
+   "et": ""
+  },
+  {
+   "id": 6,
+   "en": "{07 14 00}{0b 03 00}{01 06 00}Good evening{01 07 00}.{01 00 00 14 00} {07 00 00}\nYou're up late tonight. {01 00 00 0a 00}\nWhat's up, {01 00 00 0a 00}{04 02 00}?\n{07 14 00}I'm happy you're still up,\nthough,{01 00 00 05 00} 'cause that means I\nhave someone to{01 00 00 0a 00} play with!",
+   "et": ""
+  },
+  {
+   "id": 7,
+   "en": "{07 02 00}{01 00 00 0a 00}Oh, jeez!{01 00 00 14 00} How'd it get to\nbe {04 08 00} o'clock already?\n\n{07 16 00}I was hoping that today we{01 00 00 05 00}\nwould finally be able to\n{04 22 00} together!",
+   "et": ""
+  },
+  {
+   "id": 8,
+   "en": "{0b 03 00}{01 06 00}Good evening{01 07 00}!{01 00 00 14 00}\n{07 14 00}So, you're still crazy busy?\n{07 00 00}I know you're ambitious,\n{07 1b 00}but don't work too hard,\nOK? {07 01 00}It makes the rest of\nus look bad!",
+   "et": ""
+  },
+  {
+   "id": 9,
+   "en": "{07 1c 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 14 00}Finally! It's you!{01 00 00 0a 00} It's\nalready {04 08 00}:{04 09 00}, you know.\n\n{07 15 00}You really shouldn't keep\nme{01 00 00 05 00} waiting so long{01 00 00 0a 00},\n{04 02 00}. It's rude.",
+   "et": ""
+  },
+  {
+   "id": 10,
+   "en": "{07 14 00}Hi, {04 1f 00}!{01 01 00} {07 0b 00}{01 00 00 05 00}Are you\ngoing out to play? {07 14 00}The\nnight's young, {01 00 00 0a 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 11,
+   "en": "{07 04 00}{01 00 00 0a 00}Hey, {04 1f 00},{01 00 00 14 00} {07 0b 00}{01 00 00 0a 00}it's\npretty late. Are you OK,\n{01 00 00 0a 00}{04 02 00}?\n{07 19 00}You know, skin cells\nrejuvenate when you're\nsleeping, {01 00 00 05 00}{04 02 00}!{07 00 00}",
+   "et": ""
+  }
+ ]
+}

@@ -1,0 +1,20 @@
+{
+ "file": "script/ENG/message/ko/q01/con1_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 00 00}Hey, have you caught\n{04 1a 00}\nyet?\n{07 15 00}Me, neither.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0f 00} Man, {07 05 00}{01 00 00 05 00}this\nreally gets my goat,\n{01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 06 00}{0b 03 00}{0b 01 00}{04 1a 00}\nis an elusive beast! {01 00 00 0a 00}Dang!",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 15 00}Hey, {01 00 00 0f 00}what's with you all of\na sudden, {01 00 00 05 00}{04 02 00}?!\n\n{07 06 00}It's eating me up! I still\nhaven't found a single\n{0b 02 00}{04 1a 00}.",
+   "et": ""
+  }
+ ]
+}

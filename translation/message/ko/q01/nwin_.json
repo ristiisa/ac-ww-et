@@ -1,0 +1,20 @@
+{
+ "file": "script/ENG/message/ko/q01/nwin_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 15 00}You lose, {04 1f 00}! I got\n{07 00 00}{04 1a 00}\nages ago!\n{07 15 00}I destroyed you without\neven trying, {01 00 00 05 00}{04 02 00}!\n\n{07 03 00}Mwa ha ha ha ha!{01 01 00}\nMuwah ha ha ha ha!{01 01 00}\nHa ha ha ha HAW!",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 16 00}Could you be any slower,\n{01 00 00 05 00}{04 1f 00}{01 00 00 0f 00}? I mean,\n{01 00 00 05 00}{04 02 00}!\nI caught myself\n{07 14 00}{04 1a 00}{01 00 00 05 00}\neons ago. \n{07 0d 00}Well, {01 00 00 05 00}don't feel too bad.\nI'm pretty much the\ngreatest that ever lived.",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 04 00}Whoa{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0f 00} {07 15 00}Not so fast there,\n{04 1f 00}.\n\n{07 00 00}I went ahead and got\n{04 1a 00}{01 00 00 05 00}\nway before you!\n{07 14 00}You know what that means,\nright? {01 00 00 0f 00}I beat you,\n{01 00 00 05 00}{04 02 00}!\n{07 00 00}I'm not one to make a big\nfuss over who won and who\nlost.\n{07 0a 00}But beating you makes me\nespecially happy,\n{01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  }
+ ]
+}

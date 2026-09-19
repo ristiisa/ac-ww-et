@@ -1,0 +1,20 @@
+{
+ "file": "script/ENG/message/fu/q03/thanks_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 04 00}Oh my goodness! This fossil\nis{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} It's beautiful! How did\nyou come across this?\n{07 1d 00}What?!{01 00 00 0a 00} You went out and\nfound it just for me,\n{01 00 00 05 00}{04 02 00}?{01 00 00 0a 00}{07 04 00} Seriously??!!\n{07 00 00}{07 06 00}Oh, thank you so much! I\nhad no idea that I had such\ngood friends, {01 00 00 05 00}{04 02 00}!\n{07 1b 00}This deserves a reward!{01 00 00 05 00}\nAnd I won't take no for\nan answer!",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 1d 00}Wow!{01 00 00 0f 00} This must be\n{04 1a 00}, \n{01 00 00 05 00}{04 02 00}!\n{07 0e 00}Wait{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0f 00} {07 00 00}{07 0a 00}You went out and\ndug this up just for me?\nThat's amazing!\n{07 14 00}Oh, {04 1f 00},{01 00 00 05 00} thank you\nso much!{01 00 00 0f 00} {07 0c 00}Hey!{01 00 00 0a 00} I should give\nyou a reward, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 04 00}What?! Are you{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00} {07 0b 00}Are you\njust giving me this\n{0b 02 00}{04 1a 00}?\n{07 14 00}Holy cow! Wow, thank you!{01 00 00 0f 00}\nI've wanted this for a real\nlong time, {01 00 00 05 00}{04 02 00}!\n{07 0c 00}Hey!{01 00 00 14 00} I should give you a\ngift in return!{01 00 00 05 00} Hold on a\nsec, I've got something...",
+   "et": ""
+  }
+ ]
+}

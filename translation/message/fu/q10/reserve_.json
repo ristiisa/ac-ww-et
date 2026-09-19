@@ -1,0 +1,20 @@
+{
+ "file": "script/ENG/message/fu/q10/reserve_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 14 00}Oh, yay!{01 00 00 05 00} I'm so glad!{01 00 00 0a 00} {07 0b 00}\nSo what's the best time\nto do this, {04 02 00}?",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 04 00}Wha--?!{01 00 00 0f 00} Look, I'm not\nsaying that I need to go\nright this very second!\n{07 03 00}You probably need some\ntime to hide all your geeky\nrole-playing games{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.\n{07 00 00}{07 0b 00}But seriously, what time\nwould be good for you,\n{01 00 00 05 00}{04 02 00}?",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 00 00}I want to come over as\nsoon as possible! {07 0b 00}What\ntime works for you?",
+   "et": ""
+  }
+ ]
+}

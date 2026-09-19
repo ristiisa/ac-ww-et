@@ -1,0 +1,85 @@
+{
+ "file": "script/ENG/message/fu/3p/ge_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{09 01 00}{09 08 00}{07 00 00}Hey, {ff 00 00 06}{04 10 00}{ff 00 00 00}, have I\nshown you {07 0b 00}my new mop yet?{09 09 00}",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{09 01 00}{09 08 00}{07 00 00}Hey, {ff 00 00 06}{04 10 00}{ff 00 00 00}, have you\nread {07 0b 00}the latest issue of\n{ff 00 00 02}Ms. Nintendique{ff 00 00 00}?\n{07 0d 00}I thought of you the second\nI saw the cover story!{09 09 00}",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{09 01 00}{09 08 00}{07 00 00}Hey, {ff 00 00 06}{04 10 00}{ff 00 00 00}. If you\ncould be any cake in the\nworld, {07 0b 00}what would you be?{09 09 00}",
+   "et": ""
+  },
+  {
+   "id": 3,
+   "en": "{09 00 00}{09 08 00}{09 02 00}{09 06 00}{07 16 00}Why would I care about some\nstupid mop? {01 00 00 05 00}I am, like, SO\nnot into cleaning.\nYou can have your mop. {01 00 00 05 00}{07 13 00}I've\ngot candy. So why don't you\njust go scrub something?{09 09 00}",
+   "et": ""
+  },
+  {
+   "id": 4,
+   "en": "{09 00 00}{09 06 00}{09 01 00}{07 02 00}What!?{01 00 00 0a 00} You're not suggesting\nI actually.{01 00 00 05 00}.{01 00 00 05 00}.{07 16 00}use my mop to\nscrub floors, are you?{09 09 00}",
+   "et": ""
+  },
+  {
+   "id": 5,
+   "en": "{09 00 00}{09 08 00}{09 02 00}{07 03 00}Well, duh! What else would\nyou use it for?{09 09 00}",
+   "et": ""
+  },
+  {
+   "id": 6,
+   "en": "{09 00 00}{09 06 00}{09 01 00}{07 01 00}Hey, don't call Moppina an\nit! She's a she, and she's\nmy best friend ever!\n{07 14 00}Moppina lets me try out new\nhairstyles on her, so I can\nsee how they'd look.{01 00 00 03 00}.{01 00 00 03 00}.\n{07 13 00}And she tries on clothes\nfor me and lets me\ndance with her.{01 00 00 03 00}.{01 00 00 03 00}.\nAnd SHE actually {07 01 00}LISTENS\nto me, unlike just about\neveryone else in this town!{09 09 00}",
+   "et": ""
+  },
+  {
+   "id": 7,
+   "en": "{09 00 00}{09 08 00}{09 02 00}{07 00 00}Really? .{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}Moppina sounds\npretty nice, actually.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}\nCould I {01 00 00 03 00}{07 0b 00}meet her sometime?{09 09 00}",
+   "et": ""
+  },
+  {
+   "id": 8,
+   "en": "{09 00 00}{09 06 00}{09 01 00}{07 14 00}Oh, of course! You can come\nover anytime. {09 02 00}{07 13 00}{09 01 00}We'll have\ntea and cookies!",
+   "et": ""
+  },
+  {
+   "id": 9,
+   "en": "{09 00 00}{09 08 00}{09 02 00}{09 06 00}{07 0b 00}What, that bit about high\nheels? {01 00 00 05 00}{07 06 00}You HAVE noticed I\ndon't wear shoes, right?\nI mean, you can't even BUY\nshoes in this stupid town,{01 00 00 05 00}\n{07 15 00}so why would I care?{09 09 00}",
+   "et": ""
+  },
+  {
+   "id": 10,
+   "en": "{09 00 00}{09 06 00}{09 01 00}{07 15 00}Hey, don't freak out at me!{01 01 00}\n{07 16 00}I'm just trying to help you!\n\n{07 14 00}You're still into martial\narts, aren't you? With all\nthose high kicks and stuff?{09 09 00}",
+   "et": ""
+  },
+  {
+   "id": 11,
+   "en": "{09 00 00}{09 08 00}{09 02 00}Yeah, but I don't-- {01 00 00 05 00}{07 0c 00}Oh!{01 00 00 0f 00}\nI think I see where you're\ngoing with this now.\n{07 19 00}Oh, that's good. {01 00 00 05 00}That's\nreally good.\n\n{07 0e 00}I bet you could do all sorts\nof damage {07 14 00}if you had a pair\nof those on!{09 09 00}",
+   "et": ""
+  },
+  {
+   "id": 12,
+   "en": "{09 00 00}{09 06 00}{09 01 00}{07 14 00}It's like you read my mind!\n{07 14 00}Maybe I should start going\nto your class, {ff 00 00 06}{04 10 00}{ff 00 00 00}!{03 01 00 01}",
+   "et": ""
+  },
+  {
+   "id": 13,
+   "en": "{09 00 00}{09 08 00}{09 02 00}{09 06 00}Oh, that's easy. Carrot.{01 01 00}\nWhat, did you think I wasn't\ngoing to have an answer?\nDude, I think about this\nALL THE TIME. {07 14 00}I'd have a\ndelicious frosting hat.\n{07 13 00}And I could eat it whenever\nI got hungry or my blood\nsugar got too low.{09 09 00}",
+   "et": ""
+  },
+  {
+   "id": 14,
+   "en": "{09 00 00}{09 06 00}{09 01 00}That's a good idea! I was\nthinking cheese, but {07 1c 00}that's\njust 'cause I like cheese.\nI mean, {07 16 00}I really hadn't put\nthat much thought into it.{09 09 00}",
+   "et": ""
+  },
+  {
+   "id": 15,
+   "en": "{09 00 00}{09 08 00}{09 02 00}{07 04 00}Oh, {ff 00 00 06}{04 0f 00}{ff 00 00 00}, this isn't\nthe sort of thing you can\nleave to chance.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 14 00}You never know when you\nmight find yourself in some\nsort of cake emergency.{03 01 00 01}",
+   "et": ""
+  }
+ ]
+}

@@ -1,0 +1,20 @@
+{
+ "file": "script/ENG/message/fu/q05/con_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 14 00}Right now, {01 00 00 05 00}I'm on the hunt\nfor groovy-looking\n{ff 00 00 07}{04 0f 00}{ff 00 00 00}.",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 14 00}My room would look great if\nI crammed it full of\n{ff 00 00 07}{04 0f 00}{ff 00 00 00}.",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 14 00}You know, there's nothing I\nlike more than hunting down\n{ff 00 00 07}{04 0f 00}{ff 00 00 00}.",
+   "et": ""
+  }
+ ]
+}

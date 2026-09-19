@@ -1,0 +1,20 @@
+{
+ "file": "script/ENG/message/fu/q09/badend_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 0e 00}What{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} Oh, are you talking\nabout hide-and-seek? \n{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 03 00}Ha ha ha!{01 00 00 05 00}\n{07 06 00}{0b 03 00}{01 00 00 05 00}{04 1f 00}! You're serious!{01 00 00 0a 00}\n{07 16 00}Oh wow, sorry!{01 00 00 05 00} The time ran\nout so long ago...\nI thought we had already\nquit, {01 00 00 05 00}{04 02 00}!{01 01 00}\n{07 0f 00}I'm really sorry{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 04 00}What?{01 00 00 0f 00} Were you still playing\nhide-and-seek?!{01 00 00 05 00}\n.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 02 00}OH NO!\n{07 00 00}{07 16 00}Sorry, {01 00 00 05 00}{04 1f 00}!{01 00 00 05 00} I waited\nforever, but you just never\ncame to get me\n{07 07 00}And then I got lonely and\nscared, so I came out!{01 00 00 0f 00}\n{07 00 00}{07 14 00}I'm sorry, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 0e 00}Hide-and-seek{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}?{01 00 00 0f 00}\nHide-and-seek{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\nOH YEAH! \n{07 01 00}Hey, {04 1f 00}!{01 00 00 0a 00} Why didn't\nyou come find me?! I was \nhiding forever!\n{07 06 00}Then I got lonely{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}. And\nthen I got kinda hungry{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\nI went to get a sandwich.\n{07 16 00}It was so sad!{01 01 00}\nSo sad, {04 1f 00}!{01 00 00 0f 00} {ff 00 00 04}And I\ndidn't even get a sandwich.{03 03 00 00}",
+   "et": ""
+  }
+ ]
+}

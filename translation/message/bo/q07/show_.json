@@ -1,0 +1,20 @@
+{
+ "file": "script/ENG/message/bo/q07/show_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 0b 00}Huh huh huh!{01 00 00 0a 00} Wanna see it,{01 00 00 0a 00}\n{04 1f 00}?\n\n{07 14 00}I think I can show you\n{ff 00 00 06}{04 0f 00}{ff 00 00 00}'s secret,{01 00 00 0a 00}\n{04 02 00}.",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 11 00}So,{01 00 00 0a 00} {04 1f 00}, do you\nwant to be in on our little\nsecret, too,{01 00 00 0a 00} {04 02 00}?",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 14 00}Huh huh huh{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} Should I show\nit to you? {01 01 00}{07 00 00}You just can't\ntell {ff 00 00 06}{04 0f 00}{ff 00 00 00} I did, OK?",
+   "et": ""
+  }
+ ]
+}

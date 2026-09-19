@@ -1,0 +1,20 @@
+{
+ "file": "script/ENG/message/bo/q02/con1_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 04 00}Me?{01 01 00} {07 16 00}Not yet{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 14 00} When it\ncomes to catching\n{04 1a 00},\nrushing is a luxury I\njust can't afford,\n{01 00 00 0a 00}{04 02 00}.",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 04 00}Huh?{01 00 00 14 00} No, I haven't caught\none yet.{01 01 00} But it's not that I\nhaven't had the chance!\n{07 19 00}{0b 03 00}{0b 01 00}{04 1a 00}\nis so common,{01 00 00 0a 00}{07 00 00}{07 0d 00} I wanna get\nthe coolest one possible!",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 04 00}What!?{01 00 00 14 00} {0b 03 00}{04 1f 00}! You\nalready caught\n{04 1a 00}.\n{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 00 00}What's that you say? {01 00 00 05 00}You\ndidn't?{01 00 00 14 00} {07 14 00}Whew!{01 00 00 14 00} That's good,{01 00 00 0a 00}\n{04 02 00}.",
+   "et": ""
+  }
+ ]
+}

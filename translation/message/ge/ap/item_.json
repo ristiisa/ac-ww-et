@@ -1,0 +1,145 @@
+{
+ "file": "script/ENG/message/ge/ap/item_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 14 00}{0b 03 00}{01 06 00}Oh wow{01 07 00}!{01 00 00 0a 00} It's\n{04 1f 00}!\n\n{07 0d 00}Y'know, I was thinking...{01 00 00 05 00}we're\nlike {ff 00 00 08}{04 03 00}{ff 00 00 00}'s\nsweethearts, aren't we?\n{06 03 00 08 09}",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 00 00}{0b 03 00}{01 06 00}Oh! Like, hi there{01 07 00}!{01 00 00 05 00}\nHow're you, {04 1f 00}?\n\nRemember the {ff 00 00 07}picture of me{ff 00 00 00}\nI gave you a while back?{01 00 00 0a 00}\n.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}Y'know!!{01 00 00 05 00} The cute one!!{01 00 00 05 00}\n{07 0b 00}Do you still, like, have it?{02 00 00 0a 0b}\nOf course!\nNah, I lost it.",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{0b 03 00}{04 1f 00}!! Hey, wait up!{01 00 00 0a 00}\n{07 0d 00}Today, I have a totally nice\npresent juuuust for you!\n{07 14 00}Here, {04 02 00}!{01 00 00 05 00}\nIt's a {ff 00 00 07}picture{ff 00 00 00}!{01 00 00 0f 00} {ff 00 00 07}Of ME{ff 00 00 00}!{01 00 00 0f 00} Isn't\nit just the cutest EVER?!",
+   "et": ""
+  },
+  {
+   "id": 3,
+   "en": "{07 14 00}{0b 03 00}{01 06 00}Oh wow! Like, hi{01 07 00}!{01 00 00 05 00}\nWhat's up, {04 1f 00}?\n\n{07 00 00}Y'know, I think it's GREAT\nthat we're good friends\nafter so long! Tee hee!\n{07 14 00}So please take this!{01 00 00 0a 00}\nIt's {ff 00 00 07}my picture{ff 00 00 00}!{01 00 00 0f 00} Isn't it so\ncute, {01 00 00 05 00}{04 02 00}?!",
+   "et": ""
+  },
+  {
+   "id": 4,
+   "en": "{07 14 00}{0b 03 00}{04 1f 00}!!{01 00 00 0f 00} I have a\nspecial little present just\nfor you!\n{07 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}Oh, {01 00 00 05 00}{07 16 00}but {01 00 00 05 00}your pockets are\nall full, {01 00 00 05 00}{04 02 00}! {07 1c 00}Wow,{01 00 00 05 00}\nwhat awful timing{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.",
+   "et": ""
+  },
+  {
+   "id": 5,
+   "en": "{07 14 00}{0b 03 00}{01 06 00}Hey, hang on a sec{01 07 00}!\n{01 00 00 0a 00}{0b 03 00}{04 1f 00}! Don't say a\nword!{01 00 00 05 00} Shh... Take this!\n{07 00 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.Hey,{01 00 00 0a 00} wait a sec!\n{07 0b 00}Your pockets are all full!\nOh, {01 00 00 05 00}{04 02 00}!\n{07 16 00}Wow, that's a huge bummer.\nI had a really, really\nspecial present for you{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.",
+   "et": ""
+  },
+  {
+   "id": 6,
+   "en": "{07 04 00}{0b 03 00}{01 06 00}Like, hi{01 07 00}!\nIt's {04 1f 00}!\n\n{07 00 00}Hey, I have something that\nI totally need to ask you{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00}\n{07 14 00}You have a sec?{01 00 00 0a 00} Pleeeease?{02 00 00 12 0f}\nSure!\nMaybe later.",
+   "et": ""
+  },
+  {
+   "id": 7,
+   "en": "{07 14 00}Y'know, you and I should get\nmatching outfits and walk\naround town, {01 00 00 05 00}{04 02 00}.",
+   "et": ""
+  },
+  {
+   "id": 8,
+   "en": "{07 02 00}Ah!{01 00 00 0a 00} Wait, what am I saying?{01 00 00 14 00}\nYou're a boy! A stinky boy!\nUm...{01 00 00 0a 00}look, that's not{01 00 00 0a 00}...um...\n{07 06 00}AAAAAAAHHH!{01 00 00 0a 00} OK, listen{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} \nNone of this is coming out\nright, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 9,
+   "en": "{07 00 00}Just like {ff 00 00 06}Mabel {ff 00 00 00}and {ff 00 00 06}Sable{ff 00 00 00}!\n{07 14 00}Maybe we can call ourselves\nthe {ff 00 00 06}{04 01 00}{ff 00 00 00} Sisters!\n{07 13 00}That is SO TOTALLY COOL!{01 00 00 0a 00} \nWe're sisters, {04 02 00}!\nSisters forever!{01 00 00 0a 00} Hooray!",
+   "et": ""
+  },
+  {
+   "id": 10,
+   "en": "{07 13 00}{0b 03 00}{04 1f 00}!{01 00 00 0a 00}{07 14 00} You're, like,\nofficial president of the\n{ff 00 00 06}{04 01 00}{ff 00 00 00} fan club!\n{07 19 00}Hey, you should TOTALLY\nstart that!{01 00 00 0a 00} Then I could\nactually JOIN IT!{01 00 00 0a 00} Yaaay me!",
+   "et": ""
+  },
+  {
+   "id": 11,
+   "en": "{07 02 00}Whaaaat?!{01 01 00} You LOST it?!{01 01 00}\nYOU LOST IT??!! I can't\nBELIEVE this!\n{ff 00 00 07}{07 08 00}My{ff 00 00 00} {ff 00 00 07}picture{ff 00 00 00} was a rare\ncollectable!{01 00 00 0a 00} And you...{01 00 00 0a 00}lost\nit...{01 00 00 0f 00} Do you think I'm...ugly?{03 03 00 01}",
+   "et": ""
+  },
+  {
+   "id": 12,
+   "en": "{07 14 00}Now, we're always together!{01 00 00 0a 00}\nAND...{01 00 00 0a 00}you can stare at my\ncute face all day long!",
+   "et": ""
+  },
+  {
+   "id": 13,
+   "en": "{07 14 00}I had that photo taken just\nafter a spa treatment.{01 00 00 05 00} My\nskin was so clear that day!\n{07 15 00}So, in that sense,{01 00 00 0a 00} it's a \nreally RARE ITEM!{01 00 00 0a 00} Stupid\nicky, red, blotchy face!",
+   "et": ""
+  },
+  {
+   "id": 14,
+   "en": "{07 14 00}Make sure to treasure it\nfor always, {01 00 00 05 00}{04 02 00}!{01 00 00 0f 00}\n{07 10 00}I'll be so sad if you don't...",
+   "et": ""
+  },
+  {
+   "id": 15,
+   "en": "{07 16 00}What?! WHAAAAT?{01 00 00 0a 00} That's so\ncold! Wow, you're, like, the\nmeanest person in town!\n{06 03 00 10 11}",
+   "et": ""
+  },
+  {
+   "id": 16,
+   "en": "{07 15 00}If you keep pretending to\nbe all cool and stuff,{01 00 00 05 00} folks\nwill just hate you for it!",
+   "et": ""
+  },
+  {
+   "id": 17,
+   "en": "{07 0d 00}Us girls need to stick\ntogether! {01 00 00 05 00}C'mon, let's be\nfriends, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 18,
+   "en": "{07 0a 00}Yay! That's so super great!{01 00 00 0f 00}\n{07 14 00}Oh, yeah, I suppose I should{01 00 00 05 00}\nask you, {01 00 00 05 00}{04 02 00}!\n{06 01 00 13 14 15}",
+   "et": ""
+  },
+  {
+   "id": 19,
+   "en": "{07 00 00}So, {04 1f 00},{07 0b 00} what do\nyou think of me? Seriously.\nYou wanna get to know me?{02 00 00 16 17}\nSounds like fun.\nWhatever.",
+   "et": ""
+  },
+  {
+   "id": 20,
+   "en": "{07 00 00}OK, so, {04 1f 00},{01 00 00 05 00}{07 0b 00} what\ndid you think of me when\nwe first met?{02 01 00 16 17 18}\nCute!\nAngry!\nFunny!",
+   "et": ""
+  },
+  {
+   "id": 21,
+   "en": "{07 00 00}I'm kinda crazy sometimes,\n{07 0b 00}but how do I look? How's{01 00 00 05 00}\nmy figure? Seriously!{05 05 00 05 19 05 16 05 17 01 1a}\nUh, full.\nEat a sandwich!",
+   "et": ""
+  },
+  {
+   "id": 22,
+   "en": "{07 02 00}What?!{01 00 00 0a 00} Do you\nseriously think so?!\nSERIOUSLY, {01 00 00 05 00}{04 02 00}?!\n{07 06 00}Omigosh!{01 00 00 0f 00} I'm so totally\nshocked!{01 00 00 0a 00} I think I might, \nlike, faint or something!{03 01 00 01}",
+   "et": ""
+  },
+  {
+   "id": 23,
+   "en": "{07 16 00}Agh!!{01 00 00 05 00} {0b 03 00}{04 1f 00}...that's\nreally mean!\n\n{07 15 00}Why are you such a jerk?!\nOoooh! You gotta be nicer\nto people, {04 02 00}!\n{07 0d 00}Like ME! {01 00 00 05 00}See?{01 00 00 0a 00} You just\ngotta let it all hang out\nand, like, enjoy life more!{01 00 00 05 00}!",
+   "et": ""
+  },
+  {
+   "id": 24,
+   "en": "{07 02 00}Huh?!{01 00 00 0a 00} I'm funny? Me,\n{01 00 00 05 00}{04 02 00}? {01 00 00 05 00}Like, ha-ha\nfunny or funny-looking?\n{07 16 00}Wow, that's kinda harsh{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00}. \n{07 06 00}I'd much rather be cute{01 00 00 05 00} or\nsmart{01 00 00 05 00} or something...{03 03 00 01}",
+   "et": ""
+  },
+  {
+   "id": 25,
+   "en": "Oh, {01 00 00 05 00}{04 1f 00}! {07 06 00}Stop it...{01 00 00 0a 00}\nthat's just an obvious\nattempt to kiss up to me!\n{07 16 00}I'm not that{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00}.{01 01 00} {07 17 00}Well, maybe\njust a little, {01 00 00 05 00}{04 02 00}!\nDo you have any snacks?",
+   "et": ""
+  },
+  {
+   "id": 26,
+   "en": "{07 01 00}WHAAAAAT??!!{01 01 00} {07 16 00}You! {01 00 00 05 00}You don't\nknow the first thing about\nme!{01 00 00 0a 00} Jerk!\n{07 05 00}Well, if that's how you feel,{01 00 00 05 00}\nthen I just won't give you\n{ff 00 00 07}my picture{ff 00 00 00}!{01 00 00 05 00} MEANIE!!{03 02 00 02}",
+   "et": ""
+  },
+  {
+   "id": 27,
+   "en": "{06 01 00 0c 0d 0e}",
+   "et": ""
+  }
+ ]
+}

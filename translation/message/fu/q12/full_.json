@@ -1,0 +1,35 @@
+{
+ "file": "script/ENG/message/fu/q12/full_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 00 00}Now, how to thank you\nproperly.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} Oh, I know! I've\ngot just the perfect thing.\nOh, but, {04 1f 00},{01 00 00 05 00} {07 06 00}your\npockets are full! You can't\nhold anything else!\n{07 16 00}I really want you to have\nthis, so come back when\nyou've got room for it!",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 14 00}This is a pretty poor gift,\nespecially compared to the\ngift of health, but.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 04 00}Oh! {0b 03 00}{04 1f 00},{01 00 00 05 00} did you\nknow your pockets are full?{01 00 00 05 00}\n{07 16 00}You can't carry any more.\nI can't give this to you\nuntil you've got the room\nto carry it, {01 00 00 05 00}{04 02 00}!\n{07 14 00}Take care of that, will\nyou? And then come back\nand see me right away!",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 04 00}Oh, how silly of me!{01 00 00 05 00} I still\nhaven't given you a thank-\nyou gift for that {ff 00 00 07}medicine{ff 00 00 00}!",
+   "et": ""
+  },
+  {
+   "id": 3,
+   "en": "{07 14 00}You haven't forgotten, have\nyou? About your thank-you\ngift? For that {ff 00 00 07}medicine{ff 00 00 00}?",
+   "et": ""
+  },
+  {
+   "id": 4,
+   "en": "{07 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 04 00}Oh, no. {01 00 00 05 00}Not again!{01 00 00 14 00}\n{07 16 00}Would you PLEASE make some\nroom in your pockets?\nIt's almost like you don't\nwant a thank-you gift!{01 00 00 0f 00}\n{07 14 00}But you do, don't you?",
+   "et": ""
+  },
+  {
+   "id": 5,
+   "en": "{07 16 00}Oh, dear.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} What are we\ngoing to do with you? {01 00 00 05 00}Your\npockets are STILL full?\n{07 14 00}OK,{01 00 00 05 00} it's no big deal. Just\ncome back when you've\ndropped some stuff.",
+   "et": ""
+  }
+ ]
+}

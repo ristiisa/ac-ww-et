@@ -1,0 +1,95 @@
+{
+ "file": "script/ENG/message/ko/tsu/shome_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{06 04 00 03 04 05 06}",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{06 04 00 07 08 09 0a}",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{06 0a 00 0f 10 11 11}",
+   "et": ""
+  },
+  {
+   "id": 3,
+   "en": "{07 15 00}You've gotta do somethin'\nabout your place!\n{07 16 00}Something! Anything!\n{07 00 00}If you wanna live large,{01 00 00 0f 00}\nyou've gotta have a huge\nhouse!\n{07 16 00}With low ceilings like that,{01 00 00 05 00}\nyou've gotta be bangin'\nyour head all the time!",
+   "et": ""
+  },
+  {
+   "id": 4,
+   "en": "{07 14 00}Somethin' about your place{01 00 00 05 00}\nlooks better than before,\n{04 02 00}{01 00 00 05 00}!\n{07 16 00}But{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0f 00} You gotta go huge if\nyou wanna impress! Bigger \nis better, {07 0b 00}right?",
+   "et": ""
+  },
+  {
+   "id": 5,
+   "en": "So I heard you added{01 00 00 05 00} {07 1a 00}a \nsecond story to that house\nof yours, {01 00 00 05 00}{04 02 00}!\n{07 00 00}Way to go! {07 03 00}Maybe people\nwon't laugh at you quite as\nmuch, now!\n{07 14 00}Looking down on people\nmakes me feel all warm\ninside{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.",
+   "et": ""
+  },
+  {
+   "id": 6,
+   "en": "{07 04 00}Whoa! You remodeled again,\neh?\n\n{07 00 00}I bet you get canyon-like\nechoes in a house that\nbig, {01 00 00 05 00}{04 02 00}!\n{06 00 00 0b 0c}",
+   "et": ""
+  },
+  {
+   "id": 7,
+   "en": "{07 00 00}So I heard you're not really\ninto making your house\nbigger, {01 00 00 05 00}{04 02 00}?\n{07 19 00}You must be one of those\nminimalists{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 00 00}{01 00 00 05 00}{04 02 00}.",
+   "et": ""
+  },
+  {
+   "id": 8,
+   "en": "{07 00 00}Your house has gotten\nbigger lately, hasn't it?\n\n{07 15 00}Are you compensating for\nsomething?\n\n{07 19 00}A little brain, perhaps?\n{07 03 00}{0b 03 00}{01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 9,
+   "en": "{07 00 00}Yo, {04 1f 00}! {07 0b 00}I've got a\nquestion for ya!\n\n{07 00 00}How does it feel for\nsomeone your age to {07 0b 00}live\nin a two-story home?{02 00 00 0d 0e}\nAwesome!\nIt's OK.",
+   "et": ""
+  },
+  {
+   "id": 10,
+   "en": "{07 00 00}You've done good, kid.\n{07 1a 00}I have to admit, you're\nhouse is pretty impressive!\n{07 00 00}If only you had a giant\nlawn gnome,{01 00 00 05 00} your house\nwould be complete!",
+   "et": ""
+  },
+  {
+   "id": 11,
+   "en": "{07 15 00}That's it!{01 00 00 0f 00} {07 14 00}I'm bringing my \nbanjo over and singin' you\na rockin' song!\nDon't worry,{01 00 00 0f 00} {07 0d 00}I'll sing to you\nall night long, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 12,
+   "en": "{07 15 00}All right!{01 00 00 0f 00} {07 14 00}The next karaoke \nnight is at your place!\nI'll post up some flyers!\nDon't worry...{01 00 00 0f 00} {07 0d 00}You probably\nwon't get that many random\npeople showing up. Probably.",
+   "et": ""
+  },
+  {
+   "id": 13,
+   "en": "{07 01 00}Oh,{01 00 00 14 00} I get it. {01 00 00 05 00}That's nice\nfor you.{01 00 00 0f 00} Heh.",
+   "et": ""
+  },
+  {
+   "id": 14,
+   "en": "{07 04 00}Whaaaa.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}?!{01 00 00 14 00} {0b 03 00}{04 1f 00}!\n\n\n{07 15 00}Two stories and you're still\nnot satisfied? {01 00 00 05 00}Yeesh!{01 01 00} {07 0b 00}You\ngonna build even higher?\n{07 1b 00}Who knew you were so \nambitious, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 15,
+   "en": "{07 00 00}If you live alone like me, \nyou must understand why\nmy place is so messy.\n{07 16 00}When there's no one around\nto holler at you, it's easy\nto let your place go!{01 00 00 05 00}\n{07 00 00}Nobody should live alone\nforever, {01 00 00 05 00}{04 02 00}!{01 01 00}\n{07 15 00}That goes for both of us{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}",
+   "et": ""
+  },
+  {
+   "id": 16,
+   "en": "{07 00 00}You've got someone living\nin that house with you, \ndon't ya?\n{07 14 00}Hanging out with good \nfriends...{01 00 00 05 00} The crazy\nparties...{01 00 00 05 00}{04 02 00}!\n{07 13 00}Man, {01 00 00 05 00}those were the days!{01 00 00 14 00}\nI'm so jealous, {01 00 00 0f 00}{04 1f 00}!",
+   "et": ""
+  },
+  {
+   "id": 17,
+   "en": "{07 00 00}You've got housemates\nliving with you, eh,{01 00 00 05 00}\n{04 02 00}?\nYou know, I thought about\nroomin' with {04 0e 00}...\nThat'd be pretty cool.\n{07 0f 00}But my house is too small.\nEven for just two people{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{01 00 00 05 00}{04 02 00}.\n{07 16 00}And I won't get a big\nmansion even if I save\nFOREVER! {0b 03 00}{01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  }
+ ]
+}

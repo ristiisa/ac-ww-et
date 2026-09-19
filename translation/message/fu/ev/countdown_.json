@@ -1,0 +1,110 @@
+{
+ "file": "script/ENG/message/fu/ev/countdown_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 00 00}Boy, is it just me, or has\nit been a really long year?{01 00 00 0f 00}\nWell, it's just about over.\n{07 14 00}In fact, {ff 00 00 06}Tortimer{ff 00 00 00}'s{ff 00 00 06} {ff 00 00 00}going to\nbe hosting the {ff 00 00 03}countdown\n{ff 00 00 00}at the {ff 00 00 08}plaza{ff 00 00 00},{ff 00 00 08} {ff 00 00 00}{01 00 00 05 00}{04 02 00}.",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 00 00}I'm looking forward to the\narrival of the new year as\nmuch as anyone...\n{07 06 00}But {ff 00 00 06}Tortimer{ff 00 00 00}'s already\nstarted the year-end\n{ff 00 00 03}countdown{ff 00 00 00}!\n{07 1b 00}He's always in such a\nrush, {01 00 00 05 00}{04 02 00}.",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 16 00}I can't believe that\n{ff 00 00 06}Tortimer{ff 00 00 00}! Do you know\nwhere he's been all day?\nOver at the {ff 00 00 08}plaza{ff 00 00 00}, prepping\nfor the countdown tonight!{01 01 00}\n{07 01 00}He's been there since dawn!\n{07 00 00}He gets all excited for\nthese big events, and then\nhe gets kinda overexcited.\n{07 0e 00}I wonder if he's going to\nfall asleep before sundown\nagain, {01 00 00 05 00}{04 02 00}.",
+   "et": ""
+  },
+  {
+   "id": 3,
+   "en": "{07 14 00}You know what made this an\nespecially good year for\nme, {04 1f 00}?\nThe fact that I spent at\nleast a little bit of it\nwith you, {01 00 00 05 00}{04 02 00}.\n{07 0d 00}I hope you and I get to\nspend even more time\ntogether next year!",
+   "et": ""
+  },
+  {
+   "id": 4,
+   "en": "{07 14 00}I'm so excited! It's getting\ndark out, and the\n{ff 00 00 03}countdown {ff 00 00 00}starts soon!\n{07 06 00}Look at me! I'm already a\nwreck, and the countdown\nruns straight 'til midnight!\n{07 00 00}Don't get me wrong--I'm\nstill planning on staying\nup 'til then, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 5,
+   "en": "{07 00 00}Tell me, {04 1f 00},{01 00 00 05 00}\n{07 0b 00}was it a good year for you?\n\n{07 14 00}It was a busy one, that's\nfor sure, {01 00 00 05 00}but that's what\nmade it so great!",
+   "et": ""
+  },
+  {
+   "id": 6,
+   "en": "{07 04 00}Less than an hour to go,\n{04 1f 00}!{01 00 00 0a 00} The new year's\nalmost here, {01 00 00 05 00}{04 02 00}!\n{07 06 00}Not much time left! You'd\nbetter make sure you did\neverything you wanted to!",
+   "et": ""
+  },
+  {
+   "id": 7,
+   "en": "{07 00 00}Less than an hour left to\nsay good-bye to this year,\n{01 00 00 05 00}{04 02 00}.\nLet's see{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} {07 0e 00}Did I have a\ngood year? I got to talk to\nyou a lot, {04 1f 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 14 00}Yeah, I guess that means it\nwas a pretty decent year\nafter all, {01 00 00 05 00}{04 02 00}.",
+   "et": ""
+  },
+  {
+   "id": 8,
+   "en": "{07 16 00}The year's{01 00 00 05 00} almost over,\n{01 00 00 05 00}{04 02 00}. There's no\ntime left for any regrets!\n{07 06 00}I'm starting to feel a\nlittle nervous, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 9,
+   "en": "{07 15 00}As we sit here chatting,\nthe new year is stalking\never closer!\n{07 06 00}I'm starting to get a little\nscared, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 10,
+   "en": "{07 06 00}Ahhh!!{01 00 00 05 00} Less than 5 minutes\nto go, {01 00 00 05 00}{04 02 00}!\n\n{07 16 00}{0b 03 00}{04 1f 00},{01 00 00 05 00} you should go\nkeep {ff 00 00 06}Tortimer{ff 00 00 00} company!\n\nHe's been up since the\ncrack of dawn preparing{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n{07 07 00}He must be exhausted!",
+   "et": ""
+  },
+  {
+   "id": 11,
+   "en": "{07 16 00}Oh, boy! There's less than\n5 minutes left until this\nyear becomes last year!\n{07 06 00}I'm so excited! I can hear\nmy heart pounding in my\nears, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 12,
+   "en": "{07 01 00}Gah!!{01 00 00 0f 00} Look at the clock!\n{07 16 00}Less than 1 minute to go!\n\nDon't leave me, {04 04 00}! I'm\nnot ready to say good-bye!\n\n{07 06 00}Please!{01 00 00 0a 00} There's so much I\nstill want to do this year!{01 00 00 05 00}\nI just need more time!",
+   "et": ""
+  },
+  {
+   "id": 13,
+   "en": "{07 16 00}Oh{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} I can't take the\ntension any longer,\n{01 00 00 05 00}{04 02 00}!\n{07 06 00}I'm ready for you, new\nyear! Hurry up already!\nYour food's getting cold!",
+   "et": ""
+  },
+  {
+   "id": 14,
+   "en": "{07 0a 00}HAPPY NEW YEAR!\n\n\n{07 14 00}So, this is what the\n{ff 00 00 02}year {04 0f 00}{ff 00 00 00} looks like,\nis it, {01 00 00 05 00}{04 02 00}?",
+   "et": ""
+  },
+  {
+   "id": 15,
+   "en": "{07 14 00}Well, here we are! The {ff 00 00 02}year\n{04 0f 00}{ff 00 00 00}. Does it feel any\ndifferent to you?\n{07 0d 00}As long as we're still\nfriends, it doesn't matter\nto me what year it is!\n{07 0e 00}Oh, and as long as there's\nstill TV, too.{01 00 00 05 00} And good\nfood.{01 00 00 05 00} {07 14 00}And shopping.",
+   "et": ""
+  },
+  {
+   "id": 16,
+   "en": "{07 14 00}Happy New Year!{01 00 00 05 00} I hope you\nknow I'll be counting on you\nthis year, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 17,
+   "en": "{07 14 00}Here's to another good year\ntogether, {04 1f 00}!{01 00 00 0f 00} And\nlots more, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 18,
+   "en": "{07 14 00}I hope it'll be a good year\nfor us both, {01 00 00 05 00}{04 02 00}.",
+   "et": ""
+  },
+  {
+   "id": 19,
+   "en": "{07 00 00}I wonder what kind of year \n{ff 00 00 02}{04 0f 00} {ff 00 00 00}is going to be{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.",
+   "et": ""
+  },
+  {
+   "id": 20,
+   "en": "{07 14 00}I love the way a new year\nmakes me feel like a new\nme, {01 00 00 05 00}{04 02 00}.",
+   "et": ""
+  }
+ ]
+}

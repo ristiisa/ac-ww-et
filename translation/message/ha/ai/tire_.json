@@ -1,0 +1,30 @@
+{
+ "file": "script/ENG/message/ha/ai/tire_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 15 00}Instead of hassling me,\nyou should try working out\nfor once, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 15 00}Go away! I've got to tend\nto this wicked bod of mine,\n{01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 15 00}Ugh! {01 00 00 05 00}What?!{01 00 00 0a 00}\nGo and climb a cliff\nor something, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 3,
+   "en": "{07 15 00}You should spend less time\nbugging me and more time\nin the gym, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 4,
+   "en": "{07 15 00}If I give you a protein\nshake, will you go annoy\nsomebody else?",
+   "et": ""
+  }
+ ]
+}

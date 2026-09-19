@@ -1,0 +1,20 @@
+{
+ "file": "script/ENG/message/ko/q01/con3_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 15 00}WHAT?! {01 00 00 05 00}Why are you all up in\nmy business?{01 01 00}{01 08 00} NO, I HAVEN'T\nCAUGHT THE BUG YET!\n{07 16 00}But {01 00 00 05 00}just you wait and see,\n{01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 16 00}I still haven't found a bug\nthat's worthy, {01 00 00 05 00}{04 02 00}.\nYeah, I'm choosy.\n{07 01 00}But so what?! {01 01 00}{07 06 00}I'll find one\nthat'll make your eyes bug\nout and your brain melt!",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 15 00}Stop rushing me, you jerk!{01 00 00 05 00}\nYou're too darn edgy!\nJust cool it, {01 00 00 05 00}{04 02 00}!\n{07 06 00}I still haven't caught my\nbug quite yet!{01 01 00}\nBUT I WILL!",
+   "et": ""
+  }
+ ]
+}

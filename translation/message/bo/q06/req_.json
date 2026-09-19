@@ -1,0 +1,20 @@
+{
+ "file": "script/ENG/message/bo/q06/req_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 04 00}Hey,{01 00 00 05 00} {04 1f 00},{01 00 00 0a 00} do you\nget along with\n{ff 00 00 06}{04 10 00}{ff 00 00 00}?\n{07 00 00}Actually, I have something\nthat needs to go to\n{ff 00 00 06}{04 10 00}{ff 00 00 00}.\nUh{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00} {07 16 00}{01 00 00 14 00}I{01 00 00 0a 00} want to go,\n{07 00 00}but{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00} {07 14 00}Heh heh!{01 00 00 05 00} Could you,\nuh,{01 01 00} {07 0b 00}{01 00 00 05 00}go instead of me?",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 16 00}Um,{01 00 00 05 00} {04 1f 00}?{01 00 00 0a 00} Actually{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00}\nI have something I want you\nto give to {ff 00 00 06}{04 10 00}{ff 00 00 00}.\n{07 04 00}Why?{01 01 00}{01 00 00 05 00} .{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00}{07 06 00}Well, 'cause{01 00 00 0a 00}\n{01 00 00 0a 00}I'm too embarrassed to do\nit myself!\n{07 16 00}Come on, {04 1f 00},{01 00 00 0a 00} can't\nyou deliver it for me,{01 00 00 0a 00}\n{04 02 00}?",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 14 00}Um,{01 00 00 05 00} {04 1f 00}?{01 00 00 0a 00} You know\n{ff 00 00 06}{04 10 00}{ff 00 00 00}, right?\n\n{07 16 00}Well, I have an urgent\ndelivery for {ff 00 00 06}{04 10 00}{ff 00 00 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n\n{07 1b 00}{01 00 00 05 00}But I'm really busy{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 0b 00}{01 00 00 05 00}Can you{01 00 00 0a 00} deliver it for me?",
+   "et": ""
+  }
+ ]
+}

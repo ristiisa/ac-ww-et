@@ -1,0 +1,35 @@
+{
+ "file": "script/ENG/mail/msg/ev_fishing.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "You made quite a splash!\nThis certifies that your\n{04 11 00} was a\nhuge {04 12 00} inches long!",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "Well done, {04 13 00}!\nYour {04 12 00}-inch-long\n{04 11 00} was an\namazing sight to behold!",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "All hail {04 13 00}, the\nfishing champion! Your\n{04 11 00} was an\nincredible {04 12 00} inches!",
+   "et": ""
+  },
+  {
+   "id": 3,
+   "en": "Tough luck, {04 13 00}.\nPerhaps next time, you'll\nland the big one. Thanks\nfor your participation!",
+   "et": ""
+  },
+  {
+   "id": 4,
+   "en": "{0b 03 00}{04 13 00}, even though\nyou didn't win an award,\nyou won in spirit. In that\nway, we're ALL winners!",
+   "et": ""
+  },
+  {
+   "id": 5,
+   "en": "You may not have won the\ncontest, {04 13 00}, but\nyour gallant efforts won\nour hearts. {00 00 00} ...See?!",
+   "et": ""
+  }
+ ]
+}

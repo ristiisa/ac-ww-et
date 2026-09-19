@@ -1,0 +1,20 @@
+{
+ "file": "script/ENG/message/bo/q01/req2_4_5_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 00 00}Hey, {04 1f 00},{01 00 00 0a 00}{07 0b 00} do you\nknow what kind of bug the\n{0b 02 00}{04 1a 00} is?\n{07 0e 00}It stuns people with its\nbeauty,{01 00 00 0a 00} and people say it's\nreally powerful{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\nIt's like{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00} {07 17 00}Huh huh! It's\nlike {04 19 00}!\nYum{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{01 00 00 05 00}{01 01 00} {01 00 00 0a 00}Oh! I know!\n{07 14 00}Let's see which of us can\ncatch one first, OK?!",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 00 00}Hey, {01 00 00 0a 00}{04 1f 00}, do you\nknow anything about the\n{0b 02 00}{04 1a 00}?\n{07 0b 00}Like, where are that bug's\neyes?{01 00 00 14 00}\n\n{07 0e 00}No matter which direction I\napproach 'em from, they\nalways get away{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 04 00}Oh! I know!{01 00 00 14 00} {07 14 00}Let's have a\nrace to see who can catch\none first!",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 14 00}I think{01 00 00 0a 00} bugs are sooo\nmagical,{01 00 00 0a 00} {04 02 00}.\n\n{07 13 00}They fly through the air,\nland on trees, chirp out\ncomplicated songs{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n{07 04 00}Especially the\n{0b 02 00}{04 1a 00}!{01 00 00 14 00}\n\n{07 19 00}It's like some kind of\nwizard, but with more legs!\n\nSay,{01 00 00 05 00} {04 1f 00},{01 00 00 0a 00} wanna see\nwho can catch one first?",
+   "et": ""
+  }
+ ]
+}

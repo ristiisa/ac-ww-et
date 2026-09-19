@@ -1,0 +1,20 @@
+{
+ "file": "script/ENG/message/bo/q01/comp_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 14 00}I'm so psyched to play with\nmy bug,{01 00 00 0a 00} {04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 17 00}I've put a bug in my room!{01 01 00}\n{07 14 00}It looks awesome, right?",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 14 00}My new life with my pet bug\nis about to begin.\n\n{07 19 00}I bet we'll learn a lot\nabout each other by living\ntogether.{07 00 00}",
+   "et": ""
+  }
+ ]
+}

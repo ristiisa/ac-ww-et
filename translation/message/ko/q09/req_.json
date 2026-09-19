@@ -1,0 +1,20 @@
+{
+ "file": "script/ENG/message/ko/q09/req_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 00 00}Hey you,{01 00 00 05 00} are you into\nespionage and spying and\nall that?\nWhen I have a spare second,\nI try to study up on my\nninja skills, {01 00 00 05 00}{04 02 00}.\nYou know, like hunting down\npeople in the darkness.\n\nI sneak right up behind 'em\nand then scream\n\"I AM BEHIND YOU!\"\n{07 0b 00}Wanna try it, {01 00 00 05 00}{04 02 00}?",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 00 00}All right, rookie.{01 00 00 05 00} What's the\nfirst rule of surviving\na night patrol?\n{07 19 00}Criminals never hide out in\nthe open. {01 00 00 05 00}Why?!\n{01 00 00 05 00}'Cause that'd be STUPID!\n{07 15 00}You gotta STAY ALERT and\nfind 'em before they find\nyou.{01 00 00 05 00}\n{07 15 00}Are you in, or what,\n{04 1f 00}?",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 14 00}Hey, {01 00 00 05 00}{04 1f 00}!{01 00 00 0f 00} Wanna play\n{ff 00 00 02}cowboys and ninjas{ff 00 00 00},\n{01 00 00 05 00}{04 02 00}?\n{07 00 00}Of course, I'll be the ninja.\nYou can be the cowboy,\n{01 00 00 05 00}{04 02 00}.\n{07 06 00}Come on, I know you don't\nhave anything important\nto do! {01 00 00 05 00}Are you in?",
+   "et": ""
+  }
+ ]
+}

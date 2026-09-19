@@ -1,0 +1,30 @@
+{
+ "file": "script/ENG/message/ge/etc/hit_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 05 00}Like, what are you doing?!{01 00 00 14 00}\nAre you crazy, {01 00 00 05 00}{04 02 00}?\nThat hurts!{01 00 00 0a 00} ...So STOP IT!",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 15 00}OUCH! {01 00 00 14 00}{07 08 00}Are you TRYING to\ndestroy my beautiful face,{01 00 00 05 00}\n{04 02 00}?!{01 00 00 14 00} QUIT IT!!",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 15 00}GYYYAAAAAAHHHH!!!{01 01 00} {07 05 00}You hit a\nGIRL!{01 00 00 05 00} What in the heck is\nyour PROBLEM, jerkface?!",
+   "et": ""
+  },
+  {
+   "id": 3,
+   "en": "{07 15 00}{01 0a 00}YOU BIG HUGE JERKFACE!{01 00 00 14 00}\nSTOP HITTING ME WITH THAT\nBIG HUGE STUPID NET!!",
+   "et": ""
+  },
+  {
+   "id": 4,
+   "en": "{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{07 05 00}That's it!{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}. THAT'S IT!{01 01 00}\nYOU'RE GONNA PAY FOR THAT!{01 00 00 14 00}\nI AM SO TOTALLY MAD!{03 02 00 00}",
+   "et": ""
+  }
+ ]
+}

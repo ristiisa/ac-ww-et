@@ -1,0 +1,20 @@
+{
+ "file": "script/ENG/message/ta/q04/con1_2_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 0d 00}{07 14 00}You know, {01 00 00 05 00}I believe that\nclothes are a reflection of\nyour soul, {01 00 00 0a 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 1c 00}{01 00 00 05 00}I'm in a total clothes rut!{01 00 00 05 00}\nI've been wearing the same-\nlooking thing all the time{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00}\n{07 19 00}I think I need to update my\nlook{01 00 00 0a 00} and get more clothes,\n{01 00 00 0a 00}{04 02 00}!{07 15 00}",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 00 00}Thinking about clothes is\nso much fun! {01 01 00}{07 14 00}But wearing\nthem is even more fun!",
+   "et": ""
+  }
+ ]
+}

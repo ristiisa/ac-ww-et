@@ -1,0 +1,70 @@
+{
+ "file": "script/ENG/message/bo/tsu/se_hint_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 19 00}If I died and came back as\nsomething else,{01 00 00 05 00} I'd want to\nbe{01 00 00 05 00} the ocean, {04 02 00}.{07 00 00}\n{06 01 00 03 04 05}",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 00 00}The other day,{01 00 00 0a 00} I met a very\ninteresting person by the\nwater,{01 00 00 0a 00} {04 02 00}.\n{06 01 00 06 07 08}",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{06 00 00 09 0a}",
+   "et": ""
+  },
+  {
+   "id": 3,
+   "en": "{07 14 00}'Cause then{01 00 00 0a 00} my belly would\nalways be filled with\ndelicious seafood!",
+   "et": ""
+  },
+  {
+   "id": 4,
+   "en": "{07 04 00}You know why?{01 00 00 14 00}{07 06 00} 'Cause if I\nwere to sell all the shells\nin the ocean,\n{07 16 00}I bet I could buy a\n{04 15 00}-filled\nhouse, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 5,
+   "en": "{07 13 00}{01 00 00 0a 00}It's big,{01 00 00 0a 00} it's salty, and it's\ncool{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}. I'd be like a gigantic\npot of gazpacho.\n{07 17 00}And in the summer,{01 00 00 0a 00} I'd be\nthe most popular guy\naround, {04 02 00}.",
+   "et": ""
+  },
+  {
+   "id": 6,
+   "en": "{07 14 00}Yeah.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00} It was that \n{ff 00 00 06}cabbie{ff 00 00 00}!\n\n{07 16 00}Apparently, {01 00 00 0a 00}he used to be a\nswarthy sailor{01 00 00 05 00} with a\nstockpile of riches.{01 00 00 0a 00}\n{07 09 00}But then he did something\nway out of line,{01 00 00 05 00} and got\ncanned.\nHmm.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} {07 0c 00}Wait a sec! {01 01 00}{07 02 00}Do you\nthink it was some kind of\nHR violation, {01 00 00 0a 00}{04 02 00}?",
+   "et": ""
+  },
+  {
+   "id": 7,
+   "en": "{07 14 00}Yeah{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} It was this seagull\nwearing a spacesuit!\n\n{07 0b 00}{01 00 00 05 00}So,{01 00 00 05 00} what's the deal with\nthat guy, anyway?\n\n{07 14 00}I wonder if he's just some\nweird dude{01 00 00 0a 00} who likes to\npretend he's an astronaut?",
+   "et": ""
+  },
+  {
+   "id": 8,
+   "en": "{07 19 00}Talk about smelling good, {01 00 00 0a 00}\nlooking fluffy,{01 00 00 0a 00} and acting\nkind of suffocating.{07 00 00}\n{07 13 00}{01 00 00 0a 00}It's like you add\n{04 19 00} to\na pillow and divide by two{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\nI think you know who I'm\ntalkin' about, {04 1f 00}!\nYeah, you do,{01 00 00 0a 00} {04 02 00}! ",
+   "et": ""
+  },
+  {
+   "id": 9,
+   "en": "{07 14 00}The ocean in {04 05 00}\nseems full of vigor and\nverve!{01 00 00 05 00}\n{07 19 00}It's so refreshing, like a\nbig splash of\n{04 13 00}!{07 00 00}",
+   "et": ""
+  },
+  {
+   "id": 10,
+   "en": "{07 0e 00}{01 00 00 0a 00}You know how when you walk\non the beach{01 00 00 0a 00} you leave\nfootprints{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{06 00 00 0b 0c}",
+   "et": ""
+  },
+  {
+   "id": 11,
+   "en": "{07 0d 00}It makes me think of\ndifferent ways to fake\nalibis!",
+   "et": ""
+  },
+  {
+   "id": 12,
+   "en": "If you run across the sand\ntwice before a wave hits\nthe shore,\n{07 0c 00}it's like you've met your\ntrue love!{01 01 00} {07 00 00}And the two sets\nof prints prove it!\n{07 0d 00}Ahh{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} The{01 00 00 05 00} beach is just\nbrimming with romantic\npossibilities, {01 00 00 05 00}{04 02 00}.",
+   "et": ""
+  }
+ ]
+}

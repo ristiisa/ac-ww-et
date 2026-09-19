@@ -1,0 +1,105 @@
+{
+ "file": "script/ENG/message/fu/ev/fmarket3_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 1d 00}Wow! Look at all this stuff!\nYou have impeccable taste,\nthere's no doubt about it.\n{07 14 00}OK, {04 1f 00}, it's time\nfor me to get my shop on!",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 04 00}Wow!{01 00 00 05 00} I didn't think your\nhouse would look so\nfabulous, {01 00 00 05 00}{04 02 00}.\n{07 19 00}You've got a better eye for\ndesign than I'd given you\ncredit for, {01 00 00 05 00}{04 02 00}!{07 14 00}",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 16 00}I'm so cozy here! I feel\nlike I'm finally home.\n\nBut it's not my home! It's\nyours! And it's not fair,\nI tell you, {01 00 00 05 00}{04 02 00}!\n{07 14 00}Oh, you know I'm just\nkidding, {04 1f 00}. But\nyou do have lovely things.\nThanks for letting me look\naround. I should be moving\non to the other houses.",
+   "et": ""
+  },
+  {
+   "id": 3,
+   "en": "{07 00 00}{0b 03 00}{04 1f 00}, I wish I\ncould just buy your whole\nhouse and move in forever.\n{07 16 00}There are so many other\nhouses to see! I can't\nwaste any more time here!",
+   "et": ""
+  },
+  {
+   "id": 4,
+   "en": "{07 14 00}This is a nice place you've\ngot here, {01 00 00 05 00}{04 02 00}!\n\nDon't let anyone tell you\notherwise.",
+   "et": ""
+  },
+  {
+   "id": 5,
+   "en": "{07 19 00}Interesting, {01 00 00 05 00}{04 1f 00}!\n\n\nYou know, this is the last\nthing I'd have expected to\nsee at your house.{07 14 00}",
+   "et": ""
+  },
+  {
+   "id": 6,
+   "en": "{07 00 00}{07 0b 00}So, uh, how much are you\nasking for this dingy old\n{0b 02 00}{04 1a 00}?{02 00 00 ff ff}\nLet's talk!\nNot for sale!",
+   "et": ""
+  },
+  {
+   "id": 7,
+   "en": "{07 00 00}Oh,{01 00 00 05 00} {04 1f 00},{01 00 00 0a 00} hey, I've\ngot a question about this\n{0b 02 00}{04 1a 00}.\nHow much do you want for\nit, {01 00 00 05 00}{04 02 00}?{02 00 00 ff ff}\nHmmm...\nNot selling it!",
+   "et": ""
+  },
+  {
+   "id": 8,
+   "en": "{07 1c 00}I see...{01 00 00 14 00} That's too bad.",
+   "et": ""
+  },
+  {
+   "id": 9,
+   "en": "{07 16 00}Oh!{01 00 00 05 00} That's a shame,\n{01 00 00 05 00}{04 02 00}.",
+   "et": ""
+  },
+  {
+   "id": 10,
+   "en": "{07 1d 00}What?!{01 00 00 0a 00} .{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}{07 06 00}For that piece\nof junk? Are you crazy!?\n\nMaybe if you wanted a\nlittle less, I'd be willing\nto take it, {01 00 00 05 00}{04 02 00}.{02 00 00 ff ff}\nMaaaaaybe...\nNo way!",
+   "et": ""
+  },
+  {
+   "id": 11,
+   "en": "{07 06 00}That's a little out of my\nprice range, to tell you\nthe truth, {01 00 00 05 00}{04 02 00}!\n{07 16 00}Think you could knock the\nprice down a bit?{02 00 00 ff ff}\nI suppose.\nI won't budge!",
+   "et": ""
+  },
+  {
+   "id": 12,
+   "en": "{07 14 00}Great!{01 00 00 0a 00} If that's the price\nyou're selling it for, sign\nme up!{02 00 00 ff ff}\nIt's a deal!\nNo way!",
+   "et": ""
+  },
+  {
+   "id": 13,
+   "en": "{07 00 00}{04 0f 00}?{01 00 00 0a 00} That sounds good.\n{01 00 00 0a 00}{07 0b 00}Are you sure about the\nprice, {01 00 00 05 00}{04 02 00}?{02 00 00 ff ff}\nYup!\nDeal's off!",
+   "et": ""
+  },
+  {
+   "id": 14,
+   "en": "{07 14 00}It's a deal! I'll take your\n{0b 02 00}{04 1a 00}\nfor{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 14 00} {07 0b 00}How many Bells again?\nOh, yeah. {01 00 00 14 00}{07 19 00}{04 0f 00}.{01 01 00} And don't\nyou worry. I'll take good\ncare of it!",
+   "et": ""
+  },
+  {
+   "id": 15,
+   "en": "{07 14 00}We have a deal, then!{01 00 00 14 00}\nI'll just be taking this\n{0b 02 00}{04 1a 00}.",
+   "et": ""
+  },
+  {
+   "id": 16,
+   "en": "{07 06 00}Oh,{01 00 00 05 00} oh, that makes me so\nsad{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.\n\n{07 0f 00}After all this, you just say\nno? That is seriously\nuncool, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 17,
+   "en": "{07 16 00}Oh, {01 00 00 05 00}I see how it is{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 14 00} That's\na shame, {01 00 00 05 00}{04 02 00}.",
+   "et": ""
+  },
+  {
+   "id": 18,
+   "en": "{07 16 00}Oh, {04 1f 00}!{01 00 00 0a 00} Your wallet\nis full! You can't hold any\nmore money, {01 00 00 05 00}{04 02 00}!\n{07 00 00}If you can't hold any more\nmoney, you certainly don't\nneed mine, {01 00 00 05 00}{04 02 00}.\nMaybe when you've had time\nto dump some cash, we can\ndo business, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 19,
+   "en": "{07 04 00}What?!{01 00 00 14 00} Look at you,\nmoneybags! You can't hold\nany more cash!\n{07 16 00}Maybe we should just forget\nabout this deal altogether,\nhuh, {01 00 00 05 00}{04 02 00}!\n{07 00 00}We can talk more later,\nwhen you've sorted out your\nfinancial situation.",
+   "et": ""
+  }
+ ]
+}

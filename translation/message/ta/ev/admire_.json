@@ -1,0 +1,85 @@
+{
+ "file": "script/ENG/message/ta/ev/admire_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 00 00}Listen, {04 1f 00},{01 00 00 14 00} today's\n{ff 00 00 03}Yay Day{ff 00 00 00}, you know?\n\n{07 16 00}It doesn't mean all that\nmuch to me, 'cause I get\ncompliments all the time...\n{07 14 00}But why don't you give it\na try anyway, {01 00 00 0a 00}{04 02 00}?",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 14 00}Oh, {01 00 00 05 00}{04 1f 00},{01 00 00 0a 00} you look\nso nice today! {01 01 00}{07 19 00}You should\nrock this look more often.{07 00 00}\nToday is a day that my\ntown is famous for.{01 00 00 05 00} I'm\ntalking about {ff 00 00 03}Yay Day{ff 00 00 00}!\n{07 0d 00}So,{01 00 00 05 00} why don't you try your\nhand at it and compliment\nme like no one ever has!",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 00 00}\"{0b 03 00}{04 21 00},\" huh{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.{01 01 00}\nHm,{01 00 00 0f 00} {07 14 00}I think I like it!\n\n{07 19 00}Who knew you had such a\nway with words?{01 00 00 14 00} {07 14 00}Not me,\nthat's for sure!",
+   "et": ""
+  },
+  {
+   "id": 3,
+   "en": "{07 00 00}\"{0b 03 00}{04 21 00},\" huh.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n{07 17 00}When you say it to my face,{01 00 00 05 00}\nit's kind of embarrassing{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.\n{07 16 00}But I DO appreciate it.\nThank you so very much,\n{01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 4,
+   "en": "{07 14 00}When you think of me, is\nthe first thing you think {01 00 00 05 00}\n\"{04 21 00}\"?",
+   "et": ""
+  },
+  {
+   "id": 5,
+   "en": "It's like the compliment\n\"{04 21 00}\" was\nmade for me, {01 00 00 05 00}{04 02 00}.",
+   "et": ""
+  },
+  {
+   "id": 6,
+   "en": "{0b 03 00}{01 06 00}Tee hee hee{01 07 00}!\nOh, {01 00 00 14 00}{04 1f 00}...",
+   "et": ""
+  },
+  {
+   "id": 7,
+   "en": "{07 00 00}I know you said\n\"{04 21 00},\" but {01 00 00 05 00}{07 0b 00}do\nyou really think it fits me?",
+   "et": ""
+  },
+  {
+   "id": 8,
+   "en": "{07 00 00}Hey, {04 1f 00},{01 00 00 0a 00} {07 16 00}what does\n{04 21 00} mean,\nexactly?\n{07 0b 00}Do you really think it\nsuits me, {01 00 00 0a 00}{04 02 00}?",
+   "et": ""
+  },
+  {
+   "id": 9,
+   "en": "{07 14 00}.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}Say, {01 00 00 05 00}do you really think\n\"{04 21 00}\" suits\nme?",
+   "et": ""
+  },
+  {
+   "id": 10,
+   "en": "{07 14 00}Yeah, {01 00 00 0a 00}I guess you're right,\n{01 00 00 05 00}{04 02 00}.",
+   "et": ""
+  },
+  {
+   "id": 11,
+   "en": "{07 14 00}Yeah, {01 00 00 05 00}that's me to a tee!\n\"{0b 03 00}{04 21 00}\"! {01 01 00}{07 1b 00}It's so\nnot me to be so insecure.",
+   "et": ""
+  },
+  {
+   "id": 12,
+   "en": "{07 02 00}No way!{01 00 00 0a 00} You think so?!{01 00 00 0a 00} {07 1c 00}Oh.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}I\nget it.{01 00 00 0a 00} Well, now you have\nto{01 00 00 05 00} compliment me again.",
+   "et": ""
+  },
+  {
+   "id": 13,
+   "en": "{07 02 00}You don't really mean that,\nright?{01 00 00 0a 00}\n\n{07 1c 00}You should really try to\ncompliment me seriously on\nthe big day!\n{07 15 00}Ugh!{01 00 00 05 00} Do it right this time, \n{01 00 00 0a 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 14,
+   "en": "{07 19 00}\"{0b 03 00}{04 21 00}\"{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}. {01 01 00}{07 00 00}So,{01 00 00 0a 00}\ndo you think that this time\n{07 0b 00}you got it right?\n\"{0b 03 00}{04 21 00}\"{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.{01 01 00} {07 13 00}OK, I\nguess I like the way it\nsounds, {01 00 00 0a 00}{04 02 00}.",
+   "et": ""
+  },
+  {
+   "id": 15,
+   "en": "{07 16 00}\"{0b 03 00}{04 21 00},\" huh{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.{01 01 00}\n{07 00 00}Hm,{01 00 00 0a 00} that sounds kinda\nnice. \nFrom now on, {01 00 00 03 00}I'm going to \nlive up to{01 00 00 05 00} the compliment\n\"{04 21 00}\"!",
+   "et": ""
+  }
+ ]
+}

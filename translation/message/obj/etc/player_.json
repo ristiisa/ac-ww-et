@@ -1,0 +1,100 @@
+{
+ "file": "script/ENG/message/obj/etc/player_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "I can't carry any more, so\nI guess I'll just leave it.",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "Check out what I dug up!\n{0b 03 00}{04 1a 00}!",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "Oh, {01 00 00 05 00}I'm carrying too much!{01 00 00 05 00}\nNow what?{02 04 00 00 00}\nSwap it.\nDrop it.",
+   "et": ""
+  },
+  {
+   "id": 3,
+   "en": "But {01 00 00 05 00}I'm carrying too much!\nNow what?{02 04 00 00 00}\nSwap it.\nBury it again.",
+   "et": ""
+  },
+  {
+   "id": 4,
+   "en": "Want a different bed?{02 04 00 00 00}\nSwitch!\nNever mind.",
+   "et": ""
+  },
+  {
+   "id": 5,
+   "en": "{0b 03 00}{0b 02 00}{04 1a 00}...",
+   "et": ""
+  },
+  {
+   "id": 6,
+   "en": "\nNothing is playing.",
+   "et": ""
+  },
+  {
+   "id": 10,
+   "en": "Aw...{01 00 00 05 00} Rats!\n\nMy axe broke!",
+   "et": ""
+  },
+  {
+   "id": 20,
+   "en": "I got stung by BEES!\n\nOw! Ow ow ow ow!",
+   "et": ""
+  },
+  {
+   "id": 21,
+   "en": "I got bit by a mosquito! {01 00 00 05 00}\n\nSo...{01 00 00 05 00}very...{01 00 00 05 00}ITCHY!",
+   "et": ""
+  },
+  {
+   "id": 30,
+   "en": "Yes! {01 00 00 00 00}Look what I caught!\n\n\nI got the {ff 00 00 07}golden net{ff 00 00 00}!\nI'm gonna take care of it!{00 00 00}",
+   "et": ""
+  },
+  {
+   "id": 31,
+   "en": "Look at what I caught!\n\n\nI reeled in the {ff 00 00 07}golden\nfishing rod{ff 00 00 00}!\nLook out fishies!",
+   "et": ""
+  },
+  {
+   "id": 32,
+   "en": "I did it!\n\n\nI got the {ff 00 00 07}golden axe{ff 00 00 00}!\nThis won't ever break!",
+   "et": ""
+  },
+  {
+   "id": 33,
+   "en": "I did it!\n\n\nI got the {ff 00 00 07}golden shovel{ff 00 00 00}!\n\nWhat does it do?",
+   "et": ""
+  },
+  {
+   "id": 34,
+   "en": "I did it!\n\n\nI got the {ff 00 00 07}golden watering\ncan{ff 00 00 00}!\n\nJust try and stop me from\nwatering!",
+   "et": ""
+  },
+  {
+   "id": 35,
+   "en": "BULL'S-EYE!\n\n\nI got the {ff 00 00 07}golden slingshot{ff 00 00 00}!\n\nI'm right on target!",
+   "et": ""
+  },
+  {
+   "id": 37,
+   "en": "WAHOO!\n\nI got the {ff 00 00 07}four-leaf clover{ff 00 00 00}!\n\nI'm so lucky!",
+   "et": ""
+  },
+  {
+   "id": 40,
+   "en": "\n{01 08 00}ALL RIGHT!\n\nMy home loan{01 00 00 05 00}\n\nis ALL paid off!",
+   "et": ""
+  },
+  {
+   "id": 41,
+   "en": "\n{01 08 00}YAHOO!\n\nI'm done with work!{01 00 00 0f 00}\n\nNow, I'm FREE!",
+   "et": ""
+  }
+ ]
+}

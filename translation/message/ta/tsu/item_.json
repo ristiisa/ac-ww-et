@@ -1,0 +1,140 @@
+{
+ "file": "script/ENG/message/ta/tsu/item_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 14 00}Hey, {01 00 00 05 00}{04 1f 00}!{01 00 00 0a 00} {07 00 00}Wanna\ntest your luck and brains\nwith a little trivia?{02 00 00 03 04}\nBring it!\nNo, thanks.",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 14 00}OK, {01 00 00 0a 00}y'know how some people\nthink there's a prime age\nfor falling in love?\n{07 0b 00}{01 00 00 05 00}What do you think that\nage is, {04 1f 00}?{05 05 00 02 0f 08 10 03 11 03 12}\nSixties\nTeens",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{06 03 00 0d 17}",
+   "et": ""
+  },
+  {
+   "id": 3,
+   "en": "{01 00 00 0a 00}{07 1b 00}{01 00 00 05 00}That's the spirit!{01 00 00 0f 00} All righty\nthen. {01 00 00 0f 00}Imagine there's a red\ncard and a white card here.\n{07 14 00}I'm going to ask you a\nquestion, and then you pick\nthe right answer.\n{07 00 00}Here's the first question!{01 01 00}\n{07 0b 00}{01 00 00 05 00}Your mom is yelling at your\ndad, and his face turns...{02 00 00 05 06}\nRed.\nWhite.",
+   "et": ""
+  },
+  {
+   "id": 4,
+   "en": "{07 16 00}Oh, {01 00 00 05 00}really?{01 00 00 0f 00} Too bad.{01 00 00 05 00} It's\nyour loss, {01 00 00 0a 00}{04 02 00}.",
+   "et": ""
+  },
+  {
+   "id": 5,
+   "en": "{07 14 00}Ha ha!{01 00 00 05 00} That is correct!{01 01 00}\n{07 00 00}And now, on to question\nnumber two, {01 00 00 05 00}{04 02 00}!\n{07 16 00}A stern gentleman in his\nforties is standing by a\nfountain in the mall.\n{07 14 00}What color sombrero is he\nwearing on his head,\n{01 00 00 05 00}{04 02 00}?{02 00 00 0b 0b}\nRed.\nWhite.",
+   "et": ""
+  },
+  {
+   "id": 6,
+   "en": "{07 14 00}Yesssssss! {01 00 00 05 00}You are right!{01 01 00}\n{07 00 00}On to your second question,\n{01 00 00 05 00}{04 02 00}!\n{07 13 00}{01 00 00 0a 00}A handsome man says to me,\n\"{ff 00 00 02}Your handkerchief, miss{ff 00 00 00},\"\nand starts a romance.\n{07 14 00}And{01 00 00 05 00} now for the question.{01 00 00 14 00}\nWhat color handkerchief am\nI carrying?{02 00 00 0b 0b}\nRed.\nWhite.",
+   "et": ""
+  },
+  {
+   "id": 7,
+   "en": "{07 15 00}That's very impressive,\nbraniac.{01 00 00 14 00} {07 00 00}Well, then,{01 00 00 0a 00} here's\nyour final question.",
+   "et": ""
+  },
+  {
+   "id": 8,
+   "en": "{07 15 00}I gotta say,{01 00 00 05 00} I'm impressed.{01 00 00 14 00}{07 00 00}\nGet ready for your last\nquestion!{01 00 00 0a 00} READY?!\n{07 0c 00}{01 00 00 0a 00}Here it is!{01 00 00 0a 00} What color are\nthe {ff 00 00 06}mayor{ff 00 00 00}'s long johns?!{02 00 00 0a 0a}\nRed...?\nWhite...?",
+   "et": ""
+  },
+  {
+   "id": 9,
+   "en": "{07 14 00}In my yard, a single rose\ngrows, {01 00 00 0a 00}{04 02 00}. {01 00 00 0a 00}Now let\nme ask you, {04 02 00}.\n{07 0b 00}Is the rose {01 00 00 0a 00}red, signifying\npassion and romance? {01 00 00 0a 00}{07 14 00}Or is\nit{01 00 00 0a 00} a proud and cold white?{01 00 00 0a 00}{02 00 00 0c 0c}\nRed.\nWhite.",
+   "et": ""
+  },
+  {
+   "id": 10,
+   "en": "{01 00 00 0a 00}{07 1b 00}{01 00 00 05 00}Oh, no.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} Too bad!{01 00 00 14 00} The\n{ff 00 00 06}mayor{ff 00 00 00}'s long johns are, in\nfact, pink! {01 00 00 05 00}{0b 03 00}{04 02 00}!\n{07 19 00}In this case,{01 00 00 0a 00} the correct\nresponse would have been to\npick both cards.{07 00 00}",
+   "et": ""
+  },
+  {
+   "id": 11,
+   "en": "{06 01 00 07 07 08}",
+   "et": ""
+  },
+  {
+   "id": 12,
+   "en": "{07 14 00}{01 00 00 0a 00}Tee hee!{01 00 00 0a 00} That is correct!{01 00 00 14 00}\n{07 0d 00}And your prize is\n{04 1a 00}!",
+   "et": ""
+  },
+  {
+   "id": 13,
+   "en": "{06 00 00 16 17}",
+   "et": ""
+  },
+  {
+   "id": 14,
+   "en": "{07 00 00}Do whatever you want with\nit, {01 00 00 0a 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 15,
+   "en": "{07 0e 00}Huh?{01 00 00 14 00} {07 0c 00}{01 00 00 05 00}Oh,{01 00 00 05 00} I get it! {07 14 00}You think\nthat even kids understand\nlove, right? {01 00 00 0f 00}Big hippie!\n{06 01 00 13 14 14}",
+   "et": ""
+  },
+  {
+   "id": 16,
+   "en": "{07 04 00}Whoa, {01 00 00 0a 00}coming from you,\nthat's a pretty solid\nresponse, {01 00 00 05 00}{04 02 00}!\n{07 14 00}Have you been watching{01 00 00 0a 00}\nthose cheesy made-for-TV\nromances again?",
+   "et": ""
+  },
+  {
+   "id": 17,
+   "en": "{07 0a 00}Yes, I totally agree with\nyou.{01 01 00} {07 14 00}For getting the\ncorrect answer...\n...please accept my\n{0b 02 00}{04 1a 00} as\nyour prize, {01 00 00 0a 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 18,
+   "en": "{07 0e 00}{01 00 00 0a 00}Umm{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 14 00}{07 16 00} Well, that's an age I\njust can't relate to. And\nthat's that.\n{07 09 00}I suppose someday I will{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 1c 00}{01 00 00 0a 00}That is so depressing,\n{01 00 00 0a 00}{04 02 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{03 03 00 03}",
+   "et": ""
+  },
+  {
+   "id": 19,
+   "en": "{07 00 00}{01 00 00 0a 00}So, would this be considered{01 00 00 0a 00}\nan adult relationship?{01 00 00 14 00}\n{07 19 00}That's deep, {01 00 00 0a 00}{04 02 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.",
+   "et": ""
+  },
+  {
+   "id": 20,
+   "en": "{07 09 00}{01 00 00 05 00}I see your point of view.{01 00 00 05 00}\nPlease accept this gift of\n{04 1a 00}.",
+   "et": ""
+  },
+  {
+   "id": 21,
+   "en": "{07 16 00}Well, {01 00 00 05 00}good luck, I guess,\n{01 00 00 0a 00}{04 02 00}.",
+   "et": ""
+  },
+  {
+   "id": 22,
+   "en": "{07 16 00}Hey, {01 00 00 05 00}{04 1f 00}.{01 00 00 0f 00} {07 0b 00}Tell me,\nwhat kind of makeup are\nboys really into?{02 01 00 18 19 1a}\nClown makeup!\nSimple makeup.\nWho cares?",
+   "et": ""
+  },
+  {
+   "id": 23,
+   "en": "{07 0b 00}Do you like how my makeup\nlooks today? {01 00 00 0a 00}It's a new look\nfor me, {01 00 00 05 00}{04 02 00}!\n{07 14 00}Hee hee! {01 00 00 0a 00}This is the latest\nblush by Nintendique,\n{01 00 00 05 00}{04 02 00}!\n{07 00 00}I got so much they gave me\n{04 1a 00}.{01 00 00 0a 00}\n{07 14 00}Here,{01 00 00 05 00} you can have it! ",
+   "et": ""
+  },
+  {
+   "id": 24,
+   "en": "{07 02 00}Is that{01 00 00 0a 00} REALLY what guys\nlike?{01 01 00} {07 0b 00}Or are you just\nmessing with my head?\n{07 0e 00}{01 00 00 0a 00}I guess a really cute girl\ncould pull it off{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00}maybe.\n{07 07 00}But I'm scared of clowns.",
+   "et": ""
+  },
+  {
+   "id": 25,
+   "en": "{07 0c 00}{01 00 00 0a 00}Oh, you mean the\nprofessional look, right,\n{01 00 00 0a 00}{04 02 00}?\n{07 14 00}Yes, I, too, salute career\nladies everywhere! {01 00 00 0a 00}After\nall, I am one, {01 00 00 0a 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 26,
+   "en": "{07 1c 00}{01 00 00 0a 00}Oh{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00} So you think boys like\nthe natural look?{01 00 00 0a 00} {07 1b 00}{01 00 00 05 00}I didn't\nexpect you to say that.",
+   "et": ""
+  }
+ ]
+}

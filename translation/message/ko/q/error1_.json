@@ -1,0 +1,15 @@
+{
+ "file": "script/ENG/message/ko/q/error1_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 00 00}You've got a lot to \nlearn.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{04 02 00}.\n\n{07 15 00}You're so hasty! You gotta \nbe more patient. Let's try\n'er over, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 00 00}Whoa there. You're way too\nquick to respond!\n\n{07 15 00}You didn't even give me\ntime to prepare! I wasn't\nready, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  }
+ ]
+}

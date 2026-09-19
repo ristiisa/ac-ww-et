@@ -1,0 +1,20 @@
+{
+ "file": "script/ENG/message/ha/q02/nlose_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 02 00}DANG!{01 00 00 0a 00} You reeled one of\nthose babies in already?!\nOh, {01 00 00 05 00}{04 02 00}!\n{07 06 00}You're not gonna just flop\nover like a fish and let me\nwin, are you?",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 02 00}HOLD UP! {01 00 00 05 00}You\nalready got one,{01 00 00 05 00}\n{04 02 00}?\n{07 06 00}Oh, if it weren't for this\npulled{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}uhh{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}trapezoid,\nI woulda had one hours ago!\nYeah...and my sore rhombus.\nIt's been killin' me.",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 02 00}What a load of CARBS!{01 00 00 14 00}\n{07 16 00}You're too fast for your\nown good, {01 00 00 05 00}{04 02 00}!\n{07 00 00}Well, the race doesn't\nalways go to the beefiest\ndude{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{04 02 00}!\n{07 06 00}Wimps have got to win\nsometimes, too!",
+   "et": ""
+  }
+ ]
+}

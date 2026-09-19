@@ -1,0 +1,120 @@
+{
+ "file": "script/ENG/message/bo/ev/karaoke_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 14 00}Hey, {01 00 00 05 00}{04 1f 00}.{01 00 00 0a 00} Did you\nhear?! {01 00 00 05 00}Today's {ff 00 00 03}La-Di-Day{ff 00 00 00}!{01 00 00 0a 00}\nAre you in for a treat!\n{07 0d 00}You get a chance to hear\nmy fancy vocal stylings\ntoday!\nSo be sure to use my\nmelody for the town tune,\n{01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 14 00}Hey, {01 00 00 05 00}{04 1f 00}.{01 00 00 0a 00} Today's\n{ff 00 00 03}La-Di-Day{ff 00 00 00}!\n\nSo the best song gets\nturned into {07 0b 00}the town tune,\nright, {01 00 00 05 00}{04 02 00}?\n{07 0a 00}I've been practicing my\nscales ALL YEAR, {01 00 00 05 00}so I know\nit's totally gonna be MINE!",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 14 00}Hey, {01 00 00 05 00}{04 1f 00}.{01 00 00 0a 00} {ff 00 00 03}La-Di-Day\n{ff 00 00 00}is today!{01 01 00}{07 04 00} Hey, that rhymed!\nI'm a natural songwriter!\n{07 00 00}Anyway, so the best song\ngets to be the new town\ntune.\n{07 0d 00}It's pretty clear from that\nlittle ditty I whipped up\nthat I have it in the bag.",
+   "et": ""
+  },
+  {
+   "id": 3,
+   "en": "{07 04 00}Hey, {01 00 00 05 00}{04 1f 00},{01 00 00 0a 00} wanna\nhear my{01 00 00 0a 00} funky jam? {01 00 00 0a 00}Yeah?{01 01 00}\n{07 0d 00}Dig this crazy tune!",
+   "et": ""
+  },
+  {
+   "id": 4,
+   "en": "{07 14 00}Hey, {01 00 00 05 00}hey,{01 00 00 0f 00} {04 1f 00}!{01 01 00}\n{07 00 00}Check this out, {01 00 00 0a 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 5,
+   "en": "{07 0d 00}Hey, {01 00 00 05 00}{04 1f 00}, buddy,{01 00 00 14 00}\nhave I got a show-stopper\nfor you!\n{07 00 00}Wanna hear it, {01 00 00 0a 00}{04 02 00}?",
+   "et": ""
+  },
+  {
+   "id": 6,
+   "en": "{07 17 00}Huh huh huh! {01 00 00 05 00}Well, that\ncould have gone better{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n{07 0b 00}What did you think?",
+   "et": ""
+  },
+  {
+   "id": 7,
+   "en": "{07 14 00}Whew{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 14 00} Well, what did you\nthink{01 00 00 05 00} of my song?{01 01 00} {07 0b 00}Pretty\ncatchy, huh!",
+   "et": ""
+  },
+  {
+   "id": 8,
+   "en": "{07 0a 00}All right!{01 00 00 14 00} Thanks a million,\n{01 00 00 05 00}{04 1f 00}!{01 01 00} {07 11 00}I'm gonna go\ngloat to {ff 00 00 06}{04 0c 00}{ff 00 00 00} now.",
+   "et": ""
+  },
+  {
+   "id": 9,
+   "en": "{07 14 00}Huh huh huh!{01 00 00 0a 00} Yahoo! {01 01 00}{07 0d 00}I guess\nthis means I'm topping the\ntown tune chart!",
+   "et": ""
+  },
+  {
+   "id": 10,
+   "en": "{07 1c 00}{01 00 00 05 00}Hooowah, {01 00 00 05 00}maybe I went a\ntad overboard there,\n{01 00 00 0a 00}{04 02 00}",
+   "et": ""
+  },
+  {
+   "id": 11,
+   "en": "{07 06 00}Wh{01 00 00 05 00}-what?! {07 1c 00}{01 00 00 05 00}Hmm, maybe I\nshould've used some jazz\nhands in my act{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.",
+   "et": ""
+  },
+  {
+   "id": 12,
+   "en": "{07 16 00}Oh, {01 00 00 0a 00}really?{01 00 00 14 00} Well, that's too\nbad, {01 00 00 0a 00}{04 02 00}.",
+   "et": ""
+  },
+  {
+   "id": 13,
+   "en": "{07 06 00}Uh, {01 00 00 0a 00}uhh{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00}",
+   "et": ""
+  },
+  {
+   "id": 14,
+   "en": "{07 15 00}Well, {ff 00 00 06}{04 0c 00} {ff 00 00 00}might be\npretty good{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.\n\n{07 05 00}{01 00 00 05 00}But if I add some {01 00 00 05 00}sweet\ndance moves, {ff 00 00 06}{04 0c 00} {ff 00 00 00}is\ngonna be toast!",
+   "et": ""
+  },
+  {
+   "id": 15,
+   "en": "{07 0d 00}Huh huh! {01 00 00 0a 00}I was practicing\nmy moves with {ff 00 00 06}{04 0b 00}{ff 00 00 00}\nyesterday, {01 00 00 0a 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 16,
+   "en": "{07 14 00}Whoo-hoo!{00 01 00} {ff 00 00 03}La-Di-Day {ff 00 00 00}is\njust the best, man! {01 00 00 0a 00}{07 0d 00}I'm\ngonna sing my head off!",
+   "et": ""
+  },
+  {
+   "id": 17,
+   "en": "{07 14 00}Singing at people is pretty\nfun, huh? {01 00 00 0a 00}{07 03 00}They always give\nyou the funniest looks!\n{07 00 00}Oh, and, uh,{01 00 00 05 00} did you {07 0b 00}need\nsomething, {01 00 00 0a 00}{04 02 00}?",
+   "et": ""
+  },
+  {
+   "id": 18,
+   "en": "{07 14 00}Singing is SOOO fun! {01 00 00 0a 00}{07 0e 00}Well,\nnot as fun as eating a\nsnack, but what is?\n{07 0b 00}Oh, can I help you with\nsomething?",
+   "et": ""
+  },
+  {
+   "id": 19,
+   "en": "{ff 00 00 04}{07 16 00}CRACKLE HUHWEEZE...{ff 00 00 00}{01 00 00 0a 00} I'm\nlosing my voice from all\nthis singing!\n{07 0b 00}Hey, {04 1f 00},{01 00 00 14 00} what do\nyou need?",
+   "et": ""
+  },
+  {
+   "id": 20,
+   "en": "{01 04 00}{07 00 00}All right, {01 00 00 03 00}focus your\nattention, if you will,{01 00 00 05 00}\nto my gut, {01 00 00 05 00}{04 02 00}!\n{07 14 00}Here I go{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.{07 0d 00}{01 00 00 1e 00}{01 10 00 05}{01 05 00}",
+   "et": ""
+  },
+  {
+   "id": 21,
+   "en": "{01 04 00}{07 00 00}A huh huh huh huh{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00} {07 14 00}All\nright, {01 00 00 05 00}I'm gonna sing from\nmy belly!\n{07 00 00}Here I go{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.{07 0d 00}{01 00 00 1e 00}{01 10 00 05}{01 05 00}",
+   "et": ""
+  },
+  {
+   "id": 22,
+   "en": "{01 04 00}{07 14 00}A huh huh huh!{01 00 00 0a 00} I'm so happy\nI wore my leotard today!\n\n{07 00 00}So, {01 00 00 05 00}listen up{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.{07 0d 00}{01 00 00 1e 00}{01 10 00 05}{01 05 00}",
+   "et": ""
+  }
+ ]
+}

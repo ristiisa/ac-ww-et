@@ -1,0 +1,20 @@
+{
+ "file": "script/ENG/message/ge/q07/scold_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 16 00}Aw, weak, {ff 00 00 06}{04 10 00}{ff 00 00 00}...{01 00 00 05 00}\nI wish I could say that I'm\nnot bummed{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{04 02 00}.",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 0f 00}Maybe I expected too much\nof you, {01 00 00 05 00}{04 02 00}...",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 16 00}Y'know,{01 00 00 05 00} {ff 00 00 06}{04 10 00} {ff 00 00 00}can be\nSUPER picky about stuff\nlike this{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.",
+   "et": ""
+  }
+ ]
+}

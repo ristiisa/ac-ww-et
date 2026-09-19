@@ -1,0 +1,325 @@
+{
+ "file": "script/ENG/message/obj/etc/getfish_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "I caught a bitterling!{01 00 00 05 00}\n\nSo small, so very bitter!",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "I caught a pale chub!{01 00 00 05 00}\n\nHm...{01 00 00 05 00} It could use some sun.",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "I caught a crucian carp!{01 00 00 05 00}\n\nCarpe diem!{01 00 00 05 00}",
+   "et": ""
+  },
+  {
+   "id": 3,
+   "en": "I caught a dace!{01 00 00 05 00}\n\nDace in the hole!",
+   "et": ""
+  },
+  {
+   "id": 4,
+   "en": "I caught a barbel steed!{01 00 00 05 00}\n\nI'm not horsin' around!",
+   "et": ""
+  },
+  {
+   "id": 5,
+   "en": "I caught a carp!{01 00 00 05 00}\n\nCarpe carp!",
+   "et": ""
+  },
+  {
+   "id": 6,
+   "en": "I caught a koi!{01 00 00 05 00}\n\nDon't be coy! {ff 00 00 04}(Ugh.)",
+   "et": ""
+  },
+  {
+   "id": 7,
+   "en": "I caught a goldfish!{01 00 00 05 00}\n\nWorth its weight in...fish!",
+   "et": ""
+  },
+  {
+   "id": 8,
+   "en": "I caught a popeyed goldfish!{01 00 00 05 00}\n\nI think he's in shock!",
+   "et": ""
+  },
+  {
+   "id": 9,
+   "en": "I caught a killifish!{01 00 00 05 00}\n\nWhat's the dilly, fish? {ff 00 00 04}(Ow!)",
+   "et": ""
+  },
+  {
+   "id": 10,
+   "en": "I caught a crawfish!{01 00 00 05 00}\n\nStick THAT in your craw!",
+   "et": ""
+  },
+  {
+   "id": 11,
+   "en": "I caught a frog!{01 00 00 05 00}\n\nLeapin'...lizards?",
+   "et": ""
+  },
+  {
+   "id": 12,
+   "en": "I caught a freshwater goby!{01 00 00 05 00}\n\nNow, go be in my pocket!{01 00 00 05 00}",
+   "et": ""
+  },
+  {
+   "id": 13,
+   "en": "I caught a loach!{01 00 00 05 00}\n\nI'm the loach coach!{01 00 00 05 00} ",
+   "et": ""
+  },
+  {
+   "id": 14,
+   "en": "I caught a catfish!{01 00 00 05 00}\n\nHere, kitty-kitty!",
+   "et": ""
+  },
+  {
+   "id": 15,
+   "en": "I caught an eel!{01 00 00 05 00}\n\nSlippery little sucker!",
+   "et": ""
+  },
+  {
+   "id": 16,
+   "en": "I caught a giant snakehead!{01 00 00 05 00}\n\n{01 00 00 05 00}ACK! It's got a huge head!",
+   "et": ""
+  },
+  {
+   "id": 17,
+   "en": "I caught a bluegill!{01 00 00 05 00}\n\nWhy's the little guy so sad?",
+   "et": ""
+  },
+  {
+   "id": 18,
+   "en": "I caught a yellow perch!{01 00 00 05 00}\n\nPerch in my belly!",
+   "et": ""
+  },
+  {
+   "id": 19,
+   "en": "I caught a black bass.{01 00 00 05 00}\n\n{01 00 00 05 00}That couldn't BE more bass!",
+   "et": ""
+  },
+  {
+   "id": 20,
+   "en": "I caught a pond smelt!{01 00 00 05 00}\n\nWhat's the pond smell like?",
+   "et": ""
+  },
+  {
+   "id": 21,
+   "en": "I caught a sweetfish!{01 00 00 05 00}\n\nSweeeeet!",
+   "et": ""
+  },
+  {
+   "id": 22,
+   "en": "I caught a cherry salmon!{01 00 00 05 00}\n\nWeird...{01 00 00 05 00} It smells like fish.",
+   "et": ""
+  },
+  {
+   "id": 23,
+   "en": "I caught a large char!{01 00 00 05 00}\n\nReady? Set? Char...ge!",
+   "et": ""
+  },
+  {
+   "id": 24,
+   "en": "I caught a rainbow trout!{01 00 00 05 00}\n\nA{01 00 00 05 00} trout of many colors!",
+   "et": ""
+  },
+  {
+   "id": 25,
+   "en": "Whoa.{01 00 00 05 00}.{01 00 00 05 00}.\n\nI caught a stringfish!\nI completely rock!{01 00 00 05 00}\n\nYIPPEEEEEE!",
+   "et": ""
+  },
+  {
+   "id": 26,
+   "en": "I caught a salmon!{01 00 00 05 00}\n\nWelcome back!",
+   "et": ""
+  },
+  {
+   "id": 27,
+   "en": "Woo hoo!{01 00 00 05 00}\n\nI caught a king salmon!\nAll hail the king!\n\n...For I am the fish king!{00 01 00}",
+   "et": ""
+  },
+  {
+   "id": 28,
+   "en": "I caught a guppy!{01 00 00 05 00}\n\nSmall...but what a bite!",
+   "et": ""
+  },
+  {
+   "id": 29,
+   "en": "I caught an angelfish!{01 00 00 05 00}\n\nHow heavenly!",
+   "et": ""
+  },
+  {
+   "id": 30,
+   "en": "I caught a piranha!{01 00 00 05 00}\n\nHe'd better not catch me!{00 01 00}",
+   "et": ""
+  },
+  {
+   "id": 31,
+   "en": "I caught an arowana!{01 00 00 05 00}\n\nIt's golden and beautiful!",
+   "et": ""
+  },
+  {
+   "id": 32,
+   "en": "Whoa!{01 00 00 05 00}\n\nA golden fish...!?\nI think this is a dorado!{01 00 00 05 00}\n\nWho knew they lived here!?",
+   "et": ""
+  },
+  {
+   "id": 33,
+   "en": "I caught a gar!{01 00 00 05 00}\n\n...Nose like a GARden hose!",
+   "et": ""
+  },
+  {
+   "id": 34,
+   "en": "I caught an arapaima!{01 00 00 05 00}\n\nIt's big...and kinda gross!",
+   "et": ""
+  },
+  {
+   "id": 35,
+   "en": "I caught a sea butterfly!{01 00 00 05 00}\n\nI didn't even use a net!",
+   "et": ""
+  },
+  {
+   "id": 36,
+   "en": "I caught a jellyfish!{01 00 00 05 00}\n\nI'm in some kind of jam!",
+   "et": ""
+  },
+  {
+   "id": 37,
+   "en": "I caught a seahorse!{01 00 00 05 00}\n\nGiddy up! YEE HAW!",
+   "et": ""
+  },
+  {
+   "id": 38,
+   "en": "I caught a clownfish!{01 00 00 05 00}\n\nWho's laughing now!?",
+   "et": ""
+  },
+  {
+   "id": 39,
+   "en": "I caught a zebra\nturkeyfish!{01 00 00 05 00}\nNo gobbling those spines!",
+   "et": ""
+  },
+  {
+   "id": 40,
+   "en": "I caught a puffer fish!{01 00 00 05 00}\n\nSo cute! SO painful!",
+   "et": ""
+  },
+  {
+   "id": 41,
+   "en": "I caught a horse mackerel!{01 00 00 05 00}\n\nNay!?{01 00 00 05 00} Yay!",
+   "et": ""
+  },
+  {
+   "id": 42,
+   "en": "I caught a barred knifejaw!{01 00 00 05 00}\n\n\nWith that jaw, it SHOULD\nbe barred!",
+   "et": ""
+  },
+  {
+   "id": 43,
+   "en": "I caught a sea bass!{01 00 00 05 00}\n\nNot again!",
+   "et": ""
+  },
+  {
+   "id": 44,
+   "en": "I caught a red snapper!{01 00 00 05 00}\n\nOoh, SNAP!",
+   "et": ""
+  },
+  {
+   "id": 45,
+   "en": "I caught a dab...{01 00 00 05 00}\nDidja see it?\nYou {01 00 00 05 00}are a dab, right?",
+   "et": ""
+  },
+  {
+   "id": 46,
+   "en": "I caught a dab!{01 00 00 05 00}\n\n\nOh wait...{01 00 00 05 00} Are you an\nolive flounder?{01 00 00 05 00} Oh, yeah,\nyou are, aren't you?",
+   "et": ""
+  },
+  {
+   "id": 47,
+   "en": "I caught a squid!{01 00 00 05 00}\n\nOh, no, I squidn't!",
+   "et": ""
+  },
+  {
+   "id": 48,
+   "en": "I caught an octopus!{01 00 00 05 00}\n\nYou're mine, suckers!",
+   "et": ""
+  },
+  {
+   "id": 49,
+   "en": "I caught a football fish!\n\n\nWell, well...{01 00 00 05 00}\n\nYou've come a long way!",
+   "et": ""
+  },
+  {
+   "id": 50,
+   "en": "I caught a tuna!{01 00 00 05 00}\n\nAnd I'm not talking canned!",
+   "et": ""
+  },
+  {
+   "id": 51,
+   "en": "I caught a blue marlin!{01 00 00 05 00}\n\nWhy so blue, marlin?",
+   "et": ""
+  },
+  {
+   "id": 52,
+   "en": "I caught an ocean sunfish!{01 00 00 05 00}\n\nDon't look directly at it!{00 01 00}",
+   "et": ""
+  },
+  {
+   "id": 53,
+   "en": "I caught a hammerhead\nshark!{01 00 00 05 00}\n\nGot any nails?",
+   "et": ""
+  },
+  {
+   "id": 54,
+   "en": "I caught a shark!{01 00 00 05 00}\n\nIt was a shark attack!",
+   "et": ""
+  },
+  {
+   "id": 55,
+   "en": "Whoa! Whoa! Whoa!{01 00 00 05 00}\n\nI caught a living fossil!{01 00 00 05 00}\nAmazing!{01 00 00 05 00}\nWhat were you doing down\nthere?",
+   "et": ""
+  },
+  {
+   "id": 56,
+   "en": "I caught a tin can!{01 00 00 05 00}\n\nYou CAN't litter!",
+   "et": ""
+  },
+  {
+   "id": 57,
+   "en": "I caught a boot!{01 00 00 05 00}\n\nKeep our waters clean!",
+   "et": ""
+  },
+  {
+   "id": 58,
+   "en": "I caught a tire!{01 00 00 05 00}\n\nIs this from Gracie's car!?",
+   "et": ""
+  },
+  {
+   "id": 60,
+   "en": "But{01 00 00 05 00} I can't hold any more!{01 00 00 05 00}\n\n{01 00 00 05 00}I guess{01 00 00 05 00} I have to let it go.",
+   "et": ""
+  },
+  {
+   "id": 61,
+   "en": "But{01 00 00 05 00} I can't hold any more!{01 00 00 05 00}\n\nShould I swap it?{02 00 00 00 00}\nSwap!\nRelease!",
+   "et": ""
+  },
+  {
+   "id": 62,
+   "en": "But you can't hold any\nmore! Wanna swap it?{02 00 00 00 00}\nSwap it!\nDrop it!",
+   "et": ""
+  },
+  {
+   "id": 63,
+   "en": "Hey, you got\n{04 1a 00}!\nThat means...",
+   "et": ""
+  },
+  {
+   "id": 64,
+   "en": "\n{01 08 00}Right on!\n\nI caught every kind of fish!",
+   "et": ""
+  }
+ ]
+}

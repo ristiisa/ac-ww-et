@@ -1,0 +1,20 @@
+{
+ "file": "script/ENG/message/ta/q06/bad_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 02 00}Aha! {01 00 00 0a 00}I knew it!{01 01 00} {07 16 00}{0b 03 00}{ff 00 00 06}{04 10 00}\n{ff 00 00 00}is all upset again, huh?\n\n{01 00 00 0a 00}{07 1b 00}{01 00 00 05 00}Oh, well{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00} I guess nothing\ncan really be done about it,\n{01 00 00 0a 00}{04 02 00}.",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 02 00}What?! {01 00 00 05 00}Really?!{01 01 00} {07 16 00}Maybe I\nshouldn't have sent that\nafter all.\n{01 00 00 0a 00}{07 1b 00}{01 00 00 05 00}Guess I made a big mistake\nthere, huh? {01 00 00 0a 00}Oh, well.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "Oh,{01 00 00 0a 00} {07 09 00}really{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} No good, huh?\n{07 16 00}And I made you deliver it.\n\nJeez, {04 1f 00}{07 1c 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00} I'm\nreally sorry for putting\nyou through all that.",
+   "et": ""
+  }
+ ]
+}

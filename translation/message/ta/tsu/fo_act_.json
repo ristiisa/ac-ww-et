@@ -1,0 +1,80 @@
+{
+ "file": "script/ENG/message/ta/tsu/fo_act_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 14 00}Don't you think{01 00 00 0a 00} excavating\nfossils is kind of like\nfinding love, {01 00 00 05 00}{04 02 00}?\n{07 00 00}You look and you look,{01 00 00 0a 00} and\nonce you find something\nthat you really like, \n{07 14 00}you want to display it for\nall the world to see,\n{01 00 00 0a 00}{04 02 00}! Am I right?",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 19 00}I don't think fossils{01 00 00 05 00} feel\nbad about being dug up\nby me, {04 02 00}.\n{07 0a 00}I think of it as, like,{01 00 00 14 00} a\nfated encounter that has\ntranscended centuries!",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 15 00}I think it's idiotic to\nexpect to strike it rich by{01 00 00 05 00}\nfossil hunting, {01 00 00 0a 00}{04 02 00}.\n{07 1c 00}{01 00 00 0a 00}But even I might fall for{01 00 00 0a 00}\nthe kind of guy who'd cling\nto such a crazy dream.",
+   "et": ""
+  },
+  {
+   "id": 3,
+   "en": "{07 19 00}Iron men of fossil hunting{01 00 00 0a 00}\nwill get down and listen to\nthe dirt, {01 00 00 0a 00}{04 02 00}.\n{07 0e 00}{01 00 00 0a 00}You know, {01 00 00 0a 00}I'll bet\nthat sound would be worth\nmore than the fossils!",
+   "et": ""
+  },
+  {
+   "id": 4,
+   "en": "{06 00 00 0d 0e}",
+   "et": ""
+  },
+  {
+   "id": 5,
+   "en": "{07 0b 00}Check out my ensemble here,\nOK? {01 00 00 0a 00}Does it say to you I'm\nsearching for...{02 01 00 0a 0b 0c}\nFossils?\nLove?\nMy true self?",
+   "et": ""
+  },
+  {
+   "id": 6,
+   "en": "{07 14 00}They say{01 00 00 0a 00} this is the most\neffective way to walk,\n{01 00 00 0a 00}{04 02 00}.\n{07 17 00}Because I'm carrying a\n{ff 00 00 07}shovel{ff 00 00 00}, I'm working my arms\nas well as my legs!",
+   "et": ""
+  },
+  {
+   "id": 7,
+   "en": "{07 0e 00}{01 00 00 0a 00}It's weird. I'm actually not\nthat interested in fossils{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n\n{07 19 00}But I think balance is the\nkey to life, so I want to\ntry a variety of hobbies!",
+   "et": ""
+  },
+  {
+   "id": 8,
+   "en": "{07 09 00}{01 00 00 05 00}I'm just making small talk,\n{04 02 00}!{01 00 00 0a 00}{07 15 00} Sheesh!\nSensitive much?\nSomeone's gotta keep this\nchat going, and you aren't\nexactly a sparkling wit.\n{07 19 00}{01 00 00 05 00}See how I deftly dug my way\nout of that one,\n{01 00 00 0a 00}{04 02 00}? Now that's wit!",
+   "et": ""
+  },
+  {
+   "id": 9,
+   "en": "{07 02 00}Are you being sarcastic,\n{01 00 00 0a 00}{04 02 00}?! {01 00 00 0a 00}Well! Don't you\nsass me!\n{07 05 00}{01 00 00 0a 00}Sure, it was a pun,{01 00 00 0a 00} but it's\nfunny 'cause it's not funny!{01 01 00}\nLike a relationship!",
+   "et": ""
+  },
+  {
+   "id": 10,
+   "en": "{07 02 00}Oh! {01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}I wonder, {04 02 00}.\n\n\n{07 0f 00}{01 00 00 14 00}Do you think this{01 00 00 0a 00} is a good\nlook for fossil hunting,\n{01 00 00 05 00}{04 02 00}?",
+   "et": ""
+  },
+  {
+   "id": 11,
+   "en": "{07 14 00}Oh, yes, {01 00 00 05 00}you find the most\ninteresting things in the\ndirt, like {01 00 00 0a 00}boys, {04 02 00}.\n{07 01 00}{01 08 00}But it's not like boys are\nall I care about! I do have\nintellectual pursuits, too!{03 02 00 01}",
+   "et": ""
+  },
+  {
+   "id": 12,
+   "en": "{07 04 00}Oh, {01 00 00 05 00}{04 1f 00}!{01 00 00 0f 00} I think you\nfinally found your sense of\nhumor!\n{07 03 00}{01 00 00 05 00}I guess it was buried in the\ndirt, too! Hee hee hee! {01 00 00 0a 00}\n{0b 03 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 13,
+   "en": "{07 0e 00}{01 00 00 0a 00}I'm dishing the dirt with a\nshovel in my hand{01 00 00 05 00}.{01 01 00} {07 14 00}Tee hee!{02 00 00 08 09}\nTrash talker!\nHee-larious!",
+   "et": ""
+  },
+  {
+   "id": 14,
+   "en": "{07 14 00}Getting down in the dirt\nonce in a while is\nactually kind of nice.{01 00 00 05 00}\n{07 1b 00}The key phrase here is\n\"once in a while,\" {01 00 00 05 00}\n{04 02 00}!",
+   "et": ""
+  }
+ ]
+}

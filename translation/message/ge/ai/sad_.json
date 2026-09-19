@@ -1,0 +1,30 @@
+{
+ "file": "script/ENG/message/ge/ai/sad_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 0f 00}Even the peppiest of people\nfeel blue sometimes.{01 00 00 05 00} It's a\nsad fact of life.{03 03 00 01}",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 0f 00}I just feel so terrible. {01 00 00 05 00}It's\nlike someone hit my heart\nwith a net, {04 02 00}.{03 03 00 01}",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 1c 00}Sigh{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} I just can't stop\nsighing{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}. It's just all so\nhopeless, {01 00 00 05 00}{04 02 00}.{03 03 00 01}",
+   "et": ""
+  },
+  {
+   "id": 3,
+   "en": "{07 1c 00}I really don't feel like\nchatting right now,\n{01 00 00 05 00}{04 02 00}.{01 00 00 05 00}.{01 00 00 05 00}.{03 03 00 01}",
+   "et": ""
+  },
+  {
+   "id": 4,
+   "en": "{07 0f 00}Believe it or not, {01 00 00 05 00}it's hard\nwork being so chipper{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\nAnd I'm overworked.{03 03 00 01}",
+   "et": ""
+  }
+ ]
+}

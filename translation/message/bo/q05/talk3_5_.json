@@ -1,0 +1,20 @@
+{
+ "file": "script/ENG/message/bo/q05/talk3_5_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 0d 00}I'm hoping you'll hook me\nup,{01 00 00 0a 00} {04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 06 00}There's not much left, so\nI'm hoping you'll help me\nout,{01 00 00 0a 00} {04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 14 00}If you lend me a hand, I\njust know we'll find it,{01 00 00 05 00}\n{04 02 00}.",
+   "et": ""
+  }
+ ]
+}

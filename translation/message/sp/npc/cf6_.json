@@ -1,0 +1,200 @@
+{
+ "file": "script/ENG/message/sp/npc/cf6_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "Huh?{01 00 00 0a 00} Saaay, have we met\nsomewhere before?{01 00 00 05 00} Yes?\nNo?{01 00 00 0a 00} Oh, hey, I'm sorry!\n{07 34 00}I've been to so many towns\nin my life, I tend to get a\nbit confused!",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "Oh,{01 00 00 05 00} hello there!{01 00 00 0a 00} You're\n{04 00 00}, right?\n\n{06 01 00 08 0a 0c}",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "Oh!{01 00 00 05 00} {07 34 00}Well, hello there!{01 00 00 05 00} Do you\ncome here often?\n\n{07 00 00}{07 33 00}There's just something\nabout the coffee here that\nkeeps me coming back!\n{06 0b 00 13 14 15 16 17 18 19}",
+   "et": ""
+  },
+  {
+   "id": 3,
+   "en": "I've wandered all over this\nbig world, but I have a real\nsoft spot for {ff 00 00 08}{04 03 00}{ff 00 00 00}!\n{06 01 00 1b 1c 1d}",
+   "et": ""
+  },
+  {
+   "id": 4,
+   "en": "Hey, that reminds me!{01 00 00 05 00} Have\nyou ever taken a trip out\nof town?{01 00 00 05 00} Just for kicks?{02 00 00 1f 20}\nOh, sure!\nNot yet.",
+   "et": ""
+  },
+  {
+   "id": 5,
+   "en": "Say...{01 00 00 05 00} {07 35 00}Have you seen a\n{ff 00 00 06}suspicious-looking cat{ff 00 00 00}\naround here lately?{02 00 00 21 22}\nOh yeah!\nWhat? Who?",
+   "et": ""
+  },
+  {
+   "id": 6,
+   "en": "{06 01 00 23 24 25}",
+   "et": ""
+  },
+  {
+   "id": 7,
+   "en": "{06 09 00 26 27 28}",
+   "et": ""
+  },
+  {
+   "id": 8,
+   "en": "{06 04 00 0e 0e 0e 09}",
+   "et": ""
+  },
+  {
+   "id": 9,
+   "en": "I hear that you live in a\n{07 33 00}gorgeous house!{01 00 00 05 00} Is that\ntrue?",
+   "et": ""
+  },
+  {
+   "id": 10,
+   "en": "{06 05 00 0e 0e 0b}",
+   "et": ""
+  },
+  {
+   "id": 11,
+   "en": "I hear that no one can best\nyou when it comes to\ncatching bugs!",
+   "et": ""
+  },
+  {
+   "id": 12,
+   "en": "{06 06 00 0e 0e 0d}",
+   "et": ""
+  },
+  {
+   "id": 13,
+   "en": "I hear that you're really\nsomething with a fishing\nrod! An amazing angler, eh?",
+   "et": ""
+  },
+  {
+   "id": 14,
+   "en": "{06 01 00 0f 10 11}",
+   "et": ""
+  },
+  {
+   "id": 15,
+   "en": "I hear that you're quite\nthe expert shopper! The\nsultan of shop, eh?",
+   "et": ""
+  },
+  {
+   "id": 16,
+   "en": "I hear that you're quite\nhelpful when you want to\nbe, eh?",
+   "et": ""
+  },
+  {
+   "id": 17,
+   "en": "I hear that you've got\nquite the knack for\nletter writing!",
+   "et": ""
+  },
+  {
+   "id": 18,
+   "en": "{07 36 00}Aaaaahhh!{01 00 00 0a 00} Don't look at me\nlike that!{01 00 00 0a 00}{07 00 00}{07 34 00} I'm not some kind\nof coffee-drinking creep!\nI've just heard the folks\nin {ff 00 00 08}{04 03 00}{ff 00 00 00} talking\nabout you is all.",
+   "et": ""
+  },
+  {
+   "id": 19,
+   "en": "I hear that today's beans\ncame all the way from\nEspressopotamia!",
+   "et": ""
+  },
+  {
+   "id": 20,
+   "en": "I can detect a hint of East\nSweatopia in today's blend!\nIt has a nutty body.",
+   "et": ""
+  },
+  {
+   "id": 21,
+   "en": "Aaaaahh! Today's blend is\nfrom none other than{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 01 00}\n{07 33 00}Mud Mountain!{01 00 00 05 00} Aaaahhhhh...",
+   "et": ""
+  },
+  {
+   "id": 22,
+   "en": "{07 33 00}I think this is {ff 00 00 06}Brewster{ff 00 00 00}'s\nvery own blend:{01 00 00 05 00} Pigeon Milk\nMocha!{01 00 00 05 00}{07 34 00} So complicated!",
+   "et": ""
+  },
+  {
+   "id": 23,
+   "en": "Today's coffee is a mix of\nbeans from Northern Quaff\nand Joejavastan!",
+   "et": ""
+  },
+  {
+   "id": 24,
+   "en": "{07 34 00}Today, {ff 00 00 06}Brewster {ff 00 00 00}is using\nbeans from Mochanistan.{01 00 00 05 00} The\nsmell gives it away.",
+   "et": ""
+  },
+  {
+   "id": 25,
+   "en": "Today's beans are from\nMount Grindgolia!{01 00 00 0a 00} The tart\naftertaste is unmistakable.\n{07 34 00}Ha! Like I'd even know!{01 00 00 0a 00}\nBecause, really, I wouldn't.",
+   "et": ""
+  },
+  {
+   "id": 27,
+   "en": "The air and water here are\nPERFECT!{01 00 00 05 00} {07 33 00}That's what makes\nthe coffee so good.\nMaybe I should move, {07 34 00}even\nif it's just for the coffee\nalone.",
+   "et": ""
+  },
+  {
+   "id": 28,
+   "en": "This place is so quiet and\nunassuming. It's paradise\nwithout the pearly gates!\nY'know, you NEVER find a\ncity with those qualities!{01 00 00 05 00}\n{0b 03 00}{04 03 00} all the way!",
+   "et": ""
+  },
+  {
+   "id": 29,
+   "en": "It's so quiet around here!\n{07 37 00}I bet you fall asleep as\nsoon as you hit the pillow.\n{07 00 00}Hey, how about you letting\nme spend the night tonight?{01 01 00}\n{07 34 00}Har har har! Just kidding!",
+   "et": ""
+  },
+  {
+   "id": 31,
+   "en": "{07 33 00}I used to ride the rails,\ntoo!{01 00 00 0a 00} Hop on the train, just\nsee where it takes me...\n{07 00 00}{07 35 00}But sitting at the window...{01 00 00 05 00}\nWatching the scenery fly by\nin a sad, painted blur...\nIt made me kinda lonely.{07 00 00}{07 34 00}{01 00 00 0a 00} So\nI used to talk to anyone\nwho wandered by!",
+   "et": ""
+  },
+  {
+   "id": 32,
+   "en": "{07 33 00}I love my life on the road.\nMaking the rules{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}. Hittin'\nthe bricks when you want{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.\n{07 34 00}Say! I hope that you and me\ncan meet in another town's\ncafe someday!\nIf it happens, look me up!\nWe'll split a cup of mud{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.{01 01 00}\nCheers!",
+   "et": ""
+  },
+  {
+   "id": 33,
+   "en": "{07 36 00}WHAT?!{01 00 00 05 00} You SAW it?!{01 00 00 0a 00} WHERE?!{01 00 00 0a 00}\nWait, no, don't tell me!\nI'll find it myself!\n{07 34 00}Wow, how lucky!{01 00 00 05 00} I hope I get\na chance to draw that\n{ff 00 00 06}strange cat{ff 00 00 00}'s face again!",
+   "et": ""
+  },
+  {
+   "id": 34,
+   "en": "Oh,{01 00 00 05 00} really?{01 00 00 0a 00} Well, it's been\nshowing up more and more\nfrequently.\n{07 35 00}I'd just want a chance to\nsee that {ff 00 00 06}strange cat {ff 00 00 00}one\nmore time.",
+   "et": ""
+  },
+  {
+   "id": 35,
+   "en": "What?{01 00 00 05 00} Me?{01 00 00 05 00} No, this fella's\nnot busy at all{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}. Well,\nmaybe a little busy{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 34 00}But I can't tell you why!{01 00 00 14 00}\nHar har har har har!",
+   "et": ""
+  },
+  {
+   "id": 36,
+   "en": "Your name is {01 00 00 05 00}{04 00 00},\nright?{01 00 00 05 00} {07 35 00}Weird!{01 00 00 0a 00} I know a kid\nwith the same name as you!\nI wonder how that kid is \ndoing{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}",
+   "et": ""
+  },
+  {
+   "id": 37,
+   "en": "I wonder what happened to\nthat crazy kid. Trust me,\nI had reasons to worry...\nEh?{01 00 00 05 00} {07 34 00}Oh, I'm just talking to\nmyself!{01 00 00 0a 00} Not to worry!\n\nAfter all, life{01 00 00 05 00} {07 37 00}is shaped by\nthe people you meet{01 00 00 05 00}\nevery day.",
+   "et": ""
+  },
+  {
+   "id": 38,
+   "en": "{07 34 00}Hmmm...{01 00 00 05 00} What town should I\nvisit next?",
+   "et": ""
+  },
+  {
+   "id": 39,
+   "en": "This rain is brutal!{01 00 00 05 00} On days\nlike this, I just want to \nsip coffee and relax{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.",
+   "et": ""
+  },
+  {
+   "id": 40,
+   "en": "Snowy days are made for\nhot coffee!{01 01 00} {07 34 00}Ahhhh... That\nMount Grindgolia blend!",
+   "et": ""
+  }
+ ]
+}

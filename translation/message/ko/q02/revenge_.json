@@ -1,0 +1,20 @@
+{
+ "file": "script/ENG/message/ko/q02/revenge_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 15 00}Listen up, {01 00 00 05 00}{04 1f 00}!{01 00 00 0f 00}\nNext time, sweet victory\nwill be mine!{01 00 00 0f 00}{07 11 00} All mine{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 01 00}You better watch it, kid!\n{07 11 00}Next time, I'll be the\none to taste sweet victory!",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 15 00}You're going down next\ntime, {01 00 00 0f 00}kid! {0b 03 00}{01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  }
+ ]
+}

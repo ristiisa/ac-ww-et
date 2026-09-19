@@ -1,0 +1,20 @@
+{
+ "file": "script/ENG/message/ko/q05/talk3_5_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 04 00}Ahhh...{01 00 00 05 00} Ahhhh...{01 01 00}\n{07 01 00}{01 08 00}{01 02 00}AH-CHOOO!!!{01 03 00}\n{07 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 09 00}Ugh,{01 00 00 05 00} I hate that!",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 14 00}I owe you big, {01 00 00 05 00}{04 02 00}!{01 00 00 14 00}\nThanks, kid.",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 15 00}I'll be a hardcore\n{04 03 00} boy 'til the\nbitter end!",
+   "et": ""
+  }
+ ]
+}

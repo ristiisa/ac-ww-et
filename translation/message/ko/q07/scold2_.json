@@ -1,0 +1,20 @@
+{
+ "file": "script/ENG/message/ko/q07/scold2_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 15 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}How thoughtful of you to\nopen my mail for me. Way\nto help out!\n{07 05 00}Here's an idea. Why don't\nyou help yourself to a\nstupid book, moron!{03 03 00 01}",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 16 00}Ugh!{01 00 00 0f 00} And on top of that,\nthis letter has been\nopened!\n{07 05 00}You conniving little...\nDon't go around reading\nother people's mail!{03 02 00 01}",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 04 00}Hey!{01 00 00 14 00} Don't be going around\nopening people's mail{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n\n{07 05 00}It takes a massive schnoz\nto be as nosy as you are,\n{01 00 00 05 00}{04 02 00}!{03 02 00 01}",
+   "et": ""
+  }
+ ]
+}

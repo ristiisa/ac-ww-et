@@ -1,0 +1,20 @@
+{
+ "file": "script/ENG/message/ta/q04/clear_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 14 00}Wow!{01 00 00 0f 00} Thank you so much,\n{01 00 00 0a 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 14 00}Wow!{01 00 00 05 00} Who knew that you had\nsuch great taste in\nclothes, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 14 00}Tee hee hee!{01 00 00 0a 00} I'm, like, the\nfashion trendsetter of\n{04 03 00}!",
+   "et": ""
+  }
+ ]
+}

@@ -1,0 +1,20 @@
+{
+ "file": "script/ENG/message/ko/q11/no_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 15 00}WHAT?!{01 00 00 0a 00} FINE! {01 00 00 05 00}If that's how\nyou're gonna be, {01 00 00 05 00}then JUST\nFORGET IT, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 16 00}Huh?{01 00 00 0f 00} Aw, I ruined the deal!{01 00 00 0f 00}\n{07 0f 00}I musta been looking at my\nfeet or something.",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 16 00}GAAAHH!{01 00 00 0f 00} {07 00 00}{07 05 00}You makin' a FOOL\noutta me?{01 00 00 0f 00} You playin' me\nfor a SAP, {01 00 00 05 00}{04 02 00}?!",
+   "et": ""
+  }
+ ]
+}

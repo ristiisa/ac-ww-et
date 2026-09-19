@@ -1,0 +1,120 @@
+{
+ "file": "script/ENG/message/sp/npc/turtle1_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 00 00}Well, now! {0b 03 00}{04 00 00},\ntoday is the day of the big\n{ff 00 00 03}Fishing Tourney{ff 00 00 00}.\n{07 16 00}{01 00 00 05 00}But {01 00 00 05 00}surely you must know\nthat you can't participate\nwithout a{ff 00 00 07} fishing rod{ff 00 00 00}!\n{07 00 00}Go rearrange your pockets{01 00 00 05 00}\nand come talk to me again.",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 00 00}Yes, the day has finally\narrived, {04 00 00}! Today\nis the big {ff 00 00 03}Fishing Tourney{ff 00 00 00}!\n{07 16 00}{01 00 00 05 00}But {01 00 00 05 00}I must advise you that\nfishing is more productive\nwith the right tools{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 00 00}If you don't mind using my\nhand-me-downs, you can\nhave my old {ff 00 00 07}fishing rod{ff 00 00 00}!\n{07 14 00}{01 00 00 0a 00}Go on,{01 00 00 05 00} take it!{01 00 00 0f 00} Someday,\nsprout, you'll realize life\nis all about give and take.",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 00 00}Sorry, {04 00 00},{01 00 00 0a 00} but\ntoday's {ff 00 00 03}Fishing Tourney {ff 00 00 00}has\nended!\nI'll post the results on the\ntown {ff 00 00 08}bulletin board{ff 00 00 00},{01 00 00 05 00}\nso go take a look.\n{07 14 00}{01 00 00 0a 00}Doesn't that make you{01 00 00 0a 00} giddy\nwith excitement?{07 03 00}{01 00 00 0f 00} I just love\nbeing the {ff 00 00 06}mayor{ff 00 00 00}!",
+   "et": ""
+  },
+  {
+   "id": 3,
+   "en": "{07 0a 00}{01 00 00 05 00}Fishing time!{01 00 00 0a 00} Grab your\nrods!{01 00 00 0f 00} Today is {04 03 00}'s\n{ff 00 00 03}Fishing Tourney{ff 00 00 00}!\n{07 00 00}Hey, {04 00 00},{07 0b 00}{01 00 00 0a 00} would you\nlike me to tell you about{01 00 00 05 00}\nthe {ff 00 00 03}Fishing Tourney{ff 00 00 00}?{02 04 00 06 05}\nTell me!\nNo, thanks!",
+   "et": ""
+  },
+  {
+   "id": 4,
+   "en": "{07 00 00}Say, {04 00 00},{01 00 00 0f 00} do you\nwant to hear about the\n{ff 00 00 03}Fishing Tourney{ff 00 00 00}?{02 04 00 06 05}\nTell me!\nNo, thanks.",
+   "et": ""
+  },
+  {
+   "id": 5,
+   "en": "{07 03 00}{01 00 00 0a 00}I see, I see.{01 00 00 0f 00} So,\n{04 00 00}, you've{01 00 00 05 00} already\nheard all about it?\n{07 14 00}{01 00 00 05 00}Well then, what are you\nwaiting for! Get out there!{01 01 00}\n{07 0f 00}{01 00 00 0a 00}Ack, {01 00 00 0a 00}my poor, aching back!",
+   "et": ""
+  },
+  {
+   "id": 6,
+   "en": "{07 00 00}The {ff 00 00 03}Fishing Tourney{ff 00 00 00},{01 00 00 05 00} as the\nname suggests, is a contest\nwhere you fish.\nWhoever catches the {ff 00 00 02}biggest\nfish{ff 00 00 00} by 6 p.m. {01 00 00 05 00}wins!\n\nSo get out there, and if\nyou catch one, {01 00 00 05 00}come here\nand show it to me!{01 00 00 0f 00}\nI'll measure it for you.{01 01 00}\nWant to hear more?{02 04 00 07 05}\nTell me!\nNo, thanks.",
+   "et": ""
+  },
+  {
+   "id": 7,
+   "en": "{07 00 00}Oh, and{01 00 00 05 00} even if you don't\nwin, if the fish you turn in{01 00 00 05 00}\nbeats your personal best,\n{07 14 00}{01 00 00 0a 00}I'll present you with a\nprize that'll make the\nyoung'uns squeal with glee.\n{07 00 00}You're{01 00 00 0f 00} getting excited,\naren't you?{01 00 00 0f 00} Was that a {01 00 00 0a 00}\nsqueal I heard? {01 00 00 0f 00}But anyway.\nKeep your eye on the prize\nwhen you're out there\nfishing! Use it to focus!\nHowever,{07 11 00}{01 00 00 0f 00} remember that\nonce you turn a fish in,\nit's mine!\n{07 03 00}{01 00 00 05 00}Even the {ff 00 00 06}mayor{ff 00 00 00} needs \nsomething to sweeten the\ndeal!",
+   "et": ""
+  },
+  {
+   "id": 8,
+   "en": "{07 14 00}{01 00 00 0a 00}Oh, {01 00 00 05 00}{04 00 00}!{01 00 00 0f 00} I hope you\nbrought me something\nwonderful!{01 00 00 0f 00} Did you?{02 04 00 0b 00}\nI caught one!\nUh, no.",
+   "et": ""
+  },
+  {
+   "id": 9,
+   "en": "{07 16 00}{01 00 00 0a 00}What's this?{01 00 00 05 00} Don't worry,\nsprout! {07 00 00}Your record of{01 00 00 05 00}\n{ff 00 00 02}{04 0f 00} inches{ff 00 00 00} still stands!\n{07 14 00}{01 00 00 0a 00}Relax and go another round\nwith those fish!{01 00 00 05 00} Go get 'em,\ntiger!",
+   "et": ""
+  },
+  {
+   "id": 10,
+   "en": "{07 16 00}Checking out the\ncompetition?{01 00 00 0f 00} A fine\nstrategy, sprout.\n{07 00 00}Well, the current record\nis {04 1b 00}\nthat's {ff 00 00 02}{04 0f 00} inches{ff 00 00 00}.\nIt belongs to {04 10 00}. {07 03 00}\nHeh{01 00 00 05 00} heh{01 00 00 0f 00} hoorf! {01 00 00 05 00}Yes, talk\nabout a fierce competitor!",
+   "et": ""
+  },
+  {
+   "id": 11,
+   "en": "{07 00 00}Well then, {04 00 00},{01 00 00 05 00} let's\nsee how it measures up.{01 00 00 0f 00}\nHand it over.",
+   "et": ""
+  },
+  {
+   "id": 12,
+   "en": "{07 15 00}{01 00 00 0a 00}I only want fish!{01 01 00} {07 03 00}{01 00 00 0a 00}Why?! {01 00 00 0a 00}I'm\nthe {ff 00 00 06}mayor{ff 00 00 00}, that's why! {01 00 00 0a 00}Oh, I\njust love saying that!",
+   "et": ""
+  },
+  {
+   "id": 13,
+   "en": "{07 14 00}{01 00 00 0a 00}Ah!{01 00 00 05 00} {0b 03 00}{04 1c 00}!{01 01 00}\n{07 0e 00}Let's just take a look at\nwhat we've got here.\nHm.{01 00 00 05 00}.{01 00 00 05 00}.{01 01 00} {07 14 00}Yes, {ff 00 00 02}{04 13 00} inches{ff 00 00 00},{01 00 00 05 00}\ngive or take a bit.",
+   "et": ""
+  },
+  {
+   "id": 14,
+   "en": "{07 03 00}{01 00 00 0a 00}Ha{01 00 00 05 00} heh{01 00 00 05 00} hoorf!{01 00 00 0f 00} Too bad,{01 00 00 05 00}\n{04 00 00}! Better luck\nnext time!\n{07 00 00}{0b 03 00}{04 10 00} already caught\n{04 1b 00}\nthat was {ff 00 00 02}{04 0f 00} inches{ff 00 00 00}.",
+   "et": ""
+  },
+  {
+   "id": 15,
+   "en": "{07 14 00}{01 00 00 0a 00}Well,{01 00 00 05 00} don't give up!\nYou can do it, {04 00 00}!{01 00 00 0f 00}\nAnd I'll be waiting!",
+   "et": ""
+  },
+  {
+   "id": 16,
+   "en": "{07 14 00}{01 00 00 0a 00}What's this!{01 00 00 0f 00} My goodness!\n{07 1a 00}{01 00 00 0a 00}It's a new record!{01 00 00 0a 00} We have a\nnew record!",
+   "et": ""
+  },
+  {
+   "id": 17,
+   "en": "{07 00 00}The previous record for\nyour {ff 00 00 02}{04 0f 00}-inch{ff 00 00 00}{01 00 00 05 00}\n{0b 02 00}{04 1b 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n{07 03 00}{01 00 00 0a 00}has been broken by you! {01 01 00}It's\n{07 0d 00}{01 00 00 05 00}a feast fit for.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}a {ff 00 00 06}mayor{ff 00 00 00}!{01 00 00 0f 00}\nHeh heh hoorf!",
+   "et": ""
+  },
+  {
+   "id": 18,
+   "en": "{07 00 00}The record {ff 00 00 02}{04 0f 00} inches \n{ff 00 00 00}set with {04 10 00}'s{01 00 00 05 00}\n{0b 02 00}{04 1b 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n{07 14 00}{01 00 00 0a 00}has been broken with this\nbeast! You're certainly one\nto watch out for!\n{07 0d 00}{01 00 00 0a 00}My heartiest\ncongratulations are in\norder, {01 00 00 05 00}{04 00 00}!",
+   "et": ""
+  },
+  {
+   "id": 19,
+   "en": "{07 14 00}{01 00 00 0a 00}All righty then, {01 00 00 05 00}I suppose\nI'll be having this for\ndinner tonight!\n{07 00 00}But before I fire up the\ngrill, {01 00 00 05 00}I should give you your\nprize, shouldn't I?",
+   "et": ""
+  },
+  {
+   "id": 20,
+   "en": "{07 14 00}{01 00 00 0a 00}Now, gaze upon this lovely\n{0b 02 00}{04 1a 00} and{01 00 00 05 00}\nbreak that record again!\n{07 19 00}{01 00 00 0a 00}I think you'll be a fierce\ncontender in the {ff 00 00 03}Fishing\nTourneys{ff 00 00 00} to come.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n{07 00 00}Though, in the end, {07 03 00}{01 00 00 0a 00}I'm the\none who wins! Heh{01 00 00 05 00} heh {01 00 00 05 00}horf!",
+   "et": ""
+  },
+  {
+   "id": 21,
+   "en": "{07 14 00}{01 00 00 0a 00}{0b 03 00}{04 1a 00} to\ninspire you to keep\nbreaking those records.{01 00 00 05 00}\n{07 00 00}{0b 03 00}{04 1a 00},\n{04 00 00}, and me.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0f 00}\n\n{07 14 00}{01 00 00 0a 00}Together, we're virtually\nunstoppable!{07 03 00}{01 00 00 0f 00} Heh {01 00 00 05 00}heh {01 00 00 05 00}\nhroorf!",
+   "et": ""
+  },
+  {
+   "id": 22,
+   "en": "{07 03 00}{01 00 00 0a 00}Heh{01 00 00 05 00} heh {01 00 00 05 00}heh!{01 00 00 0f 00} Too bad,{01 00 00 05 00}\n{04 00 00}, too bad! {01 00 00 05 00}A\ntragedy, really!\n{07 00 00}The {ff 00 00 02}{04 0f 00}-inch\n{ff 00 00 00}{0b 02 00}{04 1b 00}\nis still the record holder!",
+   "et": ""
+  }
+ ]
+}

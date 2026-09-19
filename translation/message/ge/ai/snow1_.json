@@ -1,0 +1,65 @@
+{
+ "file": "script/ENG/message/ge/ai/snow1_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 14 00}Wow... Snow.{01 00 00 05 00} SNOW!{01 00 00 0a 00} It's snow!{01 00 00 0a 00}\nYippee! Snow is SO cool!\n\nEveryone in town seems\ntotally happy to see the\nsnow, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 14 00}{0b 03 00}{01 06 00}Good morning{01 07 00}!{01 00 00 0a 00}\n{07 07 00}It was so c-cold last night!{01 00 00 05 00}\nI KNEW it would s-snow!\n{07 02 00}Eep! What happens if I slip\nand fall on my tush?!{01 00 00 0a 00}\nI'd be SOOOO embarrassed!",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 16 00}Yesterday, my horoscope\nsaid that it would be sunny,{01 00 00 05 00}\nbut it SNOWED instead{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 15 00}Boy,{01 00 00 05 00} that does it!\nI'm never gonna believe in\nstupid astrology again{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 16 00}Oh, wait... {01 00 00 0a 00}Actually, that\nwas the weather forecast,\nnot astrology, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 3,
+   "en": "{07 14 00}Oh, look! It's {01 00 00 05 00}{04 1f 00}!{01 00 00 05 00}\n{0b 03 00}{01 06 00}Hiya{01 07 00}!\n\n{07 16 00}Y'know, when I see all this\nsnow lying around, it makes\nme, like, kinda sad{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\nWhy?{01 00 00 0a 00}{07 06 00} Because it's gonna be\nGONE in a few days!!",
+   "et": ""
+  },
+  {
+   "id": 4,
+   "en": "{07 14 00}{0b 03 00}{01 06 00}Heya{01 07 00}!\n{07 16 00}No matter how cold it gets,{01 00 00 05 00}\nyou can't be all lazy.\n{07 0c 00}Wait! I know! Hold on...{01 00 00 14 00}\nYou should go try some\n{04 16 00}!\n{07 16 00}I won't do it though,\n{04 02 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}. No way!{01 00 00 0a 00}\nIt's too cold!",
+   "et": ""
+  },
+  {
+   "id": 5,
+   "en": "Huh?{01 00 00 0a 00}{07 14 00} Hey, {04 1f 00}!{01 00 00 05 00}\nDid you just get up,\n{01 00 00 05 00}{04 02 00}?\n{07 16 00}Yeah, it was soooo hard\nto get out of bed this\nmorning{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} It's too cold!",
+   "et": ""
+  },
+  {
+   "id": 6,
+   "en": "Hey, it's {01 00 00 05 00}{04 1f 00}!{01 00 00 0a 00}\n{07 14 00}Like, hi there! {01 00 00 05 00}Guess what?{01 00 00 0a 00}\nI've got a secret for you...\nI don't care if it's snowing{01 00 00 05 00}\nor dark{01 00 00 05 00} or there are wolves\nchasing me{01 00 00 05 00} or whatever...\nI love to {04 22 00}\nmore than anything else,\n{01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 7,
+   "en": "{07 14 00}{0b 03 00}{01 06 00}Heya{01 07 00}!{01 00 00 0a 00}\n{07 00 00}Say, {01 00 00 05 00}{04 1f 00}, {01 00 00 05 00}I didn't\nsee you at all today!\n{07 0b 00}Were you all curled up next\nto the heater in your room,\n{01 00 00 05 00}{04 02 00}? That's so you!",
+   "et": ""
+  },
+  {
+   "id": 8,
+   "en": "Say, {04 1f 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}. {07 14 00}You\nshould always move around\na lot when it snows.\n{07 00 00}That way, you can stay\nwarm {07 14 00}for FREE!{01 00 00 0a 00} Tee hee!{01 00 00 05 00} I'm\nsoooo smart!",
+   "et": ""
+  },
+  {
+   "id": 9,
+   "en": "{07 14 00}{0b 03 00}{01 06 00}Omigosh{01 07 00}!\n{01 00 00 05 00}{0b 03 00}{04 1f 00}!{01 00 00 0a 00} {07 07 00}How did you\nnot {01 00 00 05 00}FREEZE in that outfit?\n{07 04 00}Oh, hey... {01 00 00 0a 00}I guess I'm kinda\nin the same boat as you,\n{01 00 00 05 00}{04 02 00}!{07 00 00}",
+   "et": ""
+  },
+  {
+   "id": 10,
+   "en": "{0b 03 00}{01 06 00}Wha--?{01 07 00}!{01 00 00 0f 00}\nOh, it's {04 1f 00}!{01 00 00 05 00} Hi\nthere, {04 02 00}!\n{07 16 00}I'm glad you came by, 'cause\nit's all cold and dark and\nscary and stuff! But...{01 00 00 05 00}\nDon't catch cold! Drink\nsome {04 18 00}\nand, like, go back to bed!",
+   "et": ""
+  },
+  {
+   "id": 11,
+   "en": "{07 02 00}Gyaaaaaaaaaaa!{01 01 00} .{01 00 00 05 00}.{01 00 00 0a 00}.{01 00 00 0c 00}{07 03 00}Oh, it's\nyou, {01 00 00 05 00}{04 1f 00}! WHEW!\nWhat a relief!\n{07 14 00}For a minute there,{01 00 00 0a 00}\nI thought you were a big,\nangry snowman, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  }
+ ]
+}

@@ -1,0 +1,50 @@
+{
+ "file": "script/ENG/message/ha/tsu/ghome_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 00 00}So, compared to\n{ff 00 00 08}{04 03 00}{ff 00 00 00}, {07 0b 00}what's your\ntown like?{02 02 00 03 04 05 06}\nThis is better.\nMine's better.\nI like 'em both.\nI hate 'em both.",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 16 00}Whoa, {01 00 00 05 00}{04 1f 00}?!{01 00 00 0f 00} Are you\nhunting for a hunky {07 0b 00}idol to\ninspire your town?{02 00 00 07 08}\nOh yeah!\nNaw.",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 15 00}Listen, {ff 00 00 05}{04 1f 00}{ff 00 00 00}!{01 00 00 0a 00}\nEven after you leave here\nand go back home... \n{07 08 00}Don't you DARE forget me,\nOK, {01 00 00 05 00}{04 02 00}?!\n\n{07 00 00}My pecs, my abs, my quads,\nmy glutes{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n\n{07 0d 00}Take a good, hard look so\nyou don't forget 'em,\n{01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 3,
+   "en": "{07 14 00}Oh ho! Is that so?!{01 00 00 0a 00}\nWell then, {01 00 00 05 00}you come on by\nanytime you feel like it!\n{07 0d 00}I'm gonna fill a bucket with\n{04 13 00}{01 00 00 05 00} and await\nyour return, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 4,
+   "en": "{07 15 00}What the... Are you outta\nyour mind,{01 00 00 05 00} {ff 00 00 05}{04 1f 00}{ff 00 00 00}?!{01 00 00 05 00}\nYou're nuts, {01 00 00 05 00}{04 02 00}!\nYou must not have seen the\npatented move that made\nour town famous!\nYeah! {01 00 00 05 00}You know I'm right!{01 00 00 05 00}\nThe Famous {04 03 00} \nReverse Hamstring Squat!\n{07 0b 00}What? {01 00 00 05 00}How do you do it?{01 01 00}\n{07 11 00}I can't tell someone from\nanother town, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 5,
+   "en": "{07 04 00}Yo YO, {ff 00 00 05}{01 00 00 05 00}{04 1f 00}{ff 00 00 00}!{01 00 00 14 00}\n{07 15 00}Since when did you become\n{07 11 00}such a wimp?\nYeah, you heard me right!{01 00 00 05 00}\nPhysically AND emotionally,\n{01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 6,
+   "en": "{07 04 00}What?! {01 00 00 05 00}Are you serious?!{01 01 00}\n{07 16 00}You don't look it{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.but you\nare WAY harsh, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 7,
+   "en": "{07 04 00}Who?{01 00 00 0a 00} You want me?!{01 00 00 05 00}\nReally, {04 02 00}?\n\n{07 06 00}Who knew{01 00 00 05 00} you'd be so bold\nas to just come out and\nask, {01 00 00 05 00}{04 02 00}?!",
+   "et": ""
+  },
+  {
+   "id": 8,
+   "en": "{07 04 00}What, {01 00 00 05 00}you don't think I'm \nthe hunky idol type?!\n\n{07 16 00}I'll do extra reps until we\nmeet again, I swear it!{01 00 00 05 00}\n{07 08 00}I'll hunk up, promise!",
+   "et": ""
+  }
+ ]
+}

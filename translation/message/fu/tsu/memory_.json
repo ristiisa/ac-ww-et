@@ -1,0 +1,80 @@
+{
+ "file": "script/ENG/message/fu/tsu/memory_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "I do enjoy chatting with\nyou, {04 1f 00}. {01 00 00 0a 00}I really\ndo, you know, {01 00 00 05 00}{04 02 00}.\nIt's just... I wish I could\ntalk to someone from\nanother town occasionally!\n{07 0d 00}After all, variety is like\na pinch of cumin in the\nsimmering soup pot of life!",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 16 00}There's someone living in\n{ff 00 00 08}{04 18 00}{ff 00 00 00}{01 00 00 05 00} who I just\ncan't forget, {01 00 00 05 00}{04 02 00}.\nIt's {ff 00 00 05}{04 19 00}{ff 00 00 00}, in case\nyou were wondering. So\ndreamy! So {04 11 00}!\n{07 16 00}We haven't seen each other\nfor {04 0f 00} days! I hope\neverything's going well{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 16 00}I keep thinking about\n{ff 00 00 08}{04 18 00}{ff 00 00 00}! Ugh. That was\nan experience, I tell you.\nMostly because of\n{ff 00 00 05}{04 19 00}{ff 00 00 00}, of course.\n\nYou know, {04 0f 00} days have\npassed since I last saw\nthat {04 11 00}.\n{07 05 00}But I'm still pretty cheesed\noff about the whole thing,\n{01 00 00 05 00}{04 02 00}!{03 02 00 01}",
+   "et": ""
+  },
+  {
+   "id": 3,
+   "en": "Remember {ff 00 00 05}{04 19 00}{ff 00 00 00}\nfrom {ff 00 00 08}{04 18 00}{ff 00 00 00}?\n\n{07 14 00}Well, guess who wrote me a\nletter before I left?{01 01 00}\n{07 00 00}That's right! Wanna see it?",
+   "et": ""
+  },
+  {
+   "id": 4,
+   "en": "A while back, when I was\nliving in a different town,\nsomeone told me I was{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 13 00}{ff 00 00 02}{04 10 00}{ff 00 00 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n\n\n{07 13 00}I don't think I'll ever meet\nsomeone like that again in\nmy whole life, {01 00 00 05 00}{04 02 00}.",
+   "et": ""
+  },
+  {
+   "id": 5,
+   "en": "Do you ever suddenly find\nyourself {07 14 00}singing in your\nhead for no reason at all?\n{07 00 00}I do. It's the same song\n{ff 00 00 05}{04 19 00}{ff 00 00 00} taught me\nnot too long ago.\n{07 14 00}It makes me think back{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}to\nthose happy times we\nshared, {01 00 00 05 00}{04 02 00}.",
+   "et": ""
+  },
+  {
+   "id": 6,
+   "en": "{07 14 00}Guess what, {01 00 00 05 00}{04 1f 00}?{01 00 00 0f 00}\n{07 00 00}I ran into {ff 00 00 05}{04 19 00}{ff 00 00 00} the\nother day, {01 00 00 05 00}{04 02 00}.\n{07 14 00}A bit of a {04 11 00},\nwouldn't you agree,\n{01 00 00 05 00}{04 02 00}?",
+   "et": ""
+  },
+  {
+   "id": 7,
+   "en": "{07 00 00}You know, sweet words like\n{ff 00 00 02}{04 10 00}{ff 00 00 00}{01 00 00 05 00} {07 16 00}just\nwon't cut it for me!\n{07 15 00}Some people will say{01 00 00 05 00}\nanything to make a girl\nhappy, {01 00 00 05 00}{04 02 00}!\n{07 06 00}Let me tell you,{01 00 00 0a 00} that sort\nof thing simply won't work\non me.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}anymore!",
+   "et": ""
+  },
+  {
+   "id": 8,
+   "en": "{07 00 00}Say, uh{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{04 1f 00}, I\nhave a question.\n\nDo you remember\n{ff 00 00 05}{04 19 00}{ff 00 00 00}? 'Cuz that's\nwho sent me this letter.",
+   "et": ""
+  },
+  {
+   "id": 9,
+   "en": "{0b 03 00}{04 1f 00}, {07 0b 00}how well do\nyou know {ff 00 00 05}{04 19 00}{ff 00 00 00}?\n\n{07 00 00}Because I just got this\nletter...{01 01 00}and I wanted\nyou to take a look at it.",
+   "et": ""
+  },
+  {
+   "id": 10,
+   "en": "{07 00 00}Strangest thing happened,\n{04 1f 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n\n{ff 00 00 05}{0b 03 00}{04 19 00} {ff 00 00 00}gave me{01 00 00 14 00}\n{04 1b 00}\nfor no reason at all...\nIs it just me, or is\n{ff 00 00 05}{04 19 00} {ff 00 00 00}a little\nbit of a {04 11 00}?\n{07 14 00}Nice taste in gifts, though,\nI'll say that much.",
+   "et": ""
+  },
+  {
+   "id": 11,
+   "en": "Whenever I read that\nletter, I think back to all\nthe fun we had together.\n{07 14 00}Maybe you should write me,\ntoo, so that I never forget\nyou, {01 00 00 05 00}{04 02 00}.",
+   "et": ""
+  },
+  {
+   "id": 12,
+   "en": "{07 00 00}{ff 00 00 05}{0b 03 00}{04 19 00} {ff 00 00 00}was so kind to\nme. I wonder how things are\ngoing, {01 00 00 05 00}{04 02 00}.",
+   "et": ""
+  },
+  {
+   "id": 13,
+   "en": "{07 16 00}I don't really get what the\npoint of it was. It's a bit\nstrange as letters go.\n{07 00 00}But I guess it's the\nthought that counts, and\nit was a nice gesture.\n{07 0d 00}I don't understand you,\n{ff 00 00 05}{04 19 00}{ff 00 00 00}, but you sure\nare an interesting person!",
+   "et": ""
+  },
+  {
+   "id": 14,
+   "en": "{07 16 00}Such a busy person, and\nyet still able to find the\ntime to write!\n{07 14 00}It's amazing{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{04 02 00}.\n\n\n{07 13 00}I hope I'm as considerate\nand attentive to all of my\nfriends, {01 00 00 05 00}{04 02 00}.",
+   "et": ""
+  }
+ ]
+}

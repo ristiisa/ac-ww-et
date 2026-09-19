@@ -1,0 +1,15 @@
+{
+ "file": "script/ENG/message/ko/q02/pdraw_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 0e 00}Are you serious?\n{07 04 00}{0b 03 00}{04 1c 00}?\nCraziness{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\nIt's about as pricey as the\n{0b 02 00}{04 1d 00} I\nlanded.\n.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}Hmmm,{01 00 00 05 00} I guess I'm gonna\nhave to call this one a tie,\n{01 00 00 05 00}{04 02 00}!\n{07 15 00}Well, that's kinda lame!{01 01 00}\n{07 00 00}Next time we won't have any\nof this tie garbage!",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 04 00}Whoa whoa. Wait a sec.{01 00 00 0f 00}\nYou caught\n{04 1c 00}?\n{07 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}Man!{01 00 00 05 00} That's worth the\nsame as my\n{0b 02 00}{04 1d 00}!\n{07 16 00}Oh{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0f 00} I guess we've gotta\ndeclare this one a tie,{01 00 00 05 00}\n{04 02 00}!\n{07 15 00}And you can keep your\n{0b 02 00}{04 1c 00}.{01 00 00 0f 00}\nNext time, {01 00 00 05 00}{04 02 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.",
+   "et": ""
+  }
+ ]
+}

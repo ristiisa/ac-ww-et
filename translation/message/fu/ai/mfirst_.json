@@ -1,0 +1,50 @@
+{
+ "file": "script/ENG/message/fu/ai/mfirst_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 14 00}Hi there.{01 00 00 14 00} I'm new here. I\nmoved from {ff 00 00 08}{04 10 00}{ff 00 00 00}{01 00 00 05 00} not\nlong ago. I'm {04 01 00}.\n{07 00 00}And you are.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{04 00 00},\nyes? Well, I should have no\nproblem remembering that.\nI've been wanting to go out\nand{01 00 00 05 00} {04 22 00} a\nlot lately, {01 00 00 05 00}{04 02 00}.\n{07 14 00}Maybe you and I can{01 00 00 05 00} go out\ntogether sometime.",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 0b 00}Hm? {01 00 00 0f 00}I don't believe I've had\nthe pleasure of meeting\nyou before.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n{07 00 00}I just moved here from\n{ff 00 00 08}{04 10 00}{ff 00 00 00}. My name is\n{04 01 00}.\nI like to {04 22 00},{01 00 00 05 00}\nmy sign is {04 0f 00},{01 00 00 05 00}\nand my age is.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 11 00} Never mind.\n{07 14 00}I look forward to meeting\neveryone here. I hope we'll\nbe friends, {01 00 00 05 00}{04 02 00}.",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 0b 00}Hm.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} Have we met before?\nI'm sure I'd remember you,{01 00 00 05 00}\n{04 02 00}.{01 00 00 0f 00}\n{07 0e 00}I see{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} So you're\n{04 00 00}, are you?{07 00 00}{01 00 00 14 00} Well,\nI'm {04 01 00}.\n{07 14 00}I'm new here. I just moved\nfrom {ff 00 00 08}{04 10 00}{ff 00 00 00}. Nice\nto meet you, {01 00 00 05 00}{04 02 00}.",
+   "et": ""
+  },
+  {
+   "id": 3,
+   "en": "{07 14 00}Hello there! {01 00 00 05 00}{0b 03 00}{04 02 00}!{01 00 00 0f 00}\nI'm {04 01 00}!\n\nI'm from {ff 00 00 08}{04 10 00}{ff 00 00 00},{01 00 00 05 00} and I\nwas born under the sign of\n{04 0f 00}.{01 01 00}\n.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 0b 00}How about you?{01 00 00 0f 00}\n{07 00 00}You're {04 00 00}?{01 00 00 0a 00} OK!{01 01 00}\n\n{07 14 00}I just know we're going to\nbe friends, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 4,
+   "en": "Well, hello! {01 00 00 05 00}It's nice to\nmeet you. {01 00 00 0f 00}Or at least, I\nthink it is{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} {07 0b 00}Isn't it?\n{07 00 00}I'm sorry. {01 00 00 0f 00}I totally spaced\nout. I got the sudden urge\nto go {04 22 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n{07 14 00}Anyway, I'm {04 01 00}.\nI only just moved here\nfrom {ff 00 00 08}{04 10 00}{ff 00 00 00}.\nI'm so glad that I'm finally\nstarting to meet some new\npeople, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 5,
+   "en": "{07 04 00}Oh!{01 00 00 0a 00} You startled me!\n{07 14 00}It's nice to meet you.\n\nI {01 00 00 05 00}just moved in here from\n{ff 00 00 08}{04 10 00}{ff 00 00 00} not too\nlong ago.\nMy name is {04 01 00},{01 00 00 0f 00} my\nsign is {04 0f 00},{01 00 00 05 00} and I\nlike to {04 22 00}.\n{07 0b 00}So,{01 00 00 05 00} what's your name?{01 01 00}\nUh-huh{07 19 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} {0b 03 00}{04 00 00}?\nThat's easy to remember!{01 00 00 0f 00}\n{07 14 00}I hope I run into you\naround town,{01 00 00 05 00} {04 00 00}!\nSee you later, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 7,
+   "en": "{07 04 00}{0b 03 00}{04 1f 00},{01 00 00 0f 00} it's really you!\nI heard you moved!\n\nWell, you'd better not\nforget about me, you got\nthat, {01 00 00 05 00}{04 02 00}?",
+   "et": ""
+  },
+  {
+   "id": 8,
+   "en": "{07 04 00}Oh, {01 00 00 05 00}{04 1f 00}!{01 00 00 14 00}\nI heard that you moved to\nanother town!\n{07 14 00}You take care of yourself,\nOK, {01 00 00 05 00}{04 02 00}?",
+   "et": ""
+  },
+  {
+   "id": 9,
+   "en": "{07 0b 00}{0b 03 00}{04 1f 00},{01 00 00 14 00} is that you?\nI heard that you moved.\n\n{07 16 00}You know, you really should\nhave talked to me about it\nfirst{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}",
+   "et": ""
+  }
+ ]
+}

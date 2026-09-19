@@ -1,0 +1,175 @@
+{
+ "file": "script/ENG/message/sp/npc/cf3_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{06 00 00 0f 10}",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 00 00}Oh!{01 00 00 0f 00} I had a feeling I was\ngoing to meet someone\nhere{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\nAnd{01 00 00 0f 00} I guess that person{01 01 00}\n{07 34 00}is you! Hello!",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 35 00}I spend all day listening to\npeople talk about their\nproblems{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 00 00}I have to tell you, sugar,{01 01 00}{07 36 00}\nit can really bring a gal\ndown.\n{07 34 00}That's why I like to come\nhere {01 00 00 05 00}and just get away\nfrom it all.",
+   "et": ""
+  },
+  {
+   "id": 3,
+   "en": "{06 0b 00 08 09 0a 0b 0c 0d 0e}",
+   "et": ""
+  },
+  {
+   "id": 4,
+   "en": "Oh, to be a young pup\nagain{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 01 00}\n{06 03 00 11 12}",
+   "et": ""
+  },
+  {
+   "id": 5,
+   "en": "{06 01 00 13 14 15}",
+   "et": ""
+  },
+  {
+   "id": 6,
+   "en": "{06 01 00 16 17 18}",
+   "et": ""
+  },
+  {
+   "id": 7,
+   "en": "{06 01 00 19 1a 1b}",
+   "et": ""
+  },
+  {
+   "id": 8,
+   "en": "{07 34 00}So,{01 00 00 05 00} did your little chat\nboost your spirits, sugar?",
+   "et": ""
+  },
+  {
+   "id": 9,
+   "en": "{07 33 00}Did you know that coffee\ngrounds are a wonderful\nexfoliant for the scalp?\n{07 34 00}Oh, yes. {01 00 00 05 00}{07 00 00}But the cleanup\nis utter torture.",
+   "et": ""
+  },
+  {
+   "id": 10,
+   "en": "{07 34 00}I can't tell you how often\nI've tried to re-create the\nrich, dark hue of coffee{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 00 00}on someone's head!{01 01 00} {07 36 00}It's just\nnever the same as it is in\nthe mug, though.",
+   "et": ""
+  },
+  {
+   "id": 11,
+   "en": "{07 00 00}It's not easy spending all\nday on your feet, {01 00 00 05 00}{07 37 00}but\nstrong coffee...\nand even stronger perm\nfumes certainly help,{01 00 00 05 00}\ndoncha know!",
+   "et": ""
+  },
+  {
+   "id": 12,
+   "en": "{07 33 00}Good coffee,{01 00 00 05 00} like the right\nhairstyle,{01 00 00 05 00} coaxes your true\nself to the surface{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}",
+   "et": ""
+  },
+  {
+   "id": 13,
+   "en": "{07 35 00}I think {ff 00 00 06}Tom Nook {ff 00 00 00}could\nreally {01 00 00 05 00}use a good thermal\nreconditioning{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 00 00}It just pains me to look\nat that rat's nest he's got\ngoing on!",
+   "et": ""
+  },
+  {
+   "id": 14,
+   "en": "Have you tried the Mount\nGrindgolia blend tonight?{01 00 00 0f 00}\n{07 37 00}Whoo! {01 00 00 0a 00}It's so strong...\nit'll put hair on your chest{01 00 00 0a 00}\nand then style it into a\nfetching bouffant, sugar!",
+   "et": ""
+  },
+  {
+   "id": 15,
+   "en": "Oh, my!{01 00 00 0f 00} {07 36 00}I didn't think I'd\nrun into anyone here!{01 00 00 05 00} This\nplace is my secret hideout!\n{07 33 00}I was trying to be all\nincognito, sugar{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.",
+   "et": ""
+  },
+  {
+   "id": 16,
+   "en": "Oh, hi there.{01 00 00 0f 00}{07 00 00} Did I look\nlonely? {01 00 00 0f 00}{07 34 00}How thoughtful of\nyou to come say hi!\nOh!{01 01 00} {07 36 00}It's fine!{01 00 00 05 00} It's fine!{01 00 00 0f 00}\nYou don't have to say a \nthing.\n{07 37 00}I already know whatever you\nwere going to say.{01 00 00 05 00} Call it a\nstylist's intuition.",
+   "et": ""
+  },
+  {
+   "id": 17,
+   "en": "{07 37 00}You're still at the age when\neven a mullet would look\nbecoming, sweetie!",
+   "et": ""
+  },
+  {
+   "id": 18,
+   "en": "{07 37 00}You're still at the age\nwhere even a corkscrew\nperm is flattering.\n{07 34 00}You know, sugar,{01 00 00 05 00} there was\na time when I could say the\nsame.",
+   "et": ""
+  },
+  {
+   "id": 19,
+   "en": "{07 37 00}The aroma of coffee has \nthe power to get people \nall fired up!\n{07 33 00}It's just like the sweet,\nsweet fragrance of\nperoxide, sugar!",
+   "et": ""
+  },
+  {
+   "id": 20,
+   "en": "{07 33 00}Ah, coffee.{01 01 00} {07 34 00}It's as\ncomforting as running your\npaws over a fresh buzz cut.",
+   "et": ""
+  },
+  {
+   "id": 21,
+   "en": "{07 34 00}Coffee jitters are great\nfor texturizing messy\nshags,{01 00 00 05 00} doncha know!",
+   "et": ""
+  },
+  {
+   "id": 22,
+   "en": "{07 00 00}The secret to that inner\nglow {01 00 00 05 00}is some nice face-\nframing layers{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 37 00}And a few cups of strong\ncoffee!",
+   "et": ""
+  },
+  {
+   "id": 23,
+   "en": "{07 36 00}I hate to embarrass you,\nsugar, {01 00 00 05 00}but your hair's\nlooking a tad flat.\n{07 37 00}A misting of Industrihold\nwould perk that sad 'do\nright up.",
+   "et": ""
+  },
+  {
+   "id": 24,
+   "en": "{07 37 00}I think {ff 00 00 06}Brewster{ff 00 00 00} would look\nmighty fine with a tad more\nvolume around the crown.\nBut he's so sensitive, {01 00 00 05 00}{07 38 00}it'd\nprobably really ruffle his\nfeathers if I told him so.",
+   "et": ""
+  },
+  {
+   "id": 25,
+   "en": "You can't sleep either?\n\n\n{07 37 00}I know what you mean.{01 01 00} I've\nbeen up all night worrying\nabout my split ends.",
+   "et": ""
+  },
+  {
+   "id": 26,
+   "en": "{06 01 00 1c 1d 1e}",
+   "et": ""
+  },
+  {
+   "id": 27,
+   "en": "{06 09 00 1f 20 21}",
+   "et": ""
+  },
+  {
+   "id": 28,
+   "en": "{07 37 00}I especially like drinking\ncoffee when I'm mixing up\nhair colors.\n{07 34 00}You just can't beat that\nfor kick-starting\ncreativity, sweetie{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 35 00}But some people don't like\ncreativity{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}. They call it\nclown hair{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.",
+   "et": ""
+  },
+  {
+   "id": 29,
+   "en": "{07 34 00}I read in {ff 00 00 02}Ms. Nintendique{ff 00 00 00}\nthat coffee's the hot new\nstyling product.",
+   "et": ""
+  },
+  {
+   "id": 30,
+   "en": "{07 34 00}There's no such thing as\nhair that's \"too big,\" shug.\n\n{07 38 00}That's just a bunch of\nhooey started by those\nanti-product lobbyists.",
+   "et": ""
+  },
+  {
+   "id": 31,
+   "en": "{07 34 00}{ff 00 00 06}Brewster{ff 00 00 00} sure makes a mean\ncup of joe, {01 00 00 05 00}doncha think?",
+   "et": ""
+  },
+  {
+   "id": 32,
+   "en": "I have to stay here 'til the\nrain stops,{01 00 00 05 00} or my hair will\ndeflate. {01 00 00 0f 00}{07 36 00}Quelle horror!",
+   "et": ""
+  },
+  {
+   "id": 33,
+   "en": "{07 33 00}Frozen hair is the hot new\nlook for winter! {01 00 00 0a 00}Tell all\nyour friends, shug!",
+   "et": ""
+  }
+ ]
+}

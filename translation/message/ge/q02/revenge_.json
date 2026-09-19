@@ -1,0 +1,20 @@
+{
+ "file": "script/ENG/message/ge/q02/revenge_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 15 00}I guess that was pretty\ngood, {04 1f 00}!{01 00 00 0a 00} But NEXT\nTIME won't be so easy!",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 1b 00}Wow! {01 00 00 05 00}I guess I totally\nmisunderestimated you,\n{01 00 00 05 00}{04 1f 00}!\n{07 15 00}But next time,{01 00 00 05 00} prepare to\nface your worst nightmare,{01 00 00 05 00}\n{01 00 00 05 00}{04 02 00}! {01 00 00 05 00}ME!",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 08 00}Oh, fuzzbuckets!{01 00 00 0a 00} I was\nsoooo close!!{01 00 00 0a 00} WAAAAAAH!!",
+   "et": ""
+  }
+ ]
+}

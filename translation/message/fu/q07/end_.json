@@ -1,0 +1,20 @@
+{
+ "file": "script/ENG/message/fu/q07/end_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 14 00}Thank you so much!",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 0d 00}You ROCK, {04 1f 00}!",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 14 00}Thanks to you, {04 1f 00},\nthe job's done!{01 00 00 05 00} You handled\nit like a pro, {01 00 00 05 00}{04 02 00}.",
+   "et": ""
+  }
+ ]
+}

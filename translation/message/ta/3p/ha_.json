@@ -1,0 +1,90 @@
+{
+ "file": "script/ENG/message/ta/3p/ha_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{09 01 00}{09 08 00}{07 04 00}Oh,{01 00 00 05 00} what happened to you,\n{ff 00 00 06}{04 10 00}{ff 00 00 00}? {01 00 00 05 00}Why does your\nface look all like {07 02 00}this?{09 09 00}",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{09 01 00}{09 08 00}{07 15 00}Hey, check it out,\n{ff 00 00 06}{04 10 00}{ff 00 00 00}!{01 00 00 05 00} {07 00 00}I'm{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 01 00}{07 01 00}gonna\ndance!{09 09 00}",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{09 01 00}{09 04 00}{09 02 00}{09 03 00}{09 01 00}Hey, {01 00 00 05 00}{ff 00 00 06}{04 1f 00}{ff 00 00 00},{01 00 00 0f 00} don't I\n{01 00 00 0a 00}smell good? {01 00 00 05 00}{07 14 00}I just got\nthis new perfume, see.\n{07 19 00}It's {01 00 00 0a 00}a little spicier{01 00 00 05 00} and\nlots more romantic!{07 00 00}{09 09 00}",
+   "et": ""
+  },
+  {
+   "id": 3,
+   "en": "{09 00 00}{09 08 00}{09 02 00}{09 06 00}Like {07 02 00}this,{ff 00 00 06} {04 0f 00}{ff 00 00 00}?{01 00 00 0f 00} {07 19 00}Well,\nat first, I was just doing\nmy forehead exercises.\n{07 15 00}My frontalis muscle was\ngettin' all flabby,{01 00 00 05 00} and\nnobody likes a dough face!{09 09 00}",
+   "et": ""
+  },
+  {
+   "id": 4,
+   "en": "{09 00 00}{09 06 00}{09 01 00}{07 00 00}Oh.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} {07 07 00}I-I don't want a dough\nface, either. {01 01 00}You HAVE to\nshow me those exercises!{09 09 00}",
+   "et": ""
+  },
+  {
+   "id": 5,
+   "en": "{09 00 00}{09 08 00}{09 02 00}{07 19 00}All right, all right{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} Follow\nmy lead, spaghetti legs!{01 00 00 05 00}\nStep one!\n{09 01 00}{07 00 00}{09 02 00}{07 01 00}Flex those biceps, and\nSQUEEZE that brow! Do you\nfeel the burn?!{01 00 00 05 00} {07 05 00}{01 08 00}DO YOU?!{09 09 00}",
+   "et": ""
+  },
+  {
+   "id": 6,
+   "en": "{09 00 00}{09 06 00}{09 01 00}{07 05 00}{01 08 00}Like this?{01 00 00 0f 00} {07 00 00}Oh, that's not it.{01 01 00}\n{07 08 00}I'm gonna end up with a\ndough face, I just know it!{09 09 00}",
+   "et": ""
+  },
+  {
+   "id": 7,
+   "en": "{09 00 00}{09 08 00}{09 02 00}{07 14 00}Actually, {01 00 00 05 00}crying's not a bad\nexercise. {01 00 00 05 00}It totally tones\nthose flabby eyelids!\n{07 03 00}Ha HAR HAR HAR!",
+   "et": ""
+  },
+  {
+   "id": 8,
+   "en": "{09 00 00}{09 08 00}{09 02 00}{09 06 00}OK!{01 00 00 0f 00} Come here, and lemme\nsee whatcha got,\n{01 00 00 05 00}{ff 00 00 06}{04 0f 00}{ff 00 00 00}, {01 00 00 05 00}{04 02 00}!{09 09 00}",
+   "et": ""
+  },
+  {
+   "id": 9,
+   "en": "{09 00 00}{09 06 00}{09 01 00}{07 0d 00}Woot! {01 00 00 05 00}Woot woot!{01 00 00 05 00} Woot!{01 00 00 05 00} Woot\nwoot! {00 01 00}{09 09 00}",
+   "et": ""
+  },
+  {
+   "id": 10,
+   "en": "{09 00 00}{09 08 00}{09 02 00}{09 06 00}{07 15 00}What!{01 00 00 0f 00} You call that dancing?!\n{01 00 00 0a 00}You're not engaging any of\nyour core muscle groups.\nLemme show you some REAL\nmoves! {01 00 00 05 00}This is a dance I\nlike to call \"the Wrassle.\"{01 00 00 05 00}{07 02 00}{01 00 00 05 00}{07 01 00}{01 00 00 05 00}{07 03 00}{01 00 00 05 00}{07 07 00}{01 00 00 05 00}{07 0d 00}{01 00 00 05 00}{07 06 00}{01 00 00 05 00}\n{0b 03 00}{04 02 00}!{09 09 00}",
+   "et": ""
+  },
+  {
+   "id": 11,
+   "en": "{09 00 00}{09 06 00}{09 01 00}{07 1d 00}{01 00 00 05 00}Oh! {01 00 00 0a 00}{07 07 00}Like this,{01 00 00 0f 00} {ff 00 00 06}{04 10 00}{ff 00 00 00}?\n{07 0d 00}Woot!{01 00 00 05 00} Woot woot!{09 09 00}",
+   "et": ""
+  },
+  {
+   "id": 12,
+   "en": "{09 00 00}{09 08 00}{09 02 00}{07 00 00}Uh,{01 00 00 05 00} no. First of all,{01 00 00 05 00} you\ngotta break a sweat. Like\nthis, {01 00 00 05 00}{04 02 00}!{01 00 00 05 00}{07 02 00}{01 00 00 05 00}{07 01 00}{01 00 00 05 00}{07 03 00}{01 00 00 05 00}{07 07 00}{01 00 00 05 00}{07 0d 00}{01 00 00 05 00}{07 06 00}{01 00 00 05 00}\n{07 0a 00}Then, {01 00 00 05 00}you gotta come up\nwith something better to\nshout.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}like {04 02 00}!{03 01 00 01}{09 01 00}{03 01 00 01}",
+   "et": ""
+  },
+  {
+   "id": 13,
+   "en": "{09 00 00}{09 08 00}{09 01 00}{09 08 00}{09 02 00}{09 05 00}{09 06 00}{07 16 00}Oh{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} Is that so,\n{01 00 00 05 00}{04 02 00}.{09 09 00}",
+   "et": ""
+  },
+  {
+   "id": 14,
+   "en": "{09 00 00}{09 06 00}{09 01 00}{07 15 00}That's right, {01 00 00 05 00}{04 02 00}!\n{07 00 00}{ff 00 00 06}{04 10 00}{ff 00 00 00}, you gotta pay\nmore attention to fashion.\n{07 19 00}Otherwise, you'll be\nalone forever!{09 09 00}",
+   "et": ""
+  },
+  {
+   "id": 15,
+   "en": "{09 00 00}{09 08 00}{09 02 00}{07 15 00}Who cares?!{01 00 00 0f 00} I've got my\nHUGE, bulging muscles to\nkeep me company!\nSeriously, with babies like\nthese,{01 00 00 0f 00}{07 03 00} who needs friends?!\n\n{07 14 00}Besides,{01 00 00 05 00} I don't believe in\nperfume.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{09 01 00}{07 02 00}{09 02 00}\n\n{07 14 00}Nope! The only perfume I\nuse{01 01 00} is good, clean sweat!{09 01 00}{07 02 00}{09 02 00}{09 09 00}",
+   "et": ""
+  },
+  {
+   "id": 16,
+   "en": "{09 00 00}{09 06 00}{09 01 00}{07 09 00}{01 00 00 0a 00}That's so gross, {01 00 00 05 00}I might\nbarf.{01 00 00 05 00}.{01 00 00 05 00}.{03 03 00 01}{09 02 00}{07 03 00}",
+   "et": ""
+  }
+ ]
+}

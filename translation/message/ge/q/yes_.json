@@ -1,0 +1,20 @@
+{
+ "file": "script/ENG/message/ge/q/yes_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 14 00}OK then, {01 00 00 05 00}{04 02 00}!\nTake care, {01 00 00 0a 00}{04 1f 00}!",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 14 00}Right on, {04 1f 00}!{01 00 00 05 00} I'm\nTOTALLY counting on you,\n{01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 14 00}Awesome! {01 00 00 05 00}Here ya go!{01 00 00 14 00} Be\ngood, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  }
+ ]
+}

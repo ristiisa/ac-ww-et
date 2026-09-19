@@ -1,0 +1,105 @@
+{
+ "file": "script/ENG/message/ha/ev/snowfes_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 14 00}{ff 00 00 03}Bright Nights {ff 00 00 00}is here!{01 00 00 05 00}\nYESSSSS, {04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 14 00}Yo yo, {01 00 00 05 00}{04 1f 00}!{01 00 00 05 00}\nWassup, {04 02 00}?",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 0d 00}Snow is cold, {01 00 00 05 00}but this bod\nis toasty hot, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 3,
+   "en": "{07 14 00}Hey, {04 1f 00}, {01 00 00 0a 00}{ff 00 00 03}Bright\nNights {ff 00 00 00}has started, y'know!\n\n{07 00 00}I wanna win the contest \n{ff 00 00 06}Tortimer{ff 00 00 00}'s sponsoring and\nbe the {ff 00 00 02}Bright Star{ff 00 00 00}!  \n{07 16 00}Problem is, decorating the\nhouse is harder than I\nthought, {01 00 00 05 00}{04 02 00}!\n{07 01 00}Dang!{01 00 00 14 00} I wish this was a\nbare-hand snow-plowing\ncontest, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 4,
+   "en": "{07 14 00}{ff 00 00 03}Bright Nights {ff 00 00 00}starts today,\n{04 1f 00}! {01 00 00 05 00}ROOOCK!\n\n{07 05 00}No WAY am I gonna lose to \n{04 0d 00}, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 5,
+   "en": "{07 14 00}Hey yo, {ff 00 00 05}{04 1f 00}{ff 00 00 00}!{01 00 00 0a 00}\nWhat do you think of my\npad, {01 00 00 05 00}{04 02 00}?!\n{07 0d 00}If you dig it, and I KNOW\nyou do, then tell {ff 00 00 06}Tortimer \n{ff 00 00 00}all about the radness!",
+   "et": ""
+  },
+  {
+   "id": 6,
+   "en": "{07 0b 00}Hey, so, {04 1f 00}, you're\non my side in this contest,\nright, {01 00 00 05 00}{04 02 00}?!\n{07 00 00}Sure you are. {01 00 00 05 00}So grab\n{ff 00 00 06}Tortimer {ff 00 00 00}and {07 0d 00}tell him that\n{04 01 00}'s lights are...\n{01 08 00}THE ABSOLUTE BEST!",
+   "et": ""
+  },
+  {
+   "id": 7,
+   "en": "{07 06 00}I gotta win this contest!{01 00 00 05 00}\nI gotta be the {ff 00 00 02}Bright Star{ff 00 00 00}!\n\n{07 16 00}It's all up to you voting,\n{01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 8,
+   "en": "{07 16 00}This is the worst news EVER,{01 00 00 05 00}\n{ff 00 00 05}{04 1f 00}{ff 00 00 00}!{01 00 00 0a 00}\n\n{07 08 00}I didn't win {ff 00 00 03}Bright Nights{ff 00 00 00}!{01 00 00 05 00}\n{07 16 00}I put my lights up faster\nthan {ff 00 00 06}{04 0f 00}{ff 00 00 00}, but...\n{07 1c 00}I wonder what I did wrong{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 05 00}\n{04 02 00}.",
+   "et": ""
+  },
+  {
+   "id": 9,
+   "en": "{07 01 00}This is completely BOGUS!{01 00 00 0a 00}\nI lost the {ff 00 00 03}Bright Nights{ff 00 00 00}\ncontest! {01 00 00 05 00}WEEEEEEAK!\n{07 00 00}Rumor has it {01 00 00 05 00}{ff 00 00 06}{04 0f 00}\n{ff 00 00 00}was the winner, but...\n\n{07 15 00}I was, like, THIS close until\nthe very end, {01 00 00 05 00}{04 02 00}!\n\n{07 0f 00}Now I have to toss this\n{ff 00 00 02}Bright Star{ff 00 00 00} acceptance\nspeech I wrote...",
+   "et": ""
+  },
+  {
+   "id": 10,
+   "en": "{07 16 00}Didja hear?{0b 03 00} {ff 00 00 06}{04 0f 00}\n{ff 00 00 00}walked away with the title\nof {ff 00 00 02}Bright Star{ff 00 00 00}!\n{07 06 00}Isn't there gonna be a\nrecount, {01 00 00 05 00}{04 02 00}?!",
+   "et": ""
+  },
+  {
+   "id": 11,
+   "en": "{07 0a 00}Check it OUT, {ff 00 00 05}{04 1f 00}{ff 00 00 00}!{01 00 00 0a 00}\nI won {ff 00 00 03}Bright Nights{ff 00 00 00}!{01 00 00 05 00} I'm the\n{ff 00 00 02}Bright Star{ff 00 00 00}!\n{07 14 00}I just GOTTA share this\nawesome feeling!\n\n{07 0d 00}Let's go shake some trees\ntogether, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 12,
+   "en": "{07 17 00}Heh heh{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} You picked me\nas the {ff 00 00 02}Bright Star{ff 00 00 00} of the\nfestival, didn't you?\n{07 15 00}No need to hide it,{01 00 00 0a 00}\n{01 00 00 05 00}{04 02 00}!\n\n{07 11 00}I know you better than \nyou know yourself!",
+   "et": ""
+  },
+  {
+   "id": 13,
+   "en": "{07 14 00}You rock, {04 1f 00}!{01 00 00 0a 00}\nThanks for voting for me\nfor {ff 00 00 02}Bright Star{ff 00 00 00}!\n{07 0b 00}How do I know you did?{01 01 00}\n{07 00 00}Aw, {ff 00 00 06}Tortimer {ff 00 00 00}was mumbling\nabout it...\n{07 16 00}That guy loves mumbling{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}\nDoes he have fake teeth?{01 00 00 05 00}\nOr ANY teeth, {01 00 00 05 00}{04 02 00}?",
+   "et": ""
+  },
+  {
+   "id": 14,
+   "en": "{07 15 00}Hey!{01 00 00 05 00} {0b 03 00}{ff 00 00 05}{04 1f 00}{ff 00 00 00}!{01 00 00 0a 00}\nWhat's the matter with you?{01 00 00 05 00}\nYou look restless!\n{07 00 00}Uh-huh. {01 00 00 05 00}I know what's up.{01 00 00 05 00}\nYou went and voted for me,\n{07 0b 00}didn't you?\n{07 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 04 00}Ah-HA!{01 00 00 05 00} Your nostrils just\nflared!{01 00 00 14 00}{07 14 00} You do that when\nyou lie! {01 00 00 05 00}You are SO busted!",
+   "et": ""
+  },
+  {
+   "id": 15,
+   "en": "{07 15 00}Curse you,{01 00 00 0a 00} {ff 00 00 06}{04 10 00}{ff 00 00 00}!\n\n\n{07 06 00}You got to {04 1f 00},\ndidn't you, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 16,
+   "en": "{07 0b 00}{ff 00 00 06}{04 10 00}{ff 00 00 00}'s decorations\nwere THAT good?\n\n{07 16 00}Somebody explain to me how\nthose lights were better\nthan mine, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 17,
+   "en": "{07 15 00}I may have thought old\n{ff 00 00 06}{04 10 00} {ff 00 00 00}was kinda lazy,\nbut I know better now!\n{07 13 00}Hey, {04 1f 00}, maybe I'LL\nbecome president of the\n{ff 00 00 06}{04 10 00} {ff 00 00 00}fan club!",
+   "et": ""
+  },
+  {
+   "id": 18,
+   "en": "{07 15 00}The only thing {ff 00 00 03}Bright Nights\n{ff 00 00 00}needs in order to end on\nthe perfect note...\n{07 00 00}...is for none other than\nME to{01 01 00}{07 0d 00} win the {ff 00 00 03}Bright Nights{ff 00 00 00}\ndecoration contest!",
+   "et": ""
+  },
+  {
+   "id": 19,
+   "en": "{07 0d 00}Don't you think my house is\njust beyond flashy?\n\n{07 16 00}Problem is, I heard that\nthe flashiest house doesn't\nautomatically win...",
+   "et": ""
+  }
+ ]
+}

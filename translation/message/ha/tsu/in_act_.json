@@ -1,0 +1,110 @@
+{
+ "file": "script/ENG/message/ha/tsu/in_act_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{00 01 00}{07 00 00} Yo, wassup, {04 1f 00}!{01 00 00 0a 00}\n{07 0b 00}You been{01 00 00 05 00} catching bugs?\n\n{07 00 00}Hey, y'know how you can only\ncatch certain bugs at\ncertain times of the year?\n{07 16 00}Well, I hate it! {01 00 00 05 00}Life'd be\neasier if I could catch 'em\nall year round!",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 0b 00}You trying to catch one of\nthose things, {01 00 00 05 00}{04 02 00}?\n{0b 03 00}{04 1a 00}?\n{07 15 00}Yeah, well, this is my turf,\nso stay the heck outta my\nway, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 00 00}Man, I am just HOOKED on{01 00 00 05 00}\ntrying to catch myself\n{04 1a 00}!\n{07 15 00}Try to get as close as\npossible when swinging your\n{ff 00 00 07}net{ff 00 00 00}...{01 00 00 14 00}but not too close!\n{07 0d 00}Gauging the ideal distance\nis what makes it so much \nfun, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 3,
+   "en": "{07 00 00}Man, whoever invented the\n{ff 00 00 07}net {ff 00 00 00}must've been a genius,\n{01 00 00 05 00}{04 02 00}!\n{07 16 00}Before I had{01 00 00 05 00} a{ff 00 00 07} net{ff 00 00 00} of my\nown...\n\n{07 06 00}I would have to use my\nbare hands to catch\n{04 1a 00}!",
+   "et": ""
+  },
+  {
+   "id": 4,
+   "en": "{07 15 00}You wanna know who's the\ntoughest?!{01 00 00 05 00} Then check THIS\nout, baby!\n{07 17 00}Heh heh!{01 00 00 05 00} Hey! {01 00 00 05 00}Yow!{01 00 00 05 00}\nIt tingles, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 5,
+   "en": "{07 04 00}I found one! {01 00 00 05 00}It's mine!{01 00 00 05 00}\nAll mine, {01 00 00 05 00}{04 02 00}!\n\n{07 05 00}I saw it first, you swine!{01 00 00 05 00}\nIt's mine! {01 00 00 05 00}MINE, I TELL YOU!{01 00 00 05 00}\nGet away, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 6,
+   "en": "{07 02 00}Whoa, {01 00 00 0f 00}you see that bug?!{01 00 00 05 00}\nThat thing was as big as\na dang HOUSE!\n{07 15 00}Oh, it's ON now, bug!{01 00 00 05 00}\nI'll climb up that cliff if I\nhave to, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 7,
+   "en": "{07 15 00}Shhhhhhhhhhhhhhhhhhhh!\nQuiet, {01 00 00 05 00}{04 02 00}!\n\nYou're gonna scare 'em!",
+   "et": ""
+  },
+  {
+   "id": 8,
+   "en": "{07 16 00}Yaaarghgh!{01 00 00 05 00} Why can't I find\n{04 1a 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n\n{07 0f 00}Maybe I should bail and just\ndo sit-ups.{01 00 00 05 00} I know where to\nfind THOSE, {01 00 00 05 00}{04 02 00}.",
+   "et": ""
+  },
+  {
+   "id": 9,
+   "en": "{07 16 00}Today has GOT to be the\nday, {01 00 00 05 00}{04 02 00}!\n\n{07 15 00}Come rain, sleet, or snow,{01 00 00 05 00}\nI'm gonna catch me{01 00 00 05 00}\n{04 1a 00}!\n{07 06 00}You won't escape me, fiend!{01 00 00 05 00}\nNot this time!{01 00 00 05 00} Prepare to\nget served, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 10,
+   "en": "{07 00 00}Do you think this is {07 0b 00}a good\ntime of day to catch\n{04 1a 00}?{02 01 00 10 10 14}\nOh yeah!\nNo, I don't.\nI have no idea.",
+   "et": ""
+  },
+  {
+   "id": 11,
+   "en": "{07 16 00}My quest has brought me\nhere at last. {01 00 00 05 00}My quest{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}for\n{04 1a 00}.\n{07 1c 00}So far away from home{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\nMan, I better not be lost,\n{01 00 00 05 00}{04 02 00}.",
+   "et": ""
+  },
+  {
+   "id": 12,
+   "en": "{07 1d 00}Hey, wait, hold up!{01 01 00}{07 14 00}\nOh, I have one of those\nalready, so you can have it!",
+   "et": ""
+  },
+  {
+   "id": 13,
+   "en": "{07 00 00}I really don't need one of\nthose to complete my set...\n\n{07 0e 00}But I might just{01 00 00 05 00} catch that\nbug right there.{01 00 00 05 00} I'm crazy\nlike that, {01 00 00 05 00}{04 02 00}.",
+   "et": ""
+  },
+  {
+   "id": 14,
+   "en": "{07 15 00}Hold it there, poacher!{01 01 00}\nI'm still deciding whether\n{01 00 00 05 00}to catch that bug or not!",
+   "et": ""
+  },
+  {
+   "id": 15,
+   "en": "{07 15 00}Ugh{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} What's your prob?!\nShoosh, {01 00 00 05 00}{04 02 00}!\n\nBe quiet!{01 00 00 05 00} Watch and learn,\n{01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 16,
+   "en": "{06 01 00 11 12 13}",
+   "et": ""
+  },
+  {
+   "id": 17,
+   "en": "{07 15 00}This stinks, {04 1f 00}!{01 00 00 0a 00}\nYou can't just{01 00 00 05 00} trick bugs,\n{01 00 00 05 00}{04 02 00}!\n{07 00 00}I hate to do it, but if it's\nlike this, my only option\nis to use my pheromones...\n{07 05 00}That'll lure out that dang\n{0b 02 00}{04 1a 00}!{01 00 00 05 00}\nHave a whiff, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 18,
+   "en": "{07 04 00}Hey! {01 00 00 14 00}{07 00 00}If you wanna catch \n{04 1a 00}...\n\n{07 06 00}Are you sure a {ff 00 00 07}net{ff 00 00 00} is your\nbest choice, {01 00 00 05 00}{04 02 00}?",
+   "et": ""
+  },
+  {
+   "id": 19,
+   "en": "{07 14 00}Gotcha!{01 00 00 05 00} Thanks for the\nknowledge!\n\n{07 15 00}But even if I catch one,{01 00 00 05 00}\nI'm not giving it to you!\n\n{07 06 00}Don't you understand?!{01 00 00 05 00}\nMy livelihood depends on\nthis, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 20,
+   "en": "{07 14 00}Well,{01 00 00 05 00} if you find out when,\nlemme know, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  }
+ ]
+}

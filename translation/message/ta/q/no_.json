@@ -1,0 +1,20 @@
+{
+ "file": "script/ENG/message/ta/q/no_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{01 00 00 0a 00}{07 04 00}{01 00 00 05 00}Oh,{01 00 00 05 00} I guess you're having\none of your shy episodes.{01 01 00}\n{07 00 00}Oh, well, {01 00 00 0a 00}whatevs.",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 00 00}Yeah?{01 00 00 14 00} Well, {01 00 00 0a 00}it's your loss,\n{01 00 00 0a 00}{04 02 00}.",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 16 00}Oh,{01 00 00 05 00} are you sure?{01 00 00 14 00} {07 00 00}What's up\nwith you all of the sudden,\n{01 00 00 0a 00}{04 02 00}?",
+   "et": ""
+  }
+ ]
+}

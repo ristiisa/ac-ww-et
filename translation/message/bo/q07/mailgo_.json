@@ -1,0 +1,20 @@
+{
+ "file": "script/ENG/message/bo/q07/mailgo_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 14 00}Yes!{01 00 00 14 00} I so needed this!{01 01 00}\n{07 00 00}Just please don't read the\nletter, OK? {01 00 00 0a 00}Promise?",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 14 00}Really?!{01 00 00 14 00}{07 00 00} But you have to\npromise not to open the\nletter,{01 00 00 0a 00} {04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 16 00}It's kind of embarrassing,\nso please don't read it{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 01 00}\n{07 14 00}Thanks! And good luck!",
+   "et": ""
+  }
+ ]
+}

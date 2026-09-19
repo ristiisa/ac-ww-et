@@ -1,0 +1,170 @@
+{
+ "file": "script/ENG/message/fu/tsu/spot_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "I just saw it the other\nday, {01 00 00 05 00}{04 02 00}!\n\n{06 01 00 1a 1b 1c}",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{ff 00 00 06}Pelly {ff 00 00 00}is really nice and\nhelpful and everything{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n\n{07 16 00}But sometimes, she gets all\ndreamy and can't stop\ntalking about herself{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 06 00}Well, {01 00 00 0a 00}uhhh{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00}not that I'm any\ndifferent or anything,\n{01 00 00 05 00}{04 02 00}.",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "Hey, {04 1f 00}!\nWe don't pay any taxes in\n{04 03 00}, right??\n{07 0b 00}So how come they can\nafford such a nice {ff 00 00 08}office{ff 00 00 00}?{02 00 00 16 17}\nThat's cuz...\nThat's weird...",
+   "et": ""
+  },
+  {
+   "id": 3,
+   "en": "{07 14 00}{ff 00 00 06}Tom Nook {ff 00 00 00}is nice and all,\nbut he's kinda boring.\n\n{06 00 00 1f 20}",
+   "et": ""
+  },
+  {
+   "id": 4,
+   "en": "You know, {04 1f 00},{01 00 00 0f 00}\n{ff 00 00 06}Tom Nook {ff 00 00 00}may look boring\nand respectable.\n{07 15 00}But he's a man with a\nwild past, {01 00 00 05 00}{04 02 00}!\n\n{07 00 00}{ff 00 00 06}Sable {ff 00 00 00}told me ALL\nabout it the last time I\nstopped by the shop{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 04 00}Oh, no!{01 00 00 0f 00} {07 16 00}I can't\ntell you any more. {01 00 00 05 00}She\nmade me promise!{01 00 00 0f 00}",
+   "et": ""
+  },
+  {
+   "id": 5,
+   "en": "{ff 00 00 06}Tom Nook{ff 00 00 00}'s store has all\nkinds of stuff, and it's\nreally convenient.\nBut I also like boutiques\nlike {ff 00 00 06}Mabel {ff 00 00 00}and {ff 00 00 06}Sable{ff 00 00 00}'s.\n\n{07 14 00}You can tell the clerks\nthere are really into their\njobs, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 6,
+   "en": "{ff 00 00 06}Blathers {ff 00 00 00}knows a ton about\neverything! Yep, he's got a\nmassive noggin.\nBut the thing is, he\ndoesn't seem to have many\nfriends, {01 00 00 05 00}{04 02 00}.\n{07 16 00}Hmmmmm, {01 00 00 0f 00}maybe\nwe're not smart enough to\nbe his friends{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.",
+   "et": ""
+  },
+  {
+   "id": 7,
+   "en": "{ff 00 00 06}Blathers {ff 00 00 00}is definitely the\nscience nerd of this town.{01 00 00 05 00}\n\nBut get this: even though\nhe loves nature, he\nabsolutely hates bugs!\n{07 16 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}He must have\nhad a really traumatic bug\nexperience, {01 00 00 05 00}{04 02 00}.",
+   "et": ""
+  },
+  {
+   "id": 8,
+   "en": "After lunch, {01 00 00 05 00}I stopped by \nthe {ff 00 00 08}museum, {ff 00 00 00}and {ff 00 00 06}Blathers \n{ff 00 00 00}was sleeping standing up!{01 00 00 0a 00}\nOn top of that, he can spin\nhis head in all sorts of\ncrazy directions!\n{07 0d 00}How cool is that?! I'm so\njealous of him,\n{01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 9,
+   "en": "{06 01 00 0f 10 11}",
+   "et": ""
+  },
+  {
+   "id": 10,
+   "en": "{07 06 00}Please don't pay attention\nto how I arranged my\nfurniture!\n{07 16 00}It's embarrassing{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{02 00 00 12 13}\nNot at all!\nYeah, kinda...",
+   "et": ""
+  },
+  {
+   "id": 11,
+   "en": "{06 02 00 50 14 15}",
+   "et": ""
+  },
+  {
+   "id": 12,
+   "en": "{07 16 00}Maybe it'll sound weird\ncoming from me all of a\nsudden{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{06 07 00 1d 1d 1d 1e}",
+   "et": ""
+  },
+  {
+   "id": 13,
+   "en": "{0b 03 00}{04 1f 00},{01 00 00 0a 00} {07 0b 00}have you seen\na {04 15 00}\naround here?\n{07 0e 00}{0b 03 00}{04 0c 00} told me to look\nfor it here{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n\n{07 02 00}Ahh!{01 00 00 0f 00} {07 06 00}If {04 0c 00} is\nmessing with me, I am\ngoing to FLIP!",
+   "et": ""
+  },
+  {
+   "id": 14,
+   "en": "{07 14 00}Today is {04 07 00}, and{01 00 00 0f 00}\nit's the perfect weather to\n{04 22 00}.",
+   "et": ""
+  },
+  {
+   "id": 15,
+   "en": "{07 14 00}I tried to give this room\nsome of my own style and\nflavor, {01 00 00 05 00}{04 02 00}.",
+   "et": ""
+  },
+  {
+   "id": 16,
+   "en": "HEY! You shouldn't open\nother people's drawers and\ncabinets without asking!",
+   "et": ""
+  },
+  {
+   "id": 17,
+   "en": "{07 14 00}Yep, I'm pretty happy with\nhow my room turned out.",
+   "et": ""
+  },
+  {
+   "id": 18,
+   "en": "{07 00 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 14 00}Yes! {01 00 00 05 00}{0b 03 00}{04 02 00}!\n\n\n{07 0a 00}To tell you the truth,\nI worked hard to design\nmy room, {01 00 00 05 00}{04 02 00}.{03 01 00 01}",
+   "et": ""
+  },
+  {
+   "id": 19,
+   "en": "{07 06 00}Oh{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}. {01 00 00 0a 00}{07 0f 00}So it isn't\ncool enough for you, huh?\nOh, {01 00 00 05 00}{04 02 00}...",
+   "et": ""
+  },
+  {
+   "id": 20,
+   "en": "{07 14 00}Awwww! The big\n{04 1f 00} came to see \nme, {01 00 00 05 00}{04 02 00}!\n{07 16 00}Ohhhh{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0f 00} I wish I knew you\nwere coming!\n\n{07 06 00}I got us some yummy\n{04 13 00}\nyesterday, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 21,
+   "en": "{0b 03 00}Hey, {04 1f 00}, {07 0b 00}how do\nyou like designing for your\nroom, {01 00 00 05 00}{04 02 00}?\n{07 00 00}I don't have\na {04 15 00}\nin my house{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 14 00}Do you like what I did with\nmy place, {01 00 00 05 00}{04 02 00}?",
+   "et": ""
+  },
+  {
+   "id": 22,
+   "en": "{06 00 00 18 19}",
+   "et": ""
+  },
+  {
+   "id": 23,
+   "en": "{07 00 00}I think it's because {ff 00 00 06}Pelly \n{ff 00 00 00}and {ff 00 00 06}Phyllis {ff 00 00 00}worked so hard\nfor it, {01 00 00 05 00}{04 02 00}.\n{07 0e 00}{ff 00 00 06}Pete {ff 00 00 00}is{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00} {07 16 00}Well, he's kind of\na slacker, {01 00 00 05 00}{04 02 00}.",
+   "et": ""
+  },
+  {
+   "id": 24,
+   "en": "{07 04 00}Ahhhhh, {01 00 00 0f 00}never mind!\n{07 16 00}I'm sorry, {01 00 00 05 00}{04 02 00}!{01 00 00 0f 00}\nDon't say another word!\n{07 06 00}I've already heard too many\ndark rumors about\n{ff 00 00 06}Tortimer.{ff 00 00 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{04 02 00}.",
+   "et": ""
+  },
+  {
+   "id": 25,
+   "en": "{07 04 00}{01 00 00 0f 00}Get this! I just heard\nthis deliciously juicy rumor\nabout {ff 00 00 06}Tortimer{ff 00 00 00}.{ff 00 00 06}\n{ff 00 00 00}From what I hear, he made\na killing in the{ff 00 00 06} {ff 00 00 07}{07 00 00}turnip{ff 00 00 00}\nmarkets, {01 00 00 05 00}{04 02 00}.",
+   "et": ""
+  },
+  {
+   "id": 26,
+   "en": "{07 16 00}{ff 00 00 06}Pelly {ff 00 00 00}and {ff 00 00 06}Phyllis {ff 00 00 00}were\ntotally raging on each\nother{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 0b 00}I wonder what it was all\nabout?{01 00 00 0f 00} {07 16 00}It wasn't even their\nusual bickering{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 04 00}Ack!{01 00 00 0f 00} Pleeeease don't\n{07 16 00}say anything to anyone.{01 00 00 0f 00}\nPromise, {01 00 00 05 00}{04 02 00}?",
+   "et": ""
+  },
+  {
+   "id": 27,
+   "en": "{07 16 00}Early in the morning,{01 00 00 0a 00}\n{ff 00 00 06}Phyllis {ff 00 00 00}was crying all alone\nin the {ff 00 00 08}plaza{ff 00 00 00}.\n{07 04 00}Oh,{01 00 00 0f 00}{07 16 00} but you CAN'T tell\nANYONE!{01 00 00 0f 00} Promise me,\n{01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 28,
+   "en": "{07 06 00}It looked like {ff 00 00 06}Pete {ff 00 00 00}had\nbeen in a fight. His cheeks\nwere all pink, {01 00 00 05 00}{04 02 00}!\n{07 16 00}Yes, it's true.{01 00 00 0f 00}\nBOTH cheeks{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n\n{07 04 00}ACK!{01 00 00 0f 00} {07 16 00}Did I just say that?\nYou should probably keep\nthat one to yourself.",
+   "et": ""
+  },
+  {
+   "id": 29,
+   "en": "{07 00 00}More people need to move\nto {04 03 00}. I'm serious!\n\n{07 0b 00}That way, we can do way\nmore fun activities,\n{01 00 00 05 00}{04 02 00}!\n{07 0d 00}We could totally start up\na {04 13 00}\nclub!",
+   "et": ""
+  },
+  {
+   "id": 30,
+   "en": "{07 14 00}{0b 03 00}{04 03 00} is such a\ncute town, {01 00 00 05 00}{04 02 00}!{01 01 00}\n{07 0d 00}I heart {04 03 00}!{03 01 00 01}",
+   "et": ""
+  },
+  {
+   "id": 31,
+   "en": "{07 00 00}He might not look it, but\nhe's really quick,\n{01 00 00 05 00}{04 02 00}.\n{07 14 00}Especially when he's\ncounting his money!",
+   "et": ""
+  },
+  {
+   "id": 32,
+   "en": "{07 09 00}But that doesn't mean he\ngives us a discount,\n{01 00 00 05 00}{04 02 00}.",
+   "et": ""
+  }
+ ]
+}

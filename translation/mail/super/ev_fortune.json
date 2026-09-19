@@ -1,0 +1,20 @@
+{
+ "file": "script/ENG/mail/super/ev_fortune.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "Your fortune:",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "Today's fortune:",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "Your secret fortune:",
+   "et": ""
+  }
+ ]
+}

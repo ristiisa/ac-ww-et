@@ -1,0 +1,35 @@
+{
+ "file": "script/ENG/message/ha/tsu/fu_hint_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 00 00}So I bought some furniture\nat {ff 00 00 06}Redd{ff 00 00 00}'s the other day and\nsold it at {ff 00 00 06}Tom Nook{ff 00 00 00}'s...\n{07 16 00}But for a fraction of the\ncost that I paid for it!{01 00 00 0a 00}\nTotal rip-off!\n{07 00 00}I mean, {ff 00 00 06}Redd{ff 00 00 00} carries some\npretty rare items...\n\n{07 16 00}But {ff 00 00 06}Tom Nook{ff 00 00 00} has that\n{ff 00 00 02}point system{ff 00 00 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n\nMan, I'm stumped. {07 0b 00}Which one\ndo you think is the better\nvalue, {01 00 00 05 00}{04 02 00}?",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 00 00}So I bought a dresser at\n{ff 00 00 06}Nook{ff 00 00 00}'s the other day and\njammed my clothes in it...\n{07 14 00}Man, that thing could store\nan elephant!{01 00 00 05 00} Dressers never\nheld this much before!\n{06 01 00 03 04 05}",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 0c 00}Oh, I forgot to tell ya!{01 00 00 14 00}\n{07 00 00}I heard this from someone\nwho went to another town...\n{07 15 00}This dude said the shop had\nstuff you can't find in\n{04 03 00}, {01 00 00 05 00}{04 02 00}!\n{07 06 00}Man,{01 00 00 0f 00} who knew {ff 00 00 06}Nook{ff 00 00 00} was so\ndang sly?",
+   "et": ""
+  },
+  {
+   "id": 3,
+   "en": "{07 0a 00}So that means I can buy\nsome sweet different sport\njerseys, {01 00 00 05 00}{04 02 00}!{03 01 00 01}",
+   "et": ""
+  },
+  {
+   "id": 4,
+   "en": "{07 00 00}That means that I should\nbe able to add those last\nfew precious pieces...\n{07 0a 00}Yeah! {01 00 00 05 00}My collection of\nwrestling uniforms will soon\nbe complete, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 5,
+   "en": "{07 06 00}Forget clothes! I might\nstart sleeping in my\ndresser, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  }
+ ]
+}

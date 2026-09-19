@@ -1,0 +1,35 @@
+{
+ "file": "script/ENG/message/ge/tsu/in_hint_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 14 00}If you wanna catch\n{04 1a 00},\ndo it {04 12 00}.\n{07 0b 00}Those guys are always on\ntrees, right, {01 00 00 05 00}{04 02 00}?\n\n{07 04 00}What?! {01 00 00 14 00}{07 06 00}You mean ALL bugs\naren't always on trees?!{01 00 00 0a 00}\nWow, did you go to college?",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 00 00}I was boogying through\nsome weeds just now, and...\n\n{07 06 00}{0b 03 00}{04 1a 00} \njumped out like RAAAAWR!{01 00 00 05 00}\nI wigged, {04 02 00}!\n{07 11 00}I'll tell ya, if you wanna\ncatch one of them, hunt\n{04 12 00}!",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 00 00}Yesterday, I heard that my \nfriend {04 0b 00} got \n{04 1a 00}...\nYup, I totally cruised over\nand checked the thing out,\nfiguring it'd be adorable...\n{07 16 00}But it wasn't that cute!{01 00 00 05 00}\nIt was kinda heinous,\n{04 02 00}!\nHow do I put this...{01 00 00 05 00} It just\ndoesn't have enough legs\nor something!",
+   "et": ""
+  },
+  {
+   "id": 3,
+   "en": "{07 06 00}I gotta say, {01 00 00 05 00}I'm a little\nbummed 'cause I can't find\na bug I like...\n{07 16 00}Seems like every tree has\n{04 1a 00} on\nit.{01 00 00 05 00} Too bad I hate them!",
+   "et": ""
+  },
+  {
+   "id": 4,
+   "en": "{07 00 00}Every patch of weeds I step\nin seems to be hiding\n{04 1a 00}!\n{07 06 00}So how come I can't find \na single bug that I like,\n{01 00 00 05 00}{04 02 00}?!\n{07 16 00}Listen, {04 1f 00},{01 00 00 05 00} if you\nfind something awesome, you\ngotta tell me!",
+   "et": ""
+  },
+  {
+   "id": 5,
+   "en": "{07 0b 00}So wait, you're looking for \nsome weird bug called\n{04 1a 00}?\n{07 00 00}It WOULD hang out here...{01 01 00}\n{07 16 00}But{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}I don't think it's\nin season now, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  }
+ ]
+}

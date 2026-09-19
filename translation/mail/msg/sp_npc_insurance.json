@@ -1,0 +1,40 @@
+{
+ "file": "script/ENG/mail/msg/sp_npc_insurance.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "Stung? By a bee? Lyle can\ntell. Your face? Gross.\nHere. The money? Yours.\nBenefits. Take 'em.",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "Get stung? By a bee? Hard\nluck. Lyle knows. Here.\nHave some money. For the\npolicy. Insurance. Yours.",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "Fell down? Tough break.\nHere. Have some money.\nIt's a benefit. From the\npolicy. Yours. Take it.",
+   "et": ""
+  },
+  {
+   "id": 3,
+   "en": "You fell? Too bad. Have\nsome cash. Bells. 100.\nGenerous? Yep, Lyle knows.\nNo worries. It's yours.",
+   "et": ""
+  },
+  {
+   "id": 4,
+   "en": "Forged painting? You got\n{04 12 00}. Why? Dunno. Anyway,\nhave some Bells. {04 13 00}.\nFor the damages.",
+   "et": ""
+  },
+  {
+   "id": 5,
+   "en": "Whoa. Hold it. Forged\npaintings? You bought {04 12 00}?\nBusts my chops. Oh well.\nHere's {04 13 00} Bells.",
+   "et": ""
+  },
+  {
+   "id": 6,
+   "en": "Whoa. Forged paintings?\nYou got a ton. Good thing\nyou have insurance. Here.\n1,000 Bells. Lyle loves ya.",
+   "et": ""
+  }
+ ]
+}

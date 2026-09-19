@@ -1,0 +1,155 @@
+{
+ "file": "script/ENG/message/ge/tsu/drama_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 00 00}Hey, {01 00 00 05 00}{04 1f 00}. {01 00 00 0a 00}{07 0b 00}Don't you\nthink {ff 00 00 06}Blathers{ff 00 00 00} has been a\nsad muffin lately?\n{07 15 00}I have a talent for sniffing\nout people that aren't\nfeeling peppy, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 00 00}{ff 00 00 06}Blathers {ff 00 00 00}looked really, {01 00 00 05 00}like,{01 00 00 05 00}\nblue today.\n\nIt was weird, because it\nwasn't that green color he\nturns when he sees a bug.\n{07 02 00}{01 08 00}OMIGOSH!!! {01 01 00}Maybe he, {01 00 00 05 00}like,\nfell into a big vat of\nBLUEBERRIES!",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 01 00}{ff 00 00 06}Blathers {ff 00 00 00}is being such a\ntotal gloom 'shroom lately,\n{01 00 00 05 00}{04 02 00}!\n{07 15 00}It's like he's got this\npermanent storm system\nraining over his head!\n{07 06 00}I wish he would \ntalk to me!{01 00 00 05 00} At least he's\nwatering the flowers...",
+   "et": ""
+  },
+  {
+   "id": 3,
+   "en": "{07 16 00}{ff 00 00 06}Tom Nook{ff 00 00 00} never gives any\nhot discounts, {01 00 00 05 00}{04 02 00}!\n\n{07 10 00}But I'm FABULOUS! {01 00 00 05 00}Hotties\nlike me DESERVE discounts!{01 00 00 0a 00}{07 06 00}\nDidn't he get the memo?",
+   "et": ""
+  },
+  {
+   "id": 4,
+   "en": "{07 16 00}He is SOOOOO totally busted,\n{01 00 00 05 00}{04 02 00}!\n\n{07 15 00}I saw {ff 00 00 06}Tom Nook {ff 00 00 00}looking out\ndreamily at this gorgeous\nsunset!\n{07 13 00}Isn't that the sweetest\nthing ever? {01 00 00 05 00}Who\nknew he was so sensitive?",
+   "et": ""
+  },
+  {
+   "id": 5,
+   "en": "{07 00 00}You know what?{01 00 00 05 00} {07 0b 00}{ff 00 00 06}Tom Nook\n{ff 00 00 00}sure is saving up a lot,\ndoncha think?!{02 00 00 13 14}\nI'm sure he is!\nDon't think so.",
+   "et": ""
+  },
+  {
+   "id": 6,
+   "en": "{07 14 00}So I was hanging out at\n{ff 00 00 08}Able Sisters{ff 00 00 00}, and I heard\nthe juiciest{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n{07 04 00}Oh, {01 00 00 05 00}{04 02 00}!{01 01 00} {07 06 00}I promised\nnot to breathe a word\nabout that!",
+   "et": ""
+  },
+  {
+   "id": 7,
+   "en": "{07 14 00}{ff 00 00 06}Mabel{ff 00 00 00} and me had the best\nlittle chat today.{ff 00 00 06}\n\n{ff 00 00 00}{07 00 00}She gives up all kinds of\njuicy gossip, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 8,
+   "en": "{07 15 00}You know, the crazy thing\nabout {ff 00 00 06}Sable {ff 00 00 00}is{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n\n{07 04 00}{0b 03 00}{01 00 00 05 00}{04 02 00}! {01 00 00 14 00}{07 00 00}I can't be\ntalkin' about all that girl's\ndrama. {01 00 00 05 00}It's just NOT RIGHT!",
+   "et": ""
+  },
+  {
+   "id": 9,
+   "en": "{07 00 00}Hey, {04 1f 00}!{01 00 00 05 00} You know\n{ff 00 00 06}Phyllis{ff 00 00 00}, right? {07 0b 00}The lady who\nworks at the {ff 00 00 08}town hall{ff 00 00 00}?{02 00 00 17 18}\nTotally!\nWho?",
+   "et": ""
+  },
+  {
+   "id": 10,
+   "en": "{07 00 00}So yesterday I overheard\n{ff 00 00 06}Pelly {ff 00 00 00}and {ff 00 00 06}Phyllis {ff 00 00 00}talking\nover at the {ff 00 00 08}town hall{ff 00 00 00}.\n{07 06 00}But I had no clue about\nwhat they were talking \nabout.\n{07 16 00}Does that mean I'm too\nimmature to understand it?\n{07 06 00}That's so embarrassing!",
+   "et": ""
+  },
+  {
+   "id": 11,
+   "en": "{07 06 00}{0b 03 00}{04 1f 00}!{01 00 00 0a 00} Can you\nbelieve {ff 00 00 06}Pelly {ff 00 00 00}and {ff 00 00 06}Phyllis\n{ff 00 00 00}are{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 04 00}WHOA!{01 00 00 0f 00} You ALMOST got me to\ndivulge that scorching\nsecret! {01 00 00 05 00}VERY SNEAKY of you!",
+   "et": ""
+  },
+  {
+   "id": 12,
+   "en": "{07 00 00}Have you noticed that {ff 00 00 06}Sable\n{ff 00 00 00}will space out sometimes\nand look super un-chipper?\n{07 06 00}Do you think she might\nbe lovesick, {01 00 00 05 00}{04 02 00}?!",
+   "et": ""
+  },
+  {
+   "id": 13,
+   "en": "{07 00 00}So my most precious\nchildhood memory is{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}. \n\n{06 01 00 19 1a 1b}",
+   "et": ""
+  },
+  {
+   "id": 14,
+   "en": "{07 06 00}I haven't had a stew in\nlike a kabillion years,\n{01 00 00 05 00}{04 02 00}!\n{07 0e 00}Should I cook up a cute\nlittle pot of stew\ntomorrow?",
+   "et": ""
+  },
+  {
+   "id": 15,
+   "en": "{07 14 00}You know,{01 00 00 05 00} {ff 00 00 06}Sable {ff 00 00 00}told me\nthat she's jealous of my\nyouth, {01 00 00 05 00}{04 02 00}!\n{07 06 00}But the thing is, youth{01 00 00 05 00}\nis pretty much the only\nthing I've got going!",
+   "et": ""
+  },
+  {
+   "id": 16,
+   "en": "{07 00 00}So {04 1f 00},{07 0b 00} have you\never been to a big city?{02 00 00 1c 1d}\nYup!\nNot yet.",
+   "et": ""
+  },
+  {
+   "id": 17,
+   "en": "{07 16 00}{ff 00 00 06}Sable {ff 00 00 00}said she sometimes\nforgets her own birthday!\n\n{07 14 00}There's no way I would EVER\nforget mine, {01 00 00 05 00}{04 02 00}!\n\n{07 13 00}That's 'cause it's the day\nI get to stuff myself with\ncake, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 18,
+   "en": "So {ff 00 00 06}Sable {ff 00 00 00}is the princess,{01 00 00 05 00}\n{07 0b 00}and {ff 00 00 06}Tom Nook {ff 00 00 00}is the prince?\n{0b 03 00}{01 00 00 05 00}{04 02 00}?\n{07 06 00}You're gonna have to break\nit down for me,\n{04 1f 00}!",
+   "et": ""
+  },
+  {
+   "id": 19,
+   "en": "{07 14 00}Right on!{01 01 00} {07 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 0c 00}That's it!{01 00 00 05 00} {01 01 00}{07 11 00}I'm\ngonna take over the pop\ncharts!\nThen I'll be cute, stylish,\nand{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.a BAJILLIONAIRE!\nMUHAHA! {01 00 00 0f 00}{07 17 00}I mean, {01 00 00 05 00}tee hee.",
+   "et": ""
+  },
+  {
+   "id": 20,
+   "en": "{07 0e 00}Huh?{01 00 00 05 00} You think so?!\n\n\n{06 03 00 15 16}",
+   "et": ""
+  },
+  {
+   "id": 21,
+   "en": "{07 00 00}Hey,{01 00 00 05 00} {07 16 00}you're jealous of {ff 00 00 06}Tom\nNook{ff 00 00 00}, aren't you?!{01 00 00 0f 00} Or.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 1d 00}are\nyou jealous of ME?!\n{07 03 00}HAHAHA!{01 00 00 05 00} Don't worry! {01 00 00 05 00}You\ncan TOTALLY be my personal\nassistant when I'm a star!",
+   "et": ""
+  },
+  {
+   "id": 22,
+   "en": "{07 15 00}A ha!{01 00 00 05 00} So you're trying to\nmake your fortune\nthrough the pop charts?!\n{07 05 00}{01 08 00}Don't EVEN get in my way!{01 00 00 05 00}\nThe {04 01 00} truck\nstops for NO speed bumps!",
+   "et": ""
+  },
+  {
+   "id": 23,
+   "en": "{07 04 00}WHOA! {01 00 00 05 00}I should have known,\n{01 00 00 05 00}{04 02 00}!\n\n{07 16 00}I never woulda guessed you\nas the late-night party\nmonster type, {04 1f 00}!",
+   "et": ""
+  },
+  {
+   "id": 24,
+   "en": "{07 00 00}All right, all right.{01 00 00 05 00} I might\nas well tell you{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n\n{07 15 00}You'll never believe this,\nbut {ff 00 00 06}Phyllis {ff 00 00 00}is{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n\n{07 04 00}NO!{01 00 00 0a 00} I can't do it.\nI promised not to tell a\nsoul. I almost slipped!\n{07 06 00}Phew, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 25,
+   "en": "{07 16 00}When I got a stomachache{01 00 00 05 00}\nfrom drinking too much\n{0b 02 00}{04 13 00}!\n{07 06 00}Eeeeek!{01 00 00 0a 00} What are you making\nme say, {01 00 00 05 00}{04 1f 00}!?",
+   "et": ""
+  },
+  {
+   "id": 26,
+   "en": "{07 16 00}About the time I fell off a\nhorizontal bar right onto\nmy face{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n{07 04 00}Heeeey!{01 01 00}{07 05 00} I was born with this\nface. {01 00 00 0a 00}You're so rude,\n{01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 27,
+   "en": "{07 16 00}When I tumbled down three\nflights of stairs,\n{01 00 00 05 00}{04 02 00}!\n{07 14 00}But I got up and walked\naway with only a sore tush!\n\n{07 0a 00}I've always been a nonstick\nkind of girl, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 28,
+   "en": "{07 0e 00}Yeah{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 01 00} {07 00 00}{ff 00 00 06}Sable{ff 00 00 00}'s stories have\ngot me TOTALLY wigged\nout{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 07 00}The city sounds like a big\nfreak show, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 29,
+   "en": "{07 00 00}I heard that cities are so\npacked with people that\nthey never even sleep!\nI wonder if it's just like\nhaving a festive tree out\n{07 0b 00}all year around?",
+   "et": ""
+  }
+ ]
+}

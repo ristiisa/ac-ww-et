@@ -1,0 +1,20 @@
+{
+ "file": "script/ENG/message/ta/q05/return_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 14 00}Mmm,{01 00 00 0a 00} I can't wait to see\nhow this furniture looks in\nmy room, {01 00 00 0a 00}{04 02 00}.",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 14 00}In order to give this\nfurniture a proper welcome,{01 00 00 05 00}\nI better clean up my place!",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 14 00}Now, let's see.{01 00 00 05 00} Where am I\ngoing to put this furniture,\n{01 00 00 0a 00}{04 02 00}?",
+   "et": ""
+  }
+ ]
+}

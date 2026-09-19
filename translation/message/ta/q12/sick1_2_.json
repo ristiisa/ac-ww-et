@@ -1,0 +1,115 @@
+{
+ "file": "script/ENG/message/ta/q12/sick1_2_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 07 00}.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}I should have bought some\n{ff 00 00 07}medicine{ff 00 00 00} for a time like\nthis! {01 01 00}{01 08 00}HACK HRACK KARF!",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 07 00}If I weren't so sick,{01 00 00 0a 00} I'd\nthink it was weird that\nyou're worried about me{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 07 00}Oh,{01 00 00 0a 00} don't worry about me.\nI'll be fine{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} At least, I\nhope I will be, {01 00 00 0a 00}{04 02 00}.",
+   "et": ""
+  },
+  {
+   "id": 3,
+   "en": "{07 07 00}I just hope{01 00 00 05 00} that it doesn't\nget any worse. {01 00 00 05 00}I don't know\nwhat I'll do then. {01 00 00 05 00}{01 08 00}HRACK!!",
+   "et": ""
+  },
+  {
+   "id": 4,
+   "en": "{07 16 00}What? {01 00 00 05 00}KARF KARF!",
+   "et": ""
+  },
+  {
+   "id": 5,
+   "en": "{07 07 00}{01 00 00 05 00}HEEERAACK!{01 00 00 0a 00} KARF KARF!{01 01 00} You're\npretty{01 00 00 05 00} blunt, aren't you,\n{01 00 00 0a 00}{04 02 00}?",
+   "et": ""
+  },
+  {
+   "id": 6,
+   "en": "{07 07 00}You take care and try not\nto get sick like me,\n{01 00 00 0a 00}{04 02 00}.",
+   "et": ""
+  },
+  {
+   "id": 7,
+   "en": "{07 1d 00}Th-{01 00 00 05 00}thank you{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 14 00} I'll take\nthat{ff 00 00 07} medicine{ff 00 00 00}!",
+   "et": ""
+  },
+  {
+   "id": 8,
+   "en": "{07 14 00}Thank you{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00} I was just\nlooking for some {ff 00 00 07}medicine{ff 00 00 00}.",
+   "et": ""
+  },
+  {
+   "id": 9,
+   "en": "{07 14 00}You{01 00 00 05 00} look like an angel, \n{01 00 00 05 00}{04 02 00}.",
+   "et": ""
+  },
+  {
+   "id": 10,
+   "en": "{07 07 00}KRARF!{01 00 00 05 00} HACK!{01 00 00 05 00} This is getting\nso old, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 11,
+   "en": "{07 07 00}HAAACK!{01 00 00 05 00} KAAARF!{01 00 00 05 00} This is so\nunfun I can't even tell you,\n{01 00 00 05 00}{04 02 00}.",
+   "et": ""
+  },
+  {
+   "id": 12,
+   "en": "{07 07 00}KARF!{01 00 00 05 00} HAAAC!{01 00 00 05 00} I'm hacking up\na lung here!",
+   "et": ""
+  },
+  {
+   "id": 13,
+   "en": "{07 07 00}D{01 00 00 05 00}-do you think I'm stupid\nor something?",
+   "et": ""
+  },
+  {
+   "id": 14,
+   "en": "{07 07 00}.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}I don't have the time or\nthe patience right now to\nentertain you!",
+   "et": ""
+  },
+  {
+   "id": 15,
+   "en": "{07 07 00}KARF!{01 00 00 0a 00} HACK!{01 00 00 0a 00} You shouldn't\nlaugh at me!",
+   "et": ""
+  },
+  {
+   "id": 16,
+   "en": "{07 14 00}Thank you!{01 00 00 0a 00} I think I just\nmight make it, {01 00 00 0a 00}{04 02 00}.",
+   "et": ""
+  },
+  {
+   "id": 17,
+   "en": "Um.{01 00 00 05 00}.{01 00 00 05 00}.{01 01 00} I'm sorry for being so\nmuch trouble, {01 00 00 0a 00}{04 02 00}.\n\n{07 14 00}I think I should start\nfeeling better pretty soon.",
+   "et": ""
+  },
+  {
+   "id": 18,
+   "en": "{07 14 00}Whew,{01 00 00 05 00} thanks!{01 00 00 14 00} {ff 00 00 07}{07 1b 00}Medicine{ff 00 00 00} is\nsomething you should always\nkeep around.",
+   "et": ""
+  },
+  {
+   "id": 19,
+   "en": "{07 14 00}Thank you, {01 00 00 05 00}{04 1f 00}.{01 00 00 14 00} I'm\nso grateful that you came\nto visit me.",
+   "et": ""
+  },
+  {
+   "id": 20,
+   "en": "{07 14 00}Thanks for worrying about\nme, {01 00 00 0a 00}{04 02 00}! I'm going\nto be just fine. {01 00 00 0a 00}I think.",
+   "et": ""
+  },
+  {
+   "id": 21,
+   "en": "{07 00 00}Thank you, {04 1f 00}!{01 00 00 14 00} {07 14 00}I'm\nso lucky to have friends\nlike you.",
+   "et": ""
+  }
+ ]
+}

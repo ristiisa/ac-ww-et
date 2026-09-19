@@ -1,0 +1,30 @@
+{
+ "file": "script/ENG/mail/msg/ta_byebye.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "I'm moving, and I hope\nthat you're a little more\nstylish the next time we\nmeet. Sound like a plan?",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "I'm moving! And I'm kinda\nsad. {0b 03 00}{04 11 00} was good\nto me...although YOU were\na real handful!",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "I'm leaving {04 11 00},\nbut I'm not sad! It'll be\nexciting to meet some\nnew, cultured people!",
+   "et": ""
+  },
+  {
+   "id": 3,
+   "en": "I'm moving, and it's sad.\nBut the IMPORTANT thing is\nit's all about me. 'Cause\nI'm moving. And it's sad.",
+   "et": ""
+  },
+  {
+   "id": 4,
+   "en": "I'm leaving town! I wanted\nit to be a big mystery,\nbut I'm actually just\nbored. See ya.",
+   "et": ""
+  }
+ ]
+}

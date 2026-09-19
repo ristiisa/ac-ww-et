@@ -1,0 +1,15 @@
+{
+ "file": "script/ENG/message/bo/q01/pwin2_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 0e 00}Well, I thought my\n{0b 02 00}{04 1d 00} was\npretty cool...\n{07 04 00}But now I think the\n{0b 02 00}{04 1c 00}\nmight be even cooler!\n{07 06 00}Hey,{01 00 00 14 00} wanna trade for my\n{0b 02 00}{04 1b 00}?",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 0e 00}My {0b 02 00}{04 1d 00}\nis pretty cool{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n\n{07 04 00}But I think the\n{0b 02 00}{04 1c 00}\nis way cooler,{01 00 00 05 00} {04 02 00}!\n{07 19 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00}So, do you want to trade\nit to me{01 00 00 0a 00} for my\n{0b 02 00}{04 1b 00}?",
+   "et": ""
+  }
+ ]
+}

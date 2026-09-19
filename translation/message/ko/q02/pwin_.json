@@ -1,0 +1,15 @@
+{
+ "file": "script/ENG/message/ko/q02/pwin_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 02 00}Noooooooo! You caught \n{04 1c 00}?!\nThat's ridiculous!\n{07 15 00}That's even rarer than the{01 00 00 05 00} \n{0b 02 00}{04 1d 00} I\ncaught, {01 00 00 05 00}{04 02 00}!\n{07 0f 00}I'll accept defeat this\ntime, {07 11 00}but you'd better\nwatch your back{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 02 00}WHAT?!{01 00 00 0f 00} You can't be serious!\nYou caught\n{04 1c 00}?!\n{07 06 00}That fish is a rare and\nwily one, {01 00 00 05 00}{04 02 00}!\n\n{07 1c 00}All I caught was this\npathetic little\n{0b 02 00}{04 1d 00}{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.",
+   "et": ""
+  }
+ ]
+}

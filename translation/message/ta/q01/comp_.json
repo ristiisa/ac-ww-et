@@ -1,0 +1,20 @@
+{
+ "file": "script/ENG/message/ta/q01/comp_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 00 00}I'm trying this whole\n\"decorating with bugs\"\nthing{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 01 00} {07 13 00}It looks VERY nice.\n{07 19 00}It seems kind of macabre,{01 00 00 0a 00}\nbut bugs really make great\naccent pieces, {01 00 00 0a 00}{04 02 00}!{07 00 00}",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 16 00}You know, for those of us\nwithout opposable thumbs\nhere in {04 03 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\nThe \"having a pet\" thing can\nget kind of{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.tricky.{01 01 00}\n{07 14 00}That's why we all love bugs!",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 00 00}Hey, {01 00 00 05 00}{04 1f 00}.{01 00 00 0a 00} {07 14 00}I've got\na new pet bug to keep me\ncompany, {01 00 00 0a 00}{04 02 00}.\n{07 00 00}That isn't{07 06 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}odd, is it?",
+   "et": ""
+  }
+ ]
+}

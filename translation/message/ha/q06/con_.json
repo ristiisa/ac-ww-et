@@ -1,0 +1,20 @@
+{
+ "file": "script/ENG/message/ha/q06/con_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 16 00}Hey, c'mon, {01 00 00 05 00}{04 1f 00}!{01 00 00 0a 00}\nStop dinking around here!\n\n{07 06 00}You oughta be racing over\nto {ff 00 00 06}{04 10 00}{ff 00 00 00}'s place!",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 16 00}Are you checking the time?{01 00 00 0a 00}\n{07 0b 00}You're supposed to go to \n{ff 00 00 06}{04 10 00}{ff 00 00 00}'s, right?\n{07 16 00}I don't mean to hassle you.{01 00 00 05 00}\nAs long as you remember,\nit's cool, {01 00 00 05 00}{04 02 00}.",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 15 00}Hey! You!{01 00 00 05 00} You better make\nit to {ff 00 00 06}{04 10 00}{ff 00 00 00}'s place \non time! {01 00 00 05 00}Seriously!\n{07 05 00}My stomach clock is SUPER\naccurate, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  }
+ ]
+}

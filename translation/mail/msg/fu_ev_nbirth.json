@@ -1,0 +1,20 @@
+{
+ "file": "script/ENG/mail/msg/fu_ev_nbirth.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "Since {04 11 00} {04 12 00} is\nmy birthday, I'm planning\na little party! I hope you\ncome...with a present!",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "Hey, {04 11 00} {04 12 00} is\nmy birthday! I'm getting\nold, but not too old for\na PARTY! Please come!",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "Hey, do you know what day\n{04 11 00} {04 12 00} is? It's\nmy birthday! I'm having a\nbig party, so please come!",
+   "et": ""
+  }
+ ]
+}

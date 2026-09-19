@@ -1,0 +1,15 @@
+{
+ "file": "script/ENG/message/ta/q/error3_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 16 00}No,{01 00 00 0a 00} I just can't stay up \nthat late. I need my beauty\nrest, you know!\n{07 0b 00}Would you change it to a\ntime when it's still light\nout, {01 00 00 0a 00}{04 02 00}?",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 16 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}Well, that's no good.{01 00 00 0a 00} If I\nstay up that late, I'll get\ndark circles under my eyes.\nAnd that would be tragic.{01 00 00 05 00}\n{07 00 00}Can we make it a time\nwhen it's still light out?",
+   "et": ""
+  }
+ ]
+}

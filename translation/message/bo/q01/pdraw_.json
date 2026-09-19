@@ -1,0 +1,15 @@
+{
+ "file": "script/ENG/message/bo/q01/pdraw_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 04 00}Oh!{01 00 00 14 00} That bug! It's\n{04 1c 00}! So\nlet's recap for a sec, OK?\nIf we call my\n{0b 02 00}{04 1d 00}\nthe king,\nthen that means your\n{0b 02 00}{04 1c 00} is,\nlike, a pastry chef{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\nSo, I guess this competition\nends{01 00 00 05 00} in a tie!{01 00 00 14 00}\n\n{07 14 00}I'll give your chef back to\nyou.{01 00 00 0a 00}{07 00 00} Maybe we can compare\nour skills again.",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 04 00}Whoa!{01 00 00 0a 00} Is that thing\n{04 1c 00}?{01 00 00 0a 00}\n{07 14 00}That's amazing{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\nHowever!{01 00 00 0a 00} I caught\n{04 1d 00}!\n\n{07 0e 00}These guys are both pretty\nshy, which makes them\nequally hard to find.\nSo we've tied.{01 00 00 0a 00} Take your\n{0b 02 00}{04 1c 00}\nback,{01 00 00 0a 00} {04 02 00}.",
+   "et": ""
+  }
+ ]
+}

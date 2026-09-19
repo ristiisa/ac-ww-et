@@ -1,0 +1,110 @@
+{
+ "file": "script/ENG/message/ta/ev/countdown_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 00 00}I heard that the {ff 00 00 06}mayor{ff 00 00 00} has\nstarted the {ff 00 00 03}New Year's Eve\nCountdown {ff 00 00 00}in the{ff 00 00 08} plaza.\n{ff 00 00 00}Why does he have to start\nso darn early?!\n\nJust wait, {01 00 00 05 00}I'm sure this\nwon't last through the new\nyear.{01 01 00} I guarantee it!",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 00 00}I heard that they already\nstarted the {ff 00 00 03}countdown{ff 00 00 00} to\nthe end of the year{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.\n{07 14 00}Maybe I'll stop by just\nto say hi or something,\n{01 00 00 0a 00}{04 02 00}.",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "Hey, {01 00 00 0a 00}did you see that the\n{ff 00 00 06}mayor {ff 00 00 00}{07 0b 00}has started the {ff 00 00 03}New\nYear's Eve Countdown{ff 00 00 00}?\nYeah, it's going on in the\n{ff 00 00 08}plaza {ff 00 00 00}now. {01 01 00}{07 06 00}I heard that he\nstarted it this morning.\n{07 00 00}.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}Wh-{01 00 00 05 00}{07 09 00}-what's he thinking\nanyway?",
+   "et": ""
+  },
+  {
+   "id": 3,
+   "en": "{07 00 00}A lot's happened this year,\n{07 14 00}but thanks to you, it was\na lot of fun, {01 00 00 05 00}{04 02 00}!\nI hope that you'll make me\nlaugh a lot next year, {01 00 00 05 00}just\nlike you did this year!",
+   "et": ""
+  },
+  {
+   "id": 4,
+   "en": "{07 15 00}Everyone's getting all riled\nup for the new year's\ncelebration, but...\nI wonder if it'd seem uncool\nif I {07 0b 00}got all excited, too, \n{01 00 00 05 00}{04 02 00}?",
+   "et": ""
+  },
+  {
+   "id": 5,
+   "en": "{07 1c 00}{01 00 00 05 00}Just a little bit of time\nleft until the next year.{01 01 00}\n{07 14 00}Hey, {01 00 00 05 00}{04 1f 00}...{01 00 00 0a 00}\nIf there's something that\nyou wanted to do, {07 15 00}here's\nyour chance to just do it!",
+   "et": ""
+  },
+  {
+   "id": 6,
+   "en": "{07 14 00}This year is rapidly coming\nto an end, {01 00 00 05 00}{04 02 00}.\n\n{07 00 00}This is how time passes us\nby.{01 01 00} {07 09 00}It slips through our\ngrasp, never to return{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.",
+   "et": ""
+  },
+  {
+   "id": 7,
+   "en": "{07 04 00}Oh, no!{01 00 00 14 00} Less than an hour\nbefore the new year is\nhere!\n{07 06 00}There were so many things I\nwanted to do before the\nend of the year! {01 00 00 0a 00}Now what?!",
+   "et": ""
+  },
+  {
+   "id": 8,
+   "en": "{07 00 00}The new year will be here\nin just a little bit, but\nwhen it does,\n{07 0b 00}what happens to this year?\nDo you know, {01 00 00 05 00}{04 02 00}?\n\n{07 00 00}You ever thought about{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}\nwhat happens to time after\nit's gone?{01 00 00 05 00} Where did it go?",
+   "et": ""
+  },
+  {
+   "id": 9,
+   "en": "{07 06 00}I resolve{01 00 00 05 00} to focus less on\nothers{01 00 00 05 00} and more on what\nreally matters.{01 01 00} ME!",
+   "et": ""
+  },
+  {
+   "id": 10,
+   "en": "Tee hee hee! {01 00 00 05 00}Just five\nmore minutes to go 'til we\nkick this year to the curb!",
+   "et": ""
+  },
+  {
+   "id": 11,
+   "en": "{07 07 00}OK, {04 01 00}, it's time\nto get ahold of yourself.\n\nPull yourself together and\nwelcome in the new year\nwith style!",
+   "et": ""
+  },
+  {
+   "id": 12,
+   "en": "{07 16 00}There's{01 00 00 05 00} something that I've\ngotta tell you! {07 06 00}I know it's\nsudden and last minute{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.\n{07 0a 00}But thanks for being so\nsweet to me all this year, \n{01 00 00 0a 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 13,
+   "en": "I can't take it anymore{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 14 00} I\nhaven't been this excited\nsince my first crush!",
+   "et": ""
+  },
+  {
+   "id": 14,
+   "en": "{07 1a 00}HAPPY NEW YEAR!{01 01 00} {ff 00 00 02}{04 0f 00}{ff 00 00 00} has\nofficially started,\n{01 00 00 0a 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 15,
+   "en": "{07 1a 00}Hip hip hooray, {01 00 00 05 00}{04 1f 00}!\n{ff 00 00 02}{04 0f 00}{ff 00 00 00} is finally here, \n{01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 16,
+   "en": "{07 0a 00}Happy New Year!{01 00 00 14 00} I hope this\nis a good one for us all,\n{01 00 00 0a 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 17,
+   "en": "{07 00 00}I hope that this year is \na happy one for me{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.\n\n{07 11 00}And if it isn't, {01 00 00 05 00}I'll do\neverything I can to make\nit one, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 18,
+   "en": "{07 14 00}We're gonna have a great\nyear, {01 00 00 05 00}{04 1f 00}! I can\nfeel it in my eyelashes!",
+   "et": ""
+  },
+  {
+   "id": 19,
+   "en": "{07 00 00}{0b 03 00}{04 1f 00}! It's {ff 00 00 02}{04 0f 00}{ff 00 00 00}!!!",
+   "et": ""
+  },
+  {
+   "id": 20,
+   "en": "Hey, {01 00 00 05 00}{04 1f 00}!\n{01 00 00 05 00}{0b 03 00}{04 02 00}!",
+   "et": ""
+  }
+ ]
+}

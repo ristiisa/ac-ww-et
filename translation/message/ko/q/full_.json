@@ -1,0 +1,20 @@
+{
+ "file": "script/ENG/message/ko/q/full_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "You've {01 00 00 05 00}got too much stuff!\nLook at yourself... {07 03 00}{01 00 00 05 00}You \ncan't even carry it all!\n{07 16 00}Come back when your back \nisn't buckling from carrying\nso much stuff, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 15 00}What?! Oh, {01 00 00 05 00}{04 1f 00}!{01 00 00 14 00}\nYou're{01 00 00 05 00} carrying{01 00 00 05 00} way too \nmuch stuff, {01 00 00 05 00}{04 02 00}!\n{07 16 00}I wanna give you something,\nbut I can't!{01 00 00 0f 00} What's that\nabout, {01 00 00 05 00}{04 02 00}?",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 04 00}Hey! You can't carry any\nmore! Your pockets are\noverflowing, {01 00 00 05 00}{04 02 00}!\n{07 00 00}Get rid of all that junk, \n{01 00 00 05 00}{04 02 00}, then come see\nme!",
+   "et": ""
+  }
+ ]
+}

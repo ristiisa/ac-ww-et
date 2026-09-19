@@ -1,0 +1,20 @@
+{
+ "file": "script/ENG/message/ha/q03/req3_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 00 00}{ff 00 00 06}Blathers{ff 00 00 00}{01 00 00 05 00} just told me about\nthe {ff 00 00 02}{04 0f 00}{ff 00 00 00}\nfossils...\n{07 14 00}You gotta find a bunch of\npieces to make a whole set,\n{01 00 00 05 00}{04 02 00}!\n{07 15 00}As an animal who seeks only\nthe manliest of artifacts,{01 00 00 05 00}\nI wanna find 'em all!\n{07 06 00}So c'mon, {04 1f 00}!{01 00 00 14 00}\nYou gotta help me find 'em,\n{01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 0d 00}As a HUGE fossil fan, I just\ncan't ignore the mighty \n{ff 00 00 02}{04 0f 00}{ff 00 00 00}!\n{07 0e 00}Then again, I don't even\nhave a single piece yet,\n{01 00 00 05 00}{04 02 00}.\n{07 00 00}Hey, {01 00 00 05 00}{04 1f 00}...{01 00 00 0a 00}\nI'll never ask for anything\nagain, I promise!\n{07 06 00}Take pity on me {01 00 00 05 00}and give\nme one sweet fossil from\nthe {ff 00 00 02}{04 0f 00}{ff 00 00 00}!",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 00 00}I've been collecting fossils\nas always, but...\n\n{07 0f 00}I haven't found anything \ncool lately, and I'm getting\nhugely bored{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 00 00}Gotta man up, {01 00 00 05 00}{ff 00 00 05}{04 1f 00}{ff 00 00 00}!{01 00 00 14 00}\nLet's go find something\nreally cool together!\n{07 0e 00}Let's see{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} {07 0b 00}How about a \nfossil from the awesome\n{ff 00 00 02}{04 0f 00}{ff 00 00 00}?\n{07 0d 00}Let's seek ancient history\ntogether, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  }
+ ]
+}

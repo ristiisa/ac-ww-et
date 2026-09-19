@@ -1,0 +1,155 @@
+{
+ "file": "script/ENG/message/ta/tsu/event2_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 14 00}The {ff 00 00 03}Flower Fest {ff 00 00 00}starts\nnext week. {01 00 00 0a 00}{07 0b 00}{01 00 00 05 00}You're entering,\ntoo, right, {04 1f 00}?{02 01 00 14 15 16}\nWell, duh!\nNah.\nWhat is it?",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 14 00}The {ff 00 00 03}Flower Fest {ff 00 00 00}starts next\nMonday, right? {01 01 00}It's gonna be\none fierce competition!\n{07 19 00}Not to brag, but I'm a \nmaster gardener myself,\n{01 00 00 0a 00}{04 02 00}{07 00 00}! Watch out!",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 14 00}Monday marks the start of\nthe {ff 00 00 03}Flower Fest{ff 00 00 00},\n{01 00 00 0a 00}{04 02 00}.\n{07 0b 00}Have you prepared your{ff 00 00 07}\nshovel{ff 00 00 00} and flower seeds?\n\n{01 00 00 0a 00}{07 1b 00}{01 00 00 05 00}It's not like you can just\npick those things up after\nthe competition starts{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.",
+   "et": ""
+  },
+  {
+   "id": 3,
+   "en": "{07 14 00}Monday's the start of the\n{ff 00 00 03}Flower Fest{ff 00 00 00}, isn't it,\n{01 00 00 0a 00}{04 02 00}?\n{06 01 00 17 18 19}",
+   "et": ""
+  },
+  {
+   "id": 4,
+   "en": "{07 14 00}So the big {ff 00 00 03}Flower Fest\n{ff 00 00 00}starts tomorrow,\n{01 00 00 0a 00}{04 02 00}.\n{07 00 00}It's one of {04 03 00}'s{01 00 00 0a 00}\nbiggest events of the\nyear!\n{07 0a 00}{01 00 00 0a 00}Pay attention, {04 1f 00},{01 00 00 05 00}\n'cause you'll learn a lot\nfrom me.",
+   "et": ""
+  },
+  {
+   "id": 5,
+   "en": "{07 14 00}The great {ff 00 00 03}Fireworks Show{ff 00 00 00}{01 00 00 05 00}\nis happening on Saturday\nnight, {04 02 00}!\n{07 00 00}I love the smell of the air{01 00 00 05 00}\nafter all those fireworks\nhave been exploded{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00}\n{07 19 00}That subtle aroma{01 00 00 0a 00} always\ntakes me back to a more\ninnocent time.{07 00 00}",
+   "et": ""
+  },
+  {
+   "id": 6,
+   "en": "{07 15 00}People start pairing up\naround this time of year{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\nGross! What's UP with that?\n{07 0b 00}{01 00 00 0a 00}Is it the {ff 00 00 03}Fireworks Show\n{ff 00 00 00}that fills the air with that\ncertain spark, {04 02 00}?{ff 00 00 03}\n{ff 00 00 00}{07 11 00}{01 00 00 0a 00}Well, while they're all off\nsmooching or whatever,{01 00 00 0a 00} I'll\nsnag the best seat!",
+   "et": ""
+  },
+  {
+   "id": 7,
+   "en": "{07 14 00}The {ff 00 00 03}Fireworks Show {ff 00 00 00}is kind\nof like gardening\nin the night sky.\n{07 00 00}I mean, they both end with\nan explosion of color,\n{01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 8,
+   "en": "{07 14 00}The big {ff 00 00 03}Fireworks Show {ff 00 00 00}is\nthis Saturday, {01 00 00 05 00}{04 02 00}.\n\n{06 03 00 1a 1b}",
+   "et": ""
+  },
+  {
+   "id": 9,
+   "en": "{07 0e 00}{01 00 00 0a 00}What do you think I should\nwear for the big {ff 00 00 03}Fireworks\nShow{ff 00 00 00} tomorrow?\n{07 0b 00}{01 00 00 05 00}A suit?{01 00 00 0a 00} A dress?{01 00 00 0a 00}{01 00 00 14 00} {07 15 00}It's really\nstressful picking the right\noutfit, {01 00 00 05 00}{04 02 00}.",
+   "et": ""
+  },
+  {
+   "id": 10,
+   "en": "{07 14 00}So next week is the {ff 00 00 03}Acorn\nFestival{ff 00 00 00}, huh, {01 00 00 0a 00}{04 02 00}?\n\n{01 00 00 0a 00}{07 1b 00}{01 00 00 05 00}The thought of picking up{01 00 00 0a 00}\nas many {ff 00 00 07}acorns{ff 00 00 00} as you can\nfor fun{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 19 00}Well, it just proves to me\nhow, er, peaceful our town\nis, {01 00 00 0a 00}{04 02 00}{07 00 00}.",
+   "et": ""
+  },
+  {
+   "id": 11,
+   "en": "{01 00 00 14 00}The {ff 00 00 03}Acorn Festival{ff 00 00 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00} It\nsounds about as romantic\nas a trip to the dentist.\n{07 11 00}Although, my dentist IS\npretty cute...{01 01 00} {07 0b 00}What's that\nyou say, {01 00 00 05 00}{04 1f 00}?\nFall's the season of love?{01 00 00 0a 00}\n{07 06 00}Well, I can't waste my time\npicking up {ff 00 00 07}acorns{ff 00 00 00}, then!",
+   "et": ""
+  },
+  {
+   "id": 12,
+   "en": "{07 14 00}I, for one, am planning to\ntake part in next week's\n{ff 00 00 03}Acorn Festival{ff 00 00 00}!\n{07 15 00}When picking {ff 00 00 07}acorns{ff 00 00 00} and\nboyfriends, a girl's gotta\ncontrol her own destiny!",
+   "et": ""
+  },
+  {
+   "id": 13,
+   "en": "{07 14 00}The great{ff 00 00 03} Acorn Festival{ff 00 00 00} is\ncoming up, {01 00 00 05 00}{04 02 00}!{01 00 00 0a 00}\n{07 0e 00}{01 00 00 0a 00}Simple, cute little {ff 00 00 07}acorns{ff 00 00 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\nWho would have thought that\nyou would be the object of\nsuch intense desire!\n{07 00 00}Once the festival starts,{01 00 00 05 00}\n{07 14 00}it'll be a frantic chase{01 00 00 05 00} to\nsee who can grab the most!",
+   "et": ""
+  },
+  {
+   "id": 14,
+   "en": "{07 14 00}Tomorrow is the great \n{ff 00 00 03}Acorn Festival{ff 00 00 00}, huh,\n{01 00 00 05 00}{04 02 00}!\n{01 00 00 0a 00}{07 1b 00}{01 00 00 05 00}Tee hee{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} I wonder if that\n{ff 00 00 06}special acorn {ff 00 00 00}will make an\nappearance this year?\n{07 03 00}Just the thought of it\nmakes me smirk. {01 00 00 05 00}Talk about\ncorny!",
+   "et": ""
+  },
+  {
+   "id": 15,
+   "en": "{07 04 00}Oh hey,{01 00 00 0a 00} aren't the {ff 00 00 03}Bright\nNights{ff 00 00 00} coming up next week,\n{01 00 00 0a 00}{04 02 00}?\n{07 0e 00}{01 00 00 0a 00}Is this your first{ff 00 00 03} Bright\nNights{ff 00 00 00} experience,\n{04 1f 00}?{02 00 00 1c 1d}\nThat's right...\nNope.",
+   "et": ""
+  },
+  {
+   "id": 16,
+   "en": "{07 14 00}The {ff 00 00 03}Bright Nights{ff 00 00 00} are right\naround the corner,\n{01 00 00 05 00}{04 02 00}!\n{07 0a 00}{01 00 00 0a 00}It's just so magical how the\nsnow just paints everything\nthe purest white{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\nIt makes me wanna throw\nmyself on the ground and\nmake snow angels!",
+   "et": ""
+  },
+  {
+   "id": 17,
+   "en": "{07 00 00}So the {ff 00 00 03}Bright Nights{ff 00 00 00} are\nstarting next week, huh?\n\n{07 15 00}This year, my house is\ngonna be{01 00 00 05 00} the prettiest!{01 01 00}\n{07 05 00}You'd better {01 00 00 05 00}come see it!",
+   "et": ""
+  },
+  {
+   "id": 18,
+   "en": "{07 16 00}The{ff 00 00 03} Bright Nights {ff 00 00 00}start\nnext week and, well{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n\n{07 1c 00}{01 00 00 14 00}I was hoping that this year,\nI'd have a boyfriend to go\nwith, {01 00 00 0a 00}{04 02 00}.\n{01 00 00 0a 00}{07 1b 00}{01 00 00 05 00}But my loves always end in\nthe fall,{01 01 00}{07 09 00} as the summer\ncools down...",
+   "et": ""
+  },
+  {
+   "id": 19,
+   "en": "{07 0c 00}{01 00 00 0a 00}The winter {ff 00 00 03}Bright Nights{ff 00 00 00}{01 00 00 05 00}\nstart tomorrow.\n\n{07 14 00}I wonder how everyone is\ngoing to decorate their\nhouses, {01 00 00 0a 00}{04 02 00}.\n{07 0d 00}I can't wait to see all the\npretty lights!",
+   "et": ""
+  },
+  {
+   "id": 20,
+   "en": "{07 00 00}The best way to celebrate\nthe arrival of spring is to\nfill the town with flowers!\n{07 19 00}I'm such a sucker for\nflowers, {01 00 00 0a 00}{04 02 00}!\nThat's why I love spring!{07 00 00}\nIt was the {ff 00 00 06}mayor{ff 00 00 00}'s idea,\nright?{01 01 00} I'll bet he was quite\nthe ladies' man {01 00 00 0a 00}in his day.",
+   "et": ""
+  },
+  {
+   "id": 21,
+   "en": "{07 04 00}Oh, {01 00 00 05 00}is that so, {01 00 00 0a 00}{04 02 00}?{01 01 00}\n{07 0e 00}{01 00 00 0a 00}Well then, {01 00 00 0a 00}maybe this year{01 00 00 05 00}\nI should just watch, too.",
+   "et": ""
+  },
+  {
+   "id": 22,
+   "en": "{07 00 00}It's when everyone plants\nflowers and the town bursts\nwith color!\n{07 14 00}A girl can strut her\nstuff{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 14 00} {07 13 00}{01 00 00 0a 00}And maybe land a\nPrince Charming!",
+   "et": ""
+  },
+  {
+   "id": 23,
+   "en": "{01 00 00 0a 00}{07 1b 00}{01 00 00 05 00}They do this every year, so\nit's not, like, the most\nexciting thing ever{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 15 00}But once it starts, I just\ngotta win, {01 00 00 0a 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 24,
+   "en": "{07 09 00}Last year, I decided to\nenter right after my\nboyfriend and I split up{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 0f 00}{01 00 00 14 00}The flowers looked super\npretty then. {01 00 00 05 00}Bet they won't\nlook that pretty this year.",
+   "et": ""
+  },
+  {
+   "id": 25,
+   "en": "{07 00 00}Though it's called a\ncompetition, {01 00 00 05 00}{07 19 00}it's really not\nas sweaty as it sounds.\nAnd that's just what I like\nabout it!{07 00 00}",
+   "et": ""
+  },
+  {
+   "id": 26,
+   "en": "{07 00 00}You can see the fireworks \nreflected in the eyes of\nthe crowd.\n{07 11 00}You know, {04 1f 00}, {01 00 00 0a 00}the\nfireworks really bring out\nthe sparkle in my eyes.",
+   "et": ""
+  },
+  {
+   "id": 27,
+   "en": "{07 00 00}I read in {ff 00 00 02}Ms. Nintendique\n{ff 00 00 00}that fireworks can cause\nsparks to fly, {04 02 00}.\n{07 0d 00}So, when they go off, {01 00 00 05 00}look\ndeep into someone's eyes\nand{01 00 00 05 00} scream,{01 00 00 05 00}{07 05 00}{01 08 00} \"KABOOOOOM!\"",
+   "et": ""
+  },
+  {
+   "id": 28,
+   "en": "{07 14 00}Well, {01 00 00 0a 00}basically this event is\nall about decorating your\nhouse with lights.\n{07 0a 00}The feel of the town\nchanges so dramatically.{01 00 00 05 00}\nIt's SO beautiful!",
+   "et": ""
+  },
+  {
+   "id": 29,
+   "en": "{07 14 00}Oh,{01 00 00 05 00} so you're all jaded now\nor something, {01 00 00 05 00}{04 02 00}?\n\n{07 15 00}Well, I've put a lot of work\ninto it this year, {01 00 00 05 00}so you\nshouldn't act that way!",
+   "et": ""
+  }
+ ]
+}

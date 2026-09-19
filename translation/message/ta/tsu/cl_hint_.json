@@ -1,0 +1,50 @@
+{
+ "file": "script/ENG/message/ta/tsu/cl_hint_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 14 00}{ff 00 00 06}Mabel {ff 00 00 00}and {ff 00 00 06}Sable {ff 00 00 00}have pretty\ngood taste in clothes.\n\n{06 00 00 07 08}",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 14 00}You can use the designs you\ncreate at {ff 00 00 06}Mabel{ff 00 00 00}'s {01 00 00 0a 00}{07 19 00}for\nthings besides clothes.\n{06 00 00 03 04}",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "Hey, you! {01 00 00 0a 00}{07 0b 00}Do you know the\ndesigner named {ff 00 00 06}Gracie{ff 00 00 00}?{02 00 00 05 06}\nOf course!\nWho is she?",
+   "et": ""
+  },
+  {
+   "id": 3,
+   "en": "{07 14 00}Oh, yeah! {01 00 00 0a 00}You can use them\non wallpaper or carpets,\ntoo!\n{07 03 00}I can't believe you didn't\nknow that!{01 00 00 0a 00} You're so\nclueless, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 4,
+   "en": "{07 14 00}You can even display them\nas paintings in your house!{01 01 00}\n{07 00 00}But if you're gonna do that,\n{07 19 00}you better refine your\ntechnique!{01 01 00} No more chicken-\nscratch \"art,\" OK?!",
+   "et": ""
+  },
+  {
+   "id": 5,
+   "en": "{07 1b 00}{07 15 00}That girl's superior\nattitude{01 00 00 0a 00} TOTALLY gets my\ngoat!{01 00 00 05 00} I can't stand it!\n{07 19 00}I know just as much about\nclothes as she does.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00}\nMaybe even more!{07 00 00}",
+   "et": ""
+  },
+  {
+   "id": 6,
+   "en": "{07 1b 00}She's a fashion designer\nwith huge skills,{01 00 00 0a 00} and an\neven HUGER head.\n{07 0e 00}Oh wait, that's you. {01 00 00 05 00}{07 00 00}The big\nhead part, that is. {01 01 00}Anyway,\n{ff 00 00 06}Gracie{ff 00 00 00}'s pretty fabulous.",
+   "et": ""
+  },
+  {
+   "id": 7,
+   "en": "{07 0e 00}You know, {01 00 00 0a 00}I usually don't\ncare about anyone else's\nopinion.\n{07 14 00}But when I have a good\ndesign, I go ask those two\nfor their opinions.\n{07 19 00}They're knowledgeable,{01 00 00 05 00} {07 14 00}and{01 00 00 05 00}\nso funny! {01 00 00 0a 00}{07 03 00}They do the BEST\n{ff 00 00 06}Blathers {ff 00 00 00}impression!",
+   "et": ""
+  },
+  {
+   "id": 8,
+   "en": "{07 00 00}Of course,{01 00 00 05 00} it's not as good\nas mine, {01 00 00 0a 00}but that's a given,\n{01 00 00 05 00}{04 02 00}.",
+   "et": ""
+  }
+ ]
+}

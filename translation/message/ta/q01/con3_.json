@@ -1,0 +1,20 @@
+{
+ "file": "script/ENG/message/ta/q01/con3_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 04 00}H-{01 00 00 03 00}hold on!{01 00 00 14 00} I haven't caught\nit yet!",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 15 00}Look, {01 00 00 0f 00}stop being so\nimpatient, {04 1f 00}, {01 00 00 0f 00}or I\nWILL whack you with my net!\nJust hold on until I find a\nbug I like!",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 01 00}Ugh!{01 00 00 0f 00} {07 06 00}Where IS that bug?!{01 01 00}\n{07 16 00}Sorry, {04 1f 00}, {01 00 00 05 00}but you\ngotta give me more time!",
+   "et": ""
+  }
+ ]
+}

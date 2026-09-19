@@ -1,0 +1,45 @@
+{
+ "file": "script/ENG/message/ko/ev/birth_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 14 00}Waaaa-hooo,{01 00 00 0f 00} {ff 00 00 05}{04 1f 00}{ff 00 00 00}!",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 00 00}So today's your birthday,\n{01 00 00 05 00}{04 02 00}?\n\n{07 06 00}What, did ya think I forgot\nit or something?! \n\n{07 16 00}How could I forget your\nbirthday? You're my best\nbud.{01 00 00 14 00}\n{07 14 00}See, I even brought you a\npresent and everything!",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 15 00}So, {04 1f 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 0b 00} Are you\nhappy now, or what?",
+   "et": ""
+  },
+  {
+   "id": 3,
+   "en": "{07 14 00}Oh, hey, really? {07 00 00}Wow, cool.\n{07 14 00}We're buds for life,\nright, {01 00 00 05 00}{04 1f 00}?",
+   "et": ""
+  },
+  {
+   "id": 4,
+   "en": "{07 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 06 00}Pfft.{01 00 00 0f 00} You've got\nNO RESPECT!\n\n{07 05 00}Yeah, I think I know what\nkind of a person you've\nREALLY become.\n{07 15 00}Now get outta my face,\n{01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 5,
+   "en": "{07 00 00}{ff 00 00 06}{04 0f 00}{ff 00 00 00},",
+   "et": ""
+  },
+  {
+   "id": 6,
+   "en": "{07 00 00}{ff 00 00 06}{04 0f 00}{ff 00 00 00} and I",
+   "et": ""
+  },
+  {
+   "id": 7,
+   "en": "{07 14 00}...scrounged up some change\nto buy it!{01 01 00}\n{07 00 00}Here ya go, kid.",
+   "et": ""
+  }
+ ]
+}

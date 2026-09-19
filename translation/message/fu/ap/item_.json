@@ -1,0 +1,190 @@
+{
+ "file": "script/ENG/message/fu/ap/item_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 00 00}{0b 03 00}{01 06 00}Excuse me{01 07 00}!\n{0b 03 00}{04 1f 00}... I hope this\ndoesn't sound weird, but...\n{07 14 00}Thanks for being my friend.\nYou're always there for me,\nand I think that's great.\n{07 00 00}I don't know what came over\nme, but {07 16 00}when I saw you, I\njust had to tell you!\n{07 0a 00}Hee hee hee! I hope you\ndon't mind, {01 00 00 05 00}{04 02 00}!{03 01 00 01}",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 00 00}{0b 03 00}{01 06 00}Whoa, hey there{01 07 00}!{01 00 00 0f 00}\nI had a question for you,\n{04 1f 00}.\n{07 0b 00}Do you still have that\n{ff 00 00 07}picture{ff 00 00 00} I gave you?{02 00 00 0a 0b}\nOf course!\nI...lost it!",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 00 00}{0b 03 00}{04 1f 00},{01 00 00 0f 00} I have a\nspecial gift for a very\nspecial person{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} You!\nYou're the best friend I've\ngot here in {04 03 00}, so\nI want to give you this.\n{07 14 00}It's a {ff 00 00 07}picture of me{ff 00 00 00}!{01 00 00 0f 00}\n{06 00 00 0c 0d}",
+   "et": ""
+  },
+  {
+   "id": 3,
+   "en": "{07 00 00}{0b 03 00}{01 06 00}Ah, hello{01 07 00}!\n{0b 03 00}{04 1f 00}! Have I told\nyou how much I like you?\nBecause I really do, you\nknow? In fact, I want you\nto have a little gift.\n{07 16 00}It's nothing much. Just a\n{ff 00 00 07}picture of me{ff 00 00 00}, {01 00 00 05 00}{04 02 00},{01 00 00 0f 00}\n{07 14 00}but I hope you like it!\n{06 00 00 0c 0d}",
+   "et": ""
+  },
+  {
+   "id": 4,
+   "en": "{07 14 00}{0b 03 00}{04 1f 00}, {01 00 00 0f 00}I want you to\nhave this little token\nof my apprecia--\n{07 04 00}Hey!{01 00 00 0a 00} Your pockets are full!{01 01 00}\n{07 0f 00}Well, never mind. Maybe\nsome other time{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.",
+   "et": ""
+  },
+  {
+   "id": 5,
+   "en": "{07 00 00}{0b 03 00}{01 06 00}Heya{01 07 00}!{01 00 00 0f 00}\nHere, I've got something\nI wanted to give you.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n{07 04 00}Wait a minute!{01 00 00 0a 00} Your hands\nare full!{01 00 00 0f 00}{07 16 00} I guess I can't\ngive you anything at all.",
+   "et": ""
+  },
+  {
+   "id": 6,
+   "en": "{07 00 00}{0b 03 00}{01 06 00}What's up{01 07 00}?{01 00 00 0f 00}\nYou got a second? I wanted\nto try something on you.\n{07 14 00}See, I was reading this\nfashion magazine, and they\nhad a personality quiz.\nAnd at the end, they'd tell\nyou what celebrity you were\nmost like, {01 00 00 05 00}{04 02 00}.\nSo, I made my own quiz,\nusing {04 03 00}'s local\ncelebrities! Wanna take it?{02 00 00 0e 0f}\nSure!\nNah.",
+   "et": ""
+  },
+  {
+   "id": 7,
+   "en": "{07 00 00}{0b 03 00}{01 06 00}Hey there{01 07 00}!\n{0b 03 00}{04 1f 00}!{01 00 00 0f 00} Have you read\n\"{ff 00 00 02}Staplers: A Brief History{ff 00 00 00}\"?\nI'm right in the middle\nof it, {01 00 00 05 00}{04 02 00}.{02 00 00 08 09}\nIsn't it good?\nWhat's that?",
+   "et": ""
+  },
+  {
+   "id": 8,
+   "en": "{07 04 00}Oh!{01 00 00 0f 00} You've read it,\ntoo, {04 1f 00}?\n\n{07 14 00}I had no idea we had so\nmuch in common. {01 00 00 0f 00}{07 0a 00}It's like\nwe share the same brain!{03 01 00 01}",
+   "et": ""
+  },
+  {
+   "id": 9,
+   "en": "{07 00 00}{0b 03 00}{04 0e 00} recommended it\nto me, and I thought it'd\nbe interesting...\nBut I just can't get into\nit. {01 00 00 0a 00}{07 16 00}I fell asleep reading\nit last night!\n{07 00 00}Is that normal? {0b 03 00}{04 0e 00}\nthought it was OK. {01 00 00 0a 00}{07 0f 00}Am I\nweird for not liking it?{03 03 00 01}",
+   "et": ""
+  },
+  {
+   "id": 10,
+   "en": "{07 14 00}Hee hee! I knew you'd take\ncare of it, {04 1f 00}!\nI'm glad I gave it to you.\n{07 0d 00}It's like I gave you a little\npiece of my heart, and\nyou kept it safe and warm!{03 01 00 01}",
+   "et": ""
+  },
+  {
+   "id": 11,
+   "en": "{07 00 00}You {01 00 00 0a 00}{07 02 00}WHAT!?\n\n\n{07 08 00}{0b 03 00}{04 1f 00}, how could you?\nThat picture meant a lot\nto me, {01 00 00 05 00}{04 02 00}!\nThe only reason I gave it\nto you is because I thought\nyou and I were friends!\n{07 15 00}You'd better go right home\nand find it, {01 00 00 05 00}{04 02 00},\nor I'll never forgive you!{03 02 00 01}",
+   "et": ""
+  },
+  {
+   "id": 12,
+   "en": "{07 06 00}I can't believe I finally\ngot up the nerve to give\nit to you, {01 00 00 05 00}{04 02 00}.\n{07 14 00}But I meant what I said,{01 00 00 05 00} so\nI hope you take good care\nof it.{01 00 00 05 00} Don't go losing it!",
+   "et": ""
+  },
+  {
+   "id": 13,
+   "en": "Just keep it close to your\nheart, {01 00 00 05 00}{04 02 00}.\n\n{07 14 00}That way, we'll never be\nfar apart!",
+   "et": ""
+  },
+  {
+   "id": 14,
+   "en": "{07 00 00}Awesome! Here, I'm just\ngoing to ask you a few\nquestions.\nAnswer them honestly, and\ndon't think too long about\nyour answers, OK?",
+   "et": ""
+  },
+  {
+   "id": 15,
+   "en": "{07 06 00}What? You don't think\npersonality tests are\nweird, do you?",
+   "et": ""
+  },
+  {
+   "id": 16,
+   "en": "If you have a lot of food,{07 0b 00}\ndo you eat your favorite\ndish first?{02 00 00 15 14}\nYes.\nNo.",
+   "et": ""
+  },
+  {
+   "id": 19,
+   "en": "{07 0b 00}Do you try to avoid\nfighting with the people\naround you?{02 00 00 17 18}\nYes.\nNo.",
+   "et": ""
+  },
+  {
+   "id": 20,
+   "en": "When you make a mistake,{07 0b 00}\ndo you spend a lot of time\nfeeling bad about it?{02 00 00 1a 16}\nYes.\nNo.",
+   "et": ""
+  },
+  {
+   "id": 21,
+   "en": "If you were being totally\nhonest, {07 0b 00}would you say that\nyou're a very lazy person?{02 00 00 19 1a}\nYes.\nNo.",
+   "et": ""
+  },
+  {
+   "id": 22,
+   "en": "{07 00 00}If you had an emergency,\n{07 0b 00}would you rely on your\nparents to help you out?{02 00 00 1b 13}\nYes.\nNo.",
+   "et": ""
+  },
+  {
+   "id": 23,
+   "en": "{07 0b 00}Would you sacrifice\nanything to get what you\nwanted?{02 00 00 1f 20}\nYes.\nNo.",
+   "et": ""
+  },
+  {
+   "id": 24,
+   "en": "{07 00 00}Would you say that{07 0b 00} money\ncounts more than anything\nelse in this world?{02 00 00 1c 1b}\nYes.\nNo.",
+   "et": ""
+  },
+  {
+   "id": 25,
+   "en": "{07 00 00}Do you hate {07 0b 00}not being the\none in the spotlight?{02 00 00 26 1a}\nYes.\nNo.",
+   "et": ""
+  },
+  {
+   "id": 26,
+   "en": "{07 0b 00}Do you have dreams and\nambitions for the future?{02 00 00 1d 1b}\nYes.\nNo.",
+   "et": ""
+  },
+  {
+   "id": 27,
+   "en": "{07 00 00}Do you worry about things\n{07 0b 00}for a long time after\nthey've happened?{02 00 00 23 1d}\nYes.\nNo.",
+   "et": ""
+  },
+  {
+   "id": 28,
+   "en": "{07 00 00}Do you think of yourself\n{07 0b 00}as a natural leader?{02 00 00 21 1e}\nYes.\nNo.",
+   "et": ""
+  },
+  {
+   "id": 29,
+   "en": "{07 00 00}Do you think that {07 0b 00}you're a\ngood liar?{02 00 00 25 23}\nYes.\nNo.",
+   "et": ""
+  },
+  {
+   "id": 30,
+   "en": "{07 00 00}Do you have a hard time\n{07 0b 00}saying no to others?{02 00 00 24 22}\nYes.\nNo.",
+   "et": ""
+  },
+  {
+   "id": 31,
+   "en": "{07 19 00}OK, that's it for the\nquestions! Now to figure\nout who {01 00 00 05 00}you {01 00 00 05 00}are.\n{07 14 00}Look at that! You're {ff 00 00 06}Tom\nNook{ff 00 00 00}, {01 00 00 05 00}the enterprising and\nentrepreneurial type!\n{07 00 00}Beneath your warm, caring\nexterior lurks a focused\nfinancial mastermind.\nNever satisfied with just\none success, you push\nyourself to bigger things.\n{07 14 00}You dedicate yourself to\nyour goals with an almost\nruthless efficiency.\nBut.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00}{07 0b 00}don't you feel you try\nto impress other people a\nlittle TOO hard?\n{07 00 00}You need to find your true\nfriends and cut loose with\nthem every once in a while.\n{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 14 00}So that's it! And all it\ntook was a few insightful\nquestions! Wasn't that fun?",
+   "et": ""
+  },
+  {
+   "id": 32,
+   "en": "{07 19 00}OK, that's it for the\nquestions! Now to figure\nout who {01 00 00 05 00}you {01 00 00 05 00}are.\n{07 14 00}Well, isn't that interesting?\nYou're {ff 00 00 06}Mabel{ff 00 00 00}, seamstress\nextraordinaire!\n{07 00 00}That means you're kind and\ncompassionate and that\neveryone likes you.\nWhen you've got a lot on\nyour plate, you're good\nat balancing it all out.\n{07 16 00}Now, the problem is that\nyou DO have an awful lot\nof responsibilities.\n{07 00 00}And how much you succeed\nor fail depends entirely on\nhow good your judgment is.\nJust bear that in mind,\nand you'll be just fine. {01 00 00 0f 00}{07 14 00}So\nthat's it!{01 00 00 05 00} Wasn't that fun?",
+   "et": ""
+  },
+  {
+   "id": 33,
+   "en": "{07 19 00}OK, that's it for the\nquestions! Now to figure\nout who {01 00 00 05 00}you {01 00 00 05 00}are.\n{07 14 00}Looks like you're {ff 00 00 06}Phyllis{ff 00 00 00},\nwho works the night shift\nat the {ff 00 00 08}town hall{ff 00 00 00}.\n{07 00 00}That means you're a bit of\nan individualist. You're\ntalented, and you know it!\nYou have a tendency to be,\ner, selfish. Just a little.\nAnd your personality is{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.\n{07 16 00}Let's just say you're\nunique and leave it at\nthat, {01 00 00 05 00}{04 02 00}!\n{07 14 00}On the plus side, you always\nsay exactly what you mean,\nwhich is a good thing.\n{07 0b 00}Don't you think that can be\na little tough on your\nfriends, though?\n{07 16 00}I worry about your\nrelationships.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0f 00} {07 14 00}But you're a\nsmart cookie. You'll be OK.\nAs I said, you've got lots\nof skill, and you sometimes\nlook down on other people.\n{07 0e 00}But it's only the people who\nwork hard who succeed in\nthis world,{01 00 00 05 00} right?\n{07 00 00}Don't let yourself get too\ncaught up in your work.\nYou need time off, too.\n{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 14 00}Well, that didn't turn\nout so bad, did it? I\nthought it was fun!",
+   "et": ""
+  },
+  {
+   "id": 34,
+   "en": "{07 19 00}OK, that's it for the\nquestions! Now to figure\nout who {01 00 00 05 00}you {01 00 00 05 00}are.\n{07 14 00}Look at that! You're our\nlocal know-it-all, {ff 00 00 06}Blathers{ff 00 00 00}!\n\n{07 00 00}You are a true academic,\nfreed from all worldly\nconcerns, {01 00 00 05 00}{04 02 00}.\nYou follow your own path,\nand you have lots of\nwisdom and experience.\n{07 16 00}But you're so scattered and\nout there that you have a\ntough time making friends!\n{07 00 00}But {01 00 00 0a 00}you're not all that\ninterested in other people,\n{07 0b 00}are you, {01 00 00 05 00}{04 02 00}?\n{07 00 00}Remember, even bookworms\nneed buddies. You can't\ntalk to a book!\nI mean, you can, but {07 0e 00}it\nwould look a little weird.{01 01 00}{07 14 00}\nThat's it! Did you have fun?",
+   "et": ""
+  },
+  {
+   "id": 35,
+   "en": "{07 19 00}OK, that's it for the\nquestions! Now to figure\nout who {01 00 00 05 00}you {01 00 00 05 00}are.\n{07 14 00}Wow! You're {ff 00 00 06}Pelly{ff 00 00 00}, the lovely\nlass who works the front\ndesk at the {ff 00 00 08}town hall{ff 00 00 00}!\n{07 00 00}You are a trusting soul,\nwith high standards and a\npure heart, {01 00 00 05 00}{04 02 00}.\nYou're selfless to a fault,\nand you reach out to\nothers in need.\nBecause of that, everyone\nrespects you and relies\non your assistance.\n{07 16 00}Unfortunately, not everyone\ncan live up to your high\nstandards.\n{07 00 00}I hate to be the one to\nbring a dose of reality\nyour way, but{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\nYou probably have to learn\nto be a little less trusting\nof the motives of others.\nThat's all I've got!{01 00 00 05 00}\n{07 14 00}So, wasn't that fun?",
+   "et": ""
+  },
+  {
+   "id": 36,
+   "en": "{07 19 00}OK, that's it for the\nquestions! Now to figure\nout who {01 00 00 05 00}you {01 00 00 05 00}are.\n{07 14 00}Look at this! You're {ff 00 00 06}Sable{ff 00 00 00},\nseamstress superb from\nthe {ff 00 00 08}Able Sisters{ff 00 00 00} boutique.\n{07 00 00}You're very skilled with\nyour hands, and you tend\nto be a little.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}difficult.\nBut why do you need to be\neasygoing when you've got\nso much artistic talent?\nAfter all, you're a very\ngrounded person. You trust\nhard work, not daydreams.\n{07 16 00}Of course, there's more to\nlife than hard work! You\ncan't neglect your friends!\n{07 0b 00}You know what you should\ndo?{01 01 00}{07 15 00} Something spontaneous!\nAnything! Just go do it!\n{07 14 00}You might even find that a\nchange of pace helps\nenhance your creativity!\n{07 00 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 14 00}So that's all I've got.\nI hope you had fun and\nlearned a little something!",
+   "et": ""
+  },
+  {
+   "id": 37,
+   "en": "{07 19 00}OK, that's it for the\nquestions! Now to figure\nout who {01 00 00 05 00}you {01 00 00 05 00}are.\n{07 14 00}Ever ready to deliver our\nmail, you are {ff 00 00 06}Pete{ff 00 00 00}, postman\npar excellence!\n{07 00 00}You're a charmer,{01 00 00 05 00} but you\nhave a bit of a, er, dark\nside, shall we say?\n{07 13 00}Your eyes are deep and\nsincere, difficult to\nread but so trustworthy{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 15 00}But they hide the truth,\nthat you are loyal only\nto your own desires!\n{07 00 00}Naturally, you're a smooth\noperator, and people just\nWANT to trust in you.\n{07 16 00}But that just lets you take\ncredit for other people's\nwork! That's not right!\n{07 00 00}Basically, you're downright\nuntrustworthy. {01 01 00}{07 15 00}If you meet\nanyone like you, watch out!\n{07 00 00}Which isn't to say you can't\ntrust {ff 00 00 06}Pete{ff 00 00 00}.{01 00 00 0a 00} {07 13 00}Who wouldn't\ntrust those dreamy eyes?\n{07 00 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 14 00}So anyway, that's all I've\ngot to say. So? Did you\nhave fun with the quiz?",
+   "et": ""
+  },
+  {
+   "id": 38,
+   "en": "{07 19 00}OK, that's it for the\nquestions! Now to figure\nout who {01 00 00 05 00}you {01 00 00 05 00}are.\n{07 14 00}Hey, you're {ff 00 00 06}Tortimer{ff 00 00 00}, the\nmayor of {ff 00 00 08}{04 03 00}{ff 00 00 00}!\n\n{07 00 00}You're a master of making\nother people do all the\nheavy lifting for you!\nYou rely on others, but\nonly insofar as you\nmake them do your work.\n{07 0b 00}Do you ever notice anything\nabout people other than\nwhat they can do for you?\n{07 00 00}It makes getting things\ndone easier, but it's hard\non friendships.\nYou're nice enough,\n{07 11 00}but you're a little obsessed\nwith titles and positions.\n{07 16 00}Sometimes, people cross to\nthe other side of the\nstreet to avoid you!\n{07 00 00}You know{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{07 11 00}there are some\nthings more important than\nbeing important.\n{07 00 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 14 00}So there you have it!\nI hope you learned a little\nsomething about yourself!",
+   "et": ""
+  }
+ ]
+}

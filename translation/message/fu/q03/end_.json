@@ -1,0 +1,15 @@
+{
+ "file": "script/ENG/message/fu/q03/end_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 14 00}Thanks to you, {04 1f 00},{01 00 00 05 00}\nI've been able to enjoy\nall of my favorite fossils!\n{07 19 00}But now it's time to walk\naway from the fossil game\nwhile I'm still on top.\n{07 00 00}{07 1a 00}You are a true master of\nfossils! All of {04 03 00} \nis proud, {01 00 00 05 00}{04 02 00}!\n{07 0d 00}Thank you so much for all\nyour help!{01 00 00 05 00} You're a true\nfriend!",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 00 00}{0b 03 00}{04 1f 00}, thank you for\nsupporting my fossil\ncollecting!\n{07 14 00}But now it's time to hang\nup fossil hunting and walk\noff into the sunset.\n{07 00 00}Yep! {01 00 00 05 00}No more fossils for\nme! I'm going back to my\nnormal life, {01 00 00 05 00}{04 02 00}.\n{07 1a 00}You're {04 03 00}'s last\nhope for paleontology!{01 01 00}\nGood luck, fellow scientist!",
+   "et": ""
+  }
+ ]
+}

@@ -1,0 +1,35 @@
+{
+ "file": "script/ENG/message/ko/q05/miss_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 15 00}Hey,{01 00 00 05 00} I know you're doing\nyour best and all, but I\ncan't be settling.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}\n{01 00 00 0f 00}I mean, seriously,\n{04 1a 00}\njust wouldn't look right!\nDo us both a favor and go \nsell this to {ff 00 00 06}Nook{ff 00 00 00}{01 00 00 03 00}\nor somethin', {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 00 00}.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}Sorry,{01 00 00 0f 00} but I've gotta\nbreak some bad news, \n{01 00 00 03 00}{04 1f 00}!\nI'm looking for\n{ff 00 00 07}{04 0f 00}{ff 00 00 00}!",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 00 00}.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}{07 02 00}What is this trash?{01 00 00 0f 00}\n{0b 03 00}{04 1a 00}?\n\nI'm looking for\n{ff 00 00 07}{04 0f 00}{ff 00 00 00}.{01 01 00}\nTake this thing back!",
+   "et": ""
+  },
+  {
+   "id": 3,
+   "en": "{07 15 00}Oh, {01 00 00 05 00}I don't need\n{04 1a 00}\nanymore.\nYou should take this and\ntry to sell it to{ff 00 00 06} Nook{ff 00 00 00}{01 00 00 03 00}\nor something, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 4,
+   "en": "{07 00 00}.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}Aw man,{01 00 00 0f 00} my bad,\n{01 00 00 03 00}{04 1f 00}!\n\nI really don't need\n{04 1a 00}\nanymore.\nSorry, but {01 00 00 05 00}be a pal and\ntake this back, would you,\n{01 00 00 05 00}{04 02 00}?!",
+   "et": ""
+  },
+  {
+   "id": 5,
+   "en": ".{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}What?!{01 00 00 0f 00} Oh,{01 00 00 0f 00} I see.\n{0b 03 00}{04 1a 00}!{01 00 00 0f 00}\n\"Yay.\"\nHonestly, what do you think\nI'm gonna do with all these\nduplicates?!\nHere! {01 00 00 05 00}Take it back!{01 00 00 05 00}\n{01 00 00 05 00}{0b 03 00}{04 02 00}!",
+   "et": ""
+  }
+ ]
+}

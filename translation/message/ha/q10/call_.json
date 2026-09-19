@@ -1,0 +1,20 @@
+{
+ "file": "script/ENG/message/ha/q10/call_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "Yo!{01 00 00 05 00} Incoming {04 01 00}!",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "What's shakin', {01 00 00 05 00}{ff 00 00 05}{04 1f 00}{ff 00 00 00}?{01 01 00}\nIt's me,{01 00 00 0a 00} {04 01 00}!",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{0b 03 00}{04 1f 00}? {01 00 00 05 00}Anybody home?{01 00 00 05 00}\n{04 01 00} in the house!{01 00 00 05 00}\nWassup, {04 02 00}!",
+   "et": ""
+  }
+ ]
+}

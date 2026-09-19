@@ -1,0 +1,20 @@
+{
+ "file": "script/ENG/message/ta/q11/trade2_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 14 00}And which piece of\nfurniture would that\nbe, {01 00 00 05 00}{04 02 00}?",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 1b 00}Hah,{01 00 00 0a 00} you're such a child.{01 01 00}\n{07 00 00}Which piece are you\n{07 0b 00}referring to, {01 00 00 05 00}{04 02 00}?",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 00 00}So, which one is it, \n{01 00 00 05 00}{04 02 00}?",
+   "et": ""
+  }
+ ]
+}

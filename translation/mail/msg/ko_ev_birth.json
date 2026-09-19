@@ -1,0 +1,20 @@
+{
+ "file": "script/ENG/mail/msg/ko_ev_birth.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "So, you're a year older,\nhuh? Well, anyway, happy\nbirthday. I guess I'm\nhappy for ya.",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "Happy birthday. You're a\nlittle bit older, but not\nmuch wiser! Yeah, that's\ntoo bad for you.",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "I heard you're having a\nbirthday. I'm not much\nfor this kind of thing,\nbut have a present.",
+   "et": ""
+  }
+ ]
+}

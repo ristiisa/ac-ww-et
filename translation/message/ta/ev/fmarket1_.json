@@ -1,0 +1,35 @@
+{
+ "file": "script/ENG/message/ta/ev/fmarket1_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 00 00}I know this is short notice,{01 00 00 0a 00}{07 14 00}\nbut today's the {ff 00 00 03}Flea Market{ff 00 00 00}!\n{01 00 00 0a 00}It's so exciting!\n{07 1b 00}Today, someone else's trash\ncould become your treasure!\n\n{07 0d 00}There's something about \nthis day{01 00 00 05 00} that gets me so\nworked up, {01 00 00 0a 00}{04 02 00}.",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 14 00}Hey, {01 00 00 05 00}{04 1f 00},{01 00 00 0a 00} you DO\nknow that today is the day\nof the {ff 00 00 03}Flea Market{ff 00 00 00}, right?!\n{07 00 00}If you see something you \nlike, just pounce on it{01 00 00 05 00}\nwithout hesitation.\n{07 1b 00}Good furniture moves fast.{01 01 00}\nIn a way, it's just like \nlove, {01 00 00 05 00}{04 02 00}.",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 14 00}There's just something \nabout used furniture that's\nso warm, {01 00 00 05 00}{04 02 00}.\n{07 19 00}The {ff 00 00 03}Flea Market{ff 00 00 00} is so much\nmore than just buying used\nitems for cheap!{07 14 00}",
+   "et": ""
+  },
+  {
+   "id": 3,
+   "en": "{07 04 00}Hey, {01 00 00 05 00}you! {01 00 00 0a 00}Yeah, you! What\nare you doing just standing\naround here?\n{07 15 00}Shouldn't you be manning\nthe shop or something?\nHuh, {01 00 00 05 00}{04 02 00}?",
+   "et": ""
+  },
+  {
+   "id": 4,
+   "en": "{07 14 00}Because townsfolk come to\nyour house,{01 00 00 0a 00} the {ff 00 00 03}Flea Market\n{ff 00 00 00}is a chance to meet people.\n{07 00 00}So don't go wasting your\ntime lollygagging\naround here!",
+   "et": ""
+  },
+  {
+   "id": 5,
+   "en": "{07 00 00}Even if you don't have a\nBell to your name, your\nhome can still feel inviting.\n{07 19 00}A successful shop always\nfeels nice to be in,\n{01 00 00 05 00}{04 02 00}.{07 14 00}",
+   "et": ""
+  }
+ ]
+}

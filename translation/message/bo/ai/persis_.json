@@ -1,0 +1,35 @@
+{
+ "file": "script/ENG/message/bo/ai/persis_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 1c 00}{01 00 00 0a 00}I've been seeing a lot of\nyou lately{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 14 00} {07 1b 00}{01 00 00 05 00}Well, I'm not\ninto feeling smothered,{01 00 00 05 00} OK?{01 00 00 05 00}{03 00 00}",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 1c 00}{01 00 00 0a 00}What's up with following\nme around? {01 00 00 14 00}{07 1b 00}{01 00 00 05 00}Are you feeling\nlonely,{01 00 00 0a 00} {04 02 00}?{01 00 00 05 00}{03 00 00}",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 16 00}What do you WANT?!{01 00 00 14 00} {07 06 00}Don't\nyou know {01 00 00 0a 00}I'm a really busy\nguy,{01 00 00 0a 00} {04 02 00}?!?{01 00 00 05 00}{03 00 00}",
+   "et": ""
+  },
+  {
+   "id": 3,
+   "en": "{07 01 00}{01 00 00 05 00}Weren't you just here?!{01 00 00 0a 00}\nKnock it off already,{01 00 00 0a 00}\n{04 02 00}!{01 00 00 05 00}{03 00 00}",
+   "et": ""
+  },
+  {
+   "id": 4,
+   "en": "{07 16 00}What's your deal?{01 00 00 14 00} {07 06 00}I'm sick\nand tired of you,{01 00 00 0a 00}\n{01 00 00 0a 00}{04 02 00}!{01 00 00 05 00}{03 00 00}",
+   "et": ""
+  },
+  {
+   "id": 5,
+   "en": "{07 01 00}AUGH!{01 00 00 14 00} There's this thing\ncalled personal space!{01 00 00 0f 00} Ever\nheard of it, {04 02 00}?{01 00 00 05 00}{03 00 00}",
+   "et": ""
+  }
+ ]
+}

@@ -1,0 +1,140 @@
+{
+ "file": "script/ENG/message/ko/tsu/item_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{0b 03 00}{04 1f 00}!{01 00 00 14 00} {07 0e 00}Lemme ask you\nsomething. {01 00 00 14 00}{07 0b 00}Can you recycle\n{04 1a 00}?{02 00 00 03 03}\nYep.\nNope.",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "Hola!{01 00 00 05 00} You look bored. How\nabout I give you a little\npop quiz?\n{07 14 00}If you're right, I'll give you\nsomething unbelievably\ngood, {01 00 00 05 00}{04 02 00}!\n{06 00 00 07 08}",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "If I had an empty cup of\ninstant noodles in my right\nhand...\n{07 0e 00}...and if my left hand\nwas holding\n{04 1a 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 0b 00}Which hand do you think\nis more important?{02 01 00 14 17 10}\nRight!\nLeft!\nBoth!",
+   "et": ""
+  },
+  {
+   "id": 3,
+   "en": "{06 01 00 04 04 05}",
+   "et": ""
+  },
+  {
+   "id": 4,
+   "en": "{07 0e 00}Well, {01 00 00 0f 00}I'm not too sure about\nthis. {01 00 00 0f 00}I have more important\nthings to think about.\n{07 00 00}But who knows, you might be\nright, {01 00 00 05 00}{04 02 00}.\n\nSo, {04 1f 00},{01 00 00 0f 00} {07 19 00}I trust\nthat you'll{01 00 00 05 00} deal with this,\nall right?",
+   "et": ""
+  },
+  {
+   "id": 5,
+   "en": "{07 0e 00}Hmm{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0f 00}.{01 00 00 0f 00} I'm not sure about\nthis,{01 00 00 0f 00} {07 16 00}but if you say so,{01 00 00 05 00}\nyou might be right.",
+   "et": ""
+  },
+  {
+   "id": 6,
+   "en": "{07 00 00}I mean,{01 00 00 05 00} you'll take care of\nmy {0b 02 00}{04 1a 00}\nfor me, right, {01 00 00 05 00}{04 02 00}?",
+   "et": ""
+  },
+  {
+   "id": 7,
+   "en": "{07 15 00}All right,{01 00 00 05 00} here's your\nquestion! Listen up!\n\n{07 0b 00}How am I feeling right now,\n{01 00 00 05 00}{04 02 00}?{02 01 00 09 0a 09}\nFine!\nAngry!\nIn pain!",
+   "et": ""
+  },
+  {
+   "id": 8,
+   "en": "{07 15 00}OK! {01 00 00 05 00}Here's your question!{01 01 00}\n{07 00 00}What do I{01 00 00 05 00} {07 0b 00}think is the most\nimportant aspect of a man?{02 01 00 09 09 09}\nCourage!\nPheromones!\nSmell!",
+   "et": ""
+  },
+  {
+   "id": 9,
+   "en": "{06 01 00 0a 0b 0c}",
+   "et": ""
+  },
+  {
+   "id": 10,
+   "en": "{06 01 00 0c 0d 0e}",
+   "et": ""
+  },
+  {
+   "id": 11,
+   "en": "{07 02 00}Wow! That's totally {01 00 00 05 00}CORRECT!{01 00 00 14 00}\n{07 0e 00}Hmm.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} How in the world did\nyou know that?!\n{07 00 00}Well, I did just eat a bunch\nof garlic. {01 00 00 05 00}Can you smell it\non me, {01 00 00 05 00}{04 02 00}?\n{07 14 00}Here's the gift I promised. {01 00 00 14 00}\n{0b 03 00}{04 1a 00}!\n...In case you couldn't tell!",
+   "et": ""
+  },
+  {
+   "id": 12,
+   "en": "{07 1a 00}How'd ya know, {01 00 00 05 00}{04 02 00}?{01 00 00 14 00}\n{07 0b 00}Maybe{01 00 00 05 00} it was too obvious?{01 00 00 14 00}\n{07 1b 00}Maybe.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}I'm too obvious?\n{07 14 00}Well, {01 00 00 05 00}you got it.{01 00 00 05 00} Take this!{01 00 00 14 00}\n{0b 03 00}{04 1a 00}!\n...Obviously!",
+   "et": ""
+  },
+  {
+   "id": 13,
+   "en": "{07 01 00}No! {01 00 00 05 00}Wrong! {01 00 00 05 00}Incorrect!{01 00 00 14 00} You\ncouldn't be more off base,\n{01 00 00 05 00}{04 02 00}!\n{07 16 00}Man,{01 00 00 05 00} I thought you knew me\nbetter than that{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\nI GUESS NOT! {0b 03 00}{04 02 00}!\n{07 15 00}I can't give you anything!\nYou get NOTHING!{03 02 00 01}",
+   "et": ""
+  },
+  {
+   "id": 14,
+   "en": "{07 01 00}What made you think that\nthat was the right answer?!\n{01 00 00 05 00}{0b 03 00}{04 02 00}?!\n{07 15 00}Man, {01 00 00 05 00}you really don't know\nme or understand me.{01 00 00 05 00} Nope,\nnot at all{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 06 00}Do me a favor and{01 00 00 05 00} pay more\nattention from now on,\n{01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 16,
+   "en": "{07 00 00}I'm not feeling your answer.\n{07 15 00}It sounds like a cop-out to\nme, {01 00 00 05 00}{04 02 00}!\n{06 01 00 11 12 13}",
+   "et": ""
+  },
+  {
+   "id": 17,
+   "en": "{07 00 00}If you're gonna press the\nissue, {07 13 00}it'd be best if you'd\njust come out with it!\n{07 10 00}Say it! Say you like all of\nme and not just my hands,\n{01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 18,
+   "en": "{07 00 00}If you're always this\nwishy-washy,{07 03 00} you'll never\nfind happiness, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 19,
+   "en": "{07 16 00}I understand the desire to\nhedge your bets,\n{01 00 00 05 00}{04 02 00}.\n{07 15 00}But all it means is that\nyou're not fully committed\nto anything, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 20,
+   "en": "{06 01 00 16 16 15}",
+   "et": ""
+  },
+  {
+   "id": 21,
+   "en": "{07 0e 00}Hrm{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0f 00} You're a weird one,\ntoo, {01 00 00 05 00}{04 02 00}.\n\n{07 00 00}An empty noodle cup means{01 00 00 05 00}\nabsolutely nothing to me\neither, {01 00 00 05 00}{04 02 00}.",
+   "et": ""
+  },
+  {
+   "id": 22,
+   "en": "{07 16 00}Well.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} When you put it that\nway,{01 00 00 05 00} {07 06 00}I start to think maybe\nyou've got a point{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 00 00}It might be a noodle cup\nnow,{01 00 00 05 00} but all I gotta do is\nwash it and VOILA!\nIt's a change holder!\n{07 14 00}Cool, {01 00 00 0f 00}in exchange for this\nvaluable lesson, take this.\n{0b 03 00}{04 1a 00}!\nJust for you! {0b 03 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 23,
+   "en": "{06 01 00 19 19 18}",
+   "et": ""
+  },
+  {
+   "id": 24,
+   "en": "{07 16 00}Well, yeah, I guess you're\nright, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 25,
+   "en": "{07 14 00}Um.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} OK! Good!\n\n\n{07 00 00}I don't need my\n{0b 02 00}{04 1a 00}\nanymore, so here!",
+   "et": ""
+  },
+  {
+   "id": 26,
+   "en": "{07 14 00}Heh heh!{01 00 00 14 00} Keep the change,\n{01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 27,
+   "en": "{07 14 00}Heh heh!{01 00 00 14 00} Take care of that\nfor me, OK, {01 00 00 05 00}{04 02 00}?!",
+   "et": ""
+  }
+ ]
+}

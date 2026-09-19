@@ -1,0 +1,65 @@
+{
+ "file": "script/ENG/message/fu/ai/today1_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 14 00}{0b 03 00}{01 06 00}Good morning{01 07 00}!{01 00 00 05 00}\n{0b 03 00}{04 02 00}! Looks like\nanother beautiful day!",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "Oh, hi, {01 00 00 05 00}{04 1f 00}.{01 00 00 0f 00}{07 00 00}\n{07 14 00}It's such a nice morning,\nisn't it?\nI love it when my day gets\noff to such a perfect\nstart, {01 00 00 05 00}{04 02 00}!\n{07 0a 00}I just know the rest of my\nday is going to be\nabsolutely brilliant!",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "Oh, hi there, {01 00 00 05 00}{04 1f 00}!{01 00 00 0f 00}\nIt's awfully nice of you to\ncome say hi.\n{07 14 00}You know, whenever you see\nme, you should feel free to\nstop and chat!",
+   "et": ""
+  },
+  {
+   "id": 3,
+   "en": "{0b 03 00}{01 06 00}Oh, hi{01 07 00}!{01 00 00 05 00}\nSo, {04 1f 00},{01 00 00 05 00} how are\nthings going?\n{07 14 00}What, me? Oh, {04 1f 00},\nseeing you has made my\nday, {01 00 00 05 00}{04 02 00}!\n{07 0a 00}I couldn't be happier!",
+   "et": ""
+  },
+  {
+   "id": 4,
+   "en": "{0b 03 00}{01 06 00}Oh, hey there{01 07 00}!\n{01 00 00 05 00}{0b 03 00}{04 02 00}!\n\n{07 14 00}When my day gets off to a\ngood start,{01 00 00 05 00} I feel like\nsharing it with everyone.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\nI wish I could feel like this\nall the time, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 5,
+   "en": "{07 14 00}Heya, {01 00 00 05 00}{04 1f 00}.{01 00 00 0f 00}\nYou're looking good\ntoday, {01 00 00 05 00}{04 02 00}!\n{0b 03 00}{04 1f 00}, I've decided\nto {04 22 00} until\nI'm unstoppable!",
+   "et": ""
+  },
+  {
+   "id": 6,
+   "en": "{0b 03 00}{01 06 00}Well, good evening to you{01 07 00}!\n{01 00 00 05 00}{0b 03 00}{04 02 00}!\n\n{07 14 00}Going out at night to\n{04 22 00} can be\nso exciting,{01 00 00 0f 00} {04 02 00}!\nIt's kind of addicting.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}",
+   "et": ""
+  },
+  {
+   "id": 7,
+   "en": "{07 0e 00}Well, well, well. Is that\nyou, {04 1f 00}?\n\nListen, it's not that I'm\nnot happy to see you, but\n{07 02 00}it's already {04 08 00}:{04 09 00}!\n{07 06 00}And I had so much I wanted\nto talk to you about today,\ntoo, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 8,
+   "en": "{07 04 00}Oh, hi, {01 00 00 05 00}{04 1f 00}!{01 00 00 0f 00}\n{07 00 00}Can you believe it's already\n{04 08 00} o'clock, {01 00 00 05 00}{04 02 00}?\n{07 0e 00}I wish you'd stopped by a\nlittle earlier, so we'd have\nmore time to talk.\n{07 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}I'm sure you had a lot\nof things to do today.{01 00 00 0f 00} {07 14 00}I'm\nsorry for being a crybaby.",
+   "et": ""
+  },
+  {
+   "id": 9,
+   "en": "{07 04 00}Gah! {01 00 00 05 00}Wh-wh-who's there?{01 01 00}{07 00 00}\n.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}Phew! {01 00 00 0f 00}It's only you,{01 00 00 0a 00}\n{04 1f 00}.\nNot that I believe in\nghosts, {01 00 00 05 00}{04 02 00}, but.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n\n{07 07 00}I can't help getting a little\nspooked in the dark!",
+   "et": ""
+  },
+  {
+   "id": 10,
+   "en": "{07 04 00}Hey there, {01 00 00 05 00}{04 1f 00}.{01 00 00 0f 00}\nAre you out for a quiet\n{07 0b 00}evening stroll?\n{07 14 00}Don't you know it's bad for\nyour health to stay up too\nlate, {01 00 00 05 00}{04 02 00}?",
+   "et": ""
+  },
+  {
+   "id": 11,
+   "en": "{07 06 00}I'd almost given up on\nseeing you at all today.\n\n{07 00 00}I totally understand that\nyou are a busy person.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n\n{07 14 00}But I hope that you\nremember to stop by when\nyou get time, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  }
+ ]
+}

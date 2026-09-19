@@ -1,0 +1,20 @@
+{
+ "file": "script/ENG/message/ge/q06/fin_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 14 00}Hey, please tell {ff 00 00 06}{04 0f 00}{ff 00 00 00}\nthanks,{01 00 00 05 00} OK, {01 00 00 05 00}{04 02 00}?",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 14 00}Thank {ff 00 00 06}{04 0f 00} {ff 00 00 00}for me,\nwill ya?",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 14 00}Hey, {04 1f 00},{01 00 00 05 00} remember\nto pass my thanks on to\n{ff 00 00 06}{04 0f 00}{ff 00 00 00}, too!",
+   "et": ""
+  }
+ ]
+}

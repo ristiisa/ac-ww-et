@@ -1,0 +1,65 @@
+{
+ "file": "script/ENG/message/fu/ai/first_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 14 00}Hello! Nice morning, huh?{01 00 00 0f 00}\nI don't think I've seen you\naround before, {01 00 00 05 00}{04 02 00}.\nI'm {04 01 00}. Nice to\nmeet you!{01 00 00 0f 00} {07 0b 00}And what's your\nname, {01 00 00 05 00}{04 02 00}?\n{07 0e 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 14 00}\nIt's {04 00 00}, is it?{07 00 00}{01 00 00 0f 00} All\nright, I won't forget!\n{07 14 00}It's always nice to see a\nfresh face,{01 00 00 0f 00} {04 00 00}!\nSee you around!",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 14 00}{01 00 00 05 00}Good morning.{01 00 00 0f 00} Say{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\nYou're new around here,\n{07 0b 00}aren't you, {01 00 00 05 00}{04 02 00}?\nI'm {04 01 00},{07 00 00} and I love\nto {04 22 00} when\nI've got the time.\n{07 12 00}So, {04 00 00}, I guess\nyou're a bit of a morning\nperson, huh?\n{07 14 00}Well, you just keep on\nenjoying that morning! Nice\nto meet you, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 14 00}Isn't it just a beautiful\nmorning, {01 00 00 05 00}{04 02 00}?\nI live for days like today!\n{07 00 00}Oh, my name's {04 01 00},\n{01 00 00 05 00}{04 02 00}. It's really\ngreat to meet you!{01 00 00 0f 00}\n{07 0d 00}I just know you and I are\ngoing to be great friends,{01 00 00 05 00}\n{04 00 00}! {01 00 00 05 00}{0b 03 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 3,
+   "en": "{07 16 00}Who are you? I haven't seen\nyou around! What do you\nwant from me, {01 00 00 05 00}{04 02 00}?\n{07 07 00}I'm {04 01 00}.{01 00 00 0f 00} I'm sorry I\nfreaked out on you, but\nyou really startled me!\n.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 00 00}I'll forgive you if you'll\nagree to be my friend,{01 00 00 0f 00}\n{04 00 00}. Is it a deal?\n{07 14 00}Whew! I feel a lot better\nnow. Nice to meet you,\n{01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 4,
+   "en": "{07 14 00}Hey there!{01 00 00 14 00} Don't think I've\nseen your smiling face\nbefore, {04 02 00}!\nI'm {04 01 00}, and I love\nto {04 22 00} every\nchance I get!\nSo, {07 0b 00}can we be friends,\n{01 00 00 05 00}{04 02 00}? What do\nyou say?\n{07 0e 00}And your name is{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}?\n{07 00 00}Ah, so you're {04 00 00},\nare you? Well, {01 00 00 05 00}{04 02 00}!\n{07 14 00}It's nice to meet you.\nI hope we can be friends,{01 00 00 0a 00}\n{04 00 00},{01 00 00 05 00} {04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 5,
+   "en": "{07 14 00}My! Aren't you friendly!{01 00 00 0a 00}\nHi there. They call me\n{04 01 00}.\nSo what are you into? {07 0d 00}Me,\nI like to {04 22 00}!\nAny chance I get!\n{07 14 00}Well, I won't keep you,\n{04 00 00}.{01 00 00 05 00} But don't be\na stranger, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 6,
+   "en": "{07 14 00}Good evening.{01 00 00 05 00} Have we met?\nMy name's {04 01 00}.{01 01 00}\n{07 0b 00}What's yours?\n{07 00 00}{0b 03 00}{04 00 00}? I won't forget\nthat.{01 01 00} .{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}I think you and\nI will be good friends.\n{07 14 00}In fact, I'll bet we become\nthe best friends in all\n{04 03 00}, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 7,
+   "en": "{07 02 00}EEE{01 00 00 05 00}EEE{01 00 00 05 00}EEEK!{07 00 00}{01 01 00}\n{07 02 00}EEE{01 00 00 05 00}EEE{01 00 00 05 00}EEE{01 00 00 05 00}EEE{01 00 00 05 00}EEE{01 00 00 05 00}EEE{01 00 00 05 00}EEE{01 00 00 05 00}EEE{01 00 00 05 00}EEE{01 00 00 05 00}\nEEE{01 00 00 05 00}EEE{01 00 00 05 00}EEE{01 00 00 05 00}EEE{01 00 00 05 00}EEE{01 00 00 05 00}EEE{01 00 00 05 00}EEE{01 00 00 05 00}EEE{01 00 00 05 00}EEEK{01 00 00 05 00}!!!\nGhost{01 00 00 05 00}!!! {01 00 00 05 00}Aaa!!! {0b 03 00}{04 02 00}!{01 01 00}\n{07 0b 00}Huh? You're not a ghost{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n\n{07 06 00}Hey!{01 00 00 0f 00} What's the big idea,\nrunning around in the dark\nand scaring poor little me?\n{07 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}Oh, {01 00 00 0f 00}you were just trying\nto make some friends, huh?\nYour name is {04 00 00}?\nWell, hi.{01 00 00 05 00} {07 14 00}I'm {04 01 00}. My\nsign is {04 0f 00}, which\nmeans I scare really easily!\nSo no more sneaking up on\nme, OK, {04 02 00}?\n\nOh, and you should know, I\nabsolutely love to\n{04 22 00}. See ya!",
+   "et": ""
+  },
+  {
+   "id": 8,
+   "en": "Oh, {01 00 00 05 00}good evening.{01 00 00 0a 00} It's so\nnice to meet you{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n{07 0b 00}isn't it? {01 00 00 05 00}{0b 03 00}{04 02 00}?\n{07 14 00}I'm {04 01 00}.{01 00 00 14 00} I love to\ngo {04 22 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\nI think, {01 00 00 05 00}{04 02 00}.\nI don't know if that's your\nidea of fun,{01 00 00 05 00} but maybe we\ncan hang out all the same.",
+   "et": ""
+  },
+  {
+   "id": 9,
+   "en": "{07 12 00}Oh, man. Look at the time!\nWhat are you doing, running\naround so late at night?\nI mean, I'm happy you are,\nbecause I doubt I'd have\nrun into you otherwise.\n{07 00 00}Maybe it's fate, though.\nMaybe we were meant to\nmeet, {01 00 00 0a 00}{04 02 00}!\n{07 14 00}I'm {04 01 00}.{01 00 00 0f 00} I'm glad I\nstayed up a little late\ntonight, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 10,
+   "en": "{07 04 00}Oh, {01 00 00 05 00}hi!{01 00 00 0f 00} I didn't expect to\nsee anyone else out! {01 00 00 05 00}{07 00 00}Well,\ngood evening, {01 00 00 05 00}{04 02 00}.\nSo, why are you still up?\nAre you going to go\n{04 22 00}?\n{07 14 00}I love that. It's so fun!\nOh, I'm {04 01 00}. Nice\nto meet you, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 11,
+   "en": "{07 12 00}Zzz.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} Zzzz.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n{07 18 00}Wah!?!{01 00 00 0a 00} {0b 03 00}{04 02 00}?{01 00 00 0a 00}\n{07 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}Oh,{01 00 00 05 00} I'm sorry!{01 00 00 0a 00}\nI must have nodded off for\na minute,{01 00 00 05 00} {04 02 00}.\n\n{07 0b 00}Have we met before?{01 00 00 0f 00}\n{07 00 00}I'm {04 01 00}.{01 00 00 0a 00}\nAnd you are.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{04 00 00}?\n{07 0b 00}I was just thinking, what\nif I'm still asleep, and I'm\ndreaming you, {01 00 00 05 00}{04 00 00}?\n{07 14 00}Just kidding. I'm sure\nyou're real, {04 02 00}!",
+   "et": ""
+  }
+ ]
+}

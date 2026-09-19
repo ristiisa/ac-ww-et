@@ -1,0 +1,20 @@
+{
+ "file": "script/ENG/message/ko/q06/normal_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 04 00}My gift was a dud?{01 00 00 0f 00} I can't\neven begin to understand\nthat, {01 00 00 05 00}{04 02 00}!\n{07 00 00}{07 05 00}I guess that's what I get \nfor giving something decent\nto a tasteless yokel.",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 04 00}It didn't go over well?{01 00 00 05 00}\nWeird. {01 00 00 05 00}{07 05 00}Next time, I'll just \nsend a bunch of TRASH.",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 04 00}What?! {01 00 00 05 00}The gift went over \nlike a lump of lunch meat?\n\n{07 15 00}Is it even possible to be\nmore ungrateful?! {01 00 00 05 00}That\nanimal has no taste.",
+   "et": ""
+  }
+ ]
+}

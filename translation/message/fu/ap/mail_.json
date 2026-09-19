@@ -1,0 +1,70 @@
+{
+ "file": "script/ENG/message/fu/ap/mail_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 00 00}Do you have a second?{01 00 00 05 00}\nBecause I was wondering if\nyou'd take a look at this.\n{07 14 00}It's a letter from a friend\nof mine, {01 00 00 05 00}{04 02 00}.",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 00 00}{0b 03 00}{01 06 00}Heya{01 07 00}!\n{0b 03 00}{04 1f 00}!\n\nA friend of mine sent me a\nletter! Here,{07 0b 00} you want to\ntake a look, {01 00 00 05 00}{04 02 00}?",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 14 00}{0b 03 00}{01 06 00}Hey{01 07 00}!\n{0b 03 00}{04 1f 00}!\n\n{07 14 00}I wanted to show you this\nletter I got, if you've\ngot a sec, {01 00 00 05 00}{04 02 00}.",
+   "et": ""
+  },
+  {
+   "id": 3,
+   "en": "{07 00 00}{0b 03 00}{01 06 00}Hello there{01 07 00}!\nHow's life, {04 1f 00}?\n\n{07 14 00}Hey, if you're not in a\nhurry, would you take a\nlook at this, {01 00 00 05 00}{04 02 00}?",
+   "et": ""
+  },
+  {
+   "id": 4,
+   "en": "{07 14 00}So what did you think?{01 01 00}\nI want you to give me your\nhonest opinion.{02 01 00 05 06 07}\nNot bad!\nNot great...\nMeh...",
+   "et": ""
+  },
+  {
+   "id": 5,
+   "en": "{07 0a 00}Oh, I agree. Totally! In\nfact, I thought it was\npretty darned good!\nBut it's not about the\nwriting.{01 00 00 05 00} It's about the\nfeelings behind the words.\n{07 19 00}All a good letter has to\ndo is make you feel\nspecial, {01 00 00 05 00}{04 02 00}.",
+   "et": ""
+  },
+  {
+   "id": 6,
+   "en": "{07 04 00}Really? {01 00 00 0a 00}Wow... {01 01 00}{07 16 00}I guess\neveryone sees things\ndifferently, {01 00 00 05 00}{04 02 00}.\n{07 00 00}I happened to think it was\na very nice letter.",
+   "et": ""
+  },
+  {
+   "id": 7,
+   "en": "{07 00 00}I guess you must be pretty\nwell read, huh,\n{04 1f 00}?\n{07 16 00}It must be hard to make an\nimpression on someone\nlike you, {01 00 00 05 00}{04 02 00}.\n{07 09 00}That's really sad.",
+   "et": ""
+  },
+  {
+   "id": 8,
+   "en": "{07 0b 00}What do you think, \n{01 00 00 05 00}{04 02 00}?\n\n{07 14 00}It gave me a serious case\nof the warm fuzzies,\npersonally, {01 00 00 05 00}{04 02 00}.",
+   "et": ""
+  },
+  {
+   "id": 9,
+   "en": "{07 00 00}I thought it was a bit\nstrange, to be totally\nhonest.\n{07 0d 00}But that doesn't mean I\ndidn't totally dig it,\nthough, {01 00 00 05 00}{04 02 00}!\n{07 14 00}I just kinda wanted\nsomeone else to gawk at it\ntoo, {04 1f 00}!",
+   "et": ""
+  },
+  {
+   "id": 10,
+   "en": "{07 0d 00}This letter made me feel\nso happy, {01 00 00 05 00}{04 02 00}!\n\n{07 00 00}Not because it really made\nany sense or anything.\nThat's not so important.\n{07 14 00}What really counts here is\nthat my friend meant every\nsingle word written here!",
+   "et": ""
+  },
+  {
+   "id": 11,
+   "en": "{06 01 00 04 08 0a}",
+   "et": ""
+  },
+  {
+   "id": 12,
+   "en": "{06 00 00 08 09}",
+   "et": ""
+  }
+ ]
+}

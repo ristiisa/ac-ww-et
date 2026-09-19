@@ -1,0 +1,30 @@
+{
+ "file": "script/ENG/message/ko/tsu/move2_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 04 00}Look, I wanna get this whole\nthing over with!{01 01 00}\n{07 15 00}So just stay outta my way!",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 16 00}Yargg! Look at this room!\nI don't have any room to\n{04 22 00}...indoors.",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "Look, it's cool and all that\nyou came by to talk, but\ntoday is NOT the day!\n{07 16 00}I wanna get all this done\nas soon as I can.{01 00 00 05 00} Know\nwhat I mean, {01 00 00 05 00}{04 02 00}?",
+   "et": ""
+  },
+  {
+   "id": 3,
+   "en": "I've still gotta sort my\nboxes and stuff.{01 00 00 0f 00}\n{07 16 00}Let's shoot for tomorrow.",
+   "et": ""
+  },
+  {
+   "id": 4,
+   "en": "{07 1b 00}You're so high-maintenance,\n{01 00 00 05 00}{04 02 00}!\n\n{07 00 00}I'm BUSY, Your Highness!\nI can't cater to your\nroyal whims right now!",
+   "et": ""
+  }
+ ]
+}

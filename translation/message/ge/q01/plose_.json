@@ -1,0 +1,15 @@
+{
+ "file": "script/ENG/message/ge/q01/plose_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 14 00}What have you got there,\n{04 1f 00}? {01 00 00 05 00}Oh, it's\n{04 1c 00}!\n{07 15 00}That's pretty good{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}\nSo, I've just got this{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}{01 01 00}\n{07 14 00}{0b 02 00}{0b 03 00}{ff 00 00 07}{04 1d 00}{ff 00 00 00}!\n{07 0d 00}WOOOHOOO!{01 00 00 14 00} Mine is WAY\ncooler than yours!\n\n{07 16 00}Awww, don't feel too bad,{01 00 00 05 00}\n{04 1f 00}!\n\n{07 14 00}I'll give you another chance\nanytime you want a\nrematch, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 1d 00}NO WAY!{01 00 00 0f 00} You got\n{04 1c 00}?!\nOh, {01 00 00 05 00}{04 02 00}!\n{07 11 00}I've only got{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}\n{07 14 00}{04 1d 00}!\n\n{07 00 00}Yep{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}mine is WAY more rare\nand cool and cute, so I win!\n\n{07 03 00}Ha ha ha!{01 00 00 0a 00} Good thing I took\nthose perky vitamins,\n{01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  }
+ ]
+}

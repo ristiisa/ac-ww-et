@@ -1,0 +1,20 @@
+{
+ "file": "script/ENG/message/fu/q09/explain_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 0a 00}Cool, {01 00 00 0a 00}{04 1f 00} This will\nbe a blast!{01 00 00 0a 00} {07 00 00}OK, let's go\nover the ground rules.\nI'm going to hide somewhere\nin the town,{01 00 00 05 00} and you have\n{ff 00 00 02}five minutes{ff 00 00 00} to find me!\n{07 14 00}If you find me within the\ntime frame, {04 02 00},\nyou WIN!{01 00 00 05 00} Pretty easy, huh?\n{07 00 00}OK!{01 00 00 05 00} I'm going to go hide\nnow{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 0d 00}Oh, YES!{01 00 00 0a 00} You're the best,\n{04 1f 00}! {07 00 00}OK, let's go\nover the rules real quick.\nI'm going to go hide...{01 00 00 0a 00}and\nyou have to find me in\n{ff 00 00 02}ten minutes{ff 00 00 00} or less!\n{07 14 00}If you do, you win!!{01 01 00}\nPretty easy, huh,{01 00 00 05 00}\n{04 02 00}?{01 00 00 0a 00} {07 00 00}OK, here I go!",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 14 00}We're on!{01 00 00 05 00}Let me explain the\nrules now, {01 00 00 05 00}{04 02 00}!{01 00 00 0a 00}\nYou ready?\n{07 00 00}OK, I'm going to hide,\nand you have to find me in\n{ff 00 00 02}fifteen minutes{ff 00 00 00} or less.\n{07 19 00}If you find me within that\ntime, then {04 1f 00} is\na big winner! \n{07 14 00}But if you don't find me,\nI win, {01 00 00 05 00}{04 02 00}!{01 01 00}\n{07 00 00}OK, I'm off{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}{07 14 00} Tee hee!",
+   "et": ""
+  }
+ ]
+}

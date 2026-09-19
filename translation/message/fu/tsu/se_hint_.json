@@ -1,0 +1,55 @@
+{
+ "file": "script/ENG/message/fu/tsu/se_hint_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "Sometimes, {04 1f 00},{01 00 00 0f 00}\nyou find yourself a little\nstrapped for cash.\nIt's no big deal. I mean,\nit happens to everyone\nsometimes, {01 00 00 05 00}{04 02 00}.\nWell let me tell you, if you\nneed some pocket change\nfast, here's a little tip.\n{07 14 00}Collect shells on the beach!\nYou can sell them for some\nquick money, {01 00 00 05 00}{04 02 00}.",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{06 08 00 03 04 05 06}",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 14 00}Pop-quiz time, {04 1f 00}!{01 00 00 0f 00}{07 0b 00}\nWhich of these seashells is\nworth the most?{02 01 00 07 08 09}\nCoral.\nWhite scallop.\nConch.",
+   "et": ""
+  },
+  {
+   "id": 3,
+   "en": "{07 14 00}I like to take a nice\nwalk on the beach in the\nmorning, {01 00 00 05 00}{04 02 00}.\n{07 00 00}Some mornings, it's so nice\nand peaceful that you can\nhear just about anything.\n{07 0d 00}Sometimes, I think I hear\nthe sound of the Earth\nrevolving, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 4,
+   "en": "{07 14 00}This is just about the best\ntime to take a walk out\non the beach, {01 00 00 05 00}{04 02 00}.\n{07 0d 00}After an especially busy\nmorning,{01 00 00 05 00} it's nice to spend\nyour day out on the beach.",
+   "et": ""
+  },
+  {
+   "id": 5,
+   "en": "I've been spending a lot of\ntime at the beach lately,\n{04 1f 00}.\n{07 14 00}It's nice to be out by\nyourself at night on the\nbeach, {01 00 00 05 00}{04 02 00}.\n{07 00 00}Nobody comes around to\nbother you,{01 00 00 05 00} and you can sit\nalone with your thoughts.",
+   "et": ""
+  },
+  {
+   "id": 6,
+   "en": "{07 16 00}The ocean is so dark this\nlate at night. I feel like it\nmight swallow me whole!\n{07 13 00}It's almost too beautiful.\nIt's almost a little bit\nfrightening, {01 00 00 05 00}{04 02 00}.",
+   "et": ""
+  },
+  {
+   "id": 7,
+   "en": "{07 03 00}Wrong-o!{01 00 00 14 00} {07 14 00}Sorry, but {ff 00 00 07}coral{ff 00 00 00}\nis the wrong answer!\n\nLooks like you've still got\na lot to learn about the\nsea, {04 1f 00}!",
+   "et": ""
+  },
+  {
+   "id": 8,
+   "en": "{07 0a 00}Ding ding ding! We have a\nwinner, {01 00 00 05 00}{04 02 00}!\n\n{07 16 00}And you know what? {ff 00 00 07}White\nscallops{ff 00 00 00} are just about the\nhardest shells to find!\n{07 06 00}I've been trying to get\nenough to make a necklace\nfor ages now, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 9,
+   "en": "{07 06 00}Oooo, {01 00 00 0a 00}sorry!{01 00 00 0f 00} You were\nclose, but {ff 00 00 07}{07 16 00}conch {ff 00 00 00}is the\nwrong answer, {01 00 00 05 00}{04 02 00}!\n{07 14 00}To tell you the truth, I\nwish they were worth more.\n{ff 00 00 07}Conchs {ff 00 00 00}are my favorites.\n{07 13 00}When you hold them up to\nyour ear,{01 00 00 0f 00}{07 09 00} you can hear the\nwind echoing in your head.",
+   "et": ""
+  }
+ ]
+}

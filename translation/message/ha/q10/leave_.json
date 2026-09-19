@@ -1,0 +1,20 @@
+{
+ "file": "script/ENG/message/ha/q10/leave_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 02 00}It's all coming back to\nme now, {01 00 00 05 00}{04 02 00}!\n\n{07 15 00}Just the other day, I went\nto your house to hang and\nyou weren't home!\n{07 05 00}What's your prob?!{01 00 00 05 00} You said\nyou'd be there, you jerk!{01 01 00}\n{07 15 00}Don't EVER stand me up!{03 02 00 01}",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 04 00}Wait,{01 00 00 0a 00} NOW I remember!{01 01 00}\n{07 01 00}It was YOU, {01 00 00 05 00}{ff 00 00 05}{04 1f 00}{ff 00 00 00}!\n\n{07 15 00}I TOLD you I was coming{01 00 00 05 00}\nover, but you totally\nFORGOT, didn't you?!\n{07 00 00}I was waiting so long, I\nstarted doing sit-ups to\npass the time...\n{07 05 00}I pulled a glute, and then I\npulled the OTHER glute!{01 00 00 05 00}\nI HURT, {01 00 00 05 00}{04 02 00}!{03 02 00 01}",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 15 00}Uh, {01 00 00 05 00}forget something much?{01 01 00}\nMaybe {01 00 00 05 00}about me coming over\nto your house{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 0c 00}You dropped the ball!{01 00 00 14 00}\nYou just now remembered,\ndidn't you, {01 00 00 05 00}{04 02 00}?!\n{07 01 00}You're so WEAK!{01 00 00 0a 00} And here I\nthought we were best buds,\n{01 00 00 05 00}{04 02 00}!{03 03 00 01}",
+   "et": ""
+  }
+ ]
+}

@@ -1,0 +1,35 @@
+{
+ "file": "script/ENG/message/fu/ai/snow2_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 14 00}{0b 03 00}{01 06 00}Chilly, isn't it{01 07 00}!\nHow's life, {04 1f 00}?",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{0b 03 00}{01 06 00}It sure is cold out here{01 07 00}!\nYou cold, {04 1f 00}?",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 07 00}{0b 03 00}{01 06 00}Eeee! I'm freeeeeezing{01 07 00}!",
+   "et": ""
+  },
+  {
+   "id": 3,
+   "en": "{07 14 00}{0b 03 00}{01 06 00}It just keeps snowing{01 07 00}!\nSure is cold,{01 00 00 0f 00} {04 1f 00}!",
+   "et": ""
+  },
+  {
+   "id": 4,
+   "en": "{07 14 00}I love listening to the\nsound of footsteps on snow,\n{01 00 00 05 00}{04 02 00}.",
+   "et": ""
+  },
+  {
+   "id": 5,
+   "en": "{07 07 00}It's freezing out here, \n{01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  }
+ ]
+}

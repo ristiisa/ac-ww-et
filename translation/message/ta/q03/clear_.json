@@ -1,0 +1,20 @@
+{
+ "file": "script/ENG/message/ta/q03/clear_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 14 00}Here you go! It's just a\nsmall little something\nfrom me, {01 00 00 0a 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 14 00}It's nothing, but please\ntake it. {01 00 00 0f 00}{07 19 00}You're such a huge\nhelp to me, {04 1f 00}!{07 14 00}",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 19 00}This is just a token of my\nappreciation for you,\n{01 00 00 05 00}{04 02 00}.\n{07 14 00}Thanks to you{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.I'm never\ngonna be alone again!",
+   "et": ""
+  }
+ ]
+}

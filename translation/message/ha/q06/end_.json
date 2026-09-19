@@ -1,0 +1,20 @@
+{
+ "file": "script/ENG/message/ha/q06/end_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 14 00}Oh yeah, {01 00 00 05 00}you rock AND roll!{01 00 00 0a 00}\nI'll be using your courier\nservices again!",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 14 00}Hey, listen,{01 00 00 05 00} KILLER job with\nthe delivery!\n\nSeriously, I think you could\ngo pro, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 14 00}Thanks for all your help!{01 00 00 0a 00}\nYou{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}me{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}best buds!",
+   "et": ""
+  }
+ ]
+}

@@ -1,0 +1,160 @@
+{
+ "file": "script/ENG/message/ha/ev/nbirth_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 04 00}Whoa!{01 00 00 05 00} {0b 03 00}{04 1f 00}!{01 00 00 0a 00}\nYou came, {01 00 00 05 00}{04 02 00}!\n\n{07 14 00}Hey, no reason to be shy,\nc'mon in, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 15 00}You sure took your sweet\ntime,{01 00 00 05 00} {ff 00 00 05}{04 1f 00}{ff 00 00 00}!\n\n{07 14 00}It ain't a party without\nyou, {01 00 00 05 00}{04 02 00}!\n",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 14 00}{0b 03 00}{ff 00 00 06}{04 0f 00} {ff 00 00 00}is here, too,\n{01 00 00 05 00}{04 02 00}!\n\n{07 0a 00}You guys all ROCK for\ncoming, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 3,
+   "en": "{07 14 00}Major props to {ff 00 00 06}{04 0f 00}{ff 00 00 00}\nfor coming all this way!\n\n{07 00 00}Being surrounded by my\nbuds on my birthday{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n{07 0a 00}What more could a guy ask?",
+   "et": ""
+  },
+  {
+   "id": 4,
+   "en": "{07 04 00}Huh?{01 00 00 05 00} Could that be{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n{07 0b 00}my birthday present,\n{01 00 00 05 00}{04 02 00}?{02 00 00 ff ff}\nYup!\nI forgot.",
+   "et": ""
+  },
+  {
+   "id": 5,
+   "en": "{07 0d 00}YESSS!{01 00 00 0a 00} That thing in your\npocket! That's my present,{01 00 00 0a 00}\nright, {01 00 00 05 00}{04 02 00}?{02 00 00 ff ff}\nOh yeah!\n...Huh?",
+   "et": ""
+  },
+  {
+   "id": 6,
+   "en": "{07 16 00}WHAT?!{01 00 00 0a 00} No PRESENT?!\n\n\n{07 0f 00}Man, and I was so pumped\nfor it, too, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 7,
+   "en": "{07 15 00}What gives, {01 00 00 05 00}{04 1f 00}?!{01 00 00 0a 00}\nHaven't you ever been to\na birthday party before?",
+   "et": ""
+  },
+  {
+   "id": 8,
+   "en": "{07 15 00}You DON'T have a present?!{01 00 00 0a 00}\n{07 16 00}That's just plain MEAN,{01 00 00 05 00}\n{ff 00 00 05}{04 1f 00}{ff 00 00 00}!",
+   "et": ""
+  },
+  {
+   "id": 9,
+   "en": "{07 14 00}Aw, thanks, {01 00 00 05 00}{04 1f 00}!{01 00 00 0a 00}\nI bet you got me something\nrad, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 10,
+   "en": "{07 17 00}Ooh! Ooh!{01 00 00 14 00} So very stoked!{01 00 00 05 00}\nI'm gonna open it right now,\n{01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 11,
+   "en": "{07 04 00}{0b 03 00}{04 1a 00},\nhuh, {01 00 00 05 00}{04 02 00}?!\n\n{07 00 00}To tell the truth, I don't\nreally need this right now,\nbut...\n{07 14 00}Since it's free, I'll take it!{01 00 00 05 00}\nThat's, like, my motto,\n{01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 12,
+   "en": "{07 1d 00}{0b 03 00}{04 1a 00}!{01 00 00 0a 00}\nFor me?!\n\n{07 14 00}I gotta figure out a way to\nwork this thing into my\ntraining somehow!\nThanks a ton, {01 00 00 05 00}{04 1f 00}!{01 00 00 05 00}\nKiller gift, {04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 13,
+   "en": "{07 02 00}Wow, wow, wow, WOW!{01 00 00 05 00}\n{0b 03 00}{04 1a 00},\nright?\n{07 14 00}Man, I have been craving\nthis so badly, you have NO\nidea, {01 00 00 05 00}{04 02 00}!\n{07 0d 00}You rule, {04 1f 00}!{01 00 00 05 00}\nSeriously, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 14,
+   "en": "{07 02 00}Oh, man, this is awesome!{01 00 00 0a 00}\n{0b 03 00}{04 1a 00}!\nPerfect, {01 00 00 05 00}{04 02 00}!\n{07 00 00}Man, how did you know I was\n{07 0b 00}absolutely DREAMING of\n{04 1a 00}?\n{07 06 00}So cool, {ff 00 00 05}{01 00 00 05 00}{04 1f 00}{ff 00 00 00}!\n{01 00 00 05 00}Rock on, {04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 15,
+   "en": "{07 14 00}Why should I be the only\none to get presents?!{01 00 00 05 00} Here!{01 00 00 05 00}\n{0b 03 00}{04 1b 00}! ",
+   "et": ""
+  },
+  {
+   "id": 16,
+   "en": "{07 14 00}I've gotta thank you!{01 00 00 0a 00} With\n{04 1b 00}!",
+   "et": ""
+  },
+  {
+   "id": 17,
+   "en": "{07 0d 00}As of now, we're best buds\nuntil the end of the\nuniverse, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 18,
+   "en": "{07 06 00}Y'know, {04 1f 00},{01 00 00 05 00} you are\ntruly chill, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 19,
+   "en": "{07 14 00}{0b 03 00}{04 1f 00}, promise me\nwe'll hang out even when\nwe're old!",
+   "et": ""
+  },
+  {
+   "id": 20,
+   "en": "{07 00 00}{0b 03 00}{04 1f 00}, I bet when \nyou go back to the town\nyou grew up in...\n{07 14 00}...they throw parades for \nhow completely awesome you\nare, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 21,
+   "en": "{07 14 00}I wonder what I'll get for\nmy birthday NEXT year!",
+   "et": ""
+  },
+  {
+   "id": 22,
+   "en": "Man, just LOOK at you!{01 00 00 05 00}\n{07 03 00}{0b 03 00}{04 1f 00}, you're still\nsuch a kid, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 26,
+   "en": "{07 04 00}Oh, {01 00 00 05 00}you came to celebrate\n{07 0b 00}{ff 00 00 06}{04 10 00}{ff 00 00 00}'s birthday, too?\n\n{07 0d 00}Boy, that {ff 00 00 06}{04 10 00}{ff 00 00 00}!{01 00 00 05 00}\nDr. Cool, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 27,
+   "en": "{07 14 00}Whoa!{01 00 00 0a 00} Hey, {04 1f 00}!{01 00 00 05 00}\nYou came too, {01 00 00 05 00}{04 02 00}!\n\n{07 0d 00}Sweet!{01 00 00 0a 00} Let's rock, baby!{01 01 00}\n{07 03 00}War har har har har!",
+   "et": ""
+  },
+  {
+   "id": 28,
+   "en": "{07 15 00}Hey! {01 00 00 05 00}C'mon!{01 00 00 0a 00} You gotta break\nout the presents on\nbirthdays!\n{07 16 00}You gotta give it up!{01 00 00 05 00}\nQuick,{01 00 00 05 00} {04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 29,
+   "en": "{07 04 00}Huh?{01 00 00 05 00} You still haven't \nhanded over a present,\nhave you, {01 00 00 05 00}{04 02 00}?\n{07 15 00}When {ff 00 00 06}{04 10 00} {ff 00 00 00}looks\naway, just slip it on a\ntable or something.\n{07 14 00}If you could manage that,{01 00 00 05 00}\nthen you'd be a true\nbirthday ninja!",
+   "et": ""
+  },
+  {
+   "id": 30,
+   "en": "{07 14 00}Birthday parties RULE!\n\n\n{07 13 00}Even my muscles are relaxed\nand having a grand old\ntime, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 31,
+   "en": "{07 03 00}War har har har har!{01 00 00 0a 00}\nMan, anything goes on a\nbirthday, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 32,
+   "en": "{07 0d 00}Yeah! {01 00 00 05 00}I'm just getting\nstarted now, {01 00 00 05 00}{04 02 00}!\n\n{07 11 00}Here comes my famous\nMuscle Hustle dance!",
+   "et": ""
+  },
+  {
+   "id": 33,
+   "en": "{07 00 00}We gotta make sure\n{ff 00 00 06}{04 10 00} {ff 00 00 00}has a\nmemorable birthday...\n{07 0b 00}{0b 03 00}{04 1f 00}, you wanna do a\nroutine or something?\n\n{07 14 00}How about {01 00 00 05 00}we do stand-up\ncomedy while wrestling,\n{01 00 00 05 00}{04 02 00}?",
+   "et": ""
+  }
+ ]
+}

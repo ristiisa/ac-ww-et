@@ -1,0 +1,105 @@
+{
+ "file": "script/ENG/message/ha/ev/fmarket3_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 02 00}CRAZY DEALS?!{01 00 00 0a 00}\n{07 14 00}Get outta the way, I'm\ngoing in, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 05 00}So many hot deals! Such\na massive selection!\n\n{07 14 00}That vein on my forehead\nis bulging like a flexing\nbicep, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 14 00}{01 00 00 0a 00}All right, I checked out all\nthe stuff I wanted to see,\n{01 00 00 05 00}{04 02 00}!\n{07 15 00}I'm out like gout,\n{01 00 00 0a 00}{04 02 00}!\n",
+   "et": ""
+  },
+  {
+   "id": 3,
+   "en": "{07 14 00}I wanna check out what\nother people are pawning,\nso I'm hitting the road!\n{07 0d 00}You should hit up some\nother stores, too!\n{0b 03 00}{01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 4,
+   "en": "{07 14 00}Hey, {04 1f 00}! You did\npretty good, little buddy!\n{0b 03 00}{01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 5,
+   "en": "{07 0e 00}Huh? {01 00 00 05 00}So{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} I should put this\nhere like this, {01 00 00 05 00}{04 02 00}?",
+   "et": ""
+  },
+  {
+   "id": 6,
+   "en": "{07 15 00}OK, {01 00 00 05 00}I'm all about your\n{0b 02 00}{04 1a 00}.\n{07 0b 00}How much do you want?{02 00 00 ff ff}\nLet's talk.\nNot for sale!",
+   "et": ""
+  },
+  {
+   "id": 7,
+   "en": "{07 00 00}OK, sport. I want your\n{0b 02 00}{04 1a 00}...\n\n{07 16 00}What kind of a deal can you\nbreak me?{02 00 00 ff ff}\nLet's chat.\nNo deal!",
+   "et": ""
+  },
+  {
+   "id": 8,
+   "en": "{07 1c 00}Man, {01 00 00 05 00}that's pretty weak.",
+   "et": ""
+  },
+  {
+   "id": 9,
+   "en": "{07 04 00}What?!{01 00 00 05 00} It's FREE?!!{01 01 00}\n{07 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 0f 00}Aww, man!{01 00 00 05 00} You didn't say\nit was free, {01 00 00 05 00}{04 02 00}?",
+   "et": ""
+  },
+  {
+   "id": 10,
+   "en": "{07 16 00}Hey!{01 00 00 0a 00} Why have you got\nto be chintzy like that?\n\n{07 06 00}Can't you cut your bro a\ndeal, {01 00 00 05 00}{04 02 00}?{02 00 00 ff ff}\nFine!\nNO DEAL FOR YOU!",
+   "et": ""
+  },
+  {
+   "id": 11,
+   "en": "{07 01 00}What?! Do you think I use\nmoneybags as dumbbells or\nsomething?!\n{07 16 00}Can't you cut me a deal,\n{01 00 00 05 00}{04 02 00}?{02 00 00 ff ff}\nOK, fine!\nPay up!",
+   "et": ""
+  },
+  {
+   "id": 12,
+   "en": "{07 14 00}Whoa, {04 1f 00}!{01 00 00 0a 00} You'd\nreally sell it to me for\nthat price?{02 00 00 ff ff}\nSell! Sell!\nNo way!",
+   "et": ""
+  },
+  {
+   "id": 13,
+   "en": "{07 16 00}If I drop that much on\nthis, I'm gonna be broke!\nBut, man{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}I have no choice!\n{07 16 00}Arrg! {01 00 00 05 00}I'll take the stupid\nthing, {01 00 00 05 00}{04 02 00}!{02 00 00 ff ff}\nDeal!\nNope!",
+   "et": ""
+  },
+  {
+   "id": 14,
+   "en": "{07 14 00}It's a deal, {01 00 00 05 00}{04 02 00}!{01 00 00 14 00}\n{07 0d 00}Yessss, I got me\n{04 1a 00}!",
+   "et": ""
+  },
+  {
+   "id": 15,
+   "en": "{07 15 00}Now you're talking!{01 00 00 0f 00}\n{07 14 00}I'll take good care of your\n{0b 02 00}{04 1a 00}!",
+   "et": ""
+  },
+  {
+   "id": 16,
+   "en": "{07 04 00}Why?!{01 00 00 14 00} {07 16 00}{0b 03 00}{04 1f 00}, you've\nbeen acting like a total\nfreakoid lately!",
+   "et": ""
+  },
+  {
+   "id": 17,
+   "en": "{07 01 00}Dang it,{01 00 00 0a 00} {04 1f 00}!{01 00 00 0f 00}\n{07 15 00}That is NOT funny,\n{01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 18,
+   "en": "{07 04 00}{0b 03 00}{04 1f 00}!{01 00 00 0a 00}{07 16 00} Whaddya mean\nyou can't carry any more\nBells?!\n{07 15 00}Man, you must be LOADED!{01 00 00 05 00}\nHow are you even carrying\nall of it around?!\n{07 0d 00}You must be some kind of\ninternational power-\nsquatting champ!\n{07 16 00}But I thought I had the\nbiggest glutes in town,\n{01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 19,
+   "en": "{07 01 00}WHAT?!{01 00 00 05 00} You have so much\nmoney that you can't even\ncarry any more?!\n{07 16 00}So why would someone so\nfilthy rich even bother\nselling stuff?!\n{07 15 00}Don't you have something\nbetter to do?\n\n{07 19 00}You know, like hook your\nfriends up with fat\ndonations, {01 00 00 05 00}{04 02 00}?",
+   "et": ""
+  }
+ ]
+}

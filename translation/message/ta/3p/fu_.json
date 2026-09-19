@@ -1,0 +1,80 @@
+{
+ "file": "script/ENG/message/ta/3p/fu_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{09 01 00}{09 08 00}{07 1c 00}{01 00 00 0a 00}Oof{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0f 00} My shoulders {01 00 00 05 00}have\nbeen so tight lately,\n{01 00 00 05 00}{04 02 00}.{09 09 00}",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{09 01 00}{09 07 00}{07 14 00}Hey, {ff 00 00 06}{04 10 00}{ff 00 00 00},{01 00 00 05 00} when it\ncomes to small talk, you're\nthe queen, {01 00 00 05 00}{04 02 00}.{09 09 00}",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{09 01 00}{09 07 00}{07 16 00}Whenever I talk to you,\n{ff 00 00 06}{04 10 00}{ff 00 00 00}, {01 00 00 05 00}{07 1b 00}I get really\nbored, {01 00 00 05 00}{04 02 00}.\n{07 15 00}Why can't you at least TRY{01 00 00 05 00}\nto be a little bit more\nsparkling!{09 09 00}",
+   "et": ""
+  },
+  {
+   "id": 3,
+   "en": "{09 00 00}{09 08 00}{09 02 00}{09 06 00}{07 16 00}Oh{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0f 00} {ff 00 00 06}{04 0f 00}{ff 00 00 00}, you too?\n{07 1c 00}{01 00 00 05 00}My shoulders have been\nkilling me, too!{09 09 00}",
+   "et": ""
+  },
+  {
+   "id": 4,
+   "en": "{09 00 00}{09 06 00}{09 01 00}{07 00 00}Yeah, see, {01 00 00 05 00}you never know{01 00 00 05 00}\nwhen someone's looking at\nyou.\n{07 01 00}That's why you gotta be\nsmiling and striking a pose\nAT ALL TIMES!\n{07 19 00}So, I guess tight shoulders\nare inevitable when you're\nthis fabulous, {01 00 00 05 00}{04 02 00}!{09 09 00}",
+   "et": ""
+  },
+  {
+   "id": 5,
+   "en": "{09 00 00}{09 08 00}{09 02 00}{07 09 00}{01 00 00 0a 00}Actually{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0f 00} For me, {01 00 00 05 00}I don't\nthink it's that at all{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\nI'm{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.not that fabulous, see?\n{09 01 00}{07 00 00}{09 02 00}{07 0f 00}{01 00 00 0a 00}It's probably more 'cause I\nslouch and sigh all the\ntime.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{04 02 00}.{03 03 00 01}",
+   "et": ""
+  },
+  {
+   "id": 6,
+   "en": "{06 09 00 07 08 09}",
+   "et": ""
+  },
+  {
+   "id": 7,
+   "en": "{09 00 00}{09 08 00}{09 02 00}{09 06 00}Thanks! {01 01 00}Um. {01 00 00 05 00}Nice day, isn't\nit? Um.{01 00 00 05 00} {07 0a 00}The sunshine is SO\nwarm and feels SO nice{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{09 09 00}",
+   "et": ""
+  },
+  {
+   "id": 8,
+   "en": "{09 00 00}{09 08 00}{09 02 00}{09 06 00}{07 16 00}Rain is depressing.{01 01 00} The\nground gets all slippery.{01 00 00 05 00}\nThen you fall down a lot{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{09 09 00}",
+   "et": ""
+  },
+  {
+   "id": 9,
+   "en": "{09 00 00}{09 08 00}{09 02 00}{09 06 00}Oh!{01 00 00 05 00} OK!{01 00 00 0f 00} {07 16 00}I hope the snow{01 00 00 0f 00} lets\nup soon.{01 01 00}{07 00 00} Was that sparkling\nenough?{09 09 00}",
+   "et": ""
+  },
+  {
+   "id": 10,
+   "en": "{09 00 00}{09 06 00}{09 02 00}{07 09 00}.{01 00 00 05 00}.{01 00 00 05 00}.Well, {ff 00 00 06}{01 00 00 05 00}{04 10 00}{ff 00 00 00},{01 00 00 0f 00} I didn't\nreally mean that as a\ncompliment{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00} {07 1b 00}But whatever.",
+   "et": ""
+  },
+  {
+   "id": 11,
+   "en": "{09 00 00}{09 08 00}{09 02 00}{09 06 00}{07 04 00}I{01 00 00 05 00}-I can't believe you'd say\nthat, {01 00 00 05 00}{04 02 00}. {01 01 00}{07 16 00}That was{01 00 00 05 00}\nREALLY hurtful.\n{07 0f 00}{01 00 00 0a 00}I just don't naturally\nsparkle, I guess{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{09 09 00}",
+   "et": ""
+  },
+  {
+   "id": 12,
+   "en": "{09 00 00}{09 06 00}{09 01 00}{07 16 00}Oh, {ff 00 00 06}{04 10 00}{ff 00 00 00}!{01 00 00 05 00} You poor,\npoor thing. {01 01 00}{07 00 00}Here, let me\ngive you some pointers.\nFirst, {01 00 00 05 00}smile alluringly, like\nthis.{07 14 00}{01 01 00} OK?{09 09 00}",
+   "et": ""
+  },
+  {
+   "id": 13,
+   "en": "{09 00 00}{09 08 00}{09 02 00}{07 16 00}But{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00}how can I smile when{01 00 00 05 00}\n{07 08 00}you said I don't sparkle?{03 03 00 01}{09 09 00}",
+   "et": ""
+  },
+  {
+   "id": 14,
+   "en": "{09 00 00}{09 06 00}{09 01 00}{07 02 00}No!{01 00 00 05 00} I didn't say cry! {01 00 00 0f 00}{07 06 00}I said\nsmile! Like this! {07 0d 00}{01 00 00 14 00}See? I'm\nsparkling! Now you try!",
+   "et": ""
+  }
+ ]
+}

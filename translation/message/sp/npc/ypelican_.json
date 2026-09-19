@@ -1,0 +1,505 @@
+{
+ "file": "script/ENG/message/sp/npc/ypelican_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 14 00}This is the window for the\ntown {ff 00 00 08}post office{ff 00 00 00}.{01 00 00 14 00} {07 0b 00}What can\nI do for you?",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "Is that so?{01 00 00 0f 00} {07 14 00}Well, be sure\nto come by anytime we can\nbe of assistance.",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{ff 00 00 01}I wasn't able to save.{01 00 00 0a 00}\nTurn the power off and\nre-insert the Game Card.",
+   "et": ""
+  },
+  {
+   "id": 3,
+   "en": "{07 04 00}Oh,{01 00 00 0a 00} so you don't want to\nmail a letter?{02 04 00 00 01}\nI do!\nForget it.",
+   "et": ""
+  },
+  {
+   "id": 4,
+   "en": "{07 14 00}You've decided not to move\nafter all? {01 00 00 05 00}Well, it can be\nhard to start all over.\n{07 00 00}Might there be {07 0b 00}anything\nelse that I can help you\nwith?{02 07 00 3d 49 00 35 01}\nThe environment.\nTown tune.\nDonations.\nI'm moving.\nNope!",
+   "et": ""
+  },
+  {
+   "id": 5,
+   "en": "{07 14 00}Thank you! I will take care\nof your letters for you.",
+   "et": ""
+  },
+  {
+   "id": 7,
+   "en": "{07 14 00}Thank you.",
+   "et": ""
+  },
+  {
+   "id": 8,
+   "en": "{07 14 00}Hello, and welcome to the\n{ff 00 00 08}civic center{ff 00 00 00}.{01 00 00 14 00}\n{07 0b 00}What can I do for you?{02 05 00 3d 49 01}\nThe environment.\nTown tune!\nNothing really.",
+   "et": ""
+  },
+  {
+   "id": 9,
+   "en": "{07 0b 00}Do you have anything else\nto mail?{02 04 00 00 0a}\nYep.\nThat's it!",
+   "et": ""
+  },
+  {
+   "id": 10,
+   "en": "{07 00 00}All righty then. {01 00 00 0f 00}{07 14 00}We look\nforward to serving you\nagain!",
+   "et": ""
+  },
+  {
+   "id": 11,
+   "en": "{07 04 00}Oh my! {01 00 00 0a 00}A {ff 00 00 02}future letter{ff 00 00 00}!{01 00 00 0a 00}\nThis is a letter that you\nsend to your future self!\n{07 0b 00}When in the future {01 00 00 05 00}should\nwe deliver this to you,\n{04 00 00}?",
+   "et": ""
+  },
+  {
+   "id": 12,
+   "en": "{07 00 00}So, you want it delivered on\n{ff 00 00 02}{04 11 00} {04 12 00}, {04 10 00}{ff 00 00 00},\n{07 0b 00}is that correct?{02 00 00 07 0d}\nThat's right.\nNo! No!",
+   "et": ""
+  },
+  {
+   "id": 13,
+   "en": "{07 00 00}OK, {01 00 00 05 00}I'm going to ask you\nagain.",
+   "et": ""
+  },
+  {
+   "id": 14,
+   "en": "{07 04 00}Oh,{01 00 00 05 00} are you having second\nthoughts?{01 00 00 14 00} {07 14 00}Well, OK, whatever\nsuits you.",
+   "et": ""
+  },
+  {
+   "id": 15,
+   "en": "{07 16 00}Oh,{01 00 00 05 00} I'm terribly sorry.\n\n\nThere's a one-letter-per-\nresident limit on our\n{ff 00 00 02}future-letter{ff 00 00 00} service.\n{07 00 00}{0b 03 00}{04 00 00}, according to\nour records, you already\nsent a {ff 00 00 02}future letter{ff 00 00 00}.\nYes, it is dated {ff 00 00 02}{04 11 00}\n{04 12 00}, {04 10 00}{ff 00 00 00}. {07 0b 00}Is this\ncorrect?",
+   "et": ""
+  },
+  {
+   "id": 16,
+   "en": "{07 00 00}If I destroy this letter--\nwell, destroy is such a\nharsh word.\nIf you allow me to discard\nit, I can accept another\nletter instead.{01 00 00 05 00}\nSo,{01 00 00 05 00} should I toss out the\nold {ff 00 00 02}future letter{ff 00 00 00}?{01 01 00} {07 0e 00}That\nsounds really {01 00 00 05 00}odd to me...\n{07 00 00}Anyway, then I can send\nyour new letter to the\nfuture!{02 04 00 11 0e}\nToss it!\nDon't toss it!",
+   "et": ""
+  },
+  {
+   "id": 17,
+   "en": "{07 00 00}Yes, {01 00 00 05 00}as always, we will take\nthe utmost care in\ndelivering your letter.\n{07 14 00}I will dispose of the old \nletter as requested. {01 01 00}{07 00 00}So, {01 00 00 05 00}\nthis new {ff 00 00 02}future letter{ff 00 00 00},\nwhich {04 00 00} of the\nfuture{01 00 00 05 00}{07 0b 00} would you like to\nsend it to?",
+   "et": ""
+  },
+  {
+   "id": 18,
+   "en": "Ah, {01 00 00 05 00}{07 14 00}so you would like to\nmake a payment on your\nloan from {ff 00 00 06}Tom Nook{ff 00 00 00}?\n{07 00 00}Well, let's see.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} Your\ncurrent Bell balance is\n{ff 00 00 02}{04 13 00}{ff 00 00 00}!\nHow much would you like\nto deposit?",
+   "et": ""
+  },
+  {
+   "id": 19,
+   "en": "{07 04 00}Oh?{01 00 00 0f 00} So you don't want to\nmake a payment?{01 00 00 0f 00}{07 14 00} Well, some\nother time then.",
+   "et": ""
+  },
+  {
+   "id": 20,
+   "en": "{07 00 00}Yes, {01 00 00 0a 00}the remaining Bell\nbalance{01 00 00 05 00} is {ff 00 00 02}{04 13 00}{ff 00 00 00}.{01 00 00 0f 00}\n{07 14 00}Thanks for your payment.",
+   "et": ""
+  },
+  {
+   "id": 21,
+   "en": "{07 04 00}Oh my goodness!{01 00 00 0f 00} {07 14 00}You've paid\noff your entire loan!{01 00 00 05 00}\n\nSo there's no confusion, \nI will make the deposit\npromptly.",
+   "et": ""
+  },
+  {
+   "id": 22,
+   "en": "{07 00 00}Oh, yes, a transaction.",
+   "et": ""
+  },
+  {
+   "id": 23,
+   "en": "{07 00 00}The current Bell balance is\n{ff 00 00 02}{04 14 00}{ff 00 00 00}.",
+   "et": ""
+  },
+  {
+   "id": 24,
+   "en": "{07 04 00}Oh, {01 00 00 0a 00}so you don't want to\nmake a transaction after\nall?{01 00 00 14 00} {07 14 00}No, no, {01 00 00 05 00}it's fine.",
+   "et": ""
+  },
+  {
+   "id": 25,
+   "en": "{07 00 00}So, you would like to make\na donation to the town of\n{ff 00 00 08}Boondox{ff 00 00 00}, is that correct?\nAnd {07 0b 00}exactly how much would\nyou care to donate today?",
+   "et": ""
+  },
+  {
+   "id": 26,
+   "en": "{07 00 00}{0b 03 00}{04 00 00}, have you heard\nof the town of {ff 00 00 08}{07 0b 00}Boondox{ff 00 00 00}?{01 00 00 14 00}\nIt lies far north of here.\n{07 00 00}Life in this remote town is\nvery modest. {01 00 00 14 00}{07 0f 00}One might\neven call it {01 00 00 05 00}meager.\n{07 00 00}Of course, {01 00 00 05 00}they live without\nthe flashy clothes or music\nthat we take for granted.\n{07 16 00}But the saddest aspect of\nlife in {ff 00 00 08}Boondox {ff 00 00 00}is the\nflavorless diet.\nThe townsfolk there eat{01 00 00 05 00}\nnothing but grilled cheese\nmorning, noon, and night!\n{07 16 00}But the real tragedy,\n{04 00 00},{01 00 00 05 00} is they have\nno cheese!{01 00 00 05 00} Or bread!\nSo, they are forced to eat\ngrilled dirt, or, {01 00 00 05 00}on special\noccasions, {01 00 00 05 00}scrambled dirt!\nWITHOUT KETCHUP! {01 01 00}{07 08 00}Oh, have\nyou ever heard of anything\nso terrible?\nWouldn't you like to treat\nthe {ff 00 00 08}Boondoxians {ff 00 00 00}{07 00 00}to pastries\nand cinnamon toast?\n{07 19 00}I thought so. {01 00 00 05 00}{07 00 00}That's why\nyour help in the \"{ff 00 00 08}Boondox\n{ff 00 00 00}Flavor Fund\" is so crucial!\nIt will bring flavor to this\notherwise flavorless town.{01 00 00 05 00}\nPlease help.",
+   "et": ""
+  },
+  {
+   "id": 27,
+   "en": "{07 08 00}Oh, {01 00 00 05 00}please help!",
+   "et": ""
+  },
+  {
+   "id": 28,
+   "en": "{07 04 00}Oh.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} So you're not going\nto?{01 00 00 14 00} {07 14 00}Oh, no, {01 00 00 05 00}it's no problem\nat all.\n{07 00 00}Is there anything else {07 0b 00}I can\nhelp you with?{02 07 00 3d 49 00 35 01}\nThe environment.\nTown tunes.\nDonations.\nMoving.\nOh, nothing.",
+   "et": ""
+  },
+  {
+   "id": 29,
+   "en": "{07 02 00}What?!{01 00 00 0f 00} {04 16 00} Bells?!\nGoodness! {07 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.{07 16 00}My apologies!\nYou just shocked me a bit{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.",
+   "et": ""
+  },
+  {
+   "id": 30,
+   "en": "{07 14 00}So that's {04 16 00} on\nthe nose! Thank you so\nvery much.",
+   "et": ""
+  },
+  {
+   "id": 31,
+   "en": "{07 14 00}Thanks to your gift, the\n{ff 00 00 08}Boondoxians {ff 00 00 00}will enjoy a\nfeast with their loved ones.\n{07 0e 00}Though I heard the main\ncourse is dirty rice. {01 00 00 0f 00}Old\nhabits die hard, I suppose.",
+   "et": ""
+  },
+  {
+   "id": 32,
+   "en": "{07 00 00}They're planning to build\nhouses in{ff 00 00 08} Boondox{ff 00 00 00} next.\n{07 0d 00}Isn't it wonderful?!\n{07 19 00}Once built, the townsfolk\nwill enjoy sleeping in\nwarm adobe houses...\n...instead of the dirt piles\nthey've been using thus\nfar.{01 01 00} {07 14 00}Thanks very much.",
+   "et": ""
+  },
+  {
+   "id": 33,
+   "en": "{07 00 00}The {ff 00 00 08}Boondoxians {ff 00 00 00}{07 14 00}are working\nthe land so they can\neventually grow vegetables!\n{07 0e 00}Of course, a few get\ndistracted by all the free\ndirt.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 14 00} Anyhow, thank you!",
+   "et": ""
+  },
+  {
+   "id": 34,
+   "en": "{07 00 00}It's {01 00 00 05 00}flu season in {ff 00 00 08}Boondox{ff 00 00 00},\nso supply convoys are\nbringing medicine daily.\n{07 14 00}Thanks to your gift,\n{04 00 00}, they should all\nbe feeling better soon!",
+   "et": ""
+  },
+  {
+   "id": 35,
+   "en": "{07 00 00}The {ff 00 00 08}Boondoxians {ff 00 00 00}are building\na well! {01 01 00}And you know what\nthat means!\n{07 14 00}Mud baths for all! {01 01 00}On behalf\nof them, I thank you for\nyour generosity!",
+   "et": ""
+  },
+  {
+   "id": 36,
+   "en": "{07 00 00}We recently {01 00 00 05 00}received a\nrequest from {ff 00 00 08}Boondox {ff 00 00 00}to\nbuild a reservoir.\n{07 14 00}Donations like yours,\n{04 00 00},{01 00 00 05 00} help bring\ntheir dreams {01 00 00 05 00}to reality.",
+   "et": ""
+  },
+  {
+   "id": 37,
+   "en": "{07 16 00}The children of{ff 00 00 08} Boondox{ff 00 00 00} run\naround town barefoot, for\nthey cannot afford shoes.\n{07 00 00}They've got to run,\n{04 00 00}.{01 00 00 05 00} They're\nchildren, after all.\n{07 14 00}But with your help, we might\nbe able to put sneakers on\ntheir feet.\n{07 0e 00}Hmm. Now that I think about\nit, everyone in {04 03 00}\nruns around barefoot.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 14 00}Nevertheless, on behalf of\nthe children of {ff 00 00 08}Boondox{ff 00 00 00}, {01 00 00 05 00}I\nthank you.",
+   "et": ""
+  },
+  {
+   "id": 38,
+   "en": "{07 00 00}Just yesterday, {01 00 00 05 00}we received\na request from {ff 00 00 08}Boondox {ff 00 00 00}to\nbuild a school.\nThey've dug the foundation\nalready, but progress has\nstalled.\nYou see, {01 00 00 05 00}{07 0e 00}they've become a\nbit distracted by their\nsudden dirt windfall{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{07 00 00}",
+   "et": ""
+  },
+  {
+   "id": 39,
+   "en": "{07 00 00}You know, {01 00 00 05 00}I've been thinking,{01 00 00 14 00}\nif we built a bakery in\n{ff 00 00 08}Boondox{ff 00 00 00}...\n...rather than send\ndelicious bread there...\n\n{07 14 00}...they could make their own\nbread {ff 00 00 04}(and mud pies){ff 00 00 00} fresh,\nwhich would taste better!",
+   "et": ""
+  },
+  {
+   "id": 40,
+   "en": "{07 14 00}It's wedding season in\n{ff 00 00 08}Boondox{ff 00 00 00}. This means your\ngenerosity, {04 00 00}...\n...will provide the townsfolk\nwith, um{07 0e 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00}{07 0b 00}honey{01 01 00}{07 0a 00} to throw\nat the happy couples!",
+   "et": ""
+  },
+  {
+   "id": 41,
+   "en": "{07 00 00}We received a request from\n{ff 00 00 08}Boondox{ff 00 00 00} to have an \norchestra visit.\n{07 14 00}{0b 03 00}{04 00 00}, your gift\nwill become a beautiful\nmelody heard by all!",
+   "et": ""
+  },
+  {
+   "id": 42,
+   "en": "{07 00 00}I heard, {04 00 00},{01 00 00 0a 00} {07 16 00}that\nthe people of {ff 00 00 08}Boondox{ff 00 00 00} have\nnever seen a car.\n{07 00 00}I wonder how much it would\ncost{01 00 00 05 00}{07 0e 00} to buy a car for\n{ff 00 00 08}Boondox{ff 00 00 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.",
+   "et": ""
+  },
+  {
+   "id": 43,
+   "en": "{ff 00 00 08}{07 00 00}Boondox{ff 00 00 00} asked us{01 00 00 05 00} to build\nan amusement park for the\nyoung people there.\n{07 14 00}Amusement parks ARE nice{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0f 00}\n{07 0e 00}but they should really solve\nthe dirt-eating issue first.",
+   "et": ""
+  },
+  {
+   "id": 44,
+   "en": "{07 00 00}We just received a\nrequest from {ff 00 00 08}Boondox {ff 00 00 00}to\nbuild a cake shop{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}I wonder what {ff 00 00 08}Boondox\n{ff 00 00 00}cake tastes like?{01 00 00 14 00} {07 14 00}I'd really\nlike to try some.\n{07 00 00}Oh.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} Right. Um, never mind.",
+   "et": ""
+  },
+  {
+   "id": 45,
+   "en": "{07 00 00}We have a request in from\n{ff 00 00 08}Boondox{ff 00 00 00} for construction\npants.\n{07 0e 00}If they didn't have them\nall this time.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00}{07 16 00}what were\nthey wearing?!",
+   "et": ""
+  },
+  {
+   "id": 46,
+   "en": "{07 00 00}I know that {ff 00 00 08}Boondox {ff 00 00 00}has\ncome a long way...\n\n{07 0e 00}But I'm sure that compared\nto {04 03 00}, they've\nstill got {01 00 00 05 00}a long way to go.{01 00 00 05 00}.{01 00 00 05 00}.",
+   "et": ""
+  },
+  {
+   "id": 47,
+   "en": "{07 00 00}I heard that in {ff 00 00 08}Boondox{ff 00 00 00}, \nthe average household has\n{01 00 00 05 00}two cars now.\n{07 14 00}I guess living in a place\nwith a lot of land has its\nadvantages, {01 00 00 05 00}{04 00 00}!",
+   "et": ""
+  },
+  {
+   "id": 48,
+   "en": "{07 00 00}I heard that the {ff 00 00 08}Boondox\n{ff 00 00 00}residents are going on\nvacation in record numbers.\n{07 14 00}Now that they have pants,\nI guess they can venture to\nnew places!",
+   "et": ""
+  },
+  {
+   "id": 49,
+   "en": "{07 00 00}I heard that {ff 00 00 08}Boondox{ff 00 00 00} is\nundertaking a{01 00 00 05 00} massive\nreconstruction project! \n{07 0e 00}It's been a while since we\nstarted sending donations{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0f 00}\n{07 14 00}but it's still so inspiring!",
+   "et": ""
+  },
+  {
+   "id": 50,
+   "en": "{07 00 00}I heard that{ff 00 00 08} Boondox {ff 00 00 00}has\nchanged its name to\n{ff 00 00 08}Boondopolis{ff 00 00 00}.\n{07 0e 00}As you can see,\n{04 00 00}, your donations\n{07 14 00}have been put to good use!",
+   "et": ""
+  },
+  {
+   "id": 51,
+   "en": "{07 00 00}I get the feeling that it's\nno longer necessary, but{01 00 00 05 00}\nit IS my job, so{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\nI will continue to send your\ndonations to {ff 00 00 08}Boondox{ff 00 00 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\nI mean, {01 00 00 05 00}\"{ff 00 00 08}Boondopolis{ff 00 00 00}.\"{01 00 00 14 00}\n{07 16 00}You know,{01 00 00 05 00} they're doing so\nwell that they really should\nbe sending donations to US.",
+   "et": ""
+  },
+  {
+   "id": 52,
+   "en": "{07 14 00}This is the {04 03 00}\n{ff 00 00 08}civic center{ff 00 00 00}.{01 00 00 14 00} {07 0b 00}What can I\nhelp you with?{02 07 00 3d 49 00 35 01}\nThe environment!\nTown tunes!\nDonations!\nMoving!\nNothing!",
+   "et": ""
+  },
+  {
+   "id": 53,
+   "en": "{07 04 00}Oh!{01 00 00 0f 00}{07 00 00} So you want to move\nfrom {04 03 00}{01 00 00 05 00} to a town\non another {ff 00 00 01}Game Card{ff 00 00 00}?!\nThere's something I have to\ntell you before you move,\nthough.\nThe items in your drawers\nand tape deck...\n\nWell, you can't take them\nwith you. {01 00 00 05 00}We're experiencing\na movers' strike, you see.\nYour {ff 00 00 01}Nintendo Wi-Fi\nConnection{ff 00 00 00} settings\nwill also be deleted, so...\nThough you can keep using\nyour {ff 00 00 02}friend roster {ff 00 00 00}when\ntravelling via {ff 00 00 01}Nintendo WFC\n{ff 00 00 00}or when hosting guests,{01 00 00 05 00}\nyou'll have to ask your\nfriends {01 00 00 05 00}to re-register you\nto their {ff 00 00 02}friend rosters{ff 00 00 00}.\nPlease understand all these\nthings before moving.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\nAll righty then.{01 00 00 14 00} First, take\nthe {ff 00 00 01}Game Card {ff 00 00 00}with the\ntown you're moving to\nand make sure that it's \nin {ff 00 00 02}immigration {ff 00 00 00}mode.{01 01 00}\nTo do this,\ninsert the {ff 00 00 01}Game Card{ff 00 00 00} with\nthe town that you're moving\nto into a {ff 00 00 01}Nintendo DS{ff 00 00 00}.\nThen, just choose {ff 00 00 02}Other\nthings{ff 00 00 00} and {ff 00 00 02}Immigration{ff 00 00 00}.{01 01 00}\nPiece of cake, right?\n{07 14 00}All righty then, are you\nready for me to start the\n{ff 00 00 01}DS Wireless Communication{ff 00 00 00}?{02 00 00 36 04}\n...And waiting!\nCold feet!",
+   "et": ""
+  },
+  {
+   "id": 54,
+   "en": "{ff 00 00 01}Looking for a town to move\nto.{01 00 00 0f 00} Please wait until the \ncommunication is complete.{01 10 00 14}",
+   "et": ""
+  },
+  {
+   "id": 55,
+   "en": "{07 16 00}I was unable to find anyone\nto communicate with, so I'll\ncancel your request.\n{07 14 00}Please check with the other\nplayer and, once ready, try\nagain.",
+   "et": ""
+  },
+  {
+   "id": 56,
+   "en": "{07 0b 00}So, you want to move into\nanother town?{02 04 00 3b 3a}\nYes.\nMaybe not.",
+   "et": ""
+  },
+  {
+   "id": 57,
+   "en": "{07 0b 00}So you want to move to\n{ff 00 00 08}{04 17 00}{ff 00 00 00}?{02 04 00 3b 3a}\nYes.\nWell, no.",
+   "et": ""
+  },
+  {
+   "id": 58,
+   "en": "{07 00 00}I see,{01 00 00 0f 00} so you want me to\ncancel this move, correct?{01 01 00}\nI'm so glad! We'd miss you!\n{07 14 00}Oh, no,{01 00 00 05 00} it's not a problem\nat all!{01 00 00 14 00} But if you'd like to\nmove, just let me know.",
+   "et": ""
+  },
+  {
+   "id": 59,
+   "en": "{ff 00 00 01}{07 00 00}Recording your move.{01 00 00 0f 00}\nPlease wait and do not turn\nthe power off!{01 10 00 14}",
+   "et": ""
+  },
+  {
+   "id": 60,
+   "en": "I've finished recording your\nmove!{01 00 00 0f 00}{ff 00 00 01}\n{ff 00 00 00}\n{07 00 00}Well then, I guess the time\nhas come, {04 00 00}, for\nus to go our separate ways.\nIf you ever feel like\ncoming back to {04 03 00},\n{07 14 00}you're always welcome.{01 00 00 14 00}\nWell, take care and{01 01 00}\n{07 16 00}{01 00 00 05 00}good-bye{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}. We'll miss your\nsunshine presence!",
+   "et": ""
+  },
+  {
+   "id": 61,
+   "en": "Well, let me read you a few\ncomments we received from \nour residents.",
+   "et": ""
+  },
+  {
+   "id": 62,
+   "en": "{07 00 00}\"{0b 03 00}{ff 00 00 02}{04 03 00} is a great\nplace to be!{01 00 00 0f 00} It's really{01 00 00 05 00}\ncome a long way!{ff 00 00 00}\"\n{07 14 00}Sounds like this resident\nis very happy!",
+   "et": ""
+  },
+  {
+   "id": 63,
+   "en": "This is what one resident\nhas to say about our fine\ntown.\n{07 00 00}\"{0b 03 00}{ff 00 00 02}{04 03 00} is a clean and\ndecent place. But {01 00 00 05 00}it feels\nlike something's missing.{ff 00 00 00}\"\n{07 14 00}Well, at least this person\nsounds content. {01 00 00 05 00}You can't\nbe ecstatic all the time!",
+   "et": ""
+  },
+  {
+   "id": 64,
+   "en": "{07 00 00}Here, read what one\nresident has to say about\nour town.\n\"{ff 00 00 02}Hmm.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} Well, it's not\npassing,{01 00 00 05 00} but it's not\nfailing either.\n{ff 00 00 00}\"{ff 00 00 02}Like, {01 00 00 05 00}more than milk,{01 00 00 0a 00} but\nnot quite a milk shake,\nknow what I mean?!{ff 00 00 00}\"\nHmm.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} Sounds like there's\nnothing this resident likes\nor dislikes in particular.",
+   "et": ""
+  },
+  {
+   "id": 65,
+   "en": "{07 00 00}\"{ff 00 00 02}It feels odd to write this\nbut.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}can't you take better\ncare of our town?{ff 00 00 00}\"\nThat's what the message\nsays.{01 00 00 14 00} {07 16 00}He was holding back{01 00 00 05 00}\nbut his sadness is clear.",
+   "et": ""
+  },
+  {
+   "id": 66,
+   "en": "{07 0e 00}And this one is from\nsomeone who'd rather\nremain nameless{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 00 00}\n\"{ff 00 00 02}Ugh! This place is the\nworst!{01 00 00 0f 00} Seriously, what's up\nwith this town?!\n{ff 00 00 00}\"{ff 00 00 02}Here, there,{01 00 00 05 00} everywhere!\nEverything I see looks\nterrible!{ff 00 00 00}\"",
+   "et": ""
+  },
+  {
+   "id": 67,
+   "en": "{07 0e 00}Hm,{01 00 00 05 00} I'll bet the problem is\nthat there are too many\ntrees{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.",
+   "et": ""
+  },
+  {
+   "id": 68,
+   "en": "{07 0e 00}You know, I think if we\nadded some green, it would\nreally help{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.",
+   "et": ""
+  },
+  {
+   "id": 69,
+   "en": "{07 0e 00}Hmm.{01 00 00 05 00} Maybe we need to get\nrid of some weeds? {01 00 00 0a 00}It\ncertainly couldn't hurt{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.",
+   "et": ""
+  },
+  {
+   "id": 70,
+   "en": "{07 0e 00}Hmm.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} I'll bet the problem\nis{01 00 00 0a 00} there's too much stuff\non the ground{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.",
+   "et": ""
+  },
+  {
+   "id": 71,
+   "en": "{07 0e 00}Well,{01 00 00 05 00} I think the problem is\nall the garbage{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.",
+   "et": ""
+  },
+  {
+   "id": 72,
+   "en": "{07 0e 00}You know, {01 00 00 05 00}I'll bet that\ngross flower is the\nproblem.\nYou really have to work\nevery day to prevent things\nlike that from popping up.",
+   "et": ""
+  },
+  {
+   "id": 73,
+   "en": "{07 14 00}So you want to create your\nown town tune, huh?{01 01 00} Well,\nplease make it a nice one!",
+   "et": ""
+  },
+  {
+   "id": 74,
+   "en": "{07 14 00}Everyone needs to work\ntogether if {04 03 00} is\nto be the best town around!",
+   "et": ""
+  },
+  {
+   "id": 75,
+   "en": "{07 14 00}In a town as lovely as\n{04 03 00},{01 00 00 05 00} working doesn't\neven feel like work!",
+   "et": ""
+  },
+  {
+   "id": 76,
+   "en": "{07 14 00}Wouldn't it be wonderful if\nwe could keep {04 03 00}{01 00 00 05 00}\nthis livable forever?!",
+   "et": ""
+  },
+  {
+   "id": 77,
+   "en": "{07 00 00}Oh, {04 00 00},{01 00 00 0a 00} I have a\ndelivery for you! {07 14 00}Tee hee\nhee!{01 00 00 05 00} {01 01 00}Are you surprised?\nI know that you work \nvery hard to improve the\nlivability of {04 03 00}!\n{07 19 00}We here at the {ff 00 00 08}town hall{ff 00 00 00}{01 00 00 05 00}\nappreciate all of your \nhard work!",
+   "et": ""
+  },
+  {
+   "id": 78,
+   "en": "{07 14 00}This is just a token of our\ngratitude.{01 00 00 0f 00} Please accept it!",
+   "et": ""
+  },
+  {
+   "id": 79,
+   "en": "{07 14 00}It's a {ff 00 00 07}golden watering can{ff 00 00 00}!\nIt brings happiness!{01 00 00 0a 00}\nSee what I mean?\nDoesn't it feel good in your\nhand? {01 01 00}{07 00 00}Though there aren't \nany specific benefits,\njust looking at it {07 0a 00}should\ngive you a warm, happy\nglow!\nYes.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}{07 00 00}that's the power of\nthe {ff 00 00 07}golden watering can{ff 00 00 00}.{01 00 00 14 00}\n{07 14 00}Please take care of it!",
+   "et": ""
+  },
+  {
+   "id": 80,
+   "en": "{07 04 00}Oh!{01 00 00 0a 00} It's the item I ordered\nfrom {ff 00 00 06}Saharah{ff 00 00 00}! It's finally\narrived! {01 00 00 05 00}Yippee!\n{07 0d 00}Even though I work in the\nindustry, {01 00 00 05 00}I still just LOVE\ngetting mail!\n{07 00 00}{01 00 00 0f 00}Oh, {04 00 00},{01 00 00 05 00} {07 14 00}are you\nworking for {ff 00 00 06}Saharah {ff 00 00 00}now?\n\nYou didn't have to bring it\nto my workplace!{01 00 00 05 00}\nBut I'm glad you did!\nAnd please tell {ff 00 00 06}Saharah {ff 00 00 00}\nthat I send my best.",
+   "et": ""
+  },
+  {
+   "id": 81,
+   "en": "{07 04 00}Oh,{01 00 00 0f 00} what is it that you\nwanted to do exactly?",
+   "et": ""
+  },
+  {
+   "id": 82,
+   "en": "{07 00 00}Is there anything else{01 00 00 05 00} I can\ndo for you?",
+   "et": ""
+  },
+  {
+   "id": 83,
+   "en": "{07 14 00}OK, {01 00 00 0f 00}right away!{01 01 00} {07 00 00}Is there\nanything else{01 00 00 05 00} I can do for\nyou now?",
+   "et": ""
+  },
+  {
+   "id": 84,
+   "en": "{07 00 00}All righty,{01 00 00 05 00} I'll save your\nmailbox for you!",
+   "et": ""
+  },
+  {
+   "id": 85,
+   "en": "{ff 00 00 01}Now saving...{01 00 00 0f 00} Please wait\nand {01 00 00 05 00}do not touch the\nPower Button!{01 10 00 14}",
+   "et": ""
+  },
+  {
+   "id": 86,
+   "en": "{07 14 00}OK,{01 00 00 0f 00} I'm done saving.{01 00 00 05 00} {07 00 00}Is\nthere anything else{01 00 00 05 00} I can\nhelp you with?",
+   "et": ""
+  },
+  {
+   "id": 87,
+   "en": "{07 04 00}Oh!{01 00 00 0a 00} Well, well! {01 01 00}{07 00 00}This is that\nitem that my sister\nordered from {ff 00 00 06}Saharah{ff 00 00 00}.\n{0b 03 00}{04 00 00},{01 00 00 05 00} {07 14 00}since when\nhave you been working for\n{ff 00 00 06}Saharah{ff 00 00 00}?\nWell, I thank you for going\nout of your way {01 00 00 05 00}and\ndelivering it to her work!\n{07 00 00}Please tell {ff 00 00 06}Saharah {ff 00 00 00}that I \nsaid hello.",
+   "et": ""
+  },
+  {
+   "id": 88,
+   "en": "{07 00 00}Oh.{01 00 00 05 00} You asked us to deliver\nthis letter to someone for\nwhom we have no address!\nWe can't send letters to\npeople who don't live in\nthis town.{01 00 00 14 00} Sorry!",
+   "et": ""
+  },
+  {
+   "id": 89,
+   "en": "{07 00 00}Oh, you can't send \nletters to {ff 00 00 05}{04 16 00}\n{ff 00 00 00}right now.\nThe mailbox at that house\nis full, so we can't deliver\nit! I'm sorry!",
+   "et": ""
+  },
+  {
+   "id": 90,
+   "en": "{07 00 00}Oh, {01 00 00 05 00}we can't deliver those\nletters to {ff 00 00 05}{04 16 00}{ff 00 00 00} and\n{ff 00 00 05}{04 17 00} {ff 00 00 00}right now.\nYou see, their mailboxes\nare completely full! I'm so\nvery sorry!",
+   "et": ""
+  },
+  {
+   "id": 91,
+   "en": "{07 00 00}We can't deliver mail to\n{01 00 00 05 00}{ff 00 00 05}{04 16 00}{ff 00 00 00}, {ff 00 00 05}{04 17 00}{ff 00 00 00},\nand {ff 00 00 05}{04 18 00} {ff 00 00 00}right now. \nAll of their mailboxes are\nfull, and {01 00 00 05 00}we can't cram\nanother thing in them!\nI'm so sorry!",
+   "et": ""
+  },
+  {
+   "id": 92,
+   "en": "{07 00 00}Oh,{01 00 00 0f 00} about that bunch of\nletters you sent out...\n\nWell, there were some\n{ff 00 00 02}future letters{ff 00 00 00} in there\nthat I{01 00 00 05 00} must return to you.\nWe can only accept one\n{ff 00 00 02}future letter{ff 00 00 00} at a time,\nyou see. {01 00 00 05 00}I'm terribly sorry!",
+   "et": ""
+  },
+  {
+   "id": 93,
+   "en": "{07 00 00}Your new town tune has\nbeen successfully saved. {00 01 00}\nIt's lovely!\nIs there {07 0b 00}anything else I can\nhelp you with?{02 07 00 3d 49 00 35 01}\nThe environment!\nTown tune!\nDonations!\nMoving!\nNo, nothing.",
+   "et": ""
+  },
+  {
+   "id": 94,
+   "en": "{07 00 00}So you don't want to\nchange the town tune after\nall?{01 00 00 0a 00} Very well.\nIs there {07 0b 00}anything else I can\nhelp you with?{02 07 00 3d 49 00 35 01}\nThe environment.\nTown tune!\nDonations!\nI'm moving!\nOh, nothing.",
+   "et": ""
+  },
+  {
+   "id": 95,
+   "en": "{07 04 00}Oh, {01 00 00 0f 00}what's this?{02 04 00 50 00}\nDelivery!\nNothing.",
+   "et": ""
+  },
+  {
+   "id": 96,
+   "en": "{07 02 00}Oh.{01 00 00 14 00} I{01 00 00 05 00}-I can't let you \ndo that.{01 01 00} I hate to be the\nbearer of bad news...\n{07 06 00}But Mr. {ff 00 00 06}Tom Nook{ff 00 00 00} asked me\nnot to let you move just\nyet.\n{07 16 00}He didn't ask me actually.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\nHe told me!{01 01 00} I'm so sorry!",
+   "et": ""
+  },
+  {
+   "id": 97,
+   "en": "{07 00 00}Oh dear! {01 00 00 05 00}{07 16 00}The{ff 00 00 08} post office {ff 00 00 00}is\njust crammed with letters\nright now!\nI am not able to accept\nany more at the moment!\n\n{07 00 00}I'm sorry, {01 00 00 05 00}but we would\nappreciate it if you could \ncome again at another time.",
+   "et": ""
+  },
+  {
+   "id": 98,
+   "en": "I'm terribly sorry. The\n{ff 00 00 02}future letter{ff 00 00 00} mail service\nis currently out of order.\nPlease take your letter\nback.",
+   "et": ""
+  },
+  {
+   "id": 99,
+   "en": "{07 00 00}Yes,{01 00 00 05 00} I have replaced the\ntown tune for you.{00 01 00}\n\nIs there anything else\n{07 0b 00}that I can help you with?{02 05 00 3d 49 01}\nThe environment.\nTown tune!\nNo thanks!",
+   "et": ""
+  },
+  {
+   "id": 100,
+   "en": "{07 00 00}Having second thoughts\nabout changing the town\ntune, are you?\nIs there anything else\n{07 0b 00}that I can help you with?{02 05 00 3d 49 01}\nThe environment.\nTown tune.\nNo thanks.",
+   "et": ""
+  }
+ ]
+}

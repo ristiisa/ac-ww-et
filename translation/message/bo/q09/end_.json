@@ -1,0 +1,20 @@
+{
+ "file": "script/ENG/message/bo/q09/end_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 14 00}I'm telling you,{01 00 00 05 00} I'm gonna\ntry a lot harder next time!{01 00 00 14 00}\nWatch out,{01 00 00 0a 00} {04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 14 00}Wow!{01 00 00 05 00} That was fun!{01 00 00 14 00} We should\ndo it again sometime,{01 00 00 0a 00}\n{04 02 00}.",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 14 00}Huh huh huh!{01 00 00 03 00} Talk about fun!\n{07 00 00}Hide-and-seek is simple,\nbut it's a total blast!",
+   "et": ""
+  }
+ ]
+}

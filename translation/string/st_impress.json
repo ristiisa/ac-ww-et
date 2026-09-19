@@ -1,0 +1,445 @@
+{
+ "file": "script/ENG/string/st_impress.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "pizza face",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "black thumb",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "garden boy",
+   "et": ""
+  },
+  {
+   "id": 3,
+   "en": "flower girl",
+   "et": ""
+  },
+  {
+   "id": 4,
+   "en": "lonely boy",
+   "et": ""
+  },
+  {
+   "id": 5,
+   "en": "lonely girl",
+   "et": ""
+  },
+  {
+   "id": 6,
+   "en": "festival freak",
+   "et": ""
+  },
+  {
+   "id": 7,
+   "en": "festival freak",
+   "et": ""
+  },
+  {
+   "id": 8,
+   "en": "happy guy",
+   "et": ""
+  },
+  {
+   "id": 9,
+   "en": "smiley girl",
+   "et": ""
+  },
+  {
+   "id": 10,
+   "en": "mad dog",
+   "et": ""
+  },
+  {
+   "id": 11,
+   "en": "pest",
+   "et": ""
+  },
+  {
+   "id": 12,
+   "en": "bug freak",
+   "et": ""
+  },
+  {
+   "id": 13,
+   "en": "chopper",
+   "et": ""
+  },
+  {
+   "id": 14,
+   "en": "fish philosopher",
+   "et": ""
+  },
+  {
+   "id": 15,
+   "en": "flower hugger",
+   "et": ""
+  },
+  {
+   "id": 16,
+   "en": "pro wrestler",
+   "et": ""
+  },
+  {
+   "id": 17,
+   "en": "ninja",
+   "et": ""
+  },
+  {
+   "id": 18,
+   "en": "pilot",
+   "et": ""
+  },
+  {
+   "id": 19,
+   "en": "soldier",
+   "et": ""
+  },
+  {
+   "id": 20,
+   "en": "cherub",
+   "et": ""
+  },
+  {
+   "id": 21,
+   "en": "chef",
+   "et": ""
+  },
+  {
+   "id": 22,
+   "en": "police officer",
+   "et": ""
+  },
+  {
+   "id": 23,
+   "en": "pirate",
+   "et": ""
+  },
+  {
+   "id": 24,
+   "en": "big brother",
+   "et": ""
+  },
+  {
+   "id": 25,
+   "en": "little brother",
+   "et": ""
+  },
+  {
+   "id": 26,
+   "en": "king",
+   "et": ""
+  },
+  {
+   "id": 27,
+   "en": "flower girl",
+   "et": ""
+  },
+  {
+   "id": 28,
+   "en": "tango boy",
+   "et": ""
+  },
+  {
+   "id": 29,
+   "en": "parasol girl",
+   "et": ""
+  },
+  {
+   "id": 30,
+   "en": "prepared boy",
+   "et": ""
+  },
+  {
+   "id": 31,
+   "en": "rainy girl",
+   "et": ""
+  },
+  {
+   "id": 32,
+   "en": "rain boy",
+   "et": ""
+  },
+  {
+   "id": 33,
+   "en": "storm chaser",
+   "et": ""
+  },
+  {
+   "id": 34,
+   "en": "snowbird",
+   "et": ""
+  },
+  {
+   "id": 35,
+   "en": "wannabe tailor",
+   "et": ""
+  },
+  {
+   "id": 36,
+   "en": "fashionista",
+   "et": ""
+  },
+  {
+   "id": 37,
+   "en": "morning person",
+   "et": ""
+  },
+  {
+   "id": 38,
+   "en": "morning person",
+   "et": ""
+  },
+  {
+   "id": 39,
+   "en": "night walker",
+   "et": ""
+  },
+  {
+   "id": 40,
+   "en": "night owl",
+   "et": ""
+  },
+  {
+   "id": 41,
+   "en": "pocket packer",
+   "et": ""
+  },
+  {
+   "id": 42,
+   "en": "mean girl",
+   "et": ""
+  },
+  {
+   "id": 43,
+   "en": "mad boy",
+   "et": ""
+  },
+  {
+   "id": 44,
+   "en": "frosty girl",
+   "et": ""
+  },
+  {
+   "id": 45,
+   "en": "jerk boy",
+   "et": ""
+  },
+  {
+   "id": 46,
+   "en": "queen bee",
+   "et": ""
+  },
+  {
+   "id": 47,
+   "en": "tough guy",
+   "et": ""
+  },
+  {
+   "id": 48,
+   "en": "pretty princess",
+   "et": ""
+  },
+  {
+   "id": 49,
+   "en": "best buddy",
+   "et": ""
+  },
+  {
+   "id": 50,
+   "en": "bug buddy",
+   "et": ""
+  },
+  {
+   "id": 51,
+   "en": "bug princess",
+   "et": ""
+  },
+  {
+   "id": 52,
+   "en": "fish lover",
+   "et": ""
+  },
+  {
+   "id": 53,
+   "en": "fish queen",
+   "et": ""
+  },
+  {
+   "id": 54,
+   "en": "bug-napper",
+   "et": ""
+  },
+  {
+   "id": 55,
+   "en": "bug emperor",
+   "et": ""
+  },
+  {
+   "id": 56,
+   "en": "bug meister",
+   "et": ""
+  },
+  {
+   "id": 57,
+   "en": "fisher king",
+   "et": ""
+  },
+  {
+   "id": 58,
+   "en": "poor kid",
+   "et": ""
+  },
+  {
+   "id": 59,
+   "en": "light pockets",
+   "et": ""
+  },
+  {
+   "id": 60,
+   "en": "nouveau riche",
+   "et": ""
+  },
+  {
+   "id": 61,
+   "en": "big-timer",
+   "et": ""
+  },
+  {
+   "id": 62,
+   "en": "fat cat",
+   "et": ""
+  },
+  {
+   "id": 63,
+   "en": "millionaire",
+   "et": ""
+  },
+  {
+   "id": 64,
+   "en": "four-eyes",
+   "et": ""
+  },
+  {
+   "id": 65,
+   "en": "bookworm",
+   "et": ""
+  },
+  {
+   "id": 66,
+   "en": "librarian",
+   "et": ""
+  },
+  {
+   "id": 67,
+   "en": "nerd",
+   "et": ""
+  },
+  {
+   "id": 68,
+   "en": "three-horn girl",
+   "et": ""
+  },
+  {
+   "id": 69,
+   "en": "muffinhead",
+   "et": ""
+  },
+  {
+   "id": 70,
+   "en": "braid babe",
+   "et": ""
+  },
+  {
+   "id": 71,
+   "en": "bob girl",
+   "et": ""
+  },
+  {
+   "id": 72,
+   "en": "curly girly",
+   "et": ""
+  },
+  {
+   "id": 73,
+   "en": "dunce",
+   "et": ""
+  },
+  {
+   "id": 74,
+   "en": "baby boy",
+   "et": ""
+  },
+  {
+   "id": 75,
+   "en": "carefree G",
+   "et": ""
+  },
+  {
+   "id": 76,
+   "en": "stylish slob",
+   "et": ""
+  },
+  {
+   "id": 77,
+   "en": "normal boy",
+   "et": ""
+  },
+  {
+   "id": 78,
+   "en": "class president",
+   "et": ""
+  },
+  {
+   "id": 79,
+   "en": "roomie",
+   "et": ""
+  },
+  {
+   "id": 80,
+   "en": "winter wonder",
+   "et": ""
+  },
+  {
+   "id": 81,
+   "en": "snowman",
+   "et": ""
+  },
+  {
+   "id": 82,
+   "en": "foliage girl",
+   "et": ""
+  },
+  {
+   "id": 83,
+   "en": "fall girl",
+   "et": ""
+  },
+  {
+   "id": 84,
+   "en": "ray of sun",
+   "et": ""
+  },
+  {
+   "id": 85,
+   "en": "summer lounger",
+   "et": ""
+  },
+  {
+   "id": 86,
+   "en": "spring girl",
+   "et": ""
+  },
+  {
+   "id": 87,
+   "en": "spring boy",
+   "et": ""
+  }
+ ]
+}

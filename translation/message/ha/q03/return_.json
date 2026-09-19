@@ -1,0 +1,20 @@
+{
+ "file": "script/ENG/message/ha/q03/return_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 16 00}What's a fossil, anyway?{01 00 00 05 00} \nIs it a rock or a bone?!{01 00 00 05 00}\nSo confusing, {01 00 00 05 00}{04 02 00}!\n{07 13 00}But then, {01 00 00 05 00}that's what I like\nabout it too, {01 00 00 05 00}{04 02 00}!{01 00 00 05 00}\nConfusion ROCKS!",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 00 00}Finally, this fossil is\ngonna be in my room{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n\n{07 07 00}Wow{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} So exciting,\n{01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "This fossil is probably...{01 00 00 05 00}at\nleast 1,500,000 years old!{01 00 00 05 00}\nOh yeah, {04 02 00}!\nI KNEW it, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  }
+ ]
+}

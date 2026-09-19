@@ -1,0 +1,15 @@
+{
+ "file": "script/ENG/message/ha/q/error1_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 1d 00}Whoa, chill, {01 00 00 05 00}{04 1f 00}!{01 00 00 14 00}\n{07 16 00}Don't you think that's a\nlittle too soon?!\nTry thinking again, huh, \n{01 00 00 05 00}{04 02 00}?",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 16 00}Whoa, hey, that's right\naround the corner! {01 00 00 05 00}Isn't\nthat sorta quick?\n{07 06 00}I got stuff to do, too!{01 00 00 05 00}\nTry to be a little more\nconsiderate, will ya?",
+   "et": ""
+  }
+ ]
+}

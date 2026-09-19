@@ -1,0 +1,20 @@
+{
+ "file": "script/ENG/mail/msg/ta_ev_nbirth.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "I'm having a big birthday\nbash on {04 11 00} {04 12 00},\nso you should come. Oh,\nand bring a present.",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "Hey, {04 11 00} {04 12 00} is\nmy birthday! I don't want\nto be lonely, so you have\nto visit me! With a gift!",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "I'll be one year older on \n{04 11 00} {04 12 00}, and I'm\nhaving a swanky party to\ncelebrate! Please come.",
+   "et": ""
+  }
+ ]
+}

@@ -1,0 +1,20 @@
+{
+ "file": "script/ENG/message/ha/q03/con3_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 16 00}Could it be any harder to\nfind a stupid fossil of the\n{ff 00 00 02}{04 0f 00}{ff 00 00 00}?!\n{07 05 00}Who did this?!{01 00 00 14 00} Who came up\nwith this impossible task,\n{01 00 00 05 00}{04 02 00}?",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 0b 00}Any clue as to where I can\nfind a fossil of the ancient\n{ff 00 00 02}{04 0f 00}{ff 00 00 00}?\n{07 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 06 00}I mean, if it was easy,\nI wouldn't be asking you,\nright, {01 00 00 05 00}{04 02 00}?",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 16 00}{ff 00 00 05}{0b 03 00}{04 1f 00}{ff 00 00 00}!{01 00 00 14 00} {07 06 00}If you have a\nspare {ff 00 00 02}{04 0f 00}{ff 00 00 00}\nfossil,{01 00 00 05 00} gimme it!",
+   "et": ""
+  }
+ ]
+}

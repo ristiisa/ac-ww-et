@@ -1,0 +1,20 @@
+{
+ "file": "script/ENG/message/fu/q07/fin_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 00 00}Oh, that was a wonderful\nletter!{01 00 00 05 00} {07 0a 00}It made me so very\nhappy{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n{07 14 00}Please give a big hug to\n{ff 00 00 06}{04 0f 00}{ff 00 00 00}, {01 00 00 05 00}{04 02 00}.{01 00 00 0a 00}\nAnd give yourself one, too!",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 0e 00}That letter didn't make a\nlot of sense{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00} {07 14 00}But it made\nme happy, {01 00 00 05 00}{04 02 00}!\n{0b 03 00}{04 1f 00},{01 00 00 05 00} please give\n{ff 00 00 06}{04 0f 00} {ff 00 00 00}a big thanks\nfrom me, OK?",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 14 00}Aw, that letter was really\nsweet, {01 00 00 05 00}{04 02 00}!{01 00 00 05 00} Please\nthank{ff 00 00 06} {04 0f 00} {ff 00 00 00}for me!",
+   "et": ""
+  }
+ ]
+}

@@ -1,0 +1,35 @@
+{
+ "file": "script/ENG/message/ge/q12/ask1_2_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 1c 00}I, like, feel all barfy{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} {07 07 00}I\nhope I didn't catch a cold,\n{01 00 00 05 00}{04 02 00}...",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 07 00}Ooooh... I think I'm gonna\nbe totally sick{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} Oh, that's\nso super gross{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} {07 02 00}Mrrrrrph!",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 07 00}My head hurts,{01 00 00 05 00} and my nose\nis, like, all full of goo{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n{07 1c 00}I think I have a cold...",
+   "et": ""
+  },
+  {
+   "id": 3,
+   "en": "{07 14 00}I was just writing my\nfriend to say that I feel\nLOTS better now!\nI was all like, {01 00 00 0f 00}{07 19 00}\"And it's all\nthanks to {ff 00 00 05}{04 0f 00}{ff 00 00 00}'s\n{ff 00 00 07}medicine{ff 00 00 00}!\" {01 00 00 0a 00}{01 01 00}{07 0a 00}YAY!",
+   "et": ""
+  },
+  {
+   "id": 4,
+   "en": "{07 05 00}{01 08 00}HEY, WORLD! {01 00 00 0f 00}LISTEN UP!{01 01 00}\n{0b 03 00}{ff 00 00 05}{04 0f 00}{ff 00 00 00}'s {ff 00 00 07}medicine {ff 00 00 00}{01 00 00 05 00}\ntotally saved me!\n{07 0a 00}YAAAAAAAAAAAAAAAY,\n{ff 00 00 05}{04 0f 00}{ff 00 00 00}!",
+   "et": ""
+  },
+  {
+   "id": 5,
+   "en": "{07 14 00}You know what name's on\nthe top of my friend list?{01 00 00 14 00}\n{07 19 00}{0b 03 00}{ff 00 00 05}{04 0f 00}{ff 00 00 00}!\n{07 0a 00}You know, {01 00 00 0a 00}'cause the\n{ff 00 00 07}medicine {ff 00 00 00}totally made my\nhead stop leaking!",
+   "et": ""
+  }
+ ]
+}

@@ -1,0 +1,20 @@
+{
+ "file": "script/ENG/message/ge/ai/fortune_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 14 00}Hey, {04 1f 00}!{01 00 00 0a 00} Nice\ntiming! {01 01 00}This is totally out\nof the blue, {01 00 00 05 00}but take this!\n{07 00 00}Huh? {01 00 00 05 00}Why the googly-eyed\nsurprise?{01 01 00} {07 14 00}I just wanted you\nto have it, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 14 00}There you are, {04 1f 00}!{01 00 00 0a 00}\nLet me see your hand for a\nsecond, OK?\nI want you to have\n{04 1a 00}!\n\n{07 0e 00}Don't know why, but I had\nthis sudden overpowering\nurge to give it to you{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 14 00}What? {01 00 00 14 00}A gift in return?\nOf course not! I don't need\nanything, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 14 00}Yoo hoo!{01 00 00 0a 00} {0b 03 00}{04 1f 00}!{01 01 00}\n{07 0b 00}FREAKY!{01 00 00 0a 00} It's like my mind's\ngot a mind of its own!\n{07 14 00}I don't know why, but I just\nhad to give you\n{04 1a 00}!",
+   "et": ""
+  }
+ ]
+}

@@ -1,0 +1,20 @@
+{
+ "file": "script/ENG/message/ha/q11/trade4_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 15 00}Whoa WHOA,{01 00 00 05 00} {04 1f 00}!{01 01 00}\nThat one's off-limits,\n{01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 14 00}That's pretty sweet, {01 00 00 05 00}huh?{01 01 00}\n{07 19 00}I'll never let that go.{01 00 00 05 00}\nI train with it every day!",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 0e 00}Uh{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} Can't give you that\none, {01 00 00 05 00}{04 02 00}. {01 00 00 05 00}Sorry.\n\n{07 16 00}That's{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}a part of me now,\n{01 00 00 05 00}{04 02 00}.",
+   "et": ""
+  }
+ ]
+}

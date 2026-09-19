@@ -1,0 +1,110 @@
+{
+ "file": "script/ENG/message/ha/ap/sell_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 14 00}Yo yo,{01 00 00 05 00} {04 1f 00}!{01 01 00} It's\n{07 00 00}the {0b 02 00}{04 1c 00}\nyou've always wanted!\nI happen to have it on me!{01 00 00 05 00}\n{07 0b 00}How's {04 11 00} Bells sound?{02 00 00 03 0b}\nI'll buy it!\nNo thanks.",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 14 00}Hey, {ff 00 00 05}{04 1f 00}{ff 00 00 00}!{01 00 00 0a 00}\n{07 00 00}Listen, I know this comes\nout of the blue, but...\nWhy don't you buy my \n{0b 02 00}{04 1c 00} for\n{07 0b 00}{04 11 00} Bells?\n{07 06 00}Think of it as charity!{01 00 00 05 00}\nHelp me out, {01 00 00 05 00}{04 02 00}!{02 00 00 03 0b}\nFor you...OK!\nSorry.",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 00 00}Whoa, {04 1f 00}!{01 00 00 05 00}\nGood timing, {04 02 00}!\n\nAt this moment, {01 00 00 05 00}I have the\n{0b 02 00}{04 1c 00} on\nmy person!{01 00 00 05 00}\n{07 0b 00}How much are you willing to\npay for it, {01 00 00 05 00}{04 02 00}?{05 05 00 03 0f 05 10 05 10 03 14}\n10,000 Bells.\nZilch!",
+   "et": ""
+  },
+  {
+   "id": 3,
+   "en": "{07 14 00}Sweet, {01 00 00 05 00}now you're talking,\n{01 00 00 05 00}{04 02 00}!\n\n{06 01 00 04 05 06}",
+   "et": ""
+  },
+  {
+   "id": 4,
+   "en": "{07 00 00}I'm stoked to know you're\na good sport, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 5,
+   "en": "{07 14 00}You got a killer deal!{01 00 00 0a 00}\nI guarantee it!",
+   "et": ""
+  },
+  {
+   "id": 6,
+   "en": "{07 00 00}I didn't know you were\nso loaded, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 7,
+   "en": "{06 01 00 08 09 0a}",
+   "et": ""
+  },
+  {
+   "id": 8,
+   "en": "{07 14 00}Catch you next time,{01 00 00 05 00}\n{ff 00 00 05}{04 1f 00}{ff 00 00 00}! {01 00 00 05 00}{0b 03 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 9,
+   "en": "{07 14 00}Thanks, {01 00 00 05 00}{ff 00 00 05}{04 1f 00}{ff 00 00 00}!\n{01 00 00 05 00}Rock on, {04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 10,
+   "en": "{07 14 00}'Til next time,\n{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 11,
+   "en": "{06 01 00 0c 0d 0e}",
+   "et": ""
+  },
+  {
+   "id": 12,
+   "en": "{07 04 00}Huh?! {01 00 00 05 00}Why the heck not?!{01 01 00}\n{07 06 00}You're my bud! {01 00 00 05 00}You're\nsupposed to buy it off me!",
+   "et": ""
+  },
+  {
+   "id": 13,
+   "en": "{07 04 00}Whaaaaaaaaaaaat?!{01 01 00}\n{07 06 00}After all I did to get this\nfor you, {01 00 00 05 00}{04 02 00}?!",
+   "et": ""
+  },
+  {
+   "id": 14,
+   "en": "{07 15 00}Man, c'mon,{01 00 00 05 00} {ff 00 00 05}{04 1f 00}{ff 00 00 00}!{01 01 00}\n{07 16 00}I was counting on you to\nbuy it off me!\n{07 15 00}Fine, forget you! {01 00 00 05 00}I'm gonna\ngive it to {04 0b 00} for\nfree, how you like that?",
+   "et": ""
+  },
+  {
+   "id": 15,
+   "en": "{07 02 00}Whaaaaaaaaaaaaaat?!{01 01 00}\n{07 06 00}How could you say that with\na straight face?!\n{07 15 00}Man, I KNOW you know I\ngotta make a living too!",
+   "et": ""
+  },
+  {
+   "id": 16,
+   "en": "{06 01 00 11 12 12}",
+   "et": ""
+  },
+  {
+   "id": 17,
+   "en": "{07 01 00}Huh?!{01 00 00 05 00} Hey!{01 00 00 05 00} What's with that\nvague answer, {01 00 00 05 00}{04 02 00}?!\n\n{07 10 00}Indecisive people really\nbum me out, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 18,
+   "en": "{07 16 00}Hey,{01 00 00 0a 00} can't you make a\nsimple decision?{01 00 00 05 00} What's\nyour deal, {01 00 00 05 00}{04 02 00}?!\n.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}Fine, fine, I get it.{01 01 00}\n{07 06 00}Don't look at me like that!{01 01 00}\n{07 16 00}Ugh! {01 00 00 05 00}Whatever!",
+   "et": ""
+  },
+  {
+   "id": 19,
+   "en": "{07 16 00}You're{01 00 00 05 00} a real pain\nsometimes, you know that?\n\n{07 15 00}Someday you're gonna take\nmy generosity for granted\nand it's gonna be GONE!",
+   "et": ""
+  },
+  {
+   "id": 20,
+   "en": "{07 02 00}Jumping jackrabbits{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n{07 06 00}10,000?{01 00 00 05 00} How many 100s is\nTHAT?!\n{07 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}Brain{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}locking{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}up{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\nLet's forget about this\nwhole thing,{01 00 00 05 00} {04 02 00}!",
+   "et": ""
+  }
+ ]
+}

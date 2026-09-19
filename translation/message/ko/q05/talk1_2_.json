@@ -1,0 +1,20 @@
+{
+ "file": "script/ENG/message/ko/q05/talk1_2_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 11 00}You show real promise,\nkid. {01 00 00 05 00}{0b 03 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 16 00}That's a little too\nposh for my taste,\n{01 00 00 05 00}{04 02 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 19 00}I'm mature and\nsophisticated! I need{01 00 00 0f 00}\n{ff 00 00 02}{04 0f 00}{ff 00 00 00}!",
+   "et": ""
+  }
+ ]
+}

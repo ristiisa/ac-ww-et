@@ -1,0 +1,15 @@
+{
+ "file": "script/ENG/message/fu/q01/pwin2_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 1c 00}I can't see any other\nchoice{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0f 00}\nI have to reward you.\nYou know, for the\n{0b 02 00}{04 1c 00}.\n\nI hate to do this,\nbut here. I'm giving you my\n{0b 02 00}{04 1b 00}.",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 00 00}I guess I've learned\nsomething here today. As a\ntoken of my thanks{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\nI want you to have this\n{0b 02 00}{04 1b 00}.",
+   "et": ""
+  }
+ ]
+}

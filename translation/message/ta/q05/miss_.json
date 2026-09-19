@@ -1,0 +1,35 @@
+{
+ "file": "script/ENG/message/ta/q05/miss_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "Well, see.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00} I'm actually\ntrying to collect\n{ff 00 00 07}{04 0f 00}{ff 00 00 00}.\nYou know, {01 00 00 05 00}I really don't\nhave anywhere to put this,{01 00 00 05 00}\nso you can have it back.",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "Um{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}. I'm actually collecting{01 00 00 14 00}\n{ff 00 00 07}{04 0f 00}{ff 00 00 00}.\n\nSorry, but{01 00 00 0a 00} your\n{0b 02 00}{04 1a 00}?\nNot me at all, {01 00 00 0a 00}{04 02 00}.",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 09 00}{0b 03 00}{04 1a 00}{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.\nOh.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00} That's exactly what\nI've always, uh, wanted.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}\n{07 05 00}Sorry, that's a total lie.{01 00 00 14 00}\nRight now, I'm only into\n{ff 00 00 07}{04 0f 00}{ff 00 00 00}.{07 00 00}",
+   "et": ""
+  },
+  {
+   "id": 3,
+   "en": ".{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}Now,{01 00 00 05 00} I know I asked you\nif you'd help me get\n{ff 00 00 07}{04 0f 00}{ff 00 00 00},\nbut I can't just fill my \nroom with this one thing.",
+   "et": ""
+  },
+  {
+   "id": 4,
+   "en": "Sorry, {01 00 00 0a 00}I don't want your\n{0b 02 00}{04 1a 00}.\n\nWill you bring me something\na little different next \ntime, {01 00 00 05 00}{04 02 00}?",
+   "et": ""
+  },
+  {
+   "id": 5,
+   "en": "Hmm. {01 00 00 0a 00}What do we have here?{01 00 00 0a 00}\n{0b 03 00}{04 1a 00},\nhuh?\nThat's just so boring and\nfive minutes ago!\n\nSorry, but can you take\nthis back and get me\nsomething different?",
+   "et": ""
+  }
+ ]
+}

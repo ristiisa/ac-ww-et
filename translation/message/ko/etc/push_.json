@@ -1,0 +1,30 @@
+{
+ "file": "script/ENG/message/ko/etc/push_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 05 00}For corn's sake, kid!{01 00 00 14 00}\nQuit running into me like\nthat!",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "Would ya knock it off,\nalready?{01 00 00 0f 00} {0b 03 00}{01 00 00 05 00}{04 02 00}!!!\n\n{07 01 00}You're making me paranoid,\nkid! {01 00 00 0f 00}Quit following me so\nclose like that.",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 01 00}You better watch it, kid!{01 00 00 05 00}\nYou're making me even\ncrankier than usual!",
+   "et": ""
+  },
+  {
+   "id": 3,
+   "en": "{07 15 00}HEY!{01 00 00 0f 00} {07 01 00}Whaaaaaat on earth do \nyou think you're doing?!\n\nYou can't go around bumping\ninto people like that,\n{01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 4,
+   "en": "{07 05 00}Listen up, kid! Consider\nyourself on notice,{01 00 00 0f 00}\n{04 02 00}!{01 00 00 14 00}\n{07 11 00}I can't be held responsible\nfor what I do if you keep\nbumping me like that, kid.",
+   "et": ""
+  }
+ ]
+}

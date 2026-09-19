@@ -1,0 +1,20 @@
+{
+ "file": "script/ENG/message/fu/q02/nlose_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 06 00}Oh, no!{01 00 00 0a 00} I should have known\nyou'd beat me to the\npunch, {04 1f 00}!",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 02 00}Incredible!{01 00 00 0f 00} Are you serious?\nYou caught one already?\n\n{07 00 00}I tried my best, {01 00 00 05 00}{07 0f 00}but my\nbest just wasn't good\nenough, {01 00 00 05 00}{04 02 00}.",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 02 00}Oh, no!{01 00 00 14 00} {07 16 00}I can't believe you\nalready caught one!\n\n{07 1a 00}I have to hand it to you,\n{04 1f 00}. {01 00 00 05 00}You're just\nplain amazing, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  }
+ ]
+}

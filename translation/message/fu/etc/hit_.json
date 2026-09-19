@@ -1,0 +1,30 @@
+{
+ "file": "script/ENG/message/fu/etc/hit_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "Ow, hey!{01 00 00 05 00} Ow!\n\n\n{0b 03 00}{04 00 00}, {01 00 00 05 00}watch where\nyou're swinging that thing!\nThat hurts, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "Oooouch, {01 00 00 05 00}{04 02 00}!!\n\n\nYou're not doing that on\npurpose, {04 00 00},{01 00 00 0f 00} are\nyou? That's just mean!",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": ".{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{0b 03 00}{04 00 00},{01 00 00 0a 00} what makes\nyou think that's fun?",
+   "et": ""
+  },
+  {
+   "id": 3,
+   "en": "Owwwwwchie!{01 00 00 14 00} Sheesh! What's\nwrong with you? That's my\nhead, {04 00 00}!\nI need that for thinking!",
+   "et": ""
+  },
+  {
+   "id": 4,
+   "en": "{01 08 00}Ow{01 00 00 05 00}w{01 00 00 05 00}w{01 00 00 05 00}w{01 00 00 05 00}w{01 00 00 05 00}w{01 00 00 05 00}w!!!\n\n\nWhat did I do to deserve\nthat, {01 00 00 05 00}{04 02 00}!? You're\nmean, {04 00 00}!{01 00 00 0a 00} Mean!",
+   "et": ""
+  }
+ ]
+}

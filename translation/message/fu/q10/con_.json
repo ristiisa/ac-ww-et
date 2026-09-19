@@ -1,0 +1,20 @@
+{
+ "file": "script/ENG/message/fu/q10/con_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 00 00}The time? {04 10 00}:{04 11 00}! The date?\nThe {04 0f 00}! I'm coming over!\n{07 0b 00}Sound good, {01 00 00 05 00}{04 02 00}?\n{07 14 00}My voice doesn't carry, so\nmake sure that you're\nsomewhere you can hear me!",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 00 00}I've got our date written\ndown! {04 10 00}:{04 11 00} on the {04 0f 00}!{01 00 00 0a 00}\n{07 14 00}I can't WAIT!\n{07 14 00}Please don't miss the sound\nof my knocking, OK,\n{01 00 00 05 00}{04 02 00}?!",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 00 00}I'm coming over at {04 10 00}:{04 11 00},\nremember? The date is the\n{04 0f 00}, too, don't forget.\n{07 14 00}Oh, and I'm never late! So\nwait for me, {01 00 00 05 00}{04 02 00}!{01 00 00 0a 00}\n{07 03 00}I'd hate to be locked out!",
+   "et": ""
+  }
+ ]
+}

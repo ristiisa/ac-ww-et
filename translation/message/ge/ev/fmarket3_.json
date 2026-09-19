@@ -1,0 +1,105 @@
+{
+ "file": "script/ENG/message/ge/ev/fmarket3_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 03 00}Woo hoo! I totally scored!{01 00 00 0f 00}\n{07 0b 00}Did you hear me?{01 01 00} {07 0a 00}I said,\n{01 08 00}WOO HOO! WOO HOO! WOO HOO!\nI'm a FREAK for finding hot\nloot at low prices. {01 00 00 0f 00}{07 06 00}It gets\nout of control sometimes.",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 14 00}{0b 03 00}{04 1f 00}, your stuff is\nso, umm{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}unique. {01 00 00 05 00}It's\nvery{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}um{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}you.\n{07 0d 00}You're a little obsessive,\naren't you? Eh, {01 00 00 05 00}{04 02 00}?",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 04 00}Whoa!{01 00 00 0a 00} {07 16 00}I've been hanging out\nhere way too long!\n\n{07 14 00}I should get going\nand check out some other\npeople's stuff, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 3,
+   "en": "{07 04 00}Whoa! {01 00 00 05 00}I've been chilling\nhere for a long time!\n\n{07 16 00}You totally sucked me\ninto your hypnotizing\n{04 1f 00}-world!\n{07 14 00}Seriously, the {04 1f 00}-\npad is pretty sweet,\n{01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 4,
+   "en": "{07 14 00}Oooooh, yeah!{01 00 00 0a 00} Your house is\nPRET-ty comfy,\n{01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 5,
+   "en": "{07 15 00}It's a business, so you have\nto smile at everyone,{01 00 00 05 00}\neven annoying customers.\n{07 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 15 00}Hey!{01 00 00 0a 00} Are you calling me\nannoying?!{01 01 00} {07 05 00}{01 08 00}You know I'm a\nblack belt, don't you?!",
+   "et": ""
+  },
+  {
+   "id": 6,
+   "en": "{07 00 00}Wouldn't your cute\n{0b 02 00}{04 1a 00}{01 00 00 05 00}\nlook perfect in my place?\n{07 14 00}You'll sell it to me, right,\n{01 00 00 05 00}{04 1f 00}?{01 00 00 05 00}{02 00 00 ff ff}\nTotally!\nNo chance.",
+   "et": ""
+  },
+  {
+   "id": 7,
+   "en": "{07 04 00}Ahhh!{01 00 00 14 00} This must be this\nseason's hottest new\n{0b 02 00}{04 1a 00}!\n{07 16 00}But I'm SO broke! Don't you\nhave a friends and family\ndiscount, {01 00 00 05 00}{04 02 00}?{02 00 00 ff ff}\nLet's chat.\nNot for sale!",
+   "et": ""
+  },
+  {
+   "id": 8,
+   "en": "{07 0e 00}Ummmm{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 01 00} {07 1c 00}Whatever,\n{01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 9,
+   "en": "{07 06 00}What?!{01 00 00 0a 00} {0b 03 00}{04 1f 00}, how can\nyou be so cheap?",
+   "et": ""
+  },
+  {
+   "id": 10,
+   "en": "{07 02 00}What?!{01 00 00 0a 00} That's ridiculous!{01 01 00}\n{07 16 00}You know I'm broke,{01 00 00 05 00}\nright?\n{07 1c 00}You're gonna have to\ntry harder than that!{02 00 00 ff ff}\nUgh, fine!\nNo way!",
+   "et": ""
+  },
+  {
+   "id": 11,
+   "en": "{07 16 00}If you want to call me your\nfriend, you'd better give\nme a better deal!{02 00 00 ff ff}\nOK! OK!\nUmmm...NO.",
+   "et": ""
+  },
+  {
+   "id": 12,
+   "en": "{07 14 00}OK!{01 00 00 0a 00} I'll take it for\nthat price, {01 00 00 05 00}{04 02 00}!{02 00 00 ff ff}\nIt's yours.\nActually...",
+   "et": ""
+  },
+  {
+   "id": 13,
+   "en": "{07 0e 00}I guess that's a fair deal,\n{01 00 00 05 00}{04 02 00}!{01 00 00 0a 00} {07 14 00}OK, I'll take\nit!{01 00 00 0a 00}{02 00 00 ff ff}\nSOLD!\nMaybe not.",
+   "et": ""
+  },
+  {
+   "id": 14,
+   "en": "{07 14 00}SCORE! {01 00 00 0a 00}{07 0d 00}I would've paid,\nlike, a MILLION Bells for\n{04 1a 00}!\nBut I only paid {04 0f 00}!{01 00 00 0a 00}\nTee hee for me!",
+   "et": ""
+  },
+  {
+   "id": 15,
+   "en": "{07 0d 00}{01 08 00}WAHOOOOOOOOOOOOOOOOOOOOOO!\n{0b 02 00}{0b 03 00}{04 1a 00},\nmeet your new owner!\n{07 07 00}This is going so well that\nit's kinda freaking me out!",
+   "et": ""
+  },
+  {
+   "id": 16,
+   "en": "{07 16 00}That's SO stupid! {01 00 00 05 00}If it\nwasn't for sale, why didn't\nyou just tell me?!",
+   "et": ""
+  },
+  {
+   "id": 17,
+   "en": "{07 16 00}After all this,{01 00 00 05 00} now you say\nthat?! {07 15 00}That's kinda rude,\n{01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 18,
+   "en": "{07 02 00}Huh-what?! {01 00 00 0a 00}You have a\ncrazy amount of money,\n{01 00 00 05 00}{04 1f 00}!{01 00 00 0a 00}\n{07 00 00}You shouldn't keep that\nmuch cash in your house!\nSeriously, {01 00 00 05 00}{04 02 00}!\nWhy don't you put it\nsomewhere safe. {01 00 00 0f 00}Or better\nyet, {01 00 00 05 00}SPEND IT!!!",
+   "et": ""
+  },
+  {
+   "id": 19,
+   "en": "{07 04 00}WHOA!{01 00 00 0a 00}{07 05 00} You've got\nsacks and sacks of Bells,\n{01 00 00 05 00}{04 02 00}!\n{07 00 00}Don't you know it's\nDANGEROUS to carry that\nmuch cash on you?\n{07 11 00}I could take it off your\nhands, if you want. {01 00 00 05 00}You\nknow, as a favor.",
+   "et": ""
+  }
+ ]
+}

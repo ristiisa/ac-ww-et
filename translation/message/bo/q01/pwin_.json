@@ -1,0 +1,15 @@
+{
+ "file": "script/ENG/message/bo/q01/pwin_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 04 00}What!{01 00 00 05 00} Don't tell me! Is that\n{04 1c 00}?",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 04 00}Ack! No! Tell me that's not\n{04 1c 00}!{01 01 00}\nWay to go, {04 1f 00}.",
+   "et": ""
+  }
+ ]
+}

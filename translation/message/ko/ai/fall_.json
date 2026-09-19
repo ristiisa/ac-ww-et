@@ -1,0 +1,20 @@
+{
+ "file": "script/ENG/message/ko/ai/fall_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{01 09 00}Grrrrrrrrrrrrr!{01 00 00 14 00} I'm stuck!\n{01 00 00 05 00}{0b 03 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "G-{01 00 00 05 00}grrrrrrrrumph{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\nThis isn't funny, so stop\nlaughing!\n{01 09 00}I mean it!{01 00 00 05 00} Stop laughing and\nhelp me! {01 00 00 05 00}HELP! {01 00 00 05 00}{0b 03 00}{04 02 00}!!",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{01 09 00}What in the world.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} What\nthe heck is going on here?!",
+   "et": ""
+  }
+ ]
+}

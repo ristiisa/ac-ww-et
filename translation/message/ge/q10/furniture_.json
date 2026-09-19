@@ -1,0 +1,135 @@
+{
+ "file": "script/ENG/message/ge/q10/furniture_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{0b 03 00}{04 1f 00}, {01 00 00 05 00}that {ff 00 00 07}amazing\npainting {ff 00 00 00}is...\n\n{07 0d 00}AMAZING! {01 00 00 0a 00}Wow, it's a good\nthing that's what they\nnamed it, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 0b 00}If I were a dharma, I'd be\na {ff 00 00 07}mini-dharma{ff 00 00 00}.\n\n.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}Actually, I don't think I'm\nvery dharma-like at all.{01 00 00 0a 00}\n{07 0e 00}Like, huh.{01 00 00 0a 00} Totally weird.",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 0b 00}If your {ff 00 00 07}merry-go-round{ff 00 00 00} is\nbroken, do you just call it\na merry?\n{07 0e 00}Wow, that's kinda deep{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}. OK,\nI'm REALLY confused now,\n{01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 3,
+   "en": "{06 03 00 14 15}",
+   "et": ""
+  },
+  {
+   "id": 4,
+   "en": "{07 14 00}A {ff 00 00 07}lovely chair{ff 00 00 00} totally\nlivens up a room, doesn't\nit, {01 00 00 05 00}{04 02 00}?",
+   "et": ""
+  },
+  {
+   "id": 5,
+   "en": "{07 0a 00}If I used a {ff 00 00 07}lovely vanity{ff 00 00 00},\nI bet I could put on my\nmakeup in half the time!\n{07 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}Oh, wait, {01 00 00 05 00}{04 02 00}!\nI don't even WEAR makeup!{01 00 00 05 00}\n{07 03 00}Wow, that was TOO SILLY!",
+   "et": ""
+  },
+  {
+   "id": 6,
+   "en": "{07 13 00}You know, {01 00 00 05 00}my DREAM LIFE is\nto have a {ff 00 00 07}lovely bed{ff 00 00 00} and\njust sleep in it all day!{02 00 00 16 17}\nStay off my bed!\nHow nice.",
+   "et": ""
+  },
+  {
+   "id": 7,
+   "en": "{07 00 00}{07 16 00}I bet this {ff 00 00 07}grapefruit table\n{ff 00 00 00}wouldn't taste as good as a\nREAL grapefruit!!",
+   "et": ""
+  },
+  {
+   "id": 8,
+   "en": "Y'know, even if I ate the\nsweetest-tasting dessert\nat this {ff 00 00 07}lemon table{ff 00 00 00}...\n{07 16 00}It would probably still\ntaste sour, {01 00 00 05 00}{04 02 00}!\nJust 'cause of the table!",
+   "et": ""
+  },
+  {
+   "id": 9,
+   "en": "{07 00 00}Sniff{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} Sniff{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} Hey! {07 14 00}I found\nan {ff 00 00 07}orange chair{ff 00 00 00}!{01 00 00 0a 00} My nose is\nlike a big radar dish!",
+   "et": ""
+  },
+  {
+   "id": 10,
+   "en": "{07 00 00}Sniff{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} Sniff{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} {07 14 00}Sweet! I\nfound a {ff 00 00 07}lime chair{ff 00 00 00}!{01 00 00 0a 00} Mmmm...{01 00 00 05 00}\nIt smells totally limey!\nYou can't hide anything\nfrom my nose, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 11,
+   "en": "{07 00 00}If I ever change a light\nbulb, I'm gonna stand on a\n{ff 00 00 07}daffodil table{ff 00 00 00}, {01 00 00 05 00}{04 02 00}!\nIt's 'cause I like flowers!{01 00 00 0a 00}\n{07 0b 00}...What do you mean, it's\nnot very safe, {01 00 00 05 00}{04 02 00}?",
+   "et": ""
+  },
+  {
+   "id": 12,
+   "en": "Oh yay! {01 00 00 05 00}A {ff 00 00 07}daffodil chair{ff 00 00 00}!\nThis is soooo totally cute,\n{01 00 00 05 00}{04 02 00}!\n{07 0b 00}Y'know, I'm kinda like a\nflower, too!{01 00 00 05 00} {07 00 00}{07 0a 00}'Cause I'm so\npretty and happy!",
+   "et": ""
+  },
+  {
+   "id": 13,
+   "en": "{07 11 00}Are you gonna hang your\nstocking on this {ff 00 00 07}big festive\ntree{ff 00 00 00}, {04 02 00}?\nI bet you're hoping that\nSOMEBODY brings you a TON\nof presents, {04 1f 00}!{02 00 00 18 19}\nThat's the plan!\nThat's silly!",
+   "et": ""
+  },
+  {
+   "id": 14,
+   "en": "{07 16 00}Y'know,{01 00 00 05 00} I don't ask much.\n{07 00 00}I just want a small\n{ff 00 00 07}festive tree {ff 00 00 00}in my room!{07 14 00}",
+   "et": ""
+  },
+  {
+   "id": 15,
+   "en": "{07 00 00}{07 0b 00}Don't you think I look just\nlike a {ff 00 00 07}dolly{ff 00 00 00}, {01 00 00 05 00}{04 02 00}?\n\n.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}{07 02 00}YAAA!{01 00 00 14 00} {07 06 00}That doesn't mean\nyou can put me up in your\nroom and STARE all day!\n{07 14 00}It JUST means that I'm\nsmall and cute! Like a\n{ff 00 00 07}dolly{ff 00 00 00}, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 16,
+   "en": "{07 00 00}{07 0e 00}Wow...{01 00 00 0a 00} How could you stand\nup if your legs were as\nskinny as {ff 00 00 07}Mr. Flamingo{ff 00 00 00}'s?",
+   "et": ""
+  },
+  {
+   "id": 17,
+   "en": "{07 14 00}{ff 00 00 07}Mrs. Flamingo {ff 00 00 00}is, like, the\nbird world's BIGGEST\nsupermodel!\nAnd she's got cute long\nlegs... {07 0d 00}Just like ME,\n{01 00 00 05 00}{04 02 00}!!",
+   "et": ""
+  },
+  {
+   "id": 18,
+   "en": "{07 00 00}Oh, wow.{01 00 00 05 00} I wish I was at a\npicnic{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00} {07 0d 00}I'd wear a cute\ndress to the {ff 00 00 07}Picnic Table{ff 00 00 00}...\n{07 13 00}And then totally eat until I\nwas ready to BURST!{01 00 00 05 00} Mmm...{01 00 00 05 00}\nYUMMERS!",
+   "et": ""
+  },
+  {
+   "id": 19,
+   "en": "{07 0e 00}Like, OMIGOSH!{01 00 00 05 00} I'm actually\nstanding next to the {ff 00 00 07}Arc\nde Triomphe{ff 00 00 00}, {01 00 00 05 00}{04 02 00}!\n{07 04 00}Oh, snarkies!{01 00 00 05 00} I wonder if\npeople will actually think\nI'm from PARIS!{01 00 00 0a 00}{07 00 00}{07 14 00} YAY!!{01 00 00 05 00} PARIS!!",
+   "et": ""
+  },
+  {
+   "id": 20,
+   "en": "{07 04 00}Oh, NO WAY!{01 00 00 05 00} You have a\n{ff 00 00 07}teddy bear{ff 00 00 00}?!{01 00 00 0a 00} Omigosh, I\ndon't BELIEVE it!\n{07 0d 00}{0b 03 00}{04 1f 00}, that is just{01 00 00 05 00}\nTOO CUTE, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 21,
+   "en": "{07 14 00}Yep! A {ff 00 00 07}teddy bear{ff 00 00 00} is a\nmust-have for a girl!",
+   "et": ""
+  },
+  {
+   "id": 22,
+   "en": "{07 00 00}{07 02 00}WHAT?! What's that supposed\nto mean?!{01 00 00 0a 00} Oh, I'm SO sorry!{01 00 00 05 00}\nI didn't mean it!\n{07 08 00}I've ruined everything!{01 00 00 0a 00} Oh,\nPLEASE don't hate me,\n{01 00 00 05 00}{04 00 00}!",
+   "et": ""
+  },
+  {
+   "id": 23,
+   "en": "{07 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}You SAY that like you\nmean it...{01 00 00 0a 00}{07 11 00}but I bet you'd be\nmad if I slept on your bed!!",
+   "et": ""
+  },
+  {
+   "id": 24,
+   "en": "{07 03 00}Tee hee hee!{01 00 00 0a 00} I KNEW it!\nI can read you like an issue\nof {ff 00 00 02}Ms. Nintendique{ff 00 00 00}!",
+   "et": ""
+  },
+  {
+   "id": 25,
+   "en": "{07 04 00}REALLY?!{01 00 00 14 00} {07 00 00}Wow, that's, like,\nnot the answer I expected,{01 00 00 05 00}\n{04 1f 00}!",
+   "et": ""
+  }
+ ]
+}

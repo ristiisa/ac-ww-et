@@ -1,0 +1,30 @@
+{
+ "file": "script/ENG/message/ko/ai/sad_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 0f 00}I guess it's time for me to{01 00 00 05 00}\nstop living a lie,\n{01 00 00 14 00}{04 02 00}.",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 0f 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 14 00}Oh,{01 00 00 05 00} {04 02 00}.\n{01 00 00 0f 00}I'm just straight-up\npathetic.",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "Meh{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 14 00}{07 0f 00} The world has become{01 00 00 05 00}\nsuch a cold place, \n{01 00 00 05 00}{04 02 00}.",
+   "et": ""
+  },
+  {
+   "id": 3,
+   "en": "{07 09 00}Sadness...{01 00 00 0f 00} It's the only \nthing I've got plenty of{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.",
+   "et": ""
+  },
+  {
+   "id": 4,
+   "en": "{07 15 00}Cut me some slack,\nwill ya? I mean,\n{01 00 00 05 00}{04 02 00}!!!\n{07 0f 00}I'm having the kind of day \nyou wouldn't wish on a fruit\nthief{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.",
+   "et": ""
+  }
+ ]
+}

@@ -1,0 +1,20 @@
+{
+ "file": "script/ENG/message/ta/q06/lost_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 02 00}{01 00 00 0a 00}What?!{01 00 00 14 00} You lost it? {07 0f 00}{01 00 00 14 00}Oh,\nno! Now you've really done\nit, {01 00 00 05 00}{04 02 00}!{03 02 00 01}",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 14 00}{07 04 00}Hey, {01 00 00 05 00}where is it?{01 01 00} {07 18 00}Oh, no!\nYou didn't lose it, {01 00 00 05 00}did you?{01 00 00 14 00}\nYou couldn't have!\n{07 1b 00}{01 00 00 0a 00}Ugh!{01 00 00 14 00} {01 00 00 05 00}Sometimes you act like\nyou're good for nothing, \n{01 00 00 0a 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 14 00}{07 02 00}{01 00 00 05 00}What?{01 01 00} {07 06 00}What happened?{01 00 00 0a 00}\nWhere'd you drop it?!{01 01 00}\n{07 05 00}{01 00 00 14 00}Ugh! You're so irresponsible!\nHow would YOU like it if I\ntook something of yours\nand just {07 01 00}{01 00 00 0a 00}left it somewhere!",
+   "et": ""
+  }
+ ]
+}

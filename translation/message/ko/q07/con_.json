@@ -1,0 +1,20 @@
+{
+ "file": "script/ENG/message/ko/q07/con_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 00 00}Must I really remind you\nabout what you promised to\ndo, {01 00 00 05 00}{04 02 00}?\nYou foolishly agreed to\ndeliver the letter to\n{ff 00 00 06}{04 10 00} {ff 00 00 00}on time. \n{07 15 00}Don't even think about\nflaking out on me,\n{01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 00 00}Hey {04 1f 00},{01 00 00 05 00} remember\nthat letter you're supposed\nto give to {ff 00 00 06}{04 10 00}{ff 00 00 00}?\n{07 15 00}You'd better deliver it\nbefore the deadline.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 11 00}or\nelse, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 00 00}I know you're a slacker\ntype that marches to your\nown beat, but{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n{07 16 00}You'd better not sit on\nthat letter too long! Take\nit to {ff 00 00 06}{04 10 00}{ff 00 00 00}!{01 00 00 05 00}\nDon't fail me now,\n{01 00 00 05 00}{04 1f 00}.{01 00 00 0f 00} You're giving\nme heartburn, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  }
+ ]
+}

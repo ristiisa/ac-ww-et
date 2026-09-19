@@ -1,0 +1,20 @@
+{
+ "file": "script/ENG/message/ha/q06/report_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 14 00}Man, you're like a human\nturbo engine,{01 00 00 0a 00} {04 1f 00}!\n\n{07 0b 00}So {01 00 00 05 00}what did {ff 00 00 06}{04 10 00}\n{ff 00 00 00}say, {01 00 00 05 00}{04 02 00}?",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 14 00}You did it, {01 00 00 05 00}{04 02 00}!\n\n\n{07 0b 00}How did {ff 00 00 06}{04 10 00}{ff 00 00 00} react\nto it?",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 14 00}Good job,{01 00 00 0a 00} {01 00 00 05 00}{04 02 00}!\n\n\n{07 0b 00}So, {01 00 00 05 00}how'd it go, huh?{01 00 00 05 00}\nWhat did {ff 00 00 06}{04 10 00} {ff 00 00 00}do?",
+   "et": ""
+  }
+ ]
+}

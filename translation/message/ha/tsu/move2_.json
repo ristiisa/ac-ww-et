@@ -1,0 +1,30 @@
+{
+ "file": "script/ENG/message/ha/tsu/move2_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 04 00}Hey, hey, chill, will ya?!{01 01 00}\n{07 16 00}I just moved here and I'm{01 00 00 05 00}\nstill pulling it together!\n{07 06 00}Gimme 'til tomorrow, \nwouldja, {01 00 00 05 00}{04 02 00}?",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "Hey, you!{01 00 00 05 00} {07 0b 00}You gonna help me\nmove in, {01 00 00 05 00}{04 02 00}?",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 16 00}Hold up a sec, chatty!{01 00 00 0a 00}\nI'm not done gettin' settled\nin yet, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 3,
+   "en": "{07 0b 00}What in the... {01 00 00 05 00}Where the\nheck, {01 00 00 05 00}{04 02 00}?\n\n{07 00 00}Did you see where I might\nhave put my jock strap?{01 00 00 05 00}\n{07 0b 00}I know I put it right there!",
+   "et": ""
+  },
+  {
+   "id": 4,
+   "en": "Look, I'm stoked you came\nto visit, but...\n\n{07 15 00}You can't come in yet!{01 00 00 05 00}\nYou hear me?! {01 00 00 05 00}YAAAAAARGH!{01 00 00 05 00}\nNot yet, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  }
+ ]
+}

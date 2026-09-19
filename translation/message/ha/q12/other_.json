@@ -1,0 +1,20 @@
+{
+ "file": "script/ENG/message/ha/q12/other_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 16 00}Man, I have been fighting\na NASTY bug until just\nrecently, {01 00 00 05 00}{04 02 00}!\n{07 00 00}Someone named {ff 00 00 05}{04 10 00} \n{ff 00 00 00}gave me some {ff 00 00 07}medicine{ff 00 00 00},\nthough, and I got better...\n{07 14 00}Good thing, too.{01 00 00 05 00} I was\nhaving these weird dreams\nabout space chickens.",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 16 00}I just recently turned the\ncorner on a really nasty\ncold, {01 00 00 05 00}{04 02 00}...\n{07 00 00}Boy, without the {ff 00 00 07}medicine{ff 00 00 00}\n{ff 00 00 05}{04 10 00} {ff 00 00 00}gave me...\n\n{07 15 00}I might've started losing\nsome serious muscle mass,\n{01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 16 00}I had one brutal cold for a\nwhile there, {01 00 00 05 00}{07 14 00}but now I feel\ntotally great!\n{07 0a 00}And it's all because good\nol' {ff 00 00 05}{04 10 00} {ff 00 00 00}got me\n{ff 00 00 07}medicine{ff 00 00 00}!{01 00 00 05 00} What a pal!\n{07 14 00}{0b 03 00}{04 1f 00}, if you see\n{ff 00 00 05}{04 10 00}{ff 00 00 00}, say \"ROCK ON!\"\nfor me, OK?",
+   "et": ""
+  }
+ ]
+}

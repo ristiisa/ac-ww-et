@@ -1,0 +1,20 @@
+{
+ "file": "script/ENG/message/ha/q01/nlose_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "Whoa, are you serious?{01 00 00 14 00}\nLooks like I underestimated\nyou a bit, {01 00 00 05 00}{04 02 00}!\n{07 14 00}You're gonna be my number-\none rival from now on, \n{04 1f 00}!{01 00 00 05 00} {0b 03 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "Dang! {01 00 00 14 00}{07 0b 00}How'd you catch one\nso fast, {01 00 00 05 00}{04 02 00}?\n\n{07 16 00}WEAK! {01 00 00 14 00}There goes my\nuntouchable world record{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "What?!{01 00 00 0f 00} You caught one\nalready? {01 00 00 05 00}That's insane!\n\n{07 14 00}Way to go,{01 00 00 05 00} {ff 00 00 05}{04 1f 00}{ff 00 00 00}!{01 00 00 05 00}\nYou rock, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  }
+ ]
+}

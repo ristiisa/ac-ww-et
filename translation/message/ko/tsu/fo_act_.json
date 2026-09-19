@@ -1,0 +1,90 @@
+{
+ "file": "script/ENG/message/ko/tsu/fo_act_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "I know this isn't like me,{01 00 00 05 00}\n{07 0a 00}{04 1f 00},{01 00 00 14 00} but how does\nthis sound?\n{07 14 00}You and me get together\nand go fossil hunting\nsometime, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{06 09 00 08 09 0a}",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{06 0c 00 0f 10}",
+   "et": ""
+  },
+  {
+   "id": 3,
+   "en": "{06 03 00 0d 0e}",
+   "et": ""
+  },
+  {
+   "id": 4,
+   "en": "{01 08 00}{07 02 00}STOP!{01 01 00} Don't even think about\ntaking up a hobby! It's way\ntoo dangerous!{01 00 00 05 00}\n{07 16 00}Once you start fossil\nhunting, it'll take over\nyour life, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 5,
+   "en": "{07 14 00}Fossils! {01 00 00 05 00}Sweet fossils...{01 00 00 05 00}\nWhere are you, my precious\nlittle stone bones?\n{07 10 00}Why can't I find them?!\n{07 05 00}Why do they mock me?!\n{01 00 00 05 00}{0b 03 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 6,
+   "en": "I never find fossils. Why do\nthey hide from me?! I just \nknow they're giggling at me.{01 00 00 05 00}\n{07 06 00}I'll find one even if I have \nto tear up the town with a\ntractor, {04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 7,
+   "en": "I thought that if I used \nthis old tool I'd find a \nfossil fast, {04 02 00}.\n{07 16 00}It's already {04 08 00}:{04 09 00}!{01 00 00 05 00}\n{07 06 00}And I've got nothing.\n{01 00 00 0a 00}NOTHING!",
+   "et": ""
+  },
+  {
+   "id": 8,
+   "en": "{0b 03 00}{04 1f 00},{01 00 00 0f 00} it's the\nperfect day for fossil\nhunting!\n{07 17 00}Quit being so shy!{01 00 00 0f 00} Just\nfollow me, all right,\n{01 00 00 05 00}{04 02 00}?\n{07 0d 00}Together, we might find\nsome answers hidden in\nthese solid chunks of time!",
+   "et": ""
+  },
+  {
+   "id": 9,
+   "en": "Yep. I'm hunting for fossils\nwithout an umbrella. In the\npouring rain. {01 00 00 05 00}{0b 03 00}{04 02 00}.\n{07 09 00}Whoop-dee-doo.\n",
+   "et": ""
+  },
+  {
+   "id": 10,
+   "en": "{07 15 00}I don't care how cold or\nrainy it gets out here,\n{01 00 00 05 00}{04 02 00}!\n{07 0d 00}I'm not giving up until I \nfind a fossil tooth bigger\nthan my head!",
+   "et": ""
+  },
+  {
+   "id": 11,
+   "en": "{07 0f 00}Maybe I live a sad and \nlonely existence, \n{01 00 00 05 00}{04 02 00}.\nBut it would be nice to\nhave someone to hunt\nfossils with.\nToo bad there's no room\nfor anyone else to live\nin my house{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 17 00}Man.{01 00 00 14 00} I wish I had a pad like\nyours, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 12,
+   "en": "{07 15 00}{0b 03 00}{04 1f 00}!{01 00 00 14 00} I am so\njealous! {0b 03 00}{01 00 00 05 00}{04 02 00}!!!\n\n{07 14 00}You've got roommates to\nhelp you find fossils,{01 00 00 05 00}\nbut I have to kick it solo. \n{07 0e 00}Of course{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{01 01 00} {07 03 00}I could never\nlive with someone like you!",
+   "et": ""
+  },
+  {
+   "id": 13,
+   "en": "You know, my grandpappy\nwas a really famous \npaleontologist.{01 00 00 05 00}\nHe found all kinds of\nrare bones, {01 00 00 05 00}{04 02 00}!\n\n{07 19 00}'Course, he had this weird\nhabit of snacking on dirt, \nso that might have helped.",
+   "et": ""
+  },
+  {
+   "id": 14,
+   "en": "{07 11 00}I know you're after my\nfossils.{01 00 00 05 00} Oh, yes...\nI know all about your plan.{01 00 00 05 00}\nDon't think I haven't seen\nyou stare and wring your \nhands, {01 00 00 05 00}hatching a plot!\nWell, your plot to steal my\nprecious beast relics has\nbeen FOILED, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 15,
+   "en": "{06 0a 00 0b 0c 0c 0c}",
+   "et": ""
+  },
+  {
+   "id": 16,
+   "en": "{07 14 00}I'm so happy that you \ntraveled to see our fine\ntown.\nMake yourself comfortable.\nKick back and enjoy your \nstay, {01 00 00 05 00}{04 02 00}!\n{07 15 00}But don't even think about\ndigging up fossils!{01 01 00}\nThey're mine! ALL MINE!!!",
+   "et": ""
+  }
+ ]
+}

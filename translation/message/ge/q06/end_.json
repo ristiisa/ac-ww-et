@@ -1,0 +1,20 @@
+{
+ "file": "script/ENG/message/ge/q06/end_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "OK, well,{01 00 00 05 00} if something else\ncomes up, I'll ask you\nagain, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 14 00}OK then, I'll definitely \ncome to you again,\n{01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 14 00}Thanks so much!{01 00 00 0a 00} I just\nmight ask for your help\nagain, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  }
+ ]
+}

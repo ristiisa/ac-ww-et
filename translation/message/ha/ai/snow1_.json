@@ -1,0 +1,65 @@
+{
+ "file": "script/ENG/message/ha/ai/snow1_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 14 00}YESSSSSSSSS! It's snowing!\n{01 00 00 05 00}{0b 03 00}{04 02 00}, yeah!!!\n\n{07 0a 00}Hey, {01 00 00 05 00}{ff 00 00 05}{04 1f 00}{ff 00 00 00}!\nDoesn't snow just get you\nall fired up?!",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 14 00}{0b 03 00}{01 06 00}Oh{01 07 00}.{01 00 00 0a 00}\nHey, it's {04 1f 00}.\n\n{07 07 00}I don't know why, but I'm\nfeeling kinda cold today,\n{01 00 00 05 00}{04 02 00}.\n{07 06 00}I feel like I let some \ntwig-face hop over me and\nthrow down a 360 jam!",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "BLARRRRG! My head{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}. It's\nfrozen solid!{01 00 00 05 00}{07 14 00}\n\n{07 15 00}Hold still!{01 00 00 0f 00} I want to\npractice my new head-\nbutting techniques!",
+   "et": ""
+  },
+  {
+   "id": 3,
+   "en": "{07 14 00}{0b 03 00}{01 06 00}YO{01 07 00}!{01 00 00 05 00}\n{0b 03 00}{04 1f 00}! {01 00 00 05 00}{0b 03 00}{04 02 00}!\n\n{07 00 00}Uhhh...{07 0b 00} Like, why is it that\nit only snows when it's\nwicked cold outside?\n{07 16 00}Have you, uhhh{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\never thought about that?\nWeird...right? {01 00 00 05 00}{0b 03 00}{04 02 00}?",
+   "et": ""
+  },
+  {
+   "id": 4,
+   "en": "{0b 03 00}{04 1f 00}!{01 00 00 05 00}\n{07 14 00}{0b 03 00}{01 06 00}What's the haps{01 07 00}!\n\n{07 15 00}Shoveling snow is so lame!\nI'll just do a few sets of\nsquats and melt it all away!",
+   "et": ""
+  },
+  {
+   "id": 5,
+   "en": "{07 14 00}Yo, {01 00 00 05 00}{04 1f 00}!{01 00 00 0a 00}\nCheck out the beefy\npythons on this snow dude!\n{07 0a 00}Making burly snow dudes\ngets me so dang pumped,\n{01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 6,
+   "en": "{07 07 00}It's getting so cold,\n{01 00 00 05 00}{04 02 00}!\nAm I right, {04 1f 00}?\n{07 00 00}Don't even think that's\ngonna stop me from working\nout.{01 00 00 05 00}{07 14 00} You gotta want it!",
+   "et": ""
+  },
+  {
+   "id": 7,
+   "en": "{07 14 00}Yo,{01 00 00 05 00} {04 1f 00}!{01 00 00 0a 00}\n{0b 03 00}{01 06 00}It's getting late{01 07 00}!\nAm I right, {01 00 00 05 00}{04 02 00}?\n{07 00 00}Hey, don't you think I look\nmagnificent pumping iron\nlate at night?\n{07 0d 00}Check out the way the\nmoonlight shines off my\nchiseled calves!",
+   "et": ""
+  },
+  {
+   "id": 8,
+   "en": "{07 14 00}{0b 03 00}{01 06 00}Howzit?{01 07 00}!{01 00 00 05 00}\nDoin' OK, {04 1f 00}?\n\n{07 00 00}Snow is so lazy!\nIt's disgusting! Look at it,\nloafin' around like that!\n{07 0d 00}Kinda reminds me of you,\n{01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 9,
+   "en": ".{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 04 00}Huh?!{01 00 00 14 00} That looks like{01 00 00 05 00}\n{07 00 00}the ghost of{07 0b 00} {04 1f 00}!\n{01 00 00 05 00}{0b 03 00}{04 02 00}?!?!\n{07 00 00}No, {01 00 00 05 00}{07 04 00}that's the real\n{04 1f 00}!{01 00 00 14 00} {07 16 00}Agggghhhhh!\n{01 00 00 05 00}Run for your life!!!",
+   "et": ""
+  },
+  {
+   "id": 10,
+   "en": "{ff 00 00 05}{07 01 00}{0b 03 00}{04 1f 00}{ff 00 00 00}!{01 00 00 0a 00} WAKE UP!!!\nYou can't take a nap now!!!{01 00 00 0a 00}\n{01 00 00 05 00}{0b 03 00}{04 02 00}!!!\n{07 06 00}We'll be buried alive!",
+   "et": ""
+  },
+  {
+   "id": 11,
+   "en": "{07 14 00}What up, {01 00 00 05 00}{04 1f 00}!{01 00 00 0a 00}\n{07 00 00}What are you doing up\nthis late?\n{07 0b 00}Me?{01 01 00}\n{07 00 00}Oh, you know, same ol',\nsame ol'.\nJust brainstorming lifting \nregimen ideas for\n{04 16 00}.",
+   "et": ""
+  }
+ ]
+}

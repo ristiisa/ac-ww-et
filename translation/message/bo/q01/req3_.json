@@ -1,0 +1,20 @@
+{
+ "file": "script/ENG/message/bo/q01/req3_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 0e 00}{01 00 00 0a 00}Um,{01 00 00 0a 00} you're good at\ncatching bugs,{01 00 00 05 00} right,\n{04 1f 00}?\nYeah{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00} {07 14 00}Then,{01 00 00 05 00} should we\ncompete to see who can\ncatch the rarest insect?\n{07 0d 00}We'll find a bug that gets\nshy when it sees someone it\ndoesn't know, {01 00 00 0a 00}kinda like me.\n{07 00 00}As for whose bug is shyest,{01 00 00 05 00}\n{07 11 00}since I'm the expert, I\nguess I'll be the judge.",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 0e 00}{01 00 00 0a 00}Now, I know you're a good\nbug catcher, {04 1f 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n{07 14 00}So,{01 00 00 05 00} here's a real challenge.\nLet's see who can catch{01 00 00 0a 00} a\nrarer bug,{01 00 00 0a 00} {04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 14 00}OK, {04 1f 00}, {01 00 00 05 00}I know you\nand the insects are all\nbuddy-buddy,{07 00 00}{01 00 00 0a 00} {04 02 00}.\n{07 0b 00}So how about for our next\ncompetition, we look for\nthe king of all bugs?\n{07 00 00}We have to look for rare\nbugs.{01 00 00 05 00} The kind you hardly\never see.\n{07 0d 00}The person who nabs the\nshyest bug wins,\n{01 00 00 0a 00}{04 02 00}!",
+   "et": ""
+  }
+ ]
+}

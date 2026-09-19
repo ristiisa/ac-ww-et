@@ -1,0 +1,20 @@
+{
+ "file": "script/ENG/message/ta/q05/talk1_2_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 00 00}I'm gonna have the complete\nset someday, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 16 00}It's not me, you say?{01 01 00} {07 00 00}Hmm.{01 00 00 14 00}\n{07 15 00}Well, a woman never forgets{01 00 00 0a 00}\nthe element of surprise!",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 14 00}But don't you think that{01 00 00 05 00}\nnothing screams \"me\" like\n{ff 00 00 07}{04 0f 00}{ff 00 00 00}?",
+   "et": ""
+  }
+ ]
+}

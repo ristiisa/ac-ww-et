@@ -1,0 +1,610 @@
+{
+ "file": "script/ENG/select/select.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "Let's talk!",
+   "et": "Räägime!"
+  },
+  {
+   "id": 1,
+   "en": "Give me news!",
+   "et": "Räägi uudiseid!"
+  },
+  {
+   "id": 2,
+   "en": "Let's chitchat!",
+   "et": "Lobiseme!"
+  },
+  {
+   "id": 3,
+   "en": "Got any gossip?",
+   "et": "Mõni kõlakas?"
+  },
+  {
+   "id": 4,
+   "en": "Speak to me!",
+   "et": "Räägi minuga!"
+  },
+  {
+   "id": 5,
+   "en": "Tell me a story!",
+   "et": "Jutusta lugu!"
+  },
+  {
+   "id": 6,
+   "en": "Tell me anything!",
+   "et": "Räägi ükskõik mida!"
+  },
+  {
+   "id": 7,
+   "en": "I'm here to talk!",
+   "et": "Tulin juttu ajama!"
+  },
+  {
+   "id": 8,
+   "en": "I'm killing time.",
+   "et": "Surnud aega veedan."
+  },
+  {
+   "id": 9,
+   "en": "I'm bored.",
+   "et": "Mul on igav."
+  },
+  {
+   "id": 10,
+   "en": "Nothing.",
+   "et": "Mitte midagi."
+  },
+  {
+   "id": 11,
+   "en": "Nothing really.",
+   "et": "Ei midagi erilist."
+  },
+  {
+   "id": 12,
+   "en": "I don't need you.",
+   "et": "Sind pole vaja."
+  },
+  {
+   "id": 13,
+   "en": "Oops, sorry!",
+   "et": "Oih, vabandust!"
+  },
+  {
+   "id": 14,
+   "en": "Made you look!",
+   "et": "Vaatasid ju!"
+  },
+  {
+   "id": 15,
+   "en": "Oops, my fault!",
+   "et": ""
+  },
+  {
+   "id": 16,
+   "en": "My mistake!",
+   "et": ""
+  },
+  {
+   "id": 17,
+   "en": "Uh, never mind.",
+   "et": ""
+  },
+  {
+   "id": 18,
+   "en": "Nothing, really.",
+   "et": ""
+  },
+  {
+   "id": 19,
+   "en": "Nothing.",
+   "et": ""
+  },
+  {
+   "id": 20,
+   "en": "How're you doing?",
+   "et": ""
+  },
+  {
+   "id": 21,
+   "en": "Need medicine?",
+   "et": ""
+  },
+  {
+   "id": 22,
+   "en": "Are you OK?",
+   "et": ""
+  },
+  {
+   "id": 23,
+   "en": "Take care.",
+   "et": ""
+  },
+  {
+   "id": 24,
+   "en": "I caught a fish!",
+   "et": ""
+  },
+  {
+   "id": 25,
+   "en": "I caught a bug!",
+   "et": ""
+  },
+  {
+   "id": 26,
+   "en": "Here's a fossil!",
+   "et": ""
+  },
+  {
+   "id": 27,
+   "en": "Clothe yourself!",
+   "et": ""
+  },
+  {
+   "id": 28,
+   "en": "Take this.",
+   "et": ""
+  },
+  {
+   "id": 29,
+   "en": "Delivery!",
+   "et": ""
+  },
+  {
+   "id": 30,
+   "en": "What did I need?",
+   "et": ""
+  },
+  {
+   "id": 31,
+   "en": "That's fine!",
+   "et": ""
+  },
+  {
+   "id": 32,
+   "en": "Not right now...",
+   "et": ""
+  },
+  {
+   "id": 33,
+   "en": "Leave it to me!",
+   "et": ""
+  },
+  {
+   "id": 34,
+   "en": "Another time...",
+   "et": ""
+  },
+  {
+   "id": 35,
+   "en": "I delivered it!",
+   "et": ""
+  },
+  {
+   "id": 36,
+   "en": "It was AWESOME!",
+   "et": ""
+  },
+  {
+   "id": 37,
+   "en": "It was all right.",
+   "et": ""
+  },
+  {
+   "id": 38,
+   "en": "It didn't work...",
+   "et": ""
+  },
+  {
+   "id": 39,
+   "en": "Your package...",
+   "et": ""
+  },
+  {
+   "id": 40,
+   "en": "Look at my bug!",
+   "et": ""
+  },
+  {
+   "id": 41,
+   "en": "You like my fish?",
+   "et": ""
+  },
+  {
+   "id": 42,
+   "en": "Letter!",
+   "et": ""
+  },
+  {
+   "id": 43,
+   "en": "A letter...",
+   "et": ""
+  },
+  {
+   "id": 44,
+   "en": "I found a key!",
+   "et": ""
+  },
+  {
+   "id": 45,
+   "en": "About the key...",
+   "et": ""
+  },
+  {
+   "id": 46,
+   "en": "Hide-and-seek?",
+   "et": ""
+  },
+  {
+   "id": 47,
+   "en": "Wrong...",
+   "et": ""
+  },
+  {
+   "id": 48,
+   "en": "You'll come when?",
+   "et": ""
+  },
+  {
+   "id": 49,
+   "en": "Our appointment?",
+   "et": ""
+  },
+  {
+   "id": 50,
+   "en": "I'm so happy!",
+   "et": ""
+  },
+  {
+   "id": 51,
+   "en": "So-so.",
+   "et": ""
+  },
+  {
+   "id": 52,
+   "en": "Good-bye.",
+   "et": ""
+  },
+  {
+   "id": 53,
+   "en": "I quit.",
+   "et": ""
+  },
+  {
+   "id": 54,
+   "en": "I bought it!",
+   "et": ""
+  },
+  {
+   "id": 55,
+   "en": "Don't go!",
+   "et": ""
+  },
+  {
+   "id": 56,
+   "en": "You can't leave!",
+   "et": ""
+  },
+  {
+   "id": 57,
+   "en": "Th-that can't be!",
+   "et": ""
+  },
+  {
+   "id": 58,
+   "en": "Take care.",
+   "et": ""
+  },
+  {
+   "id": 59,
+   "en": "Bye-bye!",
+   "et": ""
+  },
+  {
+   "id": 60,
+   "en": "Farewell...",
+   "et": ""
+  },
+  {
+   "id": 61,
+   "en": "{00 06 00}Someone else.",
+   "et": ""
+  },
+  {
+   "id": 62,
+   "en": "About that...",
+   "et": ""
+  },
+  {
+   "id": 63,
+   "en": "I can't sell that.",
+   "et": ""
+  },
+  {
+   "id": 64,
+   "en": "I guess I must.",
+   "et": ""
+  },
+  {
+   "id": 65,
+   "en": "I can't give that!",
+   "et": ""
+  },
+  {
+   "id": 66,
+   "en": "I'll sell it.",
+   "et": ""
+  },
+  {
+   "id": 67,
+   "en": "It didn't work!",
+   "et": ""
+  },
+  {
+   "id": 68,
+   "en": "You're hired!",
+   "et": ""
+  },
+  {
+   "id": 69,
+   "en": "Tell me!",
+   "et": ""
+  },
+  {
+   "id": 70,
+   "en": "Don't wanna know!",
+   "et": ""
+  },
+  {
+   "id": 71,
+   "en": "Wh-what?!?",
+   "et": ""
+  },
+  {
+   "id": 72,
+   "en": "Yup, that's right.",
+   "et": ""
+  },
+  {
+   "id": 73,
+   "en": "Do over.",
+   "et": ""
+  },
+  {
+   "id": 74,
+   "en": "That's fine.",
+   "et": ""
+  },
+  {
+   "id": 75,
+   "en": "Leave it to me!",
+   "et": ""
+  },
+  {
+   "id": 76,
+   "en": "I'll decide!",
+   "et": ""
+  },
+  {
+   "id": 77,
+   "en": "Understood!",
+   "et": ""
+  },
+  {
+   "id": 78,
+   "en": "I'll mull it over!",
+   "et": ""
+  },
+  {
+   "id": 79,
+   "en": "Consider it done!",
+   "et": ""
+  },
+  {
+   "id": 80,
+   "en": "That's fine as is.",
+   "et": ""
+  },
+  {
+   "id": 81,
+   "en": "Give it up.",
+   "et": ""
+  },
+  {
+   "id": 82,
+   "en": "That won't do.",
+   "et": ""
+  },
+  {
+   "id": 83,
+   "en": "Sorry!",
+   "et": ""
+  },
+  {
+   "id": 84,
+   "en": "It's fine as is.",
+   "et": ""
+  },
+  {
+   "id": 85,
+   "en": "Ew, no!",
+   "et": ""
+  },
+  {
+   "id": 86,
+   "en": "Uh, never mind.",
+   "et": ""
+  },
+  {
+   "id": 90,
+   "en": "Fits you to a T!",
+   "et": ""
+  },
+  {
+   "id": 91,
+   "en": "OK!",
+   "et": ""
+  },
+  {
+   "id": 92,
+   "en": "Sounds good!",
+   "et": ""
+  },
+  {
+   "id": 93,
+   "en": "That's fine!",
+   "et": ""
+  },
+  {
+   "id": 94,
+   "en": "I can't...",
+   "et": ""
+  },
+  {
+   "id": 95,
+   "en": "Maybe next time.",
+   "et": ""
+  },
+  {
+   "id": 96,
+   "en": "I can't...",
+   "et": ""
+  },
+  {
+   "id": 111,
+   "en": "Not really...",
+   "et": ""
+  },
+  {
+   "id": 120,
+   "en": "I don't care.",
+   "et": ""
+  },
+  {
+   "id": 121,
+   "en": "So what?",
+   "et": ""
+  },
+  {
+   "id": 122,
+   "en": "Ew, stand back!",
+   "et": ""
+  },
+  {
+   "id": 123,
+   "en": "Still contagious?",
+   "et": ""
+  },
+  {
+   "id": 124,
+   "en": "Gross!",
+   "et": ""
+  },
+  {
+   "id": 125,
+   "en": "Keep away, sicky!",
+   "et": ""
+  },
+  {
+   "id": 126,
+   "en": "Blech!",
+   "et": ""
+  },
+  {
+   "id": 127,
+   "en": "G-R-O-S-S!",
+   "et": ""
+  },
+  {
+   "id": 128,
+   "en": "And...?",
+   "et": ""
+  },
+  {
+   "id": 129,
+   "en": "Uh, adios!",
+   "et": ""
+  },
+  {
+   "id": 196,
+   "en": "Tell me!",
+   "et": ""
+  },
+  {
+   "id": 208,
+   "en": "Never mind.",
+   "et": ""
+  },
+  {
+   "id": 211,
+   "en": "I'll buy!",
+   "et": ""
+  },
+  {
+   "id": 213,
+   "en": "Save a letter.",
+   "et": ""
+  },
+  {
+   "id": 225,
+   "en": "Can I try it on?",
+   "et": ""
+  },
+  {
+   "id": 226,
+   "en": "Can I try it on?",
+   "et": ""
+  },
+  {
+   "id": 227,
+   "en": "Can I try it on?",
+   "et": ""
+  },
+  {
+   "id": 229,
+   "en": "I'll read more.",
+   "et": ""
+  },
+  {
+   "id": 230,
+   "en": "I'm done reading.",
+   "et": ""
+  },
+  {
+   "id": 235,
+   "en": "Mail a letter.",
+   "et": ""
+  },
+  {
+   "id": 236,
+   "en": "Access account.",
+   "et": ""
+  },
+  {
+   "id": 237,
+   "en": "Pay mortgage.",
+   "et": ""
+  },
+  {
+   "id": 238,
+   "en": "About the land...",
+   "et": ""
+  },
+  {
+   "id": 239,
+   "en": "Donate!",
+   "et": ""
+  },
+  {
+   "id": 240,
+   "en": "Moving details.",
+   "et": ""
+  },
+  {
+   "id": 255,
+   "en": "Move.",
+   "et": ""
+  }
+ ]
+}

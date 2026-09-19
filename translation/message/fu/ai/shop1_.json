@@ -1,0 +1,45 @@
+{
+ "file": "script/ENG/message/fu/ai/shop1_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 14 00}{ff 00 00 06}Tom Nook {ff 00 00 00}has the best\nselection of furniture\nin town,{01 00 00 05 00} {04 02 00}!\nI mean, true, he's got the\nonly selection in town, but\nstill.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n{07 19 00}Every time I come in here,\nI always find something new\nand exciting, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{0b 03 00}{04 1f 00}, fancy meeting\nyou here, {01 00 00 05 00}{04 02 00}!\n\n{07 0b 00}So how's the shopping\ngoing? Find anything you\njust can't live without?{07 00 00}\n{07 0d 00}I really want one of those!{01 00 00 0f 00}\nOh, and that looks good,\ntoo.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 14 00}{0b 03 00}{04 1f 00}, I can tell that\nyou've got a good eye for\nfurniture, {01 00 00 05 00}{04 02 00}.\n{07 0d 00}Have fun shopping, {01 00 00 05 00}but stay\nout of my way, just in\ncase, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 3,
+   "en": "{07 0e 00}Hmmmmm, {01 00 00 0a 00}maybe that's the\none.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n\nBut{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}. No, I'm not too hot\non that one. It doesn't\nreally go with my walls.\nBut look at that price. {01 00 00 05 00}It's\nhard to pass up.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\nWhat to do.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{04 02 00}?",
+   "et": ""
+  },
+  {
+   "id": 4,
+   "en": "{07 0b 00}{0b 03 00}{04 1f 00}, you're here?{01 00 00 0f 00}\n{07 00 00}I'm just looking around,\nreally{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\nAt least, that's what I'd\nplanned on doing, {01 00 00 0a 00}but{01 00 00 0f 00}\n{07 17 00}I'm not sure I can resist!\n{07 0e 00}There's only one way to\nsolve this.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0f 00}\n\nEenie meenie minie more,\nwhich will look best\non my floor, {01 00 00 05 00}{04 02 00}?",
+   "et": ""
+  },
+  {
+   "id": 5,
+   "en": "{07 0b 00}So? Have you decided what\nyou're going to get,\n{01 00 00 05 00}{04 02 00}?\n{07 0e 00}I haven't.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0f 00} I can't make up\nmy mind, {01 00 00 05 00}{04 02 00}.",
+   "et": ""
+  },
+  {
+   "id": 6,
+   "en": "A while ago,{01 00 00 0a 00} {ff 00 00 06}Tom Nook{ff 00 00 00} told\nme he wants to{01 01 00} put out a\nCD, {01 00 00 05 00}{04 02 00}.\n{07 09 00}He said he wants a top 40\nsingle, something we'll hear\nall day, every day.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n{07 16 00}I really hope he doesn't\nput out a CD.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{04 02 00}.",
+   "et": ""
+  },
+  {
+   "id": 7,
+   "en": "I'm not all that interested\nin collecting furniture.\n\n{07 0d 00}And yet,{01 00 00 05 00} the moment I walk\nin here, I suddenly get the\nurge to start buying stuff.\n{07 16 00}I think {ff 00 00 06}Tom Nook {ff 00 00 00}is pumping\nsomething into the air!",
+   "et": ""
+  }
+ ]
+}

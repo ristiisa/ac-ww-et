@@ -1,0 +1,30 @@
+{
+ "file": "script/ENG/message/ha/etc/hit_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 01 00}HEY!\n\n\n{07 05 00}Listen, I can handle the\npain, but someone else\nmight snap, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 05 00}Hey!{01 00 00 0a 00} {0b 03 00}{04 1f 00}!\n\n\nWhat's the big idea,\n{01 00 00 05 00}{04 02 00}?!",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 16 00}Ow!{01 00 00 0a 00} Oh, snap, {04 1f 00}...{01 00 00 05 00}\nIt's you!\n\n{07 05 00}I oughta be steamed, but...{01 00 00 05 00}\nthat kinda felt good,\n{01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 3,
+   "en": "{07 02 00}Better check yourself,\nfool!{01 00 00 0a 00} .{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 16 00}You...don't have \nmany friends, huh?!",
+   "et": ""
+  },
+  {
+   "id": 4,
+   "en": "{07 01 00}OUUUUUUUUUUCH!{01 00 00 0a 00} {07 05 00}Hey,\nmeathead, that's not\nfunny, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  }
+ ]
+}

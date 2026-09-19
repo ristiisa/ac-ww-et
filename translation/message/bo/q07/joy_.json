@@ -1,0 +1,20 @@
+{
+ "file": "script/ENG/message/bo/q07/joy_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 00 00}Oh, {01 00 00 0a 00}it's from {ff 00 00 06}{04 0f 00}{ff 00 00 00}.{01 01 00}\n{07 0b 00}I wonder what the letter\nsays,{01 00 00 0a 00} {04 02 00}?",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "Asking you to deliver a\nletter?{01 01 00} That's so like\n{ff 00 00 06}{04 0f 00}{ff 00 00 00}, {01 00 00 0a 00}{04 02 00}.",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 14 00}Oh!{01 00 00 0a 00} I've been waiting for a\nletter from {ff 00 00 06}{04 0f 00}{ff 00 00 00}!\n\n{07 14 00}But I'm surprised to see\nyou delivering it,\n{04 1f 00}.\nWhat's up with that?{01 00 00 05 00} Was\n{ff 00 00 06}{04 0f 00} {ff 00 00 00}too lazy to do\nit, {04 02 00}?",
+   "et": ""
+  }
+ ]
+}

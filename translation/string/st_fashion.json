@@ -1,0 +1,55 @@
+{
+ "file": "script/ENG/string/st_fashion.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "cute",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "cool",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "conservative",
+   "et": ""
+  },
+  {
+   "id": 3,
+   "en": "gauche",
+   "et": ""
+  },
+  {
+   "id": 4,
+   "en": "funky",
+   "et": ""
+  },
+  {
+   "id": 5,
+   "en": "hip",
+   "et": ""
+  },
+  {
+   "id": 6,
+   "en": "severe",
+   "et": ""
+  },
+  {
+   "id": 7,
+   "en": "charming",
+   "et": ""
+  },
+  {
+   "id": 8,
+   "en": "fancy",
+   "et": ""
+  },
+  {
+   "id": 9,
+   "en": "zany",
+   "et": ""
+  }
+ ]
+}

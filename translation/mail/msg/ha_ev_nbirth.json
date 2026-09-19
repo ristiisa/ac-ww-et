@@ -1,0 +1,20 @@
+{
+ "file": "script/ENG/mail/msg/ha_ev_nbirth.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "Dude! My birthday! It's on\n{04 11 00} {04 12 00}, and I'm\nhaving a par-tay! Come\nbring me a present, yo?",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "Hey, man, didya know that\n{04 11 00} {04 12 00} is my\nbirthday? I'm having a\nHUGE party, so come!",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "Guess what? I was born on\n{04 11 00} {04 12 00}, so it's\nalmost my b-day! Come to\nthe party! Bring a gift!",
+   "et": ""
+  }
+ ]
+}

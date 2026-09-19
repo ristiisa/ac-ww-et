@@ -1,0 +1,20 @@
+{
+ "file": "script/ENG/message/ta/q07/con_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 00 00}That letter's for \n{ff 00 00 06}{04 10 00}{ff 00 00 00}.\n\n{07 14 00}As long as you deliver it \nby the time you promised,{01 00 00 05 00}\nI won't squawk at you.",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 16 00}Hey, {04 1f 00}! I don't\nwanna rush you or\nanything, but...\n{07 14 00}If you don't get my letter\nto {ff 00 00 06}{04 10 00}{ff 00 00 00} on time,{01 00 00 0a 00}\nI'll pout at you.",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 00 00}Hey, {01 00 00 05 00}{04 1f 00},{01 00 00 0a 00} you still\nhave that letter for\n{ff 00 00 06}{04 10 00}{ff 00 00 00}, {07 0b 00}don't you?\n{07 00 00}Deliver it by the time\nwe agreed, OK, {01 00 00 0a 00}{04 02 00}?{01 01 00}\nOr you'll regret it!",
+   "et": ""
+  }
+ ]
+}

@@ -1,0 +1,15 @@
+{
+ "file": "script/ENG/message/ge/q01/pdraw_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 1d 00}Whoa!{01 00 00 0a 00} That must be{01 00 00 05 00}\n{04 1c 00}!\n\n{07 00 00}But{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{04 02 00}! I've got\n{04 1d 00}!\n\n{07 0e 00}So, uhhhh{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 01 00} {07 16 00}I guess that\nmeans it's a tie!\n\n{07 14 00}OK, here's your bug back.{01 01 00}\nHow about a big rematch\nsometime?",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 1d 00}Craziness!{01 00 00 0a 00} Is that\n{04 1c 00}?!\n\n{07 16 00}But that's just as cool as\nmy {0b 02 00}{04 1d 00}!\nHow is that even possible?!\n{07 00 00}That means this match\nis a tie!\n\n{07 15 00}Wow, {04 1f 00}!{01 00 00 05 00} You're\npretty tough competition,\n{01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  }
+ ]
+}

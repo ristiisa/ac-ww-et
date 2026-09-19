@@ -1,0 +1,20 @@
+{
+ "file": "script/ENG/message/ge/q07/end_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 14 00}Thank you so, SO much,\nas always, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 0d 00}You're such a huge help,\n{01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 14 00}Gosh, {04 1f 00}, {01 00 00 05 00}thanks!{01 00 00 05 00}\nYou rule, {04 02 00}!",
+   "et": ""
+  }
+ ]
+}

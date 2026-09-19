@@ -1,0 +1,20 @@
+{
+ "file": "script/ENG/message/ko/q05/thanks_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 04 00}Whoa! That is one swanky\n{0b 02 00}{04 1a 00}!\n\n{07 02 00}What?!{01 00 00 0f 00} You got it for me?\n{07 06 00}I totally wanted{01 00 00 03 00}\n{ff 00 00 02}{04 0f 00}{ff 00 00 00}!",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 04 00}Whoa{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00} {07 0b 00}You brought me\n{04 1a 00}?\n\n{07 16 00}I always wanted one \nof these!{01 00 00 14 00} You're a real\nchamp, kid.",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 1d 00}Whoa! {01 00 00 0f 00}Are you serious?!{01 00 00 14 00}\n{0b 03 00}{04 1a 00}!\n\n{07 00 00}Sure, I was collecting\n{ff 00 00 02}{04 0f 00}{ff 00 00 00},\nbut{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}{01 00 00 05 00}\n{07 08 00}I didn't think you'd actually\nbring me this{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}\n{07 14 00}Thanks, {01 00 00 0f 00}{04 1f 00}!",
+   "et": ""
+  }
+ ]
+}

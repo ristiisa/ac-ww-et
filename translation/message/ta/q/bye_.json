@@ -1,0 +1,20 @@
+{
+ "file": "script/ENG/message/ta/q/bye_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 00 00}Well, {01 00 00 05 00}I'm gonna go now.{01 00 00 14 00}\n{07 14 00}Au revoir, {01 00 00 0a 00}{04 02 00}.",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 00 00}OK then,{01 00 00 0a 00} I'm leaving now.\nTry not to cry.{01 00 00 14 00} {07 14 00}See ya,\n{01 00 00 0a 00}{04 02 00}.",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 00 00}All righty then,{01 00 00 05 00} that's it\nfor now!{01 00 00 14 00} {07 14 00}Until we meet\nagain, {01 00 00 0a 00}{04 1f 00}!",
+   "et": ""
+  }
+ ]
+}

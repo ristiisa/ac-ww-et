@@ -1,0 +1,20 @@
+{
+ "file": "script/ENG/message/fu/q01/req1_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 00 00}Have you ever gotten a\nreally good look at a bug,\n{01 00 00 05 00}{04 02 00}?\nTake, for example, the\n{0b 02 00}{04 1a 00}.{01 01 00}\n{07 13 00}I love how shiny it is!\n{07 06 00}I don't know if you've seen\nany around, {01 00 00 05 00}{04 1f 00},\nbut if you do, catch one!\n{07 00 00}In fact, let's have a little\ncontest to see who can\ncatch one first!\nAll you have to do is catch\n{04 1a 00}\nbefore I do, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 00 00}People think bugs are\ngross, but I think that's\njust because of ignorance.\nOnce you get to know them,{07 14 00}\nbugs have their own kind\nof cuteness, {01 00 00 05 00}{04 02 00}.\n{07 13 00}I could just drown in those\nbottomless, multifaceted\neyes, {01 00 00 05 00}{04 02 00}.\n{07 00 00}You know what we should do,\n{01 00 00 05 00}{04 1f 00}?{01 00 00 0f 00} We should have\na contest, {01 00 00 05 00}{04 02 00}!\nLet's see who can catch\n{04 1a 00}\nfirst: you or me!",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 00 00}It's one of the sad facts\nof adult life that people\nlose interest in insects.\n{07 14 00}Being in touch with insects\nis like being in touch with\nyour inner child.\nYou're always young at\nheart when you've got a\nbug in your pants!\n{07 00 00}In this case, specifically\n{04 1a 00}.\nThat's the one I'm after.\n{0b 03 00}{04 1f 00}, {07 0b 00}would you be\ninterested in taking on a\nlittle challenge?\n{07 0d 00}See if you can catch\n{04 1a 00}\nbefore I do, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  }
+ ]
+}

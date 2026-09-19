@@ -1,0 +1,20 @@
+{
+ "file": "script/ENG/message/ha/q07/report_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 1d 00}Hey!{01 00 00 14 00} {07 14 00}Looks like you made it\njust under the wire,\n{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 14 00}Sweet, {01 00 00 05 00}right on time!{01 00 00 05 00}\nRock on, {04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 14 00}Whoa nelly, {04 1f 00}!{01 00 00 0a 00}\n{07 06 00}You're turbo, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  }
+ ]
+}

@@ -1,0 +1,35 @@
+{
+ "file": "script/ENG/message/fu/ai/7days_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 04 00}Oh!{01 00 00 0a 00} {0b 03 00}{04 1f 00}!{01 00 00 05 00}\n\n\nIt.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} It IS {04 1f 00},\nisn't it?{01 00 00 0f 00}\n{07 14 00}How you been, {01 00 00 05 00}{04 02 00}?",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 04 00}Oh.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} Look at you!\n{07 14 00}So you've finally decided\nto drop by, {04 1f 00}?\n{07 0b 00}Have you been on vacation\nor something?\n\n{07 00 00}I've missed you so\nmuch, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "Listen up, {04 1f 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} I\nknow it's only been {04 11 00} weeks\nsince we talked, but.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n{07 09 00}I missed you.\n\n\n{07 16 00}I was all alone.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} I had to\n{04 22 00} all by\nmyself, {01 00 00 05 00}{04 02 00}.",
+   "et": ""
+  },
+  {
+   "id": 3,
+   "en": "{07 16 00}What happened to you? You\nup and disappear for, like,\n{04 11 00} weeks?\nI've been so worried that\nI might have said something\nto make you upset.\n{07 00 00}Thank goodness you've come\nto see me at last. {07 14 00}I feel\nso relieved, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 4,
+   "en": "{0b 03 00}{01 06 00}Long time, no see,{01 07 00}\n{01 00 00 05 00}{04 02 00}.\n\n{07 0b 00}Is it just me, or have you\ngrown a lot in the past\nfew days, {01 00 00 05 00}{04 02 00}?\n{07 00 00}Well, we can still go\n{04 22 00} together,{01 00 00 05 00}\n{07 14 00}right, {04 1f 00}?",
+   "et": ""
+  },
+  {
+   "id": 5,
+   "en": "{07 04 00}Oh! {01 00 00 0a 00}{0b 03 00}{04 1f 00}! I've\nfinally found you! After\nall this time, {01 00 00 05 00}{04 02 00}!\n{07 16 00}I can't believe you left\nfor {04 11 00} weeks\nwithout telling me.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n{07 10 00}I wish you'd said something\nbefore leaving, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  }
+ ]
+}

@@ -1,0 +1,20 @@
+{
+ "file": "script/ENG/message/bo/q07/open_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 04 00}By the way,{01 00 00 0f 00} you read that\nletter to {ff 00 00 06}{04 10 00}{ff 00 00 00},{01 00 00 05 00}\ndidn't you?\n{07 16 00}I{01 00 00 05 00} trusted you{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}. I thought\nyou were my pal.{01 01 00} {07 15 00}{01 00 00 0a 00}Grrrr!{01 00 00 14 00}{01 00 00 0a 00}\nGimme that letter back!",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 00 00}Um{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00}{07 16 00}{01 00 00 05 00}did you{01 00 00 05 00} open that\nletter I gave you?\n\n{07 06 00}How could you?!{01 00 00 14 00} You gave\nyour word! You PROMISED ME!{01 00 00 05 00}\nI'm so humiliated.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n{07 08 00}If you keep doing stuff like\nthat, no one will ever trust\nyou again!\n{07 16 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}Can you just give me\nmy letter back, please,{01 00 00 0a 00}\n{04 02 00}?",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 04 00}Oh!{01 01 00} {0b 03 00}{04 1f 00}? {07 15 00}You went\nand read my letter, didn't\nyou,{01 00 00 0a 00} {04 02 00}?\n{07 08 00}That's just mean!{01 00 00 14 00} I told you\nI didn't want anyone reading\nit! You're just a big snoop!\n{07 16 00}I'm gonna{01 00 00 05 00} go apologize to\n{ff 00 00 06}{04 10 00}{ff 00 00 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 01 00}{07 15 00}{01 00 00 0a 00} Now gimme\nback my letter!{03 03 00 03}",
+   "et": ""
+  }
+ ]
+}

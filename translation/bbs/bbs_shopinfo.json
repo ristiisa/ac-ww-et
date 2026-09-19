@@ -1,0 +1,35 @@
+{
+ "file": "script/ENG/bbs/bbs_shopinfo.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "     **Nook Notice!**\n\nThere'll be a Point Special\non {04 0f 00} {04 10 00}. You\nget FIVE TIMES the normal\npoints! Buy! Buy! Buy!",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "     **Nook Notice**\n\nOur Point Special is\ncoming up on {04 0f 00}\n{04 10 00}! Come get five\ntimes the points! Oh, my!",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "   **Dear Customers**\n\nToday, there will be a\nspecial, one-time sale!\nEverything half-price!\n{04 11 00} p.m. sharp!",
+   "et": ""
+  },
+  {
+   "id": 3,
+   "en": "   **Dear Customers**\n\nClearance sale today!\nEverything half off!\n{04 11 00} p.m. sharp!",
+   "et": ""
+  },
+  {
+   "id": 4,
+   "en": "  **Emergency Notice**\n\nToday we have a very\nspecial item in stock!\nThe {04 12 00}!\nCome and get it!",
+   "et": ""
+  },
+  {
+   "id": 5,
+   "en": "  **Emergency Notice**\n\nFaithful customers!\nIf you've ever wanted\nthe {04 12 00},\nnow's your chance!",
+   "et": ""
+  }
+ ]
+}

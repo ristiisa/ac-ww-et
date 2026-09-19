@@ -1,0 +1,20 @@
+{
+ "file": "script/ENG/message/ge/q07/open_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 04 00}Hey, hang on, {01 00 00 05 00}that letter\nlooks like it's been{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n{07 02 00}EEEEEEEEEEEEEEEEEEEEK!\n{07 08 00}Why is it all torn?!{01 00 00 0a 00}\nOh, I can't believe this,\n{01 00 00 05 00}{04 02 00}!\nNow I have to rewrite the\nwhole thing! {01 00 00 05 00}Gimme back\nthat one!{03 02 00 01}",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 00 00}I gotta ask, {04 1f 00}...{01 00 00 05 00}\n{07 0e 00}That letter is{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}the one I\ngave you, right?\n{07 01 00}Then{01 00 00 03 00}{01 08 00} WHY IS IT OPEN?!{01 01 00}\n{07 15 00}That's a breach of privacy!{01 00 00 0a 00}\nGimme that, {01 00 00 05 00}{04 02 00}!{03 02 00 01}",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 0b 00}Huh?!{01 00 00 0a 00} Wait, that letter{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n\n\n{07 02 00}That just CAN'T be the one\nI asked you to deliver!{01 00 00 14 00}\n{07 15 00}Did you...{01 00 00 05 00}open it?\n{07 05 00}You horrible person!{01 01 00}\n{07 15 00}AIIGH!! {01 00 00 05 00}I can't believe you!{01 00 00 0a 00}\nGive it back, {01 00 00 05 00}{04 02 00}!{03 02 00 01}",
+   "et": ""
+  }
+ ]
+}

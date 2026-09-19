@@ -1,0 +1,20 @@
+{
+ "file": "script/ENG/message/ge/q07/report_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 04 00}Wow, {01 00 00 05 00}totally in time, too!{01 01 00}\n{07 14 00}{0b 03 00}{04 1f 00},{01 00 00 05 00} you rule!",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 14 00}Thanks!{01 00 00 0a 00} You're a HUGE help,\n{01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 14 00}Awesome job!{01 00 00 0a 00} Ain't no thing\nfor you, huh, {01 00 00 05 00}{04 02 00}?",
+   "et": ""
+  }
+ ]
+}

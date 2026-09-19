@@ -1,0 +1,35 @@
+{
+ "file": "script/ENG/message/ta/ai/foreign_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 04 00}You're{01 00 00 0a 00} {04 1f 00}, right?\n{01 00 00 14 00}{07 0a 00}Oh, I haven't seen you since\nthat time in {ff 00 00 08}{04 10 00}{ff 00 00 00}.{ff 00 00 08}\n{ff 00 00 00}{07 14 00}Needless to say, I'm still\nhappy and healthy as ever,\n{01 00 00 0a 00}{04 02 00}! And cute!",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 14 00}Hey, {01 00 00 05 00}{04 1f 00}.{01 00 00 0a 00}\nHow are you, {01 00 00 0a 00}{04 02 00}?\nLet's see{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n{07 00 00}Wasn't the last time we saw\neach other in {ff 00 00 08}{04 10 00}{ff 00 00 00},\n{04 02 00}? {07 16 00}Have you{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 0b 00}{01 00 00 05 00}\nHave you gained weight?{01 01 00} {07 14 00}Oh,\n{01 00 00 05 00}right.{01 00 00 14 00} See, I lost weight, so{01 00 00 05 00}\neveryone looks huge to me!",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 18 00}No way!{01 00 00 0a 00} You aren't {01 00 00 05 00}\n{04 1f 00}, are you?\n\n{07 0b 00}{01 00 00 05 00}We met the other day in\n{ff 00 00 08}{04 10 00}{ff 00 00 00}, didn't we,\n{01 00 00 0a 00}{04 02 00}?\n{07 00 00}I thought that we'd never\never meet again{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 14 00}\n{07 14 00}What a lucky coincidence!",
+   "et": ""
+  },
+  {
+   "id": 3,
+   "en": "{07 0e 00}{01 00 00 0a 00}You{01 00 00 05 00} wouldn't happen to be{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 14 00}{07 0c 00}{01 00 00 0a 00}\n{04 1f 00}, would you?\n\n{07 14 00}Remember when we met in\n{ff 00 00 08}{04 10 00}{ff 00 00 00}, {01 00 00 0a 00}{04 02 00}?\n{07 15 00}What,{01 00 00 0a 00} you don't remember?\nBut no one forgets ME!\n{07 16 00}Well, I never.{01 00 00 0f 00} I'm so\nembarrassed, {01 00 00 0a 00}{04 02 00}!\n{07 15 00}Don't you know, at times\nlike this, it's best just to\nsmile and nod, {01 00 00 0a 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 4,
+   "en": "{07 04 00}My my my,{01 00 00 05 00} {04 1f 00}!\n{07 14 00}I {01 00 00 05 00}just recently moved from\n{ff 00 00 08}{04 10 00}{ff 00 00 00}!\n{01 00 00 0a 00}{07 1b 00}{01 00 00 05 00}Now that we live{01 00 00 0a 00} in the\nsame town, don't be a\nstranger, OK, {01 00 00 0a 00}{04 02 00}?",
+   "et": ""
+  },
+  {
+   "id": 5,
+   "en": "{07 02 00}Oh, hi...{01 00 00 0a 00}{04 1f 00}?{01 01 00}\n{07 14 00}How long has it been? {01 00 00 0a 00}\n\n{07 00 00}The last time I saw you,{01 00 00 0a 00}\nwe were in {ff 00 00 08}{04 10 00}{ff 00 00 00},\nisn't that right?\n{01 00 00 0a 00}{07 1b 00}{01 00 00 05 00}You still look as nervous\nand fidgety{01 00 00 0a 00} as ever,{01 00 00 0a 00}\n{04 02 00}.",
+   "et": ""
+  }
+ ]
+}

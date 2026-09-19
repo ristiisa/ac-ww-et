@@ -1,0 +1,65 @@
+{
+ "file": "script/ENG/message/ko/tsu/ghome_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "Hey, you!{01 00 00 0f 00} Yeah... You!\n{07 0e 00}How big is your house,\n{01 00 00 05 00}{04 02 00}?\n{07 00 00}There's this kid in this\ntown that kinda looks like\nyou, actually...\n{06 04 00 03 04 05 06}",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 0b 00}This is your first time in \n{04 03 00}, right?{02 00 00 07 08}\nPretty much.\nNope.",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "So how does {04 03 00}{01 00 00 0f 00}\n{07 0b 00}compare to where you live?{05 05 00 05 09 03 0a 03 0a 05 0b}\nLoads better!\nWay worse!",
+   "et": ""
+  },
+  {
+   "id": 3,
+   "en": "{07 1b 00}Yeah, that kid's got a lot\nof nothing!\n\nI've seen shipping crates\nmore spacious than that \nkid's house!",
+   "et": ""
+  },
+  {
+   "id": 4,
+   "en": "{07 16 00}Yeah, that kid's been busy!\n\n\n{07 03 00}Your house probably isn't\nhalf the size of that kid's\nmonster place, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 5,
+   "en": "{07 19 00}That kid's got a palace!{01 00 00 14 00}{07 14 00} \nYou should check it out\nsometime, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 6,
+   "en": "{07 16 00}That kid's filthy rich!\n\n\n{07 15 00}Why can't I live in a place\nlike that?!",
+   "et": ""
+  },
+  {
+   "id": 7,
+   "en": "{07 03 00}Hah!{01 00 00 14 00} Don't sweat it!\n{0b 03 00}{01 00 00 05 00}{04 02 00}!\n\n{07 11 00}Just listen to me, {01 00 00 05 00}and no\none will get hurt!",
+   "et": ""
+  },
+  {
+   "id": 8,
+   "en": "{07 0e 00}So you're quite a world\ntraveler, eh?{01 00 00 05 00} {07 15 00}Quit being so\nungrateful, {04 1f 00}!\nThere are people who would \n{07 05 00}give anything to visit \nanother town, but can't!\nAm I making myself clear,\n{01 00 00 05 00}{04 02 00}?!",
+   "et": ""
+  },
+  {
+   "id": 9,
+   "en": "{07 15 00}You know{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0f 00} I can't handle\nit when some fool\nbad-mouths my town!\n{07 05 00}I think you'd better back\noff for a while, \n{01 00 00 05 00}{04 02 00}!{03 02 00 02}",
+   "et": ""
+  },
+  {
+   "id": 10,
+   "en": "{07 0e 00}Hmmm...{01 00 00 14 00} So you went with\nthe safe response, eh?\n\n{07 15 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}Well, I can see right\nthrough your lies,\nkid! {01 00 00 05 00}{0b 03 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 11,
+   "en": "{07 04 00}Really, {01 00 00 05 00}{04 02 00}?\nAmazing. We actually agree \non something.\n{07 14 00}Why don't you start making\nplans to move to \n{04 03 00}, {01 00 00 05 00}{04 02 00}?\n{07 0a 00}Be sure to let me be the\nfirst person to tell you\nthat your house is ugly!{01 00 00 14 00}\n{0b 03 00}{01 00 00 05 00}{04 02 00}!{03 01 00 01}",
+   "et": ""
+  }
+ ]
+}

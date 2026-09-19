@@ -1,0 +1,65 @@
+{
+ "file": "script/ENG/string/st_constellation.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "Capricorn",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "Aquarius",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "Pisces",
+   "et": ""
+  },
+  {
+   "id": 3,
+   "en": "Aries",
+   "et": ""
+  },
+  {
+   "id": 4,
+   "en": "Taurus",
+   "et": ""
+  },
+  {
+   "id": 5,
+   "en": "Gemini",
+   "et": ""
+  },
+  {
+   "id": 6,
+   "en": "Cancer",
+   "et": ""
+  },
+  {
+   "id": 7,
+   "en": "Leo",
+   "et": ""
+  },
+  {
+   "id": 8,
+   "en": "Virgo",
+   "et": ""
+  },
+  {
+   "id": 9,
+   "en": "Libra",
+   "et": ""
+  },
+  {
+   "id": 10,
+   "en": "Scorpio",
+   "et": ""
+  },
+  {
+   "id": 11,
+   "en": "Sagittarius",
+   "et": ""
+  }
+ ]
+}

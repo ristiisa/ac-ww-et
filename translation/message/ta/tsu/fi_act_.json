@@ -1,0 +1,110 @@
+{
+ "file": "script/ENG/message/ta/tsu/fi_act_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{06 01 00 12 13 14}",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{06 06 00 08 09 0a}",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{06 08 00 0b 0c 0d 0e}",
+   "et": ""
+  },
+  {
+   "id": 3,
+   "en": "{07 0b 00}Hey, {04 1f 00}, do you\nwant to fish with me?\n{01 00 00 05 00}{0b 03 00}{04 02 00}?\n{07 14 00}Let's team up! I'm all about\ncatching {04 1a 00}!",
+   "et": ""
+  },
+  {
+   "id": 4,
+   "en": "{07 14 00}You should really try\nfishing around a waterfall,\n{01 00 00 0a 00}{04 02 00}.\n{07 0a 00}{01 00 00 0a 00}They're full of negative\nions that are proven to be\npositive for your skin!",
+   "et": ""
+  },
+  {
+   "id": 5,
+   "en": "{01 00 00 0a 00}{07 1b 00}Hee!{01 00 00 0f 00} I'll bet you thought\nI was holding a regular old\n{ff 00 00 07}fishing rod{ff 00 00 00}, huh?\n{07 14 00}It's actually the hippest,\nhottest exercise machine\naround, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 6,
+   "en": "{06 09 00 0f 10 11}",
+   "et": ""
+  },
+  {
+   "id": 7,
+   "en": "{07 16 00}Suddenly, I was struck with\nan urge to catch\n{01 00 00 05 00}{04 1a 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\nBelieve it or not, my ex\nand I used to while away\nentire days{01 00 00 05 00} {07 09 00}fishing{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.",
+   "et": ""
+  },
+  {
+   "id": 8,
+   "en": "{07 1d 00}{01 00 00 0a 00}Really? {01 00 00 0a 00}So you're collecting\nfish, too, {04 1f 00}?\n{01 00 00 0a 00}{0b 03 00}{04 02 00}?\n{01 00 00 0a 00}{07 1b 00}Yeah,{01 00 00 0a 00} I totally agree. {01 00 00 0a 00}It's\none thing to do it and{01 00 00 05 00}\nanother to perfect it.",
+   "et": ""
+  },
+  {
+   "id": 9,
+   "en": "{07 1d 00}{01 00 00 0a 00}Whoa!{01 00 00 0f 00} Look at that! You've\ncollected quite a few fish\nthere, {01 00 00 14 00}{07 14 00}haven't you!\n{01 00 00 0a 00}{07 1b 00}You don't look like it, {01 00 00 0a 00}\nbut you're a DO-er, huh?{01 00 00 0f 00}\nHuh.{01 00 00 0a 00} {07 14 00}Who knew, {01 00 00 05 00}{04 02 00}?",
+   "et": ""
+  },
+  {
+   "id": 10,
+   "en": "{07 1d 00}{01 00 00 0a 00}What!{01 00 00 14 00} Did you catch every\nkind of fish there is,\n{04 1f 00}!?{01 00 00 05 00}\n{07 1a 00}{01 00 00 0a 00}Wow!{01 00 00 14 00} A standing ovation just\npour vous!{01 00 00 0a 00} {07 0a 00}Hee hee! Don't I\nsound so international?",
+   "et": ""
+  },
+  {
+   "id": 11,
+   "en": "{07 14 00}If you're gonna fish, you're\nbetter off doing it in the\nmorning, that's for sure!\n{07 19 00}That crisp morning air.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\nIt's so refreshing even the\nfish come out to enjoy it!",
+   "et": ""
+  },
+  {
+   "id": 12,
+   "en": "{07 0e 00}{01 00 00 0a 00}I want to try night fishing\nfor a change, {01 00 00 0a 00}{04 02 00}!\n\n{01 00 00 05 00}{07 13 00}{01 00 00 0a 00}In the darkness of night,\nI'm sure to meet that\nspecial someone!",
+   "et": ""
+  },
+  {
+   "id": 13,
+   "en": "{07 14 00}I fancy the twilight hours\nand always have,\n{01 00 00 0a 00}{04 02 00}.\n{01 00 00 05 00}{07 13 00}{01 00 00 0a 00}I always get the feeling\nthat a fisherboy might\ncome up and talk to me.",
+   "et": ""
+  },
+  {
+   "id": 14,
+   "en": "{07 16 00}Fishing this late at night\nmakes my heart race{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n\n{01 00 00 05 00}{07 13 00}{01 00 00 0a 00}It makes me feel like I'm on\nan adventure or something,\n{01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 15,
+   "en": "{07 00 00}Ahh, {01 00 00 0a 00}it's such a nice day,{01 00 00 05 00} I\nthought I'd try my luck at\nfishing{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 14 00}I wonder if there's a cute\n{0b 02 00}{04 1a 00}\ndown there? {01 00 00 0a 00}{0b 03 00}{04 02 00}?",
+   "et": ""
+  },
+  {
+   "id": 16,
+   "en": "{07 16 00}On rainy days,{01 00 00 0a 00} I can't just\nsit at home quietly,\n{01 00 00 0a 00}{04 02 00}.\n{07 09 00}Sitting alone thinking about\nmy exes is just a total\nwaste of time, right?",
+   "et": ""
+  },
+  {
+   "id": 17,
+   "en": "{07 19 00}Snowy days are my favorite\ndays to go fishing with\nother people.\n{07 00 00}I just love sitting there,\nthe cold, soft snow falling\non my face{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00}\n{07 0c 00}It doesn't get more\nromantic than that, huh.\n{01 00 00 0a 00}{0b 03 00}{04 02 00}?",
+   "et": ""
+  },
+  {
+   "id": 18,
+   "en": "{07 15 00}If you really believe that\nyou'll catch something,\nyou will catch something.\n{07 0e 00}{01 00 00 0a 00}If you go into it with a\nlaid-back approach, you'll\nnever catch anything!\n{07 14 00}Tee hee, it's kinda like love\nin a way, huh, {01 00 00 0a 00}{04 02 00}?\nBut without the lipstick.",
+   "et": ""
+  },
+  {
+   "id": 19,
+   "en": "{07 15 00}I'd like to catch\n{04 1a 00}, so\ntell me if you see one!\n{07 00 00}One of my goals is to catch{07 05 00}\none{01 00 00 05 00}--no, ten!--of those{01 00 00 05 00}\ntoday, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 20,
+   "en": "{01 00 00 0a 00}{07 1b 00}The {0b 02 00}{04 1a 00}\nis an elusive beast,\n{04 02 00}!\nI haven't had a\nsingle bite yet{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}!\n\n{07 15 00}That{01 00 00 05 00} just fuels my fire\neven more, {01 00 00 05 00}{04 02 00}!\nI'll show them who's boss!",
+   "et": ""
+  }
+ ]
+}

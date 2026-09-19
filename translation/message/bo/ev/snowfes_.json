@@ -1,0 +1,105 @@
+{
+ "file": "script/ENG/message/bo/ev/snowfes_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "Check out the snow,\n{01 00 00 05 00}{04 1f 00}!",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "Snow looks like powdered\nsugar, {01 00 00 05 00}{04 02 00}! I like\nto roll around in it!",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "The {ff 00 00 03}Bright Nights{ff 00 00 00} have\nstarted, {01 00 00 05 00}{04 1f 00}!",
+   "et": ""
+  },
+  {
+   "id": 3,
+   "en": "{07 14 00}Hey,{01 00 00 05 00} {04 1f 00},{01 00 00 0a 00} the {ff 00 00 03}Bright\nNights{ff 00 00 00} finally start today,\n{01 00 00 05 00}{04 02 00}.\n{07 00 00}{07 0b 00}Who do you think will win{01 00 00 0a 00}\nthis year's decoration\ncontest?",
+   "et": ""
+  },
+  {
+   "id": 4,
+   "en": "{07 14 00}Ooo, hey!{01 00 00 05 00} The {ff 00 00 03}Bright Nights{ff 00 00 00}\nstart today,{01 00 00 05 00} {04 02 00}!{01 01 00}\nSparkly lights everywhere.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}\n{07 11 00}Fashion Lad's definitely\ngonna crash the decoration\ncontest.{01 00 00 05 00} I can feel it.",
+   "et": ""
+  },
+  {
+   "id": 5,
+   "en": "{07 14 00}Hey,{01 00 00 05 00} {04 1f 00}!{01 00 00 0a 00} What do\nyou think of my house?\n\n{07 19 00}Getting that pathetically\ndim glow{01 00 00 0a 00}{07 16 00} took a lot of\nwork,{01 00 00 05 00} {04 02 00}.",
+   "et": ""
+  },
+  {
+   "id": 6,
+   "en": "{07 14 00}Hey, {04 1f 00}!{01 00 00 0a 00} Doesn't\nmy house look all sparkly?\n\n{07 0d 00}Come on! Tell me how great\nit looks!{01 00 00 14 00} I thrive on\ncompliments!\n{07 00 00}Oh,{01 00 00 05 00} and if you see the\n{ff 00 00 06}mayor {ff 00 00 00}today, tell him how\nmuch you like my house, 'k?\n{07 14 00}{07 0b 00}Do you think he'll\ncompliment my house?{01 00 00 0a 00}\n{07 01 00}'Cause he really SHOULD!",
+   "et": ""
+  },
+  {
+   "id": 7,
+   "en": "{07 14 00}Huh huh huh!{01 00 00 0a 00} My house is all\naglow, {01 00 00 03 00}like a starry night\nsky! {01 00 00 0a 00}Isn't it pretty?\n{07 11 00}I can't wait to gloat about\nyour reaction to\n{ff 00 00 06}{04 0c 00}{ff 00 00 00}!",
+   "et": ""
+  },
+  {
+   "id": 8,
+   "en": "{07 16 00}Um, {04 1f 00}{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 0a 00} I{01 00 00 03 00} didn't\nwin the decoration contest\nthis year.\n{07 0b 00}Was {ff 00 00 06}{04 0f 00}{ff 00 00 00}'s house\nreally that cool?\n\n{07 05 00}{01 00 00 0a 00}It's so frustrating, I think\nI'm gonna{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}eat ALL the\nsnow,{01 00 00 0a 00} {04 02 00}!{03 02 00 01}",
+   "et": ""
+  },
+  {
+   "id": 9,
+   "en": "{07 16 00}Hmm.{01 00 00 0a 00} So I guess{01 00 00 0a 00} {ff 00 00 06}{04 0f 00}\n{ff 00 00 00}won the contest.\n\n{07 19 00}You should have seen the\nlook on {ff 00 00 06}{04 0f 00}{ff 00 00 00}'s face\nduring setup{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.{07 16 00}\n{07 09 00}It was{01 00 00 0a 00} kinda scary{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00}",
+   "et": ""
+  },
+  {
+   "id": 10,
+   "en": "{07 16 00}This year,{01 00 00 03 00} the best\ndecorations were put on{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.\n{07 1b 00}by {ff 00 00 06}{04 0f 00}{ff 00 00 00}!\nYep,{01 00 00 05 00} {04 02 00}!{01 01 00} {07 1c 00}{01 00 00 05 00}My house\nwas way{07 11 00} prettier, though!{01 01 00}\nI was sure of it{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.",
+   "et": ""
+  },
+  {
+   "id": 11,
+   "en": "{07 0a 00}Wow,{01 00 00 03 00} {04 1f 00}!{01 00 00 0f 00} I{01 00 00 03 00}-I won!{01 01 00}\nI'm the king of cool! {01 00 00 05 00}The\nduke of decorating!{01 00 00 05 00} The--\nWell, you get my point.{01 01 00}\n{07 08 00}{01 00 00 0a 00}I worked so hard for this\nvery moment!\n{07 14 00}I'd like to thank\n{ff 00 00 06}{04 0b 00}{ff 00 00 00} and you for all\nyour support!",
+   "et": ""
+  },
+  {
+   "id": 12,
+   "en": "{07 0d 00}Huh huh huh{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 0a 00} I guess my\nhouse did look pretty good,\ndidn't it!\n{07 17 00}It should have!{01 00 00 0a 00} I nearly\nfried my toenails off\nputting up those lights!",
+   "et": ""
+  },
+  {
+   "id": 13,
+   "en": "{07 0a 00}Yayyyy, {04 1f 00}! I LOVE\nyou,{01 00 00 0a 00} {04 02 00}!\n\n{07 14 00}You put in a good word for\nmy house, didn't you!{01 01 00} {07 0d 00}I'm SO\nhappy now, I could explode!",
+   "et": ""
+  },
+  {
+   "id": 14,
+   "en": "{07 14 00}Hey, {04 1f 00}!{01 00 00 0f 00} Thanks\nfor the kind words about\nmy sparkly lights!\n{07 19 00}Even if {ff 00 00 06}{04 0c 00}{ff 00 00 00} wants\nto sneer at my work{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}. Or\ncall me a hack{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.\n{07 0a 00}I'm glad YOU appreciate\nwhat I've done, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 15,
+   "en": "{07 16 00}Hey, {01 00 00 05 00}{04 1f 00}.{01 00 00 0a 00} Have you\nseen the lights at\n{ff 00 00 06}{04 10 00}{ff 00 00 00}'s place?\n{07 0e 00}I guess some people always\nhave to be the center of\nattention.\nBut me,{01 00 00 03 00} I know that {07 06 00}my\nplace is good, too.{01 00 00 05 00} Uh, isn't\nit, {01 00 00 05 00}{04 02 00}?",
+   "et": ""
+  },
+  {
+   "id": 16,
+   "en": "{07 00 00}Check it out, {04 1f 00}.\n{01 01 00}{07 15 00}You like the decorations\nthat {ff 00 00 06}{04 10 00}{ff 00 00 00} has up?\n{07 1b 00}Well, I guess there's no\naccounting for taste. {01 00 00 0a 00}\nEspecially bad taste!",
+   "et": ""
+  },
+  {
+   "id": 17,
+   "en": "{07 1c 00}{01 00 00 05 00}{ff 00 00 06}{04 10 00}{ff 00 00 00} is really\nsomething, huh?\n\n{07 1b 00}Buzzing all over the place,{01 00 00 05 00}\nputting up decorations like\nit's going out of style{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.\nYou'd never know it from\nlooking,{01 00 00 03 00} but some people\njust get the holiday fever!",
+   "et": ""
+  },
+  {
+   "id": 18,
+   "en": "{07 0e 00}What a bummer that I have\nto take down the lights\nafter the {ff 00 00 03}Bright Nights{ff 00 00 00}{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.\n{07 00 00}I could live in a lit-up\nhouse all year round,\n{01 00 00 05 00}{04 02 00}.",
+   "et": ""
+  },
+  {
+   "id": 19,
+   "en": "So whose place do you think\nis {07 0b 00}the absolute best?{01 01 00} {07 00 00}I bet\nit's {ff 00 00 06}{04 0d 00}{ff 00 00 00}'s, huh?",
+   "et": ""
+  }
+ ]
+}

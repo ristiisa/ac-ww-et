@@ -1,0 +1,20 @@
+{
+ "file": "script/ENG/message/ha/q03/req1_2_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 06 00}Fossil, {01 00 00 05 00}{ff 00 00 05}{04 1f 00}{ff 00 00 00}!{01 00 00 0a 00}\nFossil!{01 00 00 05 00} FOSSIL!\n\n{07 16 00}No, I didn't hit my head!\n{07 06 00}I just really, REALLY want\na fossil, {01 00 00 05 00}{04 02 00}!\n{07 16 00}I don't care which one it\nis!{01 00 00 05 00} Just bring me a fossil!{01 00 00 0a 00}\nPlease, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 16 00}Man, lately, all I can think\nabout is sweet fossils,\n{01 00 00 05 00}{04 02 00}!\n{07 00 00}See, {01 00 00 05 00}if I did sit-ups while\nholding a fossil,{01 00 00 05 00}{07 13 00} it'd ROCK\nmy lower abs{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 16 00}So c'mon, {01 00 00 05 00}{ff 00 00 05}{04 1f 00}{ff 00 00 00}!{01 00 00 0a 00}\n{07 06 00}Even a small one would\nwork!{01 00 00 05 00} Just help me look!",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 0b 00}My hobby?{01 01 00} {07 15 00}It's fossil\ncollecting, of course!{01 00 00 05 00}\nDoy!\n{07 16 00}Thing is, I've been having\nsuch a hard time finding \none, {01 00 00 05 00}{04 02 00}...\n{07 0e 00}I wish someone would go \nlook for it with me,\n{01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  }
+ ]
+}

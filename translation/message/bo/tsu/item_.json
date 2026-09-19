@@ -1,0 +1,95 @@
+{
+ "file": "script/ENG/message/bo/tsu/item_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 0d 00}I recently got this really\nnice picture of a couch,\n{01 00 00 05 00}{04 02 00}.\n{07 14 00}I haven't shown anyone yet,\nbut I could show it to you.\nWant to see it?{02 00 00 03 04}\nOooh! Yeah!\nNo, thanks...",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 13 00}{01 00 00 0a 00}What would you say is\nthe distance{01 00 00 05 00} between our\nhearts?{05 05 00 02 07 04 08 06 09 04 0a}\nThree feet.\nOne inch.",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 0e 00}{01 00 00 0a 00}You love me,{01 01 00} you love me\nnot.{01 01 00} You love me,{01 01 00} you love\nme not.{02 00 00 0b 0c}\nI love you.\nNot!",
+   "et": ""
+  },
+  {
+   "id": 3,
+   "en": "{07 1d 00}You like couches, too?! {07 17 00}My\ncopy of {ff 00 00 02}Chillin' Magazine\n{ff 00 00 00}came in this bag, see?\n{07 19 00}You have one, of course{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 14 00}{07 00 00}\nI'm{01 00 00 05 00} so embarrassed right\nnow, {01 00 00 0a 00}{04 02 00}.",
+   "et": ""
+  },
+  {
+   "id": 4,
+   "en": "{07 02 00}{01 00 00 14 00}You{01 00 00 0a 00} don't like couches?{01 01 00}\n{07 1c 00}{01 00 00 14 00}That's too bad{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}. {07 0b 00}Aren't{01 00 00 05 00} you\neven a little into them?{02 00 00 05 06}\nMaybe a little.\nEnough already!",
+   "et": ""
+  },
+  {
+   "id": 5,
+   "en": "{07 16 00}Sheesh! Why didn't you just\nsay so from the beginning?{01 00 00 0a 00}\nYou're weird, {04 1f 00}!\n{07 0d 00}But to celebrate your\npresence, I'll give you my\n{0b 02 00}{04 1a 00}.",
+   "et": ""
+  },
+  {
+   "id": 6,
+   "en": "{07 02 00}What?{01 00 00 14 00} {0b 03 00}{04 1f 00}! Your\nhonesty is always brutal. It\nstings! {07 00 00}{01 01 00}But I appreciate it.\n{07 06 00}Here, I'll give you my\n{0b 02 00}{04 1a 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}if\nyou give chillin' a chance.",
+   "et": ""
+  },
+  {
+   "id": 7,
+   "en": "{07 1d 00}You always say just what's\non your mind, {01 00 00 05 00}{04 1f 00}.\n\n{07 17 00}{01 00 00 0a 00}I kind of think that I get\nalong better with,{01 00 00 05 00} I dunno,{01 00 00 05 00}\nindecisive people.",
+   "et": ""
+  },
+  {
+   "id": 8,
+   "en": "{07 0a 00}Yeah!{01 00 00 0a 00} That's exactly it!{01 00 00 0a 00}\n{07 19 00}You have such a fine-tuned\nsense of distance{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{07 00 00}\n{07 13 00}{01 00 00 0a 00}It makes me so happy,{01 00 00 05 00} I'm\ngonna give you my\n{0b 02 00}{04 1a 00}!",
+   "et": ""
+  },
+  {
+   "id": 9,
+   "en": "{07 00 00}Yeah,{01 00 00 0a 00} I guess I would say\nabout the same thing.\nMaybe...\n{07 14 00}Let's move closer, OK?{01 00 00 0a 00} You\nsmell like\n{04 13 00}! Mmmmm!",
+   "et": ""
+  },
+  {
+   "id": 10,
+   "en": "{07 18 00}What?!{01 01 00} I can't believe you'd\nsay that! {07 0f 00}You can be really\ncruel, {01 00 00 0a 00}{04 1f 00}.\n{07 08 00}If we were that far away,\nwe wouldn't even be able to\ntalk to each other!",
+   "et": ""
+  },
+  {
+   "id": 11,
+   "en": "{07 10 00}I love{01 00 00 05 00} green peppers not{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n{04 02 00}.",
+   "et": ""
+  },
+  {
+   "id": 12,
+   "en": "{07 16 00}Cut it out, {04 1f 00}!{01 00 00 14 00}{07 14 00}\nYou know what comes after\n\"You love me not\"{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{02 00 00 0d 0e}\nOK, I love you!\nI love you not!",
+   "et": ""
+  },
+  {
+   "id": 13,
+   "en": "{07 0d 00}I knew it!{01 00 00 05 00} That's right!{01 01 00} Huh\nhuh huh! {01 01 00}{07 00 00}You love me,{01 00 00 14 00} you\nlove me not{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{02 00 00 0f 10}\nI love you?\nI love you not?",
+   "et": ""
+  },
+  {
+   "id": 14,
+   "en": "{07 16 00}Noooo{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} I know you love me!\nYou're just so stubborn,\n{04 1f 00}.\n{07 1b 00}But{01 00 00 05 00} that's what I like about\nyou.{01 00 00 0a 00} No, that's what I LOVE\nabout you, {04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 15,
+   "en": "{07 13 00}{01 00 00 0a 00}That's right, {04 1f 00}!{01 00 00 05 00}\nYou love me. I always knew\nit.\n{07 14 00}I'm so happy now, I'm gonna\ngive you my\n{0b 02 00}{04 1a 00}!",
+   "et": ""
+  },
+  {
+   "id": 16,
+   "en": "{07 09 00}{01 00 00 05 00}You love me not.{01 00 00 05 00} But{01 00 00 05 00} you're\nnot entirely sure about\nthat, are you.\n{07 1b 00}{01 00 00 05 00}Oh,{01 00 00 05 00} never mind. I just\nwanted you to understand\nhow I feel.\nHere,{01 00 00 05 00} take my\n{0b 02 00}{04 1a 00}.",
+   "et": ""
+  },
+  {
+   "id": 17,
+   "en": "{07 14 00}To my friendship with\n{04 1f 00}! Cheers!\n{01 00 00 05 00}{0b 03 00}{04 02 00}!",
+   "et": ""
+  }
+ ]
+}

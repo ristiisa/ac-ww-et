@@ -1,0 +1,20 @@
+{
+ "file": "script/ENG/message/ko/q10/req_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 04 00}Listen, {04 1f 00}!{01 00 00 0f 00} {07 00 00}The\nother day, someone named\n{04 0d 00} showed up...\n{07 15 00}...and said that my house\nwas uncouth!{01 00 00 14 00} {07 0e 00}Now, I don't\nknow what that means{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 00 00}But I'm not so dumb as to\nbelieve the words of some\nrandom animal! {01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}Right?\n{07 16 00}Look, do you mind if I come\nover and check your place\nout?{01 00 00 0a 00} Just for reference?",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 10 00}Lately, {01 00 00 05 00}when I'm sitting at\nmy pad, I get kinda lonely\nfor other perspectives{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.\n{07 15 00}{0b 03 00}{04 1f 00}! {01 00 00 05 00}I gotta see\nhow the other half lives,\n{01 00 00 05 00}{04 02 00}!\nSo let me come over to\nyour place! All right?\n\n{07 16 00}I deserve to hang out with\nfriends, too{01 00 00 05 00}...{01 00 00 14 00} Please,\n{01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 00 00}So I just wanna go over to\nyour place to hang out for\na bit.{01 00 00 05 00} Is that cool?\nIt's not like it's gonna\ncost you anything!{01 00 00 0f 00} {07 0b 00}So,{01 00 00 05 00}\nwhaddaya say, {01 00 00 05 00}{04 02 00}?",
+   "et": ""
+  }
+ ]
+}

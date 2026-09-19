@@ -1,0 +1,20 @@
+{
+ "file": "script/ENG/message/ge/q01/con2_4_5_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 04 00}{0b 03 00}{04 1f 00}!{01 00 00 0a 00} Did you get\n{04 1a 00},\n{01 00 00 05 00}{01 00 00 05 00}{04 02 00}?\n{07 00 00}Well, I haven't!{01 01 00} {07 16 00}Maybe I'm\njust not giving off the\nright vibes{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 00 00}As soon as I saw you, {01 00 00 05 00}{07 14 00}I\nthought you'd already got\n{04 1a 00}!\n{07 16 00}You're always looking so\nsmug and confident! I hate\nthat, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 04 00}You haven't caught\n{04 1a 00}?!\n{07 14 00}Ha ha!{01 00 00 05 00}\nWell, to be honest{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 01 00}\n{07 06 00}I totally don't even have\na clue about where to look!",
+   "et": ""
+  }
+ ]
+}

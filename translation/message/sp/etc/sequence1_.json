@@ -1,0 +1,315 @@
+{
+ "file": "script/ENG/message/sp/etc/sequence1_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "To configure your {ff 00 00 01}Nintendo\nWi-Fi Connection {ff 00 00 00}settings,\n\nyou must connect to\n{ff 00 00 01}Nintendo WFC{ff 00 00 00}. Would you\nlike to continue?",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "What brings you here\ntoday?",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "So you want to add a new\nresident to {04 03 00}.{02 04 00 27 31}\nYes!\nNo.",
+   "et": ""
+  },
+  {
+   "id": 3,
+   "en": "Do you want to kick out\nsomeone who is currently\nliving in {04 03 00}?\nAnd just who would that be?",
+   "et": ""
+  },
+  {
+   "id": 4,
+   "en": ".{01 00 00 05 00}.{01 00 00 05 00}.You want to kick out\n{ff 00 00 05}{04 0f 00}{ff 00 00 00}?{01 00 00 05 00} You'll never\nsee {ff 00 00 05}{04 0f 00}{ff 00 00 00} if you do!\nAnd all the furniture, Bells,\nand items {ff 00 00 05}{04 0f 00} {ff 00 00 00}had\nwill also disappear!\nIn fact, all record of\n{ff 00 00 05}{04 0f 00} {ff 00 00 00}in {04 03 00}\nwill be erased!\nAre you sure you want to\ndo this deed?{02 00 00 05 06}\nMaybe not...\nAdios!",
+   "et": ""
+  },
+  {
+   "id": 5,
+   "en": "Well, I'm glad you changed\nyour mind.{01 01 00} I bet\n{ff 00 00 05}{04 0f 00}{ff 00 00 00} is glad, too.",
+   "et": ""
+  },
+  {
+   "id": 6,
+   "en": "Then all records of\n{ff 00 00 05}{04 0f 00}{ff 00 00 00} in {04 03 00}\nwill be erased!\nIt'll be like {ff 00 00 05}{04 0f 00}{ff 00 00 00}\nwas never even here!",
+   "et": ""
+  },
+  {
+   "id": 7,
+   "en": "{ff 00 00 01}Revising the town records.{01 00 00 0a 00}\nPlease wait a moment and \ndo not turn the power off.{01 10 00 14}",
+   "et": ""
+  },
+  {
+   "id": 8,
+   "en": "{ff 00 00 05}{0b 03 00}{04 0f 00}{ff 00 00 00} has been kicked\nout of {04 03 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n\nFarewell, {ff 00 00 05}{04 0f 00}{ff 00 00 00}!",
+   "et": ""
+  },
+  {
+   "id": 9,
+   "en": "If you rebuild the town,\n{04 03 00} as you know it\nwill be gone forever!\nEveryone who lives here,{01 00 00 05 00}\nall the stuff they've\ncollected...{01 00 00 05 00}POOF!{01 00 00 05 00} Gone!{01 00 00 0a 00}\nAnd it will NEVER come back!\nSo, you really want to get\nrid of {04 03 00}?{02 00 00 0a 0b}\nNever mind.\nYes! Rebuild!",
+   "et": ""
+  },
+  {
+   "id": 10,
+   "en": "Phew!{01 00 00 05 00} That was a close one.{01 00 00 05 00}\nGood!{01 00 00 05 00} No rebuilding!",
+   "et": ""
+  },
+  {
+   "id": 11,
+   "en": "Really?{01 00 00 05 00} Really and truly?{01 01 00}\nWell, if you're absolutely\nfirm in your decision{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\nThen I'll just get rid of\n{04 03 00} and everyone\nand everything in it!",
+   "et": ""
+  },
+  {
+   "id": 12,
+   "en": "{ff 00 00 01}Erasing town data...{01 00 00 0a 00}\nPlease wait a moment and \ndo not turn the power off!{01 10 00 14}",
+   "et": ""
+  },
+  {
+   "id": 13,
+   "en": "{0b 03 00}{04 03 00} and all its\nresidents have been erased.\n\nWell, enjoy your new life...",
+   "et": ""
+  },
+  {
+   "id": 14,
+   "en": "This is the {04 03 00}\n{ff 00 00 08}Service Center{ff 00 00 00}, where we\nadjust life to your needs.\nWhat can we do for you \ntoday?",
+   "et": ""
+  },
+  {
+   "id": 15,
+   "en": "Oh, you'd like us to adjust\nthe clock?",
+   "et": ""
+  },
+  {
+   "id": 16,
+   "en": "Very good.{01 00 00 05 00} I believe we're\nall on time now!",
+   "et": ""
+  },
+  {
+   "id": 17,
+   "en": "And how would you prefer\neveryone talk to you?{02 01 00 2a 2b 2c}\nAnimalese.\nBebebese.\nJust keep quiet!",
+   "et": ""
+  },
+  {
+   "id": 18,
+   "en": "I understand.{01 00 00 0a 00} I'll process\nyour request immediately.",
+   "et": ""
+  },
+  {
+   "id": 19,
+   "en": "I understand.{01 00 00 0a 00} Well then, I'll\nmake sure you don't\ndownload anything.",
+   "et": ""
+  },
+  {
+   "id": 20,
+   "en": "And how would like text to\ndisplay in town?\n\nDo you mind if messages\nare written in {ff 00 00 02}Kanji{ff 00 00 00}?\n\nOr would you prefer we\nwrite in {ff 00 00 02}Hiragana{ff 00 00 00} for you?{02 00 00 15 16}\nKanji is fine.\nHiragana, please.",
+   "et": ""
+  },
+  {
+   "id": 21,
+   "en": "Very good, then.{01 00 00 0a 00}\nFrom now on, we will display\ntext in {ff 00 00 02}Kanji{ff 00 00 00}.",
+   "et": ""
+  },
+  {
+   "id": 22,
+   "en": "I understand.{01 00 00 0a 00}\nIn that case, we'll display\nall text in {ff 00 00 02}Hiragana{ff 00 00 00}.",
+   "et": ""
+  },
+  {
+   "id": 23,
+   "en": "Do you mind if a\n{ff 00 00 06}mysterious cat{ff 00 00 00} visits your\ntown?{02 00 00 1a 1a}\nI welcome all!\nStay out!",
+   "et": ""
+  },
+  {
+   "id": 24,
+   "en": "I see you want to quit.",
+   "et": ""
+  },
+  {
+   "id": 26,
+   "en": "What about downloading\nletters and bulletin board\nmessages?{02 00 00 12 13}\nThat's fine!\nI'll pass.",
+   "et": ""
+  },
+  {
+   "id": 27,
+   "en": "And what about sound?\nWhat is your preference?",
+   "et": ""
+  },
+  {
+   "id": 28,
+   "en": "OK,{01 00 00 05 00} {ff 00 00 02}Stereo{ff 00 00 00} it is!",
+   "et": ""
+  },
+  {
+   "id": 29,
+   "en": "Huh?{01 01 00} It seems you can't\nmake a call right now{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.",
+   "et": ""
+  },
+  {
+   "id": 30,
+   "en": "Very good.{01 00 00 05 00} I've set it to\n{ff 00 00 02}Surround Sound{ff 00 00 00}.",
+   "et": ""
+  },
+  {
+   "id": 31,
+   "en": "Is there anything else I can\ndo for you?",
+   "et": ""
+  },
+  {
+   "id": 32,
+   "en": "Give us a call anytime you\nneed anything.",
+   "et": ""
+  },
+  {
+   "id": 34,
+   "en": "Please wake up your player,\nwho you'll notice is sleeping\non the bed.\nTo do so, just {ff 00 00 01}touch{ff 00 00 00} your\nplayer.{01 00 00 05 00} Simple!\n\nUse the {ff 00 00 01}+Control Pad{ff 00 00 00} to\nmove the cursor and the\n{ff 00 00 01}A Button{ff 00 00 00}{01 00 00 05 00} to wake up.\nAlso, choose the {ff 00 00 02}phone {ff 00 00 00}to\nchange settings.{01 00 00 0a 00}\nGive it a try.",
+   "et": ""
+  },
+  {
+   "id": 35,
+   "en": "{ff 00 00 01}Searching for a companion.{01 00 00 0f 00}\nPlease wait a moment...{01 10 00 14}",
+   "et": ""
+  },
+  {
+   "id": 36,
+   "en": "Someone is moving in, so\na new game will begin.",
+   "et": ""
+  },
+  {
+   "id": 37,
+   "en": "{ff 00 00 01}I can't find anyone to\ncommunicate with. {01 00 00 0f 00}I'm\ngoing to stop looking now.",
+   "et": ""
+  },
+  {
+   "id": 38,
+   "en": "{ff 00 00 01}Recording move data.{01 00 00 0f 00}\nDo not turn the power off.{01 00 00 05 00}\nPlease wait...{01 10 00 14}",
+   "et": ""
+  },
+  {
+   "id": 39,
+   "en": "OK.",
+   "et": ""
+  },
+  {
+   "id": 40,
+   "en": "{ff 00 00 01}Preparing {04 03 00}.{01 00 00 05 00}\nDo not turn the power off\nor remove the Game Card.{01 10 00 14}",
+   "et": ""
+  },
+  {
+   "id": 41,
+   "en": "Preparations complete!{01 00 00 14 00}\nHave fun in {04 03 00}!{01 10 00 28}",
+   "et": ""
+  },
+  {
+   "id": 42,
+   "en": "{ff 00 00 02}Animalese{ff 00 00 00} sounds like this.\nIs this OK?{02 00 00 1f 11}\nThis is fine.\nNo, I'll change it.",
+   "et": ""
+  },
+  {
+   "id": 43,
+   "en": "{ff 00 00 02}Bebebese{ff 00 00 00} sounds like this.\nIs this OK?{02 00 00 1f 11}\nThis is fine.\nNo, I'll change it.",
+   "et": ""
+  },
+  {
+   "id": 44,
+   "en": "This is what {ff 00 00 02}silence {ff 00 00 00}sounds\nlike. Is this OK?{02 00 00 1f 11}\nThis is fine.\nNo, I'll change it.",
+   "et": ""
+  },
+  {
+   "id": 45,
+   "en": "Good morning!{01 00 00 05 00}\nYou came to play, did you?",
+   "et": ""
+  },
+  {
+   "id": 46,
+   "en": "Hello!{01 00 00 05 00}\nYou came to play, did you?",
+   "et": ""
+  },
+  {
+   "id": 47,
+   "en": "Hello there!{01 00 00 05 00}\nYou came to play, did you?",
+   "et": ""
+  },
+  {
+   "id": 48,
+   "en": "OK. I'm going to look for a\nplayer to move in now!\n\nWould you like to start the\n{ff 00 00 01}DS Wireless Communication{ff 00 00 00}?",
+   "et": ""
+  },
+  {
+   "id": 49,
+   "en": "Let's try {01 00 00 05 00}one more time.",
+   "et": ""
+  },
+  {
+   "id": 50,
+   "en": "{ff 00 00 01}The Wi-Fi ID may have been\nerased.\n\nPlease check your access\npoint settings with Nintendo\nWFC setup.",
+   "et": ""
+  },
+  {
+   "id": 53,
+   "en": "Would you like to start the\n{ff 00 00 01}DS Wireless Communication{ff 00 00 00}?",
+   "et": ""
+  },
+  {
+   "id": 54,
+   "en": "{ff 00 00 01}Unable to register.{01 00 00 0a 00}\nPlease turn the power off \nand reinsert the Game Card.",
+   "et": ""
+  },
+  {
+   "id": 55,
+   "en": "You need to buy a {ff 00 00 07}note in \na bottle{ff 00 00 00} and release it in\norder to start Tag Mode.",
+   "et": ""
+  },
+  {
+   "id": 56,
+   "en": "My, my, {01 00 00 05 00}thanks for coming.{01 00 00 14 00}\nI guess that's my cue to \nstart{ff 00 00 02} Tag Mode{ff 00 00 00}!\nI should warn you, I might\nsave without telling you.\n\nJust don't turn the power\noff or pull out the Game\nCard, and we'll be fine.\nEither {ff 00 00 01}tap{ff 00 00 00} the Touch\nScreen or press the\n{ff 00 00 01}A Button{ff 00 00 00} to exit.",
+   "et": ""
+  },
+  {
+   "id": 57,
+   "en": "{ff 00 00 01}You are in Tag Mode and\nmay close your DS at this\ntime.{01 10 00 05}",
+   "et": ""
+  },
+  {
+   "id": 58,
+   "en": "You have not encountered \nanyone. Do you still\nwant to continue?{02 00 00 39 3b}\nContinue.\nQuit.",
+   "et": ""
+  },
+  {
+   "id": 59,
+   "en": "Well then, {01 00 00 05 00}see you later!",
+   "et": ""
+  },
+  {
+   "id": 60,
+   "en": "It looks like something has\narrived for you!{01 00 00 14 00} Please\nstart your game!",
+   "et": ""
+  },
+  {
+   "id": 61,
+   "en": "You were unable to connect.\nWould you like to try again?{02 00 00 39 3b}\nTry again.\nStop.",
+   "et": ""
+  },
+  {
+   "id": 63,
+   "en": "Currently, this town can\nreceive{01 00 00 05 00} the following:\n\nThe {ff 00 00 06}mysterious cat{ff 00 00 00},\nbulletin board messages,\nand letters. ",
+   "et": ""
+  },
+  {
+   "id": 64,
+   "en": "The {ff 00 00 06}mysterious cat {ff 00 00 00}will not\nvisit this town.\n\nHowever, this town can\ndownload bulletin board\nmessages and letters.",
+   "et": ""
+  },
+  {
+   "id": 65,
+   "en": "The {ff 00 00 06}mysterious cat{ff 00 00 00} can now\nvisit this town.\n\nHowever, this town will not\ndownload bulletin board\nmessages and letters.",
+   "et": ""
+  },
+  {
+   "id": 66,
+   "en": "Currently, this town will\nnot receive the following:\n\nThe {ff 00 00 06}mysterious cat{ff 00 00 00},\nbulletin board messages,\nor letters.",
+   "et": ""
+  }
+ ]
+}

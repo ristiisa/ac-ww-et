@@ -1,0 +1,90 @@
+{
+ "file": "script/ENG/message/ge/tsu/fl_act_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 14 00}I'm awesome at giving\nlots of love and attention\nto pretty flowers!\n{07 0a 00}That's 'cause I am a\npretty flower,\n{01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 14 00}You should come talk to me\nif you want to know all\nabout watering stuff.\n{07 16 00}I just like watering stuff.\nThat doesn't make me\nweird, does it?",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 00 00}It's kinda neat that\nplants can survive just \non water!\nCan you even imagine trying\nto live on just water,\n{01 00 00 05 00}{04 02 00}?\n{07 06 00}I mean, {01 00 00 05 00}is a life without\ncaramel yumlumps even\nworth living?! ",
+   "et": ""
+  },
+  {
+   "id": 3,
+   "en": "{07 14 00}When I'm watering flowers,\nI can tell what they're\nthinking.\n{07 15 00}It took me, like, a million\nyears to learn Flowerese,\n{01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 4,
+   "en": "{07 13 00}Ahhhhhhhh! {01 00 00 05 00}That smells SOOO\nheavenly, {01 00 00 05 00}{04 02 00}!\n\n{07 15 00}Huh?{01 00 00 05 00} I'm talking about this\nflower! {07 03 00}Did you think I\nwas talking about you?",
+   "et": ""
+  },
+  {
+   "id": 5,
+   "en": "{07 15 00}Hey, what are you looking\nat?! Yeah, I'm watering\nflowers. {01 00 00 05 00}So what?!\n{01 00 00 05 00}Maybe I'm in love with them!\nDid you even think of that,{01 00 00 05 00}\njerk? {01 00 00 0a 00}I mean, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 6,
+   "en": "{07 00 00}You know,{01 00 00 05 00} I do WAY more for\nmy flowers than just pour\nwater on 'em, {01 00 00 05 00}{04 02 00}!\n{07 14 00}For one thing,{01 00 00 05 00} I fertilize\nthem with manure.\n\n{01 00 00 05 00}{07 06 00}Ewwwww! {01 00 00 05 00}It takes some\nserious love to be willing\nto shovel that stuff!",
+   "et": ""
+  },
+  {
+   "id": 7,
+   "en": "{07 14 00}I'm just standing here,\nbeaming cheerful thoughts\nto my cute little flowers.\n{07 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} Someday, they're going\nto talk back to me and\nmake me super famous!",
+   "et": ""
+  },
+  {
+   "id": 8,
+   "en": "{07 16 00}If you're so bored, {01 00 00 05 00}you\nshould water my flowers for\nme, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 9,
+   "en": "{07 16 00}I filled up my {ff 00 00 07}watering can{ff 00 00 00},{01 00 00 05 00}\nand now it's way too heavy,\n{01 00 00 05 00}{04 02 00}!\n{07 06 00}I'm gonna be super sore\nwhen I wake up tomorrow.{01 00 00 05 00}\nI'm gonna need a backrub!",
+   "et": ""
+  },
+  {
+   "id": 10,
+   "en": "{07 16 00}I didn't know too much\nwatering kills flowers!!!{01 00 00 05 00}\nWhy didn't anyone tell me?!\nDon't you understand?! {01 00 00 05 00}I'm a\nflower MURDERER! {01 00 00 05 00}They'll put\nme in flower PRISON!\n{07 08 00}But I'm too young and cute\nto get thrown in flower\nprison{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.",
+   "et": ""
+  },
+  {
+   "id": 11,
+   "en": "{07 0b 00}Do you like flowers?\n{02 00 00 10 10}\nWho doesn't?\nMeh.",
+   "et": ""
+  },
+  {
+   "id": 12,
+   "en": "{07 06 00}You think I don't look like\nthe flower-watering type?{01 01 00}\n{07 16 00}Dude, that is so RUDE!\n{07 15 00}I'm way more devoted to my\nflowers than you can even\nunderstand, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 13,
+   "en": "{07 0d 00}La de doooo de da{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{00 01 00}{01 00 00 0a 00}\nI'm gonna water you, sweet\nlittle flowers{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{00 01 00}\n{07 16 00}Hold on! I don't even know\nwhose flowers these are,\n{01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 14,
+   "en": "{07 0d 00}Water for flowers{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n{0b 03 00}{04 13 00} for me{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n\nThat's what I'm talkin'\nabout, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 15,
+   "en": "{07 00 00}A beautiful maiden named\n{04 01 00} gracefully\nwaters her flowers{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n{07 13 00}And along comes a super-\ncute prince to sweep her\noff her pretty feet.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n{07 15 00}Well, that was what I\nwanted. {01 00 00 05 00}But then YOU had\nto show up, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 16,
+   "en": "{07 14 00}Really?{01 00 00 05 00} I was just curious,\n{01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  }
+ ]
+}

@@ -1,0 +1,65 @@
+{
+ "file": "script/ENG/message/ta/ai/first_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 14 00}Good morning.{01 00 00 14 00} You must be\n{04 1f 00}, am I right? {07 00 00}I'm\n{04 01 00}.\nMy sign is {04 0f 00},\nthe prettiest sign of them\nall!\n{07 14 00}Why don't we go\n{04 22 00} together\nsometime?",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 04 00}What's this?{01 00 00 14 00} I don't think\nwe've spoken before, {01 00 00 05 00}\n{04 02 00}.\n{07 14 00}Well,{01 00 00 0a 00} I'm {04 01 00}, and\nmy sign is {04 0f 00}!\nWhat's your sign?\n{07 00 00}Lately, I've been hitting the\nspa for {04 18 00}\ntreatments!\n{07 0d 00}Not that I need it, of\ncourse! {01 01 00}{07 14 00}It's a pleasure to\nmeet you!",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 12 00}Hmmm...{01 00 00 14 00} So sleepy{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 01 00}\n{07 04 00}Oh!{01 00 00 14 00} I think I saw your face{01 00 00 0a 00}\nin my dream!\n{07 00 00}What kind of dream?{01 00 00 05 00} .{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 1b 00}{01 00 00 05 00}Well,{01 00 00 0f 00}\nthat's a personal question!\nI don't even know you!\n{07 00 00}Anyhoo,{01 00 00 0a 00} whatever.{01 00 00 14 00}\n{07 14 00}I'm {04 01 00}!{01 00 00 14 00} Don't\nforget it,{01 00 00 0a 00} {04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 3,
+   "en": "{07 04 00}Oh,{01 00 00 0a 00}{07 00 00} it's nice to meet you\nfinally. I've heard of you.\n{0b 03 00}{04 1f 00}, right?\n{07 00 00}I'm {04 01 00}.{01 01 00}\n{07 14 00}{01 00 00 05 00}If you need anything at all,\nlet me know, {01 00 00 05 00}{04 02 00}.",
+   "et": ""
+  },
+  {
+   "id": 4,
+   "en": "{07 04 00}Have we met before,\n{01 00 00 05 00}{04 02 00}?\n\n{07 16 00}Oh, my!{01 00 00 0a 00} We sure haven't!\n\n \n{07 00 00}My name is {04 01 00}.{01 00 00 14 00} I\nlike to {04 22 00}.{01 00 00 0a 00}\n{07 14 00}See you, {04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 5,
+   "en": "{07 00 00}Oh,{01 00 00 05 00} hello.\nUm.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 0b 00}{01 00 00 05 00} Who are you again?\n\n{07 00 00}Oh,{01 00 00 05 00} so your name is\n{04 1f 00}, huh?{01 01 00}\n{07 14 00}I'm {04 01 00}.\n{07 19 00}Next time{01 00 00 05 00} you want to\n{04 22 00}, {01 00 00 0a 00}be sure\nto come get me!{07 00 00}",
+   "et": ""
+  },
+  {
+   "id": 6,
+   "en": "{07 04 00}Ooh,{01 00 00 0a 00} I don't think I've\nseen your face before{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n\n{07 14 00}Your name is {04 1f 00}?{01 01 00}\n{07 19 00}OK, {01 00 00 05 00}noted. {0b 03 00}{04 1f 00}!{07 00 00}\n{07 14 00}Bring me a present!",
+   "et": ""
+  },
+  {
+   "id": 7,
+   "en": "{07 13 00}{01 00 00 0a 00}Have you{01 00 00 0a 00} ever looked at\nyour sign in the night sky,\n{01 00 00 05 00}{04 02 00}?\n{07 04 00}Oh,{01 00 00 05 00} I'm sorry.{01 01 00} How rude of\nme not to introduce myself.{07 00 00}{01 00 00 05 00}\n\nMy name is {04 01 00}.{01 00 00 14 00}\n{07 14 00}Oh, and my sign is\n{04 0f 00}.\n{07 00 00}Wouldn't it be cool to see\nyour sign in the middle{01 00 00 05 00}\nof the sky, {01 00 00 0a 00}{04 02 00}?",
+   "et": ""
+  },
+  {
+   "id": 8,
+   "en": "{07 14 00}Good evening.{01 00 00 14 00}\nYou must be {04 1f 00},\nright?\n{07 00 00}I'm {04 01 00},{01 00 00 14 00}\nand my sign is {04 0f 00}.\n\n{07 14 00}Why don't we go\n{04 22 00} together?",
+   "et": ""
+  },
+  {
+   "id": 9,
+   "en": "Good evening!{01 00 00 14 00} You can't\nsleep either, huh,\n{01 00 00 05 00}{04 02 00}?\n{07 14 00}I'm {04 01 00} and{01 00 00 05 00} my sign\nis {04 0f 00}. {01 00 00 0a 00}{07 00 00}We night\nowls should{01 00 00 0a 00} stick together!",
+   "et": ""
+  },
+  {
+   "id": 10,
+   "en": "{07 04 00}Oh,{01 00 00 0a 00} so you're a night owl,\ntoo, {01 00 00 0a 00}{04 02 00}? {07 0b 00}What's\nyour name?\n{07 00 00}{0b 03 00}{04 1f 00}? Hmmm. That's\na weird name.{01 00 00 14 00} {07 14 00}I'm\n{04 01 00}!\nWe'll probably be seeing a\nlot of each other, so we \nmight as well get along!",
+   "et": ""
+  },
+  {
+   "id": 11,
+   "en": "{07 04 00}Oh, good evening.{01 00 00 0a 00}\nAnd who {01 00 00 0a 00}are you?\nSome wandering vagrant?\n{07 00 00}I see, {04 1f 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 14 00}\n{07 0b 00}{01 00 00 0a 00}That's an interesting name.{01 01 00}\n{07 14 00}My name is {04 01 00}.\n{07 00 00}You've got perfect timing!{01 00 00 14 00} \nI just got done{01 00 00 0a 00} painting my\nnails, and {07 14 00}{01 00 00 05 00}if I went to bed,\nmy nails would get sheet\nmarks on them, right?\n\n{07 00 00}Would you mind keeping me\ncompany until they dry,\n{01 00 00 0a 00}{04 02 00}?",
+   "et": ""
+  }
+ ]
+}

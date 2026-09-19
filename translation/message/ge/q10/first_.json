@@ -1,0 +1,20 @@
+{
+ "file": "script/ENG/message/ge/q10/first_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 14 00}Ooooh{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} {07 13 00}That's my favorite\nscent{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} Oh, total yummers!\nIt's lavender, right?\n{07 19 00}Yeah, it must be lavender,\n{01 00 00 05 00}{04 02 00}! {01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}Or gravy.{01 00 00 05 00}\nOne of the two.",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 14 00}This is SO cool!{01 01 00} {07 16 00}I'm not\nexactly sure why...{01 00 00 0f 00} But it's\ncool!\n{07 14 00}Maybe it's the fake wood{01 00 00 05 00}\npaneling, {01 00 00 05 00}{04 02 00}! Um,\nthat is, like, wood...right?{01 00 00 05 00}",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 18 00}{01 00 00 0a 00}.{01 00 00 0a 00}.{01 00 00 0a 00}.{01 00 00 0a 00}Huh.\n\n\n{07 00 00}Um...obsess much?{01 00 00 0a 00} {07 14 00}No, I'm\nTOTALLY kidding! It's super\ncute, {04 02 00}!",
+   "et": ""
+  }
+ ]
+}

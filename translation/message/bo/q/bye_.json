@@ -1,0 +1,20 @@
+{
+ "file": "script/ENG/message/bo/q/bye_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 00 00}All right then.{01 00 00 0a 00} {07 14 00}Bye-bye,{01 00 00 0a 00}\n{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 14 00}I guess this is good-bye\nthen, {01 00 00 0a 00}{04 1f 00}!{01 00 00 0a 00}\n{0b 03 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 00 00}Good-bye.{01 00 00 0a 00} {07 14 00}Maybe we can\nhang out again later.",
+   "et": ""
+  }
+ ]
+}

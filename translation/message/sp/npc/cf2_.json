@@ -1,0 +1,140 @@
+{
+ "file": "script/ENG/message/sp/npc/cf2_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 00 00}Hello, hi, good evening.{01 00 00 0f 00} Um,\nhel-lo?\n\n{07 38 00}Look, if you've got nothing\nto say, just go over there,\nOK?!{01 00 00 0f 00} {ff 00 00 04}(How annoying!){07 00 00}",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 00 00}Hey, you!{01 00 00 05 00} Just what are you\ngawking at? {01 00 00 05 00}Hmm? {01 01 00}What?\n{01 00 00 05 00}Nothing?{01 00 00 0a 00}\n{01 08 00}Yeah, {01 00 00 05 00}that's what I thought!{01 00 00 0a 00}\nThen go point those peepers\nsomeplace else! {ff 00 00 04}{01 00 00 0a 00}(THE NERVE!)",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 00 00}Ugh{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} I can't believe{01 00 00 05 00} I have\nto go to work after this.{01 01 00}\nDo you understand at all?\nDo you?{01 00 00 14 00} Uh, HELLO?{01 00 00 0f 00} {01 08 00}{ff 00 00 04}(FINE!{01 00 00 05 00}\nJust do what you always do!{01 00 00 05 00}\nGo all slack-jawed!)",
+   "et": ""
+  },
+  {
+   "id": 3,
+   "en": "{07 00 00}What? Huh?{01 00 00 0a 00} What do you\nneed now?{02 00 00 08 09}\nAnswers!\nNothing.",
+   "et": ""
+  },
+  {
+   "id": 4,
+   "en": "{06 09 00 0a 0b 0c}",
+   "et": ""
+  },
+  {
+   "id": 5,
+   "en": "{06 0b 00 0d 0e 0d 0e 0d 0e 0f}",
+   "et": ""
+  },
+  {
+   "id": 6,
+   "en": "{06 01 00 10 11 12}",
+   "et": ""
+  },
+  {
+   "id": 7,
+   "en": "{06 03 00 13 17}",
+   "et": ""
+  },
+  {
+   "id": 8,
+   "en": "{07 00 00}If it's about work, {01 00 00 05 00}{ff 00 00 06}Pelly{ff 00 00 00}'s\nat the {ff 00 00 08}town hall {ff 00 00 00}right now,\nso do me a favor: ask her.\n{01 08 00}{ff 00 00 04}(Sheesh! {01 00 00 05 00}What part of \"{01 00 00 03 00}off{01 00 00 03 00}\nthe{01 00 00 03 00} clock\" don't you\nunderstand?!){07 00 00}",
+   "et": ""
+  },
+  {
+   "id": 9,
+   "en": "{07 00 00}If that's the case, then \njust leave me alone!{01 00 00 0f 00} {ff 00 00 04}(I'm\nnot looking for company!)",
+   "et": ""
+  },
+  {
+   "id": 10,
+   "en": "{07 00 00}I'm tired of working! {01 00 00 05 00}Maybe\nI'll have {ff 00 00 06}Pelly{ff 00 00 00} cover the\nnight shift for me.\n{07 35 00}Nah,{01 00 00 05 00} I can't do that \neither. {01 00 00 05 00}Drat.",
+   "et": ""
+  },
+  {
+   "id": 11,
+   "en": "{07 35 00}Ugh,{01 00 00 05 00} my outfit's been ruined\nby this stupid rain. Look at\nthis mess!\n{07 00 00}Maybe I'll{01 00 00 05 00} just take today\noff.{01 00 00 0f 00}\n{ff 00 00 04}(I can't keep doing this.)",
+   "et": ""
+  },
+  {
+   "id": 12,
+   "en": "{07 00 00}It's so cold out, and{01 00 00 05 00} I have\nto work after this!{01 00 00 05 00}\n{ff 00 00 04}(I'm gonna catch a cold!)",
+   "et": ""
+  },
+  {
+   "id": 13,
+   "en": "{07 35 00}Ack!{01 00 00 14 00} I ordered a dark\nroast, but{01 00 00 05 00} this is really\nbitter!{01 00 00 0f 00} {ff 00 00 04}(I want a refund!)",
+   "et": ""
+  },
+  {
+   "id": 14,
+   "en": "{07 00 00}I have no idea{01 00 00 05 00} what the\nowner of this place is\nthinking.\nBut then again,{01 00 00 05 00} he is a\npigeon{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{01 00 00 0f 00} {ff 00 00 04}(Which is actually\njust a flying rat!)",
+   "et": ""
+  },
+  {
+   "id": 15,
+   "en": "{07 00 00}What kind of town is this{01 00 00 05 00}\nthat I have to work on\nSunday? {01 00 00 05 00}{ff 00 00 04}(This is the worst!)",
+   "et": ""
+  },
+  {
+   "id": 16,
+   "en": "{07 00 00}Does that doofus EVER do\nany work? {01 00 00 05 00}Seriously!",
+   "et": ""
+  },
+  {
+   "id": 17,
+   "en": "{07 36 00}I'm not surprised that loser\ndidn't follow me.{01 00 00 05 00} Not here\nat least{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.",
+   "et": ""
+  },
+  {
+   "id": 18,
+   "en": "{07 35 00}Don't you think that the \ncoffee here is a little too \nbitter?!",
+   "et": ""
+  },
+  {
+   "id": 19,
+   "en": "{06 01 00 14 15 16}",
+   "et": ""
+  },
+  {
+   "id": 20,
+   "en": "{07 35 00}Whoa!{01 00 00 05 00} You scared me!{01 01 00} I\nthought you were him!{01 00 00 0a 00} Don't\nsneak up on me like that!\n{07 00 00}But I guess you don't have\nany feathers, so{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{ff 00 00 04}(Ugh,{01 00 00 05 00} TOO creepy!)",
+   "et": ""
+  },
+  {
+   "id": 21,
+   "en": "{07 00 00}Here's a tip.{01 00 00 05 00} If someone\ntells you to buzz off, {01 00 00 0a 00}\n{01 08 00}BUZZ OFF!",
+   "et": ""
+  },
+  {
+   "id": 22,
+   "en": "{07 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}Ugh,{01 00 00 05 00} what in the world is\n{ff 00 00 06}Pelly{ff 00 00 00} thinking?",
+   "et": ""
+  },
+  {
+   "id": 23,
+   "en": "{06 01 00 18 19 1a}",
+   "et": ""
+  },
+  {
+   "id": 24,
+   "en": "{07 00 00}You seem kinda clueless,{01 00 00 05 00} so\nlet me give you a tip,{01 00 00 05 00} gal\nto gal.\n{07 35 00}{01 08 00}ALWAYS WEAR SENSIBLE SHOES!{01 01 00}\n{07 00 00}Unless you have wings.{01 00 00 05 00} Then\nit doesn't really matter.",
+   "et": ""
+  },
+  {
+   "id": 25,
+   "en": "{07 00 00}You know{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} It's important\nto be selective about your\nfriends.\n'Cause if you aren't,{01 00 00 05 00}\nchances are, they'll start\nto bug you. {01 00 00 05 00}Intensely.",
+   "et": ""
+  },
+  {
+   "id": 26,
+   "en": "{07 35 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}Ugh!{01 00 00 05 00} When is{ff 00 00 06} Pelly {ff 00 00 00}EVER\ngoing to grow up?!{01 01 00} {07 00 00}Huh?\nWhat's that you say?\n{07 36 00}Oh, {01 00 00 05 00}never mind, really.{01 00 00 0a 00} Just\ntalking to myself. {01 00 00 0a 00}As usual.",
+   "et": ""
+  }
+ ]
+}

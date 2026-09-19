@@ -1,0 +1,20 @@
+{
+ "file": "script/ENG/message/ko/q09/again_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 00 00}So I've been going to ninja\nnight school, and it's\nfinally paying off.\n{07 11 00}If I ever disappear without\na trace, you'll know I\npassed the final exam!",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 00 00}Yo, {01 00 00 05 00}{04 1f 00}!{01 00 00 0f 00} {07 0b 00}Wanna play\n{ff 00 00 02}cowboys and ninjas,\n{ff 00 00 00}{01 00 00 05 00}{04 02 00}?\n{07 0e 00}Oh, {01 00 00 05 00}I guess it's a little\nlate for that{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}. It\nmight freak you out.\n{07 14 00}Fine!{01 00 00 0f 00} Come back here when\nit's light out, and it's ON!",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 00 00}The other day, I played\nhide-and-seek with my\nbuddy {04 0b 00}.\n{07 16 00}But I think my ninja \nnight school training gave\nme an unfair advantage.\n{07 14 00}I bet poor {04 0b 00} is\nstill stumbling out there\nsearchin' for me!\nSo, uh{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}how about you and\nme play a round sometime,\n{01 00 00 05 00}{04 02 00}?!",
+   "et": ""
+  }
+ ]
+}

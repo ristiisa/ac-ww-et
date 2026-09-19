@@ -1,0 +1,20 @@
+{
+ "file": "script/ENG/message/bo/q02/nlose_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 02 00}Whoa!!!{01 00 00 14 00} You really hate\nlosing, don't you,\n{04 1f 00}?\n{07 00 00}I'm not saying you're a sore\nloser.{01 00 00 05 00}.{01 00 00 05 00}.{01 01 00} It's more like\nyou're a sore winner!!",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 04 00}ACK!{01 00 00 14 00} {01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}Already,\n{04 02 00}?\n\n{07 00 00}I was even trying to move\nfaster. {01 00 00 0a 00}Rushing doesn't\ncome naturally to me.",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "Well!{01 00 00 14 00} Way to go,\n{04 1f 00}. I should have\nknown,{01 00 00 0a 00} {04 02 00}.\nFrom now on,{01 00 00 05 00} I'm going to\ncall you{01 00 00 0a 00} the fishing master.{01 00 00 05 00}\nThat's right,{01 00 00 05 00} {04 02 00}!",
+   "et": ""
+  }
+ ]
+}

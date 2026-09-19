@@ -1,0 +1,45 @@
+{
+ "file": "script/ENG/message/bo/ai/shop2_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 14 00}Heh heh heh{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 14 00} I don't mean\nto brag, but I've been\nreally stylin' lately.\n{07 0d 00}It's like they invented the\nword {ff 00 00 02}style{ff 00 00 00}{01 00 00 0a 00} just for me,{01 00 00 0a 00}\n{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 14 00}Say,{01 00 00 0a 00} {04 1f 00}, maybe it's\ntime you focused a little\non your {ff 00 00 02}style{ff 00 00 00}.\n{07 11 00}I've got mine nailed down!{01 00 00 05 00}\nYou don't have to be super\ntrendy or anything.\n{07 1b 00}'Cause after all,{01 00 00 05 00} the\nlatest {ff 00 00 02}styles{ff 00 00 00}{01 00 00 0a 00} are a little\nextreme, wouldn't you say?",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 0e 00}{01 00 00 0a 00}Yeah, {01 00 00 05 00}it's hard. No matter\nwhat clothes you buy, they\nstart to look the same.\n{07 02 00}{01 00 00 14 00}Oh, no! Do you think this\nmeans my sense of style is\nout of date?{01 00 00 14 00}\n{07 06 00}That's so depressing,{01 00 00 0a 00}\n{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 3,
+   "en": "{07 14 00}I really like{01 00 00 05 00} the Able\nSisters,{01 00 00 0a 00} {04 02 00}.\n\n{07 13 00}{01 00 00 0a 00}They're so cute,{01 00 00 0a 00} and they\nsmell good{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 14 00} {07 06 00}But let's keep\nthis between us, OK?",
+   "et": ""
+  },
+  {
+   "id": 4,
+   "en": "{07 13 00}{01 00 00 0a 00}I like clothes{01 00 00 05 00} that have\nlots of fringe. {01 00 00 05 00}Fringe is\nthe new black, you know.\n{07 14 00}When I see other people's\nfringes, I like knowin' that\nI've got plenty of my own.",
+   "et": ""
+  },
+  {
+   "id": 5,
+   "en": "{07 0e 00}{01 00 00 0a 00}That reminds me of {04 18 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{01 00 00 14 00}\nAnd this looks a {04 19 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n\n{07 16 00}Hmm{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00} Taste in clothing\nis exactly like other\ntastes,{01 00 00 0a 00} {04 02 00}.",
+   "et": ""
+  },
+  {
+   "id": 6,
+   "en": "{07 14 00}Hey, {04 1f 00},{01 00 00 14 00}{07 0b 00}{01 00 00 05 00} who do\nyou like better,{01 00 00 05 00} {ff 00 00 06}Mabel{ff 00 00 00},{01 00 00 05 00} or\n{ff 00 00 06}Sable{ff 00 00 00}?\n{07 0c 00}{01 00 00 0a 00}Oh!{01 00 00 14 00} You don't have to tell\nme{01 00 00 05 00} right now, {01 00 00 0a 00}{04 02 00}!\n\n{07 00 00}Bold statements like that\nare best reserved{07 11 00} for when\nyou have a bigger audience.",
+   "et": ""
+  },
+  {
+   "id": 7,
+   "en": "{07 14 00}For me,{01 00 00 05 00}just being at the\ntailor's makes me happy,{01 00 00 0a 00}\n{04 02 00}!\n{01 00 00 0a 00}{07 1b 00}{01 00 00 05 00}And if I eat a snack while\nI'm here,{01 00 00 0a 00} then I'm even\nhappier!\n{07 0e 00}{01 00 00 0a 00}When I'm eating a\n{04 19 00} and trying on a {04 15 00}\nshirt{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 06 00}{01 00 00 05 00}It...{01 00 00 14 00} It kinda makes the\npleasure receptors in my\nbrain explode.{01 00 00 0f 00} POW!",
+   "et": ""
+  }
+ ]
+}

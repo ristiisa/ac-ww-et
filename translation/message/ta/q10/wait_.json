@@ -1,0 +1,20 @@
+{
+ "file": "script/ENG/message/ta/q10/wait_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 04 00}Hey, {01 00 00 05 00}{04 1f 00}, just\nwhere do you think you're\ngoing?{01 01 00} {07 14 00}If you're leaving,\nI'm either gonna snoop\nthrough your stuff or go\nhome. {01 01 00}I should go home.",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 04 00}Oh, {01 00 00 05 00}{04 1f 00},{01 00 00 14 00} are you\ngoing somewhere? {01 01 00}{07 14 00}If you\nare, then I'm leaving, too.",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 04 00}Oh,{01 00 00 05 00} {04 1f 00}, where are\nyou going?\n\n{07 16 00}Oh, well, {01 00 00 05 00}I guess I better\ntake off, too, {01 00 00 05 00}{04 02 00}.",
+   "et": ""
+  }
+ ]
+}

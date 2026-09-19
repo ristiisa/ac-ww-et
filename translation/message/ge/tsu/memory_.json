@@ -1,0 +1,105 @@
+{
+ "file": "script/ENG/message/ge/tsu/memory_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 00 00}Hey, {04 1f 00}, you know\nI totally like you, right?\n \n{07 06 00}I just hope it doesn't wig\nyou out that I wanna chat\nwith other townsfolk, too!\n{07 04 00}Seriously, {01 00 00 05 00}don't you worry!{01 01 00}\n{07 0d 00}I'm not gonna forget about\nyou that easy, {04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 00 00}Y'know that {ff 00 00 05}{04 19 00}{ff 00 00 00}\nfrom {ff 00 00 08}{04 18 00}{ff 00 00 00}?\n\n{07 14 00}That kid is a total\n{04 11 00}, know what\nI mean, {01 00 00 05 00}{04 02 00}?\n{07 00 00}It's been {04 0f 00} days since I\nlast saw that character{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n{07 0b 00}Hope things are going well!",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 16 00}Ah, {ff 00 00 05}{04 19 00}{ff 00 00 00} from\n{ff 00 00 08}{04 18 00}{ff 00 00 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n\n{07 15 00}Even after {04 0f 00} days, I still\nremember that kid!\n\n{07 16 00}You oughta know, I hope\nyou aren't a similar sort\nof person...\nSeriously, that kid was,{01 00 00 05 00}\nlike, a complete and total\n{04 11 00}, y'know?\n{07 15 00}Honestly, it would just push\nmy buttons, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 3,
+   "en": "{07 00 00}Your old town, {ff 00 00 08}{04 18 00}{ff 00 00 00}?{01 00 00 05 00}\nYeah, I got a letter from\nthere!{01 00 00 05 00} From {ff 00 00 05}{04 19 00}{ff 00 00 00}!\n{07 14 00}You gotta check it out!{01 00 00 0f 00}\nHere, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 4,
+   "en": "{07 00 00}Y'know, in my old town...\n\n\n{07 14 00}People totally used to call\nme \"{ff 00 00 02}{04 10 00}{ff 00 00 00}\n{04 01 00},\" {01 00 00 05 00}{04 02 00}!\n{07 0d 00}So, from now on, you call\nme that! {ff 00 00 06}{0b 03 00}{04 10 00}\n{04 01 00}{ff 00 00 00}!",
+   "et": ""
+  },
+  {
+   "id": 5,
+   "en": "{07 00 00}Boy, lately, {01 00 00 05 00}I just can't\nstop humming my old town\ntune!\nIt's like, taken over my\nbrain, {01 00 00 05 00}{04 02 00}!\n\n{07 00 00}How can I describe it?{01 00 00 05 00}\n{07 0e 00}It's something like this{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.",
+   "et": ""
+  },
+  {
+   "id": 6,
+   "en": "{07 00 00}Hey, just the other day, I\nmet this one kid named\n{ff 00 00 05}{04 19 00}{ff 00 00 00}...\n{07 14 00}Totally different from you.{01 00 00 05 00}\nThis kid was, like, a total\n{04 11 00}!\n{06 01 00 11 12 13}",
+   "et": ""
+  },
+  {
+   "id": 7,
+   "en": "{07 0b 00}\"{ff 00 00 02}{0b 03 00}{04 10 00}{ff 00 00 00}\"?{01 00 00 0a 00}\n{07 0e 00}Sounds sorta familiar{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 01 00}\n{07 04 00}Oh yeah, {01 00 00 05 00}I remember!{01 00 00 0a 00}\n{07 15 00}That's...{01 00 00 05 00}this super-cheesy\npickup line from like, a\nyear ago, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 8,
+   "en": "{07 00 00}Hey, {01 00 00 05 00}what do we have here?{01 00 00 05 00}\nYup! {01 00 00 05 00}It's a letter from\n{ff 00 00 05}{04 19 00}{ff 00 00 00}!\n{07 0b 00}You're roommates with this\nkid, right, {04 1f 00}?",
+   "et": ""
+  },
+  {
+   "id": 9,
+   "en": "{07 00 00}Hey, {04 1f 00},{01 00 00 05 00} you're\npals with {ff 00 00 05}{04 19 00}{ff 00 00 00},\n{07 0b 00}right, {01 00 00 05 00}{04 02 00}?\n{07 00 00}Yeah, I got a letter from\nthat kid a while ago{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.",
+   "et": ""
+  },
+  {
+   "id": 10,
+   "en": "{07 14 00}Check it out, {01 00 00 05 00}{04 1f 00}!{01 01 00}\n{07 00 00}This one time, I got\n{04 1b 00}...\n{07 14 00}...from {ff 00 00 05}{04 19 00}{ff 00 00 00}! {01 00 00 05 00}Yeah!{01 00 00 05 00}\n\n\n{07 00 00}That kid was sort of a \n{04 11 00}, but, still,{01 00 00 05 00}\n{07 0a 00}I was so happy!{03 01 00 01}",
+   "et": ""
+  },
+  {
+   "id": 11,
+   "en": "{07 14 00}So?{01 00 00 05 00} Don'tcha think that's,\nlike, {07 0b 00}a super-impressive\nletter, {04 02 00}?\n{07 06 00}You oughta send me a\nletter, too{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}one worthy of\nmy keepsake pocket!",
+   "et": ""
+  },
+  {
+   "id": 12,
+   "en": "{07 0b 00}So? {01 00 00 05 00}Doesn't that melody\njust set up camp and hang\nout, {01 00 00 05 00}{04 02 00}?\n{07 00 00}Whenever I hear that\nmelody, I think fondly\nof {ff 00 00 05}{04 19 00}{ff 00 00 00}....\n{07 14 00}I wonder how things are\ngoing there, {01 00 00 05 00}{04 02 00}?",
+   "et": ""
+  },
+  {
+   "id": 13,
+   "en": "{06 03 00 0e 0f}",
+   "et": ""
+  },
+  {
+   "id": 14,
+   "en": "{07 14 00}Now THAT's some letter-{01 00 00 05 00}\nwriting!{01 00 00 05 00} Am I right or am I\nright, {01 00 00 05 00}{04 02 00}?\n{07 1b 00}I mean, that's not even a\nletter! {01 00 00 05 00}It's like an award-\nwinning poem!",
+   "et": ""
+  },
+  {
+   "id": 15,
+   "en": "{07 16 00}Hey, I need someone to\ntranslate this.{01 00 00 05 00} Do you know\n{07 0b 00}what language this is?\n{07 02 00}What?!{01 00 00 0f 00} This is ENGLISH?!{01 00 00 05 00}\nOMIGOSH, {04 02 00}!\n\n{07 06 00}This is, like, totally weird\nalien gibberish to me,\n{01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 16,
+   "en": "{07 0b 00}So, {01 00 00 05 00}whatcha think, huh?{01 00 00 0a 00}\n{07 14 00}It's kinda nice, right?\n\n{07 00 00}Y'know, to keep {04 03 00}\non the national list of\nnice places to live...\n{07 06 00}...you should at least\npractice your reading and\nwriting, {04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 17,
+   "en": "{07 00 00}I've been good friends with\n{ff 00 00 05}{04 19 00}{ff 00 00 00} for, like,\nforever...\n{07 0d 00}If this was a soap opera,\nit'd be about the time for \na plot twist, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 18,
+   "en": "{07 13 00}Oh, {ff 00 00 05}{04 19 00}{ff 00 00 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n\n\n{07 06 00}Oh, wait, what?! {01 00 00 05 00}No!{01 00 00 0a 00}\nI was just...{01 00 00 05 00}practicing my\nmethod acting, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 19,
+   "en": "{07 15 00}People have hobbies, y'know!{01 00 00 05 00}\n{07 11 00}You oughta try that\nsometime.",
+   "et": ""
+  }
+ ]
+}

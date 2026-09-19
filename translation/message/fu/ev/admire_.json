@@ -1,0 +1,85 @@
+{
+ "file": "script/ENG/message/fu/ev/admire_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 14 00}I'm so happy it's finally\n{ff 00 00 03}Yay Day{ff 00 00 00}!\n\n{07 0a 00}{ff 00 00 03}Yay Day{ff 00 00 00}'s the day when your\ncompliments pay and you\nfeel happy all day! {07 14 00}Hooray!",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 14 00}All of {04 03 00} is ready\nfor {ff 00 00 03}Yay Day{ff 00 00 00}!\n\n{07 0a 00}It's when everyone runs\naround, complimenting\none another all day long.\nI love {ff 00 00 03}Yay Day{ff 00 00 00}, but {01 00 00 05 00}{07 06 00}I hope\nnobody says anything too\nstrange about me.",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 0e 00}{0b 03 00}{04 21 00}, eh?\nHm{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.\n\n{07 14 00}Well, it doesn't matter what\nyou were trying to say. It's\nthe thought that counts.\n{07 0a 00}As long as you took the\ntime to say anything at\nall, I'm happy.",
+   "et": ""
+  },
+  {
+   "id": 3,
+   "en": "{07 04 00}{0b 03 00}{04 21 00}? Is that\nhonestly what you think\nabout me, {01 00 00 05 00}{04 02 00}?\nThat's so weird. I'm not\nreally sure what you mean\nby that, but still{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 13 00}I can tell that you meant\nit in the nicest possible\nsense, {04 1f 00}!\n{07 0d 00}Thank you so much! You've\nmade my {ff 00 00 03}Yay Day{ff 00 00 00}!",
+   "et": ""
+  },
+  {
+   "id": 4,
+   "en": "{07 14 00}That's exactly what I've\nbeen telling everyone about\nyou, {04 1f 00}.\n{07 0d 00}\"That {04 1f 00} is just\nso {04 21 00}!\"",
+   "et": ""
+  },
+  {
+   "id": 5,
+   "en": "{07 14 00}That's what everyone says!\nWhy, \"{04 21 00}\" is\npractically my middle name!",
+   "et": ""
+  },
+  {
+   "id": 6,
+   "en": "Oh, {01 00 00 05 00}{04 1f 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}",
+   "et": ""
+  },
+  {
+   "id": 7,
+   "en": "{07 14 00}{0b 03 00}{04 21 00}, huh? I\ncouldn't have put it better\nmyself, {01 00 00 05 00}{04 02 00}.",
+   "et": ""
+  },
+  {
+   "id": 8,
+   "en": "{07 00 00}At first, I thought\n{04 21 00} sounded\nreally flattering...but\nthen I started thinking.\n{07 16 00}What if I'm a little TOO\n{04 21 00}?\n{07 0b 00}What do you think? Is\n{04 21 00} good or\nbad, {01 00 00 05 00}{04 02 00}?",
+   "et": ""
+  },
+  {
+   "id": 9,
+   "en": "{07 00 00}Oh, hi, {01 00 00 05 00}{04 1f 00}.{01 00 00 0a 00} So,\nwhat do you think?\n\n{07 14 00}It's fair to say that I'm\npretty {04 21 00},\nisn't it, {01 00 00 05 00}{04 02 00}?",
+   "et": ""
+  },
+  {
+   "id": 10,
+   "en": "{07 14 00}I thought so, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 11,
+   "en": "{07 0a 00}How nice, {01 00 00 05 00}{04 02 00}!{01 01 00} I've\nalways said you were pretty\n{04 21 00}, too.",
+   "et": ""
+  },
+  {
+   "id": 12,
+   "en": "{07 06 00}Oh, {01 00 00 05 00}wow.{01 00 00 05 00}.{01 00 00 05 00}. That was\ntotally inappropriate. Words\ncan hurt, you know.\n{07 16 00}You should try to be a\nlittle more responsible with\nwhat you say!",
+   "et": ""
+  },
+  {
+   "id": 13,
+   "en": "{07 06 00}What?!{01 00 00 0a 00} I don't understand.\nWhat should I do next?\n\n{07 0c 00}Oh, I've got it!{01 01 00} {07 06 00}Why don't\nyou try that one more\ntime, {04 1f 00}?",
+   "et": ""
+  },
+  {
+   "id": 14,
+   "en": "{07 0e 00}{0b 03 00}{04 21 00}? I see.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}{01 01 00}\n{07 14 00}I suppose there are worse\nthings to be.\n{07 00 00}In fact, from now on, I'm\ngoing to dedicate myself to\nbeing {04 21 00}!\n{07 14 00}Not TOO {04 21 00},\nI hope, though. I don't want\nto overdo it, {01 00 00 05 00}{04 02 00}.",
+   "et": ""
+  },
+  {
+   "id": 15,
+   "en": "{07 04 00}{0b 03 00}{04 21 00}{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.{01 01 00}\n{07 14 00}I can live with that.\n\n{07 0d 00}Yeah, in fact, that's pretty\nawesome!{01 00 00 14 00} Thank you!",
+   "et": ""
+  }
+ ]
+}

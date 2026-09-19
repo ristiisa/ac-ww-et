@@ -1,0 +1,20 @@
+{
+ "file": "script/ENG/message/ha/q05/talk1_2_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 16 00}Can anyone in the world\nunderstand my obsession,\n{01 00 00 05 00}{04 02 00}?",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 0d 00}You're my buddy!{01 00 00 05 00} You've\nGOTTA understand how this\neats at me, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 05 00}AAAAAAAAAAARGH!!{01 00 00 14 00}\nGet out of my BRAIN,\n{ff 00 00 05}{04 0f 00}{ff 00 00 00}!",
+   "et": ""
+  }
+ ]
+}

@@ -1,0 +1,20 @@
+{
+ "file": "script/ENG/message/ge/q04/dress_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 17 00}Tee hee...{01 00 00 0a 00} Look!{01 00 00 05 00} Look at\nme!{01 00 00 05 00} Like, what do you\nthink, {01 00 00 05 00}{04 02 00}?\n{07 0d 00}I look SUPER BEAUTIFUL, \ndon't I, {01 00 00 05 00}{04 02 00}?",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 17 00}Hey!{01 00 00 0a 00} Um...do I look OK,\n{01 00 00 05 00}{04 02 00}?\n\n{07 1d 00}What?!{01 00 00 0a 00} I look like a total\nmovie star?{01 00 00 0a 00}{07 02 00} REALLY?\nDO YOU MEAN IT??\n{07 00 00}{07 0f 00}Oh{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}. Sorry{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}. See, I thought\nyou said{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}. Never mind{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 08 00}Forget it{01 00 00 0a 00}.{01 00 00 0a 00}.{01 00 00 0a 00}.",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 14 00}I think this outfit makes\nme look SUPER adorable,{01 00 00 05 00}\ndon't you?\nYOU DO?!{01 01 00} {07 0a 00}YAY!{01 00 00 05 00} That's\nTOTALLY, TOTALLY AWESOME,\n{01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  }
+ ]
+}

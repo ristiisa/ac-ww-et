@@ -1,0 +1,20 @@
+{
+ "file": "script/ENG/message/bo/q11/yes_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 0a 00}Yay! {01 00 00 05 00}Thanks! A huh huh huh!{01 01 00}\nYou know what I'm gonna do\nnow?\n{07 13 00}I'm gonna go out and get\nsome primo grub with these\n{04 12 00} Bells.",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 00 00}And about my ROCKIN'\n{0b 02 00}{04 1a 00}...\n\n{07 14 00}Treat your new purchase\nlike you would one of your\nown children, {01 00 00 0a 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 00 00}{0b 03 00}{04 1a 00}\nfor only {04 12 00}\nBells...\n{07 14 00}{0b 03 00}{04 1f 00}, I'd say you\njust scored BIG-TIME!",
+   "et": ""
+  }
+ ]
+}

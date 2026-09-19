@@ -1,0 +1,20 @@
+{
+ "file": "script/ENG/message/ta/q02/req3_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 00 00}OK, {01 00 00 05 00}{04 1f 00}.{01 00 00 0a 00} {07 14 00}I heard\nthat you're really good at\nfishing. Is that true?\n{07 00 00}But...{01 00 00 05 00}are you good enough\nto catch a rare fish?{01 00 00 0f 00} Well,\nprove it, then!\nLet's see who can catch \nthe rarest fish first! {01 01 00}{07 0b 00}Well?{01 00 00 05 00}\nShall we, {01 00 00 05 00}{04 02 00}?",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "So, {04 1f 00}, you must\nbe pretty good at fishing,\nhuh, {01 00 00 0a 00}{04 02 00}.\n{07 19 00}But fishing isn't just about\ntechnique!{01 01 00} {07 15 00}You gotta do\nyour research, too!\n{07 04 00}Hey,{01 00 00 0a 00} let's have a rare fish\nmatch! {01 00 00 0a 00}{07 00 00}If you can catch a\nrarer fish than I do{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 14 00}Well, I just might have to\nconcede that you ARE good\nat fishing, {01 00 00 0a 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 14 00}You see,{01 00 00 0a 00} some fish are very\nrare, depending on what the\nseason is.\n{07 00 00}For instance, uh{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.{01 01 00} {07 09 00}Uh{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 05 00}{01 01 00}\n{07 06 00}It's gotta be a fish that\ngets {ff 00 00 06}Blathers {ff 00 00 00}all psyched!\n{07 00 00}OK! {01 00 00 0a 00}To see who's the better\nfisher, {07 11 00}let's see who can\ncatch the rarest fish!",
+   "et": ""
+  }
+ ]
+}

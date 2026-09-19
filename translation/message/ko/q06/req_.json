@@ -1,0 +1,20 @@
+{
+ "file": "script/ENG/message/ko/q06/req_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 00 00}Hey, {01 00 00 05 00}{04 1f 00}!{01 00 00 14 00} You know\nwho {ff 00 00 06}{04 10 00}{ff 00 00 00} is, right?\n\n{07 16 00}I need you to{01 00 00 05 00} deliver this\nto that animal's place for\nme{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 00 00}Nothing to do, eh?{01 00 00 0a 00}\nWell then, guess what?{01 00 00 0a 00}\nYou get to help me out!\n{07 14 00}Oh, quit your worrying. {01 00 00 05 00}It'll\nbe easy! {01 00 00 05 00}Just give this\npresent to {ff 00 00 06}{04 10 00}{ff 00 00 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 00 00}I can tell you're not doing \nanything important.{01 00 00 0a 00} You\ngotta do me a favor.\n{07 14 00}Take this to {ff 00 00 06}{04 10 00}{ff 00 00 00} \nfor me, would ya?",
+   "et": ""
+  }
+ ]
+}

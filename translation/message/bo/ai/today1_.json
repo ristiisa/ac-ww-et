@@ -1,0 +1,65 @@
+{
+ "file": "script/ENG/message/bo/ai/today1_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 14 00}{0b 03 00}{01 06 00}Hey{01 07 00}!\n{0b 03 00}{04 1f 00}.{01 00 00 14 00} Mornin'.{01 01 00} {07 19 00}This\nmorning,{01 00 00 05 00} I woke up...\nput one hand on my hip...\nand took a big swig of\n{04 18 00}!{01 00 00 0a 00}{07 00 00}\n{07 0d 00}You shoulda seen it! I\nlooked so cool, like a\ncowboy or something!",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 12 00}{01 00 00 0a 00}Hyaaaawn!{01 00 00 0a 00} So very sleepy.{01 01 00}\n{07 16 00}Morning is so cruel,{01 00 00 0a 00}\n{04 02 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 00 00}Not washing my face all day{01 00 00 0a 00}\n{01 00 00 0a 00}{07 1b 00}{01 00 00 05 00}is my way of paying it back,{01 00 00 0a 00}\n{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 0a 00}{0b 03 00}{01 06 00}Huh huh huh{01 07 00}!{01 00 00 14 00}\nMornin',{01 00 00 05 00} {04 1f 00}!\n\n{07 14 00}Last night{01 00 00 05 00} I had a dream{01 00 00 0a 00}\nthat I said \"mornin'\" to\nyou,{01 00 00 0a 00} {04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 3,
+   "en": "{07 14 00}{0b 03 00}{01 06 00}Hey{01 07 00}!\n{01 00 00 05 00}{0b 03 00}{04 1f 00}.{01 00 00 0a 00} Did you eat\nlunch yet, {01 00 00 05 00}{04 02 00}?\n{07 0d 00}Before I can,{01 00 00 05 00} I need to\nwarm up my belly with\nsome {04 19 00}!",
+   "et": ""
+  },
+  {
+   "id": 4,
+   "en": "{07 0a 00}Hello,{01 00 00 0a 00} {04 1f 00}!\n\n\n{07 14 00}Today, let's try to\n{04 22 00} like we\nmean it, {01 00 00 0a 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 5,
+   "en": "{07 04 00}Oh,{01 00 00 0a 00} {04 1f 00}.{01 00 00 0a 00}\n{0b 03 00}{01 06 00}Hi, there{01 07 00}!\n{01 00 00 0a 00}{0b 03 00}{04 02 00}!\n{07 00 00}Let's be aggressive when we\n{04 22 00} today,\nOK? {01 00 00 05 00}{0b 03 00}{04 02 00}!\n{07 14 00}Heh heh heh!{01 00 00 0a 00} But don't go\ntoo crazy, or your tail\nmight catch on fire.",
+   "et": ""
+  },
+  {
+   "id": 6,
+   "en": "{07 14 00}{0b 03 00}{01 06 00}Good evening{01 07 00}.{01 00 00 14 00}\nLooks like it's already\nnighttime,{01 00 00 0a 00} {04 02 00}.\n{07 00 00}The night air is so{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00}{07 0e 00}{01 00 00 0a 00}quiet,{01 00 00 14 00}\nand nice,{01 00 00 14 00} and crisp, {01 00 00 14 00}and\ntart,{01 00 00 14 00} and sweet{01 00 00 0a 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n{07 14 00}It's just like the perfect\napple,{01 00 00 0a 00} {04 02 00}. {01 00 00 14 00}Mmmm.\nApples.",
+   "et": ""
+  },
+  {
+   "id": 7,
+   "en": "{07 14 00}Hey, it's already\n{04 08 00} o'clock! It's time to\neat supper!\n{07 0d 00}I'm drooling just thinking\nabout what's on the menu!\nI want five of everything!",
+   "et": ""
+  },
+  {
+   "id": 8,
+   "en": "{07 0e 00}{01 00 00 0a 00}It's really dark out now{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\nOh, I guess it's already\n{04 08 00} o'clock.\n{07 14 00}That's OK. I can stay up all\nnight long{01 00 00 0a 00} 'cause I sleep\nall day! {0b 03 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 9,
+   "en": "{07 14 00}Wow.{01 00 00 05 00} You're up pretty late{01 00 00 05 00}\nfor you, {01 00 00 0a 00}{04 02 00}!\n\n{07 00 00}Yeah{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 14 00} I guess staying up\nlate{01 00 00 14 00} is good preparation{01 00 00 0a 00}\nfor sweet dreams.",
+   "et": ""
+  },
+  {
+   "id": 10,
+   "en": "{07 14 00}Oh,{01 00 00 05 00} good evening!{01 00 00 0a 00}{07 00 00} I've been\nwaiting{01 00 00 05 00} for you,\n{01 00 00 0a 00}{04 02 00}.\n{07 0b 00}{01 00 00 05 00}Why? {01 00 00 05 00}'Cause when I see your\nface at night{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 03 00}I always\nhave the craziest dreams.",
+   "et": ""
+  },
+  {
+   "id": 11,
+   "en": "{07 14 00}Hey,{01 00 00 05 00} {04 1f 00}.{01 00 00 14 00}{07 00 00} Did you\njust wake up,{01 00 00 0a 00} {04 02 00}?\n\n{07 14 00}Huh huh!{01 00 00 14 00} That's cool. I'm\npretty into sleeping myself,\nso I don't judge!",
+   "et": ""
+  }
+ ]
+}

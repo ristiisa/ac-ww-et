@@ -1,0 +1,20 @@
+{
+ "file": "script/ENG/message/fu/q10/first_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 04 00}It looks so different from\nthe inside!{01 00 00 05 00} Wow, this is\nreally cool, {01 00 00 05 00}{04 02 00}!\n{07 0d 00}I can see the history of\n{04 1f 00} in every nook\nand cranny!",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 14 00}Ah, {04 1f 00}{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00} So this\nis where you live,\n{01 00 00 05 00}{04 02 00}!\n{07 19 00}Good to know{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 0a 00}Wow, {04 1f 00}, {01 00 00 0f 00}your room\nsmells nice, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  }
+ ]
+}

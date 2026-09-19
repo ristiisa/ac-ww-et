@@ -1,0 +1,25 @@
+{
+ "file": "script/ENG/mail/ps/sp_npc_atm.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "Tom Nook Point System",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "All items 5% off! TNPS",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "All items 10% off! TNPS",
+   "et": ""
+  },
+  {
+   "id": 3,
+   "en": "All items 20% off! TNPS",
+   "et": ""
+  }
+ ]
+}

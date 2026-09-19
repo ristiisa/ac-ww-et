@@ -1,0 +1,50 @@
+{
+ "file": "script/ENG/message/ge/tsu/star_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 14 00}Hey, {01 00 00 05 00}{04 1f 00}!{01 00 00 0a 00} {07 0b 00}Y'know\nthat constellation you can\nsee from here?\n{07 14 00}Well, I'll have you know that\nit has a name!{01 00 00 05 00} It's called\n{ff 00 00 02}{04 0f 00}{ff 00 00 00}!\n{07 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}Huh?{01 00 00 05 00} {07 04 00}You're the one who\nmade it, {01 00 00 05 00}{04 02 00}?!\n\n{06 01 00 06 07 08}",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 13 00}Ohhhh, {ff 00 00 02}{04 0f 00}{ff 00 00 00}...\n\n\n{07 16 00}I wish someone would give\nME a cute stage name like \n\"{0b 03 00}{ff 00 00 02}{04 0f 00}{ff 00 00 00}\"!",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 00 00}That constellation over\nthere is {ff 00 00 02}{04 0f 00}{ff 00 00 00},\n{01 00 00 05 00}{04 02 00}!\n{07 14 00}Yeah, {ff 00 00 05}{04 10 00}{ff 00 00 00} has some\npretty good star sense,\n{01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 3,
+   "en": "{07 00 00}{0b 03 00}{ff 00 00 02}{04 0f 00}{ff 00 00 00} is\nvisible up in the sky\nright now...\n{07 14 00}I heard {ff 00 00 05}{04 10 00}{ff 00 00 00} created\nthat one, actually!\n\n{07 13 00}If it was up to me, I'd have\nnamed it something like \n\"Pretty {04 01 00}\"{01 00 00 05 00}...",
+   "et": ""
+  },
+  {
+   "id": 4,
+   "en": "{07 04 00}Oh hi, {01 00 00 05 00}{04 1f 00}!{01 00 00 0a 00} {07 14 00}Look!\n{0b 03 00}{ff 00 00 02}{04 0f 00}{ff 00 00 00} is in\nthe sky, {01 00 00 05 00}{04 02 00}!\n{07 00 00}I heard {ff 00 00 05}{04 10 00}{ff 00 00 00} from\n{ff 00 00 08}{04 11 00}{ff 00 00 00} created it...\n\n{07 0b 00}I wonder if there's a pond\ncalled \"{0b 03 00}{ff 00 00 02}{04 0f 00}{ff 00 00 00}\"\nin {ff 00 00 08}{04 11 00}{ff 00 00 00}...",
+   "et": ""
+  },
+  {
+   "id": 5,
+   "en": "{07 04 00}Ah! Look, look! {01 00 00 14 00} Is that \n{ff 00 00 02}{04 0f 00}{ff 00 00 00},\n{01 00 00 05 00}{04 02 00}?\n{07 0b 00}Why is it named that?{01 01 00}\n{07 06 00}How should I know?\n\n{07 16 00}After all, {ff 00 00 05}{04 10 00}{ff 00 00 00} from\n{ff 00 00 08}{04 11 00}{ff 00 00 00} is the one who \nnamed it, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 6,
+   "en": "{07 02 00}That's totally amazing!{01 00 00 14 00} {07 14 00}You\nshould go into astrology!{01 00 00 0a 00}\n{07 01 00}Now tell me my future!\n{07 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 0b 00}Huh? {01 00 00 05 00}I mean astronomy,\nnot astrology?{01 00 00 0a 00}{07 06 00} Oh, wow, I'm\nso embarrassed I could DIE!",
+   "et": ""
+  },
+  {
+   "id": 7,
+   "en": "{07 10 00}Um, couldn't you come up\nwith a little better name,\n{01 00 00 05 00}{04 02 00}?!",
+   "et": ""
+  },
+  {
+   "id": 8,
+   "en": "{07 06 00}Oh, GOSH! I'm so BUSTED!{01 00 00 0a 00}\nI acted all smart in front\nof the CREATOR!",
+   "et": ""
+  }
+ ]
+}

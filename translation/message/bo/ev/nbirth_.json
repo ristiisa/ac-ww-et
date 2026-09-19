@@ -1,0 +1,160 @@
+{
+ "file": "script/ENG/message/bo/ev/nbirth_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 0a 00}Happy birthday to ME!{00 01 00}\n{01 00 00 05 00}{0b 03 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 14 00}{04 1f 00}!{01 00 00 0a 00} Thanks for\ncoming! {01 00 00 0a 00}{07 00 00}Well, don't just\nstand there!{01 00 00 0a 00} Come in!",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 14 00}I was just thanking\n{ff 00 00 06}{04 0f 00} {ff 00 00 00}for coming to\nhelp me celebrate.\n{07 00 00}Now that you're here, too{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 14 00}\n{07 0d 00}It's a real par-{01 00 00 0a 00}TAY!\n{01 00 00 0a 00}{0b 03 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 3,
+   "en": "{07 14 00}And {ff 00 00 06}{04 0f 00}{ff 00 00 00} has just{01 00 00 05 00}\ndropped by, too,\n{01 00 00 05 00}{04 02 00}!\n{07 0a 00}Cheers! {01 00 00 05 00}Cheers!{01 00 00 0f 00}\nWho's gettin' down tonight?{01 00 00 0a 00}\n{01 08 00}WE ARE!",
+   "et": ""
+  },
+  {
+   "id": 4,
+   "en": "{07 14 00}All right now!{01 00 00 14 00} I wonder what\nkinda loot {07 0b 00}I scored this\nyear, {01 00 00 0a 00}{04 02 00}?!\nI bet it's totally\nawesome!{02 00 00 ff ff}\nOf course it is!\nUh, actually...",
+   "et": ""
+  },
+  {
+   "id": 5,
+   "en": "{07 00 00}By the way,{01 00 00 05 00} not to be\nrude, but {07 0b 00}did you bring me\nanything?{02 00 00 ff ff}\nOf course!\nYeah, right.",
+   "et": ""
+  },
+  {
+   "id": 6,
+   "en": "{07 04 00}Oh!{01 00 00 05 00} Not even a snack?{01 00 00 0a 00}\nYou know, {01 00 00 05 00}{04 02 00}.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}\n\n{07 00 00}Oh, never mind. I'm just\nglad you came.{07 17 00} It's all\ngood!",
+   "et": ""
+  },
+  {
+   "id": 7,
+   "en": "{07 14 00}Uh huh huh!{01 00 00 0a 00} Your presence\nmeans more to me than\nyour presents!{01 01 00}{07 03 00} Get it?!",
+   "et": ""
+  },
+  {
+   "id": 8,
+   "en": "{07 02 00}Whoa! Hold on!{01 00 00 0a 00} Are you\nsaying that YOU'RE my\n\"present\"?!{01 01 00}{07 09 00} Uh{01 00 00 0a 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}",
+   "et": ""
+  },
+  {
+   "id": 9,
+   "en": "{07 14 00}Uh huh huh huh!{01 00 00 0f 00} Well, well,\nthen, {01 00 00 05 00}{04 02 00}.",
+   "et": ""
+  },
+  {
+   "id": 10,
+   "en": "{07 14 00}Oooh, yeah!{01 00 00 14 00} Gimme gimme\ngimme now, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 11,
+   "en": "{07 04 00}Wowee! Hey, {01 00 00 14 00}lemme guess!\n{0b 03 00}{04 1a 00}!\n\n{07 00 00}Well, I'd be happy just to\nreceive a soggy peanut,\nso this'll do!",
+   "et": ""
+  },
+  {
+   "id": 12,
+   "en": "{07 00 00}Hmm{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{07 14 00} This must be\n{04 1a 00}!{01 01 00}\n{07 0d 00}I'll treasure this forever!",
+   "et": ""
+  },
+  {
+   "id": 13,
+   "en": "{07 04 00}How'd you know I wanted\n{04 1a 00}?!\n{07 06 00}I can't believe it!\n{07 0a 00}Here's to having friends who\nknow you better than you\nknow yourself, {01 00 00 0a 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 14,
+   "en": "{07 0a 00}Yahoo!{01 00 00 14 00} Three cheers for\n{04 1f 00}!\n\n{07 00 00}How did you know about my\n{0b 02 00}{04 1a 00}\ncollection?\n{07 0d 00}This will occupy a {01 00 00 0a 00}\nspecial place in my\ncollection, {01 00 00 0a 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 15,
+   "en": "{07 00 00}Let me give you something\nin return.{01 01 00} {07 14 00}Here, {01 00 00 0a 00}take\nmy {0b 02 00}{04 1b 00}!",
+   "et": ""
+  },
+  {
+   "id": 16,
+   "en": "{07 00 00}Well, I gotta give you{01 00 00 05 00}\nsomething in return.{01 01 00} {07 14 00}Take\n{04 1b 00}!",
+   "et": ""
+  },
+  {
+   "id": 17,
+   "en": "{07 14 00}I'll never find a better\nfriend than you,\n{01 00 00 0a 00}{04 1f 00}!\nNo, not even for all the\nsnacks in the world!",
+   "et": ""
+  },
+  {
+   "id": 18,
+   "en": "{07 14 00}You're the best, buddy!\n{01 00 00 0a 00}{0b 03 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 19,
+   "en": "{07 17 00}Gosh, I feel like I've taken{01 00 00 0a 00}\none more step towards\nbeing an adult.",
+   "et": ""
+  },
+  {
+   "id": 20,
+   "en": "{07 0a 00}Ahh, birthdays are so warm\nand lovely{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}. {07 17 00}Kinda like\nfresh-baked banana bread.",
+   "et": ""
+  },
+  {
+   "id": 21,
+   "en": "{07 14 00}Well, another step closer to\nadulthood{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}. {07 17 00}Guess I should\nstart watching my fiber!",
+   "et": ""
+  },
+  {
+   "id": 22,
+   "en": "{07 11 00}I'm a kid trapped in an\nadult's body!\n\n{07 19 00}Or, {01 00 00 05 00}at least that's how I'd\nlike to be when I grow up.{07 17 00}\n\n{07 0e 00}I wonder if I should start\ndressing a little hipper\nor something, {01 00 00 0a 00}{04 02 00}?",
+   "et": ""
+  },
+  {
+   "id": 26,
+   "en": "{07 14 00}You came to help\n{ff 00 00 06}{04 10 00} {ff 00 00 00}celebrate? {01 01 00}{07 0a 00}I\nhope you brought snacks!",
+   "et": ""
+  },
+  {
+   "id": 27,
+   "en": "{07 14 00}Huh huh huh! {01 00 00 05 00}{0b 03 00}{04 1f 00},\ndon't hide out over here,\n{01 00 00 0a 00}{04 02 00}.\n{07 0a 00}Come on, {01 00 00 05 00}let's wish\n{ff 00 00 06}{04 10 00}{ff 00 00 00} a happy\nbirthday!",
+   "et": ""
+  },
+  {
+   "id": 28,
+   "en": "{07 16 00}By the way, did you already{01 00 00 05 00}\nfork over a present,\n{01 00 00 05 00}{04 02 00}?\n{07 14 00}{ff 00 00 06}{04 10 00}{ff 00 00 00} looks a little\nrestless.{01 00 00 05 00} You should hand\nit over now!",
+   "et": ""
+  },
+  {
+   "id": 29,
+   "en": "{07 16 00}What kind of present did\nyou bring, {04 1f 00}?{01 00 00 0a 00} I\nbet it's super cool.\n{07 0e 00}{ff 00 00 06}{04 10 00}{ff 00 00 00} is so hard\nto shop for{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.\n\n{07 06 00}You give yours first so I\ncan gauge the reaction,\n{01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 30,
+   "en": "{07 00 00}Birthdays are just the\ngreatest, aren't they?\n\n{07 0d 00}Whether you're the host or\nthe guest,{01 00 00 05 00} they're just so\nmuch fun,{01 00 00 0a 00} don't you think?",
+   "et": ""
+  },
+  {
+   "id": 31,
+   "en": "{07 13 00}Well, I want you two to\ncome to my birthday, too,\nOK?\n{07 14 00}If it's me, and {ff 00 00 06}{04 10 00}{ff 00 00 00},\nand you, {04 1f 00}, we\neach get a ton of cake!\n{07 11 00}But, uh, {01 00 00 0a 00}I call dibs on the\ncorner pieces with all the\nicing, OK?!",
+   "et": ""
+  },
+  {
+   "id": 32,
+   "en": "{07 14 00}Uh huh huh huh!{01 00 00 05 00} Whenever\nsomeone has a birthday,\n\n{ff 00 00 08}{04 03 00} {ff 00 00 00}becomes a much\nmore lively place,\n{01 00 00 0a 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 33,
+   "en": "{07 1b 00}Uh huh huh!{01 00 00 0a 00} {ff 00 00 06}{04 10 00}\n{ff 00 00 00}looks so stoked{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}. {07 14 00}I can't\nwait 'til it's my birthday!",
+   "et": ""
+  }
+ ]
+}

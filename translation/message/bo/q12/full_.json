@@ -1,0 +1,35 @@
+{
+ "file": "script/ENG/message/bo/q12/full_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 00 00}I wanted to thank you for\nbringing me that {ff 00 00 07}medicine{ff 00 00 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n\n{07 1b 00}But you've got no space!{01 00 00 14 00}\nMake some room for\npresents, buddy!",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 00 00}I really want to thank you.{01 00 00 05 00}\n{07 1b 00}But {01 00 00 05 00}you can't{01 00 00 05 00} carry any\nmore stuff!\nLighten your load and come\non back, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 1d 00}Oh, yeah, {01 00 00 05 00}I was going to\nthank you for the {ff 00 00 07}medicine{ff 00 00 00},\n{01 00 00 0a 00}{04 02 00}.",
+   "et": ""
+  },
+  {
+   "id": 3,
+   "en": "{07 19 00}Yeah, right! {01 00 00 0a 00}{07 14 00}Here, let me \ngive you something,\n{01 00 00 0a 00}{04 02 00}.",
+   "et": ""
+  },
+  {
+   "id": 4,
+   "en": "{07 04 00}Whaaat?!{01 00 00 05 00} You still have too\nmuch stuff.\n\n{07 06 00}Dude,{01 00 00 05 00} just chuck some fruit\nor something, then it'll be\nall good, {01 00 00 0a 00}{04 02 00}.",
+   "et": ""
+  },
+  {
+   "id": 5,
+   "en": "{07 1b 00}You're loaded to the gills!{01 00 00 05 00}\n{07 16 00}And I was totally gonna give\nyou something sweet, too.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}",
+   "et": ""
+  }
+ ]
+}

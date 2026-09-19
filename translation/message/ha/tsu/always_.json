@@ -1,0 +1,490 @@
+{
+ "file": "script/ENG/message/ha/tsu/always_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{06 00 00 5f 60}",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 14 00}Hey, listen, I know this is\ncoming out of nowhere, but\nI gotta know, {ff 00 00 05}{04 1f 00}{ff 00 00 00}...\n{07 00 00}Between abs and back\nmuscles...{07 0b 00} Which do you\nlike better?{02 00 00 14 15}\nAbs!\nBack muscles!",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 00 00}Hey yo, {04 1f 00}!{01 00 00 0a 00}\nHave you{01 00 00 05 00}{07 0b 00} pulled any muscles\nrecently?\n{06 0d 00 04 38 39}",
+   "et": ""
+  },
+  {
+   "id": 3,
+   "en": "{07 15 00}Look at me, {ff 00 00 05}{04 1f 00}{ff 00 00 00}!{01 00 00 05 00}\nAnd be honest, {04 02 00}!\n\nYou think all I do is work\nout and get big, don't you?{01 00 00 05 00}\nI want the truth!{02 00 00 16 17}\nThat's true!\nNah...",
+   "et": ""
+  },
+  {
+   "id": 4,
+   "en": "Yo, {ff 00 00 05}{01 00 00 05 00}{04 1f 00}{ff 00 00 00}!{01 01 00} {07 0b 00}Do you like\ncold-drink brain-freeze?{02 01 00 18 19 2f}\nUgh, hate it!\nLove it!\nEh, don't care.",
+   "et": ""
+  },
+  {
+   "id": 5,
+   "en": "{07 15 00}Hey, {01 00 00 05 00}what's with that look?!\n\n\n{06 01 00 1a 1b 1c}",
+   "et": ""
+  },
+  {
+   "id": 6,
+   "en": "{07 00 00}Yo, pop quiz, {01 00 00 05 00}{04 1f 00}!{01 00 00 0a 00}\nReady? {01 00 00 05 00}If I were a banana,\n{07 0b 00}how ripe would I be?{05 05 00 05 1d 05 1e 03 1f 03 20}\nTotally black!\nPretty green.",
+   "et": ""
+  },
+  {
+   "id": 7,
+   "en": "{07 04 00}Whoa, WHOA, {ff 00 00 05}{04 1f 00}{ff 00 00 00}!{01 00 00 14 00}\n{07 0b 00}Aren't you looking a little\nhaggard, {01 00 00 05 00}{04 02 00}?\n{06 01 00 21 22 23}",
+   "et": ""
+  },
+  {
+   "id": 8,
+   "en": "{07 15 00}Know what {04 0c 00} said?{01 00 00 05 00}\n\"Too many push-ups are bad\nfor you!\"{01 00 00 05 00} You believe that?\n{07 00 00}So what's the perfect\nnumber? .{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 0b 00}Do you know?{05 05 00 05 24 05 25 02 26 04 27}\n100.\n99.",
+   "et": ""
+  },
+  {
+   "id": 9,
+   "en": "{07 14 00}Question, {01 00 00 05 00}{04 1f 00}!{01 00 00 0f 00}\nSay I take some tasty\n{04 12 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\nand I pour it over fresh,\nyummy {04 14 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n{07 0b 00}How would it taste?{05 05 00 05 28 05 29 01 29 05 2a}\nSo good!\nAwful!",
+   "et": ""
+  },
+  {
+   "id": 10,
+   "en": "{07 00 00}Hey yo, {01 00 00 05 00}{04 1f 00}!{01 00 00 0f 00}\nWhat do you think I'll be\n{07 0b 00}when I grow up?{02 02 00 2b 2c 2d 2e}\nSumo wrestler!\nBodybuilder!\nBallet dancer!\nKung fu master!",
+   "et": ""
+  },
+  {
+   "id": 11,
+   "en": "{07 04 00}Oh, {01 00 00 05 00}killer timing!{01 01 00}\n{07 14 00}Listen, it's about my\n{0b 02 00}{04 13 00}...\nI'm ALWAYS crashing into\nthis thing when I'm working\nout, so I'll give it to you!{02 00 00 30 30}\nThanks!\nDon't want it.",
+   "et": ""
+  },
+  {
+   "id": 12,
+   "en": "{07 04 00}Check it OUT, {04 1f 00}!{01 00 00 0f 00}\n{07 00 00}I saw the craziest thing,\n{01 00 00 05 00}{04 02 00}!\n{07 15 00}It was a space alien!{01 01 00}\n.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 06 00}And {04 0d 00} was\nfighting it in a leotard!\n{06 0d 00 17 3a 3b}",
+   "et": ""
+  },
+  {
+   "id": 13,
+   "en": "{07 00 00}Yo, I gotta question for\nya!{01 00 00 0f 00} For dudes, what's the\n{07 0b 00}perfect muscle tone?{05 05 00 05 31 03 32 03 32 05 33}\nBuff!\nYoked!",
+   "et": ""
+  },
+  {
+   "id": 14,
+   "en": "Hey, y'know, {01 00 00 05 00}{04 1f 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n{07 06 00}I still have no clue what\nmakes you tick!\n{07 00 00}Seriously! {07 0b 00}What kind of\nperson would you say you\nare, {01 00 00 05 00}{04 02 00}?{02 03 00 34 34 34 34 34}\nCheery!\nBrave!\nKind!\nFunny!\nCute!",
+   "et": ""
+  },
+  {
+   "id": 15,
+   "en": "{06 0b 00 55 56 57 58 59 5a 5b}",
+   "et": ""
+  },
+  {
+   "id": 16,
+   "en": "{07 00 00}Just the other day,{01 00 00 05 00} this\ndude came by and said \"{ff 00 00 02}Want\nto insure your muscles?{ff 00 00 00}\"\nAt the time,{01 00 00 05 00} of course,\nI said no, 'cause who ever\nheard of that...\nThen later on, {04 0b 00}\ntold me{01 00 00 05 00} {07 06 00}it was a scam!{01 00 00 05 00}\nJust crazy, {04 02 00}!\n{06 0d 00 0c 3c 3d}",
+   "et": ""
+  },
+  {
+   "id": 17,
+   "en": "{07 00 00}Ah, {01 00 00 05 00}{04 10 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} {07 06 00}My\nchildhood favorite!{01 00 00 05 00} I wanna\nget into it again!\n{06 0d 00 11 3e 3f}",
+   "et": ""
+  },
+  {
+   "id": 18,
+   "en": "{07 00 00}I'm trying to pick the\npump-up yell I'm gonna use\nduring my training, but...\n{07 06 00}They're all so good, and{01 00 00 05 00} I\ncan't decide on one!\n\n{07 14 00}You gotta tell me which\none rocks the hardest!",
+   "et": ""
+  },
+  {
+   "id": 19,
+   "en": "{07 00 00}My dream is to fill an\nentire swimming pool with \n{04 12 00}...\n{07 14 00}and then drink the entire\nthing while swimming laps,\n{01 00 00 05 00}{04 02 00}!\n{07 15 00}Every stroke I took,\n{04 12 00} would\nflow into my mouth{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 04 00}OH, YEAH!{01 00 00 14 00} {07 07 00}I get pumped up\n{01 00 00 05 00}just THINKING about it!",
+   "et": ""
+  },
+  {
+   "id": 20,
+   "en": "{07 14 00}Man, TOTALLY!\n\n\n{07 00 00}Whenever I slim down a bit\nand that sweet six-pack\nshows up{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}life is good!\n{07 0d 00}I named each of 'em, too!{01 00 00 05 00}\nMeet Joe, Tony, Bud, Ted,\nRod, and Negative Juan!",
+   "et": ""
+  },
+  {
+   "id": 21,
+   "en": "{07 15 00}You think so, {01 00 00 05 00}{04 02 00}?!\n\n\n{07 00 00}Well, {01 00 00 05 00}I dunno how you even\nSEE those things, but...{01 00 00 05 00}{07 14 00}I\nguess they're OK!",
+   "et": ""
+  },
+  {
+   "id": 22,
+   "en": "{07 01 00}How DARE you suggest that!{01 00 00 0f 00}\n{07 15 00}Sure, I train daily, but\nthat ain't ALL I do!\n{07 00 00}Yeah, I take time out to\n{07 05 00}school ignorant folks on my\nhabits, too, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 23,
+   "en": "{07 15 00}You're darn right, \"Nah\"!{01 00 00 05 00}\nIt's not like I'm ALWAYS\nworking out!\n{07 00 00}For example,{01 00 00 05 00} my schedule\nfor today goes like this...\n\nFirst, my regular training\nfor 12 hours,{01 00 00 05 00} then eight\nhours for {04 10 00}...\nOh yeah, then about five\nhours to {04 22 00},\n{07 0e 00}eight for sleep...\n{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{07 0b 00}Huh?!{01 00 00 0a 00} {07 06 00}That's more than 24\nhours, isn't it?! {01 00 00 05 00}That ain't\nright, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 24,
+   "en": "{07 16 00}WHAT?!{01 00 00 14 00} What's wrong with\nyou, huh? {01 00 00 05 00}How can you NOT\nlike that sweet headache?!\nWhat I do is get a cold\ndrink, chug the whole thing\nas fast as possible...\n{07 06 00}Then eat {04 14 00}\nright away!{01 00 00 05 00} My brain AND\nmy belly are like, \"YAARGH!\"",
+   "et": ""
+  },
+  {
+   "id": 25,
+   "en": "{07 14 00}Man, now you're TALKING, \n{01 00 00 05 00}{04 02 00}!\n\n{07 00 00}Y'know, the moment that\nache starts in my sinuses\nand creeps into my brain...\n{07 13 00}I just FEEL myself getting\nsmarter and smarterer{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 26,
+   "en": "{07 15 00}Don't think I haven't seen\nthat look before{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}. The\nlook of the wild{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{0b 03 00}{04 0e 00} gets that look\nwhile scarfing down\n{04 14 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}Hey! {07 02 00}{01 00 00 05 00}What's your prob?!{01 00 00 05 00}\n{07 16 00}Are you even LISTENING,\n{01 00 00 05 00}{04 02 00}?!",
+   "et": ""
+  },
+  {
+   "id": 27,
+   "en": "{07 00 00}Are you trying to hypnotize\nme {07 0b 00}to make me to join the\n{04 10 00} club?\n{07 15 00}You're such a total weirdo,\n{01 00 00 05 00}{04 02 00}.",
+   "et": ""
+  },
+  {
+   "id": 28,
+   "en": "{07 0b 00}You got plastic surgery?!{01 00 00 0a 00}\nYou got that turbo-blink\noperation, {01 00 00 05 00}{04 02 00}?!\n{07 04 00}Oh, {01 00 00 0f 00}man, of COURSE not!{01 00 00 05 00}\n{07 16 00}You don't blink too much!{01 00 00 05 00}\nI swear, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 29,
+   "en": "{07 04 00}What?!{01 00 00 14 00} {07 16 00}Are you saying{01 00 00 05 00} I'm\nbitter and gross?! {01 00 00 05 00}That I\nmake people sick?!\nBut I always saw myself as{01 00 00 05 00}\n{07 06 00}more of a sweet-and-sour\ndude, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 30,
+   "en": "{07 0e 00}Hmmmm... {01 00 00 0a 00}Not exactly sure\nwhat you mean by that,\nbut...\n{07 00 00}You mean{01 00 00 05 00} I'm firm but not\nTOO firm? {01 00 00 05 00}Like my pectoral\nmuscles, {01 00 00 05 00}{04 02 00}?",
+   "et": ""
+  },
+  {
+   "id": 31,
+   "en": "{07 0e 00}Hmmm{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 01 00} {07 00 00}I didn't think I had\nTHAT many spots on me,\n{01 00 00 05 00}{04 02 00}...",
+   "et": ""
+  },
+  {
+   "id": 32,
+   "en": "{07 01 00}H-{01 00 00 05 00}hey!{01 01 00} {07 15 00}I'm not rotten!{01 00 00 05 00}\nAnd I'm sure not mushy!{01 00 00 05 00}\nI'm all banana, baby!{03 02 00 01}",
+   "et": ""
+  },
+  {
+   "id": 33,
+   "en": "{07 15 00}Have I taught you NOTHING?!{01 00 00 05 00}\nYour health starts in your\nabs!{01 00 00 14 00} Repeat after me!{01 00 00 05 00}\n{07 05 00}\"{ff 00 00 02}My abs rock my stomach!\nMy stomach rocks my brain!\nMy brain rocks the HOUSE!{ff 00 00 00}\"\n{07 0e 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}Didja get all that?{01 01 00}\n{07 13 00}Good, 'cause abs are a way\nof LIFE, {04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 34,
+   "en": "{07 16 00}Don't you breathe near me!{01 00 00 05 00}\nI don't want your cold,\n{01 00 00 05 00}{04 02 00}!\n{07 06 00}I've got WAY too much on\nmy plate to go under with\nsome stupid cold!",
+   "et": ""
+  },
+  {
+   "id": 35,
+   "en": "{07 0b 00}You haven't been getting\nenough sleep, have you?\n\n{07 15 00}And you've been doing\ntoo much {04 10 00}\nwith {04 0d 00}, huh?!",
+   "et": ""
+  },
+  {
+   "id": 36,
+   "en": "{07 18 00}Huh?!{01 00 00 0a 00} Whoa, don't you think{01 00 00 05 00}\nthat's a little bit on the\nwimpy side?\n{07 00 00}I mean, I've got a rep.{01 00 00 05 00}\nIf you take my push-up\ntitle away from me...\n{07 06 00}I'll have to make sure I\n{04 22 00} twice as\nmuch, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 37,
+   "en": "What does that even MEAN?{01 00 00 05 00}\nHow do I do half a push-up?{01 00 00 05 00}\nBend my arms and {07 0b 00}STOP?!\n{07 06 00}That's against the laws of\nphysics or something! {01 00 00 05 00}Your\narms might implode!\n{07 15 00}I'd report you to the\nNational Push-Up Board if\nthere was one, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 38,
+   "en": "{07 02 00}Whoa, YEAH! {01 00 00 05 00}Totally!{01 00 00 14 00}\n{07 14 00}I was thinking that was\nthe EXACT number, too!\n70 percent is PERFECT for\nyour last push-up. {01 00 00 05 00}Gotta\nget those arms shaking!\n{07 0a 00}Wow, you sure know a lot\nabout muscles, don'tcha,\n{ff 00 00 05}{04 1f 00}{ff 00 00 00}?! {01 00 00 05 00}{0b 03 00}{04 02 00}!{03 01 00 01}",
+   "et": ""
+  },
+  {
+   "id": 39,
+   "en": "{07 15 00}See, now, don't you think\nthat's too much?!\n\n{07 06 00}I mean, muscle ache is one\nthing, but that might give\nyou BONE ache, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 40,
+   "en": "{07 15 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}You don't know a THING\nabout gourmet living, you\nknow that, {01 00 00 05 00}{04 02 00}?!\nYeah. {01 00 00 05 00}Enjoy your hot dogs\nwrapped in white bread.{01 00 00 05 00}\n{07 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}I cry for your belly.",
+   "et": ""
+  },
+  {
+   "id": 41,
+   "en": "{07 01 00}Oh, c'mon!{01 00 00 05 00} Come down off\nyour snobby horse and try\nsomething unique!\n{07 15 00}I bet you only chow on\nfrozen {04 14 00}!{01 00 00 05 00}\nLive a little, {04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 42,
+   "en": "{07 18 00}Whoa, seriously?!{01 00 00 14 00}\n{07 16 00}Man, I was KIDDING!\n\n{07 04 00}What?{01 00 00 0a 00} You've actually tried\nit and{01 00 00 05 00}{07 0b 00} it tasted good AND\ncleared up your pimples?!\n{07 16 00}Whoa, who would've figured\nthat{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{01 00 00 05 00}{04 02 00}.",
+   "et": ""
+  },
+  {
+   "id": 43,
+   "en": "{07 0e 00}A sumo wrestler, {01 00 00 05 00}huh{01 00 00 0a 00}.{01 00 00 0a 00}.{01 00 00 0a 00}.{01 00 00 0a 00}\n{07 14 00}Not bad! {01 00 00 05 00}Not bad at all!{01 00 00 05 00}\nI can dig it, {04 02 00}!\n{07 00 00}Under all that flab is a\nMOUNTAIN of muscle, baby!{01 00 00 05 00}\nRock on, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 44,
+   "en": "{07 0e 00}A bodybuilder, {01 00 00 05 00}huh{01 00 00 0a 00}.{01 00 00 0a 00}.{01 00 00 0a 00}.{01 00 00 0a 00}\n{07 14 00}Yeah, I could get behind\nTHAT idea, {01 00 00 05 00}{04 02 00}!\n{07 00 00}Muscles trained to the max!{01 00 00 05 00}\nBulging pecs and rippling\nabs, {01 00 00 05 00}{04 02 00}!\n{07 16 00}Body fat way, way down!{01 00 00 05 00}\nWalking around greased up\nwith oil and flexing!\n{07 0d 00}Sounds perfect to me,\n{01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 45,
+   "en": "{07 14 00}A ballet dancer, {01 00 00 05 00}huh?{01 00 00 0a 00}\nI{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}guess that's possible,{01 00 00 05 00}\n{04 02 00}!\n{07 00 00}I mean, I've got the muscle\ntone for it, but those\ntight leotards{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n{07 06 00}Actually, don't tell anyone,\nbut I've always wanted to\nwear one{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{04 02 00}.",
+   "et": ""
+  },
+  {
+   "id": 46,
+   "en": "{07 14 00}A kung fu master, {01 00 00 05 00}huh?!{01 00 00 0a 00}\nThat's good! {01 00 00 05 00}That's REAL\ngood, {01 00 00 05 00}{04 02 00}!\n{07 01 00}Heeee-YAAAAAAAAAAAH!{01 00 00 0a 00}\n.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 14 00}Oh, man, that would just\nplain RULE, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 47,
+   "en": "{07 02 00}What?!{01 00 00 14 00}{07 15 00} You kids don't care\nabout ANYTHING anymore!\n\n{07 05 00}I WEEP for {04 03 00},\n{01 00 00 05 00}{04 02 00}!\n\n{07 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}The TV told me that the\nyouth of today are sorta\naloof, but GOSH!",
+   "et": ""
+  },
+  {
+   "id": 48,
+   "en": "{07 04 00}Oh, crud.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00} I forgot to\nbring it, {01 00 00 05 00}{04 02 00}!\n\n{07 16 00}Sorry!{01 00 00 0a 00} Totally weak, I know.{01 00 00 05 00}\nWell, maybe next time,\n{01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 49,
+   "en": "{07 15 00}Hey, c'mon, {ff 00 00 05}{01 00 00 05 00}{04 1f 00}{ff 00 00 00}!\n\n\nHolding everyone else up to\nmy standards is pretty\nunfair, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 50,
+   "en": "{07 02 00}What?!{01 00 00 0a 00} {07 15 00}You have NO idea\nabout muscles!{01 00 00 05 00} Don't you\nread Hunk World Weekly?\n{07 00 00}To know muscles, you have\nto THINK like muscles!{01 00 00 05 00}\n{07 0e 00}You gotta ache{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 0d 00}Try doing {04 10 00}\nuntil you can barely move,\nthen come talk to me!",
+   "et": ""
+  },
+  {
+   "id": 51,
+   "en": "{07 02 00}Whoa!{01 01 00} {07 0d 00}It's like you read my\nmind, {01 00 00 05 00}{04 02 00}!\n\n{07 14 00}Check it out! You see my\nbiceps twitching? {01 00 00 05 00}Even my\nmuscles agree with you!\n{07 0d 00}They're throwing a little\nmuscle party in there!{01 00 00 05 00}\nAwesome, {01 00 00 05 00}{04 02 00}!{03 01 00 02}",
+   "et": ""
+  },
+  {
+   "id": 52,
+   "en": "{06 01 00 35 36 37}",
+   "et": ""
+  },
+  {
+   "id": 53,
+   "en": "{07 01 00}NO!{01 00 00 05 00} You hear me?!{01 00 00 05 00} NO!{01 00 00 14 00}\n{07 15 00}NOT good enough!\n\n{07 00 00}You gotta become more\nMUSCLE-BOUND, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 54,
+   "en": "{07 01 00}That's not gonna win you\nany awards!{01 00 00 0f 00} {07 16 00}Have I taught\nyou nothing?!\n{07 00 00}First, push-ups!{01 00 00 05 00} Second,\nsit-ups!{01 00 00 05 00} Then ab-crushers!{01 00 00 05 00}\nThen pectoral-bombs!\nFifth, lateral-squats!{01 00 00 05 00}\n{07 15 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}Got all that?\n\n{07 19 00}Forget all that personality\nstuff! {01 00 00 05 00}You gotta be defined\nby muscles, {01 00 00 05 00}{ff 00 00 05}{04 1f 00}{ff 00 00 00}!",
+   "et": ""
+  },
+  {
+   "id": 55,
+   "en": "{07 01 00}NOOOOO!{01 00 00 0a 00} There's something\nMUCH more important than\nthat, {01 00 00 05 00}{04 02 00}!\n{07 00 00}For example, {01 00 00 05 00}{07 0e 00}let's see{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\nHmmmmmmm{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n\n{07 00 00}No{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} {07 14 00}Actually, you're good \njust the way you are now!",
+   "et": ""
+  },
+  {
+   "id": 56,
+   "en": "{07 15 00}Man, my calves clenched up\nyesterday and they STILL\naren't right, {01 00 00 05 00}{04 02 00}!\n{07 06 00}I can't BEAR to miss any\nworkouts 'cause of this!{01 01 00}\n{07 17 00}Get it?",
+   "et": ""
+  },
+  {
+   "id": 57,
+   "en": "{07 00 00}You know what actually\nworks on pulled muscles?{01 00 00 05 00}\nWrap 'em in salmon fillets!\n{07 16 00}The only problem is the\nstench, but it's a small\nprice to pay, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 58,
+   "en": "{07 01 00}At first I was mad because\nI thought NO ONE looked as\ngood as me in a leotard{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 06 00}But now, instead of being\njealous, I'm worried that I\ndreamed the whole thing!",
+   "et": ""
+  },
+  {
+   "id": 59,
+   "en": "{07 13 00}Sure, I had just rammed my\nhead into a tree while\nfleeing bees, but still{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}",
+   "et": ""
+  },
+  {
+   "id": 60,
+   "en": "{07 00 00}Man{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n\n\n{07 06 00}\"Muscle insurance\"!{01 00 00 05 00} Talk\nabout pearls before swine,\n{01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 61,
+   "en": "{07 14 00}What a chump. {01 00 00 05 00}You gotta\nget up early to fool THESE\nmuscles, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 62,
+   "en": "{07 04 00}Whoa, but maybe I just\nloved it then because I was\na tadpole, {01 00 00 05 00}{04 02 00}!\n{07 06 00}CURSE YOU, TIME!{01 00 00 0a 00} Give me\nback my youth!{01 00 00 0a 00} Ever feel\nthat way, {ff 00 00 05}{04 1f 00}{ff 00 00 00}?!",
+   "et": ""
+  },
+  {
+   "id": 63,
+   "en": "{07 14 00}Sweating bullets!{01 00 00 05 00} Muscles\naching! {01 00 00 05 00}Full-on dominating!{01 01 00}\n{01 08 00}{07 01 00}MAN, was I a hunk!",
+   "et": ""
+  },
+  {
+   "id": 64,
+   "en": "{06 01 00 41 42 43}",
+   "et": ""
+  },
+  {
+   "id": 65,
+   "en": "{06 01 00 44 45 46}",
+   "et": ""
+  },
+  {
+   "id": 66,
+   "en": "{06 01 00 47 48 49}",
+   "et": ""
+  },
+  {
+   "id": 67,
+   "en": "{06 01 00 4a 4b 4c}",
+   "et": ""
+  },
+  {
+   "id": 68,
+   "en": "{07 01 00}\"Hey hey, {01 00 00 05 00}WHAAAAAAAT!\"{01 01 00}\n{07 0b 00}How's that?{02 00 00 4d 4e}\nThat's OK.\nTry another...",
+   "et": ""
+  },
+  {
+   "id": 69,
+   "en": "{07 01 00}\"Burning {04 01 00}!\"{01 01 00}\n{07 0b 00}That one?{02 00 00 4d 4e}\nPretty good!\nAbsolutely not!",
+   "et": ""
+  },
+  {
+   "id": 70,
+   "en": "{07 01 00}\"THIRTY TO THUNDER!\"{01 01 00}\n{07 0b 00}How about {01 00 00 05 00}that?{02 00 00 4d 4e}\nThat's it!\nThat's lame.",
+   "et": ""
+  },
+  {
+   "id": 71,
+   "en": "{07 01 00}\"TIME FOR HUGENESS!\"{01 01 00}\n{07 0b 00}How about that one?{02 00 00 4d 4e}\nGood!\nNo!",
+   "et": ""
+  },
+  {
+   "id": 72,
+   "en": "{07 01 00}\"BOOOO-WAAAAARGH!!\"{01 01 00}\n{07 14 00}That's my best one so far!{02 00 00 4d 4e}\nCool!\nAwful!",
+   "et": ""
+  },
+  {
+   "id": 73,
+   "en": "{07 01 00}\"YOU'RE ALL GONNA PAY!\"{01 01 00}\n{07 14 00}{0b 03 00}{04 0b 00} digs that one!{02 00 00 4d 4e}\nPretty good!\nNo way!",
+   "et": ""
+  },
+  {
+   "id": 74,
+   "en": "{07 01 00}\"HOOGITY BOOGITY!\"{01 01 00}\n{07 0b 00}How's THAT?!{02 00 00 4d 4e}\nThat's good!\nNot so good.",
+   "et": ""
+  },
+  {
+   "id": 75,
+   "en": "{07 01 00}\"PICKLES WITH HOT SAUCE!\"{01 01 00}\n{07 0b 00}How about that?!{02 00 00 4d 4e}\nNiiiiiiice.\nWait, what?",
+   "et": ""
+  },
+  {
+   "id": 76,
+   "en": "{07 01 00}\"{0b 03 00}{01 06 00}HELLOOOOOOO, MUSCLES{01 07 00}!!\"{01 01 00}\n{07 14 00}That's gotta be it!{02 00 00 4d 4e}\nDefinitely!\nNope.",
+   "et": ""
+  },
+  {
+   "id": 77,
+   "en": "{07 14 00}Awesome!{01 00 00 05 00} When you hear\nthat,{01 00 00 05 00} it means I just got\nhuger, {04 02 00}!\n{06 01 00 4f 50 51}",
+   "et": ""
+  },
+  {
+   "id": 78,
+   "en": "{06 01 00 52 53 54}",
+   "et": ""
+  },
+  {
+   "id": 79,
+   "en": "{07 14 00}Thanks,{01 00 00 05 00} {ff 00 00 05}{04 1f 00}{ff 00 00 00}!{01 00 00 05 00}\n{0b 03 00}{04 02 00}!{03 01 00 01}",
+   "et": ""
+  },
+  {
+   "id": 80,
+   "en": "{07 0a 00}You're a huge help,{01 00 00 05 00}\n{ff 00 00 05}{04 1f 00}{ff 00 00 00}!{03 01 00 01}",
+   "et": ""
+  },
+  {
+   "id": 81,
+   "en": "{07 14 00}I'm psyched to finally get\nthat settled, 'cause I'd\nstopped working out{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 06 00}Nahhhh, {01 00 00 05 00}I'm just kidding!{01 00 00 0a 00}\nYou know I pump iron every\nday, {ff 00 00 05}{04 1f 00}{ff 00 00 00}!",
+   "et": ""
+  },
+  {
+   "id": 82,
+   "en": "{07 0b 00}Not so good, huh?{01 01 00}\n{07 00 00}Then,{01 00 00 05 00} here comes the next\none, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 83,
+   "en": "{07 16 00}Not into that one, huh?{01 01 00}\n{07 0e 00}Let's see{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.",
+   "et": ""
+  },
+  {
+   "id": 84,
+   "en": "{07 0b 00}Hmmmmm, {01 00 00 05 00}really? {01 00 00 05 00}No good?{01 01 00}\n{07 0e 00}OK, then{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.",
+   "et": ""
+  },
+  {
+   "id": 85,
+   "en": "{07 14 00}Mondays are chin-up days!{01 00 00 0a 00}\n{07 0d 00}Get the week started by\nPUNISHING those arms!\n{06 01 00 5c 5d 5e}",
+   "et": ""
+  },
+  {
+   "id": 86,
+   "en": "{07 14 00}Tuesdays are the perfect\ndays for strengthening your\nback muscles, {01 00 00 05 00}{04 02 00}!\n{06 01 00 5c 5d 5e}",
+   "et": ""
+  },
+  {
+   "id": 87,
+   "en": "{07 14 00}Wednesdays are all about\nstaying on top of trends!{01 00 00 0a 00}\n{07 00 00}{0b 03 00}{04 10 00} is hot now...\n{06 01 00 5c 5d 5e}",
+   "et": ""
+  },
+  {
+   "id": 88,
+   "en": "{07 00 00}I've got one word for you\non Thursdays: {01 00 00 05 00}push-ups!{01 00 00 05 00}\nLots of 'em, {01 00 00 05 00}{04 02 00}!\n{06 01 00 5c 5d 5e}",
+   "et": ""
+  },
+  {
+   "id": 89,
+   "en": "{07 14 00}Friday is quad-blaster\nday, don't forget!\n\n{06 01 00 5c 5d 5e}",
+   "et": ""
+  },
+  {
+   "id": 90,
+   "en": "{07 14 00}On Saturdays, {01 00 00 0a 00}what you\nwanna do are sit-ups, and\ntons of 'em, {01 00 00 05 00}{04 02 00}!\n{06 01 00 5c 5d 5e}",
+   "et": ""
+  },
+  {
+   "id": 91,
+   "en": "{07 14 00}I tend to do marathon-\nrunning on Sundays, y'know,\n{01 00 00 05 00}{04 02 00}!\n{06 01 00 5c 5d 5e}",
+   "et": ""
+  },
+  {
+   "id": 92,
+   "en": "{07 16 00}For some reason, though,{01 00 00 05 00}\nmy usual routine{07 0f 00} isn't doing\nit for me today...{03 03 00 01}",
+   "et": ""
+  },
+  {
+   "id": 93,
+   "en": "{07 00 00}Usually I work out alone,\nbut hey, since you're here\nand everything...\n{07 0d 00}Maybe we could do some\ngroup calisthenics\ntogether, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 94,
+   "en": "{07 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 0b 00}Huh?{01 00 00 14 00} Why do I do so much\nworking out all the time?\n\n{07 15 00}Man, isn't it obvious?{01 00 00 05 00}\n{07 0d 00}I wanna have more muscles,\n{01 00 00 05 00}{04 02 00}!{03 01 00 01}",
+   "et": ""
+  },
+  {
+   "id": 95,
+   "en": "{07 00 00}Hey, {ff 00 00 05}{01 00 00 05 00}{04 1f 00}{ff 00 00 00}!\n\n\n{07 05 00}Get ready to rock, 'cause\nwhen I rock, even rocks\nhave to rock, {01 00 00 05 00}{04 02 00}!\n{07 0b 00}Whatcha think?! {01 01 00}{07 0d 00}That's rad\nenough to be Catchphrase\nof the Year, huh!{03 01 00 01}",
+   "et": ""
+  },
+  {
+   "id": 96,
+   "en": "{07 0e 00}Y'know, {01 00 00 05 00}I've been thinking,\nmacaroni and cheese may be\nthe best food ever{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 14 00}Although {04 14 00}\ncould give it a run for its\nmoney, {01 00 00 05 00}{04 02 00}...",
+   "et": ""
+  }
+ ]
+}

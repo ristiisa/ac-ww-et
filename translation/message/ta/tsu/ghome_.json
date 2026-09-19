@@ -1,0 +1,70 @@
+{
+ "file": "script/ENG/message/ta/tsu/ghome_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 0e 00}{01 00 00 0a 00}I think{01 00 00 0a 00} my ex lives in{01 00 00 0a 00}\nyour town, {01 00 00 0a 00}{04 02 00}.{02 01 00 03 04 05}\nWho's that?\nI know who!\nUh, OK...",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 14 00}Hmmm, {01 00 00 0f 00}there's someone who\nlooks a lot like you in this\ntown, {01 00 00 0a 00}{04 02 00}.\n{06 04 00 06 07 08 09}",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 15 00}This town is way too small\nfor my taste, {01 00 00 0a 00}{04 02 00}!\n\n{06 07 00 0a 0a 0b 0c}",
+   "et": ""
+  },
+  {
+   "id": 3,
+   "en": "{01 00 00 0a 00}{07 1b 00}{01 00 00 05 00}Hee hee!{01 00 00 0a 00} Well, I put his\nname out of my head a\nlong time ago, {01 00 00 0a 00}{04 02 00}.",
+   "et": ""
+  },
+  {
+   "id": 4,
+   "en": "{07 04 00}Liar!{01 00 00 05 00} How do you know?!{01 01 00}\n{07 0e 00}{01 00 00 0a 00}Maybe{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}. {07 15 00}No,{01 00 00 0a 00} it can't be!{01 00 00 14 00}\nThey wouldn't{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00}\n{07 09 00}Um{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 14 00} I think I need to go\ncry now, {01 00 00 0a 00}{04 02 00}.{03 03 00 02}",
+   "et": ""
+  },
+  {
+   "id": 5,
+   "en": "{07 04 00}What? {01 00 00 0a 00}WHAT?!{01 00 00 0a 00} What's that\nlook for?{01 01 00} {07 06 00}This is really\nimportant, {01 00 00 0a 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 6,
+   "en": "{07 00 00}It's a kid who doesn't blink\nmuch and lives in that\nhouse over there.\n{07 19 00}The kid is working to pay\noff a debt to {ff 00 00 06}Tom Nook{ff 00 00 00}.{01 00 00 05 00}\nYeah, it's a town secret.{07 00 00}",
+   "et": ""
+  },
+  {
+   "id": 7,
+   "en": "{07 00 00}I'll bet that, like you, that\nkid didn't have a lot\ngrowing up. {01 00 00 0a 00}Not me, though!\n{01 00 00 0a 00}{07 1b 00}{01 00 00 05 00}You know, if we didn't\nlive in the same town, we'd\nprobably never have met.{01 00 00 05 00}.{01 00 00 05 00}.",
+   "et": ""
+  },
+  {
+   "id": 8,
+   "en": "{07 00 00}I noticed that that house\ngained a level.{01 01 00} {07 0b 00}{01 00 00 05 00}Is the\nresident a friend of yours?",
+   "et": ""
+  },
+  {
+   "id": 9,
+   "en": "{07 00 00}{01 00 00 0a 00}Yeah, that kid lives in this\nHUGE house! It's really\nawesome, {04 02 00}.\n{07 0d 00}If I were you, {01 00 00 0a 00}I would\ndefinitely be extra\nfriendly!",
+   "et": ""
+  },
+  {
+   "id": 10,
+   "en": "{07 1c 00}{01 00 00 0a 00}There are, like, NO people\nin this town {01 00 00 0a 00}and, like, ZERO\nquality boys!\n{07 06 00}At this rate,{01 00 00 05 00} how am I\nsupposed to meet the man\nof my dreams, {01 00 00 0a 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 11,
+   "en": "{07 1c 00}{01 00 00 0a 00}There are, like, NO people\nin this town {01 00 00 0a 00}and, like, ZERO\nquality boys.\n{07 16 00}If there are cool people in\nyour town, {04 1f 00},\nsend them this way!",
+   "et": ""
+  },
+  {
+   "id": 12,
+   "en": "{07 0e 00}{01 00 00 0a 00}I mean, with so many people,\nyou'd think I'd meet one or\ntwo, right?\n{07 15 00}Every time I hear something\nabout your town,{01 00 00 05 00} I{01 00 00 0a 00} just get\nso jealous!",
+   "et": ""
+  }
+ ]
+}

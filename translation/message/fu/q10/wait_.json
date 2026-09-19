@@ -1,0 +1,20 @@
+{
+ "file": "script/ENG/message/fu/q10/wait_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 1d 00}What?{01 00 00 0f 00} Are you going\nsomewhere? {01 00 00 05 00}Oh, that's too\nbad, {01 00 00 05 00}{04 02 00}!\n{07 0f 00}Well, if you're going\nsomewhere, I guess I'll\nget going, too.",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 04 00}{0b 03 00}{04 1f 00}{01 00 00 0f 00}! Are you\nleaving?{01 00 00 0a 00} Wow, seriously, \n{01 00 00 05 00}{04 02 00}?\n{07 00 00}In that case, I guess I'll\nget going too{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 00 00}Ummmm, excuse me,\n{01 00 00 05 00}{04 1f 00}?{01 00 00 0a 00} {07 0b 00}Are you going\nsomewhere?\n{07 00 00}Oh. Well, then,{01 00 00 05 00} I'll get going\ntoo{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.",
+   "et": ""
+  }
+ ]
+}

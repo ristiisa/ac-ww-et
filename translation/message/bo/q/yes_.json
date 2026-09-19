@@ -1,0 +1,20 @@
+{
+ "file": "script/ENG/message/bo/q/yes_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 00 00}I knew I could count on you,\n{04 1f 00}!{01 01 00} {07 14 00}Don't let me\ndown,{01 00 00 0a 00} {04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 00 00}Thank you!{01 01 00} {07 14 00}I'm counting on\nyou now, {01 00 00 0a 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 00 00}Yesss!{01 01 00} {07 14 00}Now's your chance to\nshow off what you got,\n{01 00 00 0a 00}{04 02 00}.",
+   "et": ""
+  }
+ ]
+}

@@ -1,0 +1,80 @@
+{
+ "file": "script/ENG/message/ge/ev/fishing_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 14 00}Heya, {04 1f 00}!{01 00 00 0a 00} Today's\nthe big {ff 00 00 03}Fishing Tourney{ff 00 00 00},\n{01 00 00 05 00}{04 02 00}!\n{07 15 00}...Now we can finally settle \nthe score!!",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 1b 00}Yes!!{01 00 00 0a 00} I'm gonna do soooo\ngood at today's big \n{ff 00 00 03}Fishing Tourney{ff 00 00 00}!\n{07 11 00}Yes, that'll fit VERY nicely\ninto my, {01 00 00 03 00}like,{01 00 00 03 00} master plan.\nTee hee hee!",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 04 00}It's {01 00 00 05 00}{04 1f 00}!{01 00 00 0f 00}{07 14 00} Y'know,\ntoday's the big {ff 00 00 03}Fishing\nTourney, {ff 00 00 00}{01 00 00 05 00}{04 02 00}!\n{07 15 00}{01 08 00}So STAY OUTTA MY WAY!{01 00 00 0f 00}{07 00 00} I've\nbeen secretly training for\nthis day for a LONG time!\n{07 11 00}Now {01 00 00 05 00}I can catch three fish\nwith ONE piece of bait...{01 00 00 14 00}\nNO! I WON'T tell you how!",
+   "et": ""
+  },
+  {
+   "id": 3,
+   "en": "{07 0d 00}Yes!!{01 00 00 0a 00} Right now, I'm the\nworld-record holder!\n\n{07 00 00}When I caught that \n{ff 00 00 02}{04 0f 00}-inch\n{ff 00 00 00}{0b 02 00}{04 1a 00}...\n{07 02 00}I almost fainted!{01 00 00 0a 00} That would\nhave been embarrassing,\n{01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 4,
+   "en": "{07 14 00}{0b 03 00}{04 1f 00}!{01 00 00 0a 00} That big\n{0b 02 00}{04 1a 00} I\ncaught was {ff 00 00 02}{04 0f 00} inches{ff 00 00 00}!\n{07 0d 00}And now I'm at the top of\nthe leaderboard,\n{01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 5,
+   "en": "{07 14 00}The biggest fish so far is\na whopping {ff 00 00 02}{04 0f 00}-inch\n{ff 00 00 00}{0b 02 00}{04 1a 00}!{ff 00 00 02}\n{ff 00 00 00}{07 0d 00}And it's MINE! Yay me! \nI can't believe I caught it,\n{01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 6,
+   "en": "{07 15 00}H-{01 00 00 05 00}hey!{01 00 00 0a 00} HEY!{01 00 00 0a 00} You're TOTALLY\nfollowing me!{01 00 00 0a 00} Stop it,\nyou creep!\n{07 11 00}I'm going to my secret\nfishing spot, {01 00 00 05 00}{04 02 00}!{01 00 00 0a 00}\nSo buzz off!",
+   "et": ""
+  },
+  {
+   "id": 7,
+   "en": "{ff 00 00 04}{07 00 00}{07 01 00}{0b 03 00}{04 10 00}'s stupid old\n{0b 02 00}{04 1a 00} is\nthe biggest fish so far...{ff 00 00 00}\nI heard it was even\n{ff 00 00 02}{04 0f 00} inches{ff 00 00 00} long{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00} {07 00 00}{07 02 00}OH!{01 00 00 0f 00}\nUm...I gotta go!{01 00 00 05 00} Gotta fish!",
+   "et": ""
+  },
+  {
+   "id": 8,
+   "en": "{07 06 00}Stupid {04 10 00}'s\n{ff 00 00 02}{04 0f 00}-inch {ff 00 00 00}fish is in the\ntop spot.\n{07 15 00}Oh, did you hear that?{01 00 00 0f 00} Too\nbad!{01 00 00 0a 00} I won't lose!{01 00 00 0a 00} I'll NEVER\nbe a loser again{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} {07 05 00}EVER!!!",
+   "et": ""
+  },
+  {
+   "id": 9,
+   "en": "{07 0e 00}Did you hear about that\nhumongous {ff 00 00 02}{04 0f 00}-inch\n{ff 00 00 00}{0b 02 00}{04 1a 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 07 00}What did it eat to get that\nbig, {01 00 00 05 00}{04 02 00}?! Do you\nthink it's eating.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}US??!!",
+   "et": ""
+  },
+  {
+   "id": 10,
+   "en": "{07 0f 00}Remember when{01 00 00 05 00} my line got\ntangled with {04 10 00}'s?{01 00 00 0f 00}\nOF COURSE YOU DO!! SO SAD!!",
+   "et": ""
+  },
+  {
+   "id": 11,
+   "en": "{07 00 00}Didja hear?{01 00 00 0f 00} {0b 03 00}{04 10 00}{ff 00 00 06} {ff 00 00 00}got\n{04 1a 00}!!\n...Oh, of course you did.\nSo, it was {ff 00 00 02}{04 0f 00} inches\n{ff 00 00 00}long,{01 00 00 05 00} and it's leading\nthe pack, {01 00 00 05 00}{04 02 00}!\n{07 15 00}Unless I catch a legendary\nMONSTER fish, there's NO WAY\nI can win!{01 00 00 0f 00} Stupid fish!!",
+   "et": ""
+  },
+  {
+   "id": 12,
+   "en": "{07 16 00}It's so hard to catch the\nbig one, {01 00 00 05 00}{04 02 00}...{01 00 00 0a 00} {07 00 00}{07 0b 00}Is it\nmy bait?{01 00 00 0a 00} My fishing? Or...\n{07 08 00}Maybe I'm just not good at\nANYTHING AT ALL,\n{01 00 00 05 00}{04 02 00}!!",
+   "et": ""
+  },
+  {
+   "id": 13,
+   "en": "{07 16 00}Catching a fish \nbigger than {ff 00 00 02}{04 0f 00}\ninches{ff 00 00 00}...{01 00 00 05 00} Wow!{01 00 00 05 00} TOTALLY hard!\n{07 0f 00}Actually,{01 00 00 03 00} that sounds\nIMPOSSIBLE for someone\nas small and cute as me!",
+   "et": ""
+  },
+  {
+   "id": 14,
+   "en": "{ff 00 00 04}{07 00 00}Right now, {04 10 00}'s\n{ff 00 00 02}{04 0f 00}-inch{ff 00 00 04} fish is the\nbiggest of them all!\n{0b 03 00}{04 10 00} keeps saying\nthat it's beginner's luck{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{ff 00 00 00}{07 01 00}LUCK?! {01 00 00 14 00}{07 00 00}{07 04 00}Oh, hi, {04 1f 00}.\n{07 00 00}{07 0f 00}Luck abandoned me when I\nwas BORN{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}. I'm never going\nto win anything{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}. Ever.",
+   "et": ""
+  }
+ ]
+}

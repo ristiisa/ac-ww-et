@@ -1,0 +1,20 @@
+{
+ "file": "script/ENG/message/bo/q01/revenge_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 19 00}You know,{01 00 00 0a 00} I think I'm gonna\npractice being better\nfriends with the insects.\n{07 14 00}So we should go catch\nmore sometime,{01 00 00 0a 00}\n{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{07 16 00}Awww,{01 00 00 14 00} I meant to be nice\nto the bugs.{01 00 00 05 00} I really did!\n\n{07 16 00}I guess I'll have{01 00 00 0a 00} to just\n{01 00 00 0a 00}try again{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00}{07 1b 00} Well!{01 00 00 0a 00}\n{0b 03 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 19 00}Sheesh{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00}I can't believe how\nmany pro-style bug\ncatchers {04 03 00} has.",
+   "et": ""
+  }
+ ]
+}

@@ -1,0 +1,110 @@
+{
+ "file": "script/ENG/message/ha/ev/countdown_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 02 00}I heard the craziest thing!{01 01 00}\n{07 16 00}It's the last day of the\nyear! Can you believe that?\n{07 00 00}{ff 00 00 06}Tortimer{ff 00 00 00}'s throwing a{ff 00 00 06}\n{ff 00 00 03}countdown{ff 00 00 00} rager down at\nthe {ff 00 00 08}plaza{ff 00 00 00}.\nAsk him if you want to hear\nall the details,{ff 00 00 06}\n{ff 00 00 00}{01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 16 00}Yo, {01 00 00 05 00}{04 1f 00}!{01 00 00 14 00}\nI think {ff 00 00 06}Tortimer{ff 00 00 00} has\nsnapped or something!{ff 00 00 06}\n{ff 00 00 00}The old dude started the\n{ff 00 00 03}countdown{ff 00 00 00} at the {ff 00 00 08}plaza\n{ff 00 00 00}way early{ff 00 00 08} {ff 00 00 00}this morning!\n{07 06 00}You better go make sure\nthe dude is OK,\n{01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 13 00}Next year is all about\nchiseled abs and mind-\nblowing biceps, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 3,
+   "en": "{07 0b 00}Is {ff 00 00 06}Tortimer {ff 00 00 00}still doing\nthe {ff 00 00 03}countdown{ff 00 00 00},{ff 00 00 03} {ff 00 00 00}{01 00 00 05 00}{04 02 00}?\n\n{07 16 00}Doesn't he have anything\nelse to do?{01 01 00} {07 0e 00}You know,\nlike incline crunches?",
+   "et": ""
+  },
+  {
+   "id": 4,
+   "en": "{07 14 00}It's startin' to get dark,{01 00 00 0a 00}\n{04 1f 00}!\n\n{07 00 00}Feel like doing wind\nsprints until the big\n{ff 00 00 03}countdown{ff 00 00 00}, {01 00 00 05 00}{04 02 00}?",
+   "et": ""
+  },
+  {
+   "id": 5,
+   "en": "{07 0e 00}Man, it seems like all I did\nthis last year was work\nout and sleep{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 00 00}{07 0d 00}Next year, I'm gonna cut\nout the sleep part,\n{01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 6,
+   "en": "{07 04 00}What?! There's only an hour\nleft of this year,\n{01 00 00 05 00}{04 02 00}?\n{07 06 00}But I've got 1,432 ab\nblasters to go before I hit\nmy goal for the year!!!{01 00 00 05 00}\n{07 1c 00}Well{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}I better get crunchin'!",
+   "et": ""
+  },
+  {
+   "id": 7,
+   "en": "{07 15 00}We've only got one more\nhour to go, {01 00 00 05 00}{04 02 00}!\n\n{07 14 00}I've got so many rad\nmemories from this last\nyear{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n{07 0e 00}Tricep exploders, deltoid\ndominators, {01 00 00 05 00}hamstring\npulls{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 02 00}MAN!{01 00 00 05 00} How cool was that?!",
+   "et": ""
+  },
+  {
+   "id": 8,
+   "en": "{07 00 00}I'm getting so pumped\nabout the new year!\n\n{07 0d 00}It makes me wanna flex\nevery muscle on my body at\nonce, {01 00 00 05 00}{04 02 00}!\n{07 15 00}Whoa, what if I rip my\nclothes?! {01 00 00 05 00}That would be\nEPIC!",
+   "et": ""
+  },
+  {
+   "id": 9,
+   "en": "{07 14 00}{0b 03 00}{ff 00 00 05}{04 1f 00}{ff 00 00 00}! {01 00 00 0a 00}How can you be\nso chill about the New\nYear's {ff 00 00 03}countdown{ff 00 00 00}?!\n{07 03 00}I guess you're all grown\nup and serious now,\n{01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 10,
+   "en": "{07 06 00}My veins just start BULGING\nevery time I think about\nnext year!",
+   "et": ""
+  },
+  {
+   "id": 11,
+   "en": "{07 15 00}The judge is about to ring\nthe starting bell,\n{01 00 00 05 00}{04 02 00}!\n{07 04 00}WHOA!{01 00 00 14 00} I got confused\nthere for a second. {07 0f 00}This is\nthe {ff 00 00 03}countdown{ff 00 00 00}!{ff 00 00 03} {01 00 00 05 00}{ff 00 00 00}My bad{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}",
+   "et": ""
+  },
+  {
+   "id": 12,
+   "en": "{07 15 00}{0b 03 00}{04 1f 00}!{01 00 00 0a 00} Why does the\nyear have to be over\nalready?!\n{07 06 00}I just wanted to box you\none more time before it\nwas over!",
+   "et": ""
+  },
+  {
+   "id": 13,
+   "en": "{07 14 00}See ya same time, same\nplace next year,\n{01 00 00 05 00}{ff 00 00 05}{04 1f 00}{ff 00 00 00}!",
+   "et": ""
+  },
+  {
+   "id": 14,
+   "en": "{07 14 00}HAPPY NEW YEAR, {01 00 00 05 00}{04 02 00}!\n\n\n{07 0d 00}Rock on,{ff 00 00 02} {01 00 00 05 00}{04 0f 00}{ff 00 00 00}!",
+   "et": ""
+  },
+  {
+   "id": 15,
+   "en": "{07 14 00}HAPPY NEW YEAR, {01 00 00 05 00}{04 02 00}!\n{07 00 00}I dunno why I get so fired\nup about the new year.\n{07 0d 00}But I guess being pumped\nis never a bad thing,\n{01 00 00 14 00}{ff 00 00 05}{04 1f 00}{ff 00 00 00}!",
+   "et": ""
+  },
+  {
+   "id": 16,
+   "en": "{07 14 00}This year is gonna RULE,\n{01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 17,
+   "en": "{07 14 00}Yo, {01 00 00 05 00}{04 1f 00}!{01 00 00 0a 00} Hurry up\nand give me a dang\nNew Year's gift!",
+   "et": ""
+  },
+  {
+   "id": 18,
+   "en": "{07 15 00}{0b 03 00}{ff 00 00 05}{04 1f 00}{ff 00 00 00}!{01 00 00 0a 00} We totally have\nto have all kinds of epic\nmatches again this year!",
+   "et": ""
+  },
+  {
+   "id": 19,
+   "en": "{07 14 00}This year I'm gonna carve\ndown to 0.02% body fat,\n{01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 20,
+   "en": "{07 00 00}{0b 03 00}{ff 00 00 05}{04 1f 00}{ff 00 00 00}!{01 00 00 0a 00} Are you\npsyched about the new year\nor what, {01 00 00 05 00}{04 02 00}?!",
+   "et": ""
+  }
+ ]
+}

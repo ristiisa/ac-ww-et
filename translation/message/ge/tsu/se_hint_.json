@@ -1,0 +1,20 @@
+{
+ "file": "script/ENG/message/ge/tsu/se_hint_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 00 00}Y'know, pretty much the\nonly things that wash up on\nthe beach are seashells...\n{07 16 00}Every now and then, though,\nyou find something TOTALLY\nweird, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 13 00}Right now, me and this\nocean are like soulmates{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n\n{07 15 00}SO, {01 00 00 05 00}{04 1f 00}!{01 00 00 0a 00} {07 06 00}If you\ncatch trash, you take it\nHOME, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 00 00}After I get a little wave\ntherapy from the sea...\n\n{07 14 00}I pick up seashells and sell\nthem to {ff 00 00 06}Tom Nook{ff 00 00 00}!\n\n{07 0a 00}It's like getting a double-\ndip ice-cream cone from\nnature, {01 00 00 05 00}{04 02 00}!{03 01 00 01}",
+   "et": ""
+  }
+ ]
+}

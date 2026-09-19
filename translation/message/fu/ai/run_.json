@@ -1,0 +1,20 @@
+{
+ "file": "script/ENG/message/fu/ai/run_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 02 00}{01 08 00}Zowie!!!{01 00 00 0f 00}\n{07 06 00}BEE{01 00 00 05 00}EEEEEEEEES, {01 00 00 05 00}{04 02 00}!\nBees, bees, bees!!!",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 02 00}{01 08 00}No, no, no!{01 00 00 0f 00} I hate bees!{01 00 00 05 00}\n{07 06 00}Don't come this way!",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 02 00}{01 08 00}Yoweeeeeee!{01 00 00 0a 00}\n{07 08 00}There are bees everywhere!",
+   "et": ""
+  }
+ ]
+}

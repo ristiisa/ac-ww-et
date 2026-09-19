@@ -1,0 +1,80 @@
+{
+ "file": "script/ENG/message/fu/3p/bo_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 14 00}Hey, so I've got a real\nmindbender of a question\nfor you, {ff 00 00 06}{04 10 00}{ff 00 00 00}.\n{07 0b 00}Are snails insects? Or are\nthey something else, like.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\nvegetables or, uh, minerals?{09 09 00}",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{09 01 00}{09 08 00}{07 16 00}I'd love to come to dinner,\n{ff 00 00 06}{04 10 00}{ff 00 00 00},{01 00 00 0a 00} but my\nbelly can't take spicy food.\n{07 1c 00}It really bums me out, too,\nbecause I love hot stuff{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{09 09 00}",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{09 01 00}{09 08 00}{07 00 00}Hey, {01 00 00 05 00}{ff 00 00 06}{04 10 00}{ff 00 00 00},{01 00 00 0a 00} I've got a\nmystery for you. How come\nseawater is so salty{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\nbut river water isn't? {01 00 00 0a 00}\n{07 0b 00}Makes you think, doesn't\nit?{09 09 00}",
+   "et": ""
+  },
+  {
+   "id": 3,
+   "en": "{09 00 00}{09 08 00}{09 02 00}{09 06 00}{07 16 00}Snails? Dude, what are you\ntalking about? Of course\nthey're not insects.{09 09 00}",
+   "et": ""
+  },
+  {
+   "id": 4,
+   "en": "{09 00 00}{09 06 00}{09 01 00}{07 14 00}All right, Mr. Smarty-Pants,{01 00 00 05 00}\nso what are they then?{09 09 00}",
+   "et": ""
+  },
+  {
+   "id": 5,
+   "en": "{09 00 00}{09 08 00}{09 02 00}{01 00 00 0a 00}Uh.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} {07 0c 00}Oh, I know! They're\ndelicious, so that means\nthey must be food!{09 09 00}",
+   "et": ""
+  },
+  {
+   "id": 6,
+   "en": "{09 00 00}{09 06 00}{09 01 00}{07 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 16 00}I'm not sure \"food\" counts\nas a species, {ff 00 00 06}{04 10 00}{ff 00 00 00}.\n{07 06 00}Sometimes, I wish you'd\nthink with your head\ninstead of your stomach.",
+   "et": ""
+  },
+  {
+   "id": 7,
+   "en": "{09 00 00}{09 08 00}{09 02 00}{09 06 00}{07 0e 00}Oh.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} So you can't handle\nspicy food, is that it?\nThat must be terrible!\n{07 14 00}The problem, {ff 00 00 06}{04 0f 00}{ff 00 00 00}, is\nthat you haven't built\nup the proper tolerance.\nI work out my belly every\nday, swallowing peppers,\nchilis, and jalapenos{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 09 00}And even the most pungent\nof peppers, the cruelest of\ncondiments{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 0d 00}The tyrant habanero!{09 09 00}",
+   "et": ""
+  },
+  {
+   "id": 8,
+   "en": "{09 00 00}{09 06 00}{09 01 00}{07 0b 00}Haban-what!?{01 00 00 0a 00} What are you\ntalking about?\n{07 16 00}That sounds horrifying!{09 09 00}",
+   "et": ""
+  },
+  {
+   "id": 9,
+   "en": "{09 00 00}{09 08 00}{09 02 00}{07 16 00}You've...never heard of the\ntyrant habanero? To know\nhim{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.is to fear him.\n{07 13 00}Just one bite can send you\ninto sweaty convulsions of\nflavor-induced ecstasy!\n{07 14 00}Assuming, of course, that\nyou've got your stomach\nproperly trained.{09 09 00}",
+   "et": ""
+  },
+  {
+   "id": 10,
+   "en": "{09 00 00}{09 06 00}{09 01 00}{07 16 00}.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}So, I should probably\nsteer clear from it, huh?{09 09 00}",
+   "et": ""
+  },
+  {
+   "id": 11,
+   "en": "{09 00 00}{09 08 00}{09 02 00}{07 0d 00}Don't worry, {01 00 00 05 00}{04 02 00}!\n\n\n{07 15 00}I shall take you under my\nwing. Together, we'll train\nyou to master any spice!{03 01 00 01}",
+   "et": ""
+  },
+  {
+   "id": 12,
+   "en": "{09 00 00}{09 08 00}{09 02 00}{09 06 00}{07 16 00}{ff 00 00 06}{04 0f 00}{ff 00 00 00},{01 00 00 0a 00} what's so\nmysterious about that?{01 01 00} {07 00 00}It\nseems obvious to me.\n{07 0d 00}Someone HAS to be pouring\nsugar in those rivers. You\nknow, to balance the salt!\n{07 16 00}All this talk is making me\nthirsty, {01 00 00 05 00}{04 02 00}.{09 09 00}",
+   "et": ""
+  },
+  {
+   "id": 13,
+   "en": "{09 00 00}{09 06 00}{09 01 00}{07 06 00}{ff 00 00 06}{04 10 00}{ff 00 00 00},{01 00 00 0a 00} don't! You can't\ndrink river water! You don't\nknow where it's been!{09 09 00}",
+   "et": ""
+  },
+  {
+   "id": 14,
+   "en": "{09 00 00}{09 08 00}{09 02 00}{07 14 00}Been? What do you mean? I\nknow exactly where it's\nbeen. In the river!\n{07 11 00}Oh, I get it. {01 01 00}{07 0d 00}Don't worry.\nI'll be sure to leave some\nfor you, {ff 00 00 06}{04 0f 00}{ff 00 00 00}.{03 01 00 01}",
+   "et": ""
+  }
+ ]
+}

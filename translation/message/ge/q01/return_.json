@@ -1,0 +1,20 @@
+{
+ "file": "script/ENG/message/ge/q01/return_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 14 00}This bug is MEGA CRAZY!{01 00 00 0a 00}\nIt's like TV...{01 00 00 05 00}I could stare\nat it for days!",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 0a 00}Yay! One more bug for \n{04 01 00}'s collection!",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 01 00}I'LL GET YOU NEXT, OTHER\nBUG!{01 01 00} {07 00 00}{07 07 00}Oh wow, I gotta chill\nbefore my head, like, POPS!",
+   "et": ""
+  }
+ ]
+}

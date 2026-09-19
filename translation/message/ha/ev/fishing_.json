@@ -1,0 +1,80 @@
+{
+ "file": "script/ENG/message/ha/ev/fishing_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 15 00}Yo,{01 00 00 05 00} {ff 00 00 05}{04 1f 00}{ff 00 00 00}!{01 00 00 0a 00}\nIt's finally {ff 00 00 03}Fishing Tourney\n{ff 00 00 00}time, {01 00 00 05 00}{04 02 00}!\nI've been doing nonstop\npower thuds and gluteus\nslammers to get ready!\n{07 05 00}Believe you me, I didn't\nfeel all that burn for\nnothin', {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 14 00}Today's the big {ff 00 00 03}Fishing\nTourney{ff 00 00 00}, {04 02 00}!\n\n{07 15 00}I'm gonna give 101%\ntoday! {01 00 00 05 00}That extra 1% is\ngonna make the difference!",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 00 00}{0b 03 00}{04 03 00}'s annual {ff 00 00 03}Fishing\nTourney{ff 00 00 00} has already\nstarted, {01 00 00 05 00}{04 02 00}!{ff 00 00 03}\n{ff 00 00 00}{07 0d 00}I'm gonna flex my pecs\nand squeeze those slippery\nsuckers out of the water!",
+   "et": ""
+  },
+  {
+   "id": 3,
+   "en": "The {0b 02 00}{04 1a 00}\nI just caught packs some\nserious poundage!\n{07 0d 00}The little hoss clocked in\nat {ff 00 00 02}{04 0f 00} inches{ff 00 00 00}! It's the\ntop contender!\n{07 15 00}Put that on your bar\nand bench it, {01 00 00 05 00}{04 1f 00}!{01 00 00 0a 00}",
+   "et": ""
+  },
+  {
+   "id": 4,
+   "en": "{07 00 00}My {0b 02 00}{04 1a 00}\nmeasured {ff 00 00 02}{04 0f 00} inches{ff 00 00 00}!\n\n{07 14 00}Yeah, it's the current\nrecord! It's pretty much\nunshatterable, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 5,
+   "en": "{07 04 00}WHOA! A {ff 00 00 02}{04 0f 00}-inch{ff 00 00 00}\n{0b 02 00}{04 1a 00} is\nthe new record?!\n{07 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}Hey, {01 00 00 05 00}{07 16 00}wait a sec. {01 00 00 05 00}That's\nMY fish!{01 01 00} {07 06 00}Don't scare me\nlike that!",
+   "et": ""
+  },
+  {
+   "id": 6,
+   "en": "{07 16 00}Quit followin' me,\n{01 00 00 05 00}{04 02 00}!\n\n{07 15 00}I'm heading to my secret\nfishing spot!",
+   "et": ""
+  },
+  {
+   "id": 7,
+   "en": "{07 00 00}I heard {04 10 00} nabbed\na monster {ff 00 00 02}{04 0f 00}-inch \n{0b 02 00}{ff 00 00 00}{04 1a 00}!\n{07 0e 00}But I've seen crazy straws\nthicker than {04 10 00}'s{ff 00 00 06}\n{ff 00 00 00}arms, {01 00 00 05 00}{04 02 00}!\nHow did {04 10 00} do it?\n{07 04 00}H-{01 00 00 05 00}hey!{01 00 00 14 00} {07 06 00}Are you sure{01 00 00 05 00}\nthis tourney isn't rigged?!",
+   "et": ""
+  },
+  {
+   "id": 8,
+   "en": "{07 00 00}{0b 03 00}{04 10 00}'s big fish holds\nthe record right now,\n{01 00 00 05 00}{04 02 00}!\n.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 04 00}Hwhat?!{01 00 00 14 00} But that means\n{07 06 00}I'm losing! {01 00 00 05 00}That's just\nstraight-up silly!",
+   "et": ""
+  },
+  {
+   "id": 9,
+   "en": "{07 00 00}Fishing is a true test\nof man versus flippered\nbeast, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 10,
+   "en": "{07 16 00}YARGG! Why can't I catch \na bigger fish than the one\n{04 10 00} got?!\n{07 11 00}Maybe I'll try fishing next\nto {04 10 00},\n{01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 11,
+   "en": "{07 00 00}I heard {04 10 00} just\nlanded a huge, {ff 00 00 02}{04 0f 00}-inch\n{0b 02 00}{ff 00 00 00}{04 1a 00}!\n{07 07 00}I mean, {01 00 00 0f 00}dude{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} That's one\nbeefy water beast,\n{01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 12,
+   "en": "{07 0e 00}A burly, {ff 00 00 02}{04 0f 00}-inch{ff 00 00 00}\n{0b 02 00}{04 1a 00},\neh? Well, {01 00 00 05 00}{04 02 00}.\n{07 15 00}Well, it's gonna have to\nbattle my magnificent\n{0b 02 00}{04 1a 00}!\n{07 0d 00}It's gonna be a fishy\nroyal rumble, {ff 00 00 05}{04 1f 00}{ff 00 00 00}!",
+   "et": ""
+  },
+  {
+   "id": 13,
+   "en": "{07 16 00}HEY!{01 00 00 05 00} What're you\ndoin', runnin' around next\nto the fish like that?!{01 00 00 05 00}\n{07 1c 00}Quit horsing around\nand get your head in the\ngame, {04 1f 00}!",
+   "et": ""
+  },
+  {
+   "id": 14,
+   "en": "{07 06 00}Is it even possible to catch\n{04 1a 00}\nthat's {ff 00 00 02}{04 0f 00} inches {ff 00 00 00}long?\n{07 00 00}{0b 03 00}{04 10 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n{07 0b 00}I wonder if {04 10 00}{ff 00 00 06} {ff 00 00 00}\nis cheating?",
+   "et": ""
+  }
+ ]
+}

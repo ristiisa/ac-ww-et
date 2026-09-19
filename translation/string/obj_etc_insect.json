@@ -1,0 +1,285 @@
+{
+ "file": "script/ENG/string/obj_etc_insect.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "Size: 50 mm\nSeason: Spring\nthrough summer\nTime: Midday\n\n\nThey are white,\nbut the male's\neyes are yellow,\nand the female's,\nwhite.",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "Size: 50 mm\nSeason: Spring\nTime: Midday\nMales are yellow,\nbut females can\nbe white.",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "Size: 90 mm\nSeason: Spring\nthrough summer\nTime: Midday\n\n\nIn the larval\nstage, they love\nto eat oranges.\nAfter maturation,\nthey seek out\nred flowers.",
+   "et": ""
+  },
+  {
+   "id": 3,
+   "en": "Size: 105 mm\nSeason: Spring\nTime: Midday\nTheir wings\nresemble peacock\nfeathers.",
+   "et": ""
+  },
+  {
+   "id": 4,
+   "en": "Size: 85 mm\nSeason: Spring\nthrough summer\nTime: Midday\n\n\nIn a group, they\ncan migrate up\nto 1,850 miles.",
+   "et": ""
+  },
+  {
+   "id": 5,
+   "en": "Size: 115 mm\nSeason: Summer\nTime: Midday\nTheir wings are\niridescent, like\nthe back of a CD.",
+   "et": ""
+  },
+  {
+   "id": 6,
+   "en": "Size: 42 mm\nSeason: Summer\nTime: Midday\nThey are the\nworld's fastest\nbutterflies.",
+   "et": ""
+  },
+  {
+   "id": 7,
+   "en": "Size: 260 mm\nSeason: Summer\nTime: Midday\nThe largest\nbutterflies in\nthe world,\nthey have been\nmistaken for\nbirds and shot.",
+   "et": ""
+  },
+  {
+   "id": 8,
+   "en": "Size: 60 mm\nSeason: Summer\nTime: Evening\nTheir antennae\nare large because\nthey use their\nsense of smell\nto guide them\nin the dark.",
+   "et": ""
+  },
+  {
+   "id": 9,
+   "en": "Size: 280 mm\nSeason: Summer\nTime: Evening\nThey are the\nworld's\nlargest moths.\nLike silkworms,\nthey produce\nthread.",
+   "et": ""
+  },
+  {
+   "id": 10,
+   "en": "Size: 13 mm\nSeason: Spring\nand summer\nTime: Midday\nThe worker bees\nare female.\nHoney is a\nnatural\npreservative!",
+   "et": ""
+  },
+  {
+   "id": 11,
+   "en": "Size: 38 mm\nSeason: All year\n\nThese dangerous\nbugs are yellow\nand black.",
+   "et": ""
+  },
+  {
+   "id": 12,
+   "en": "Size: 73 mm\nSeason: Fall\nTime: Midday\nThe male makes a\nunique clicking\nsound in flight.",
+   "et": ""
+  },
+  {
+   "id": 13,
+   "en": "Size: 58 mm\nSeason: Fall\nTime: Midday\nDespite their\nappearance, they\nare skittish.",
+   "et": ""
+  },
+  {
+   "id": 14,
+   "en": "Size: 82 mm\nSeason: Summer\nTime: Midday\nThey will attack\nlarger insects.\n\nTheir front legs\nfold as if they\nare praying.",
+   "et": ""
+  },
+  {
+   "id": 15,
+   "en": "Size: 35 mm\nSeason: Summer\nTime: Midday\nThese pretty\ncritters look\nlike orchids,\nso it's difficult\nfor predators to\nspot them.",
+   "et": ""
+  },
+  {
+   "id": 16,
+   "en": "Size: 58 mm\nSeason: Summer\nTime: Midday\nIn some cultures,\nits cry is said\nto resemble\nthe sound of\nfrying.",
+   "et": ""
+  },
+  {
+   "id": 17,
+   "en": "Size: 60 mm\nSeason: Summer\nTime: Midday\nThey have green\nand black bodies\nand clear wings.",
+   "et": ""
+  },
+  {
+   "id": 18,
+   "en": "Size: 44 mm\nSeason: Summer\nTime: Midday\nTheir cry signals\nthat the end of\nsummer is near.",
+   "et": ""
+  },
+  {
+   "id": 19,
+   "en": "Size: 45 mm\nSeason: Summer\nTime: Cool days\nThey mark the\nstart of summer.",
+   "et": ""
+  },
+  {
+   "id": 20,
+   "en": "Size: 70 mm\nSeason: Summer\nTime: Cool days\nTheir heads look\nexactly like an\nalligator's.\nThey look like\nmoths, but are\nactually cicadas.",
+   "et": ""
+  },
+  {
+   "id": 21,
+   "en": "Size: 38 mm\nSeason: Fall\nTime: Evening\nIn the summer,\nthey flit around\nthe mountains,\nbut in the fall,\nthey come back\nto ground level.\nLike leaves, they\nturn redder in\nthe fall.",
+   "et": ""
+  },
+  {
+   "id": 22,
+   "en": "Size: 76 mm\nSeason: Summer\nTime: All day\nLook for the\nbull's-eye on\ntheir foreheads!",
+   "et": ""
+  },
+  {
+   "id": 23,
+   "en": "Size: 90 mm\nSeason: Summer\nTime: All day\nThey have tiger\nstripes and can\nbe hard to catch.",
+   "et": ""
+  },
+  {
+   "id": 24,
+   "en": "Size: 5 mm\nSeason: All year\nTime: All day\nAbout 20 percent\nof worker ants\ndo nothing. Lazy!",
+   "et": ""
+  },
+  {
+   "id": 25,
+   "en": "Size: 14 mm\nSeason: Summer\nTime: All day\nThey live off of\nbugs that fall\ninto the water.",
+   "et": ""
+  },
+  {
+   "id": 26,
+   "en": "Size: 45 mm\nSeason: Summer\n\nTime: Warm, rainy\ndays.\n\nThey have tiny,\ntiny teeth--\n20,000 of them--\nwhich they scrape\nacross their food\nto eat.",
+   "et": ""
+  },
+  {
+   "id": 27,
+   "en": "Size: 28 mm\nSeason: Fall\nTime: Night\nA member of the\ngrasshopper\nfamily, \nits ears are not\non its head, but\non its forelegs.",
+   "et": ""
+  },
+  {
+   "id": 28,
+   "en": "Size: 18 mm\nSeason: Fall\nTime: Night\nTheir chirps are\nextremely high\npitched.",
+   "et": ""
+  },
+  {
+   "id": 29,
+   "en": "Size: 43 mm\nSeason: Summer\nTime: All day\nThey look like\nchubby crickets.\n\nUnlike crickets,\nthough, they\ndon't eat bugs.",
+   "et": ""
+  },
+  {
+   "id": 30,
+   "en": "Size: 35 mm\nSeason: Winter to\nspring\nThough they live\nin holes in the\nground,\nthey can also fly\nand swim. They're\nmultitalented!",
+   "et": ""
+  },
+  {
+   "id": 31,
+   "en": "Size: 85 mm\nSeason: Fall\nTime: Midday\nThey will cut off\ntheir own legs\nwhen preyed upon.\nLike a lizard's\ntail, the legs\ngrow back.",
+   "et": ""
+  },
+  {
+   "id": 32,
+   "en": "Size: 8 mm\nSeason: Spring\nand summer\nTime: All day\nThey survive the\ncold winter by\nforming clusters,\nwhich look like\nsmall ornaments.",
+   "et": ""
+  },
+  {
+   "id": 33,
+   "en": "Size: 23 mm\nSeason: Summer\n\nThese creatures\nstrongly resemble\nemeralds.\nOddly, they fly\nwithout using\ntheir forewings.",
+   "et": ""
+  },
+  {
+   "id": 34,
+   "en": "Size: 25 mm\nSeason: Summer\nTime: Morning\nTheir shine is\nso great that\nthey look plated.\nThese bugs are\nvery rare and\nvery valuable.",
+   "et": ""
+  },
+  {
+   "id": 35,
+   "en": "Size: 35 mm\nSeason: Winter\nTime: Night\nThey are usually\nfound in the\ndesert.\nThey eat dung\nand bury their\neggs in it. Ew!\nIt's gross, but\nit's good for the\nearth.",
+   "et": ""
+  },
+  {
+   "id": 36,
+   "en": "Size: 90 mm\nSeason: Summer\nTime: Warm nights\nThe largest of\nits kind, they're\nalso good fliers.",
+   "et": ""
+  },
+  {
+   "id": 37,
+   "en": "Size: 15 mm\nSeason: Summer\nTime: Night\nBoth males and\nfemales light up.\n\nThey inhale to\nlight up, and\nexhale to go out.",
+   "et": ""
+  },
+  {
+   "id": 38,
+   "en": "Size: 35 mm\nSeason: Summer\nTime: Afternoon\nBirds hate their\ncoloring.",
+   "et": ""
+  },
+  {
+   "id": 39,
+   "en": "Size: 30 mm\nSeason: Summer\nTime: Midday\nThey get their\nname from their\nlarge antennae.\nTheir strong bite\ncomes from\nchewing wood.",
+   "et": ""
+  },
+  {
+   "id": 40,
+   "en": "Size: 65 mm\nSeason: Summer\nTime: Night\nThough nocturnal,\nthey also appear\nduring the day.",
+   "et": ""
+  },
+  {
+   "id": 41,
+   "en": "Size: 66 mm\nSeason: Summer\nTime: Night\nDuring the day,\nthey hide out in\ntrees.\nTheir personality\nand pinchers are\nboth strong.",
+   "et": ""
+  },
+  {
+   "id": 42,
+   "en": "Size: 68 mm\nSeason: Summer\nTime: Night\nThese shy beetles\nare nocturnal.\n\nThey live five\nyears, so they\nmake good pets.",
+   "et": ""
+  },
+  {
+   "id": 43,
+   "en": "Size: 68 mm\nSeason: Summer\nTime: Night\nKnown as the \nmost beautiful\nbeetle,\nthey are also \nvery hearty and \nhave long lives.\nThe're easy to\nbreed, so they\nmake good pets.",
+   "et": ""
+  },
+  {
+   "id": 44,
+   "en": "Size: 80 mm\nSeason: Summer\nTime: Night\nTheir proud horn\nis actually just\novergrown skin.\nThey're related\nto scarab\nbeetles.",
+   "et": ""
+  },
+  {
+   "id": 45,
+   "en": "Size: 120 mm\nSeason: Summer\nTime: Night\nThese beetles are\nthe strongest in\nthe world.",
+   "et": ""
+  },
+  {
+   "id": 46,
+   "en": "Size: 115 mm\nSeason: Summer\nTime: Night\nThey are the\nheaviest beetles\nin the world.\nTheir horns look\nlike elephant\ntrunks.",
+   "et": ""
+  },
+  {
+   "id": 47,
+   "en": "Size: 160 mm\nSeason: Summer\nTime: Night\nThe largest\nbeetles in the\nworld,\nthey can easily\ncarry five pounds\nof cargo.",
+   "et": ""
+  },
+  {
+   "id": 48,
+   "en": "Size: 2 mm\nSeason: All year\n\nThe female flea\nlays up to 20\neggs a day,\nand is usually\nlarger than the\nmale. Gross!",
+   "et": ""
+  },
+  {
+   "id": 49,
+   "en": "Size: 10 mm\nSeason: All year\n\nPill bugs are\ncrustaceans, like\nshrimp or crabs.\nThey breathe with\ngills, so they can\nsurvive in water.",
+   "et": ""
+  },
+  {
+   "id": 50,
+   "en": "Size: 6 mm\nSeason: Summer\nTime: Night\nThey drink blood\nbecause it's like\nflower nectar.",
+   "et": ""
+  },
+  {
+   "id": 51,
+   "en": "Size: 9 mm\nSeason: All year\n\nDisinfectant with\nalcohol is lethal\nto them.",
+   "et": ""
+  },
+  {
+   "id": 52,
+   "en": "Size: 28 mm\nSeason: All year\n\nThey've existed\nfor 300,000,000\nyears.",
+   "et": ""
+  },
+  {
+   "id": 53,
+   "en": "Size: 28 mm\nSeason: Spring\nand summer\nThey have eight\nlegs.\n\nTheir heads and\nchests are\nconnected.\nBaby spiders can\nspin thread\nto fly.",
+   "et": ""
+  },
+  {
+   "id": 54,
+   "en": "Size: 65 mm\nSeason: Summer\nTime: Night\nTheir poison isn't\npotent enough to\nbe lethal,\nbut their belly\nhair causes \nitchiness.",
+   "et": ""
+  },
+  {
+   "id": 55,
+   "en": "Size: 160 mm\nSeason: Summer\nTime: Night\nTheir \"tail\" is\nactually part of\ntheir stomach.",
+   "et": ""
+  }
+ ]
+}

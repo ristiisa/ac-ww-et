@@ -1,0 +1,55 @@
+{
+ "file": "script/ENG/string/st_fossil.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "tyrannosaurus rex",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "triceratops",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "ankylosaurus",
+   "et": ""
+  },
+  {
+   "id": 3,
+   "en": "apatosaurus",
+   "et": ""
+  },
+  {
+   "id": 4,
+   "en": "dimetrodon",
+   "et": ""
+  },
+  {
+   "id": 5,
+   "en": "iguanodon",
+   "et": ""
+  },
+  {
+   "id": 6,
+   "en": "pachycephalosaurus",
+   "et": ""
+  },
+  {
+   "id": 7,
+   "en": "parasaurolophus",
+   "et": ""
+  },
+  {
+   "id": 8,
+   "en": "plesiosaurus",
+   "et": ""
+  },
+  {
+   "id": 9,
+   "en": "stegosaurus",
+   "et": ""
+  }
+ ]
+}

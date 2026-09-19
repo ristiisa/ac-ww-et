@@ -1,0 +1,20 @@
+{
+ "file": "script/ENG/message/fu/ai/clo1_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 04 00}Oh, {01 00 00 05 00}{04 1f 00}! You're\ngoing to be so thrilled.\nLook!\n{07 14 00}I'm wearing the lovely\n{0b 02 00}{04 1b 00} you\nsent me!\n{07 17 00}And it looks pretty good on\nme, too, if I do say so\nmyself.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n{07 0a 00}It's exactly what I needed,\nand I love it, {01 00 00 05 00}{04 02 00}!{01 00 00 0f 00}\nThank you so much!",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 04 00}{01 06 00}{0b 03 00}{04 1f 00}{01 07 00},\nI'm so happy to see you!\n\n{07 14 00}I got your letter, and it\nmade me so happy. I love\ngetting mail!\nBut then, I opened it up\nand saw that incredible\n{07 0a 00}{0b 02 00}{04 1b 00}!\nYou really shouldn't have.{01 00 00 0a 00}\n{07 14 00}But I'm so glad you did! It\nfits perfectly, {01 00 00 05 00}{04 02 00}.",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{0b 03 00}{01 06 00}Heya{01 07 00},\n{01 00 00 0a 00}{04 1f 00}.\n\n{07 17 00}Did you notice I'm wearing\nthe {0b 02 00}{04 1b 00}\nyou sent me?\n{07 14 00}I don't mean to sound vain,\nbut{01 00 00 05 00} I look fabulous in it,\ndon't I, {01 00 00 05 00}{04 02 00}?\nIt's OK. You can tell me the\ntruth. I won't let it go to\nmy head.",
+   "et": ""
+  }
+ ]
+}

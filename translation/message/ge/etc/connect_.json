@@ -1,0 +1,20 @@
+{
+ "file": "script/ENG/message/ge/etc/connect_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 00 00}Oh! {01 00 00 05 00}Right right right!{01 00 00 0a 00} You\nwanted something, didn't\nyou,{01 00 00 05 00} {04 02 00}?",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 00 00}So, speaking of which...{01 00 00 05 00} You\nprobably need something\nfrom me, huh,{01 00 00 05 00} {04 02 00}?",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 00 00}Oh!{01 00 00 05 00} Oh!{01 00 00 05 00} So, did you want\nsomething from me or what,{01 00 00 05 00}\n{04 02 00}?",
+   "et": ""
+  }
+ ]
+}

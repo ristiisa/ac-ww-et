@@ -1,0 +1,20 @@
+{
+ "file": "script/ENG/message/bo/q/icancel_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 16 00}You're so not funny,\n{04 1f 00}.{01 00 00 0a 00} {0b 03 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 16 00}Aww,{01 00 00 05 00} {04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{01 08 00}{ff 00 00 04}(BPHHHHHHHT!){01 01 00} {07 14 00}{ff 00 00 00}Oops!{01 00 00 0a 00} Heh heh\nheh! My belly rumbled!",
+   "et": ""
+  }
+ ]
+}

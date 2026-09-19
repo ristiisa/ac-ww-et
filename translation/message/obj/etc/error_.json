@@ -1,0 +1,165 @@
+{
+ "file": "script/ENG/message/obj/etc/error_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "The place is packed! You\ncan't get in!{01 10 00 64}",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "Don't you know better than\nto move furniture when you\nhave company over?",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "You can't write a letter\nthat you can't carry.",
+   "et": ""
+  },
+  {
+   "id": 3,
+   "en": "You can't put anything\ndown here!",
+   "et": ""
+  },
+  {
+   "id": 4,
+   "en": "You can't swap your designs\nif your pockets are full.",
+   "et": ""
+  },
+  {
+   "id": 5,
+   "en": "If you put anything else\ndown, your floor is going to\ngive out!",
+   "et": ""
+  },
+  {
+   "id": 6,
+   "en": "You can't hold any more\nletters. Wanna toss some?",
+   "et": ""
+  },
+  {
+   "id": 7,
+   "en": "You'll have to take off\nyour accessories before\nyou can put that on!",
+   "et": ""
+  },
+  {
+   "id": 8,
+   "en": "You can't plant that here!",
+   "et": ""
+  },
+  {
+   "id": 9,
+   "en": "You can't put something\ndown when you're not alone.",
+   "et": ""
+  },
+  {
+   "id": 10,
+   "en": "You can't remove items\nyou're holding or wearing if\nyour pockets are full.",
+   "et": ""
+  },
+  {
+   "id": 11,
+   "en": "Your pockets are full!\nYou can't remove the\npresent you're holding!",
+   "et": ""
+  },
+  {
+   "id": 12,
+   "en": "Your pockets are full and\nyou can't use Bells.",
+   "et": ""
+  },
+  {
+   "id": 13,
+   "en": "You can't bury anything\nhere!",
+   "et": ""
+  },
+  {
+   "id": 14,
+   "en": "You can't deposit any more\nBells!",
+   "et": ""
+  },
+  {
+   "id": 15,
+   "en": "You can't carry any more\nBells!",
+   "et": ""
+  },
+  {
+   "id": 16,
+   "en": "You can't take your music\nout if your pockets are\nfull.",
+   "et": ""
+  },
+  {
+   "id": 17,
+   "en": "You already have that music\nin your pockets!",
+   "et": ""
+  },
+  {
+   "id": 18,
+   "en": "You can't pick up any\nbottle mail because your\npockets are full.",
+   "et": ""
+  },
+  {
+   "id": 19,
+   "en": "You can't register any new\nfriends if your friend\nroster is full.",
+   "et": ""
+  },
+  {
+   "id": 20,
+   "en": "This person is already \nregistered!",
+   "et": ""
+  },
+  {
+   "id": 21,
+   "en": "Someone's already in there,\nso you can't go in.{01 10 00 64}",
+   "et": ""
+  },
+  {
+   "id": 22,
+   "en": "There aren't any stars that\nyou can connect to this\none!",
+   "et": ""
+  },
+  {
+   "id": 23,
+   "en": "You can't change the carpet\nwhen you have a visitor!",
+   "et": ""
+  },
+  {
+   "id": 24,
+   "en": "You can't change the\nwallpaper when you have a \nvisitor!",
+   "et": ""
+  },
+  {
+   "id": 25,
+   "en": "The friend code is\nincorrect and can't\nbe registered!",
+   "et": ""
+  },
+  {
+   "id": 26,
+   "en": "You cannot register using \na friend code while you\nare communicating!",
+   "et": ""
+  },
+  {
+   "id": 27,
+   "en": "You can't write your friend\ncode while you're\ncommunicating!",
+   "et": ""
+  },
+  {
+   "id": 28,
+   "en": "You don't have room to\nwrite any more letters!",
+   "et": ""
+  },
+  {
+   "id": 29,
+   "en": "You cannot enter your own\nfriend code!",
+   "et": ""
+  },
+  {
+   "id": 30,
+   "en": "Your battery is running low.\nIt might be a good idea to\nsave your game soon.",
+   "et": ""
+  },
+  {
+   "id": 31,
+   "en": "Unable to save.{01 00 00 0a 00} Please turn\nthe power off and reinsert\nyour Game Card.",
+   "et": ""
+  }
+ ]
+}

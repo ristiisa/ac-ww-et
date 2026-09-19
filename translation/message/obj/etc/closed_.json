@@ -1,0 +1,100 @@
+{
+ "file": "script/ENG/message/obj/etc/closed_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "Thanks for waiting!\nWe're open from 8:00 a.m.\nto 11:00 p.m.",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "Sorry, we're closed!\nOur hours of operation are\n8:00 a.m. to 11:00 p.m.",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "Please come again.\nWe're open from 8:00 a.m.\nto 11:00 p.m.",
+   "et": ""
+  },
+  {
+   "id": 3,
+   "en": "We're sorry we missed you!\nPlease visit us again from\n8:00 a.m. to 11:00 p.m.",
+   "et": ""
+  },
+  {
+   "id": 4,
+   "en": "Sorry! We're closed.\nPlease come back between\n8:00 a.m. and 11:00 p.m.",
+   "et": ""
+  },
+  {
+   "id": 6,
+   "en": "\nIt's locked...",
+   "et": ""
+  },
+  {
+   "id": 7,
+   "en": "We're closed for remodeling.\n\nPlease come again!",
+   "et": ""
+  },
+  {
+   "id": 8,
+   "en": "Good night.\n\nPlease come back tomorrow.",
+   "et": ""
+  },
+  {
+   "id": 9,
+   "en": "'Night!\n\nSee you tomorrow!",
+   "et": ""
+  },
+  {
+   "id": 10,
+   "en": "I'm sleeping right now!\n\nPlease don't wake me.",
+   "et": ""
+  },
+  {
+   "id": 11,
+   "en": "Lights out!\n\nCome back when I'm awake!",
+   "et": ""
+  },
+  {
+   "id": 12,
+   "en": "I'm catching some z's now.\n\nWake me and REGRET IT!",
+   "et": ""
+  },
+  {
+   "id": 13,
+   "en": "I'm catching up on my\nbeauty rest.\nPlease don't disturb me.",
+   "et": ""
+  },
+  {
+   "id": 14,
+   "en": "I'm out right now.\n\n              {04 0f 00}",
+   "et": ""
+  },
+  {
+   "id": 15,
+   "en": "I've stepped out for a bit!\n\n              {04 0f 00}",
+   "et": ""
+  },
+  {
+   "id": 16,
+   "en": "I'm out exploring right now!\n\n              {04 0f 00}",
+   "et": ""
+  },
+  {
+   "id": 17,
+   "en": "I've gone out for a run.\n\n              {04 0f 00}",
+   "et": ""
+  },
+  {
+   "id": 18,
+   "en": "I'm out right now. Deal.\n\n              {04 0f 00}",
+   "et": ""
+  },
+  {
+   "id": 19,
+   "en": "I'm out for a little stroll.\n\n              {04 0f 00}",
+   "et": ""
+  }
+ ]
+}

@@ -1,0 +1,90 @@
+{
+ "file": "script/ENG/message/ge/3p/ta_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{09 01 00}{09 08 00}{07 14 00}Hey, {ff 00 00 06}{04 10 00}{ff 00 00 00}!\nI've got some totally cool\nnews, {01 00 00 05 00}{04 02 00}!\n{07 0a 00}I've been voted the most\npopular girl in\n{04 03 00}!{09 09 00}",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{09 01 00}{09 08 00}{07 00 00}My favorite dinner is a{01 00 00 05 00}\nveggie burger and \n{04 11 00} combo!\n{07 0b 00}What do you like,\n{ff 00 00 06}{04 10 00}{ff 00 00 00}?\nEh, {01 00 00 05 00}{04 02 00}?{09 09 00}",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{09 01 00}{09 08 00}{07 16 00}I know it's weird for me to\nsay things about my own\nlegs, but.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\nDo you think I've got yeti\nlegs, {01 00 00 05 00}{04 02 00}?{09 09 00}",
+   "et": ""
+  },
+  {
+   "id": 3,
+   "en": "{07 14 00}{09 00 00}{09 08 00}{09 02 00}{09 06 00}{07 1a 00}That's really cool!{01 01 00}\n{07 00 00}But, {ff 00 00 06}{04 0f 00}{ff 00 00 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n\n{07 1b 00}When you're popular, it\nmeans people secretly\ndespise you.{09 09 00}",
+   "et": ""
+  },
+  {
+   "id": 4,
+   "en": "{09 00 00}{09 06 00}{09 01 00}{07 04 00}WHAT?!{01 00 00 14 00} {07 06 00}I didn't know that,\n{01 00 00 05 00}{04 02 00}!{09 09 00}",
+   "et": ""
+  },
+  {
+   "id": 5,
+   "en": "{07 16 00}{09 00 00}{09 08 00}{09 02 00}{07 00 00}If you want people to\nREALLY like you, just follow\nmy lead!\n{07 14 00}People are always jealous\nof me, see!{01 00 00 05 00}{09 09 00}",
+   "et": ""
+  },
+  {
+   "id": 6,
+   "en": "{07 00 00}{09 00 00}{09 06 00}{09 02 00}{07 19 00}{09 01 00}{07 0e 00}So what you're saying is{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\nTo get people to really\nlike me{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{09 02 00}{07 00 00}{09 01 00}{07 0b 00}I gotta make them hate me\nfirst?!{03 03 00 01}",
+   "et": ""
+  },
+  {
+   "id": 7,
+   "en": "{07 00 00}{09 00 00}{09 08 00}{09 02 00}{07 0b 00}Me?!{01 00 00 14 00} {07 1b 00}How could you even\nthink that I EVER eat junk\nfood like that!\n{07 0e 00}But, {01 00 00 05 00}if I had to choose{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00}\n{07 0c 00}I'd get the milk shake and\n{04 12 00} combo!{01 00 00 14 00}\n{07 00 00}So{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}good.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{09 09 00}",
+   "et": ""
+  },
+  {
+   "id": 8,
+   "en": "{09 00 00}{09 06 00}{09 01 00}{07 16 00}Uhh, I don't see the\ndifference, {01 00 00 05 00}{04 02 00}.\n\nHey, {04 1f 00}! You like\njunk food, right?{02 00 00 09 0b}\nSo tasty!\nSo nasty!",
+   "et": ""
+  },
+  {
+   "id": 9,
+   "en": "{09 02 00}{09 04 00}{09 01 00}{07 0d 00}I knew it!{01 01 00} {07 00 00}But since YOU\nlike it, I'm not into it\nanymore.\n{07 1c 00}Junk food is so played out\nnow that other people like\nit{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{09 04 00}{07 06 00}I can't like anything other\npeople are into.{09 09 00}",
+   "et": ""
+  },
+  {
+   "id": 10,
+   "en": "{07 00 00}{09 00 00}{09 08 00}{09 02 00}{09 05 00}{07 16 00}Yeah. I kinda know what\nyou mean{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{04 02 00}.",
+   "et": ""
+  },
+  {
+   "id": 11,
+   "en": "{09 02 00}{09 04 00}{09 01 00}{07 04 00}Really? {01 00 00 05 00}{07 14 00}I didn't know you\nwere so health conscious!{09 09 00}",
+   "et": ""
+  },
+  {
+   "id": 12,
+   "en": "{07 00 00}{09 07 00}{09 00 00}{09 08 00}{09 02 00}{09 04 00}{07 04 00}Wait a minute!{01 00 00 0f 00} {07 00 00}If that's\ntrue, then why are your\nhands so greasy?\n{07 15 00}You always eat greasy,\nfried foods, don't you?!\n\n{09 01 00}{09 03 00}{09 02 00}{07 19 00}You can't hide it{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00}{01 01 00}\n{07 01 00}Your greasy hands gave it\naway!{09 09 00}",
+   "et": ""
+  },
+  {
+   "id": 13,
+   "en": "{09 00 00}{09 06 00}{09 01 00}{07 1c 00}I know{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 01 00} {09 04 00}{07 00 00}{07 06 00}It's so obvious\nwhen {04 1f 00} is lying!",
+   "et": ""
+  },
+  {
+   "id": 14,
+   "en": "{07 00 00}{09 00 00}{09 08 00}{09 02 00}{07 1b 00}Yeti legs? Not so much.\nDon't you mean tornado\nlegs?{09 09 00}",
+   "et": ""
+  },
+  {
+   "id": 15,
+   "en": "{09 00 00}{09 06 00}{09 01 00}{07 02 00}T-{01 00 00 0f 00}tornado legs?!{01 01 00} {07 0b 00}Are you\nsaying they're always\nflopping around?!\n{09 02 00}{07 00 00}{09 01 00}{07 14 00}Yeah, well you've got\n{04 12 00} legs!\n\n{07 06 00}Because, when I look at 'em,\nI just want to munch on\n'em!{09 09 00}",
+   "et": ""
+  },
+  {
+   "id": 16,
+   "en": "{07 16 00}{09 00 00}{09 08 00}{09 02 00}{07 04 00}{01 00 00 05 00}HEY?!{01 00 00 0a 00} Is that supposed to\nbe a compliment?!\n\n{07 1b 00}I guess it could be taken\neither way{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{04 02 00}.",
+   "et": ""
+  }
+ ]
+}

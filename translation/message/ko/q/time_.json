@@ -1,0 +1,20 @@
+{
+ "file": "script/ENG/message/ko/q/time_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 00 00}I want to see you back here\nagain soon.\n\nSo, you've got{ff 00 00 02} 10 minutes{ff 00 00 00}\nto do your task, \n{01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 00 00}It usually takes{01 00 00 05 00}\nabout {ff 00 00 02}30 minutes{ff 00 00 00} for me to\nchange my mind! {01 00 00 05 00}Get going!",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 00 00}Lemme think{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} I wanna give\nit to you while I'm still\nfeeling generous.\n{07 0b 00}So deliver it within\n{ff 00 00 02}1 hour{ff 00 00 00}, all right?",
+   "et": ""
+  }
+ ]
+}

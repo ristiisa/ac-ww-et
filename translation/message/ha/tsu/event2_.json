@@ -1,0 +1,105 @@
+{
+ "file": "script/ENG/message/ha/tsu/event2_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{0b 03 00}{ff 00 00 05}{04 1f 00}{ff 00 00 00},{01 00 00 05 00} the\n{ff 00 00 03}Flower Fest {ff 00 00 00}is about to\nstart!\n{07 15 00}You'd better start planting\nthose flowers around your\nhouse if you wanna win!\n{07 04 00}Oh!{01 00 00 0a 00} My pad?! {01 00 00 05 00}I have HUGE\ndirt problems!\n\n{07 06 00}Yeah, the dirt's all uneven\n'cause I do so many ab-\nnukes on it, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 14 00}The {ff 00 00 03}Flower Fest{ff 00 00 00} starts next\nMonday, {01 00 00 05 00}{04 02 00}!\n\n{07 00 00}I know I don't exactly look\nlike the type of dude who\nwould be into flowers...\n{07 15 00}But I'm entering{01 00 00 05 00} in the\nspirit of competition, baby!{01 00 00 05 00}\n{01 08 00}{07 01 00}{01 02 00}It is ON!{01 03 00}",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 14 00}It's coming! {01 00 00 05 00}Finally!{01 00 00 0a 00}\n{ff 00 00 03}Flower Fest{ff 00 00 00}!\n\n{07 00 00}Have you already decided\n{07 0b 00}what kind of flowers to\nplant, {01 00 00 05 00}{04 02 00}?\n{07 0e 00}I'm planting {01 00 00 05 00}tu{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} Uh, tu...{01 00 00 05 00}\n{07 0b 00}What are they called again?\n\n{07 00 00}Whatever.{01 00 00 05 00} Those long ones.{01 00 00 05 00}\nI'm planting long ones,\nand they're gonna rule!",
+   "et": ""
+  },
+  {
+   "id": 3,
+   "en": "{07 14 00}{ff 00 00 03}Flower Fest{ff 00 00 00} is right around\nthe corner,{01 00 00 05 00} {04 1f 00}!\n\n{07 00 00}Even the absolute laziest\n{04 03 00} residents are\nworking up sweats!\n{07 0d 00}If only they were always\nthis enthusiastic, they'd be\nripped like me, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 4,
+   "en": "{07 04 00}What?!{01 00 00 0a 00} {ff 00 00 03}Flower Fest {ff 00 00 00}starts\nTOMORROW?!\n\n{07 06 00}Oh man, I won't have time\nto work out, {01 00 00 05 00}{04 02 00}!{01 00 00 05 00}\nHellooooo, Flabville!",
+   "et": ""
+  },
+  {
+   "id": 5,
+   "en": "{07 14 00}The {ff 00 00 03}Fireworks Show{ff 00 00 00}{01 00 00 05 00} will be\nhere soon, {04 1f 00}!\n\n{07 00 00}So check this out:{01 01 00}\n{01 08 00}{07 01 00}KA-BOOOOOOOOOOM!\n\n.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 14 00}Sweet sound effects, eh?{01 00 00 05 00}\nFireworks bring out the\nANIMAL in me, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 6,
+   "en": "Hey, so, y'know {01 00 00 05 00}Saturday is\nthe {ff 00 00 03}Fireworks Show{ff 00 00 00}, {01 00 00 05 00}right,\n{04 02 00}?\n{07 07 00}Feeling those sonic booms\nvibrate your muscles...\n\n{07 00 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 13 00}I LOVE IT, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 7,
+   "en": "{07 06 00}Aw man,{01 00 00 05 00} I just can't WAIT\nuntil this weekend's\n{ff 00 00 03}Fireworks Show{ff 00 00 00}!{01 00 00 05 00}\n{07 00 00}I'm getting so worked up{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0f 00}\n{07 15 00}I better do some bicep-\nbusters to burn off energy!",
+   "et": ""
+  },
+  {
+   "id": 8,
+   "en": "I usually dedicate Saturday\nnight to push-ups,\npull-ups, and squat-jumps.\n{07 14 00}But on the day of the\n{ff 00 00 03}Fireworks Show,{ff 00 00 00} I do\nsit-ups, {01 00 00 05 00}{04 02 00}!\n{07 0d 00}That way, {01 00 00 05 00}I can watch the\nfireworks in the sky as I\nget huge, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 9,
+   "en": "{ff 00 00 05}{07 14 00}{0b 03 00}{04 1f 00}{ff 00 00 00}!{01 00 00 0a 00} The {ff 00 00 03}Fireworks\nShow{ff 00 00 00} is tomorrow,\n{01 00 00 05 00}{04 02 00}!\n{07 00 00}I won't run, I won't hide!{01 00 00 05 00}\n{07 01 00}So bring it ON!",
+   "et": ""
+  },
+  {
+   "id": 10,
+   "en": "{07 14 00}The {ff 00 00 03}Acorn Festival{ff 00 00 00} is coming\nup quick, {01 00 00 05 00}{04 02 00}!\n\n{07 00 00}You can only pick up {ff 00 00 07}acorns{ff 00 00 00}\nduring the festival...\n\n{07 14 00}So if you want 'em,{01 00 00 05 00} you'd\nbetter get your acorn on\nevery day, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 11,
+   "en": "{07 04 00}Whoa!{01 00 00 14 00} {07 06 00}I just realized that\nthe {ff 00 00 03}Acorn Festival{ff 00 00 00} is next\nweek! {01 00 00 05 00}I am an IDIOT!\n{07 00 00}Maybe if I crushed up some\nacorns and mixed them with\n{04 13 00}...\n{07 14 00}...it would help me pick up\nmore of 'em, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 12,
+   "en": "{07 14 00}Yo yo YO, {04 1f 00}!{01 00 00 0a 00}\nMonday marks the start of\nthe {ff 00 00 03}Acorn Festival{ff 00 00 00}!\nFor a week we get to{01 00 00 05 00}\n{07 0a 00}pick up as many {ff 00 00 07}acorns{ff 00 00 00} as\nwe can find!\n{07 00 00}I mean, sure,{01 00 00 05 00} they're free\nanyway, but...{01 00 00 05 00}{04 02 00}.",
+   "et": ""
+  },
+  {
+   "id": 13,
+   "en": "{0b 03 00}{04 1f 00}, the {ff 00 00 03}Acorn\nFestival{ff 00 00 00} is SOOOOOO close,\n{01 00 00 05 00}{04 02 00}!\nWhoa{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} Has anyone ever told\nyou {07 13 00}your eyes look just\nlike{ff 00 00 07} acorns{ff 00 00 00}, {01 00 00 05 00}{04 02 00}?!",
+   "et": ""
+  },
+  {
+   "id": 14,
+   "en": "{07 14 00}All right!{01 00 00 0a 00} I am READY!{01 00 00 05 00}\nI am PUMPED, {01 00 00 05 00}{04 02 00}!\n\nThe{ff 00 00 03} Acorn Festival{ff 00 00 00} starts\ntomorrow and I am full-on\nGOOD to GO!\n{07 0d 00}When it comes to gathering\n{ff 00 00 07}acorns{ff 00 00 00},{01 00 00 05 00} I'm what you call\na nut ninja, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 15,
+   "en": "{07 14 00}Yo yo, {01 00 00 05 00}{04 1f 00}!{01 00 00 0a 00}\nNext week is the beginning\nof {ff 00 00 03}Bright Nights{ff 00 00 00}!\n{07 00 00}I'm gonna{01 00 00 05 00} get my house\nFULLY pumped up for the\noccasion with lights!\n{07 0d 00}You'd better come by to\ncheck out the show, 'cause\nit'll RULE, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 16,
+   "en": "{0b 03 00}{04 03 00}'s {ff 00 00 03}Bright Nights{ff 00 00 00}\ncelebration is about to\nbegin, but{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 06 00}I'm worried 'cause{01 00 00 05 00} my hot\nbod might melt all the\nsnow out there!",
+   "et": ""
+  },
+  {
+   "id": 17,
+   "en": "{0b 03 00}{04 1f 00}! {01 00 00 05 00}Guess what?!{01 00 00 0f 00}\nThe {ff 00 00 03}Bright Nights{ff 00 00 00} are\nstarting soon, {01 00 00 05 00}{04 02 00}!\n{07 14 00}Cold can make you cramp\nup, so train for it with ice\ncubes in your shorts, OK?",
+   "et": ""
+  },
+  {
+   "id": 18,
+   "en": "{07 04 00}Say what, now?!{01 00 00 0a 00} {07 16 00}The {ff 00 00 03}Bright\nNights{ff 00 00 00} are right around the\ncorner?! {01 00 00 05 00}Oh nooooooo!\n{07 06 00}I've got a winter belly!{01 00 00 14 00}\nI'd better do some ab-rolls{01 00 00 05 00}\nwhile I still can!",
+   "et": ""
+  },
+  {
+   "id": 19,
+   "en": "{07 14 00}I am SET for the {ff 00 00 03}Bright\nNights{ff 00 00 00}!{01 00 00 05 00} It starts tomorrow,\ny'know.\n{07 00 00}My house{01 00 00 05 00} is so lit up that\nnot even I can believe it!{01 00 00 05 00}\nThat's saying something!\n{07 0d 00}{0b 03 00}{04 1f 00} came by and\nwas blown AWAY by how\nextreme I got, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  }
+ ]
+}

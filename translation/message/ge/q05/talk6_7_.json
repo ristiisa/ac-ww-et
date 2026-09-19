@@ -1,0 +1,20 @@
+{
+ "file": "script/ENG/message/ge/q05/talk6_7_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 06 00}Almost there!{01 00 00 0a 00} ALMOST there!{01 00 00 05 00}\nI gotta, like, reach for\nthe dream, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 15 00}{0b 03 00}{04 1f 00}, {01 00 00 05 00}no dawdling! \nYou gotta put your back\ninto this one, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 14 00}We've come a total long way,\n{01 00 00 38 00}{01 00 00 05 00}{04 02 00}!{01 00 00 0a 00} We, like, CAN'T\ngive up now!",
+   "et": ""
+  }
+ ]
+}

@@ -1,0 +1,20 @@
+{
+ "file": "script/ENG/message/ta/q04/dress_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 14 00}Don't you think{01 00 00 0a 00} this outfit{01 00 00 05 00}\n{07 0b 00}looks like it was made for\nme?!\n{07 0d 00}Now{01 00 00 05 00} that's what I call\nfate, {01 00 00 0a 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 0d 00}Oh, wow!{01 00 00 0a 00} Doesn't this outfit{01 00 00 05 00}\nmake me look like I'm\nglowing?\n{07 19 00}When I wear new clothes, {01 00 00 05 00}I\nfeel like a whole new me!{01 00 00 05 00}\n{0b 03 00}{04 02 00}!{07 14 00}",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 0d 00}Wow, {01 00 00 0a 00}it's been a while since\nI've worn something that\nmakes me THIS pretty!\n{07 14 00}I just love being me,\n{01 00 00 0a 00}{04 02 00}!",
+   "et": ""
+  }
+ ]
+}

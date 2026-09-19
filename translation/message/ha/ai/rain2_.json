@@ -1,0 +1,35 @@
+{
+ "file": "script/ENG/message/ha/ai/rain2_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 14 00}I love the sound of rain!{01 00 00 05 00}\nYeah!{01 00 00 05 00} Unh!{01 00 00 05 00} Pow! {01 00 00 05 00}Rain solo!{01 00 00 05 00}\nFeel it, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 14 00}It's raining as hard as I\nsweat, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{0b 03 00}{01 06 00}It's POURING{01 07 00}!{01 00 00 0a 00}\nStay dry, {04 1f 00}!",
+   "et": ""
+  },
+  {
+   "id": 3,
+   "en": "{07 14 00}{0b 03 00}{01 06 00}Yo, yo, yo{01 07 00}!{01 00 00 05 00}\nHey, it's {04 1f 00} stew!",
+   "et": ""
+  },
+  {
+   "id": 4,
+   "en": "{07 16 00}Wonder how long it's gonna\nkeep raining...",
+   "et": ""
+  },
+  {
+   "id": 5,
+   "en": "{0b 03 00}{01 06 00}Yo, yo{01 07 00}!{01 00 00 0a 00}\n{07 14 00}It's really comin' down,\n{01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  }
+ ]
+}

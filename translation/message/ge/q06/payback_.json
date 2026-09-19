@@ -1,0 +1,20 @@
+{
+ "file": "script/ENG/message/ge/q06/payback_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 16 00}I had such totally high\nexpectations of you, too,\n{01 00 00 05 00}{04 02 00}...",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 00 00}Was I asking you too much\nor what, {01 00 00 05 00}{04 02 00}?",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 1c 00}Huh{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} I just don't know\nabout you, {01 00 00 05 00}{04 02 00}...",
+   "et": ""
+  }
+ ]
+}

@@ -1,0 +1,125 @@
+{
+ "file": "script/ENG/message/ha/ap/trade_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 00 00}Hey, you!{01 00 00 0a 00} About that item\nyou got there...{01 00 00 05 00} {07 0b 00}Is that\n{04 1a 00}?\n{07 06 00}Ooh! Please!{01 00 00 0a 00} You've just\nGOTTA trade it for my\n{0b 02 00}{04 1b 00}!{02 00 00 03 0b}\nOK!\nI can't do that...",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 00 00}Hey, yesterday{01 00 00 05 00} I found\n{04 1b 00}...\n\n{07 0b 00}Any chance you maybe wanna\ntrade it for your\n{0b 02 00}{04 1a 00}?{02 00 00 03 0b}\nSure!\nNo thanks.",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 14 00}Listen up, {01 00 00 0a 00}{04 1f 00}!\n{07 00 00}Through my squat buddy, \nI got this!\n{07 14 00}I can trade it for your\n{0b 02 00}{04 1a 00} if\nyou like!{01 00 00 0a 00} Do you want it?{02 00 00 14 0b}\nYes!\nNo thanks.",
+   "et": ""
+  },
+  {
+   "id": 3,
+   "en": "{06 01 00 04 05 06}",
+   "et": ""
+  },
+  {
+   "id": 4,
+   "en": "{07 00 00}YES! {01 00 00 05 00}You rule, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 5,
+   "en": "{07 00 00}Good stuff!{01 00 00 05 00} That's my kind\nof answer, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 6,
+   "en": "{07 00 00}Oh yeah!{01 00 00 05 00} You're a good kid,\n{01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 7,
+   "en": "{06 01 00 08 09 0a}",
+   "et": ""
+  },
+  {
+   "id": 8,
+   "en": "{07 14 00}I gotta be honest,{01 00 00 05 00} I sorta\nactually found that in the\n{ff 00 00 08}recycling bin{ff 00 00 00}...\n{07 15 00}If you don't mind the smell,\nyou can still use it,\nthough!{01 00 00 05 00} Cherish it!",
+   "et": ""
+  },
+  {
+   "id": 9,
+   "en": "{07 13 00}Ahhh, now that I have this \n{0b 02 00}{04 1a 00}, my\nmuscles are full of joy!\n{07 14 00}Thanks,{01 00 00 0a 00} {ff 00 00 05}{04 1f 00}{ff 00 00 00}!\nSo awesome, {01 00 00 05 00}{04 02 00}!{03 01 00 01}",
+   "et": ""
+  },
+  {
+   "id": 10,
+   "en": "{07 16 00}I was actually gonna throw\nthis away, but...\n\n{07 0d 00}Now I don't have to! {01 00 00 05 00}The\n{0b 02 00}{04 1b 00} will\nlive on, {01 00 00 05 00}{04 02 00}!{03 01 00 01}",
+   "et": ""
+  },
+  {
+   "id": 11,
+   "en": "{06 00 00 0c 0d}",
+   "et": ""
+  },
+  {
+   "id": 12,
+   "en": "{06 01 00 0e 0f 10}",
+   "et": ""
+  },
+  {
+   "id": 13,
+   "en": "{06 01 00 11 12 13}",
+   "et": ""
+  },
+  {
+   "id": 14,
+   "en": "{07 16 00}What? {01 00 00 05 00}No?{01 00 00 0a 00} Ooh, low blow,\n{01 00 00 05 00}{04 02 00}!{03 03 00 01}",
+   "et": ""
+  },
+  {
+   "id": 15,
+   "en": "{07 02 00}Huh?{01 00 00 05 00} Why NOT, {01 00 00 05 00}{04 02 00}?!\n\n\n{07 06 00}You know, {01 00 00 05 00}you went from\ncool to NOT COOL in about\none second!{03 03 00 01}",
+   "et": ""
+  },
+  {
+   "id": 16,
+   "en": "{07 02 00}Huh?!{01 00 00 05 00} Aw, I expected better\noutta you, {01 00 00 05 00}{04 02 00}!\n\n{07 13 00}If you did clench-squats\nholding this,{01 00 00 05 00} you'd be a\ntotal hoss{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{03 03 00 01}",
+   "et": ""
+  },
+  {
+   "id": 17,
+   "en": "{07 04 00}Whoa, you don't want it?{01 00 00 0a 00}\n{07 0b 00}You mean to tell me your\nroom is already full?\n{07 15 00}Fine,{01 00 00 05 00} come back after you \nremodel your house or\nsomething, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 18,
+   "en": "{07 16 00}Don't be so stubborn!{01 01 00}\n{07 15 00}I mean it, {04 1f 00}!\n\n{07 05 00}It's a fine line between\nfreedom of choice and total\nselfishness, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 19,
+   "en": "{07 16 00}Huh?!{01 00 00 0a 00} You're refusing me?!{01 00 00 05 00}\nME?!\n\n{07 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}Great. {01 00 00 05 00}Now I have no\nchoice.{01 00 00 05 00} I've gotta give it \nto {04 0d 00} for free!",
+   "et": ""
+  },
+  {
+   "id": 20,
+   "en": "{07 0d 00}Good deal!{01 00 00 0a 00} I like that about\nyou{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} You're all business!\n\n{07 14 00}Right on!{01 00 00 05 00} Here ya go,\n{01 00 00 05 00}{04 02 00}!\n\n{06 01 00 15 16 17}",
+   "et": ""
+  },
+  {
+   "id": 21,
+   "en": "{07 00 00}You may already have this, \nbut...\n\n{07 14 00}Oh well, don't sweat the\ndetails, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 22,
+   "en": "{07 14 00}Here ya go, {01 00 00 05 00}{04 02 00}!{01 01 00}\n{07 0a 00}From now on, you're my\nhopping-wild-adventure pal!{03 01 00 01}",
+   "et": ""
+  },
+  {
+   "id": 23,
+   "en": "{07 14 00}Here!{01 00 00 05 00} Take this!{01 00 00 0a 00} Hope ya dig\nit, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  }
+ ]
+}

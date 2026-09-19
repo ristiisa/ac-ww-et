@@ -1,0 +1,100 @@
+{
+ "file": "script/ENG/message/ta/ap/mail_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 00 00}Hey, {01 00 00 05 00}{04 1f 00},{01 00 00 0a 00} would you\ntake a look at this letter\nI got from a friend?",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 15 00}Hey, {01 00 00 05 00}{01 00 00 05 00}{04 1f 00},{01 00 00 14 00} a friend\nof mine sent me this\nletter here.",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 00 00}Hi, {01 00 00 05 00}{04 1f 00}.{01 00 00 05 00} {07 0b 00}Would you\nlike to see something? {01 00 00 0a 00}Of\ncourse you would.\n{07 16 00}This super weird letter{01 00 00 05 00}\njust appeared in my mailbox\none day.",
+   "et": ""
+  },
+  {
+   "id": 3,
+   "en": "{07 00 00}By the way, {04 1f 00}, I\njust gotta show you this\nweird letter I got!",
+   "et": ""
+  },
+  {
+   "id": 4,
+   "en": "{07 0b 00}So, what do you think of\nit?{02 01 00 05 06 07}\nSounds friendly!\nNot good...\nWhy?",
+   "et": ""
+  },
+  {
+   "id": 5,
+   "en": "{07 04 00}Yeah?{01 00 00 14 00}{07 00 00} I thought so, too.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 0a 00}\nBut don't you think it's a\nlittle{07 11 00}.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 0a 00}TOO friendly?",
+   "et": ""
+  },
+  {
+   "id": 6,
+   "en": "{07 19 00}{01 00 00 05 00}Well{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00} I think ordinary\npeople would definitely\nfeel that way.{07 00 00}\nBut.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} {07 13 00}I'm anything but\nordinary!{01 00 00 0a 00} And the smell of\nintrigue is alluring to me{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.",
+   "et": ""
+  },
+  {
+   "id": 7,
+   "en": "{07 09 00}Oh.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} I just wanted your\nopinion, is all. {07 1b 00}I've been\ncraving some excitement.\nI was hoping that this\nletter had a coded message\nthat you could help decode.\n{07 01 00}Ugh!{01 00 00 0f 00} There's absolutely no\nexcitement in real life,\n{01 00 00 0a 00}{04 02 00}!{07 15 00}",
+   "et": ""
+  },
+  {
+   "id": 8,
+   "en": "{07 00 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00}{07 04 00}W-{01 00 00 0a 00}what is it?!{01 00 00 14 00} Why did\nyou suddenly go all quiet?\n{01 01 00}{07 0b 00}Is it really scandalous?",
+   "et": ""
+  },
+  {
+   "id": 9,
+   "en": "{07 1b 00}You see?{01 00 00 14 00} You really gotta\nfocus when you're reading\nit!\n{06 00 00 0b 0c}",
+   "et": ""
+  },
+  {
+   "id": 10,
+   "en": "{07 1c 00}{01 00 00 05 00}Writing me a letter like\nthis must be really boring.{01 01 00}\n{07 1b 00}And I must be really bored,\ntoo, 'cause I'm actually\nshowing you this snoozefest\nof a letter!",
+   "et": ""
+  },
+  {
+   "id": 11,
+   "en": "{07 1b 00}Terrible writing, isn't it?{01 00 00 14 00}\n{07 15 00}I had the worst time trying\nto decode it!\n{07 19 00}Why would someone send\nsomething like this?{01 00 00 0a 00} It's\njust embarrassing.{07 00 00}",
+   "et": ""
+  },
+  {
+   "id": 12,
+   "en": "{07 14 00}Nice handwriting, wouldn't\nyou say?{01 01 00} {07 19 00}Yep, that one's a\ngood friend of mine!{07 00 00}",
+   "et": ""
+  },
+  {
+   "id": 13,
+   "en": "{07 0b 00}Do you think it was a\npractical joke or something\nelse?\n{07 14 00}I kept it because it was\nkinda funny, {01 00 00 0a 00}{04 02 00}.",
+   "et": ""
+  },
+  {
+   "id": 14,
+   "en": "{07 15 00}It's a very weird letter, \n{07 19 00}but in some ways, it's right\non target!\n{07 14 00}Oh, well,{01 00 00 05 00} whatever{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 0f 00} It's\nkind of funny, {01 00 00 0a 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 15,
+   "en": "{07 0e 00}{01 00 00 0a 00}Is this, like, poetry or\nsomething?{01 01 00} {07 16 00}It sounds kinda\nstupid to me{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.",
+   "et": ""
+  },
+  {
+   "id": 16,
+   "en": "{06 01 00 04 08 09}",
+   "et": ""
+  },
+  {
+   "id": 17,
+   "en": "{06 01 00 04 09 0a}",
+   "et": ""
+  },
+  {
+   "id": 18,
+   "en": "{06 01 00 0d 0e 0f}",
+   "et": ""
+  }
+ ]
+}

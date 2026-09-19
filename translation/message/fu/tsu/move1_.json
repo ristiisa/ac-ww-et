@@ -1,0 +1,65 @@
+{
+ "file": "script/ENG/message/fu/tsu/move1_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 16 00}I haven't put much thought\ninto this, {04 1f 00}, but\nit's time for a change.\n{07 06 00}That's right!{01 00 00 05 00} I've decided\nto move to another town\nfor a while, {01 00 00 05 00}{04 02 00}!\n{07 16 00}But I'm so glad that you've\nbeen my friend for all this\ntime, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "Keep it between you and\nme,{01 00 00 0a 00} {07 16 00}but I'm thinking of\nmoving pretty soon.\nI haven't told anyone else,\nbecause I don't really want\nanyone to worry about me.\nBut, {04 00 00}, I felt I\nshould at least tell you\nabout it, {01 00 00 05 00}{04 02 00}.\n{07 08 00}Thank you for being so nice\nto me, {04 00 00}!{01 00 00 0a 00} I'm\ngoing to miss you!",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 16 00}I don't want to have to\nexplain my reasons to you,\nbut{01 00 00 0a 00} I'm moving.\n{07 00 00}Sorry for all the trouble,\nbut that's just the way\nthings go, {01 00 00 05 00}{04 02 00}.\n{07 16 00}We meet people, get to\nknow them, and then they\nget up and leave us behind.\n{07 08 00}Don't cry, {04 00 00}!{01 00 00 0f 00}\nI promise I won't forget\nabout you, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 3,
+   "en": "{07 08 00}So long, {04 00 00}!{01 00 00 0f 00} I'll\nnever forget you!",
+   "et": ""
+  },
+  {
+   "id": 4,
+   "en": "{07 08 00}Please,{01 00 00 0f 00} promise me you'll\nnever forget about me,{01 00 00 05 00}\n{04 02 00}! Ever!",
+   "et": ""
+  },
+  {
+   "id": 5,
+   "en": "{07 08 00}I hope you'll be OK when I'm\ngone! Promise you won't\nfall to pieces without me!",
+   "et": ""
+  },
+  {
+   "id": 6,
+   "en": "{07 16 00}I'm sorry, but I've made up\nmy mind.{01 00 00 0f 00} I have to leave\nthis town while I still can!",
+   "et": ""
+  },
+  {
+   "id": 7,
+   "en": "{07 06 00}Well,{01 00 00 05 00} there's nothing to be\ndone about it now.\n\n{07 16 00}I'm leaving,{01 00 00 05 00} and there's no\nchanging my mind.",
+   "et": ""
+  },
+  {
+   "id": 8,
+   "en": "{07 06 00}I don't want to say much,\nbut there's a bit of a\nfamily crisis, {01 00 00 05 00}{04 02 00}.\n{07 16 00}So don't make any fuss,\nand I'll just leave quietly.",
+   "et": ""
+  },
+  {
+   "id": 9,
+   "en": "{07 16 00}Oh{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} You sound so sad!\nI don't know what to do\nanymore, {01 00 00 05 00}{04 02 00}!\n{07 0e 00}What should I do?{01 00 00 0f 00} {07 16 00}Should I\njust forget about the\nwhole thing, {01 00 00 05 00}{04 02 00}?",
+   "et": ""
+  },
+  {
+   "id": 10,
+   "en": "{07 06 00}Please, don't{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n\n\n{07 16 00}You're making this harder\nthan it has to be! Stop\nmaking your sad face!\n{07 0e 00}Maybe I should stay after\nall{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{04 02 00}.",
+   "et": ""
+  },
+  {
+   "id": 11,
+   "en": ".{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}Oh, fine, {01 00 00 05 00}{04 02 00}.\n\n\n{07 16 00}{0b 03 00}{04 00 00}, if you want me\nhere so badly, I'll think\nabout it. But no promises!\n{07 00 00}I'll make up my mind\nby tomorrow{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{04 02 00}.",
+   "et": ""
+  }
+ ]
+}

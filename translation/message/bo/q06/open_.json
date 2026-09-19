@@ -1,0 +1,20 @@
+{
+ "file": "script/ENG/message/bo/q06/open_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00}{07 04 00}Oh!{01 00 00 0a 00} But what's this?!{01 00 00 14 00}\nYou opened it, didn't you!\n{07 06 00}That's just so mean!{01 00 00 0a 00}\nI can't believe{01 00 00 05 00} I trusted\nyou,{01 00 00 0a 00} {04 02 00}! I thought\nwe were friends!\n{07 08 00}Now {ff 00 00 06}{04 10 00}{ff 00 00 00} is gonna\nhate me! And I'm gonna be\nso lonely.{03 03 00 01}",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 00 00}OK{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} {07 04 00}Wait a second!\n{0b 03 00}{04 1f 00}!{01 01 00} {07 16 00}Why did you\nopen it?\n{07 0f 00}{01 00 00 14 00}That was for {ff 00 00 06}{04 10 00}{ff 00 00 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 08 00}You're selfish! {0b 03 00}{ff 00 00 06}{04 10 00}\n{ff 00 00 00}must've been furious!{03 03 00 01}",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 04 00}Oh!{01 00 00 14 00} I know what you\ndid!{01 01 00} {07 15 00}You opened it!\nYou betrayed me!\n{07 01 00}{01 00 00 0a 00}I entrusted my present for\n{ff 00 00 06}{04 10 00}{ff 00 00 00} with you,{01 00 00 0a 00} and\nyou opened it!\nYou really disappointed me.{01 00 00 0a 00}\n{07 08 00}I was waiting anxiously{01 00 00 0a 00} for\na response, too!{03 03 00 01}",
+   "et": ""
+  }
+ ]
+}

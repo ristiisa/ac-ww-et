@@ -1,0 +1,20 @@
+{
+ "file": "script/ENG/message/fu/q07/req_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 04 00}Ahhhh{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{04 1f 00}!{01 01 00}\n{07 00 00}I got a letter from \n{ff 00 00 06}{04 10 00} {ff 00 00 00}the other day.\n{07 16 00}But I forgot to reply \nuntil now, {01 00 00 05 00}{04 02 00}!{01 00 00 0a 00}\n\n{07 06 00}What should I do? I have to\nget this delivered, and\nfast{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{01 00 00 05 00}{04 02 00}.\n{07 16 00}I hate to bug you with\nthis,{01 00 00 05 00} but could you deliver\nit for me?",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 00 00}Hey, {01 00 00 05 00}{04 1f 00}!{01 00 00 0a 00} I've got\na favor to ask you...\n\n{07 0b 00}Would you deliver this\nletter to {ff 00 00 06}{04 10 00}{ff 00 00 00} for\nme, {01 00 00 05 00}{04 02 00}?\n{07 00 00}It needs to get there\npretty fast, {07 16 00}so I can't use\nthe {ff 00 00 08}post office{ff 00 00 00}, you know?",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 00 00}Hey, {01 00 00 0a 00}{04 1f 00}.{01 00 00 0f 00} I'm sorry\nfor the sudden request,\nbut would you deliver this?\nIt's just a letter, but I\nhave to get it over to\n{ff 00 00 06}{04 10 00}{ff 00 00 00}, {01 00 00 05 00}{04 02 00}.",
+   "et": ""
+  }
+ ]
+}

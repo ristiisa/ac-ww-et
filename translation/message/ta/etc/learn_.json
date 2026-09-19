@@ -1,0 +1,100 @@
+{
+ "file": "script/ENG/message/ta/etc/learn_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 00 00}Why are you flailing around\nlike that, {01 00 00 05 00}{04 1f 00}? {01 00 00 0a 00}You\nlook really weird.\nIs this what you're trying\nto do, {01 00 00 05 00}{04 02 00}?",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 02 00}Ugh! {01 00 00 05 00}What was that?!{01 01 00} Are\ntrying to dance or\nsomething?\n{07 0b 00}Was this what you were \ntrying to do, {01 00 00 05 00}{04 02 00}?",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 02 00}Ew, {01 00 00 05 00}{04 1f 00}!{01 00 00 14 00} Is this\n{01 00 00 05 00}what you were trying to do,\n{01 00 00 05 00}{04 02 00}?",
+   "et": ""
+  },
+  {
+   "id": 3,
+   "en": "{07 16 00}No, that stunk{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00} {07 00 00}You have\nto harder if you want to\nexpress {ff 00 00 02}{04 0f 00}{ff 00 00 00}.",
+   "et": ""
+  },
+  {
+   "id": 4,
+   "en": "{07 1b 00}Did that quack {ff 00 00 06}Dr. Shrunk\n{ff 00 00 00}tell you {ff 00 00 02}{04 0f 00}\n{ff 00 00 00}looks like that?",
+   "et": ""
+  },
+  {
+   "id": 5,
+   "en": "{07 0b 00}Ready?{01 00 00 14 00} I'm going to do it\nfor you one more time!\nWatch me!",
+   "et": ""
+  },
+  {
+   "id": 6,
+   "en": "{07 15 00}You're pathetic{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00} Pay\nattention this time,\n{01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 7,
+   "en": "{07 00 00}So, what do you think? {01 00 00 05 00}{07 0b 00}You\ngot it now, {01 00 00 05 00}{04 02 00}?",
+   "et": ""
+  },
+  {
+   "id": 8,
+   "en": "{07 0b 00}So, do you get it? {01 01 00}{07 15 00}Look, I\ndon't have all day here.",
+   "et": ""
+  },
+  {
+   "id": 9,
+   "en": "{07 16 00}Either you're super\nuncoordinated,{01 00 00 03 00} or {ff 00 00 06}Shrunk{ff 00 00 00}\ntotally taught you wrong!\n{07 14 00}Fine, {01 00 00 05 00}I'll do it for you\none more time. {01 00 00 0a 00}You better\npay attention this time!",
+   "et": ""
+  },
+  {
+   "id": 10,
+   "en": "{07 16 00}Ugh!{01 00 00 05 00} What are you doing?{01 00 00 05 00} Do\nyou think this is a game?!{01 01 00} {07 05 00}{01 08 00}\n'Cause it's not!\n{07 15 00}I'm gonna do it one more\ntime so this time{01 00 00 05 00} WATCH ME!",
+   "et": ""
+  },
+  {
+   "id": 11,
+   "en": "{07 00 00}Finally!{01 00 00 05 00} OK, congratulations!{01 00 00 05 00}\nYou've finally get how to\nshow {ff 00 00 02}{04 0f 00}{ff 00 00 00}!",
+   "et": ""
+  },
+  {
+   "id": 12,
+   "en": "{07 14 00}OK, you finally get how to\nshow {ff 00 00 02}{04 0f 00}{ff 00 00 00}!\n{01 00 00 0f 00}{07 15 00}Now go bug someone else!",
+   "et": ""
+  },
+  {
+   "id": 13,
+   "en": "{07 04 00}You can't learn any new\n{ff 00 00 02}expressions{ff 00 00 00}. {01 00 00 0a 00}Didn't {ff 00 00 06}Shrunk \n{ff 00 00 00}cover this in your session?\n{07 15 00}Of course not. {01 00 00 0a 00}He probably\njust yammered about the\nKomedy Klatch or something.\n{07 1b 00}If you're willing to forget \nan {ff 00 00 02}expression{ff 00 00 00} you know,\n{01 00 00 05 00}you can learn a new one.",
+   "et": ""
+  },
+  {
+   "id": 14,
+   "en": "{07 16 00}It looks like you can't learn\nany more {ff 00 00 02}expressions{ff 00 00 00}. {01 00 00 0a 00}You\ndon't have any room left.\n{07 15 00}You have to forget one of\nthe {ff 00 00 02}expressions {ff 00 00 00}that you\nknow now, {01 00 00 0a 00}{04 02 00}.",
+   "et": ""
+  },
+  {
+   "id": 15,
+   "en": "{07 01 00}{01 08 00}Snap! {01 01 00}{07 00 00}So,{01 00 00 05 00} you can't express\n{ff 00 00 02}{04 10 00}{ff 00 00 00} anymore\nbut don't worry.\nWhy? {01 01 00}{07 19 00}'Cause you learned how\nto express\n{ff 00 00 02}{04 0f 00}{ff 00 00 00}!\n{07 15 00}Now maybe you won't just\nstare blankly when someone\nis talking to you!",
+   "et": ""
+  },
+  {
+   "id": 16,
+   "en": "{07 14 00}OK, so,{01 00 00 05 00} turn this way a \nlittle and{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.{01 01 00} {07 05 00}{01 08 00}Snap!{01 01 00} You can't\nexpress {ff 00 00 02}{04 10 00}{ff 00 00 00}.\nBut it's OK, 'cause you can\nexpress {ff 00 00 02}{04 0f 00}{ff 00 00 00}!{01 01 00}\n{07 0a 00}Yay! {01 00 00 0a 00}Oh, happy day!\n{07 14 00}Now maybe you'll do\nsomething besides drool\nwhen I talk to you!",
+   "et": ""
+  },
+  {
+   "id": 17,
+   "en": "{07 00 00}Oh, {01 00 00 05 00}really?{01 00 00 14 00} {07 03 00}I don't really\ncare either way,\n{01 00 00 0a 00}{04 02 00}.{01 00 00 0a 00}{07 00 00}",
+   "et": ""
+  },
+  {
+   "id": 18,
+   "en": "{07 1b 00}Eh, who cares.{01 00 00 0a 00} Do whatever\nyou think is best. ",
+   "et": ""
+  }
+ ]
+}

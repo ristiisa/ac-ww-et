@@ -1,0 +1,1185 @@
+{
+ "file": "script/ENG/2d/2d_menu.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "Grab",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "Drop on Ground",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "Never Mind",
+   "et": ""
+  },
+  {
+   "id": 3,
+   "en": "Place All",
+   "et": ""
+  },
+  {
+   "id": 4,
+   "en": "Yes",
+   "et": ""
+  },
+  {
+   "id": 5,
+   "en": "Eat",
+   "et": ""
+  },
+  {
+   "id": 6,
+   "en": "Plant",
+   "et": ""
+  },
+  {
+   "id": 7,
+   "en": "Bury",
+   "et": ""
+  },
+  {
+   "id": 8,
+   "en": "Release",
+   "et": ""
+  },
+  {
+   "id": 9,
+   "en": "Open",
+   "et": ""
+  },
+  {
+   "id": 10,
+   "en": "Place in Room",
+   "et": ""
+  },
+  {
+   "id": 11,
+   "en": "Paste on Wall",
+   "et": ""
+  },
+  {
+   "id": 12,
+   "en": "Spread on Floor",
+   "et": ""
+  },
+  {
+   "id": 13,
+   "en": "Give This",
+   "et": ""
+  },
+  {
+   "id": 14,
+   "en": "Sell This",
+   "et": ""
+  },
+  {
+   "id": 15,
+   "en": "Put This Away",
+   "et": ""
+  },
+  {
+   "id": 16,
+   "en": "Swap",
+   "et": ""
+  },
+  {
+   "id": 17,
+   "en": "Release",
+   "et": ""
+  },
+  {
+   "id": 18,
+   "en": "Confirm",
+   "et": ""
+  },
+  {
+   "id": 19,
+   "en": "No",
+   "et": ""
+  },
+  {
+   "id": 20,
+   "en": "Read",
+   "et": ""
+  },
+  {
+   "id": 21,
+   "en": "Toss",
+   "et": ""
+  },
+  {
+   "id": 22,
+   "en": "Rewrite",
+   "et": ""
+  },
+  {
+   "id": 23,
+   "en": "...Open it?",
+   "et": ""
+  },
+  {
+   "id": 24,
+   "en": "Present",
+   "et": ""
+  },
+  {
+   "id": 25,
+   "en": "Keep",
+   "et": ""
+  },
+  {
+   "id": 26,
+   "en": "Toss it?",
+   "et": ""
+  },
+  {
+   "id": 27,
+   "en": "Show it off!",
+   "et": ""
+  },
+  {
+   "id": 28,
+   "en": "Write Letter",
+   "et": ""
+  },
+  {
+   "id": 29,
+   "en": "Grab One Sheet",
+   "et": ""
+  },
+  {
+   "id": 30,
+   "en": "{00 06 00} Next",
+   "et": ""
+  },
+  {
+   "id": 31,
+   "en": "Choose Addressee",
+   "et": ""
+  },
+  {
+   "id": 32,
+   "en": "Change Addressee",
+   "et": ""
+  },
+  {
+   "id": 33,
+   "en": "Confirm",
+   "et": ""
+  },
+  {
+   "id": 34,
+   "en": "Is this correct?",
+   "et": ""
+  },
+  {
+   "id": 35,
+   "en": "Dear \n,",
+   "et": ""
+  },
+  {
+   "id": 36,
+   "en": "From \n",
+   "et": ""
+  },
+  {
+   "id": 37,
+   "en": "Your Future Self",
+   "et": ""
+  },
+  {
+   "id": 38,
+   "en": "Dear Future \n,",
+   "et": ""
+  },
+  {
+   "id": 39,
+   "en": "{00 06 00} Never Mind",
+   "et": ""
+  },
+  {
+   "id": 40,
+   "en": "Use This",
+   "et": ""
+  },
+  {
+   "id": 41,
+   "en": "Place This",
+   "et": ""
+  },
+  {
+   "id": 42,
+   "en": "Use on Clothes",
+   "et": ""
+  },
+  {
+   "id": 43,
+   "en": "Use on Umbrella",
+   "et": ""
+  },
+  {
+   "id": 44,
+   "en": "Paste on Wall",
+   "et": ""
+  },
+  {
+   "id": 45,
+   "en": "Spread on Floor",
+   "et": ""
+  },
+  {
+   "id": 46,
+   "en": "Remove",
+   "et": ""
+  },
+  {
+   "id": 47,
+   "en": "Place Clothes",
+   "et": ""
+  },
+  {
+   "id": 48,
+   "en": "Place Umbrella",
+   "et": ""
+  },
+  {
+   "id": 49,
+   "en": "Paste As Is",
+   "et": ""
+  },
+  {
+   "id": 50,
+   "en": "Paste All Around",
+   "et": ""
+  },
+  {
+   "id": 51,
+   "en": "Never Mind",
+   "et": ""
+  },
+  {
+   "id": 52,
+   "en": "Is this correct?",
+   "et": ""
+  },
+  {
+   "id": 53,
+   "en": "OK!",
+   "et": ""
+  },
+  {
+   "id": 54,
+   "en": "Not yet...",
+   "et": ""
+  },
+  {
+   "id": 55,
+   "en": "Forget I did it.",
+   "et": ""
+  },
+  {
+   "id": 56,
+   "en": "Swap",
+   "et": ""
+  },
+  {
+   "id": 57,
+   "en": "Place Here",
+   "et": ""
+  },
+  {
+   "id": 58,
+   "en": "Put it where?",
+   "et": ""
+  },
+  {
+   "id": 59,
+   "en": "Choose a name!",
+   "et": ""
+  },
+  {
+   "id": 60,
+   "en": "Dear {04 0f 00},",
+   "et": ""
+  },
+  {
+   "id": 61,
+   "en": "From {04 10 00}",
+   "et": ""
+  },
+  {
+   "id": 62,
+   "en": "Love, Mom",
+   "et": ""
+  },
+  {
+   "id": 63,
+   "en": "From the H.R.A.",
+   "et": ""
+  },
+  {
+   "id": 64,
+   "en": "To {04 0f 00}",
+   "et": ""
+  },
+  {
+   "id": 65,
+   "en": "Compliment!",
+   "et": ""
+  },
+  {
+   "id": 66,
+   "en": "See! You say it!",
+   "et": ""
+  },
+  {
+   "id": 67,
+   "en": "Some Stranger",
+   "et": ""
+  },
+  {
+   "id": 68,
+   "en": "Enter a request.",
+   "et": ""
+  },
+  {
+   "id": 69,
+   "en": "Pick a phrase!",
+   "et": ""
+  },
+  {
+   "id": 70,
+   "en": "Pick a greeting!",
+   "et": ""
+  },
+  {
+   "id": 71,
+   "en": "Enter Your Birthday",
+   "et": ""
+  },
+  {
+   "id": 72,
+   "en": "Password?",
+   "et": ""
+  },
+  {
+   "id": 73,
+   "en": "Use which one?",
+   "et": ""
+  },
+  {
+   "id": 74,
+   "en": "Enter a Comment",
+   "et": ""
+  },
+  {
+   "id": 75,
+   "en": "From {04 10 00}",
+   "et": ""
+  },
+  {
+   "id": 76,
+   "en": "Enter a nickname.",
+   "et": ""
+  },
+  {
+   "id": 77,
+   "en": "Who might it be?",
+   "et": ""
+  },
+  {
+   "id": 78,
+   "en": "What's it called?",
+   "et": ""
+  },
+  {
+   "id": 79,
+   "en": "Design name?",
+   "et": ""
+  },
+  {
+   "id": 80,
+   "en": "Asking price",
+   "et": ""
+  },
+  {
+   "id": 81,
+   "en": "Turnips",
+   "et": ""
+  },
+  {
+   "id": 82,
+   "en": "How many?",
+   "et": ""
+  },
+  {
+   "id": 83,
+   "en": "Not selling",
+   "et": ""
+  },
+  {
+   "id": 84,
+   "en": "Money on Hand",
+   "et": ""
+  },
+  {
+   "id": 85,
+   "en": "Payment",
+   "et": ""
+  },
+  {
+   "id": 86,
+   "en": "Remaining",
+   "et": ""
+  },
+  {
+   "id": 87,
+   "en": "Choose an amount!",
+   "et": ""
+  },
+  {
+   "id": 88,
+   "en": "Deposit",
+   "et": ""
+  },
+  {
+   "id": 89,
+   "en": "Savings",
+   "et": ""
+  },
+  {
+   "id": 90,
+   "en": "Donation",
+   "et": ""
+  },
+  {
+   "id": 91,
+   "en": "Asking price?",
+   "et": ""
+  },
+  {
+   "id": 92,
+   "en": "Make an offer!",
+   "et": ""
+  },
+  {
+   "id": 93,
+   "en": "Offer",
+   "et": ""
+  },
+  {
+   "id": 94,
+   "en": "Thank you.",
+   "et": ""
+  },
+  {
+   "id": 95,
+   "en": "Save Bells",
+   "et": ""
+  },
+  {
+   "id": 96,
+   "en": "Withdraw Bells",
+   "et": ""
+  },
+  {
+   "id": 97,
+   "en": "Withdrawal",
+   "et": ""
+  },
+  {
+   "id": 98,
+   "en": "How many?",
+   "et": ""
+  },
+  {
+   "id": 99,
+   "en": "Touch it",
+   "et": ""
+  },
+  {
+   "id": 100,
+   "en": "Touch the Screen",
+   "et": ""
+  },
+  {
+   "id": 101,
+   "en": "Quit",
+   "et": ""
+  },
+  {
+   "id": 102,
+   "en": "{04 0f 00}",
+   "et": ""
+  },
+  {
+   "id": 103,
+   "en": "Lock",
+   "et": ""
+  },
+  {
+   "id": 104,
+   "en": "Erase",
+   "et": ""
+  },
+  {
+   "id": 105,
+   "en": "End",
+   "et": ""
+  },
+  {
+   "id": 107,
+   "en": "Adjust the Clock",
+   "et": ""
+  },
+  {
+   "id": 108,
+   "en": "Decide Time",
+   "et": ""
+  },
+  {
+   "id": 109,
+   "en": "Enter Birthday",
+   "et": ""
+  },
+  {
+   "id": 110,
+   "en": "All",
+   "et": ""
+  },
+  {
+   "id": 111,
+   "en": "100 Bells",
+   "et": ""
+  },
+  {
+   "id": 112,
+   "en": "1,000 Bells",
+   "et": ""
+  },
+  {
+   "id": 113,
+   "en": "10,000 Bells",
+   "et": ""
+  },
+  {
+   "id": 114,
+   "en": "Put Away Here",
+   "et": ""
+  },
+  {
+   "id": 115,
+   "en": "Play This One",
+   "et": ""
+  },
+  {
+   "id": 117,
+   "en": "Remove Equipment",
+   "et": ""
+  },
+  {
+   "id": 118,
+   "en": "Remove Headgear",
+   "et": ""
+  },
+  {
+   "id": 119,
+   "en": "Remove Accessory",
+   "et": ""
+  },
+  {
+   "id": 120,
+   "en": "!!!!!!",
+   "et": ""
+  },
+  {
+   "id": 122,
+   "en": "You have nothing!",
+   "et": ""
+  },
+  {
+   "id": 123,
+   "en": "Not enough Bells.",
+   "et": ""
+  },
+  {
+   "id": 124,
+   "en": "Can't do anything!",
+   "et": ""
+  },
+  {
+   "id": 126,
+   "en": "Nearby Towns",
+   "et": ""
+  },
+  {
+   "id": 127,
+   "en": "Distant Towns",
+   "et": ""
+  },
+  {
+   "id": 129,
+   "en": "Phone",
+   "et": ""
+  },
+  {
+   "id": 130,
+   "en": "Last",
+   "et": ""
+  },
+  {
+   "id": 131,
+   "en": "First",
+   "et": ""
+  },
+  {
+   "id": 132,
+   "en": "Post",
+   "et": ""
+  },
+  {
+   "id": 133,
+   "en": "OK",
+   "et": ""
+  },
+  {
+   "id": 134,
+   "en": "Message {04 0f 00}",
+   "et": ""
+  },
+  {
+   "id": 135,
+   "en": "Quit now?",
+   "et": ""
+  },
+  {
+   "id": 136,
+   "en": "Close",
+   "et": ""
+  },
+  {
+   "id": 137,
+   "en": "Written by {0b 03 00}{04 0f 00}",
+   "et": ""
+  },
+  {
+   "id": 139,
+   "en": "What time?",
+   "et": ""
+  },
+  {
+   "id": 140,
+   "en": "Is this correct?",
+   "et": ""
+  },
+  {
+   "id": 141,
+   "en": "Erase All",
+   "et": ""
+  },
+  {
+   "id": 142,
+   "en": "Play",
+   "et": ""
+  },
+  {
+   "id": 143,
+   "en": "Communicating...",
+   "et": ""
+  },
+  {
+   "id": 144,
+   "en": "Display which?",
+   "et": ""
+  },
+  {
+   "id": 145,
+   "en": "This One",
+   "et": ""
+  },
+  {
+   "id": 146,
+   "en": "Trade which one?",
+   "et": ""
+  },
+  {
+   "id": 147,
+   "en": "Close the window.",
+   "et": ""
+  },
+  {
+   "id": 148,
+   "en": "End the conversation.",
+   "et": ""
+  },
+  {
+   "id": 150,
+   "en": "Shop",
+   "et": ""
+  },
+  {
+   "id": 151,
+   "en": "Tailor",
+   "et": ""
+  },
+  {
+   "id": 152,
+   "en": "Town Hall",
+   "et": ""
+  },
+  {
+   "id": 153,
+   "en": "Museum",
+   "et": ""
+  },
+  {
+   "id": 154,
+   "en": "Main Gate",
+   "et": ""
+  },
+  {
+   "id": 155,
+   "en": "From Boondox",
+   "et": ""
+  },
+  {
+   "id": 156,
+   "en": "Copy",
+   "et": ""
+  },
+  {
+   "id": 157,
+   "en": "Paste",
+   "et": ""
+  },
+  {
+   "id": 158,
+   "en": "From Tom Nook",
+   "et": ""
+  },
+  {
+   "id": 159,
+   "en": "From the museum",
+   "et": ""
+  },
+  {
+   "id": 160,
+   "en": "Love, Mom",
+   "et": ""
+  },
+  {
+   "id": 161,
+   "en": "Certificate",
+   "et": ""
+  },
+  {
+   "id": 162,
+   "en": "From town hall",
+   "et": ""
+  },
+  {
+   "id": 163,
+   "en": "From Lyle",
+   "et": ""
+  },
+  {
+   "id": 164,
+   "en": "Love, Dad",
+   "et": ""
+  },
+  {
+   "id": 165,
+   "en": "From the Star",
+   "et": ""
+  },
+  {
+   "id": 166,
+   "en": "From Snowman",
+   "et": ""
+  },
+  {
+   "id": 167,
+   "en": "From Redd",
+   "et": ""
+  },
+  {
+   "id": 168,
+   "en": "Bottle mail",
+   "et": ""
+  },
+  {
+   "id": 169,
+   "en": "{04 0f 00} Town Map",
+   "et": ""
+  },
+  {
+   "id": 170,
+   "en": "Sunday",
+   "et": ""
+  },
+  {
+   "id": 171,
+   "en": "Monday",
+   "et": ""
+  },
+  {
+   "id": 172,
+   "en": "Tuesday",
+   "et": ""
+  },
+  {
+   "id": 173,
+   "en": "Wednesday",
+   "et": ""
+  },
+  {
+   "id": 174,
+   "en": "Thursday",
+   "et": ""
+  },
+  {
+   "id": 175,
+   "en": "Friday",
+   "et": ""
+  },
+  {
+   "id": 176,
+   "en": "Saturday",
+   "et": ""
+  },
+  {
+   "id": 178,
+   "en": "Year",
+   "et": ""
+  },
+  {
+   "id": 179,
+   "en": "Month",
+   "et": ""
+  },
+  {
+   "id": 180,
+   "en": "Day",
+   "et": ""
+  },
+  {
+   "id": 181,
+   "en": "Hour",
+   "et": ""
+  },
+  {
+   "id": 182,
+   "en": "Minute",
+   "et": ""
+  },
+  {
+   "id": 184,
+   "en": " Bells",
+   "et": ""
+  },
+  {
+   "id": 185,
+   "en": "Thank you letter",
+   "et": ""
+  },
+  {
+   "id": 186,
+   "en": "Fortune",
+   "et": ""
+  },
+  {
+   "id": 187,
+   "en": "From the Mayor",
+   "et": ""
+  },
+  {
+   "id": 188,
+   "en": "Town name",
+   "et": ""
+  },
+  {
+   "id": 189,
+   "en": "Name",
+   "et": ""
+  },
+  {
+   "id": 190,
+   "en": "Start timer!",
+   "et": ""
+  },
+  {
+   "id": 191,
+   "en": "Stop timer!",
+   "et": ""
+  },
+  {
+   "id": 192,
+   "en": "Time's up!",
+   "et": ""
+  },
+  {
+   "id": 193,
+   "en": "More",
+   "et": ""
+  },
+  {
+   "id": 194,
+   "en": "Confirm",
+   "et": ""
+  },
+  {
+   "id": 195,
+   "en": "C",
+   "et": ""
+  },
+  {
+   "id": 196,
+   "en": "D",
+   "et": ""
+  },
+  {
+   "id": 197,
+   "en": "E",
+   "et": ""
+  },
+  {
+   "id": 198,
+   "en": "F",
+   "et": ""
+  },
+  {
+   "id": 199,
+   "en": "G",
+   "et": ""
+  },
+  {
+   "id": 200,
+   "en": "A",
+   "et": ""
+  },
+  {
+   "id": 201,
+   "en": "B",
+   "et": ""
+  },
+  {
+   "id": 202,
+   "en": "?",
+   "et": ""
+  },
+  {
+   "id": 203,
+   "en": "-",
+   "et": ""
+  },
+  {
+   "id": 204,
+   "en": "so-and-so",
+   "et": ""
+  },
+  {
+   "id": 205,
+   "en": "Friend Roster",
+   "et": ""
+  },
+  {
+   "id": 206,
+   "en": "Use Code",
+   "et": ""
+  },
+  {
+   "id": 207,
+   "en": "Edit Name",
+   "et": ""
+  },
+  {
+   "id": 208,
+   "en": "Edit Town Name",
+   "et": ""
+  },
+  {
+   "id": 209,
+   "en": "Edit Code",
+   "et": ""
+  },
+  {
+   "id": 210,
+   "en": "Remove From List",
+   "et": ""
+  },
+  {
+   "id": 211,
+   "en": "OK to remove?",
+   "et": ""
+  },
+  {
+   "id": 212,
+   "en": "To get your friend code,\nconnect to Nintendo\nWi-Fi Connection first.",
+   "et": ""
+  },
+  {
+   "id": 213,
+   "en": "Share your friend code\nwith others to play\nthrough Nintendo WFC!",
+   "et": ""
+  },
+  {
+   "id": 214,
+   "en": "Register",
+   "et": ""
+  },
+  {
+   "id": 215,
+   "en": "Enter code.",
+   "et": ""
+  },
+  {
+   "id": 216,
+   "en": "Go Back",
+   "et": ""
+  },
+  {
+   "id": 217,
+   "en": "There's a visitor.",
+   "et": ""
+  },
+  {
+   "id": 218,
+   "en": "Someone's leaving.",
+   "et": ""
+  },
+  {
+   "id": 219,
+   "en": "I will save.",
+   "et": ""
+  },
+  {
+   "id": 220,
+   "en": "Measure time",
+   "et": ""
+  },
+  {
+   "id": 221,
+   "en": "3 minutes",
+   "et": ""
+  },
+  {
+   "id": 222,
+   "en": "5 minutes",
+   "et": ""
+  },
+  {
+   "id": 223,
+   "en": "10 minutes",
+   "et": ""
+  },
+  {
+   "id": 224,
+   "en": "15 minutes",
+   "et": ""
+  },
+  {
+   "id": 225,
+   "en": "Stop",
+   "et": ""
+  },
+  {
+   "id": 226,
+   "en": "Please wait.",
+   "et": ""
+  },
+  {
+   "id": 227,
+   "en": "The communication is\nlagging.\nIf it doesn't recover, it\nwill shut down in",
+   "et": ""
+  },
+  {
+   "id": 228,
+   "en": "seconds...",
+   "et": ""
+  },
+  {
+   "id": 229,
+   "en": "Communication has ended\nand the game will reset.\nYou may lose progress\nfrom the last save.",
+   "et": ""
+  },
+  {
+   "id": 230,
+   "en": "What's your name?",
+   "et": "Mis su nimi on?"
+  },
+  {
+   "id": 231,
+   "en": "Where you going?",
+   "et": "Kuhu sa lähed?"
+  },
+  {
+   "id": 232,
+   "en": "Friend's name?",
+   "et": "Sõbra nimi?"
+  },
+  {
+   "id": 233,
+   "en": "Friend's town?",
+   "et": "Sõbra linn?"
+  },
+  {
+   "id": 234,
+   "en": "Friend Code",
+   "et": "Sõbrakood"
+  },
+  {
+   "id": 235,
+   "en": "Friends Present",
+   "et": "Sõbrad kohal"
+  },
+  {
+   "id": 236,
+   "en": "Get a new friend code by\nconnecting to Nintendo\nWFC one more time.",
+   "et": ""
+  },
+  {
+   "id": 237,
+   "en": "All are leaving.",
+   "et": ""
+  },
+  {
+   "id": 238,
+   "en": "Cancelled.",
+   "et": ""
+  },
+  {
+   "id": 239,
+   "en": "I want to save.",
+   "et": ""
+  },
+  {
+   "id": 240,
+   "en": "I can't move!",
+   "et": ""
+  },
+  {
+   "id": 241,
+   "en": "Outta my way!",
+   "et": ""
+  },
+  {
+   "id": 242,
+   "en": "I can't get down!",
+   "et": ""
+  },
+  {
+   "id": 243,
+   "en": "Phew...",
+   "et": ""
+  },
+  {
+   "id": 244,
+   "en": "Very nice!",
+   "et": ""
+  }
+ ]
+}

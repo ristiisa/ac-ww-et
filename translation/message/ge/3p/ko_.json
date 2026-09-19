@@ -1,0 +1,85 @@
+{
+ "file": "script/ENG/message/ge/3p/ko_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{09 01 00}{09 08 00}{07 0a 00}I love{01 00 00 05 00} puppies!{00 01 00}{01 00 00 0f 00}\nI love{01 00 00 05 00} candy!{00 01 00}{01 00 00 0a 00}\n\n{ff 00 00 04}(Maybe a little more than){ff 00 00 00}{00 01 00}\nI {01 00 00 05 00}LOVE{01 00 00 05 00} YOU!{00 01 00}{09 09 00}",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{09 01 00}{09 08 00}{07 0d 00}You know,{01 00 00 05 00} I'm going to be on\nevery TV show when I hit it\nbig, {01 00 00 05 00}{04 02 00}!{09 09 00}",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{09 01 00}{09 08 00}{07 1c 00}Awww{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{09 09 00}",
+   "et": ""
+  },
+  {
+   "id": 3,
+   "en": "{09 00 00}{09 08 00}{09 02 00}{07 15 00}Ha!{01 00 00 05 00} Laaaaaame!{01 00 00 0a 00} That song is\nlamer than a llama!\n\nNobody wants to listen to\nbubblegum pop like\nthat, {01 00 00 05 00}{04 02 00}!{09 09 00}",
+   "et": ""
+  },
+  {
+   "id": 4,
+   "en": "{09 00 00}{09 06 00}{09 01 00}{07 15 00}Like, pshhaw! {01 00 00 05 00}Like you know!{01 00 00 0a 00}\nThis song is HUGE with the\ngirls in town!\n{07 16 00}Maybe you'd know that if\nyou weren't so clueless\nabout girls, {ff 00 00 06}{04 10 00}{ff 00 00 00}!{09 09 00}",
+   "et": ""
+  },
+  {
+   "id": 5,
+   "en": "{09 00 00}{09 08 00}{09 02 00}{07 15 00}Oh, yeah?! Well maybe you\ndon't have a clue about\nwhat older people like!\n{07 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 04 00}Shoot!{01 00 00 14 00} Err... {07 06 00}Not that I\nwould know, either!\n{01 00 00 05 00}Honestly, {01 00 00 05 00}{04 02 00}!{03 03 00 01}{09 01 00}{03 03 00 01}",
+   "et": ""
+  },
+  {
+   "id": 6,
+   "en": "{07 14 00}{09 00 00}{09 08 00}{09 02 00}{07 16 00}Singers these days\nall look the same to me{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\nAnd sound even worse!\nIt takes someone really\namazing to get super\nfamous.{09 09 00}",
+   "et": ""
+  },
+  {
+   "id": 7,
+   "en": "{09 00 00}{09 06 00}{09 01 00}{07 00 00}Oh, yeah? So what makes\nsomeone amazing, celebrity\nswami {ff 00 00 06}{04 10 00}{ff 00 00 00}?!{09 09 00}",
+   "et": ""
+  },
+  {
+   "id": 8,
+   "en": "{07 00 00}{09 00 00}{09 08 00}{09 02 00}{07 0e 00}I guess they've got to have\nmore going on for them\nthan just a pretty face.\n{07 00 00}You know, some kind of cool\nskill or talent,\n{01 00 00 05 00}{04 02 00}!{09 09 00}",
+   "et": ""
+  },
+  {
+   "id": 9,
+   "en": "{09 00 00}{09 06 00}{09 01 00}{07 02 00}WHAT?!!{01 00 00 14 00} {07 16 00}Maybe I'm not going\nto be famous, then!\nOh, {01 00 00 05 00}{04 02 00}!\n{07 06 00}Am I just a girl with a\npretty face?{09 09 00}",
+   "et": ""
+  },
+  {
+   "id": 10,
+   "en": "{09 00 00}{09 08 00}{09 02 00}{07 16 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 1b 00}Naw. I count your\nperkiness as a special\ntalent, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 11,
+   "en": "{09 00 00}{09 08 00}{09 02 00}{07 0b 00}What's wrong, {ff 00 00 06}{01 00 00 05 00}{04 0f 00}{ff 00 00 00}?{01 00 00 0a 00}\n{07 00 00}It's not like you to get\nall mopey.{09 09 00}",
+   "et": ""
+  },
+  {
+   "id": 12,
+   "en": "{09 00 00}{09 06 00}{09 01 00}{07 16 00}It's just that{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} I didn't get\nthe part for the lead role\nagain.{09 09 00}",
+   "et": ""
+  },
+  {
+   "id": 13,
+   "en": "{09 00 00}{09 08 00}{09 02 00}{07 16 00}Oh, {01 00 00 05 00}that's no good.{01 01 00}\n{07 0c 00}OK then, why not lower\nyour sights a little?\n{07 00 00}For example, you could\nstart auditioning for\nsmaller parts.\nYou know, like \"Villager #1\"\nor maybe even \"Zombie\nSnack #4\"?{09 09 00}",
+   "et": ""
+  },
+  {
+   "id": 14,
+   "en": "{09 00 00}{09 06 00}{09 01 00}{07 06 00}NO WAY!{01 00 00 0a 00} I'm a great actress!\nI'd never do a lame part\nlike that!\n{07 0e 00}But I might be willing to\nplay the manager of the\n{04 15 00} dept...\n{07 0e 00}Or maybe the princess of\nthe {04 12 00}\nkingdom?{09 09 00}",
+   "et": ""
+  },
+  {
+   "id": 15,
+   "en": "{07 16 00}{09 00 00}{09 08 00}{09 02 00}{07 01 00}Since when did you become\nsuch a diva, {01 00 00 05 00}{04 02 00}?!\n\nLook at it this way{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\nYou have to take on risky\nparts to win awards!\nThere's nothing more edgy\nthan taking a role as\n\"Zombie Snack #4\"!{07 00 00}{03 02 00 01}{09 01 00}{03 03 00 01}",
+   "et": ""
+  }
+ ]
+}

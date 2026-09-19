@@ -1,0 +1,65 @@
+{
+ "file": "script/ENG/message/ta/ai/snow1_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 00 00}{0b 03 00}{01 06 00}Good morning{01 07 00}!\nCan you{01 00 00 05 00} believe this snow,\n{04 02 00}?!\n{07 14 00}Now,{01 00 00 0a 00} I know how clumsy you{01 00 00 05 00}\ncan be, so don't slip and\nbreak your neck, {01 00 00 05 00}OK?",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 14 00}{0b 03 00}{01 06 00}Well, well, hello there{01 07 00}!{01 00 00 05 00}\n{0b 03 00}{04 1f 00}!{01 00 00 0a 00} You're up\nearly today, {04 02 00}!{01 00 00 14 00}\n{07 0b 00}What's that?{01 00 00 14 00} A snowman?\n\n\n{07 1b 00}You should get someone\nelse to help you.{01 00 00 14 00} I don't\nwant to smear my mascara.",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 07 00}Brrrr! {01 00 00 0f 00}It's freezing,{01 00 00 0f 00}\n{04 1f 00}! \n\n{07 16 00}I{01 00 00 05 00} like snow and\neverything,{01 00 00 0a 00} but I hate\nbeing cold, {04 02 00}.",
+   "et": ""
+  },
+  {
+   "id": 3,
+   "en": "{07 14 00}{0b 03 00}{01 06 00}Oh, hello there{01 07 00}.{01 00 00 14 00}\n{07 0d 00}I shiver with deee-light!\nWinter air{01 00 00 05 00} sure feels good!\n{07 19 00}When you breathe it in, it\nfeels like it's scrubbing\nyour insides clean!{07 00 00}",
+   "et": ""
+  },
+  {
+   "id": 4,
+   "en": "{07 14 00}{0b 03 00}{01 06 00}Hey{01 07 00}!{01 00 00 0a 00}\nYou know how the wind blows\nthe snow around in spirals?\n{07 00 00}It's really beautiful.{01 01 00}\n{07 13 00}{01 00 00 0a 00}It looks like{01 00 00 05 00} my dress when\nI twirl around the room{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 15 00}What?! {01 00 00 0a 00}Don't look at me like\nthat!{01 00 00 0a 00} I just like to dance,\nOK? Sheesh, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 5,
+   "en": "{07 14 00}{01 00 00 05 00}{0b 03 00}{01 06 00}Hello{01 07 00}.{01 00 00 14 00}\nLet me give you a tip, OK?\nIt'll keep your cheeks pink!\n{07 00 00}On chilly days,{01 00 00 05 00} you should\n{04 22 00} to stay\nwarm.",
+   "et": ""
+  },
+  {
+   "id": 6,
+   "en": "{07 14 00}Look at that, {01 00 00 05 00}{04 1f 00}!{01 00 00 14 00}\nThe snow is just gorgeous!\n\n{07 0d 00}I've been told before{01 00 00 05 00} that\nmy skin looks like fresh\nsnow, {01 00 00 05 00}{04 02 00}.",
+   "et": ""
+  },
+  {
+   "id": 7,
+   "en": "{07 14 00}Good evening, {04 1f 00}.{01 00 00 0a 00}\n{07 16 00}Snow is{01 00 00 05 00} great in the\nbeginning{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00}\n{07 1c 00}{01 00 00 14 00}But it gets old with time.\n{01 00 00 0a 00}{07 1b 00}{01 00 00 05 00}Hee hee,{01 00 00 0a 00} kind of\nlike a crush,{01 00 00 0a 00} {04 02 00}.",
+   "et": ""
+  },
+  {
+   "id": 8,
+   "en": "{07 16 00}It's been snowing forever.{01 00 00 0a 00}\nI'm so not exaggerating,\n{04 1f 00}.\n{07 14 00}I mean, just look at how\nyour footprints disappear\ninstantly.",
+   "et": ""
+  },
+  {
+   "id": 9,
+   "en": "{07 14 00}{0b 03 00}{01 06 00}Good evening{01 07 00}!\n{01 00 00 05 00}{0b 03 00}{04 1f 00}...{01 00 00 14 00} {07 00 00}{01 00 00 0a 00}Snowy nights{01 00 00 0a 00}\nare so quiet, doncha think?",
+   "et": ""
+  },
+  {
+   "id": 10,
+   "en": "It's you, {04 1f 00}!{01 00 00 14 00} {07 0b 00}What\nare you doing here at this\nhour, {01 00 00 05 00}{04 02 00}?\n{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00}{07 18 00}What?!{01 00 00 0a 00} You came to see\nme?! {0b 03 00}{04 02 00}!\n\n{07 06 00}{01 00 00 0a 00}Oh, shush!{01 00 00 0a 00} That cheesy line\nsounds like it came right\nout of an old movie!",
+   "et": ""
+  },
+  {
+   "id": 11,
+   "en": "{07 04 00}{01 00 00 0a 00}{0b 03 00}{01 06 00}Hey{01 07 00}!{01 00 00 0a 00}\nYour cheeks are all rosy,\n{04 1f 00}! {07 14 00}Tee hee!{01 00 00 05 00}\nIt looks cute, {01 00 00 0a 00}{04 02 00}!",
+   "et": ""
+  }
+ ]
+}

@@ -1,0 +1,20 @@
+{
+ "file": "script/ENG/message/ta/q01/nwin_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 14 00}Tee hee hee! {01 00 00 05 00}You're a little\ntoo late, {01 00 00 0a 00}{04 02 00}.\n\n{07 00 00}See, I already picked up\n{04 1a 00}{01 00 00 0a 00}\na LONG time ago.\n{07 0b 00}Is it training{01 00 00 0a 00} or just my\nraw talent{01 01 00} {07 14 00}that makes me\nso much better than you?\n{07 03 00}Too bad, {01 00 00 05 00}{04 1f 00}! Too\nbad for you, {01 00 00 0a 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 0b 00}Huh?{01 01 00} Uh{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 0c 00} {01 00 00 0a 00}Oh,{01 00 00 14 00} that's right,\nI was having a bug match\nwith you, wasn't I.\n{07 14 00}It's been so long, I almost\nforgot, {01 00 00 0a 00}{04 02 00}.\n\n{07 00 00}Anyway, {07 0b 00}how come it took\nso long for you to catch\n{04 1a 00}?\n{07 00 00}Well, it's too late for you\nnow. I won the match.{01 00 00 14 00}\n{07 03 00}Maybe next time.",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 14 00}Tee hee HEE hee! {01 00 00 05 00}Too bad\nfor you!{01 00 00 14 00} I already caught{07 00 00}\n{04 1a 00}!\n{07 1b 00}So, {01 00 00 05 00}the winner is...{01 00 00 05 00}ME! {01 01 00}Well,\n{01 00 00 05 00}you can challenge me again\nanytime, {01 00 00 0a 00}{04 02 00}!",
+   "et": ""
+  }
+ ]
+}

@@ -1,0 +1,45 @@
+{
+ "file": "script/ENG/message/ko/tsu/fi_act_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 15 00}You know, {01 00 00 0f 00}I really like\nfishing by myself,\n{01 00 00 05 00}{04 02 00}.\nI guess what I'm trying to\nsay is, {01 00 00 05 00}\"SCRAM, {01 00 00 05 00}{04 02 00}!\"\nNow do you get it?",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 15 00}I'm going to catch me\n{04 1a 00} today.{01 00 00 0f 00}\nYou know what, {01 00 00 05 00}{04 02 00}?\nI can't focus when I feel\nlike I'm being watched, so\ngo away, would you?!",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 19 00}When you think fishing, you\nshould think {04 01 00}.{01 00 00 14 00}\n\nAnd when you think\n{04 01 00}, you should\nthink fishing{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 15 00}Yeah, {01 00 00 0f 00}that about sums it\nup, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 3,
+   "en": "{07 16 00}Do you mind, {01 00 00 05 00}{04 1f 00}?{01 00 00 14 00}\nWould you stop following me\naround, {01 00 00 05 00}{04 02 00}?\n{07 11 00}I'm going to my top-secret\nfishing spot, and I'm gonna\ncatch {04 1a 00}!",
+   "et": ""
+  },
+  {
+   "id": 4,
+   "en": "{07 14 00}It's been a while, but I\nfinally dusted off my\nfishing gear.\nNow all I gotta do is decide\nwhere I wanna drop my line!\n{01 00 00 05 00}{0b 03 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 5,
+   "en": "What? What do you want,\n{01 00 00 05 00}{04 1f 00}?{01 00 00 14 00} Oh, I get it. \nMan, you're so transparent.\n{07 0b 00}You wanna go fishing, huh?\n{07 15 00}If that's it, just shut up \nand follow me, {01 00 00 05 00}{04 02 00}.",
+   "et": ""
+  },
+  {
+   "id": 6,
+   "en": "Hey! You wanna go catch{07 0b 00}\n{04 1a 00} with me?\n\n{07 14 00}Yeah, I could really use\nsomeone to help carry my\nstuff, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 7,
+   "en": "{07 16 00}Actually,{01 00 00 05 00} I'm not obsessed\nwith fish or anything. {01 00 00 0a 00}I can\ntake it or leave it, really.\n{07 19 00}But you're not really a man\n{01 00 00 0f 00}'til you can say you caught\n{04 1a 00}!",
+   "et": ""
+  }
+ ]
+}

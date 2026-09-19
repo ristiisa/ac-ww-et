@@ -1,0 +1,20 @@
+{
+ "file": "script/ENG/message/ha/q01/req3_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 14 00}Looks like bug-hunting\nseason is rolling in,\n{01 00 00 05 00}{04 02 00}!\n{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.{01 01 00}{07 01 00}Clam up, {01 00 00 05 00}{04 1f 00}!{01 00 00 14 00}\nIf I say it's bug-hunting\nseason, just nod!\n{07 00 00}OK, I'm cool. {01 00 00 05 00}Now then{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n{07 11 00}You and I are gonna have us\na little competition.\n{07 00 00}Get out there and find a\nrare bug, then bring it\nback to me, {01 00 00 05 00}{04 02 00}!\n{07 0d 00}Whichever one of us catches\nthe rarer bug, {01 00 00 05 00}wins!{01 00 00 05 00}\nIt's ON, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 04 00}Huh? {01 00 00 14 00}{07 16 00}Wassup, {01 00 00 05 00}{04 1f 00}?{01 00 00 0a 00}\nHey, you look like someone\nlooking for trouble{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 00 00}Eh? {01 00 00 0a 00}You want to have a\ncontest {01 00 00 05 00}{07 0b 00}to see which of us\ncan catch the rarer bug?\n{07 15 00}Aren't you the bold one?{01 00 00 0a 00}\nI gotta tell you, {01 00 00 05 00}I like what\nI'm hearing, {ff 00 00 05}{04 1f 00}{ff 00 00 00}.\n{07 16 00}OK, OK, fine. {01 00 00 05 00}I'm the one\nwho wants to do this whole\nbug-challenge thing.\n{07 00 00}Aw, you know you love it.{01 00 00 05 00}\nAnyway, {01 00 00 05 00}get out there and\ncatch something! {01 00 00 05 00}Man up!{01 00 00 05 00}\nWhen you think you've got a\ndecent find, bring it back\nto me, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 01 00}Hey, what's your problem?{01 00 00 05 00}\nYou're looking like a lazy\nslacker, {01 00 00 05 00}{04 02 00}!\n{07 00 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 0c 00}I got it!{01 01 00} {07 14 00}I'll go and catch\na bug so amazing, it'll snap\nyou outta that stupor!\n{07 0b 00}How 'bout it? {01 00 00 0a 00}You up for a\nlittle friendly competition?{01 00 00 05 00}\nHuh, {01 00 00 05 00}{04 02 00}?\nIt's a race to see who can\nnab the rarer bug...\n\nAnd who can make the other\nperson's eyes pop outta\ntheir head, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  }
+ ]
+}

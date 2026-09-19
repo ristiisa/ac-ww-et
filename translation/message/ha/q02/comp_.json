@@ -1,0 +1,20 @@
+{
+ "file": "script/ENG/message/ha/q02/comp_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 00 00}You a big{01 00 00 05 00} {07 0b 00}{01 00 00 05 00}fish-chicken\nor something? You gotta\nsee my new fish!\n{07 07 00}This thing is so ripped,\neven its fins have muscles,\n{01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 00 00}Keeping fish is cool, but\nchanging the water uses\nlots of muscles, {07 0b 00}{01 00 00 05 00}right?\n{07 0d 00}Well, that's why they're the\nperfect pets for me,{01 00 00 05 00}\n{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 00 00}Having fish tanks in your\nplace {01 00 00 05 00}helps keep it nice and\ncool, y'know.\n{07 0d 00}It's great when you're all\nhot and sweaty after a\ngood workout, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  }
+ ]
+}

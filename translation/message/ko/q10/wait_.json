@@ -1,0 +1,20 @@
+{
+ "file": "script/ENG/message/ko/q10/wait_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 04 00}What in the...{01 00 00 0a 00} Are you{01 00 00 05 00}\ngoing somewhere?{01 01 00}\n{07 00 00}{07 05 00}FINE THEN!{01 00 00 0f 00} I'LL LEAVE!",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 16 00}Hey.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} Are you going\nsomewhere, {01 00 00 05 00}{04 1f 00}?\n\n{07 00 00}Well, I guess I'd better get\noutta Dodge, too,\n{01 00 00 05 00}{04 02 00}.",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 15 00}What?!{01 00 00 05 00} Why are you doin'\nthis?!{01 00 00 14 00} You got something\nbetter to do, {01 00 00 05 00}{04 02 00}?\n{07 00 00}Well, fine.{01 00 00 05 00} If you're leaving,\nI guess I'll go, too.",
+   "et": ""
+  }
+ ]
+}

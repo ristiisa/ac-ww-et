@@ -1,0 +1,110 @@
+{
+ "file": "script/ENG/message/ge/ev/countdown_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 00 00}Oh, wow. This year's almost\nover, isn't it, {01 00 00 05 00}{04 02 00}?\n\nY'know, {ff 00 00 06}Tortimer {ff 00 00 00}is already\ndoing the big{ff 00 00 06} {ff 00 00 03}countdown {ff 00 00 00}in \nthe{ff 00 00 03} {ff 00 00 08}plaza{ff 00 00 00}.{01 00 00 0a 00} ALREADY!\n{07 07 00}It's so super early!{01 00 00 05 00} And so\nc-cold, too{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}. Yet he's still\nout there, pluggin' away!\n{07 13 00}That {ff 00 00 06}Tortimer {ff 00 00 00}is the best,\n{01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 16 00}That crazy {ff 00 00 06}Tortimer{ff 00 00 00}...\nHe's been doing the\n{ff 00 00 03}countdown {ff 00 00 00}since DAWN!{ff 00 00 03}\n{ff 00 00 00}{07 0e 00}He's so tough{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}and\nstrong{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}  {07 13 00}I bet he's, like,\nripped under that shell...",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 0e 00}Um... I'm kinda starting to\nworry, {04 02 00}!{01 00 00 05 00} ...Huh?{01 00 00 05 00}\n...Why?{01 00 00 0a 00} ...WHY?!\n{07 16 00}What do you MEAN, why? \n{ff 00 00 06}Tortimer {ff 00 00 00}is standing in the\n{ff 00 00 08}plaza {ff 00 00 00}doing the {ff 00 00 03}countdown{ff 00 00 00}!!!\n{07 06 00}He's been like that since\nthe sun came up!{01 00 00 0a 00} He's, like,\ntoo OLD to be doing that!",
+   "et": ""
+  },
+  {
+   "id": 3,
+   "en": "{07 14 00}This has been such an\namazingly great year,\n{01 00 00 05 00}{04 02 00}!\n{07 00 00}Let's see{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}. I fell into a\npitfall{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}. I buried some\nBells and forgot where{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 04 00}HEY!!{01 00 00 0a 00} Wait a sec!! Those are\nTERRIBLE memories!{01 00 00 0a 00} I mean,\nreally lousy!\n{07 06 00}Wow, I'm gonna make next\nyear totally better! Wait\nand see, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 4,
+   "en": "{07 14 00}This year's almost over,\n{01 00 00 05 00}{04 02 00}! I'm soooo glad\nwe got to know each other!\nLet's totally talk even\nmore next year,\n{01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 5,
+   "en": "{07 00 00}{07 0b 00}{0b 03 00}{04 1f 00}, what kind of\nyear was this for you?\n\n{07 04 00}Wait! {01 00 00 05 00}Don't tell me!{01 01 00}\n{07 14 00}I can kinda imagine it\nalready, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 6,
+   "en": "{07 1c 00}Only one more hour and the\nyear is totally over...{01 00 00 0a 00}{07 00 00}\n{07 09 00}SIGH{01 00 00 0a 00}.{01 00 00 0a 00}.{01 00 00 0a 00}.\n{07 1a 00}It's weird, but I feel\nkinda{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 00 00}{07 0e 00}what's the word?{01 00 00 0f 00}\nNostalgic?{01 00 00 0a 00}{07 00 00} Yeah, that's it...",
+   "et": ""
+  },
+  {
+   "id": 7,
+   "en": "{07 14 00}Only one more hour 'til the\nnew year, {01 00 00 05 00}{04 02 00}!\n\n{07 0b 00}Did you finish cleaning your\nhouse?{01 00 00 0a 00}{07 00 00}{07 0f 00} I didn't.{01 00 00 14 00} I'm totally\nliving in squalor...",
+   "et": ""
+  },
+  {
+   "id": 8,
+   "en": "{07 12 00}Zzzzz.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00} Zzzzzzzz{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} WHA--!!\nWho's there?!{01 00 00 05 00} Don't touch\nmy stuff!{01 00 00 0f 00} Oh, it's you...\n{07 15 00}I'm sooo sleepy...{01 01 00} But I'm\ngonna stay up 'til the\nbitter end, {04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 9,
+   "en": "{07 12 00}So sleepy... I slept for two\ndays straight so I could\nstay up for this{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\nBut it's not working...{01 01 00}\nI'm still soooo sleepy,\n{01 00 00 05 00}{04 02 00}.",
+   "et": ""
+  },
+  {
+   "id": 10,
+   "en": "{07 04 00}Yaaaaa! {01 00 00 0a 00}Look at the time!\nWe only have FIVE MORE\nMINUTES, {01 00 00 05 00}{04 02 00}!!\n{07 14 00}That's,{01 00 00 05 00} like,{01 00 00 05 00} the same\namount of time it takes to\nmake five-minute rice!",
+   "et": ""
+  },
+  {
+   "id": 11,
+   "en": "{07 00 00}There's only five minutes\nleft in the {ff 00 00 03}countdown{ff 00 00 00},\n{01 00 00 05 00}{04 02 00}!\n{07 07 00}Wow, it's really cold!{01 00 00 05 00} I hope\n{ff 00 00 06}Tortimer{ff 00 00 00}'s still doing OK{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}",
+   "et": ""
+  },
+  {
+   "id": 12,
+   "en": "{07 1d 00}YAAY! {01 00 00 05 00}Just one more minute,\n{01 00 00 05 00}{04 02 00}!!\n\n{07 15 00}Oh, wait! What if the stupid\nclock is wrong?{01 00 00 05 00} That would\nbe SO annoying!",
+   "et": ""
+  },
+  {
+   "id": 13,
+   "en": "{07 1d 00}Wooooo! {01 00 00 05 00}Just one more\nminute to go, {01 00 00 05 00}{04 02 00}!\n\n{07 14 00}I know it's just another day\nand all,{01 00 00 05 00} but I'm still all\ncrazy excited!",
+   "et": ""
+  },
+  {
+   "id": 14,
+   "en": "{07 0d 00}HAPPY NEW YEAR!!!\n\n\n{07 14 00}It's {ff 00 00 02}{04 0f 00}{ff 00 00 00}, and {04 01 00}\nis still alive and kicking!{01 00 00 0a 00}\nYay, {04 01 00}!!",
+   "et": ""
+  },
+  {
+   "id": 15,
+   "en": "{07 0a 00}HAPPY NEW YEAR!!!\n\n\n{07 14 00}I hope I can be totally nice\nto everyone in {04 03 00}\nduring {ff 00 00 02}{04 0f 00}{ff 00 00 00}! I'm gonna try!",
+   "et": ""
+  },
+  {
+   "id": 16,
+   "en": "{07 14 00}Happy New Year!{01 00 00 05 00} YAY!{01 00 00 0a 00} We\nsurvived the terrible wrath\nof midnight!\n{07 06 00}I'm soooo glad that that\nawful Y2K thing didn't just\nhappen!",
+   "et": ""
+  },
+  {
+   "id": 17,
+   "en": "{07 14 00}HAPPY NEW YEAR!!\nGimme a new...{01 00 00 0a 00} NEW!\nGimme a year...{01 00 00 0a 00} YEAR!\nPhew{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}{07 0d 00} New years are fun,\nbut kinda exhausting!\n",
+   "et": ""
+  },
+  {
+   "id": 18,
+   "en": "{07 0d 00}It's gonna be a great year,\n{01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 19,
+   "en": "{07 14 00}Happy New Year, {01 00 00 05 00}\n{04 1f 00}!!",
+   "et": ""
+  },
+  {
+   "id": 20,
+   "en": "{07 14 00}{0b 03 00}{04 1f 00}, I'm gonna \ntotally count on you this\nyear, too!",
+   "et": ""
+  }
+ ]
+}

@@ -1,0 +1,110 @@
+{
+ "file": "script/ENG/message/ko/ev/countdown_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 00 00}Well, we've been through\na lot this year.\n\n{07 14 00}Actually, I think this last\nyear hasn't even been all\nthat awful, {01 00 00 05 00}{04 02 00}.\n{07 0a 00}No jellyfish tides or\nSasquatch invasions,{01 00 00 05 00} so\nhey, I guess we're all right!",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "Hey, you know how that old\n{ff 00 00 06}Tortimer{ff 00 00 00} guy{01 00 00 05 00} has a\nyear-end {ff 00 00 03}countdown{ff 00 00 00}?\n{07 16 00}Well, the old fossil gets\nup and starts partying\nbefore the sun is even up!\n{07 0e 00}Man, that's just not right.\n",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 15 00}Crazy old {ff 00 00 06}Tortimer{ff 00 00 00} woke\neverybody up this morning\nwith his stupid {ff 00 00 03}countdown{ff 00 00 00}!\n{07 16 00}He's been partying in the\n{ff 00 00 08}plaza{ff 00 00 00} all day, and he's\nstarting to wig out.\n{07 06 00}I bet he's going to lose it\nhere in a bit, {01 00 00 05 00}{04 02 00}!\n{07 11 00}This'll be fun to watch.",
+   "et": ""
+  },
+  {
+   "id": 3,
+   "en": "{07 16 00}Even so, I guess the ol'\nguy needs to fill the ol'\nwrinkly hours somehow.\n{07 00 00}{07 19 00}Still, don't you think he\nshould've just taken up\nshuffleboard or something?",
+   "et": ""
+  },
+  {
+   "id": 4,
+   "en": "{07 00 00}Now that it's finally gettin'\ndark, I can actually feel\nlike the year's almost over.\n{07 06 00}I don't know whether to\nfeel crabby about it or\nshout a fat \"Wooohooo!\"",
+   "et": ""
+  },
+  {
+   "id": 5,
+   "en": "{07 00 00}I've weathered a lot in the\npast year, {01 00 00 05 00}{04 02 00}.\n\nSo I just hope this\nheadwind turns into a\ntailwind. Know what I mean?\n{07 11 00}I could totally just rule\nthis town if things start\ngoing my way!",
+   "et": ""
+  },
+  {
+   "id": 6,
+   "en": "{07 15 00}So, {04 1f 00},{01 00 00 0f 00} this is\nalmost it, {01 00 00 05 00}{04 02 00}.\n\nY'know, the moment when\nthe big odometer in the\nsky finally rolls over.{07 19 00}\n{07 00 00}In one hour, we're all\ngonna{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{07 09 00}turn into wind!{01 01 00} {07 00 00}Or\nsomething, heh.",
+   "et": ""
+  },
+  {
+   "id": 7,
+   "en": "{07 00 00}So this year ends, and\nanother year rounds the\nbend{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}huh?\nHey, {01 00 00 05 00}{04 1f 00},{01 00 00 14 00} I wonder\nif things will turn around\nfor me this year?\n{07 00 00}Maybe all my schemes will\ncome true!{01 00 00 0f 00} {07 13 00}Here's to next\nyear.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 8,
+   "en": "{07 15 00}It's almost time,\n{01 00 00 05 00}{04 02 00}!\n\n{07 00 00}See ya, {01 00 00 14 00}{07 09 00}every dumb thing I\ndid last year{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.",
+   "et": ""
+  },
+  {
+   "id": 9,
+   "en": "{07 15 00}Next year,{01 00 00 05 00} I'm gonna be all\nabout{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.\n\n{07 00 00}Aww, {01 00 00 05 00}never mind,\n{01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 10,
+   "en": "{07 04 00}Wah!{01 00 00 05 00} Just five minutes left!\n{07 06 00}Uh-oh{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 14 00} {07 07 00}I'm{01 00 00 05 00} gonna explode\nor somethin', {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 11,
+   "en": "{07 0d 00}Well, the {ff 00 00 03}countdown {ff 00 00 00}is\nalmost over, {01 00 00 05 00}{04 02 00}!{ff 00 00 03}\n\n{ff 00 00 00}{07 00 00}All this New Year insanity\nis starting to freak me\nout.\nMaybe {ff 00 00 06}{04 0b 00}{ff 00 00 00} will{ff 00 00 03}\n{ff 00 00 00}comfort me, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 12,
+   "en": "{07 04 00}Ack!{01 00 00 14 00} We've got less than\na minute left, {04 1f 00}!\n\n{07 0e 00}Is there anything I should\nbe doing in this last\nminute, {01 00 00 05 00}{04 02 00}?",
+   "et": ""
+  },
+  {
+   "id": 13,
+   "en": "{07 02 00}I can't take it{01 00 00 05 00} anymore!{01 00 00 05 00}!{01 00 00 05 00}!\n\n\n{07 06 00}I wish time would just{01 00 00 05 00} stop\nor something{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 14,
+   "en": "{07 14 00}Whaaahoo!{01 00 00 0f 00} Happy new year!\n{07 0d 00}Here's to {ff 00 00 02}{04 0f 00}{ff 00 00 00},{ff 00 00 02}\n{ff 00 00 00}{04 01 00}! {0b 03 00}{01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 15,
+   "en": "{07 14 00}Whoa, can you believe it's\n{ff 00 00 02}{04 0f 00}{ff 00 00 00} already,{ff 00 00 02}\n{ff 00 00 00}{01 00 00 05 00}{04 02 00}?\n{07 00 00}Thanks for, you know,\nputting up with all my\ncrabbiness last year{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 0d 00}And hey,{01 00 00 05 00} no hard feelings,\nright, {01 00 00 05 00}{04 02 00}?",
+   "et": ""
+  },
+  {
+   "id": 16,
+   "en": "{07 14 00}Happy new year,\n{01 00 00 05 00}{04 1f 00}! {0b 03 00}{01 00 00 05 00}{04 02 00}!\n\n{07 00 00}I know how you can be.\n{07 0d 00}But maybe you should try\nbeing nice, just for today.\n{07 11 00}'Cause you know, being\nsurly on New Year's Day will\njinx your whole year!",
+   "et": ""
+  },
+  {
+   "id": 17,
+   "en": "{07 14 00}Hey, {01 00 00 05 00}{04 1f 00}!{01 00 00 14 00}\nHappy new year,\n{01 00 00 05 00}{04 02 00}!\n{07 0a 00}This year, you and me are\ngonna conquer this town!",
+   "et": ""
+  },
+  {
+   "id": 18,
+   "en": "{07 08 00}Awww{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}this sappy {ff 00 00 03}countdown{ff 00 00 00}\nstuff is making me go\nall soft, {01 00 00 05 00}{04 02 00}.",
+   "et": ""
+  },
+  {
+   "id": 19,
+   "en": "{07 03 00}Hey, {01 00 00 05 00}{04 1f 00}!{01 00 00 0f 00}\nWe're gonna call a truce\nthis year, right?\nEh, {01 00 00 05 00}{04 02 00}?",
+   "et": ""
+  },
+  {
+   "id": 20,
+   "en": "{07 14 00}All right,{01 00 00 05 00} {04 1f 00}!",
+   "et": ""
+  }
+ ]
+}

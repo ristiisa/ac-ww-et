@@ -1,0 +1,20 @@
+{
+ "file": "script/ENG/mail/msg/sp_npc_missing.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "Thank yu for hellping\nme to luk for my mommy\nI saved my alowance too\nby you this presint.{00 00 00}",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "Thank yu for hellping me\nwhen I got home I got\nyelled at reel bad and I\ngot yu a presint.{00 00 00}",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "Thank you so much for \naiding my daughter the \nother day. Please accept\nthis gift with my thanks.",
+   "et": ""
+  }
+ ]
+}

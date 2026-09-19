@@ -1,0 +1,140 @@
+{
+ "file": "script/ENG/message/ko/tsu/fl_act_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 14 00}I always water my\nplants on {04 07 00},\n{01 00 00 05 00}{04 02 00}!\n{07 00 00}{07 0b 00}What about you, \n{04 1f 00}?{01 00 00 05 00}\n{02 00 00 10 11}\nLike clockwork!\nNope. Never.",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 15 00}Hey, {01 00 00 05 00}{04 1f 00}!{01 00 00 14 00}\n{07 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}Are you into\n{07 0b 00}flowers?{05 05 00 05 12 05 12 02 13 04 14}\nI love them.\nI'm allergic.",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 14 00}I love watering stuff!{01 01 00}{07 0a 00} Seen\nanything around that needs\nwater, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 3,
+   "en": "{06 03 00 15 16}",
+   "et": ""
+  },
+  {
+   "id": 4,
+   "en": "{07 14 00}Heh heh, {01 00 00 0f 00}my flowers look\nway more happy than anyone\nelse's, {01 00 00 05 00}{04 02 00}!\n{07 19 00}It's because they know I\nlove 'em. Isn't that right,\nmy precious little children?",
+   "et": ""
+  },
+  {
+   "id": 5,
+   "en": "{07 14 00}I understand how someone\nlike you would want to talk \nto someone like me.\n{07 00 00}But when a guy is watering\nhis {ff 00 00 06}{04 01 00} flower{ff 00 00 00},\nyou should respect that.\n{07 15 00}AND BACK OFF!!!\n{0b 03 00}{01 00 00 05 00}{04 02 00}?!",
+   "et": ""
+  },
+  {
+   "id": 6,
+   "en": "Ya know, {01 00 00 05 00}after watering my\nflowers, I like to listen to\nthe sound of them drinking.\n.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 0b 00}Hear that?{01 00 00 14 00} {07 14 00}Gulp. Gulp.\nGulp. Ahhhhh. {01 00 00 05 00}Hear it?\n{01 00 00 05 00}{0b 03 00}{04 02 00}?",
+   "et": ""
+  },
+  {
+   "id": 7,
+   "en": "{07 16 00}Ever wonder if flowers ever\nget tired of drinking water\nall the time?\n{07 0e 00}I bet the occasional cup\nof {04 13 00}\ncouldn't hurt.\n{01 00 00 05 00}Naw...bad idea, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 8,
+   "en": "{07 16 00}Hey, {04 1f 00}!{01 00 00 05 00} It's not \nlike all I do is\n{04 22 00}, ya know?\n{07 15 00}Watch and learn! \nJust watch {01 00 00 05 00}and{01 00 00 05 00} learn!{01 00 00 05 00}\n{01 00 00 05 00}{0b 03 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 9,
+   "en": "{07 0a 00}Ahhh,{01 00 00 0f 00} I feel so powerful\nwith a {ff 00 00 07}watering can{ff 00 00 00} in my\nhand, {01 00 00 05 00}{04 02 00}.\n{07 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 01 00}What's so funny?!{01 00 00 05 00}\nIt's true, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 10,
+   "en": "{07 14 00}You and me should pull an\nall-night gardening rager\nsometime, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 11,
+   "en": "Hey, you! Yeah{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} You! When \nyou see a guy gardening,{01 00 00 05 00}\n{07 0b 00}what do you say?{05 05 00 03 17 07 18 02 19 04 1a}\nAwww, that's nice!\nWhatta wuss!",
+   "et": ""
+  },
+  {
+   "id": 12,
+   "en": "{07 16 00}I can't stand it when people\nsee me watering my flowers\nand stuff!\n{07 00 00}Think about it.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0f 00}\n{07 06 00}Would you expect to see me\ndoing that, {01 00 00 05 00}{04 02 00}?",
+   "et": ""
+  },
+  {
+   "id": 13,
+   "en": "My favorite thing to do is \nstill {04 22 00}.\n\n{07 14 00}But getting my hands\nfilthy isn't so bad once in\na while, {01 00 00 05 00}{04 02 00}.",
+   "et": ""
+  },
+  {
+   "id": 14,
+   "en": "{07 0f 00}Aww, man.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0f 00} I'd love to\nwater my plants with one\nof those{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 0b 00}What?{01 00 00 14 00} {07 00 00}Isn't it obvious?{01 00 00 05 00}\n{0b 03 00}{01 00 00 05 00}{04 02 00}!{07 15 00} A{ff 00 00 07} gold watering\ncan{ff 00 00 00}, of course!\n{07 06 00}Man.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 14 00} Those things are\nso dang sweet, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 15,
+   "en": "{07 14 00}I kinda like the sound\nof my flowers{01 00 00 05 00}\ndrinking water, {01 00 00 05 00}{04 02 00}.\n{07 00 00}That way, I know I haven't\naccidentally smothered them\nwith love, {01 00 00 05 00}{04 02 00}.",
+   "et": ""
+  },
+  {
+   "id": 16,
+   "en": "{07 04 00}Really?!{01 00 00 14 00}{07 14 00} You got a solid\nbrain on ya, kid!\n{0b 03 00}{01 00 00 05 00}{04 02 00}!\n{07 15 00}But don't be careless!{01 00 00 14 00}\nNot all flowers wilt in the\nsame way, ya hear?\n{07 19 00}They're not all the same,\nyou know! Don't be so\nignorant, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 17,
+   "en": "{07 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 05 00}How can you{01 00 00 14 00} be so \nheartless?! {0b 03 00}{01 00 00 05 00}{04 02 00}!\n\n{07 16 00}You're still young.\nYou're not supposed to be\nthis jaded.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} Yet.",
+   "et": ""
+  },
+  {
+   "id": 18,
+   "en": "{07 0e 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n{07 1b 00}I didn't think we'd have\nanything in common!",
+   "et": ""
+  },
+  {
+   "id": 19,
+   "en": "{07 02 00}Whoa!{01 00 00 0f 00} Really?!{01 00 00 14 00} {07 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}That's\ncraziness! {01 00 00 05 00}Sweet\n{04 02 00}!\n{07 15 00}Arrgg! People like you{01 00 00 05 00}\nare always lucky enough to\nfind {ff 00 00 07}four-leaf clovers{ff 00 00 00}!",
+   "et": ""
+  },
+  {
+   "id": 20,
+   "en": "{07 15 00}Meh!{01 00 00 05 00} Kids can get away with\nsaying anything!\n{01 00 00 05 00}{0b 03 00}{04 02 00}.\n{07 1b 00}{0b 03 00}{04 1f 00},{01 00 00 0f 00}\nyou don't know how good\nyou've got it!",
+   "et": ""
+  },
+  {
+   "id": 21,
+   "en": "{0b 03 00}{04 1f 00},{01 00 00 05 00} how about we\n{07 0b 00}water our flowers together\nsometime, {01 00 00 05 00}{04 02 00}!\n{07 00 00}You don't think that's weird\nor anything, do you?{07 0e 00} Or.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} \ndo you?{07 19 00} You do, don't you!",
+   "et": ""
+  },
+  {
+   "id": 22,
+   "en": "Yo, {01 00 00 05 00}{04 1f 00}.{01 00 00 0f 00} {07 15 00}Try\nwatering your flowers for\nonce, you monster!\n{07 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}Oh, {01 00 00 05 00}{04 02 00}. {07 07 00}If I \nkeep freaking out like that,\npeople will think I'm crazy.",
+   "et": ""
+  },
+  {
+   "id": 23,
+   "en": "{07 01 00}What?!{01 00 00 14 00} Ya think I'm stupid\nor somethin',\n{01 00 00 05 00}{04 1f 00}?!\n{07 05 00}Is it so wrong for a guy\nto water some plants?\n{01 00 00 05 00} Well...{01 00 00 05 00}is it?!\n{07 15 00}That's what it sounds like\nto me, {01 00 00 05 00}{04 02 00}!\nYou're just IGNORANT!",
+   "et": ""
+  },
+  {
+   "id": 24,
+   "en": "{07 1b 00}Oooh, another lame, \nmeaningless answer from \nyou! There's a big surprise!{01 00 00 0f 00}\n{07 15 00}Kids today are just a bunch\nof little punks if ya ask \nme, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 25,
+   "en": "{07 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}Really? {07 09 00}You think so,\nhuh? {0b 03 00}{01 00 00 05 00}{04 02 00}!\n\n{07 0e 00}Well.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0f 00} If I were a flower,\nI guess I'd be some crazy-\ncool hybrid breed.\n{07 00 00}You know, like a fusion\nof white and red. Wait... No.{01 00 00 05 00}\n{07 17 00}That would make me pink.",
+   "et": ""
+  },
+  {
+   "id": 26,
+   "en": "{07 03 00}Heh heh, {01 00 00 0f 00}if you say so! \nI guess there's nothing I \ncan say, {01 00 00 05 00}{04 02 00}!\n{07 14 00}These days, a guy has to be\nmore than just tough and\nmanly, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  }
+ ]
+}

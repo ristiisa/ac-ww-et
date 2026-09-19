@@ -1,0 +1,20 @@
+{
+ "file": "script/ENG/message/ha/q04/dress_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "Hey, {04 1f 00},{01 00 00 05 00} {07 0d 00}what do\nyou think of this shirt,\n{01 00 00 05 00}{04 02 00}?\n{07 0b 00}Looks sorta awesome on me,\nhuh, {01 00 00 05 00}{04 02 00}?",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 14 00}How's this shirt on me?{01 00 00 0a 00}\n{07 0d 00}Does it emphasize my \nmuscles, {01 00 00 05 00}{04 02 00}?",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 00 00}I don't know if it's these\nnew clothes I got or what,\nbut...\n{07 0d 00}my abs look WORLDS\nbetter! {01 00 00 05 00}And they were\nalready hot, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  }
+ ]
+}

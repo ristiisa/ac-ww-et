@@ -1,0 +1,20 @@
+{
+ "file": "script/ENG/message/fu/q06/bad_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 04 00}What?!{01 00 00 0f 00} SERIOUSLY?!{01 00 00 0f 00} {07 00 00}{07 0e 00}Wow,\nwhere did I go wrong on\nthis one, {01 00 00 05 00}{04 02 00}?\n{07 00 00}{07 03 00}Geez!{01 00 00 05 00} I guess {ff 00 00 06}{04 10 00}\n{ff 00 00 00}is a lot more uptight than\nI thought!{01 00 00 05 00} What a grump!",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 0f 00}Oh no{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} I thought those \nclothes would look really\nnice on {ff 00 00 06}{04 10 00}{ff 00 00 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n{07 00 00}{07 1a 00}Oh well! {01 00 00 05 00}I guess everybody's\nboat floats a little bit\ndifferently, {01 00 00 05 00}{04 02 00}.",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 02 00}Whaaaat?!{01 00 00 0a 00} {07 00 00}{07 02 00}HATED IT?{01 00 00 0f 00} {07 00 00}{07 01 00}Said I\nwas a{01 09 00} NO-GOOD SO-AND-SO?!{01 00 00 14 00}\n{07 00 00}Oh man, that's bad.\n{07 0f 00}Wow, I was sure that it\nwould be a big hit{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} That's\na real shame, {01 00 00 05 00}{04 02 00}.",
+   "et": ""
+  }
+ ]
+}

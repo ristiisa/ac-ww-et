@@ -1,0 +1,45 @@
+{
+ "file": "script/ENG/message/ha/tsu/fu_act_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 0b 00}Say, have you been{01 00 00 05 00}\ncollecting furniture?\n\n{07 14 00}Well, if there's anything\nyou don't need, just send\nit to me, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 00 00}As soon as I bought my\nfurniture, I just started\nlining those bad boys up!\n{07 06 00}But before I knew it, all my\nchairs ended up in back and\n{01 00 00 05 00}now I can't sit down!\n{07 15 00}Learn from my terrible\ntale! {01 00 00 05 00}Be more careful than\nme when you decorate!",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 00 00}Yeah, there was a ton of\nfurniture that I wanted...\n\n{07 16 00}But before I buy anything,{01 00 00 05 00}\nI gotta do something about\nmy sweaty floors!",
+   "et": ""
+  },
+  {
+   "id": 3,
+   "en": "{07 14 00}Man, I've been{01 00 00 05 00} so pumped up\nabout rearranging my\nfurniture lately!\nThing is, I need to peep\ninto other people's rooms\nfor reference...\n{07 11 00}So next time you're not\nhome, I'm gonna stop by\nyour pad, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 4,
+   "en": "{07 16 00}I wanna move stuff around{01 00 00 05 00}\nand get some new furniture\nand all, but before that...\n{07 15 00}That musty funk{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 01 00}\n{07 17 00}I kinda like it,{01 00 00 05 00} but I should\nair it out, {01 00 00 05 00}{04 02 00}.",
+   "et": ""
+  },
+  {
+   "id": 5,
+   "en": "{07 16 00}Doing sit-ups makes me\ntear my old clothes...\n\nI'm running low on my\nSuper Bod Ultra-Buffing\nProtein Powder...\n{07 0f 00}I don't have the luxury\nto buy new furniture,\n{01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 6,
+   "en": "{07 14 00}Yo, {ff 00 00 05}{04 1f 00}{ff 00 00 00}!{01 00 00 0a 00}\nAre you collecting\nfurniture, {01 00 00 05 00}{04 02 00}?\n{07 04 00}Who, me!{01 00 00 0f 00} Nah!{01 00 00 05 00} Not this dude!{01 00 00 05 00}\n{07 00 00}I'm not that into it, know\nwhat I mean, {01 00 00 05 00}{04 02 00}?\n{07 06 00}For right now,{01 00 00 05 00} priority one\nis getting an Ultrasweat\n4000 Exercise Lounge!",
+   "et": ""
+  },
+  {
+   "id": 7,
+   "en": "{07 00 00}I wanted my place to look \ndifferent, so I mulled some\noptions over, but...\n{07 14 00}It's a lost cause.{01 00 00 05 00} I just\ncan't bring myself to care!{01 00 00 0a 00}\n{07 03 00}War har har har!!!",
+   "et": ""
+  }
+ ]
+}

@@ -1,0 +1,20 @@
+{
+ "file": "script/ENG/message/ha/q12/thanks_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 14 00}Wooo-HOOOOOO,{01 00 00 0a 00} {04 1f 00}!{01 01 00}\nThanks to you, I'm fully\npowered up again!\n{07 0d 00}Robo-{04 01 00} has been{01 00 00 05 00}\nreactivated, {01 00 00 05 00}{04 02 00}!\n\n{07 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 04 00}Hey!{01 00 00 0a 00} I oughta give you a\nthank-you gift for that\n{ff 00 00 07}medicine{ff 00 00 00}, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 14 00}Hey yo, {01 00 00 05 00}{04 1f 00}!{01 00 00 0a 00}\nThanks for hooking me up\nthe other day!\nSince you're so rocking,{01 00 00 05 00}\nhere's a little token of \nappreciation, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 14 00}Yo yo, {ff 00 00 05}{04 1f 00}{ff 00 00 00}!{01 00 00 0a 00}\nThanks for saving my bacon\nback there!\n{07 07 00}I thought my ab-crunching\ndays were totally over,\n{01 00 00 05 00}{04 02 00}!\n{07 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 0c 00}Oh, {01 00 00 05 00}yeah!{01 00 00 14 00} {07 14 00}I'm gonna give\nyou a present for hooking\nme up so nice!",
+   "et": ""
+  }
+ ]
+}

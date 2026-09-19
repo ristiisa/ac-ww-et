@@ -1,0 +1,20 @@
+{
+ "file": "script/ENG/message/bo/q09/find2_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 00 00}{07 0b 00}Why are your pockets all\nfull? {01 01 00}{07 00 00}I was gonna give you a\ncool prize for finding me.\nBut there's no use if you\ncan't carry it, {01 00 00 05 00}{04 02 00}.",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 0b 00}Whoa!{01 00 00 14 00} {07 16 00}You really ought to\nleave a little room in your\npockets when you go out.\n{07 06 00}I can't give you the prize\nI was planning on giving\nyou,{01 00 00 05 00} {04 02 00}.",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 14 00}I guess I ought to reward\nyou with some sweet moolah\nor something!\n{07 00 00}Oh,{01 00 00 05 00} but I guess your\npockets are full.{01 00 00 14 00} Too bad\nfor you,{01 00 00 05 00} {04 02 00}!",
+   "et": ""
+  }
+ ]
+}

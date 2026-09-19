@@ -1,0 +1,20 @@
+{
+ "file": "script/ENG/message/fu/q03/con4_5_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 16 00}Wow, it's really hard to\ncomplete the\n{01 00 00 05 00}{ff 00 00 02}{04 0f 00}{ff 00 00 00}!\n{07 17 00}.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}Would you help me look?{01 00 00 0f 00}\n{07 04 00}No pressure!{01 00 00 05 00} I understand\nif you're too busy!",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 14 00}I need to complete the\n{ff 00 00 02}{04 0f 00}{ff 00 00 00}\nfossil really soon!\n{07 06 00}I can't wait to break out\nmy magnifying glass and \nsee all the little details!",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 00 00}{0b 03 00}The complete{ff 00 00 02}\n{04 0f 00} {ff 00 00 00}fossil\nis still eluding me!\n{07 14 00}I hope I appreciate it more\nbecause it's been so hard\nto find!",
+   "et": ""
+  }
+ ]
+}

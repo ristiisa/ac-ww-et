@@ -1,0 +1,30 @@
+{
+ "file": "script/ENG/message/ge/tsu/move2_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 02 00}What{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} What do you want?!{01 01 00}\n{07 06 00}Um, hello? {01 00 00 05 00}I haven't even\nfinished unpacking!\n{07 15 00}Y'know, not everybody thinks\nimpatient people are cool,\n{01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 00 00}Oh, hey, I am just TOO busy\nright now.{01 00 00 05 00} Come back\ntomorrow, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 0b 00}Huh?{01 00 00 05 00} OK, this makes NO\nsense, {01 00 00 05 00}{04 02 00}!\n\n{07 06 00}That gorgeous, brand-name\nmuumuu I bought at the\nsale is gone!\n{07 0b 00}Hey!{01 00 00 05 00} You! {01 00 00 05 00}Are you standing\non it, {01 00 00 05 00}{04 02 00}?",
+   "et": ""
+  },
+  {
+   "id": 3,
+   "en": "{07 06 00}Gosh, LOOK at this mess!{01 00 00 05 00}\nIs it obvious I just moved\nin, {01 00 00 05 00}{04 02 00}?\n{07 14 00}I can't offer you anything,{01 00 00 05 00}\nbut feel free to snoop\naround, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 4,
+   "en": "{07 15 00}Look, I'm still unpacking\nright now!\n\n{07 0f 00}Phew{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} It's not easy being\na rising star, {01 00 00 05 00}{04 02 00}!\nI need a personal assistant.",
+   "et": ""
+  }
+ ]
+}

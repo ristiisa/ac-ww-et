@@ -1,0 +1,20 @@
+{
+ "file": "script/ENG/message/fu/ai/fall_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{01 08 00}Waaa{01 00 00 03 00}aaa{01 00 00 03 00}aaa{01 00 00 03 00}aaah!!\n\n\nIt's so unfair! Why do\nthese things always happen\nto me? Why,{01 00 00 0a 00} {04 02 00}!?!",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{01 09 00}Aaaaah!!\n\n\nSomebody help, {04 02 00}!\nI am SO stuck right now!\n.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}I hate this.",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{01 08 00}Help, {01 00 00 05 00}{04 02 00}!!\n\n\nI can't believe this.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\nOf all the dumb luck,\n{04 02 00}!",
+   "et": ""
+  }
+ ]
+}

@@ -1,0 +1,50 @@
+{
+ "file": "script/ENG/message/ko/tsu/star_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 04 00}Hey,{01 00 00 05 00} check it out, will ya?{01 00 00 0a 00}\nJust look up for a sec,{01 00 00 05 00}\n{04 1f 00}! {01 00 00 05 00}{0b 03 00}{04 02 00}!\n{07 00 00}You know that constellation\nright there? I heard it's\ncalled {ff 00 00 02}{04 0f 00}{ff 00 00 00}.\n{06 01 00 06 07 08}",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 00 00}See that constellation up\nthere?{01 00 00 0a 00} {07 14 00}I guess it's called\n{ff 00 00 02}{04 0f 00}{ff 00 00 00}!\nHmm.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} {0b 03 00}{04 0f 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n{0b 03 00}{04 0f 00}!{01 00 00 14 00} {07 03 00}When\nI say it, I gotta laugh!",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "You know that kid you live\nwith? {01 00 00 05 00}Yeah, I'm talking\nabout {ff 00 00 05}{04 10 00}{ff 00 00 00}!\n{07 14 00}What a character! {01 00 00 0a 00}Hey, {01 00 00 05 00}see\n{ff 00 00 02}{04 0f 00} {ff 00 00 00}up\nthere? {01 00 00 0a 00}{0b 03 00}{ff 00 00 05}{04 10 00}{ff 00 00 00} made it!\n{07 01 00}Man!{01 00 00 0f 00} {07 19 00}I'm impressed! {01 00 00 0a 00}Now\nthat's talent! You could\nlearn a thing or two!",
+   "et": ""
+  },
+  {
+   "id": 3,
+   "en": "{07 04 00}Whoa!{01 00 00 0f 00} That right there is\nthe {ff 00 00 02}{04 0f 00}\n{ff 00 00 00}constellation!\n{07 00 00}It was named by that kid\nthat you share a house\nwith, {01 00 00 05 00}{04 02 00}.\n{0b 03 00}{ff 00 00 05}{04 10 00}{ff 00 00 00}, yeah.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{01 01 00}\n{07 15 00}Makes me wonder whether\nYOU ever do anything.",
+   "et": ""
+  },
+  {
+   "id": 4,
+   "en": "{07 15 00}{0b 03 00}{04 1f 00}! You lookin' for\nlost Bells or something?!\nLook up when you walk!\n{07 00 00}See {ff 00 00 02}{04 0f 00} {ff 00 00 00}up\nthere? {01 01 00}{0b 03 00}{ff 00 00 05}{04 10 00} {ff 00 00 00}from\n{ff 00 00 08}{04 11 00} {ff 00 00 00}made it!\nI don't know why it's named\n\"{04 0f 00},\" but {07 14 00}it\nkinda seems to fit.",
+   "et": ""
+  },
+  {
+   "id": 5,
+   "en": "{07 04 00}What's that?! There's\nsomething weird going on\nwith the sky, {01 00 00 05 00}{04 02 00}!\n{07 02 00}Oh! That's the constellation\nthat {ff 00 00 05}{04 10 00}{ff 00 00 00} from\n{ff 00 00 08}{04 11 00} {ff 00 00 00}thought up!\n{07 0b 00}I think it's called\n{ff 00 00 02}{04 0f 00}{ff 00 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} Yeah,\nI think that's right...\n{07 16 00}I swear, half the time I\nhave no idea what that\nkid's thinkin', {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 6,
+   "en": "I wonder {07 0b 00}who made it? And\nwhere does this mystery\nperson live, {01 00 00 05 00}{04 02 00}?\nI know I'm usually cynical,\nbut {07 14 00}I gotta admit.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\nI'm really into this design.",
+   "et": ""
+  },
+  {
+   "id": 7,
+   "en": "{07 16 00}Don't you think that\n\"{04 0f 00}\" is a\nlittle old, {01 00 00 05 00}{04 02 00}?",
+   "et": ""
+  },
+  {
+   "id": 8,
+   "en": "{07 14 00}Well, I kinda like it,\n{01 00 00 05 00}{04 02 00}.\n\nYou see, it's so misshapen\nand awkward, {07 19 00}and that\nmakes it interesting!",
+   "et": ""
+  }
+ ]
+}

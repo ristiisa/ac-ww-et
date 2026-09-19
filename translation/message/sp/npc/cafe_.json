@@ -1,0 +1,450 @@
+{
+ "file": "script/ENG/message/sp/npc/cafe_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": ".{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 00 00}Good day.",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}Welcome to the {ff 00 00 08}Roost{ff 00 00 00}.",
+   "et": ""
+  },
+  {
+   "id": 3,
+   "en": "{07 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}Welcome to the {ff 00 00 08}Roost{ff 00 00 00}.",
+   "et": ""
+  },
+  {
+   "id": 4,
+   "en": "{07 00 00}Come on in.",
+   "et": ""
+  },
+  {
+   "id": 5,
+   "en": "Good to see you,{01 00 00 05 00} coo.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}",
+   "et": ""
+  },
+  {
+   "id": 6,
+   "en": "Coo,{01 00 00 05 00} {04 00 00}.\nGlad to see you.",
+   "et": ""
+  },
+  {
+   "id": 7,
+   "en": "Good to see you again,{01 00 00 0f 00}\n{04 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}",
+   "et": ""
+  },
+  {
+   "id": 8,
+   "en": ".{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}Interested in our special\nblend, I take it?",
+   "et": ""
+  },
+  {
+   "id": 9,
+   "en": ".{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}If it's coffee you're\nafter, you're in the right\nplace.",
+   "et": ""
+  },
+  {
+   "id": 10,
+   "en": ".{01 00 00 05 00}.{01 00 00 05 00}.Coo.",
+   "et": ""
+  },
+  {
+   "id": 11,
+   "en": "Coffee's all I serve here.{02 00 00 41 42}\nThat's fine.\nYou're joking!",
+   "et": ""
+  },
+  {
+   "id": 12,
+   "en": "I.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}do have sugar.{02 00 00 3f 40}\nPlease!\nNo, thanks.",
+   "et": ""
+  },
+  {
+   "id": 13,
+   "en": "Take your time, relax.\nThere's no rush.",
+   "et": ""
+  },
+  {
+   "id": 14,
+   "en": "Sit back and relax.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{02 00 00 3c 3d}\nI love this place!\nThanks!",
+   "et": ""
+  },
+  {
+   "id": 15,
+   "en": "{06 00 00 4d 4e}",
+   "et": ""
+  },
+  {
+   "id": 16,
+   "en": "I'm experimenting a bit with\ntoday's blend. It's a bit\ndifferent than the usual.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}",
+   "et": ""
+  },
+  {
+   "id": 17,
+   "en": "{06 00 00 4f 50}",
+   "et": ""
+  },
+  {
+   "id": 18,
+   "en": "{06 01 00 43 44 45}",
+   "et": ""
+  },
+  {
+   "id": 19,
+   "en": "{06 01 00 46 47 48}",
+   "et": ""
+  },
+  {
+   "id": 20,
+   "en": "{07 00 00}The coffee may seem a tad\nexpensive at.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0f 00}200 Bells a\ncup, but it's well worth it.{02 04 00 00 18}\nOne, please.\nI'll pass.",
+   "et": ""
+  },
+  {
+   "id": 21,
+   "en": "{07 00 00}A cup of java's{01 00 00 05 00} 200 Bells{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0f 00}\nWhat do you say? Best cup\nin town, guaranteed.{02 04 00 00 19}\nYes, please!\nNo, thanks!",
+   "et": ""
+  },
+  {
+   "id": 22,
+   "en": "{07 00 00}Care for a cup of joe?{01 01 00}\nIt's 200 Bells. You got a\nfavorite blend?{02 04 00 00 1a}\nAnything's fine.\nI'll pass.",
+   "et": ""
+  },
+  {
+   "id": 23,
+   "en": "{07 00 00}Care for a cup of java to\npick you up? It's 200 Bells.{01 01 00}\nWhat blend would you like?{02 04 00 00 1b}\nThe usual!\nI'll pass.",
+   "et": ""
+  },
+  {
+   "id": 24,
+   "en": ".{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}I see.",
+   "et": ""
+  },
+  {
+   "id": 25,
+   "en": ".{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}Whatever you say.",
+   "et": ""
+  },
+  {
+   "id": 26,
+   "en": ".{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}That's a shame.",
+   "et": ""
+  },
+  {
+   "id": 27,
+   "en": "If you decide you're up for\na cup,{01 00 00 05 00} just say the word.",
+   "et": ""
+  },
+  {
+   "id": 28,
+   "en": "{07 00 00}Thanks.",
+   "et": ""
+  },
+  {
+   "id": 29,
+   "en": "{07 00 00}Thanks.",
+   "et": ""
+  },
+  {
+   "id": 30,
+   "en": "{07 00 00}Thanks again.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n\n\nThe only coffee I serve\nhere is my own special\nhouse blend.",
+   "et": ""
+  },
+  {
+   "id": 31,
+   "en": "{07 00 00}Thank you much.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n\n\nToday, I'm experimenting\nwith a slightly different\nblend from my usual.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 00 00}",
+   "et": ""
+  },
+  {
+   "id": 32,
+   "en": "{07 00 00}Well then,{01 00 00 05 00} I suppose you\nwon't mind my special house\nblend too much, will you.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}",
+   "et": ""
+  },
+  {
+   "id": 33,
+   "en": "{07 00 00}Coming right up.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n\n\nOne cup of your favorite,\nmade, as always, with only\nthe finest springwater.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}",
+   "et": ""
+  },
+  {
+   "id": 34,
+   "en": "{01 00 00 0f 00}Coo.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 00 00}\n\n\nI've got the special house\nblend today, but it turned\nout a little differently.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}",
+   "et": ""
+  },
+  {
+   "id": 35,
+   "en": "{07 00 00}Whatever you say.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n\n\nThen up comes one hot cup\nof your favorite blend,\n{04 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}",
+   "et": ""
+  },
+  {
+   "id": 36,
+   "en": "{07 00 00}All right then,{01 00 00 05 00} before it\ngets cold{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n\nOne fresh-brewed cup.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\nEnjoy.{02 00 00 00 28}\nThanks, I will.\nIt's gotta cool.",
+   "et": ""
+  },
+  {
+   "id": 37,
+   "en": "{07 00 00}Enjoy.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n\n\nOne piping-hot, freshly\nbrewed cup.{02 00 00 00 29}\nThanks, I will.\nIt's gotta cool.",
+   "et": ""
+  },
+  {
+   "id": 38,
+   "en": "{07 00 00}There you go.\n\n\nOne fresh-brewed cup,\npiping hot and served in a\nwell-stained mug. Enjoy.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 00 00}{02 00 00 00 2a}\nUm... Thanks?\nIt's gotta cool.",
+   "et": ""
+  },
+  {
+   "id": 39,
+   "en": "{07 00 00}There we go, at the perfect\ntemperature to bring out\nthe flavor: 176 degrees.\nOne fresh-brewed cup.\nDrink up.{02 00 00 00 2b}\nThanks, I will.\nIt's gotta cool.",
+   "et": ""
+  },
+  {
+   "id": 40,
+   "en": "{07 02 00}{01 00 00 0a 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}Are you insane?!?\n\n\n{07 00 00}Drink it now, before it\ncools down!{02 00 00 00 28}\nFine, fine!\nIt's too hot!",
+   "et": ""
+  },
+  {
+   "id": 41,
+   "en": "{07 02 00}{01 00 00 0a 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}What?!?\n\n\n{07 00 00}Look, this...{01 00 00 05 00} This isn't iced\ntea, pal.{01 00 00 05 00} It's coffee.{01 00 00 05 00}\nHOT COFFEE.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{02 00 00 00 29}\nI'll drink it!\nIt's too hot!",
+   "et": ""
+  },
+  {
+   "id": 42,
+   "en": "{07 02 00}{01 00 00 0a 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}What?!\n\n\n{07 00 00}Are you trying to make me\nchip the china? Drink it\nhot, while it's still good!{02 00 00 00 2a}\nI will.\nIt's gotta cool!",
+   "et": ""
+  },
+  {
+   "id": 43,
+   "en": "{07 02 00}{01 00 00 0a 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}What?!?\n\n\n{07 00 00}Look, this coffee isn't for\nsipping. If you want to\nenjoy it, drink it hot.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{02 00 00 00 2b}\nI'll drink to that!\nI'll let it cool.",
+   "et": ""
+  },
+  {
+   "id": 44,
+   "en": "{07 00 00}Whatever you say.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n\n\nCare for a little {ff 00 00 02}pigeon\nmilk{ff 00 00 00}{01 00 00 05 00} to put in it?{02 00 00 2d 2e}\nYes, please!\nYech, no!",
+   "et": ""
+  },
+  {
+   "id": 45,
+   "en": "{01 00 00 0a 00}I think you're going to be\nvery pleased.{01 00 00 05 00} In it goes.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}",
+   "et": ""
+  },
+  {
+   "id": 46,
+   "en": "{07 00 00}You like it black?{01 00 00 0a 00}\n{01 00 00 0a 00}Coo coo.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}",
+   "et": ""
+  },
+  {
+   "id": 47,
+   "en": "Coo!{01 01 00}\n{07 00 00}You{01 00 00 05 00} don't have enough\nmoney.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} Sorry, but no joe.",
+   "et": ""
+  },
+  {
+   "id": 48,
+   "en": "Sweet and mild!\n\n\nThis can be none other\nthan the world-renowned\n{01 00 00 05 00}Pigeon Blend!",
+   "et": ""
+  },
+  {
+   "id": 49,
+   "en": "Ooo-hah!\n\n\nGoes down smooth, with a\nnice, clean aftertaste.",
+   "et": ""
+  },
+  {
+   "id": 50,
+   "en": "Mmmmmmmmmmm!\n\n\nSo strong, so.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}impetuous!\nI can't get enough!",
+   "et": ""
+  },
+  {
+   "id": 51,
+   "en": "What an odd flavor!\n\n\nA bit acidic, and yet it's\nstrangely refreshing.",
+   "et": ""
+  },
+  {
+   "id": 52,
+   "en": "Hot! Hot hot HOTTT!\n\n\nAh! What a flavor! What a\nfeeling! But who knew\ncoffee could get this hot?",
+   "et": ""
+  },
+  {
+   "id": 53,
+   "en": "Ahh!\n\n\nThat rich aroma, that bold\ntaste! It penetrates my\nvery soul! {01 00 00 05 00}Yum!",
+   "et": ""
+  },
+  {
+   "id": 54,
+   "en": "Ahh!\n\n\nIt has a rich, earthy scent\nthat warms my entire body!",
+   "et": ""
+  },
+  {
+   "id": 55,
+   "en": "Hmmmmm.\n\n\nBitter, but with a subtle\nmildness.\n\nTHIS...is the flavor of\nsophistication!",
+   "et": ""
+  },
+  {
+   "id": 56,
+   "en": "Mmmm...{07 0c 00}{01 00 00 0a 00} Excellent!\n\n\nBut could you expect\nanything less from the\nlegendary {ff 00 00 06}Brewster{ff 00 00 00}'s Blend!?",
+   "et": ""
+  },
+  {
+   "id": 57,
+   "en": "Mmmmmmm!\n\n\nAcid, bitterness, and\nboldness, all balanced in\nperfect harmony!",
+   "et": ""
+  },
+  {
+   "id": 58,
+   "en": "Today's blend...\n\n\nboasts a mild flavor. It's\nquite drinkable for those\nwith unrefined palates.",
+   "et": ""
+  },
+  {
+   "id": 59,
+   "en": "Pheeeeeeeeeeeeee!\n\n\nBitter! So bitter! It's like\na banshee, screaming in\nmy taste buds!",
+   "et": ""
+  },
+  {
+   "id": 60,
+   "en": "{07 00 00}Please.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}",
+   "et": ""
+  },
+  {
+   "id": 61,
+   "en": "{07 00 00}Enjoy yourself.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}",
+   "et": ""
+  },
+  {
+   "id": 62,
+   "en": "{07 00 00}It's a hobby, really.{01 00 00 05 00}\nNothing more.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n",
+   "et": ""
+  },
+  {
+   "id": 63,
+   "en": "{07 00 00}Sorry.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{01 01 00}\nOnly have enough for me.",
+   "et": ""
+  },
+  {
+   "id": 64,
+   "en": "{07 18 00}{01 00 00 0a 00}Coo!\n\n\n.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}Is that so?",
+   "et": ""
+  },
+  {
+   "id": 65,
+   "en": "Coo.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n\n\nGlad you like it.",
+   "et": ""
+  },
+  {
+   "id": 66,
+   "en": "When it comes to coffee, I\nnever joke. It's coffee, and\nnothing but.\n{07 00 00}For now, anyway.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}",
+   "et": ""
+  },
+  {
+   "id": 67,
+   "en": "{07 00 00}I spent my college days in\na cafe just like this one.\n\nThat's where my own dream\nof opening a cafe was born.",
+   "et": ""
+  },
+  {
+   "id": 68,
+   "en": "{07 00 00}He's a good man,{01 00 00 05 00} that\n{ff 00 00 06}Blathers{ff 00 00 00}. I owe him.\n\nI figure I can't ever thank\nhim enough.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}",
+   "et": ""
+  },
+  {
+   "id": 69,
+   "en": "{07 00 00}Back in the day, I used to\nhave myself a little cafe in\nthe city.\nAh, those were black days,\nand bitter. I was bitter, my\ncoffee was bitter...\nI guess I shouldn't be\nsurprised I couldn't pull\nthe customers.\nIt was the coffee, you see?{01 00 00 05 00}\nNobody wants a bitter cup\nof java.",
+   "et": ""
+  },
+  {
+   "id": 70,
+   "en": "Don't sweat the Bells. It's\non me today.\n\n{07 02 00}{01 00 00 0a 00}Oh!\n\n\n{07 00 00}Sorry about that.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0f 00}\nI forgot you'd{01 00 00 05 00} already paid.",
+   "et": ""
+  },
+  {
+   "id": 71,
+   "en": "{01 00 00 0a 00}Coo.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n\n\n{07 00 00}{0b 03 00}{04 00 00},{01 00 00 05 00} why don't you\nrelax and enjoy yourself.\nNo need to hurry.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}",
+   "et": ""
+  },
+  {
+   "id": 72,
+   "en": "{07 00 00}You're probably curious\nabout the secret of my\nspecial {ff 00 00 02}pigeon milk{ff 00 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\nSure, I'll tell you. You see,\nit's.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} Well.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{01 01 00}\nYeah, never mind.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}",
+   "et": ""
+  },
+  {
+   "id": 73,
+   "en": "Why don't you take a\nseat right over there?",
+   "et": ""
+  },
+  {
+   "id": 74,
+   "en": "Have a seat if you want.",
+   "et": ""
+  },
+  {
+   "id": 75,
+   "en": "No need to be shy.{01 00 00 05 00} Just\ngrab yourself a chair.",
+   "et": ""
+  },
+  {
+   "id": 76,
+   "en": "I mean it.{01 00 00 05 00} Have a seat.",
+   "et": ""
+  },
+  {
+   "id": 77,
+   "en": "{07 00 00}I suppose I ought to{01 00 00 05 00} pick\nup some more sugar.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}",
+   "et": ""
+  },
+  {
+   "id": 78,
+   "en": "{07 00 00}{07 00 00}You see a lot of pigeons\nout in the city,{01 00 00 05 00} milling\naround,{01 00 00 05 00} doing their thing.\nBut nobody can ever figure\nout where they roost when\nthey're not in the streets.",
+   "et": ""
+  },
+  {
+   "id": 79,
+   "en": "{01 00 00 0a 00}Coo coo.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\nDon't mention it. I do what\nI do because I love it.{02 00 00 3c 3e}\nI love it here!\nIs that so?",
+   "et": ""
+  },
+  {
+   "id": 80,
+   "en": "{07 00 00}You see a lot of pigeons\nout in the city,{01 00 00 05 00} milling\naround,{01 00 00 05 00} doing their thing.\nBut nobody can ever figure\nout where they roost when\nthey're not in the streets.\nThat's what gave me the\nidea for this cafe.\n\nWhen you get right down to\nit, what we all need is a\nplace to go{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.\nA place where we can escape\nthe noise of our lives{01 00 00 05 00} and\njust relax.",
+   "et": ""
+  },
+  {
+   "id": 81,
+   "en": "{07 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}Thanks.",
+   "et": ""
+  },
+  {
+   "id": 82,
+   "en": "{07 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}Thanks.",
+   "et": ""
+  },
+  {
+   "id": 83,
+   "en": "{07 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}Thanks.",
+   "et": ""
+  },
+  {
+   "id": 84,
+   "en": "{07 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}Thanks.",
+   "et": ""
+  },
+  {
+   "id": 85,
+   "en": ".{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}",
+   "et": ""
+  },
+  {
+   "id": 86,
+   "en": "Hate to say this, but,\nwell, it's been a busy day\naround here, and.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\nI'm fresh out of beans. But\ndon't panic. I'll be roasting\nup a new batch in no time.",
+   "et": ""
+  },
+  {
+   "id": 87,
+   "en": "I'm not open just yet.",
+   "et": ""
+  },
+  {
+   "id": 88,
+   "en": "It'd be nice of you to turn\nyour {ff 00 00 07}timer{ff 00 00 00} off during the\nshow{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.",
+   "et": ""
+  }
+ ]
+}

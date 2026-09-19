@@ -1,0 +1,35 @@
+{
+ "file": "script/ENG/message/ko/ev/fmarket1_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 00 00}I don't know anything about\n{ff 00 00 03}Flea Markets{ff 00 00 00}{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}\n\n{07 1b 00}But leftovers always sound\ngood to me!",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 00 00}So today's the day to get\nrid of your old junk?\nEh, {01 00 00 05 00}{04 02 00}?\n{07 14 00}Well, I bet it would all look\ngreat in your house, since\nit's a big junk pile anyway!",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 16 00}Argggh{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00} I really want\n{04 0b 00}'s{01 00 00 05 00} furniture.\n\n{07 0e 00}See, it doesn't even smell\nall that bad{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.{01 01 00}\n{07 14 00}Right, {01 00 00 05 00}{04 1f 00}?",
+   "et": ""
+  },
+  {
+   "id": 3,
+   "en": "{07 00 00}{0b 03 00}{04 1f 00}! Listen, I know\nyou wanna run around and\nsee people's old junk.\nBut if you're not at home,\n{07 0f 00}then I can't see YOUR\nold junk.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 4,
+   "en": "{07 00 00}I know everybody calls the\n{ff 00 00 03}Flea Market{ff 00 00 00} the\n\"Free Market\"{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}\nBut you still have to pay\nfor stuff! {07 16 00}That makes\nno sense!{01 00 00 14 00}\nLet's call it the \"Stupid\nPay Market\" or something,\n{01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 5,
+   "en": "{07 00 00}I'm gonna shop for stuff at\nyour house next, so you'd\nbetter clean that pigsty!\n{07 15 00}I'm gonna be a guest in\nyour house, dadblastit!\n{0b 03 00}{01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  }
+ ]
+}

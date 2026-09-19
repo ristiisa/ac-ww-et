@@ -1,0 +1,20 @@
+{
+ "file": "script/ENG/message/ta/q02/nlose_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 16 00}What?!{01 00 00 05 00} How could this\nhappen?! {01 00 00 05 00}How could you beat\nme to it, {01 00 00 0a 00}{04 02 00}?!",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "How could it be?!{01 00 00 0a 00} You're too\nfast, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "This wasn't a fair match!{01 00 00 0a 00}\nSure, you're fast, {01 00 00 0f 00}but you\nalso have opposable thumbs!",
+   "et": ""
+  }
+ ]
+}

@@ -1,0 +1,75 @@
+{
+ "file": "script/ENG/message/bo/tsu/move1_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 14 00}Hey, {04 1f 00}, thanks so\nmuch for being my friend.{01 00 00 0a 00}\nIt's meant a lot to me.\n{07 00 00}I know this is sudden,{01 00 00 0a 00} but\nI've decided to move away.\nDon't try to stop me.",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 14 00}Um,{01 00 00 0a 00} {04 1f 00},{01 00 00 0a 00}{07 00 00} I'm moving\naway. There. I said it.\n\n{07 16 00}I couldn't bear to see you\ncry,{01 00 00 0a 00} so I've been keeping it\nsecret from you until now.\n{07 14 00}But the time has come to\nsay farewell,{01 00 00 0a 00} so thanks for\neverything,{01 00 00 0a 00} {04 02 00}.",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 14 00}Hey,{01 00 00 05 00} {04 1f 00},{01 00 00 0a 00} I've\ndecided it's time for me to\nleave this town behind.\n{07 16 00}I enjoyed my time here. {01 01 00}{07 15 00}But\nI have no choice. There's\nbetter food elsewhere{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.",
+   "et": ""
+  },
+  {
+   "id": 3,
+   "en": "{07 14 00}OK!{01 00 00 14 00}{07 00 00} You take care of\nyourself, {04 1f 00}. Got\nthat,{01 00 00 0a 00} {04 02 00}?",
+   "et": ""
+  },
+  {
+   "id": 4,
+   "en": "{07 14 00}Huh huh huh.{01 00 00 0a 00} I hope you'll\nthink of me once in a\nwhile,{01 00 00 0a 00} {04 02 00}.",
+   "et": ""
+  },
+  {
+   "id": 5,
+   "en": "{07 0a 00}Yep.{01 00 00 0a 00} Wish me luck,{01 00 00 0a 00}\n{04 02 00}.",
+   "et": ""
+  },
+  {
+   "id": 6,
+   "en": "{07 16 00}You can't do this.{01 00 00 0a 00} Trying\nto stop me isn't like you!\n\n{07 14 00}I need you to laugh and\nsmile as you see me off,{01 00 00 0a 00}\n{04 02 00}.",
+   "et": ""
+  },
+  {
+   "id": 7,
+   "en": "{07 16 00}Ohh{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 14 00}when you say those\nthings to me, it makes my\nheart ache.",
+   "et": ""
+  },
+  {
+   "id": 8,
+   "en": "{07 06 00}No! I can't have this!{01 00 00 0a 00} I'm a\nman, for goodness' sake!\n\n{07 15 00}Once I've made up my mind,\nthere's no changing it,{01 00 00 0a 00}\n{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 9,
+   "en": "{07 0e 00}Wow. I wasn't expecting that\nresponse{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}. {07 00 00}Maybe I'll think\nit over once more.",
+   "et": ""
+  },
+  {
+   "id": 10,
+   "en": "{07 02 00}Why would you say that?{01 01 00}\n{07 13 00}{01 00 00 0a 00}Are you trying to tell me\nsomething?\n{07 0a 00}Huh huh huh!{01 00 00 0a 00} Maybe I'll\nstick around a little bit\nlonger,{01 00 00 0a 00} {04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 11,
+   "en": "{07 16 00}Well, this is a problem.\nI didn't expect you to\nrespond like that{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 06 00}I guess maybe I should stay\nin this town, huh?{02 00 00 10 11}\nDon't leave me!\nMaybe?",
+   "et": ""
+  },
+  {
+   "id": 16,
+   "en": "{07 00 00}Is that so? {01 00 00 0a 00}{07 14 00}Well, if that's\nhow you're going to react,{01 00 00 0a 00}\nI'll sleep on it for a while.",
+   "et": ""
+  },
+  {
+   "id": 17,
+   "en": "{07 0e 00}Yeah{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 16 00} Somehow I get the\nfeeling{01 00 00 0a 00} that if I move,\nsomething bad will happen!",
+   "et": ""
+  }
+ ]
+}

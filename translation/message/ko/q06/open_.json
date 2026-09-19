@@ -1,0 +1,20 @@
+{
+ "file": "script/ENG/message/ko/q06/open_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{01 00 00 05 00}I know all about what you\ndid, {04 1f 00}.{01 00 00 0f 00} {07 15 00}I know you\nopened my package.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n{07 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}The thing is,{01 00 00 05 00}{07 0b 00} you're\nthe one that lost\nsomething, {01 00 00 05 00}{04 02 00}.\n{07 15 00}I can buy another present.\nIt can be replaced.\n\n{07 05 00}But my respect for you\nis deader than a sad,\nforgotten noodle.{03 02 00 01}",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}Hey,{01 00 00 0f 00}{07 01 00} I know all about \nhow you opened my package.\n\n{07 05 00}I didn't think you were\ncapable of doing something \nas shady as that.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\nBut you'll be sorry if you\ncross me again like that, \n{01 00 00 05 00}{04 02 00}!{03 02 00 01}",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 00 00}By the way, {01 00 00 05 00}I know{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n{07 15 00}Yes, I know that you{01 00 00 05 00}\nopened the package.\n{07 03 00}Did you actually think that\nI wouldn't find out?\n\n{07 05 00}Don't you know I've got\nspies behind every tree in\nthis town, {01 00 00 05 00}{04 02 00}?{03 02 00 01}",
+   "et": ""
+  }
+ ]
+}

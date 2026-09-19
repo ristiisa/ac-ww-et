@@ -1,0 +1,40 @@
+{
+ "file": "script/ENG/message/fu/tsu/fu_hint_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "If you want to get the\nhottest furniture, check\nout {ff 00 00 06}Tom Nook{ff 00 00 00}'s store daily.\nHe sometimes has {ff 00 00 02}daily\nspecials{ff 00 00 00} and {ff 00 00 02}limited-time\noffers{ff 00 00 00}, {01 00 00 05 00}{04 02 00}.\n{07 14 00}Oh, and check out the\nbulletin board, too.{01 00 00 05 00} Great\ndeals are waiting for you!",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "Have you been using {ff 00 00 06}Tom\nNook{ff 00 00 00}'s {07 0b 00}{ff 00 00 08}Point-Tracking\nMachine{ff 00 00 00}?\n{07 0d 00}You definitely need to{01 00 00 0a 00}\nbecome a {ff 00 00 02}gold member{ff 00 00 00}. It's\nworth it, {01 00 00 05 00}{04 02 00}!\n{07 14 00}And you know, I hear\nthere's an even higher\nstatus than {ff 00 00 02}gold{ff 00 00 00}!",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{0b 03 00}{04 1f 00},{01 00 00 05 00} {07 0b 00}have you\nvisited any other towns\nyet, {01 00 00 05 00}{04 02 00}?{02 00 00 03 04}\nI sure have!\nI'm scared to!",
+   "et": ""
+  },
+  {
+   "id": 3,
+   "en": "I have a favor to ask.{01 00 00 05 00} Next\ntime you travel, {07 0b 00}would\nyou get me something?\nPreferably some of that\ntown's special furniture, if\nyou can, {01 00 00 05 00}{04 02 00}.",
+   "et": ""
+  },
+  {
+   "id": 4,
+   "en": "{06 00 00 05 06}",
+   "et": ""
+  },
+  {
+   "id": 5,
+   "en": "{07 04 00}Oh!{01 00 00 0a 00} {07 16 00}What are you so\nafraid of, {01 00 00 05 00}{04 02 00}?\n\nDon't you know that, if you\nnever leave our town, you'll\nnever find certain items?\n{07 00 00}That's right! Each town has\na different selection of\nfurniture, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 6,
+   "en": "{07 16 00}I've never visited another\ntown. I don't know if I'll\nget the chance to, either!\nThat's why I'm always happy\nto see people visiting from\nother towns, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  }
+ ]
+}

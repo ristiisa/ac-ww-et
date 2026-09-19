@@ -1,0 +1,20 @@
+{
+ "file": "script/ENG/message/ko/q01/revenge_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 09 00}Man, I lost.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{04 02 00}.{01 01 00}\n{07 15 00}Next time, I'm gonna wipe\nthat smirk off your face!",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 0e 00}I guess you can't win 'em\nall{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{04 02 00}.\n\n{07 0f 00}Man, what kind of loser\nexcuse was that?!",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 15 00}It takes a big man to know\nhow to lose gracefully.\n\n{07 01 00}I am not that man. {01 00 00 05 00}I HATE\nLOSING TO LOSERS LIKE YOU!",
+   "et": ""
+  }
+ ]
+}

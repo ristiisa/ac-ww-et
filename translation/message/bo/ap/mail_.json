@@ -1,0 +1,85 @@
+{
+ "file": "script/ENG/message/bo/ap/mail_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 00 00}Look,{01 00 00 05 00}{01 00 00 05 00} {04 1f 00}.{01 00 00 0a 00} Check\nout the letter that I got.\n\n{06 01 00 04 05 06}",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 16 00}I got this{01 00 00 05 00} letter the other\nday. Take a look.\n\n{06 01 00 08 0a 0c}",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 14 00}Hey,{01 00 00 05 00} {04 1f 00},{01 00 00 0a 00} this\namazing letter arrived in\nmy mailbox the other day.\nI've been wanting to show it\nto you in particular,{01 00 00 0a 00}\n{04 02 00}.",
+   "et": ""
+  },
+  {
+   "id": 3,
+   "en": "Hey,{01 00 00 05 00} {04 1f 00},{07 14 00} I want to\nshow you one of my most\nprized possessions.\nIt's this totally bizarre\nletter that I found in my\nmailbox, {01 00 00 05 00}{04 02 00}.",
+   "et": ""
+  },
+  {
+   "id": 4,
+   "en": "{07 0e 00}This is someone looking for\nadvice on a problem, right,\n{01 00 00 0a 00}{04 02 00}?",
+   "et": ""
+  },
+  {
+   "id": 5,
+   "en": "{07 13 00}I think this is a fan\nletter, {01 00 00 0a 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 6,
+   "en": "{07 17 00}Look at it! It's a love\nletter, for sure,{01 00 00 0a 00}\n{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 7,
+   "en": "{07 00 00}What?{01 00 00 0a 00} It's not?{01 01 00} Uh{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{07 09 00}{01 00 00 0a 00}{01 01 00} {07 06 00}You're\nso mean, {01 00 00 0a 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 8,
+   "en": "So{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00}{07 0b 00}do you think it's\n{04 13 00}?\n{01 00 00 05 00}{0b 03 00}{04 02 00}?\n{07 06 00}I knew it!{01 00 00 14 00} This letter{01 00 00 05 00} kind\nof smells like{01 00 00 0a 00}\n{04 13 00}!{01 00 00 0a 00} Smell it!",
+   "et": ""
+  },
+  {
+   "id": 9,
+   "en": "{07 08 00}Just reading it makes me\nthirsty,{01 00 00 05 00} {04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 10,
+   "en": "It{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 19 00}smells kinda nostalgic,\nhuh,{01 00 00 05 00} {04 02 00}?{01 01 00}\n{07 0b 00}What is this smell,{01 00 00 0a 00} anyway?",
+   "et": ""
+  },
+  {
+   "id": 11,
+   "en": "Hmm.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 14 00} {07 0c 00}I know!{01 00 00 14 00} It smells\nlike {07 0a 00}salt and vinegar chips,\n{01 00 00 0a 00}{04 02 00}! Mmm-mmmm!",
+   "et": ""
+  },
+  {
+   "id": 12,
+   "en": "{07 19 00}It smells kind of weird to\nme{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.",
+   "et": ""
+  },
+  {
+   "id": 13,
+   "en": "{07 0b 00}Huh?{01 01 00} What?{01 00 00 14 00} It's totally\nnormal? {07 00 00}Oh{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00} {07 14 00}That's good,{01 00 00 0a 00}\n{04 02 00}.{01 00 00 14 00} I guess...",
+   "et": ""
+  },
+  {
+   "id": 14,
+   "en": "{07 0d 00}Huh huh huh!{01 00 00 0a 00} I don't really\nunderstand it, but I looove\ngetting mail,{01 00 00 0a 00} {04 02 00}.",
+   "et": ""
+  },
+  {
+   "id": 15,
+   "en": "{07 00 00}It's kind of confusing, but\nI'm into it!{01 01 00} {07 0d 00}It's like a\ncode I have to crack!",
+   "et": ""
+  }
+ ]
+}

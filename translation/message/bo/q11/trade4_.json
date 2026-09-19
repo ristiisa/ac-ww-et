@@ -1,0 +1,20 @@
+{
+ "file": "script/ENG/message/bo/q11/trade4_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 14 00}Uh huh huh huh!{01 00 00 03 00} You've got\na good eye, {01 00 00 05 00}{04 02 00}.{01 00 00 0a 00}\n{07 17 00}That's one of my favorites.",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "And that's quite the nice\nlittle piece, {01 00 00 05 00}{07 0b 00}eh?{01 01 00} {07 17 00}Well,{01 00 00 05 00} you\ncan't have it.",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 04 00}Ah!{01 00 00 05 00} Please try not to\nslobber all over it, if you\ndon't mind.\n{07 19 00}I don't want it to get all\nsoggy and stuff,\n{01 00 00 05 00}{04 02 00}.{07 14 00}",
+   "et": ""
+  }
+ ]
+}

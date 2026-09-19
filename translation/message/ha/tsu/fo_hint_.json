@@ -1,0 +1,45 @@
+{
+ "file": "script/ENG/message/ha/tsu/fo_hint_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "Hey listen, tell me: you{01 00 00 05 00}\n{07 0b 00}found even one fossil?{02 01 00 03 04 05}\nOh yeah!\nNot yet...\nWhat's a fossil?",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 04 00}Check it out, {04 1f 00}!{01 00 00 14 00}\n{07 14 00}I found something{01 00 00 05 00} SO\namazing, {01 00 00 05 00}{04 02 00}!\n{06 01 00 06 06 07}",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 14 00}If you stumble across\nsuspicious ground, just dig!{01 00 00 05 00}\nDIG, {01 00 00 05 00}{04 02 00}!\n{07 00 00}I heard some people bury\nstuff they don't need\nanymore, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 3,
+   "en": "{07 06 00}Solid work!{01 00 00 05 00} Right on!{01 01 00}\n{07 16 00}Hey, if you find anything\nyou don't need, gimme it!\n{07 0e 00}I'll just think about{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n{07 06 00}what to give you in return,\n{01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 4,
+   "en": "{07 14 00}Oh, you haven't?{01 00 00 05 00} Weak.{01 00 00 05 00}\nThat's too bad{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n\n{ff 00 00 06}{07 00 00}Blathers {ff 00 00 00}told me that{01 00 00 05 00} you\ncan find 'em if you dig in\nsuspicious areas.\n{07 16 00}Thing is, it's hard for\nnoobs to spot suspicious\nplaces, {01 00 00 05 00}{04 02 00}.",
+   "et": ""
+  },
+  {
+   "id": 5,
+   "en": "{07 0e 00}Hmmm{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}point well taken.{07 00 00}\nI'm not too sure, either.{01 00 00 05 00}\n{07 0b 00}Aren't they{01 00 00 05 00} old bones?\n{07 0c 00}Oh,{01 00 00 05 00} man, of COURSE!{01 01 00}\n{07 00 00}You should ask {ff 00 00 06}Blathers{ff 00 00 00},\nthe {ff 00 00 08}museum{ff 00 00 00} fossil guy!\n{07 14 00}He'd know for sure!{01 00 00 05 00}\nYeah, that's definitely the\nway to go, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 6,
+   "en": "{07 00 00}Y'know, {01 00 00 05 00}I think you and I\nare on the same page when\nit comes to hobbies...\n{07 11 00}Still, I'm not sure that I'm\nready to share this secret\nwith you, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 7,
+   "en": "{07 00 00}There's this thing called a\n{ff 00 00 07}golden shovel{ff 00 00 00}...{07 11 00}and I'll tell\nyou how to get it.\n{07 00 00}Yeah, I think you need to{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n{07 0b 00}What was it again?\n\n{07 16 00}Oh, WEAK! {01 00 00 05 00}Stupid brain!{01 00 00 0f 00}\nI spaced.{01 00 00 05 00} Lemme think\nabout it a bit!",
+   "et": ""
+  }
+ ]
+}

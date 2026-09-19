@@ -1,0 +1,30 @@
+{
+ "file": "script/ENG/message/fu/tsu/move2_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 04 00}Excuse me!{01 00 00 0f 00} I'm still trying\nto do some cleaning around\nhere, {01 00 00 05 00}{04 02 00}!\n{07 14 00}Why don't you come by, say,\ntomorrow, {01 00 00 05 00}{04 02 00}?",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 16 00}Hey{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0f 00} Do you mind? I'm\ntrying to straighten up my\nroom here, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 06 00}My room is a mess. {01 00 00 05 00}I can't\neven offer you a snack,\n'cuz I can't find my fridge!\n{07 16 00}Look, I'm sorry, but I'm\ngoing to have to ask you\nto go{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} It's too messy!\n{07 14 00}We'll definitely hook up\ntomorrow, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 3,
+   "en": "{07 16 00}I'm so sorry, but I've got\na lot of unpacking to do,\nand I want to finish today.\nWould you mind {07 0b 00}dropping by\ntomorrow, {01 00 00 05 00}{04 02 00}?\n\n{07 16 00}I'm not really ready to, you\nknow, entertain guests or\nanything, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 4,
+   "en": "{07 14 00}Wow! Company! And I haven't\neven finished unpacking.\nWhat a nice town this is!\n{07 0a 00}I'm{01 00 00 0a 00} so happy that\nI moved{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  }
+ ]
+}

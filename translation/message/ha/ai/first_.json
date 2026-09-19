@@ -1,0 +1,65 @@
+{
+ "file": "script/ENG/message/ha/ai/first_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 14 00}Whoa, hey there!{01 00 00 0f 00}\n{07 0b 00}Hmmm...{01 00 00 0a 00} Hang on a sec...{01 00 00 0a 00}\nHave we met, {01 00 00 05 00}{04 02 00}?\n{07 14 00}Well, I'm {04 01 00}!{01 01 00}\n{07 0e 00}And you're{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{04 1f 00}?\nNiiice, {01 00 00 05 00}{04 02 00}!\n{07 14 00}All right, now we're buds!{01 00 00 05 00}\nIt's great to meet you,\nreally!{01 00 00 05 00} High five!",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 14 00}'Morning to ya!{01 00 00 0f 00}\n{07 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}Or maybe I oughta say...{01 00 00 05 00}\nNice to meet you! {01 00 00 05 00}{07 0b 00}Right?\n{07 14 00}They call me {04 01 00}!{01 00 00 0a 00}\n{07 0b 00}So what's your name?\n\n{07 19 00}Ah{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.gotcha.{01 00 00 14 00}\n{07 14 00}{0b 03 00}{04 1f 00}, huh?{01 00 00 05 00}\nA strong name! {01 00 00 05 00}Burly!\n{07 0d 00}So how about it?{01 00 00 05 00} You up to\nan arm-wrestling match?{01 00 00 05 00}\nIt's ON, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 14 00}Hey, nice meeting you!{01 00 00 0a 00}\nI'm {04 01 00}, and I like\nto {04 22 00}!\n{07 0e 00}What's your story{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 01 00}?\n{07 04 00}Your name's {04 1f 00}?\nRight on, {01 00 00 05 00}{04 02 00}!\n{07 0d 00}Hey! {01 00 00 05 00}Next time I head out,\nlet's {04 22 00}\ntogether!{01 00 00 05 00} You in?!",
+   "et": ""
+  },
+  {
+   "id": 3,
+   "en": "{07 14 00}Howdy, howdy, HOWDY!{01 00 00 0a 00}\n{07 04 00}Whoa!{01 00 00 0a 00} You a newbie?!\n{07 14 00}Hey, {01 00 00 05 00}{04 02 00}!\nTwo things you gotta know:{01 00 00 05 00}\nMy name's {04 01 00}, and\nI love to {04 22 00}!\n{07 14 00}If you ever need anything,\nhey, just ask, OK?{01 00 00 05 00}\nI'll be around!",
+   "et": ""
+  },
+  {
+   "id": 4,
+   "en": "{07 04 00}Whoa now, what's this?{01 00 00 0a 00}\n{07 14 00}A new face?!\n\n{07 00 00}My name's {04 01 00}!{01 00 00 0a 00}\nFolks say I tend to\n{04 22 00} a lot!\nSo your name is\n{04 1f 00}, huh?{01 00 00 14 00}\nSounds hip!\nWe should hang out,{01 00 00 05 00} {07 0d 00}do\nsome squats, and maybe\n{04 22 00}!",
+   "et": ""
+  },
+  {
+   "id": 5,
+   "en": "{07 14 00}Good evening to ya!{01 00 00 0a 00}\n{07 0e 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}Wait, hang on...{01 00 00 05 00}\nI don't recognize you!\n{07 00 00}I'm called {01 00 00 05 00}{04 01 00}!{01 00 00 0a 00}\n{07 14 00}I'm in the process of\ngetting my body fat to 0%.\n{07 0d 00}We should start training\ntogether, {01 00 00 05 00}{04 02 00}!{01 00 00 05 00}\nSeriously, we'll get ripped!",
+   "et": ""
+  },
+  {
+   "id": 6,
+   "en": "Nice evening, huh?{01 01 00}\n{07 0b 00}Hey!{01 00 00 05 00} Whoa, hold the phone!{01 00 00 0f 00}\nWe haven't met!\n{07 14 00}I'm {01 00 00 05 00}{04 01 00}!{01 00 00 0a 00}\nI'm into giving blood, and I\nlike to {04 22 00}.\n{07 14 00}I recommend both as\nactivities, by the way. {01 00 00 05 00}Build\nthat karma, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 7,
+   "en": "{07 15 00}Hey, you there!{01 01 00}\n{07 0b 00}I don't think we've met. \nAm I right, {01 00 00 05 00}{04 02 00}?\n{07 14 00}Well, I'm {04 01 00}!{01 00 00 0a 00}\nI like to {04 22 00}\nas a part of my workout!\n{07 00 00}It's rough when I'm doing it{01 00 00 05 00}\n{07 14 00}but the next-day muscle\nache makes it all worth it!",
+   "et": ""
+  },
+  {
+   "id": 8,
+   "en": "{07 14 00}What's up, yo?{01 00 00 0a 00}\n{07 00 00}Oh, we haven't met before?\nYou don't say, {01 00 00 05 00}{04 02 00}!\n{07 04 00}Your name is {01 00 00 05 00}{04 1f 00}?{01 00 00 0a 00}\n{07 14 00}That sounds like the name\nof a {04 16 00} fanatic!\nThat gets me so PUMPED!{01 00 00 0a 00}\nMe, I'm an all-around\nathlete named {04 01 00}!\n{07 0d 00}Awesome meeting you!{01 00 00 05 00}\nRock on, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 9,
+   "en": "{07 14 00}Oh hey, {01 00 00 05 00}'evening!{01 00 00 0f 00}\n{07 00 00}Or should I say...{01 00 00 05 00}nice to\nmeet you, {01 00 00 05 00}{04 02 00}?\n{07 14 00}The name's {04 01 00}!{01 01 00}\n{07 0e 00}And you would be{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 14 00}\n{07 14 00}{04 1f 00}, huh?\n{07 11 00}Out and about at this hour?{01 00 00 05 00}\n{0b 03 00}{04 1f 00}, you must be\nwiiiild, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 10,
+   "en": "{07 02 00}Whoa!{01 00 00 05 00} Who are you?!{01 00 00 05 00}\nSpeak, {04 02 00}!\n\n{07 0b 00}What? {01 00 00 05 00}{0b 03 00}{04 1f 00}?{01 00 00 0a 00}\nHave we{01 00 00 05 00} met before?{01 01 00}\n{07 15 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}Hmph!{01 00 00 05 00} Well, now we have!\n{07 00 00}I'm known as {01 00 00 05 00}{04 01 00}.{01 00 00 0a 00}\nI don't know if you know,\nbut I'm a {04 0f 00}!\nIt's nice to meet you,\n{01 00 00 05 00}{04 02 00}! {01 00 00 05 00}Even if you\ndid almost stop my heart!",
+   "et": ""
+  },
+  {
+   "id": 11,
+   "en": "{07 02 00}Whoa whoa whoa, now!{01 00 00 0a 00}\nWho are you, {01 00 00 05 00}{04 02 00}?\n\n{07 0b 00}What?{01 00 00 14 00} {0b 03 00}{04 1f 00}?{01 01 00}\n{07 00 00}Oh.{01 00 00 0a 00} We haven't met before,\nso you're saying hi! {01 00 00 0a 00}Gotcha.\n{07 14 00}I'm called {04 01 00}, and\nI like to {04 22 00}.{01 00 00 05 00}\nBoy, do I, {01 00 00 05 00}{04 02 00}!\nAnyway, you may want to\nreconsider middle-of-the-\nnight intros, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  }
+ ]
+}

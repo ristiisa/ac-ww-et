@@ -1,0 +1,20 @@
+{
+ "file": "script/ENG/message/ta/q02/revenge_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "So you won this time{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00} Well,\nnext time,{01 00 00 05 00} I'm actually\ngonna TRY! {01 00 00 05 00}{0b 03 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 1b 00}Don't let your head get too\nbig! {01 01 00}{ff 00 00 04}'Cause it's already\nhuge! Tee hee HEE hee!",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "Next time, I'll be the one\nlaughing, {01 00 00 0a 00}{04 02 00}!\nSo there!",
+   "et": ""
+  }
+ ]
+}

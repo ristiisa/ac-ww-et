@@ -1,0 +1,20 @@
+{
+ "file": "script/ENG/message/ge/q02/con2_4_5_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 00 00}{0b 03 00}{04 1f 00}!{07 0b 00} Did you already\nfind that big ol'\n{0b 02 00}{04 1a 00}?!\n{07 14 00}You didn't, right?!{01 00 00 0a 00} YES!\nI KNEW it!{07 00 00}{07 11 00} Heh heh heh...\n\n{07 00 00}{07 06 00}OK, slow down there,\n{01 00 00 05 00}{04 01 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}. Breathe{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\nBREEEEATHE...",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 15 00}FINE!{01 00 00 0a 00} Fine then,{01 00 00 05 00} poker-face!\nYou think you're just so\nhot, {01 00 00 05 00}{04 02 00}!\n{07 00 00}Well, while YOU'RE all walking\naround acting cool, I'm\ngonna win our contest!\n{07 15 00}You better find a nice big\n{0b 02 00}{04 1a 00}\nquick, {04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 16 00}{0b 03 00}{04 1a 00} is\nsoooo hard to find...{01 00 00 0a 00}\n{07 00 00}{07 15 00}But I won't lose to you!\n{07 00 00}{07 06 00}Believe it or not,{01 00 00 05 00} patient\nwork like this is my forte!",
+   "et": ""
+  }
+ ]
+}

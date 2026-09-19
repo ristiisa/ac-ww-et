@@ -1,0 +1,20 @@
+{
+ "file": "script/ENG/message/ha/q02/con2_4_5_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 00 00}Hey, wassup, {04 1f 00}!{01 00 00 05 00}\n{07 0b 00}Haven't you caught\n{04 1a 00}?{01 00 00 05 00}\n{07 14 00}According to my timetable,\nI'm due to catch one\nanytime now, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 16 00}Man, trying to catch\n{04 1a 00} at\nthis time of the year?\n{07 15 00}This is ridiculous! {01 00 00 0a 00}Who's the\nmoron who decided this was\na good idea, {01 00 00 05 00}{04 02 00}?",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 16 00}{0b 02 00}{0b 03 00}{04 1a 00}!{01 00 00 05 00}\nI hate you!{01 00 00 05 00} I can't find\nyou! {01 00 00 05 00}It's too much to ask!\n{07 0f 00}If this were a prize fight,{01 00 00 05 00}\nI'd be throwing towels left\nand right, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  }
+ ]
+}

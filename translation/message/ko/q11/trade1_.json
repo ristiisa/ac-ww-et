@@ -1,0 +1,20 @@
+{
+ "file": "script/ENG/message/ko/q11/trade1_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 00 00}Say,{01 00 00 05 00} you seem to like some\nof my stuff. Let me ask\nyou something...\n{07 0e 00}Can you tell me which ones\na kid would like?{01 00 00 05 00} One of\nthe \"popular\" kids?{02 04 00 ff ff}\nSure thing.\nNot right now.",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 15 00}All right,{01 00 00 05 00} let's get down\nto brass tacks here{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n\n{07 00 00}{07 15 00}Now, I know my stuff all\nhas a weird kinda odor to\nit. I'm aware of that!\nBut I need to know which\npiece is the MOST stinky!{01 00 00 0f 00}\nWill ya tell me?{02 04 00 ff ff}\nYou got it!\nNot right now",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 00 00}{07 0b 00}So which piece here do you\nlike the most?{01 00 00 0a 00} {07 00 00}I'm just\ncurious, is all.{02 04 00 ff ff}\nLemme tell ya!\nBuzz off!",
+   "et": ""
+  }
+ ]
+}

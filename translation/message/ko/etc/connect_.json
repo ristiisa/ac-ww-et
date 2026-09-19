@@ -1,0 +1,20 @@
+{
+ "file": "script/ENG/message/ko/etc/connect_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 00 00}Now that that's outta the\nway,{01 00 00 05 00} what the HECK did you\nwant, anyway,{01 00 00 05 00} {04 02 00}?",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 00 00}So, tell me,{01 00 00 14 00} what are you\ndoing around here, anyway?{01 00 00 05 00}\n{0b 03 00}{04 02 00}?",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 00 00}So, anyway, did you want\nsomething from me, or\nwhat,{01 00 00 05 00} {04 02 00}?",
+   "et": ""
+  }
+ ]
+}

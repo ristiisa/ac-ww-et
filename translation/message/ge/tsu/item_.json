@@ -1,0 +1,75 @@
+{
+ "file": "script/ENG/message/ge/tsu/item_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 00 00}Right now, I am just ROCKING\nthis crossword puzzle!{01 00 00 05 00}\nI am the SMARTEST!\n{07 16 00}Oh, wait, but I am stuck\non this one stupid column,\n{04 02 00}...\n{07 00 00}It's this 7-letter word...{01 00 00 0a 00}\n{07 0b 00}Any guess, {04 1f 00}?{02 03 00 03 03 03 03 07}\nChowder.\nLasagna.\nBlubber.\nCrumble.\nBanana.",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 00 00}No offense, {04 1f 00},{01 00 00 05 00}\nbut you look like you're bad\nat budgeting, {01 00 00 05 00}{04 02 00}!\n{07 0d 00}So {01 00 00 05 00}today, I'm gonna totally\ntreat you to something!{01 00 00 05 00}\nHow about them apples, huh?\n{06 01 00 09 09 08}",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 04 00}Oh, hi, {04 1f 00}!{01 00 00 0a 00}\nGood timing, {01 00 00 05 00}{04 02 00}!\n\n{07 14 00}I saw this thing and was\nlike, \"That is SO perfect!\"{01 00 00 05 00}\nSo I got it for you!\n{06 01 00 0b 0c 0c}",
+   "et": ""
+  },
+  {
+   "id": 3,
+   "en": "{06 01 00 05 05 04}",
+   "et": ""
+  },
+  {
+   "id": 4,
+   "en": "{07 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 16 00}Huh?{01 00 00 05 00} You think?\n\n\nSeems weird, {01 00 00 05 00}{04 1f 00},\nbut if you say so, it's just\ngotta be right!\n{07 14 00}Thanks for helping me\nout, {01 00 00 05 00}{04 02 00}!{03 01 00 01}",
+   "et": ""
+  },
+  {
+   "id": 5,
+   "en": "{07 0c 00}Oh yeah, {01 00 00 05 00}that's totally it!{01 01 00}\n{07 14 00}Duh! I KNEW that!{01 00 00 14 00} Yeah!{01 00 00 05 00}\nIn your face, puzzle!\n{07 14 00}Oh, you are the BEST!{01 00 00 05 00}\nTo thank you, I'll give you\n{04 1a 00}!",
+   "et": ""
+  },
+  {
+   "id": 6,
+   "en": "{07 0d 00}Everybody oughta help\nothers in times of need,\n{01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 7,
+   "en": "{07 01 00}Hey!{01 00 00 05 00} C'mon, {04 1f 00}!{01 01 00}\n{07 16 00}I said, {ff 00 00 02}7 letters{ff 00 00 00}!\n\n{07 00 00}You...{01 00 00 05 00}you kinda look like\nyou're only playing with\nhalf a deck sometimes...\n{07 16 00}But the question is, do you\nhave any deck at all,\n{01 00 00 05 00}{04 02 00}?",
+   "et": ""
+  },
+  {
+   "id": 8,
+   "en": "{07 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}Oh, but wait a sec...{01 00 00 05 00}\n{07 16 00}My budget's pretty darn\ntight this month!\n{07 06 00}Oh, I'm really, really sorry!{01 00 00 05 00}\nForget what I just said!{01 00 00 05 00}\nSorry, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 9,
+   "en": "{07 14 00}So here! {01 00 00 05 00}Take my\n{0b 02 00}{04 1a 00}!",
+   "et": ""
+  },
+  {
+   "id": 10,
+   "en": "{07 00 00}It's kinda weird how being{01 00 00 05 00}\nirresponsible with money\ncan be rewarding, {07 0b 00}isn't it?\n{07 14 00}Or maybe I'm just super\nkooky, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 11,
+   "en": "{07 02 00}What?!{01 00 00 0a 00} Where is it?!{01 00 00 05 00}\nOh no, {01 00 00 05 00}{04 02 00}!\n\n{07 06 00}Shooot! {01 00 00 0a 00}I must've left it at\nthe store!{01 00 00 05 00} Dang!{03 03 00 01}",
+   "et": ""
+  },
+  {
+   "id": 12,
+   "en": "{07 14 00}Here ya go, {04 02 00}!{01 00 00 0a 00}\nYou're meant to have my\n{0b 02 00}{04 1a 00}!",
+   "et": ""
+  },
+  {
+   "id": 13,
+   "en": "{07 00 00}You...{01 00 00 05 00} I saw that look in\nyour eyes just then!\n\n{07 0b 00}You thought I'd forgotten\nit like a total space\ncadet, huh!\n{07 06 00}Wait, I WOULD do that!{01 00 00 05 00}\nI AM a total space cadet,\n{01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  }
+ ]
+}

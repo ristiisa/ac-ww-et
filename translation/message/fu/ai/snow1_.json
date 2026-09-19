@@ -1,0 +1,65 @@
+{
+ "file": "script/ENG/message/fu/ai/snow1_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 14 00}It's snowing, {01 00 00 05 00}{04 02 00}!\n\n\n{07 19 00}When it's snowing, I don't\nbother using an umbrella.\n\n{07 14 00}Even though snow's made of\nwater, I never get wet! It's\nlike magic, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 14 00}{0b 03 00}{01 06 00}Good morning{01 07 00}!{01 00 00 05 00}\nHow are you, {04 1f 00}?\n\n{07 00 00}First thing I saw when I\nwoke up this morning was\nsnow outside my window.\n{07 0d 00}Before I even knew it, I\nwas outside making snowmen,\n{01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "Everyone knows it's cold on\nsnowy days, {01 00 00 05 00}{04 02 00}.\nIt's common sense.\n{07 0b 00}Still, I'm not sure why,{01 00 00 0f 00} but\n{07 14 00}snowy days always make me\nfeel warm inside.",
+   "et": ""
+  },
+  {
+   "id": 3,
+   "en": "{07 14 00}{0b 03 00}{01 06 00}Hi there{01 07 00}!{01 00 00 05 00}\nSo, {04 00 00}... What a\ngreat day, {01 00 00 05 00}{04 02 00}!\n{07 0b 00}Don't you just love the\nsound of footsteps{01 00 00 05 00} on the\nsnow, {01 00 00 05 00}{04 02 00}?\n{07 14 00}I love it {01 00 00 05 00}so much!{01 00 00 0f 00} I could\nstomp around forever!\n{07 0d 00}Crunch,{01 00 00 05 00} crunch,{01 00 00 05 00} crunch!",
+   "et": ""
+  },
+  {
+   "id": 4,
+   "en": "{07 14 00}Hello, {01 00 00 05 00}{04 1f 00}. {01 00 00 0a 00}Brrr!\nIt sure is chilly today,\nisn't it!\n{07 0e 00}Do you suppose that's\nbecause it's snowing?{07 00 00}\n\nOr.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 0b 00}do you think maybe it's\nsnowing because it's cold?\nWhich is it, {01 00 00 05 00}{04 02 00}?",
+   "et": ""
+  },
+  {
+   "id": 5,
+   "en": "Let me ask, {04 1f 00}.{01 00 00 05 00}\n{07 0b 00}Have you ever looked really\nclosely at a snowflake?\n{07 0a 00}They're so delicate and\nfragile,{01 00 00 05 00} and so hard to\nhold on to.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n{07 00 00}I{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} {07 13 00}I wish I could\nbe like that, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 6,
+   "en": "{07 14 00}Good evening, {01 00 00 05 00}{04 1f 00}.{01 00 00 0f 00}\n\n\nYou be sure to wrap up\nextra snug when you go to\nbed tonight, OK?\nIt's going to be a chilly\none, and you don't want to\ncatch a cold, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 7,
+   "en": "{0b 03 00}{01 06 00}It's so quiet{01 07 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n\n\nAll the daily hustle and\nbustle seems quieter when\nit's snowing out.\n{07 0b 00}Why is that?{01 01 00}\n{07 19 00}All that snow must muffle\nthe noise.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{01 00 00 05 00}{04 02 00}.",
+   "et": ""
+  },
+  {
+   "id": 8,
+   "en": "{0b 03 00}{01 06 00}It's so cold{01 07 00}...\n\n\nI can't believe{01 00 00 0a 00} it snowed\nall{01 00 00 05 00} day{01 00 00 05 00} long.",
+   "et": ""
+  },
+  {
+   "id": 9,
+   "en": "{07 14 00}Good evenin', {01 00 00 05 00}{04 1f 00}!{01 00 00 0f 00}\nIt's so dark{01 00 00 05 00} and so chilly!\n\n{07 07 00}I can't believe you're\ndressed so lightly!\n\n{07 14 00}Promise me you won't catch\na cold, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 10,
+   "en": "{07 04 00}Ooops!{01 00 00 0f 00} Look at the time!\nIt's already {04 08 00} o'clock!{07 00 00}\n\n{07 14 00}I was just enjoying the\nsnow,{01 00 00 0a 00} {07 17 00}and I lost track of\ntime, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 11,
+   "en": "{07 14 00}{0b 03 00}{01 06 00}Isn't it a lovely night{01 07 00}?\n{07 00 00}It's still snowing, too.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n\nIt snowed all day, and it\ndoesn't look like it'll stop\nanytime soon, {01 00 00 05 00}{04 02 00}.\n{07 0e 00}I wonder if the sky ever\nruns out of snow.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}",
+   "et": ""
+  }
+ ]
+}

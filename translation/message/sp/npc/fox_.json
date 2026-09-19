@@ -1,0 +1,250 @@
+{
+ "file": "script/ENG/message/sp/npc/fox_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": ".{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 02 00}Whoa there, friend!{01 00 00 0a 00} {07 00 00}{ff 00 00 06}Crazy\nRedd{ff 00 00 00} don't know who you are\nor where you come from...\nBut you've got a problem!\n{07 19 00}And now YOUR problems are\nMY problems!\n{07 14 00}See, {ff 00 00 08}Crazy Redd's{ff 00 00 00} ain't your\nnormal high-end furniture\nstore! It's members only!\nSo you gotta prove you're a\nmember and give me the\npassword{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\nYou DO know the password,\nright? Good! So whattya you\nsay when I say{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "\n...\"{0b 03 00}{ff 00 00 02}{04 0f 00}{ff 00 00 00}\"?",
+   "et": ""
+  },
+  {
+   "id": 3,
+   "en": "{07 19 00}That's it, all right!{01 00 00 0a 00} I guess\nyou really ARE a member\nof the {ff 00 00 08}Crazy Redd's {ff 00 00 00}family!\n{07 1b 00}Hey, can't be too careful,\nam I right?{01 00 00 0a 00} {ff 00 00 04}What with all\nthe cops sniffing around...{ff 00 00 00}\n{07 14 00}Please, please!{01 00 00 05 00} Come inside\nand take a gander at my\nfine establishment!",
+   "et": ""
+  },
+  {
+   "id": 4,
+   "en": ".{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 04 00}You're mumblin', buddy!!{01 01 00}\nAre you talking in your\nsleep or something?\n{ff 00 00 06}Crazy Redd{ff 00 00 00} can't understand\na word you're saying!",
+   "et": ""
+  },
+  {
+   "id": 6,
+   "en": "{07 03 00}Ah!{01 00 00 05 00} Hello, hello! {01 00 00 0a 00}Welcome,\nwelcome!{01 00 00 05 00} So very good to\nsee you!",
+   "et": ""
+  },
+  {
+   "id": 7,
+   "en": "{07 04 00}What?!{01 00 00 0a 00} .{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 00 00}Heeeey, wait a sec!\n{07 15 00}You're not really a member,\nare you?{01 00 00 0f 00} Aw, I knew it!\n{07 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}Listen, friend.{01 00 00 05 00} I know\nwhere you're coming from,\nI really and truly do!\n{07 00 00}But we here at {ff 00 00 08}Crazy Redd's{ff 00 00 00}\nonly allow people that we\nknow and TRUST to join up!\n{07 19 00}That's how we're able to\noffer our members the best\ndeals anywhere!{01 00 00 05 00} Guaranteed!\n{07 11 00}See? I may appear to sell\nfurniture, but what I'm\nREALLY selling is trust!{02 00 00 13 00}\nWhatever.\nI'm in!",
+   "et": ""
+  },
+  {
+   "id": 8,
+   "en": "{07 04 00}What?{01 00 00 0a 00} Hey, you're having\nsome fun with ol' {ff 00 00 06}Redd{ff 00 00 00}!{01 01 00}\nC'mon now!\n{07 15 00}This isn't the kind of\nestablishment that lets any\nold person just wander in...\n{07 01 00}And {ff 00 00 06}Redd {ff 00 00 00}ain't some raccoon\nwith an apron who pretends\nto be your friend!\n{07 00 00}You know our motto?{01 00 00 0f 00}\n{ff 00 00 02}Good stuff...{01 08 00}\nCraaaaaazy prices!{ff 00 00 00}\n{07 14 00}If {ff 00 00 06}Crazy Redd{ff 00 00 00} wants to\nremain on top, he needs\ncustomers he can TRUST!",
+   "et": ""
+  },
+  {
+   "id": 9,
+   "en": "{07 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 15 00}Did you hear me, friend?\n{ff 00 00 06}Redd {ff 00 00 00}runs a service!{01 00 00 0a 00} It's\nabout my customers!\n{07 11 00}Buuuut{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}I suppose this one\ntime, {ff 00 00 06}Redd {ff 00 00 00}could make an\nexception{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} Just for you.\n{07 14 00}All right! Let's make you an\nofficial member of the\n{ff 00 00 08}Crazy Redd's {ff 00 00 00}family!\n{07 0e 00}Let's see now... Enrollment\nfee,{01 00 00 05 00} plus annual fee,{01 00 00 05 00}\nplus handling charges...\n{07 0c 00}It comes to {ff 00 00 02}3,000 Bells{ff 00 00 00}!{01 01 00}\nYes, you can become a\nmember for{ff 00 00 02} 3,000 Bells{ff 00 00 00}.{07 11 00}{02 00 00 0c 0b}\nDone!\nNo, thanks.",
+   "et": ""
+  },
+  {
+   "id": 10,
+   "en": "{07 16 00}Oh, a shame.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} But as you\ncan see, we have only the\nhighest quality furniture...\n{07 19 00}And so our customers must\nalso be cut from a bolt of\nhigh-quality cloth.\n{07 11 00}Terribly sorry{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00}\nHee hee hee!",
+   "et": ""
+  },
+  {
+   "id": 11,
+   "en": "{07 04 00}What?{01 00 00 0f 00} You're {01 08 00}CCRRAAAAAZZYY!{01 00 00 05 00}\nYou're even crazier than\nol' {ff 00 00 06}Redd{ff 00 00 00}!\n{07 00 00}But, hey, that's all right.{01 00 00 05 00}\n{07 11 00}After all, I won't be the\none kicking myself later.",
+   "et": ""
+  },
+  {
+   "id": 12,
+   "en": "{07 04 00}Really?!{01 00 00 0f 00}{07 14 00} I mean, oh, yes!\nThank you much, excellent\nchoice, never regret it.\n{07 00 00}All righty then,{01 00 00 05 00} before you\nchange your mind, please\nsign your name here{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{ff 00 00 04}{07 11 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}C'mon!{01 00 00 05 00} C'mon{01 00 00 05 00}!\nBefore the fuzz gets here!",
+   "et": ""
+  },
+  {
+   "id": 15,
+   "en": "{07 14 00}Hee hee hee!{01 00 00 05 00} Thanks again,\nand welcome to the family!\nNow, about the password...\nIt's very hush-hush,{01 00 00 05 00} so let\n{ff 00 00 06}Redd {ff 00 00 00}write it in a letter\nand mail it to you!",
+   "et": ""
+  },
+  {
+   "id": 16,
+   "en": "{07 00 00}...I'll be taking that{01 00 00 05 00} {ff 00 00 02}3,000\nBells{ff 00 00 00} now.",
+   "et": ""
+  },
+  {
+   "id": 17,
+   "en": "{07 03 00}Yes, yes, yes!{01 00 00 05 00} Thank you\nfor the prompt payment!\n\n{07 00 00}And now that you're in the\n{ff 00 00 08}Crazy Redd's {ff 00 00 00}family, we're\ngonna call you \"Cousin\"!\n{07 0a 00}Cousin {04 00 00},{01 00 00 0a 00} we hope\nto be seeing you again in\nthe VERY near future.",
+   "et": ""
+  },
+  {
+   "id": 18,
+   "en": "{07 15 00}So{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} {07 00 00}{07 0b 00}Are you looking to join\nthe {ff 00 00 08}Crazy Redd's {ff 00 00 00}family?\nWe have many fine deals!{02 00 00 13 00}\nNot really.\nI wanna join!",
+   "et": ""
+  },
+  {
+   "id": 19,
+   "en": "{07 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}Well, {01 00 00 05 00}I suppose that'll be\nOK this time. We'll chalk it\nup to fate, hmm?\n{07 14 00}At any rate, please take a\nlook around!{01 00 00 05 00} {ff 00 00 06}Redd {ff 00 00 00}knows\nyou'll like what you see!",
+   "et": ""
+  },
+  {
+   "id": 20,
+   "en": "{07 0c 00}Oh,{01 00 00 05 00} it's a pleasure to see\nyou, Cousin {04 00 00}!{01 00 00 0f 00}\n\nHow's it going, Cuz?{01 00 00 05 00}\n{07 11 00}Saaay, you look great!\nHave you lost weight?\n{07 14 00}Oh, but {ff 00 00 06}Redd{ff 00 00 00}'s taking up\nyour valuable time! Please!\nHave a look around!",
+   "et": ""
+  },
+  {
+   "id": 21,
+   "en": "{07 00 00}Yes, indeed! {01 00 00 05 00}That new\n{0b 02 00}{04 1a 00}\nshould serve quite nicely!\n{07 03 00}You certainly do have an\neye for quality.{01 00 00 05 00} And for a\nbargain!{01 00 00 0a 00} A {01 08 00}CRAAAAZY bargain!\n{07 04 00}If you find a lower price,\n{ff 00 00 06}Redd{ff 00 00 00}'ll eat his own tail!{01 00 00 0a 00}\n{07 00 00}{07 11 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}Hee hee hee!",
+   "et": ""
+  },
+  {
+   "id": 22,
+   "en": "{07 00 00}By the way, Cousin\n{04 00 00},{01 00 00 05 00}{07 0b 00} you know\n{ff 00 00 05}{04 10 00}{ff 00 00 00},{01 00 00 05 00} right?\n{07 14 00}That kid's quite the \ncharacter.{01 00 00 05 00} I tell ya, {ff 00 00 06}Redd{ff 00 00 00}'s\nnever seen the like!\nThat kid walks into the\nstore,{01 00 00 05 00} picks out\n{04 1a 00},\n{07 04 00}says \"keep the change,\"{01 00 00 0a 00}\ntosses a bag full'a Bells\non the counter and LEAVES!\n{07 11 00}Well, all us members of the\n{ff 00 00 08}Crazy Redd's {ff 00 00 00}family think\nthe kid must be loaded!\n{07 16 00}But when ol' {ff 00 00 06}Redd {ff 00 00 00}counts\nthat money,{01 00 00 05 00} he discovers\nthat it's exact{01 00 00 05 00} change{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\nI tell ya what{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n{07 02 00}{01 08 00}It's CCCRRRAAAAAAAAAZZZYYY!",
+   "et": ""
+  },
+  {
+   "id": 23,
+   "en": "{07 00 00}You know what's the hardest\npart of ol' {ff 00 00 06}Redd{ff 00 00 00}'s job?\nAppraising!\n{07 16 00}Yeah, it's hard to find\nfolks who know just what\nsomething should cost...\n{07 11 00}Ol' {ff 00 00 06}Redd{ff 00 00 00}'s always guessing\nlow!{01 00 00 0a 00} That's why he's so{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00}\n{07 00 00}{07 02 00}{01 08 00}CCCRRRAAAAZZYYY!!",
+   "et": ""
+  },
+  {
+   "id": 24,
+   "en": "But seriously,{01 00 00 05 00} Cousin\n{04 00 00}...\n\n{07 16 00}This ol' world is full of\nodd folks.{01 00 00 05 00} Am I right?\nLike {01 00 00 05 00}the other day.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n{07 00 00}{07 15 00}This kid bought a piece'a\nart from me. Beautiful!\nOne-of-a-kind!\n{07 01 00}Then he has the NERVE to\ncome back in and complain{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n{07 00 00}Says it's a fake!\n{07 03 00}I mean, it's laughable! {ff 00 00 06}Redd{ff 00 00 00}\ndidn't force the kid to buy\nanything, am I right?\n{07 00 00}{07 1b 00}And besides, all my stuff is\nhigh quality! Above the\nboard! Totally legit!\n{07 00 00}{07 15 00}I mean{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}c'mon!{01 00 00 05 00} Give {ff 00 00 06}Redd{ff 00 00 00}\na break!{01 00 00 0f 00} Look in the mirror\nor something!{01 01 00} {07 00 00}{ff 00 00 04}{07 11 00}Hee{01 00 00 05 00} hee{01 00 00 05 00} hee...",
+   "et": ""
+  },
+  {
+   "id": 25,
+   "en": "{07 03 00}Hee hee hee!{01 00 00 05 00} Cousin, please!{01 00 00 0f 00}\nGimme a break!{01 00 00 05 00} You know\nour motto, right?\n{ff 00 00 02}{07 14 00}Good stuff...{01 01 00}\n{07 00 00}{07 02 00}{01 08 00}CCCRRRAAAAAAAZZZYYY prices!{ff 00 00 00}\n\n{07 00 00}{07 11 00}I used a CHAINSAW to slash\nthese prices!{01 00 00 05 00} This is as low\nas ol' {ff 00 00 06}Redd {ff 00 00 00}can go, friend!\n{07 00 00}{07 14 00}If you find a better deal\nanywhere, I'll eat my tail!",
+   "et": ""
+  },
+  {
+   "id": 26,
+   "en": "{07 03 00}Well, {01 00 00 05 00}thanks to our loyal \nfamily, {ff 00 00 08}Crazy Redd's{ff 00 00 00} has\nsold out of everything!\n{07 14 00}We look forward to seeing\nyou again next time!{01 00 00 0a 00}\n.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}Hee hee hee!",
+   "et": ""
+  },
+  {
+   "id": 27,
+   "en": "{07 03 00}Thank you so very much!",
+   "et": ""
+  },
+  {
+   "id": 28,
+   "en": "{07 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 1b 00}Thanks a lot!",
+   "et": ""
+  },
+  {
+   "id": 29,
+   "en": "{07 00 00}Ah, yes! What an eye! That \n{0b 02 00}{04 1b 00} is\na mere {04 11 00} Bells!\n{07 0b 00}You want it? Decide quick! I\nhad another cousin in here\nlast week eyeing it!{02 04 00 00 23}\nI'll buy it!\nNo, thanks.",
+   "et": ""
+  },
+  {
+   "id": 30,
+   "en": "{07 1d 00}Ah, what an eye!{01 00 00 05 00} {ff 00 00 06}Crazy Redd{ff 00 00 00}\nwon't be foolin' you anytime\nsoon! He can see that!\n{07 14 00}Yes, yes.{01 00 00 05 00} Now that there \n{0b 02 00}{04 1b 00} is \nquite the little item.\n{07 11 00}I suppose {ff 00 00 08}Crazy Redd's {ff 00 00 00}can\npart with it for the low,\nlow price of {04 11 00} Bells!\nSo can I wrap that up\nfor you?{02 04 00 00 23}\nI'll take it!\nNo, thanks.",
+   "et": ""
+  },
+  {
+   "id": 31,
+   "en": "{07 1d 00}{0b 03 00}{04 1b 00}!!{01 00 00 0f 00}\n{07 0d 00}Cousin, you've got incredible\ntaste!{01 00 00 05 00} Ol' {ff 00 00 06}Redd {ff 00 00 00}is in awe!\n{07 00 00}Since we're family and all,{01 00 00 05 00}\nI think I can part with it\nfor a mere {04 11 00} Bells!\n{07 0b 00}So?{01 00 00 05 00} What'll it be, friend?{02 04 00 00 23}\nI'll take it!\nNo, thanks.",
+   "et": ""
+  },
+  {
+   "id": 32,
+   "en": "{07 04 00}Yep!{01 00 00 05 00} I knew it{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} {07 00 00}Folks who\nknow,{01 00 00 05 00} they just know! Am I\nright or what?!\n{07 00 00}Now, you see? That there\n{0b 02 00}{04 1b 00}{01 00 00 0a 00}\nis a very rare piece!\n{ff 00 00 06}{07 11 00}Redd{ff 00 00 00} doesn't get 'em very\noften, and when he does,\nthey walk out the door!\n{07 19 00}You want it? It's yours! How\ndoes {01 00 00 05 00}{04 11 00} Bells sound\nto a smart cookie like you?\n{07 00 00}Redd's giving you a special\nbreak here{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}because he's\n{07 00 00}{01 08 00}{07 02 00}CCCCRRRAAAAAZZZZZYYYYY!!!\n{07 00 00}So, what'll it be, friend?{02 04 00 00 23}\nI'll buy!\nI'll pass.",
+   "et": ""
+  },
+  {
+   "id": 33,
+   "en": "{07 00 00}Ah! I see you've noticed the\n{0b 02 00}{04 1b 00}!{01 00 00 05 00}\nThat's a very nice item!\nIt took ol' {ff 00 00 06}Redd {ff 00 00 00}a long time\nto get his hands on that!{01 00 00 05 00} A\nlot of wheeling and dealing!\n{07 11 00}When it comes to items for\n{ff 00 00 08}Crazy Redd's {ff 00 00 00}family,{01 00 00 05 00} I won't\nstop 'til I get it!\n{07 00 00}{07 14 00}And I'm gonna offer it to\nyou for ONLY {04 11 00}\nBells!{01 00 00 0f 00}\nWhat'll it be, friend?{02 04 00 00 23}\nI want it!\nNo, thanks.",
+   "et": ""
+  },
+  {
+   "id": 34,
+   "en": "{07 14 00}You like it?{01 00 00 0a 00} You like that \n{0b 02 00}{04 1b 00}?{01 00 00 0a 00}\nHee hee hee!\n{07 00 00}Yeah, {ff 00 00 08}Crazy Redd's {ff 00 00 00}has been\naround for a dog's year,\nbut I'll tell ya somethin'...\n{07 00 00}{07 16 00}Items of that quality and \ndistinction rarely come\nthrough these doors!\n{07 00 00}{07 11 00}Between you and me,{01 00 00 05 00} I'd like\nto keep it near me for a\nbit longer, but...\n{07 00 00}{07 0e 00}Since we're family and all{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\nI'll part with it for only{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n{04 11 00} Bells!\n{07 0b 00}What's the word, friend?{02 04 00 00 23}\nI'll buy!\nNo way!",
+   "et": ""
+  },
+  {
+   "id": 35,
+   "en": "{07 16 00}Well, that's unfortunate.{01 00 00 0a 00}\nWorse than that, actually{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\nIt's {07 00 00}{07 02 00}{01 08 00}CCCRRRAAAAAAAZZZYYYY!!!\n{07 00 00}But please! {01 00 00 05 00}Stroll through\nthe store! Take a look at\nour other fine wares!",
+   "et": ""
+  },
+  {
+   "id": 36,
+   "en": "{07 0b 00}Really?{07 00 00}{01 00 00 14 00} {07 0c 00}Well, well, {01 00 00 05 00}thanks\nvery much!\n\n{07 14 00}Let's do this before you\nchange your mind! {ff 00 00 04}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}And\nbefore the heat shows up!",
+   "et": ""
+  },
+  {
+   "id": 37,
+   "en": "{07 14 00}Yes, yes! Thank you! What a\nfine decision you made!\nYou're a smart one, Cuz!\n{ff 00 00 04}{07 11 00}And good luck with that\n{0b 02 00}{04 1b 00},\nCousin{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00} Hee hee hee!",
+   "et": ""
+  },
+  {
+   "id": 38,
+   "en": "{07 1d 00}Oh ho! So you want to buy\nit, do you? Excellent!{01 00 00 0f 00}\n{07 00 00}{07 11 00}Hee hee hee{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.",
+   "et": ""
+  },
+  {
+   "id": 39,
+   "en": "{07 1d 00}I sold it!{01 01 00} {07 0d 00}Yeeeeeee haaaaw!\n{ff 00 00 06}Crazy Redd{ff 00 00 00} sold somethin'!\nYip, yip, yawoooooooo!!!\n{07 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 0b 00}Huh?{01 01 00} {07 00 00}{07 14 00}Oh nothin'! Don't you\nworry about it none!{01 00 00 0f 00}\n{07 11 00}Hee hee hee!",
+   "et": ""
+  },
+  {
+   "id": 40,
+   "en": "{07 11 00}{ff 00 00 04}PHEW!{01 00 00 05 00} I'm finally shed of\nthat old thing...{ff 00 00 00}\n\n{07 03 00}Thanks much, cousin!\nHee hee hee hee hee!",
+   "et": ""
+  },
+  {
+   "id": 41,
+   "en": "{07 16 00}What's this?{01 00 00 0f 00} {07 15 00}Hey!{01 00 00 05 00} Kid!{01 00 00 05 00} You\ndon't have enough cash!{01 00 00 0f 00}\nI can't sell it to you!\n{07 00 00}Ol' {ff 00 00 06}Redd {ff 00 00 00}ain't that crazy!!\nGet yer life together and\ncome try me again!",
+   "et": ""
+  },
+  {
+   "id": 42,
+   "en": "{07 16 00}Hey there, friend!{01 00 00 05 00} I know\nyou wanna take advantage\nof this crazy deal{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 00 00}{07 06 00}But those pockets of yours\nare already full!\n\n{07 00 00}{07 14 00}Y'all come back when you've\ngotten rid of some of that\nstuff, OK?",
+   "et": ""
+  },
+  {
+   "id": 43,
+   "en": "{07 00 00}Thanks for the {04 11 00}\nBells!\n\n{ff 00 00 06}{07 14 00}Redd{ff 00 00 00}'ll keep his one good\neye open for other things\nyou might like!",
+   "et": ""
+  },
+  {
+   "id": 44,
+   "en": "{07 04 00}Say{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00} SAAAAAAYYY!!{01 00 00 0f 00} {07 14 00}I see\nthat you have a rather\ninteresting piece there!\n{07 00 00}That{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{ff 00 00 07}red vase{ff 00 00 00} there.\nThat's a very nice item!{01 00 00 05 00}\nYes, quite nice indeed!\n{07 11 00}Could {ff 00 00 06}Redd {ff 00 00 00}convince you to\ntrade it for one of our \nspecialty items?{02 00 00 2e 2d}\nTrade.\nNo way!",
+   "et": ""
+  },
+  {
+   "id": 45,
+   "en": "{07 16 00}Really?{01 00 00 05 00} Aw, that's too bad!{01 00 00 0a 00}\nOl' {ff 00 00 06}Redd {ff 00 00 00}is gonna cry about\nthis one tonight!",
+   "et": ""
+  },
+  {
+   "id": 46,
+   "en": "{07 0d 00}Really?!{01 00 00 0f 00} Thank you so much!\nYou just made {ff 00 00 06}Crazy Redd{ff 00 00 00}'s\nday!\n{07 00 00}{07 14 00}And in exchange, I present\nyou with the special\n{ff 00 00 08}Crazy Redd's {ff 00 00 07}safe{ff 00 00 00}!",
+   "et": ""
+  },
+  {
+   "id": 47,
+   "en": "{07 00 00}Now you be careful with\nthat {ff 00 00 07}safe{ff 00 00 00}{01 00 00 05 00}, you hear?\n\n{ff 00 00 06}{07 11 00}Redd{ff 00 00 00}'s heard that greedy ol'\n{ff 00 00 02}raccoons {ff 00 00 00}{07 14 00}consider it quite\nthe showcase item!",
+   "et": ""
+  },
+  {
+   "id": 48,
+   "en": "{07 00 00}Say, friend! Let ol' {ff 00 00 06}Redd{ff 00 00 00}\ntug on your coat for a\nsecond.\n{07 19 00}Y'know, there are a few\nrare pieces floating around\nthis old world.\n{07 14 00}{ff 00 00 06}Redd{ff 00 00 00}'s thinkin' about the\nspecial antique known as a\n{ff 00 00 07}red vase{ff 00 00 00}. It's just amazing!\n{07 00 00}{07 11 00}A fox just can{01 00 00 03 00}not{01 00 00 0f 00} have\nenough of those babies{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 0a 00}\nIt's {07 00 00}{07 02 00}{01 08 00}CCCRRRAAAAAAAZZZYYY!!",
+   "et": ""
+  },
+  {
+   "id": 49,
+   "en": "{07 11 00}Hee hee! Sorry friend, but{01 00 00 05 00}\n{ff 00 00 06}Redd{ff 00 00 00}'s busy with a customer\nright now{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 10 00 32}\n{07 00 00}Come back later, OK?{01 10 00 32}",
+   "et": ""
+  },
+  {
+   "id": 50,
+   "en": "{07 04 00}Oh!{01 00 00 0f 00} {07 00 00}You're back! Well, don't\nthat just beat all?!{01 00 00 0a 00} {ff 00 00 06}Redd{ff 00 00 00}'s\nhappy as a pig in filth!",
+   "et": ""
+  },
+  {
+   "id": 51,
+   "en": "{07 1d 00}Look at the time!{01 00 00 0f 00} {ff 00 00 06}{07 00 00}Redd{ff 00 00 00}\ncan't believe how late it is!{01 00 00 0f 00}\n{07 04 00}Time's a slippery weasel!{01 10 00 32}\n{07 00 00}I think it's time for us to\ncall it a night and close\nup shop.{01 10 00 32}\n{07 16 00}Yes,{01 00 00 05 00} {ff 00 00 06}Redd{ff 00 00 00}'s got a big day\ntomorrow!{01 00 00 05 00} Gotta wake up'n\npack it in{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 10 00 32}\n{07 14 00}I look forward to seeing\nyou next time{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\nHee hee hee!{01 10 00 32}",
+   "et": ""
+  },
+  {
+   "id": 52,
+   "en": "We're closed for today.\n{07 14 00}Please come again!",
+   "et": ""
+  }
+ ]
+}

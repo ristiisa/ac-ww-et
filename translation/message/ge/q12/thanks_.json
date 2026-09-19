@@ -1,0 +1,20 @@
+{
+ "file": "script/ENG/message/ge/q12/thanks_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 0a 00}I got rid of my cold,{01 00 00 05 00}\nand now I feel SUPER,\n{01 00 00 05 00}{04 02 00}!\n{07 14 00}It's all because of your\n{ff 00 00 07}medicine{ff 00 00 00}, {04 1f 00}! You\nare so crazy nice!\nSo here's a little something\nfor being such a nice\nperson, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 00 00}{0b 03 00}{04 1f 00}, I can't BELIEVE\nyou came to see me so\nmany times!\n{07 14 00}Thanks to you, I'm fully\nrecovered, {01 00 00 05 00}{04 02 00}!\n\n{07 04 00}Oh, yeah!{01 00 00 05 00} Here!{01 01 00} {07 14 00}I want you\nto take this as my\nappreciation token!!",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 14 00}Oh, {04 1f 00}! Thanks to\nyour {ff 00 00 07}medicine{ff 00 00 00},{01 00 00 05 00} I feel, like,\ntotally AMAZING now!\n{07 0c 00}WAIT!{01 01 00} {07 0d 00}I've gotta thank the\nspecial person who saved\nme, {04 1f 00}!",
+   "et": ""
+  }
+ ]
+}

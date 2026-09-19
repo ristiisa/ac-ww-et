@@ -1,0 +1,150 @@
+{
+ "file": "script/ENG/message/ha/3p/ta_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{09 01 00}{09 08 00}{07 0b 00}Why are you lookin' at me\nlike that, {01 00 00 05 00}{04 02 00}?{09 09 00}",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{09 01 00}{09 08 00}{07 0e 00}If you don't work out all\nday, {07 0b 00}what do you spend all\nyour time doing?{09 09 00}",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{06 00 00 14 1b}",
+   "et": ""
+  },
+  {
+   "id": 3,
+   "en": "{07 00 00}{09 00 00}{09 08 00}{09 02 00}{07 00 00}{07 11 00}{01 00 00 0a 00}Hey...you're good at lifting\nstuff, right?{09 09 00}",
+   "et": ""
+  },
+  {
+   "id": 4,
+   "en": "{07 00 00}{09 00 00}{09 06 00}{09 01 00}{07 14 00}Yeah, I'm pretty much the\nbeefiest dude in\n{04 03 00}, {01 00 00 05 00}{04 02 00}!{09 09 00}",
+   "et": ""
+  },
+  {
+   "id": 5,
+   "en": "{09 00 00}{09 08 00}{09 02 00}{07 11 00}Excellent. {01 00 00 05 00}And are you good\nat mindlessly following\ndirections, {04 02 00}?{09 09 00}",
+   "et": ""
+  },
+  {
+   "id": 6,
+   "en": "{09 00 00}{09 06 00}{09 01 00}Heck yeah! I'm a directions-\nfollowin' MACHINE,\n{01 00 00 05 00}{04 02 00}!{09 09 00}",
+   "et": ""
+  },
+  {
+   "id": 7,
+   "en": "{09 00 00}{09 08 00}{09 02 00}{07 00 00}{07 18 00}A hulking lifter that\nfollows directions like a\nrobot?\n{07 0a 00}PERFECT! {01 00 00 0a 00}I've got a house\nfull of furniture for you\nto move, {01 00 00 05 00}{04 02 00}.\nAnd while you're at it,\nmanbot, just pick up and\nmove the whole house.\n{07 11 00}I've been eyeing this\nbeachfront property{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{09 01 00}{03 01 00 01}",
+   "et": ""
+  },
+  {
+   "id": 8,
+   "en": "{07 00 00}{09 00 00}{09 08 00}{09 02 00}{07 14 00}Well, let's see{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{ff 00 00 06}{04 0f 00}{ff 00 00 00}.{01 00 00 05 00}\nI guess I go shopping a lot.{07 00 00}{09 09 00}",
+   "et": ""
+  },
+  {
+   "id": 9,
+   "en": "{09 00 00}{09 06 00}{09 01 00}{07 19 00}Shopping can be a wicked\nworkout! You just gotta get\naggressive!\n{07 00 00}{09 04 00}{09 02 00}{07 00 00}{09 03 00}{09 01 00}Yo, {01 00 00 05 00}{04 1f 00}!{01 00 00 14 00}\n{09 02 00}{09 04 00}{09 01 00}You're into extreme\nshopping, right?{05 05 00 05 0a 03 0d 03 0d 05 10}\nEXTREME!\nChill.",
+   "et": ""
+  },
+  {
+   "id": 10,
+   "en": "{07 15 00}Dude, {ff 00 00 05}{04 1f 00}{ff 00 00 00}!{01 00 00 14 00} I thought\nyou and me were living the\nEXTREME lifestyle?\nI thought you'd back me up,\n{01 00 00 05 00}{04 02 00}!{09 09 00}",
+   "et": ""
+  },
+  {
+   "id": 11,
+   "en": "{09 00 00}{09 08 00}{09 02 00}{09 06 00}{07 14 00}I never thought of shopping\nas a contact sport, but I\nguess you're right.\nThis one time, I did grab a\nsale sweater right out of\nthis girl's hands.\nOh{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.that felt so good,\n{01 00 00 05 00}{04 02 00}!{07 00 00}{09 09 00}",
+   "et": ""
+  },
+  {
+   "id": 12,
+   "en": "{09 00 00}{09 06 00}{09 01 00}{07 15 00}That's what I'm talkin'\nabout!{01 01 00} Get super pumped\nand go totally linebacker!\nIf the sale table is packed\nwith shoppers, run in there\nand start checkin' people!\nSometimes you gotta tackle\nsomeone for a really\ngreat deal!{03 01 00 01}",
+   "et": ""
+  },
+  {
+   "id": 13,
+   "en": "{07 16 00}What's with the wishy-washy\nanswer?! You can't get the\ngold with a 'tude like that!\nYou GOTTA WANT IT!{09 09 00}",
+   "et": ""
+  },
+  {
+   "id": 14,
+   "en": "{09 00 00}{09 08 00}{09 02 00}{09 05 00}Wow, I've never looked at\nshopping as a contact\nsport.{01 00 00 05 00}\nBut, you know, you might\nactually be right!\n\nThis one time, I pushed my\nway to the front of the\nchanging-room line.{09 09 00}",
+   "et": ""
+  },
+  {
+   "id": 15,
+   "en": "{09 00 00}{09 06 00}{09 01 00}{07 04 00}Really?! Dude, I had no idea\nyou were so aggro,\n{04 02 00}!\n{07 15 00}That's exactly the kind of\nfull-contact shopping I\nwanna see out there!\nGet your blockers to pound\na hole through the crowd\nof shoppers for you.\n{07 01 00}Then run up to the register\nand spike your sale item!\nBOOOYAAA!!!{03 01 00 01}",
+   "et": ""
+  },
+  {
+   "id": 16,
+   "en": "{09 01 00}{07 14 00}Yeah!{01 00 00 0a 00} {07 0d 00}I knew you were my\n{04 1f 00}!{09 09 00}",
+   "et": ""
+  },
+  {
+   "id": 17,
+   "en": "{07 14 00}{09 00 00}{09 08 00}{09 02 00}{09 05 00}I guess you're right.\nShopping can get a little\ncompetitive during a sale.\n{07 15 00}So, this one time I saw this\nchick steal something out\nof my cart, {01 00 00 05 00}{04 02 00}!{09 09 00}\nSo I followed her. And when\nshe bent down to grab\na blouse{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n{07 15 00}Bam! {01 00 00 05 00}I pushed her over!\nAhh{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}delicious revenge!",
+   "et": ""
+  },
+  {
+   "id": 18,
+   "en": "{09 06 00}{09 00 00}{09 06 00}{09 01 00}{09 08 00}{07 02 00}WHOA!{01 01 00}\nI didn't know you had that\nin you, {01 00 00 05 00}{04 02 00}!{01 00 00 05 00}\nYou have GOT to try out\nfor my full-contact\nshopping team!\nWith you on my team, we'd\nbe unstoppable!\n\nPeople would stampede away\nfrom the sale rack as soon\nas we showed up!\nAnd if they don't{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}KAPLOW!\nThey get tackled, pinned,\nand plundered!{09 09 00}",
+   "et": ""
+  },
+  {
+   "id": 19,
+   "en": "{09 00 00}{09 02 00}{07 11 00}Extreme deals do call for\nextreme measures.\n\nSign me up for the team,\n{01 00 00 05 00}{04 02 00}!{09 01 00}{03 01 00 01}",
+   "et": ""
+  },
+  {
+   "id": 20,
+   "en": "{09 00 00}{09 02 00}{07 15 00}Oh, dude...that was one\nBRUTAL workout!{03 03 00 01}{09 01 00}{03 01 00 01}{09 09 00}",
+   "et": ""
+  },
+  {
+   "id": 21,
+   "en": "{09 01 00}{09 08 00}{07 0b 00}Uhhh{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}what's that stench?{07 00 00}{09 09 00}",
+   "et": ""
+  },
+  {
+   "id": 22,
+   "en": "{09 00 00}{09 08 00}{09 02 00}{07 15 00}What stench?! Oh, wait,\nyou're talking about me!{01 00 00 0a 00}\n\nYeah, that's the smell of a\nhard day at the gym{01 00 00 0a 00}.{01 00 00 0a 00}.{01 00 00 0a 00}.{01 00 00 0a 00}the\nmusk of a real man!{09 09 00}",
+   "et": ""
+  },
+  {
+   "id": 23,
+   "en": "{09 00 00}{09 06 00}{09 01 00}{07 04 00}Why didn't you\ntake a shower,\n{01 00 00 05 00}{04 02 00}?{09 09 00}",
+   "et": ""
+  },
+  {
+   "id": 24,
+   "en": "{09 00 00}{09 08 00}{09 02 00}{07 02 00}And wash away this manly\nmusk?!{01 00 00 0a 00} {07 15 00}NO WAY!\n\nThe ladies are powerless to\nresist the sweet aroma of\nman sweat.{09 01 00}{07 00 00}{09 02 00}{07 00 00}\n{07 14 00}It's irresistible!{09 09 00}",
+   "et": ""
+  },
+  {
+   "id": 25,
+   "en": "{09 00 00}{09 06 00}{09 01 00}{07 16 00}But I'm a lady! And I think\nit's disgusting!{09 09 00}",
+   "et": ""
+  },
+  {
+   "id": 26,
+   "en": "{07 00 00}{09 00 00}{09 08 00}{09 02 00}{07 1b 00}I know you're just being\nshy!\n\n{01 00 00 05 00}I haven't showered in weeks,\nand I know my spicy man\nscent is driving you WILD!\nWhoa, are you feeling OK?\nYou look like you're gonna\nhurl!",
+   "et": ""
+  },
+  {
+   "id": 27,
+   "en": "{09 01 00}{09 08 00}{07 14 00}Yo, {ff 00 00 06}{01 00 00 05 00}{04 10 00}{ff 00 00 00}! Want a\nfree whiff of my new\ncologne, Eau De Gym Shorts?\n{07 15 00}It's gonna be the next big\nthing in man-grances!\nYou know, man fragrances!{09 09 00}",
+   "et": ""
+  },
+  {
+   "id": 28,
+   "en": "{07 00 00}{09 00 00}{09 08 00}{09 02 00}{07 09 00}...",
+   "et": ""
+  }
+ ]
+}

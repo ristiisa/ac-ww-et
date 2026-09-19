@@ -1,0 +1,20 @@
+{
+ "file": "script/ENG/message/ha/q10/req_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 14 00}{ff 00 00 05}{0b 03 00}{04 1f 00}{ff 00 00 00}!{01 00 00 05 00} My buddy!{01 00 00 0a 00}\n{07 0b 00}We're like family, right?\n\n{07 06 00}Right, so, family members\nhang out.{01 00 00 05 00} I wanna come over\nto your pad sometime{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 15 00}Say, you've been putting on\na little flabbage recently,\nhuh, {04 02 00}?\n{07 14 00}I think maybe I oughta come\nover and work out with you!{01 00 00 14 00}\n{07 0b 00}Is that cool?",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 15 00}Yo yo, {01 00 00 05 00}{ff 00 00 05}{04 1f 00}{ff 00 00 00}!{01 00 00 0a 00}\nHere's a once-in-a-lifetime\nfavor, {01 00 00 05 00}{04 02 00}!\n{07 06 00}Don't ask me why, {01 00 00 05 00}just let\nme do sit-ups in your pad!{01 00 00 14 00}\nPlease, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  }
+ ]
+}

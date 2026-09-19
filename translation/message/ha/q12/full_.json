@@ -1,0 +1,35 @@
+{
+ "file": "script/ENG/message/ha/q12/full_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}Ow, wait, hang on, now!{01 00 00 05 00}\nYour pockets are all full,{01 00 00 05 00}\n{07 0b 00}aren't they?\n{07 00 00}Throw out something or give\nsomething away and come\nback later, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 0e 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}Wait, what the heck?!{01 00 00 0a 00}\n{07 15 00}Man, LOOK at you!{01 00 00 05 00} Your\npockets are totally full!\n{07 14 00}You better deal with that\nspace issue and then come\nback, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 0c 00}Oh yeah!{01 00 00 14 00} {07 14 00}I haven't given you\na gift for that {ff 00 00 07}medicine \n{ff 00 00 00}yet, have I, {01 00 00 05 00}{04 02 00}?",
+   "et": ""
+  },
+  {
+   "id": 3,
+   "en": "{07 1d 00}Whoa!{01 00 00 14 00} I just remembered,\n{07 0b 00}I never thanked you for \nthat, did I?",
+   "et": ""
+  },
+  {
+   "id": 4,
+   "en": "{07 04 00}Whoops!{01 00 00 14 00} {07 15 00}Hey, your pockets\nare still full!\n\n{07 16 00}Man, that ain't gonna work!{01 01 00}\n{07 0b 00}Do you want me to take\nsomething, {01 00 00 05 00}{04 02 00}?",
+   "et": ""
+  },
+  {
+   "id": 5,
+   "en": "{07 16 00}Hey, c'mon, {01 00 00 05 00}{04 1f 00}!{01 00 00 0a 00}\nYour pockets are still\npractically exploding!\n{07 16 00}Look, the way things are,\nI can't give you the thank-\nyou gift yet, {01 00 00 05 00}{04 02 00}.",
+   "et": ""
+  }
+ ]
+}

@@ -1,0 +1,245 @@
+{
+ "file": "script/ENG/message/sp/etc/sequence5_1_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "Oh,{01 00 00 05 00} so you've decided to\nshow your face!{01 00 00 0f 00} I was\nwondering if I'd ever see it!",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "Unfortunately,{01 00 00 05 00} you won't get\nmuch work done if your\npockets are full.\nWhy don't you go drop off\nyour belongings at home\nbefore you start working.",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 04 00}You haven't changed yet!{01 00 00 0f 00}\nAnd what did you do with\nyour {ff 00 00 07}work clothes{ff 00 00 00}?\n{07 16 00}Yes, yes, I'll give you a new\nset,{01 00 00 05 00} so come back after\nyou empty your pockets!",
+   "et": ""
+  },
+  {
+   "id": 3,
+   "en": "All right then, first things\nfirst!{01 00 00 05 00} You'll need to change\ninto these {ff 00 00 07}work clothes{ff 00 00 00}.\nIf you must know,{01 00 00 05 00} everyone\nwho works here is required\nto wear a uniform.",
+   "et": ""
+  },
+  {
+   "id": 4,
+   "en": "{07 04 00}You haven't changed yet?{01 00 00 0f 00}\nWhat did you do with your\n{ff 00 00 07}work clothes{ff 00 00 00}? Hm? Hm?\n{07 16 00}Unbelievable.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0f 00} Here, take\nthis new set,{01 00 00 05 00} but you must\nchange into them this time!",
+   "et": ""
+  },
+  {
+   "id": 5,
+   "en": "{07 04 00}You still haven't dressed!{01 01 00}\n{07 00 00}Either tap the {ff 00 00 01}arrow {ff 00 00 00}on the\n{ff 00 00 01}Touch Screen{ff 00 00 00}...\nor press the{ff 00 00 02} {ff 00 00 01}Y Button {ff 00 00 00}to\nsee what's in your{ff 00 00 01} pockets{ff 00 00 00}.{01 00 00 0a 00}\nFind your {ff 00 00 07}work clothes{ff 00 00 00}...\nThen {ff 00 00 01}touch{ff 00 00 00} them and{01 00 00 05 00}\ndrag them onto your\nbody. {01 00 00 05 00}Easy, hm?{ff 00 00 01}\n{ff 00 00 00}And{01 00 00 05 00} there you go!{01 00 00 05 00}\nCome, come!{01 00 00 05 00} Hurry up\nand change!",
+   "et": ""
+  },
+  {
+   "id": 6,
+   "en": "{07 14 00}Just say the word once\nyou're done changing.",
+   "et": ""
+  },
+  {
+   "id": 7,
+   "en": "{07 19 00}Yes, yes.{01 00 00 05 00} That suits you\njust fine.{01 00 00 05 00}\n\n{07 00 00}And since that's done,{01 00 00 05 00} we'll\nput you right to work.{01 00 00 05 00}\nYes, indeed!",
+   "et": ""
+  },
+  {
+   "id": 8,
+   "en": "First off, I want you to\nplant some trees and\nflowers around my shop.\n{07 14 00}The shopping experience is\ngreatly enhanced{01 00 00 05 00} by clean\nand alluring surroundings!",
+   "et": ""
+  },
+  {
+   "id": 9,
+   "en": "But{01 00 00 0a 00}{07 16 00} if you can't carry\nanything, you can't do any\nwork, unfortunately.\nI'll have to ask you to\nempty your pockets!{01 00 00 0a 00}\n\nAt the very least, make\nroom for seven items,\nyes?",
+   "et": ""
+  },
+  {
+   "id": 10,
+   "en": "{07 00 00}I'm counting on you to\ngive the place a little\ncharm, indeed!\nJust say the word when\nyou're done,{01 00 00 05 00} yes?",
+   "et": ""
+  },
+  {
+   "id": 11,
+   "en": "{07 04 00}That? I select only the\nfinest goods for my\npatrons.\n{07 15 00}I don't sell to employees!",
+   "et": ""
+  },
+  {
+   "id": 12,
+   "en": "{07 06 00}Now, wait just a moment!{01 00 00 0a 00}\nThat's the way to the\nsecond floor!\nYou don't have any errands\nup there!",
+   "et": ""
+  },
+  {
+   "id": 14,
+   "en": "{01 09 00}A{01 00 00 05 00}U{01 00 00 05 00}G{01 00 00 05 00}G{01 00 00 05 00}G{01 00 00 05 00}H{01 00 00 05 00}!{01 01 00} {07 15 00}Why are you not\nwearing{01 00 00 05 00} your {ff 00 00 07}work clothes{ff 00 00 00}?!\n\nIs the uniform I've chosen\nfor my employees{01 00 00 05 00} so\nunpleasant to wear?\n{07 16 00}I say! Kids these days,\nthinking every day should\nbe casual Friday{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 00 00}But I can't be a dinosaur\nin the modern day, can I.{01 00 00 14 00}\nWear what you want.\nJust make sure it doesn't\nleave my customers feeling\n{01 00 00 05 00}uncomfortable, hm?\nA workplace must maintain\na modicum of dignity,\nafter all.",
+   "et": ""
+  },
+  {
+   "id": 15,
+   "en": "Check your {ff 00 00 01}pockets{ff 00 00 00}, and\n{ff 00 00 01}touch{ff 00 00 00} the seeds or sapling\nyou want to plant.\nKeep touching it, and\nyou'll be asked what you\nwant to do with it.\nSimply choose {ff 00 00 02}Plant{ff 00 00 00}. It's as\neasy as that! Yes, indeed!\n\nHowever,{01 00 00 05 00} if something is\nalready there,{01 00 00 05 00} you won't be\nable to plant anything.\n{07 04 00}Oh, yes!{01 00 00 0a 00} I'm sure you know\nthis, but {01 00 00 05 00}make sure you do\nyour planting outdoors!",
+   "et": ""
+  },
+  {
+   "id": 16,
+   "en": "Now, now!{01 00 00 0a 00} Don't dillydally!{01 00 00 05 00} I\nwant you to finish up this\nchore quickly!",
+   "et": ""
+  },
+  {
+   "id": 17,
+   "en": "{07 0b 00}So did you give the grounds\nsome charming character\nwith the plants?\n{07 00 00}I suppose I'll have to trust\nto your sense of style,\nwon't I,{01 00 00 05 00} {04 00 00}?\n{07 0e 00}Now then,{01 00 00 0a 00} what should I\nhave you do next{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.",
+   "et": ""
+  },
+  {
+   "id": 18,
+   "en": "{07 04 00}Oh, how silly of me.{01 00 00 0f 00} I just\nremembered something I had\ncompletely forgotten{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 00 00}{0b 03 00}{04 00 00},{01 00 00 05 00} you've only\njust arrived in {04 03 00},\nno?\nWell,{01 00 00 05 00}{07 0b 00} have you introduced\nyourself to everyone in\n{04 03 00} yet?\n{07 00 00}Tell you what:{01 00 00 05 00} you've worked\ndiligently, so I'll let you\ntake a little break, yes?\n{07 19 00}Use{01 00 00 05 00} this time to\nintroduce yourself to your\nneighbors--my customers!\n{07 00 00}Be sure to knock before\nentering their houses. You\ndon't want to shock anyone.\n{07 04 00}Oh!{01 00 00 0a 00} And don't forget to\nintroduce yourself to the{ff 00 00 06}\nmayor{ff 00 00 00}, too!\n{07 00 00}He should be out for a walk\nnear the {ff 00 00 08}town hall{ff 00 00 00},{01 00 00 05 00} so look\nfor him around there.\n{07 14 00}Very well, now!{01 00 00 05 00} On your way!\nNo dawdling!",
+   "et": ""
+  },
+  {
+   "id": 19,
+   "en": "Be sure to introduce\nyourself to all the\ntownsfolk{01 00 00 05 00} and {ff 00 00 06}mayor{ff 00 00 00}!",
+   "et": ""
+  },
+  {
+   "id": 20,
+   "en": "{07 0b 00}Hmm? You met everyone?{01 00 00 0f 00} I'm\nnot so sure. You could have\neasily missed someone.\n{07 00 00}Be sure to meet everyone\nin town,{01 00 00 05 00} including the{ff 00 00 06}\nmayor{ff 00 00 00}!",
+   "et": ""
+  },
+  {
+   "id": 21,
+   "en": "Don't just give them a nod{01 00 00 05 00}\nand a hello. Oh, no no.{01 00 00 05 00} You\nbe sure to chitchat, too.\n{07 14 00}Relationships are built on\ntrust, after all.{01 00 00 0a 00} Not to\nmention communication!",
+   "et": ""
+  },
+  {
+   "id": 22,
+   "en": "{07 0b 00}Did you introduce yourself\nto everyone?\n\n{07 14 00}Yes, yes! You'll get your\nbearings in {04 03 00}\nfaster by making friends!",
+   "et": ""
+  },
+  {
+   "id": 23,
+   "en": "{07 04 00}Oh!{01 00 00 0a 00} {0b 03 00}{04 00 00},{01 00 00 0a 00} you know\nbetter than to come to\nwork with your pockets full!\n{07 06 00}Can't you go empty them\nout somewhere, hm?{01 00 00 05 00} Go on,\nnow!",
+   "et": ""
+  },
+  {
+   "id": 24,
+   "en": "I suppose I'll put you in\ncharge of furniture\ndelivery for me.\nSurely this is the type of\nwork you had in mind when\nyou accepted the job, no?\nSo,{01 00 00 05 00} I'd like you to deliver\nthis furniture to\n{ff 00 00 06}{04 10 00}{ff 00 00 00}. Go on!",
+   "et": ""
+  },
+  {
+   "id": 25,
+   "en": "And don't stop to chew the\nfat along the way!{01 00 00 05 00}\nGo straight there!\nAnd then come straight\nback!{01 00 00 05 00} And let me know as\nsoon as you're done, yes?",
+   "et": ""
+  },
+  {
+   "id": 26,
+   "en": "{07 0b 00}So did you give the grounds\nsome charming character\nwith the plants, hm?\n{07 00 00}I suppose I'll have to trust\nto your sense of style,\nwon't I,{01 00 00 05 00} {04 00 00}?",
+   "et": ""
+  },
+  {
+   "id": 28,
+   "en": "If you forget who the\nrecipient is, just {ff 00 00 01}touch{ff 00 00 00} the\nitem in your {ff 00 00 01}pockets{ff 00 00 00}.\nYou'll be reminded of who is\nwaiting for it!{01 00 00 05 00}\n\nAnd you can check your\n{ff 00 00 07}map{ff 00 00 00} to see where the\naddressee lives.\nDon't let me down now!{01 01 00} {07 14 00}I'm\ncounting on you{01 00 00 05 00} to make\nthis delivery. Good luck!",
+   "et": ""
+  },
+  {
+   "id": 30,
+   "en": "{07 14 00}Welcome back!{01 00 00 05 00} Welcome back!{01 00 00 0f 00}\nCongratulations{01 00 00 14 00} on your\nfirst successful delivery!\n{07 00 00}You may not look the part,{01 00 00 05 00}\n{07 19 00}but you are surprisingly\ndedicated and efficient!\n{07 00 00}Of course,{01 00 00 05 00} the folks who\nget the job done{01 00 00 0a 00} get more\njobs to do! Yes, indeed!",
+   "et": ""
+  },
+  {
+   "id": 31,
+   "en": "Your next task is to\ncompose some copy for\na direct mailing.\n{07 19 00}It will be a personalized\npitch to my valued\ncustomer,{01 00 00 05 00} {ff 00 00 06}{04 0f 00}{ff 00 00 00}.\n{07 00 00}Obviously, start with a word\nof gratitude for\n{ff 00 00 06}{04 0f 00}{ff 00 00 00}'s patronage.\n{07 14 00}And then include\ninformation about our\nspecial sale!\n{07 00 00}Yes, yes.{01 00 00 0a 00} You can write it\non this stationery.",
+   "et": ""
+  },
+  {
+   "id": 32,
+   "en": "You can mail letters at the\n{ff 00 00 08}post office{ff 00 00 00}{01 00 00 05 00} in the{ff 00 00 08} town\nhall{ff 00 00 00}. It's all very simple.\n{07 19 00}Now, be quick about it!{01 00 00 05 00} But\nI will not tolerate sloppy\nwork! {01 00 00 05 00}Correct any typos!",
+   "et": ""
+  },
+  {
+   "id": 33,
+   "en": "To write a letter,{01 00 00 05 00} just {ff 00 00 01}tap\n{ff 00 00 00}the stationery. Next, {ff 00 00 01}tap{ff 00 00 00}\n{ff 00 00 02}Write Letter{ff 00 00 00}. Simple, yes?",
+   "et": ""
+  },
+  {
+   "id": 34,
+   "en": "Do you need new paper to\nwrite your letter?{02 04 00 25 26}\nGrand idea!\nNope! I'm good.",
+   "et": ""
+  },
+  {
+   "id": 37,
+   "en": "Yes, yes.{01 00 00 0a 00} Here{01 00 00 05 00} is your new\nstationery!",
+   "et": ""
+  },
+  {
+   "id": 38,
+   "en": "Now,{01 00 00 05 00} you be quick about\nhammering that out.\n\n{07 14 00}And let me know as soon as\nyou're done!",
+   "et": ""
+  },
+  {
+   "id": 39,
+   "en": "Welcome back!{01 00 00 0f 00}{07 0b 00} Did you get\nthat letter sent off?\n\n{07 0e 00}Hmm{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} Something seems\namiss. {01 00 00 05 00}A little fishy, yes.\n\n{07 16 00}Don't tell me{01 00 00 05 00} you sent it to\nthe wrong person! {01 00 00 05 00}You did,\ndidn't you?\nI don't know why,{01 00 00 05 00} but that's\nthe feeling I have in my\ngut.\n{07 00 00}I know it's a baseless\nhunch,{01 00 00 05 00} but I still want you\nto send the letter again!\nAnd this time,{01 00 00 05 00} be sure to\naddress it to {ff 00 00 06}{04 0f 00}{ff 00 00 00}!{01 00 00 0a 00}\nIndeed!",
+   "et": ""
+  },
+  {
+   "id": 40,
+   "en": "{07 0b 00}Well? {01 00 00 05 00}Did you send it?{01 01 00}\n{07 19 00}Yes, yes.{01 00 00 05 00} Good work. Nice\njob. Well done.\n{07 00 00}It took a little longer than\nI expected,{01 00 00 0a 00} but {01 00 00 05 00}you got\nthe job done.\nFolks in {04 03 00}{01 00 00 05 00} love\ngetting mail. If you don't\nknow how to send one{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\nIt will come back to bite\nyou later.",
+   "et": ""
+  },
+  {
+   "id": 41,
+   "en": "Now then,{01 00 00 0a 00} your next task\nwill be to deliver a carpet!\n\n{07 19 00}No slacking off this time!{01 00 00 05 00}\nUnderstand, hm?\n\n{07 00 00}This carpet{01 00 00 05 00} is going to\n{ff 00 00 06}{04 10 00}{ff 00 00 00}, so I need you\nto get it there.",
+   "et": ""
+  },
+  {
+   "id": 42,
+   "en": "And don't think that you\ncan dillydally just because\nI'm not watching you.\n{07 11 00}And no idle chitchat along\nthe way, either. {01 00 00 05 00}You\nunderstand me, yes?\n{07 14 00}Good, then.{01 00 00 05 00} Just let me\nknow once you're done.",
+   "et": ""
+  },
+  {
+   "id": 43,
+   "en": "{07 06 00}Don't stand around here\nfishing for gossip! You\nhave a delivery to make!\n{07 14 00}My favorite saying is{01 00 00 05 00}\n\"Time is money.\"{01 00 00 05 00} You'd be\nwise to remember that!",
+   "et": ""
+  },
+  {
+   "id": 44,
+   "en": "{07 14 00}Welcome back! Welcome back!\nAnd nice job!\n\nLooks like you're finally\ngetting the hang of things\naround here!\n{07 19 00}Why, if you keep this up, I\nmight consider offering you\na permanent position!{07 00 00}",
+   "et": ""
+  },
+  {
+   "id": 46,
+   "en": "Next, I need you to deliver{01 00 00 05 00}\na {ff 00 00 07}watering can{ff 00 00 00} to\n{ff 00 00 06}{04 10 00}{ff 00 00 00}!\n{07 04 00}And don't get any ideas!{01 00 00 0f 00} No\nusing the products you're\ndelivering to others!\n{07 00 00}If you get the urge to\nwater withering flowers,{01 00 00 05 00}\n\n{07 14 00}you'll have to do it on your\nown time,{01 00 00 05 00} with a can you\nbuy with your own money!",
+   "et": ""
+  },
+  {
+   "id": 48,
+   "en": "{07 00 00}Since that's cleared up,{01 00 00 05 00} get\nout there and show the\nworld how well you deliver!\nAnd let me know when you're\ndone,{01 00 00 0a 00} yes?",
+   "et": ""
+  },
+  {
+   "id": 49,
+   "en": "{07 14 00}Welcome back!{01 00 00 0f 00} You are\nworking hard indeed!\n\n{07 00 00}Now, now!{01 00 00 05 00} Next up{01 00 00 05 00} on your\nwork schedule is.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}um.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 14 00}\n{07 0c 00}Yes, yes!{01 00 00 05 00} Now I remember!\n{07 00 00}{07 0b 00}Have you seen the {ff 00 00 08}bulletin\nboard{ff 00 00 00}{01 00 00 05 00} near the {ff 00 00 08}town hall{ff 00 00 00}?\n\n{07 00 00}I want you to post a nice\nadvertisement for my shop{01 00 00 05 00}\non that {ff 00 00 08}bulletin board{ff 00 00 00}.\n{07 04 00}Oh,{01 00 00 0f 00} you don't have to think\ntoo hard about it.{01 00 00 05 00} Anything\nwill do.\n{07 14 00}Just write something that\nthe kids these days will\nthink is \"catchy\" and \"cool.\"\n{07 00 00}But once you post a notice\non that {ff 00 00 08}bulletin board{ff 00 00 00},{01 00 00 0a 00}\nyou can't erase it.\nSo, don't write anything too\nembarrassing.\n\n{07 14 00}I'll be waiting for you,{01 00 00 05 00} so\ndon't take too long!{01 00 00 0f 00} And let\nme know once you're done!",
+   "et": ""
+  },
+  {
+   "id": 50,
+   "en": "{07 14 00}You don't have to give it\ntoo much thought.\n\nWhy,{01 00 00 05 00} everyone knows a true\nsalesman doesn't even need\nto know what he's selling!",
+   "et": ""
+  },
+  {
+   "id": 51,
+   "en": "Welcome back!{01 00 00 0f 00}{07 0b 00} Did you come\nup with something good?\n\n{07 19 00}Good, good.{01 00 00 0a 00} Well done.{01 00 00 0f 00}\n{07 00 00}So,{01 00 00 05 00} that means{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 0a 00}Oh!{01 00 00 05 00} You're done!{01 00 00 05 00} You're done!{01 00 00 0f 00}\nAll the stacked-up work I\nhad that needed doing{01 00 00 05 00} is\nall done!\nSince I no longer have any\nwork for you,{01 00 00 05 00} I'm afraid\nI'll have to lay you off!",
+   "et": ""
+  },
+  {
+   "id": 52,
+   "en": "{07 0b 00}Hm? What's that?{01 00 00 0a 00} Your\nmortgage?\n\n{07 00 00}Oh, well, of course{01 00 00 05 00} you'll\nstill have to pay{01 00 00 05 00} every{01 00 00 05 00} last\n{01 00 00 05 00}Bell{01 00 00 05 00} of it back!\nIf I deduct your wages so\nfar,{01 00 00 05 00} {ff 00 00 02}1,400 Bells{ff 00 00 00},{01 00 00 05 00}{07 14 00} you have\nonly{01 00 00 05 00} {ff 00 00 02}{04 11 00} Bells{ff 00 00 00} left!",
+   "et": ""
+  },
+  {
+   "id": 53,
+   "en": "{07 00 00}Since there's no more work\nfor you to do here,{01 00 00 05 00} you'll\nhave to find other methods.\nBut you can sell anything\nyou don't need{01 00 00 05 00} and save up\nmoney that way.\n{07 14 00}Of course, if you do want\nto{01 00 00 05 00} sell anything, just let\nme know. I pay top Bell!\n{07 00 00}You may also be able to\nmake a living{01 00 00 05 00} running\nerrands for the townsfolk.\nIf you help them without\nmuch grumbling,{01 00 00 05 00} they may\njust reward you.\n{07 04 00}Oh, yes!{01 00 00 0a 00} Make payments at\nthe {ff 00 00 08}town hall{ff 00 00 00}{07 00 00} by depositing\nthem into my account.\nOnce you've paid off your\nloan,{01 00 00 05 00} {07 14 00}we can talk about\nremodeling your house.\n{07 00 00}Your house is quite small\nnow.{01 00 00 05 00} I'm sure you'd like\nmore space to stretch out.\n{07 14 00}Anyway,{01 00 00 05 00} thanks for your\nhard work,{01 00 00 05 00} but your work is\ndone here!\n{07 19 00}But I do hope to see you in\nmy store again soon{01 00 00 05 00} to\nshop, of course!{01 00 00 05 00} Yes, yes!",
+   "et": ""
+  },
+  {
+   "id": 54,
+   "en": "So, {04 00 00}{01 00 00 05 00} do you\nthink you know all you need\nto know about life in town\n{07 0b 00}{01 00 00 05 00}and about saving money? {01 01 00}{07 00 00}Oh!{01 00 00 0a 00}\n{01 00 00 05 00}No worries! I won't charge\nfor this little lesson.\nI'm not that cheap.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0f 00}\n{07 14 00}Don't think so little of me!{01 00 00 0a 00}\n\n{07 00 00}But{01 00 00 05 00} since I have no more\nwork for you,{01 00 00 05 00} you'll have to{01 00 00 0a 00}\nmake your way on your own.\nYou know,{01 00 00 05 00} by hawking\nthings you don't need to\nraise some cash.\n{07 14 00}If you do want to sell\nanything,{01 00 00 05 00} just say the word.\nI pay top Bell!\n{07 00 00}Of course,{01 00 00 05 00} if any of the\ntownsfolk ask you for a\nfavor,\nthey're likely to reward you{01 00 00 05 00}\nif you don't grumble much.\n\n{07 14 00}Sooo,{01 00 00 05 00} thank you for all\nyour hard work.\n\n{07 19 00}And remember,{01 00 00 05 00} {ff 00 00 06}Tom Nook{ff 00 00 00} is\nhere for all your shopping\nneeds!{01 00 00 05 00} Yes, yes!",
+   "et": ""
+  }
+ ]
+}

@@ -1,0 +1,20 @@
+{
+ "file": "script/ENG/message/ta/q09/over_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 04 00}Oh, hey,{01 00 00 05 00} you found me!{01 00 00 05 00}\nThat's cool {01 01 00}{07 00 00}but you know\nyour time's up, right?\n{07 14 00}So it seems the tables have\nturned!{01 00 00 05 00} I'm the winner of\nthis one, {01 00 00 0a 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 16 00}Well,{01 00 00 05 00} yeah, you found me and\nall {01 00 00 0a 00}but, time's up,\n{01 00 00 0a 00}{04 02 00}!\n{07 14 00}You would have won if you'd\ngotten here a little sooner\nbut{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.\nWell, {01 00 00 05 00}{07 14 00}I guess \"day late,\ndollar short\" is kinda the\nstory of your life, huh!",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 04 00}Oh,{01 00 00 05 00} you found me?!{01 01 00}{07 00 00} What a\nsham!{01 00 00 05 00} Well, I didn't lose!\nNo! Not me, {01 00 00 05 00}{04 02 00}!\n{07 14 00}But{01 00 00 0a 00} time's up!{01 00 00 14 00} Too bad, so\nsad! {01 00 00 05 00}You're the LOSER!\n\n{07 00 00}Oh,{01 00 00 05 00} don't cry!{01 01 00} You can\nalways try again!\n{01 00 00 0a 00}{0b 03 00}{04 02 00}!",
+   "et": ""
+  }
+ ]
+}

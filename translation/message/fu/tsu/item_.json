@@ -1,0 +1,100 @@
+{
+ "file": "script/ENG/message/fu/tsu/item_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 16 00}{0b 03 00}{04 1f 00},{01 00 00 05 00} you have to\nhelp me, because I've got\na real dilemma for you.\n{07 00 00}See,{01 00 00 05 00} I'm having a tough\ntime cooking spaghetti,\nand I need answers, STAT!\nDo you know{01 00 00 05 00}{07 0b 00} how long I\nshould cook my spaghetti\nto get it al dente?{05 05 00 02 04 06 03 06 03 02 04}\n11 minutes\n9 minutes",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{0b 03 00}{04 1f 00},{01 00 00 05 00} do you have a\ncup on you?{02 01 00 07 08 09}\nOf course!\nNot on me, no.\nWhy would I?",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "Hey, {01 00 00 05 00}{04 1f 00},{01 00 00 0f 00} you want\n{04 1a 00}?\n'Cuz I've got a spare.{02 00 00 10 11}\nOoo, yeah!\nNo, thanks.",
+   "et": ""
+  },
+  {
+   "id": 3,
+   "en": "{06 01 00 05 05 04}",
+   "et": ""
+  },
+  {
+   "id": 4,
+   "en": "{07 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 0c 00}That{01 00 00 14 00}{07 14 00} sounds delightful,\n{04 1f 00}. I mean, it\nsounds just fine.\nIt's good to know how you\nlike your food cooked.{01 00 00 0a 00}\nThanks!",
+   "et": ""
+  },
+  {
+   "id": 5,
+   "en": "{07 04 00}Wow!{01 00 00 0a 00} And then you just\nfling it at a wall,{01 00 00 05 00} and if\nit sticks, it's done?\n{07 14 00}So THAT'S al dente!{01 00 00 0a 00}{07 00 00} I guess\nI've always liked my pasta\na little hard on the inside.\n{07 0d 00}A little firmness gives\nyour teeth something to\nsink into, {01 00 00 05 00}{04 02 00}.\nAnd to show you my\nappreciation for the help,{01 00 00 05 00}\n{07 14 00}I've got a gift for you!",
+   "et": ""
+  },
+  {
+   "id": 6,
+   "en": "{07 14 00}It's just a little something\nI thought you'd like. It's\n{04 1a 00}.",
+   "et": ""
+  },
+  {
+   "id": 7,
+   "en": "{07 04 00}Wow!{01 00 00 0a 00} That's my {07 14 00}{04 1f 00}!\n\n\n{07 00 00}It's always a good idea to\nhave a clean cup on you\nwhen you go out anywhere.\nIt's the only way to be\nsure you're not drinking\nfrom a germ-filled cup.\n{06 01 00 0a 0b 0b}",
+   "et": ""
+  },
+  {
+   "id": 8,
+   "en": "{07 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 0b 00}Is that so?{01 00 00 0a 00} {07 16 00}What's wrong\nwith all of you? Doesn't\nanyone worry about germs?\n{06 01 00 0d 0e 0e}",
+   "et": ""
+  },
+  {
+   "id": 9,
+   "en": "{07 00 00}Oh, you know, like when I go\nto {04 0c 00}'s house, {07 06 00}and\nI KNOW the cups are dirty?\n{07 00 00}Well, I like to be prepared\nand bring my own cup with\nme, one I know is clean!\nThat way, {07 16 00}if {04 0c 00}\noffers me a big glass of\n{04 13 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n{07 00 00}I just reach into my pocket\nand pull out a nice, clean\ncup, {01 00 00 05 00}{04 02 00}!\n{07 16 00}There's not a chance I'm\ngoing to let that old\nso-and-so give ME cooties!",
+   "et": ""
+  },
+  {
+   "id": 10,
+   "en": "{07 00 00}Are you always this well\nprepared?{01 00 00 0a 00} {07 14 00}I'm impressed,\n{01 00 00 05 00}{04 02 00}.",
+   "et": ""
+  },
+  {
+   "id": 11,
+   "en": "{07 08 00}That's so{01 00 00 05 00} smart!{01 00 00 14 00}\n{07 16 00}Here, {01 00 00 05 00}take this!",
+   "et": ""
+  },
+  {
+   "id": 12,
+   "en": "{07 14 00}It's nothing special. Just\n{04 1a 00}.{01 00 00 0a 00}{07 00 00}\nBut I want you to have it.\n{07 0a 00}It's a reward for knowing\njust how important good\nsanitation is, {01 00 00 05 00}{04 02 00}.",
+   "et": ""
+  },
+  {
+   "id": 13,
+   "en": "{07 14 00}{0b 03 00}{04 1f 00}, promise me\nyou'll at least wash your\nhands regularly, will you?",
+   "et": ""
+  },
+  {
+   "id": 14,
+   "en": "{07 14 00}{0b 03 00}{04 1f 00}, I want you to\nhave a little reminder to\nhelp keep you germ free.\nIt's nothing special, but\nhere. I want you to have\nthis, {01 00 00 05 00}{04 02 00}.",
+   "et": ""
+  },
+  {
+   "id": 15,
+   "en": "{07 14 00}It's nothing major. Just\n{04 1a 00}.{01 00 00 0a 00}\nBut I hope it helps.\n{07 0d 00}Just remember, always wash\nyour hands, {04 1f 00},\nand keep a clean cup handy!",
+   "et": ""
+  },
+  {
+   "id": 16,
+   "en": "{07 04 00}Really?{01 00 00 0f 00}{07 14 00} Thank goodness.\nI was starting to think I'd\nnever get rid of it!{01 00 00 05 00} Here!",
+   "et": ""
+  },
+  {
+   "id": 17,
+   "en": "{07 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 16 00}Of course.\nWho'd want a used\n{0b 02 00}{04 1a 00}?\n{07 0f 00}I'm sorry for trying to\npush my old trash on you,\n{01 00 00 05 00}{04 02 00}.{03 03 00 01}",
+   "et": ""
+  },
+  {
+   "id": 18,
+   "en": "{07 16 00}I thought I'd lost it ages\nago, and then I bought a\nnew one to replace it{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\nI didn't just want to throw\nit away,{01 00 00 0f 00}{07 14 00} so I'm glad you're\nwilling to take it!",
+   "et": ""
+  }
+ ]
+}

@@ -1,0 +1,50 @@
+{
+ "file": "script/ENG/message/ge/ai/mfirst_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 14 00}Nice to meet you! {01 01 00}My name's\n{04 01 00}. {01 00 00 05 00}I moved here\nfrom {ff 00 00 08}{04 10 00}.{ff 00 00 00}\nJust so you know, my\nname's pronounced the\nFrench way!",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 14 00}Howdy! {01 00 00 0a 00}I'm {04 01 00} from\n{ff 00 00 08}{04 10 00}{ff 00 00 00}. {01 00 00 0a 00}Well, I guess\nI'm from {04 03 00} now!\n{07 00 00}My sign is {04 0f 00}, and\nlately, I totally love\n{04 17 00}!\n{07 0e 00}What else{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}. {01 01 00}{07 14 00}Well, feel free\nto bug me! If I don't know\nthe answer, I just fake it!",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 14 00}Hey, {01 00 00 05 00}have we met? {01 01 00}I'm from\n{01 00 00 05 00}{ff 00 00 08}{04 10 00}{ff 00 00 00}. My name's\n{04 01 00}!\n{07 00 00}So, you're {04 1f 00}, huh?{01 00 00 05 00}{ff 00 00 08}\n{ff 00 00 00}{07 04 00}Neat! {01 01 00}{07 0d 00}That name is, like, so\nadorably cute, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 3,
+   "en": "{07 0a 00}I'm not sure why, {01 00 00 05 00}but my\nhappy meter is all the way\nin the red!\n{07 14 00}I'm {04 01 00}, originally\nfrom {ff 00 00 08}{04 10 00}{ff 00 00 00}. You seem\nlike fun, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 4,
+   "en": "{07 14 00}Nice to meet you!{01 00 00 05 00}\nI'm {04 01 00}!\n\n{07 00 00}I'm embarrassed to admit\nit, but I was a {07 14 00}celebrity in\n{ff 00 00 08}{04 10 00}{ff 00 00 00}, my last home.{01 00 00 05 00}\nWell, {01 00 00 05 00}since I came all this\nway, {01 00 00 05 00}we may as well be\nfriends.\n{07 00 00}You're {01 00 00 05 00}{04 1f 00}, right?{01 00 00 0a 00}\n{07 14 00}Here's to us, {01 00 00 05 00}{04 02 00},\nand dodging the paparazzi!",
+   "et": ""
+  },
+  {
+   "id": 5,
+   "en": "{07 15 00}I thought I felt someone's\nbeady eyes staring at me!{01 00 00 05 00}\nWas that you?\n{07 00 00}My name's {04 01 00}!{01 00 00 0a 00}\nMy best features are my\nnose, my eyes, my mouth{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 06 00}And of course,{01 00 00 05 00} MY GIGANTIC\nbrain!{01 01 00}{07 03 00} You will, {01 00 00 05 00}like,\nTOTALLY FEAR ME!",
+   "et": ""
+  },
+  {
+   "id": 7,
+   "en": "{07 00 00}Oh, {04 1f 00},{01 00 00 05 00} didn't you,{01 00 00 03 00}\nlike,{01 00 00 03 00} move or something?\n{07 15 00}I can't believe you'd leave\nme here all alone with all\nthese.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}ANIMALS!\n{07 05 00}Hmph! {01 00 00 05 00}I'll have you know\nthat I can stay mad for a\nLONG TIME!",
+   "et": ""
+  },
+  {
+   "id": 8,
+   "en": "{07 04 00}Oh,{01 00 00 0a 00} {04 1f 00}! {01 00 00 05 00}I thought\nyou'd moved! That was the\ngossip at the {01 00 00 05 00}coffeehouse.\n{07 14 00}I guess you realized that\n{01 00 00 05 00}life is just no fun without\nme, didn't you, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 9,
+   "en": "{07 04 00}Oh, {01 00 00 05 00}{04 1f 00},{01 00 00 0a 00} didn't you,{01 00 00 03 00}\nlike,{01 00 00 03 00} move?{01 01 00} {07 00 00}Oh.{01 00 00 05 00} I get it.\nYou left something behind.\nWas it.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}{07 03 00}YOUR HEART?!{01 01 00} {07 1b 00}Yep,\nthat's what I thought!",
+   "et": ""
+  }
+ ]
+}

@@ -1,0 +1,20 @@
+{
+ "file": "script/ENG/message/ta/q12/report_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 00 00}Oh, {01 00 00 05 00}yes.{01 00 00 14 00} {07 14 00}I finally got over\nthat nasty cold! {01 00 00 05 00}I thought I\nwas gonna keel over there!\n{07 14 00}It's all thanks to that\n{ff 00 00 07}medicine{ff 00 00 00} that you brought\nme, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 00 00}Oh, hey, {01 00 00 05 00}{04 1f 00}.{01 00 00 0a 00} {07 14 00}Thanks\nfor the {ff 00 00 07}medicine{ff 00 00 00}!\n\n{07 16 00}I know you saw me at my\nnot-so-best{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}. {07 00 00}So please\nforget that you saw that.",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 14 00}Thanks to everyone who\ntook such good care of me,\nI finally kicked that cold!\n{07 0d 00}Oh, and{01 00 00 05 00} that {ff 00 00 07}medicine{ff 00 00 00} that\nyou brought me{01 00 00 05 00} really did\nthe trick!",
+   "et": ""
+  }
+ ]
+}

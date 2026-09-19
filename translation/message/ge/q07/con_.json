@@ -1,0 +1,20 @@
+{
+ "file": "script/ENG/message/ge/q07/con_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 04 00}Aiiigh!{01 00 00 05 00} {0b 03 00}{04 1f 00}!{01 00 00 14 00}\n{07 00 00}You still have that letter?!\n\n{07 14 00}I told you to deliver it\nASAP, {01 00 00 05 00}{04 02 00}!\n\n{07 06 00}{ff 00 00 06}{04 10 00} {ff 00 00 00}is NOT patient!{01 00 00 05 00}\nIf you don't deliver it\nquick, it's gonna get ugly!",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 15 00}Booooo!{01 00 00 05 00} That's right, BOOOO!{01 00 00 05 00}\nYou gotta go give that\nletter to {ff 00 00 06}{04 10 00}{ff 00 00 00}!\n{07 16 00}You jerk! {01 00 00 05 00}You totally forgot\nall about it, didn't you?!{01 00 00 05 00}\nDIDN'T YOU, {01 00 00 05 00}{04 02 00}?!",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 06 00}It's almost too late!{01 00 00 0a 00} You\ngotta go deliver that\nletter, quick!\n{07 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 11 00}You're one of those\npeople who crams for tests\nthe night before, huh?",
+   "et": ""
+  }
+ ]
+}

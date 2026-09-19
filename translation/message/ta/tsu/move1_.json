@@ -1,0 +1,90 @@
+{
+ "file": "script/ENG/message/ta/tsu/move1_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 16 00}Hey, {01 00 00 05 00}{04 1f 00}.{01 00 00 0a 00} {07 06 00}I know\nthis is sudden, {01 00 00 05 00}but I've\ndecided to move!\n{07 19 00}It's not your business,{01 00 00 0a 00} {07 1b 00}but\nI've got a dream I have to\npursue. {01 01 00}{07 00 00}Someplace else.",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 04 00}Oh, hey, {01 00 00 0a 00}{04 1f 00}. {07 14 00}I know\nit's sudden, but I'm moving,\n{01 00 00 0a 00}{04 02 00}.\n{07 1b 00}I'm not chasing a boy or\nanything foolish like that.{07 00 00}{01 00 00 05 00}\nDon't you worry!",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 04 00}Hi, {04 1f 00}!{07 00 00}{01 00 00 05 00} Look, I\ngotta break some bad news\nto you. {01 00 00 0a 00}I'm moving.\n{07 1c 00}I'm sorry, {01 00 00 0a 00}{04 00 00}.{01 01 00}\n{07 15 00}You'd better send me off \nwith a smile! {07 14 00}{01 00 00 0a 00}{0b 03 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 3,
+   "en": "{07 14 00}Thanks for everything!{01 00 00 0a 00} {07 17 00}I\nhope you find love soon,\ntoo, {01 00 00 0a 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 4,
+   "en": "{06 03 00 0c 0d}",
+   "et": ""
+  },
+  {
+   "id": 5,
+   "en": "{07 16 00}Don't make that face!{01 01 00} {07 06 00}I\ndon't want to remember you\nwith that ugly, sad face!",
+   "et": ""
+  },
+  {
+   "id": 6,
+   "en": "{07 02 00}Don't try to stop me!{01 00 00 0a 00}\n{07 06 00}My life depends on it!",
+   "et": ""
+  },
+  {
+   "id": 7,
+   "en": "{07 16 00}I'm sorry, but{01 00 00 0a 00} {07 14 00}I need more.{01 00 00 0a 00}\nSo much more than this\ntown can give.",
+   "et": ""
+  },
+  {
+   "id": 8,
+   "en": "{07 16 00}It's not you, {01 00 00 0a 00}it's me.{01 00 00 14 00} {07 09 00}I knew\nyou'd understand{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.",
+   "et": ""
+  },
+  {
+   "id": 9,
+   "en": "{07 1b 00}Oh, wow{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00} {07 15 00}Do you really like\nme that much?{02 01 00 0e 0f 10}\nYes! Yes I do!\nUh...\nYes. I mean, no.",
+   "et": ""
+  },
+  {
+   "id": 10,
+   "en": "{07 02 00}Stop!{01 00 00 0a 00} Don't say stuff like\nthat, OK?!\n\n{07 06 00}I won't be able to get away\nfrom this place if you keep\nsaying that, {01 00 00 0a 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 11,
+   "en": "{07 0e 00}If we got more visitors,{01 00 00 0a 00}\nI'd meet new people,\n{01 00 00 0a 00}{04 02 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 14 00}If you do what I say,\n{04 1f 00}, then maybe,\njust maybe, I'll{01 00 00 05 00} stay.",
+   "et": ""
+  },
+  {
+   "id": 12,
+   "en": "{07 14 00}Take care of yourself!",
+   "et": ""
+  },
+  {
+   "id": 13,
+   "en": "{07 15 00}Even if I'm not around,{01 00 00 0a 00}\ndon't settle for some sad\nloser 'cause you're lonely!",
+   "et": ""
+  },
+  {
+   "id": 14,
+   "en": "{07 09 00}I know you're just being\nhonest, but{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00}{07 17 00}it's actually\nkind of embarrassing me!",
+   "et": ""
+  },
+  {
+   "id": 15,
+   "en": "{07 01 00}Well, don't get so excited\nthat you pop a blood vessel\nor something, {01 00 00 0a 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 16,
+   "en": "{07 15 00}Hmph!{01 00 00 0a 00} You sneaky little.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}\n{0b 03 00}{04 1f 00}, you're such a\njerk!\n{07 01 00}I bet you'll miss toying with\nmy emotions the most, huh!\n{0b 03 00}{04 02 00}!",
+   "et": ""
+  }
+ ]
+}

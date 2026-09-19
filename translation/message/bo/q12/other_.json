@@ -1,0 +1,20 @@
+{
+ "file": "script/ENG/message/bo/q12/other_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 14 00}Uh huh huh! {01 00 00 0a 00}{0b 03 00}{ff 00 00 05}{04 10 00}{ff 00 00 00},\nyou're a real sweetie. {01 01 00}{07 0d 00}You\nvisited me every day...\nEven though I was snotting\nand coughing all over the\nplace.",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 16 00}You know how I live all\nalone, without any\nroommates, right?\n{07 00 00}So I'm extra thankful that \nwhen I got sick,{01 00 00 0a 00} you came\nto visit.",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 16 00}Hmmm{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00} I really owe you\none, {ff 00 00 05}{04 10 00}{ff 00 00 00}.{01 01 00}\n{07 00 00}When I got a cold...\n{07 14 00}...you brought me {ff 00 00 07}medicine{ff 00 00 00}\nevery day and didn't act all\ngrossed out by my snot!",
+   "et": ""
+  }
+ ]
+}

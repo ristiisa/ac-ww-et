@@ -1,0 +1,50 @@
+{
+ "file": "script/ENG/message/ha/tsu/ghint_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 00 00}Bugs are sensitive to\nsound, so if you're stalking\none, hold the {ff 00 00 07}net{ff 00 00 00} up and...\n{06 00 00 05 06}",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{06 00 00 07 08}",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 14 00}Hey yo, do you write\ngood letters, {ff 00 00 05}{04 1f 00}{ff 00 00 00}?{01 00 00 05 00}\nTell me, {01 00 00 05 00}{04 02 00}?!\n.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 0b 00}Me?!{01 00 00 0a 00} Naw, I don't write\nletters much, {01 00 00 05 00}{04 02 00}.\nDoesn't burn enough carbs.\n{07 06 00}But if you send me one,{01 00 00 05 00}\nI'll write you back. {01 00 00 05 00}So write\nme, all right, {01 00 00 05 00}{04 02 00}?!",
+   "et": ""
+  },
+  {
+   "id": 3,
+   "en": "{07 06 00}Lately{ff 00 00 06} Nook{ff 00 00 00}'s been all about{01 00 00 05 00}\ncustomer service, huh?{01 00 00 05 00}\nHe does giveaways, even!\n{07 15 00}You oughta stop by when\nyou can and reap the\nrewards, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 4,
+   "en": "{07 15 00}Y'know, I might just pick up\nstakes and move{01 00 00 05 00} if I find\nanother, better town.\n{07 06 00}Whoa whoa whoa!{01 00 00 05 00} Kidding!{01 00 00 0a 00}\nMan, don't look so bummed\nout, {01 00 00 05 00}{04 02 00}!\n{07 16 00}As long as you take care\nof {04 03 00}, I ain't\ngoing nowhere, baby!",
+   "et": ""
+  },
+  {
+   "id": 5,
+   "en": "{07 11 00}Step right,{01 00 00 05 00} step left,{01 00 00 05 00} step\nright, shimmy a bit and{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 01 00}\n{01 08 00}{07 01 00}SWING!{01 00 00 0a 00}\n{07 0b 00}Got that, {01 00 00 05 00}{04 02 00}?",
+   "et": ""
+  },
+  {
+   "id": 6,
+   "en": "{07 11 00}Approach the beast slowly...\ncarefully...closer{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.then...{01 01 00}\n{07 01 00}{01 08 00}WA-BAM!!!\n{07 14 00}That's how I do my thing,\n{01 00 00 05 00}{04 02 00}! {01 00 00 05 00}I am the\nultimate bug master!\n{07 16 00}But {01 00 00 05 00}if you see a {ff 00 00 07}scorpion\n{ff 00 00 00}or a {ff 00 00 07}tarantula{ff 00 00 00}, put your\n{ff 00 00 07}net{ff 00 00 00} away quick!\n{07 07 00}Those guys will attack{01 00 00 05 00}\nanything carrying a {ff 00 00 07}net{ff 00 00 00}!",
+   "et": ""
+  },
+  {
+   "id": 7,
+   "en": "{07 15 00}Running always scares fish\naway, didn't you know that?!\n\n{07 19 00}You gotta walk slowly and\nquietly, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 8,
+   "en": "{07 14 00}Do you fish, {01 00 00 05 00}{04 02 00}?!\n\n\nHere's a total pro secret:{01 00 00 05 00}\npull up on the rod when\nyour float sinks!\n{07 11 00}At that moment, you gotta\nchannel the inner tiger and\nPOUNCE, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  }
+ ]
+}

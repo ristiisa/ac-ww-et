@@ -1,0 +1,20 @@
+{
+ "file": "script/ENG/message/bo/q04/dress_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 0b 00}Am I{01 00 00 05 00} glowing?{01 00 00 05 00} Radiating a\nspecial power?{01 00 00 05 00} {01 00 00 05 00}Like a\nsuperhero,{01 00 00 05 00} {04 02 00}?\n{07 0a 00}Wow.{01 00 00 05 00} I feel really good\ntoday.{01 00 00 0a 00} Almost like I could\nfly!",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 14 00}Check me out! {01 00 00 0a 00}I'm lookin' so\nstylin' today,{01 00 00 0a 00} {04 02 00}.{01 01 00}\n{07 04 00}Why is that, you ask?\n{07 17 00}Well{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}you should know the\nanswer to that better than\nanybody!",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 14 00}I've been told that my best\nfeature is my belly.{01 00 00 05 00}\n{0b 03 00}{04 02 00}!\nThat's why, no matter what\nI wear,{01 00 00 0f 00} I look goooood.",
+   "et": ""
+  }
+ ]
+}

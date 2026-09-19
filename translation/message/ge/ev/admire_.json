@@ -1,0 +1,85 @@
+{
+ "file": "script/ENG/message/ge/ev/admire_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 04 00}Oh, hi,{01 00 00 05 00} {04 1f 00}!{01 01 00} {07 1a 00}You\nlook like a TOTAL movie\nstar today, {01 00 00 05 00}{04 02 00}!!\n{07 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 14 00}Wasn't that fun? Today's\nthe day to compliment each\nother! {01 00 00 05 00}It's called {ff 00 00 03}Yay Day{ff 00 00 00}!\nOK, {01 00 00 05 00}now it's YOUR turn!{01 00 00 05 00}\nTime to totally compliment\nme, {01 00 00 05 00}{04 02 00}!\n{07 13 00}C'mon! Say something\namazing! Treat me like a\npretty princess!",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "Today is {ff 00 00 03}Yay Day{ff 00 00 00}! It's this\nawesome day where everyone\ncompliments everyone else!\nSo...compliment me!{01 00 00 05 00} Um...{01 00 00 0a 00}\nI can't hear you...\nHelloooo??{01 00 00 0f 00} Compliments???\n{07 15 00}Well, if you can't think of \nanything nice, then at\nLEAST make up a pretty lie!",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 0e 00}{0b 03 00}{04 21 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00}\n{07 00 00}{07 17 00}Tee hee! {01 00 00 05 00}I'm kinda\nembarrassed, {01 00 00 05 00}{04 02 00}!\n{07 00 00}{07 0d 00}Well, {01 00 00 05 00}from now on, I'll think\n\"{04 21 00}\" all\nday, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 3,
+   "en": "{07 0e 00}{0b 03 00}{04 21 00}.{01 00 00 05 00}.{01 00 00 05 00}. Huh.{01 00 00 05 00}.{01 00 00 05 00}.{01 01 00}\n{07 13 00}That sounds pretty good,\n{01 00 00 05 00}{04 02 00}!\n{07 00 00}Whenever I'm down,{01 00 00 05 00} I'll just\nkeep repeating that...\n\"{0b 03 00}{04 21 00}\"!!\n{07 19 00}Then I'll feel like I can do\nanything at all!\n",
+   "et": ""
+  },
+  {
+   "id": 4,
+   "en": "{07 14 00}{0b 03 00}{04 1f 00},{01 00 00 05 00} you're too\nmuch!{01 00 00 0a 00} {0b 03 00}{04 21 00}!!{01 00 00 0a 00}\nThat's, like, SO ME!",
+   "et": ""
+  },
+  {
+   "id": 5,
+   "en": "{07 14 00}{0b 03 00}{04 21 00}! That's\nexactly me, isn't it,\n{01 00 00 05 00}{04 02 00}?",
+   "et": ""
+  },
+  {
+   "id": 6,
+   "en": "{0b 03 00}{01 06 00}Like, hi{01 07 00}!{01 00 00 0a 00}\nWhat's up, {04 1f 00}?",
+   "et": ""
+  },
+  {
+   "id": 7,
+   "en": "{07 0b 00}So, {04 1f 00}, {01 00 00 05 00}be honest.\nDo you think that\n\"{04 21 00}\" is me?",
+   "et": ""
+  },
+  {
+   "id": 8,
+   "en": "{07 0b 00}Hey, {01 00 00 05 00}{04 1f 00}!{01 00 00 0a 00} What do\nyou think about\n{04 21 00}?\nDoes that seem to fit me,\n{01 00 00 05 00}{04 02 00}?",
+   "et": ""
+  },
+  {
+   "id": 9,
+   "en": "{07 14 00}{0b 03 00}{04 1f 00}!{01 00 00 0a 00} I think that\n\"{04 21 00}\" fits\nme pretty well!\n{07 0d 00}I mean,{01 00 00 05 00} it's TOTALLY what \nI'm like,{01 00 00 05 00} don't you think,\n{01 00 00 05 00}{04 02 00}?",
+   "et": ""
+  },
+  {
+   "id": 10,
+   "en": "{07 14 00}Oh!{01 00 00 0a 00} Sweet!{01 00 00 0a 00} That's good,\n{01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 11,
+   "en": "{07 14 00}GREAT!{01 00 00 0a 00} I'm sooo glad to hear\nthat, {01 00 00 05 00}{04 02 00}!\n\n{07 00 00}Now I'll go through my day\nwith \"{04 21 00}\"\nas my, like, motto!",
+   "et": ""
+  },
+  {
+   "id": 12,
+   "en": "{07 04 00}WHAT?!{01 00 00 14 00} {07 06 00}{0b 03 00}{04 1f 00},\nyou big meanie!\n\n{07 16 00}Why don't you stop being\nsuch a jerk and just try\ncomplimenting me again!",
+   "et": ""
+  },
+  {
+   "id": 13,
+   "en": "{07 04 00}Whaaaaaaaaaaat?!{01 00 00 14 00} {07 16 00}Hey{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}that\nhurts! You hurt my\nfeelings!\n{07 15 00}FINE!{01 00 00 0a 00} Then why don't YOU\ntake over and give me some\ncompliments of your own!",
+   "et": ""
+  },
+  {
+   "id": 14,
+   "en": "{07 0e 00}{0b 03 00}{04 21 00}, huh{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}?\n{07 14 00}That's pretty good!{01 00 00 0a 00}\nOh yeah, that's GREAT!\n{07 0d 00}It makes me feel like\na whole new person,\n{01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 15,
+   "en": "{07 0e 00}{0b 03 00}{04 21 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} Say...{01 00 00 0a 00}\n{07 14 00}Yeah!{01 00 00 0a 00} That sounds just like\nme! Tee hee!{01 00 00 05 00} YAY!{01 00 00 05 00} YAAAAY!\nThanks, {01 00 00 05 00}{04 1f 00}!\n{01 00 00 05 00}{0b 03 00}{04 02 00}!",
+   "et": ""
+  }
+ ]
+}

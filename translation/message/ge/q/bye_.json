@@ -1,0 +1,20 @@
+{
+ "file": "script/ENG/message/ge/q/bye_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 14 00}Well, OK then, bye!{01 00 00 05 00}\n{0b 03 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 14 00}Toodley-oo,{01 00 00 0a 00} {04 1f 00}!",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 14 00}Bye for now, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  }
+ ]
+}

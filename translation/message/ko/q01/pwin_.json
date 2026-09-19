@@ -1,0 +1,15 @@
+{
+ "file": "script/ENG/message/ko/q01/pwin_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 02 00}Whoa!{01 00 00 0f 00} You've got\n{04 1c 00},\n{01 00 00 05 00}{04 02 00}!\n{07 00 00}I can't compete with my\n{0b 02 00}{04 1d 00}.",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 02 00}Craziness! {01 00 00 14 00}You got{01 00 00 05 00}\n{04 1c 00}?!\n\n{07 15 00}Well, aren't you something.{01 00 00 14 00}\n{07 00 00}All I've got is\n{04 1d 00}!",
+   "et": ""
+  }
+ ]
+}

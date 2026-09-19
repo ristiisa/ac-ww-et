@@ -1,0 +1,35 @@
+{
+ "file": "script/ENG/message/ha/q12/ask3_5_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 04 00}Huh! {01 00 00 05 00}Whozat?! {01 00 00 05 00}Where are we?{01 01 00}\n{07 07 00}Oh, you're twins?{01 00 00 0a 00} What're\nyour names, {01 00 00 05 00}{04 02 00}?",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 07 00}Ooog, this ain't good{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} I've\nbeen seeing things since\nthis morning.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{04 02 00}.",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 07 00}S-s-s-so c-c-cold today{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 01 00}\n{07 03 00}WAR HAR HAR HAR HAR!{01 00 00 0f 00}\n{07 17 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.I'm losing it, {01 00 00 05 00}{04 02 00}.",
+   "et": ""
+  },
+  {
+   "id": 3,
+   "en": "{07 14 00}I got some {ff 00 00 07}medicine{ff 00 00 00}, {01 00 00 05 00}so I'm\nfeeling a little better!{01 00 00 14 00}\nWho's my hero?{01 00 00 0a 00} {0b 03 00}{ff 00 00 05}{04 0f 00}{ff 00 00 00}!",
+   "et": ""
+  },
+  {
+   "id": 4,
+   "en": "{07 14 00}Once I took that {ff 00 00 07}medicine{ff 00 00 00},{01 00 00 05 00}\nI felt MUCH better,\n{01 00 00 05 00}{04 02 00}.\nAnd it's all thanks to my\nbest bud, {01 00 00 0a 00}{ff 00 00 05}{04 0f 00}{ff 00 00 00}!",
+   "et": ""
+  },
+  {
+   "id": 5,
+   "en": "{07 07 00}Without that sweet, sweet\n{ff 00 00 07}medicine{ff 00 00 00}, {01 00 00 05 00}I'd probably be in\na tree, talking to myself.\nYou know what name's at\nthe top of my buddy list?{01 00 00 14 00}{07 0d 00}\n{0b 03 00}{ff 00 00 05}{04 0f 00}{ff 00 00 00}, that's who!",
+   "et": ""
+  }
+ ]
+}

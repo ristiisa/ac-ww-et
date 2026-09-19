@@ -1,0 +1,15 @@
+{
+ "file": "script/ENG/message/fu/q02/end_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 00 00}Thanks, {04 1f 00}! That\nwas actually a lot of fun.\n\nI didn't think you'd put up\nsuch a challenge. And I\nhad no idea you'd beat me!\n{07 14 00}I guess maybe it's time to\nhang up my fishing rod\nfor a bit, {01 00 00 05 00}{04 02 00}.\n{07 1a 00}After all, you are truly\nthe finest fisher in all of\n{04 03 00}, {04 1f 00}!\n{07 14 00}Thanks for letting me\nwatch you in action!",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 15 00}You've beaten me for now,\n{04 1f 00}, but just you\nwait, {01 00 00 05 00}{04 02 00}!\nI guess I've got no regrets\nfor.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 0f 00}losing our fishing\nmatch.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 14 00}Honestly, I did have a good\ntime, {04 1f 00}, {01 00 00 05 00}and I\nlearned a lot from you.\n{07 1a 00}Hands down, you're the best\nfisher in {04 03 00}!",
+   "et": ""
+  }
+ ]
+}

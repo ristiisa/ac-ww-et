@@ -1,0 +1,20 @@
+{
+ "file": "script/ENG/message/ta/q11/trade3_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 00 00}I'd be willing to sell my{01 00 00 14 00}\n{0b 02 00}{04 1a 00} to\nyou.{01 01 00}{07 0b 00} For {04 12 00} Bells?{02 04 00 ff ff}\nDeal!\nNo way!",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 16 00}I'll sell you my\n{0b 02 00}{04 1a 00}\non one condition.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n{07 0b 00}Would you be willing to pay\n{04 12 00} Bells,\n{01 00 00 05 00}{04 02 00}?{02 04 00 ff ff}\nSure thing!\nI'll pass.",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 18 00}What?! {01 00 00 05 00}I didn't know that\nyou had your eye on my\n{0b 02 00}{04 1a 00}.\n{07 14 00}If you're interested, {01 00 00 05 00}I'll\nsell to you for {04 12 00}\nBells, {01 00 00 05 00}{04 02 00}.{02 04 00 ff ff}\nSold!\nThief!",
+   "et": ""
+  }
+ ]
+}

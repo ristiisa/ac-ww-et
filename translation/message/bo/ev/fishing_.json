@@ -1,0 +1,80 @@
+{
+ "file": "script/ENG/message/bo/ev/fishing_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 15 00}Today, victory in the\n{ff 00 00 03}Fishing Tourney{ff 00 00 00} will be MINE,{01 00 00 0a 00}\nALL MINE!\n{07 05 00}You know why? {01 00 00 0a 00}'Cause I\nspent all last night\npracticing{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.in my dreams!",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 14 00}Huh huh huh!{01 00 00 0a 00} I get along\nwell with the fish, which is\nwhy I'm so good at fishing.\n{07 1b 00}I'll probably win the {ff 00 00 03}Fishing\nTourney{ff 00 00 00} today. {01 01 00}But don't\nfeel bad or anything.\n{07 0d 00}Try your hardest to beat\nme, 'cause you never know\nwhat'll happen, {01 00 00 0a 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 16 00}You're always so calm and\ncollected, {04 1f 00}. I\ndon't know how you do it.\n{07 06 00}I mean, today IS the\n{ff 00 00 03}Fishing Tourney{ff 00 00 00}, right?\nJeepers!\n{07 07 00}I'm so nervous I can't stop\nshaking,{01 00 00 0a 00} {04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 3,
+   "en": "{07 14 00}Huh huh huh! Right now, I\nhold the record! {01 00 00 0a 00}ME!{01 00 00 05 00}\n{04 01 00} the Great!\n{07 17 00}Who can beat my\n{ff 00 00 02}{04 0f 00}-inch{ff 00 00 00}\n{0b 02 00}{04 1a 00}?",
+   "et": ""
+  },
+  {
+   "id": 4,
+   "en": "{07 04 00}Hey,{01 00 00 05 00} {04 1f 00}!{01 00 00 0a 00} The\n{0b 02 00}{04 1a 00} I\ncaught {01 01 00}{07 0d 00}was {ff 00 00 02}{04 0f 00} inches!",
+   "et": ""
+  },
+  {
+   "id": 5,
+   "en": "{07 15 00}The {0b 02 00}{04 1a 00}\nI caught clocked in at a\nwhopping {ff 00 00 02}{04 0f 00}{ff 00 00 00} {ff 00 00 02}inches{ff 00 00 00}!\n{07 0d 00}Hip hip hooray!{01 00 00 0a 00} It's a new\nrecord! Time to bust out\nthe chicken dance!",
+   "et": ""
+  },
+  {
+   "id": 6,
+   "en": "{07 16 00}Hmm.{01 00 00 0a 00} Am I not catching\nanything{07 0b 00} 'cause I'm in a bad\nspot?\n{07 1b 00}If I don't start catching\nfish like the flu, I'm\nchanging places!",
+   "et": ""
+  },
+  {
+   "id": 7,
+   "en": "{07 0e 00}When I fish, I'm almost\nalways looking at my feet.\n\n{07 00 00}When I count the blades of\ngrass one by one,{07 14 00} it totally\ncalms me down!",
+   "et": ""
+  },
+  {
+   "id": 8,
+   "en": "{07 03 00}{01 00 00 0a 00}Uh huh huh HUH HUH!{01 00 00 0a 00}\n{0b 03 00}{04 02 00}!\n\n{07 14 00}Huh?{01 00 00 14 00} {07 0a 00}Oh, I was practicing\nhow happy I'll be when I\nactually catch a fish.",
+   "et": ""
+  },
+  {
+   "id": 9,
+   "en": "{07 14 00}Welcome home, my little\n{0b 02 00}{04 1a 00}.{00 01 00}\n\n{07 0b 00}Shall I grill you?{01 00 00 05 00} Bake you?{01 00 00 05 00}\nSaute you?{01 01 00} {07 13 00}Or{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}turn you\ninto {01 00 00 05 00}{01 00 00 05 00}su{01 00 00 05 00}shi{01 00 00 05 00}?\n{07 00 00}.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}Whenever I fish, I always\nthink about something\nother than fishing.",
+   "et": ""
+  },
+  {
+   "id": 10,
+   "en": "{ff 00 00 04}{07 11 00}You've tuned into the\nChillin' Network's coverage\nof the {ff 00 00 03}Fishing Tourney{ff 00 00 04}.\n{0b 03 00}{04 10 00} is in the lead\nwith a HUGE {ff 00 00 02}{04 0f 00}-inch\n{0b 02 00}{ff 00 00 04}{04 1a 00}.\n{ff 00 00 00}{07 02 00}Oh! {01 00 00 05 00}{0b 03 00}{04 1f 00}!{01 00 00 05 00} I didn't\nsee you there. {01 00 00 05 00}I was just\npracticing for.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}{07 17 00}my TV spot!",
+   "et": ""
+  },
+  {
+   "id": 11,
+   "en": "{07 14 00}Did you know that\n{04 10 00}'s grandpa was a\nmaster angler?\n{07 1c 00}Oh, I forgot who I was\ntalking to.{01 00 00 05 00} Of course you\nknow that,{01 00 00 0a 00} {04 02 00}.",
+   "et": ""
+  },
+  {
+   "id": 12,
+   "en": "{ff 00 00 04}{07 05 00}All I wanna do is catch a\nbigger fish than\n{04 10 00}!\n{07 15 00}Yeah, I wanna catch\n{04 1a 00}\nthat's {ff 00 00 02}{04 0f 00} inches{ff 00 00 04} long!{ff 00 00 00}\n{07 02 00}Oh! {01 00 00 05 00}Hey, {04 1f 00}! {01 00 00 05 00}Uh, I\ndidn't see you there.",
+   "et": ""
+  },
+  {
+   "id": 13,
+   "en": "{07 1b 00}I had a dream{01 00 00 05 00} last night.\nWanna hear it?\n\n{07 14 00}I was relaxing in the\nbathtub with a huge\n{0b 02 00}{04 1a 00}.\n{07 02 00}I think that the\n{0b 02 00}{04 1a 00}{01 00 00 0a 00} was\nabout {ff 00 00 02}{04 0f 00} inches{ff 00 00 00}!",
+   "et": ""
+  },
+  {
+   "id": 14,
+   "en": "{07 16 00}Did you know {04 10 00} is\nin the lead with that\n{0b 02 00}{04 1a 00}?\nYeah, it's {ff 00 00 02}{04 0f 00} inches{ff 00 00 00},\ntoo!{01 00 00 14 00} Oh, right. {07 08 00}Of course\nyou know!",
+   "et": ""
+  }
+ ]
+}

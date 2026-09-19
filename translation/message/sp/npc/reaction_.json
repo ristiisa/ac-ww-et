@@ -1,0 +1,290 @@
+{
+ "file": "script/ENG/message/sp/npc/reaction_.bmg",
+ "messages": [
+  {
+   "id": 1,
+   "en": "{07 04 00}Ah!{01 00 00 05 00} {07 14 00}So you've finally\nrealized that you have some\nissues to work out!\nWell, {01 00 00 05 00}admitting you have a\nproblem is the first step\ntowards mental health!\nYou may find my methods a\nlittle{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.unorthodox at times.{01 00 00 03 00}\nWe'll just progress slowly.\nFirst, let's tackle the\ndifficulty you have,{01 00 00 03 00} er,{01 00 00 03 00}\nexpressing yourself.\n{07 1d 00}Expression is my forte, as\nI'm also a stand-up comic!{01 01 00}\n{07 1b 00}On the side, that is.\n{07 19 00}Humor can be so healing,{01 00 00 05 00}\nand is often overlooked by\nthe medical community.\n{07 1d 00}Yes,{01 00 00 0f 00} try this one on for\nsize! {07 00 00}{01 04 00}{ff 00 00 02}A three-legged dog\nwalked into a saloon,\nhopped up to the counter,\nand said, {01 02 00}\"I'm looking for\nthe guy who shot my paw.\"{ff 00 00 00}{01 03 00}{01 01 00}{01 00 00 0f 00}{07 09 00}{01 00 00 1e 00}{01 05 00}",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 00 00}{01 04 00}Hmm.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{01 05 00}{01 01 00} {07 0e 00}Very interesting.{01 00 00 05 00}\nYour face is expressionless,\nperhaps even {01 00 00 0a 00}slack-jawed.\n{07 15 00}Is it because you haven't\nheard of me,{01 01 00} or is it a\nmore serious problem?{02 00 00 03 04}\nWho are you?\nI know you!\n",
+   "et": ""
+  },
+  {
+   "id": 3,
+   "en": "{07 0e 00}Perhaps a better question\nis.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} {07 15 00}Who are YOU? {01 00 00 0f 00}Who is\nthe {01 08 00}REAL YOU?!\n{07 19 00}As {ff 00 00 06}Dr. Shrunk{ff 00 00 00}, {01 00 00 05 00}traveling\ntherapist and part-time\ncomedian,\nit's my job to help you\nanswer these questions.",
+   "et": ""
+  },
+  {
+   "id": 4,
+   "en": "{07 0a 00}Good! {01 00 00 0a 00}Yes, I am {ff 00 00 06}Dr. Shrunk{ff 00 00 00},\nand my job is to help you\nexpress your feelings.\n{07 19 00}Some people even call me\n\"the human whisperer\".{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}",
+   "et": ""
+  },
+  {
+   "id": 5,
+   "en": "{07 00 00}So what do you say? {01 00 00 0a 00}Are\nyou interested in\nunearthing the real you?\nIn delving into your\nsubconscious and learning\nthe art of true expression?\n{07 15 00}I warn you, {01 00 00 0a 00}processing your\nfeelings can be difficult\nwork, {01 00 00 0a 00}{07 00 00}but in the end,\n{07 0a 00}it can only lead to a\nhappier,{01 00 00 05 00} healthier,{01 00 00 05 00} more\nEXPRESSIVE you!\n{07 0d 00}So,{01 00 00 05 00} what do you say?{01 00 00 05 00} Care\nto learn how to express\nyourself?{02 04 00 06 07}\nNo, thanks.\nOK, OK...",
+   "et": ""
+  },
+  {
+   "id": 6,
+   "en": "{07 18 00}Now, I believe that humor\nhas its place, {01 00 00 05 00}but stop\njoking around!\n{07 19 00}You're clearly using it {01 00 00 0a 00}as a\ndefense mechanism here.{01 00 00 0f 00}\nBy learning expression,\n{07 0d 00}you would be doing yourself,{01 00 00 05 00}\nas well as your companions,{01 00 00 05 00}\na big service!{02 04 00 06 07}\nI said no!\nFine!",
+   "et": ""
+  },
+  {
+   "id": 7,
+   "en": "{07 0a 00}Splendid! Splendid!{01 01 00} {07 14 00}More\npeople COULD benefit from\nself-exploration than DO.\n{07 19 00}As I said before,{01 00 00 0f 00} you may\ncall me {ff 00 00 06}Dr. Shrunk{ff 00 00 00}. {01 01 00}Don't\nworry about being candid.\n{07 0a 00}All of our sessions are\nsubject to doctor-patient\nconfidentiality! {01 01 00}{07 14 00}Got it?{02 00 00 08 09}\nOkeydokey!\nUh, OK, I guess.",
+   "et": ""
+  },
+  {
+   "id": 8,
+   "en": "{07 14 00}Good!{01 00 00 05 00} Your enthusiasm will\nserve you well in your\njourney to expression!",
+   "et": ""
+  },
+  {
+   "id": 9,
+   "en": "{07 15 00}Hmm.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} We'll have to work on\nyour ability to express\nenthusiasm.\n{07 00 00}Remember, {01 00 00 05 00}I can't take this\njourney for you. {01 00 00 05 00}{07 14 00}You have\nto do the driving!\nAs long as we are clear on\nthat point,{01 00 00 14 00}{07 0b 00} shall we begin?",
+   "et": ""
+  },
+  {
+   "id": 10,
+   "en": "{07 19 00}As sentient beings, {01 00 00 05 00}each of\nus possesses a wealth of\nmemories and emotions.\n{07 00 00}If we keep them bottled up,{01 00 00 05 00}\nwe will {01 00 00 05 00}{07 05 00}{01 08 00}burst,{01 00 00 0a 00}{07 00 00} like so many\nagitated cans of soda.\n{07 19 00}And believe me, the cleanup\nis dreadfully messy.\n\nI cannot stress enough the\nimportance of{ff 00 00 02} expressing\nyour feelings{ff 00 00 00}.\n{07 0e 00}In these sessions, you may\nunearth some painful\nmemories and emotions{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.\n{07 06 00}But you must press on!{01 00 00 0a 00} For\nyour own sake! {01 00 00 05 00}For all of\nours!{01 01 00}{07 19 00} Just follow my lead!",
+   "et": ""
+  },
+  {
+   "id": 11,
+   "en": "First, I will show you the\nproper {ff 00 00 02}expression{ff 00 00 00} of an\nemotion.\nWhen you grasp the nuances\nof this feeling, you must\n{ff 00 00 01}tap{ff 00 00 00} me. {01 00 00 05 00}{07 1d 00}Confidently!\n{07 00 00}If some trauma from your\npast has made you wary of\nphysical touch,\npressing the {ff 00 00 01}X Button{ff 00 00 00} \nhas the same effect as\ntapping me.\nHmm.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} I suppose we'll have\nto address that issue in\nanother session.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\nRegardless, don't be shy!{01 01 00}\n{07 17 00}Go on, tap me!",
+   "et": ""
+  },
+  {
+   "id": 12,
+   "en": "{07 04 00}Yes!{01 00 00 0f 00} That's precisely it!{01 00 00 05 00}{07 00 00}{01 00 00 14 00}\nYou've just made a major\nbreakthrough!\n{07 14 00}And you have now learned\nhow to express\n{ff 00 00 02}{04 0f 00}{ff 00 00 00}!\n{07 19 00}Like all expressions, you\ncan activate {ff 00 00 02}this {ff 00 00 00}from the\n{ff 00 00 01}keyboard window{ff 00 00 00}.{07 14 00}\nOf course, the range of\nhuman emotions is deep,{01 00 00 05 00} and\nto be well-rounded,{01 00 00 05 00}\nyou must learn as many\n{ff 00 00 02}expressions{ff 00 00 00} as you can!",
+   "et": ""
+  },
+  {
+   "id": 13,
+   "en": "It's important to lose your\ninhibitions and just let\nyourself go!\nThat's the only way you can\nachieve TRUE EXPRESSION!",
+   "et": ""
+  },
+  {
+   "id": 14,
+   "en": "{07 19 00}I wear yellow on the\noutside because yellow is\nhow I feel on the inside.\n{07 0a 00}Give that a little time to\nprocess.",
+   "et": ""
+  },
+  {
+   "id": 15,
+   "en": "{07 0e 00}Even as an expert on both\nthe subconscious and the\nexpressive arts,\n{07 1d 00}I still learn about feelings\nby observing those around\nme! {01 00 00 0a 00}{ff 00 00 04}(Nut jobs everywhere.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00})",
+   "et": ""
+  },
+  {
+   "id": 16,
+   "en": "{07 19 00}I look forward to helping\nyou explore and express\nyour feelings, {01 00 00 05 00}{04 00 00}.\n{07 0e 00}For, {01 00 00 05 00}aren't feelings what\nseparate us from the.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}er.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n{07 0b 00}fish?",
+   "et": ""
+  },
+  {
+   "id": 17,
+   "en": "{07 19 00}Physical contact is\nabsolutely key to many\nkinds of emotional growth!\nSimply {ff 00 00 01}tap {ff 00 00 00}me when I'm\nperforming an {ff 00 00 02}expression{ff 00 00 00} to\nlearn how to do it!\n{07 1d 00}Don't be shy! {01 00 00 05 00}{07 0a 00}I understand\nthat you're on a personal\njourney!",
+   "et": ""
+  },
+  {
+   "id": 18,
+   "en": "Emotions, like snowflakes,\nare unique. {01 01 00}However, there\nis one key difference.\n{07 19 00}Unlike snowflakes,{01 00 00 0a 00} emotions\ncannot be mistaken for\ndandruff.",
+   "et": ""
+  },
+  {
+   "id": 19,
+   "en": "{07 0b 00}Who am I, {01 00 00 05 00}you ask?{01 01 00} You've\nalready forgotten? {01 01 00}{07 0e 00}Hmm{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\nThis is troubling.\n{07 1b 00}We'll just have to add\namnesia to the list of\nissues you have, I suppose.\n{07 03 00}Well, {ff 00 00 06}Dr. Shrunk{ff 00 00 00}'s the name,{01 00 00 05 00}\nself-expression's the game.{01 01 00}\n{07 11 00}A deadly serious game{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.",
+   "et": ""
+  },
+  {
+   "id": 20,
+   "en": "{07 0b 00}Oh?!{01 00 00 0f 00} Don't I know you from\nsomewhere{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} Hm?{01 01 00} {07 14 00}I kid!{01 00 00 05 00} I\nkid! {01 00 00 05 00}{07 03 00}Heh heh heh!{01 00 00 0f 00}\nThat one never gets old!{01 01 00}\n{07 0a 00}Emotional growth comes\nfrom staying on your toes!",
+   "et": ""
+  },
+  {
+   "id": 21,
+   "en": "{07 00 00}So, {01 00 00 05 00}how are you?{01 00 00 14 00} {07 0b 00}How has\nyour emotional exploration\nbeen going?{02 00 00 16 17}\nGood, good.\nI'm in a slump.",
+   "et": ""
+  },
+  {
+   "id": 22,
+   "en": "{07 1d 00}Really{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 14 00} {07 00 00}Good for you!{01 01 00}\n{07 16 00}Personal growth is a\njourney, not a destination.\nEven I am still excavating\nmy subconscious. {01 01 00}{07 03 00}My comedy\nhelps me process my issues.",
+   "et": ""
+  },
+  {
+   "id": 23,
+   "en": "{07 16 00}What you need is an\nemotional jump start{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}\n{07 0e 00}Yes, indeed{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}\n{07 00 00}All right,{01 00 00 03 00} I've been\nsaving this exercise for a\ncrisis, but this is one!\nEvery feeling is brought on\nby a situation or event\nthat acts as a trigger.\n{07 14 00}Let's practice identifying\nfeelings that occur in\nvarious situations.\nNow watch how I {ff 00 00 02}express{ff 00 00 00} my\nemotions in each scenario.\n\nNow, why don't you select\nan emotion that you want\nto work on?\nOnce you witness that\nemotion, {ff 00 00 01}tap{ff 00 00 00} me.",
+   "et": ""
+  },
+  {
+   "id": 24,
+   "en": "{07 00 00}Hmm{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} {07 15 00}You'll have to work\non your reflexes next! {01 01 00}{07 00 00}That\nwas a very basic trigger,\nand you completely failed\nto recognize the\ncorresponding {ff 00 00 02}expression{ff 00 00 00}!\n{07 0e 00}Perhaps this feeling is too\npainful for you right now.{01 00 00 14 00}\n{07 0c 00}Why don't we try another?",
+   "et": ""
+  },
+  {
+   "id": 25,
+   "en": "{07 0a 00}Wonderful!{01 00 00 0f 00} You've learned\nhow to express\n{ff 00 00 02}{04 0f 00}{ff 00 00 00}!\nWe've made some REAL\nprogress today! {01 01 00}{07 19 00}Remember,\nfeelings are like toes!\nThey have to breathe free,\nor they'll stink to high\nheaven!{01 01 00}{07 03 00} Get it?!",
+   "et": ""
+  },
+  {
+   "id": 26,
+   "en": "{07 04 00}Oh, {01 00 00 05 00}{04 00 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 01 00} I'm sorry\nto say that {01 00 00 05 00}you've got too\nmany conflicting feelings!\n{07 00 00}In order to process a new\none properly, you should\nset another one aside.\nIf you were going to\nreplace an expression,{01 00 00 05 00}{07 0b 00} which\nwould it be?",
+   "et": ""
+  },
+  {
+   "id": 27,
+   "en": "{07 19 00}I see.{01 01 00} {07 00 00}Perhaps you haven't\nfully processed the feelings\nyou already have.",
+   "et": ""
+  },
+  {
+   "id": 28,
+   "en": "{07 00 00}One, {01 00 00 05 00}two, {01 00 00 05 00}three.{01 00 00 05 00}.{01 00 00 05 00}.{01 01 00}{07 05 00}{01 08 00} SHRUNK!{01 01 00}\n{07 14 00}Oh, that's just a bit I\nthought up last night.\nAnyhow, you've now\nforgotten how to express\n{ff 00 00 02}{04 10 00}{01 00 00 05 00}{ff 00 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 0a 00}and learned how to express{01 00 00 05 00}\n{ff 00 00 02}{04 0f 00}{ff 00 00 00}! {01 00 00 0f 00}We've\nmade some real progress!",
+   "et": ""
+  },
+  {
+   "id": 29,
+   "en": "{07 00 00}At the Friday Night Komedy\nKlatch, {01 00 00 05 00}I did my new bit\nabout lime-flavored gelatin!\nIt tanked, {01 00 00 05 00}but to add insult\nto injury, {01 00 00 05 00}Myrtle DeMayo\nhad to go and say,\n\"I put my dentures in for\nthis?! {01 00 00 0a 00}Get off the stage!\"{01 01 00}\n{07 01 00}{01 08 00}Oh, everyone's a critic!",
+   "et": ""
+  },
+  {
+   "id": 30,
+   "en": "{07 00 00}Well, {01 00 00 0f 00}I've always thought\nof myself as an amphibian,\nyou see.\nIt's key to my identity,{01 00 00 0f 00}\nthis idea that I can adapt\nto any environment...\n...or even drop tail should\na dangerous situation\narise.\nBut then I entered a dark\nperiod of my life and\nunderwent some counseling{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\nAnd MY therapist said it\ndidn't matter whether I\nwas amphibious or not.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 14 00}\n{07 02 00}as long as I paid him!",
+   "et": ""
+  },
+  {
+   "id": 31,
+   "en": "{07 00 00}I'm reminded of a joke I\nheard one of you humans\ntell at the Komedy Klatch.{01 00 00 05 00}.{01 00 00 05 00}.\n\"I just flew in from out of\ntown{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.and boy, are my arms\ntired!\"\n{07 03 00}AH-{01 00 00 05 00}HA-{01 00 00 05 00}HA-{01 00 00 05 00}HA-{01 00 00 05 00}HA-{01 00 00 05 00}HAA!{01 00 00 05 00}\nHave you ever heard such\ncomic genius?!",
+   "et": ""
+  },
+  {
+   "id": 32,
+   "en": "{07 00 00}Listen to this surprising\nlittle anecdote.{01 00 00 05 00} I was at\nthe Komedy Klatch,\ndoing my new bit about a\nfedora-wearing smelt who\nwalks into a roller rink.\n{ff 00 00 04}(It goes over great with\nthe short-pants wearing\ncrowd, {01 00 00 05 00}let me tell you!){ff 00 00 00}\nAnyhow, Myrtle DeMayo was\nthere, {01 00 00 05 00}and instead of\nheckling me like usual,\nshe threw a tomato, a\nbunch of spinach, a pepper,\nand feta on stage!\nThe joke just writes itself\nbecause.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} {07 04 00}She tossed a\nsalad at me!",
+   "et": ""
+  },
+  {
+   "id": 33,
+   "en": "{07 00 00}At the Komedy Klatch's open\nmike night, {01 00 00 05 00}Myrtle DeMayo\ngot up on stage.\nShe started in on this bit\nabout blazers and male-\npattern baldness.\nI, {01 00 00 05 00}of course,{01 00 00 05 00} was terribly\noffended. {01 00 00 14 00}Not so much at\nthe joke, but because{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 05 00}The woman was wearing a\npaisley muumuu,{01 00 00 05 00} for Pete's\nsake!",
+   "et": ""
+  },
+  {
+   "id": 34,
+   "en": "{07 00 00}When I was first starting\nout in my comedy hobby, {01 00 00 05 00}I\nused to do it in cafes.\nNot that they were actual\ngigs, per se. {01 00 00 05 00}No, I would\njust go in and go off!\nWell, I decided to try out\nmy act at a new\n\"fusion cuisine\" bistro.\nI was going through a\n\"guerilla comedy\" stage at\nthe time, so{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\nAs a waiter walked by, I\njumped up at him and yelled\nat the top of my lungs,\n\"EVER HEARD THE ONE ABOUT\nTHE HULA-HOOPING IGUANA\nWHO DID ORIGAMI?\"\nWell{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}. He was so overcome\nby my joke that he spilled\nhot lizard soup all over me!\n{07 06 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}My best childhood friend\nwas a lizard.{01 00 00 0f 00} That did some\ndamage on the psyche.",
+   "et": ""
+  },
+  {
+   "id": 35,
+   "en": "{07 00 00}Well, {01 00 00 0f 00}the other day,{01 00 00 05 00} I went\nto the hospital because my\nstomach hurt.\nThe doctor was wearing\nthese rubber gloves.\n\nI didn't even think about\nit,{01 00 00 05 00} and I asked him if\nhe was wearing the gloves{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 07 00}so that he wouldn't leave\nany evidence.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}",
+   "et": ""
+  },
+  {
+   "id": 36,
+   "en": "{07 00 00}I once treated a youth\nmuch like yourself. {01 00 00 0a 00}Oh, this\nboy was very troubled.\nFor starters, {01 00 00 05 00}his head\nwas{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.abnormally large, {01 00 00 05 00}even\nby human standards.\nHe couldn't stand still{01 00 00 05 00} and\nwould shift from side to\nside during our session.\n{ff 00 00 04}(A CLEAR sign of a nervous\nneurotic!){ff 00 00 00} {01 01 00}But the worst\npart of it all{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\nwas his total inability to\nform any expression at all!{01 00 00 05 00}\nHis glassy stare was scary.\nOh,{01 00 00 05 00} he wore funny glasses\nand outlandish hats to try\nto disguise it.\nIt didn't help. {01 00 00 05 00}It's just\nheartbreaking when I think\nabout that slack-jawed boy.\nParticularly when I think\nabout{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{07 08 00}all the bugs his\nopen mouth must've caught.",
+   "et": ""
+  },
+  {
+   "id": 37,
+   "en": "{07 00 00}Last month I was at the\nKomedy Klatch, trying out a\nnew routine.\nIt was a rather inspired bit\nabout an armadillo shopping\nfor culottes.\nHave you heard it? {01 00 00 0a 00}The big\npunchline is, \"What's the\narmadill-io?\"\n.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 09 00}{01 00 00 14 00}Yes, {01 00 00 05 00}that's about the\nreaction I received at the\nKomedy Klatch, too.",
+   "et": ""
+  },
+  {
+   "id": 38,
+   "en": "{07 00 00}I've spoken to you about\nthe importance of FEELINGS,{01 00 00 05 00}\nbut do you know why?\nWell, maybe this sounds like\npatchouli-drenched hippie\ntomfoolery but{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 0a 00}When you are one with your\nfeelings, {01 00 00 05 00}you are free to\nbe yourself. {01 00 00 0a 00}It's true!",
+   "et": ""
+  },
+  {
+   "id": 39,
+   "en": "{07 00 00}I try to make my jokes \nsimple,{01 00 00 05 00} so that more people\ncan enjoy them.\nBut it's a big world we live\nin, so there will always be\nthose who don't understand.\nWait, {01 00 00 05 00}what did you say?{01 00 00 0f 00}\nWhat don't they understand?{01 01 00}\n{07 0b 00}Where are they?",
+   "et": ""
+  },
+  {
+   "id": 40,
+   "en": "{07 00 00}So, {01 00 00 05 00}how many therapists\ndoes it take to change a\nlightbulb?\nThree! {01 01 00}{07 0c 00}One to change it and\ntwo others to process the\nloss of the old one!",
+   "et": ""
+  },
+  {
+   "id": 41,
+   "en": "{07 00 00}I feel like dancing, so{01 00 00 05 00} I'm\ngoing to take my own advice\nand express that feeling!\nI'm going to shake my hips \na little, {01 00 00 05 00}so this might be a\nbit too intense for you.\nBut all I can say is,{01 00 00 0a 00}\ndancing can be VERY\ncathartic!\nHere I go!{01 01 00} {07 0d 00}Shake it, {ff 00 00 06}Shrunk{ff 00 00 00}!{01 00 00 0a 00}\nShake it, {ff 00 00 06}Shrunk{ff 00 00 00}! {01 00 00 0a 00}Shake it,\nshake it, shake it!",
+   "et": ""
+  },
+  {
+   "id": 42,
+   "en": "{07 00 00}When I first started out in\nthe comedy business, {01 00 00 05 00}it was\nquite rocky.\nI had a hard time mastering\nthe art of timing. {01 00 00 0a 00}To this\nday, I'm still not sure.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n{07 0e 00}if I should shout \"BOOYAH!\"{01 00 00 0f 00}\nbefore or after the\npunchline.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}",
+   "et": ""
+  },
+  {
+   "id": 43,
+   "en": "{07 00 00}I've seen my share of\ntomatoes from the stage's\ncruel viewpoint.\nWell, tomatoes, cabbage,\neggplants. {01 00 00 05 00}You name the\nproduce,{01 00 00 05 00} I've worn it.\nBut last night at the\nKomedy Klatch, {01 00 00 05 00}someone\nthrew a toupee at me!\n{07 0f 00}That really stung.",
+   "et": ""
+  },
+  {
+   "id": 44,
+   "en": "{07 00 00}For this next trigger, {01 00 00 05 00}I'm\ngoing to refer to an actual\nevent. {01 00 00 14 00}Do you remember{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\nwhen {ff 00 00 06}Tom Nook{ff 00 00 00} asked you if\nhe looked like a man\ndressed in a raccoon suit?\nAnd do you remember how{01 00 00 05 00}\nyou laughed and said you\ncould see the zipper?\nLater he said to me, {01 00 00 05 00}{07 10 00}\"I am\nnot a mascot, hm? {01 00 00 05 00}No no.\nHow terrible.\"",
+   "et": ""
+  },
+  {
+   "id": 45,
+   "en": "{07 00 00}I've come up with a plan for\nrepresenting the Klatch at\nthe district comedy finals.\nOK, {01 00 00 0a 00}so Myrtle DeMayo is\ngoing do a bit on support\nhose, which judges love.\nBut I've thought of a bit\nthat's sure to blow hers\nout of the water.\nIt's a secret, but I'll tell\nyou. {01 00 00 0a 00}I'm planning a\nbrand-new bit about...\n{07 11 00}hospital food! {01 00 00 0a 00}Judges LOVE\njokes about hospital food!",
+   "et": ""
+  },
+  {
+   "id": 46,
+   "en": "{07 00 00}Talking about yourself can\nbe cathartic,{01 00 00 05 00} but you must\nthink of the audience.\nAlways.{01 00 00 14 00} Both in comedy and\nreal life. {01 00 00 0a 00}So, everything\nyou say should SPARKLE!\nOtherwise{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{07 12 00}it's just a\nsnoozefest.",
+   "et": ""
+  },
+  {
+   "id": 47,
+   "en": "{07 00 00}I'm going to be quite candid\nfor this next trigger, {01 00 00 05 00}so\ndon't feel uncomfortable.\n{0b 03 00}{04 00 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} Between you\nand me, {01 00 00 05 00}you like me, {01 00 00 05 00}don't\nyou? {01 00 00 05 00}You admire my wisdom.\nI know,{01 00 00 05 00} I can tell.{01 01 00} I can\nread people, you see. {01 00 00 05 00}It's\npart of both my jobs.\nAnd honestly,{01 01 00} I really like\nthat part of you that\nreally likes me.\n{07 13 00}I like it more than{01 00 00 0f 00} I can\nstand sometimes.{01 01 00} Especially\nwhen I'm talking.",
+   "et": ""
+  },
+  {
+   "id": 48,
+   "en": "{07 00 00}We all wear masks. {01 00 00 0a 00}You, me,\n{ff 00 00 06}Tom Nook{ff 00 00 00} {01 00 00 05 00}{ff 00 00 04}(well, he wears a\nraccoon suit,\nbut it serves the same\ngeneral purpose){ff 00 00 00}.{01 01 00} We must\nbreak free from our masks!\nWhy is it that, even when\nwe're crying on the inside,\n\n{07 14 00}the outside world sees\nonly a smile?",
+   "et": ""
+  },
+  {
+   "id": 49,
+   "en": "{07 00 00}Self-doubt is a very\nunproductive emotion to\nhave. {01 00 00 05 00}Remember that.\nWhy, {01 00 00 05 00}would I have gotten\nwhere I am today if I beat\nmyself up?\nI could obsess over my lack\nof hair, {01 00 00 05 00}my tacky blazer,{01 00 00 05 00}\nmy rocky comedy career.\nI could focus on my\nlong-windedness {01 00 00 05 00}or how\npeople don't get my jokes.\nI could think about the\ntons of produce that I've\nhad hurled my way.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 15 00}You know, I think I may\nhave just expressed myself\na bit too much there.",
+   "et": ""
+  },
+  {
+   "id": 50,
+   "en": "{07 00 00}Well, as you probably know,\ndistrict comedy finals\nare coming up,\nso we're voting on a\nrepresentative from the\nKomedy Klatch.\nSo far, I'm in fourth place{01 00 00 05 00}\n{ff 00 00 04}(out of four contenders){ff 00 00 00}.{01 00 00 05 00}\nThe voting must be rigged.\nI overheard Myrtle DeMayo\npromising to tell support\nhose jokes {01 00 00 05 00}exclusively{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 16 00}Judges love jokes about\nsupport hose. {01 00 00 0f 00}That and\ndenture cream.",
+   "et": ""
+  },
+  {
+   "id": 51,
+   "en": "{07 00 00}While one's self-esteem\nshouldn't depend on the\napproval of others,\ncompliments can be a nice\nlittle boost. {01 01 00}Take me, for\nexample.\nLast week at the Komedy\nKlatch, {01 00 00 05 00}I did my bit about\nknickerbockers and mustard.\nA fellow in the audience\nthrew a whole salmon on\nstage in response.\n{07 17 00}I was really touched that\nhe liked my routine enough\nto buy me dinner.",
+   "et": ""
+  },
+  {
+   "id": 52,
+   "en": "{07 00 00}After my show at the\nKomedy Klatch two weeks\nago, {01 00 00 05 00}a fellow accosted me.\nHe got right up in my face,\nobscuring my vision, {01 00 00 05 00}and\nproceeded to berate me.\nOh, {01 00 00 05 00}he hit on everything,\nfrom my bit about the\ntube-sock-eating jellyfish\nto my new {ff 00 00 02}Ms. Nintendique\n{ff 00 00 00}tie. {01 00 00 05 00}{ff 00 00 04}(I am comfortable in\nmy masculinity.){ff 00 00 00} \nI learned an important\nlesson in the art of\ndebate.\nPresent your argument\nclearly, {01 00 00 05 00}arm yourself with\ncutting wit, and,{01 00 00 05 00} of course,\n{07 18 00}bob and weave!",
+   "et": ""
+  },
+  {
+   "id": 53,
+   "en": "{07 00 00}I think it's because of my\nmultidimensional outlook\non life,\nbut people tell me all the\ntime that I {01 00 00 05 00}\"look younger\nthan I really am.\"\nDo you know what I mean?{01 00 00 14 00}\n{07 19 00}Yes, I thought you would{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.",
+   "et": ""
+  },
+  {
+   "id": 54,
+   "en": "{07 00 00}Now, {01 00 00 05 00}{04 00 00}. {01 00 00 0a 00}Perhaps\nthe most unproductive of\nall emotions is jealousy.\nI know you wish you had my\neasy way with people {01 00 00 05 00}or my\ngift for the comedic.\nBut, {04 00 00}, {01 00 00 05 00}you must\nknow that you're funny\nenough just standing there.\nI'll bet you get lots of\nchuckles {01 01 00}just by the way\nthat you look.\n{07 1a 00}Whoo!{01 00 00 05 00} Woo hoo hoo hoo{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.",
+   "et": ""
+  },
+  {
+   "id": 55,
+   "en": "{07 00 00}Though I consider my mind\nto be about as open as\nthey come, {01 00 00 05 00}to be honest,\nI find it very strange that\nyou humans insist on\nwearing pants all the time.\nI suppose I can understand\nit for special occasions,{01 01 00}\nbut ALL THE TIME?\n{07 1b 00}Oh, well. {01 00 00 0a 00}Different strokes\nfor different folks, I\nguess.",
+   "et": ""
+  },
+  {
+   "id": 56,
+   "en": "{07 00 00}A deep sigh is the psyche's\nway of letting out steam.\n\nWhenever I hear one, {01 00 00 05 00}I can't\nhelp but wonder what's\ntroubling that person.\nAnd if that sigh smells like\nmorning breath, {01 00 00 05 00}it's even\nmore distressing.\nWell, {01 00 00 05 00}that's what I was told{01 00 00 0f 00}\nby a patient, anyway.{01 01 00}{07 1c 00}{01 00 00 14 00}",
+   "et": ""
+  },
+  {
+   "id": 57,
+   "en": "{07 00 00}When I was just a small boy,{01 00 00 05 00}\nmy father took me into the\nbig city once.\nI was busy eating an ice\ncream cone {01 00 00 05 00}{ff 00 00 04}(my favorite,\ndouble-fly bug swirl){ff 00 00 00},\nwhen suddenly I noticed a\nman dressed in black and\nwhite on the street corner.\nHe danced frantically,{01 00 00 05 00} and\nthough he twisted his face\ninto grotesque expressions,\nhe remained completely\nsilent throughout. {01 00 00 0f 00}When I\nasked my father about him,\nhe said that the man {01 00 00 05 00}was a\ntime traveler who had\ncome from a distant past.\nIt was, {01 00 00 05 00}said my father,{01 00 00 05 00} a\ntime before color and sound\nhad been invented.\nAs I was describing this\nevent to my therapist,{01 00 00 05 00} I\nhad a sudden breakthrough!\nThe man wasn't a time\ntraveler at all. {01 00 00 14 00}{01 01 00}{07 1d 00}He was a\nmime!",
+   "et": ""
+  }
+ ]
+}

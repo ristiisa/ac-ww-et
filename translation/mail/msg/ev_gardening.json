@@ -1,0 +1,20 @@
+{
+ "file": "script/ENG/mail/msg/ev_gardening.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "The Green Thumb goes to\n{04 0f 00}! Your garden\nhas left us completely\nspeechless! Well done!",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{0b 03 00}{0b 03 00}{04 0f 00} has won the\nGreen Thumb! Your garden\nreally blew us away. Not\na single flaw!",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "The Green Thumb goes to\n{04 0f 00}! What\ngallant gardening! What\nbeautiful botany!",
+   "et": ""
+  }
+ ]
+}

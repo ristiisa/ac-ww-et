@@ -1,0 +1,50 @@
+{
+ "file": "script/ENG/message/ge/tsu/dress_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 14 00}Hey, check it out!{01 01 00} {07 0b 00}I look\nCRAZY cute in this outfit,\nright?{05 05 00 04 04 04 05 04 05 04 06}\nYeah!\nNot so much...",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 02 00}WHAT?!{01 01 00} You're the one who\ndesigned this dress!\n\n{07 06 00}I must have seen your name\non the label and bought it\nwithout even looking!\n{07 15 00}That's the last time I buy\none of your hideous\ndesigns, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 14 00}Hey, {01 00 00 05 00}{04 1f 00}!{01 00 00 0a 00} This is\n{ff 00 00 05}{01 00 00 05 00}{04 0f 00}{ff 00 00 00}'s design!\n\n{07 00 00}It's craaaaazy hot!{01 00 00 05 00} Well, {01 00 00 05 00}\nmaybe not CRAZY hot{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} {07 14 00}But\nit's still kinda cool, right?{01 00 00 05 00}{02 00 00 07 08}\nYou know it!\nMeh.",
+   "et": ""
+  },
+  {
+   "id": 3,
+   "en": "{07 14 00}Just look at this dress!{01 00 00 0a 00}\nIt's one of {ff 00 00 05}{04 0f 00}{ff 00 00 00}'s{ff 00 00 05}\n{ff 00 00 00}signature designs.\n{07 00 00}It has this unique\n{04 10 00} style to it,\n{01 00 00 05 00}{04 02 00}!\n{07 06 00}I just want to buy it all,\n{01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 4,
+   "en": "{07 02 00}No way!!! {01 00 00 0f 00}{07 16 00}But I thought\nsomething {04 14 00}\nwould be perfect!",
+   "et": ""
+  },
+  {
+   "id": 5,
+   "en": "{07 15 00}Speak up!{01 00 00 05 00} You're mumbling\nagain, {01 00 00 05 00}{04 02 00}!\n\n{07 06 00}It's always mumble mumble\nmumble with you.{01 00 00 05 00}\nTry pumping up the volume!",
+   "et": ""
+  },
+  {
+   "id": 6,
+   "en": "{07 14 00}I know that!{01 00 00 0a 00} After all, I\nspent a fortune on it,\n{01 00 00 05 00}{04 02 00}!\n{07 0d 00}You've got a good eye for\nfashion,{01 00 00 05 00} {04 1f 00}!",
+   "et": ""
+  },
+  {
+   "id": 7,
+   "en": "{07 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}Yeah?{01 00 00 0a 00} Well, to be honest,\nI wasn't that crazy about\nit anyway.\n{07 14 00}But if you said it was cool,\nI'd wear it, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 8,
+   "en": "{07 0e 00}.{01 00 00 05 00}.{01 00 00 05 00}.You are SO jealous right\nnow, right? {01 00 00 05 00}Right,\n{01 00 00 05 00}{04 02 00}?\n{07 16 00}Then maybe you should try\ndesigning the latest styles,\n{04 1f 00}!\n{07 0d 00}You can bribe fashion divas\nlike me to wear your stuff\nand make it all the rage!",
+   "et": ""
+  }
+ ]
+}

@@ -1,0 +1,20 @@
+{
+ "file": "script/ENG/message/ha/q01/con2_4_5_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 16 00}I still can't catch a stupid{01 00 00 0a 00}\n{0b 02 00}{04 1a 00}!\n\n{07 0f 00}Even if I find one, it just\nruns away like a wimp{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n\n{07 06 00}This is just killing me!{01 00 00 14 00}\nI've never felt less manly,\n{01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 00 00}Hey, did you already catch\n{07 0b 00}{04 1a 00}?\n\nNo matter where I look, I\njust can't find one of\nthose things{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\nHey, you think that jerk,\n{04 0c 00}, caught every\nlast one?",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 10 00}It's impossible to find\n{04 1a 00}\nanywhere, {01 00 00 05 00}{04 02 00}!\n{07 15 00}Wait, what's up with you?{01 00 00 05 00}\nWhat's with that smug face?{01 01 00}\nIt can't be{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.\n{07 04 00}Have you? Have you really?{01 00 00 05 00}\nIs it even possible?{01 00 00 05 00}\nReally, {01 00 00 05 00}{04 02 00}?",
+   "et": ""
+  }
+ ]
+}

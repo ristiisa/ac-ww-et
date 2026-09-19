@@ -1,0 +1,20 @@
+{
+ "file": "script/ENG/message/ha/q06/get_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 00 00}Oh!{01 00 00 0a 00} From {ff 00 00 06}{04 0f 00}{ff 00 00 00}?{01 00 00 14 00} Is it\nalready that time of year?{01 01 00}\nSweet, {01 00 00 05 00}let's open it!",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 00 00}{0b 03 00}{ff 00 00 06}{04 0f 00} {ff 00 00 00}got me this?{01 00 00 14 00}\nWhoa, talk about coming\nout of left field...\nOh well, {01 00 00 05 00}it's free, right?{01 00 00 05 00}\nThe price is right, baby!{01 00 00 14 00}\nLet's see{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 00 00}Oh, {01 00 00 05 00}it's from {ff 00 00 06}{04 0f 00}{ff 00 00 00},\nis it?{01 00 00 14 00} What's in it?!{01 00 00 0a 00}",
+   "et": ""
+  }
+ ]
+}

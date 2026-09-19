@@ -1,0 +1,20 @@
+{
+ "file": "script/ENG/message/ko/q09/badend_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 06 00}HWAT?! So now you decide to\nshow up, {01 00 00 05 00}{04 02 00}?!\n\n{07 16 00}I hid out behind some tree\nforever, but you never\nfound me!\n{07 1b 00}But, {01 00 00 05 00}I guess it's my fault.\nMy shadowy ninja skills\nmake me impossible to find!{03 02 00 01}",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 04 00}What?!{01 00 00 0f 00} Hide and seek,\n{01 00 00 05 00}{04 02 00}?\n\n{07 0e 00}What are ya talkin' about?\nI don't remember any hidin'\nor seekin'{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.\n{07 15 00}Oh, wait. {01 00 00 05 00}You mean way back\nthen, {01 00 00 05 00}{04 02 00}?\n\nI was out there hiding for\nhours, {01 00 00 05 00}but you never\nshowed up!\nYeah, it got kinda lonely\nout there. {01 00 00 05 00}It was just me\nand the bugs.{03 03 00 01}",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 04 00}Hide and seek{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} huh?{01 00 00 0f 00}\n{07 00 00}Oh, yeah! I was out there\nhiding for a while.\n{07 01 00}But then you never came\nlookin' for me, ya gravy-\nfaced bilgemuffin!\n{07 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 15 00} Thanks a load,\n{01 00 00 05 00}{04 02 00}!{03 02 00 01}",
+   "et": ""
+  }
+ ]
+}

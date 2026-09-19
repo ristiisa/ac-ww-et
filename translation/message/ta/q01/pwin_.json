@@ -1,0 +1,15 @@
+{
+ "file": "script/ENG/message/ta/q01/pwin_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "Let's see what you got.{01 01 00}\n{0b 03 00}{04 1c 00}?!{01 00 00 14 00}\nHow in the world?!\n{07 1c 00}{01 00 00 0a 00}Ugh{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00} I guess this means I\nlost the match. {01 00 00 0a 00}This is\nunbelievable, {01 00 00 0a 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 04 00}Wow, {01 00 00 0a 00}that's pretty\nimpressive!{01 00 00 14 00} Isn't that bug \n{04 1c 00}?\n{07 1c 00}OK. {01 00 00 05 00}Then I guess\n{0b 01 00}{04 1d 00}\nI've got is no match{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.",
+   "et": ""
+  }
+ ]
+}

@@ -1,0 +1,20 @@
+{
+ "file": "script/ENG/message/ko/q03/clear_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 14 00}I owe you one,{01 00 00 05 00}\n{04 1f 00}! {01 00 00 05 00}{0b 03 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 14 00}Hey{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} That was kinda cool \nof you, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 00 00}This fossil is gonna look\ngreat back at my pad. Come\ncheck it out, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  }
+ ]
+}

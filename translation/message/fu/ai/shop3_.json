@@ -1,0 +1,185 @@
+{
+ "file": "script/ENG/message/fu/ai/shop3_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{06 0b 00 0b 0b 0b 0b 0c 0c 06}",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 16 00}The first time I came here,{01 00 00 05 00}\nI had only just moved into\ntown, and I was so nervous.\n{06 01 00 0d 0e 0f}",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{06 08 00 10 11 12 13}",
+   "et": ""
+  },
+  {
+   "id": 3,
+   "en": "Hey, {04 1f 00}. So, have\nyou had your first cup of\nof coffee for the day yet?{02 00 00 14 19}\nI sure have!\nI'm just about to.",
+   "et": ""
+  },
+  {
+   "id": 4,
+   "en": "{06 0b 00 1d 1e 1d 1e 1d 1e 1d}",
+   "et": ""
+  },
+  {
+   "id": 6,
+   "en": "You want to know a secret?\nJust the other day, I saw\n{ff 00 00 06}Kapp'n{ff 00 00 00} in here.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\nAnd he wasn't alone, either!\nHe was with a girl!{02 00 00 07 0a}\nNo, really?\nNo way!",
+   "et": ""
+  },
+  {
+   "id": 7,
+   "en": "{07 19 00}I'm totally serious!{01 00 00 0f 00}\n{07 00 00}They were sitting at the\ntable right next to me.\n{07 11 00}So I listened really hard\nand tried to hear what\nthey were talking about.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n{07 00 00}It sounded like they'd met\nat some kind of fancy\nkitchenware party.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\nSo {ff 00 00 06}Kapp'n{ff 00 00 00},{01 00 00 05 00} he looks at the\ngirl, and he says.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n{06 08 00 08 09 08 09}",
+   "et": ""
+  },
+  {
+   "id": 8,
+   "en": "{07 1b 00}\"I'm a wealthy businessman,\nlassie! Yar, I even own me\nown private yacht!\"\n{07 0f 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}It was just about the\nmost pitiful thing I've ever\nseen, {01 00 00 05 00}{04 02 00}.",
+   "et": ""
+  },
+  {
+   "id": 9,
+   "en": "{07 1b 00}\"Have ye ever dated a\nfighter pilot, lassie?\"{01 01 00}\n\n{07 0f 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}It was just about the\nmost pitiful thing I've ever\nseen, {01 00 00 05 00}{04 02 00}.",
+   "et": ""
+  },
+  {
+   "id": 10,
+   "en": "{07 00 00}Oh, no! I saw it with my own\ntwo eyes!{01 01 00} {07 11 00}There's no\nmistaking that hairstyle.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n{07 19 00}There's not a single doubt\nin my mind, {01 00 00 05 00}{04 02 00}!\nThat was {ff 00 00 06}Kapp'n{ff 00 00 00}!",
+   "et": ""
+  },
+  {
+   "id": 11,
+   "en": "Whenever I come here, I see\npeople I don't usually see\nanywhere else.\n{07 14 00}I guess that's why I come\nhere so often, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 12,
+   "en": "Usually, I only let myself\ndrink coffee on Fridays and\nSaturdays, {01 00 00 05 00}{04 02 00}.\nThat's because it {07 0f 00}keeps me\nup all night, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 13,
+   "en": "{07 07 00}I get jittery when I think\npeople are watching me.{01 00 00 05 00} Or\nmaybe it's just the coffee.",
+   "et": ""
+  },
+  {
+   "id": 14,
+   "en": "{07 17 00}Everyone in here seemed so\nmature, so worldly, so.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\nsophisticated, {01 00 00 05 00}{04 02 00}.\n{07 14 00}Tee hee.{01 00 00 0f 00} I suppose I must\nhave been pretty naive\nback then, {01 00 00 05 00}{04 02 00}.",
+   "et": ""
+  },
+  {
+   "id": 15,
+   "en": "{07 00 00}I'm totally over that now.\nI guess I'm just used to\nall the faces here.\nBut every now and then,\n{07 09 00}I miss that feeling.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}",
+   "et": ""
+  },
+  {
+   "id": 16,
+   "en": "The other day, I had a VERY\nbitter shot of espresso,\n{01 00 00 05 00}{04 02 00}.\n{07 19 00}It was so bitter, it almost\ngave me whiplash when I had\nmy first sip.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n{07 1b 00}But I'll tell you one thing:\nit totally wiped the sleep\nfrom my eyes, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 17,
+   "en": "{07 0b 00}{04 1f 00}, stopped by for\na little afternoon tea too,\ndid you, {01 00 00 05 00}{04 02 00}?",
+   "et": ""
+  },
+  {
+   "id": 18,
+   "en": "A girl like me, sitting in a\ncafe all by herself at a\ntime like this.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\nMaybe it's not the caffeine\nthat's giving me the\njitters, {01 00 00 05 00}{04 02 00}.",
+   "et": ""
+  },
+  {
+   "id": 19,
+   "en": "If I were to finish off a\ncup of coffee right now.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n\nI don't think I'd be able to\nget to sleep at all\ntonight, {04 02 00}.\n{07 14 00}Still, it does smell pretty\ngood. Oh, maybe just a sip.",
+   "et": ""
+  },
+  {
+   "id": 20,
+   "en": "What did you have? A cup\nof {ff 00 00 06}Brewster{ff 00 00 00}'s secret blend?\n{07 0b 00}So how was it?{05 05 00 05 15 02 16 04 17 05 18}\nOut of this world!\nTasted like dirt!",
+   "et": ""
+  },
+  {
+   "id": 21,
+   "en": "{07 19 00}Really? I see.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} {04 1f 00},\nyou must like your coffee\nextra strong, {01 00 00 05 00}{04 02 00}.{07 00 00}\n{07 0c 00}Someday, I'll have to ask\nBrewster what the secret\nbehind his secret blend is.",
+   "et": ""
+  },
+  {
+   "id": 22,
+   "en": "{07 04 00}Really?{01 00 00 14 00} Well, I doubt that's\nwhat Brewster was shooting\nfor, but.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n{07 0a 00}I totally agree with you.\nIt's almost perfect. ALMOST!\nI'm surprised you noticed!\n{07 0d 00}{04 1f 00},{01 00 00 0f 00} you must\ndrink a lot of coffee,\n{01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 23,
+   "en": "Hm. If I had to grade this\ncoffee, I'd give it a{07 0e 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}hm.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\nI guess I'd give it a C.\n{07 16 00}I think he must have left\nhis out special, homemade\npigeon milk.",
+   "et": ""
+  },
+  {
+   "id": 24,
+   "en": "{07 04 00}Oh.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} Are you serious?\n{07 0b 00}So you didn't care for it,\ndid you, {01 00 00 05 00}{04 02 00}?\n{07 00 00}Personally, I thought the\ncoffee was quite tasty.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}",
+   "et": ""
+  },
+  {
+   "id": 25,
+   "en": "{06 01 00 1a 1b 1c}",
+   "et": ""
+  },
+  {
+   "id": 26,
+   "en": "{07 14 00}Just once, I wish I could\norder something like an\nice-cream float, you know?",
+   "et": ""
+  },
+  {
+   "id": 27,
+   "en": "{07 14 00}Well, I hope you like\ntoday's, {04 1f 00}.{01 00 00 0f 00} It's a\nsecret blend, or so I hear!",
+   "et": ""
+  },
+  {
+   "id": 28,
+   "en": "{07 1b 00}\"{ff 00 00 02}Brewster, I'll take my\nusual, and in a clean cup!{ff 00 00 00}\"\n\n{07 17 00}I wish I could order like\nthat, {01 00 00 05 00}but I'm just so\nbashful, {01 00 00 05 00}{04 02 00}.",
+   "et": ""
+  },
+  {
+   "id": 29,
+   "en": "{06 01 00 1f 20 21}",
+   "et": ""
+  },
+  {
+   "id": 30,
+   "en": "{06 01 00 22 23 24}",
+   "et": ""
+  },
+  {
+   "id": 31,
+   "en": "{07 0e 00}Do you think listening to\nmusic while you drink makes\nyour coffee taste better?\n{07 13 00}I'd love it if they were\nplaying some {04 17 00}\nright now, {01 00 00 05 00}{04 02 00}.\n{07 06 00}Oh!{01 01 00} I wish Brewster had a\njukebox! I want to hear\nsome tunes, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 32,
+   "en": "{07 0e 00}I wonder what kind of beans\nhe used to make today's\nspecial blend.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}",
+   "et": ""
+  },
+  {
+   "id": 33,
+   "en": "I love the names of all the\ndifferent blends of coffee!\n\n{07 0b 00}Aren't they just so exotic?\nThey sound like they come\nfrom such exciting places.\n{07 00 00}Someday{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 0d 00}I want to see\neach of those countries\nfor myself, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 34,
+   "en": "After a long day,{01 00 00 05 00} when I've\naccomplished a lot of work,\nand I've earned a break.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n{07 0d 00}I come down here and treat\nmyself to a latte and some\ntasty {04 19 00}!",
+   "et": ""
+  },
+  {
+   "id": 35,
+   "en": "{07 13 00}When it's just {ff 00 00 06}Brewster{ff 00 00 00} and\nme here,{01 00 00 05 00} all by ourselves,\nhe does the nicest thing.\nHe mixes up some chocolate\nwhipped cream{01 00 00 05 00} and adds it\nto my coffee, {01 00 00 05 00}{04 02 00}.\n{07 19 00}It's so sweet and rich and\ncreamy, and it makes\neverything taste better.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n{07 0d 00}Mmmmmmmmmm!!! It's so\nyummy, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 36,
+   "en": "{07 19 00}I've heard that {ff 00 00 06}Brewster{ff 00 00 00}'s\ncoffee uses only the purest\nnatural spring water.\n{07 1a 00}That's so {ff 00 00 06}Brewster{01 00 00 05 00}{ff 00 00 00}!\nHis coffee is his art,\n{01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  }
+ ]
+}

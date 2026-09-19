@@ -1,0 +1,170 @@
+{
+ "file": "script/ENG/bbs/bbs_event.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "Happy New Year, my dear\nfriends! If you need\nanything in this new era,\nplease come visit my\nhumble shop!\n              Tom Nook",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "   - Weather Bulletin - \n\nSticky, plentiful snow.\nIdeal for snowman making.\nLow temps will prevent\nthe lake from freezing.",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "- Cherry Blossom Watch -\n\nEach day gets warmer...\nThose buds are ready to\nburst! April 1st will be\nthe best time to see!",
+   "et": ""
+  },
+  {
+   "id": 3,
+   "en": " - Weather Bulletin - \n\nSunny, warm days through\nthe foreseeable future.\nThe rainy season should\nstrike by June.",
+   "et": ""
+  },
+  {
+   "id": 4,
+   "en": "  - Weather Bulletin - \n\nThis year's rainy season\nwill end by mid-July. \nAfter that, it gets hot,\nhot, hot! Catch the rays!",
+   "et": ""
+  },
+  {
+   "id": 5,
+   "en": "  - Weather Bulletin -\n\nCome November, mornings\nwill start to cool down.\nWe might even see snow, \nso keep warm!",
+   "et": ""
+  },
+  {
+   "id": 6,
+   "en": " - Heavy Snow Warning - \n\nA big snowstorm will\narrive here tomorrow.\nPlease make sure to dress\nwarmly when you go out.",
+   "et": ""
+  },
+  {
+   "id": 7,
+   "en": "      - Notice -\n\nThe Fishing Tourney will\nbegin this coming Sunday!\nTry to catch a big one!",
+   "et": ""
+  },
+  {
+   "id": 8,
+   "en": "       - Notice -\nThe Fishing Tourney begins\ntomorrow, and the winner\ngets a sweet trophy!\nGo to bed so you're ready\nfor the big day!",
+   "et": ""
+  },
+  {
+   "id": 9,
+   "en": "     - Notice - \n\nThis Sunday is the long-\nawaited Bug-Off!\nGet buggy with it!",
+   "et": ""
+  },
+  {
+   "id": 10,
+   "en": "     - Notice -\n\nTomorrow is the Bug-Off!\nThe person with the\nbiggest bug gets a huge\ntrophy! Get your bug on!",
+   "et": ""
+  },
+  {
+   "id": 11,
+   "en": "     - Notice - \nThis Saturday is the Flea\nMarket! Why not show up? \nYou might find something\nnice... Like a flea!\nWah ha ha ha ha ha!!!",
+   "et": ""
+  },
+  {
+   "id": 12,
+   "en": "    - Notice - \nThe Flea Market is open\nfor business tomorrow!\nVisit other folks' houses\nand pick up gently used\nitems for dirt cheap!",
+   "et": ""
+  },
+  {
+   "id": 13,
+   "en": "     - Notice -\n\nGuess what this Saturday\nis? It's La-Di-Day! \nGet the frog out of your\nthroat and start singin'!",
+   "et": ""
+  },
+  {
+   "id": 14,
+   "en": "    - Notice -\nTomorrow is La-Di-Day!\nThe best and most melodic\nsong will become our new,\nbeloved town tune! \nP.S. No smooth jazz!!",
+   "et": ""
+  },
+  {
+   "id": 15,
+   "en": "      - Notice - \n\nThis Sunday is a very\nspecial day... Yay Day!\nStart thinking up those\ncompliments right now!",
+   "et": ""
+  },
+  {
+   "id": 16,
+   "en": "      - Notice -\nTomorrow we celebrate \nkindness and happiness\nwith Yay Day! Break out\nyour best compliments and\nlet the sunshine in!",
+   "et": ""
+  },
+  {
+   "id": 17,
+   "en": "   - Festival Notice -\n\nThe Flower Fest will begin\nnext Monday. Buy a\nwatering can and seeds\nand get to work!",
+   "et": ""
+  },
+  {
+   "id": 18,
+   "en": "    - Festival Notice -\nTomorrow, Monday, is the\nstart of our weeklong\nFlower Fest! It's a chance\nto brag about your mad\ngardening skillz!",
+   "et": ""
+  },
+  {
+   "id": 19,
+   "en": "    - Festival Notice -\nThe Flower Fest will\ncontinue through next\nSunday. Please enjoy\nthe great gardens!",
+   "et": ""
+  },
+  {
+   "id": 20,
+   "en": "       - Notice -\n\n     Fireworks Show!\n        Saturday!\n        7:00 p.m.!\n    Be there or else!",
+   "et": ""
+  },
+  {
+   "id": 21,
+   "en": "         - Notice -\n\nThe Fireworks Show starts\nright at 7:00 p.m.\ntomorrow night! Whooo!\nDon't miss it!",
+   "et": ""
+  },
+  {
+   "id": 22,
+   "en": "- Acorn Festival Notice -\nThe Acorn Festival starts\nnext Monday! Let's all go\nfind nature's most eerie\nand mysterious of gifts...\nTHE MIGHTY ACORN!",
+   "et": ""
+  },
+  {
+   "id": 23,
+   "en": "- Acorn Festival Notice -\nStarting tomorrow, we can\nall enjoy the wonder that\nis the acorn. And keep an\neye out for Cornimer!!",
+   "et": ""
+  },
+  {
+   "id": 24,
+   "en": "- Acorn Festival Notice -\nThe Acorn Festival will\ncontinue until next\nMonday. Get out there\nand enjoy some acorn-\npicking good times!",
+   "et": ""
+  },
+  {
+   "id": 25,
+   "en": " - Bright Nights Notice -\nBright Nights will start\nnext Monday! Who will\nwin the treasured crown\nof best light decorator?",
+   "et": ""
+  },
+  {
+   "id": 26,
+   "en": " - Bright Nights Notice -\nBright Nights will start\ntomorrow! TOMORROW!\nGet ready to decorate\nthose houses! C'mon,\ndo it! DO IT!",
+   "et": ""
+  },
+  {
+   "id": 27,
+   "en": " - Bright Nights Notice -\n\nBright Nights will continue\nthrough next Monday!!\n...Only with FUN can we\nsurvive the harsh winter!",
+   "et": ""
+  },
+  {
+   "id": 28,
+   "en": "   - Notice -\nThe countdown starts on\nthe morning of December\n31st! Come to the plaza\nand celebrate with all of\nyour friends!",
+   "et": ""
+  },
+  {
+   "id": 29,
+   "en": "     - Notice -\nJoin us for the big\ncountdown to welcome\nthe new year. Each tick\nof the clock is like a\nlightning bolt of FUN!",
+   "et": ""
+  },
+  {
+   "id": 30,
+   "en": "  - Happy Birthday - \nToday is {04 0f 00}'s\nbirthday! {00 01 00} {0b 03 00}{04 0f 00}\nis now one step closer\nto being an adult.\nBring 'em a present!",
+   "et": ""
+  },
+  {
+   "id": 31,
+   "en": " - Happy Birthday - \nHappy B-day, {04 0f 00}!\nWe hope that you'll stick\naround for a long, long\ntime to come! {00 01 00}",
+   "et": ""
+  },
+  {
+   "id": 32,
+   "en": " - Happy Birthday - \nToday is {04 0f 00}'s\nbirthday! Take good care\nof yourself and stay\nsweet, {04 0f 00}! {00 01 00}\n                -Pelly",
+   "et": ""
+  }
+ ]
+}

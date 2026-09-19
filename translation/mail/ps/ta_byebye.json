@@ -1,0 +1,30 @@
+{
+ "file": "script/ENG/mail/ps/ta_byebye.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "Happy now... {04 10 00}",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "Don't forget {04 10 00}!",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "Whatever! -{04 10 00}",
+   "et": ""
+  },
+  {
+   "id": 3,
+   "en": "Later! From, {04 10 00}",
+   "et": ""
+  },
+  {
+   "id": 4,
+   "en": "I'm out! From, {04 10 00}",
+   "et": ""
+  }
+ ]
+}

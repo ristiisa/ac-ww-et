@@ -1,0 +1,85 @@
+{
+ "file": "script/ENG/message/fu/ap/trade_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 00 00}Hey, {01 00 00 05 00}{04 1f 00}.{01 00 00 0f 00} Did I\nimagine it, or do you have\n{04 1a 00}?\n{07 06 00}Oh! I've been wanting one of\nthose for so long!{01 00 00 05 00} Where\ndid you get it?\n{07 00 00}Could I talk you out of it?\nMaybe if I offered you my\n{0b 02 00}{04 1b 00}?{02 00 00 07 03}\nOoo, yeah.\nNo can do.",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 00 00}Hey, {01 00 00 05 00}{04 1f 00},{01 00 00 0f 00} think\nfast! No questions, no\nhesitation. Just answer!\nTrade me your\n{0b 02 00}{04 1a 00}...\n\nFor my amazing\n{0b 02 00}{04 1b 00}?{02 00 00 07 03}\nWhy not?\nWait, what?",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 00 00}{0b 03 00}{04 1f 00},{01 00 00 0a 00} I don't want to\nalarm you or anything, but\nI have something to say.\n{07 15 00}I have {01 00 00 0f 00}{ff 00 00 07}IT{ff 00 00 00}.\n\n\n{07 14 00}I'll bet you want {ff 00 00 07}IT{ff 00 00 00},{01 00 00 05 00} don't\nyou, {04 1f 00}?\n\n{07 11 00}If you're nice, I'll trade {ff 00 00 07}IT{ff 00 00 00}\nto you for...let's see...your\n{0b 02 00}{04 1a 00}!{02 00 00 0f 03}\nGotta have it!\nDon't need it!",
+   "et": ""
+  },
+  {
+   "id": 3,
+   "en": "{06 01 00 04 05 06}",
+   "et": ""
+  },
+  {
+   "id": 4,
+   "en": "{07 04 00}No?{01 00 00 05 00} You don't really mean\nthat, do you, {01 00 00 05 00}{04 02 00}?\n\n{07 16 00}Because I just thought you\nmight like one, and I was\njust trying to be nice.",
+   "et": ""
+  },
+  {
+   "id": 5,
+   "en": "{07 16 00}Oh, I see the way it is with\nyou, {01 00 00 05 00}{04 02 00}. Don't\nwant to try anything new?\n{07 0f 00}I thought you had a more\nadventurous spirit, but I\nguess I was wrong.",
+   "et": ""
+  },
+  {
+   "id": 6,
+   "en": "{07 16 00}That's fine. {01 00 00 14 00}Don't even\nworry about it.\n\n{07 0f 00}I didn't think it would be\nthat easy to get rid\nof this thing, {01 00 00 05 00}{04 02 00}.",
+   "et": ""
+  },
+  {
+   "id": 7,
+   "en": "{06 01 00 08 09 0a}",
+   "et": ""
+  },
+  {
+   "id": 8,
+   "en": "{07 14 00}Lucky me, {01 00 00 05 00}{04 02 00}!{01 00 00 0f 00}\n{07 0d 00}I'm so lucky I'm friends\nwith you, {04 1f 00}!\n{07 00 00}OK, it's a deal! Here's the\n{0b 02 00}{04 1b 00}\nI promised you!",
+   "et": ""
+  },
+  {
+   "id": 9,
+   "en": "{07 04 00}Really?{01 00 00 0f 00} {07 14 00}So you'd be willing\nto take my stinky, old\n{0b 02 00}{04 1b 00}?\nThat's great!{01 00 00 0f 00} {07 00 00}If you insist!",
+   "et": ""
+  },
+  {
+   "id": 10,
+   "en": "{07 14 00}Wow, {01 00 00 0a 00}that's great!{01 00 00 0a 00} {07 16 00}You have\nno idea how much of a\nfavor you're doing me.\n{07 14 00}As promised, here's my\n{0b 02 00}{04 1b 00}!\nThanks, {01 00 00 05 00}{04 02 00}.",
+   "et": ""
+  },
+  {
+   "id": 11,
+   "en": "{06 01 00 0c 0d 0e}",
+   "et": ""
+  },
+  {
+   "id": 12,
+   "en": "{07 0a 00}Thank you so much! {01 00 00 05 00}I didn't\nmean to be pushy, but I\nreally appreciate it.",
+   "et": ""
+  },
+  {
+   "id": 13,
+   "en": "{07 14 00}We ought to do this again\nsometime, {01 00 00 05 00}{04 02 00}.",
+   "et": ""
+  },
+  {
+   "id": 14,
+   "en": "{07 0a 00}I certainly hope that\n{0b 02 00}{04 1b 00}\nlooks good in your room!",
+   "et": ""
+  },
+  {
+   "id": 15,
+   "en": "{07 04 00}Really?{01 00 00 0f 00} Are you serious,\n{01 00 00 05 00}{04 02 00}?\n\n{07 16 00}I hope you're not too\ndisappointed, but {ff 00 00 07}IT{ff 00 00 00} is just\n{04 1b 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 14 00}Still, if that's what you're\nafter, {04 1f 00}, who am\nI to say no?",
+   "et": ""
+  }
+ ]
+}

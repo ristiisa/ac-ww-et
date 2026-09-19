@@ -1,0 +1,35 @@
+{
+ "file": "script/ENG/message/ha/tsu/fl_hint_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "Hey, rumor has it there's\nsomething called a \n{ff 00 00 07}golden watering can{ff 00 00 00}!\n{06 01 00 03 04 05}",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{ff 00 00 05}{07 15 00}{0b 03 00}{04 1f 00}{ff 00 00 00}! {01 00 00 05 00}Yaaargh!{01 00 00 0a 00}\nI'd planted all these\ndifferent flowers...\n{07 06 00}Then one day, all of a\nsudden, a flower I'd never\nseen before popped up!\n{07 00 00}Where'd he come from?{01 00 00 05 00}\nYou think{07 0b 00} there are\nflowerbed-poachers around?",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 16 00}If you have questions about\nflowers, you gotta ask\n{04 0d 00}, {01 00 00 05 00}{04 02 00}!\n{07 06 00}'Cause actually, {01 00 00 05 00}I'm pretty\ndang clueless, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 3,
+   "en": "{07 00 00}Gold is heavier than iron,\ny'know.\n\n{07 06 00}...So I definitely want one\nof THOSE to get my biceps\nall hunked out!",
+   "et": ""
+  },
+  {
+   "id": 4,
+   "en": "{07 14 00}Listen, keep it on the\ndown-low, but I really dig\nthe color pink...\n{07 0d 00}I gotta get my hands on{01 00 00 05 00}\na pink watering can, \n{01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 5,
+   "en": "{07 00 00}It'd be awesome if my\nwatering can poured out\n{07 0e 00}{04 13 00}, right?\n{07 14 00}Then again, I guess it's\nuseless without protein{01 00 00 05 00}\npowder, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  }
+ ]
+}

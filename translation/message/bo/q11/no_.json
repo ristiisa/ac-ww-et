@@ -1,0 +1,20 @@
+{
+ "file": "script/ENG/message/bo/q11/no_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 00 00}Hmmmm{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00} Well, that's too\nbad, {01 00 00 05 00}{04 02 00}.",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 00 00}Oh.{01 00 00 03 00} I get it, {04 02 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 03 00}",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 19 00}So, what you want isn't\nalways what you need, huh,\n{01 00 00 05 00}{04 02 00}?\n{07 14 00}Wow, {04 1f 00}, you're so\ndeep it's kinda {01 00 00 0a 00}{07 07 00}scary.",
+   "et": ""
+  }
+ ]
+}

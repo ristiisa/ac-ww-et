@@ -1,0 +1,20 @@
+{
+ "file": "script/ENG/message/ge/q05/return_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 14 00}I always wanted to have\nsomething like this,\n{01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 14 00}YAY! {01 00 00 05 00}Where should I put it?{01 00 00 0a 00}\nI'm so excited I'm gonna,{01 00 00 05 00}\nlike,{01 00 00 05 00} toss my cookies!",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 0a 00}With this sweet furniture,{01 00 00 05 00}\nI'm gonna be the best EVER,\n{01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  }
+ ]
+}

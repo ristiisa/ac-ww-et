@@ -1,0 +1,795 @@
+{
+ "file": "script/ENG/message/sp/npc/panther_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "Yessss.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\nThat should be fine.{01 01 00}\nFarewell.",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "Keeee ha mo-ata...{01 00 00 05 00}\nKeeee ha mo-atata...{01 00 00 05 00}\nYee heh ha ta ta ta!\nI will foresee your future \nfor just {ff 00 00 02}100 Bells{ff 00 00 00}...{02 05 00 00 02 04}\nTell me!\nWho are you?\nBuh-bye!",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "I am known as {ff 00 00 06}Katrina{ff 00 00 00}...{01 01 00}\nI travel to far and distant\nlands telling prophecies.{01 00 00 05 00}\nUsing the power of the\ncards, I can see the paths\nthat others will take\nand help those who cannot\nsee all that my eyes can.{01 00 00 05 00}.{01 00 00 05 00}.\n\nThat is why I was put here,\nin this land of crossing\npaths.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0f 00} It is my calling.\nYee heh ha ta ta ta!{01 00 00 05 00}\nIf you need help finding\nanswers, come to me.{01 00 00 05 00}.{01 00 00 05 00}.",
+   "et": ""
+  },
+  {
+   "id": 3,
+   "en": "Is there something {ff 00 00 06}Katrina{ff 00 00 00}\ncan aid you with?{02 05 00 00 02 04}\nMy fortune!\nWho are you?\nSee ya!",
+   "et": ""
+  },
+  {
+   "id": 4,
+   "en": "I see.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} Very well.{01 01 00}\nOne who does not know what\nthe future will bring\nmay be, in fact,{01 00 00 05 00} the one\nfortune smiles upon.{01 00 00 05 00}.{01 00 00 05 00}.\n\nEven if, by chance, a great\nchance at happiness was\nforever missed.{01 00 00 05 00}.{01 00 00 05 00}.\nat least you wouldn't\nbe aware of the loss.{01 00 00 14 00}\nFarewell.",
+   "et": ""
+  },
+  {
+   "id": 5,
+   "en": "Yesss... {01 00 00 05 00}Is there something\nelse I can help you with?{02 05 00 00 14 00}\nMy fortune!\nClean my spirit!\nBuh-bye!",
+   "et": ""
+  },
+  {
+   "id": 6,
+   "en": "Yesss... {01 00 00 05 00}I can see it.{01 00 00 05 00}\n{0b 03 00}{04 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n\nIn your wallet, {01 00 00 05 00}there is\nless than{01 00 00 05 00} {ff 00 00 02}100 Bells{ff 00 00 00}.\n\nAnd {01 00 00 05 00}that makes me not want\nto see your future very\nmuch at all.{01 00 00 0f 00}\nFarewell.",
+   "et": ""
+  },
+  {
+   "id": 7,
+   "en": "I possess many powers.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\nYesss{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}. I can tell your\nfuture for today{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\nOr I can tell how compatible\nyou are with another.{01 00 00 05 00}.{01 00 00 05 00}.\nWhich do you want to know?{02 05 00 00 00 00}\nToday's fortune!\nCompatibility!\nBuh-bye.",
+   "et": ""
+  },
+  {
+   "id": 8,
+   "en": "Ahem! {01 00 00 05 00}It seems you have\nalready had your fortune\nread today.\nI do not have the power to\nchange a current fortune.{01 00 00 05 00}\nSuch is beyond even me.\nI suggest you accept your\nfate and ask something new.{01 00 00 0a 00}\n.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}Yee heh ha ta ta ta!{02 05 00 00 00 00}\nToday's fortune!\nCompatibility!\nBuh-bye.",
+   "et": ""
+  },
+  {
+   "id": 9,
+   "en": "You wish to gauge your\ncompatibility with whom?",
+   "et": ""
+  },
+  {
+   "id": 10,
+   "en": "Yesss.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n{0b 03 00}{ff 00 00 05}{04 0f 00}{ff 00 00 00}, is it?{02 00 00 0c 0b}\nThat's right!\nMaybe not...",
+   "et": ""
+  },
+  {
+   "id": 11,
+   "en": "Very well. {01 00 00 05 00}One more time...",
+   "et": ""
+  },
+  {
+   "id": 12,
+   "en": "Very well.{01 00 00 05 00} Let's begin.{01 00 00 05 00}.{01 00 00 05 00}.\n\n\nHow compatible are you{01 00 00 05 00}\nand{ff 00 00 06} {ff 00 00 05}{04 0f 00}{ff 00 00 00}?",
+   "et": ""
+  },
+  {
+   "id": 13,
+   "en": "Let us begin.{01 00 00 05 00}.{01 00 00 05 00}.",
+   "et": ""
+  },
+  {
+   "id": 14,
+   "en": "{07 1e 00}{01 04 00}Keee{01 00 00 02 00} heh {01 00 00 02 00}ha{01 00 00 02 00} mo-{01 00 00 02 00}a{01 00 00 02 00}ta{01 00 00 02 00}ta{01 00 00 05 00}...\nKeee{01 00 00 02 00} ha{01 00 00 02 00} ha{01 00 00 02 00} mo-{01 00 00 02 00}ata{01 00 00 02 00}ra{01 00 00 02 00}ta{01 00 00 02 00}ta{01 00 00 05 00}...\nLoo-{01 00 00 02 00}ta{01 00 00 02 00} ma{01 00 00 02 00}na{01 00 00 02 00}ko{01 00 00 02 00} ba{01 00 00 02 00}ta{01 00 00 02 00}ta.{01 00 00 02 00}.{01 00 00 02 00}.\n\n{01 00 00 14 00}{07 21 00}YEEEEEEEEeeeeeeeeeeee!{01 08 00}{01 05 00}\n\n.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}Ahem!{01 00 00 0f 00} {07 1f 00}I am through.",
+   "et": ""
+  },
+  {
+   "id": 15,
+   "en": "I am closed for the day{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\nYee heh ha ta ta!",
+   "et": ""
+  },
+  {
+   "id": 16,
+   "en": "That is all.\n\n\nYesss...{01 00 00 05 00} I will require\n{ff 00 00 02}100 Bells{ff 00 00 00}.",
+   "et": ""
+  },
+  {
+   "id": 17,
+   "en": "Yesss...{01 00 00 05 00} I sense there is\nsomething else.{01 00 00 05 00}.{01 00 00 05 00}.\n\nDo you need to have your\n{ff 00 00 02}spirit cleansed{ff 00 00 00}, perhaps?",
+   "et": ""
+  },
+  {
+   "id": 18,
+   "en": "My sincerest apologies.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\nI am assisting another\ncustomer at the moment{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 10 00 32}\nYee heh ha ta ta!{01 10 00 32}",
+   "et": ""
+  },
+  {
+   "id": 19,
+   "en": "Oh{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} {04 08 00} o'clock already!{01 10 00 32}\n\n\nI will close up shop for\ntoday, I think.{01 10 00 32}\n\nI'm planning to leave town\nearly tomorrow morn{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 10 00 32}\n\nGood night to you.{01 00 00 0f 00}\nYee heh ha ta ta{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 10 00 32}",
+   "et": ""
+  },
+  {
+   "id": 20,
+   "en": "My cleansing rituals are\nknown far and wide for\ntheir potency.{01 00 00 05 00}.{01 00 00 05 00}.\nYessss{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} My chants ward\noff the worst luck and\nbluest blues{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\nThey turn every day into a \nsafe and predictable\noccasion.{01 00 00 05 00}.{01 00 00 05 00}.\nBut such contentment comes\nwith a cost. {01 00 00 05 00}Oh, yesss...{01 00 00 14 00}\nPay {ff 00 00 02}10,000 Bells{ff 00 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n...and it can be yours.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{02 04 00 00 00}\nPlease!\nBuh-bye.",
+   "et": ""
+  },
+  {
+   "id": 21,
+   "en": "{04 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00}\nI can see it.\n\nYour wallet.{01 00 00 05 00} You do not\nhave {ff 00 00 02}10,000 Bells {ff 00 00 00}in it.{01 00 00 05 00}\nYou cannot hide this.\nSadly, {01 00 00 05 00}in order to perform\nthe ritual, {01 00 00 05 00}I need money to\nprovide my cosmic power.\nFarewell.",
+   "et": ""
+  },
+  {
+   "id": 22,
+   "en": "Much happiness should\ncome your way.{01 00 00 05 00}.{01 00 00 05 00}.\n\nOr not. {01 00 00 05 00}Sometimes, it is\njust not meant to be.",
+   "et": ""
+  },
+  {
+   "id": 23,
+   "en": "Let us begin{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n\n\n{07 1e 00}{01 04 00}Ho{01 00 00 02 00}co{01 00 00 02 00}ta{01 00 00 02 00}tee-{01 00 00 02 00}la{01 00 00 02 00}ha{01 00 00 05 00}...\nYee{01 00 00 02 00}ma{01 00 00 02 00}ta {01 00 00 02 00}mo{01 00 00 02 00}no{01 00 00 02 00}ka{01 00 00 02 00}.{01 00 00 02 00}.{01 00 00 02 00}.{01 00 00 05 00}\nLooo-{01 00 00 02 00}ta{01 00 00 02 00} lee{01 00 00 02 00}mu{01 00 00 02 00}ba{01 00 00 02 00} ta{01 00 00 02 00}koo{01 00 00 02 00}ma{01 00 00 02 00}.{01 00 00 02 00}.{01 00 00 02 00}.\nGrooo-EEEEEEEEEEEEEEE!{01 00 00 05 00}\n{01 00 00 14 00}{07 21 00}BEGOOOOOOOOOOONE!{01 08 00}{01 05 00}",
+   "et": ""
+  },
+  {
+   "id": 24,
+   "en": "{07 1f 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}Ahem!{01 00 00 0f 00}\n\n\n.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}I was able to pull the\n{ff 00 00 02}card of cleansing {ff 00 00 00}without\nany resistance.\n{07 20 00}Neither happiness nor\nsadness will trouble you,\nfor stability reigns.\nYesss...{01 00 00 05 00} I'll now take the \n{ff 00 00 02}10,000 Bells{ff 00 00 00}, as promised.",
+   "et": ""
+  },
+  {
+   "id": 25,
+   "en": "Much happiness will find its\nway to you tomorrow,\n{04 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.\nOr not.{01 00 00 05 00} Sometimes it is\njust not meant to be...",
+   "et": ""
+  },
+  {
+   "id": 26,
+   "en": "The cards have spoken.{01 00 00 0a 00}\nIt is the {ff 00 00 07}BIRD symbol{ff 00 00 00},\nin its {ff 00 00 07}natural{ff 00 00 00} state.\n{ff 00 00 02}A red-eyed cat chases a\nrare butterfly...\n\n...only to find herself in an\nunknown land.\n\nThe curiosity of a cat is\ninfamous, infinite, and\nutterly relentless.",
+   "et": ""
+  },
+  {
+   "id": 27,
+   "en": "The cards have spoken.{01 00 00 0a 00}\nIt is the {ff 00 00 07}BIRD{ff 00 00 00} {ff 00 00 07}symbol{ff 00 00 00}, \nin its {ff 00 00 07}natural{ff 00 00 00} state.\n{ff 00 00 02}A large-eyed feline is\nenjoying a chat on her\ntelephone...\nThe number she dialed was\nnaught but a series of\nrandom button-presses...\nStill, to make fast friends\nof strangers is one of a\nfeline's many charms.",
+   "et": ""
+  },
+  {
+   "id": 28,
+   "en": "The cards have spoken.{01 00 00 0a 00}\nIt is the {ff 00 00 07}PEN symbol{ff 00 00 00},\nin its {ff 00 00 07}natural {ff 00 00 00}state. \n{ff 00 00 02}There is a painted pelican\nswinging her parasol...\n\nShe draws something in the\nair, but what is it?\n\nIt is a magic square that\nmakes things happen at the\nbehest of her will.",
+   "et": ""
+  },
+  {
+   "id": 29,
+   "en": "The cards have spoken.{01 00 00 0a 00}\nIt is the {ff 00 00 07}PEN symbol{ff 00 00 00},\nin its {ff 00 00 07}natural {ff 00 00 00}state. \n{ff 00 00 02}A curly-eyelashed pelican\nis repeating something \nwith extreme speed.\nThe words flow from the\nlips on her mouth, which\nis somewhat oversized...\nShe wanders about without\na destination.",
+   "et": ""
+  },
+  {
+   "id": 30,
+   "en": "The cards have spoken.{01 00 00 0a 00}\nIt is the {ff 00 00 07}FRUIT symbol{ff 00 00 00},\nin its {ff 00 00 07}natural {ff 00 00 00}state. \n{ff 00 00 02}In a quiet room, a dark\npanther looks at a basket\nof fruit...\nShe ponders various things.\n\n\nThe fruit over which she\ngazes tells all.",
+   "et": ""
+  },
+  {
+   "id": 31,
+   "en": "The cards have spoken.{01 00 00 0a 00}\nIt is the {ff 00 00 07}FRUIT symbol{ff 00 00 00},\nin its {ff 00 00 07}natural {ff 00 00 00}state. \n{ff 00 00 02}On a quiet night, a dark\npanther gazes at the moon.\n\nThe moon alters its shape\nfrom pear{01 00 00 05 00} to apple{01 00 00 05 00} to\nseedless grape... \nWith each change, it strikes\nbalance with the creatures\nof the world.",
+   "et": ""
+  },
+  {
+   "id": 32,
+   "en": "The cards have spoken.{01 00 00 0a 00}\nIt is the {ff 00 00 07}BREAD symbol{ff 00 00 00},\nin its {ff 00 00 07}natural {ff 00 00 00}state. \n{ff 00 00 02}Surrounded by the wonders\nof nature, in a secret\nlocale, a wild boar reclines.\nWater and sunshine are\nabundant here...\n\nThere is naught to worry\nabout, so the boar worries\nnot at all.",
+   "et": ""
+  },
+  {
+   "id": 33,
+   "en": "The cards have spoken.{01 00 00 0a 00}\nIt is the {ff 00 00 07}BREAD symbol{ff 00 00 00},\nin its {ff 00 00 07}natural {ff 00 00 00}state. \n{ff 00 00 02}After eating a meal, a\nwild boar reclines in a\nfield of flowers.\nThere is nothing dangerous \nto disturb the boar...\n\nThe creatures here are full\nof happiness...and boredom.",
+   "et": ""
+  },
+  {
+   "id": 34,
+   "en": "The cards have spoken.{01 00 00 0a 00}\nIt is the {ff 00 00 07}WATERFALL symbol{ff 00 00 00},\nin its {ff 00 00 07}natural {ff 00 00 00}state. \n{ff 00 00 02}A raccoon of great power\nreclines, his mind awash\nwith arrogance.\nLike a rush of water\nthrough a dry gully...\n\nCreatures gather around\nwhere the raccoon is{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.",
+   "et": ""
+  },
+  {
+   "id": 35,
+   "en": "The cards have spoken.{01 00 00 0a 00}\nIt is the {ff 00 00 07}WATERFALL symbol{ff 00 00 00},\nin its {ff 00 00 07}natural {ff 00 00 00}state. \n{ff 00 00 02}Successful in business,\na raccoon laughs wildly,\nclutching his great belly.\nThere is nothing that can\nthreaten his future.\n\nMore likely would be a\nwaterfall reversing its\ncourse...",
+   "et": ""
+  },
+  {
+   "id": 36,
+   "en": "The cards have spoken.{01 00 00 0a 00}\nIt is the {ff 00 00 07}BALLOON symbol{ff 00 00 00},\nin its {ff 00 00 07}natural {ff 00 00 00}state. \n{ff 00 00 02}A hedgehog passes out\nballoons to children, her\nheart at ease.\nShe is covered with quills...\nHow can she deliver these\nfragile balloons safely?\nHow can she pop not a one?",
+   "et": ""
+  },
+  {
+   "id": 37,
+   "en": "The cards have spoken.{01 00 00 0a 00}\nIt is the {ff 00 00 07}BALLOON symbol{ff 00 00 00},\nin its {ff 00 00 07}natural {ff 00 00 00}state. \n{ff 00 00 02}A hedgehog riding a balloon{01 00 00 05 00}\nshakes its cotton-candy \nbounty at the earth.\nEveryone's hearts are moved\nat the sight...\n\n...and their bellies lust\nover the cotton-candy\npieces that fall like snow.",
+   "et": ""
+  },
+  {
+   "id": 38,
+   "en": "The cards have spoken.{01 00 00 0a 00}\nIt is the {ff 00 00 07}MUSIC symbol{ff 00 00 00},\nin its {ff 00 00 07}natural {ff 00 00 00}state. \n{ff 00 00 02}A white dog shows off his\nskills for the ladies\nlooking on...\nThe ladies are simply\ndog lovers, but...\n\n...the dog begins to feel\nlike he and the ladies\nare bound by fate...",
+   "et": ""
+  },
+  {
+   "id": 39,
+   "en": "The cards have spoken.{01 00 00 0a 00}\nIt is the {ff 00 00 07}MUSIC symbol{ff 00 00 00},\nin its {ff 00 00 07}natural {ff 00 00 00}state. \n{ff 00 00 02}A white dog is showered\nwith applause from all\ncorners of a room.\nA sweet smell wafts from a\nflower in one of the many\nthrown bouquets...\nIt is pleasing to the dog's\nmoist nose.",
+   "et": ""
+  },
+  {
+   "id": 40,
+   "en": "The cards have spoken.{01 00 00 0a 00}\nIt is the {ff 00 00 07}THUNDER symbol{ff 00 00 00},\nin its {ff 00 00 07}natural {ff 00 00 00}state. \n{ff 00 00 02}An otter holds a strange\nshell in his paw...\n\nHe swims upstream in the\nriver with amazing speed.\n\nNone know how he is able to\npropel himself with such\nincredible velocity...\nHe is not unlike a cheetah\nrunning at top speed!",
+   "et": ""
+  },
+  {
+   "id": 41,
+   "en": "The cards have spoken.{01 00 00 0a 00}\nIt is the {ff 00 00 07}THUNDER symbol{ff 00 00 00},\nin its {ff 00 00 07}natural {ff 00 00 00}state. \n{ff 00 00 02}An otter with thoughtful\neyes does the backstroke \nin a 50-meter pool...\nHe does laps once, twice,\nover and over again.\n\nPerforming this basic\ntraining every day{01 00 00 05 00} is his\nsecret to victory.",
+   "et": ""
+  },
+  {
+   "id": 42,
+   "en": "The cards have spoken.{01 00 00 0a 00}\nIt is the {ff 00 00 07}LAKE symbol{ff 00 00 00},\nin its {ff 00 00 07}natural {ff 00 00 00}state. \n{ff 00 00 02}An old turtle digs holes \nusing an old shovel...\n\nA once-small hole becomes\na crater-sized gap in the\nsleeping earth.\nIt starts rumbling as if a\nhot spring is about to\nerupt out of it...",
+   "et": ""
+  },
+  {
+   "id": 43,
+   "en": "The cards have spoken.{01 00 00 0a 00}\nIt is the {ff 00 00 07}LAKE symbol{ff 00 00 00},\nin its {ff 00 00 07}natural {ff 00 00 00}state. \n{ff 00 00 02}A turtle is trying to dig \na hole in a rocky mountain.\n\nHis only ally in this\nendeavor is a silver\nspoon...{01 00 00 05 00}\nProtected by the power of\nconviction, it does not\nbend at all.",
+   "et": ""
+  },
+  {
+   "id": 44,
+   "en": "The cards have spoken.{01 00 00 0a 00}\nIt is the {ff 00 00 07}FOREST symbol{ff 00 00 00},\nin its {ff 00 00 07}natural {ff 00 00 00}state. \n{ff 00 00 02}In a dark place, a white cat\nwithout a face stands...\n\nShe looks defeated by the\nreality that she has lost\nher face...\nAnd yet, she is liberated by\nthe fact that she is no\nlonger bound to it.",
+   "et": ""
+  },
+  {
+   "id": 45,
+   "en": "The cards have spoken.{01 00 00 0a 00}\nIt is the {ff 00 00 07}FOREST symbol{ff 00 00 00},\nin its {ff 00 00 07}natural {ff 00 00 00}state. \n{ff 00 00 02}On the other side of the\ndarkness, a lone cat abides.{01 00 00 05 00}\nShe lacks a face.\nYesss... {01 00 00 05 00}The cat has shed\nher face...\n\nShe can move through the\ndarkness without fear of\nanything...",
+   "et": ""
+  },
+  {
+   "id": 46,
+   "en": "The cards have spoken.{01 00 00 0a 00}\nIt is the {ff 00 00 07}JEWEL symbol{ff 00 00 00},\nin its {ff 00 00 07}natural {ff 00 00 00}state. \n{ff 00 00 02}A hedgehog who looks at\nhome in an apron is frying\nup donuts...\nOne donut's hole is a\nperfect circle...\n\nAs though that circle held\nsome kind of truth or \neternal secret...\n...the hedgehog stares and \nsearches its depths.",
+   "et": ""
+  },
+  {
+   "id": 47,
+   "en": "The cards have spoken.{01 00 00 0a 00}\nIt is the {ff 00 00 07}JEWEL symbol{ff 00 00 00},\nin its {ff 00 00 07}natural {ff 00 00 00}state. \n{ff 00 00 02}A hedgehog whips heavy \nwhipping cream...\n\nWith each and every\nrotation of her wrist,\nshe wishes.\nClockwise, she wishes for \nluck and happiness...\n\nCounterclockwise, for\ninspiration and success.",
+   "et": ""
+  },
+  {
+   "id": 48,
+   "en": "The cards have spoken.{01 00 00 0a 00}\nIt is the {ff 00 00 07}BOOK symbol{ff 00 00 00},\nin its {ff 00 00 07}natural {ff 00 00 00}state. \n{ff 00 00 02}A pelican referee stands by\nthe rule book without\nexception...\nShe deals a full house of\nyellow and red cards.\n\nThere is something magical\nand inexplicable about her\nunflappable judgment.",
+   "et": ""
+  },
+  {
+   "id": 49,
+   "en": "The cards have spoken.{01 00 00 0a 00}\nIt is the {ff 00 00 07}BOOK symbol{ff 00 00 00},\nin its {ff 00 00 07}natural {ff 00 00 00}state. \n{ff 00 00 02}A pelican who does not \nblink stands before a scale,\nweighing strange granules.\nShe will not abide a single\ninaccurate grain...\n\n...for fairness is {01 00 00 05 00}like a\ncode of life to her.",
+   "et": ""
+  },
+  {
+   "id": 50,
+   "en": "The cards have spoken.{01 00 00 0a 00}\nIt is the {ff 00 00 07}MOUNTAIN symbol{ff 00 00 00},\nin its {ff 00 00 07}natural {ff 00 00 00}state. \n{ff 00 00 02}A salamander does a\nheadstand for just under\nan hour...\nIt looks as though he could\nbe smiling, but...\n\nIt also looks as though he \ncould be in pain...\n\nOnly one thing is clear.{01 00 00 05 00}\nHe is doing it of his own\naccord.",
+   "et": ""
+  },
+  {
+   "id": 51,
+   "en": "The cards have spoken.{01 00 00 0a 00}\nIt is the {ff 00 00 07}MOUNTAIN symbol{ff 00 00 00},\nin its {ff 00 00 07}natural {ff 00 00 00}state. \n{ff 00 00 02}A salamander is trying \nfrantically to ignore\nhis belly's rumble.\nHe does this because he\nknows that the longer he\nwaits...\n...the more delicious his\nfood will be when he eats.",
+   "et": ""
+  },
+  {
+   "id": 52,
+   "en": "The cards have spoken.{01 00 00 0a 00}\nIt is the {ff 00 00 07}MIDNIGHT symbol{ff 00 00 00},\nin its {ff 00 00 07}natural {ff 00 00 00}state. \n{ff 00 00 02}A shady-looking character\nwho could be no other\ncreature than a fox...\n...is watching from the\nother side of someone's\ntelevision.\nHe waits for the time when\neveryone is in bed...\n\nHe waits for his chance to\nturn on the television.",
+   "et": ""
+  },
+  {
+   "id": 53,
+   "en": "The cards have spoken.{01 00 00 0a 00}\nIt is the {ff 00 00 07}MIDNIGHT symbol{ff 00 00 00},\nin its {ff 00 00 07}natural {ff 00 00 00}state. \n{ff 00 00 02}Standing in the grass is a\nman wearing a fox's mask...\n\nWhen you see the face that\nis hidden underneath...\n\nYour gravest day arrives.",
+   "et": ""
+  },
+  {
+   "id": 54,
+   "en": "The cards have spoken!{01 00 00 0a 00}\nIt is the {ff 00 00 07}DAWN SUN symbol{ff 00 00 00},\nin its {ff 00 00 07}natural {ff 00 00 00}state. \n{ff 00 00 02}A flattering otter is \npouring a red liquid into a\nblue bottle...\nAt first glance, this\nbeverage looks purple...\n\nIt is what one should drink\ndaily if one wants to work{01 00 00 05 00}\nfor 24 hours straight.",
+   "et": ""
+  },
+  {
+   "id": 55,
+   "en": "The cards have spoken.{01 00 00 0a 00}\nIt is the {ff 00 00 07}DAWN SUN symbol{ff 00 00 00},\nin its {ff 00 00 07}natural {ff 00 00 00}state. \n{ff 00 00 02}The front door of a humble\nhouse opens...\n\nAn otter sunbathes in the\nmorning sun...\n\nFor he who considers\nhimself both a family man\nand a company man...\n...what matters most is\nwhere he is standing at\nthis moment in time.",
+   "et": ""
+  },
+  {
+   "id": 56,
+   "en": "The cards have spoken.{01 00 00 0a 00}\nIt is the {ff 00 00 07}BUTTERFLY symbol{ff 00 00 00},\nin its {ff 00 00 07}natural {ff 00 00 00}state. \n{ff 00 00 02}A long-lashed giraffe\nwears a devilish shirt...\n\nShe becomes enraptured by\nstrange music...\n\nAll she has to do to stop\nthe CD is extend her hoof...\n\n...but once the music\nstarts,{01 00 00 05 00} she must hear it\nthrough to the end.",
+   "et": ""
+  },
+  {
+   "id": 57,
+   "en": "The cards have spoken.{01 00 00 0a 00}\nIt is the {ff 00 00 07}BUTTERFLY symbol{ff 00 00 00},\nin its {ff 00 00 07}natural {ff 00 00 00}state. \n{ff 00 00 02}A giraffe wearing a giant\neggshell on her head{01 00 00 05 00}\ncrawls across the sky...\nThe Yolk brand of aerial\nswimwear is this year's\nmust-have piece!",
+   "et": ""
+  },
+  {
+   "id": 58,
+   "en": "The cards have spoken.{01 00 00 0a 00}\nIt is the {ff 00 00 07}BRIDGE symbol{ff 00 00 00},\nin its {ff 00 00 07}natural {ff 00 00 00}state. \n{ff 00 00 02}A gourmand walrus sits atop\na suspension bridge, eating\nhis lunch...\nHe doesn't have to sit\nthere to eat...\n\nNo, but danger adds spice\nlike no condiment that he's\never tasted.",
+   "et": ""
+  },
+  {
+   "id": 59,
+   "en": "The cards have spoken.{01 00 00 0a 00}\nIt is the {ff 00 00 07}BRIDGE symbol{ff 00 00 00},\nin its {ff 00 00 07}natural {ff 00 00 00}state. \n{ff 00 00 02}A walrus with a backpack so\nfull it's about to pop...\n\n...is trying to cross a\nbridge that looks like it\ncould fall at any moment.\nIf he'd just empty the\ncontents of his backpack, \nhe'd be much safer...\n...but he just can't get\nhimself to throw out all\nthe food.{01 00 00 05 00} No, not ever.",
+   "et": ""
+  },
+  {
+   "id": 60,
+   "en": "The cards have spoken.{01 00 00 0a 00}\nThe {ff 00 00 07}SHOOTING STAR symbol{ff 00 00 00},\nin its {ff 00 00 07}natural {ff 00 00 00}state. \n{ff 00 00 02}A camel travels the desert,\nwatching a sky lined with\nstar fragments...{01 00 00 05 00}\nThe camel wishes upon a\nshooting star.\n\n\"I wish all my wishes will\ncome true.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\"\n\nThe simpler a wish is,{01 00 00 05 00}\nthe higher the possibility \nthat it will come true.",
+   "et": ""
+  },
+  {
+   "id": 61,
+   "en": "The cards have spoken.{01 00 00 0a 00}\nThe {ff 00 00 07}SHOOTING STAR symbol{ff 00 00 00},\nin its {ff 00 00 07}natural {ff 00 00 00}state. \n{ff 00 00 02}A camel, weary from its\ntravels, sits on the beach\nquietly, gazing on the sea...\nFar out on the ocean,\na tiny star appears.\n\nThis star circles once and\nthen falls into the sea in\nthe opposite direction...\nYesss...{01 00 00 05 00} This is the Happy\nHappy Star that grants\nevery wish made to it.",
+   "et": ""
+  },
+  {
+   "id": 62,
+   "en": "The cards have spoken.{01 00 00 0a 00}\nIt is the {ff 00 00 07}SHIP symbol{ff 00 00 00},\nin its {ff 00 00 07}natural {ff 00 00 00}state. \n{ff 00 00 02}A seagull sailor looks up at\nthe sky from the deck...\n\nThe curve of the crescent\nmoon, half covered in\nclouds, meets his eye...\nIt hangs at an angle that \nthe seagull dislikes...{01 00 00 05 00}\nIt irritates him.",
+   "et": ""
+  },
+  {
+   "id": 63,
+   "en": "The cards have spoken.{01 00 00 0a 00}\nIt is the {ff 00 00 07}SHIP{ff 00 00 00} symbol,\nin its {ff 00 00 07}natural {ff 00 00 00}state. \n{ff 00 00 02}A seagull who doesn't know\nhow to read a compass\nfloats all alone...\nHe is on a vast, vast sea.{01 00 00 05 00}\nHe is confused as to how to\nproceed, exactly.\nHigh above his head, a\nstrangely colored moon\nlights his strange way.",
+   "et": ""
+  },
+  {
+   "id": 64,
+   "en": "The cards have spoken.{01 00 00 0a 00}\nIt is the {ff 00 00 07}LIGHT symbol{ff 00 00 00},\nin its {ff 00 00 07}natural {ff 00 00 00}state. \n{ff 00 00 02}Twin raccoons plant the\nseeds of sunflowers...\n\nBecause they water them \nmeticulously, the flowers \ngrow well and true...\nOne day, the raccoons will\nbe able to take cover from\nthe rain under them.",
+   "et": ""
+  },
+  {
+   "id": 65,
+   "en": "The cards have spoken.{01 00 00 0a 00}\nIt is the {ff 00 00 07}LIGHT symbol{ff 00 00 00},\nin its {ff 00 00 07}natural {ff 00 00 00}state. \n{ff 00 00 02}Twin raccoons run around a\nfield under the hot sun of\nhigh summer...\nThe sunlight and cool\nbreeze cause their sweat{01 00 00 05 00}\nto dry instantly...\nThey feel like they could\nplay forever.",
+   "et": ""
+  },
+  {
+   "id": 66,
+   "en": "The cards have spoken.{01 00 00 0a 00}\nIt is the {ff 00 00 07}WIND symbol{ff 00 00 00},\nin its {ff 00 00 07}natural {ff 00 00 00}state. \n{ff 00 00 02}It is early afternoon on\na summer day. A snowman\npops up before you...\nThe out-of-season snowman\nappears out of nowhere, \nunsolicited...\nHe casts grand judgments\non all people.",
+   "et": ""
+  },
+  {
+   "id": 67,
+   "en": "The cards have spoken.{01 00 00 0a 00}\nIt is the {ff 00 00 07}WIND symbol{ff 00 00 00},\nin its {ff 00 00 07}natural {ff 00 00 00}state. \n{ff 00 00 02}A snowman who appears to\nbe on the verge of melting\nsips a cup of chowder...\nThis wise snowman uses\narcane methods to know the\nunknowable...\nHe knows that a snowstorm\nis en route.",
+   "et": ""
+  },
+  {
+   "id": 68,
+   "en": "The cards have spoken.{01 00 00 0a 00}\nIt is the {ff 00 00 07}SPACE symbol{ff 00 00 00},\nin its {ff 00 00 07}natural {ff 00 00 00}state. \n{ff 00 00 02}A boy who does not blink\nshakes the trees...\n\nHe digs holes, fishes, and\nwaters flowers...\n\nThe boy's actions make it\npossible for him to control\nhis environment... \n...in a way no one in\nhistory has ever been able\nto do.",
+   "et": ""
+  },
+  {
+   "id": 69,
+   "en": "The cards have spoken.{01 00 00 0a 00}\nIt is the {ff 00 00 07}SPACE symbol{ff 00 00 00},\nin its {ff 00 00 07}natural {ff 00 00 00}state. \n{ff 00 00 02}A girl who does not blink\nplants flowers...\n\nShe writes letters, shops,\nand designs original\nclothes...\nThe girl's actions send a\nripple into space and time\nunlike anything before...\nShe supplies the material\nthat allows us to imagine\na new world.",
+   "et": ""
+  },
+  {
+   "id": 70,
+   "en": "The cards have spoken.{01 00 00 0a 00}\nIt is the {ff 00 00 07}BIRD symbol{ff 00 00 00},\nin its {ff 00 00 07}inverted {ff 00 00 00}state. \n{ff 00 00 02}A blue and white cat{01 00 00 05 00} rides\nthe train...\n\nHe has a free pass good\nfor a trip to wherever\nhe gets off...\nThis cat is also sad,{01 00 00 05 00} for\nhis solitude is his\nconstant companion.",
+   "et": ""
+  },
+  {
+   "id": 71,
+   "en": "The cards have spoken.{01 00 00 0a 00}\nIt is the {ff 00 00 07}BIRD symbol{ff 00 00 00},\nin its {ff 00 00 07}inverted {ff 00 00 00}state. \n{ff 00 00 02}A cat in a red sweater\nwalks a tightrope...\n\nLight on its feet, it can\nwalk the rope with ease...\n\nHowever, the wind is\nstarting to blow stronger{01 00 00 05 00}\nand stronger... ",
+   "et": ""
+  },
+  {
+   "id": 72,
+   "en": "The cards have spoken.{01 00 00 0a 00}\nIt is the {ff 00 00 07}PEN symbol{ff 00 00 00},\nin its {ff 00 00 07}inverted {ff 00 00 00}state. \n{ff 00 00 02}A pelican with a furrowed\nbrow writes something on\nthe ground...\nShe is displeased with\nsomething that has just\nhappened...\nThis event is making her do\nthings that she normally\nwouldn't.",
+   "et": ""
+  },
+  {
+   "id": 73,
+   "en": "The cards have spoken.{01 00 00 0a 00}\nIt is the {ff 00 00 07}PEN symbol{ff 00 00 00},\nin its {ff 00 00 07}inverted {ff 00 00 00}state. \n{ff 00 00 02}A pelican stands before a\nmirror, preoccupied with\nher bill and chin...\nTo her eyes, they aren't\nthe same as they were the\nday before...\nToday she cannot step\naway from the mirror.",
+   "et": ""
+  },
+  {
+   "id": 74,
+   "en": "The cards have spoken.{01 00 00 0a 00}\nIt is the {ff 00 00 07}FRUIT symbol{ff 00 00 00},\nin its {ff 00 00 07}inverted {ff 00 00 00}state. \n{ff 00 00 02}A rotten pear sits on a \ntable, releasing an odor\ninto the air...\nAs though lured in by the\nscent, a dark panther\nappears...\nShe stares at the pear\nas though mesmerized.",
+   "et": ""
+  },
+  {
+   "id": 75,
+   "en": "The cards have spoken.{01 00 00 0a 00}\nIt is the {ff 00 00 07}FRUIT symbol{ff 00 00 00},\nin its {ff 00 00 07}inverted {ff 00 00 00}state. \n{ff 00 00 02}A solemn black panther\ncarries books...\n\nShe looks in the mirror,\nexpressionless...\n\nThere is something she\nneeds to guard without\nrespite...\n...and there is something \nthat she has lost forever.",
+   "et": ""
+  },
+  {
+   "id": 76,
+   "en": "The cards have spoken.{01 00 00 0a 00}\nIt is the {ff 00 00 07}BREAD symbol{ff 00 00 00},\nin its {ff 00 00 07}inverted {ff 00 00 00}state. \n{ff 00 00 02}Overhead, birds cry out,\nwhile underfoot, beetles \nscurry about...\nA hungry wild boar seems to\nhave overindulged... \n\nShe has opened a rift in\nthe circle of life.",
+   "et": ""
+  },
+  {
+   "id": 77,
+   "en": "The cards have spoken.{01 00 00 0a 00}\nIt is the {ff 00 00 07}BREAD symbol{ff 00 00 00},\nin its {ff 00 00 07}inverted {ff 00 00 00}state. \n{ff 00 00 02}A wild boar with an\ninsatiable appetite tries to\nsteal food from another...\nNo matter how much she \neats, her hunger for food\nnever ceases...\nThe boar continues to\nprove this vulgarity is\nsecond to none.",
+   "et": ""
+  },
+  {
+   "id": 78,
+   "en": "The cards have spoken.{01 00 00 0a 00}\nIt is the {ff 00 00 07}WATERFALL symbol{ff 00 00 00},\nin its {ff 00 00 07}inverted {ff 00 00 00}state. \n{ff 00 00 02}An ever-responsible and\ndependable raccoon stands\nbefore a mirror...\nHe intently rehearses his\nsmile...\n\nThe mental stress of the \nrole that he, and he alone,\nmust play eats at him...\nIt makes his lip quiver and\ndeform in strange ways.",
+   "et": ""
+  },
+  {
+   "id": 79,
+   "en": "The cards have spoken.{01 00 00 0a 00}\nIt is the {ff 00 00 07}WATERFALL symbol{ff 00 00 00},\nin its {ff 00 00 07}inverted {ff 00 00 00}state. \n{ff 00 00 02}In an empty room, the\nsound of a raccoon's laugh\nechoes and resonates...\nThis raccoon is always \nlaughing. The laughter has\nno end...\nA stream of drool flows\nfrom the corner of his lip{01 00 00 05 00}\nand falls.",
+   "et": ""
+  },
+  {
+   "id": 80,
+   "en": "The cards have spoken.{01 00 00 0a 00}\nIt is the {ff 00 00 07}BALLOON symbol{ff 00 00 00},\nin its {ff 00 00 07}inverted {ff 00 00 00}state. \n{ff 00 00 02}A hedgehog blows balloons\nover and over again,{01 00 00 05 00}\nbut they pop every time...\nEveryone has talents\nand weaknesses...\n\nNot to recognize this fact\nis in the nature of the\nhedgehog.",
+   "et": ""
+  },
+  {
+   "id": 81,
+   "en": "The cards have spoken.{01 00 00 0a 00}\nIt is the {ff 00 00 07}BALLOON symbol{ff 00 00 00},\nin its {ff 00 00 07}inverted {ff 00 00 00}state. \n{ff 00 00 02}An ad balloon with the \nword \"Frugality\" printed on\nthe side inflates...\nA hedgehog on the ground \ntries to release it into\nthe grasp of the sky...\nWhatever meaning or benefit\nthis might have is lost...{01 00 00 05 00}\n\nOnly the hedgehog knows.",
+   "et": ""
+  },
+  {
+   "id": 82,
+   "en": "The cards have spoken.{01 00 00 0a 00}\nIt is the {ff 00 00 07}MUSIC symbol{ff 00 00 00},\nin its {ff 00 00 07}inverted {ff 00 00 00}state. \n{ff 00 00 02}A white dog holds a guitar\nand plays a strange tune...\n\nHe shares visions of cake\nwith a girl on a diet...\n\nThe song and vision are\nsweet, bitter, and melodic...\n\nBefore you know it, you too\nare enveloped.",
+   "et": ""
+  },
+  {
+   "id": 83,
+   "en": "The cards have spoken.{01 00 00 0a 00}\nIt is the {ff 00 00 07}MUSIC symbol{ff 00 00 00},\nin its {ff 00 00 07}inverted {ff 00 00 00}state. \n{ff 00 00 02}A white dog with severe\neyebrows stares into the\ncamera and whistles...\nDrawn to the tune, various\nshadows gather around...\n\nThe white dog pays no mind.",
+   "et": ""
+  },
+  {
+   "id": 84,
+   "en": "The cards have spoken.{01 00 00 0a 00}\nIt is the {ff 00 00 07}THUNDER symbol{ff 00 00 00},\nin its {ff 00 00 07}inverted {ff 00 00 00}state. \n{ff 00 00 02}An otter with a prickly\npersonality floats atop the\nwater{01 00 00 05 00} on a boat...\nRow though he might, it\ngets him nowhere...\n\nFrustrated, he starts to\nstrike his boat with his\noars like a madman...",
+   "et": ""
+  },
+  {
+   "id": 85,
+   "en": "The cards have spoken.{01 00 00 0a 00}\nIt is the {ff 00 00 07}THUNDER symbol{ff 00 00 00},\nin its {ff 00 00 07}inverted {ff 00 00 00}state. \n{ff 00 00 02}An otter, upset with a\nsudden power outage, seeks\nvengeance...\nHis anger is terrible...\n\n\nIt is so great, it appears\nhe is trying to generate\npower with his wrath.",
+   "et": ""
+  },
+  {
+   "id": 86,
+   "en": "The cards have spoken.{01 00 00 0a 00}\nIt is the {ff 00 00 07}LAKE symbol{ff 00 00 00},\nin its {ff 00 00 07}inverted {ff 00 00 00}state. \n{ff 00 00 02}A turtle wearing a silk hat\nchallenges a cyclone to\na battle...\nAs one might expect, the\nsilk hat is promptly blown\nfar, far away...\nThe turtle is battered by\nthe agony of defeat.",
+   "et": ""
+  },
+  {
+   "id": 87,
+   "en": "The cards have spoken.{01 00 00 0a 00}\nIt is the {ff 00 00 07}LAKE symbol{ff 00 00 00},\nin its {ff 00 00 07}inverted {ff 00 00 00}state.\n{ff 00 00 02}A turtle is drying its\nshell{01 00 00 05 00} when it is approached\naggressively...\nHe ardently tries to show\nhis machismo...{01 00 00 05 00}\n\n...but his cold back reminds\nhim that he's not in peak \nfighting condition. ",
+   "et": ""
+  },
+  {
+   "id": 88,
+   "en": "The cards have spoken.{01 00 00 0a 00}\nIt is the {ff 00 00 07}FOREST symbol{ff 00 00 00},\nin its {ff 00 00 07}inverted {ff 00 00 00}state. \n{ff 00 00 02}A faceless cat searches for\nsomething inside a cave...\n\nBecause it has no face and\nno idea what's where...\n\n...one would think she would\ngive up easily, but{01 00 00 0a 00} she\ncannot.",
+   "et": ""
+  },
+  {
+   "id": 89,
+   "en": "The cards have spoken.{01 00 00 0a 00}\nIt is the {ff 00 00 07}FOREST symbol{ff 00 00 00},\nin its {ff 00 00 07}inverted {ff 00 00 00}state.\n{ff 00 00 02}Among a crowd of cats\nstands one{01 00 00 05 00} without\na face...\nThis one has its own ideas\nand philosophies...\n \nIt knows there are many\ndifferences between it\nand other cats. ",
+   "et": ""
+  },
+  {
+   "id": 90,
+   "en": "The cards have spoken.{01 00 00 0a 00}\nIt is the {ff 00 00 07}JEWEL symbol{ff 00 00 00},\nin its {ff 00 00 07}inverted {ff 00 00 00}state. \n{ff 00 00 02}A hedgehog stands in front\nof a bicycle with broken \nbrakes, thinking...\nShould she break her\npromise and just be late or\nrisk falling on the bike?\nShe can't decide which to \nchoose, so she chooses\nnothing and just thinks...",
+   "et": ""
+  },
+  {
+   "id": 91,
+   "en": "The cards have spoken.{01 00 00 0a 00}\nIt is the {ff 00 00 07}JEWEL symbol{ff 00 00 00},\nin its {ff 00 00 07}inverted {ff 00 00 00}state. \n{ff 00 00 02}A hedgehog intently watches\nthe hands on a clock turn...\n\nAs precious as the sparkle\nof gemstones, which flicker\non through eternity...\nSuch is the nature of\ntime, which never flows in\nreverse...",
+   "et": ""
+  },
+  {
+   "id": 92,
+   "en": "The cards have spoken.{01 00 00 0a 00}\nIt is the {ff 00 00 07}BOOK symbol{ff 00 00 00},\nin its {ff 00 00 07}inverted {ff 00 00 00}state. \n{ff 00 00 02}On the cover of a novel, \ncrumpled from the steam of\na bath where it was read...\n...is a picture of a pelican\ndressed in pink.\n\nBecause it is so wrinkled\nand misshapen, the pelican \nheroine...\n...appears far less\nappealing and more scary\nthan initially intended.",
+   "et": ""
+  },
+  {
+   "id": 93,
+   "en": "The cards have spoken.{01 00 00 0a 00}\nIt is the {ff 00 00 07}BOOK symbol{ff 00 00 00},\nin its {ff 00 00 07}inverted {ff 00 00 00}state. \n{ff 00 00 02}A distribution manual with\npelican symbols on it sits\nbefore your eyes...\nInside, it is filled with\nvague words.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n\n...\"dial in\"...\n...\"outside the box\"...\n...\"deep-dive\"...\nIt makes one think that \nnothing will ever get\ndistributed correctly.",
+   "et": ""
+  },
+  {
+   "id": 94,
+   "en": "The cards have spoken.{01 00 00 0a 00}\nIt is the {ff 00 00 07}MOUNTAIN symbol{ff 00 00 00},\nin its {ff 00 00 07}inverted {ff 00 00 00}state. \n{ff 00 00 02}A salamander meditates in\nthe middle of the desert...\n\nVultures fly overhead and\njackals howl in the\ndistance...\nThey apparently sound like\neasy listening to him.",
+   "et": ""
+  },
+  {
+   "id": 95,
+   "en": "The cards have spoken.{01 00 00 0a 00}\nIt is the {ff 00 00 07}MOUNTAIN symbol{ff 00 00 00},\nin its {ff 00 00 07}inverted {ff 00 00 00}state. \n{ff 00 00 02}A salamander climbs a\nmountain backward...\n\nExactly why he has chosen\nto do such a thing is\nunclear...\nWhat meaning does it have?\nNot even he himself seems\nto know...",
+   "et": ""
+  },
+  {
+   "id": 96,
+   "en": "The cards have spoken.{01 00 00 0a 00}\nIt is the {ff 00 00 07}MIDNIGHT symbol{ff 00 00 00},\nin its {ff 00 00 07}inverted {ff 00 00 00}state. \n{ff 00 00 02}A fox with a knack for art\npaints images on a piece of\nlitmus paper...\nHe can make red or blue\ndepending on the type of\nwater he uses... \nThis is what keeps the\nfox's inspiration from\nrunning dry.",
+   "et": ""
+  },
+  {
+   "id": 97,
+   "en": "The cards have spoken.{01 00 00 0a 00}\nIt is the {ff 00 00 07}MIDNIGHT symbol{ff 00 00 00},\nin its {ff 00 00 07}inverted {ff 00 00 00}state. \n{ff 00 00 02}A fox waits in bed for the\nmoment when dawn breaks...\n\nWhen this night ends, his\nshape will transform...\n\nHe will transform into a\nfox unlike one ever seen \nbefore.",
+   "et": ""
+  },
+  {
+   "id": 98,
+   "en": "The cards have spoken.{01 00 00 0a 00}\nIt is the {ff 00 00 07}DAWN SUN symbol{ff 00 00 00},\nin its {ff 00 00 07}inverted {ff 00 00 00}state. \n{ff 00 00 02}While basking in the \nmorning sun...\n\n...an otter with a tired \nlook on his face treads\nslowly and heavily.\nThe daunting task of being\nthe buffer between the \nboss and the workers...\n...is apparently taking its\ntoll on middle management.",
+   "et": ""
+  },
+  {
+   "id": 99,
+   "en": "The cards have spoken.{01 00 00 0a 00}\nIt is the {ff 00 00 07}DAWN SUN symbol{ff 00 00 00},\nin its {ff 00 00 07}inverted {ff 00 00 00}state. \n{ff 00 00 02}An otter who's just opened\na can of coffee opens a \nbottle of water...\nHe pours it into the can to\nthin the coffee out.\n\nAfter an all-nighter at the\noffice, coffee's a necessity\nfor this otter's head...\nWatering it down is a\nnecessity for his stomach.",
+   "et": ""
+  },
+  {
+   "id": 100,
+   "en": "The cards have spoken.{01 00 00 0a 00}\nIt is the {ff 00 00 07}BUTTERFLY symbol{ff 00 00 00},\nin its {ff 00 00 07}inverted {ff 00 00 00}state. \n{ff 00 00 02}A giraffe who collects\nbutterflies is laboring to\nclean her house...\nAs she vacuums wing dust \nthat has collected on\neverything...\n...a glimmer returns to the\ngiraffe's eyes.",
+   "et": ""
+  },
+  {
+   "id": 101,
+   "en": "The cards have spoken.{01 00 00 0a 00}\nIt is the {ff 00 00 07}BUTTERFLY symbol{ff 00 00 00},\nin its {ff 00 00 07}inverted {ff 00 00 00}state. \n{ff 00 00 02}A giraffe with a belt \nwrapped tightly around her\npantsuit eats hungrily...\nShe got too eager and ate \ntoo much, causing her \nbutton to pop out...\n...so now there is nothing \nholding this giraffe back!",
+   "et": ""
+  },
+  {
+   "id": 102,
+   "en": "The cards have spoken.{01 00 00 0a 00}\nIt is the {ff 00 00 07}BRIDGE symbol{ff 00 00 00},\nin its {ff 00 00 07}inverted {ff 00 00 00}state. \n{ff 00 00 02}Given a walrus who is eating\nunder a bridge that's about\nto fall...\n...and a walrus on a bridge\nwho is also eating...\n\n...there are few walruses\nwho will know how to answer\n\"Which is in more danger?\"",
+   "et": ""
+  },
+  {
+   "id": 103,
+   "en": "The cards have spoken.{01 00 00 0a 00}\nIt is the {ff 00 00 07}BRIDGE symbol{ff 00 00 00},\nin its {ff 00 00 07}inverted {ff 00 00 00}state. \n{ff 00 00 02}A walrus with a hearty\nappetite attempts to eat\nbarbecue on a rooftop...\nA strong wind blows, \ncarrying the thin strips of\nbarbequed meat with it...\nAnd thus a gift of meat\nwas delivered{01 00 00 05 00} to the\ngrowing kids walking below.",
+   "et": ""
+  },
+  {
+   "id": 104,
+   "en": "The cards have spoken.{01 00 00 0a 00}\nThe {ff 00 00 07}SHOOTING STAR symbol{ff 00 00 00},\nin its {ff 00 00 07}inverted {ff 00 00 00}state. \n{ff 00 00 02}A camel who has lost its \nway in the desert looks to \nthe stars for direction...\nJust at that moment, a \nshooting star drops in the\nwest...\nIt causes the camel\nheading east to second-\nguess itself.",
+   "et": ""
+  },
+  {
+   "id": 105,
+   "en": "The cards have spoken.{01 00 00 0a 00}\nThe {ff 00 00 07}SHOOTING STAR symbol{ff 00 00 00},\nin its {ff 00 00 07}inverted {ff 00 00 00}state. \n{ff 00 00 02}A camel arrives at an oasis\nto fill a canteen with\nsweet water...\nAt the bottom of the\ncanteen, there is a small \nhole...\nIt doesn't seem that the\ncamel even knows that it's\nthere.",
+   "et": ""
+  },
+  {
+   "id": 106,
+   "en": "The cards have spoken.{01 00 00 0a 00}\nIt is the {ff 00 00 07}SHIP symbol{ff 00 00 00},\nin its {ff 00 00 07}inverted {ff 00 00 00}state. \n{ff 00 00 02}A suspiciously glowing moon\nfloats in the sky...\n\nIt hangs in the night at\nthe far end of a long and\nendless road...\nThe eyes of a camel who\ntreads that road heavily...\n\n...shine with a similar\nsuspicious glow.",
+   "et": ""
+  },
+  {
+   "id": 107,
+   "en": "The cards have spoken.{01 00 00 0a 00}\nIt is the {ff 00 00 07}SHIP symbol{ff 00 00 00},\nin its {ff 00 00 07}inverted {ff 00 00 00}state. \n{ff 00 00 02}The waxing and waning of\nthe moon is known to\naffect all life...\nIt appears that tonight it\nwill cast its magic upon a\ncapricious gull...\nIt will send him swimming in\nthe deep blue sea.{ff 00 00 00}\n",
+   "et": ""
+  },
+  {
+   "id": 108,
+   "en": "The cards have spoken.{01 00 00 0a 00}\nIt is the {ff 00 00 07}LIGHT symbol{ff 00 00 00},\nin its {ff 00 00 07}inverted {ff 00 00 00}state. \n{ff 00 00 02}Twin raccoons slather on\nsuntan oil in an attempt\nto get some color...\nIt appears that their goal \nis something similar to\na wheat brown but...\n...being that they were born\nbrown raccoons,{01 00 00 05 00} it's not\nclear what they are doing.",
+   "et": ""
+  },
+  {
+   "id": 109,
+   "en": "The cards have spoken.{01 00 00 0a 00}\nIt is the {ff 00 00 07}LIGHT symbol{ff 00 00 00},\nin its {ff 00 00 07}inverted {ff 00 00 00}state. \n{ff 00 00 02}Though it is light outside,\ntwin raccoons have turned\ntheir lights on...\nThe sunlight and the room\nlight have mixed just \nenough...\nIt makes their eyes feel \nbleary and tired.\n",
+   "et": ""
+  },
+  {
+   "id": 110,
+   "en": "The cards have spoken.{01 00 00 0a 00}\nIt is the {ff 00 00 07}WIND symbol{ff 00 00 00},\nin its {ff 00 00 07}inverted {ff 00 00 00}state. \n{ff 00 00 02}At the end of winter, a\nsingle snowflake melts into\na puddle...\nThere was a time when the\npuddle was called a\nsnowman...\nAt this point, though, there\nis no getting back to that\nstate again.",
+   "et": ""
+  },
+  {
+   "id": 111,
+   "en": "The cards have spoken.{01 00 00 0a 00}\nIt is the {ff 00 00 07}WIND symbol{ff 00 00 00},\nin its {ff 00 00 07}inverted {ff 00 00 00}state. {ff 00 00 02}\nA blizzard heads straight\nfor a well-proportioned \nsnowman...\nNo matter how comfortable \nin the cold it might seem...\n\n...how the snowman will look\nafter the blizzard has\npassed.{01 00 00 05 00}.{01 00 00 05 00}.\n...is unknown.",
+   "et": ""
+  },
+  {
+   "id": 112,
+   "en": "The cards have spoken.{01 00 00 0a 00}\nIt is the {ff 00 00 07}SPACE symbol{ff 00 00 00},\nin its {ff 00 00 07}inverted {ff 00 00 00}state. {ff 00 00 02}\nA laid-back kid chats with\nhis self-centered friends...\n\nFor better or for worse,\neventually the kid, too...\n\n...will become just as\nself-centered as his\nfriends are.",
+   "et": ""
+  },
+  {
+   "id": 113,
+   "en": "The cards have spoken.{01 00 00 0a 00}\nIt is the {ff 00 00 07}SPACE symbol{ff 00 00 00},\nin its {ff 00 00 07}inverted {ff 00 00 00}state. {ff 00 00 02}\nA discriminating young girl\nis very much into \ndeveloping her life space...\nSadly, she's so selective\nthat her work is never\ndone.\nHappily, {01 00 00 05 00}the fact that her\nroom never gets finished...\n\n...doesn't seem to bother\nher in the slightest.",
+   "et": ""
+  },
+  {
+   "id": 114,
+   "en": "Yessss...{01 00 00 0a 00} Very well, we have\n\"{ff 00 00 02}Freedom{ff 00 00 00},\" \"{ff 00 00 02}Curiosity{ff 00 00 00},\" and\n\"{ff 00 00 02}Originality{ff 00 00 00}\".{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\nSo{01 00 00 05 00} what does this portend?\n\n\n{07 20 00}Perhaps{01 00 00 05 00} it means nothing.{01 00 00 05 00}\nBut it may mean everything.",
+   "et": ""
+  },
+  {
+   "id": 115,
+   "en": "Yessss...{01 00 00 0a 00} Very well, we have\n\"{ff 00 00 02}Knowledge{ff 00 00 00},\" \"{ff 00 00 02}Technology{ff 00 00 00},\"\nand \"{ff 00 00 02}Words{ff 00 00 00}\".{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\nSo {01 00 00 05 00}what does this portend?\n\n\n{07 20 00}Perhaps{01 00 00 05 00} it means nothing.{01 00 00 05 00}\nBut it may mean everything.",
+   "et": ""
+  },
+  {
+   "id": 116,
+   "en": "Yessss...{01 00 00 0a 00} Very well, we have\n\"{ff 00 00 02}Simplicity{ff 00 00 00},\" \"{ff 00 00 02}Pursuit of\nTruth{ff 00 00 00},\" and \"{ff 00 00 02}Selflessness{ff 00 00 00}\".{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\nSo{01 00 00 05 00} what does this portend?\n\n\n{07 20 00}Perhaps{01 00 00 05 00} it means nothing.{01 00 00 05 00}\nBut it may mean everything.",
+   "et": ""
+  },
+  {
+   "id": 117,
+   "en": "Yessss...{01 00 00 0a 00} Very well, we have\n\"{ff 00 00 02}Happiness{ff 00 00 00},\" \"{ff 00 00 02}Fulfillment{ff 00 00 00},\"\nand \"{ff 00 00 02}Welcoming{ff 00 00 00}\".{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\nSo {01 00 00 05 00}what does this portend?\n\n\n{07 20 00}Perhaps{01 00 00 05 00} it means nothing.{01 00 00 05 00}\nBut it may mean everything.",
+   "et": ""
+  },
+  {
+   "id": 118,
+   "en": "Yessss...{01 00 00 0a 00} Very well, we have\n\"{ff 00 00 02}Confidence{ff 00 00 00},\" \"{ff 00 00 02}Rights{ff 00 00 00},\" and \n\"{ff 00 00 02}Realism{ff 00 00 00}\".{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\nSo{01 00 00 05 00} what does this portend?\n\n\n{07 20 00}Perhaps{01 00 00 05 00} it means nothing.{01 00 00 05 00}\nBut it may mean everything.",
+   "et": ""
+  },
+  {
+   "id": 119,
+   "en": "Yessss...{01 00 00 0a 00} Very well, we have\n\"{ff 00 00 02}Kindness{ff 00 00 00},\" \"{ff 00 00 02}Warmth{ff 00 00 00},\" and \n\"{ff 00 00 02}Calmness{ff 00 00 00}\".{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\nSo{01 00 00 05 00} what does this portend?\n\n\n{07 20 00}Perhaps{01 00 00 05 00} it means nothing.{01 00 00 05 00}\nBut it may mean everything.",
+   "et": ""
+  },
+  {
+   "id": 120,
+   "en": "Yessss...{01 00 00 0a 00} Very well, we have\n\"{ff 00 00 02}Enjoyment{ff 00 00 00},\" \"{ff 00 00 02}Appeal{ff 00 00 00},\" and\n\"{ff 00 00 02}Visibility{ff 00 00 00}\".{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\nSo{01 00 00 05 00} what does this portend?\n\n\n{07 20 00}Perhaps{01 00 00 05 00} it means nothing.{01 00 00 05 00}\nBut it may mean everything.",
+   "et": ""
+  },
+  {
+   "id": 121,
+   "en": "Yessss...{01 00 00 0a 00} Very well, we have\n\"{ff 00 00 02}Forward Movement{ff 00 00 00},\"\n\"{ff 00 00 02}Attack{ff 00 00 00},\" and \"{ff 00 00 02}Velocity{ff 00 00 00}\".{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\nSo{01 00 00 05 00} what does this portend?\n\n\n{07 20 00}Perhaps{01 00 00 05 00} it means nothing.{01 00 00 05 00}\nBut it may mean everything.",
+   "et": ""
+  },
+  {
+   "id": 122,
+   "en": "Yessss...{01 00 00 0a 00} Very well, we have\n\"{ff 00 00 02}Peace{ff 00 00 00},\" \"{ff 00 00 02}Openness{ff 00 00 00},\" and \n\"{ff 00 00 02}Success{ff 00 00 00}\".{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\nSo{01 00 00 05 00} what does this portend?\n\n\n{07 20 00}Perhaps{01 00 00 05 00} it means nothing.{01 00 00 05 00}\nBut it may mean everything.",
+   "et": ""
+  },
+  {
+   "id": 123,
+   "en": "Yessss...{01 00 00 0a 00} Very well, we have\n\"{ff 00 00 02}Peace{ff 00 00 00},\" \"{ff 00 00 02}Calm{ff 00 00 00},\" and \n\"{ff 00 00 02}Modesty{ff 00 00 00}\".{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\nSo{01 00 00 05 00} what does this portend?\n\n\n{07 20 00}Perhaps{01 00 00 05 00} it means nothing.{01 00 00 05 00}\nBut it may mean everything.",
+   "et": ""
+  },
+  {
+   "id": 124,
+   "en": "Yessss...{01 00 00 0a 00} Very well, we have\n\"{ff 00 00 02}Good Luck{ff 00 00 00},\" \"{ff 00 00 02}Change{ff 00 00 00},\" and\n\"{ff 00 00 02}Optimism{ff 00 00 00}\".{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\nSo{01 00 00 05 00} what does this portend?\n\n\n{07 20 00}Perhaps{01 00 00 05 00} it means nothing.{01 00 00 05 00}\nBut it may mean everything.",
+   "et": ""
+  },
+  {
+   "id": 125,
+   "en": "Yessss...{01 00 00 0a 00} Very well, we have\n\"{ff 00 00 02}Rules{ff 00 00 00},\" \"{ff 00 00 02}Fairness{ff 00 00 00},\" and\n\"{ff 00 00 02}Decisiveness{ff 00 00 00}\".{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\nSo{01 00 00 05 00} what does this portend?\n\n\n{07 20 00}Perhaps{01 00 00 05 00} it means nothing.{01 00 00 05 00}\nBut it may mean everything.",
+   "et": ""
+  },
+  {
+   "id": 126,
+   "en": "Yessss...{01 00 00 0a 00} Very well, we have\n\"{ff 00 00 02}Hardship{ff 00 00 00},\" \"{ff 00 00 02}Endurance{ff 00 00 00},\" and\n\"{ff 00 00 02}Vain Waiting{ff 00 00 00}\".{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\nSo{01 00 00 05 00} what does this portend?\n\n\n{07 20 00}Perhaps{01 00 00 05 00} it means nothing.{01 00 00 05 00}\nBut it may mean everything.",
+   "et": ""
+  },
+  {
+   "id": 127,
+   "en": "Yessss...{01 00 00 0a 00} Very well, we have\n\"{ff 00 00 02}Change{ff 00 00 00},\" \"{ff 00 00 02}Unknown Things{ff 00 00 00},\"\nand \"{ff 00 00 02}Rebirth{ff 00 00 00}\".{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\nSo{01 00 00 05 00} what does this portend?\n\n\n{07 20 00}Perhaps{01 00 00 05 00} it means nothing.{01 00 00 05 00}\nBut it may mean everything.",
+   "et": ""
+  },
+  {
+   "id": 128,
+   "en": "Yessss...{01 00 00 0a 00} Very well, we have\n\"{ff 00 00 02}Dependability{ff 00 00 00},\" \"{ff 00 00 02}Focus{ff 00 00 00},\" and\n\"{ff 00 00 02}Flexibility{ff 00 00 00}\".{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\nSo{01 00 00 05 00} what does this portend?\n\n\n{07 20 00}Perhaps{01 00 00 05 00} it means nothing.{01 00 00 05 00}\nBut it may mean everything.",
+   "et": ""
+  },
+  {
+   "id": 129,
+   "en": "Yessss...{01 00 00 0a 00} Very well, we have\n\"{ff 00 00 02}Energy{ff 00 00 00},\" \"{ff 00 00 02}Presentation{ff 00 00 00},\" and\n\"{ff 00 00 02}Allure{ff 00 00 00}\".{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\nSo{01 00 00 05 00} what does this portend?\n\n\n{07 20 00}Perhaps{01 00 00 05 00} it means nothing.{01 00 00 05 00}\nBut it may mean everything.",
+   "et": ""
+  },
+  {
+   "id": 130,
+   "en": "Yessss...{01 00 00 0a 00} Very well, we have\n\"{ff 00 00 02}Trouble{ff 00 00 00},\" \"{ff 00 00 02}Second Chances{ff 00 00 00},\"\nand \"{ff 00 00 02}Treatment{ff 00 00 00}\".{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\nSo{01 00 00 05 00} what does this portend?\n\n\n{07 20 00}Perhaps{01 00 00 05 00} it means nothing.{01 00 00 05 00}\nBut it may mean everything.",
+   "et": ""
+  },
+  {
+   "id": 131,
+   "en": "Yessss...{01 00 00 0a 00} Very well, we have\n\"{ff 00 00 02}Hopes{ff 00 00 00},\" \"{ff 00 00 02}Dreams{ff 00 00 00},\"\nand \"{ff 00 00 02}Aspirations{ff 00 00 00}\".{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\nSo{01 00 00 05 00} what does this portend?\n\n\n{07 20 00}Perhaps{01 00 00 05 00} it means nothing.{01 00 00 05 00}\nBut it may mean everything.",
+   "et": ""
+  },
+  {
+   "id": 132,
+   "en": "Yessss...{01 00 00 0a 00} Very well, we have\n\"{ff 00 00 02}Insecurity{ff 00 00 00},\" \"{ff 00 00 02}Stubbornness{ff 00 00 00},\"\nand \"{ff 00 00 02}Distrust{ff 00 00 00}\".{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\nSo{01 00 00 05 00} what does this portend?\n\n\n{07 20 00}Perhaps{01 00 00 05 00} it means nothing.{01 00 00 05 00}\nBut it may mean everything.",
+   "et": ""
+  },
+  {
+   "id": 133,
+   "en": "Yessss...{01 00 00 0a 00} Very well, we have\n\"{ff 00 00 02}Novelty{ff 00 00 00},\" \"{ff 00 00 02}Cuteness{ff 00 00 00},\"\nand \"{ff 00 00 02}Power{ff 00 00 00}\".{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\nSo{01 00 00 05 00} what does this portend?\n\n\n{07 20 00}Perhaps{01 00 00 05 00} it means nothing.{01 00 00 05 00}\nBut it may mean everything.",
+   "et": ""
+  },
+  {
+   "id": 134,
+   "en": "Yessss...{01 00 00 0a 00} Very well, we have\n\"{ff 00 00 02}Departure{ff 00 00 00},\" \"{ff 00 00 02}Ascension{ff 00 00 00},\"\nand \"{ff 00 00 02}Escape{ff 00 00 00}\".{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\nSo{01 00 00 05 00} what does this portend?\n\n\n{07 20 00}Perhaps{01 00 00 05 00} it means nothing.{01 00 00 05 00}\nBut it may mean everything.",
+   "et": ""
+  },
+  {
+   "id": 135,
+   "en": "Yessss...{01 00 00 0a 00} Very well, we have\n\"{ff 00 00 02}Fulfillment{ff 00 00 00},\" \"{ff 00 00 02}Realization{ff 00 00 00},\"\nand \"{ff 00 00 02}Results{ff 00 00 00}\".{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\nSo{01 00 00 05 00} what does this portend?\n\n\n{07 20 00}Perhaps{01 00 00 05 00} it means nothing.{01 00 00 05 00}\nBut it may mean everything.",
+   "et": ""
+  },
+  {
+   "id": 136,
+   "en": "Yessss...{01 00 00 0a 00} Very well, we have\n\"{ff 00 00 02}Selfishness{ff 00 00 00},\" \"{ff 00 00 02}Rashness{ff 00 00 00},\"\nand \"{ff 00 00 02}Irresponsibility{ff 00 00 00}\".{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\nSo{01 00 00 05 00} what does this portend?\n\n\n{07 20 00}Perhaps{01 00 00 05 00} it means nothing.{01 00 00 05 00}\nBut it may mean everything.",
+   "et": ""
+  },
+  {
+   "id": 137,
+   "en": "Yessss...{01 00 00 0a 00} Very well, we have\n\"{ff 00 00 02}Dirtiness{ff 00 00 00},\" \"{ff 00 00 02}Laziness{ff 00 00 00},\"\nand \"{ff 00 00 02}Dishonesty{ff 00 00 00}\".{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\nSo{01 00 00 05 00} what does this portend?\n\n\n{07 20 00}Perhaps{01 00 00 05 00} it means nothing.{01 00 00 05 00}\nBut it may mean everything.",
+   "et": ""
+  },
+  {
+   "id": 138,
+   "en": "Yessss...{01 00 00 0a 00} Very well, we have\n\"{ff 00 00 02}Insensitivity{ff 00 00 00},\" \"{ff 00 00 02}Loneliness{ff 00 00 00},\"\nand \"{ff 00 00 02}Temper{ff 00 00 00}\".{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\nSo{01 00 00 05 00} what does this portend?\n\n\n{07 20 00}Perhaps{01 00 00 05 00} it means nothing.{01 00 00 05 00}\nBut it may mean everything.",
+   "et": ""
+  },
+  {
+   "id": 139,
+   "en": "Yessss...{01 00 00 0a 00} Very well, we have\n\"{ff 00 00 02}Greed{ff 00 00 00},\" \"{ff 00 00 02}Dissatisfaction{ff 00 00 00},\"\nand \"{ff 00 00 02}Jealousy{ff 00 00 00}\".{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\nSo{01 00 00 05 00} what does this portend?\n\n\n{07 20 00}Perhaps{01 00 00 05 00} it means nothing.{01 00 00 05 00}\nBut it may mean everything.",
+   "et": ""
+  },
+  {
+   "id": 140,
+   "en": "Yessss...{01 00 00 0a 00} Very well, we have\n\"{ff 00 00 02}Treachery{ff 00 00 00},\" \"{ff 00 00 02}Pride{ff 00 00 00},\"\nand \"{ff 00 00 02}Selfishness{ff 00 00 00}\".{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\nSo{01 00 00 05 00} what does this portend?\n\n\n{07 20 00}Perhaps{01 00 00 05 00} it means nothing.{01 00 00 05 00}\nBut it may mean everything.",
+   "et": ""
+  },
+  {
+   "id": 141,
+   "en": "Yessss...{01 00 00 0a 00} Very well, we have\n\"{ff 00 00 02}Stubbornness{ff 00 00 00},\" \"{ff 00 00 02}Cheapness{ff 00 00 00},\"\nand \"{ff 00 00 02}Conservativeness{ff 00 00 00}\".{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\nSo{01 00 00 05 00} what does this portend?\n\n\n{07 20 00}Perhaps{01 00 00 05 00} it means nothing.{01 00 00 05 00}\nBut it may mean everything.",
+   "et": ""
+  },
+  {
+   "id": 142,
+   "en": "Yessss...{01 00 00 0a 00} Very well, we have\n\"{ff 00 00 02}Deceptiveness{ff 00 00 00},\" \"{ff 00 00 02}Fleetness{ff 00 00 00},\"\nand \"{ff 00 00 02}Estrangement{ff 00 00 00}\".{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\nSo{01 00 00 05 00} what does this portend?\n\n\n{07 20 00}Perhaps{01 00 00 05 00} it means nothing.{01 00 00 05 00}\nBut it may mean everything.",
+   "et": ""
+  },
+  {
+   "id": 143,
+   "en": "Yessss...{01 00 00 0a 00} Very well, we have\n\"{ff 00 00 02}Violence{ff 00 00 00},\" \"{ff 00 00 02}Conceit{ff 00 00 00},\"\nand \"{ff 00 00 02}Aggressiveness{ff 00 00 00}\".{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\nSo{01 00 00 05 00} what does this portend?\n\n\n{07 20 00}Perhaps{01 00 00 05 00} it means nothing.{01 00 00 05 00}\nBut it may mean everything.",
+   "et": ""
+  },
+  {
+   "id": 144,
+   "en": "Yessss...{01 00 00 0a 00} Very well, we have\n\"{ff 00 00 02}Weak-Willed{ff 00 00 00},\" \"{ff 00 00 02}Passive{ff 00 00 00},\"\nand \"{ff 00 00 02}Careless{ff 00 00 00}\".{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\nSo{01 00 00 05 00} what does this portend?\n\n\n{07 20 00}Perhaps{01 00 00 05 00} it means nothing.{01 00 00 05 00}\nBut it may mean everything.",
+   "et": ""
+  },
+  {
+   "id": 145,
+   "en": "Yessss...{01 00 00 0a 00} Very well, we have\n\"{ff 00 00 02}Frivolity{ff 00 00 00},\" \"{ff 00 00 02}Envy{ff 00 00 00},\"\nand \"{ff 00 00 02}Choosiness{ff 00 00 00}\".{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\nSo{01 00 00 05 00} what does this portend?\n\n\n{07 20 00}Perhaps{01 00 00 05 00} it means nothing.{01 00 00 05 00}\nBut it may mean everything.",
+   "et": ""
+  },
+  {
+   "id": 146,
+   "en": "Yessss...{01 00 00 0a 00} Very well, we have\n\"{ff 00 00 02}Regret{ff 00 00 00},\" \"{ff 00 00 02}Brief Happiness{ff 00 00 00},\"\nand \"{ff 00 00 02}Missed Chance{ff 00 00 00}\".{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\nSo{01 00 00 05 00} what does this portend?\n\n\n{07 20 00}Perhaps{01 00 00 05 00} it means nothing.{01 00 00 05 00}\nBut it may mean everything.",
+   "et": ""
+  },
+  {
+   "id": 147,
+   "en": "Yessss...{01 00 00 0a 00} Very well, we have\n\"{ff 00 00 02}Strictness{ff 00 00 00},\" \"{ff 00 00 02}Polarity{ff 00 00 00},\"\nand \"{ff 00 00 02}Threat{ff 00 00 00}\".{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\nSo{01 00 00 05 00} what does this portend?\n\n\n{07 20 00}Perhaps{01 00 00 05 00} it means nothing.{01 00 00 05 00}\nBut it may mean everything.",
+   "et": ""
+  },
+  {
+   "id": 148,
+   "en": "Yessss...{01 00 00 0a 00} Very well, we have\n\"{ff 00 00 02}Self-Control{ff 00 00 00},\" \"{ff 00 00 02}Passion{ff 00 00 00},\"\nand \"{ff 00 00 02}Guts{ff 00 00 00}\".{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\nSo{01 00 00 05 00} what does this portend?\n\n\n{07 20 00}Perhaps{01 00 00 05 00} it means nothing.{01 00 00 05 00}\nBut it may mean everything.",
+   "et": ""
+  },
+  {
+   "id": 149,
+   "en": "Yessss...{01 00 00 0a 00} Very well, we have\n\"{ff 00 00 02}Repetition{ff 00 00 00},\" \"{ff 00 00 02}Boredom{ff 00 00 00},\"\nand \"{ff 00 00 02}Stagnancy{ff 00 00 00}\".{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\nSo{01 00 00 05 00} what does this portend?\n\n\n{07 20 00}Perhaps{01 00 00 05 00} it means nothing.{01 00 00 05 00}\nBut it may mean everything.",
+   "et": ""
+  },
+  {
+   "id": 150,
+   "en": "Yessss...{01 00 00 0a 00} Very well, we have\n\"{ff 00 00 02}Clumsiness{ff 00 00 00},\" \"{ff 00 00 02}Laziness{ff 00 00 00},\"\nand \"{ff 00 00 02}Lack of Skill{ff 00 00 00}\".{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\nSo{01 00 00 05 00} what does this portend?\n\n\n{07 20 00}Perhaps{01 00 00 05 00} it means nothing.{01 00 00 05 00}\nBut it may mean everything.",
+   "et": ""
+  },
+  {
+   "id": 151,
+   "en": "Yessss...{01 00 00 0a 00} Very well, we have\n\"{ff 00 00 02}Concentration{ff 00 00 00},\" \"{ff 00 00 02}Open Eye{ff 00 00 00},\"\nand \"{ff 00 00 02}Control{ff 00 00 00}\".{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\nSo{01 00 00 05 00} what does this portend?\n\n\n{07 20 00}Perhaps{01 00 00 05 00} it means nothing.{01 00 00 05 00}\nBut it may mean everything.",
+   "et": ""
+  },
+  {
+   "id": 152,
+   "en": "Yessss...{01 00 00 0a 00} Very well, we have\n\"{ff 00 00 02}Taboo{ff 00 00 00},\" \"{ff 00 00 02}Wanderlust{ff 00 00 00},\" and\n\"{ff 00 00 02}Shock{ff 00 00 00}\".{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\nSo{01 00 00 05 00} what does this portend?\n\n\n{07 20 00}Perhaps{01 00 00 05 00} it means nothing.{01 00 00 05 00}\nBut it may mean everything.",
+   "et": ""
+  },
+  {
+   "id": 153,
+   "en": "Yessss...{01 00 00 0a 00} Very well, we have\n\"{ff 00 00 02}Ambition{ff 00 00 00},\" \"{ff 00 00 02}Eagerness{ff 00 00 00},\"\nand \"{ff 00 00 02}Flightiness{ff 00 00 00}\".{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\nSo{01 00 00 05 00} what does this portend?\n\n\n{07 20 00}Perhaps{01 00 00 05 00} it means nothing.{01 00 00 05 00}\nBut it may mean everything.",
+   "et": ""
+  },
+  {
+   "id": 154,
+   "en": "Yessss...{01 00 00 0a 00} Very well, we have\n\"{ff 00 00 02}Brightness{ff 00 00 00},\" \"{ff 00 00 02}Honesty{ff 00 00 00},\"\nand \"{ff 00 00 02}Understanding{ff 00 00 00}\".{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\nSo{01 00 00 05 00} what does this portend?\n\n\n{07 20 00}Perhaps{01 00 00 05 00} it means nothing.{01 00 00 05 00}\nBut it may mean everything.",
+   "et": ""
+  },
+  {
+   "id": 155,
+   "en": "Yesss...{01 00 00 0a 00} Very well, we have\n\"{ff 00 00 02}Bitterness{ff 00 00 00},\" \"{ff 00 00 02}Carelessness{ff 00 00 00},\"\nand \"{ff 00 00 02}Short-Temperedness{ff 00 00 00}\".{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\nSo{01 00 00 05 00} what does this portend?\n\n\n{07 20 00}Perhaps{01 00 00 05 00} it means nothing.{01 00 00 05 00}\nBut it may mean everything.",
+   "et": ""
+  },
+  {
+   "id": 156,
+   "en": "Yessss...{01 00 00 0a 00} Very well, we have\n\"{ff 00 00 02}Dullness{ff 00 00 00},\" \"{ff 00 00 02}Laziness{ff 00 00 00},\"\nand \"{ff 00 00 02}Compromise{ff 00 00 00}\".{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\nSo{01 00 00 05 00} what does this portend?\n\n\n{07 20 00}Perhaps{01 00 00 05 00} it means nothing.{01 00 00 05 00}\nBut it may mean everything.",
+   "et": ""
+  },
+  {
+   "id": 157,
+   "en": "Yessss...{01 00 00 0a 00} Very well, we have\n\"{ff 00 00 02}Incompletion{ff 00 00 00},\" \"{ff 00 00 02}Instability{ff 00 00 00},\"\nand \"{ff 00 00 02}Inconsistency{ff 00 00 00}\".{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\nSo{01 00 00 05 00} what does this portend?\n\n\n{07 20 00}Perhaps{01 00 00 05 00} it means nothing.{01 00 00 05 00}\nBut it may mean everything.",
+   "et": ""
+  }
+ ]
+}

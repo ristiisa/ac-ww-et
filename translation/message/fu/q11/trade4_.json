@@ -1,0 +1,20 @@
+{
+ "file": "script/ENG/message/fu/q11/trade4_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 14 00}How did you guess that's\nmy favorite thing in the\nhouse, {01 00 00 05 00}{04 02 00}?",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "You know good furniture\nwhen you see it, {07 0b 00}don't\nyou, {01 00 00 05 00}{04 02 00}?\n{07 0d 00}I'm glad you appreciate the\nfiner things in life, even\nif they're MY things!",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 14 00}What, that? You've got your\neye on that, {01 00 00 05 00}{04 1f 00}?\nI can't get rid of that!\n{07 0a 00}That's, like, one of my\ntop-three favorite things\nin the house, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  }
+ ]
+}

@@ -1,0 +1,50 @@
+{
+ "file": "script/ENG/message/ha/ev/fmarket2_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 14 00}Welcome to my pad,{01 00 00 0a 00}\n{ff 00 00 05}{04 1f 00}{ff 00 00 00}!",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 14 00}Welcome to {ff 00 00 06}{04 01 00}{ff 00 00 00}'s\nHouse of Burly Goods,\n{01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 14 00}Good thing you're ready\nto drop some serious cash,\n{01 00 00 05 00}{04 02 00}!\n'Cause the House of\n{04 01 00} is open for\nbusiness!",
+   "et": ""
+  },
+  {
+   "id": 3,
+   "en": "{07 14 00}Dude! You rock, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 4,
+   "en": "{07 14 00}You'll be back soon,{01 00 00 0a 00}\n{ff 00 00 05}{04 1f 00}{ff 00 00 00}! {01 00 00 0a 00}I know it!",
+   "et": ""
+  },
+  {
+   "id": 5,
+   "en": "{07 14 00}Check ya later, {01 00 00 05 00}{ff 00 00 05}{04 1f 00}{ff 00 00 00}!",
+   "et": ""
+  },
+  {
+   "id": 6,
+   "en": "{07 14 00}If you see anything you're\nfired up about, just gimme\na holler, {04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 7,
+   "en": "{07 0b 00}Sweet stuff, eh? {07 14 00}I bet it's\ntotally blowing your mind\nright now, {01 00 00 05 00}{04 1f 00}!{01 00 00 0a 00}",
+   "et": ""
+  },
+  {
+   "id": 8,
+   "en": "{07 14 00}Check out all this gnarly\nstuff, {01 00 00 05 00}{04 02 00}!{01 00 00 0a 00}\n\n{07 11 00}It's gotta be the most\nmanly {ff 00 00 03}Flea Market{ff 00 00 00} selection\nEVER, am I{ff 00 00 03} {ff 00 00 00}right?!",
+   "et": ""
+  }
+ ]
+}

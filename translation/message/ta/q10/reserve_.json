@@ -1,0 +1,20 @@
+{
+ "file": "script/ENG/message/ta/q10/reserve_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 14 00}OK,{01 00 00 14 00} so what time {01 00 00 05 00}{07 0b 00}works for\nyou, {01 00 00 05 00}{04 02 00}?",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 00 00}Well, I'd like to come over\nas soon as possible. {01 00 00 0a 00}When is\na good time {07 0b 00}for you?",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 1d 00}Oh!{01 00 00 14 00} But{01 00 00 05 00} I've{01 00 00 05 00} got some things\nto take care of.\n\n{07 0b 00}Would you be a dear and\ndecide on a time for me?\n\n{07 14 00}I'll plan my day based on\nyour schedule, {01 00 00 0a 00}{04 02 00}.",
+   "et": ""
+  }
+ ]
+}

@@ -1,0 +1,20 @@
+{
+ "file": "script/ENG/message/ha/q/preitem_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 00 00}Well, {01 00 00 05 00}whatever. {01 00 00 05 00}I still wanna\nthank you,{01 00 00 0a 00} so hold your\nhand out, OK?",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 04 00}Oh yeah!{01 00 00 05 00} Thank-you gift!{01 00 00 14 00}\n{07 00 00}Sorry, {01 00 00 05 00}I almost forgot!",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 00 00}I might not look like it but{01 00 00 03 00}\nI'm a total stickler for\nmanners!",
+   "et": ""
+  }
+ ]
+}

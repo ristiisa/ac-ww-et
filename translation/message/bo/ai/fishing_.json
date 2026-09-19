@@ -1,0 +1,65 @@
+{
+ "file": "script/ENG/message/bo/ai/fishing_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "You're so dreamy.{01 00 00 14 00} I really\nthink the two of us{01 00 00 05 00} would\nbe really great together!\nYou're just so awesome...\n{01 00 00 14 00}Huh?{01 00 00 0f 00} No!{01 00 00 0a 00} I wasn't talkin'\nto you, {01 00 00 0a 00}{04 02 00}!\nI've been doing my best{01 00 00 0a 00} to\nflatter this fish here,{01 00 00 0a 00}\n{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "Aw, man{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00} I'm never gonna\ncatch a cute little\n{0b 02 00}{ff 00 00 07}{04 1a 00}{ff 00 00 00}.",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "I've been waiting here for\nforever, but I haven't seen\n{ff 00 00 07}{04 1a 00}{ff 00 00 00}.\n{07 04 00}The fish know I'm a hot\nangler, and that leaves\nthem cold,{01 00 00 0a 00} {04 02 00}.",
+   "et": ""
+  },
+  {
+   "id": 3,
+   "en": "When you're fishing,{01 00 00 05 00} do you\never get really sleepy,{01 00 00 0a 00}\n{04 02 00}?\n{07 12 00}I don't know if I got sleepy{01 00 00 05 00}\n'cause I'm fishing,{01 00 00 05 00} or if I'm\nfishing{01 00 00 0a 00} 'cause I'm sleepy{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\nWhoa{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00} That was so deep!{01 00 00 14 00}\nSometimes I surprise\nmyself,{01 00 00 0a 00} {04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 4,
+   "en": "I could never eat\n{0b 02 00}{ff 00 00 07}{04 1a 00}\n{ff 00 00 00}'cause I'm crazy for 'em.\nYep, I'm a fan. I mean,\none of my best buds was\n{ff 00 00 07}{04 1a 00}{ff 00 00 00}.\nOh{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00}and what a delicious\nfriendship it was, {01 00 00 0a 00}\n{04 02 00}.",
+   "et": ""
+  },
+  {
+   "id": 5,
+   "en": "{0b 03 00}{0b 01 00}{ff 00 00 07}{04 1a 00}\n{ff 00 00 00}always hangs out in the\nwater,{01 00 00 0a 00} so what does it do\nwhen it wants to drink\n{04 18 00}?\n\nWouldn't it get all diluted\nunderwater, {04 02 00}?{01 00 00 14 00}\nThat's such a tragedy{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}",
+   "et": ""
+  },
+  {
+   "id": 6,
+   "en": "He leans back,{01 00 00 0a 00} his fishing\nrod in hand,{01 00 00 0a 00} and lets out\na contented sigh{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\nWhen I'm fishing,{01 00 00 0a 00} I look\nlike the coolest guy in\nthe world,{01 00 00 0a 00} {04 02 00}!\nAnd I'm all about hobbies\nthat don't require much\neffort!",
+   "et": ""
+  },
+  {
+   "id": 7,
+   "en": "Fishing would be way more\nfun{01 00 00 0a 00} if you could talk to\nthe fish,{01 00 00 05 00} {04 02 00}.\nFirst you fool 'em,{01 00 00 0a 00} then\nhook 'em,{01 00 00 0a 00} and then you\nfilet 'em{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 01 00} Easy, huh.",
+   "et": ""
+  },
+  {
+   "id": 8,
+   "en": "Hey,{01 00 00 0a 00} nice to meet you.\nMy name is {04 01 00},{01 00 00 05 00}\n{04 02 00}.\nNo offense, but{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{01 00 00 14 00}you smell\nlike you're a fan of the\n{0b 02 00}{ff 00 00 07}{04 1a 00}{ff 00 00 00}.\nDon't worry. I am, too.\nWe're gonna get along just\nfine.{01 00 00 14 00} Nice meeting you!",
+   "et": ""
+  },
+  {
+   "id": 9,
+   "en": "Wow!{01 00 00 14 00} I had a feeling that I\nwas gonna run into\n{04 19 00}, but\nI bumped into you instead!\nNice to meet you!{01 00 00 14 00} I'm\n{04 01 00}.\nMaybe you and I should go\n{0b 02 00}{ff 00 00 07}{04 1a 00}\n{ff 00 00 00}fishing together sometime!",
+   "et": ""
+  },
+  {
+   "id": 10,
+   "en": "Uh,{01 00 00 0a 00} is this the first time\nwe've met? I'm {04 01 00},\nand I'm a huge fishing fan!\nI'm gonna catch a huge\n{ff 00 00 07}{0b 02 00}{04 1a 00}{ff 00 00 00}.\nYou'll see, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 11,
+   "en": "Hey,{01 00 00 05 00} {04 02 00}!{01 00 00 14 00} I'm\n{04 01 00}.\n\nI'm angling to catch me\n{ff 00 00 07}{04 1a 00}\n{ff 00 00 00}today! Or maybe a million!\nWell, I'm gonna catch at\nleast one for sure. You'll\nsee,{01 00 00 05 00} {04 02 00}!",
+   "et": ""
+  }
+ ]
+}

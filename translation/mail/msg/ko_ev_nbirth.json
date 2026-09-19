@@ -1,0 +1,20 @@
+{
+ "file": "script/ENG/mail/msg/ko_ev_nbirth.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "Well, {04 11 00} {04 12 00} is\nmy birthday, so I guess I\nshould have a party. Bring\na present, OK?",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "I'll be one year older on\n{04 11 00} {04 12 00}! So come\nto my place for cake and\nsome sad jazz music.",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "Come to my place on \n{04 11 00} {04 12 00}! No\ndumb questions! Just be\nthere, OK?",
+   "et": ""
+  }
+ ]
+}

@@ -1,0 +1,20 @@
+{
+ "file": "script/ENG/message/ta/q10/first_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 00 00}Tee hee hee!{01 00 00 14 00} Everything\nabout this house is just\nso totally{01 00 00 0a 00} you!\nInterpret that however you\nwant.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 14 00}Whoa!{01 00 00 05 00} It's so much cleaner\nthan I thought it would be!{01 00 00 05 00}\nNot sparkling, but still...\n{07 00 00}You really worked hard to\nget this place all spiffy,\ndidn't you?",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 00 00}Well, well{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00} It's a lot\ncleaner {07 0b 00}than I'd expected.\n\n{07 14 00}Actually, I always had the\nimpression that you lived\nin filth, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  }
+ ]
+}

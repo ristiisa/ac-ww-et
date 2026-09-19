@@ -1,0 +1,35 @@
+{
+ "file": "script/ENG/message/fu/ai/foreign_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 04 00}Oh!{01 00 00 0f 00} {0b 03 00}{04 00 00}? Is that\nyou?{01 00 00 14 00}{07 00 00} I didn't think I'd see\nyou so soon, {01 00 00 05 00}{04 02 00}!\nYeah, I just moved here\nfrom {ff 00 00 08}{04 10 00}{ff 00 00 00}.{01 00 00 0f 00} It's\nlike I'm starting a new life!\n{07 14 00}I hope we get to be really\ngood friends, {01 00 00 05 00}{04 02 00}.",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 0b 00}{0b 03 00}{04 00 00}?{01 00 00 14 00} {07 0c 00}It's me!\n{04 01 00}!{01 00 00 14 00} Don't you\nremember me?\n{07 00 00}You and I hung out back in\n{ff 00 00 08}{04 10 00}{ff 00 00 00}.{01 00 00 05 00} Oh, come on!\nIt wasn't THAT long ago!\n{07 0d 00}I had so much fun talking\nto you that I decided to\nmove here.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 14 00}Hi!{01 00 00 05 00} Remember me?\n{04 01 00}!{01 00 00 14 00} It's nice to\nsee you again, {01 00 00 05 00}{04 02 00}!\nYou'll never believe it, but\nI just moved here from\n{ff 00 00 08}{04 10 00}{ff 00 00 00}!\n{07 0d 00}That makes us neighbors!\nSo you have to promise to\nvisit sometime!",
+   "et": ""
+  },
+  {
+   "id": 3,
+   "en": "You wouldn't think it,\nbut {04 03 00} can't\ncompare with {ff 00 00 08}{04 10 00}{ff 00 00 00}.\nThe air is cleaner, and the\nlocals are nicer. It's so\nrelaxing here.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{04 02 00}.\n{07 0b 00}Don't you think?{01 01 00}\n{07 14 00}Eh, {01 00 00 05 00}{04 00 00}?",
+   "et": ""
+  },
+  {
+   "id": 4,
+   "en": "Ah{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{04 00 00},{01 00 00 0f 00} {07 14 00}we meet\nagain!\n\n{07 0d 00}It's me!{01 00 00 0f 00} {04 01 00},\n{01 00 00 05 00}{04 02 00}! Remember me?\nWe met in {ff 00 00 08}{04 10 00}{ff 00 00 00}!\n{07 14 00}I hope we can be \ngood friends, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 5,
+   "en": "{07 04 00}Oh, {01 00 00 06 00}{04 00 00}!{01 00 00 14 00}\n\n\n{07 00 00}I haven't seen you since,\noh, I think it was back in\n{ff 00 00 08}{04 10 00}{ff 00 00 00}, {01 00 00 05 00}{04 02 00}.\n{07 0b 00}Aren't you surprised to see\nme here, {01 00 00 05 00}{04 02 00}?\n\n{07 14 00}Well, I still like to\n{04 22 00}, {01 00 00 05 00}so we\nshould hang out sometime!",
+   "et": ""
+  }
+ ]
+}

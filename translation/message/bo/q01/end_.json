@@ -1,0 +1,15 @@
+{
+ "file": "script/ENG/message/bo/q01/end_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 1b 00}Your {ff 00 00 02}bug-catching powers\n{ff 00 00 00}are truly amazing. I'm blown\naway.\n{07 14 00}I can't possibly compete\nwith you,{01 00 00 05 00} {04 02 00}.\n\n{07 00 00}All right!{01 00 00 14 00} Tomorrow will see\nthe birth of an all-new me!\n\n{07 17 00}Yep, I'm gonna pull out all\nthe stops for this bug,{01 00 00 05 00}\n{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 1b 00}{0b 03 00}{04 1f 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}. I can't\nbelieve you caught that\nbug. I'm blown away!\n{07 13 00}From now on, I'm gonna call\nyou \"Master\"!{01 00 00 05 00} Or maybe\n\"Prof.\"\n{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{07 16 00}{01 00 00 05 00}What?{01 00 00 14 00} {07 0b 00}You don't want me\nto?{01 01 00} {07 06 00}Aw,{01 00 00 05 00} {04 1f 00}! You're\nno fun at all,{01 00 00 05 00} {04 02 00}!",
+   "et": ""
+  }
+ ]
+}

@@ -1,0 +1,55 @@
+{
+ "file": "script/ENG/message/fu/tsu/star_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "Hey, {04 1f 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} Quick\nquestion for you,{01 00 00 05 00}\n{04 02 00}.\nIs it true that {07 0b 00}you're the\none who created that\nconstellation up there?{02 00 00 08 09}\nYup. Sure is!\nThat wasn't me.",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 04 00}Look, {04 1f 00}!{01 00 00 05 00} Up in\nthe sky, {01 00 00 05 00}{04 02 00}!\n\n{07 14 00}That's the constellation you\nmade! {0b 03 00}{ff 00 00 02}{04 0f 00}{ff 00 00 00}!\nOh, it's so pretty!\n{07 16 00}I don't get why you called\nit \"{ff 00 00 02}{04 0f 00}{ff 00 00 00},\"\nbut I guess it's cool.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 0b 00}Do you see it, {04 1f 00}?{01 00 00 14 00}\n{07 14 00}That bright constellation\nright there?\n{07 00 00}Someone told me that\n{ff 00 00 05}{04 10 00}{ff 00 00 00} is the one who\nnamed it, {01 00 00 05 00}{04 02 00}!\nAnd it has a fabulous name,\ntoo: {ff 00 00 02}{04 0f 00}{ff 00 00 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 14 00}\n\n{07 0d 00}Isn't that beautiful! It's\nstellar, {01 00 00 05 00}{04 02 00}!{03 01 00 01}",
+   "et": ""
+  },
+  {
+   "id": 3,
+   "en": "{07 14 00}Look, {04 1f 00}! See how\nbright {ff 00 00 02}{04 0f 00}\n{ff 00 00 00}is tonight?\n{07 00 00}Is that true \nthat {07 0b 00}{ff 00 00 05}{04 10 00} {ff 00 00 00}came up\nwith that name?\n{07 13 00}I'm so jealous that you live\nwith someone who actually\ncreated a constellation!",
+   "et": ""
+  },
+  {
+   "id": 4,
+   "en": "Do you see that bright\nconstellation up there?\nThat's {ff 00 00 02}{04 0f 00}{ff 00 00 00}.\nI heard that {ff 00 00 05}{04 10 00}{ff 00 00 00}\nfrom {ff 00 00 08}{04 11 00} {ff 00 00 00}made it,\n{01 00 00 05 00}{04 02 00}.\n{07 14 00}The more I look at that\nconstellation, the better\nthat name sounds.",
+   "et": ""
+  },
+  {
+   "id": 5,
+   "en": "{07 04 00}Look, {01 00 00 05 00}{04 1f 00}!{01 00 00 0f 00} {07 14 00}Up there!{01 00 00 05 00}\nLook up in the sky!\n\nThat constellation came\nstraight from the brain of\n{ff 00 00 08}{04 11 00}{ff 00 00 00}'s{ff 00 00 08} {ff 00 00 05}{04 10 00}{ff 00 00 00}!\n{07 00 00}Do you know the name of\nthat constellation?{02 00 00 06 07}\nOf course I do!\nTell me!",
+   "et": ""
+  },
+  {
+   "id": 6,
+   "en": "{07 0d 00}You got it!{01 00 00 14 00} Isn't it the\nbest name ever?\n\"{ff 00 00 02}{04 0f 00}{ff 00 00 00}\"!\n{07 00 00}I love the way it rolls off\nthe tongue. I wonder how\n{ff 00 00 05}{04 10 00} {ff 00 00 00}would feel\n{07 14 00}knowing this constellation's\nfame had spread all the way\nto our little town.",
+   "et": ""
+  },
+  {
+   "id": 7,
+   "en": "{07 14 00}Silly thing!{01 00 00 05 00} It's called\n{ff 00 00 02}{04 0f 00}{ff 00 00 00}!\n\n{07 00 00}Is it strange {07 17 00}that I know\nso much about the stars,\n{01 00 00 05 00}{04 02 00}?",
+   "et": ""
+  },
+  {
+   "id": 8,
+   "en": "{07 04 00}Wow, {01 00 00 05 00}{04 02 00}! That's\npretty awesome. {01 00 00 0a 00}{07 14 00}How'd you\nmanage that, {04 1f 00}?\n{07 0d 00}It's so hard to get to make\nyour own constellation,\n{01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 9,
+   "en": "{07 04 00}Huh? Did I point out the\nwrong one?{01 00 00 05 00} {07 16 00}I was pretty\nsure that was yours{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 0e 00}That's {ff 00 00 02}{04 0f 00}{ff 00 00 00},\nisn't it? The one you\nnamed?\n{07 16 00}Oh, no! I hope this doesn't\nmean I need glasses{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0f 00}\nExcuse me, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  }
+ ]
+}

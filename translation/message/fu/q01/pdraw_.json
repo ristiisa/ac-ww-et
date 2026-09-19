@@ -1,0 +1,15 @@
+{
+ "file": "script/ENG/message/fu/q01/pdraw_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 1d 00}Wow! {01 00 00 0f 00}That's a really nice\n{0b 02 00}{04 1c 00} you\nfound, {01 00 00 05 00}{04 02 00}!\nAll I found was this old\n{0b 02 00}{04 1d 00}.{01 00 00 0f 00}\n{07 0e 00}Hm. Which is more rare?\n{07 00 00}I guess I'm willing to call\nthis match a draw. How\ndoes that sound to you?\nHere's your bug back.{01 00 00 05 00} {07 14 00}Let's\ntry this again sometime,\nshall we, {01 00 00 05 00}{04 02 00}?",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 1d 00}Oh my!{01 00 00 05 00} Did you really catch{01 00 00 05 00}\n{04 1c 00}?{01 00 00 0f 00}\nThat's not too shabby!\n{07 0e 00}Hm... What do we do now,\n{01 00 00 05 00}{04 02 00}? I caught\n{04 1d 00}...\nAll things considered, {01 00 00 05 00}{07 06 00}both\nof the bugs we caught are\nequally rare.\n{07 00 00}I really think this one's\na draw. {01 00 00 05 00}Here, you can have\nyour bug back, {01 00 00 05 00}{04 02 00}.\n{07 14 00}Let's try again sometime!",
+   "et": ""
+  }
+ ]
+}

@@ -1,0 +1,20 @@
+{
+ "file": "script/ENG/message/bo/q12/end_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 15 00}And if you ever get a cold,{01 00 00 05 00}\nI'll be right there to take\ncare of you, you hear?\n{07 14 00}Thanks again, {01 00 00 0a 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 00 00}Uh huh huh huh!{01 00 00 0a 00} {07 0d 00}That\n{ff 00 00 07}medicine {ff 00 00 00}you gave me was\nvile, dude.",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 14 00}I'll be sure to bring you\n{ff 00 00 07}medicine {ff 00 00 00}next time you get\nsick. {01 00 00 0a 00}{07 00 00}Just let me know!",
+   "et": ""
+  }
+ ]
+}

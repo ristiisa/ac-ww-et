@@ -1,0 +1,20 @@
+{
+ "file": "script/ENG/message/ha/q/item_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 00 00}All righty, then! {01 00 00 05 00}Here!{01 00 00 0a 00}\n{0b 03 00}{04 1b 00}!\n{01 00 00 05 00}Enjoy, {04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 00 00}{0b 03 00}{04 1b 00}!{01 00 00 0a 00}\nBam! {01 00 00 05 00}Aren't you stoked,\n{01 00 00 05 00}{04 02 00}?!",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 00 00}Here you go, all for you!{01 00 00 05 00}\n{0b 03 00}{04 1b 00}!{01 00 00 0f 00}\nThat's OK, {01 00 00 05 00}don't be shy!",
+   "et": ""
+  }
+ ]
+}

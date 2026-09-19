@@ -1,0 +1,30 @@
+{
+ "file": "script/ENG/mail/super/ko_byebye.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "It's good-bye, \n,",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "Bye, \n,",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "Later, \n!",
+   "et": ""
+  },
+  {
+   "id": 3,
+   "en": "To \n,",
+   "et": ""
+  },
+  {
+   "id": 4,
+   "en": "Attention \n!",
+   "et": ""
+  }
+ ]
+}

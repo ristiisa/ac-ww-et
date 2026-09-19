@@ -1,0 +1,20 @@
+{
+ "file": "script/ENG/message/ha/q/no_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 0e 00}Didn't see THAT coming{01 00 00 0a 00}.{01 00 00 0a 00}.{01 00 00 0a 00}.{01 00 00 0a 00}\n{07 00 00}Guess I'll ask someone else\nthen, {01 00 00 05 00}{04 02 00}...",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 15 00}Aw, WEAK!{01 00 00 0a 00} I thought you\nwere my bud, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 0e 00}OK, OK, I gotcha{01 00 00 0a 00}.{01 00 00 0a 00}.{01 00 00 0a 00}.{01 00 00 0a 00}\n{07 06 00}I didn't know you were so...{01 00 00 05 00}\nlame, {01 00 00 05 00}{04 02 00}.",
+   "et": ""
+  }
+ ]
+}

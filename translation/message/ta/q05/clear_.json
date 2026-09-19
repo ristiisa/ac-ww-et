@@ -1,0 +1,20 @@
+{
+ "file": "script/ENG/message/ta/q05/clear_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "Aw.{01 00 00 05 00} Wow, thanks,\n{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 14 00}I definitely like this side\nof you. {01 00 00 0a 00}Keep it up,\n{01 00 00 0a 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 14 00}Let me know if you see\nsomething else that I might\nlike, {01 00 00 0a 00}{04 02 00}!",
+   "et": ""
+  }
+ ]
+}

@@ -1,0 +1,210 @@
+{
+ "file": "script/ENG/message/sp/npc/insurance_.bmg",
+ "messages": [
+  {
+   "id": 2,
+   "en": "{07 1d 00}What? Oh, yeah, sure, right.\nLook. Here's the deal. Don't\nlike it? Bang, I'm gone.\n{07 14 00}Who am I?{01 00 00 05 00}{ff 00 00 06} Lyle{ff 00 00 00}. What do I\ndo?{01 00 00 05 00} I sell. What do I sell?{01 00 00 05 00}\nPeace of mind. Golden.\n{07 19 00}I'm an agent. Insurance.\nLicensed, bonded, all legit,\nacross the board, bang!{02 00 00 03 03}\n...What?\nYou're a creep.",
+   "et": ""
+  },
+  {
+   "id": 3,
+   "en": "{07 09 00}You don't trust me. I can\nsee that.{01 00 00 05 00} {07 00 00}{07 14 00}OK, understood.\nYou're careful, I like that.\n{07 11 00}Listen, this {ff 00 00 02}questionnaire{ff 00 00 00}{01 00 00 05 00}?\nCouple of questions,\nreal easy, nothing big. \nYou answer these, I'm gone.\n{07 19 00}No joke. Five minutes, done,\nbang, outta here.{07 00 00}{07 11 00}{01 00 00 05 00} Ready?",
+   "et": ""
+  },
+  {
+   "id": 4,
+   "en": "{07 00 00}Look, this{ff 00 00 02} questionnaire{ff 00 00 00}?{01 00 00 05 00}\nIt's nothing. Basic info,\nnothing you'll regret.\n{07 19 00}Say the first thing in your\nhead. Don't think, feel.{01 00 00 05 00} Got\nit?{01 00 00 0f 00} {07 14 00}Good. Bang! Here we go.",
+   "et": ""
+  },
+  {
+   "id": 5,
+   "en": "{07 1d 00}We got trust here, you and\nme. It's good. No trust,\nno deal, right?{07 00 00}{07 09 00}{01 00 00 0f 00} Right.\n{07 00 00}But, yeah, I hear ya. I'm\nbusy, you're busy, let's go,\nright?{01 00 00 0a 00} Right. Here we go.",
+   "et": ""
+  },
+  {
+   "id": 6,
+   "en": "{01 04 00}{01 00 00 0f 00}{01 05 00}{07 01 00}Oh,{01 00 00 05 00} you're bustin' my chops\nhere, just BUSTIN'{01 09 00} 'em!{01 00 00 05 00} Why\nyou wanna go and do that? \n{07 00 00}{07 14 00}Yeah, well, maybe next time,\nright?{01 00 00 0f 00} Right, sure, right.",
+   "et": ""
+  },
+  {
+   "id": 7,
+   "en": "{07 14 00}So if you're injured? Tragic\nevent? That kind of thing?\nYou're covered. Totally.\n{07 00 00}We get the money straight\nto you. Immediately. Within\na day. At some point. Bang.",
+   "et": ""
+  },
+  {
+   "id": 8,
+   "en": "Listen, here's the thing.{01 00 00 05 00} Do\nyou,{01 00 00 05 00} and I'm just askin',{01 00 00 05 00}\nbut do you know a Mr. {ff 00 00 06}Redd{ff 00 00 00}?\n{07 0b 00}Short guy, black market,\nowns a tent?{01 00 00 0a 00} {07 00 00}Yeah, right,\nhim, you got it.\n{07 19 00}Yeah, everybody knows {ff 00 00 06}Redd{ff 00 00 00}.\nEverybody. {ff 00 00 06}Crazy Redd{ff 00 00 00},\nright?{01 00 00 05 00} {07 14 00}Bang! Right!\n{07 00 00}So look, if you could pick a\nday for him to visit, which\none ya want? What works?{02 03 00 09 09 09 09 09}\nMonday.\nTuesday.\nWednesday.\nThursday.\nFriday.",
+   "et": ""
+  },
+  {
+   "id": 9,
+   "en": "OK, good.{01 00 00 05 00} Yeah, good, real\ngood. Gotcha{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00} BANG! Huh??\nYeah, can't fool you!\n{07 00 00}{07 04 00}What, me?{07 00 00}{01 00 00 03 00}{07 09 00}{01 00 00 0f 00} Nah,{ff 00 00 06} {01 00 00 14 00}Redd{ff 00 00 00} and me,\nwe just know each other\nfrom around. No big! C'mon!",
+   "et": ""
+  },
+  {
+   "id": 12,
+   "en": "{07 00 00}Look, enough about {ff 00 00 06}Redd{ff 00 00 00},\nright? Yeah, forget it. Next\nquestion, bang!\n{07 00 00}{07 0b 00}What do you think of me?{01 00 00 0f 00}\n{07 00 00}{07 19 00}No, it's fine. {ff 00 00 06}Lyle {ff 00 00 00}can take\nit, no sweat, easy, bang.\n{07 00 00}{07 14 00}So.{01 00 00 05 00} Face.{01 00 00 05 00} Mine.{01 00 00 05 00} What about\nit? You trust this face?\nSeriously, gimme the skinny.{02 03 00 0d 0d 0d 0d 0d}\nSure?\nUm...\nNot really.\nNo way.\nLeave me alone!",
+   "et": ""
+  },
+  {
+   "id": 13,
+   "en": "{07 18 00}{01 04 00}{01 05 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 01 00}Oh, you're BUSTIN' MY\nCHOPS{01 09 00} here! Ab-so-lutely\nBUSTIN'{01 0a 00} these puppies!\n{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 14 00}Yeah, so, no sweat, right?\nRight, sure, no sweat.{01 00 00 0f 00}{07 01 00} Bang!{01 00 00 0f 00}\n{07 00 00}{07 14 00}Ha ha! {ff 00 00 06}Lyle {ff 00 00 00}got ya!\n{07 00 00}Seriously, enough. You wanna\nmove on? Yeah, sure, why\nnot, right? Right.\n{07 00 00}I got a few questions here.{01 00 00 05 00}\nTen.{01 00 00 03 00} Actually, less.{01 00 00 03 00} I got\nseven.{01 00 00 03 00} Three.{01 00 00 03 00} Ready?{01 01 00} Bang!",
+   "et": ""
+  },
+  {
+   "id": 14,
+   "en": "Q: I have put thought\ninto my plans for the grim,\ninevitable future.{02 00 00 ff ff}\nAgree.\nDisagree.",
+   "et": ""
+  },
+  {
+   "id": 15,
+   "en": "Q: My impression of the\ninsurance community is \na positive one.{02 00 00 ff ff}\nAgree.\nDisagree.",
+   "et": ""
+  },
+  {
+   "id": 16,
+   "en": "Q: If hurt or sick, I\nhave a plan for the\ninevitable, awful outcome.{02 00 00 ff ff}\nAgree.\nDisagree.",
+   "et": ""
+  },
+  {
+   "id": 17,
+   "en": "Q: The phrase \"long-term\nhospitalization\" makes me \nterribly, terribly afraid.{02 00 00 ff ff}\nAgree.\nDisagree.",
+   "et": ""
+  },
+  {
+   "id": 18,
+   "en": "Q: I have been the victim\nof frauds, scams, con jobs,\nor pyramid schemes.{02 00 00 ff ff}\nAgree.\nDisagree.",
+   "et": ""
+  },
+  {
+   "id": 19,
+   "en": "{01 04 00}{01 00 00 03 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 03 00}{07 19 00}{01 05 00}Yeah, bad news.{01 01 00} Real bad.{01 01 00}\nYou?{01 00 00 05 00} You got big problems. \nWanna hear 'em? Here we go.\nAlone.{01 00 00 03 00} No plan.{01 00 00 03 00} No safety\nnet.{01 00 00 03 00} Know what happens\nthen?{01 01 00}{07 09 00} Right.{01 00 00 03 00} Bad things.{01 00 00 05 00}\nListen, I'm gonna be blunt.\n{07 0b 00}The profile?{01 00 00 05 00} You fit it. To\na T.{07 00 00} I mean, {07 02 00}BANG!\n{07 00 00}You need {ff 00 00 02}insurance{ff 00 00 00}. Not\ntomorrow. Not next week.\nNow. Right now.",
+   "et": ""
+  },
+  {
+   "id": 20,
+   "en": "Me? {07 11 00}I sell {ff 00 00 02}insurance{ff 00 00 00}. {01 00 00 0a 00}\n{ff 00 00 02}ACCIDENT insurance{ff 00 00 00}.{01 00 00 0f 00}\nNo scam, no lie. All legit.\n{07 00 00}{07 0b 00}Injured?{01 00 00 05 00} Had an accident?{01 00 00 05 00}\n{07 00 00}{07 14 00}You'll receive compensation\nthat{01 00 00 05 00} very{01 00 00 05 00} day! {01 00 00 0a 00}BANG!",
+   "et": ""
+  },
+  {
+   "id": 21,
+   "en": "{07 00 00}This deal? What a deal. Let\nme tell you. You like deals?\nDon't miss this one.\n{07 14 00}You can have this for only\n{ff 00 00 02}3,000 Bells{ff 00 00 00}!{01 01 00} {07 00 00}{07 02 00}BANG!{01 01 00} I know,\ncrazy, right? Cra-zy.\n{07 19 00}Let me help you. LET me\nHELP you. Sign this. Here.\nRight now. Whattya say?{02 00 00 18 17}\nUm...OK.\nNo way!",
+   "et": ""
+  },
+  {
+   "id": 22,
+   "en": "{07 18 00}WHAT?!{01 09 00} {01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00}No money. You got\nno Bells. None. Zip. What's\nyour problem? Huh?\n{07 01 00}You let me talk like this?\nWaste your time? Waste MY\ntime?{01 00 00 0f 00} {01 0a 00}BUST MY CHOPS?!\n.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 00 00}{07 14 00}But hey, no sweat, right?\nYeah, good. Good.{01 00 00 05 00} Next time,\nmaybe.",
+   "et": ""
+  },
+  {
+   "id": 23,
+   "en": "{07 00 00}Look, wait. Hold it. I don't\nthink you get me. Lemme,\nlook, lemme try this again.\n{ff 00 00 06}{07 1a 00}Lyle{ff 00 00 00}'s not kidding here. This\ndeal? It's a good deal.{01 00 00 05 00} {07 00 00}{07 19 00}No,\nbetter. Not good. Great.\n{07 14 00}Listen, I'll sweeten it. The\npot. Sweeten the pot. Make\nit better, right?\nThe price? Knocked down.\nCheap. Just for you.\n{ff 00 00 02}3,000 Bells{ff 00 00 00}! BANG!\nNow you gotta sign, right?\nRight! Sign it. On the line.\nRight now. Do it. Do it now.{02 00 00 00 17}\nAll right.\nNo way!",
+   "et": ""
+  },
+  {
+   "id": 24,
+   "en": "{07 1d 00}Good! Good. You won't regret\nthis, trust me. It's the\nright choice.\n{07 14 00}All right. Look. Now I just\nneed a name and address.\nEasy, right? Simple stuff.\n{07 11 00}Right... {01 00 00 0f 00}Yes... {01 00 00 0f 00}Now gimme a\nchicken scratch here...{01 01 00}\n{07 0d 00}Bang! Finished! Kaput!",
+   "et": ""
+  },
+  {
+   "id": 25,
+   "en": "{07 00 00}See? Easy. Real easy. I told\nyou, best decision you'll\never make. Trust me.\n{07 14 00}You got {ff 00 00 02}accident insurance{ff 00 00 00}\nnow. No more worries. Ever.\nTrust me. Trust {ff 00 00 06}Lyle{ff 00 00 00}.\n{07 11 00}Yeah, so, look.{01 00 00 05 00} I need the\n{ff 00 00 02}3,000 Bells{ff 00 00 00}. Just business,\nright? Strictly business.",
+   "et": ""
+  },
+  {
+   "id": 26,
+   "en": "{07 00 00}{07 1b 00}You feel better, right?\nSure you do. Safe? Warm?\nYeah. All that. Sure you do.\n{07 00 00}So look, if you're ever\ninjured? My company? We\nsend you compensation.\n{07 1a 00}It's what you deserve. What\nwe ALL deserve, right?\nRight. Sure. Bang!",
+   "et": ""
+  },
+  {
+   "id": 27,
+   "en": "{07 09 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}Really?{01 01 00} Bad call.{01 00 00 0f 00} {07 01 00}BAD CALL!\nThink yer smart? Think yer\nbig? BUST MY CHOPS{01 09 00}?!\n{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 00 00}{07 14 00}But hey, no sweat, right?\nGood info. Yeah. Sure. Need \nanything else?{01 00 00 05 00} Talk to {ff 00 00 06}Lyle{ff 00 00 00}.",
+   "et": ""
+  },
+  {
+   "id": 28,
+   "en": "{07 00 00}It's like this. You buy\nsomething? It's a fake?\nCounterfeit? Busted?\n{07 19 00}{ff 00 00 02}Damage insurance{ff 00 00 00}. You're\ncovered. Bang! Like I said,\npeace of mind, right?\n{07 14 00}You come to us, give us the\nitem, we pay you. It's easy.\nLegit. Totally legit.\n{07 19 00}We pay you a percentage of\nthe damages. Good deal,\nright? Sure it is.",
+   "et": ""
+  },
+  {
+   "id": 29,
+   "en": "{07 00 00}{07 11 00}You just gotta enroll. Pay a\nfee, real small. One-time\nfee. {ff 00 00 02}6,000 Bells{ff 00 00 00}. That's it.\n{07 00 00}{07 14 00}Good deal. Not good. Great.\nAmazing. What's the catch?\nNothing. Sign it. Sign now.{02 00 00 00 27}\nUm, OK...\nNo way!",
+   "et": ""
+  },
+  {
+   "id": 30,
+   "en": "{07 00 00}There you go! Finished.\nDone. Easy, right? Sure it\nwas.{01 01 00} {07 00 00}{07 02 00}BANG!{01 00 00 0a 00}{07 00 00}{07 14 00} Ha ha, yeah, you!\n{07 14 00}Now you're covered. You got\n{ff 00 00 02}damage insurance{ff 00 00 00}. No more\nworries. Ever. Trust me.\n...{07 04 00}What?{01 00 00 0a 00} No! Lyle wouldn't\nbust your chops on this\none! We got trust, right?\nSure we do.{01 00 00 0a 00} {07 11 00}You just gotta \npay the {ff 00 00 02}6,000 Bells{ff 00 00 00} like you\npromised. That's it. Easy.",
+   "et": ""
+  },
+  {
+   "id": 31,
+   "en": "{07 00 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 14 00}Done! Listen, here's the\nthing. You ever get fooled?\nDuped? Taken? Bang?\n{07 19 00}Bring it to me. You give me\nthe fake item, I take care\nof everything.\n{07 11 00}Percentage of the damages?\nStraight to you. Check's in\nthe mail, that day, easy.",
+   "et": ""
+  },
+  {
+   "id": 32,
+   "en": "{07 02 00}Hey!{01 00 00 0f 00} You!{01 00 00 0f 00} {07 00 00}{07 14 00}Right, sure, you!\nYeah, sure! Sure. Wife and\nkids? Good? Sure they are.\n{07 0b 00}What now? You need to talk?\n{ff 00 00 02}Damage insurance{ff 00 00 00}? Buy a\nfake item? {07 00 00}Hand it over!\n{07 11 00}I'll take it, you get\ncompensation. Easy. Legit.\nBang. You got something?{02 04 00 23 22}\nI have one!\nNope.",
+   "et": ""
+  },
+  {
+   "id": 33,
+   "en": "{07 15 00}Yeah, OK. I see. Right. Sure.\nWhat now? You got more?\nMore fakes? What?{02 04 00 23 22}\nYes!\nNo.",
+   "et": ""
+  },
+  {
+   "id": 34,
+   "en": "{07 00 00}We have a good plan. Right?\nRight. Good plan. Solid. Use\nit. {01 04 00}{07 09 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00}{01 05 00}{07 00 00}{07 11 00}While you can.",
+   "et": ""
+  },
+  {
+   "id": 35,
+   "en": "{07 15 00}Fine. Fine. Bust my chops.\nGo ahead. Which item you\ntalking about?",
+   "et": ""
+  },
+  {
+   "id": 36,
+   "en": "{07 00 00}{07 04 00}Yeah, whoa, hey, whoa. No\ndice. Yeah, sorry, but it's\nall there. In the policy.\n{07 11 00}Claims on counterfeit items\nonly. {ff 00 00 07}Forged paintings{ff 00 00 00}, that\nkind of thing. You get me?",
+   "et": ""
+  },
+  {
+   "id": 37,
+   "en": "{07 14 00}Oh, yeah. Sure. That item?\nNOT legit. Violation of the\nbook. Every rule in it.",
+   "et": ""
+  },
+  {
+   "id": 38,
+   "en": "{07 19 00}You want compensation? It's\nyours. BANG! In the mail,\nexpress!\nClear out the mailbox. Big\npackage. You get me? Right,\nsure you do. Sure.",
+   "et": ""
+  },
+  {
+   "id": 39,
+   "en": "{07 00 00}{07 02 00}Whoa, hey, wait, hold it.\nWhoa, whoa, whoa. Hold it.\nHold it, whoa, wait, hold it.\n{07 00 00}Me? {ff 00 00 06}Lyle{ff 00 00 00}? Didn't explain it\nwell. Lemme try again. One\nminute. Here I go.\nThis deal? {07 19 00}Great deal. You\nwon't find this deal again.\nIt's that good. Bang.\n{07 00 00}{07 14 00}Lemme sweeten it. Sweeten\nthe pot. The fee? Cut.\nSlashed. Huge discount.\n{07 11 00}Only{ff 00 00 02} 6,000 Bells{ff 00 00 00}! That's it,\nfinal offer. Sign it. Don't\nwait, don't think, sign.{02 00 00 18 27}\nOK OK!\nNo way!",
+   "et": ""
+  },
+  {
+   "id": 40,
+   "en": "{07 1d 00}Hey! HEY! You! Yeah, you!\nYou're {ff 00 00 05}{04 00 00}{ff 00 00 00}, right?\nSure you are. Sure.\n{07 03 00}Sure I know you! Sure!{07 00 00}{01 00 00 05 00}{07 14 00}\nYou? Big reputation. All\nover, everyone knows, bang.\n{07 0b 00}Look, I got a {ff 00 00 02}questionnaire{ff 00 00 00},\nright? Need people to fill\nit out. Quick. Easy. Bang.\nYou want to represent\n{ff 00 00 08}{04 03 00}{ff 00 00 00}?{01 00 00 05 00} Sure you do.\nSure. Just fill it out.{ff 00 00 08}\n{ff 00 00 00}{07 01 00}My boss? {01 00 00 0a 00}Bustin' my chops\non this one ALL WEEK! {07 00 00}{07 14 00}Real\nquick. Easy. Fill it out.{02 01 00 04 03 06}\nSounds fun!\nWho are you?\nGet lost!",
+   "et": ""
+  },
+  {
+   "id": 41,
+   "en": "{07 1d 00}HEY! YOU! Yeah, you! How you\ndoing? Good, right? Sure\nyou are, sure.\n{07 14 00}You're from {ff 00 00 08}{04 03 00}{ff 00 00 00},\nright? Sure you are. {ff 00 00 06}Lyle{ff 00 00 00}\ncan tell. {ff 00 00 06}Lyle {ff 00 00 00}knows.\n{07 00 00}Listen, my company. Doing\nresearch. Trying to drum up\nbusiness. Basic stuff, legit.\nGotta learn about hicks.\nNo. City folk. Like you.\nWhoever. Doesn't matter.\n{07 14 00}Look, just fill out this\n{ff 00 00 02}questionnaire{ff 00 00 00}.{02 01 00 04 03 06}\nUm... OK.\nWho are you?\nNot today.",
+   "et": ""
+  },
+  {
+   "id": 42,
+   "en": "{07 1d 00}Whoa, hey, wait. You. Gimme\na second. Just one, that's\nall, bang, over, done.\n{07 0b 00}You married?{01 00 00 0f 00} {07 00 00}{07 19 00}Yeah, sure,\nright, I can see that. {ff 00 00 06}Lyle{ff 00 00 00}\nknows, no worries, right?\n{07 14 00}Listen, my company? In the\nmiddle of something. Big\nproject, numbers, you know.\nWe need data. Info. That\nkind of thing. Can you help?\nSure you can. {01 01 00}{07 02 00}BANG!\n{07 00 00}{07 19 00}Just gotta ask a couple of\nquestions. Life plans, basic\nstuff, easy, bang, done.\nGot a{ff 00 00 02} questionnaire{ff 00 00 00}. Fill it\nout. No sweat, right? Sure.\nRewarding. Do it. Do it now.{02 01 00 04 03 06}\nWell, OK.\nWho are you?\nI'm busy.",
+   "et": ""
+  },
+  {
+   "id": 43,
+   "en": "{07 1d 00}You! Hey, wait, stop, wait.{01 01 00}\n{07 0b 00}Listen, are you happy with\nlife? Seriously, no joke.\nGotcha, sure, right.{01 00 00 0a 00} {07 0b 00}You\nplanning to move up in the\nworld?{01 00 00 0a 00} {07 00 00}Sure you are. Bang!\n{07 19 00}Look, let me help. I wanna\nhelp you. Sound good?{01 00 00 05 00} Sure\nit does. Relax. It's easy.\n{07 14 00}What do you do? This\n{ff 00 00 02}questionnaire{ff 00 00 00}. Fill it out.\nEasy, right? Sure it is.\n{07 19 00}Goals? We all got 'em. You\ngot 'em, I got 'em,\neverybody. Let's do this.{02 01 00 04 03 06}\nYes, let's!\nWho are you?\nI'm busy.",
+   "et": ""
+  },
+  {
+   "id": 44,
+   "en": "{07 1d 00}Wait, listen. Taking a trip?{01 01 00}\n{07 00 00}{07 19 00}Yeah, I thought so. Worldly.\nCultured. That's you. Bang.\n{07 00 00}Listen, my company?{01 00 00 05 00} Doing a\ncontest. Big. Big prizes.\nMoney. Fame. Not really.\n{07 14 00}It's a trip. Win a trip\nanywhere. Anywhere at all.\nGood, right? Sure it is.\nWant to enter?{01 00 00 05 00} Fill out this\n{ff 00 00 02}questionnaire{ff 00 00 00}. Short, quick,\nbang, you're done. Simple.\n{07 04 00}C'mon, you get a trip!{01 00 00 0a 00} {07 00 00}Big \nprize, everyone wants one,\nfill it out. Now. Do it.{02 01 00 04 03 06}\nOK!\nWho are you?\nI'm kinda busy.",
+   "et": ""
+  }
+ ]
+}

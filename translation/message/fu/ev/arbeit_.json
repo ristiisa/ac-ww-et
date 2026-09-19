@@ -1,0 +1,125 @@
+{
+ "file": "script/ENG/message/fu/ev/arbeit_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 00 00}You seem interesting\nenough, {04 1f 00}.{01 00 00 0a 00} Mind\nif I ask some questions?\n{07 14 00}Don't worry. I'm not giving\nyou the third degree or\nanything, {01 00 00 05 00}{04 02 00}!\n{07 00 00}First off, and this is an\nimportant one, when's your\nbirthday?",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "<NOT USED>",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 00 00}{0b 03 00}{04 1f 00},{01 00 00 05 00} have you seen\nany fruit trees around\ntown, {01 00 00 05 00}{04 02 00}?\nIf you want some fruit to\nmunch on, it's pretty easy\nto shake 'em loose.\nEither {ff 00 00 01}tap {ff 00 00 00}the tree or\npress the {ff 00 00 01}A Button {ff 00 00 00}to give\nit a quick shake.\nAnd you don't have to eat\nany fruit you pick up. You\ncan sell it for quick cash.\n{07 14 00}OR! If you'd rather bury it,\nanother fruit tree will\ngrow there, {01 00 00 05 00}{04 02 00}.\n{07 0a 00}Bury enough fruit, and\nyou'll have your very own\n{ff 00 00 02}farmers' market{ff 00 00 00} in no time!",
+   "et": ""
+  },
+  {
+   "id": 3,
+   "en": "{07 00 00}If you want to plant any\nfruit, you'll need a handy-\ndandy item called a {ff 00 00 07}shovel{ff 00 00 00}!\n{ff 00 00 06}Tom Nook{ff 00 00 00} sells {ff 00 00 07}shovels\n{ff 00 00 00}from time to time, so keep\nyour eyes peeled!\n{07 14 00}Oh, and you'll probably\nwant to save up some\nmoney, just so you know.\n{07 00 00}{ff 00 00 06}Tom Nook{ff 00 00 00}'s store has\na lot of other handy items,\ntoo, {01 00 00 05 00}{04 02 00}.\nYou can buy a {ff 00 00 07}fishing rod\n{ff 00 00 00}to catch fish in the river\nor the ocean...\nOr you can get a {ff 00 00 07}watering\ncan {ff 00 00 00}to water your flowers.\n\n{07 0d 00}These items are lifesavers\naround town. Except for\nthe {ff 00 00 07}axe{ff 00 00 00}, of course.\nBut even the {ff 00 00 07}axe {ff 00 00 00}has its\nuses, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 4,
+   "en": "{07 00 00}Everyone's gotta make a\nliving somehow, but there\nare tons of ways to do it.\nFor example, when I need a\nlittle spending money, I\ncollect different items.\nWhen my pockets are full, I\nrace off to {ff 00 00 06}Tom Nook{ff 00 00 00} and\nsell what I found!\n{07 0e 00}{ff 00 00 06}Nook{ff 00 00 00}'ll buy just about\nanything:{01 00 00 05 00} fruit, {01 00 00 05 00}fish,{01 00 00 05 00}\nshells, {01 00 00 05 00}flowers.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n{07 06 00}I mean, the guy'll even buy\nbugs if you bring them in!\nHe's crazy, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 5,
+   "en": "{07 00 00}Send letters to anyone in\ntown from the {ff 00 00 08}post office\n{ff 00 00 00}in the {ff 00 00 08}town hall{ff 00 00 00}.\n{07 14 00}I'll send you a letter,\njust so you get the idea.{01 00 00 05 00}\nBe sure to write me back!\n{07 00 00}Oh, and you can attach\ngifts to letters if you\nwant.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 0d 00}if you get my drift.\nJust {ff 00 00 01}touch {ff 00 00 00}the item in\nyour {ff 00 00 01}pockets {ff 00 00 00}that you want\nto give away,\nand then {ff 00 00 01}drag {ff 00 00 00}it onto\nyour letter.\n\nSo, that makes it {07 0e 00}like you\ngrabbed your present and\ndropped it on your letter.\n{07 14 00}Seriously, it's insanely\neasy,{01 00 00 05 00} so if you don't start\nsending me gifts...\n{07 15 00}you're just being lazy!",
+   "et": ""
+  },
+  {
+   "id": 6,
+   "en": "{07 00 00}Visit the {ff 00 00 08}civic center {ff 00 00 00}in\nthe {ff 00 00 08}town hall {ff 00 00 00}if you want\nto change the {ff 00 00 02}town tune{ff 00 00 00}.\n{07 14 00}To be honest, just about\nanyone who visits can\nchange it, {01 00 00 05 00}{04 02 00}.\n{07 00 00}Just remember, that tune\nis {04 03 00}'s theme\nsong, so make it good!\n{07 14 00}After all, you'll be hearing\nit at all sorts of\noccasions, {01 00 00 05 00}{04 02 00}.",
+   "et": ""
+  },
+  {
+   "id": 7,
+   "en": "{07 00 00}Up to four people can live\nin one house, {01 00 00 05 00}{04 02 00}.\n\nAnd that's anyone:{01 00 00 0a 00} your\nfriends,{01 00 00 05 00} brothers,{01 00 00 05 00} sisters,{01 00 00 05 00}\neven your parents!\n{07 14 00}A full house is a happy\nhouse, or so I've been\ntold. It's also more fun.\nBy which I just mean that\nthere are other people to\nhelp clean up after you!\n{07 00 00}And it's not like it would\nbe permanent or anything.{01 00 00 05 00}\nIf you wanted to live alone,\nall you'd have to do is drop\nin at the {ff 00 00 08}civic center{ff 00 00 00} in\nthe {ff 00 00 08}town hall{ff 00 00 00}.\n{07 14 00}It's as easy as telling them\nyou want to pack up and\nmove to a new town.\n{07 16 00}Just remember, you might\nlose some stuff when you\nmove. That can happen...\n{07 14 00}Just make sure you ask\nplenty of questions before\nyou move, {01 00 00 05 00}{04 02 00}.",
+   "et": ""
+  },
+  {
+   "id": 8,
+   "en": "{07 00 00}Do you have any friends\n{07 0b 00}living in other towns,\n{04 1f 00}?\n{07 00 00}If you do, you should invite\nthem to drop in for a visit\nsometime, {01 00 00 05 00}{04 02 00}.\nUp to three people can\nvisit our town at once.\n\n{07 14 00}You can go sightseeing\ntogether{01 00 00 0a 00} or just hang out\nand chat, {01 00 00 05 00}{04 02 00}.\nIf you DO have anyone drop\nin, I promise I won't bother\nyou, {04 1f 00}.\nI'll just stay in my house\nand tidy up.\n\n{07 14 00}Oh, but do leave a note on\nthe {ff 00 00 08}bulletin board{ff 00 00 00}. I'd love\nto know what you did.\n{07 00 00}Just talk to {ff 00 00 06}Copper{ff 00 00 00} and\n{ff 00 00 06}Booker{ff 00 00 00}. They'll open the\ntown gate if you ask.\n{07 14 00}Don't be frightened. They\nwon't bite! Just give it a\ntry sometime, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 9,
+   "en": "I've learned that you can't\nget too connected to the\npeople in your life.\nYou never know. {01 00 00 05 00}{07 16 00}One day,\nI might just decide to move\naway, {01 00 00 05 00}{04 02 00}.\n{07 04 00}Oh, but that doesn't mean\nI'll forget about you.{01 00 00 14 00}\n{07 14 00}I'd never do that!\n{07 00 00}Besides, you can come visit\nme by talking to {ff 00 00 06}Copper{ff 00 00 00}\nand {ff 00 00 06}Booker{ff 00 00 00}.\nThey'll open the gate and\nlet you come to my new\nhome, wherever it is.\n{07 14 00}And I'll never throw away\nany of the letters you\nsend me, {01 00 00 05 00}{04 02 00}!\nSo you'll never be far from\nmy thoughts!",
+   "et": ""
+  },
+  {
+   "id": 10,
+   "en": "{07 04 00}Oh! {01 00 00 0f 00}{07 14 00}I didn't think you'd\nbe the one to deliver this,\n{01 00 00 05 00}{04 02 00}!\n{07 16 00}Oh.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00} {ff 00 00 06}Nook{ff 00 00 00}'s got you working\nfor him, does he?{01 00 00 0a 00} That\nmust be rough on you.\n{07 00 00}He probably hasn't even\ngiven you any time to\nmove in properly.\n{07 0c 00}Hey! That reminds me!{01 00 00 14 00} {07 14 00}I had\na little housewarming gift\nfor you, {01 00 00 05 00}{04 02 00}.\nIt's nothing extravagant:\n{04 1a 00} to\nmake your place more cozy.",
+   "et": ""
+  },
+  {
+   "id": 11,
+   "en": "{07 14 00}Oh, please, it's no\nbig deal, {01 00 00 05 00}{04 02 00}.\n\nWhy don't you put that in\nyour house?{01 00 00 05 00} You could\nprobably use more stuff.\n{07 00 00}Once you've set it down,\nit's easy to move it to\nwherever you want it to be.\nWhen you're in your house,\nyou can see yourself on\nthe {ff 00 00 01}Touch Screen{ff 00 00 00}, right?\nSo just {ff 00 00 01}touch {ff 00 00 00}your image.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\nand you'll grab hold of\nwhatever's in front of you.\n{07 16 00}This next part gets a little\ntricky, so pay close\nattention, {01 00 00 05 00}{04 02 00}!\nDon't pick up the {ff 00 00 01}stylus{ff 00 00 00}.\nJust {ff 00 00 01}drag {ff 00 00 00}it in a direction\nto move your furniture.\n{07 14 00}I know it's a lot to take in,\nbut you'll get the idea once\nyou try it for yourself.",
+   "et": ""
+  },
+  {
+   "id": 12,
+   "en": "{07 14 00}Ahh.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} Lucky me! My carpet's\narrived! I've been waiting\nfor this, {01 00 00 05 00}{04 02 00}!\n{07 00 00}It's funny how much some\nnew carpet or wallpaper can\nsnazz up a place.\n{07 19 00}And, of course, it's very\nimportant to keep up a\nsnazzy household.\n{07 00 00}I've got an idea.{01 00 00 05 00} {07 0b 00}Why don't\nyou change the carpet in\nyour house, {01 00 00 05 00}{04 02 00}?\n{07 14 00}If you don't have any\ncarpet, you can have this\n{0b 02 00}{04 1a 00}.",
+   "et": ""
+  },
+  {
+   "id": 13,
+   "en": "{07 00 00}There are tons of different\nthings you can do to your\nfloors and walls.\nIf you don't see a design\nyou like, just keep checking\nback at {ff 00 00 06}Nook{ff 00 00 00}'s store.\n{07 14 00}He's pretty good about\nchanging out his inventory\nevery day, {01 00 00 05 00}{04 02 00}.\n{07 06 00}And if you miss a day, you\nmight miss out on a rare\ncarpet or wallpaper design!\n{07 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 04 00}Oh,{01 00 00 05 00} I'm sorry!{01 00 00 0f 00} {07 00 00}I've kept\nyou too long. You should\nbe getting back to work.",
+   "et": ""
+  },
+  {
+   "id": 14,
+   "en": "Oh, thank you so much!{01 00 00 05 00}\n{ff 00 00 06}Nook {ff 00 00 00}doesn't normally\ndeliver right to your door.\n{07 14 00}Now that I've got my\n{ff 00 00 07}watering can{ff 00 00 00}, I can finally\nrevitalize my poor flowers.\n{07 00 00}Oh, I've been meaning to\nask, {01 00 00 05 00}{07 0b 00}did you write this\nletter, {01 00 00 05 00}{04 02 00}?",
+   "et": ""
+  },
+  {
+   "id": 15,
+   "en": "{07 14 00}Everybody in town loves\ngetting a nice letter once\nin a while, {01 00 00 05 00}{04 02 00}.\n{07 00 00}It's sort of a tradition\naround here to keep any\nletters we get.\n{07 17 00}Mostly, I think it's just so\nthat we can show them off\nto our friends{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 00 00}Not that I'm planning on\nmoving anytime soon, but if\nI did, and that's a big if{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 14 00}I promise that I'll take all\nof my letters with me.\n\n{07 00 00}Who knows? {01 00 00 05 00}Once I meet my\nnew neighbors, maybe I'll\nshow them all your letters!\n{07 14 00}You'll probably want to keep\nthat in mind when you're\nwriting me, {01 00 00 05 00}{04 02 00}.",
+   "et": ""
+  },
+  {
+   "id": 16,
+   "en": "{07 14 00}Is that right? {04 0f 00}\n{04 10 00}? That makes your\nsign {04 11 00}, right?{02 00 00 11 12}\nYep!\nNope!",
+   "et": ""
+  },
+  {
+   "id": 17,
+   "en": "{07 00 00}This one might stump you,\nbut {07 0b 00}what's your blood type?{02 02 00 13 13 13 13}\nA.\nB.\nAB.\nO.",
+   "et": ""
+  },
+  {
+   "id": 18,
+   "en": "{07 06 00}What?{01 00 00 05 00} Oh, shoot.{01 00 00 05 00} Sorry{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0f 00}\n{07 16 00}I must have misheard you.{01 00 00 05 00}\nRun it by me again?",
+   "et": ""
+  },
+  {
+   "id": 19,
+   "en": "{07 14 00}Thank you.\n\n\n{07 04 00}What?{01 00 00 0f 00} {07 00 00}Oh, I bet you're\nwondering why I'm asking\nyou all these questions.\n{07 11 00}Oh, you'll find out soon\nenough, {04 1f 00}.\nI guarantee it.\n{07 03 00}Oh, I'm just teasing!{01 00 00 0f 00}\nSeriously,{01 00 00 05 00} it's nothing to\nworry about, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 20,
+   "en": "<NOT USED>",
+   "et": ""
+  },
+  {
+   "id": 21,
+   "en": "<NOT USED>",
+   "et": ""
+  },
+  {
+   "id": 22,
+   "en": "{07 00 00}Oh! {01 00 00 05 00}My package!{01 00 00 0a 00} Thank you\nso much for bringing this\nto me, {01 00 00 05 00}{04 02 00}!\n{07 14 00}My poor, thirsty flowers\nthank you from the bottom\nof their flowerpots.",
+   "et": ""
+  },
+  {
+   "id": 23,
+   "en": "{07 14 00}Yep, uh-huh. {01 00 00 0f 00}You've got\nthat right, {01 00 00 05 00}{04 02 00}.\n\n{07 0d 00}All right, then! You take\ncare, {04 1f 00}!",
+   "et": ""
+  }
+ ]
+}

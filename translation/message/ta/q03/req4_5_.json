@@ -1,0 +1,20 @@
+{
+ "file": "script/ENG/message/ta/q03/req4_5_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 16 00}Currently,{01 00 00 05 00} I'm collecting\n{ff 00 00 02}{04 0f 00}\n{ff 00 00 00}bones.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00}\n{07 1c 00}{01 00 00 05 00}But I can't find that\nlast piece yet, {01 00 00 0a 00}{04 02 00}{01 00 00 05 00}.\n{07 1b 00}{01 00 00 05 00}It should show itself!\nAfter all, when is it gonna\nget another chance to live\nin a place like mine?!",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 16 00}Every night, {01 00 00 05 00}I chat with the\n{ff 00 00 02}{04 0f 00}{ff 00 00 00}\npieces I have!\n{07 15 00}But it isn't complete yet,\nso it's just like talking to\na wall.\n{07 1b 00}I gotta find the rest of\nthe {ff 00 00 02}{04 0f 00}\n{ff 00 00 00}so I can spill my secrets{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 16 00}There's nothing more sad\nthan mumbling to myself\nat night.\n{07 14 00}So, {01 00 00 0a 00}lately I try to talk to\nmy {ff 00 00 02}{04 0f 00}\n{ff 00 00 00}fossil.\n{07 16 00}Technically, it was alive,\nthough it was a long time\nago{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 1b 00}I don't have all the parts\nyet, {01 00 00 05 00}so it's still kind of a\none-way conversation.",
+   "et": ""
+  }
+ ]
+}

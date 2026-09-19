@@ -1,0 +1,20 @@
+{
+ "file": "script/ENG/message/ta/q03/con4_5_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 16 00}{01 00 00 05 00}Don't worry,{01 00 00 0a 00} little\n{ff 00 00 02}{04 0f 00}{ff 00 00 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}. I'm\nalmost there to save you!",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 19 00}I gotta finish the\n{ff 00 00 02}{04 0f 00} {ff 00 00 00}fossil\nquick{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00}\n{07 14 00}Even glitterati need a big,\nstrong, {01 00 00 0a 00}uh, bony shoulder\nto cry on sometimes!",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 1c 00}Oh, {ff 00 00 02}{04 0f 00}{ff 00 00 00}!\nDon't you want to see the\nsun again, {01 00 00 0a 00}{04 02 00}?",
+   "et": ""
+  }
+ ]
+}

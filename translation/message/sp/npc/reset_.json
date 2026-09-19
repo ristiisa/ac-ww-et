@@ -1,0 +1,185 @@
+{
+ "file": "script/ENG/message/sp/npc/reset_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 2a 00}Yeah, so uh, hello there.{01 00 00 05 00}\nLemme introduce myself.{01 00 00 0a 00}\nName's {01 00 00 05 00}{ff 00 00 06}Resetti{ff 00 00 00}.{01 00 00 05 00}{ff 00 00 06} Mr. Resetti{ff 00 00 00}.\n{07 00 00}You and me...we {01 00 00 05 00}met before?{01 00 00 05 00}\nAt the museum, somethin'\nlike that?{01 00 00 05 00} Yeah, {01 00 00 05 00}whatever.\n{07 2a 00}I guess I oughta thank\nyou for buying this game,\n{ff 00 00 01}Animal Crossing: Wild World{ff 00 00 00}.\nYeah, so, on behalf of\neveryone at Nintendo, I{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\nUh{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}. {01 00 00 05 00}What was next, again?{01 00 00 05 00}\n{07 2d 00}Aw, {01 00 00 05 00}forget it!{01 00 00 0a 00} I ain't\nrecitin' that stupid line\nagain! {01 00 00 05 00}I give up!",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 2a 00}Let's get down to business,\nwhaddaya say? {01 00 00 05 00}You an' me\ngotta talk a bit here.\nI gotta let you in on why\nI've come to visit. {01 00 00 05 00}You\nfollowin' me, bright eyes?\n{07 00 00}When you quit playin' last.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\nHow'd you do it?{01 00 00 05 00} You do\nanythin' unusual, maybe?\n{07 2a 00}Like{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}I dunno, {01 00 00 05 00}you turned\nthe power off without\nsavin'?{01 00 00 05 00} Anythin' like that?{01 00 00 05 00}\nHuh? {01 00 00 0a 00}I didn't hear whatcha\nsaid there. {01 01 00}{01 04 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}You did?{01 00 00 05 00}\nYou quit without savin'?{01 05 00}\n{07 2c 00}I KNEW it! {01 00 00 05 00}Don't tell me,\nI'll tell YOU, pal! {01 00 00 05 00}THAT'S the\nreason! {01 00 00 0a 00}THAT'S why I'm here!\n{07 00 00}If you're gonna turn the\npower off, you gotta save\nfirst! {01 00 00 05 00}C'mon, use your head!\nDidn't old man {ff 00 00 06}Nook{ff 00 00 00} do his\nroutine on how you can\nsave in the attic?\nIf that's too much work,\nyou even got {07 2d 00}{ff 00 00 01}START {ff 00 00 00}right\nthere{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.{01 01 00}{07 00 00}lazy bones!\nJust shuttin' down is the\nsame as resettin', {01 00 00 0a 00}and you\nknow what that means!\nYeah!{01 00 00 05 00} I gotta tunnel out\nhere and lecture you!{01 00 00 0a 00}\nGot it?{01 00 00 05 00} Good! {01 00 00 05 00}Don't forget!",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 2d 00}So tell me somethin': {01 00 00 0a 00}you\neven know what resettin'\ndoes to your play time?{01 00 00 05 00}\n{07 2e 00}It vanishes it.{01 00 00 05 00} All that\ntime you spent playin'?{01 00 00 05 00}\nPOOF!{01 00 00 05 00} Gone.{01 00 00 05 00} Bye-bye!\n{07 2a 00}No big deal, huh?{01 00 00 05 00} Maybe it\nwas just a minute of your\nlife.{01 00 00 05 00} What do I know, right?{01 00 00 14 00}\nWell, I'll TELL you what this\nmole knows: {01 00 00 05 00}you gotta\ntreasure life.{01 00 00 05 00} Every second!\n{07 00 00}And don't even talk to me\nabout other games, neither.{01 00 00 05 00}\nThis ain't another game.\nThis is {ff 00 00 01}Animal Crossing: Wild\nWorld{ff 00 00 00}. {01 00 00 05 00}We{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}encourage you\nNOT to do stuff like that.\nHey, I know what you're\nthinkin'.{01 00 00 05 00} \"This is MY game.{01 00 00 05 00}\nI can do whatever I want!\"{01 00 00 0a 00}\nLook, I hear ya, pal, loud\nan' clear, but we got rules\nhere. {01 00 00 05 00}They ain't negotiable.\n{01 00 00 05 00}Did I explain that slow\nenough for you? {01 00 00 05 00}Yeah?{01 00 00 05 00}\nWe clear here? {01 00 00 05 00}Good.",
+   "et": ""
+  },
+  {
+   "id": 3,
+   "en": "{07 00 00}Seein' as this is your first\noffense, {01 00 00 05 00}I'm gonna let you\noff easy this time, OK?\nBut you oughta know, kid,\nI'm goin' outta my way to\nbe friendly here.\n{07 2d 00}That's right, friendly{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\nNormally, well{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.I got some\nanger-management issues.{01 00 00 05 00}\nI was born with a short\nfuse, and that thing gets\nshorter every single day.\n{07 2a 00}I don't try to be mean or\nscary or nothin', but some\npeople are real sensitive.\n\n{07 00 00}{01 00 00 05 00}{ff 00 00 02}Hey, Ex-CUUUUUUSE me!{ff 00 00 00}\n\nPfff{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} {01 00 00 05 00}I'm just tryin' to\nscratch out a livin' here.{01 00 00 05 00}\nI ain't a goblin, y'know?\nBut, hey, fear and loathin'\ncomes with the hard hat,\nso{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}BOOOOOO!\nBAH {01 00 00 05 00}HA {01 00 00 05 00}HA {01 00 00 05 00}HA {01 00 00 05 00}HA {01 00 00 05 00}HA {01 00 00 05 00}HA {01 00 00 05 00}HA{01 00 00 05 00}!{01 01 00}\n{07 2a 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}Yeesh! {01 00 00 05 00}Look at the time!\nI gotta get tunnelin'.\nHere's hopin' I don't have\nto come see you no more.{07 00 00}\nBut I'm warnin' you{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\nI gotta talk to you again,\npunk, an' I'm gonna be\nwearin' my angry hat.\nIt is one ugly hat, too.{01 00 00 05 00}\nYou'll get straight-up,\nhigh-octane, mad mole!{01 00 00 05 00}\n{07 2a 00}No cream, no sugar, punk!{01 00 00 05 00}\nAnd don't you forget it!{01 00 00 0f 00}\n{01 0d 00}{07 00 00}Now, SCRAM!",
+   "et": ""
+  },
+  {
+   "id": 4,
+   "en": "{07 2f 00}{01 0a 00}{01 0b 00}YOU!\n\n\n{07 00 00}Hold it right there, {01 00 00 05 00}punk!{01 00 00 0f 00}\nWhat did you do?{01 00 00 0a 00} Huh?{01 00 00 05 00}\nTell me what you did!\n{07 2e 00}What am I talkin' about?{01 00 00 0a 00}\nHuh? {01 01 00}{07 2f 00}{01 09 00}{01 0b 00}Don't you play dumb\nwith me! {01 00 00 05 00}Don't you DARE!\n{07 2f 00}{01 09 00}Before you turn the power\noff, SAVE!{01 00 00 05 00} You gotta SAVE!{01 00 00 05 00}\nI KNOW you knew that!\n{07 00 00}Don't even lie to me!{01 00 00 0f 00} When\nyou power down without\nfollowing procedure{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\nKnow what happens?{01 00 00 05 00} I get\nlights and sirens {07 2b 00}playin' an\nelectric mambo at HQ!\n{07 2f 00}{01 09 00}{01 0b 00}KINDA HARD TO MISS!\n\n\n{07 2a 00}Gotta relax. {01 00 00 05 00}Deep breath.{01 00 00 05 00}\nHaaaaaah.{01 00 00 05 00}.{01 00 00 05 00}. I can see now,\nyou don't listen too well{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\nWell, clean out your ears,{01 00 00 05 00}\n{04 00 00}.{01 00 00 0a 00} Life's SERIOUS!{01 00 00 05 00}\nCalm{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} Haah.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} Happy mole.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\nYou hear me?{01 00 00 05 00} SERIOUS!{01 00 00 05 00}\nHaaah.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} Cool, dark tunnel.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\nRelease the anger...{01 00 00 0a 00}\nYou're gonna gimme health\nproblems, punk. {01 00 00 05 00}Don't be\nsuch a twerp.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} Haaaaaah.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}",
+   "et": ""
+  },
+  {
+   "id": 5,
+   "en": "{07 00 00}\n.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n\n.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}OK, listen,{01 00 00 05 00} everybody, and\nI mean everybody, makes\nmistakes.{01 00 00 05 00} That's just life.\nAnd maybe you didn't plan\nto do this.{01 00 00 05 00} Maybe this is\nall a big misunderstandin'.\nYeah, it's possible. {01 00 00 05 00}But you\nknow somethin'? {01 00 00 05 00}It don't\nmake a clod of difference.",
+   "et": ""
+  },
+  {
+   "id": 6,
+   "en": "{01 0d 00}{07 2a 00}Think about it, will ya?{01 00 00 05 00}\nWhat, you wanna fix all the\nthings that go wrong?\nYou wanna snap your fingers\nand erase your screw-ups?{01 00 00 05 00}\nSure, who don't?\n{01 0d 00}{07 29 00}I mean, pssshh, I wish I\nhadn't dropped outta dental\nschool.{01 00 00 05 00} Good money there.\nI REALLY wish I hadn't\nwashed my white boxers with\nmy red sweatshirt.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}BUT!\n{07 00 00}Is turnin' the power off\nwithout savin' gonna change\nany of that?\n{01 0d 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}Of course it ain't, punk!{01 00 00 0f 00}\nThat kinda thing only\nhappens in video games!\nIn REAL life, in the REAL\nworld, {01 00 00 05 00}it ain't happenin'.\n\n{01 0d 00}{07 2a 00}And that's normal. {01 00 00 05 00}Hear me?{01 00 00 0f 00}\nThat's the way it is, right?\n\nIt's takin' whatever comes\nyour way, the good AND the\nbad, that gives life flavor.\nIt's all that stuff rolled\ntogether that makes life\nworth livin'.",
+   "et": ""
+  },
+  {
+   "id": 7,
+   "en": "{01 0d 00}{07 00 00}Turnin' the power off 'cause\nyou didn't get an item you\nreally, really wanted?{01 00 00 05 00}\nOr tryin' to backtrack and\navoid some kinda sticky\nsituation?{01 00 00 05 00} That's PATHETIC!\n{01 0d 00}C'mon, {01 00 00 0a 00}{04 00 00}. Stop\nplayin' like that.{01 00 00 05 00} Stop LIVIN'\nlike that!\n{07 29 00}I mean, grow up, will ya?{01 00 00 05 00}\nYou're better than this.{01 00 00 05 00}.{01 00 00 05 00}.\n\n{07 00 00}You know anybody who's got\na perfect life?{01 00 00 05 00} 'Course not.{01 00 00 05 00}\n'Cause nothin's perfect.\n{01 0d 00}So I'll say it one more time\nand hope you REALLY hear\nme this time{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 29 00}Mistakes and disappointment\nmake the sweet things in\nlife that much sweeter.\n{07 00 00}You gotta take everythin'\nlife throws atcha. {01 00 00 05 00}Roll with\nthe punches, hear me?\nDeal with the consequences\nof your actions, 'cause life\nain't no video game.\nYou feel that irony, punk?",
+   "et": ""
+  },
+  {
+   "id": 8,
+   "en": "Aw, for the luvva dirt.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 2d 00}What's with the face, punk? {01 00 00 0a 00}\nYou think I need that look?{01 00 00 0a 00}\nYou got that how-long's-\nthis-guy-gonna-keep-\nyappin'-at-me face. {01 00 00 05 00}Yeah.\n{07 2a 00}Well, wipe it off, ingrate!{01 00 00 05 00}\nYou're lucky I ain't MORE\nmad, you dirty resetter!{01 00 00 05 00}\n{07 00 00}Ah, whatever.{01 00 00 0f 00} All this\ntunnelin' and barkin's got\nme beat.\nI'm done with you, kid.{01 00 00 05 00}\nI'm cuttin' you loose.\n\nBut {01 00 00 05 00}you gotta promise me,{01 00 00 0f 00}\nwhen you're done playin'{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n\n{07 2a 00}You'll SAVE before you turn\nthe power off! {01 00 00 05 00}SAAAAAVE!{01 00 00 0f 00}\n.{01 00 00 05 00}.{01 00 00 05 00}.You got that?\n{07 2c 00}Oh, {01 00 00 05 00}and before I forget,{01 00 00 05 00}\none last thing{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n\n{01 0d 00}{07 00 00}{ff 00 00 02}Wash your hands after you\ngo to the bathroom!{ff 00 00 00}\n\nWe clear? {01 00 00 05 00}Good!\n\n\n{01 0d 00}Now SCRAM!",
+   "et": ""
+  },
+  {
+   "id": 9,
+   "en": "{07 2f 00}{01 0a 00}{01 0b 00}AAAAAAARGH!\n\n\n{07 00 00}What?{01 00 00 05 00} What's in your head?{01 00 00 05 00}\nYou think I wouldn't notice?{01 00 00 05 00}\nYou think I'd let it slide?\n{07 2f 00}{01 09 00}{01 0b 00}NOT LIKELY, PUNK!\n\n\n{07 29 00}SAVE before you turn the\npower off! {01 00 00 05 00}SAVE! {01 00 00 05 00}What don't\nyou understand? {01 00 00 05 00}AAAARGH!",
+   "et": ""
+  },
+  {
+   "id": 10,
+   "en": "{07 2c 00}Whoa{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n\n\n{07 2d 00}I think I screamed too hard\nthere{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} Talk about a head\nrush, everythin's sparkly{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 2a 00}YOU!{01 00 00 05 00} You're a real piece of\nwork, you know that, kid?{01 00 00 05 00}\n\nWhat is it you're tryin' to\ndo to me here?{01 00 00 05 00}\n\nDon't you know I got high\nblood pressure and chronic\ntunnel toe?\nMy doc tells me I gotta\ntake it easy, try not to\nget too worked up.\n{07 00 00}Do I LOOK not worked up?{01 00 00 05 00}\nNo! {01 00 00 05 00}All this chasin' you\naround's gonna do me in.\nYou're doin' this on\npurpose, ain't you? {01 00 00 05 00}Yeah!{01 00 00 05 00}\nYou're enjoyin' this! {01 00 00 05 00}AARGH!{01 00 00 05 00}\n{07 29 00}Why don'tcha just toilet-\npaper my cave while you're\nat it, {01 00 00 05 00}you little punk!",
+   "et": ""
+  },
+  {
+   "id": 11,
+   "en": "{07 00 00}Don't you kids ever LISTEN?{01 00 00 0a 00}\nYou wouldn't believe what I\ngotta do to stay healthy.\n{07 2a 00}Lately I've been tryin' to\nmake yogurt {01 00 00 05 00}from scratch!{01 00 00 05 00}\nYou hear me? {01 00 00 05 00}YOGURT!{01 00 00 0a 00}\nThe scary part is havin' to\ntaste-test it. {01 00 00 05 00}You ever try\nspicy meatball yogurt?{01 00 00 05 00}\nNot good.{01 00 00 05 00} So whaddaya say?{01 00 00 05 00}\nYou gonna stop messin' with\nme, {01 00 00 05 00}{04 00 00}?{02 00 00 00 00}\nOK.\nWhatever.",
+   "et": ""
+  },
+  {
+   "id": 12,
+   "en": "{07 2b 00}Uh{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 05 00} What was that?{01 00 00 03 00}\n\n\n{07 2f 00}All you had to do was say\n\"OK\"! {01 00 00 0f 00}Two stinkin' letters!{01 00 00 05 00}\n\"O\" and \"K\"!\n{07 2a 00}You're pushin' the wrong\nbuttons, kid.{01 00 00 05 00} The big, red,\nangry buttons.\n{07 29 00}You ain't takin' this\nseriously. {01 00 00 05 00}Worse, you ain't\ntakin' ME seriously!\n{07 2a 00}Kids today, {01 00 00 05 00}no clue what\nyou're thinkin'. {01 00 00 05 00}You got\nalien brains or somethin'.",
+   "et": ""
+  },
+  {
+   "id": 13,
+   "en": "What?{01 00 00 05 00} Was that it? {01 00 00 05 00}{07 2b 00}That was\nthe lamest, most insincere\n\"OK\" I ever heard.\n{07 2a 00}I don't believe that \"OK,\"\nand I don't trust you one\nbit.{01 00 00 05 00} Yeah, you heard me.\n{07 00 00}You got no idea what it\nmeans to betray someone's\ntrust, do you, punk?{01 00 00 05 00}\n'Cause if you did, there's\nno way you'd mess with me\nthis way. {01 00 00 05 00}No way.",
+   "et": ""
+  },
+  {
+   "id": 14,
+   "en": "{07 2a 00}Ah, whatever{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n\n\nYou're all mouth and no\nheart, you know that?\n\nYou're laughin' at me right\nnow, aren't ya? {01 00 00 05 00}Yeah, I see.{01 00 00 05 00}\nI got your number, punk.\nKnow somethin'? {01 00 00 05 00}I've had it\nwith you. {01 00 00 05 00}I'm tired of\nwastin' my time.\nI'm gonna go watch some TV.{01 00 00 05 00}\nOne of my favorite movies\nis on: \"A Few Good Moles.\"",
+   "et": ""
+  },
+  {
+   "id": 15,
+   "en": "{07 00 00}All right, {01 00 00 05 00}set me up with a\nlittle \"you-know-what\" and\nI'll hit the tunnel.\nC'mon.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} You know. {01 00 00 05 00}Right?{01 01 00}\nThere's no way you don't\nknow. {01 00 00 05 00}I KNOW you know!\nNo tip whatsoever? {01 00 00 0a 00}Uh-uh.{01 00 00 0a 00}\nI ain't buyin' it, punk.{01 00 00 05 00}\nI know you got somethin'.\n{07 2a 00}What? {01 00 00 05 00}I ain't askin' for\nall your cash! {01 00 00 0f 00}Just a\nlittle taste, is all.{01 00 00 05 00}.{01 00 00 05 00}.\nI don't need a full meal!{01 00 00 05 00}\nJust a side order, no big\ndeal, know what I mean?\n{07 00 00}Look, {01 00 00 05 00}I know you got\nsomethin'. {01 00 00 05 00}I hear them\npockets jinglin'!",
+   "et": ""
+  },
+  {
+   "id": 16,
+   "en": "\n{07 00 00}{01 04 00}{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}{07 2b 00}{01 00 00 0a 00}{01 05 00}\n\n{07 2f 00}{01 09 00}{01 0b 00}What's the hold up, punk?{01 00 00 0a 00}\nIt's not like I'm muggin'\nyou over here.{01 00 00 0a 00}\n{07 29 00}What're you, a mime?{01 00 00 05 00}\nYou forget how to talk?\n\n{07 2a 00}You don't tip?{01 00 00 0a 00} You ain't a\ntipper? {01 00 00 05 00}Tippin' against your\nmoral fiber? {01 00 00 05 00}Say somethin'!{01 00 00 05 00}\n{07 00 00}You don't wanna listen to\nme no more? {01 00 00 14 00}You tired of\ntalkin' to me?{01 00 00 05 00} Huh?\n{07 29 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}That is IT!",
+   "et": ""
+  },
+  {
+   "id": 17,
+   "en": "{07 2f 00}You done it now, punk!{01 00 00 05 00}\nYou made the list! {01 00 00 0f 00}That's\nright!{01 00 00 05 00} You been LISTED!\n{07 29 00}You WILL learn to save\nbefore you turn the power\noff. {01 00 00 05 00}That's a promise!\nYou got yourself on the bad\nside of a bad mole on a\nbad day, punk!\n{07 2f 00}{01 08 00}{01 0b 00}You're gonna regret this\nfor the rest of your life,\nyou resettin' cheater!",
+   "et": ""
+  },
+  {
+   "id": 18,
+   "en": "{07 2c 00}Oh, yeah, {01 00 00 05 00}one last thing.{01 00 00 05 00}.{01 00 00 05 00}.\n\n\n{01 0d 00}{07 00 00}{ff 00 00 02}When you take a bath, try\nusin' some soap, stinky!{ff 00 00 00}\n\nWe clear? Good!\n\n\n{01 0d 00}Now SCRAM!",
+   "et": ""
+  },
+  {
+   "id": 19,
+   "en": "\n{07 2f 00}{01 0a 00}{01 0b 00}AAAAAAARGH!\n\n{07 00 00}You know how many people I\ngotta repeat myself to?\n\n{07 2f 00}{01 09 00}{01 0b 00}JUST YOU, PUNK!\n\n\n{07 29 00}Read my lips: {01 00 00 05 00}save first,\nand then, and ONLY then,\nturn the power off.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 2f 00}{01 09 00}{01 0b 00}How many times I gotta tell\nyou that?",
+   "et": ""
+  },
+  {
+   "id": 20,
+   "en": "{07 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 2c 00}HEY!\n\n\n{07 2d 00}You doin' this.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}on purpose?\n\n\nAre you maybe {01 00 00 05 00}turnin' the\npower off without savin'\nfor laughs?\n{07 00 00}You wanna get the crazy\nmole out here {01 00 00 05 00}an' see what\nhe says next, that it?\n{07 2b 00}This entertains you, punk?{01 00 00 05 00}\nYou think this is funny?{01 00 00 05 00}\nA little stand-up mole?\n{07 2c 00}Ah-HA! {01 00 00 0a 00}I saw that, kid! {01 00 00 05 00}\nYou rolled your eyes at me!{01 01 00}\n{07 29 00}You DO think this is a joke!",
+   "et": ""
+  },
+  {
+   "id": 21,
+   "en": "{07 2d 00}Haaaah{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n\n\nY'know, I been with the\nReset Intervention Bureau\nsince the family took over.{01 00 00 05 00}\nI gotta say, though, I ain't\nNEVER had to deal with a\nnutjob like you.\n{07 00 00}{01 00 00 0a 00}It's OK.{01 00 00 05 00} I been trained. {01 00 00 05 00}It\njust means I gotta lose the\nkid gloves an' get serious.{01 00 00 05 00}\nI may even hit the gym and\ngo a few rounds with my\ncousin, Vicious Vole Vinnie.\n{07 29 00}See if you wanna keep\nresettin' after I bounce a\ncouple mole elbows off ya!",
+   "et": ""
+  },
+  {
+   "id": 22,
+   "en": "{07 2a 00}For the time bein', {01 00 00 05 00}though,\nyou get to tell me how\nsorry you are.{01 00 00 05 00}\nTestin', testin', 1,{01 00 00 05 00} 2, {01 00 00 05 00}{01 08 00}{01 0b 00}3!{01 01 00}\nAll right, no feedback.{01 00 00 05 00}\nWe're good to go.\nNow I'm gonna give you an\napology, {01 00 00 05 00}an' you're gonna\nrepeat it back to me.\nYou get it wrong, I know\nyou ain't serious, and you\nget to say it again!\n{07 2a 00}Uh, {01 00 00 05 00}lemme see.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n{07 2c 00}Yeah, {01 00 00 05 00}that's a good one!",
+   "et": ""
+  },
+  {
+   "id": 23,
+   "en": "{07 00 00}You ready? {01 00 00 05 00}Here goes!\n\n\n\"{04 0f 00}\"{01 00 00 05 00}\nSAY IT!{01 10 00 0a}",
+   "et": ""
+  },
+  {
+   "id": 24,
+   "en": "{07 00 00}.{01 00 00 0a 00}.{01 00 00 0a 00}.{01 00 00 0a 00}{07 2f 00}{01 09 00}{01 0b 00}WHAT WAS THAT?!\n\n\n{07 29 00}No! No! NO!{01 00 00 14 00}\nSay it again!",
+   "et": ""
+  },
+  {
+   "id": 25,
+   "en": "{07 2a 00}Hmmm.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} Naw, that ain't\ngonna cut it neither.\n\n{07 00 00}That wasn't from the heart.{01 00 00 05 00}\nYou didn't really mean it.{01 00 00 05 00}\nThat was just lip service.\n{07 2a 00}You spat on the mic, too!{01 00 00 05 00}\nGuess you're gonna have to\ntry somethin' else, punk.{01 00 00 05 00}\nOK.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} What next?{01 00 00 0f 00}\n{07 2c 00}GOT IT! {01 00 00 05 00}This is a good one!",
+   "et": ""
+  },
+  {
+   "id": 26,
+   "en": "{07 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 2a 00}You really mean it?{01 00 00 0f 00}\nYou ain't just playin' with\nme?{01 00 00 05 00} Huh?\nOK. {01 00 00 05 00}What you just said?{01 00 00 05 00}\nDON'T FORGET IT!\n\n{07 29 00}Seriously, {01 00 00 05 00}no more, OK?{01 00 00 0f 00}\nThis better be the last\ntime, I mean it!\n{07 2c 00}Oh, {01 00 00 05 00}hold on, {01 00 00 05 00}one last thing.\n\n\n{01 0d 00}{07 00 00}{ff 00 00 02}Brush your teeth once in a\nwhile.{01 00 00 05 00} And don't forget to\nfloss, too, moss-mouth!\n{ff 00 00 00}We clear? Good!\n\n\n{01 0d 00}Now SCRAM!",
+   "et": ""
+  },
+  {
+   "id": 27,
+   "en": "{07 2f 00}{01 0a 00}{01 0b 00}AAAAAARGH!!!\n\n\n{07 2f 00}{01 09 00}{01 0b 00}YOU AGAIN?!?\n\n\n{07 2f 00}{01 09 00}STOP{01 01 00}\n{07 2f 00}{01 09 00}MESSIN'{01 01 00}\n{07 2f 00}{01 09 00}{01 0b 00}WITH ME!\n{07 2f 00}{01 09 00}{01 0b 00}What's it gonna take to get\nit through your thick skull?\n\n{07 2a 00}{01 04 00}{ff 00 00 02}If {01 00 00 05 00}you're {01 00 00 05 00}gonna {01 00 00 05 00}quit, {01 00 00 05 00}you{01 00 00 05 00}\ngotta {01 00 00 05 00}SAVE {01 00 00 05 00}first!{01 05 00}\n\n{ff 00 00 00}{07 2f 00}{01 09 00}{01 0b 00}Use your head, punk!{01 00 00 05 00} It's\neven written in the manual!",
+   "et": ""
+  },
+  {
+   "id": 28,
+   "en": "{07 2e 00}HAAH...{01 00 00 05 00} HAAAH...{01 00 00 05 00}HAAAAAAH{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n\n\n{07 2a 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}You hate me, don't you?{01 00 00 05 00}\nI mean, you just hate me\nmore than anythin', right?\nMore than laundry, traffic\njams, an' bad breath all\nrolled together. {01 00 00 05 00}Right?\nYou hate me so much you\ncan't stand it, huh?\n\nThat's why you keep doin'\nthis over an' over, right?{01 00 00 05 00}\nYou're tryin' to do me in.",
+   "et": ""
+  },
+  {
+   "id": 29,
+   "en": "{07 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 29 00}Hey, FINE BY ME!{01 00 00 0f 00}\nAt least I know how you\nreally feel, punk.\nLemme tell you, though, you\nain't the only one with\nfeelin's here. {01 00 00 05 00}We clear?\n{07 2f 00}An' today's the day I put a\nstop to this. {01 00 00 05 00}You listenin',\nyou little monster?\n{07 2a 00}Until you can convince me\nyou're truly an' sincerely\nsorry, {01 00 00 05 00}I ain't goin' home!{01 00 00 0f 00}\nYou an' me are gonna go\nround an' round an' round!",
+   "et": ""
+  },
+  {
+   "id": 30,
+   "en": "{07 00 00}First, {01 00 00 05 00}you're gonna show me\nhow sorry you are, and I'd\nbetter FEEL it!\nI don't want no smirks,\neye-rolls, or nothin' like\nthat.{01 00 00 05 00} I want remorse, punk!\n{07 2a 00}Oh, {01 00 00 0a 00}an' don't try lyin'.{01 00 00 05 00}\nI can smell lies! {01 00 00 05 00}Smell 'em!\n\n{07 00 00}All you gotta do is be\nhonest. {01 00 00 05 00}Gimme some genuine\nemotion, know what I mean?\nYou go for melodrama,{01 00 00 05 00}\nyou're gonna get the wrath\nof {ff 00 00 06}Resetti{ff 00 00 00}, you hear me?",
+   "et": ""
+  },
+  {
+   "id": 31,
+   "en": "{07 00 00}All right, {01 00 00 05 00}let's do this.\n\n\nTell me, and tell me true.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\nAfter all this, {01 00 00 05 00}how sorry\nare you?{05 05 00 04 00 04 00 04 00 04 00}\nReally sorry!\nVery sorry.",
+   "et": ""
+  },
+  {
+   "id": 32,
+   "en": "{07 2a 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 2d 00}Aw, gimme a break. {01 00 00 05 00}What\nwas that supposed to be?{01 00 00 0f 00}\n{07 2a 00}That was pathetic.\nThat had no feelin'!{01 00 00 05 00} None!{01 00 00 05 00}\nThat ain't how it's done,\nnot by a long shot.\n{07 2d 00}Kid your age, {01 00 00 05 00}you oughta be\nable to express real\nregret, right?\n{07 2a 00}You gotta show more\nconsideration, more\ngenuine.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\nAh, whatever. {01 00 00 05 00}Don't matter.{01 01 00}\n{07 2f 00}You're doin' it again!{05 05 00 04 00 04 00 04 00 04 00}\nReally sorry!\nVery sorry.",
+   "et": ""
+  },
+  {
+   "id": 33,
+   "en": "{07 2a 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}Huh?{01 00 00 0a 00} Is that the best you\ncan do? {01 00 00 05 00}You SERIOUS?!\n\nYou know what? {01 00 00 05 00}You're\nnothin' to me. {01 00 00 05 00}Nothin' but a\nthoughtless punk.\n{07 2d 00}I dunno, maybe you're slow.{01 00 00 05 00}\nOr maybe you don't know\nhow to express yourself.\n{07 00 00}Pay attention. {01 00 00 05 00}\"Apologies\"\nare a buncha words strung\ntogether, right? {01 00 00 05 00}Follow me?\nWe use 'em to tell others\nthat we wish we hadn't done\nwhatever it is we did. {01 00 00 05 00}OK?\n{07 2a 00}HOW you say the words is as\nimportant as the words\nthemselves, {04 00 00}.\n{07 29 00}So you gotta show me you\nknow HOW to say the words!{01 00 00 0f 00}\n{07 2f 00}ONE MORE TIME!{05 05 00 04 00 04 00 04 00 04 00}\nReally sorry!\nVery sorry.",
+   "et": ""
+  },
+  {
+   "id": 34,
+   "en": "{07 2a 00}Hmmm...{01 01 00} Uh...{01 01 00} Yeah...\n\n\nOK, {01 00 00 05 00}if that's how you really\nfeel.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} Guess it'll have to\ndo at this point.\n{07 00 00}I got nothin' left over\nhere,{01 00 00 0f 00} so I'm gonna cut you\nsome slack.",
+   "et": ""
+  },
+  {
+   "id": 35,
+   "en": "{07 2d 00}We're clear here, ain't we,\n{01 00 00 05 00}{04 00 00}?{01 00 00 0f 00}\n\n{01 0d 00}You're gonna save before\nyou quit, right?{01 00 00 05 00} Don't be\npullin' my chain here.\n{07 00 00}You follow the rules an'\nfinish your game,{01 00 00 05 00} then you\ngo back to your life.\nYou go do whatever it is\nyou do out there in your\nworld.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}all right?{01 00 00 0a 00}\nDon't you let me down!{01 00 00 0a 00}\nI don't wanna talk about\nthis no more.\n{07 2c 00}Hey, {01 00 00 05 00}hold it, {01 00 00 05 00}one last thing.\n\n\n{01 0d 00}{07 00 00}{ff 00 00 02}Chew your food, and stop\ntalking with your mouth\nfull, you little piggy!\n{ff 00 00 00}We clear? Good!\n\n\n{01 0d 00}Now SCRAM!",
+   "et": ""
+  }
+ ]
+}

@@ -1,0 +1,20 @@
+{
+ "file": "script/ENG/message/ge/q11/no_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 16 00}Oh, {01 00 00 05 00}really.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 14 00}{07 14 00} Well, why don't\nyou, like, look around some\nmore? {ff 00 00 04}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}What a cheapskate!",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 00 00}{07 01 00}WHAT?!{01 00 00 0a 00} WHY, YOU LITTLE...{01 00 00 0a 00}\n{07 00 00}Um...{01 00 00 0a 00} {07 11 00}I mean,{01 00 00 05 00} that's fine,\n{01 00 00 05 00}{04 02 00}!{01 00 00 05 00} Juuuust fine...",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 16 00}Oh, c'mon, {01 00 00 05 00}{04 02 00}!{01 00 00 0f 00} {07 00 00}{07 06 00}Just\ncompromise your values and\nbuy something, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  }
+ ]
+}

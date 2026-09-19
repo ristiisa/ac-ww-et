@@ -1,0 +1,195 @@
+{
+ "file": "script/ENG/message/ta/ap/present2_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 14 00}It might surprise you,{01 00 00 05 00}\nbut I wanted to be a pop\nstar when I was younger.\n{07 19 00}I could sing and dance, and\npeople said that I could\nmake it...\n{07 15 00}But there was just one\nthing that I didn't have,\n{01 00 00 0a 00}{04 02 00}...{02 01 00 03 06 0a}\nGood looks?\nCash?\nWhat was it?",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 14 00}Hey, {01 00 00 05 00}{04 1f 00},{01 00 00 0a 00} how's the\nwork on your house coming\nalong?!{02 01 00 0d 10 12}\nPerfecto!\nSlowly...\nIt stinks!",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 14 00}Hey, {01 00 00 05 00}{04 1f 00},{01 00 00 0a 00} {07 00 00}can I\nshare a story with you?{02 00 00 17 16}\nWhat happened?\nI'm busy.",
+   "et": ""
+  },
+  {
+   "id": 3,
+   "en": "{06 00 00 04 05}",
+   "et": ""
+  },
+  {
+   "id": 4,
+   "en": "{07 00 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 14 00}{07 02 00}Good looks?!{01 01 00} {07 01 00}What makes\nyou say that?! I've always\nbeen a vision of loveliness!{03 02 00 05}",
+   "et": ""
+  },
+  {
+   "id": 5,
+   "en": "{07 00 00}{07 1b 00}You're so dumb!{01 00 00 0a 00} Don't you\nknow that things can be\ndone to fix a face?\n{07 19 00}{0b 03 00}{04 0c 00} is a good\nexample of that{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 01 00} {07 1d 00}Oops!{01 00 00 0a 00} Oh!{01 00 00 14 00}\nI guess that was a secret.\n{07 09 00}Whoops{01 00 00 0a 00}.{01 00 00 0a 00}.{01 00 00 0a 00}.{01 00 00 14 00} Silly me!\n\n\n{07 00 00}Oh I know, {01 00 00 0a 00}{04 1f 00},{01 00 00 0f 00}\nI'm gonna give you my\n{04 1b 00}.",
+   "et": ""
+  },
+  {
+   "id": 6,
+   "en": "{06 00 00 07 08}",
+   "et": ""
+  },
+  {
+   "id": 7,
+   "en": "{07 16 00}Well, {01 00 00 05 00}money is important,{01 00 00 0a 00}\n{07 19 00}but what I lacked most was\nthe elusive \"{ff 00 00 02}jazz hands{ff 00 00 00}.\"{07 15 00}\n{07 1b 00}Specifically, {01 00 00 05 00}I lacked jazz\nthumbs, which, as it turns\nout, play a huge role.",
+   "et": ""
+  },
+  {
+   "id": 8,
+   "en": "{07 04 00}What in the world{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00} Money?!{01 01 00}\n{07 00 00}D-{01 00 00 0a 00}do I look like I used to\nbe poor?{01 01 00} {07 09 00}Oh{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00}\n{07 06 00}No!{01 00 00 05 00} That's not the case!{01 00 00 14 00}\nI-{01 00 00 0a 00}I've always reached for\nthe stars!\n{07 14 00}Oh yeah, {01 00 00 0a 00}{04 1f 00},{01 00 00 14 00}\nI wanna give you my\n{0b 02 00}{04 1b 00}!",
+   "et": ""
+  },
+  {
+   "id": 9,
+   "en": "{07 00 00}Would you do me a favor\nand pretend we never had\nthis conversation?",
+   "et": ""
+  },
+  {
+   "id": 10,
+   "en": "{06 00 00 0b 0c}",
+   "et": ""
+  },
+  {
+   "id": 11,
+   "en": "{07 16 00}I{01 00 00 0a 00} wasn't one of those girls\nwho could just laugh on \ncommand{01 00 00 05 00} at anything.\n{07 1b 00}And, unlike {04 0c 00}, I\ncan't fake-cry on command\neither{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.\n{07 04 00}Oops!{01 00 00 14 00} {01 00 00 0a 00}Did that sound like I\nwas talking trash? {07 14 00}But.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}it's\nnot trash if it's true!\nYou know where I'm coming\nfrom!{01 00 00 14 00} Here! Take my\n{0b 02 00}{04 1b 00}.",
+   "et": ""
+  },
+  {
+   "id": 12,
+   "en": "{07 19 00}{01 00 00 05 00}Well, {01 00 00 0a 00}I guess you could call\nit \"courage.\"{07 00 00}\n\n{07 14 00}It may not seem like it\nnow, but I was really quite\nshy back then, {01 00 00 0a 00}{04 02 00}.",
+   "et": ""
+  },
+  {
+   "id": 13,
+   "en": "{06 00 00 0e 0f}",
+   "et": ""
+  },
+  {
+   "id": 14,
+   "en": "{07 1d 00}Oh, {01 00 00 0a 00}really, {01 00 00 05 00}{04 02 00}?{01 01 00} {07 00 00}I\nthought you could use\nsomething like this, so...\n{07 14 00}Here, {01 00 00 05 00}take my old\n{0b 02 00}{04 1b 00} as\na gift from me to you!",
+   "et": ""
+  },
+  {
+   "id": 15,
+   "en": "{07 00 00}You seem pretty proud of \nthat place of yours.{01 00 00 0a 00} I may\nhave to pay you a visit!",
+   "et": ""
+  },
+  {
+   "id": 16,
+   "en": "{06 00 00 0e 11}",
+   "et": ""
+  },
+  {
+   "id": 17,
+   "en": "{07 00 00}Hmm.{01 01 00} {07 14 00}Well,{01 00 00 0a 00} just keep giving\nit your all, {01 00 00 0a 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 18,
+   "en": "{06 00 00 0e 13}",
+   "et": ""
+  },
+  {
+   "id": 19,
+   "en": "{07 04 00}Oh, hey now, {01 00 00 05 00}{04 1f 00}.{01 00 00 05 00}\nYou don't have to rush\nanything!\n{07 00 00}Just take your time\nand be selective.\n\n{07 14 00}Yeah, {01 00 00 0a 00}collecting furniture\nis the same as romance in\nthat way, {01 00 00 0a 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 20,
+   "en": "{07 14 00}Well,{01 00 00 0a 00} at the very least, you\nshould try to display it\nnicely, {01 00 00 0a 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 22,
+   "en": "{07 16 00}Oh.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} That's too bad,\n{01 00 00 0a 00}{04 02 00}.",
+   "et": ""
+  },
+  {
+   "id": 23,
+   "en": "{07 00 00}It happened many years ago.{01 01 00}\n{07 14 00}I was dating a boy, and{01 00 00 0a 00} {07 15 00}he\nsaid this one thing to me.\n{06 01 00 18 19 1a}",
+   "et": ""
+  },
+  {
+   "id": 24,
+   "en": "{06 01 00 1b 1c 1d}",
+   "et": ""
+  },
+  {
+   "id": 25,
+   "en": "{06 01 00 1e 1f 20}",
+   "et": ""
+  },
+  {
+   "id": 26,
+   "en": "{06 01 00 21 22 23}",
+   "et": ""
+  },
+  {
+   "id": 27,
+   "en": "{07 1b 00}\"{ff 00 00 02}You're way more aggressive\nthan I am.{ff 00 00 00}\"{01 00 00 14 00} {01 01 00}{07 01 00}What's that\nsupposed to mean?! {01 00 00 0a 00}{01 08 00}HUH?!",
+   "et": ""
+  },
+  {
+   "id": 28,
+   "en": "{07 1b 00}\"{ff 00 00 02}You're just trying me on\nlike a shirt or something.{ff 00 00 00}\"\n\n{07 15 00}Can you believe it?! {01 00 00 0a 00}I\nshould've hung him out to\ndry way before that!",
+   "et": ""
+  },
+  {
+   "id": 29,
+   "en": "{07 1b 00}\"{ff 00 00 02}I think you'd be a lot\nhappier without me.{ff 00 00 00}\"{01 01 00} {07 01 00}{01 08 00}Yeah,\nthat's right, jerko! I AM!",
+   "et": ""
+  },
+  {
+   "id": 30,
+   "en": "{07 1b 00}\"{ff 00 00 02}You are the only thing I\nsee reflected in your eyes.{ff 00 00 00}\"{01 00 00 14 00}\n{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 01 00}{07 01 00}I totally don't get it!",
+   "et": ""
+  },
+  {
+   "id": 31,
+   "en": "{07 1b 00}\"{ff 00 00 02}You've broken the gravy\nboat that is me.{ff 00 00 00}\"{01 01 00} {07 01 00}What the\nheck does that mean?",
+   "et": ""
+  },
+  {
+   "id": 32,
+   "en": "{07 1b 00}\"{ff 00 00 02}I like the you that doesn't\nbelong to anyone.{ff 00 00 00}\"{01 00 00 14 00} Huh?!{01 01 00}\n{07 01 00}What's that about?!",
+   "et": ""
+  },
+  {
+   "id": 33,
+   "en": "{07 1b 00}\"{ff 00 00 02}I can't keep you confined\nin the walls that are me.{ff 00 00 00}\"{01 01 00}\n{07 01 00}He never made any sense.",
+   "et": ""
+  },
+  {
+   "id": 34,
+   "en": "{07 1b 00}\"{ff 00 00 02}You are the sun{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00} You're\ntoo bright for me to see.{ff 00 00 00}\"\n{01 00 00 14 00}That's{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 01 00}{07 01 00}so dumb!",
+   "et": ""
+  },
+  {
+   "id": 35,
+   "en": "{07 1b 00}\"{ff 00 00 02}I've grown weary of keeping\nyou to myself.{ff 00 00 00}\" {01 00 00 14 00}What?{01 01 00}{07 01 00}\nWhat's that mean?!",
+   "et": ""
+  },
+  {
+   "id": 36,
+   "en": "{07 00 00}.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}And there's more where\nthat came from!{01 01 00} {07 0b 00}Wanna hear\nsome of it?{02 00 00 25 16}\nSure.\nI've got plans.",
+   "et": ""
+  },
+  {
+   "id": 37,
+   "en": "{07 14 00}Wow,{01 00 00 05 00} you're being really\nsupportive today. That's so\nnice of you.\n{07 00 00}Well here{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 0f 00} Take this as my\nway of saying thanks. It's\n{04 1b 00}.",
+   "et": ""
+  },
+  {
+   "id": 38,
+   "en": "{07 1b 00}I mean, {01 00 00 05 00}I just needed\nsomeone to vent to. {01 00 00 05 00}I\nreally didn't care who.",
+   "et": ""
+  }
+ ]
+}

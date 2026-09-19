@@ -1,0 +1,20 @@
+{
+ "file": "script/ENG/message/ko/q04/dress_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 14 00}In these new threads, I look\nat least five...{01 00 00 05 00} No, maybe \neven six years younger!\n{07 0d 00}What do you think,\n{01 00 00 05 00}{04 1f 00}? Give it to me\nstraight, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 00 00}So I'm not the greatest at\ngiving compliments, {01 00 00 05 00}but I \nhave to say one thing...\n{07 19 00}You're so full of trendy \nstyle, it's practically \noozing out of your ears!",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 16 00}Oh, no{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{01 00 00 14 00} If I hit up a sushi\njoint dressed like this{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n\n{07 06 00}I'll look like a\n{04 03 00} boy,\n{01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  }
+ ]
+}

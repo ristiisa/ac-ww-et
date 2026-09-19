@@ -1,0 +1,15 @@
+{
+ "file": "script/ENG/message/ha/q01/pwin2_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 14 00}And for the winner...{01 00 00 05 00}\n{04 1b 00}!{01 00 00 05 00}\nLove it, {04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 14 00}I'm keeping this bug, so you\nget {04 1b 00}\nin return!",
+   "et": ""
+  }
+ ]
+}

@@ -1,0 +1,65 @@
+{
+ "file": "script/ENG/message/ko/ai/rain1_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 15 00}What is it, you big pest?!{01 00 00 0a 00}{01 00 00 14 00}\nDon't you know{01 00 00 05 00} rain makes\nme grumpy?!{01 00 00 14 00}\n.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 00 00}Oh, {01 00 00 05 00}{04 1f 00}, it's you.",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "Oh, {01 00 00 05 00}{04 1f 00}!{01 00 00 14 00} You're\nlooking pretty waterlogged\nthis morning!\n{07 1b 00}You look like a defective\nscarecrow{01 00 00 05 00} or something!",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "Why do you have to{01 00 00 0f 00} {07 0b 00}make\nsuch a big deal out of the\nrain? It's raining, big deal.\n{07 00 00}Why do you look so happy,\n{01 00 00 05 00}{04 02 00}? {01 00 00 05 00}It's creepy!\n{07 1b 00}You're so{01 00 00 0f 00} weird!",
+   "et": ""
+  },
+  {
+   "id": 3,
+   "en": "{07 04 00}{0b 03 00}{04 1f 00},{01 00 00 05 00} I'll bet you're{01 00 00 14 00}\n{07 00 00}one of those people who{01 00 00 05 00}\nisn't affected by rain, huh.\n{07 1b 00}Man,{01 00 00 05 00} that makes me kind of\njealous, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 4,
+   "en": "{07 02 00}How many times do I have\nto say it? {01 00 00 0a 00}I DON'T WANT ANY!{01 00 00 14 00}\n{07 16 00}Don't you guys ever stop?!\n{07 00 00}Oh, it's you, {01 00 00 05 00}{04 1f 00}.{01 00 00 14 00} I\nthought you were a crazed\n{07 11 00}salesman, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 5,
+   "en": "It's so muggy! Yeeeeecch! It\nfeels gross, {04 1f 00}!\n\n{07 14 00}Be careful not to catch\na chill or anything and get\nsick, {01 00 00 05 00}{04 02 00}.",
+   "et": ""
+  },
+  {
+   "id": 6,
+   "en": "Rain tonight{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} Rain rain\nrain.{01 00 00 14 00} My soul!{07 09 00} It cries the\ntears of a million storms!\n{07 06 00}What's your problem? {01 00 00 05 00}I'm\nnot allowed to express any\nemotion, is that it?\n{07 01 00}Well, {01 00 00 05 00}fine, you big jerk!{01 00 00 05 00}\nThat's the last time I\nconfide in you!",
+   "et": ""
+  },
+  {
+   "id": 7,
+   "en": "{0b 03 00}{01 06 00}Oh{01 07 00}!{01 00 00 14 00}\n{0b 03 00}{04 1f 00}!\n\n{07 14 00}You seem like the type who\ndoesn't care about rain,\n{01 00 00 05 00}{04 02 00}.",
+   "et": ""
+  },
+  {
+   "id": 8,
+   "en": "{07 14 00}Heh heh! {01 00 00 0f 00}I've always been\na fan of rain at {04 08 00}.{01 01 00}\nI can't say why exactly...\n{07 0b 00}But{01 00 00 14 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}there's something\nabout it that's just so\ncool to me!{07 00 00}\nWell, {01 00 00 0f 00}{04 1f 00}, I wouldn't\nexpect someone like you {01 00 00 05 00}\nto get it, {04 02 00}.",
+   "et": ""
+  },
+  {
+   "id": 9,
+   "en": "{07 04 00}Hey,{01 00 00 0f 00} what are you doing \nwandering around at this\nhour?{07 00 00}\nLook, if you're looking to \n{04 22 00}, wait 'til\ntomorrow, would ya?",
+   "et": ""
+  },
+  {
+   "id": 10,
+   "en": "Augh!{01 00 00 05 00}{07 18 00} What the heck?! Augh!\nD-{01 00 00 05 00}don't{01 00 00 05 00} hurt me!{07 00 00} Seriously!\n.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\nHuh?{01 00 00 05 00} What?{01 00 00 0f 00} Aw, man!\nIt's just you, {04 1f 00}?!{01 00 00 14 00}\n{07 15 00}Don't scare me like that!\nDon't you ever stay home,\n{01 00 00 05 00}{04 02 00}?{01 00 00 14 00} {07 01 00}You can be\nreally annoying!",
+   "et": ""
+  },
+  {
+   "id": 11,
+   "en": "{07 0b 00}What are you doing{01 00 00 05 00}\n{07 00 00}wandering around at this\nhour, {01 00 00 05 00}{04 02 00}?\n{07 1b 00}You should really{01 00 00 05 00} head home\nbefore you get too wet.\n\n{07 11 00}Besides, isn't it past your\nbedtime now, {01 00 00 05 00}{04 02 00}?",
+   "et": ""
+  }
+ ]
+}

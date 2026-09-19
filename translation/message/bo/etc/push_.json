@@ -1,0 +1,30 @@
+{
+ "file": "script/ENG/message/bo/etc/push_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 15 00}{0b 03 00}{04 1f 00}! That is not\ncool! Just quit pushing me\nalready,{01 00 00 0a 00} {04 02 00}.",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 01 00}C'mon!{01 00 00 0a 00} You know I hate\nthat!{01 00 00 14 00} Why do you have\nto be so mean to me?!",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 01 00}Hey! {01 00 00 0a 00}I never agreed to\nwrestle with you, so cut it\nout,{01 00 00 0a 00} {04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 3,
+   "en": "{07 16 00}I'm not a snowball, so quit\npushing me around,{01 00 00 0a 00}\n{04 02 00}. {01 00 00 0a 00}Sheesh!",
+   "et": ""
+  },
+  {
+   "id": 4,
+   "en": "{07 01 00}Dude, you gotta lay off the\ncoffee. {01 00 00 0a 00}It's making you\nsuper aggro, {01 00 00 0a 00}{04 02 00}!",
+   "et": ""
+  }
+ ]
+}

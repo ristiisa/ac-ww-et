@@ -1,0 +1,20 @@
+{
+ "file": "script/ENG/message/bo/q05/con_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 14 00}No! I'm on the hunt for\n{ff 00 00 07}{04 0f 00}{ff 00 00 00}!",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 19 00}The only thing that can fill\nthis hole in my heart is\n{ff 00 00 07}{04 0f 00}{ff 00 00 00}.",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 19 00}If I only had{ff 00 00 07}\n{04 0f 00}{ff 00 00 00},{01 00 00 0a 00}\nthen I'd be happy.",
+   "et": ""
+  }
+ ]
+}

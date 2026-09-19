@@ -1,0 +1,150 @@
+{
+ "file": "script/ENG/message/ta/tsu/in_act_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 0e 00}{01 00 00 0a 00}Even though it's still a bug,\nthe {0b 02 00}{04 1a 00}\nis a little unusual.\n{07 19 00}Though the difference is \nsubtle,{01 00 00 0a 00} girls in the know,\nknow.",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 14 00}Next time you see\n{04 1a 00},\npay extra attention to it.\n{07 00 00}Because every bug has\nsomething beautiful and\nunique about it.",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{06 00 00 19 1a}",
+   "et": ""
+  },
+  {
+   "id": 3,
+   "en": "{07 14 00}Next time I go catch bugs,\nyou should come with me,\n{04 1f 00}! {01 00 00 05 00}{0b 03 00}{04 02 00}!\n{06 00 00 1b 1c}",
+   "et": ""
+  },
+  {
+   "id": 4,
+   "en": "{01 00 00 0a 00}{07 1b 00}Why do you think I, of all\npeople, catch bugs?{02 01 00 10 11 12}\nThey're pretty.\nIt's trendy.\nI have no idea.",
+   "et": ""
+  },
+  {
+   "id": 5,
+   "en": "{07 15 00}Hey, {04 1f 00},{01 00 00 0f 00} I think\nthere's a bug close by. \nWhat do you think?\n{07 16 00}I mean, not like I really\ncare what you think,\n{04 02 00}!\n{07 06 00}Just do me a favor and\nstay out of my way, all\nright, {01 00 00 05 00}{04 02 00}?",
+   "et": ""
+  },
+  {
+   "id": 6,
+   "en": "{07 03 00}Hee hee! {01 00 00 0f 00}It's pointless for\nthe little bugs to hide,\n{01 00 00 05 00}{04 02 00}!\n{07 14 00}See, I'm the best at finding\nwhere bugs hide!{01 00 00 05 00} I find\nthem, then they're mine!",
+   "et": ""
+  },
+  {
+   "id": 7,
+   "en": "{07 02 00}{0b 03 00}{04 1f 00}, no no NO!\n{01 00 00 0a 00}{0b 03 00}{04 02 00}!\n\n{07 06 00}You have to wait until I say\nit's OK before you can\ncatch bugs there!",
+   "et": ""
+  },
+  {
+   "id": 8,
+   "en": "{07 0e 00}{01 00 00 0a 00}Back in the day, an average\n{0b 02 00}{04 1a 00} was\nthe same size as us!\n{07 0b 00}I wonder{01 00 00 0a 00} what kind of\nsounds they made{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n\n{07 15 00}{01 00 00 0a 00}{01 09 00}{0b 03 00}{04 02 00}!!!{01 01 00}\n{07 14 00}Something like that, you\nthink?",
+   "et": ""
+  },
+  {
+   "id": 9,
+   "en": "{07 1c 00}{01 00 00 0a 00}Walking around holding this{01 00 00 05 00}\nreminds me of my wayward\nyouth.\n{07 16 00}Chasing,{01 00 00 0a 00} letting go,{01 00 00 0a 00} chasing\nagain{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}. {01 00 00 0a 00}{07 1b 00}It's just like\ndating, {01 00 00 0a 00}{04 02 00}.",
+   "et": ""
+  },
+  {
+   "id": 10,
+   "en": "{07 0b 00}{01 00 00 05 00}Hey, do you ever go out and\ncatch bugs?{02 00 00 13 14}\nCan't stop!\nNo way.",
+   "et": ""
+  },
+  {
+   "id": 11,
+   "en": "{07 15 00}I'm looking for {01 00 00 0f 00}a bug called\n{04 1a 00},\n{01 00 00 0a 00}{04 02 00}.\n{07 19 00}It has the most amazing\nshape, {01 00 00 05 00}{04 02 00}. {01 00 00 0a 00}It would\nmake a lovely brooch!",
+   "et": ""
+  },
+  {
+   "id": 12,
+   "en": "{07 06 00}That bug over there{01 00 00 05 00} keeps\nwhining at me to catch it.{01 00 00 05 00}\nIt's driving me nuts!\n{07 15 00}All right, fine!{01 00 00 0a 00} I'm coming,\nyou demanding little creep!\n{01 00 00 0a 00}{0b 03 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 13,
+   "en": "{06 08 00 15 16 17 18}",
+   "et": ""
+  },
+  {
+   "id": 14,
+   "en": "{07 0e 00}{01 00 00 0a 00}I once dated someone{01 00 00 05 00} who\nhad a bug fixation{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n\n{07 15 00}When I told him, {01 00 00 14 00}\"It's either\nme or the bugs,\"{01 00 00 0a 00} he didn't\nchoose fast enough.\n{07 14 00}So, that very day, I kicked\nhim {01 00 00 05 00}and his bugs{01 00 00 0a 00} to the\ncurb, {01 00 00 0a 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 15,
+   "en": "{07 0e 00}{01 00 00 0a 00}When you want to sneak up\non a bug,{01 00 00 0a 00} approach it from\ndownwind{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 19 00}Tee hee!{01 00 00 0a 00} You have to act\nlike a cat on the prowl,\n{01 00 00 0a 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 16,
+   "en": "{07 0c 00}{01 00 00 0a 00}Hey,{01 00 00 0a 00} I'm really happy that\nyou understand where I'm\ncoming from!\n{07 14 00}See that bug right there?{01 00 00 0a 00}\nYes, that one. You can have\nit, {01 00 00 0a 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 17,
+   "en": "{07 0e 00}{01 00 00 0a 00}Actually,{01 00 00 0a 00} I started the\ntrend, {01 00 00 0a 00}{04 02 00}. So it's\nnot like I'm a follower.\n{07 00 00}I'm here catching bugs{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 14 00}\n{07 13 00}{01 00 00 0a 00}because there are bugs\ndying to be caught by me!",
+   "et": ""
+  },
+  {
+   "id": 18,
+   "en": "{07 09 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}Uh, Hel-LO! {01 00 00 05 00}Because it's\nfun? You have heard of the\nconcept called fun, right?\n{01 00 00 0a 00}{07 1b 00}{01 00 00 14 00}Ugh!{01 00 00 0a 00} I was hoping for a\nbetter answer than what\nyou gave me.\nEven the bugs are\nunimpressed. They might\neven fly away, {01 00 00 0a 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 19,
+   "en": "{07 14 00}Really?! That's awesome!\n\n\n{01 00 00 0a 00}{07 1b 00}I know some people{01 00 00 05 00} think\nbeing apathetic is cool, but\nthey're totally lame!\n{07 19 00}In my opinion, passion is\nwhat makes people\nbeautiful, {01 00 00 0a 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 20,
+   "en": "{07 04 00}{01 00 00 05 00}I know what you mean.{01 01 00} {07 0e 00}{01 00 00 0a 00}I\nhave no idea why I'm\nholding a {ff 00 00 07}net{ff 00 00 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 16 00}Sometimes I forget who I\nam and what I'm doing.\n\n{07 1c 00}{01 00 00 0a 00}But this, too, is my ex's\nfault, {01 00 00 0a 00}{04 02 00}.",
+   "et": ""
+  },
+  {
+   "id": 21,
+   "en": "{07 04 00}What{01 00 00 0a 00} am I doing so early in\nthe morning, {01 00 00 0a 00}{04 02 00}?{01 00 00 0a 00}\nI've totally lost it!\n{07 06 00}I haven't finished my skin-\ncare regimen,{01 00 00 0a 00} and here I\nam, outside chasing bugs{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.",
+   "et": ""
+  },
+  {
+   "id": 22,
+   "en": "{07 0e 00}{01 00 00 0a 00}I thought I might waste the\nday sitting at home sipping\nsome {04 13 00}.\n{07 16 00}But then I started thinking\nabout bugs{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.and it seemed\nthey were calling my name.\n{07 1c 00}{01 00 00 14 00}I think something is\nseriously wrong with me,\n{01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 23,
+   "en": "{07 14 00}My eyes are strange.{01 00 00 0a 00} The\ndarker it is, the better I\nsee, {01 00 00 0a 00}{04 02 00}.\n{07 11 00}{01 00 00 05 00}It's my sniper eye of love,\n{01 00 00 0a 00}{04 02 00}! No prey can\nescape it!",
+   "et": ""
+  },
+  {
+   "id": 24,
+   "en": "{07 09 00}To think that a young lady\nlike me is out at this hour\ncatching bugs{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 16 00}It's really kind of{01 01 00}{01 00 00 0a 00} {07 1b 00}{01 00 00 05 00}surreal,\ndon't you think?\n{01 00 00 0a 00}{0b 03 00}{04 02 00}?",
+   "et": ""
+  },
+  {
+   "id": 25,
+   "en": "{07 0e 00}{01 00 00 0a 00}Hey,{01 00 00 0a 00} you know those really \npretty bugs that you come\nacross occasionally?\n{07 00 00}They look that way to keep\npredators from attacking.\n\n{07 17 00}{01 00 00 05 00}Hee hee! {01 00 00 05 00}I always knew that\nbeing pretty was the best\nweapon, {01 00 00 0a 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 26,
+   "en": "{07 0b 00}What?{01 00 00 0f 00} This {ff 00 00 07}net{ff 00 00 00}?{01 00 00 0f 00} {07 00 00}This {ff 00 00 07}net {ff 00 00 00}is\nwhat I use to catch bugs,\n{01 00 00 0a 00}{04 02 00}.\n{07 14 00}Though, honestly,{01 00 00 05 00} it's fun\nto catch people, too!\n{01 00 00 05 00}{0b 03 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 27,
+   "en": "{01 00 00 0a 00}{07 1b 00}If you don't do it, {01 00 00 05 00}you'll\nregret it later. {01 00 00 05 00}Yeah, you'll\nprobably cry or something!",
+   "et": ""
+  },
+  {
+   "id": 28,
+   "en": "{07 0d 00}Hey, look! There's a huge\n{0b 02 00}{04 1a 00}\nwaiting to be caught!",
+   "et": ""
+  }
+ ]
+}

@@ -1,0 +1,115 @@
+{
+ "file": "script/ENG/message/ko/ap/present1_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 00 00}{0b 03 00}{01 06 00}Hey{01 07 00}!{01 00 00 0f 00}\n{0b 03 00}{04 1f 00}! {0b 03 00}{01 00 00 05 00}{04 02 00}!\n\nAre you interested in\n{07 0b 00}{04 1b 00}?{02 00 00 06 07}\nOh, yeah!\nWhat's that?",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 00 00}I've been meaning to ask\nyou something. If you could\nbe anything in the world...\n{07 0b 00}Would you be a pirate ninja\nor a zombie Sasquatch?{01 00 00 05 00}{02 00 00 0c 0d}\nPirate ninja!\nZombie 'squatch!",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 00 00}{0b 03 00}{01 06 00}Oh, hey{01 07 00}!\n{01 00 00 0f 00}{0b 03 00}{04 1f 00}! {01 00 00 0f 00}{07 15 00}Do I, uh{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0f 00}{07 0b 00}smell\nfunky or somethin'?{02 00 00 10 11}\nNot really.\nSo stanky!",
+   "et": ""
+  },
+  {
+   "id": 3,
+   "en": "{07 14 00}Here ya go, have\n{01 00 00 05 00}{04 1b 00}!{01 01 00}\n{07 03 00}What? It's a gift, moron!",
+   "et": ""
+  },
+  {
+   "id": 4,
+   "en": "{07 14 00}Here, {01 00 00 05 00}take my{01 00 00 0f 00}\n{0b 02 00}{04 1b 00}!\n{0b 03 00}{01 00 00 05 00}{04 02 00}!\n{07 00 00}As long as you don't mind\ngetting hand-me-downs,{01 00 00 05 00} I'll\nhook you up occasionally.",
+   "et": ""
+  },
+  {
+   "id": 5,
+   "en": "{07 00 00}Here, {01 00 00 05 00}this is for you!{01 00 00 14 00}\n{0b 03 00}{04 1b 00},\n{01 00 00 05 00}{04 02 00}!\n{07 03 00}{01 00 00 0f 00}Now act all grateful and\nstuff! {01 00 00 05 00}Har har har!",
+   "et": ""
+  },
+  {
+   "id": 6,
+   "en": "{06 01 00 08 08 09}",
+   "et": ""
+  },
+  {
+   "id": 7,
+   "en": "{06 00 00 0a 0b}",
+   "et": ""
+  },
+  {
+   "id": 8,
+   "en": "{07 14 00}Oh yeah, {01 00 00 05 00}{04 02 00}!{01 00 00 14 00} I just\nremembered somethin'!\n\n{07 00 00}I've been thinking of\ngetting rid of this{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n\n{06 01 00 03 04 05}",
+   "et": ""
+  },
+  {
+   "id": 9,
+   "en": "{07 14 00}Oh, yes.{01 00 00 0f 00} There's more\nwhere that came from!{01 00 00 14 00}\n\nJust stick with me,\n{01 00 00 05 00}{04 02 00}.{03 01 00 01}",
+   "et": ""
+  },
+  {
+   "id": 10,
+   "en": "{07 16 00}What, you don't know{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.?{01 01 00}\n{07 14 00}Well, {01 00 00 0f 00}maybe you're better\noff that way, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 11,
+   "en": "{07 04 00}You can't be serious.{01 00 00 14 00}\nYou seriously don't know?!\n\n{07 16 00}Wow.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0f 00} Just wow.\n{07 00 00}Well, then I'll just have to{01 00 00 05 00}\ngive it to ya, {01 00 00 05 00}{04 02 00}!\n{06 01 00 03 04 05}",
+   "et": ""
+  },
+  {
+   "id": 12,
+   "en": "{06 03 00 0e 0f}",
+   "et": ""
+  },
+  {
+   "id": 13,
+   "en": "{06 03 00 0f 0e}",
+   "et": ""
+  },
+  {
+   "id": 14,
+   "en": "{07 0e 00}Hmmm{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 14 00}{04 02 00}.\n\n\n{07 16 00}I should have known you\nwere one of THEM.",
+   "et": ""
+  },
+  {
+   "id": 15,
+   "en": "{07 0e 00}Hmmm. So that's where you\nstand on the great question\nof our time, {01 00 00 05 00}{04 02 00}.\n{07 0c 00}Hey{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0f 00} Hold up, {01 00 00 05 00}{04 02 00}!\n{07 00 00}I can't just walk off{01 00 00 05 00} after\nhearing{01 00 00 0f 00} somethin' like that!\n{06 01 00 03 04 05}",
+   "et": ""
+  },
+  {
+   "id": 16,
+   "en": "{06 00 00 12 13}",
+   "et": ""
+  },
+  {
+   "id": 17,
+   "en": "{06 01 00 14 14 15}",
+   "et": ""
+  },
+  {
+   "id": 18,
+   "en": "{07 16 00}You know, you're a lot like\na snail{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 14 00} Not a slug.\nDefinitely a snail.",
+   "et": ""
+  },
+  {
+   "id": 19,
+   "en": "{07 16 00}Whaaa?!{01 00 00 14 00} {07 06 00}But I've been\nsnacking on liver and\nonions all day, {01 00 00 05 00}{04 02 00}!\n{07 15 00}Listen here, {01 00 00 0f 00}{04 1f 00}!{01 00 00 14 00}\nIt doesn't pay to ignore a\nguy's stank, you know!",
+   "et": ""
+  },
+  {
+   "id": 20,
+   "en": "{07 02 00}That's it, my friend!{01 00 00 14 00}\nThat's the scent of a\ndude, {01 00 00 05 00}{04 1f 00}!\n{07 19 00}And when you get a good\nstink on, {01 00 00 0f 00}you are at one\nwith the cosmos!{01 00 00 05 00}\n{07 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}So, uh, go celebrate and\nstuff.\n\n{06 00 00 03 05}",
+   "et": ""
+  },
+  {
+   "id": 21,
+   "en": "{07 00 00}Hey, {01 00 00 0f 00}I ran out of\ntoothpaste, so I've been\nusing anchovy paste.\n{07 0e 00}Yeah. Then{01 00 00 05 00} I rinsed my\nmouth out with\n{04 13 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 14 00}I'd say it's working out\npretty great for me,\n{01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  }
+ ]
+}

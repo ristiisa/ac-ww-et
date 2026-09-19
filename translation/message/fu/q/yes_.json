@@ -1,0 +1,20 @@
+{
+ "file": "script/ENG/message/fu/q/yes_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 14 00}All right, {04 1f 00}.{01 00 00 0a 00} I'm\ncounting on you to take\ncare of it.",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 00 00}You have your orders,\n{04 1f 00}!{01 00 00 05 00} Get going,\n{01 00 00 05 00}{04 02 00}! {01 00 00 05 00}{07 03 00}Tee hee!",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 0a 00}I knew you'd take care of\neverything, {04 1f 00}!\nYou're always so nice.\n{07 14 00}I'll just leave you to it\nthen, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  }
+ ]
+}

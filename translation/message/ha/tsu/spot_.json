@@ -1,0 +1,185 @@
+{
+ "file": "script/ENG/message/ha/tsu/spot_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 00 00}Yo,{01 00 00 05 00} who do you like better,\n{ff 00 00 06}{07 0b 00}Pelly {ff 00 00 00}or {ff 00 00 06}Phyllis{ff 00 00 00}?{02 02 00 0f 10 11 12}\nPelly.\nPhyllis.\nWho's Pelly?\nWho's Phyllis?",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 00 00}Weird. {01 00 00 05 00}{ff 00 00 06}Pelly {ff 00 00 00}and {ff 00 00 06}Phyllis{ff 00 00 00} work\nat the {ff 00 00 08}town hall{ff 00 00 00} together\nAND they're sisters...\n{07 16 00}But you really never see\n'em hanging out together,\ndo ya?\n{07 0b 00}I wonder why, {01 00 00 05 00}{04 02 00}?",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 14 00}You can take care of all\nkinds of business at the\n{ff 00 00 08}town hall{ff 00 00 00}, y'know!\n{07 00 00}I mean,{01 00 00 0a 00} you can send\nletters,{01 00 00 05 00} you can deposit\nBells, {07 0e 00}and{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 01 00}what else?\n{07 16 00}Ask those ladies that work\nthere, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 3,
+   "en": "{07 00 00}Hey yo, {ff 00 00 05}{04 1f 00}{ff 00 00 00}!{01 00 00 0a 00}\n{07 0b 00}Do you know {ff 00 00 06}{01 00 00 05 00}Tom Nook{ff 00 00 00}?{02 00 00 13 14}\nWell, duh!\nNope!",
+   "et": ""
+  },
+  {
+   "id": 4,
+   "en": "{ff 00 00 06}{07 00 00}Nook{ff 00 00 00} may look laid-back and\nall, just chilling and\nrunning the store, but...\n{07 15 00}Before he opened that shop,{01 00 00 05 00}\nhe had to overcome serious\nhardship, {01 00 00 05 00}{04 02 00}!\n{07 16 00}But{01 00 00 05 00} I guess I oughta save\nthat story for another\ntime.{01 00 00 05 00} It's a doozy.",
+   "et": ""
+  },
+  {
+   "id": 5,
+   "en": "{07 14 00}If you're looking for {ff 00 00 06}Tom\nNook{ff 00 00 00}'s place, it's right\nover there, {01 00 00 05 00}{04 02 00}!\n{07 16 00}It stinks. {01 00 00 05 00}He doesn't sell\nprotein bars or anything\nto eat, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 6,
+   "en": "{07 00 00}You know that guy {ff 00 00 06}Blathers{ff 00 00 00}?{01 00 00 05 00}\nHe collects bugs to be\ndisplayed in the{ff 00 00 08} museum{ff 00 00 00}...\n{07 16 00}Thing is, he's a total wuss\nabout 'em and won't touch\n'em himself!\n{06 01 00 1c 1d 1e}",
+   "et": ""
+  },
+  {
+   "id": 7,
+   "en": "{07 00 00}I heard that old {ff 00 00 06}Blathers{ff 00 00 00}{01 00 00 05 00}\ngraduated from a university\nin the big city!\n{06 01 00 1f 20 21}",
+   "et": ""
+  },
+  {
+   "id": 8,
+   "en": "{07 00 00}{07 0b 00}I wonder who built the\n{ff 00 00 08}museum{ff 00 00 00} in this town?!{01 00 00 05 00}\nI MUST KNOW!\n{06 00 00 22 23}",
+   "et": ""
+  },
+  {
+   "id": 9,
+   "en": "{07 14 00}Welcome to my pad!\n\n\n{06 01 00 15 16 17}",
+   "et": ""
+  },
+  {
+   "id": 10,
+   "en": "{07 14 00}Not bad, huh?!{01 00 00 0a 00} This is where\nme and my biceps live...{01 00 00 05 00}\nThey say welcome!\n{07 0d 00}All housewarming gifts\ngo here.{01 00 00 05 00} Kick back for a\nwhile, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 11,
+   "en": "{07 14 00}So,{01 00 00 05 00} what do you think?{01 00 00 05 00}\nNice, huh?{02 00 00 18 19}\nYeah!\nI've seen better.",
+   "et": ""
+  },
+  {
+   "id": 12,
+   "en": "{07 00 00}I'd like to get lost, just\nonce, for the endorphin\nrush, but this town...\n{07 16 00}It's so small that I don't\nthink it's gonna happen{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n{07 06 00}Weak, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 13,
+   "en": "{07 00 00}Hey,{01 00 00 0a 00} lemme ask you...{01 00 00 05 00}\n{07 0b 00}Do you know how{01 00 00 05 00} to build a\nweird-looking physique?{02 00 00 1a 1b}\nYeah!\nShow me!",
+   "et": ""
+  },
+  {
+   "id": 14,
+   "en": "Whoa, you're so far away\nfrom your home today{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 01 00}\n{07 06 00}Sleeping outside tonight?",
+   "et": ""
+  },
+  {
+   "id": 15,
+   "en": "{ff 00 00 06}{07 15 00}Pelly{ff 00 00 00}, {01 00 00 05 00}huh{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00} {07 14 00}I guess she\nlooks nice, {01 00 00 05 00}{04 02 00}!\n\n{07 16 00}Personally, I like a little\nmore spice in my stew,\n{01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 16,
+   "en": "{ff 00 00 06}{07 15 00}Phyllis{ff 00 00 00},{01 00 00 05 00} huh{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n{07 00 00}She's all business, but...{01 00 00 05 00}\nshe's all woman, too!\nIf a bug was on your face,\nshe'd probably {07 0b 00}slap it off\nyou without asking.\n{07 07 00}Whoa{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} I think I'm in love, \n{01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 17,
+   "en": "{07 16 00}She's that woman who works\nin the {ff 00 00 08}town hall{ff 00 00 00} during the\nday, {01 00 00 05 00}{04 02 00}.\n{07 14 00}From morning 'til night,{01 00 00 05 00}\nalways smiling.{01 01 00}{07 00 00} I heard{01 00 00 05 00} she\ndoes everything there!\n{07 14 00}Wow, I gotta admire her\nwork ethic, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 18,
+   "en": "{07 16 00}She's that woman who works\nin the {ff 00 00 08}town hall{ff 00 00 00} after\nhours, {01 00 00 05 00}{04 02 00}.\n{07 00 00}One time, I sent a letter\nor something and {01 00 00 05 00}she glared\nat me like I insulted her{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 15 00}Man,{01 00 00 05 00} if looks could maim,\nmy muscles would be like\nhamburger, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 19,
+   "en": "{07 03 00}War har har har har!{01 01 00}\n{07 14 00}Yeah, I guess it'd be tough\nNOT to know that guy!\n{07 15 00}Those greedy little eyes!{01 00 00 0a 00}\nYou see 'em once and never\nforget 'em, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 20,
+   "en": "{07 00 00}Well then, {01 00 00 05 00}lemme tell you.{01 00 00 14 00}\n{07 0e 00}Hmmm...{01 00 00 0a 00} In a nutshell{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n\n{07 15 00}He looks like two stacked\nscoops of furry chocolate\nice cream, {01 00 00 05 00}{04 02 00}!\n{07 16 00}Hm{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} That doesn't help,\ndoes it?",
+   "et": ""
+  },
+  {
+   "id": 21,
+   "en": "{07 15 00}The way I cluttered the\nplace gives it a subtle\nmanliness, huh, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 22,
+   "en": "{07 14 00}I get the occasional roach,{01 00 00 0a 00}\nbut {01 00 00 05 00}I don't let it get to\nme, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 23,
+   "en": "{07 00 00}If anyone would appreciate\nthis room's powerful musk{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n{07 14 00}that person'd be you!",
+   "et": ""
+  },
+  {
+   "id": 24,
+   "en": "{07 15 00}Hey, hold on there!{01 00 00 0a 00} Why so\nenthusiastic?!{01 00 00 05 00} And what's\nwith that look, {01 00 00 05 00}huh?!\nI know{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} You're just waiting\nfor me to turn around so\nyou can snoop!\nYou wanna find my unitard\nstash and try 'em on, don't\nyou, {01 00 00 05 00}{04 02 00}?!",
+   "et": ""
+  },
+  {
+   "id": 25,
+   "en": "{07 02 00}Whoa, {ff 00 00 05}{04 1f 00}{ff 00 00 00}!{01 00 00 0a 00} Better\ncheck yourself before I\nwreck you, {01 00 00 05 00}{04 02 00}!\nWhen I ask you that, you're\nsupposed to scream out,{01 00 00 05 00}\n\"BEST PLACE EVERRRRRRR!\"",
+   "et": ""
+  },
+  {
+   "id": 26,
+   "en": "{07 16 00}No kidding.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{04 02 00}.\n\n\n{07 14 00}Why'd I even ask, right?{01 00 00 05 00}\nI can tell{01 00 00 05 00} you know how\njust by looking at you!",
+   "et": ""
+  },
+  {
+   "id": 27,
+   "en": "{07 15 00}Well, I'm not gonna SHOW\nyou, but lemme TELL you{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n\n{07 00 00}You've gotta do three sets\nof{01 00 00 05 00} 100 push-ups,{01 00 00 05 00} 100 curls,{01 00 00 05 00}\n100 skull-crushers...\n{07 15 00}and three squats every day!{01 01 00}\n{07 07 00}You'll be top-heavy in\nno time, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 28,
+   "en": "{07 15 00}Talk about anti-beefcake!{01 00 00 05 00}\nThat guy's got to man up,\n{01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 29,
+   "en": "{07 0d 00}I bet he's just never felt a\nsquishy grasshopper belly{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\nIt gets me fired up!",
+   "et": ""
+  },
+  {
+   "id": 30,
+   "en": "{07 0b 00}I wonder if he's allergic\nto 'em, {01 00 00 05 00}{04 02 00}...",
+   "et": ""
+  },
+  {
+   "id": 31,
+   "en": "{07 15 00}He musta got sick of city\nlife and moved out to the\ncountry for some peace!\nBig-city life, man{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n{07 06 00}What kind of life is that?!{01 00 00 05 00}\nNot for me, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 32,
+   "en": "{07 00 00}Ever noticed{01 00 00 05 00} that guy\nsleeps all day?{01 00 00 05 00} Ya think he\n{07 0b 00}slept through his classes?{07 00 00}\nMan{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 06 00} I'd go to a school\nwhere you could snooze in\na dang HEARTBEAT!",
+   "et": ""
+  },
+  {
+   "id": 33,
+   "en": "{07 14 00}I went to a university...to\nwatch a killer football\ngame, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 34,
+   "en": "{07 04 00}Hey,{01 00 00 05 00} and just so YOU know,\nit wasn't me, OK!\n\n{07 16 00}I know I'm burly and all,{01 00 00 05 00}\nbut not even I could build\nit alone, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 35,
+   "en": "{07 15 00}You don't think{01 00 00 05 00} {ff 00 00 06}Blathers{ff 00 00 00}\nbuilt it, do ya?{01 00 00 05 00} No way\nhe did, {01 00 00 05 00}{04 02 00}!\n{07 16 00}He may be smart and all,\nbut{01 00 00 05 00} I doubt he has that\nkind of wing strength!",
+   "et": ""
+  }
+ ]
+}

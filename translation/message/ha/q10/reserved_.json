@@ -1,0 +1,20 @@
+{
+ "file": "script/ENG/message/ha/q10/reserved_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 00 00}Time? {04 10 00}:{04 11 00}! Date?\nThe {04 0f 00}!{01 01 00} {07 14 00}I'll keep my\nschedule wiiiiide open!\n{07 00 00}Well, actually, {01 00 00 05 00}{07 03 00}every day is\npretty wide open for me,\n{01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 00 00}We're talking the {04 0f 00},\nright?{01 00 00 05 00} At {04 10 00}:{04 11 00}?{01 01 00} Gotcha!\n\n{07 05 00}I'm getting super pumped{01 00 00 05 00}\njust PICTURING your room,\n{01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 15 00}At {04 10 00}:{04 11 00} on the {04 0f 00}!{01 00 00 05 00}\nMy mental calendar is set!\nIt is ON! \n{07 0d 00}Sweet!{01 00 00 05 00} I'm gonna start\ntraining immediately!",
+   "et": ""
+  }
+ ]
+}

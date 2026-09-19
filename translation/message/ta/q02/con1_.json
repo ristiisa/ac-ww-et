@@ -1,0 +1,20 @@
+{
+ "file": "script/ENG/message/ta/q02/con1_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 16 00}Even a common fish seems\nto disappear the second you\ndecide to fish for it.\n{07 19 00}{0b 03 00}{0b 01 00}{04 1a 00}\nacts like such a boy,\n{01 00 00 0a 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 1c 00}{01 00 00 0a 00}Where, oh, where, can I find{01 00 00 0a 00}\n{04 1a 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 01 00}{01 00 00 14 00}Grrrr!{01 00 00 14 00}{07 1c 00} Where did that\n{07 1c 00}{0b 02 00}{04 1a 00}\ngo{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.",
+   "et": ""
+  }
+ ]
+}

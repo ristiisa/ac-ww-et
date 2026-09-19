@@ -1,0 +1,15 @@
+{
+ "file": "script/ENG/message/fu/q02/pwin_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 02 00}No way! Is that seriously\n{04 1c 00}?\nOh, {01 00 00 05 00}{04 02 00}!\nThere's no doubt about it.\nThat's more rare than my\n{0b 02 00}{04 1d 00}!",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 04 00}Wow! Are you serious? You\nactually caught that\n{0b 02 00}{04 1c 00}?\n{07 00 00}THAT.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}is amazing. {07 16 00}All I\ncaught was this piddling old\n{0b 02 00}{04 1d 00}!\n{07 00 00}Yours is definitely way\nharder to catch than mine.",
+   "et": ""
+  }
+ ]
+}

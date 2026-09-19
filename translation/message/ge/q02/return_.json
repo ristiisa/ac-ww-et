@@ -1,0 +1,20 @@
+{
+ "file": "script/ENG/message/ge/q02/return_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 14 00}Let's see...what should I\ncatch next, {01 00 00 05 00}{04 02 00}?",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 14 00}Where should I put this?{01 00 00 05 00}\nOoooh!{01 00 00 05 00} It's all so exciting,\n{01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 0a 00}YES! {01 00 00 05 00}Now I'm one step closer\nto my awesome dream room,\n{01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  }
+ ]
+}

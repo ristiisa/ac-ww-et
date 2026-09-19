@@ -1,0 +1,20 @@
+{
+ "file": "script/ENG/message/fu/q/preitem_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 14 00}So, yeah, {01 00 00 05 00}I guess I ought\nto give you a reward.",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 00 00}That's just fine. Thanks\nagain. {01 00 00 05 00}Oh, wait! {01 00 00 05 00}{07 14 00}I should\ngive you a reward{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 00 00}I've got a little something\nfor you. It's just my way\nof saying thanks.",
+   "et": ""
+  }
+ ]
+}

@@ -1,0 +1,20 @@
+{
+ "file": "script/ENG/message/ge/q11/trade3_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 1d 00}Oh, {04 1f 00}! {01 00 00 05 00}You have\nsome totally good taste,\n{01 00 00 05 00}{04 02 00}!\n{07 14 00}I call sell you my\n{0b 02 00}{04 1a 00} for\nonly {04 12 00} Bells!{02 04 00 ff ff}\nSOLD!\nWhat?! No way!",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 0e 00}Ooooh...{01 00 00 05 00} Like, my adorable\n{0b 02 00}{04 1a 00} \nwon't go cheap!{01 00 00 05 00} No WAY!\n{07 00 00}Buuuut, I'll sell it to you\nfor{01 00 00 03 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{04 12 00} Bells!!{02 04 00 ff ff}\nDone and done!\nNo thanks.",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 00 00}{0b 03 00}{04 1a 00},\nhuh? {01 00 00 0a 00}{07 0b 00}How about...\n{04 12 00} Bells?!{02 04 00 ff ff}\nI'll take it!\nNot today.",
+   "et": ""
+  }
+ ]
+}

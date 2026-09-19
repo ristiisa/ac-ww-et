@@ -1,0 +1,45 @@
+{
+ "file": "script/ENG/message/ge/ev/birth_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 14 00}{0b 03 00}{04 1f 00}!!",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 14 00}Happy happy birthday,\n{01 00 00 05 00}{04 02 00}!{01 00 00 0f 00} {07 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 02 00}What?!{01 00 00 0a 00} You\nFORGOT your own birthday?!\n{07 03 00}I didn't think that was\npossible!{01 00 00 0a 00} What's wrong with\nyou, {01 00 00 05 00}{04 02 00}?!\n{07 14 00}Anyway, I brought you \na totally cute present!{01 00 00 05 00}\nYou're gonna LOVE it!",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 00 00}{07 0b 00}Hey, {01 00 00 05 00}{04 1f 00}? How do\nyou like it, {01 00 00 05 00}{04 02 00}?",
+   "et": ""
+  },
+  {
+   "id": 3,
+   "en": "{07 14 00}Tee hee!{01 00 00 0a 00} {0b 03 00}{04 1f 00}, I'm\nhappy because YOU'RE happy!\n\n{07 0d 00}But on my birthday,{01 00 00 05 00} make\nsure to bring me a present\nworth TWICE as much!",
+   "et": ""
+  },
+  {
+   "id": 4,
+   "en": "{07 02 00}What?!{01 00 00 0a 00} WHAT?!{01 00 00 0a 00} {07 00 00}{07 16 00}What do you\nMEAN, you don't care how\nmuch it cost?!\n{07 06 00}{0b 03 00}{04 1f 00}, that's SOOOO\nWEIRD, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 5,
+   "en": "{07 00 00}{0b 03 00}{ff 00 00 06}{04 0f 00}{ff 00 00 00},",
+   "et": ""
+  },
+  {
+   "id": 6,
+   "en": "{07 00 00}and {ff 00 00 06}{04 0f 00}",
+   "et": ""
+  },
+  {
+   "id": 7,
+   "en": "{07 14 00}bought this for YOU!",
+   "et": ""
+  }
+ ]
+}

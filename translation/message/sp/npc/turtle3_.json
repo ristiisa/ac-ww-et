@@ -1,0 +1,205 @@
+{
+ "file": "script/ENG/message/sp/npc/turtle3_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 0f 00}{01 00 00 0a 00}Oh, {04 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} I'm so\ntired. {07 16 00}{01 00 00 0a 00}My feet ache from\nstanding here all day.{01 00 00 05 00}.{01 00 00 05 00}.\nI'm not a spring turtle\nanymore, you see.{01 00 00 05 00}.{01 00 00 05 00}.",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 14 00}{01 00 00 0a 00}Hi there, young {04 00 00}!{01 00 00 0a 00}\nStarting today, {04 03 00}\nis a-bloom!\nWhat I mean, sprout,{01 00 00 05 00} is\nthat the {ff 00 00 03}Flower Fest {ff 00 00 00}starts\ntoday!\n{07 00 00}So,{01 00 00 05 00} if you want to learn\nmore about it, {07 14 00}{01 00 00 0a 00}you'd better\nstart buttering me up!{02 04 00 04 06}\nPretty please?\nWhatever.",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 0a 00}{01 00 00 0a 00}A-bloom! {01 00 00 05 00}Ka-bloom!{01 00 00 05 00}\nA-bloom-a-zoom-zoom!{01 00 00 05 00}\n{07 03 00}{01 00 00 0a 00}Heh heh HEEORF!\nToday, {04 03 00} will\nexplode in greenery! {01 01 00}{07 14 00}{01 00 00 0a 00}Why?{01 00 00 05 00}\n'Cause it's the {ff 00 00 03}Flower Fest{ff 00 00 00}!\nAsk me anything about it.{01 00 00 05 00} I\nknow all there is to know.{01 00 00 05 00}\nAre you interested?{02 04 00 04 06}\nYes!\nHardly.",
+   "et": ""
+  },
+  {
+   "id": 3,
+   "en": "{07 09 00}{01 00 00 0a 00}Just as the delicate bloom\nmust lose its color and\nfragrance{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\nSo must the {ff 00 00 03}Flower Fest{ff 00 00 00}\ncome to an end{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 14 00} {07 03 00}HOORF!\n{01 00 00 05 00}I just love tearful endings!",
+   "et": ""
+  },
+  {
+   "id": 4,
+   "en": "{07 00 00}During the {ff 00 00 03}Flower Fest{ff 00 00 00},\nresidents transform the\narea around their home{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 0a 00}into the garden of their\ndreams! {01 01 00}{07 00 00}After everyone in\ntown has done so,\nI will choose the best\ngarden on the last day of\nthe {ff 00 00 03}Flower Fest{ff 00 00 00}.\nThen{01 00 00 05 00} I will grant the best\ngardener the esteemed title\nof {ff 00 00 02}{07 04 00}{01 00 00 0a 00}Green Thumb{ff 00 00 00}!{01 00 00 0f 00}\n{07 03 00}If you continue buttering\nme up, perhaps I will tell\nyou more.{02 04 00 05 06}\nYou're the best!\nNo, thanks.",
+   "et": ""
+  },
+  {
+   "id": 5,
+   "en": "{07 00 00}Lest you get any foolish\nideas,{01 00 00 0a 00} it's not just about\nplanting flowers willy-nilly!\n{07 19 00}A beautiful garden is\nwell planned, {01 00 00 05 00}with a sense\nof order and dignity!\n{07 00 00}But for my money, {07 03 00}{01 00 00 0a 00}I like a\ndazzlingly dense array of\nflowers! {01 00 00 0a 00}Yes, think glamour!",
+   "et": ""
+  },
+  {
+   "id": 6,
+   "en": "{07 09 00}{01 00 00 0a 00}I see{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}. Well, everyone has\nto make their own mistakes,\ndon't they.",
+   "et": ""
+  },
+  {
+   "id": 7,
+   "en": "{07 00 00}Well,{01 00 00 05 00} you should take this,\nsprout.",
+   "et": ""
+  },
+  {
+   "id": 8,
+   "en": "{07 14 00}{01 00 00 0a 00}{0b 03 00}{04 1a 00}!\nFor you!\n\nThis is just a symbol of my\nthanks{01 00 00 05 00} for letting my\nheart's garden bloom.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\nWith arteriosclerosis!{07 03 00}{01 00 00 0f 00} WAAH!{01 00 00 05 00}\nHeh heh heh HOORF!",
+   "et": ""
+  },
+  {
+   "id": 9,
+   "en": "{07 00 00}You might have an idea\nwho the winner will be, but\nyou really have no idea.\nWhen the event ends, the\nwinner's name will be posted\nto the {ff 00 00 08}bulletin board{ff 00 00 00}!\nYou might consider{01 00 00 05 00}\nbuttering me up a little\nin the meantime! {01 00 00 05 00}Heh heh!",
+   "et": ""
+  },
+  {
+   "id": 10,
+   "en": "{07 00 00}I used to be quite a petal-\npusher myself back in the\nday, sprout.\n{07 14 00}{01 00 00 0a 00}Care to hear an old\ngardener's war stories?{02 04 00 00 0b}\nOh, yes!\nZzzzzzzz...",
+   "et": ""
+  },
+  {
+   "id": 11,
+   "en": "{07 11 00}{01 00 00 0a 00}You know you want to,\n{04 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00}",
+   "et": ""
+  },
+  {
+   "id": 12,
+   "en": "{07 00 00}Well,{01 00 00 05 00} how about this one?",
+   "et": ""
+  },
+  {
+   "id": 13,
+   "en": "{07 00 00}Well, just like you have\na birthstone depending on\nthe month you were born{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 0a 00}You also have a birth\nflower! {01 00 00 14 00}{07 0b 00}What's that?{01 00 00 0a 00} You\ndon't know what yours is?\n{07 1c 00}Honestly, {01 00 00 05 00}youth these\ndays!{01 00 00 14 00} {07 00 00}Tell me then,{01 00 00 05 00}\n{07 0b 00}what month were you born?{02 07 00 0f 10 11 12 28}\nJanuary.\nFebruary.\nMarch.\nApril.\n{00 06 00}Another month.",
+   "et": ""
+  },
+  {
+   "id": 15,
+   "en": "{07 0e 00}{01 00 00 05 00}Well, {01 00 00 0f 00}the birth flower for\nJanuary is.{01 00 00 05 00}.{01 00 00 05 00}.{01 01 00}{07 0c 00}the {ff 00 00 02}carnation{ff 00 00 00}!{ff 00 00 02}\n{ff 00 00 00}{07 00 00}It represents {ff 00 00 02}deep love{ff 00 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0f 00}\nAnd is there any love\ndeeper than the love of\na town for its.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}leader?\nAnd is there any greater\ndisplay of love than{01 00 00 0a 00}{07 11 00} a gift\nof fish, Bells, and tulips?\nWell, ahem. Er... {07 03 00}{01 00 00 0a 00}Heh ha ha\nhoorf!{01 00 00 0a 00} Oh my! {01 00 00 05 00}Horf horf\nHEEorf! {01 00 00 05 00}Well, ahh, hmm.{01 00 00 05 00}.{01 00 00 05 00}.",
+   "et": ""
+  },
+  {
+   "id": 16,
+   "en": "{07 0e 00}{01 00 00 05 00}Yes!{01 00 00 0f 00} The birth flower for\nFebruary is the.{01 00 00 05 00}.{01 00 00 05 00}.{01 01 00}{07 0c 00}{ff 00 00 02}violet{ff 00 00 00}! {01 00 00 0f 00}{07 00 00}It\nstands for {ff 00 00 02}purity{ff 00 00 00}, sprout.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0f 00}\n{07 17 00}{01 00 00 0a 00}I'm reminded of the purity\nof my young heart as I\ncame out of my shell.{01 00 00 0a 00}\nI had a way with the ladies{07 02 00}.\n{01 00 00 14 00}{07 0f 00}That was a long time ago.\n{01 00 00 0f 00}Oh, {01 00 00 0a 00}my aching shell!",
+   "et": ""
+  },
+  {
+   "id": 17,
+   "en": "{07 0e 00}{01 00 00 05 00}Hmm, {01 00 00 0f 00}the birth flower for\nMarch is the.{01 00 00 05 00}.{01 00 00 05 00}.{01 01 00}{07 0c 00}{ff 00 00 02}daffodil{ff 00 00 00}!\n{07 00 00}It stands for {ff 00 00 02}affection{ff 00 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0f 00}\nHow nice. {07 14 00}{01 00 00 0a 00}Yeppers, I sure do\nlike affection.\n\n{07 03 00}So, {01 00 00 0a 00}What say you?{01 00 00 0a 00} Want to\ngive the old man a cuddle?\n{01 00 00 0a 00}C'mere, you!",
+   "et": ""
+  },
+  {
+   "id": 18,
+   "en": "{07 0e 00}{01 00 00 05 00}Hmm, {01 00 00 0f 00}the birth flower for\nApril is the.{01 00 00 05 00}.{01 00 00 05 00}.{01 01 00}{07 0c 00}{ff 00 00 02}daisy{ff 00 00 00}!\n{07 00 00}It stands for {ff 00 00 02}playfulness{ff 00 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0f 00}\nWhy, I can be a playful li'l\npup myself, {01 00 00 05 00}when the old\nshell isn't acting up!\n{07 03 00}{01 00 00 0a 00}Even as a serious public\nofficial, {07 00 00}{01 00 00 05 00}I do so enjoy a\nbrutal game of dodgeball!",
+   "et": ""
+  },
+  {
+   "id": 19,
+   "en": "{07 0e 00}{01 00 00 05 00}Hm, {01 00 00 0f 00}the birth flower for\nMay is the.{01 00 00 05 00}.{01 00 00 05 00}.{01 01 00}{07 0c 00}{ff 00 00 02}lily{ff 00 00 00}!\n{07 00 00}It stands for {ff 00 00 02}humility{ff 00 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0f 00}\nNow, you wouldn't think so\nbased on my accomplished\npast, but I'm quite humble.\n{07 15 00}{01 00 00 0a 00}What are you saying!{01 00 00 0f 00}\nI am most definitely more\nhumble than you!\n.{01 00 00 05 00}.{01 00 00 05 00}.{07 14 00}{01 00 00 0a 00}Now, that didn't quite\ncome out the way I wanted,\ndid it?{01 00 00 05 00} Ah, well.",
+   "et": ""
+  },
+  {
+   "id": 20,
+   "en": "{07 0e 00}{01 00 00 05 00}Hm, {01 00 00 0f 00}the birth flower for\nJune is the.{01 00 00 05 00}.{01 00 00 05 00}.{01 01 00}{07 0c 00}{ff 00 00 02}rose{ff 00 00 00}! {07 00 00}It\nstands for {ff 00 00 02}beauty{ff 00 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0f 00}\nMrs. Tortimer was a real\nbeauty. {01 00 00 05 00}{07 13 00}Oh yes, she even\nmodeled for Tortoise Wax.\nUntil the, er, {01 00 00 0a 00}{07 0f 00}accident.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0f 00}\nToo much wax makes for a\ndangerously slippery shell...",
+   "et": ""
+  },
+  {
+   "id": 21,
+   "en": "{07 0e 00}{01 00 00 05 00}Well, {01 00 00 0f 00}the birth flower for\nJuly is the.{01 00 00 05 00}.{01 00 00 05 00}.{01 01 00}{07 0c 00}{ff 00 00 02}tulip{ff 00 00 00}!{01 00 00 05 00}\n{07 00 00}It stands for {ff 00 00 02}good luck{ff 00 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0f 00}\n{07 1d 00}I had a spot of good luck\nthe other day.{01 00 00 05 00}{07 00 00} I was making\na smelt-and-jelly sandwich,\nand I dropped the bread\nwith jelly on it.{01 01 00}{07 0a 00} And\nit landed jelly-side up!\n{07 14 00}{01 00 00 0f 00}There's nothing worse than\na smelt-and-jelly-and-lint\nsandwich, sprout!",
+   "et": ""
+  },
+  {
+   "id": 22,
+   "en": "{07 0e 00}{01 00 00 05 00}Well, {01 00 00 0f 00}the birth flower for\nAugust is the.{01 00 00 05 00}.{01 00 00 05 00}.{01 01 00}{07 0c 00}{ff 00 00 02}gladiola{ff 00 00 00}!{01 00 00 0f 00}\n{07 00 00}It stands for {ff 00 00 02}marriage{ff 00 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0f 00}\n{07 0b 00}Have you been married?{01 00 00 0f 00}\n{07 0e 00}No, I suppose we DO have\na human shortage here.{01 00 00 05 00}\nAnyhoo, the experts agree{07 19 00}{01 00 00 0f 00}\nthat marriage makes you\nlive longer.\n{07 03 00}{01 00 00 0a 00}That's my secret.{01 00 00 0a 00} If I get\nmarried a few more times,\nmaybe I can live forever!",
+   "et": ""
+  },
+  {
+   "id": 23,
+   "en": "{07 0e 00}{01 00 00 05 00}Hm, {01 00 00 0f 00}the birth flower for\nSeptember is the.{01 00 00 05 00}.{01 00 00 05 00}.{01 01 00}{07 0c 00}{ff 00 00 02}aster{ff 00 00 00}!\n{07 00 00}It stands for {ff 00 00 02}devotion{ff 00 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0f 00}\nMe? {01 00 00 05 00}I'm devoted to my job.{01 00 00 05 00}\nI mean.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} It's important\nthat I stand here all day.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 1d 00}{01 00 00 0a 00}Looking for villains!{01 00 00 0a 00} I'm all\nthat stands between the\ntownsfolk and mortal peril!{07 00 00}\n.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}So?{01 00 00 0f 00} Have you gone silent\nwith awe at a true defender\nof justice?\n{07 03 00}{01 00 00 0a 00}Oh ho! {01 00 00 05 00}Heh heh heh hoorf!\nHoo! {01 00 00 05 00}HEEORF!",
+   "et": ""
+  },
+  {
+   "id": 24,
+   "en": "{07 0e 00}{01 00 00 05 00}Well, {01 00 00 0f 00}it seems that the\nbirth flower for October is\nthe.{01 00 00 05 00}.{01 00 00 05 00}.{01 01 00}{07 0c 00}{ff 00 00 02}cosmos{ff 00 00 00}!\n{07 00 00}It stands for {ff 00 00 02}joy{ff 00 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0f 00}\nWe all need to have some\njoy in our lives, right?{01 00 00 05 00}\nMy main source of joy is\nwatching the town change\nfrom month to month.{01 00 00 05 00}.{01 00 00 05 00}.{07 19 00}{01 00 00 0f 00}\nIt's wonderful to feel\nconnected to a place,\ndon't you think?\n{07 03 00}{01 00 00 0a 00}Well,{01 00 00 0a 00} maybe I just say that\nbecause I'm too old to\nleave, sprout!",
+   "et": ""
+  },
+  {
+   "id": 25,
+   "en": "{07 0e 00}{01 00 00 05 00}Yes, {01 00 00 0f 00}the birth flower for\nNovember is the.{01 00 00 05 00}.{01 00 00 05 00}.{01 01 00}\n{07 0c 00}{ff 00 00 02}chrysanthemum{ff 00 00 00}!\n{07 00 00}It stands for compassion.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0f 00}\nWe all need a little\nunderstanding sometimes.\nWhy, the other day,{01 00 00 05 00}{07 16 00} I fell\non my back and couldn't\nright myself!{01 00 00 0f 00} {01 00 00 05 00}Just horrible.\n{07 15 00}{01 00 00 05 00}What made it even worse\n{01 00 00 05 00}was that I thought someone\nmight laugh at me!{01 00 00 0a 00}\nBut not to worry! Some do-\ngooder flipped me over! I\nnever even saw his face!\n{07 03 00}{01 00 00 0f 00}How's that for compassion?{01 00 00 0f 00}\nHeh heh haw! {01 00 00 05 00}Heh heh horf!",
+   "et": ""
+  },
+  {
+   "id": 26,
+   "en": "{07 0e 00}{01 00 00 05 00}Hm, {01 00 00 0f 00}the birth flower for\nDecember is.{01 00 00 05 00}.{01 00 00 05 00}.{01 01 00}{07 0c 00}{ff 00 00 02}holly{ff 00 00 00}!{01 00 00 0f 00} {07 1b 00}Well,{01 00 00 05 00} no\nbig surprises there.\n{07 00 00}It stands for {ff 00 00 02}success{ff 00 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0f 00}\nDo you know the secret to\nsuccess, youngster?\n{07 13 00}{01 00 00 0a 00}Do something you love!{07 00 00}{01 00 00 0a 00} Then\nyou'll love what you do!{01 01 00}\n{07 17 00}{01 00 00 0a 00}What do I love, you ask?\n{07 17 00}Well, {01 00 00 05 00}heh heh.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} That's\nbetween me and my\nprobation officer, sprout!\n{07 03 00}{01 08 00}I'M JUST JOKING! {01 00 00 05 00}And I just\nlooove my jokes! {01 00 00 05 00}Heh heh\nHOOORF!",
+   "et": ""
+  },
+  {
+   "id": 28,
+   "en": "{07 0e 00}Have you ever noticed that\n{ff 00 00 02}snapdragons{ff 00 00 00} look a bit like{01 00 00 0a 00}\nrabbit faces?\n{07 00 00}That's why I've never\nfavored bouquets that\nfeature them heavily.\n{07 16 00}The idea of hundreds of\nrabbit faces giving me{01 00 00 05 00}\nthe eyeless stare{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\nWatching me as I count my\nBells{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}. {01 01 00}{01 08 00}EEEeeyeech!{01 01 00} {07 16 00}It's too\nfrightening for words!",
+   "et": ""
+  },
+  {
+   "id": 29,
+   "en": "{07 0e 00}{01 00 00 0a 00}Hmm.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} Now where was I? {01 01 00}{07 16 00}{01 00 00 0a 00}I'm\nsorry, {01 00 00 05 00}sprout, but my train\nof thought has derailed.",
+   "et": ""
+  },
+  {
+   "id": 30,
+   "en": "{07 00 00}Oops, I've already said too\nmuch! {01 00 00 0a 00}If I don't keep a few\nthings to myself...\n{07 03 00}...someone else will decide\nthey can do my job!{01 00 00 14 00} Hoo\nhoo horf! {01 00 00 05 00}Hee heeorf!",
+   "et": ""
+  },
+  {
+   "id": 31,
+   "en": "{07 00 00}When you put flowers in a\nvase, sugar in the water\nmakes them last longer!\n{07 14 00}{01 00 00 0a 00}And that's just a little\nmayoral advice for you,\n{04 00 00}.",
+   "et": ""
+  },
+  {
+   "id": 32,
+   "en": "{07 00 00}Do you know how to choose\nflowers at a florist,\n{01 00 00 05 00}{04 00 00}?\nHold on tightly to a picture\nof the recipient, {01 00 00 05 00}spin in\nplace, {01 00 00 05 00}and shout, {01 08 00}\"AWAAAIII!\"\n{07 11 00}{01 00 00 0a 00}Then{01 00 00 0a 00}--and this is the key\npart--{01 00 00 0a 00}ask the clerk to\npick out something nice.{01 00 00 05 00}.{01 00 00 05 00}.",
+   "et": ""
+  },
+  {
+   "id": 33,
+   "en": "{ff 00 00 02}{07 00 00}Cyclamen{ff 00 00 00} are lovely, much\nlike me, but they also go\nby the unfortunate name...\n\"sowbread.\" {01 01 00}{07 14 00}{01 00 00 0a 00}I believe it's\nbecause pigs love the roots\nof this flower.{01 00 00 0f 00}{07 00 00}\nFunny, {01 00 00 0a 00}I've always thought\nof my charms as pearls laid\nbefore swine.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}",
+   "et": ""
+  },
+  {
+   "id": 34,
+   "en": "{07 14 00}{01 00 00 0a 00}I am a fan of {ff 00 00 02}glorias{ff 00 00 00},\nwhich, as you know, bloom in\nthe summer{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 17 00}{01 00 00 0a 00}I suppose it makes me think\nof the glory of my position\nas {ff 00 00 06}mayor{ff 00 00 00}.{07 03 00}{01 00 00 0a 00}\nHeh heh horf! {01 00 00 05 00}Well, maybe I\njust wanted to say that out\nloud!",
+   "et": ""
+  },
+  {
+   "id": 35,
+   "en": "{07 15 00}{01 00 00 0a 00}Now, {04 00 00}, remember\nto be patient with your\nelders!\nThey may be forgetful, or{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\nEr{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}. {07 0b 00}What was I saying\nagain, sprout?",
+   "et": ""
+  },
+  {
+   "id": 36,
+   "en": "{07 01 00}Drat!{01 00 00 0f 00} If we could eat\nflowers, we'd never have\nany troubles!\n{07 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 15 00}What's that, sprout?{01 00 00 14 00}\n{07 03 00}Oh,{01 00 00 05 00} just talking to myself\nagain.",
+   "et": ""
+  },
+  {
+   "id": 37,
+   "en": "{ff 00 00 02}{07 00 00}Orchids{ff 00 00 00} stand for {ff 00 00 02}talent{ff 00 00 00}{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.{01 01 00}\n{07 19 00}{01 00 00 0a 00}It's as if someone designed\nthat flower just for me.\n{07 0b 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}What's that, {04 00 00}?{01 00 00 05 00}\n{07 17 00}{01 00 00 0a 00}Aww, shucks,{01 00 00 05 00} I'm not so good\nat taking compliments.",
+   "et": ""
+  },
+  {
+   "id": 38,
+   "en": "{07 00 00}So I was watering my\nflowers one day, and as I\nleaned over, I heard a{01 00 00 0a 00}{07 02 00}{01 00 00 0a 00} SNAP!\n{07 16 00}{01 00 00 05 00}The rest is just too\ndifficult to share with you\nright now.",
+   "et": ""
+  },
+  {
+   "id": 40,
+   "en": "{07 00 00}So,{01 00 00 05 00} one of these then?{02 07 00 13 14 15 16 29}\nMay.\nJune.\nJuly.\nAugust.\n{00 06 00}Another month.",
+   "et": ""
+  },
+  {
+   "id": 41,
+   "en": "{07 00 00}So, {01 00 00 05 00}one of these?{02 07 00 17 18 19 1a 2a}\nSeptember.\nOctober.\nNovember.\nDecember.\n{00 06 00}Another month.",
+   "et": ""
+  },
+  {
+   "id": 42,
+   "en": "{07 00 00}Huh?!{01 00 00 0f 00} OK, then...{02 07 00 0f 10 11 12 28}\nJanuary.\nFebruary.\nMarch.\nApril.\n{00 06 00}Another month.",
+   "et": ""
+  }
+ ]
+}

@@ -1,0 +1,20 @@
+{
+ "file": "script/ENG/message/ko/q01/comp_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 14 00}Living with a bug in your\nroom isn't half as awful as\nI thought it'd be.",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 00 00}You know what, {01 00 00 05 00}{04 1f 00}?{01 00 00 14 00}\n{07 0d 00}I'm totally getting into\ndecorating with bugs!",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 14 00}So I'm displaying this\nfeisty little bug in my\nroom, {01 00 00 05 00}{04 02 00}!\n{07 0d 00}Now it's even more like I'm\ncommuning with nature.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}all\nthe time!\nHopefully, the little beast\nwon't escape {07 07 00}and eat my\nhouse or something.",
+   "et": ""
+  }
+ ]
+}

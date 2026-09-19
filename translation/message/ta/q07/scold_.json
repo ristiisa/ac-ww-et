@@ -1,0 +1,20 @@
+{
+ "file": "script/ENG/message/ta/q07/scold_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 1b 00}If you can't do something,\nyou shouldn't tell someone\nyou will, {01 00 00 0a 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 1b 00}Don't take a job if you\nknow you can't finish it,\n{01 00 00 0a 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 16 00}What? Was it too heavy\nfor you to carry or\nsomething, {01 00 00 0a 00}{04 02 00}?",
+   "et": ""
+  }
+ ]
+}

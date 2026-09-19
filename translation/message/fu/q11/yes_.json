@@ -1,0 +1,20 @@
+{
+ "file": "script/ENG/message/fu/q11/yes_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 14 00}It's a deal! I don't know\nabout you, but I'm happy\nwith this!\nI get {04 12 00} Bells,\nand you get a nice\n{0b 02 00}{04 1a 00}!",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 14 00}Nice doing business with\nyou, {01 00 00 05 00}{04 02 00}!\n\n{07 0d 00}And let me tell you, you\ngot a great deal on that\n{0b 02 00}{04 1a 00}!",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 00 00}Sure, {04 12 00} Bells?\nYou've got yourself a\ndeal, {01 00 00 05 00}{04 02 00}!\n{07 14 00}I think that's about what I\npaid when I bought that\n{0b 02 00}{04 1a 00}.{01 00 00 05 00}.{01 00 00 05 00}.",
+   "et": ""
+  }
+ ]
+}

@@ -1,0 +1,135 @@
+{
+ "file": "script/ENG/message/fu/tsu/drama_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "Is it just me,{01 00 00 05 00}{07 16 00} or does\n{ff 00 00 06}Blathers {ff 00 00 00}look a bit mopey\nlately, {01 00 00 05 00}{04 02 00}?\nI think there's something\nbothering him. {07 10 00}I wish he'd\ntalk to me, {01 00 00 05 00}{04 02 00}.",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "Did you see {ff 00 00 06}Blathers{ff 00 00 00}?{01 00 00 05 00} He\nlooked pretty down today,\nwouldn't you say?\n{06 01 00 17 18 19}",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "I was just over at the\n{ff 00 00 08}museum{ff 00 00 00}, checking out the\ncollection, you know?\n{07 16 00}Is it just me, or is the\nwhole atmosphere over\nthere just kinda.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}somber?\nIt's usually so exciting.\n{07 0b 00}I wonder what was throwing\noff the vibe, {01 00 00 05 00}{04 02 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}",
+   "et": ""
+  },
+  {
+   "id": 3,
+   "en": "{ff 00 00 06}Tom Nook{ff 00 00 00}'s a great guy and\nall, but he's only human,{01 00 00 05 00} so\nto speak.\n{07 14 00}I'm sure he's got his own\nshare of {01 00 00 05 00}problems and \nworries, {01 00 00 05 00}{04 02 00}.",
+   "et": ""
+  },
+  {
+   "id": 4,
+   "en": "{07 0e 00}I went by {ff 00 00 06}Nook{ff 00 00 00}'s shop\ntoday.{01 00 00 05 00} If you ask me, he\nwas acting a little strange.\n{07 00 00}I couldn't quite say what it\nwas,{01 00 00 05 00} but I'd love to lend an\near.{01 01 00} {07 14 00}At no extra charge!",
+   "et": ""
+  },
+  {
+   "id": 5,
+   "en": "Who knew ol' {ff 00 00 06}Tom Nook{ff 00 00 00} had\nsuch a troubled past?\n\n{07 0e 00}What sort of dark secrets\ndo you think he could be\nhiding?\n{07 00 00}He told me a little about\nit, but I couldn't get him\nto say much, {01 00 00 05 00}{04 02 00}.",
+   "et": ""
+  },
+  {
+   "id": 6,
+   "en": "I just overheard the most\ninteresting thing when I\nwas at the tailor.\n{07 06 00}But you can't tell anyone,\n{04 1f 00}. It's a secret,\n{01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 7,
+   "en": "{ff 00 00 06}Mabel {ff 00 00 00}seems like the quiet\ntype most of the time.\n\n{07 14 00}But once she opens up to\nyou,{01 00 00 05 00} she tells the most\nfascinating stories.\n{07 00 00}Why, just today, she told\nme{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 01 00} {07 14 00}Sorry, {01 00 00 05 00}{04 1f 00},\nit's a secret! {01 00 00 05 00}{0b 03 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 8,
+   "en": "I heard the most surprising\nstory from {ff 00 00 06}Mabel {ff 00 00 00}and {ff 00 00 06}Sable{ff 00 00 00}\ntoday, {01 00 00 05 00}{04 02 00}.\nI really want to tell you,\n{07 16 00}but I promised to keep it\nsecret! Sorry, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 9,
+   "en": "Is it just me,{07 16 00} or do {ff 00 00 06}Pelly{ff 00 00 00}\nand {ff 00 00 06}Phyllis {ff 00 00 00}seem to have,\num, a few problems?\n{07 00 00}You know what I mean.{01 00 00 05 00}\n{07 11 00}Relationship problems.\n\nSo is it just me, {07 0e 00}or does\n{ff 00 00 06}Phyllis {ff 00 00 00}have a lot more boy\ntrouble than her sister?",
+   "et": ""
+  },
+  {
+   "id": 10,
+   "en": "Lately,{01 00 00 05 00} whenever I stop in\nat the {ff 00 00 08}town hall{ff 00 00 00},{01 00 00 05 00} I hear all\nkinds of interesting gossip.\n{07 16 00}It's gotten to the point\nthat I go there even when I\ndon't have any reason!",
+   "et": ""
+  },
+  {
+   "id": 11,
+   "en": "{0b 03 00}{04 1f 00}, {01 00 00 0f 00}{07 0b 00}have you\nstopped in at the {ff 00 00 08}town hall{ff 00 00 00}\ntoday, {01 00 00 05 00}{04 02 00}?\n{07 14 00}If you get lucky, you might\ncatch some juicy gossip.",
+   "et": ""
+  },
+  {
+   "id": 12,
+   "en": "I don't know what was up,{01 00 00 05 00}\nbut {07 16 00}{ff 00 00 06}Sable{ff 00 00 00}{01 00 00 05 00} was totally\nspacing out today.\n{07 06 00}I hope she's careful, or\nshe might wind up stitching\nher fingers together!",
+   "et": ""
+  },
+  {
+   "id": 13,
+   "en": "{07 14 00}{ff 00 00 06}Mabel {ff 00 00 00}is{01 00 00 05 00} awfully sweet. \nYou can tell she cares a\nlot about her big sister.\n{06 03 00 13 14}",
+   "et": ""
+  },
+  {
+   "id": 14,
+   "en": "{07 04 00}It's stew for dinner\ntomorrow! Isn't that\nexciting, {01 00 00 05 00}{04 02 00}?\n{07 14 00}Hm? Oh, that's what {ff 00 00 06}Sable\n{ff 00 00 00}and {ff 00 00 06}Mabel{ff 00 00 00} are having.{01 00 00 05 00} I\nheard them talking earlier.",
+   "et": ""
+  },
+  {
+   "id": 15,
+   "en": "Can I ask you a question?\n{07 0e 00}How old do I look?\n\n{07 16 00}No, don't answer! {01 00 00 05 00}{ff 00 00 06}Sable{ff 00 00 00} just\ntold me she's jealous of\nhow young I look.\nThe thing is, {07 09 00}I'm not sure\nshe meant it as a\ncompliment, {01 00 00 05 00}{04 02 00}.",
+   "et": ""
+  },
+  {
+   "id": 16,
+   "en": "{06 02 00 40 16 15}",
+   "et": ""
+  },
+  {
+   "id": 17,
+   "en": "Lately, {01 00 00 05 00}whenever I go by\nthe tailor, I can hear all\nkinds of interesting tales.\n{07 0d 00}It's getting so I have to\nfind excuses to stop in\nmore often, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 18,
+   "en": "{07 14 00}{ff 00 00 06}Sable {ff 00 00 00}told me the most\nwonderful story.\n\n{07 13 00}It was about a lovely\nconstellation.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{04 02 00}.\n\n{07 14 00}If it were me, I'd call\nit the {04 15 00}\nconstellation or something.",
+   "et": ""
+  },
+  {
+   "id": 19,
+   "en": "{07 00 00}If you had a younger sister\nlike her, {04 1f 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n\n{07 14 00}I'm sure you would be very\nproud, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 20,
+   "en": "{07 00 00}What if you were {07 0e 00}{ff 00 00 06}Mabel{ff 00 00 00}'s big\nsister, {04 1f 00}?\n\n{07 14 00}I'm sure you'd be a good\nsister to her,{01 00 00 05 00} in your own\nway.",
+   "et": ""
+  },
+  {
+   "id": 21,
+   "en": "{07 00 00}{ff 00 00 06}Sable {ff 00 00 00}and {ff 00 00 06}Mabel{ff 00 00 00}\ntold me an interesting\nstory, {01 00 00 05 00}{04 02 00}.\n{07 0e 00}It was something about a\nletter.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} A very important\nletter, {01 00 00 05 00}{04 02 00}.\n{07 00 00}It would be like if I got\na letter from {07 0b 00}{04 0e 00}.\nYeah...that important!",
+   "et": ""
+  },
+  {
+   "id": 22,
+   "en": "{07 00 00}{ff 00 00 06}Sable {ff 00 00 00}and {ff 00 00 06}Mabel {ff 00 00 00}told me the\nmost fascinating story,\n{01 00 00 05 00}{04 02 00}.\n{07 0e 00}Something about a letter.{01 00 00 05 00}.{01 00 00 05 00}.\nIt must be an important\nletter, {01 00 00 05 00}{04 02 00}.\n{07 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}It must be like if I got\na letter from {07 0d 00}{04 1f 00}!",
+   "et": ""
+  },
+  {
+   "id": 23,
+   "en": "{07 16 00}I think he must be pushing\nhimself too hard. He needs\nsome rest.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{04 02 00}.",
+   "et": ""
+  },
+  {
+   "id": 24,
+   "en": "{07 0b 00}Do you think someone gave\nsomething really awful to\nthe {ff 00 00 08}museum{ff 00 00 00}, {01 00 00 05 00}{04 02 00}?",
+   "et": ""
+  },
+  {
+   "id": 25,
+   "en": "{07 10 00}I wish there were something\nI could do to help the\npoor bird, {01 00 00 05 00}{04 02 00}.",
+   "et": ""
+  }
+ ]
+}

@@ -1,0 +1,20 @@
+{
+ "file": "script/ENG/message/ko/q02/pay_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 00 00}Well,{01 00 00 05 00} I have to give you a\nbig nod for delivering that\n{0b 02 00}{04 1a 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 14 00}Here, this is for you...\n{0b 03 00}{04 1b 00}!\nEnjoy, {01 00 00 05 00}{04 02 00}.",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 14 00}I want you to take my\n{0b 02 00}{04 1b 00}!{01 00 00 14 00}\nSeriously, I don't want it!",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 00 00}I guess I'll give you my\n{0b 02 00}{04 1b 00}.{01 00 00 05 00}\nGo crazy.",
+   "et": ""
+  }
+ ]
+}

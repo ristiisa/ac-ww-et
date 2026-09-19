@@ -1,0 +1,20 @@
+{
+ "file": "script/ENG/message/ta/q10/back_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 14 00}Well, {01 00 00 0a 00}I think I've{01 00 00 05 00}\nexperienced all that your\nplace has to offer.\n{07 00 00}I think{01 00 00 03 00} the hour {01 00 00 05 00}that I\nretire to my own quarters\nis drawing near{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.\n{07 14 00}Thank you so much for\ngraciously inviting me into\nyour home, {01 00 00 0a 00}{04 02 00}.",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 04 00}Oh!{01 00 00 0a 00} It's already {04 08 00}:{04 09 00}!\n{01 01 00}{07 00 00}I was having so much fun\nthat I lost track of time!\n{07 14 00}I've got plans after this,{01 00 00 0a 00}\nso I think it best that\nI go now, {01 00 00 0a 00}{04 02 00}.",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 00 00}Well, then{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 14 00} I think I should\nbe going soon. {01 00 00 0a 00}It's about\nthat time, {04 02 00}.\n{07 14 00}Seeing your house{01 00 00 05 00} has\nfueled my desire to\nreinvent my own space.\n{07 00 00}I think I'll even stop by\n{ff 00 00 06}Tom Nook{ff 00 00 00}'s on the way\nhome, {01 00 00 0a 00}{04 02 00}!",
+   "et": ""
+  }
+ ]
+}

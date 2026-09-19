@@ -1,0 +1,30 @@
+{
+ "file": "script/ENG/message/fu/tsu/no_hint_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "I don't know how you spend\nyour days, {04 1f 00}.\n\nMaybe you run around\ncatching bugs or cleaning\nyour {04 15 00},\nor maybe you just sit\non your keister all\nday, {01 00 00 05 00}{04 02 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\nBut {01 00 00 05 00}{07 0b 00}don't you think it'd be\na better use of your day\nto go out for a nice walk?{02 00 00 03 04}\nI totally agree!\nI doubt it.",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "Don't be in such a rush all\nthe time. Stop and shake a\ntree or pluck a weed!\n{07 14 00}Or just go out for a nice,\nquiet walk! You might find\nsomething interesting.",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 14 00}Walking's good exercise, it's\ntrue. And not just for the\nbody, but for the mind!\n{07 00 00}When you go out for a walk,\nyou're free to let your\nmind wander and explore.",
+   "et": ""
+  },
+  {
+   "id": 3,
+   "en": "{07 00 00}See? I'm glad you know how\nto stop and enjoy life.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n\n{07 14 00}Most folks are in too much\nof a rush these days, don't\nyou think, {01 00 00 05 00}{04 02 00}?",
+   "et": ""
+  },
+  {
+   "id": 4,
+   "en": "{07 06 00}Oh, you'd better believe it!{01 00 00 0f 00}\nTry it out, {01 00 00 05 00}{04 02 00}! I\npromise you'll like it.",
+   "et": ""
+  }
+ ]
+}

@@ -1,0 +1,20 @@
+{
+ "file": "script/ENG/message/ha/q07/open_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 04 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}What?!{01 00 00 05 00} That can't be...{01 00 00 05 00}\n{07 0b 00}Is that the letter I asked\nyou to deliver?!\n{07 01 00}What's your prob?!{01 00 00 14 00} That's...{01 00 00 05 00}\nThat's{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.against the Animal{01 00 00 05 00}\nPrivacy Act, {01 00 00 05 00}{04 02 00}!\n{07 15 00}Or it should be!{01 00 00 05 00} Either way,\ngimme back that letter!{03 02 00 01}",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}I can't help but notice...{01 00 00 05 00}\nThat letter is{01 00 00 05 00} {07 0b 00}the one I \nasked you to deliver, huh?\n{07 05 00}Then WHY is it open?{01 01 00}\nYou're disqualified as my \nbud, bud! {01 00 00 05 00}You heard me!\n{07 15 00}You're a jerk!{01 00 00 05 00} Why would you\ndo that?!{01 00 00 05 00} Gimme the letter\nback, {01 00 00 05 00}{04 02 00}!{03 02 00 01}",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 00 00}Whoa whoa whoa, hang on...{01 00 00 05 00}\n{07 0b 00}My letter to {ff 00 00 06}{04 10 00}{ff 00 00 00}?{01 01 00}\n{07 00 00}How come you still have it?\n{01 00 00 05 00}{07 1d 00}AAARGH! {01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}LOOK AT THE SEAL!{01 00 00 05 00}\nThat thing is already open!{01 01 00}\n{07 01 00}You READ this?!\n{07 15 00}NO!{01 00 00 14 00} No, shut your trap, I\ndon't even wanna hear it!{01 00 00 14 00}\nJust give it back to me!{03 02 00 01}",
+   "et": ""
+  }
+ ]
+}

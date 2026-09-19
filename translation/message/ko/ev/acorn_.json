@@ -1,0 +1,110 @@
+{
+ "file": "script/ENG/message/ko/ev/acorn_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 00 00}Hey, {01 00 00 05 00}{04 1f 00},{01 00 00 0f 00} in one\nweek, we'll have all the\nacorns we want!\n{07 0b 00}What am I talking about?{01 01 00}\n{07 00 00}Well, there are no stupid\nquestions{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\nBut that one is downright\ndumb! {01 00 00 05 00}{07 01 00}Haven't you heard of\nthe {ff 00 00 03}Acorn Festival{ff 00 00 00}?!{01 00 00 14 00}",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 00 00}Whoa,{01 00 00 05 00} {04 1f 00}!{01 00 00 14 00}\nThe {ff 00 00 03}Acorn Festival{ff 00 00 00} starts\ntoday!\n{07 0d 00}I'm talking 'bout free\nacorns for a whole week,\nknow what I mean?\nGet 'em while they're, uh,{01 00 00 05 00}\non the ground!",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 14 00}Yo, {01 00 00 05 00}{04 1f 00}.{01 00 00 0f 00} You\ngathering acorns?\n\n{07 0e 00}This is the one time of\nyear when it's OK to act\nlike a total kid{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 15 00}I mean, is there anything\nbetter than hoarding\nmassive piles of acorns?\n{07 1b 00}Then all of the village\nidiots get all huffy when I\nwon't give them any!\n{07 0d 00}Awww...it really takes\nme back, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 3,
+   "en": "{07 00 00}I know it's not like me to\nget all giddy and stuff{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n\n{07 0d 00}But acorn-hoarding gets\nme in the loopiest mood!{01 01 00}\n{07 03 00}Whooohahaha!",
+   "et": ""
+  },
+  {
+   "id": 4,
+   "en": "{07 14 00}Hey, {04 1f 00},{01 00 00 0f 00} how many\nacorns have you found,\n{01 00 00 05 00}{04 02 00}?\n{07 00 00}You need to go nuts during\nthe {ff 00 00 03}Acorn Festival{ff 00 00 00}!\n\n{07 11 00}Unleash your mad acorn\nlust, you wild beast, you!",
+   "et": ""
+  },
+  {
+   "id": 5,
+   "en": "{07 15 00}Hey, {04 1f 00},{01 00 00 0f 00} today's\nthe last day of the\n{ff 00 00 03}Acorn Festival{ff 00 00 00}.\n{07 00 00}Grab the last few memories\nof sweet, sweet childhood\nand bring 'em to...\n{07 0e 00}Tort--{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} Wait, no!{01 00 00 0f 00}\n{07 15 00}{ff 00 00 06}Cornimer{ff 00 00 00}, dadblastit!\n{01 00 00 05 00}{0b 03 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 6,
+   "en": "{07 00 00}Whoa there,{01 00 00 05 00} {04 1f 00}.{01 00 00 0f 00}\nToday's the last day of\nthe {ff 00 00 03}Acorn Festival{ff 00 00 00}!\n{07 16 00}I have so many memories\nof stealing and hoarding\nacorns as a kid.\nBut pretty soon it'll be{07 1c 00}\nback to boring ol'\ngrown-up land, {01 00 00 05 00}{04 02 00}.",
+   "et": ""
+  },
+  {
+   "id": 7,
+   "en": "{07 00 00}Let's get all them...{01 00 00 05 00}\n{07 14 00}AAAAAA-CORNS, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 8,
+   "en": "{07 18 00}Well, hey!{01 00 00 0f 00} If it isn't the\nacorniest kid around{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n{04 1f 00}, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 9,
+   "en": "You know, I could almost\nsnack on one of these\nacorns right now.",
+   "et": ""
+  },
+  {
+   "id": 10,
+   "en": "Acorn-plunderin'{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 14 00} {07 11 00}It's\ngotta be my true purpose\nin life!",
+   "et": ""
+  },
+  {
+   "id": 11,
+   "en": "{07 16 00}You know, oak trees grow\nnaturally, not when you try\nto plant an acorn{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n{07 15 00}I guess some things have\njust gotta happen on their\nown, {01 00 00 05 00}{04 02 00}.",
+   "et": ""
+  },
+  {
+   "id": 12,
+   "en": "{07 15 00}Maybe we can eat 'em on\nbread? Y'know...hot, buttery\nbread?{01 00 00 0f 00}\n{07 00 00}Then you just pile on the\njuicy acorns and start\nsnacking!\n{07 15 00}Ugh.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}! {07 16 00}Yeah, maybe that\nisn't such a hot idea.\n\n{07 06 00}I don't wanna chip a tooth.\n{07 0c 00}Hold up! {07 11 00}What if I got\na hydraulic robo-jaw?",
+   "et": ""
+  },
+  {
+   "id": 13,
+   "en": "{07 04 00}Hey, {01 00 00 0f 00}whatchoo doin',\n{04 1f 00}?\n\n{07 14 00}Those look like some tasty\nacorns you got there,\n{01 00 00 05 00}{04 02 00}. {01 00 00 05 00}Gimme one!",
+   "et": ""
+  },
+  {
+   "id": 14,
+   "en": "{07 15 00}Hey, come to think of it,\ndon't you owe me a favor\nor somethin', {01 00 00 05 00}{04 02 00}?\n{07 00 00}Well, I'll forget about it if\nyou give me an acorn{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}\n{07 15 00}I hunger for acorns!",
+   "et": ""
+  },
+  {
+   "id": 15,
+   "en": "{07 16 00}Huh-WHAT?!{01 00 00 05 00} You were just\ngetting me excited!",
+   "et": ""
+  },
+  {
+   "id": 16,
+   "en": "{07 1b 00}Pfft! {01 00 00 14 00}You're such\na tightwad, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 17,
+   "en": "{07 04 00}Whoa, {01 00 00 05 00}{04 02 00}!\n\n\n{07 0d 00}Thanks for nothin',\n{04 1f 00}, you acorn-\nface, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 18,
+   "en": "{07 0d 00}Whoa!{01 00 00 05 00} Thanks, {01 00 00 05 00}{04 1f 00}.",
+   "et": ""
+  },
+  {
+   "id": 19,
+   "en": "{07 00 00}Tell you what. Here's\n{04 1a 00}\nin return!\n{07 14 00}Aww, come on{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\nIt's nothin' special,\n{01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 20,
+   "en": "{07 14 00}Here, this is for the acorn,\n{01 00 00 05 00}{04 02 00}!\n\n{07 00 00}Well, {01 00 00 05 00}it's just my\n{0b 02 00}{04 1a 00},\nbut maybe you can use it.",
+   "et": ""
+  }
+ ]
+}

@@ -1,0 +1,90 @@
+{
+ "file": "script/ENG/message/ko/tsu/cl_act_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "It's not about how a man\nlooks,{01 00 00 14 00} but how he is!{01 00 00 05 00} Well,{01 00 00 05 00}\nthat's what I've heard.\n{06 01 00 0d 0e 0f}",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "There's this shirt that I\nreally, really want{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n\n{07 16 00}I've been hittin' {ff 00 00 06}Mabel{ff 00 00 00} and\n{ff 00 00 06}Sable{ff 00 00 00}'s shop but{01 00 00 05 00} I still\ncan't find it!{02 00 00 08 09}\nWhat kinda shirt?\nWho cares?",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "The other day {ff 00 00 06}Gracie{ff 00 00 00} said \nsomethin' to me,\n{01 00 00 05 00}{04 02 00}. Apparently...\n{07 15 00}...I need an outfit that will\nhighlight my manliness, like\na {04 14 00} shirt.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n{07 01 00}Or somethin' like that!\nI have no idea what she's \ntalkin' about!",
+   "et": ""
+  },
+  {
+   "id": 3,
+   "en": "Hey, {04 1f 00}. I've got a\nquestion for you, so listen\nup, OK?\nDo you think it's strange\nfor a middle-aged guy{07 0b 00} to\nbe into collecting clothes?{02 00 00 0c 0c}\nWeirdo!\nNope!",
+   "et": ""
+  },
+  {
+   "id": 4,
+   "en": "{07 16 00}Maybe I should start{01 00 00 05 00}\nthinking more about what I\nwear{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 00 00}I don't wanna be that guy\nwho wears the same thing\nall the time.\n{07 09 00}And I think I'm grossing\n{04 0e 00} out, too.{01 00 00 0f 00}\nI'm disgusting, {01 00 00 05 00}{04 02 00}.",
+   "et": ""
+  },
+  {
+   "id": 5,
+   "en": "I was thinking about pokin'\nmy head into{ff 00 00 06} Sable{ff 00 00 00} and\n{ff 00 00 06}Mabel{ff 00 00 00}'s shop, {01 00 00 05 00}{04 02 00}.\nI've been talking a lot with\n{ff 00 00 06}Sable {ff 00 00 00}recently, you know?\n\n{07 14 00}I don't think she hates me\nanymore! Yesssssssss!\nLadies love {04 01 00}!",
+   "et": ""
+  },
+  {
+   "id": 6,
+   "en": "Hey, {01 00 00 05 00}{04 1f 00}.{01 00 00 0f 00} What do\nyou think of this {07 0b 00}shirt I'm\nwearin'?\n{07 04 00}Oh, wait!{01 00 00 05 00} Actually, forget\nit, {01 00 00 05 00}{04 02 00}.{01 01 00} {07 09 00}I{01 00 00 05 00} don't\nthink I wanna know!",
+   "et": ""
+  },
+  {
+   "id": 7,
+   "en": "Who do you think {01 00 00 05 00}is older,{01 00 00 05 00}\n{ff 00 00 06}{07 0b 00}Mabel{ff 00 00 00} or {ff 00 00 06}Sable{ff 00 00 00}? {02 00 00 10 10}\nMabel.\nSable.",
+   "et": ""
+  },
+  {
+   "id": 8,
+   "en": "{07 15 00}Duh!{01 00 00 05 00} You're so dense! Do I\nreally have to tell you?!\n{01 00 00 0f 00}The {04 14 00} shirt!\n{07 14 00}I'm at the peak of my\ngame, y'know. I gotta dress\nthe part, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 9,
+   "en": "{07 16 00}Do you not care about\nclothes at all?\n\n{06 03 00 0a 0b}",
+   "et": ""
+  },
+  {
+   "id": 10,
+   "en": "{07 16 00}Well, {01 00 00 05 00}that simple answer{01 00 00 05 00} is\npretty macho, {04 02 00}!{01 00 00 14 00}\n{07 01 00}But you look terrible!",
+   "et": ""
+  },
+  {
+   "id": 11,
+   "en": "{07 16 00}Well, lemme tell you, new\nclothes can really change\nyour outlook, {04 1f 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.",
+   "et": ""
+  },
+  {
+   "id": 12,
+   "en": "{07 01 00}What?!{01 00 00 0f 00} Who are you calling\nmiddle aged?! {01 00 00 05 00}You saying I'M\nmiddle aged?\n{07 15 00}It may not look like it, but{01 00 00 05 00}\nI'm still years away from\nmiddle age, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 13,
+   "en": "{07 14 00}But a true gentleman always\ndresses his best. I mean,\nlook at me, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 14,
+   "en": "{07 15 00}But people only say that\nwhen they don't have\nmoney, {01 00 00 05 00}{04 02 00}.\n{07 00 00}Refinement, like clothes,\ncan be bought!{01 00 00 14 00} {07 09 00}Man{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\nPeople are idiots!",
+   "et": ""
+  },
+  {
+   "id": 15,
+   "en": "{07 09 00}But it's really the opposite\nthat's true. I mean, {01 00 00 05 00}think\nabout it{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.",
+   "et": ""
+  },
+  {
+   "id": 16,
+   "en": "{07 15 00}I thought{01 00 00 0f 00} you'd say that.{01 00 00 14 00}\n{07 00 00}Who's older? Who's younger?{01 00 00 05 00}\nYou've got a lot to learn.\nThe world{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} {07 01 00}Well, it isn't\nthat simple, {01 00 00 05 00}{04 02 00}!\nSomeday you'll realize this.",
+   "et": ""
+  }
+ ]
+}

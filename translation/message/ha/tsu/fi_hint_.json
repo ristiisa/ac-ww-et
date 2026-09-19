@@ -1,0 +1,35 @@
+{
+ "file": "script/ENG/message/ha/tsu/fi_hint_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 00 00}Hey, so by the way,{01 00 00 05 00}\n{07 0b 00}have you been fishing?\n\n{07 14 00}I heard that you can catch\n{0b 02 00}{04 1a 00} in\nrivers now, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "I was fishing in the river\n{07 14 00}and caught myself\n{04 1a 00}!\nIf you wanna catch one, try\nfishing {04 10 00},\n{01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 14 00}So I was fishing in a pond,\nright{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}and I caught\n{04 1a 00}!\nThrow a line in a pond\n{04 10 00} and you\nmight, too, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 3,
+   "en": "{07 00 00}So tell me: have you{01 00 00 05 00}\n{07 0b 00}ever laid eyes on\n{04 1a 00}?\n{07 16 00}I heard you can catch 'em\nin the river,{01 00 00 05 00} but I've\nnever seen one!{01 00 00 05 00}\n{07 15 00}Yaargh!{01 00 00 05 00} Show yourself,\n{0b 02 00}{04 1a 00}!{01 00 00 05 00}\nSHOW YOURSEEEEEELF!",
+   "et": ""
+  },
+  {
+   "id": 4,
+   "en": "{07 00 00}The other day, someone\ntook the time to show me\n{04 1a 00}...{01 00 00 05 00}\n{07 14 00}That thing was flexing its\nlittle fin muscles...{01 00 00 05 00} It got\nme super pumped!\n{07 13 00}If I were to catch one of\nthose all by myself, I'd be\nstoked, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 5,
+   "en": "{07 00 00}In the {04 03 00} pond,\nthey spotted a massive\n{07 15 00}{0b 02 00}{04 1a 00}!\n{07 07 00}Just the thought makes my\nreeling muscles flex with\nanticipation, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  }
+ ]
+}

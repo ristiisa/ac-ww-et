@@ -1,0 +1,20 @@
+{
+ "file": "script/ENG/message/bo/q12/thanks_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 14 00}Thanks to you, {04 1f 00},\nI'm good as new!\n\n{07 07 00}If it weren't for you, I\nmight've never been able to\neat again!\n{07 14 00}I should give you something\nfor saving my life,\n{01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 14 00}{0b 03 00}{04 1f 00}, your tender\ncare has returned me\nto full health!\n{07 19 00}I can really count on you{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 14 00}Thanks for attending to me\nin my time of plague!",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 00 00}Hey, come to think of it...{01 00 00 0a 00}\n{07 14 00}My cold's all gone now!\n{07 00 00}That {ff 00 00 07}medicine{ff 00 00 00} really worked!\n{07 14 00}Thanks for everything,\nbuddy!\n\nI want to give you\nsomething for bringing me\n{ff 00 00 07}medicine{ff 00 00 00}, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  }
+ ]
+}

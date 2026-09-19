@@ -1,0 +1,100 @@
+{
+ "file": "script/ENG/message/bo/tsu/se_act_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 00 00}The great thing about\nshellfish{01 00 00 14 00}{07 14 00} is\nhow versatile it is.\nYou can grill it,{01 00 00 0a 00} or steam\nit, or boil it, {07 0a 00}and it always{01 00 00 0a 00}\ntastes delicious.\nThen afterwards, you can\nwear the shell! {01 01 00}{07 00 00}{07 0b 00}{01 00 00 05 00}Do you{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00}get\nwhat I mean,{01 00 00 0a 00} {04 02 00}?",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 14 00}Huh huh huh.{01 00 00 0a 00} Shells are\npretty, aren't they,{01 00 00 0a 00}\n{04 02 00}?\n{06 01 00 10 11 12}",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 14 00}The ocean is just great.{01 00 00 05 00}\n{07 13 00}{01 00 00 0a 00}It's like the sky,{01 00 00 05 00} but in\nreverse, you know?",
+   "et": ""
+  },
+  {
+   "id": 3,
+   "en": "{07 0b 00}{01 00 00 05 00}Oh?{01 00 00 0a 00} Are you{01 00 00 05 00} collecting\nshells, too,{01 00 00 05 00} {04 02 00}?\n\n{06 04 00 08 09 0a 0b}",
+   "et": ""
+  },
+  {
+   "id": 4,
+   "en": "{01 00 00 0a 00}{07 1b 00}{01 00 00 05 00}Leaving messages in the\nsand{01 00 00 0a 00} is so old.{01 00 00 05 00} Sooo old!\n{01 00 00 0a 00}{0b 03 00}{04 02 00}!\n{07 05 00}{01 00 00 0a 00}From now on, I'm just going\nto face the sea and just\nshout my messages!",
+   "et": ""
+  },
+  {
+   "id": 5,
+   "en": "{07 15 00}I'm not just collecting\nshells{01 00 00 0a 00} for the money!\n\n{07 01 00}{01 00 00 0a 00}I'm doing it{01 00 00 05 00} so I can eat\ndeliciously fresh seafood,{01 00 00 0a 00}\n{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 6,
+   "en": "{06 08 00 0c 0d 0e 0f}",
+   "et": ""
+  },
+  {
+   "id": 7,
+   "en": "{07 1c 00}{01 00 00 14 00}The ocean makes you forget\nall sorts of painful\nmemories{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 04 00}Oh!{01 00 00 0f 00} Why did I do that?{01 00 00 0f 00} {07 06 00}\nI forgot to eat my\n{04 08 00} o'clock snack!",
+   "et": ""
+  },
+  {
+   "id": 8,
+   "en": "{07 16 00}Since your house is so\nsmall,\n\n{07 14 00}maybe you can use the\nshells you collect{01 00 00 0a 00} to buy\nyourself a bigger house.",
+   "et": ""
+  },
+  {
+   "id": 9,
+   "en": "{07 14 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}Is that so?{01 00 00 0a 00} So you use\nthem to decorate your\nplace?\n{07 19 00}You{01 00 00 05 00} are a hardcore\nfashionista{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} {07 13 00}{01 00 00 0a 00}That's so\nneat,{01 00 00 0a 00} {04 02 00}.",
+   "et": ""
+  },
+  {
+   "id": 10,
+   "en": "{07 0c 00}{01 00 00 0a 00}Your house is so big,{01 00 00 05 00} you\ncould dedicate a whole room\nto your shell collection!\n{07 0d 00}And then{01 00 00 05 00} I could enjoy your\ncollection{01 00 00 0a 00} anytime I wanted,{01 00 00 0a 00}\n{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 11,
+   "en": "{07 04 00}Don't tell me{01 00 00 0a 00}.{01 00 00 0a 00}.{01 00 00 0a 00}.{01 00 00 14 00}{07 06 00} Are you\ntrying to re-create\nPoseidon's palace?!\n{07 19 00}Your place is huge!{01 00 00 0a 00} If you\ndecorated it with shells,{01 00 00 05 00}\nyou'd be like royalty!{07 00 00}\n{07 0a 00}Then I'd visit and pretend\nto be Prince {04 01 00},\nruler of the sea!",
+   "et": ""
+  },
+  {
+   "id": 12,
+   "en": "{07 14 00}Ahhhhh!{01 00 00 0a 00} The morning ocean\nis so refreshing!\n\n{07 0a 00}It really puts me in the\nmood{01 00 00 05 00} to collect pretty\nshells, {01 00 00 0a 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 13,
+   "en": "{07 0e 00}{01 00 00 0a 00}At first, the ocean is\nreally cold,{01 00 00 0a 00} {07 00 00}but then it\ngradually gets warmer.\n{07 13 00}{01 00 00 0a 00}It's kind of like you,{01 00 00 0a 00}\n{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 14,
+   "en": "{07 13 00}I used to think long walks\non the beach at sunset{01 00 00 0a 00}\nwere so romantic...\n{07 15 00}'Til I got one foot caught{01 00 00 05 00}\nin some driftwood, and the\nother in something slimy.\n{07 19 00}It just reaffirmed my\nbelief that sitting around\nis always the best policy.",
+   "et": ""
+  },
+  {
+   "id": 15,
+   "en": "{07 16 00}Somebody told me{01 00 00 05 00} to be\ncareful at the ocean{01 00 00 0a 00} at\nmidnight{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 0e 00}{01 00 00 0a 00}But they never told me\nwhat to be careful about{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 14 00}{07 0c 00}\n\n{01 08 00}{07 02 00}{01 00 00 0a 00}AAAAAAAAAAAAAAAAAAAUGH!!!{01 01 00}\n{07 14 00}Huh huh huh!{01 00 00 0a 00} Did I scare\nyou? Just be careful, OK?",
+   "et": ""
+  },
+  {
+   "id": 16,
+   "en": "{07 00 00}It's so nice of 'em to just\nhang around like this for\nfree,{01 00 00 0a 00} {04 02 00}.",
+   "et": ""
+  },
+  {
+   "id": 17,
+   "en": "{07 0d 00}{01 00 00 0a 00}They're like nature's jewels!",
+   "et": ""
+  },
+  {
+   "id": 18,
+   "en": "{07 00 00}Collecting all those stylish\nseashells{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 14 00}{07 0a 00}makes me all the\nmore stylish!",
+   "et": ""
+  }
+ ]
+}

@@ -1,0 +1,185 @@
+{
+ "file": "script/ENG/message/ta/ai/shop3_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{06 0b 00 0b 06 0b 06 0c 0c 08}",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "Hey, {01 00 00 05 00}{04 1f 00},{01 00 00 0a 00} get this!\n{07 1b 00}I saw the most interesting\ncouple the other day!\n{06 01 00 0d 0e 0f}",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{06 08 00 10 11 12 13}",
+   "et": ""
+  },
+  {
+   "id": 3,
+   "en": "{07 1d 00}So, {01 00 00 05 00}{04 1f 00},{01 00 00 0f 00} my powers\nof perception are telling\nme that {07 0b 00}you{01 00 00 05 00} like coffee.{02 00 00 14 19}\nWell, obviously.\nNo, I don't...",
+   "et": ""
+  },
+  {
+   "id": 4,
+   "en": "{06 0b 00 1d 1e 1d 1e 1d 1e 1d}",
+   "et": ""
+  },
+  {
+   "id": 6,
+   "en": "The other day{01 00 00 05 00}, I saw\n{04 0d 00} with this {07 0e 00}lovely\nlady.{01 00 00 0f 00} {07 0b 00}I wonder who she was?{02 01 00 07 09 0a}\nDon't gossip!\nA friend.\nA family member?",
+   "et": ""
+  },
+  {
+   "id": 7,
+   "en": "{07 02 00}{01 00 00 0a 00}Yeah,{01 00 00 14 00} you're absolutely\nright,{01 00 00 0a 00} {04 02 00}!\n{07 08 00}I'm so ashamed!\n{07 19 00}Getting your jollies by\ntalking about others is{01 00 00 0a 00}\n{07 1b 00}something I shouldn't do.\n{07 0c 00}{01 00 00 05 00}Come to think of it,\n{ff 00 00 06}Brewster {ff 00 00 00}never talks about\nother people,{01 00 00 05 00} never.\n{07 04 00}I guess {01 00 00 0a 00}he's a man of few\nwords. {07 06 00}What a total pro!\n{01 00 00 0a 00}{0b 03 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 8,
+   "en": "Hey,{01 00 00 05 00} do you think it's weird\nthat I like to have tea by\nmyself on Sunday?\n{07 1b 00}I'm just so tired of dating\nright now, {01 00 00 0a 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 9,
+   "en": "{07 00 00}Yeah, {01 00 00 05 00}you might be right{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0f 00}\n{07 14 00}{01 00 00 0a 00}Some people just have a ton\nof friends.",
+   "et": ""
+  },
+  {
+   "id": 10,
+   "en": "{07 0e 00}Hmm{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 14 00} {07 0c 00}Yeah,{01 00 00 0a 00} that sounds\nright. I heard something\nabout the mortgage?\n{07 16 00}Some people have so much\nto deal with, {01 00 00 0a 00}{04 02 00}.",
+   "et": ""
+  },
+  {
+   "id": 11,
+   "en": "{07 17 00}I always have tea alone,{01 00 00 05 00}\n{04 02 00}. It just seems\nlike a solitary drink to me.\nBesides{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 0f 00}it's not like I have\na lot of girlfriends, {01 00 00 05 00}\n{04 02 00}. Sigh.",
+   "et": ""
+  },
+  {
+   "id": 12,
+   "en": "{07 1b 00}Hmm...{01 00 00 0a 00} Why is it that life\nseems to happen on the\nweekends?\n{07 19 00}At times like these, those\nlittle coffee breaks mean\nso much, {01 00 00 0a 00}{04 02 00}.",
+   "et": ""
+  },
+  {
+   "id": 13,
+   "en": "{07 15 00}You know those couples who\nsit at a table for four,\nonly drinking water? {01 00 00 0a 00}Hmph!\n{07 1c 00}{01 00 00 05 00}{ff 00 00 06}Brewster {ff 00 00 00}works so hard to\nmake delicious coffee, and\nfor what?! {01 00 00 0a 00}Nothing!",
+   "et": ""
+  },
+  {
+   "id": 14,
+   "en": "{07 09 00}{01 00 00 0a 00}Well, not interesting\nexactly. They were like\nevery other sappy couple{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n{07 19 00}Staring at each other,{07 15 00}{01 00 00 0a 00}\ncompletely clueless to\neverything around them!",
+   "et": ""
+  },
+  {
+   "id": 15,
+   "en": "{07 00 00}They were fighting really\nloudly here. {07 01 00}I hate stupid\ncouples who fight in public!\nLike we care about their\ndumb problems! {01 00 00 0a 00}{07 07 00}The nerve\nof those people!",
+   "et": ""
+  },
+  {
+   "id": 16,
+   "en": "{07 12 00}{01 00 00 0a 00}Huh?{01 00 00 14 00} Oh, {01 00 00 05 00}I'm so sorry{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\nI'm just so sleepy and\nhungry right now...\n{07 14 00}On mornings after\nall-nighters,{01 00 00 0a 00} I gotta have\na {ff 00 00 08}Roost {ff 00 00 00}Special!",
+   "et": ""
+  },
+  {
+   "id": 17,
+   "en": "{07 00 00}Um,{01 00 00 05 00} could you NOT interrupt\nmy afternoon\n{04 18 00} break?\nI'm trying to relax. {01 01 00}{07 14 00}Well,{01 00 00 0a 00}\nfine. But only because all\nthey have here is coffee{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.",
+   "et": ""
+  },
+  {
+   "id": 18,
+   "en": "{07 04 00}Oh, it's already {04 08 00} o'clock!{01 01 00}\n{07 0b 00}I guess I got so relaxed I\nlost track of time?\n{07 00 00}There's something about\nthis shop that makes me so\ncomfortable, {01 00 00 0a 00}{04 02 00}.",
+   "et": ""
+  },
+  {
+   "id": 19,
+   "en": "{07 14 00}Doesn't having coffee in the\nevening make you feel like\nsomething's gonna happen?\n{07 13 00}It makes me feel like\nI've got something to look\nforward to, {01 00 00 0a 00}{04 02 00}.",
+   "et": ""
+  },
+  {
+   "id": 20,
+   "en": "{07 00 00}Well, then, {01 00 00 05 00}{04 02 00}.\n{07 14 00}How much cream and sugar\ndo you like?{05 05 00 05 18 05 17 04 16 02 15}\nBuckets!\nNone.",
+   "et": ""
+  },
+  {
+   "id": 21,
+   "en": "{07 14 00}Hmm.{01 00 00 0a 00} You do realize that\nwe're in a COFFEE shop,\nright, {04 1f 00}?\n{07 03 00}OK, enough razzing you.{01 00 00 05 00} Why\ndon't you try\n{04 19 00} instead?",
+   "et": ""
+  },
+  {
+   "id": 22,
+   "en": "{07 1b 00}Interesting, {01 00 00 05 00}you sure do\nuse a lot, huh?{01 01 00} {07 00 00}Well, I\nthink that's fine.\n{07 14 00}But don't let {ff 00 00 06}Brewster {ff 00 00 00}see!\nHe gets mad if you cover\nup the \"delicate flavor.\"",
+   "et": ""
+  },
+  {
+   "id": 23,
+   "en": "{07 19 00}Yeah, {01 00 00 05 00}totally!{01 00 00 14 00} {07 00 00}{ff 00 00 06}Brewster {ff 00 00 00}says\nblack is the best way to\ndrink coffee,\n{07 13 00}but my favorite way to fix\nit is with a little cream\nand sugar, {01 00 00 0a 00}{04 02 00}.",
+   "et": ""
+  },
+  {
+   "id": 24,
+   "en": "{07 14 00}Oh gosh, {01 00 00 05 00}I know!{01 00 00 14 00}{07 00 00} Everyone\nhere at the {ff 00 00 08}Roost{ff 00 00 00} agrees\ncoffee should be {01 00 00 05 00}{07 0d 00}black!\n{07 19 00}If you don't, {ff 00 00 06}Brewster {ff 00 00 00}gets\nall teary-eyed,\n{01 00 00 0a 00}{07 14 00}{04 02 00}.",
+   "et": ""
+  },
+  {
+   "id": 25,
+   "en": "{06 01 00 1a 1b 1c}",
+   "et": ""
+  },
+  {
+   "id": 26,
+   "en": "{07 04 00}Oh, {01 00 00 0a 00}so you really can't\ndrink it?{01 00 00 14 00}\n\n{07 16 00}I'm sorry{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} I really didn't\nmean to offend you,\n{01 00 00 05 00}{04 02 00}.",
+   "et": ""
+  },
+  {
+   "id": 27,
+   "en": "{07 1b 00}Tee hee!{01 00 00 0a 00} I'm only kidding! {07 14 00}{01 00 00 0a 00}Of\nCOURSE you can come in if\nyou don't drink coffee.\n{07 17 00}When I was young, I loved{01 00 00 0a 00}\nhow grown up it felt in\nhere, so I'd sneak in.\n{07 11 00}I always wanted to be like\nall the regulars and say,{01 01 00}\n\"{ff 00 00 02}The usual, Brewster!{ff 00 00 00}\"{07 14 00}",
+   "et": ""
+  },
+  {
+   "id": 28,
+   "en": "{07 14 00}Sheesh,{01 00 00 0a 00} don't get all weepy!\nWhen you get bigger, you\ncan drink coffee, too.{01 00 00 0a 00}\n{07 19 00}Just enjoy your\n{04 19 00} while you\ncan!\n{07 14 00}{01 00 00 0a 00} The sweetness of youth\nfades too fast,\n{01 00 00 0a 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 29,
+   "en": "{06 01 00 1f 20 21}",
+   "et": ""
+  },
+  {
+   "id": 30,
+   "en": "{06 01 00 22 23 24}",
+   "et": ""
+  },
+  {
+   "id": 31,
+   "en": "You know{01 00 00 05 00}, I've learned so\nmuch about the nuances of\ncoffee hanging around here.\n{07 14 00}I used to just think that\nit was something you drank\nto stay up, {01 00 00 0a 00}{04 02 00}.",
+   "et": ""
+  },
+  {
+   "id": 32,
+   "en": "{07 16 00}For some reason, this\ncoffee reminds me of\nmy childhood{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{04 02 00}.\n{07 17 00}And the first time that I\nsaw him at the cafe{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n\n{07 10 00}{0b 03 00}{04 17 00} was so\npopular then. I can still\nhear the beat{01 00 00 0a 00} in my head.",
+   "et": ""
+  },
+  {
+   "id": 33,
+   "en": "{07 0e 00}When you're sipping coffee,\n{07 14 00}don't you crave sweets\nlike {04 19 00}?\n{07 16 00}If I asked {ff 00 00 06}Brewster{ff 00 00 00} to\nfetch me the dessert tray,\nhe'd probably appreciate it.",
+   "et": ""
+  },
+  {
+   "id": 34,
+   "en": "Do you think you can read\nyour fortune from\n{04 18 00}?\n{07 14 00}I think the shape the milk\nmakes in {04 18 00}\ndetermines your love luck!",
+   "et": ""
+  },
+  {
+   "id": 35,
+   "en": "The aroma of coffee{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 14 00}\nIt's so calming to me,\n{01 00 00 0a 00}{04 02 00}. ",
+   "et": ""
+  },
+  {
+   "id": 36,
+   "en": "{07 14 00}Hey, {01 00 00 0a 00}have you ever thought\nabout how nice it would be\nif this was your home?\n{07 13 00}Every morning you would\nwake up to the smell of\nfresh-roasted coffee{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 0c 00}I guess if you lived here,{01 00 00 05 00}\nthat would make {ff 00 00 06}Brewster\n{ff 00 00 00}your, like, personal chef! \n{07 14 00}That would be so fab,\n{01 00 00 0a 00}{04 02 00}!!!",
+   "et": ""
+  }
+ ]
+}

@@ -1,0 +1,255 @@
+{
+ "file": "script/ENG/select/select2.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "New game.",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "Continue.",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "New resident.",
+   "et": ""
+  },
+  {
+   "id": 3,
+   "en": "Rebuild town.",
+   "et": ""
+  },
+  {
+   "id": 4,
+   "en": "Erase resident.",
+   "et": ""
+  },
+  {
+   "id": 5,
+   "en": "Never mind.",
+   "et": ""
+  },
+  {
+   "id": 6,
+   "en": "Erase anyway?",
+   "et": ""
+  },
+  {
+   "id": 7,
+   "en": "Reset clock.",
+   "et": ""
+  },
+  {
+   "id": 8,
+   "en": "Set sound.",
+   "et": ""
+  },
+  {
+   "id": 9,
+   "en": "About kanji...",
+   "et": ""
+  },
+  {
+   "id": 10,
+   "en": "Tag Mode.",
+   "et": ""
+  },
+  {
+   "id": 11,
+   "en": "Other things.",
+   "et": ""
+  },
+  {
+   "id": 12,
+   "en": "Save and end.",
+   "et": ""
+  },
+  {
+   "id": 13,
+   "en": "Continue.",
+   "et": ""
+  },
+  {
+   "id": 14,
+   "en": "Wi-Fi settings.",
+   "et": ""
+  },
+  {
+   "id": 15,
+   "en": "{00 06 00} Next.",
+   "et": ""
+  },
+  {
+   "id": 16,
+   "en": "{00 06 00}Quit.",
+   "et": ""
+  },
+  {
+   "id": 17,
+   "en": "Downloads.",
+   "et": ""
+  },
+  {
+   "id": 18,
+   "en": "Start.",
+   "et": ""
+  },
+  {
+   "id": 19,
+   "en": "Then again...",
+   "et": ""
+  },
+  {
+   "id": 20,
+   "en": "Stereo.",
+   "et": ""
+  },
+  {
+   "id": 21,
+   "en": "Surround.",
+   "et": ""
+  },
+  {
+   "id": 23,
+   "en": "Nothing.",
+   "et": ""
+  },
+  {
+   "id": 24,
+   "en": "Immigration.",
+   "et": ""
+  },
+  {
+   "id": 46,
+   "en": "Village Mayor.",
+   "et": ""
+  },
+  {
+   "id": 47,
+   "en": "Town Mayor.",
+   "et": ""
+  },
+  {
+   "id": 48,
+   "en": "City Mayor.",
+   "et": ""
+  },
+  {
+   "id": 49,
+   "en": "President.",
+   "et": ""
+  },
+  {
+   "id": 50,
+   "en": "I'll take it.",
+   "et": ""
+  },
+  {
+   "id": 51,
+   "en": "No, thanks.",
+   "et": ""
+  },
+  {
+   "id": 52,
+   "en": "Gray.",
+   "et": ""
+  },
+  {
+   "id": 53,
+   "en": "Brown.",
+   "et": ""
+  },
+  {
+   "id": 54,
+   "en": "Red.",
+   "et": ""
+  },
+  {
+   "id": 55,
+   "en": "Pink.",
+   "et": ""
+  },
+  {
+   "id": 56,
+   "en": "Orange.",
+   "et": ""
+  },
+  {
+   "id": 57,
+   "en": "Yellow.",
+   "et": ""
+  },
+  {
+   "id": 58,
+   "en": "Pale green.",
+   "et": ""
+  },
+  {
+   "id": 59,
+   "en": "Dark green.",
+   "et": ""
+  },
+  {
+   "id": 60,
+   "en": "Dark green.",
+   "et": ""
+  },
+  {
+   "id": 61,
+   "en": "Turquoise.",
+   "et": ""
+  },
+  {
+   "id": 62,
+   "en": "Sky blue.",
+   "et": ""
+  },
+  {
+   "id": 63,
+   "en": "Blue.",
+   "et": ""
+  },
+  {
+   "id": 64,
+   "en": "Navy.",
+   "et": ""
+  },
+  {
+   "id": 65,
+   "en": "Purple.",
+   "et": ""
+  },
+  {
+   "id": 66,
+   "en": "Lilac.",
+   "et": ""
+  },
+  {
+   "id": 67,
+   "en": "Hot pink.",
+   "et": ""
+  },
+  {
+   "id": 68,
+   "en": "Another color.",
+   "et": ""
+  },
+  {
+   "id": 70,
+   "en": "Friend roster.",
+   "et": ""
+  },
+  {
+   "id": 71,
+   "en": "Search.",
+   "et": ""
+  },
+  {
+   "id": 72,
+   "en": "Randomly.",
+   "et": ""
+  }
+ ]
+}

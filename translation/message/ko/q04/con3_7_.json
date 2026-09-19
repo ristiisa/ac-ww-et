@@ -1,0 +1,20 @@
+{
+ "file": "script/ENG/message/ko/q04/con3_7_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 1c 00}No matter what I do, I can't\nseem to get my hands on\n{04 1a 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 00 00}Ah well,{01 00 00 05 00} I guess I'll\nappreciate it more when I\ndo. {07 03 00}Nah, {01 00 00 05 00}who am I kidding?",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 15 00}You know what would turn\nme into a stylin' dude?{01 00 00 05 00}\n{0b 03 00}{04 1a 00}!\n{07 06 00}You agree with me, {01 00 00 05 00}right?\n{07 15 00}Yeah{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}you better,\n{01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 0e 00}{0b 03 00}{04 1a 00}{01 00 00 05 00} is\nlike a manly badge of \nhonor, {01 00 00 05 00}{04 02 00}.",
+   "et": ""
+  }
+ ]
+}

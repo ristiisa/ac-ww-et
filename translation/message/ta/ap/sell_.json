@@ -1,0 +1,140 @@
+{
+ "file": "script/ENG/message/ta/ap/sell_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 14 00}Hey, {01 00 00 05 00}{04 1f 00},{01 00 00 0f 00}{07 00 00} I've got\nthis totally, ultra-fabulous{01 00 00 0a 00}\n{0b 02 00}{04 1c 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 0b 00}What do you think?\nIf you want it, I'll sell it\nto you, {01 00 00 0a 00}{04 02 00}.{02 00 00 04 03}\nIt's a deal!\nNo thanks.",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 00 00}Hey, {01 00 00 05 00}{04 1f 00}.{01 00 00 0a 00} {07 14 00}Do you\nhave any interest in my{01 00 00 0a 00}\n{0b 02 00}{04 1c 00}?\n{07 0b 00}How about for {04 11 00} Bells?{01 00 00 14 00}\n{07 00 00}It's a steal at that price,\n{01 00 00 0a 00}{04 02 00}!{02 00 00 17 18}\nI'm in!\nNo thanks.",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 14 00}Listen up! I've got{01 00 00 0a 00}\n{04 1c 00}\nthat'd be perfect for you{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n{07 0b 00}Interested? I'll sell\nfor {04 11 00} Bells,\nOK, {01 00 00 0a 00}{04 02 00}?{02 01 00 11 12 03}\nDeal!\nTry again!\nNope!",
+   "et": ""
+  },
+  {
+   "id": 3,
+   "en": "{06 01 00 14 15 16}",
+   "et": ""
+  },
+  {
+   "id": 4,
+   "en": "{07 14 00}Well, {01 00 00 0a 00}as you know, nothing\nin life is free. {01 00 00 0a 00}How much\nwould you be willing to pay?\n{07 00 00}Whether or not I'll sell\nto you will depend on your\nanswer.{05 05 00 04 05 04 08 04 0a 04 0d}\n1 Bell?\nAll I own!",
+   "et": ""
+  },
+  {
+   "id": 5,
+   "en": "{06 00 00 06 07}",
+   "et": ""
+  },
+  {
+   "id": 6,
+   "en": "{07 1b 00}Well, {01 00 00 0a 00}believe it or not, I'd\nactually feel bad if I took\nall that from you.\n{07 14 00}So how about{01 00 00 0a 00} {04 11 00} Bells?{01 00 00 0a 00}\nThat seems like a fair\nprice to me.{02 00 00 11 12}\nDeal!\nTry again.",
+   "et": ""
+  },
+  {
+   "id": 7,
+   "en": "{07 02 00}That much?!{01 01 00} {01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 16 00}I feel like\nyou're trying to pull one\nover on me. \n{07 00 00}Hmm,{01 00 00 0a 00} I think I'm going to\nsell it to the shop after\nall.",
+   "et": ""
+  },
+  {
+   "id": 8,
+   "en": "{06 00 00 07 09}",
+   "et": ""
+  },
+  {
+   "id": 9,
+   "en": "You know, {01 00 00 0f 00}even I have to\ndraw the line somewhere. \nNo deal, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 10,
+   "en": "{06 00 00 0b 0c}",
+   "et": ""
+  },
+  {
+   "id": 11,
+   "en": "{07 00 00}Wow, how very YOU of you to\ngive me such a \"realistic\"\noffer.\n{07 1b 00}I don't feel like selling\nanymore, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 12,
+   "en": "{07 1b 00}Wow, you're still such \na big wuss, huh.\n\n{07 14 00}Well then,{01 00 00 0a 00} {04 11 00} Bells it\nis! You have a deal,\n{01 00 00 0a 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 13,
+   "en": "{06 00 00 0e 09}",
+   "et": ""
+  },
+  {
+   "id": 14,
+   "en": "{07 00 00}Are you {01 00 00 05 00}{07 0b 00}poor or something?{01 01 00}\n{07 00 00}Now you're making me feel\nall sorry for you.\n{07 14 00}Fine, I accept your offer.\n{01 00 00 05 00}Here!",
+   "et": ""
+  },
+  {
+   "id": 16,
+   "en": "{07 14 00}OK!{01 00 00 14 00} We've got a deal,\n{01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 17,
+   "en": "{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 1c 00}Just forget it!{01 00 00 0a 00} I'm going\nto sell it at {ff 00 00 06}Tom Nook{ff 00 00 00}'s\nshop. {01 00 00 0a 00}You're missing out.\n{07 1b 00}Haggling like this is so\ntacky, {01 00 00 0a 00}{04 02 00}.",
+   "et": ""
+  },
+  {
+   "id": 18,
+   "en": "{07 14 00}Well,{01 00 00 05 00} you'd better be\ngrateful, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 19,
+   "en": "{07 14 00}Just take care of it, \nOK, {01 00 00 0a 00}{04 02 00}?!",
+   "et": ""
+  },
+  {
+   "id": 20,
+   "en": "{07 00 00}Hmm{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 14 00} {07 16 00}Too bad,\n{01 00 00 0a 00}{04 02 00}.",
+   "et": ""
+  },
+  {
+   "id": 21,
+   "en": "{07 15 00}Well,{01 00 00 0a 00} don't come crying to\nme when you regret it\nlater!",
+   "et": ""
+  },
+  {
+   "id": 22,
+   "en": "{07 0b 00}Really?{01 01 00} {07 14 00}Well, {01 00 00 0a 00}I guess I\ncould always just give it to\n{04 0b 00}, {01 00 00 0a 00}{04 02 00}.",
+   "et": ""
+  },
+  {
+   "id": 23,
+   "en": "{07 14 00}Thanks!{01 00 00 14 00} {07 1b 00}I've been wanting to\nget rid of my tacky\n{0b 02 00}{04 1c 00}!",
+   "et": ""
+  },
+  {
+   "id": 24,
+   "en": "{07 1c 00}{01 00 00 05 00}Oh, no{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00} No matter how\nmuch time passes, I can't\nforget him!\n{07 16 00}You really don't want it?{02 00 00 19 1a}\nNo!\nFine! Give it!",
+   "et": ""
+  },
+  {
+   "id": 25,
+   "en": "{07 02 00}What?!{01 01 00} {07 06 00}Then {01 00 00 05 00}what am\nI supposed to do?! I really\ngotta get rid of it!\n{07 16 00}Forget about the money!\nJust take it,{01 00 00 05 00} please!",
+   "et": ""
+  },
+  {
+   "id": 26,
+   "en": "{07 14 00}I knew I could count on\nyou, {04 1f 00}!{01 00 00 14 00} {07 00 00}You're\nsuch a pal, {01 00 00 05 00}{04 02 00}!\n{07 0e 00}I feel kinda bad taking \nyour money, so...{07 14 00}you keep\nthe Bells and {01 00 00 05 00}take this.",
+   "et": ""
+  },
+  {
+   "id": 27,
+   "en": "{07 1b 00}Tee hee hee.{01 00 00 0f 00} What a day,\nwhat a day, {01 00 00 0a 00}{04 02 00}.\n",
+   "et": ""
+  }
+ ]
+}

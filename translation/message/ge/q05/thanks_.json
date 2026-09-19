@@ -1,0 +1,20 @@
+{
+ "file": "script/ENG/message/ge/q05/thanks_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 04 00}Oh...{01 00 00 0a 00} {07 00 00}{07 0a 00}HOORAY!{01 00 00 05 00} YAY!{01 00 00 05 00} It's\n{04 1a 00}, \n{01 00 00 05 00}{04 02 00}!!\nI always wanted some\n{ff 00 00 07}{04 0f 00}{ff 00 00 00}\nlike this!{01 00 00 0a 00} It's ADORABLE!",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "What?{01 00 00 14 00} {07 06 00}You found some\n{ff 00 00 07}{04 0f 00}{ff 00 00 00}\njust for me?{01 00 00 0a 00} WOW! SO NICE!\nThank you!{01 00 00 0a 00} I'll totally take\ngood care of it,\n{01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}Ahh!{01 00 00 0a 00} It's my precious\n{0b 02 00}{04 1a 00}!{01 00 00 0a 00}\nI'm kinda surprised!\nYou're always so chill...{01 00 00 0a 00}\nI figured that you forgot\nor something.",
+   "et": ""
+  }
+ ]
+}

@@ -1,0 +1,130 @@
+{
+ "file": "script/ENG/message/ta/tsu/cl_act_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 0e 00}Do you ever just think, {01 00 00 0a 00}\"Who\ncares what others think\nabout your clothes anyway?\"\n{06 01 00 0c 0d 0e}",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 14 00}Style doesn't depend on\nwhat age you are, you know.\n\n{06 01 00 0f 10 11}",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 0e 00}Real beauty doesn't come\nfrom clothes. {01 00 00 05 00}That's just a\nsuperficial way to think.\nNo, no. {07 0c 00}{01 00 00 05 00}Beauty is skin-deep.{01 00 00 05 00}\nLiterally. {01 00 00 05 00}{07 0a 00}A nice complexion\nis the key to beauty.\n{06 00 00 12 13}",
+   "et": ""
+  },
+  {
+   "id": 3,
+   "en": "{07 1c 00}{01 00 00 05 00}Lately, {01 00 00 05 00}I can't seem to find\nanything I like{01 00 00 0a 00} when I check\nout the stores{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n{06 01 00 14 15 16}",
+   "et": ""
+  },
+  {
+   "id": 4,
+   "en": "{07 16 00}That fashion designer,\n{ff 00 00 06}Gracie{ff 00 00 00}, is{01 00 00 0a 00} just out of this\nworld, {01 00 00 0a 00}{04 02 00}.\n{06 00 00 17 18}",
+   "et": ""
+  },
+  {
+   "id": 5,
+   "en": "{06 03 00 08 09}",
+   "et": ""
+  },
+  {
+   "id": 6,
+   "en": "{07 17 00}You might not think it {01 00 00 05 00}but\nI'm really into comedy. {01 00 00 0a 00}I\njust love to laugh.{01 01 00}{07 03 00} See?\n{07 0d 00}Anyhoo,{01 00 00 0a 00} what should I wear\nto the next comedy show?",
+   "et": ""
+  },
+  {
+   "id": 7,
+   "en": "{07 0e 00}Everybody seems to be\nreading this magazine called\n{ff 00 00 02}Ms. Nintendique{ff 00 00 00}.\nI read this article on how\nto determine what your\npower animal is.\nIt's so obvious, {01 00 00 05 00}{07 0b 00}it's really\nstarting to confuse me.",
+   "et": ""
+  },
+  {
+   "id": 8,
+   "en": "{07 14 00}You've thought about\nrocking some more feminine\nlooks, haven't you?{02 00 00 0a 0b}\nMaybe...\nUh, no...",
+   "et": ""
+  },
+  {
+   "id": 9,
+   "en": "{07 13 00}I'd really like to own a tux.\n{01 00 00 0a 00}I'd look SOOO cute,{01 00 00 0a 00} just\nlike a penguin!\n{07 0d 00}And everyone would be all\nlike,{01 00 00 0a 00} \"Who's that cute girl\nin the tux?!\"",
+   "et": ""
+  },
+  {
+   "id": 10,
+   "en": "{07 19 00}Yeah, a lot of guys here\nare into that. {01 00 00 05 00}Just look at\n{ff 00 00 06}Tom Nook{ff 00 00 00}.\nHave you seen that apron\nof his?! {01 01 00}{07 11 00}I could swear it's\nreally just a skirt!",
+   "et": ""
+  },
+  {
+   "id": 11,
+   "en": "{07 0b 00}Oh,{01 00 00 05 00} really?{01 00 00 0a 00} {07 14 00}Life isn't just\nabout {01 00 00 0f 00}cowboy hats and\njeans, you know.",
+   "et": ""
+  },
+  {
+   "id": 12,
+   "en": "That's why they call it\n\"personal style,\"{01 00 00 05 00} and not\n\"everyone else's style.\"\n{07 14 00}If people really cared that\nmuch about pleasing others,{01 00 00 0a 00}\nnobody would design clothes!",
+   "et": ""
+  },
+  {
+   "id": 13,
+   "en": "{07 16 00}I agree with you, but{01 00 00 05 00} if you\ntake the whole not caring\nthing too far{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 1c 00}{01 00 00 0a 00}You can end up looking like\na hobo. And most people\naren't friends with hobos.\nExcept for other hobos.",
+   "et": ""
+  },
+  {
+   "id": 14,
+   "en": "{07 05 00}{01 08 00}Just wear whatever you\nwant!{01 00 00 14 00} .{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 00 00}I just needed to\nget that off my chest.",
+   "et": ""
+  },
+  {
+   "id": 15,
+   "en": "{07 11 00}The secret to style is{01 00 00 05 00}\nconfidence! {01 00 00 05 00}Just wear what\nlooks good on you!\n{07 1b 00}Of course, it doesn't hurt\nto be super pretty, {01 00 00 05 00}like\nme.",
+   "et": ""
+  },
+  {
+   "id": 16,
+   "en": "{07 11 00}In fact, it's usually the\nyoung and immature who go\naround wearing pirate hats.",
+   "et": ""
+  },
+  {
+   "id": 17,
+   "en": "{07 1b 00}If you have no style, you\nhave no style. {01 00 00 05 00}It doesn't\nmatter how old you are.",
+   "et": ""
+  },
+  {
+   "id": 18,
+   "en": "{07 19 00}To maintain my complexion,{01 00 00 05 00}\n{07 14 00}every day I drink ten cups\nof {04 13 00}!",
+   "et": ""
+  },
+  {
+   "id": 19,
+   "en": "{07 0e 00}Even that's kinda shallow.\n{01 01 00}No, the true key to beauty\nis.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}{07 1b 00}a nice gallbladder.",
+   "et": ""
+  },
+  {
+   "id": 20,
+   "en": "{07 0e 00}Maybe I should ask {ff 00 00 06}Gracie\n{ff 00 00 00}to whip up some haute\ncouture for me.",
+   "et": ""
+  },
+  {
+   "id": 21,
+   "en": "{07 1b 00}{01 00 00 05 00}Having a refined sense of\nstyle can be a problem\nsometimes, too.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}",
+   "et": ""
+  },
+  {
+   "id": 22,
+   "en": "{07 1b 00}What is UP with {ff 00 00 06}Sable\n{ff 00 00 00}anyway?!{01 00 00 0a 00} Is she in a\ncreative slump?",
+   "et": ""
+  },
+  {
+   "id": 23,
+   "en": "No, I'm being serious. {01 00 00 0a 00}{07 1b 00}I\nmean, in what world does\norange match with purple?!",
+   "et": ""
+  },
+  {
+   "id": 24,
+   "en": "{07 19 00}She's definitely hanging out\nin a different world from\nus!",
+   "et": ""
+  }
+ ]
+}

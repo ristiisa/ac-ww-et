@@ -1,0 +1,20 @@
+{
+ "file": "script/ENG/message/ha/q10/first_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 16 00}Dang!{01 00 00 0a 00} Your room looks WAY\nmore optimized for muscle \ngrowth, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 04 00}Whoa, my pores are tingling!{01 00 00 14 00}\n{07 0d 00}I'm not sure what it is,{01 00 00 05 00} but\nyour room is ENERGIZED!",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 04 00}{0b 03 00}{04 1f 00}, {01 00 00 05 00}you rock!{01 00 00 14 00}\n{07 13 00}Your place destroyed all my\nexpectations, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  }
+ ]
+}

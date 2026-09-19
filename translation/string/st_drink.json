@@ -1,0 +1,125 @@
+{
+ "file": "script/ENG/string/st_drink.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "coffee",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "Turkish coffee",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "bubble tea",
+   "et": ""
+  },
+  {
+   "id": 3,
+   "en": "cappuccino",
+   "et": ""
+  },
+  {
+   "id": 4,
+   "en": "java",
+   "et": ""
+  },
+  {
+   "id": 5,
+   "en": "black tea",
+   "et": ""
+  },
+  {
+   "id": 6,
+   "en": "milk tea",
+   "et": ""
+  },
+  {
+   "id": 7,
+   "en": "lemon tea",
+   "et": ""
+  },
+  {
+   "id": 8,
+   "en": "milk",
+   "et": ""
+  },
+  {
+   "id": 9,
+   "en": "lemonade",
+   "et": ""
+  },
+  {
+   "id": 10,
+   "en": "peach nectar",
+   "et": ""
+  },
+  {
+   "id": 11,
+   "en": "green tea",
+   "et": ""
+  },
+  {
+   "id": 12,
+   "en": "soda water",
+   "et": ""
+  },
+  {
+   "id": 13,
+   "en": "vichyssoise",
+   "et": ""
+  },
+  {
+   "id": 14,
+   "en": "miso soup",
+   "et": ""
+  },
+  {
+   "id": 15,
+   "en": "cocoa",
+   "et": ""
+  },
+  {
+   "id": 16,
+   "en": "sparkling cider",
+   "et": ""
+  },
+  {
+   "id": 17,
+   "en": "chamomile tea",
+   "et": ""
+  },
+  {
+   "id": 18,
+   "en": "sweet tea",
+   "et": ""
+  },
+  {
+   "id": 19,
+   "en": "cola",
+   "et": ""
+  },
+  {
+   "id": 20,
+   "en": "sparkling water",
+   "et": ""
+  },
+  {
+   "id": 21,
+   "en": "mocha java",
+   "et": ""
+  },
+  {
+   "id": 22,
+   "en": "mint tea",
+   "et": ""
+  },
+  {
+   "id": 23,
+   "en": "tomato soup",
+   "et": ""
+  }
+ ]
+}

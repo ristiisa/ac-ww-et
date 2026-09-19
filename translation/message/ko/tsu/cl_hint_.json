@@ -1,0 +1,40 @@
+{
+ "file": "script/ENG/message/ko/tsu/cl_hint_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 15 00}Man, that {ff 00 00 06}Gracie{ff 00 00 00},{01 00 00 0f 00} for as\nmuch as she thinks about\nher clothes...\n{07 00 00}...her hair actually looks\npretty bad, don't you think,\n{01 00 00 05 00}{04 02 00}?\n{07 1b 00}In my opinion,{01 00 00 05 00} she's got her\npriorities all messed up!",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "Do you know {07 0b 00}how to score\nsome easy clothes and\naccessories?{02 00 00 03 04}\nYep, I do!\nNo idea.",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "I visit the{ff 00 00 08} Able Sisters{ff 00 00 00}\n{ff 00 00 08}shop{ff 00 00 00} as much as I can...\n\n{07 16 00}...but have you noticed how\nhard it is to pick that one\nspecial piece?{02 00 00 05 06}\nOh yeah.\nIt's fun!",
+   "et": ""
+  },
+  {
+   "id": 3,
+   "en": "{07 15 00}Fine. {01 00 00 05 00}I get it.{01 00 00 0a 00} {07 05 00}Well, I guess\nI don't have to share that\nsecret with you.",
+   "et": ""
+  },
+  {
+   "id": 4,
+   "en": "{07 14 00}Heh heh heh!{01 00 00 0f 00} If you don't\nknow yet, {01 00 00 05 00}you should learn\non your own!",
+   "et": ""
+  },
+  {
+   "id": 5,
+   "en": "{07 0b 00}So, you get where I'm\ncoming from?{01 00 00 14 00} {07 00 00}OK.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} Well\nthen, {04 1f 00}.\n{07 14 00}Why don't you find \nsomething that will suit me,{01 00 00 05 00}\nand send it in a letter!\n{07 0d 00}Yeah,{01 00 00 05 00} I can probably trust\nyou, {01 00 00 05 00}{04 02 00}. You won't\nmake me look dumb, right?",
+   "et": ""
+  },
+  {
+   "id": 6,
+   "en": "{07 16 00}But{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} Honestly, I've got{01 00 00 05 00}\nlittle to no {07 00 00}interest in\nclothes.\nBesides, what you like and\nwhat you're good at{01 00 00 14 00} {07 0b 00}are two\ndifferent things, right?",
+   "et": ""
+  }
+ ]
+}

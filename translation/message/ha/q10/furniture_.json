@@ -1,0 +1,155 @@
+{
+ "file": "script/ENG/message/ha/q10/furniture_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "Any chance that {ff 00 00 07}mountain\nbike {ff 00 00 00}{07 0b 00}is a 4-speed?\n\n{07 17 00}The only kind I've ever\nridden is one of those\n3-speeds, {01 00 00 05 00}{04 02 00}...",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "You have a {ff 00 00 07}sleeping bag {ff 00 00 00}in\nyour room! {01 00 00 05 00}Whoa!\n\n{07 11 00}You must be a grizzled\nsurvivor-type, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 16 00}Man, if my delts weren't so\nsore, I'd show you how to \nWORK that {ff 00 00 07}basketball hoop{ff 00 00 00}!\n{07 15 00}Man!{01 00 00 05 00} I coulda done my\npatented Sugar Dunk!",
+   "et": ""
+  },
+  {
+   "id": 3,
+   "en": "{ff 00 00 07}Tennis tables {ff 00 00 00}{07 0b 00}come with\npaddles, {01 00 00 05 00}{04 02 00}?!\n\n{07 19 00}I figured the way {ff 00 00 06}Tom Nook{ff 00 00 00}\nworks, he'd be selling 'em\nseparately, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 4,
+   "en": "{07 07 00}If I did trundle-squats\nholding an {ff 00 00 07}office locker{ff 00 00 00},{01 00 00 05 00}\nI'd get HUGE, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 5,
+   "en": "{07 00 00}I'm shocked, {01 00 00 05 00}{04 1f 00}...{01 00 00 05 00}\n{07 04 00}I never expected to see a\n{ff 00 00 07}weight bench {ff 00 00 00}in your pad!\n{06 03 00 14 15}",
+   "et": ""
+  },
+  {
+   "id": 6,
+   "en": "{07 11 00}Hey, you use that {ff 00 00 07}boxing\nmat{ff 00 00 00} to practice whacking\npeople with nets, don't ya!",
+   "et": ""
+  },
+  {
+   "id": 7,
+   "en": "{07 14 00}Y'know, {01 00 00 05 00}I've always dreamed\nof standing in that {ff 00 00 07}red\ncorner {ff 00 00 00}someday!\nARRRRGH!{01 08 00}",
+   "et": ""
+  },
+  {
+   "id": 8,
+   "en": "{07 14 00}And in the {ff 00 00 07}blue corner{ff 00 00 00}...{01 00 00 05 00}\nThe latest challenger...{01 00 00 14 00}\nSavage Jaw {04 01 00}!\n{07 00 00}MAN, that sounds so cool,\n{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 9,
+   "en": "{07 11 00}Wrestling REALLY gets going\nonce you corner your foe \nin the {ff 00 00 07}neutral corner{ff 00 00 00}!",
+   "et": ""
+  },
+  {
+   "id": 10,
+   "en": "{07 04 00}What?! {01 00 00 05 00}Are you SERIOUS?!{01 00 00 14 00}\n{07 16 00}Wrestlers can't ring the\n{ff 00 00 07}judge's bell{ff 00 00 00}?!{01 00 00 0a 00}\n{07 06 00}Nobody told me that\nbefore, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 11,
+   "en": "{07 00 00}Y'know, {07 0d 00}I got a perfect\nscore on the {ff 00 00 07}vision tester {ff 00 00 00}\nonce, {01 00 00 05 00}{04 02 00}...",
+   "et": ""
+  },
+  {
+   "id": 12,
+   "en": "{07 00 00}I measured myself on the\n{ff 00 00 07}trunk measure{ff 00 00 00} the other\nday and...\n{07 07 00}It was then I discovered\nthe terrible truth, \n{01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 13,
+   "en": "{07 16 00}If you get on the\n{ff 00 00 07}stadiometer {ff 00 00 00}in your bare\nfeet, you FREEZE!",
+   "et": ""
+  },
+  {
+   "id": 14,
+   "en": "{07 02 00}Hey, that's a {ff 00 00 07}cow skull{ff 00 00 00}!{01 00 00 0a 00}\nThat's not{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} That isn't\nREAL, is it, {01 00 00 05 00}{04 02 00}?{02 00 00 16 17}\nIt is!\nOf course not!",
+   "et": ""
+  },
+  {
+   "id": 15,
+   "en": "{07 04 00}Whoa, I just noticed I\nspilled my protein shake in\nmy lap earlier, {01 00 00 05 00}{04 02 00}!\n{07 14 00}It's nice to have a\n{ff 00 00 07}tissue {ff 00 00 00}in times like this!",
+   "et": ""
+  },
+  {
+   "id": 16,
+   "en": "{07 16 00}Hey{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00} What's that {ff 00 00 07}surfboard\n{ff 00 00 00}doing over there, huh?\n\n{07 0b 00}Do you really surf,\n{04 02 00}?{02 00 00 18 19}\nTotally!\nNot really...",
+   "et": ""
+  },
+  {
+   "id": 17,
+   "en": "How good are you on\nthat {ff 00 00 07}snowboard{ff 00 00 00}?{05 05 00 04 1a 04 1b 04 1c 04 1d}\nI'm a pro!\nI stink.",
+   "et": ""
+  },
+  {
+   "id": 18,
+   "en": "Man, if I had a {ff 00 00 07}Diver Dan{ff 00 00 00}...\n\n\n{07 11 00}Just LOOKING at that makes\nme wanna search for sunken\ntreasure, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 19,
+   "en": "Whoa!{01 00 00 14 00} {07 06 00}I smell barbecue!\n\n\n{07 0b 00}Or is it just me,\n{01 00 00 05 00}{04 02 00}?",
+   "et": ""
+  },
+  {
+   "id": 20,
+   "en": "{07 14 00}Man, I'm seeing you in \na new light,{01 00 00 05 00} {ff 00 00 05}{04 1f 00}{ff 00 00 00}!\n{0b 03 00}{01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 21,
+   "en": "{07 0e 00}You haven't gotten{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\nstronger than ME, have you,\n{01 00 00 05 00}{04 02 00}?",
+   "et": ""
+  },
+  {
+   "id": 22,
+   "en": "{07 04 00}That can NOT be true!{01 01 00}\n{07 07 00}That just ain't right,\n{01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 23,
+   "en": "{07 14 00}Phew! {01 00 00 05 00}Boy, I thought not!{01 00 00 0a 00}\nNo way you'd have something\nthat tasteless.\nKinda morbid thing to have\nin your house though, huh,\n{04 02 00}?",
+   "et": ""
+  },
+  {
+   "id": 24,
+   "en": "{07 15 00}You total LIAR!{01 00 00 0f 00}\n{07 16 00}If you surfed, you'd have a\nkiller tan!",
+   "et": ""
+  },
+  {
+   "id": 25,
+   "en": "{07 03 00}War har har har har!{01 00 00 0a 00}\nI knew it, {01 00 00 05 00}{04 02 00}!\n\n{07 16 00}I mean, I bet you'd shrivel\nup in the ocean!\n",
+   "et": ""
+  },
+  {
+   "id": 26,
+   "en": "{07 04 00}Wha, brutal honesty!{01 00 00 0f 00}\n{07 16 00}C'mon, {04 1f 00}, show\na little creativity!\n{07 06 00}At least PRETEND you shred\nthe slopes, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 27,
+   "en": "{07 14 00}Well then, I'll teach you\nhow to be a better rider,\n{01 00 00 05 00}{04 02 00}!\n{07 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 11 00}The key is your tush!\n\n\n{07 15 00}You turn on your tush,\n{01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 28,
+   "en": "{07 14 00}Whoa, pretty full of beans,{01 00 00 05 00}\neh, {ff 00 00 05}{04 1f 00}{ff 00 00 00}?!\n\n{07 15 00}Then{01 00 00 05 00} you and me are gonna\nhave a shred-off!{01 00 00 05 00} It is ON!{01 01 00}\n{07 00 00}That's what I'd like to say.\nProblem is, {07 14 00}I'm more of a \nfigure skating kinda guy,\n{01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 29,
+   "en": "{07 04 00}Whoa, seriously?!{01 00 00 14 00}\n{07 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}Are you sponsored?\n\n{07 11 00}Are you sure you aren't\nplaying, {01 00 00 05 00}{04 02 00}?",
+   "et": ""
+  }
+ ]
+}

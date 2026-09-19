@@ -1,0 +1,120 @@
+{
+ "file": "script/ENG/message/ge/3p/fu_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{09 01 00}{07 0d 00}Dancing to {04 14 00}\nis the hottest trend in\nworking out, {01 00 00 05 00}{04 02 00}!{09 09 00}",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{09 01 00}{09 07 00}{07 0d 00}Someday, I'm gonna be the\nhottest pop star on the\nplanet, {01 00 00 05 00}{04 02 00}!{09 09 00}",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{09 01 00}{09 07 00}{07 00 00}I've been doing some\nthinking, and just once in\nmy life{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\nI'd like to{07 13 00} eat a\n{04 12 00}\npatissier!{09 09 00}",
+   "et": ""
+  },
+  {
+   "id": 3,
+   "en": "{07 14 00}{09 00 00}{09 08 00}{09 02 00}{07 04 00}Huh?{01 00 00 0f 00} {07 00 00}I've never heard of\nthat, {01 00 00 05 00}{04 02 00}.{09 09 00}",
+   "et": ""
+  },
+  {
+   "id": 4,
+   "en": "{09 00 00}{09 06 00}{09 01 00}{07 0b 00}Huh? {01 00 00 05 00}Don't you watch the\nhot shows on TV?{09 09 00}",
+   "et": ""
+  },
+  {
+   "id": 5,
+   "en": "{07 00 00}{09 00 00}{09 08 00}{09 02 00}{07 00 00}{07 0b 00}{0b 03 00}Wait, you mean square\ndancing? {01 00 00 05 00}I do that all the\ntime!{09 09 00}",
+   "et": ""
+  },
+  {
+   "id": 6,
+   "en": "{07 00 00}{09 00 00}{09 06 00}{09 01 00}{07 0e 00}Hmmm{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} That sounds old\nand totally un-hot,\n{01 00 00 05 00}{04 02 00}.\n{07 00 00}{07 0b 00}How old are you?!{09 09 00}",
+   "et": ""
+  },
+  {
+   "id": 7,
+   "en": "{07 00 00}{09 00 00}{09 08 00}{09 02 00}{07 1d 00}I'M NOT OLD!{01 00 00 0f 00} {07 16 00}I'm just into\ndifferent music, that's all!\n\n{07 0f 00}I mean, we're around the\nsame age, right?{01 00 00 05 00} Right?!\n{0b 03 00}{01 00 00 05 00}{04 02 00}?{03 03 00 01}",
+   "et": ""
+  },
+  {
+   "id": 8,
+   "en": "{07 14 00}{09 00 00}{09 08 00}{09 02 00}{07 04 00}You? {01 00 00 05 00}A pop star?\n\n\n{07 14 00}You'd better have a really\namazing voice!{09 09 00}",
+   "et": ""
+  },
+  {
+   "id": 9,
+   "en": "{09 00 00}{09 06 00}{09 01 00}{07 02 00}Why do you say that?\nAre you saying I'm not cute\nenough to be a pop star?!\n{07 06 00}{0b 03 00}{ff 00 00 06}{04 10 00}{ff 00 00 00}, {01 00 00 05 00}how could you!{09 09 00}",
+   "et": ""
+  },
+  {
+   "id": 10,
+   "en": "{07 16 00}{09 00 00}{09 08 00}{09 02 00}{07 1d 00}Oh!{01 00 00 14 00} I didn't mean it that\nway at all!{01 01 00} {07 16 00}I was just{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{09 09 00}",
+   "et": ""
+  },
+  {
+   "id": 11,
+   "en": "{09 00 00}{09 06 00}{09 01 00}{07 15 00}Don't even talk to me!\nI want to hear what\n{04 1f 00} thinks!\n{09 02 00}{09 04 00}{09 01 00}{09 04 00}Hey, {01 00 00 05 00}{04 1f 00}!{07 0b 00} Do you\nthink I'm cute?{02 00 00 0c 10}\nTotally!\n...Not so much.",
+   "et": ""
+  },
+  {
+   "id": 12,
+   "en": "{07 02 00}Really? {01 00 00 0a 00}You think I'm cute,\n{01 00 00 05 00}{04 02 00}?!{09 09 00}",
+   "et": ""
+  },
+  {
+   "id": 13,
+   "en": "{09 00 00}{09 08 00}{09 02 00}{09 06 00}{07 1d 00}Uhhh...yeah! {07 14 00}Totally\nadorable, {ff 00 00 06}{04 0f 00}{ff 00 00 00}!{09 09 00}",
+   "et": ""
+  },
+  {
+   "id": 14,
+   "en": "{09 00 00}{09 06 00}{09 01 00}{07 17 00}Adorable{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 01 00} {07 04 00}Oh, {01 00 00 05 00}no!{01 01 00}\n{07 00 00}{09 08 00}{07 16 00}Sometimes, I'm so cute it's\n{07 07 00}scary!{09 09 00}",
+   "et": ""
+  },
+  {
+   "id": 15,
+   "en": "{09 00 00}{09 08 00}{09 02 00}{09 06 00}{07 06 00}Uhhh, yeah{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{03 01 00 01}{09 01 00}{03 01 00 01}",
+   "et": ""
+  },
+  {
+   "id": 16,
+   "en": "{07 01 00}Hey! {01 00 00 0a 00}I thought you were a\nmember of the {ff 00 00 06}{04 0f 00}\n{ff 00 00 00}fan club!\n{07 16 00}I can't believe you'd say\nsomething like that,{07 0f 00}\n{04 1f 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{09 09 00}",
+   "et": ""
+  },
+  {
+   "id": 17,
+   "en": "{09 00 00}{09 08 00}{09 02 00}{09 06 00}{07 16 00}{0b 03 00}{ff 00 00 06}{04 0f 00}{ff 00 00 00}, {01 00 00 05 00}cheer up!{01 00 00 0a 00}\nYou've got more going for\nyou than looks.\n{07 0e 00}Ummm{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{01 00 00 05 00} {07 0c 00}You've got big,\nstrong hands.\n\n{07 14 00}I bet you can open jars\nlike a champ with those\nthings, {01 00 00 05 00}{04 02 00}! {09 09 00}",
+   "et": ""
+  },
+  {
+   "id": 18,
+   "en": "{09 00 00}{09 06 00}{09 01 00}{09 08 00}{01 00 00 0a 00}{07 09 00}...{03 02 00 01}",
+   "et": ""
+  },
+  {
+   "id": 19,
+   "en": "{09 00 00}{09 08 00}{09 02 00}{07 14 00}{ff 00 00 06}{04 0f 00}{ff 00 00 00}, \nyou're just like me!\n\n{07 14 00}Y'know, totally insane for\nthe sweet, sweet goodness,\n{01 00 00 05 00}{04 02 00}!{09 09 00}",
+   "et": ""
+  },
+  {
+   "id": 20,
+   "en": "{09 00 00}{09 06 00}{09 01 00}{07 17 00}He he he{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} I mainly crave\nthem right before I go\nto bed.\n{07 14 00}Mmmm, doesn't a \"patissier\"\nsound totally\nmouth-watering?\n{07 13 00}I'd love to take a big bite\nout of one right now,\n{01 00 00 05 00}{04 02 00}!{09 09 00}",
+   "et": ""
+  },
+  {
+   "id": 21,
+   "en": "{09 00 00}{09 08 00}{09 02 00}{07 02 00}{ff 00 00 06}{04 0f 00}{ff 00 00 00}?!{01 00 00 14 00}\nPatissier is a fancy word\nfor{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{01 01 00}{07 16 00}a pastry chef!{09 09 00}",
+   "et": ""
+  },
+  {
+   "id": 22,
+   "en": "{09 00 00}{09 06 00}{09 01 00}{07 04 00}Eeeeeeeek!{01 00 00 14 00}\n{07 16 00}I thought it was just a\nfancy buttered pastry!{03 03 00 01}",
+   "et": ""
+  }
+ ]
+}

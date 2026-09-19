@@ -1,0 +1,20 @@
+{
+ "file": "script/ENG/message/bo/q07/con_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "I don't mean to nag you,\nbut {07 18 00}didn't I give you a\nletter for {ff 00 00 06}{04 10 00}{ff 00 00 00}?\n{07 06 00}I need you to deliver it\nwithin the promised time\nframe! C'mon, {04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "You know I'm usually pretty\nchill, {01 00 00 05 00}but {07 16 00}about the letter\nto {ff 00 00 06}{04 10 00}{ff 00 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n{07 14 00}You absolutely, positively\nhave to deliver it in the\ntime frame we agreed on!",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 16 00}My letter to {ff 00 00 06}{04 10 00}\n{ff 00 00 00}{07 14 00}really needs to get there\non time,{01 00 00 0a 00} {04 02 00}.",
+   "et": ""
+  }
+ ]
+}

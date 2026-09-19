@@ -1,0 +1,20 @@
+{
+ "file": "script/ENG/message/ha/q01/con1_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 16 00}I am getting cheesed OFF!{01 00 00 05 00}\nI have yet to catch me\n{04 1a 00}!\n{07 05 00}I'll tell you this much{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\nI'm gonna catch one before\nyou do, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 06 00}I can't get my hands on\n{04 1a 00}!\n\n{07 15 00}Yaargh! {01 00 00 05 00}By my bulging\nbiceps, I swear that I'll\nnab one, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 01 00}I'm such a tiny wimpburger!{01 00 00 14 00}\n{07 16 00}I let it get away! {01 00 00 05 00}Stupid\n{0b 02 00}{04 1a 00}!\n{07 06 00}If only my muscles had\nbeen just a little more\nripped,{01 00 00 05 00} {04 02 00}!",
+   "et": ""
+  }
+ ]
+}

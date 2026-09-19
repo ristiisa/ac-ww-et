@@ -1,0 +1,35 @@
+{
+ "file": "script/ENG/message/fu/ai/30days_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 04 00}Oh my!{01 00 00 05 00} It can't be! Is it.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\nreally you, {04 1f 00}?\nIs it possible, {01 00 00 05 00}{04 02 00}?\n{07 14 00}I can't believe it!\nYou're alive!\n\nI have been{01 00 00 0a 00} so worried \nabout you. Where have you\nbeen all this time?\n{07 00 00}How many months has it\nbeen since I saw you last?\nAt least {04 12 00}, right?",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 04 00}Oh, my! What have we here,\n{01 00 00 0a 00}{04 02 00}! Here's someone\nI haven't seen in a while.\n{07 0b 00}Tell me, {04 1f 00}, \nhow long has it been since\nthe last time we talked?\n{07 14 00}You know me: I still like to\n{04 22 00}, but.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0f 00}it's\nnot the same without you.",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "Where the heck have you\nbeen, {01 00 00 05 00}{04 02 00}?\nIt's been months!\nOr at least {04 12 00} of 'em!{01 00 00 0f 00}\n{07 09 00}I have been {01 00 00 05 00}SO{01 00 00 0f 00}\nlonely without you!\n{07 14 00}From now on, you MUST come\nsee me every day, you got\nthat, {01 00 00 05 00}{04 02 00}?",
+   "et": ""
+  },
+  {
+   "id": 3,
+   "en": "{07 04 00}Ahhhhh!{01 00 00 0f 00} Is that really you,\n{04 1f 00}?!\n\n{07 00 00}Do you know how many\nmonths it's been? {04 12 00}!\nI can't believe you!\n{07 09 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}You don't care about me\nat all, do you?\n\n{07 14 00}PLEASE! You have to promise\nyou'll come talk to me more\noften, {01 00 00 05 00}{04 02 00}!\nI'll be {01 00 00 05 00}waiting for you.",
+   "et": ""
+  },
+  {
+   "id": 4,
+   "en": "{07 0a 00}It's about time you came to\nsee me!{01 00 00 0f 00} It's been months!\nOr at least {04 12 00} of them!\n{07 0b 00}I'm sure you've been very\nbusy.{01 00 00 0f 00}{07 00 00} These things\nhappen.\nBut, {01 00 00 05 00}{04 1f 00}, make me\none promise, OK?\n\n{07 14 00}Don't forget to come talk\nto me.{01 00 00 0a 00} You WILL promise,\nwon't you, {01 00 00 05 00}{04 02 00}?",
+   "et": ""
+  },
+  {
+   "id": 5,
+   "en": "{07 14 00}Hi! Nice to meet you!{01 00 00 0f 00}\nI'm-- Wait a minute.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n{07 18 00}I know you!\nIt is {04 00 00}, isn't it?\nI mean, is it really you,\n{04 1f 00}?\n{07 0a 00}Wow!{01 00 00 0a 00} I can't believe this!\nI was afraid you'd moved to\nanother town, {01 00 00 05 00}{04 02 00}.{07 00 00}",
+   "et": ""
+  }
+ ]
+}

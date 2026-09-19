@@ -1,0 +1,35 @@
+{
+ "file": "script/ENG/mail/super/ev_fishing.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "To the champ, \n,",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "Fish Master \n,",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "Master Reeler \n,",
+   "et": ""
+  },
+  {
+   "id": 3,
+   "en": "Well angled, \n!",
+   "et": ""
+  },
+  {
+   "id": 4,
+   "en": "Nice try, \n!",
+   "et": ""
+  },
+  {
+   "id": 5,
+   "en": "Nice effort, \n!",
+   "et": ""
+  }
+ ]
+}

@@ -1,0 +1,20 @@
+{
+ "file": "script/ENG/message/fu/q07/open_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 1d 00}Hey, {01 00 00 05 00}{04 1f 00}!{01 00 00 0a 00} HEY!{01 00 00 0a 00} {07 16 00}You\nshouldn't open someone\nelse's letter! How rude!\n{07 15 00}That violates my right to\nprivacy, {01 00 00 05 00}{04 02 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0f 00}\nGive me back that letter!{03 02 00 01}",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 16 00}Oh, {04 1f 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0f 00} Why? {07 06 00}Why\ndid you open my letter\nto {ff 00 00 06}{04 10 00}{ff 00 00 00}?\n{07 0f 00}I can't believe I trusted\nyou!{01 00 00 0f 00} {07 00 00}{07 15 00}You're a cad! Give me\nback that letter right now!{03 02 00 01}",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 00 00}{0b 03 00}{04 1f 00}! {07 0b 00}What's your\nproblem?{01 00 00 05 00} Huh?{01 00 00 05 00} You LIKE\nopening other folks' mail?\n{07 0f 00}You took my trusting heart\nand stomped it into the\ndirt, {01 00 00 05 00}{04 02 00}.\n{07 1c 00}Just forget about the\ndelivery and give me the\nletter back, {04 02 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{03 03 00 01}",
+   "et": ""
+  }
+ ]
+}

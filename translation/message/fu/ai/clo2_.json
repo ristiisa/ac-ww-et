@@ -1,0 +1,20 @@
+{
+ "file": "script/ENG/message/fu/ai/clo2_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 14 00}Hey, take a look at this,{01 00 00 05 00}\n{01 00 00 05 00}{04 1f 00}!{01 01 00}\n{07 0b 00}So? What do you think?\n{07 14 00}{ff 00 00 05}{04 14 00}{ff 00 00 00} sent it to me\nin the mail, along with a\nnice letter, {01 00 00 05 00}{04 02 00}.\nIsn't {ff 00 00 05}{04 14 00} {ff 00 00 00}sweet?{01 00 00 05 00}\nAnd such impeccable taste\nin clothes, too!\nI wish everyone were so\nnice.{01 00 00 0f 00} {07 13 00}I {01 00 00 05 00}love it,\n{01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 14 00}{0b 03 00}{04 1f 00}!{01 00 00 0f 00} You like the\n{0b 02 00}{04 1b 00}\nI'm wearing?\nWell, guess what.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n{ff 00 00 05}{04 14 00} {ff 00 00 00}sent it to me,\n{01 00 00 05 00}{04 02 00}!\n{07 17 00}What do you think?{01 00 00 0a 00} Isn't\nthe cut perfect? It fits\nme like a glove!\n{07 13 00}I had no idea {ff 00 00 05}{04 14 00}{ff 00 00 00}\ncared so much about me!",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 04 00}Oh, {01 00 00 05 00}{04 1f 00}!{01 00 00 0a 00} Do you\nnotice anything new about\nme, {01 00 00 05 00}{04 02 00}?{07 00 00}{01 00 00 0f 00}\nMy {0b 02 00}{04 1b 00}!\n{07 17 00}It was a present from my\ndear friend {ff 00 00 05}{04 14 00}{ff 00 00 00}.\n{07 0a 00}It made me so happy!{01 00 00 05 00} I\ndidn't even want to take it\noff, so I just slept in it!\n{07 0d 00}I wish I had a million of\nthese, so I could keep\nwearing them forever!",
+   "et": ""
+  }
+ ]
+}

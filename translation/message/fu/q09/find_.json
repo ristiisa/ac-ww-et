@@ -1,0 +1,20 @@
+{
+ "file": "script/ENG/message/fu/q09/find_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 06 00}Aaaarrrgh!{01 00 00 05 00} You found me!{01 00 00 14 00}\n{07 15 00}You're way too good,\n{04 1f 00}!\n{07 1c 00}I lose again...{01 00 00 05 00} Like always,\n{01 00 00 05 00}{04 02 00}...\n\n{07 1a 00}Oh well! What can you do?{01 00 00 0a 00} I\nguess I'll fork over this\ncool prize!",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 00 00}.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}Hey, how did you know I\n{07 0b 00}was here, {01 00 00 05 00}{04 02 00}?{01 00 00 0f 00} That\ndidn't take long at all!\n{07 1a 00}You rule, {04 1f 00}!{01 00 00 05 00} I\nadmit defeat{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00} {07 0d 00}And now\nit's time for your prize!",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 06 00}Oh no! You found me!{01 00 00 0f 00} {07 16 00}Wow,\nI'm no match for you,\n{01 00 00 05 00}{04 02 00}\n{07 14 00}And in exchange for seeing\nthe seeking master in\naction...\nI'm going to give you a\nlittle present!",
+   "et": ""
+  }
+ ]
+}

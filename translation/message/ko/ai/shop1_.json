@@ -1,0 +1,45 @@
+{
+ "file": "script/ENG/message/ko/ai/shop1_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 19 00}Grown-ups have to fill\ntheir houses with grown-up\nfurniture.",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 1b 00}This place is still crammed\nwith weird odds and ends,\n{01 00 00 05 00}{04 02 00}.\n{07 00 00}I keep telling them that\nthey gotta start carrying \nnicer stuff, {01 00 00 05 00}{04 02 00}.",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 04 00}Hey!{01 00 00 14 00} You're not thinking of\nbuying something you don't\nneed, are you?!\n{01 08 00}{07 02 00}RUN!{01 00 00 0a 00} {07 15 00}Run far away...{01 00 00 0a 00}while\nyou still have a chance,\n{01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 3,
+   "en": "{07 0e 00}{01 00 00 0f 00}What am I gonna do?\nI want to buy it all{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 14 00} {07 06 00}\nBut I'm completely broke!{01 00 00 05 00}\n{07 00 00}Hey, {01 00 00 0f 00}{04 1f 00}!{01 00 00 14 00}\n{07 11 00}You've got some money,\nright? {01 00 00 0a 00}{0b 03 00}{04 02 00}?!",
+   "et": ""
+  },
+  {
+   "id": 4,
+   "en": "It's not like I'm actually\ngoing to buy anything.\n\n{07 11 00}I just like to mess with \n{ff 00 00 06}Nook {ff 00 00 00}and make him think I'm\ninterested, {01 00 00 05 00}{04 02 00}! ",
+   "et": ""
+  },
+  {
+   "id": 5,
+   "en": "Yikes.{01 00 00 0f 00} Where does {ff 00 00 06}Nook{ff 00 00 00} find\nall this crazy furniture,\n{01 00 00 05 00}{04 02 00}?!",
+   "et": ""
+  },
+  {
+   "id": 6,
+   "en": "{07 14 00}Hitting up shops like this \nonce in a while isn't so\nbad, {01 00 00 05 00}{04 02 00}.\n{07 19 00}It's a nice change of pace.\nYou can't {04 22 00}\nall the time, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 7,
+   "en": "{0b 03 00}{01 00 00 0f 00}{04 1f 00}!{01 00 00 14 00}{07 0b 00} Don'tcha think \nthis place could use some \ncustomer-service training?\n{07 17 00}I'm the customer. {01 00 00 05 00}I'm always\nright.{01 00 00 05 00} Don't they\nunderstand that?\n{07 01 00}They could at least serve \nme some {04 18 00}\nor something,{01 00 00 05 00} {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  }
+ ]
+}

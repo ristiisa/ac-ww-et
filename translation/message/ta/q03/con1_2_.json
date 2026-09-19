@@ -1,0 +1,20 @@
+{
+ "file": "script/ENG/message/ta/q03/con1_2_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 0e 00}{01 00 00 0a 00}Unlike fish and bugs,\nfossils can't run away{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 01 00} {07 0b 00}So\nwhy can't I find any, then?",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 19 00}{01 00 00 0a 00}Fossils have millions of\nyears of experience hiding.\n\nThey're like ninjas or\nsomething. {01 01 00}{07 1b 00}{01 00 00 0a 00}It won't be so\neasy to find them.",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 1c 00}Where is it?{01 00 00 14 00} All I want is a\nfossil that's as small and\npretty as I am!",
+   "et": ""
+  }
+ ]
+}

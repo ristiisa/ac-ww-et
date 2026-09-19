@@ -1,0 +1,20 @@
+{
+ "file": "script/ENG/message/ge/q06/open3_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 00 00}...{01 00 00 05 00}{0b 03 00}{04 1a 00}?!{01 00 00 14 00}\nGee whiz, why not just toss\nmy heart in a dumpster?",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 00 00}{0b 03 00}{04 1a 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00}\nGreat.{01 00 00 05 00} Something a little\nfancier woulda been nice{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 00 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}What?!{01 00 00 0a 00} Get with the times,\nwill ya? {01 00 00 05 00}Nobody wants\n{04 1a 00}!",
+   "et": ""
+  }
+ ]
+}

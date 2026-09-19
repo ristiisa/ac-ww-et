@@ -1,0 +1,80 @@
+{
+ "file": "script/ENG/mail/msg/sp_npc_snowman.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "This {04 10 00} \nwill cool off food in no\ntime! Thanks again for\nmaking me!",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "This {04 10 00} \nwill cool down even the\nhottest dishes. It's great\nfor spicy food!",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "As thanks for making me,\nhere's a present! This\n{04 10 00} makes\nsleeping cool and comfy!",
+   "et": ""
+  },
+  {
+   "id": 3,
+   "en": "To show my appreciation,\nI want to give you this\n{04 10 00}! It's\nshort and cute. Like me!",
+   "et": ""
+  },
+  {
+   "id": 4,
+   "en": "Thanks for creating me...\nThis {04 10 00}\nshould give you comfort\non a cold winter's night.",
+   "et": ""
+  },
+  {
+   "id": 5,
+   "en": "All hail my creator! In\nthanks, I will soothe your\naching muscles with this\n{04 10 00}!",
+   "et": ""
+  },
+  {
+   "id": 6,
+   "en": "I'm glad you made me! Use\nthis {04 10 00}\nto watch your favorite\nsnowboarding events!",
+   "et": ""
+  },
+  {
+   "id": 7,
+   "en": "This {04 10 00} is\ngreat for storing scarfs,\nsweaters, or any other\nwintery items! Thanks!",
+   "et": ""
+  },
+  {
+   "id": 8,
+   "en": "You did a good job with\nme! I'm so happy! Take\nthis {04 10 00}\nas a token of my thanks!",
+   "et": ""
+  },
+  {
+   "id": 9,
+   "en": "This {04 10 00} is\nfor you, my creator! It's\na pretty popular design,\nfrom what I hear!",
+   "et": ""
+  },
+  {
+   "id": 10,
+   "en": "I spent all night weaving\nthis {04 10 00}.\nDon't be shy! Take it! And\nthanks for making me!",
+   "et": ""
+  },
+  {
+   "id": 11,
+   "en": "This {04 10 00} is\nmy pride and joy! It will\nbring the joy of winter\nright into your home!",
+   "et": ""
+  },
+  {
+   "id": 12,
+   "en": "Hoorah! Bright Nights is\nmy favorite time of year.\nHere's a little something\nto celebrate it!",
+   "et": ""
+  },
+  {
+   "id": 13,
+   "en": "Bright Nights is my kind\nof festival! I don't know\nif I need to give gifts,\nbut here's one anyway.",
+   "et": ""
+  },
+  {
+   "id": 14,
+   "en": "This present should make\nyour Bright Nights even\nBRIGHTER! Please enjoy\nwith my compliments!",
+   "et": ""
+  }
+ ]
+}

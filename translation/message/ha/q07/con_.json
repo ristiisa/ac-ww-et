@@ -1,0 +1,20 @@
+{
+ "file": "script/ENG/message/ha/q07/con_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 04 00}What're you doing here?{01 00 00 14 00}\n{07 0b 00}How come you still have the\nletter I gave you?\n{07 06 00}Listen, you gotta deliver \nthat before {ff 00 00 06}{04 10 00}{ff 00 00 00}\ngives up all hope!",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 16 00}What the heck are you still\ndoing here?!\n\n{07 06 00}You promised to deliver the\nletter to {ff 00 00 06}{04 10 00}{ff 00 00 00},\nright, {01 00 00 05 00}{04 02 00}?!\n{07 16 00}There's no time to lose!{01 00 00 05 00}\nGet a move on,\n{01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 16 00}Hey!{01 00 00 05 00} You're still here?!{01 00 00 05 00}\nWhat the HECK,\n{04 02 00}?{01 00 00 05 00}\nY'know,{01 00 00 05 00}{07 0e 00} {ff 00 00 06}{04 10 00} {ff 00 00 00}is lazy,\nbut pretty uptight about\nstuff being on time{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 06 00}You really oughta get going\nbefore {ff 00 00 06}{04 10 00} {ff 00 00 00}starts\nfreaking out on me!",
+   "et": ""
+  }
+ ]
+}

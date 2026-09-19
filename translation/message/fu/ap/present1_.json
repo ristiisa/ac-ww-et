@@ -1,0 +1,100 @@
+{
+ "file": "script/ENG/message/fu/ap/present1_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 14 00}{0b 03 00}{01 06 00}Howdy{01 07 00}!{01 00 00 0f 00}\n{0b 03 00}{04 1f 00}! I've got a quiz\nfor you, {01 00 00 05 00}{04 02 00}!\n{07 00 00}If I were a film star, {07 0b 00}what\nsorts of films do you think\nI'd star in, {01 00 00 05 00}{04 02 00}?{05 05 00 03 03 08 04 03 05 02 06}\nAction!\nRomantic comedy!",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 14 00}{0b 03 00}{01 06 00}Well, hello there{01 07 00}!{01 00 00 0a 00}\nI know how you love these,\nso here it comes!\nPop-quiz time, {04 1f 00}!\n\n\n{07 00 00}How would you describe my\nrelationship with\n{04 0b 00}?{05 05 00 04 0a 04 0b 07 0c 01 0d}\nBest friends!\nMortal foes!",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 14 00}{0b 03 00}{01 06 00}Great timing{01 07 00}!{01 00 00 0a 00}\nI've got a little quiz for\nyou to take, {04 1f 00}!\n{07 00 00}If you had to guess,{07 0b 00} how\nwell would you say I get\nalong with {04 0c 00}?{05 05 00 02 0e 05 0f 04 10 05 11}\nBest friends!\nMortal foes!",
+   "et": ""
+  },
+  {
+   "id": 3,
+   "en": "{07 16 00}Are you serious?{01 01 00}\n{07 00 00}I know the girls in those\nmovies are cute and all...\n{07 16 00}But they're just so vapid!{01 00 00 05 00}\nAll they ever do is moon\nover some sensitive loser!\nI want more from life than\nthat, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 4,
+   "en": "{07 02 00}Wow! That's very astute of\nyou, {01 00 00 05 00}{04 02 00}! I think I'd\nmake a good action star.\nAnd I am into action\nmovies. But then again,\nisn't everyone, {01 00 00 05 00}{04 02 00}?\n{07 14 00}For giving me such a good\nanswer, I've got a fabulous\ngift for you, {04 1f 00}!",
+   "et": ""
+  },
+  {
+   "id": 5,
+   "en": "{07 16 00}I don't know, that seems\nlike a bit of a cop-out, as\nfar as answers go.\n{07 00 00}I'm not really that\ntough to figure out, am I,\n{01 00 00 05 00}{04 02 00}?\n{07 0f 00}My friend {04 0b 00} is\nalways telling me I don't\nstand out enough{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.",
+   "et": ""
+  },
+  {
+   "id": 6,
+   "en": "{07 16 00}Ew! Have you seen the girls\nthat star in those things?\n\n{07 00 00}It's like they're made of\nplastic! They don't even\nlook normal anymore!\n{07 10 00}It makes me sad to see\ngirls do that sort of thing\nto themselves, {01 00 00 05 00}{04 02 00}.",
+   "et": ""
+  },
+  {
+   "id": 7,
+   "en": "{07 00 00}It's nothing much. Just\n{04 1b 00}.{01 00 00 0f 00}\nBut I hope you like it.",
+   "et": ""
+  },
+  {
+   "id": 8,
+   "en": "{07 00 00}It's a nifty little trinket:\n{04 1b 00}!\n\n{07 16 00}What?{01 00 00 0f 00} Oh, you wanted\nsomething else,\n{01 00 00 05 00}{04 02 00}?",
+   "et": ""
+  },
+  {
+   "id": 9,
+   "en": "{07 00 00}I want you to have this,\nmy favorite thing ever:\n{04 1b 00}!{01 00 00 0f 00}\n{07 14 00}These things are all the\nrage with the kids. I hope\nyou like it, {01 00 00 05 00}{04 02 00}.",
+   "et": ""
+  },
+  {
+   "id": 10,
+   "en": "Whoa, what are you saying?\nThat's not right at all,\n{01 00 00 05 00}{04 02 00}.\n{07 14 00}Honestly, I don't think I\nhave ANY enemies, and we're\npretty good friends!",
+   "et": ""
+  },
+  {
+   "id": 11,
+   "en": "{07 16 00}What?{01 00 00 0f 00} That's not right\nat all, {01 00 00 05 00}{04 02 00}.\n\n{07 0e 00}At least, I like to think\nthat's not true{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.",
+   "et": ""
+  },
+  {
+   "id": 12,
+   "en": "{07 04 00}Wow, {01 00 00 05 00}{04 1f 00}!{01 00 00 0f 00} You know\nus so well!\n\n{07 00 00}Well, like you said, there's\nnothing wrong with the two\nof us right now.\n{07 0e 00}Of course, I suppose things\nreally could be a little\nbetter, couldn't they?\n{07 06 00}But that's another story!{01 01 00}\n{07 14 00}For guessing right, I've got\na special treat for you!",
+   "et": ""
+  },
+  {
+   "id": 13,
+   "en": "Too bad! You're wrong! {01 00 00 05 00}\nTotally wrong!{01 00 00 0f 00} OK, well, not\nTOTALLY totally wrong.{01 00 00 05 00}.{01 00 00 05 00}.\nI mean, yeah,{01 00 00 05 00} the two of\nus are pretty good\nfriends, {01 00 00 05 00}{04 02 00}.\n{07 19 00}But it's not like we're\nbosom buddies or anything.\nI'm just saying{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.",
+   "et": ""
+  },
+  {
+   "id": 14,
+   "en": "{07 0e 00}Hmmm{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} That's a little\nextreme, don't you think?\n\n{07 00 00}I mean, we may not be\nthe closest people in the\nworld or anything...\n{07 14 00}but I'm not about to do\nanything drastic, if that's\nwhat you're getting at.",
+   "et": ""
+  },
+  {
+   "id": 15,
+   "en": "{07 02 00}Wow, {01 00 00 0f 00}{04 1f 00}!{01 00 00 0f 00} {07 14 00}You got\nit spot on the money! Nice\nguess, {01 00 00 05 00}{04 02 00}!\n{07 00 00}It's true, things haven't\nbeen going well for us\nlately, but{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n{07 16 00}it's not like I'm curled up\ninto a tiny ball of spite\nwhen I see {04 0c 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 14 00}We're just going over one\nof life's speed bumps,\nthat's all, {01 00 00 05 00}{04 02 00}.\n{07 00 00}But what matters now is{01 00 00 05 00}\nyou were absolutely right,\nand you deserve a prize.",
+   "et": ""
+  },
+  {
+   "id": 16,
+   "en": "{07 0e 00}Hm{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0f 00} {07 16 00}No, I can't really\ngive you credit for that.\n\n{07 00 00}See, our relationship\nisn't{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} Well, I have a tough\ntime trying to{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 1c 00}It's not something I can\ndescribe in such simple\nterms, you know?",
+   "et": ""
+  },
+  {
+   "id": 17,
+   "en": "{07 0e 00}Huh?{01 00 00 14 00} Man, when you're off\nbase,{01 00 00 05 00}{07 16 00} you're WAY off base.\n\n{07 1c 00}To tell you the truth, we're\nnot really all that close.\nI mean, at all{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 04 00}But!{01 01 00} {07 06 00}You can't let that\nget around! I'd just die if\nanyone knew, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 18,
+   "en": "{06 01 00 07 08 09}",
+   "et": ""
+  }
+ ]
+}

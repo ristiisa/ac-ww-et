@@ -1,0 +1,30 @@
+{
+ "file": "script/ENG/message/fu/ai/tire_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 16 00}{0b 03 00}{04 1f 00}, I don't want to\ntalk to you right now, so\njust go away, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 15 00}Get away from me!{01 00 00 0a 00} I've had\nenough of your nonsense\nalready, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": ".{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 0f 00}Don't even bother opening\nyour mouth, because I don't\nwant to talk to you.\n{07 15 00}Why would I? You just keep\nrepeating the same thing\nover and over again!",
+   "et": ""
+  },
+  {
+   "id": 3,
+   "en": "{07 16 00}Don't you look at me\nlike that, {01 00 00 05 00}{04 02 00}!\n\n{07 07 00}You've got that mischievous\nlook again, {04 1f 00}!\nI hate that look!",
+   "et": ""
+  },
+  {
+   "id": 4,
+   "en": "{07 16 00}Why do you keep bothering\nme, {04 1f 00}?\n\n{07 15 00}I hate it when people won't\njust leave me alone!",
+   "et": ""
+  }
+ ]
+}

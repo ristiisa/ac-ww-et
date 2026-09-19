@@ -1,0 +1,35 @@
+{
+ "file": "script/ENG/message/ha/ai/snow2_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 16 00}It's colder out here than \nbodysurfing down a glacier!\n{01 00 00 05 00}{0b 03 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 14 00}Don't freeze up on me now,{01 00 00 05 00}\n{ff 00 00 05}{04 1f 00}{ff 00 00 00}!",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{0b 03 00}{01 06 00}What's up, big hoss{01 07 00}?!",
+   "et": ""
+  },
+  {
+   "id": 3,
+   "en": "The snow is fallin' like mad!{01 00 00 05 00}\n{07 14 00}Kinda like my body fat\npercentile! {01 00 00 05 00}{0b 03 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 4,
+   "en": "{07 14 00}{0b 03 00}{01 06 00}Yo{01 07 00}!{01 00 00 0a 00}\nCold enough for ya,\n{01 00 00 05 00}{04 02 00}?!",
+   "et": ""
+  },
+  {
+   "id": 5,
+   "en": "{07 14 00}Don't let the snow get you\ndown,{01 00 00 05 00} {04 1f 00}!\n{01 00 00 05 00}{0b 03 00}{04 02 00}!",
+   "et": ""
+  }
+ ]
+}

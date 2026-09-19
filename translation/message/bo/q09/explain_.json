@@ -1,0 +1,20 @@
+{
+ "file": "script/ENG/message/bo/q09/explain_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 00 00}Yesss!{01 00 00 14 00} OK. Then I'll hide.\n{07 00 00}And you have to find me!{01 01 00}\n{07 14 00}You've got {ff 00 00 02}five minutes{ff 00 00 00}.\n{07 00 00}If you can find me in {ff 00 00 02}five\nminutes{ff 00 00 00}, you win! {01 00 00 0a 00}{07 14 00}Are you\nready?",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 14 00}Sweeeet! You probably\nalready know this, but let\nme explain the rules.\n{07 15 00}I'm gonna go hide\nsomewhere, and you have to\nfind in {ff 00 00 02}ten minutes{ff 00 00 00} or less.\n.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}{07 0b 00}What do you think?\nSimple, right?{01 01 00} Then{01 00 00 05 00} I'm\ngonna hide! See ya! {01 00 00 05 00}Or not!",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 0a 00}Woo-hoo! Awesome,\n{04 1f 00}. I knew there\nwas a reason I liked you!\n{07 14 00}OK. I'll hide,{01 00 00 05 00} and you have\nto find me within {ff 00 00 02}fifteen\nminutes{ff 00 00 00}, OK?\n{07 15 00}That's {ff 00 00 02}fifteen minutes{ff 00 00 00}!\nIf it takes you longer than\nthat{07 11 00} then you lose!\nI'm going to hide{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}\nSo start counting!",
+   "et": ""
+  }
+ ]
+}

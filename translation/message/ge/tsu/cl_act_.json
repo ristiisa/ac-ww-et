@@ -1,0 +1,65 @@
+{
+ "file": "script/ENG/message/ge/tsu/cl_act_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 06 00}No, no, no! {01 00 00 05 00}This is just\nhideous, {01 00 00 05 00}{04 02 00}!\n\n{07 16 00}This color is soooo last\nseason!{01 01 00}{07 06 00} It's so tacky that\nit's making me GAG!",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "Hey! {07 15 00}Stop right there!{01 00 00 05 00}\n{07 0e 00}Did you wear those clothes\nyesterday?{02 00 00 08 09}\nNo way!\nWhat if I did?",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 0f 00}Yuck.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} All the clothes in\nthis town look the same.\nIt's gross, {01 00 00 05 00}{04 02 00}!\n{07 16 00}Can't a girl get some\ndesigner fashions? {01 00 00 05 00}It's a \nmatter of life and death!",
+   "et": ""
+  },
+  {
+   "id": 3,
+   "en": "{07 16 00}Look at those clothes!{01 01 00}\n{07 0b 00}You're wearing this year's\nhot color!\n{07 14 00}Well, I'm wearing the hot\ncolor of the month!{01 00 00 05 00}\nSo{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} I win, {01 00 00 05 00}{04 02 00}.",
+   "et": ""
+  },
+  {
+   "id": 4,
+   "en": "{07 04 00}What?!{01 00 00 05 00} These clothes look\ndirty? {01 00 00 0a 00}{07 05 00}Like, why are you\nTALKING TRASH, {01 00 00 0a 00}{01 00 00 05 00}{04 02 00}?",
+   "et": ""
+  },
+  {
+   "id": 5,
+   "en": "{07 0a 00}Soooo?{01 00 00 05 00} What do you think?{01 00 00 0a 00}\nMy outfit's is rockin' that\nhot distressed look, right?\n{07 16 00}Well, {01 00 00 05 00}to be honest, I just \ncan't afford to buy new\nstuff{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 6,
+   "en": "{07 16 00}I'm, like, having a TOTAL\nfinancial CRISIS!{01 00 00 0a 00} {07 06 00}I can't\nafford new clothes!",
+   "et": ""
+  },
+  {
+   "id": 7,
+   "en": "{07 0f 00}Sigh{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} That's so nice,\n{01 00 00 05 00}{04 02 00}.\n\n{06 03 00 0a 0b}",
+   "et": ""
+  },
+  {
+   "id": 8,
+   "en": "{07 00 00}Really?{01 01 00} Well{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} To be honest,\nthey're looking a little,\nlike, tired.\n{07 14 00}Maybe you should go\nSHOPPING, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 9,
+   "en": "{07 04 00}Yikes.{01 00 00 0a 00} That's not good!\n{07 06 00}Don't tell me you sleep in\nthat, too! {0b 03 00}{01 00 00 05 00}{04 02 00}?!",
+   "et": ""
+  },
+  {
+   "id": 10,
+   "en": "{07 16 00}Nobody complains about\nboys wearing the same\nnasty clothes every day{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 06 00}How is that fair,\n{04 02 00}?!",
+   "et": ""
+  },
+  {
+   "id": 11,
+   "en": "{07 16 00}{0b 03 00}{04 1f 00}, you look hot\nin just about anything!\n\n{07 06 00}Of course, I don't look so\nbad either, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  }
+ ]
+}

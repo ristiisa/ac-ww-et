@@ -1,0 +1,15 @@
+{
+ "file": "script/ENG/message/bo/q/error1_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 02 00}What?!{01 00 00 0a 00} Already?!{01 00 00 14 00}{07 06 00} You're\nway too fast!\n\n{07 14 00}Since this is a special\noccasion, I need some time\nto make myself look good.",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 1c 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{0b 03 00}{04 1f 00}, come on.\nIt's not like we do this\nevery day,{01 00 00 0a 00} {04 02 00}.\n{07 00 00}I need to stop by my place\nand get ready{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} {07 14 00}I need a\nlittle more time, OK?",
+   "et": ""
+  }
+ ]
+}

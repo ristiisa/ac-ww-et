@@ -1,0 +1,60 @@
+{
+ "file": "script/ENG/message/bo/3p/ta_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{09 01 00}{09 08 00}Hey, {ff 00 00 06}{04 10 00}{ff 00 00 00},{07 0b 00} can you\ncook a three-course meal,\n{01 00 00 05 00}{04 02 00}?{09 09 00}",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{09 01 00}{09 08 00}So, {ff 00 00 06}{04 10 00}{ff 00 00 00},{01 00 00 05 00}{07 0b 00} are you\ndating anyone right now,{01 00 00 05 00}\n{04 02 00}?{09 09 00}",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 14 00}{09 01 00}{09 08 00}If you stuffed your cheeks\nfull of {04 12 00}\nand then {04 13 00},\n{07 0b 00}what do you think it would\ntaste like,{01 00 00 05 00} {04 02 00}?{09 09 00}",
+   "et": ""
+  },
+  {
+   "id": 3,
+   "en": "{09 00 00}{09 08 00}{09 02 00}{09 06 00}Well, of course!{01 00 00 0f 00}{07 15 00} Any doofus\ncan do it! {01 00 00 05 00}It's easy,\n{04 02 00}!\n{07 19 00}Just make\n{04 13 00},{01 00 00 05 00} rice,{01 00 00 05 00}\nand {04 11 00}.{01 00 00 05 00}.{01 00 00 05 00}.\nOr portobello Wellington,{01 00 00 05 00}\nrice,{01 00 00 05 00} and juice.{01 00 00 05 00}.{01 00 00 05 00}.{07 15 00}\n\n{07 14 00}That's what you mean, isn't\nit? {01 01 00}And, NO,{07 01 00} I'm not going\nto cook for you!{09 09 00}",
+   "et": ""
+  },
+  {
+   "id": 4,
+   "en": "{09 01 00}{07 0e 00}Yeah,{01 00 00 0f 00} well,{09 02 00}{07 00 00}{09 01 00} I like rice the\nmost, so I tend to eat a\nlot of it{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 00 00}So, for me, a three-course\nmeal would be rice,{01 00 00 05 00} rice,{01 00 00 05 00}\nand {04 11 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\nOr rice,{01 00 00 05 00} rice,{01 00 00 05 00} and\njuice{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n\n{07 0a 00}I'm totally OK with that,{01 00 00 05 00}\n{04 02 00}!{09 09 00}",
+   "et": ""
+  },
+  {
+   "id": 5,
+   "en": "{09 00 00}{09 08 00}{09 02 00}{07 09 00}Oh, wow, {ff 00 00 06}{04 0f 00}{ff 00 00 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0f 00} You\nare so dense. That's not a\nthree-course meal at all!\nThat's just a pile of rice!",
+   "et": ""
+  },
+  {
+   "id": 6,
+   "en": "{09 00 00}{09 08 00}{09 02 00}{09 06 00}Tee hee hee! This is just\nbetween us{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n\n{07 14 00}but if I say I am, I am,{01 01 00}\nand if I say I'm not, I'm\nnot{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 0b 00}How about you, {ff 00 00 06}{04 0f 00}{ff 00 00 00},{01 00 00 05 00}\n{04 02 00}?{09 09 00}",
+   "et": ""
+  },
+  {
+   "id": 7,
+   "en": "{09 00 00}{09 06 00}{09 01 00}{07 04 00}Who, {01 00 00 0f 00}me, {01 00 00 05 00}{04 02 00}? {01 01 00}{07 17 00}Well,\nas you can see{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}. Girls\nchase after me a lot.\nBut I'm kinda shy.{01 00 00 05 00} {07 19 00}I'm\nafraid of falling in love\nand getting hurt.\n{07 10 00}That happened to me once\nwith {04 12 00}, {01 00 00 0f 00}{07 09 00}and\nI've never really recovered.{09 09 00}",
+   "et": ""
+  },
+  {
+   "id": 8,
+   "en": "{09 00 00}{09 08 00}{09 02 00}{07 09 00}Sorry,{01 00 00 05 00} {ff 00 00 06}{04 0f 00}{ff 00 00 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}. That's\nrough. {01 00 00 05 00}No one knows the\npain of lost love like me!\nAnd that's not it!{01 00 00 05 00} You're\ntalking about a dessert,\nfor Pete's sake!{03 02 00 01}",
+   "et": ""
+  },
+  {
+   "id": 9,
+   "en": "{09 00 00}{09 08 00}{09 02 00}{09 06 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 09 00}Go right ahead.{01 00 00 05 00}\n{0b 03 00}{04 02 00}. {01 01 00}{07 1b 00}I won't try to\nstop you.{09 01 00}{07 00 00}{09 02 00}\n{07 15 00}I mean it!{01 00 00 0f 00} It's not hard to\ndo!{01 01 00} {07 05 00}Go on!{01 00 00 05 00} Get on with it!{09 09 00}",
+   "et": ""
+  },
+  {
+   "id": 10,
+   "en": "{09 00 00}{09 06 00}{09 01 00}I{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 06 00}I can't eat that fast!{01 01 00}\n{07 08 00}I haven't trained in a while,\n{04 02 00}!{03 03 00 01}{09 02 00}{03 02 00 01}",
+   "et": ""
+  }
+ ]
+}

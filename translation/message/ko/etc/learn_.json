@@ -1,0 +1,100 @@
+{
+ "file": "script/ENG/message/ko/etc/learn_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "What?!{01 00 00 14 00} What do you want,\n{04 1f 00}?!\n\n{07 00 00}Oh, you wanna learn how to\ndo this, {01 00 00 05 00}{04 02 00}?\nYeah, sorry for yelling...",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "What in the{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00} Ha ha! Look\nat you!{01 00 00 0a 00} You look like some\nkinda weirdo, {04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "What is it, {04 1f 00}?\nYou were about to do\nsomething impertinent!\nI can tell, {01 00 00 05 00}{04 02 00}!{01 01 00}\nYou have that look about\nyou!",
+   "et": ""
+  },
+  {
+   "id": 3,
+   "en": "Um...you just aren't getting\nthe hang of this\n{ff 00 00 02}{04 0f 00}{ff 00 00 00} thing.",
+   "et": ""
+  },
+  {
+   "id": 4,
+   "en": "Listen, forget whatever\nthat loser {ff 00 00 06}Shrunk {ff 00 00 00}told you,\nOK?{01 00 00 0a 00} {ff 00 00 04}...Guy chaps my hide!\nT{ff 00 00 00}here's a special trick to\n{ff 00 00 02}{04 0f 00}{ff 00 00 00}, see?\nHere, watch this...",
+   "et": ""
+  },
+  {
+   "id": 5,
+   "en": "You got it yet?{01 00 00 0a 00} OK, OK, I'll\nshow you one more time{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n\nBut don't go stealing any\nof my secret techniques!\nGOT IT?!",
+   "et": ""
+  },
+  {
+   "id": 6,
+   "en": "Now, hold on a second!{01 00 00 0f 00}\nLet me show you how it's\ndone, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 7,
+   "en": "Boy, you sure are a slow\nlearner, {01 00 00 05 00}{04 02 00}! You\ngot the hang of this yet?",
+   "et": ""
+  },
+  {
+   "id": 8,
+   "en": "Whew!{01 00 00 05 00} Well, that's all it\ntakes!{01 00 00 05 00} Easy, right?{01 00 00 0a 00} RIGHT?{01 00 00 14 00}\nYeah, easy, {01 00 00 05 00}{04 02 00}.",
+   "et": ""
+  },
+  {
+   "id": 9,
+   "en": "What the-?{01 00 00 0a 00} What was THAT?!{01 01 00}\nYou must be holding your\nface wrong or something!\nUGH{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00} Listen, I'm gettin'\nkinda angry here! I'll do it\none...{01 00 00 05 00}more...{01 00 00 0a 00}time!",
+   "et": ""
+  },
+  {
+   "id": 10,
+   "en": "GWWWAAAA!!!{01 00 00 0f 00} No, no, you're\ntechnique's all wrong! You\nlook like a chump!\nI'll do it one more time, so\nopen your ears AND eyes,\n{01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 11,
+   "en": "Now you're talking!{01 00 00 05 00} It warms\nmy cold heart to see\nyou doing so well!\nYou're really gonna love\nthat {ff 00 00 02}{04 0f 00}{01 00 00 0a 00}{ff 00 00 00}!\nCongrats, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 12,
+   "en": "All right!{01 00 00 05 00} Now you're TRULY\nworthy of the amazing\n{ff 00 00 02}{04 0f 00}{ff 00 00 00} skill!\nWay to go, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 13,
+   "en": "Uhh{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} Yeah, look. I dunno if\nyou heard wrong from that\n{ff 00 00 06}Shrunk {ff 00 00 00}loser or what...\nBut you're full up!{01 00 00 05 00} You\ncan't learn any more\n{ff 00 00 02}expressions{ff 00 00 00}!\nIf you wanna do this thing,\nyou're gonna have to forget\none of your old ones!",
+   "et": ""
+  },
+  {
+   "id": 14,
+   "en": "Hey! HEY! You already know\ntoo many {ff 00 00 02}expressions{ff 00 00 00}.\nAre you crazy or somethin'?\nIf you try to learn more,\nyour head's gonna melt like\na grilled dirt sandwich!\nYou'll have to forget one\nof your old {ff 00 00 02}expressions{ff 00 00 00},\n{01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 15,
+   "en": "OK, watch this action...{01 01 00}\nBOOGA BOOGA BOOGA!{01 08 00}\n\nYou have forgotten\n{ff 00 00 02}{04 10 00}{ff 00 00 00}...\n\nBut you can now use\n{ff 00 00 02}{04 0f 00}{ff 00 00 00}!{01 00 00 14 00}\nSee? Not so tough, right?",
+   "et": ""
+  },
+  {
+   "id": 16,
+   "en": "Now, close your eyes for a\nsecond, {01 00 00 05 00}{04 02 00}.{01 00 00 0a 00}\nJust trust me here...\nA-one and a-two and a{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 01 00}\nHOOOOOOOOO HAAAAAAA!{01 08 00}\n\nThere we go!{01 00 00 0f 00} You forgot\n{ff 00 00 02}{04 10 00}{ff 00 00 00}, but you\nnow know {ff 00 00 02}{04 0f 00}{ff 00 00 00}!\nI suppose you think you're\npretty slick stuff now,\nhuh, {01 00 00 05 00}{04 02 00}?",
+   "et": ""
+  },
+  {
+   "id": 17,
+   "en": "Aw, nuts!{01 00 00 05 00} Givin' up already,\n{01 00 00 05 00}{04 02 00}? {01 00 00 0a 00}Yeah, that's\njust like you.",
+   "et": ""
+  },
+  {
+   "id": 18,
+   "en": "Really?{01 00 00 0a 00} {0b 03 00}{04 02 00}, I dunno\nif that's such a hot idea...\n\nWell, it's your {ff 00 00 02}expression{ff 00 00 00},{01 00 00 0a 00}\nso I guess you can do\nwhatever you want.",
+   "et": ""
+  }
+ ]
+}

@@ -1,0 +1,65 @@
+{
+ "file": "script/ENG/message/ko/ai/indoor_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "Mrmh.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 12 00} Would you just shut\nup!{01 00 00 14 00} Yap yap yap! That's all\nyou do! {01 00 00 14 00}I just got up, OK?\n{07 0b 00}What?{01 00 00 14 00} Oh, {01 00 00 05 00}{04 1f 00}, it's\nyou. Why are you here,\n{01 00 00 05 00}{04 02 00}?\n{07 1b 00}Do me a favor and wait\noutside {01 00 00 05 00}at least until I've \nbrushed my teeth.",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{0b 03 00}{01 06 00}Oh, hello{01 07 00}!{01 00 00 0f 00}\n{0b 03 00}{04 1f 00}, it's you!\n\n{07 14 00}Why so early?!{01 00 00 14 00} You look so\nirritatingly awake,\n{01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{0b 03 00}{01 06 00}Oh, hey{01 07 00}!{01 00 00 0f 00}\n{07 1b 00}You're like a dog, all hyper\nfor your morning walk!\nListen up! I don't have\nanything for you! Got that,\n{01 00 00 05 00}{04 02 00}?!",
+   "et": ""
+  },
+  {
+   "id": 3,
+   "en": "{07 0b 00}Huh?{01 00 00 0f 00} Oh, {07 00 00}{01 00 00 05 00}{04 1f 00}, it's\nyou. {01 00 00 0f 00}{07 1b 00}I thought it was\n{04 0e 00}. What a relief.",
+   "et": ""
+  },
+  {
+   "id": 4,
+   "en": "{07 01 00}Listen, like I told you over\nthe phone, I don't need any!{01 00 00 14 00}\nAnd who let you in, anyway?\n{07 00 00}Oh wait, it's {01 00 00 05 00}{04 1f 00}.{01 01 00}\n{07 11 00}I thought it was{01 00 00 05 00} some crazy{01 00 00 05 00}\nvacuum cleaner sales-jerk!",
+   "et": ""
+  },
+  {
+   "id": 5,
+   "en": "{07 15 00}Hey, hey!{01 00 00 05 00} Listen up,\n{01 00 00 05 00}{04 02 00}!\n\n{07 01 00}You don't go into a home{01 00 00 05 00}\nAND YELL AT THE TOP OF YOUR\nLUNGS!{01 00 00 14 00} I CAN HEAR YOU!",
+   "et": ""
+  },
+  {
+   "id": 6,
+   "en": "{07 14 00}{0b 03 00}{01 06 00}Oh, hello{01 07 00}!{01 00 00 0f 00}\nYou tryin' to make me mad?\n'Cause you're succeeding!\n{07 11 00}You one of those,{01 00 00 0f 00} you know,{01 00 00 05 00}\ninstigators or something?{01 00 00 05 00}\nAre you, {01 00 00 05 00}{04 02 00}?",
+   "et": ""
+  },
+  {
+   "id": 7,
+   "en": "{07 14 00}{0b 03 00}{01 06 00}Hello there{01 07 00}!{01 00 00 05 00}\nIt's you, huh, {01 00 00 05 00}{0b 03 00}{04 02 00}!\nThe night's still young.\n{07 0d 00}Why don't you and I do\nsomething FUN tonight{01 00 00 0a 00} for\na change!",
+   "et": ""
+  },
+  {
+   "id": 8,
+   "en": "{07 04 00}Oh, {01 00 00 05 00}{04 1f 00}!{01 00 00 14 00}\n{07 0b 00}Did you bring me something{01 00 00 05 00}\ngood to eat?\n{07 00 00}What?!{01 00 00 0f 00} You didn't?!{01 00 00 14 00} Why did\nyou even bother coming\nhere then, {01 00 00 05 00}{04 02 00}?!",
+   "et": ""
+  },
+  {
+   "id": 9,
+   "en": "Oh, {01 00 00 0f 00}{04 1f 00}, it's just\nyou!\n\n{07 1b 00}You're like some lost puppy\nwandering into someone's\nhouse at this hour!",
+   "et": ""
+  },
+  {
+   "id": 10,
+   "en": "{07 06 00}{0b 03 00}{01 06 00}Hey{01 07 00}!{01 00 00 14 00}\nWhy are you here at this\nhour? It's downright creepy!\n{07 11 00}Don't scare me like that!{01 00 00 05 00}\nMy heart's beating like\ncrazy, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 11,
+   "en": "What do you want?!{01 00 00 14 00}\n{07 0b 00}Are you sleepwalking or\nsomething?!\n{07 15 00}Wake up! {01 00 00 05 00}Wake up! {01 00 00 05 00}WAKE UP!\nYou're in my house,\n{04 02 00}!",
+   "et": ""
+  }
+ ]
+}

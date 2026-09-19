@@ -1,0 +1,20 @@
+{
+ "file": "script/ENG/message/bo/q04/thanks_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{0b 03 00}{04 1c 00}?!{01 01 00}\n{07 14 00}You understand me{01 00 00 05 00} like\nno one else!\nWell,{01 00 00 05 00} I'm not going to waste\nanother second{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 04 00}Whoa! It's an authentic\n{0b 02 00}{04 1c 00}!{01 00 00 14 00}\nThank you!\nI'm going to transform{01 00 00 0a 00}\nright now,{01 00 00 0a 00} {04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 02 00}Oh, wow. Oh, wow! OH, WOW!{01 00 00 14 00}\nIs this?{01 00 00 05 00} Could it be?\n{0b 03 00}{04 1c 00}?\nAt last! My dreams {07 14 00}have\ncome true! Fashion Lad\nstrikes again!\nYesss!{01 00 00 0f 00} I'm going to\ntransform before your very\neyes!{01 00 00 0a 00} {0b 03 00}{04 02 00}!",
+   "et": ""
+  }
+ ]
+}

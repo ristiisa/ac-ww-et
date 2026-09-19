@@ -1,0 +1,20 @@
+{
+ "file": "script/ENG/message/ta/q03/req3_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 00 00}Hey, {01 00 00 14 00}{07 0b 00}{04 1f 00}, do you\nknow anything about the\n{ff 00 00 02}{04 0f 00}{ff 00 00 00}?\n{07 00 00}{ff 00 00 06}Blathers {ff 00 00 00}told me about it a\nwhile back.{01 01 00} And according to\n{ff 00 00 02}Ms. Nintendique{ff 00 00 00},\n{07 13 00}{ff 00 00 02}{04 0f 00} {ff 00 00 00}bones\ncan also hydrate your skin!\n{01 01 00}{07 00 00}Don't ask me how it works.",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 0b 00}Why is it{01 00 00 0a 00} that when I look\nat a fossil, I feel so\ncomforted, {01 00 00 0a 00}{04 02 00}?\n{07 19 00}Especially the\n{ff 00 00 02}{04 0f 00}{ff 00 00 00}! {01 00 00 0a 00}I bet\nit's 'cause it's so scary!{07 00 00}\n{07 14 00}Yeah, it would totally scare\noff intruders! {01 00 00 0a 00}One look at\nit and they'd run away!",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 14 00}You know, {01 00 00 0a 00}I used to be a\nbig fossil collector, \n{01 00 00 0a 00}{04 02 00}.\n{07 00 00}I had lots of fossils, {07 14 00}but\nthe {ff 00 00 02}{04 0f 00} \n{ff 00 00 00}was always my favorite.\n{07 19 00}Yep, {01 00 00 05 00}those were the good\nold days...{01 01 00} Maybe I should\ngo find it again.{07 00 00}",
+   "et": ""
+  }
+ ]
+}

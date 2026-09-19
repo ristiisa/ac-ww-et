@@ -1,0 +1,20 @@
+{
+ "file": "script/ENG/message/bo/q03/req1_2_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 00 00}Hey,{01 00 00 05 00} {04 1f 00},{01 00 00 14 00}{07 0b 00} what are\nyour thoughts on decorating\na room with{01 00 00 0a 00} a fossil?\n{07 0d 00}I bet it would make your\nhouse look like a movie set!\nIt would be so cool!\n{07 00 00}Even if it's just a small\none, that's cool, too.{01 01 00}\n{07 14 00}I just want a fossil.",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 14 00}I really like{01 00 00 0a 00} fossils,{01 00 00 0a 00}\n{04 02 00}.\n\n{07 19 00}You know that dusty, musty\nsmell of history? {01 00 00 0a 00}It's the\ncoolest thing ever!{07 15 00}\n{07 13 00}Yeah{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 14 00}it would be so cool\nto have a fossil{01 00 00 0a 00} in my\nhouse,{01 00 00 0a 00} {04 02 00}.",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 14 00}Fossils smell so good,{01 00 00 0a 00}\n{04 02 00}.\n\n{07 13 00}They're sweet and earthy at\nthe same time,{01 00 00 05 00} like the\nsmell of, uh, dirty gems!\n{07 19 00}If my house smelled like\nthat,{01 00 00 0a 00} I bet I'd have great\ndreams,{01 00 00 0a 00} {04 02 00}!{07 00 00}",
+   "et": ""
+  }
+ ]
+}

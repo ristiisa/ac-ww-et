@@ -1,0 +1,30 @@
+{
+ "file": "script/ENG/message/ko/ai/tire_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 15 00}What do you want?!{01 00 00 14 00}\nI just talked to you the\nother day, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 15 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}Ugh!{01 00 00 0f 00} Could you possibly \nbe any more annoying,\n{04 1f 00}?! {0b 03 00}{01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 15 00}Sheesh, {01 00 00 0f 00}what kind of trash\nare you going to bother me\nwith now, {01 00 00 05 00}{04 1f 00}?!\n{07 0d 00}Hey, here's a crazy idea...{01 00 00 0f 00}\n{07 01 00}How about you LEAVE ME \nALONE, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 3,
+   "en": "{07 15 00}What?!{01 00 00 05 00} Do you want me to\ndespise you, {01 00 00 05 00}{04 02 00}?\nIs that it?\n{07 0d 00}Well, congratulations!{01 00 00 05 00}\nMission accomplished!\n",
+   "et": ""
+  },
+  {
+   "id": 4,
+   "en": "{07 15 00}Ugh, {01 00 00 05 00}{04 1f 00}!{01 00 00 14 00} {07 14 00}Boy, I\nsure love it when you\nCONSTANTLY bug me!\n{07 09 00}Can you see the sarcasm \ndripping off my words, \n{01 00 00 05 00}{04 02 00}?",
+   "et": ""
+  }
+ ]
+}

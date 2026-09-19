@@ -1,0 +1,20 @@
+{
+ "file": "script/ENG/message/ha/q11/no_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 02 00}What?!{01 00 00 05 00} Man, live a little,\n{01 00 00 05 00}{04 02 00}!{07 15 00}",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "Great... {01 00 00 05 00}Hey, y'know what?{01 00 00 05 00}\nYou really bum me out\nsometimes, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "Whoa, what? {01 00 00 05 00}No?{01 01 00}\nYou're missing out on some\nsweet sweat stains{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}",
+   "et": ""
+  }
+ ]
+}

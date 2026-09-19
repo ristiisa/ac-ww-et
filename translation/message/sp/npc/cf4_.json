@@ -1,0 +1,115 @@
+{
+ "file": "script/ENG/message/sp/npc/cf4_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 35 00}Hey! This time? Private.\nMine. Leave {ff 00 00 06}Lyle {ff 00 00 00}alone. \n{ff 00 00 06}Lyle{ff 00 00 00}'s gotta drink in peace.",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 38 00}That guy? There? {01 00 00 0a 00}Talky.\nTalky talky yak yak blah\nblah blah talky yakey blah.\nEnough. {01 00 00 0a 00}Shut it. {01 00 00 0a 00}Just lemme\ndrink in peace. Right?{01 00 00 0a 00}\nRight.",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 35 00}Stress? Listen, {ff 00 00 06}Lyle{ff 00 00 00}'s got\nplenty. {01 00 00 0a 00}You too, right?\nSure, {01 00 00 05 00}stress, {01 00 00 05 00}bang.\n{07 00 00}This coffee shop? {01 00 00 05 00}Busy.{01 00 00 05 00}\nToo busy. {01 00 00 05 00}Don't like it.\nYou? {01 00 00 0a 00}Bang! Thought so.",
+   "et": ""
+  },
+  {
+   "id": 3,
+   "en": "{06 01 00 08 09 0a}",
+   "et": ""
+  },
+  {
+   "id": 4,
+   "en": "{07 38 00}Kids. You know 'em? {01 00 00 05 00}Sure ya\ndo. But them? The kids?{01 00 00 0a 00}\nDon't know nothin'. {01 00 00 05 00}Useless.\n{06 01 00 0c 0d 0e}",
+   "et": ""
+  },
+  {
+   "id": 5,
+   "en": "{07 00 00}Labels. {01 00 00 05 00}Everybody has 'em,\nright? {01 00 00 05 00}Sure, labels. {01 00 00 05 00}Happy.\nSad. Loser. Right? {01 00 00 05 00}Sure.\n{07 37 00}Take me. Take {ff 00 00 06}Lyle{ff 00 00 00}. Folks\ncall me sleaze. Sneak. Liar.{01 00 00 0a 00}\nNot true. I'm a peach.\nSure, some deals don't work\nout, but hey, right? That's\nlife. That's it. {01 00 00 0a 00}Bang.",
+   "et": ""
+  },
+  {
+   "id": 6,
+   "en": "{07 35 00}Listen. Words. {01 00 00 0a 00}You know 'em?{01 00 00 0a 00}\nMe too. Some words, I can't\nstand. {01 00 00 0a 00}Wanna know?{02 00 00 10 18}\nTell me!\nDon't care!",
+   "et": ""
+  },
+  {
+   "id": 7,
+   "en": "{07 35 00}This recession? Killin' me.{01 00 00 0a 00}\nYou?{01 00 00 05 00} Yeah, sure, right.\n{ff 00 00 06}Lyle{ff 00 00 00} hears that. Bang.\n{06 01 00 15 16 17}",
+   "et": ""
+  },
+  {
+   "id": 8,
+   "en": "{07 35 00}You? Again? What? Why you\ndoing this? {01 00 00 0a 00}Why you bustin'\nmy chops? {01 00 00 0a 00}Huh? Why?\n{07 38 00}I'm fine. {01 00 00 0a 00}Fine. Yeah, {ff 00 00 06}Lyle{ff 00 00 00}'s\nfine, no worries, legit,\nbang. {01 00 00 0a 00}Leave me alone.",
+   "et": ""
+  },
+  {
+   "id": 9,
+   "en": "{07 35 00}Turnips? Shoulda bought\nsome. {01 00 00 0a 00}Had a chance. {01 00 00 0a 00}Thought\nit over. Didn't. Blew it.\nKnow what? {01 00 00 0a 00}Now I'm busted.\nGot nothin'. {01 00 00 0a 00}But hey, what\nthe deuce, right? {01 00 00 0a 00}Bang.",
+   "et": ""
+  },
+  {
+   "id": 10,
+   "en": "{07 35 00}{01 08 00}WHY YA BUSTIN' MY CHOPS?!{01 01 00}\nI'm fine, right? Sure I am.{01 00 00 0a 00}\nSure. Right. {01 00 00 05 00}Get lost.",
+   "et": ""
+  },
+  {
+   "id": 12,
+   "en": "{07 37 00}Kids work at my office. \nBunches. Tons. Hundreds.{01 00 00 0a 00}\nActually, five.\nAnd their talk? {01 00 00 0a 00}Bang! Crazy\ntalk. {01 00 00 0a 00}Jibber-jabber. Can't\nfollow it. Not a word.",
+   "et": ""
+  },
+  {
+   "id": 13,
+   "en": "{07 38 00}Always talkin'. {01 00 00 0a 00}Singin'.{01 00 00 0a 00}\nMakin' flowers and stuff\nshoot outta their heads.",
+   "et": ""
+  },
+  {
+   "id": 14,
+   "en": "{07 37 00}No smarts. Can't work the\nsystem. Close the deal.{01 00 00 0a 00}\nAlways be closing, right?\n{07 00 00}BANG! Right, sure. And their\ntalk? {01 00 00 0a 00}Totally. Like. Pumped.{01 00 00 0a 00}\nForget it, right? Right.",
+   "et": ""
+  },
+  {
+   "id": 16,
+   "en": "{06 01 00 11 12 13}",
+   "et": ""
+  },
+  {
+   "id": 17,
+   "en": "{07 35 00}{01 04 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 00 00}\"Grand jury.\"{01 00 00 0a 00}{01 05 00} Reminds me\nof folks. You know it,\nright? Right, sure you do.\n{07 37 00}One minute, friendly. Next\nminute, BANG!{01 00 00 0f 00} Feds on your\ncase. House repossessed.\nTough world. Tough, angry\nworld. Turn your back?{01 00 00 0a 00}\nChops get busted.",
+   "et": ""
+  },
+  {
+   "id": 18,
+   "en": "{07 35 00}{01 04 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 00 00}\"Communication.\"{01 00 00 0a 00}{01 05 00}{07 00 00} Sure,\nyou know what I mean. You\nhear me, sure you do.\nCommunication.{01 00 00 05 00} Phones ring.\nFolks talk. Words get read.\nThat kind of thing.\nMy boss?{01 00 00 0a 00} Busts my chops.{01 00 00 05 00}\nSays I don't communicate.\nSays folks don't like me.\n{07 34 00}I'm friendly! See? {ff 00 00 06}Lyle{ff 00 00 00}'s a\npal!{01 00 00 0a 00} {07 00 00}{07 35 00}No one believes me.\nEven now. Off the clock.\nI'm just no good with\npeople...",
+   "et": ""
+  },
+  {
+   "id": 19,
+   "en": "{07 35 00}{01 04 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 00 00}\"IRS.\"{01 00 00 0a 00}{01 05 00} Not a word? {01 00 00 0a 00}I know.\n{ff 00 00 06}Lyle {ff 00 00 00}knows. Three words.\nAbbreviation. Don't matter.\nI'm legit. Aboveboard. All\nsquare. Do they listen?\n'Course not. {01 00 00 0a 00}Bang.\nBeen to jail? Me too. Three\nhots and a cot, right?\nBad news. Bad deal.\nListen to {ff 00 00 06}Lyle{ff 00 00 00}. Advice. Mine.\nTake it{01 04 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 00 00} Taxes?{01 00 00 0a 00}{01 05 00} Pay 'em.",
+   "et": ""
+  },
+  {
+   "id": 21,
+   "en": "Folks want to help? Look\nout for you? {01 00 00 0a 00}Don't buy\nit. Not a chance. Bang.\nAssume that everyone wants\nto bust your chops.{01 00 00 14 00} Because\nthey probably do.",
+   "et": ""
+  },
+  {
+   "id": 22,
+   "en": "{07 00 00}{ff 00 00 06}Lyle{ff 00 00 00} needs a scheme. Rich.\nQuick. Getting. Me. Follow?\nSure ya do.",
+   "et": ""
+  },
+  {
+   "id": 23,
+   "en": "{07 00 00}If I owned real estate? I'm\nliving the high life.{01 01 00} {07 38 00}{ff 00 00 06}Lyle{ff 00 00 00}\nreally needed those leads...",
+   "et": ""
+  },
+  {
+   "id": 24,
+   "en": "{07 38 00}Yeah, sure, right. {01 00 00 05 00}Why\nlisten to {ff 00 00 06}Lyle{ff 00 00 00}, right?{01 00 00 05 00} Sure.{01 00 00 05 00}\nOver. Done. Bang. Get lost.",
+   "et": ""
+  }
+ ]
+}

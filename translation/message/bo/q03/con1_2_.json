@@ -1,0 +1,20 @@
+{
+ "file": "script/ENG/message/bo/q03/con1_2_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 19 00}Oh, fossils,{01 00 00 0a 00} you mysterious\ntreasures from the distant\npast{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00}\n{07 16 00}They're like buried gems.{01 00 00 0a 00} It\nshouldn't take you long to\nfind one,{01 00 00 0a 00} {04 02 00}.",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 0e 00}Fossils!{01 00 00 14 00} Fossils!{01 00 00 14 00} Fossils{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 01 00}\nI keep calling out to them,{01 00 00 05 00}\nhoping they'll answer.\n{07 16 00}But I guess {01 00 00 05 00}it would be kind\nof creepy if they did.",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 15 00}I've only just started{01 00 00 0a 00} my\nfossil hunt! {01 00 00 0a 00}{0b 03 00}{04 02 00}!\n\n{07 05 00}And I won't give up,{01 00 00 0a 00} even if\nI get so hungry{01 00 00 05 00} that my\nshirt starts to look tasty!",
+   "et": ""
+  }
+ ]
+}

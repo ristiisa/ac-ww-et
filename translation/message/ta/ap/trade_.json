@@ -1,0 +1,95 @@
+{
+ "file": "script/ENG/message/ta/ap/trade_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 16 00}You wanna trade your\n{0b 02 00}{04 1a 00} {07 0b 00}for\nsomething of mine?\nLet's see... I've got\n{04 1b 00}.{02 00 00 07 03}\nOK!\nNo way!",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 00 00}Hey, {01 00 00 0a 00}{07 14 00}you know the\nexpression \"easy come,\neasy go\"?\n{07 00 00}Well, let's talk about the\n{0b 02 00}{04 1a 00}\nyou have{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.\n{07 14 00}Wanna trade it for my\n{0b 02 00}{04 1b 00},\n{01 00 00 0a 00}{04 02 00}?{02 00 00 07 03}\nSure!\nNo way!",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 04 00}Hey, {01 00 00 05 00}{04 1f 00}!{01 00 00 14 00} Would you\nhappen to have\n{04 1a 00}?\nMaybe you're interested in\ngetting rid of such an\nitem? Hmmmm?{02 00 00 0f 10}\nWhy?\nOK.",
+   "et": ""
+  },
+  {
+   "id": 3,
+   "en": "{06 01 00 04 05 06}",
+   "et": ""
+  },
+  {
+   "id": 4,
+   "en": "{07 00 00}Oh, {01 00 00 05 00}really?{01 00 00 14 00} {07 16 00}That's too bad,\n{01 00 00 0a 00}{04 02 00}.",
+   "et": ""
+  },
+  {
+   "id": 5,
+   "en": "{07 00 00}Hm{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.{01 01 00} {07 15 00}{01 08 00}FINE, you big\ncheapskate, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 6,
+   "en": "{07 02 00}You're so quick to say no!{01 01 00}\n{07 1b 00}{01 00 00 0a 00}You know, compassion is the\nkey to communication!",
+   "et": ""
+  },
+  {
+   "id": 7,
+   "en": "{06 01 00 08 09 0a}",
+   "et": ""
+  },
+  {
+   "id": 8,
+   "en": "{07 00 00}Well then, {01 00 00 05 00}take it already!",
+   "et": ""
+  },
+  {
+   "id": 9,
+   "en": "{07 14 00}I knew you'd come through,\n{04 1f 00}!{01 00 00 14 00} You totally\nunderstand me, {01 00 00 0a 00}{04 02 00}!\n{07 00 00}Here,{01 00 00 05 00} please take this fine\nitem in return!{01 00 00 0a 00} It belonged\nto me, so it's awesome.",
+   "et": ""
+  },
+  {
+   "id": 10,
+   "en": "{07 04 00}Wow, {01 00 00 0a 00}that was easy. {01 01 00}{07 16 00}You\nseem like you get fooled\nreally easily{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.and often.\n{07 00 00}Not{01 00 00 05 00} that it matters.",
+   "et": ""
+  },
+  {
+   "id": 11,
+   "en": "{06 01 00 0c 0d 0e}",
+   "et": ""
+  },
+  {
+   "id": 12,
+   "en": "{07 00 00}Hey,{01 00 00 0a 00}{07 14 00} this is fun! It's like a\ngift exchange or something,\n{01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 13,
+   "en": "{07 00 00}Hey, {01 00 00 0a 00}this is what they call\n{07 14 00}the barter system, isn't it!\nNeat, {01 00 00 0a 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 14,
+   "en": "{07 00 00}Rest assured,{01 00 00 05 00} I'll take good\ncare of it, {01 00 00 05 00}{04 02 00}.",
+   "et": ""
+  },
+  {
+   "id": 15,
+   "en": "{07 1d 00}\"Why?\"{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 01 00}{07 0b 00}The simple fact\nthat I'm interested isn't a\ngood enough reason?\n{07 00 00}Sheesh! I'd give you\nsomething in return!{02 00 00 11 03}\nFine!\nNo way!",
+   "et": ""
+  },
+  {
+   "id": 16,
+   "en": "{07 02 00}What?!{01 01 00} {07 0e 00}You're so willing to\npart with it that I'm having\nsecond thoughts.\n{07 14 00}OK, they're gone. I'll trade\n{04 1b 00}\nfor that!",
+   "et": ""
+  },
+  {
+   "id": 17,
+   "en": "{07 00 00}Well then, {01 00 00 05 00}please take my\n{0b 02 00}{04 1b 00}\nin return.",
+   "et": ""
+  }
+ ]
+}

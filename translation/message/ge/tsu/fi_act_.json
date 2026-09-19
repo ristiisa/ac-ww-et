@@ -1,0 +1,45 @@
+{
+ "file": "script/ENG/message/ge/tsu/fi_act_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 14 00}Today's the day I'll catch\n{04 1a 00}!\n\nI'll be known forever as the\n\"Anglin' Diva,\"\n{01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "Fishing is not as easy as\nit looks, {01 00 00 05 00}{04 02 00}! I\nmean, who woulda known?\n{07 0f 00}All I've caught so far is\nsome lousy old\n{04 15 00}!",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 15 00}The fish aren't biting{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n{04 02 00}! {07 08 00}Why don't they\nlove me?",
+   "et": ""
+  },
+  {
+   "id": 3,
+   "en": "{07 00 00}If you have any extra fish\nchillin' in your house, you\ncan sell 'em to {ff 00 00 06}Tom Nook{ff 00 00 00}!\n{07 11 00}You can even get him\nto shell out cash for\n{04 1a 00}!",
+   "et": ""
+  },
+  {
+   "id": 4,
+   "en": "{07 0b 00}Do you think it's better for\n{0b 02 00}{04 1a 00} to\nswim free in the sea?\n{07 0f 00}Yeah{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} I'm not all that into\nchanging that scummalicious\ntank water, anyway.",
+   "et": ""
+  },
+  {
+   "id": 5,
+   "en": "Slimy creatures TOTALLY\nbarf me out, {01 00 00 05 00}{04 02 00}.{01 00 00 05 00}\n\nEven if I caught\n{04 1a 00},\n{07 06 00}I would never touch it!",
+   "et": ""
+  },
+  {
+   "id": 6,
+   "en": "{07 06 00}Maybe fishing isn't really\nmy thing, you know?\n\n{01 00 00 05 00}Like, I don't even know\nwhich fish are trendy,\n{01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 7,
+   "en": "{07 14 00}My {ff 00 00 07}fishing rod {ff 00 00 00}is the\nnewest, hottest model on\nthe market!\n{07 00 00}Of course, I have no clue\nwhat's different from older\n{ff 00 00 07}rods{ff 00 00 00}, {01 00 00 05 00}{04 02 00}.",
+   "et": ""
+  }
+ ]
+}

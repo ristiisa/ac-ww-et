@@ -1,0 +1,20 @@
+{
+ "file": "script/ENG/message/ha/ai/clo1_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 14 00}Hey, {01 00 00 05 00}{04 1f 00}!\nWassup, {01 00 00 05 00}{04 02 00}?\n\nThat {0b 02 00}{04 1b 00}\nyou sent me?{01 00 00 0a 00} I tried that\nbad boy on right away!\n{07 0d 00}That thing soaks up my\nworkout sweat like a\nsponge! Awesome fabric!\n{07 0a 00}I'll be able to train even \nharder wearing it! And then\nI'll get HUUUUUUGE!",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 14 00}{0b 03 00}{01 06 00}Yo!{01 07 00}{01 00 00 0a 00}\n{ff 00 00 05}{0b 03 00}{04 1f 00}!{ff 00 00 00}\n\nHey, listen, thanks a lot\nfor{01 00 00 05 00} that letter you sent\nme, {04 02 00}!\n{07 00 00}Oh yeah,{01 00 00 05 00} and that sweet\n{0b 02 00}{04 1b 00}\nyou sent...\n{07 14 00}It was a little snug,{01 00 00 05 00}\nbut I dig the way it hugs\nmy muscles, {04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 14 00}{0b 03 00}{01 06 00}Yo yo yo!{01 07 00}{01 00 00 0a 00}\n{0b 03 00}{04 1f 00}!{01 00 00 05 00}\nWhat up, {04 02 00}!\n{0b 03 00}{0b 01 00}{04 1b 00}\nyou sent... Man, just\nawesome!{01 00 00 0a 00} I love it!\n{07 00 00}I especially like how it \nclings to my arms. {01 00 00 05 00}Y'know,\nshows off the goods.\nHow did you know\n{07 0d 00}that I'd dig something\nlike that, {04 02 00}?",
+   "et": ""
+  }
+ ]
+}

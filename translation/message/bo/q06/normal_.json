@@ -1,0 +1,20 @@
+{
+ "file": "script/ENG/message/bo/q06/normal_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 0e 00}{01 00 00 0a 00}Hmph{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00} I see,{01 00 00 0a 00} {04 02 00}.{01 01 00}\n{07 14 00}But, I guess it's kind of\nreassuring.",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 0c 00}{01 00 00 14 00}So, I'm not in trouble?{01 00 00 14 00}\n{07 14 00}That's good,{01 00 00 0a 00} {04 02 00}.",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 16 00}Hmm{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 14 00} {07 1b 00}{01 00 00 05 00}{0b 03 00}{ff 00 00 06}{04 10 00}{ff 00 00 00} sure is\nas obstinate as ever.\n\n{07 00 00}But I'm just glad I'm not in\nthe doghouse,{01 00 00 0a 00} {04 02 00}.",
+   "et": ""
+  }
+ ]
+}

@@ -1,0 +1,20 @@
+{
+ "file": "script/ENG/message/fu/q05/talk6_7_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 14 00}{0b 03 00}{04 1f 00},{01 00 00 05 00} your continued\nsupport is appreciated{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00}\n{07 03 00}Man, that sounded SO corny!",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 0d 00}I just love the way my\nroom{01 00 00 05 00} is shaping up{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 14 00}\nThank you, {04 1f 00}!",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 14 00}We gotta keep soldiering\non.{01 00 00 05 00} This furniture battle\nwill be won, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  }
+ ]
+}

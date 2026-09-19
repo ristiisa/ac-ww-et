@@ -1,0 +1,85 @@
+{
+ "file": "script/ENG/message/ha/tsu/fl_act_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 15 00}I'm about to show you how\na {04 06 00}-level watering pro\ndoes it! {01 00 00 05 00}Varsity style!",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 00 00}Pansies!{01 00 00 0a 00} Cosmos!{01 00 00 0a 00} Roses!{01 00 00 0a 00}\n{07 0e 00}Tu{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}. Tubles!{01 00 00 05 00} No, Toobies!{01 01 00}\n{07 0b 00}Wait, what are they called?\n{07 14 00}Well, whatever...{01 00 00 05 00}\nGROW, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 00 00}Hey, don'tcha think that\nthe visual of us watering\nour flowers is{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 14 00}It's like a movie scene.{01 00 00 05 00}\nYeah!{01 00 00 05 00} Total Hotness and the\nBeast, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 3,
+   "en": "{07 06 00}You hear that kid talking\nabout{01 00 00 05 00} growing prettier\nflowers than me? {01 00 00 05 00}Total lie!\n{07 15 00}That little brown thumb{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 01 00}\n{07 18 00}is a complete flower noob!\nYou heard me, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 4,
+   "en": "{07 16 00}So this flower doesn't\nhave thorns, huh{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n\n{07 1b 00}Meh,{01 00 00 05 00} doesn't really\nmatter anyway, {01 00 00 05 00}{04 02 00}.{01 00 00 05 00}\nPain don't hurt me!",
+   "et": ""
+  },
+  {
+   "id": 5,
+   "en": "{07 04 00}Isn't it insane{01 00 00 05 00} how\npowerfully the water fires\nout of a {ff 00 00 07}watering can{ff 00 00 00}?\n{07 13 00}When I get a fierce workout\ngoing, that's how my pores\nlaunch sweat, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 6,
+   "en": "{07 00 00}The water in {04 03 00} is\nso pure, lemme tell you.{01 00 00 05 00}\nI wonder...\nCan I possibly be the only\none who thinks it's ideal\nfor flowers, {01 00 00 05 00}{04 02 00}?",
+   "et": ""
+  },
+  {
+   "id": 7,
+   "en": "{07 14 00}If I get any pollen from\nthis flower,{01 00 00 05 00} I'll hook you\nup with some, OK?\n{07 16 00}You'd better be grateful!{01 00 00 05 00}\nI'd better see some tears\nof gratitude, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 8,
+   "en": "{07 00 00}Yeah, so my {ff 00 00 07}watering can {ff 00 00 00}is\nmade from high-grade\nsteel, don'tcha know.\n{07 0d 00}Yup, using it is basically\nlike doing sets of\npush-ups. {01 00 00 05 00}GO HUGE, BABY!",
+   "et": ""
+  },
+  {
+   "id": 9,
+   "en": "{07 00 00}Y'know, lately {01 00 00 05 00}walking\naround with my {ff 00 00 07}watering can\n{ff 00 00 00}really mellows me out!\n{07 17 00}Aah,{01 00 00 05 00} that's the stuff!{01 00 00 05 00}\nThe weight on my hand...{01 00 00 05 00}\nAwesome{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{04 02 00}.",
+   "et": ""
+  },
+  {
+   "id": 10,
+   "en": "{07 06 00}I was so thirsty earlier{01 00 00 05 00}\nbut I couldn't find my cup.\n\n{07 14 00}That's why I filled{01 00 00 05 00} my\n{ff 00 00 07}watering can{ff 00 00 00} to the top!{01 00 00 05 00}\nOne for plants, one for me!",
+   "et": ""
+  },
+  {
+   "id": 11,
+   "en": "{07 06 00}Won't someone please{01 00 00 05 00} water\nmy garden for me? {01 00 00 05 00}Please?{01 00 00 05 00}\nPLEASE, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 12,
+   "en": "{07 16 00}Watering your flowers is a\nlot more of a pain than\nyou might think!\n{07 15 00}Ugh!{01 00 00 0a 00} Rain! {01 00 00 05 00}Come on, rain!{01 00 00 0a 00}\nWind! {01 00 00 05 00}Gale force! {01 00 00 05 00}Typhoon!{01 00 00 05 00}\nSomething, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 13,
+   "en": "{07 00 00}I water the suckers daily,\n{07 15 00}so I'd appreciate it if\nthey'd drink a little too{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 16 00}But I'm thinking that\nflowers are pickier than\nthey look, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 14,
+   "en": "{07 04 00}Oh no! {07 1b 00}Instead of water,{01 00 00 05 00}\nI had {01 00 00 05 00}{04 13 00}\nin my {ff 00 00 07}watering can{ff 00 00 00}!!!\n{07 06 00}Nooooooooooooooooo!{01 00 00 14 00}\nI'm such a complete brick,\n{01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 15,
+   "en": "{07 11 00}Oh, wait, I get it now{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 01 00}\n{07 0d 00}Flowers need to be watered\nbecause they sweat too!",
+   "et": ""
+  }
+ ]
+}

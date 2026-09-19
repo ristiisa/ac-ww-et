@@ -1,0 +1,35 @@
+{
+ "file": "script/ENG/message/ge/q05/miss_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": ".{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{0b 03 00}{04 1f 00}?{01 00 00 05 00} Um...{01 00 00 05 00}thanks\nfor bringing this to me and\nall,{01 00 00 05 00} but...{01 00 00 05 00}well...{01 00 00 05 00}\n{07 17 00}{0b 03 00}{04 1a 00}\nisn't really me, y'know?{01 01 00}\nSo...why don't YOU keep it?!",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": ".{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 18 00}{01 00 00 05 00}Didn't I tell you?{01 01 00} Look,\nI'm only collecting\n{ff 00 00 07}{04 0f 00}{ff 00 00 00}!\nSorry, {01 00 00 05 00}{04 1f 00}!{01 01 00}\n{07 00 00}Yeah, so, {01 00 00 05 00}why don't you\ntake this back?{01 00 00 0f 00} {07 16 00}{ff 00 00 04}...Like, EW!!",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": ".{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}Wow.{01 00 00 0f 00} Um...do YOU like it?{01 00 00 0f 00}\n'Cause I actually DON'T.\n\nLook,{01 00 00 0a 00} I'm only collecting\n{ff 00 00 07}{04 0f 00}{ff 00 00 00}.{01 00 00 0a 00}\nThat's it. That's all.\nSo...um...{01 00 00 0a 00} Here. Take this\nback, {01 00 00 05 00}{04 02 00}.{01 00 00 14 00} \n{ff 00 00 04}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 07 00}Oh, BARF ME OUT THE DOOR!",
+   "et": ""
+  },
+  {
+   "id": 3,
+   "en": ".{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}{0b 03 00}{04 1f 00},{01 00 00 05 00} thanks, but\nI'm done looking for\n{04 1a 00}.\nSorry, but {01 00 00 05 00}you can have it.",
+   "et": ""
+  },
+  {
+   "id": 4,
+   "en": ".{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}Oh, {01 00 00 05 00}didn't I tell you?{01 01 00} I\ndon't{01 00 00 05 00} want these anymore,\n{01 00 00 05 00}{04 02 00}!\nI'll tell you when I'm into\nsomething new, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 5,
+   "en": "Thanks for bringing me\nthis and all, but.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00} \n\nI'm not {01 00 00 05 00}collecting these\nanymore{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}. You can have it\nback.",
+   "et": ""
+  }
+ ]
+}

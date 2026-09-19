@@ -1,0 +1,25 @@
+{
+ "file": "script/ENG/string/st_fish_time.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "at dawn or dusk",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "during the day",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "at night",
+   "et": ""
+  },
+  {
+   "id": 3,
+   "en": "at any time",
+   "et": ""
+  }
+ ]
+}

@@ -1,0 +1,20 @@
+{
+ "file": "script/ENG/message/bo/q09/badend_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 15 00}Hide-and-seek?!{01 00 00 0a 00} {07 01 00}{01 00 00 0a 00}Remember?!\nI went to hide! But you\nnever went looking for me!\n{07 16 00}If you didn't want to play,\nyou should have just said\nso{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 06 00}I've been waiting for you\nthis whole time,{01 00 00 0a 00}\n{04 02 00}!{03 03 00 02}",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 04 00}Uh,{07 00 00} I kept waiting and\nwaiting, but you never came\nto find me.\n{07 16 00}I finally went home 'cause I\nwas dying of hunger.\n\n{07 1b 00}That game is no fun when\nthe seeker is terrible at\nseeking,{01 00 00 0a 00} {04 02 00}.",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 0b 00}Hello?! Hide-and-seek?!{01 00 00 14 00} {07 14 00}Oh{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}\nThat means I win!\n\n{07 00 00}I thought it was just a\nrumor,{07 1b 00} but you really are\nterrible,{01 00 00 05 00} {04 02 00}.\n{07 16 00}I've never met anyone who\nwas sooo bad at hide-and-\nseek!",
+   "et": ""
+  }
+ ]
+}

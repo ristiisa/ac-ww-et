@@ -1,0 +1,410 @@
+{
+ "file": "script/ENG/message/obj/etc/tel_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "Hello, and thank you for\ncalling the Hit Or Miss\nFortune Hotline!\n{06 00 00 01 02}",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{06 01 00 03 04 05}",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{06 01 00 06 07 08}",
+   "et": ""
+  },
+  {
+   "id": 3,
+   "en": "{06 01 00 09 0a 0b}",
+   "et": ""
+  },
+  {
+   "id": 4,
+   "en": "{06 01 00 0c 0d 0e}",
+   "et": ""
+  },
+  {
+   "id": 5,
+   "en": "{06 01 00 0f 10 11}",
+   "et": ""
+  },
+  {
+   "id": 6,
+   "en": "{06 01 00 12 13 14}",
+   "et": ""
+  },
+  {
+   "id": 7,
+   "en": "{06 01 00 15 16 17}",
+   "et": ""
+  },
+  {
+   "id": 8,
+   "en": "{06 01 00 18 19 1a}",
+   "et": ""
+  },
+  {
+   "id": 9,
+   "en": "{06 01 00 1b 1c 1d}",
+   "et": ""
+  },
+  {
+   "id": 10,
+   "en": "{06 01 00 1e 1f 20}",
+   "et": ""
+  },
+  {
+   "id": 11,
+   "en": "{06 01 00 21 22 23}",
+   "et": ""
+  },
+  {
+   "id": 12,
+   "en": "{06 01 00 24 25 26}",
+   "et": ""
+  },
+  {
+   "id": 13,
+   "en": "{06 01 00 27 28 29}",
+   "et": ""
+  },
+  {
+   "id": 14,
+   "en": "{06 01 00 2a 2b 2c}",
+   "et": ""
+  },
+  {
+   "id": 15,
+   "en": "{06 01 00 2d 2e 2f}",
+   "et": ""
+  },
+  {
+   "id": 16,
+   "en": "{06 01 00 30 31 32}",
+   "et": ""
+  },
+  {
+   "id": 17,
+   "en": "{06 01 00 33 34 35}",
+   "et": ""
+  },
+  {
+   "id": 18,
+   "en": "{06 01 00 36 37 38}",
+   "et": ""
+  },
+  {
+   "id": 19,
+   "en": "{06 01 00 39 3a 3b}",
+   "et": ""
+  },
+  {
+   "id": 20,
+   "en": "{06 01 00 3c 3d 3e}",
+   "et": ""
+  },
+  {
+   "id": 21,
+   "en": "{06 01 00 3f 40 41}",
+   "et": ""
+  },
+  {
+   "id": 22,
+   "en": "{06 01 00 42 43 44}",
+   "et": ""
+  },
+  {
+   "id": 23,
+   "en": "{06 01 00 45 46 47}",
+   "et": ""
+  },
+  {
+   "id": 24,
+   "en": "{06 01 00 48 49 4a}",
+   "et": ""
+  },
+  {
+   "id": 25,
+   "en": "{06 01 00 4b 4c 4d}",
+   "et": ""
+  },
+  {
+   "id": 26,
+   "en": "{06 01 00 4e 4f 50}",
+   "et": ""
+  },
+  {
+   "id": 27,
+   "en": "Remember, there's a time\nand a place for everything.{01 00 00 14 00}\nIt's just not now.",
+   "et": ""
+  },
+  {
+   "id": 28,
+   "en": "Be true to yourself, or\nelse someone else will!{01 00 00 14 00}\n...Figure it out!",
+   "et": ""
+  },
+  {
+   "id": 29,
+   "en": "A rival approaches!{01 00 00 14 00} Make\nsure you don't weave any\ntangled webs for yourself.",
+   "et": ""
+  },
+  {
+   "id": 30,
+   "en": "Sunday dates are made for\nwalks in gardens...but you\nmay not see the flowers.",
+   "et": ""
+  },
+  {
+   "id": 31,
+   "en": "Use your brain! If it sounds\ntoo good, it is! You'll\nregret it later...or sooner!",
+   "et": ""
+  },
+  {
+   "id": 32,
+   "en": "Sing loud, sing proud!{01 00 00 14 00}\nYou might just get\ndiscovered!",
+   "et": ""
+  },
+  {
+   "id": 33,
+   "en": "When in need, look around!{01 00 00 14 00}\nYou might see someone in\nneed of being needed.",
+   "et": ""
+  },
+  {
+   "id": 34,
+   "en": "Watch your cash flow.{01 00 00 14 00} Maybe\nyou should wait a month\nbefore buying that tiara.",
+   "et": ""
+  },
+  {
+   "id": 35,
+   "en": "Stay that wound up, and\nyou're likely to pop!{01 00 00 14 00} Try\nto relax a little.",
+   "et": ""
+  },
+  {
+   "id": 36,
+   "en": "You're in for a confusing\nday. Stuff that should be\neasy won't.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}and vice versa.",
+   "et": ""
+  },
+  {
+   "id": 37,
+   "en": "Realize your potential!{01 00 00 14 00}\nThere's not much of it, so\nappreciate what you've got!",
+   "et": ""
+  },
+  {
+   "id": 38,
+   "en": "Remember, it's not a done\ndeal{01 00 00 05 00} 'til the dealin's\ndone.",
+   "et": ""
+  },
+  {
+   "id": 39,
+   "en": "Finding the perfect partner\nis all about good\nsalesmanship!{01 00 00 14 00} Sell yourself!",
+   "et": ""
+  },
+  {
+   "id": 40,
+   "en": "Listen to your seniors!{01 00 00 14 00}\nThere's a reason they've\nbeen around for so long.",
+   "et": ""
+  },
+  {
+   "id": 41,
+   "en": "Face west by southwest and\nbite into a veggie dog to\nenhance your monetary luck!",
+   "et": ""
+  },
+  {
+   "id": 42,
+   "en": "Don't panic! Just breathe in\npink, breathe out blue. {01 00 00 14 00}It's\nthe recipe for relaxation.",
+   "et": ""
+  },
+  {
+   "id": 43,
+   "en": "If you don't tell anyone, no\none will listen to you.{01 00 00 14 00}\nWrite a letter!",
+   "et": ""
+  },
+  {
+   "id": 44,
+   "en": "Be bold!{01 00 00 14 00} The bluebird of\nhappiness is pecking at\nyour window, so let him in!",
+   "et": ""
+  },
+  {
+   "id": 45,
+   "en": "Your best defense against\nyour worst enemy lies deep\nwithin you.{01 00 00 14 00} If you're lucky.",
+   "et": ""
+  },
+  {
+   "id": 46,
+   "en": "Your luck's taking a turn\nfor the worse.{01 00 00 14 00} Best to stay\ninside.{01 00 00 05 00} And probably in bed.",
+   "et": ""
+  },
+  {
+   "id": 47,
+   "en": "Your tough facade is\nstarting to crack.{01 00 00 0a 00} You\nshould take a nap.",
+   "et": ""
+  },
+  {
+   "id": 48,
+   "en": "The chance of a lifetime!{01 00 00 14 00}\nStart clipping those\ncoupons while there's time!",
+   "et": ""
+  },
+  {
+   "id": 49,
+   "en": "You are in control of your\nown future.{01 01 00} Don't tell the\nboss I said that, OK?",
+   "et": ""
+  },
+  {
+   "id": 50,
+   "en": "Open up your strike zone{01 00 00 05 00}\nand work on hitting those\nchange-ups.",
+   "et": ""
+  },
+  {
+   "id": 51,
+   "en": "Walk the path less traveled,\nbut watch your feet.{01 00 00 14 00} It's\na bit muddy.",
+   "et": ""
+  },
+  {
+   "id": 52,
+   "en": "A group outing is your\nchance to bring that\nspecial someone closer.",
+   "et": ""
+  },
+  {
+   "id": 53,
+   "en": "You may not be looking for\ntrouble, {01 00 00 05 00}but trouble's\ndefinitely looking for you.",
+   "et": ""
+  },
+  {
+   "id": 54,
+   "en": "Remember, look both ways\nbefore crossing the street.{01 00 00 14 00}\nTrust us on this one.",
+   "et": ""
+  },
+  {
+   "id": 55,
+   "en": "I predict that, this coming\nwinter, sweaters will come\nback into fashion.",
+   "et": ""
+  },
+  {
+   "id": 56,
+   "en": "Don't let things simmer.{01 00 00 14 00}\nIf you speak your mind,{01 00 00 05 00} you\nnever know what will happen.",
+   "et": ""
+  },
+  {
+   "id": 57,
+   "en": "In the very near future,{01 00 00 05 00}\nyou will eat a meal.",
+   "et": ""
+  },
+  {
+   "id": 58,
+   "en": "The next time you go to a\ncarnival, avoid cotton\ncandy. {01 00 00 14 00}You'll thank us.",
+   "et": ""
+  },
+  {
+   "id": 59,
+   "en": "The love of your life may\nor may not abandon you.{01 00 00 14 00}\nWe're not sure which.",
+   "et": ""
+  },
+  {
+   "id": 60,
+   "en": "Don't waste life chasing\nyour tail. {01 00 00 14 00}The stars tell us\nyou'll never catch it.",
+   "et": ""
+  },
+  {
+   "id": 61,
+   "en": "A scandal will soon strike\nwhose repercussions will be\nboth tragic and hilarious.",
+   "et": ""
+  },
+  {
+   "id": 62,
+   "en": "The planets are right for\nlove!{01 00 00 14 00} You, however, are not,\nso give it a rest.",
+   "et": ""
+  },
+  {
+   "id": 63,
+   "en": "The time is ripe for you to\nmake your move!{01 00 00 14 00} What that\nmove is remains unclear.",
+   "et": ""
+  },
+  {
+   "id": 64,
+   "en": "Even the simplest word will\nresonate deeply,{01 00 00 14 00} so watch\nwhat you say!",
+   "et": ""
+  },
+  {
+   "id": 65,
+   "en": "Mars is entering the house\nof Taurus,{01 00 00 14 00} but we're not\nsure what that means.",
+   "et": ""
+  },
+  {
+   "id": 66,
+   "en": "Delusions breed delusions.{01 00 00 14 00}\nThat hat really doesn't go\nwith your outfit.",
+   "et": ""
+  },
+  {
+   "id": 67,
+   "en": "Something will throw you\noff your schedule.{01 00 00 14 00} Just sit\nback and enjoy the ride.",
+   "et": ""
+  },
+  {
+   "id": 68,
+   "en": "The status quo will change.{01 00 00 14 00}\nSo much so that change will\nbe the new status quo.",
+   "et": ""
+  },
+  {
+   "id": 69,
+   "en": "You think you want a\nchange, but you really\ndon't.{01 00 00 14 00} Take a closer look.",
+   "et": ""
+  },
+  {
+   "id": 70,
+   "en": "Every day is stressful.{01 00 00 14 00} Go\nto the beach and shout at\nthe sea.{01 00 00 05 00} Just let it out!",
+   "et": ""
+  },
+  {
+   "id": 71,
+   "en": "Try as you might, you will\nnot succeed.{01 00 00 14 00} But you\nstill have to try.",
+   "et": ""
+  },
+  {
+   "id": 72,
+   "en": "In an odd turn of events,\nyou'll grab someone's heart.{01 00 00 14 00}\nTry to be cool about it.",
+   "et": ""
+  },
+  {
+   "id": 73,
+   "en": "The stars tell you to watch\nfor unexpected riches,{01 00 00 05 00} but\nthat seems rather obvious.",
+   "et": ""
+  },
+  {
+   "id": 74,
+   "en": "While playing a sport, you\nwill see yourself in a new\nlight!{01 00 00 0a 00} But it won't last.",
+   "et": ""
+  },
+  {
+   "id": 75,
+   "en": "A close friend will do or\nsay a terrible thing.{01 00 00 14 00} You\nwill forgive {01 00 00 05 00}but not forget.",
+   "et": ""
+  },
+  {
+   "id": 76,
+   "en": "The time is right for love!{01 00 00 14 00}\nWhose? The stars don't say!{01 00 00 05 00}\nBut you can always hope!",
+   "et": ""
+  },
+  {
+   "id": 77,
+   "en": "You will be unlucky in love,{01 00 00 14 00}\nbut at least your shoes will\nbe coming back into style.",
+   "et": ""
+  },
+  {
+   "id": 78,
+   "en": "Your time has come!{01 00 00 05 00} Dimples\nare making a comeback!",
+   "et": ""
+  },
+  {
+   "id": 79,
+   "en": "The stars tell me that your\nshoes need replacing.{01 00 00 14 00} Look\ninto that, will you?",
+   "et": ""
+  },
+  {
+   "id": 80,
+   "en": "Don't look behind you.{01 00 00 05 00}\nSeriously.{01 01 00} Did you look?{01 01 00}\nYou shouldn't have.",
+   "et": ""
+  }
+ ]
+}

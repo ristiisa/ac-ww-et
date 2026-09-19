@@ -1,0 +1,65 @@
+{
+ "file": "script/ENG/message/ha/ai/indoor_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 14 00}{0b 03 00}{01 06 00}G'mornin'{01 07 00}!{01 00 00 0a 00}\nWell, you're up early!{01 00 00 05 00}\nGood call, {01 00 00 05 00}{04 02 00}!\nYou wanna come over to my\nplace {07 0b 00}for a mean cuppa\n{04 18 00}?\n{07 04 00}Oh, wait! {01 00 00 0a 00}I{01 00 00 05 00} just remembered,\n{07 16 00}I'm fresh out!{01 00 00 0a 00}\nSorry, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 14 00}{0b 03 00}{01 06 00}Yo, diggety-dog{01 07 00}!{01 00 00 0a 00}\nHow's life, {04 1f 00}!\n\nFeels good to get a jump\nstart on the day, huh?\nAw, yeah, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 14 00}Good morning to ya,{01 00 00 0a 00}\n{04 1f 00}!\n\n{07 16 00}I woke up this morning{01 00 00 05 00}\nwith the king of cowlicks\nsticking outta my head{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 04 00}Hey! {01 00 00 05 00}HEY!{01 00 00 0a 00} Quit it!{01 00 00 05 00}\nDon't you DARE stare at it,\n{01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 3,
+   "en": "{07 14 00}{0b 03 00}{01 06 00}How's your day so far?{01 07 00}!{01 00 00 0a 00}\nFeelin' good, {04 1f 00}?\n\n{07 00 00}Whoa, wait, hang on...{01 00 00 05 00}\n{07 0b 00}Is it afternoon{01 00 00 05 00} already?\n\n{07 16 00}I got so far into the\ntraining zone,{01 00 00 05 00} I lost track\nof time{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 4,
+   "en": "{07 14 00}Oh! Hey! {01 00 00 05 00}{0b 03 00}{04 1f 00}!{01 00 00 0a 00}\nHow's it shaking for you?\nAll good, {01 00 00 05 00}{04 02 00}?\nYou'll see some crazy stuff\nlying around my digs, but{01 00 00 05 00}\nfeel free to stay a while!",
+   "et": ""
+  },
+  {
+   "id": 5,
+   "en": "{07 14 00}Welcome to the Den of\nRock-Hard Abs, {04 1f 00}!{01 00 00 05 00}\nYou like it, {04 02 00}?\n{07 00 00}Look if you will, but{01 00 00 05 00}\nmy drawers contain nothing\n{07 14 00}you might be interested in!\n{07 03 00}Har har har har!",
+   "et": ""
+  },
+  {
+   "id": 6,
+   "en": "{07 14 00}{0b 03 00}{01 06 00}Good evenin' to ya{01 07 00}!{01 00 00 0a 00}\nHow's life, {ff 00 00 05}{04 1f 00}{ff 00 00 00}?\n\n{07 00 00}Man, I skinned my elbow,{01 00 00 05 00}\nand I've been picking at\nthis scab all dang day!\n{07 06 00}Once I started, I just\ncouldn't stop! {01 00 00 05 00}What's wrong\nwith me, {01 00 00 05 00}{04 02 00}?!",
+   "et": ""
+  },
+  {
+   "id": 7,
+   "en": "{07 14 00}Hey hey!{01 00 00 05 00} How's your evening{01 00 00 0a 00}\ngoing, {ff 00 00 05}{04 1f 00}{ff 00 00 00}?\n\n{07 00 00}Man, I had about a million\nthings I wanted to tell you\ntoday, but...\n{07 06 00}You didn't come visit this\nafternoon, so I let myself\nforget 'em, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 8,
+   "en": "{07 14 00}Yo yo, {01 00 00 05 00}{04 1f 00}!{01 00 00 0a 00}\n{07 00 00}Coming to visit me at this\nlate hour?{01 00 00 05 00}\n{07 06 00}Man, I'm so flattered,\n{01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 9,
+   "en": "{07 14 00}Hey, what're you up to this\nevening,{01 00 00 05 00} {04 1f 00}?{01 00 00 05 00}\nLate-night workout? {01 00 00 05 00}I dig!\n{07 06 00}Me, I got so pumped thinkin'\nabout tomorrow that I can't\nsleep, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 10,
+   "en": "{07 04 00}Good gravy!{01 00 00 0a 00} It's already\n{04 08 00} o'clock?!{01 00 00 05 00} That's insane!\n{07 16 00}Yikes, {04 1f 00}!\n{07 00 00}Muscles build when you're\nsleeping! {01 00 00 05 00}What are we doing\nstill awake, {01 00 00 05 00}{04 02 00}?!",
+   "et": ""
+  },
+  {
+   "id": 11,
+   "en": "{07 02 00}AAAAAAAAAAAAACK!{01 00 00 0a 00}\n{07 16 00}How long have you been in\nhere, {04 1f 00}?!\n{07 06 00}I was so busy doing parallel\nspine bends, {01 00 00 05 00}I didn't see\nyou come in, {04 02 00}!",
+   "et": ""
+  }
+ ]
+}

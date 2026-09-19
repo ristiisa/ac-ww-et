@@ -1,0 +1,65 @@
+{
+ "file": "script/ENG/message/ta/ai/rain1_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 14 00}{0b 03 00}{01 06 00}Good morning{01 07 00}!\n{07 0b 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}What?{01 00 00 0a 00} Don't look so bored!\nBored people are boring!\n{07 00 00}On rainy days,{01 00 00 05 00} you can do\nall these neat things that\nyou can't do on sunny days!\n{07 04 00}Like what?{01 01 00} {07 0e 00}Well{01 00 00 0a 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} Um{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 14 00}{07 1b 00} Like\npondering this question!",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "Good morning, {04 1f 00}!{01 00 00 14 00}\n{07 14 00}We should {04 22 00}\nin the rain, you say? {01 00 00 05 00}\n{07 13 00}{01 00 00 0a 00}I think there's an old movie\nabout that, isn't there, {01 00 00 05 00}\n{04 02 00}? Neat!",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 04 00}Hey, {01 00 00 05 00}{04 1f 00}.{01 00 00 0a 00} You're up\nearly this morning.{01 00 00 0a 00}\nIt's also raining.\n{07 19 00}Hmm. {01 00 00 0a 00}Notice any connection,\n{01 00 00 0a 00}{07 00 00}{04 02 00}?",
+   "et": ""
+  },
+  {
+   "id": 3,
+   "en": "{07 1c 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.Sigh. Whenever it rains,\nit makes me feel like I did\nwhen I was a little girl.\n{07 16 00}I was so innocent back\nthen, before I learned the\ncruel ways of the world.",
+   "et": ""
+  },
+  {
+   "id": 4,
+   "en": "{0b 03 00}{01 06 00}Good afternoon{01 07 00}!{01 00 00 05 00}\nHow are you, {04 1f 00}?{01 00 00 0a 00}\n{07 14 00}I{01 00 00 0a 00} kinda like rainy days.\n{07 13 00}I pretend that the pitter-\npatter of the rain is the\nsoundtrack to a movie{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 19 00}And I am the star!{07 14 00}{01 00 00 0a 00} Well,\nthat kinda goes without\nsaying, {04 02 00}.",
+   "et": ""
+  },
+  {
+   "id": 5,
+   "en": "{07 14 00}{0b 03 00}{01 06 00}Hi{01 07 00}!{01 00 00 05 00}\n{01 00 00 05 00}{07 00 00}You know, {04 02 00}, I\nkinda like the rain.\nI mean, I like the rain when\nI'm sitting inside, 'cause\nit's all toasty and warm.\n{07 16 00}But I {01 00 00 05 00}HATE the rain when I'm\nstanding outside, 'cause it\nmesses up my makeup. Ick!",
+   "et": ""
+  },
+  {
+   "id": 6,
+   "en": "{07 00 00}Good evening, {04 1f 00}.\n{07 16 00}It was really pouring down\nall day,{01 00 00 05 00} {04 02 00}!\n{07 08 00}I got my new outfit all wet!\nUgh! The whole ordeal was\nterribly traumatizing.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}",
+   "et": ""
+  },
+  {
+   "id": 7,
+   "en": "{0b 03 00}{01 06 00}Good evening{01 07 00}!\n{0b 03 00}{04 1f 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00}{07 04 00}\nOh, wow! You're soaked!\n{07 03 00}Hee hee hee!{01 00 00 05 00}{07 1b 00}{01 00 00 05 00} Or are you\nTRYING to make a statement\nwith this look, {04 1f 00}?",
+   "et": ""
+  },
+  {
+   "id": 8,
+   "en": "{07 04 00}It's {04 08 00} o'clock already!? {01 00 00 05 00}I\nwas supposed to reapply my\nlipstick ten minutes ago!\n{07 16 00}It's so easy to lose track\nof time when the sun isn't\nout, {04 02 00}.",
+   "et": ""
+  },
+  {
+   "id": 9,
+   "en": "{07 14 00}{0b 03 00}{01 06 00}Oh, good evening{01 07 00}.{01 00 00 14 00}\n{07 0b 00}{01 00 00 05 00}If it's raining now,{01 00 00 05 00} does\nthat mean rain tomorrow?\n{07 01 00}I'm tired of rain! {07 16 00}I want\nthe sun to come out\nalready, {04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 10,
+   "en": "{0b 03 00}{01 06 00}Good evening{01 07 00}!{01 00 00 14 00}\n{07 14 00}Rain in the wee hours is\nspooky{01 00 00 05 00}, huh, {01 00 00 05 00}{04 02 00}.",
+   "et": ""
+  },
+  {
+   "id": 11,
+   "en": "{07 00 00}Good evening, {04 1f 00}.\n{07 1c 00}{01 00 00 14 00}This type of rain at this\nparticular hour...\n{07 16 00}Well, {01 00 00 05 00}it just makes me feel\nlonely, is all.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n\n{07 14 00}But then I saw your face,\nand now I feel OK. You're\nthe best, {01 00 00 0a 00}{04 02 00}!",
+   "et": ""
+  }
+ ]
+}

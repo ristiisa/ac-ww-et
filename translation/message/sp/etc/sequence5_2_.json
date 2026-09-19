@@ -1,0 +1,40 @@
+{
+ "file": "script/ENG/message/sp/etc/sequence5_2_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 02 00}Hello there!{01 00 00 0a 00} {01 00 00 05 00}Let me ask you\na question.{01 00 00 0f 00} {07 15 00}Of these four,\nwho do you respect most?{02 02 00 01 02 01 01}\nThe chief.\nThe mayor.\nThe mail clerk.\nThe CEO.",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 09 00}I see.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00} My heart feels the\npangs of a thousand tiny\nicicles.\nYou!{07 0b 00}{01 00 00 05 00} What's your name?{01 01 00}{07 00 00}\n{0b 03 00}{04 00 00}, eh?{01 00 00 0f 00}\n{07 14 00}A fine name!\n{07 00 00}My name is {ff 00 00 06}Tortimer{ff 00 00 00}!{01 00 00 0f 00} I'm\nthe mayor of {04 03 00}.\n\nOn holidays and days when\nthere are {ff 00 00 03}events{ff 00 00 00} going on,\nyou should come see me.\n{07 11 00}I'll be waiting for you{01 00 00 05 00} here\nin this {ff 00 00 08}plaza{ff 00 00 00}.{01 00 00 0f 00}\n{07 03 00}Heh{01 00 00 05 00} heh{01 00 00 05 00} hoorf!",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 04 00}You mean me?!{01 00 00 0f 00} Now that is\na good answer! {07 17 00}You're quite\nwise{01 00 00 05 00} for one so young.\nSo,{01 00 00 05 00}{07 0b 00} what's your name?{01 01 00}\n{07 00 00}{0b 03 00}{04 00 00}, eh?{01 00 00 0f 00}\n{07 14 00}That's a fine name.\n{07 00 00}I am {ff 00 00 06}Tortimer{ff 00 00 00},{01 00 00 0f 00} and I'm\nthe mayor of {04 03 00}.\n\nOn holidays and days when\n{ff 00 00 03}events{ff 00 00 00} are going on, you\nshould come see me.\n{07 11 00}I'll be waiting for you{01 00 00 05 00} here\nin this {ff 00 00 08}plaza{ff 00 00 00}.{01 00 00 0f 00}\n{07 03 00}Heh{01 00 00 05 00} heh{01 00 00 05 00} hoorf!",
+   "et": ""
+  },
+  {
+   "id": 3,
+   "en": "Do you understand me,\n{04 00 00}?{01 00 00 0f 00} Come to this\n{ff 00 00 08}plaza {ff 00 00 00}during town {ff 00 00 03}events{ff 00 00 00}.",
+   "et": ""
+  },
+  {
+   "id": 4,
+   "en": "Remember, {04 00 00}, {01 00 00 0f 00}the\nmayor always has his eye\non you.{01 00 00 05 00}.{01 00 00 05 00}.",
+   "et": ""
+  },
+  {
+   "id": 5,
+   "en": "{07 0b 00}Eh? What's that?{01 01 00} {07 09 00}Oh, I see.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0f 00}\nMade me look, did you?",
+   "et": ""
+  },
+  {
+   "id": 6,
+   "en": "{07 16 00}Oh, dear{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} I've got an itch\nsomething awful right in\nthe center of my back.\n{07 00 00}But I just can't quite reach\nit{01 00 00 0a 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 09 00} It's downright\nannoying.",
+   "et": ""
+  }
+ ]
+}

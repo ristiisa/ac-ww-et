@@ -1,0 +1,15 @@
+{
+ "file": "script/ENG/message/ko/q/error3_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 04 00}Oh man, I'm sorry!{01 00 00 14 00}\n{07 00 00}I'm usually sleepin' by that\ntime.\nCan we try another time,\n{01 00 00 05 00}{04 02 00}?",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 04 00}Awww, {04 1f 00}!{01 00 00 0f 00}\n{07 00 00}I'm usually crashed out in\nbed by that time.\n{07 16 00}Can we make it at a time\nwhen we're both awake,\n{01 00 00 05 00}{04 02 00}?",
+   "et": ""
+  }
+ ]
+}

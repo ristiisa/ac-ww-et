@@ -1,0 +1,20 @@
+{
+ "file": "script/ENG/message/fu/q/start_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 14 00}All right then! Good luck to\nboth of us, {01 00 00 05 00}{04 02 00}!{01 00 00 0f 00}\n{07 00 00}Ready{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} Set{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n{07 05 00}{01 08 00}{01 02 00}Go!!{01 03 00}",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 14 00}Well then,{01 00 00 05 00} we should get\nstarted, shouldn't we?\n\n{07 15 00}You don't stand a chance!\nBut good luck to you just\nthe same, {04 1f 00}!",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 14 00}OK, good luck to both\nof us then, {04 02 00}!{01 00 00 0f 00}\nLet's go!",
+   "et": ""
+  }
+ ]
+}

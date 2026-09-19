@@ -1,0 +1,20 @@
+{
+ "file": "script/ENG/message/fu/q03/req3_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 14 00}I really need the elusive\n{ff 00 00 02}{04 0f 00}{ff 00 00 00}!{01 00 00 05 00} He's\na wily one, {01 00 00 05 00}{04 02 00}!\n{07 16 00}Do you think I'll track it\ndown today?{01 00 00 05 00} I hope so{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}. I'm\ntired of looking!",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 00 00}My goal for the day is to \ncollect a complete\n{ff 00 00 02}{04 0f 00}{ff 00 00 00}!\n{ff 00 00 06}Blathers {ff 00 00 00}told me that its\nskeleton is so big, it\ncomes as multiple fossils!\n{07 14 00}So I don't care which piece\nI get, as long as it's from\nthe {ff 00 00 02}{04 0f 00}{ff 00 00 00}!\n{07 0d 00}See, I'm not picky! I'll take\nwhatever help I can get,\n{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 00 00}This is weird, but lately{01 00 00 05 00}\nI've been dreaming about\nthe {ff 00 00 02}{04 0f 00}{ff 00 00 00}.\nMaybe that's a sign...{01 01 00}\n{07 0b 00}Could it mean that I'm\ndestined to find a fossil?\n{07 14 00}Well, I hope it comes true!\nNo matter HOW I get one{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}\nHint hint, {01 00 00 05 00}{04 02 00}!!",
+   "et": ""
+  }
+ ]
+}

@@ -1,0 +1,145 @@
+{
+ "file": "script/ENG/message/ko/3p/ta_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{09 01 00}{09 08 00}{07 00 00}{ff 00 00 06}{04 10 00}{ff 00 00 00},{01 00 00 0f 00} you look \ndepressed. Is something \nbringin' you down?\n{07 14 00}As long as it doesn't have\nto do with anything sappy,\nI'm here for you.{09 09 00}",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{09 01 00}{09 08 00}{07 16 00}I gotta say, {ff 00 00 06}{04 10 00}{ff 00 00 00},{01 00 00 0a 00}\nyou've got a scraggly\nlook going on today{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 0b 00}Did you lose a bet or\nsomething, {01 00 00 05 00}{04 02 00}?{09 09 00}",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{09 01 00}{09 08 00}{07 00 00}Hey, {01 00 00 05 00}{ff 00 00 06}{04 10 00}{ff 00 00 00},{01 00 00 0f 00} it's fine\nto wear fancy clothes and\nall that{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.\n{07 15 00}But beauty isn't something\non the outside.{01 00 00 14 00} It's your\ninsides that count! {01 00 00 05 00}\n{07 16 00}You gotta eat green stuff\nto make sure you're pretty\non the inside.{09 09 00}",
+   "et": ""
+  },
+  {
+   "id": 3,
+   "en": "{09 00 00}{09 08 00}{09 02 00}{09 06 00}You know, {ff 00 00 06}{04 0f 00}{ff 00 00 00},{01 00 00 14 00}\n{07 1c 00}to be honest{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n\nThis guy gave me a ring,{07 0f 00}\nbut it doesn't fit,\n{01 00 00 05 00}{04 02 00}!{09 09 00}",
+   "et": ""
+  },
+  {
+   "id": 4,
+   "en": "{09 00 00}{09 06 00}{09 01 00}{07 18 00}Awww! I said you could bring\nup anything BUT a bunch of\nsappy love talk!{09 09 00}",
+   "et": ""
+  },
+  {
+   "id": 5,
+   "en": "{09 00 00}{09 08 00}{09 02 00}{07 15 00}Well, {01 00 00 05 00}{04 02 00}! There\nis NO way a size-6 ring\nwould fit on my finger!{09 09 00}",
+   "et": ""
+  },
+  {
+   "id": 6,
+   "en": "{09 00 00}{09 06 00}{09 01 00}{07 01 00}Whoa! Hey!{01 00 00 14 00} Don't take your\nring rage out on me,\n{01 00 00 05 00}{04 02 00}!{09 09 00}",
+   "et": ""
+  },
+  {
+   "id": 7,
+   "en": "{09 00 00}{09 08 00}{09 02 00}{07 01 00}What's the matter?!{01 00 00 0f 00}\nYou scared of talking\nabout mushy stuff?\n{01 00 00 0f 00}{07 03 00}Yep, I can see the fear of\nmarriage in your eyes,\nweasel boy!{09 09 00}",
+   "et": ""
+  },
+  {
+   "id": 8,
+   "en": "{09 00 00}{09 06 00}{09 01 00}{07 02 00}WHAT?!{01 00 00 05 00} {01 01 00}\n{07 00 00}Did you just call me a{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\nweasel boy?\n{07 15 00}What's that supposed to\nmean, {01 00 00 05 00}{04 02 00}?!{09 09 00}",
+   "et": ""
+  },
+  {
+   "id": 9,
+   "en": "{09 00 00}{09 08 00}{09 02 00}{07 15 00}It doesn't mean anything!{01 00 00 14 00}\nIt just popped into my\nhead just then!\nIt must be because you{01 00 00 05 00}\nlooked like one there for\na second!{09 09 00}",
+   "et": ""
+  },
+  {
+   "id": 10,
+   "en": "{09 00 00}{09 06 00}{09 01 00}{07 05 00}You little jerk!{01 00 00 0a 00} I don't\nlook anything like a weasel!{03 02 00 01}{09 02 00}{03 02 00 01}",
+   "et": ""
+  },
+  {
+   "id": 11,
+   "en": "{09 00 00}{09 08 00}{09 02 00}{09 06 00}{07 0b 00}Hmph!{01 00 00 14 00} {07 16 00}You are SO clueless\nabout designer clothes!\n\n{07 00 00}I spent all morning primping\nand styling. You've got to\nlook stylishly disheveled!\n{07 1c 00}And all you can say is I\nlook like I lost a bet,\n{01 00 00 05 00}{04 02 00}!{09 09 00}",
+   "et": ""
+  },
+  {
+   "id": 12,
+   "en": "{09 00 00}{09 06 00}{09 01 00}{07 03 00}War har har!{01 00 00 14 00}{07 00 00} So you did all\nthat just to get noticed\nby guys?\n{07 15 00}From where I'm standin'{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{09 02 00}{07 16 00}{09 01 00} \nyou got it all opposite!\n\n{07 00 00}Can I give you some advice,\n{01 00 00 05 00}{04 02 00}?{09 09 00}",
+   "et": ""
+  },
+  {
+   "id": 13,
+   "en": "{09 00 00}{09 08 00}{09 02 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 15 00}I'm doing just fine\nwithout your advice!\n\n{07 00 00}But, {01 00 00 05 00}uhhh{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}. I guess\nI could hear you out,\n{01 00 00 05 00}{04 02 00}.{09 09 00}",
+   "et": ""
+  },
+  {
+   "id": 14,
+   "en": "{09 00 00}{09 06 00}{09 01 00}{07 15 00}All right{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} Well, here's the\ndeal. Cut out all that\nmakeup!{07 00 00}\nWithout makeup, your face\nhas way more impact,\n{01 00 00 05 00}{04 02 00}!\n{07 14 00}It'll hit guys like a runaway\ntruck!{01 00 00 14 00}{07 03 00} KABOOM!{09 09 00}",
+   "et": ""
+  },
+  {
+   "id": 15,
+   "en": "{09 00 00}{09 08 00}{09 02 00}{07 05 00}You did NOT just say that!{03 02 00 01}{09 01 00}{03 01 00 01}",
+   "et": ""
+  },
+  {
+   "id": 16,
+   "en": "{09 00 00}{09 08 00}{09 02 00}{09 06 00}{07 1c 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}So you think I don't know\nhow to take care of\nmyself, is that it?\n{07 00 00}If you're concerned about\nwhether or not I eat enough\nhealthy things, don't be.\n{07 14 00}I eat plenty of.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}fresh \nfruits, for example!{01 00 00 05 00}\nI mean, {01 00 00 05 00}{04 02 00}!{09 09 00}",
+   "et": ""
+  },
+  {
+   "id": 17,
+   "en": "{09 00 00}{09 06 00}{09 01 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 0b 00}Like coconuts?{09 09 00}",
+   "et": ""
+  },
+  {
+   "id": 18,
+   "en": "{09 00 00}{09 08 00}{09 02 00}{07 01 00}Why coconuts?{01 00 00 05 00} I hate\ncoconuts. They're always\nlanding on my head.\n{09 01 00}{07 15 00}{09 02 00}{07 00 00}Hmm, what fruit do I like?\nLemme think{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 01 00} {07 0c 00}Pears,\n{01 00 00 05 00}{04 02 00}!\n{09 04 00}Hey, {04 1f 00}, are you\ninto pears?{07 0b 00}{09 01 00}{09 03 00}{09 02 00}{02 00 00 13 18}\nI love 'em.\nNot really...",
+   "et": ""
+  },
+  {
+   "id": 19,
+   "en": "{07 14 00}Ha! I knew it, {01 00 00 05 00}{04 02 00}!\n{07 00 00}It's 'cause your head is\nshaped kinda like a pear!{09 09 00}",
+   "et": ""
+  },
+  {
+   "id": 20,
+   "en": "{09 00 00}{09 06 00}{09 01 00}{07 15 00}Ugh!{01 00 00 0f 00} Why pears?{01 00 00 0f 00}\nWhy does everyone have to\nlike pears?\nPears are so freakish!\nHow could you actually eat\none?{09 02 00}{09 05 00}{09 01 00}\n{09 08 00}{07 02 00}OH NO!{01 00 00 0f 00} It's the invasion\nof the pear people!{07 16 00} Aggghh!{09 02 00}{07 18 00}{09 01 00}\n{07 00 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0f 00}{07 15 00}Aggghh, {01 00 00 05 00}{04 02 00}!{09 09 00}",
+   "et": ""
+  },
+  {
+   "id": 21,
+   "en": "{09 00 00}{09 08 00}{09 02 00}{09 06 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{09 09 00}",
+   "et": ""
+  },
+  {
+   "id": 22,
+   "en": "{09 00 00}{09 06 00}{09 01 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00}{07 16 00}Hey, the wind is picking\nup{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0f 00} {07 09 00}It's getting kinda\ncold out.{09 09 00}",
+   "et": ""
+  },
+  {
+   "id": 23,
+   "en": "{09 00 00}{09 08 00}{09 02 00}{07 07 00}{01 00 00 0a 00}It's freeeeeezing out here!{01 00 00 14 00}\nMy earrings are like little\nicicles{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{04 02 00}!{09 01 00}{03 03 00 01}",
+   "et": ""
+  },
+  {
+   "id": 24,
+   "en": "{07 04 00}Oh, {01 00 00 05 00}{04 1f 00},{01 00 00 05 00} you're not\ninto pears?{01 01 00} {07 0b 00}They ARE kinda\nweird looking.{09 09 00}",
+   "et": ""
+  },
+  {
+   "id": 25,
+   "en": "{09 00 00}{09 06 00}{09 01 00}{09 07 00}You idiot!{01 00 00 0f 00} {0b 03 00}{04 1f 00}\ntotally sees{01 00 00 05 00} how stupid\nyou're being!{09 08 00}\n{07 15 00}Besides, we all know that{01 00 00 05 00}\nyou secretly eat a bunch\nof fancy, expensive food.\n{07 01 00}That's where your story\ncrumbles, {01 00 00 05 00}{04 02 00}!{09 09 00}",
+   "et": ""
+  },
+  {
+   "id": 26,
+   "en": "{09 00 00}{09 08 00}{09 02 00}{07 02 00}{01 04 00}What? {01 00 00 05 00}{01 05 00}{07 00 00}{09 06 00}What did you say?!{01 00 00 0f 00}\nHow dare you!\n\n{07 01 00}I'm very careful about what\nI eat.{09 01 00}{07 18 00}{09 02 00}\n\n{07 00 00}When you eat something\nvibrant and colorful, you\nnaturally feel that way!{07 03 00}\nMaybe the reason you're so\nstale and tasteless is\nbecause your food is too!{09 09 00}",
+   "et": ""
+  },
+  {
+   "id": 27,
+   "en": "{09 00 00}{09 06 00}{09 01 00}{07 04 00}Oh.{01 00 00 0f 00} {07 16 00}Maybe that's why I've\nbeen so cranky lately.\n\n{07 0f 00}Maybe I should take a break\nfrom eating gruel for every\nmeal, {04 02 00}.{03 03 00 01}",
+   "et": ""
+  }
+ ]
+}

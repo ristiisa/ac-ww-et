@@ -1,0 +1,30 @@
+{
+ "file": "script/ENG/message/ta/etc/push_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 04 00}What? {01 00 00 0a 00}WHAT!?{01 00 00 0a 00} {07 15 00}Would you mind\nnot pushing me, puh-lease!\nSheesh, {01 00 00 0a 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 15 00}You better watch out,\nbecause I'm{01 00 00 05 00} gonna{01 00 00 05 00} get{01 00 00 05 00} MAD!",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 05 00}{01 00 00 05 00}Hey,{01 00 00 0a 00} just what is it you're\ntrying to accomplish\nanyways, {01 00 00 0a 00}{04 02 00}?",
+   "et": ""
+  },
+  {
+   "id": 3,
+   "en": "{07 15 00}Why, you sneaky little{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n{07 05 00}{01 00 00 05 00}Would you please stop\npushing me RIGHT NOW!",
+   "et": ""
+  },
+  {
+   "id": 4,
+   "en": "{07 01 00}Hey, {01 00 00 05 00}what do you think\nyou're doing?! I said stop!\nThat's S-T-O-P! Got it?",
+   "et": ""
+  }
+ ]
+}

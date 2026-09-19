@@ -1,0 +1,20 @@
+{
+ "file": "script/ENG/message/bo/q01/nlose_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "Yeah,{01 00 00 0a 00} I shoulda known,\n{04 1f 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00}\n\nJust when I was about to\nget one, it got away,{01 00 00 0a 00}\n{04 02 00}.\n{07 14 00}I guess I'll take this\n{0b 02 00}{04 1a 00}.",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "You know what, {01 00 00 05 00}{04 1f 00}?\nYou're acting really\nimmature.\nIt's just a game, you know!\nYou don't have to be so\ncompetitive ALL THE TIME!\n{07 01 00}Now I'm mad, so I'm just\ngonna have to take this\n{0b 02 00}{04 1a 00}!",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 16 00}Hmm{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} I guess I lost.\n\n\nI don't know how you caught\none so fast,{01 00 00 0a 00} {04 1f 00}.\nI should have known.\n{07 14 00}Well, I guess I'll take this\n{0b 02 00}{04 1a 00}.",
+   "et": ""
+  }
+ ]
+}

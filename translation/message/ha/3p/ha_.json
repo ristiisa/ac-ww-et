@@ -1,0 +1,90 @@
+{
+ "file": "script/ENG/message/ha/3p/ha_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{09 01 00}{09 08 00}{07 14 00}We should get together and\nform the most EXTREME\ncroquet team ever!{09 09 00}",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{09 02 00}{09 04 00}{09 01 00}{09 04 00}Yo, {01 00 00 05 00}{04 1f 00}!{01 00 00 0a 00} You came\nat just the right time,\ndude!\nWe were just about to\nstart our pro wrasslin'\nworkout, {01 00 00 05 00}{04 02 00}!\nYou're gonna be our\nsparring partner, {07 0b 00}right?{02 00 00 06 0a}\nSounds fun.\nYou're insane.\n{09 09 00}",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{09 01 00}{09 08 00}{07 14 00}Yo, {ff 00 00 06}{01 00 00 05 00}{04 10 00}{ff 00 00 00}!{01 00 00 0a 00} {07 0d 00}Check out\nthe definition on these\nbeefy biceps, {01 00 00 05 00}{04 02 00}!{01 00 00 05 00}\nBreathtaking, right?{07 14 00}{09 09 00}",
+   "et": ""
+  },
+  {
+   "id": 3,
+   "en": "{09 00 00}{09 08 00}{09 02 00}{07 14 00}Bro, I don't know how you\ndid that, {01 00 00 05 00}but I was JUST\nthinking the same thing!\n{07 15 00}OK, let's go judo chop some\ntrees down and use 'em for\nmallets!{01 00 00 05 00}\n{07 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}Wait a sec!\n{07 0b 00}What can we use for a\nball, {01 00 00 05 00}{04 02 00}?{09 09 00}",
+   "et": ""
+  },
+  {
+   "id": 4,
+   "en": "{07 00 00}{09 00 00}{09 06 00}{09 01 00}{07 14 00}Oh, I found some boulders\nsitting on the beach the\nother day, {01 00 00 05 00}{04 02 00}.\n{07 15 00}We should use those, dude!{01 00 00 05 00}\n{07 05 00}I'm totally psyched!{09 09 00}",
+   "et": ""
+  },
+  {
+   "id": 5,
+   "en": "{07 15 00}{09 00 00}{09 08 00}{09 02 00}{07 0a 00}BRO! {01 00 00 05 00}We are SO gonna be\non the cover of Extreme\nLawn Sports Monthly!{03 01 00 01}{09 01 00}{03 01 00 01}",
+   "et": ""
+  },
+  {
+   "id": 6,
+   "en": "{07 00 00}{09 00 00}{09 08 00}{09 02 00}{07 1d 00}WHOA, WHOA, WHOA! Hold up\nthere, {ff 00 00 06}{01 00 00 05 00}{04 0f 00}{ff 00 00 00}!{01 00 00 0a 00}\n\n{09 02 00}{09 05 00}I don't know if {04 1f 00}\nis up to takin' that kind\nof punishment,{ff 00 00 06}{01 00 00 05 00} {ff 00 00 00}{04 02 00}.{09 09 00}",
+   "et": ""
+  },
+  {
+   "id": 7,
+   "en": "{09 00 00}{09 06 00}{09 01 00}{09 08 00}Oh, dude.{01 01 00}\n{07 1c 00}Yeah. {0b 03 00}{04 1f 00} is kind\nof a big wimp.{09 09 00}",
+   "et": ""
+  },
+  {
+   "id": 8,
+   "en": "{09 00 00}{09 08 00}{09 02 00}{09 06 00}{07 16 00}If {04 1f 00} got flying\ndragon-kicked in the neck\nor something.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\nwe'd be the ones to get\nblamed, {01 00 00 05 00}{04 02 00}.{09 09 00}",
+   "et": ""
+  },
+  {
+   "id": 9,
+   "en": "{09 00 00}{09 06 00}{09 01 00}{07 00 00}But kickboxing isn't fun\nwithout a punching bag, uh,\nI mean, sparring partner! {01 00 00 05 00}\n{07 16 00}Dang it! Now I have to\nsettle for headbutting\ncoconuts all day!\n{07 1c 00}Or maybe I'll go practice\nmy whirling powerbomb\ndrop on {ff 00 00 06}Tom Nook{ff 00 00 00}.",
+   "et": ""
+  },
+  {
+   "id": 10,
+   "en": "{07 00 00}{09 00 00}{09 08 00}{09 02 00}{07 1c 00}Yeah.{01 00 00 05 00} Maybe I'll go practice\nmy spinning powerbomb\ndrop on {ff 00 00 06}Tom Nook{ff 00 00 00}.{09 09 00}",
+   "et": ""
+  },
+  {
+   "id": 11,
+   "en": "{09 00 00}{09 06 00}{09 01 00}{07 0e 00}But then,\nwe just did the paired \nexercise the other day{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 00 00}{09 08 00}Should we go find someone\nother than {04 1f 00},\n{01 00 00 05 00}{04 02 00}?{09 09 00}",
+   "et": ""
+  },
+  {
+   "id": 12,
+   "en": "{09 00 00}{09 08 00}{09 02 00}Hmmm{01 00 00 0a 00}.{01 00 00 0a 00}.{01 00 00 0a 00}.{01 00 00 0a 00}\n{07 00 00}Maybe we should do that, \n{01 00 00 05 00}{04 02 00}!\n{09 01 00}{09 03 00}{09 02 00}{09 04 00}{07 15 00}Hey, {01 00 00 05 00}{ff 00 00 05}{04 1f 00}{ff 00 00 00},{01 00 00 05 00}\nyou should try to read\nbetween the lines more!{03 03 00 01}{09 02 00}{03 03 00 01}",
+   "et": ""
+  },
+  {
+   "id": 13,
+   "en": "{09 00 00}{09 08 00}{09 02 00}{07 01 00}What?!{01 00 00 0a 00} That's nothin'\ncompared to these\nwashboard abs!{01 00 00 0a 00}\nWho needs a juicer when you\ncan squeeze a grapefruit\nbetween these bad boys?\n{01 08 00}HARRRRGGGG!{07 15 00}{09 09 00}",
+   "et": ""
+  },
+  {
+   "id": 14,
+   "en": "{09 00 00}{09 06 00}{09 01 00}{07 01 00}Oh, yeah! Well my thighs\nare like tree trunks!\n{01 08 00}WUUUUURRRFFF!{09 09 00}",
+   "et": ""
+  },
+  {
+   "id": 15,
+   "en": "{09 00 00}{09 08 00}{09 02 00}{07 05 00}Pshaw! Get a load of these\nserious back muscles! It's\nlike a rippling ocean!\n{01 08 00}BLARRRRRRRRRRGGGG!\n{07 01 00}When I flex, you better\nbeware of the tidal wave!{09 09 00}",
+   "et": ""
+  },
+  {
+   "id": 16,
+   "en": "{09 00 00}{09 06 00}{09 02 00}{07 00 00}{09 03 00}{09 01 00}{09 03 00}{07 00 00}{01 08 00}HARRRRRRRRRRRRG!!!\nOh, no, {01 00 00 05 00}{04 1f 00}.{01 00 00 05 00} {07 06 00}I think\nI just pulled something.\nDude,{01 00 00 05 00} I better take a\nbreather.",
+   "et": ""
+  }
+ ]
+}

@@ -1,0 +1,120 @@
+{
+ "file": "script/ENG/message/bo/tsu/event1_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "Finally!{01 00 00 0a 00} This Sunday is the\n{ff 00 00 03}Fishing Tourney{ff 00 00 00}! {01 01 00}{07 14 00}I heard the\nprize this year is amazing!\nI'm gonna fish like mad!\n{07 04 00}Say, {04 1f 00},{01 00 00 0a 00} are you a\ntalented angler?{02 00 00 0e 0f}\nYes, naturally!\nNot so much...",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 0b 00}How do you think the fish\nare feeling{01 00 00 0a 00} with the {ff 00 00 03}Fishing\nTourney{ff 00 00 00} so close?\n{06 01 00 10 11 12}",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 14 00}{0b 03 00}{04 1f 00},{01 00 00 14 00}{07 0b 00}{01 00 00 0a 00} are you gonna\nenter Sunday's {ff 00 00 03}Bug-Off{ff 00 00 00},\n{01 00 00 05 00}{04 02 00}?{02 00 00 13 14}\nMost definitely!\nGood question...",
+   "et": ""
+  },
+  {
+   "id": 3,
+   "en": "{07 14 00}Right now,{01 00 00 05 00} I'm in the midst\nof preparing{01 00 00 0a 00} for Sunday's\n{ff 00 00 03}Bug-Off{ff 00 00 00}.\n{07 19 00}If the bugs just got my\n\"excitenet,\" I'd be set!{01 00 00 0a 00} Huh\nhuh huh! {01 00 00 0a 00}{0b 03 00}{04 02 00}!{07 00 00}",
+   "et": ""
+  },
+  {
+   "id": 4,
+   "en": "{07 14 00}I hope you'll stop by my\nhouse during Saturday's\n{ff 00 00 03}Flea Market{ff 00 00 00}...\n{07 00 00}I've got something{01 00 00 0a 00} that I\nreally want you to see,{01 00 00 0a 00}\n{04 02 00}.",
+   "et": ""
+  },
+  {
+   "id": 5,
+   "en": "{07 14 00}You know there's going to\nbe a {ff 00 00 03}Flea Market{ff 00 00 00} this\nSaturday, {07 0b 00}{01 00 00 05 00}don't you?\n{07 0e 00}{01 00 00 0a 00}I always get so confused{01 00 00 0a 00}\nabout what to sell{01 00 00 0a 00} and how\nmuch I should sell it for.\n{07 06 00}It always gets my heart\nracing,{01 00 00 0a 00} {04 02 00}! I just\ngotta chiiiiiill out.",
+   "et": ""
+  },
+  {
+   "id": 6,
+   "en": "{07 16 00}I don't know what to sing\nfor {ff 00 00 03}La-Di-Day{01 00 00 0a 00}{ff 00 00 00} on Saturday.{01 00 00 0a 00}\nI get so nervous singing.\n{07 00 00}But it could be my best\nshot at setting the town\ntune, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 7,
+   "en": "{07 15 00}This Saturday{01 00 00 0a 00} is {ff 00 00 03}La-Di-Day{ff 00 00 00},\nright?{01 00 00 05 00} Well, I've got a plan!\n\n{07 05 00}{01 00 00 0a 00}I'm gonna shout out\na song{01 00 00 0a 00} and make 'em use it\nas the town tune!",
+   "et": ""
+  },
+  {
+   "id": 8,
+   "en": "{01 00 00 0a 00}Good vibes!{01 00 00 0a 00} Compliments\ngalore!{01 00 00 0a 00} Mad props! {01 00 00 0a 00}{07 09 00}Death by\nmad props{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 14 00}That's what happens on my\nfavorite day, {01 00 00 0a 00}{ff 00 00 03}Yay Day{ff 00 00 00}!\n\n{07 0d 00}Watch out, 'cause I'm gonna\ncompliment you 'til you\npuke this Sunday!",
+   "et": ""
+  },
+  {
+   "id": 9,
+   "en": "{07 14 00}Hey,{01 00 00 05 00} {04 1f 00},{01 00 00 0a 00}{07 0b 00}{01 00 00 05 00} did you\nknow that this Sunday is\n{ff 00 00 03}Yay Day{ff 00 00 00}?\n{07 06 00}Gosh{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0f 00} I get so nervous\ntrying to think up all the\ncompliments I'm gonna give!",
+   "et": ""
+  },
+  {
+   "id": 10,
+   "en": "Oh,{01 00 00 0a 00} {04 1f 00}!{01 00 00 14 00} {07 14 00}Did you\nknow that {ff 00 00 06}{04 0f 00}{ff 00 00 00}'s\nbirthday{01 00 00 05 00} is coming up?\n{07 14 00}I have to hurry\nup and find a present.",
+   "et": ""
+  },
+  {
+   "id": 11,
+   "en": "I heard that {ff 00 00 06}{04 0f 00}{ff 00 00 00}'s\nbirthday is on the {04 11 00}!\nDid you know that?{02 00 00 15 16}\nOf course!\nAre you serious?",
+   "et": ""
+  },
+  {
+   "id": 12,
+   "en": "{07 1c 00}{01 00 00 14 00}This year is almost over.{01 01 00}\n{07 00 00}Are you gonna go watch the\n{ff 00 00 03}New Year's Eve Countdown{ff 00 00 00}?\n{01 00 00 0a 00}{07 1b 00}{01 00 00 05 00}That's where you go get rid\nof all the bad stuff that\nhappened to you this year!",
+   "et": ""
+  },
+  {
+   "id": 13,
+   "en": "{07 0e 00}{01 00 00 0a 00}Gorging on sweets,{01 00 00 0a 00} binging\non {04 13 00},{01 00 00 0a 00}\nplaying video games{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 15 00}I have tons of resolutions\nto make{01 00 00 0a 00} at the {ff 00 00 03}New Year's\nEve Countdown {ff 00 00 00}on the 31st!",
+   "et": ""
+  },
+  {
+   "id": 14,
+   "en": "{07 05 00}Fine!{01 00 00 0f 00}{01 00 00 0a 00} But I am NOT gonna\nlose to you!{01 00 00 05 00} You might\nhave opposable thumbs,\n{07 0d 00}but I've got charm to woo\nthe fish with! {01 00 00 0a 00}And lots of\n{04 13 00}!",
+   "et": ""
+  },
+  {
+   "id": 15,
+   "en": "{07 00 00}{ff 00 00 06}{07 00 00}Mayor Tortimer{ff 00 00 00} says it's\nvery important for people\nto take on new challenges.\n{07 14 00}I'm sure he'll have some\nkind of prize for everyone\nwho participates.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}",
+   "et": ""
+  },
+  {
+   "id": 16,
+   "en": "{07 0e 00}I'm picturing this scene:{01 01 00}\n{01 00 00 0a 00}\"{ff 00 00 02}I'll go, too,{01 00 00 0a 00} Dad!{ff 00 00 00}\"\n\"{ff 00 00 02}No, Son,{01 00 00 0a 00} you're too young{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00}\nYou have to stay behind to\nlook after the family{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{ff 00 00 00}\"\n{07 00 00}Wow{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 08 00}WAAAAAAAAAAAAAH!{01 00 00 0a 00} It's such\na sad story, {01 00 00 0a 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 17,
+   "en": "{07 0e 00}{01 00 00 0a 00}Maybe{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00} {07 14 00}They like the thrill\nof the chase, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 18,
+   "en": "{07 0e 00}{01 00 00 0a 00}Fishing is an endless battle\nbetween us and them.\n\n{07 11 00}Maybe they're having a\nmeeting right now{01 00 00 0a 00} to decide\nwho the decoy will be!",
+   "et": ""
+  },
+  {
+   "id": 19,
+   "en": "{07 14 00}Apparently,{01 00 00 0a 00} bugs really like\nsweet stuff, like{07 0e 00}{01 00 00 0a 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 14 00}{07 0c 00}like\nbananas!\n{07 0d 00}I wonder if they like\nbananas?{01 01 00} {07 0a 00}Bananas {01 00 00 0a 00}are sooo\ndelicious, {01 00 00 0a 00}{04 02 00}!{03 01 00 01}",
+   "et": ""
+  },
+  {
+   "id": 20,
+   "en": "{07 14 00}{ff 00 00 06}Tortimer{ff 00 00 00}, the mayor,{01 00 00 0a 00} was\nbragging about how he lined\nup a great prize!\n{01 00 00 0a 00}{07 1b 00}{01 00 00 05 00}I guess{01 00 00 05 00} that's what they\ncall the nervous excitement\nof old age,{01 00 00 0a 00} {04 02 00}.",
+   "et": ""
+  },
+  {
+   "id": 21,
+   "en": "{07 02 00}You did?!{01 00 00 14 00} {07 06 00}Sheesh! Why didn't\nyou tell me,{01 00 00 05 00} {04 02 00}?\n\n{07 08 00}All I have to give\n{ff 00 00 06}{04 0f 00}{ff 00 00 00}{01 00 00 05 00} is fruit from\nthe next town over!{03 03 00 01}",
+   "et": ""
+  },
+  {
+   "id": 22,
+   "en": "{07 06 00}Well, it is!{01 00 00 14 00} I guess maybe\na {04 15 00} is the\nbest present.\n{07 0e 00}{01 00 00 0a 00}If it were my birthday,{01 00 00 0a 00} I\nguess I would want a\nbanana{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 09 00}{01 00 00 0a 00}But {ff 00 00 06}{04 0f 00}{ff 00 00 00} is kind of\nweird like that,{01 00 00 0a 00}\n{04 02 00}.",
+   "et": ""
+  }
+ ]
+}

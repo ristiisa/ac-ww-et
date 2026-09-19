@@ -1,0 +1,260 @@
+{
+ "file": "script/ENG/message/sp/npc/drama4_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 1c 00}Oh, boy{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n\n\n{07 00 00}Oh, hi!{01 00 00 05 00} Didn't see you there!{01 00 00 0f 00}\nCan I help you?{02 07 00 00 00 16 00 00}\nI wanna design!\nI wanna sell!\nWhat's up?\nWhere am I?\nNope.",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 1c 00}Gosh{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n\n\n{07 00 00}Oh, wow!{01 00 00 05 00} Sorry about that!{01 00 00 0f 00}\nWhat brings you here?{02 07 00 00 00 18 00 00}\nI wanna design!\nI wanna sell!\nSomething wrong?\nWhere am I?\nNothing.",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 1c 00}Hmm{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n\n\n{07 00 00}Oh! {01 00 00 05 00}Whoopsy-daisy!{01 00 00 0f 00}\nWhat can I help you with?{02 07 00 00 00 1a 00 00}\nI wanna design!\nI wanna sell!\nWhat's up?\nWhere am I?\nNothing.",
+   "et": ""
+  },
+  {
+   "id": 3,
+   "en": "{07 1c 00}Phew{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n\n\n{07 00 00}Oh! {01 00 00 05 00}Gee whiz, I'm sorry!{01 00 00 0f 00}\nWhat can I do for you?{02 07 00 00 00 1c 00 00}\nI wanna design!\nI wanna sell!\nTalk to me!\nWhere am I?\nNothing.",
+   "et": ""
+  },
+  {
+   "id": 4,
+   "en": "{07 1c 00}{01 00 00 0a 00}Hrrrm{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n\n\n{07 00 00}Oh, wow!{01 00 00 05 00} Wow, I'm so sorry!{01 00 00 0f 00}\nWhat can I do for you?{02 07 00 00 00 1e 00 00}\nI wanna design.\nWanna buy?\nWhat's going on?\nWhere am I?\nOh, nothing.",
+   "et": ""
+  },
+  {
+   "id": 5,
+   "en": "{07 1c 00}{01 00 00 0a 00}Hmmmmph{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n\n\n{07 00 00}Oh! {01 00 00 05 00}Where'd you come from?{01 00 00 0f 00}\nWhat brings you here?{02 07 00 00 00 20 00 00}\nI must design!\nI must sell!\nWhat's up?\nWhere am I?\nJust looking.",
+   "et": ""
+  },
+  {
+   "id": 6,
+   "en": "{07 1c 00}{01 00 00 0a 00}Ugh{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n\n\n{07 00 00}Oh!{01 00 00 05 00} Whoops!{01 00 00 05 00} Sorry!{01 00 00 0f 00}\n...And you're here to...?{02 07 00 00 00 22 00 00}\nMake a design!\nSell! Sell!\nWhat's wrong?\nWhere am I?\nWindow-shop.",
+   "et": ""
+  },
+  {
+   "id": 7,
+   "en": "{07 1c 00}Awww{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n\n\n{07 00 00}Oopsie-daisy! {01 00 00 05 00}My bad!{01 00 00 0f 00}\nCan I help you?{02 07 00 00 00 24 00 00}\nI wanna design.\nI wanna sell.\nWhat's going on?\nWhere am I?\nNope.",
+   "et": ""
+  },
+  {
+   "id": 8,
+   "en": "{07 1c 00}Ummmm{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n\n\n{07 00 00}Oh!{01 00 00 05 00} I'm really sorry!{01 00 00 0f 00}\nWhat do you need?{02 07 00 00 00 25 00 00}\nHelp me design!\nI want to sell!\nYou OK?\nWhere am I?\nNothing.",
+   "et": ""
+  },
+  {
+   "id": 9,
+   "en": "{07 1c 00}Phew{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n\n\n{07 00 00}Oooooops!{01 00 00 05 00} I am SO sorry!{01 00 00 0f 00}\nWhat brings you?{02 07 00 00 00 27 00 00}\nI must design!\nI must sell!\nWhat's up?\nWhere am I?\nOh, nothing.",
+   "et": ""
+  },
+  {
+   "id": 10,
+   "en": "{07 1c 00}Whew{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n\n\n{07 00 00}Oh! {01 00 00 05 00}Oh, hey, I'm sorry!{01 00 00 0f 00}\nWhat can I do for you?{02 07 00 00 00 29 00 00}\nI wanna design.\nI wanna sell!\nWhat happened?\nWhere am I?\nNothing.",
+   "et": ""
+  },
+  {
+   "id": 11,
+   "en": "{07 1c 00}Ohhh{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n\n\n{07 00 00}Oh!{01 00 00 05 00} Gee, I'm so sorry!{01 00 00 0f 00} What\ncan I help you with?{02 07 00 00 00 2b 00 00}\nI wanna design!\nI wanna sell!\nWhat's wrong?\nWhere am I?\nOh, nothing.",
+   "et": ""
+  },
+  {
+   "id": 12,
+   "en": "{07 1c 00}Ummm{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n\n\n{07 00 00}Oh!{01 00 00 05 00} How embarrassing!{01 00 00 0f 00}\nWhat do you need?{02 07 00 00 00 2c 00 00}\nI wanna design!\nI wanna sell!\nTroubles?\nWhere am I?\nNothin'.",
+   "et": ""
+  },
+  {
+   "id": 13,
+   "en": "{07 1c 00}Mmmmph{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n\n\n{07 00 00}Oh! {01 00 00 05 00}Sorry! {01 00 00 05 00}I'm sorry.{01 00 00 0f 00}\nWhat are you here for?{02 07 00 00 00 2e 00 00}\nI wanna design!\nI wanna sell!\nWhat's up?\nWhere am I?\nNothing.",
+   "et": ""
+  },
+  {
+   "id": 14,
+   "en": "{07 1c 00}Oh, gee{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n\n\n{07 00 00}Oh!{01 00 00 05 00} Hey, I'm really sorry.{01 00 00 0f 00}\nWhat can I do for you?{02 07 00 00 00 2f 00 00}\nDesign!\nSell!\nWhat's wrong?\nWhere am I?\nNothing.",
+   "et": ""
+  },
+  {
+   "id": 15,
+   "en": "{07 1c 00}Pssshh{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n\n\n{07 00 00}Oh! {01 00 00 05 00}Oh, wow, I'm sorry.{01 00 00 0f 00}\nWhat can I help you with?{02 07 00 00 00 30 00 00}\nI wanna design!\nI wanna sell!\nTalk to me!\nWhere am I?\nNothing.",
+   "et": ""
+  },
+  {
+   "id": 16,
+   "en": "{07 1c 00}Hoo boy{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n\n\n{07 00 00}Oh!{01 00 00 05 00} Whoops! {01 00 00 05 00}Sorry!{01 00 00 0f 00}\nWhat brings you here?{02 07 00 00 00 31 00 00}\nI wanna design!\nI wanna sell!\nHow are things?\nWhere am I?\nNothing.",
+   "et": ""
+  },
+  {
+   "id": 17,
+   "en": "{07 1c 00}Argh{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n\n\n{07 00 00}Oh!{01 00 00 05 00} Hey, look, I'm sorry.{01 00 00 0f 00}\nWhat can I help you with?{02 07 00 00 00 32 00 00}\nI wanna design.\nI wanna sell.\nWhat happened?\nWhere am I?\nNothing.",
+   "et": ""
+  },
+  {
+   "id": 18,
+   "en": "{06 01 00 13 14 15}",
+   "et": ""
+  },
+  {
+   "id": 19,
+   "en": "{07 04 00}Oh!{01 00 00 05 00} Um, OK then!",
+   "et": ""
+  },
+  {
+   "id": 20,
+   "en": "{07 00 00}Ohhh,{01 00 00 05 00} did my mood scare\nyou off?",
+   "et": ""
+  },
+  {
+   "id": 21,
+   "en": "{07 14 00}Oh?{01 00 00 0f 00} OK, yeah, well, {01 00 00 05 00}feel\nfree to look around!",
+   "et": ""
+  },
+  {
+   "id": 22,
+   "en": "{07 16 00}It's just{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}. {01 00 00 0f 00}I just can't\nBELIEVE the nerve of that\n{ff 00 00 06}Tom Nook{ff 00 00 00}!\nAll he ever thinks about is\nmoney, money, money{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{02 04 00 17 12}\nAh ha ha ha!\nSo what?",
+   "et": ""
+  },
+  {
+   "id": 23,
+   "en": "{07 15 00}Hey, what's your prob,\n{04 00 00}?{01 00 00 0f 00} It's not funny!\nStop laughing!\n{07 1c 00}That guy is such a total\nstickler when it comes to\npaying off your debt{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\nAs soon as the deadline has\npassed,{07 15 00} he starts with the\n\"{ff 00 00 02}Time is money, hm?{ff 00 00 00}\" thing!{07 00 00}\nAnd he's such a miser that\nhe won't even spare you a\nsingle, measly Bell{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 16 00}I mean, we're his next-\ndoor neighbors here, not\na pair of hobos!\n{07 15 00}And he's well aware of how\nbusy we are,{01 00 00 05 00} so you'd think\nhe'd cut us some slack!",
+   "et": ""
+  },
+  {
+   "id": 24,
+   "en": "{07 16 00}Ugh{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} I am just SO annoyed\nwith {01 00 00 05 00}that {ff 00 00 06}Tom Nook{ff 00 00 00}.\n\n{07 15 00}I mean, I thought I\nunderstood his obsession\nwith money, but wow!\n{07 16 00}Who knew that it was this\nserious?{02 04 00 19 12}\nWhat happened?\nI'm bored.",
+   "et": ""
+  },
+  {
+   "id": 25,
+   "en": "{07 00 00}Yeah, well, the other day{01 00 00 05 00}\nmy older sis and I baked a\ncake, right?\nAnd we thought it might be\nnice to take a slice to ole\n{ff 00 00 06}Nook{ff 00 00 00} over there.\n{07 15 00}And {ff 00 00 06}Nook{ff 00 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} That killjoy.{01 00 00 05 00}\n{07 0b 00}What do you think he said?!\n\n{07 00 00}{01 04 00}\"{ff 00 00 02}How much do you expect for\nthis slice of cake, hm?{ff 00 00 00}\"{01 05 00}{01 01 00}\n.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 15 00}Can you BELIEVE it?!\n{07 01 00}I was {01 00 00 05 00}just so disgusted\nthat I{01 00 00 05 00} didn't know what\nto say to him!",
+   "et": ""
+  },
+  {
+   "id": 26,
+   "en": "{07 15 00}Hey, {01 00 00 05 00}{04 00 00},{01 00 00 0f 00}{07 0b 00} don't you\nthink ol' {ff 00 00 06}{01 00 00 05 00}Nook{ff 00 00 00} has kinda\nlost sight of his dreams?{02 04 00 1b 12}\nHow come?\nStop!",
+   "et": ""
+  },
+  {
+   "id": 27,
+   "en": "{07 00 00}Well, it's like the other\nday, right? I ran into him\nin front of his shop. \nSo we chatted a little bit,\nyou know, just shooting the\nbreeze about whatever.\n{07 15 00}Then I said something like,{01 00 00 05 00}\n\"You must be psyched that\nyour shop's doing well!\"\n.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 15 00}And do you know what\nthat guy said to me?\n\n{01 04 00}\"Because my shop is as big\nas it is, I always knew it\nwould do well, hm?\n\"In this world, those with\nmoney will always win in\nthe end, yes?\"{01 05 00} {01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}UGH!\n{07 16 00}I'm no airhead. {01 00 00 05 00}I know you\ncan't live off of your\ndreams alone, but{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 15 00}I know enough to know that{01 00 00 05 00}\nmoney is NOT everything!",
+   "et": ""
+  },
+  {
+   "id": 28,
+   "en": "{07 16 00}Well, I guess {ff 00 00 06}Tom Nook {ff 00 00 00}and \nmy sis{01 00 00 05 00} kinda have a history\ntogether{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{02 04 00 1d 12}\nReally?\nEnough!",
+   "et": ""
+  },
+  {
+   "id": 29,
+   "en": "{07 00 00}Yeah, they both grew up in\nthis town, so I guess it's\nnot all that strange, but...\n{07 0e 00}Why do they act so distant\nall the time, then?\n\n{07 16 00}Oh, you think something\nhappened to drive a wedge\nbetween the two of them?\n{07 15 00}I kinda wish my sis would\nstand up, look ol' {ff 00 00 06}Nook {ff 00 00 00}in\nthe eye, and{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 01 00}...just go OFF on him!{01 00 00 05 00}\nYou know? {01 00 00 05 00}Just once{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.",
+   "et": ""
+  },
+  {
+   "id": 30,
+   "en": "{07 1c 00}{01 00 00 0a 00}Ohh, it's just......\n\n\n{07 16 00}I wonder if anything can be\ndone about what I call my\nsis's \"{ff 00 00 02}city-folk complex{ff 00 00 00}\"{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{02 04 00 1f 12}\nWhat is that?\nEnough!",
+   "et": ""
+  },
+  {
+   "id": 31,
+   "en": "{07 00 00}I'm not sure when she first\nstarted showing signs of it,\nbut it's part of her now. \n{07 16 00}When it comes to people who\nmoved here from the city,{01 00 00 05 00}\nmy sister can be COLD.\n{07 00 00}It's not like she's blatantly\nrude to them or anything.{01 00 00 05 00}.{01 00 00 05 00}.{01 01 00}\n{07 15 00}It's her eyes.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} They're ice.",
+   "et": ""
+  },
+  {
+   "id": 32,
+   "en": "{07 16 00}Well,{01 00 00 05 00} um{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n\n\nThe other night, {ff 00 00 06}Blathers{ff 00 00 00},\nthe museum guy, came \nrunning into the shop!{02 04 00 21 12}\nHow come?\nEnough!",
+   "et": ""
+  },
+  {
+   "id": 33,
+   "en": "{07 0e 00}{01 00 00 0a 00}Hey, I wish I could tell you,\nbecause I don't have the\nslightest clue!\n{07 00 00}One thing I can say, though,{01 00 00 05 00}\nis that THAT was one\nseriously bugged-out owl!\n{07 16 00}He was totally flustered,{01 00 00 05 00}\nand he picked out all these\nwomen's clothes{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 1c 00}I was all, like, WHOA!{01 00 00 05 00}\nWho knew that he was into,\nyou know, playing dress-up?\nWell, {01 00 00 05 00}I, for one,{01 00 00 05 00} had NO\nclue whatsoever!",
+   "et": ""
+  },
+  {
+   "id": 34,
+   "en": "{07 14 00}You know, good things still\nDO happen in this world!{02 04 00 23 12}\nWhat?\nEnough!",
+   "et": ""
+  },
+  {
+   "id": 35,
+   "en": "{07 00 00}The other day {ff 00 00 06}Blathers{ff 00 00 00}\ncame by the shop to buy\nsome clothes, right?\n{07 04 00}Turns out, they weren't for\nhim{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} {07 14 00}They were for his\nyounger sister, as a gift!\n{07 06 00}Isn't that so dreamy?{01 00 00 0f 00} It'd\nbe so cool to have an\nolder bro like that.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\nThen I could have him buy\nme anything I ever wanted{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\nand more!",
+   "et": ""
+  },
+  {
+   "id": 36,
+   "en": "{01 08 00}{07 01 00}Ah-CHOOOO!{07 16 00}\n\n\n{07 07 00}Ohh no,{01 00 00 0f 00} PLEASE say I'm not\ncatching a cold{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.",
+   "et": ""
+  },
+  {
+   "id": 37,
+   "en": "{07 0e 00}Well, it's just.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n\n\n{07 00 00}I{01 00 00 05 00} lost my dad when I was\nstill very young, so I{01 00 00 05 00}\ndon't remember his face{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n{07 16 00}But beyond that,{01 00 00 05 00} I just do\nNOT get what the deal is\nwith men in general.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\nHonestly,{01 00 00 05 00} they're like a\ndifferent species{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{02 04 00 26 12}\nHuh?\nStop!",
+   "et": ""
+  },
+  {
+   "id": 38,
+   "en": "{07 00 00}OK, so, here's the deal.{01 00 00 05 00}\nYou know that get-up that\n{ff 00 00 06}Tom Nook{ff 00 00 00}'s always sporting?\n{07 0e 00}Well, what do you think is\nup with that whole deal?\n\n{07 00 00}Oh!{01 00 00 05 00} What do I think?{01 00 00 0f 00}\nWell, I went to his shop to \ndeliver something and{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 1c 00}{01 00 00 0a 00}I saw ol'{ff 00 00 06} Nook{ff 00 00 00} standing in\nfront of the mirror with \nthat outfit on,{01 00 00 05 00} posing{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 1b 00}Honestly, I don't get it{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\nAre all men like that?",
+   "et": ""
+  },
+  {
+   "id": 39,
+   "en": "{07 0e 00}Well{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0f 00} {07 00 00}I was just thinking\nabout something.\n\n{07 16 00}About those clothes that\n{ff 00 00 06}Tom Nook{ff 00 00 00} always wears{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{02 04 00 28 12}\nWhat's up?\nEnough already!",
+   "et": ""
+  },
+  {
+   "id": 40,
+   "en": "{07 00 00}Well, do you think{01 00 00 05 00} he wears\nthe same clothes every day\nor what?\n{07 0b 00}And if so, how come{01 00 00 05 00} they\nnever get dirty?\n\n{07 00 00}Don't men usually have a\nproblem with ring-around-\nthe-collar or something?\n{07 0e 00}Oh! {01 00 00 05 00}Maybe he has a bunch of\nthem and, he changes them\nevery day{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 00 00}You know, open his closet\nand POW! {01 00 00 05 00}Just a bunch of\nthose clothes in there!\n{07 14 00}Tee hee hee hee!{01 00 00 0f 00}\nI bet that's it!{01 00 00 05 00} That would\nbe SO {ff 00 00 06}Nook{ff 00 00 00}-ish!",
+   "et": ""
+  },
+  {
+   "id": 41,
+   "en": "{07 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 15 00}Ooh!\n\n\nThat {ff 00 00 06}Tom Nook {ff 00 00 00}just makes\nme {01 00 00 05 00}FURIOUS sometimes!{02 04 00 2a 12}\nWhat happened?\nThat's enough!",
+   "et": ""
+  },
+  {
+   "id": 42,
+   "en": "{07 00 00}This one morning,{01 00 00 05 00} I was\ntidying up the front of the\nshop before opening, right?\nAnyway, ol' {ff 00 00 06}Nook{ff 00 00 00} happened\nto come by{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n\n{07 15 00}So when I saw him,{01 00 00 05 00} I gave\nhim a \"Good morning!\"{01 00 00 05 00} You\nknow, being neighborly.\nFrom {ff 00 00 06}Nook{ff 00 00 00}? {01 00 00 05 00}Nothing.{01 00 00 05 00} Zilch.{01 00 00 05 00}\nHe didn't even look at me!{01 00 00 05 00}\nJust walked into the shop{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 01 00}Ugh!{01 00 00 0f 00} Don't you think\nneighbors should, you know,\nact{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.neighborly?!",
+   "et": ""
+  },
+  {
+   "id": 43,
+   "en": "{07 0e 00}Umm{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} Well,{01 00 00 05 00} I was just.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n\n\n{07 16 00}Thing is, my sister has\nbeen such a space cadet\nlately{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 00 00}She always gets this way\nat this time of year...{01 00 00 05 00}\nthis part of winter.\n{07 16 00}Are there colds that hit\npeople at the exact same\ntime of year, every year?",
+   "et": ""
+  },
+  {
+   "id": 44,
+   "en": "{07 16 00}I just.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}wonder what's wrong.{01 00 00 0f 00}\nMy sister's been acting so \nWEIRD lately!\n{07 00 00}She sits there,{01 00 00 05 00} staring out\nthe window,{01 00 00 05 00} sighing{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n\n{07 0b 00}You don't think it could\nbe exhaustion, do you?{02 04 00 2d 12}\nNo way.\nOK, enough.",
+   "et": ""
+  },
+  {
+   "id": 45,
+   "en": "{07 04 00}Not exhaustion, you think?{01 01 00}\n{07 16 00}You're probably right{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.",
+   "et": ""
+  },
+  {
+   "id": 46,
+   "en": "{07 00 00}Ohh, I was just{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 14 00}thinking\nabout what to make for\ndinner tomorrow!\n{07 00 00}Looks like it'll be cold, and\nSis has been acting kinda\nblue, so.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n{07 14 00}I'm gonna make stew!{01 01 00}\n{07 0d 00}Winter's the perfect time \nfor comfort food!",
+   "et": ""
+  },
+  {
+   "id": 47,
+   "en": "{07 00 00}It's just.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}my sis said\nsomething to me the other\nday that weirded me out.\n{01 04 00}\"{ff 00 00 02}You're lucky you're still\nyoung,{ff 00 00 00}\"{01 05 00} she said{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n\n{07 16 00}I mean, part of me is like,\nsure, whatever, I seem like\na kid to my sis, but{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 00 00}There's something about her\nsaying such a thing that{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n{07 06 00}Well,{01 00 00 05 00} it worries me.",
+   "et": ""
+  },
+  {
+   "id": 48,
+   "en": "{07 0e 00}Well, so, there's this cedar\nbox that my sis keeps all\nher treasures in, right?\n{07 16 00}And she's never showed me\nwhat was inside that thing.{01 00 00 05 00}\nNot even once!\n{07 00 00}But then, this one time,{01 00 00 05 00}\nlong ago,{01 00 00 05 00} I saw the front\nof what looked like...\n{07 0b 00}an important letter.{01 00 00 05 00}\nAt least, that's what I\nTHOUGHT it was{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.",
+   "et": ""
+  },
+  {
+   "id": 49,
+   "en": "{07 15 00}Yeah, so, there's this pair\nof scissors that my sis has\nbeen using forever, right?\n{07 00 00}When they got too dull to\nuse, I said she should buy\na new pair, but.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n{07 1c 00}It was the weirdest thing!{01 00 00 05 00}\nWhen I did, she completely\nflipped out on me!\n{07 15 00}I know it's important to\ntake care of your things,\nbut{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0f 00}that's ridiculous!",
+   "et": ""
+  },
+  {
+   "id": 50,
+   "en": "{07 0e 00}Well, lately, at night,{01 00 00 05 00} my\nsis has been sitting at the\nwindow, staring at the sky.\n{07 16 00}She says that in winter,\na certain constellation \nbecomes visible{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 00 00}It's kinda weird, the stuff\nmy sis knows a lot about{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n\n{07 14 00}You know, constellations and{01 00 00 05 00}\nthe meanings of flowers,\nthat kinda stuff.{01 00 00 05 00}.{01 00 00 05 00}.",
+   "et": ""
+  }
+ ]
+}

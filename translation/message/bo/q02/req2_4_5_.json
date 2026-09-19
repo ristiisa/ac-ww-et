@@ -1,0 +1,20 @@
+{
+ "file": "script/ENG/message/bo/q02/req2_4_5_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 00 00}{0b 03 00}{04 1f 00},{07 14 00} you're still\nfishing, aren't you,{01 00 00 05 00}\n{04 02 00}?\n{07 00 00}Maybe you and I should have\na fishing contest to catch\n{04 1a 00}.\n{07 0d 00}Let's see who nabs a fresh{01 00 00 05 00}\n{0b 02 00}{04 1a 00}\nfirst! {01 00 00 0a 00}{0b 03 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 00 00}Hey,{01 00 00 05 00} {04 1f 00}? {01 00 00 0a 00}{07 0b 00}Do you\nknow what kind of fish the\n{0b 02 00}{04 1a 00} is?\n{07 00 00}Black pupils, tight skin.{01 00 00 0a 00}\n{07 19 00}And I heard its tail is\nreally strong{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 14 00}\n{07 14 00}It sounds really cool.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00} But\nI've never seen one in real\nlife. {07 0c 00}{01 00 00 14 00}Oh! I know!\n{07 0d 00}Let's see who can catch\n{04 1a 00}\nfirst! Yeah!",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 0b 00}{01 00 00 05 00}Do you think fish have\npersonalities, too?\n\n{07 00 00}My personal opinion is that\n{0b 01 00}{04 1a 00}{01 00 00 05 00}\nis more of the indoor type.\n{07 14 00}Huh huh huh!{01 00 00 0f 00} Know what I\nmean? Let's see who can\nreel one in first!",
+   "et": ""
+  }
+ ]
+}

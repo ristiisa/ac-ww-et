@@ -1,0 +1,20 @@
+{
+ "file": "script/ENG/message/ta/q06/normal_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 0b 00}{01 00 00 05 00}Really?{01 01 00} {07 00 00}Well, {01 00 00 05 00}at least it\ndoesn't seem like I\noffended {ff 00 00 06}{04 10 00}{ff 00 00 00}.\n{07 14 00}I guess that's something,\n{01 00 00 0a 00}{04 02 00}.",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 1d 00}{01 00 00 0a 00}Really?{01 00 00 14 00} {07 19 00}So, {ff 00 00 06}{04 10 00} {ff 00 00 00}isn't{01 00 00 05 00}\nmad anymore, {01 00 00 0a 00}{04 02 00}?{07 00 00}",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 15 00}Hmm?{01 00 00 14 00} Well, that's pretty\nunderwhelming.\n\n{07 0e 00}{01 00 00 0a 00}But, {01 00 00 05 00}I guess if I didn't \nupset anyone{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00}{07 0b 00}{01 00 00 05 00}it's fine,\nright?",
+   "et": ""
+  }
+ ]
+}

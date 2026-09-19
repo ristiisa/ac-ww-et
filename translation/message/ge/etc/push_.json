@@ -1,0 +1,30 @@
+{
+ "file": "script/ENG/message/ge/etc/push_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 01 00}Hey,{01 00 00 0a 00} what's up? Don't touch\nme, {01 00 00 05 00}{04 02 00}!{01 00 00 0a 00} SERIOUSLY!",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 15 00}HEY!{01 00 00 05 00} WHAT are you doing?!\nStop it, creep!{01 00 00 0a 00} Don't\ntouch me, {01 00 00 05 00}{04 02 00}!!",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 05 00}HEY!{01 00 00 0a 00} WHAT did I say?{01 00 00 0a 00}\nDON'T PUSH ME! {01 00 00 0f 00}GOT IT?\n",
+   "et": ""
+  },
+  {
+   "id": 3,
+   "en": "{07 01 00}YOU!!{01 00 00 0f 00} This is TOTALLY\nharassment!!{01 00 00 0f 00} If you TOUCH\nme again...{01 00 00 0f 00} I'M GONNA {01 0a 00}SCREAM!",
+   "et": ""
+  },
+  {
+   "id": 4,
+   "en": "{07 05 00}LIKE, STOP IT!{01 00 00 0a 00} STOOOOP IT!!{01 00 00 0a 00}\nTOTALLY STOP IT!!{03 02 00 00}",
+   "et": ""
+  }
+ ]
+}

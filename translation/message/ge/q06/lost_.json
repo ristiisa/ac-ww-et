@@ -1,0 +1,20 @@
+{
+ "file": "script/ENG/message/ge/q06/lost_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 00 00}.{01 00 00 0a 00}.{01 00 00 0a 00}.{01 00 00 0a 00}{07 04 00}Wait, WHAT did you say?!{01 00 00 0a 00}\nDon't tell me you LOST it,\n{01 00 00 05 00}{04 02 00}!\n{07 05 00}Oh NOOO!{01 00 00 05 00} I can't believe it!{01 00 00 14 00}\n{0b 03 00}{04 1f 00}, you doofus!{03 02 00 01}",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 15 00}Wait, are you telling me{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n{07 02 00}you lost the present?!\n\n{07 08 00}I know you should forgive\nfriends, but this is a bit\nmuch, {01 00 00 05 00}{04 02 00}!{03 03 00 01}",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 04 00}Oh, sorry, say again?{01 00 00 14 00}\n{07 06 00}Uh{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} Hey, {01 00 00 05 00}where's the\npresent?\n{07 02 00}Huh-WHAAAAT?!{01 00 00 05 00} You LOST it?!{01 00 00 14 00}\n{07 05 00}How could you?!{01 00 00 05 00} Oh, this is\nunBELIEVable!{03 02 00 01}",
+   "et": ""
+  }
+ ]
+}

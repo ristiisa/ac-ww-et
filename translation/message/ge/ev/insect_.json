@@ -1,0 +1,80 @@
+{
+ "file": "script/ENG/message/ge/ev/insect_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 14 00}Today is the big{ff 00 00 03} Bug-Off{ff 00 00 00},\n{01 00 00 05 00}{04 02 00}!\n\n{07 15 00}How hot would it be to win\nthat gorgeous {ff 00 00 07}trophy{ff 00 00 00}!?",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 14 00}The {ff 00 00 03}Bug-Off{ff 00 00 00} kicks off\ntoday, {01 00 00 05 00}{04 02 00}! {01 00 00 05 00}Yaaaay!\n\n{07 0d 00}I've been training super\nhard to get ready!\n\n{07 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 06 00}I've even developed\nx-ray vision!",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 04 00}The {ff 00 00 03}Bug-Off {ff 00 00 00}has started?!{01 00 00 05 00}\nOh yeah, I knew that!\nDuh, {01 00 00 05 00}{04 02 00}!\n{07 00 00}Usually, I run straight to\nthe store to sell off all\nthe bugs I catch.\n{07 0d 00}But today I'm gonna have\nhim measure 'em instead!",
+   "et": ""
+  },
+  {
+   "id": 3,
+   "en": "{07 1d 00}Can you even believe my\n{0b 02 00}{04 1a 00}\nwas {07 14 00}{ff 00 00 02}{04 0f 00} mm{ff 00 00 00} long?\nIt's, like, easily the hugest\none caught so far,\n{01 00 00 05 00}{04 02 00}!\n{07 17 00}I'd call myself lucky, but\nI'm pretty sure it was\ntalent.",
+   "et": ""
+  },
+  {
+   "id": 4,
+   "en": "{07 00 00}How crazy is it that the\n{0b 02 00}{04 1a 00} I\ncaught was {ff 00 00 02}{04 0f 00} mm{ff 00 00 00}?!\n{07 14 00}That's, like, a world record\nor something! It's\nhumongoid, {01 00 00 05 00}{04 02 00}!\n{07 07 00}You know,{01 00 00 05 00} sometimes I'm so\ntalented it's scary!",
+   "et": ""
+  },
+  {
+   "id": 5,
+   "en": "{07 14 00}{0b 03 00}{04 1f 00}!{01 00 00 0a 00} The current\nrecord is{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n\n{07 17 00}My {ff 00 00 02}{04 0f 00}-mm{ff 00 00 00}\n{0b 02 00}{04 1a 00}!\n\n{07 0f 00}It's almost TOO big. Kinda\ngross, even{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 6,
+   "en": "{07 15 00}I don't think there are\nany good ones around here,\n{01 00 00 05 00}{04 02 00}.\n{07 0f 00}Or maybe I have no idea\nwhat I'm talking about.{01 00 00 05 00}\nI'm not sure which it is!",
+   "et": ""
+  },
+  {
+   "id": 7,
+   "en": "{07 16 00}I don't have much to say\nabout bugs. {01 00 00 05 00}They're squishy,\nthat's about it.",
+   "et": ""
+  },
+  {
+   "id": 8,
+   "en": "{07 06 00}What's up with that\n{ff 00 00 02}{04 0f 00}-mm\n{0b 02 00}{ff 00 00 00}{04 1a 00}?!\n{07 0b 00}Is it in season right now,\n{01 00 00 05 00}{04 02 00}?",
+   "et": ""
+  },
+  {
+   "id": 9,
+   "en": "{07 06 00}Bugs won't even come near\nme! {01 00 00 05 00}Why?! {01 00 00 05 00}{07 16 00}Don't they know\nthat I'm cute?!\n{07 16 00}OH NO! {01 00 00 05 00}Maybe I smell funky!\n",
+   "et": ""
+  },
+  {
+   "id": 10,
+   "en": "{07 15 00}I can never lose to\n{04 10 00}! NEVER,\n{01 00 00 05 00}{04 02 00}!\n{07 06 00}Oh! Hey, {01 00 00 05 00}{04 1f 00}!\nI want that {ff 00 00 07}trophy{ff 00 00 00} SO bad!",
+   "et": ""
+  },
+  {
+   "id": 11,
+   "en": "{07 00 00}{07 04 00}{0b 03 00}{04 10 00} is in the lead,\n{04 10 00} is in the lead!",
+   "et": ""
+  },
+  {
+   "id": 12,
+   "en": "{07 0e 00}I heard the current record\nis {ff 00 00 02}{04 0f 00} mm{ff 00 00 00}!\n\n{07 1c 00}Even with my beginner's\nluck, that's way too tough\nto beat! {01 00 00 05 00}Oh, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 13,
+   "en": "{07 00 00}So, {04 10 00}{ff 00 00 06} {ff 00 00 00}is the\ncurrent record holder{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{ff 00 00 06}\n{ff 00 00 00}\n{07 14 00}Oh! Heya, {01 00 00 05 00}{04 1f 00}! ",
+   "et": ""
+  },
+  {
+   "id": 14,
+   "en": "{07 15 00}It's total insanity, folks!\n{0b 03 00}{04 10 00}{ff 00 00 06} {ff 00 00 00}is in the LEAD!\n\n{07 00 00}{0b 03 00}{04 1a 00}\nthat's {ff 00 00 02}{04 0f 00} mm{ff 00 00 00}...\n\n{07 06 00}That's way more than \nI can ever hope for, \n{01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  }
+ ]
+}

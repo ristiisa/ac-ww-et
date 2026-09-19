@@ -1,0 +1,20 @@
+{
+ "file": "script/ENG/message/ko/q09/find_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 11 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} Heh{01 00 00 05 00} heh{01 00 00 05 00} heh.{01 00 00 05 00}\nWell done, grasshopper! {01 00 00 05 00}You\nfound the master!\n{07 14 00}You did a lot better than\nthan I thought you would, \n{04 1f 00}.\n{07 19 00}Well then, I guess I better\ngive you a prize, \n{01 00 00 05 00}{04 02 00}!{07 00 00}",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 06 00}Gah!!!{01 00 00 0f 00} How did you detect\nmy masterful hiding place?\n\nDid I leave footprints or\nsomething, {01 00 00 05 00}{04 02 00}?\n\n{07 0f 00}Oh, man. They are never\ngoing to give me my ninja\nnight school diploma now!\nJust to punish myself, I'm\ngonna give you a prize,\n{01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 02 00}HWHAT?! Oh, {01 00 00 05 00}{0b 03 00}{04 02 00}! How\ndid you find me? I'm a\nmaster of the shadows!\n{07 06 00}Argh!{01 00 00 0f 00} I can't believe it{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n{07 00 00}Oh, well. Here's your stupid\nreward, you big jerk!",
+   "et": ""
+  }
+ ]
+}

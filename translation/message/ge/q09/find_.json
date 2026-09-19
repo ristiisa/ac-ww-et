@@ -1,0 +1,20 @@
+{
+ "file": "script/ENG/message/ge/q09/find_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 02 00}Wha{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} You found me!{07 16 00} You're,\nlike, a hide-and-seek\nmaster, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 02 00}Oh no!{01 00 00 0a 00} NOOOOOOOOOOOOO!!\nI can't BELIEVE you found me\nalready!!\n{07 0f 00}I'm not a good hider, am I,\n{01 00 00 05 00}{04 02 00}??",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 02 00}Oh crumblebuns!{01 00 00 05 00} You win,\n{01 00 00 05 00}{04 02 00}!\n\n{07 15 00}I can't believe you found me\nso quick{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}{07 06 00} Oooo! You're too\ndarn good!",
+   "et": ""
+  }
+ ]
+}

@@ -1,0 +1,20 @@
+{
+ "file": "script/ENG/message/ta/q01/req1_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 00 00}You can hear it, {01 00 00 05 00}but can't\nsee it{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}. That's how bug\ncatching always goes.\n{07 14 00}You try to get the bug to\nspill its secrets,\n{04 1f 00}...\n{07 00 00}Don't you want to know the\n{0b 02 00}{04 1a 00}'s\nsecret?\n{07 14 00}Let's race to see who can\ncatch one first,\n{01 00 00 0a 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 14 00}What I like best about bug\ncatching is{01 01 00}{07 11 00} the sound of\ndefeat it makes when I win.\nEspecially{01 00 00 0a 00} when I nab one\nthat puts up a fight...like\n{04 1a 00}!\n{07 14 00}Hey, {04 1f 00}, wanna see\nwho can be the first to nab\n{04 1a 00}?",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 15 00}{04 0c 00} thinks that bug\ncatching is kids' play.{01 00 00 05 00}\nHmph! Talk about clueless!\n{07 19 00}{01 00 00 05 00}Anybody who says that is a\ntotally uninformed moron\nthat's, like, against fun!{07 15 00}\nSo, {04 1f 00}{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}{07 0b 00}wanna see\njust how fun bug catching\ncan be? {07 00 00}The rules are easy!\nWhoever catches\n{04 1a 00}\nfirst, wins!",
+   "et": ""
+  }
+ ]
+}

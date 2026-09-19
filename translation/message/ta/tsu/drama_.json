@@ -1,0 +1,130 @@
+{
+ "file": "script/ENG/message/ta/tsu/drama_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 0e 00}{01 00 00 0a 00}It's just my opinion, but{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 14 00}\n{07 0b 00}Do you think {ff 00 00 06}Blathers {ff 00 00 00}has\nbeen acting kinda weird?\n{07 15 00}{01 00 00 05 00}Oh, and you expect me to\nknow what to do about it!?{01 00 00 0a 00}\nTypical, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 0e 00}{01 00 00 0a 00}I saw {ff 00 00 06}Blathers {ff 00 00 00}today.{01 00 00 05 00} He\nlooked troubled, and his\nbrow was all crinkled{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{01 00 00 0a 00}{07 1b 00}{01 00 00 05 00}Someone should tell him\nthat doing that will give\nhim wrinkles, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{01 00 00 0a 00}{07 1b 00}{01 00 00 05 00}I may not look like it,{01 00 00 05 00} but\nI have lots on my mind,\n{01 00 00 0a 00}{04 02 00}.\n{07 0e 00}{01 00 00 0a 00}They say smarter people\nhave more concerns,{01 00 00 0a 00} and I\ngotta say, it's true!\n{07 16 00}I mean, look at {ff 00 00 06}Blathers{ff 00 00 00}!{01 00 00 0a 00}\nHe was looking really, like,\nworried today, {04 02 00}.",
+   "et": ""
+  },
+  {
+   "id": 3,
+   "en": "{ff 00 00 06}Tom Nook{ff 00 00 00} was looking really\npreoccupied. {07 15 00}But what does\nHE have to worry about?\n{07 19 00}I mean, the solution is so\nobvious.{01 00 00 05 00} All he has to do\nis pick me, {04 02 00}!{07 00 00}",
+   "et": ""
+  },
+  {
+   "id": 4,
+   "en": "{01 00 00 0a 00}{07 1b 00}{01 00 00 05 00}Man, {ff 00 00 06}Tom Nook{ff 00 00 00} was so\ndistracted today. He was\nstressing about something!\n{07 00 00}Hmmm.{01 00 00 05 00} Do you think{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 0b 00}you\nmight be able to do\nsomething about it?",
+   "et": ""
+  },
+  {
+   "id": 5,
+   "en": "{07 0b 00}{01 00 00 05 00}Do you think {ff 00 00 06}Tom Nook {ff 00 00 00}has\n{01 00 00 05 00}\"it\"?{01 00 00 05 00} You know, that\ncertain \"je ne sais quoi\"?{05 05 00 03 13 03 14 03 15 07 16}\nTotally!\nErm...",
+   "et": ""
+  },
+  {
+   "id": 6,
+   "en": "Do you and {ff 00 00 06}Sable {ff 00 00 00}{07 0b 00}not get\nalong very well? I never\nsee you chatting.\n{07 19 00}I talk to her, like,\nevery day! She's almost as\nbig a clotheshorse as I am!\n{07 00 00}Huh? {01 00 00 05 00}You think she's doing\nthat just to get on my\ngood side, {01 00 00 05 00}{04 02 00}!?",
+   "et": ""
+  },
+  {
+   "id": 7,
+   "en": "{07 0e 00}{01 00 00 0a 00}Whenever I talk to {ff 00 00 06}Mabel\n{ff 00 00 00}the tailor, I feel really\nweird.\n{07 16 00}{01 00 00 05 00}It's like I'm talking to a\nyounger version of me{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.",
+   "et": ""
+  },
+  {
+   "id": 8,
+   "en": "{07 0b 00}{01 00 00 0a 00}Did you know?{01 00 00 14 00} About {ff 00 00 06}Sable\n{ff 00 00 00}and {ff 00 00 06}Tom Nook{ff 00 00 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n\n{06 03 00 17 18}",
+   "et": ""
+  },
+  {
+   "id": 9,
+   "en": "{07 16 00}I feel bad for {ff 00 00 06}Phyllis\n{ff 00 00 00}'cause she's obviously\nreally unhappy.\nI mean, do truly happy\npeople wear clown makeup?!{01 00 00 0a 00}{07 01 00}{01 08 00}\nNO, THEY DO NOT!\n{01 00 00 0a 00}{07 1b 00}{01 00 00 05 00}But{01 00 00 0f 00} I'm betting that you\nonly ever talk to {ff 00 00 06}Pelly{ff 00 00 00},\nhuh, {01 00 00 05 00}{04 02 00}.",
+   "et": ""
+  },
+  {
+   "id": 10,
+   "en": "{01 00 00 0a 00}{07 1b 00}{01 00 00 05 00}Tee hee,{01 00 00 05 00} unlike {ff 00 00 06}Pelly{ff 00 00 00}, {01 00 00 05 00}\n{07 19 00}I'd rather be pursued than\npursue, {04 02 00}.\nBut that's easy for me to\nsay, 'cause I'm so pretty.\n{01 00 00 14 00}Wow, that was catty.{07 00 00}",
+   "et": ""
+  },
+  {
+   "id": 11,
+   "en": "{07 16 00}I overheard {ff 00 00 06}Pelly {ff 00 00 00}and\n{ff 00 00 06}Phyllis {ff 00 00 00}bickering about\nsomething the other day.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 0e 00}{01 00 00 0a 00}I couldn't hear what exactly\nthey were saying,{01 00 00 0a 00}{07 15 00} but I\ncould tell it was serious.",
+   "et": ""
+  },
+  {
+   "id": 12,
+   "en": "{07 0e 00}{01 00 00 0a 00}Did you hear about{ff 00 00 06} Sable{ff 00 00 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 01 00}\n{07 04 00}Oh, {01 00 00 05 00}no{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}never mind.{01 00 00 14 00} I can't\ntell you.{07 14 00} That's a ME-cret!",
+   "et": ""
+  },
+  {
+   "id": 13,
+   "en": "{07 14 00}You should try to visit the\n{ff 00 00 08}tailor shop{ff 00 00 00} as often as\npossible, {01 00 00 05 00}{04 02 00}.\n{07 11 00}Besides spiffing up your\nlook,{01 00 00 05 00} those two always have\nthe best gossip!",
+   "et": ""
+  },
+  {
+   "id": 14,
+   "en": "{07 0e 00}{01 00 00 0a 00}{01 00 00 0a 00}{ff 00 00 06}Tom Nook{ff 00 00 00} and {ff 00 00 06}Sable{ff 00 00 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}. {07 04 00}Oh,\noops!{01 01 00} {07 06 00}That's a secret!{01 00 00 14 00}\nIgnore me, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 15,
+   "en": "{07 14 00}I've got as much energy as\n{ff 00 00 06}Tom Nook{ff 00 00 00}, don't you think?{01 00 00 05 00}\nSpeaking of energy,\n{01 00 00 0a 00}{07 1b 00}{01 00 00 05 00}you look like you've been\nstoring yours for a while,\nif you know what I mean!",
+   "et": ""
+  },
+  {
+   "id": 16,
+   "en": "{07 15 00}I guess {ff 00 00 06}Sable{ff 00 00 00} and{ff 00 00 06} Mabel\n{ff 00 00 00}have a lot to deal with.{01 00 00 05 00} I\nmean, they don't hide it!\n{07 01 00}I may not look like it, but \nI've got stuff to deal with\ntoo, {01 00 00 05 00}{04 02 00}!\n{07 1b 00}The difference is that they\nlike to make a big deal\nabout their problems.",
+   "et": ""
+  },
+  {
+   "id": 17,
+   "en": "{07 1c 00}{01 00 00 14 00}I don't get why people love\nbirthdays.{01 00 00 14 00} Uh, let's review\nwhat happened today.\n{07 05 00}I got dumped,{01 00 00 05 00} and I'm a\nyear older. {01 00 00 14 00}Like, woo hoo.\n{07 19 00}As days go, today stinks.\n{07 0e 00}{01 00 00 0a 00}But to think that{01 00 00 0a 00} {ff 00 00 06}Sable\n{ff 00 00 00}was{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 01 00} {07 04 00}Oh, {01 00 00 05 00}forget it!{01 00 00 14 00}\n{07 14 00}Seriously, never mind!",
+   "et": ""
+  },
+  {
+   "id": 18,
+   "en": "{07 0e 00}{01 00 00 0a 00}{ff 00 00 06}Mabel{ff 00 00 00} is a little,{01 00 00 05 00} um{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{07 00 00}{01 00 00 05 00}well{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 15 00}I guess what I'm trying to\nsay is,\n{07 06 00}as a little sister, she\nshould be more\nconsiderate.{01 00 00 05 00} Am I wrong?\n{07 00 00}Wait wait wait!{01 00 00 0a 00} {07 16 00}I'm doing it\nagain! I'm poking my nose\nin other people's business!",
+   "et": ""
+  },
+  {
+   "id": 19,
+   "en": "{07 19 00}Yeah, you're right{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n{01 00 00 05 00}Something has to be done\nabout that barrel of a gut!\n{07 1b 00}Love won't blossom{01 01 00} under a\nwide shadow, you know.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n{07 00 00}I'm just saying!",
+   "et": ""
+  },
+  {
+   "id": 20,
+   "en": "{07 19 00}Yeah,{01 00 00 05 00}{07 16 00} he's not the best-\nlooking guy. {01 00 00 0a 00}That's probably\nan understatement, huh.\n{01 00 00 05 00}{07 1b 00}{01 00 00 05 00}But the biggest turnoff\nfor me is that he's cheap!{01 00 00 0a 00}\nI can't stand cheapskates!\n{07 0b 00}What happened to make him\nthat way? I wonder,\n{01 00 00 05 00}{04 02 00}.",
+   "et": ""
+  },
+  {
+   "id": 21,
+   "en": "{07 14 00}I'm not saying that they're{01 00 00 05 00}\nall worthless, you know,\n{01 00 00 05 00}{04 02 00}?\n{07 0e 00}{01 00 00 0a 00}But based on my own\npersonal experience, {07 15 00}{01 00 00 05 00}cheap\nboys are a dime a dozen.\nI've got better things to\ndo than waste my time with\nthem, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 22,
+   "en": "{07 18 00}{01 08 00}No way!{01 00 00 0a 00} Are you{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}. {01 00 00 14 00}{07 19 00}{01 00 00 05 00}Oh,{01 00 00 05 00} don't\nworry about it.{01 01 00} {07 1b 00}{01 00 00 05 00}Everyone's\ndifferent.",
+   "et": ""
+  },
+  {
+   "id": 23,
+   "en": "{07 04 00}{01 00 00 0a 00}Oh, whoops!{01 00 00 05 00} Boys don't\ntalk about stuff like this,\ndo they?\n{07 14 00}Do me a favor and just\nignore that, {01 00 00 05 00}{04 02 00}.",
+   "et": ""
+  },
+  {
+   "id": 24,
+   "en": "{07 16 00}Oh,{01 00 00 05 00} but you should{01 00 00 05 00} hear\nthis straight from the\nsource!\n{07 15 00}Not that I've{01 00 00 0a 00} forgotten or\nanything, of course,\n{01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  }
+ ]
+}

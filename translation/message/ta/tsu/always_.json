@@ -1,0 +1,450 @@
+{
+ "file": "script/ENG/message/ta/tsu/always_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "Hey, {01 00 00 05 00}{04 1f 00}.{01 00 00 0a 00} What would\nyou say is {07 14 00}the prettiest\nthing in the world?{02 01 00 14 15 16}\nYou, of course.\nUm, depends.\nWho cares!",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 16 00}I've actually{01 00 00 0a 00} got chronically\ndry skin, {01 00 00 0a 00}{04 02 00}.\n\n{07 0e 00}{01 00 00 0a 00}I've tried a number of\nthings to alleviate it{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 01 00}{07 0c 00}{01 00 00 05 00} But\nyou know what works best?\n{06 00 00 19 1a}.",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 1c 00}{01 00 00 14 00}You know{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00} I haven't had a\ngood, solid {01 00 00 05 00}crush in a long,\nLONG time, {01 00 00 0a 00}{04 02 00}.\n{07 0b 00}{01 00 00 05 00}I wonder if my standards{01 00 00 05 00}\nare just too high.{02 01 00 21 22 23}\nUh...YEAH!\nNo way.\nYour type?",
+   "et": ""
+  },
+  {
+   "id": 3,
+   "en": "{07 14 00}Today, {04 1f 00},{01 00 00 0a 00} I'll tell\nyou the difference between\nlove and affection!{02 01 00 24 25 26}\nPlease tell me!\nI'll pass...\nHa ha ha!",
+   "et": ""
+  },
+  {
+   "id": 4,
+   "en": "{07 14 00}Hey, {01 00 00 05 00}{04 1f 00},{01 00 00 0a 00}{07 00 00} which do\nyou like better?{01 00 00 05 00} {07 0b 00}Hanging\nwith boys or girls?{05 05 00 04 2a 04 29 04 28 04 27}\nBoys!\nGirls!",
+   "et": ""
+  },
+  {
+   "id": 5,
+   "en": "{07 14 00}{04 0b 00} told me that\nblack tea comes in lots of\ntypes, {01 00 00 0a 00}{04 02 00}!\n{06 01 00 2f 30 31}",
+   "et": ""
+  },
+  {
+   "id": 6,
+   "en": "{07 18 00}What's that you say?{01 00 00 14 00} I look\npaler than usual,\n{01 00 00 0a 00}{04 02 00}?\n{07 0e 00}I just bought a new\nsunscreen{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\nDid I put on too much?\n{07 16 00}It might be interesting to\nturn the color of\n{04 14 00}...\nJust for a change, you\nknow, {01 00 00 0a 00}{04 02 00}?",
+   "et": ""
+  },
+  {
+   "id": 7,
+   "en": "{07 0e 00}{01 00 00 0a 00}That weird otter {ff 00 00 06}Pascal{ff 00 00 00}{01 00 00 0a 00}\ntold me something really\ndisturbing the other day.\n{07 02 00}\"{ff 00 00 02}Excessive polishing can nick\ngemstones.{ff 00 00 00}\"{01 01 00} {07 16 00}But...exfoliation\nis totally important!\n{07 04 00}My age?{01 01 00} {07 16 00}Are you asking my\nage? {01 00 00 0a 00}Well, here's a question\nfor YOU, then.\n{07 08 00}What age are gemstones at\ntheir{01 00 00 05 00} most brilliant,\n{01 00 00 0a 00}{04 02 00}?{05 05 00 04 39 04 38 04 37 04 36}\n25 years.\n15 years.",
+   "et": ""
+  },
+  {
+   "id": 8,
+   "en": "{07 16 00}I picked up a music box on\nthe beach this morning,\n{01 00 00 05 00}{04 02 00}.\n{07 0e 00}{01 00 00 0a 00}But I think it's broken,\n'cause {01 00 00 0a 00}it doesn't play.\n{07 0b 00}{01 00 00 05 00}Can you fix it?{05 05 00 05 3d 01 3c 04 3b 06 3a}\nPunch it!\nTap it!",
+   "et": ""
+  },
+  {
+   "id": 9,
+   "en": "{07 14 00}Hey, {01 00 00 05 00}{04 1f 00}!{01 00 00 0f 00} I dug up\nthe coolest thing ever! I\ncan't believe my good luck!\n{07 00 00}Nope,{01 00 00 05 00} it's not some old\nfossil;{01 00 00 14 00} it's someone's {ff 00 00 02}diary{ff 00 00 00}!\nIt looks really old.\n{07 11 00}Wanna read it?{01 00 00 05 00}{02 00 00 3e 3f}\nHeck, yeah!\nWe shouldn't...",
+   "et": ""
+  },
+  {
+   "id": 10,
+   "en": "{07 0d 00}{01 00 00 0a 00}{00 01 00}{01 00 00 14 00}Ah, yes.{00 01 00}{01 00 00 14 00} I get it now,\n{04 02 00}! {00 01 00}{01 00 00 0a 00} {00 01 00}{01 00 00 14 00}\n\n{07 14 00}This must be the{01 00 00 05 00}\n{04 0f 00} craze that's\nin all the tabloids!",
+   "et": ""
+  },
+  {
+   "id": 11,
+   "en": "{07 0c 00}This is kinda sudden, {01 00 00 14 00}but{01 00 00 05 00}\nI love {04 14 00} so\nmuch I could SCREAM!!!\n{07 19 00}If I had unlimited stomach\nspace,{01 00 00 05 00} I'd eat it every day!{01 00 00 0a 00}\nFor every meal!{07 00 00}",
+   "et": ""
+  },
+  {
+   "id": 12,
+   "en": "{07 00 00}Speaking of, {04 1f 00},{01 00 00 0a 00}\nare you done with that diet\nbook that I lent you?{01 00 00 05 00}\n{07 04 00}What?{01 00 00 0a 00} You didn't borrow it?\n\n\n{07 0e 00}Hmm.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 14 00} {07 14 00}Oh,{01 00 00 0a 00} that's right, it\nwasn't you who borrowed it.\nIt was {04 0d 00}!",
+   "et": ""
+  },
+  {
+   "id": 13,
+   "en": "{07 14 00}When buying clothes,{01 00 00 05 00} I make\nmy selection based on\ncolor, cut, and material.\n{07 00 00}You can probably guess what\nmy recommendation usually\nis, {01 00 00 0a 00}{04 02 00}!\n\n{06 0d 00 03 49 4a}",
+   "et": ""
+  },
+  {
+   "id": 14,
+   "en": "{06 0d 00 10 4b 4c}",
+   "et": ""
+  },
+  {
+   "id": 15,
+   "en": "{06 0d 00 20 4d 4e}",
+   "et": ""
+  },
+  {
+   "id": 16,
+   "en": "{07 0e 00}{01 00 00 0a 00}Backpacks are for kids,{01 00 00 0a 00} and\ntotes are too functional to\nbe fashionable{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 0b 00}So what's a fashionista like\nme to do?\n\n{06 0d 00 1d 4f 50}",
+   "et": ""
+  },
+  {
+   "id": 17,
+   "en": "{07 14 00}Hey, {01 00 00 05 00}{04 1f 00},{01 00 00 0f 00} today is\nmy anniversary with\n{ff 00 00 02}{04 14 00}{ff 00 00 00}!\n{07 19 00}That's right{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} On this day,\nmy first admirer confessed\nhis love!{07 00 00}\n{07 11 00}\"Do you want to have some\n{04 14 00} with me?\"{01 01 00}\n{07 00 00}Those were his exact words.\n{07 13 00}{01 00 00 0a 00}And they were the most\nloving words I'd ever heard!",
+   "et": ""
+  },
+  {
+   "id": 18,
+   "en": "{07 0c 00}{01 00 00 0a 00}I heard a weird restaurant\nopened up in the next town\nover, {01 00 00 05 00}{04 02 00}!\n{07 0e 00}{01 00 00 0a 00}They serve\n{04 12 00}-flavored\n{04 14 00}...\nWith{01 00 00 0a 00} {04 11 00}!\n\n\n{06 03 00 51 52}",
+   "et": ""
+  },
+  {
+   "id": 19,
+   "en": "{07 0e 00}{01 00 00 0a 00}Hmmm{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00} You know what your\nproblem is? {01 00 00 0a 00}You're lacking a\ndistinct personal style.\n{06 03 00 53 54}",
+   "et": ""
+  },
+  {
+   "id": 20,
+   "en": "{06 00 00 17 18}",
+   "et": ""
+  },
+  {
+   "id": 21,
+   "en": "{07 16 00}Hmph!{01 00 00 0a 00} I'm just joking! Don't\nyou get it?{01 00 00 0a 00} Or are you,\nlike, against humor?!\n{07 15 00}At times like this, just{01 00 00 0a 00}\nshout, \"Hail Queen\n{04 01 00}!\"\nThat's all it takes to\nsmooth things over!{01 00 00 0a 00} {07 19 00}Simple,\nhuh, {01 00 00 0a 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 22,
+   "en": "{07 19 00}Of course, {01 00 00 0a 00}there are those\nthings that are too\nbeautiful for words!{01 00 00 0a 00}{07 00 00}\n{07 0e 00}{01 00 00 0a 00}I mean, {01 00 00 0a 00}it's like{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n\n\n{07 14 00}trying to describe that\nfeeling you get when you\nlook at something pretty.\n{07 00 00}For now, I'd just recommend\nlooking at me and learning,\n{01 00 00 0a 00}{04 02 00}.",
+   "et": ""
+  },
+  {
+   "id": 23,
+   "en": "{01 00 00 0a 00}{07 1b 00}Well, well,{01 00 00 0a 00} {04 1f 00}.\nYou're in sycophant mode\ntoday, aren't you!\n{07 15 00}A word to the wise,\n{01 00 00 05 00}{04 02 00}. Lip service will\nget you nowhere!",
+   "et": ""
+  },
+  {
+   "id": 24,
+   "en": "{07 14 00}Aw!{01 00 00 0f 00} That's so sweet of you\nto say, {04 02 00}. I'd like\nto say it's all natural,\n{07 19 00}but this, too, is the result\nof my years of schooling,\n{01 00 00 0a 00}{04 02 00}!{07 00 00}{03 01 00 01}",
+   "et": ""
+  },
+  {
+   "id": 25,
+   "en": "{06 01 00 1b 1c 1d}",
+   "et": ""
+  },
+  {
+   "id": 26,
+   "en": "{06 00 00 1e 1f}",
+   "et": ""
+  },
+  {
+   "id": 27,
+   "en": "{07 14 00}{0b 03 00}{04 0f 00}! {01 00 00 0a 00}{07 0a 00}Working out\nto the contagious rhythm\nreally helps my skin.",
+   "et": ""
+  },
+  {
+   "id": 28,
+   "en": "{07 14 00}The {04 10 00} workout!{01 01 00}\n{07 0a 00}It gives me a glow that you\ncan't get in a bottle!",
+   "et": ""
+  },
+  {
+   "id": 29,
+   "en": "{07 14 00}The {04 11 00}\nfacial!{01 01 00} {07 19 00}{ff 00 00 02}Ms. Nintendique{ff 00 00 00} says\nsweets purify the pores.{01 00 00 0a 00}{07 00 00}",
+   "et": ""
+  },
+  {
+   "id": 30,
+   "en": "{07 14 00}The {04 12 00}\nfacial!{01 01 00} {07 00 00}The cleanup\nis a royal pain,\n{07 19 00}but it really works! {01 00 00 0a 00}Give it\na try!{01 00 00 0a 00} No offense, but you\ncould really use it.",
+   "et": ""
+  },
+  {
+   "id": 31,
+   "en": "{07 14 00}The {04 14 00}\nfacial!{01 01 00} {01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00}{07 15 00}What!?{01 00 00 0a 00} It really\nworks! {01 00 00 0a 00}Just look at me!",
+   "et": ""
+  },
+  {
+   "id": 32,
+   "en": "{07 00 00}Just look at how silky\nsmooth my skin is,\n{01 00 00 0a 00}{04 02 00}! {07 14 00}Give it a try!",
+   "et": ""
+  },
+  {
+   "id": 33,
+   "en": "{07 1c 00}{01 00 00 14 00}I know{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} {01 00 00 0a 00}{07 1b 00}{01 00 00 05 00}Boys who are good\nat {04 10 00} and\ncooking are PRET-ty rare.\n{07 13 00}{01 00 00 0a 00}The kind of boys who, on\ntheir days off, get in some\n{04 14 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 14 00}{07 00 00} Hmm.\n{07 16 00}I've gotta pull myself\ntogether and stop this\nmooning about, {01 00 00 0a 00}{04 02 00}.",
+   "et": ""
+  },
+  {
+   "id": 34,
+   "en": "{07 0c 00}Really?{01 00 00 14 00} I guess you're right!\nYeah, {01 00 00 0a 00}{04 02 00}!\n\n{07 0d 00}I promise that I'll find\nsomeone who's into cooking\nand{01 00 00 14 00} {04 10 00}!",
+   "et": ""
+  },
+  {
+   "id": 35,
+   "en": "{07 15 00}My type?{01 00 00 0f 00} Well, it definitely\nchanges a lot, but right\nnow, I'm searching for{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 14 00}A boy into {04 10 00}\nand cooking! A hottie who'll\ncook me a hot meal!\n{07 13 00}And {04 11 00} for\ndessert{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00} Then I'd officially\nbe {01 00 00 05 00}in love!",
+   "et": ""
+  },
+  {
+   "id": 36,
+   "en": "{07 19 00}OK, I'll put it into terms\nyou can understand.{07 00 00}{01 01 00} Say\n{07 14 00}love is {04 12 00}\nand affection is\n{04 11 00}.{01 00 00 05 00} {07 0b 00}{01 00 00 05 00}If I were\nthirsty, which would I pick?\n{07 16 00}See, no matter how much\n{04 11 00} I ate, it\nwouldn't quench my thirst.\n{07 13 00}I'd rather have{01 00 00 0a 00} a lot of\n{04 12 00} or\n{01 00 00 0a 00}{04 12 00}.\n{07 14 00}Remember that, {01 00 00 0a 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 37,
+   "en": "{01 00 00 0a 00}{07 1b 00}{01 00 00 05 00}Tee hee!{01 00 00 0a 00} You're getting all\nembarrassed, {04 1f 00}!",
+   "et": ""
+  },
+  {
+   "id": 38,
+   "en": "{07 02 00}{01 00 00 14 00}What?! Did I say{01 00 00 05 00} something\nfunny?{01 00 00 14 00} {07 0e 00}{01 00 00 0a 00}I don't get it,\n{01 00 00 05 00}{04 02 00}.\n{07 0c 00}{01 00 00 05 00}I know!{01 00 00 0a 00} {0b 03 00}{04 1f 00}!{01 00 00 0f 00} Send\nme a letter telling me{01 00 00 0a 00} {07 14 00}just\nwhat you found so funny!",
+   "et": ""
+  },
+  {
+   "id": 39,
+   "en": "{06 03 00 2b 2c}",
+   "et": ""
+  },
+  {
+   "id": 40,
+   "en": "{07 18 00}{01 00 00 0a 00}What's that?{01 01 00}{07 0f 00}{01 00 00 14 00} Yeah, I guess\nit doesn't really matter\nin the end anyway. \n{07 16 00}Sorry for asking such a\ndumb question, {01 00 00 0a 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 41,
+   "en": "{07 14 00}Yeah, I thought so.{01 00 00 14 00} 'Cause\npeople who have more\ngirlfriends are fashionable.\n{07 19 00}Which explains a whole lot\nabout you, {01 00 00 0a 00}{04 02 00}!{07 00 00}",
+   "et": ""
+  },
+  {
+   "id": 42,
+   "en": "{06 03 00 2d 2e}",
+   "et": ""
+  },
+  {
+   "id": 43,
+   "en": "{01 00 00 0a 00}{07 1b 00}{01 00 00 05 00}Tee hee! {01 00 00 0a 00}You're such a kid!\nIf that's the case, here's\nwhat you gotta do:\n{07 14 00}Work up your courage,{01 00 00 0a 00} get\nout there, and talk to more\ngirls.{01 00 00 0a 00} Easy, huh.\n{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 15 00}Hey wait a second! {01 00 00 0a 00}I'm a\ngirl, {01 00 00 0a 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 44,
+   "en": "{07 18 00}What?!{01 01 00} But if you only hang\nout with boys,{01 00 00 05 00} you'll start\nto tell really dumb jokes!\n{01 00 00 0a 00}{07 1b 00}{01 00 00 05 00}Plus, screaming your\nhead off with a bunch of\ngirls is so much fun!",
+   "et": ""
+  },
+  {
+   "id": 45,
+   "en": "{01 00 00 0a 00}{07 1b 00}{01 00 00 05 00}That's cool, {04 1f 00}.{01 00 00 14 00}\nBut don't get mad if they\ndon't take you seriously.\n{07 00 00}The close friendships boys\nshare{01 00 00 0a 00}{07 14 00} is something girls\nadmire! {01 00 00 0a 00}{0b 03 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 46,
+   "en": "{01 00 00 0a 00}{07 1b 00}{01 00 00 05 00}Sure, there are things you \ncan only discuss with\ngirls, {01 00 00 0a 00}{04 02 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 19 00}But it's good to broaden\nyour horizons {01 00 00 05 00}and hang out\nwith different people, too!",
+   "et": ""
+  },
+  {
+   "id": 47,
+   "en": "{07 0e 00}{01 00 00 0a 00}Like iced tea,{01 00 00 0a 00} hot tea,{01 00 00 0a 00}\nand milk tea{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}",
+   "et": ""
+  },
+  {
+   "id": 48,
+   "en": "{07 19 00}Well, there's Assam,{01 00 00 0a 00} Keemun,{01 00 00 0a 00}\nand Darjeeling{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{07 00 00}",
+   "et": ""
+  },
+  {
+   "id": 49,
+   "en": "{07 0e 00}{01 00 00 0a 00}Let's see, there's Uva,{01 00 00 0a 00}\nDimbula,{01 00 00 0a 00} and Ceylon{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.",
+   "et": ""
+  },
+  {
+   "id": 50,
+   "en": "{06 01 00 33 34 35}",
+   "et": ""
+  },
+  {
+   "id": 51,
+   "en": "{07 0b 00}{01 00 00 05 00}Did you know that orange\npekoe tea{01 00 00 05 00} doesn't taste at\nall like orange?",
+   "et": ""
+  },
+  {
+   "id": 52,
+   "en": "{01 00 00 0a 00}{07 1b 00}{01 00 00 05 00}You wouldn't think it, but\nthat kid knows a lot about\na variety of stuff.",
+   "et": ""
+  },
+  {
+   "id": 53,
+   "en": "{07 0c 00}{01 00 00 0a 00}Oh, yeah,{01 00 00 05 00} I heard that\n{ff 00 00 06}Tom Nook{ff 00 00 00} likes jasmine tea.\n\n{07 00 00}Wait a second{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 14 00} {07 1b 00}That's not\na black tea, is it?",
+   "et": ""
+  },
+  {
+   "id": 54,
+   "en": "{07 02 00}{01 00 00 14 00}What?{01 01 00} OK{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00} {07 09 00}Well, what am I\nsupposed to do then,\n{01 00 00 0a 00}{04 02 00}?!",
+   "et": ""
+  },
+  {
+   "id": 55,
+   "en": "{07 02 00}{01 00 00 14 00}What?!{01 01 00} {07 06 00}Oh, yeah,{01 00 00 0a 00} you're too\nyoung to understand. You're\njust a wee pup!\n{07 08 00}You've still got a while\nbefore you really shine,\n{01 00 00 0a 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 56,
+   "en": "{07 18 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}Huh?{01 00 00 0a 00} Oh, the teenage\nyears?{01 01 00} {07 09 00}Yeah,{01 00 00 0a 00} I lived through\nthose dark days, too.",
+   "et": ""
+  },
+  {
+   "id": 57,
+   "en": "{07 02 00}{01 00 00 14 00}Oh, honey{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 01 00} {07 06 00}You're still a\nkid, aren't you,\n{01 00 00 0a 00}{04 02 00}?!",
+   "et": ""
+  },
+  {
+   "id": 58,
+   "en": "{ff 00 00 04}{07 1d 00}{01 09 00}{00 01 00} {01 00 00 14 00}{00 01 00}{01 00 00 05 00}{00 01 00}{00 01 00} {00 01 00}{00 01 00}{01 08 00}{01 00 00 05 00}\n\n{ff 00 00 00}\n{07 16 00}Oh.{01 00 00 0a 00} What?{01 00 00 05 00} It sounds{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} {07 00 00}Well,\nlet's try it one more time.\n\n{ff 00 00 04}{07 1d 00}{01 09 00}{00 01 00} {01 00 00 14 00}{00 01 00}{01 00 00 05 00}{00 01 00}{00 01 00} {00 01 00}{00 01 00}{01 08 00}{01 00 00 05 00}\n{ff 00 00 00}\n\n{07 06 00}That's it?{01 01 00} {07 15 00}Well, I'd throw it\naway, too, if that's what it\nsounded like! {01 00 00 0a 00}{0b 03 00}{04 02 00}!{03 02 00 01}",
+   "et": ""
+  },
+  {
+   "id": 59,
+   "en": "{07 19 00}{ff 00 00 04}{00 01 00}{01 00 00 05 00}{00 01 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{00 01 00}{01 00 00 0a 00}{00 01 00}{01 00 00 0a 00} {00 01 00}{00 01 00}{00 01 00}{00 01 00}\n\n\n{07 13 00}{01 00 00 0a 00}{ff 00 00 00}What a lovely tune!{01 01 00} {07 00 00}Very\nnice, don't you think,\n{04 1f 00}?\n{07 0a 00}The song of the waves\ndelivered by the sea{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\nI'll cherish it, {01 00 00 0a 00}{04 02 00}!{03 01 00 01}",
+   "et": ""
+  },
+  {
+   "id": 60,
+   "en": "{07 00 00}{01 00 00 0a 00}{ff 00 00 04}Creeeeeyack.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}doink doonk{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\nclick clunk{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{ff 00 00 00}{01 01 00}{ff 00 00 04}\n{ff 00 00 00}{07 1d 00}{01 00 00 0a 00}Huh?\n{07 0e 00}{01 00 00 0a 00}Was the music box making\nthat terrible sound? {01 00 00 0a 00}{07 1b 00}{01 00 00 05 00}HA!\n{01 00 00 0a 00}That's not a \"music\" box!\nA music box that's washed\nup on the beach {07 09 00}is romantic\nin theory, {01 00 00 0a 00}{04 02 00}.\nBut in reality, it's just\na piece of junk!",
+   "et": ""
+  },
+  {
+   "id": 61,
+   "en": "{07 16 00}Let's see{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 01 00}{01 00 00 0a 00} Hey!{01 00 00 14 00} No matter\nwhat I do, it just won't\nplay, {01 00 00 0a 00}{04 02 00}.\n{07 1c 00}{01 00 00 0a 00}Maybe it really is broken?\n{01 00 00 0a 00}What do you think,\n{01 00 00 0a 00}{04 02 00}?",
+   "et": ""
+  },
+  {
+   "id": 62,
+   "en": "{07 00 00}OK, OK! {01 00 00 0a 00}Eek! I'm totally\nfreaking out here! {01 00 00 0a 00}\n{07 06 00}Which page should we read?{05 05 00 01 43 07 42 07 41 01 40}\nPage 1\nPage 1000",
+   "et": ""
+  },
+  {
+   "id": 63,
+   "en": "{07 1b 00}Whoa,{01 00 00 05 00} {04 1f 00}, who knew\nyou were such a\ngoody-goody. {01 00 00 05 00}What a bore!",
+   "et": ""
+  },
+  {
+   "id": 64,
+   "en": "{07 00 00}\n{01 00 00 14 00}{01 02 00}{ff 00 00 02}The Diary of {04 0d 00}{ff 00 00 00}{01 03 00}\n\n{07 02 00}{01 00 00 14 00}I can't believe it! {01 00 00 14 00}These are\n{04 0d 00}'s deepest\nsecrets, {01 00 00 05 00}{04 02 00}!\n{07 07 00}{01 00 00 05 00}Or {01 00 00 0a 00}maybe someone took\nnotes while watching\n{04 0d 00}?\n{07 09 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}I feel weird about this.{01 00 00 14 00}\nLet's put it back,\n{01 00 00 0a 00}{04 02 00}.",
+   "et": ""
+  },
+  {
+   "id": 65,
+   "en": "{06 00 00 44 45}",
+   "et": ""
+  },
+  {
+   "id": 66,
+   "en": "{06 00 00 46 47}",
+   "et": ""
+  },
+  {
+   "id": 67,
+   "en": "\n{07 00 00}{01 00 00 14 00}{01 02 00}{ff 00 00 02}THE END{ff 00 00 00}{01 03 00}\n\n{07 16 00}Wait a second{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 14 00} What kind\nof person writes \"THE END\"\nin a diary?\n{01 00 00 0a 00}{07 1b 00}{01 00 00 05 00}Well, that was boring. {01 00 00 0a 00}And\nkind of weird, too,\n{01 00 00 0a 00}{04 02 00}.",
+   "et": ""
+  },
+  {
+   "id": 68,
+   "en": "{ff 00 00 02}{07 15 00}{01 00 00 14 00}{01 02 00}Dear Diary,{01 00 00 0a 00}\nThe weekly\n{04 11 00}...\nwill officially stop the\npresses!\n\n{01 02 00}Starting tomorrow,{01 00 00 0a 00} I don't\nknow how I'll stay on top of\ncurrent events!{01 03 00}",
+   "et": ""
+  },
+  {
+   "id": 69,
+   "en": "{ff 00 00 02}{07 15 00}{01 00 00 14 00}{01 02 00}Dear Diary,{01 00 00 0a 00}\nMy neighbor gave me some\n{04 12 00}.\n{01 02 00}Honestly though,{01 00 00 0a 00} I like\nthe stuff at the store\nbetter than homemade.{01 03 00}",
+   "et": ""
+  },
+  {
+   "id": 70,
+   "en": "{ff 00 00 02}{07 15 00}{01 00 00 14 00}{01 02 00}Dear Diary,\nI found {04 11 00}\nin the fridge today.\n{01 02 00}The expiration date was my\nbirthday. My birthday last\nyear, that is.{01 03 00}",
+   "et": ""
+  },
+  {
+   "id": 71,
+   "en": "{ff 00 00 02}{07 15 00}{01 00 00 14 00}Dear Diary,{01 00 00 0a 00}\nToday is my birthday.\n\n{01 02 00}I was waiting for my\nsurprise present to arrive,{01 00 00 0a 00}\nbut sunset came first.{01 03 00}",
+   "et": ""
+  },
+  {
+   "id": 72,
+   "en": "{07 09 00}I.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} I feel like we just saw\nsomething we weren't\nsupposed to.\n{07 16 00}I think I'm going to rebury\nthis in the spot where I\nfound it, {01 00 00 0a 00}{04 02 00}.",
+   "et": ""
+  },
+  {
+   "id": 73,
+   "en": "{07 0d 00}{01 00 00 0a 00}Wool, of course! It's fluffy\nand warm, but also light. It\nis the ultimate in comfort!\n{07 19 00}But then again, {01 00 00 0a 00}I should\nknow. {01 00 00 0a 00}I wear it all the\ntime, {01 00 00 0a 00}{04 02 00}! Hee hee!{07 00 00}",
+   "et": ""
+  },
+  {
+   "id": 74,
+   "en": "{07 0e 00}If you're talking about\ncomfort, nothing beats\ncashmere, {04 02 00}!\n{07 00 00}But {07 14 00}you're not exactly an\nexpert. Can you discern\nbetween so-so and premium?",
+   "et": ""
+  },
+  {
+   "id": 75,
+   "en": "{07 16 00}Oh! {01 00 00 0a 00}That reminds me that I\nhaven't flown in a while,\n{01 00 00 0a 00}{04 02 00}.\n{07 00 00}You know, if I felt like it,{01 00 00 0a 00}\nI could fly way faster!\nFaster than {ff 00 00 06}Pete{ff 00 00 00}, even!\n{07 15 00}If you thought I was just\nanother pretty, gossiping\ngirl,{01 00 00 05 00} you were wrong!!!",
+   "et": ""
+  },
+  {
+   "id": 76,
+   "en": "{07 16 00}It's been a while since I've\nworked out, y'know. {01 00 00 05 00}Maybe\n{07 0b 00}I'll try {04 10 00}.\n{07 0a 00}{ff 00 00 02}Ms. Nintendique{ff 00 00 00} says it\njust, like, flushes out all\nthe toxins.",
+   "et": ""
+  },
+  {
+   "id": 77,
+   "en": "{07 0f 00}{01 00 00 14 00}Nothing's more pitiful than\na bird that can't fly,\n{01 00 00 0a 00}{04 02 00}.\n{01 00 00 0a 00}{07 1b 00}{01 00 00 05 00}Oh,{01 00 00 14 00} there are times I wish I\nweren't one, {01 00 00 05 00}{04 02 00}.",
+   "et": ""
+  },
+  {
+   "id": 78,
+   "en": "{07 14 00}When your skin is acting up,{01 00 00 0a 00}\ndrink {04 12 00}\nwith honey in it.\n{07 00 00}{ff 00 00 06}Blathers {ff 00 00 00}drinks it when his\nskin freaks out 'cause he's\nnot sleeping.\n{01 00 00 0a 00}{07 1b 00}{01 00 00 05 00}But then again,{01 00 00 05 00} I bet he\ndrinks it all the time,\n{01 00 00 05 00}{04 02 00}.",
+   "et": ""
+  },
+  {
+   "id": 79,
+   "en": "{07 00 00}Huh? {01 00 00 0a 00}What?{01 00 00 14 00} I should carry\nmy stuff in a{07 18 00}{01 00 00 05 00} camel hump?!\n{01 00 00 0a 00}{0b 03 00}{04 02 00}! \n{07 01 00}What kind of a freak are\nyou? {01 00 00 0a 00}I'm an ostrich, in case\nyou didn't notice!",
+   "et": ""
+  },
+  {
+   "id": 80,
+   "en": "{07 04 00}Huh? {01 00 00 0a 00}What?{01 00 00 0a 00} A fanny pack?\nUm, yeah{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} That's a great\nidea, {04 02 00}!\n{01 00 00 0a 00}{07 1b 00}{01 00 00 05 00}If \"tourist from the\nsticks\" was the look I was\ngoing for!",
+   "et": ""
+  },
+  {
+   "id": 81,
+   "en": "{07 00 00}{01 00 00 0a 00}I heard that it's totally \ncutting edge and HOT! It's\nTHE place to be.\n{07 14 00}If you're paying,{01 00 00 0a 00} I'd be\nmore than happy to join\nyou, {01 00 00 0a 00}{04 02 00}.",
+   "et": ""
+  },
+  {
+   "id": 82,
+   "en": "{07 14 00}{01 00 00 0a 00}I heard that it's THE place\nto be, {01 00 00 0a 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 83,
+   "en": "{07 15 00}In order to make a catch\nlike me pay attention to\nyou, you gotta be edgier.\n{07 11 00}You should form a band{01 00 00 0f 00}\nand play {04 0f 00} for\nme to dance to.",
+   "et": ""
+  },
+  {
+   "id": 84,
+   "en": "{07 14 00}I could teach you the \nsecret of being alluring.{02 00 00 56 57}\nPlease!\nNo thanks.",
+   "et": ""
+  },
+  {
+   "id": 86,
+   "en": "{07 00 00}Well, then, {01 00 00 0a 00}this is\nsomething that applies to\nboth boys and girls.\n{07 15 00}The key to being alluring is\nmoving elastically, like a\nkitty cat!\n{06 0d 00 01 58 59}",
+   "et": ""
+  },
+  {
+   "id": 87,
+   "en": "{07 16 00}Well, {01 00 00 05 00}I never!{01 00 00 14 00} Hmph!{01 00 00 14 00} Fine,\nsuit yourself! {07 00 00}You're so\nstubborn, {01 00 00 0a 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 88,
+   "en": "{07 00 00}Well{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00}{07 03 00}{01 00 00 0a 00} I just happen \nto be a cat, so I know,\n{01 00 00 0a 00}{04 02 00}.",
+   "et": ""
+  },
+  {
+   "id": 89,
+   "en": "{07 19 00}You might want to take\nsome time{01 00 00 0a 00} to study how a\ncat moves, {01 00 00 0a 00}{04 02 00}.{07 00 00}",
+   "et": ""
+  }
+ ]
+}

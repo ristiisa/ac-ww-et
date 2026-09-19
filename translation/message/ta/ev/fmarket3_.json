@@ -1,0 +1,105 @@
+{
+ "file": "script/ENG/message/ta/ev/fmarket3_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 04 00}Oh,{01 00 00 05 00} it's a lot cleaner in\nhere than I thought it\nwould be.\n{07 14 00}I might have time {ff 00 00 04}(and\nBells){ff 00 00 00} for you after all,\n{01 00 00 0a 00}{04 02 00}.",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "I might actually find\nsomething that I want!",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 14 00}Hmm,{01 00 00 05 00} I think maybe it's\ntime I go and patronize a\ndifferent shop.\n{07 00 00}But, {04 1f 00}, your shop\nwas certainly one of the\nmore {01 00 00 0a 00}interesting ones.\nI'll make sure to tell \neveryone about it!{01 01 00} {07 14 00}See ya,\n{01 00 00 0a 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 3,
+   "en": "{07 04 00}I can't believe it's so late\nalready! {01 01 00}{07 1b 00}Time really flies\nwhen you're having fun!\n{07 14 00}And snooping through other\npeople's stuff is the\nfunnest thing ever! {01 00 00 0a 00}See ya!",
+   "et": ""
+  },
+  {
+   "id": 4,
+   "en": "I have to hand it to you{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 0f 00}\nI'm impressed, {01 00 00 05 00}{04 02 00}.",
+   "et": ""
+  },
+  {
+   "id": 5,
+   "en": "{07 14 00}Tee hee hee!{01 00 00 14 00} I just LOVE\nsnooping around in other\npeople's homes!",
+   "et": ""
+  },
+  {
+   "id": 6,
+   "en": "{07 00 00}Hey, {01 00 00 05 00}{04 1f 00}.{01 00 00 0a 00} {07 0b 00}How much\ndo you want for your\n{0b 02 00}{04 1a 00}?{02 00 00 ff ff}\nLet's talk!\nNot for sale!",
+   "et": ""
+  },
+  {
+   "id": 7,
+   "en": "{07 14 00}Hey, this is kinda nice. \nI like this.\n\n{07 00 00}Hey, {04 1f 00},{01 00 00 0a 00}{07 0b 00} how much\ndo you want for your\n{0b 02 00}{04 1a 00}?{02 00 00 ff ff}\nLet's talk!\nNot selling!",
+   "et": ""
+  },
+  {
+   "id": 8,
+   "en": "Hm...{01 00 00 05 00} Oh, well.",
+   "et": ""
+  },
+  {
+   "id": 9,
+   "en": "{07 0b 00}Oh, really?{01 00 00 0a 00} That's too bad,\n{01 00 00 0a 00}{04 02 00}.",
+   "et": ""
+  },
+  {
+   "id": 10,
+   "en": "{07 02 00}Whoa! Talk about pricey!\nI didn't know that was\nallowed at{ff 00 00 03} Flea Markets{ff 00 00 00}!\n{07 06 00}Can't you come down on the\nprice just a little? {01 00 00 0a 00}\nI mean, seriously!{02 00 00 ff ff}\nFine!\nNEVER!",
+   "et": ""
+  },
+  {
+   "id": 11,
+   "en": "{07 02 00}What?!{01 00 00 14 00} You're really gonna\ncharge that much for your\n{0b 02 00}{04 1a 00}?!\n{07 15 00}NO WAY! {01 00 00 0a 00}But if you bring\nthe price down a little, I'll\nconsider buying it{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.{02 00 00 ff ff}\nOK, OK!\nN-O spells NO!",
+   "et": ""
+  },
+  {
+   "id": 12,
+   "en": "{07 00 00}Hm.{01 00 00 05 00} Are you sure you can\n{07 0b 00}bring down the price that\nmuch?{02 00 00 ff ff}\nIt's yours!\nNope!",
+   "et": ""
+  },
+  {
+   "id": 13,
+   "en": "{07 00 00}So what you're saying is...{01 00 00 14 00}\nYou'll sell it to me {07 0b 00}for\nthat price? {02 00 00 ff ff}\nIt's yours.\nNot selling.",
+   "et": ""
+  },
+  {
+   "id": 14,
+   "en": "{07 14 00}Well then,{01 00 00 0a 00} you have a deal!{01 00 00 0a 00}\nThe {0b 02 00}{04 1a 00}\nfor a million Bells.\nJust kidding. {01 00 00 14 00}{07 03 00}You only get\n{04 0f 00}. {01 00 00 0a 00}Tee hee hee hee!",
+   "et": ""
+  },
+  {
+   "id": 15,
+   "en": "{07 14 00}Well then, I'll take your\n{0b 02 00}{04 1a 00},\n{01 00 00 05 00}{04 02 00}.\nTee hee hee! {00 01 00} I've got the\nkeenest business sense,\n{01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 16,
+   "en": "{07 06 00}What?! {01 01 00}{07 0f 00}We've come this far\nand you're pulling out now?\nThe nerve{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.",
+   "et": ""
+  },
+  {
+   "id": 17,
+   "en": "{07 16 00}What's your problem?!{01 00 00 14 00} {07 1c 00}{01 00 00 05 00}That\nmakes me SO MAD!",
+   "et": ""
+  },
+  {
+   "id": 18,
+   "en": "{07 04 00}Hey!{01 00 00 14 00} You can't carry any\nmore money!\n\n{07 00 00}Well then, {01 00 00 05 00}I guess this\nwhole song and dance was\nall for nothing! ",
+   "et": ""
+  },
+  {
+   "id": 19,
+   "en": "{07 04 00}What's this?{01 00 00 14 00} It looks like\nyou can't hold any more\nmoney.\nI guess we'll have to put\nthis transaction on hold.\n{01 01 00}{07 15 00}What a waste of my time!\n{07 00 00}You should know to get your\nfinances sorted before\ngoing into business!",
+   "et": ""
+  }
+ ]
+}

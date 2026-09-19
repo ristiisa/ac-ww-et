@@ -1,0 +1,80 @@
+{
+ "file": "script/ENG/message/bo/ev/insect_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 14 00}Today's the {ff 00 00 03}Bug-Off{ff 00 00 00}, isn't\nit, {04 1f 00}?\n\n{07 19 00}This is when we find who\nreally gets along best with\nthe bugs, {01 00 00 05 00}{04 02 00}.\n{07 04 00}{ff 00 00 04}(CrUNch!){ff 00 00 00}{01 01 00} {07 09 00}Uh{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00} Huh?{01 00 00 14 00} {07 02 00}Oh, no!{01 00 00 14 00}\nI stepped on an {ff 00 00 07}ant{ff 00 00 00}!{01 00 00 14 00} {07 08 00}I hope\nhis friends don't find out.",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 14 00}It's time to raise the\ncurtain on the {ff 00 00 03}Bug-Off{ff 00 00 00},\n{01 00 00 0a 00}{04 02 00}.\n{07 00 00}This year, there are a\nlot of expert bug catchers\nin {ff 00 00 08}{04 03 00}{ff 00 00 00}.\n{07 15 00}Especially {04 0b 00}.{01 00 00 05 00} And\nYOU{01 00 00 05 00}, {04 02 00}! {01 01 00}{07 05 00}{01 00 00 0a 00}But that's\nfine!{01 00 00 0f 00} I'm not worried.\nBecause, {01 00 00 03 00}you see, {07 11 00}you can\ndo more things with a net\nthan just catch bugs{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 0b 00}Have you heard anything\nabout{01 00 00 05 00} the {04 03 00}\n{ff 00 00 03}Bug-Off{ff 00 00 00}?\n{07 14 00}Huh huh huh!{01 00 00 0a 00} I figured as\nmuch. Everyone in town is\ntalking about it!",
+   "et": ""
+  },
+  {
+   "id": 3,
+   "en": "{07 14 00}Hey,{01 00 00 05 00} {04 1f 00},{01 00 00 14 00} my\n{0b 02 00}{04 1a 00}\n{07 0d 00}holds today's record!\n{07 0a 00}At a whopping {ff 00 00 02}{04 0f 00} mm{ff 00 00 00},\neveryone else can just\n{01 00 00 0a 00}BUG OFF! {07 03 00}{01 00 00 05 00}Huh huh huh!",
+   "et": ""
+  },
+  {
+   "id": 4,
+   "en": "{07 14 00}Ta da!!{01 01 00} {07 00 00}My {ff 00 00 02}{04 0f 00}-mm\n{0b 02 00}{ff 00 00 00}{04 1a 00} is{01 00 00 0a 00}\n{07 0d 00}the record holder!\n{07 1b 00}Huh huh huh!{01 00 00 03 00} My bug has\nleft everyone else in the\ndust,{01 00 00 0a 00} {04 02 00}.",
+   "et": ""
+  },
+  {
+   "id": 5,
+   "en": "{07 16 00}I can't believe I caught\n{07 06 00}that {ff 00 00 02}{04 0f 00}-mm{ff 00 00 00}\n{0b 02 00}{04 1a 00}!\nAnd all by myself, too.{01 00 00 05 00}\n{07 07 00}Sometimes,{01 00 00 05 00} my powers scare\nme, {04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 6,
+   "en": "{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{07 0c 00}{01 00 00 14 00}Of course!{01 00 00 0a 00} The {ff 00 00 07}golden\nnet{ff 00 00 00}! {01 01 00}{07 00 00}My uncle had a {ff 00 00 07}golden\nnet{ff 00 00 00} that he used a lot.\n{07 14 00}He was a {ff 00 00 03}Bug-Off{ff 00 00 00} legend,\nand also quite the star in\nthe bug-catching circuit.",
+   "et": ""
+  },
+  {
+   "id": 7,
+   "en": "{07 00 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 02 00}Oh!{01 00 00 14 00} {07 16 00}I forgot to close my\nmouth, {01 00 00 05 00}and a bug flew right\ninto it!\n{07 0e 00}Whenever I chase bugs, I\nget kinda slack-jawed.{01 00 00 0a 00}{07 06 00} It's\ndownright embarrassing.",
+   "et": ""
+  },
+  {
+   "id": 8,
+   "en": "{07 16 00}Didja hear {04 10 00}\ncaught a HUGE bug?! {01 01 00}Maybe\n{04 1a 00}?!\n{07 1c 00}Oh, right. Of course you\nknow. {01 01 00}{07 10 00}I'm always the last to\nfind things out.",
+   "et": ""
+  },
+  {
+   "id": 9,
+   "en": "{07 14 00}{00 01 00}I nab bugs {01 00 00 05 00}the whole day!{01 00 00 0a 00}\nThe {0b 02 00}{04 1a 00}\nwon't get away!{00 01 00}\nHuh?{01 00 00 14 00} {07 0b 00}My song?{01 00 00 14 00} {07 14 00}I made it up{ff 00 00 06}\n{ff 00 00 00}all by myself! It's the\n{ff 00 00 03}Bug-Off{ff 00 00 00} theme song.\n{07 0d 00}You should sing it, too,\n{01 00 00 0a 00}{04 02 00}! {01 00 00 0a 00}It brings good\nluck!",
+   "et": ""
+  },
+  {
+   "id": 10,
+   "en": "{07 0e 00}Has anyone ever told you\nthat {01 00 00 0a 00}{07 14 00}you look kinda like\n{04 1a 00}?\n{07 1b 00}So it should be easy for\nyou to catch one that's,{01 00 00 03 00}\nsay,{01 00 00 03 00} {ff 00 00 02}{04 0f 00} millimeters{ff 00 00 00}.",
+   "et": ""
+  },
+  {
+   "id": 11,
+   "en": "{07 1b 00}In my opinion, it's pretty\ndifficult to catch\n{04 1a 00}.\n{07 16 00}But do you think anyone\nelse has already caught\none,{01 00 00 05 00} {04 02 00}?",
+   "et": ""
+  },
+  {
+   "id": 12,
+   "en": "{07 15 00}You won't win this contest\nwith tiny bugs. {01 01 00}{07 05 00}{01 00 00 0a 00}I'm looking\nfor a HUGE one myself.\nThat'll turn the tide in\nthis contest in one fell\nswoop!{01 01 00} {01 08 00}SWOOOOP!",
+   "et": ""
+  },
+  {
+   "id": 13,
+   "en": "{07 14 00}Don't you think{01 00 00 05 00} I smell\nawesome today?{01 00 00 05 00} It's 'cause\nI'm wearing perfume.\n{07 0d 00}I put on some {ff 00 00 02}Eau de\nNintendique{ff 00 00 00} to attract\nthe bugs,{01 00 00 0a 00} {04 02 00}.",
+   "et": ""
+  },
+  {
+   "id": 14,
+   "en": "{07 16 00}So {04 10 00} is in the\nlead with that {ff 00 00 02}{04 0f 00}-mm{ff 00 00 00}\n{0b 02 00}{04 1a 00}...\n{07 01 00}Oh, well excuse me! {01 01 00}{01 08 00}Of\ncourse, YOU already know\nthat!",
+   "et": ""
+  }
+ ]
+}

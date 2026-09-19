@@ -1,0 +1,15 @@
+{
+ "file": "script/ENG/message/bo/q03/end_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 14 00}Huh huh huh!{01 00 00 0a 00} I'm SOOO happy!{01 00 00 05 00}\n{0b 03 00}{04 02 00}!\n\n{07 19 00}Thanks to you, my house\nlooks like a movie set now!\nIt's so awesome!{07 00 00}\n{07 14 00}Thanks!{01 01 00} {07 0d 00}I'll invite you to\nthe {0b 02 00}{ff 00 00 02}{04 0f 00}\n{ff 00 00 00}premiere!",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 00 00}Thanks to you, {04 1f 00},\nI've completed my fossil!\n\n{07 19 00}I thank you from the\nbottom of my heart!{01 01 00}\n{07 14 00}Thanks for everything!\n{07 0d 00}Uh huh huh{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00} What kind of\nfortune and glory should I\npursue next,{01 00 00 05 00} {04 02 00}?",
+   "et": ""
+  }
+ ]
+}

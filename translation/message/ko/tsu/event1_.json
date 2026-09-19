@@ -1,0 +1,110 @@
+{
+ "file": "script/ENG/message/ko/tsu/event1_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "Hey, {01 00 00 05 00}{04 1f 00}.{01 00 00 14 00}{07 14 00} I'm sure \nyou know about the {ff 00 00 03}Fishing \nTourney {ff 00 00 00}this Sunday!\n{07 15 00}You always seem to win\nstuff. Personally, I think\nyou're a cheater, but...{01 00 00 05 00}\n{07 11 00}This weekend, {01 00 00 05 00}I'm gonna\nshow you how it's really\ndone! {0b 03 00}{01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "The {ff 00 00 03}Fishing Tourney {ff 00 00 00}is this\nSunday, {01 00 00 05 00}{04 02 00}!\n\n{07 14 00}\"The current record\nis 16 inches, reeled in by\n{04 00 00}!\"\n{07 15 00}Just hearing your name\ngets me all riled up!\n{07 05 00}{01 00 00 0f 00}Watch your back, kid!",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 15 00}Whoa!{01 00 00 14 00} This Sunday is the\n{ff 00 00 03}Bug-Off{ff 00 00 00}!\n\n{07 00 00}I'm gonna love watching you\nhopelessly chasing after\nnasty critters!\n{07 03 00}Just the thought of it \nmakes me happier than you \nknow, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 3,
+   "en": "{07 04 00}Oh yeah!{01 00 00 05 00} The {ff 00 00 03}Bug-Off{ff 00 00 00} is\ncoming up!\n\n{07 00 00}{07 19 00}This Sunday, the battle\nbetween you and me begins!{01 00 00 05 00}\n{01 00 00 05 00}{07 11 00}Bring it, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 4,
+   "en": "{07 14 00}I just heard there's going\nto be a {ff 00 00 03}Flea Market{ff 00 00 00} on \nSaturday, {01 00 00 05 00}{04 02 00}!\n{07 00 00}It's usually a great\ntime to sell all your junk\nto some gullible sucker!\n{07 11 00}Oooh, hey...can I interest\nyou in buying some really \nnice stuff, {01 00 00 05 00}{04 02 00}?",
+   "et": ""
+  },
+  {
+   "id": 5,
+   "en": "Hey, {01 00 00 05 00}{04 1f 00}!{01 00 00 0f 00}\nThe {ff 00 00 03}Flea Market{ff 00 00 00} is this \nSaturday, {04 02 00}!\n{06 01 00 0e 0f 10}",
+   "et": ""
+  },
+  {
+   "id": 6,
+   "en": "{07 16 00}Hey, {04 1f 00}.{01 00 00 14 00}\nWell, {01 00 00 05 00}{04 02 00}, this\nSaturday is {ff 00 00 03}La-Di-Day{ff 00 00 00}.\n{07 00 00}You ever{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0f 00}{07 0b 00}tried singing\nkaraoke?{02 00 00 11 12}\nYou know it!\nNo way.",
+   "et": ""
+  },
+  {
+   "id": 7,
+   "en": "{07 02 00}NOOOOOO!{01 00 00 14 00} I just realized\nthis Saturday is\n{ff 00 00 03}La-Di-Day{ff 00 00 00}, {01 00 00 05 00}{04 02 00}!\n{07 16 00}If my song gets chosen to\nbe the town tune for\n{04 05 00}...\n{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 07 00}I'd pretty much freak\nout and barricade myself in\nmy house. Oh, {04 02 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.",
+   "et": ""
+  },
+  {
+   "id": 8,
+   "en": "{07 14 00}{0b 03 00}{04 1f 00}!{01 00 00 0f 00} It's almost\n{ff 00 00 03}Yay Day{ff 00 00 00}, {01 00 00 05 00}{04 02 00}!\n\n{07 00 00}I'm gonna be extra nice on\nSunday and compliment\neveryone I see!\n{07 03 00}Oh, who am I kidding?\nI never say anything nice\nto anyone!",
+   "et": ""
+  },
+  {
+   "id": 9,
+   "en": "{07 04 00}Hey, you!{01 00 00 0a 00} Uhhh...{01 00 00 14 00} You're not\nall that dumb. Sometimes.\n\n{07 0e 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}Dang it!{01 00 00 0a 00} {07 16 00}I really need to\nwork on that{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n\n{07 00 00}I'm practicing complimenting\npeople for {ff 00 00 03}Yay Day {ff 00 00 00}this \nSunday.\n{07 1b 00}It's harder to say nice\nthings about people than I\nthought, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 10,
+   "en": "Hey, {01 00 00 14 00}{04 10 00} {04 11 00} is{01 00 00 0f 00}\n{ff 00 00 06}{04 0f 00}{ff 00 00 00}'s birthday,\n{01 00 00 05 00}{04 02 00}.\n{07 15 00}Maybe you should stop by\nand say \"happy birthday\"\nfor once, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 11,
+   "en": "{07 0b 00}Speaking of, {04 1f 00},{01 00 00 0f 00}\ndid you know, {01 00 00 05 00}{04 02 00}?{02 00 00 14 13}\nOh yeah!\nAbout what?",
+   "et": ""
+  },
+  {
+   "id": 12,
+   "en": "Can you believe this year's\nalmost over? It's crazy!\n\n{07 13 00}I know I'm looking forward \nto another year of wacky \nhijinks, {01 00 00 05 00}{04 02 00}!\n{07 15 00}{0b 03 00}Oh, and {04 1f 00}...{01 00 00 0f 00}\nDon't even think about\ncounting down without me!",
+   "et": ""
+  },
+  {
+   "id": 13,
+   "en": "{07 14 00}This year's almost over,\n{01 00 00 05 00}{04 02 00}!\n\n{07 16 00}You and me, kid...{01 00 00 05 00} We've\nbeen through a lot\ntogether this year.\n{07 0d 00}I think we should ring in\nthe new year together\n{01 00 00 05 00}with a{ff 00 00 03} countdown{ff 00 00 00}!",
+   "et": ""
+  },
+  {
+   "id": 14,
+   "en": "{07 14 00}I've gotta clean up my pad\nso it's ready for a guest \nat any time, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 15,
+   "en": "{07 00 00}I'll leave a bunch of\nfurniture that I don't need\nback at my place.\n{07 14 00}You should drop by and pick\nit up, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 16,
+   "en": "{07 00 00}Everybody knows that early \nbirds get to chow down on \nthe tastiest worms.\n{07 19 00}So you'd better hit the\nsack early on Friday night, \n{01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 17,
+   "en": "{07 14 00}That's too bad, {01 00 00 05 00}{04 02 00}!{01 00 00 14 00}\n{07 03 00}You're not gonna sing...{01 00 00 14 00}\nWe are, {01 00 00 05 00}{04 02 00}!\n{07 0e 00}I should warn you, though{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0f 00}\nIt could get pretty ugly! \nI can't sing, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 18,
+   "en": "{07 14 00}Don't sweat it, {04 1f 00}!{01 00 00 14 00}\n\n\n{07 15 00}You're not the one who has\nto embarrass yourself\nin front of everyone! \n{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 09 00}We are, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 19,
+   "en": "{07 01 00}SHAME ON YOU!{01 00 00 14 00} {07 15 00}The {04 11 00} is\n{ff 00 00 06}{04 0f 00}{ff 00 00 00}'s birthday! {07 16 00}I\ncan't believe you forgot it!\nOh, {04 1f 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 08 00}I expected so much more\nfrom you, {01 00 00 05 00}{04 02 00}.",
+   "et": ""
+  },
+  {
+   "id": 20,
+   "en": "{07 00 00}Really?{01 00 00 14 00} Well, I guess you\ncan just forget it then,\n{01 00 00 05 00}{04 02 00}.",
+   "et": ""
+  }
+ ]
+}

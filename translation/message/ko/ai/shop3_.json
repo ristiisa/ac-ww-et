@@ -1,0 +1,155 @@
+{
+ "file": "script/ENG/message/ko/ai/shop3_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{06 0b 00 05 06 07 08 09 0a 0b}",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{06 08 00 0c 0d 0e 0f}",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "Don't see many cafes like \nthis one anymore, eh, \n{01 00 00 05 00}{04 02 00}?\n{06 01 00 10 11 12}",
+   "et": ""
+  },
+  {
+   "id": 3,
+   "en": "{07 11 00}Black coffee is where it's\nat. Yep... {01 00 00 05 00}Blacker than a \nmoonless night.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n{06 01 00 13 14 15}",
+   "et": ""
+  },
+  {
+   "id": 4,
+   "en": "When you drink coffee,{01 00 00 05 00}\n{07 0b 00}do you chug it,\n{01 00 00 05 00}{04 02 00}?{02 00 00 16 17}\nYou know it.\nThat's nuts!",
+   "et": ""
+  },
+  {
+   "id": 5,
+   "en": "{07 19 00}The {ff 00 00 06}barista{ff 00 00 00} of this cafe \nmight not look so bright, \nbut he's got great taste.\n{07 04 00}Oh, wait! {01 01 00}I mean his\n{07 11 00}coffee's got great taste,\n{01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 6,
+   "en": "The {ff 00 00 06}barista {ff 00 00 00}of this joint is\na master of the dark arts\nof espresso.\n{07 14 00}I guess it would be rude\nto chug something like\nthat, {01 00 00 05 00}{04 02 00}.",
+   "et": ""
+  },
+  {
+   "id": 7,
+   "en": "{07 0a 00}The {ff 00 00 06}barista{ff 00 00 00} here brews the\nmeanest cup of coffee in\ntown, {01 00 00 05 00}{04 02 00}!\n{07 14 00}It's definitely tastier than\nthe instant stuff I drink\nat home, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 8,
+   "en": "{07 19 00}Ah, yeah. Now I remember{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{0b 03 00}{04 02 00}.\n\n{07 0f 00}I had a \"disagreement\" with\nthe leader of this gang in\na nearby town. \nAfter that, I sort of had\nto split town, {01 00 00 05 00}and I ended\nup wandering here{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{ff 00 00 06}{07 00 00}Brewster{ff 00 00 00} took me in and,\nwithout a word, poured me\na cup of coffee.\n{07 0a 00}I still remember how it\ntasted, too.{01 00 00 05 00}.{01 00 00 05 00}. It was \nthe boldest, {01 00 00 05 00}{04 02 00}.",
+   "et": ""
+  },
+  {
+   "id": 9,
+   "en": "{07 0e 00}Sure, the coffee here might\njust be the boldest in the\nland...\n{07 14 00}But that's only 'cause it's\nbrewed by {ff 00 00 06}Brewster{ff 00 00 00}.\n\n{07 19 00}He's pretty much the \ngreatest barista of his\ngeneration.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}",
+   "et": ""
+  },
+  {
+   "id": 10,
+   "en": "That's what I like about\nthese old-school, owner-\noperated cafes{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 14 00}It's the personal service\nand attention that I like,\n{01 00 00 05 00}{04 02 00}.\n{07 00 00}I'm reminded about that\nevery time I walk into one\nof those chain shops...\n...and they don't know me\nlike {07 14 00}they do{01 01 00} at {ff 00 00 06}Brewster{ff 00 00 00}'s,\n{07 00 00}{01 00 00 05 00}{04 02 00}.",
+   "et": ""
+  },
+  {
+   "id": 11,
+   "en": "{07 15 00}The only thing I don't like\nabout this place is they\nwon't make a mochaccino.\n{07 0b 00}What?{01 01 00} You don't know what a\nmochaccino is,\n{01 00 00 05 00}{04 02 00}? {01 01 00}Seriously?\n{07 00 00}It's a cappucino...{01 00 00 0f 00}{07 0d 00}with\nCHOCOLATE!\n\n{07 03 00}Well,{01 00 00 0f 00} {07 14 00}at least that's what \nthe kids are calling it \nthese days, {01 00 00 05 00}{04 02 00}.",
+   "et": ""
+  },
+  {
+   "id": 12,
+   "en": "{07 02 00}Whoa! {01 00 00 05 00}{0b 03 00}{04 02 00}!\n\n\n{07 14 00}This coffee is so strong\nthat the fumes are making\nmy eyes water!",
+   "et": ""
+  },
+  {
+   "id": 13,
+   "en": "{07 0e 00}When I think of myself\nchilling out all afternoon\nin a cafe, I think{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 17 00}Man, I must look cool,\n{01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 14,
+   "en": "{07 15 00}What're you doing here this\nlate in the day?{01 00 00 0f 00}\n\n{07 14 00}I think you're starting to\nunderstand life's simpler\npleasures, {01 00 00 05 00}{04 02 00}.{03 01 00 01}",
+   "et": ""
+  },
+  {
+   "id": 15,
+   "en": "{07 15 00}Guzzling a searing-hot cup\nof coffee so fierce that it\nrumbles your innards{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 17 00}That's what I'm looking\nforward to doing tonight,\n{01 00 00 05 00}{04 02 00}.",
+   "et": ""
+  },
+  {
+   "id": 16,
+   "en": "You know those {01 00 00 05 00}{07 0b 00}cafes where\nonly old ladies hang out\nand just gossip?\n{07 11 00}That totally flies in the\nface of coffee shop \netiquette, {01 00 00 05 00}{04 02 00}.",
+   "et": ""
+  },
+  {
+   "id": 17,
+   "en": "{07 0e 00}As long as the cup of joe\nis bottomless, you ain't got\nnothin' to complain about{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.",
+   "et": ""
+  },
+  {
+   "id": 18,
+   "en": "{07 14 00}It's all thanks to{01 00 00 05 00} Brewster\nthe barista pigeon, \n{01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 19,
+   "en": "{07 1b 00}Ha! {01 00 00 0f 00}That sounded kinda\nspooky right then...",
+   "et": ""
+  },
+  {
+   "id": 20,
+   "en": "{07 0c 00}Yep...{01 00 00 05 00}{07 14 00} That's when you're\nglad that you get some\nwater when you sit down!",
+   "et": ""
+  },
+  {
+   "id": 21,
+   "en": "Coffee's like {04 01 00};{01 00 00 05 00}\nif it isn't bitter,\n{07 0f 00}it's just not coffee.{03 03 00 01}",
+   "et": ""
+  },
+  {
+   "id": 22,
+   "en": "{07 15 00}You better ask him to \npour you a cup of the\nweak stuff, then!\n{06 01 00 18 19 1a}",
+   "et": ""
+  },
+  {
+   "id": 23,
+   "en": "{07 14 00}Ahhh, you're the type to\nsip slowly on a cup of dark\nroast then, {01 00 00 05 00}{04 02 00}.\n{06 01 00 1b 1c 1d}",
+   "et": ""
+  },
+  {
+   "id": 24,
+   "en": "{07 11 00}I don't{01 00 00 05 00} wanna be up all\nnight, {01 00 00 05 00}{04 02 00}. {07 03 00}Just\nmost of it.",
+   "et": ""
+  },
+  {
+   "id": 25,
+   "en": "{07 00 00}Well, you've got to be\nable to taste the faintest\nof flavors. \n{07 14 00}Even in weak or iced \ncoffee, {01 00 00 05 00}{04 02 00}.\n\nWhen you can do that, you'll\nknow you're legit!",
+   "et": ""
+  },
+  {
+   "id": 26,
+   "en": "{07 00 00}This cafe's audacious brew \nis a bit too powerful for a\nchild, {01 00 00 05 00}{04 02 00}.",
+   "et": ""
+  },
+  {
+   "id": 27,
+   "en": "{07 00 00}Can you even believe coffee\ncan have so many different\nflavors and aromas?\n{07 0e 00}How can all that come\nfrom just coffee beans and\nwater? \n{07 19 00}It's pretty amazing.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0f 00}\n{07 14 00}Coffee is fascinating stuff,\n{01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 28,
+   "en": "{07 00 00}Man! {01 01 00}{07 1b 00}You're totally showing\nme up, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 29,
+   "en": "{07 00 00}Ha! {01 01 00}{07 19 00}You're young, but you \nknow what you're doing, \n{04 1f 00}!",
+   "et": ""
+  }
+ ]
+}

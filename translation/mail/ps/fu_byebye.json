@@ -1,0 +1,30 @@
+{
+ "file": "script/ENG/mail/ps/fu_byebye.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "Miss you! -{04 10 00}",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "Your friend, {04 10 00}",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "Good-bye! -{04 10 00}",
+   "et": ""
+  },
+  {
+   "id": 3,
+   "en": "Be well... {04 10 00}",
+   "et": ""
+  },
+  {
+   "id": 4,
+   "en": "Keep smiling! -{04 10 00}",
+   "et": ""
+  }
+ ]
+}

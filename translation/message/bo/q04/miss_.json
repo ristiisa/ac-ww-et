@@ -1,0 +1,30 @@
+{
+ "file": "script/ENG/message/bo/q04/miss_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{01 00 00 0a 00}Hmm{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0f 00} Well, not to be rude,\nbut that's not exactly what\nI was looking for.\n{07 06 00}I'm looking for something{01 00 00 0a 00}\na little more exciting,\n{01 00 00 0a 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 14 00}You know what? {01 00 00 0a 00}I think this\n{0b 02 00}{04 1c 00}\nwould look better{01 00 00 0a 00} on you.\n{07 06 00}I like to show off my belly\nmore.{01 00 00 0a 00} I had to eat a ton of\ncake to get it this big!",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 16 00}Oh, but,{01 00 00 05 00} {04 1f 00},{01 00 00 14 00} this\nis {04 1c 00}.\n\n{07 0d 00}I want something that's\ndaring! {01 00 00 0a 00}Something that'll\nmake people's hearts race!",
+   "et": ""
+  },
+  {
+   "id": 3,
+   "en": "{07 16 00}Hey, {01 00 00 05 00}{04 1f 00}.{01 00 00 14 00} Uh, so it\nlooks like you brought me \n{04 1c 00}.\nThanks, but I'm all set in\nthat department,\n{01 00 00 05 00}{04 02 00}.",
+   "et": ""
+  },
+  {
+   "id": 4,
+   "en": "{07 00 00}{0b 03 00}{04 1c 00},\nhuh.\n\nI've already got one that's\nskintight, so I don't \nneed another, {01 00 00 05 00}{04 02 00}.",
+   "et": ""
+  }
+ ]
+}

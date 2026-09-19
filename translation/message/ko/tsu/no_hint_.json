@@ -1,0 +1,45 @@
+{
+ "file": "script/ENG/message/ko/tsu/no_hint_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "I guess it's cool and all to\ncollect a hoard of sweet\nstuff.\n{07 1b 00}But, no offense, {01 00 00 05 00}that\nwhole greedy lifestyle of\nyours isn't for me.\n{07 16 00}Try going on more walks\nand {01 00 00 05 00}take it easy! Enjoy\nlife, {01 00 00 05 00}{04 02 00}.",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "I bet {01 00 00 05 00}you think I spend all\nmy time wandering around,\n{07 0b 00}don't you, {01 00 00 05 00}{04 02 00}?{02 00 00 03 04}\nPretty much!\nNo! No!",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "Hey, you look like you're\nnot doing anything\nimportant.\nWanna help me fight crime\non my {07 0b 00}patrol route,\n{01 00 00 05 00}{04 02 00}?\n{06 01 00 05 06 07}",
+   "et": ""
+  },
+  {
+   "id": 3,
+   "en": "{07 1b 00}Ugh!{01 00 00 14 00} {0b 03 00}{04 1f 00}, {01 00 00 05 00}you just \ndon't get it, do you? \n{0b 03 00}{01 00 00 05 00}{04 02 00}!\n{07 15 00}I'm protecting {04 03 00}\nfrom unsavory characters!{01 00 00 05 00}\nI'm on patrol!\nWhen I see evildoers, I lay\ninto 'em with a barrage of\nwry insults and sass!\n{07 00 00}Sign up now and I'll toss in\na free membership to the\n{04 01 00} Security Force!\n{07 15 00}Maybe you should think\nabout helping out a little\nsometime, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 4,
+   "en": "{07 0b 00}Are you sure?{01 00 00 14 00}{07 00 00} .{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}All right \nthen, soldier. As you were, \n{01 00 00 05 00}{04 02 00}.",
+   "et": ""
+  },
+  {
+   "id": 5,
+   "en": "{07 00 00}I call it patrolling,{01 00 00 05 00}\nbut there's more to it than\nwalking around, {01 00 00 05 00}{04 02 00}.\n{07 0e 00}You've gotta pull weeds,{01 00 00 0f 00}\npick up trash.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 14 00}and maybe\neven hassle some evildoers!",
+   "et": ""
+  },
+  {
+   "id": 6,
+   "en": "{07 16 00}Hey, slacker!{01 00 00 0f 00}\nDon't just stand there!{01 00 00 05 00}\nFollow me!",
+   "et": ""
+  },
+  {
+   "id": 7,
+   "en": "{07 14 00}You might even find{01 00 00 05 00} a\n{04 15 00} that\nsomeone, you know...{01 00 00 05 00}lost.",
+   "et": ""
+  }
+ ]
+}

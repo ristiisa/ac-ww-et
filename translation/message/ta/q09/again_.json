@@ -1,0 +1,20 @@
+{
+ "file": "script/ENG/message/ta/q09/again_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 1b 00}I'd almost forgotten that \nwe were going to play\nhide-and-seek today!\nI was so overcome by my \ndesire to {04 22 00}\nthat I forgot to invite you!",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 15 00}Ugh!{01 00 00 14 00} A day can go by so\nquickly, you barely even\nnotice until it's night!\n{07 16 00}I was hoping to play\nhide-and-seek with you\ntoday,\n{07 1b 00}but it got dark before I\nhad a chance to ask,\n{01 00 00 0a 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 0e 00}Playing hide-and-seek\nat night sounds fun,\n\n{07 1b 00}but I think it's almost\ntime for you to go to bed.\n\n{07 14 00}I'll ask you next time,{01 00 00 05 00}\nwhen it's bright out,\n{01 00 00 0a 00}{04 02 00}.",
+   "et": ""
+  }
+ ]
+}

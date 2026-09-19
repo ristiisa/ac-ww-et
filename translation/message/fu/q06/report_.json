@@ -1,0 +1,20 @@
+{
+ "file": "script/ENG/message/fu/q06/report_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 14 00}You did it!{01 00 00 05 00} You delivered it\non time and unbroken and\neverything!\nGood job, {01 00 00 05 00}{04 02 00}! {01 00 00 0a 00}{07 0b 00}So,\nhow was {ff 00 00 06}{04 10 00}{ff 00 00 00}?",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 14 00}Hey, {01 00 00 0a 00}you delivered it just\nlike you said you would,\n{01 00 00 05 00}{04 02 00}!\n{07 0b 00}So how was {ff 00 00 06}{04 10 00}{ff 00 00 00}?",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 14 00}Wow!{01 00 00 05 00} Nice work!{01 00 00 05 00} {07 00 00}{07 0b 00}Was\n{ff 00 00 06}{04 10 00} {ff 00 00 00}happy to get\nthe present?",
+   "et": ""
+  }
+ ]
+}

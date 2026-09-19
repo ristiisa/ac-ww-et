@@ -1,0 +1,20 @@
+{
+ "file": "script/ENG/message/bo/q11/trade2_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 04 00}Which one?{01 00 00 0a 00} Just {ff 00 00 01}tap{ff 00 00 00} one to\nlet me know, {01 00 00 05 00}{04 02 00}.",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 04 00}Which one?{01 00 00 0a 00} Just{01 00 00 05 00} grab hold\nof the one {07 14 00}you like!",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 14 00}Hey, all right!{01 00 00 05 00} Which one,\nnow? {01 01 00}{07 17 00}Just grab the one you\nlike to let me know!",
+   "et": ""
+  }
+ ]
+}

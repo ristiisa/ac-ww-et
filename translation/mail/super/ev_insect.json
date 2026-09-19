@@ -1,0 +1,35 @@
+{
+ "file": "script/ENG/mail/super/ev_insect.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "The results are in!",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "We have the results!",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "The outcome is clear!",
+   "et": ""
+  },
+  {
+   "id": 3,
+   "en": "Bug-Off results!",
+   "et": ""
+  },
+  {
+   "id": 4,
+   "en": "The final outcome!",
+   "et": ""
+  },
+  {
+   "id": 5,
+   "en": "In conclusion...",
+   "et": ""
+  }
+ ]
+}

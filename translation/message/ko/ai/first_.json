@@ -1,0 +1,65 @@
+{
+ "file": "script/ENG/message/ko/ai/first_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 12 00}Hey!{01 00 00 0f 00} Why are you yelling\nthis early in the morning?{01 00 00 0a 00}\nPipe down, little human.\n{07 0b 00}Wait a sec.{01 00 00 14 00} Who are you?\nI don't know you,\n{01 00 00 05 00}{04 02 00}.\n{07 00 00}I'm {04 01 00}.{01 01 00} I like{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\nWell,{01 00 00 0f 00} not much, but I like\nto {04 22 00}.\n{07 14 00}It's{01 00 00 05 00} nice to meet you. {01 00 00 0f 00}\nI guess. {01 00 00 05 00}{0b 03 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 18 00}Whoa now!{01 00 00 14 00} Man.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} {07 01 00}Don't go\nyellin' in my ear, 'cause I'm\nRIGHT HERE!{01 00 00 05 00} Sheesh.\n{07 0b 00}What?{01 00 00 14 00} Oh, yeah. Who are\nyou, anyway?{01 00 00 14 00} {07 00 00}{0b 03 00}{04 1f 00}?\nIt's, {01 00 00 05 00}uh, {01 00 00 05 00}nice to meet you.{01 00 00 14 00}\nI'm {04 01 00}, and my\nsign is {04 0f 00}.{01 00 00 0a 00}{07 00 00} Not\nthat I believe that tripe.\n{01 00 00 0a 00}{07 01 00}What!{01 00 00 14 00} What's your problem!{01 00 00 14 00}\nFine! You know what?{01 00 00 05 00} I'm\noutta here! {01 00 00 05 00}{0b 03 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 01 00}Why, oh, why{01 00 00 14 00} do you insist{01 00 00 05 00}\non making so much noise\nthis early, {01 00 00 05 00}{04 02 00}!\n{07 0b 00}Huh?{01 00 00 05 00} Who are you?{01 00 00 14 00} H-have\nwe met before?\n\n{07 00 00}Oh.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} {0b 03 00}{04 1f 00}, eh?{01 00 00 14 00}\n{07 14 00}I'm kind of sorry for\nyelling at you.\nMy name is {04 01 00}, and\nI like to {04 22 00}!{01 00 00 14 00}\nIt's{01 00 00 05 00} nice to meet you.",
+   "et": ""
+  },
+  {
+   "id": 3,
+   "en": "Whoa!{01 00 00 14 00} {07 0b 00}So,{01 00 00 05 00} they call you.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n{07 14 00}{04 1f 00}, huh? That's an,\nuh, interesting name.\nMy name is {04 01 00}.\nNice to meet you. Just a\nword of warning, OK?\n{07 11 00}If you come at me without\nwarning, you might get\nburned, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 4,
+   "en": "{07 15 00}What's {01 00 00 05 00}up?!{01 00 00 14 00} Can I help you\nwith somethin',{07 01 00}{01 00 00 05 00} or what?\nSpeak up!\n{07 0b 00}{0b 03 00}{04 1f 00}?{01 00 00 0f 00} Uh, OK.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} I've\nnever heard that one\nbefore, but whatever.\nSo, {01 00 00 05 00}you came over to\nintroduce yourself?{07 00 00} {07 0a 00}Wow,\nthat was so considerate!\n{07 00 00}They call me {04 01 00}.{01 00 00 14 00}\nLemme know if I can help.{01 00 00 14 00}\n{07 03 00}Har{01 00 00 05 00} har{01 00 00 05 00} har{01 00 00 05 00} har!",
+   "et": ""
+  },
+  {
+   "id": 5,
+   "en": "{07 01 00}Hey, {01 00 00 05 00}what's{01 00 00 0f 00} the big idea?!{01 00 00 0f 00}\nI haven't seen your mug\nbefore, {01 00 00 05 00}{04 02 00}!\n{07 15 00}What're you doing, loitering\naround here,{01 00 00 05 00} {04 02 00}?\nDo you have business?\n{07 07 00}Sorry! I'm kinda excitable.{01 00 00 0f 00}\nYou're {04 1f 00}?{01 00 00 0f 00} Well,\nnice to meet you. {01 00 00 0f 00}{07 00 00}\n{07 17 00}Sorry! {01 00 00 0f 00}Sorry!{01 00 00 0f 00} Did I really\nscare you?{01 00 00 14 00} I was just\njoking, seriously!\n{07 00 00}Anyway, I'm {04 01 00}, and\nI like to {04 22 00}.{01 01 00}\n{07 14 00}We're cool, {01 00 00 05 00}right?",
+   "et": ""
+  },
+  {
+   "id": 6,
+   "en": "It's still early,{01 00 00 05 00} but it sure\nis dark, {01 00 00 05 00}{04 02 00}!\n\n{07 11 00}It's pretty brave of you to\napproach me now.{01 00 00 05 00} I can be\npret-ty intimidating.\n{07 00 00}{0b 03 00}{04 1f 00}, huh? {01 00 00 05 00}My name\nis {04 01 00}, and I\nlike to {04 22 00}.\n{07 14 00}It's a morning-people world,\nso we night owls gotta\nstick together!",
+   "et": ""
+  },
+  {
+   "id": 7,
+   "en": "Whoa! {01 00 00 14 00}Who's that?!{01 00 00 05 00}\nWho are you?!\n\nOh.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 0b 00}{04 1f 00}? I haven't\nheard that one before,\n{01 00 00 05 00}{04 02 00}.\n{07 00 00}Well, {01 00 00 05 00}since you're here,{01 00 00 14 00} I'm\ngonna tell you something,{01 00 00 05 00}\nso listen up!\nI'm {04 01 00}, and I\nlove to {04 22 00}.{01 00 00 05 00}\n{07 03 00}Got that, {01 00 00 05 00}{04 02 00}?",
+   "et": ""
+  },
+  {
+   "id": 8,
+   "en": "{07 11 00}You there! {01 00 00 0f 00}You with the\nface!{01 00 00 14 00} I haven't seen you\nbefore.{01 00 00 14 00} Who are you?{07 00 00}\n{07 0b 00}{0b 03 00}{04 1f 00}?{01 01 00} OK{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}. {07 00 00}I haven't\nmet you before. {01 00 00 05 00}Next time\nwe get together...\n...we should do something.{01 01 00}\n{07 11 00}Like drink\n{04 18 00}!",
+   "et": ""
+  },
+  {
+   "id": 9,
+   "en": "{07 02 00}Aaack!{01 00 00 14 00} {07 07 00}No, {01 00 00 05 00}it's not like I\nwas scared or anything.{01 00 00 0a 00} You\ndon't scare me!{07 00 00}\nYou just shouldn't sneak up\non folks like that!{07 01 00} Got it,\nCaptain Dense-o?!{01 00 00 14 00}\n{07 00 00}So, {01 00 00 05 00}what do you want!?{01 01 00}\n{07 0b 00}What?{01 00 00 14 00} You wanna be friends?\nUh.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 03 00}Har {01 00 00 05 00}har{01 00 00 05 00} HAR!{01 00 00 14 00} {07 00 00}You're weird,{01 00 00 05 00}\nlike me! {07 14 00}I'm {04 01 00}.{01 00 00 14 00}\nNice to meet you!",
+   "et": ""
+  },
+  {
+   "id": 10,
+   "en": "{07 04 00}Whoa! {01 00 00 0f 00}No worries!{01 00 00 14 00} {07 00 00}I'm not a\nfreak or anything,\n{01 00 00 05 00}{04 02 00}!\nMy name is {04 01 00}, and\nmy sign is {04 0f 00}.{01 00 00 05 00}\nAnd you are{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.?\n{07 19 00}Ah, so you're{01 00 00 0f 00} {04 1f 00}?\n{01 01 00}{07 14 00}Well, {01 00 00 0f 00}we night owls ought\nto try to get along, eh!?",
+   "et": ""
+  },
+  {
+   "id": 11,
+   "en": "{07 18 00}What!{01 00 00 14 00} What is it? What do\nyou want?!{07 00 00} You're lucky I'm\nin a good mood!\nNormally, I would put such\na hurt on you for bugging\nme, {01 00 00 05 00}{04 02 00}.\n{07 0a 00}Yeah, it's been a good day,\nso this time, you're{01 00 00 05 00} off\nthe hook, {01 00 00 05 00}{04 02 00}.\n{07 00 00}I'm {04 01 00}, and my\nsign is{01 00 00 05 00} {04 0f 00}.{01 00 00 14 00} {07 14 00}Nice\nto meet you!",
+   "et": ""
+  }
+ ]
+}

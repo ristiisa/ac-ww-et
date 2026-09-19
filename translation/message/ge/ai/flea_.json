@@ -1,0 +1,20 @@
+{
+ "file": "script/ENG/message/ge/ai/flea_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 02 00}EEEEEK!{01 00 00 14 00} {07 06 00}I-{01 00 00 05 00}I have no idea\nwhat's going on! NONE!",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 04 00}EWWWWW!{01 00 00 0a 00} So that's why I was\nall itchy! Ick! How creepy!\n\n{07 11 00}{0b 03 00}{04 1f 00}, {01 00 00 0a 00}promise me you\nwon't say a word to anyone,\nOK? {01 00 00 05 00}{0b 03 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 02 00}OH MY GOSH! This can't be\nhappening! {01 00 00 05 00}It's gotta be\na horrible mistake!\n{07 06 00}{01 00 00 0a 00}I don't know how this\nhappened! {01 00 00 14 00}This has nothing\nto do with me!",
+   "et": ""
+  }
+ ]
+}

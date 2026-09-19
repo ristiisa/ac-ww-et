@@ -1,0 +1,20 @@
+{
+ "file": "script/ENG/message/ha/q09/req_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 00 00}You know {01 00 00 05 00}that I'm known as\nthe hide-and-seek master\nof {04 03 00}, {07 0b 00}right?\n{07 14 00}Right, {01 00 00 05 00}so as a part of my\ntraining, I want you to play\nhide-and-seek with me!\nIf you beat me, which is\nreally unlikely, I'll give you\nsomething, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 14 00}{0b 03 00}{ff 00 00 05}{04 1f 00}{ff 00 00 00}!{01 00 00 0a 00} It is so ON!{01 00 00 0a 00}\n{07 15 00}Hide-{01 00 00 05 00}and-{01 00 00 05 00}seek, {01 00 00 05 00}{04 02 00}!\n\n{07 16 00}If you win, I'll hook you up\nwith something awesome!{01 00 00 14 00}\n{07 06 00}OK?{01 00 00 0a 00} You in?",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 15 00}{0b 03 00}{ff 00 00 05}{04 1f 00}{ff 00 00 00}! {01 00 00 05 00}You're MINE!{01 00 00 14 00}\nI'm gonna destroy you at\nhide-and-seek, {01 00 00 05 00}{04 02 00}!\n{07 00 00}You won't win, but if you\ndo, you'll get a prize!{01 01 00}\n{07 06 00}So {01 00 00 05 00}c'mon!",
+   "et": ""
+  }
+ ]
+}

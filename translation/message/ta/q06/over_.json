@@ -1,0 +1,20 @@
+{
+ "file": "script/ENG/message/ta/q06/over_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 00 00}Um, I hate to be a nag{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 14 00}\n{07 09 00}But isn't{01 00 00 0a 00} your time up,\n{01 00 00 0a 00}{04 02 00}?\n{01 00 00 14 00}{07 1c 00}{01 00 00 0a 00}I guess I was asking too\nmuch from you. {01 01 00}{07 00 00}Just forget\nit! {01 00 00 05 00}I'll do it myself.\n{07 00 00}Well?! {01 01 00}{07 01 00}Give me back my\npresent, already!",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 04 00}{01 00 00 05 00}Hey, by the way,{01 00 00 0a 00} did you\nforget our agreement?{01 01 00} {07 15 00}Well,\nyour time's up!\n{07 1c 00}Was it just too heavy for\nyou, {04 1f 00}?{01 01 00}\n{07 09 00}You're really{01 00 00 0a 00}.{01 00 00 0a 00}.{01 00 00 0a 00}.weak.\n{07 16 00}This is awkward, but{01 00 00 0a 00} I'm\ngoing to take it to\n{ff 00 00 06}{04 10 00}{ff 00 00 00} myself.\n{07 01 00}So give it back, already!",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 15 00}I have to ask...{01 00 00 14 00} Do you still\nhave {01 00 00 14 00}the present for\n{ff 00 00 06}{04 10 00}{ff 00 00 00}?{01 00 00 0a 00}\n{07 1b 00}Uh.{01 00 00 05 00}.{01 00 00 05 00}. {0b 03 00}{04 1f 00},{01 00 00 14 00} {01 00 00 05 00}did you\nnotice the deadline passed,\nlike, a million years ago?!\n{07 16 00}Forget it, {01 00 00 0a 00}I'll do it!{01 00 00 0a 00}\nI'll take it myself!\n\n{07 00 00}So give me that thing back,\n{01 00 00 0a 00}{04 02 00}!",
+   "et": ""
+  }
+ ]
+}

@@ -1,0 +1,20 @@
+{
+ "file": "script/ENG/message/ta/q06/payback_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 00 00}Oh{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00} It's not your fault, \n{04 1f 00}.\n\n{07 16 00}It's all my fault{01 00 00 0a 00}\nfor not thinking it would\nturn out like this.",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 00 00}I'm sorry.{01 01 00} {07 16 00}It was something\nI should have taken care of\nmyself, {01 00 00 0a 00}{04 02 00}.",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 00 00}I wonder if {ff 00 00 06}{04 10 00}{ff 00 00 00}\nis upset{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}",
+   "et": ""
+  }
+ ]
+}

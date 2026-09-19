@@ -1,0 +1,45 @@
+{
+ "file": "script/ENG/string/st_boom.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "catch bugs",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "fish",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "dig up fossils",
+   "et": ""
+  },
+  {
+   "id": 3,
+   "en": "shop for clothes",
+   "et": ""
+  },
+  {
+   "id": 4,
+   "en": "collect furniture",
+   "et": ""
+  },
+  {
+   "id": 5,
+   "en": "garden",
+   "et": ""
+  },
+  {
+   "id": 6,
+   "en": "collect shells",
+   "et": ""
+  },
+  {
+   "id": 7,
+   "en": "walk around",
+   "et": ""
+  }
+ ]
+}

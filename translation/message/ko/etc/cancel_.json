@@ -1,0 +1,20 @@
+{
+ "file": "script/ENG/message/ko/etc/cancel_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 00 00}What?!?{07 05 00}{01 00 00 05 00} NOBODY does that to\nme and gets away with it,{01 00 00 05 00}\n{04 02 00}!{01 00 00 05 00} I mean it!",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 00 00}Oh,{01 00 00 05 00} you like to sass, eh?{01 00 00 05 00}\nDon't make me break you,\n{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 00 00}Pffft!{01 00 00 0f 00} You've got some\nkind of nerve,{01 00 00 05 00} {04 02 00}.\nI'll let it slide...{01 00 00 0a 00}this time.",
+   "et": ""
+  }
+ ]
+}

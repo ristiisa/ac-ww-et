@@ -1,0 +1,35 @@
+{
+ "file": "script/ENG/message/bo/tsu/fi_hint_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 00 00}When I spend a day in the\nsun{01 00 00 0a 00} thinking about fishing,\n{07 14 00}I feel so {04 14 00}.\n{07 00 00}My recommendation for this\nweek is{01 00 00 0a 00} the\n{0b 02 00}{04 1a 00}.\n{07 14 00}Why don't you hit the river\n{04 10 00}? They'll\nbe jumpin' there!",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 0b 00}{01 00 00 05 00}{0b 03 00}{04 1f 00}?{01 00 00 0a 00} Do you fish,\ntoo? {07 00 00}Well, I dreamt about\nfish again last night.{01 00 00 0a 00}\n{07 14 00}I recommend trying\n{04 10 00},\n{01 00 00 0a 00}{04 02 00}!\n{07 0d 00}You might see a gigantic{01 00 00 05 00}\n{0b 02 00}{04 1a 00}!\nIt could happen!",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 00 00}If you want to be a hero,\ntake your fishing rod and\nhead for the lake!\n{07 0b 00}{01 00 00 05 00}At this time of year,\nwould you be fishing\n{04 10 00}?\n{07 14 00}That's the way to do it!\nYou'll catch a ton of\n{0b 02 00}{04 1a 00}!",
+   "et": ""
+  },
+  {
+   "id": 3,
+   "en": "{07 0e 00}{01 00 00 0a 00}Some fish hang out at the\nriver around now. Like\n{0b 02 00}{04 1a 00}.{01 00 00 0a 00}\n{01 00 00 0a 00}{07 1b 00}{01 00 00 05 00}But the fish have been\nreally smart lately...\n\n{07 16 00}{01 00 00 05 00}It's like a contest{01 00 00 0a 00} between\nme and the fish to see\nwho's dumber,{01 00 00 0a 00} {04 02 00}.",
+   "et": ""
+  },
+  {
+   "id": 4,
+   "en": "{07 14 00}Hey,{01 00 00 05 00} {04 1f 00}!{01 00 00 0a 00} It's a\ngreat day for sea fishing,\ndon't you think?\n{07 00 00}In fact,{01 00 00 0a 00} I think\n{0b 02 00}{04 1a 00}\nare in season now!",
+   "et": ""
+  },
+  {
+   "id": 5,
+   "en": "{07 04 00}{0b 03 00}{04 1f 00}!{01 01 00}{07 00 00} If you like\nfishing,{01 00 00 05 00} then at this time\nof year{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n{07 0d 00}You oughta be doing some\n{0b 02 00}{04 1a 00}\nfishing in the lake!\n{07 14 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}Huh huh huh.{01 00 00 14 00} Let's do it\nin style!{01 00 00 0a 00} That's what I say!\n\n{07 13 00}Wow.{01 00 00 05 00} I sounded so cool just\nnow,{01 00 00 0a 00} {04 02 00}.",
+   "et": ""
+  }
+ ]
+}

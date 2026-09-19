@@ -1,0 +1,20 @@
+{
+ "file": "script/ENG/message/ko/q07/scold_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 15 00}Why?{01 00 00 05 00} Why?!{01 00 00 05 00} WHY?!\nOh, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 16 00}I never should have asked\na clown like you to help{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 01 00}\n{07 15 00}Ugh! {01 00 00 05 00}Idiot! {01 00 00 05 00}{0b 03 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 15 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}Try not to screw up so\nbadly next time,\n{01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  }
+ ]
+}

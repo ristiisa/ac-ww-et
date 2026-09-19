@@ -1,0 +1,65 @@
+{
+ "file": "script/ENG/message/fu/ai/joy_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 14 00}Isn't it such a beautiful\nmorning, {01 00 00 05 00}{04 02 00}?",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 14 00}Oh, {01 00 00 05 00}{04 1f 00}! Hi!",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 0a 00}Good morning, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 3,
+   "en": "{07 14 00}Oh, hi,{01 00 00 05 00} {04 1f 00}!{01 00 00 05 00}\n{01 00 00 05 00}{0b 03 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 4,
+   "en": "{07 14 00}La lala{01 00 00 05 00} lala.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{00 01 00}\nOh, {01 00 00 05 00}{04 1f 00}! Well, hi!",
+   "et": ""
+  },
+  {
+   "id": 5,
+   "en": "{07 14 00}Hey there! How are you\ndoing today, {01 00 00 05 00}{04 1f 00}?",
+   "et": ""
+  },
+  {
+   "id": 6,
+   "en": "{07 14 00}Oh, {01 00 00 05 00}{04 1f 00}!\nGood evening, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 7,
+   "en": "{07 14 00}Can you believe it's only\n{04 08 00} o'clock, {01 00 00 05 00}{04 02 00}?",
+   "et": ""
+  },
+  {
+   "id": 8,
+   "en": "{07 0a 00}Isn't it such a wonderful\nevening,{01 00 00 05 00} {04 1f 00}?",
+   "et": ""
+  },
+  {
+   "id": 9,
+   "en": "{07 14 00}I love staying up late. It's\nso thrilling, walking alone\nin the dark, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 10,
+   "en": "{07 0a 00}What a day! {01 00 00 05 00}I'm so glad it's\nalmost over.{01 00 00 0a 00} Oh, and good \nevening, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 11,
+   "en": "{07 0d 00}You're still up? Drink too\nmuch coffee,{01 00 00 05 00} {04 02 00}?\nImpressive,{01 00 00 0a 00} {04 1f 00}!",
+   "et": ""
+  }
+ ]
+}

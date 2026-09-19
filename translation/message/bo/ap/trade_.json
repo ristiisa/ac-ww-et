@@ -1,0 +1,90 @@
+{
+ "file": "script/ENG/message/bo/ap/trade_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 14 00}{0b 03 00}{04 1f 00}, do you have\n{04 1a 00}?{01 01 00}\nYou do!?\n{07 16 00}That's so cool{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00}\n{07 0b 00}You wanna trade for my\n{0b 02 00}{04 1b 00}?{02 01 00 03 04 05}\nSure!\nNo thanks!\nIf only I could!",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 0e 00}Hey!{01 00 00 0a 00} HEY!{01 00 00 0a 00} You have\n{04 1a 00}!\nThat's so cool!\n{07 06 00}Please!{01 00 00 14 00} You have to trade\nit to me! I'll give you my\n{0b 02 00}{04 1b 00}!{02 00 00 07 08}\nOK!\nNo way!",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 04 00}{0b 03 00}{04 1f 00}! Where did you\nget your{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}your{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n{0b 02 00}{04 1a 00}?\n{07 06 00}Talk about nice!{01 01 00} {07 16 00}Would you\ntrade it to me for my\n{0b 02 00}{04 1b 00}?{01 00 00 0a 00}{02 00 00 09 0a}\nOK!\nNo way!",
+   "et": ""
+  },
+  {
+   "id": 3,
+   "en": "{07 04 00}REALLY?!{01 00 00 14 00} Wow!{07 0a 00} What a great\nday this is turning out to\nbe, {01 00 00 0a 00}{04 02 00}!\n{07 14 00}I've been looking for{01 00 00 05 00}\n{04 1a 00}{01 00 00 0a 00} for\nforever!",
+   "et": ""
+  },
+  {
+   "id": 4,
+   "en": "{07 16 00}OK{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00}{07 1c 00} I thought fate brought\nus together today.{01 00 00 0a 00} Guess I\nwas wrong, {04 02 00}.",
+   "et": ""
+  },
+  {
+   "id": 5,
+   "en": "{07 16 00}That's weird,{01 00 00 0a 00} {04 02 00}.{01 00 00 14 00}\n{07 0b 00}Do you smell\n{04 1a 00}?",
+   "et": ""
+  },
+  {
+   "id": 6,
+   "en": "{07 14 00}Treat it like you would your\nbest friend, {01 00 00 0a 00}me. Huh huh!",
+   "et": ""
+  },
+  {
+   "id": 7,
+   "en": "{07 0a 00}Yay! Hooray!{01 01 00} OK, here's your\nalmost-brand-new\n{0b 02 00}{04 1b 00}!",
+   "et": ""
+  },
+  {
+   "id": 8,
+   "en": "{07 15 00}What? Why not?!{01 00 00 14 00} And why do\nyou have to be so aggro\nabout it, {01 00 00 0a 00}{04 02 00}?",
+   "et": ""
+  },
+  {
+   "id": 9,
+   "en": "{06 01 00 0b 0c 0d}",
+   "et": ""
+  },
+  {
+   "id": 10,
+   "en": "{07 02 00}Gosh! You don't have to be\nso rude about it,{01 00 00 0a 00}\n{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 11,
+   "en": "{07 0a 00}Yesss! {01 00 00 05 00}{0b 03 00}{04 02 00}! Now I'll\nbe the coolest cat in town!\n\n{07 00 00}But enough chitchat.{07 14 00} Here\nyou go!",
+   "et": ""
+  },
+  {
+   "id": 12,
+   "en": "{07 14 00}Whoa! {01 00 00 05 00}All right!{01 00 00 14 00}{07 00 00} I can't wait\nto go brag about this to\n{04 0c 00},{01 00 00 0a 00} {04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 13,
+   "en": "{07 0b 00}Huh?{01 00 00 05 00} Are you sure? {01 00 00 14 00}{07 00 00}These\nthings are pretty hard to\ncome by.\n{07 14 00}{0b 03 00}{04 1f 00}, you show your\ngenerous side at the most\ninteresting times!",
+   "et": ""
+  },
+  {
+   "id": 14,
+   "en": "{07 14 00}Thanks!{01 00 00 0a 00} I'll take great care\nof your beloved treasure,\n{01 00 00 0a 00}{04 02 00}.",
+   "et": ""
+  },
+  {
+   "id": 15,
+   "en": "{07 14 00}{0b 03 00}{04 1f 00},{01 00 00 0f 00} thanks a\nbunch,{01 00 00 0a 00} {04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 16,
+   "en": "{07 0d 00}Huh huh huh!{01 00 00 0a 00} You're more\ngenerous than {ff 00 00 06}Tom Nook{ff 00 00 00},{01 00 00 0a 00}\n{04 02 00}.",
+   "et": ""
+  }
+ ]
+}

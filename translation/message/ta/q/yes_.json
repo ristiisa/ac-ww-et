@@ -1,0 +1,20 @@
+{
+ "file": "script/ENG/message/ta/q/yes_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 00 00}OK, {04 1f 00}!{01 00 00 14 00} I'm\ncounting on you, so you\nbetter not mess up!\n{07 14 00}Please deliver it soon,\n{01 00 00 0a 00}{04 02 00}.",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 00 00}OK then.{01 01 00} {07 14 00}Please take care, \n{01 00 00 0a 00}{04 02 00}.",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 00 00}Good answer!{01 01 00} {07 14 00}I knew you'd\nsay yes, {01 00 00 0a 00}{04 02 00}!",
+   "et": ""
+  }
+ ]
+}

@@ -1,0 +1,45 @@
+{
+ "file": "script/ENG/message/ta/ev/birth_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 14 00}Oh, {04 1f 00}!",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 00 00}Today's your birthday, \nright?! {01 00 00 0a 00}Of course I\nremembered!\n{07 19 00}To celebrate another year\nof your sunshine presence\non this world,{07 14 00}\nI brought you a little\npresent, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 0b 00}Don't you just love it?{01 01 00}\n{07 00 00}Doesn't it just scream,\n{01 08 00}\"{0b 03 00}{04 01 00}!\"",
+   "et": ""
+  },
+  {
+   "id": 3,
+   "en": "{07 14 00}Yay!{01 00 00 0a 00} I'm so happy that you\nlike it, {01 00 00 0a 00}{04 02 00}.\n\nI hope you'll remember that\nI did this for you, \n{04 1f 00}!",
+   "et": ""
+  },
+  {
+   "id": 4,
+   "en": "{07 00 00}Hmm.{01 00 00 0a 00} {07 09 00}I thought you might\nsay something like that. {07 00 00}I{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}\n\nNo, {01 00 00 0a 00}no. {01 00 00 0a 00}My feelings aren't {01 00 00 0a 00}\nhurt or anything. No.{01 01 00}\nGood-bye.",
+   "et": ""
+  },
+  {
+   "id": 5,
+   "en": "{07 00 00}{0b 03 00}{ff 00 00 06}{04 0f 00}{ff 00 00 00},",
+   "et": ""
+  },
+  {
+   "id": 6,
+   "en": "{0b 03 00}{ff 00 00 06}{04 0f 00} {ff 00 00 00}and I, we",
+   "et": ""
+  },
+  {
+   "id": 7,
+   "en": "{07 14 00}picked this present out\ntogether, {01 00 00 05 00}{04 02 00}.",
+   "et": ""
+  }
+ ]
+}

@@ -1,0 +1,35 @@
+{
+ "file": "script/ENG/message/ha/ap/nickn_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 14 00}Check it out, {ff 00 00 05}{04 1f 00}{ff 00 00 00}!{01 00 00 0a 00}\nI came up with a primo\nnickname for you!\n{07 0b 00}Don't you wanna hear it,\n{01 00 00 05 00}{04 02 00}?",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 16 00}HEY!{01 00 00 0a 00} I burned some SERIOUS\nbrain cells coming up with\nthis nickname{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 15 00}You stink, {01 00 00 05 00}{04 02 00}!{03 02 00 01}",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 15 00}Here it comes{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n{07 14 00}\"{ff 00 00 02}{0b 03 00}{04 0f 00}{ff 00 00 00}\"!{01 01 00}\nSee?{01 00 00 05 00} Killer, huh?",
+   "et": ""
+  },
+  {
+   "id": 3,
+   "en": "{07 02 00}What?!{01 00 00 05 00} You don't LIKE it?!{01 00 00 05 00}\nAre you CRAZY,\n{04 02 00}?\n{07 15 00}Fine! {01 00 00 05 00}I'd like to see YOU\ncome up with a better one\nwhile doing squat-leaps!",
+   "et": ""
+  },
+  {
+   "id": 4,
+   "en": "{07 00 00}Hmmmmmmmmmmmmmm{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 01 00}\n{07 0b 00}\"{ff 00 00 02}{0b 03 00}{04 0f 00}{ff 00 00 00},\" huh?{01 00 00 05 00}\nYa think, {01 00 00 05 00}{04 02 00}?",
+   "et": ""
+  },
+  {
+   "id": 5,
+   "en": "{07 14 00}OK, {01 00 00 05 00}then from this moment\non, you're {ff 00 00 02}{04 1f 00}{ff 00 00 00}!\n\n{07 00 00}You gotta live up to that\nname, though, so remember\nto live large, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  }
+ ]
+}

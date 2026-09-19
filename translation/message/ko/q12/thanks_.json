@@ -1,0 +1,20 @@
+{
+ "file": "script/ENG/message/ko/q12/thanks_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 00 00}But anyway, {04 1f 00},\n{07 16 00}I really want to thank you\nfor lookin' out for me.\n{07 08 00}I know this might seem a \nlittle extreme, but I owe\nyou big-time, {01 00 00 05 00}{04 02 00}!\n{07 17 00}I got a little delirious\nthere for a while. I hope\nI didn't weird you out.\n{07 14 00}I'm gonna give you a little\nsomething to show you how\nmuch I appreciate it!",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 14 00}Listen up, {01 00 00 05 00}{04 1f 00}!{01 00 00 0f 00}\n{07 0a 00}I'm {01 00 00 05 00}feelin' great, \n{01 00 00 05 00}{04 02 00}!\n{07 00 00}Thanks for watchin' my back\nwhen I was down.\n\n{07 17 00}I went a little delirious\nthere. I hope I didn't say\nanything too weird.\n{07 0d 00}Anyway, I'm back and\nbetter than ever.",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 14 00}{0b 03 00}{04 1f 00}! Thanks to you,\nI'm feeling way better!\n\n{07 08 00}You really reminded me \nof how great friends are{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.\n\n{07 00 00}I've gotta do something \nto thank you for nursin'\nme back to my cranky self.",
+   "et": ""
+  }
+ ]
+}

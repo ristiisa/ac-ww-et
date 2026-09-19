@@ -1,0 +1,20 @@
+{
+ "file": "script/ENG/message/fu/q02/req1_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 00 00}I remember going to an\naquarium once when I was\nyoung, {01 00 00 05 00}{04 02 00}.\n{07 13 00}It's my fondest memory.{01 00 00 05 00}\nIn fact, I'm thinking of\nmaking my room into one!\n{07 0e 00}The question is.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}how to do\nit? {07 14 00}You could help find me\n{04 1a 00}!\n{07 00 00}{0b 03 00}{04 1f 00},{01 00 00 05 00} if you see\none and you somehow catch\nit,{01 00 00 05 00} {07 0b 00}will you bring it to me?\n{07 00 00}In fact, let's make a race\nof it! {07 0d 00}We'll see who can\ncatch one the fastest!",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 0e 00}Hm.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0f 00} {07 00 00}I don't know if you\nkeep up on the latest\nfishing news, {01 00 00 05 00}{04 02 00},\nbut this is the perfect\ntime of year for catching\n{04 1a 00}.\n{07 0c 00}Hey, I've got an idea!{01 00 00 05 00}\n{07 0b 00}{0b 03 00}{04 1f 00},{01 00 00 05 00} want to see\nwho can catch one first?\n{07 14 00}I'll even give you a prize\nif you beat me to it!",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 0b 00}Do you keep up with fish\nfashion, {01 00 00 05 00}{04 1f 00}?{01 00 00 0f 00}\n\n{07 00 00}If you don't, {07 14 00}the must-\nhave fish right now is the\n{0b 02 00}{04 1a 00}.\n{07 15 00}I am NOT missing out on\nthe hot fish this year! I'm\nSICK of being out of style!\n{07 00 00}Here's the deal. You and I\nrace to see who can catch\n{04 1a 00}.\nIf you catch one first, I'll\ngive you a prize. {01 00 00 05 00}{07 0b 00}Does that\nsound like a good deal?",
+   "et": ""
+  }
+ ]
+}

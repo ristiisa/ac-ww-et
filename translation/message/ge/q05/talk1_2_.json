@@ -1,0 +1,20 @@
+{
+ "file": "script/ENG/message/ge/q05/talk1_2_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 14 00}Getting that would be, like,\nthe greatest event in\nhistory, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 15 00}Aim as low as possible...{01 00 00 0a 00}\nThat's my motto...{01 00 00 0a 00}{07 00 00}{07 0a 00} But I\nknow YOU can do it!!",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 14 00}The better my house looks,{01 00 00 05 00}\nthe more people will like\nme, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  }
+ ]
+}

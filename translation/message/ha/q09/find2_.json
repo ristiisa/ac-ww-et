@@ -1,0 +1,20 @@
+{
+ "file": "script/ENG/message/ha/q09/find2_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 04 00}Huh? {01 00 00 05 00}Aw, you're overloaded!{01 00 00 14 00}\n{07 0e 00}And I was just about to\ngive you the prize{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 00 00}Why don't you go organize\nyour pockets and then come\nback, {01 00 00 05 00}{04 02 00}?",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 04 00}Whoa, hold the phone!{01 00 00 14 00}\n{07 16 00}Your pockets are packed to\nthe brim!\n{07 15 00}How are you gonna carry\nthis sweet prize home, huh?{01 00 00 14 00}\n{07 16 00}Sheesh, use your head!",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 04 00}Wait, what's going on?{01 00 00 14 00}\n{07 16 00}I was all set to give you\nthis awesome prize, but...\nYou can't carry any more\nitems right now, can you,\n{01 00 00 05 00}{04 02 00}?\n{07 14 00}Tell you what:{01 00 00 05 00} Go deal with\nyour pocket situation and\ncome back, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  }
+ ]
+}

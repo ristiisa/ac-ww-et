@@ -1,0 +1,15 @@
+{
+ "file": "script/ENG/message/ge/q02/end_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 14 00}That was fun, {01 00 00 05 00}{04 02 00}!\nThanks to you, {04 1f 00},{01 00 00 05 00}\nI totally enjoyed fishing!\n{07 00 00}And on top of that,{01 00 00 05 00}{07 06 00} I now\nknow that I can never beat\nyou...{01 00 00 0a 00} {07 00 00}{07 14 00}But I'm cool with it!\n{07 00 00}{07 0d 00}Instead of being a master\nfisherman,{01 00 00 05 00} I'll just work\non my singing career!",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 16 00}Wow, I'm NEVER going to be\nable to beat you in fishing,\n{04 1f 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 03 00}But that's cool!{01 00 00 0a 00} Now that I\nknow,{01 00 00 05 00} I can stop trying to\nbe a master fisherman!\n{07 0d 00}Instead,{01 00 00 05 00} I'll just try to be\nKINDA good at LOTS of\nthings, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  }
+ ]
+}

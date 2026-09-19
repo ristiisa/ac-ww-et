@@ -1,0 +1,45 @@
+{
+ "file": "script/ENG/message/ha/ev/birth_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 14 00}{0b 03 00}{ff 00 00 05}{04 1f 00}{ff 00 00 00}!",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 0b 00}Today's your birthday,\nright? {07 14 00}I hope so, 'cause I\nbought you this present!",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 14 00}Well, {01 00 00 05 00} {04 1f 00}?{01 00 00 0a 00} {07 0b 00}You like\nthat, huh?",
+   "et": ""
+  },
+  {
+   "id": 3,
+   "en": "{07 04 00}Seriously?!{01 01 00}\n{07 00 00}Dude, I just stopped by the\nstore and grabbed whatever!\n{07 00 00}I'm glad you're so pumped\nabout it, 'cause you're\npretty awesome.\n{01 00 00 14 00}{07 11 00}We're always gonna be the\nburliest buds, {01 00 00 05 00}{04 1f 00}!",
+   "et": ""
+  },
+  {
+   "id": 4,
+   "en": "{07 06 00}HEY!{01 00 00 0a 00} Can't you at least\npretend to like it?!\n\n{07 00 00}Well,{01 00 00 05 00} at least I gotta\nrespect your brutal\nhonesty, {04 1f 00}!",
+   "et": ""
+  },
+  {
+   "id": 5,
+   "en": "{07 00 00}{ff 00 00 06}{04 0f 00}{ff 00 00 00},",
+   "et": ""
+  },
+  {
+   "id": 6,
+   "en": "{07 00 00}and {ff 00 00 06}{04 0f 00} {ff 00 00 00}chipped in",
+   "et": ""
+  },
+  {
+   "id": 7,
+   "en": "{07 15 00}and got you this!{01 01 00}\n{07 14 00}Don't go and break it,\n{04 02 00}!",
+   "et": ""
+  }
+ ]
+}

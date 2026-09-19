@@ -1,0 +1,60 @@
+{
+ "file": "script/ENG/message/ta/tsu/se_hint_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 0e 00}I keep seeing this one\notter-looking guy on the\ncape, {01 00 00 05 00}{04 02 00}.\n{06 01 00 07 08 09}",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 0c 00}{01 00 00 0a 00}Hey, {01 00 00 0a 00}{04 1f 00},{01 00 00 0f 00} {07 0b 00}you have\na {ff 00 00 07}fishing rod{ff 00 00 00}, don't you?{02 00 00 03 04}\nYup.\nNo, I don't.",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{ff 00 00 07}{07 0e 00}{01 00 00 0a 00}Venus comb{ff 00 00 00},{01 00 00 0a 00} {ff 00 00 07}shell{ff 00 00 00},{01 00 00 0a 00} {ff 00 00 07}sand\ndollar{ff 00 00 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n\n{06 01 00 05 06 0a}",
+   "et": ""
+  },
+  {
+   "id": 3,
+   "en": "{07 19 00}{01 00 00 0a 00}Yeah, catching fish and\ncatching boys aren't so\ndifferent, really.{07 00 00}\n{07 0e 00}Yes. Patience,{01 00 00 0a 00} good timing,{01 00 00 0a 00}\nand the right mood are\nkey to both{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 0c 00}I KNEW IT!{01 00 00 14 00}{07 14 00}{01 00 00 05 00} Fishing is\nexactly like love!\n{01 00 00 05 00}{0b 03 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 4,
+   "en": "{07 0e 00}That's just terrible.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n{07 0c 00}{01 00 00 0a 00}Tee hee, {01 00 00 05 00}{04 02 00}!\n\n{07 15 00}I bet you thought I was\ngoing to give you a {ff 00 00 07}fishing\nrod{ff 00 00 00}, huh, {01 00 00 0a 00}{04 02 00}?\n{07 1b 00}Well, too bad!{01 00 00 0f 00} I'm not one\nof those girls who plays\ngames like that!",
+   "et": ""
+  },
+  {
+   "id": 5,
+   "en": "{07 09 00}You can hear the waves!{01 00 00 0a 00}\nJust put it to your ear!",
+   "et": ""
+  },
+  {
+   "id": 6,
+   "en": "{07 00 00}Hee hee! Different shells{01 00 00 0a 00}\nare worth different\namounts, you know.\n{07 14 00}Does that remind you of\nsomething else,\n{01 00 00 0a 00}{04 02 00}?",
+   "et": ""
+  },
+  {
+   "id": 7,
+   "en": "{07 1b 00}What can I say about him?{01 00 00 0a 00}\n{07 01 00}He's a total weirdo! {01 00 00 05 00}I don't\nunderstand a thing he says.\n{07 13 00}But he's so cute, I kinda\ncrush on him!",
+   "et": ""
+  },
+  {
+   "id": 8,
+   "en": "{07 1d 00}I heard he had a tragic\nexfoliating accident that\nturned him all deep!\n{07 14 00}Now he's all like,{01 00 00 0a 00}{07 02 00} \"Fish don't\nhave feet, so they can't\ntap dance, {01 00 00 05 00}maaaaaaaaaan!\"{01 00 00 0a 00}{07 03 00}{01 00 00 0a 00}",
+   "et": ""
+  },
+  {
+   "id": 9,
+   "en": "{07 16 00}At first, he seems like this\nbrainless surfer,{01 00 00 0a 00} {07 19 00}but he's\nactually a philosophotter.\n{07 0e 00}I wonder what happened to\nmake him that way,\n{01 00 00 05 00}{04 02 00}.",
+   "et": ""
+  },
+  {
+   "id": 10,
+   "en": "{07 00 00}If you want to look alluring\nand mysterious on the\nbeach,\n{07 19 00}just look like you're way\ntoo busy collecting shells\nto care.\n{07 14 00}Why? {01 00 00 0a 00}'Cause desperation is\nthe stinkiest perfume of\nthem all, {01 00 00 0a 00}{04 02 00}!",
+   "et": ""
+  }
+ ]
+}

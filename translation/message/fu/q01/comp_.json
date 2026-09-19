@@ -1,0 +1,20 @@
+{
+ "file": "script/ENG/message/fu/q01/comp_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 14 00}I've decided something,\n{04 1f 00}.{01 00 00 05 00} I've decided\nthat I need bugs. {01 00 00 0a 00}Lots.\nSee, what I want is to fill\nmy room with bug cages and{07 11 00}\nstudy their ways{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 00 00}{04 1f 00},{01 00 00 0a 00} I've gotta say\nthat I like having bugs\nin my house...\nRight now, my decor really\nreflects my interests. It's\nfascinating, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 00 00}Hey, {04 1f 00}, I've\nnoticed something strange\nlately, {01 00 00 05 00}{04 02 00}.\nWhen you've got a lot of\nbugs in your room, they\nact like an air freshener!\n{07 0a 00}Everything smells better\nwith a beetle in your\nboudoir!",
+   "et": ""
+  }
+ ]
+}

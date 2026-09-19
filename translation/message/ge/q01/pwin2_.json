@@ -1,0 +1,15 @@
+{
+ "file": "script/ENG/message/ge/q01/pwin2_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 06 00}I hate to say this, but\nyou definitely found\nsomething cooler. {01 00 00 05 00}You win!\n{07 00 00}{07 14 00}I'll take this\n{0b 02 00}{04 1c 00}...\n\nAnd give you a sweet prize:\n{0b 02 00}{04 1b 00}!\nWay to go, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 16 00}Well, {01 00 00 03 00}I tried to be perky,\nbut I guess this just wasn't\nmy day.\nI'll take your\n{0b 02 00}{04 1c 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n\nAnd then you can have\n{04 1b 00}!",
+   "et": ""
+  }
+ ]
+}

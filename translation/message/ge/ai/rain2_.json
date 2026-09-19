@@ -1,0 +1,35 @@
+{
+ "file": "script/ENG/message/ge/ai/rain2_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 16 00}{0b 03 00}{01 06 00}Bleeeeech{01 07 00}!{01 00 00 0f 00}\nIt's soooo soggy outside!",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 14 00}{0b 03 00}{01 06 00}Yoo-hoo{01 07 00}!{01 00 00 0f 00} Hey,\n{01 00 00 05 00}you're looking pretty perky,\neven in this rain!",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 16 00}It's so gloomy, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 3,
+   "en": "{07 14 00}It's totally raining buckets,\n{04 1f 00}!",
+   "et": ""
+  },
+  {
+   "id": 4,
+   "en": "It has to be said,\n{04 1f 00}. You work hard!",
+   "et": ""
+  },
+  {
+   "id": 5,
+   "en": "{0b 03 00}{01 06 00}Yoo-hoo{01 07 00}!\n{01 00 00 0f 00}{0b 03 00}{04 1f 00}!",
+   "et": ""
+  }
+ ]
+}

@@ -1,0 +1,20 @@
+{
+ "file": "script/ENG/message/ge/q11/trade2_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 00 00}Oh, YAY!{01 00 00 05 00}{07 14 00} Well, you can just\ntouch what you want, like,\nwhenever you're ready!",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 0b 00}Which one? {01 00 00 05 00}Which one?{01 00 00 05 00} {07 14 00}Touch\nwhat you want so I can tell\nwhich one it is!",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 14 00}GREAT!{01 00 00 05 00} Which one do you\nwant?{01 00 00 05 00} Just tell me by\ntouching it, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  }
+ ]
+}

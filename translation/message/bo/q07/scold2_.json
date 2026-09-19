@@ -1,0 +1,20 @@
+{
+ "file": "script/ENG/message/bo/q07/scold2_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 02 00}WHAT?!{01 00 00 14 00} Why has this\nenvelope been opened?!\n\n{07 06 00}I TOLD you not to read my\nletter!{01 01 00} {07 08 00}I'm so embarrassed,{01 00 00 0a 00}\n{04 02 00}!{03 03 00 01}",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00}{07 02 00}This letter{01 00 00 05 00} has been\nopened!\n\n{07 08 00}That's so mean!{01 00 00 0a 00} I was very\nclear{01 00 00 05 00} when I asked you not\nto read it,{01 00 00 0a 00} {04 02 00}!{03 03 00 01}",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00}{07 02 00}AAUUUUUUUUGGGGGGGGH!{01 00 00 14 00}\nI TOLD you! I TOLD you!\nI told you not to read it!\n{07 08 00}WAAAAAAAAAAAAAAH!{01 00 00 14 00} Now{01 00 00 05 00} the\nfamily will never accept me!{01 00 00 05 00}\nYou're a jerk, {01 00 00 0a 00}{04 02 00}!{03 03 00 01}",
+   "et": ""
+  }
+ ]
+}

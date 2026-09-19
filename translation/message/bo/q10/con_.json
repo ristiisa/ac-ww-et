@@ -1,0 +1,20 @@
+{
+ "file": "script/ENG/message/bo/q10/con_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 15 00}{04 10 00}:{04 11 00}? And it's the {04 0f 00}?{01 00 00 0a 00}\n{07 16 00}Lame! {01 00 00 0a 00}Oh, {04 1f 00}, was\nthat your idea?{01 00 00 0a 00} Oops!",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 00 00}The {04 0f 00} at {04 10 00}:{04 11 00}. I've\ngot it.{01 01 00} {07 14 00}Huh huh huh!{01 00 00 0a 00} I can't\nwait!\n{07 14 00}Now, you better not miss it{01 00 00 05 00}\nwhen I knock at your door!",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 16 00}Umm, OK. So, on the {01 00 00 05 00}{04 0f 00}\nat {04 10 00}:{04 11 00}!{01 01 00} {07 00 00}Don't forget,\n{01 00 00 0a 00}{04 02 00}!\nMake sure to be where you\ncan hear me knocking at \nyour door!",
+   "et": ""
+  }
+ ]
+}

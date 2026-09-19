@@ -1,0 +1,20 @@
+{
+ "file": "script/ENG/message/ha/q09/again_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 16 00}Oh, {01 00 00 05 00}man, super-weak!{01 00 00 0a 00}\nYou shoulda come by here\na little earlier!\n{07 06 00}We coulda played some\nhide-and-seek together!{01 00 00 05 00}\nBummer, {04 02 00}!\n{07 14 00}Oh well.{01 00 00 05 00} Maybe we'll play\nsome other time...during\nthe day, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 0d 00}Oh, it's ON, {ff 00 00 05}{04 1f 00}{ff 00 00 00}!{01 00 00 0a 00}\nYou! {01 00 00 05 00}Me!{01 00 00 05 00} Hide-and-seek!{01 00 00 05 00}\nThou shalt be served!\n{07 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}Oh, wait, scratch that...{01 00 00 05 00}\n{07 16 00}It's getting kinda dark...{01 00 00 05 00}\nWe probably oughta bail.\nTotal bummer, I know.{01 00 00 05 00}\n{07 03 00}I coulda given you a couple\nof pointers, too!",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 00 00}I need a break from hitting\nthe weights...{01 00 00 05 00} I was thinking\nabout some hide-and-seek...\n{07 06 00}But {01 00 00 05 00}you came too late!\n\n\n{07 16 00}Seriously, it's too dark now!{01 00 00 0a 00}\nWhat, are you too busy\nthese days, {01 00 00 05 00}{04 02 00}?\n{07 06 00}I'm always up for some\nhide-and-seekage, {01 00 00 05 00} so drop\nby while it's light out!",
+   "et": ""
+  }
+ ]
+}

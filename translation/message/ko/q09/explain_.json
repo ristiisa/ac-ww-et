@@ -1,0 +1,20 @@
+{
+ "file": "script/ENG/message/ko/q09/explain_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 14 00}All right!{01 00 00 0f 00} Rules are \nmade to be broken, but{01 00 00 05 00} I'm\ngonna explain 'em anyway.\n{07 00 00}I'm gonna hide somewhere\nin town. You have to find\nme within {ff 00 00 02}5 minutes{ff 00 00 00}.{01 00 00 14 00}\n{07 14 00}See?{01 00 00 0f 00} Simple, huh? {07 00 00}So, {01 00 00 05 00}I'm\nheadin' to my hiding spot{01 00 00 05 00}.{01 00 00 05 00}.{01 01 00}\nBetcha can't find me!",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 15 00}Ha!{01 00 00 0a 00} The rules are simple!{01 00 00 14 00}\nIf you can find me within {ff 00 00 02}10\nminutes{ff 00 00 00}, you win!\n{07 00 00}If you can't, well, then I\nwin! Those are the rules,\n{01 00 00 05 00}{04 02 00}!\nOK, {01 00 00 05 00}as long as you get it,\nI'm gonna go hide,\n{01 00 00 05 00}{04 02 00}!\n{07 11 00}Heh heh heh{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00} I am a\nmaster at hiding in the\nshade of trees.",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 14 00}Heh heh!{01 00 00 0f 00} Well, then I guess\nI have to explain the rules\nor somethin'.\n{07 00 00}I'm gonna hide and you've\ngot {ff 00 00 02}15 minutes {ff 00 00 00}to find me.\n\n{07 15 00}If it takes you longer\nthan  {ff 00 00 02}15 minutes{ff 00 00 00}, {01 00 00 05 00}YOU LOSE!\nGot that, {01 00 00 05 00}{04 02 00}?\n{07 00 00}{01 00 00 14 00}I'm gonna have to use all\nthe techniques I learned at\nninja night school.",
+   "et": ""
+  }
+ ]
+}

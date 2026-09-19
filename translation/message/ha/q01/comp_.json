@@ -1,0 +1,20 @@
+{
+ "file": "script/ENG/message/ha/q01/comp_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 14 00}Y'know, if you time your\nsit-ups to the movement of\nbugs, {01 00 00 05 00}you burn MAD carbs!\n{07 13 00}It's like having miniature\npersonal trainers all over\nthe place, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "Yo, {ff 00 00 05}{04 1f 00}{ff 00 00 00}!{01 00 00 0a 00} {01 00 00 05 00}I've got\nthe gnarliest little bug in\nmy room!{01 00 00 05 00}\n{07 00 00}He gets out sometimes...{01 00 00 0a 00}{07 0d 00}but\nthat just shows how nimble\nhe is, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{0b 03 00}{04 1f 00}! {07 14 00}My new bug\nis BURLY!\n\n{07 19 00}This thing must hit the\nweights, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  }
+ ]
+}

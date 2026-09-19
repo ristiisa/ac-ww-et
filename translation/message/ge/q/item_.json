@@ -1,0 +1,20 @@
+{
+ "file": "script/ENG/message/ge/q/item_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 00 00}Here!{01 00 00 0a 00} Your favorite!{01 00 00 05 00}\n{0b 03 00}{04 1b 00}!{01 00 00 05 00}\nEnjoy, {04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 00 00}So, by any chance, will\n{04 1b 00}\ndo?",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 00 00}OK, here you go!{01 00 00 05 00}\n{0b 03 00}{04 1b 00}!",
+   "et": ""
+  }
+ ]
+}

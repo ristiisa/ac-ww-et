@@ -1,0 +1,220 @@
+{
+ "file": "script/ENG/message/sp/npc/twins_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 14 00}Welcome!{01 00 00 05 00} {ff 00 00 09}...'come!{01 00 00 05 00}{ff 00 00 00}\nThis is the second floor!\n\nHere you'll find furniture\nand other items for around\nthe house.{01 00 00 05 00} {ff 00 00 09}...house!",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "Thank you very much!{01 00 00 05 00} Please\ncome see us again soon.{01 00 00 05 00}\n{ff 00 00 09}...soon!",
+   "et": ""
+  },
+  {
+   "id": 6,
+   "en": "Yes? Yes? {01 00 00 05 00}How can we help\nyou this fine day?{01 00 00 05 00} {ff 00 00 09}...day!{ff 00 00 00}{02 06 00 07 00 00 15}\nI want to sell!\nCatalog, please!\nTurnip prices!\nNothing.",
+   "et": ""
+  },
+  {
+   "id": 7,
+   "en": "Well then,{01 00 00 05 00} please pick the\nitems that you wish to\nsell!{01 00 00 05 00} {ff 00 00 09}...sell!",
+   "et": ""
+  },
+  {
+   "id": 8,
+   "en": "Oh? You want to quit?{01 00 00 0a 00} Isn't\nthere anything else we can\ndo for you?{01 00 00 05 00} {ff 00 00 09}...you?{ff 00 00 00}{02 06 00 07 00 00 15}\nSell! Sell! Sell!\nCatalog, please!\nTurnip prices!\nEnough!",
+   "et": ""
+  },
+  {
+   "id": 9,
+   "en": "If there is anything else we\ncan help you with, don't\nhesitate to ask!{01 00 00 05 00} {ff 00 00 09}...ask!",
+   "et": ""
+  },
+  {
+   "id": 10,
+   "en": "Our sincerest apologies,\n{ff 00 00 09}...'ologies!{ff 00 00 00}{01 00 00 0a 00} but we cannot\nbuy that item.{01 00 00 05 00} {ff 00 00 09}...item!{ff 00 00 00}\nHowever, {01 00 00 05 00}if you don't need\nit, we'd be happy to take it\noff your hands.{01 00 00 05 00}{ff 00 00 09} {ff 00 00 09}...hands!{ff 00 00 00}{02 04 00 0b 0c}\nPlease do!\nMaybe not.",
+   "et": ""
+  },
+  {
+   "id": 11,
+   "en": "{07 19 00}Yes, yes!{01 00 00 05 00} {ff 00 00 09}...Yes!{ff 00 00 02}{01 00 00 05 00} {ff 00 00 00}Consider it\ndone! \n\n{07 00 00}We are a full-service shop!{01 00 00 05 00}\nWe can rid you of anything\nyou don't need!{01 00 00 05 00}{ff 00 00 02} {ff 00 00 09}...'eed!{ff 00 00 02}\n{ff 00 00 00}Is there anything else that\nwe can help you with?{01 00 00 05 00}\n{ff 00 00 09}...you with?{ff 00 00 00}{02 06 00 07 00 00 15}\nI wanna sell!\nCatalog, please!\nTurnip prices!\nI'm done.",
+   "et": ""
+  },
+  {
+   "id": 12,
+   "en": "Well, that's not a problem!\nNot a problem at all!{01 00 00 05 00}\n{ff 00 00 09}...at all!{ff 00 00 02}\n{ff 00 00 00}Is there anything else that\nwe can help you with?{01 00 00 05 00}\n{ff 00 00 09}...you with?{ff 00 00 00}{02 06 00 07 00 00 15}\nI want to sell!\nCatalog, please!\nTurnip prices!\nI'm finished.",
+   "et": ""
+  },
+  {
+   "id": 13,
+   "en": "Our sincerest apologies,{01 00 00 05 00} but\nbecause today is Sunday...{01 00 00 05 00}\n{ff 00 00 09}...'unday!{ff 00 00 02}\n{ff 00 00 00}We are not buying turnips!{01 00 00 05 00}\n{ff 00 00 09}...turnips!",
+   "et": ""
+  },
+  {
+   "id": 14,
+   "en": "We would be willing to pay{01 00 00 05 00}\n{04 0f 00} Bells for\neverything!{01 00 00 05 00} {ff 00 00 09}...'thing!{ff 00 00 00}{02 04 00 00 08}\nSell!\nNever mind.",
+   "et": ""
+  },
+  {
+   "id": 17,
+   "en": "{07 04 00}What's this?{01 00 00 05 00} {ff 00 00 09}...this?\n\n\n{ff 00 00 00}{07 00 00}It looks like that's\nsomething you might want\nto hang on to.\n{07 0b 00}Are you sure you want to \nsell?{01 00 00 05 00} {ff 00 00 09}...sell?\n{ff 00 00 00}\n{07 00 00}We'll take this off your\nhands for {04 0f 00}\nBells{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.{02 04 00 00 58}\nI'll sell!\nForget it!",
+   "et": ""
+  },
+  {
+   "id": 18,
+   "en": "Thank you!{01 00 00 05 00} {ff 00 00 09}...you!{ff 00 00 02}{01 00 00 05 00}\n{ff 00 00 00}Is there anything else we\ncan do for you?{01 00 00 05 00} {ff 00 00 09}...for you?{ff 00 00 00}{02 06 00 07 00 00 15}\nI'm selling!\nCatalog time!\nTurnip prices!\nNo, thanks.",
+   "et": ""
+  },
+  {
+   "id": 19,
+   "en": "You can't hold any more\nBells! {01 00 00 05 00}What a fine problem\nto have, eh?\nWe will put the money in a\nbag for you! No charge!{01 00 00 05 00}\n{ff 00 00 09}...charge!",
+   "et": ""
+  },
+  {
+   "id": 21,
+   "en": "Is that so? {01 00 00 05 00}{ff 00 00 09}...that so?{ff 00 00 02} {01 00 00 05 00}{ff 00 00 00}Well,\nplease let us know if you\nchange your mind!{ff 00 00 02}{01 00 00 05 00} {ff 00 00 09}...mind!",
+   "et": ""
+  },
+  {
+   "id": 22,
+   "en": "The turnip price for today\nis {04 10 00} Bells!{01 00 00 05 00} {ff 00 00 09}...Bells!",
+   "et": ""
+  },
+  {
+   "id": 23,
+   "en": "I'm sorry, but our order\nsheet is completely filled!{01 00 00 05 00}\n\nTherefore, we can no longer\naccept new orders!{01 00 00 05 00}\n{ff 00 00 09}...new orders!{ff 00 00 00}\nMaybe you could come back\nand place your order when\nwe're less busy?{ff 00 00 02}{01 00 00 05 00} {ff 00 00 09}...busy!\n{ff 00 00 00}So sorry! Is there anything\nelse we can help you with?{02 06 00 07 00 00 15}\nI want to sell!\nCatalog, please!\nTurnip prices!\nNope.",
+   "et": ""
+  },
+  {
+   "id": 24,
+   "en": "{0b 03 00}{04 00 00},{01 00 00 05 00} this is a\ncatalog created with YOU\nin mind!{01 00 00 05 00} {ff 00 00 09}...in mind!{ff 00 00 02}\n{ff 00 00 00}If there is anything you \nwould like to order, please\nlet us know.{01 00 00 05 00} {ff 00 00 09}...know!",
+   "et": ""
+  },
+  {
+   "id": 26,
+   "en": "I see.{01 00 00 05 00} {ff 00 00 09}...I see.{01 00 00 05 00} {ff 00 00 00}Yes, the\n{0b 02 00}{04 1b 00}\nis very nice. {ff 00 00 09}{01 00 00 05 00}...very nice!{ff 00 00 00}\nWith delivery cost, your\ngrand total comes to\n{04 0f 00} Bells!{01 00 00 05 00}\nWould you like to order it?{01 00 00 05 00}\n{ff 00 00 09}...order it?{ff 00 00 00}{02 00 00 00 1b}\nYes, please!\nMaybe not...",
+   "et": ""
+  },
+  {
+   "id": 27,
+   "en": "Oh? I see. So you don't\nwant to order it after\nall?{01 00 00 05 00} {ff 00 00 09}...after all?{ff 00 00 00}\nYes, that's fine! Is there\nanything else that we can\nhelp you with?{01 00 00 05 00} {ff 00 00 09}...you with?{ff 00 00 00}{02 06 00 07 00 00 15}\nI want to sell!\nCatalog, please!\nTurnip prices!\nNope.",
+   "et": ""
+  },
+  {
+   "id": 28,
+   "en": "Thank you for your\npatronage!{01 00 00 05 00} {ff 00 00 09}...'atronage!{ff 00 00 02}\n{ff 00 00 00}\nThis item will be shipped \nto you as soon as we get it\nin stock!{01 00 00 05 00} {ff 00 00 09}...stock!{ff 00 00 02}\n{ff 00 00 00}Don't forget to check your\nmailbox regularly!{ff 00 00 02}{01 00 00 05 00}\n{ff 00 00 00}\nIs there anything else we \ncan help you with?{01 00 00 05 00}\n{ff 00 00 09}...you with?{ff 00 00 00}{02 06 00 07 00 00 15}\nI want to sell!\nCatalog, please!\nTurnip prices!\nNo.",
+   "et": ""
+  },
+  {
+   "id": 29,
+   "en": "Oh?{ff 00 00 02}{01 00 00 05 00} {ff 00 00 09}...Oh?{ff 00 00 02}{01 00 00 05 00} {ff 00 00 00}One moment{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n{ff 00 00 09}...moment!{ff 00 00 00}\n\nIt appears that you do not\nhave enough money!{01 00 00 05 00}\n{ff 00 00 09}...money!{ff 00 00 00}\nYes, we cannot take your\norder if you don't have\nenough money{01 00 00 05 00}! So sorry!{ff 00 00 02}\n{ff 00 00 00}Please place your order\nat a later date when you\nhave more Bells.{ff 00 00 02}{01 00 00 05 00} {ff 00 00 09}...Bells!{ff 00 00 02}\n{ff 00 00 00}Is there anything else we\ncan help you with?{01 00 00 05 00}{02 06 00 07 00 00 15}\nI want to sell!\nCatalog, please!\nTurnip prices!\nI'm done.",
+   "et": ""
+  },
+  {
+   "id": 30,
+   "en": "Ah, yes, yes. That's the\n{0b 02 00}{04 1b 00}.\nVery nice.{01 00 00 05 00} {ff 00 00 09}...very nice.{ff 00 00 02}\n{ff 00 00 00}The price is {04 13 00} Bells.\nWould you like it?{01 00 00 05 00} {ff 00 00 09}...like it?{ff 00 00 00}{02 04 00 00 1f}\nI'll buy it!\nNo, thanks.",
+   "et": ""
+  },
+  {
+   "id": 31,
+   "en": "Very well!{01 00 00 0a 00} Please take your\ntime and have a look at our\nother items!{01 00 00 05 00} {ff 00 00 09}...items!",
+   "et": ""
+  },
+  {
+   "id": 32,
+   "en": "Thank you so much!{01 00 00 05 00} {ff 00 00 09}...'uch!{ff 00 00 02}\n{ff 00 00 00}Much appreciated!{ff 00 00 02}\n{ff 00 00 00}\n{07 04 00}Oh!{01 00 00 05 00}{07 00 00} What a shame!{01 00 00 05 00} {ff 00 00 09}...shame!{ff 00 00 02}\n{ff 00 00 00}You're carrying too much\nstuff already!{ff 00 00 02}\n{ff 00 00 00}Please empty your pockets\nand come back!{01 00 00 05 00} {ff 00 00 09}...back!",
+   "et": ""
+  },
+  {
+   "id": 33,
+   "en": "Thank you very much!{01 00 00 05 00}\n{ff 00 00 09}...'uch!{ff 00 00 02}\n{ff 00 00 00}\nOh?{01 00 00 05 00} Oh ho!{01 00 00 05 00} It appears that\nyou don't have enough\nmoney!{01 00 00 05 00} {ff 00 00 09}...money!{ff 00 00 02}\n{ff 00 00 00}Please remember to bring\nyour money when you come \nto our shop!{01 00 00 05 00} {ff 00 00 09}...our shop!",
+   "et": ""
+  },
+  {
+   "id": 34,
+   "en": "Thank you so very much!{01 00 00 05 00}\n{ff 00 00 09}...very much!",
+   "et": ""
+  },
+  {
+   "id": 35,
+   "en": "Very well, that will be\n{04 13 00} Bells.{01 00 00 05 00} A good\nprice, yes?{01 00 00 05 00} {ff 00 00 09}...yes!",
+   "et": ""
+  },
+  {
+   "id": 42,
+   "en": "Oh ho! This is the amazing\n{04 1b 00},\nyes? {ff 00 00 09}{01 00 00 05 00}...yes!{ff 00 00 02}\n{ff 00 00 00}Four sheets per one set...\nIt comes to {04 13 00} Bells!\n\nWould you like to \nbuy it?{01 00 00 05 00} {ff 00 00 09}...buy it?{ff 00 00 00}{02 04 00 00 1f}\nI'll take it!\nNo, thanks.",
+   "et": ""
+  },
+  {
+   "id": 43,
+   "en": "Ah, yes. This is the \n{0b 02 00}{04 1b 00}!\nA fine item!{01 00 00 05 00} {ff 00 00 09}...item!{ff 00 00 02}\n{ff 00 00 00}It's a real bargain at only\n{04 13 00} Bells, don't you \nagree?{01 00 00 05 00} {ff 00 00 09}...agree?{ff 00 00 00}{02 05 00 00 2c 1f}\nI'll take it!\nLet me see it!\nI'll pass.",
+   "et": ""
+  },
+  {
+   "id": 44,
+   "en": "So? What do you think?{01 00 00 05 00}\n{ff 00 00 09}...you think?{ff 00 00 00}\n\nThis is a steal at only\n{04 13 00} Bells!{01 00 00 05 00} {ff 00 00 09}...Bells!{ff 00 00 00}{02 04 00 00 1f}\nI'll take it!\nNo, thanks.",
+   "et": ""
+  },
+  {
+   "id": 45,
+   "en": "Oh, yes. That is the\n{ff 00 00 07}{04 11 00} paint{ff 00 00 00}.\nUnfortunately...\nWe are unable to sell that\nto visitors from out of\ntown.{01 00 00 05 00} {ff 00 00 09}...out of town!{ff 00 00 00}\nYou see, {04 00 00},{01 00 00 05 00}{07 03 00} we'd \nhave to go to your house\nand paint it!{01 00 00 0a 00}{07 00 00} Oh my, yes.\nSo sorry, but we're sure\nthat you'll find something\nelse!{01 00 00 05 00} {ff 00 00 09}...else!",
+   "et": ""
+  },
+  {
+   "id": 46,
+   "en": "Ah, what an eye! That is\nthe {ff 00 00 07}{04 11 00} paint{ff 00 00 00}!\n{01 00 00 05 00}{ff 00 00 09}...paint!{ff 00 00 02}\n{ff 00 00 00}With that, you can repaint\nyour roof, {04 00 00}.\n\nThis color is only available\nfor a limited time, so if\nyou want it, act now!{01 00 00 05 00} {ff 00 00 09}...now!{ff 00 00 02}\n{ff 00 00 00}Right now, the price is\n{04 13 00} Bells. And that\nincludes all labor!\nSo?{ff 00 00 02}{01 00 00 05 00} {ff 00 00 09}...so?{ff 00 00 00}{02 04 00 00 1f}\nI'll take it!\nNo thank you.",
+   "et": ""
+  },
+  {
+   "id": 47,
+   "en": "So that will be {04 13 00}\nBells!{01 00 00 0a 00} Thank you much!\n{ff 00 00 02}{01 00 00 05 00} {ff 00 00 09}...you much!{ff 00 00 00}\n{07 14 00}We'll check our schedule and\nbe out there to paint as\nsoon as we can!{01 00 00 05 00} {ff 00 00 09}...we can!",
+   "et": ""
+  },
+  {
+   "id": 49,
+   "en": "{07 14 00}You have a keen eye! That's\nour {ff 00 00 02}spotlight product{01 00 00 05 00}{ff 00 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}the\n{0b 02 00}{04 1b 00}!\nIt's a bargain at {04 13 00}\nBells!{01 00 00 0a 00} So,{01 00 00 05 00} what do you say?\n{ff 00 00 09}...say!{ff 00 00 00}{02 04 00 00 1f}\nI'll take it!\nNo, thanks.",
+   "et": ""
+  },
+  {
+   "id": 50,
+   "en": "Welcome!{01 00 00 05 00} {ff 00 00 09}...'come!{ff 00 00 02} {ff 00 00 00}Today\nwe're having a {ff 00 00 03}Point\nSpecial{ff 00 00 00}!{01 00 00 05 00} {ff 00 00 09}...special!",
+   "et": ""
+  },
+  {
+   "id": 51,
+   "en": "Welcome!{01 00 00 05 00} {ff 00 00 09}...'come!{ff 00 00 00} {01 00 00 05 00}You're\njust in time for our rare\n{ff 00 00 03}Time Service{ff 00 00 00}! ",
+   "et": ""
+  },
+  {
+   "id": 52,
+   "en": "Welcome! {ff 00 00 09}{01 00 00 05 00}...'come!{ff 00 00 00}{01 00 00 05 00} Today's\n{ff 00 00 02}Spotlight Item{ff 00 00 00} has just\narrived!{ff 00 00 02}{01 00 00 05 00} {ff 00 00 09}...arrived!",
+   "et": ""
+  },
+  {
+   "id": 64,
+   "en": "{07 0b 00}Oh ho!{ff 00 00 02}{01 00 00 05 00} {ff 00 00 09}...Oh ho!{ff 00 00 02}{01 01 00}{ff 00 00 00}\n{07 00 00}We don't mind if you sell\nyour paintings here, but...\n{01 00 00 05 00}This is a {ff 00 00 07}forged painting{ff 00 00 00}!{ff 00 00 07}{01 00 00 05 00} \n{ff 00 00 09}...forged!{ff 00 00 02}\n{ff 00 00 00}\n{07 19 00}Of course, we can only pay\n{ff 00 00 07}forged-painting{ff 00 00 00} prices for\nsuch counterfeits.{01 00 00 05 00} {ff 00 00 09}...'feits!{ff 00 00 02}\n{ff 00 00 00}{07 00 00}So, that being said, {01 00 00 05 00}we can\ngive you{01 00 00 05 00} {04 0f 00} Bells\nfor those items!{ff 00 00 02}{01 00 00 05 00} {ff 00 00 09}...items!{ff 00 00 00}{02 04 00 00 08}\nI'll sell.\nI'll pass.",
+   "et": ""
+  },
+  {
+   "id": 87,
+   "en": "{07 16 00}Oh no{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00} I'm so very sorry!{01 00 00 05 00}\n{ff 00 00 09}...sorry!{ff 00 00 00}{01 10 00 32}\n\nYes, it seems that closing\ntime has come and gone.\n{01 00 00 05 00}{ff 00 00 09}...gone!{ff 00 00 00}{01 10 00 32}\n{07 06 00}If we don't start closing{01 00 00 05 00}\nup, we'll be in big trouble!{01 00 00 05 00}\n{ff 00 00 09}...trouble!{ff 00 00 00}{01 10 00 32}\n{07 00 00}{07 0b 00}Yes, so would you please\nhelp us out and leave?{01 00 00 05 00}\n{ff 00 00 09}...leave?{ff 00 00 00}{01 10 00 32}\n{07 14 00}We appreciate the business,{01 00 00 05 00}\nand look forward to seeing\nyou tomorrow!{01 00 00 05 00} {ff 00 00 09}...'orrow!{ff 00 00 00}{01 10 00 32}",
+   "et": ""
+  },
+  {
+   "id": 88,
+   "en": "{07 00 00}I'm sorry, but we cannot\nbuy that item.{01 00 00 05 00} {ff 00 00 09}...item!{ff 00 00 02}\n{ff 00 00 00}\nIs there anything else that\nwe can do for you?{01 00 00 05 00} {ff 00 00 09}...you?{ff 00 00 00}{02 06 00 07 00 00 15}\nI want to sell!\nCatalog, please!\nTurnip prices!\nNo, thanks.",
+   "et": ""
+  },
+  {
+   "id": 89,
+   "en": "{07 16 00}Oh, terribly sorry!{01 00 00 05 00} {ff 00 00 09}...sorry!{ff 00 00 00}{01 00 00 0a 00}\nWe cannot accept catalog\norders from out of town!\n{07 06 00}Yes, so sorry,{01 00 00 05 00} but can you\nplease place that order in\nyour own town?{01 00 00 05 00} {ff 00 00 09}...town?{ff 00 00 02}\n{ff 00 00 00}{07 00 00}Is there anything else that\nwe can help you with?{01 00 00 05 00}\n{ff 00 00 09}...you with?{ff 00 00 00}{02 06 00 07 00 00 15}\nI want to sell! \nCatalog, please!\nTurnip prices!\nNo, thanks.",
+   "et": ""
+  },
+  {
+   "id": 93,
+   "en": "{07 0b 00}Huh?!{01 00 00 0a 00} {ff 00 00 09}...Wuh-huh?{ff 00 00 00}{01 01 00}\n{07 00 00}I'm afraid you can't hold\nany more money.{01 00 00 05 00} {ff 00 00 09}...'oney!{ff 00 00 02}\n{ff 00 00 00}{07 19 00}Please empty your pockets\nso you can hold a money\nbag and come back!{ff 00 00 02}{01 00 00 05 00} {ff 00 00 09}...back!{ff 00 00 00}\n{07 00 00}Is there anything else\nthat we might help you\nwith?{ff 00 00 02}{01 00 00 05 00} {ff 00 00 09}...with?{ff 00 00 00}{02 06 00 07 00 00 15}\nI wanna sell!\nCatalog, please!\nTurnip prices!\nThat's it!",
+   "et": ""
+  }
+ ]
+}

@@ -1,0 +1,20 @@
+{
+ "file": "script/ENG/message/ha/q11/trade1_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 00 00}Hey yo, {04 1f 00}!{01 00 00 05 00}\n{07 0b 00}See anything you like?\n\n{07 14 00}If you've got your eye on\nsomething, lemme know!{02 04 00 ff ff}\nI do!\nJust looking.",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 0b 00}Isn't there ANYTHING you\nlike here, {01 00 00 05 00}{04 02 00}?\n\n{07 14 00}C'mon, you KNOW you want\nsomething, {01 00 00 05 00}{04 02 00}!{02 04 00 ff ff}\nYup!\nJust browsing.",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 16 00}I see those puppy-dog eyes!\n\n\n{07 00 00}You want something here, I\ncan tell! {01 00 00 05 00}So fill me in,\n{01 00 00 05 00}{04 02 00}!{02 04 00 ff ff}\nDeal!\nNo thanks.",
+   "et": ""
+  }
+ ]
+}

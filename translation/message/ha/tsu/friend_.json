@@ -1,0 +1,105 @@
+{
+ "file": "script/ENG/message/ha/tsu/friend_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 00 00}Hey, have you seen\n{ff 00 00 06}{04 16 00} {ff 00 00 00}and {ff 00 00 06}{04 17 00}\n{ff 00 00 00}together?{01 00 00 05 00} {07 0b 00}...Ya think?\n{07 11 00}Know what I mean?{01 00 00 0a 00}\nWhen no one's looking...{01 00 00 05 00}\nya think?\n{06 01 00 09 0a 0b}",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 00 00}Hey, I saw {ff 00 00 06}{04 16 00} {ff 00 00 00}and\n{ff 00 00 06}{04 17 00} {ff 00 00 00}gazing into\neach other's eyes...\nYeah!{01 00 00 05 00} Just the other day!{01 00 00 05 00}\nI think they were having\na staring contest!\n{07 14 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}Wait, what? You think\nsomething funny's going on,\n{01 00 00 05 00}{04 02 00}?",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 15 00}What's up with {ff 00 00 06}{01 00 00 05 00}{04 16 00}\n{ff 00 00 00}and {ff 00 00 06}{04 17 00}{ff 00 00 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}?{01 00 00 05 00}\nThey fighting, {01 00 00 05 00}{04 02 00}?\n{06 00 00 0c 0d}",
+   "et": ""
+  },
+  {
+   "id": 3,
+   "en": "{07 00 00}I've been seeing {01 00 00 05 00}{ff 00 00 06}{04 16 00}\n{ff 00 00 00}and{ff 00 00 06} {04 17 00}{ff 00 00 00} together a\nlot lately.{01 00 00 05 00}\nWhat do you call guys who\n{07 0b 00}hang out like that?{02 01 00 11 12 13}\nBest buds.\nRivals.\nEngaged.",
+   "et": ""
+  },
+  {
+   "id": 4,
+   "en": "{07 00 00}Wouldn't it be funny if\n{ff 00 00 06}{04 16 00} {ff 00 00 00}and {ff 00 00 06}{04 17 00}\n{ff 00 00 00}{07 14 00}turned out to be brothers?\n{07 03 00}Then again,{01 00 00 05 00} it would be\nHILARIOUS if they were\nsisters, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 5,
+   "en": "{07 04 00}Man, {01 00 00 05 00}did you see it?!{01 01 00}\n{07 06 00}{ff 00 00 06}{0b 03 00}{04 16 00}{ff 00 00 00} and {ff 00 00 06}{04 17 00}{ff 00 00 00}\nhad a huge blowout!\n{07 16 00}I had to{01 00 00 05 00} get in there and\nref the thing! {01 00 00 05 00}It was no-\nholds-barred, {01 00 00 05 00}{04 02 00}!\n{07 00 00}In the end, {ff 00 00 06}{04 16 00}{ff 00 00 00} \nused the Ultimate Knuckle\nso I had to break it up.\n{07 16 00}Y'know, there's NEVER{01 00 00 05 00} a good\nreason to come to blows.{01 01 00}\n{07 08 00}People get hurt!{01 00 00 05 00}{03 03 00 01}",
+   "et": ""
+  },
+  {
+   "id": 6,
+   "en": "{07 00 00}Oh, {01 00 00 05 00}{07 0b 00}{ff 00 00 06}{04 16 00} {ff 00 00 00}and\n{ff 00 00 06}{04 17 00}{ff 00 00 00}?\n\n{07 00 00}Yeah, I've seen them\ntogether a lot lately,\n{01 00 00 05 00}{04 02 00}!\n{06 01 00 0e 0f 10}",
+   "et": ""
+  },
+  {
+   "id": 7,
+   "en": "{07 0b 00}Wait, {ff 00 00 06}{04 16 00}{ff 00 00 00} and\n{ff 00 00 06}{04 17 00}{ff 00 00 00}?{01 01 00}{07 00 00} Yeah, they're\nfriends, right?{01 00 00 0a 00}\n{07 15 00}Hey, don't ask me that!{01 00 00 05 00}\nI'm a guy!{01 01 00}{07 06 00} Man, talk about\nembarrassing, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 8,
+   "en": "{07 00 00}You know{ff 00 00 06} {04 16 00} {ff 00 00 00}and\n{ff 00 00 06}{04 17 00}{ff 00 00 00}?\n\n{07 06 00}Yeah, well, when no one was\naround, I saw 'em together.{01 00 00 05 00}\nAnd they were tussling!\n{07 07 00}Really!{01 00 00 05 00} I kid you not!{01 00 00 05 00}\nMan, girls are so SCARY!{01 00 00 05 00}\nSeriously, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 9,
+   "en": "{07 00 00}Listen, do you have someone{01 00 00 05 00}\n{07 0b 00}hold your feet down when\nyou do sit-ups?\n{07 06 00}Man, I wish I could get\nsomeone to hold my feet!{01 00 00 05 00}\nOr my head, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 10,
+   "en": "{07 13 00}I'll bet they were drinking\n{04 13 00} together\nor something, {01 00 00 05 00}{04 02 00}!\n{07 17 00}Of course, they probably\ngot one tall glass and two\nstraws, too, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 11,
+   "en": "{07 06 00}I'll bet they wear matching \nspandex workout outfits\nand everything!\n{07 00 00}Hey, I got an idea!{01 00 00 05 00}\nCheck it out, {ff 00 00 05}{01 00 00 05 00}{04 1f 00}{ff 00 00 00}!{01 01 00}\nWhy don't you and me...\n{07 0d 00}Get matching leotards and\nwalk around town together!{01 00 00 05 00}\nYeah, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 12,
+   "en": "{07 15 00}I'll bet it's because\n{ff 00 00 06}{04 16 00}{ff 00 00 00} stole some of\n{ff 00 00 06}{04 17 00}{ff 00 00 00}'s flowers!\nIt has to be! It just HAS\nto, {01 00 00 05 00}{04 02 00}!\n\n{07 06 00}Man, I'd have shared my\n{04 13 00} {01 00 00 05 00}if I\nthought it'd help!",
+   "et": ""
+  },
+  {
+   "id": 13,
+   "en": "{07 15 00}This has to be all because\n{ff 00 00 06}{04 17 00}{ff 00 00 00} made fun of\n{ff 00 00 06}{04 16 00}{ff 00 00 00}'s outfit!\nYeah, that's gotta be it,\n{01 00 00 05 00}{04 02 00}!\n\n{07 16 00}That kid's been{01 00 00 05 00} collecting\n{04 14 00} clothes lately,\nso...\n{07 15 00}Just goes to show you,{01 00 00 05 00}\nyou gotta let people do\ntheir things, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 14,
+   "en": "{07 0e 00}Ya think maybe those two{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n{07 15 00}Man, they're making me\nfeel like some kinda...\n{07 06 00}{04 15 00} freak!{01 00 00 0a 00}\nYaargh, {01 00 00 05 00}{04 02 00}!!!",
+   "et": ""
+  },
+  {
+   "id": 15,
+   "en": "{07 16 00}The thing is, {01 00 00 05 00}I don't get all\ncaught up in what the\nladies think...\nSo I guess it doesn't really\nmatter, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 16,
+   "en": "{07 0d 00}I'd like to become best \nfriends like that with you, \n{04 1f 00}! {01 00 00 05 00}{0b 03 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 17,
+   "en": "{07 02 00}That's it! {01 00 00 05 00}I got it!\n\n\n{07 00 00}The bud that treats you\nthe best is the one you \ncall your...\n{07 15 00}BEST BUD! {01 00 00 05 00}Gah! {01 00 00 05 00}Finally,\nI understand, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 18,
+   "en": "{07 02 00}That's it!\n\n\n{07 00 00}Rivals compliment you,{01 00 00 05 00} but\nthen smack you around!{01 00 00 05 00}\nThey're just so fired up!",
+   "et": ""
+  },
+  {
+   "id": 19,
+   "en": "{07 0c 00}Oh, yeah, of course.{01 01 00}\n{07 14 00}They're engaged.\n\n{07 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}Wait just a dang second!{01 00 00 14 00}\n{07 01 00}No way, {01 00 00 05 00}{04 02 00}!\n\n{07 15 00}You better work on your{01 00 00 05 00}\ndelivery if you can't even\nfool me, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  }
+ ]
+}

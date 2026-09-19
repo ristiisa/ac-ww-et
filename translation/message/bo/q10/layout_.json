@@ -1,0 +1,60 @@
+{
+ "file": "script/ENG/message/bo/q10/layout_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 16 00}Say, no offense,{01 00 00 0a 00} but your\nplace is kind of a pigsty...\n\n{07 1b 00}I mean, you knew I was\ncoming, so you could've\npicked up a little.\n{07 00 00}So, um, I'm going to give\nthis room {04 12 00} out of\nfive stars.",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 0e 00}Hmmm{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}. {07 16 00}No offense, but\nthis place is kinda getting\non my nerves.\nYou need to put things\naway if you're not using\n'em! Everyone knows that!\n{07 06 00}Out of five stars, this\nplace gets {04 12 00},\n{01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 16 00}Man, your furniture is all\nkinds of jacked up,\n{01 00 00 05 00}{04 02 00}!\n{07 1c 00}{01 00 00 0a 00}Some of it's facing the wall\nlike you're getting ready to\nrumble or something!\n{07 15 00}Hurry up and move it back!{01 00 00 14 00}\n{07 01 00}If not, I'm giving\nyour room {04 12 00}!",
+   "et": ""
+  },
+  {
+   "id": 3,
+   "en": "{07 16 00}Uh, {01 00 00 05 00}are you punishing your\nfurniture or something?{07 0b 00}\nAre you, {01 00 00 05 00}{04 02 00}?\n{07 06 00}Look, {01 00 00 05 00}it's facing the wall.\nIt's sorry, OK? {01 00 00 05 00}{07 14 00}I think you\nshould kiss and make up.\n{07 19 00}I'm gonna have to give you\n{04 12 00} out of five\nstars.{07 15 00}",
+   "et": ""
+  },
+  {
+   "id": 4,
+   "en": "{07 00 00}.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}Hey, {01 00 00 05 00}how do you even\nlive here, {07 0b 00}{01 00 00 05 00}{04 02 00}?\n{01 00 00 05 00}I'm not kidding!\n{07 06 00}I mean, {01 00 00 05 00}you don't have\na.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}you know!{01 00 00 14 00} You gotta have\none of those!\n{07 19 00}Out of five stars, I'm going\nto have to give this house\n{01 01 00}{07 1b 00}{04 12 00}.",
+   "et": ""
+  },
+  {
+   "id": 5,
+   "en": "{07 16 00}Hey, {04 1f 00}.{01 00 00 0a 00} I know\nyou've got your system or\nwhatever,\n{07 1b 00}but isn't it better to live\nin a place that matches\nthe rest of your life?\n{07 00 00}Like, you may have cool\nthreads and all, but you\nlive in a dump, see?{07 1c 00}{01 00 00 0a 00}\nSo for the dump-diving\nhipster, I have to say.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}\n\n{07 00 00}You get {04 12 00} out of\nfive stars!",
+   "et": ""
+  },
+  {
+   "id": 6,
+   "en": "{07 14 00}Collecting all of one sort\nof furniture{01 00 00 05 00} gives your\nplace a nice feel, you know?\n{07 00 00}Now in your place.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} {07 16 00}I don't\nsee a whole lot of matching\npieces{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.\n{07 19 00}Yeah, {01 00 00 05 00}so I'm going to have\nto give you {04 12 00} out\nof five stars!{07 14 00}",
+   "et": ""
+  },
+  {
+   "id": 7,
+   "en": "{07 0e 00}You know, you can pretty\nmuch do whatever you want\nwith the furniture,\n{07 00 00}but if you put as many\nsimilar pieces together as\nyou can,\n{07 0d 00}then I think it really pulls\nthe whole room together,\nyou know, {01 00 00 05 00}{04 02 00}?\n{07 00 00}Now this room is not what\nI'd call together, {01 00 00 05 00}so you\nonly get {01 00 00 05 00}{04 12 00}!",
+   "et": ""
+  },
+  {
+   "id": 8,
+   "en": "{07 00 00}Spaghetti, {01 00 00 03 00}ice cream,{01 00 00 03 00} and\n{01 00 00 05 00}me!{01 01 00} {07 14 00}Now that's a happy\nfamily, {01 00 00 0a 00}{04 02 00}!\n{07 0a 00}And your place definitely\nhas that happy family\nfeeling!\nYep, I give it {04 12 00} out\nof five stars!\n\n{07 19 00}The only way to go up from\nhere is to collect sets\nof furniture!{07 14 00}",
+   "et": ""
+  },
+  {
+   "id": 9,
+   "en": "{07 14 00}You're amazing, {04 1f 00}!\nJust look at this place!\n\n{07 19 00}The way you've decked your\npad out with matching\nfurniture sets.{01 00 00 05 00}{01 00 00 05 00}.{01 00 00 05 00}.{07 00 00}\n{07 0c 00}Yep, you've definitely\nearned your {04 12 00}\nscore!{01 01 00} {07 17 00}You're the bomb!",
+   "et": ""
+  },
+  {
+   "id": 10,
+   "en": "{07 14 00}Wow! {01 00 00 0a 00}Way to go, {04 1f 00}!{01 01 00}\n{07 0a 00}This room is perfect!{01 01 00} An\nunmistakable {04 12 00}!\n{07 0d 00}Now, {01 00 00 05 00}this is out of\nfive stars, of course,\nso feel free to brag!",
+   "et": ""
+  }
+ ]
+}

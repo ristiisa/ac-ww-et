@@ -1,0 +1,20 @@
+{
+ "file": "script/ENG/message/ha/q07/open2_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": ".{01 00 00 0a 00}.{01 00 00 0a 00}.{01 00 00 0a 00}{07 04 00}Huh-what?!{01 00 00 0a 00} What's THIS?!{01 00 00 0a 00}\nMan, this letter is already\nopened! {01 00 00 05 00}That ain't right!\n{07 1c 00}It was probably you, too{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00}\nI mean, I understand the\ntemptation, but...\n{07 16 00}This is just not cool,\n{01 00 00 05 00}{04 02 00}...{03 03 00 01}",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 04 00}Whoa!{01 00 00 0a 00} Have I gone nuts, or{01 00 00 05 00}\ndid someone already open\nthis letter, {01 00 00 05 00}{04 02 00}?\n{07 15 00}But it must've been{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}\nNo! {01 00 00 05 00}It COULDN'T have been\nyou, could it?\n{07 00 00}The {04 1f 00} I THOUGHT I\nknew would never do such\na thing...{03 03 00 01}",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 04 00}You gotta be KIDDING me!{01 00 00 0f 00}\nThis letter is opened\nalready, {01 00 00 05 00}{04 02 00}!\n{07 16 00}What?!{01 00 00 0a 00} You READ it?!{01 00 00 05 00}\nNoooo! {01 00 00 05 00}That's not true!{01 00 00 05 00}\nThat's IMPOSSIBLE!\n{07 05 00}That's an invasion of{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\nThat's a violation of{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\nThat's bad!{03 02 00 01}",
+   "et": ""
+  }
+ ]
+}

@@ -1,0 +1,35 @@
+{
+ "file": "script/ENG/message/ta/q12/full_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 0b 00}Huh? {01 00 00 14 00}It looks like you're\nall bogged down with stuff!{01 00 00 0f 00}\n{07 00 00}Tee hee hee!\nWell, the solution is simple.{01 00 00 0f 00}\n{07 1b 00}Go take care of that and\ncome see me again!",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": ".{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}Hey! Wait a sec! {01 00 00 0a 00}{07 0b 00}What's\nthe big idea,{01 00 00 05 00} huh?\n{01 00 00 05 00}{0b 03 00}{04 02 00}?!\n{07 1b 00}Your hands are full and \nyou can't carry any more!{01 01 00}\n{07 1c 00}Hrmph!",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 14 00}Oh yeah, {01 00 00 05 00}I still haven't\nthanked you for the\n{ff 00 00 07}medicine{ff 00 00 00}.",
+   "et": ""
+  },
+  {
+   "id": 3,
+   "en": "{07 14 00}Oh, hey, {01 00 00 05 00}I still haven't \nthanked you for the\n{ff 00 00 07}medicine{ff 00 00 00}, have I?",
+   "et": ""
+  },
+  {
+   "id": 4,
+   "en": "{07 16 00}But {04 1f 00}, you're\ncarrying way too much\nstuff.\n{07 1b 00}You should really do\nsomething about that, \n{01 00 00 0a 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 5,
+   "en": "{07 04 00}Oh,{01 00 00 05 00} your pockets are still\nfull! {01 01 00}{07 1b 00}Go lighten your load,\nthen come back and see me!",
+   "et": ""
+  }
+ ]
+}

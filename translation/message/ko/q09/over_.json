@@ -1,0 +1,20 @@
+{
+ "file": "script/ENG/message/ko/q09/over_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 02 00}Oh, no.{01 00 00 0f 00} This is so awful.\nI can't even believe you\nfound me, {01 00 00 05 00}{0b 03 00}{04 02 00}.\n{07 00 00}Yeah, too bad you're\nTOO LATE! Nice try though,\n{01 00 00 05 00}{04 1f 00}!\n{07 14 00}Looks like the master wins\nagain, {01 00 00 05 00}{04 02 00}!{03 01 00 01}",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 11 00}Heh {01 00 00 05 00}heh{01 00 00 05 00} heh.{01 00 00 05 00} Pretty\nimpressive, {01 00 00 05 00}{04 1f 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n\n{07 15 00}Oh, how sad. It looks like\nyou're too late. {01 00 00 05 00}That means\nsweet victory is ALL MINE!\n{07 03 00}Muwahaha{01 00 00 05 00} hahahaha!\n{07 00 00}But, {01 00 00 05 00}I guess I have\nto give you some credit.\n{07 15 00}There's no way a kid like\nyou could beat a master\nlike me!{03 01 00 01}",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 02 00}Arggg!{01 00 00 0f 00}I can't believe I let\nyou find me, {01 00 00 05 00}{04 02 00}!\n\n{07 00 00}I'd be even more\nembarrassed {07 14 00}if you\nhadn't taken way too long!\n{07 11 00}So, {01 00 00 05 00}{04 1f 00},{01 00 00 0f 00} you lose\nbig this time{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 01 00}\n{07 14 00}and I win!\n{07 0a 00}Whoa.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} Man, that feels\nGOOD!{03 01 00 01}",
+   "et": ""
+  }
+ ]
+}

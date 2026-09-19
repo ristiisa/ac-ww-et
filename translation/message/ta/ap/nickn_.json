@@ -1,0 +1,35 @@
+{
+ "file": "script/ENG/message/ta/ap/nickn_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 00 00}Hey, {01 00 00 05 00}{04 1f 00}!{01 00 00 14 00} {07 14 00}I just\ncame up with the absolute\nPERFECT nickname for you!\n{07 00 00}It's written all over \nyour face{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00} {07 0b 00}Wanna hear it?\n",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 16 00}Oh, {01 00 00 05 00}I get it...{01 00 00 14 00} {07 1b 00}You're just,\nlike, {01 00 00 0a 00}the mortal enemy of\nfun, {01 00 00 0a 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 15 00}It's {ff 00 00 02}{04 0f 00}{ff 00 00 00}!{01 01 00} {07 14 00}PRET-ty\nawesome, huh, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 3,
+   "en": "{07 16 00}Which part don't you like?{01 00 00 0a 00}\n{07 15 00}WHAT?! {01 00 00 0a 00}All of it?!{01 01 00} {07 1c 00}Tough\ncrowd, {01 00 00 0a 00}{04 02 00}!\n{07 1b 00}Well, OK then, tell me what\nyou want to be called, \n{01 00 00 0a 00}{04 02 00}.",
+   "et": ""
+  },
+  {
+   "id": 4,
+   "en": "{07 04 00}Huh? {01 00 00 0a 00}\"{0b 03 00}{ff 00 00 02}{04 0f 00}{ff 00 00 00}\"?{01 00 00 14 00} {07 16 00}THAT'S\nwhat you want? {01 00 00 0a 00}Sheesh!",
+   "et": ""
+  },
+  {
+   "id": 5,
+   "en": "{07 14 00}Well, in that case,\n{ff 00 00 02}{04 1f 00}{ff 00 00 00} it is! {01 01 00}{07 00 00}Have a\nwonderful day, {01 00 00 0a 00}{07 14 00}{ff 00 00 02}{04 1f 00}{ff 00 00 00}.",
+   "et": ""
+  }
+ ]
+}

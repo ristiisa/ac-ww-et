@@ -1,0 +1,20 @@
+{
+ "file": "script/ENG/message/bo/q04/con1_2_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 16 00}I need some cool clothes,\n{01 00 00 0a 00}{04 02 00}. {01 00 00 0a 00}Yeah! I totally\nneed a superhero outfit!",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 0b 00}What kind of clothes are\nyou into, {01 00 00 05 00}{04 02 00}?\n\n{07 14 00}I'm always into devising\ndisguises for my superhero\nalter ego.",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 16 00}Sometimes, I like to tie a\ntowel around my neck and\nput a mask on and yell:\n{07 0d 00}{01 00 00 0a 00}\"Heee-ya!{01 00 00 14 00} Superhero\npowers, activate!{01 00 00 0a 00} It's the\namazing {04 01 00} Boy!\"",
+   "et": ""
+  }
+ ]
+}

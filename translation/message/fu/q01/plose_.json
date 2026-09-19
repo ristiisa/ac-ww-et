@@ -1,0 +1,15 @@
+{
+ "file": "script/ENG/message/fu/q01/plose_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 04 00}Heya, {04 1f 00}!{01 00 00 0f 00} Whoa!\nDid you catch yourself\n{04 1c 00}?\n{07 00 00}And it's a really nice one,\ntoo!{01 00 00 0f 00} {07 14 00}But not as nice as my\n{0b 02 00}{04 1d 00}!\nThat's right! Gaze upon its\nmajesty!{01 00 00 05 00} I think we both\nknow who the winner is.\n{07 14 00}But if you don't, I'd better\nspell it out, {04 1f 00}.{01 00 00 05 00}\n{07 0d 00}The winner is me!",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 04 00}Heya, {04 1f 00}.{01 00 00 0a 00} Looks to\nme like you caught yourself\n{04 1c 00}!\n{07 14 00}You must be pleased. It's\nalmost as awesome as my\n{0b 02 00}{04 1d 00}.\n{07 15 00}So, I guess there's nothing\nleft but to see whose bug\nis more rare, {01 00 00 05 00}{04 02 00}!\n{07 16 00}It's pretty clear that my\n{0b 02 00}{04 1d 00} is\nthe better bug.\n{07 14 00}I declare myself the\nwinner!{01 00 00 05 00} Better luck next\ntime, {04 1f 00}!",
+   "et": ""
+  }
+ ]
+}

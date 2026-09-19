@@ -1,0 +1,65 @@
+{
+ "file": "script/ENG/message/ko/tsu/move1_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 06 00}This is awkward.{01 00 00 0f 00} You caught\nme in the act. How'd you \nknow I was skipping town?\nWha-what,{01 00 00 05 00} {04 1f 00}? You\ndidn't know? Well...who said\nI was, {01 00 00 05 00}{04 02 00}?\nWhy, do you want me to\nleave {04 03 00}?",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "Hey, {01 00 00 0f 00}{04 1f 00}.{01 00 00 14 00} I wasn't\ngonna tell anyone, but{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\nI'm leaving {04 03 00}.\n{07 16 00}Nobody's ever nice to me.{01 00 00 0f 00}\nExcept you. {01 00 00 0f 00}Sometimes.{01 00 00 0f 00}\n\nYou've got to carry on the\ncurmudgeon torch when\nI'm gone, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "Hey, {01 00 00 05 00}{04 1f 00}.{01 00 00 14 00} I'm gonna\ngive it to you straight{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n\n{07 15 00}I'm leaving this awful town!\nAnd don't try to stop me,\n{01 00 00 05 00}{04 02 00}!\nI know who my friends are,\nand they're all somewhere\nelse!",
+   "et": ""
+  },
+  {
+   "id": 3,
+   "en": "{07 15 00}You better not forget me,\n{01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 4,
+   "en": "{07 14 00}Take care of yourself, kid.{01 00 00 05 00}\nI'm gone, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 5,
+   "en": "Tell {04 0e 00} good-bye\nfor me, will ya,{01 00 00 05 00}\n{04 02 00}?\n{07 19 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}Just say that {04 01 00}\nhad to run from the law,\n{01 00 00 05 00}{04 02 00}.",
+   "et": ""
+  },
+  {
+   "id": 6,
+   "en": "{07 16 00}Sorry, kid.{01 00 00 0f 00} {07 15 00}My mind is more\nset than concrete,\n{01 00 00 05 00}{04 02 00}.",
+   "et": ""
+  },
+  {
+   "id": 7,
+   "en": "{07 14 00}Oh, {01 00 00 05 00}really?{01 00 00 05 00}\n\n\n{07 15 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}HAH!{01 00 00 0f 00} Did you think you{01 00 00 05 00}\ncould change my mind{01 00 00 05 00}\nthat easily, {01 00 00 05 00}{04 02 00}?!",
+   "et": ""
+  },
+  {
+   "id": 8,
+   "en": "{07 01 00}You won't have me to kick\naround anymore. {01 00 00 14 00}So long,{01 00 00 14 00}\n{01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 9,
+   "en": "{07 16 00}Quit tryin' to change my\nmind, {01 00 00 05 00}{04 02 00}.\n\n{07 06 00}I've made my decision and\nI'm stickin' with it!",
+   "et": ""
+  },
+  {
+   "id": 10,
+   "en": "{0b 03 00}{04 1f 00}, you're the only\none who tried to stop me,\n{01 00 00 05 00}{04 02 00}.\n{07 15 00}Thanks for sticking with\nme. It's nice to be wanted.\nMaybe I'll reconsider...",
+   "et": ""
+  },
+  {
+   "id": 11,
+   "en": "{07 0b 00}What?{01 00 00 0f 00} Really? {07 00 00}Well, \nmaybe I'll reconsider{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n\n{07 15 00}But I'll expect some strong\ndisplays of affection!\n",
+   "et": ""
+  }
+ ]
+}

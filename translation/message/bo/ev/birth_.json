@@ -1,0 +1,45 @@
+{
+ "file": "script/ENG/message/bo/ev/birth_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 14 00}{0b 03 00}{04 1f 00}!!!",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 16 00}Oh, uh{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} {07 00 00}T-today is your\nbirthday, isn't it,\n{04 1f 00}?\n{07 16 00}I knew I had something\nimportant today,{01 00 00 0a 00} but I\ncouldn't remember what.\n{07 14 00}Huh huh huh!{01 00 00 0a 00} But don't you\nworry. {07 0d 00}I still managed to\nget you a present!",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 14 00}So,{01 00 00 05 00}{01 00 00 0a 00} {04 1f 00}? Tell me.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n{07 0b 00}Are you happy?",
+   "et": ""
+  },
+  {
+   "id": 3,
+   "en": "{07 0a 00}YAY! HOORAYYY! {01 01 00}{07 00 00}Huh huh huh!{01 00 00 0a 00}\nLet's stay friends forever,{01 00 00 0a 00}\n{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 4,
+   "en": "{07 0f 00}{01 00 00 0a 00}Oh.{01 00 00 05 00} I see{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 01 00} {07 16 00}I'm sorry.{01 00 00 0a 00} I was\njust in such a rush to buy\nsomething{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n{07 0f 00}I just bought something\nthat I knew I would like{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00}\n{04 02 00}.{03 03 00 01}",
+   "et": ""
+  },
+  {
+   "id": 5,
+   "en": "{07 00 00}{ff 00 00 06}{04 0f 00}{ff 00 00 00},",
+   "et": ""
+  },
+  {
+   "id": 6,
+   "en": "{ff 00 00 06}{04 0f 00}{ff 00 00 00} and I",
+   "et": ""
+  },
+  {
+   "id": 7,
+   "en": "{07 0d 00}combined our spare Bells to\nbuy it, {01 00 00 0a 00}{04 02 00}!{01 01 00} {07 00 00}Please\ntake it and enjoy it!",
+   "et": ""
+  }
+ ]
+}

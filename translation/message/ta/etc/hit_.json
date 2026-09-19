@@ -1,0 +1,30 @@
+{
+ "file": "script/ENG/message/ta/etc/hit_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 04 00}Hey! {01 00 00 14 00}Ouch!\n\n\n{07 15 00}Listen, {04 1f 00}!{01 00 00 14 00} {07 05 00}{01 00 00 05 00}What\nmakes you think you can\njust hit me on the head!",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 04 00}Ow! {01 00 00 14 00}{07 15 00}What do you think\nyou're doing, {04 1f 00}!\nYou're lucky I'm a pacifist!\n{07 05 00}Watch where you swing that\nthing, {01 00 00 0a 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 15 00}That is, like, {01 00 00 05 00}so not cool!\n{07 05 00}{01 00 00 0a 00}If you're just dying to hit\nsomeone, hit yourself!",
+   "et": ""
+  },
+  {
+   "id": 3,
+   "en": "{07 15 00}You've got some nerve!{01 00 00 0a 00}\n{07 1b 00}What are you doing!? {01 00 00 0a 00}Who do\nyou think you are!?",
+   "et": ""
+  },
+  {
+   "id": 4,
+   "en": "{07 15 00}Just keep it up!{01 00 00 0a 00} 'Cause you\nknow, {04 1f 00}, what\ngoes around comes around!",
+   "et": ""
+  }
+ ]
+}

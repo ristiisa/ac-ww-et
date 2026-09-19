@@ -1,0 +1,20 @@
+{
+ "file": "script/ENG/message/ko/q10/reserved_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 14 00}Oh!{01 00 00 0f 00} So {04 10 00}:{04 11 00}! And we ARE\ntalking about the {04 0f 00},\nnot some other day?\n{07 0d 00}I'll {01 00 00 05 00}be looking forward to \nit, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 19 00}All right, {01 00 00 05 00}{04 02 00}.{01 00 00 14 00}\nYou DO mean the {04 0f 00},\nI'm assuming.\n{07 14 00}I'll be there right at\n{04 10 00}:{04 11 00}, so you'd better be\nready for me, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 14 00}Oh!{01 00 00 14 00} As long as you mean\nthe {04 0f 00}, not some other\nday, I'm cool, {01 00 00 05 00}{04 02 00}.\n{07 00 00}I'll be there right at\n{04 10 00}:{04 11 00}, OK?\nSweet{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} This'll be sweet.",
+   "et": ""
+  }
+ ]
+}

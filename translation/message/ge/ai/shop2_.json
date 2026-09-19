@@ -1,0 +1,45 @@
+{
+ "file": "script/ENG/message/ge/ai/shop2_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "Heya! Guess what! Today\nmight be the day I buy my\nBRAND NEW DRESS{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 14 00}I'm like a new butterfly,\n{04 02 00}!{01 00 00 0a 00} But without\nall that icky cocoon juice!",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 0e 00}Oh, wow. Do I want {01 00 00 0a 00}ruffles?{01 00 00 05 00}\nOr {01 00 00 0a 00}no ruffles? Hmmm...{01 00 00 05 00}\nOh! What about...PLEATS?!\nHmmmmm{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n{07 08 00}WAAAAAH!! It's no good!!{01 00 00 05 00}\nI can't decide, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 14 00}Oh, {04 1f 00}!{01 00 00 05 00} Oh{01 00 00 0a 00} my{01 00 00 0a 00}\ngosh!{01 00 00 0a 00} I can't believe it!{01 00 00 0a 00}\n{07 00 00}That's...{01 00 00 0a 00} That's...\nThat's the latest trend,{01 00 00 05 00}\nisn't it, {01 00 00 05 00}{04 02 00}?\nIt's called.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 0b 00} Uuuuuuummm...{01 00 00 14 00}\n{07 15 00}Phooey! I can't remember\nthe name, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 3,
+   "en": "{07 16 00}Oh no!{01 00 00 05 00} Noooooo!{01 00 00 0a 00} I can't\ndecide what to get! I love\n'em ALL, {01 00 00 05 00}{04 02 00}!\n{07 00 00}I wish there was some\nrich Prince Charming who\nwould come along...\nand make me{01 00 00 0a 00} all this stuff!{01 00 00 05 00}\n{07 0a 00}That would be SO great,\n{01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 4,
+   "en": "{07 14 00}This store is soooo clean\nand nice! I just love it\nhere, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 5,
+   "en": "{07 16 00}Weeell... I guess I don't\nHAVE to buy anything today.\n\n{07 0c 00}Maybe I should swing by\n{ff 00 00 06}Tom Nook{ff 00 00 00}'s store!{01 00 00 05 00} I bet he\nhas something, {01 00 00 05 00}{04 02 00}!{07 00 00}",
+   "et": ""
+  },
+  {
+   "id": 6,
+   "en": "{07 16 00}The latest fashion trends\nchange so often{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}. It's even\nhard for ME to keep up!",
+   "et": ""
+  },
+  {
+   "id": 7,
+   "en": "{07 14 00}Oh, heya, {01 00 00 05 00}{04 1f 00}.\nAre you shopping too,\n{01 00 00 05 00}{04 02 00}?\n{07 16 00}Money's kinda tight this\nmonth,{01 00 00 05 00} so thank goodness\nI don't want anything today!\n{07 15 00}What?! {01 01 00} Then {01 00 00 05 00}why did I\ncome here?!{01 00 00 0a 00} {07 01 00}None of your\nbeeswax, nosy!",
+   "et": ""
+  }
+ ]
+}

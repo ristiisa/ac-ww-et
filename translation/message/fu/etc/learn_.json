@@ -1,0 +1,100 @@
+{
+ "file": "script/ENG/message/fu/etc/learn_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 04 00}Hm? What was that supposed\nto be, {01 00 00 05 00}{04 02 00}?\n\n{0b 03 00}{04 1f 00}, is this what\nyou were trying to do?{07 00 00}",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 04 00}What?{01 01 00} Were you just trying\nto{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00} Is this what you\nwanted to do, {01 00 00 05 00}{04 02 00}?{07 00 00}",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 04 00}{0b 03 00}{04 1f 00}!{01 00 00 0a 00} What's with\nthat look on your face?\n\nAre you {01 00 00 05 00}{07 0b 00}mocking me?{01 01 00}\nI always thought I looked\nmore like this{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}",
+   "et": ""
+  },
+  {
+   "id": 3,
+   "en": "{07 00 00}Here, {01 00 00 05 00}{04 1f 00},{01 00 00 0a 00} let me\nshow you how it's done.\n\nYou were feeling, what,{01 00 00 05 00}\n{ff 00 00 02}{04 0f 00}{ff 00 00 00}?{01 00 00 05 00} OK, pay\nattention, {01 00 00 05 00}{04 02 00}.",
+   "et": ""
+  },
+  {
+   "id": 4,
+   "en": "{07 00 00}That's not bad for an\namateur, but you need to\nget more into it.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}\nIf {ff 00 00 02}{04 0f 00} {ff 00 00 00}is\nwhat you're feeling, you\nreally need to FEEL it!",
+   "et": ""
+  },
+  {
+   "id": 5,
+   "en": "{07 00 00}Anyway, watch closely, and\nI'll show you how it's done.",
+   "et": ""
+  },
+  {
+   "id": 6,
+   "en": "{07 00 00}Stand back, and prepare to\nbe awed, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 7,
+   "en": "{07 0b 00}Do you think you've got the\ngist of it, {01 00 00 05 00}{04 02 00}?",
+   "et": ""
+  },
+  {
+   "id": 8,
+   "en": "Phew! You know, it's hard to\ndo stuff like that on\ncommand, {01 00 00 05 00}{04 02 00}.\nSo, {07 0b 00}did you get it?",
+   "et": ""
+  },
+  {
+   "id": 9,
+   "en": "{07 00 00}Really? {01 00 00 14 00}You're a bit of a\nslow study, aren't you? {01 00 00 05 00}Pay\nclose attention this time!",
+   "et": ""
+  },
+  {
+   "id": 10,
+   "en": "{07 00 00}No, it's OK. {01 00 00 05 00}I don't mind\ndoing it again for you. {01 00 00 05 00}But\npay attention this time!",
+   "et": ""
+  },
+  {
+   "id": 11,
+   "en": "{07 14 00}It looks like you've really\ngotten in touch with your\ninner {ff 00 00 02}{04 0f 00}{ff 00 00 00}!\nNice work, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 12,
+   "en": "{07 14 00}Nice work! You are hereby\nawared the title of of\n{ff 00 00 02}{04 0f 00} {ff 00 00 00}master!\nCongrats, {04 1f 00}!",
+   "et": ""
+  },
+  {
+   "id": 13,
+   "en": "{07 04 00}Oh! You just can't learn any\nmore {ff 00 00 02}expressions{ff 00 00 00}! Not\nunless you forget one.{01 00 00 05 00}.{01 00 00 05 00}.\nIs there something you just\n{07 0b 00}don't feel like feeling\nanymore?",
+   "et": ""
+  },
+  {
+   "id": 14,
+   "en": "{07 04 00}Nice, {01 00 00 05 00}{04 02 00}!{01 01 00}\n{07 16 00}But, {04 1f 00},{01 00 00 05 00} you can't\nremember a new {ff 00 00 02}expression{ff 00 00 00}!\n{07 0e 00}Maybe you could try to\nforget some feeling you\ndon't like very much.\n{07 00 00}Is there something you\n{07 0b 00}don't want to {ff 00 00 02}express{ff 00 00 00}\nanymore, {01 00 00 05 00}{04 02 00}?",
+   "et": ""
+  },
+  {
+   "id": 15,
+   "en": "OK, on the count of three!\nHere.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}we.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}{01 01 00}{01 08 00}GO!\n\nThat's it. No more\n{ff 00 00 02}{04 10 00}{ff 00 00 00} for you!\n\nBut anytime you feel\n{ff 00 00 02}{04 0f 00}{ff 00 00 00}, you're\nfree to show the world!",
+   "et": ""
+  },
+  {
+   "id": 16,
+   "en": "{07 00 00}All right. If you're sure\nabout this, {01 00 00 05 00}{04 02 00}.\n\nThree.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00} Two.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00} One.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00} {01 01 00}{01 08 00}POW!\n\n\nWell, that's that! You've\nlost the ability to express\n{ff 00 00 02}{04 10 00}{ff 00 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\nBut now, whenever you feel\n{ff 00 00 02}{04 0f 00}{ff 00 00 00}, {07 0a 00}everyone\nwill know it, {01 00 00 05 00}{04 02 00}",
+   "et": ""
+  },
+  {
+   "id": 17,
+   "en": "{07 14 00}That's for the best.{01 00 00 05 00} I get\nattached to my feelings. I\ncouldn't pick one to forget.\nYou take good care of your\nfeelings,{01 00 00 05 00} and never lose the\nability to {ff 00 00 02}express{ff 00 00 00} yourself!",
+   "et": ""
+  },
+  {
+   "id": 18,
+   "en": "{07 00 00}I get you.{01 01 00} Even bad feelings\nare hard to let go of.",
+   "et": ""
+  }
+ ]
+}

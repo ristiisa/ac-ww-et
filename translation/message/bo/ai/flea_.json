@@ -1,0 +1,20 @@
+{
+ "file": "script/ENG/message/bo/ai/flea_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 0a 00}Whoa, I feel loads better!{01 01 00}\n{07 07 00}I had this feeling that{01 00 00 05 00} I\nwas being followed... {01 00 00 0a 00}Scary!\n{07 0d 00}Who knew that you were SO\ngood at catching bugs, \n{04 1f 00}? {01 00 00 0a 00}{0b 03 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 02 00}{01 08 00}HEY!!!{01 01 00} Oh, NO!!{01 00 00 14 00} M{01 00 00 0a 00}-my{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n\n\n{07 06 00}My buddies!!!{01 00 00 14 00} You've\nkidnapped my buddies!{01 00 00 05 00}\n{0b 03 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 02 00}Whoa!{01 00 00 14 00} {07 06 00}Hey, {01 00 00 05 00}I had no idea!{01 00 00 0a 00}\nNone at all!{01 00 00 14 00} 'Cause it's not\nlike I was itchy{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 15 00}And I wash every day!{01 00 00 0a 00}\nHonest! {01 00 00 05 00}{0b 03 00}{04 02 00}!",
+   "et": ""
+  }
+ ]
+}

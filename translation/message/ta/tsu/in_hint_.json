@@ -1,0 +1,35 @@
+{
+ "file": "script/ENG/message/ta/tsu/in_hint_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 14 00}In my opinion, if I were\n{04 1a 00},{01 00 00 0a 00}\nI'd hang out around trees.\n{07 0d 00}Oh, yeah,{01 00 00 0f 00} at this time of\nyear, they're sure to be\nthere, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "If you want to catch a cute\n{0b 02 00}{04 1a 00},{01 00 00 05 00}\nlook in grassy areas.\n{07 19 00}You know to look\n{04 12 00}, but{01 01 00} {07 14 00}fate\nalso plays a part in it!",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 00 00}I'm very particular about{01 00 00 0a 00}\nbugs, {01 00 00 0a 00}{04 02 00}.\n\n{07 19 00}At this time of year, my\nfavorite is the\n{0b 02 00}{04 1a 00}.\n{07 14 00}Your chances for finding\none are pretty good\n{04 12 00}!",
+   "et": ""
+  },
+  {
+   "id": 3,
+   "en": "{07 0f 00}{01 00 00 0a 00}Man{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0f 00} I need a cute little\n{0b 02 00}{04 1a 00} to\nround out my collection.\nBut I can't find any.{01 00 00 05 00}\n{07 16 00}Sometimes{01 00 00 0a 00} you get stuck\nlooking in the same place{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 1c 00}{01 00 00 0a 00}It's like being in a hair\nrut, you know, {04 02 00}?",
+   "et": ""
+  },
+  {
+   "id": 4,
+   "en": "Hmmm{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}. {07 04 00}{01 00 00 14 00}Oh! What in the\nworld am I doing?\n\n{07 0e 00}I was looking for a cool\n{0b 02 00}{04 1a 00} in\nthe grass, but{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 02 00}{01 00 00 0a 00}But I still haven't caught\nanything!{01 01 00} {07 08 00}Ugh!{01 00 00 0a 00} I'm so dumb!{01 00 00 14 00}\nI gotta get it together!",
+   "et": ""
+  },
+  {
+   "id": 5,
+   "en": "{07 0e 00}I look but can't find it.{01 00 00 14 00} I\nhunt but can't catch it{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 1b 00}At this time of year,\n{0b 01 00}{04 1a 00}\nlives freely and{01 01 00}{07 10 00} without a\ncare{01 00 00 05 00}, {04 02 00}.",
+   "et": ""
+  }
+ ]
+}

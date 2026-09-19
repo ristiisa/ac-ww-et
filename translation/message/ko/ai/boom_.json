@@ -1,0 +1,30 @@
+{
+ "file": "script/ENG/message/ko/ai/boom_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 0e 00}Hmm{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} What should I do\nnext, {01 00 00 05 00}{04 02 00}?",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 0e 00}I think the safe choice{01 00 00 05 00}\nwould be to try to get my\nhands on one of those{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\nMan, but I'd like one of\nthose, too{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 01 00} I'm confused,\n{01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 0e 00}Hmm.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0f 00} What's the best\nmove for me now?{01 00 00 0f 00} Hmm{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.",
+   "et": ""
+  },
+  {
+   "id": 3,
+   "en": "{07 0e 00}In the end, what is it that\nI want? What's{01 00 00 05 00} my passion?",
+   "et": ""
+  },
+  {
+   "id": 4,
+   "en": "{07 0e 00}I should probably start\nthinking about broadening\nmy horizons, {01 00 00 05 00}{04 02 00}.",
+   "et": ""
+  }
+ ]
+}

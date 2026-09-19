@@ -1,0 +1,30 @@
+{
+ "file": "script/ENG/message/ge/ai/boom_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 0e 00}Hmmm{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} What should I do\nnow, {01 00 00 05 00}{04 02 00}?",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 0e 00}I think.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}maybe I'll give that\na try, {01 00 00 05 00}{04 02 00}.",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 0e 00}I want to try this{01 00 00 05 00} and I\nwant to try that{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00} Oh,{01 00 00 05 00}\ndarn it all!",
+   "et": ""
+  },
+  {
+   "id": 3,
+   "en": "{07 0e 00}I want everyone to think I'm\non {01 00 00 0a 00}the cutting edge,\n{01 00 00 05 00}{04 02 00}.",
+   "et": ""
+  },
+  {
+   "id": 4,
+   "en": "{07 0b 00}And of course, {01 00 00 05 00}there's\nalways that. {01 00 00 05 00}But that goes\nwithout saying, {04 02 00}.",
+   "et": ""
+  }
+ ]
+}

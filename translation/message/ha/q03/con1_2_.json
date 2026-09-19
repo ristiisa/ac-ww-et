@@ -1,0 +1,20 @@
+{
+ "file": "script/ENG/message/ha/q03/con1_2_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 01 00}Fossils!{01 00 00 0a 00} Must have fossils,\n{01 00 00 05 00}{04 02 00}!\n\n{07 0b 00}Hey, did you forget the\npromise you made to me?{01 01 00}\n{07 06 00}That's uncool!",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 0b 00}Got {01 00 00 05 00}fossils?{01 00 00 14 00}\n{07 16 00}I sure don't!\n\n{07 06 00}Do I need to dig deeper,\n{01 00 00 05 00}{04 02 00}?!",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 06 00}I can't find a fossil!{01 01 00}\n{07 0b 00}How about just a rock?\n\n{07 04 00}ARRRGH!!{01 00 00 05 00} NO! NO! NO!{01 00 00 14 00}\n{07 16 00}Of course that isn't good\nenough, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  }
+ ]
+}

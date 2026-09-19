@@ -1,0 +1,165 @@
+{
+ "file": "script/ENG/string/st_music.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "classical",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "pop",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "jazz",
+   "et": ""
+  },
+  {
+   "id": 3,
+   "en": "fusion",
+   "et": ""
+  },
+  {
+   "id": 4,
+   "en": "rock",
+   "et": ""
+  },
+  {
+   "id": 5,
+   "en": "karaoke",
+   "et": ""
+  },
+  {
+   "id": 6,
+   "en": "oldies",
+   "et": ""
+  },
+  {
+   "id": 7,
+   "en": "bluegrass",
+   "et": ""
+  },
+  {
+   "id": 8,
+   "en": "hip-hop",
+   "et": ""
+  },
+  {
+   "id": 9,
+   "en": "bebop",
+   "et": ""
+  },
+  {
+   "id": 10,
+   "en": "choral",
+   "et": ""
+  },
+  {
+   "id": 11,
+   "en": "J-pop",
+   "et": ""
+  },
+  {
+   "id": 12,
+   "en": "rockabilly",
+   "et": ""
+  },
+  {
+   "id": 13,
+   "en": "cabaret",
+   "et": ""
+  },
+  {
+   "id": 14,
+   "en": "polka",
+   "et": ""
+  },
+  {
+   "id": 15,
+   "en": "opera",
+   "et": ""
+  },
+  {
+   "id": 16,
+   "en": "salsa",
+   "et": ""
+  },
+  {
+   "id": 17,
+   "en": "mambo",
+   "et": ""
+  },
+  {
+   "id": 18,
+   "en": "reggae",
+   "et": ""
+  },
+  {
+   "id": 19,
+   "en": "tango",
+   "et": ""
+  },
+  {
+   "id": 20,
+   "en": "synthpop",
+   "et": ""
+  },
+  {
+   "id": 21,
+   "en": "flamenco",
+   "et": ""
+  },
+  {
+   "id": 22,
+   "en": "blues",
+   "et": ""
+  },
+  {
+   "id": 23,
+   "en": "soul",
+   "et": ""
+  },
+  {
+   "id": 24,
+   "en": "techno",
+   "et": ""
+  },
+  {
+   "id": 25,
+   "en": "ballad",
+   "et": ""
+  },
+  {
+   "id": 26,
+   "en": "samba",
+   "et": ""
+  },
+  {
+   "id": 27,
+   "en": "R&B",
+   "et": ""
+  },
+  {
+   "id": 28,
+   "en": "Euro-pop",
+   "et": ""
+  },
+  {
+   "id": 29,
+   "en": "metal",
+   "et": ""
+  },
+  {
+   "id": 30,
+   "en": "rap",
+   "et": ""
+  },
+  {
+   "id": 31,
+   "en": "indie",
+   "et": ""
+  }
+ ]
+}

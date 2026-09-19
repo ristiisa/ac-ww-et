@@ -1,0 +1,785 @@
+{
+ "file": "script/ENG/message/obj/etc/bromide_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "\nCyrano's Pic\n\nHuh? If you look closely,\nthere's something\nwritten on the back...\n\"Wish you were here!\"",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "\nAntonio's Pic\n\nHuh? If you look closely,\nthere's something\nwritten on the back...\n\"Always go for the burn!\"",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "\nPango's Pic\n\nHuh? If you look closely,\nthere's something written\non the back...\n\"Now you can say you knew\nme when!\"",
+   "et": ""
+  },
+  {
+   "id": 3,
+   "en": "\nAnnabelle's Pic\n\nHuh? If you look closely,\nthere's something written\non the back...\n\"I'll remember you even\nwhen I'm famous!\"",
+   "et": ""
+  },
+  {
+   "id": 4,
+   "en": "\nTeddy's Pic\n\nHuh? If you look closely,\nthere's something written\non the back...\n\"You gotta play through the\npain!\"",
+   "et": ""
+  },
+  {
+   "id": 5,
+   "en": "\nPinky's Pic\n\nHuh? If you look closely,\nthere's something\nwritten on the back...\n\"LEAPING LOLLIPOPS!\"",
+   "et": ""
+  },
+  {
+   "id": 6,
+   "en": "\nCurt's Pic\n\nHuh? If you look closely,\nthere's something written\non the back...\n\"I'm watching you!\"",
+   "et": ""
+  },
+  {
+   "id": 7,
+   "en": "\nChow's Pic\n\nHuh? If you look closely,\nthere's something written\non the back...\n\"Remember... I'm always\nwatching you.\"",
+   "et": ""
+  },
+  {
+   "id": 8,
+   "en": "\nJay's Pic\n\nHuh? If you look closely,\nthere's something written\non the back...\n\"You gotta want it!\"",
+   "et": ""
+  },
+  {
+   "id": 9,
+   "en": "\nRobin's Pic\n\nHuh? If you look closely,\nthere's something written\non the back...\n\"Always keep your wings\nmanicured so you can fly\naway!\"",
+   "et": ""
+  },
+  {
+   "id": 10,
+   "en": "\nAnchovy's Pic\n\nHuh? If you look closely,\nthere's something written\non the back...\n\"I'm hungry.\"",
+   "et": ""
+  },
+  {
+   "id": 11,
+   "en": "\nTwiggy's Pic\n\nHuh? If you look closely,\nthere's something written\non the back...\n\"Do you want my autograph,\ntoo?\"",
+   "et": ""
+  },
+  {
+   "id": 12,
+   "en": "\nJitters's Pic\n\nHuh? If you look closely,\nthere's something written\non the back...\n\"When you're a team of one,\nyou're always captain!\"",
+   "et": ""
+  },
+  {
+   "id": 13,
+   "en": "\nAngus's Pic\n\nHuh? If you look closely,\nthere's something written\non the back...\n\"Even strong men cry.\"",
+   "et": ""
+  },
+  {
+   "id": 14,
+   "en": "\nRodeo's Pic\n\nHuh? If you look closely,\nthere's something written\non the back...\n\"Zzzzzzzzzzzzzzzzz...\"",
+   "et": ""
+  },
+  {
+   "id": 15,
+   "en": "\nBob's Pic\n\nHuh? If you look closely,\nthere's something written\non the back...\n\"I'm a cat. Chillin' is in my\nblood, man.\"",
+   "et": ""
+  },
+  {
+   "id": 16,
+   "en": "\nMitzi's Pic\n\nHuh? If you look closely,\nthere's something written\non the back...\n\"Sometimes I think I'm the\nonly sane one around.\"",
+   "et": ""
+  },
+  {
+   "id": 17,
+   "en": "\nRosie's Pic\n\nHuh? If you look closely,\nthere's something written\non the back...\n\"To the president of the\nRosie Fan Club!\"",
+   "et": ""
+  },
+  {
+   "id": 18,
+   "en": "\nOlivia's Pic\n\nHuh? If you look closely,\nthere's something written\non the back...\n\"You're the best kind of\nfriend because you make me\nlook even prettier.\"",
+   "et": ""
+  },
+  {
+   "id": 19,
+   "en": "\nKiki's Pic\n\nHuh? If you look closely,\nthere's something written\non the back...\n\"Hang in there, kiddo.\"",
+   "et": ""
+  },
+  {
+   "id": 20,
+   "en": "\nTangy's Pic\n\nHuh? If you look closely,\nthere's something written\non the back...\n\"They say cats hate citrus.\nTHAT REALLY HURTS MY\nFEELINGS!\"",
+   "et": ""
+  },
+  {
+   "id": 21,
+   "en": "\nPunchy's Pic\n\nHuh? If you look closely,\nthere's something written\non the back...\n\"Turn the other cheek.\"",
+   "et": ""
+  },
+  {
+   "id": 22,
+   "en": "\nPurrl's Pic\n\nHuh? If you look closely,\nthere's something written\non the back...\n\"You don't mind if I use\nyour bed to sharpen my\nclaws, do you?\"",
+   "et": ""
+  },
+  {
+   "id": 23,
+   "en": "\nMoe's Pic\n\nHuh? If you look closely,\nthere's something written\non the back...\n\"Whoa...\"",
+   "et": ""
+  },
+  {
+   "id": 24,
+   "en": "\nKabuki's Pic\n\nHuh? If you look closely,\nthere's something written\non the back...\n\"Hoo-ha konichiwa!\"",
+   "et": ""
+  },
+  {
+   "id": 25,
+   "en": "\nKid Cat's Pic\n\nHuh? If you look closely,\nthere's something written\non the back...\n\"Spandex is the best\ndisguise.\"",
+   "et": ""
+  },
+  {
+   "id": 26,
+   "en": "\nMonique's Pic\n\nHuh? If you look closely,\nthere's something written\non the back...\n\"No airbrushing necessary!\"",
+   "et": ""
+  },
+  {
+   "id": 27,
+   "en": "\nTabby's Pic\n\nHuh? If you look closely,\nthere's something written\non the back...\n\"This is my new headshot!\"",
+   "et": ""
+  },
+  {
+   "id": 28,
+   "en": "\nBluebear's Pic\n\nHuh? If you look closely,\nthere's something written\non the back...\n\"I enjoy tap dancing and\nraspberry jam!\"",
+   "et": ""
+  },
+  {
+   "id": 29,
+   "en": "\nMaple's Pic\n\nHuh? If you look closely,\nthere's something written\non the back...\n\"Maple + Moppina = BFF!\"",
+   "et": ""
+  },
+  {
+   "id": 30,
+   "en": "\nPoncho's Pic\n\nHuh? If you look closely,\nthere's something written\non the back...\n\"C'mere! I wanna bench-\npress you!\"",
+   "et": ""
+  },
+  {
+   "id": 31,
+   "en": "\nPudge's Pic\n\nHuh? If you look closely,\nthere's something written\non the back...\n\"Keep it real. Yeah.\"",
+   "et": ""
+  },
+  {
+   "id": 32,
+   "en": "\nKody's Pic\n\nHuh? If you look closely,\nthere's something written\non the back...\n\"Drop and give me twenty!\"",
+   "et": ""
+  },
+  {
+   "id": 33,
+   "en": "\nStitches's Pic\n\nHuh? If you look closely,\nthere's something written\non the back...\n\"Sometimes the sum is\ngreater than its parts!\nGet it? A huh huh huh!\"",
+   "et": ""
+  },
+  {
+   "id": 34,
+   "en": "\nGoose's Pic\n\nHuh? If you look closely,\nthere's something written\non the back...\n\"Who are you callin' chicken,\nchicken?!\"",
+   "et": ""
+  },
+  {
+   "id": 35,
+   "en": "\nBenedict's Pic\n\nHuh? If you look closely,\nthere's something written\non the back...\n\"Bok bok bok?! Just kidding.\nA huh huh huh!\"",
+   "et": ""
+  },
+  {
+   "id": 36,
+   "en": "\nEgbert's Pic\n\nHuh? If you look closely,\nthere's something written\non the back...\n\"Napping is when I do my\nbest thinking.\"",
+   "et": ""
+  },
+  {
+   "id": 37,
+   "en": "\nPatty's Pic\n\nHuh? If you look closely,\nthere's something written\non the back...\n\"This month's {ff 00 00 02}Ms.\nNintendique{ff 00 00 00} cover girl!\"",
+   "et": ""
+  },
+  {
+   "id": 38,
+   "en": "\nTipper's Pic\n\nHuh? If you look closely,\nthere's something written\non the back...\n\"I know you'll treasure this\nforever.\"",
+   "et": ""
+  },
+  {
+   "id": 39,
+   "en": "\nAlfonso's Pic\n\nHuh? If you look closely,\nthere's something written\non the back...\n\"We're friends, so I won't\ngnaw on your legs, even\nthough I'm starving.\"",
+   "et": ""
+  },
+  {
+   "id": 40,
+   "en": "\nAlli's Pic\n\nHuh? If you look closely,\nthere's something written\non the back...\n\"The most important parts\nof any ensemble are the\npurse and shoes.\"",
+   "et": ""
+  },
+  {
+   "id": 41,
+   "en": "\nGoldie's Pic\n\nHuh? If you look closely,\nthere's something written\non the back...\n\"I'm really into that Lab on\nthe cover of Nintendogs.\nHe's pretty dreamy.\"",
+   "et": ""
+  },
+  {
+   "id": 42,
+   "en": "\nButch's Pic\n\nHuh? If you look closely,\nthere's something written\non the back...\n\"I'm watching you!\"",
+   "et": ""
+  },
+  {
+   "id": 43,
+   "en": "\nLucky's Pic\n\nHuh? If you look closely,\nthere's something written\non the back...\n\"Ow.\"",
+   "et": ""
+  },
+  {
+   "id": 44,
+   "en": "\nBiskit's Pic\n\nHuh? If you look closely,\nthere's something written\non the back...\n\"Let sleeping dogs lie.\"",
+   "et": ""
+  },
+  {
+   "id": 45,
+   "en": "\nBones's Pic\n\nHuh? If you look closely,\nthere's something written\non the back...\n\"Thanks for the snacks.\nHint hint.\"",
+   "et": ""
+  },
+  {
+   "id": 46,
+   "en": "\nPortia's Pic\n\nHuh? If you look closely,\nthere's something written\non the back...\n\"Of course my photo doesn't\nneed retouching!\"",
+   "et": ""
+  },
+  {
+   "id": 47,
+   "en": "\nWalker's Pic\n\nHuh? If you look closely,\nthere's something written\non the back...\n\"Perhaps you know me as\nmy superhero alter ego,\nFashion Lad.\"",
+   "et": ""
+  },
+  {
+   "id": 48,
+   "en": "\nDaisy's Pic\n\nHuh? If you look closely,\nthere's something written\non the back...\n\"Just a regular girl in a\ncrazy world!\"",
+   "et": ""
+  },
+  {
+   "id": 49,
+   "en": "\nBill's Pic\n\nHuh? If you look closely,\nthere's something written\non the back...\n\"Even though there's no 'I'\nin team, there's no\n'everybody' either!\"",
+   "et": ""
+  },
+  {
+   "id": 50,
+   "en": "\nJoey's Pic\n\nHuh? If you look closely,\nthere's something written\non the back...\n\"Don't get your feathers\nall ruffled. Just chill.\"",
+   "et": ""
+  },
+  {
+   "id": 51,
+   "en": "\nPate's Pic\n\nHuh? If you look closely,\nthere's something written\non the back...\n\"SHRIEKING SUGARCUBES!\"",
+   "et": ""
+  },
+  {
+   "id": 52,
+   "en": "\nMaelle's Pic\n\nHuh? If you look closely,\nthere's something written\non the back...\n\"I like long walks on the\nbeach. Alone.\"",
+   "et": ""
+  },
+  {
+   "id": 53,
+   "en": "\nDeena's Pic\n\nHuh? If you look closely,\nthere's something written\non the back...\n\"I'm not a lame duck!\"",
+   "et": ""
+  },
+  {
+   "id": 54,
+   "en": "\nPompom's Pic\n\nHuh? If you look closely,\nthere's something written\non the back...\n\"This one goes out to all\nmy fans!\"",
+   "et": ""
+  },
+  {
+   "id": 55,
+   "en": "\nMallary's Pic\n\nHuh? If you look closely,\nthere's something written\non the back...\n\"Purple is the color of\nroyalty, you know!\"",
+   "et": ""
+  },
+  {
+   "id": 56,
+   "en": "\nFreckles's Pic\n\nHuh? If you look closely,\nthere's something written\non the back...\n\"CATAPULTING CUPCAKES!\"",
+   "et": ""
+  },
+  {
+   "id": 57,
+   "en": "\nDerwin's Pic\n\nHuh? If you look closely,\nthere's something written\non the back...\n\"Everything in moderation.\nExcept for snacks.\"",
+   "et": ""
+  },
+  {
+   "id": 58,
+   "en": "\nDrake's Pic\n\nHuh? If you look closely,\nthere's something written\non the back...\n\"Got any snacks on you?\"",
+   "et": ""
+  },
+  {
+   "id": 59,
+   "en": "\nOpal's Pic\n\nHuh? If you look closely,\nthere's something written\non the back...\n\"Now whenever you see this\npicture of me, you can\nthink warm thoughts.\"",
+   "et": ""
+  },
+  {
+   "id": 60,
+   "en": "\nDizzy's Pic\n\nHuh? If you look closely,\nthere's something written\non the back...\n\"Keep it mellow.\"",
+   "et": ""
+  },
+  {
+   "id": 61,
+   "en": "\nBig Top's Pic\n\nHuh? If you look closely,\nthere's something written\non the back...\n\"World domination!\"",
+   "et": ""
+  },
+  {
+   "id": 62,
+   "en": "\nEloise's Pic\n\nHuh? If you look closely,\nthere's something written\non the back...\n\"You'll want to display this\nprominently!\"",
+   "et": ""
+  },
+  {
+   "id": 63,
+   "en": "\nMargie's Pic\n\nHuh? If you look closely,\nthere's something written\non the back...\n\"Keep your feet on the\nground.\"",
+   "et": ""
+  },
+  {
+   "id": 64,
+   "en": "\nLily's Pic\n\nHuh? If you look closely,\nthere's something written\non the back...\n\"Don't jump to conclusions!\"",
+   "et": ""
+  },
+  {
+   "id": 65,
+   "en": "\nRibbot's Pic\n\nHuh? If you look closely,\nthere's something written\non the back...\n\"Never rest, never rust.\"",
+   "et": ""
+  },
+  {
+   "id": 66,
+   "en": "\nFrobert's Pic\n\nHuh? If you look closely,\nthere's something written\non the back...\n\"I don't wanna see any lily-\nlivered jumping! Always aim\nhigh!\"",
+   "et": ""
+  },
+  {
+   "id": 67,
+   "en": "\nCamofrog's Pic\n\nHuh? If you look closely,\nthere's something written\non the back...\n\"You can't see me.\"",
+   "et": ""
+  },
+  {
+   "id": 68,
+   "en": "\nDrift's Pic\n\nHuh? If you look closely,\nthere's something written\non the back...\n\"Always go for the gold!\"",
+   "et": ""
+  },
+  {
+   "id": 69,
+   "en": "\nWart Jr.'s Pic\n\nHuh? If you look closely,\nthere's something written\non the back...\n\"I've got my eye on you.\"",
+   "et": ""
+  },
+  {
+   "id": 70,
+   "en": "\nPuddles's Pic\n\nHuh? If you look closely,\nthere's something written\non the back...\n\"HIP HOP HO! Hey, let's go!\"",
+   "et": ""
+  },
+  {
+   "id": 71,
+   "en": "\nJeremiah's Pic\n\nHuh? If you look closely,\nthere's something written\non the back...\n\"Think about it, man.\nBullfrog is only one letter\naway from blue frog.\"",
+   "et": ""
+  },
+  {
+   "id": 72,
+   "en": "\nChevre's Pic\n\nHuh? If you look closely,\nthere's something written\non the back...\n\"Dream a little dream.\"",
+   "et": ""
+  },
+  {
+   "id": 73,
+   "en": "\nNan's Pic\n\nHuh? If you look closely,\nthere's something written\non the back...\n\"Nanny-nanny boo-boo!\"",
+   "et": ""
+  },
+  {
+   "id": 74,
+   "en": "\nCesar's Pic\n\nHuh? If you look closely,\nthere's something written\non the back...\n\"All hail my moustache!\"",
+   "et": ""
+  },
+  {
+   "id": 75,
+   "en": "\nPeewee's Pic\n\nHuh? If you look closely,\nthere's something written\non the back...\n\"I AM BEHIND YOU!\"",
+   "et": ""
+  },
+  {
+   "id": 76,
+   "en": "\nBoone's Pic\n\nHuh? If you look closely,\nthere's something written\non the back...\n\"Words to live by: Don't\never wimp out!\"",
+   "et": ""
+  },
+  {
+   "id": 77,
+   "en": "\nRocco's Pic\n\nHuh? If you look closely,\nthere's something written\non the back...\n\"You smell like patchouli!\"",
+   "et": ""
+  },
+  {
+   "id": 78,
+   "en": "\nBuck's Pic\n\nHuh? If you look closely,\nthere's something written\non the back...\n\"What are you staring at?!\"",
+   "et": ""
+  },
+  {
+   "id": 79,
+   "en": "\nVictoria's Pic\n\nHuh? If you look closely,\nthere's something written\non the back...\n\"CATERWAULING CARROT CAKE!\"",
+   "et": ""
+  },
+  {
+   "id": 80,
+   "en": "\nSavannah's Pic\n\nHuh? If you look closely,\nthere's something written\non the back...\n\"Keep your chin up!\"",
+   "et": ""
+  },
+  {
+   "id": 81,
+   "en": "\nElmer's Pic\n\nHuh? If you look closely,\nthere's something written\non the back...\n\"Got any snacks on you?\"",
+   "et": ""
+  },
+  {
+   "id": 82,
+   "en": "\nRoscoe's Pic\n\nHuh? If you look closely,\nthere's something written\non the back...\n\"I've got my eye on you,\nbucko!\"",
+   "et": ""
+  },
+  {
+   "id": 83,
+   "en": "\nYuka's Pic\n\nHuh? If you look closely,\nthere's something written\non the back...\n\"It's nice that you have me\nas a friend.\"",
+   "et": ""
+  },
+  {
+   "id": 84,
+   "en": "\nAlice's Pic\n\nHuh? If you look closely,\nthere's something written\non the back...\n\"I like having you around.\"",
+   "et": ""
+  },
+  {
+   "id": 85,
+   "en": "\nMelba's Pic\n\nHuh? If you look closely,\nthere's something written\non the back...\n\"You're my new best bud!\"",
+   "et": ""
+  },
+  {
+   "id": 86,
+   "en": "\nKitt's Pic\n\nHuh? If you look closely,\nthere's something written\non the back...\n\"They say that ugly parents\nhave ugly kids.\"",
+   "et": ""
+  },
+  {
+   "id": 87,
+   "en": "\nMathilda's Pic\n\nHuh? If you look closely,\nthere's something written\non the back...\n\"Blood is thicker than\nwater!\"",
+   "et": ""
+  },
+  {
+   "id": 88,
+   "en": "\nBud's Pic\n\nHuh? If you look closely,\nthere's something written\non the back...\n\"You're not living unless\nyou're sweating!\"",
+   "et": ""
+  },
+  {
+   "id": 89,
+   "en": "\nElvis's Pic\n\nHuh? If you look closely,\nthere's something written\non the back...\n\"Thank you very much.\"",
+   "et": ""
+  },
+  {
+   "id": 90,
+   "en": "\nDora's Pic\n\nHuh? If you look closely,\nthere's something written\non the back...\n\"Got any cheese for me?\"",
+   "et": ""
+  },
+  {
+   "id": 91,
+   "en": "\nLimberg's Pic\n\nHuh? If you look closely,\nthere's something written\non the back...\n\"Something stinks!\"",
+   "et": ""
+  },
+  {
+   "id": 92,
+   "en": "\nBella's Pic\n\nHuh? If you look closely,\nthere's something written\non the back...\n\"Would you like my\nautograph?\"",
+   "et": ""
+  },
+  {
+   "id": 93,
+   "en": "\nBree's Pic\n\nHuh? If you look closely,\nthere's something written\non the back...\n\"Just in case you were\nwondering, I like presents.\"",
+   "et": ""
+  },
+  {
+   "id": 94,
+   "en": "\nSamson's Pic\n\nHuh? If you look closely,\nthere's something written\non the back...\n\"This isn't a dress I'm\nwearing! It's a muscle tee!\"",
+   "et": ""
+  },
+  {
+   "id": 95,
+   "en": "\nRod's Pic\n\nHuh? If you look closely,\nthere's something written\non the back...\n\"You're not done 'til your\nmuscles are screaming in\nagony!\"",
+   "et": ""
+  },
+  {
+   "id": 96,
+   "en": "\nOctavian's Pic\n\nHuh? If you look closely,\nthere's something written\non the back...\n\"Don't be a sucker!\"",
+   "et": ""
+  },
+  {
+   "id": 97,
+   "en": "\nMarina's Pic\n\nHuh? If you look closely,\nthere's something written\non the back...\n\"I think I'm the only sane\none in this town.\"",
+   "et": ""
+  },
+  {
+   "id": 98,
+   "en": "\nQueenie's Pic\n\nHuh? If you look closely,\nthere's something written\non the back...\n\"No retouching necessary!\"",
+   "et": ""
+  },
+  {
+   "id": 99,
+   "en": "\nGladys's Pic\n\nHuh? If you look closely,\nthere's something written\non the back...\n\"Smiles are free, you know.\"",
+   "et": ""
+  },
+  {
+   "id": 100,
+   "en": "\nApollo's Pic\n\nHuh? If you look closely,\nthere's something written\non the back...\n\"I'm not bald! I've just got\nfine feathers, that's all!\"",
+   "et": ""
+  },
+  {
+   "id": 101,
+   "en": "\nAmelia's Pic\n\nHuh? If you look closely,\nthere's something written\non the back...\n\"Pampering yourself is as\nimportant as food, water,\nand shelter!\"",
+   "et": ""
+  },
+  {
+   "id": 102,
+   "en": "\nPierce's Pic\n\nHuh? If you look closely,\nthere's something written\non the back...\n\"Nobody likes flabby wings.\"",
+   "et": ""
+  },
+  {
+   "id": 103,
+   "en": "\nAurora's Pic\n\nHuh? If you look closely,\nthere's something written\non the back...\n\"Just keep your cool.\"",
+   "et": ""
+  },
+  {
+   "id": 104,
+   "en": "\nRoald's Pic\n\nHuh? If you look closely,\nthere's something written\non the back...\n\"I'm not waddling! I'm\nworking my glutes!\"",
+   "et": ""
+  },
+  {
+   "id": 105,
+   "en": "\nCube's Pic\n\nHuh? If you look closely,\nthere's something written\non the back...\n\"Stay cool.\"",
+   "et": ""
+  },
+  {
+   "id": 106,
+   "en": "\nHopper's Pic\n\nHuh? If you look closely,\nthere's something written\non the back...\n\"This is my good side.\"",
+   "et": ""
+  },
+  {
+   "id": 107,
+   "en": "\nFriga's Pic\n\nHuh? If you look closely,\nthere's something written\non the back...\n\"This isn't a fortune\ncookie! It's an important\nlife lesson!\"",
+   "et": ""
+  },
+  {
+   "id": 108,
+   "en": "\nGwen's Pic\n\nHuh? If you look closely,\nthere's something written\non the back...\n\"I'm just that cool.\"",
+   "et": ""
+  },
+  {
+   "id": 109,
+   "en": "\nCurly's Pic\n\nHuh? If you look closely,\nthere's something written\non the back...\n\"Get fired up!\"",
+   "et": ""
+  },
+  {
+   "id": 110,
+   "en": "\nTruffles's Pic\n\nHuh? If you look closely,\nthere's something written\non the back...\n\"JUMPING JELLY BEANS!\"",
+   "et": ""
+  },
+  {
+   "id": 111,
+   "en": "\nRasher's Pic\n\nHuh? If you look closely,\nthere's something written\non the back...\n\"Stop looking at me with\nthose hungry eyes! I'm\nnot a pork chop!\"",
+   "et": ""
+  },
+  {
+   "id": 112,
+   "en": "\nHugh's Pic\n\nHuh? If you look closely,\nthere's something written\non the back...\n\"Keep it real. Real chill.\"",
+   "et": ""
+  },
+  {
+   "id": 113,
+   "en": "\nLucy's Pic\n\nHuh? If you look closely,\nthere's something written\non the back...\n\"This picture entitles you\nto one free smile!\"",
+   "et": ""
+  },
+  {
+   "id": 114,
+   "en": "\nBunnie's Pic\n\nHuh? If you look closely,\nthere's something written\non the back...\n\"Come on! Get amped!\"",
+   "et": ""
+  },
+  {
+   "id": 115,
+   "en": "\nDotty's Pic\n\nHuh? If you look closely,\nthere's something written\non the back...\n\"Hop to it, wee one!\"",
+   "et": ""
+  },
+  {
+   "id": 116,
+   "en": "\nCoco's Pic\n\nHuh? If you look closely,\nthere's something written\non the back...\n\"I'm feeling kind of blank\ntoday.\"",
+   "et": ""
+  },
+  {
+   "id": 117,
+   "en": "\nSnake's Pic\n\nHuh? If you look closely,\nthere's something written\non the back...\n\"Snake's number one!\"",
+   "et": ""
+  },
+  {
+   "id": 118,
+   "en": "\nGaston's Pic\n\nHuh? If you look closely,\nthere's something written\non the back...\n\"Sacre bleu!\"",
+   "et": ""
+  },
+  {
+   "id": 119,
+   "en": "\nGabi's Pic\n\nHuh? If you look closely,\nthere's something written\non the back...\n\"I'm trying out a new\nearstyle here.\"",
+   "et": ""
+  },
+  {
+   "id": 120,
+   "en": "\nPippy's Pic\n\nHuh? If you look closely,\nthere's something written\non the back...\n\"HOPPING HOTCAKES!\"",
+   "et": ""
+  },
+  {
+   "id": 121,
+   "en": "\nTiffany's Pic\n\nHuh? If you look closely,\nthere's something written\non the back...\n\"What's up, bunbun?\"",
+   "et": ""
+  },
+  {
+   "id": 122,
+   "en": "\nGenji's Pic\n\nHuh? If you look closely,\nthere's something written\non the back...\n\"Hai-ya!\"",
+   "et": ""
+  },
+  {
+   "id": 123,
+   "en": "\nRuby's Pic\n\nHuh? If you look closely,\nthere's something written\non the back...\n\"I'm not sick, I'm just\nalbino!\"",
+   "et": ""
+  },
+  {
+   "id": 124,
+   "en": "\nTank's Pic\n\nHuh? If you look closely,\nthere's something written\non the back...\n\"Remember to keep your\ncore muscles engaged!\"",
+   "et": ""
+  },
+  {
+   "id": 125,
+   "en": "\nRhonda's Pic\n\nHuh? If you look closely,\nthere's something written\non the back...\n\"Don't look down your nose\nat people!\"",
+   "et": ""
+  },
+  {
+   "id": 126,
+   "en": "\nVesta's Pic\n\nHuh? If you look closely,\nthere's something written\non the back...\n\"I'm so lucky to have this\nwool coat!\"",
+   "et": ""
+  },
+  {
+   "id": 127,
+   "en": "\nBaabara's Pic\n\nHuh? If you look closely,\nthere's something written\non the back...\n\"I'm so soft that I don't\neven need a pillow!\"",
+   "et": ""
+  },
+  {
+   "id": 128,
+   "en": "\nPeanut's Pic\n\nHuh? If you look closely,\nthere's something written\non the back...\n\"This is my star smile.\"",
+   "et": ""
+  },
+  {
+   "id": 129,
+   "en": "\nBlaire's Pic\n\nHuh? If you look closely,\nthere's something written\non the back...\n\"My tail looks extra fluffy\nin this picture.\"",
+   "et": ""
+  },
+  {
+   "id": 130,
+   "en": "\nFilbert's Pic\n\nHuh? If you look closely,\nthere's something written\non the back...\n\"Don't go nuts or anything.\"",
+   "et": ""
+  },
+  {
+   "id": 131,
+   "en": "\nPecan's Pic\n\nHuh? If you look closely,\nthere's something written\non the back...\n\"A picture of me is worth\na thousand pictures of\nsomeone else!\"",
+   "et": ""
+  },
+  {
+   "id": 132,
+   "en": "\nNibbles's Pic\n\nHuh? If you look closely,\nthere's something written\non the back...\n\"Coming soon to a billboard\nnear you!\"",
+   "et": ""
+  },
+  {
+   "id": 133,
+   "en": "\nAgent S's Pic\n\nHuh? If you look closely,\nthere's something written\non the back...\n\"I'm gonna, like, save the\nworld!\"",
+   "et": ""
+  },
+  {
+   "id": 134,
+   "en": "\nCaroline's Pic\n\nHuh? If you look closely,\nthere's something written\non the back...\n\"Relax!\"",
+   "et": ""
+  },
+  {
+   "id": 135,
+   "en": "\nSally's Pic\n\nHuh? If you look closely,\nthere's something written\non the back...\n\"Just something to\nremember me by.\"",
+   "et": ""
+  },
+  {
+   "id": 136,
+   "en": "\nStatic's Pic\n\nHuh? If you look closely,\nthere's something written\non the back...\n\"Zap!\"",
+   "et": ""
+  },
+  {
+   "id": 137,
+   "en": "\nMint's Pic\n\nHuh? If you look closely,\nthere's something written\non the back...\n\"I'm totally fresh and you\nknow it!\"",
+   "et": ""
+  },
+  {
+   "id": 138,
+   "en": "\nRolf's Pic\n\nHuh? If you look closely,\nthere's something written\non the back...\n\"I could eat you for lunch,\nyou know.\"",
+   "et": ""
+  },
+  {
+   "id": 139,
+   "en": "\nRowan's Pic\n\nHuh? If you look closely,\nthere's something written\non the back...\n\"Why be junior varsity when\nyou can be VARSITY?!\"",
+   "et": ""
+  },
+  {
+   "id": 140,
+   "en": "\nChief's Pic\n\nHuh? If you look closely,\nthere's something written\non the back...\n\"Harrumph!\"",
+   "et": ""
+  },
+  {
+   "id": 141,
+   "en": "\nLobo's Pic\n\nHuh? If you look closely,\nthere's something written\non the back...\n\"I'm always watching you!\"",
+   "et": ""
+  },
+  {
+   "id": 142,
+   "en": "\nWolfgang's Pic\n\nHuh? If you look closely,\nthere's something written\non the back...\n\"I could eat you for\nbreakfast, short stack!\"",
+   "et": ""
+  },
+  {
+   "id": 143,
+   "en": "\nWhitney's Pic\n\nHuh? If you look closely,\nthere's something written\non the back...\n\"If you even THINK about\ncrossing me, just think\nabout these pearly whites!\"",
+   "et": ""
+  },
+  {
+   "id": 144,
+   "en": "\nChamp's Pic\n\nHuh? If you look closely,\nthere's something written\non the back...\n\"You'll never get THIS\nmonkey off your back!\"",
+   "et": ""
+  },
+  {
+   "id": 145,
+   "en": "\nNana's Pic\n\nHuh? If you look closely,\nthere's something written\non the back...\n\"Pink is the new black!\"",
+   "et": ""
+  },
+  {
+   "id": 146,
+   "en": "\nSimon's Pic\n\nHuh? If you look closely,\nthere's something written\non the back...\n\"It's kind of a stereotype,\nbut I really do love\nbananas!\"",
+   "et": ""
+  },
+  {
+   "id": 147,
+   "en": "\nTammi's Pic\n\nHuh? If you look closely,\nthere's something written\non the back...\n\"EEEEEEEEEEK!\"",
+   "et": ""
+  },
+  {
+   "id": 148,
+   "en": "\nMonty's Pic\n\nHuh? If you look closely,\nthere's something written\non the back...\n\"What are YOU looking at?!\"",
+   "et": ""
+  },
+  {
+   "id": 149,
+   "en": "\nElise's Pic\n\nHuh? If you look closely,\nthere's something written\non the back...\n\"If you say anything stupid\nabout bananas or monkeying\naround, I'll scream!\"",
+   "et": ""
+  },
+  {
+   "id": 150,
+   "en": "\nTom Nook's Pic\n\nHuh? If you look closely,\nthere's something written\non the back...\n\"I'll be there with Bells on!\nHo ho!\"",
+   "et": ""
+  },
+  {
+   "id": 151,
+   "en": "\nK.K. Slider's Pic\n\nHuh? If you look closely,\nthere's something written\non the back...\n\"My music wants to be free,\nman.\"",
+   "et": ""
+  },
+  {
+   "id": 152,
+   "en": "\nPascal's Pic\n\nHuh? If you look closely,\nthere's something written\non the back...\n\"The more you learn, man,\nthe less you know.\"",
+   "et": ""
+  },
+  {
+   "id": 153,
+   "en": "\nKaitlin and Katie's Pic\n\nHuh? If you look closely,\nthere's something written\non the back...\n\"Thanks!\"",
+   "et": ""
+  },
+  {
+   "id": 154,
+   "en": "\nPelly's Pic\n\nHuh? If you look closely,\nthere's something written\non the back...\n\"Always remember the\nBoondoxians.\"",
+   "et": ""
+  },
+  {
+   "id": 155,
+   "en": "\nPhyllis's Pic\n\nHuh? If you look closely,\nthere's something written\non the back...\n\"Whenever you think about\nbugging me, just look at\nthis photo instead.\"",
+   "et": ""
+  }
+ ]
+}

@@ -1,0 +1,20 @@
+{
+ "file": "script/ENG/message/ha/q02/return_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 14 00}From this day forth, I'll be\ntaking care of this fish \none-on-one, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "I'm gonna try to catch a\nlot more trendy fish next\ntime, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 0d 00}With this fish in my place,{01 00 00 05 00}\nmaybe it'll cool down a\nlittle, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  }
+ ]
+}

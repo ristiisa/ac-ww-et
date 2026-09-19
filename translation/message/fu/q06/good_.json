@@ -1,0 +1,20 @@
+{
+ "file": "script/ENG/message/fu/q06/good_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 14 00}I knew it, {01 00 00 05 00}{04 02 00}!{01 00 00 0a 00}\n{07 0d 00}I just KNEW that would look\ngood on {ff 00 00 06}{04 10 00}{ff 00 00 00}!",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 14 00}Oh, nice! {01 00 00 05 00}That's good news!{01 00 00 0a 00}\nI actually wasn't sure what\n{ff 00 00 06}{04 10 00} {ff 00 00 00}liked.\n{07 0d 00}I'm just happy that it was\nso well received,\n{01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 14 00}No kidding?{01 00 00 0a 00} That's great!{01 00 00 0a 00}\n{07 0a 00}I'm glad it was such a big\nhit with {ff 00 00 06}{04 10 00}{ff 00 00 00}.",
+   "et": ""
+  }
+ ]
+}

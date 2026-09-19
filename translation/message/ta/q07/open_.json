@@ -1,0 +1,20 @@
+{
+ "file": "script/ENG/message/ta/q07/open_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00}{07 1c 00}Oh, and by the way,{01 00 00 05 00}\nthere's something I have to\nsay to you.\n{07 16 00}No matter how curious you\nare, you can't go reading\nother people's mail!\n{07 15 00}This is what they call{01 00 00 05 00}\n\"invading someone's\nprivacy,\" {01 00 00 0a 00}{04 02 00}!\n{07 1b 00}That letter that I gave you\nto give to {ff 00 00 06}{04 10 00}{ff 00 00 00}?{01 00 00 0a 00}\nI need it back.",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00}{07 14 00}You know,{01 00 00 0a 00} it's not that I\ndon't understand the desire\nto read other people's mail.\n{07 15 00}But the letter to\n{ff 00 00 06}{04 10 00} {ff 00 00 00}that you\nread{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} I need it back.{01 00 00 05 00} Now.\n{07 01 00}If you ever do that again,{01 00 00 05 00}\nyou'll pay. {01 00 00 0a 00}Believe me,\nYOU'LL PAY, {01 00 00 0a 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{07 04 00}Oh, and I was wondering,{01 00 00 14 00}\n{07 15 00}why do you go around\nreading other people's mail?\n{07 05 00}The letter you read was\nbetween {ff 00 00 06}{04 10 00} {ff 00 00 00}and\nme. It was a secret!\n{07 00 00}Ugh, {01 00 00 05 00}just give it back.{01 01 00}\n{07 15 00}And don't you ever do that\nto me again, {01 00 00 0a 00}{04 02 00}!",
+   "et": ""
+  }
+ ]
+}

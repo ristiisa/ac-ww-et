@@ -1,0 +1,20 @@
+{
+ "file": "script/ENG/message/ge/q07/show_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 03 00}Check it out!{01 00 00 05 00} So awesome!{01 00 00 0a 00}\nWhat a total crack-up,\n{01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 0b 00}{0b 03 00}{04 1f 00}, you wanna\nsneak a peek at it, too?{01 01 00}\n{07 14 00}OK then, just for you!",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "Hey, {01 00 00 05 00}{04 1f 00}, let's read\nit together, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  }
+ ]
+}

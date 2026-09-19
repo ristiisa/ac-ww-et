@@ -1,0 +1,110 @@
+{
+ "file": "script/ENG/message/bo/ev/acorn_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 00 00}ACORNS!{01 00 00 0a 00} ACORNS!{01 00 00 0a 00} GOBBLE UP\nTHOSE ACORNS!{01 00 00 14 00} {07 14 00}Just kidding,\nof course.\nBut the {ff 00 00 03}Acorn Festival{ff 00 00 00} DOES\nstart today! {01 01 00}{07 00 00}For the next\nseven days,\n{07 14 00}this town will be stuffed to\nthe gills with acorns! {01 01 00}{07 0d 00}It'll\nbe sooo fun,{01 00 00 0a 00} {04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 14 00}At LAST! The {ff 00 00 03}Acorn Festival\n{ff 00 00 00}is here!\n\n{07 00 00}The next seven days\nwill be an acorn\nfree-for-all!\n{07 14 00}I bet there isn't another\ntown out there{01 00 00 0a 00} that has\nsuch a delicious festival!",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 0a 00}Take off your hat!{01 00 00 0a 00} And look\naround!{01 00 00 0a 00} 'Cause {ff 00 00 06}Cornimer {01 00 00 0a 00}{ff 00 00 00}has\ncome to town!{00 01 00}\n{07 00 00}Huh?{01 00 00 0a 00} The song?{01 00 00 14 00}{07 14 00} Oh, {ff 00 00 06}Tortimer\n{ff 00 00 00}taught it to me.{01 00 00 0a 00} It's about\nthe {ff 00 00 03}Acorn Festival{ff 00 00 00}! Catchy!",
+   "et": ""
+  },
+  {
+   "id": 3,
+   "en": "{07 0a 00}{00 01 00}{00 01 00} {ff 00 00 06}Cornimer{ff 00 00 00}'s by my side!{01 01 00}\nWading through an acorn\ntide! {00 01 00}\n.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}{07 04 00}Oh,{01 00 00 0f 00} I was humming the\n{04 03 00} {ff 00 00 03}Acorn Festival\n{ff 00 00 00}theme song.{07 14 00}\n{ff 00 00 06}Tortimer{ff 00 00 00} taught it to me\nyesterday.{01 00 00 0a 00} Guess he was\nin a musical mood.",
+   "et": ""
+  },
+  {
+   "id": 4,
+   "en": "{07 0a 00}{00 01 00} It's raining acorns!{01 00 00 0a 00}\nThey're just falling from\nthe sky!\nYou gotta pick 'em up{01 00 00 03 00} and\ngive 'em to{01 00 00 03 00} that {ff 00 00 06}Cornimer\n{ff 00 00 00}guy! {00 01 00}\n.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}{07 04 00}Oh,{01 00 00 0f 00} that little number is\ncalled \"Song of the {ff 00 00 03}Acorn\nFestival{ff 00 00 00}.\" {07 14 00}{01 00 00 05 00}Catchy, huh?\n{07 0d 00}{04 0b 00} was singing it\na little bit ago, so now\nit's stuck in my head!",
+   "et": ""
+  },
+  {
+   "id": 5,
+   "en": "{07 16 00}Today is the last day of\nthe {ff 00 00 03}Acorn Festival{ff 00 00 00}.\n\n{07 1b 00}This means we won't get to\nsee that crazy old acorn\nguy anymore.{01 00 00 0a 00}\n{07 1c 00}{01 00 00 05 00}It's kind of sad, really.{01 00 00 0a 00}\nI'll miss his corny ways,\n{01 00 00 0a 00}{04 02 00}.{01 01 00}{07 03 00} Get it?!",
+   "et": ""
+  },
+  {
+   "id": 6,
+   "en": "{07 14 00}Today's the last day of the\n{ff 00 00 03}Acorn Festival{ff 00 00 00}. {07 14 00}I{01 00 00 05 00} just went\nand said 'bye to {ff 00 00 06}Cornimer{ff 00 00 00}.\n{07 16 00}We won't get to see him\nagain until next year,{01 00 00 0a 00}\n{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 7,
+   "en": "{07 00 00}Um,{01 00 00 05 00} {04 1f 00},{01 00 00 0f 00} it's the\n{ff 00 00 03}Acorn Festival{ff 00 00 00}! Whoo!",
+   "et": ""
+  },
+  {
+   "id": 8,
+   "en": "{07 16 00}I just tripped on an acorn\nand fell down{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.\n\n{07 01 00}Who did that?!{01 00 00 14 00} Who would\nleave an acorn lying in a\nplace like that?!",
+   "et": ""
+  },
+  {
+   "id": 9,
+   "en": "{07 16 00}Unngh, {07 11 00}all I wanna do is\ngobble acorns.",
+   "et": ""
+  },
+  {
+   "id": 10,
+   "en": "{07 0e 00}Acorns are tough{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}. {01 01 00}{07 19 00}But\nunderneath those thick\nshells {01 00 00 05 00}are warm hearts.",
+   "et": ""
+  },
+  {
+   "id": 11,
+   "en": "{07 00 00}Hey, {04 1f 00},{01 00 00 14 00} acorns\nare very healthy!\n\nNo matter how many you\neat, your gut won't get any\nbigger!\n{07 19 00}If I ate only them, I\nwouldn't have to worry 'bout\nmy pants being so tight.{07 14 00}",
+   "et": ""
+  },
+  {
+   "id": 12,
+   "en": "{07 00 00}Which would you rather\nhave,{01 00 00 05 00} one HUGE acorn, or\na bunch of tiny ones?\n{07 14 00}I'd pick the small ones.{01 01 00}{07 0a 00}\nThen I could eat a million\nand not get full!",
+   "et": ""
+  },
+  {
+   "id": 13,
+   "en": "{07 04 00}Oh!{07 06 00} Those are some PRET-ty\ntasty-lookin' acorns you\ngot there!\nCome on! {01 00 00 05 00}Don't make me\nshake you down! {01 00 00 05 00}Just give\nme one, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 14,
+   "en": "{07 04 00}What!{01 00 00 14 00} {0b 03 00}{04 1f 00}, your\nacorns look a lot cooler\nthan mine!\n{07 06 00}Can't you give me one,{01 00 00 0a 00}\n{04 02 00}?{01 00 00 0a 00} Please!",
+   "et": ""
+  },
+  {
+   "id": 15,
+   "en": "{07 00 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 15 00}Acorn Scrooge!",
+   "et": ""
+  },
+  {
+   "id": 16,
+   "en": "{07 15 00}What?!{01 00 00 05 00} {0b 03 00}{04 1f 00}, you're\nsooo mean,{01 00 00 0a 00} {04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 17,
+   "en": "{07 0a 00}Yesss!{01 00 00 14 00} Hip, hip, hooray for\n{04 1f 00},{01 00 00 05 00} the acorn\nmaster!",
+   "et": ""
+  },
+  {
+   "id": 18,
+   "en": "{07 04 00}Really?{01 00 00 14 00} {07 0a 00}{01 00 00 05 00}Yesss!!! {01 01 00}You just\nmoved to the top of my\nlike list, {01 00 00 0a 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 19,
+   "en": "{07 00 00}Huh huh huh!{01 00 00 05 00} Thanks! In\nfact, you can have my\n{0b 02 00}{04 1a 00}!\nTreat that puppy well,\nand think of me when you\ndo, OK?!",
+   "et": ""
+  },
+  {
+   "id": 20,
+   "en": "{07 14 00}Huh huh huh!{01 00 00 0a 00} I think that\nshows you just how I feel.\n\n{07 0a 00}When someone helps you out,{01 00 00 05 00}\nyou have to thank 'em\nproper,{01 00 00 0a 00} {04 02 00}!",
+   "et": ""
+  }
+ ]
+}

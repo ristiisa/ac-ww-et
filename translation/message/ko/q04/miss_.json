@@ -1,0 +1,30 @@
+{
+ "file": "script/ENG/message/ko/q04/miss_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 15 00}Hey, {01 00 00 0f 00}what's the big idea,\ntrying to get me into \n{04 1c 00}?\nDid you fall on your head\nor something, {01 00 00 05 00}{04 02 00}?\n\n{07 16 00}If you think that would look\ngood on me, you need to\nget your head checked!",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 00 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}So, {01 00 00 05 00}{04 02 00}, I know \nyou worked hard to get me\n{04 1c 00}.\n{07 1b 00}But everyone's got their\nown style, {07 16 00}and that thing\nis just plain{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}hideous.",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 00 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 02 00}Whoa there!{01 00 00 0f 00} Are you\ncrazy? This is\n{04 1c 00}!\n{07 0f 00}I could never pull off\nwearing something like\nthat.{01 01 00} It's just not me{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.",
+   "et": ""
+  },
+  {
+   "id": 3,
+   "en": "{07 15 00}Hey!{01 00 00 05 00} In case you haven't\nnoticed, I've already got\n{04 1c 00}!\nWhat's the big idea, \n{01 00 00 05 00}{04 02 00}?!",
+   "et": ""
+  },
+  {
+   "id": 4,
+   "en": "{07 00 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 02 00}Ugh!{01 00 00 0f 00} What's the big idea?{01 00 00 0f 00}\nWhy are you bringing me\n{04 1c 00}?\n{07 00 00}I know I'm a clotheshorse,\nbut this is ridiculous, \n{01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  }
+ ]
+}

@@ -1,0 +1,105 @@
+{
+ "file": "script/ENG/message/ko/ev/snowfes_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 14 00}Nice snow, eh, {01 00 00 05 00}{04 1f 00}?",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 14 00}Hey, {01 00 00 05 00}{04 1f 00}!{01 00 00 0f 00}\nIt's {ff 00 00 03}Bright Nights time!",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 16 00}Whoa, now!{01 00 00 14 00} Don't get too\nexcited there, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 3,
+   "en": "{07 07 00}Brr.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} My hands are like\nfrozen hot dog packs! \n\n{07 00 00}Yeah, {01 00 00 0f 00}I was putting up\nlights for the festival for\na while.\n{07 16 00}Now I'm numb, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 4,
+   "en": "{07 00 00}People get into decorating\ntheir houses during {ff 00 00 03}Bright\nNights{ff 00 00 00}, {01 00 00 05 00}{04 02 00}.\n{07 14 00}You should go around and\ncheck 'em out, {01 00 00 05 00}{04 02 00}.",
+   "et": ""
+  },
+  {
+   "id": 5,
+   "en": "{07 14 00}My lights are awesome, huh,\n{01 00 00 05 00}{04 02 00}?\n\n{07 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 15 00}Hunh?{01 00 00 05 00} Whaddaya mean ya\nhaven't seen 'em?!\n\nIt's only the best display\nin town!",
+   "et": ""
+  },
+  {
+   "id": 6,
+   "en": "{07 00 00}I guess we're in the middle\nof the {ff 00 00 03}Bright Nights{ff 00 00 00} fest\nright now.\n{07 03 00}And I gotta say, no one's\nlights hold a candle to\nmine!\n{07 0d 00}Yeah, all the losers in this\ntown better wave a white\nflag, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 7,
+   "en": "{07 14 00}My lights are totally\nprofessional, {01 00 00 05 00}{04 02 00}!\n\n{07 00 00}Not that there are people\nwho do this sort of thing\nprofessionally, but still{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}",
+   "et": ""
+  },
+  {
+   "id": 8,
+   "en": "{07 06 00}Arggggh!{01 00 00 14 00} I didn't win the\n{ff 00 00 03}Bright Nights{ff 00 00 00} this year!\n\n{07 16 00}And I strung up all those\nstupid lights in the\nfreezin' cold!{01 00 00 05 00}\n{07 19 00}Everyone in this town is\njust too dense to get my\nsophisticated style{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n{07 16 00}I hope {ff 00 00 06}{04 0f 00}{ff 00 00 00} is proud\nof that pathetic winning\ndisplay, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 9,
+   "en": "{07 16 00}Hey,{01 00 00 05 00} get a load of this,\n{04 1f 00}!\n\n{07 15 00}{ff 00 00 06}{04 0f 00}{ff 00 00 00} won the\ncontest!\n\n{07 00 00}Can you believe that lame\ndisplay took the prize!?\n\n{07 15 00}I'm dyin' of laughter over\nhere!",
+   "et": ""
+  },
+  {
+   "id": 10,
+   "en": "{07 00 00}Do you know who won the\n{ff 00 00 03}Bright Nights{ff 00 00 00} contest{01 00 00 0f 00} {07 0b 00}this\nyear?\n{ff 00 00 06}{07 06 00}{0b 03 00}{04 0f 00}{ff 00 00 00}?! It was\n{ff 00 00 06}{04 0f 00}{ff 00 00 00}?! You have GOT\nto be kidding me!\n{07 15 00}I just don't get it!{01 01 00}\nI thought I had a lock on\nit this year, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 11,
+   "en": "{07 0c 00}Hey, {04 1f 00}!{01 00 00 0f 00}\nI did it, {01 00 00 05 00}{04 02 00}!\n\n{07 0d 00}I just won{01 00 00 0f 00} the\n{ff 00 00 03}Bright Nights{ff 00 00 00} contest!\nAhhh, SWEET VICTORY!\n{07 0e 00}So, should I have lobster\nor coelacanth tonight{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.?\n\n{07 14 00}Or both?! I'm gonna go nuts\ntonight, {01 00 00 05 00}{04 02 00}!{01 01 00}\n{07 03 00}Muwahahahahaha!",
+   "et": ""
+  },
+  {
+   "id": 12,
+   "en": "{07 00 00}Hey, {01 00 00 05 00}{04 1f 00}!{01 00 00 14 00}\nWere my lights really that\nawesome?{01 00 00 05 00}\n{07 14 00}Awww{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}. Don't hide it,\n{01 00 00 05 00}{04 02 00}!\n\n{07 00 00}If it was, just say so!{01 00 00 14 00}\nIf not, just say so!\n\n{07 19 00}I probably won't freak out\non you, {01 00 00 05 00}{04 02 00}.{01 00 00 0f 00}\nProbably.",
+   "et": ""
+  },
+  {
+   "id": 13,
+   "en": "{07 14 00}I always knew we had the\nsame sense of style,\n{01 00 00 05 00}{04 02 00}.\n{07 11 00}And the mayor told me you\nliked my lights best,{01 00 00 05 00} right?\n\n{07 0d 00}You know, kiddo,{01 00 00 05 00}\nmaybe I owe you a root\nbeer, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 14,
+   "en": "{07 00 00}You've got a good eye on\nyou, kiddo!\n\n{07 0b 00}You said you liked my\nlights,{01 00 00 05 00} right?\n\n{07 03 00}Aww, don't pretend you\ndidn't, {01 00 00 05 00}{04 02 00}!\n\n{07 15 00}I mean, how could you not\nchoose mine?!{01 01 00}\n{07 14 00}There was no contest!",
+   "et": ""
+  },
+  {
+   "id": 15,
+   "en": "{07 00 00}Maybe I'll go check out the\nlights {ff 00 00 06}{04 10 00} {ff 00 00 00}put up.{01 00 00 05 00}\n\nI hear they're not too\npathetic, {01 00 00 05 00}{04 02 00}.",
+   "et": ""
+  },
+  {
+   "id": 16,
+   "en": "{07 15 00}Dadblastit!{01 00 00 0f 00}\nThat {ff 00 00 06}{04 10 00}{ff 00 00 00}!\n\nThose lights were meant to\nimpress you, {04 1f 00}!{01 00 00 05 00}\nWhat a bootlicker!\nSo,{01 00 00 05 00} I guess if butterin' you\nup works, you fall for\nbootlickers, don'tcha?!",
+   "et": ""
+  },
+  {
+   "id": 17,
+   "en": "{07 00 00}Hey, {01 00 00 05 00}{ff 00 00 06}{04 10 00}{ff 00 00 00} did a\npretty good job!\n\n.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 16 00}I wish someone would say\nthat to me once in a while,\n{01 00 00 05 00}{04 02 00}.",
+   "et": ""
+  },
+  {
+   "id": 18,
+   "en": "Well, today's the end of\n{ff 00 00 03}Bright Nights{ff 00 00 00}!\n\n{07 1c 00}I guess I have to put these\nlights away until next year,\n{01 00 00 05 00}{04 02 00}.",
+   "et": ""
+  },
+  {
+   "id": 19,
+   "en": "So,{01 00 00 05 00} {07 0b 00}who ended up winning\nthe contest?\n\n{07 19 00}Well, {01 00 00 05 00}{04 02 00}, I guess\nwe'll find out soon enough.{07 00 00}",
+   "et": ""
+  }
+ ]
+}

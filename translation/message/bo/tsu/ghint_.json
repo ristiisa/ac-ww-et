@@ -1,0 +1,60 @@
+{
+ "file": "script/ENG/message/bo/tsu/ghint_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 0b 00}{0b 03 00}{01 00 00 05 00}{04 1f 00}, have you heard\nthe stories{01 00 00 05 00} about {ff 00 00 06}Joan{ff 00 00 00}'s\nturnips?{02 00 00 05 06}\nOh, yeah.\nDuh...",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 14 00}Ever since I was a kid,{01 00 00 0a 00} I've\nloved houses surrounded by\ntrees.\n{07 0e 00}{01 00 00 0a 00}I planted lots of trees\nall around my house{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n\n{07 08 00}But since they were all in\nmy house's shadow,{01 00 00 05 00}\nthey got no sun and died!",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 0b 00}{01 00 00 05 00}{0b 03 00}{04 1f 00}, what do you\nthink of {ff 00 00 06}Blathers{ff 00 00 00},{01 00 00 05 00}\n{04 02 00}?{02 00 00 07 08}\nI don't...\nWho's that?",
+   "et": ""
+  },
+  {
+   "id": 3,
+   "en": "{06 00 00 09 0a}",
+   "et": ""
+  },
+  {
+   "id": 4,
+   "en": "{07 15 00}That huge machine in {ff 00 00 06}Tom\nNook{ff 00 00 00}'s shop{01 00 00 0a 00} talks! It\ntalks!\n{07 0e 00}{01 00 00 0a 00}It says stuff like \"Your\npoint balance is...\"{01 00 00 0a 00} and\n\"Thank you very much{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\"\n{07 0b 00}{01 00 00 05 00}Who's the unlucky slob they\nstuck inside that thing,\n{01 00 00 0a 00}{04 02 00}?",
+   "et": ""
+  },
+  {
+   "id": 5,
+   "en": "{01 00 00 0a 00}{07 1b 00}{01 00 00 05 00}As usual, you're hip to all\nthe good stories.{01 00 00 0a 00} {07 00 00}When it\ncomes to turnips{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00}\n{07 19 00}I think{01 00 00 05 00} red turnips taste\nthe best!{07 00 00}",
+   "et": ""
+  },
+  {
+   "id": 6,
+   "en": "{07 00 00}I'm talking about that\nmoody {ff 00 00 07}white turnip lady{ff 00 00 00}.\nShe can be a firecracker!\n{07 14 00}And she has a younger (and\ncalmer) sister who deals in\n{ff 00 00 07}red turnips{ff 00 00 00}.\n{07 00 00}The two of them can be\nhard to get along with,{01 00 00 0a 00}{07 14 00} but\nonce you get to know them,\nyou can get rich quick,\n{01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 7,
+   "en": "{07 16 00}Whoa, that's soo cold{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00} {07 13 00}{01 00 00 0a 00}But{01 00 00 05 00}\nI wouldn't say that it's\na bad thing or anything.",
+   "et": ""
+  },
+  {
+   "id": 8,
+   "en": "{07 16 00}He's, like, the curator or\nwhatever at the {ff 00 00 08}museum{ff 00 00 00}.\n\n{07 00 00}When you give him fish and\nbugs,{01 00 00 05 00} he goes off on these\nlong-winded speeches.",
+   "et": ""
+  },
+  {
+   "id": 9,
+   "en": "{07 00 00}The other day I got this\nletter from {04 0b 00}.\n\n{07 0d 00}{01 00 00 0a 00}And it had{01 00 00 0a 00} {01 00 00 0a 00}a\n{04 15 00} attached\nto it as a gift!\n{07 19 00}Now I KNOW that crazy\nanimal must really, really\nlike me,{01 00 00 05 00} {04 02 00}!{07 00 00}",
+   "et": ""
+  },
+  {
+   "id": 10,
+   "en": "{07 16 00}The other day {04 0c 00}\ntried to send me a letter\nwith a FISH in it!\n{07 15 00}I was supposed to open it,\nand this fish was gonna{01 00 00 05 00}\nflop out at me{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00}\n{07 01 00}{01 00 00 0a 00}Even if the world doesn't\nlook down on that kind of\nthing, I do,{01 00 00 0a 00} {04 02 00}!",
+   "et": ""
+  }
+ ]
+}

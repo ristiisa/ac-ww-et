@@ -1,0 +1,20 @@
+{
+ "file": "script/ENG/message/fu/q06/con_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 00 00}{07 0b 00}Hey, did you deliver that\npresent like I asked you\nto, {01 00 00 05 00}{04 02 00}?\n{07 14 00}Look, I don't want to be\na big old nag,{01 00 00 05 00} but please\nget it there on time!",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 00 00}Hey, I need to make sure\nthat {ff 00 00 06}{04 10 00} {ff 00 00 00}is happy,\nand I need to do it soon!\n{07 16 00}PLEASE deliver my gift by \nthe deadline, {01 00 00 05 00}{04 02 00}!{01 00 00 0a 00}\nI'm really counting on you!",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "Say{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00} About that present{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}\n{07 16 00}You're going to deliver it\non time,{01 00 00 05 00} right?\n{07 00 00}{07 06 00}It's a big fun surprise for\n{ff 00 00 06}{04 10 00}{ff 00 00 00}, so it needs to\nget there ASAP!",
+   "et": ""
+  }
+ ]
+}

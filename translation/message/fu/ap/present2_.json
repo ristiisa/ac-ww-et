@@ -1,0 +1,110 @@
+{
+ "file": "script/ENG/message/fu/ap/present2_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{06 00 00 03 04}",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 14 00}{01 06 00}Excuse me{01 07 00}{01 00 00 0f 00},\n{04 1f 00}.\n\n{07 0b 00}Is this yours?{01 00 00 0f 00} Because I\nfound it right over there,\nand I know it's not mine.{02 00 00 0e 0f}\nThat's mine.\nNever seen it.",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 14 00}{01 06 00}{0b 03 00}{04 1f 00}{01 07 00}!{01 00 00 14 00}\nWhat impeccable timing,\n{01 00 00 05 00}{04 02 00}!\nI need to get rid of this.\nIt's yours, as long as you\ndon't ask any questions.",
+   "et": ""
+  },
+  {
+   "id": 3,
+   "en": "{07 14 00}{01 06 00}Hello there,{01 07 00}\n{04 1f 00}!{01 00 00 0a 00} What you could\nuse is a pop quiz!\n{07 0d 00}If you answer correctly, I'll\ngive you a prize!\n\n{07 00 00}Here come the questions!\n\n\nIf I were to get a scoop\nof ice cream right now,{07 0b 00}\nwhat size would I want?{05 05 00 04 05 04 05 04 05 04 05}\nNormal scoop!\nTiny scoop!",
+   "et": ""
+  },
+  {
+   "id": 4,
+   "en": "{07 00 00}{01 06 00}Oh, well, hi there{01 07 00}!\n{0b 03 00}{04 1f 00}, got a sec?{01 00 00 0a 00}\n\n{07 16 00}I hate to ask, but{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\nwhat kind of girl would\nyou say I am?{05 05 00 04 0b 04 0b 04 0b 04 0b}\nYou're cute!\nTotally normal!",
+   "et": ""
+  },
+  {
+   "id": 5,
+   "en": "{06 01 00 06 07 06}",
+   "et": ""
+  },
+  {
+   "id": 6,
+   "en": "{07 02 00}Weird! That's really\nimpressive, {01 00 00 05 00}{04 02 00}!\n\nYou can tell how hungry I\nam just by looking at me,\n{04 1f 00}?\n{07 06 00}Ew! Do you have X-ray\nvision? Can you see my\nstomach right now!?\n{07 14 00}Or was that just a lucky\nguess?{01 00 00 05 00} Either way, you win!{01 00 00 05 00}\nSo here's your prize.",
+   "et": ""
+  },
+  {
+   "id": 7,
+   "en": "{07 16 00}Nope! That's close, but\nclose is a long way from\nright, {01 00 00 05 00}{04 02 00}.\n{07 00 00}It was a bit of a trick\nquestion, though. See, I'm\nnot TOO hungry just yet...\n{07 0e 00}But once I start eating, I\nmight want to have more\nthan I felt like having.\n{07 06 00}So I suppose it could have\ngone either way.",
+   "et": ""
+  },
+  {
+   "id": 8,
+   "en": "{07 14 00}I thought you could use\n{04 1b 00}, so\nhere{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}. It's all yours.\n{07 0d 00}I hope it brings you lots\nof happiness, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 9,
+   "en": "{07 00 00}It's a, uh... I can't really\nexplain this, so here it is:\n{04 1b 00}!\n{07 14 00}To tell you the truth, I\ncouldn't think of a use for\nit at all!",
+   "et": ""
+  },
+  {
+   "id": 10,
+   "en": "{07 14 00}I thought you'd like having\n{04 1b 00}\naround the house.\nJust do whatever you want\nwith it. I hope you like\nit, though, {01 00 00 05 00}{04 02 00}.",
+   "et": ""
+  },
+  {
+   "id": 11,
+   "en": "{06 01 00 0c 0c 0d}",
+   "et": ""
+  },
+  {
+   "id": 12,
+   "en": "{07 00 00}I'm impressed! There really\nwas no right answer, but\nyou answered well.\nYou really are sweet,\n{04 1f 00}, and I\nappreciate it, {01 00 00 05 00}{04 02 00}.\nThat makes me {07 14 00}really\nhappy. I'm glad I've got\nfriends I can count on.\nHere. It's nothing special,\nbut{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}I want you to have it.",
+   "et": ""
+  },
+  {
+   "id": 13,
+   "en": "{07 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 16 00}I see how it is with you,\n{01 00 00 05 00}{04 02 00}.\n\nI thought you, out of\neveryone in town, could\nunderstand me, {04 1f 00}!\nBut I guess I was just{01 00 00 05 00}\n{07 0f 00}hoping for too much from\nmy friends.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{04 02 00}.",
+   "et": ""
+  },
+  {
+   "id": 14,
+   "en": "{06 00 00 10 11}",
+   "et": ""
+  },
+  {
+   "id": 15,
+   "en": "{06 01 00 12 13 13}",
+   "et": ""
+  },
+  {
+   "id": 16,
+   "en": "{07 04 00}So, it's yours, is it?{01 00 00 0f 00}\nVerrry interesting. Because\nthere's a name on it.\n{07 00 00}It's written right on the\nbottom: \"{04 0d 00}.\"\n\n{07 04 00}That's not your name at\nall, is it, {01 00 00 05 00}{04 02 00}?\n{07 16 00}Why would you lie to me?\n{07 06 00}That's it. I can't talk\nto you right now. I'm too\ncreeped out, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 17,
+   "en": "{07 04 00}Ah!{01 00 00 05 00} I thought so! It looked\nlike something you'd have\naround. {01 00 00 0f 00}{07 14 00}Here it is.",
+   "et": ""
+  },
+  {
+   "id": 18,
+   "en": "{07 16 00}It's not yours?{01 00 00 0f 00} But {01 00 00 05 00}{07 0b 00}whose\ncould it be?\n\n{07 0c 00}You don't suppose it\nbelongs to old {04 0d 00},\ndo you?\n{07 19 00}I swear, some people would\nforget their heads if they\nweren't stapled on.",
+   "et": ""
+  },
+  {
+   "id": 19,
+   "en": "{07 14 00}No, I'm sure it's yours. You\nmust have dropped it\nwithout noticing.\nThis is exactly the sort of\nthing I'd picture in your\nhouse, {04 1f 00}.\n{07 00 00}Please, take it. I won't\nhear another word on the\nsubject, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 20,
+   "en": "{06 01 00 08 09 0a}",
+   "et": ""
+  }
+ ]
+}

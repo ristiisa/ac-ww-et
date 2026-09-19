@@ -1,0 +1,20 @@
+{
+ "file": "script/ENG/message/ha/q05/clear_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 14 00}Niiice job,{01 00 00 0a 00} {04 1f 00}!",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 14 00}Next time I need something,\nyou are TOTALLY my dog,\n{01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 0d 00}Man, you just get things\nDONE, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  }
+ ]
+}

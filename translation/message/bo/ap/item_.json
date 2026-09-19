@@ -1,0 +1,195 @@
+{
+ "file": "script/ENG/message/bo/ap/item_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 00 00}You know, {01 00 00 0a 00}{07 14 00}I'm really into\n{04 13 00} right\nnow!\n{07 19 00}I like to drink it by the\njug, {07 13 00}'cause it warms my\nbelly to the core!\n{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 04 00}You know, your face kinda\nreminds me of that sweet,\nfrothy {04 13 00}{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.\n{07 0b 00}Does that make sense to\nyou? {01 01 00}{07 14 00}Anyway, I'm feeling\ntoasty just looking at you!",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 14 00}Hey, {04 1f 00}!{01 00 00 0a 00} {07 00 00}Have you\nframed that {ff 00 00 07}{01 00 00 0a 00}picture of me\n{ff 00 00 00}that{07 0b 00} I gave you?{02 00 00 08 09}\nSure did!\nNope.",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "So, {04 1f 00},{01 00 00 05 00}{07 0b 00} has anyone\never given you their\n{ff 00 00 07}picture{ff 00 00 00} before?{02 00 00 13 14}\nOf course!\nWell...no.",
+   "et": ""
+  },
+  {
+   "id": 3,
+   "en": "So, {04 1f 00},{01 00 00 05 00}{07 0b 00} has anyone\never given you their\n{ff 00 00 07}picture{ff 00 00 00} before?{02 00 00 13 14}\nOf course!\nWell...no.",
+   "et": ""
+  },
+  {
+   "id": 4,
+   "en": "{07 00 00}Whaaat!{01 00 00 14 00} {0b 03 00}{04 1f 00}, you\nalready have way too much\nstuff!\n{07 16 00}And I was going to give you\nsomething really cool, too{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 14 00}\n{07 14 00}Too bad, {01 00 00 05 00}{04 02 00}!\n{07 00 00}You'll have to remind me\nsometime when you have\nfewer things, OK?",
+   "et": ""
+  },
+  {
+   "id": 5,
+   "en": "{07 16 00}Oh, {04 1f 00}, you're\nalways stuffed to the gills\nwith loot!\n{07 00 00}And I wanted to give you a\n{ff 00 00 02}special something{ff 00 00 00}, too{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 1c 00}Bummer, {01 00 00 0a 00}{04 02 00}.",
+   "et": ""
+  },
+  {
+   "id": 6,
+   "en": "Hey, {04 1f 00}!{01 00 00 0a 00} {07 14 00}Which do\nyou think is my best side?{05 05 00 04 1f 04 1a 04 1e 04 16}\nLeft!\nRight!",
+   "et": ""
+  },
+  {
+   "id": 7,
+   "en": "{07 0c 00}Hey,{01 00 00 0a 00} I hear {04 0b 00}{07 0d 00}\nlikes {04 13 00}!{02 01 00 21 22 23}\nWhat of it?\nReally?\nUh...OK.",
+   "et": ""
+  },
+  {
+   "id": 8,
+   "en": "{07 14 00}Uh huh huh HUH!{01 00 00 05 00} {07 0a 00}Man, I feel\nlike{01 00 00 05 00} a celebrity!{01 01 00}{07 03 00} Do you\nwant my autograph, too!?",
+   "et": ""
+  },
+  {
+   "id": 9,
+   "en": "{07 02 00}WHAT!{01 01 00} {07 16 00}Oh, {04 1f 00}, how\ncould you! {01 00 00 0a 00}{07 06 00}You promised\nyou'd hang it right away!",
+   "et": ""
+  },
+  {
+   "id": 10,
+   "en": "{07 00 00}Uh huh huh huh! {01 00 00 05 00}OK, are you\nready?!{01 01 00} {07 14 00}Aww, never mind,\n{01 00 00 0a 00}{04 02 00}.",
+   "et": ""
+  },
+  {
+   "id": 11,
+   "en": "{07 14 00}Aww, come on{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00} {07 01 00}You know\nyou want to see it!{02 00 00 0a 0c}\nMaybe a little.\nNo, not really.",
+   "et": ""
+  },
+  {
+   "id": 12,
+   "en": "{07 15 00}Aww, {01 00 00 05 00}{04 1f 00}! You gotta\nbe joking! {01 00 00 14 00}{07 06 00}C'mon, just say\nyou want to see it!{02 00 00 0d 0e}\nOK already!\nLeave me alone!",
+   "et": ""
+  },
+  {
+   "id": 13,
+   "en": "{06 01 00 0a 12 12}",
+   "et": ""
+  },
+  {
+   "id": 14,
+   "en": "{06 01 00 0f 10 10}",
+   "et": ""
+  },
+  {
+   "id": 15,
+   "en": "{07 1d 00}{01 08 00}YOU ARE SO RUDE!{01 01 00} {07 08 00}You stomp\npigeon eggs, {04 1f 00}!{01 00 00 05 00}\nYou're such a jerk.{03 03 00 03}",
+   "et": ""
+  },
+  {
+   "id": 16,
+   "en": "{07 02 00}How horrible!{01 01 00} {07 16 00}So, you're\nsaying that you don't want\nto see it at all?{02 00 00 11 11}\nEnough already!\nPlease go away!",
+   "et": ""
+  },
+  {
+   "id": 17,
+   "en": "{06 01 00 0f 12 12}",
+   "et": ""
+  },
+  {
+   "id": 18,
+   "en": "{07 0d 00}Hey, {01 00 00 0a 00}{04 1f 00}, I can tell\nyou're shy by the way you\nstare at your feet.\n{07 00 00}It's OK. {01 00 00 05 00}I am, too. But I'll\n{01 00 00 05 00}still share my {ff 00 00 07}secret\npicture{ff 00 00 00} with you!",
+   "et": ""
+  },
+  {
+   "id": 19,
+   "en": "{07 02 00}WHAT?!{01 00 00 0a 00} Who'd you get it\nfrom?!{01 01 00} {07 16 00}Tell me it wasn't{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n{04 0c 00}!\n{07 06 00}Well, just take this{01 00 00 05 00} anyway,\n{01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 20,
+   "en": "{07 0d 00}Well, then please accept\n{ff 00 00 07}my picture{ff 00 00 00}, {01 00 00 0a 00}{04 02 00}.",
+   "et": ""
+  },
+  {
+   "id": 21,
+   "en": "{07 14 00}Now, I only give {ff 00 00 07}my picture{ff 00 00 00}\nto my bestest friends ever!{01 01 00}\nSo what this means is.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}\n{07 0a 00}We gotta stay friends\nforever! {01 01 00}Otherwise,{01 00 00 05 00}{07 01 00} I'll have\nto take my picture back!",
+   "et": ""
+  },
+  {
+   "id": 22,
+   "en": "{06 01 00 17 18 19}",
+   "et": ""
+  },
+  {
+   "id": 23,
+   "en": "{07 19 00}I see what you mean...{01 00 00 0f 00} So\nan offbeat pose signifies\nindependence. {01 00 00 0a 00}Gotcha!",
+   "et": ""
+  },
+  {
+   "id": 24,
+   "en": "{07 14 00}Uh huh huh huh!{01 00 00 14 00} A dramatic\npose captured by a\nphotographer with a dream!",
+   "et": ""
+  },
+  {
+   "id": 25,
+   "en": "{07 04 00}Huh?{01 00 00 0f 00} What do you mean, my\nlooks are one-sided?{01 00 00 14 00} Uh{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n{07 16 00}That's pretty complicated.",
+   "et": ""
+  },
+  {
+   "id": 26,
+   "en": "{06 01 00 1b 1c 1d}",
+   "et": ""
+  },
+  {
+   "id": 27,
+   "en": "{07 02 00}What?! {01 00 00 0a 00}My right side?!{01 01 00}\n{07 09 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 14 00}Well, what makes IT so\nspecial?",
+   "et": ""
+  },
+  {
+   "id": 28,
+   "en": "{07 1b 00}Well, {04 1f 00}, I always\nknew you had a good eye,\n{01 00 00 0a 00}{04 02 00}.\nI'll do my best not to\ncrumple under that glare\nof yours!",
+   "et": ""
+  },
+  {
+   "id": 29,
+   "en": "{07 04 00}The nose? {07 00 00}Now that you\nmention it...\n\n{04 0d 00} has a pretty\nnice nose, too, {01 00 00 05 00}{07 14 00}don't you\nthink, {01 00 00 0a 00}{04 02 00}?",
+   "et": ""
+  },
+  {
+   "id": 30,
+   "en": "{07 19 00}I see where you're coming\nfrom. {01 01 00}{07 0d 00}That side is pretty\nAWESOME!\n{07 04 00}And I'd have to say that I\nlike that side of your face,\ntoo, {01 00 00 0a 00}{04 02 00}.{07 14 00}",
+   "et": ""
+  },
+  {
+   "id": 31,
+   "en": "{06 01 00 20 1e 24}",
+   "et": ""
+  },
+  {
+   "id": 32,
+   "en": "{07 02 00}WHAT?!{01 01 00} {07 06 00}I DEFINITELY don't\nwant people focusing on\nthat! {01 00 00 0a 00}{0b 03 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 33,
+   "en": "{07 09 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}I was just making\nconversation, {01 00 00 0a 00}{04 02 00}.",
+   "et": ""
+  },
+  {
+   "id": 34,
+   "en": "{07 14 00}You know,{01 00 00 0a 00} that's what\n{04 0c 00} said the other\nday...\n{07 16 00}Are those two friends now?{01 01 00}\n{07 06 00}I wanna trade pictures with\n{04 0b 00}, too!",
+   "et": ""
+  },
+  {
+   "id": 35,
+   "en": "{07 02 00}What?!{01 00 00 05 00} You're being mean\nagain, {01 00 00 0a 00}{04 1f 00}! {01 00 00 0a 00}Why do\nyou have to be that way?\n{07 08 00}I was just gonna say that\nwe should go get some\n{04 13 00}!{03 03 00 02}",
+   "et": ""
+  },
+  {
+   "id": 36,
+   "en": "{07 19 00}You think my lips are cute?{01 01 00}\n{07 14 00}Why,{01 00 00 03 00} do you want me to\nsmooch you or something?",
+   "et": ""
+  },
+  {
+   "id": 37,
+   "en": "{07 14 00}I'm smiling like that 'cause\nthe photographer had a\nsqueaky toy!\nAnd it looked like a\ncupcake! {01 00 00 05 00}{07 03 00}Oh, man, it was so\nfunny! {01 00 00 05 00}A cupcake! {01 00 00 05 00}Squeaking!",
+   "et": ""
+  }
+ ]
+}

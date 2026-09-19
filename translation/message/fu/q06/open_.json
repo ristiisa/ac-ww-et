@@ -1,0 +1,20 @@
+{
+ "file": "script/ENG/message/fu/q06/open_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 15 00}HEY!{01 00 00 0a 00} I've got a bone to pick\nwith you!{01 00 00 0a 00} You opened the\npresent, didn't you?!\nI put a lot of time and\neffort into that gift!{01 00 00 05 00} And\nit was for {ff 00 00 06}{04 10 00}{ff 00 00 00}!\n{07 05 00}That was really uncool,\n{01 00 00 05 00}{04 1f 00}!{01 00 00 0a 00} So don't do it\nagain, {01 00 00 05 00}{04 02 00}!!{01 00 00 0a 00} GEEZ!!{03 02 00 01}",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 16 00}Hey, what's wrong with you,\n{04 1f 00}?{01 00 00 0f 00} Did you think{01 00 00 05 00}\nI wouldn't notice?\n{07 15 00}Remember {ff 00 00 06}{04 10 00}{ff 00 00 00}'s\npresent{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}?{01 00 00 0a 00} Yeah, so, why\ndid you OPEN IT?!\n{07 0f 00}Listen, I trusted you! That\nwas a pretty lame move,\n{04 02 00}.{03 03 00 01}",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 04 00}{07 02 00}{04 1f 00}!{01 00 00 0f 00} {07 0b 00}You opened\nthe package I asked you to\ndeliver.{01 00 00 05 00} Didn't you?\n{07 0f 00}That was a very special\ngift that I got just for\n{ff 00 00 06}{04 10 00}{ff 00 00 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 08 00}I can't believe you did\nthat!{01 00 00 0f 00} You betrayed me,\n{01 00 00 05 00}{04 02 00}!{01 00 00 0f 00} Whaaa!{03 03 00 01}",
+   "et": ""
+  }
+ ]
+}

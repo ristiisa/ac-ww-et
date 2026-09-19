@@ -1,0 +1,15 @@
+{
+ "file": "script/ENG/message/ha/q02/pwin_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 02 00}TIME OUT! {01 00 00 0a 00}Is that{01 00 00 05 00}\n{ff 00 00 07}{04 1c 00}{ff 00 00 00}?\nOh, {01 00 00 05 00}{04 02 00}!\n{07 16 00}All I've got is\n{04 1d 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 01 00}\n{07 0f 00}But that means I lost!\n{07 15 00}You must've been fired up\nlike a furnace to take your\ngame to that level!",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 02 00}That's crazy talk! You\nactually caught\n{04 1c 00}?{01 00 00 14 00}\n{07 16 00}Yarrgh! All I landed was\n{04 1d 00}{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.\n\n{07 00 00}Mine's way more tasty to\nmunch on, {01 00 00 05 00}but you win\n'cause your fish is rarer.\nRarer?{01 00 00 05 00} Is that even a word?\nAhh, who cares. Let the\nnerdoids worry about words!",
+   "et": ""
+  }
+ ]
+}

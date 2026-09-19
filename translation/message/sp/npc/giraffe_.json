@@ -1,0 +1,385 @@
+{
+ "file": "script/ENG/message/sp/npc/giraffe_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 00 00}Darling, you're talkin' to\n{ff 00 00 06}Gracie{ff 00 00 00}, countess of couture\nand expert of style!\nWhat do YOU need?",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 0c 00}{01 00 00 0a 00}Oh, honey!{07 14 00}{01 00 00 0a 00} That is THE\npièce de résistance of this\nseason's {ff 00 00 02}Gracie collection{ff 00 00 00}!\n{07 00 00}It is a signature piece \nand a timeless design!\n\n{07 0a 00}Simply wearing it spreads\npeace and fashion harmony\nthroughout the land!",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 0c 00}{01 00 00 0a 00}Hey there, darling!{01 00 00 0f 00} Lookin'\nFIERCE in my design from\nthe {ff 00 00 02}Gracie collection{ff 00 00 00}.\n{07 14 00}That piece is definitely\na must have. {01 00 00 05 00}Too bad I only\nmade a handful of them!",
+   "et": ""
+  },
+  {
+   "id": 3,
+   "en": "{07 15 00}{01 00 00 0a 00}Oh, darling.{01 00 00 0a 00} Honestly, I had\nhigher expectations for\nthis piece.\n{07 00 00}I was hoping someone more\nelegant and refined would\nend up with it.{07 03 00}{01 00 00 0f 00} Tahaha!",
+   "et": ""
+  },
+  {
+   "id": 4,
+   "en": "{07 0c 00}{01 00 00 0a 00}Oh,{01 00 00 0a 00} honey, you look\nfaaaaaaabulous!\n\n{07 14 00}Nothing says sassy like a\n{ff 00 00 02}Gracie{ff 00 00 00} original!",
+   "et": ""
+  },
+  {
+   "id": 5,
+   "en": "{07 13 00}{01 00 00 0a 00}Oh, MY! You're a cute one!\n{07 00 00}And just look at your\njuicy little outfit!\n{07 14 00}Who knew that there was\nsomeone with style in this\nbackwoods town?\n{01 00 00 0a 00}Oh, my! These hicks never\ncease to surprise me!{07 00 00}",
+   "et": ""
+  },
+  {
+   "id": 6,
+   "en": "{07 13 00}{01 00 00 0a 00}Oh, my!{01 00 00 05 00} Hello, hello!{01 00 00 05 00}\nYou're quite the specimen,\naren't you?!\n{07 03 00}{01 00 00 0a 00}Tee hee hee! {07 14 00}But, darling,\nwhat kind of tragedy\nstruck your wardrobe?\n{07 00 00}You are in need of some\nSERIOUS fashion first aid,\nSTAT!",
+   "et": ""
+  },
+  {
+   "id": 7,
+   "en": "{07 15 00}{01 00 00 0a 00}WeeeoooWeeeoooWeeeooo!\nOh, honey, forget calling\nthe fashion police!\nI'm calling in the style\nSWAT team to defuse this\nfashion bomb!\nDarling, I've known\nwildebeests with better\nstyle than you!",
+   "et": ""
+  },
+  {
+   "id": 8,
+   "en": "{07 15 00}Listen, darling, I know the\nhicks in this town love\nto gossip about me.\nSo, {01 00 00 05 00}I just want to clear\nsomething up.\n\nOne time,{01 00 00 05 00}{07 17 00} I did wear black\nwith navy.\n\n{07 06 00}But the power was out, and\nI had to get dressed in the\nDARK!\n{07 15 00}You'd better not breathe\na word of this to ANYONE!",
+   "et": ""
+  },
+  {
+   "id": 9,
+   "en": "{07 00 00}Honey, I know you're here to\nget your {ff 00 00 02}Fashionista Badge{ff 00 00 00}!{02 05 00 00 0a 26}\nYou know it!\nUhhh...what?\nBuh-bye now.",
+   "et": ""
+  },
+  {
+   "id": 10,
+   "en": "{07 00 00}Oh, darling{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}. Maybe you live\nunder a rock and haven't\nheard.\n{07 00 00}But I also serve as the\nhead of the global\nfashionista authority.{01 00 00 0f 00}\nI am licensed to fight\nfashion faux pas wherever\nthey dare to appear!\n{07 14 00}I tour the world in search\nof soldiers to fight the\nwar against tragic taste!\nThese brave, immaculately\ndressed warriors must\ndisplay exceptional style...\n...and be masters of the\naccessorizing arts.\n\nOh, and darling, they have\nGOT to answer one question\nabout true style.\n{07 14 00}If they do all that, I\ngive them an official\n{ff 00 00 02}Fashionista Badge{ff 00 00 00}!\n{07 04 00}{01 00 00 0a 00}What did you say?!{01 01 00} \nWhy would I want a stupid\nlicense?!\nHoney, if you have to ask...{07 15 00}{01 08 00}{01 00 00 0f 00}\nthen you don't get it!\n\nEvery fashion-forward\nfabulizer in the world\nyearns for my approval.\n{07 00 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}Ugh!{01 00 00 0a 00} This is exactly why I\nhate small towns!",
+   "et": ""
+  },
+  {
+   "id": 11,
+   "en": "{07 00 00}More and more people are\nembracing their inner\nfashion maven!\n{07 1b 00}{01 00 00 0a 00}Well,{01 00 00 05 00} anyway,{01 00 00 0f 00} where were we?{01 00 00 0f 00}{07 00 00}\nAh, yes, honey, {01 00 00 0a 00}let's see\nwhat you've got goin' on{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.",
+   "et": ""
+  },
+  {
+   "id": 12,
+   "en": "{07 04 00}{01 00 00 0a 00}Oh, darling! You must be\ngetting some SERIOUS fan\nmail!\n{07 00 00}{01 00 00 0a 00}Sweet thing, you're making\nit hard for me to give you\nyour {ff 00 00 02}Fashionista Badge{ff 00 00 00}!",
+   "et": ""
+  },
+  {
+   "id": 13,
+   "en": "{07 0e 00}{01 00 00 0a 00}Darling,{01 00 00 0a 00} let's start with\nyour measurements.{01 00 00 0a 00}\n\nShoulders,{01 00 00 05 00} chest,{01 00 00 05 00} waist{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\nOh, my! Wouldn't it be hot\nif I used a silky fabric{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.",
+   "et": ""
+  },
+  {
+   "id": 14,
+   "en": "{07 14 00}{01 00 00 0a 00}Oh, sweetie.{01 01 00}\nTime for a fashion pop\nquiz!\n{07 00 00}Beauty isn't just looks,\nyou know. You also need\nto know your FLAIR!\nShow me how saucy and\nsavvy you really are! Here's\nyour first question!",
+   "et": ""
+  },
+  {
+   "id": 15,
+   "en": "{07 00 00}What's so stylish about\nyour outfit?{02 02 00 ff ff ff ff}\nIt's flashy!{0a 00 00 03}\nI'm showing off!{0a 00 00 06}\nIt's so bold!{0a 00 00 09}\nI designed it.{0a 00 00 01}",
+   "et": ""
+  },
+  {
+   "id": 16,
+   "en": "{07 00 00}What's your stance on\n{07 0b 00}designer knockoffs?{02 02 00 ff ff ff ff}\nThey're fakes!{0a 00 00 02}\nThey're cheap!{0a 00 00 01}\nNot bad.{0a 00 00 03}\nAll about looks!{0a 00 00 08}",
+   "et": ""
+  },
+  {
+   "id": 17,
+   "en": "{07 00 00}Clothes,{01 00 00 0a 00} glasses,{01 00 00 0a 00} hats,{01 00 00 0a 00}\nfurniture{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}. {07 0b 00}What is the\ntrue essence of fashion?{01 00 00 05 00}{02 02 00 ff ff ff ff}\nClothes!{0a 00 00 07}\nGlasses!{0a 00 00 09}\nHats!{0a 00 00 02}\nFurniture!{0a 00 00 01}",
+   "et": ""
+  },
+  {
+   "id": 18,
+   "en": "{07 15 00}{01 00 00 05 00}Even trashy, off-the-rack\nclothes{01 00 00 05 00} look better without\nwrinkles.{01 00 00 05 00}.{01 00 00 05 00}.{07 16 00}{01 00 00 0f 00}\nHow do you sit to avoid\nwrinkles?{02 02 00 ff ff ff ff}\nSit normally.{0a 00 00 03}\nCriss-crossy!{0a 00 00 01}\nSplits!{0a 00 00 01}\nNever sit down.{0a 00 00 09}",
+   "et": ""
+  },
+  {
+   "id": 19,
+   "en": "{07 0b 00}{01 00 00 0a 00}What do you think of\ntrends?{02 02 00 ff ff ff ff}\nThey're hot!{0a 00 00 02}\nI chase 'em.{0a 00 00 01}\nThey fade.{0a 00 00 01}\nI start 'em!{0a 00 00 09}",
+   "et": ""
+  },
+  {
+   "id": 20,
+   "en": "{07 00 00}What would you do if you\nfound a hole in your jeans?{02 02 00 ff ff ff ff}\nBuy new jeans!{0a 00 00 01}\nPatch it!{0a 00 00 03}\nLeave it!{0a 00 00 06}\nRip! Rip! Rip!{0a 00 00 08}",
+   "et": ""
+  },
+  {
+   "id": 21,
+   "en": "{07 00 00}When is it appropriate\nto sport legwarmers?\n{02 02 00 ff ff ff ff}\nOn the beach!{0a 00 00 03}\nIn the office!{0a 00 00 01}\nDance class!{0a 00 00 08}\nNever!{0a 00 00 0a}",
+   "et": ""
+  },
+  {
+   "id": 22,
+   "en": "{07 00 00}You hit up a hot sale. You\nonly have time to run for\none area. Where do you go?{07 0b 00}{01 00 00 0f 00}{02 02 00 ff ff ff ff}\nClothes.{0a 00 00 08}\nWatches.{0a 00 00 05}\nBags.{0a 00 00 01}\nShoes.{0a 00 00 08}",
+   "et": ""
+  },
+  {
+   "id": 23,
+   "en": "{07 00 00}What print looks hot in\nevery season?{02 02 00 ff ff ff ff}\nFloral!{0a 00 00 06}\nFunky!{0a 00 00 02}\nAnimal!{0a 00 00 0a}\nHoundstooth!{0a 00 00 01}",
+   "et": ""
+  },
+  {
+   "id": 24,
+   "en": "{07 00 00}Let's talk design patterns.{07 14 00}{01 00 00 0f 00}\n{07 0b 00}What do you like?{02 02 00 ff ff ff ff}\nPlaid.{0a 00 00 01}\nPolka dots.{0a 00 00 02}\nStripes.{0a 00 00 03}\nNone.{0a 00 00 09}",
+   "et": ""
+  },
+  {
+   "id": 25,
+   "en": "{07 00 00}You're wearing a white\nshirt.{07 0b 00}{01 00 00 0a 00} What color pants\nwould you pair it with?{02 02 00 ff ff ff ff}\nBlack.{0a 00 00 09}\nBeige.{0a 00 00 04}\nChocolate.{0a 00 00 05}\nGlittery gold!{0a 00 00 01}",
+   "et": ""
+  },
+  {
+   "id": 26,
+   "en": "{07 00 00}Collar up{01 00 00 05 00} or collar down?{02 02 00 ff ff ff ff}\nDown!{0a 00 00 01}\nUp!{0a 00 00 07}\nJaunty!{0a 00 00 08}\nCollared shirts?{0a 00 00 02}",
+   "et": ""
+  },
+  {
+   "id": 27,
+   "en": "{07 00 00}Which of the following{01 00 00 05 00}\nis the most beautiful?{02 02 00 ff ff ff ff}\nPearl necklace.{0a 00 00 05}\nFloral patterns.{0a 00 00 06}\nBoxer's physique.{0a 00 00 0a}\nCourage.{0a 00 00 03}",
+   "et": ""
+  },
+  {
+   "id": 28,
+   "en": "{07 00 00}If you were a color{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 0b 00}{01 00 00 0f 00}which color would you be?{02 02 00 ff ff ff ff}\nRuby red!{0a 00 00 03}\nForest green!{0a 00 00 04}\nSavannah yellow!{0a 00 00 09}\nPastel pink!{0a 00 00 02}",
+   "et": ""
+  },
+  {
+   "id": 29,
+   "en": "{07 00 00}When do you check yourself\nout in the mirror?{02 02 00 ff ff ff ff}\nBefore a date.{0a 00 00 04}\nAfter a shower.{0a 00 00 01}\nIn the morning.{0a 00 00 03}\nAll the time!{0a 00 00 09}",
+   "et": ""
+  },
+  {
+   "id": 30,
+   "en": "{07 11 00}{01 00 00 0a 00}Of course, you're \ninto dieting, right?{02 02 00 ff ff ff ff}\nDefinitely!{0a 00 00 03}\nNot really.{0a 00 00 01}\nNo need.{0a 00 00 09}\nPack it on!{0a 00 00 04}",
+   "et": ""
+  },
+  {
+   "id": 31,
+   "en": "{07 00 00}Honey, let's talk \naccessories. What's your\nmust-have for this season?{02 02 00 ff ff ff ff}\nHoops.{0a 00 00 03}\nStuds.{0a 00 00 02}\nEar muffs.{0a 00 00 01}\nNothing.{0a 00 00 09}",
+   "et": ""
+  },
+  {
+   "id": 32,
+   "en": "{07 0b 00}{01 00 00 0a 00}What's your greatest\nasset?{02 02 00 ff ff ff ff}\nLong legs!{0a 00 00 06}\nMy face!{0a 00 00 05}\nMy brain!{0a 00 00 01}\nMy neck?{0a 00 00 0a}",
+   "et": ""
+  },
+  {
+   "id": 33,
+   "en": "{07 14 00}{01 00 00 0a 00}Honey, I just heard someone\nsay, \"That kid is the new\nhotness!\"\nWhat do you think of that?{02 02 00 ff ff ff ff}\nWell, it's true!{0a 00 00 07}\nMe?{0a 00 00 05}\nWho says?{0a 00 00 01}\nNot me.{0a 00 00 09}",
+   "et": ""
+  },
+  {
+   "id": 34,
+   "en": "{07 0b 00}People who won't settle for\nanything but designer\nlabels...{02 02 00 ff ff ff ff}\nAren't stylish.{0a 00 00 0a}\nAre my people!{0a 00 00 02}\nAre awesome!{0a 00 00 03}\nHave standards.{0a 00 00 04}",
+   "et": ""
+  },
+  {
+   "id": 35,
+   "en": "{07 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00}OK,{01 00 00 0a 00} darling.\nI know where you stand\non the world of fashion.\nAnd here's a present{01 01 00} {07 14 00}{01 00 00 0a 00}as\nproof of how close your\nsense is to mine{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.",
+   "et": ""
+  },
+  {
+   "id": 36,
+   "en": "{07 0a 00}{01 00 00 0a 00}Darling, can I get a\ndrumroll up in here?{01 00 00 0a 00}\nTa-DAH!!!{00 01 00}",
+   "et": ""
+  },
+  {
+   "id": 37,
+   "en": "{07 00 00}Oh, and hon, I've just\ngot one more thing to say\nto you{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.",
+   "et": ""
+  },
+  {
+   "id": 38,
+   "en": "{07 09 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}Adieu!",
+   "et": ""
+  },
+  {
+   "id": 39,
+   "en": "{06 01 00 44 45 46}",
+   "et": ""
+  },
+  {
+   "id": 40,
+   "en": "{07 00 00}Honey, why are you looking\nso depressed? It is NOT a\ngood look on you.\n{07 1d 00}What{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}? {07 00 00}Have you lost all\nconfidence in your fashion\nsense?\n{07 16 00}{01 00 00 0a 00}Are you broken?{01 00 00 14 00} Never going\nto recover?{01 00 00 14 00}\n\n{01 08 00}{07 15 00}{01 00 00 0a 00}Well, darling, that is SO not\nmy problem!\n\n{01 00 00 0a 00}I've got better things to\ndo than stand here and\nwatch you look tragic!\n{07 15 00}So, here. Take this!",
+   "et": ""
+  },
+  {
+   "id": 41,
+   "en": "{07 00 00}Well, honey, don't you have\na little sashay to your\nstep!\nMaybe it's 'cause of that \n{ff 00 00 02}Fashionista Badge{ff 00 00 00} of yours!\n\nIt proves you and I see\neye-to-eye on the most\nimportant thing in life:\n{07 0a 00}Looking faaaaaaaaabulous!",
+   "et": ""
+  },
+  {
+   "id": 42,
+   "en": "{01 08 00}{07 15 00}{01 00 00 0a 00}Don't you go gettin' all\nuppity!{01 00 00 0f 00}\n\n{07 00 00}No matter how close you\nget,{07 0b 00} you'll never BE ME!!!{01 00 00 0f 00}\nYou got that?!\n{07 00 00}Darling, this world's only\nbig enough for one {ff 00 00 06}Gracie{ff 00 00 00}!{01 00 00 0f 00}{07 00 00}",
+   "et": ""
+  },
+  {
+   "id": 43,
+   "en": "{01 00 00 0a 00}Ugh.{07 00 00} Darling, I pulled this\nout, and there's no design\non it!\n{07 14 00}{01 00 00 0a 00}But I can coordinate an\noutfit that will blow away\nyour style rivals.\nThat is, if you want{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.",
+   "et": ""
+  },
+  {
+   "id": 44,
+   "en": "{07 00 00}You'd best understand that\nI'm not doing this out of\nthe goodness of my heart.\n{07 11 00}{01 00 00 0a 00}Oh, my{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}. The goodness\nof my heart?! {07 03 00}Now THAT\nis funny, honey.\n{07 04 00}{01 00 00 0a 00}Oh,{01 00 00 14 00} and I'm not asking\nfor charity, either!",
+   "et": ""
+  },
+  {
+   "id": 45,
+   "en": "{07 02 00}{01 00 00 0a 00}What?! Darling, you'd better\nbe joking!{01 00 00 0f 00} It takes a lot of\nmoney to look this cheap!{01 00 00 05 00}\n{07 16 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}And why are you\nlooking at me like that?!\n\n{07 15 00}You have no respect\nfor my art.{01 00 00 0a 00} Fine, let's\nget this over with.",
+   "et": ""
+  },
+  {
+   "id": 46,
+   "en": "{07 14 00}{01 00 00 0a 00}My!{01 00 00 0a 00} I must have inspired\nthe furious fashionista\ninside of you!\n{07 11 00}{01 00 00 0a 00}You understand me!{07 1b 00}{01 00 00 0a 00}\nWell, then.{01 00 00 05 00}{01 00 00 05 00} I say it's time\nto make you {01 00 00 05 00}FAAAAABULOUS!!!",
+   "et": ""
+  },
+  {
+   "id": 47,
+   "en": "{07 03 00}{01 00 00 0a 00}Tee hee hee!{01 00 00 0f 00} Honey, I knew\nyou'd understand!\n\n{07 14 00}{01 00 00 0a 00}What say we get this party\nstarted right about now?",
+   "et": ""
+  },
+  {
+   "id": 48,
+   "en": "{07 02 00}{01 00 00 0a 00}Oh, my{01 00 00 0f 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}so much!?{07 00 00}\nOh,{01 00 00 0a 00} I mean,{01 00 00 0f 00} of course,\ndarling!{01 00 00 05 00} Tee hee hee!\n{07 14 00}{01 00 00 0a 00}Honey,{01 00 00 05 00} {ff 00 00 06}Gracie{ff 00 00 00} is about to\ngive you the deee-luxe!{01 00 00 05 00}",
+   "et": ""
+  },
+  {
+   "id": 49,
+   "en": "{07 15 00}Darling,{01 00 00 0a 00} are you even\nlistening to what I'm\nsaying?!\nI'd love to pull together{01 00 00 05 00}\na sumptuous little outfit\njust for you.\n{07 00 00}But this ain't a charity,\nhoney!\n\n{07 11 00}{01 00 00 0a 00}You know how people say{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.\n{ff 00 00 02}I rub your back, you rub\nmine{ff 00 00 00}?{01 00 00 14 00} It's kinda like that.\n{07 04 00}{01 00 00 0a 00}No, no, NO! {01 00 00 0a 00}Honey, I am NOT\nasking for that tacky shirt\noff your back!\n{07 15 00}You KEEP that thang to\nyourself!",
+   "et": ""
+  },
+  {
+   "id": 52,
+   "en": "{07 00 00}Little snip here{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}. Tuck over\nthere{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.and VOILA!\n\n{07 0a 00}{01 00 00 0a 00}OK, honey, what do you\nthink of this\n{0b 02 00}{04 1a 00}?\n{ff 00 00 02}Gracie designs{ff 00 00 00} are like\ndiamonds: they're timeless,\nand they go with EVERYTHING!",
+   "et": ""
+  },
+  {
+   "id": 54,
+   "en": "Ready{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 01 00}{07 14 00}{01 00 00 0a 00}and{01 00 00 05 00} GO!",
+   "et": ""
+  },
+  {
+   "id": 55,
+   "en": "{07 00 00}Snip snip snip.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} Oh, my!\nI could just eat this up!\n\n{07 0a 00}{01 00 00 0a 00}So bold! So tangy! So SPICY!\nHoney, you got a whole BBQ\nbuffet of style goin' on!",
+   "et": ""
+  },
+  {
+   "id": 56,
+   "en": "{07 00 00}Oh, my,{01 00 00 0a 00} you're lookin'\nsaucier than a plate of\nalfredo!{01 00 00 05 00} ",
+   "et": ""
+  },
+  {
+   "id": 57,
+   "en": "{07 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.{07 04 00}{01 00 00 0a 00}OK, {01 00 00 0f 00}do me a favor first,\nsweetie: toss some of those\nthings you're carrying!\nI can't bring in the new if\nyou don't throw out the\nold!{01 01 00}{01 02 00}{07 03 00}{01 00 00 0f 00} Ciao!{01 03 00}",
+   "et": ""
+  },
+  {
+   "id": 58,
+   "en": "{07 00 00}Come on, honey{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 01 00}{01 08 00}\n{07 1d 00}{01 00 00 0a 00}Let your hair down!",
+   "et": ""
+  },
+  {
+   "id": 59,
+   "en": "{07 00 00}Oh, sweetie{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 01 00}{01 08 00}\n{07 1d 00}{01 00 00 0a 00}That shirt screams \nindividuality!",
+   "et": ""
+  },
+  {
+   "id": 60,
+   "en": "{07 00 00}Darling{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 01 00}{01 08 00} {07 1d 00}{01 00 00 0a 00}You have to start\nwith hygiene!",
+   "et": ""
+  },
+  {
+   "id": 61,
+   "en": "{07 00 00}Oh, my dear{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 01 00}{01 08 00}\n{07 1d 00}{01 00 00 0a 00}Donkeys have a more\ncharming laugh than you!",
+   "et": ""
+  },
+  {
+   "id": 62,
+   "en": "{07 00 00}Listen up, honey{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 01 00}{01 08 00}\n{07 1d 00}{01 00 00 0a 00}A smile is supposed to look\nfriendly, not frightening!",
+   "et": ""
+  },
+  {
+   "id": 63,
+   "en": "{07 00 00}Darling{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 01 00}{01 08 00} {07 1d 00}{01 00 00 0a 00}Eye contact is\nyour best accessory!",
+   "et": ""
+  },
+  {
+   "id": 64,
+   "en": "{07 00 00}That shirt{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 01 00}{01 08 00}{07 1d 00}{01 00 00 0a 00}sure has that\ncountry aroma!",
+   "et": ""
+  },
+  {
+   "id": 65,
+   "en": "{07 00 00}Honey, let's turn down{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 01 00}{01 08 00}\n{07 1d 00}{01 00 00 0a 00}the intensity!",
+   "et": ""
+  },
+  {
+   "id": 66,
+   "en": "{07 00 00}Darling{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 01 00}{01 08 00} {07 1d 00}Enough with the\nheavy breathing!",
+   "et": ""
+  },
+  {
+   "id": 67,
+   "en": "{07 00 00}Darling{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 01 00}{01 08 00} {07 1d 00}{01 00 00 0a 00}Leave the\nchitchat to the squirrels.",
+   "et": ""
+  },
+  {
+   "id": 68,
+   "en": "{07 14 00}{01 00 00 0a 00}Oh my, {01 00 00 05 00}I've done it again!{01 00 00 05 00}\nNot that anyone is\nsurprised!{07 00 00}{01 00 00 0a 00} {07 03 00}Tee hee hee!",
+   "et": ""
+  },
+  {
+   "id": 69,
+   "en": "{07 14 00}Sometimes being too hot\ncan have its hazards{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.",
+   "et": ""
+  },
+  {
+   "id": 70,
+   "en": "{07 0b 00}{01 00 00 0a 00}Honey, what do you WANT?!{01 00 00 05 00}",
+   "et": ""
+  },
+  {
+   "id": 71,
+   "en": "{07 00 00}OK, darling, get your bad\nself ready for question\nnumber two!",
+   "et": ""
+  },
+  {
+   "id": 72,
+   "en": "{07 00 00}Watch yourself, honey!\nQuestion three is coming\nyour way!",
+   "et": ""
+  },
+  {
+   "id": 73,
+   "en": "{07 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}Darling, you'd best be\nready for question four!",
+   "et": ""
+  },
+  {
+   "id": 74,
+   "en": "{07 00 00}And finally.{01 00 00 05 00}.{01 00 00 05 00}.",
+   "et": ""
+  },
+  {
+   "id": 75,
+   "en": "{07 15 00}Darling, this must be a\nhard concept for you!",
+   "et": ""
+  },
+  {
+   "id": 76,
+   "en": "{07 14 00}Well?!",
+   "et": ""
+  },
+  {
+   "id": 77,
+   "en": "{07 14 00}Perfection, right?!",
+   "et": ""
+  },
+  {
+   "id": 78,
+   "en": "{07 14 00}Everyone agrees, darling.",
+   "et": ""
+  }
+ ]
+}

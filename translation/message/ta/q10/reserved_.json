@@ -1,0 +1,20 @@
+{
+ "file": "script/ENG/message/ta/q10/reserved_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 14 00}All right, so that's {04 10 00}:{04 11 00}\non the {04 0f 00}, right? {01 01 00}I'll\nnote it in my date book!",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 14 00}Let me just confirm. That's\n{04 10 00}:{04 11 00} on the {04 0f 00}, right?\n\n{07 1b 00}Do me a favor.{01 00 00 05 00} Try to\nstraighten up before I\nget there, {01 00 00 05 00}{04 02 00}.",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 15 00}{04 10 00}:{04 11 00} on the {04 0f 00}{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.\n{07 14 00}I've penciled you in!{01 00 00 0a 00} I'll be\ncounting the minutes!",
+   "et": ""
+  }
+ ]
+}

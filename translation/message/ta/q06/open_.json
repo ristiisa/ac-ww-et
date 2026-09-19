@@ -1,0 +1,20 @@
+{
+ "file": "script/ENG/message/ta/q06/open_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{01 00 00 0a 00}{07 04 00}Hey, forget about whatever\nyou're doing!{01 01 00} {07 15 00}I know{01 00 00 0a 00} you\nopened that present!\nDon't even try to deny it!{01 00 00 0a 00}{07 1c 00}{01 00 00 14 00}\nUgh,{01 00 00 0a 00} why would anyone do\nsomething like that?!\n{07 1b 00}Were you THAT jealous of\nthe attention I've been\ngiving {ff 00 00 06}{04 10 00}{ff 00 00 00}?",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{01 00 00 14 00}{07 04 00}By the way, {04 1f 00}!{01 01 00}\n{07 15 00}About the {01 00 00 05 00}present that I\ngave you for {ff 00 00 06}{04 10 00}{ff 00 00 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00}\n{07 01 00}I know it was you who\nopened it!\n\n{07 05 00}I can't believe this!{01 00 00 14 00} {01 00 00 05 00}You've\ntarnished my reputation,\n{01 00 00 0a 00}{04 02 00}!{03 02 00 01}",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 00 00}{01 00 00 14 00}{07 04 00}Ugh,{01 00 00 05 00} how can you be so\ncalm?! How can you even\nlook me in the eye?!\n{07 15 00}That present{01 00 00 0a 00} I gave you to\ndeliver to {ff 00 00 06}{04 10 00}{ff 00 00 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00}\nYou opened it, didn't you?\n{07 05 00}I can't believe that!{01 00 00 14 00} {01 00 00 05 00}It's a\ntotal violation of privacy!\n{01 00 00 0a 00}You're a terrible snoop!!{03 02 00 01}",
+   "et": ""
+  }
+ ]
+}

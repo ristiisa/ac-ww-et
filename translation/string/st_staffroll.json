@@ -1,0 +1,190 @@
+{
+ "file": "script/ENG/string/st_staffroll.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "GENERAL PRODUCER\n\nTakashi Tezuka\n\nPRODUCER\n",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "Katsuya Eguchi\n\nDIRECTOR\n\nHisashi Nogami\n",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "SEQUENCE DIRECTOR\n\nHajime Takahashi\n\nSYSTEM DIRECTOR\n",
+   "et": ""
+  },
+  {
+   "id": 3,
+   "en": "Isao Moro\n\nDESIGN DIRECTOR\n\nRyuji Kobayashi\n",
+   "et": ""
+  },
+  {
+   "id": 4,
+   "en": "CHARACTER DESIGN\n\nKoji Takahashi\n\nFIELD DESIGN\n",
+   "et": ""
+  },
+  {
+   "id": 5,
+   "en": "Yu Kudo\n\nUI DESIGN\n\nYoshihiro Matsushima\n",
+   "et": ""
+  },
+  {
+   "id": 6,
+   "en": "DESIGN\n\nJun Takamura\nTomomi Iwasaki\nRyo Tanaka\n",
+   "et": ""
+  },
+  {
+   "id": 7,
+   "en": "EFFECT DESIGN\n\nKeijiro Inoue\nMotoaki Fukuda\n\nDESIGN ASSIST",
+   "et": ""
+  },
+  {
+   "id": 8,
+   "en": "\nKimihiro Ozaki\nMutsumi Oda\nFumihiro Matsumoto\nKozue Muto\nMasanori Esaki",
+   "et": ""
+  },
+  {
+   "id": 9,
+   "en": "Tomoko Yada\nRitsuko Tanaka\nTakumi Ishii\nMitsuko Okada\n\nSCRIPT",
+   "et": ""
+  },
+  {
+   "id": 10,
+   "en": "\nTakayuki Ikkaku\nArisa Hosaka\nToshihiro Kawabata\n\nSOUND DIRECTOR",
+   "et": ""
+  },
+  {
+   "id": 11,
+   "en": "\nKazumi Totaka\n\nSOUND EFFECTS\n\nTaro Bando",
+   "et": ""
+  },
+  {
+   "id": 12,
+   "en": "Junya Osada\n\nSOUND PROGRAM\n\nAtsushi Masaki\n",
+   "et": ""
+  },
+  {
+   "id": 13,
+   "en": "SOUND ASSIST\n\nAsuka Ohta\n\nPROGRAM DIRECTOR\n",
+   "et": ""
+  },
+  {
+   "id": 14,
+   "en": "Masaru Nii\n\nNPC PROGRAM\n\nGentaro Takaki\nTakafumi Noma",
+   "et": ""
+  },
+  {
+   "id": 15,
+   "en": "Takamitsu Kuzuhara\n\nFIELD PROGRAM\n\nHiromichi Miyake\n",
+   "et": ""
+  },
+  {
+   "id": 16,
+   "en": "UI PROGRAM\n\nAtsushi Nishiwaki\n\nMESSAGE PROGRAM\n",
+   "et": ""
+  },
+  {
+   "id": 17,
+   "en": "Masaro Sakakibara\n\nPLAYER PROGRAM\n\nToshinori Kawai\n",
+   "et": ""
+  },
+  {
+   "id": 18,
+   "en": "PROGRAM\n\nYutaka Arata\nNorihisa Ashida\nYoshitaka Takeshita\n",
+   "et": ""
+  },
+  {
+   "id": 19,
+   "en": "COMMUNICATION PROGRAM\n\nKunihiro Komatsu\n\nSYSTEM PROGRAM",
+   "et": ""
+  },
+  {
+   "id": 20,
+   "en": "Yuichi Yamamoto\nKenzo Hayakawa\n\nPROGRAMMING SUPPORT\n\nTetsuya Sasaki",
+   "et": ""
+  },
+  {
+   "id": 21,
+   "en": "Tsutomu Araki\nYuki Onozawa\nSatoru Osako\nTetsuya Nakata\nYuki Hayashi\nProgramming",
+   "et": ""
+  },
+  {
+   "id": 22,
+   "en": "Support Group\n\nNintendo WFC\nGENERAL MANAGEMENT\nNintendo WFC\nWorking Group",
+   "et": ""
+  },
+  {
+   "id": 23,
+   "en": "\nSYSTEM DEVELOPMENT\n\nNintendo WFC\nDevelopment Team\n",
+   "et": ""
+  },
+  {
+   "id": 24,
+   "en": "DEVELOPMENT         \nENVIRONMENT SUPPORT\nSPD Development\nEnvironment and\nArt Group\n",
+   "et": ""
+  },
+  {
+   "id": 25,
+   "en": "PROGRESS MANAGEMENT\n\nKeizo Kato\n\nTECHNICAL SUPPORT\n",
+   "et": ""
+  },
+  {
+   "id": 26,
+   "en": "Hironobu Kakui\nYoshito Yasuda\nShintaro Jikumaru\n\nDEBUG\n",
+   "et": ""
+  },
+  {
+   "id": 27,
+   "en": "Yusuke Amano\nSuper Mario Club\n\nSUPERVISOR\n\nToshihiko Nakago",
+   "et": ""
+  },
+  {
+   "id": 28,
+   "en": "\nARTWORK\n\nToki Iida\nRyuichi Suzuki\n",
+   "et": ""
+  },
+  {
+   "id": 29,
+   "en": "NOA LOCALIZATION\n\nAlan Averill\nRich Amtower\nNate Bihldorff\nChiko Bird",
+   "et": ""
+  },
+  {
+   "id": 30,
+   "en": "Ann Lin\nReiko Ninomiya\nErik Peterson\nTim O'Leary\nShino Aizawa Overaa\nScot Ritchey",
+   "et": ""
+  },
+  {
+   "id": 31,
+   "en": "\nNOA LOCALIZATION\nMANAGEMENT\nJeff Miller\nLeslie Swan\nBill Trinen",
+   "et": ""
+  },
+  {
+   "id": 32,
+   "en": " \n\nNOA PRODUCT TESTING\n\nYoshinobu Mantani\nShuji Hashimoto",
+   "et": ""
+  },
+  {
+   "id": 33,
+   "en": "Rob Crombie\nKyle Hudson\nEric Bush\nSean Egan\nDan Simpson\nEd Ridgeway",
+   "et": ""
+  },
+  {
+   "id": 34,
+   "en": "Leland Jones\nTeresa Lillygren\nMika Kurosawa\nTomoko Mikami\nDougall Campbell\nPatrick Taylor",
+   "et": ""
+  },
+  {
+   "id": 35,
+   "en": "\nSPECIAL THANKS\n\nSRD\nYumi Yoshimi\nMike Fukuda",
+   "et": ""
+  },
+  {
+   "id": 36,
+   "en": "Tatsumi Kimishima\n\nEXECUTIVE PRODUCER\n\nSatoru Iwata",
+   "et": ""
+  }
+ ]
+}

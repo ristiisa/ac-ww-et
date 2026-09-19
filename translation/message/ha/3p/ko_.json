@@ -1,0 +1,225 @@
+{
+ "file": "script/ENG/message/ha/3p/ko_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{09 01 00}{09 08 00}{07 04 00}Dude, {ff 00 00 06}{01 00 00 05 00}{04 10 00}{ff 00 00 00}!{01 00 00 0a 00}\nWhat's wrong with your\nface, bro?\n{06 01 00 03 07 0b}",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{09 01 00}{09 08 00}I'm so sick of people making\nthe town tune so lame!\nEasy listening, all the time!{09 09 00}",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{06 00 00 1f 26}",
+   "et": ""
+  },
+  {
+   "id": 3,
+   "en": "{07 16 00}Seriously, you've got this\nevil grin on your face!\n\nWhat are you scheming,\n{01 00 00 05 00}{04 02 00}!?{09 09 00}",
+   "et": ""
+  },
+  {
+   "id": 4,
+   "en": "{09 00 00}{09 08 00}{09 02 00}{07 14 00}He he he{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} Nothin' all that\ninteresting.{01 00 00 14 00}\n\nI was just buying the final\nscrews for this doomsday\ndevice I invented{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{09 09 00}",
+   "et": ""
+  },
+  {
+   "id": 5,
+   "en": "{09 00 00}{09 08 00}{09 02 00}Dude! I didn't know you\nwere an inventor!{01 00 00 0f 00} {07 15 00}That's\nsweet, bro! {0b 03 00}{01 00 00 05 00}{04 02 00}!\n{07 1d 00}HEY! {07 14 00}I've had this idea for\nthe ultimate abdominal\nworkout machine!\n{07 15 00}I call it{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}the AB-FURNO!\nWe should team up and sell\nit on infomercials!\nWe'll be rich!{03 02 00 01}{09 09 00}",
+   "et": ""
+  },
+  {
+   "id": 6,
+   "en": "{09 00 00}{09 08 00}{09 02 00}{07 01 00}Did you even hear what I\nsaid? You are such a\nmeathead!\n{07 11 00}When I complete my\ndoomsday device{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n\n{07 1d 00}Wait a second. {01 00 00 05 00}{07 06 00}Did you say\nit's called the Ab-furno?{01 01 00}\n{07 14 00}That's kinda clever.\nHeh, your catchphrase\ncould be \"IT BURRRRNS\"!\nFine, I'll do it, {01 00 00 05 00}{04 02 00}!{03 02 00 01}",
+   "et": ""
+  },
+  {
+   "id": 7,
+   "en": "{07 16 00}Bro, you are lookin' even\ncrankier than usual,\n{01 00 00 05 00}{04 02 00}!{09 09 00}",
+   "et": ""
+  },
+  {
+   "id": 8,
+   "en": "{09 00 00}{09 08 00}{09 02 00}{07 16 00}It's that insurance\nsalesman,{01 00 00 05 00} {ff 00 00 06}Lyle{ff 00 00 00}!\n\n{07 00 00}That slimy-palmed\nsleazemonger won't leave me\nalone!\n{01 00 00 05 00}He starts chasing me\naround town every time he\nsees me, {01 00 00 05 00}{04 02 00}!{09 09 00}",
+   "et": ""
+  },
+  {
+   "id": 9,
+   "en": "{09 00 00}{09 06 00}{09 01 00}{07 15 00}DUDE, {01 00 00 05 00}{ff 00 00 06}{04 10 00}{ff 00 00 00}!{01 00 00 14 00}\n{07 05 00}You're talkin' about that\nguy with the bar code!\nY'know, a bar code?\nA comb-over? {0b 03 00}{01 00 00 05 00}{04 02 00}!{07 15 00}{09 09 00}",
+   "et": ""
+  },
+  {
+   "id": 10,
+   "en": "{09 00 00}{09 08 00}{09 02 00}{07 01 00}Yeah, {01 00 00 05 00}{04 02 00}!{01 01 00}\n{07 15 00}I hope that guy takes a\nlong walk into a pitfall!{03 02 00 01}{09 01 00}{03 02 00 01}",
+   "et": ""
+  },
+  {
+   "id": 11,
+   "en": "{07 16 00}You look seriously freaked\nout, bro!{01 00 00 05 00} {07 0b 00}What's the deal?{09 09 00}",
+   "et": ""
+  },
+  {
+   "id": 12,
+   "en": "{09 00 00}{09 08 00}{09 02 00}{07 01 00}It's a SUSHI CRISIS!{01 00 00 0a 00}\nThere isn't any sushi\nanywhere, {01 00 00 05 00}{04 02 00}!{09 09 00}",
+   "et": ""
+  },
+  {
+   "id": 13,
+   "en": "{09 00 00}{09 06 00}{09 01 00}{07 00 00}So what? I thought it\nwas something serious,\n{01 00 00 05 00}{04 02 00}!\nYou looked like you pulled a\ngroin muscle doing squat\nslammers or something!{09 09 00}",
+   "et": ""
+  },
+  {
+   "id": 14,
+   "en": "{07 00 00}{09 00 00}{09 08 00}{09 02 00}{07 15 00}You beefbrain! {07 19 00}A sushi\nshortage is a MAJOR CRISIS!\n\nAnd you know what? I blame\nthat spaced-out philosopher\notter, {ff 00 00 06}Pascal{ff 00 00 00}!{09 09 00}\nThat hippie is always\nhogging all the fresh\nseafood!",
+   "et": ""
+  },
+  {
+   "id": 15,
+   "en": "{09 00 00}{09 06 00}{09 01 00}{07 15 00}But I kinda like\nthat {ff 00 00 06}Pascal{ff 00 00 00} dude. {01 00 00 05 00}He's all\ndeep and stuff.{09 09 00}",
+   "et": ""
+  },
+  {
+   "id": 16,
+   "en": "{09 00 00}{09 08 00}{09 02 00}{07 15 00}You WOULD think that!\n{ff 00 00 06}Pascal{ff 00 00 00} is about as deep as\na casserole dish!\n{07 01 00}Don't encourage that hippie!\nI better not see you\ngiving him any scallops!\nI mean it, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 17,
+   "en": "{09 00 00}{09 08 00}{09 02 00}{07 19 00}I know! What's that all\nabout?!{01 00 00 14 00} And La-Di-Day is\neven worse!\n{07 01 00}People are always singing\nthe cutest songs. It makes\nme sick!{01 00 00 05 00}{09 09 00}",
+   "et": ""
+  },
+  {
+   "id": 18,
+   "en": "{09 00 00}{09 06 00}{09 01 00}{07 16 00}Dude. I KNOW!{01 00 00 05 00} You know what\nthis town needs, bro?{01 01 00}\nMETAL!\nYeah, I said it. HEAVY METAL!\nSomethin' that makes me\nwanna PUMP IRON!\n{09 03 00}{07 00 00}Yo, {01 00 00 05 00}{ff 00 00 05}{04 1f 00}{ff 00 00 00}!{01 00 00 0a 00} Are ya with\nme or what?{07 0b 00}{05 05 00 04 1c 04 19 04 16 04 13}\nMetal rules!\nMetal is lame!\n{09 09 00}",
+   "et": ""
+  },
+  {
+   "id": 19,
+   "en": "{07 00 00}{09 08 00}{09 00 00}{09 08 00}{09 02 00}{07 14 00}Rock on!{09 01 00}{09 08 00}{09 02 00} I knew you were\none of us, {01 00 00 05 00}{04 02 00}!{09 09 00}",
+   "et": ""
+  },
+  {
+   "id": 20,
+   "en": "{09 00 00}{09 06 00}{09 01 00}{07 14 00}You know what we should do?\nStart a metalhead union!{01 00 00 0a 00}\n\nWe've got to organize to\nroot out all lame music\nin this town, {01 00 00 05 00}{04 02 00}!{09 09 00}",
+   "et": ""
+  },
+  {
+   "id": 21,
+   "en": "{07 16 00}{09 00 00}{09 08 00}{09 02 00}{07 15 00}YEAH!{07 0f 00} We're not gonna take\nit anymore, {01 00 00 05 00}{04 02 00}!{09 01 00}",
+   "et": ""
+  },
+  {
+   "id": 22,
+   "en": "{07 00 00}{09 08 00}{09 00 00}{09 08 00}{09 02 00}{07 14 00}Right on! I knew you weren't\ninto that wimp music,\n{01 00 00 05 00}{04 02 00}!{09 09 00}",
+   "et": ""
+  },
+  {
+   "id": 23,
+   "en": "{09 00 00}{09 06 00}{09 01 00}{09 07 00}Yeah, well, now what?\nThere's not much we can do\nabout it, {01 00 00 05 00}{04 02 00}.{09 09 00}",
+   "et": ""
+  },
+  {
+   "id": 24,
+   "en": "{09 00 00}{09 08 00}{09 02 00}{07 01 00}Don't say that, dude!\nWe gotta fight for our\nright to ROCK ON!\nSomeone really needs to go\nspike the town tune\nwith some METAL!{03 02 00 01}",
+   "et": ""
+  },
+  {
+   "id": 25,
+   "en": "{07 00 00}{09 08 00}{09 00 00}{09 08 00}{09 02 00}{07 02 00}DUDE! {01 00 00 05 00}We're talkin'\nMETAL here! {01 00 00 05 00}How can you not\nbe fired up about it?!\nDon't wuss out on me,\n{01 00 00 05 00}{04 02 00}!{09 09 00}",
+   "et": ""
+  },
+  {
+   "id": 26,
+   "en": "{07 16 00}{09 00 00}{09 06 00}{09 01 00}Some people just aren't\nmetal material, man.{01 00 00 0a 00}\n\nLet 'em enjoy their happy\nlittle music. {01 00 00 05 00}They have\nto live with themselves.{09 09 00}",
+   "et": ""
+  },
+  {
+   "id": 27,
+   "en": "{09 00 00}{09 08 00}{09 02 00}{07 01 00}No way, bro!{01 00 00 14 00} I can't just\nsit and watch while people\nsupport that evilness!\n{07 15 00}I don't want that smooth\njazz filth in this town,\nya'hear?!",
+   "et": ""
+  },
+  {
+   "id": 28,
+   "en": "{09 00 00}{09 08 00}{09 02 00}{07 02 00}Dude.{01 00 00 05 00}{01 01 00}\n{07 16 00}I can't even BELIEVE you\njust said that.{09 09 00}",
+   "et": ""
+  },
+  {
+   "id": 29,
+   "en": "{09 00 00}{09 06 00}{09 01 00}{09 07 00}{07 06 00}Did you just say metal\nis lame?!{01 00 00 14 00}\n\nOh, man. {01 00 00 05 00}I would run for it\nright now if I were you!{01 00 00 05 00}{09 09 00}",
+   "et": ""
+  },
+  {
+   "id": 30,
+   "en": "{09 00 00}{09 08 00}{09 02 00}{09 05 00}{07 07 00}Forehead veins{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}bulging{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{03 02 00 01}",
+   "et": ""
+  },
+  {
+   "id": 31,
+   "en": "{ff 00 00 06}{09 01 00}{09 08 00}{07 01 00}{04 0f 00} {ff 00 00 00}Arm Twist!{09 09 00}",
+   "et": ""
+  },
+  {
+   "id": 32,
+   "en": "{ff 00 00 06}{09 00 00}{09 08 00}{09 02 00}{07 01 00}{04 10 00} {ff 00 00 00}Pile Driver!{09 09 00}",
+   "et": ""
+  },
+  {
+   "id": 33,
+   "en": "{ff 00 00 06}{09 00 00}{09 06 00}{09 01 00}{07 00 00}{07 01 00}{04 0f 00} {ff 00 00 00}Power Slam!{09 09 00}",
+   "et": ""
+  },
+  {
+   "id": 34,
+   "en": "{ff 00 00 06}{09 00 00}{09 08 00}{09 02 00}{07 00 00}{07 01 00}{04 10 00} {ff 00 00 00}Headbutt!{09 09 00}",
+   "et": ""
+  },
+  {
+   "id": 35,
+   "en": "{09 00 00}{09 06 00}{09 01 00}{07 00 00}Facebuster!{09 09 00}",
+   "et": ""
+  },
+  {
+   "id": 36,
+   "en": "{09 00 00}{09 08 00}{09 02 00}{07 15 00}Flying Armpit Tickle!{09 09 00}",
+   "et": ""
+  },
+  {
+   "id": 37,
+   "en": "{07 00 00}{09 00 00}{09 06 00}{09 01 00}{07 16 00}Uh{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}dude. {01 00 00 05 00}That's not a real\nmove, {01 00 00 05 00}{04 02 00}.",
+   "et": ""
+  },
+  {
+   "id": 38,
+   "en": "{09 01 00}{09 08 00}{07 16 00}Bro, you gotta check\nyourself in the mirror!{01 00 00 05 00}\n\nYou've got a serious nose\nhair issue going on,\n{01 00 00 05 00}{04 02 00}!{09 09 00}",
+   "et": ""
+  },
+  {
+   "id": 39,
+   "en": "{09 00 00}{09 08 00}{09 02 00}{07 06 00}What, man? What's the\nbig deal?{09 09 00}",
+   "et": ""
+  },
+  {
+   "id": 40,
+   "en": "{07 16 00}{09 00 00}{09 06 00}{09 01 00}{07 16 00}Dude! Don't you know\nANYTHING about workin' out\nand gettin' HUGE?!{09 09 00}",
+   "et": ""
+  },
+  {
+   "id": 41,
+   "en": "{09 00 00}{09 08 00}{09 02 00}{07 06 00}What the heck does working\nout have to do with\nnose hair, {01 00 00 05 00}{04 02 00}?{09 09 00}",
+   "et": ""
+  },
+  {
+   "id": 42,
+   "en": "{09 00 00}{09 06 00}{09 01 00}It restricts AIRFLOW!\n\n\n{07 01 00}You'll never run a three-\nminute mile with all that\nblockage, bro!{09 09 00}",
+   "et": ""
+  },
+  {
+   "id": 43,
+   "en": "{09 00 00}{09 08 00}{09 02 00}{07 01 00}If I were a ref, I'd throw a\npenalty flag on you for\nflagrant meatheadedness!",
+   "et": ""
+  }
+ ]
+}

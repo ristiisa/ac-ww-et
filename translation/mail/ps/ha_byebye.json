@@ -1,0 +1,30 @@
+{
+ "file": "script/ENG/mail/ps/ha_byebye.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "See ya! From {04 10 00}",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "Later, yo! -{04 10 00}",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "Don't cry! -{04 10 00}",
+   "et": ""
+  },
+  {
+   "id": 3,
+   "en": "Get pumped! -{04 10 00}",
+   "et": ""
+  },
+  {
+   "id": 4,
+   "en": "Your friend, {04 10 00}",
+   "et": ""
+  }
+ ]
+}

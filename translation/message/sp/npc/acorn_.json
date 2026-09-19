@@ -1,0 +1,130 @@
+{
+ "file": "script/ENG/message/sp/npc/acorn_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 00 00}{00 01 00}I grabbed a chestnut\nonce,{07 16 00}{01 00 00 0a 00} but its sharp spines\nscraped my head.\n{07 00 00}Another time I tried to\nbash a walnut with a mallet,\n{07 02 00}{01 00 00 0a 00}but I hit my foot instead!\n{07 0a 00}That's why I love acorns!{01 00 00 0a 00}\n'Cause they're painless,\nsmooth, and round!\nThat's right, I love acorns!{01 00 00 0a 00}\nAnd they abound when I'm\naround!{00 01 00}\n{07 00 00}Allow me to introduce\nmyself! {01 00 00 0f 00}I am the mysterious\n{ff 00 00 06}Cornimer{ff 00 00 00}! {01 01 00}{07 02 00}Ooh!{01 00 00 0f 00} MEEST{01 00 00 0a 00}EE{01 00 00 0a 00}RIOUS!\n{07 00 00}For the next week,{01 00 00 0a 00} I'll be\nusing my special powers to\nscatter acorns around town.\n{07 19 00}Much like the tooth fairy{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{07 0e 00}\nbut in reverse, {01 00 00 0a 00}with acorns,\nnot teeth,{01 00 00 05 00} and no tiara!\n{07 00 00}If you find an acorn, {07 14 00}{01 00 00 0a 00}bring\nit to me.{01 00 00 0f 00} In fact, bring\nthem all!\n{07 00 00}If you bring me enough,{07 19 00}{01 00 00 0a 00}\nmaybe I'll reward you with a\nnice prize! {01 00 00 14 00}{07 03 00}Heh heh HOORF!",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 15 00}I'm not normally in the\nstrong-arming business,\nsprout--{01 00 00 05 00}I mean, li'l oakie.\n{07 01 00}But{01 00 00 05 00} don't you dare \nbring me a {ff 00 00 07}rotten acorn{ff 00 00 00}.\n\nGive me one of those, and\nthere's no telling what\nI might be driven to do!\n{07 00 00}Yes, {04 00 00}{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 14 00} {07 11 00}YOU\nHAVE BEEN WARNED!",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 00 00}I wish you well in your\nacorn-hunting for today!{01 00 00 0a 00}\nBring them all to me!\n{07 01 00}Don't make me shake you\ndown later!{01 01 00} {07 03 00}Oh, I jest! I\njest! {01 00 00 0a 00}Heh heh heh horf!\n{07 15 00}However, {01 00 00 05 00}that doesn't mean\nyou can bring me just any \nacorn{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.\n{07 00 00}Bring me one of THOSE,\n{07 01 00}and I won't be held\naccountable for my actions!",
+   "et": ""
+  },
+  {
+   "id": 3,
+   "en": "{07 14 00}{01 00 00 0a 00}Look at you, li'l oakie!{01 00 00 05 00}\nYou're just nuts for nuts!{01 00 00 0a 00}{07 0e 00}\nIf.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}acorns ARE nuts.",
+   "et": ""
+  },
+  {
+   "id": 4,
+   "en": "{07 00 00}Yes, li'l oakie{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}. I'm gonna\nneed about{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.a thousand\nmore acorns{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 03 00}Heh heh hoorf! {01 00 00 0a 00}I jest!{01 00 00 0a 00} I\nneed only {ff 00 00 02}{04 10 00} {ff 00 00 00}more! {01 00 00 0a 00}I'll give\nyou something good!",
+   "et": ""
+  },
+  {
+   "id": 5,
+   "en": "{07 00 00}Well, {01 00 00 05 00}let's see how many\nacorns you've brought me{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{01 02 00}The total is {ff 00 00 02}{01 02 00}{07 14 00}{01 00 00 05 00}{04 11 00}{ff 00 00 00}!{01 03 00}\nAnd of course, I may have\nthem all?{02 04 00 00 06}\nYeah, sure.\nNo way!",
+   "et": ""
+  },
+  {
+   "id": 6,
+   "en": "{07 09 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}Bit chilly today, isn't it!\n{01 00 00 14 00}Or maybe it's just my age.",
+   "et": ""
+  },
+  {
+   "id": 7,
+   "en": "{07 03 00}{01 08 00}Heh heh horf! {01 00 00 05 00}Hee hee HACK!\n{01 00 00 0a 00}Well, you are certainly\na promising youngster!{07 14 00}",
+   "et": ""
+  },
+  {
+   "id": 8,
+   "en": "{07 0a 00}{00 01 00}Just call me {ff 00 00 06}Cornimer{ff 00 00 00} the\nMysterious! {01 00 00 0a 00}Grab acorns 'til\nyou're delirious!{00 01 00} {01 01 00}{07 03 00}Heh heh!",
+   "et": ""
+  },
+  {
+   "id": 9,
+   "en": "{07 00 00}Ah, that's all of them then.\n{01 00 00 0f 00}{07 14 00}The Great {ff 00 00 06}Cornimer {ff 00 00 00}is\npleased, li'l oakie!",
+   "et": ""
+  },
+  {
+   "id": 10,
+   "en": "{07 00 00}The number of acorns you've\ngiven me is {ff 00 00 02}{07 14 00}{01 00 00 0a 00}{04 0f 00}{ff 00 00 00}!\n\n{01 00 00 0f 00}{07 01 00}But the Great {ff 00 00 06}Cornimer\n{ff 00 00 00}hungers for more!{01 01 00} {07 05 00}{01 08 00}MORE, I\nSAY!",
+   "et": ""
+  },
+  {
+   "id": 11,
+   "en": "{07 14 00}{01 00 00 0a 00}Yeppers, looks like it's time\nfor your prize.{01 01 00} How 'bout\n{04 1a 00}?",
+   "et": ""
+  },
+  {
+   "id": 13,
+   "en": "{07 00 00}Oh, and just for good\nmeasure.{01 00 00 05 00}.{01 00 00 05 00}.{01 01 00} {01 02 00}{07 14 00}{01 00 00 0a 00}How 'bout\n{04 1a 00}?!{01 03 00}",
+   "et": ""
+  },
+  {
+   "id": 14,
+   "en": "{07 03 00}{01 00 00 0a 00}Heh heh hoorf!{01 00 00 05 00} HORF HORF\nHORF!{01 00 00 0f 00} Are you happy, {01 00 00 05 00}li'l\noakie?{07 14 00}{01 00 00 0f 00} Take care of it!\nAnd remember, li'l oakie.{01 00 00 05 00}.{01 00 00 05 00}.{07 19 00}{01 00 00 0a 00}\nThe great and mighty\n{ff 00 00 06}Cornimer{ff 00 00 00} is always watching!",
+   "et": ""
+  },
+  {
+   "id": 15,
+   "en": "{07 14 00}I have something quite nice\nfor you! {01 01 00}{07 01 00}But I need MORE\nACORNS! {01 00 00 0f 00}{ff 00 00 02}{04 10 00} {ff 00 00 00}more! {01 00 00 05 00}Get it?!\n.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 03 00}{01 00 00 0a 00}Wah hah hah hah!\nWah hee hee hee! {01 00 00 0a 00}{01 08 00}HORF\nHORF HORF HOOOOOOORF!",
+   "et": ""
+  },
+  {
+   "id": 16,
+   "en": "{07 11 00}{01 08 00}The Great {ff 00 00 06}Cornimer{ff 00 00 00} has the\npower to reveal the secrets\nof the cosmos! {01 01 00}{07 0b 00}How?\n{07 0e 00}By using, {01 00 00 05 00}er{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{07 1d 00}acorns!{01 01 00}{07 14 00} Would\nli'l oakie like {ff 00 00 06}Cornimer{ff 00 00 00} to\n{ff 00 00 02}divine the future{ff 00 00 00}?{02 04 00 00 11}\nDo it!\nYou're creepy!",
+   "et": ""
+  },
+  {
+   "id": 17,
+   "en": "{07 09 00}Oh, my.{01 00 00 05 00} I just don't\nunderstand youngsters\nthese days{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.",
+   "et": ""
+  },
+  {
+   "id": 18,
+   "en": "{07 00 00}Well,{01 00 00 05 00} I need you to arrange\nyour letters first, li'l\noakie! {07 16 00}{01 00 00 0a 00}Otherwise{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 01 00}The Great {ff 00 00 06}Cornimer {ff 00 00 00}can't\nsend you the results of\nyour {ff 00 00 02}fortune{ff 00 00 00}!",
+   "et": ""
+  },
+  {
+   "id": 19,
+   "en": "{07 00 00}{01 00 00 0a 00}Yes{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.now, let's see{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}. {07 15 00}First,\nyou grip the acorn tightly,\nas if it held your soul{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 13 00}The cool acorn digs into\nthe flesh of your hand,{01 00 00 05 00}\nleaving an indelible mark{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\nAnd in that fleeting\nmoment,{07 14 00}{01 00 00 0a 00} you can see into\nlimitless space and time.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\nHere we go.",
+   "et": ""
+  },
+  {
+   "id": 20,
+   "en": "{07 21 00}It's becoming clear...\n{01 00 00 05 00}Wee-oh,{01 00 00 05 00} wee-oh,{01 00 00 05 00} wee-oh,{01 00 00 05 00}\nwee-ooh,{01 00 00 05 00} WAAAAH!{01 00 00 14 00}{01 08 00} ACORNIO!",
+   "et": ""
+  },
+  {
+   "id": 21,
+   "en": "{07 00 00}This parchment will reveal\nthe mysteries of your\nfuture!\nIt holds the true fate of\n{04 00 00}, {07 19 00}{01 00 00 0a 00}written in fine\ndetail. {01 01 00}{07 1b 00}{01 00 00 0a 00}At least, I think so.\nBut {01 00 00 05 00}perhaps not{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}. Who can\nTRULY understand the\nmysteries of an acorn?\n{07 14 00}{01 00 00 0a 00}What I mean,{01 00 00 0a 00} li'l oakie, is\nread it with a grain of\nsalt. {01 00 00 0a 00}Or a clove of garlic.\nI don't know. Whichever you\nprefer.",
+   "et": ""
+  },
+  {
+   "id": 22,
+   "en": "{07 14 00}{01 00 00 0a 00}And that brings\n{04 00 00}'s acorn count\nto{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}. {07 00 00}I can't count them all!\n{07 16 00}On top of that,{01 00 00 05 00} I've run out\nof items to give you{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}. Bad\nday for li'l oakie!\nThere's just one thing{01 00 00 14 00}\nthat I need to ask of\nyou{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.",
+   "et": ""
+  },
+  {
+   "id": 23,
+   "en": "{07 19 00}I hope you'll continue to\nhelp me collect{01 00 00 05 00} the acorns\nI've scattered.{07 00 00}\nRemember, {04 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.{07 19 00}{01 00 00 0a 00}{01 08 00}\nThe great and mighty\n{ff 00 00 06}Cornimer{ff 00 00 00} is always watching!",
+   "et": ""
+  },
+  {
+   "id": 24,
+   "en": "Let's see{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}{01 00 00 05 00} {07 02 00}{01 08 00}WHAAAAAAAAAT?!{01 01 00}\n{07 09 00}Were you{01 00 00 05 00} even listening\nto what I said to you?!\n{07 05 00}After I told you {01 00 00 05 00}in so many\nwords{01 00 00 05 00} NOT to bring me any\n{ff 00 00 07}ROTTEN ACORNS{ff 00 00 00}!\n{07 15 00}AACK!{01 00 00 14 00} How dare you treat\nthe Great {ff 00 00 06}Cornimer{ff 00 00 00} like he's\nsome kind of fool{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.\nAs your punishment,{01 00 00 05 00} I shall\nclaim{01 00 00 03 00} all the acorns you\nbrought{01 00 00 14 00} {07 02 00}as my own!!!\n{07 03 00}{01 08 00}Heh heh HOOORF!{01 00 00 14 00} Now you\nknow, {04 00 00}!{01 00 00 14 00} NEVER\ncross the Great {ff 00 00 06}Cornimer{ff 00 00 00}!\n{07 00 00}Ah, well. {01 00 00 0a 00}Just use your\nfrustration{01 00 00 05 00} {07 11 00}to gather MORE\nACORNS!!!",
+   "et": ""
+  },
+  {
+   "id": 25,
+   "en": "What's this{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00} {01 00 00 05 00}{07 02 00}WHAAAAAAAT?!\n\n\n{07 09 00}Were you{01 00 00 05 00} even listening\nto what I said to you?!\n\n{07 05 00}After I told you {01 00 00 05 00}in so many\nwords{01 00 00 05 00} to NOT bring me any\n{ff 00 00 07}ROTTEN ACORNS{ff 00 00 00}!\n{07 15 00}AACK!{01 00 00 14 00} How dare you treat\nthe Great {ff 00 00 06}Cornimer{ff 00 00 00} like\nhe's the village idiot{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.\n{07 02 00}As punishment,{01 00 00 05 00} I shall claim{01 00 00 05 00}\nall of these {ff 00 00 07}rotten acorns{ff 00 00 00}{01 00 00 05 00}\nas my own!!!\n{07 03 00}{01 08 00}A heh heh heh HOORF!{01 00 00 14 00}\nThat'll learn ya, {01 00 00 05 00}li'l oakie.\n\n{07 00 00}Take that frustration, and{01 00 00 05 00}\n{07 11 00}use it to find me more\nacorns!!!",
+   "et": ""
+  }
+ ]
+}

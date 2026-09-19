@@ -1,0 +1,20 @@
+{
+ "file": "script/ENG/message/ta/q06/req_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 04 00}{01 00 00 05 00}Hey, {04 1f 00}.{01 00 00 0a 00} {07 16 00}Would you\ndo me a tiny little favor?\n\n{07 0b 00}{01 00 00 05 00}Would you deliver a package{01 00 00 05 00}\nto{ff 00 00 06} {04 10 00}{ff 00 00 00} for me?",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 16 00}Well then, maybe I can ask \n{04 1f 00} to help me{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00}{07 00 00}\n\n{07 14 00}Say, {01 00 00 05 00}aren't you friends with\n{ff 00 00 06}{04 10 00}{ff 00 00 00}?\n\n{07 16 00}Well, I've got this package \nthat I need to get to\n{ff 00 00 06}{04 10 00}{ff 00 00 00}, {01 00 00 0a 00}{04 02 00}.",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 0e 00}Uh{01 00 00 0a 00}.{01 00 00 0a 00}.{01 00 00 0a 00}.{01 00 00 14 00} {07 0c 00}{01 00 00 0a 00}There's actually{01 00 00 0a 00} this\nfavor that I've been\nmeaning to ask of you.\n{07 16 00}It's a delivery{01 00 00 05 00} for\n{ff 00 00 06}{04 10 00}{ff 00 00 00}, actually,\n{01 00 00 0a 00}{04 02 00}. ",
+   "et": ""
+  }
+ ]
+}

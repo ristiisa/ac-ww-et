@@ -1,0 +1,20 @@
+{
+ "file": "script/ENG/message/ge/q06/req_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 04 00}Ooops!{01 00 00 05 00} Oh, SHOOOOOOT!{01 00 00 14 00}\n{07 16 00}While I was over at\n{ff 00 00 06}{04 10 00}{ff 00 00 00}'s...\n{07 06 00}I forgot to drop off this\npresent, {01 00 00 05 00}{04 02 00}! {01 00 00 05 00}Why\nam I such a SPACE CADET?!\n{07 00 00}Hey, but you're here now!{01 00 00 14 00}\n{07 0b 00}Could you do me a favor\nand deliver this for me?",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 00 00}I have something I wanna\ndeliver to {ff 00 00 06}{04 10 00}{ff 00 00 00}...\n\n{07 16 00}Problem is, the mail will\nget it there too slow{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 01 00}\n{07 0c 00}Oh, yeah!\n{07 06 00}{0b 03 00}{04 1f 00}!{01 00 00 0a 00} Would you\ndeliver this to {ff 00 00 06}{04 10 00}\n{ff 00 00 00}for me, pretty please?",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 0e 00}{0b 03 00}{04 1f 00}, {01 00 00 05 00}I have a HUGE\nfavor to ask{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n\n{07 0b 00}Would you deliver this to\n{ff 00 00 06}{04 10 00}{ff 00 00 00}, {04 02 00}?{01 00 00 05 00}\nPlease?",
+   "et": ""
+  }
+ ]
+}

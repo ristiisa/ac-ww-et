@@ -1,0 +1,105 @@
+{
+ "file": "script/ENG/message/fu/ev/snowfes_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 14 00}This is the week of the\n{ff 00 00 03}Bright Nights {ff 00 00 00}celebration,\n{04 1f 00}.",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 14 00}It's cold out, but I like it.\nThe cold makes everything\nfeel crisp and clean.",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 14 00}I feel so wonderful.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} Maybe\nit's the snow. {01 00 00 0a 00}{07 0e 00}Or maybe I'm\ndelirious from the cold.",
+   "et": ""
+  },
+  {
+   "id": 3,
+   "en": "{07 00 00}Heya, {04 1f 00}!{01 00 00 0a 00} Today's\nthe start of {ff 00 00 03}Bright Nights{ff 00 00 00},\n{01 00 00 05 00}{04 02 00}!\nI worked my hinder off to\nget my decorations up, so I\nreally hope my house wins.",
+   "et": ""
+  },
+  {
+   "id": 4,
+   "en": "{07 00 00}Have you seen all the lights\non my house? I just\nfinished decorating.\n{07 14 00}What with {ff 00 00 03}Bright Nights{ff 00 00 00}\nstarting today, I had to be\nsure my house looked good!",
+   "et": ""
+  },
+  {
+   "id": 5,
+   "en": "{07 00 00}So, had a chance to check\nout my decorations this\nyear, {01 00 00 05 00}{04 02 00}?\nIf you liked my house, {07 0b 00}\nwould you go let {ff 00 00 06}Tortimer\n{ff 00 00 00}know? I'd appreciate it.",
+   "et": ""
+  },
+  {
+   "id": 6,
+   "en": "{07 00 00}So, tell me honestly,\n{04 1f 00}, what do you\nthink of my decorations?\nNo, wait! Better yet, don't\ntell me!{01 00 00 05 00} Tell {ff 00 00 06}Tortimer{ff 00 00 00}!\n\n{07 14 00}I think he'd like to know\njust how fabulous my house\nlooks!",
+   "et": ""
+  },
+  {
+   "id": 7,
+   "en": "{07 00 00}Have you seen my house? I\nspent a lot of time putting\nup those decorations{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 16 00}You don't think it's too\nmuch, do you?{01 00 00 05 00} I don't want\nto be THAT person...\n{07 06 00}You know, the one with the\nsuper gaudy lights everyone\nsecretly laughs at?",
+   "et": ""
+  },
+  {
+   "id": 8,
+   "en": "{07 00 00}Oh, heya, {04 1f 00}.{01 00 00 0a 00} So,\nhave you heard who won\nthe {ff 00 00 03}Bright Nights{ff 00 00 00} award?\n{07 16 00}Well, if you couldn't guess,\nit wasn't me. AGAIN. For,\nlike, the hundredth time!\n{07 0f 00}I guess it was just too\nmuch. I thought it looked\npretty, but I guess not.\n{07 00 00}{ff 00 00 06}{04 0f 00}{ff 00 00 00} was declared\nthe {ff 00 00 02}Bright Star{ff 00 00 00} for that\nhalfhearted effort.\n{07 06 00}I mean, look at it! It's so...\nnothing! If you're going to\ndecorate, go all the way!\n{07 16 00}Don't just toss a few lights\nup there!{01 01 00} {07 06 00}What's festive\nabout that, {01 00 00 05 00}{04 02 00}?!",
+   "et": ""
+  },
+  {
+   "id": 9,
+   "en": "{07 16 00}Didn't you like the lights I\nput up around my house?\nDidn't you tell {ff 00 00 06}Tortimer{ff 00 00 00}?\n{07 0f 00}Because {ff 00 00 06}{04 0f 00}{ff 00 00 00} won!\nAnd I thought I had a good\nchance this year!\n{07 16 00}I'm just sad that I lost.\n\n\n{07 00 00}I mean, {ff 00 00 06}{04 0f 00}{ff 00 00 00} did do\na great job decorating, so\nI shouldn't complain.\n{07 1a 00}In fact, I really should be\nbig about this and go\ncongratulate {ff 00 00 06}{04 0f 00}{ff 00 00 00}.",
+   "et": ""
+  },
+  {
+   "id": 10,
+   "en": "{07 16 00}I have some sad news.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} I'm\nnot even sure how to tell\nyou this, {04 02 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n{07 00 00}I guess I should just come\nout and say it. {01 00 00 0f 00}{07 0f 00}I didn't\nmake the cut!\n{07 00 00}I lost the Bright Star title\nto {ff 00 00 06}{04 0f 00}{ff 00 00 00}.{01 01 00}\n{07 08 00}I'm so jealous, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 11,
+   "en": "{07 0d 00}I can't believe it! This is\nthe best {ff 00 00 03}Bright Nights{ff 00 00 00}\never, {01 00 00 05 00}{04 1f 00}!\n{07 14 00}That's right! You're looking\nat this year's winner for\nstellar house decoration!\n{07 0d 00}That makes me the {ff 00 00 02}Bright\nStar{ff 00 00 00}! {01 00 00 05 00}And that makes the\nrest of you losers! Ha!",
+   "et": ""
+  },
+  {
+   "id": 12,
+   "en": "{07 00 00}I did do a nice job with my\nlighting this year, don't\nyou think, {01 00 00 05 00}{04 02 00}?\n{07 14 00}It just goes to show what\ncan happen if you put your\nheart into it.\n{07 0d 00}I feel like I can take on\nthe world right now!",
+   "et": ""
+  },
+  {
+   "id": 13,
+   "en": "{07 00 00}So tell me, what did you\nlike best about my {ff 00 00 03}Bright\nNights{ff 00 00 00} lights this year?\n{07 14 00}Tee hee.{01 00 00 05 00} I'm just kidding. I\nknow you loved everything\nabout it, {01 00 00 05 00}{04 02 00}!\n{07 00 00}After all, weren't you the\none who told {ff 00 00 06}Tortimer{ff 00 00 00} how\ngreat my house looked?",
+   "et": ""
+  },
+  {
+   "id": 14,
+   "en": "{07 14 00}I'm so glad that you liked\nmy lights, {04 1f 00}!\nI worked hard on them.\n{07 00 00}Once {ff 00 00 03}Bright Nights{ff 00 00 00} is over,\nall the decorations will\ncome down, {01 00 00 05 00}{04 02 00}.\n{07 14 00}But I'll always have the\nmemory of how special\nthis year was!",
+   "et": ""
+  },
+  {
+   "id": 15,
+   "en": "{07 00 00}So tell me the truth...\nWere {ff 00 00 06}{04 10 00}{ff 00 00 00}'s really\nthat good, {01 00 00 05 00}{04 02 00}?\n{07 16 00}I'm just curious! I swear\nI'm not going to rip off\n{ff 00 00 06}{04 10 00}{ff 00 00 00}'s design!",
+   "et": ""
+  },
+  {
+   "id": 16,
+   "en": "{07 00 00}So, what, you're telling me\nyou prefer something like\nwhat {ff 00 00 06}{04 10 00}{ff 00 00 00} put up?\n{07 0e 00}Because, seriously, that\nplace was about as festive\nas a tombstone.\n{07 14 00}But that does tell me what\nsort of thing you're looking\nfor in your holiday decor!",
+   "et": ""
+  },
+  {
+   "id": 17,
+   "en": "{07 00 00}Honestly, I've never seen\n{ff 00 00 06}{04 10 00}{ff 00 00 00} put that much\neffort into ANYTHING.\nBut I guess it paid off. I\nmean, my house sure didn't\nwin anything this year.\n{07 16 00}I guess I'll just have to\nadd even more lights next\nyear, {01 00 00 05 00}{04 02 00}.",
+   "et": ""
+  },
+  {
+   "id": 18,
+   "en": "{07 14 00}Well, this is it... The last\nday of {ff 00 00 03}Bright Nights{ff 00 00 00}.\n\n{07 0d 00}I can't wait to find out\nwhose house will win the\n{ff 00 00 02}Bright Star{ff 00 00 00} this year!",
+   "et": ""
+  },
+  {
+   "id": 19,
+   "en": "{07 19 00}I can't pick a favorite\nhouse{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} There are so many\ngood ones this year!\n{07 14 00}I mean, you can really tell\nthat everyone put their all\ninto it, {01 00 00 05 00}{04 02 00}.",
+   "et": ""
+  }
+ ]
+}

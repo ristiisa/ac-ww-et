@@ -1,0 +1,30 @@
+{
+ "file": "script/ENG/message/ha/ai/anger_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 05 00}I'm so angry, my muscles\nare gonna pop off my dang\nbody, {01 00 00 05 00}{04 02 00}!{03 02 00 01}",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 05 00}No way! No way! No way!{01 00 00 0f 00}\nI'm so angry, I'm gonna\nexplode! YAAAARGH!{03 02 00 01}",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 05 00}No, {01 00 00 05 00}I can't take it!{01 00 00 0a 00}\nGimme a stupid break!\n{01 00 00 05 00}{0b 03 00}{04 02 00}!{03 02 00 01}",
+   "et": ""
+  },
+  {
+   "id": 3,
+   "en": "{07 01 00}AAAARGH, {01 00 00 05 00}NOOOOOOO!{01 00 00 05 00}\nI can't do this anymore!\n{01 00 00 05 00}{0b 03 00}{04 02 00}!{03 02 00 01}",
+   "et": ""
+  },
+  {
+   "id": 4,
+   "en": "{07 01 00}Shut your yap, talkie!{01 00 00 0a 00}\nMake like a tree and leave,\n{01 00 00 05 00}{04 02 00}!{03 02 00 01}",
+   "et": ""
+  }
+ ]
+}

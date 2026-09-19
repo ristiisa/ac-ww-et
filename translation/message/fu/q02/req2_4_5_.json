@@ -1,0 +1,20 @@
+{
+ "file": "script/ENG/message/fu/q02/req2_4_5_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 00 00}This might seem a bit\nsudden, {04 1f 00}, but\nI've got a question...\nHave you heard of the\n{0b 02 00}{04 1a 00}?{01 00 00 05 00}\nBecause I need one. {01 00 00 05 00}Badly.\nAnd I'm thinking the only\nway I can get motivated is\nwith a little challenge.\nSo here's the deal. Want\nto see if you can catch\none {07 0b 00}before me?",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 00 00}This is the perfect season\nfor catching a TON of\n{0b 02 00}{04 1a 00}.\nIf you can't catch one,\nwhy, {07 14 00}you can hardly call\nyourself a real fisher!\n{07 00 00}Let's test your dedication,\n{04 1f 00}! Let's see who\ncan catch one first!",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 00 00}People are always saying\nfish is supposed to be a\nbrain food, {01 00 00 05 00}{04 02 00}.\n{07 0e 00}Does that go for all fish?{01 00 00 05 00}\nLike, would it work if I ate\n{07 0b 00}{04 1a 00}?\n{07 00 00}I feel like I ought to stock\nup on them. You know, {07 11 00}for\nwhen I'm having a down day.\n{07 0c 00}I've got an idea!{01 00 00 0f 00}{07 00 00} If you\nand I both try to catch\nthem, I'll double my stock!\n{07 14 00}Let's make a contest out\nof it, {04 1f 00}. {01 00 00 05 00}I'll bet\nI can catch one before you!",
+   "et": ""
+  }
+ ]
+}

@@ -1,0 +1,30 @@
+{
+ "file": "script/ENG/message/bo/ai/sad_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 0f 00}{01 00 00 14 00}Sigh{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00} It's so depressing, I\nreally don't want to talk\nabout it tonight.",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 0f 00}{01 00 00 14 00}{0b 03 00}{04 02 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 14 00}{07 16 00} I'm begging\nyou to just stay away.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\nSee, sadness is contagious.\n{07 08 00}If you get too close to me,{01 00 00 0a 00}\nyou'll catch it! And that\nwould be.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}a real downer.",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 0f 00}{01 00 00 14 00}Everything just stinks{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 14 00}\nSorry. {01 00 00 0a 00}I get really sad when\nI'm hungry, {01 00 00 0a 00}{04 02 00}.",
+   "et": ""
+  },
+  {
+   "id": 3,
+   "en": "{07 0f 00}{01 00 00 05 00}I'm sorry, {04 00 00},{01 00 00 0a 00} but\nseeing you right now isn't\ncheering me up at all.",
+   "et": ""
+  },
+  {
+   "id": 4,
+   "en": "{ff 00 00 04}{07 04 00}{01 00 00 0a 00}Phewww{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 01 00}{ff 00 00 00}\n{07 0f 00}{01 00 00 14 00}It's{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}too{01 00 00 14 00} heartbreaking!\nAnd I'm just starving{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00}\n{07 08 00}I just can't even talk about\nwhat happened right now,{01 00 00 0a 00}\n{04 02 00}!",
+   "et": ""
+  }
+ ]
+}

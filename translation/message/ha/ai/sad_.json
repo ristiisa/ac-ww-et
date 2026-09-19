@@ -1,0 +1,30 @@
+{
+ "file": "script/ENG/message/ha/ai/sad_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 0f 00}I just can't bring myself to\ntalk to anyone right now{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\nUgh, {01 00 00 05 00}{04 02 00}.{03 03 00 01}",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 0f 00}Blugh.{01 00 00 0f 00} I feel like I ate\nsomething really bad{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{03 03 00 01}",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 0f 00}I'm so bummed,{01 00 00 05 00} I feel like\nmy muscles are drooping,{01 00 00 05 00}\n{04 02 00}...{03 03 00 01}",
+   "et": ""
+  },
+  {
+   "id": 3,
+   "en": "{07 0f 00}Hrmph.{01 00 00 0f 00} I can't believe I\nhave any tears left{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n{04 02 00}.{03 03 00 01}",
+   "et": ""
+  },
+  {
+   "id": 4,
+   "en": "{07 0f 00}I don't know why...but I'm{01 00 00 05 00}\nso blue.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{04 02 00}.\nMaybe I need more vitamins.{03 03 00 01}",
+   "et": ""
+  }
+ ]
+}

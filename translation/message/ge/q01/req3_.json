@@ -1,0 +1,20 @@
+{
+ "file": "script/ENG/message/ge/q01/req3_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 00 00}{0b 03 00}{04 1f 00},{01 00 00 05 00} you seem so\nconfident in your bug-\ncatching abilities.\n{07 15 00}BRAGGER! Maybe we should\nsee how good you REALLY\nare, {01 00 00 05 00}{04 02 00}!\nThe rule is, {01 00 00 05 00}{07 0e 00}let's see{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{07 00 00}{07 0c 00}{01 01 00}\nWhoever finds the rarest\nbug wins!{01 00 00 05 00} How's that?",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 11 00}{0b 03 00}{04 1f 00},{01 00 00 05 00} I heard a\nTOTALLY juicy rumor about\nyou, {01 00 00 05 00}{04 02 00}!\n{07 14 00}You recently became{01 00 00 03 00} famous\nfor your bug-catching\nskills! \n{07 15 00}...DON'T LIE!{01 00 00 0f 00} {07 00 00}{07 14 00}Anyway, I'm\ngonna be the queen of bugs,\nso you're my rival now!\n{07 0d 00}Let's battle to see who can\nfind the rarest bug!{01 00 00 05 00} Yaaay,\ncompetition!",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 02 00}WOW! {01 00 00 14 00}{07 06 00}You,{01 00 00 05 00} like,{01 00 00 05 00} NEVER sleep,\ndo you, {04 1f 00}!{01 00 00 14 00} It's\ntotally CRAZY!\n{07 0b 00}Hey, since you're up, why\ndon't we see who can catch\nthe rarest bug!\n{07 0d 00}Mine's gonna be so rare,\nyou won't sleep for a WEEK!",
+   "et": ""
+  }
+ ]
+}

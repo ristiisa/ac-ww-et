@@ -1,0 +1,185 @@
+{
+ "file": "script/ENG/message/ha/3p/ge_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{09 01 00}{09 08 00}{07 14 00}Yo, {ff 00 00 06}{04 10 00}{ff 00 00 00}!{01 00 00 05 00} How's your\nworkout routine, uh,{01 00 00 05 00} workin'\nout for you, {01 00 00 05 00}{04 02 00}?{09 09 00}",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{09 01 00}{09 08 00}{07 00 00}Man, going to the dentist\ngets me so FIRED UP!{01 00 00 05 00}{09 09 00}",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{06 00 00 18 1e}",
+   "et": ""
+  },
+  {
+   "id": 3,
+   "en": "{09 00 00}{09 08 00}{09 02 00}{07 16 00}I'm doing sit-ups every\nmorning, {01 00 00 05 00}but{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 1c 00}I'm not\ngetting any results!{09 09 00}",
+   "et": ""
+  },
+  {
+   "id": 4,
+   "en": "{07 16 00}{09 00 00}{09 06 00}{09 01 00}{07 01 00}You can't just do normal\nsit-ups! You're doin' it all\nwrong, {01 00 00 05 00}{04 02 00}!\nIt's all about doing rump-\nburners and ab-squeezers!{09 09 00}",
+   "et": ""
+  },
+  {
+   "id": 5,
+   "en": "{07 15 00}{09 00 00}{09 08 00}{09 02 00}{07 0c 00}Oh! I didn't know that!{01 01 00}\n{07 14 00}So how do I do those,\n{04 02 00}?!{09 09 00}\n{06 01 00 06 08 0c}",
+   "et": ""
+  },
+  {
+   "id": 6,
+   "en": "{09 00 00}{09 06 00}{09 01 00}{07 04 00}WHOA, WHOA, WHOA!{01 00 00 0a 00}\n{07 06 00}You're askin' me to do 'em\nhere, out in the open?!{09 09 00}",
+   "et": ""
+  },
+  {
+   "id": 7,
+   "en": "{07 16 00}{09 00 00}{09 08 00}{09 02 00}{07 15 00}HEY!!!{01 00 00 0a 00} Did you really think a\ngirl like me would do those\nsit-ups in public?!\n{07 01 00}That's so embarrassing,\n{ff 00 00 06}{04 0f 00}{ff 00 00 00}! Ewwwwwww,\n{01 00 00 05 00}{04 02 00}!{03 02 00 01}",
+   "et": ""
+  },
+  {
+   "id": 8,
+   "en": "{09 00 00}{09 06 00}{09 01 00}{07 0e 00}Wait, {01 00 00 0a 00}does this start in\nthe E position? Or was it\nthe X position?\nOr maybe the W position{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 16 00}{09 09 00}",
+   "et": ""
+  },
+  {
+   "id": 9,
+   "en": "{09 00 00}{09 08 00}{09 02 00}{07 1b 00}Uhhh{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}yeah. I don't think\nI'm gonna do any of that, \n{01 00 00 05 00}{04 02 00}.{09 09 00}",
+   "et": ""
+  },
+  {
+   "id": 10,
+   "en": "{09 00 00}{09 06 00}{09 01 00}{07 06 00}HEY!{01 00 00 0a 00} I'm trying to remember!\nI know it had to do with\nthe alphabet!{03 03 00 01}",
+   "et": ""
+  },
+  {
+   "id": 12,
+   "en": "{09 00 00}{09 06 00}{09 01 00}{07 0e 00}Well, {01 00 00 05 00}you pretty much have\nto raise your rump off the\nground, and{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{09 09 00}",
+   "et": ""
+  },
+  {
+   "id": 13,
+   "en": "{09 00 00}{09 08 00}{09 02 00}{07 02 00}EEEEEEK! {01 00 00 05 00}No WAY!{01 00 00 14 00}\n{07 06 00}I am NOT doing that in\npublic, {01 00 00 05 00}{04 02 00}!{09 09 00}",
+   "et": ""
+  },
+  {
+   "id": 14,
+   "en": "{07 16 00}{09 00 00}{09 06 00}{09 01 00}{07 04 00}What?! Yeah, it's a little\nembarrassing!\n\nBut you gotta take one for\nthe team if you wanna get\nHUGE!{09 09 00}",
+   "et": ""
+  },
+  {
+   "id": 15,
+   "en": "{09 00 00}{09 08 00}{09 02 00}{07 07 00}EWWWWW! {01 00 00 05 00}I'm not doing that\nin public! And neither\nshould you!\nOMIGOSH, I just imagined you\ndoing those sit-ups,{01 00 00 05 00} and I\ncan't stop seeing it!\n{07 05 00}It burns, {01 00 00 05 00}{04 02 00}!{03 02 00 01}",
+   "et": ""
+  },
+  {
+   "id": 16,
+   "en": "{07 00 00}{09 00 00}{09 08 00}{09 02 00}{07 04 00}What?! I know you're all\nextreme, but{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}the dentist?\n\nI always get freaked out\nwhen I go to the dentist!\n\n{07 00 00}{09 03 00}Hey, {01 00 00 05 00}{04 1f 00}!{09 04 00}{07 0b 00}{09 01 00}{09 04 00}\n{09 02 00}Do you get scared too?{02 00 00 11 14}\nTotally!\nIt's nothin'.",
+   "et": ""
+  },
+  {
+   "id": 17,
+   "en": "{07 14 00}We're SO totally alike,{01 00 00 0a 00}\n{07 0d 00}{04 1f 00}! That's why\nwe're good friends!{09 09 00}",
+   "et": ""
+  },
+  {
+   "id": 18,
+   "en": "{07 00 00}{09 05 00}{09 01 00}{07 03 00}HA! {09 00 00}{09 06 00}{09 01 00}Dude, it's not so bad!{01 00 00 0a 00}\nYou just have to pretend\nlike you're benching!\n{07 0d 00}Then when it hurts, just\nflex as hard as you can,\n{01 00 00 05 00}{04 02 00}!{09 09 00}\nThis one time I got so\nfired up that I ripped the\narmrests off the chair!",
+   "et": ""
+  },
+  {
+   "id": 19,
+   "en": "{07 14 00}{09 02 00}{09 06 00}{07 1d 00}Whoa, {09 00 00}{09 08 00}{09 02 00}{09 05 00}{01 00 00 05 00}wow.{01 01 00} {09 02 00}{ff 00 00 06}{04 0f 00}{ff 00 00 00}, you\nare SUCH a freak!{09 01 00}{03 01 00 01}",
+   "et": ""
+  },
+  {
+   "id": 20,
+   "en": "{09 04 00}{07 04 00}Wow,{01 00 00 0a 00} {04 1f 00}! You're so\nbrave, {01 00 00 05 00}{04 02 00}!{09 09 00}",
+   "et": ""
+  },
+  {
+   "id": 21,
+   "en": "{07 00 00}{09 00 00}{09 06 00}{09 01 00}{09 04 00}{07 14 00}That's my {ff 00 00 05}{01 00 00 05 00}{04 1f 00}{ff 00 00 00}!{01 00 00 0a 00}\n{07 00 00}Going to the dentist is one\nof the best workouts!\n{07 0d 00}Whenever anything hurts,\njust do a couple sets of\nleg lifts, {01 00 00 05 00}{04 02 00}!{09 09 00}",
+   "et": ""
+  },
+  {
+   "id": 22,
+   "en": "{09 00 00}{09 08 00}{09 02 00}{09 06 00}{07 15 00}Leg lifts?{01 00 00 0a 00} In a dentist\nchair? Don't you kick\nthe dentist, {01 00 00 05 00}{04 02 00}?{09 09 00}",
+   "et": ""
+  },
+  {
+   "id": 23,
+   "en": "{09 00 00}{09 06 00}{09 01 00}{09 07 00}{07 04 00}Oh, dude!{01 00 00 0a 00} {07 16 00}That happened\nonce, {04 02 00}.\n\nHe was out cold for a\nwhile, {07 03 00}but he walked it off!{03 01 00 01}",
+   "et": ""
+  },
+  {
+   "id": 24,
+   "en": "{09 01 00}{09 08 00}So, I heard you want to be\n{04 03 00}'s official\ncheerleader.\nWhy don't you show me the\ncheer you've been workin'\non, {04 02 00}!{09 09 00}",
+   "et": ""
+  },
+  {
+   "id": 25,
+   "en": "{09 00 00}{09 08 00}{09 02 00}{07 06 00}Ummmm...OK!{01 00 00 0a 00} It's not done\nyet, so you have to\npromise not to laugh.\nOK, {01 00 00 05 00}{04 02 00}?{09 09 00}",
+   "et": ""
+  },
+  {
+   "id": 26,
+   "en": "{07 16 00}{09 00 00}{09 06 00}{09 01 00}I've been to tons of\nfootball games! {01 00 00 05 00}I'll just\ngive you some pointers.{09 09 00}",
+   "et": ""
+  },
+  {
+   "id": 27,
+   "en": "{09 00 00}{09 08 00}{09 02 00}OK, OK! {01 00 00 05 00}I'll show it to you.\nAhem{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{01 01 00} Ready{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}OK!\n\n{0b 03 00}{04 03 00}, it's the best!\nSo get off your tush n'\njoin the lovefest!{09 09 00}",
+   "et": ""
+  },
+  {
+   "id": 28,
+   "en": "{07 16 00}{09 00 00}{09 06 00}{09 01 00}{07 15 00}No, no, no! Where's your\nspirit? Where's your FLAIR?!\n\nYou're not ready to\nrepresent {04 03 00}!\n\nLet me show you how it's\nREALLY done!\nReady{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} Let's go!\n{07 0a 00}{0b 03 00}{04 03 00}, can't be beat!\nSo get outta your house\nand hit the streets!\nTwo, four, six, eight!\nWhat town is super great?\n{0b 03 00}{04 03 00}! WOOOO!\nEight, six, four, two!\nThat's right, we got\nit better than you!\nHere{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}in{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{04 03 00}!\nWOOOOOOOOOO!!!{09 09 00}",
+   "et": ""
+  },
+  {
+   "id": 29,
+   "en": "{09 00 00}{09 08 00}{09 02 00}{07 09 00}{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.{03 00 00}",
+   "et": ""
+  },
+  {
+   "id": 30,
+   "en": "{09 01 00}{09 08 00}Hey, I heard you were\ntrying out to be a\ncheerleader!\nShow me what you got,\n{01 00 00 05 00}{04 02 00}!{09 09 00}",
+   "et": ""
+  },
+  {
+   "id": 31,
+   "en": "{07 16 00}{09 00 00}{09 08 00}{09 02 00}{07 14 00}Are you sure you want to\nhear my cheer?{01 00 00 05 00}\nI'm still working on it.\nOK, OK! I'll do it,\n{04 02 00}!\nReady...begin!\n{04 03 00}, we got trees!\nAnd people and houses\nand the birds and bees!\nYAAAAAAAAYYYY, {04 03 00}!{09 09 00}",
+   "et": ""
+  },
+  {
+   "id": 32,
+   "en": "{09 00 00}{09 06 00}{09 01 00}No, no, no! You're doin' it\nall wrong, {04 02 00}.\n\nHow do you expect to get\nthe crowd pumped if\nyou're not FIRED UP!\nYou gotta throw your legs\nin the air! I'm talkin' at\nleast a 270-degree angle!{09 09 00}",
+   "et": ""
+  },
+  {
+   "id": 33,
+   "en": "{09 00 00}{09 08 00}{09 02 00}{07 0e 00}Really?{01 00 00 05 00} That sounds kinda\npainful. Is that even\npossible?{09 09 00}",
+   "et": ""
+  },
+  {
+   "id": 34,
+   "en": "{09 00 00}{09 06 00}{09 01 00}{07 15 00}Of course it is! It just\ntakes a few years in the\nweight room.\nAnd where's the smile?\nCheerleaders have got to\nbe hardcore about smiling!\nI wanna see some serious\nTEETH, {04 02 00}!{09 09 00}",
+   "et": ""
+  },
+  {
+   "id": 35,
+   "en": "{09 00 00}{09 08 00}{09 02 00}But smiling for a long time\nstarts to hurt!{09 09 00}",
+   "et": ""
+  },
+  {
+   "id": 36,
+   "en": "{09 00 00}{09 06 00}{09 01 00}Good! That means you're\ndoin' it right!{01 00 00 0f 00}\n\nYou gotta work those face\nmuscles until you feel\nthe BURN!{01 00 00 05 00}{03 01 00 01}{09 02 00}{03 01 00 01}",
+   "et": ""
+  }
+ ]
+}

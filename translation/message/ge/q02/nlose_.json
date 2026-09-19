@@ -1,0 +1,20 @@
+{
+ "file": "script/ENG/message/ge/q02/nlose_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 02 00}You got it already?!{01 00 00 0a 00} Y{01 00 00 03 00}-you\nmean{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} I lose, {01 00 00 05 00}{04 02 00}?{01 00 00 14 00}\n{07 08 00}WAAAAAAAAAAAAAAAH!!!",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 00 00}Whattya mean,{01 00 00 05 00} \"Here ya go\"?{01 00 00 0a 00}\n{07 02 00}You caught it?!{01 00 00 0a 00} ALREADY?!{01 00 00 0f 00}\nThat means you win...\n{07 0f 00}Oh, like, wow.{01 00 00 0a 00} Bummer{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00}\nB-U-M-M-E-R, {04 02 00}.",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 04 00}Oh,{01 00 00 05 00} wow! That was so fast,\n{01 00 00 05 00}{04 02 00}!\n\n{07 06 00}I never expected you to \nbe so speedy!{01 00 00 05 00} NO FAIR!",
+   "et": ""
+  }
+ ]
+}

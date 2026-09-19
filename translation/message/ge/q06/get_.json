@@ -1,0 +1,20 @@
+{
+ "file": "script/ENG/message/ge/q06/get_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 00 00}Hey, AWESOME job!{01 00 00 0a 00} It's from\n{ff 00 00 06}{04 0f 00}{ff 00 00 00}, huh?{01 01 00} I wonder\nwhat's in it!",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 00 00}Oh, {01 00 00 05 00}from {ff 00 00 06}{04 0f 00}{ff 00 00 00}?{01 01 00}\nI wonder if it's that one\nthing...{01 00 00 05 00}{04 02 00}.",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 00 00}From {ff 00 00 06}{04 0f 00}{ff 00 00 00}? {01 00 00 05 00}Cool!{01 00 00 0a 00}\nThat can only mean this\ncontains{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.",
+   "et": ""
+  }
+ ]
+}

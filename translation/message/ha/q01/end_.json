@@ -1,0 +1,15 @@
+{
+ "file": "script/ENG/message/ha/q01/end_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 08 00}Ohhhhhh, {ff 00 00 05}{01 00 00 05 00}{04 1f 00}{ff 00 00 00}!{01 01 00}\n{07 00 00}Let me tell you, I've seen\n'em come and go, but...\n{07 06 00}I've never seen anyone\ncatch bugs like you!{01 00 00 05 00} You're\nthe real deal!\n{07 00 00}From now on, you're gonna\nbe {07 1a 00}the bug emperor to me,\n{01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 08 00}Unbelievable, {ff 00 00 05}{04 1f 00}{ff 00 00 00}!{01 00 00 0a 00}\nYou're so in the zone, it's\ncrazy, {01 00 00 05 00}{04 02 00}!\n{07 00 00}You're like the zen master\nof all things buggy! {01 00 00 03 00}It's\nkinda creepy, actually.\n{07 06 00}So, as of tomorrow, you'll\nbe known as the\nbug-napper, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  }
+ ]
+}

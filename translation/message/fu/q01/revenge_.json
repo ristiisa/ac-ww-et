@@ -1,0 +1,20 @@
+{
+ "file": "script/ENG/message/fu/q01/revenge_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 14 00}Thank you, {04 1f 00}.{01 00 00 0f 00}\nI have to admit, I learned\na lot watching you.",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 00 00}You are truly unrivaled,\n{04 1f 00}.{01 00 00 0f 00} I didn't stand\na chance against you!\n{07 15 00}But you'd better watch your\nback, because I'm coming\nfor you, {04 1f 00}!",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 00 00}I'm impressed. You beat me,\n{04 1f 00},{01 00 00 0f 00} and not by\njust a little, either.\n{07 15 00}But next time, oh, next\ntime! Things will be\ndifferent, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  }
+ ]
+}

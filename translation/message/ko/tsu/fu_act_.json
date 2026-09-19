@@ -1,0 +1,80 @@
+{
+ "file": "script/ENG/message/ko/tsu/fu_act_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 0b 00}So, do you hit up {ff 00 00 06}{01 00 00 05 00}Tom\nNook{ff 00 00 00}'s store every day? {02 00 00 08 09}\nYup!\nNot every day...",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "I didn't get it until I\nstarted collecting\nfurniture myself, but...\n{07 14 00}...in addition to selecting\nfurniture,{01 00 00 05 00} a few pieces of\nart make a difference!{02 00 00 0a 0b}\nOh yeah!\nYa think?",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 15 00}In order to be a real\ncollector of furniture, you{01 00 00 05 00}\ngotta do more than shop.\n{07 14 00}You have to go to various\nfunctions and events,{01 00 00 05 00} and\nget those rare pieces!",
+   "et": ""
+  },
+  {
+   "id": 3,
+   "en": "{07 16 00}{0b 03 00}{04 1f 00},{01 00 00 05 00} listen up! I've\ngot something important to\ntalk to you about!\n{07 14 00}How much do you like\nfurniture, {01 00 00 05 00}{04 02 00}?{05 05 00 05 0c 05 0c 02 0e 04 0d}\nI love it!\nIt's OK.",
+   "et": ""
+  },
+  {
+   "id": 4,
+   "en": "I normally couldn't care\nless about furniture, but I\nhave an idea.\n{07 14 00}How about you and me go\ncheck out what {ff 00 00 06}Nook{ff 00 00 00}'s got\nfor a change, {01 00 00 05 00}{04 02 00}?\n{07 11 00}He might have some rare\nitem, {01 00 00 05 00}{04 02 00}.",
+   "et": ""
+  },
+  {
+   "id": 5,
+   "en": "I can't ignore it any\nlonger.{01 00 00 05 00} I've gotta make my\nplace more livable!\nI've gotta not\n{04 22 00} for a\nlittle while...\n{07 19 00}...and focus on getting the\nright furniture for my pad,\n{01 00 00 05 00}{04 02 00}.",
+   "et": ""
+  },
+  {
+   "id": 6,
+   "en": "{07 16 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}I've gotta tell you\nsomething. I met an alien\nthe other day. {01 00 00 05 00}{0b 03 00}{04 02 00}!\n{07 06 00}He gave me all this rare\nfurniture{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}. {07 19 00}He was{01 00 00 05 00} the\nnicest alien I've met.",
+   "et": ""
+  },
+  {
+   "id": 7,
+   "en": "{07 0b 00}Hey, {01 00 00 05 00}have you gone to see\n{ff 00 00 06}Tom Nook{ff 00 00 00} yet today? Well,\n{01 00 00 05 00}{04 02 00}?\n{07 16 00}He seemed different today.{01 00 00 14 00}\n{07 06 00}There was a swagger{01 00 00 05 00} to his\nstep{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.",
+   "et": ""
+  },
+  {
+   "id": 8,
+   "en": "{07 17 00}Oh, yeah? {01 00 00 05 00}Me, too!{01 00 00 14 00} {07 00 00}But it's\nnot like I wanna be {ff 00 00 06}Nook\n{ff 00 00 00}or something.{ff 00 00 06}\n{ff 00 00 00}{07 14 00}It's just that{01 00 00 05 00} the selection\nthere changes every single\nday, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 9,
+   "en": "{07 0e 00}I see{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} So, {01 00 00 05 00}you're not\nreally interested in\nfurniture, {01 00 00 05 00}{04 02 00}?\n{07 00 00}Uh, OK. {01 00 00 0a 00}Weirdo.",
+   "et": ""
+  },
+  {
+   "id": 10,
+   "en": "{07 0f 00}But, {ff 00 00 07}{01 00 00 05 00}famous paintings {ff 00 00 00}are\nso expensive, {01 00 00 05 00}{04 02 00}.\nI can't afford them!\n{07 00 00}Replicas are so well made{01 00 00 05 00}\nthat you can't tell the\ndifference by looking.\n{07 0e 00}So buying {ff 00 00 07}fakes{ff 00 00 00} might be an\noption worth considering,\n{01 00 00 05 00}{04 02 00}.",
+   "et": ""
+  },
+  {
+   "id": 11,
+   "en": "{07 1b 00}Hah! {01 00 00 05 00}You just don't get it,{01 00 00 05 00}\n{04 1f 00}! Eh, your loss.\n\n{07 11 00}You should, just once,{01 00 00 05 00}\ngo to {ff 00 00 02}Redd{ff 00 00 00}'s shop{01 00 00 05 00} and buy a\n{ff 00 00 07}famous painting{ff 00 00 00}!",
+   "et": ""
+  },
+  {
+   "id": 12,
+   "en": "{07 0c 00}Right! Exactly! {01 00 00 05 00}{0b 03 00}{04 02 00}!{01 00 00 14 00}\n{07 0d 00}We're totally on the same\npage, kid!",
+   "et": ""
+  },
+  {
+   "id": 13,
+   "en": "{07 16 00}No, {01 00 00 0f 00}I'm not asking for any \nreason in particular.{01 01 00} {07 15 00}What?!\nI'm just making small talk!",
+   "et": ""
+  },
+  {
+   "id": 14,
+   "en": "{07 06 00}Hmm{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} Hmm. {01 00 00 05 00}{0b 03 00}{04 02 00}.\n\n\n{07 00 00}But{01 00 00 05 00} picking the right\nfurniture {07 0b 00}takes practice,\n{01 00 00 05 00}{04 02 00}.\n{07 16 00}How do you expect to\nimprove if you're not even\nwilling to try?",
+   "et": ""
+  }
+ ]
+}

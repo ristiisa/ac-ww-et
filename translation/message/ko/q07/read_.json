@@ -1,0 +1,20 @@
+{
+ "file": "script/ENG/message/ko/q07/read_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 19 00}Hmm{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{04 02 00}.{01 00 00 14 00} Oh!\n{01 00 00 05 00}That's what you meant?!",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 19 00}Not bad.{07 14 00} That animal can\nactually form a sentence!",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 16 00}Hrm{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} {07 1b 00}Well, that animal's\nnot gonna be winning any\nspelling bees anytime soon!",
+   "et": ""
+  }
+ ]
+}

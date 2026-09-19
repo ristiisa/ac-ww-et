@@ -1,0 +1,110 @@
+{
+ "file": "script/ENG/message/ha/ap/item_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 14 00}{0b 03 00}{01 06 00}Yo yo yo{01 07 00}!{01 00 00 0a 00}\n{ff 00 00 05}{0b 03 00}{04 1f 00}{ff 00 00 00}!\n\n{07 00 00}From here on out, I hope\nyou and I are{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.\n\n{06 01 00 08 09 0a}",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 14 00}{0b 03 00}{01 06 00}Howdy do{01 07 00}!{01 00 00 05 00}\n{0b 03 00}{04 1f 00}!{01 00 00 0a 00}\n\n{07 14 00}Listen, I want you to know,\nif you have issues, rap at\nme anytime, {01 00 00 05 00}{04 02 00}!\n{07 0d 00}After all,{01 00 00 05 00} we're {ff 00 00 07}photo{ff 00 00 00}-pals!",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 0d 00}Oh, {ff 00 00 05}{04 1f 00}{ff 00 00 00}!{01 00 00 0a 00}\nRight on!{01 00 00 05 00} I have something \nI wanna give you!\n{07 14 00}Here!{01 00 00 14 00} It's my {ff 00 00 07}photo{ff 00 00 00}!{01 00 00 05 00}\nAwesome, huh, {01 00 00 05 00}{04 02 00}?",
+   "et": ""
+  },
+  {
+   "id": 3,
+   "en": "{07 14 00}{0b 03 00}{01 06 00}Yo yo yo YO{01 07 00}!{01 00 00 0a 00}\nWhat's up, {ff 00 00 05}{04 1f 00}{ff 00 00 00}?!\n\n{07 14 00}I gotta say, you've always\nbeen a stand-up bud to me,\n{01 00 00 05 00}{04 02 00}!\n{07 0d 00}I'm not gonna get misty\nabout it...{01 00 00 05 00}but I AM gonna\ngive you my {ff 00 00 07}photo{ff 00 00 00}!",
+   "et": ""
+  },
+  {
+   "id": 4,
+   "en": "{07 14 00}My buddy {ff 00 00 05}{04 1f 00}{ff 00 00 00}!{01 00 00 0f 00}\nI have a little something \nfor you today!\n{07 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}Oh weak.{01 00 00 05 00} {07 15 00}Your pockets\nare full, {01 00 00 05 00}{04 02 00}!\n\n{07 16 00}Well, too bad for you!{01 00 00 05 00}\nNext time, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 5,
+   "en": "{07 14 00}{0b 03 00}{01 06 00}Howdy-do-dah{01 07 00}!{01 00 00 0a 00}\nI'm in a RAD mood today, {01 00 00 05 00}so\nI'll give you this for FREE!\n{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}{07 16 00}Oh,{01 00 00 05 00} lame, your pockets\nare full, aren't they?{01 00 00 05 00}\nUncool, {04 02 00}!\n{07 06 00}Seriously, what's up with\nthat?!{01 00 00 05 00} You're wasting my\ngenerosity, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 6,
+   "en": "{07 14 00}{0b 03 00}{01 06 00}Yo, what's happening{01 07 00}!{01 00 00 0a 00}\nIt's {04 1f 00}!\n\n{07 0e 00}Hey, aren't you a little{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n{07 0b 00}Are you putting a little\nchub on, {01 00 00 05 00}{04 02 00}?\n{07 15 00}You blew off my training \nregimen, didn't you?{02 01 00 0d 0e 0f}\nI blew it off.\nNo I didn't!\nWhat training?",
+   "et": ""
+  },
+  {
+   "id": 7,
+   "en": "{07 14 00}{0b 03 00}{01 06 00}Whoa ho ho HO{01 07 00}!{01 00 00 05 00}\n{0b 03 00}{04 1f 00}!{01 00 00 0f 00}\n\n{07 00 00}Quick! {01 00 00 05 00}Can you tell{01 00 00 05 00} {07 0b 00}what I'm\nthinking about right now?{02 02 00 10 10 10 10}\nMuscles.\nDinner.\nTraining.\nSocial mores.",
+   "et": ""
+  },
+  {
+   "id": 8,
+   "en": "{07 14 00}...best buds with muscles\nto match, {01 00 00 05 00}{04 02 00}!{03 01 00 01}",
+   "et": ""
+  },
+  {
+   "id": 9,
+   "en": "{07 0d 00}...good enough pals to share\nour {04 13 00}!{01 00 00 05 00}\nYeah, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 10,
+   "en": "{07 00 00}...Crud. {01 00 00 05 00}Come ON, brain!{01 00 00 05 00}\n{07 06 00}I forgot what I was about\nto say, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 11,
+   "en": "{07 14 00}You know what's awesome?{01 00 00 05 00}\nWhen you scratch it, you\ncan smell my musk!\n{07 15 00}It's the only one in\n{04 03 00}, {01 00 00 05 00}so take good\ncare of it!",
+   "et": ""
+  },
+  {
+   "id": 12,
+   "en": "{07 00 00}Yeah, in sports terms, this\nis kinda like...{01 00 00 05 00}\n\nswapping lucky sneakers,\n{01 00 00 05 00}{04 02 00}!\n\n{07 15 00}So{01 00 00 05 00} don't EVER lose it,\n{01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 13,
+   "en": "{07 06 00}Aw, come ON, {ff 00 00 05}{04 1f 00}{ff 00 00 00}!{01 00 00 05 00}\nMan, you can't let the flab\nslab set up shop on you!\n{07 1c 00}When will people learn to\nlisten to the wisdom of\njocks, {01 00 00 05 00}{04 02 00}?{03 03 00 01}",
+   "et": ""
+  },
+  {
+   "id": 14,
+   "en": "{07 15 00}LIAR! {01 00 00 05 00}You LIE, {01 00 00 05 00}{04 1f 00}!{01 00 00 0a 00}\nAnd lying is almost as bad\nas getting chubbed out!\n{07 05 00}If you were doing 100\nab-slaps a day,{01 00 00 05 00} your belly\nwouldn't be so bulgy!{03 02 00 01}",
+   "et": ""
+  },
+  {
+   "id": 15,
+   "en": "{07 0e 00}Well, the training that{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n\n\n{07 05 00}OK, now I got all confused\n{01 00 00 05 00}and forgot what I was\nsaying! {01 00 00 05 00}Thanks a ton!{03 02 00 01}",
+   "et": ""
+  },
+  {
+   "id": 16,
+   "en": "{06 01 00 11 12 13}",
+   "et": ""
+  },
+  {
+   "id": 17,
+   "en": "{07 1d 00}Yeah, I think that's it!{01 00 00 05 00}\nHow could you tell?!\n\n{07 14 00}I didn't even know what I \nwas thinking...{01 00 00 05 00} You're like a\ncircus act, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 18,
+   "en": "{07 04 00}Huh?!{01 00 00 0a 00} No, you're WAY off!{01 00 00 05 00}\nI'm not thinking about\nanything, {01 00 00 05 00}{04 02 00}!\n{07 0d 00}You're a funny kid, though.{01 00 00 05 00}\nTalk about having a vivid\nimagination, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 19,
+   "en": "{07 15 00}BOOOOOOOOOO!{01 00 00 05 00} So close!{01 00 00 14 00}\nThe correct answer is{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{01 01 00}\n{07 06 00}Aw, I forgot, {01 00 00 05 00}{04 02 00}!\n{07 00 00}Well, {01 00 00 05 00}don't worry about it!{01 00 00 05 00}\nStill waters run deep,\ny'know!",
+   "et": ""
+  },
+  {
+   "id": 20,
+   "en": "{06 00 00 0b 0c}",
+   "et": ""
+  }
+ ]
+}

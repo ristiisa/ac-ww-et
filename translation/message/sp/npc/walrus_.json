@@ -1,0 +1,85 @@
+{
+ "file": "script/ENG/message/sp/npc/walrus_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 16 00}Suh-{01 00 00 05 00}so hungry.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00}\nMust eat something.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n\n{07 1c 00}Belly.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} So empty.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\nFeels like a black hole{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n\nIt {ff 00 00 02}screams{ff 00 00 00} for food{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\nFainting spell imminent.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n\n{07 00 00}Suh-{01 00 00 05 00}something!{01 00 00 05 00} ANYTHING!{01 00 00 05 00}\nPuh-{01 00 00 05 00}please, I need FOOD!{02 04 00 00 01}\nOkeydokey!\nGrow up.",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 0f 00}Ugh{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} Eyes dimming{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\nVitality fading{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 14 00}\nHunger{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}so strong{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 04 00}What was that?{01 01 00}\nI swore I heard food.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\nMocking me.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 04 00}Whuh-{01 00 00 05 00}what's this?!{01 00 00 05 00} Why?!{01 00 00 14 00}\n{07 16 00}Nuh-{01 00 00 05 00}not edible!\n\n.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}But I'll take it!{01 00 00 05 00}\nOh, I'll take it!{01 00 00 0a 00}\nThank you!{01 00 00 05 00} Oh, thank you!",
+   "et": ""
+  },
+  {
+   "id": 3,
+   "en": "{07 0a 00}I'm back from the brink!{01 00 00 0a 00}\nThuh-{01 00 00 05 00}thank you so much!{01 00 00 05 00}\nSweet, sweet food!\n{07 14 00}I.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}MUST EAT IT!{01 00 00 05 00}\nY{01 00 00 05 00}U{01 00 00 05 00}M{01 00 00 05 00}M{01 00 00 05 00}Y!",
+   "et": ""
+  },
+  {
+   "id": 4,
+   "en": "{07 14 00}Ahhhhhhhh!{01 00 00 05 00} Mmm{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.burp!{01 00 00 0a 00}\n{07 0a 00}So very delicious!{01 00 00 0a 00}\nSo very full and happy!\nThuh-{01 00 00 05 00}thanks for your help!{01 00 00 05 00}\nPlease, please take this!{01 00 00 05 00}\nIt's my favorite piece!\n{07 00 00}Buh-{01 00 00 05 00}but{01 00 00 05 00} you'll have to toss\nout one that you have now.{01 00 00 05 00}\n{07 0b 00}Duh-{01 00 00 05 00}do you still want it?{02 00 00 0e 0d}\nOh, yeah!\nNo, thanks.",
+   "et": ""
+  },
+  {
+   "id": 5,
+   "en": "{07 14 00}Oh, so very happy!\nSuh-{01 00 00 05 00}soo very gratified!\n{0b 03 00}{04 1b 00}!\n{07 0a 00}Ahhhhhhhhhhhhhhhhh!{01 00 00 14 00}\nSo full of happiness!{01 00 00 0a 00}\nSuh-{01 00 00 05 00}so round in the belly!",
+   "et": ""
+  },
+  {
+   "id": 6,
+   "en": "{07 00 00}Thuh-{01 00 00 05 00}thanks to you,{01 00 00 05 00}\nmuh-{01 00 00 05 00}my belly is now \no-{01 00 00 05 00}officially {01 00 00 05 00}full!\nNuh-{01 00 00 05 00}next time, could you\nbring{01 00 00 05 00} something different?\nMuh-{01 00 00 05 00}maybe?\nIf you do, {01 00 00 05 00}I'll give you a\nduh-{01 00 00 05 00}different picture!{01 00 00 05 00}\n{07 14 00}Thuh-{01 00 00 05 00}thanks again!",
+   "et": ""
+  },
+  {
+   "id": 7,
+   "en": "{07 00 00}Huh-{01 00 00 05 00}hey, {01 00 00 05 00}thanks for the\nfood earlier!\n\n{07 0a 00}So full of happiness!{01 00 00 0a 00}\nSo plump in the belly!",
+   "et": ""
+  },
+  {
+   "id": 8,
+   "en": "Juh-{01 00 00 05 00}just once,{01 00 00 05 00} I'd like to\neat a bellyful of the\ndelicacy {01 00 00 05 00}called {ff 00 00 07}red turnips{ff 00 00 00}.\n{07 12 00}Snrrrrrrf.{01 00 00 05 00}.{01 00 00 05 00}.\n\n\n{07 16 00}Ahhh! {01 00 00 05 00}Sorta nodded off.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\nSuh-{01 00 00 05 00}something's making my \nheart go {ff 00 00 02}pitter-patter {ff 00 00 00}now!",
+   "et": ""
+  },
+  {
+   "id": 9,
+   "en": "{07 02 00}AHHHHHHHH!{01 00 00 0a 00}\nIt{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} It really WAS a\ndelicacy! {01 00 00 05 00}So happy!\n{07 14 00}I ate and I ate,{01 00 00 05 00} and now\nI'm filled to the buh-brim!\n\nTuh-{01 00 00 05 00}to show you how much I\nappreciated that,{01 00 00 05 00} have\n{04 1a 00}!",
+   "et": ""
+  },
+  {
+   "id": 10,
+   "en": "{07 00 00}Thuh-{01 00 00 05 00}this is something that\nI  picked up on my way to\nthis town, buh-but{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 0e 00}I thuh-{01 00 00 05 00}think there's a name\nor something written on it!{01 00 00 05 00}\n\nIt's kind of fuh-faded so I\ncan't really tuh-tell.\n\n{07 00 00}Well, {01 00 00 05 00}you can either take it\nto the puh-person who lost\nit or muh-maybe{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n...keep it for yourself{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 01 00}\n{07 0a 00}Do what you wuh-{01 00 00 05 00}want!",
+   "et": ""
+  },
+  {
+   "id": 11,
+   "en": "{07 04 00}Whuh-{01 00 00 05 00}what's this?!{01 00 00 14 00}\n{07 16 00}Nuh-{01 00 00 05 00}not edible!\n\n.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}Besides, I can't take\nthis.{01 00 00 05 00} Yuh-you'd be lost\nwithout it!{01 00 00 05 00}\nI can't accept it, so\npuh-please,{01 00 00 05 00} take it back.",
+   "et": ""
+  },
+  {
+   "id": 12,
+   "en": "{07 1c 00}Still.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}so.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}famished!{01 00 00 05 00}\nWorld{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.spinning.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\nLosing{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.pounds{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\nBuh-{01 00 00 05 00}belly{01 00 00 05 00} {ff 00 00 02}screaming{ff 00 00 00} louder{01 00 00 05 00}\nthan ever.{01 00 00 05 00}.{01 00 00 05 00}.",
+   "et": ""
+  },
+  {
+   "id": 13,
+   "en": "{07 04 00}I-{01 00 00 05 00}is that so?\n\n\n{07 14 00}Wuh-well, {01 00 00 05 00}that's fine too.",
+   "et": ""
+  },
+  {
+   "id": 14,
+   "en": "{07 14 00}Wuh-{01 00 00 05 00}well,{01 00 00 05 00} please decide\nwhere to put it, thuh-then.",
+   "et": ""
+  },
+  {
+   "id": 15,
+   "en": "{07 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.",
+   "et": ""
+  }
+ ]
+}

@@ -1,0 +1,20 @@
+{
+ "file": "script/ENG/message/ha/q01/return_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 14 00}I wonder what kinda bug\nI'm gonna catch next!{01 00 00 05 00}\nWoo-HOOO, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 0a 00}Catching bugs is such\na BLAST, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 15 00}Next time I'm gonna catch\nthe biggest bug EVER!{01 00 00 05 00}\nOh YEAH, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  }
+ ]
+}

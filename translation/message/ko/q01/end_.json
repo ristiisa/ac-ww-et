@@ -1,0 +1,15 @@
+{
+ "file": "script/ENG/message/ko/q01/end_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 00 00}{0b 03 00}{04 1f 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0f 00} I haven't said\nanything until now, but...\n\n{07 18 00}...you're such a complete\nover-the-top bug freak!\n{0b 03 00}{04 02 00}!\n{07 19 00}I've never met anyone so\npsychotic about bugs.{01 00 00 0a 00} {07 15 00}It's\nkind of annoying, actually!\n{07 03 00}You're bugging out!{01 01 00} Usually,\nI hate puns. {01 00 00 0a 00}But when I\nmake 'em, it's comedy gold!",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 00 00}But anyway, {04 1f 00}{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.\nYou're not just a bug fan.\nYou're a bug connoisseur!\n{07 0f 00}Yeah{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 14 00} I knew from the\nstart{01 00 00 14 00} that it wouldn't be a\nfair fight{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 19 00}'Cause when it comes to\nbugs, you're the best in\ntown{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0f 00}\n{07 04 00}No, the best in the world!{01 00 00 0f 00}\n{07 03 00}Yeah, right! {01 00 00 05 00}{0b 03 00}{04 02 00}!",
+   "et": ""
+  }
+ ]
+}

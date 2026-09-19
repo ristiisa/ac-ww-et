@@ -1,0 +1,40 @@
+{
+ "file": "script/ENG/message/fu/tsu/dress_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 06 00}Um, {04 1f 00},{01 00 00 05 00} could you\ntake a look at something\nfor me, {01 00 00 05 00}{04 02 00}?\n{07 00 00}I wanted to ask about the\noutfit I'm wearing.{01 00 00 05 00} {07 0b 00}Does it\nlook good on me?{05 05 00 04 04 04 05 04 05 04 06}\nYou look hot!\nYou look...not.",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 14 00}Hee hee hee.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} You'll never\nguess what {ff 00 00 06}Sable{ff 00 00 00}{01 00 00 0a 00} told me,\n{04 1f 00}!\n{07 00 00}You see this outfit I've got\non right now?\n\n{07 0b 00}You designed it, didn't you?\n\n\n{07 0a 00}I've got to say, you have a\nvery sharp eye for style,\n{01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{0b 03 00}{04 1f 00},{01 00 00 05 00} do you like my\nclothes? You can be honest\nwith me.\n{07 14 00}Would you believe\n{ff 00 00 05}{04 0f 00} {ff 00 00 00}designed this, \n{01 00 00 05 00}{04 02 00}?\n{07 0d 00}This is the ideal wardrobe\nfor when I go out to\n{04 22 00}!",
+   "et": ""
+  },
+  {
+   "id": 3,
+   "en": "Have you{01 00 00 05 00} met {ff 00 00 05}{04 0f 00}{ff 00 00 00}?{01 00 00 05 00}\nYou know who I mean.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0f 00}\n{07 0b 00}From over in {ff 00 00 08}{04 10 00}{ff 00 00 00}?\n{07 00 00}That's who designed my\noutfit!\n\n{07 0e 00}I wonder what I'd do if I\nwere that creative.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n\n{07 13 00}I'd knit all my clothes{01 00 00 05 00}\nand a hat{01 00 00 05 00} and maybe\neven a couch, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 4,
+   "en": "{07 06 00}No!{01 00 00 05 00} Don't say another word!\nI knew it was too good\nto be true!\n{07 00 00}These clothes are just {07 0f 00}far\ntoo fancy for a simple girl\nlike me, {01 00 00 05 00}{04 02 00}!{03 03 00 01}",
+   "et": ""
+  },
+  {
+   "id": 5,
+   "en": "{07 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 0b 00}You think something more\nsimple would look better on\nme, {01 00 00 05 00}{04 02 00}?\n{07 09 00}Well, I GUESS you've got\na point about that.\n\n{07 14 00}All right, well, at least\nyou've given me some\nfashion ideas, {01 00 00 05 00}{04 02 00}.",
+   "et": ""
+  },
+  {
+   "id": 6,
+   "en": "{07 06 00}You think so?{01 00 00 0f 00} You're just\nflattering me! You must\nwant something from me!\n{07 16 00}Oh!{01 00 00 05 00} Now I'm all self-\nconscious! I don't know if I\ncan wear this again!",
+   "et": ""
+  }
+ ]
+}

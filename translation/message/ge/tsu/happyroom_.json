@@ -1,0 +1,45 @@
+{
+ "file": "script/ENG/message/ge/tsu/happyroom_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 14 00}{0b 03 00}{04 1f 00}, {01 00 00 05 00}listen up, OK?{01 00 00 05 00}\n{07 00 00}I gotta tell you about my\n{ff 00 00 02}HRA {ff 00 00 00}evaluation...\nThis time {01 00 00 05 00}they gave me...{01 00 00 0a 00}\n{07 14 00}{ff 00 00 02}{04 0f 00} points{ff 00 00 00}!\n\n{07 0d 00}Know what I think it was?{01 00 00 05 00}\nI've been full-on collecting\nsimilar furniture!",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 00 00}Oh, hey, {04 1f 00}!{01 00 00 0a 00} {07 0b 00}Are\nyou into {ff 00 00 02}HRA {ff 00 00 00}scores,\n{01 00 00 05 00}{04 02 00}?\n{07 00 00}I am, like, SO into them!{01 00 00 05 00}\nThis time, my score was...\n{ff 00 00 02}{04 0f 00} points{ff 00 00 00}!\n{07 14 00}You wanna know why? Huh?{01 00 00 05 00}\nIt was 'cause I finally got\nall three secret items!\n{07 16 00}Although,{01 00 00 05 00} I gotta say,\nthey're sorta just my\nnormal stuff, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 00 00}Hey, so, {04 1f 00}...{01 00 00 05 00}\n{07 0b 00}How're you doing with your\n{ff 00 00 02}HRA {ff 00 00 00}score, huh?\n{07 00 00}Me, my place is, like, a\nTOTAL pigsty right now...\n\n{07 14 00}Still, thanks to my rockin'\nfeng shui style, {01 00 00 0a 00}I got\n{ff 00 00 02}{04 0f 00} points{ff 00 00 00}!\n{07 16 00}What kinda bugs me out is,\nif I clean my room, my feng\nshui might go bye-bye.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n{07 06 00}Grr! {01 00 00 05 00}Rats!{01 00 00 05 00} What should I\ndo, {01 00 00 05 00}{04 02 00}?!",
+   "et": ""
+  },
+  {
+   "id": 3,
+   "en": "{07 14 00}Hee hee hee hee hee...{01 00 00 05 00}\nYou gotta hear this,\n{04 1f 00}!\nThanks to my awesome\n{04 01 00}-style {ff 00 00 02}color\ncoordination{ff 00 00 00}... \n{07 00 00}My {ff 00 00 02}HRA{ff 00 00 00} score went up to...{01 00 00 05 00}\na whopping {ff 00 00 02}{04 0f 00} points{ff 00 00 00}!{01 00 00 05 00}\n{07 0d 00}I totally rock, {04 1f 00}!{01 00 00 0f 00}\nIf you want to learn about \ncolors, I'm your girl!",
+   "et": ""
+  },
+  {
+   "id": 4,
+   "en": "{07 00 00}I gotta ask, {04 1f 00}...\n{07 0b 00}Do you get evaluated by the{01 00 00 05 00}\n{ff 00 00 02}HRA{ff 00 00 00}, {01 00 00 05 00}{04 02 00}?\n{07 00 00}I do. {01 00 00 05 00}I was matching\neverything in my room,\nand I got{ff 00 00 02} {04 0f 00} points{ff 00 00 00}!\n{07 06 00}Believe it or not, {01 00 00 05 00}I'm\ngood at sensing stuff like\nthat, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 5,
+   "en": "{07 00 00}You know those {ff 00 00 02}HRA{ff 00 00 00} scores?{01 00 00 05 00}\n{07 14 00}I got {ff 00 00 02}{04 0f 00} points{ff 00 00 00}!{01 00 00 05 00}\nAwesome, huh, {01 00 00 05 00}{04 02 00}?\n{07 00 00}I was SO into collecting\ncertain items for a while...{01 00 00 05 00}\nMaybe that's why?",
+   "et": ""
+  },
+  {
+   "id": 6,
+   "en": "{07 14 00}Hi there, {04 1f 00}!{01 00 00 05 00}\n{07 00 00}Hey, I gotta tell you about\nmy {ff 00 00 02}HRA{ff 00 00 00} score... \nI'll have you know, {01 00 00 05 00}{07 14 00}I got\n{ff 00 00 02}{04 0f 00} points{ff 00 00 00}! {01 00 00 05 00}Yeah!{01 00 00 05 00}\nI know! {01 00 00 05 00}Crazy, {01 00 00 05 00}{04 02 00}!\n{07 00 00}I think it's because I got\n{ff 00 00 02}THAT furniture {ff 00 00 00}in my\nroom... {01 00 00 05 00}Know what I mean?\n.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 11 00}Think I cracked the code\nor what, {01 00 00 05 00}{04 02 00}?",
+   "et": ""
+  },
+  {
+   "id": 7,
+   "en": "{07 00 00}Yeah, so I became a member\nof the {ff 00 00 02}HRA{ff 00 00 00}, but...\n\n{07 16 00}Judging by the way they \nscore me, {01 00 00 05 00}I'm, like, a\ncomplete decorating doof{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 06 00}AAAAAAAA! {01 00 00 0f 00}Why can't they\nsee how totally awesome I\nam, {01 00 00 05 00}{04 02 00}?!",
+   "et": ""
+  }
+ ]
+}

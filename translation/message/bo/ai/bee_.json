@@ -1,0 +1,65 @@
+{
+ "file": "script/ENG/message/bo/ai/bee_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 02 00}{01 00 00 14 00}Whoa!{01 00 00 14 00} What happened to you,\n{04 1f 00}?{01 00 00 0a 00} Your face is\nall kinds of messed up!\n{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 16 00}Oh.{01 00 00 14 00} I get it.\nYou got stung, huh.{01 00 00 0a 00}\nPoor kid.\n{07 00 00}Well, {01 00 00 0a 00}{07 0d 00}at least you've got a\ngood attitude, {04 1f 00}.{01 00 00 0a 00}\nYou're all mellow-like!",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "Hey. {07 04 00}Oh, wait!{01 00 00 05 00} {04 1f 00},\nis that you?{01 01 00} Wow. {07 16 00}What\nhappened to your{01 00 00 05 00} face?\n{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00}{07 1b 00}Man!{01 00 00 0a 00} Getting stung in\nthe morning? Talk about a\nrude awakening!",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 18 00}Whoa!{01 00 00 0a 00} {0b 03 00}{04 02 00}!\n\n\n.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 0b 00}Uh,{01 00 00 0a 00} {04 1f 00}?{01 01 00}\n{07 06 00}Not to be rude or anything,\nbut {01 00 00 05 00}your face is MESSED up!\n{07 16 00}Oh.{01 00 00 14 00}{07 19 00} I should have guessed.{01 00 00 0a 00}\nYou got stung, huh{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{07 00 00}\n\n{07 16 00}You should've told me you{01 00 00 0a 00}\nwanted some honey!{01 00 00 05 00} I'd have\nshared mine, {01 00 00 0a 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 3,
+   "en": "{07 04 00}Whoa, {04 1f 00}! {01 00 00 0a 00}I can't\nbelieve you took on a swarm\nof bees!\n{07 16 00}From the looks of your\nface, though,{01 00 00 05 00} I'd have to\nsay you lost{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 0d 00}Hey,{01 00 00 05 00} next time you give it\na shot, will you share the\nhoney with me?",
+   "et": ""
+  },
+  {
+   "id": 4,
+   "en": "{07 02 00}Hey!{01 00 00 14 00} What's shaking,\n{04 1f 00}? I see you\ndiscovered the \"{ff 00 00 02}bee diet{ff 00 00 00}.\"{07 00 00}\n{07 16 00}You know, the one where you\nrace bees to stay fit.{01 00 00 0a 00} It\nseems risky to me{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 19 00}Well, {01 00 00 0a 00}different strokes and\nall. You're a brave one,\n{04 1f 00}. {01 00 00 0a 00}{0b 03 00}{04 02 00}!{07 00 00}",
+   "et": ""
+  },
+  {
+   "id": 5,
+   "en": "{07 0a 00}Whoa!{01 00 00 14 00} Cool! Is that, like,\nthe latest body\nmodification, {04 1f 00}?\n{07 02 00}Oh!{01 00 00 0f 00}\n.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00}{07 06 00}You got stung?{01 00 00 14 00}\nThat looks like it hurts!\n{07 16 00}I'm all about{01 00 00 05 00} cool trends\nand stuff like that{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 14 00}\n{07 08 00}But not if it hurts!",
+   "et": ""
+  },
+  {
+   "id": 6,
+   "en": "{07 18 00}Whoa! What happened?!\nYour face, {04 1f 00}! It\nlooks terrible!{01 00 00 0a 00} {0b 03 00}{04 02 00}!\n{07 16 00}Oh, wow{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0f 00} Did you apologize\nto those bees?!\n\n{07 06 00}You have to!{01 00 00 14 00}\nYou need their forgiveness\nto heal, {01 00 00 0a 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 7,
+   "en": "{07 02 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00}Whoa whoa whoa!\n{0b 03 00}{04 1f 00}? {01 00 00 05 00}{0b 03 00}{04 02 00}?{01 01 00}\n{07 16 00}Your face looks horrible{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 14 00}\n{07 0e 00}{01 00 00 0a 00}It's all swollen and round.\n{07 0c 00}{01 00 00 0a 00}You look like\n{04 19 00}!{01 01 00} {07 0a 00}Yum!",
+   "et": ""
+  },
+  {
+   "id": 8,
+   "en": "{07 02 00}Wow!{01 00 00 14 00} Your face! {01 00 00 0a 00}What in the\nworld happened to it?\n{01 00 00 05 00}{0b 03 00}{04 02 00}?\n{07 16 00}You look like \n{04 19 00} that's\nbeen sitting in the fridge{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\nFOR A LONG TIME!{01 00 00 05 00} {07 00 00}You'd\nbetter put some {ff 00 00 07}medicine\n{ff 00 00 00}on that, quick!",
+   "et": ""
+  },
+  {
+   "id": 9,
+   "en": "{07 02 00}Whoa!{01 01 00}{07 16 00} That's.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}amazing!{01 00 00 0a 00}\n{0b 03 00}{04 1f 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 06 00}That's {01 00 00 0a 00}neat, {01 00 00 05 00}{04 02 00}!\n{07 00 00}You've been through a\nterrible ordeal,{01 00 00 05 00} but you\ndidn't cry or anything{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 0a 00}You're so brave!{01 00 00 0a 00}\n{0b 03 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 10,
+   "en": "{07 18 00}Augh!{01 00 00 0f 00} Please don't hurt me, {01 00 00 05 00}\n{04 02 00}! {07 07 00}Here, take all\nmy Bells!\n{07 04 00}What?{01 00 00 0a 00} {0b 03 00}{04 1f 00}?{01 01 00}\n{07 16 00}Oh.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00}you got stung by bees.\nThat stinks.\n{07 06 00}You scared me!{01 00 00 14 00} Those stings\nmake you look all{01 00 00 05 00}\ndangerous, {01 00 00 0a 00}{04 02 00}.",
+   "et": ""
+  },
+  {
+   "id": 11,
+   "en": "{07 02 00}{01 00 00 14 00}Whoa, {01 00 00 05 00}{04 1f 00}!{01 00 00 0a 00} Your\nface looks really{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 14 00}bad.\n{07 0b 00}{01 00 00 05 00}You got stung, didn't you?\n{07 00 00}Cheer up! {01 00 00 0a 00}There are lots of\nfolks who look as messed up\nas you do now...{01 00 00 0a 00}\n{07 14 00}And they didn't get stung!{01 00 00 0a 00}\n{07 0d 00}So I wouldn't worry too\nmuch{01 00 00 05 00} about it,{01 00 00 05 00} {04 02 00}!",
+   "et": ""
+  }
+ ]
+}

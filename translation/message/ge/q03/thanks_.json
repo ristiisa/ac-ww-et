@@ -1,0 +1,20 @@
+{
+ "file": "script/ENG/message/ge/q03/thanks_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 00 00}{07 0b 00}What?!{01 00 00 05 00} You're just gonna\nGIVE me this fossil?!{01 00 00 05 00}\nFor real?{01 00 00 0a 00} For REALLY real?\n{07 13 00}Oh, {04 1f 00},{01 00 00 05 00} you are \nWAY too nice!{01 00 00 05 00} You're the\nbest person in HISTORY!\nOK then, {01 00 00 05 00}I gotta give you \nsomething cool in return,\n{01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 00 00}{07 18 00}Huh??{01 00 00 0a 00} You're really gonna\ngive little old me\n{04 1a 00}?\n{07 02 00}LIKE, WOW!{01 00 00 05 00} TOTALLY WOW!!{01 01 00}\nWell, if you really wanna\npart with it, I'll take it...\nBut {01 00 00 05 00}I gotta give YOU a\npresent in exchange,\n{01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 00 00}{07 04 00}Wow!{01 00 00 0a 00} {0b 03 00}{04 1f 00}, did you \ndig this up all by yourself,\n{01 00 00 05 00}{04 02 00}?\n{07 00 00}{07 13 00}It's SO adorable!{01 00 00 0a 00} It's, like,\nthe cutest thing I've ever\nseen in my whole life!\nOK, {01 00 00 05 00}so in exchange for this,{01 00 00 05 00}\nI'm gonna give you a totally\nspecial gift!",
+   "et": ""
+  }
+ ]
+}

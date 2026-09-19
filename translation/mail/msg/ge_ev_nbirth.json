@@ -1,0 +1,20 @@
+{
+ "file": "script/ENG/mail/msg/ge_ev_nbirth.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{04 11 00} {04 12 00} is, like,\nmy BIRTHDAY! I'm having a \nbig party, so you should\ncome! (With a PRESENT!!)",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "I'm having a BIG birthday\nbash on {04 11 00} {04 12 00},\nand it won't be a party\nwithout YOU! So come!",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "My big birthday bash is on\n{04 11 00} {04 12 00}, and it\nwill totally STINK if you\naren't there. PLEASE come!",
+   "et": ""
+  }
+ ]
+}

@@ -1,0 +1,20 @@
+{
+ "file": "script/ENG/message/ha/q01/req1_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 00 00}{0b 03 00}{04 1f 00}! {01 00 00 0a 00}You know what\n{04 1a 00}{07 0b 00} is?{01 00 00 05 00}\nHeard of it, {01 00 00 05 00}{04 02 00}?\n{07 14 00}Even if you haven't,{01 00 00 05 00} you\noughta know that those\nthings get me FIRED UP!\n{07 15 00}So...let's see who can catch\n{04 1a 00}\nthe fastest!\n{07 0d 00}C'mon!{01 00 00 05 00} It'll be awesome,\n{ff 00 00 05}{04 1f 00}{ff 00 00 00}!",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 14 00}Wassup, {ff 00 00 05}{04 1f 00}{ff 00 00 00}!{01 00 00 0a 00}\nHey, are you into catching\nbugs, {01 00 00 05 00}{04 02 00}?\n{07 00 00}Sweet! {01 00 00 05 00}You can test your\nskills against me!{01 00 00 05 00} I'm a\nsemi-pro, after all.\nLet's see who can catch\n{04 1a 00}\nfirst. {07 0b 00}OK, {01 00 00 05 00}{04 02 00}?",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 11 00}If you're here, it means\nyou haven't been getting\nenough exercise, right?\n{07 00 00}Lemme ask you this, then:\nHow fast can you catch\n{04 1a 00}?\n{07 0b 00}I'll race you to catch one.\nHow about it?{01 00 00 05 00} It'll be a hot\nworkout,{01 00 00 05 00} {04 02 00}!",
+   "et": ""
+  }
+ ]
+}

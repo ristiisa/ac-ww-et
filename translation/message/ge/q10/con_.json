@@ -1,0 +1,20 @@
+{
+ "file": "script/ENG/message/ge/q10/con_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 14 00}At {04 10 00}:{04 11 00} on the {04 0f 00}!{01 00 00 0a 00}\n{07 0d 00}I remember! And clean up!\nI DON'T wanna see a pigsty!\nPerk up your ears so you\ndon't miss the sound of\nmy knocking, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 0e 00}Lemme just remember{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n{04 10 00}:{04 11 00} on the {04 0f 00}, right?{01 00 00 0a 00}\n{07 0a 00}It's gonna be SOOO MUCH FUN!\n{07 00 00}Now, don't go missing the\nsound of me knocking at\nyour door, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 00 00}I know! {04 10 00}:{04 11 00} on the {04 0f 00}!{01 01 00}\n{07 06 00}Don't forget!{01 00 00 05 00} If you forget,\nI'll be sooo sad{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 01 00}and ANGRY!",
+   "et": ""
+  }
+ ]
+}

@@ -1,0 +1,15 @@
+{
+ "file": "script/ENG/message/ge/q02/pwin_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 02 00}No... NOOOO!! That's \n{04 1c 00},\n{01 00 00 05 00}{04 02 00}!\n{07 06 00}That's the rarest one of\nthem all!{01 00 00 05 00} It's rarer than...{01 00 00 05 00}\nthan the rarest thing ever!\n{07 16 00}Mine is only \n{04 1d 00}, {01 00 00 05 00}\nso I'm TOTALLY defeated!",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 0b 00}Huh?{01 00 00 05 00} What in the world is\n{04 1c 00}...?{01 00 00 0a 00}\n{07 01 00}Did you make this up?\n{07 00 00}{07 0e 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00}{07 0c 00}Oh,{01 00 00 05 00} I remember now!{01 01 00}\n{07 16 00}That's one of the rarest\nfish ANYWHERE!\n{07 06 00}Like, it's so rare that I\nalmost forgot about it,\n{01 00 00 05 00}{04 02 00}!\n{07 16 00}But I only found\n{04 1d 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\nI...lost? {01 00 00 0a 00}{07 08 00}I LOST!{01 00 00 0a 00} NOOOOOOOO!!!",
+   "et": ""
+  }
+ ]
+}

@@ -1,0 +1,20 @@
+{
+ "file": "script/ENG/message/ta/q01/return_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 14 00}That was totally fun! {01 00 00 05 00}Bug\ncatching is, {01 00 00 05 00}like, {01 00 00 05 00}the new\nshopping!",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 14 00}Tee hee HEE hee hee!{01 00 00 14 00} Let's\ndo this again sometime,\n{01 00 00 0a 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 14 00}Let's see now...{01 00 00 0a 00} Where\nshould I {01 00 00 05 00}put this bug,\n{01 00 00 0a 00}{04 02 00}?",
+   "et": ""
+  }
+ ]
+}

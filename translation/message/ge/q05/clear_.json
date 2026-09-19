@@ -1,0 +1,20 @@
+{
+ "file": "script/ENG/message/ge/q05/clear_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 14 00}{0b 03 00}{04 1f 00},{01 00 00 05 00} I TOTALLY knew\nI could count on YOU,\n{01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 14 00}I KNEW you would help me, \n{01 00 00 05 00}{04 02 00}! That's 'cause\nyou're the B-E-S-T BEST!",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 14 00}DOUBLE YAY!{01 00 00 0a 00} Thanks soooo\nmuch!{01 00 00 05 00} You're a humongous\nhelp, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  }
+ ]
+}

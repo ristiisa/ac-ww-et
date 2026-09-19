@@ -1,0 +1,65 @@
+{
+ "file": "script/ENG/message/bo/ai/nfirst_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 12 00}{01 00 00 0a 00}YAAAAAAAWN!{01 00 00 14 00} Good morning{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 01 00}\nEveryone in {04 03 00}{01 00 00 05 00}\ngets up so early.\n{07 00 00}I'm {04 01 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00} {07 19 00}I'm\nbetter at {04 16 00}\nand eating than anybody.{07 00 00}\n{07 14 00}I just moved here, so I\nhope you'll be nice to me,{01 00 00 0a 00}\n{04 02 00}.",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 12 00}{01 00 00 14 00}YAAAAAAAWN{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 14 00} I am so not\ngood at waking up early,{01 00 00 0a 00}\n{04 02 00}.\n{07 0f 00}{01 00 00 05 00}But{01 00 00 05 00} I really do want to eat\nbreakfast,{01 00 00 0a 00} so I have to try\nto wake up as best I can{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 16 00}I'm{01 00 00 05 00} {04 01 00}.{01 00 00 14 00} {07 00 00}I'd be\nhappy to have you for\nbreakfast sometime!",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 14 00}Hi!{01 00 00 0a 00} I tell you,{01 00 00 0a 00} morning in\nthis town feels pretty\ngood,{01 00 00 0a 00} {04 02 00}!\n{07 0a 00}Why, I feel so good I could\n{04 22 00} naked!{01 00 00 14 00}\n{07 00 00}By the way,{01 00 00 0a 00} I'm{01 00 00 05 00} {04 01 00}!\n{07 14 00}I guess we'll be seeing a\nlot more of each other\nfrom now on,{01 00 00 0a 00} {04 02 00}!\n{07 03 00}But not in that way! {01 00 00 0a 00}I was\njust kidding about the\nwhole naked thing!",
+   "et": ""
+  },
+  {
+   "id": 3,
+   "en": "{07 14 00}Hello.{01 00 00 0a 00} My name is\n{04 01 00},{01 00 00 05 00} {04 02 00}.\n\n{07 00 00}I'm trying to make{01 00 00 0a 00} 100\nfriends,{01 00 00 05 00} so I'm moving from\nvillage to village!\n{07 0d 00}And you're the {04 06 00}!{01 00 00 14 00}\nLucky you!",
+   "et": ""
+  },
+  {
+   "id": 4,
+   "en": "{07 14 00}Hello there!{01 00 00 0a 00} Do you like to\n{04 22 00}? I do!\nMy name is {04 01 00}!\n{07 00 00}I smelled the delicious\nscent of {04 03 00} and\ncame to check it out!\n{07 14 00}They call me the\n{04 19 00} expert,{01 00 00 0a 00}\n{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 5,
+   "en": "{07 14 00}Hey!{01 00 00 05 00} Hi, you.{01 01 00} {07 00 00}I know this is\nsudden,{01 00 00 0a 00}{07 0b 00} but what food does\nthis town specialize in?\n{07 17 00}I just love{01 00 00 0a 00} dipping\n{04 19 00} in\n{04 18 00}! MM-MMMM!\n{07 14 00}If you find any delicious\ndelicacies, you come\nrunning to me, OK?",
+   "et": ""
+  },
+  {
+   "id": 6,
+   "en": "{07 14 00}Good evening!{01 00 00 0a 00} It's almost\ntime for supper,{01 00 00 0a 00}\n{04 02 00}.\n{07 00 00}My {ff 00 00 02}belly clock{ff 00 00 00} is always on\ntime,{01 00 00 14 00}{07 14 00} so I always know when\nit's time to eat.\n{07 0d 00}I named my {ff 00 00 02}belly clock\n{ff 00 00 00}after myself:{01 00 00 0a 00} it's the\n\"{04 01 00} Quartz!\"",
+   "et": ""
+  },
+  {
+   "id": 7,
+   "en": "{07 14 00}Hi,{01 00 00 05 00} nice to meet you.{01 00 00 14 00}\nI'm {01 00 00 05 00}{04 01 00},{01 00 00 0a 00}\n{04 02 00}.\n{07 09 00}I walked far, with only the\nstars as my guide,{01 00 00 0a 00} and\nfound myself in this town{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n{07 0c 00}{01 00 00 0a 00}Oh!{01 00 00 0a 00} By the way, my sign is\n{04 0f 00}!{01 00 00 14 00} {07 14 00}Nice to meet\nyou,{01 00 00 0a 00} {04 02 00}.",
+   "et": ""
+  },
+  {
+   "id": 8,
+   "en": "{07 13 00}{01 00 00 0a 00}The sun at dusk is so fiery\nand neat looking{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\nIt's amazing, {01 00 00 0a 00}{04 02 00}.\n{07 0b 00}Wouldn't you just love to{01 00 00 0a 00}\n{04 22 00}{01 00 00 05 00} with\nthat as your backdrop?\n{07 0d 00}Huh huh huh!{01 00 00 0a 00} That's why\neveryone calls me{01 00 00 05 00}\n\"{04 01 00} the Romantic.\"",
+   "et": ""
+  },
+  {
+   "id": 9,
+   "en": "{07 14 00}Oh,{01 00 00 0a 00} good evening.{01 00 00 14 00}{07 00 00} I'm\n{04 01 00}, and I love to\n{04 22 00}.\n{07 16 00}I just moved here,{01 00 00 0a 00} and I'm\na little homesick,{01 00 00 0a 00}{07 00 00} so I feel\nlucky to have met you.\n{07 14 00}I'm sure I'll be seeing more\nof you,{01 00 00 0a 00} {04 02 00}. At\nleast, I hope so.",
+   "et": ""
+  },
+  {
+   "id": 10,
+   "en": "Hi,{01 00 00 0a 00} I'm{01 00 00 05 00} {04 01 00},{01 00 00 0a 00}\n{04 02 00}.\n\n{07 14 00}I heard the stars looked\nbeautiful here,{01 00 00 0a 00} so I moved\nhere to see for myself.\n{07 00 00}I sure hope I can see my\nown sign,{01 00 00 0a 00} {04 0f 00}.{01 00 00 0a 00}\n{0b 03 00}{04 02 00}.",
+   "et": ""
+  },
+  {
+   "id": 11,
+   "en": "{07 04 00}Whoa! Hey!{01 00 00 14 00} You're{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 0b 00}{01 00 00 05 00}\nHuh?\n\n{07 14 00}Oh.{01 00 00 0a 00} So you're {04 1f 00}?{01 01 00}\n{07 00 00}I'm {04 01 00},\n{01 00 00 0a 00}{04 02 00}.\n{07 12 00}{01 00 00 14 00}I'm really not much of a\nnight owl. But I'm not a\nmorning person, either.{01 00 00 05 00}.{01 00 00 05 00}.",
+   "et": ""
+  }
+ ]
+}

@@ -1,0 +1,85 @@
+{
+ "file": "script/ENG/message/ge/ev/gardeniing_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 14 00}The {ff 00 00 03}Flower Fest {ff 00 00 00}starts\ntoday, {01 00 00 05 00}{04 02 00}!\n\n{07 0d 00}Good thing I've got my\n{ff 00 00 07}watering can{ff 00 00 00} ready for\naction!",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 14 00}The {ff 00 00 03}Flower Fest {ff 00 00 00}starts\ntoday! Yes{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}TODAY,\n{04 02 00}!\nIf you want to win, try to\nhave tons of different\nflowers in bloom!\n{07 00 00}{07 16 00}But you'll have to figure\nthe rest out for yourself!{01 00 00 05 00}\nI'm in it to win it!",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 04 00}Didn't you know that the\n{ff 00 00 03}Flower Fest{ff 00 00 00} has already\nstarted?\n{07 14 00}I hope you keep slackin',{01 00 00 05 00}\n'cause then I'll win again\nthis year!",
+   "et": ""
+  },
+  {
+   "id": 3,
+   "en": "{07 14 00}How's it going, {01 00 00 0a 00}{04 1f 00}?{01 00 00 05 00}\n{07 0b 00}Are you into gardening,\n{01 00 00 05 00}{04 02 00}?\n{07 17 00}I've been talking to my\nflowers, and we have a\ngood relationship going.\n{07 00 00}{07 02 00}WHAT?!{01 00 00 0a 00} You think I'm a freak\n'cause I talk to flowers?{01 00 00 0a 00}\nYou're just a flower hater!",
+   "et": ""
+  },
+  {
+   "id": 4,
+   "en": "{07 14 00}Gardening is perfect for\na neat freak,\n{01 00 00 05 00}{04 02 00}.\n{07 00 00}Neat freaks finish\nfirst!{01 01 00} YAAAAAAYYYY!",
+   "et": ""
+  },
+  {
+   "id": 5,
+   "en": "{07 14 00}We're gonna find out who\nthe {ff 00 00 02}Green Thumb{ff 00 00 00} is on\nSunday!{ff 00 00 03}\n{ff 00 00 00}{07 16 00}Not to be rude or anything,{01 00 00 05 00}\nbut shouldn't you be\ngardening?!",
+   "et": ""
+  },
+  {
+   "id": 6,
+   "en": "{07 06 00}{01 00 00 0a 00}Why aren't any of my\nflowers turning out right?!{01 01 00}\n{07 05 00}{01 08 00}ARRRRRRRRRRRRRRRRRRGH!\n{07 16 00}And why can't the {ff 00 00 03}Flower\nFest {ff 00 00 00}just be a few days\nlonger, {01 00 00 05 00}{04 02 00}?",
+   "et": ""
+  },
+  {
+   "id": 7,
+   "en": "{07 13 00}I love how \"Passion\" is the\ntheme for this year's\n{ff 00 00 03}Flower Fest{ff 00 00 00}.\n{07 0f 00}But for me, it's been\nmore like \"Horrible\nFrustration,\" {01 00 00 05 00}{04 02 00}.",
+   "et": ""
+  },
+  {
+   "id": 8,
+   "en": "{07 16 00}The {ff 00 00 03}Flower Fest {ff 00 00 00}is\nalmost over, {01 00 00 05 00}{04 02 00}!\n\nOh, sure{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}. EVERYONE loves\nflowers during the festival!\n\n{07 06 00}But who will take care of\nthe flowers when it's over?!",
+   "et": ""
+  },
+  {
+   "id": 9,
+   "en": "{07 14 00}So today's the last day of\nthe {ff 00 00 03}Flower Fest{ff 00 00 00},\n{01 00 00 05 00}{04 02 00}!\n{07 0f 00}But it didn't go my way at\nall this year! {01 00 00 05 00}My thumb\nisn't green at all!\nBUMMER BUMMER BUMMER!{01 00 00 14 00}\n{07 10 00}All I wanted was a green\nthumb and a {ff 00 00 07}trophy{ff 00 00 00}!",
+   "et": ""
+  },
+  {
+   "id": 10,
+   "en": "{07 0a 00}The {ff 00 00 03}Flower Fest{ff 00 00 00} is SO\nAWESOME, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 11,
+   "en": "{07 14 00}Look at all the flowers!{01 00 00 05 00}\nIt's like a flower bomb\nexploded out here!",
+   "et": ""
+  },
+  {
+   "id": 12,
+   "en": "{07 14 00}Good thing I'm cuter than\na flower, {01 00 00 05 00}{04 02 00}, or\nI'd be crazy jealous!",
+   "et": ""
+  },
+  {
+   "id": 13,
+   "en": "{07 01 00}{01 08 00}ACHOOOOO!!!{01 01 00} {07 04 00}Oh, no! What if\nI'm allergic to flowers,\n{01 00 00 05 00}{04 02 00}?!\n{07 06 00}But I love them{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} Don't\nthey want to love me back?\n",
+   "et": ""
+  },
+  {
+   "id": 14,
+   "en": "{07 00 00}Just think of it{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}. A pretty\ngirl picking wildflowers in\nan alpine meadow{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 06 00}That's the kind of role I'll\nplay when I'm an A-list\nstarlet, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 15,
+   "en": "{07 1c 00}Flowers are so pretty{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.but\nall they do all day is sit\nthere looking pretty.\n{07 19 00}If I wanna be a flower, I\nbetter get used to sitting\nin the soil, {01 00 00 05 00}{04 02 00}!{07 14 00}",
+   "et": ""
+  }
+ ]
+}

@@ -1,0 +1,40 @@
+{
+ "file": "script/ENG/message/ge/tsu/fu_hint_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 00 00}{0b 03 00}{04 1f 00}, {07 0b 00}you give your\nplace a makeover every\nonce in a while, right?\n{07 15 00}If you don't, they'll come\nfor you{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 01 00} {07 07 00}COCKROACHES!",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{06 00 00 03 04}",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{06 00 00 05 06}",
+   "et": ""
+  },
+  {
+   "id": 3,
+   "en": "{07 00 00}One time I traveled to this\nfar-off town and saw the\nmost stylin' couch!\n{07 06 00}I wish I had just splurged\nand bought it right then,\n{01 00 00 05 00}{04 02 00}!\n{07 15 00}I've never seen it since.{01 00 00 05 00}\nIf you find something you \nlike,{01 00 00 05 00} BUY IT!",
+   "et": ""
+  },
+  {
+   "id": 4,
+   "en": "{07 00 00}I saw a {04 15 00}\nat a store the other day,\n{07 1b 00}but it wasn't for sale!\n{07 19 00}Awww, well. I couldn't have\nput it in my room anyway,\n{01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 5,
+   "en": "{07 00 00}I was so broke last month\n{07 16 00}that I sold my favorite\ntable to pay the bills.\n{07 0f 00}I bawled so hard that I\nmade the table all wet. I'm\nstill regretting it{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 0c 00}Maybe I should just order it\nfrom the {ff 00 00 02}catalog {ff 00 00 00}at\n{ff 00 00 06}Tom Nook{ff 00 00 00}'s shop?",
+   "et": ""
+  },
+  {
+   "id": 6,
+   "en": "{07 00 00}I heard {ff 00 00 06}Tom Nook{ff 00 00 00} never  \nholds a {ff 00 00 03}Point Special{ff 00 00 00} during\nthe week, {01 00 00 05 00}{04 02 00}.\n{07 00 00}Is that his way of\n{07 0b 00}getting us to come in on\nthe weekends, too?",
+   "et": ""
+  }
+ ]
+}

@@ -1,0 +1,65 @@
+{
+ "file": "script/ENG/message/ta/ai/indoor_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 12 00}{01 00 00 14 00}Yaaaaaaawn{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 01 00}\n{07 16 00}Ah, {01 00 00 05 00}good morning,\n{04 1f 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 16 00}I'm happy that you came to\nvisit me this morning, but{01 00 00 0a 00}\n{01 00 00 0a 00}I'm{01 00 00 05 00} not a morning person.\n{07 1b 00}So, if it seems like I'm in{01 00 00 0a 00}\na bad mood, don't blame me.",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 04 00}{0b 03 00}{01 06 00}Oh my{01 07 00}!{01 00 00 05 00}\n{0b 03 00}{04 1f 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 14 00}\nIt's so early, {01 00 00 0a 00}{04 02 00}.\n{07 14 00}I{01 00 00 05 00} just finished putting my\nmakeup on. {01 00 00 05 00}Not that I\nreally need it.",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 14 00}{0b 03 00}{01 06 00}Welcome to my humble abode{01 07 00}!\n{01 00 00 05 00}{0b 03 00}{04 1f 00}...\n\n{07 00 00}You're here a bit late.{01 00 00 14 00} {07 1b 00}Do\nyou want breakfast?{01 00 00 05 00} Well, I\nate breakfast a while ago.\n{07 14 00}I finished up my post-meal\n{04 18 00}{01 00 00 05 00},\n{01 00 00 0a 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 3,
+   "en": "{07 04 00}{0b 03 00}{01 06 00}Hey{01 07 00}!\n{01 00 00 05 00}Welcome! {07 14 00}I was relaxing{01 00 00 0a 00} with\nsome{01 00 00 0a 00} {04 18 00}.",
+   "et": ""
+  },
+  {
+   "id": 4,
+   "en": "{07 04 00}{0b 03 00}{01 06 00}Oh{01 07 00}!{01 00 00 0a 00}\nWelcome to casa de\n{04 01 00}!\n{07 00 00}You're still under the\nguidance of the {ff 00 00 02}Happy\nRoom Academy{ff 00 00 00}, right?\n{07 19 00}You should{01 00 00 0a 00} really learn the\nins and outs of interior\ndesign, {01 00 00 05 00}{04 02 00}!{07 00 00}",
+   "et": ""
+  },
+  {
+   "id": 5,
+   "en": "{07 04 00}Oh, hello,{01 00 00 05 00} {04 1f 00}.\nLet me offer this piece of\nadvice, {04 02 00}.\n{07 15 00}When entering the home\nof a lady,{01 00 00 0a 00} rather than just\nknocking and barging in,\n{07 1b 00}it's common courtesy to\noffer a proper greeting.{01 00 00 0a 00}\nWere you raised in a barn?",
+   "et": ""
+  },
+  {
+   "id": 6,
+   "en": "{07 04 00}Oh, {04 1f 00}?{01 01 00}\n{07 16 00}I haven't prepared enough\ndinner for you, too.\n{01 00 00 0a 00}{07 1b 00}{01 00 00 05 00}And{01 00 00 05 00} don't guests normally\nbring something for the\nhostess? {01 00 00 0a 00}Well?",
+   "et": ""
+  },
+  {
+   "id": 7,
+   "en": "{0b 03 00}{01 06 00}Good evening{01 07 00}!{01 00 00 05 00}{07 14 00}\n{07 19 00}I thought you'd be visiting\nme, {07 14 00}{01 00 00 0a 00}{04 02 00}.",
+   "et": ""
+  },
+  {
+   "id": 8,
+   "en": "{07 1c 00}{01 00 00 14 00}Phew!{01 00 00 14 00} It's not easy being so\npretty, {01 00 00 0a 00}{04 02 00}. It's\nhard work!\n{07 00 00}I'm at my happiest when I\ncan relax in the comfort of{01 00 00 0a 00}\n{07 13 00}{01 00 00 0a 00}my own{01 00 00 05 00} home{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{04 02 00}.",
+   "et": ""
+  },
+  {
+   "id": 9,
+   "en": "{07 04 00}Oh, {01 00 00 05 00}{04 1f 00},{01 00 00 14 00} you're here\nso late. Perhaps you have a\n{07 0b 00}secret you'd like to share?\n{07 14 00}If this is about a crush,{01 00 00 05 00}\nI'll listen 'til morning!",
+   "et": ""
+  },
+  {
+   "id": 10,
+   "en": "{07 04 00}Hey, {01 00 00 0a 00}{04 1f 00}!\nExcellent timing! {07 16 00}I saw {01 00 00 0a 00}a\nsuper scary movie today{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 07 00}{01 00 00 14 00}Now I'm all creeped\nout, {01 00 00 05 00}{04 02 00}. Eeeek!\nDon't sneak up on me!",
+   "et": ""
+  },
+  {
+   "id": 11,
+   "en": "{07 04 00}Hey!{01 00 00 14 00}\n{07 14 00}So I guess you really ARE a\nnight owl, huh, {04 1f 00}?\n{07 00 00}Or{01 00 00 0a 00} did you drink some\n{04 18 00}, and the\ncaffeine is keeping you up?{07 14 00}{01 00 00 0a 00}",
+   "et": ""
+  }
+ ]
+}

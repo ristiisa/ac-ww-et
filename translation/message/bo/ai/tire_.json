@@ -1,0 +1,30 @@
+{
+ "file": "script/ENG/message/bo/ai/tire_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 16 00}{01 00 00 05 00}Why would you do that?\nDo you like to make people\nfeel bad, {04 1f 00}?",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 16 00}I thought you liked me.{01 00 00 0a 00} A\nlot! I thought we were pals!\nWeren't we,{01 00 00 0a 00} {04 02 00}?\n{07 15 00}Then{01 00 00 05 00} how could you change{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 14 00}\n{07 08 00}It's awful,{01 00 00 0a 00} {04 02 00}!{01 00 00 0a 00}\nThat's a rotten way to be!",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 06 00}Cut it out!{01 00 00 0a 00} Come on. I don't\nknow why you gotta be so\nmean sometimes.\nI have to be up-front with\nyou. {01 00 00 0a 00}{07 08 00}This is a really rotten\nway to act, {04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 3,
+   "en": "{07 1c 00}{01 00 00 0a 00}You know what?{01 00 00 05 00} I just can't\nbelieve you,{01 00 00 0a 00} {04 02 00}.{01 00 00 0a 00}\nYou've got a lot of nerve!",
+   "et": ""
+  },
+  {
+   "id": 4,
+   "en": "{07 16 00}{0b 03 00}{04 00 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 14 00} {07 08 00}{01 00 00 05 00}I{01 00 00 05 00} hate\nbullies! And you're acting\nlike a big bully right now!",
+   "et": ""
+  }
+ ]
+}

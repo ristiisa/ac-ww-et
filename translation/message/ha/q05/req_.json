@@ -1,0 +1,20 @@
+{
+ "file": "script/ENG/message/ha/q05/req_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 00 00}It's weird,{01 00 00 05 00} I've got this bug\nabout interior design\nlately, {01 00 00 05 00}{04 02 00}.\nDon't judge, {01 00 00 05 00}{04 1f 00}!{01 00 00 0a 00}\nAnd if you find any \n{ff 00 00 07}{04 0f 00}{ff 00 00 00}...\n{07 0d 00}Come let me know with the\nquickness, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 14 00}You know what's really hot\nright now, {04 02 00}?{01 00 00 05 00}\n{0b 03 00}{ff 00 00 07}{04 0f 00}{ff 00 00 00}!\n{07 16 00}But since my budget gets\neaten by protein shakes,{01 00 00 05 00}\nI never have enough cash{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 0d 00}So as of now,{01 00 00 05 00} I'm accepting\nall donations of unwanted\n{ff 00 00 07}{04 0f 00}{ff 00 00 00}!",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 00 00}Y'know, {01 00 00 05 00}once I get into\nsomething, I get WAY into\nit, {07 0b 00}right, {01 00 00 05 00}{04 02 00}?\n{07 00 00}Right.{01 00 00 05 00} And what I'm into\nright now is collecting\n{ff 00 00 07}{04 0f 00}{ff 00 00 00}.\n{07 14 00}So if you find anything\nnice in that category,{01 00 00 05 00}\nbring me it, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  }
+ ]
+}

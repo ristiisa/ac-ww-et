@@ -1,0 +1,20 @@
+{
+ "file": "script/ENG/message/ta/q07/end_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 14 00}Hey,{01 00 00 0a 00} thanks again,\n{01 00 00 0a 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 14 00}Hey,{01 00 00 05 00} thank you so much, \n{01 00 00 0a 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 14 00}Thanks!{01 00 00 0a 00} I appreciate it, \n{01 00 00 0a 00}{04 02 00}!",
+   "et": ""
+  }
+ ]
+}

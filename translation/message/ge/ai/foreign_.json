@@ -1,0 +1,35 @@
+{
+ "file": "script/ENG/message/ge/ai/foreign_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 14 00}Hello, hello, hello!{01 00 00 0a 00} HELLO!{01 01 00}\n{07 03 00}Tee hee hee!{01 00 00 05 00}{07 00 00}{07 0e 00} Oh wow, did I,\nlike, scare you?{01 00 00 05 00}{07 00 00} Sorry!\nI just moved to this town!{01 00 00 05 00}\n{07 0d 00}I think we're gonna be\nBEST friends, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 14 00}Hi there, {01 00 00 05 00}{04 1f 00}!{01 01 00}\n{07 0b 00}It's ME!!{01 00 00 0f 00} {07 15 00}Um, you DO\nremember me, right?\n{07 14 00}{0b 03 00}{04 01 00}? Yep, that's\nme!{ff 00 00 08}\n\n{ff 00 00 00}And you're {ff 00 00 05}{04 00 00}{ff 00 00 00},\nright?{01 00 00 05 00} YAY! {07 0d 00}Now we can talk\nEVERY DAY, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 14 00}Oh, WOW!{01 00 00 0a 00} It's, like, you! Hey,\nyou! It's ME!{01 00 00 0f 00} {07 00 00}{07 0b 00}C'mon! You\nremember me, right?\n{ff 00 00 06}{07 06 00}{0b 03 00}{04 01 00}{ff 00 00 08}{01 00 00 05 00} {ff 00 00 00}from{ff 00 00 08}\n{04 10 00}{ff 00 00 00}?!{01 00 00 0a 00}{07 00 00}{07 0a 00} Of COURSE you\nremember me, silly! YAY ME!\n{07 00 00}{07 14 00}Let's totally hook up and\n{04 22 00} again,\n{01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 3,
+   "en": "{07 04 00}OHMIGOSH!{01 00 00 05 00} {0b 03 00}{04 1f 00}!!{01 00 00 0a 00} {07 14 00}It's\nbeen, like, FOREVER,\n{01 00 00 05 00}{04 02 00}!\n{07 00 00}{07 0b 00}We haven't seen each other\nsince back in\n{ff 00 00 08}{04 10 00}{ff 00 00 00}, right?{07 00 00}\n{07 14 00}Y'know, something about\nthat time just stuck with\nme, so{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}well, here I am!",
+   "et": ""
+  },
+  {
+   "id": 4,
+   "en": "{07 0b 00}Oh, wow! Like, hold on!{01 00 00 0f 00}\n{07 04 00}{0b 03 00}{04 1f 00}?{01 00 00 0f 00} {07 02 00}{0b 03 00}{04 1f 00}?!{01 00 00 0f 00}\n{07 1a 00}{0b 03 00}{04 02 00}!!!\n{07 00 00}Ohmigosh, {07 14 00}I just moved here\nfrom {ff 00 00 08}{04 10 00}{ff 00 00 00}! We're\ngonna be best friends!",
+   "et": ""
+  },
+  {
+   "id": 5,
+   "en": "{07 14 00}{0b 03 00}{04 1f 00}!!!{01 01 00} Oh, wow.\nYou're speechless, aren't\nyou, {01 00 00 05 00}{04 02 00}?\n{07 00 00}Folks from {04 03 00} love\nto {04 22 00}, so I\nmoved here!{01 00 00 05 00}\n{07 0a 00}I hope we can hang out\nsometime, {04 1f 00}! We'll\nhave TONS of fun!",
+   "et": ""
+  }
+ ]
+}

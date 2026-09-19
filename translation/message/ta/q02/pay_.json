@@ -1,0 +1,20 @@
+{
+ "file": "script/ENG/message/ta/q02/pay_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "I hate to say it, but you{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00}\nyou{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00}w{01 00 00 05 00}-won.\n\nAs a token of your victory,\nplease accept my\n{0b 02 00}{04 1b 00}!",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "Apparently, you completely \ndefeated me{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}. Since this is\nsuch a rare occasion,\nplease take my\n{0b 02 00}{04 1b 00}\nto remember it by.",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "Oh, well. {01 00 00 05 00}Here, {01 00 00 05 00}take my\n{0b 02 00}{04 1b 00}\nin exchange for your fish.",
+   "et": ""
+  }
+ ]
+}

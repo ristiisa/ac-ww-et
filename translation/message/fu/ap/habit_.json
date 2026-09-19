@@ -1,0 +1,85 @@
+{
+ "file": "script/ENG/message/fu/ap/habit_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 00 00}{0b 03 00}{01 06 00}Um{01 07 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0f 00} \n{0b 03 00}{04 1f 00}, I've got a\nstrange question for you.\nDo you think it's true that\n{07 0b 00}the way you talk says a lot\nabout your personality?\n{07 00 00}Because I've been getting\ntired of saying the same\nold thing all the time.\n{07 14 00}I thought you might like\nto come up with a new\ncatchphrase for me.",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{0b 03 00}{01 06 00}Oh, hey{01 07 00}!\nSo, {01 00 00 05 00}{04 1f 00}...\n\nHave you noticed that I say\n{04 02 00} an awful lot,\n{01 00 00 05 00}{04 02 00}?\n{07 06 00}Do you think that's weird?{01 01 00}{07 00 00}\nOnce I noticed, {01 00 00 05 00}{07 1c 00}I got really\nself-conscious about it.\n{07 00 00}Can you think of something\nbetter, {01 00 00 05 00}{04 02 00}?\n{01 00 00 05 00}{07 04 00}Ah! I said it again!",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{06 00 00 0e 0f}",
+   "et": ""
+  },
+  {
+   "id": 3,
+   "en": "{07 16 00}Simple is usually\nbest, {01 00 00 05 00}{04 02 00}.\nThat's what I think.",
+   "et": ""
+  },
+  {
+   "id": 4,
+   "en": "{07 0a 00}That's great! I'm glad you\nwant to help.{01 00 00 0f 00}{07 14 00} All right,\nmake it special!",
+   "et": ""
+  },
+  {
+   "id": 5,
+   "en": "{07 14 00}That's great! Try to think\nup something that doesn't\nmake me sound dumb, OK?",
+   "et": ""
+  },
+  {
+   "id": 6,
+   "en": "{07 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}So,{01 00 00 0a 00}{07 0b 00} you think I should\nrun around shouting\n\"{ff 00 00 02}{04 02 00}{ff 00 00 00}\" all the time?",
+   "et": ""
+  },
+  {
+   "id": 7,
+   "en": "{07 0a 00}{0b 03 00}{04 02 00}! I like the\nsound of that. It makes me\nsound...dignified.\n{07 00 00}From now on, you'll hear\nnothing but {04 02 00}\nfrom me, {07 14 00}{01 00 00 05 00}{04 02 00}.",
+   "et": ""
+  },
+  {
+   "id": 8,
+   "en": "{07 0d 00}Yes! {01 00 00 05 00}{0b 03 00}{04 02 00}!{01 00 00 0f 00} I like\nthe sound of that! It's me,\n{01 00 00 05 00}{04 02 00}! It's fresh!\n{07 14 00}{0b 03 00}{04 1f 00},{01 00 00 0f 00} I feel like a\nnew person--no, I feel like\nI'm finally who I should be!",
+   "et": ""
+  },
+  {
+   "id": 9,
+   "en": "{07 14 00}{0b 03 00}{01 06 00}How's it going{01 07 00}!{01 00 00 0f 00}\n{07 00 00}I read in a book that if\ntwo kids become friends,\nthey sometimes make up\ntheir own secret greeting\nthat only they know.\n{0b 03 00}{04 1f 00}, {01 00 00 05 00}{07 0b 00}why don't you\nand I create a secret\nsaying, {01 00 00 05 00}{04 02 00}?",
+   "et": ""
+  },
+  {
+   "id": 10,
+   "en": "{07 0b 00}Have you noticed how tough\nit is to keep up with the\nlatest slang, {01 00 00 05 00}{07 0b 00}{04 1f 00}?\n{07 00 00}Well, I'm sick of being\nbehind the curve. Let's\nmake up our own slang!\n{07 14 00}Then, maybe we'll be the\nones starting the trends\naround here, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 11,
+   "en": "{07 00 00}\"{0b 03 00}{ff 00 00 02}{01 06 00} {01 07 00}{ff 00 00 00}\"...\nYeah!\n\n{07 0b 00}So, it's \"{ff 00 00 02}{01 06 00} {01 07 00}{ff 00 00 00},\" \nright?",
+   "et": ""
+  },
+  {
+   "id": 12,
+   "en": "{07 00 00}{0b 03 00}{ff 00 00 02}{01 06 00} {01 07 00}{ff 00 00 00}!{01 00 00 0f 00}\n{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 14 00}How was that? Do you like\nthe sound of it?\n{07 00 00}From now on, that's how I'm\ngoing to greet you when I\nsee you, {01 00 00 05 00}{04 02 00}!\nCome chat with me\nsometime, and I'll try it\nout on you, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 13,
+   "en": "{07 00 00}{0b 03 00}{ff 00 00 02}{01 06 00} {01 07 00}{ff 00 00 00}!{01 00 00 0f 00}\n{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 0b 00}So what do you think?\n\n{07 13 00}Remember, {04 1f 00}, this\nis our own secret greeting,\nso don't go sharing it!\n{07 00 00}It's going to take some\ngetting used to, but I'll\nkeep trying, {01 00 00 05 00}{04 02 00}.\n{07 0d 00}Promise you'll come talk to\nme a lot, so I can practice\non you more, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 14,
+   "en": "{07 16 00}You're right, {01 00 00 05 00}{04 02 00}.{01 00 00 0f 00}\nIt was wrong of me to want\nto change who I am.\n{07 14 00}I have to learn to like\nmyself--and the things I\nsay, too, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 15,
+   "en": "{07 04 00}That's true, {01 00 00 05 00}{04 02 00}.{01 00 00 0f 00}{07 00 00}\nIt doesn't matter what I\nsay, as long as it's unique.\n{07 0d 00}That's what makes it--and\nme--special, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  }
+ ]
+}

@@ -1,0 +1,60 @@
+{
+ "file": "script/ENG/message/ta/q10/layout_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 16 00}Wow, your place{01 00 00 0a 00} is really\nmessy! {01 00 00 0a 00}No offense, but\nyou're a huge slob!\n{07 1b 00}If you're not using\nsomething, you should really\nget rid of it!\n{07 1c 00}If someone gave you\n{04 12 00} out of five,\nyou really couldn't argue.",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 00 00}Don't you think {01 00 00 05 00}you should\nreally get rid of {07 0b 00}some of\nthis excess stuff?\n{07 00 00}You could sell it and donate\nto {ff 00 00 08}Boondox{ff 00 00 00}. All their stuff\nis made of dirt, you know.\n{07 1c 00}Sorry, but until you tidy\nup, your place only gets\n{04 12 00} out of five.",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": ".{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}I know why this room \nlooks so scattered,\n{01 00 00 0a 00}{04 02 00}.\n{07 00 00}It's because you haven't\nset your furniture up well.\n\n{07 16 00}Unless you have a reason to\nline everything up against\nthe walls{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.\n{07 1b 00}Well, I can only give your\nplace {04 12 00} out of five\nstars, {01 00 00 0a 00}{04 02 00}.",
+   "et": ""
+  },
+  {
+   "id": 3,
+   "en": "{07 00 00}Hey, {01 00 00 0a 00}{07 0b 00}are you trying to be\nartsy by putting the piece\nso it faces the wall?\n{07 16 00}It looks hard to use that\nway{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}. But are you trying to\nmake a statement?\n{07 19 00}I think{01 00 00 05 00} objectivity is of\nthe utmost importance when\nexpressing oneself.\n{07 14 00}So that's why{01 00 00 05 00} I'm giving\nyour place {07 00 00}{04 12 00} out of\nfive stars, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 4,
+   "en": "{07 16 00}Hey, {01 00 00 05 00}{04 1f 00},{01 00 00 0a 00} do you{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n{07 0b 00}actually LIVE in this house?\n\n{07 0e 00}I noticed that you don't\neven have the most basic\nof pieces, so I wasn't sure.\n{07 16 00}Living in a place like this\nwould make my face break\nout!\n{07 1b 00}Out of five stars, I would\ngive this house {04 12 00}!",
+   "et": ""
+  },
+  {
+   "id": 5,
+   "en": "{07 16 00}This room is just so{01 00 00 05 00} \nblah, {01 00 00 0a 00}{04 02 00}.\n\n{07 0b 00}It's because you don't even\nhave the basic furniture\npieces.\n{07 14 00}I couldn't live in a place\nlike this! {01 00 00 05 00}It would be like\nroughing it all the time!\n{07 1b 00}Out of five possible stars,\n{01 00 00 05 00}I'd give this room\n{04 12 00}.",
+   "et": ""
+  },
+  {
+   "id": 6,
+   "en": "{07 00 00}Hey, {04 1f 00}. If you fill\nyour room with the same\ntype of furniture,\nit can end up looking quite\nsophisticated. \n\n{07 1b 00}So, if one piece, no matter\nhow expensive, doesn't fit,{01 00 00 05 00}\nit can ruin the mood.\n{07 00 00}On the {ff 00 00 02}Ms. Nintendique{ff 00 00 00}\nfive-star rating system,{01 00 00 05 00}\nyour place gets {04 12 00}!\n{07 00 00}I hope you're not offended \nby my advice{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00} {07 14 00}And I really\nhope you'll take it!",
+   "et": ""
+  },
+  {
+   "id": 7,
+   "en": "{07 00 00}Hey, {01 00 00 05 00}you know how furniture\nin hotels always looks so\nfancy, {01 00 00 05 00}{04 02 00}?\n{07 14 00}It's because it all{01 00 00 0a 00}\nfeels like it goes together.\n\n{07 0b 00}What if you were to try to \ndo the same thing? It'd be\npretty luxe, huh!\n{07 1b 00}Out of a possible five\nstars, your place gets\n{04 12 00}, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 8,
+   "en": "{07 00 00}Hey, {04 1f 00}.{01 00 00 14 00} {07 16 00}I know\nit's hard to get a whole\nseries of furniture,\n{07 14 00}but you'd be impressed at \nhow a room looks when it\ncomes together!\n{07 15 00}Right now, at {04 12 00},\nyour room isn't a\ncomplete disaster...\n{07 19 00}but I'd encourage you to{01 00 00 05 00}\nstrive for more, \n{01 00 00 05 00}{04 02 00}!{07 14 00}",
+   "et": ""
+  },
+  {
+   "id": 9,
+   "en": "{07 00 00}Hey, {01 00 00 0a 00}{04 1f 00},{01 00 00 14 00} I thought\nyou were trying {07 0b 00}to collect\na series.\n{07 00 00}A room that's decorated\nwith an entire series {07 0d 00}is\nreally a sight to see.\n{07 14 00}You should give it a try.\n{07 14 00}If you do, maybe you'll get\nmore than {04 12 00}! ",
+   "et": ""
+  },
+  {
+   "id": 10,
+   "en": "{07 04 00}Hmmm.{01 00 00 0a 00} I'm really very\nimpressed {07 14 00}at what you've\naccomplished!\nI have nothing to say about\nthis place. {07 1a 00}You earned a\n{04 12 00} score!\nHonestly, {01 00 00 05 00}your place is ten\ntimes better than mine!",
+   "et": ""
+  }
+ ]
+}

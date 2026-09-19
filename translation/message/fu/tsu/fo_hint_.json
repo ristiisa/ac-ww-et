@@ -1,0 +1,20 @@
+{
+ "file": "script/ENG/message/fu/tsu/fo_hint_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 16 00}I'm not having any luck\nfinding fossils today!\n\n{07 15 00}I guess just picking a spot\nin the ground and digging\naway won't cut it!\n{07 00 00}The only thing I'm\ndigging up is a whole lot of\nboredom, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "The {ff 00 00 07}shovel {ff 00 00 00}is a must-have\nitem when you're out in the\nfield digging for fossils.\nGo crazy with your digging\nbecause, unlike an {ff 00 00 07}axe{ff 00 00 00},\nyour shovel won't break!",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "If you see a mark on the\nground, whip out your\nshovel and dig, dig, dig!\n{07 14 00}You never know what you'll\nturn up, {01 00 00 05 00}{04 02 00}.",
+   "et": ""
+  }
+ ]
+}

@@ -1,0 +1,20 @@
+{
+ "file": "script/ENG/message/ta/q06/con_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 0b 00}{01 00 00 0a 00}Hey, {01 00 00 0a 00}did you deliver it for\nme?\n\n{07 19 00}{0b 03 00}{ff 00 00 06}{04 10 00}{ff 00 00 00} can be pretty\nshort tempered, so{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 01 00}{07 14 00}please\ndeliver it on time.",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{01 00 00 0a 00}{07 14 00}{01 00 00 0a 00}Oh, hey,{01 00 00 14 00}{07 14 00} so what did\n{ff 00 00 06}{04 10 00} {ff 00 00 00}say?\n\n{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 04 00}{01 00 00 14 00}What?!{01 00 00 14 00} You still haven't\ndelivered my present yet?\n\n{07 00 00}It's fine to be laid-back,{01 00 00 14 00}\nbut you took this job...\nSo finish it, {01 00 00 0a 00}{04 02 00}!!",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 16 00}Hey, you know that present\nI asked you to deliver?{01 00 00 14 00} Do\nyou still have it?\nWhy do you still have it?!{01 00 00 14 00}\n{07 15 00}You're supposed to deliver\nit to {ff 00 00 06}{04 10 00}{ff 00 00 00}{01 00 00 14 00}{01 08 00} ON TIME!",
+   "et": ""
+  }
+ ]
+}

@@ -1,0 +1,15 @@
+{
+ "file": "script/ENG/message/ha/q02/pdraw_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 04 00}Punch me silly!{01 00 00 0a 00}\n{0b 03 00}{01 00 00 05 00}{04 1c 00},\n{01 00 00 05 00}{04 02 00}!\n{07 14 00}But I've got\n{04 1d 00}.{01 00 00 05 00}\nThat's a heck of a pair!\n{07 00 00}This is one tough bout\nto call, champ. {01 00 00 05 00}I can just\nhear the announcer...\n{07 11 00}\"It's a double KO!{01 00 00 05 00}\nWhat a shocker, folks! We've\ngotta call this one a draw!\"\n{07 00 00}Here, take back your\n{0b 02 00}{04 1c 00},\n{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 1d 00}Jumpin' gerbils!{01 00 00 0a 00} It's\n{04 1c 00},\n{01 00 00 05 00}{04 02 00}!\n{07 0e 00}Craziness. I got\n{07 0d 00}{04 1d 00}!\n\n{07 00 00}They're about equally rare,{01 00 00 05 00}\nso I'd say it's pretty much\na wash.\n{07 14 00}Go ahead and take your{01 00 00 05 00}\n{0b 02 00}{04 1c 00}\nback, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  }
+ ]
+}

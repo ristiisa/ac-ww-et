@@ -1,0 +1,20 @@
+{
+ "file": "script/ENG/message/fu/q12/other_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 16 00}Boy, I can barely remember\nthe past few days.{01 00 00 05 00} I had\nthe worst fever.\n{07 00 00}I was dizzy all the time,\nand I thought I was gonna\nlose it.\n{07 16 00}I don't know what I would\nhave done if {ff 00 00 05}{04 10 00}\n{ff 00 00 00}didn't have that {ff 00 00 07}medicine{ff 00 00 00}.",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 16 00}I don't know if you've been\naround, but I had the worst\ncold for the past few days.\n{07 0e 00}If {ff 00 00 05}{04 10 00} {ff 00 00 00}hadn't\nbrought me that {ff 00 00 07}medicine{ff 00 00 00},\nI'd{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.\n{07 06 00}I don't know what I'd have\ndone! I'm so lucky to have\nsuch caring friends!",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 16 00}{0b 03 00}{04 1f 00},{01 00 00 05 00} where have you\nbeen? {01 00 00 05 00}I've been sick with\nan awful fever for days.\n{07 00 00}Thank goodness {ff 00 00 05}{04 10 00}{ff 00 00 00}\ncame by with that {ff 00 00 07}medicine{ff 00 00 00}!\n\nOtherwise, I'd still be\nsneezing myself red in the\nface, {01 00 00 05 00}{04 02 00}!\n{07 0a 00}I'm just glad I'm finally\nfeeling better!",
+   "et": ""
+  }
+ ]
+}

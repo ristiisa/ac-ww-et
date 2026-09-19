@@ -1,0 +1,210 @@
+{
+ "file": "script/ENG/message/sp/etc/sequence4_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "Yo ho ho, me hearty!{01 00 00 05 00}\nWe've made landfall!\n\nWelcome to {04 03 00}!\n\n\nIf ye got any questions,\nye'll be wantin' to head to\nthe {ff 00 00 08}town hall{ff 00 00 00}, right there.\nYar, all right, then...{01 00 00 05 00}\nBest o' luck to ye,{01 00 00 05 00}\n{04 00 00}!",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "Yo ho ho, me hearty!{01 00 00 05 00}\nWe've come ashore!\n\nHere it is, {ff 00 00 05}{04 00 00}{ff 00 00 00}!{01 00 00 05 00}\nYer fair an' blessed\nkingdom{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0f 00}{04 03 00}!\nIf ye got any questions,\nye should head over to the\n{ff 00 00 08}town hall{ff 00 00 00}. {01 00 00 05 00}They'll help ye.\nYar, time to part, milady...{01 00 00 05 00}\nFarewell, {01 00 00 05 00}{04 00 00}!",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 00 00}.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}{07 1d 00}Oh! Goodness gracious!{01 00 00 14 00}\nYou must be {04 00 00}!{01 00 00 0f 00}\n{07 14 00}I am pleased to meet you!\n{07 00 00}My name is{ff 00 00 06} Pelly{ff 00 00 00}, and I am\na clerk here in the {ff 00 00 08}town\nhall{ff 00 00 00}.\n{ff 00 00 06}{07 14 00}Tom Nook {ff 00 00 00}was kind enough\nto tell me all about you,\n{04 00 00}...\nHe informed me that in\norder for new residents to\nfeel welcome,\nhe has prepared a residence\njust for them!{01 00 00 05 00} Yes!{01 00 00 05 00} It is a\ntouch modest, of course.\n{ff 00 00 06}Tom Nook{ff 00 00 00} has certainly{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\nbeen in a giving mood\nlately, I must say.\n{07 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}Anyway, {01 00 00 05 00}I am sure you are\nanxious to see your home!{01 01 00}\n{07 14 00}Well, this is it!",
+   "et": ""
+  },
+  {
+   "id": 3,
+   "en": "Well then, {04 00 00}...{01 00 00 0f 00}\n{07 14 00}I trust you can use this\n{ff 00 00 07}map {ff 00 00 00}to find your new home!\n{07 00 00}Oh, wait!{01 00 00 05 00} Do you know.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n{07 0b 00}how to pull your {ff 00 00 07}map{ff 00 00 00} out?{02 00 00 16 17}\nWhat?\nYep!",
+   "et": ""
+  },
+  {
+   "id": 4,
+   "en": "Huh? What?{01 00 00 0f 00} For some reason{01 00 00 05 00}\nI can't save right now.",
+   "et": ""
+  },
+  {
+   "id": 5,
+   "en": "{07 16 00}Ummm.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}who are you?",
+   "et": ""
+  },
+  {
+   "id": 6,
+   "en": "Hi there!{01 00 00 0a 00} I don't think we've\nmet.{01 00 00 05 00} I'm Mabel, that's Sable!{01 00 00 05 00}\nWelcome to our humble shop!\n{07 14 00}We here at {ff 00 00 02}Able Sisters{ff 00 00 00}{01 00 00 05 00}\nlook forward to serving{01 00 00 05 00}\nall your tailoring needs!",
+   "et": ""
+  },
+  {
+   "id": 7,
+   "en": "{07 04 00}Oh,{01 00 00 05 00} what happened?{07 00 00}\nDid you get lost?\n\nOh, you poor dear, you.{01 00 00 05 00}\nDo you need me to show you{01 00 00 05 00}\n{07 0b 00}how to look at your {ff 00 00 07}map{ff 00 00 00}?{02 04 00 16 18}\nYes.\nI'm fine!",
+   "et": ""
+  },
+  {
+   "id": 8,
+   "en": "{07 0b 00}Well, hoo there!{01 00 00 0a 00} Hootie hoo!\nI do believe.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00}{07 00 00}this is the\nfirst time we've met, eh?\nI am {ff 00 00 06}Blathers{ff 00 00 00}, and I am the\ncurator of the {ff 00 00 08}museum {ff 00 00 00}here\nin {04 03 00}!\n{07 14 00}Rather a capital job, too!{01 00 00 05 00}\nWell, it certainly is nice\nto meet you, {01 00 00 05 00}wot wot!",
+   "et": ""
+  },
+  {
+   "id": 9,
+   "en": "{07 22 00}Ah!{01 00 00 0a 00} Everything seems to\nbe in order!",
+   "et": ""
+  },
+  {
+   "id": 10,
+   "en": "{07 00 00}You are {04 00 00}, yes?{01 00 00 05 00}\nThe one who's supposed to\nmove here, hm?\nPhew! {01 00 00 05 00}I'm glad you made it\nin time!\n\n{07 0b 00}What do you think?\nYour house, it feels\ncomfortable, yes?{02 00 00 ff ff}\nI don't know...\nIt's OK.",
+   "et": ""
+  },
+  {
+   "id": 11,
+   "en": "{07 03 00}You'll get used to it the\nlonger you live there.{01 00 00 05 00}\nYou'll be fine, hm?\nI'm the proprietor of the\nshop--the only one in\ntown. I am{ff 00 00 06} Tom Nook{ff 00 00 00}!\n{07 14 00}In addition to running this\nshop,{01 00 00 05 00} I'm in construction...\nI build and remodel homes.\n{07 0e 00}Yes, but sadly, the {ff 00 00 02}loan\n{ff 00 00 00}on the house you're living\nin has yet to be paid off.\nI know you aren't the one\nwho built it, {04 00 00}...\n\n{07 19 00}But if you're going to live\nthere, I need you to pay\nit off, hm?{07 00 00}\n{07 04 00}Oh! But I wouldn't ask you\nto pay it off alone!\n\n{07 14 00}Everyone there would pitch \nin to pay it off together,\nyes?\n{07 00 00}So, {01 00 00 05 00}you probably want to\nknow how much of the {ff 00 00 02}loan{ff 00 00 00}\nis left, yes?{01 00 00 05 00} Well...{01 00 00 05 00}\n{07 0a 00}In total there are a mere\n{ff 00 00 02}{04 10 00} Bells{ff 00 00 00} remaining!{02 00 00 ff ff}\n...Seriously?!\nNo way!",
+   "et": ""
+  },
+  {
+   "id": 12,
+   "en": "{07 03 00}Oh ho ho ho ho ho ho!{01 00 00 0f 00}\nNot to worry, hm?\n\n{07 14 00}I wouldn't ask you to \npay it off all at once!\n\n{07 00 00}Every time you lie down on\nyour {ff 00 00 02}bed in the attic{ff 00 00 00}, your\nprogress will be saved!\nSo just pay it off bit by\nbit every day at the {ff 00 00 08}town\nhall{ff 00 00 00}, that's all I ask, hm?{02 00 00 1a 1a}\nNo way!\nI'm gonna cry!",
+   "et": ""
+  },
+  {
+   "id": 13,
+   "en": "{07 00 00}You're {04 00 00}, yes?{01 00 00 05 00}\nThe youth that ordered this\nsplendid house?\nPhew!{01 00 00 05 00} I'm glad you made it\nin time!\n\n{07 0b 00}So, what do you think?{01 00 00 05 00}\nLooks quite cozy and\ncomfortable, hm?{02 00 00 ff ff}\nI don't know...\nIt's OK.",
+   "et": ""
+  },
+  {
+   "id": 14,
+   "en": "{07 03 00}Oh ho ho ho ho ho ho!{01 00 00 0f 00}\nNot to worry! Not to worry!\n\n{07 00 00}I don't know what town you\nmoved here from, but...{01 00 00 05 00}\n\nNo matter where you're\nfrom, {ff 00 00 02}loans{ff 00 00 00} are all paid\noff in the same way, yes?\n{07 0d 00}Just deposit Bells into my\naccount little by little.{01 00 00 05 00}\nEasy as pie, yes?\n{07 00 00}Beyond that,{01 00 00 05 00} the only\nthings you need are just\nday-to-day conveniences.\n{07 19 00}You'll find these things and\nmore at my shop, hm?{07 00 00}{01 00 00 05 00}\nAnd you should know...\nI might carry a few items\nthat are different from\nwhat you're used to, yes?\n{07 14 00}You should stop by and{01 00 00 05 00}\ncheck out our selection!{01 01 00}\nSee you soon, hm?",
+   "et": ""
+  },
+  {
+   "id": 15,
+   "en": ".{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}Yes, yes,{01 00 00 05 00} hello.{01 00 00 14 00}\n\n\nMy name is {ff 00 00 06}Tom Nook{ff 00 00 00}.\n{07 14 00}I'm the proprietor of the\nshop in this town.\n{07 19 00}Perhaps you know, but I\nactually built this house...{07 00 00}\n\n{07 1d 00}Oh, {01 00 00 0a 00}not to worry!{01 00 00 0f 00}\n{07 00 00}The {ff 00 00 02}loan{ff 00 00 00} on this place is\nalready paid off, hm?\n{07 19 00}No, no,{01 00 00 05 00} I no longer have any\nclaim on this domicile...\n\n{07 00 00}I had just heard that{01 00 00 05 00}\nsomeone new was coming to\ntown today, so...\n{07 14 00}I just came here out of\ncuriosity, hm?{02 00 00 ff ff}\nWell, thanks!\nNice to see you!",
+   "et": ""
+  },
+  {
+   "id": 16,
+   "en": "{07 19 00}Yes, yes,{01 00 00 05 00} well, the pleasure\nis all mine, hm?{07 00 00}\n\nI know this will sound like a\ncommercial but{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n\n{07 14 00}If you wish to go shopping,{01 00 00 05 00}\nthe store in {04 03 00}\nis second to none!\n{07 19 00}We have everything you\nmight need or want!{07 00 00}\n\n{07 17 00}And on top of that,{01 00 00 05 00} the\nowner really knows how to\ntake care of his clients!\n{07 00 00}So, if you ever get lonely,{01 00 00 05 00}\ngo to {ff 00 00 06}Tom Nook{ff 00 00 00}'s shop, hm?\n\n{07 14 00}Yes, all your needs will be{01 00 00 05 00}\nmet at {ff 00 00 06}Tom Nook{ff 00 00 00}'s shop.{01 00 00 05 00}.{01 00 00 05 00}.{01 01 00}\n{07 17 00}That's it {01 00 00 05 00}in a nutshell, hm?\n{07 00 00}We look forward to serving\nyou with vim and vigor!{01 00 00 05 00}\n{07 14 00}See you soon, yes?",
+   "et": ""
+  },
+  {
+   "id": 17,
+   "en": "Ah, but{01 00 00 05 00} from what I can\nsee, {04 00 00},{01 00 00 05 00} you're{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n\n{07 16 00}I don't mean to be rude{01 00 00 0a 00}\nbut you don't seem very\ndomestic{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 00 00}Have you ever lived{07 0b 00} alone\nbefore?{01 00 00 14 00} Will you be OK?{02 00 00 1b 1b}\nI'll be fine!\n...I'm not sure.",
+   "et": ""
+  },
+  {
+   "id": 18,
+   "en": "{07 14 00}Well, this is {04 03 00}'s\n{ff 00 00 08}town hall{ff 00 00 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.",
+   "et": ""
+  },
+  {
+   "id": 19,
+   "en": "{07 0b 00}So,{01 00 00 05 00} what is it that I can do\nfor you today?{02 00 00 02 02}\nI moved in!\nI came by cab!",
+   "et": ""
+  },
+  {
+   "id": 20,
+   "en": "{07 04 00}Hoo,{01 00 00 05 00} cheers, my dear!\nAre you new to our quaint\nlittle burg?\n{07 00 00}My name is{ff 00 00 06} Celeste{ff 00 00 00}, and I\nam the caretaker of our\nlovely {ff 00 00 08}observatory{ff 00 00 00}!\n{07 14 00}I'm simply pleased as punch\nto meet you, hootie-toot!",
+   "et": ""
+  },
+  {
+   "id": 21,
+   "en": "I'm not in at the moment.\n\nPlease come again later!",
+   "et": ""
+  },
+  {
+   "id": 22,
+   "en": "{07 00 00}To check your {ff 00 00 07}map{ff 00 00 00}, tap the\n{ff 00 00 01}arrow {ff 00 00 00}in the upper-right\ncorner of the {ff 00 00 01}Touch Screen{ff 00 00 00}.\nThen touch the {ff 00 00 01}house\nicon {ff 00 00 00}along the top.{01 00 00 05 00}\n\nYou can also press the\n{ff 00 00 01}X Button on your\nNintendo DS{ff 00 00 00}.\n{07 14 00}All right, then,{01 00 00 05 00} good-bye,\nand please come again!",
+   "et": ""
+  },
+  {
+   "id": 23,
+   "en": "{07 14 00}All right, then,{01 00 00 05 00} good-bye\nand please come again!",
+   "et": ""
+  },
+  {
+   "id": 24,
+   "en": "{07 14 00}If you please, use the {ff 00 00 07}map\n{ff 00 00 00}to find your house.",
+   "et": ""
+  },
+  {
+   "id": 25,
+   "en": "Mmmm! Mmmm! Mmmmm!{01 00 00 05 00}\nIt's so comfy and soft!\n\n\n...But I still can't sleep!",
+   "et": ""
+  },
+  {
+   "id": 26,
+   "en": "Worry not! {01 00 00 05 00}Worry not, hm?{01 00 00 14 00}\n{07 19 00}If you want to know about\nmaking money, I'll tell you!\n{07 00 00}Yes, actually, I COULD\nexplain it to you, but...\n\n{07 14 00}It's better to learn\nthrough living than\nlistening, yes?\n{07 00 00}Why don't you come work\npart-time at my shop, hm?\n\nYou'll earn some money and{01 00 00 05 00}\nlearn about living in town!{01 00 00 05 00}\n{07 0b 00}Two birds, one stone, hm?\n{07 19 00}Yes, yes!{01 00 00 0a 00} What a great idea!\nAbsolutely top-notch!{01 00 00 05 00} Yes!{01 00 00 14 00}\n{07 00 00}It's official!{01 00 00 0f 00}\nWhy don't you come by the\nshop in a little bit then,\nhm? \nIf you don't know where the\nshop is, then check your\n{ff 00 00 07}map{ff 00 00 00}. {01 00 00 05 00}It's simple, yes?\n{07 14 00}Well then,{01 00 00 05 00} I'll be waiting for\nyou at the store!{01 00 00 05 00}\nCome on by!",
+   "et": ""
+  },
+  {
+   "id": 27,
+   "en": "{07 16 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}Hm...{01 00 00 05 00} I feel it is my duty\nto help you, yes?\n\n{07 0c 00}Say,{01 00 00 0f 00}{07 0b 00} how would you like to\nwork part-time at my store\nfor a while?{07 00 00}\n...At least until you get\nused to {04 03 00}?\n\n{07 00 00}I was just thinking that{01 00 00 05 00}\nI could use an extra pair\nof hands and...\nWhy, {04 00 00}, I can\nteach you the ins and outs\nof living here!\n{07 19 00}Yes!{01 00 00 0a 00} That's it!{01 00 00 05 00} Perfect!{01 00 00 0f 00}\nDone and done!{01 00 00 0f 00}\n\n{07 00 00}Why don't you come by the\nstore later, hm?\n\nIf you don't know where it\nis, check your{ff 00 00 07} map{ff 00 00 00}.\n\n{07 14 00}Well then, {01 00 00 05 00}I'm going to go\non ahead, so pardon me.{01 00 00 05 00}\nI'll be waiting for you!",
+   "et": ""
+  },
+  {
+   "id": 28,
+   "en": "{07 03 00}You'll get used to it soon \nenough. {01 00 00 05 00}Not to worry, hm?\n\n{07 00 00}Allow me an introduction.{01 00 00 05 00}\nMy name is {ff 00 00 06}Tom Nook{ff 00 00 00}, and I\nown the store in this town.\nIn addition to running the\nstore,{01 00 00 05 00} {07 19 00}I build and remodel\nexisting homes.{07 00 00}\n{07 00 00}I built your house just as\nyou ordered,{01 00 00 05 00} so I trust\nyou'll pay it off, hm?\nOnce you've paid it off, \nit's all yours, {04 00 00}!\n\n{07 00 00}Ah, yes, of course, the\nquestion of cost...{01 00 00 05 00}\n\nWell, the total comes to...{01 00 00 05 00}\na mere {ff 00 00 02}{07 0a 00}{04 10 00} Bells{ff 00 00 00}!{02 00 00 ff ff}\nAre you serious?\nI can't pay that!",
+   "et": ""
+  },
+  {
+   "id": 29,
+   "en": "{07 14 00}Ohh, wow, you like that\n{0b 02 00}{04 1c 00}?{01 00 00 05 00}\nIt's one of my favorites!",
+   "et": ""
+  },
+  {
+   "id": 30,
+   "en": "{07 14 00}Ohh, you're looking at that\n{0b 02 00}{04 1a 00}.{01 00 00 0f 00}\nNice, huh?",
+   "et": ""
+  },
+  {
+   "id": 31,
+   "en": ".{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}Welcome to the {ff 00 00 08}Roost{ff 00 00 00}.",
+   "et": ""
+  },
+  {
+   "id": 32,
+   "en": "{07 14 00}Welcome to {04 03 00}'s\n{ff 00 00 08}town hall{ff 00 00 00}.\n\nYes, {01 00 00 05 00}that's right,{01 00 00 0f 00} I've been\nexpecting you, {04 00 00}.\n\n{07 00 00}Allow me to show you where\nyour house is located.\n{07 14 00}{01 00 00 05 00}It's right here!",
+   "et": ""
+  },
+  {
+   "id": 33,
+   "en": "Well then, {04 00 00}...{01 00 00 0f 00}\n{07 14 00}I hope you can use the {ff 00 00 07}map\n{ff 00 00 00}to try to find your home.",
+   "et": ""
+  },
+  {
+   "id": 34,
+   "en": "Hey!{01 00 00 03 00} Ho!{01 00 00 03 00} You there!",
+   "et": ""
+  },
+  {
+   "id": 35,
+   "en": "{07 00 00}.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}{07 1d 00}Oh, hello there!{01 00 00 14 00} So you're\n{04 00 00}!{01 00 00 0f 00} {07 14 00}It's so nice to\nmeet you!\n{07 00 00}I'm the clerk here. My\nname is {ff 00 00 06}Pelly{ff 00 00 00}!\n\n{07 14 00}I heard all about you from \n{ff 00 00 06}Tom Nook{ff 00 00 00}, {04 00 00}.{01 01 00}\n{07 00 00}Your house {07 14 00}is right here!",
+   "et": ""
+  },
+  {
+   "id": 36,
+   "en": "{07 00 00}.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}{07 1d 00}Oh, hello there!{01 00 00 14 00} You must\nbe {04 00 00}!{01 00 00 0f 00} {07 14 00}It's nice to\nmeet you!\n{07 00 00}I'm{ff 00 00 06} Pelly{ff 00 00 00}, the clerk here!{01 01 00}\n{ff 00 00 06}{07 14 00}Tom Nook {ff 00 00 00}told me that he\nwas expecting you.\nSo you'll be housemates\nwith {ff 00 00 05}{04 11 00}{ff 00 00 00}, {07 0b 00}is that\ncorrect?\n{07 14 00}My, well, that certainly\ndoes sound like fun!\n\n{07 00 00}Well, we have many\nresidents who live all\naround {04 03 00}.\n{07 14 00}Please, let me show you \nwhere your house is.{01 00 00 0a 00} It's\nright here!",
+   "et": ""
+  },
+  {
+   "id": 37,
+   "en": "{07 00 00}.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}{07 1d 00}Oh, goodness me!{01 00 00 14 00} You\nmust be {04 00 00}!{01 00 00 0f 00}\n{07 14 00}Welcome!\n{07 00 00}I'm {ff 00 00 06}Pelly{ff 00 00 00}, and I'm the clerk\nhere!{01 01 00} {ff 00 00 06}{07 14 00}Tom Nook {ff 00 00 00}already told\nme all about you.\nSo you'll be living with\n{ff 00 00 05}{04 11 00} {ff 00 00 00}and\n{ff 00 00 05}{04 12 00}{ff 00 00 00}, {07 0b 00}is that right?\n{07 14 00}That sounds like a lively\nbunch to live with, now\ndoesn't it?!\n{07 00 00}Well, we have many\nresidents who live all\naround {04 03 00}.\n{07 14 00}Please, let me show you \nwhere your house is.{01 00 00 0f 00}\nIt's here!",
+   "et": ""
+  },
+  {
+   "id": 38,
+   "en": "{07 00 00}.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}{07 1d 00}Oh, hello there!{01 00 00 14 00} So you're\n{04 00 00}, is that right?!{01 00 00 0f 00}\n{07 14 00}It's nice to meet you!\n{07 00 00}I'm{ff 00 00 06} Pelly{ff 00 00 00}, the clerk here!\n{ff 00 00 06}{07 14 00}Tom Nook {ff 00 00 00}told me that\nhe was expecting you.\nSo you'll be sharing a house\nwith {ff 00 00 05}{04 11 00}{ff 00 00 00},\n{07 0b 00}is that correct?\n{07 00 00}And also with \n{ff 00 00 05}{04 12 00} {ff 00 00 00}and\n{ff 00 00 05}{04 13 00}{ff 00 00 00}{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.\n{07 14 00}Goodness! Four people in one\nplace! That's a full house! \nWhat fun!\n{07 00 00}Well, we have many\nresidents who live all\naround {04 03 00} town.\n{07 14 00}Please, let me show you \nwhere your house is. {01 00 00 0a 00}It's\nright here!",
+   "et": ""
+  },
+  {
+   "id": 39,
+   "en": "{07 03 00}The longer you live here,\nthe more you'll get used to\nit, {01 00 00 05 00}so not to worry, hm?\n{07 00 00}I'm the owner of the shop\nhere. {01 00 00 05 00}I am {ff 00 00 06}Tom Nook{ff 00 00 00}!\n\n{07 14 00}In addition to being the \nproprietor of the shop,{01 00 00 05 00} I\nbuild and remodel houses...\n{07 0e 00}The thing is, {01 00 00 05 00}though no one\nlives in this house, {01 00 00 05 00}the\n{ff 00 00 02}loan {ff 00 00 00}still remains, yes?\nAnd even though you're not\nthe one who built it,\n{04 00 00}...\n{07 19 00}If you're going to live\nthere, I need you to pay\nit off, hm?{07 00 00}\n{07 00 00}So, {01 00 00 05 00}you probably want to\nknow how much of the {ff 00 00 02}loan\n{ff 00 00 00}is left, yes?{01 00 00 05 00} Well...{01 00 00 05 00}\n{07 0a 00}In total, the remaining Bell\nbalance is {ff 00 00 02}{04 10 00}{ff 00 00 00}!{02 00 00 ff ff}\n...Seriously?!\nNo way!",
+   "et": ""
+  },
+  {
+   "id": 40,
+   "en": "{07 23 00}Hut hut!{01 00 00 0f 00} Your face seems\nunfamiliar to me, stranger.{01 00 00 14 00}\nIdentify yourself, please{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.\n{07 24 00}I'm sorry? {01 00 00 05 00}What was that?{01 00 00 14 00}\nYou just recently moved to\nthis town, you say?\n{07 22 00}My{01 00 00 05 00} sincerest apologies!\n\n\n{07 00 00}My duty is to ensure{01 00 00 05 00} the\ncriminal element never\nbreaches these gates.\nYou may just call me\n{ff 00 00 06}{07 22 00}the gatekeeper{ff 00 00 00}!",
+   "et": ""
+  }
+ ]
+}

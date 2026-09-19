@@ -1,0 +1,20 @@
+{
+ "file": "script/ENG/message/ko/q01/req1_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 00 00}What's up with everyone\nbeing into bug catching\nlately?\n{07 16 00}The other day, my niece\ntold me she wanted\n{04 1a 00}!\n{07 00 00}So that's where you come\nin, OK?\n\nIf you happen to see\n{04 1a 00},\n{07 0b 00}can you catch it for me?\n{07 00 00}I'll keep my eye out for\none, too{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00} Come on, it\nwon't be so bad.\n{07 14 00}We can even make it\ninteresting. How about a\nlittle competition?",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 00 00}My niece is really into{01 00 00 05 00}\ncollecting bug specimens\nright now.\nThe crazy thing is,{01 00 00 05 00} I'm\nkinda into it now too.\nIt's ridiculous!\n{07 1b 00}Why don't we make this\nweird hobby into a\ncompetition?\n{07 0c 00}You can help, {01 00 00 05 00}{04 1f 00}!{01 00 00 14 00}\n{07 00 00}Just look out for \n{04 1a 00}.\n{07 14 00}If you nab one,{01 00 00 05 00} I'm just\na holler away, {01 00 00 05 00}{04 02 00}!{01 00 00 0f 00}",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 04 00}Oh, it's {01 00 00 0f 00}{04 1f 00}!{01 00 00 0f 00}\n{07 00 00}Hey, there's something I've\nbeen meaning to ask you.\nMy niece is all in a craze\nfor collecting bugs right \nnow. \nNow, she's really wanting\n{04 1a 00}\nfor her collection.\nIf you happen to see one,{01 00 00 05 00}\ncan you catch that beast\nand bring it to me?\n{07 14 00}If you somehow find one\nbefore I do, {01 00 00 05 00}I'll give you\nsome kind of cool prize.",
+   "et": ""
+  }
+ ]
+}

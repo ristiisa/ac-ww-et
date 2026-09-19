@@ -1,0 +1,20 @@
+{
+ "file": "script/ENG/message/bo/q02/req3_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 14 00}You're really good at\ncatching fish, right,\n{04 1f 00}?\n{07 00 00}OK{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} {07 0c 00}{01 00 00 0a 00}So,{01 00 00 14 00} next time, why\ndon't we compete based on\nkind of fish?{01 00 00 05 00} {0b 03 00}{04 02 00}!\n{07 14 00}We'll see who can catch the\nrarest fish{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00} And I'm not\ntalking about sushi here!",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 00 00}Say,{01 00 00 05 00} {04 1f 00}.{01 00 00 0a 00}{07 14 00} You know\nhow there are lots of\ndifferent kinds of fish?\n{07 19 00}Well, there are different\nkinds of fishers, too. {01 00 00 0a 00}Take\nyou, for instance.\nYou're the hero type. You\nswoop in, show off, and\ntalk big.{07 00 00}{01 00 00 0a 00} It's your thing.\n{07 14 00}But me, I'm more of a\nbehind-the-scenes sort of\nguy!\n{07 13 00}I stay kind of quiet and\ndon't like showing my face\ntoo much. {01 00 00 0a 00}I work subtly.\nSome even call me {ff 00 00 02}rare{ff 00 00 00}.\n{07 00 00}So, for our next\ncompetition{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n{07 0d 00}Let's compete to see who\ncan catch the {ff 00 00 02}rarest{ff 00 00 00} kind\nof fish!",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 16 00}I'll concede that you beat\nme at catching a fish\nfirst{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n{07 14 00}But when it comes to\ncatching rare fish, there's\nno beating me.{01 00 00 05 00} I rule!\n{07 00 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}Want to try me,{01 00 00 0a 00}\n{04 02 00}?",
+   "et": ""
+  }
+ ]
+}

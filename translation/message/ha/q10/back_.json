@@ -1,0 +1,20 @@
+{
+ "file": "script/ENG/message/ha/q10/back_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 04 00}Whoa!{01 00 00 0a 00} Look at the time!{01 01 00}\n{07 16 00}I gotta get home and do\nsome squat-thrust sets!\n{07 14 00}Later, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 00 00}Well, {01 00 00 05 00}guess I better roll\nout, {01 00 00 05 00}{04 02 00}!\n\n{07 14 00}I had a killer time, yo!",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 04 00}Wow, it's about that time!{01 00 00 0f 00}\n{07 14 00}Listen, this has been a ton\nof fun, {01 00 00 05 00}{04 02 00}!\n{07 0d 00}Next time I'll bring my\nAb Annihilator and we can\nsweat out some poundage!",
+   "et": ""
+  }
+ ]
+}

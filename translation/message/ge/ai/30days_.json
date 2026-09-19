@@ -1,0 +1,35 @@
+{
+ "file": "script/ENG/message/ge/ai/30days_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 04 00}OMIGOSH!{01 00 00 0a 00} {0b 03 00}{04 1f 00}? {01 00 00 0a 00}Is it\nreally you? {01 00 00 05 00}{0b 03 00}{04 02 00}?\nThis is so crazy!\n{07 16 00}Do you know how many\nmonths it's been since you\nabandoned me? {01 00 00 0f 00}{04 12 00}!\n{07 15 00}When you're not around,\n{01 00 00 05 00}it's just total Dullsville\naround here!",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 02 00}Whaaaaat?{01 00 00 0a 00} Is that you,\n{04 1f 00}?{01 01 00} {07 06 00}I'm in, like,\ntotal shock, {01 00 00 05 00}{04 02 00}!\n{07 16 00}You've been missing for a\ngazillion months! Well, OK,\nit's only been {04 12 00}.\n{07 06 00}I thought maybe you'd been\narrested for dining and\ndashing or something.",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 16 00}How many months does it\ntake to forget someone's\nface?{01 00 00 05 00} More than {04 12 00}, I bet!\n{07 0e 00}But seriously, {01 00 00 05 00}I think I've\nforgotten your name{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n{01 00 00 05 00}Was it {04 02 00}?\n{07 14 00}Gotcha! {01 00 00 05 00}I'm just being silly!{01 01 00}\nOf course I remember your\nname, {01 00 00 05 00}{04 1f 00}!",
+   "et": ""
+  },
+  {
+   "id": 3,
+   "en": "{07 02 00}WHOA!{01 00 00 0a 00} {0b 03 00}{04 1f 00}?{01 00 00 0f 00} {07 00 00}I went\non a {04 12 00}-month diet, {01 00 00 05 00}and\nlost {01 00 00 0a 00}{07 0d 00}five pounds!\nBut you weren't here, so{07 16 00} {01 00 00 05 00}I\ngained it all back. {01 00 00 0f 00}{07 1b 00}Oh, well.\nDiets are dumb.",
+   "et": ""
+  },
+  {
+   "id": 4,
+   "en": "{07 14 00}Hey!{01 00 00 05 00} {0b 03 00}{04 1f 00}!{01 00 00 0a 00} Long time\nno see,{01 00 00 05 00} {04 02 00}! {01 00 00 14 00}{07 15 00}You\nknow, while you were gone.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 04 00}Oh, {01 00 00 05 00}um, never mind.{01 00 00 0a 00} It's\nnothing! {01 00 00 14 00}{07 06 00}I SAID it's nothing,\nOK, {01 00 00 05 00}{04 02 00}?",
+   "et": ""
+  },
+  {
+   "id": 5,
+   "en": "{07 14 00}Hi there! Nice to meet you!{01 00 00 0a 00}\nI'm {04 01 00}!{01 01 00} {07 04 00}Hey! {01 00 00 05 00}Wait\na second!\n{07 06 00}Is that you, {04 1f 00}?{01 00 00 0a 00}\nWhy haven't I seen you\naround, {01 00 00 05 00}{04 02 00}?\n{07 00 00}Were you sick in bed?{01 00 00 05 00} {07 0b 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}No,\nof course not.{01 00 00 0a 00} {01 01 00}{07 14 00}Well,{01 00 00 05 00} glad to\nsee you looking so peppy!",
+   "et": ""
+  }
+ ]
+}

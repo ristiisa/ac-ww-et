@@ -1,0 +1,20 @@
+{
+ "file": "script/ENG/message/ta/q02/comp_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 14 00}So I decided to decorate\nmy room with a fish,\n{01 00 00 0a 00}{04 02 00}.\n{07 00 00}It turns out that it's a\npretty good confidante. {01 00 00 0a 00}Tee\nhee HEE hee hee!",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "You know what I hate?{01 01 00}\n{07 09 00}Coming home to a silent,\nempty house{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.\n{07 14 00}But I found a surefire way\nto end the loneliness in my\nlife, {01 00 00 05 00}{04 02 00}!\n{07 0a 00}I got a fish!",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 19 00}A fish totally changes the\nfeel of a place, don't you\nthink?{07 00 00}\n{07 14 00}My place feels like.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}some\nkind of natural healing spa\nnow, {01 00 00 0a 00}{04 02 00}!",
+   "et": ""
+  }
+ ]
+}

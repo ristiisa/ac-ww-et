@@ -1,0 +1,20 @@
+{
+ "file": "script/ENG/message/ha/q07/over_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": ".{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 04 00}Hey, isn't it past the\ndelivery time for that\nletter I gave you?\n{07 15 00}ARRGH!{01 00 00 0a 00} Man, that is IT!{01 00 00 05 00}\nI'm gonna do it myself!{01 00 00 05 00}\nGimme back my letter!\nWhile I'm gone,{01 00 00 05 00} do some\npunishment wind sprints or\nsomething, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 04 00}Huh?! {01 00 00 05 00}HEY! {01 00 00 05 00}{ff 00 00 05}{0b 03 00}{04 1f 00}{ff 00 00 00}!{01 00 00 14 00}\nYou still haven't delivered \nthat letter?\n{07 0f 00}Oh, man{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00} I guess you had\nother big, important things\nto do{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{04 02 00}.\n{07 16 00}Look, I'll just deal with it.{01 00 00 05 00}\nGimme that, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": ".{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 04 00}Whoa!{01 00 00 0a 00} Tell me that isn't\nthe letter I asked you to\ndeliver.{01 00 00 05 00} Please.\n{07 06 00}Awwwww, it IS! {01 00 00 05 00}And time's\nup!{01 00 00 05 00} So lame, {01 00 00 05 00}{04 02 00}!\n\n{07 15 00}Great. {01 00 00 05 00}Now I have to deal.{01 00 00 05 00}\nGimme that back, slacker!",
+   "et": ""
+  }
+ ]
+}

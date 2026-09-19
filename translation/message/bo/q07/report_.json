@@ -1,0 +1,20 @@
+{
+ "file": "script/ENG/message/bo/q07/report_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 04 00}Really?{01 00 00 14 00}{07 0d 00} That's great!{01 00 00 0a 00} Way to\ngo, {04 1f 00}!",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 14 00}Wow! Nice work!{01 01 00} {07 00 00}It's kind of\nlike{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00}{07 0d 00}you're Cupid or\nsomething!",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 0d 00}Yesss!{01 00 00 14 00} I knew I could trust\nyou,{01 00 00 0a 00} {04 02 00}!",
+   "et": ""
+  }
+ ]
+}

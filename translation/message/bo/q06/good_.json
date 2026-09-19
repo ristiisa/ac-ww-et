@@ -1,0 +1,20 @@
+{
+ "file": "script/ENG/message/bo/q06/good_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 0a 00}Yes,{01 00 00 0a 00} {04 02 00}!\n{0b 03 00}{ff 00 00 06}{04 10 00}{ff 00 00 00} has wanted\nthat outfit for a while!{07 00 00}",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 14 00}Phew!{01 00 00 0a 00} That's gooood news!{07 00 00}\nI wouldn't know what to do\nif it had been sent back!",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 14 00}Huh huh huh. That's good,{01 00 00 0a 00}\n{04 02 00}.\n\n{07 00 00}Besides, {ff 00 00 06}{04 10 00}{ff 00 00 00} is a\nSERIOUS clotheshorse! But\nkeep that between us, OK?",
+   "et": ""
+  }
+ ]
+}

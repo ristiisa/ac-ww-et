@@ -1,0 +1,20 @@
+{
+ "file": "script/ENG/message/ge/q03/con1_2_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 0e 00}Wow. I didn't think it would\nbe this hard to find a\nfossil, {01 00 00 05 00}{04 02 00}!\n{07 0f 00}I mean, aren't they just, \nlike, lying around?{01 00 00 0a 00} It's not\nlike you have to CATCH 'EM.",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 15 00}Fossil!{01 00 00 05 00} HELLO!{01 00 00 0a 00} A FOSSIL?!\nSHEESH!{01 00 00 05 00} Just go find one,\n{01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 15 00}I don't CARE which fossil!\nJust find one!{01 00 00 05 00} ANY ONE!{01 00 00 0a 00}\nGet me some old bones!\n{07 06 00}Getting fossils is my first\nstep towards fame and\nfortune, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  }
+ ]
+}

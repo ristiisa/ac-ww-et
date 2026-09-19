@@ -1,0 +1,30 @@
+{
+ "file": "script/ENG/message/ko/ai/anger_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 05 00}Can we do this later?{01 00 00 14 00} I'm\nsorry, but I really need a\nsecond alone.\nNothing personal, but{01 00 00 05 00} I'm\nabout to explode! You don't\nwanna be around for that.",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 01 00}I'm telling you that you \nwant to stay away from me,\n{01 00 00 05 00}{04 1f 00}!\nI don't want to gnaw your\nankle,{01 00 00 05 00} but at this rate,\nI just might, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 05 00}{01 08 00}AUGH!{01 00 00 14 00} Leave me alone!\n{0b 03 00}{01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 3,
+   "en": "{07 1b 00}Hey{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} Are you lookin' for a\nfight?{01 00 00 05 00} {07 01 00}Huh? Are ya? {01 00 00 05 00}Keep\nthis up and you'll find one!",
+   "et": ""
+  },
+  {
+   "id": 4,
+   "en": "{07 05 00}Shut up!{01 00 00 14 00} I'm in a really,{01 00 00 05 00}\nreally bad mood right now!",
+   "et": ""
+  }
+ ]
+}

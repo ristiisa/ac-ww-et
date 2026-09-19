@@ -1,0 +1,250 @@
+{
+ "file": "script/ENG/message/sp/npc/astro_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 27 00}{01 00 00 0f 00}Hrmmrmrmrm smack smack.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{01 01 00}\n{07 04 00}{01 00 00 0a 00}Oh! Dear me! Hootie-toot!\n\n{07 3b 00}I beg your pardon! I was\njust{01 00 00 0a 00} resting my eyes.\n\n{07 15 00}I was NOT napping! {01 00 00 05 00}No, I was\nnot! {01 00 00 0f 00}My brother may sleep\non the job, but I do not!",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 00 00}Oh, I beg your pardon. You\nwanted the{ff 00 00 02} telescope{ff 00 00 00}?\nMight I ask what for?{02 05 00 00 30 02}\nConstellations!\nStargazing!\nForget it.",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 00 00}Well, don't hesitate to ask\nif you change your mind,\nhootie-toot!",
+   "et": ""
+  },
+  {
+   "id": 4,
+   "en": "{07 27 00}{01 00 00 0f 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{01 01 00}{07 04 00}{01 00 00 0a 00}Oop!{01 00 00 14 00} Oh, no. Not again.\nHootie-toot!",
+   "et": ""
+  },
+  {
+   "id": 5,
+   "en": "{07 04 00}Oh, bother! Another\nconstellation already has\nthat name, I'm afraid.{07 00 00}\nI think each constellation\ndeserves a name of its\nown, don't you agree?\n{07 14 00}In order to avoid any undue\nconfusion, let's give it a\ndifferent name, shall we?",
+   "et": ""
+  },
+  {
+   "id": 7,
+   "en": "{07 14 00}Hootie-toot!{01 00 00 0a 00} Certainly!\nAlways glad to have a new\nsight for our night skies!",
+   "et": ""
+  },
+  {
+   "id": 8,
+   "en": "{07 00 00}Well, judging by the stars'\ncoordinates, hootie-toot{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}\nLet's take a look, shall we?\nAh! You should be best able\nto see it on {04 11 00}\n{04 12 00} at {04 13 00} {04 17 00}\nWould you care to log this\nparticular constellation\ninto my star charts?{02 04 00 09 23}\nYes, please!\nNo, thank you.",
+   "et": ""
+  },
+  {
+   "id": 9,
+   "en": "{07 14 00}Have you got a name in\nmind for this particular\nconstellation?",
+   "et": ""
+  },
+  {
+   "id": 11,
+   "en": "{07 14 00}Give me half a mo', and I'll\nmake a new entry for\n{04 0f 00}.",
+   "et": ""
+  },
+  {
+   "id": 12,
+   "en": "{07 00 00}Hoot! {01 00 00 0a 00}So you've decided not\nto stay after all?",
+   "et": ""
+  },
+  {
+   "id": 14,
+   "en": "{07 14 00}Ah, this is the {ff 00 00 08}observatory{ff 00 00 00},\nwhere you can gaze upon\nthe wonders of the stars!\nYou really should try out\nthe {ff 00 00 02}telescope{ff 00 00 00}. It's free,\nand it's absolutely brilliant!\n{07 00 00}And actually, I could use a\nbit of help, if it's not too\nmuch of a bother.\nSee, {ff 00 00 06}Blathers{ff 00 00 00} bought me a\ndiscounted star chart, but\nit, {01 00 00 05 00}ahem,{01 00 00 05 00} has a problem.\n{07 3b 00}It lacks constellations!{01 01 00} {07 0e 00}I\ngather that's what made it\nso affordable, hootie-toot!\n{07 00 00}This is where you'd come in\nmost handy. {01 00 00 05 00}{07 0d 00}You can create\nour constellations for us!\n{07 26 00}Doesn't the thought of it\nfluff your feathers? {01 01 00}{07 04 00}Oh,{01 00 00 0f 00}\nwell, {07 00 00}you know what I mean.\n{07 3b 00}I just get so thrilled at\nthe thought of all those\nbrand-new constellations!",
+   "et": ""
+  },
+  {
+   "id": 15,
+   "en": "{07 04 00}Hootie-TOOT!{01 00 00 0f 00} {07 3b 00}You're teasing\nme, aren't you?\n\n{07 15 00}Why don't you just take a\npeek through the {ff 00 00 02}telescope{ff 00 00 00}?",
+   "et": ""
+  },
+  {
+   "id": 16,
+   "en": "{07 00 00}So, what is it you wanted\nthe {ff 00 00 02}telescope {ff 00 00 00}for?{02 04 00 30 02}\nStargazing!\nNothing.",
+   "et": ""
+  },
+  {
+   "id": 17,
+   "en": "{07 00 00}Hootie-toot? Can I help you\nwith something?{02 05 00 0e 0f 02}\nWhere am I?\nYou're cute!\nNope! See ya!",
+   "et": ""
+  },
+  {
+   "id": 18,
+   "en": "{07 14 00}Brilliant, isn't it?",
+   "et": ""
+  },
+  {
+   "id": 19,
+   "en": "{07 00 00}So, {01 00 00 05 00}what were you\nwanting the {ff 00 00 02}telescope{ff 00 00 00} for?{02 04 00 35 02}\nTo see stars!\nOh, nothing.",
+   "et": ""
+  },
+  {
+   "id": 20,
+   "en": "{07 00 00}Taking a look through the\n{ff 00 00 02}telescope{ff 00 00 00}, are you? What is\nit that interests you?{02 06 00 18 35 1f 02}\nConstellations!\nStargazing!\nErasing!\nNothing...",
+   "et": ""
+  },
+  {
+   "id": 21,
+   "en": "{07 00 00}And which constellation\nwould you like {07 0b 00}to hear\nabout, hootie-toot?",
+   "et": ""
+  },
+  {
+   "id": 22,
+   "en": "{07 00 00}Oh, right, of course. {01 00 00 0a 00}Never\nyou mind, hootie-toot!",
+   "et": ""
+  },
+  {
+   "id": 23,
+   "en": "{07 0e 00}Hm, yes. The constellation\nof {04 15 00}?\n\n{07 14 00}If you'd like to see it, try\n{04 11 00} {04 12 00}, at\n{04 13 00} in the {04 17 00}",
+   "et": ""
+  },
+  {
+   "id": 24,
+   "en": "{07 00 00}Tell me, would you like to\nmake another constellation,\nhootie-toot?\nOr would you rather {07 0b 00}change\na constellation you've\nalready created?{02 05 00 00 1e 1a}\nMake a new one!\nChange one!\nNever mind...",
+   "et": ""
+  },
+  {
+   "id": 25,
+   "en": "{07 00 00}Are you sure {07 0b 00}you want to\nrob everyone of the sight\nof {04 15 00}?{02 04 00 1b 1c}\nErase it.\nWait, no!",
+   "et": ""
+  },
+  {
+   "id": 27,
+   "en": ".{01 00 00 0a 00}.{01 00 00 0a 00}.{01 00 00 0a 00}Well, {01 00 00 0a 00}{07 16 00}{04 15 00}\nis naught but{01 00 00 05 00} a meaningless\ncluster of stars once more.",
+   "et": ""
+  },
+  {
+   "id": 29,
+   "en": "{07 14 00}Brilliant. {01 00 00 0a 00}I expect it's\nbetter just to leave things\nas they are for now.",
+   "et": ""
+  },
+  {
+   "id": 30,
+   "en": "{07 00 00}Which constellation would \nyou{01 00 00 0a 00} like to remake?",
+   "et": ""
+  },
+  {
+   "id": 31,
+   "en": "{07 16 00}You really want to erase a\nconstellation?{01 01 00} {07 00 00}If you like.\nWhich one will it be?",
+   "et": ""
+  },
+  {
+   "id": 33,
+   "en": "{07 00 00}This constellation has now\nbeen reunited with its\nfellow stars{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.",
+   "et": ""
+  },
+  {
+   "id": 35,
+   "en": "{07 16 00}After all your hard work!\nAre you sure you want to\nerase your constellation?{02 00 00 21 09}\nErase it.\nNo, wait!",
+   "et": ""
+  },
+  {
+   "id": 38,
+   "en": "{07 00 00}What else can I help you\nwith, hootie-toot?{02 04 00 30 02}\nShow me stars!\nNothing at all.",
+   "et": ""
+  },
+  {
+   "id": 39,
+   "en": "{07 00 00}Is there more you were\ninterested in?{02 04 00 35 02}\nShow me stars!\nNope.",
+   "et": ""
+  },
+  {
+   "id": 40,
+   "en": "{07 00 00}How else can I be of\nservice? {01 00 00 05 00}Was there anything\nyou wanted to see or do?{02 06 00 18 35 1f 02}\nConstellations!\nStargazing!\nErasing!\nNothing!",
+   "et": ""
+  },
+  {
+   "id": 41,
+   "en": "{07 00 00}What else are you\ninterested in, hootie-toot?{02 05 00 07 2b 02}\nConstellations!\nStargazing!\nNothing!",
+   "et": ""
+  },
+  {
+   "id": 44,
+   "en": "{07 14 00}Welcome to \n{04 03 00}'s {ff 00 00 08}observatory{ff 00 00 00}.",
+   "et": ""
+  },
+  {
+   "id": 45,
+   "en": "{07 27 00}{01 00 00 0f 00}Hrmmrmrmrm smack smack{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 01 00}\n{07 04 00}{01 00 00 0a 00}Oop!\n\n{07 06 00}Oh, I'm so sorry! I've been\nhaving such a dreadful time\nsleeping lately, and{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.",
+   "et": ""
+  },
+  {
+   "id": 46,
+   "en": "{07 14 00}Welcome to the {ff 00 00 08}observatory{ff 00 00 00}!",
+   "et": ""
+  },
+  {
+   "id": 47,
+   "en": "{07 00 00}Oh, I'm sorry. I'm afraid\nI've let myself run a little\nlow on supplies.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 16 00}I've run out of ink--silly\nof me, really--and I can't\nchart new constellations!\n{07 00 00}Of course, you can still use\nthe {ff 00 00 02}telescope{ff 00 00 00} to view stars\nto your heart's delight!\n{07 14 00}{01 00 00 0a 00}Maybe that will tide you\nover for the time being.",
+   "et": ""
+  },
+  {
+   "id": 48,
+   "en": "{07 14 00}Hootie-toot!{01 00 00 05 00} I understand.{01 00 00 14 00}\nPlease, don't let me get in\nyour way!",
+   "et": ""
+  },
+  {
+   "id": 50,
+   "en": "{07 04 00}Hootie-toot!\n{0b 03 00}{04 0f 00}, was it?{01 01 00}\n{07 14 00}My, that IS a lovely name.\nI'm surprised I never saw\nit before. It seems so\nobvious now.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}\n{07 26 00}Why, those stars practically\nscream \"{04 0f 00}\"\nat the top of their lungs!\n{07 04 00}Oh! Sorry! {01 00 00 0f 00}{07 16 00}I may have been\na tad.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}overenthusiastic!\nHootie-toot!",
+   "et": ""
+  },
+  {
+   "id": 51,
+   "en": "{07 0e 00}{0b 03 00}{04 0f 00},{01 00 00 05 00} was it?{01 01 00}\n{07 0c 00}Oh, yes, yes.{01 00 00 05 00} Of course!{01 00 00 05 00}\nI see it now. Hootie-toot!\n{07 00 00}So bright, so distinguished!\nIt couldn't be more\nappropriate!\n{07 26 00}Yes. \"{0b 03 00}{04 0f 00}\"\nis an absolutely BRILLIANT\nname for this constellation!\n{07 04 00}Oops! I'm sorry! {01 00 00 0f 00}{07 16 00}{ff 00 00 06}Blathers{ff 00 00 00}\nalways says I get a tad\ncarried away, hootie-toot!",
+   "et": ""
+  },
+  {
+   "id": 53,
+   "en": "{07 00 00}Do you want to look at the\nconstellations{01 01 00} or just check\ntheir peak viewing times?{02 05 00 30 15 00}\nLook at them!\nCheck times.\nNever mind.",
+   "et": ""
+  },
+  {
+   "id": 56,
+   "en": "{07 00 00}Shall we just rename this\nconstellation, then? I'll log\nit in my charts if you like.{02 04 00 3b 24}\nYes, rename it!\nKeep the name.",
+   "et": ""
+  },
+  {
+   "id": 57,
+   "en": "{07 0c 00}Oh, I almost forgot! {01 00 00 05 00}We've\ncharted a new constellation!\nIt's {ff 00 00 02}{04 16 00}{ff 00 00 00}.\n{07 14 00}Do be sure to check\nit out, hootie-hoot!",
+   "et": ""
+  },
+  {
+   "id": 58,
+   "en": "{07 0c 00}Oh, I say! I've logged ever\nso many constellations\nlately, hootie-toot!\n{07 14 00}Do be sure to check them\nall out, won't you?",
+   "et": ""
+  },
+  {
+   "id": 59,
+   "en": "{07 00 00}Tremendous! I hope you\nchoose a name as lovely as\nthe stars that make it up.",
+   "et": ""
+  },
+  {
+   "id": 61,
+   "en": "{07 14 00}Aces!{01 00 00 0a 00} I'll just jot\n{04 0f 00} down in\nmy charts, hootie-toot!\n{07 26 00}And I must say,{01 00 00 05 00} I'm\nabsolutely enchanted with\nthis constellation of yours!",
+   "et": ""
+  },
+  {
+   "id": 62,
+   "en": "{07 04 00}Oh, bother! My apologies!{01 00 00 0f 00}\n{07 16 00}I'd no idea we'd charted\nso many constellations!\nI'm sorry, but if you'd like\na new constellation, we'll\nhave to erase an older one.",
+   "et": ""
+  },
+  {
+   "id": 63,
+   "en": "{07 00 00}{07 0b 00}This one?",
+   "et": ""
+  },
+  {
+   "id": 64,
+   "en": "{07 00 00}{07 0b 00}How about{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}this one?",
+   "et": ""
+  },
+  {
+   "id": 65,
+   "en": "{07 00 00}Well, {01 00 00 05 00}like this perhaps?",
+   "et": ""
+  }
+ ]
+}

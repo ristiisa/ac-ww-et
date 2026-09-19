@@ -1,0 +1,20 @@
+{
+ "file": "script/ENG/message/ha/q06/fin_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 14 00}Oh, hey, say hi to old\n{ff 00 00 06}{04 0f 00}{ff 00 00 00}, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 14 00}Tell {ff 00 00 06}{04 0f 00}{ff 00 00 00} I said\nWASSSSSSSUP!",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 14 00}Hey listen, be sure to tell\n{ff 00 00 06}{04 0f 00} {ff 00 00 00}that I got the\npackage, OK?",
+   "et": ""
+  }
+ ]
+}

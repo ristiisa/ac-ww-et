@@ -1,0 +1,20 @@
+{
+ "file": "script/ENG/message/ko/q02/con2_4_5_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 15 00}HA! You haven't even caught\n{04 1a 00}!",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 15 00}{0b 03 00}{01 00 00 05 00}{04 02 00}, that's big talk,\n{04 1f 00}!\n\n{07 1b 00}If that's the way you want\nto play, then I'll have to\nshow you how it's done!",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 11 00}Oh yes, that first\n{0b 02 00}{04 1a 00} will\nbe ALL MINE, {01 00 00 05 00}{04 02 00}!\n{07 06 00}My rep would be shattered\nif I got beat by a chump\nlike you, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  }
+ ]
+}

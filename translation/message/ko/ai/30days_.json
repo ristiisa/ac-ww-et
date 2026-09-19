@@ -1,0 +1,35 @@
+{
+ "file": "script/ENG/message/ko/ai/30days_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 02 00}Hey!{01 00 00 0f 00} {0b 03 00}{04 1f 00}! It's you!\n{07 01 00}I haven't seen you in a\nmillion months.\n{07 00 00}Or, you know, {04 12 00}!{01 00 00 05 00} What can\nI do for you? {07 00 00}I thought\nyou'd moved or something!\n{07 01 00}Nice to know you were just\nignoring me, you big jerk!\n{01 00 00 05 00}{0b 03 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 06 00}Oh, hey.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} If it isn't\n{04 1f 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 14 00} {07 01 00}You idiot!{01 00 00 14 00}\n{01 00 00 05 00}{0b 03 00}{04 02 00}!\nHow could you disappear{01 00 00 05 00}\nwithout {01 00 00 05 00}saying a thing!{01 00 00 05 00}\nIt's a rotten way to be!\nUntil I know for sure you\ncan take care of yourself,{07 11 00}\nstop by EVERY day!",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 14 00}Yo, {01 00 00 05 00}{04 1f 00}!{01 00 00 14 00} Have you\ngrown since the last time I\nsaw you, {01 00 00 05 00}{04 02 00}?\n{07 0b 00}What? {01 00 00 0f 00}No?{01 00 00 0f 00}{07 00 00} I wonder if {07 09 00}I\njust shrank then.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\nHuh, {04 02 00}?",
+   "et": ""
+  },
+  {
+   "id": 3,
+   "en": "{07 04 00}Oh, {01 00 00 05 00}{04 1f 00}!{01 00 00 14 00} {07 00 00}How many\nmonths has it been?{01 00 00 14 00} {04 12 00}?\nThat's a long time.\n{07 14 00}Well, I guess you did your\ntime. You paid your debt to\nsociety.\nNow you get the fresh\nstart{01 00 00 05 00} that you deserve{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\nMake the most of it!\n{07 0b 00}What?{01 00 00 14 00} You didn't get busted\nfor something you did?\nYou weren't doing time?\n{07 01 00}Huh? {01 00 00 05 00}{0b 03 00}{04 02 00}!{01 00 00 0f 00} Aw, I was\nlooking forward to hearing\nabout it, too!",
+   "et": ""
+  },
+  {
+   "id": 4,
+   "en": "{07 04 00}Oh, {01 00 00 05 00}{04 1f 00}!{01 00 00 14 00} {07 00 00}Looks like\nyou got away safe. I was\nworried, {01 00 00 05 00}{04 02 00}!\nYour{01 00 00 05 00} {04 12 00}-month-long break\n{07 11 00}made me think you'd fallen\nin the toilet or somethin'!",
+   "et": ""
+  },
+  {
+   "id": 5,
+   "en": "{07 04 00}Hey, {01 00 00 05 00}{04 1f 00}!{01 00 00 14 00} {07 11 00}I heard\nall about you, {01 00 00 05 00}{04 02 00}.\n\nYou ate {04 19 00}\nand skipped out on the tab!\n\n{07 0b 00}And that started your\n{04 12 00}-month-long\ncrime spree, right?\n{07 03 00}What a crazy story! {01 00 00 14 00}Wait a\nsec, {07 07 00}are you on the lam\nright now?",
+   "et": ""
+  }
+ ]
+}

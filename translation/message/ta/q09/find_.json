@@ -1,0 +1,20 @@
+{
+ "file": "script/ENG/message/ta/q09/find_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 02 00}Darn it all!{01 00 00 0a 00} How did you\nknow I was  here,\n{01 00 00 05 00}{04 02 00}?!{01 01 00}{07 16 00} Oh, I know.\n{07 16 00}It was that \"Top Places to\nHide in {04 03 00}\" article\nin Ms. Nintendique, huh{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\nOh, well. {07 14 00}Nice work, {01 00 00 0a 00}\n{04 1f 00}!",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 02 00}Eeek!{01 00 00 14 00} {0b 03 00}{04 1f 00}? {01 01 00}{07 15 00}How'd you\nfind me?!{01 01 00}\n\nYou're either good at these\ngames or {01 01 00}{07 1b 00}I just can't hide\nmy stunning presence!",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 04 00}What!{01 00 00 0a 00} You found me already,\n{01 00 00 0a 00}{04 02 00}! That's\nabsolutely ridiculous!\n{07 00 00}You're not as clueless as I\nthought you were,\n{04 1f 00}!",
+   "et": ""
+  }
+ ]
+}

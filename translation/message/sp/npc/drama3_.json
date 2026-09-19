@@ -1,0 +1,275 @@
+{
+ "file": "script/ENG/message/sp/npc/drama3_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 1c 00}{01 00 00 0a 00}Ohhh{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} That {ff 00 00 06}Tom Nook{ff 00 00 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\nHe's still hung up on what\nhappened way back then{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\nIf I could, I would\nabsolutely try to help him,\nbut{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n{07 16 00}I honestly {01 00 00 05 00}have no idea\nwhat I could do{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{02 04 00 16 12}\nYou know him?\nMeh.",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 1c 00}{01 00 00 0a 00}I told you that {ff 00 00 06}Tom Nook{ff 00 00 00}\nand I have known each other{01 00 00 05 00}\nsince we were kids, right?\nWell, um{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} Actually{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.that's\nnot the half of it.\n\n{07 14 00}Since we were little, we've\ntold each other our dreams\nand aspirations{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{02 04 00 17 12}\nReally?\nWhatever.",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 04 00}Ohhh, hi, {01 00 00 05 00}{04 00 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0f 00}\n{07 16 00}Listen, could you please\nforget what I told you?{02 04 00 19 12}\nAbout what?\nWhatever.",
+   "et": ""
+  },
+  {
+   "id": 3,
+   "en": "{07 1c 00}Ohhh{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} Um, {01 00 00 05 00}{04 00 00}?{01 00 00 05 00}\nRemember what I told you\nabout{ff 00 00 06} Tom Nook{ff 00 00 00} and me?\n{07 16 00}I only told you part of\nthe story, so I should\nprobably tell you the rest.{02 04 00 1b 12}\nOK.\nEnough!",
+   "et": ""
+  },
+  {
+   "id": 4,
+   "en": "{07 1c 00}{01 00 00 05 00}Ummm...{01 00 00 0a 00} You know that\nowl {ff 00 00 06}Blathers{ff 00 00 00} who works in\nthe {ff 00 00 08}museum{ff 00 00 00}?\nI was just thinking, I'll\nbet he really did move here\nfrom the big city{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{02 04 00 1d 12}\nHow come?\nWho cares?",
+   "et": ""
+  },
+  {
+   "id": 5,
+   "en": "{07 1c 00}{01 00 00 0a 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}Ohh, speak of the devil!{01 00 00 05 00}\nGuess who came by the shop\nthe other day?\nYes, it was none other than\n{ff 00 00 06}Blathers{ff 00 00 00} himself!{02 04 00 1f 12}\nReally?\nWhatever.",
+   "et": ""
+  },
+  {
+   "id": 6,
+   "en": "{07 14 00}{01 00 00 05 00}Ohhh, it might interest you\nto know that yesterday{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{ff 00 00 06}Blathers{ff 00 00 00} came by here.{02 04 00 22 12}\nAgain?\nBig deal.",
+   "et": ""
+  },
+  {
+   "id": 7,
+   "en": "{07 14 00}It's been getting cooler\nlately, hasn't it?{02 04 00 24 12}\nYou think?\nBig whoop.",
+   "et": ""
+  },
+  {
+   "id": 8,
+   "en": "{07 16 00}Umm, even though I think\nthis is the best time of\nyear, weather-wise{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n{07 00 00}You shouldn't let your guard\ndown and start wearing\nclothes that are too cold{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{02 04 00 25 12}\nDarn skippy!\nButt out!",
+   "et": ""
+  },
+  {
+   "id": 9,
+   "en": "{07 16 00}Say, ummm{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} {ff 00 00 06}Tom Nook{ff 00 00 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n{07 0b 00}Was he wearing that shirt\nagain today?{02 04 00 26 12}\nSame as usual.\nEnough already!",
+   "et": ""
+  },
+  {
+   "id": 10,
+   "en": "Ohhh, that {ff 00 00 06}{07 1c 00}{01 00 00 05 00}Tom Nook{ff 00 00 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{02 04 00 28 12}\nWhat's up?\nEnough!",
+   "et": ""
+  },
+  {
+   "id": 11,
+   "en": "{07 1c 00}Ohhhh.{01 00 00 05 00}.{01 00 00 05 00}.{02 04 00 2a 12}\nWhat happened?\nNothing.",
+   "et": ""
+  },
+  {
+   "id": 12,
+   "en": "{07 1c 00}Ummm{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{02 04 00 2b 12}\nWhat's up?\nNothing.",
+   "et": ""
+  },
+  {
+   "id": 13,
+   "en": "{07 1c 00}{01 00 00 05 00}Ohhhh{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n\n\n{07 16 00}How long?{01 00 00 0f 00} How long does\n{ff 00 00 06}Tom Nook {ff 00 00 00}plan to cling to\nsuch ancient history{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{02 04 00 2c 12}\nWhat happened?\nNothing.",
+   "et": ""
+  },
+  {
+   "id": 14,
+   "en": "{07 1c 00}Ohhhh{01 00 00 02 00}.{01 00 00 02 00}.{01 00 00 02 00}.{01 00 00 02 00}\n\n\n{07 04 00}Ohh!{01 00 00 0f 00} I'm so sorry!{01 01 00}\n{07 16 00}I was just reminiscing about\nthe past a bit.\nMm, a past that, when I was\nyoung, included {ff 00 00 06}Tom Nook{ff 00 00 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{02 04 00 2e 12}\nTell me!\nSpare me.",
+   "et": ""
+  },
+  {
+   "id": 15,
+   "en": "{07 1c 00}{01 00 00 05 00}You surely know that young\n{ff 00 00 06}Tom Nook{ff 00 00 00} left {04 03 00}\nfor a while{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n{07 16 00}Well, the first letter I got\nfrom him arrived at just\naround this time of year{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\nThe other day, before bed,\n{07 00 00}I pulled that letter out{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\nand just looked at it.{02 04 00 30 12}\nWhat'd it say?\nSpare me.",
+   "et": ""
+  },
+  {
+   "id": 16,
+   "en": "{07 16 00}{0b 03 00}{04 00 00}, I don't know\nwhy I've told you so much\nabout {ff 00 00 06}Tom Nook{ff 00 00 00} and I{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\nAll those memories of our\nshared youth must bore\nyou.{01 00 00 05 00} Please forgive me.{02 04 00 31 12}\nTell me more!\nDone yet?",
+   "et": ""
+  },
+  {
+   "id": 17,
+   "en": "{07 16 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}Ohhh, really,{01 00 00 05 00} {04 00 00}?\n\n\n{07 0b 00}You want to hear{01 00 00 05 00} about my\nmemories again?\n\n{07 16 00}I'm warning you, not all my\nmemories are fond ones,\nyou know.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{02 04 00 34 12}\nReally?\nNo more!",
+   "et": ""
+  },
+  {
+   "id": 18,
+   "en": "{06 01 00 13 14 15}",
+   "et": ""
+  },
+  {
+   "id": 19,
+   "en": "{07 04 00}Ohhh,{01 00 00 05 00} I'm so sorry{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.",
+   "et": ""
+  },
+  {
+   "id": 20,
+   "en": "{07 16 00}Ohhh.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} Please forgive me.",
+   "et": ""
+  },
+  {
+   "id": 21,
+   "en": "{07 00 00}Ohh, umm, really? {01 00 00 05 00}OK,{01 00 00 05 00} I'll\njust stop, then{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.",
+   "et": ""
+  },
+  {
+   "id": 22,
+   "en": "{07 04 00}Huh?{01 00 00 0f 00} Ohhh, yes{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n\n\n{07 00 00}{ff 00 00 06}Tom Nook{ff 00 00 00} and I virtually\ngrew up together. \n\nI essentially know{01 00 00 05 00}\neverything about him{01 00 00 05 00}\nstarting at childhood.\n{07 16 00}We've grown apart a little \nas of late, but{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n\n{07 14 00}When we were little, I used\nto think of {ff 00 00 06}Tom Nook{ff 00 00 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n\n.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}as though he were my\nreal big brother{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.",
+   "et": ""
+  },
+  {
+   "id": 23,
+   "en": "{07 00 00}Ohh, yes. {01 00 00 05 00}When we were\nsmall, {ff 00 00 06}Tom Nook{ff 00 00 00} used to\nsay this all the time:\n{07 14 00}{01 04 00}\"{ff 00 00 02}I'm going to build the\nbiggest store in the world!{01 00 00 05 00}\nSee if I don't, hm?{ff 00 00 00}\"{01 05 00}\n{07 00 00}Tee hee!{01 00 00 05 00} It appears as\nthough that part of him{01 00 00 05 00}\nhasn't changed at all!\n{07 04 00}Huh?{01 01 00} Oh, stop, {01 00 00 05 00}{04 00 00}.{01 00 00 05 00}\n{07 0b 00}Why would you care about\nMY dreams?\n{07 00 00}Of course, I won't stop you\nfrom asking, but my reply\nwill be pretty boring{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{02 04 00 18 12}\nTell me!\nThat's enough.",
+   "et": ""
+  },
+  {
+   "id": 24,
+   "en": "{07 0e 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}Ohhh{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} Ummmm.{01 00 00 05 00}.{01 00 00 05 00}.\n\n\nMy dream is{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}ummmmmm{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 01 00}\n{07 00 00}{01 04 00}\"{ff 00 00 02}to fill this town with\nthe cutest clothes EVER!{ff 00 00 00}\"{01 05 00}\n{07 04 00}Oops!!!{01 00 00 0f 00} {01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}I said it out loud!\n\n\n{07 17 00}Ohh, I'm so embarrassed{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0f 00}\nPlease {01 00 00 05 00}don't tell anyone I\ntold you that!",
+   "et": ""
+  },
+  {
+   "id": 25,
+   "en": "{07 14 00}Ohh, then you already have!{01 00 00 0f 00}\nIt was the story of when\n{ff 00 00 06}Tom Nook {ff 00 00 00}and I were kids.\n{07 00 00}You know, when I think\nabout it,{01 00 00 05 00} that was when we\nwere the most innocent{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{02 04 00 1a 12}\nWhat?\nEnough.",
+   "et": ""
+  },
+  {
+   "id": 26,
+   "en": "{07 16 00}Ummm.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0f 00} Well, you see, when\n{ff 00 00 06}Tom Nook{ff 00 00 00} grew up{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n\n...he left town and headed\nfor the big city in pursuit\nof his dream.\nMy{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 00 00} My parents passed\naway when I was young and{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n\nWell, I didn't have the kind\nof freedom that he did{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\nto expand my horizons. \n{07 19 00}I was too busy raising {ff 00 00 06}Mabel{ff 00 00 00}\nand taking care of the\nshop, you understand?\n{07 19 00}If I had a little more \nfreedom during that period\nof my life{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 14 00}Well, {01 00 00 05 00}never mind that.{01 00 00 05 00}\nIt's pointless for me to\nthink about it now.",
+   "et": ""
+  },
+  {
+   "id": 27,
+   "en": "Ummm{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} Well, {ff 00 00 06}{07 00 00}Tom Nook{ff 00 00 00} left\n{04 03 00} for the city,\nchasing his dream.\nI believe a few years\npassed before his return{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n\n{07 14 00}I'd been busy raising my \nlittle sister, {ff 00 00 06}Mabel{ff 00 00 00}, of\ncourse{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n...and making sure the shop\nstayed afloat.\n\n{07 00 00}Then one day{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{ff 00 00 06}Tom Nook{ff 00 00 00}\nreturned. {01 00 00 05 00}And he said not\none word to anyone.\nPoor, poor {ff 00 00 06}{07 16 00}Tom Nook{ff 00 00 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\nYou could tell by looking at\nhim how exhausted he was.\nI did everything I could to{01 00 00 05 00}\ncheer him up, but he said...\n\n{07 15 00}{01 04 00}\"{ff 00 00 02}Dreams are nothing in the\nface of money!{ff 00 00 00}\"{01 05 00}\n\n{07 16 00}Those words had become a\nmantra to poor {ff 00 00 06}Tom Nook{ff 00 00 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{02 04 00 1c 12}\nTell me more!\nEnough!",
+   "et": ""
+  },
+  {
+   "id": 28,
+   "en": "{07 1c 00}{01 00 00 0a 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}From that moment on, \n{ff 00 00 06}Tom Nook{ff 00 00 00} and I started to\ngrow apart.\n{07 00 00}His smile started to return\nafter a while, but{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n\n{07 16 00}Ohhh{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} I just{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n\n\nI think he puts on a brave\nface to seem like the old\n{ff 00 00 06}Nook{ff 00 00 00}, but I just feel...\nI feel he still bears the\nscars of his time in the\ncity, and they pain him{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\nAnyway, {ff 00 00 06}{07 00 00}Mabel{ff 00 00 00} was so young\nat the time, she doesn't\nrecall how he used to be.",
+   "et": ""
+  },
+  {
+   "id": 29,
+   "en": "{07 00 00}I can just tell.{01 00 00 05 00} I can tell\nthat YOU weren't raised\nhere, either, you know{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 16 00}I don't mean to offend you,{01 00 00 05 00}\nI really don't! {01 00 00 05 00}It's just\nin your mannerisms...\nAnd not to be a pill, but{01 00 00 05 00}\nsomething about city folk\njust rubs me wrong.{01 00 00 05 00}.{01 00 00 05 00}.{02 04 00 1e 12}\nHow come?\nYou done?",
+   "et": ""
+  },
+  {
+   "id": 30,
+   "en": "{07 04 00}Ohh! {01 00 00 05 00}Well, there's no real\nreason, to be completely\nhonest{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 16 00}I guess I just don't feel \nlike I can trust them, do\nyou know what I mean?\n{07 00 00}They seem charming, but I \nget this feeling they're\nalways watching the angles.\n{07 1c 00}{01 00 00 0a 00}Ummmm{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 15 00} I'm sorry.\n\n\nI know that I shouldn't say\nthis because we live in the\nsame town and all, but{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}. ",
+   "et": ""
+  },
+  {
+   "id": 31,
+   "en": "I looked up from my work\nto see {ff 00 00 06}{07 00 00}Blathers{ff 00 00 00} stagger in,\nlooking all disheveled.{01 00 00 05 00}\n{07 16 00}\"{ff 00 00 02}Wings! Legs!{ff 00 00 00}\" he said,\nfrothing at the mouth.\n\"{ff 00 00 02}Ugh! Oh, vileness!{ff 00 00 00}\"\n{07 00 00}He was babbling{01 00 00 05 00} about\nsomething, all in a tizzy.\n\n{07 14 00}It only took me a second to\nfigure out what was up.\n\nThat owl{01 00 00 05 00} must have run into\na bug that he REALLY\ndoesn't like...\n{07 00 00}and just happened to be{01 00 00 05 00}\nin front of my shop{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{02 04 00 20 12}\nReally?\nEnough already.",
+   "et": ""
+  },
+  {
+   "id": 32,
+   "en": "Yes, {ff 00 00 06}{07 14 00}Blathers{ff 00 00 00}{01 00 00 05 00} must've felt\nembarrassed because{01 00 00 05 00} he\nbegan shopping feverishly!\n{07 00 00}I didn't know if I should{01 00 00 05 00}\nspeak or not, but I couldn't\nhelp myself...\n{07 14 00}\"Excuse me, sir?\" I said.{01 00 00 05 00} \n\"Those are women's clothes.\"{02 04 00 21 12}\nHee hee hee!\nStop!",
+   "et": ""
+  },
+  {
+   "id": 33,
+   "en": "{07 00 00}You know,{01 00 00 05 00} he was so\nmortified by the whole\nthing, it was adorable.\nI started thinking how\nsilly it was of me to\nthink of him as city folk.{01 00 00 05 00}\n{07 0e 00}I must say, though,{01 00 00 05 00} for\nanyone to fear bugs to the\ndegree that he does{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 00 00}He's not a bad fellow,{01 00 00 05 00}\nclearly, but he is a little\nbit{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}off.",
+   "et": ""
+  },
+  {
+   "id": 34,
+   "en": "{07 04 00}Ohhh, {01 00 00 0f 00}no no,{01 00 00 0f 00} he wasn't\nfleeing bugs this time!\n\nNo, he was shopping just\nlike anyone else.\n\n{07 00 00}I don't know if you know,\nbut {ff 00 00 06}Blathers{ff 00 00 00} has a sister\nmuch younger than himself.\nHe came here to buy a\ngift for her{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{02 04 00 23 12}\nHow nice!\nSo what?",
+   "et": ""
+  },
+  {
+   "id": 35,
+   "en": "{07 14 00}Yes, I thought it sweet.{01 00 00 0f 00}\n{ff 00 00 06}Mabel {ff 00 00 00}and I put our heads\ntogether{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} \nand we chose the biggest\nribbon in the shop for \nthat girl!\n{07 00 00}I thought to myself,{01 00 00 05 00} ohh,\nhow nice to have a big\nbrother like that{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 16 00}Up until then,{01 00 00 05 00} I'd thought\nthat all people from the\ncity were just{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}different.\nYou know, like they were a\ndifferent breed than us.{01 00 00 05 00}\nBut now{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n{07 14 00}I realize how very wrong I\nwas in thinking that{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n\n{07 00 00}No matter where you live,{01 00 00 05 00}\nbrothers are brothers,{01 00 00 0f 00} and\nsisters are sisters{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 14 00}The bonds that keep family \nclose are the same no\nmatter where you are!",
+   "et": ""
+  },
+  {
+   "id": 36,
+   "en": "{07 16 00}Yes, I'm sure of it{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}because\nevery year, around this\ntime, I think to myself{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n{07 00 00}You know how {ff 00 00 06}Tom Nook{ff 00 00 00}\nwears nothing but that\napron all year round?\n{07 19 00}I just have to figure that\nthe autumn air must give\nhim serious chills{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.",
+   "et": ""
+  },
+  {
+   "id": 37,
+   "en": "{07 00 00}Well, not everyone agrees!{01 00 00 05 00}\nThere was this incident\nbefore you arrived here{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 16 00}It was about this time of\nyear, and {ff 00 00 06}Tom Nook{ff 00 00 00} caught\na bad cold. {01 00 00 05 00}He was laid up!\n{07 00 00}Well,{01 00 00 05 00} 'cause his normal body\ntemperature is high,{01 00 00 05 00} he\ndidn't usually wear much{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\nSo I suggested he wear\nmore when it's colder.{01 00 00 05 00} His\nresponse to this was...\n{07 16 00}\"Until I have enough money\nto make my shop bigger, I\nmust{01 00 00 05 00} endure, hm?\"{01 00 00 05 00}\nI knew right then that\nthere was no changing HIS\nmind, that's for sure.",
+   "et": ""
+  },
+  {
+   "id": 38,
+   "en": "{07 00 00}Well, that certainly figures.{01 00 00 05 00}\nBetween you and me, his\nclothes{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 14 00}I made them just as{ff 00 00 06} Tom\nNook {ff 00 00 00}ordered and finished \nthem right here in my shop.\n{07 04 00}Ohh!{01 01 00} But please don't tell\n{ff 00 00 06}Mabel {ff 00 00 00}this part{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n\n{07 00 00}I made them when our shop\nwas closed and gave them\nto him as a gift!{02 04 00 27 12}\nReally?\nNo more, please.",
+   "et": ""
+  },
+  {
+   "id": 39,
+   "en": "{07 00 00}Yes, well, actually,{01 00 00 05 00} up until\na while ago, {ff 00 00 06}Tom Nook{ff 00 00 00}'s\nshop, right next door...\nLet's just say it wasn't\ndoing as well as its\ndedicated owner had hoped.\nIn order to keep the shop\nopen, he began cutting back\non expenses like clothes.\nInterestingly enough, right\naround the time you moved\nhere, {04 00 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\nBusiness really started\npicking up for him!\n\n{07 14 00}Those clothes were my way\nof saying congratulations{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n\n{07 00 00}They might not look like{01 00 00 05 00}\nanything special, but{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n\n{07 14 00}I sewed down into the lining{01 00 00 05 00}\nso it retains heat better\nthan anything I've made.\n{07 16 00}Even on the coldest winter\ndays, {ff 00 00 06}Nook {ff 00 00 00}should stay nice\nand warm{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.",
+   "et": ""
+  },
+  {
+   "id": 40,
+   "en": "{07 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}Ohhh, well,{01 00 00 05 00} it's just{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\nThe other day, right before\nclosing, I was outside{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\nand I happened to run\ninto {ff 00 00 06}Tom Nook{ff 00 00 00}.\n\n{07 16 00}At first, I didn't know\nwhether to say \"hi\"...or\neven HOW to say \"hi.\"\n{07 00 00}Still, I finally gathered my\ncourage and asked how his\nclothes felt{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{ff 00 00 06}Tom Nook{ff 00 00 00} responded,\n{07 15 00}{01 04 00}\"{ff 00 00 02}Why, same as always!{01 01 00}\nBest clothes ever, hm?{ff 00 00 00}\"{01 05 00}{07 14 00}\nYes, he muttered those\nwords, barely audible,{01 00 00 05 00} and\ndisappeared into his shop{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{02 04 00 29 12}\nReally?\nEnough already.",
+   "et": ""
+  },
+  {
+   "id": 41,
+   "en": "{07 17 00}Yes, {01 00 00 0f 00}now that I think about\nit, he's always been like\nthat{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 00 00}I've known him since he was\nlittle, so trust me, I know \nwhat I'm talking about.\nWhen he's truly happy,\n{ff 00 00 06}Tom Nook{ff 00 00 00} doesn't show\nanyone how he's feeling{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\nHe guards his feelings like\na miser guards gold, rarely\nletting anyone see them.\n{07 14 00}But those words made me\nhappy{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} They made me so\nvery happy{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{ff 00 00 06}Tom Nook {ff 00 00 00}loves the clothes\nthat I made him, and he\nwears them all the time{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.",
+   "et": ""
+  },
+  {
+   "id": 42,
+   "en": "{07 04 00}Ohh, I'm sorry. {01 00 00 05 00}I really am.{01 00 00 0f 00}\nI was spacing out a little\nbit, there.\n{07 16 00}Please forgive me.",
+   "et": ""
+  },
+  {
+   "id": 43,
+   "en": "{07 16 00}Ohh, I was just thinking\nabout something from my\npast{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 00 00}My far and distant past{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n\n\nBack when {ff 00 00 06}Tom Nook {ff 00 00 00}and I\nwere much, much younger{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n\n{07 16 00}I used to look up to him\nas though he was my older\nbrother, you know.\nNow those days are just a\nfaded memory for this old\ngirl{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.",
+   "et": ""
+  },
+  {
+   "id": 44,
+   "en": "{07 0b 00}Oh, haven't you heard me\ntalking about my childhood,\n{04 00 00}?\nAbout how {ff 00 00 06}{07 00 00}Tom Nook {ff 00 00 00}and I\nwere friends as kids{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{02 04 00 2d 12}\nYou were?\nI don't care.",
+   "et": ""
+  },
+  {
+   "id": 45,
+   "en": "{07 04 00}Ohh!{01 01 00} I guess I must never\nhave told you, huh?\n\n{07 1c 00}Oops{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} I'm so sorry.{01 00 00 14 00}\nIf I had known, I wouldn't\nhave said anything{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.",
+   "et": ""
+  },
+  {
+   "id": 46,
+   "en": "{07 00 00}Well, ummm, OK{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n\n\nBoth of us were born here\nin {04 03 00}, but{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n\n{ff 00 00 06}Tom Nook{ff 00 00 00} had always said,{01 01 00}\n{07 15 00}{01 04 00}\"{ff 00 00 02}This town isn't big enough\nfor me and my vision, hm?{ff 00 00 00}\"{01 05 00}\n{07 00 00}It had become like a\ncatchphrase for him{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{02 04 00 2f 12}\nSounds like him.\nI'm bored.",
+   "et": ""
+  },
+  {
+   "id": 47,
+   "en": "Yes, {ff 00 00 06}{07 14 00}Tom Nook{ff 00 00 00}'s dream{01 00 00 0f 00} was\nto get out of this town and{01 00 00 05 00}\nhit it big in the city...\n{07 00 00}Once he left this town,\nI didn't hear anything from\nhim for a while.{01 00 00 05 00}\nThat is, until right around\nthis time of year, I got a \nletter from a distant city.\n{07 16 00}When I think about the way\n{ff 00 00 06}Tom Nook{ff 00 00 00} was back then,\nit chills my heart.\n{07 00 00}I bet he was lonely in the\ncold January weather{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}and\nthe cold, careless city.{01 00 00 05 00}\nThere's something amazing\nabout the passion of youth\nand its power to sustain.{01 00 00 05 00}\n{07 14 00}If there's a more powerful\nenergy source, I don't know\nabout it{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.",
+   "et": ""
+  },
+  {
+   "id": 48,
+   "en": "{07 14 00}Tee hee!{01 00 00 05 00} It was adorable!{01 00 00 05 00}\nSure, the handwriting was a\nlittle messy, but{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\nYou could hear his \ndetermination in every word\nof that perfect letter{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\nSweet, young {ff 00 00 06}{07 00 00}Tom Nook{ff 00 00 00}...\nHis call to arms, his ethos,\nwas \"Dreams before money!\" \nHe was so pure that people\nwondered if he'd survive\nthis crazy old world.\n{07 16 00}I did, too. {01 00 00 05 00}Every night,{01 00 00 05 00}\nbefore falling asleep, I\nwould wish for him{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 00 00}\"Please keep {ff 00 00 06}Tom Nook{ff 00 00 00}'s\npure spirit protected,\" I'd\nwhisper to the darkness.\n\"Keep him safe from the\napathy that breeds in the\nalleys of the big city.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\"",
+   "et": ""
+  },
+  {
+   "id": 49,
+   "en": "{07 14 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}Ohh, OK, if you insist.{01 00 00 05 00}\nThe {ff 00 00 06}Tom Nook {ff 00 00 00}that left\ntown for the big city{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\nHe sent me letters quite \nfrequently, actually.\n\n{07 00 00}One day, I  received a \nwooden box, not a letter{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n\n{07 04 00}When I opened it,{01 00 00 0f 00} I was\nabsolutely astonished!{02 04 00 32 12}\nA ring?!\nWho cares?",
+   "et": ""
+  },
+  {
+   "id": 50,
+   "en": "{07 02 00}Ohhh, goodness, no!{01 00 00 05 00}{01 08 00}\nAre you kidding?!\n\n{07 15 00}{04 00 00}, I think you've\nbeen watching too many{01 00 00 05 00}\nmade-for-TV movies!\n{07 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}Ohh, I'm so sorry.{01 00 00 05 00} Heh,{01 00 00 05 00}\nI didn't mean to snap. {01 00 00 05 00}That\njust took me off guard.\n{07 14 00}No, inside the box, there\nwas a pair of fancy, burnt-\norange colored{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\nScissors! {01 00 00 05 00}Incredibly strong\nand sharp scissors!\n\nThe finest scissors I'd\never laid eyes on{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{02 04 00 33 12}\nTell me more!\nI'm bored.",
+   "et": ""
+  },
+  {
+   "id": 51,
+   "en": "{07 00 00}The enclosed letter said,{01 01 00}\n{01 04 00}\"{ff 00 00 02}Happy birthday, Sable!{ff 00 00 00}\"{01 05 00}{01 00 00 0f 00}\n.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}So{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}sweet.\n{07 17 00}At the time,{01 00 00 05 00} I was so busy\nthat I'd even forgotten it\nwas my birthday.\nTo think that {ff 00 00 06}Tom Nook{ff 00 00 00} had\nremembered it{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n\n{07 00 00}I'm sure life was hard{01 00 00 0f 00} for\n{ff 00 00 06}Tom Nook{ff 00 00 00} in the city during\nthat time...\n{07 16 00}I know his job paid poorly,\nso for him to buy those\nscissors for me.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n{07 00 00}When I think about it,{01 00 00 05 00}\nwell, it makes me so happy{01 00 00 05 00} \nthat I cry!",
+   "et": ""
+  },
+  {
+   "id": 52,
+   "en": "{07 14 00}Well, we shared a lot of\ngood times, {ff 00 00 06}Tom Nook{ff 00 00 00} and I.\n\n{07 00 00}Before there was an\n{ff 00 00 08}observatory {ff 00 00 00}in dear old\n{04 03 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\nWe used to climb up to the\nroof when we wanted to\nlook at the stars{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 0c 00}Ohhh, yes!{01 00 00 0f 00} We even made\nconstellations together,\nI remember!\n{07 14 00}I made one that looked like\na T-shirt that I called\nthe \"{ff 00 00 02}Star Shirt{ff 00 00 00}\"{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{ff 00 00 06}{07 00 00}Tom Nook{ff 00 00 00}'s looked like one\nof those old-time markets.{01 00 00 05 00}\nHe called it{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 14 00}\"{ff 00 00 02}The Farmer's Market\nBargain Bin Constellation.{ff 00 00 00}\"{01 00 00 0f 00}\nOhh, that takes me back{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{02 04 00 35 12}\nNice story.\nEnough!",
+   "et": ""
+  },
+  {
+   "id": 53,
+   "en": "{07 00 00}Yes, it is{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} Shortly after\nthat, {01 00 00 05 00}{ff 00 00 06}Tom Nook{ff 00 00 00} moved to\nthe big city{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\nYes, he left to chase his\ndreams{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n\n{07 16 00}When he returned to\n{04 03 00}, he came back\na totally different soul{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 00 00}I still believe that.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}if he \njust clung to those sweet\nmemories like I do.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\nhe would have shaken off\nthe heartsickness of\nthose city years.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\nMemories can be sad, but\n{07 14 00}sometimes they can{01 00 00 05 00} also\nsave you{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.",
+   "et": ""
+  }
+ ]
+}

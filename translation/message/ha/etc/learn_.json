@@ -1,0 +1,100 @@
+{
+ "file": "script/ENG/message/ha/etc/learn_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "What in the world was THAT,{01 00 00 05 00}\n{04 02 00}?!{01 00 00 05 00} Wha ha ha ha!\nYou're too funny!\n{0b 03 00}{04 1f 00}, is THIS what\nyou were trying to do,\n{01 00 00 05 00}{04 02 00}?",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "Oh, man!{01 00 00 05 00} You look like you\ndid too many dynamite ab\ncrunches after dinner!\nWere you trying to do THIS,\n{01 00 00 05 00}{04 02 00}?!",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "Whoa there,{01 00 00 05 00} {04 1f 00}!\nYou do that on purpose?\nMan, that was CRAZY!\nHey,{01 00 00 05 00} maybe THIS is what you\nwere trying to do,\n{01 00 00 05 00}{04 02 00}?",
+   "et": ""
+  },
+  {
+   "id": 3,
+   "en": "Wrong! Wrong, wrong, wrong!\nMan, that was ALL wrong,\n{01 00 00 05 00}{04 02 00}!\n{0b 03 00}{ff 00 00 02}{04 0f 00}{ff 00 00 00} comes\nfrom the GUT!{01 00 00 05 00} Work the\nabs!{01 00 00 05 00} Work 'em, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 4,
+   "en": "{0b 03 00}{ff 00 00 02}{04 0f 00} {ff 00 00 00}doesn't\nlook like that at ALL,\n{01 00 00 05 00}{04 02 00}! Wha ha ha!\nIf you want to do it right,\nyou have to flex the glutes\nlike this!",
+   "et": ""
+  },
+  {
+   "id": 5,
+   "en": "I'll do it again! Repetition\nis key, {01 00 00 05 00}{04 02 00}!{01 00 00 05 00} Yeah!{01 00 00 0a 00}\nHit the wall!{01 00 00 0a 00} Fight the pain!",
+   "et": ""
+  },
+  {
+   "id": 6,
+   "en": "Once more, {01 00 00 05 00}{04 02 00}!{01 00 00 0a 00}\nC'mon!{01 00 00 0a 00} Do you want to be \nexpressionless forever?!",
+   "et": ""
+  },
+  {
+   "id": 7,
+   "en": "See that, {01 00 00 05 00}{04 1f 00}?!\nNow you get it! Now you're\nriding the victory train!",
+   "et": ""
+  },
+  {
+   "id": 8,
+   "en": ".{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}Like this! You got it now,\n{01 00 00 05 00}{04 02 00}?! Focus on me!{01 00 00 05 00}\nLook at my EYES!",
+   "et": ""
+  },
+  {
+   "id": 9,
+   "en": "Right! Leave it to me! I'll\nshow you how a REAL man\ndoes it!",
+   "et": ""
+  },
+  {
+   "id": 10,
+   "en": "Don't blink...'cause you'll\nmiss it, {01 00 00 05 00}{04 02 00}!{01 00 00 0f 00}\nI'm JUST THAT FAST!!",
+   "et": ""
+  },
+  {
+   "id": 11,
+   "en": "Awesome!{01 00 00 05 00} Now you're the\n{ff 00 00 02}{04 0f 00} {ff 00 00 00}master,\n{01 00 00 05 00}{04 02 00}!\nTo stay on top, you gotta\ntrain everyday!{01 00 00 05 00} There's\nalways someone hungrier!",
+   "et": ""
+  },
+  {
+   "id": 12,
+   "en": "Sweet! Now you're a master\nof {ff 00 00 02}{04 0f 00}! {ff 00 00 00}Good\nluck with that, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 13,
+   "en": "Huh?! Oh, man! You're kinda\nblowing my mind here!\n\nI don't think you can\nremember any more \n{ff 00 00 02}expressions{ff 00 00 00}!\nIf you want to learn a new\none,{01 00 00 05 00} you gotta forget\none that you don't want!\nSo make up your mind,\n{01 00 00 05 00}{04 02 00}! No more of\nthis wishy-washy stuff!",
+   "et": ""
+  },
+  {
+   "id": 14,
+   "en": "Man!{01 00 00 05 00} I think you pulled a\nmuscle in your BRAIN!{01 00 00 05 00} And\nthat's gotta hurt!\nLook, if you want to learn\na new {ff 00 00 02}expression{ff 00 00 00}, you have\nto forget an old one!\nYou're totally full, buddy!{01 00 00 05 00}\nSo.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}you want to forget?\nWhich one's it gonna be?",
+   "et": ""
+  },
+  {
+   "id": 15,
+   "en": "Aw, sweet!{01 00 00 05 00} Good call! Hold\non and I'll give you a hand!\nI'll be your brain spotter!\nOne{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00} Two{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00} Three{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.{01 01 00}\nBOOOOO-YA, GRANDMA!{01 08 00}\n\nNice!{01 00 00 05 00} Now you forgot\n{ff 00 00 02}{04 10 00}{ff 00 00 00} and\nlearned {ff 00 00 02}{04 0f 00}{ff 00 00 00}!\nI bet you're happy now,{01 00 00 05 00}\naren't you, {01 00 00 05 00}{04 1f 00}!",
+   "et": ""
+  },
+  {
+   "id": 16,
+   "en": "Oh yeah!{01 00 00 0a 00} Now you completely\nforgot {ff 00 00 02}{04 10 00}{ff 00 00 00}!\nTough work, I know!\nAnd from this moment on,\nyou'll need to become a pro\n{ff 00 00 02}{04 0f 00} {ff 00 00 00}champ!\nLet's get on the ready line,\n{04 1f 00}!",
+   "et": ""
+  },
+  {
+   "id": 17,
+   "en": "What?{01 00 00 05 00} You don't wanna\nchange it, {01 00 00 05 00}{04 02 00}?!{01 00 00 0a 00}\nOh man, weak sauce!\nYou've come so far! You're\nquitting in the fourth\nquarter!",
+   "et": ""
+  },
+  {
+   "id": 18,
+   "en": "What?!{01 00 00 05 00} You not gonna change\nit after all, {01 00 00 05 00}{04 02 00}!\nMan, that's a bummer.",
+   "et": ""
+  }
+ ]
+}

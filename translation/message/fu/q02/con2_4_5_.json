@@ -1,0 +1,20 @@
+{
+ "file": "script/ENG/message/fu/q02/con2_4_5_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 00 00}I'm a little disappointed in\nyou, {01 00 00 05 00}{04 1f 00}. Still no\n{0b 02 00}{04 1a 00}?\n{07 0f 00}Well, don't worry about it\ntoo much.{01 00 00 05 00} I haven't caught\none either, {01 00 00 05 00}{04 02 00}.",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 04 00}Heya, {01 00 00 05 00}{04 1f 00}!{01 00 00 0f 00} Shouldn't\nyou be out fishing? Are you\neven trying to beat me?\nBecause at this rate, I'm\ngonna beat you to that\n{0b 02 00}{04 1a 00}!",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 00 00}I thought you could find\n{04 1a 00}\nanywhere, but I guess not.\n{07 0b 00}Do you think we're in over\nour heads, {01 00 00 05 00}{04 02 00}?",
+   "et": ""
+  }
+ ]
+}

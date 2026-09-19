@@ -1,0 +1,20 @@
+{
+ "file": "script/ENG/message/ko/q07/fin_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 19 00}{01 00 00 05 00}{0b 03 00}{ff 00 00 06}{04 0f 00} {ff 00 00 00}and me go way \nback.{07 00 00} Some things just go\nwithout saying.\n{07 14 00}Just{01 00 00 05 00} tell that animal I\nappreciate it, {01 00 00 05 00}{04 02 00}.",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 14 00}Hm{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} {07 13 00}That really warms my \ncold, crabby heart. \n\n{07 14 00}Send {ff 00 00 06}{04 0f 00} {ff 00 00 00}my best,\n{01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 00 00}Well, this might sound a\nlittle sappy coming from\nme, but{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n{07 14 00}That {ff 00 00 06}{04 0f 00}{ff 00 00 00} isn't all\nthat bad, {01 00 00 05 00}{04 02 00}.",
+   "et": ""
+  }
+ ]
+}

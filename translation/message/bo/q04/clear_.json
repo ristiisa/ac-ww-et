@@ -1,0 +1,20 @@
+{
+ "file": "script/ENG/message/bo/q04/clear_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 14 00}Uh huh huh huh{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00} Thanks a\nlot,{01 00 00 0a 00} {04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 0d 00}Uh huh huh huh{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00} Now I know\nwhere to go if I need\nanything else!",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{0b 03 00}{04 1f 00},{01 00 00 05 00} your kindness\nalways makes my belly feel\nall warm. Thanks!",
+   "et": ""
+  }
+ ]
+}

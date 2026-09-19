@@ -1,0 +1,80 @@
+{
+ "file": "script/ENG/message/ge/tsu/friend_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 00 00}You know {ff 00 00 06}{04 16 00}{ff 00 00 00} and\n{ff 00 00 06}{04 17 00}{ff 00 00 00}?\n{ff 00 00 06}\n{ff 00 00 00}{07 0b 00}They're one of {04 04 00}'s\nbiggest couples, according\nto {ff 00 00 02}Ms. Nintendique{ff 00 00 00}, right?\n{07 16 00}Well, {01 00 00 05 00}lemme tell you,\nbiggest doesn't always mean\nthe best, {01 00 00 05 00}{04 02 00}.",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 0b 00}{0b 03 00}{ff 00 00 06}{04 16 00} {ff 00 00 00}and \n{ff 00 00 06}{04 17 00}{ff 00 00 00}?\n\n{07 00 00}{07 14 00}It's so adorable! They're in\nthe same organic\n{04 13 00} club!\n{07 00 00}Not that there's anything\nsuspicious about that,\n{01 00 00 05 00}{04 02 00}. {01 00 00 05 00}Right?",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 15 00}Lately, {01 00 00 05 00}{ff 00 00 06}{04 16 00} {ff 00 00 00}and\n{ff 00 00 06}{04 17 00} {01 00 00 05 00}{ff 00 00 00}{07 16 00}have been in\nthe nastiest mood! \n{06 00 00 09 0a}",
+   "et": ""
+  },
+  {
+   "id": 3,
+   "en": "{07 00 00}{0b 03 00}{ff 00 00 06}{04 16 00} {ff 00 00 00}and {ff 00 00 06}{04 17 00}\n{ff 00 00 00}have the kind of friendship\nthat only guys have.{ff 00 00 06}\n{ff 00 00 00}{07 15 00}You know, the kind where\nyou settle arguments with\nyour fists!",
+   "et": ""
+  },
+  {
+   "id": 4,
+   "en": "{07 00 00}{0b 03 00}{ff 00 00 06}{04 16 00} {ff 00 00 00}and\n{ff 00 00 06}{04 17 00}{ff 00 00 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{ff 00 00 06}\n\n{06 00 00 0b 0c}",
+   "et": ""
+  },
+  {
+   "id": 5,
+   "en": "{07 06 00}Actually, {ff 00 00 06}{04 16 00} {ff 00 00 00}and\n{ff 00 00 06}{04 17 00} {ff 00 00 00}are in this\ngnarly feud, {01 00 00 05 00}{04 02 00}.\n{07 08 00}They wouldn't hug and make\nup even after I cried and\nbegged{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 0b 00}Maybe I didn't cry\nconvincingly enough?",
+   "et": ""
+  },
+  {
+   "id": 6,
+   "en": "{07 14 00}{0b 03 00}{ff 00 00 06}{04 16 00} {ff 00 00 00}and {ff 00 00 06}{04 17 00}\n{ff 00 00 00}get along like champs!\n\n{06 00 00 0d 0e}",
+   "et": ""
+  },
+  {
+   "id": 7,
+   "en": "{07 00 00}{0b 03 00}{ff 00 00 06}{04 16 00} {ff 00 00 00}and\n{ff 00 00 06}{04 17 00} {ff 00 00 00}have a weird\nrelationship.\n{07 16 00}They're both kinda self-\ncentered, so it's hard to\ntell what they're thinking.\n{07 00 00}Maybe they just don't\nthink at all, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 8,
+   "en": "{07 00 00}Man! {ff 00 00 06}{04 16 00} {ff 00 00 00}and\n{ff 00 00 06}{04 17 00}{ff 00 00 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n\n{07 15 00}Those two are rabid rivals!\n{07 00 00}If {ff 00 00 06}{04 16 00} {ff 00 00 00}buys a\n{04 15 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{0b 03 00}{ff 00 00 06}{04 17 00} {ff 00 00 00}has just got to\ngo buy a more expensive\n{04 15 00}!\n{07 15 00}What a typical cat fight!\nI mean, could you be any\nless original, {01 00 00 05 00}{04 02 00}?",
+   "et": ""
+  },
+  {
+   "id": 9,
+   "en": "{07 00 00}So the whole fight started\nwhen {ff 00 00 06}{04 16 00} {ff 00 00 00}called\n{ff 00 00 06}{04 17 00}{ff 00 00 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 06 00}his ex's name by accident,\n{01 00 00 05 00}{04 02 00}!!!\n\n{07 16 00}OUCH! {01 00 00 05 00}That's gotta sting,\n{01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 10,
+   "en": "{07 00 00}So all the drama started\nwhen {07 16 00}{ff 00 00 06}{04 16 00} {ff 00 00 00}sold\na {04 15 00}.\nThe thing is, {ff 00 00 06}{04 17 00}\n{ff 00 00 00}gave it to him as a\npresent, {01 00 00 05 00}{04 02 00}!\n{07 15 00}That girl's heart was\nshattered! She has a right\nto go psycho on him.",
+   "et": ""
+  },
+  {
+   "id": 11,
+   "en": "{07 00 00}The {04 01 00} News Source\nhasn't received the latest\ninfo on these two yet.\n{07 14 00}But stay tuned for the\nlatest gossip as soon as it\ncomes in, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 12,
+   "en": "{07 0e 00}Those two? {01 00 00 05 00}Hmmmm{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} Are\nthey keeping a safe\ndistance from each other?",
+   "et": ""
+  },
+  {
+   "id": 13,
+   "en": "{07 00 00}I wonder if{07 0b 00} they'll pair up\nto sing a hot duet on a\nsmash debut album?\n{07 06 00}They'd sell even more if\nthey signed me to join the\ngroup and made it a trio!",
+   "et": ""
+  },
+  {
+   "id": 14,
+   "en": "{07 0d 00}But {ff 00 00 06}Sable {ff 00 00 00}and {ff 00 00 06}Mabel {ff 00 00 00}are a\ngood combo, too! I just\ntotally thought of that!",
+   "et": ""
+  }
+ ]
+}

@@ -1,0 +1,20 @@
+{
+ "file": "script/ENG/message/fu/q03/return_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 14 00}Yep! {01 00 00 05 00}Fossils sure are great,\n{01 00 00 05 00}{04 02 00}!{01 00 00 05 00} I can't wait\nto find even more!",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 0d 00}I'm going to put this fossil\nright in the middle of my\nroom, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 0e 00}Hmmm{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} I need a good place\nto put this fossil.{01 00 00 05 00} I hope\nmy simple room will do!",
+   "et": ""
+  }
+ ]
+}

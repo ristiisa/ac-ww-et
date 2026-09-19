@@ -1,0 +1,35 @@
+{
+ "file": "script/ENG/message/bo/ai/7days_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 04 00}{0b 03 00}{01 06 00}Whoa{01 07 00}! {01 00 00 0a 00}\nHow many weeks has it\nbeen?{01 00 00 0a 00} {04 11 00}? We missed you!\n{07 15 00}I've been really focused{01 00 00 0a 00}\nand super productive\nlately{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 17 00}Well, maybe not SUPER\nproductive exactly{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}. {01 00 00 0a 00}\n\nA huh huh huh! {01 00 00 0a 00}OK,{01 00 00 0a 00} I've\nreally just been playing\nvideo games, {04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 04 00}{01 00 00 0a 00}{0b 03 00}{04 1f 00}!?{01 00 00 14 00} Where've you\nbeen? How many weeks has\nit been? {04 11 00}?\n{07 1d 00}{01 00 00 14 00}What!{01 00 00 14 00} You think maybe\nsomeone's following you?{01 01 00}\n{07 14 00}Whoa! That's so creepy!",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 17 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00}I haven't seen you in so\nlong that now I feel really\nshy.\n{07 00 00}How many weeks has it been\nsince I saw you last? {01 00 00 0a 00}{04 11 00}?\n{01 00 00 0a 00}{03 03 00 00}It's like we're strangers...",
+   "et": ""
+  },
+  {
+   "id": 3,
+   "en": "{07 19 00}A huh huh! How many weeks\nhas it been? {04 11 00}, right?\nWell, {04 1f 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00}\n{07 11 00}I know your secret,\n{04 02 00}! And let me\njust say...\n{07 00 00}I've been practicing, too!\n{07 0d 00}If you want an eating\ncontest,{01 00 00 05 00} I'm your guy!",
+   "et": ""
+  },
+  {
+   "id": 4,
+   "en": "{07 14 00}You're back, {01 00 00 0a 00}{04 02 00}!\n\n\n{07 16 00}Let me tell you, it's been{01 00 00 0a 00}\nso unbelievably lonely\nwithout you around{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00}\nI haven't been able to eat!\n{07 1d 00}All I could get down for\nlunch was two pizzas{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 06 00}I'm wasting away!",
+   "et": ""
+  },
+  {
+   "id": 5,
+   "en": "{07 00 00}How many weeks has it been\nsince we last saw each\nother? {01 00 00 14 00}{04 11 00}? Way too long!\n{01 00 00 0a 00}{07 1b 00}{01 00 00 05 00}You haven't changed a bit!\n{07 16 00}People have been telling me\nthat I've grown a lot,\nbut{01 00 00 0a 00} for you, time seems to\nstand still{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 06 00}It's kind of creepy, really...",
+   "et": ""
+  }
+ ]
+}

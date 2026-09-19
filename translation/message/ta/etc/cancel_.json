@@ -1,0 +1,20 @@
+{
+ "file": "script/ENG/message/ta/etc/cancel_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 00 00}For real, {01 00 00 0a 00}{04 02 00}!?\nFine!",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 00 00}Really?{01 00 00 05 00} That's OK, I guess,\n{01 00 00 0a 00}{04 02 00}.",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 00 00}Tee hee! {01 00 00 0a 00}All right, fine,\n{01 00 00 0a 00}{04 02 00}.",
+   "et": ""
+  }
+ ]
+}

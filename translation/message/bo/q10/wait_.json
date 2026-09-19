@@ -1,0 +1,20 @@
+{
+ "file": "script/ENG/message/bo/q10/wait_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 00 00}Huh?{01 00 00 14 00} {0b 03 00}{04 1f 00},{01 00 00 05 00} {07 0b 00}you going\nsomewhere? {01 00 00 05 00}Is this your\nway of telling me to scram?\n{07 14 00}All right, then, I guess I'll\nhead out, too, {01 00 00 0a 00}{04 02 00}.",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 00 00}Huh?{01 00 00 14 00} Oh, {04 1f 00},{01 00 00 05 00} {07 0b 00}you\ngoing somewhere? {07 14 00}If so, I\nguess I'll head out, too.\n{07 07 00}'Cause it's so weird hanging\nout in someone's place when\nthey're not there.",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 04 00}Huh?{01 00 00 05 00} Where are you going,\n{04 1f 00}? {01 01 00}{07 06 00}Don't leave me\nhere all alone!\nOr maybe I should just go\nhome then, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  }
+ ]
+}

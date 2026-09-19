@@ -1,0 +1,20 @@
+{
+ "file": "script/ENG/message/ta/q01/con1_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 04 00}Oh, {01 00 00 0a 00}{04 1f 00}, you haven't\ncaught anything either?\nThis is totally weird.\n{07 1b 00}Usually, you can't swing a\nnet without catching\n{04 1a 00}.",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 00 00}Hmm{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00} {07 16 00}I can't find a single\n{01 00 00 0a 00}{0b 02 00}{04 1a 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 19 00}They're probably hiding...{01 00 00 0a 00}\nAnd laughing at us!{01 01 00}{07 15 00}{01 08 00} FINE!{01 00 00 0a 00}\nLaugh it up, bugs! We'll see\nwho's laughing in the end!",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 15 00}I can't believe that I'm \nactually being fooled by \n{04 1a 00}{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.\nCome out, {01 00 00 0f 00}you coward! Stop\nhiding! {01 00 00 05 00}{0b 03 00}{04 02 00}!",
+   "et": ""
+  }
+ ]
+}

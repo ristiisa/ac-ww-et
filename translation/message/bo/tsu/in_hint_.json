@@ -1,0 +1,55 @@
+{
+ "file": "script/ENG/message/bo/tsu/in_hint_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "I'm about to go hang out by\na secret tree.\n\n{07 14 00}I've got a rendezvous with\n{04 1a 00}!\n\n{07 19 00}If you want to rendezvous,\ntoo, I'd recommend going\n{04 12 00}!{07 00 00}",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "At this time of year, you\nshould hang out in the\ngrass{01 00 00 0a 00} {04 12 00}.\n{07 0d 00}You could have a fateful\nencounter{01 00 00 05 00} with\n{04 1a 00}!",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 14 00}Hey,{01 00 00 05 00} {04 1f 00}!{01 00 00 0a 00}{07 00 00} Do you\nwant me to tell you{01 00 00 0a 00} what\nthe bug of the month is?{02 00 00 06 07}\nNot at all.\nPlease tell me!",
+   "et": ""
+  },
+  {
+   "id": 3,
+   "en": "{07 0e 00}{01 00 00 0a 00}Around this time of year,\n{0b 01 00}{04 1a 00}\nseems to lurk in trees.\n{07 06 00}But at the very moment I\nmove to catch it,{01 00 00 05 00} it flies\noff somewhere,{01 00 00 0a 00} {04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 4,
+   "en": "{07 13 00}Huh huh huh!{01 00 00 0a 00} The\n{0b 02 00}{04 1a 00}\nis sooo cool,{01 00 00 0a 00} {04 02 00}.\n{07 14 00}At this time of year,{01 00 00 0a 00} if\nyou just wait in the grass,\nyou can probably see one{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 0d 00}I highly recommend\ngoing {04 12 00}. You\nshould dress up, too!",
+   "et": ""
+  },
+  {
+   "id": 5,
+   "en": "{07 16 00}For some reason, I've\ntotally stopped bumping\ninto any bugs.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 06 00}I thought I'd find\n{04 1a 00}{01 00 00 0a 00}\nin no time,{01 00 00 0a 00} {04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 6,
+   "en": "{07 18 00}WHAT?!{01 00 00 14 00} {0b 03 00}{04 1f 00}, you're\nno fun at all!{01 00 00 0a 00} {07 00 00}But{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 16 00}{01 00 00 05 00}that\nline of yours{01 00 00 0a 00} was cool.\n{07 13 00}{01 02 00}\"Not at all.\"{01 03 00}{01 00 00 05 00} I like that{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\nI'm gonna use that next\ntime I talk to {04 0b 00}!",
+   "et": ""
+  },
+  {
+   "id": 7,
+   "en": "{06 00 00 0a 0b}",
+   "et": ""
+  },
+  {
+   "id": 10,
+   "en": "{07 14 00}This month's bug is the\n{0b 02 00}{04 1a 00}.{01 00 00 05 00}\n\n{07 00 00}Try looking for it\n{04 12 00}.{01 00 00 0a 00} Good luck,\n{01 00 00 0a 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 11,
+   "en": "{07 0e 00}Um, you know{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}. {07 14 00}Maybe I\nwon't tell you after all,\n{01 00 00 0a 00}{04 02 00}.",
+   "et": ""
+  }
+ ]
+}

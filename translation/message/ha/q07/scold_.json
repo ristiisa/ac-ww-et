@@ -1,0 +1,20 @@
+{
+ "file": "script/ENG/message/ha/q07/scold_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 16 00}Next time, you best start\nHAULING the second I give\nit to you, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 15 00}If you fail me next time,\nyou're fired, {01 00 00 05 00}{04 02 00}!{01 00 00 05 00}\nFired from the WORLD!",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 16 00}Who else can I count on if\nnot you, huh?{01 00 00 05 00} No one!{01 00 00 05 00}\nRemember it, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  }
+ ]
+}

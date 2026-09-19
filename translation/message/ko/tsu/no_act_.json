@@ -1,0 +1,55 @@
+{
+ "file": "script/ENG/message/ko/tsu/no_act_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "Walking around is fun and \ncheap. Heh, it doesn't get \nany cheaper than free!\n{07 19 00}Yep,{01 00 00 05 00} it's pretty much right\nup my alley, {01 00 00 05 00}{04 02 00}.",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "I think randomly wandering \naround {04 03 00} is a\npretty sweet hobby.\nDon't you think vagabonds\nare cool, {01 00 00 05 00}{04 02 00}?{02 00 00 08 09}\nOh yeah!\nNot really.",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "I don't stroll.{01 00 00 05 00} I don't\nmosey.{01 00 00 05 00} I speed-walk,\n{01 00 00 05 00}{04 02 00}!\nSounds kinda tough, right?\n{01 00 00 0f 00}SPEED-WALKING!{01 01 00} \n{07 14 00}Serious stuff, {01 00 00 05 00}{04 02 00}.",
+   "et": ""
+  },
+  {
+   "id": 3,
+   "en": "For soup's sake, kid! Do ya\nthink I'm just walking\naround for the fun of it?{01 00 00 05 00}\n{07 15 00}I'm crazy like a shark!{01 00 00 0f 00}\n{07 19 00}If I don't stop movin', I'm \ndead meat, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 4,
+   "en": "{07 16 00}It's not like I think about\nwhere to {04 22 00}\nall the time!\n{07 00 00}Sometimes, I like to walk\naround to clear my head,\n{01 00 00 05 00}{04 02 00}!\n{07 19 00}You know, when I'm feeling\nespecially grumpy, \n{01 00 00 05 00}{04 02 00}.",
+   "et": ""
+  },
+  {
+   "id": 5,
+   "en": "Do you wanna {07 0b 00}take a walk \nwith me or somethin',\n{01 00 00 05 00}{04 02 00}?\n{07 00 00}I probably won't ditch you\nand run and hide,\n{07 14 00}{01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 6,
+   "en": "{07 02 00}{01 08 00}LEG CRAMP!{01 00 00 0f 00}\nAgggghhh!{01 00 00 0f 00} Why did I walk so\nfar? My legs are killin' me!\n{07 00 00}The first thing I gotta do\nis chug {04 13 00}!\n{01 00 00 05 00}{0b 03 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 7,
+   "en": "{07 16 00}I'm NOT walking around\naimlessly, so quit lookin' at\nme like that, {01 00 00 05 00}{04 02 00}.\n{07 00 00}I'm helping {04 0b 00} find\na lost {04 15 00}.",
+   "et": ""
+  },
+  {
+   "id": 8,
+   "en": "{07 00 00}All right, {04 1f 00},\n{01 00 00 14 00}follow me! {0b 03 00}{01 00 00 05 00}{04 02 00}!\n\n{07 0d 00}We're gonna truck through\n{04 03 00}, until we've\ncovered every inch!{03 01 00 01}",
+   "et": ""
+  },
+  {
+   "id": 9,
+   "en": "{07 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}Yeah,{01 00 00 05 00} I didn't think you'd\nunderstand, {04 1f 00}.\n\nI know your kind. You just\ndon't have what it takes to\nbe a pro walker.\n{07 01 00}I don't want anything to do\nwith your lame no-walking\nlifestyle, {01 00 00 05 00}{04 02 00}!{03 02 00 01}",
+   "et": ""
+  }
+ ]
+}

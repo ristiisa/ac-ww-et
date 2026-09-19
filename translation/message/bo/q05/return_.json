@@ -1,0 +1,20 @@
+{
+ "file": "script/ENG/message/bo/q05/return_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 14 00}Huh huh huh!{01 00 00 14 00} This furniture{01 00 00 0a 00}\nreally does smell good.{01 00 00 0a 00}\nSeriously, give it a sniff!",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 0a 00}Huh huh!{01 00 00 05 00} Right now{01 00 00 0f 00}{01 00 00 0a 00} I feel so\nwarm and happy inside! Like\nfresh-baked bread!",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 0e 00}{01 00 00 0a 00}Hmm.{01 00 00 05 00} Now the question is,\nwhere in my place should\nit go{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n{07 19 00}Right now,{01 00 00 0a 00} I'm thinking\nabout how to set the right\nmood,{01 00 00 0a 00} {04 02 00}.",
+   "et": ""
+  }
+ ]
+}

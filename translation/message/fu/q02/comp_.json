@@ -1,0 +1,20 @@
+{
+ "file": "script/ENG/message/fu/q02/comp_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 14 00}I like having a few fish\naround to keep me company\nat home, {04 1f 00}.\nEven if I don't have any\nfriends, {07 09 00}I can always talk\nto my fishies, {01 00 00 05 00}{04 02 00}.",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 14 00}I put a ton of fish tanks\nin my room!\n \n{07 17 00}I think it finally looks\nlike a professional\naquarium!",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 14 00}My room looks good, and it\nsmells great! Nothing like\nfish to freshen a place!\n{07 0d 00}And the more you have,\nthe better it smells! It's\namazing, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  }
+ ]
+}

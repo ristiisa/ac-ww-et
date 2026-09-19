@@ -1,0 +1,80 @@
+{
+ "file": "script/ENG/message/fu/tsu/fo_act_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{06 08 00 08 09 0a 0b}",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 14 00}{0b 03 00}{04 1f 00},{01 00 00 05 00} why don't you\nand I go look for fossils\ntogether, {01 00 00 05 00}{04 02 00}!\nJust follow me,{01 00 00 05 00} because\nI know the perfect spot!",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 16 00}It's not here!{01 00 00 05 00} It's not here!{01 00 00 05 00}\nBut no!{01 00 00 05 00} I have to believe!{01 00 00 05 00}\nI can't lose faith!\n{07 15 00}It's here.{01 00 00 05 00} I'm SURE it is!{01 00 00 0f 00}\n{07 06 00}I am absolutely positive{01 00 00 05 00}\nthere's a fossil here{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.",
+   "et": ""
+  },
+  {
+   "id": 3,
+   "en": "{06 01 00 0c 0d 0e}",
+   "et": ""
+  },
+  {
+   "id": 4,
+   "en": "I'm starting to think I've\nbeen talking to {ff 00 00 06}Blathers{ff 00 00 00}\ntoo much.\n{07 14 00}He's gotten me all excited\nabout going out and digging\nup some fossils{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\nI know! {07 0b 00}{0b 03 00}{04 1f 00}, would\nyou like to come too,\n{01 00 00 05 00}{04 02 00}?",
+   "et": ""
+  },
+  {
+   "id": 5,
+   "en": "{07 0f 00}It looks easy, but I can't\nfind any fossils.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0f 00}{07 16 00} It's not\nsupposed to be so hard!\n{07 06 00}{0b 03 00}{04 1f 00}, you have to\nhelp me find a fossil!{01 00 00 0f 00}\nPleeeeease, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 6,
+   "en": "{07 0e 00}Hmmmmm{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} {07 16 00}It's hard work,\ndigging up fossils,\n{01 00 00 05 00}{04 02 00}!\n{07 06 00}I wish someone would bury\none for me and tell me\nwhere it is, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 7,
+   "en": "{07 15 00}Even once you've found a\nfossil, don't go digging like\na madman, {04 1f 00}!\n{07 00 00}Fossils are very fragile,{01 00 00 0f 00}\nlike poor {04 01 00}. You\nhave to treat them gently.",
+   "et": ""
+  },
+  {
+   "id": 8,
+   "en": "{07 14 00}If you want to find fossils,{01 00 00 05 00}\nstart digging early, before\nanyone else wakes up.\n{07 00 00}You know what they say...{07 0d 00}\nThe early bird gets the\npetrified worm!",
+   "et": ""
+  },
+  {
+   "id": 9,
+   "en": "{07 0b 00}{0b 03 00}{04 1f 00}, did you\nremember to eat your\nlunch, {01 00 00 05 00}{04 02 00}?\n{07 00 00}When I'm out hunting for\ndinosaur bones and stuff, I\nlose track of time.\n{07 06 00}One time, I got so hungry\nthat I started gnawing on a\nbone I'd dug up!",
+   "et": ""
+  },
+  {
+   "id": 10,
+   "en": "{07 16 00}I'm worn out from digging\nall day, {01 00 00 05 00}{04 02 00}!\n\n{07 0e 00}Maybe I should go home and\nmake myself a hot cup\nof {04 13 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.",
+   "et": ""
+  },
+  {
+   "id": 11,
+   "en": "{07 16 00}Once it gets dark, it can\nbe pretty tough to find\nany fossils, {07 15 00}{01 00 00 05 00}{04 02 00}.\nI should go to bed soon{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0f 00}\n{07 06 00}But what if I'm just about\nto find the perfect fossil?",
+   "et": ""
+  },
+  {
+   "id": 12,
+   "en": "{07 14 00}{0b 03 00}{04 1f 00}, do you want to\njoin me for a little fossil\nhunting, {01 00 00 05 00}{04 02 00}?\nIt can be slow work, and I'd\nlove to have a little\ncompany while I dig around.",
+   "et": ""
+  },
+  {
+   "id": 13,
+   "en": "{07 00 00}Fossils are the remains of\ncreatures that lived\nthousands of years ago{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\nFor me, {07 13 00}digging up fossils\nis like digging up chunks of\nhistory, {01 00 00 05 00}{04 02 00}!{03 01 00 01}",
+   "et": ""
+  },
+  {
+   "id": 14,
+   "en": "{07 0e 00}Hmmmmmm.{01 00 00 0a 00} I'm starting to\nthink there's nothing\nhere.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n{07 14 00}{0b 03 00}{04 1f 00}, you'll let me\nknow if you find anything,\nwon't you, {01 00 00 05 00}{04 02 00}?\n{07 00 00}You'd think there'd be some\nkind of mark where a fossil\nis buried, {01 00 00 05 00}{04 02 00}.",
+   "et": ""
+  }
+ ]
+}

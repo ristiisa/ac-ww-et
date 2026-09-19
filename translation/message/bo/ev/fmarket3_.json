@@ -1,0 +1,105 @@
+{
+ "file": "script/ENG/message/bo/ev/fmarket3_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 0d 00}Whoa,{01 00 00 0a 00} {04 1f 00}! You have\ntons of furniture!{01 00 00 0a 00} How do\nyou decide where to sit?",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 14 00}Huh huh huh!{01 00 00 0a 00} I finally get\nto see the inside of your\nhouse,{01 00 00 0a 00} {04 02 00}.",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "Hmm.{01 00 00 0a 00} I think my furniture\nmeter is filling up.\n\nThat means it's time for\nme to move on to the next\nhouse, {01 00 00 0a 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 3,
+   "en": "{07 14 00}Ahhh!{01 00 00 0a 00} I feel so at home\nhere. I just want to kick\nback and relax...\n{07 00 00}I could stay here forever.{01 00 00 0a 00}\n{07 14 00}But I need to go see a\nfriend's wares...\nSo I guess it's about time I\nmove along,{01 00 00 0a 00} {04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 4,
+   "en": "{07 04 00}This room{01 00 00 0a 00} smells like\nchicken, {01 00 00 0a 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 5,
+   "en": "{07 14 00}Hmmm.{01 00 00 0a 00} So, you like THIS\nkind of furniture? {01 01 00}{07 00 00}Wow.\nI didn't really expect that.",
+   "et": ""
+  },
+  {
+   "id": 6,
+   "en": "{07 14 00}{0b 03 00}{04 1a 00}!!\nWhoa! Talk about a\ncollector's piece!\n{07 0b 00}How much you charging,{01 00 00 05 00}\n{04 02 00}?{02 00 00 ff ff}\nLet's haggle.\nNot for sale!",
+   "et": ""
+  },
+  {
+   "id": 7,
+   "en": "{07 00 00}Huh huh huh!{01 00 00 0f 00} {07 14 00}Nice\n{0b 02 00}{04 1a 00}{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.\n\n{07 00 00}So, {04 1f 00}?{01 00 00 0a 00}{07 0b 00} How much\nare you charging this\nfine day?{02 00 00 ff ff}\nLet's haggle.\nI'm not selling!",
+   "et": ""
+  },
+  {
+   "id": 8,
+   "en": "{07 16 00}Oh, really?{01 00 00 14 00} {07 1c 00}{01 00 00 05 00}That's too bad,\n{01 00 00 0a 00}{04 02 00}.",
+   "et": ""
+  },
+  {
+   "id": 9,
+   "en": "{07 0e 00}Hmm.{01 00 00 0a 00} You seem to have the\nexact same taste as me{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 01 00}\n{07 07 00}Are you.{01 00 00 05 00}.{01 00 00 05 00}.spying on me?",
+   "et": ""
+  },
+  {
+   "id": 10,
+   "en": "{07 04 00}{01 00 00 0a 00}Whoa!{01 00 00 14 00} I don't want to be\nrude but {07 06 00}that's kind of a\nrip-off!{01 00 00 0a 00} Drop the price!{02 00 00 ff ff}\nFine! Fine!\nNo way!",
+   "et": ""
+  },
+  {
+   "id": 11,
+   "en": "{07 16 00}Oh, OUCH! That's so\nexpensive it stings.{01 00 00 0a 00} Oh, ow!\nI can't even look at it!\n{07 15 00}It's not like I'm filthy rich\nor anything.{07 06 00} So, come on!\nDrop the price already!{02 00 00 ff ff}\nOK! OK!\nTake it or else!",
+   "et": ""
+  },
+  {
+   "id": 12,
+   "en": "{07 14 00}OK!{01 00 00 14 00} Then{01 00 00 0a 00} we have a deal,{01 00 00 0a 00}\n{04 02 00}!{02 00 00 ff ff}\nIt's yours!\nThen again...",
+   "et": ""
+  },
+  {
+   "id": 13,
+   "en": "{07 15 00}Yesss!{01 00 00 0a 00} Then the number of\nBells I'll pay you is {04 0f 00}.\n\n{07 16 00}This isn't a practical joke,\nis it? {01 00 00 0a 00}I really can take it,\ncan't I,{01 00 00 0a 00} {04 02 00}?{02 00 00 ff ff}\nYep!\nNope!",
+   "et": ""
+  },
+  {
+   "id": 14,
+   "en": "{07 14 00}Huh huh huh!{01 00 00 0a 00} So we have a\ndeal then? {01 01 00}{07 0d 00}Thanks for the\n{0b 02 00}{04 1a 00}!",
+   "et": ""
+  },
+  {
+   "id": 15,
+   "en": "{07 0a 00}Yes!{01 00 00 0a 00} You're mine, little\n{0b 02 00}{04 1a 00}!\nHuh huh huh,{01 00 00 0a 00} {04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 16,
+   "en": "{07 16 00}Really?{01 00 00 14 00} Well, that won't do,{01 00 00 0a 00}\n{04 1f 00}! {01 01 00}{07 1b 00}That's what\nthey call \"wishy-washy\"!",
+   "et": ""
+  },
+  {
+   "id": 17,
+   "en": "{07 06 00}Hey now!{01 00 00 0a 00} Why do you gotta\nbe such a wet blanket,\n{01 00 00 0a 00}{04 1f 00}?!",
+   "et": ""
+  },
+  {
+   "id": 18,
+   "en": "{07 00 00}Oh! {0b 03 00}{04 1f 00}, it\nlooks like you can't carry\nany more Bells!\n{07 1b 00}Sheesh!{01 00 00 0a 00} If you're gonna open\nup shop, at least get your\ncash register in order!",
+   "et": ""
+  },
+  {
+   "id": 19,
+   "en": "{07 00 00}Hey, {04 1f 00}!{01 00 00 14 00} {07 16 00}Your\npockets are already stuffed\nfull of Bells!\n{07 0f 00}Must be a nice feeling.{01 00 00 14 00}\nI guess our little deal is\noff,{01 00 00 0a 00} {04 02 00}.",
+   "et": ""
+  }
+ ]
+}

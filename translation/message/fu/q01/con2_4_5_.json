@@ -1,0 +1,20 @@
+{
+ "file": "script/ENG/message/fu/q01/con2_4_5_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 00 00}Still no sign of that ol'\n{0b 02 00}{04 1a 00},\nhuh, {01 00 00 05 00}{04 1f 00}?\nYou're not alone. {07 1c 00}I'm having\nno luck whatsoever.",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 04 00}{0b 03 00}{04 1f 00}! What are you\ndoing here? {01 00 00 0f 00}{07 0b 00}Don't you have\nbetter things to do?\n{07 06 00}You'd better hope you catch\n{04 1a 00}\nbefore I do, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 1c 00}Things aren't going so hot\nright now, {01 00 00 05 00}{04 02 00}.\n\n{07 16 00}I thought it'd be a lot\neasier to track down\n{04 1a 00}!",
+   "et": ""
+  }
+ ]
+}

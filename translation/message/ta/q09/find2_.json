@@ -1,0 +1,20 @@
+{
+ "file": "script/ENG/message/ta/q09/find2_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 00 00}I was going to you a prize\nbut {01 00 00 05 00}{07 16 00}your pockets are full!\nYou can't carry anymore!\n{07 14 00}Come back when you've taken\ncare of that stuff,\n{01 00 00 0a 00}{04 02 00}.",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 00 00}I thought that maybe I\nshould give you something\nfor winning but\n{07 16 00}it looks like you have too\nmuch stuff already,\n{01 00 00 0a 00}{04 02 00}.\n{07 00 00}Go deal with all your\nstuff and then come talk\nto me again, {01 00 00 05 00}{04 02 00}.",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "So,{01 00 00 05 00} I was prepared to give\nyou something in the off\nchance that you won but{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.\nYou're{01 00 00 05 00} already carrying too\nmuch stuff, {01 00 00 05 00}{04 02 00}.{01 01 00}\nGo deal with that first.",
+   "et": ""
+  }
+ ]
+}

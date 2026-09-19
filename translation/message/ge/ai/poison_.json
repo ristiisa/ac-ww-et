@@ -1,0 +1,20 @@
+{
+ "file": "script/ENG/message/ge/ai/poison_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 02 00}{0b 03 00}{04 1a 00}!\nOMIGOSH!{01 00 00 05 00} Oh, no! It's\ntotally freaking me out!\n{07 06 00}L-{01 00 00 05 00}look!{01 00 00 0a 00} Oh, {04 1f 00}, be\ncareful where you step!\n{01 00 00 05 00}{0b 03 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 07 00}Oh, no! {0b 03 00}{04 1f 00},{01 00 00 05 00} that\n{0b 02 00}{04 1a 00} is\ngetting closer!\n{07 06 00}It-{01 00 00 05 00}it freaks me out just\nlooking at it, {01 00 00 05 00}{04 02 00}!\nEek! Eek!",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 1d 00}N-{01 00 00 05 00}NOO!{01 00 00 14 00} {07 16 00}That huge, horrible{01 00 00 05 00}\n{0b 02 00}{04 1a 00}\nis gonna eat me!\n{07 06 00}{0b 03 00}{04 1f 00},{01 00 00 05 00} you gotta help\nme! Please, {01 00 00 05 00}{04 02 00}!\nSave me!",
+   "et": ""
+  }
+ ]
+}

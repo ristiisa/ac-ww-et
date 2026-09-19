@@ -1,0 +1,485 @@
+{
+ "file": "script/ENG/message/sp/npc/gatekeeper_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 22 00}Hello, and welcome to the\n{ff 00 00 08}checkpoint {ff 00 00 00}for bustling\n{04 03 00}{01 00 00 05 00}!\n{07 00 00}Listen well, {04 00 00}!\nWhen you want to visit\nanother town...{01 00 00 05 00}\nOr if, perhaps, you have a\nfriend come visit you here\nin {04 03 00}{01 00 00 0a 00}...\nI'd very much appreciate it\nif you'd please let me{01 00 00 05 00}\nknow in advance! I insist!\nYou see, because that way,{01 00 00 05 00}\nI can open the gate for you{01 00 00 0a 00}\nand let you through!",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 00 00}Ah! Is that so? Understood.{01 00 00 0f 00}\nWell, if you need anything,{01 00 00 05 00}\ndo not hesitate to ask!",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 00 00}{ff 00 00 01}Unable to register.{01 00 00 0a 00} Please\nturn the power off and\nreinsert the Game Card.",
+   "et": ""
+  },
+  {
+   "id": 4,
+   "en": "{07 22 00}Good morning to you!{01 01 00}\nYou're up rather bright and\nearly.{01 00 00 05 00} Very commendable!{07 00 00}",
+   "et": ""
+  },
+  {
+   "id": 5,
+   "en": "{07 22 00}A very good day to you!{01 01 00}\nI see you're working away\nwith due diligence. Hoo-rah!{07 00 00}",
+   "et": ""
+  },
+  {
+   "id": 6,
+   "en": "{07 22 00}A good evening to you!{01 01 00}\nAs the day nears its end,{01 00 00 05 00}\ntry to watch your step!{07 00 00}",
+   "et": ""
+  },
+  {
+   "id": 7,
+   "en": "{07 22 00}A fine evening to you!{01 01 00}\nYou're working rather late...{01 00 00 05 00}\nExemplary dedication!{07 00 00}",
+   "et": ""
+  },
+  {
+   "id": 8,
+   "en": "{07 24 00}Oh!{01 00 00 0a 00} Isn't there some other \nbusiness that you need to \ntake care of, {04 00 00}?\n{07 0e 00}Like your part-time job for\nexample{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n\n{07 22 00}Until you complete that\ntask, I am unfortunately\nunable to assist you.",
+   "et": ""
+  },
+  {
+   "id": 9,
+   "en": "{07 24 00}Oh!{01 00 00 0a 00} Isn't there some other \nbusiness that you need to \ntake care of, {04 00 00}?\n{07 0e 00}Like your part-time job,\nfor example{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n\n{07 22 00}Until you complete that\ntask, I am unfortunately\nunable to assist you.",
+   "et": ""
+  },
+  {
+   "id": 10,
+   "en": "{07 25 00}Are you going home?{02 04 00 00 0b}\nI'm going home.\nThen again...",
+   "et": ""
+  },
+  {
+   "id": 11,
+   "en": "{07 00 00}When you go home, we truly\nappreciate it{01 00 00 05 00} if you take a\nmoment to let us know!",
+   "et": ""
+  },
+  {
+   "id": 12,
+   "en": "{07 00 00}Ah, {04 00 00}.{01 00 00 0a 00} Poor form.{01 00 00 0f 00}\nMy deepest apologies!\n\nPeople seem to be engaged\nin an activity.{01 00 00 0a 00} I cannot\nprocess your request.",
+   "et": ""
+  },
+  {
+   "id": 13,
+   "en": "{07 22 00}On that note, {04 00 00}...{01 00 00 0f 00}\nI bid you farewell!{07 00 00}{01 10 00 1e}",
+   "et": ""
+  },
+  {
+   "id": 14,
+   "en": "{07 24 00}Oh!{01 00 00 0a 00} Isn't there still some\nunfinished business for you\nto attend to, {04 00 00}?\n{07 0e 00}Like your part-time job,\nfor example{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n\n{07 22 00}Unfortunately, I cannot\nopen the gate until you \ntake care of that.",
+   "et": ""
+  },
+  {
+   "id": 15,
+   "en": "{07 00 00}At any rate, is there\nsomething{01 00 00 0a 00} that I can do for\nyou at this time?{02 07 00 00 00 00 11 01}\nI wanna go out!\nInvite guests!\nFriend code!\nWhere am I?\nOh, nothing.",
+   "et": ""
+  },
+  {
+   "id": 16,
+   "en": "{07 00 00}At any rate, {01 00 00 05 00}can I do{01 00 00 0a 00}\nsomething for you?{02 06 00 00 00 11 01}\nI wanna go out.\nClose the gate.\nWhere am I?\nNothing.",
+   "et": ""
+  },
+  {
+   "id": 17,
+   "en": "{07 22 00}Listen well, {04 00 00}!\nThis is the {ff 00 00 08}checkpoint\n{ff 00 00 00}for bustling {04 03 00}{01 00 00 05 00}!\n{07 00 00}When you should want to\nvisit{01 00 00 05 00} another town...\n\nOr if, perhaps, you have a\nfriend come visit you here\nin {04 03 00}...{01 00 00 0a 00}\nI would appreciate you{01 00 00 05 00}\nletting me know so I can\nexpedite the gate-opening!{01 00 00 05 00}\nEfficiency is our utmost\nconcern here!",
+   "et": ""
+  },
+  {
+   "id": 18,
+   "en": "{07 22 00}I understand!{01 00 00 14 00} {07 00 00}I shall start\nthe process at once, so\nplease be patient!{01 10 00 28}",
+   "et": ""
+  },
+  {
+   "id": 20,
+   "en": "{07 00 00}Without further fanfare, I\nshall begin {ff 00 00 01}DS Wireless\nCommunications{ff 00 00 00}!\nThen you'll be able to visit\na nearby town! {01 00 00 0a 00}Hoo-rah!{02 04 00 54 22}\nOK!\nForget it.",
+   "et": ""
+  },
+  {
+   "id": 21,
+   "en": "{07 00 00}Without further ado, I will\nstart {ff 00 00 01}DS Wireless\nCommunications{ff 00 00 00}!\nThen you can host visitors\nfrom nearby towns.{01 00 00 0a 00}\nHoo-rah!{02 04 00 46 22}\nOK!\nForget it.",
+   "et": ""
+  },
+  {
+   "id": 23,
+   "en": "{07 24 00}Oh!{0b 03 00} {01 00 00 05 00}{04 00 00}!\n\n\n{07 00 00}I am quite unwilling to\nclose the gate when there\nare{01 00 00 05 00} visitors in town!",
+   "et": ""
+  },
+  {
+   "id": 25,
+   "en": "{07 25 00}Do you mind if I halt{ff 00 00 01}\nwireless communications{ff 00 00 00}?{02 04 00 12 0b}\nGo for it.\nStop! Wait!",
+   "et": ""
+  },
+  {
+   "id": 33,
+   "en": "{07 00 00}Is there anything else \nI can do for you?{02 06 00 00 00 11 01}\nI wanna go out!\nClose the gate!\nWhere am I?\nNothing.",
+   "et": ""
+  },
+  {
+   "id": 34,
+   "en": "{07 00 00}Is there perhaps something\nelse I could help you with?{02 07 00 00 00 00 11 01}\nI wanna go out!\nInvite guests!\nFriend code!\nWhere am I?\nOh, nothing.",
+   "et": ""
+  },
+  {
+   "id": 35,
+   "en": "{07 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}What's this?!{01 00 00 14 00} You still\nhave not been issued a\n{ff 00 00 02}friend code{ff 00 00 00}!\n{07 00 00}Your {ff 00 00 02}friend code\n{ff 00 00 00}distinguishes you while\nplaying with a very\ndistant friend over\n{ff 00 00 01}Nintendo WFC{ff 00 00 00}!\nAs long as you register \neach other's {ff 00 00 02}friend codes\n{ff 00 00 00}to your {ff 00 00 02}friend rosters{ff 00 00 00},\nyou can play in the\nsame town even if you are\nvery far apart!\n\nWell then, {01 00 00 05 00}{07 0b 00}would you like\nto be issued a {ff 00 00 02}friend code{ff 00 00 00}?{02 05 00 24 27 01}\nYes!\nUh, come again?\nNo, thanks.",
+   "et": ""
+  },
+  {
+   "id": 36,
+   "en": "{07 22 00}Affirmative!{01 00 00 14 00}\nSo that you can be issued\na{ff 00 00 02} friend code{ff 00 00 00},\n{07 00 00}I shall now initiate{01 00 00 05 00}\n{ff 00 00 01}Nintendo WFC{ff 00 00 00}!{02 04 00 25 22}\nLet's do this!\nNever mind.",
+   "et": ""
+  },
+  {
+   "id": 37,
+   "en": "{07 00 00}{ff 00 00 01}I am now connecting you to\nNintendo WFC... Please wait\njust a moment.{01 10 00 14}",
+   "et": ""
+  },
+  {
+   "id": 38,
+   "en": "{07 22 00}Everything is in order,\n{04 00 00}!{01 00 00 0a 00} Your {ff 00 00 02}friend\ncode {ff 00 00 00}is...\n{ff 00 00 02}{04 14 00}-{04 17 00}-{04 18 00}{ff 00 00 00}!",
+   "et": ""
+  },
+  {
+   "id": 39,
+   "en": "{07 00 00}When playing with a friend\nfor the first time using\n{ff 00 00 01}Nintendo WFC{ff 00 00 00},\nyou'll need a {ff 00 00 02}friend code\n{ff 00 00 00}to distinguish you,\n{04 00 00}.\nJust register each other's\n{ff 00 00 02}friend codes {ff 00 00 00}to your{ff 00 00 02} friend\nrosters{ff 00 00 00}.\nThen, you will be able to\nplay with that friend,{01 00 00 05 00}\neven when you're far apart!\nSo, {01 00 00 05 00}{04 00 00}, in order\nto issue a{ff 00 00 02} friend code {ff 00 00 00}to\nyou,\n{07 23 00}you will need to connect\nto {ff 00 00 01}Nintendo WFC {ff 00 00 00}once{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.",
+   "et": ""
+  },
+  {
+   "id": 40,
+   "en": ".{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}So,{01 00 00 05 00} would you like a\n{ff 00 00 02}friend code{ff 00 00 00}?{02 05 00 24 27 01}\nYes!\nTell me again.\nNo thanks.",
+   "et": ""
+  },
+  {
+   "id": 41,
+   "en": "{07 00 00}A{ff 00 00 02} friend code{ff 00 00 00} identifies\nwho you are, {04 00 00},\n\nwhen you are playing with\na distant friend via\n{ff 00 00 01}Nintendo WFC{ff 00 00 00}.\nBy the way, {04 00 00},\nyour{ff 00 00 02} friend code{ff 00 00 00} is\n{ff 00 00 02}{04 14 00}-{04 17 00}-{04 18 00}{ff 00 00 00}!\nShare it with your friends\nand have them add you to\ntheir {ff 00 00 02}friend rosters{ff 00 00 00}!\nAnd don't forget to ask\nyour friends for their\n{ff 00 00 02}friend codes{01 00 00 05 00}{ff 00 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.\nThat way,{01 00 00 05 00} you can register\nthem to your {ff 00 00 02}friend\nroster{ff 00 00 00}.\nThen, {01 00 00 05 00}you'll be able to\nvisit those friends via\n{ff 00 00 01}Nintendo WFC{ff 00 00 00}. {01 00 00 0a 00}Hoo-rah!",
+   "et": ""
+  },
+  {
+   "id": 42,
+   "en": "{07 00 00}My sincerest apologies,{01 00 00 05 00}\n{04 00 00}!\n\nFor some reason, {01 00 00 05 00} I don't\nseem to be able to connect\nto {ff 00 00 01}Nintendo WFC{ff 00 00 00} right now.",
+   "et": ""
+  },
+  {
+   "id": 44,
+   "en": "{07 25 00}Would you like to save and \nend your game?\n\nThat way, you can go\nchange your {ff 00 00 01}Nintendo WFC\nConfiguration{ff 00 00 00}?{02 00 00 66 22}\nChange it!\nNo thanks.",
+   "et": ""
+  },
+  {
+   "id": 45,
+   "en": "{07 00 00}Saving complete!{01 00 00 0a 00} {07 22 00}Please\nchange your {ff 00 00 01}Nintendo WFC\nConfiguration{ff 00 00 00}.{01 10 00 28}",
+   "et": ""
+  },
+  {
+   "id": 47,
+   "en": "{07 00 00}.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}Oh!{01 00 00 14 00} It appears that you\ncannot use your {ff 00 00 02}friend\ncode{ff 00 00 00}!\nWould you like to be issued\na new {ff 00 00 02}friend code{ff 00 00 00}?{02 05 00 24 27 01}\nGimme one!\nWhat's that?\nI'll pass.",
+   "et": ""
+  },
+  {
+   "id": 56,
+   "en": "{07 00 00}Very well, then,{01 00 00 05 00} I will close\nthe gate at once!\n\n{07 22 00}If you need anything at all,\ndon't hesitate to\ncall on me!",
+   "et": ""
+  },
+  {
+   "id": 57,
+   "en": "{07 22 00}Please let me know if\nthere is anything else I\ncan do for you!",
+   "et": ""
+  },
+  {
+   "id": 58,
+   "en": "{07 25 00}Would you like to close\nthe gate and halt the\n{ff 00 00 01}Nintendo WFC {ff 00 00 00}session?{02 04 00 38 39}\nYup!\nNot yet!",
+   "et": ""
+  },
+  {
+   "id": 61,
+   "en": "{07 00 00}By choosing {ff 00 00 01}DS to DS{ff 00 00 00}, you\ncan have a friend visit\nwho is close by.\nTo host a friend who is far\naway, {01 00 00 05 00}choose {ff 00 00 01}Nintendo WFC{ff 00 00 00}.{01 00 00 14 00}\n{07 25 00}Which would you prefer?{02 05 00 15 41 22}\nDS to DS.\nNintendo WFC.\nForget it...",
+   "et": ""
+  },
+  {
+   "id": 62,
+   "en": "{07 00 00}{ff 00 00 01}Connecting to Nintendo\nWFC... Please wait a moment.{01 10 00 14}",
+   "et": ""
+  },
+  {
+   "id": 65,
+   "en": "{07 00 00}Well then,{01 00 00 05 00} so that you can\nhost a visitor from far \naway, \nI shall begin {ff 00 00 01}Nintendo WFC\n{ff 00 00 00}procedures! {01 00 00 0a 00}Hoo-rah!{02 04 00 3e 22}\nOK!\nNever mind.",
+   "et": ""
+  },
+  {
+   "id": 69,
+   "en": "{07 22 00}{04 00 00}!{01 00 00 0f 00}\nYou cannot leave this town\nat this time!\nI apologize, but it's simply\nunavoidable right now!",
+   "et": ""
+  },
+  {
+   "id": 70,
+   "en": "{07 22 00}Understood! {01 00 00 14 00}I shall open\nthe gate! {01 00 00 0f 00}Hoo-rah!{01 10 00 28}",
+   "et": ""
+  },
+  {
+   "id": 71,
+   "en": "{07 24 00}No, no, {01 00 00 05 00}{04 00 00}!\nI apologize for the\noutburst, but I must insist!\n{07 00 00}While there is a visitor in\nyour town,{01 00 00 05 00} it is against\nregulations to leave!",
+   "et": ""
+  },
+  {
+   "id": 72,
+   "en": "{07 00 00}You wish to go somewhere?{01 01 00}\nI will need you to fill out\nsome forms first...",
+   "et": ""
+  },
+  {
+   "id": 73,
+   "en": "{07 00 00}Are you ready to go home?{01 01 00}\nI have to ask you to fill\nout a few things first...",
+   "et": ""
+  },
+  {
+   "id": 80,
+   "en": "{07 24 00}Pardon me, {01 00 00 05 00}{04 00 00}!\n\n\n{07 00 00}I'm afraid you cannot go\nanywhere{01 00 00 05 00} when you have a\nguest! {01 00 00 05 00}No.{01 00 00 05 00} Impossible!",
+   "et": ""
+  },
+  {
+   "id": 81,
+   "en": "{07 00 00}You would rather venture\nout{01 00 00 05 00}{07 25 00} than invite a guest?{02 04 00 00 01}\nI wanna go out!\nThen again...",
+   "et": ""
+  },
+  {
+   "id": 82,
+   "en": "{07 00 00}Choose{ff 00 00 01} DS to DS {ff 00 00 00}to visit a\nfriend who is close by.\n\nOr choose {ff 00 00 01}Nintendo WFC{ff 00 00 00} to\nvisit a far-away friend!\n\n{07 25 00}Which do you prefer?{02 05 00 14 7f 22}\nDS to DS.\nNintendo WFC.\nForget it...",
+   "et": ""
+  },
+  {
+   "id": 84,
+   "en": "{ff 00 00 01}{07 00 00}I will now search for a\ntown with an open gate...{01 00 00 05 00}\nPlease wait for a moment...{01 10 00 14}",
+   "et": ""
+  },
+  {
+   "id": 85,
+   "en": "{07 00 00}Might I suggest you consider\nthese towns?",
+   "et": ""
+  },
+  {
+   "id": 86,
+   "en": "{07 00 00}Currently,{01 00 00 05 00} I'm afraid there\nare no towns to which you\ncan venture!\nUnless the gate to another\ntown is open,{01 00 00 05 00} you cannot\ngo out.{02 04 00 54 22}\nTry again!\nForget it.",
+   "et": ""
+  },
+  {
+   "id": 87,
+   "en": "{ff 00 00 08}{07 00 00}{0b 03 00}{04 12 00}{ff 00 00 00}, the home of\n{ff 00 00 05}{04 13 00}{ff 00 00 00}, is open for\nyou to visit. Hoo-rah!{02 05 00 59 55 58}\nI wanna go there!\nFind another town.\nThen again...",
+   "et": ""
+  },
+  {
+   "id": 88,
+   "en": "{07 00 00}So, you don't want to go\nanywhere at all?\n\nWell, please do let us know\nif we can be of any further\nassistance.",
+   "et": ""
+  },
+  {
+   "id": 89,
+   "en": "{07 00 00}I will take care of that,\nof course.{01 00 00 05 00} It will take just\na moment!{01 10 00 28}",
+   "et": ""
+  },
+  {
+   "id": 91,
+   "en": "{07 00 00}{ff 00 00 01}Connecting to Nintendo\nWFC... Please wait a moment.{01 10 00 14}",
+   "et": ""
+  },
+  {
+   "id": 93,
+   "en": "{07 00 00}Where would you like to go?",
+   "et": ""
+  },
+  {
+   "id": 97,
+   "en": "{07 00 00}Oh?{01 00 00 14 00} I see you want to quit.",
+   "et": ""
+  },
+  {
+   "id": 98,
+   "en": "{07 00 00}A few formalities...{01 00 00 05 00}\nIt'll only take a second!{01 10 00 28}",
+   "et": ""
+  },
+  {
+   "id": 99,
+   "en": "{07 00 00}My most earnest apologies,{01 00 00 05 00}\n{04 00 00}!\n\nIt seems that the town you\nwish to visit isn't ready\nto welcome you!{02 04 00 00 01}\nTry again.\nNever mind.",
+   "et": ""
+  },
+  {
+   "id": 101,
+   "en": "{07 00 00}My sincerest apologies,{01 00 00 05 00}\n{04 00 00}!\n\nFor some reason I cannot\nunderstand,{01 00 00 05 00} you can't visit\nthat town!{02 04 00 00 01}\nTry again!\nMaybe later.",
+   "et": ""
+  },
+  {
+   "id": 102,
+   "en": "{07 00 00}{ff 00 00 01}Saving... Please sit\nstill and do not turn the\npower off!{01 10 00 14}",
+   "et": ""
+  },
+  {
+   "id": 103,
+   "en": "{07 00 00}{0b 03 00}{ff 00 00 05}{04 10 00}{ff 00 00 00} has come to\nplay! Hoo-rah!{01 10 00 32}",
+   "et": ""
+  },
+  {
+   "id": 104,
+   "en": "{07 22 00}Well, then,{01 00 00 05 00} I hope you\nhave a smashing time!{01 10 00 1e}",
+   "et": ""
+  },
+  {
+   "id": 105,
+   "en": "{ff 00 00 01}Registering... Sit tight and\ndon't turn the power off!{01 10 00 14}",
+   "et": ""
+  },
+  {
+   "id": 106,
+   "en": "{07 22 00}I shall make necessary \npreparations right away!{01 10 00 28}\n\n{07 00 00}{ff 00 00 01}Registering now.{01 00 00 05 00} Please wait\na moment and do not turn\nthe power off.{01 10 00 14}",
+   "et": ""
+  },
+  {
+   "id": 107,
+   "en": "{07 04 00}{01 00 00 0a 00}{0b 03 00}{04 00 00},{01 00 00 14 00} {07 00 00}someone\nalready has their gate\nopen.\n{07 0b 00}Would you still like to \nopen your gate?{02 00 00 6c 6d}\nOpen the gate!\nI'm going out.",
+   "et": ""
+  },
+  {
+   "id": 108,
+   "en": "{07 22 00}Understood!{01 00 00 14 00}\nI shall now{01 00 00 05 00} open the gate!{01 10 00 28}",
+   "et": ""
+  },
+  {
+   "id": 109,
+   "en": "{07 22 00}I understand!\n\n\n{07 00 00}By the way,{01 00 00 05 00} the town\nyou can visit is right\nthis way.",
+   "et": ""
+  },
+  {
+   "id": 111,
+   "en": "{07 24 00}What's this?{01 00 00 14 00} I see that{01 00 00 05 00} {07 00 00}you\ndo not have anyone on your\n{ff 00 00 02}friend roster{ff 00 00 00} yet!\nYou need to register some\nfriends before you can\nutilize {ff 00 00 01}Nintendo WFC{ff 00 00 00}.\nWe can't have you wandering\naround strange towns.\nIt just isn't safe.\nTo view your {ff 00 00 02}friend roster{ff 00 00 00},\npress the{ff 00 00 01} X Button{ff 00 00 00} and\nthen {ff 00 00 01}tap {ff 00 00 00}the heart icon.\nPlease come back after\nyou've registered friends\nto your {ff 00 00 02}friend roster{ff 00 00 00}.",
+   "et": ""
+  },
+  {
+   "id": 112,
+   "en": "{07 24 00}Aha!{01 00 00 14 00} I see that{01 00 00 05 00} {07 00 00}you\ndo not have anyone on your\n{ff 00 00 02}friend roster{ff 00 00 00} yet!\nYou need to register some\nfriends before you can\nutilize {ff 00 00 01}Nintendo WFC{ff 00 00 00}.\nYou see, I simply won't\nallow riffraff to run amok\nin this fine town!\nTo view your {ff 00 00 02}friend roster{ff 00 00 00},\npress the {ff 00 00 01}X Button{ff 00 00 00} and\nthen {ff 00 00 01}tap {ff 00 00 00}the heart icon.\nPlease come back after\nyou've added some friends\nto your {ff 00 00 02}friend roster{ff 00 00 00}.",
+   "et": ""
+  },
+  {
+   "id": 113,
+   "en": "{07 00 00}{ff 00 00 01}Nintendo WFC {ff 00 00 00}treats your\n{ff 00 00 01}Game Card{ff 00 00 00} and {ff 00 00 01}Nintendo DS\n{ff 00 00 00}as a set.\n{07 25 00}Can I connect to {ff 00 00 01}Nintendo{ff 00 00 00}\n{ff 00 00 01}WFC{ff 00 00 00} using the {ff 00 00 01}Nintendo DS\n{ff 00 00 00}you're playing with?{02 04 00 00 22}\nGo for it!\nNever mind.",
+   "et": ""
+  },
+  {
+   "id": 114,
+   "en": "{07 23 00}The {ff 00 00 01}Nintendo WFC\nConfiguration{ff 00 00 02} {ff 00 00 00}on the\n{ff 00 00 01}Nintendo DS {ff 00 00 00}and {ff 00 00 01}Game Card\n{ff 00 00 00}don't match. I'm afraid I\ncan't allow you to connect\nto {ff 00 00 01}Nintendo WFC{ff 00 00 00}!",
+   "et": ""
+  },
+  {
+   "id": 115,
+   "en": "{07 00 00}Do you want to update the\n{07 25 00}{ff 00 00 02}Nintendo Wi-Fi Connection\nID {ff 00 00 00}on this {ff 00 00 01}Game Card{ff 00 00 00}?\n{07 00 00}If you do update it, you\nwon't be able to use the\nsame{ff 00 00 01} Nintendo WFC {ff 00 00 00}data.\nYou can still use your\n{ff 00 00 02}friend roster{ff 00 00 00}, but to use\n{ff 00 00 01}Nintendo WFC{ff 00 00 00},\nyour friends{07 23 00} need to\nre-register you on their\n{ff 00 00 02}friend rosters{ff 00 00 00}.{02 04 00 74 22}\nI understand.\nNever mind.",
+   "et": ""
+  },
+  {
+   "id": 116,
+   "en": "{07 25 00}Are you certain that you\nwant to update your user\ninformation?{02 04 00 00 22}\nSure!\nMaybe not...",
+   "et": ""
+  },
+  {
+   "id": 117,
+   "en": "{07 00 00}The {ff 00 00 02}Wi-Fi ID{ff 00 00 00}{01 00 00 05 00} you are using\nnow has been saved to the\n{ff 00 00 01}Game Card{ff 00 00 00}!\nFrom now on, {01 00 00 05 00}{07 22 00}please use\nthis {ff 00 00 01}Nintendo DS{ff 00 00 00} when you\nconnect to {ff 00 00 01}Nintendo WFC{ff 00 00 00}.",
+   "et": ""
+  },
+  {
+   "id": 118,
+   "en": "{07 00 00}Consequently, {01 00 00 05 00}your {ff 00 00 02}friend\ncode{ff 00 00 00} has also changed.{01 01 00}\n{07 22 00}Without further ado,\nI present you, {04 00 00},\nwith your new {ff 00 00 02}friend code{ff 00 00 00}:{01 00 00 05 00}\n{ff 00 00 02}{04 14 00}-{04 17 00}-{04 18 00}{ff 00 00 00}!\n{07 00 00}In order to visit distant \nfriends, and have them\nvisit you,\n{07 00 00}you'll have to ask them to{01 00 00 05 00}\nadd your {ff 00 00 02}friend code{ff 00 00 00} to\ntheir {ff 00 00 02}friend rosters{ff 00 00 00}!",
+   "et": ""
+  },
+  {
+   "id": 119,
+   "en": "{07 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}I'm terribly sorry,{01 00 00 05 00}\n{04 00 00}!\n\nI wasn't able to find\nanother town with its gate\nopen.\nYou can't venture out\nwithout a town to travel\nto!",
+   "et": ""
+  },
+  {
+   "id": 120,
+   "en": "{07 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}I'm terribly sorry,{01 00 00 05 00}\n{04 00 00}!\n\nThe town you tried to visit{01 00 00 05 00}\ndid not have its gate\nopen!\nUnless the gate to that \ntown is open,{01 00 00 05 00} you cannot\nvisit it!",
+   "et": ""
+  },
+  {
+   "id": 121,
+   "en": "{07 00 00}Oh, {01 00 00 0a 00}{04 00 00}!{01 01 00}\nThat town already has\nthree visitors.\nI'm sorry to say I can't\nlet you venture to such\na crowded town.",
+   "et": ""
+  },
+  {
+   "id": 122,
+   "en": "{07 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}I'm terribly sorry, {01 00 00 05 00}\n{04 00 00}!\n\nFor some unfathomable\nreason, you can't visit that\ntown right now.",
+   "et": ""
+  },
+  {
+   "id": 123,
+   "en": "{07 00 00}{0b 03 00}{ff 00 00 05}{04 10 00} {ff 00 00 00}is going home!{01 10 00 28}",
+   "et": ""
+  },
+  {
+   "id": 125,
+   "en": "{07 00 00}For some reason, you\ncannot go out right now.\n\nIt seems that someone else\nis trying to enter the\ntown at the same time.\nPlease wait a moment\nbefore trying to visit that\ntown again.{02 04 00 00 01}\nTry again.\nQuit.",
+   "et": ""
+  },
+  {
+   "id": 126,
+   "en": "{ff 00 00 01}{07 00 00}For some curious reason,\nyou cannot go out now.\n                 <{04 15 00}{04 16 00}>\n{ff 00 00 00}If you try several times\nand still can't do it, try\nconsulting your manual.{02 04 00 00 01}\nTry again!\nNever mind.",
+   "et": ""
+  },
+  {
+   "id": 127,
+   "en": "{07 00 00}Before you can travel,\nI will need to begin\n{ff 00 00 01}Nintendo WFC {ff 00 00 00}procedures!{02 04 00 5b 22}\nOK!\nNo, no, no!",
+   "et": ""
+  },
+  {
+   "id": 128,
+   "en": "{07 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}I'm terribly sorry, {01 00 00 05 00}\n{04 00 00}!\n\nYou can't enter because \nthere seems to be a\nconversation in progress.{02 04 00 00 01}\nTry again.\nI'll try later.",
+   "et": ""
+  },
+  {
+   "id": 130,
+   "en": "{07 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}I'm terribly sorry, {01 00 00 05 00}\n{04 00 00}!\n\nFor some unfathomable\nreason, you can't visit that\ntown right now.{02 04 00 00 01}\nTry again!\nMaybe later.",
+   "et": ""
+  },
+  {
+   "id": 131,
+   "en": "{07 00 00}{ff 00 00 01}The server is experiencing\nheavy traffic, or Nintendo\nWFC service is down.\nPlease try again later.\nFor help, call\n1-800-895-1672 in the USA\nand Canada, or visit\nwww.nintendowifi.com.\n                 <{04 15 00}{04 16 00}>",
+   "et": ""
+  },
+  {
+   "id": 132,
+   "en": "{07 00 00}{ff 00 00 01}You connected to an access\npoint but were unable to\nconnect to Nintendo WFC.\nFor help, call\n1-800-895-1672 in the USA\nand Canada.\nYou can also visit\nwww.nintendowifi.com.\n                 <{04 15 00}{04 16 00}>",
+   "et": ""
+  },
+  {
+   "id": 133,
+   "en": "{07 00 00}{ff 00 00 01}This Wi-Fi ID was inactive\nfor a long time and has\nbeen erased.\nFor help, call\n1-800-895-1672 in the USA\nand Canada.\nYou can also visit\nwww.nintendowifi.com.\n                 <{04 15 00}{04 16 00}>",
+   "et": ""
+  },
+  {
+   "id": 134,
+   "en": "{07 00 00}{ff 00 00 01}Nintendo WFC service for\nthis software has been\nhalted.\nVisit www.nintendowifi.com\nfor a list of Nintendo\nWFC-compatible software.\n                 <{04 15 00}{04 16 00}>",
+   "et": ""
+  },
+  {
+   "id": 135,
+   "en": "{07 00 00}{ff 00 00 01}Unable to find an access\npoint. Move the Nintendo DS\nwithin range.\nFor help, call\n1-800-895-1672 in the USA\nand Canada.\nYou can also visit\nwww.nintendowifi.com.\n                 <{04 15 00}{04 16 00}>",
+   "et": ""
+  },
+  {
+   "id": 136,
+   "en": "{07 00 00}{ff 00 00 01}No compatible access point\nin range. Please check your\nconnection settings.\nFor help, call\n1-800-895-1672 in the USA\nand Canada.\nYou can also visit\nwww.nintendowifi.com.\n                 <{04 15 00}{04 16 00}>",
+   "et": ""
+  },
+  {
+   "id": 137,
+   "en": "{07 00 00}{ff 00 00 01}Unable to connect to the\nNintendo Wi-Fi USB\nConnector.\nConfirm connection settings\nin the Nintendo WFC setup.\n\nCall 1-800-895-1672 (USA\nand Canada) for help.\n                 <{04 15 00}{04 16 00}>",
+   "et": ""
+  },
+  {
+   "id": 138,
+   "en": "{07 00 00}{ff 00 00 01}This access point is\nexperiencing a high volume\nof traffic.\nYou cannot establish\na connection at this time.\nTry again later.\n                 <{04 15 00}{04 16 00}>",
+   "et": ""
+  },
+  {
+   "id": 139,
+   "en": "{07 00 00}{ff 00 00 01}Unable to connect to\nNintendo WFC. Please check\nyour connection settings.\nFor help, call\n1-800-895-1672 in the USA\nand Canada.\nYou can also visit\nwww.nintendowifi.com.\n                 <{04 15 00}{04 16 00}>",
+   "et": ""
+  }
+ ]
+}

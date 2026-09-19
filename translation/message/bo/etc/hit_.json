@@ -1,0 +1,30 @@
+{
+ "file": "script/ENG/message/bo/etc/hit_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 08 00}Ow! Dude, that hurts!\n\n\n{07 16 00}Wh{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}?{01 00 00 14 00} {07 0b 00}Why did you do that,{01 00 00 0a 00}\n{04 02 00}?",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 08 00}{01 00 00 05 00}Ouch!{01 00 00 0a 00} {0b 03 00}{04 02 00}!\n\n\n{07 06 00}{0b 03 00}{04 1f 00}!{01 00 00 0a 00} Knock it off!",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 06 00}Stop! Stop it!{01 00 00 0a 00}{07 08 00} You'll crack\nmy head open!",
+   "et": ""
+  },
+  {
+   "id": 3,
+   "en": "{07 00 00}OUCH!\n\n\n{07 04 00}What?{01 00 00 0a 00} Was there a bug on\nmy head?{01 00 00 0a 00} Did you get it,\n{01 00 00 0a 00}{04 02 00}?",
+   "et": ""
+  },
+  {
+   "id": 4,
+   "en": "{07 08 00}{01 00 00 05 00}{01 08 00}AAAAUGH!\n\n\n{07 06 00}That really hurt!{01 00 00 0a 00} Did you\nknow that? You're a jerk,\n{04 1f 00}. A JERK!",
+   "et": ""
+  }
+ ]
+}

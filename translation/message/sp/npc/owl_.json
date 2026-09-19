@@ -1,0 +1,1105 @@
+{
+ "file": "script/ENG/message/sp/npc/owl_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 12 00}{01 00 00 0f 00}Hooo{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}mmm{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}zzzzz{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n{07 04 00}{01 02 00}ZWAAAAAAAAAWK!{01 03 00}{01 00 00 0f 00}\nOh, yes,{01 00 00 0a 00} sorry, welcome.\n{07 14 00}{01 00 00 0a 00}Please, do take your time\nas you inspect our lovely\ncollection, wot?",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 14 00}{01 00 00 05 00}Hoo my!{01 00 00 0a 00} Yes.{01 00 00 05 00} Hello, indeed!\n\n\n{01 00 00 0a 00}Do inspect our collection\nof wonders until you're\ncompletely satiated.",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 14 00}{01 00 00 0a 00}Ah!{01 00 00 0a 00} Hello,{01 00 00 05 00} hello!{01 00 00 0a 00}\nOur exhibits await your\nkeen inspection, wot wot?",
+   "et": ""
+  },
+  {
+   "id": 3,
+   "en": "{07 12 00}{01 00 00 0f 00}Zzz{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.hooo{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.mmmmmmm{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n{07 04 00}{01 02 00}ZWAAAAAAAAAAWK!{01 03 00}{01 00 00 0f 00}\nOh, good gracious!{01 00 00 05 00} It's you!\n{07 14 00}{01 00 00 0a 00}I'm frightfully sorry.{01 00 00 05 00}\nPlease look around at your\nleisure, of course.",
+   "et": ""
+  },
+  {
+   "id": 4,
+   "en": "{07 12 00}{01 00 00 0a 00}Zzz{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}hooooooo{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}zzzzzzzzzz{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n{07 04 00}{01 02 00}ZWAAAAAAAAAAAAWK!{01 03 00}{01 00 00 14 00}\nHoo!{01 00 00 05 00} I'm terribly sorry!\n{07 14 00}Welcome to the {04 03 00}\n{ff 00 00 08}museum{ff 00 00 00}.{01 00 00 05 00} We simply adore\nvisitors, so please! {01 00 00 05 00}Enjoy!",
+   "et": ""
+  },
+  {
+   "id": 5,
+   "en": "{07 14 00}{01 00 00 05 00}Ah!{01 00 00 0a 00} Hoo hoo, well met!\n\n\nWelcome to the {04 03 00}\n{ff 00 00 08}museum{ff 00 00 00}!",
+   "et": ""
+  },
+  {
+   "id": 6,
+   "en": "{07 12 00}{01 00 00 0a 00}Zzzzzzzzzmmmmmzzzzzz{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 04 00}{01 02 00}ZWAAAAAAAAAAAWK!{01 03 00}{01 00 00 14 00}\nHoo!{01 00 00 0a 00} Must've nodded off!{01 00 00 0a 00}\n{07 14 00}{01 00 00 0a 00}I say, I'm simply{01 00 00 05 00} mortified{01 00 00 0a 00}\nat my conduct. {01 00 00 05 00}Mortified!{01 00 00 05 00}\nI beg your pardon, wot?",
+   "et": ""
+  },
+  {
+   "id": 7,
+   "en": "{07 14 00}{01 00 00 0a 00}Back again, are we?!{01 00 00 05 00} Hoo!{01 00 00 0a 00}\nSplendid to see you again!\n\nI certainly hope you'll take\nthe time to look around the\nexhibits, eh, wot?",
+   "et": ""
+  },
+  {
+   "id": 8,
+   "en": "{07 12 00}{01 00 00 0a 00}Zzzzzz{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}hooooooo.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 04 00}{01 02 00}ZWAAAAAAAAAAAAAWK!{01 03 00}{01 00 00 14 00}\nTerribly sorry! {01 00 00 05 00}Hoo!\n{07 14 00}{01 00 00 0a 00}I get so frightfully tired\nduring the day, wot!",
+   "et": ""
+  },
+  {
+   "id": 9,
+   "en": "{07 14 00}{01 00 00 0a 00}Ah! Hoo!{01 00 00 0a 00} Indeed, hootie hoo!{01 00 00 05 00}\nIt's always a treat to have\nvisitors here! \nWelcome to the {04 03 00}\n{ff 00 00 08}museum{ff 00 00 00}!{01 00 00 0a 00} Do enjoy yourself!",
+   "et": ""
+  },
+  {
+   "id": 10,
+   "en": "{07 12 00}{01 00 00 0a 00}Zzz{01 00 00 05 00}zz{01 00 00 05 00}zz{01 00 00 05 00}zz{01 00 00 05 00}zzzzzz.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 04 00}{01 02 00}ZWAAAAWK!{01 03 00}\n\n{07 14 00}{01 00 00 0a 00}Hoo!{01 00 00 0a 00} Good gracious!{01 00 00 05 00} Hello!",
+   "et": ""
+  },
+  {
+   "id": 11,
+   "en": "{07 14 00}{01 00 00 0a 00}Hoo!{01 00 00 0a 00} Back again, are we?",
+   "et": ""
+  },
+  {
+   "id": 12,
+   "en": "{07 00 00}Yes, well, by the by,{01 00 00 05 00}{07 0b 00} might\nthere be something with \nwhich I can assist you?{02 06 00 00 00 0d 00}\nDonation!\nCheck a fossil!\nWhere am I?\nNot really.",
+   "et": ""
+  },
+  {
+   "id": 13,
+   "en": "{07 00 00}Ah. {01 00 00 05 00}Yes,{01 00 00 0a 00} well, {01 00 00 05 00}in a nutshell,\nthis is a place where\nmany fields come together.\nAh yes, archaeology, the\nnatural sciences,{01 00 00 05 00} and art,\nall under one roof, wot!\nIndeed, they combine to \nform a rare collection\nof the highest caliber!{01 00 00 05 00}\nThe goal in creating this\nspace{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{07 04 00}{01 00 00 0a 00} Ah!{01 00 00 0f 00} Terribly sorry!{01 00 00 0a 00}\n{07 3b 00}Am I babbling{01 00 00 05 00} again?\n{07 00 00}When it comes to this\nplace,{01 00 00 0a 00} I become rather a\nshameless evangelist, wot!{01 00 00 05 00}\nShall I stop?{02 04 00 0e 0f}\nMore!\nEnough!",
+   "et": ""
+  },
+  {
+   "id": 14,
+   "en": "{07 00 00}Hoo, very good! {01 00 00 05 00}We have\nfocused our study on{01 00 00 0a 00} art,{01 00 00 0a 00}\nfossils,{01 00 00 0a 00} insects,{01 00 00 0a 00} and fish.{01 00 00 0a 00}\nIn doing so, I must report\nour rousing success in\ncreating expansive exhibits.\n{07 0d 00}I nurse the hope that what\nwe do here at the museum{01 00 00 0a 00}\nfosters understanding...\nCulture and science must\nbloom in the hearts of the\nresidents of {04 03 00}!{01 00 00 0f 00}\n{07 00 00}Indeed,{01 00 00 0a 00} it is an undertaking\nof monumental proportions,\nmost assuredly.\n{07 14 00}Nonetheless, it is both an\nhonor and a pleasure for\nme.{01 00 00 05 00} Hootie hoo!\n{07 0e 00}{01 00 00 0a 00}There is but one issue{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\nSadly, I am the sole staff\nmember at the museum...\nYes, rather sad, that.{01 00 00 05 00} My\ntime is largely occupied\nwith its maintenance,{01 00 00 0a 00}\n{07 00 00}so, to fill the exhibits,{01 00 00 0a 00} I \nneed the cooperation of our\nfine residents, eh wot?\n{07 14 00}My dear {04 00 00}, I'm\nhoping that should you no\nlonger need something...\nPerhaps you will consider{01 00 00 0a 00} \nhelping the {ff 00 00 08}museum{ff 00 00 00} by\npossibly donating it?\n{07 0a 00}Well,{01 00 00 0a 00} to be forthright,{01 00 00 05 00} we\nhope that you will donate{01 00 00 0a 00}\nitems you DO need, as well!\n{07 00 00}So, without further ado,{01 00 00 05 00}\nmight you have something{01 00 00 0a 00}\n{07 0b 00}that you wish to donate?{02 04 00 14 0f}\nYup!\nNope!",
+   "et": ""
+  },
+  {
+   "id": 15,
+   "en": "{07 00 00}Ah.{01 00 00 0a 00} Hoo, is that so?{01 00 00 0a 00}\nI understand.\n\nCome again when you have\nsome time, then!{01 00 00 05 00} I certainly\nlook forward to seeing you!{01 00 00 05 00}",
+   "et": ""
+  },
+  {
+   "id": 16,
+   "en": "{07 00 00}Actually, this is awfully\nembarrassing, but {01 00 00 0a 00}nothing's\nout on display yet.{01 00 00 05 00} Hoo.\n{07 03 00}Indeed, I've only had time{01 00 00 0a 00}\nto create the displays{01 00 00 0a 00} and\nlittle else, wot wot!\n{07 00 00}Rather a humiliating\nsituation, indeed! {01 00 00 05 00}My face\nmust be quite red,{01 00 00 05 00} hoo!",
+   "et": ""
+  },
+  {
+   "id": 17,
+   "en": "{07 00 00}Yes, I'm rather ashamed,\nbut we have next to nothing\ndisplayed as of yet.\n{07 14 00}{01 00 00 0a 00}But please!{01 00 00 05 00} What we DO have\nis of the utmost quality. {01 00 00 0a 00}\nDo inspect it ere you go!",
+   "et": ""
+  },
+  {
+   "id": 18,
+   "en": "{07 14 00}Hoo! {01 00 00 05 00}Thanks to your\ngenerosity,{01 00 00 0f 00} the collection\nhas grown considerably!{01 00 00 0a 00} \nPlease take the time to{01 00 00 0a 00}\nenjoy the fruits of your\nlabor!{01 00 00 05 00} Hootie hoo!",
+   "et": ""
+  },
+  {
+   "id": 19,
+   "en": "{07 0a 00}{01 00 00 0a 00}I am delighted to announce{01 00 00 0a 00}\nthe collection has grown\nfaster than anticipated!\n{07 14 00}{01 00 00 0a 00}Please take a moment to{01 00 00 05 00}\nsee just how much, wot?{01 00 00 05 00} \nYou shan't be disappointed!",
+   "et": ""
+  },
+  {
+   "id": 20,
+   "en": "{07 14 00}{01 00 00 0a 00}One can only feverishly \nwonder what you wish to\ndonate!{01 00 00 0a 00} Woo hoot!",
+   "et": ""
+  },
+  {
+   "id": 21,
+   "en": "{07 00 00}Ah. {01 00 00 05 00}Indeed?{01 00 00 05 00} You're having\nsecond thoughts, I see.\n\nWell then,{01 00 00 0a 00} I look forward to\nseeing you again at another\ntime, eh wot?",
+   "et": ""
+  },
+  {
+   "id": 22,
+   "en": "{07 14 00}{01 00 00 0a 00}Hoo!{01 00 00 05 00} Indeed, hootie hoo!{01 00 00 0a 00}\nWhich fossil can I appraise\nfor you?",
+   "et": ""
+  },
+  {
+   "id": 23,
+   "en": "{07 14 00}Ah.{01 00 00 05 00} Hoo.{01 00 00 05 00} You want me to\nappraise a fossil for you?{01 00 00 05 00}\nI am happy to oblige.\n{07 00 00}Until just recently,{01 00 00 0a 00} I didn't\nhave a license to identify\nfossils myself, you know.\n{01 00 00 05 00}Indeed, it was always a \nsource of beak-grinding\nfrustration for me, wot?\n{07 0a 00}{01 00 00 0a 00}So I decided to {01 00 00 0a 00}take a\ncorrespondence course, and{01 00 00 0a 00}\nI am now{01 00 00 05 00} officially licensed!\n{07 00 00}Happy days, indeed.{01 00 00 0a 00} Now, no\nmatter which fossil I have\nsitting before me...\n{07 15 00}I fear it not!{01 00 00 05 00} I proclaim:{01 00 00 05 00}\n\"YOU THERE! {01 00 00 05 00}FOSSIL!{01 00 00 05 00} I shall\nidentify you with all speed!\"\n{07 00 00}Yes. {01 00 00 05 00}Hoo. {01 00 00 05 00}In any case,{01 00 00 0f 00} if\nyou need such assistance,{01 00 00 0a 00}\ndo feel free to call on me!\nAh.{01 00 00 05 00} Yes.{01 00 00 05 00} Hm.{01 00 00 05 00} Indeed. {01 00 00 05 00}Well.{01 00 00 0a 00}\n{07 0b 00}So which fossil is it that I\ncan help you with?",
+   "et": ""
+  },
+  {
+   "id": 24,
+   "en": "{07 0e 00}Hm.{01 00 00 05 00} Ah.{01 00 00 05 00} Hoo.{01 00 00 05 00} Well, then...{01 00 00 0a 00}\nIt appears that...\n\n{07 16 00}You lack any fossils{01 00 00 05 00} yet to\nbe identified{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n\n{07 00 00}I'm quite proficient, but I\ncannot identify fossils that\nyou do not have,{01 00 00 05 00} wot?",
+   "et": ""
+  },
+  {
+   "id": 25,
+   "en": "{07 0e 00}Ah.{01 00 00 05 00} Hm.{01 00 00 05 00} Yes.{01 00 00 05 00} Hoo.{01 00 00 05 00} Indeed.{01 00 00 0f 00}\nHmmmmmmm{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0f 00} Fascinating{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 01 00}\n{07 0c 00}Hoo my!\n{06 01 00 1a 1b 1c}",
+   "et": ""
+  },
+  {
+   "id": 26,
+   "en": "{07 00 00}Hoo, this particular sample\nwas a challenge to identify\nwith certainty, but...\n{07 14 00}I'm now confident this is \n{04 1a 00}!{01 00 00 05 00} \nIndeed it is, {01 00 00 05 00}hoo!",
+   "et": ""
+  },
+  {
+   "id": 27,
+   "en": "{07 14 00}Yes. {01 00 00 05 00}Hoo.{01 00 00 05 00} Indeed, what we\nhave here is, quite simply,\n{04 1a 00}.",
+   "et": ""
+  },
+  {
+   "id": 28,
+   "en": "{07 14 00}This{01 00 00 0a 00} delightful fossil is{01 00 00 0a 00}{01 00 00 14 00}\n{04 1a 00}!{01 00 00 14 00}\nAnd a rather nice one, wot!",
+   "et": ""
+  },
+  {
+   "id": 29,
+   "en": "{07 00 00}And with that, I shall\nreturn it to you,{01 00 00 05 00} hoo!",
+   "et": ""
+  },
+  {
+   "id": 30,
+   "en": "{07 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}That is,{01 00 00 0a 00} I SHOULD return\nit to you, but I say, this\n{0b 02 00}{04 1a 00}...\n{07 3b 00}Well, to be blunt, it is a\nthing that has not yet been\ndonated to the museum.\n{07 00 00}Indeed, I would like your\npermission{01 00 00 0a 00} to keep it in my\npossession as a donation.\n{07 0b 00}Might I be able to convince\nyou to part with it?{02 04 00 2c 1f}\nSure, take it!\nGive it back!",
+   "et": ""
+  },
+  {
+   "id": 31,
+   "en": "{07 1c 00}Ah. {01 00 00 05 00}Hoo.{01 00 00 05 00} Yes. {01 00 00 05 00}Of course{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00}\nI understand completely.{01 00 00 0a 00}\nIt is your fossil, after all.\n{07 00 00}Well then,{01 00 00 05 00} I shall return it\nto you without hesitation,{01 00 00 05 00}\nhoo.",
+   "et": ""
+  },
+  {
+   "id": 32,
+   "en": "{07 00 00}So,{01 00 00 0a 00} might there be any\nother fossils that you'd\nlike me{01 00 00 0a 00} to identify?{02 04 00 16 3e}\nYep!\nNah.",
+   "et": ""
+  },
+  {
+   "id": 33,
+   "en": "{07 02 00}{01 00 00 0a 00}Hoo my!{01 00 00 0a 00} What have we here?{01 00 00 0f 00}\nThis fossil has yet to be\nproperly identified!\n{07 00 00}Yes. {01 00 00 05 00}Hoo. {01 00 00 05 00}If you would like,{01 00 00 05 00} \nI'd be happy to identify it\nfor you, wot?{02 04 00 19 00}\nPlease do!\nNo, thanks.",
+   "et": ""
+  },
+  {
+   "id": 34,
+   "en": "{07 00 00}Ah. {01 00 00 05 00}Hoo. {01 00 00 05 00}Well. {01 00 00 05 00}Indeed.{01 00 00 05 00} Hm.{01 00 00 05 00}\nI see.{01 00 00 05 00} You'd rather not.{01 00 00 05 00}\nNext time,{01 00 00 05 00} perhaps?",
+   "et": ""
+  },
+  {
+   "id": 35,
+   "en": "{07 00 00}So,{01 00 00 0a 00}{07 0b 00} might there be anything\nelse{01 00 00 0a 00} with which I can help\nyou at this time?{02 04 00 00 24}\nOf course!\nNope.",
+   "et": ""
+  },
+  {
+   "id": 36,
+   "en": "{07 00 00}Well then,{01 00 00 05 00} I look forward to\nthe next time you grace\nour hallowed halls, wot!",
+   "et": ""
+  },
+  {
+   "id": 37,
+   "en": "{07 04 00}Hoo! {01 00 00 05 00}Indeed, WOO hoo!{01 00 00 0a 00}\n{0b 03 00}{04 1a 00}!",
+   "et": ""
+  },
+  {
+   "id": 38,
+   "en": "{07 14 00}{01 00 00 0a 00}Wouldn't it be marvelous if{01 00 00 05 00}\nthe other parts were found\nbefore too long?\nI'm rather atwitter at the\nthought of this creature{01 00 00 05 00}\nin its completed form!",
+   "et": ""
+  },
+  {
+   "id": 39,
+   "en": "{07 00 00}Hoo, you have our deepest,\nmost profound gratitude.\n\nSo, {01 00 00 0a 00}is there anything else{01 00 00 0a 00}\n{07 0b 00}that you might like to \nshow me, perhaps?{02 04 00 00 28}\nSure is!\nNope.",
+   "et": ""
+  },
+  {
+   "id": 40,
+   "en": "{07 14 00}{01 00 00 0a 00}I must sincerely thank you\nfor your patronage, hoo.\n\nWe appreciate your support\nimmensely, {01 00 00 05 00}wot wot!",
+   "et": ""
+  },
+  {
+   "id": 41,
+   "en": "{07 1d 00}Hoooooooo! {01 00 00 05 00}Incredible!{01 00 00 14 00}\n{07 14 00}My dear {04 00 00},{01 00 00 05 00} we've\nfinally done it!\nAll the displays {01 00 00 05 00}are filled!{01 00 00 05 00}\nHootie hoo!\n\n{07 0a 00}You know what this means?!{01 00 00 0a 00}\nThe fossil exhibit is now\ncomplete, wot!\n{07 1a 00}{01 00 00 0a 00}Hoo! {01 00 00 05 00}Indeed, WOO hoo!{01 00 00 0a 00}\nCongratulations, my dear\nfriend!{01 00 00 05 00} Hooooo MY!",
+   "et": ""
+  },
+  {
+   "id": 42,
+   "en": "{07 00 00}Why{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} Why, this means{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00}\n{07 04 00}We've managed to collect all\nof them!{01 00 00 05 00}\n{07 1a 00}Hoo! {01 00 00 05 00}Amazing!{01 00 00 0a 00} How splendid!{01 00 00 14 00}\nThis is now{01 00 00 05 00} the perfect\nmuseum!{01 00 00 0a 00} Second to none!\n{07 0a 00}Hoo,{01 00 00 05 00} I certainly hope{01 00 00 0a 00} that\nthis momentous achievement{01 00 00 0a 00}\ndoesn't go to my head, wot?{01 00 00 05 00}\n{07 04 00}{01 00 00 0a 00}Of course,{01 00 00 0a 00} this wouldn't\nhave been possible{01 00 00 0a 00} if it\nweren't for the donations.\n{07 14 00}{01 00 00 0a 00}This{01 00 00 05 00} I know{01 00 00 0a 00} above all else!{01 01 00}\n{07 1a 00}To everyone involved, I\nmust say:{01 00 00 0a 00} CONGRATULATIONS!",
+   "et": ""
+  },
+  {
+   "id": 43,
+   "en": "{07 14 00}{01 00 00 0a 00}I do hope you'll be{01 00 00 0a 00} equally\ninvolved in the other\nexhibits,{01 00 00 05 00} wot wot?",
+   "et": ""
+  },
+  {
+   "id": 44,
+   "en": "{07 14 00}Hoo then,{01 00 00 05 00} if you insist.{01 00 00 0a 00}\nYour donation is well and\ntruly appreciated.",
+   "et": ""
+  },
+  {
+   "id": 45,
+   "en": "{07 00 00}But still{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.",
+   "et": ""
+  },
+  {
+   "id": 46,
+   "en": "{07 04 00}Hoo! {01 00 00 05 00}Indeed, woo hoo!{01 00 00 0a 00} This\nis {04 1a 00}!\n\n{07 14 00}I must admit,{01 00 00 0a 00} this is the\nfirst time I've seen one\nwith my own eyes!\n{07 00 00}Unlikely as it seems,{01 00 00 0a 00} there\nit is, in all its glory!{01 00 00 05 00}\n{0b 03 00}{04 1a 00}!",
+   "et": ""
+  },
+  {
+   "id": 47,
+   "en": "{07 04 00}Hoo! {01 00 00 05 00}Indeed, hootie hoo!{01 00 00 0a 00} \nYes, this can only be{01 00 00 0a 00}\n{04 1a 00}!\n{07 00 00}Indeed, it's hard to imagine\nit being any more of\n{04 1a 00}!",
+   "et": ""
+  },
+  {
+   "id": 48,
+   "en": "{07 04 00}Hoo my!{01 00 00 0a 00} So that is what{01 00 00 0a 00}\n{04 1a 00}\nlooks like up close, hoo!\n{07 00 00}Hm. {01 00 00 05 00}Hoo.{01 00 00 05 00} I must admit,\nnow that I see it...\n\nI would likely have named it{01 00 00 05 00}\n{04 1a 00}{01 00 00 0f 00} as\nwell,{01 00 00 05 00} eh wot?",
+   "et": ""
+  },
+  {
+   "id": 49,
+   "en": "{07 02 00}{01 00 00 0a 00}Hootie hootie HOOOOOOOO!{01 00 00 00 00}\nCould our famous painting\nexhibit be complete?!{01 00 00 0a 00}\n{07 1a 00}{01 00 00 0a 00}You have our deepest, most\nprofound gratitude!{01 00 00 0a 00} This is\na momentous day, hoo!",
+   "et": ""
+  },
+  {
+   "id": 50,
+   "en": "{07 04 00}Hoo. {01 00 00 05 00}Ah. {01 00 00 05 00}What have we here?{01 00 00 0a 00}\n{0b 03 00}{04 1a 00}, if\nI'm not utterly mistaken?\n{07 00 00}Ah, no, please, don't bother{01 00 00 05 00}\ntaking it out of its cage!{01 00 00 05 00}\nProtocols, you know, wot?{01 00 00 0a 00}\nI'm{01 00 00 05 00} a bit squeamish about\ninsects, you see,{01 00 00 05 00} and I\ndon't fancy touching one.",
+   "et": ""
+  },
+  {
+   "id": 51,
+   "en": "{07 02 00}NOOOOOOO! {01 00 00 05 00}Hoo-rrific!{01 00 00 05 00}\n\n\n{07 3b 00}Please, I must protest!{01 00 00 05 00}\nThis is a {ff 00 00 07}cockroach{ff 00 00 00}, and a\nfearsome one, at that!\n{07 16 00}I'm terribly sorry for my\noutburst,{01 00 00 05 00} but I simply\nabhor the wretched things.\n{07 00 00}I often wonder aloud why\n{ff 00 00 07}cockroaches{ff 00 00 00}{01 00 00 0a 00} are even part\nof the collection, actually.\n{07 15 00}The decision-makers atop\nthe corporate ladder often\nseem quite daft, eh wot?\n{07 00 00}Blech{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00} Well,{01 00 00 05 00} I suppose I\nmust take this...",
+   "et": ""
+  },
+  {
+   "id": 52,
+   "en": "{07 1d 00}{01 00 00 0a 00}Hoo my!{01 00 00 0a 00} Could this mean\nthat the bug exhibit is now\nentirely complete?!{01 00 00 0a 00}\n{07 1a 00}{01 00 00 0a 00}You have our heartfelt\ngratitude and most earnest\ncongratulations! {01 00 00 05 00}Hootie hoo!",
+   "et": ""
+  },
+  {
+   "id": 53,
+   "en": "{07 14 00}Hoo! {01 00 00 05 00}Indeed, WOO hoo!{01 00 00 0a 00}\n{0b 03 00}{04 1a 00}!",
+   "et": ""
+  },
+  {
+   "id": 54,
+   "en": "{07 1d 00}Could my eyes deceive me?!{01 00 00 14 00}\nHas the fish exhibit\nreached completion?\n{07 1a 00}{01 00 00 0a 00}You have our thanks and\ncongratulations on this\ntremendous accomplishment!",
+   "et": ""
+  },
+  {
+   "id": 55,
+   "en": "{07 00 00}Ah.{01 00 00 05 00} Hoo. {01 00 00 05 00}Well. {01 00 00 05 00}Hm.{01 00 00 05 00}\n{0b 03 00}{04 1a 00}...\n\nYes, unfortunately, one of\nthose was already donated\nby a past resident...",
+   "et": ""
+  },
+  {
+   "id": 56,
+   "en": "{07 00 00}Hoo.{01 00 00 05 00} Hm.{01 00 00 05 00} Well.{01 00 00 05 00} It seems\n{04 1a 00} has\nalready been donated...\nYes, {ff 00 00 05}{04 0f 00}{ff 00 00 00}, who lives\nin this town, appears to be\nthe donor, wot wot!",
+   "et": ""
+  },
+  {
+   "id": 57,
+   "en": "{07 00 00}Ah. {01 00 00 05 00}Hoo.{01 00 00 05 00} Hm.{01 00 00 05 00} Indeed.{01 00 00 0a 00}\n{0b 03 00}{04 1a 00} has\nalready been donated, wot?\n{07 03 00}{01 00 00 0a 00}This is rather humorous,\nactually! {01 00 00 05 00}{0b 03 00}{04 00 00},{01 00 00 0a 00} YOU\nare the donor! {01 00 00 05 00}Hoo hoo!",
+   "et": ""
+  },
+  {
+   "id": 58,
+   "en": "{07 14 00}Still, I must say,{01 00 00 0a 00} aren't\nfossils simply wonderful?{01 00 00 05 00}\nSo powerful,{01 00 00 05 00} hoo!\n{07 00 00}They never fail to move me,\neven ones I've seen before.{01 00 00 05 00}\nYou may have this one back.\n{07 14 00}{01 00 00 0a 00}If you find a new one,{01 00 00 0a 00}\nI do hope you'll think of\nthe museum again,{01 00 00 05 00} eh wot?",
+   "et": ""
+  },
+  {
+   "id": 59,
+   "en": "{07 16 00}Yes, sadly,{01 00 00 05 00} it means I must\nreturn this one, eh wot?\n\n{07 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 04 00}No!{01 00 00 0a 00} Keep its cage shut!{01 01 00}\n{07 16 00}If you must let it go,{01 00 00 05 00} do it\noutside, I implore you!",
+   "et": ""
+  },
+  {
+   "id": 60,
+   "en": "{07 16 00}I very much appreciate the\nthought,{01 00 00 05 00} but we only need\nthe one for the exhibit.\n{07 00 00}I shall just return this\none to you, eh wot?\n\n{07 14 00}I look forward to {01 00 00 05 00}your next\ndonation with bated breath!",
+   "et": ""
+  },
+  {
+   "id": 61,
+   "en": "{07 11 00}{01 00 00 0a 00}Let us not worry ourselves{01 00 00 05 00}\nwith which one is fake{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{07 00 00}{01 00 00 05 00}\nLet us look the other way.\nI shall just return this to\nyou{01 00 00 05 00} and ask you to be on\nyour way, eh wot?\n{07 14 00}We look forward to seeing \nwhatever AUTHENTIC pieces\nyou see fit to bring!",
+   "et": ""
+  },
+  {
+   "id": 62,
+   "en": "{07 00 00}Ah. {01 00 00 05 00}Hoo.{01 00 00 0a 00} Is that so?\n\n\n{07 14 00}Well,{01 00 00 0a 00} if it's fossils you wish\nto know about,{01 00 00 0f 00} please do\nnot hesitate to ask!",
+   "et": ""
+  },
+  {
+   "id": 63,
+   "en": "{07 00 00}These are the exhibits we\ncurrently have on display!",
+   "et": ""
+  },
+  {
+   "id": 64,
+   "en": "{07 00 00}I must tell you, the museum\nin this town has a rather\nstrict donation policy.\n{07 19 00}Yes, we accept donations\nonly from{01 00 00 05 00} residents of this\ntown, {01 00 00 05 00}eh wot?{07 00 00}",
+   "et": ""
+  },
+  {
+   "id": 65,
+   "en": "{07 00 00}Ah. {01 00 00 05 00}Hoo. {01 00 00 05 00}Yes. {01 00 00 05 00}Indeed.{01 00 00 05 00} I'm\nsorry,{01 00 00 14 00} but as you know, we\nhave visitors in town.\nI have no time to work on\nexhibits, so{01 00 00 0a 00}{07 16 00} I cannot take\ndonations. {01 00 00 0f 00}Hoo, I say!\n{07 14 00}Would you please come back{01 00 00 05 00}\nwhen I'm not so busy?",
+   "et": ""
+  },
+  {
+   "id": 66,
+   "en": "{07 02 00}Hoo now?{01 00 00 0a 00} This painting{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n{07 16 00}Upon closer inspection,\nit is a COUNTERFEIT!\nIn other words,{01 00 00 0a 00} it is a\n{ff 00 00 07}forged painting{ff 00 00 00}, not an\noriginal.{01 00 00 05 00} Yes, verily!\n{07 00 00}I cannot exhibit a fake.{01 00 00 05 00}\nIt just cannot be done.{01 00 00 05 00}\nI shudder at the thought!\nI shall not ask from whence\nit came, but I must return\nit to you, eh wot?",
+   "et": ""
+  },
+  {
+   "id": 67,
+   "en": "{07 16 00}I must admit, it is rather\ndisconcerting that you\nwould donate a fake{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n{07 00 00}I imagine the person you\nbought it from duped you\nas well, but{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n{07 0b 00}One would think an art\nconnoisseur like you would\nsee through such treachery.\n{07 00 00}Regardless,{01 00 00 05 00} the museum is \nunable to accept fakes,{01 00 00 05 00} so\nI must wash my wings of it.",
+   "et": ""
+  },
+  {
+   "id": 68,
+   "en": "{07 00 00}So, by the by,{01 00 00 05 00} {07 0b 00}might there\nbe something with which I\ncan assist you?{02 07 00 00 00 3f 0d 00}\nDonation!\nCheck a fossil!\nExhibits!\nWhere am I?\nNope.",
+   "et": ""
+  },
+  {
+   "id": 69,
+   "en": "{07 00 00}Yes, well, will there be\n{07 0b 00}anything else, then?{02 06 00 00 00 0d 00}\nDonation!\nCheck a fossil!\nWhere am I?\nNope.",
+   "et": ""
+  },
+  {
+   "id": 70,
+   "en": "{07 00 00}Very well,{01 00 00 05 00} {07 0b 00}is there anything\nelse I can help you with?{02 07 00 00 00 3f 0d 00}\nDonation!\nCheck a fossil!\nExhibits!\nWhere am I?\nNope.",
+   "et": ""
+  },
+  {
+   "id": 71,
+   "en": "{07 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}Is there anything at all{01 00 00 0a 00}\nwith which{01 00 00 05 00}{07 0b 00} I might be able\nto assist you?{02 07 00 00 00 3f 0d 00}\nDonation!\nCheck a fossil!\nExhibits!\nWhere am I?\nNope!",
+   "et": ""
+  },
+  {
+   "id": 72,
+   "en": "{07 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}Well, is there anything{01 00 00 0a 00}\nI might possibly{01 00 00 05 00} {07 0b 00}help you\nout with?{02 06 00 00 00 0d 00}\nDonation!\nCheck a fossil!\nWhere am I?\nNah.",
+   "et": ""
+  },
+  {
+   "id": 73,
+   "en": "{07 19 00}We have a wide variety of\nexhibits that any curator{01 00 00 05 00}\nwould be most proud of{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.\n{07 14 00}{01 00 00 0a 00}So please,{01 00 00 05 00} I insist you take\nyour time in visiting all of\nthem, wot wot!",
+   "et": ""
+  },
+  {
+   "id": 74,
+   "en": "{07 00 00}We have a rather profound\nphilosophy here at the\nmuseum. {01 00 00 05 00}Hoo, I should say!\n{07 14 00}We strive to increase the\ncultural and scientific\nawareness of {04 03 00}!\nWe focus our efforts on{01 00 00 0a 00}\nfossils,{01 00 00 0a 00} famous paintings,{01 00 00 0a 00}\nbugs,{01 00 00 0a 00} and fish...\n{07 00 00}Yes, hoo, this allows us to\nmake our collections {01 00 00 05 00}{07 0d 00}larger\nthan most other museums.{07 00 00}",
+   "et": ""
+  },
+  {
+   "id": 75,
+   "en": "{07 00 00}Until just recently,{01 00 00 0a 00} I didn't\nhave a license to identify\nfossils myself, you know.\n{01 00 00 05 00}Indeed, it was always a \nsource of rather savage\nfrustration for me, wot?\n{07 0a 00}{01 00 00 0a 00}So I decided to {01 00 00 0a 00}take a\ncorrespondence course and{01 00 00 0a 00}\nam now{01 00 00 05 00} officially licensed!\n{07 00 00}Good show, indeed.{01 00 00 0a 00} Now, no\nmatter which fossil I have\nsitting before me...\n{07 15 00}I show no fear!{01 00 00 05 00} I proclaim:{01 00 00 05 00}\n\"TAKE HEED, {01 00 00 05 00}FOSSIL!{01 00 00 05 00} You shall\nbe identified{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}by ME!\"\n{07 00 00}Yes. {01 00 00 05 00}Hoo. {01 00 00 05 00}In any case,{01 00 00 0f 00} if\nyou need such assistance,{01 00 00 0a 00}\ndo feel free to call on me!\nSo{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00}without further ado...",
+   "et": ""
+  },
+  {
+   "id": 80,
+   "en": "{07 14 00}Hoo my! {01 00 00 05 00}I say, this is a\nlovely sample!{01 00 00 0a 00} Perfect!\n\n{07 00 00}{0b 03 00}{04 1a 00} is \ncreated when{01 00 00 0a 00} the sap from\nancient trees hardens, wot?{01 00 00 05 00}\nIt does bear mentioning{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n{0b 03 00}{04 1a 00} in \nand of itself is glorious...\n{07 0a 00}But if there is a bug\ntrapped inside, well, then{01 00 00 0a 00}\nit is even more beautiful!\n{07 14 00}The bug even retains the\nexact shocked expression it\nhad when it was trapped!\n{07 04 00}Hoo!{01 00 00 14 00} I'm{01 00 00 05 00} terribly sorry.{01 00 00 0a 00}\n{07 00 00}For some reason, I just\nfind that marvelous, wot!",
+   "et": ""
+  },
+  {
+   "id": 81,
+   "en": "{07 14 00}Hoo! {01 00 00 05 00}Indeed, WOO hoo!{01 00 00 0a 00}\nAmazing! {01 00 00 05 00}This fossil is an\nalmost{01 00 00 0a 00} flawless specimen!\n{07 00 00}The {ff 00 00 07}ammonite{ff 00 00 00}{01 00 00 0a 00} looks like it\nwould be related to spiral-\nshelled creatures,{01 00 00 14 00}\nbut have I got a whopper\nof a surprise for you!\n\n{07 04 00}They are actually part of\nthe same family as squid\nand octopi! {01 00 00 05 00}Just imagine!\n{07 00 00}All that remains of these \nenigmatic creatures are\ntheir shells...\nDespite extensive research,\nwe're still not sure what\ntheir bodies looked like.{01 00 00 05 00}\n{07 04 00}Oh!{01 00 00 14 00} I'm {01 00 00 05 00}terribly sorry.{01 00 00 0a 00}\n{07 00 00}I {01 00 00 05 00}went on rather long,\ndidn't I?{01 00 00 0a 00} Forgive me!",
+   "et": ""
+  },
+  {
+   "id": 82,
+   "en": "{07 14 00}Hoo my, {01 00 00 05 00}THIS is impressive!{01 00 00 0a 00}\nThis fossil is in{01 00 00 0a 00} absolutely\nimpeccable shape, wot wot!\n{07 00 00}{0b 03 00}{0b 02 00}{04 1a 00}{01 00 00 0a 00} are\na veritable treasure chest\nof information.\nFor one thing, you can tell\nwhat the ancient little\nbeasty ate!\nThis was an herbivore, wot?{01 00 00 0a 00}\nAs such, its{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}waste.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}will\ncontain many small rocks...\nAnd why? {01 00 00 05 00}Because this\nparticular beast{01 00 00 05 00} swallowed\nrocks with its plants!\n{07 0e 00}The rocks ground food up in\nits belly to aid with\ndigestion{01 00 00 0a 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} {07 0d 00}Amazing, wot?\n{07 04 00}Oh!{01 00 00 14 00} I'm{01 00 00 05 00} terribly sorry.{01 00 00 0a 00}\n{07 00 00}The very thought of belly\npebbles gets me agitated!",
+   "et": ""
+  },
+  {
+   "id": 83,
+   "en": "{07 14 00}Utterly amazing, this is!{01 00 00 0a 00}\nWhat a perfect specimen!\n\n{07 00 00}Figuring out what kind of\negg this is{01 00 00 0a 00} might seem\neasy,{01 00 00 0a 00} but it's actually not.\n{07 0e 00}In fact, I must admit that\nI have no idea how to go\nabout it, eh wot?\n{07 14 00}Still,{01 00 00 05 00} that very mystery is\nwhat's so fascinating about{01 00 00 0a 00}\n{04 1a 00}!\n{07 04 00}Ah!{01 00 00 14 00} Hoo.{01 00 00 05 00} I'm awfully sorry.{01 00 00 0a 00}\n{07 00 00}Inexplicable mysteries tend\nto set my beak blabbing!",
+   "et": ""
+  },
+  {
+   "id": 84,
+   "en": "{07 14 00}Hoo, a marvelous find!{01 00 00 0a 00}\nThis fossil is in absolutely\ntip-top condition!{01 00 00 0a 00}\n{07 00 00}This piece of fauna had\njust emerged from the sea{01 00 00 0a 00}\nwhen it became preserved.\nRather than seeds,{01 00 00 0a 00} it relied\non its spores to spread.{01 00 00 0a 00} It\nresembles moss with leaves!\n{07 04 00}Ah!{01 00 00 14 00} Terribly sorry, wot?{01 00 00 0a 00}\n{07 00 00}Ancient plants turn me into\na veritable hootbox!",
+   "et": ""
+  },
+  {
+   "id": 85,
+   "en": "{07 14 00}Hoo, I must applaud this\nfind! {01 00 00 05 00}The fossil's condition\nsimply could not be better!\n{07 0e 00}Based on the shape, I can\nonly suspect this is the\nfootprint of the T-rex!\n{07 00 00}Unlike with bones,{01 00 00 0a 00} we can\nsee the foot's shape, skin\ntexture, and more!\nWhy, we can even deduce how\nfast it ran! {01 00 00 05 00}Hardly just\nany old footprint, eh wot?\n{07 04 00}Hoo!{01 00 00 14 00} I'm frightfully sorry!{01 00 00 0a 00}\n{07 00 00}The thought of such mighty\nfeet agitates me to no end!",
+   "et": ""
+  },
+  {
+   "id": 86,
+   "en": "{07 14 00}I must salute this find!{01 00 00 0a 00}\nA fossil in such fine\ncondition is rare, indeed!\n{ff 00 00 07}{07 00 00}Archaeopteryx {ff 00 00 00}had wings and{01 00 00 0a 00}\nlooked almost exactly like a\nmodern bird, eh wot?\nAs such, most scientists\nbelieved that it was the\ntrue avian ancestor.\n{07 16 00}Our most recent studies,{01 00 00 0a 00}\nhowever, conclude that the\nlineage is not direct.\n{07 00 00}Current hypotheses point\nto multiple ancestors, some\nyet to be discovered.\n{07 04 00}Ah!{01 00 00 14 00} Sorry for running on!{01 00 00 0a 00}\n{07 00 00}This could be one of my\nancient relatives, wot!",
+   "et": ""
+  },
+  {
+   "id": 87,
+   "en": "{07 14 00}Hoo my,{01 00 00 0a 00} this is lovely.{01 00 00 0a 00}\nThis fossil is in{01 00 00 05 00} truly\nexquisite condition.\n{07 00 00}{ff 00 00 07}Peking man {ff 00 00 00}is significant\nbecause he lived roughly\n500,000 years ago...{01 00 00 0a 00}\nHoo, well, that AND he is\nsaid to be a link between\napes and humans, wot wot!\n{07 15 00}What particularly fascinates\nme{01 00 00 0a 00} is the fact that he\nknew to use fire{01 00 00 05 00} to cook.\n{07 00 00}Of course, that's standard\npractice now, eh wot? {01 00 00 05 00}But I\nassure you, it wasn't then!\nThey say that this aided in\nbrain development and was\na remarkable breakthrough.\n{ff 00 00 07}Peking man{ff 00 00 00}'s life span was\na mere 14 years,{01 00 00 0a 00}{07 16 00} so humans\ntoday would far outlive him.\n{07 04 00}Oh!{01 00 00 14 00} Please forgive me!{01 00 00 0a 00}\n{07 00 00}The thought of this hairy\nancient quite addled me!",
+   "et": ""
+  },
+  {
+   "id": 88,
+   "en": "{07 14 00}Hoo! {01 00 00 05 00}Amazing!{01 00 00 0a 00} Incredible!{01 00 00 0a 00}\nThis fossil{01 00 00 0a 00} is perfect!\n\n{07 00 00}It is believed that sharks{01 00 00 0a 00}\nexisted long before{01 00 00 0a 00} even\ndinosaurs appeared...\nHowever, {01 00 00 05 00}a shark's skeleton\nis made from cartilage\nand is softer than bone.\n{07 16 00}As a result,{01 00 00 05 00} very few have\nsurvived as fossils, eh wot?\n\n{07 00 00}Fortunately, we CAN\nresearch them when we find\n{04 1a 00}.\n{07 04 00}Ah!{01 00 00 14 00} {07 16 00}Oh, so very sorry!{01 00 00 0a 00}\n{07 00 00}I...{01 00 00 05 00} I cannot help it, really.{01 00 00 0a 00}\nAnd that's the tooth! {01 00 00 05 00}Hoo!",
+   "et": ""
+  },
+  {
+   "id": 89,
+   "en": "{07 14 00}Hoo my, simply marvelous!{01 00 00 0a 00}\nThis fossil is an{01 00 00 0a 00}\noutstanding specimen.\n{07 00 00}{ff 00 00 07}Trilobites{ff 00 00 00} {01 00 00 05 00}existed long\nbefore the dinosaurs, I'll\nhave you know.\nAt the time, there were\nvery few enemies,{01 00 00 05 00} so they\nabsolutely thrived, wot!\n{07 14 00}For protection,{01 00 00 0a 00} much like\na{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}blech{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}pill bug, {01 00 00 05 00}they\nwould roll up into a ball.\n{07 04 00}Oh, forgive my babbling!{01 00 00 0a 00}\n{07 00 00}The very thought of these\nbeasts gets me atwitter!",
+   "et": ""
+  },
+  {
+   "id": 90,
+   "en": "{07 00 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}Unless I'm quite mistaken,{01 00 00 0a 00}\nthis means{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 04 00}the {ff 00 00 02}ankylosaur{ff 00 00 00}{01 00 00 05 00}\nis complete at long last!\n{07 14 00}Huzzah, I say!{01 00 00 05 00} HUZZAH!{01 00 00 0a 00}\nSuch joy! {01 00 00 05 00}Such delight!\n\n{07 00 00}If I may be so bold, allow\nme to expound briefly upon\nthe {ff 00 00 02}ankylosaur{ff 00 00 00}...\nThis marvelous herbivore{01 00 00 0a 00}\nwas covered in spikes from\nhead to back, eh wot?\n{07 14 00}I challenge you to find a\nmore perfectly protected\nbody.{01 00 00 0a 00} You shan't succeed!\n{07 00 00}Not only that, but this\ngreat beast could also\nswing its hammerlike tail!\nHoo, this allowed it to\nattack as well as defend.{01 00 00 05 00}\nWith an attack like that{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n{07 07 00}Why, any carnivore would\nlikely think twice about\nsnacking on this fellow!\n{07 04 00}Ah!{01 00 00 14 00} {07 16 00}Forgive my babbling.{01 00 00 0a 00}\nIt's that tail, you see...{01 00 00 0a 00}\n{07 00 00}One can't help but rave!",
+   "et": ""
+  },
+  {
+   "id": 91,
+   "en": "{07 00 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}Why, could this possibly\nmean that{01 00 00 0a 00} {07 04 00}the {ff 00 00 02}apatosaur{ff 00 00 00}{01 00 00 05 00}\nhas been completed?!\n{07 14 00}{01 00 00 0a 00}Hoo, I say!{01 00 00 05 00} Indeed, WOO hoo,\nif I may be so bold!{01 00 00 05 00}\nI couldn't be happier!\n{07 00 00}The {ff 00 00 02}apatosaur{ff 00 00 00} was once\ncalled a brontosaur, I'll\nhave you know.\nIt is well known for having\na rather long neck and tail\nand for being an herbivore.\n{07 3b 00}However, it appears that,{01 00 00 05 00}\nunlike the giraffe, it could\nnot make its neck vertical!\nYes, blood flow, you see.{01 00 00 05 00} If\nit straightened more than\n90 degrees, it might faint!\n{07 04 00}Ah.{01 00 00 14 00} Hoo.{01 00 00 05 00} Terribly sorry.{01 00 00 0a 00}\n{07 00 00}If I kept speaking at that\nrate, I might have fainted!",
+   "et": ""
+  },
+  {
+   "id": 92,
+   "en": "{07 00 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}Does this mean that the{01 00 00 0a 00}\n{07 04 00}{ff 00 00 02}dimetrodon{ff 00 00 00}{01 00 00 05 00} is complete?!\n\n{07 14 00}Hoo, I say! {01 00 00 05 00}Yes, hootie hoo!{01 00 00 0a 00}\nI might weep at our good\nfortune!\n{07 00 00}No, I shall compose myself.{01 00 00 05 00}\nAllow me to tell you about\nthe {ff 00 00 02}dimetrodon{ff 00 00 00}...\nIt lived early on, when{01 00 00 0a 00}\ndinosaurs first began\nroaming the earth, wot?\n{07 15 00}{01 00 00 0a 00}And actually,{01 00 00 05 00} to be quite\naccurate, it's not even a\nreal dinosaur at all!\n{07 00 00}As we know, dinosaurs{01 00 00 0a 00} were\ncold-blooded and could not\nchange body temperature.\nBut the dimetrodon could!{01 00 00 0a 00}\nIt used its distinctive\nback to control heat!\n{07 14 00}For this reason, it is\nconsidered what we call a\n\"mammalian reptile,\" wot?\n{07 04 00}Ah.{01 00 00 14 00} Hoo.{01 00 00 05 00} Yes, sorry.{01 00 00 0a 00}\nI got rather blabby, there.{01 00 00 0a 00}\n{07 00 00}I got heated up, hoo!",
+   "et": ""
+  },
+  {
+   "id": 93,
+   "en": "{07 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}Wait, this can only mean\nthat{01 00 00 0a 00}{07 04 00} the {ff 00 00 02}iguanodon {ff 00 00 00}is done!\n\n{07 14 00}{01 00 00 0a 00}Hooooo!{01 00 00 0a 00} Indeed, hootie hoo!{01 00 00 0a 00}\nI couldn't possibly be more\nenthused! {01 00 00 05 00}Hoo hoo!\n{07 00 00}The{ff 00 00 02} iguanodon{ff 00 00 00} holds the\ndistinction of being {07 0d 00}the\nfirst dinosaur{01 00 00 0a 00} ever found!\n{07 00 00}Until this beast was found,{01 00 00 0a 00}\nwe were unaware that\ndinosaurs {01 00 00 0a 00}even existed, wot!\n{07 16 00}One wonders if the first\niguanodon tooth found was\nthought to be an iguana's!\n{07 04 00}Ah.{01 00 00 14 00} Hoo,{01 00 00 05 00} terribly sorry.{01 00 00 0a 00}\n{07 00 00}I {01 00 00 05 00}went on a tangent again,{01 00 00 0a 00}\ndidn't I? {01 00 00 05 00}Hoo, sorry!",
+   "et": ""
+  },
+  {
+   "id": 94,
+   "en": "{07 00 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}Hoo my! This means that{01 00 00 0a 00}\n{07 04 00}the {ff 00 00 02}mammoth{ff 00 00 00}{01 00 00 05 00} is complete!\n\n{07 14 00}Hoo!{01 00 00 05 00} Indeed, I must go one\nstep further and proclaim\nWOO hoo!\n{07 00 00}Please, allow me a moment\nto tell of the{ff 00 00 02} mammoth{01 00 00 05 00}{ff 00 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n\nIt resembled an elephant\nand only became extinct{01 00 00 0a 00} a\nmere 10,000 years ago!\nThis shaggy beast lived in\nthe ice age{01 00 00 0a 00} and developed\npronounced tusks, wot wot?\nYes, it used them to scrape\nice and snow to get to {07 14 00}the\nplants that it fed on!\n{07 04 00}Ah.{01 00 00 14 00} Hoo. {01 00 00 05 00}I'm so very sorry.{01 00 00 0a 00}\n{07 00 00}I'm rather a mammoth\nblabbermouth myself, wot.",
+   "et": ""
+  },
+  {
+   "id": 95,
+   "en": "{07 00 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}Why, this means that the{01 00 00 0a 00}\n{ff 00 00 02}{07 04 00}pachycephalosaur{ff 00 00 00}{01 00 00 05 00} has\nfinally reached completion!\n{07 14 00}Woooo HOO! {01 00 00 05 00}Simply splendid!{01 00 00 0a 00}\nI'm awash in delight!\n\n{07 00 00}I must tell you a smidgen\nabout the {ff 00 00 02}pachycephalosaur{ff 00 00 00}!\n\nThis unique creature was\none of the last dinosaurs{01 00 00 05 00}\nto roam the earth, wot?\nThough it is known primarily\nfor its rounded head...\n\n{07 15 00}It was basically all bone!{01 00 00 05 00}\nThere was hardly a brain\nto speak of inside!\n{07 14 00}{01 00 00 0a 00}These brain-boggling dinos\nnever cease to amaze me!{01 00 00 05 00}\nHoo, so intriguing!\n{07 04 00}Ah.{01 00 00 14 00} My my!{01 00 00 05 00} Terribly sorry.{01 00 00 0a 00}\n{07 00 00}I babble{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} You must wonder\nif I've a brain in MY head!",
+   "et": ""
+  },
+  {
+   "id": 96,
+   "en": "{07 00 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}Could this possibly mean{01 00 00 0a 00}\nthat {07 04 00}the {ff 00 00 02}parasaur{ff 00 00 00}{01 00 00 05 00} is\nfinally complete?!\n{07 14 00}It IS! {01 00 00 05 00}Hoo!{01 00 00 05 00} Hoo, I say!{01 00 00 05 00}\nSuch unfettered delight\ncourses through my breast!\n{07 00 00}Please, you MUST allow me\na few words in honor of the\n{ff 00 00 02}parasaur{ff 00 00 00}.\nThis dinosaur lived until \nthe very end{01 00 00 05 00} of ALL\ndinosaur-kind, you know.\nThe magnificent crest on\nits head was actually hollow\nbone measuring over 3 feet!\n{07 14 00}BA-ROOOOOOOOOOOO! {01 00 00 05 00}A mighty\ncry would echo across the\nland when it tooted it!\n{07 04 00}Ah.{01 00 00 14 00} Hoo.{01 00 00 05 00} Did I spit on you?{01 00 00 0a 00}\n{07 00 00}I rarely get to cut loose\nlike that, wot? {01 00 00 05 00}I'm an owl.",
+   "et": ""
+  },
+  {
+   "id": 97,
+   "en": "{07 00 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}This could very well mean\nthat{01 00 00 0a 00} {07 04 00}the {ff 00 00 02}pteranodon {ff 00 00 00}is now\nentirely complete!\n{07 14 00}Hoo!{01 00 00 05 00} Hootie hoo, I say!{01 00 00 05 00}\nWhat a day of days!{01 00 00 0a 00} My cup\nrunneth over, wot wot?\n{07 00 00}The {ff 00 00 02}pteranodon{ff 00 00 00} was simply\na wonderful creature.\n\nIt emerged in the later\nage of dinosaurs, winging\nthrough the ancient skies.\nThough it could fly, {07 14 00}it was\nmost certainly not a bird!{01 00 00 0a 00}\nNo, it was a reptile, wot!\n{07 00 00}When it spread its wings,{01 00 00 0a 00}\nit was as big as a{01 00 00 05 00} small\nairplane. {01 00 00 05 00}Simply gargantuan!\n{07 3b 00}The very thought boggles\nmy brain, to be honest.\n\n{07 04 00}Ah.{01 00 00 14 00} Hoo.{01 00 00 05 00} Yes, so sorry.{01 00 00 0a 00}\n{07 00 00}I'm actually rather glad\nthe brute no longer exists.",
+   "et": ""
+  },
+  {
+   "id": 98,
+   "en": "{07 00 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}Why, this means that the{01 00 00 0a 00}\n{ff 00 00 02}{07 04 00}sabertooth tiger{ff 00 00 00}{01 00 00 05 00} is now\n100 percent complete!\n{07 14 00}Hoo!{01 00 00 05 00} Oh, hoo, how marvelous!{01 00 00 05 00}\nI'm getting misty!\n\n{07 00 00}The {ff 00 00 02}sabertooth tiger {ff 00 00 00}was an\nabsolutely amazing beast!\n\nAs its name implies,{01 00 00 0a 00} it was\npart of the cat family{01 00 00 05 00} and\nhad two long canine teeth.{01 00 00 0a 00}\nIt could open its jaws\nincredibly wide,{01 00 00 0a 00} allowing it\nto tear into thick hides.\nIt went extinct about\n40,000 years ago...{01 00 00 0a 00}during a\nperiod{01 00 00 05 00} when humans lived.\n{07 07 00}{01 00 00 0a 00}I understand that humans\nalso fell victim to this{01 00 00 0a 00}\nfierce hunter.{01 00 00 05 00} The horror!\n{07 04 00}Ah.{01 00 00 14 00} Hoo.{01 00 00 05 00} My apologies.{01 00 00 0a 00}\n{07 00 00}I really should try to be\nmore sensitive, eh wot?",
+   "et": ""
+  },
+  {
+   "id": 99,
+   "en": "{07 00 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}Why, I do believe this\nmeans{01 00 00 0a 00} {07 04 00}the {ff 00 00 02}seismosaur{ff 00 00 00}{01 00 00 05 00} has\nbeen completed!\n{07 14 00}Hoo!{01 00 00 05 00} Indeed, woo HOOTIE hoo!{01 00 00 0a 00}\nOh, glorious day!\n\n{07 00 00}The {ff 00 00 02}seismosaur{ff 00 00 00} is, quite\nsimply, a stunning creature.\n\nOf the dinosaurs that we\nknow about now, {01 00 00 0a 00}this is the\nabsolute longest.\nIts body was rather small\nand quite light for its\nlength, to be honest.\n{07 04 00}Ah.{01 00 00 14 00} Hoo.{01 00 00 05 00} Terribly sorry.{01 00 00 0a 00}\n{07 00 00}Who am I to judge its\nweight, eh wot?",
+   "et": ""
+  },
+  {
+   "id": 100,
+   "en": "{07 00 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}This can only mean one\nthing: {01 00 00 0a 00}{07 04 00}the {ff 00 00 02}stegosaur{ff 00 00 00}{01 00 00 05 00} is\nnow complete!\n{07 14 00}Woo hoo!{01 00 00 05 00} Yes, WOOOO HOOOO!{01 00 00 0a 00}\nI care not who hears my\ncries of delight!\n{07 00 00}Hoo. {01 00 00 05 00}Yes.{01 00 00 05 00} In any case, \nallow me to tell you about\nour dear {ff 00 00 02}stegosaur{ff 00 00 00}.\nIt emerged right around the\nmiddle of the era when\ndinosaurs roamed the earth.\nThe diamond-shaped plates\nembedded along its back are\nactually made of bone, wot?\nIndeed, they were used to\nkeep it cool and{01 00 00 0a 00} also to\nthwart its enemies.\n{07 04 00}Ah.{01 00 00 14 00} Hoo.{01 00 00 05 00} Indeed, so sorry.{01 00 00 0a 00}\n{07 00 00}{ff 00 00 02}Stegosaurs {ff 00 00 00}never fail to\nset my beak blabbing!",
+   "et": ""
+  },
+  {
+   "id": 101,
+   "en": "{07 00 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}This must mean that the\ngreat day has finally come!{01 00 00 0a 00}\n{07 04 00}The {ff 00 00 02}plesiosaur{ff 00 00 00}{01 00 00 05 00} is complete!\n{07 14 00}Hoo!{01 00 00 05 00} Indeed, WOO hoo!{01 00 00 0a 00}\nI shout to the sky, HUZZAH!\n\n{07 00 00}Please, allow me a moment\nto tell you a little about\nthe {ff 00 00 02}plesiosaur{ff 00 00 00}!\nThis creature emerged{01 00 00 05 00}\ntoward the end of the era\nof the dinosaurs...\nTo be accurate, it was not\na dinosaur{01 00 00 0a 00} but rather a\ntype of long-neck reptile.\nThe first plesiosaurus\nfossil was found 35 years\nago by a high-schooler!\nAmazing! {01 00 00 05 00}I shan't tell you\nwhat MY greatest high-\nschool accomplishment was...\n{07 0d 00}{01 00 00 0a 00}Wouldn't it be wonderful{01 00 00 0a 00}\nto discover a new fossil?!{01 00 00 05 00}\nI hope to{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}someday.\n{07 04 00}Ah.{01 00 00 14 00} Hoo.{01 00 00 05 00} Yes, so sorry.{01 00 00 0a 00}\n{07 00 00}I rather lost myself in\nwishful thinking, eh wot?",
+   "et": ""
+  },
+  {
+   "id": 102,
+   "en": "{07 00 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}This must mean that the{01 00 00 0a 00}\n{07 04 00}{ff 00 00 02}Tyrannosaurus rex{ff 00 00 00}{01 00 00 05 00} is now\ncompletely assembled!\n{07 14 00}Hoo! {01 00 00 05 00}Let the shout echo off\nthe firmament! {01 00 00 05 00}HOOTIE HOO!{01 00 00 0a 00}\nOh, most glorious day!\n{07 00 00}We must mark the occasion\nwith some words about the\n{ff 00 00 02}Tyrannosaurus rex{ff 00 00 00}.\nThis carnivorous giant was{01 00 00 0a 00}\none of the last remaining\ndinosaurs on earth.\n{07 15 00}Because of its speed,{01 00 00 0a 00} it\nwas once called the\nultimate hunter. However{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 16 00}a recent theory suggests\nthat the T-rex was,\nin point of fact, clumsy.\nYes, clumsy!{01 00 00 05 00} And that it\nate a diet consisting\nmostly of dead dinosaurs!\n{07 00 00}Nonsense, says I. {01 00 00 05 00}What rot!{01 00 00 0a 00}\n{07 3b 00}I still consider T-rex to\nbe a dinosaur most savage!\n{07 04 00}Ah.{01 00 00 14 00} Hoo.{01 00 00 05 00} I must apologize.{01 00 00 0a 00}\n{07 00 00}Perhaps the archaeologists\nare right{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} Hoo well{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.",
+   "et": ""
+  },
+  {
+   "id": 103,
+   "en": "{07 00 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}This must mean that, at\nlast, {01 00 00 0a 00}{07 04 00}the {ff 00 00 02}triceratops{ff 00 00 00}{01 00 00 05 00} is now\nwell and truly complete!\n{07 14 00}Hoo!{01 00 00 05 00} Indeed, hootie HOO hoo!{01 00 00 0a 00}\nI'm simply awash in joy!\n\n{07 00 00}Allow me to compose myself\nand tell you about the\nmighty {ff 00 00 02}triceratops{ff 00 00 00}.\nThis herbivore was one of\nthe last remaining\ndinosaurs, eh wot?\nThis quiet giant is easily\nrecognized {01 00 00 0a 00}by its three\nhorns and its large collar.\nThe bone in that collar was\ndesigned to build more\nmuscles in the neck...\n{07 14 00}Yes, as a result, the biting\npower of this creature was\nsomething to behold!\n{07 04 00}Ah.{01 00 00 14 00} Hoo.{01 00 00 05 00} Yes, so sorry.{01 00 00 0a 00}\n{07 00 00}I didn't behold it MYSELF,\nof course{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} Hoo.",
+   "et": ""
+  },
+  {
+   "id": 105,
+   "en": "{07 14 00}Hoo then,{01 00 00 05 00} I thank you for\nyour generosity{01 00 00 0a 00} and accept\nyour gracious donation!",
+   "et": ""
+  },
+  {
+   "id": 106,
+   "en": "{07 04 00}Hoo my!{01 00 00 0a 00} Unfortunately,\n{04 1a 00} has\nalready been donated.\n{07 14 00}What a shame.{01 00 00 05 00} It's lovely!{01 00 00 14 00}\nIf only I had the Bells,{01 00 00 05 00} I'd\nbuy it from you in a wink.{01 00 00 05 00}\n{07 00 00}Sadly, for now, all I can do\nis return it{01 00 00 05 00} to you.",
+   "et": ""
+  },
+  {
+   "id": 107,
+   "en": "{07 00 00}Is there{01 00 00 0a 00} anything else that{01 00 00 0a 00}\n{07 0b 00}you might like to show me?{02 04 00 00 28}\nOf course!\nThat's it!",
+   "et": ""
+  },
+  {
+   "id": 110,
+   "en": "{07 00 00}The {ff 00 00 07}common butterfly{ff 00 00 00} looks\nquite innocent, eh wot?\n\n{07 15 00}Far from it! {01 00 00 05 00}It's {01 00 00 05 00}a pest!{01 00 00 0a 00}\nIt is a worldwide cabbage-\nfield ravisher, hoo!\n{07 00 00}I suppose that's rather\nbeside the point, but still,\ninnocent my foot!",
+   "et": ""
+  },
+  {
+   "id": 111,
+   "en": "{07 00 00}Butterflies are {01 00 00 05 00}covered in\n\"scales\" that flake off like\ndust when touched, eh wot?\n{07 12 00}Blech{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} The very thought\nmakes my eyebrows itch\nunbearably{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 00 00}Anyhoo,{01 00 00 0a 00} I suppose that's\nneither here nor there...",
+   "et": ""
+  },
+  {
+   "id": 112,
+   "en": "{ff 00 00 07}{07 00 00}Tiger butterflies{ff 00 00 00} are named\ndue to their distinctive\ntiger-like markings...\nI must say, I'd almost\nrather encounter a real\ntiger than one of these.\n{07 00 00}Real tigers are nowhere\nnear as...{01 00 00 05 00}wretched.",
+   "et": ""
+  },
+  {
+   "id": 113,
+   "en": "{07 00 00}The{ff 00 00 07} peacock butterfly {ff 00 00 00}gets\nits name from its coloring,\nas one would expect.\n{07 0e 00}If you ask me,{01 00 00 05 00} I think it's\na bit too ostentatious{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n\n{07 00 00}But that's just me...",
+   "et": ""
+  },
+  {
+   "id": 114,
+   "en": "{07 00 00}The {ff 00 00 07}monarch butterfly {ff 00 00 00}got\nits regal name because of\nits orange coloring, wot?\nYes, it reminded people of\nthe king of England, aka\nWilliam of Orange.\n{07 07 00}To be perfectly honest,{01 00 00 05 00} if I\nwere His Highness, I'd be\nrather miffed!{01 00 00 05 00} Blech!\n{07 00 00}Truly, to have a filthy bug\nremind people of you{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\nAbsolutely appalling, wot!",
+   "et": ""
+  },
+  {
+   "id": 115,
+   "en": "{07 00 00}If you wish to keep an\n{ff 00 00 07}emperor butterfly {ff 00 00 00}as a\nspecimen, {01 00 00 05 00}remove the body.\n{07 16 00}If you don't,{01 00 00 05 00} oils from the\nexpired body will leak out,\nchanging the wing color.\n{07 00 00}Blech, the very thought of\nthose post-mortem oils{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}",
+   "et": ""
+  },
+  {
+   "id": 116,
+   "en": "{07 00 00}The {ff 00 00 07}agrias butterfly{ff 00 00 00} is said\nto be quite an agile flier.{01 00 00 05 00}\nI'm shocked you snared one!\n{07 14 00}Yes, rather impressive!{01 00 00 14 00}\nI know for a fact that I\ncould never do it, wot!\n{07 00 00}Or, to be more accurate,\ncatching one would never\neven cross my mind{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 00 00}Fleeing from one{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} That I\nmight do!",
+   "et": ""
+  },
+  {
+   "id": 117,
+   "en": "{07 14 00}Though I know this is a\ntype of tiger butterfly,{01 00 00 05 00} its\nsize is simply monstrous!\n{07 16 00}Are you trying to terrify\nme with this behemoth?{01 00 00 05 00}\n{07 00 00}No, you wouldn't do that.{01 00 00 05 00}\nRather shabby of me to\nsuggest you would{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} Please\naccept my apologies!",
+   "et": ""
+  },
+  {
+   "id": 118,
+   "en": "{07 00 00}There are many who think\nthat butterflies are cute,{01 00 00 05 00}\nwhile {ff 00 00 07}moths{ff 00 00 00} are repulsive{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n{07 07 00}In this owl's opinion, they\nare both equally grotesque!{01 00 00 05 00}\nBlech, I say!\n{07 00 00}I suppose such revulsion\nis mine and mine alone,\nhowever{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}",
+   "et": ""
+  },
+  {
+   "id": 119,
+   "en": "{07 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 04 00}Ah!{01 00 00 0a 00} I just looked directly\ninto that {ff 00 00 07}silkmoth{ff 00 00 00}'s fabled\neye-spots!\n{07 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 0f 00}I'm unsure what predator\nwould be fooled. {01 00 00 05 00}Those look\nnothing like owl's eyes.\n{07 16 00}Ah.{01 00 00 05 00} Hm.{01 00 00 05 00} There I go again.{01 00 00 05 00}\nLetting my revulsion taint\nmy scientific analysis{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n{07 00 00}The eye-spots DO work, and\nare a vital evolutionary\nstep!{01 00 00 05 00} .{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}But blech.",
+   "et": ""
+  },
+  {
+   "id": 120,
+   "en": "{07 00 00}The stinger of a {ff 00 00 07}honeybee{ff 00 00 00}{01 00 00 0a 00}\nis actually connected to its\ninternal organs, eh wot?\nWhen it uses its stinger{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\nthe organs get pulled out.{01 00 00 0a 00}\n{07 07 00}What an abhorrent image!\n{07 00 00}I'm terribly sorry, but\nnature is not always family\nfriendly!",
+   "et": ""
+  },
+  {
+   "id": 121,
+   "en": "{07 00 00}I once thought that its\nstinger was a {ff 00 00 07}bee{ff 00 00 00}'s lone\ndefense, but...{01 00 00 05 00}\n...I've recently heard that\nthey also possess terribly\nrepulsive breath!\nOf course, the gent who\ntold me this was a bit of a\nrabid liar, but still!\n{07 15 00}I would heartily endorse the\nfollowing action if you\nsee another: {01 00 00 05 00}FLEE LIKE MAD!\n{07 00 00}Stingers and bad breath,\nhonestly! {01 00 00 05 00}What monstrous\nlittle beasties{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}",
+   "et": ""
+  },
+  {
+   "id": 122,
+   "en": "{07 00 00}I feel I must inform you\nthe female{ff 00 00 02} {ff 00 00 07}long locust{ff 00 00 00} is\nmuch larger than the male.\nAs such,{01 00 00 05 00} I suspect this one\nyou brought is, in fact,\na female specimen.\n{07 07 00}I don't mind telling you,\nit's not only bigger in size,\nbut in wretchedness, wot?\n{07 00 00}Then again, I suppose the\nmales are quite wretched\nenough in their own right.",
+   "et": ""
+  },
+  {
+   "id": 123,
+   "en": "{07 0e 00}I wonder if the{ff 00 00 07} migratory\nlocust{ff 00 00 00}{01 00 00 05 00} thinks about where\nit's going to go next?\n{07 16 00}Frankly, I suspect it plans\nnot at all and just flies\nabout all willy-nilly{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\nHardly a recommended way\nof traveling, eh wot?\n{07 00 00}Hoo{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} But I digress{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.",
+   "et": ""
+  },
+  {
+   "id": 124,
+   "en": "{07 00 00}I imagine you'll think I'm\nhaving a bit of fun, but I\nassure you, I am serious{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n{07 02 00}After mating, the female\n{ff 00 00 07}mantis{ff 00 00 00} will kill the male{01 00 00 05 00}\nand devour him on the spot!\n{07 07 00}Blech! {01 00 00 05 00}The very thought\ngives me the gags!\n\n{07 16 00}I must say, I consider\nmyself most fortunate not\nto have been born a mantis.\n{07 00 00}Hoo, I might have had to\nsquash myself...",
+   "et": ""
+  },
+  {
+   "id": 125,
+   "en": "{07 00 00}Ah, the {ff 00 00 07}orchid mantis{ff 00 00 00} fools\nother insects by looking \nlike a flower, eh wot?{01 00 00 05 00}\nBugs approach for nectar...{01 00 00 0a 00}\nCHOMP!{01 00 00 05 00} The mantis attacks!\n{07 15 00}It shan't fool me, though!{01 00 00 05 00}\n{07 16 00}Just {01 00 00 05 00}look at it!{01 00 00 0a 00} Can't you\nsee the antennae twitching?{01 01 00}\n{07 07 00}Blech!{01 00 00 0a 00} Duplicitous wretch!\n{07 00 00}Hoo{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} But I digress{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}",
+   "et": ""
+  },
+  {
+   "id": 126,
+   "en": "{07 00 00}It's common knowledge that\ncicadas spend much of their\nlives in the ground, but...\n{07 15 00}They are STILL too noisy!{01 00 00 14 00}\nHonestly, they could be a\nsight more courteous, wot?\n{07 00 00}Hoo, but then again, who\nwould expect a wretched bug\nto have manners?",
+   "et": ""
+  },
+  {
+   "id": 127,
+   "en": "{07 00 00}When a female {ff 00 00 07}robust cicada\n{ff 00 00 00}approaches, the male will \nchange its call, eh wot?\n{07 0e 00}To think that they're mere\nbugs{01 00 00 0a 00} and they play these\nmind games{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 01 00}{07 07 00} Disgusting!\n{07 00 00}Hoo{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} But I digress{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.",
+   "et": ""
+  },
+  {
+   "id": 128,
+   "en": "{07 00 00}Depending on where you are\nin the world, the cry of\nthe{ff 00 00 07} walker cicada {ff 00 00 00}changes.\n{07 15 00}Who do they think they are?{01 00 00 05 00}\nUsing dialects and whatnot!{01 00 00 05 00}\nI mean, really!\n{07 00 00}Hoo{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} But I digress{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.",
+   "et": ""
+  },
+  {
+   "id": 129,
+   "en": "{07 00 00}The{ff 00 00 07} evening cicada{ff 00 00 00}'s cry can\nbe heard in the morning and\nat night, typically.\nStrangely enough, if the\nweather is poor, they cry\nduring the day, as well!\n{07 15 00}I suppose they only remain\nactive in cool weather, wot?{01 00 00 05 00}\nFickle little beasts.\n{07 00 00}Perhaps they could do us\nall a favor and move to\nsome frozen land, hoo!",
+   "et": ""
+  },
+  {
+   "id": 130,
+   "en": "{07 00 00}The {ff 00 00 07}lantern fly{ff 00 00 00} drinks the\nsap of the lychee, whose\nfluids are said to be sweet.\n.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 07 00}The question is, who first\nsampled the lychee, anyhoo?{01 00 00 05 00}\nIt looks repellant!\n{07 00 00}It took a gourmand braver\nthan I, I assure you!",
+   "et": ""
+  },
+  {
+   "id": 131,
+   "en": "{07 00 00}Ever looked into the eyes\nof a {ff 00 00 07}red dragonfly{ff 00 00 00},{01 00 00 05 00} or any \ndragonfly, for that matter?\n{07 00 00}They've \"compound eyes,\"\nwhere multiple eyeballs are\nstuck together, wot!\nJust think of all those\nbeady little eyes on you!{01 01 00}\n{07 07 00}Blech!{01 00 00 05 00} How very vile{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 00 00}To be honest, bugs with\nonly TWO eyes make me gag.",
+   "et": ""
+  },
+  {
+   "id": 132,
+   "en": "{07 00 00}Tell me, were you aware \ndragonflies lay their eggs\nin the water? {01 00 00 05 00}They do.\nJuvenile dragonflies are \ncalled \"nymphs,\" you know.{01 00 00 05 00}\n{07 07 00}And they're grotesque too{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 00 00}Yes, sadly, not even youth\ncan render vile insects\nattractive, I'm afraid.",
+   "et": ""
+  },
+  {
+   "id": 133,
+   "en": "{07 04 00}Hoo! {01 00 00 05 00}You caught a {ff 00 00 07}banded\ndragonfly{ff 00 00 00}!{01 00 00 05 00} Most impressive.{01 00 00 14 00}\n{07 00 00}Rather difficult, was it?\n{07 15 00}Bit of a hairy fellow, wot?{01 00 00 14 00}\nI say, {07 16 00}some cosmetic\nplucking would really help{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n{07 00 00}Hoo{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} What am I saying?",
+   "et": ""
+  },
+  {
+   "id": 134,
+   "en": "{07 00 00}Tell me, did you know that\n{ff 00 00 07}ants {ff 00 00 00}leave scent everywhere\nthey trundle about?\nIndeed, they do this in\norder to make sure they\ncan get back to their nest.\n{07 07 00}But from just WHERE on the\nant{01 00 00 0a 00} does this stench {01 00 00 0a 00}come?\n\n{07 00 00}Blech. {01 00 00 05 00}I'd rather not know{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}",
+   "et": ""
+  },
+  {
+   "id": 135,
+   "en": "{07 00 00}Do you know how {ff 00 00 07}pond-\nskaters {ff 00 00 00}keep themselves\n{07 0b 00}above water, wot?\n{07 00 00}The oil on the hairs of\ntheir feet repel water!{01 00 00 05 00}\nThusly they stay afloat.\n{07 0e 00}Which begs the question,\nif one were to shave their\nfeet, would they sink?\n{07 00 00}I daresay, I cannot think\nof a worse job than being\nthe shaver of insect feet.",
+   "et": ""
+  },
+  {
+   "id": 136,
+   "en": "{07 00 00}I should inform you, some\ncultures consider {ff 00 00 07}snails{ff 00 00 00} a\ndelicacy{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 07 00}That means that someone,\nsomewhere, would eat this.{01 01 00}\n{07 00 00}How I{01 00 00 05 00} fear for that person.\nHoo{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} But I digress{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}",
+   "et": ""
+  },
+  {
+   "id": 137,
+   "en": "{07 14 00}Hoo! {01 00 00 05 00}Well.{01 00 00 0a 00} That IS a lovely\nsound, now isn't it?\n\n{07 00 00}Indeed.{01 00 00 05 00} I wonder if I'm the\nonly one {07 0b 00}to mistake these\nthings for roaches.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n{07 00 00}I suppose the only sound\nI've ever heard a roach\nmake is \"squish.\"",
+   "et": ""
+  },
+  {
+   "id": 138,
+   "en": "{07 00 00}The chirping of the {ff 00 00 07}bell\ncricket {ff 00 00 00}is interesting and\neven rather charming, wot!\n{07 16 00}But the movement of their\nwings{01 00 00 0a 00} when they cry out...{01 01 00}\n{07 07 00}Blech!{01 00 00 05 00} Gives me hives{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 00 00}Hoo{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} But I digress{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.",
+   "et": ""
+  },
+  {
+   "id": 139,
+   "en": "{07 00 00}Autumn bugs like this one{01 00 00 05 00}\nusually sound alluring, wot?\n\nEven so, one look at their\nplump, repellant bellies \nis all it takes to...{01 00 00 0a 00}\n{07 16 00}...snap me back to reality!{01 01 00}\n{07 07 00}Blech!{01 00 00 05 00} So very vile{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n\n{07 00 00}Hoo{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} But I digress{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.",
+   "et": ""
+  },
+  {
+   "id": 140,
+   "en": "{07 00 00}The {ff 00 00 07}mole cricket{ff 00 00 00} is a bug,\nof course, but it resembles\na mole!{01 00 00 0a 00} Hence the name.\nIt's clear once you inspect\nits lower half that it is\nmost definitely a cricket.\n{07 16 00}Blech!{01 00 00 14 00} Add \"imitating moles\"\nto the list of unforgivable\nthings bugs are capable of!\n{07 00 00}Hoo{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} But I digress...",
+   "et": ""
+  },
+  {
+   "id": 141,
+   "en": "{07 00 00}The{ff 00 00 07} walkingstick {ff 00 00 00}not only\nimpersonates a tree branch{01 00 00 05 00}\nbut will also play dead!\n{07 0e 00}Such deceptive creativity{01 00 00 0a 00}\nboth intrigues and disgusts\nme, I have to say{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 00 00}Hoo{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} But I digress...",
+   "et": ""
+  },
+  {
+   "id": 142,
+   "en": "{07 00 00}I've heard it said that\n{ff 00 00 07}ladybugs{ff 00 00 00} are \"so cute!\"{01 00 00 14 00}\nSadly, I must disagree.\n{07 16 00}I touched one once, and\nthis vile yellow fluid{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 01 00}\n{07 07 00}Blech!{01 00 00 05 00} I shan't discuss it{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 00 00}Hoo{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} If that's \"cute,\"\nthen I weep for the world!",
+   "et": ""
+  },
+  {
+   "id": 143,
+   "en": "{07 00 00}Just because they are\nconsidered pretty, these\ntend to fetch a high price.{01 00 00 14 00}\n{07 16 00}I simply don't understand\nhow anyone could find this\nbug appealing in the least.\n{07 00 00}Perhaps if I was a-peeling\nit off my foot{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} Hoo hoo!",
+   "et": ""
+  },
+  {
+   "id": 144,
+   "en": "{07 14 00}Hoo my!{01 00 00 05 00} Many thanks for\ndonating such a valuable \ninsect, wot wot!\n{07 00 00}This{ff 00 00 07} scarab beetle{ff 00 00 00}{01 00 00 05 00} is as\nvaluable as its weight in\npurest platinum!\nDisgusted I may be, but I\nshan't turn down such a\npricey donation! {01 00 00 05 00}Cheers!\n{07 00 00}Hoo{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} I'm rather atwitter...",
+   "et": ""
+  },
+  {
+   "id": 145,
+   "en": "{07 00 00}I say, I've actually heard it\nsaid that their dung-rolling\nis considered endearing!\n{07 16 00}Absolute rubbish. {01 00 00 05 00}It is a\ndirty habit. {01 00 00 05 00}Dung is dirty.{01 00 00 05 00}\nThere is no refuting it!\n{07 00 00}Hoo{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} What a world...",
+   "et": ""
+  },
+  {
+   "id": 146,
+   "en": "{07 00 00}Horned beetles are said to\nbe the largest of the\nbeetle families, wot?\nIndeed, in some regions,\nthis is the largest beetle\non record.\n{07 07 00}It certainly has the largest\nrepulsiveness quota. {01 00 00 05 00}Hardly\nsomething to brag about...\n{07 00 00}Hoo{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} But I digress...",
+   "et": ""
+  },
+  {
+   "id": 147,
+   "en": "{07 00 00}I've heard tales of children\nunable to buy candles...\n\nYes, these unfortunate\nsouls are said to have\nstudied by {ff 00 00 07}firefly {ff 00 00 00}light!\n{07 16 00}Ugh.{01 00 00 05 00} The mere thought of\nhaving a bug that close...{01 01 00}\n{07 07 00}Blech!{01 00 00 05 00} So very vile{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 00 00}I'd rather read in darkness!",
+   "et": ""
+  },
+  {
+   "id": 148,
+   "en": "{07 15 00}I am a nocturnal creature,\nso this color is rather a\nbit too bright for me...\n{07 16 00}There's also the fact that\nI abhor bugs to consider.{01 01 00}\n{07 07 00}Blech!{01 00 00 05 00} Loathsome thing{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 00 00}Hoo{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} But I digress...",
+   "et": ""
+  },
+  {
+   "id": 149,
+   "en": "{07 04 00}Hoo, I say!{01 00 00 05 00} Be sure to keep\nyour fingers away from\nthat savage maw!\n{07 16 00}And what ostentatious\nantennae! {01 00 00 05 00}I mean, really!{01 01 00}\n{07 07 00}Blech!{01 00 00 05 00} Such foulness{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 00 00}Hoo{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} But I digress...",
+   "et": ""
+  },
+  {
+   "id": 150,
+   "en": "{07 00 00}{0b 03 00}{04 00 00}, {01 00 00 05 00}have you ever\nhad a {ff 00 00 07}saw stag beetle{ff 00 00 00}{01 00 00 05 00}\nadhere to your clothes?\n{07 16 00}Their little claws are so\nsharp, it's nigh impossible\nto untangle the wretches.\nIt's terribly rude, really.{01 01 00}\n{07 07 00}It's not enough to be vile,\nthey must be clingy, too!\n{07 00 00}Hoo{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} But I digress...",
+   "et": ""
+  },
+  {
+   "id": 151,
+   "en": "{07 00 00}When picking up a {ff 00 00 07}stag\nbeetle{ff 00 00 00},{01 00 00 05 00} I would advise you\nto grab on its back side.\n{07 16 00}If your finger got stuck in\nthe brute's pinchers,{01 00 00 05 00} you'd\nsurely regret it, wot wot!\n{07 00 00}Hoo{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} But I digress...",
+   "et": ""
+  },
+  {
+   "id": 152,
+   "en": "{07 14 00}If you took this to a shop,\nthey'd be willing to pay you\nquite well for it, I'm sure.\n{07 16 00}That said, all it looks like\nto me is a glorified,\nexpensive cockroach!\n{07 00 00}Perhaps that's just me...",
+   "et": ""
+  },
+  {
+   "id": 153,
+   "en": "{07 0b 00}I do wonder{01 00 00 05 00} why the {ff 00 00 07}rainbow\nstag beetle{ff 00 00 00} is colored the\nway it is...\n{07 16 00}While I may not know THAT,\nI most certainly know THIS:{01 00 00 05 00}\n{07 07 00}They are foul.\n{07 00 00}Hoo{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} But I digress...",
+   "et": ""
+  },
+  {
+   "id": 154,
+   "en": "{07 00 00}Do tell, {04 00 00}, {01 00 00 05 00}have\nyou ever seen a{ff 00 00 07} dynastid\nbeetle{ff 00 00 00}'s larva?\n{07 04 00}Oh,{01 00 00 05 00} no trouble at all if you\nhaven't, I assure you!\n\n{07 07 00}If you had, we might speak\nof them, and then I would\nrecall how vile they look.\n{07 00 00}Let's forget it,{01 00 00 0a 00} shall we?",
+   "et": ""
+  },
+  {
+   "id": 155,
+   "en": "{07 00 00}I find most things about\nbeetles like this repellant,\nbut the MOST repellant\n{07 0e 00}are the thin wings that \nthey keep hidden inside.{01 00 00 05 00}\nYou know of what I speak?\n{07 15 00}After landing,{01 00 00 05 00} seeing that \nlittle piece of wing{01 00 00 05 00} sticking\nout of their backs!{01 00 00 05 00} Blech!\n{07 16 00}Just another example of\nhow insects scoff at proper\nmanners and tidiness!\n{07 00 00}Hoo{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} But I digress...",
+   "et": ""
+  },
+  {
+   "id": 156,
+   "en": "{07 00 00}I wonder what {ff 00 00 07}elephant\nbeetles {ff 00 00 00}were called {07 0b 00}before \nthere were elephants?\n{07 03 00}No, wait, I don't wonder!{01 00 00 05 00}\nI don't even care!{01 00 00 05 00} Hoo hoo!\n\n{07 00 00}Well, {01 00 00 0a 00}moving on...",
+   "et": ""
+  },
+  {
+   "id": 157,
+   "en": "{07 00 00}The {ff 00 00 07}hercules beetle{ff 00 00 00} is\nknown as the largest beetle\nin the world, eh wot?\n{07 04 00}It's those mammoth horns!{01 01 00}\n{07 00 00}Yes, the horns are its\nclaim to fame...\n{07 16 00}But inspect them, and you'll\nsee they're covered in hair!{01 01 00}\n{07 07 00}Blech! {01 00 00 05 00}Hairy horns{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 00 00}Frankly, I can't think of\nanything more vile...",
+   "et": ""
+  },
+  {
+   "id": 158,
+   "en": "{07 00 00}Heed my words, {04 00 00}!{01 00 00 05 00}\nBathe often!\n\n{07 15 00}Wash yourself thoroughly!{01 00 00 05 00}\nAnd shampoo regularly!\n\n{07 16 00}Allow yourself to become\nfilthy, and {ff 00 00 07}fleas {ff 00 00 00}move in!{01 01 00}\n{07 07 00}Blech!{01 00 00 05 00} The very IDEA{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 00 00}Now I feel itchy.",
+   "et": ""
+  },
+  {
+   "id": 159,
+   "en": "{07 00 00}I'm sure you've had this\nhappen: your {ff 00 00 07}pill bug {ff 00 00 00}won't\nroll up for some reason...\n{07 0b 00}...and it's only later you\ndiscover it's a wood louse!{01 01 00}\n{07 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 16 00}No? {01 00 00 05 00}Never happen to you?{01 00 00 05 00}\n{07 00 00}Very well, I'm mad.",
+   "et": ""
+  },
+  {
+   "id": 160,
+   "en": "{07 00 00}I don't begrudge {ff 00 00 07}mosquitoes{ff 00 00 00}\nthe blood, for all creatures\nmust survive, eh wot?\n{07 0b 00}But why, oh WHY must their\nlittle nibbles itch so much?\n\n{07 16 00}They're maddening!\n\n\n{07 00 00}Hoo{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} Then again, who am I\nto question the infinite web\nof nature, wot wot?",
+   "et": ""
+  },
+  {
+   "id": 161,
+   "en": "{07 00 00}My largest complaint about\nthese vile bugs are their\nfilthy little feet, wot!\n{07 15 00}Leaping about on my dinner!{01 00 00 05 00}\nFOULNESS!{01 00 00 05 00} UTTER FOULNESS!{01 01 00}\n{07 07 00}Blech!{01 00 00 05 00} The mere thought{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 00 00}Couldn't they at least\nscrub those fly toes?",
+   "et": ""
+  },
+  {
+   "id": 163,
+   "en": "{07 16 00}I can think of nothing more\nrepugnant than becoming\nentangled in a {ff 00 00 07}spider{ff 00 00 00}'s web!\n{07 00 00}After thrashing about, you\nthink you got it all off,\nbut no, indeed!\n{07 16 00}A little tickle on your\nneck and you thrash anew!{01 01 00}\n{07 07 00}Blech!{01 00 00 05 00} Such foulness{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 00 00}Hoo.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} But I digress...",
+   "et": ""
+  },
+  {
+   "id": 164,
+   "en": "{07 04 00}Hoo my!{01 00 00 05 00} It's simply amazing\nthat you were able to catch\none of these monsters...\n{07 16 00}Not only is it poisonous,\nit's as hairy as can be...{01 01 00}\n{07 07 00}Blech!{01 00 00 05 00} Hairy and toxic{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 00 00}Is there any combination\nmore vile?",
+   "et": ""
+  },
+  {
+   "id": 165,
+   "en": "{07 00 00}I've heard that a {ff 00 00 07}scorpion\n{ff 00 00 00}can be affected by its own\npoison, you know.\n{07 16 00}If so, why carry around\nsuch dangerous material?{01 01 00}\n{07 07 00}Blech!{01 00 00 05 00} Foolish wretch{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 00 00}If I walked around with a\npiano above my head, I'd\nexpect to be squashed, wot!",
+   "et": ""
+  },
+  {
+   "id": 170,
+   "en": "{07 00 00}I must say,{01 00 00 0a 00} I've never\npersonally considered eating\none of these before.\n{07 16 00}It's so very{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}goldfishy...{01 00 00 0a 00}\nNo, not particularly tasty-\nlooking, to be sure{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.",
+   "et": ""
+  },
+  {
+   "id": 171,
+   "en": "{07 00 00}You know, I'm sure these\nare technically edible...\n\n{07 0e 00}Even so, I don't think there\nare too many people who\nactually DO eat them, wot?\n{07 00 00}I suppose if one were to\nbatter them with some\ndelectable spices{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.",
+   "et": ""
+  },
+  {
+   "id": 172,
+   "en": "{07 00 00}When I hear {ff 00 00 07}crucian carp{ff 00 00 00},{01 00 00 0a 00}\nI think to myself...{01 01 00} {07 14 00}Taco!{01 00 00 0a 00}\nIndeed, FISH taco, wot wot!\n{07 16 00}I suppose this might be\nan odd choice of fish for\nsuch a dish, but{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n{07 00 00}I say, by any chance, would\nyou like to try it out and\nget back to me?",
+   "et": ""
+  },
+  {
+   "id": 173,
+   "en": "{07 00 00}I can't say I've ever seen\nthis on a menu{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} To be\nhonest, I can see why!\n{07 16 00}It's rather bony{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}and one\nmust consider the stench{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\nNo, none too appetizing.",
+   "et": ""
+  },
+  {
+   "id": 174,
+   "en": "{07 00 00}This might look like a carp,{01 00 00 0a 00}\nbut I heard it doesn't\ntaste like one, eh wot?\nIndeed, I should think this\nfish is more suited to\ncatching than to eating.",
+   "et": ""
+  },
+  {
+   "id": 175,
+   "en": "{07 00 00}I do believe many people\nenjoy this fish raw at\nsushi restaurants...\n{07 14 00}I understand it makes a\nrather tasty addition to\nsoups and chowders, wot!",
+   "et": ""
+  },
+  {
+   "id": 176,
+   "en": "{07 14 00}Hoo my! This addition should\nimprove attendance{01 00 00 0a 00} at the\n{ff 00 00 08}museum{ff 00 00 00} most dramatically!\n{07 00 00}I suspect that with the\naddition of this marvelous\n{ff 00 00 07}koi{ff 00 00 00} to the collection,\nfolks from all around\n{04 03 00} will be flocking\nto see it, wot wot!",
+   "et": ""
+  },
+  {
+   "id": 177,
+   "en": "{07 00 00}Hoo, in my youth,{01 00 00 0a 00} I once\nhad a {ff 00 00 07}goldfish{ff 00 00 00} {01 00 00 05 00}in my room.{01 00 00 05 00}\nHis name was Sir Blithers.\n{ff 00 00 07}{07 14 00}Goldfish{ff 00 00 00} are actually quite\nsociable creatures, eh wot?\n\n{07 16 00}At least they are when\nthey're being fed, that is{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n{07 14 00}Who can resist them?",
+   "et": ""
+  },
+  {
+   "id": 178,
+   "en": "{07 00 00}You should know, the eyes\non the {ff 00 00 07}popeyed goldfish{ff 00 00 00}{01 00 00 0a 00} can\noccasionally{07 02 00} pop out!\n{07 14 00}There's nothing wrong, of\ncourse, and if you let the\nfish be, they go back in.\n{07 00 00}Even so, the first time I\nwitnessed it, MY eyes nearly\npopped out, wot wot!",
+   "et": ""
+  },
+  {
+   "id": 179,
+   "en": "{07 00 00}I heard that {ff 00 00 07}killifish{ff 00 00 00}\nrecipes are common all\naround the world.\nSadly, I've seen nary a one,\nnot that I've searched...\n\nI haven't a clue as to their\ntaste, even.{01 00 00 05 00} It IS a fish,\nthough, I can say that!",
+   "et": ""
+  },
+  {
+   "id": 180,
+   "en": "{07 00 00}You'll find these little\nfellows in many pots across\nthe southland, I imagine.\nI've personally never\nsampled one.{01 00 00 05 00} They look\nrather{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}insect-ish.{01 00 00 05 00} Blech.",
+   "et": ""
+  },
+  {
+   "id": 181,
+   "en": "{07 00 00}\"This forgotten pond,{01 00 00 05 00}\nobserved by a lonely {ff 00 00 07}frog{ff 00 00 00},\ndrains slow, as my youth.\"\nThat was a haiku, eh wot?{01 00 00 05 00}\nRather an incomprehensible\none, but one nonetheless.\nMany find {ff 00 00 07}frogs{ff 00 00 00} repulsive,\nbut they're so prevalent,\neven poets sing of them!",
+   "et": ""
+  },
+  {
+   "id": 182,
+   "en": "{07 00 00}A friend of mine claims\nthat{ff 00 00 07} freshwater goby{ff 00 00 00}{01 00 00 0a 00} \ntastes fantastic on pizza.\nWhat a loon, eh wot?",
+   "et": ""
+  },
+  {
+   "id": 183,
+   "en": "{07 14 00}Hoo! {01 00 00 05 00}You gave me a start!{01 00 00 0a 00}\nI thought you said {01 00 00 0a 00}\"roach\"!\n\n{07 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 03 00}Hoo hoo!{01 00 00 0a 00} What a relief!\n\n\n{07 00 00}When I hear {ff 00 00 07}loach{ff 00 00 00}, I think\nof a friend of mine who\nmakes smoothies of them.\n{07 14 00}It sounds repellant, I know,\nand to be honest, it is.{01 00 00 05 00}\nHoo, I say! {01 00 00 05 00}The stench!",
+   "et": ""
+  },
+  {
+   "id": 184,
+   "en": "{07 00 00}I've heard some claim that\nthese fish taste a bit like\neel, you know.\nIf you want to sample it,\n{04 00 00}, I'd recommend\npanfrying it.\nIndeed, I believe you could\ndeep-fry a rock, and I'd\nenjoy it, wot!",
+   "et": ""
+  },
+  {
+   "id": 185,
+   "en": "{07 00 00}Grilled {ff 00 00 07}eel {ff 00 00 00}is supposedly\nquite succulent, but I have\na bit of advice...\nDo NOT bring live eels to\na cookout. {01 00 00 05 00}Causes a bit of\na scene, don't you know.",
+   "et": ""
+  },
+  {
+   "id": 186,
+   "en": "{07 00 00}I firmly believe the best\nway to prepare a fish is\nthe way the locals do it...\nBased on that philosophy,{01 00 00 05 00}\nchili-pepper flakes are a\nmust with {ff 00 00 07}giant snakehead{ff 00 00 00}!\n{07 14 00}And if you notice one\nshaking chili flakes on YOU,\nmight I suggest fleeing?",
+   "et": ""
+  },
+  {
+   "id": 187,
+   "en": "{ff 00 00 07}{07 00 00}Bluegills {ff 00 00 00}are a type of \nwhitefish and they are most\ndefinitely edible, wot!\n{07 0e 00}Even so, I would avoid the\nskinny ones. {01 00 00 05 00}They look\nrather full of bones...",
+   "et": ""
+  },
+  {
+   "id": 188,
+   "en": "{07 00 00}Most of the perch family\nhave perched on a dinner\ntable at some time.\nIndeed, these fish are\navailable for perch-ase\nall over the world, wot!\nTherefore, I imagine the\n{ff 00 00 07}yellow perch{ff 00 00 00} would also be\nedible, don't you think?",
+   "et": ""
+  },
+  {
+   "id": 189,
+   "en": "{07 00 00}In sport-fishing, the {ff 00 00 07}black\nbass{ff 00 00 00} is very often the\nmain quarry...{01 00 00 0a 00}\n{07 14 00}It's apparently a delicious\nfish, so I'd imagine some\nsport-cooking follows!\n{07 00 00}Indeed, I suppose they would\ncall that a catch-and-eat\nprogram! {01 00 00 05 00}Hoo hoo!",
+   "et": ""
+  },
+  {
+   "id": 190,
+   "en": "{07 00 00}Frying up a freshly caught\nsmelt and{01 00 00 05 00} devouring it!{01 00 00 0a 00}\n{07 14 00}Sounds scrumptious, eh wot?\n{07 00 00}Indeed, because {ff 00 00 07}pond smelt\n{ff 00 00 00}are lean, {01 00 00 05 00}they are well\nsuited for cooking with oil.",
+   "et": ""
+  },
+  {
+   "id": 191,
+   "en": "{07 00 00}This fish is hardly sweet,\ncontrary to its name.{01 00 00 05 00}\nIt still tastes{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}fishy.\n{07 14 00}Indeed, if you expect some\nsort of lollipop in fish-\nform, you will be horrified!",
+   "et": ""
+  },
+  {
+   "id": 192,
+   "en": "{ff 00 00 07}{07 00 00}Cherry salmon{ff 00 00 00} are known\nfor their flavor and\nbeauty, eh wot?\nIndeed, that is likely why\nthey are called{01 00 00 0a 00} the queens\nof mountain-stream fishing.\n{07 03 00}Hoo hoo! {01 00 00 05 00}Of course, the\nmales of the species might\nobject to that moniker!",
+   "et": ""
+  },
+  {
+   "id": 193,
+   "en": "{07 00 00}There are many ways to\nprepare {ff 00 00 07}char{ff 00 00 00}, or so I've\nheard from gourmands.\n{07 10 00}Sadly, it is NOT deemed\nacceptable to char them,\nrendering all puns moot.\n{07 00 00}I suspect any and all puns\nmight've been substandard,\nso perhaps that's best.",
+   "et": ""
+  },
+  {
+   "id": 194,
+   "en": "{ff 00 00 07}{07 00 00}Rainbow trout{ff 00 00 00} is best if\ncooked straightaway out of\nthe water, eh wot?\nThere are many recipes for\nthis marvelous fish, too\nmany to count!\nSauteed trout almondine{01 00 00 0a 00} is\na traditional preparation,\nfor example.\n{07 13 00}You can just tell by the\nname of that dish that it's\npricey, can't you?",
+   "et": ""
+  },
+  {
+   "id": 195,
+   "en": "{07 00 00}I've heard it said that this\nfish is actually very high\nin fat content...\n{07 0e 00}If such words are true,\nthen whatever possessed\nsomeone to name it that?\nIf you were to call a portly\nfellow \"stringy,\" well{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n{07 07 00}Madness would ensue!",
+   "et": ""
+  },
+  {
+   "id": 196,
+   "en": "{ff 00 00 07}{07 00 00}Salmon{ff 00 00 00}{01 00 00 0a 00} grilled over hot\ncoals{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} Delicious.\n\n{07 14 00}I say, grilling and eating\noutdoors simply cannot be\nbeat, eh wot?",
+   "et": ""
+  },
+  {
+   "id": 197,
+   "en": "{07 00 00}The {ff 00 00 07}king salmon{ff 00 00 00} will swim\nupstream to spawn, as most\npeople know...\nWhat many DON'T know,\nhowever, is that it eats\nnothing while en route!\nAs such, when {ff 00 00 07}king salmon{ff 00 00 00}{01 00 00 0a 00}\nbegin their journey at the\nmouth of a river... \n{07 04 00}They're all fatties!\n\n\n{07 14 00}Think upon that the next\ntime you eat an entire cake\nbefore working out, wot!",
+   "et": ""
+  },
+  {
+   "id": 198,
+   "en": "{07 00 00}Many don't know that {01 00 00 05 00}the\n{ff 00 00 07}guppies {ff 00 00 00}with ornate tails\nare actually the males!\nIndeed, the females{01 00 00 05 00} are\nquite dull{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 14 00}much like\n{ff 00 00 06}Celeste{ff 00 00 00}, always stargazing.\n{07 0e 00}I really wish she would pay\nattention to something else\non occasion{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00}\n{07 04 00}Ah! {01 00 00 05 00}I'm terribly sorry!{01 01 00}\n{07 16 00}That wasn't what we were\ntalking about, was it?",
+   "et": ""
+  },
+  {
+   "id": 199,
+   "en": "{07 14 00}The {ff 00 00 07}angelfish{ff 00 00 00} is called the\nqueen of tropical fish, and\nquite rightly so, eh wot!\nIndeed, this one should\nbring {01 00 00 0a 00}a ray of sunshine to\nthis dusty old {ff 00 00 08}museum{ff 00 00 00}!\n{07 00 00}However serene these fish\nmay look, they're actually\nrather feisty...\n{07 0e 00}Every rose has its thorn,\nisn't that what they say?",
+   "et": ""
+  },
+  {
+   "id": 200,
+   "en": "{ff 00 00 07}{07 00 00}Piranha{ff 00 00 00} are rather bony.{01 00 00 0a 00}\n{07 16 00}I can't say I've heard good\nthings about their flavor.{01 00 00 05 00}\n{07 00 00}Some restaurants do serve\nthem, of course, but as a\ntourist attraction, eh wot?\nThese things probably sit\nabout discussing OUR flavor,\nyou know.",
+   "et": ""
+  },
+  {
+   "id": 201,
+   "en": "{07 0e 00}I've never heard of a dish\nmade with{ff 00 00 07} arowana{ff 00 00 00}...{01 00 00 0a 00}\n\n{07 00 00}However, I find it hard to\nbelieve they're inedible.{01 00 00 0a 00}\nPeople eat ANYTHING.\nStill, they're probably more\nprofitable to sell for\nviewing than for eating.",
+   "et": ""
+  },
+  {
+   "id": 202,
+   "en": "{07 0d 00}Hoo my! {01 00 00 05 00}Congratulations\nare in order!{01 00 00 0a 00} You've finally\ncaught one, eh wot?\n{07 15 00}Did the mighty {ff 00 00 07}dorado{ff 00 00 00}{01 00 00 0a 00} put\nup a good scrum?\n\n{07 14 00}You've passed the test!{01 00 00 05 00}\nYou're initiated into the\nsecret club of fisher folk!",
+   "et": ""
+  },
+  {
+   "id": 203,
+   "en": "{07 00 00}{0b 03 00}{04 00 00},{01 00 00 0a 00} if you plan to\nraise a {ff 00 00 07}gar{ff 00 00 00} at home, I have\nsome crucial advice.\n{07 15 00}You must be very careful\nnot to overfeed it!\n\n{07 3b 00}These brutes{01 00 00 0a 00} grow much\nfaster than {01 00 00 05 00}you might\nsuspect, eh wot?\n{07 16 00}Before you know it,{01 00 00 05 00} it could\nbe bigger than you can\nhandle! {01 00 00 05 00}The horror!",
+   "et": ""
+  },
+  {
+   "id": 204,
+   "en": "{07 00 00}You might think a fish this\nbig{01 00 00 05 00} might not be{01 00 00 05 00} appetizing,\n{07 14 00}but {01 00 00 05 00}it's simply delicious!\n{07 00 00}The {ff 00 00 07}arapaima {ff 00 00 00}used to be\nabundant, but {01 00 00 0a 00}overfishing\nhas sadly made them rare.\n{07 16 00}One has to wonder how many\nspecies must suffer to\nsatiate the world...",
+   "et": ""
+  },
+  {
+   "id": 205,
+   "en": "{07 00 00}The {ff 00 00 07}sea butterfly{ff 00 00 00} is in the\nsame family as snails, as\nyou may or may not know.\n{07 0e 00}You might think it's strange\nto have a snail without a\nshell, eh wot?\n{07 00 00}Indeed, well, slugs are also\nsnails without shells!\n\n{07 16 00}I must admit, being lumped\nin with slugs probably\nangers the {ff 00 00 07}sea butterfly{ff 00 00 00}.",
+   "et": ""
+  },
+  {
+   "id": 206,
+   "en": "{07 00 00}You can actually find these\nin restaurants, though\nwhich ones I do not know.\n{ff 00 00 07}Jellyfish{ff 00 00 00} can grow to be\n{07 04 00}almost three feet long,\ndid you know that?!\n{07 14 00}That crunchy texture...{01 00 00 0a 00}\nIt takes rather an open\nmind to enjoy, eh wot?",
+   "et": ""
+  },
+  {
+   "id": 207,
+   "en": "{07 0e 00}I can't think of a soul\nwho claims to have eaten\na meal of {ff 00 00 07}seahorse{ff 00 00 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 00 00}However, it has been used\nfor centuries {01 00 00 05 00}as an herbal\nsupplement, that I know.\nA supplement for what, I\nhaven't the foggiest.",
+   "et": ""
+  },
+  {
+   "id": 208,
+   "en": "{07 00 00}The {ff 00 00 07}clownfish{ff 00 00 00} usually finds\nsolace within the fronds\nof an anemone, wot?\n{07 14 00}These fish are fairly\nhearty and easy to breed,\nso they're quite common.\n{07 00 00}If you're going to raise one\nas a pet,{01 00 00 0a 00} I recommend that\nyou buy an anemone with it!",
+   "et": ""
+  },
+  {
+   "id": 209,
+   "en": "{07 00 00}I won't tell you it's \nutterly impossible to eat a\n{ff 00 00 07}zebra turkeyfish{ff 00 00 00}, but...\n{07 0e 00}I really wouldn't recommend\nit, to be honest.\n\n{07 00 00}If you insist, though, you\nknow my philosophy: {01 00 00 05 00}batter,\nbatter, and more batter!",
+   "et": ""
+  },
+  {
+   "id": 210,
+   "en": "{ff 00 00 07}{07 00 00}Puffer fish{ff 00 00 00} are tastier\nthan they look, you know!{01 00 00 05 00}\nNot at all rubbery!\n{07 14 00}Just imagine if you could\ninflate them, THEN eat\nthem!{01 00 00 05 00} {07 04 00}POP!{01 00 00 05 00} Delicious!\n{07 14 00}That would be a hit with\nthe kids, eh wot? ",
+   "et": ""
+  },
+  {
+   "id": 211,
+   "en": "{07 00 00}Tell me, {04 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n\n\n{07 0b 00}How do you like to eat your{01 00 00 0a 00}\nfried{ff 00 00 07} horse mackerel{ff 00 00 00}?{01 00 00 05 00} With\ntartar sauce?{01 00 00 0a 00} Vinegar?\n{07 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 04 00}Ah! {01 00 00 05 00}Cocktail sauce?!{01 00 00 0f 00}\n{07 14 00}Hoo, I see. {01 00 00 05 00}Fascinating.",
+   "et": ""
+  },
+  {
+   "id": 212,
+   "en": "{07 14 00}{0b 03 00}{04 00 00},{01 00 00 05 00} the very fact\nthat you caught this tells\nme you are{01 00 00 05 00} quite a fisher!\n{07 0b 00}Oh, a recipe for {ff 00 00 07}barred\nknifejaw{ff 00 00 00}?{01 00 00 0a 00} {07 00 00}I'd recommend{01 00 00 0a 00}\nputting it in a broth.\n{07 14 00}Grilling makes the flesh\nrather tough, eh wot?",
+   "et": ""
+  },
+  {
+   "id": 213,
+   "en": "{ff 00 00 07}{07 00 00}{ff 00 00 00}The {ff 00 00 07}sea bass{ff 00 00 00} is a fleshy\nwhite fish with a rather\ndelicate flavor, eh wot?\nIt's tasty prepared any \nwhich way, but{01 00 00 05 00} I recommend\na non-traditional dish...\n{07 14 00}Sashimi! {01 00 00 05 00}Indeed, consume\nthe fellow raw! {01 00 00 05 00}You shan't\nbe disappointed!",
+   "et": ""
+  },
+  {
+   "id": 214,
+   "en": "{07 00 00}Relatively few places serve\n{ff 00 00 07}red snapper{ff 00 00 00}, but...{01 00 00 0a 00}\n\n{07 0e 00}...I actually understand why.{01 00 00 05 00}\nIt's rather dry, and not at\nall flavorful, eh wot?",
+   "et": ""
+  },
+  {
+   "id": 215,
+   "en": "{ff 00 00 07}{07 00 00}Dabs {ff 00 00 00}and flounders might\nlook alike,{01 00 00 0a 00} but the way to\neat them differs, eh wot?\n{ff 00 00 07}Dab{ff 00 00 00} is better simmered in\nsauce or sauteed,{01 00 00 0a 00} while\nflounder is better raw.\n{07 0e 00}It goes to show,{01 00 00 0a 00} the palate\nis more discriminating than\nthe eye.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}",
+   "et": ""
+  },
+  {
+   "id": 216,
+   "en": "{07 00 00}For some time, I was\nconvinced that {ff 00 00 07}olive\nflounder{ff 00 00 00} tasted of olives.\nIt turned out that it was\na rather elaborate joke\nplayed upon me...\nI should have known {07 15 00}there\nare no such things as\nflounder olives, either!",
+   "et": ""
+  },
+  {
+   "id": 217,
+   "en": "{07 00 00}Octopi and {ff 00 00 07}squid{ff 00 00 00} both have\nink, and I've seen squid ink\nin recipes quite often...\n{07 0e 00}Strangely, however, I've\nnever heard of a dish that\nuses octopus ink!\n{07 00 00}I suppose it's partially due\nto the fact that octopi\nproduce very little ink{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\nWhat ink they DO make is\nwatery and ill-suited for\ncooking, as well...{01 00 00 05 00}\n{07 14 00}That said, I've heard that\nthe flavor is not at all\nrepugnant, eh wot?\nPerhaps an octopus-ink\npasta wouldn't be bad...",
+   "et": ""
+  },
+  {
+   "id": 218,
+   "en": "{07 00 00}I think {ff 00 00 07}octopus{ff 00 00 00}, and I think\nfried octo-bits, eh wot?\n\nThat said, I have to say my\nall-time favorite has to be\nocto-potpie. {01 00 00 05 00}Hoo hoo!",
+   "et": ""
+  },
+  {
+   "id": 219,
+   "en": "{07 00 00}This is rather graphic, but\n{ff 00 00 07}football fish{ff 00 00 00}{01 00 00 0a 00} males can\nget attached to females...\n{07 3b 00}Literally attached!{01 00 00 05 00} And\nthen the males often get\nabsorbed into the females!\n{07 00 00}I heard this, and I thought{01 00 00 0a 00}\nhow lucky I was to have\nbeen born an owl, eh wot?",
+   "et": ""
+  },
+  {
+   "id": 220,
+   "en": "{07 00 00}If a {ff 00 00 07}tuna{ff 00 00 00} stops swimming,\nit will stop breathing and\nexpire, eh wot?\nAs you can imagine, {01 00 00 0a 00}this\nmeans that it must swim\nwhen it sleeps as well.\n{07 14 00}I think every day about how\nmarvelous life would be if I\ncould work in my sleep!",
+   "et": ""
+  },
+  {
+   "id": 221,
+   "en": "{07 00 00}To be honest, this is the\nfirst time that I've seen a{01 00 00 0a 00}\nproper{ff 00 00 07} blue marlin{ff 00 00 00}, wot wot!\n{07 15 00}As you can see, {01 00 00 05 00}its bill is\nquite dangerous.{01 00 00 0a 00} Every year\npeople are injured by them.\n{07 00 00}Still, how can one complain?\nIf you were to drag me out\nof the museum one night{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n{07 15 00}I assure you, I would give\nyou a pecking you'd not\nsoon forget, hoo!",
+   "et": ""
+  },
+  {
+   "id": 222,
+   "en": "{07 00 00}I understand that {ff 00 00 07}ocean\nsunfish{ff 00 00 00} are edible, but...\n\nI've also heard that unless\nit's incredibly fresh, it\ntastes rather foul.\nAs such, it's usually only\neaten where it's caught!",
+   "et": ""
+  },
+  {
+   "id": 223,
+   "en": "{07 00 00}The fin of the {ff 00 00 07}hammerhead\nshark{ff 00 00 00}{01 00 00 0a 00} is used in some\nforeign cooking, eh wot?\n{07 14 00}Indeed, it is used in a\ndelightful delicacy called\nshark's-fin soup!\n{07 00 00}This dish is usually{01 00 00 0a 00} quite \npricey because of all that\ngoes into its preparation.\nWhy, it takes three days\nmerely to reconstitute\nthe dried shark's fin!\n{07 0e 00}After THAT,{01 00 00 05 00} the chef must\npick out the skin and\ncartilage with tweezers!\nOnly after all that can it\nbe used as an ingredient.{01 00 00 0a 00}\n{07 16 00}THAT is a just cost!",
+   "et": ""
+  },
+  {
+   "id": 224,
+   "en": "{ff 00 00 07}{07 00 00}Shark {ff 00 00 00}flesh is often used\nin processed seafood\nproducts, eh wot?{01 00 00 05 00}\n{07 00 00}As such, you might wonder\nwhy{01 00 00 0a 00} it isn't grilled like\nother fish, am I correct?\n{07 16 00}Well, {ff 00 00 07}{01 00 00 05 00}shark{ff 00 00 00} tends to reek\nof ammonia, you know. {01 00 00 05 00}And\nthat is NOT good.",
+   "et": ""
+  },
+  {
+   "id": 225,
+   "en": "{07 00 00}It was once thought that\nthe {ff 00 00 07}coelacanth{ff 00 00 00}{01 00 00 05 00} had gone\nextinct, eh wot?\nIndeed, right up until a\nscholar{01 00 00 0a 00} saw them lined up\nin a market. {01 00 00 05 00}Hoo hoo!\nThat would clearly suggest{01 00 00 05 00}\n{07 04 00}that they're edible, don't\nyou agree?\n{07 16 00}Though I must admit, they\ndon't look like they would\ntaste very good{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.",
+   "et": ""
+  },
+  {
+   "id": 229,
+   "en": "{07 12 00}{01 00 00 0a 00}Zzzzzzz{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.hrmmmmmmmmmm{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 04 00}{01 02 00}ZWAAAAAAAAAAAAAAWK!{01 03 00}{01 00 00 14 00}\nI'm terribly sorry, wot!\n{07 14 00}{01 00 00 0a 00}I can't help but be sleepy\nduring the day, I'm afraid.{01 00 00 05 00}\n'Tis the way of the owl!\n{07 00 00}Hoo now, might there be\nsomething I can help with?{02 04 00 e7 00}\nDelivery!\nNope, nothing.",
+   "et": ""
+  },
+  {
+   "id": 230,
+   "en": "{07 0b 00}Hoo my!{01 00 00 05 00} Is there something\nwith which I can assist you?{02 04 00 e7 00}\nDelivery!\nNope.",
+   "et": ""
+  },
+  {
+   "id": 231,
+   "en": "{07 04 00}Hoo!{01 00 00 05 00} Indeed, hootie hoo!{01 00 00 14 00}\n{07 14 00}I shall hazard a guess{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0f 00}\nFrom {ff 00 00 06}Saharah{ff 00 00 00}, eh wot?\n{07 00 00}I've been atwitter with\nanticipation, and {01 00 00 05 00}finally,\nit's here! {01 00 00 05 00}Woo hoo, I say!\nPlease, do tell {ff 00 00 06}Saharah {ff 00 00 00}that\nI send my most sincere\nthank-yous, {01 00 00 05 00}would you?",
+   "et": ""
+  },
+  {
+   "id": 232,
+   "en": "{07 00 00}Hoo, I see{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 14 00} Well, {01 00 00 05 00}that's\nunfortunate,{01 00 00 05 00} indeed.",
+   "et": ""
+  },
+  {
+   "id": 233,
+   "en": "{07 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}Hoo then, {01 00 00 05 00}might there be\n{07 0b 00}something with which I can{01 00 00 05 00}\nassist you?{02 06 00 00 00 0d 00}\nDonation!\nCheck a fossil!\nWhere am I?\nNah.",
+   "et": ""
+  },
+  {
+   "id": 234,
+   "en": "{07 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}So, tell me, is there\n{07 0b 00}something with which I can{01 00 00 05 00}\nassist you?{02 07 00 00 00 3f 0d 00}\nDonation!\nCheck a fossil!\nExhibits!\nWhere am I?\nNope.",
+   "et": ""
+  }
+ ]
+}

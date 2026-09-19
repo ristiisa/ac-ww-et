@@ -1,0 +1,45 @@
+{
+ "file": "script/ENG/message/ha/ai/shop1_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 14 00}{0b 03 00}{01 06 00}Yo, yo, yo{01 07 00}!{01 00 00 0a 00}\nYou going shopping too?\n\n{07 0d 00}Me, I dig looking at the\nfurniture in {ff 00 00 06}Tom Nook{ff 00 00 00}'s\nshop, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "Oh hey, {01 00 00 05 00}{04 1f 00}!{01 00 00 0a 00}\n{07 14 00}Don'tcha just LOVE\nfurniture?\n{07 0d 00}Just looking at furniture\ngets me all pumped up,\n{01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "Yo, yo, yo, wassup!{01 01 00} Are\nyou collecting furniture\ntoo, {04 1f 00}? {01 00 00 05 00}\n{07 00 00}Well then...{01 00 00 05 00}that makes us\nrivals!{01 00 00 0a 00} It's officially ON!{01 00 00 05 00}\n{07 15 00}Prepare to get{01 00 00 05 00} served!",
+   "et": ""
+  },
+  {
+   "id": 3,
+   "en": "Oh, man, I like that!{01 00 00 0a 00}\nOoh, and that's nice too!\n\n{07 06 00}I just can't choose!{01 00 00 0a 00}\nHelp, {ff 00 00 05}{04 1f 00}{ff 00 00 00}!",
+   "et": ""
+  },
+  {
+   "id": 4,
+   "en": "{07 14 00}Hey, yo! {04 1f 00}!{01 00 00 0a 00}\n{07 00 00}I don't mind coming to\n{ff 00 00 06}Tom Nook{ff 00 00 00}'s shop but...\n{07 09 00}Man, I do NOT like it when\nhe doesn't have what I'm\nlooking for{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 06 00}Shoot!{01 00 00 14 00} I gotta start all\nover again, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 5,
+   "en": "{07 02 00}I{01 00 00 05 00} can't believe it!{01 00 00 14 00}\n{07 00 00}My perfectly toned, muscle-\nbound physique...\n{07 06 00}It's betrayed me! {01 00 00 05 00}Nothing\nat{ff 00 00 06} Tom Nook{ff 00 00 00}'s shop\nfits me, {01 00 00 05 00}{04 02 00}!\n{07 16 00}I must've gotten my stores\nconfused. How embarrassing,\n{01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 6,
+   "en": "{07 14 00}I'm gonna skip the workout\ntoday and go shopping!\n\n{07 0d 00}The occasional shopping\nexpedition is good for\nthe pecs, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 7,
+   "en": "I'm not looking for anything\nin particular, but...\n\nWindow-shop long enough,{07 16 00}\nand you ALWAYS find stuff\nyou didn't know you wanted!\n{07 06 00}And that's exactly what\n{ff 00 00 06}Tom Nook{ff 00 00 00} wants,\n{01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  }
+ ]
+}

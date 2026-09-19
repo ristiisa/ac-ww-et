@@ -1,0 +1,50 @@
+{
+ "file": "script/ENG/message/fu/ev/fmarket2_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 14 00}Oh, hey, {01 00 00 05 00}{04 1f 00},{01 00 00 0f 00} glad\nyou could stop by!\nWelcome to my house!\nNo hurry, no hurry! Just\ntake your time and look\naround, {01 00 00 05 00}{04 02 00}.",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 04 00}Oh! {01 00 00 05 00}A customer! Welcome to\nmy house, {01 00 00 05 00}{04 1f 00}!\nPlease, have a look around!",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 14 00}Welcome, welcome, welcome!\n\n\nWelcome to {04 01 00}'s{ff 00 00 03}\nFlea Market {ff 00 00 00}showroom floor,\n{01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 3,
+   "en": "{07 14 00}Thank you for your\nbusiness, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 4,
+   "en": "{07 14 00}Come back anytime,\n{01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 5,
+   "en": "{07 14 00}Come again!",
+   "et": ""
+  },
+  {
+   "id": 6,
+   "en": "{07 00 00}So what do you think? Do\nyou like anything I'm\nselling, {01 00 00 05 00}{04 02 00}?\n{07 14 00}If I were you, I'd buy up\nstuff I wanted now.\nIt might not be here later.",
+   "et": ""
+  },
+  {
+   "id": 7,
+   "en": "{07 04 00}Oh, {01 00 00 05 00}what's the matter, \n{04 1f 00}?\n\n{07 14 00}Don't be shy! Just pick up\nanything you want. It's all\nfor sale, {01 00 00 05 00}{04 02 00}.",
+   "et": ""
+  },
+  {
+   "id": 8,
+   "en": "{07 00 00}I might not have great\nfurniture, {01 00 00 0f 00}{07 14 00}but I've got\ngreat deals!",
+   "et": ""
+  }
+ ]
+}

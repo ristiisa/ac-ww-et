@@ -1,0 +1,35 @@
+{
+ "file": "script/ENG/message/ge/tsu/cl_hint_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 04 00}{0b 03 00}{04 1f 00}, I just found\nout something TOTALLY,\nTOTALLY sweet, {01 00 00 05 00}{01 00 00 05 00}{04 02 00}!\n{07 14 00}Custom designs aren't just\nfor clothes! {01 00 00 05 00}You can use\n'em on hats, too!\n{07 0b 00}I wonder if there's anything\nelse we can use them for,\n{01 00 00 05 00}{04 02 00}?",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 00 00}So, {04 1f 00}, {07 0b 00}are you {01 00 00 05 00}a\nfashionista like me?\n\n{07 14 00}I can't get enough clothes!{01 00 00 05 00}\nI just want to hoard them\nall for myself!\n{07 00 00}{ff 00 00 06}Sable {ff 00 00 00}and {ff 00 00 06}Mabel{ff 00 00 00} have some\nsweet stuff, but you've got\nto see {ff 00 00 06}Gracie{ff 00 00 00}'s...\n.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 04 00}Oh, no!{01 00 00 0f 00} {07 14 00}I can't say any\nmore! {01 00 00 05 00}It's TOP SECRET,\n{01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 14 00}Heya!{01 00 00 0a 00} Do you think these\nclothes {07 0b 00}look hot on me?{05 05 00 05 03 03 04 03 04 05 05}\nVery stylin'!\nNot even close.",
+   "et": ""
+  },
+  {
+   "id": 3,
+   "en": "{07 06 00}What?!{01 00 00 05 00} So you're saying I'm\njust one big fashion\nfaux pas?\n{07 00 00}Then you've GOTTA help me\nout and mail me something\nstylish!\n{07 14 00}I'll give you a prize!{01 01 00}\n{07 06 00}I mean{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}as soon as I get\nsome money, {01 00 00 05 00}{04 02 00}.",
+   "et": ""
+  },
+  {
+   "id": 4,
+   "en": "{07 16 00}That's not clear at all,\n{01 00 00 05 00}{04 02 00}! You know, {07 06 00}{01 00 00 05 00}\nI think I look great.",
+   "et": ""
+  },
+  {
+   "id": 5,
+   "en": "{07 04 00}Really?!{01 00 00 0f 00} {07 0a 00}I knew you'd\nlike my style, {01 00 00 05 00}{04 02 00}!\n\n{07 14 00}You and me are soooo the\n\"it\" personalities in this\nbackwater town!{03 01 00 01}",
+   "et": ""
+  }
+ ]
+}

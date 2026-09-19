@@ -1,0 +1,100 @@
+{
+ "file": "script/ENG/message/ta/tsu/no_act_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{06 09 00 08 09 0a}",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 15 00}Tee hee,{01 00 00 0a 00} the most important\nthing to keep in mind when\nwalking is good posture!\n{07 00 00}Hey, {01 00 00 05 00}why don't you give it a\ntry! Strut around like\nyou're the cat's meow!\n{06 03 00 0b 0c}",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{01 00 00 0a 00}{07 1b 00}{01 00 00 05 00}It's just not like me to buy\nstuff because it's there, or\nbecause everyone else is.\n{07 14 00}I don't do things because\neveryone else is doing it.{01 00 00 0a 00}\nI dance to my own beat!",
+   "et": ""
+  },
+  {
+   "id": 3,
+   "en": "{07 1c 00}{01 00 00 14 00}You can collect stuff or\nsave your money{01 00 00 05 00} if you\nwant to{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 15 00}But never lose sight of{01 00 00 0a 00}\nwhat's really important in\nlife, {01 00 00 05 00}{04 02 00}.",
+   "et": ""
+  },
+  {
+   "id": 4,
+   "en": "{07 14 00}Leisurely strolls like this{01 00 00 0a 00}\nare a nice break from the\nfrantic pace of life.\n{07 19 00}And relaxing is the best{01 00 00 0a 00}\ntreatment for the\ncomplexion, {01 00 00 0a 00}{04 02 00}!{07 00 00}",
+   "et": ""
+  },
+  {
+   "id": 5,
+   "en": "{07 16 00}How come you always look\ndown when you walk,\n{01 00 00 05 00}{04 02 00}?\n{01 00 00 0a 00}{07 1b 00}{01 00 00 05 00}You know, you can change \nthe way you feel by\nchanging the way you walk.\n{07 19 00}So it's especially important\nto keep that chin up when \nyou're blue, {01 00 00 0a 00}{04 02 00}{07 00 00}!",
+   "et": ""
+  },
+  {
+   "id": 6,
+   "en": "{07 15 00}Hey, {01 00 00 05 00}{04 1f 00},{01 00 00 14 00} can you\nguess how I'm feeling at\nthis very moment?{02 01 00 0d 0e 0f}\nHappy!\nSad.\nAngry?",
+   "et": ""
+  },
+  {
+   "id": 7,
+   "en": "{07 14 00}When wandering around town\nwithout a care, I feel like\nroyalty, {01 00 00 05 00}{04 02 00}.\n{01 00 00 0a 00}{07 1b 00}{01 00 00 05 00}Average citizens who have\nto work to make ends meet\n{07 19 00}just wouldn't understand.{07 00 00}",
+   "et": ""
+  },
+  {
+   "id": 8,
+   "en": "{07 14 00}Days like today are {01 00 00 0a 00}just\nmade for taking walks,\n{01 00 00 0a 00}{04 02 00}. {01 00 00 0a 00}It's so pretty!\n{07 19 00}A bit of sun is good for\nyour complexion! {01 00 00 05 00}But too\nmuch will turn you leathery.{07 00 00}",
+   "et": ""
+  },
+  {
+   "id": 9,
+   "en": "{07 14 00}I think walking in the rain\nis soooo romantic. {01 00 00 0a 00}It's\nlike being in a movie!\n{07 13 00}{01 00 00 0a 00}In the next scene, I'd be in\na cafe, sharing some\n{04 13 00}...\nwith a cute boy,\n{01 00 00 0a 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 10,
+   "en": "{07 14 00}Taking walks on snowy days\nis fun, {01 00 00 0a 00}{04 02 00}. You\nshould try it!\n{07 19 00}I like to run around and\nmake footprints in the\nfresh, white snow{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 0a 00}It's fun because I feel like\nI'm doing something bad!\n{01 00 00 05 00}{0b 03 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 11,
+   "en": "{07 14 00}Yup, boys definitely are\nmore attractive when they\nare confident.{01 00 00 0a 00} Now, strut!",
+   "et": ""
+  },
+  {
+   "id": 12,
+   "en": "{07 19 00}{01 00 00 0a 00}You're a lot prettier when\nyou're confident,\n{01 00 00 0a 00}{04 02 00}!{07 00 00}",
+   "et": ""
+  },
+  {
+   "id": 13,
+   "en": "{07 02 00}{01 00 00 0a 00}What part of me right now\nlooks happy?!{02 01 00 10 11 12}\nYour face.\nYour walk.\nNo part.",
+   "et": ""
+  },
+  {
+   "id": 14,
+   "en": "{07 18 00}Really?{01 00 00 0a 00} I looked sad?{01 01 00} {07 16 00}I was\njust taking a nice walk. I\nwasn't sad at all{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00}\n{07 07 00}But I'm totally stressing\nnow! {01 00 00 0a 00}Frowns are the number\none cause of wrinkles!{03 03 00 01}",
+   "et": ""
+  },
+  {
+   "id": 15,
+   "en": "{07 16 00}{01 00 00 0a 00}I'm not angry!{01 01 00} {07 0d 00}{01 00 00 0a 00}I am one of\nthose girls who's always\nhappy! La la! {00 01 00}{01 00 00 0a 00} See?\nUgh.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00} {07 15 00}I can't believe this!{01 00 00 0a 00}\nI shouldn't have to explain\nmyself to you, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 16,
+   "en": "Oh{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} {07 17 00}Seriously,{01 00 00 0a 00} my face\nlooks really happy?{01 00 00 0a 00} Was I\nsmiling, {04 02 00}?\n{07 14 00}Tee hee!{01 00 00 0a 00} Maybe it's 'cause\nI've got a secret, {01 00 00 05 00}or maybe\nit's 'cause I don't{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.",
+   "et": ""
+  },
+  {
+   "id": 17,
+   "en": "{07 04 00}Oh, no!{01 00 00 14 00} Was I, like, bouncing\nor something? {01 00 00 0a 00}{0b 03 00}{04 02 00}!\n\n{07 1c 00}I'll have to work on that.{01 00 00 0a 00}\nBecause, you know, bouncing\nis really, really uncool.",
+   "et": ""
+  },
+  {
+   "id": 18,
+   "en": "{07 18 00}What!?{01 00 00 0a 00} {01 00 00 05 00}{0b 03 00}{04 02 00}!{01 00 00 14 00} Are you\nplanning{01 00 00 05 00} on playing me\nagain?! {01 01 00}{07 06 00}How annoying!",
+   "et": ""
+  }
+ ]
+}

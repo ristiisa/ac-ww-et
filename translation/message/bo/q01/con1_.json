@@ -1,0 +1,20 @@
+{
+ "file": "script/ENG/message/bo/q01/con1_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 1d 00}Eh?{01 00 00 14 00} {0b 03 00}{04 1f 00}, you haven't\ncaught it yet, have you?!?\n\n{0b 03 00}{0b 01 00}{04 1a 00}\nis mine,{01 00 00 0a 00} {04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 16 00}But we usually get along so\nwell{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n\n{07 08 00}Why won't you come out,\n{0b 02 00}{04 1a 00}?\nC'mon, be a pal!",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 1c 00}{01 00 00 05 00}Sigh...{01 00 00 0a 00} He's gone.\nMy {0b 02 00}{04 1a 00}\nis gone,{01 00 00 0a 00} {04 02 00}.",
+   "et": ""
+  }
+ ]
+}

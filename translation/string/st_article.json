@@ -1,0 +1,25 @@
+{
+ "file": "script/ENG/string/st_article.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "a ",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "an ",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "the ",
+   "et": ""
+  },
+  {
+   "id": 3,
+   "en": "some ",
+   "et": ""
+  }
+ ]
+}

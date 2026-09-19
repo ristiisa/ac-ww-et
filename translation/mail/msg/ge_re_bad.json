@@ -1,0 +1,20 @@
+{
+ "file": "script/ENG/mail/msg/ge_re_bad.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "What's up? By the way, I\nhave no idea what your\nletter said and I feel\nterrible! Can you help me?",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "I love getting mail, but it\nmakes me so mad when\nyou're cryptic on purpose!\nJust say what you mean!",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "Did you write this letter?\nIt's all gibberish! If you\nwant me to read it, write\nit in English!",
+   "et": ""
+  }
+ ]
+}

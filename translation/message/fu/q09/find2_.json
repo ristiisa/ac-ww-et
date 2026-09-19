@@ -1,0 +1,20 @@
+{
+ "file": "script/ENG/message/fu/q09/find2_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 02 00}Huh?{01 00 00 0f 00} Oh no, {01 00 00 05 00}{04 02 00}!\n{07 16 00}Your pockets are full!\n\n{07 06 00}I was going give you this\ngreat prize, but now I\ncan't, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 0b 00}Um, {04 1f 00}?{01 00 00 0f 00} {07 16 00}Could you\nmaybe organize your items\na little bit better?\n{07 06 00}See, I was going to give you\nthis prize, but now I can't,\n{01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 00 00}What in the.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00} {07 02 00}{0b 03 00}{04 1f 00}!\nYour pockets are BULGING!{01 00 00 0f 00} I\ncan't give you a prize now!\n{07 0b 00}Why don't you try organizing\nsome items first, OK?",
+   "et": ""
+  }
+ ]
+}

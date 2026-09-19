@@ -1,0 +1,25 @@
+{
+ "file": "script/ENG/mail/msg/sp_npc_atm.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "Congratulations!\nYou've earned 300 points.\nYou are now a Member!",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "Thanks for your continued\npatronage! You've earned\n5,000 points, making you\na Silver Member!",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "How wonderful! You have\nearned a whopping 10,000\npoints, making you a\nGold Member!",
+   "et": ""
+  },
+  {
+   "id": 3,
+   "en": "Congratulations!\nYou've earned 20,000\npoints. You're now an\nhonorary Platinum Member!",
+   "et": ""
+  }
+ ]
+}

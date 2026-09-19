@@ -1,0 +1,20 @@
+{
+ "file": "script/ENG/message/bo/q01/con2_4_5_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 16 00}Oh, no{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} It's gone.{01 00 00 0a 00} Where oh\nwhere are you, little\n{0b 02 00}{04 1a 00}?",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 00 00}I've been looking for\n{04 1a 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n{07 0b 00}You can't find one either?{01 00 00 14 00}\n{07 05 00}{01 00 00 0a 00}Good!{01 00 00 0a 00} Then I'm gonna look\neven harder!",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 16 00}Hmm.{01 00 00 05 00} This is weird.{01 00 00 0a 00} I don't\nusually have trouble finding\n{04 1a 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n{07 1c 00}{01 00 00 0a 00}Maybe they just hate me or\nsomething, {01 00 00 0a 00}{04 02 00}.",
+   "et": ""
+  }
+ ]
+}

@@ -1,0 +1,40 @@
+{
+ "file": "script/ENG/message/ta/tsu/fo_hint_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 15 00}You DO know you have to\ndig fossils up as soon\nas you find them, right?\n{07 0b 00}If you wait until the next\nday, they won't be there,\n{01 00 00 0a 00}{04 02 00}.\n{07 0e 00}I think I'll start calling\nfossil hunting{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.the\nmysterious journey.",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{06 00 00 03 04}",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{06 00 00 05 06}",
+   "et": ""
+  },
+  {
+   "id": 3,
+   "en": "Just digging up a fossil\nwon't do you any good.{01 00 00 0a 00}\n'Cause it's just a rock!\n{07 14 00}Have {ff 00 00 06}Blathers{ff 00 00 00} take a look,{01 00 00 05 00}\nand he'll be able to tell\nyou what it is.",
+   "et": ""
+  },
+  {
+   "id": 4,
+   "en": "{ff 00 00 06}Blathers {ff 00 00 00}will totally spaz\nif you donate your IDed\nfossils to the{ff 00 00 08} museum{ff 00 00 00}.\n{07 0e 00}But{01 00 00 05 00} be prepared, because{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00}\nhe's a bit of a show-off.{01 00 00 05 00}\nHe'll just drone on and on.\n{07 11 00}It might be kinda fun{01 00 00 0a 00}\nleaving in the middle of his\nlecture, {01 00 00 0a 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 5,
+   "en": "{07 0e 00}You can sell your fossils\nfor some pretty yummy\nprices{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n{07 0b 00}I wonder if it's because you\ncan't just buy them,\n{01 00 00 0a 00}{04 02 00}?",
+   "et": ""
+  },
+  {
+   "id": 6,
+   "en": "{07 0e 00}When you want to find out\nexactly what you dug up{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n\n{07 1b 00}Well, {01 00 00 0a 00}even I can't help\nyou with that.\n\n{07 14 00}You have to take it to the \n{ff 00 00 08}museum{ff 00 00 00} and have {ff 00 00 06}Blathers \n{ff 00 00 00}ID it for you, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  }
+ ]
+}

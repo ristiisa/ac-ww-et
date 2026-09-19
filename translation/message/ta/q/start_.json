@@ -1,0 +1,20 @@
+{
+ "file": "script/ENG/message/ta/q/start_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 00 00}OK then, {01 00 00 05 00}let's get this\nshow started!{01 01 00} {07 15 00}Ready{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 01 00}\n{01 08 00}{0b 03 00}{04 02 00}!{01 01 00} {ff 00 00 04}{07 00 00}That means go!",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 04 00}Huh,{01 00 00 05 00} aren't you the little\noptimist!{01 01 00} {07 00 00}OK,{01 00 00 05 00} enough trash\ntalking. Let's get started!\n{07 15 00}Tee hee!{01 00 00 03 00} I'll never lose to\na loser like you!",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 1b 00}Tee hee!{01 00 00 0a 00} Well,{01 00 00 05 00} let's start\nnow!",
+   "et": ""
+  }
+ ]
+}

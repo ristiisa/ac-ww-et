@@ -1,0 +1,20 @@
+{
+ "file": "script/ENG/message/ko/q07/report_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 04 00}Whoa! {01 00 00 0f 00}So you made the\ndelivery on time, huh?!{01 00 00 14 00}\n{07 14 00}You put{ff 00 00 06} Petey {ff 00 00 00}to shame!",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 04 00}Whoa!{01 00 00 0f 00} {07 14 00}You actually did it on\ntime. I didn't think you\nwere up to it.",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 14 00}Right on, kid.{01 00 00 05 00}{01 00 00 0f 00} You could\ngive {ff 00 00 06}Petey{ff 00 00 00} a run for his\nmoney, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  }
+ ]
+}

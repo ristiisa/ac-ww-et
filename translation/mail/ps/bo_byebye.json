@@ -1,0 +1,30 @@
+{
+ "file": "script/ENG/mail/ps/bo_byebye.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "I'm nervous! -{04 10 00}",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "See ya! -{04 10 00}",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "Remember me! {04 10 00}",
+   "et": ""
+  },
+  {
+   "id": 3,
+   "en": "Good-bye! -{04 10 00}",
+   "et": ""
+  },
+  {
+   "id": 4,
+   "en": "Yours, {04 10 00}",
+   "et": ""
+  }
+ ]
+}

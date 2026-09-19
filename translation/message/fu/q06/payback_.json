@@ -1,0 +1,20 @@
+{
+ "file": "script/ENG/message/fu/q06/payback_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 00 00}I'm sorry for giving you\nsuch an impossible task,\n{04 02 00}.{01 00 00 0f 00} Shoulda known.",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 00 00}I shouldn't have asked you \nin the first place.{01 00 00 05 00} It was\ntoo much to expect.\n{07 14 00}Please don't worry\nabout it, {01 00 00 05 00}{04 02 00}.",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{ff 00 00 04}{07 00 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}Stinkin' useless.{ff 00 00 00}\n\n\n{07 06 00}Oh, hey, {01 00 00 05 00}did I just say that\nout loud?{01 00 00 0f 00} {07 03 00}Oh no, I'm just\nkiddin'! {07 00 00}{07 09 00}{01 00 00 0f 00}",
+   "et": ""
+  }
+ ]
+}

@@ -1,0 +1,20 @@
+{
+ "file": "script/ENG/message/ko/tsu/fo_hint_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "To find fossils, you've got\nto roam around as much as\nyou can, {01 00 00 05 00}{04 02 00}.\n{07 11 00}Never mind. Ignore my\nadvice! I want to hoard \nthem all for myself!",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "Don't get me wrong; I love \nfossils, but do they need\nto take up so much space?!{01 00 00 05 00}\n{07 0d 00}Man, would it be sweet to\nbe able to set up a beast \nin my house, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "If the ground looks weird,\nthere's probably something\nburied there, {01 00 00 05 00}{04 02 00}.\n{07 14 00}Like a fossil or pirate \nbooty. Or even a secret \nsubterranean pirate lair!",
+   "et": ""
+  }
+ ]
+}

@@ -1,0 +1,20 @@
+{
+ "file": "script/ENG/message/ta/q09/req_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 00 00}Hey, {01 00 00 05 00}{04 1f 00},{01 00 00 0a 00} do you\nwant to {07 0b 00}play hide-and-seek,\n{01 00 00 05 00}{04 02 00}?\n{07 04 00}What?{01 00 00 14 00} \"Hide-and-seek is for\nkids,\" you say? {01 00 00 0a 00}You couldn't\nbe more wrong!\n{07 1b 00}You just don't understand.{01 00 00 05 00}\nYou've lost touch with your\nplayful side, {01 00 00 0a 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 00 00}Hey, {01 00 00 05 00}{04 1f 00}.{01 00 00 0a 00} {07 0b 00}You wanna\nplay hide-and-seek with me,\n{01 00 00 0a 00}{04 02 00}?\n{07 14 00}I'm {01 00 00 05 00}pretty good at hiding,{01 00 00 05 00}\nyou know! {01 00 00 05 00}What with the\npaparazzi and all.",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "Hey, {01 00 00 05 00}{04 1f 00}.{01 00 00 0a 00} {07 0b 00}Are you\nany good at hide-and-seek?\n\n{07 17 00}I don't mean to brag or\nanything but{01 00 00 05 00} I'm the\nreigning champ at it.\n{07 00 00}What do you think?{01 00 00 14 00}\n{07 0b 00}You think you're up for it,\n{01 00 00 0a 00}{04 02 00}?!",
+   "et": ""
+  }
+ ]
+}

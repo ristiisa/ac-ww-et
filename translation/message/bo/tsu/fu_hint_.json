@@ -1,0 +1,35 @@
+{
+ "file": "script/ENG/message/bo/tsu/fu_hint_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 16 00}My favorite furniture is\nreally hard to come by\nhere in {04 03 00}.\n{07 06 00}But the other day, when I\nwent to the store in the\nnext town over,\nthey were selling it like it\nwas nothing! {01 00 00 0a 00}{0b 03 00}{04 02 00}!\n\n{07 08 00}And I spent so much time\nat {ff 00 00 06}Tom Nook{ff 00 00 00}'s shop, you'd\nthink I was moving in!",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 14 00}I picked up this really cool\npiece of furniture the\nother day, {01 00 00 0a 00}{04 02 00}!{02 01 00 03 04 05}\nYesss! Sweet!\nThat's nice.\nCan I have it?!",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 0f 00}{01 00 00 14 00}Aww,{01 00 00 0a 00} {04 02 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00} I'm so\ntired of the furniture in\nthis town.\n{07 00 00}I heard that the shop in\nthe next town over has\ntotally different stuff{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 19 00}Right now, moving there\nsounds like a pretty good\nidea to me.{07 00 00}",
+   "et": ""
+  },
+  {
+   "id": 3,
+   "en": "{07 17 00}Huh huh huh!{01 00 00 0a 00} You know I'm\na pretty cool guy, {07 00 00}{01 01 00}so I\ngotta keep my cool stuff.\n{07 14 00}But I may have to give you\nsome of my other stuff\nsometime.",
+   "et": ""
+  },
+  {
+   "id": 4,
+   "en": "{07 15 00}That's just cold{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} What's\nthe matter, {04 1f 00}?{01 00 00 05 00}\nJealous?{01 00 00 05 00} I bet you are!\n{01 00 00 0a 00}{07 1b 00}{01 00 00 05 00}You say, \"{ff 00 00 02}That's nice{ff 00 00 00},\"{01 00 00 0a 00} like\nyou're not just dying for\none of your own!\n{07 13 00}{01 00 00 0a 00}Wow!{01 00 00 0a 00} It's weird, but your\nindifference is making me\nlike you more!{01 00 00 05 00}{03 01 00 01}",
+   "et": ""
+  },
+  {
+   "id": 5,
+   "en": "{01 00 00 0a 00}{07 1b 00}{01 00 00 05 00}Sheesh,{01 00 00 0a 00} {04 1f 00}!{01 00 00 05 00} Have a\nlittle dignity, will you! You\nsound so desperate!\n{07 16 00}Once I get tired of it,{01 00 00 0a 00} I\nmight trade with you for\nyour furniture.\n{07 00 00}I mean{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00} {07 0d 00}As a style icon,\nI gotta mix up my style\nALL THE TIME!",
+   "et": ""
+  }
+ ]
+}

@@ -1,0 +1,20 @@
+{
+ "file": "script/ENG/message/ge/q10/leave_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 04 00}{0b 03 00}{04 1f 00}!{01 00 00 0a 00} I told you I\nwas coming...{07 15 00} AND YOU STOOD\nME UP!!{01 00 00 0a 00} HOW RUDE!!\n{07 06 00}Y'know, I was waiting in\nfront of your house for a\nlooooooooong time!\n{07 15 00}I hope you go to JAIL!{01 00 00 0a 00} And\nthat your stupid house is\nTORN DOWN, {01 00 00 0a 00}{04 02 00}!{03 02 00 01}",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 00 00}{07 0b 00}Hey,{01 00 00 05 00} didn't I tell you\nthat I was coming over?{01 00 00 0a 00}\nI swear I did...\n{07 15 00}AHA!!{01 00 00 0a 00} I KNEW IT!{01 00 00 05 00} You just\nremembered, DIDN'T YOU,\n{01 00 00 05 00}{04 02 00}?!\n{07 16 00}I can't BELIEVE you forgot\nuntil right now! That...that\nmakes me sooo sad!{07 00 00}{07 08 00} WAAAAH!{03 03 00 01}",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 04 00}Ahhh!!{01 00 00 05 00} Now I remember!{01 01 00}\n{07 16 00}I was going to visit you,\nand you stood me up!\n{07 15 00}What happened?{01 00 00 05 00} Did you go\non a DATE or something,\n{01 00 00 05 00}{04 02 00}?\n{07 06 00}In that case, you should\nhave brought me along so\nwe could double-date!\n{07 16 00}But I don't have anyone to\nask, {01 00 00 05 00}{04 02 00}...{01 00 00 0f 00} Except\nstupid old {04 0c 00}...{03 03 00 01}",
+   "et": ""
+  }
+ ]
+}

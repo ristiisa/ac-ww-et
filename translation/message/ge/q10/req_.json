@@ -1,0 +1,20 @@
+{
+ "file": "script/ENG/message/ge/q10/req_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 14 00}Hey, {01 00 00 05 00}{04 1f 00}!{01 00 00 0a 00} Y'know,\nI've been meaning to ask\nyou something...\n{07 06 00}Can I come see your place?\nPlease, {01 00 00 05 00}{04 02 00}?!{01 00 00 05 00} I'm\nso super curious!",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 0b 00}Y'know, I've just reached\nthe age where I'm starting\nto get interested in.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}\n{07 00 00}INTERIOR DECORATING!!!{01 00 00 14 00} {07 09 00}Uh.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}\nUm.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}\n\n{07 14 00}Yeah, so if you don't mind,\ncan I come see your room,\n{04 1f 00}?",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 16 00}I'm bored!{01 00 00 05 00} Talking to you is\nboring.{01 00 00 05 00} STOP BORING ME!{01 00 00 05 00}\n{07 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 0c 00}Wait,{01 00 00 0a 00} {04 1f 00}!{01 00 00 05 00} I know!\n{07 14 00}Lemme come visit you at\nyour place, {01 00 00 05 00}{04 02 00}!{01 00 00 05 00}\nThat would be fun!",
+   "et": ""
+  }
+ ]
+}

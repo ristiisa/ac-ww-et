@@ -1,0 +1,165 @@
+{
+ "file": "script/ENG/string/st_sports.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "baseball",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "soccer",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "table tennis",
+   "et": ""
+  },
+  {
+   "id": 3,
+   "en": "volleyball",
+   "et": ""
+  },
+  {
+   "id": 4,
+   "en": "softball",
+   "et": ""
+  },
+  {
+   "id": 5,
+   "en": "rugby",
+   "et": ""
+  },
+  {
+   "id": 6,
+   "en": "lacrosse",
+   "et": ""
+  },
+  {
+   "id": 7,
+   "en": "hockey",
+   "et": ""
+  },
+  {
+   "id": 8,
+   "en": "judo",
+   "et": ""
+  },
+  {
+   "id": 9,
+   "en": "boxing",
+   "et": ""
+  },
+  {
+   "id": 10,
+   "en": "kendo",
+   "et": ""
+  },
+  {
+   "id": 11,
+   "en": "tennis",
+   "et": ""
+  },
+  {
+   "id": 12,
+   "en": "golf",
+   "et": ""
+  },
+  {
+   "id": 13,
+   "en": "basketball",
+   "et": ""
+  },
+  {
+   "id": 14,
+   "en": "water polo",
+   "et": ""
+  },
+  {
+   "id": 15,
+   "en": "racquetball",
+   "et": ""
+  },
+  {
+   "id": 16,
+   "en": "badminton",
+   "et": ""
+  },
+  {
+   "id": 17,
+   "en": "Tae Kwon Do",
+   "et": ""
+  },
+  {
+   "id": 18,
+   "en": "bowling",
+   "et": ""
+  },
+  {
+   "id": 19,
+   "en": "wrestling",
+   "et": ""
+  },
+  {
+   "id": 20,
+   "en": "fencing",
+   "et": ""
+  },
+  {
+   "id": 21,
+   "en": "karate",
+   "et": ""
+  },
+  {
+   "id": 22,
+   "en": "kickboxing",
+   "et": ""
+  },
+  {
+   "id": 23,
+   "en": "skateboarding",
+   "et": ""
+  },
+  {
+   "id": 24,
+   "en": "running",
+   "et": ""
+  },
+  {
+   "id": 25,
+   "en": "gymnastics",
+   "et": ""
+  },
+  {
+   "id": 26,
+   "en": "long jumping",
+   "et": ""
+  },
+  {
+   "id": 27,
+   "en": "swimming",
+   "et": ""
+  },
+  {
+   "id": 28,
+   "en": "weight lifting",
+   "et": ""
+  },
+  {
+   "id": 29,
+   "en": "figure skating",
+   "et": ""
+  },
+  {
+   "id": 30,
+   "en": "croquet",
+   "et": ""
+  },
+  {
+   "id": 31,
+   "en": "football",
+   "et": ""
+  }
+ ]
+}

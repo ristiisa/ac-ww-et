@@ -1,0 +1,20 @@
+{
+ "file": "script/ENG/message/ko/q07/over_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 00 00}I don't know how to say\nthis, {04 1f 00}, but{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n\n{07 15 00}You remember that letter\nwe talked about?{01 00 00 05 00} Aren't you\nway overdue?!\n{07 0f 00}I told {ff 00 00 06}{04 10 00} {ff 00 00 00}what\ntime it was going to be\ndelivered, ya know{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 15 00}I guess you're just a flake.\nHand me the letter. {01 00 00 05 00}I'll\ndo it myself, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 16 00}Hey{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} You'd better have\ndelivered that letter like\nyou promised!\n{07 00 00}I know you probably \nhave your excuses.\n\n{07 15 00}But I'm gonna think twice \nabout asking you to do\nthat again, {01 00 00 05 00}{04 02 00}?!",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 00 00}Hey, {01 00 00 05 00}spare me the excuses,\n{01 00 00 05 00}{04 02 00}!\n\nRemember that letter I\nasked you to deliver to\n{ff 00 00 06}{04 10 00}{ff 00 00 00}? {01 00 00 05 00}{07 05 00}You blew it!\n{07 15 00}So, yeah{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}. You can hand\nthat over now, kid. {01 00 00 05 00}You're\na disgrace.",
+   "et": ""
+  }
+ ]
+}

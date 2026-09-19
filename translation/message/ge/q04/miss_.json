@@ -1,0 +1,30 @@
+{
+ "file": "script/ENG/message/ge/q04/miss_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 16 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}Um...HELLO?{01 00 00 05 00} Yeah, total\nmiss on this one.{01 00 00 05 00} It kinda\nlooks like a boy outfit...\n{07 12 00}Um.{01 00 00 05 00} You can take your\n{0b 02 00}{04 1c 00}\nback now, {04 02 00}.",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 00 00}{07 12 00}Yeah, {04 1f 00}?{01 00 00 05 00} Um...{01 00 00 05 00}\nthanks and all, but...{01 00 00 05 00}um...{01 00 00 05 00}\nno thanks.\n{07 00 00}{07 09 00}Maybe this would look good\non, like, a trucker or\nsomething{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{0b 03 00}{04 00 00}?{01 00 00 0f 00} Yeah, the\n{0b 02 00}{04 1c 00}\nis about 400 sizes too big.\n{07 10 00}I mean, it's totally cute,{01 00 00 05 00}\nbut there's no way it's\ngonna fit, {01 00 00 05 00}{04 02 00}.",
+   "et": ""
+  },
+  {
+   "id": 3,
+   "en": "Well, {04 1f 00},{01 00 00 05 00} I'm happy\nyou thought of me and all,\nbut.{01 00 00 05 00}.{01 00 00 05 00}.\nI'm, like, really tired of\ngetting the same clothes,\n{01 00 00 05 00}{04 02 00}!{01 01 00} Enough!",
+   "et": ""
+  },
+  {
+   "id": 4,
+   "en": "Well{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} Not to sound totally\nrude,{01 00 00 05 00} but I don't want\n{04 1c 00}!\n{07 01 00}{01 08 00}NO MORE OF THE SAME!{01 00 00 0a 00} {01 08 00}GIMME\nSOMETHING DIFFERENT!\n{01 00 00 0a 00}{07 17 00}Um, please?",
+   "et": ""
+  }
+ ]
+}

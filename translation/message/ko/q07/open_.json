@@ -1,0 +1,20 @@
+{
+ "file": "script/ENG/message/ko/q07/open_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 15 00}I got a bone to pick with\nyou!{01 00 00 05 00} You always open \nletters that aren't yours?!\n{07 01 00}Don't lie!{01 00 00 14 00} Do you think I'm\nstupid or something.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}?!\n\n{07 15 00}Listen up, and listen good!{01 00 00 14 00}\nIf you do it again, you and\nme are done, {01 00 00 05 00}{04 02 00}!\n{07 05 00}Come on!{01 00 00 0f 00} Gimme back my\nletter now, {01 00 00 05 00}{04 02 00}!{03 02 00 01}",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 02 00}What're you trying to pull,\neh? You think I'm some kind\nof idiot, is that it?\n{07 16 00}How many times did I tell\nya not to open that letter\nto {ff 00 00 06}{04 10 00}{ff 00 00 00}?\nAnd you went ahead and did\nit anyway. Way to go,\nchief! You're a moron!\n{07 15 00}Give it back now...{01 01 00}\nYou're a disgrace,\n{01 00 00 05 00}{04 02 00}!{03 02 00 01}",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 16 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}Hey!{01 00 00 05 00} Do you usually go\naround opening up people's\nmail? Is that it?\n{07 00 00}Well, that garbage doesn't \nfly with me! You're like 32\nflavors of stupid!\n{07 01 00}Hand that letter over now,\n{01 00 00 05 00}{04 02 00}!{03 02 00 01}",
+   "et": ""
+  }
+ ]
+}

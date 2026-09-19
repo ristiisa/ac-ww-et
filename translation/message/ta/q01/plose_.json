@@ -1,0 +1,15 @@
+{
+ "file": "script/ENG/message/ta/q01/plose_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 04 00}Oh, {01 00 00 0f 00}so you've got \n{04 1c 00}\nthere.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00} OK.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}\n{07 00 00}But, see, I've got\n{04 1d 00}!\n\n{07 14 00}So no matter how you look\nat it, I'm definitely \nthe winner, {01 00 00 0a 00}{04 02 00}.\n{07 00 00}You know what's pretty\nclear to me? {01 00 00 05 00}You've gotta\nwork on your eye for bugs!",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 04 00}{0b 03 00}{04 1c 00}!{01 01 00}\nWow, that's pretty good{01 00 00 0f 00}\nfor you!\n{07 16 00}But LOOK at what I have!{01 00 00 0a 00}\n{0b 03 00}{04 1d 00}!\n\n{07 1b 00}{0b 03 00}{04 1d 00} is\nclearly tons better than\n{04 1c 00}.\n{07 00 00}Here, take your sad, sad\n{0b 02 00}{04 1c 00}\nwith you, {01 00 00 0a 00}{04 02 00}.",
+   "et": ""
+  }
+ ]
+}

@@ -1,0 +1,105 @@
+{
+ "file": "script/ENG/message/ge/tsu/event1_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 14 00}The {ff 00 00 03}Fishing Tourney{ff 00 00 00} is\ncomin' up on Sunday!\n\nHey, {04 1f 00}!{07 0b 00} Are you\ngonna show off your\nfishing skills or what?{02 00 00 0e 0f}\nI'm on it.\nWhat skills?",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 14 00}The big {ff 00 00 03}Fishing Tourney {ff 00 00 00}is\ncoming up soon,{01 00 00 0a 00} {07 06 00}and I'm\nnot close to being ready!\n{07 00 00}I really need to\npractice being able to\nlook at fish in the eye.\n{07 0f 00}I get totally wigged out\nwhen I see their beady\nlittle eyes, {04 02 00}!{03 03 00 01}",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 14 00}Oh yeah, the big {ff 00 00 03}Bug-Off\n{ff 00 00 00}is this Sunday! {01 01 00}{07 0b 00}You up to\nthe challenge, {04 1f 00}?\n{07 14 00}I got this cute bite-proof\ndress to keep the bugs \nfrom taking revenge on me.\n{07 16 00}Oh no! What if they just\nheard me? {01 00 00 0a 00}They know all\nabout my secret weapon!",
+   "et": ""
+  },
+  {
+   "id": 3,
+   "en": "{07 14 00}{0b 03 00}{04 1f 00}!{01 00 00 0a 00}\nIsn't the{07 0b 00} {ff 00 00 03}Bug-Off {ff 00 00 00}this\nSunday?\n{07 14 00}I've got to go out and get\na new {ff 00 00 07}net{ff 00 00 00}! {01 00 00 05 00}And some\ncupcakes.{01 00 00 05 00} Piles of cupcakes!\n{07 0d 00}Ahhhhhhhh!{01 00 00 0f 00} Cupcakes make\nall the stress melt away...\n{01 00 00 05 00}{04 02 00}!{03 01 00 01}",
+   "et": ""
+  },
+  {
+   "id": 4,
+   "en": "{07 14 00}Hey, {04 1f 00}!{01 00 00 0a 00} There's\ngonna be a {ff 00 00 03}Flea Market\n{ff 00 00 00}this Saturday!\n{07 00 00}I'm going to sell all my old\nstuff that's gone out of\nstyle.{01 00 00 0a 00} {07 14 00}You should drop by!",
+   "et": ""
+  },
+  {
+   "id": 5,
+   "en": "{07 14 00}Hey, {ff 00 00 03}Sell-Your-Lame-Old-\nJunk{ff 00 00 00} day is on Saturday,{ff 00 00 03}\n{ff 00 00 00}{01 00 00 05 00}{04 02 00}!{ff 00 00 03}\n{ff 00 00 00}{07 00 00}Oh, I guess most people call\nit{ff 00 00 03} Flea Market{ff 00 00 00} day.{ff 00 00 03}\n{ff 00 00 00}{01 00 00 0a 00}But that's SO boring.\nYou should come and buy my\nfabulous stuff!{01 00 00 0a 00} I'll cut\nyou a deal, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 6,
+   "en": "{07 0a 00}Woo hoo!{01 00 00 0f 00} Saturday is\n{ff 00 00 03}La-Di-Day{ff 00 00 00}, {01 00 00 05 00}{04 02 00}!\n\n{07 15 00}I am SO gonna sing my\nadorable little heart out!\n\n{07 14 00}So, you've got to pick my\nsong for the town tune!{01 00 00 0f 00}\n{07 15 00}PROMISE ME, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 7,
+   "en": "{07 14 00}Saturday is {ff 00 00 03}La-Di-Day{ff 00 00 00}!\nWoo hoo, {01 00 00 05 00}{04 02 00}!\n\n{07 00 00}As {04 03 00}'s reigning\npop princess, {01 00 00 05 00}people expect\nperky perfection.\n{07 13 00}I LOVE performing under\npressure, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 8,
+   "en": "{07 04 00}{0b 03 00}{04 1f 00}! I've got some\ntotally sweet news!{01 00 00 14 00} {07 14 00}\n{ff 00 00 03}Yay Day {ff 00 00 00}is coming up soon!\n{07 00 00}I'm gonna have to come up\nwith something nice to say\nabout you that's believable.\n{07 0a 00}Don't forget to shower me\nwith compliments,\n{01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 9,
+   "en": "{07 04 00}Wow, {01 00 00 05 00}{04 1f 00}!{01 00 00 05 00} You rule!{01 01 00}\n{07 0b 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}Was that too unoriginal?\n\n{07 14 00}You know {01 00 00 05 00}{ff 00 00 03}Yay Day {ff 00 00 00}is coming\nup soon, right?\n\n{07 06 00}I need to practice dishing\nout some compliments,\n{01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 10,
+   "en": "{07 14 00}Big {04 01 00} news!{01 01 00}\n{04 10 00} {04 11 00} is\n{ff 00 00 06}{04 0f 00}{ff 00 00 00}'s birthday!\n{07 00 00}We're throwing a party at\n{ff 00 00 06}{04 0f 00}{ff 00 00 00}'s place.{01 00 00 05 00} {07 0b 00}Do you\nwanna come?{02 00 00 10 11}\nRock on!\nNo thanks.",
+   "et": ""
+  },
+  {
+   "id": 11,
+   "en": "{07 14 00}Hey, {04 1f 00}!{01 00 00 0a 00} {07 0b 00}Do you\nknow what day the {04 11 00}\nis?{02 00 00 12 13}\nOf course!\nNo clue.",
+   "et": ""
+  },
+  {
+   "id": 12,
+   "en": "{07 14 00}{0b 03 00}{04 1f 00}!{01 00 00 0a 00} The {ff 00 00 03}New Year's\nEve Countdown{ff 00 00 00} is at the\nend of this month!\nIt'll be chilly out,{07 0a 00} but I\ntotally SPAZ out about\nfireworks!{01 00 00 05 00} They're pretty!",
+   "et": ""
+  },
+  {
+   "id": 13,
+   "en": "{07 14 00}The last event of the year\nis the {ff 00 00 03}countdown {ff 00 00 00}on the\n31st, {01 00 00 05 00}{04 02 00}!\n{07 15 00}Next year, I'll make sure\nall my dreams come\ntrue, {01 00 00 05 00}{04 02 00}!\n{07 0d 00}Dream number one: the\n{04 01 00} fan club with{01 00 00 0a 00}\n100 screaming fans!",
+   "et": ""
+  },
+  {
+   "id": 14,
+   "en": "{07 04 00}Ummm{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}whoa!{01 00 00 0a 00} You're\nsuper confident,\n{01 00 00 05 00}{04 02 00}!\n{07 15 00}But I can keep up with\nyou in that game,\n{01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 15,
+   "en": "{07 16 00}Fish really gross me out.\n{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 06 00}It's those eyes!\n\nThose creepy, glassy eyes.\nIt's like they're plotting\ntheir revenge, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 16,
+   "en": "{07 14 00}Got it!{01 00 00 0a 00} Then{01 00 00 05 00} I'm gonna go\ntell {ff 00 00 06}{04 0f 00}{ff 00 00 00}! OK?\n\n{07 16 00}Oh!{01 00 00 0f 00} By the way,{01 00 00 05 00}\ndon't forget to bring a\npresent, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 17,
+   "en": "{07 16 00}Why have you been so\nantisocial lately,\n{01 00 00 05 00}{04 02 00}?\n{07 06 00}It's a birthday party!{01 00 00 05 00}\nIt's time to party hard!",
+   "et": ""
+  },
+  {
+   "id": 18,
+   "en": "{07 04 00}Wow, {01 00 00 05 00}{04 1f 00}!{01 00 00 14 00}\nThat day is {ff 00 00 06}{04 0f 00}{ff 00 00 00}'s\nbirthday, {01 00 00 05 00}{04 02 00}!\n{07 11 00}Are you telling me that\nyou and {ff 00 00 06}{04 0f 00} {ff 00 00 00}have\nbeen plotting already?",
+   "et": ""
+  },
+  {
+   "id": 19,
+   "en": "{07 00 00}The answer is{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00}\n{07 0e 00}Uhhhhh{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{07 00 00} It was someone's\nbirthday,{07 0b 00} right?\n{07 06 00}{01 00 00 0a 00}I totally forgot!{01 00 00 05 00}\nGo ask someone else,\n{01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  }
+ ]
+}

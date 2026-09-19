@@ -1,0 +1,20 @@
+{
+ "file": "script/ENG/message/ha/q12/end_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 14 00}You are my HERO!\n\n\n{07 04 00}Hero{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} {07 06 00}I wanna be called\nthat, too, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 16 00}Boy, {04 1f 00}, you've\nhooked me up big-time,\n{01 00 00 05 00}{04 02 00}!\n{07 0c 00}Know what?!{01 00 00 14 00} {07 14 00}Next time you\nget sick...\n\n{07 0d 00}I'll make you my special\nSuper Onion Glutenizer\nSoup, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 0a 00}{0b 03 00}{04 1f 00}, you saved my\nLIFE, {01 00 00 05 00}{04 02 00}!\n\n{07 0e 00}Lifesaver{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} Yeeeeeah{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n{07 14 00}That sounds pretty darn\nGOOD, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  }
+ ]
+}

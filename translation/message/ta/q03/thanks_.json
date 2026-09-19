@@ -1,0 +1,20 @@
+{
+ "file": "script/ENG/message/ta/q03/thanks_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 02 00}What?!{01 00 00 05 00} Could this be{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n{04 1a 00}?!\nWow!\n{07 14 00}Good job, {01 00 00 05 00}{04 1f 00}!{01 00 00 14 00} I\ncan't believe you actually\nfound it for me{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\nHow can I ever thank you,\n{01 00 00 0a 00}{04 02 00}?!",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 02 00}Oh, wow!{01 00 00 05 00} You actually found\n{04 1a 00} {01 00 00 05 00}for\nme?!\n{07 14 00}You're just the BEST,\n{04 1f 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n\nNow you gotta let me thank\nyou in the best way\npossible, {01 00 00 0a 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 04 00}Wow{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} This is amazing!{01 00 00 14 00} This\nIS {04 1a 00},\nisn't it?! {01 00 00 0a 00}{0b 03 00}{04 02 00}?!\n{07 16 00}I can't believe you brought\nit all this way here just\nfor me{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} {07 14 00}I'm so happy!",
+   "et": ""
+  }
+ ]
+}

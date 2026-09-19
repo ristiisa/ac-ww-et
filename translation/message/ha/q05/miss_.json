@@ -1,0 +1,35 @@
+{
+ "file": "script/ENG/message/ha/q05/miss_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}Uh, did you actually think\nI'd get all stoked to get\n{04 1a 00}?\nSeriously, {01 00 00 05 00}{04 02 00}?!\n\n\nYou KNOW I'm collecting\n{ff 00 00 07}{04 0f 00}{ff 00 00 00}!{01 00 00 14 00}\nWAY off, {01 00 00 05 00}{04 1f 00}!{01 00 00 14 00}",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 1d 00}Oh!{01 00 00 0f 00} {07 0b 00}You're giving me this\n{0b 02 00}{04 1a 00}?\n\n{07 00 00}Uh{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00} Look, I'm flattered\nand all, but...\n\nI'm kinda in the market for\n{ff 00 00 07}{04 0f 00}{ff 00 00 00}!{01 00 00 14 00}\nYeah{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "Huh?{01 00 00 14 00} Lemme get this\nstraight. {01 00 00 05 00}You're giving me \n{04 1a 00}{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.\n{07 00 00}Uh{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.{01 01 00} Look, what exactly are\nyou trying to say here?\n\n{07 00 00}I told you, I'm only into\n{ff 00 00 07}{04 0f 00}{ff 00 00 00}!",
+   "et": ""
+  },
+  {
+   "id": 3,
+   "en": "Uh,{01 00 00 03 00} why are you bringin' me\n{04 1a 00}?!\n\nI've got enough of those\nalready, {01 00 00 05 00}{04 02 00}!",
+   "et": ""
+  },
+  {
+   "id": 4,
+   "en": "{07 1d 00}Whoa!{01 00 00 0f 00} {07 0b 00}You wanna give me\n{04 1a 00}?\n\n{07 00 00}Well, I'm grateful that you \nthought of me and all,\nbut{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}\nEven I need to mix it up\na little!{01 01 00} Know what I'm\nsayin'?! {01 01 00}Do ya?",
+   "et": ""
+  },
+  {
+   "id": 5,
+   "en": "Oh, hey. What's this?{01 00 00 14 00} Oh,\n{04 1a 00}{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.\n\nYou know, {01 00 00 05 00}I'd like something\nlike this{01 00 00 05 00} but not exactly\nlike this, {01 00 00 05 00}{04 02 00}.\nActually, I'm kinda tired\nof looking at your\n{0b 02 00}{04 1a 00}!",
+   "et": ""
+  }
+ ]
+}

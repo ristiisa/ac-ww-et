@@ -1,0 +1,20 @@
+{
+ "file": "script/ENG/message/ge/q12/end_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 14 00}Wow, you totally helped me\nout!{01 00 00 05 00} Thank you soooo much!{01 00 00 05 00}\nYou are so super nice!",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 00 00}I'm so glad that you live\nnearby, {01 00 00 05 00}{04 02 00}!\nWe're BESTEST friends!!\n{07 14 00}If you EVER need anything,\nyou just let me know!!\n",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 16 00}I owe you big-time,\n{04 1f 00}!{01 00 00 0a 00} {07 14 00}I'll be more\ncareful next time!",
+   "et": ""
+  }
+ ]
+}

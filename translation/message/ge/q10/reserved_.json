@@ -1,0 +1,20 @@
+{
+ "file": "script/ENG/message/ge/q10/reserved_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 14 00}Noted! {04 10 00}:{04 11 00} on the {04 0f 00}!\nThat sounds SWEET!! {01 00 00 05 00}{07 0a 00}I'm\nlooking forward to it!",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 14 00}{04 10 00}:{04 11 00}...and we're talking\nabout the {04 0f 00}, right?{01 00 00 0a 00}\nYAY!{01 00 00 0a 00} I gotta go get ready!",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 14 00}{04 10 00}:{04 11 00} on the {04 0f 00}!\nMentally noted! {07 00 00}I'll be on\ntime...{01 00 00 05 00}{07 01 00} So don't forget it!!",
+   "et": ""
+  }
+ ]
+}

@@ -1,0 +1,20 @@
+{
+ "file": "script/ENG/message/ge/q01/con3_.bmg",
+ "messages": [
+  {
+   "id": 0,
+   "en": "{07 05 00}{01 08 00}GREAT GALLOPING PEANUTS!{01 00 00 0f 00}\n{07 06 00}Why can't I catch any bugs?\n\n{07 15 00}No, {01 00 00 05 00}{04 02 00}! It's not\n'cause I'm too slow!{01 00 00 03 00} These\nbugs are too fast!",
+   "et": ""
+  },
+  {
+   "id": 1,
+   "en": "{07 16 00}I've been looking, but I can\nonly seem to find the lame\nones!\n{07 06 00}Just hold up, {01 00 00 05 00}{04 02 00}!\nI'm not giving up until I\nget a good one!",
+   "et": ""
+  },
+  {
+   "id": 2,
+   "en": "{07 06 00}For some reason, my\nfavorite bug is not showing\nme any love! {01 00 00 05 00}Totally RUDE!\n{07 16 00}Sorry, {01 00 00 05 00}{04 1f 00}. Can you\njust hold on for a little\nwhile, {01 00 00 05 00}{04 02 00}?",
+   "et": ""
+  }
+ ]
+}
