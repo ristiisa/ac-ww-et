@@ -7,6 +7,7 @@ import os
 import ndspy.rom
 
 import bmg
+import tables
 
 ROM = 'rom/Animal Crossing - Wild World (USA) (Rev 1).nds'
 OUT = 'translation'
@@ -39,6 +40,7 @@ def main():
         files += 1
         msgs += len(entries)
     print(f'exported {msgs} messages from {files} files')
+    print(f'exported {tables.export(rom)} names from {len(tables.TABLES)} tables')
 
 
 if __name__ == '__main__':

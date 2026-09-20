@@ -34,7 +34,7 @@
   {
    "id": 6,
    "en": "Tell me anything!",
-   "et": "Räägi ükskõik mida!"
+   "et": "Räägi mida tahad!"
   },
   {
    "id": 7,
@@ -44,7 +44,7 @@
   {
    "id": 8,
    "en": "I'm killing time.",
-   "et": "Surnud aega veedan."
+   "et": "Ajan aega surnuks."
   },
   {
    "id": 9,
@@ -79,532 +79,532 @@
   {
    "id": 15,
    "en": "Oops, my fault!",
-   "et": ""
+   "et": "Oih, minu viga!"
   },
   {
    "id": 16,
    "en": "My mistake!",
-   "et": ""
+   "et": "Minu eksitus!"
   },
   {
    "id": 17,
    "en": "Uh, never mind.",
-   "et": ""
+   "et": "Ah, pole midagi."
   },
   {
    "id": 18,
    "en": "Nothing, really.",
-   "et": ""
+   "et": "Mitte midagi."
   },
   {
    "id": 19,
    "en": "Nothing.",
-   "et": ""
+   "et": "Ei midagi."
   },
   {
    "id": 20,
    "en": "How're you doing?",
-   "et": ""
+   "et": "Kuidas läheb?"
   },
   {
    "id": 21,
    "en": "Need medicine?",
-   "et": ""
+   "et": "Kas vajad rohtu?"
   },
   {
    "id": 22,
    "en": "Are you OK?",
-   "et": ""
+   "et": "Kas oled terve?"
   },
   {
    "id": 23,
    "en": "Take care.",
-   "et": ""
+   "et": "Hoia end."
   },
   {
    "id": 24,
    "en": "I caught a fish!",
-   "et": ""
+   "et": "Püüdsin kala!"
   },
   {
    "id": 25,
    "en": "I caught a bug!",
-   "et": ""
+   "et": "Püüdsin putuka!"
   },
   {
    "id": 26,
    "en": "Here's a fossil!",
-   "et": ""
+   "et": "Siin on kivistis!"
   },
   {
    "id": 27,
    "en": "Clothe yourself!",
-   "et": ""
+   "et": "Pane see selga!"
   },
   {
    "id": 28,
    "en": "Take this.",
-   "et": ""
+   "et": "Võta see."
   },
   {
    "id": 29,
    "en": "Delivery!",
-   "et": ""
+   "et": "Saadetis!"
   },
   {
    "id": 30,
    "en": "What did I need?",
-   "et": ""
+   "et": "Mida ma vajasin?"
   },
   {
    "id": 31,
    "en": "That's fine!",
-   "et": ""
+   "et": "Sobib hästi!"
   },
   {
    "id": 32,
    "en": "Not right now...",
-   "et": ""
+   "et": "Mitte praegu..."
   },
   {
    "id": 33,
    "en": "Leave it to me!",
-   "et": ""
+   "et": "Jäta minu hooleks!"
   },
   {
    "id": 34,
    "en": "Another time...",
-   "et": ""
+   "et": "Mõni teine kord..."
   },
   {
    "id": 35,
    "en": "I delivered it!",
-   "et": ""
+   "et": "Andsin selle üle!"
   },
   {
    "id": 36,
    "en": "It was AWESOME!",
-   "et": ""
+   "et": "See oli VÄGEV!"
   },
   {
    "id": 37,
    "en": "It was all right.",
-   "et": ""
+   "et": "Läks üsna hästi."
   },
   {
    "id": 38,
    "en": "It didn't work...",
-   "et": ""
+   "et": "Ei õnnestunud..."
   },
   {
    "id": 39,
    "en": "Your package...",
-   "et": ""
+   "et": "Sinu pakk..."
   },
   {
    "id": 40,
    "en": "Look at my bug!",
-   "et": ""
+   "et": "Vaata mu putukat!"
   },
   {
    "id": 41,
    "en": "You like my fish?",
-   "et": ""
+   "et": "Kuidas mu kala?"
   },
   {
    "id": 42,
    "en": "Letter!",
-   "et": ""
+   "et": "Kiri!"
   },
   {
    "id": 43,
    "en": "A letter...",
-   "et": ""
+   "et": "Üks kiri..."
   },
   {
    "id": 44,
    "en": "I found a key!",
-   "et": ""
+   "et": "Leidsin võtme!"
   },
   {
    "id": 45,
    "en": "About the key...",
-   "et": ""
+   "et": "Võtme kohta..."
   },
   {
    "id": 46,
    "en": "Hide-and-seek?",
-   "et": ""
+   "et": "Peitust?"
   },
   {
    "id": 47,
    "en": "Wrong...",
-   "et": ""
+   "et": "Vale..."
   },
   {
    "id": 48,
    "en": "You'll come when?",
-   "et": ""
+   "et": "Millal sa tuled?"
   },
   {
    "id": 49,
    "en": "Our appointment?",
-   "et": ""
+   "et": "Meie kokkusaamine?"
   },
   {
    "id": 50,
    "en": "I'm so happy!",
-   "et": ""
+   "et": "Olen nii õnnelik!"
   },
   {
    "id": 51,
    "en": "So-so.",
-   "et": ""
+   "et": "Nii ja naa."
   },
   {
    "id": 52,
    "en": "Good-bye.",
-   "et": ""
+   "et": "Head aega."
   },
   {
    "id": 53,
    "en": "I quit.",
-   "et": ""
+   "et": "Ma loobun."
   },
   {
    "id": 54,
    "en": "I bought it!",
-   "et": ""
+   "et": "Ostsin selle ära!"
   },
   {
    "id": 55,
    "en": "Don't go!",
-   "et": ""
+   "et": "Ära mine!"
   },
   {
    "id": 56,
    "en": "You can't leave!",
-   "et": ""
+   "et": "Sa ei tohi lahkuda!"
   },
   {
    "id": 57,
    "en": "Th-that can't be!",
-   "et": ""
+   "et": "S-see ei saa olla!"
   },
   {
    "id": 58,
    "en": "Take care.",
-   "et": ""
+   "et": "Hoia end."
   },
   {
    "id": 59,
    "en": "Bye-bye!",
-   "et": ""
+   "et": "Pai-pai!"
   },
   {
    "id": 60,
    "en": "Farewell...",
-   "et": ""
+   "et": "Hüvasti..."
   },
   {
    "id": 61,
    "en": "{00 06 00}Someone else.",
-   "et": ""
+   "et": "{00 06 00}Keegi teine."
   },
   {
    "id": 62,
    "en": "About that...",
-   "et": ""
+   "et": "Selle kohta..."
   },
   {
    "id": 63,
    "en": "I can't sell that.",
-   "et": ""
+   "et": "Ei saa seda müüa."
   },
   {
    "id": 64,
    "en": "I guess I must.",
-   "et": ""
+   "et": "Vist pean."
   },
   {
    "id": 65,
    "en": "I can't give that!",
-   "et": ""
+   "et": "Ei saa seda anda!"
   },
   {
    "id": 66,
    "en": "I'll sell it.",
-   "et": ""
+   "et": "Müün ära."
   },
   {
    "id": 67,
    "en": "It didn't work!",
-   "et": ""
+   "et": "See ei õnnestunud!"
   },
   {
    "id": 68,
    "en": "You're hired!",
-   "et": ""
+   "et": "Oled palgatud!"
   },
   {
    "id": 69,
    "en": "Tell me!",
-   "et": ""
+   "et": "Räägi mulle!"
   },
   {
    "id": 70,
    "en": "Don't wanna know!",
-   "et": ""
+   "et": "Ei taha teada!"
   },
   {
    "id": 71,
    "en": "Wh-what?!?",
-   "et": ""
+   "et": "M-mis?!?"
   },
   {
    "id": 72,
    "en": "Yup, that's right.",
-   "et": ""
+   "et": "Jah, just nii."
   },
   {
    "id": 73,
    "en": "Do over.",
-   "et": ""
+   "et": "Teeme uuesti."
   },
   {
    "id": 74,
    "en": "That's fine.",
-   "et": ""
+   "et": "Sobib küll."
   },
   {
    "id": 75,
    "en": "Leave it to me!",
-   "et": ""
+   "et": "Jäta minu hooleks!"
   },
   {
    "id": 76,
    "en": "I'll decide!",
-   "et": ""
+   "et": "Otsustan ise!"
   },
   {
    "id": 77,
    "en": "Understood!",
-   "et": ""
+   "et": "Selge!"
   },
   {
    "id": 78,
    "en": "I'll mull it over!",
-   "et": ""
+   "et": "Mõtlen järele!"
   },
   {
    "id": 79,
    "en": "Consider it done!",
-   "et": ""
+   "et": "Saab tehtud!"
   },
   {
    "id": 80,
    "en": "That's fine as is.",
-   "et": ""
+   "et": "Sobib nii nagu on."
   },
   {
    "id": 81,
    "en": "Give it up.",
-   "et": ""
+   "et": "Anna alla."
   },
   {
    "id": 82,
    "en": "That won't do.",
-   "et": ""
+   "et": "See ei sobi."
   },
   {
    "id": 83,
    "en": "Sorry!",
-   "et": ""
+   "et": "Vabandust!"
   },
   {
    "id": 84,
    "en": "It's fine as is.",
-   "et": ""
+   "et": "Nii on hea."
   },
   {
    "id": 85,
    "en": "Ew, no!",
-   "et": ""
+   "et": "Äh, ei!"
   },
   {
    "id": 86,
    "en": "Uh, never mind.",
-   "et": ""
+   "et": "Ah, pole midagi."
   },
   {
    "id": 90,
    "en": "Fits you to a T!",
-   "et": ""
+   "et": "Istub nagu valatud!"
   },
   {
    "id": 91,
    "en": "OK!",
-   "et": ""
+   "et": "Olgu!"
   },
   {
    "id": 92,
    "en": "Sounds good!",
-   "et": ""
+   "et": "Kõlab hästi!"
   },
   {
    "id": 93,
    "en": "That's fine!",
-   "et": ""
+   "et": "Sobib hästi!"
   },
   {
    "id": 94,
    "en": "I can't...",
-   "et": ""
+   "et": "Ma ei saa..."
   },
   {
    "id": 95,
    "en": "Maybe next time.",
-   "et": ""
+   "et": "Ehk järgmine kord."
   },
   {
    "id": 96,
    "en": "I can't...",
-   "et": ""
+   "et": "Ma ei saa..."
   },
   {
    "id": 111,
    "en": "Not really...",
-   "et": ""
+   "et": "Mitte eriti..."
   },
   {
    "id": 120,
    "en": "I don't care.",
-   "et": ""
+   "et": "Mind ei huvita."
   },
   {
    "id": 121,
    "en": "So what?",
-   "et": ""
+   "et": "Mis siis?"
   },
   {
    "id": 122,
    "en": "Ew, stand back!",
-   "et": ""
+   "et": "Äh, hoia eemale!"
   },
   {
    "id": 123,
    "en": "Still contagious?",
-   "et": ""
+   "et": "Oled veel nakkav?"
   },
   {
    "id": 124,
    "en": "Gross!",
-   "et": ""
+   "et": "Jälk!"
   },
   {
    "id": 125,
    "en": "Keep away, sicky!",
-   "et": ""
+   "et": "Eemale, haige!"
   },
   {
    "id": 126,
    "en": "Blech!",
-   "et": ""
+   "et": "Bläh!"
   },
   {
    "id": 127,
    "en": "G-R-O-S-S!",
-   "et": ""
+   "et": "J-Ä-L-K!"
   },
   {
    "id": 128,
    "en": "And...?",
-   "et": ""
+   "et": "Ja siis...?"
   },
   {
    "id": 129,
    "en": "Uh, adios!",
-   "et": ""
+   "et": "Ah, adios!"
   },
   {
    "id": 196,
    "en": "Tell me!",
-   "et": ""
+   "et": "Räägi mulle!"
   },
   {
    "id": 208,
    "en": "Never mind.",
-   "et": ""
+   "et": "Pole midagi."
   },
   {
    "id": 211,
    "en": "I'll buy!",
-   "et": ""
+   "et": "Ostan!"
   },
   {
    "id": 213,
    "en": "Save a letter.",
-   "et": ""
+   "et": "Salvesta kiri."
   },
   {
    "id": 225,
    "en": "Can I try it on?",
-   "et": ""
+   "et": "Kas võin proovida?"
   },
   {
    "id": 226,
    "en": "Can I try it on?",
-   "et": ""
+   "et": "Kas võin proovida?"
   },
   {
    "id": 227,
    "en": "Can I try it on?",
-   "et": ""
+   "et": "Kas võin proovida?"
   },
   {
    "id": 229,
    "en": "I'll read more.",
-   "et": ""
+   "et": "Loen veel."
   },
   {
    "id": 230,
    "en": "I'm done reading.",
-   "et": ""
+   "et": "Lugesin läbi."
   },
   {
    "id": 235,
    "en": "Mail a letter.",
-   "et": ""
+   "et": "Saada kiri."
   },
   {
    "id": 236,
    "en": "Access account.",
-   "et": ""
+   "et": "Ava konto."
   },
   {
    "id": 237,
    "en": "Pay mortgage.",
-   "et": ""
+   "et": "Maksa laenu."
   },
   {
    "id": 238,
    "en": "About the land...",
-   "et": ""
+   "et": "Maa kohta..."
   },
   {
    "id": 239,
    "en": "Donate!",
-   "et": ""
+   "et": "Anneta!"
   },
   {
    "id": 240,
    "en": "Moving details.",
-   "et": ""
+   "et": "Kolimise asjus."
   },
   {
    "id": 255,
    "en": "Move.",
-   "et": ""
+   "et": "Koli."
   }
  ]
 }

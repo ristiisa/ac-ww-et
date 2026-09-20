@@ -4,57 +4,57 @@
   {
    "id": 0,
    "en": "Do you want to quit playing\nfor now?",
-   "et": ""
+   "et": "Kas soovid praeguseks\nmängu lõpetada?"
   },
   {
    "id": 1,
    "en": "{ff 00 00 01}Preparing to end your game.\nDo not turn the power off\nor remove the Game Card.{01 10 00 14}",
-   "et": ""
+   "et": "{ff 00 00 01}Valmistun mängu lõpetama.\nÄra lülita toidet välja\nega eemalda mängukaarti.{01 10 00 14}"
   },
   {
    "id": 2,
    "en": "Come back and see us again\nanytime!",
-   "et": ""
+   "et": "Tule meile jälle külla,\nmillal tahes!"
   },
   {
    "id": 4,
    "en": "Do you want to save your \nprogress?{02 05 00 00 00 fe}\nSave & continue.\nParty's over!\nThen again...",
-   "et": ""
+   "et": "Kas soovid oma edenemise\nsalvestada?{02 05 00 00 00 fe}\nSalvesta ja jätka.\nPidu läbi!\nTeisest küljest..."
   },
   {
    "id": 5,
    "en": "That cannot be done now.{01 00 00 0a 00}\nPlease try again later.",
-   "et": ""
+   "et": "Seda ei saa praegu teha.{01 00 00 0a 00}\nPalun proovi hiljem uuesti."
   },
   {
    "id": 6,
    "en": "OK, then, this party is now\nofficially over! Thanks for\nplaying!{01 10 00 28}",
-   "et": ""
+   "et": "Olgu, see pidu on nüüd\nametlikult läbi! Aitäh\nmängimast!{01 10 00 28}"
   },
   {
    "id": 7,
    "en": "{ff 00 00 01}Saving.{01 00 00 0f 00}\nWait a moment, and don't\ntouch the Power Button.{01 10 00 14}",
-   "et": ""
+   "et": "{ff 00 00 01}Salvestan.{01 00 00 0f 00}\nOota hetk ja ära puuduta\ntoitenuppu.{01 10 00 14}"
   },
   {
    "id": 8,
    "en": "Wireless communications\nwill end and your game will\nbe saved.{02 04 00 00 fe}\nOK!\nI'm not done!",
-   "et": ""
+   "et": "Juhtmevaba ühendus\nlõpeb ja mäng\nsalvestatakse.{02 04 00 00 fe}\nOlgu!\nMa pole lõpetanud!"
   },
   {
    "id": 9,
    "en": "{ff 00 00 01}Unable to retrieve data.\nPlease turn the power off\nand reinsert the Game Card.",
-   "et": ""
+   "et": "{ff 00 00 01}Andmeid ei õnnestu lugeda.\nPalun lülita toide välja ja\npane mängukaart tagasi."
   },
   {
    "id": 10,
    "en": "{ff 00 00 01}Could not save.{01 00 00 0a 00} Please\nturn the power off and \nreinsert the Game Card.",
-   "et": ""
+   "et": "{ff 00 00 01}Ei saanud salvestada.{01 00 00 0a 00} Palun\nlülita toide välja ja pane\nmängukaart uuesti sisse."
   },
   {
    "id": 11,
    "en": "{ff 00 00 01}Another player wasn't able\nto save properly.{01 00 00 0a 00}\nEnding the game...",
-   "et": ""
+   "et": "{ff 00 00 01}Teine mängija ei saanud\nkorralikult salvestada.{01 00 00 0a 00}\nLõpetan mängu..."
   }
  ]
 }

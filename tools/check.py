@@ -50,19 +50,49 @@ def body_lines(text):
     return (text[:m.start()] if m else text).split('\n')
 
 
+# Info boxes (encyclopedia, name lists) are narrower than the dialogue box and
+# are not laid out in 3-line pages.
+BOX_WIDTH = 100
+
+
+def profile(path):
+    """(max line width, enforce 3-line pages)
+
+    Encyclopedia entries sit in their own narrow box; the other string tables
+    are single words pasted into sentences, so only their length matters.
+    """
+    if '/string/obj_etc_' in path:
+        return BOX_WIDTH, False
+    if '/string/' in path:
+        return None, False
+    if '/bbs/' in path:  # a fixed-size board, not a paged dialogue box
+        return MAX_WIDTH, False
+    return MAX_WIDTH, True
+
+
 def main(paths):
     problems = 0
     for p in paths:
-        for e in json.load(open(p, encoding='utf-8'))['messages']:
-            if not e['et']:
+        maxw, pages = profile(p)
+        messages = json.load(open(p, encoding='utf-8'))['messages']
+        # The tallest English entry proves how many lines the box can show.
+        max_lines = max((len(body_lines(e['en'])) for e in messages), default=0)
+        for e in messages:
+            if not e['et'] or e['et'] == '{-}':
                 continue
             en, et = body_lines(e['en']), body_lines(e['et'])
-            if len(et) % PAGE_LINES != len(en) % PAGE_LINES:
+            if pages and len(et) % PAGE_LINES != len(en) % PAGE_LINES:
                 print(f'{p} #{e["id"]}: {len(et)} lines vs English {len(en)}')
                 problems += 1
+            if not pages and len(et) > max_lines:
+                print(f'{p} #{e["id"]}: {len(et)} lines, more than the {max_lines} the box shows')
+                problems += 1
+            widest_en = max((width(l) for l in en), default=0)
             for n, line in enumerate(et):
-                if (w := width(line)) > MAX_WIDTH:
-                    print(f'{p} #{e["id"]} line {n + 1}: {w}px > {MAX_WIDTH}: {line!r}')
+                # A line only counts as too wide if it also beats the English
+                # line it replaces (variables are only estimated).
+                if maxw and (w := width(line)) > maxw and w > widest_en:
+                    print(f'{p} #{e["id"]} line {n + 1}: {w}px > {maxw}: {line!r}')
                     problems += 1
             n_en = len(e['en'].split('\n')) - len(en)
             n_et = len(e['et'].split('\n')) - len(et)
@@ -88,4 +118,5 @@ if __name__ == '__main__':
     if sys.argv[1:] == ['--calibrate']:
         calibrate()
     else:
-        sys.exit(1 if main(sys.argv[1:] or glob.glob('translation/**/*.json', recursive=True)) else 0)
+        sys.exit(1 if main(sys.argv[1:] or [p for p in glob.glob('translation/**/*.json', recursive=True)
+                                          if not p.startswith('translation/tables/')]) else 0)

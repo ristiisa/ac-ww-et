@@ -4,312 +4,312 @@
   {
    "id": 0,
    "en": "To configure your {ff 00 00 01}Nintendo\nWi-Fi Connection {ff 00 00 00}settings,\n\nyou must connect to\n{ff 00 00 01}Nintendo WFC{ff 00 00 00}. Would you\nlike to continue?",
-   "et": ""
+   "et": "{ff 00 00 01}Nintendo Wi-Fi\nühenduse {ff 00 00 00}seadete jaoks\n\npead ühenduma võrguga\n{ff 00 00 01}Nintendo WFC{ff 00 00 00}. Kas soovid\njätkata?"
   },
   {
    "id": 1,
    "en": "What brings you here\ntoday?",
-   "et": ""
+   "et": "Mis sind täna\nsiia toob?"
   },
   {
    "id": 2,
    "en": "So you want to add a new\nresident to {04 03 00}.{02 04 00 27 31}\nYes!\nNo.",
-   "et": ""
+   "et": "Soovid siis linna\n{04 03 00} uut elanikku.{02 04 00 27 31}\nJah!\nEi."
   },
   {
    "id": 3,
    "en": "Do you want to kick out\nsomeone who is currently\nliving in {04 03 00}?\nAnd just who would that be?",
-   "et": ""
+   "et": "Kas soovid välja saata\nkellegi, kes praegu elab\nlinnas {04 03 00}?\nJa kes see oleks?"
   },
   {
    "id": 4,
    "en": ".{01 00 00 05 00}.{01 00 00 05 00}.You want to kick out\n{ff 00 00 05}{04 0f 00}{ff 00 00 00}?{01 00 00 05 00} You'll never\nsee {ff 00 00 05}{04 0f 00}{ff 00 00 00} if you do!\nAnd all the furniture, Bells,\nand items {ff 00 00 05}{04 0f 00} {ff 00 00 00}had\nwill also disappear!\nIn fact, all record of\n{ff 00 00 05}{04 0f 00} {ff 00 00 00}in {04 03 00}\nwill be erased!\nAre you sure you want to\ndo this deed?{02 00 00 05 06}\nMaybe not...\nAdios!",
-   "et": ""
+   "et": ".{01 00 00 05 00}.{01 00 00 05 00}.Soovid välja saata\n{ff 00 00 05}{04 0f 00}{ff 00 00 00}?{01 00 00 05 00} Siis sa ei näe\n{ff 00 00 05}{04 0f 00}{ff 00 00 00} enam kunagi!\nJa mööbel, kellad ja\nasjad, mis {ff 00 00 05}{04 0f 00} {ff 00 00 00}omas,\nkaovad samuti!\nKõik jäljed {ff 00 00 05}{04 0f 00} {ff 00 00 00}kohta\nlinnas {04 03 00}\nkustutatakse!\nKas sa oled kindel,\net soovid seda teha?{02 00 00 05 06}\nEhk siiski mitte...\nAdios!"
   },
   {
    "id": 5,
    "en": "Well, I'm glad you changed\nyour mind.{01 01 00} I bet\n{ff 00 00 05}{04 0f 00}{ff 00 00 00} is glad, too.",
-   "et": ""
+   "et": "Hea, et sa meelt\nmuutsid.{01 01 00} Kindlasti on\n{ff 00 00 05}{04 0f 00}{ff 00 00 00} ka rõõmus."
   },
   {
    "id": 6,
    "en": "Then all records of\n{ff 00 00 05}{04 0f 00}{ff 00 00 00} in {04 03 00}\nwill be erased!\nIt'll be like {ff 00 00 05}{04 0f 00}{ff 00 00 00}\nwas never even here!",
-   "et": ""
+   "et": "Siis kustutatakse kõik\njäljed {ff 00 00 05}{04 0f 00}{ff 00 00 00} kohta\nlinnas {04 03 00}!\nNagu poleks {ff 00 00 05}{04 0f 00}{ff 00 00 00}\nsiin kunagi olnudki!"
   },
   {
    "id": 7,
    "en": "{ff 00 00 01}Revising the town records.{01 00 00 0a 00}\nPlease wait a moment and \ndo not turn the power off.{01 10 00 14}",
-   "et": ""
+   "et": "{ff 00 00 01}Uuendan linna andmeid.{01 00 00 0a 00}\nPalun oota hetk ja ära\nlülita toidet välja.{01 10 00 14}"
   },
   {
    "id": 8,
    "en": "{ff 00 00 05}{0b 03 00}{04 0f 00}{ff 00 00 00} has been kicked\nout of {04 03 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n\nFarewell, {ff 00 00 05}{04 0f 00}{ff 00 00 00}!",
-   "et": ""
+   "et": "{ff 00 00 05}{0b 03 00}{04 0f 00}{ff 00 00 00} saadeti linnast\n{04 03 00} välja.{01 00 00 05 00}.{01 00 00 05 00}.\n\nHüvasti, {ff 00 00 05}{04 0f 00}{ff 00 00 00}!"
   },
   {
    "id": 9,
    "en": "If you rebuild the town,\n{04 03 00} as you know it\nwill be gone forever!\nEveryone who lives here,{01 00 00 05 00}\nall the stuff they've\ncollected...{01 00 00 05 00}POOF!{01 00 00 05 00} Gone!{01 00 00 0a 00}\nAnd it will NEVER come back!\nSo, you really want to get\nrid of {04 03 00}?{02 00 00 0a 0b}\nNever mind.\nYes! Rebuild!",
-   "et": ""
+   "et": "Kui sa linna uuesti ehitad,\nkaob {04 03 00} sellisena,\nnagu sa teda tead!\nKõik, kes siin elavad,{01 00 00 05 00}\nkõik, mis nad on kogunud...\n{01 00 00 05 00}PAHVATUS!{01 00 00 05 00} Läinud!{01 00 00 0a 00}\nJa see EI tule enam tagasi!\nKas tahad tõesti linnast\n{04 03 00} lahti saada?{02 00 00 0a 0b}\nPole midagi.\nJah! Ehita uuesti!"
   },
   {
    "id": 10,
    "en": "Phew!{01 00 00 05 00} That was a close one.{01 00 00 05 00}\nGood!{01 00 00 05 00} No rebuilding!",
-   "et": ""
+   "et": "Uhh!{01 00 00 05 00} See oli napp.{01 00 00 05 00}\nHästi!{01 00 00 05 00} Ei ehitata uuesti!"
   },
   {
    "id": 11,
    "en": "Really?{01 00 00 05 00} Really and truly?{01 01 00}\nWell, if you're absolutely\nfirm in your decision{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\nThen I'll just get rid of\n{04 03 00} and everyone\nand everything in it!",
-   "et": ""
+   "et": "Tõesti?{01 00 00 05 00} Päriselt ka?{01 01 00}\nNoh, kui sa oled oma\notsuses kindel{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\nSiis saan ma lahti linnast\n{04 03 00} ja kõigist\nning kõigest selle sees!"
   },
   {
    "id": 12,
    "en": "{ff 00 00 01}Erasing town data...{01 00 00 0a 00}\nPlease wait a moment and \ndo not turn the power off!{01 10 00 14}",
-   "et": ""
+   "et": "{ff 00 00 01}Kustutan linna andmeid...{01 00 00 0a 00}\nPalun oota hetk ja ära\nlülita toidet välja!{01 10 00 14}"
   },
   {
    "id": 13,
    "en": "{0b 03 00}{04 03 00} and all its\nresidents have been erased.\n\nWell, enjoy your new life...",
-   "et": ""
+   "et": "{0b 03 00}{04 03 00} ja kõik selle\nelanikud on kustutatud.\n\nNoh, naudi uut elu..."
   },
   {
    "id": 14,
    "en": "This is the {04 03 00}\n{ff 00 00 08}Service Center{ff 00 00 00}, where we\nadjust life to your needs.\nWhat can we do for you \ntoday?",
-   "et": ""
+   "et": "See on linna {04 03 00}\n{ff 00 00 08}teeninduskeskus{ff 00 00 00}, kus me\nkohandame elu sinu järgi.\nMida saame sinu heaks\ntäna teha?"
   },
   {
    "id": 15,
    "en": "Oh, you'd like us to adjust\nthe clock?",
-   "et": ""
+   "et": "Ahjaa, soovid, et me\nkella seadistaks?"
   },
   {
    "id": 16,
    "en": "Very good.{01 00 00 05 00} I believe we're\nall on time now!",
-   "et": ""
+   "et": "Väga hea.{01 00 00 05 00} Usun, et nüüd\noleme kõik ajas järjel!"
   },
   {
    "id": 17,
    "en": "And how would you prefer\neveryone talk to you?{02 01 00 2a 2b 2c}\nAnimalese.\nBebebese.\nJust keep quiet!",
-   "et": ""
+   "et": "Ja kuidas sa eelistad,\net sinuga räägitakse?{02 01 00 2a 2b 2c}\nLoomakeel.\nBebebe-keel.\nOlgu lihtsalt vait!"
   },
   {
    "id": 18,
    "en": "I understand.{01 00 00 0a 00} I'll process\nyour request immediately.",
-   "et": ""
+   "et": "Saan aru.{01 00 00 0a 00} Täidan sinu\nsoovi kohe."
   },
   {
    "id": 19,
    "en": "I understand.{01 00 00 0a 00} Well then, I'll\nmake sure you don't\ndownload anything.",
-   "et": ""
+   "et": "Saan aru.{01 00 00 0a 00} Siis hoolitsen\nselle eest, et sa midagi\nalla ei laadiks."
   },
   {
    "id": 20,
    "en": "And how would like text to\ndisplay in town?\n\nDo you mind if messages\nare written in {ff 00 00 02}Kanji{ff 00 00 00}?\n\nOr would you prefer we\nwrite in {ff 00 00 02}Hiragana{ff 00 00 00} for you?{02 00 00 15 16}\nKanji is fine.\nHiragana, please.",
-   "et": ""
+   "et": "Ja kuidas peaks tekst\nlinnas olema?\n\nKas sind häirib, kui\nsõnumid on {ff 00 00 02}kandžis{ff 00 00 00}?\n\nVõi eelistad, et kirjutame\nsulle {ff 00 00 02}hiraganas{ff 00 00 00}?{02 00 00 15 16}\nKandži sobib.\nHiragana, palun."
   },
   {
    "id": 21,
    "en": "Very good, then.{01 00 00 0a 00}\nFrom now on, we will display\ntext in {ff 00 00 02}Kanji{ff 00 00 00}.",
-   "et": ""
+   "et": "Väga hea.{01 00 00 0a 00}\nEdaspidi näitame teksti\n{ff 00 00 02}kandžis{ff 00 00 00}."
   },
   {
    "id": 22,
    "en": "I understand.{01 00 00 0a 00}\nIn that case, we'll display\nall text in {ff 00 00 02}Hiragana{ff 00 00 00}.",
-   "et": ""
+   "et": "Saan aru.{01 00 00 0a 00}\nSel juhul näitame kogu\nteksti {ff 00 00 02}hiraganas{ff 00 00 00}."
   },
   {
    "id": 23,
    "en": "Do you mind if a\n{ff 00 00 06}mysterious cat{ff 00 00 00} visits your\ntown?{02 00 00 1a 1a}\nI welcome all!\nStay out!",
-   "et": ""
+   "et": "Kas sind häirib, kui\n{ff 00 00 06}salapärane kass{ff 00 00 00} sinu linna\nkülastab?{02 00 00 1a 1a}\nOlgu kõik teretulnud!\nJäägu eemale!"
   },
   {
    "id": 24,
    "en": "I see you want to quit.",
-   "et": ""
+   "et": "Näen, et soovid lõpetada."
   },
   {
    "id": 26,
    "en": "What about downloading\nletters and bulletin board\nmessages?{02 00 00 12 13}\nThat's fine!\nI'll pass.",
-   "et": ""
+   "et": "Aga kirjade ja\nteadetetahvli sõnumite\nallalaadimine?{02 00 00 12 13}\nSee sobib!\nJätan vahele."
   },
   {
    "id": 27,
    "en": "And what about sound?\nWhat is your preference?",
-   "et": ""
+   "et": "Ja heli?\nMida sa eelistad?"
   },
   {
    "id": 28,
    "en": "OK,{01 00 00 05 00} {ff 00 00 02}Stereo{ff 00 00 00} it is!",
-   "et": ""
+   "et": "Olgu,{01 00 00 05 00} {ff 00 00 02}stereo{ff 00 00 00} siis!"
   },
   {
    "id": 29,
    "en": "Huh?{01 01 00} It seems you can't\nmake a call right now{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.",
-   "et": ""
+   "et": "Ah?{01 01 00} Paistab, et praegu ei\nsaa sa kõnet teha{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}."
   },
   {
    "id": 30,
    "en": "Very good.{01 00 00 05 00} I've set it to\n{ff 00 00 02}Surround Sound{ff 00 00 00}.",
-   "et": ""
+   "et": "Väga hea.{01 00 00 05 00} Panin peale\n{ff 00 00 02}ruumilise heli{ff 00 00 00}."
   },
   {
    "id": 31,
    "en": "Is there anything else I can\ndo for you?",
-   "et": ""
+   "et": "Kas saan veel midagi\nsinu heaks teha?"
   },
   {
    "id": 32,
    "en": "Give us a call anytime you\nneed anything.",
-   "et": ""
+   "et": "Helista meile alati, kui\nsul midagi vaja on."
   },
   {
    "id": 34,
    "en": "Please wake up your player,\nwho you'll notice is sleeping\non the bed.\nTo do so, just {ff 00 00 01}touch{ff 00 00 00} your\nplayer.{01 00 00 05 00} Simple!\n\nUse the {ff 00 00 01}+Control Pad{ff 00 00 00} to\nmove the cursor and the\n{ff 00 00 01}A Button{ff 00 00 00}{01 00 00 05 00} to wake up.\nAlso, choose the {ff 00 00 02}phone {ff 00 00 00}to\nchange settings.{01 00 00 0a 00}\nGive it a try.",
-   "et": ""
+   "et": "Palun ärata oma mängija,\nkes praegu magab\nvoodis.\nSelleks lihtsalt {ff 00 00 01}puuduta{ff 00 00 00}\nteda.{01 00 00 05 00} Lihtne!\n\nKursori liigutamiseks\nkasuta {ff 00 00 01}juhtnuppu{ff 00 00 00} ja\n{ff 00 00 01}A-nuppu{ff 00 00 00}{01 00 00 05 00} äratamiseks.\nSeadete muutmiseks vali\n{ff 00 00 02}telefon{ff 00 00 00}.{01 00 00 0a 00}\nProovi järele."
   },
   {
    "id": 35,
    "en": "{ff 00 00 01}Searching for a companion.{01 00 00 0f 00}\nPlease wait a moment...{01 10 00 14}",
-   "et": ""
+   "et": "{ff 00 00 01}Otsin kaaslast.{01 00 00 0f 00}\nPalun oota hetk...{01 10 00 14}"
   },
   {
    "id": 36,
    "en": "Someone is moving in, so\na new game will begin.",
-   "et": ""
+   "et": "Keegi kolib sisse, nii et\nalgab uus mäng."
   },
   {
    "id": 37,
    "en": "{ff 00 00 01}I can't find anyone to\ncommunicate with. {01 00 00 0f 00}I'm\ngoing to stop looking now.",
-   "et": ""
+   "et": "{ff 00 00 01}Ma ei leia kedagi, kellega\nühendust luua. {01 00 00 0f 00}Lõpetan\nnüüd otsimise."
   },
   {
    "id": 38,
    "en": "{ff 00 00 01}Recording move data.{01 00 00 0f 00}\nDo not turn the power off.{01 00 00 05 00}\nPlease wait...{01 10 00 14}",
-   "et": ""
+   "et": "{ff 00 00 01}Salvestan kolimisandmeid.{01 00 00 0f 00}\nÄra lülita toidet välja.{01 00 00 05 00}\nPalun oota...{01 10 00 14}"
   },
   {
    "id": 39,
    "en": "OK.",
-   "et": ""
+   "et": "Olgu."
   },
   {
    "id": 40,
    "en": "{ff 00 00 01}Preparing {04 03 00}.{01 00 00 05 00}\nDo not turn the power off\nor remove the Game Card.{01 10 00 14}",
-   "et": ""
+   "et": "{ff 00 00 01}Valmistan ette {04 03 00}.{01 00 00 05 00}\nÄra lülita toidet välja\nega eemalda mängukaarti.{01 10 00 14}"
   },
   {
    "id": 41,
    "en": "Preparations complete!{01 00 00 14 00}\nHave fun in {04 03 00}!{01 10 00 28}",
-   "et": ""
+   "et": "Ettevalmistused tehtud!{01 00 00 14 00}\nLõbutse linnas {04 03 00}!{01 10 00 28}"
   },
   {
    "id": 42,
    "en": "{ff 00 00 02}Animalese{ff 00 00 00} sounds like this.\nIs this OK?{02 00 00 1f 11}\nThis is fine.\nNo, I'll change it.",
-   "et": ""
+   "et": "{ff 00 00 02}Loomakeel{ff 00 00 00} kõlab nii.\nKas sobib?{02 00 00 1f 11}\nSee sobib.\nEi, muudan ära."
   },
   {
    "id": 43,
    "en": "{ff 00 00 02}Bebebese{ff 00 00 00} sounds like this.\nIs this OK?{02 00 00 1f 11}\nThis is fine.\nNo, I'll change it.",
-   "et": ""
+   "et": "{ff 00 00 02}Bebebe-keel{ff 00 00 00} kõlab nii.\nKas sobib?{02 00 00 1f 11}\nSee sobib.\nEi, muudan ära."
   },
   {
    "id": 44,
    "en": "This is what {ff 00 00 02}silence {ff 00 00 00}sounds\nlike. Is this OK?{02 00 00 1f 11}\nThis is fine.\nNo, I'll change it.",
-   "et": ""
+   "et": "Nii kõlab {ff 00 00 02}vaikus{ff 00 00 00}.\nKas sobib?{02 00 00 1f 11}\nSee sobib.\nEi, muudan ära."
   },
   {
    "id": 45,
    "en": "Good morning!{01 00 00 05 00}\nYou came to play, did you?",
-   "et": ""
+   "et": "Tere hommikust!{01 00 00 05 00}\nTulid mängima, jah?"
   },
   {
    "id": 46,
    "en": "Hello!{01 00 00 05 00}\nYou came to play, did you?",
-   "et": ""
+   "et": "Tere!{01 00 00 05 00}\nTulid mängima, jah?"
   },
   {
    "id": 47,
    "en": "Hello there!{01 00 00 05 00}\nYou came to play, did you?",
-   "et": ""
+   "et": "Tere sulle!{01 00 00 05 00}\nTulid mängima, jah?"
   },
   {
    "id": 48,
    "en": "OK. I'm going to look for a\nplayer to move in now!\n\nWould you like to start the\n{ff 00 00 01}DS Wireless Communication{ff 00 00 00}?",
-   "et": ""
+   "et": "Olgu. Otsin nüüd mängijat,\nkes siia kolida tahaks!\n\nKas soovid käivitada\n{ff 00 00 01}DS-i juhtmevaba side{ff 00 00 00}?"
   },
   {
    "id": 49,
    "en": "Let's try {01 00 00 05 00}one more time.",
-   "et": ""
+   "et": "Proovime {01 00 00 05 00}veel korra."
   },
   {
    "id": 50,
    "en": "{ff 00 00 01}The Wi-Fi ID may have been\nerased.\n\nPlease check your access\npoint settings with Nintendo\nWFC setup.",
-   "et": ""
+   "et": "{ff 00 00 01}Wi-Fi ID võib olla\nkustutatud.\n\nPalun kontrolli pääsupunkti\nseadeid Nintendo WFC\nseadistuses."
   },
   {
    "id": 53,
    "en": "Would you like to start the\n{ff 00 00 01}DS Wireless Communication{ff 00 00 00}?",
-   "et": ""
+   "et": "Kas soovid käivitada\n{ff 00 00 01}DS-i juhtmevaba side{ff 00 00 00}?"
   },
   {
    "id": 54,
    "en": "{ff 00 00 01}Unable to register.{01 00 00 0a 00}\nPlease turn the power off \nand reinsert the Game Card.",
-   "et": ""
+   "et": "{ff 00 00 01}Ei saa registreerida.{01 00 00 0a 00}\nPalun lülita toide välja ja\npane mängukaart tagasi."
   },
   {
    "id": 55,
    "en": "You need to buy a {ff 00 00 07}note in \na bottle{ff 00 00 00} and release it in\norder to start Tag Mode.",
-   "et": ""
+   "et": "Sildirežiimi alustamiseks\npead ostma {ff 00 00 07}pudeliposti{ff 00 00 00}\nja selle vette laskma."
   },
   {
    "id": 56,
    "en": "My, my, {01 00 00 05 00}thanks for coming.{01 00 00 14 00}\nI guess that's my cue to \nstart{ff 00 00 02} Tag Mode{ff 00 00 00}!\nI should warn you, I might\nsave without telling you.\n\nJust don't turn the power\noff or pull out the Game\nCard, and we'll be fine.\nEither {ff 00 00 01}tap{ff 00 00 00} the Touch\nScreen or press the\n{ff 00 00 01}A Button{ff 00 00 00} to exit.",
-   "et": ""
+   "et": "Oh sa,{01 00 00 05 00} aitäh, et tulid.{01 00 00 14 00}\nVist on see mulle märguanne\nalustada{ff 00 00 02} sildirežiimi{ff 00 00 00}!\nHoiatan sind, ma võin\nsalvestada sulle ütlemata.\n\nÄra lihtsalt lülita toidet\nvälja ega tõmba kaarti\nvälja, siis on kõik hästi.\nVäljumiseks kas {ff 00 00 01}koputa{ff 00 00 00}\npuuteekraanile või vajuta\n{ff 00 00 01}A-nuppu{ff 00 00 00}."
   },
   {
    "id": 57,
    "en": "{ff 00 00 01}You are in Tag Mode and\nmay close your DS at this\ntime.{01 10 00 05}",
-   "et": ""
+   "et": "{ff 00 00 01}Oled sildirežiimis ja\nvõid nüüd oma DS-i\nkinni panna.{01 10 00 05}"
   },
   {
    "id": 58,
    "en": "You have not encountered \nanyone. Do you still\nwant to continue?{02 00 00 39 3b}\nContinue.\nQuit.",
-   "et": ""
+   "et": "Sa pole kedagi kohanud.\nKas soovid ikka\njätkata?{02 00 00 39 3b}\nJätka.\nLõpeta."
   },
   {
    "id": 59,
    "en": "Well then, {01 00 00 05 00}see you later!",
-   "et": ""
+   "et": "Noh siis, {01 00 00 05 00}näeme hiljem!"
   },
   {
    "id": 60,
    "en": "It looks like something has\narrived for you!{01 00 00 14 00} Please\nstart your game!",
-   "et": ""
+   "et": "Paistab, et sulle on midagi\nsaabunud!{01 00 00 14 00} Palun\nkäivita oma mäng!"
   },
   {
    "id": 61,
    "en": "You were unable to connect.\nWould you like to try again?{02 00 00 39 3b}\nTry again.\nStop.",
-   "et": ""
+   "et": "Ühendust ei saanud.\nKas soovid uuesti proovida?{02 00 00 39 3b}\nProovi uuesti.\nLõpeta."
   },
   {
    "id": 63,
    "en": "Currently, this town can\nreceive{01 00 00 05 00} the following:\n\nThe {ff 00 00 06}mysterious cat{ff 00 00 00},\nbulletin board messages,\nand letters. ",
-   "et": ""
+   "et": "Praegu saab see linn\nvastu võtta{01 00 00 05 00} järgmist:\n\n{ff 00 00 06}salapärane kass{ff 00 00 00},\nteadetetahvli sõnumid\nja kirjad."
   },
   {
    "id": 64,
    "en": "The {ff 00 00 06}mysterious cat {ff 00 00 00}will not\nvisit this town.\n\nHowever, this town can\ndownload bulletin board\nmessages and letters.",
-   "et": ""
+   "et": "{ff 00 00 06}Salapärane kass {ff 00 00 00}ei külasta\nseda linna.\n\nSee linn saab aga laadida\nteadetetahvli sõnumeid\nja kirju."
   },
   {
    "id": 65,
    "en": "The {ff 00 00 06}mysterious cat{ff 00 00 00} can now\nvisit this town.\n\nHowever, this town will not\ndownload bulletin board\nmessages and letters.",
-   "et": ""
+   "et": "{ff 00 00 06}Salapärane kass{ff 00 00 00} võib nüüd\nseda linna külastada.\n\nSee linn aga ei lae alla\nteadetetahvli sõnumeid\nega kirju."
   },
   {
    "id": 66,
    "en": "Currently, this town will\nnot receive the following:\n\nThe {ff 00 00 06}mysterious cat{ff 00 00 00},\nbulletin board messages,\nor letters.",
-   "et": ""
+   "et": "Praegu ei võta see linn\nvastu järgmist:\n\n{ff 00 00 06}salapärane kass{ff 00 00 00},\nteadetetahvli sõnumid\nega kirjad."
   }
  ]
 }

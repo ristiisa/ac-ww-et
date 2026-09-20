@@ -1,0 +1,10542 @@
+{
+ "file": "ftr_info/dma.bin",
+ "max": 16,
+ "names": [
+  {
+   "ids": [
+    0
+   ],
+   "en": "exotic bed",
+   "et": "idamaine voodi"
+  },
+  {
+   "ids": [
+    1
+   ],
+   "en": "exotic bureau",
+   "et": "idamaine kummut"
+  },
+  {
+   "ids": [
+    2
+   ],
+   "en": "exotic wardrobe",
+   "et": "idamaine kapp"
+  },
+  {
+   "ids": [
+    3
+   ],
+   "en": "exotic bench",
+   "et": "idamaine pink"
+  },
+  {
+   "ids": [
+    4
+   ],
+   "en": "exotic chair",
+   "et": "idamaine tool"
+  },
+  {
+   "ids": [
+    5
+   ],
+   "en": "exotic table",
+   "et": "idamaine laud"
+  },
+  {
+   "ids": [
+    6
+   ],
+   "en": "exotic end table",
+   "et": "idamaine öökapp"
+  },
+  {
+   "ids": [
+    7
+   ],
+   "en": "exotic lamp",
+   "et": "idamaine lamp"
+  },
+  {
+   "ids": [
+    8
+   ],
+   "en": "exotic screen",
+   "et": "idamaine sirm"
+  },
+  {
+   "ids": [
+    9
+   ],
+   "en": "exotic chest",
+   "et": "idamaine kirst"
+  },
+  {
+   "ids": [
+    10
+   ],
+   "en": "ranch bed",
+   "et": "rantšo voodi"
+  },
+  {
+   "ids": [
+    11
+   ],
+   "en": "ranch dresser",
+   "et": "rantšo kummut"
+  },
+  {
+   "ids": [
+    12
+   ],
+   "en": "ranch wardrobe",
+   "et": "rantšo kapp"
+  },
+  {
+   "ids": [
+    13
+   ],
+   "en": "ranch couch",
+   "et": "rantšo diivan"
+  },
+  {
+   "ids": [
+    14
+   ],
+   "en": "ranch armchair",
+   "et": "rantšo tugitool"
+  },
+  {
+   "ids": [
+    15
+   ],
+   "en": "ranch chair",
+   "et": "rantšo tool"
+  },
+  {
+   "ids": [
+    16
+   ],
+   "en": "ranch table",
+   "et": "rantšo laud"
+  },
+  {
+   "ids": [
+    17
+   ],
+   "en": "ranch tea table",
+   "et": "rantšo teelaud"
+  },
+  {
+   "ids": [
+    18
+   ],
+   "en": "ranch bookcase",
+   "et": "rantšo riiul"
+  },
+  {
+   "ids": [
+    19
+   ],
+   "en": "ranch hutch",
+   "et": "rantšo puur"
+  },
+  {
+   "ids": [
+    20
+   ],
+   "en": "classic bed",
+   "et": "klassika voodi"
+  },
+  {
+   "ids": [
+    21
+   ],
+   "en": "classic vanity",
+   "et": "klassika peegel"
+  },
+  {
+   "ids": [
+    22
+   ],
+   "en": "classic wardrobe",
+   "et": "klassika kapp"
+  },
+  {
+   "ids": [
+    23
+   ],
+   "en": "classic chair",
+   "et": "klassika tool"
+  },
+  {
+   "ids": [
+    24
+   ],
+   "en": "classic sofa",
+   "et": "klassika diivan"
+  },
+  {
+   "ids": [
+    25
+   ],
+   "en": "classic table",
+   "et": "klassika laud"
+  },
+  {
+   "ids": [
+    26
+   ],
+   "en": "classic bookcase",
+   "et": "klassika riiul"
+  },
+  {
+   "ids": [
+    27
+   ],
+   "en": "classic buffet",
+   "et": "klassika puhvet"
+  },
+  {
+   "ids": [
+    28
+   ],
+   "en": "classic desk",
+   "et": "klassika töölaud"
+  },
+  {
+   "ids": [
+    29
+   ],
+   "en": "classic clock",
+   "et": "klassika kell"
+  },
+  {
+   "ids": [
+    30
+   ],
+   "en": "regal bed",
+   "et": "kuninglik voodi"
+  },
+  {
+   "ids": [
+    31
+   ],
+   "en": "regal dresser",
+   "et": "kuninglik kummut"
+  },
+  {
+   "ids": [
+    32
+   ],
+   "en": "regal armoire",
+   "et": "kuninglik kapp"
+  },
+  {
+   "ids": [
+    33
+   ],
+   "en": "regal chair",
+   "et": "kuninglik tool"
+  },
+  {
+   "ids": [
+    34
+   ],
+   "en": "regal sofa",
+   "et": "kuninglik diivan"
+  },
+  {
+   "ids": [
+    35
+   ],
+   "en": "regal table",
+   "et": "kuninglik laud"
+  },
+  {
+   "ids": [
+    36
+   ],
+   "en": "regal lamp",
+   "et": "kuninglik lamp"
+  },
+  {
+   "ids": [
+    37
+   ],
+   "en": "regal clock",
+   "et": "kuninglik kell"
+  },
+  {
+   "ids": [
+    38
+   ],
+   "en": "regal bookcase",
+   "et": "kuninglik riiul"
+  },
+  {
+   "ids": [
+    39
+   ],
+   "en": "regal vanity",
+   "et": "kuninglik peegel"
+  },
+  {
+   "ids": [
+    40
+   ],
+   "en": "blue bed",
+   "et": "sinine voodi"
+  },
+  {
+   "ids": [
+    41
+   ],
+   "en": "blue bureau",
+   "et": "sinine kummut"
+  },
+  {
+   "ids": [
+    42
+   ],
+   "en": "blue wardrobe",
+   "et": "sinine kapp"
+  },
+  {
+   "ids": [
+    43
+   ],
+   "en": "blue chair",
+   "et": "sinine tool"
+  },
+  {
+   "ids": [
+    44
+   ],
+   "en": "blue bench",
+   "et": "sinine pink"
+  },
+  {
+   "ids": [
+    45
+   ],
+   "en": "blue table",
+   "et": "sinine laud"
+  },
+  {
+   "ids": [
+    46
+   ],
+   "en": "blue bookcase",
+   "et": "sinine riiul"
+  },
+  {
+   "ids": [
+    47
+   ],
+   "en": "blue cabinet",
+   "et": "sinine kapp"
+  },
+  {
+   "ids": [
+    48
+   ],
+   "en": "blue clock",
+   "et": "sinine kell"
+  },
+  {
+   "ids": [
+    49
+   ],
+   "en": "blue dresser",
+   "et": "sinine kummut"
+  },
+  {
+   "ids": [
+    50
+   ],
+   "en": "cabana bed",
+   "et": "cabana voodi"
+  },
+  {
+   "ids": [
+    51
+   ],
+   "en": "cabana dresser",
+   "et": "cabana kummut"
+  },
+  {
+   "ids": [
+    52
+   ],
+   "en": "cabana wardrobe",
+   "et": "cabana kapp"
+  },
+  {
+   "ids": [
+    53
+   ],
+   "en": "cabana chair",
+   "et": "cabana tool"
+  },
+  {
+   "ids": [
+    54
+   ],
+   "en": "cabana armchair",
+   "et": "cabana tugitool"
+  },
+  {
+   "ids": [
+    55
+   ],
+   "en": "cabana table",
+   "et": "cabana laud"
+  },
+  {
+   "ids": [
+    56
+   ],
+   "en": "cabana lamp",
+   "et": "cabana lamp"
+  },
+  {
+   "ids": [
+    57
+   ],
+   "en": "cabana bookcase",
+   "et": "cabana riiul"
+  },
+  {
+   "ids": [
+    58
+   ],
+   "en": "cabana vanity",
+   "et": "cabana peegel"
+  },
+  {
+   "ids": [
+    59
+   ],
+   "en": "cabana screen",
+   "et": "cabana sirm"
+  },
+  {
+   "ids": [
+    60
+   ],
+   "en": "green bed",
+   "et": "roheline voodi"
+  },
+  {
+   "ids": [
+    61
+   ],
+   "en": "green dresser",
+   "et": "roheline kummut"
+  },
+  {
+   "ids": [
+    62
+   ],
+   "en": "green wardrobe",
+   "et": "roheline kapp"
+  },
+  {
+   "ids": [
+    63
+   ],
+   "en": "green chair",
+   "et": "roheline tool"
+  },
+  {
+   "ids": [
+    64
+   ],
+   "en": "green bench",
+   "et": "roheline pink"
+  },
+  {
+   "ids": [
+    65
+   ],
+   "en": "green table",
+   "et": "roheline laud"
+  },
+  {
+   "ids": [
+    66
+   ],
+   "en": "green desk",
+   "et": "roheline töölaud"
+  },
+  {
+   "ids": [
+    67
+   ],
+   "en": "green lamp",
+   "et": "roheline lamp"
+  },
+  {
+   "ids": [
+    68
+   ],
+   "en": "green counter",
+   "et": "roheline lett"
+  },
+  {
+   "ids": [
+    69
+   ],
+   "en": "green pantry",
+   "et": "roheline sahver"
+  },
+  {
+   "ids": [
+    70
+   ],
+   "en": "cabin bed",
+   "et": "palkmaja voodi"
+  },
+  {
+   "ids": [
+    71
+   ],
+   "en": "cabin dresser",
+   "et": "palkmaja kummut"
+  },
+  {
+   "ids": [
+    72
+   ],
+   "en": "cabin wardrobe",
+   "et": "palkmaja kapp"
+  },
+  {
+   "ids": [
+    73
+   ],
+   "en": "cabin chair",
+   "et": "palkmaja tool"
+  },
+  {
+   "ids": [
+    74
+   ],
+   "en": "cabin armchair",
+   "et": "palkm. tugitool"
+  },
+  {
+   "ids": [
+    75
+   ],
+   "en": "cabin couch",
+   "et": "palkmaja diivan"
+  },
+  {
+   "ids": [
+    76
+   ],
+   "en": "cabin table",
+   "et": "palkmaja laud"
+  },
+  {
+   "ids": [
+    77
+   ],
+   "en": "cabin low table",
+   "et": "palkmaja lauake"
+  },
+  {
+   "ids": [
+    78
+   ],
+   "en": "cabin bookcase",
+   "et": "palkmaja riiul"
+  },
+  {
+   "ids": [
+    79
+   ],
+   "en": "cabin clock",
+   "et": "palkmaja kell"
+  },
+  {
+   "ids": [
+    80
+   ],
+   "en": "modern bed",
+   "et": "moodne voodi"
+  },
+  {
+   "ids": [
+    81
+   ],
+   "en": "modern dresser",
+   "et": "moodne kummut"
+  },
+  {
+   "ids": [
+    82
+   ],
+   "en": "modern wardrobe",
+   "et": "moodne kapp"
+  },
+  {
+   "ids": [
+    83
+   ],
+   "en": "modern chair",
+   "et": "moodne tool"
+  },
+  {
+   "ids": [
+    84
+   ],
+   "en": "modern sofa",
+   "et": "moodne diivan"
+  },
+  {
+   "ids": [
+    85
+   ],
+   "en": "modern end table",
+   "et": "moodne öökapp"
+  },
+  {
+   "ids": [
+    86
+   ],
+   "en": "modern desk",
+   "et": "moodne töölaud"
+  },
+  {
+   "ids": [
+    87
+   ],
+   "en": "modern table",
+   "et": "moodne laud"
+  },
+  {
+   "ids": [
+    88
+   ],
+   "en": "modern cabinet",
+   "et": "moodne kapp"
+  },
+  {
+   "ids": [
+    89
+   ],
+   "en": "modern lamp",
+   "et": "moodne lamp"
+  },
+  {
+   "ids": [
+    90
+   ],
+   "en": "kiddie bed",
+   "et": "lastetoa voodi"
+  },
+  {
+   "ids": [
+    91
+   ],
+   "en": "kiddie dresser",
+   "et": "lastetoa kummut"
+  },
+  {
+   "ids": [
+    92
+   ],
+   "en": "kiddie wardrobe",
+   "et": "lastetoa kapp"
+  },
+  {
+   "ids": [
+    93
+   ],
+   "en": "kiddie couch",
+   "et": "lastetoa diivan"
+  },
+  {
+   "ids": [
+    94
+   ],
+   "en": "kiddie chair",
+   "et": "lastetoa tool"
+  },
+  {
+   "ids": [
+    95
+   ],
+   "en": "kiddie table",
+   "et": "lastetoa laud"
+  },
+  {
+   "ids": [
+    96
+   ],
+   "en": "kiddie bureau",
+   "et": "lastetoa kummut"
+  },
+  {
+   "ids": [
+    97
+   ],
+   "en": "kiddie bookcase",
+   "et": "lastetoa riiul"
+  },
+  {
+   "ids": [
+    98
+   ],
+   "en": "kiddie clock",
+   "et": "lastetoa kell"
+  },
+  {
+   "ids": [
+    99
+   ],
+   "en": "kiddie stereo",
+   "et": "lastetoa stereo"
+  },
+  {
+   "ids": [
+    100
+   ],
+   "en": "lovely bed",
+   "et": "armas voodi"
+  },
+  {
+   "ids": [
+    101
+   ],
+   "en": "lovely dresser",
+   "et": "armas kummut"
+  },
+  {
+   "ids": [
+    102
+   ],
+   "en": "lovely armoire",
+   "et": "armas riidekapp"
+  },
+  {
+   "ids": [
+    103
+   ],
+   "en": "lovely chair",
+   "et": "armas tool"
+  },
+  {
+   "ids": [
+    104
+   ],
+   "en": "lovely loveseat",
+   "et": "armas diivan"
+  },
+  {
+   "ids": [
+    105
+   ],
+   "en": "lovely end table",
+   "et": "armas öökapp"
+  },
+  {
+   "ids": [
+    106
+   ],
+   "en": "lovely table",
+   "et": "armas laud"
+  },
+  {
+   "ids": [
+    107
+   ],
+   "en": "lovely vanity",
+   "et": "armas peegel"
+  },
+  {
+   "ids": [
+    108
+   ],
+   "en": "lovely kitchen",
+   "et": "armas köök"
+  },
+  {
+   "ids": [
+    109
+   ],
+   "en": "lovely lamp",
+   "et": "armas lamp"
+  },
+  {
+   "ids": [
+    110
+   ],
+   "en": "robo-bed",
+   "et": "robovoodi"
+  },
+  {
+   "ids": [
+    111
+   ],
+   "en": "robo-dresser",
+   "et": "robokummut"
+  },
+  {
+   "ids": [
+    112
+   ],
+   "en": "robo-closet",
+   "et": "robokapp"
+  },
+  {
+   "ids": [
+    113
+   ],
+   "en": "robo-sofa",
+   "et": "robodiivan"
+  },
+  {
+   "ids": [
+    114
+   ],
+   "en": "robo-chair",
+   "et": "robotool"
+  },
+  {
+   "ids": [
+    115
+   ],
+   "en": "robo-table",
+   "et": "robolaud"
+  },
+  {
+   "ids": [
+    116
+   ],
+   "en": "robo-stereo",
+   "et": "robostereo"
+  },
+  {
+   "ids": [
+    117
+   ],
+   "en": "robo-TV",
+   "et": "robo-TV"
+  },
+  {
+   "ids": [
+    118
+   ],
+   "en": "robo-clock",
+   "et": "robokell"
+  },
+  {
+   "ids": [
+    119
+   ],
+   "en": "robo-lamp",
+   "et": "robolamp"
+  },
+  {
+   "ids": [
+    120
+   ],
+   "en": "snowman bed",
+   "et": "lumememme voodi"
+  },
+  {
+   "ids": [
+    121
+   ],
+   "en": "snowman dresser",
+   "et": "lumememme kummut"
+  },
+  {
+   "ids": [
+    122
+   ],
+   "en": "snowman wardrobe",
+   "et": "lumememme kapp"
+  },
+  {
+   "ids": [
+    123
+   ],
+   "en": "snowman chair",
+   "et": "lumememme tool"
+  },
+  {
+   "ids": [
+    124
+   ],
+   "en": "snowman sofa",
+   "et": "lumememme diivan"
+  },
+  {
+   "ids": [
+    125
+   ],
+   "en": "snowman table",
+   "et": "lumememme laud"
+  },
+  {
+   "ids": [
+    126
+   ],
+   "en": "snowman fridge",
+   "et": "lumememme külmik"
+  },
+  {
+   "ids": [
+    127
+   ],
+   "en": "snowman TV",
+   "et": "lumememme TV"
+  },
+  {
+   "ids": [
+    128
+   ],
+   "en": "snowman clock",
+   "et": "lumememme kell"
+  },
+  {
+   "ids": [
+    129
+   ],
+   "en": "snowman lamp",
+   "et": "lumememme lamp"
+  },
+  {
+   "ids": [
+    130
+   ],
+   "en": "mush bed",
+   "et": "seene voodi"
+  },
+  {
+   "ids": [
+    131
+   ],
+   "en": "mush dresser",
+   "et": "seene kummut"
+  },
+  {
+   "ids": [
+    132
+   ],
+   "en": "mush closet",
+   "et": "seene kapp"
+  },
+  {
+   "ids": [
+    133
+   ],
+   "en": "mush chair",
+   "et": "seene tool"
+  },
+  {
+   "ids": [
+    134
+   ],
+   "en": "mush stool",
+   "et": "seene taburet"
+  },
+  {
+   "ids": [
+    135
+   ],
+   "en": "mush table",
+   "et": "seene laud"
+  },
+  {
+   "ids": [
+    136
+   ],
+   "en": "mush end table",
+   "et": "seene öökapp"
+  },
+  {
+   "ids": [
+    137
+   ],
+   "en": "mush lamp",
+   "et": "seene lamp"
+  },
+  {
+   "ids": [
+    138
+   ],
+   "en": "mush stand",
+   "et": "seene alus"
+  },
+  {
+   "ids": [
+    139
+   ],
+   "en": "mush TV",
+   "et": "seene telekas"
+  },
+  {
+   "ids": [
+    140
+   ],
+   "en": "cow skull",
+   "et": "lehmapealuu"
+  },
+  {
+   "ids": [
+    141
+   ],
+   "en": "desert cactus",
+   "et": "kõrbe kaktus"
+  },
+  {
+   "ids": [
+    142
+   ],
+   "en": "western fence",
+   "et": "vesterni tara"
+  },
+  {
+   "ids": [
+    143
+   ],
+   "en": "saddle fence",
+   "et": "sadulatara"
+  },
+  {
+   "ids": [
+    144
+   ],
+   "en": "storefront",
+   "et": "pood"
+  },
+  {
+   "ids": [
+    145
+   ],
+   "en": "covered wagon",
+   "et": "kaetud vanker"
+  },
+  {
+   "ids": [
+    146
+   ],
+   "en": "watering trough",
+   "et": "jooteküna"
+  },
+  {
+   "ids": [
+    147
+   ],
+   "en": "tumbleweed",
+   "et": "tuulepall"
+  },
+  {
+   "ids": [
+    148
+   ],
+   "en": "well",
+   "et": "kaev"
+  },
+  {
+   "ids": [
+    149
+   ],
+   "en": "wagon wheel",
+   "et": "vankriratas"
+  },
+  {
+   "ids": [
+    150
+   ],
+   "en": "asteroid",
+   "et": "asteroid"
+  },
+  {
+   "ids": [
+    151
+   ],
+   "en": "moon",
+   "et": "kuu"
+  },
+  {
+   "ids": [
+    152
+   ],
+   "en": "lunar lander",
+   "et": "kuumoodul"
+  },
+  {
+   "ids": [
+    153
+   ],
+   "en": "rocket",
+   "et": "rakett"
+  },
+  {
+   "ids": [
+    154
+   ],
+   "en": "lunar rover",
+   "et": "kuukulgur"
+  },
+  {
+   "ids": [
+    155
+   ],
+   "en": "satellite",
+   "et": "satelliit"
+  },
+  {
+   "ids": [
+    156
+   ],
+   "en": "space shuttle",
+   "et": "kosmosesüstik"
+  },
+  {
+   "ids": [
+    157
+   ],
+   "en": "Spaceman Sam",
+   "et": "Kosmose-Sam"
+  },
+  {
+   "ids": [
+    158
+   ],
+   "en": "space station",
+   "et": "kosmosejaam"
+  },
+  {
+   "ids": [
+    159
+   ],
+   "en": "flying saucer",
+   "et": "lendav taldrik"
+  },
+  {
+   "ids": [
+    160
+   ],
+   "en": "detour arrow",
+   "et": "ümbersõidunool"
+  },
+  {
+   "ids": [
+    161
+   ],
+   "en": "handcart",
+   "et": "käru"
+  },
+  {
+   "ids": [
+    162
+   ],
+   "en": "iron frame",
+   "et": "raudraam"
+  },
+  {
+   "ids": [
+    163
+   ],
+   "en": "manhole cover",
+   "et": "luugikaas"
+  },
+  {
+   "ids": [
+    164
+   ],
+   "en": "orange cone",
+   "et": "oranž käbi"
+  },
+  {
+   "ids": [
+    165
+   ],
+   "en": "traffic cone",
+   "et": "liikluskoonus"
+  },
+  {
+   "ids": [
+    166
+   ],
+   "en": "saw horse",
+   "et": "saepukk"
+  },
+  {
+   "ids": [
+    167
+   ],
+   "en": "wet roadway sign",
+   "et": "märja tee silt"
+  },
+  {
+   "ids": [
+    168
+   ],
+   "en": "steam roller",
+   "et": "teerull"
+  },
+  {
+   "ids": [
+    169
+   ],
+   "en": "jackhammer",
+   "et": "vasar"
+  },
+  {
+   "ids": [
+    170
+   ],
+   "en": "striped cone",
+   "et": "triipkoonus"
+  },
+  {
+   "ids": [
+    171
+   ],
+   "en": "cement mixer",
+   "et": "betoonisegisti"
+  },
+  {
+   "ids": [
+    172
+   ],
+   "en": "brown drum",
+   "et": "pruun trumm"
+  },
+  {
+   "ids": [
+    173
+   ],
+   "en": "green drum",
+   "et": "roheline trumm"
+  },
+  {
+   "ids": [
+    174
+   ],
+   "en": "red drum",
+   "et": "punane trumm"
+  },
+  {
+   "ids": [
+    175
+   ],
+   "en": "haz-mat barrel",
+   "et": "ohtlik tünn"
+  },
+  {
+   "ids": [
+    176
+   ],
+   "en": "oil drum",
+   "et": "õli trumm"
+  },
+  {
+   "ids": [
+    177
+   ],
+   "en": "boxing barricade",
+   "et": "poksitõke"
+  },
+  {
+   "ids": [
+    178
+   ],
+   "en": "red corner",
+   "et": "punane nurk"
+  },
+  {
+   "ids": [
+    179
+   ],
+   "en": "blue corner",
+   "et": "sinine nurk"
+  },
+  {
+   "ids": [
+    180
+   ],
+   "en": "neutral corner",
+   "et": "neutraalne nurk"
+  },
+  {
+   "ids": [
+    181
+   ],
+   "en": "judge's bell",
+   "et": "kohtuniku kell"
+  },
+  {
+   "ids": [
+    182
+   ],
+   "en": "boxing mat",
+   "et": "poksimatt"
+  },
+  {
+   "ids": [
+    183
+   ],
+   "en": "ringside table",
+   "et": "ringiäärne laud"
+  },
+  {
+   "ids": [
+    184
+   ],
+   "en": "weight bench",
+   "et": "jõu pink"
+  },
+  {
+   "ids": [
+    185
+   ],
+   "en": "sandbag",
+   "et": "liivakott"
+  },
+  {
+   "ids": [
+    186
+   ],
+   "en": "speed bag",
+   "et": "kiirus kott"
+  },
+  {
+   "ids": [
+    187
+   ],
+   "en": "birdhouse",
+   "et": "linnumaja"
+  },
+  {
+   "ids": [
+    188
+   ],
+   "en": "Mr. Flamingo",
+   "et": "Hr Flamingo"
+  },
+  {
+   "ids": [
+    189
+   ],
+   "en": "Mrs. Flamingo",
+   "et": "Pr Flamingo"
+  },
+  {
+   "ids": [
+    190
+   ],
+   "en": "garden gnome",
+   "et": "aiapäkapikk"
+  },
+  {
+   "ids": [
+    191
+   ],
+   "en": "bug zapper",
+   "et": "putukalamp"
+  },
+  {
+   "ids": [
+    192
+   ],
+   "en": "hammock",
+   "et": "võrkkiik"
+  },
+  {
+   "ids": [
+    193
+   ],
+   "en": "bird bath",
+   "et": "linnuvann"
+  },
+  {
+   "ids": [
+    194
+   ],
+   "en": "picnic table",
+   "et": "pikniku laud"
+  },
+  {
+   "ids": [
+    195
+   ],
+   "en": "bird feeder",
+   "et": "linnusöötja"
+  },
+  {
+   "ids": [
+    196
+   ],
+   "en": "lawn chair",
+   "et": "muru tool"
+  },
+  {
+   "ids": [
+    197
+   ],
+   "en": "lawn mower",
+   "et": "muru niiduk"
+  },
+  {
+   "ids": [
+    198
+   ],
+   "en": "barbecue",
+   "et": "grill"
+  },
+  {
+   "ids": [
+    199
+   ],
+   "en": "backyard pool",
+   "et": "aiabassein"
+  },
+  {
+   "ids": [
+    200
+   ],
+   "en": "sprinkler",
+   "et": "vihmuti"
+  },
+  {
+   "ids": [
+    201
+   ],
+   "en": "tiki torch",
+   "et": "tikitõrvik"
+  },
+  {
+   "ids": [
+    202,
+    484,
+    509,
+    527,
+    528,
+    529,
+    530,
+    1332,
+    1336,
+    1768
+   ],
+   "en": "garbage",
+   "et": "prügi"
+  },
+  {
+   "ids": [
+    203
+   ],
+   "en": "elephant slide",
+   "et": "elevandiliumägi"
+  },
+  {
+   "ids": [
+    204
+   ],
+   "en": "stroller",
+   "et": "käru"
+  },
+  {
+   "ids": [
+    205
+   ],
+   "en": "cradle",
+   "et": "häll"
+  },
+  {
+   "ids": [
+    206
+   ],
+   "en": "baby bed",
+   "et": "beebi voodi"
+  },
+  {
+   "ids": [
+    207
+   ],
+   "en": "clackercart",
+   "et": "klõbisev käru"
+  },
+  {
+   "ids": [
+    208
+   ],
+   "en": "merry-go-round",
+   "et": "karussell"
+  },
+  {
+   "ids": [
+    209
+   ],
+   "en": "rocking horse",
+   "et": "kiikhobu"
+  },
+  {
+   "ids": [
+    210
+   ],
+   "en": "train set",
+   "et": "rongikomplekt"
+  },
+  {
+   "ids": [
+    211
+   ],
+   "en": "wobbelina",
+   "et": "vobbeliin"
+  },
+  {
+   "ids": [
+    212
+   ],
+   "en": "dolly",
+   "et": "käru"
+  },
+  {
+   "ids": [
+    213
+   ],
+   "en": "lab bench",
+   "et": "labori pink"
+  },
+  {
+   "ids": [
+    214
+   ],
+   "en": "lab chair",
+   "et": "labori tool"
+  },
+  {
+   "ids": [
+    215
+   ],
+   "en": "medicine chest",
+   "et": "ravimi kirst"
+  },
+  {
+   "ids": [
+    216
+   ],
+   "en": "Florence flask",
+   "et": "Firenze kolb"
+  },
+  {
+   "ids": [
+    217
+   ],
+   "en": "amazing machine",
+   "et": "hämmastav masin"
+  },
+  {
+   "ids": [
+    218
+   ],
+   "en": "unknown machine",
+   "et": "tundmatu masin"
+  },
+  {
+   "ids": [
+    219
+   ],
+   "en": "complex machine",
+   "et": "keeruline masin"
+  },
+  {
+   "ids": [
+    220
+   ],
+   "en": "helm",
+   "et": "kiiver"
+  },
+  {
+   "ids": [
+    221
+   ],
+   "en": "barrel",
+   "et": "tünn"
+  },
+  {
+   "ids": [
+    222
+   ],
+   "en": "keg",
+   "et": "vaat"
+  },
+  {
+   "ids": [
+    223
+   ],
+   "en": "ship cannon",
+   "et": "laevakahur"
+  },
+  {
+   "ids": [
+    224
+   ],
+   "en": "anchor",
+   "et": "ankur"
+  },
+  {
+   "ids": [
+    225
+   ],
+   "en": "ship compass",
+   "et": "laevakompass"
+  },
+  {
+   "ids": [
+    226
+   ],
+   "en": "black pawn",
+   "et": "must ettur"
+  },
+  {
+   "ids": [
+    227
+   ],
+   "en": "black bishop",
+   "et": "must oda"
+  },
+  {
+   "ids": [
+    228
+   ],
+   "en": "black king",
+   "et": "must kuningas"
+  },
+  {
+   "ids": [
+    229
+   ],
+   "en": "black knight",
+   "et": "must ratsu"
+  },
+  {
+   "ids": [
+    230
+   ],
+   "en": "black queen",
+   "et": "must lipp"
+  },
+  {
+   "ids": [
+    231
+   ],
+   "en": "black rook",
+   "et": "must vanker"
+  },
+  {
+   "ids": [
+    232
+   ],
+   "en": "white pawn",
+   "et": "valge ettur"
+  },
+  {
+   "ids": [
+    233
+   ],
+   "en": "white bishop",
+   "et": "valge oda"
+  },
+  {
+   "ids": [
+    234
+   ],
+   "en": "white king",
+   "et": "valge kuningas"
+  },
+  {
+   "ids": [
+    235
+   ],
+   "en": "white knight",
+   "et": "valge ratsu"
+  },
+  {
+   "ids": [
+    236
+   ],
+   "en": "white queen",
+   "et": "valge lipp"
+  },
+  {
+   "ids": [
+    237
+   ],
+   "en": "white rook",
+   "et": "valge vanker"
+  },
+  {
+   "ids": [
+    238
+   ],
+   "en": "hamster cage",
+   "et": "hamstripuur"
+  },
+  {
+   "ids": [
+    239
+   ],
+   "en": "mop",
+   "et": "mopp"
+  },
+  {
+   "ids": [
+    240
+   ],
+   "en": "skeleton",
+   "et": "luukere"
+  },
+  {
+   "ids": [
+    241
+   ],
+   "en": "anatomical model",
+   "et": "anatoomia mudel"
+  },
+  {
+   "ids": [
+    242
+   ],
+   "en": "clear model",
+   "et": "klaasmudel"
+  },
+  {
+   "ids": [
+    243
+   ],
+   "en": "vision tester",
+   "et": "nägemistester"
+  },
+  {
+   "ids": [
+    244
+   ],
+   "en": "trunk measure",
+   "et": "rinnamõõdik"
+  },
+  {
+   "ids": [
+    245
+   ],
+   "en": "stadiometer",
+   "et": "pikkusmõõtja"
+  },
+  {
+   "ids": [
+    246
+   ],
+   "en": "scale",
+   "et": "kaal"
+  },
+  {
+   "ids": [
+    247
+   ],
+   "en": "hospital bed",
+   "et": "haigla voodi"
+  },
+  {
+   "ids": [
+    248
+   ],
+   "en": "writing desk",
+   "et": "kirjutus töölaud"
+  },
+  {
+   "ids": [
+    249
+   ],
+   "en": "writing chair",
+   "et": "kirjutus tool"
+  },
+  {
+   "ids": [
+    250
+   ],
+   "en": "globe",
+   "et": "gloobus"
+  },
+  {
+   "ids": [
+    251
+   ],
+   "en": "office desk",
+   "et": "kontori töölaud"
+  },
+  {
+   "ids": [
+    252
+   ],
+   "en": "office chair",
+   "et": "kontori tool"
+  },
+  {
+   "ids": [
+    253
+   ],
+   "en": "office locker",
+   "et": "kontori kapp"
+  },
+  {
+   "ids": [
+    254
+   ],
+   "en": "coffee maker",
+   "et": "kohvimasin"
+  },
+  {
+   "ids": [
+    255
+   ],
+   "en": "checkout counter",
+   "et": "kassalett"
+  },
+  {
+   "ids": [
+    256
+   ],
+   "en": "cash register",
+   "et": "kassaaparaat"
+  },
+  {
+   "ids": [
+    257
+   ],
+   "en": "jukebox",
+   "et": "jukeboks"
+  },
+  {
+   "ids": [
+    258
+   ],
+   "en": "siphon",
+   "et": "sifoon"
+  },
+  {
+   "ids": [
+    259
+   ],
+   "en": "giant dharma",
+   "et": "hiid daruma"
+  },
+  {
+   "ids": [
+    260
+   ],
+   "en": "dharma",
+   "et": "daruma"
+  },
+  {
+   "ids": [
+    261
+   ],
+   "en": "mini-dharma",
+   "et": "minidaruma"
+  },
+  {
+   "ids": [
+    262
+   ],
+   "en": "Papa bear",
+   "et": "isakaru"
+  },
+  {
+   "ids": [
+    263
+   ],
+   "en": "Mama bear",
+   "et": "emakaru"
+  },
+  {
+   "ids": [
+    264
+   ],
+   "en": "Baby bear",
+   "et": "beebikaru"
+  },
+  {
+   "ids": [
+    265
+   ],
+   "en": "Papa panda",
+   "et": "isapanda"
+  },
+  {
+   "ids": [
+    266
+   ],
+   "en": "Mama panda",
+   "et": "emapanda"
+  },
+  {
+   "ids": [
+    267
+   ],
+   "en": "Baby panda",
+   "et": "beebipanda"
+  },
+  {
+   "ids": [
+    268
+   ],
+   "en": "tall cactus",
+   "et": "pikk kaktus"
+  },
+  {
+   "ids": [
+    269
+   ],
+   "en": "cactus",
+   "et": "kaktus"
+  },
+  {
+   "ids": [
+    270
+   ],
+   "en": "round cactus",
+   "et": "ümar kaktus"
+  },
+  {
+   "ids": [
+    271
+   ],
+   "en": "blue golf bag",
+   "et": "sinine golfikott"
+  },
+  {
+   "ids": [
+    272
+   ],
+   "en": "white golf bag",
+   "et": "valge golfikott"
+  },
+  {
+   "ids": [
+    273
+   ],
+   "en": "green golf bag",
+   "et": "roh. golfikott"
+  },
+  {
+   "ids": [
+    274
+   ],
+   "en": "red armchair",
+   "et": "punane tugitool"
+  },
+  {
+   "ids": [
+    275
+   ],
+   "en": "red sofa",
+   "et": "punane diivan"
+  },
+  {
+   "ids": [
+    276
+   ],
+   "en": "bear pole",
+   "et": "karu post"
+  },
+  {
+   "ids": [
+    277
+   ],
+   "en": "eagle pole",
+   "et": "kotka post"
+  },
+  {
+   "ids": [
+    278
+   ],
+   "en": "frog woman pole",
+   "et": "konnanaise post"
+  },
+  {
+   "ids": [
+    279
+   ],
+   "en": "raven pole",
+   "et": "ronga post"
+  },
+  {
+   "ids": [
+    280
+   ],
+   "en": "blue lava lamp",
+   "et": "sinine laavalamp"
+  },
+  {
+   "ids": [
+    281
+   ],
+   "en": "purple lava lamp",
+   "et": "lilla laavalamp"
+  },
+  {
+   "ids": [
+    282
+   ],
+   "en": "green lava lamp",
+   "et": "roh. laavalamp"
+  },
+  {
+   "ids": [
+    283
+   ],
+   "en": "samurai suit",
+   "et": "samurairüü"
+  },
+  {
+   "ids": [
+    284
+   ],
+   "en": "black katana",
+   "et": "must katana"
+  },
+  {
+   "ids": [
+    285
+   ],
+   "en": "white katana",
+   "et": "valge katana"
+  },
+  {
+   "ids": [
+    286
+   ],
+   "en": "ninja sword",
+   "et": "nindžamõõk"
+  },
+  {
+   "ids": [
+    287
+   ],
+   "en": "sword",
+   "et": "mõõk"
+  },
+  {
+   "ids": [
+    288
+   ],
+   "en": "bow",
+   "et": "vibu"
+  },
+  {
+   "ids": [
+    289
+   ],
+   "en": "tea table",
+   "et": "teelaud"
+  },
+  {
+   "ids": [
+    290
+   ],
+   "en": "hearth",
+   "et": "kolle"
+  },
+  {
+   "ids": [
+    291
+   ],
+   "en": "deer scare",
+   "et": "hirmutaja"
+  },
+  {
+   "ids": [
+    292
+   ],
+   "en": "tall lantern",
+   "et": "pikk latern"
+  },
+  {
+   "ids": [
+    293
+   ],
+   "en": "Master Sword",
+   "et": "Meistri mõõk"
+  },
+  {
+   "ids": [
+    294
+   ],
+   "en": "Arwing",
+   "et": "Arwing"
+  },
+  {
+   "ids": [
+    295
+   ],
+   "en": "Triforce",
+   "et": "Triforce"
+  },
+  {
+   "ids": [
+    296
+   ],
+   "en": "Metroid",
+   "et": "Metroid"
+  },
+  {
+   "ids": [
+    297
+   ],
+   "en": "tea vase",
+   "et": "tee vaas"
+  },
+  {
+   "ids": [
+    298
+   ],
+   "en": "red vase",
+   "et": "punane vaas"
+  },
+  {
+   "ids": [
+    299
+   ],
+   "en": "blue vase",
+   "et": "sinine vaas"
+  },
+  {
+   "ids": [
+    300
+   ],
+   "en": "lucky cat",
+   "et": "õnne kass"
+  },
+  {
+   "ids": [
+    301
+   ],
+   "en": "lefty lucky cat",
+   "et": "vasaku õnne kass"
+  },
+  {
+   "ids": [
+    302
+   ],
+   "en": "lucky black cat",
+   "et": "õnne must kass"
+  },
+  {
+   "ids": [
+    303
+   ],
+   "en": "lucky gold cat",
+   "et": "õnne kuld kass"
+  },
+  {
+   "ids": [
+    304
+   ],
+   "en": "grapefruit table",
+   "et": "greibi laud"
+  },
+  {
+   "ids": [
+    305
+   ],
+   "en": "lemon table",
+   "et": "sidruni laud"
+  },
+  {
+   "ids": [
+    306
+   ],
+   "en": "orange chair",
+   "et": "oranž tool"
+  },
+  {
+   "ids": [
+    307
+   ],
+   "en": "lime chair",
+   "et": "laimi tool"
+  },
+  {
+   "ids": [
+    308
+   ],
+   "en": "pear wardrobe",
+   "et": "pirni kapp"
+  },
+  {
+   "ids": [
+    309
+   ],
+   "en": "pear dresser",
+   "et": "pirni kummut"
+  },
+  {
+   "ids": [
+    310
+   ],
+   "en": "watermelon chair",
+   "et": "arbuusi tool"
+  },
+  {
+   "ids": [
+    311
+   ],
+   "en": "melon chair",
+   "et": "meloni tool"
+  },
+  {
+   "ids": [
+    312
+   ],
+   "en": "watermelon table",
+   "et": "arbuusi laud"
+  },
+  {
+   "ids": [
+    313
+   ],
+   "en": "apple TV",
+   "et": "õuna telekas"
+  },
+  {
+   "ids": [
+    314
+   ],
+   "en": "apple clock",
+   "et": "õuna kell"
+  },
+  {
+   "ids": [
+    315
+   ],
+   "en": "lily-pad table",
+   "et": "vesiroosi laud"
+  },
+  {
+   "ids": [
+    316
+   ],
+   "en": "froggy chair",
+   "et": "konna tool"
+  },
+  {
+   "ids": [
+    317
+   ],
+   "en": "pine chair",
+   "et": "männi tool"
+  },
+  {
+   "ids": [
+    318
+   ],
+   "en": "pine table",
+   "et": "männi laud"
+  },
+  {
+   "ids": [
+    319
+   ],
+   "en": "tulip chair",
+   "et": "tulbi tool"
+  },
+  {
+   "ids": [
+    320
+   ],
+   "en": "tulip table",
+   "et": "tulbi laud"
+  },
+  {
+   "ids": [
+    321
+   ],
+   "en": "iris chair",
+   "et": "iirise tool"
+  },
+  {
+   "ids": [
+    322
+   ],
+   "en": "iris table",
+   "et": "iirise laud"
+  },
+  {
+   "ids": [
+    323
+   ],
+   "en": "daffodil chair",
+   "et": "nartsissi tool"
+  },
+  {
+   "ids": [
+    324
+   ],
+   "en": "daffodil table",
+   "et": "nartsissi laud"
+  },
+  {
+   "ids": [
+    325
+   ],
+   "en": "conga drum",
+   "et": "conga trumm"
+  },
+  {
+   "ids": [
+    326
+   ],
+   "en": "djimbe drum",
+   "et": "djembe trumm"
+  },
+  {
+   "ids": [
+    327
+   ],
+   "en": "timpano drum",
+   "et": "timpani trumm"
+  },
+  {
+   "ids": [
+    328
+   ],
+   "en": "violin",
+   "et": "viiul"
+  },
+  {
+   "ids": [
+    329
+   ],
+   "en": "cello",
+   "et": "tšello"
+  },
+  {
+   "ids": [
+    330
+   ],
+   "en": "bass",
+   "et": "bassikitarr"
+  },
+  {
+   "ids": [
+    331
+   ],
+   "en": "folk guitar",
+   "et": "rahva kitarr"
+  },
+  {
+   "ids": [
+    332
+   ],
+   "en": "country guitar",
+   "et": "kantri kitarr"
+  },
+  {
+   "ids": [
+    333
+   ],
+   "en": "rock guitar",
+   "et": "roki kitarr"
+  },
+  {
+   "ids": [
+    334
+   ],
+   "en": "metal guitar",
+   "et": "metali kitarr"
+  },
+  {
+   "ids": [
+    335
+   ],
+   "en": "ukulele",
+   "et": "ukulele"
+  },
+  {
+   "ids": [
+    336
+   ],
+   "en": "ebony piano",
+   "et": "must klaver"
+  },
+  {
+   "ids": [
+    337
+   ],
+   "en": "ivory piano",
+   "et": "valge klaver"
+  },
+  {
+   "ids": [
+    338
+   ],
+   "en": "Japanese drum",
+   "et": "jaapani trumm"
+  },
+  {
+   "ids": [
+    339
+   ],
+   "en": "vibraphone",
+   "et": "vibrafon"
+  },
+  {
+   "ids": [
+    340
+   ],
+   "en": "biwa lute",
+   "et": "biwa lauto"
+  },
+  {
+   "ids": [
+    341
+   ],
+   "en": "harp",
+   "et": "harf"
+  },
+  {
+   "ids": [
+    342
+   ],
+   "en": "metronome",
+   "et": "metronoom"
+  },
+  {
+   "ids": [
+    343
+   ],
+   "en": "trash can",
+   "et": "prügikast"
+  },
+  {
+   "ids": [
+    344
+   ],
+   "en": "garbage pail",
+   "et": "prügiämber"
+  },
+  {
+   "ids": [
+    345
+   ],
+   "en": "garbage can",
+   "et": "prügiurn"
+  },
+  {
+   "ids": [
+    346
+   ],
+   "en": "trash bin",
+   "et": "prügikorv"
+  },
+  {
+   "ids": [
+    347
+   ],
+   "en": "Pantheon post",
+   "et": "Panteoni sammas"
+  },
+  {
+   "ids": [
+    348
+   ],
+   "en": "Ionian post",
+   "et": "Joonia sammas"
+  },
+  {
+   "ids": [
+    349
+   ],
+   "en": "Corinthian post",
+   "et": "Korintos sammas"
+  },
+  {
+   "ids": [
+    350
+   ],
+   "en": "broken post",
+   "et": "katkine sammas"
+  },
+  {
+   "ids": [
+    351
+   ],
+   "en": "pyramid",
+   "et": "püramiid"
+  },
+  {
+   "ids": [
+    352
+   ],
+   "en": "sphinx",
+   "et": "sfinks"
+  },
+  {
+   "ids": [
+    353
+   ],
+   "en": "mummy's casket",
+   "et": "muumia sarkofaag"
+  },
+  {
+   "ids": [
+    354
+   ],
+   "en": "spaceman",
+   "et": "kosmonaut"
+  },
+  {
+   "ids": [
+    355
+   ],
+   "en": "tennis table",
+   "et": "tennise laud"
+  },
+  {
+   "ids": [
+    356
+   ],
+   "en": "bowling pins",
+   "et": "keeglikurikad"
+  },
+  {
+   "ids": [
+    357
+   ],
+   "en": "basketball hoop",
+   "et": "korvpallirõngas"
+  },
+  {
+   "ids": [
+    358
+   ],
+   "en": "ball return",
+   "et": "pallitagastus"
+  },
+  {
+   "ids": [
+    359
+   ],
+   "en": "billiard table",
+   "et": "piljardi laud"
+  },
+  {
+   "ids": [
+    360
+   ],
+   "en": "mahjong table",
+   "et": "mahjongi laud"
+  },
+  {
+   "ids": [
+    361
+   ],
+   "en": "dart board",
+   "et": "märklaud"
+  },
+  {
+   "ids": [
+    362
+   ],
+   "en": "pinball machine",
+   "et": "flipper masin"
+  },
+  {
+   "ids": [
+    363
+   ],
+   "en": "arcade machine",
+   "et": "arkaadi masin"
+  },
+  {
+   "ids": [
+    364
+   ],
+   "en": "tabletop game",
+   "et": "lauamäng"
+  },
+  {
+   "ids": [
+    365
+   ],
+   "en": "stool",
+   "et": "taburet"
+  },
+  {
+   "ids": [
+    366
+   ],
+   "en": "Moai statue",
+   "et": "Moai kuju"
+  },
+  {
+   "ids": [
+    367
+   ],
+   "en": "tribal mask",
+   "et": "hõimumask"
+  },
+  {
+   "ids": [
+    368
+   ],
+   "en": "Arc de Triomphe",
+   "et": "Triumfikaar"
+  },
+  {
+   "ids": [
+    369
+   ],
+   "en": "Merlion",
+   "et": "Merlion"
+  },
+  {
+   "ids": [
+    370
+   ],
+   "en": "pagoda",
+   "et": "pagood"
+  },
+  {
+   "ids": [
+    371
+   ],
+   "en": "plate armor",
+   "et": "plaatrüü"
+  },
+  {
+   "ids": [
+    372
+   ],
+   "en": "mermaid statue",
+   "et": "merineitsi kuju"
+  },
+  {
+   "ids": [
+    373
+   ],
+   "en": "Mouth of Truth",
+   "et": "Tõesuu"
+  },
+  {
+   "ids": [
+    374
+   ],
+   "en": "Manekin Pis",
+   "et": "Manneken Pis"
+  },
+  {
+   "ids": [
+    375
+   ],
+   "en": "Tower of Pisa",
+   "et": "Pisa torn"
+  },
+  {
+   "ids": [
+    376
+   ],
+   "en": "compass",
+   "et": "kompass"
+  },
+  {
+   "ids": [
+    377
+   ],
+   "en": "matryoshka",
+   "et": "matrjoška"
+  },
+  {
+   "ids": [
+    378
+   ],
+   "en": "backpack",
+   "et": "seljakott"
+  },
+  {
+   "ids": [
+    379
+   ],
+   "en": "mountain bike",
+   "et": "mägiratas"
+  },
+  {
+   "ids": [
+    380
+   ],
+   "en": "propane stove",
+   "et": "gaasipliit"
+  },
+  {
+   "ids": [
+    381
+   ],
+   "en": "cooler",
+   "et": "jahutuskapp"
+  },
+  {
+   "ids": [
+    382
+   ],
+   "en": "kayak",
+   "et": "kajakk"
+  },
+  {
+   "ids": [
+    383
+   ],
+   "en": "lantern",
+   "et": "latern"
+  },
+  {
+   "ids": [
+    384
+   ],
+   "en": "sleeping bag",
+   "et": "magamis kott"
+  },
+  {
+   "ids": [
+    385
+   ],
+   "en": "campfire",
+   "et": "lõke"
+  },
+  {
+   "ids": [
+    386
+   ],
+   "en": "bonfire",
+   "et": "lõke"
+  },
+  {
+   "ids": [
+    387
+   ],
+   "en": "ponderosa bonsai",
+   "et": "ponderosa bonsai"
+  },
+  {
+   "ids": [
+    388
+   ],
+   "en": "pine bonsai",
+   "et": "männi bonsai"
+  },
+  {
+   "ids": [
+    389
+   ],
+   "en": "mugho bonsai",
+   "et": "mägi bonsai"
+  },
+  {
+   "ids": [
+    390
+   ],
+   "en": "plum bonsai",
+   "et": "ploomi bonsai"
+  },
+  {
+   "ids": [
+    391
+   ],
+   "en": "holly bonsai",
+   "et": "iilex bonsai"
+  },
+  {
+   "ids": [
+    392
+   ],
+   "en": "azalea bonsai",
+   "et": "asalea bonsai"
+  },
+  {
+   "ids": [
+    393
+   ],
+   "en": "maple bonsai",
+   "et": "vahtra bonsai"
+  },
+  {
+   "ids": [
+    394
+   ],
+   "en": "hawthorn bonsai",
+   "et": "viirpuu bonsai"
+  },
+  {
+   "ids": [
+    395
+   ],
+   "en": "quince bonsai",
+   "et": "küdoonia bonsai"
+  },
+  {
+   "ids": [
+    396
+   ],
+   "en": "jasmine bonsai",
+   "et": "jasmiini bonsai"
+  },
+  {
+   "ids": [
+    397
+   ],
+   "en": "pothos",
+   "et": "epipremnum"
+  },
+  {
+   "ids": [
+    398
+   ],
+   "en": "coconut palm",
+   "et": "kookospalm"
+  },
+  {
+   "ids": [
+    399
+   ],
+   "en": "pachira",
+   "et": "pachira"
+  },
+  {
+   "ids": [
+    400
+   ],
+   "en": "caladium",
+   "et": "kaladium"
+  },
+  {
+   "ids": [
+    401
+   ],
+   "en": "croton",
+   "et": "krooton"
+  },
+  {
+   "ids": [
+    402
+   ],
+   "en": "dracaena",
+   "et": "dratseena"
+  },
+  {
+   "ids": [
+    403
+   ],
+   "en": "lady palm",
+   "et": "rapis"
+  },
+  {
+   "ids": [
+    404
+   ],
+   "en": "aloe",
+   "et": "aaloe"
+  },
+  {
+   "ids": [
+    405
+   ],
+   "en": "rubber tree",
+   "et": "kummipuu"
+  },
+  {
+   "ids": [
+    406
+   ],
+   "en": "snake plant",
+   "et": "sansevieria"
+  },
+  {
+   "ids": [
+    407
+   ],
+   "en": "fan palm",
+   "et": "lehvikpalm"
+  },
+  {
+   "ids": [
+    408
+   ],
+   "en": "corn plant",
+   "et": "maisitaim"
+  },
+  {
+   "ids": [
+    409
+   ],
+   "en": "bromeliaceae",
+   "et": "bromeelia"
+  },
+  {
+   "ids": [
+    410
+   ],
+   "en": "weeping fig",
+   "et": "nutufiikus"
+  },
+  {
+   "ids": [
+    411
+   ],
+   "en": "TV with a VCR",
+   "et": "TV videoga"
+  },
+  {
+   "ids": [
+    412
+   ],
+   "en": "wide-screen TV",
+   "et": "laiekraan-TV"
+  },
+  {
+   "ids": [
+    413
+   ],
+   "en": "retro TV",
+   "et": "retro telekas"
+  },
+  {
+   "ids": [
+    414
+   ],
+   "en": "kitchen sink",
+   "et": "köögivalamu"
+  },
+  {
+   "ids": [
+    415
+   ],
+   "en": "kitchen corner",
+   "et": "köögi nurk"
+  },
+  {
+   "ids": [
+    416
+   ],
+   "en": "deluxe range",
+   "et": "luksuspliit"
+  },
+  {
+   "ids": [
+    417
+   ],
+   "en": "range",
+   "et": "pliit"
+  },
+  {
+   "ids": [
+    418
+   ],
+   "en": "stove",
+   "et": "pliit"
+  },
+  {
+   "ids": [
+    419
+   ],
+   "en": "tea set",
+   "et": "tee komplekt"
+  },
+  {
+   "ids": [
+    420
+   ],
+   "en": "refrigerator",
+   "et": "külmkapp"
+  },
+  {
+   "ids": [
+    421
+   ],
+   "en": "retro fridge",
+   "et": "retro külmik"
+  },
+  {
+   "ids": [
+    422
+   ],
+   "en": "microwave",
+   "et": "mikrolaine"
+  },
+  {
+   "ids": [
+    423
+   ],
+   "en": "toaster",
+   "et": "röster"
+  },
+  {
+   "ids": [
+    424
+   ],
+   "en": "sink",
+   "et": "kraanikauss"
+  },
+  {
+   "ids": [
+    425
+   ],
+   "en": "mixer",
+   "et": "mikser"
+  },
+  {
+   "ids": [
+    426
+   ],
+   "en": "clothesline pole",
+   "et": "pesunööri post"
+  },
+  {
+   "ids": [
+    427
+   ],
+   "en": "doghouse",
+   "et": "koerakuut"
+  },
+  {
+   "ids": [
+    428
+   ],
+   "en": "beach chair",
+   "et": "ranna tool"
+  },
+  {
+   "ids": [
+    429
+   ],
+   "en": "wave breaker",
+   "et": "lainemurdja"
+  },
+  {
+   "ids": [
+    430
+   ],
+   "en": "surfboard",
+   "et": "surfilaud"
+  },
+  {
+   "ids": [
+    431
+   ],
+   "en": "Diver Dan",
+   "et": "Sukelduja Dan"
+  },
+  {
+   "ids": [
+    432
+   ],
+   "en": "beach table",
+   "et": "ranna laud"
+  },
+  {
+   "ids": [
+    433
+   ],
+   "en": "treasure chest",
+   "et": "aarde kirst"
+  },
+  {
+   "ids": [
+    434
+   ],
+   "en": "life ring",
+   "et": "päästerõngas"
+  },
+  {
+   "ids": [
+    435
+   ],
+   "en": "snowboard",
+   "et": "lumelaud"
+  },
+  {
+   "ids": [
+    436
+   ],
+   "en": "sleigh",
+   "et": "saan"
+  },
+  {
+   "ids": [
+    437
+   ],
+   "en": "snowman",
+   "et": "lumememm"
+  },
+  {
+   "ids": [
+    438
+   ],
+   "en": "sunflower",
+   "et": "päevalill"
+  },
+  {
+   "ids": [
+    439
+   ],
+   "en": "daffodil",
+   "et": "nartsiss"
+  },
+  {
+   "ids": [
+    440
+   ],
+   "en": "gerbera",
+   "et": "gerbera"
+  },
+  {
+   "ids": [
+    441
+   ],
+   "en": "toilet",
+   "et": "WC"
+  },
+  {
+   "ids": [
+    442
+   ],
+   "en": "super toilet",
+   "et": "superWC"
+  },
+  {
+   "ids": [
+    443
+   ],
+   "en": "men's toilet",
+   "et": "meeste WC"
+  },
+  {
+   "ids": [
+    444
+   ],
+   "en": "pink box",
+   "et": "roosa kast"
+  },
+  {
+   "ids": [
+    445
+   ],
+   "en": "blue box",
+   "et": "sinine kast"
+  },
+  {
+   "ids": [
+    446
+   ],
+   "en": "beige box",
+   "et": "beež kast"
+  },
+  {
+   "ids": [
+    447
+   ],
+   "en": "safe",
+   "et": "seif"
+  },
+  {
+   "ids": [
+    448
+   ],
+   "en": "piggy bank",
+   "et": "hoiupõrsas"
+  },
+  {
+   "ids": [
+    449
+   ],
+   "en": "deluxe washer",
+   "et": "lux pesumasin"
+  },
+  {
+   "ids": [
+    450
+   ],
+   "en": "automatic washer",
+   "et": "autom. pesumasin"
+  },
+  {
+   "ids": [
+    451
+   ],
+   "en": "washer/dryer",
+   "et": "pesukuivati"
+  },
+  {
+   "ids": [
+    452
+   ],
+   "en": "potbelly stove",
+   "et": "malmahi"
+  },
+  {
+   "ids": [
+    453
+   ],
+   "en": "space heater",
+   "et": "soojapuhur"
+  },
+  {
+   "ids": [
+    454
+   ],
+   "en": "fireplace",
+   "et": "kamin"
+  },
+  {
+   "ids": [
+    455
+   ],
+   "en": "radiator",
+   "et": "radiaator"
+  },
+  {
+   "ids": [
+    456
+   ],
+   "en": "CD player",
+   "et": "CD-mängija"
+  },
+  {
+   "ids": [
+    457
+   ],
+   "en": "gold stereo",
+   "et": "kuld stereo"
+  },
+  {
+   "ids": [
+    458
+   ],
+   "en": "hi-fi stereo",
+   "et": "hi-fi stereo"
+  },
+  {
+   "ids": [
+    459
+   ],
+   "en": "turntable",
+   "et": "plaadimängija"
+  },
+  {
+   "ids": [
+    460
+   ],
+   "en": "dice stereo",
+   "et": "täringu stereo"
+  },
+  {
+   "ids": [
+    461
+   ],
+   "en": "white boom box",
+   "et": "valge boombox"
+  },
+  {
+   "ids": [
+    462
+   ],
+   "en": "red boom box",
+   "et": "punane boombox"
+  },
+  {
+   "ids": [
+    463
+   ],
+   "en": "phonograph",
+   "et": "grammofon"
+  },
+  {
+   "ids": [
+    464
+   ],
+   "en": "reel-to-reel",
+   "et": "lintmakk"
+  },
+  {
+   "ids": [
+    465
+   ],
+   "en": "retro stereo",
+   "et": "retro stereo"
+  },
+  {
+   "ids": [
+    466
+   ],
+   "en": "high-end stereo",
+   "et": "tipp stereo"
+  },
+  {
+   "ids": [
+    467
+   ],
+   "en": "tape deck",
+   "et": "kassetimakk"
+  },
+  {
+   "ids": [
+    468
+   ],
+   "en": "red clock",
+   "et": "punane kell"
+  },
+  {
+   "ids": [
+    469
+   ],
+   "en": "kitschy clock",
+   "et": "kitši kell"
+  },
+  {
+   "ids": [
+    470
+   ],
+   "en": "antique clock",
+   "et": "antiik kell"
+  },
+  {
+   "ids": [
+    471
+   ],
+   "en": "cube clock",
+   "et": "kuup kell"
+  },
+  {
+   "ids": [
+    472
+   ],
+   "en": "odd clock",
+   "et": "veider kell"
+  },
+  {
+   "ids": [
+    473
+   ],
+   "en": "glow clock",
+   "et": "hõõguv kell"
+  },
+  {
+   "ids": [
+    474
+   ],
+   "en": "owl clock",
+   "et": "öökulli kell"
+  },
+  {
+   "ids": [
+    475
+   ],
+   "en": "alarm clock",
+   "et": "äratus kell"
+  },
+  {
+   "ids": [
+    476
+   ],
+   "en": "jade econo-chair",
+   "et": "jade tool"
+  },
+  {
+   "ids": [
+    477
+   ],
+   "en": "ruby econo-chair",
+   "et": "rubiin tool"
+  },
+  {
+   "ids": [
+    478
+   ],
+   "en": "gold econo-chair",
+   "et": "kuld tool"
+  },
+  {
+   "ids": [
+    479
+   ],
+   "en": "rocking chair",
+   "et": "kiik tool"
+  },
+  {
+   "ids": [
+    480
+   ],
+   "en": "gas pump",
+   "et": "bensiinipump"
+  },
+  {
+   "ids": [
+    481
+   ],
+   "en": "extinguisher",
+   "et": "kustuti"
+  },
+  {
+   "ids": [
+    482
+   ],
+   "en": "fire hydrant",
+   "et": "tuletõrjehüdrant"
+  },
+  {
+   "ids": [
+    483
+   ],
+   "en": "racoon figurine",
+   "et": "kährikukuju"
+  },
+  {
+   "ids": [
+    485
+   ],
+   "en": "barber's pole",
+   "et": "juuksuripost"
+  },
+  {
+   "ids": [
+    486
+   ],
+   "en": "candy machine",
+   "et": "kommi masin"
+  },
+  {
+   "ids": [
+    487
+   ],
+   "en": "big festive tree",
+   "et": "suur jõulupuu"
+  },
+  {
+   "ids": [
+    488
+   ],
+   "en": "festive tree",
+   "et": "jõulupuu"
+  },
+  {
+   "ids": [
+    489
+   ],
+   "en": "scarecrow",
+   "et": "hernehirmutis"
+  },
+  {
+   "ids": [
+    490
+   ],
+   "en": "birdcage",
+   "et": "linnupuur"
+  },
+  {
+   "ids": [
+    491
+   ],
+   "en": "chocolates",
+   "et": "šokolaadid"
+  },
+  {
+   "ids": [
+    492
+   ],
+   "en": "Nintendo bench",
+   "et": "Nintendo pink"
+  },
+  {
+   "ids": [
+    493
+   ],
+   "en": "outdoor bath",
+   "et": "välivann"
+  },
+  {
+   "ids": [
+    494
+   ],
+   "en": "screen",
+   "et": "sirm"
+  },
+  {
+   "ids": [
+    495
+   ],
+   "en": "computer",
+   "et": "arvuti"
+  },
+  {
+   "ids": [
+    496
+   ],
+   "en": "pineapple bed",
+   "et": "ananassi voodi"
+  },
+  {
+   "ids": [
+    497
+   ],
+   "en": "glass-top table",
+   "et": "klaasplaadi laud"
+  },
+  {
+   "ids": [
+    498
+   ],
+   "en": "cream sofa",
+   "et": "kreemjas diivan"
+  },
+  {
+   "ids": [
+    499
+   ],
+   "en": "storage case",
+   "et": "hoiukast"
+  },
+  {
+   "ids": [
+    500
+   ],
+   "en": "clothes closet",
+   "et": "riidekapp"
+  },
+  {
+   "ids": [
+    501
+   ],
+   "en": "claw-foot tub",
+   "et": "käppadel vann"
+  },
+  {
+   "ids": [
+    502
+   ],
+   "en": "shower",
+   "et": "dušš"
+  },
+  {
+   "ids": [
+    503
+   ],
+   "en": "box of tissues",
+   "et": "salvrätikarp"
+  },
+  {
+   "ids": [
+    504
+   ],
+   "en": "massage chair",
+   "et": "massaaži tool"
+  },
+  {
+   "ids": [
+    505
+   ],
+   "en": "vacuum cleaner",
+   "et": "tolmuimeja"
+  },
+  {
+   "ids": [
+    506
+   ],
+   "en": "bottled ship",
+   "et": "laev pudelis"
+  },
+  {
+   "ids": [
+    507
+   ],
+   "en": "water bird",
+   "et": "joogilind"
+  },
+  {
+   "ids": [
+    508
+   ],
+   "en": "executive toy",
+   "et": "juhi mänguasi"
+  },
+  {
+   "ids": [
+    510
+   ],
+   "en": "telescope",
+   "et": "teleskoop"
+  },
+  {
+   "ids": [
+    511
+   ],
+   "en": "mochi pestle",
+   "et": "mochi uhmer"
+  },
+  {
+   "ids": [
+    512
+   ],
+   "en": "lovely phone",
+   "et": "armas telefon"
+  },
+  {
+   "ids": [
+    513
+   ],
+   "en": "sewing machine",
+   "et": "õmblus masin"
+  },
+  {
+   "ids": [
+    514
+   ],
+   "en": "cardboard box",
+   "et": "papp kast"
+  },
+  {
+   "ids": [
+    515
+   ],
+   "en": "wooden box",
+   "et": "puust kast"
+  },
+  {
+   "ids": [
+    516
+   ],
+   "en": "miniature car",
+   "et": "mini auto"
+  },
+  {
+   "ids": [
+    517
+   ],
+   "en": "fan",
+   "et": "lehvik"
+  },
+  {
+   "ids": [
+    518
+   ],
+   "en": "birthday cake",
+   "et": "sünnipäevatort"
+  },
+  {
+   "ids": [
+    519
+   ],
+   "en": "jack-in-the-box",
+   "et": "vedrunukk"
+  },
+  {
+   "ids": [
+    520
+   ],
+   "en": "throne",
+   "et": "troon"
+  },
+  {
+   "ids": [
+    521
+   ],
+   "en": "table lamp",
+   "et": "laualamp"
+  },
+  {
+   "ids": [
+    522
+   ],
+   "en": "desk light",
+   "et": "töölaualamp"
+  },
+  {
+   "ids": [
+    523
+   ],
+   "en": "candle",
+   "et": "küünal"
+  },
+  {
+   "ids": [
+    524
+   ],
+   "en": "mini-lamp",
+   "et": "minilamp"
+  },
+  {
+   "ids": [
+    525
+   ],
+   "en": "festive flag",
+   "et": "pidulipp"
+  },
+  {
+   "ids": [
+    526
+   ],
+   "en": "festive candle",
+   "et": "jõuluküünal"
+  },
+  {
+   "ids": [
+    531
+   ],
+   "en": "music box",
+   "et": "muusika kast"
+  },
+  {
+   "ids": [
+    532
+   ],
+   "en": "portrait",
+   "et": "portree"
+  },
+  {
+   "ids": [
+    533
+   ],
+   "en": "one-story model",
+   "et": "ühekordne mudel"
+  },
+  {
+   "ids": [
+    534
+   ],
+   "en": "two-story model",
+   "et": "kahekordne mudel"
+  },
+  {
+   "ids": [
+    535
+   ],
+   "en": "mansion model",
+   "et": "mõisa mudel"
+  },
+  {
+   "ids": [
+    536
+   ],
+   "en": "Nook's Cranny",
+   "et": "Nooki nurk"
+  },
+  {
+   "ids": [
+    537
+   ],
+   "en": "Nook 'n' Go",
+   "et": "Nook 'n' Go"
+  },
+  {
+   "ids": [
+    538
+   ],
+   "en": "Nookway",
+   "et": "Nookway"
+  },
+  {
+   "ids": [
+    539
+   ],
+   "en": "Nookington's",
+   "et": "Nookington's"
+  },
+  {
+   "ids": [
+    540
+   ],
+   "en": "museum model",
+   "et": "muuseumi mudel"
+  },
+  {
+   "ids": [
+    541
+   ],
+   "en": "town hall model",
+   "et": "raekoja mudel"
+  },
+  {
+   "ids": [
+    542
+   ],
+   "en": "fish trophy",
+   "et": "kalakarikas"
+  },
+  {
+   "ids": [
+    543
+   ],
+   "en": "bug trophy",
+   "et": "putukakarikas"
+  },
+  {
+   "ids": [
+    544
+   ],
+   "en": "flower trophy",
+   "et": "lillekarikas"
+  },
+  {
+   "ids": [
+    545
+   ],
+   "en": "basic red bed",
+   "et": "punane voodi"
+  },
+  {
+   "ids": [
+    546
+   ],
+   "en": "basic blue bed",
+   "et": "sinine voodi"
+  },
+  {
+   "ids": [
+    547
+   ],
+   "en": "basic yellow bed",
+   "et": "kollane voodi"
+  },
+  {
+   "ids": [
+    548
+   ],
+   "en": "basic green bed",
+   "et": "roheline voodi"
+  },
+  {
+   "ids": [
+    549,
+    569
+   ],
+   "en": "dainty painting",
+   "et": "õrn maal"
+  },
+  {
+   "ids": [
+    550,
+    570
+   ],
+   "en": "solemn painting",
+   "et": "tõsine maal"
+  },
+  {
+   "ids": [
+    551,
+    571
+   ],
+   "en": "quaint painting",
+   "et": "veider maal"
+  },
+  {
+   "ids": [
+    552,
+    572
+   ],
+   "en": "basic painting",
+   "et": "lihtne maal"
+  },
+  {
+   "ids": [
+    553,
+    573
+   ],
+   "en": "famous painting",
+   "et": "kuulus maal"
+  },
+  {
+   "ids": [
+    554,
+    574
+   ],
+   "en": "perfect painting",
+   "et": "täiuslik maal"
+  },
+  {
+   "ids": [
+    555
+   ],
+   "en": "amazing painting",
+   "et": "hämmastav maal"
+  },
+  {
+   "ids": [
+    556,
+    576
+   ],
+   "en": "nice painting",
+   "et": "kena maal"
+  },
+  {
+   "ids": [
+    557,
+    577
+   ],
+   "en": "moving painting",
+   "et": "liigutav maal"
+  },
+  {
+   "ids": [
+    558,
+    578
+   ],
+   "en": "common painting",
+   "et": "tavaline maal"
+  },
+  {
+   "ids": [
+    559,
+    579
+   ],
+   "en": "flowery painting",
+   "et": "lilleline maal"
+  },
+  {
+   "ids": [
+    560,
+    580
+   ],
+   "en": "warm painting",
+   "et": "soe maal"
+  },
+  {
+   "ids": [
+    561,
+    581
+   ],
+   "en": "rare painting",
+   "et": "haruldane maal"
+  },
+  {
+   "ids": [
+    562,
+    582
+   ],
+   "en": "fine painting",
+   "et": "peen maal"
+  },
+  {
+   "ids": [
+    563,
+    583
+   ],
+   "en": "scary painting",
+   "et": "hirmus maal"
+  },
+  {
+   "ids": [
+    564,
+    584
+   ],
+   "en": "lovely painting",
+   "et": "armas maal"
+  },
+  {
+   "ids": [
+    565,
+    585
+   ],
+   "en": "strange painting",
+   "et": "kummaline maal"
+  },
+  {
+   "ids": [
+    566,
+    586
+   ],
+   "en": "worthy painting",
+   "et": "väärikas maal"
+  },
+  {
+   "ids": [
+    567,
+    587
+   ],
+   "en": "calm painting",
+   "et": "rahulik maal"
+  },
+  {
+   "ids": [
+    568,
+    588
+   ],
+   "en": "opulent painting",
+   "et": "uhke maal"
+  },
+  {
+   "ids": [
+    575
+   ],
+   "en": "awesome painting",
+   "et": "vägev maal"
+  },
+  {
+   "ids": [
+    589,
+    590,
+    591,
+    592,
+    593,
+    594,
+    595,
+    596,
+    597,
+    598,
+    599,
+    600,
+    601,
+    602,
+    603,
+    604,
+    605,
+    606,
+    607,
+    608
+   ],
+   "en": "forged painting",
+   "et": "võltsitud maal"
+  },
+  {
+   "ids": [
+    609
+   ],
+   "en": "work uniform",
+   "et": "tööriided"
+  },
+  {
+   "ids": [
+    610
+   ],
+   "en": "one-ball shirt",
+   "et": "palli 1 särk"
+  },
+  {
+   "ids": [
+    611
+   ],
+   "en": "two-ball shirt",
+   "et": "palli 2 särk"
+  },
+  {
+   "ids": [
+    612
+   ],
+   "en": "three-ball shirt",
+   "et": "palli 3 särk"
+  },
+  {
+   "ids": [
+    613
+   ],
+   "en": "four-ball shirt",
+   "et": "palli 4 särk"
+  },
+  {
+   "ids": [
+    614
+   ],
+   "en": "five-ball shirt",
+   "et": "palli 5 särk"
+  },
+  {
+   "ids": [
+    615
+   ],
+   "en": "six-ball shirt",
+   "et": "palli 6 särk"
+  },
+  {
+   "ids": [
+    616
+   ],
+   "en": "seven-ball shirt",
+   "et": "palli 7 särk"
+  },
+  {
+   "ids": [
+    617
+   ],
+   "en": "eight-ball shirt",
+   "et": "palli 8 särk"
+  },
+  {
+   "ids": [
+    618
+   ],
+   "en": "nine-ball shirt",
+   "et": "palli 9 särk"
+  },
+  {
+   "ids": [
+    619
+   ],
+   "en": "paw shirt",
+   "et": "käpasärk"
+  },
+  {
+   "ids": [
+    620
+   ],
+   "en": "daisy shirt",
+   "et": "karikakrasärk"
+  },
+  {
+   "ids": [
+    621
+   ],
+   "en": "tulip shirt",
+   "et": "tulbisärk"
+  },
+  {
+   "ids": [
+    622
+   ],
+   "en": "cherry shirt",
+   "et": "kirsisärk"
+  },
+  {
+   "ids": [
+    623
+   ],
+   "en": "skull shirt",
+   "et": "pealuusärk"
+  },
+  {
+   "ids": [
+    624
+   ],
+   "en": "U R here shirt",
+   "et": "U R HERE särk"
+  },
+  {
+   "ids": [
+    625
+   ],
+   "en": "lightning shirt",
+   "et": "välgusärk"
+  },
+  {
+   "ids": [
+    626
+   ],
+   "en": "MVP shirt",
+   "et": "MVP särk"
+  },
+  {
+   "ids": [
+    627
+   ],
+   "en": "BB shirt",
+   "et": "BB särk"
+  },
+  {
+   "ids": [
+    628
+   ],
+   "en": "frog shirt",
+   "et": "konnasärk"
+  },
+  {
+   "ids": [
+    629
+   ],
+   "en": "bear shirt",
+   "et": "karusärk"
+  },
+  {
+   "ids": [
+    630
+   ],
+   "en": "bunny shirt",
+   "et": "jänkusärk"
+  },
+  {
+   "ids": [
+    631
+   ],
+   "en": "elephant shirt",
+   "et": "elevandisärk"
+  },
+  {
+   "ids": [
+    632
+   ],
+   "en": "spade shirt",
+   "et": "padasärk"
+  },
+  {
+   "ids": [
+    633
+   ],
+   "en": "diamond shirt",
+   "et": "ruutusärk"
+  },
+  {
+   "ids": [
+    634
+   ],
+   "en": "club shirt",
+   "et": "ristisärk"
+  },
+  {
+   "ids": [
+    635
+   ],
+   "en": "heart shirt",
+   "et": "ärtusärk"
+  },
+  {
+   "ids": [
+    636
+   ],
+   "en": "big star shirt",
+   "et": "suure tähe särk"
+  },
+  {
+   "ids": [
+    637
+   ],
+   "en": "bright shirt",
+   "et": "ere särk"
+  },
+  {
+   "ids": [
+    638
+   ],
+   "en": "A shirt",
+   "et": "A särk"
+  },
+  {
+   "ids": [
+    639
+   ],
+   "en": "No. 1 shirt",
+   "et": "nr 1 särk"
+  },
+  {
+   "ids": [
+    640
+   ],
+   "en": "No. 2 shirt",
+   "et": "nr 2 särk"
+  },
+  {
+   "ids": [
+    641
+   ],
+   "en": "No. 3 shirt",
+   "et": "nr 3 särk"
+  },
+  {
+   "ids": [
+    642
+   ],
+   "en": "No. 4 shirt",
+   "et": "nr 4 särk"
+  },
+  {
+   "ids": [
+    643
+   ],
+   "en": "No. 5 shirt",
+   "et": "nr 5 särk"
+  },
+  {
+   "ids": [
+    644
+   ],
+   "en": "No. 23 shirt",
+   "et": "nr 23 särk"
+  },
+  {
+   "ids": [
+    645
+   ],
+   "en": "No. 67 shirt",
+   "et": "nr 67 särk"
+  },
+  {
+   "ids": [
+    646
+   ],
+   "en": "big bro's shirt",
+   "et": "suure venna särk"
+  },
+  {
+   "ids": [
+    647
+   ],
+   "en": "li'l bro's shirt",
+   "et": "väikevenna särk"
+  },
+  {
+   "ids": [
+    648
+   ],
+   "en": "cloudy shirt",
+   "et": "pilvesärk"
+  },
+  {
+   "ids": [
+    649
+   ],
+   "en": "fresh shirt",
+   "et": "värske särk"
+  },
+  {
+   "ids": [
+    650
+   ],
+   "en": "dawn shirt",
+   "et": "koidusärk"
+  },
+  {
+   "ids": [
+    651
+   ],
+   "en": "misty shirt",
+   "et": "udusärk"
+  },
+  {
+   "ids": [
+    652
+   ],
+   "en": "sunset top",
+   "et": "loojangutopp"
+  },
+  {
+   "ids": [
+    653
+   ],
+   "en": "deep blue tee",
+   "et": "meresinine T"
+  },
+  {
+   "ids": [
+    654
+   ],
+   "en": "peachy shirt",
+   "et": "virsikusärk"
+  },
+  {
+   "ids": [
+    655
+   ],
+   "en": "rainbow shirt",
+   "et": "vikerkaaresärk"
+  },
+  {
+   "ids": [
+    656
+   ],
+   "en": "snowcone shirt",
+   "et": "lumekoonusärk"
+  },
+  {
+   "ids": [
+    657
+   ],
+   "en": "orange tie-dye",
+   "et": "oranž tie-dye"
+  },
+  {
+   "ids": [
+    658
+   ],
+   "en": "purple tie-dye",
+   "et": "lilla tie-dye"
+  },
+  {
+   "ids": [
+    659
+   ],
+   "en": "green tie-dye",
+   "et": "roheline tie-dye"
+  },
+  {
+   "ids": [
+    660
+   ],
+   "en": "blue tie-dye",
+   "et": "sinine tie-dye"
+  },
+  {
+   "ids": [
+    661
+   ],
+   "en": "red tie-dye",
+   "et": "punane tie-dye"
+  },
+  {
+   "ids": [
+    662
+   ],
+   "en": "bold check shirt",
+   "et": "julge ruut särk"
+  },
+  {
+   "ids": [
+    663
+   ],
+   "en": "cafe shirt",
+   "et": "kohvikusärk"
+  },
+  {
+   "ids": [
+    664
+   ],
+   "en": "checkered shirt",
+   "et": "ruudusärk"
+  },
+  {
+   "ids": [
+    665
+   ],
+   "en": "blue check shirt",
+   "et": "sinine ruutsärk"
+  },
+  {
+   "ids": [
+    666
+   ],
+   "en": "red check shirt",
+   "et": "punane ruutsärk"
+  },
+  {
+   "ids": [
+    667
+   ],
+   "en": "rugby shirt",
+   "et": "ragbisärk"
+  },
+  {
+   "ids": [
+    668
+   ],
+   "en": "green bar shirt",
+   "et": "roheline triip"
+  },
+  {
+   "ids": [
+    669
+   ],
+   "en": "yellow bar shirt",
+   "et": "kollane triip"
+  },
+  {
+   "ids": [
+    670
+   ],
+   "en": "grape stripe tee",
+   "et": "viinamarjatriip"
+  },
+  {
+   "ids": [
+    671
+   ],
+   "en": "beatnik shirt",
+   "et": "biitnikusärk"
+  },
+  {
+   "ids": [
+    672
+   ],
+   "en": "red bar shirt",
+   "et": "punane triip"
+  },
+  {
+   "ids": [
+    673
+   ],
+   "en": "blue stripe knit",
+   "et": "triipkudum"
+  },
+  {
+   "ids": [
+    674
+   ],
+   "en": "gelato shirt",
+   "et": "gelatosärk"
+  },
+  {
+   "ids": [
+    675
+   ],
+   "en": "chain-gang shirt",
+   "et": "vangisärk"
+  },
+  {
+   "ids": [
+    676
+   ],
+   "en": "yellow tartan",
+   "et": "kollane ruut"
+  },
+  {
+   "ids": [
+    677
+   ],
+   "en": "fall plaid shirt",
+   "et": "sügisruut särk"
+  },
+  {
+   "ids": [
+    678
+   ],
+   "en": "blue tartan",
+   "et": "sinine ruut"
+  },
+  {
+   "ids": [
+    679
+   ],
+   "en": "dapper shirt",
+   "et": "vahva särk"
+  },
+  {
+   "ids": [
+    680
+   ],
+   "en": "natty shirt",
+   "et": "nutikas särk"
+  },
+  {
+   "ids": [
+    681
+   ],
+   "en": "blue grid shirt",
+   "et": "sinine võre"
+  },
+  {
+   "ids": [
+    682
+   ],
+   "en": "red grid shirt",
+   "et": "punane võre"
+  },
+  {
+   "ids": [
+    683
+   ],
+   "en": "dazed shirt",
+   "et": "uimane särk"
+  },
+  {
+   "ids": [
+    684
+   ],
+   "en": "checkerboard tee",
+   "et": "malelaua T"
+  },
+  {
+   "ids": [
+    685
+   ],
+   "en": "Toad shirt",
+   "et": "Toadi särk"
+  },
+  {
+   "ids": [
+    686
+   ],
+   "en": "dark polka shirt",
+   "et": "tume täpisärk"
+  },
+  {
+   "ids": [
+    687
+   ],
+   "en": "lite polka shirt",
+   "et": "hele täpisärk"
+  },
+  {
+   "ids": [
+    688
+   ],
+   "en": "bubble gum shirt",
+   "et": "nätsusärk"
+  },
+  {
+   "ids": [
+    689
+   ],
+   "en": "funky dot shirt",
+   "et": "veider täpp"
+  },
+  {
+   "ids": [
+    690
+   ],
+   "en": "gumdrop shirt",
+   "et": "kommisärk"
+  },
+  {
+   "ids": [
+    691
+   ],
+   "en": "big dot shirt",
+   "et": "suur täpp särk"
+  },
+  {
+   "ids": [
+    692
+   ],
+   "en": "aqua polka shirt",
+   "et": "akva täpisärk"
+  },
+  {
+   "ids": [
+    693
+   ],
+   "en": "blue pinstripe",
+   "et": "sinine peentriip"
+  },
+  {
+   "ids": [
+    694
+   ],
+   "en": "yellow pinstripe",
+   "et": "kollased triibud"
+  },
+  {
+   "ids": [
+    695
+   ],
+   "en": "orange pinstripe",
+   "et": "oranž peentriip"
+  },
+  {
+   "ids": [
+    696
+   ],
+   "en": "vegetarian shirt",
+   "et": "taimetoidusärk"
+  },
+  {
+   "ids": [
+    697
+   ],
+   "en": "racer shirt",
+   "et": "võidusõidusärk"
+  },
+  {
+   "ids": [
+    698
+   ],
+   "en": "vertigo shirt",
+   "et": "peapöördesärk"
+  },
+  {
+   "ids": [
+    699
+   ],
+   "en": "barber shirt",
+   "et": "juuksurisärk"
+  },
+  {
+   "ids": [
+    700
+   ],
+   "en": "jade check print",
+   "et": "jade ruutmuster"
+  },
+  {
+   "ids": [
+    701
+   ],
+   "en": "blue check print",
+   "et": "sinine ruutmust"
+  },
+  {
+   "ids": [
+    702
+   ],
+   "en": "mint gingham top",
+   "et": "mündiruudu topp"
+  },
+  {
+   "ids": [
+    703
+   ],
+   "en": "picnic shirt",
+   "et": "piknikusärk"
+  },
+  {
+   "ids": [
+    704
+   ],
+   "en": "candy gingham",
+   "et": "kommiruut"
+  },
+  {
+   "ids": [
+    705
+   ],
+   "en": "lemon gingham",
+   "et": "sidruniruut"
+  },
+  {
+   "ids": [
+    706
+   ],
+   "en": "melon gingham",
+   "et": "meloniruut"
+  },
+  {
+   "ids": [
+    707
+   ],
+   "en": "bad plaid shirt",
+   "et": "halb ruut särk"
+  },
+  {
+   "ids": [
+    708
+   ],
+   "en": "pink tartan",
+   "et": "roosa ruut"
+  },
+  {
+   "ids": [
+    709
+   ],
+   "en": "waffle shirt",
+   "et": "vahvlisärk"
+  },
+  {
+   "ids": [
+    710
+   ],
+   "en": "gray tartan",
+   "et": "hall ruut"
+  },
+  {
+   "ids": [
+    711
+   ],
+   "en": "chevron shirt",
+   "et": "kalasabasärk"
+  },
+  {
+   "ids": [
+    712
+   ],
+   "en": "icy shirt",
+   "et": "jäine särk"
+  },
+  {
+   "ids": [
+    713
+   ],
+   "en": "aurora knit",
+   "et": "virmalisekudum"
+  },
+  {
+   "ids": [
+    714
+   ],
+   "en": "winter sweater",
+   "et": "talvekampsun"
+  },
+  {
+   "ids": [
+    715
+   ],
+   "en": "folk shirt",
+   "et": "rahvasärk"
+  },
+  {
+   "ids": [
+    716
+   ],
+   "en": "argyle knit",
+   "et": "rombikudum"
+  },
+  {
+   "ids": [
+    717
+   ],
+   "en": "uncommon shirt",
+   "et": "haruldane särk"
+  },
+  {
+   "ids": [
+    718
+   ],
+   "en": "comfy sweater",
+   "et": "mugav kampsun"
+  },
+  {
+   "ids": [
+    719
+   ],
+   "en": "beige knit",
+   "et": "beež kudum"
+  },
+  {
+   "ids": [
+    720
+   ],
+   "en": "earthy knit",
+   "et": "mullakudum"
+  },
+  {
+   "ids": [
+    721
+   ],
+   "en": "spring shirt",
+   "et": "kevadsärk"
+  },
+  {
+   "ids": [
+    722
+   ],
+   "en": "vogue top",
+   "et": "moetopp"
+  },
+  {
+   "ids": [
+    723
+   ],
+   "en": "citrus gingham",
+   "et": "tsitrusruut"
+  },
+  {
+   "ids": [
+    724
+   ],
+   "en": "floral knit",
+   "et": "lillekudum"
+  },
+  {
+   "ids": [
+    725
+   ],
+   "en": "dreamy shirt",
+   "et": "unelev särk"
+  },
+  {
+   "ids": [
+    726
+   ],
+   "en": "flowery shirt",
+   "et": "lillesärk"
+  },
+  {
+   "ids": [
+    727
+   ],
+   "en": "silk bloom shirt",
+   "et": "siidiõie särk"
+  },
+  {
+   "ids": [
+    728
+   ],
+   "en": "pop bloom shirt",
+   "et": "popp õie särk"
+  },
+  {
+   "ids": [
+    729
+   ],
+   "en": "blossom shirt",
+   "et": "õiesärk"
+  },
+  {
+   "ids": [
+    730
+   ],
+   "en": "loud bloom shirt",
+   "et": "kirev õie särk"
+  },
+  {
+   "ids": [
+    731
+   ],
+   "en": "rose shirt",
+   "et": "roosisärk"
+  },
+  {
+   "ids": [
+    732
+   ],
+   "en": "rose sky shirt",
+   "et": "roosa taeva särk"
+  },
+  {
+   "ids": [
+    733
+   ],
+   "en": "lotus shirt",
+   "et": "lootosesärk"
+  },
+  {
+   "ids": [
+    734
+   ],
+   "en": "chocomint shirt",
+   "et": "šokomündisärk"
+  },
+  {
+   "ids": [
+    735
+   ],
+   "en": "fern shirt",
+   "et": "sõnajalasärk"
+  },
+  {
+   "ids": [
+    736
+   ],
+   "en": "blue retro shirt",
+   "et": "sinine retrosärk"
+  },
+  {
+   "ids": [
+    737
+   ],
+   "en": "orange check tee",
+   "et": "oranž ruut T"
+  },
+  {
+   "ids": [
+    738
+   ],
+   "en": "leaf shirt",
+   "et": "lehesärk"
+  },
+  {
+   "ids": [
+    739
+   ],
+   "en": "fall leaf shirt",
+   "et": "sügislehe särk"
+  },
+  {
+   "ids": [
+    740
+   ],
+   "en": "grass shirt",
+   "et": "murusärk"
+  },
+  {
+   "ids": [
+    741
+   ],
+   "en": "snow shirt",
+   "et": "lumesärk"
+  },
+  {
+   "ids": [
+    742
+   ],
+   "en": "lovely shirt",
+   "et": "armas särk"
+  },
+  {
+   "ids": [
+    743
+   ],
+   "en": "bubble shirt",
+   "et": "mullisärk"
+  },
+  {
+   "ids": [
+    744
+   ],
+   "en": "chichi print",
+   "et": "tšikk muster"
+  },
+  {
+   "ids": [
+    745
+   ],
+   "en": "coral shirt",
+   "et": "korallisärk"
+  },
+  {
+   "ids": [
+    746
+   ],
+   "en": "groovy shirt",
+   "et": "groovi särk"
+  },
+  {
+   "ids": [
+    747
+   ],
+   "en": "cool shirt",
+   "et": "lahe särk"
+  },
+  {
+   "ids": [
+    748
+   ],
+   "en": "swell shirt",
+   "et": "tore särk"
+  },
+  {
+   "ids": [
+    749
+   ],
+   "en": "blue diamond top",
+   "et": "sinine rombtopp"
+  },
+  {
+   "ids": [
+    750
+   ],
+   "en": "prism shirt",
+   "et": "prismasärk"
+  },
+  {
+   "ids": [
+    751
+   ],
+   "en": "go-go shirt",
+   "et": "go-go särk"
+  },
+  {
+   "ids": [
+    752
+   ],
+   "en": "flame shirt",
+   "et": "leegisärk"
+  },
+  {
+   "ids": [
+    753
+   ],
+   "en": "danger shirt",
+   "et": "ohusärk"
+  },
+  {
+   "ids": [
+    754
+   ],
+   "en": "Gracie's top",
+   "et": "Gracie topp"
+  },
+  {
+   "ids": [
+    755
+   ],
+   "en": "future shirt",
+   "et": "tulevikusärk"
+  },
+  {
+   "ids": [
+    756
+   ],
+   "en": "optical shirt",
+   "et": "optikasärk"
+  },
+  {
+   "ids": [
+    757
+   ],
+   "en": "twinkle shirt",
+   "et": "sädesärk"
+  },
+  {
+   "ids": [
+    758
+   ],
+   "en": "star shirt",
+   "et": "tähesärk"
+  },
+  {
+   "ids": [
+    759
+   ],
+   "en": "night sky tee",
+   "et": "öötaeva T"
+  },
+  {
+   "ids": [
+    760
+   ],
+   "en": "amethyst shirt",
+   "et": "ametüstisärk"
+  },
+  {
+   "ids": [
+    761
+   ],
+   "en": "nebula shirt",
+   "et": "udukogusärk"
+  },
+  {
+   "ids": [
+    762
+   ],
+   "en": "dice shirt",
+   "et": "täringusärk"
+  },
+  {
+   "ids": [
+    763
+   ],
+   "en": "kiddie shirt",
+   "et": "lastesärk"
+  },
+  {
+   "ids": [
+    764
+   ],
+   "en": "airy shirt",
+   "et": "õhuline särk"
+  },
+  {
+   "ids": [
+    765
+   ],
+   "en": "polar fleece",
+   "et": "polaarfliis"
+  },
+  {
+   "ids": [
+    766
+   ],
+   "en": "crossing shirt",
+   "et": "ülekäigusärk"
+  },
+  {
+   "ids": [
+    767
+   ],
+   "en": "splendid shirt",
+   "et": "suurepärane särk"
+  },
+  {
+   "ids": [
+    768
+   ],
+   "en": "jagged shirt",
+   "et": "sakiline särk"
+  },
+  {
+   "ids": [
+    769
+   ],
+   "en": "subdued print",
+   "et": "tagasihoidlik"
+  },
+  {
+   "ids": [
+    770
+   ],
+   "en": "sharp outfit",
+   "et": "terav komplekt"
+  },
+  {
+   "ids": [
+    771
+   ],
+   "en": "jungle camo",
+   "et": "džunglikamu"
+  },
+  {
+   "ids": [
+    772
+   ],
+   "en": "arctic camo",
+   "et": "arktika kamu"
+  },
+  {
+   "ids": [
+    773
+   ],
+   "en": "desert camo",
+   "et": "kõrbekamu"
+  },
+  {
+   "ids": [
+    774
+   ],
+   "en": "zebra shirt",
+   "et": "sebrasärk"
+  },
+  {
+   "ids": [
+    775
+   ],
+   "en": "tiger shirt",
+   "et": "tiigrisärk"
+  },
+  {
+   "ids": [
+    776
+   ],
+   "en": "cow shirt",
+   "et": "lehmasärk"
+  },
+  {
+   "ids": [
+    777
+   ],
+   "en": "leopard shirt",
+   "et": "leopardisärk"
+  },
+  {
+   "ids": [
+    778
+   ],
+   "en": "giraffe shirt",
+   "et": "kaelkirjakusärk"
+  },
+  {
+   "ids": [
+    779
+   ],
+   "en": "ladybug shirt",
+   "et": "lepatriinusärk"
+  },
+  {
+   "ids": [
+    780
+   ],
+   "en": "butterfly shirt",
+   "et": "liblikasärk"
+  },
+  {
+   "ids": [
+    781
+   ],
+   "en": "spiderweb shirt",
+   "et": "ämblikuvõrk särk"
+  },
+  {
+   "ids": [
+    782
+   ],
+   "en": "caterpillar tee",
+   "et": "röövikusärk"
+  },
+  {
+   "ids": [
+    783
+   ],
+   "en": "fiendish shirt",
+   "et": "kuratlik särk"
+  },
+  {
+   "ids": [
+    784
+   ],
+   "en": "citrus shirt",
+   "et": "tsitrusesärk"
+  },
+  {
+   "ids": [
+    785
+   ],
+   "en": "kiwi shirt",
+   "et": "kiivisärk"
+  },
+  {
+   "ids": [
+    786
+   ],
+   "en": "watermelon shirt",
+   "et": "arbuusisärk"
+  },
+  {
+   "ids": [
+    787
+   ],
+   "en": "strawberry shirt",
+   "et": "maasikasärk"
+  },
+  {
+   "ids": [
+    788
+   ],
+   "en": "grape shirt",
+   "et": "viinamarjasärk"
+  },
+  {
+   "ids": [
+    789
+   ],
+   "en": "melon shirt",
+   "et": "melonisärk"
+  },
+  {
+   "ids": [
+    790
+   ],
+   "en": "pink wave shirt",
+   "et": "roosa laine särk"
+  },
+  {
+   "ids": [
+    791
+   ],
+   "en": "flan shirt",
+   "et": "flääni särk"
+  },
+  {
+   "ids": [
+    792
+   ],
+   "en": "hot dog shirt",
+   "et": "hot dogi särk"
+  },
+  {
+   "ids": [
+    793
+   ],
+   "en": "sandwich shirt",
+   "et": "võileivasärk"
+  },
+  {
+   "ids": [
+    794
+   ],
+   "en": "dragon suit",
+   "et": "lohekostüüm"
+  },
+  {
+   "ids": [
+    795
+   ],
+   "en": "asian shirt",
+   "et": "aasia särk"
+  },
+  {
+   "ids": [
+    796
+   ],
+   "en": "hot spring shirt",
+   "et": "kuumaallika särk"
+  },
+  {
+   "ids": [
+    797
+   ],
+   "en": "new spring shirt",
+   "et": "uue kevade särk"
+  },
+  {
+   "ids": [
+    798
+   ],
+   "en": "crewel shirt",
+   "et": "tikandsärk"
+  },
+  {
+   "ids": [
+    799
+   ],
+   "en": "tropical shirt",
+   "et": "troopikasärk"
+  },
+  {
+   "ids": [
+    800
+   ],
+   "en": "ribbon shirt",
+   "et": "lindisärk"
+  },
+  {
+   "ids": [
+    801
+   ],
+   "en": "bodice",
+   "et": "pihik"
+  },
+  {
+   "ids": [
+    802
+   ],
+   "en": "laced shirt",
+   "et": "pitssärk"
+  },
+  {
+   "ids": [
+    803
+   ],
+   "en": "circus shirt",
+   "et": "tsirkusesärk"
+  },
+  {
+   "ids": [
+    804
+   ],
+   "en": "green vest",
+   "et": "roheline vest"
+  },
+  {
+   "ids": [
+    805
+   ],
+   "en": "yellow bolero",
+   "et": "kollane bolero"
+  },
+  {
+   "ids": [
+    806
+   ],
+   "en": "noble shirt",
+   "et": "üllas särk"
+  },
+  {
+   "ids": [
+    807
+   ],
+   "en": "turnip top",
+   "et": "naeritopp"
+  },
+  {
+   "ids": [
+    808
+   ],
+   "en": "yodel shirt",
+   "et": "jodeldussärk"
+  },
+  {
+   "ids": [
+    809
+   ],
+   "en": "gaudy sweater",
+   "et": "kirju kampsun"
+  },
+  {
+   "ids": [
+    810
+   ],
+   "en": "western shirt",
+   "et": "vesternisärk"
+  },
+  {
+   "ids": [
+    811
+   ],
+   "en": "red riding hoody",
+   "et": "punamütsike"
+  },
+  {
+   "ids": [
+    812
+   ],
+   "en": "royal shirt",
+   "et": "kuninglik särk"
+  },
+  {
+   "ids": [
+    813
+   ],
+   "en": "witch shirt",
+   "et": "nõiasärk"
+  },
+  {
+   "ids": [
+    814
+   ],
+   "en": "firefighter tee",
+   "et": "tuletõrjujasärk"
+  },
+  {
+   "ids": [
+    815
+   ],
+   "en": "graduation gown",
+   "et": "lõpukuub"
+  },
+  {
+   "ids": [
+    816
+   ],
+   "en": "sky shirt",
+   "et": "taevasärk"
+  },
+  {
+   "ids": [
+    817
+   ],
+   "en": "captain's shirt",
+   "et": "kaptenisärk"
+  },
+  {
+   "ids": [
+    818
+   ],
+   "en": "burgler's shirt",
+   "et": "vargasärk"
+  },
+  {
+   "ids": [
+    819
+   ],
+   "en": "jester shirt",
+   "et": "narrisärk"
+  },
+  {
+   "ids": [
+    820
+   ],
+   "en": "nurse's uniform",
+   "et": "õevorm"
+  },
+  {
+   "ids": [
+    821
+   ],
+   "en": "bone shirt",
+   "et": "luusärk"
+  },
+  {
+   "ids": [
+    822
+   ],
+   "en": "zipper shirt",
+   "et": "lukusärk"
+  },
+  {
+   "ids": [
+    823
+   ],
+   "en": "mummy shirt",
+   "et": "muumiasärk"
+  },
+  {
+   "ids": [
+    824
+   ],
+   "en": "military uniform",
+   "et": "sõjaväevorm"
+  },
+  {
+   "ids": [
+    825
+   ],
+   "en": "sailor's uniform",
+   "et": "madrusevorm"
+  },
+  {
+   "ids": [
+    826
+   ],
+   "en": "reggae shirt",
+   "et": "reggaesärk"
+  },
+  {
+   "ids": [
+    827
+   ],
+   "en": "camel shirt",
+   "et": "kaamelisärk"
+  },
+  {
+   "ids": [
+    828
+   ],
+   "en": "molecule tee",
+   "et": "molekuli T"
+  },
+  {
+   "ids": [
+    829
+   ],
+   "en": "concierge shirt",
+   "et": "portjeesärk"
+  },
+  {
+   "ids": [
+    830
+   ],
+   "en": "kimono",
+   "et": "kimono"
+  },
+  {
+   "ids": [
+    831
+   ],
+   "en": "tuxedo",
+   "et": "smoking"
+  },
+  {
+   "ids": [
+    832
+   ],
+   "en": "explorer shirt",
+   "et": "maadeuurija särk"
+  },
+  {
+   "ids": [
+    833
+   ],
+   "en": "Dutch shirt",
+   "et": "hollandi särk"
+  },
+  {
+   "ids": [
+    834
+   ],
+   "en": "toga",
+   "et": "tooga"
+  },
+  {
+   "ids": [
+    835
+   ],
+   "en": "cake shirt",
+   "et": "koogisärk"
+  },
+  {
+   "ids": [
+    836
+   ],
+   "en": "waitress shirt",
+   "et": "ettekandjasärk"
+  },
+  {
+   "ids": [
+    837
+   ],
+   "en": "princess shirt",
+   "et": "printsessisärk"
+  },
+  {
+   "ids": [
+    838
+   ],
+   "en": "fairy tale shirt",
+   "et": "muinasjutusärk"
+  },
+  {
+   "ids": [
+    839
+   ],
+   "en": "Spanish shirt",
+   "et": "hispaania särk"
+  },
+  {
+   "ids": [
+    840
+   ],
+   "en": "Latin uniform",
+   "et": "ladina vorm"
+  },
+  {
+   "ids": [
+    841
+   ],
+   "en": "red down vest",
+   "et": "punane sulevest"
+  },
+  {
+   "ids": [
+    842
+   ],
+   "en": "one-way tee",
+   "et": "ühesuuna T"
+  },
+  {
+   "ids": [
+    843
+   ],
+   "en": "beaded shirt",
+   "et": "helmessärk"
+  },
+  {
+   "ids": [
+    844
+   ],
+   "en": "Nile shirt",
+   "et": "Niiluse särk"
+  },
+  {
+   "ids": [
+    845
+   ],
+   "en": "wrap shirt",
+   "et": "mähissärk"
+  },
+  {
+   "ids": [
+    846
+   ],
+   "en": "wrestler shirt",
+   "et": "maadlejasärk"
+  },
+  {
+   "ids": [
+    847
+   ],
+   "en": "security shirt",
+   "et": "turvasärk"
+  },
+  {
+   "ids": [
+    848
+   ],
+   "en": "poncho",
+   "et": "poncho"
+  },
+  {
+   "ids": [
+    849
+   ],
+   "en": "fluffy shirt",
+   "et": "kohev särk"
+  },
+  {
+   "ids": [
+    850
+   ],
+   "en": "Chinese shirt",
+   "et": "hiina särk"
+  },
+  {
+   "ids": [
+    851
+   ],
+   "en": "pep squad shirt",
+   "et": "ergutussärk"
+  },
+  {
+   "ids": [
+    852
+   ],
+   "en": "racing shirt",
+   "et": "võidusõidusärk"
+  },
+  {
+   "ids": [
+    853
+   ],
+   "en": "orange jumpsuit",
+   "et": "oranž kombe"
+  },
+  {
+   "ids": [
+    854
+   ],
+   "en": "tin shirt",
+   "et": "plekksärk"
+  },
+  {
+   "ids": [
+    855
+   ],
+   "en": "scale armor",
+   "et": "soomusrüü"
+  },
+  {
+   "ids": [
+    856
+   ],
+   "en": "armor suit",
+   "et": "raudrüü"
+  },
+  {
+   "ids": [
+    857
+   ],
+   "en": "gold armor",
+   "et": "kuld raudrüü"
+  },
+  {
+   "ids": [
+    858
+   ],
+   "en": "red warmup suit",
+   "et": "punane dress"
+  },
+  {
+   "ids": [
+    859
+   ],
+   "en": "baseball shirt",
+   "et": "pesapallisärk"
+  },
+  {
+   "ids": [
+    860
+   ],
+   "en": "leather jerkin",
+   "et": "nahkvest"
+  },
+  {
+   "ids": [
+    861
+   ],
+   "en": "frock coat",
+   "et": "pikk-kuub"
+  },
+  {
+   "ids": [
+    863
+   ],
+   "en": "caveman tunic",
+   "et": "koopamehe rüü"
+  },
+  {
+   "ids": [
+    864
+   ],
+   "en": "moldy shirt",
+   "et": "hallitanud särk"
+  },
+  {
+   "ids": [
+    905
+   ],
+   "en": "gelato umbrella",
+   "et": "gelatovari"
+  },
+  {
+   "ids": [
+    906
+   ],
+   "en": "bat umbrella",
+   "et": "nahkhiirevari"
+  },
+  {
+   "ids": [
+    907
+   ],
+   "en": "lacy parasol",
+   "et": "pitsvari"
+  },
+  {
+   "ids": [
+    908
+   ],
+   "en": "leaf umbrella",
+   "et": "lehevari"
+  },
+  {
+   "ids": [
+    909
+   ],
+   "en": "paper parasol",
+   "et": "pabervari"
+  },
+  {
+   "ids": [
+    910
+   ],
+   "en": "ribbon umbrella",
+   "et": "lindivari"
+  },
+  {
+   "ids": [
+    911
+   ],
+   "en": "red umbrella",
+   "et": "punane vari"
+  },
+  {
+   "ids": [
+    912
+   ],
+   "en": "blue umbrella",
+   "et": "sinine vari"
+  },
+  {
+   "ids": [
+    913
+   ],
+   "en": "yellow umbrella",
+   "et": "kollane vari"
+  },
+  {
+   "ids": [
+    914
+   ],
+   "en": "green umbrella",
+   "et": "roheline vari"
+  },
+  {
+   "ids": [
+    915
+   ],
+   "en": "candy umbrella",
+   "et": "kommivari"
+  },
+  {
+   "ids": [
+    916
+   ],
+   "en": "melon umbrella",
+   "et": "melonivari"
+  },
+  {
+   "ids": [
+    917
+   ],
+   "en": "mint umbrella",
+   "et": "mündivari"
+  },
+  {
+   "ids": [
+    918
+   ],
+   "en": "picnic umbrella",
+   "et": "piknikuvari"
+  },
+  {
+   "ids": [
+    919
+   ],
+   "en": "lemon umbrella",
+   "et": "sidrunivari"
+  },
+  {
+   "ids": [
+    920
+   ],
+   "en": "Toad parasol",
+   "et": "Toadi vari"
+  },
+  {
+   "ids": [
+    921
+   ],
+   "en": "eggy parasol",
+   "et": "munavari"
+  },
+  {
+   "ids": [
+    922
+   ],
+   "en": "blue dot parasol",
+   "et": "sinise täpi vari"
+  },
+  {
+   "ids": [
+    923
+   ],
+   "en": "daisy umbrella",
+   "et": "karikakravari"
+  },
+  {
+   "ids": [
+    924
+   ],
+   "en": "paw umbrella",
+   "et": "käpavari"
+  },
+  {
+   "ids": [
+    925
+   ],
+   "en": "petal parasol",
+   "et": "õievari"
+  },
+  {
+   "ids": [
+    926
+   ],
+   "en": "busted umbrella",
+   "et": "katkine vari"
+  },
+  {
+   "ids": [
+    927
+   ],
+   "en": "sunny parasol",
+   "et": "päikesevari"
+  },
+  {
+   "ids": [
+    928
+   ],
+   "en": "beach umbrella",
+   "et": "rannavari"
+  },
+  {
+   "ids": [
+    929
+   ],
+   "en": "elegant umbrella",
+   "et": "elegantne vari"
+  },
+  {
+   "ids": [
+    930
+   ],
+   "en": "modern umbrella",
+   "et": "moodne vari"
+  },
+  {
+   "ids": [
+    931
+   ],
+   "en": "leopard umbrella",
+   "et": "leopardivari"
+  },
+  {
+   "ids": [
+    932
+   ],
+   "en": "zebra umbrella",
+   "et": "sebravari"
+  },
+  {
+   "ids": [
+    933
+   ],
+   "en": "forest umbrella",
+   "et": "metsavari"
+  },
+  {
+   "ids": [
+    934
+   ],
+   "en": "flame umbrella",
+   "et": "leegivari"
+  },
+  {
+   "ids": [
+    935
+   ],
+   "en": "camo umbrella",
+   "et": "kamuvari"
+  },
+  {
+   "ids": [
+    936
+   ],
+   "en": "spider umbrella",
+   "et": "ämblikuvari"
+  },
+  {
+   "ids": [
+    1001
+   ],
+   "en": "white cap",
+   "et": "valge müts"
+  },
+  {
+   "ids": [
+    1002
+   ],
+   "en": "red cap",
+   "et": "punane müts"
+  },
+  {
+   "ids": [
+    1003
+   ],
+   "en": "yellow cap",
+   "et": "kollane müts"
+  },
+  {
+   "ids": [
+    1004
+   ],
+   "en": "light blue cap",
+   "et": "helesinine müts"
+  },
+  {
+   "ids": [
+    1005
+   ],
+   "en": "green cap",
+   "et": "roheline müts"
+  },
+  {
+   "ids": [
+    1006
+   ],
+   "en": "star cap",
+   "et": "tähemüts"
+  },
+  {
+   "ids": [
+    1007
+   ],
+   "en": "1 UP cap",
+   "et": "1-Up müts"
+  },
+  {
+   "ids": [
+    1008
+   ],
+   "en": "purple cap",
+   "et": "lilla müts"
+  },
+  {
+   "ids": [
+    1009
+   ],
+   "en": "blue knit hat",
+   "et": "sinine kudumüts"
+  },
+  {
+   "ids": [
+    1010
+   ],
+   "en": "green knit hat",
+   "et": "roh. kudumüts"
+  },
+  {
+   "ids": [
+    1011
+   ],
+   "en": "orange knit hat",
+   "et": "oranž kudumüts"
+  },
+  {
+   "ids": [
+    1012
+   ],
+   "en": "pink knit hat",
+   "et": "roosa kudumüts"
+  },
+  {
+   "ids": [
+    1013
+   ],
+   "en": "purple knit hat",
+   "et": "lilla kudumüts"
+  },
+  {
+   "ids": [
+    1014
+   ],
+   "en": "red pompom hat",
+   "et": "punane tutimüts"
+  },
+  {
+   "ids": [
+    1015
+   ],
+   "en": "badge hat",
+   "et": "märgimüts"
+  },
+  {
+   "ids": [
+    1016
+   ],
+   "en": "straw hat",
+   "et": "õlgkübar"
+  },
+  {
+   "ids": [
+    1017
+   ],
+   "en": "grandpa hat",
+   "et": "vanaisa müts"
+  },
+  {
+   "ids": [
+    1018
+   ],
+   "en": "paperboy cap",
+   "et": "poisimüts"
+  },
+  {
+   "ids": [
+    1019
+   ],
+   "en": "beret",
+   "et": "barett"
+  },
+  {
+   "ids": [
+    1020
+   ],
+   "en": "dandy hat",
+   "et": "dändikübar"
+  },
+  {
+   "ids": [
+    1021
+   ],
+   "en": "hunter's cap",
+   "et": "jahimehe müts"
+  },
+  {
+   "ids": [
+    1022
+   ],
+   "en": "detective hat",
+   "et": "detektiivikübar"
+  },
+  {
+   "ids": [
+    1023
+   ],
+   "en": "top hat",
+   "et": "silinder"
+  },
+  {
+   "ids": [
+    1024
+   ],
+   "en": "puffy hat",
+   "et": "kohev müts"
+  },
+  {
+   "ids": [
+    1025
+   ],
+   "en": "bandana",
+   "et": "bandaana"
+  },
+  {
+   "ids": [
+    1026
+   ],
+   "en": "swimming cap",
+   "et": "ujumismüts"
+  },
+  {
+   "ids": [
+    1027
+   ],
+   "en": "wizard's cap",
+   "et": "võlurimüts"
+  },
+  {
+   "ids": [
+    1028
+   ],
+   "en": "big bro's hat",
+   "et": "suure venna müts"
+  },
+  {
+   "ids": [
+    1029
+   ],
+   "en": "li'l bro's hat",
+   "et": "väikevenna müts"
+  },
+  {
+   "ids": [
+    1030
+   ],
+   "en": "bicycle helmet",
+   "et": "rattakiiver"
+  },
+  {
+   "ids": [
+    1031
+   ],
+   "en": "chef's hat",
+   "et": "kokamüts"
+  },
+  {
+   "ids": [
+    1032
+   ],
+   "en": "combat helmet",
+   "et": "lahingukiiver"
+  },
+  {
+   "ids": [
+    1033
+   ],
+   "en": "scholar's hat",
+   "et": "õpetlase müts"
+  },
+  {
+   "ids": [
+    1034
+   ],
+   "en": "safety helmet",
+   "et": "kaitsekiiver"
+  },
+  {
+   "ids": [
+    1035
+   ],
+   "en": "police cap",
+   "et": "politseimüts"
+  },
+  {
+   "ids": [
+    1036
+   ],
+   "en": "explorer's hat",
+   "et": "uurijakübar"
+  },
+  {
+   "ids": [
+    1037
+   ],
+   "en": "captain's hat",
+   "et": "kaptenimüts"
+  },
+  {
+   "ids": [
+    1038
+   ],
+   "en": "sailor's hat",
+   "et": "madrusemüts"
+  },
+  {
+   "ids": [
+    1039
+   ],
+   "en": "silk hat",
+   "et": "siidkübar"
+  },
+  {
+   "ids": [
+    1040
+   ],
+   "en": "ten-gallon hat",
+   "et": "kauboikübar"
+  },
+  {
+   "ids": [
+    1041
+   ],
+   "en": "Dutch hat",
+   "et": "hollandi müts"
+  },
+  {
+   "ids": [
+    1042
+   ],
+   "en": "sombrero",
+   "et": "sombreero"
+  },
+  {
+   "ids": [
+    1043
+   ],
+   "en": "Tyrolean hat",
+   "et": "tirooli kübar"
+  },
+  {
+   "ids": [
+    1044
+   ],
+   "en": "Viking helmet",
+   "et": "viikingikiiver"
+  },
+  {
+   "ids": [
+    1045
+   ],
+   "en": "soldier's hat",
+   "et": "sõdurimüts"
+  },
+  {
+   "ids": [
+    1046
+   ],
+   "en": "pirate's hat",
+   "et": "piraadikübar"
+  },
+  {
+   "ids": [
+    1047
+   ],
+   "en": "jester's cap",
+   "et": "narrimüts"
+  },
+  {
+   "ids": [
+    1048
+   ],
+   "en": "witch's hat",
+   "et": "nõiakübar"
+  },
+  {
+   "ids": [
+    1049
+   ],
+   "en": "red ribbon",
+   "et": "punane lint"
+  },
+  {
+   "ids": [
+    1050
+   ],
+   "en": "blue ribbon",
+   "et": "sinine lint"
+  },
+  {
+   "ids": [
+    1051
+   ],
+   "en": "green ribbon",
+   "et": "roheline lint"
+  },
+  {
+   "ids": [
+    1052
+   ],
+   "en": "heart hair pin",
+   "et": "südameklamber"
+  },
+  {
+   "ids": [
+    1053
+   ],
+   "en": "star hair pin",
+   "et": "täheklamber"
+  },
+  {
+   "ids": [
+    1054
+   ],
+   "en": "moon hair pin",
+   "et": "kuuklamber"
+  },
+  {
+   "ids": [
+    1055
+   ],
+   "en": "green feather",
+   "et": "roheline sulg"
+  },
+  {
+   "ids": [
+    1056
+   ],
+   "en": "blue feather",
+   "et": "sinine sulg"
+  },
+  {
+   "ids": [
+    1057
+   ],
+   "en": "yellow feather",
+   "et": "kollane sulg"
+  },
+  {
+   "ids": [
+    1058
+   ],
+   "en": "red feather",
+   "et": "punane sulg"
+  },
+  {
+   "ids": [
+    1059
+   ],
+   "en": "purple feather",
+   "et": "lilla sulg"
+  },
+  {
+   "ids": [
+    1060
+   ],
+   "en": "white feather",
+   "et": "valge sulg"
+  },
+  {
+   "ids": [
+    1061
+   ],
+   "en": "rainbow feather",
+   "et": "vikerkaaresulg"
+  },
+  {
+   "ids": [
+    1062
+   ],
+   "en": "halo",
+   "et": "aupaiste"
+  },
+  {
+   "ids": [
+    1063
+   ],
+   "en": "royal crown",
+   "et": "kuninglik kroon"
+  },
+  {
+   "ids": [
+    1064
+   ],
+   "en": "crown",
+   "et": "kroon"
+  },
+  {
+   "ids": [
+    1065
+   ],
+   "en": "pilot's cap",
+   "et": "piloodimüts"
+  },
+  {
+   "ids": [
+    1066
+   ],
+   "en": "fireman's hat",
+   "et": "tuletõrjekiiver"
+  },
+  {
+   "ids": [
+    1067
+   ],
+   "en": "baby's hat",
+   "et": "beebimüts"
+  },
+  {
+   "ids": [
+    1068,
+    1093,
+    1094,
+    1095,
+    1096
+   ],
+   "en": "white veil",
+   "et": "valge loor"
+  },
+  {
+   "ids": [
+    1069
+   ],
+   "en": "turban",
+   "et": "turban"
+  },
+  {
+   "ids": [
+    1070
+   ],
+   "en": "war bonnet",
+   "et": "sulepeaehe"
+  },
+  {
+   "ids": [
+    1071
+   ],
+   "en": "kaffiyeh",
+   "et": "kefije"
+  },
+  {
+   "ids": [
+    1072
+   ],
+   "en": "cow bone",
+   "et": "lehmaluu"
+  },
+  {
+   "ids": [
+    1073
+   ],
+   "en": "samurai wig",
+   "et": "samuraiparukas"
+  },
+  {
+   "ids": [
+    1074
+   ],
+   "en": "geisha wig",
+   "et": "geišaparukas"
+  },
+  {
+   "ids": [
+    1075
+   ],
+   "en": "ninja hood",
+   "et": "nindžakapuuts"
+  },
+  {
+   "ids": [
+    1076
+   ],
+   "en": "powdered wig",
+   "et": "puuderparukas"
+  },
+  {
+   "ids": [
+    1077
+   ],
+   "en": "afro wig",
+   "et": "afroparukas"
+  },
+  {
+   "ids": [
+    1078
+   ],
+   "en": "regent wig",
+   "et": "regendiparukas"
+  },
+  {
+   "ids": [
+    1079
+   ],
+   "en": "mohawk wig",
+   "et": "mohikaaniparuka"
+  },
+  {
+   "ids": [
+    1080
+   ],
+   "en": "pig tail",
+   "et": "seasaba"
+  },
+  {
+   "ids": [
+    1081
+   ],
+   "en": "bunny hood",
+   "et": "jänkukapuuts"
+  },
+  {
+   "ids": [
+    1082
+   ],
+   "en": "racing helmet",
+   "et": "võidusõidukiiver"
+  },
+  {
+   "ids": [
+    1083
+   ],
+   "en": "motocross helmet",
+   "et": "krossikiiver"
+  },
+  {
+   "ids": [
+    1084
+   ],
+   "en": "football helmet",
+   "et": "jalgpallikiiver"
+  },
+  {
+   "ids": [
+    1085
+   ],
+   "en": "knight's helmet",
+   "et": "rüütlikiiver"
+  },
+  {
+   "ids": [
+    1086
+   ],
+   "en": "Roman helmet",
+   "et": "rooma kiiver"
+  },
+  {
+   "ids": [
+    1087
+   ],
+   "en": "diving mask",
+   "et": "sukeldumismask"
+  },
+  {
+   "ids": [
+    1088
+   ],
+   "en": "space helmet",
+   "et": "kosmosekiiver"
+  },
+  {
+   "ids": [
+    1089
+   ],
+   "en": "dunce mask",
+   "et": "narri mask"
+  },
+  {
+   "ids": [
+    1090
+   ],
+   "en": "wrestling mask",
+   "et": "maadlusmask"
+  },
+  {
+   "ids": [
+    1091
+   ],
+   "en": "dressing",
+   "et": "side"
+  },
+  {
+   "ids": [
+    1092
+   ],
+   "en": "King Tut wig",
+   "et": "Tutanhamon"
+  },
+  {
+   "ids": [
+    1097
+   ],
+   "en": "blue frames",
+   "et": "sinine raam"
+  },
+  {
+   "ids": [
+    1098
+   ],
+   "en": "red glasses",
+   "et": "punased prillid"
+  },
+  {
+   "ids": [
+    1099
+   ],
+   "en": "yellow glasses",
+   "et": "kollased prillid"
+  },
+  {
+   "ids": [
+    1100
+   ],
+   "en": "blue glasses",
+   "et": "sinised prillid"
+  },
+  {
+   "ids": [
+    1101
+   ],
+   "en": "purple glasses",
+   "et": "lillad prillid"
+  },
+  {
+   "ids": [
+    1102
+   ],
+   "en": "green glasses",
+   "et": "roheline prill"
+  },
+  {
+   "ids": [
+    1103
+   ],
+   "en": "brown glasses",
+   "et": "pruunid prillid"
+  },
+  {
+   "ids": [
+    1104
+   ],
+   "en": "pink glasses",
+   "et": "roosad prillid"
+  },
+  {
+   "ids": [
+    1105
+   ],
+   "en": "thick glasses",
+   "et": "paksud prillid"
+  },
+  {
+   "ids": [
+    1106
+   ],
+   "en": "silver frames",
+   "et": "hõbedane raam"
+  },
+  {
+   "ids": [
+    1107
+   ],
+   "en": "rimmed glasses",
+   "et": "raamiga prillid"
+  },
+  {
+   "ids": [
+    1108
+   ],
+   "en": "funky glasses",
+   "et": "veidrad prillid"
+  },
+  {
+   "ids": [
+    1109
+   ],
+   "en": "pilot shades",
+   "et": "piloodiprillid"
+  },
+  {
+   "ids": [
+    1110
+   ],
+   "en": "sporty shades",
+   "et": "spordiprillid"
+  },
+  {
+   "ids": [
+    1111
+   ],
+   "en": "huge shades",
+   "et": "suured prillid"
+  },
+  {
+   "ids": [
+    1112
+   ],
+   "en": "triangle shades",
+   "et": "kolmnurkprillid"
+  },
+  {
+   "ids": [
+    1113
+   ],
+   "en": "tiny shades",
+   "et": "pisiprillid"
+  },
+  {
+   "ids": [
+    1114
+   ],
+   "en": "3-D glasses",
+   "et": "3-D prillid"
+  },
+  {
+   "ids": [
+    1115
+   ],
+   "en": "masquerade mask",
+   "et": "maskiballimask"
+  },
+  {
+   "ids": [
+    1116
+   ],
+   "en": "hero's mask",
+   "et": "kangelasmask"
+  },
+  {
+   "ids": [
+    1117
+   ],
+   "en": "goggles",
+   "et": "kaitseprillid"
+  },
+  {
+   "ids": [
+    1118
+   ],
+   "en": "snorkel mask",
+   "et": "snorkeldusmask"
+  },
+  {
+   "ids": [
+    1119
+   ],
+   "en": "eye mask",
+   "et": "unemask"
+  },
+  {
+   "ids": [
+    1120
+   ],
+   "en": "HMD",
+   "et": "HMD"
+  },
+  {
+   "ids": [
+    1121
+   ],
+   "en": "monocle",
+   "et": "monokkel"
+  },
+  {
+   "ids": [
+    1122
+   ],
+   "en": "doctor's mirror",
+   "et": "arstipeegel"
+  },
+  {
+   "ids": [
+    1123
+   ],
+   "en": "eye patch",
+   "et": "silmaklapp"
+  },
+  {
+   "ids": [
+    1124
+   ],
+   "en": "post-op patch",
+   "et": "haavaplaaster"
+  },
+  {
+   "ids": [
+    1125
+   ],
+   "en": "gas mask",
+   "et": "gaasimask"
+  },
+  {
+   "ids": [
+    1126
+   ],
+   "en": "hockey mask",
+   "et": "hokimask"
+  },
+  {
+   "ids": [
+    1127
+   ],
+   "en": "red nose",
+   "et": "punane nina"
+  },
+  {
+   "ids": [
+    1128
+   ],
+   "en": "stache & glasses",
+   "et": "vuntsid ja prill"
+  },
+  {
+   "ids": [
+    1129
+   ],
+   "en": "Mario mustache",
+   "et": "Mario vuntsid"
+  },
+  {
+   "ids": [
+    1130
+   ],
+   "en": "curly mustache",
+   "et": "lokkis vuntsid"
+  },
+  {
+   "ids": [
+    1131,
+    1135,
+    1136,
+    1137,
+    1138,
+    1139,
+    1140,
+    1141,
+    1142,
+    1143,
+    1144,
+    1145,
+    1146,
+    1147,
+    1148,
+    1149,
+    1150,
+    1151,
+    1152,
+    1153,
+    1154,
+    1155,
+    1156,
+    1157,
+    1158,
+    1159,
+    1160
+   ],
+   "en": "mini-mustache",
+   "et": "minivuntsid"
+  },
+  {
+   "ids": [
+    1132
+   ],
+   "en": "king's beard",
+   "et": "kuninga habe"
+  },
+  {
+   "ids": [
+    1133
+   ],
+   "en": "mask",
+   "et": "mask"
+  },
+  {
+   "ids": [
+    1134
+   ],
+   "en": "pacifier",
+   "et": "lutt"
+  },
+  {
+   "ids": [
+    1193
+   ],
+   "en": "common butterfly",
+   "et": "valge liblikas"
+  },
+  {
+   "ids": [
+    1194
+   ],
+   "en": "yellow butterfly",
+   "et": "kollane liblikas"
+  },
+  {
+   "ids": [
+    1195
+   ],
+   "en": "tiger butterfly",
+   "et": "tiigriliblikas"
+  },
+  {
+   "ids": [
+    1196
+   ],
+   "en": "peacock",
+   "et": "paabusilm"
+  },
+  {
+   "ids": [
+    1197
+   ],
+   "en": "monarch",
+   "et": "monarhliblikas"
+  },
+  {
+   "ids": [
+    1198
+   ],
+   "en": "emperor",
+   "et": "keiserliblikas"
+  },
+  {
+   "ids": [
+    1199
+   ],
+   "en": "agrias butterfly",
+   "et": "agria liblikas"
+  },
+  {
+   "ids": [
+    1200
+   ],
+   "en": "birdwing",
+   "et": "linnutiib"
+  },
+  {
+   "ids": [
+    1201
+   ],
+   "en": "moth",
+   "et": "ööliblikas"
+  },
+  {
+   "ids": [
+    1202
+   ],
+   "en": "oak silk moth",
+   "et": "tammesiidiliblik"
+  },
+  {
+   "ids": [
+    1203
+   ],
+   "en": "honeybee",
+   "et": "meemesilane"
+  },
+  {
+   "ids": [
+    1204
+   ],
+   "en": "hornet",
+   "et": "vapsik"
+  },
+  {
+   "ids": [
+    1205
+   ],
+   "en": "long locust",
+   "et": "pikk rohutirts"
+  },
+  {
+   "ids": [
+    1206
+   ],
+   "en": "migratory locust",
+   "et": "rändrohutirts"
+  },
+  {
+   "ids": [
+    1207
+   ],
+   "en": "mantis",
+   "et": "palveritsikas"
+  },
+  {
+   "ids": [
+    1208
+   ],
+   "en": "orchid mantis",
+   "et": "orhideeritsikas"
+  },
+  {
+   "ids": [
+    1209
+   ],
+   "en": "brown cicada",
+   "et": "pruun tsikaad"
+  },
+  {
+   "ids": [
+    1210
+   ],
+   "en": "robust cicada",
+   "et": "tugev tsikaad"
+  },
+  {
+   "ids": [
+    1211
+   ],
+   "en": "walker cicada",
+   "et": "walkeri tsikaad"
+  },
+  {
+   "ids": [
+    1212
+   ],
+   "en": "evening cicada",
+   "et": "õhtutsikaad"
+  },
+  {
+   "ids": [
+    1213
+   ],
+   "en": "lanternfly",
+   "et": "laternkärbes"
+  },
+  {
+   "ids": [
+    1214
+   ],
+   "en": "red dragonfly",
+   "et": "punane kiil"
+  },
+  {
+   "ids": [
+    1215
+   ],
+   "en": "darner dragonfly",
+   "et": "suurkiil"
+  },
+  {
+   "ids": [
+    1216
+   ],
+   "en": "banded dragonfly",
+   "et": "triipkiil"
+  },
+  {
+   "ids": [
+    1217
+   ],
+   "en": "ant",
+   "et": "sipelgas"
+  },
+  {
+   "ids": [
+    1218
+   ],
+   "en": "pond skater",
+   "et": "vesijooksik"
+  },
+  {
+   "ids": [
+    1219
+   ],
+   "en": "snail",
+   "et": "tigu"
+  },
+  {
+   "ids": [
+    1220
+   ],
+   "en": "cricket",
+   "et": "kilk"
+  },
+  {
+   "ids": [
+    1221
+   ],
+   "en": "bell cricket",
+   "et": "kellukilk"
+  },
+  {
+   "ids": [
+    1222
+   ],
+   "en": "grasshopper",
+   "et": "rohutirts"
+  },
+  {
+   "ids": [
+    1223
+   ],
+   "en": "mole cricket",
+   "et": "mutukilk"
+  },
+  {
+   "ids": [
+    1224
+   ],
+   "en": "walkingstick",
+   "et": "kepikas"
+  },
+  {
+   "ids": [
+    1225
+   ],
+   "en": "ladybug",
+   "et": "lepatriinu"
+  },
+  {
+   "ids": [
+    1226
+   ],
+   "en": "fruit beetle",
+   "et": "puuviljamardikas"
+  },
+  {
+   "ids": [
+    1227
+   ],
+   "en": "shining beetle",
+   "et": "läikiv põrnikas"
+  },
+  {
+   "ids": [
+    1228
+   ],
+   "en": "dung beetle",
+   "et": "sitasitikas"
+  },
+  {
+   "ids": [
+    1229
+   ],
+   "en": "goliath beetle",
+   "et": "goliatmardikas"
+  },
+  {
+   "ids": [
+    1230
+   ],
+   "en": "firefly",
+   "et": "jaanimardikas"
+  },
+  {
+   "ids": [
+    1231
+   ],
+   "en": "jewel beetle",
+   "et": "kullasepp"
+  },
+  {
+   "ids": [
+    1232
+   ],
+   "en": "longhorn beetle",
+   "et": "pikksarv"
+  },
+  {
+   "ids": [
+    1233
+   ],
+   "en": "saw stag beetle",
+   "et": "saagpõrnikas"
+  },
+  {
+   "ids": [
+    1234
+   ],
+   "en": "stag beetle",
+   "et": "põdrapõrnikas"
+  },
+  {
+   "ids": [
+    1235
+   ],
+   "en": "giant beetle",
+   "et": "hiidpõrnikas"
+  },
+  {
+   "ids": [
+    1236
+   ],
+   "en": "king stag beetle",
+   "et": "kuningpõrnikas"
+  },
+  {
+   "ids": [
+    1237
+   ],
+   "en": "dynastid beetle",
+   "et": "ninasarvikmardik"
+  },
+  {
+   "ids": [
+    1238
+   ],
+   "en": "atlas beetle",
+   "et": "atlasepõrnikas"
+  },
+  {
+   "ids": [
+    1239
+   ],
+   "en": "elephant beetle",
+   "et": "elevantmardikas"
+  },
+  {
+   "ids": [
+    1240
+   ],
+   "en": "hercules beetle",
+   "et": "heraklespõrnika"
+  },
+  {
+   "ids": [
+    1241
+   ],
+   "en": "flea",
+   "et": "kirp"
+  },
+  {
+   "ids": [
+    1242
+   ],
+   "en": "pillbug",
+   "et": "kakand"
+  },
+  {
+   "ids": [
+    1243
+   ],
+   "en": "mosquito",
+   "et": "sääsk"
+  },
+  {
+   "ids": [
+    1244
+   ],
+   "en": "fly",
+   "et": "kärbes"
+  },
+  {
+   "ids": [
+    1245
+   ],
+   "en": "cockroach",
+   "et": "prussakas"
+  },
+  {
+   "ids": [
+    1246
+   ],
+   "en": "spider",
+   "et": "ämblik"
+  },
+  {
+   "ids": [
+    1247
+   ],
+   "en": "tarantula",
+   "et": "tarantel"
+  },
+  {
+   "ids": [
+    1248
+   ],
+   "en": "scorpion",
+   "et": "skorpion"
+  },
+  {
+   "ids": [
+    1249
+   ],
+   "en": "bitterling",
+   "et": "mõrusilm"
+  },
+  {
+   "ids": [
+    1250
+   ],
+   "en": "pale chub",
+   "et": "säinas"
+  },
+  {
+   "ids": [
+    1251
+   ],
+   "en": "crucian carp",
+   "et": "koger"
+  },
+  {
+   "ids": [
+    1252
+   ],
+   "en": "dace",
+   "et": "turb"
+  },
+  {
+   "ids": [
+    1253
+   ],
+   "en": "barbel steed",
+   "et": "vurrkala"
+  },
+  {
+   "ids": [
+    1254
+   ],
+   "en": "carp",
+   "et": "karpkala"
+  },
+  {
+   "ids": [
+    1255
+   ],
+   "en": "koi",
+   "et": "koi"
+  },
+  {
+   "ids": [
+    1256
+   ],
+   "en": "goldfish",
+   "et": "kuldkala"
+  },
+  {
+   "ids": [
+    1257
+   ],
+   "en": "popeyed goldfish",
+   "et": "punnsilmkuldkala"
+  },
+  {
+   "ids": [
+    1258
+   ],
+   "en": "killifish",
+   "et": "hambakarpkala"
+  },
+  {
+   "ids": [
+    1259
+   ],
+   "en": "crawfish",
+   "et": "jõevähk"
+  },
+  {
+   "ids": [
+    1260
+   ],
+   "en": "frog",
+   "et": "konn"
+  },
+  {
+   "ids": [
+    1261
+   ],
+   "en": "freshwater goby",
+   "et": "mageveemudil"
+  },
+  {
+   "ids": [
+    1262
+   ],
+   "en": "loach",
+   "et": "hink"
+  },
+  {
+   "ids": [
+    1263
+   ],
+   "en": "catfish",
+   "et": "säga"
+  },
+  {
+   "ids": [
+    1264
+   ],
+   "en": "eel",
+   "et": "angerjas"
+  },
+  {
+   "ids": [
+    1265
+   ],
+   "en": "giant snakehead",
+   "et": "hiidmaokala"
+  },
+  {
+   "ids": [
+    1266
+   ],
+   "en": "bluegill",
+   "et": "sinilõpus"
+  },
+  {
+   "ids": [
+    1267
+   ],
+   "en": "yellow perch",
+   "et": "kollane ahven"
+  },
+  {
+   "ids": [
+    1268
+   ],
+   "en": "black bass",
+   "et": "must ahven"
+  },
+  {
+   "ids": [
+    1269
+   ],
+   "en": "pond smelt",
+   "et": "tiigimeritint"
+  },
+  {
+   "ids": [
+    1270
+   ],
+   "en": "sweetfish",
+   "et": "magekala"
+  },
+  {
+   "ids": [
+    1271
+   ],
+   "en": "cherry salmon",
+   "et": "kirsilõhe"
+  },
+  {
+   "ids": [
+    1272
+   ],
+   "en": "char",
+   "et": "paalia"
+  },
+  {
+   "ids": [
+    1273
+   ],
+   "en": "rainbow trout",
+   "et": "vikerforell"
+  },
+  {
+   "ids": [
+    1274
+   ],
+   "en": "stringfish",
+   "et": "nöörkala"
+  },
+  {
+   "ids": [
+    1275
+   ],
+   "en": "salmon",
+   "et": "lõhe"
+  },
+  {
+   "ids": [
+    1276
+   ],
+   "en": "king salmon",
+   "et": "kuninglõhe"
+  },
+  {
+   "ids": [
+    1277
+   ],
+   "en": "guppy",
+   "et": "guppi"
+  },
+  {
+   "ids": [
+    1278
+   ],
+   "en": "angelfish",
+   "et": "skalaar"
+  },
+  {
+   "ids": [
+    1279
+   ],
+   "en": "piranha",
+   "et": "piraaja"
+  },
+  {
+   "ids": [
+    1280
+   ],
+   "en": "arowana",
+   "et": "arovaana"
+  },
+  {
+   "ids": [
+    1281
+   ],
+   "en": "dorado",
+   "et": "dorado"
+  },
+  {
+   "ids": [
+    1282
+   ],
+   "en": "gar",
+   "et": "luukala"
+  },
+  {
+   "ids": [
+    1283
+   ],
+   "en": "arapaima",
+   "et": "arapaima"
+  },
+  {
+   "ids": [
+    1284
+   ],
+   "en": "sea butterfly",
+   "et": "mereliblikas"
+  },
+  {
+   "ids": [
+    1285
+   ],
+   "en": "jellyfish",
+   "et": "meduus"
+  },
+  {
+   "ids": [
+    1286
+   ],
+   "en": "seahorse",
+   "et": "merihobuke"
+  },
+  {
+   "ids": [
+    1287
+   ],
+   "en": "clownfish",
+   "et": "klounkala"
+  },
+  {
+   "ids": [
+    1288
+   ],
+   "en": "zebra turkeyfish",
+   "et": "sebra-leegikala"
+  },
+  {
+   "ids": [
+    1289
+   ],
+   "en": "balloon fish",
+   "et": "õhupallkala"
+  },
+  {
+   "ids": [
+    1290
+   ],
+   "en": "horse mackerel",
+   "et": "stauriid"
+  },
+  {
+   "ids": [
+    1291
+   ],
+   "en": "barred knifejaw",
+   "et": "triipkala"
+  },
+  {
+   "ids": [
+    1292
+   ],
+   "en": "sea bass",
+   "et": "meriahven"
+  },
+  {
+   "ids": [
+    1293
+   ],
+   "en": "red snapper",
+   "et": "punane ahven"
+  },
+  {
+   "ids": [
+    1294
+   ],
+   "en": "dab",
+   "et": "lest"
+  },
+  {
+   "ids": [
+    1295
+   ],
+   "en": "olive flounder",
+   "et": "hiidlest"
+  },
+  {
+   "ids": [
+    1296
+   ],
+   "en": "squid",
+   "et": "kalmaar"
+  },
+  {
+   "ids": [
+    1297
+   ],
+   "en": "octopus",
+   "et": "kaheksajalg"
+  },
+  {
+   "ids": [
+    1298
+   ],
+   "en": "football fish",
+   "et": "õngitsejakala"
+  },
+  {
+   "ids": [
+    1299
+   ],
+   "en": "tuna",
+   "et": "tuunikala"
+  },
+  {
+   "ids": [
+    1300
+   ],
+   "en": "blue marlin",
+   "et": "sinine marliin"
+  },
+  {
+   "ids": [
+    1301
+   ],
+   "en": "ocean sunfish",
+   "et": "kuukala"
+  },
+  {
+   "ids": [
+    1302
+   ],
+   "en": "hammerhead shark",
+   "et": "haivasar"
+  },
+  {
+   "ids": [
+    1303
+   ],
+   "en": "shark",
+   "et": "hai"
+  },
+  {
+   "ids": [
+    1304
+   ],
+   "en": "coelacanth",
+   "et": "latimeeria"
+  },
+  {
+   "ids": [
+    1305
+   ],
+   "en": "red tulips",
+   "et": "punane tulp"
+  },
+  {
+   "ids": [
+    1306
+   ],
+   "en": "white tulips",
+   "et": "valge tulp"
+  },
+  {
+   "ids": [
+    1307
+   ],
+   "en": "yellow tulips",
+   "et": "kollane tulp"
+  },
+  {
+   "ids": [
+    1308
+   ],
+   "en": "pink tulips",
+   "et": "roosa tulp"
+  },
+  {
+   "ids": [
+    1309
+   ],
+   "en": "purple tulips",
+   "et": "lilla tulp"
+  },
+  {
+   "ids": [
+    1310
+   ],
+   "en": "black tulips",
+   "et": "must tulp"
+  },
+  {
+   "ids": [
+    1311
+   ],
+   "en": "white pansies",
+   "et": "valge kannike"
+  },
+  {
+   "ids": [
+    1312
+   ],
+   "en": "yellow pansies",
+   "et": "kollane kannike"
+  },
+  {
+   "ids": [
+    1313
+   ],
+   "en": "red pansies",
+   "et": "punane kannike"
+  },
+  {
+   "ids": [
+    1314
+   ],
+   "en": "purple pansies",
+   "et": "lilla kannike"
+  },
+  {
+   "ids": [
+    1315
+   ],
+   "en": "orange pansies",
+   "et": "oranž kannike"
+  },
+  {
+   "ids": [
+    1316
+   ],
+   "en": "blue pansies",
+   "et": "sinine kannike"
+  },
+  {
+   "ids": [
+    1317
+   ],
+   "en": "white cosmos",
+   "et": "valge kosmos"
+  },
+  {
+   "ids": [
+    1318
+   ],
+   "en": "red cosmos",
+   "et": "punane kosmos"
+  },
+  {
+   "ids": [
+    1319
+   ],
+   "en": "yellow cosmos",
+   "et": "kollane kosmos"
+  },
+  {
+   "ids": [
+    1320
+   ],
+   "en": "pink cosmos",
+   "et": "roosa kosmos"
+  },
+  {
+   "ids": [
+    1321
+   ],
+   "en": "orange cosmos",
+   "et": "oranž kosmos"
+  },
+  {
+   "ids": [
+    1322
+   ],
+   "en": "black cosmos",
+   "et": "must kosmos"
+  },
+  {
+   "ids": [
+    1323
+   ],
+   "en": "red roses",
+   "et": "punane roos"
+  },
+  {
+   "ids": [
+    1324
+   ],
+   "en": "white roses",
+   "et": "valge roos"
+  },
+  {
+   "ids": [
+    1325
+   ],
+   "en": "yellow roses",
+   "et": "kollane roos"
+  },
+  {
+   "ids": [
+    1326
+   ],
+   "en": "pink roses",
+   "et": "roosa roos"
+  },
+  {
+   "ids": [
+    1327
+   ],
+   "en": "orange roses",
+   "et": "oranž roos"
+  },
+  {
+   "ids": [
+    1328
+   ],
+   "en": "purple roses",
+   "et": "lilla roos"
+  },
+  {
+   "ids": [
+    1329
+   ],
+   "en": "black roses",
+   "et": "must roos"
+  },
+  {
+   "ids": [
+    1330
+   ],
+   "en": "blue roses",
+   "et": "sinine roos"
+  },
+  {
+   "ids": [
+    1331
+   ],
+   "en": "Jacob's Ladder",
+   "et": "Jaakobi redel"
+  },
+  {
+   "ids": [
+    1333
+   ],
+   "en": "gold roses",
+   "et": "kuldroos"
+  },
+  {
+   "ids": [
+    1334
+   ],
+   "en": "dandelions",
+   "et": "võililled"
+  },
+  {
+   "ids": [
+    1335
+   ],
+   "en": "dandelion puffs",
+   "et": "võilillepallid"
+  },
+  {
+   "ids": [
+    1337
+   ],
+   "en": "lucky clovers",
+   "et": "õnneristik"
+  },
+  {
+   "ids": [
+    1338
+   ],
+   "en": "spoiled turnips",
+   "et": "riknenud naerid"
+  },
+  {
+   "ids": [
+    1339
+   ],
+   "en": "conch",
+   "et": "tritoonikarp"
+  },
+  {
+   "ids": [
+    1340
+   ],
+   "en": "white scallop",
+   "et": "valge kammkarp"
+  },
+  {
+   "ids": [
+    1341
+   ],
+   "en": "coral",
+   "et": "korall"
+  },
+  {
+   "ids": [
+    1342
+   ],
+   "en": "venus comb",
+   "et": "veenusekamm"
+  },
+  {
+   "ids": [
+    1343
+   ],
+   "en": "scallop",
+   "et": "kammkarp"
+  },
+  {
+   "ids": [
+    1344
+   ],
+   "en": "shell",
+   "et": "karp"
+  },
+  {
+   "ids": [
+    1345
+   ],
+   "en": "porceletta",
+   "et": "portselankarp"
+  },
+  {
+   "ids": [
+    1346
+   ],
+   "en": "sand dollar",
+   "et": "liivadollar"
+  },
+  {
+   "ids": [
+    1347
+   ],
+   "en": "amber",
+   "et": "merevaik"
+  },
+  {
+   "ids": [
+    1348
+   ],
+   "en": "ammonite",
+   "et": "ammoniit"
+  },
+  {
+   "ids": [
+    1349
+   ],
+   "en": "dino droppings",
+   "et": "dinopabulad"
+  },
+  {
+   "ids": [
+    1350
+   ],
+   "en": "dinosaur egg",
+   "et": "dinomuna"
+  },
+  {
+   "ids": [
+    1351
+   ],
+   "en": "fern fossil",
+   "et": "sõnajalakivi"
+  },
+  {
+   "ids": [
+    1352
+   ],
+   "en": "dinosaur track",
+   "et": "dinojälg"
+  },
+  {
+   "ids": [
+    1353
+   ],
+   "en": "archaeopteryx",
+   "et": "archaeopteryx"
+  },
+  {
+   "ids": [
+    1354
+   ],
+   "en": "Peking Man",
+   "et": "Pekingi inimene"
+  },
+  {
+   "ids": [
+    1355
+   ],
+   "en": "shark tooth",
+   "et": "haihammas"
+  },
+  {
+   "ids": [
+    1356
+   ],
+   "en": "trilobite",
+   "et": "trilobiit"
+  },
+  {
+   "ids": [
+    1357
+   ],
+   "en": "T-rex skull",
+   "et": "T-rex pealuu"
+  },
+  {
+   "ids": [
+    1358
+   ],
+   "en": "T-rex torso",
+   "et": "T-rex torso"
+  },
+  {
+   "ids": [
+    1359
+   ],
+   "en": "T-rex tail",
+   "et": "T-rex saba"
+  },
+  {
+   "ids": [
+    1360
+   ],
+   "en": "tricera skull",
+   "et": "tricera pealuu"
+  },
+  {
+   "ids": [
+    1361
+   ],
+   "en": "tricera torso",
+   "et": "tricera torso"
+  },
+  {
+   "ids": [
+    1362
+   ],
+   "en": "tricera tail",
+   "et": "tricera saba"
+  },
+  {
+   "ids": [
+    1363
+   ],
+   "en": "mammoth skull",
+   "et": "mammut pealuu"
+  },
+  {
+   "ids": [
+    1364
+   ],
+   "en": "mammoth torso",
+   "et": "mammut torso"
+  },
+  {
+   "ids": [
+    1365
+   ],
+   "en": "ankylo skull",
+   "et": "ankülo pealuu"
+  },
+  {
+   "ids": [
+    1366
+   ],
+   "en": "ankylo torso",
+   "et": "ankülo torso"
+  },
+  {
+   "ids": [
+    1367
+   ],
+   "en": "ankylo tail",
+   "et": "ankülo saba"
+  },
+  {
+   "ids": [
+    1368
+   ],
+   "en": "apato skull",
+   "et": "apato pealuu"
+  },
+  {
+   "ids": [
+    1369
+   ],
+   "en": "apato torso",
+   "et": "apato torso"
+  },
+  {
+   "ids": [
+    1370
+   ],
+   "en": "apato tail",
+   "et": "apato saba"
+  },
+  {
+   "ids": [
+    1371
+   ],
+   "en": "dimetrodon skull",
+   "et": "dimetro pealuu"
+  },
+  {
+   "ids": [
+    1372
+   ],
+   "en": "dimetrodon torso",
+   "et": "dimetro torso"
+  },
+  {
+   "ids": [
+    1373
+   ],
+   "en": "dimetrodon tail",
+   "et": "dimetro saba"
+  },
+  {
+   "ids": [
+    1374
+   ],
+   "en": "iguanodon skull",
+   "et": "iguanodon pealuu"
+  },
+  {
+   "ids": [
+    1375
+   ],
+   "en": "iguanodon torso",
+   "et": "iguanodon torso"
+  },
+  {
+   "ids": [
+    1376
+   ],
+   "en": "iguanodon tail",
+   "et": "iguanodon saba"
+  },
+  {
+   "ids": [
+    1377
+   ],
+   "en": "sabertooth skull",
+   "et": "mõõkhamba pealuu"
+  },
+  {
+   "ids": [
+    1378
+   ],
+   "en": "sabertooth torso",
+   "et": "mõõkhamba torso"
+  },
+  {
+   "ids": [
+    1379
+   ],
+   "en": "pachy skull",
+   "et": "pahhü pealuu"
+  },
+  {
+   "ids": [
+    1380
+   ],
+   "en": "pachy torso",
+   "et": "pahhü torso"
+  },
+  {
+   "ids": [
+    1381
+   ],
+   "en": "pachy tail",
+   "et": "pahhü saba"
+  },
+  {
+   "ids": [
+    1382
+   ],
+   "en": "parasaur skull",
+   "et": "parasaur pealuu"
+  },
+  {
+   "ids": [
+    1383
+   ],
+   "en": "parasaur torso",
+   "et": "parasaur torso"
+  },
+  {
+   "ids": [
+    1384
+   ],
+   "en": "parasaur tail",
+   "et": "parasaur saba"
+  },
+  {
+   "ids": [
+    1385
+   ],
+   "en": "seismo skull",
+   "et": "seismo pealuu"
+  },
+  {
+   "ids": [
+    1386
+   ],
+   "en": "seismo chest",
+   "et": "seismo rindkere"
+  },
+  {
+   "ids": [
+    1387
+   ],
+   "en": "seismo hip",
+   "et": "seismo puus"
+  },
+  {
+   "ids": [
+    1388
+   ],
+   "en": "seismo tail",
+   "et": "seismo saba"
+  },
+  {
+   "ids": [
+    1389
+   ],
+   "en": "plesio skull",
+   "et": "plesio pealuu"
+  },
+  {
+   "ids": [
+    1390
+   ],
+   "en": "plesio neck",
+   "et": "plesio kael"
+  },
+  {
+   "ids": [
+    1391
+   ],
+   "en": "plesio torso",
+   "et": "plesio torso"
+  },
+  {
+   "ids": [
+    1392
+   ],
+   "en": "stego skull",
+   "et": "stego pealuu"
+  },
+  {
+   "ids": [
+    1393
+   ],
+   "en": "stego torso",
+   "et": "stego torso"
+  },
+  {
+   "ids": [
+    1394
+   ],
+   "en": "stego tail",
+   "et": "stego saba"
+  },
+  {
+   "ids": [
+    1395
+   ],
+   "en": "ptera skull",
+   "et": "ptera pealuu"
+  },
+  {
+   "ids": [
+    1396
+   ],
+   "en": "ptera body",
+   "et": "ptera keha"
+  },
+  {
+   "ids": [
+    1397
+   ],
+   "en": "ptera left wing",
+   "et": "ptera vasak tiib"
+  },
+  {
+   "ids": [
+    1398
+   ],
+   "en": "ptera right wing",
+   "et": "ptera parem tiib"
+  },
+  {
+   "ids": [
+    1399
+   ],
+   "en": "mega clankoid",
+   "et": "mega clankoid"
+  },
+  {
+   "ids": [
+    1400
+   ],
+   "en": "clankoid",
+   "et": "clankoid"
+  },
+  {
+   "ids": [
+    1401
+   ],
+   "en": "mini clankoid",
+   "et": "mini clankoid"
+  },
+  {
+   "ids": [
+    1402
+   ],
+   "en": "tall clankoid",
+   "et": "pikk clankoid"
+  },
+  {
+   "ids": [
+    1403
+   ],
+   "en": "squat dingloid",
+   "et": "tüse dingloid"
+  },
+  {
+   "ids": [
+    1404
+   ],
+   "en": "mega dingloid",
+   "et": "mega dingloid"
+  },
+  {
+   "ids": [
+    1405
+   ],
+   "en": "dingloid",
+   "et": "dingloid"
+  },
+  {
+   "ids": [
+    1406
+   ],
+   "en": "mini dingloid",
+   "et": "mini dingloid"
+  },
+  {
+   "ids": [
+    1407
+   ],
+   "en": "wee dingloid",
+   "et": "pisi dingloid"
+  },
+  {
+   "ids": [
+    1408
+   ],
+   "en": "tall dingloid",
+   "et": "pikk dingloid"
+  },
+  {
+   "ids": [
+    1409
+   ],
+   "en": "mega percoloid",
+   "et": "mega percoloid"
+  },
+  {
+   "ids": [
+    1410
+   ],
+   "en": "tall percoloid",
+   "et": "pikk percoloid"
+  },
+  {
+   "ids": [
+    1411
+   ],
+   "en": "mega oombloid",
+   "et": "mega oombloid"
+  },
+  {
+   "ids": [
+    1412
+   ],
+   "en": "oombloid",
+   "et": "oombloid"
+  },
+  {
+   "ids": [
+    1413
+   ],
+   "en": "mini oombloid",
+   "et": "mini oombloid"
+  },
+  {
+   "ids": [
+    1414
+   ],
+   "en": "tall oombloid",
+   "et": "pikk oombloid"
+  },
+  {
+   "ids": [
+    1415
+   ],
+   "en": "rhythmoid",
+   "et": "rhythmoid"
+  },
+  {
+   "ids": [
+    1416
+   ],
+   "en": "mini rhythmoid",
+   "et": "mini rhythmoid"
+  },
+  {
+   "ids": [
+    1417
+   ],
+   "en": "mega puffoid",
+   "et": "mega puffoid"
+  },
+  {
+   "ids": [
+    1418
+   ],
+   "en": "mini puffoid",
+   "et": "mini puffoid"
+  },
+  {
+   "ids": [
+    1419
+   ],
+   "en": "tall puffoid",
+   "et": "pikk puffoid"
+  },
+  {
+   "ids": [
+    1420
+   ],
+   "en": "mega lullaboid",
+   "et": "mega lullaboid"
+  },
+  {
+   "ids": [
+    1421
+   ],
+   "en": "lullaboid",
+   "et": "lullaboid"
+  },
+  {
+   "ids": [
+    1422
+   ],
+   "en": "mini lullaboid",
+   "et": "mini lullaboid"
+  },
+  {
+   "ids": [
+    1423
+   ],
+   "en": "tall lullaboid",
+   "et": "pikk lullaboid"
+  },
+  {
+   "ids": [
+    1424
+   ],
+   "en": "mega sproid",
+   "et": "mega sproid"
+  },
+  {
+   "ids": [
+    1425
+   ],
+   "en": "sproid",
+   "et": "sproid"
+  },
+  {
+   "ids": [
+    1426
+   ],
+   "en": "mini sproid",
+   "et": "mini sproid"
+  },
+  {
+   "ids": [
+    1427
+   ],
+   "en": "tall sproid",
+   "et": "pikk sproid"
+  },
+  {
+   "ids": [
+    1428
+   ],
+   "en": "mega bowtoid",
+   "et": "mega bowtoid"
+  },
+  {
+   "ids": [
+    1429
+   ],
+   "en": "bowtoid",
+   "et": "bowtoid"
+  },
+  {
+   "ids": [
+    1430
+   ],
+   "en": "mini bowtoid",
+   "et": "mini bowtoid"
+  },
+  {
+   "ids": [
+    1431
+   ],
+   "en": "tall bowtoid",
+   "et": "pikk bowtoid"
+  },
+  {
+   "ids": [
+    1432
+   ],
+   "en": "mega tootoid",
+   "et": "mega tootoid"
+  },
+  {
+   "ids": [
+    1433
+   ],
+   "en": "tootoid",
+   "et": "tootoid"
+  },
+  {
+   "ids": [
+    1434
+   ],
+   "en": "mini tootoid",
+   "et": "mini tootoid"
+  },
+  {
+   "ids": [
+    1435
+   ],
+   "en": "mega plinkoid",
+   "et": "mega plinkoid"
+  },
+  {
+   "ids": [
+    1436
+   ],
+   "en": "plinkoid",
+   "et": "plinkoid"
+  },
+  {
+   "ids": [
+    1437
+   ],
+   "en": "mini plinkoid",
+   "et": "mini plinkoid"
+  },
+  {
+   "ids": [
+    1438
+   ],
+   "en": "mega dekkoid",
+   "et": "mega dekkoid"
+  },
+  {
+   "ids": [
+    1439
+   ],
+   "en": "dekkoid",
+   "et": "dekkoid"
+  },
+  {
+   "ids": [
+    1440
+   ],
+   "en": "mini dekkoid",
+   "et": "mini dekkoid"
+  },
+  {
+   "ids": [
+    1441
+   ],
+   "en": "mega buzzoid",
+   "et": "mega buzzoid"
+  },
+  {
+   "ids": [
+    1442
+   ],
+   "en": "buzzoid",
+   "et": "buzzoid"
+  },
+  {
+   "ids": [
+    1443
+   ],
+   "en": "mini buzzoid",
+   "et": "mini buzzoid"
+  },
+  {
+   "ids": [
+    1444
+   ],
+   "en": "tall buzzoid",
+   "et": "pikk buzzoid"
+  },
+  {
+   "ids": [
+    1445
+   ],
+   "en": "mega drilloid",
+   "et": "mega drilloid"
+  },
+  {
+   "ids": [
+    1446
+   ],
+   "en": "drilloid",
+   "et": "drilloid"
+  },
+  {
+   "ids": [
+    1447
+   ],
+   "en": "mini drilloid",
+   "et": "mini drilloid"
+  },
+  {
+   "ids": [
+    1448
+   ],
+   "en": "mega echoid",
+   "et": "mega echoid"
+  },
+  {
+   "ids": [
+    1449
+   ],
+   "en": "mini echoid",
+   "et": "mini echoid"
+  },
+  {
+   "ids": [
+    1450
+   ],
+   "en": "tall echoid",
+   "et": "pikk echoid"
+  },
+  {
+   "ids": [
+    1451
+   ],
+   "en": "mega lamentoid",
+   "et": "mega lamentoid"
+  },
+  {
+   "ids": [
+    1452
+   ],
+   "en": "lamentoid",
+   "et": "lamentoid"
+  },
+  {
+   "ids": [
+    1453
+   ],
+   "en": "mini lamentoid",
+   "et": "mini lamentoid"
+  },
+  {
+   "ids": [
+    1454
+   ],
+   "en": "tall lamentoid",
+   "et": "pikk lamentoid"
+  },
+  {
+   "ids": [
+    1455
+   ],
+   "en": "mega strumboid",
+   "et": "mega strumboid"
+  },
+  {
+   "ids": [
+    1456
+   ],
+   "en": "strumboid",
+   "et": "strumboid"
+  },
+  {
+   "ids": [
+    1457
+   ],
+   "en": "mini strumboid",
+   "et": "mini strumboid"
+  },
+  {
+   "ids": [
+    1458
+   ],
+   "en": "tall strumboid",
+   "et": "pikk strumboid"
+  },
+  {
+   "ids": [
+    1459
+   ],
+   "en": "mega croakoid",
+   "et": "mega croakoid"
+  },
+  {
+   "ids": [
+    1460
+   ],
+   "en": "croakoid",
+   "et": "croakoid"
+  },
+  {
+   "ids": [
+    1461
+   ],
+   "en": "mini croakoid",
+   "et": "mini croakoid"
+  },
+  {
+   "ids": [
+    1462
+   ],
+   "en": "tall croakoid",
+   "et": "pikk croakoid"
+  },
+  {
+   "ids": [
+    1463
+   ],
+   "en": "mega fizzoid",
+   "et": "mega fizzoid"
+  },
+  {
+   "ids": [
+    1464
+   ],
+   "en": "mini fizzoid",
+   "et": "mini fizzoid"
+  },
+  {
+   "ids": [
+    1465
+   ],
+   "en": "mega squelchoid",
+   "et": "mega squelchoid"
+  },
+  {
+   "ids": [
+    1466
+   ],
+   "en": "squelchoid",
+   "et": "squelchoid"
+  },
+  {
+   "ids": [
+    1467
+   ],
+   "en": "mini squelchoid",
+   "et": "mini squelchoid"
+  },
+  {
+   "ids": [
+    1468
+   ],
+   "en": "mega howloid",
+   "et": "mega howloid"
+  },
+  {
+   "ids": [
+    1469
+   ],
+   "en": "howloid",
+   "et": "howloid"
+  },
+  {
+   "ids": [
+    1470
+   ],
+   "en": "mini howloid",
+   "et": "mini howloid"
+  },
+  {
+   "ids": [
+    1471
+   ],
+   "en": "mega nebuloid",
+   "et": "mega nebuloid"
+  },
+  {
+   "ids": [
+    1472
+   ],
+   "en": "squat nebuloid",
+   "et": "tüse nebuloid"
+  },
+  {
+   "ids": [
+    1473
+   ],
+   "en": "nebuloid",
+   "et": "nebuloid"
+  },
+  {
+   "ids": [
+    1474
+   ],
+   "en": "mini nebuloid",
+   "et": "mini nebuloid"
+  },
+  {
+   "ids": [
+    1475
+   ],
+   "en": "tall nebuloid",
+   "et": "pikk nebuloid"
+  },
+  {
+   "ids": [
+    1476
+   ],
+   "en": "slim nebuloid",
+   "et": "sale nebuloid"
+  },
+  {
+   "ids": [
+    1477
+   ],
+   "en": "mega gongoid",
+   "et": "mega gongoid"
+  },
+  {
+   "ids": [
+    1478
+   ],
+   "en": "gongoid",
+   "et": "gongoid"
+  },
+  {
+   "ids": [
+    1479
+   ],
+   "en": "mini gongoid",
+   "et": "mini gongoid"
+  },
+  {
+   "ids": [
+    1480
+   ],
+   "en": "tall gongoid",
+   "et": "pikk gongoid"
+  },
+  {
+   "ids": [
+    1481
+   ],
+   "en": "mega poltergoid",
+   "et": "mega poltergoid"
+  },
+  {
+   "ids": [
+    1482
+   ],
+   "en": "poltergoid",
+   "et": "poltergoid"
+  },
+  {
+   "ids": [
+    1483
+   ],
+   "en": "mini poltergoid",
+   "et": "mini poltergoid"
+  },
+  {
+   "ids": [
+    1484
+   ],
+   "en": "tall poltergoid",
+   "et": "pikk poltergoid"
+  },
+  {
+   "ids": [
+    1485
+   ],
+   "en": "metatoid",
+   "et": "metatoid"
+  },
+  {
+   "ids": [
+    1486
+   ],
+   "en": "mini metatoid",
+   "et": "mini metatoid"
+  },
+  {
+   "ids": [
+    1487
+   ],
+   "en": "mega bovoid",
+   "et": "mega bovoid"
+  },
+  {
+   "ids": [
+    1488
+   ],
+   "en": "tall bovoid",
+   "et": "pikk bovoid"
+  },
+  {
+   "ids": [
+    1489
+   ],
+   "en": "mega oboid",
+   "et": "mega oboid"
+  },
+  {
+   "ids": [
+    1490
+   ],
+   "en": "oboid",
+   "et": "oboid"
+  },
+  {
+   "ids": [
+    1491
+   ],
+   "en": "tall oboid",
+   "et": "pikk oboid"
+  },
+  {
+   "ids": [
+    1492
+   ],
+   "en": "mega dinkoid",
+   "et": "mega dinkoid"
+  },
+  {
+   "ids": [
+    1493
+   ],
+   "en": "mini dinkoid",
+   "et": "mini dinkoid"
+  },
+  {
+   "ids": [
+    1494
+   ],
+   "en": "mega harmonoid",
+   "et": "mega harmonoid"
+  },
+  {
+   "ids": [
+    1495
+   ],
+   "en": "harmonoid",
+   "et": "harmonoid"
+  },
+  {
+   "ids": [
+    1496
+   ],
+   "en": "mini harmonoid",
+   "et": "mini harmonoid"
+  },
+  {
+   "ids": [
+    1497
+   ],
+   "en": "tall harmonoid",
+   "et": "pikk harmonoid"
+  },
+  {
+   "ids": [
+    1498
+   ],
+   "en": "tall droploid",
+   "et": "pikk droploid"
+  },
+  {
+   "ids": [
+    1499
+   ],
+   "en": "mega sputnoid",
+   "et": "mega sputnoid"
+  },
+  {
+   "ids": [
+    1500
+   ],
+   "en": "sputnoid",
+   "et": "sputnoid"
+  },
+  {
+   "ids": [
+    1501
+   ],
+   "en": "mini sputnoid",
+   "et": "mini sputnoid"
+  },
+  {
+   "ids": [
+    1502
+   ],
+   "en": "tall sputnoid",
+   "et": "pikk sputnoid"
+  },
+  {
+   "ids": [
+    1503
+   ],
+   "en": "mega alloid",
+   "et": "mega alloid"
+  },
+  {
+   "ids": [
+    1504
+   ],
+   "en": "mini alloid",
+   "et": "mini alloid"
+  },
+  {
+   "ids": [
+    1505
+   ],
+   "en": "tall alloid",
+   "et": "pikk alloid"
+  },
+  {
+   "ids": [
+    1506
+   ],
+   "en": "mega timpanoid",
+   "et": "mega timpanoid"
+  },
+  {
+   "ids": [
+    1507
+   ],
+   "en": "timpanoid",
+   "et": "timpanoid"
+  },
+  {
+   "ids": [
+    1508
+   ],
+   "en": "mini timpanoid",
+   "et": "mini timpanoid"
+  },
+  {
+   "ids": [
+    1509
+   ],
+   "en": "tall timpanoid",
+   "et": "pikk timpanoid"
+  },
+  {
+   "ids": [
+    1510
+   ],
+   "en": "gargloid",
+   "et": "gargloid"
+  },
+  {
+   "ids": [
+    1511
+   ],
+   "en": "mini gargloid",
+   "et": "mini gargloid"
+  },
+  {
+   "ids": [
+    1512
+   ],
+   "en": "tall gargloid",
+   "et": "pikk gargloid"
+  },
+  {
+   "ids": [
+    1513
+   ],
+   "en": "warbloid",
+   "et": "warbloid"
+  },
+  {
+   "ids": [
+    1514
+   ],
+   "en": "mini warbloid",
+   "et": "mini warbloid"
+  },
+  {
+   "ids": [
+    1515
+   ],
+   "en": "tall warbloid",
+   "et": "pikk warbloid"
+  },
+  {
+   "ids": [
+    1516
+   ],
+   "en": "mega freakoid",
+   "et": "mega freakoid"
+  },
+  {
+   "ids": [
+    1517
+   ],
+   "en": "mini freakoid",
+   "et": "mini freakoid"
+  },
+  {
+   "ids": [
+    1518
+   ],
+   "en": "mega quazoid",
+   "et": "mega quazoid"
+  },
+  {
+   "ids": [
+    1519
+   ],
+   "en": "quazoid",
+   "et": "quazoid"
+  },
+  {
+   "ids": [
+    1520
+   ],
+   "en": "mini quazoid",
+   "et": "mini quazoid"
+  },
+  {
+   "ids": [
+    1521
+   ],
+   "en": "tall quazoid",
+   "et": "pikk quazoid"
+  },
+  {
+   "ids": [
+    1522
+   ],
+   "en": "slim quazoid",
+   "et": "sale quazoid"
+  },
+  {
+   "ids": [
+    1523
+   ],
+   "en": "mega rustoid",
+   "et": "mega rustoid"
+  },
+  {
+   "ids": [
+    1524
+   ],
+   "en": "rustoid",
+   "et": "rustoid"
+  },
+  {
+   "ids": [
+    1525
+   ],
+   "en": "mini rustoid",
+   "et": "mini rustoid"
+  },
+  {
+   "ids": [
+    1526
+   ],
+   "en": "Cyrano's pic",
+   "et": "Cyrano pilt"
+  },
+  {
+   "ids": [
+    1527
+   ],
+   "en": "Antonio's pic",
+   "et": "Antonio pilt"
+  },
+  {
+   "ids": [
+    1528
+   ],
+   "en": "Pango's pic",
+   "et": "Pango pilt"
+  },
+  {
+   "ids": [
+    1529
+   ],
+   "en": "Anabelle's pic",
+   "et": "Anabelle pilt"
+  },
+  {
+   "ids": [
+    1530
+   ],
+   "en": "Teddy's pic",
+   "et": "Teddy pilt"
+  },
+  {
+   "ids": [
+    1531
+   ],
+   "en": "Pinky's pic",
+   "et": "Pinky pilt"
+  },
+  {
+   "ids": [
+    1532
+   ],
+   "en": "Curt's pic",
+   "et": "Curt pilt"
+  },
+  {
+   "ids": [
+    1533
+   ],
+   "en": "Chow's pic",
+   "et": "Chow pilt"
+  },
+  {
+   "ids": [
+    1534
+   ],
+   "en": "Jay's pic",
+   "et": "Jay pilt"
+  },
+  {
+   "ids": [
+    1535
+   ],
+   "en": "Robin's pic",
+   "et": "Robin pilt"
+  },
+  {
+   "ids": [
+    1536
+   ],
+   "en": "Anchovy's pic",
+   "et": "Anchovy pilt"
+  },
+  {
+   "ids": [
+    1537
+   ],
+   "en": "Twiggy's pic",
+   "et": "Twiggy pilt"
+  },
+  {
+   "ids": [
+    1538
+   ],
+   "en": "Jitters's pic",
+   "et": "Jitters pilt"
+  },
+  {
+   "ids": [
+    1539
+   ],
+   "en": "Angus's pic",
+   "et": "Angus pilt"
+  },
+  {
+   "ids": [
+    1540
+   ],
+   "en": "Rodeo's pic",
+   "et": "Rodeo pilt"
+  },
+  {
+   "ids": [
+    1541
+   ],
+   "en": "Bob's pic",
+   "et": "Bob pilt"
+  },
+  {
+   "ids": [
+    1542
+   ],
+   "en": "Mitzi's pic",
+   "et": "Mitzi pilt"
+  },
+  {
+   "ids": [
+    1543
+   ],
+   "en": "Rosie's pic",
+   "et": "Rosie pilt"
+  },
+  {
+   "ids": [
+    1544
+   ],
+   "en": "Olivia's pic",
+   "et": "Olivia pilt"
+  },
+  {
+   "ids": [
+    1545
+   ],
+   "en": "Kiki's pic",
+   "et": "Kiki pilt"
+  },
+  {
+   "ids": [
+    1546
+   ],
+   "en": "Tangy's pic",
+   "et": "Tangy pilt"
+  },
+  {
+   "ids": [
+    1547
+   ],
+   "en": "Punchy's pic",
+   "et": "Punchy pilt"
+  },
+  {
+   "ids": [
+    1548
+   ],
+   "en": "Purrl's pic",
+   "et": "Purrl pilt"
+  },
+  {
+   "ids": [
+    1549
+   ],
+   "en": "Moe's pic",
+   "et": "Moe pilt"
+  },
+  {
+   "ids": [
+    1550
+   ],
+   "en": "Kabuki's pic",
+   "et": "Kabuki pilt"
+  },
+  {
+   "ids": [
+    1551
+   ],
+   "en": "Kid Cat's pic",
+   "et": "Kid Cat pilt"
+  },
+  {
+   "ids": [
+    1552
+   ],
+   "en": "Monique's pic",
+   "et": "Monique pilt"
+  },
+  {
+   "ids": [
+    1553
+   ],
+   "en": "Tabby's pic",
+   "et": "Tabby pilt"
+  },
+  {
+   "ids": [
+    1554
+   ],
+   "en": "Bluebear's pic",
+   "et": "Bluebear pilt"
+  },
+  {
+   "ids": [
+    1555
+   ],
+   "en": "Maple's pic",
+   "et": "Maple pilt"
+  },
+  {
+   "ids": [
+    1556
+   ],
+   "en": "Poncho's pic",
+   "et": "Poncho pilt"
+  },
+  {
+   "ids": [
+    1557
+   ],
+   "en": "Pudge's pic",
+   "et": "Pudge pilt"
+  },
+  {
+   "ids": [
+    1558
+   ],
+   "en": "Kody's pic",
+   "et": "Kody pilt"
+  },
+  {
+   "ids": [
+    1559
+   ],
+   "en": "Stitches's pic",
+   "et": "Stitches pilt"
+  },
+  {
+   "ids": [
+    1560
+   ],
+   "en": "Goose's pic",
+   "et": "Goose pilt"
+  },
+  {
+   "ids": [
+    1561
+   ],
+   "en": "Benedict's pic",
+   "et": "Benedict pilt"
+  },
+  {
+   "ids": [
+    1562
+   ],
+   "en": "Egbert's pic",
+   "et": "Egbert pilt"
+  },
+  {
+   "ids": [
+    1563
+   ],
+   "en": "Patty's pic",
+   "et": "Patty pilt"
+  },
+  {
+   "ids": [
+    1564
+   ],
+   "en": "Tipper's pic",
+   "et": "Tipper pilt"
+  },
+  {
+   "ids": [
+    1565
+   ],
+   "en": "Alfonso's pic",
+   "et": "Alfonso pilt"
+  },
+  {
+   "ids": [
+    1566
+   ],
+   "en": "Alli's pic",
+   "et": "Alli pilt"
+  },
+  {
+   "ids": [
+    1567
+   ],
+   "en": "Goldie's pic",
+   "et": "Goldie pilt"
+  },
+  {
+   "ids": [
+    1568
+   ],
+   "en": "Butch's pic",
+   "et": "Butch pilt"
+  },
+  {
+   "ids": [
+    1569
+   ],
+   "en": "Lucky's pic",
+   "et": "Lucky pilt"
+  },
+  {
+   "ids": [
+    1570
+   ],
+   "en": "Biskit's pic",
+   "et": "Biskit pilt"
+  },
+  {
+   "ids": [
+    1571
+   ],
+   "en": "Bones's pic",
+   "et": "Bones pilt"
+  },
+  {
+   "ids": [
+    1572
+   ],
+   "en": "Portia's pic",
+   "et": "Portia pilt"
+  },
+  {
+   "ids": [
+    1573
+   ],
+   "en": "Walker's pic",
+   "et": "Walker pilt"
+  },
+  {
+   "ids": [
+    1574
+   ],
+   "en": "Daisy's pic",
+   "et": "Daisy pilt"
+  },
+  {
+   "ids": [
+    1575
+   ],
+   "en": "Bill's pic",
+   "et": "Bill pilt"
+  },
+  {
+   "ids": [
+    1576
+   ],
+   "en": "Joey's pic",
+   "et": "Joey pilt"
+  },
+  {
+   "ids": [
+    1577
+   ],
+   "en": "Pate's pic",
+   "et": "Pate pilt"
+  },
+  {
+   "ids": [
+    1578
+   ],
+   "en": "Maelle's pic",
+   "et": "Maelle pilt"
+  },
+  {
+   "ids": [
+    1579
+   ],
+   "en": "Deena's pic",
+   "et": "Deena pilt"
+  },
+  {
+   "ids": [
+    1580
+   ],
+   "en": "Pompom's pic",
+   "et": "Pompom pilt"
+  },
+  {
+   "ids": [
+    1581
+   ],
+   "en": "Mallary's pic",
+   "et": "Mallary pilt"
+  },
+  {
+   "ids": [
+    1582
+   ],
+   "en": "Freckles's pic",
+   "et": "Freckles pilt"
+  },
+  {
+   "ids": [
+    1583
+   ],
+   "en": "Derwin's pic",
+   "et": "Derwin pilt"
+  },
+  {
+   "ids": [
+    1584
+   ],
+   "en": "Drake's pic",
+   "et": "Drake pilt"
+  },
+  {
+   "ids": [
+    1585
+   ],
+   "en": "Opal's pic",
+   "et": "Opal pilt"
+  },
+  {
+   "ids": [
+    1586
+   ],
+   "en": "Dizzy's pic",
+   "et": "Dizzy pilt"
+  },
+  {
+   "ids": [
+    1587
+   ],
+   "en": "Big Top's pic",
+   "et": "Big Top pilt"
+  },
+  {
+   "ids": [
+    1588
+   ],
+   "en": "Eloise's pic",
+   "et": "Eloise pilt"
+  },
+  {
+   "ids": [
+    1589
+   ],
+   "en": "Margie's pic",
+   "et": "Margie pilt"
+  },
+  {
+   "ids": [
+    1590
+   ],
+   "en": "Lily's pic",
+   "et": "Lily pilt"
+  },
+  {
+   "ids": [
+    1591
+   ],
+   "en": "Ribbot's pic",
+   "et": "Ribbot pilt"
+  },
+  {
+   "ids": [
+    1592
+   ],
+   "en": "Frobert's pic",
+   "et": "Frobert pilt"
+  },
+  {
+   "ids": [
+    1593
+   ],
+   "en": "Camofrog's pic",
+   "et": "Camofrog pilt"
+  },
+  {
+   "ids": [
+    1594
+   ],
+   "en": "Drift's pic",
+   "et": "Drift pilt"
+  },
+  {
+   "ids": [
+    1595
+   ],
+   "en": "Wart Jr.'s pic",
+   "et": "Wart Jr. pilt"
+  },
+  {
+   "ids": [
+    1596
+   ],
+   "en": "Puddles's pic",
+   "et": "Puddles pilt"
+  },
+  {
+   "ids": [
+    1597
+   ],
+   "en": "Jeremiah's pic",
+   "et": "Jeremiah pilt"
+  },
+  {
+   "ids": [
+    1598
+   ],
+   "en": "Chevre's pic",
+   "et": "Chevre pilt"
+  },
+  {
+   "ids": [
+    1599
+   ],
+   "en": "Nan's pic",
+   "et": "Nan pilt"
+  },
+  {
+   "ids": [
+    1600
+   ],
+   "en": "Cesar's pic",
+   "et": "Cesar pilt"
+  },
+  {
+   "ids": [
+    1601
+   ],
+   "en": "Peewee's pic",
+   "et": "Peewee pilt"
+  },
+  {
+   "ids": [
+    1602
+   ],
+   "en": "Boone's pic",
+   "et": "Boone pilt"
+  },
+  {
+   "ids": [
+    1603
+   ],
+   "en": "Rocco's pic",
+   "et": "Rocco pilt"
+  },
+  {
+   "ids": [
+    1604
+   ],
+   "en": "Buck's pic",
+   "et": "Buck pilt"
+  },
+  {
+   "ids": [
+    1605
+   ],
+   "en": "Victoria's pic",
+   "et": "Victoria pilt"
+  },
+  {
+   "ids": [
+    1606
+   ],
+   "en": "Savannah's pic",
+   "et": "Savannah pilt"
+  },
+  {
+   "ids": [
+    1607
+   ],
+   "en": "Elmer's pic",
+   "et": "Elmer pilt"
+  },
+  {
+   "ids": [
+    1608
+   ],
+   "en": "Roscoe's pic",
+   "et": "Roscoe pilt"
+  },
+  {
+   "ids": [
+    1609
+   ],
+   "en": "Yuka's pic",
+   "et": "Yuka pilt"
+  },
+  {
+   "ids": [
+    1610
+   ],
+   "en": "Alice's pic",
+   "et": "Alice pilt"
+  },
+  {
+   "ids": [
+    1611
+   ],
+   "en": "Melba's pic",
+   "et": "Melba pilt"
+  },
+  {
+   "ids": [
+    1612
+   ],
+   "en": "Kitt's pic",
+   "et": "Kitt pilt"
+  },
+  {
+   "ids": [
+    1613
+   ],
+   "en": "Mathilda's pic",
+   "et": "Mathilda pilt"
+  },
+  {
+   "ids": [
+    1614
+   ],
+   "en": "Bud's pic",
+   "et": "Bud pilt"
+  },
+  {
+   "ids": [
+    1615
+   ],
+   "en": "Elvis's pic",
+   "et": "Elvis pilt"
+  },
+  {
+   "ids": [
+    1616
+   ],
+   "en": "Dora's pic",
+   "et": "Dora pilt"
+  },
+  {
+   "ids": [
+    1617
+   ],
+   "en": "Limberg's pic",
+   "et": "Limberg pilt"
+  },
+  {
+   "ids": [
+    1618
+   ],
+   "en": "Bella's pic",
+   "et": "Bella pilt"
+  },
+  {
+   "ids": [
+    1619
+   ],
+   "en": "Bree's pic",
+   "et": "Bree pilt"
+  },
+  {
+   "ids": [
+    1620
+   ],
+   "en": "Samson's pic",
+   "et": "Samson pilt"
+  },
+  {
+   "ids": [
+    1621
+   ],
+   "en": "Rod's pic",
+   "et": "Rod pilt"
+  },
+  {
+   "ids": [
+    1622
+   ],
+   "en": "Octavian's pic",
+   "et": "Octavian pilt"
+  },
+  {
+   "ids": [
+    1623
+   ],
+   "en": "Marina's pic",
+   "et": "Marina pilt"
+  },
+  {
+   "ids": [
+    1624
+   ],
+   "en": "Queenie's pic",
+   "et": "Queenie pilt"
+  },
+  {
+   "ids": [
+    1625
+   ],
+   "en": "Gladys's pic",
+   "et": "Gladys pilt"
+  },
+  {
+   "ids": [
+    1626
+   ],
+   "en": "Apollo's pic",
+   "et": "Apollo pilt"
+  },
+  {
+   "ids": [
+    1627
+   ],
+   "en": "Amelia's pic",
+   "et": "Amelia pilt"
+  },
+  {
+   "ids": [
+    1628
+   ],
+   "en": "Pierce's pic",
+   "et": "Pierce pilt"
+  },
+  {
+   "ids": [
+    1629
+   ],
+   "en": "Aurora's pic",
+   "et": "Aurora pilt"
+  },
+  {
+   "ids": [
+    1630
+   ],
+   "en": "Roald's pic",
+   "et": "Roald pilt"
+  },
+  {
+   "ids": [
+    1631
+   ],
+   "en": "Cube's pic",
+   "et": "Cube pilt"
+  },
+  {
+   "ids": [
+    1632
+   ],
+   "en": "Hopper's pic",
+   "et": "Hopper pilt"
+  },
+  {
+   "ids": [
+    1633
+   ],
+   "en": "Friga's pic",
+   "et": "Friga pilt"
+  },
+  {
+   "ids": [
+    1634
+   ],
+   "en": "Gwen's pic",
+   "et": "Gwen pilt"
+  },
+  {
+   "ids": [
+    1635
+   ],
+   "en": "Curly's pic",
+   "et": "Curly pilt"
+  },
+  {
+   "ids": [
+    1636
+   ],
+   "en": "Truffles's pic",
+   "et": "Truffles pilt"
+  },
+  {
+   "ids": [
+    1637
+   ],
+   "en": "Rasher's pic",
+   "et": "Rasher pilt"
+  },
+  {
+   "ids": [
+    1638
+   ],
+   "en": "Hugh's pic",
+   "et": "Hugh pilt"
+  },
+  {
+   "ids": [
+    1639
+   ],
+   "en": "Lucy's pic",
+   "et": "Lucy pilt"
+  },
+  {
+   "ids": [
+    1640
+   ],
+   "en": "Bunnie's pic",
+   "et": "Bunnie pilt"
+  },
+  {
+   "ids": [
+    1641
+   ],
+   "en": "Dotty's pic",
+   "et": "Dotty pilt"
+  },
+  {
+   "ids": [
+    1642
+   ],
+   "en": "Coco's pic",
+   "et": "Coco pilt"
+  },
+  {
+   "ids": [
+    1643
+   ],
+   "en": "Snake's pic",
+   "et": "Snake pilt"
+  },
+  {
+   "ids": [
+    1644
+   ],
+   "en": "Gaston's pic",
+   "et": "Gaston pilt"
+  },
+  {
+   "ids": [
+    1645
+   ],
+   "en": "Gabi's pic",
+   "et": "Gabi pilt"
+  },
+  {
+   "ids": [
+    1646
+   ],
+   "en": "Pippy's pic",
+   "et": "Pippy pilt"
+  },
+  {
+   "ids": [
+    1647
+   ],
+   "en": "Tiffany's pic",
+   "et": "Tiffany pilt"
+  },
+  {
+   "ids": [
+    1648
+   ],
+   "en": "Genji's pic",
+   "et": "Genji pilt"
+  },
+  {
+   "ids": [
+    1649
+   ],
+   "en": "Ruby's pic",
+   "et": "Ruby pilt"
+  },
+  {
+   "ids": [
+    1650
+   ],
+   "en": "Tank's pic",
+   "et": "Tank pilt"
+  },
+  {
+   "ids": [
+    1651
+   ],
+   "en": "Rhonda's pic",
+   "et": "Rhonda pilt"
+  },
+  {
+   "ids": [
+    1652
+   ],
+   "en": "Vesta's pic",
+   "et": "Vesta pilt"
+  },
+  {
+   "ids": [
+    1653
+   ],
+   "en": "Baabara's pic",
+   "et": "Baabara pilt"
+  },
+  {
+   "ids": [
+    1654
+   ],
+   "en": "Peanut's pic",
+   "et": "Peanut pilt"
+  },
+  {
+   "ids": [
+    1655
+   ],
+   "en": "Blaire's pic",
+   "et": "Blaire pilt"
+  },
+  {
+   "ids": [
+    1656
+   ],
+   "en": "Filbert's pic",
+   "et": "Filbert pilt"
+  },
+  {
+   "ids": [
+    1657
+   ],
+   "en": "Pecan's pic",
+   "et": "Pecan pilt"
+  },
+  {
+   "ids": [
+    1658
+   ],
+   "en": "Nibbles's pic",
+   "et": "Nibbles pilt"
+  },
+  {
+   "ids": [
+    1659
+   ],
+   "en": "Agent S's pic",
+   "et": "Agent S pilt"
+  },
+  {
+   "ids": [
+    1660
+   ],
+   "en": "Caroline's pic",
+   "et": "Caroline pilt"
+  },
+  {
+   "ids": [
+    1661
+   ],
+   "en": "Sally's pic",
+   "et": "Sally pilt"
+  },
+  {
+   "ids": [
+    1662
+   ],
+   "en": "Static's pic",
+   "et": "Static pilt"
+  },
+  {
+   "ids": [
+    1663
+   ],
+   "en": "Mint's pic",
+   "et": "Mint pilt"
+  },
+  {
+   "ids": [
+    1664
+   ],
+   "en": "Rolf's pic",
+   "et": "Rolf pilt"
+  },
+  {
+   "ids": [
+    1665
+   ],
+   "en": "Rowan's pic",
+   "et": "Rowan pilt"
+  },
+  {
+   "ids": [
+    1666
+   ],
+   "en": "Chief's pic",
+   "et": "Chief pilt"
+  },
+  {
+   "ids": [
+    1667
+   ],
+   "en": "Lobo's pic",
+   "et": "Lobo pilt"
+  },
+  {
+   "ids": [
+    1668
+   ],
+   "en": "Wolfgang's pic",
+   "et": "Wolfgang pilt"
+  },
+  {
+   "ids": [
+    1669
+   ],
+   "en": "Whitney's pic",
+   "et": "Whitney pilt"
+  },
+  {
+   "ids": [
+    1670
+   ],
+   "en": "Champ's pic",
+   "et": "Champ pilt"
+  },
+  {
+   "ids": [
+    1671
+   ],
+   "en": "Nana's pic",
+   "et": "Nana pilt"
+  },
+  {
+   "ids": [
+    1672
+   ],
+   "en": "Simon's pic",
+   "et": "Simon pilt"
+  },
+  {
+   "ids": [
+    1673
+   ],
+   "en": "Tammi's pic",
+   "et": "Tammi pilt"
+  },
+  {
+   "ids": [
+    1674
+   ],
+   "en": "Monty's pic",
+   "et": "Monty pilt"
+  },
+  {
+   "ids": [
+    1675
+   ],
+   "en": "Elise's pic",
+   "et": "Elise pilt"
+  },
+  {
+   "ids": [
+    1676
+   ],
+   "en": "Tom Nook's pic",
+   "et": "Tom Nook pilt"
+  },
+  {
+   "ids": [
+    1677
+   ],
+   "en": "K.K.'s pic",
+   "et": "K.K. pilt"
+  },
+  {
+   "ids": [
+    1678
+   ],
+   "en": "Pascal's pic",
+   "et": "Pascal pilt"
+  },
+  {
+   "ids": [
+    1679
+   ],
+   "en": "K and K's pic",
+   "et": "K and K pilt"
+  },
+  {
+   "ids": [
+    1680
+   ],
+   "en": "Pelly's pic",
+   "et": "Pelly pilt"
+  },
+  {
+   "ids": [
+    1681
+   ],
+   "en": "Phyllis's pic",
+   "et": "Phyllis pilt"
+  },
+  {
+   "ids": [
+    1682,
+    1683,
+    1684,
+    1685,
+    1686,
+    1687,
+    1688,
+    1689,
+    1690,
+    1691,
+    1692,
+    1693,
+    1694,
+    1695,
+    1696,
+    1697,
+    1698,
+    1699,
+    1700,
+    1701,
+    1702,
+    1703,
+    1704,
+    1705,
+    1706,
+    1707,
+    1708,
+    1709,
+    1710,
+    1711,
+    1712,
+    1713,
+    1714,
+    1715,
+    1716,
+    1717,
+    1718,
+    1719,
+    1720,
+    1721,
+    1722,
+    1723,
+    1724,
+    1725,
+    1726,
+    1727,
+    1728,
+    1729,
+    1730,
+    1731,
+    1732,
+    1733,
+    1734,
+    1735,
+    1736,
+    1737,
+    1738,
+    1739,
+    1740,
+    1741,
+    1742,
+    1743,
+    1744,
+    1745,
+    1746,
+    1747,
+    1748,
+    1749,
+    1750,
+    1751,
+    1752,
+    1753
+   ],
+   "en": "not used",
+   "et": "kasutamata"
+  },
+  {
+   "ids": [
+    1754
+   ],
+   "en": "brick block",
+   "et": "tellisplokk"
+  },
+  {
+   "ids": [
+    1755
+   ],
+   "en": "coin",
+   "et": "münt"
+  },
+  {
+   "ids": [
+    1756
+   ],
+   "en": "flagpole",
+   "et": "lipumast"
+  },
+  {
+   "ids": [
+    1757
+   ],
+   "en": "fire flower",
+   "et": "tulelill"
+  },
+  {
+   "ids": [
+    1758
+   ],
+   "en": "super mushroom",
+   "et": "superseen"
+  },
+  {
+   "ids": [
+    1759
+   ],
+   "en": "green pipe",
+   "et": "roheline toru"
+  },
+  {
+   "ids": [
+    1760
+   ],
+   "en": "? block",
+   "et": "? plokk"
+  },
+  {
+   "ids": [
+    1761
+   ],
+   "en": "koopa shell",
+   "et": "koopa kilp"
+  },
+  {
+   "ids": [
+    1762
+   ],
+   "en": "starman",
+   "et": "Tähemees"
+  },
+  {
+   "ids": [
+    1763
+   ],
+   "en": "cannon",
+   "et": "kahur"
+  },
+  {
+   "ids": [
+    1764
+   ],
+   "en": "1-Up mushroom",
+   "et": "1-Up seen"
+  },
+  {
+   "ids": [
+    1765
+   ],
+   "en": "fire bar",
+   "et": "tuleriba"
+  },
+  {
+   "ids": [
+    1766
+   ],
+   "en": "pikmin",
+   "et": "Pikmin"
+  },
+  {
+   "ids": [
+    1767
+   ],
+   "en": "Blue Falcon",
+   "et": "Blue Falcon"
+  }
+ ]
+}

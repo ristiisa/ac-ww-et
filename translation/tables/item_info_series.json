@@ -1,0 +1,518 @@
+{
+ "file": "item_info/series.bin",
+ "max": 18,
+ "names": [
+  {
+   "ids": [
+    0
+   ],
+   "en": "Asian",
+   "et": "Aasia"
+  },
+  {
+   "ids": [
+    1
+   ],
+   "en": "Lovely",
+   "et": "Armas"
+  },
+  {
+   "ids": [
+    2
+   ],
+   "en": "Classic",
+   "et": "Klassika"
+  },
+  {
+   "ids": [
+    3
+   ],
+   "en": "Ranch",
+   "et": "Rantšo"
+  },
+  {
+   "ids": [
+    4
+   ],
+   "en": "Cabana",
+   "et": "Cabana"
+  },
+  {
+   "ids": [
+    5
+   ],
+   "en": "Blue",
+   "et": "Sinine"
+  },
+  {
+   "ids": [
+    6
+   ],
+   "en": "Modern",
+   "et": "Moodne"
+  },
+  {
+   "ids": [
+    7
+   ],
+   "en": "Regal",
+   "et": "Kuninglik"
+  },
+  {
+   "ids": [
+    8
+   ],
+   "en": "Green",
+   "et": "Roheline"
+  },
+  {
+   "ids": [
+    9
+   ],
+   "en": "Cabin",
+   "et": "Palkmaja"
+  },
+  {
+   "ids": [
+    10
+   ],
+   "en": "Kiddie",
+   "et": "Lastetuba"
+  },
+  {
+   "ids": [
+    11
+   ],
+   "en": "Robo",
+   "et": "Robo"
+  },
+  {
+   "ids": [
+    12
+   ],
+   "en": "Snowman",
+   "et": "Lumememm"
+  },
+  {
+   "ids": [
+    13
+   ],
+   "en": "Mush",
+   "et": "Seene"
+  },
+  {
+   "ids": [
+    14
+   ],
+   "en": "Western",
+   "et": "Vestern"
+  },
+  {
+   "ids": [
+    15
+   ],
+   "en": "Space",
+   "et": "Kosmos"
+  },
+  {
+   "ids": [
+    16
+   ],
+   "en": "Construction",
+   "et": "Ehitus"
+  },
+  {
+   "ids": [
+    17
+   ],
+   "en": "Boxing",
+   "et": "Poks"
+  },
+  {
+   "ids": [
+    18
+   ],
+   "en": "Mossy Garden",
+   "et": "Sammalaed"
+  },
+  {
+   "ids": [
+    19
+   ],
+   "en": "Nursery",
+   "et": "Beebituba"
+  },
+  {
+   "ids": [
+    20
+   ],
+   "en": "Mario",
+   "et": "Mario"
+  },
+  {
+   "ids": [
+    21
+   ],
+   "en": "Pirate",
+   "et": "Piraat"
+  },
+  {
+   "ids": [
+    22
+   ],
+   "en": "Mad Scientist",
+   "et": "Hull teadlane"
+  },
+  {
+   "ids": [
+    23
+   ],
+   "en": "White Chess",
+   "et": "Valge male"
+  },
+  {
+   "ids": [
+    24
+   ],
+   "en": "Black Chess",
+   "et": "Must male"
+  },
+  {
+   "ids": [
+    25
+   ],
+   "en": "Oil Drum",
+   "et": "Õlivaat"
+  },
+  {
+   "ids": [
+    26
+   ],
+   "en": "Classroom",
+   "et": "Klassiruum"
+  },
+  {
+   "ids": [
+    27
+   ],
+   "en": "Hospital ",
+   "et": "Haigla"
+  },
+  {
+   "ids": [
+    28
+   ],
+   "en": "Study",
+   "et": "Kabinet"
+  },
+  {
+   "ids": [
+    29
+   ],
+   "en": "Office",
+   "et": "Kontor"
+  },
+  {
+   "ids": [
+    30
+   ],
+   "en": "Cafe",
+   "et": "Kohvik"
+  },
+  {
+   "ids": [
+    31
+   ],
+   "en": "Daruma",
+   "et": "Daruma"
+  },
+  {
+   "ids": [
+    32
+   ],
+   "en": "Teddy Bear",
+   "et": "Kaisukaru"
+  },
+  {
+   "ids": [
+    33
+   ],
+   "en": "Panda",
+   "et": "Panda"
+  },
+  {
+   "ids": [
+    34
+   ],
+   "en": "Cactus",
+   "et": "Kaktus"
+  },
+  {
+   "ids": [
+    35
+   ],
+   "en": "Golf",
+   "et": "Golf"
+  },
+  {
+   "ids": [
+    36
+   ],
+   "en": "Red",
+   "et": "Punane"
+  },
+  {
+   "ids": [
+    37
+   ],
+   "en": "Totem Pole",
+   "et": "Totem"
+  },
+  {
+   "ids": [
+    38
+   ],
+   "en": "Lava Lamp",
+   "et": "Laavalamp"
+  },
+  {
+   "ids": [
+    39
+   ],
+   "en": "Japanese",
+   "et": "Jaapani"
+  },
+  {
+   "ids": [
+    40
+   ],
+   "en": "Backyard",
+   "et": "Tagaaed"
+  },
+  {
+   "ids": [
+    41
+   ],
+   "en": "Nintendo",
+   "et": "Nintendo"
+  },
+  {
+   "ids": [
+    42
+   ],
+   "en": "Vase",
+   "et": "Vaas"
+  },
+  {
+   "ids": [
+    43
+   ],
+   "en": "Welcome Kitty",
+   "et": "Tere kiisu"
+  },
+  {
+   "ids": [
+    44
+   ],
+   "en": "Citrus",
+   "et": "Tsitrus"
+  },
+  {
+   "ids": [
+    45
+   ],
+   "en": "Pear",
+   "et": "Pirn"
+  },
+  {
+   "ids": [
+    46
+   ],
+   "en": "Watermelon",
+   "et": "Arbuus"
+  },
+  {
+   "ids": [
+    47
+   ],
+   "en": "Apple",
+   "et": "Õun"
+  },
+  {
+   "ids": [
+    48
+   ],
+   "en": "Froggy",
+   "et": "Konn"
+  },
+  {
+   "ids": [
+    49,
+    56
+   ],
+   "en": "Pine",
+   "et": "Mänd"
+  },
+  {
+   "ids": [
+    50
+   ],
+   "en": "Red Flower",
+   "et": "Punane lill"
+  },
+  {
+   "ids": [
+    51
+   ],
+   "en": "Iris",
+   "et": "Iiris"
+  },
+  {
+   "ids": [
+    52
+   ],
+   "en": "Yellow Flower",
+   "et": "Kollane lill"
+  },
+  {
+   "ids": [
+    53
+   ],
+   "en": "Drum",
+   "et": "Trumm"
+  },
+  {
+   "ids": [
+    54
+   ],
+   "en": "Strings",
+   "et": "Keelpillid"
+  },
+  {
+   "ids": [
+    55
+   ],
+   "en": "Guitar",
+   "et": "Kitarr"
+  },
+  {
+   "ids": [
+    57
+   ],
+   "en": "Bonsai",
+   "et": "Bonsai"
+  },
+  {
+   "ids": [
+    58
+   ],
+   "en": "House Plant",
+   "et": "Toataim"
+  },
+  {
+   "ids": [
+    59
+   ],
+   "en": "T rex",
+   "et": "T-rex"
+  },
+  {
+   "ids": [
+    60
+   ],
+   "en": "Tricera",
+   "et": "Tricera"
+  },
+  {
+   "ids": [
+    61
+   ],
+   "en": "Mammoth",
+   "et": "Mammut"
+  },
+  {
+   "ids": [
+    62
+   ],
+   "en": "Ankylo",
+   "et": "Ankülo"
+  },
+  {
+   "ids": [
+    63
+   ],
+   "en": "Apato",
+   "et": "Apato"
+  },
+  {
+   "ids": [
+    64
+   ],
+   "en": "Dimetrodon",
+   "et": "Dimetrodon"
+  },
+  {
+   "ids": [
+    65
+   ],
+   "en": "Iguanodon",
+   "et": "Iguanodon"
+  },
+  {
+   "ids": [
+    66
+   ],
+   "en": "Savertooth",
+   "et": "Mõõkhammas"
+  },
+  {
+   "ids": [
+    67
+   ],
+   "en": "Pachy",
+   "et": "Pahhü"
+  },
+  {
+   "ids": [
+    68
+   ],
+   "en": "Parasaur",
+   "et": "Parasaur"
+  },
+  {
+   "ids": [
+    69
+   ],
+   "en": "Seizmo",
+   "et": "Seismo"
+  },
+  {
+   "ids": [
+    70
+   ],
+   "en": "Plesio",
+   "et": "Plesio"
+  },
+  {
+   "ids": [
+    71
+   ],
+   "en": "Stego",
+   "et": "Stego"
+  },
+  {
+   "ids": [
+    72
+   ],
+   "en": "Ptera",
+   "et": "Ptera"
+  },
+  {
+   "ids": [
+    73
+   ],
+   "en": "Other",
+   "et": "Muu"
+  }
+ ]
+}

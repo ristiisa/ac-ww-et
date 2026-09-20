@@ -4,1107 +4,1107 @@
   {
    "id": 0,
    "en": "Grab",
-   "et": ""
+   "et": "Võta"
   },
   {
    "id": 1,
    "en": "Drop on Ground",
-   "et": ""
+   "et": "Viska maha"
   },
   {
    "id": 2,
    "en": "Never Mind",
-   "et": ""
+   "et": "Loobu"
   },
   {
    "id": 3,
    "en": "Place All",
-   "et": ""
+   "et": "Aseta kõik"
   },
   {
    "id": 4,
    "en": "Yes",
-   "et": ""
+   "et": "Jah"
   },
   {
    "id": 5,
    "en": "Eat",
-   "et": ""
+   "et": "Söö"
   },
   {
    "id": 6,
    "en": "Plant",
-   "et": ""
+   "et": "Istuta"
   },
   {
    "id": 7,
    "en": "Bury",
-   "et": ""
+   "et": "Mata maha"
   },
   {
    "id": 8,
    "en": "Release",
-   "et": ""
+   "et": "Lase lahti"
   },
   {
    "id": 9,
    "en": "Open",
-   "et": ""
+   "et": "Ava"
   },
   {
    "id": 10,
    "en": "Place in Room",
-   "et": ""
+   "et": "Aseta tuppa"
   },
   {
    "id": 11,
    "en": "Paste on Wall",
-   "et": ""
+   "et": "Kleebi seinale"
   },
   {
    "id": 12,
    "en": "Spread on Floor",
-   "et": ""
+   "et": "Laota põrandale"
   },
   {
    "id": 13,
    "en": "Give This",
-   "et": ""
+   "et": "Anna see"
   },
   {
    "id": 14,
    "en": "Sell This",
-   "et": ""
+   "et": "Müü see"
   },
   {
    "id": 15,
    "en": "Put This Away",
-   "et": ""
+   "et": "Pane ära"
   },
   {
    "id": 16,
    "en": "Swap",
-   "et": ""
+   "et": "Vaheta"
   },
   {
    "id": 17,
    "en": "Release",
-   "et": ""
+   "et": "Lase lahti"
   },
   {
    "id": 18,
    "en": "Confirm",
-   "et": ""
+   "et": "Kinnita"
   },
   {
    "id": 19,
    "en": "No",
-   "et": ""
+   "et": "Ei"
   },
   {
    "id": 20,
    "en": "Read",
-   "et": ""
+   "et": "Loe"
   },
   {
    "id": 21,
    "en": "Toss",
-   "et": ""
+   "et": "Viska ära"
   },
   {
    "id": 22,
    "en": "Rewrite",
-   "et": ""
+   "et": "Muuda"
   },
   {
    "id": 23,
    "en": "...Open it?",
-   "et": ""
+   "et": "...Avada?"
   },
   {
    "id": 24,
    "en": "Present",
-   "et": ""
+   "et": "Kingitus"
   },
   {
    "id": 25,
    "en": "Keep",
-   "et": ""
+   "et": "Jäta"
   },
   {
    "id": 26,
    "en": "Toss it?",
-   "et": ""
+   "et": "Visata ära?"
   },
   {
    "id": 27,
    "en": "Show it off!",
-   "et": ""
+   "et": "Näita teistele!"
   },
   {
    "id": 28,
    "en": "Write Letter",
-   "et": ""
+   "et": "Kirjuta kiri"
   },
   {
    "id": 29,
    "en": "Grab One Sheet",
-   "et": ""
+   "et": "Võta üks leht"
   },
   {
    "id": 30,
    "en": "{00 06 00} Next",
-   "et": ""
+   "et": "{00 06 00} Edasi"
   },
   {
    "id": 31,
    "en": "Choose Addressee",
-   "et": ""
+   "et": "Vali saaja"
   },
   {
    "id": 32,
    "en": "Change Addressee",
-   "et": ""
+   "et": "Muuda saajat"
   },
   {
    "id": 33,
    "en": "Confirm",
-   "et": ""
+   "et": "Kinnita"
   },
   {
    "id": 34,
    "en": "Is this correct?",
-   "et": ""
+   "et": "Kas on õige?"
   },
   {
    "id": 35,
    "en": "Dear \n,",
-   "et": ""
+   "et": "Kallis\n,"
   },
   {
    "id": 36,
    "en": "From \n",
-   "et": ""
+   "et": "Saatja:\n"
   },
   {
    "id": 37,
    "en": "Your Future Self",
-   "et": ""
+   "et": "Sinu tulevane mina"
   },
   {
    "id": 38,
    "en": "Dear Future \n,",
-   "et": ""
+   "et": "Kallis tulevane\n,"
   },
   {
    "id": 39,
    "en": "{00 06 00} Never Mind",
-   "et": ""
+   "et": "{00 06 00} Loobu"
   },
   {
    "id": 40,
    "en": "Use This",
-   "et": ""
+   "et": "Kasuta"
   },
   {
    "id": 41,
    "en": "Place This",
-   "et": ""
+   "et": "Aseta see"
   },
   {
    "id": 42,
    "en": "Use on Clothes",
-   "et": ""
+   "et": "Kasuta riietel"
   },
   {
    "id": 43,
    "en": "Use on Umbrella",
-   "et": ""
+   "et": "Vihmavarjule"
   },
   {
    "id": 44,
    "en": "Paste on Wall",
-   "et": ""
+   "et": "Kleebi seinale"
   },
   {
    "id": 45,
    "en": "Spread on Floor",
-   "et": ""
+   "et": "Laota põrandale"
   },
   {
    "id": 46,
    "en": "Remove",
-   "et": ""
+   "et": "Eemalda"
   },
   {
    "id": 47,
    "en": "Place Clothes",
-   "et": ""
+   "et": "Aseta riided"
   },
   {
    "id": 48,
    "en": "Place Umbrella",
-   "et": ""
+   "et": "Aseta vihmavari"
   },
   {
    "id": 49,
    "en": "Paste As Is",
-   "et": ""
+   "et": "Kleebi nii"
   },
   {
    "id": 50,
    "en": "Paste All Around",
-   "et": ""
+   "et": "Kleebi ümberringi"
   },
   {
    "id": 51,
    "en": "Never Mind",
-   "et": ""
+   "et": "Loobu"
   },
   {
    "id": 52,
    "en": "Is this correct?",
-   "et": ""
+   "et": "Kas on õige?"
   },
   {
    "id": 53,
    "en": "OK!",
-   "et": ""
+   "et": "Sobib!"
   },
   {
    "id": 54,
    "en": "Not yet...",
-   "et": ""
+   "et": "Veel mitte..."
   },
   {
    "id": 55,
    "en": "Forget I did it.",
-   "et": ""
+   "et": "Unusta ära."
   },
   {
    "id": 56,
    "en": "Swap",
-   "et": ""
+   "et": "Vaheta"
   },
   {
    "id": 57,
    "en": "Place Here",
-   "et": ""
+   "et": "Aseta siia"
   },
   {
    "id": 58,
    "en": "Put it where?",
-   "et": ""
+   "et": "Kuhu panna?"
   },
   {
    "id": 59,
    "en": "Choose a name!",
-   "et": ""
+   "et": "Vali nimi!"
   },
   {
    "id": 60,
    "en": "Dear {04 0f 00},",
-   "et": ""
+   "et": "Kallis {04 0f 00},"
   },
   {
    "id": 61,
    "en": "From {04 10 00}",
-   "et": ""
+   "et": "Saatja: {04 10 00}"
   },
   {
    "id": 62,
    "en": "Love, Mom",
-   "et": ""
+   "et": "Emalt"
   },
   {
    "id": 63,
    "en": "From the H.R.A.",
-   "et": ""
+   "et": "KKA-lt"
   },
   {
    "id": 64,
    "en": "To {04 0f 00}",
-   "et": ""
+   "et": "Saaja: {04 0f 00}"
   },
   {
    "id": 65,
    "en": "Compliment!",
-   "et": ""
+   "et": "Kompliment!"
   },
   {
    "id": 66,
    "en": "See! You say it!",
-   "et": ""
+   "et": "Näed! Ütle sina!"
   },
   {
    "id": 67,
    "en": "Some Stranger",
-   "et": ""
+   "et": "Mingi võõras"
   },
   {
    "id": 68,
    "en": "Enter a request.",
-   "et": ""
+   "et": "Sisesta soov."
   },
   {
    "id": 69,
    "en": "Pick a phrase!",
-   "et": ""
+   "et": "Vali väljend!"
   },
   {
    "id": 70,
    "en": "Pick a greeting!",
-   "et": ""
+   "et": "Vali tervitus!"
   },
   {
    "id": 71,
    "en": "Enter Your Birthday",
-   "et": ""
+   "et": "Sisesta sünnipäev"
   },
   {
    "id": 72,
    "en": "Password?",
-   "et": ""
+   "et": "Parool?"
   },
   {
    "id": 73,
    "en": "Use which one?",
-   "et": ""
+   "et": "Millist?"
   },
   {
    "id": 74,
    "en": "Enter a Comment",
-   "et": ""
+   "et": "Sisesta märkus"
   },
   {
    "id": 75,
    "en": "From {04 10 00}",
-   "et": ""
+   "et": "Saatja: {04 10 00}"
   },
   {
    "id": 76,
    "en": "Enter a nickname.",
-   "et": ""
+   "et": "Sisesta hüüdnimi."
   },
   {
    "id": 77,
    "en": "Who might it be?",
-   "et": ""
+   "et": "Kes see on?"
   },
   {
    "id": 78,
    "en": "What's it called?",
-   "et": ""
+   "et": "Mis selle nimi on?"
   },
   {
    "id": 79,
    "en": "Design name?",
-   "et": ""
+   "et": "Mustri nimi?"
   },
   {
    "id": 80,
    "en": "Asking price",
-   "et": ""
+   "et": "Küsitav hind"
   },
   {
    "id": 81,
    "en": "Turnips",
-   "et": ""
+   "et": "Naerid"
   },
   {
    "id": 82,
    "en": "How many?",
-   "et": ""
+   "et": "Mitu?"
   },
   {
    "id": 83,
    "en": "Not selling",
-   "et": ""
+   "et": "Ei müü"
   },
   {
    "id": 84,
    "en": "Money on Hand",
-   "et": ""
+   "et": "Raha käes"
   },
   {
    "id": 85,
    "en": "Payment",
-   "et": ""
+   "et": "Makse"
   },
   {
    "id": 86,
    "en": "Remaining",
-   "et": ""
+   "et": "Jääk"
   },
   {
    "id": 87,
    "en": "Choose an amount!",
-   "et": ""
+   "et": "Vali summa!"
   },
   {
    "id": 88,
    "en": "Deposit",
-   "et": ""
+   "et": "Hoiusta"
   },
   {
    "id": 89,
    "en": "Savings",
-   "et": ""
+   "et": "Säästud"
   },
   {
    "id": 90,
    "en": "Donation",
-   "et": ""
+   "et": "Annetus"
   },
   {
    "id": 91,
    "en": "Asking price?",
-   "et": ""
+   "et": "Küsitav hind?"
   },
   {
    "id": 92,
    "en": "Make an offer!",
-   "et": ""
+   "et": "Tee pakkumine!"
   },
   {
    "id": 93,
    "en": "Offer",
-   "et": ""
+   "et": "Pakkumine"
   },
   {
    "id": 94,
    "en": "Thank you.",
-   "et": ""
+   "et": "Aitäh."
   },
   {
    "id": 95,
    "en": "Save Bells",
-   "et": ""
+   "et": "Hoiusta"
   },
   {
    "id": 96,
    "en": "Withdraw Bells",
-   "et": ""
+   "et": "Võta välja"
   },
   {
    "id": 97,
    "en": "Withdrawal",
-   "et": ""
+   "et": "Väljavõtt"
   },
   {
    "id": 98,
    "en": "How many?",
-   "et": ""
+   "et": "Mitu?"
   },
   {
    "id": 99,
    "en": "Touch it",
-   "et": ""
+   "et": "Puuduta"
   },
   {
    "id": 100,
    "en": "Touch the Screen",
-   "et": ""
+   "et": "Puuduta ekraani"
   },
   {
    "id": 101,
    "en": "Quit",
-   "et": ""
+   "et": "Lõpeta"
   },
   {
    "id": 102,
    "en": "{04 0f 00}",
-   "et": ""
+   "et": "{04 0f 00}"
   },
   {
    "id": 103,
    "en": "Lock",
-   "et": ""
+   "et": "Lukusta"
   },
   {
    "id": 104,
    "en": "Erase",
-   "et": ""
+   "et": "Kustuta"
   },
   {
    "id": 105,
    "en": "End",
-   "et": ""
+   "et": "Lõpp"
   },
   {
    "id": 107,
    "en": "Adjust the Clock",
-   "et": ""
+   "et": "Seadista kell"
   },
   {
    "id": 108,
    "en": "Decide Time",
-   "et": ""
+   "et": "Kinnita aeg"
   },
   {
    "id": 109,
    "en": "Enter Birthday",
-   "et": ""
+   "et": "Sisesta sünnipäev"
   },
   {
    "id": 110,
    "en": "All",
-   "et": ""
+   "et": "Kõik"
   },
   {
    "id": 111,
    "en": "100 Bells",
-   "et": ""
+   "et": "100 kella"
   },
   {
    "id": 112,
    "en": "1,000 Bells",
-   "et": ""
+   "et": "1 000 kella"
   },
   {
    "id": 113,
    "en": "10,000 Bells",
-   "et": ""
+   "et": "10 000 kella"
   },
   {
    "id": 114,
    "en": "Put Away Here",
-   "et": ""
+   "et": "Pane siia ära"
   },
   {
    "id": 115,
    "en": "Play This One",
-   "et": ""
+   "et": "Mängi seda"
   },
   {
    "id": 117,
    "en": "Remove Equipment",
-   "et": ""
+   "et": "Eemalda varustus"
   },
   {
    "id": 118,
    "en": "Remove Headgear",
-   "et": ""
+   "et": "Eemalda peakate"
   },
   {
    "id": 119,
    "en": "Remove Accessory",
-   "et": ""
+   "et": "Eemalda ehe"
   },
   {
    "id": 120,
    "en": "!!!!!!",
-   "et": ""
+   "et": "!!!!!!"
   },
   {
    "id": 122,
    "en": "You have nothing!",
-   "et": ""
+   "et": "Sul pole midagi!"
   },
   {
    "id": 123,
    "en": "Not enough Bells.",
-   "et": ""
+   "et": "Kellasid on vähe."
   },
   {
    "id": 124,
    "en": "Can't do anything!",
-   "et": ""
+   "et": "Ei saa midagi teha!"
   },
   {
    "id": 126,
    "en": "Nearby Towns",
-   "et": ""
+   "et": "Lähilinnad"
   },
   {
    "id": 127,
    "en": "Distant Towns",
-   "et": ""
+   "et": "Kauged linnad"
   },
   {
    "id": 129,
    "en": "Phone",
-   "et": ""
+   "et": "Telefon"
   },
   {
    "id": 130,
    "en": "Last",
-   "et": ""
+   "et": "Viimane"
   },
   {
    "id": 131,
    "en": "First",
-   "et": ""
+   "et": "Esimene"
   },
   {
    "id": 132,
    "en": "Post",
-   "et": ""
+   "et": "Postita"
   },
   {
    "id": 133,
    "en": "OK",
-   "et": ""
+   "et": "OK"
   },
   {
    "id": 134,
    "en": "Message {04 0f 00}",
-   "et": ""
+   "et": "Sõnum {04 0f 00}"
   },
   {
    "id": 135,
    "en": "Quit now?",
-   "et": ""
+   "et": "Lõpetada?"
   },
   {
    "id": 136,
    "en": "Close",
-   "et": ""
+   "et": "Sulge"
   },
   {
    "id": 137,
    "en": "Written by {0b 03 00}{04 0f 00}",
-   "et": ""
+   "et": "Kirjutas {0b 03 00}{04 0f 00}"
   },
   {
    "id": 139,
    "en": "What time?",
-   "et": ""
+   "et": "Mis kell?"
   },
   {
    "id": 140,
    "en": "Is this correct?",
-   "et": ""
+   "et": "Kas on õige?"
   },
   {
    "id": 141,
    "en": "Erase All",
-   "et": ""
+   "et": "Kustuta kõik"
   },
   {
    "id": 142,
    "en": "Play",
-   "et": ""
+   "et": "Mängi"
   },
   {
    "id": 143,
    "en": "Communicating...",
-   "et": ""
+   "et": "Ühendan..."
   },
   {
    "id": 144,
    "en": "Display which?",
-   "et": ""
+   "et": "Mida näidata?"
   },
   {
    "id": 145,
    "en": "This One",
-   "et": ""
+   "et": "Seda"
   },
   {
    "id": 146,
    "en": "Trade which one?",
-   "et": ""
+   "et": "Mida vahetada?"
   },
   {
    "id": 147,
    "en": "Close the window.",
-   "et": ""
+   "et": "Sulge aken."
   },
   {
    "id": 148,
    "en": "End the conversation.",
-   "et": ""
+   "et": "Lõpeta vestlus."
   },
   {
    "id": 150,
    "en": "Shop",
-   "et": ""
+   "et": "Pood"
   },
   {
    "id": 151,
    "en": "Tailor",
-   "et": ""
+   "et": "Rätsep"
   },
   {
    "id": 152,
    "en": "Town Hall",
-   "et": ""
+   "et": "Raekoda"
   },
   {
    "id": 153,
    "en": "Museum",
-   "et": ""
+   "et": "Muuseum"
   },
   {
    "id": 154,
    "en": "Main Gate",
-   "et": ""
+   "et": "Peavärav"
   },
   {
    "id": 155,
    "en": "From Boondox",
-   "et": ""
+   "et": "Boondoxist"
   },
   {
    "id": 156,
    "en": "Copy",
-   "et": ""
+   "et": "Kopeeri"
   },
   {
    "id": 157,
    "en": "Paste",
-   "et": ""
+   "et": "Kleebi"
   },
   {
    "id": 158,
    "en": "From Tom Nook",
-   "et": ""
+   "et": "Tom Nookilt"
   },
   {
    "id": 159,
    "en": "From the museum",
-   "et": ""
+   "et": "Muuseumist"
   },
   {
    "id": 160,
    "en": "Love, Mom",
-   "et": ""
+   "et": "Emalt"
   },
   {
    "id": 161,
    "en": "Certificate",
-   "et": ""
+   "et": "Tunnistus"
   },
   {
    "id": 162,
    "en": "From town hall",
-   "et": ""
+   "et": "Raekojalt"
   },
   {
    "id": 163,
    "en": "From Lyle",
-   "et": ""
+   "et": "Lyle'ilt"
   },
   {
    "id": 164,
    "en": "Love, Dad",
-   "et": ""
+   "et": "Isalt"
   },
   {
    "id": 165,
    "en": "From the Star",
-   "et": ""
+   "et": "Tähelt"
   },
   {
    "id": 166,
    "en": "From Snowman",
-   "et": ""
+   "et": "Lumememmelt"
   },
   {
    "id": 167,
    "en": "From Redd",
-   "et": ""
+   "et": "Reddilt"
   },
   {
    "id": 168,
    "en": "Bottle mail",
-   "et": ""
+   "et": "Pudelipost"
   },
   {
    "id": 169,
    "en": "{04 0f 00} Town Map",
-   "et": ""
+   "et": "{04 0f 00} linnakaart"
   },
   {
    "id": 170,
    "en": "Sunday",
-   "et": ""
+   "et": "pühapäev"
   },
   {
    "id": 171,
    "en": "Monday",
-   "et": ""
+   "et": "esmaspäev"
   },
   {
    "id": 172,
    "en": "Tuesday",
-   "et": ""
+   "et": "teisipäev"
   },
   {
    "id": 173,
    "en": "Wednesday",
-   "et": ""
+   "et": "kolmapäev"
   },
   {
    "id": 174,
    "en": "Thursday",
-   "et": ""
+   "et": "neljapäev"
   },
   {
    "id": 175,
    "en": "Friday",
-   "et": ""
+   "et": "reede"
   },
   {
    "id": 176,
    "en": "Saturday",
-   "et": ""
+   "et": "laupäev"
   },
   {
    "id": 178,
    "en": "Year",
-   "et": ""
+   "et": "Aasta"
   },
   {
    "id": 179,
    "en": "Month",
-   "et": ""
+   "et": "Kuu"
   },
   {
    "id": 180,
    "en": "Day",
-   "et": ""
+   "et": "Päev"
   },
   {
    "id": 181,
    "en": "Hour",
-   "et": ""
+   "et": "Tund"
   },
   {
    "id": 182,
    "en": "Minute",
-   "et": ""
+   "et": "Minut"
   },
   {
    "id": 184,
    "en": " Bells",
-   "et": ""
+   "et": " kella"
   },
   {
    "id": 185,
    "en": "Thank you letter",
-   "et": ""
+   "et": "Tänukiri"
   },
   {
    "id": 186,
    "en": "Fortune",
-   "et": ""
+   "et": "Ennustus"
   },
   {
    "id": 187,
    "en": "From the Mayor",
-   "et": ""
+   "et": "Linnapealt"
   },
   {
    "id": 188,
    "en": "Town name",
-   "et": ""
+   "et": "Linna nimi"
   },
   {
    "id": 189,
    "en": "Name",
-   "et": ""
+   "et": "Nimi"
   },
   {
    "id": 190,
    "en": "Start timer!",
-   "et": ""
+   "et": "Käivita!"
   },
   {
    "id": 191,
    "en": "Stop timer!",
-   "et": ""
+   "et": "Peata!"
   },
   {
    "id": 192,
    "en": "Time's up!",
-   "et": ""
+   "et": "Aeg läbi!"
   },
   {
    "id": 193,
    "en": "More",
-   "et": ""
+   "et": "Veel"
   },
   {
    "id": 194,
    "en": "Confirm",
-   "et": ""
+   "et": "Kinnita"
   },
   {
    "id": 195,
    "en": "C",
-   "et": ""
+   "et": "C"
   },
   {
    "id": 196,
    "en": "D",
-   "et": ""
+   "et": "D"
   },
   {
    "id": 197,
    "en": "E",
-   "et": ""
+   "et": "E"
   },
   {
    "id": 198,
    "en": "F",
-   "et": ""
+   "et": "F"
   },
   {
    "id": 199,
    "en": "G",
-   "et": ""
+   "et": "G"
   },
   {
    "id": 200,
    "en": "A",
-   "et": ""
+   "et": "A"
   },
   {
    "id": 201,
    "en": "B",
-   "et": ""
+   "et": "B"
   },
   {
    "id": 202,
    "en": "?",
-   "et": ""
+   "et": "?"
   },
   {
    "id": 203,
    "en": "-",
-   "et": ""
+   "et": "-"
   },
   {
    "id": 204,
    "en": "so-and-so",
-   "et": ""
+   "et": "keegi"
   },
   {
    "id": 205,
    "en": "Friend Roster",
-   "et": ""
+   "et": "Sõbranimekiri"
   },
   {
    "id": 206,
    "en": "Use Code",
-   "et": ""
+   "et": "Kasuta koodi"
   },
   {
    "id": 207,
    "en": "Edit Name",
-   "et": ""
+   "et": "Muuda nime"
   },
   {
    "id": 208,
    "en": "Edit Town Name",
-   "et": ""
+   "et": "Muuda linna nime"
   },
   {
    "id": 209,
    "en": "Edit Code",
-   "et": ""
+   "et": "Muuda koodi"
   },
   {
    "id": 210,
    "en": "Remove From List",
-   "et": ""
+   "et": "Kustuta loendist"
   },
   {
    "id": 211,
    "en": "OK to remove?",
-   "et": ""
+   "et": "Kas eemaldada?"
   },
   {
    "id": 212,
    "en": "To get your friend code,\nconnect to Nintendo\nWi-Fi Connection first.",
-   "et": ""
+   "et": "Sõbrakoodi saamiseks\nühenda esmalt Nintendo\nWi-Fi ühendusega."
   },
   {
    "id": 213,
    "en": "Share your friend code\nwith others to play\nthrough Nintendo WFC!",
-   "et": ""
+   "et": "Jaga sõbrakoodi teistega,\net mängida Nintendo\nWFC kaudu!"
   },
   {
    "id": 214,
    "en": "Register",
-   "et": ""
+   "et": "Registreeri"
   },
   {
    "id": 215,
    "en": "Enter code.",
-   "et": ""
+   "et": "Sisesta kood."
   },
   {
    "id": 216,
    "en": "Go Back",
-   "et": ""
+   "et": "Tagasi"
   },
   {
    "id": 217,
    "en": "There's a visitor.",
-   "et": ""
+   "et": "Külaline saabus."
   },
   {
    "id": 218,
    "en": "Someone's leaving.",
-   "et": ""
+   "et": "Keegi lahkub."
   },
   {
    "id": 219,
    "en": "I will save.",
-   "et": ""
+   "et": "Salvestan."
   },
   {
    "id": 220,
    "en": "Measure time",
-   "et": ""
+   "et": "Mõõda aega"
   },
   {
    "id": 221,
    "en": "3 minutes",
-   "et": ""
+   "et": "3 minutit"
   },
   {
    "id": 222,
    "en": "5 minutes",
-   "et": ""
+   "et": "5 minutit"
   },
   {
    "id": 223,
    "en": "10 minutes",
-   "et": ""
+   "et": "10 minutit"
   },
   {
    "id": 224,
    "en": "15 minutes",
-   "et": ""
+   "et": "15 minutit"
   },
   {
    "id": 225,
    "en": "Stop",
-   "et": ""
+   "et": "Peata"
   },
   {
    "id": 226,
    "en": "Please wait.",
-   "et": ""
+   "et": "Palun oota."
   },
   {
    "id": 227,
    "en": "The communication is\nlagging.\nIf it doesn't recover, it\nwill shut down in",
-   "et": ""
+   "et": "Ühendus on\naeglane.\nKui see ei parane,\nkatkeb see"
   },
   {
    "id": 228,
    "en": "seconds...",
-   "et": ""
+   "et": "sekundit..."
   },
   {
    "id": 229,
    "en": "Communication has ended\nand the game will reset.\nYou may lose progress\nfrom the last save.",
-   "et": ""
+   "et": "Ühendus katkes ja mäng\nläheb algusest.\nViimasest salvestusest\ntehtu võib kaduda."
   },
   {
    "id": 230,
@@ -1139,47 +1139,47 @@
   {
    "id": 236,
    "en": "Get a new friend code by\nconnecting to Nintendo\nWFC one more time.",
-   "et": ""
+   "et": "Uue sõbrakoodi saamiseks\nühenda veel kord\nNintendo WFC-ga."
   },
   {
    "id": 237,
    "en": "All are leaving.",
-   "et": ""
+   "et": "Kõik lahkuvad."
   },
   {
    "id": 238,
    "en": "Cancelled.",
-   "et": ""
+   "et": "Tühistatud."
   },
   {
    "id": 239,
    "en": "I want to save.",
-   "et": ""
+   "et": "Tahan salvestada."
   },
   {
    "id": 240,
    "en": "I can't move!",
-   "et": ""
+   "et": "Ei saa liikuda!"
   },
   {
    "id": 241,
    "en": "Outta my way!",
-   "et": ""
+   "et": "Eest ära!"
   },
   {
    "id": 242,
    "en": "I can't get down!",
-   "et": ""
+   "et": "Ma ei saa alla!"
   },
   {
    "id": 243,
    "en": "Phew...",
-   "et": ""
+   "et": "Ohh..."
   },
   {
    "id": 244,
    "en": "Very nice!",
-   "et": ""
+   "et": "Väga kena!"
   }
  ]
 }

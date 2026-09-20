@@ -9,9 +9,11 @@ import sys
 import ndspy.rom
 
 import bmg
+import tables
 
 ROM = 'rom/Animal Crossing - Wild World (USA) (Rev 1).nds'
 OUT = 'out/AC_WW_EST.nds'
+EMPTY = '{-}'  # marks a string that must become empty (e.g. English articles)
 
 
 def main():
@@ -19,6 +21,8 @@ def main():
     errors = []
     changed = translated = 0
     for jp in sorted(glob.glob('translation/**/*.json', recursive=True)):
+        if jp.startswith('translation/tables/'):
+            continue
         doc = json.load(open(jp, encoding='utf-8'))
         todo = [e for e in doc['messages'] if e['et']]
         if not todo:
@@ -27,21 +31,22 @@ def main():
         b = bmg.Bmg(bmg.unwrap(rom.files[fid]))
         for e in todo:
             try:
-                b.messages[e['id']] = bmg.encode(e['et'])
+                b.messages[e['id']] = b'' if e['et'] == EMPTY else bmg.encode(e['et'])
             except (ValueError, UnicodeEncodeError) as ex:
                 errors.append(f'{jp} #{e["id"]}: {ex}')
                 continue
-            if _codes(e['et']) != _codes(e['en']):
+            if e['et'] != EMPTY and _codes(e['et']) != _codes(e['en']):
                 print(f'warning: {jp} #{e["id"]}: control codes differ from English', file=sys.stderr)
             translated += 1
         rom.files[fid] = bmg.wrap(b.build())
         changed += 1
+    names = tables.apply(rom, errors)
     if errors:
         print('\n'.join(errors), file=sys.stderr)
         sys.exit(1)
     os.makedirs(os.path.dirname(OUT), exist_ok=True)
     rom.saveToFile(OUT)
-    print(f'{translated} messages in {changed} files -> {OUT}')
+    print(f'{translated} messages in {changed} files, {names} table names -> {OUT}')
 
 
 def _codes(text):

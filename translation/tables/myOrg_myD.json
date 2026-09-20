@@ -1,0 +1,338 @@
+{
+ "file": "myOrg/myD.bin",
+ "max": 15,
+ "names": [
+  {
+   "ids": [
+    0
+   ],
+   "en": "hat design",
+   "et": "mütsi kujundus"
+  },
+  {
+   "ids": [
+    1
+   ],
+   "en": "clothing pattern",
+   "et": "riide muster"
+  },
+  {
+   "ids": [
+    2
+   ],
+   "en": "umbrella pattern",
+   "et": "varju muster"
+  },
+  {
+   "ids": [
+    3
+   ],
+   "en": "arrow pattern",
+   "et": "noole muster"
+  },
+  {
+   "ids": [
+    4,
+    5,
+    6,
+    7
+   ],
+   "en": "blank",
+   "et": "tühi"
+  },
+  {
+   "ids": [
+    8
+   ],
+   "en": "clover pattern",
+   "et": "ristiku muster"
+  },
+  {
+   "ids": [
+    9
+   ],
+   "en": "fish pattern",
+   "et": "kala muster"
+  },
+  {
+   "ids": [
+    10
+   ],
+   "en": "donut pattern",
+   "et": "sõõriku muster"
+  },
+  {
+   "ids": [
+    11
+   ],
+   "en": "chic pattern",
+   "et": "šikk muster"
+  },
+  {
+   "ids": [
+    12
+   ],
+   "en": "aurora pattern",
+   "et": "virmalised"
+  },
+  {
+   "ids": [
+    13
+   ],
+   "en": "pop pattern",
+   "et": "popp muster"
+  },
+  {
+   "ids": [
+    14
+   ],
+   "en": "bubble pattern",
+   "et": "mulli muster"
+  },
+  {
+   "ids": [
+    15
+   ],
+   "en": "classy pattern",
+   "et": "peen muster"
+  },
+  {
+   "ids": [
+    16
+   ],
+   "en": "Tortimer's Pride",
+   "et": "Tortimeri uhkus"
+  },
+  {
+   "ids": [
+    17
+   ],
+   "en": "test",
+   "et": "test"
+  },
+  {
+   "ids": [
+    18
+   ],
+   "en": "north pattern",
+   "et": "põhja muster"
+  },
+  {
+   "ids": [
+    19
+   ],
+   "en": "west pattern",
+   "et": "lääne muster"
+  },
+  {
+   "ids": [
+    20
+   ],
+   "en": "road 1 pattern",
+   "et": "tee 1 muster"
+  },
+  {
+   "ids": [
+    21
+   ],
+   "en": "road 2 pattern",
+   "et": "tee 2 muster"
+  },
+  {
+   "ids": [
+    22
+   ],
+   "en": "road 3 pattern",
+   "et": "tee 3 muster"
+  },
+  {
+   "ids": [
+    23
+   ],
+   "en": "road 4 pattern",
+   "et": "tee 4 muster"
+  },
+  {
+   "ids": [
+    24
+   ],
+   "en": "four-way pattern",
+   "et": "ristmiku muster"
+  },
+  {
+   "ids": [
+    25
+   ],
+   "en": "crosswalk design",
+   "et": "ülekäigurada"
+  },
+  {
+   "ids": [
+    26
+   ],
+   "en": "? Block design",
+   "et": "? ploki muster"
+  },
+  {
+   "ids": [
+    27
+   ],
+   "en": "block pattern",
+   "et": "ploki muster"
+  },
+  {
+   "ids": [
+    28
+   ],
+   "en": "stairs pattern",
+   "et": "trepi muster"
+  },
+  {
+   "ids": [
+    29
+   ],
+   "en": "dash pattern",
+   "et": "kriipsu muster"
+  },
+  {
+   "ids": [
+    30
+   ],
+   "en": "stop sign design",
+   "et": "stopp-märk"
+  },
+  {
+   "ids": [
+    31
+   ],
+   "en": "no entry design",
+   "et": "keelumärk"
+  },
+  {
+   "ids": [
+    32
+   ],
+   "en": "right pattern",
+   "et": "parem muster"
+  },
+  {
+   "ids": [
+    33
+   ],
+   "en": "left pattern",
+   "et": "vasak muster"
+  },
+  {
+   "ids": [
+    34
+   ],
+   "en": "caution pattern",
+   "et": "hoiatusmuster"
+  },
+  {
+   "ids": [
+    35
+   ],
+   "en": "no U-turn design",
+   "et": "U-pöörde keeld"
+  },
+  {
+   "ids": [
+    36
+   ],
+   "en": "home pattern",
+   "et": "kodu muster"
+  },
+  {
+   "ids": [
+    37
+   ],
+   "en": "town hall design",
+   "et": "raekoja muster"
+  },
+  {
+   "ids": [
+    38
+   ],
+   "en": "museum design",
+   "et": "muuseumi muster"
+  },
+  {
+   "ids": [
+    39
+   ],
+   "en": "fossil pattern",
+   "et": "kivistis"
+  },
+  {
+   "ids": [
+    40
+   ],
+   "en": "footsteps design",
+   "et": "jälgede muster"
+  },
+  {
+   "ids": [
+    41
+   ],
+   "en": "overhead view A",
+   "et": "pealtvaade A"
+  },
+  {
+   "ids": [
+    42
+   ],
+   "en": "overhead view B",
+   "et": "pealtvaade B"
+  },
+  {
+   "ids": [
+    43
+   ],
+   "en": "overhead view C",
+   "et": "pealtvaade C"
+  },
+  {
+   "ids": [
+    44
+   ],
+   "en": "overhead view D",
+   "et": "pealtvaade D"
+  },
+  {
+   "ids": [
+    45
+   ],
+   "en": "rock pattern",
+   "et": "kivi muster"
+  },
+  {
+   "ids": [
+    46
+   ],
+   "en": "puddle pattern",
+   "et": "lombi muster"
+  },
+  {
+   "ids": [
+    47
+   ],
+   "en": "drain pattern",
+   "et": "resti muster"
+  },
+  {
+   "ids": [
+    48
+   ],
+   "en": "point 1 pattern",
+   "et": "punkt 1 muster"
+  },
+  {
+   "ids": [
+    49
+   ],
+   "en": "point 2 pattern",
+   "et": "punkt 2 muster"
+  }
+ ]
+}
