@@ -4,17 +4,17 @@
   {
    "id": 0,
    "en": "{07 1d 00}{0b 03 00}{04 1a 00}?!\nYou're gonna hook me up?!\n\n{07 06 00}Whoa!{01 00 00 0a 00} You rock the HOUSE,\n{01 00 00 05 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 1d 00}{0b 03 00}{04 1a 00}?!\nSa annad selle mulle?!\n\n{07 06 00}Ohoo!{01 00 00 0a 00} Sa rokid MAJA,\n{01 00 00 05 00}{04 02 00}!"
   },
   {
    "id": 1,
    "en": "{07 1d 00}{0b 03 00}{04 1a 00}?!{01 00 00 05 00}\nFor me?!{01 00 00 14 00} Oh, man, thanks,\n{01 00 00 05 00}{04 1f 00}!\n{07 17 00}Now my room is like the\nfortress of awesome\n{ff 00 00 07}{04 0f 00}{ff 00 00 00}!",
-   "et": ""
+   "et": "{07 1d 00}{0b 03 00}{04 1a 00}?!{01 00 00 05 00}\nMulle?!{01 00 00 14 00} Oh mees, aitäh,\n{01 00 00 05 00}{04 1f 00}!\n{07 17 00}Nüüd on mu tuba nagu\nvingete asjade kindlus\n{ff 00 00 07}{04 0f 00}{ff 00 00 00}!"
   },
   {
    "id": 2,
    "en": "{07 04 00}Oh yeah, that's RIGHT!{01 00 00 05 00}\nI was all collecting \n{ff 00 00 07}{04 0f 00}{ff 00 00 00}!\n{07 06 00}I totally forgot about it!{01 01 00}\n{07 00 00}Oh well, {01 00 00 05 00}I'll take it if it's\nfree, {01 00 00 05 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 04 00}Ah jaa, TÄPSELT!{01 00 00 05 00}\nMa ju kogusin \n{ff 00 00 07}{04 0f 00}{ff 00 00 00}!\n{07 06 00}Ma unustasin selle sootuks!{01 01 00}\n{07 00 00}Olgu, {01 00 00 05 00}võtan selle,\nkui tasuta, {01 00 00 05 00}{04 02 00}!"
   }
  ]
 }

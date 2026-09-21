@@ -4,17 +4,17 @@
   {
    "id": 0,
    "en": "{07 14 00}You saved my hide.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 14 00}\nThanks, {01 00 00 05 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 14 00}Sa päästsid mu naha.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 14 00}\nAitäh, {01 00 00 05 00}{04 02 00}!"
   },
   {
    "id": 1,
    "en": "{07 00 00}When things are rough,\nwe gotta stick together, \n{01 00 00 05 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 00 00}Kui on raske,\npeame kokku hoidma,\n{01 00 00 05 00}{04 02 00}!"
   },
   {
    "id": 2,
    "en": "{07 14 00}Thanks to you, everything\nturned out OK!{01 00 00 14 00} {07 04 00}Who would\nhave thought?",
-   "et": ""
+   "et": "{07 14 00}Tänu sulle läks kõik\nhästi!{01 00 00 14 00} {07 04 00}Kes oleks\narvanud?"
   }
  ]
 }

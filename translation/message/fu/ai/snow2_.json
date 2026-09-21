@@ -4,32 +4,32 @@
   {
    "id": 0,
    "en": "{07 14 00}{0b 03 00}{01 06 00}Chilly, isn't it{01 07 00}!\nHow's life, {04 1f 00}?",
-   "et": ""
+   "et": "{07 14 00}{0b 03 00}{01 06 00}Jahe, kas pole{01 07 00}!\nKuidas elu, {04 1f 00}?"
   },
   {
    "id": 1,
    "en": "{0b 03 00}{01 06 00}It sure is cold out here{01 07 00}!\nYou cold, {04 1f 00}?",
-   "et": ""
+   "et": "{0b 03 00}{01 06 00}Siin on küll külm{01 07 00}!\nKas sul on külm, {04 1f 00}?"
   },
   {
    "id": 2,
    "en": "{07 07 00}{0b 03 00}{01 06 00}Eeee! I'm freeeeeezing{01 07 00}!",
-   "et": ""
+   "et": "{07 07 00}{0b 03 00}{01 06 00}Iiii! Mul on kü-ü-ülm{01 07 00}!"
   },
   {
    "id": 3,
    "en": "{07 14 00}{0b 03 00}{01 06 00}It just keeps snowing{01 07 00}!\nSure is cold,{01 00 00 0f 00} {04 1f 00}!",
-   "et": ""
+   "et": "{07 14 00}{0b 03 00}{01 06 00}Lund sajab aina{01 07 00}!\nOn küll külm,{01 00 00 0f 00} {04 1f 00}!"
   },
   {
    "id": 4,
    "en": "{07 14 00}I love listening to the\nsound of footsteps on snow,\n{01 00 00 05 00}{04 02 00}.",
-   "et": ""
+   "et": "{07 14 00}Mulle meeldib kuulata\nsammude häält lumel,\n{01 00 00 05 00}{04 02 00}."
   },
   {
    "id": 5,
    "en": "{07 07 00}It's freezing out here, \n{01 00 00 05 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 07 00}Siin on külmetav, \n{01 00 00 05 00}{04 02 00}!"
   }
  ]
 }

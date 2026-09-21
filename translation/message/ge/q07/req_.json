@@ -4,17 +4,17 @@
   {
    "id": 0,
    "en": "{07 1d 00}Omigosh!{01 00 00 14 00} {07 06 00}I forgot to mail\nthat letter! {01 00 00 05 00}And it was\nsuper urgent!\n{07 16 00}Oh, {04 1f 00}, you GOTTA\ndo me a favor, {01 00 00 05 00}{04 02 00}!{01 00 00 05 00}\nYou just GOTTA!\nI know you can cruise!{01 00 00 05 00}\n{07 0b 00}Could you take this letter\nto {ff 00 00 06}{04 10 00}{ff 00 00 00}?",
-   "et": ""
+   "et": "{07 1d 00}Oi heldeke!{01 00 00 14 00} {07 06 00}Ma unustasin\nselle kirja ära saata! {01 00 00 05 00}Ja\nsee oli ülikiireloomuline!\n{07 16 00}Oh, {04 1f 00}, sa PEAD\nmulle teene\ntegema,{01 00 00 05 00}{04 02 00} !{01 00 00 05 00} Sa PEAD!\nMa tean, et sa oled kiire!{01 00 00 05 00}\n{07 0b 00}Kas sa viiksid selle kirja\n{ff 00 00 06}{04 10 00}{ff 00 00 00}le?"
   },
   {
    "id": 1,
    "en": "{07 0c 00}{0b 03 00}{04 1f 00}!{01 00 00 0a 00} I've got a job\nfor ya, {01 00 00 05 00}{04 02 00}!\n\n{07 00 00}You gotta deliver this\nletter to {ff 00 00 06}{04 10 00}{ff 00 00 00}!{01 00 00 05 00}\nASAP!",
-   "et": ""
+   "et": "{07 0c 00}{0b 03 00}{04 1f 00}!{01 00 00 0a 00} Mul on sulle\ntöö, {01 00 00 05 00}{04 02 00}!\n\n{07 00 00}Sa pead selle kirja\n{ff 00 00 06}{04 10 00}{ff 00 00 00}le viima!{01 00 00 05 00}\nKOHE!"
   },
   {
    "id": 2,
    "en": "{07 00 00}{0b 03 00}{04 1f 00},{01 00 00 0a 00} you look like\na fast runner{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}so I have a\nfavor to ask!\nThis letter...{01 00 00 05 00}{07 0b 00} Could you\ntake it to {ff 00 00 06}{04 10 00} {ff 00 00 00}at\nthe speed of light?",
-   "et": ""
+   "et": "{07 00 00}{0b 03 00}{04 1f 00},{01 00 00 0a 00} sa näed välja\nnagu kiire jooksja{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}nii mul\non palve!\nSee kiri...{01 00 00 05 00}{07 0b 00} Kas sa viiksid\nselle {ff 00 00 06}{04 10 00} {ff 00 00 00}le\nvalguse kiirusel?"
   }
  ]
 }

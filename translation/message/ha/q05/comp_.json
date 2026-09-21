@@ -4,17 +4,17 @@
   {
    "id": 0,
    "en": "So I loaded my house with\na bunch of new furniture.\n\n.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 06 00}What?! What more\ndo you want from me,\n{01 00 00 05 00}{04 02 00}?!",
-   "et": ""
+   "et": "Ma laadisin oma maja\nuut mööblit täis.\n\n.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 06 00}Mida?! Mida sa veel\nminult tahad,\n{01 00 00 05 00}{04 02 00}?!"
   },
   {
    "id": 1,
    "en": "{07 00 00}Hey, I put a bunch of\nnew furniture and stuff in\nmy place.\n{07 0d 00}It really brings the room\ntogether, {01 00 00 05 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 00 00}Hei, ma panin oma koju\nhunniku uut mööblit ja\nmuud kraami.\n{07 0d 00}See seob toa tõesti\nkokku, {01 00 00 05 00}{04 02 00}!"
   },
   {
    "id": 2,
    "en": "{07 0d 00}I'm using this new furniture\nI got every day,\n{01 00 00 05 00}{04 02 00}!\n{07 13 00}It really limbers my back\nup when I do shrugs with it\non my shoulders!",
-   "et": ""
+   "et": "{07 0d 00}Kasutan seda uut mööblit\niga päev,\n{01 00 00 05 00}{04 02 00}!\n{07 13 00}See teeb mu selja tõesti\nnõtkeks, kui teen sellega\nõlgadel kehitusi!"
   }
  ]
 }

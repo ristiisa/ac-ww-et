@@ -4,157 +4,157 @@
   {
    "id": 0,
    "en": "{07 04 00}Hey, do you know{01 00 00 0a 00} {ff 00 00 06}Pete{ff 00 00 00} who\nworks at the {ff 00 00 08}post office{ff 00 00 00}?{02 00 00 0f 10}\nYes, I do.\nNope.",
-   "et": ""
+   "et": "{07 04 00}Hei, kas tunned{01 00 00 0a 00} {ff 00 00 06}Pete'i{ff 00 00 00}, kes\ntöötab {ff 00 00 08}postkontoris{ff 00 00 00}?{02 00 00 0f 10}\nJah, tunnen.\nEi."
   },
   {
    "id": 1,
    "en": "{07 14 00}Isn't the {ff 00 00 08}town hall{ff 00 00 00} an\nimpressive building, \n{01 00 00 0a 00}{04 02 00}?\n{07 0e 00}{01 00 00 0a 00}I heard that someone{01 00 00 0a 00} made\na killing on {ff 00 00 07}turnips {ff 00 00 00}and\nbuilt it with the profits{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{06 01 00 13 14 15}",
-   "et": ""
+   "et": "{07 14 00}Kas {ff 00 00 08}raekoda{ff 00 00 00} pole mitte\nmuljetavaldav hoone,\n{01 00 00 0a 00}{04 02 00}?\n{07 0e 00}{01 00 00 0a 00}Kuulsin, et keegi{01 00 00 0a 00} teenis\n{ff 00 00 07}naeritega {ff 00 00 00}varanduse ja\nehitas selle kasumi eest{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{06 01 00 13 14 15}"
   },
   {
    "id": 2,
    "en": "{07 06 00}Guess what?{01 00 00 0a 00} {04 0b 00}\npicked up a\n{04 15 00}!\nIn the {ff 00 00 08}recycling bin{ff 00 00 00}! {01 00 00 0a 00}Can\nyou believe it! Lucky\nduck!\n{07 15 00}I've been looking for one{01 00 00 05 00}\nfor the longest time{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00} It's\nso frustrating, {01 00 00 05 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 06 00}Arva, mis?{01 00 00 0a 00} {04 0b 00}\nkorjas üles\n{04 15 00}!\n{ff 00 00 08}Taaskasutuskastist{ff 00 00 00}! {01 00 00 0a 00}Kas\nsa suudad uskuda! Õnneseen!\n\n{07 15 00}Ma olen seda otsinud{01 00 00 05 00}\nväga kaua{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00} See on\nnii masendav, {01 00 00 05 00}{04 02 00}!"
   },
   {
    "id": 3,
    "en": "{07 0e 00}{01 00 00 0a 00}Did you know {ff 00 00 06}Tom Nook{ff 00 00 00}'s\nshop is open all year\nround, {01 00 00 0a 00}{04 02 00}?\n{07 0b 00}He's at the shop all the\ntime. {01 00 00 05 00}Do you suppose that\nhe's married?",
-   "et": ""
+   "et": "{07 0e 00}{01 00 00 0a 00}Kas teadsid, et {ff 00 00 06}Tom Nooki{ff 00 00 00}\npood on avatud aasta\nringi, {01 00 00 0a 00}{04 02 00}?\n{07 0b 00}Ta on kogu aeg poes.\n{01 00 00 05 00}Kas sa arvad, et ta on\nabielus?"
   },
   {
    "id": 4,
    "en": "{07 14 00}Don't you think{ff 00 00 06} Tom Nook\n{ff 00 00 00}talks weird, {01 00 00 05 00}{04 02 00}?\n\n{07 03 00}{01 00 00 05 00}He's always hm-ing and\nyesyes-ing.{01 00 00 14 00} What the heck\nis up with that?",
-   "et": ""
+   "et": "{07 14 00}Kas sa ei leia, et{ff 00 00 06} Tom Nook\n{ff 00 00 00}räägib imelikult, {01 00 00 05 00}{04 02 00}?\n\n{07 03 00}{01 00 00 05 00}Ta aina hmm-itab ja\njah-jah-itab.{01 00 00 14 00} Mis asja\nsee on?"
   },
   {
    "id": 5,
    "en": "{07 16 00}{01 00 00 0a 00}You know that crazy {ff 00 00 02}Point\nMachine{ff 00 00 00} at {ff 00 00 06}Tom Nook{ff 00 00 00}'s shop,\n{01 00 00 0a 00}{04 02 00}?\n{07 15 00}Ever since he installed it,{01 00 00 0a 00}\nI've been even more into\nshopping than usual!\n{07 06 00}Darn{ff 00 00 06} Tom Nook{ff 00 00 00} and his{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\nentrepreneurial spirit!\n{01 00 00 0a 00}{0b 03 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 16 00}{01 00 00 0a 00}Tead seda hullu {ff 00 00 02}punkti-\nmasinat{ff 00 00 00} {ff 00 00 06}Tom Nooki{ff 00 00 00} poes,\n{01 00 00 0a 00}{04 02 00}?\n{07 15 00}Sellest ajast, kui ta selle\npaigaldas,{01 00 00 0a 00} olen ostlemisest\nveelgi rohkem sisse võetud!\n{07 06 00}Pagana{ff 00 00 06} Tom Nook{ff 00 00 00} ja tema{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\nettevõtlusvaim!\n{01 00 00 0a 00}{0b 03 00}{04 02 00}!"
   },
   {
    "id": 6,
    "en": "{07 0b 00}Have you been to the\n{ff 00 00 08}museum{ff 00 00 00} yet?{02 00 00 16 17}\nOf course.\nNot yet.",
-   "et": ""
+   "et": "{07 0b 00}Kas sa oled juba\n{ff 00 00 08}muuseumis{ff 00 00 00} käinud?{02 00 00 16 17}\nMuidugi.\nVeel mitte."
   },
   {
    "id": 7,
    "en": "{07 14 00}I think the architecture of\nthe{ff 00 00 07} {ff 00 00 08}museum{ff 00 00 07} {ff 00 00 00}is really quite\nimpressive, {01 00 00 0a 00}{04 02 00}.\n{07 00 00}When I get married, I'm\ngoing to live in a house\nmade of marble, too.\n{07 13 00}{01 00 00 0a 00}{07 13 00}{01 00 00 0a 00}With the man of my dreams.{01 00 00 14 00}\nAnd a cabana boy or two,\n{01 00 00 0a 00}{04 02 00}.",
-   "et": ""
+   "et": "{07 14 00}Minu arust on\n{ff 00 00 07} {ff 00 00 08}muuseumi{ff 00 00 07} {ff 00 00 00}arhitektuur päris\nmuljetavaldav, {01 00 00 0a 00}{04 02 00}.\n{07 00 00}Kui ma abiellun, elan\nminagi marmorist\nmajas.\n{07 13 00}{01 00 00 0a 00}{07 13 00}{01 00 00 0a 00}Koos oma unelmate mehega.{01 00 00 14 00}\nJa paari rannapoisiga,\n{01 00 00 0a 00}{04 02 00}."
   },
   {
    "id": 8,
    "en": "{ff 00 00 06}{07 16 00}Blathers {ff 00 00 00}spends all his time\nand effort on that\n{ff 00 00 08}museum{ff 00 00 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{01 00 00 0a 00}{07 1b 00}{01 00 00 05 00}I'll bet{01 00 00 0a 00} he's still single,\n{01 00 00 0a 00}{04 02 00}.",
-   "et": ""
+   "et": "{ff 00 00 06}{07 16 00}Blathers {ff 00 00 00}kulutab kogu aja\nja jõu sellele\n{ff 00 00 08}muuseumile{ff 00 00 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{01 00 00 0a 00}{07 1b 00}{01 00 00 05 00}Vean kihla,{01 00 00 0a 00} et ta on ikka\nvallaline, {01 00 00 0a 00}{04 02 00}."
   },
   {
    "id": 9,
    "en": "{07 15 00}I am very particular about\nmy house and everything\nthat goes in it!\n{07 0e 00}{01 00 00 0a 00}The layout,{01 00 00 0a 00} the music, {01 00 00 0a 00}the\nfurniture. {01 00 00 0a 00}The details\nmatter, of course.\n{07 19 00}But what's most important\n{01 00 00 0a 00}are the people that come\nvisit, {04 02 00}.{07 00 00}",
-   "et": ""
+   "et": "{07 15 00}Ma olen oma maja ja kõige\nselles oleva suhtes\nväga nõudlik!\n{07 0e 00}{01 00 00 0a 00}Paigutus,{01 00 00 0a 00} muusika, {01 00 00 0a 00}\nmööbel. {01 00 00 0a 00}Detailid on\nmuidugi tähtsad.\n{07 19 00}Aga kõige tähtsamad\n{01 00 00 0a 00}on inimesed, kes külla\ntulevad, {04 02 00}.{07 00 00}"
   },
   {
    "id": 10,
    "en": "{07 0e 00}{01 00 00 0a 00}I was hoping that we could\nhave some coffee. I even\nbought some cake!\n{07 0b 00}{01 00 00 05 00}Strange, {01 00 00 05 00}but it's all gone.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00}\nI wonder if he came and ate\nit all?\n{07 09 00}{01 00 00 0a 00}My boyfriend comes and\ngoes{01 00 00 0a 00} without saying a word\nto me, {04 02 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.",
-   "et": ""
+   "et": "{07 0e 00}{01 00 00 0a 00}Lootsin, et saaksime\nkohvi juua. Ostsin isegi\nkooki!\n{07 0b 00}{01 00 00 05 00}Imelik, {01 00 00 05 00}aga see on otsas.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00}\nKas ta käis ja sõi\nkõik ära?\n{07 09 00}{01 00 00 0a 00}Mu kallim tuleb ja\nläheb{01 00 00 0a 00} mulle sõnagi\nütlemata, {04 02 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}."
   },
   {
    "id": 11,
    "en": "{07 14 00}You can change the way a\nroom feels by changing the\ncolor of the lighting.\n{07 0e 00}{01 00 00 0a 00}White is pure and clean,{01 00 00 0a 00}\nblue is calming,{01 00 00 0a 00} and\nyellow{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{01 00 00 0a 00}{07 1b 00}{01 00 00 05 00}Well, actually,{01 00 00 0f 00} yellow drives\nyou completely crazy,\n{01 00 00 05 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 14 00}Sa saad toa tunnet muuta,\nkui muudad valgustuse\nvärvi.\n{07 0e 00}{01 00 00 0a 00}Valge on puhas ja selge,{01 00 00 0a 00}\nsinine rahustab{01 00 00 0a 00} ja\nkollane{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{01 00 00 0a 00}{07 1b 00}{01 00 00 05 00}Noh, tegelikult{01 00 00 0f 00} ajab kollane\nsind täiesti hulluks,\n{01 00 00 05 00}{04 02 00}!"
   },
   {
    "id": 12,
    "en": "{07 04 00}Hey!{01 01 00} Refresh my memory.\nHave we spoken here {01 00 00 14 00}{07 0b 00}{01 00 00 05 00}\nbefore?{02 00 00 18 19}\nYes! Yes!\nNope.",
-   "et": ""
+   "et": "{07 04 00}Hei!{01 01 00} Tuleta mulle meelde.\nKas me oleme siin {01 00 00 14 00}{07 0b 00}{01 00 00 05 00}\nvarem rääkinud?{02 00 00 18 19}\nJah! Jah!\nEi."
   },
   {
    "id": 13,
    "en": "{06 07 00 1a 1b 1b 1c}",
-   "et": ""
+   "et": "{06 07 00 1a 1b 1b 1c}"
   },
   {
    "id": 14,
    "en": "{07 14 00}Have you visited another\ntown before, {04 1f 00}?\n{01 00 00 05 00}{0b 03 00}{04 02 00}?{02 00 00 1d 1e}\nNot yet.\nYep.",
-   "et": ""
+   "et": "{07 14 00}Kas sa oled varem käinud\nteises linnas, {04 1f 00}?\n{01 00 00 05 00}{0b 03 00}{04 02 00}?{02 00 00 1d 1e}\nVeel mitte.\nJah."
   },
   {
    "id": 15,
    "en": "{07 19 00}People who seem kind and\nhonest{01 00 00 0a 00} sometimes act\ndifferent in a relationship.{07 00 00}\n{01 00 00 0a 00}{07 1b 00}{01 00 00 05 00}You've heard about {ff 00 00 06}Pelly\n{ff 00 00 00}and {ff 00 00 06}Pete{ff 00 00 00}, right?\n{01 00 00 05 00}{0b 03 00}{04 02 00}?",
-   "et": ""
+   "et": "{07 19 00}Inimesed, kes tunduvad\nkenad ja ausad,{01 00 00 0a 00} käituvad\nsuhtes vahel teisiti.{07 00 00}\n{01 00 00 0a 00}{07 1b 00}{01 00 00 05 00}Sa oled kuulnud {ff 00 00 06}Pellyst\n{ff 00 00 00}ja {ff 00 00 06}Pete'ist{ff 00 00 00}, eks?\n{01 00 00 05 00}{0b 03 00}{04 02 00}?"
   },
   {
    "id": 16,
    "en": "{06 00 00 11 12}",
-   "et": ""
+   "et": "{06 00 00 11 12}"
   },
   {
    "id": 17,
    "en": "{01 00 00 0a 00}{07 1b 00}Wow,{01 00 00 0a 00} you're, like, totally\noblivious, huh. {01 00 00 0a 00}{0b 03 00}{04 02 00}!\n\n{07 15 00}Don't you know that romance\nlurks in every corner? Even\nin rumors about others!",
-   "et": ""
+   "et": "{01 00 00 0a 00}{07 1b 00}Ohoo,{01 00 00 0a 00} sa oled nagu täiesti\nmõistmatu, mis. {01 00 00 0a 00}{0b 03 00}{04 02 00}!\n\n{07 15 00}Kas sa ei tea, et romantika\non igas nurgas? Isegi\nkuulujuttudes teiste kohta!"
   },
   {
    "id": 18,
    "en": "{07 0e 00}{01 00 00 0a 00}Well,{01 00 00 0a 00} I guess I can't blame\nyou. {01 00 00 0a 00}He does lack presence,\n{01 00 00 0a 00}{04 02 00}.\n{07 00 00}You should know, though,\nthat {01 00 00 0a 00}{07 14 00}he delivers all the\nletters you write.",
-   "et": ""
+   "et": "{07 0e 00}{01 00 00 0a 00}Noh,{01 00 00 0a 00} ma ei saa sind vist\nsüüdistada. {01 00 00 0a 00}Ta on hall hiir,\n{01 00 00 0a 00}{04 02 00}.\n{07 00 00}Sa peaksid siiski teadma,\net {01 00 00 0a 00}{07 14 00}tema toimetab kõik\nsinu kirjad kohale."
   },
   {
    "id": 19,
    "en": "{07 0b 00}{01 00 00 05 00}I wonder if {ff 00 00 06}Joan {ff 00 00 00}was around\nat that time, {01 00 00 0a 00}{04 02 00}.",
-   "et": ""
+   "et": "{07 0b 00}{01 00 00 05 00}Huvitav, kas {ff 00 00 06}Joan {ff 00 00 00}oli\nsiis olemas, {01 00 00 0a 00}{04 02 00}."
   },
   {
    "id": 20,
    "en": "{01 00 00 14 00}{07 0c 00}Speaking of, {01 00 00 05 00}did you hear\nthat the {ff 00 00 06}mayor{ff 00 00 00} has good\nlottery luck, {01 00 00 05 00}{04 02 00}?",
-   "et": ""
+   "et": "{01 00 00 14 00}{07 0c 00}Muide, {01 00 00 05 00}kas sa kuulsid,\net {ff 00 00 06}linnapeal{ff 00 00 00} on loteriis\nhead õnne, {01 00 00 05 00}{04 02 00}?"
   },
   {
    "id": 21,
    "en": "{07 11 00}I wonder if the {ff 00 00 07}turnips\n{ff 00 00 00}were red or white{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00}",
-   "et": ""
+   "et": "{07 11 00}Huvitav, kas {ff 00 00 07}naerid\n{ff 00 00 00}olid punased või valged{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00}"
   },
   {
    "id": 22,
    "en": "{07 00 00}That place{01 00 00 05 00} is so quiet and\nmoody. {01 00 00 05 00}I just love it,\n{01 00 00 0a 00}{04 02 00}.\n{07 14 00}During the day, the\ncurator, {ff 00 00 06}Blathers{ff 00 00 00}, is\nalways sleeping, so{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00}\n{07 00 00}It's the perfect spot for\npeople to discuss their\ndreams, {01 00 00 0a 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 00 00}See koht{01 00 00 05 00} on nii vaikne ja\nmeeleolukas. {01 00 00 05 00}Mulle meeldib,\n{01 00 00 0a 00}{04 02 00}.\n{07 14 00}Päeval magab kuraator\n{ff 00 00 06}Blathers{ff 00 00 00} alati,\nnii et{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00}\n{07 00 00}See on täiuslik koht, kus\ninimesed saavad arutada\noma unistusi, {01 00 00 0a 00}{04 02 00}!"
   },
   {
    "id": 23,
    "en": "{07 19 00}It's quiet and there isn't\nmuch traffic. {01 00 00 0a 00}Yup, it's just\na nice space.{07 00 00}\n{07 14 00}It's a great date spot for\npeople who aren't into doing\nthe same old thing anymore!",
-   "et": ""
+   "et": "{07 19 00}Seal on vaikne ja vähe\nliiklust. {01 00 00 0a 00}Jah, see on\nlihtsalt kena koht.{07 00 00}\n{07 14 00}See on suurepärane\nkohtingukoht neile, kes ei\ntaha enam sama vana asja!"
   },
   {
    "id": 24,
    "en": "OK{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}. {07 0b 00}{01 00 00 05 00}Why are you acting all\nenthusiastic right now,{01 00 00 05 00}\n{04 02 00}?\n{07 01 00}You're being sarcastic,\naren't you? {01 00 00 05 00}I'm not dumb! {01 00 00 05 00}I\nknow sarcasm when I see it!\n{07 00 00}Well, aren't YOU the clever\none{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00} Yeah, you're just SO\nsmart I can hardly deal.\n{01 00 00 0a 00}{07 07 00}{01 00 00 05 00}Oh, no! {01 00 00 0a 00}Now you've given me\nthe sarcasm bug, too!\n{01 00 00 0a 00}{0b 03 00}{04 02 00}.",
-   "et": ""
+   "et": "Olgu{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}. {07 0b 00}{01 00 00 05 00}Miks sa käitud\npraegu nii vaimustunult,{01 00 00 05 00}\n{04 02 00}?\n{07 01 00}Sa oled sarkastiline,\nkas pole? {01 00 00 05 00}Ma pole loll! {01 00 00 05 00}Ma\ntunnen sarkasmi ära!\n{07 00 00}Vaat kui tark SINA\noled{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00} Jah, sa oled nii\ntark, et ma ei jaksa.\n{01 00 00 0a 00}{07 07 00}{01 00 00 05 00}Oh ei! {01 00 00 0a 00}Nüüd nakatasid sa\nminugi sarkasmiga!\n{01 00 00 0a 00}{0b 03 00}{04 02 00}."
   },
   {
    "id": 25,
    "en": "{07 0c 00}{01 00 00 0a 00}Whoa! {01 00 00 0a 00}DÉ{01 00 00 05 00}JÀ{01 00 00 05 00} VU! {00 01 00}\n\n\n{01 00 00 0a 00}{07 1b 00}{01 00 00 05 00}But I heard that déjà vu\nwas something that actually{01 00 00 0a 00}\njust happens in your head.",
-   "et": ""
+   "et": "{07 0c 00}{01 00 00 0a 00}Ohoo! {01 00 00 0a 00}DÉ{01 00 00 05 00}JÀ{01 00 00 05 00} VU! {00 01 00}\n\n\n{01 00 00 0a 00}{07 1b 00}{01 00 00 05 00}Aga ma kuulsin, et déjà vu\non midagi, mis tegelikult{01 00 00 0a 00}\njuhtub lihtsalt su peas."
   },
   {
    "id": 26,
    "en": "{07 15 00}This town has far too little{01 00 00 05 00}\nexcitement to keep me\nentertained, {01 00 00 05 00}{04 02 00}.\n{07 06 00}At this rate,{01 00 00 05 00} both my body\nand mind are gonna get all\nflabby!{01 00 00 05 00} Oh, no!",
-   "et": ""
+   "et": "{07 15 00}Selles linnas on liiga vähe{01 00 00 05 00}\npõnevust, et mind\nlõbustada, {01 00 00 05 00}{04 02 00}.\n{07 06 00}Sellise tempoga{01 00 00 05 00} lähevad nii\nmu keha kui vaim\nlõdvaks!{01 00 00 05 00} Oh ei!"
   },
   {
    "id": 27,
    "en": "{07 14 00}This town has become a lot\nmore exciting lately,\n{01 00 00 0a 00}{04 02 00}.\n{07 13 00}{01 00 00 0a 00}If more people move here,{01 00 00 0a 00}\nthat's more chances for\nromance, right?",
-   "et": ""
+   "et": "{07 14 00}See linn on viimasel ajal\npalju põnevamaks muutunud,\n{01 00 00 0a 00}{04 02 00}.\n{07 13 00}{01 00 00 0a 00}Kui siia kolib rohkem\ninimesi,{01 00 00 0a 00} on rohkem võimalusi\nromantikaks, eks?"
   },
   {
    "id": 28,
    "en": "{01 00 00 0a 00}{07 1b 00}{01 00 00 05 00}Even though there are so\nmany people in this town, I\nstill haven't met the ONE{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 08 00}Eeeek!{01 00 00 0a 00} OK, {04 01 00},\ndon't cry! {01 00 00 0a 00}It'll mess up\nyour mascara! {01 00 00 0a 00}{0b 03 00}{04 02 00}!",
-   "et": ""
+   "et": "{01 00 00 0a 00}{07 1b 00}{01 00 00 05 00}Kuigi selles linnas on nii\npalju inimesi, pole ma ikka\nkohanud SEDA ÕIGET{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 08 00}Iiiik!{01 00 00 0a 00} Olgu, {04 01 00},\nära nuta! {01 00 00 0a 00}See rikub su\nripsmetuši! {01 00 00 0a 00}{0b 03 00}{04 02 00}!"
   },
   {
    "id": 29,
    "en": "You should! {01 00 00 0a 00}{07 11 00}{01 00 00 05 00}You can hear all\nkinds of gossip that you\njust can't in this town.\n{07 00 00}It's usually about people\nyou don't know, but{01 00 00 05 00}{07 0d 00} I love\nall kinds of gossip!",
-   "et": ""
+   "et": "Sa peaksid! {01 00 00 0a 00}{07 11 00}{01 00 00 05 00}Sa kuuled\nigasugust klatši, mida siin\nlinnas lihtsalt ei kuule.\n{07 00 00}Tavaliselt inimestest,\nkeda sa ei tunne, aga{01 00 00 05 00}{07 0d 00} mulle\nmeeldib igasugune klatš!"
   },
   {
    "id": 30,
    "en": "{07 02 00}You have?!\n\n\n{07 00 00}Leaving town for a bit{01 00 00 0a 00}\nreminds me of how much I\n{07 14 00}like it here!",
-   "et": ""
+   "et": "{07 02 00}Oled või?!\n\n\n{07 00 00}Korraks linnast ära käia{01 00 00 0a 00}\ntuletab mulle meelde, kui\n{07 14 00}väga mulle siin meeldib!"
   }
  ]
 }

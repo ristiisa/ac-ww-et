@@ -4,32 +4,32 @@
   {
    "id": 0,
    "en": "{07 07 00}I'm feeling a little woozy,\n{01 00 00 05 00}{04 02 00}. I think I'd\nbetter lie down.",
-   "et": ""
+   "et": "{07 07 00}Mul on pisut uimane tunne,\n{01 00 00 05 00}{04 02 00}. Ma vist pean\npikali heitma."
   },
   {
    "id": 1,
    "en": "{07 07 00}Ugh. I just can't wake up\ntoday, {01 00 00 05 00}{04 02 00}.\nAnd I ache all over. Bleh.",
-   "et": ""
+   "et": "{07 07 00}Uhh. Ma lihtsalt ei suuda\ntäna ärgata, {01 00 00 05 00}{04 02 00}.\nJa mul valutab kõik. Pläh."
   },
   {
    "id": 2,
    "en": "{07 07 00}I don't feel so hot today.\nI hope I'm not coming down\nwith something.",
-   "et": ""
+   "et": "{07 07 00}Ma ei tunne end hästi.\nLoodan, et ma ei jää\nmillegagi haigeks."
   },
   {
    "id": 3,
    "en": "{07 00 00}I feel better. {01 00 00 0a 00}I guess the\n{ff 00 00 07}medicine{ff 00 00 00} is starting to\nwork.\n{07 14 00}I hereby proclaim\n{ff 00 00 05}{04 0f 00}{ff 00 00 00} to be my hero!",
-   "et": ""
+   "et": "{07 00 00}Tunnen end paremini. {01 00 00 0a 00}Vist\nhakkab {ff 00 00 07}rohi{ff 00 00 00} mõjuma.\n\n{07 14 00}Ma kuulutan käesolevaga\n{ff 00 00 05}{04 0f 00}{ff 00 00 00} oma kangelaseks!"
   },
   {
    "id": 4,
    "en": "{07 14 00}I'm gonna read to you from\nmy diary now, so listen\nup.\n\"Dear Diary, {01 00 00 0a 00}I'm so glad\n{ff 00 00 05}{04 0f 00} {ff 00 00 00}came along. {01 00 00 0a 00}The\n{ff 00 00 07}medicine {ff 00 00 00}really helped.\"",
-   "et": ""
+   "et": "{07 14 00}Ma loen sulle nüüd oma\npäevikust ette, nii et\nkuula.\n„Kallis päevik, {01 00 00 0a 00}nii hea\nmeel, et {ff 00 00 05}{04 0f 00} {ff 00 00 00}tuli. {01 00 00 0a 00}See\n{ff 00 00 07}rohi {ff 00 00 00}aitas tõesti.”"
   },
   {
    "id": 5,
    "en": "{07 14 00}Looks like I'm going to be\nall right now that I got\nsome {ff 00 00 07}medicine{ff 00 00 00}.\nI just wanna yell from\nthe rooftops,{01 00 00 0a 00} {07 0a 00}{01 08 00}\"{0b 03 00}{ff 00 00 05}{04 0f 00}{ff 00 00 00}\nSAVED ME!\"",
-   "et": ""
+   "et": "{07 14 00}Paistab, et minuga saab\nkõik korda, nüüd kui sain\n{ff 00 00 07}rohtu{ff 00 00 00}.\nMa tahan lihtsalt karjuda\nkatustelt,{01 00 00 0a 00} {07 0a 00}{01 08 00}„{0b 03 00}{ff 00 00 05}{04 0f 00}{ff 00 00 00}\nPÄÄSTIS MU!”"
   }
  ]
 }

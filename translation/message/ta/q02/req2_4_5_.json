@@ -4,17 +4,17 @@
   {
    "id": 0,
    "en": "{07 14 00}{0b 03 00}{0b 01 00}{04 1a 00}\nis in season right now,\nisn't it?\n{07 00 00}You! {01 00 00 05 00}Yeah, you! You look{01 00 00 05 00}\nbored!{01 01 00} {07 0b 00}Why don't we see who\ncan catch one first?!",
-   "et": ""
+   "et": "{07 14 00}{0b 03 00}{0b 01 00}{04 1a 00}\non praegu hooajal,\nkas pole?\n{07 00 00}Sina! {01 00 00 05 00}Jah, sina! Sa näed{01 00 00 05 00}\nigav välja!{01 01 00} {07 0b 00}Vaatame,\nkes püüab esimesena ühe?!"
   },
   {
    "id": 1,
    "en": "{07 00 00}Hey, {01 00 00 03 00}{04 1f 00},{01 00 00 0a 00} {07 14 00}I heard a\nrumor that you're really\ngood at fishing.\n{07 00 00}I'm a pretty awesome\n{0b 02 00}{04 1a 00}-\nfisher myself.\n{07 14 00}Would you like to see which\none of us can catch one\nfirst, {01 00 00 0a 00}{04 02 00}?",
-   "et": ""
+   "et": "{07 00 00}Hei, {01 00 00 03 00}{04 1f 00},{01 00 00 0a 00} {07 14 00}ma kuulsin\nkuulujuttu, et sa oled väga\nhea kalapüüdja.\n{07 00 00}Mina olen päris vägev\n{0b 02 00}{04 1a 00}\npüüdja.\n{07 14 00}Kas tahaksid näha, kumb\nmeist püüab esimesena ühe,\n{01 00 00 0a 00}{04 02 00}?"
   },
   {
    "id": 2,
    "en": "{07 00 00}You're pretty good at\nfishing, right? {01 01 00}{07 19 00}I'm good at\nspeed-fishing, myself!\n{07 0b 00}Well? {01 00 00 05 00}Shall we see who's the\nbetter fisher? {01 01 00}{07 00 00}Let's see...{01 00 00 0a 00}\nWhat should the terms be?\nOK! Whoever can catch\n{04 1a 00}\nfirst wins, OK?",
-   "et": ""
+   "et": "{07 00 00}Sa oled kalapüügis päris\nhea, eks? {01 01 00}{07 19 00}Mina olen hea\nkiirpüügis!\n{07 0b 00}Noh? {01 00 00 05 00}Vaatame, kumb on\nparem kalamees? {01 01 00}{07 00 00}Vaatame...{01 00 00 0a 00}\nMillised on tingimused?\nOlgu! Kes püüab esimesena\n{04 1a 00}\n, see võidab, eks?"
   }
  ]
 }

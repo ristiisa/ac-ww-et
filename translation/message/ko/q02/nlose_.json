@@ -4,17 +4,17 @@
   {
    "id": 0,
    "en": "{07 02 00}What?! Oh, {01 00 00 05 00}{04 02 00}!{01 00 00 14 00}\nI can't believe I lost to\nyou!\n{07 00 00}I'd even prepared a speech\ncalled{01 00 00 05 00}, \"{ff 00 00 02}Hail to your \nsupreme fishmaster{ff 00 00 00}.\"{ff 00 00 02}\n{ff 00 00 00}{07 09 00}Now you'll never hear the\ngreat insults I wrote,\n{01 00 00 05 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 02 00}Mida?! Oi, {01 00 00 05 00}{04 02 00}!{01 00 00 14 00}\nMa ei usu, et kaotasin\nsulle!\n{07 00 00}Ma olin isegi kõne valmis\npannud{01 00 00 05 00}: „{ff 00 00 02}Au sinu ülimale\nkalameistrile{ff 00 00 00}.”{ff 00 00 02}\n{ff 00 00 00}{07 09 00}Nüüd sa ei kuulegi neid\nsuurepäraseid solvanguid,\n{01 00 00 05 00}{04 02 00}!"
   },
   {
    "id": 1,
    "en": "{07 1d 00}You CAN'T be serious!{01 00 00 0f 00}{01 01 00}\nI didn't just lose to you!{07 00 00}\n{07 0f 00}I refuse to believe it.",
-   "et": ""
+   "et": "{07 1d 00}Sa EI SAA tõsine olla!{01 00 00 0f 00}{01 01 00}\nMa ei kaotanud sulle!{07 00 00}\n{07 0f 00}Keeldun seda uskumast."
   },
   {
    "id": 2,
    "en": "{07 02 00}You already caught one?!{01 00 00 14 00}\n{07 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 15 00}I underestimated you,\n{01 00 00 05 00}{04 02 00}! {01 00 00 05 00}Never again!",
-   "et": ""
+   "et": "{07 02 00}Sa püüdsid juba ühe?!{01 00 00 14 00}\n{07 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 15 00}Ma alahindasin sind,\n{01 00 00 05 00}{04 02 00}! {01 00 00 05 00}Enam mitte!"
   }
  ]
 }

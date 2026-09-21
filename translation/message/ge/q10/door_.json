@@ -4,17 +4,17 @@
   {
    "id": 0,
    "en": "{07 14 00}Oh, wow! It looks JUST like\nI dreamt it would,\n{01 00 00 05 00}{04 02 00}!\n{07 11 00}OK, now I gotta snoop\naround{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.",
-   "et": ""
+   "et": "{07 14 00}Oh, vau! See näeb TÄPSELT\nnii välja, nagu unistasin,\n{01 00 00 05 00}{04 02 00}!\n{07 11 00}Olgu, nüüd pean ma ringi\nnuhkima{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}."
   },
   {
    "id": 1,
    "en": "{07 1d 00}Wow!{01 00 00 0a 00} This room totally looks\nlike you, {04 1f 00}! {01 00 00 0a 00}...And\nI mean that in a GOOD way!!\n{07 14 00}OK! I'm gonna, like, come in\nnow, {01 00 00 05 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 1d 00}Vau!{01 00 00 0a 00} See tuba näeb täiesti\nsinu moodi välja, {04 1f 00}! {01 00 00 0a 00}\n...Ja ma mõtlen seda HÄSTI!!\n{07 14 00}Olgu! Ma, nagu, tulen\nnüüd sisse, {01 00 00 05 00}{04 02 00}!"
   },
   {
    "id": 2,
    "en": "{07 14 00}I'm comin' in!{01 00 00 14 00} {07 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}Like...wow.",
-   "et": ""
+   "et": "{07 14 00}Ma tulen sisse!{01 00 00 14 00} {07 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}Nagu...vau."
   }
  ]
 }

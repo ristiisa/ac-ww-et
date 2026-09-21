@@ -4,32 +4,32 @@
   {
    "id": 0,
    "en": "{07 00 00}{0b 03 00}{01 06 00}Hey there{01 07 00}!{01 00 00 0f 00}\nIt's {04 1f 00}!\n\n{07 0d 00}I just thought of the\nperfect nickname for you,\n{01 00 00 05 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 00 00}{0b 03 00}{01 06 00}Tere seal{01 07 00}!{01 00 00 0f 00}\nSee on {04 1f 00}!\n\n{07 0d 00}Ma mõtlesin just sulle\ntäiusliku hüüdnime välja,\n{01 00 00 05 00}{04 02 00}!"
   },
   {
    "id": 1,
    "en": "{07 15 00}Pffft{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 14 00} Fine then!\nBe that way, {01 00 00 05 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 15 00}Pffft{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 14 00} Hästi siis!\nOlgu nii, {01 00 00 05 00}{04 02 00}!"
   },
   {
    "id": 2,
    "en": "{07 15 00}Get a load of this{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n\n\n{ff 00 00 02}{07 14 00}{0b 03 00}{04 0f 00}{ff 00 00 00}!{01 00 00 14 00}\n{07 0d 00}How do ya like it? Awesome,\nright!?",
-   "et": ""
+   "et": "{07 15 00}Vaata seda{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n\n\n{ff 00 00 02}{07 14 00}{0b 03 00}{04 0f 00}{ff 00 00 00}!{01 00 00 14 00}\n{07 0d 00}Kuidas meeldib? Vinge,\neks!?"
   },
   {
    "id": 3,
    "en": "{07 02 00}What?! {01 00 00 14 00}Awww, man! You have\nNO taste{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 14 00}\n\n{07 15 00}Well, that's just great,\n{01 00 00 05 00}{04 02 00}!\n\nWhy don't you use that\nhuge brain of yours and\nthink of somethin' yourself!",
-   "et": ""
+   "et": "{07 02 00}Mida?! {01 00 00 14 00}Ohh! Sul pole\nMITTE MINGIT maitset{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 14 00}\n\n{07 15 00}Noh, see on alles tore,\n{01 00 00 05 00}{04 02 00}!\n\nMiks sa ei kasuta oma\nhiigelaju ja mõtle midagi\nise välja!"
   },
   {
    "id": 4,
    "en": "{07 15 00}HAH! {07 0b 00}So you like\n\"{ff 00 00 02}{04 0f 00}{ff 00 00 00},\" do ya?\nEh, {01 00 00 05 00}{04 02 00}?",
-   "et": ""
+   "et": "{07 15 00}HAH! {07 0b 00}Nii et sulle meeldib\n„{ff 00 00 02}{04 0f 00}{ff 00 00 00}”, jah?\nMis, {01 00 00 05 00}{04 02 00}?"
   },
   {
    "id": 5,
    "en": "{07 00 00}From now on, I'm gonna call\nyou{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{ff 00 00 02}{07 15 00}{04 1f 00}{ff 00 00 00},\n{01 00 00 05 00}{04 02 00}!\n{07 11 00}Ooooh, I nailed you this\ntime, {04 1f 00}! I'm\ngonna go spread it around!",
-   "et": ""
+   "et": "{07 00 00}Nüüdsest hakkan ma sind\nkutsuma{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{ff 00 00 02}{07 15 00}{04 1f 00}{ff 00 00 00},\n{01 00 00 05 00}{04 02 00}!\n{07 11 00}Ooooh, seekord ma tabasin\nsind, {04 1f 00}! Ma lähen\nja levitan seda laiali!"
   }
  ]
 }

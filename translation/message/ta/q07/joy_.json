@@ -4,17 +4,17 @@
   {
    "id": 0,
    "en": "{07 04 00}Oh!{01 00 00 05 00} It's from {ff 00 00 06}{04 0f 00}{ff 00 00 00}!\nIt says:\n\n{07 00 00}\"{ff 00 00 02}You'll find this information\nvery interesting.{ff 00 00 00}\"{01 01 00}{07 16 00} What?!\n{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 0b 00}What's that mean?!",
-   "et": ""
+   "et": "{07 04 00}Oi!{01 00 00 05 00} See on {ff 00 00 06}{04 0f 00}{ff 00 00 00}lt!\nSeal on kirjas:\n\n{07 00 00}„{ff 00 00 02}See teave tundub sulle\nväga huvitav.{ff 00 00 00}”{01 01 00}{07 16 00} Mis?!\n{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 0b 00}Mida see tähendab?!"
   },
   {
    "id": 1,
    "en": "{07 04 00}Oh, {01 00 00 0a 00}it's a letter from\n{ff 00 00 06}{04 0f 00}{ff 00 00 00}. What an\nunexpected treat!\n{07 00 00}Well, without further ado,\n{01 00 00 05 00}I'm gonna read it, \n{01 00 00 0a 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 04 00}Oi, {01 00 00 0a 00}see on kiri\n{ff 00 00 06}{04 0f 00}{ff 00 00 00}lt. Milline\nootamatu rõõm!\n{07 00 00}Nii, ilma pikema jututa\n{01 00 00 05 00}hakkan ma lugema,\n{01 00 00 0a 00}{04 02 00}!"
   },
   {
    "id": 2,
    "en": "{07 00 00}Oh,{01 00 00 0a 00} {07 14 00}it's a letter from\n{ff 00 00 06}{04 0f 00}{ff 00 00 00}! Yay! It's been\nsuch a long time!\n{07 0b 00}But{01 00 00 05 00} why are YOU delivering \nit to me?{01 01 00} {01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00}Well, {01 00 00 05 00}I guess it\ndoesn't matter.\nI guess all that's left to\ndo is read it, {01 00 00 0a 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 00 00}Oi,{01 00 00 0a 00} {07 14 00}see on kiri\n{ff 00 00 06}{04 0f 00}{ff 00 00 00}lt! Jee! Sellest on\nnii kaua aega!\n{07 0b 00}Aga{01 00 00 05 00} miks SINA selle mulle\ntood?{01 01 00} {01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00}Noh, {01 00 00 05 00}vahet vist\npole.\nNüüd on ainult jäänud\nsee läbi lugeda, {01 00 00 0a 00}{04 02 00}!"
   }
  ]
 }

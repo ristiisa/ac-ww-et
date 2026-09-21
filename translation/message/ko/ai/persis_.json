@@ -4,32 +4,32 @@
   {
    "id": 0,
    "en": "{07 15 00}You again, {01 00 00 05 00}{04 02 00}?!{01 00 00 14 00}\nI'm getting really sick of\nyour boring face!{01 00 00 05 00}{03 00 00}",
-   "et": ""
+   "et": "{07 15 00}Jälle sina, {01 00 00 05 00}{04 02 00}?!{01 00 00 14 00}\nMul hakkab su igavast\nnäost tõesti kõrini!{01 00 00 05 00}{03 00 00}"
   },
   {
    "id": 1,
    "en": "{07 15 00}Go away, {04 02 00}!\nSomewhere far, far away!{01 00 00 05 00}{03 00 00}",
-   "et": ""
+   "et": "{07 15 00}Mine ära, {04 02 00}!\nKuhugi kaugele-kaugele!{01 00 00 05 00}{03 00 00}"
   },
   {
    "id": 2,
    "en": "{07 0c 00}Hey, I've got an idea!{01 00 00 14 00}\n{07 01 00}Why don't you go bug\nsomeone who cares!{01 00 00 05 00}{03 00 00}",
-   "et": ""
+   "et": "{07 0c 00}Hei, mul on idee!{01 00 00 14 00}\n{07 01 00}Mine tüüta kedagi,\nkes hoolib!{01 00 00 05 00}{03 00 00}"
   },
   {
    "id": 3,
    "en": "{07 01 00}Ugh!{01 00 00 14 00} You are REALLY\nannoying me, {01 00 00 05 00}{04 02 00}.\n\n{07 05 00}Do I look like someone you \nhave anything in common \nwith? I didn't think so.{01 00 00 05 00}{03 00 00}",
-   "et": ""
+   "et": "{07 01 00}Uhh!{01 00 00 14 00} Sa TÕESTI ajad\nmu närvi, {01 00 00 05 00}{04 02 00}.\n\n{07 05 00}Kas mul on sinuga midagi \nühist? Vaevalt. \nEi arvanudki.{01 00 00 05 00}{03 00 00}"
   },
   {
    "id": 4,
    "en": "{07 05 00}Shut{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}UP!{01 00 00 14 00} You really know \nhow to get in a guy's face,\n{01 00 00 05 00}{04 02 00}!\n{07 15 00}Consider yourself on notice,\n{01 00 00 05 00}{04 02 00}!{01 00 00 05 00}{03 00 00}",
-   "et": ""
+   "et": "{07 05 00}Jää{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}VAIT!{01 00 00 14 00} Sa oskad küll \ninimestele närvidele käia,\n{01 00 00 05 00}{04 02 00}!\n{07 15 00}Pea seda hoiatuseks,\n{01 00 00 05 00}{04 02 00}!{01 00 00 05 00}{03 00 00}"
   },
   {
    "id": 5,
    "en": "{07 05 00}Ugh! {01 00 00 0f 00}I'm so tired of\nlooking at your face,\n{01 00 00 05 00}{04 02 00}!\n{07 15 00}Is that enough of a hint\nfor ya?!{01 00 00 05 00}{01 00 00 05 00}{03 00 00}",
-   "et": ""
+   "et": "{07 05 00}Uhh! {01 00 00 0f 00}Ma olen su näost\nnii väsinud,\n{01 00 00 05 00}{04 02 00}!\n{07 15 00}Kas see on piisav vihje\nsulle?!{01 00 00 05 00}{01 00 00 05 00}{03 00 00}"
   }
  ]
 }

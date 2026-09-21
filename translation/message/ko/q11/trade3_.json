@@ -4,17 +4,17 @@
   {
    "id": 0,
    "en": "{07 14 00}Har har!{01 00 00 0f 00} You like that\n{0b 02 00}{04 1a 00},\nnow do ya?\nWell, I'll give it to you for\n{04 12 00} Bells!\n\n.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}{07 0b 00}Whaddaya say?\n{01 00 00 14 00}Pretty nice, huh?{02 04 00 ff ff}\nI'll take it!\nNot today.",
-   "et": ""
+   "et": "{07 14 00}Har har!{01 00 00 0f 00} Sulle meeldib see\n{0b 02 00}{04 1a 00},\nmis?\nNoh, annan selle sulle\n{04 12 00} kella eest!\n\n.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}{07 0b 00}Mis sa ütled?\n{01 00 00 14 00}Päris kena, mis?{02 04 00 ff ff}\nMa võtan selle!\nMitte täna."
   },
   {
    "id": 1,
    "en": "{07 00 00}Um, yeah.{01 00 00 05 00} That there\n{0b 02 00}{04 1a 00}'s\nbeen with me for a while.\n{07 16 00}But lately it's been smellin'\na little weird, {01 00 00 05 00}{04 02 00}.\n\n{07 00 00}So how 'bout I let it go for\n{04 12 00} Bells.{01 00 00 0a 00} Fork 'em\nover and it's yours!{02 04 00 ff ff}\nGimme, gimme!\nNo way!",
-   "et": ""
+   "et": "{07 00 00}Ee, jah.{01 00 00 05 00} See\n{0b 02 00}{04 1a 00}\non mul tükk aega olnud.\n{07 16 00}Aga viimasel ajal lõhnab see\nnatuke imelikult, {01 00 00 05 00}{04 02 00}.\n\n{07 00 00}Kuidas oleks, kui annan\n{04 12 00} kella eest.{01 00 00 0a 00} Käi\nvälja ja see on sinu!{02 04 00 ff ff}\nAnna, anna!\nEi iial!"
   },
   {
    "id": 2,
    "en": "{07 04 00}{0b 03 00}{01 00 00 05 00}{04 1f 00}!{01 00 00 0f 00} {07 00 00}I knew that\nyou'd be interested in that\n{0b 02 00}{04 1a 00}!\n{07 00 00}{07 15 00}Now don't yank my chain!\nI'll sell it for {04 12 00}\nBells! No less!{01 01 00} How 'bout it?{02 04 00 ff ff}\nI'll buy it!\nGo suck an egg!",
-   "et": ""
+   "et": "{07 04 00}{0b 03 00}{01 00 00 05 00}{04 1f 00}!{01 00 00 0f 00} {07 00 00}Ma teadsin,\net sind huvitab see\n{0b 02 00}{04 1a 00}!\n{07 00 00}{07 15 00}Ära tõmba mind ninapidi!\nMüün selle {04 12 00}\nkella eest!{01 01 00} Mis sa arvad?{02 04 00 ff ff}\nMa ostan selle!\nKasi eemale!"
   }
  ]
 }

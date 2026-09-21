@@ -4,32 +4,32 @@
   {
    "id": 0,
    "en": "{07 00 00}I don't know anything about\n{ff 00 00 03}Flea Markets{ff 00 00 00}{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}\n\n{07 1b 00}But leftovers always sound\ngood to me!",
-   "et": ""
+   "et": "{07 00 00}Ma ei tea {ff 00 00 03}kirbuturgude{ff 00 00 00}\nkohta midagi{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}\n\n{07 1b 00}Aga ülejäägid kõlavad mu\njaoks alati hästi!"
   },
   {
    "id": 1,
    "en": "{07 00 00}So today's the day to get\nrid of your old junk?\nEh, {01 00 00 05 00}{04 02 00}?\n{07 14 00}Well, I bet it would all look\ngreat in your house, since\nit's a big junk pile anyway!",
-   "et": ""
+   "et": "{07 00 00}Nii et täna on päev, mil\nvanast rämpsust vabaneda?\nMis, {01 00 00 05 00}{04 02 00}?\n{07 14 00}Noh, vean kihla, et kõik\nnäeks su majas hea välja,\nkuna see on rämpsuhunnik!"
   },
   {
    "id": 2,
    "en": "{07 16 00}Argggh{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00} I really want\n{04 0b 00}'s{01 00 00 05 00} furniture.\n\n{07 0e 00}See, it doesn't even smell\nall that bad{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.{01 01 00}\n{07 14 00}Right, {01 00 00 05 00}{04 1f 00}?",
-   "et": ""
+   "et": "{07 16 00}Arrgh{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00} Ma tahan väga\n{04 0b 00}{01 00 00 05 00} mööblit.\n\n{07 0e 00}Näed, see ei haise isegi\nnii hullusti{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.{01 01 00}\n{07 14 00}Eks ole, {01 00 00 05 00}{04 1f 00}?"
   },
   {
    "id": 3,
    "en": "{07 00 00}{0b 03 00}{04 1f 00}! Listen, I know\nyou wanna run around and\nsee people's old junk.\nBut if you're not at home,\n{07 0f 00}then I can't see YOUR\nold junk.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 00 00}{0b 03 00}{04 1f 00}! Kuule, ma tean,\net sa tahad ringi joosta ja\nteiste vana rämpsu vaadata.\nAga kui sa pole kodus,\n{07 0f 00}siis ei saa ma näha SINU\nvana rämpsu.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{04 02 00}!"
   },
   {
    "id": 4,
    "en": "{07 00 00}I know everybody calls the\n{ff 00 00 03}Flea Market{ff 00 00 00} the\n\"Free Market\"{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}\nBut you still have to pay\nfor stuff! {07 16 00}That makes\nno sense!{01 00 00 14 00}\nLet's call it the \"Stupid\nPay Market\" or something,\n{01 00 00 05 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 00 00}Ma tean, et kõik kutsuvad\n{ff 00 00 03}kirbuturgu{ff 00 00 00}\n„tasuta turuks”{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}\nAga ikkagi pead asjade eest\nmaksma! {07 16 00}Sel pole\nmingit mõtet!{01 00 00 14 00}\nNimetame selle „rumalaks\nmaksuturuks” või midagi,\n{01 00 00 05 00}{04 02 00}!"
   },
   {
    "id": 5,
    "en": "{07 00 00}I'm gonna shop for stuff at\nyour house next, so you'd\nbetter clean that pigsty!\n{07 15 00}I'm gonna be a guest in\nyour house, dadblastit!\n{0b 03 00}{01 00 00 05 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 00 00}Järgmiseks lähen ma sinu\nmajja ostlema, nii et sa\nparem korista see sealaut!\n{07 15 00}Ma tulen sinu majja\nkülaliseks, pagan võtaks!\n{0b 03 00}{01 00 00 05 00}{04 02 00}!"
   }
  ]
 }

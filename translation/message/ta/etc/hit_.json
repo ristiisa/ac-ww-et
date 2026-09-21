@@ -4,27 +4,27 @@
   {
    "id": 0,
    "en": "{07 04 00}Hey! {01 00 00 14 00}Ouch!\n\n\n{07 15 00}Listen, {04 1f 00}!{01 00 00 14 00} {07 05 00}{01 00 00 05 00}What\nmakes you think you can\njust hit me on the head!",
-   "et": ""
+   "et": "{07 04 00}Hei! {01 00 00 14 00}Ai!\n\n\n{07 15 00}Kuula, {04 1f 00}!{01 00 00 14 00} {07 05 00}{01 00 00 05 00}Miks\nsa arvad, et võid mulle\nlihtsalt vastu pead lüüa!"
   },
   {
    "id": 1,
    "en": "{07 04 00}Ow! {01 00 00 14 00}{07 15 00}What do you think\nyou're doing, {04 1f 00}!\nYou're lucky I'm a pacifist!\n{07 05 00}Watch where you swing that\nthing, {01 00 00 0a 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 04 00}Ai! {01 00 00 14 00}{07 15 00}Mida sa arvad,\net sa teed, {04 1f 00}!\nSul veab, et olen patsifist!\n{07 05 00}Vaata, kuhu sa selle\nasjaga vehid, {01 00 00 0a 00}{04 02 00}!"
   },
   {
    "id": 2,
    "en": "{07 15 00}That is, like, {01 00 00 05 00}so not cool!\n{07 05 00}{01 00 00 0a 00}If you're just dying to hit\nsomeone, hit yourself!",
-   "et": ""
+   "et": "{07 15 00}See on, nagu, {01 00 00 05 00}mitte lahe!\n{07 05 00}{01 00 00 0a 00}Kui sa tahad kedagi lüüa,\nlöö iseennast!"
   },
   {
    "id": 3,
    "en": "{07 15 00}You've got some nerve!{01 00 00 0a 00}\n{07 1b 00}What are you doing!? {01 00 00 0a 00}Who do\nyou think you are!?",
-   "et": ""
+   "et": "{07 15 00}Sul on küll jultumust!{01 00 00 0a 00}\n{07 1b 00}Mida sa teed!? {01 00 00 0a 00}Kelleks sa\nend pead!?"
   },
   {
    "id": 4,
    "en": "{07 15 00}Just keep it up!{01 00 00 0a 00} 'Cause you\nknow, {04 1f 00}, what\ngoes around comes around!",
-   "et": ""
+   "et": "{07 15 00}Jätka aga!{01 00 00 0a 00} Sest sa\ntead, {04 1f 00}, et\nkõik tuleb tagasi!"
   }
  ]
 }

@@ -4,17 +4,17 @@
   {
    "id": 0,
    "en": "{07 0a 00}Yay!{01 00 00 0a 00} All right, {01 00 00 05 00}{04 02 00}!{01 01 00}\nSo, uh,{01 00 00 05 00} {07 0b 00}when should I come\nover?",
-   "et": ""
+   "et": "{07 0a 00}Jee!{01 00 00 0a 00} Suurepärane, {01 00 00 05 00}{04 02 00}!{01 01 00}\nNii et, ee,{01 00 00 05 00} {07 0b 00}millal ma peaksin\ntulema?"
   },
   {
    "id": 1,
    "en": "{07 14 00}All right!{01 00 00 14 00} {07 0d 00}What time should\nI visit?",
-   "et": ""
+   "et": "{07 14 00}Suurepärane!{01 00 00 14 00} {07 0d 00}Mis kell ma\ntulla võiksin?"
   },
   {
    "id": 2,
    "en": "{07 0a 00}All right!{01 01 00} {07 14 00}Now here comes\nmy{01 00 00 05 00} super catchy jingle\nthat I just made up.\n{07 00 00}One-and-a two-and-a{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.{01 01 00}\n{07 01 00}{01 00 00 05 00}\"{ff 00 00 02}When should I be there?{01 00 00 05 00}\nOr do you not care?!{ff 00 00 00}\"",
-   "et": ""
+   "et": "{07 0a 00}Suurepärane!{01 01 00} {07 14 00}Nüüd tuleb\nmu{01 00 00 05 00} ülikõlav laul,\nmille just välja mõtlesin.\n{07 00 00}Üks-ja kaks-ja{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.{01 01 00}\n{07 01 00}{01 00 00 05 00}„{ff 00 00 02}Millal peaksin tulema?{01 00 00 05 00}\nVõi sa ei hooli?!{ff 00 00 00}”"
   }
  ]
 }

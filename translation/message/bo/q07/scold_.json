@@ -4,17 +4,17 @@
   {
    "id": 0,
    "en": "{07 15 00}Grrr!{01 00 00 0a 00} I guess you aren't\nCupid after all!",
-   "et": ""
+   "et": "{07 15 00}Grrr!{01 00 00 0a 00} Vist ei olegi sa\nAmor lõppude lõpuks!"
   },
   {
    "id": 1,
    "en": "{07 1c 00}{01 00 00 0a 00}I guess{01 00 00 05 00} you just don't care\nabout important things.{01 01 00}\nLike friendship.",
-   "et": ""
+   "et": "{07 1c 00}{01 00 00 0a 00}Vist{01 00 00 05 00} ei hooli sa\ntähtsatest asjadest.{01 01 00}\nNagu sõprusest."
   },
   {
    "id": 2,
    "en": "{07 1c 00}{01 00 00 0a 00}You sure are a slacker{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00}\nAnd this is coming from ME,\nthe king of all slackers!",
-   "et": ""
+   "et": "{07 1c 00}{01 00 00 0a 00}Sa oled küll logard{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00}\nJa seda ütlen MINA,\nkõigi logardite kuningas!"
   }
  ]
 }

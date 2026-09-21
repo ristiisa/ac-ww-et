@@ -4,62 +4,62 @@
   {
    "id": 0,
    "en": "{09 01 00}{09 08 00}{07 16 00}I don't really{01 00 00 05 00} want to have\nto say this, {01 00 00 05 00}{ff 00 00 06}{04 10 00}{ff 00 00 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n\n{07 00 00}But there's something weird{01 00 00 05 00}\n{07 06 00}about where you're standing\nright now,{01 00 00 05 00} {04 02 00}!{09 09 00}",
-   "et": ""
+   "et": "{09 01 00}{09 08 00}{07 16 00}Ma ei taha{01 00 00 05 00} seda tegelikult\nöelda, {01 00 00 05 00}{ff 00 00 06}{04 10 00}{ff 00 00 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n\n{07 00 00}Aga seal, kus sa praegu{01 00 00 05 00}\n{07 06 00}seisad, on midagi\nimelikku,{01 00 00 05 00} {04 02 00}!{09 09 00}"
   },
   {
    "id": 1,
    "en": "{09 01 00}{09 08 00}{07 00 00}Um,{01 00 00 05 00} {ff 00 00 06}{04 10 00}{ff 00 00 00},{01 00 00 0a 00}{07 0b 00} do you like\n{04 12 00}?{01 00 00 05 00}\n{0b 03 00}{04 02 00}?{09 09 00}",
-   "et": ""
+   "et": "{09 01 00}{09 08 00}{07 00 00}Ee,{01 00 00 05 00} {ff 00 00 06}{04 10 00}{ff 00 00 00},{01 00 00 0a 00}{07 0b 00} kas sulle\nmeeldib {04 12 00}?{01 00 00 05 00}\n{0b 03 00}{04 02 00}?{09 09 00}"
   },
   {
    "id": 2,
    "en": "{09 01 00}{09 08 00}{07 00 00}This is just between us,{01 00 00 0a 00}{07 16 00}\nbut{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n\n{07 06 00}I think I like\n{04 13 00},{01 00 00 05 00}\n{04 02 00}.{09 09 00}",
-   "et": ""
+   "et": "{09 01 00}{09 08 00}{07 00 00}See jääb meie vahele,{01 00 00 0a 00}{07 16 00}\naga{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n\n{07 06 00}Ma arvan, et mulle meeldib\n{04 13 00},{01 00 00 05 00}\n{04 02 00}.{09 09 00}"
   },
   {
    "id": 3,
    "en": "{09 00 00}{09 08 00}{09 01 00}{07 16 00}{09 02 00}{09 06 00}{07 02 00}Oh!{01 00 00 0f 00} Really?!{01 01 00} {07 00 00}Whoops,{01 00 00 05 00} sorry!\nI thought something was\noff.\n{07 16 00}We're standing in each\nother's spots,{01 00 00 05 00} {04 02 00}!{09 09 00}",
-   "et": ""
+   "et": "{09 00 00}{09 08 00}{09 01 00}{07 16 00}{09 02 00}{09 06 00}{07 02 00}Oh!{01 00 00 0f 00} Tõesti?!{01 01 00} {07 00 00}Ups,{01 00 00 05 00} vabandust!\nArvasin, et midagi on\nviltu.\n{07 16 00}Me seisame teineteise\nkohtadel,{01 00 00 05 00} {04 02 00}!{09 09 00}"
   },
   {
    "id": 4,
    "en": "{09 00 00}{09 06 00}{09 01 00}{09 02 00}{07 15 00}Sheesh!{01 00 00 0a 00} How long have we\nbeen rehearsing this dance\nroutine?!\n{07 06 00}If you don't get it together\nsoon, we're gonna have\nproblems,{01 00 00 05 00} {04 02 00}!",
-   "et": ""
+   "et": "{09 00 00}{09 06 00}{09 01 00}{09 02 00}{07 15 00}Issand!{01 00 00 0a 00} Kui kaua me oleme\nseda tantsu\nharjutanud?!\n{07 06 00}Kui sa varsti asja selgeks\nei saa, tekivad meil\nprobleemid,{01 00 00 05 00} {04 02 00}!"
   },
   {
    "id": 5,
    "en": "{09 00 00}{09 08 00}{09 02 00}{09 06 00}{07 14 00}Of course!{01 00 00 0f 00}{07 13 00} It's my favorite\nthing in the world,{01 00 00 05 00}\n{04 02 00}!\n{07 14 00}Except maybe for\n{04 13 00},\n{ff 00 00 06}{04 0f 00}{ff 00 00 00}. {01 01 00}{07 0b 00}How about you?{09 09 00}",
-   "et": ""
+   "et": "{09 00 00}{09 08 00}{09 02 00}{09 06 00}{07 14 00}Muidugi!{01 00 00 0f 00}{07 13 00} See on mu lemmik\nkogu maailmas,{01 00 00 05 00}\n{04 02 00}!\n{07 14 00}Välja arvatud ehk\n{04 13 00},\n{ff 00 00 06}{04 0f 00}{ff 00 00 00}. {01 01 00}{07 0b 00}Aga sina?{09 09 00}"
   },
   {
    "id": 6,
    "en": "{09 00 00}{09 06 00}{09 01 00}{07 14 00}Of course I do,{01 00 00 05 00} {04 02 00}!\n{01 01 00}{07 0a 00}If it's edible,{01 00 00 05 00} I'm a fan!{09 09 00}",
-   "et": ""
+   "et": "{09 00 00}{09 06 00}{09 01 00}{07 14 00}Muidugi meeldib,{01 00 00 05 00} {04 02 00}!\n{01 01 00}{07 0a 00}Kui söödav,{01 00 00 05 00} olen fänn!{09 09 00}"
   },
   {
    "id": 7,
    "en": "{09 00 00}{09 08 00}{09 02 00}{07 14 00}Huh huh huh! I'm exactly the\nsame way! {01 00 00 05 00}See, this is why\nit's so fun talking to you!\n{07 0a 00}We're always of the same\nmind and belly, {01 00 00 05 00}{04 02 00}!{03 01 00 01}{09 01 00}{03 01 00 01}",
-   "et": ""
+   "et": "{09 00 00}{09 08 00}{09 02 00}{07 14 00}Hah hah haa! Mul on täpselt\nsamamoodi! {01 00 00 05 00}Näed, seepärast\nongi sinuga lõbus rääkida!\n{07 0a 00}Meil on alati üks meel ja\nüks kõht, {01 00 00 05 00}{04 02 00}!{03 01 00 01}{09 01 00}{03 01 00 01}"
   },
   {
    "id": 8,
    "en": "{09 00 00}{09 08 00}{09 01 00}{07 16 00}{09 02 00}{09 06 00}{07 02 00}WHAT?!{01 00 00 0f 00} What do you mean\nyou THINK you like it,\n{01 00 00 05 00}{04 02 00}?!\n{07 06 00}Is that different from\nactually liking it? What are\nyou saying here?!{09 09 00}",
-   "et": ""
+   "et": "{09 00 00}{09 08 00}{09 01 00}{07 16 00}{09 02 00}{09 06 00}{07 02 00}MIDA?!{01 00 00 0f 00} Mis mõttes sa\nARVAD, et see meeldib,\n{01 00 00 05 00}{04 02 00}?!\n{07 06 00}Kas see erineb päriselt\nmeeldimisest? Mida sa siin\nõieti ütled?!{09 09 00}"
   },
   {
    "id": 9,
    "en": "{09 00 00}{09 06 00}{09 02 00}{07 00 00}{09 01 00}{07 16 00}Uh.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0f 00} I don't dislike it so\nmuch I hate it{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{09 09 00}",
-   "et": ""
+   "et": "{09 00 00}{09 06 00}{09 02 00}{07 00 00}{09 01 00}{07 16 00}Ee.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0f 00} Ma ei põlga seda nii\nväga, et vihkaksin{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{09 09 00}"
   },
   {
    "id": 10,
    "en": "{09 00 00}{09 08 00}{09 02 00}{07 19 00}OK.{01 00 00 0f 00} In that case, I guess I\nget it{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{07 16 00} Love and hate are\ntwo sides of the same coin.\n{07 00 00}Not until I start hating my\nbeloved {04 12 00}\ncan I say that\n{07 13 00}I love {04 12 00}\nfrom the bottom of my\nheart,{01 00 00 05 00} {04 02 00}.{09 09 00}",
-   "et": ""
+   "et": "{09 00 00}{09 08 00}{09 02 00}{07 19 00}Olgu.{01 00 00 0f 00} Sel juhul ma vist\nsaan aru{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{07 16 00}Armastus ja viha\non sama mündi kaks külge.\n{07 00 00}Alles siis, kui vihkan\noma armsat {04 12 00},\nsaan ma öelda, et\n{07 13 00}armastan {04 12 00}\nkogu oma\nsüdamest,{01 00 00 05 00} {04 02 00}.{09 09 00}"
   },
   {
    "id": 11,
    "en": "{09 00 00}{09 06 00}{09 01 00}{07 19 00}Whoa. {01 00 00 05 00}We're so deep.\nEspecially when we talk\nabout love and hate{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{07 15 00}\nIt doesn't even matter if\nit makes sense, {07 13 00}{01 00 00 05 00}'cause we\njust look sooo cool!{03 01 00 01}",
-   "et": ""
+   "et": "{09 00 00}{09 06 00}{09 01 00}{07 19 00}Ohoo. {01 00 00 05 00}Me oleme nii sügavad.\nEriti kui räägime\narmastusest ja vihast{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{07 15 00}\nPole isegi tähtis, kas see\non mõistlik, {07 13 00}{01 00 00 05 00}sest me\nnäeme nii lahedad välja!{03 01 00 01}"
   }
  ]
 }

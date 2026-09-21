@@ -4,17 +4,17 @@
   {
    "id": 0,
    "en": "{07 0f 00}I see how it is now{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n\n\n{07 16 00}Well, excuse me for thinking\nyou'd be interested\nin trying something new!",
-   "et": ""
+   "et": "{07 0f 00}Nüüd ma näen, kuidas on{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n\n\n{07 16 00}Noh, vabandust, et ma\narvasin, et sind huvitaks\nmidagi uut proovida!"
   },
   {
    "id": 1,
    "en": "{07 0f 00}Awww{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} That's a real shame,\n{01 00 00 05 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 0f 00}Ohh{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} See on tõeline kahju,\n{01 00 00 05 00}{04 02 00}!"
   },
   {
    "id": 2,
    "en": "{07 00 00}That's fine. {01 00 00 05 00}I understand.\nDo what you have to do.\n\n{07 0f 00}No, no{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} Don't worry about\nme. {01 00 00 05 00}Seriously. {01 00 00 05 00}It's fine.",
-   "et": ""
+   "et": "{07 00 00}Pole hullu. {01 00 00 05 00}Ma mõistan.\nTee, mida pead tegema.\n\n{07 0f 00}Ei, ei{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} Ära muretse minu\npärast. {01 00 00 05 00}Tõsiselt. {01 00 00 05 00}Pole hullu."
   }
  ]
 }

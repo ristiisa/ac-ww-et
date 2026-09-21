@@ -4,17 +4,17 @@
   {
    "id": 0,
    "en": "{07 04 00}Oh, {01 00 00 05 00}{04 1f 00}! You're\ngoing to be so thrilled.\nLook!\n{07 14 00}I'm wearing the lovely\n{0b 02 00}{04 1b 00} you\nsent me!\n{07 17 00}And it looks pretty good on\nme, too, if I do say so\nmyself.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n{07 0a 00}It's exactly what I needed,\nand I love it, {01 00 00 05 00}{04 02 00}!{01 00 00 0f 00}\nThank you so much!",
-   "et": ""
+   "et": "{07 04 00}Oh, {01 00 00 05 00}{04 1f 00}! Sa saad\nnii elevil olema.\nVaata!\n{07 14 00}Ma kannan seda armsat\n{0b 02 00}{04 1b 00}, mille\nsa mulle saatsid!\n{07 17 00}Ja see sobib mulle ka päris\nhästi, kui ma ise nii\nöelda tohin.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n{07 0a 00}See on täpselt see, mida\nvajasin! Super, {01 00 00 05 00}{04 02 00}!{01 00 00 0f 00}\nSuur aitäh!"
   },
   {
    "id": 1,
    "en": "{07 04 00}{01 06 00}{0b 03 00}{04 1f 00}{01 07 00},\nI'm so happy to see you!\n\n{07 14 00}I got your letter, and it\nmade me so happy. I love\ngetting mail!\nBut then, I opened it up\nand saw that incredible\n{07 0a 00}{0b 02 00}{04 1b 00}!\nYou really shouldn't have.{01 00 00 0a 00}\n{07 14 00}But I'm so glad you did! It\nfits perfectly, {01 00 00 05 00}{04 02 00}.",
-   "et": ""
+   "et": "{07 04 00}{01 06 00}{0b 03 00}{04 1f 00}{01 07 00},\nma olen nii rõõmus näha!\n\n{07 14 00}Ma sain su kirja ja see\ntegi mu nii rõõmsaks. Mulle\nmeeldib posti saada!\nAga siis avasin ma selle\nja nägin seda uskumatut\n{07 0a 00}{0b 02 00}{04 1b 00}!\nSa poleks pidanud.{01 00 00 0a 00}\n{07 14 00}Aga ma olen rõõmus! See\nsobib täiuslikult, {01 00 00 05 00}{04 02 00}."
   },
   {
    "id": 2,
    "en": "{0b 03 00}{01 06 00}Heya{01 07 00},\n{01 00 00 0a 00}{04 1f 00}.\n\n{07 17 00}Did you notice I'm wearing\nthe {0b 02 00}{04 1b 00}\nyou sent me?\n{07 14 00}I don't mean to sound vain,\nbut{01 00 00 05 00} I look fabulous in it,\ndon't I, {01 00 00 05 00}{04 02 00}?\nIt's OK. You can tell me the\ntruth. I won't let it go to\nmy head.",
-   "et": ""
+   "et": "{0b 03 00}{01 06 00}Terekest{01 07 00},\n{01 00 00 0a 00}{04 1f 00}.\n\n{07 17 00}Kas sa märkasid, et ma\nkannan {0b 02 00}{04 1b 00},\nmille sa saatsid?\n{07 14 00}Ma ei taha edev tunduda,\naga{01 00 00 05 00} ma näen selles hea\nvälja, kas pole, {01 00 00 05 00}{04 02 00}?\nPole viga. Võid mulle tõtt\nöelda. Ma ei lase sel\npähe hakata."
   }
  ]
 }

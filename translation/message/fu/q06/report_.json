@@ -4,17 +4,17 @@
   {
    "id": 0,
    "en": "{07 14 00}You did it!{01 00 00 05 00} You delivered it\non time and unbroken and\neverything!\nGood job, {01 00 00 05 00}{04 02 00}! {01 00 00 0a 00}{07 0b 00}So,\nhow was {ff 00 00 06}{04 10 00}{ff 00 00 00}?",
-   "et": ""
+   "et": "{07 14 00}Sa tegid ära!{01 00 00 05 00} Sa viisid selle\nõigeks ajaks ja terve ja\nkõik!\nTubli töö, {01 00 00 05 00}{04 02 00}! {01 00 00 0a 00}{07 0b 00}Nii,\nkuidas {ff 00 00 06}{04 10 00}{ff 00 00 00} oli?"
   },
   {
    "id": 1,
    "en": "{07 14 00}Hey, {01 00 00 0a 00}you delivered it just\nlike you said you would,\n{01 00 00 05 00}{04 02 00}!\n{07 0b 00}So how was {ff 00 00 06}{04 10 00}{ff 00 00 00}?",
-   "et": ""
+   "et": "{07 14 00}Hei, {01 00 00 0a 00}sa viisid selle kohale\ntäpselt nii, nagu lubasid,\n{01 00 00 05 00}{04 02 00}!\n{07 0b 00}Nii kuidas {ff 00 00 06}{04 10 00}{ff 00 00 00} oli?"
   },
   {
    "id": 2,
    "en": "{07 14 00}Wow!{01 00 00 05 00} Nice work!{01 00 00 05 00} {07 00 00}{07 0b 00}Was\n{ff 00 00 06}{04 10 00} {ff 00 00 00}happy to get\nthe present?",
-   "et": ""
+   "et": "{07 14 00}Vau!{01 00 00 05 00} Tubli töö!{01 00 00 05 00} {07 00 00}{07 0b 00}Kas\n{ff 00 00 06}{04 10 00} {ff 00 00 00}oli kingi üle\nõnnelik?"
   }
  ]
 }

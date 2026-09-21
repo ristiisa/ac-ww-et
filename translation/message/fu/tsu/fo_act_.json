@@ -4,77 +4,77 @@
   {
    "id": 0,
    "en": "{06 08 00 08 09 0a 0b}",
-   "et": ""
+   "et": "{06 08 00 08 09 0a 0b}"
   },
   {
    "id": 1,
    "en": "{07 14 00}{0b 03 00}{04 1f 00},{01 00 00 05 00} why don't you\nand I go look for fossils\ntogether, {01 00 00 05 00}{04 02 00}!\nJust follow me,{01 00 00 05 00} because\nI know the perfect spot!",
-   "et": ""
+   "et": "{07 14 00}{0b 03 00}{04 1f 00},{01 00 00 05 00} miks me ei lähe\nkoos fossiile otsima,\n{01 00 00 05 00}{04 02 00}!\nJärgne lihtsalt mulle,{01 00 00 05 00} sest\nma tean täiuslikku kohta!"
   },
   {
    "id": 2,
    "en": "{07 16 00}It's not here!{01 00 00 05 00} It's not here!{01 00 00 05 00}\nBut no!{01 00 00 05 00} I have to believe!{01 00 00 05 00}\nI can't lose faith!\n{07 15 00}It's here.{01 00 00 05 00} I'm SURE it is!{01 00 00 0f 00}\n{07 06 00}I am absolutely positive{01 00 00 05 00}\nthere's a fossil here{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.",
-   "et": ""
+   "et": "{07 16 00}Seda pole siin!{01 00 00 05 00} Pole siin!{01 00 00 05 00}\nAga ei!{01 00 00 05 00} Ma pean uskuma!{01 00 00 05 00}\nMa ei tohi usku kaotada!\n{07 15 00}See on siin.{01 00 00 05 00} Olen KINDEL!{01 00 00 0f 00}\n{07 06 00}Ma olen täiesti veendunud,{01 00 00 05 00}\net siin on fossiil{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}."
   },
   {
    "id": 3,
    "en": "{06 01 00 0c 0d 0e}",
-   "et": ""
+   "et": "{06 01 00 0c 0d 0e}"
   },
   {
    "id": 4,
    "en": "I'm starting to think I've\nbeen talking to {ff 00 00 06}Blathers{ff 00 00 00}\ntoo much.\n{07 14 00}He's gotten me all excited\nabout going out and digging\nup some fossils{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\nI know! {07 0b 00}{0b 03 00}{04 1f 00}, would\nyou like to come too,\n{01 00 00 05 00}{04 02 00}?",
-   "et": ""
+   "et": "Ma hakkan arvama, et ma\nolen {ff 00 00 06}Blathersiga{ff 00 00 00} liiga\npalju rääkinud.\n{07 14 00}Ta on mind elevile ajanud\nfossiilide\nkaevamisest{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\nMa tean! {07 0b 00}{0b 03 00}{04 1f 00}, kas sa\ntahaksid ka kaasa tulla,\n{01 00 00 05 00}{04 02 00}?"
   },
   {
    "id": 5,
    "en": "{07 0f 00}It looks easy, but I can't\nfind any fossils.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0f 00}{07 16 00} It's not\nsupposed to be so hard!\n{07 06 00}{0b 03 00}{04 1f 00}, you have to\nhelp me find a fossil!{01 00 00 0f 00}\nPleeeeease, {01 00 00 05 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 0f 00}See näib lihtne, aga ma ei\nleia ühtegi fossiili.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0f 00}{07 16 00} See ei\npeaks nii raske olema!\n{07 06 00}{0b 03 00}{04 1f 00}, sa pead mind\naitama fossiili leida!{01 00 00 0f 00}\nPaaaalun, {01 00 00 05 00}{04 02 00}!"
   },
   {
    "id": 6,
    "en": "{07 0e 00}Hmmmmm{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} {07 16 00}It's hard work,\ndigging up fossils,\n{01 00 00 05 00}{04 02 00}!\n{07 06 00}I wish someone would bury\none for me and tell me\nwhere it is, {01 00 00 05 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 0e 00}Hmmmmm{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 16 00} Raske töö,\nfossiilide kaevamine,\n{01 00 00 05 00}{04 02 00}!\n{07 06 00}Soovin, et keegi mataks ühe\nmulle maha ja ütleks, kus\nsee on, {01 00 00 05 00}{04 02 00}!"
   },
   {
    "id": 7,
    "en": "{07 15 00}Even once you've found a\nfossil, don't go digging like\na madman, {04 1f 00}!\n{07 00 00}Fossils are very fragile,{01 00 00 0f 00}\nlike poor {04 01 00}. You\nhave to treat them gently.",
-   "et": ""
+   "et": "{07 15 00}Isegi kui sa oled fossiili\nleidnud, ära kaeva nagu\nhullumeelne, {04 1f 00}!\n{07 00 00}Fossiilid on väga habrased,{01 00 00 0f 00}\nnagu vaene {04 01 00}. Sa\npead neid õrnalt kohtlema."
   },
   {
    "id": 8,
    "en": "{07 14 00}If you want to find fossils,{01 00 00 05 00}\nstart digging early, before\nanyone else wakes up.\n{07 00 00}You know what they say...{07 0d 00}\nThe early bird gets the\npetrified worm!",
-   "et": ""
+   "et": "{07 14 00}Kui sa tahad fossiile leida,{01 00 00 05 00}\nhakka varakult kaevama,\nenne kui teised ärkavad.\n{07 00 00}Tead, mida öeldakse...{07 0d 00}\nHommikune lind saab\nkivistunud ussi!"
   },
   {
    "id": 9,
    "en": "{07 0b 00}{0b 03 00}{04 1f 00}, did you\nremember to eat your\nlunch, {01 00 00 05 00}{04 02 00}?\n{07 00 00}When I'm out hunting for\ndinosaur bones and stuff, I\nlose track of time.\n{07 06 00}One time, I got so hungry\nthat I started gnawing on a\nbone I'd dug up!",
-   "et": ""
+   "et": "{07 0b 00}{0b 03 00}{04 1f 00}, kas sa\nmäletasid lõunat\nsüüa, {01 00 00 05 00}{04 02 00}?\n{07 00 00}Kui ma jahin dinosauruste\nluid ja kraami, kaotan ma\najataju.\n{07 06 00}Kord oli mul nii kõht tühi,\net ma hakkasin närima\nväljakaevatud luud!"
   },
   {
    "id": 10,
    "en": "{07 16 00}I'm worn out from digging\nall day, {01 00 00 05 00}{04 02 00}!\n\n{07 0e 00}Maybe I should go home and\nmake myself a hot cup\nof {04 13 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.",
-   "et": ""
+   "et": "{07 16 00}Ma olen kaevamisest terve\npäeva väsinud, {01 00 00 05 00}{04 02 00}!\n\n{07 0e 00}Ehk peaksin ma koju minema\nja endale kuuma tassi\n{04 13 00} tegema{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}."
   },
   {
    "id": 11,
    "en": "{07 16 00}Once it gets dark, it can\nbe pretty tough to find\nany fossils, {07 15 00}{01 00 00 05 00}{04 02 00}.\nI should go to bed soon{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0f 00}\n{07 06 00}But what if I'm just about\nto find the perfect fossil?",
-   "et": ""
+   "et": "{07 16 00}Kui pimedaks läheb, võib\nolla üsna raske leida\nfossiile, {07 15 00}{01 00 00 05 00}{04 02 00}.\nPeaksin varsti magama{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0f 00}\n{07 06 00}Aga mis siis, kui ma olen\nkohe leidmas täiuslikku?"
   },
   {
    "id": 12,
    "en": "{07 14 00}{0b 03 00}{04 1f 00}, do you want to\njoin me for a little fossil\nhunting, {01 00 00 05 00}{04 02 00}?\nIt can be slow work, and I'd\nlove to have a little\ncompany while I dig around.",
-   "et": ""
+   "et": "{07 14 00}{0b 03 00}{04 1f 00}, kas sa tahad\nminuga natuke fossiile\njahtida, {01 00 00 05 00}{04 02 00}?\nSee võib olla aeglane töö ja\nma tahaksin natuke seltsi,\nkui ma ringi kaevan."
   },
   {
    "id": 13,
    "en": "{07 00 00}Fossils are the remains of\ncreatures that lived\nthousands of years ago{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\nFor me, {07 13 00}digging up fossils\nis like digging up chunks of\nhistory, {01 00 00 05 00}{04 02 00}!{03 01 00 01}",
-   "et": ""
+   "et": "{07 00 00}Fossiilid on olendite\njäänused, kes elasid\ntuhandeid aastaid tagasi{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\nMinu jaoks on {07 13 00}fossiilide\nkaevamine nagu ajaloo\ntükkide kaevamine,{01 00 00 05 00}{04 02 00}!{03 01 00 01}"
   },
   {
    "id": 14,
    "en": "{07 0e 00}Hmmmmmm.{01 00 00 0a 00} I'm starting to\nthink there's nothing\nhere.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n{07 14 00}{0b 03 00}{04 1f 00}, you'll let me\nknow if you find anything,\nwon't you, {01 00 00 05 00}{04 02 00}?\n{07 00 00}You'd think there'd be some\nkind of mark where a fossil\nis buried, {01 00 00 05 00}{04 02 00}.",
-   "et": ""
+   "et": "{07 0e 00}Hmmmmm.{01 00 00 0a 00} Ma hakkan arvama,\net siin pole\nmidagi.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n{07 14 00}{0b 03 00}{04 1f 00}, sa annad mulle\nteada, kui midagi leiad,\nkas pole, {01 00 00 05 00}{04 02 00}?\n{07 00 00}Võiks arvata, et seal, kus\nfossiil on maetud, oleks\nmingi märk, {01 00 00 05 00}{04 02 00}."
   }
  ]
 }

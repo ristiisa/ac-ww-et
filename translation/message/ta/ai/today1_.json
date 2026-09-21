@@ -4,62 +4,62 @@
   {
    "id": 0,
    "en": "{07 04 00}{0b 03 00}{01 06 00}Oh, hey{01 07 00}!\n{01 00 00 05 00}Good morning.{01 00 00 14 00} You're up a\nlot earlier than I thought!",
-   "et": ""
+   "et": "{07 04 00}{0b 03 00}{01 06 00}Oi, tere{01 07 00}! {01 00 00 05 00}Tere\nhommikust.{01 00 00 14 00} Sa oled palju\nvarem üleval kui arvasin!"
   },
   {
    "id": 1,
    "en": "{07 12 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 14 00}Hmm?{01 00 00 14 00} What, {04 1f 00}?{01 01 00}\n{07 00 00}Oh, good morning{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n{04 02 00}.\n{07 16 00}You're so awake and ready\nto face the day. I'm so\njealous, {01 00 00 0a 00}{04 02 00}.",
-   "et": ""
+   "et": "{07 12 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 14 00}Hmm?{01 00 00 14 00} Mis, {04 1f 00}?{01 01 00}\n{07 00 00}Ah, tere hommikust{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n{04 02 00}.\n{07 16 00}Sa oled nii ärkvel ja valmis\npäevaga tegelema. Ma olen\nnii kade, {01 00 00 0a 00}{04 02 00}."
   },
   {
    "id": 2,
    "en": "{07 12 00}{0b 03 00}{01 00 00 14 00}{01 06 00}Morning{01 07 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 14 00}\nI slept in this morning{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 16 00}All I can think of is {01 00 00 05 00}bed.",
-   "et": ""
+   "et": "{07 12 00}{0b 03 00}{01 00 00 14 00}{01 06 00}Hommikust{01 07 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 14 00}\nMa magasin täna sisse{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 16 00}Ma mõtlen ainult {01 00 00 05 00}voodist."
   },
   {
    "id": 3,
    "en": "{07 04 00}{01 00 00 0a 00}{0b 03 00}{01 06 00}Hey{01 07 00},\n{01 00 00 05 00}{04 1f 00}!\n\n{07 0e 00}There was something{01 00 00 0a 00}\nI wanted to tell you, but{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n\n{07 14 00}I can't remember what it\nwas. {01 01 00}{07 1b 00}I'm sure it{01 00 00 05 00} wasn't a\nbig deal, though.",
-   "et": ""
+   "et": "{07 04 00}{01 00 00 0a 00}{0b 03 00}{01 06 00}Hei{01 07 00},\n{01 00 00 05 00}{04 1f 00}!\n\n{07 0e 00}Mul oli midagi,{01 00 00 0a 00} mida\ntahtsin sulle öelda, aga{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n\n{07 14 00}Ma ei mäleta, mis see\noli. {01 01 00}{07 1b 00}Küllap see{01 00 00 05 00} polnud\nmidagi tähtsat."
   },
   {
    "id": 4,
    "en": "{07 12 00}{01 00 00 0a 00}Phew{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 01 00} What, {01 00 00 0a 00}{04 1f 00}?{01 00 00 14 00}\n{07 00 00}{0b 03 00}{01 06 00}Oh, hello{01 07 00}.\n\n{07 16 00}I ate way too much for\nlunch, and now I'm in a food\ncoma, {01 00 00 05 00}{04 02 00}. ",
-   "et": ""
+   "et": "{07 12 00}{01 00 00 0a 00}Uhh{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 01 00} Mis, {01 00 00 0a 00}{04 1f 00}?{01 00 00 14 00}\n{07 00 00}{0b 03 00}{01 06 00}Oi, tere{01 07 00}.\n\n{07 16 00}Ma sõin lõunaks liiga palju\nja nüüd olen toidukoomas,\n{01 00 00 05 00}{04 02 00}. "
   },
   {
    "id": 5,
    "en": "{07 0e 00}{01 00 00 0a 00}Ugh{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} For some reason, I've\ngot a ton of stuff to do\ntoday!\n{07 16 00}I wanna {04 22 00},{01 00 00 0a 00}\n{07 1b 00}but I have to talk to you\nand stuff, so{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{07 00 00}",
-   "et": ""
+   "et": "{07 0e 00}{01 00 00 0a 00}Öök{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} Millegipärast on mul\ntäna tonnide viisi asju\nteha!\n{07 16 00}Ma tahan {04 22 00},{01 00 00 0a 00}\n{07 1b 00}aga pean sinuga rääkima\nja nii, nii et{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{07 00 00}"
   },
   {
    "id": 6,
    "en": "{07 14 00}{0b 03 00}{01 06 00}Good evening{01 07 00}.{01 00 00 14 00} {07 00 00}\nYou're up late tonight. {01 00 00 0a 00}\nWhat's up, {01 00 00 0a 00}{04 02 00}?\n{07 14 00}I'm happy you're still up,\nthough,{01 00 00 05 00} 'cause that means I\nhave someone to{01 00 00 0a 00} play with!",
-   "et": ""
+   "et": "{07 14 00}{0b 03 00}{01 06 00}Tere õhtust{01 07 00}.{01 00 00 14 00} {07 00 00}\nSa oled täna hilja üleval. {01 00 00 0a 00}\nMis toimub, {01 00 00 0a 00}{04 02 00}?\n{07 14 00}Hea, et sa üleval\noled,{01 00 00 05 00} sest siis on mul\nkellegagi{01 00 00 0a 00} mängida!"
   },
   {
    "id": 7,
    "en": "{07 02 00}{01 00 00 0a 00}Oh, jeez!{01 00 00 14 00} How'd it get to\nbe {04 08 00} o'clock already?\n\n{07 16 00}I was hoping that today we{01 00 00 05 00}\nwould finally be able to\n{04 22 00} together!",
-   "et": ""
+   "et": "{07 02 00}{01 00 00 0a 00}Oh issand!{01 00 00 14 00} Kuidas on juba\nkell {04 08 00}?\n\n{07 16 00}Ma lootsin, et täna{01 00 00 05 00}\nsaame lõpuks koos\n{04 22 00}!"
   },
   {
    "id": 8,
    "en": "{0b 03 00}{01 06 00}Good evening{01 07 00}!{01 00 00 14 00}\n{07 14 00}So, you're still crazy busy?\n{07 00 00}I know you're ambitious,\n{07 1b 00}but don't work too hard,\nOK? {07 01 00}It makes the rest of\nus look bad!",
-   "et": ""
+   "et": "{0b 03 00}{01 06 00}Tere õhtust{01 07 00}!{01 00 00 14 00}\n{07 14 00}Nii et sul on ikka kiire?\n{07 00 00}Tean, et sa oled sihikindel,\n{07 1b 00}aga ära tööta liiga palju,\neks? {07 01 00}See paneb meid teisi\nhalvas valguses paistma!"
   },
   {
    "id": 9,
    "en": "{07 1c 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 14 00}Finally! It's you!{01 00 00 0a 00} It's\nalready {04 08 00}:{04 09 00}, you know.\n\n{07 15 00}You really shouldn't keep\nme{01 00 00 05 00} waiting so long{01 00 00 0a 00},\n{04 02 00}. It's rude.",
-   "et": ""
+   "et": "{07 1c 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 14 00}Lõpuks! See oled sina!{01 00 00 0a 00}\nKell on {04 08 00}:{04 09 00},\ntead. \n{07 15 00}Sa ei tohiks mind\nnii kaua{01 00 00 05 00} oodata lasta{01 00 00 0a 00},\n{04 02 00}. See on ebaviisakas."
   },
   {
    "id": 10,
    "en": "{07 14 00}Hi, {04 1f 00}!{01 01 00} {07 0b 00}{01 00 00 05 00}Are you\ngoing out to play? {07 14 00}The\nnight's young, {01 00 00 0a 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 14 00}Tere, {04 1f 00}!{01 01 00} {07 0b 00}{01 00 00 05 00}Kas sa\nlähed mängima? {07 14 00}Öö\non veel noor, {01 00 00 0a 00}{04 02 00}!"
   },
   {
    "id": 11,
    "en": "{07 04 00}{01 00 00 0a 00}Hey, {04 1f 00},{01 00 00 14 00} {07 0b 00}{01 00 00 0a 00}it's\npretty late. Are you OK,\n{01 00 00 0a 00}{04 02 00}?\n{07 19 00}You know, skin cells\nrejuvenate when you're\nsleeping, {01 00 00 05 00}{04 02 00}!{07 00 00}",
-   "et": ""
+   "et": "{07 04 00}{01 00 00 0a 00}Hei, {04 1f 00},{01 00 00 14 00} {07 0b 00}{01 00 00 0a 00}on\npäris hilja. Kas sinuga on\nkõik korras, {01 00 00 0a 00}{04 02 00}?\n{07 19 00}Tead, naharakud\nuuenevad magamise\najal, {01 00 00 05 00}{04 02 00}!{07 00 00}"
   }
  ]
 }

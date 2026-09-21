@@ -4,17 +4,17 @@
   {
    "id": 0,
    "en": "{07 16 00}Hey, {01 00 00 05 00}by the way, you still\nhaven't delivered my gift\nto {ff 00 00 06}{04 10 00}{ff 00 00 00}, have you?!\n{07 06 00}C'mon!{01 00 00 0a 00} I only asked you\nbecause you looked like a\nsuperfast runner{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 15 00}Oh, I'm gonna go myself!{01 00 00 05 00}\nYou give it back to me,\n{01 00 00 05 00}{04 02 00}! {01 00 00 05 00}Right now!",
-   "et": ""
+   "et": "{07 16 00}Kuule, {01 00 00 05 00}muide, sa pole ikka\nveel mu kinki {ff 00 00 06}{04 10 00}{ff 00 00 00}le\nviinud, ega?!\n{07 06 00}Tule nüüd!{01 00 00 0a 00} Ma palusin sind\nainult seepärast, et sa\nnäisid ülikiire jooksjana{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 15 00}Oh, ma lähen ise!{01 00 00 05 00}\nAnna see mulle tagasi,\n{01 00 00 05 00}{04 02 00}! {01 00 00 05 00}Kohe!"
   },
   {
    "id": 1,
    "en": "{07 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 04 00}Oh, {01 00 00 05 00}yeah,{01 00 00 05 00} the delivery\ntime!{01 00 00 0a 00} It already passed,\ndidn't it?\n{07 16 00}Boy, maybe I overestimated\nyour skills, {01 00 00 05 00}{04 02 00}...\n\n{07 15 00}I gotta go apologize now,\nso I'd better break out...{01 00 00 05 00}\nGive that back to me!",
-   "et": ""
+   "et": "{07 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 04 00}Oh, {01 00 00 05 00}jah,{01 00 00 05 00} toimetamise\naeg!{01 00 00 0a 00} See on juba möödas,\nkas pole?\n{07 16 00}Vist ma ülehindasin\nsinu oskusi, {01 00 00 05 00}{04 02 00}...\n\n{07 15 00}Pean nüüd vabandust paluma,\nnii et parem kiirustan...{01 00 00 05 00}\nAnna see mulle tagasi!"
   },
   {
    "id": 2,
    "en": "{07 02 00}AUGH!{01 00 00 0a 00} {0b 03 00}{04 1f 00}!\n\n\n{07 06 00}You still haven't given the \npresent to {ff 00 00 06}{04 10 00}{ff 00 00 00},\nhave you, {01 00 00 05 00}{04 02 00}?\n{07 15 00}Gosh! {01 00 00 05 00}All right, already!{01 00 00 0a 00}\nI'm gonna go myself, so \ngive it to me, {01 00 00 05 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 02 00}AUH!{01 00 00 0a 00} {0b 03 00}{04 1f 00}!\n\n\n{07 06 00}Sa pole ikka veel kinki \n{ff 00 00 06}{04 10 00}{ff 00 00 00}le andnud,\nega, {01 00 00 05 00}{04 02 00}?\n{07 15 00}Heldeke! {01 00 00 05 00}Hea küll!{01 00 00 0a 00}\nMa lähen ise, nii et \nanna see mulle, {01 00 00 05 00}{04 02 00}!"
   }
  ]
 }

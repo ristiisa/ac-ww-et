@@ -4,17 +4,17 @@
   {
    "id": 0,
    "en": "{07 00 00}So I put some fossils on\ndisplay in my house!\n\n{07 0a 00}It's like the opening of a\nnew{01 00 00 05 00} miniature museum,{01 00 00 0a 00}\n{04 02 00}!",
-   "et": ""
+   "et": "{07 00 00}Panin oma majja mõned\nfossiilid välja!\n\n{07 0a 00}See on nagu uue{01 00 00 05 00}\nminimuuseumi avamine,{01 00 00 0a 00}\n{04 02 00}!"
   },
   {
    "id": 1,
    "en": "{07 14 00}I've got some awesome \nfossils on display at my \nplace!\n{07 00 00}I'm{01 00 00 05 00} so excited{01 00 00 05 00}\nthat I can't help but dance!{01 01 00}\n{07 0a 00}{01 00 00 0a 00}Shake it!{01 00 00 0a 00} Woot!{03 01 00 01}",
-   "et": ""
+   "et": "{07 14 00}Mul on kodus väljas \nmõned vägevad \nfossiilid!\n{07 00 00}Olen{01 00 00 05 00} nii elevil,{01 00 00 05 00}\net pean lihtsalt tantsima!{01 01 00}\n{07 0a 00}{01 00 00 0a 00}Raputa!{01 00 00 0a 00} Juhhu!{03 01 00 01}"
   },
   {
    "id": 2,
    "en": "{07 13 00}Guess what!{01 00 00 05 00} I got this\nfossil in my room, and it\nkinda smells!\n{07 00 00}It's the smell of...{01 01 00}history!\n{07 0d 00}It's so cool,{01 00 00 0a 00} {04 02 00}!",
-   "et": ""
+   "et": "{07 13 00}Arva ära!{01 00 00 05 00} Sain selle\nfossiili tuppa ja see\nlõhnab kuidagi!\n{07 00 00}See on...{01 01 00}ajaloo lõhn!\n{07 0d 00}See on nii lahe,{01 00 00 0a 00} {04 02 00}!"
   }
  ]
 }

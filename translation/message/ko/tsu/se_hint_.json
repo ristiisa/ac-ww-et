@@ -4,97 +4,97 @@
   {
    "id": 0,
    "en": "Have you{01 00 00 05 00} ever found a\n{ff 00 00 07}{07 0b 00}message in a bottle{ff 00 00 00}?{02 01 00 09 0a 0b}\nWhat's that?\nOh yeah!\nNot yet.",
-   "et": ""
+   "et": "Kas sa oled{01 00 00 05 00} kunagi leidnud\n{ff 00 00 07}{07 0b 00}sõnumi pudelis{ff 00 00 00}?{02 01 00 09 0a 0b}\nMis see on?\nOh jaa!\nVeel mitte."
   },
   {
    "id": 1,
    "en": "{06 08 00 03 04 05 06}",
-   "et": ""
+   "et": "{06 08 00 03 04 05 06}"
   },
   {
    "id": 2,
    "en": "{06 09 00 0c 0d 0e}",
-   "et": ""
+   "et": "{06 09 00 0c 0d 0e}"
   },
   {
    "id": 3,
    "en": "The beach in the morning is\nso nice and relaxing.{01 00 00 05 00} {07 0e 00}It's\nrefreshing{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{04 02 00}.\n{07 14 00}It kinda reminds me\nof how I used to be{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.",
-   "et": ""
+   "et": "Rand on hommikul nii kena\nja lõõgastav.{01 00 00 05 00} {07 0e 00}See on\nvärskendav{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{04 02 00}.\n{07 14 00}See meenutab mulle,\nmilline ma olin{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}."
   },
   {
    "id": 4,
    "en": "{07 19 00}In the afternoon, the beach\nis a place for the kiddies,\n{01 00 00 05 00}{04 02 00}.{01 00 00 14 00}\nThat's not the time for old\npeople to be there.\n\nWhat? Whaddya lookin' at,\n{04 02 00}?!",
-   "et": ""
+   "et": "{07 19 00}Pärastlõunal on rand\nlastele mõeldud koht,\n{01 00 00 05 00}{04 02 00}.{01 00 00 14 00}\nSee pole aeg, mil vanad\ninimesed seal käiksid.\n\nMis? Mida sa vahid,\n{04 02 00}?!"
   },
   {
    "id": 5,
    "en": "{07 14 00}This is my favorite time of\nday to be at the beach,\n{04 02 00}.\n{07 00 00}It's so bleak and devoid\nof all joy.\n\n{07 19 00}It kinda reminds me of \nmyself on my better days{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.",
-   "et": ""
+   "et": "{07 14 00}See on mu lemmikaeg\nrannas olemiseks,\n{04 02 00}.\n{07 00 00}See on nii sünge ja\nrõõmust tühi.\n\n{07 19 00}See meenutab mulle mind \nmu paremail päevil{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}."
   },
   {
    "id": 6,
    "en": "{07 19 00}The beach at night is \nkinda like me, huh?{01 00 00 14 00}{02 00 00 07 08}\nExactly!\nWhat part?",
-   "et": ""
+   "et": "{07 19 00}Rand öösel on omamoodi \nnagu mina, mis?{01 00 00 14 00}{02 00 00 07 08}\nTäpselt!\nMis osa?"
   },
   {
    "id": 7,
    "en": "{07 1a 00}You're feelin' me!{01 00 00 0f 00}\nWe're both{07 14 00} deep, dark, and\nmysterious, {01 00 00 05 00}{04 02 00}.{03 01 00 01}",
-   "et": ""
+   "et": "{07 1a 00}Sa tunnetad mind!{01 00 00 0f 00}\nMe mõlemad{07 14 00} oleme sügavad\nja salapärased, {01 00 00 05 00}{04 02 00}.{03 01 00 01}"
   },
   {
    "id": 8,
    "en": "{07 00 00}You don't see it?{01 00 00 05 00}\nThe sea's dangerous...\nI'm dangerous, {01 00 00 05 00}{04 02 00}.\n{07 15 00}Guess that means you don't\nreally know me,{01 00 00 0f 00} doesn't it,\n{01 00 00 05 00}{04 02 00}?!",
-   "et": ""
+   "et": "{07 00 00}Sa ei näe seda?{01 00 00 05 00}\nMeri on ohtlik...\nMina olen ohtlik, {01 00 00 05 00}{04 02 00}.\n{07 15 00}Vist tähendab see, et sa\nei tunne mind tegelikult,{01 00 00 0f 00}\nega ju, {01 00 00 05 00}{04 02 00}?!"
   },
   {
    "id": 9,
    "en": "{07 14 00}Heh heh,{01 00 00 0f 00} you're even dumber\nthan you look, {01 00 00 05 00}{04 02 00}.\n\n{07 00 00}A message in a bottle is\njust a message.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}in a\nbottle. {01 00 00 05 00}Imagine that!",
-   "et": ""
+   "et": "{07 14 00}Heh heh,{01 00 00 0f 00} sa oled rumalam\nkui välja näed, {01 00 00 05 00}{04 02 00}.\n\n{07 00 00}Sõnum pudelis on lihtsalt\nsõnum.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}pudelis.\n{01 00 00 05 00}Kujuta ette!"
   },
   {
    "id": 10,
    "en": "{07 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 16 00}Oh yeah?{01 01 00} I still haven't\nfound one.{01 00 00 05 00}.{01 00 00 05 00}.\n\n{07 0f 00}Man.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 14 00} The ocean really\nbums me out sometimes,\n{01 00 00 05 00}{04 02 00}.{03 03 00 01}",
-   "et": ""
+   "et": "{07 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 16 00}Oh jaa?{01 01 00} Ma pole ikka\nühtegi leidnud.{01 00 00 05 00}.{01 00 00 05 00}.\n\n{07 0f 00}Poiss.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 14 00} Meri teeb mu\nvahel tõesti kurvaks,\n{01 00 00 05 00}{04 02 00}.{03 03 00 01}"
   },
   {
    "id": 11,
    "en": "{07 00 00}You too, eh {01 00 00 05 00}{04 1f 00}?{01 00 00 0f 00}\n{0b 03 00}{01 00 00 05 00}{04 02 00}?!\n\n{07 16 00}Yeah, {01 00 00 0f 00}I look for 'em every\ntime I come to the beach, \nbut I've never found one.\n{07 00 00}Do ya think ya have to{01 00 00 05 00}\ndo something special to{01 00 00 05 00}\nget one?",
-   "et": ""
+   "et": "{07 00 00}Sina ka, mis {01 00 00 05 00}{04 1f 00}?{01 00 00 0f 00}\n{0b 03 00}{01 00 00 05 00}{04 02 00}?!\n\n{07 16 00}Jah, {01 00 00 0f 00}ma otsin iga kord, \nkui ma randa tulen, \naga pole ühtegi leidnud.\n{07 00 00}Kas sa arvad, et pead{01 00 00 05 00}\ntegema midagi erilist,{01 00 00 05 00}\net üks saada?"
   },
   {
    "id": 12,
    "en": "{07 00 00}You know that spacey otter\nwho's always philosophizing?\n{07 0b 00}Ever met him, {01 00 00 05 00}{04 02 00}?{02 00 00 0f 0f}\nYup!\nNot yet.",
-   "et": ""
+   "et": "{07 00 00}Tead seda hajameelset\nsaarmast-filosoofi?\n{07 0b 00}Kas kohtasid, {01 00 00 05 00}{04 02 00}?{02 00 00 0f 0f}\nJah!\nVeel mitte."
   },
   {
    "id": 13,
    "en": "{07 15 00}Ha!{01 00 00 0f 00} On a rainy day like\nthis, it looks like the sea\nis crying{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 17 00}Man, I must have sounded\npretty rad when I said that\njust then. {0b 03 00}{01 00 00 05 00}{04 02 00}?",
-   "et": ""
+   "et": "{07 15 00}Ha!{01 00 00 0f 00} Sellisel vihmasel päeval\nnagu täna paistab, et meri\nnutab{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 17 00}Poiss, ma pidin kõlama\npäris ägedalt, kui ma seda\npraegu ütlesin. {0b 03 00}{01 00 00 05 00}{04 02 00}?"
   },
   {
    "id": 14,
    "en": "{07 00 00}Even on a cold day like \ntoday, the sea doesn't \nfreeze, {01 00 00 05 00}{04 02 00}.\n{07 15 00}It's enormous.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 14 00} Why can't I\nbe as awesome as the\nocean?",
-   "et": ""
+   "et": "{07 00 00}Isegi nii külmal päeval \ntäna meri ei külmu, \n{01 00 00 05 00}{04 02 00}.\n{07 15 00}See on tohutu.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 14 00} Miks ei või\nmina olla nii vinge kui\nookean?"
   },
   {
    "id": 15,
    "en": "{06 01 00 10 11 12}",
-   "et": ""
+   "et": "{06 01 00 10 11 12}"
   },
   {
    "id": 16,
    "en": "{07 00 00}Can you believe I don't \neven hate that dude, \n{01 00 00 05 00}{04 02 00}.",
-   "et": ""
+   "et": "{07 00 00}Kas sa suudad uskuda, et \nma ei vihka seda tüüpi, \n{01 00 00 05 00}{04 02 00}."
   },
   {
    "id": 17,
    "en": "{07 00 00}Really?{01 01 00} I thought that guy\nwas just your average\notter until one day...\n...a stray soccer ball\nbeaned him in the head!\n\nAfter that, he turned into\nthis deep-thinking \nphilosopher, {01 00 00 05 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 00 00}Tõesti?{01 01 00} Ma arvasin, et see\ntüüp on lihtsalt tavaline\nsaarmas, kuni ühel päeval...\n...eksinud jalgpall\nvirutas talle vastu pead!\n\nPärast seda muutus ta\nsügavalt mõtlevaks \nfilosoofiks, {01 00 00 05 00}{04 02 00}!"
   },
   {
    "id": 18,
    "en": "{07 00 00}Really, {01 00 00 05 00}{04 02 00}?!{01 00 00 14 00} \nI heard he combs the beach\nfor rare stuff.\nCan you believe some of it\njust ends up washed up on\nthe beach?",
-   "et": ""
+   "et": "{07 00 00}Tõesti, {01 00 00 05 00}{04 02 00}?!{01 00 00 14 00} \nKuulsin, et ta kammib randa\nharuldaste asjade järele.\nKas suudad uskuda, et osa\nsellest lihtsalt uhutakse\nranda?"
   }
  ]
 }

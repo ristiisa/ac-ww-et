@@ -4,17 +4,17 @@
   {
    "id": 0,
    "en": "{07 00 00}Well{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}I guess I've spent\nenough time nosing around.{01 00 00 0a 00}\nI should probably get going.\n{07 14 00}{0b 03 00}{04 1f 00}{01 00 00 05 00}, I had a\nreally great time today!{01 00 00 05 00}\nThank you, {01 00 00 05 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 00 00}Noh{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}ma olen vist piisavalt\nkaua ringi nuuskinud.{01 00 00 0a 00}\nMa peaksin vist minema.\n{07 14 00}{0b 03 00}{04 1f 00}{01 00 00 05 00}, mul oli täna\ntõesti väga tore!{01 00 00 05 00}\nAitäh, {01 00 00 05 00}{04 02 00}!"
   },
   {
    "id": 1,
    "en": "{07 00 00}Well,{01 00 00 0f 00} {04 1f 00}, I don't\nwant to overstay my\nwelcome, {01 00 00 05 00}{04 02 00}.\n{07 1a 00}Guess it's time to hit the\nroad!{01 00 00 0f 00} {07 00 00}{07 0a 00}Thanks for the grand\ntour, {01 00 00 05 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 00 00}Noh,{01 00 00 0f 00} {04 1f 00}, ma ei taha\nkauemaks jääda, kui\nsobib, {01 00 00 05 00}{04 02 00}.\n{07 1a 00}Vist on aeg teele\nasuda!{01 00 00 0f 00} {07 00 00}{07 0a 00}Aitäh suure\nekskursiooni eest, {01 00 00 05 00}{04 02 00}!"
   },
   {
    "id": 2,
    "en": "{07 00 00}Listen, {01 00 00 05 00}{04 1f 00},{01 00 00 0a 00} I don't\nwant to be a bad guest,{01 00 00 05 00} so\nI'm going to take off now.\n{07 0d 00}But I had a wonderful day!{01 00 00 0a 00}\nPlease invite me over\nagain, {01 00 00 05 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 00 00}Kuule, {01 00 00 05 00}{04 1f 00},{01 00 00 0a 00} ma ei\ntaha olla halb külaline,{01 00 00 05 00} nii\net ma lähen nüüd ära.\n{07 0d 00}Aga mul oli imeline päev!{01 00 00 0a 00}\nPalun kutsu mind uuesti\nkülla, {01 00 00 05 00}{04 02 00}!"
   }
  ]
 }

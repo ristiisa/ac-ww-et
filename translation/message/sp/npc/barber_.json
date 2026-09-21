@@ -4,247 +4,247 @@
   {
    "id": 0,
    "en": "{07 0b 00}{01 00 00 0a 00}What'll it be today, sugar?{01 00 00 0a 00}\nThe usual? {07 11 00}{01 00 00 0a 00}Or something{01 00 00 05 00}\nwith a little more oomph?\n{07 04 00}Hmm?{01 01 00} {07 00 00}Oh, gosh.{01 00 00 05 00} I'm terribly\nsorry! I've gone and done it\nagain!{01 00 00 05 00} When will I remember?\n{07 0e 00}{01 00 00 05 00}All righty,{01 00 00 0a 00} where were we?{01 00 00 05 00}\nOh yeah,{01 00 00 0a 00} hi,{01 00 00 05 00} my name is\n{ff 00 00 06}Harriet{ff 00 00 00}.{01 00 00 05 00} What's yours?\n{07 0e 00}Hmm{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}. {07 0c 00}{01 00 00 0a 00}What?!{01 01 00} So your name\n{07 14 00}{01 00 00 0a 00}is {04 00 00}?!{01 00 00 0a 00} Seriously?!{01 00 00 14 00}\nWell, color me surprised!\nWith a name like that, I'll\nbet people are just as\nsweet as pie to you!\n{07 14 00}{01 00 00 0a 00}Say, {01 00 00 0a 00}mind if I called\nyou {ff 00 00 05}{04 00 00}{ff 00 00 00}-kins?{02 00 00 01 01}\nGo ahead.\nGimme a break!",
-   "et": ""
+   "et": "{07 0b 00}{01 00 00 0a 00}Mis täna saab, kullake?{01 00 00 0a 00}\nTavaline? {07 11 00}{01 00 00 0a 00}Või midagi{01 00 00 05 00}\nveidi hoogsamat?\n{07 04 00}Hmm?{01 01 00} {07 00 00}Oh, heldeke.{01 00 00 05 00} Mul on\nnii kahju! Tegin jälle\nsedasama!{01 00 00 05 00} Millal ma õpin?\n{07 0e 00}{01 00 00 05 00}Hea küll,{01 00 00 0a 00} kus me jäime?{01 00 00 05 00}\nAh jaa,{01 00 00 0a 00} tere,{01 00 00 05 00} minu nimi on\n{ff 00 00 06}Harriet{ff 00 00 00}.{01 00 00 05 00} Ja sinu?\n{07 0e 00}Hmm{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}. {07 0c 00}{01 00 00 0a 00}Mida?!{01 01 00} Sinu nimi\n{07 14 00}{01 00 00 0a 00}on {04 00 00}?!{01 00 00 0a 00} Tõesti?!{01 00 00 14 00}\nNo nüüd ma olen üllatunud!\nSellise nimega on\ninimesed sinuga kindlasti\nmagusad nagu koogike!\n{07 14 00}{01 00 00 0a 00}Kuule, {01 00 00 0a 00}kas võin kutsuda\nsind {ff 00 00 05}{04 00 00}{ff 00 00 00}-kalliks?{02 00 00 01 01}\nLase käia.\nÄra aja naerma!"
   },
   {
    "id": 1,
    "en": "{07 0c 00}Oh, right!{01 00 00 14 00} {07 00 00}I always forget\nI work at a fancy place\nnow, not the corner barber.\nI'll just call you by your\ngiven name, {01 00 00 0a 00}{04 00 00}!{01 00 00 0a 00}\n{07 14 00}Welcome to {ff 00 00 08}Shampoodle{ff 00 00 00}!{01 00 00 05 00}\nWe understand the crucial\nrole that hair plays in\nmodern life,\nso we pride ourselves on\noffering all the latest\nstyles.\nCute, nice, or spicy! We can\nmake any follicle fantasy\nyou have come true, sugar!\n{07 00 00}So,{01 00 00 05 00} what exactly do you\nwant{01 00 00 05 00} {07 0b 00}to get out of today's\nsession?{02 05 00 00 04 03}\nMake me over!\nUh, who are you?\nNothing at all!",
-   "et": ""
+   "et": "{07 0c 00}Oh, tõsi!{01 00 00 14 00} {07 00 00}Unustan alati,\net töötan nüüd peenes\nsalongis, mitte nurga taga.\nKutsun sind lihtsalt\neesnimepidi, {01 00 00 0a 00}{04 00 00}!{01 00 00 0a 00}\n{07 14 00}Tere tulemast {ff 00 00 08}Šampuudlisse{ff 00 00 00}!{01 00 00 05 00}\nMe mõistame, kui tähtsat\nrolli mängivad juuksed\ntänapäeva elus,\nseepärast oleme uhked, et\npakume kõiki uusimaid\nsoenguid.\nArmas, kena või vürtsikas!\nTäidame iga sinu\njuuksefantaasia, kullake!\n{07 00 00}Nii,{01 00 00 05 00} mida sa täpselt\ntahad{01 00 00 05 00} {07 0b 00}tänasest\nseansist?{02 05 00 00 04 03}\nTee mind uueks!\nEe, kes sa oled?\nMitte midagi!"
   },
   {
    "id": 2,
    "en": "Oh, yes.{01 00 00 0f 00} My hairdresser's\nintuition tells me that\nyou'd like a new 'do, shug!\n{07 19 00}No no no!{01 00 00 0a 00} Shhhh!{01 00 00 0a 00} You don't\nhave to say it!{01 00 00 0f 00} {07 00 00}I know what\nyou're thinking!{02 05 00 00 04 03}\nDo my hair!\nWho are you?\nUh, never mind.",
-   "et": ""
+   "et": "Oh jaa.{01 00 00 0f 00} Mu juuksuri-\nintuitsioon ütleb, et sa\ntahaksid uut soengut!\n{07 19 00}Ei ei ei!{01 00 00 0a 00} Tšš!{01 00 00 0a 00} Sa ei pea\nseda ütlema!{01 00 00 0f 00} {07 00 00}Ma tean, mida\nsa mõtled!{02 05 00 00 04 03}\nTee mu juuksed!\nKes sa oled?\nEe, pole midagi."
   },
   {
    "id": 3,
    "en": "{07 04 00}Really, sugar?{01 01 00} {07 00 00}{01 00 00 05 00}Well.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} I know\nhow hard it can be{01 00 00 0f 00} to let\ngo of a favorite style.",
-   "et": ""
+   "et": "{07 04 00}Tõesti?{01 01 00} {07 00 00}{01 00 00 05 00}Noh.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} Ma tean,\nkui raske on{01 00 00 0f 00} lemmiksoengust\nloobuda."
   },
   {
    "id": 4,
    "en": "{07 00 00}Who I am,{01 00 00 05 00} darling,{01 00 00 05 00} is a\nspinner of dreams! {01 00 00 05 00}{07 03 00}A fairy\ngodmother, if you will!\n{07 0b 00}You know that person deep\ndown inside who's just been\ndying to burst out?\nThe you at your best? {01 00 00 05 00}The\nyou who sparkles with wit?{01 00 00 05 00}{07 0d 00}\nThe you with {01 00 00 0a 00}amazing hair?!\nBasically, {07 19 00}I create styles\nthat express your truest,\nbest self!\n{07 0a 00}When you hear talk about\n{ff 00 00 06}Harriet{ff 00 00 00}, sweetie,{01 00 00 05 00} that's\nchatter about me!\n{07 00 00}Please share your sparkling\nimage of yourself{01 00 00 0a 00} with me\nanytime!\n{07 0d 00}It's my job to make that\ndream{01 00 00 05 00} a reality for you!\n\n{07 00 00}So,{01 00 00 05 00} what is it that you're{01 00 00 05 00}\n{07 0b 00}visualizing today?{02 05 00 00 04 03}\nDo my hair!\nWho are you?\nNothing.",
-   "et": ""
+   "et": "{07 00 00}Kes ma olen,{01 00 00 05 00} kallis,{01 00 00 05 00} on\nunenägude kuduja! {01 00 00 05 00}{07 03 00}Haldjas-\nristiema, kui soovid!\n{07 0b 00}Tead seda inimest sügaval\nsinu sees, kes lausa\nihkab välja pääseda?\nSina parimal kujul? {01 00 00 05 00}Sina,\nkes sädeleb vaimukusest?{01 00 00 05 00}{07 0d 00}\nSina {01 00 00 0a 00}imeliste juustega?!\nSisuliselt {07 19 00}loon soenguid,\nmis väljendavad su kõige\ntõelisemat, parimat mina!\n{07 0a 00}Kui sa kuuled juttu\n{ff 00 00 06}Harrietist{ff 00 00 00}, musike,{01 00 00 05 00} siis\nsee olen mina!\n{07 00 00}Jaga minuga oma sädelevat\nettekujutust endast{01 00 00 0a 00}\nmillal iganes!\n{07 0d 00}Minu töö on muuta see\nunistus{01 00 00 05 00} sinu jaoks tõeks!\n\n{07 00 00}Nii,{01 00 00 05 00} mida sa täna{01 00 00 05 00}\n{07 0b 00}ette kujutad?{02 05 00 00 04 03}\nTee mu juuksed!\nKes sa oled?\nMitte midagi."
   },
   {
    "id": 5,
    "en": "{07 16 00}Oh, sugar, {01 00 00 05 00}I'm so sorry!{01 00 00 0a 00}\nI've run out of shampoo\ntoday!",
-   "et": ""
+   "et": "{07 16 00}Oh, kullake, {01 00 00 05 00}mul on kahju!{01 00 00 0a 00}\nMul sai täna šampoon\notsa!"
   },
   {
    "id": 6,
    "en": "{07 14 00}That hairstyle{01 00 00 05 00} is utterly\nfabulous!\n\n{06 01 00 39 3a 3b}",
-   "et": ""
+   "et": "{07 14 00}See soeng{01 00 00 05 00} on lihtsalt\nvapustav!\n\n{06 01 00 39 3a 3b}"
   },
   {
    "id": 7,
    "en": "Aw, sugar.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} {07 0a 00}Your hair looks\nso nice, {01 00 00 05 00}it just warms my\nheart!",
-   "et": ""
+   "et": "Oh.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} {07 0a 00}Su juuksed näevad\nnii kenad välja, {01 00 00 05 00}et süda\nläheb soojaks!"
   },
   {
    "id": 8,
    "en": "{07 19 00}Ah,{01 00 00 05 00} mmm-hmmm,{01 00 00 05 00} yes,{01 00 00 05 00} leave\nit to me, sweetie.{01 00 00 05 00} {07 14 00}It'll be a\npiece of cake!\n{07 00 00}So how about{01 00 00 0a 00} {07 14 00}the shampoo,\ncut, and style{01 00 00 05 00} for 3,000\nBells?{02 04 00 00 03}\nLet's do it!\nNo way, lady!",
-   "et": ""
+   "et": "{07 19 00}Ah,{01 00 00 05 00} mmm-hmm,{01 00 00 05 00} jah,{01 00 00 05 00} jäta\nsee minu hooleks.{01 00 00 05 00} {07 14 00}See on\nkäkitegu!\n{07 00 00}Kuidas oleks{01 00 00 0a 00} {07 14 00}pesu, lõikuse\nja soenguga{01 00 00 05 00} 3000\nkella eest?{02 04 00 00 03}\nTeeme ära!\nEi mingil juhul!"
   },
   {
    "id": 9,
    "en": "{07 19 00}Ahh,{01 00 00 05 00} yes, {01 00 00 0a 00}of course.{01 00 00 0f 00} {07 00 00}Let me\nask you to look deep down\ninside you.\n{07 14 00}Now, what kind of hair does\nyour true self have?{02 07 00 0c 0c 0c 0c 0b}\nSafe...\nLighthearted!\nFiery!\nFlirty...\n{00 06 00}Somethin' else!",
-   "et": ""
+   "et": "{07 19 00}Ahh,{01 00 00 05 00} jah, {01 00 00 0a 00}muidugi.{01 00 00 0f 00} {07 00 00}Palun\nsul vaadata sügavale\nendasse.\n{07 14 00}Nii, millised juuksed on\nsinu tõelisel minal?{02 07 00 0c 0c 0c 0c 0b}\nTurvalised...\nMuretud!\nTulised!\nFlirtivad...\n{00 06 00}Midagi muud!"
   },
   {
    "id": 10,
    "en": "{07 04 00}So,{01 00 00 05 00} something a little\nwarmer?{01 00 00 0f 00} {07 19 00}It's true that you\ncan revamp your hair style\njust by playing with the\ncolor! {01 00 00 05 00}So, what direction\nshould we go in?{02 07 00 0c 0c 0c 0c 0b}\nSafe.\nLighthearted!\nFiery!\nFlirty...\n{00 06 00}Something else!",
-   "et": ""
+   "et": "{07 04 00}Nii,{01 00 00 05 00} midagi veidi\nsoojemat?{01 00 00 0f 00} {07 19 00}Tõsi, sa saad\nsoengut uuendada lihtsalt\nvärviga mängides!\n{01 00 00 05 00}Nii, mis suunas me\npeaksime minema?{02 07 00 0c 0c 0c 0c 0b}\nTurvaline.\nMuretu!\nTuline!\nFlirtiv...\n{00 06 00}Midagi muud!"
   },
   {
    "id": 11,
    "en": "{07 04 00}Oh,{01 00 00 0a 00} so you're looking for\nsomething cooler, hmm?{01 00 00 0f 00} {07 14 00}I've\ngot it! Leave it to me!\n{07 00 00}Sometimes, {01 00 00 05 00}warm colors just\ndon't match up with your\nvision of yourself!\n{07 14 00}Well, why don't you think\nagain about what kind of\nhair your true self has?{02 07 00 0c 0c 0c 0c 0a}\nMysterious!\nYoung!\nLush!\nRadiant!\n{00 06 00}Something else!",
-   "et": ""
+   "et": "{07 04 00}Oh,{01 00 00 0a 00} nii et sa otsid midagi\njahedamat, hmm?{01 00 00 0f 00} {07 14 00}Sain aru!\nJäta see minu hooleks!\n{07 00 00}Vahel {01 00 00 05 00}lihtsalt ei sobi soojad\nvärvid sinu ettekujutusega\niseendast!\n{07 14 00}Noh, mõtle veel kord,\nmillised juuksed on sinu\ntõelisel minal?{02 07 00 0c 0c 0c 0c 0a}\nSalapärased!\nNoored!\nLopsakad!\nSäravad!\n{00 06 00}Midagi muud!"
   },
   {
    "id": 12,
    "en": "{07 14 00}Right,{01 00 00 05 00} exactly!{01 00 00 0a 00} That's\nexactly what I mean, sugar!\n\n{07 00 00}So, {01 00 00 05 00}without further ado,{01 00 00 0a 00} let\nme begin this phase of your\ntransformation{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 14 00}This'll take a moment,{01 00 00 05 00} so\nplease just hold still for\na bit.",
-   "et": ""
+   "et": "{07 14 00}Just,{01 00 00 05 00} täpselt!{01 00 00 0a 00} Just seda\nma mõtlengi, kullake!\n\n{07 00 00}Nii, {01 00 00 05 00}ilma pikema jututa,{01 00 00 0a 00} las\nma alustan sinu muutumise\nseda etappi{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 14 00}See võtab hetke,{01 00 00 05 00} nii et\npalun istu natuke\npaigal."
   },
   {
    "id": 13,
    "en": "{07 0b 00}Well, what do you think?!{01 00 00 0f 00}\nIt's a whole new you, huh?!",
-   "et": ""
+   "et": "{07 0b 00}Noh, mis sa arvad?!{01 00 00 0f 00}\nSa oled täiesti uus, mis?!"
   },
   {
    "id": 14,
    "en": "{07 19 00}Wow!{01 00 00 05 00}{01 00 00 05 00} You look fabulous!{01 00 00 0f 00}\n{07 14 00}Just look at how the style\nmakes your eyes sparkle!\nWith this new hairstyle,{01 00 00 05 00}\nyou'll be the toast of\n{04 03 00}, {01 00 00 05 00}sugar!",
-   "et": ""
+   "et": "{07 19 00}Vau!{01 00 00 05 00}{01 00 00 05 00} Sa näed vapustav!{01 00 00 0f 00}\n{07 14 00}Vaata, kuidas see soeng\npaneb su silmad särama!\nSelle uue soenguga{01 00 00 05 00}\noled sa linna\n{04 03 00} täht, {01 00 00 05 00}kullake!"
   },
   {
    "id": 21,
    "en": "{07 00 00}You know,{01 00 00 05 00} {04 00 00},{01 00 00 05 00} while\nyour current style suits\nyou well enough{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 14 00}You'd look awfully cute in a\nfeminine style, too. {01 00 00 05 00}It's\nthe latest look for boys!{02 00 00 18 17}\nNo way!\nR-really?",
-   "et": ""
+   "et": "{07 00 00}Tead,{01 00 00 05 00} {04 00 00},{01 00 00 05 00} kuigi\npraegune soeng sobib\nsulle päris hästi{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 14 00}Sa näeksid armas välja ka\nnaiselikus stiilis. {01 00 00 05 00}See on\npoiste uusim trend!{02 00 00 18 17}\nEi mingil juhul!\nT-tõesti?"
   },
   {
    "id": 22,
    "en": "{07 00 00}You know, {04 00 00},{01 00 00 05 00} now\nthat I take a closer look\nat these lovely locks{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 14 00}I think a boyish pixie cut\nwould really bring out your\ncheekbones!{02 00 00 18 17}\nNot a chance!\nMaybe...",
-   "et": ""
+   "et": "{07 00 00}Tead, {04 00 00},{01 00 00 05 00} nüüd kui\nma neid armsaid lokke\nlähemalt vaatan{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 14 00}Arvan, et poisilik lühike\nlõikus tõstaks põsesarnad\ntõeliselt esile!{02 00 00 18 17}\nEi mingil juhul!\nVõib-olla..."
   },
   {
    "id": 23,
    "en": "{07 0d 00}Oh yes, definitely! {01 00 00 05 00}An\nimportant part of personal\ngrowth is an open mind!\n{07 14 00}So tell me exactly what\nlook you envision for\nyourself!",
-   "et": ""
+   "et": "{07 0d 00}Oh jaa, kindlasti! {01 00 00 05 00}Avatud\nmeel on isikliku kasvu\ntähtis osa!\n{07 14 00}Nii et ütle täpselt,\nmillisena sa end\nette kujutad!"
   },
   {
    "id": 24,
    "en": "{07 04 00}Oh! {01 00 00 0a 00}I{01 00 00 05 00}-I'm awfully sorry,\nsugar! {01 00 00 0a 00}I didn't mean to\noffend you!\n{07 00 00}I've always thought the\nnatural look was also quite\nbecoming on you!\n{07 14 00}Well, why don't you tell me\nhow you envision your\nfinished look.",
-   "et": ""
+   "et": "{07 04 00}Oh! {01 00 00 0a 00}M{01 00 00 05 00}-mul on nii kahju,\nkullake! {01 00 00 0a 00}Ma ei tahtnud\nsind solvata!\n{07 00 00}Olen alati arvanud, et\nloomulik välimus sobib\nsulle samuti väga hästi!\n{07 14 00}Noh, ütle mulle, millisena\nsa oma valmis välimust\nette kujutad."
   },
   {
    "id": 31,
    "en": "{07 00 00}Hmm.{01 00 00 0a 00} Now,{01 00 00 05 00} tell me, sugar,{01 00 00 05 00}\n{07 0b 00}when do you want your style\nto REALLY come alive?{02 00 00 24 28}\nEvery day.\nBig nights!",
-   "et": ""
+   "et": "{07 00 00}Hmm.{01 00 00 0a 00} Nii,{01 00 00 05 00} ütle, kullake,{01 00 00 05 00}\n{07 0b 00}millal peaks su soeng\nTÕELISELT särama?{02 00 00 24 28}\nIga päev.\nSuurtel õhtutel!"
   },
   {
    "id": 34,
    "en": "{07 19 00}I see, {01 00 00 05 00}that makes sense.{01 00 00 0a 00}\n{07 14 00}I think I know what image\nyou're going for.\n{07 00 00}I just have one question \nto ask you.\n\nIf you were rushing to get\nto the salon and {07 16 00}someone\nwere to call to you,\n{07 0b 00}what would{01 00 00 05 00} you do?{02 00 00 34 33}\nGrin and say hi!\nIgnore 'em!",
-   "et": ""
+   "et": "{07 19 00}Selge, {01 00 00 05 00}see on mõistetav.{01 00 00 0a 00}\n{07 14 00}Arvan, et tean, millist\nkuvandit sa taotled.\n{07 00 00}Mul on sulle veel üks \nküsimus.\n\nKui sa kiirustaksid\nsalongi ja {07 16 00}keegi\nhüüaks sind,\n{07 0b 00}mida sa{01 00 00 05 00} teeksid?{02 00 00 34 33}\nNaeratan ja tervitan!\nIgnoreerin!"
   },
   {
    "id": 36,
    "en": "{07 19 00}Oh yes, I get it.{01 00 00 0f 00} {07 14 00}You want\na low-fuss style to match\nyour low-fuss life.\n{07 00 00}Yes, you definitely strike\nme as the outdoorsy type.\n\n{07 0b 00}Do you like the sun?  {01 00 00 0f 00}\nHow does it make you feel?{02 00 00 22 2e}\nWarm...\nSweaty!",
-   "et": ""
+   "et": "{07 19 00}Oh jaa, sain aru.{01 00 00 0f 00} {07 14 00}Sa tahad\nlihtsat soengut, mis sobib\nsu lihtsa eluga.\n{07 00 00}Jah, sa mõjud kindlasti\nlooduslembese tüübina.\n\n{07 0b 00}Kas sulle meeldib päike?  {01 00 00 0f 00}\nMis tunde see sulle tekitab?{02 00 00 22 2e}\nSoe...\nHigine!"
   },
   {
    "id": 40,
    "en": "{07 19 00}Yes, of course!{01 00 00 0f 00} {07 14 00}Of course\nyou want to look your best\nfor important occasions!\n{07 00 00}I'll bet{01 00 00 05 00} you're just {07 0b 00}the\ntoast of every party,\naren't you!{02 00 00 2d 2c}\nWell, duh!\nUnfortunately...",
-   "et": ""
+   "et": "{07 19 00}Jah, muidugi!{01 00 00 0f 00} {07 14 00}Muidugi tahad\nsa tähtsatel puhkudel\nparim välja näha!\n{07 00 00}Kihla vean,{01 00 00 05 00} et sa oled {07 0b 00}iga\npeo täht,\nkas pole!{02 00 00 2d 2c}\nNo muidugi!\nKahjuks mitte..."
   },
   {
    "id": 44,
    "en": "{07 14 00}That's the spirit!{01 00 00 14 00} People\ndon't get all dolled up for\nshindigs like they used to!\n{07 0f 00}It's a shame, {01 00 00 0a 00}really. {01 00 00 14 00}{07 00 00}{01 00 00 14 00}Well,{01 00 00 05 00}\nwill you tell me a bit {07 0b 00}about\nyour primping routine?{02 00 00 30 2f}\nI'd rather not.\nI'm embarrassed!",
-   "et": ""
+   "et": "{07 14 00}See on õige vaim!{01 00 00 14 00} Inimesed\nei ehi end enam pidudeks\nnii nagu vanasti!\n{07 0f 00}Kahju, {01 00 00 0a 00}tõesti. {01 00 00 14 00}{07 00 00}{01 00 00 14 00}Noh,{01 00 00 05 00}\nkas räägid mulle veidi {07 0b 00}oma\niluprotseduuridest?{02 00 00 30 2f}\nPigem mitte.\nMul on piinlik!"
   },
   {
    "id": 45,
    "en": "{07 19 00}Yep, I sure did suspect\nthat you'd say that!{01 00 00 0f 00} {07 00 00}Well\nthen, please tell me...\n{07 14 00}If your ideal hairstyle\nwere a song, {07 0b 00}what kind of\nsong would it be?{02 00 00 35 32}\nPower ballad.\nRAWK!",
-   "et": ""
+   "et": "{07 19 00}Jah, ma kahtlustasingi,\net sa seda ütled!{01 00 00 0f 00} {07 00 00}Noh,\nsiis ütle mulle...\n{07 14 00}Kui su ideaalne soeng\noleks laul, {07 0b 00}milline laul\nsee oleks?{02 00 00 35 32}\nVõimas ballaad.\nROKK!"
   },
   {
    "id": 46,
    "en": "{07 19 00}You've got that right.{01 00 00 0f 00} {07 14 00}The\nsun can be very damaging\nto the skin,\nand it can also cause\nunsightly sweating.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{01 01 00}or, in\nmy case, {07 17 00}{01 00 00 05 00}panting.\n{07 14 00}OK then,{01 00 00 05 00} next, I'm going to\nask you about your fashion\nsense.\n{07 15 00}Answer me truthfully.{01 01 00} {07 0b 00}Are\nclothes important to you?{02 00 00 36 31}\nOh, yeah!\nNah.",
-   "et": ""
+   "et": "{07 19 00}Sul on õigus.{01 00 00 0f 00} {07 14 00}Päike võib\nnahka väga palju\nkahjustada\nja see võib põhjustada ka\nkoledat higistamist.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{01 01 00}või mul\npuhul {07 17 00}{01 00 00 05 00}lõõtsutamist.\n{07 14 00}Olgu siis,{01 00 00 05 00} järgmiseks küsin\nsinu moemaitse\nkohta.\n{07 15 00}Vasta ausalt.{01 01 00} {07 0b 00}Kas riided\non sulle tähtsad?{02 00 00 36 31}\nOh jaa!\nEi eriti."
   },
   {
    "id": 47,
    "en": "{07 19 00}Aha, yes yes yes.{01 00 00 0f 00} {07 14 00}It's all\nbecoming clear to me...\n\n{07 00 00}You can be a bit\nstandoffish, and maybe a\nlittle lonely at times{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00}\n{07 0c 00}Yes, you're definitely the\n{ff 00 00 02}reserved type{ff 00 00 00}!{01 01 00} {07 00 00}So, about\nthat mop of yours{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0f 00}\nWhat kind of hue are you\nlooking for?{02 00 00 09 38}\nSomething warm.\nSomething cold.",
-   "et": ""
+   "et": "{07 19 00}Ahaa, jah jah jah.{01 00 00 0f 00} {07 14 00}Kõik\nhakkab mulle selgeks...\n\n{07 00 00}Sa võid olla veidi\ntõrjuv ja vahel ehk\npisut üksildane{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00}\n{07 0c 00}Jah, sa oled kindlasti\n{ff 00 00 02}tagasihoidlik tüüp{ff 00 00 00}!{01 01 00} {07 00 00}Nii, selle\nsu juuksepahmaka kohta{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0f 00}\nMillist tooni sa\notsid?{02 00 00 09 38}\nMidagi sooja.\nMidagi jahedat."
   },
   {
    "id": 48,
    "en": ".{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 19 00}Ah, yes yes yes.{01 00 00 0f 00} {07 14 00}I think\nI understand you just fine,\nsugar.\n{07 00 00}You've found your place in\nthe world and like where\nyou are{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00}\n{07 0c 00}I'd call you the {ff 00 00 02}confident\ntype{ff 00 00 00}. {07 00 00}Now I must ask you\nabout the color{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0f 00}\nWhat kind of color do you\nenvision for where you are\nin life?{02 00 00 09 38}\nSomething warm.\nSomething cold.",
-   "et": ""
+   "et": ".{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 19 00}Ah, jah jah jah.{01 00 00 0f 00} {07 14 00}Arvan, et\nmõistan sind päris hästi,\nkullake.\n{07 00 00}Sa oled leidnud oma koha\nmaailmas ja sulle meeldib,\nkus sa oled{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00}\n{07 0c 00}Sa oled {ff 00 00 02}enesekindel\ntüüp{ff 00 00 00}. {07 00 00}Nüüd pean küsima\nvärvi kohta{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0f 00}\nMillist värvi sa\nette kujutad oma praeguse\nelukoha jaoks?{02 00 00 09 38}\nMidagi sooja.\nMidagi jahedat."
   },
   {
    "id": 49,
    "en": "{07 19 00}All right then.{01 00 00 0f 00} {07 14 00}I think I've\ngot a good read on you.\n{01 01 00}{07 0c 00}You're the {ff 00 00 02}laid-back type{ff 00 00 00}!\n{07 00 00}And finally about the hair \ncolor{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0f 00} Which do you think\nthe inner you would have?{02 00 00 09 38}\nWarm!\nCool!",
-   "et": ""
+   "et": "{07 19 00}Hea küll.{01 00 00 0f 00} {07 14 00}Arvan, et olen\nsind hästi läbi näinud.\n{01 01 00}{07 0c 00}Sa oled {ff 00 00 02}muretu tüüp{ff 00 00 00}!\n{07 00 00}Ja lõpuks juuksevärvi \nkohta{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0f 00} Millise valiks\nsinu sisemine mina?{02 00 00 09 38}\nSoe!\nJahe!"
   },
   {
    "id": 50,
    "en": "{07 19 00}Ah, yes!{01 00 00 0f 00} {07 14 00}Now I'm getting\nthe picture! {01 01 00}{07 0c 00}You're the\n{ff 00 00 02}fun-loving type{ff 00 00 00}!\n{07 00 00}And finally, about the hair \ncolor{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0f 00} What do you think\nreflects the real you?{02 00 00 09 38}\nHOT! HOT! HOT!\nBrrr...",
-   "et": ""
+   "et": "{07 19 00}Ah, jah!{01 00 00 0f 00} {07 14 00}Nüüd saan pildi\nette! {01 01 00}{07 0c 00}Sa oled\n{ff 00 00 02}lõbujanuline tüüp{ff 00 00 00}!\n{07 00 00}Ja lõpuks juuksevärvi \nkohta{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0f 00} Mis peegeldab\nsinu arvates päris sind?{02 00 00 09 38}\nKUUM! KUUM!\nBrrr..."
   },
   {
    "id": 51,
    "en": "{07 19 00}Well, grooming IS very\nimportant,{01 00 00 0f 00} so I can't say I\nblame you.\n{07 0d 00}Now that I think about it,\nyou're definitely the {ff 00 00 02}self-\nassured type{ff 00 00 00}, aren't you?!\n{07 00 00}Well, anyway, about that\nhair of yours{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0f 00} What did\nyou have in mind?{02 00 00 09 38}\nWarm colors!\nCool colors!",
-   "et": ""
+   "et": "{07 19 00}Noh, hoolitsus ON väga\ntähtis,{01 00 00 0f 00} nii et ma ei saa\nsind süüdistada.\n{07 0d 00}Nüüd kui ma mõtlen,\nsa oled kindlasti {ff 00 00 02}ene-\nsekindel tüüp{ff 00 00 00}, kas pole?!\n{07 00 00}Noh, igatahes, nende su\njuuste kohta{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0f 00} Mis sul\nmõttes oli?{02 00 00 09 38}\nSoojad värvid!\nJahedad värvid!"
   },
   {
    "id": 52,
    "en": "{07 19 00}Oh, of course.{01 00 00 05 00} I should have\nknown! {01 00 00 0f 00}{07 14 00}I've almost got your\nstyle in my head...\n{07 00 00}You're the kind of person\nwho makes others happy.\n\nIn the beauty business,\nwe'd call your type {07 0d 00}the\n{ff 00 00 02}warm type{ff 00 00 00}.\n{07 00 00}All right then. {01 00 00 0a 00}So, about\nthe color{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0f 00} What did you\nhave in mind, sweetie?{02 00 00 09 38}\nWarm.\nCold.",
-   "et": ""
+   "et": "{07 19 00}Oh, muidugi.{01 00 00 05 00} Oleksin pidanud\nteadma! {01 00 00 0f 00}{07 14 00}Mul on su soeng\npeaaegu peas...\n{07 00 00}Sa oled inimene, kes teeb\nteised õnnelikuks.\n\nIlutööstuses nimetaksime\nsu tüüpi {07 0d 00}\n{ff 00 00 02}soojaks tüübiks{ff 00 00 00}.\n{07 00 00}Hea küll. {01 00 00 0a 00}Nii, värvi\nkohta{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0f 00} Mis sul\nmõttes oli, musike?{02 00 00 09 38}\nSoe.\nJahe."
   },
   {
    "id": 53,
    "en": "{07 19 00}I knew you'd say that!{01 00 00 0f 00}\n{07 00 00}You have this sentimental\nside to you, so I'd say...\n{07 0c 00}You're the {ff 00 00 02}approachable\ntype{ff 00 00 00}! {01 01 00}{07 00 00}Well, {01 00 00 0a 00}back to your\nhair color{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0f 00}\nWhat direction would you\nlike to go in, sugar?{02 00 00 09 38}\nToasty warm!\nIcy cold!",
-   "et": ""
+   "et": "{07 19 00}Teadsin, et sa seda ütled!{01 00 00 0f 00}\n{07 00 00}Sul on sentimentaalne\nkülg, nii et ütleksin...\n{07 0c 00}Sa oled {ff 00 00 02}avatud\ntüüp{ff 00 00 00}! {01 01 00}{07 00 00}Noh, {01 00 00 0a 00}tagasi su\njuuksevärvi juurde{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0f 00}\nMis suunas sa tahaksid\nminna, kullake?{02 00 00 09 38}\nSoe ja mõnus!\nJääkülm!"
   },
   {
    "id": 54,
    "en": ".{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 19 00}Mmm-hmmm. OK.{01 00 00 0f 00} {07 14 00}I think\nI've got it! {01 00 00 05 00}In the beauty\nbiz, {01 00 00 05 00}we'd call your style...\n{07 0c 00}the {ff 00 00 02}trendy type{ff 00 00 00}. {01 00 00 05 00}You enjoy\nonly the most cutting-edge\nof styles, don't you?!\n{07 00 00}Well, about your hair\ncolor{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0f 00} How do envision\nyour dream color?{02 00 00 09 38}\nWarm and toasty.\nCold and frosty!",
-   "et": ""
+   "et": ".{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 19 00}Mmm-hmm. Olgu.{01 00 00 0f 00} {07 14 00}Arvan, et\nsain aru! {01 00 00 05 00}Ilutööstuses\n{01 00 00 05 00}nimetaksime su stiili...\n{07 0c 00}{ff 00 00 02}trendikaks tüübiks{ff 00 00 00}. {01 00 00 05 00}Sulle\nmeeldivad ainult kõige\nuuemad stiilid, kas pole?!\n{07 00 00}Noh, su juuksevärvi\nkohta{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0f 00} Millisena sa\nunistuste värvi näed?{02 00 00 09 38}\nSoe ja mõnus.\nKülm ja jäine!"
   },
   {
    "id": 55,
    "en": "{07 14 00}Now, {01 00 00 05 00}don't fret. {01 00 00 0a 00}At first\nglance,{01 00 00 05 00} it might not look\nlike your hair's changed...\nBut if you look closely,\nyou'll see that I've blow-\ndried and{01 00 00 05 00} reset it for you!\n{07 19 00}After all, {04 00 00}, this\nis the style that seems to {01 00 00 05 00}\nsuit you best!\nNow, {01 00 00 05 00}get out there and {07 14 00}soak\nup the adoring looks from\neveryone in {04 03 00}!",
-   "et": ""
+   "et": "{07 14 00}Nüüd, {01 00 00 05 00}ära muretse. {01 00 00 0a 00}Algul\n{01 00 00 05 00}ei pruugi tunduda, et su\njuuksed on muutunud...\nAga kui lähemalt vaadata,\nnäed, et ma föönitasin ja{01 00 00 05 00}\nseadsin need sulle uuesti!\n{07 19 00}Lõppude lõpuks, {04 00 00},\nsee on soeng, mis sulle {01 00 00 05 00}\nkõige paremini sobib!\nNüüd, {01 00 00 05 00}mine välja ja {07 14 00}naudi\nimetlevaid pilke kõigilt\nlinnas {04 03 00}!"
   },
   {
    "id": 56,
    "en": "{07 19 00}Ah, {01 00 00 05 00}yes.{01 00 00 0f 00} {07 00 00}I should have\nguessed.{01 01 00} So, shug, what\ndirection speaks to you?{02 07 00 0c 0c 0c 0c 0a}\nMysterious!\nYoung!\nLush!\nRadiant!\n{00 06 00}Something else.",
-   "et": ""
+   "et": "{07 19 00}Ah, {01 00 00 05 00}jah.{01 00 00 0f 00} {07 00 00}Oleksin pidanud\narvama.{01 01 00} Nii, kullake, mis\nsuund sind kõnetab?{02 07 00 0c 0c 0c 0c 0a}\nSalapärane!\nNoor!\nLopsakas!\nSärav!\n{00 06 00}Midagi muud."
   },
   {
    "id": 57,
    "en": "{07 00 00}You found the way{01 00 00 0a 00} to stun\npeople, {04 00 00}! .{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 14 00}And\nit was right inside you!",
-   "et": ""
+   "et": "{07 00 00}Sa leidsid viisi{01 00 00 0a 00} inimeste\nrabamiseks, {04 00 00}! .{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 14 00}Ja\nsee oli sinu sees!"
   },
   {
    "id": 58,
    "en": "{07 19 00}With that hair, no one will\never be able to say no to\nyou! {01 00 00 0f 00}{07 14 00}I guarantee it!",
-   "et": ""
+   "et": "{07 19 00}Selliste juustega ei suuda\nkeegi sulle kunagi ei\nöelda! {01 00 00 0f 00}{07 14 00}Garanteerin!"
   },
   {
    "id": 59,
    "en": "{07 0a 00}You're positively glowing,\nsugar!{01 01 00} {07 14 00}You're all set for a\nbig night out now!",
-   "et": ""
+   "et": "{07 0a 00}Sa lausa särad,\nkullake!{01 01 00} {07 14 00}Nüüd oled valmis\nsuureks õhtuks!"
   },
   {
    "id": 60,
    "en": "{07 04 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00}{07 19 00}Yes,{01 00 00 0f 00} that'll do nicely.{07 00 00}\n\n\n{07 14 00}Now, {01 00 00 05 00}be a dear and wait for\nme in that seat in front of\nthe mirror!",
-   "et": ""
+   "et": "{07 04 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00}{07 19 00}Jah,{01 00 00 0f 00} see sobib kenasti.{07 00 00}\n\n\n{07 14 00}Nüüd, {01 00 00 05 00}ole kullake ja oota\nmind seal toolil\npeegli ees!"
   },
   {
    "id": 61,
    "en": "{07 14 00}All right then, shug{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0f 00} I've\n{01 00 00 05 00}got to prep everything for\nyour session.\n{07 00 00}In the meantime, {01 00 00 05 00}go on and\nsit in that chair and make\nyourself comfortable.",
-   "et": ""
+   "et": "{07 14 00}Hea küll, kullake{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0f 00} Pean\n{01 00 00 05 00}kõik sinu seansiks\nette valmistama.\n{07 00 00}Vahepeal {01 00 00 05 00}mine istu sinna\ntoolile ja tunne end\nmugavalt."
   },
   {
    "id": 62,
    "en": "Well then, sugar,{01 00 00 0f 00} in order\nto give you a style that\nreflects the true you,\n{07 14 00}I'm going to ask you a\nfew questions first.",
-   "et": ""
+   "et": "Noh siis, kullake,{01 00 00 0f 00} et anda\nsulle soeng, mis peegeldab\nsu tõelist mina,\n{07 14 00}küsin sinult kõigepealt\npaar küsimust."
   },
   {
    "id": 63,
    "en": "{07 04 00}Oh, {04 00 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} I don't\nknow how to put this,{01 00 00 05 00} so\nI'll just say it.\nYou seem to be short on\nfunds!",
-   "et": ""
+   "et": "{07 04 00}Oh, {04 00 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} Ma ei tea,\nkuidas seda öelda,{01 00 00 05 00} nii et\nütlen lihtsalt välja.\nSul näib rahast\npuudu jäävat!"
   },
   {
    "id": 64,
    "en": "{07 1d 00}All right then!{01 01 00} {07 14 00}I'll need to\ntake these things off your\nhead before I get started.",
-   "et": ""
+   "et": "{07 1d 00}Hea küll!{01 01 00} {07 14 00}Pean need asjad\nsu peast ära võtma,\nenne kui alustan."
   },
   {
    "id": 65,
    "en": "{07 14 00}Well, then,{01 00 00 05 00} here are your\nbelongings back!",
-   "et": ""
+   "et": "{07 14 00}Noh siis,{01 00 00 05 00} siin on su\nasjad tagasi!"
   },
   {
    "id": 66,
    "en": "{07 04 00}Oh, {04 00 00}, where are\nyou going?{01 00 00 14 00} You've already\npaid!{01 00 00 05 00} You can't just leave!\n{07 01 00}Don't you want to see what\nyour inner self looks like?",
-   "et": ""
+   "et": "{07 04 00}Oh, {04 00 00}, kuhu sa\nlähed?{01 00 00 14 00} Sa oled juba\nmaksnud!{01 00 00 05 00} Sa ei saa ära\n{07 01 00}minna! Kas sa ei taha näha,\nmilline su sisemine mina on?"
   },
   {
    "id": 67,
    "en": "Hey there, sugar!{01 00 00 0a 00} {07 14 00}Welcome\nto {ff 00 00 08}Shampoodle{ff 00 00 00}!",
-   "et": ""
+   "et": "Tere, kullake!{01 00 00 0a 00} {07 14 00}Tere tulemast\n{ff 00 00 08}Šampuudlisse{ff 00 00 00}!"
   },
   {
    "id": 69,
    "en": "{07 04 00}Oh!{01 00 00 0f 00} Not there!{01 00 00 05 00} {07 00 00}Would you sit\nin the chair by the drying\nhood?",
-   "et": ""
+   "et": "{07 04 00}Oh!{01 00 00 0f 00} Mitte sinna!{01 00 00 05 00} {07 00 00}Istu\ntoolile kuivatuskupli\njuures?"
   },
   {
    "id": 70,
    "en": "{07 14 00}Come again whenever you\nwant to update your look!",
-   "et": ""
+   "et": "{07 14 00}Tule jälle, kui tahad\noma välimust uuendada!"
   }
  ]
 }

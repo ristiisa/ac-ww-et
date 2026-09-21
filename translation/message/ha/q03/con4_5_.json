@@ -4,17 +4,17 @@
   {
    "id": 0,
    "en": "{07 16 00}Man, it's so HARD to find a\ndang{ff 00 00 02} {04 0f 00}\n{ff 00 00 00}fossil, {01 00 00 05 00}{04 02 00}!\n{07 06 00}Look, {04 1f 00}, if you\nhelp me, I've at least got\na shot at finding one!",
-   "et": ""
+   "et": "{07 16 00}Mees, nii RASKE on leida\npagana{ff 00 00 02} {04 0f 00}\n{ff 00 00 00}fossiili, {01 00 00 05 00}{04 02 00}!\n{07 06 00}Vaata, {04 1f 00}, kui sa\nmind aitad, on mul vähemalt\nlootust üks leida!"
   },
   {
    "id": 1,
    "en": "{07 00 00}Once I started picturing a\nperfect, fully completed \n{ff 00 00 02}{04 0f 00}{ff 00 00 00}...\n{07 06 00}I got super pumped!{01 01 00}\n{07 05 00}AAAARGH!!{01 00 00 0a 00} I've gotta dig one\nof 'em up, {01 00 00 05 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 00 00}Kui ma hakkasin ette\nkujutama täiuslikku, päris \nvalmis {ff 00 00 02}{04 0f 00}{ff 00 00 00}...\n{07 06 00}läksin ma täitsa hoogu!{01 01 00}\n{07 05 00}AAAARGH!!{01 00 00 0a 00} Ma pean ühe\nvälja kaevama, {01 00 00 05 00}{04 02 00}!"
   },
   {
    "id": 2,
    "en": "{07 06 00}I just can't get an entire{ff 00 00 02}\n{04 0f 00}{ff 00 00 00}!{01 00 00 05 00} Nope.{01 00 00 05 00}\nImpossible, {01 00 00 05 00}{04 02 00}!\n{07 15 00}YOU! {01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}Instead of digging\njust for you, {01 00 00 05 00}{07 05 00}hook me up\na little bit, huh?",
-   "et": ""
+   "et": "{07 06 00}Ma lihtsalt ei saa tervet{ff 00 00 02}\n{04 0f 00}{ff 00 00 00}!{01 00 00 05 00} Ei.{01 00 00 05 00}\nVõimatu, {01 00 00 05 00}{04 02 00}!\n{07 15 00}SINA! {01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}Ära kaeva ainult\nendale, {01 00 00 05 00}{07 05 00}aita natuke\nka mind, mis?"
   }
  ]
 }

@@ -4,92 +4,92 @@
   {
    "id": 0,
    "en": "{09 01 00}{09 08 00}{07 00 00}{ff 00 00 06}{04 10 00}{ff 00 00 00},{01 00 00 0f 00} I hear you've\nbeen eating{01 00 00 05 00} {07 0b 00}\"diet\n{04 12 00}\"?\n{07 01 00}{01 08 00}WHY?! {01 00 00 05 00}Everyone knows that\ndiet food is a crime\nagainst humanity!{09 09 00}",
-   "et": ""
+   "et": "{09 01 00}{09 08 00}{07 00 00}{ff 00 00 06}{04 10 00}{ff 00 00 00},{01 00 00 0f 00} kuulsin, et sa\noled söönud{01 00 00 05 00} {07 0b 00}„dieedi-\n{04 12 00}”?\n{07 01 00}{01 08 00}MIKS?! {01 00 00 05 00}Kõik teavad, et\ndieettoit on kuritegu\ninimkonna vastu!{09 09 00}"
   },
   {
    "id": 1,
    "en": "{09 01 00}{09 08 00}{07 16 00}Hey, {ff 00 00 06}{01 00 00 05 00}{04 10 00}{ff 00 00 00},{01 00 00 0f 00} not to be\nrude, but {01 00 00 05 00}{07 0b 00}don't you think\nyour outfit's kinda tight?\n{07 15 00}You look like an\noverstuffed sausage, and I,{01 00 00 05 00}\nfor one,{01 00 00 05 00}{01 08 00} am offended!{09 09 00}",
-   "et": ""
+   "et": "{09 01 00}{09 08 00}{07 16 00}Hei, {ff 00 00 06}{01 00 00 05 00}{04 10 00}{ff 00 00 00},{01 00 00 0f 00} ei taha\nebaviisakas olla, {01 00 00 05 00}{07 0b 00}aga kas\nsu rõivas pole kitsas?\n{07 15 00}Sa näed välja nagu\nületuubitud vorst, ja mina,{01 00 00 05 00}\nnäiteks,{01 00 00 05 00}{01 08 00} olen solvunud!{09 09 00}"
   },
   {
    "id": 2,
    "en": "{09 01 00}{09 04 00}Oh, hey, {01 00 00 05 00}{04 1f 00}!{01 00 00 0f 00} Great\ntiming!{09 02 00}{09 04 00}{09 01 00}\n\n{07 14 00}I was just {01 00 00 05 00}taking a\npersonality quiz. {01 00 00 05 00}Do you\nwant to take it, too?\nOK! Great! {01 00 00 05 00}{07 0b 00}What role does\nthe wristwatch play in your\nlife?{02 03 00 0c 0c 0c 0c 0c}\nAccessory!\nConvenience!\nPart of my arm!\nWrist guard!\nNone.",
-   "et": ""
+   "et": "{09 01 00}{09 04 00}Oi, {01 00 00 05 00}{04 1f 00}!{01 00 00 0f 00} Tore\najastus!{09 02 00}{09 04 00}{09 01 00}\n\n{07 14 00}Tegin just {01 00 00 05 00}isiksuse-\ntesti. {01 00 00 05 00}Kas sa tahad\nseda ka teha?\nOlgu! Tore! {01 00 00 05 00}{07 0b 00}Mis rolli\nmängib randmekell sinu\nelus?{02 03 00 0c 0c 0c 0c 0c}\nAksessuaar!\nMugavus!\nOsa mu käest!\nRandmekaitse!\nMitte mingit."
   },
   {
    "id": 3,
    "en": "{09 00 00}{09 08 00}{09 02 00}{07 14 00}Oh, {01 00 00 03 00}uh,{01 00 00 03 00} what?!{01 00 00 0f 00} I only eat it{01 00 00 03 00}\nmorning, {01 00 00 05 00}noon, {01 00 00 05 00}and night.\nIt,{01 00 00 03 00} uh,{01 00 00 03 00} fills in the gaps.\n{07 06 00}I just get so hungry\nbetween meals, you know?{01 01 00} {07 1c 00}{01 00 00 0a 00}\nNo, you wouldn't understand.\n{07 08 00}NO ONE EVER UNDERSTANDS ME!{01 00 00 0a 00}\nI'M HUNGRY ALL THE TIME AND\nNO ONE CAAARES!{09 09 00}",
-   "et": ""
+   "et": "{09 00 00}{09 08 00}{09 02 00}{07 14 00}Oh, {01 00 00 03 00}ee,{01 00 00 03 00} mida?!{01 00 00 0f 00} Söön seda{01 00 00 03 00}\nhommikul, {01 00 00 05 00}lõunal {01 00 00 05 00}ja õhtul.\nSee,{01 00 00 03 00} ee,{01 00 00 03 00} täidab tühimikud.\n{07 06 00}Mul lihtsalt läheb söögi\nvahel nii kõht tühjaks?{01 01 00} {07 1c 00}{01 00 00 0a 00}\nEi, sa ei mõistaks.\n{07 08 00}KEEGI EI MÕISTA MIND!{01 00 00 0a 00}\nMUL ON ALATI KÕHT TÜHI JA\nKEEGI EI HOOLIIII!{09 09 00}"
   },
   {
    "id": 4,
    "en": "{09 00 00}{09 06 00}{09 01 00}{09 08 00}{07 01 00}I mean, what will they come\nup with next?! {01 00 00 05 00}{01 08 00}DIET BUTTER?!{01 00 00 05 00}\n{01 08 00}LOW-CARB POTATO NUBS?!\n{07 09 00}{01 00 00 05 00}I don't want to live in a\nworld where I have to eat\nsugar-free sugar cookies.",
-   "et": ""
+   "et": "{09 00 00}{09 06 00}{09 01 00}{09 08 00}{07 01 00}Mis nad järgmisena\nvälja mõtlevad?! {01 00 00 05 00}{01 08 00}DIEETVÕI?!{01 00 00 05 00}\n{01 08 00}SÜSIVESIKUVABA KARTUL?!\n{07 09 00}{01 00 00 05 00}Ma ei taha elada\nmaailmas, kus pean sööma\nsuhkruvabu küpsiseid."
   },
   {
    "id": 5,
    "en": "{09 00 00}{09 08 00}{09 02 00}{09 06 00}{07 0b 00}You think so?{01 01 00} {07 16 00}I just bought\nthis outfit, too! {01 00 00 05 00}This is a\ntotal downer, {01 00 00 05 00}{04 02 00}.\nMaybe I ate too much {01 00 00 05 00}\n{04 13 00}\nyesterday!{09 09 00}",
-   "et": ""
+   "et": "{09 00 00}{09 08 00}{09 02 00}{09 06 00}{07 0b 00}Kas tõesti?{01 01 00} {07 16 00}Ostsin selle\nrõiva just! {01 00 00 05 00}See on täielik\npettumus, {01 00 00 05 00}{04 02 00}.\nEhk sõin eile liiga palju {01 00 00 05 00}\n{04 13 00}\n!{09 09 00}"
   },
   {
    "id": 6,
    "en": "{09 00 00}{09 06 00}Tee hee hee! {01 00 00 0f 00}{09 01 00}{09 04 00}{09 02 00}{09 04 00}{09 01 00}Well{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00}\n{0b 03 00}{04 1f 00}, what do you\nthink, {01 00 00 05 00}{04 02 00}?{02 00 00 07 09}\nIt's...snug.\nIt's fine.\n{09 09 00}",
-   "et": ""
+   "et": "{09 00 00}{09 06 00}Hihihii! {01 00 00 0f 00}{09 01 00}{09 04 00}{09 02 00}{09 04 00}{09 01 00}Noh{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00}\n{0b 03 00}{04 1f 00}, mida sina\narvad, {01 00 00 05 00}{04 02 00}?{02 00 00 07 09}\nSee on...liibuv.\nSee on hea.\n{09 09 00}"
   },
   {
    "id": 7,
    "en": "{09 00 00}{09 08 00}{09 02 00}{07 16 00}Oh, dear{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} {0b 03 00}{04 1f 00}! I\ndidn't really think you'd\nsay such a thing!\n{07 06 00}What am I supposed to \ndo about it then,\n{01 00 00 05 00}{04 02 00}?!{09 09 00}",
-   "et": ""
+   "et": "{09 00 00}{09 08 00}{09 02 00}{07 16 00}Oi{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} {0b 03 00}{04 1f 00}! Ma\nei arvanud, et sa\nmidagi sellist ütled!\n{07 06 00}Mida ma peaksin siis\nselle kohta tegema,\n{01 00 00 05 00}{04 02 00}?!{09 09 00}"
   },
   {
    "id": 8,
    "en": "{09 01 00}{09 08 00}{09 00 00}{09 06 00}{09 01 00}{07 0e 00}Well{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}. Either start wearing\na muumuu or{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}. {07 0c 00}I know!\n\nMake everyone around you\nwear special glasses so you\nlook thinner!",
-   "et": ""
+   "et": "{09 01 00}{09 08 00}{09 00 00}{09 06 00}{09 01 00}{07 0e 00}Noh{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}. Kas hakka kandma\nkotikleiti või{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}. {07 0c 00}Ma tean!\n\nPane kõik enda ümber\nkandma eriprille, et sa\nnäeksid saledam välja!"
   },
   {
    "id": 9,
    "en": "{09 00 00}{09 08 00}{09 01 00}{09 08 00}{09 02 00}{09 05 00}See!{01 00 00 14 00} {0b 03 00}{04 1f 00} thinks so,\ntoo. {01 01 00}Now can we talk about\nsomething more interesting?{09 09 00}",
-   "et": ""
+   "et": "{09 00 00}{09 08 00}{09 01 00}{09 08 00}{09 02 00}{09 05 00}Näed!{01 00 00 14 00} {0b 03 00}{04 1f 00} arvab ka\nnii. {01 01 00}Kas saame nüüd rääkida\nmillestki huvitavamast?{09 09 00}"
   },
   {
    "id": 10,
    "en": "{09 00 00}{09 06 00}{09 01 00}{07 1c 00}Well{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}. All kids {04 1f 00}'s\nage are {01 00 00 05 00}wearing stuff like\nthis{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 0f 00}So maybe the overstuffed\nsausage look IS in,\n{01 00 00 05 00}{04 02 00}.{09 09 00}",
-   "et": ""
+   "et": "{09 00 00}{09 06 00}{09 01 00}{07 1c 00}Noh{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}. Kõik {04 1f 00}\nvanused lapsed {01 00 00 05 00}kannavad\nmidagi sellist{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 0f 00}Nii et ehk ongi ületuubitud\nvorsti ilme moes,\n{01 00 00 05 00}{04 02 00}.{09 09 00}"
   },
   {
    "id": 11,
    "en": "{09 00 00}{09 08 00}{09 02 00}{09 03 00}YESSS!{01 00 00 14 00} So if tight clothes\nare in, REALLY tight clothes\nmust be the next big thing!\n{07 0a 00}I better get on that and\nstart gobbling lots of\n{04 12 00}!",
-   "et": ""
+   "et": "{09 00 00}{09 08 00}{09 02 00}{09 03 00}JAAAH!{01 00 00 14 00} Kui kitsad riided\non moes, siis PÄRIS kitsad\nriided on järgmine hitt!\n{07 0a 00}Parem hakkan kohe\nõgima palju\n{04 12 00}!"
   },
   {
    "id": 12,
    "en": "{09 00 00}{09 06 00}{09 01 00}{07 04 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}Hmm,{01 00 00 05 00} {04 02 00}. {01 01 00}{07 00 00}Who'd\nhave thought?{01 01 00} {07 14 00}I didn't think\nyou were that type!\n{07 15 00}Psychologically speaking,{01 00 00 0f 00}\nwristwatches symbolize{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 0b 00}{ff 00 00 02}friendship{ff 00 00 00}?{01 01 00} {07 00 00}Get it?{09 09 00}",
-   "et": ""
+   "et": "{09 00 00}{09 06 00}{09 01 00}{07 04 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}Hmm,{01 00 00 05 00} {04 02 00}. {01 01 00}{07 00 00}Kes\noleks arvanud?{01 01 00} {07 14 00}Ei arvanud,\net sa oled see tüüp!\n{07 15 00}Psühholoogiliselt{01 00 00 0f 00}\nsümboliseerib randmekell{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 0b 00}{ff 00 00 02}sõprust{ff 00 00 00}?{01 01 00} {07 00 00}Saad aru?{09 09 00}"
   },
   {
    "id": 13,
    "en": "{09 00 00}{09 08 00}{09 02 00}{07 02 00}That's totally blowing my\nmind, {04 1f 00}. So,{01 00 00 05 00} you\nthink of me as a watch?!\n{09 01 00}{09 07 00}{09 02 00}{07 0e 00}Hmm,{01 00 00 0f 00} who would have\nthought{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n{0b 03 00}{04 02 00}.{09 09 00}",
-   "et": ""
+   "et": "{09 00 00}{09 08 00}{09 02 00}{07 02 00}See lööb mind täiesti\npahviks, {04 1f 00}. Nii et,{01 00 00 05 00}\nsa pead mind kellaks?!\n{09 01 00}{09 07 00}{09 02 00}{07 0e 00}Hmm,{01 00 00 0f 00} kes oleks\narvanud{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n{0b 03 00}{04 02 00}.{09 09 00}"
   },
   {
    "id": 14,
    "en": "{09 00 00}{09 08 00}{09 02 00}{07 02 00}So according to you,\n{04 1f 00}, friends {01 00 00 05 00}are\njust watches.\n{09 01 00}{09 07 00}{09 02 00}{07 15 00}I don't get you!{01 00 00 0f 00} At all!{09 09 00}",
-   "et": ""
+   "et": "{09 00 00}{09 08 00}{09 02 00}{07 02 00}Nii et sinu arvates,\n{04 1f 00}, on sõbrad {01 00 00 05 00}\nlihtsalt kellad.\n{09 01 00}{09 07 00}{09 02 00}{07 15 00}Ma ei mõista sind!{01 00 00 0f 00} Üldse!{09 09 00}"
   },
   {
    "id": 15,
    "en": "{09 00 00}{09 06 00}{09 01 00}{07 05 00}{01 08 00}You think {ff 00 00 06}{04 10 00} {ff 00 00 00}is a\nwatch?! {01 00 00 05 00}YOU'RE JUST A BIG,\nUNFEELING ROBOT!{09 09 00}",
-   "et": ""
+   "et": "{09 00 00}{09 06 00}{09 01 00}{07 05 00}{01 08 00}Sa pead {ff 00 00 06}{04 10 00} {ff 00 00 00}\nkellaks?! {01 00 00 05 00}SA OLED SUUR TUIM\nROBOT!{09 09 00}"
   },
   {
    "id": 16,
    "en": "{09 00 00}{09 08 00}{09 02 00}{09 06 00}{01 04 00}{01 00 00 07 00}{01 05 00}{07 17 00}Well, {01 00 00 05 00}being a watch isn't\nso bad, really.{01 01 00} You'd always\nknow what time it is.",
-   "et": ""
+   "et": "{09 00 00}{09 08 00}{09 02 00}{09 06 00}{01 04 00}{01 00 00 07 00}{01 05 00}{07 17 00}Noh, {01 00 00 05 00}kell olla polegi\nnii halb.{01 01 00} Sa teaksid alati,\nmis kell on."
   },
   {
    "id": 17,
    "en": "{06 03 00 0e 0d}",
-   "et": ""
+   "et": "{06 03 00 0e 0d}"
   }
  ]
 }

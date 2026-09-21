@@ -4,47 +4,47 @@
   {
    "id": 0,
    "en": "{07 14 00}Heya, {01 00 00 05 00}{04 1f 00}!{01 00 00 14 00}\nWelcome, welcome{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n{04 02 00}!",
-   "et": ""
+   "et": "{07 14 00}Terekest, {01 00 00 05 00}{04 1f 00}!{01 00 00 14 00}\nTere tulemast, tere{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n{04 02 00}!"
   },
   {
    "id": 1,
    "en": "{07 16 00}{0b 03 00}{04 1f 00},{01 00 00 0f 00} what took you\nso long, {01 00 00 05 00}{04 02 00}?!",
-   "et": ""
+   "et": "{07 16 00}{0b 03 00}{04 1f 00},{01 00 00 0f 00} miks sul nii\nkaua läks, {01 00 00 05 00}{04 02 00}?!"
   },
   {
    "id": 2,
    "en": "{07 15 00}Peruse my priceless{01 00 00 05 00}\nartifacts, now!",
-   "et": ""
+   "et": "{07 15 00}Sirvi mu hindamatuid{01 00 00 05 00}\nesemeid, kohe!"
   },
   {
    "id": 3,
    "en": "{07 14 00}Come back anytime,\n{01 00 00 05 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 14 00}Tule millal tahes tagasi,\n{01 00 00 05 00}{04 02 00}!"
   },
   {
    "id": 4,
    "en": "{07 00 00}Later, {01 00 00 05 00}{04 1f 00}!{01 00 00 0f 00}\n{07 15 00}And you better come back,\n{01 00 00 05 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 00 00}Näeme, {01 00 00 05 00}{04 1f 00}!{01 00 00 0f 00}\n{07 15 00}Ja sa parem tule tagasi,\n{01 00 00 05 00}{04 02 00}!"
   },
   {
    "id": 5,
    "en": "{07 0d 00}Thanks, kid!{01 00 00 14 00} {0b 03 00}{01 00 00 05 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 0d 00}Aitäh, laps!{01 00 00 14 00} {0b 03 00}{01 00 00 05 00}{04 02 00}!"
   },
   {
    "id": 6,
    "en": "{07 00 00}So,{01 00 00 05 00} how do you like my\nselection of fine wares?\n\n{07 19 00}Some of them may be a\nlittle too refined for your\ntastes, though!",
-   "et": ""
+   "et": "{07 00 00}Nii,{01 00 00 05 00} kuidas sulle meeldib mu\npeene kauba valik?\n\n{07 19 00}Mõned neist võivad su\nmaitse jaoks olla pisut\nliiga peened!"
   },
   {
    "id": 7,
    "en": "{07 04 00}Whoa! {01 00 00 0f 00}Hey!{01 00 00 14 00} {07 16 00}You afraid of\nme or somethin'?\n\n{07 14 00}Heh, {01 00 00 05 00}I won't think you're\ngreedy or anything! C'mon,\njust go nuts, {01 00 00 05 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 04 00}Ohoo! {01 00 00 0f 00}Hei!{01 00 00 14 00} {07 16 00}Kas sa kardad\nmind või midagi?\n\n{07 14 00}Heh, {01 00 00 05 00}ma ei arva, et sa oled\nahne! Ole nüüd,\nmine hulluks, {01 00 00 05 00}{04 02 00}!"
   },
   {
    "id": 8,
    "en": "{07 15 00}I ain't proud to say it, but\nall my furniture has a\ncertain manly aroma!",
-   "et": ""
+   "et": "{07 15 00}Pole uhke seda öelda, aga\nkogu mu mööblil on kindel\nmehelik aroom!"
   }
  ]
 }

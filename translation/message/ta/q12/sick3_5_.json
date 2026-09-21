@@ -4,112 +4,112 @@
   {
    "id": 0,
    "en": "{07 07 00}D{01 00 00 05 00}-do I{01 00 00 0a 00} look OK to you?{01 00 00 0a 00} Am\nI flushed?",
-   "et": ""
+   "et": "{07 07 00}K{01 00 00 05 00}-kas ma{01 00 00 0a 00} näen hea välja?{01 00 00 0a 00}\nKas ma olen punetav?"
   },
   {
    "id": 1,
    "en": "{07 07 00}I{01 00 00 05 00}-I might not make it{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\nJust save yourself.",
-   "et": ""
+   "et": "{07 07 00}M{01 00 00 05 00}-ma ei pruugi ellu jääda{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\nPäästa lihtsalt ennast."
   },
   {
    "id": 2,
    "en": "{07 07 00}N{01 00 00 05 00}-no, I'm not OK! One\nsecond I'm hot, the next I'm\nfreezing!",
-   "et": ""
+   "et": "{07 07 00}E{01 00 00 05 00}-ei, ma pole korras! Ühel\nhetkel on palav, järgmisel\nkülmetan!"
   },
   {
    "id": 3,
    "en": "{07 07 00}This stinks so badly! I just\nwanna keel over.",
-   "et": ""
+   "et": "{07 07 00}See on nii jube! Ma tahan\nlihtsalt pikali kukkuda."
   },
   {
    "id": 4,
    "en": "{07 07 00}Yeah{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00} I think it's probably\nbest to keep your\ndistance{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.",
-   "et": ""
+   "et": "{07 07 00}Jah{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00} Ma arvan, et parem\non hoida\ndistantsi{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}."
   },
   {
    "id": 5,
    "en": "{07 16 00}Y{01 00 00 05 00}-you're so cold{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.",
-   "et": ""
+   "et": "{07 16 00}S{01 00 00 05 00}-sa oled nii külm{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}."
   },
   {
    "id": 6,
    "en": "{07 07 00}KARF HRAC HWHEEZE!{01 00 00 0a 00} I don't\nknow how much more of this\nI can take, {01 00 00 05 00}{04 02 00}.",
-   "et": ""
+   "et": "{07 07 00}KÖH HRÄK VILIN!{01 00 00 0a 00} Ma ei tea,\nkui palju ma seda veel\nkannatan, {01 00 00 05 00}{04 02 00}."
   },
   {
    "id": 7,
    "en": "{07 07 00}Th{01 00 00 05 00}-thanks{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00}{04 02 00}.",
-   "et": ""
+   "et": "{07 07 00}A{01 00 00 05 00}-aitäh{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00}{04 02 00}."
   },
   {
    "id": 8,
    "en": "{07 16 00}How considerate of you{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}",
-   "et": ""
+   "et": "{07 16 00}Kui tähelepanelik sinust{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}"
   },
   {
    "id": 9,
    "en": "{07 00 00}What?! {01 00 00 0a 00}Really?!",
-   "et": ""
+   "et": "{07 00 00}Mis?! {01 00 00 0a 00}Tõesti?!"
   },
   {
    "id": 10,
    "en": ".{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}Where is it, {01 00 00 05 00}{04 02 00}?",
-   "et": ""
+   "et": ".{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}Kus see on, {01 00 00 05 00}{04 02 00}?"
   },
   {
    "id": 11,
    "en": "{07 07 00}You don't have any{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.",
-   "et": ""
+   "et": "{07 07 00}Sul pole ühtegi{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}."
   },
   {
    "id": 12,
    "en": "{07 15 00}If{01 00 00 05 00} you're looking for\n{ff 00 00 07}medicine{ff 00 00 00},{01 00 00 05 00} {ff 00 00 06}Tom Nook{ff 00 00 00} should\nhave some at his shop{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.",
-   "et": ""
+   "et": "{07 15 00}Kui{01 00 00 05 00} sa otsid\n{ff 00 00 07}rohtu{ff 00 00 00},{01 00 00 05 00} peaks {ff 00 00 06}Tom Nookil{ff 00 00 00}\nseda poes olema{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}."
   },
   {
    "id": 13,
    "en": "{07 07 00}T{01 00 00 03 00}-teasing me when I'm at\nmy worst is so mean{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}. If I\never get better, I'll{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.",
-   "et": ""
+   "et": "{07 07 00}M{01 00 00 03 00}-minu narrimine, kui olen\nnii vilets, on tige{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}. Kui ma\nkunagi terveks saan, siis{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}."
   },
   {
    "id": 14,
    "en": "{07 07 00}So mean{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 05 00}{04 02 00}",
-   "et": ""
+   "et": "{07 07 00}Nii tige{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 05 00}{04 02 00}"
   },
   {
    "id": 15,
    "en": "{07 07 00}I guess I shouldn't have\nexpected anything in the\nfirst place, {01 00 00 05 00}{04 02 00}.",
-   "et": ""
+   "et": "{07 07 00}Ma poleks vist pidanudki\nmidagi ootama\nalgusest peale, {01 00 00 05 00}{04 02 00}."
   },
   {
    "id": 16,
    "en": "OK.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} OK.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} {07 16 00}I think the\nworst is over now.{01 00 00 14 00}\n{07 14 00}Thanks, {01 00 00 0a 00}{04 02 00}.",
-   "et": ""
+   "et": "Olgu.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} Olgu.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} {07 16 00}Ma arvan, et\nhullem on nüüd möödas.{01 00 00 14 00}\n{07 14 00}Aitäh, {01 00 00 0a 00}{04 02 00}."
   },
   {
    "id": 17,
    "en": "{07 14 00}Hm{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00} I'm feeling a little\nbetter, {01 00 00 0a 00}{04 02 00}.",
-   "et": ""
+   "et": "{07 14 00}Hm{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00} Tunnen end veidi\nparemini, {01 00 00 0a 00}{04 02 00}."
   },
   {
    "id": 18,
    "en": "{07 00 00}Yeah, {01 00 00 0a 00}I don't feel as bad as\nI did before.{01 00 00 05 00} {07 14 00}Thanks,\n{01 00 00 0a 00}{04 02 00}.",
-   "et": ""
+   "et": "{07 00 00}Jah, {01 00 00 0a 00}ma ei tunne end nii\nhalvasti kui enne.{01 00 00 05 00} {07 14 00}Aitäh,\n{01 00 00 0a 00}{04 02 00}."
   },
   {
    "id": 19,
    "en": "{07 14 00}Hey!{01 00 00 14 00} You're a good kid, \n{01 00 00 0a 00}{04 02 00}.",
-   "et": ""
+   "et": "{07 14 00}Hei!{01 00 00 14 00} Sa oled tubli laps,\n{01 00 00 0a 00}{04 02 00}."
   },
   {
    "id": 20,
    "en": "{07 14 00}How sweet of you{01 00 00 0a 00} to say\nsomething like that,\n{01 00 00 0a 00}{04 02 00}.",
-   "et": ""
+   "et": "{07 14 00}Kui armas sinust{01 00 00 0a 00} midagi\nsellist öelda,\n{01 00 00 0a 00}{04 02 00}."
   },
   {
    "id": 21,
    "en": "I feel so much better when\nyou come by to see me.\n\n{07 14 00}Thanks for{01 00 00 0f 00} checking up on\nme, {01 00 00 05 00}{04 02 00}!",
-   "et": ""
+   "et": "Ma tunnen end palju\nparemini, kui sa mind\nvaatama tuled. \n{07 14 00}Aitäh, et{01 00 00 0f 00} minu järele\nvaatad, {01 00 00 05 00}{04 02 00}!"
   }
  ]
 }

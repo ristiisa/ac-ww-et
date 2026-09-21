@@ -4,17 +4,17 @@
   {
    "id": 0,
    "en": "{07 00 00}So, yeah, {01 00 00 05 00}{04 02 00}! What\ndid you need, anyway?",
-   "et": ""
+   "et": "{07 00 00}Nii et jah, {01 00 00 05 00}{04 02 00}! Mida\nsa üldse vajasid?"
   },
   {
    "id": 1,
    "en": "{07 00 00}Enough of that, though.{01 00 00 05 00}\nYou got something to say\nto me,{01 00 00 05 00} {04 02 00}?",
-   "et": ""
+   "et": "{07 00 00}Aitab sellest.{01 00 00 05 00}\nKas sul on mulle midagi\nöelda,{01 00 00 05 00} {04 02 00}?"
   },
   {
    "id": 2,
    "en": "{07 00 00}By the way,{01 00 00 05 00} {04 02 00}...{01 00 00 05 00}\nWhat's going on with you\ntoday?",
-   "et": ""
+   "et": "{07 00 00}Muide,{01 00 00 05 00} {04 02 00}...{01 00 00 05 00}\nMis sinuga täna\ntoimub?"
   }
  ]
 }

@@ -4,17 +4,17 @@
   {
    "id": 0,
    "en": "{07 02 00}Um, hel-LO! {01 00 00 14 00}I would highly\nrecommend against running\naround right now!\n{07 07 00}You can see that\n{0b 02 00}{04 1a 00}, too,\nright? So chill, {01 00 00 0a 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 02 00}Ee, hal-LOO! {01 00 00 14 00}Ma soovitaksin\ntungivalt praegu mitte\nringi joosta!\n{07 07 00}Sa ju näed ka seda:\n{0b 02 00}{04 1a 00}, eks?\nNii et rahune, {01 00 00 0a 00}{04 02 00}!"
   },
   {
    "id": 1,
    "en": "{07 02 00}Oh, no! {01 00 00 05 00}{0b 03 00}{04 1a 00}!{01 00 00 14 00}\n{07 08 00}Ew, gross! {01 00 00 0a 00}{0b 03 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 02 00}Oi ei! {01 00 00 05 00}{0b 03 00}{04 1a 00}!{01 00 00 14 00}\n{07 08 00}Öök, jälk! {01 00 00 0a 00}{0b 03 00}{04 02 00}!"
   },
   {
    "id": 2,
    "en": "{07 14 00}Hey, {04 1f 00},{01 00 00 05 00} do you\nsee {0b 01 00}{04 1a 00},\nover there, {01 00 00 0a 00}{04 02 00}?\n{07 19 00}It'll be a stretch for you,{01 00 00 0a 00}\n{07 15 00}but play it cool,\n{01 00 00 0a 00}{04 02 00}! Got it?",
-   "et": ""
+   "et": "{07 14 00}Hei, {04 1f 00},{01 00 00 05 00} kas sa\nnäed seal {0b 01 00}{04 1a 00},\n{01 00 00 0a 00}{04 02 00}?\n{07 19 00}See on sulle raske,{01 00 00 0a 00}\n{07 15 00}aga püsi rahulik,\n{01 00 00 0a 00}{04 02 00}! Selge?"
   }
  ]
 }

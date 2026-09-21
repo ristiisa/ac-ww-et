@@ -4,17 +4,17 @@
   {
    "id": 0,
    "en": "{07 02 00}Aha! {01 00 00 0a 00}I knew it!{01 01 00} {07 16 00}{0b 03 00}{ff 00 00 06}{04 10 00}\n{ff 00 00 00}is all upset again, huh?\n\n{01 00 00 0a 00}{07 1b 00}{01 00 00 05 00}Oh, well{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00} I guess nothing\ncan really be done about it,\n{01 00 00 0a 00}{04 02 00}.",
-   "et": ""
+   "et": "{07 02 00}Ahaa! {01 00 00 0a 00}Ma teadsin!{01 01 00} {07 16 00}{0b 03 00}{ff 00 00 06}{04 10 00}\n{ff 00 00 00}on jälle pahane, mis?\n\n{01 00 00 0a 00}{07 1b 00}{01 00 00 05 00}No mis seal{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00} Sellega ei saa\nvist midagi teha,\n{01 00 00 0a 00}{04 02 00}."
   },
   {
    "id": 1,
    "en": "{07 02 00}What?! {01 00 00 05 00}Really?!{01 01 00} {07 16 00}Maybe I\nshouldn't have sent that\nafter all.\n{01 00 00 0a 00}{07 1b 00}{01 00 00 05 00}Guess I made a big mistake\nthere, huh? {01 00 00 0a 00}Oh, well.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}",
-   "et": ""
+   "et": "{07 02 00}Mis?! {01 00 00 05 00}Tõesti?!{01 01 00} {07 16 00}Ehk ma ei\noleks pidanud seda üldse\nsaatma.\n{01 00 00 0a 00}{07 1b 00}{01 00 00 05 00}Tegin vist suure vea\nseal, mis? {01 00 00 0a 00}No mis seal.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}"
   },
   {
    "id": 2,
    "en": "Oh,{01 00 00 0a 00} {07 09 00}really{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} No good, huh?\n{07 16 00}And I made you deliver it.\n\nJeez, {04 1f 00}{07 1c 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00} I'm\nreally sorry for putting\nyou through all that.",
-   "et": ""
+   "et": "Oi,{01 00 00 0a 00} {07 09 00}tõesti{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} Ei olnud hea,\nmis? {07 16 00}Ja ma panin sind seda\nviima. \nIssand, {04 1f 00}{07 1c 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00} Mul on\ntõesti kahju, et ma sind\nsellest läbi ajasin."
   }
  ]
 }

@@ -4,17 +4,17 @@
   {
    "id": 0,
    "en": "{01 00 00 14 00}{07 00 00}Whoa! Uh... OK...\n{0b 03 00}{04 1a 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n\nSo this is what {ff 00 00 06}{04 0f 00}{ff 00 00 00}\ndoes all day long.\n\nWell, since it's here, I may\nas well take it{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{04 02 00}.",
-   "et": ""
+   "et": "{01 00 00 14 00}{07 00 00}Ohoo! Ee... Olgu...\n{0b 03 00}{04 1a 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n\nNii et sellega tegeleb\n{ff 00 00 06}{04 0f 00}{ff 00 00 00} terve päeva.\n\nNoh, kuna see on siin, võin\nselle ka võtta{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{04 02 00}."
   },
   {
    "id": 1,
    "en": "{01 00 00 14 00}{0b 03 00}{04 1a 00}?{01 01 00}\n{0b 03 00}{ff 00 00 06}{04 0f 00}{ff 00 00 00} is such a\nweirdo,{01 00 00 0a 00} {04 02 00}.\nAnd just where am I gonna\nbe able to wear\n{04 1a 00}?",
-   "et": ""
+   "et": "{01 00 00 14 00}{0b 03 00}{04 1a 00}?{01 01 00}\n{0b 03 00}{ff 00 00 06}{04 0f 00}{ff 00 00 00} on küll\nveidrik,{01 00 00 0a 00} {04 02 00}.\nJa kus ma üldse saan\nkanda\n{04 1a 00}?"
   },
   {
    "id": 2,
    "en": "{01 00 00 14 00}{07 00 00}{0b 03 00}{04 1a 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 01 00}\nWow. I can't believe I got\nthis. This is amazing!\nBut I'm keeping it,{01 00 00 0a 00}\n{04 02 00}! Who knew \n{ff 00 00 06}{04 0f 00}{ff 00 00 00} liked this{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}",
-   "et": ""
+   "et": "{01 00 00 14 00}{07 00 00}{0b 03 00}{04 1a 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 01 00}\nVau. Ma ei usu, et ma\nselle sain. Hämmastav!\nAga ma jätan selle endale,{01 00 00 0a 00}\n{04 02 00}! Kes teadis, \net {ff 00 00 06}{04 0f 00}{ff 00 00 00} seda tahab{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}"
   }
  ]
 }

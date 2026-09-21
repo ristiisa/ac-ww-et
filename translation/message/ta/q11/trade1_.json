@@ -4,17 +4,17 @@
   {
    "id": 0,
    "en": "{07 14 00}So, what do you think?{01 00 00 0a 00}\nPRET-ty nice, huh!\n\nTell me if there's anything\nyou're interested in, {07 0b 00}OK?{02 04 00 ff ff}\nOkey dokey!\nJust lookin'.",
-   "et": ""
+   "et": "{07 14 00}Noh, mida sa arvad?{01 00 00 0a 00}\nPRIS-ki kena, mis!\n\nÜtle, kui midagi\nsind huvitab, {07 0b 00}eks?{02 04 00 ff ff}\nOlgu pealegi!\nAinult vaatan."
   },
   {
    "id": 1,
    "en": "{07 00 00}Do you think this room is\nas pretty as me?!\n\nIf you like something,{01 00 00 05 00} can\nyou let me know? {01 00 00 05 00}It's just\nfor my information.{02 04 00 ff ff}\nYup!\nNo thanks.",
-   "et": ""
+   "et": "{07 00 00}Kas sinu arust on see tuba\nsama ilus kui mina?!\n\nKui midagi meeldib,{01 00 00 05 00} kas\nannad teada? {01 00 00 05 00}Lihtsalt\nminu teadmiseks.{02 04 00 ff ff}\nJaa!\nEi, aitäh."
   },
   {
    "id": 2,
    "en": "{07 00 00}La la la!{01 00 00 14 00} Isn't my house\njust too awesome for\nwords?!\nIf there's something you \nlike, {07 0b 00}you have to tell\nme, OK, {01 00 00 05 00}{04 02 00}?{02 04 00 ff ff}\nOK!\nJUST LOOKING!",
-   "et": ""
+   "et": "{07 00 00}Laa laa laa!{01 00 00 14 00} Kas mu maja\npole sõnulseletamatult\nvägev?!\nKui midagi sulle\nmeeldib, {07 0b 00}pead sa mulle\nütlema, eks, {01 00 00 05 00}{04 02 00}?{02 04 00 ff ff}\nOlgu!\nAINULT VAATAN!"
   }
  ]
 }

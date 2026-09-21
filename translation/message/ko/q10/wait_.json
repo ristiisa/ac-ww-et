@@ -4,17 +4,17 @@
   {
    "id": 0,
    "en": "{07 04 00}What in the...{01 00 00 0a 00} Are you{01 00 00 05 00}\ngoing somewhere?{01 01 00}\n{07 00 00}{07 05 00}FINE THEN!{01 00 00 0f 00} I'LL LEAVE!",
-   "et": ""
+   "et": "{07 04 00}Mis kur...{01 00 00 0a 00} Kas sa{01 00 00 05 00}\nlähed kuhugi?{01 01 00}\n{07 00 00}{07 05 00}HEA KÜLL SIIS!{01 00 00 0f 00} MA LÄHEN!"
   },
   {
    "id": 1,
    "en": "{07 16 00}Hey.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} Are you going\nsomewhere, {01 00 00 05 00}{04 1f 00}?\n\n{07 00 00}Well, I guess I'd better get\noutta Dodge, too,\n{01 00 00 05 00}{04 02 00}.",
-   "et": ""
+   "et": "{07 16 00}Kuule.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} Kas sa lähed\nkuhugi, {01 00 00 05 00}{04 1f 00}?\n\n{07 00 00}Noh, siis vist lähen minagi\nminema,\n{01 00 00 05 00}{04 02 00}."
   },
   {
    "id": 2,
    "en": "{07 15 00}What?!{01 00 00 05 00} Why are you doin'\nthis?!{01 00 00 14 00} You got something\nbetter to do, {01 00 00 05 00}{04 02 00}?\n{07 00 00}Well, fine.{01 00 00 05 00} If you're leaving,\nI guess I'll go, too.",
-   "et": ""
+   "et": "{07 15 00}Mida?!{01 00 00 05 00} Miks sa seda\nteed?!{01 00 00 14 00} Kas sul on midagi\nparemat teha, {01 00 00 05 00}{04 02 00}?\n{07 00 00}Noh, hea küll.{01 00 00 05 00} Kui sa lähed,\nsiis lähen minagi."
   }
  ]
 }

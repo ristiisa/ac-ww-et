@@ -4,27 +4,27 @@
   {
    "id": 0,
    "en": "{07 02 00}What{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} What do you want?!{01 01 00}\n{07 06 00}Um, hello? {01 00 00 05 00}I haven't even\nfinished unpacking!\n{07 15 00}Y'know, not everybody thinks\nimpatient people are cool,\n{01 00 00 05 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 02 00}Mis{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} Mida sa tahad?!{01 01 00}\n{07 06 00}Ee, halloo? {01 00 00 05 00}Ma pole isegi\nlahti pakkimist lõpetanud!\n{07 15 00}Tead, kõik ei arva, et\nkannatamatud inimesed on\nlahedad, {01 00 00 05 00}{04 02 00}!"
   },
   {
    "id": 1,
    "en": "{07 00 00}Oh, hey, I am just TOO busy\nright now.{01 00 00 05 00} Come back\ntomorrow, {01 00 00 05 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 00 00}Oi, kuule, mul on praegu\nLIIGA kiire.{01 00 00 05 00} Tule homme\ntagasi, {01 00 00 05 00}{04 02 00}!"
   },
   {
    "id": 2,
    "en": "{07 0b 00}Huh?{01 00 00 05 00} OK, this makes NO\nsense, {01 00 00 05 00}{04 02 00}!\n\n{07 06 00}That gorgeous, brand-name\nmuumuu I bought at the\nsale is gone!\n{07 0b 00}Hey!{01 00 00 05 00} You! {01 00 00 05 00}Are you standing\non it, {01 00 00 05 00}{04 02 00}?",
-   "et": ""
+   "et": "{07 0b 00}Mis?{01 00 00 05 00} Olgu, see on täiesti\narusaamatu, {01 00 00 05 00}{04 02 00}!\n\n{07 06 00}See uhke kaubamärgiga\nmuumuu, mille ma soodus-\nmüügilt ostsin, on kadunud!\n{07 0b 00}Hei!{01 00 00 05 00} Sina! {01 00 00 05 00}Kas sa seisad\nselle peal, {01 00 00 05 00}{04 02 00}?"
   },
   {
    "id": 3,
    "en": "{07 06 00}Gosh, LOOK at this mess!{01 00 00 05 00}\nIs it obvious I just moved\nin, {01 00 00 05 00}{04 02 00}?\n{07 14 00}I can't offer you anything,{01 00 00 05 00}\nbut feel free to snoop\naround, {01 00 00 05 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 06 00}Issand, VAATA seda\nsegadust!{01 00 00 05 00} Kas on näha, et\nma just sisse\nkolisin,{01 00 00 05 00}{04 02 00} ? {07 14 00}Ma ei saa\nsulle midagi pakkuda,{01 00 00 05 00} aga\nnuusi ringi, {01 00 00 05 00}{04 02 00}!"
   },
   {
    "id": 4,
    "en": "{07 15 00}Look, I'm still unpacking\nright now!\n\n{07 0f 00}Phew{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} It's not easy being\na rising star, {01 00 00 05 00}{04 02 00}!\nI need a personal assistant.",
-   "et": ""
+   "et": "{07 15 00}Kuule, ma pakin praegu\nalles lahti!\n\n{07 0f 00}Uhh{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} Pole kerge olla\ntõusev täht, {01 00 00 05 00}{04 02 00}! Mul\non vaja isiklikku abilist."
   }
  ]
 }

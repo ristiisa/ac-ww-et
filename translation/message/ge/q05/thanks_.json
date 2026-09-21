@@ -4,17 +4,17 @@
   {
    "id": 0,
    "en": "{07 04 00}Oh...{01 00 00 0a 00} {07 00 00}{07 0a 00}HOORAY!{01 00 00 05 00} YAY!{01 00 00 05 00} It's\n{04 1a 00}, \n{01 00 00 05 00}{04 02 00}!!\nI always wanted some\n{ff 00 00 07}{04 0f 00}{ff 00 00 00}\nlike this!{01 00 00 0a 00} It's ADORABLE!",
-   "et": ""
+   "et": "{07 04 00}Oh...{01 00 00 0a 00} {07 00 00}{07 0a 00}HURRAA!{01 00 00 05 00} JEE!{01 00 00 05 00} See on\n{04 1a 00}, \n{01 00 00 05 00}{04 02 00}!!\nMa olen alati tahtnud\n{ff 00 00 07}{04 0f 00}{ff 00 00 00}\nnagu see!{01 00 00 0a 00} See on ARMAS!"
   },
   {
    "id": 1,
    "en": "What?{01 00 00 14 00} {07 06 00}You found some\n{ff 00 00 07}{04 0f 00}{ff 00 00 00}\njust for me?{01 00 00 0a 00} WOW! SO NICE!\nThank you!{01 00 00 0a 00} I'll totally take\ngood care of it,\n{01 00 00 05 00}{04 02 00}!",
-   "et": ""
+   "et": "Mida?{01 00 00 14 00} {07 06 00}Sa leidsid mulle\n{ff 00 00 07}{04 0f 00}{ff 00 00 00}\nainult minu jaoks?{01 00 00 0a 00} VAU! NII\nKENA! Aitäh!{01 00 00 0a 00} Ma hoolitsen\nselle eest täiesti hästi,\n{01 00 00 05 00}{04 02 00}!"
   },
   {
    "id": 2,
    "en": "{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}Ahh!{01 00 00 0a 00} It's my precious\n{0b 02 00}{04 1a 00}!{01 00 00 0a 00}\nI'm kinda surprised!\nYou're always so chill...{01 00 00 0a 00}\nI figured that you forgot\nor something.",
-   "et": ""
+   "et": "{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}Ahh!{01 00 00 0a 00} See on mu kallis\n{0b 02 00}{04 1a 00}!{01 00 00 0a 00}\nMa olen veidi üllatunud!\nSa oled alati nii rahulik...{01 00 00 0a 00}\nMa arvasin, et sa unustasid\nvõi nii."
   }
  ]
 }

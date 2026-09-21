@@ -4,17 +4,17 @@
   {
    "id": 0,
    "en": "{07 14 00}Good job, {01 00 00 05 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 14 00}Tubli töö, {01 00 00 05 00}{04 02 00}!"
   },
   {
    "id": 1,
    "en": "{07 0d 00}{0b 03 00}{04 1f 00},{01 00 00 05 00} you are one of\nthe nicest people I know,\n{01 00 00 05 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 0d 00}{0b 03 00}{04 1f 00},{01 00 00 05 00} sa oled üks\nkenamaid inimesi, keda ma\ntean, {01 00 00 05 00}{04 02 00}!"
   },
   {
    "id": 2,
    "en": "{07 14 00}Thank you so much for\neverything, {01 00 00 05 00}{04 02 00}!{01 00 00 05 00}\nYou went above and beyond!",
-   "et": ""
+   "et": "{07 14 00}Suur aitäh kõige\neest, {01 00 00 05 00}{04 02 00}!{01 00 00 05 00}\nSa tegid rohkem kui vaja!"
   }
  ]
 }

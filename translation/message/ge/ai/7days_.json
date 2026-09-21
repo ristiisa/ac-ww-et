@@ -4,32 +4,32 @@
   {
    "id": 0,
    "en": "{07 04 00}Howdy hi,{01 00 00 14 00} {07 14 00}{04 1f 00}! Long\ntime no see, {01 00 00 05 00}{04 02 00}!\nWhere you been?\n{07 14 00}Anyhow, I'm glad to see you\nlooking so chipper!",
-   "et": ""
+   "et": "{07 04 00}Tere-tere,{01 00 00 14 00} {07 14 00}{04 1f 00}! Ammu\npole näinud, {01 00 00 05 00}{04 02 00}!\nKus sa olid?\n{07 14 00}Igatahes, tore näha sind\nnii reipana!"
   },
   {
    "id": 1,
    "en": "{07 04 00}Surprise, surprise!{01 00 00 0a 00} It's\n{04 1f 00}!\n\n{07 16 00}How many weeks has it been\nsince I saw you last? {01 00 00 0a 00}{04 11 00},\nright?\nWere you off exploring the\nworld on your own? {01 00 00 0f 00}{07 04 00}What?!{01 00 00 0a 00}\nYou weren't alone?{01 00 00 0a 00} {07 00 00}Hmmm.{01 00 00 05 00}.{01 00 00 05 00}.",
-   "et": ""
+   "et": "{07 04 00}Üllatus, üllatus!{01 00 00 0a 00} See on\n{04 1f 00}!\n\n{07 16 00}Mitu nädalat on möödunud,\nkui sind viimati\nnägin?{01 00 00 0a 00}{04 11 00} , eks?\nKas olid omaette maailma\navastamas? {01 00 00 0f 00}{07 04 00}Mis?!{01 00 00 0a 00}\nSa polnud üksi?{01 00 00 0a 00} {07 00 00}Hmmm.{01 00 00 05 00}.{01 00 00 05 00}."
   },
   {
    "id": 2,
    "en": "{07 14 00}Hallooo!{01 00 00 0a 00} It's been a while,\nhuh? So much has changed\nsince I saw you last.\n{07 00 00}While you were gone,\n{04 1f 00}, I just LOVED\nto {04 22 00}.{01 00 00 05 00}.{01 00 00 05 00}.\nI got hooked! {07 14 00}It's kind of a\nzen thing. {01 00 00 0a 00}{07 0d 00}I'll teach you if\nyou want, {01 00 00 05 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 14 00}Halloooo!{01 00 00 0a 00} Ammu pole näinud,\nmis? Nii palju on muutunud\nsellest ajast saati.\n{07 00 00}Sel ajal, kui sind polnud,\n{04 1f 00}, ARMASTASIN ma\n{04 22 00}.{01 00 00 05 00}.{01 00 00 05 00}.\nJäin sõltuvusse! {07 14 00}See on\nnii zen-asi. {01 00 00 0a 00}{07 0d 00}Õpetan sulle,\nkui tahad, {01 00 00 05 00}{04 02 00}!"
   },
   {
    "id": 3,
    "en": "{07 02 00}Hey! {01 00 00 0a 00}Is that really you,\n{04 1f 00}? {01 00 00 05 00}{0b 03 00}{04 02 00}?{01 00 00 0a 00}\nI can't believe it!\n{07 15 00}Care to explain your {04 11 00}-week\nabsence to me? {01 00 00 05 00}{07 16 00}I was going\nto give you some clothes,\nbut you weren't here, so I\ntossed them out yesterday!{01 00 00 0a 00}\nWhat a bummer.",
-   "et": ""
+   "et": "{07 02 00}Hei! {01 00 00 0a 00}Kas see oled sina,\n{04 1f 00}? {01 00 00 05 00}{0b 03 00}{04 02 00}?{01 00 00 0a 00}\nMa ei suuda uskuda!\n{07 15 00}Kas seletaksid mulle\noma{04 11 00} nädalat? {01 00 00 05 00}{07 16 00}\nTahtsin sulle anda mõned\nriided, sind polnud siin, nii\net viskasin need eile ära!{01 00 00 0a 00}\nMilline pettumus."
   },
   {
    "id": 4,
    "en": "{07 02 00}HOLY MOLY!{01 00 00 0a 00} {0b 03 00}{04 1f 00}!{01 01 00}\n{07 06 00}Your vanishing act had me\nworried!\n{07 14 00}Hey! {01 00 00 05 00}Have you gotten\ntaller? {01 00 00 14 00}{07 06 00}Oooh...{01 00 00 05 00} I wish I were\ntaller, {01 00 00 05 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 02 00}SÄHKE MIND!{01 00 00 0a 00} {0b 03 00}{04 1f 00}!{01 01 00}\n{07 06 00}Sinu kadumistrikk tegi\nmulle muret!\n{07 14 00}Hei! {01 00 00 05 00}Kas sa oled pikemaks\nkasvanud? {01 00 00 14 00}{07 06 00}Ohh...{01 00 00 05 00} Ma sooviks\nolla pikem, {01 00 00 05 00}{04 02 00}!"
   },
   {
    "id": 5,
    "en": "{07 04 00}Wowwie zowwie! {01 00 00 0a 00}Is that you,\n{04 1f 00}? {01 00 00 05 00}{0b 03 00}{04 02 00}!{01 00 00 0f 00}\nWhy do you smell so sweet?\n{07 00 00}{07 06 00}You were on a {04 11 00}-week tour\n{01 00 00 05 00}of every all-you-can-eat\nice pop stand around, huh.\n{07 16 00}Next time {01 00 00 05 00}you decide to\nvanish like that, give me a\nwarning, will you?",
-   "et": ""
+   "et": "{07 04 00}Ohoo-hopp! {01 00 00 0a 00}Kas see oled\nsina, {04 1f 00}? {01 00 00 05 00}{0b 03 00}{04 02 00}!{01 00 00 0f 00}\nMiks sa nii magusalt lõhnad?\n{07 00 00}{07 06 00}Sa olid {04 11 00} nädalat\n{01 00 00 05 00}mööda jäätisekioskeid\nringi rändamas, mis?\n{07 16 00}Järgmine kord, {01 00 00 05 00}kui otsustad\nniimoodi kaduda, hoiata\nmind, eks?"
   }
  ]
 }

@@ -4,127 +4,127 @@
   {
    "id": 0,
    "en": "{07 14 00}{01 00 00 0a 00}Well, {04 00 00}, today's\nthe big {ff 00 00 03}Bug-Off{ff 00 00 00}.\n\n{07 0b 00}But {01 00 00 05 00}don't you know that you\nneed a {ff 00 00 07}net{ff 00 00 00} to participate?!\n{01 01 00}{07 15 00}Honestly, {01 00 00 05 00}youth today.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n{07 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.{07 14 00}{01 00 00 05 00}Why don't you make some\nroom and come back so I\ncan give you one, sprout?",
-   "et": ""
+   "et": "{07 14 00}{01 00 00 0a 00}Noh, {04 00 00}, täna on\nsuur {ff 00 00 03}putukavõistlus{ff 00 00 00}.\n\n{07 0b 00}Aga {01 00 00 05 00}kas sa ei tea, et\nosalemiseks on vaja {ff 00 00 07}võrku{ff 00 00 00}?!\n{01 01 00}{07 15 00}Ausalt, {01 00 00 05 00}tänapäeva noored{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.{07 14 00}{01 00 00 05 00}Miks sa ei tee veidi\nruumi ja tule tagasi, et\nsaaksin ühe anda, võsuke?"
   },
   {
    "id": 1,
    "en": "{07 14 00}{01 00 00 0a 00}Today's the big {ff 00 00 03}Bug-Off{ff 00 00 00},\n{04 00 00}! {01 01 00}{07 00 00}But {01 00 00 05 00}without a\nnet,{07 16 00}{01 00 00 0a 00} you'll be all left out!\n{07 00 00}If you don't mind hand-me-\ndowns, feel free to use\nmine, sprout!\n{07 14 00}{01 00 00 0a 00}Go on, {01 00 00 05 00}don't be shy.{01 00 00 0f 00}\nYou can always return the\nfavor by paying as you go{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.",
-   "et": ""
+   "et": "{07 14 00}{01 00 00 0a 00}Täna on {ff 00 00 03}putukavõistlus{ff 00 00 00},\n{04 00 00}! {01 01 00}{07 00 00}Aga {01 00 00 05 00}ilma\nvõrguta{07 16 00}{01 00 00 0a 00} jääd sa kõrvale!\n{07 00 00}Kui sa vanavara ei\npelga, kasuta julgelt\nminu oma, võsuke!\n{07 14 00}{01 00 00 0a 00}Võta aga, {01 00 00 05 00}ära ole häbelik.{01 00 00 0f 00}\nSaad alati tasuda, kui\nsul võimalus tuleb{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}."
   },
   {
    "id": 2,
    "en": "{07 00 00}Sorry, {04 00 00},{01 00 00 0a 00} but\ntoday's {ff 00 00 03}Bug-Off{ff 00 00 00} has ended.{01 00 00 0a 00}\nIt's over! {01 00 00 05 00}O{01 00 00 03 00}-V{01 00 00 03 00}-E{01 00 00 03 00}-R!\nYou can go see the results\non the {ff 00 00 08}bulletin board{ff 00 00 00}.\n\nThough it might be hard to\nsee through your tears! {07 03 00}{01 00 00 0f 00}Heh\nheh {01 00 00 0a 00}{01 08 00}HOORF HOORF HOORF!",
-   "et": ""
+   "et": "{07 00 00}Vabandust, {04 00 00},{01 00 00 0a 00} aga\ntänane {ff 00 00 03}putukavõistlus{ff 00 00 00} on\nläbi.{01 00 00 0a 00} See on läbi! {01 00 00 05 00}L{01 00 00 03 00}-Ä{01 00 00 03 00}-B{01 00 00 03 00}-I!\nSaad tulemusi vaadata\n{ff 00 00 08}teadetetahvlilt{ff 00 00 00}.\n\nKuigi läbi pisarate võib\nolla raske näha! {07 03 00}{01 00 00 0f 00}Heh\nheh {01 00 00 0a 00}{01 08 00}HOORF HOORF HOORF!"
   },
   {
    "id": 3,
    "en": "{07 0a 00}{01 00 00 05 00}Buggy-wugs, {01 00 00 0a 00}buggy-mugs!{01 00 00 0f 00}\nToday's the official\n{04 03 00} {ff 00 00 03}Bug-Off{ff 00 00 00}!\n{07 00 00}So, sprout, {01 00 00 03 00}would you{01 00 00 0a 00} like\nme to explain{01 00 00 05 00} the {ff 00 00 03}Bug-Off{ff 00 00 00}\nto you?{02 04 00 06 05}\nPlease!\nBug off!",
-   "et": ""
+   "et": "{07 0a 00}{01 00 00 05 00}Putu-nutu, {01 00 00 0a 00}putu-mutu!{01 00 00 0f 00}\nTäna on ametlik\n{04 03 00} {ff 00 00 03}putukavõistlus{ff 00 00 00}!\n{07 00 00}Nii, võsuke, {01 00 00 03 00}kas sa tahad{01 00 00 0a 00},\net selgitaksin{01 00 00 05 00}\n{ff 00 00 03}putukavõistlust{ff 00 00 00} sulle?{02 04 00 06 05}\nPalun!\nKao ära!"
   },
   {
    "id": 4,
    "en": "{07 00 00}By the way, {04 00 00},{01 00 00 0f 00}\ndid you want to hear about\nthe {ff 00 00 03}Bug-Off{ff 00 00 00}?{02 04 00 06 05}\nYes!\nNo, not really.",
-   "et": ""
+   "et": "{07 00 00}Muide, {04 00 00},{01 00 00 0f 00}\nkas sa tahtsid kuulda\n{ff 00 00 03}putukavõistlusest{ff 00 00 00}?{02 04 00 06 05}\nJah!\nEi, mitte eriti."
   },
   {
    "id": 5,
    "en": "{07 16 00}{01 00 00 0a 00}Ahh, yes, well,{01 00 00 0f 00} {04 00 00},\nI suppose you know all{01 00 00 05 00}\nabout it then?\n{07 0f 00}{01 00 00 05 00}And even if you didn't,{01 00 00 05 00} you\nwouldn't want to spend time\naround old turtle-breath.",
-   "et": ""
+   "et": "{07 16 00}{01 00 00 0a 00}Ahh, jah, noh,{01 00 00 0f 00} {04 00 00},\nsa tead vist sellest{01 00 00 05 00}\nkõike?\n{07 0f 00}{01 00 00 05 00}Ja isegi kui ei teaks,{01 00 00 05 00} sa\nei tahaks aega veeta\nvana kilpkonnahinguga."
   },
   {
    "id": 6,
    "en": "{07 00 00}Well, the {ff 00 00 03}Bug-Off{ff 00 00 00}, you see,{01 00 00 05 00}\nis a day-long bug-catching\ncontest that ends at 6 p.m.{01 00 00 05 00}\nWhoever catches the\n{ff 00 00 02}biggest bug{ff 00 00 00} wins!{01 00 00 05 00} Of\ncourse, I'll be judging,\nso just bring them to me\nfor the official measuring!{01 01 00}\nDo you want to hear more?{02 04 00 07 05}\nYes, please.\nBug off!",
-   "et": ""
+   "et": "{07 00 00}Noh, {ff 00 00 03}putukavõistlus{ff 00 00 00} on,{01 00 00 05 00}\npäevapikkune putukapüügi\nvõistlus, mis lõpeb kell 18.{01 00 00 05 00}\nKes püüab {ff 00 00 02}suurima\nputuka{ff 00 00 00}, võidab!{01 00 00 05 00} Muidugi\nolen mina kohtunik,\nnii et too nad mulle\nametlikuks mõõtmiseks!{01 01 00}\nKas tahad rohkem kuulda?{02 04 00 07 05}\nJah, palun.\nKao ära!"
   },
   {
    "id": 7,
    "en": "{07 14 00}{01 00 00 0a 00}Well, {01 00 00 05 00}even if you don't win,{01 00 00 0f 00}\nif your bug's length sets{01 00 00 05 00}\na new record...\nI'll still give you a nice\nprize from my collection of\npre-used items!\n{07 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.{07 14 00}{01 00 00 0a 00}You're just brimming with\nexcitement right now,\n{01 00 00 05 00}aren't you, sprout?\n{07 00 00}Well, take that excitement\nand put it to work!\n\n{07 15 00}{01 00 00 0a 00}Remember, no bugs can be\nreturned after measuring!\n\n{07 00 00}Catch a bug, and it's yours.{07 03 00}{01 00 00 0f 00}\nGive ME a bug,{01 00 00 05 00}\nand it's {ff 00 00 06}mine{ff 00 00 00}!",
-   "et": ""
+   "et": "{07 14 00}{01 00 00 0a 00}Noh, {01 00 00 05 00}isegi kui sa ei võida,{01 00 00 0f 00}\nkui su putuka pikkus seab{01 00 00 05 00}\nuue rekordi...\nannan sulle ikka kena\nauhinna oma kasutatud\nesemete kogust!\n{07 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.{07 14 00}{01 00 00 0a 00}Sa oled praegu lausa\nelevusest tulvil,\n{01 00 00 05 00}kas pole, võsuke?\n{07 00 00}Noh, võta see elevus\nja pane tööle!\n\n{07 15 00}{01 00 00 0a 00}Pea meeles, putukaid ei\nsaa pärast mõõtmist tagasi!\n\n{07 00 00}Püüa putukas ja see on\nsinu.{07 03 00}{01 00 00 0f 00} Anna MULLE putukas{01 00 00 05 00}\nja see on {ff 00 00 06}minu{ff 00 00 00}!"
   },
   {
    "id": 8,
    "en": "{07 14 00}{01 00 00 0a 00}Hello there, sprout!{01 00 00 0f 00} Have\nyou caught a bug already?{02 04 00 0b 00}\nI caught one!\nNo, not yet.",
-   "et": ""
+   "et": "{07 14 00}{01 00 00 0a 00}Tere, võsuke!{01 00 00 0f 00} Kas sa\noled juba putuka püüdnud?{02 04 00 0b 00}\nPüüdsin ühe!\nEi, veel mitte."
   },
   {
    "id": 9,
    "en": "{07 09 00}{01 00 00 0a 00}Oh, well{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 05 00} I just got a\nlittle anxious.\n\n{07 00 00}Your best record of{01 00 00 05 00}\n{ff 00 00 02}{04 0f 00} mm {ff 00 00 00}remains\nunchallenged.",
-   "et": ""
+   "et": "{07 09 00}{01 00 00 0a 00}Ohh, noh{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 05 00} Läksin lihtsalt\nveidi elevile.\n\n{07 00 00}Sinu parim rekord{01 00 00 05 00}\n{ff 00 00 02}{04 0f 00} mm {ff 00 00 00}püsib\nvankumatuna."
   },
   {
    "id": 10,
    "en": "{07 09 00}{01 00 00 0a 00}I apologize.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} That's me\ngetting ahead of myself\nagain.\n{07 00 00}Anyhow, the record still\nbelongs to the {ff 00 00 02}{04 0f 00}-mm\n{0b 02 00}{ff 00 00 00}{04 1b 00}.\nYes, {04 10 00} sure does\nknow how to catch them!\n{07 19 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}Ah, the wonders of youth!",
-   "et": ""
+   "et": "{07 09 00}{01 00 00 0a 00}Vabandust.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} See olen\nmina, kes jälle ette\nrutab.\n{07 00 00}Igatahes, rekord kuulub\nikka {ff 00 00 02}{04 0f 00} mm\n{0b 02 00}{ff 00 00 00}{04 1b 00}-le.\nJah, {04 10 00} oskab neid\nküll püüda!\n{07 19 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}Ah, nooruse imed!"
   },
   {
    "id": 11,
    "en": "{07 00 00}Well, {01 00 00 05 00}let's measure that\npuppy.{01 00 00 0f 00} Hand over that bug,\n{04 00 00}.",
-   "et": ""
+   "et": "{07 00 00}Noh, {01 00 00 05 00}mõõdame selle\nkutsu ära.{01 00 00 0f 00} Anna putukas,\n{04 00 00}."
   },
   {
    "id": 12,
    "en": "{07 00 00}And remember, I only take\nbugs!{07 03 00}{01 00 00 0f 00} I'm the {ff 00 00 06}mayor{ff 00 00 00}, not\nthe recycling bin, mind you!",
-   "et": ""
+   "et": "{07 00 00}Ja pea meeles, ma võtan\nainult putukaid!{07 03 00}{01 00 00 0f 00} Olen {ff 00 00 06}pea{ff 00 00 00},\nmitte taaskasutuskast!"
   },
   {
    "id": 13,
    "en": "{07 14 00}{01 00 00 0a 00}Well, looky here, sprout!{01 00 00 05 00}\n{0b 03 00}{04 1c 00}!{01 01 00}\n{07 0e 00}{01 00 00 0a 00}But let's see how big it is.\nHmm.{01 00 00 05 00}.{01 00 00 05 00}.{01 01 00} {ff 00 00 02}{07 14 00}{04 13 00} mm{ff 00 00 00},{01 00 00 05 00} I'd say.",
-   "et": ""
+   "et": "{07 14 00}{01 00 00 0a 00}Noh, vaata aga, võsuke!{01 00 00 05 00}\n{0b 03 00}{04 1c 00}!{01 01 00}\n{07 0e 00}{01 00 00 0a 00}Aga vaatame, kui suur see.\nHmm.{01 00 00 05 00}.{01 00 00 05 00}.{01 01 00} {ff 00 00 02}{07 14 00}{04 13 00} mm{ff 00 00 00},{01 00 00 05 00} vist."
   },
   {
    "id": 14,
    "en": "{07 03 00}{01 00 00 0a 00}Heh heh {01 00 00 05 00}HOORF {01 00 00 05 00}HOO!{01 01 00} {07 14 00}Sorry\nthere,{01 00 00 05 00} {04 00 00}!\n\n{07 00 00}{0b 03 00}{04 10 00} has you beat\nwith that {ff 00 00 02}{04 0f 00}-mm\n{0b 02 00}{ff 00 00 00}{04 1b 00}!",
-   "et": ""
+   "et": "{07 03 00}{01 00 00 0a 00}Heh heh {01 00 00 05 00}HOORF {01 00 00 05 00}HOO!{01 01 00} {07 14 00}Kahju\nküll,{01 00 00 05 00} {04 00 00}!\n\n{07 00 00}{0b 03 00}{04 10 00} on sinust ees\n{ff 00 00 02}{04 0f 00} mm\n{0b 02 00}{ff 00 00 00}{04 1b 00}-ga!"
   },
   {
    "id": 15,
    "en": "{07 00 00}But {01 00 00 0a 00}don't lose heart,\nsprout! Just come on back\nwith another bug.\n{07 14 00}I'll be right here,\n{04 00 00}, tending to my\nbug-related duties!",
-   "et": ""
+   "et": "{07 00 00}Aga {01 00 00 0a 00}ära kaota julgust,\nvõsuke! Tule lihtsalt tagasi\nuue putukaga.\n{07 14 00}Ma olen siinsamas,\n{04 00 00}, ja täidan oma\nputukakohustusi!"
   },
   {
    "id": 16,
    "en": "{07 14 00}{01 00 00 0a 00}Heh heh heh!{01 00 00 0f 00} {07 1a 00}{01 00 00 0a 00}It's a new\nrecord!{01 00 00 0a 00} Goodness!",
-   "et": ""
+   "et": "{07 14 00}{01 00 00 0a 00}Heh heh heh!{01 00 00 0f 00} {07 1a 00}{01 00 00 0a 00}See on uus\nrekord!{01 00 00 0a 00} Jumaluke!"
   },
   {
    "id": 17,
    "en": "{07 00 00}Remember the {ff 00 00 02}{04 0f 00}-mm\n{0b 02 00}{ff 00 00 00}{04 1b 00} you\ncaught earlier!\nWell, that baby's old news!\n{07 14 00}{01 00 00 0a 00}You beat your own record!",
-   "et": ""
+   "et": "{07 00 00}Mäleta {ff 00 00 02}{04 0f 00} mm\n{0b 02 00}{ff 00 00 00}{04 1b 00}, mille\nsa varem püüdsid!\nNoh, see on vana uudis!\n{07 14 00}{01 00 00 0a 00}Sa lõid oma enda rekordi!"
   },
   {
    "id": 18,
    "en": "{07 00 00}That beats the record set\nby the {ff 00 00 02}{04 0f 00}-mm\n{0b 02 00}{ff 00 00 00}{04 1b 00}.\nRemember? {01 00 00 05 00}{0b 03 00}{04 10 00}\ncaught it!{01 00 00 05 00} Well, yours beats\n{07 14 00}{01 00 00 0a 00}it clean through!\nMy most heartfelt\ncongratulations,\n{01 00 00 05 00}{04 00 00}!",
-   "et": ""
+   "et": "{07 00 00}See lööb rekordi, mille\nseadis {ff 00 00 02}{04 0f 00} mm\n{0b 02 00}{ff 00 00 00}{04 1b 00}.\nMäletad? {01 00 00 05 00}{0b 03 00}{04 10 00}\npüüdis selle!{01 00 00 05 00} Noh, sinu oma\n{07 14 00}{01 00 00 0a 00}lööb selle puhtalt!\nMinu kõige südamlikumad\nõnnitlused,\n{01 00 00 05 00}{04 00 00}!"
   },
   {
    "id": 19,
    "en": "{07 00 00}Now, {01 00 00 05 00}I must give you a\nreward for setting the new\nrecord{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.",
-   "et": ""
+   "et": "{07 00 00}Nüüd {01 00 00 05 00}pean sulle andma\ntasu uue rekordi\nseadmise eest{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}."
   },
   {
    "id": 20,
    "en": "{07 00 00}Let the memory of my\n{0b 02 00}{04 1a 00}\n{01 00 00 05 00}{07 14 00}{01 00 00 0a 00}continue to inspire you!\n{07 00 00}You are in the running for\nfirst place in the {ff 00 00 03}Bug-Off{ff 00 00 00}!{01 00 00 14 00}\n{07 03 00}{01 00 00 0a 00}Heh heh, {01 00 00 05 00}HOORF BLAK! {01 00 00 05 00}HOORF!",
-   "et": ""
+   "et": "{07 00 00}Las minu\n{0b 02 00}{04 1a 00} mälestus\n{01 00 00 05 00}{07 14 00}{01 00 00 0a 00}inspireerib sind edasi!\n{07 00 00}Sa oled {ff 00 00 03}putukavõistlusel{ff 00 00 00}\nesikoha kandidaat!{01 00 00 14 00}\n{07 03 00}{01 00 00 0a 00}Heh heh, {01 00 00 05 00}HOORF BLAK! {01 00 00 05 00}HOORF!"
   },
   {
    "id": 21,
    "en": "{07 14 00}{01 00 00 0a 00}Will the lovely prize of\n{04 1a 00}{01 00 00 05 00}\ninspire you to victory?!\nI think you can do it,\nsprout! {01 00 00 05 00}Just try your best!{01 00 00 0f 00}\n{07 03 00}{01 00 00 0f 00}Heh HOORF! {01 00 00 05 00}Oh ho ho!",
-   "et": ""
+   "et": "{07 14 00}{01 00 00 0a 00}Kas võrratu auhind\n{04 1a 00}{01 00 00 05 00}\ninspireerib sind võitma?!\nArvan, et sa suudad,\nvõsuke! {01 00 00 05 00}Anna endast parim!{01 00 00 0f 00}\n{07 03 00}{01 00 00 0f 00}Heh HOORF! {01 00 00 05 00}Oh ho hoo!"
   },
   {
    "id": 22,
    "en": "{07 14 00}Now don't get a big head--{01 00 00 0a 00}\n{07 03 00}{01 00 00 0a 00}Heh heh {01 00 00 05 00}HEEorf! {01 00 00 05 00}Hoo hoorf!{01 00 00 14 00}\nBut that was quite a feat!\n{07 00 00}And for being the number-\none bug catcher,{01 00 00 05 00} you get a\nspecial prize!",
-   "et": ""
+   "et": "{07 14 00}Ära nüüd pead kaotama--{01 00 00 0a 00}\n{07 03 00}{01 00 00 0a 00}Heh heh {01 00 00 05 00}HEEorf! {01 00 00 05 00}Hoo hoorf!{01 00 00 14 00}\nAga see oli alles vägitegu!\n{07 00 00}Ja number ühe putuka-\npüüdjana{01 00 00 05 00} saad sa\nerilise auhinna!"
   },
   {
    "id": 29,
    "en": "{07 03 00}{01 00 00 0a 00}Heh heh horf! {01 00 00 05 00}Hee HORF!{01 00 00 0f 00} Too\nbad, {01 00 00 05 00}sprout! {07 00 00}You're still\nfar away from the lead!\nThe {ff 00 00 02}{04 0f 00}-mm\n{ff 00 00 00}{0b 02 00}{04 1b 00} is\nstill the record holder!",
-   "et": ""
+   "et": "{07 03 00}{01 00 00 0a 00}Heh heh horf! {01 00 00 05 00}Hee HORF!{01 00 00 0f 00}\nKahju,{01 00 00 05 00} võsuke! {07 00 00}Sa oled ikka\njuhtidest kaugel!\n{ff 00 00 02}{04 0f 00} mm\n{ff 00 00 00}{0b 02 00}{04 1b 00} on\nikka rekordiomanik!"
   },
   {
    "id": 30,
    "en": "{07 09 00}What's that now, sprout?{01 00 00 0a 00}\nJust get me some bugs,\nI say!",
-   "et": ""
+   "et": "{07 09 00}Mis nüüd, võsuke?{01 00 00 0a 00}\nTo mulle lihtsalt putukaid,\nütlen ma!"
   }
  ]
 }

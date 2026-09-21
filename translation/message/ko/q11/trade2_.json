@@ -4,17 +4,17 @@
   {
    "id": 0,
    "en": "{07 00 00}Go stand in front of the\none you like. Just stand\nthere and mumble, OK?",
-   "et": ""
+   "et": "{07 00 00}Mine seisa selle ette,\nmis sulle meeldib. Lihtsalt\nseisa seal ja pomise, eks?"
   },
   {
    "id": 1,
    "en": "{07 00 00}Now tell me which one!{01 01 00}\n{07 11 00}No hard feelings, I promise!",
-   "et": ""
+   "et": "{07 00 00}Nüüd ütle mulle, milline!{01 01 00}\n{07 11 00}Ma ei pane pahaks, luban!"
   },
   {
    "id": 2,
    "en": "{07 00 00}Just go touch the one\nyou're thinking of,\n{01 00 00 05 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 00 00}Lihtsalt puuduta seda,\nmille peale sa mõtled,\n{01 00 00 05 00}{04 02 00}!"
   }
  ]
 }

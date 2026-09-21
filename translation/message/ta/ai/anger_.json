@@ -4,27 +4,27 @@
   {
    "id": 0,
    "en": "{07 15 00}Do you have any idea how I\nfeel right now?{01 00 00 0a 00} You don't, {01 00 00 05 00}\ndo you!? You're so clueless!\n{07 05 00}Hmph! {01 00 00 0a 00}Why don't you just\nget outta my way,\n{04 02 00}! Move it!",
-   "et": ""
+   "et": "{07 15 00}Kas sul on aimugi, kuidas\nma end tunnen?{01 00 00 0a 00} Ei ole, {01 00 00 05 00}\nega?! Sa oled nii võhik!\n{07 05 00}Pff! {01 00 00 0a 00}Mine lihtsalt\nmu teelt eest,\n{04 02 00}! Liiguta!"
   },
   {
    "id": 1,
    "en": "{07 05 00}{01 00 00 0a 00}Move it!{01 00 00 0a 00} {0b 03 00}{04 02 00}!{01 00 00 14 00}\nLook, I'm just not up to\nseeing{01 00 00 0a 00} anyone right now!",
-   "et": ""
+   "et": "{07 05 00}{01 00 00 0a 00}Liiguta!{01 00 00 0a 00} {0b 03 00}{04 02 00}!{01 00 00 14 00}\nKuule, ma lihtsalt ei suuda\npraegu{01 00 00 0a 00} kedagi näha!"
   },
   {
    "id": 2,
    "en": "{07 15 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00}Ugh!{01 00 00 0f 00}\nThis is the worst{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n\n{07 05 00}Please, just don't talk to\nme right now, {01 00 00 0a 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 15 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00}Öök!{01 00 00 0f 00}\nSee on kõige hullem{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n\n{07 05 00}Palun ära lihtsalt räägi\nminuga praegu, {01 00 00 0a 00}{04 02 00}!"
   },
   {
    "id": 3,
    "en": "{07 01 00}Gosh.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} I'm so irritated!\nI feel like a million\nmosquitoes just bit me!\n{07 05 00}{01 00 00 0a 00}You know what your problem\nis? You're so{01 00 00 0a 00} stuffy! You're\nlike my grandma's basement!",
-   "et": ""
+   "et": "{07 01 00}Issand.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} Ma olen nii\närritunud! Tunnen, nagu\noleks miljon sääske mind\nhammustanud! {07 05 00}{01 00 00 0a 00}Tead, mis sul\nviga on? Sa oled nii{01 00 00 0a 00} umbne!\nNagu mu vanaema kelder!"
   },
   {
    "id": 4,
    "en": "{07 05 00}{01 00 00 0a 00}Exactly what part of\n\"LEAVE ME ALONE\" do you not\nunderstand?! {01 00 00 0a 00}{0b 03 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 05 00}{01 00 00 0a 00}Millisest osast lausest\n„JÄTA MIND RAHULE” sa aru\nei saa?! {01 00 00 0a 00}{0b 03 00}{04 02 00}!"
   }
  ]
 }

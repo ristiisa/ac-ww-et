@@ -4,32 +4,32 @@
   {
    "id": 0,
    "en": "{07 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}Ow, wait, hang on, now!{01 00 00 05 00}\nYour pockets are all full,{01 00 00 05 00}\n{07 0b 00}aren't they?\n{07 00 00}Throw out something or give\nsomething away and come\nback later, {01 00 00 05 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}Oih, oota, pea kinni!{01 00 00 05 00}\nSu taskud on täiesti täis,{01 00 00 05 00}\n{07 0b 00}kas pole?\n{07 00 00}Viska midagi ära või anna\nmidagi ära ja tule\nhiljem tagasi, {01 00 00 05 00}{04 02 00}!"
   },
   {
    "id": 1,
    "en": "{07 0e 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}Wait, what the heck?!{01 00 00 0a 00}\n{07 15 00}Man, LOOK at you!{01 00 00 05 00} Your\npockets are totally full!\n{07 14 00}You better deal with that\nspace issue and then come\nback, {01 00 00 05 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 0e 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}Oota, mis pagan?!{01 00 00 0a 00}\n{07 15 00}Mees, VAATA ennast!{01 00 00 05 00} Su\ntaskud on täiesti täis!\n{07 14 00}Tegele parem selle ruumi-\nprobleemiga ja tule siis\ntagasi, {01 00 00 05 00}{04 02 00}!"
   },
   {
    "id": 2,
    "en": "{07 0c 00}Oh yeah!{01 00 00 14 00} {07 14 00}I haven't given you\na gift for that {ff 00 00 07}medicine \n{ff 00 00 00}yet, have I, {01 00 00 05 00}{04 02 00}?",
-   "et": ""
+   "et": "{07 0c 00}Ah jaa!{01 00 00 14 00} {07 14 00}Ma pole sulle veel\nselle {ff 00 00 07}rohu \n{ff 00 00 00}eest kinkinud, {01 00 00 05 00}{04 02 00}?"
   },
   {
    "id": 3,
    "en": "{07 1d 00}Whoa!{01 00 00 14 00} I just remembered,\n{07 0b 00}I never thanked you for \nthat, did I?",
-   "et": ""
+   "et": "{07 1d 00}Ohoo!{01 00 00 14 00} Mulle tuli meelde,\n{07 0b 00}ma pole sind selle eest \ntänanudki, ega?"
   },
   {
    "id": 4,
    "en": "{07 04 00}Whoops!{01 00 00 14 00} {07 15 00}Hey, your pockets\nare still full!\n\n{07 16 00}Man, that ain't gonna work!{01 01 00}\n{07 0b 00}Do you want me to take\nsomething, {01 00 00 05 00}{04 02 00}?",
-   "et": ""
+   "et": "{07 04 00}Uups!{01 00 00 14 00} {07 15 00}Hei, su taskud on\nikka veel täis!\n\n{07 16 00}Mees, nii ei lähe!{01 01 00}\n{07 0b 00}Kas tahad, et ma võtaksin\nmidagi, {01 00 00 05 00}{04 02 00}?"
   },
   {
    "id": 5,
    "en": "{07 16 00}Hey, c'mon, {01 00 00 05 00}{04 1f 00}!{01 00 00 0a 00}\nYour pockets are still\npractically exploding!\n{07 16 00}Look, the way things are,\nI can't give you the thank-\nyou gift yet, {01 00 00 05 00}{04 02 00}.",
-   "et": ""
+   "et": "{07 16 00}Hei, ole nüüd, {01 00 00 05 00}{04 1f 00}!{01 00 00 0a 00}\nSu taskud on ikka\npraktiliselt lõhkemas!\n{07 16 00}Vaata, sellises olukorras\nei saa ma sulle veel\ntänukinki anda, {01 00 00 05 00}{04 02 00}."
   }
  ]
 }

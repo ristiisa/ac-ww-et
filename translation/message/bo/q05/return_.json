@@ -4,17 +4,17 @@
   {
    "id": 0,
    "en": "{07 14 00}Huh huh huh!{01 00 00 14 00} This furniture{01 00 00 0a 00}\nreally does smell good.{01 00 00 0a 00}\nSeriously, give it a sniff!",
-   "et": ""
+   "et": "{07 14 00}Hah hah haa!{01 00 00 14 00} See mööbel{01 00 00 0a 00}\nlõhnab tõesti hästi.{01 00 00 0a 00}\nTõsiselt, nuusuta!"
   },
   {
    "id": 1,
    "en": "{07 0a 00}Huh huh!{01 00 00 05 00} Right now{01 00 00 0f 00}{01 00 00 0a 00} I feel so\nwarm and happy inside! Like\nfresh-baked bread!",
-   "et": ""
+   "et": "{07 0a 00}Hah hah!{01 00 00 05 00} Praegu{01 00 00 0f 00}{01 00 00 0a 00} on mul\nnii soe ja hea tunne! Nagu\nvärskelt küpsetatud leib!"
   },
   {
    "id": 2,
    "en": "{07 0e 00}{01 00 00 0a 00}Hmm.{01 00 00 05 00} Now the question is,\nwhere in my place should\nit go{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n{07 19 00}Right now,{01 00 00 0a 00} I'm thinking\nabout how to set the right\nmood,{01 00 00 0a 00} {04 02 00}.",
-   "et": ""
+   "et": "{07 0e 00}{01 00 00 0a 00}Hmm.{01 00 00 05 00} Nüüd on küsimus,\nkuhu mu kodus see\nkäib{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n{07 19 00}Praegu{01 00 00 0a 00} mõtlen sellele,\nkuidas õiget meeleolu\nluua,{01 00 00 0a 00} {04 02 00}."
   }
  ]
 }

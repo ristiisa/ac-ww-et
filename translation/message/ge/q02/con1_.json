@@ -4,17 +4,17 @@
   {
    "id": 0,
    "en": "{07 1d 00}Oh, {01 00 00 05 00}{04 1f 00}...{01 00 00 05 00}{07 11 00} Saaay...\nHave you managed to nab\n{04 1a 00}?\n{07 14 00}Me neither!{01 01 00}{07 00 00} Yep, fishing\nis something you gotta do\nat your own pace!",
-   "et": ""
+   "et": "{07 1d 00}Oh, {01 00 00 05 00}{04 1f 00}...{01 00 00 05 00}{07 11 00} Kuuleee...\nKas sul on õnnestunud\nnapsata {04 1a 00}?\n{07 14 00}Mul ka mitte!{01 01 00}{07 00 00} Jah, kalapüük\non asi, mida pead tegema\noma tempos!"
   },
   {
    "id": 1,
    "en": "{07 04 00}Wha--?! You ALREADY\nstarted fishing for\n{04 1a 00}?!\n{07 16 00}Oh, CRUMBLEBUNS!{01 00 00 0a 00} I better\nshift into, like, high gear,\n{01 00 00 05 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 04 00}Mi--?! Sa juba ALUSTASID\n{04 1a 00}\npüüdmist?!\n{07 16 00}Oh, KURATSAIAD!{01 00 00 0a 00} Pean, nagu,\nkõrgema käigu sisse\nlülitama, {01 00 00 05 00}{04 02 00}!"
   },
   {
    "id": 2,
    "en": "{07 00 00}I wonder how big\n{04 1a 00} is,\n{01 00 00 05 00}{04 02 00}.\n{07 06 00}What if I try to catch it\nand it eats ME instead??!!{01 00 00 0f 00}\n{0b 03 00}{04 02 00}!!",
-   "et": ""
+   "et": "{07 00 00}Huvitav, kui suur\n{04 1a 00} on,\n{01 00 00 05 00}{04 02 00}.\n{07 06 00}Mis siis, kui ma üritan teda\npüüda ja ta sööb hoopis\nMIND??!!{01 00 00 0f 00} {0b 03 00}{04 02 00}!!"
   }
  ]
 }

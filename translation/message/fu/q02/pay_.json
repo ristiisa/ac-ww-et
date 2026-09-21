@@ -4,17 +4,17 @@
   {
    "id": 0,
    "en": "{07 00 00}Thanks for bringing me a\n{0b 02 00}{04 1a 00}.\n\nPlease, take this\n{0b 02 00}{04 1b 00}.\nSeriously, {01 00 00 05 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 00 00}Aitäh, et tõid mulle\n{0b 02 00}{04 1a 00}.\n\nPalun, võta see\n{0b 02 00}{04 1b 00}.\nTõsiselt, {01 00 00 05 00}{04 02 00}!"
   },
   {
    "id": 1,
    "en": "{07 14 00}Here, you should take this\n{0b 02 00}{04 1b 00}.{01 00 00 05 00}\nOh, no, it's nothing, really.",
-   "et": ""
+   "et": "{07 14 00}Kuule, võta see\n{0b 02 00}{04 1b 00}.{01 00 00 05 00}\nOh ei, pole midagi, tõesti."
   },
   {
    "id": 2,
    "en": "{07 14 00}I want you to have this\n{0b 02 00}{04 1b 00} as\na little thank-you gift.",
-   "et": ""
+   "et": "{07 14 00}Ma tahan, et sa võtaksid\nselle {0b 02 00}{04 1b 00}\nväikeseks tänukingiks."
   }
  ]
 }

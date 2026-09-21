@@ -4,17 +4,17 @@
   {
    "id": 0,
    "en": "{07 14 00}I really appreciate\neverything you did for me,\n{01 00 00 05 00}{04 02 00}.",
-   "et": ""
+   "et": "{07 14 00}Ma hindan väga kõike,\nmida sa minu heaks tegid,\n{01 00 00 05 00}{04 02 00}."
   },
   {
    "id": 1,
    "en": "{07 06 00}I'll never forget your\nkindness!{01 01 00} {07 14 00}It's nice to know\nyou're there for me.",
-   "et": ""
+   "et": "{07 06 00}Ma ei unusta kunagi su\nlahkust!{01 01 00} {07 14 00}Hea teada, et sa\noled minu jaoks olemas."
   },
   {
    "id": 2,
    "en": "{07 0a 00}{0b 03 00}{04 1f 00}, I don't know\nwhat I would have done if\nyou weren't here!\n{07 14 00}So don't go moving on me,\nbecause I don't want to\nhave to find out!",
-   "et": ""
+   "et": "{07 0a 00}{0b 03 00}{04 1f 00}, ma ei tea,\nmida ma oleksin teinud,\nkui sind poleks olnud!\n{07 14 00}Nii et ära koli minu juurest\nära, sest ma ei taha seda\nteada saada!"
   }
  ]
 }

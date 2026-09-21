@@ -4,17 +4,17 @@
   {
    "id": 0,
    "en": "{07 04 00}Wait, WHAT?!{01 00 00 0a 00} The letter's\nseal is{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n\n{07 15 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}YOU!{01 00 00 05 00} Unbelievable!{01 00 00 05 00} {07 01 00}You're\njust a JERK, {01 00 00 05 00}{04 02 00}!\nA BIG JERK!{03 02 00 01}",
-   "et": ""
+   "et": "{07 04 00}Oota, MIDA?!{01 00 00 0a 00} Kirja\npitsat on{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n\n{07 15 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}SINA!{01 00 00 05 00} Uskumatu!{01 00 00 05 00} {07 01 00}Sa oled\nlihtsalt TOLA, {01 00 00 05 00}{04 02 00}!\nSUUR TOLA!{03 02 00 01}"
   },
   {
    "id": 1,
    "en": "{07 04 00}Huh?{01 00 00 14 00} {07 0b 00}This letter{01 00 00 05 00} looks like\nsomeone already opened it{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n\n{07 15 00}Heyyyy...{01 00 00 05 00} Why are you acting\nall funny, {01 00 00 05 00}{04 02 00}?\n\n{07 02 00}No!{01 00 00 05 00} Do NOT tell me....\n{0b 03 00}{04 1f 00}, YOU did it?!{01 00 00 14 00}\n{07 08 00}I can't believe it!{03 03 00 01}",
-   "et": ""
+   "et": "{07 04 00}Ah?{01 00 00 14 00} {07 0b 00}See kiri{01 00 00 05 00} näib olevat\nkellegi poolt juba avatud{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n\n{07 15 00}Kuuuule...{01 00 00 05 00} Miks sa käitud\nnii veidralt, {01 00 00 05 00}{04 02 00}?\n\n{07 02 00}Ei!{01 00 00 05 00} ÄRA ütle....\n{0b 03 00}{04 1f 00}, SINA tegid seda?!{01 00 00 14 00}\n{07 08 00}Ma ei usu seda!{03 03 00 01}"
   },
   {
    "id": 2,
    "en": "{07 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}Wait just a second...{01 00 00 0a 00}\n{07 02 00}This envelope's seal is\ntotally broken!\n{07 15 00}HEY!{01 00 00 0a 00} You! {01 00 00 05 00}You looked inside?!\nWhat, you think that's cool\nor something, {01 00 00 05 00}{04 02 00}?!\n{07 08 00}You have no respect for a\ngirl's privacy, {01 00 00 05 00}{04 02 00}!{03 03 00 01}",
-   "et": ""
+   "et": "{07 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}Oota üks hetk...{01 00 00 0a 00}\n{07 02 00}Selle ümbriku pitsat on\ntäiesti katki!\n{07 15 00}HEI!{01 00 00 0a 00} Sina! {01 00 00 05 00}Sa vaatasid?!\nMis, sa arvad, et see on\nvõi nii, {01 00 00 05 00}{04 02 00}?!\n{07 08 00}Sul pole mingit austust\ntüdruku eraelu, {01 00 00 05 00}{04 02 00}!{03 03 00 01}"
   }
  ]
 }

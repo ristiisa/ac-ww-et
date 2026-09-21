@@ -4,17 +4,17 @@
   {
    "id": 0,
    "en": "{07 04 00}Whoa! {01 00 00 0f 00}So you made the\ndelivery on time, huh?!{01 00 00 14 00}\n{07 14 00}You put{ff 00 00 06} Petey {ff 00 00 00}to shame!",
-   "et": ""
+   "et": "{07 04 00}Ohoo! {01 00 00 0f 00}Nii et sa toimetasid\nselle õigeks ajaks, mis?!{01 00 00 14 00}\n{07 14 00}Sa jätsid{ff 00 00 06} Petey {ff 00 00 00}häbisse!"
   },
   {
    "id": 1,
    "en": "{07 04 00}Whoa!{01 00 00 0f 00} {07 14 00}You actually did it on\ntime. I didn't think you\nwere up to it.",
-   "et": ""
+   "et": "{07 04 00}Ohoo!{01 00 00 0f 00} {07 14 00}Sa tõesti tegid selle\nõigeks ajaks. Ei arvanud,\net sa suudad."
   },
   {
    "id": 2,
    "en": "{07 14 00}Right on, kid.{01 00 00 05 00}{01 00 00 0f 00} You could\ngive {ff 00 00 06}Petey{ff 00 00 00} a run for his\nmoney, {01 00 00 05 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 14 00}Vaat nii, poiss.{01 00 00 05 00}{01 00 00 0f 00} Sa võiksid\n{ff 00 00 06}Peteyle{ff 00 00 00} konkurentsi\npakkuda, {01 00 00 05 00}{04 02 00}!"
   }
  ]
 }

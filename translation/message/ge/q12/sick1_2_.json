@@ -4,112 +4,112 @@
   {
    "id": 0,
    "en": "{07 1c 00}Ugh{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}. {07 07 00}Sh-shoulda stayed in\nbed{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}. G-gonna need more\nb-blankets t-tonight...",
-   "et": ""
+   "et": "{07 1c 00}Ohh{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}. {07 07 00}O-oleksin pidanud\nvoodisse jääma{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}. V-vajan\ntäna r-rohkem tekke..."
   },
   {
    "id": 1,
    "en": "{07 1c 00}No, no.{01 00 00 05 00} I'll be, like, all fine\nand stuff soon,\n{01 00 00 05 00}{04 02 00}.",
-   "et": ""
+   "et": "{07 1c 00}Ei, ei.{01 00 00 05 00} Ma olen, nagu, varsti\ntäitsa korras,\n{01 00 00 05 00}{04 02 00}."
   },
   {
    "id": 2,
    "en": "{07 01 00}SICKNESS IS FOR THE WEAK!\n{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{07 0f 00}Oh, who am I kidding?{01 00 00 05 00}\nI'm weak!{01 00 00 05 00} I'm sick and weak!",
-   "et": ""
+   "et": "{07 01 00}HAIGUS ON NÕRKADELE!\n.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 0f 00}Oh, keda ma petan?{01 00 00 05 00}\nMa olen nõrk!{01 00 00 05 00} Haige ja nõrk!"
   },
   {
    "id": 3,
    "en": "{07 1c 00}Oh, why am I sick?{01 00 00 05 00} I'm too\ncute and healthy to be\nsick!",
-   "et": ""
+   "et": "{07 1c 00}Oh, miks ma haige olen?{01 00 00 05 00} Ma\nolen liiga nunnu ja terve,\net haige olla!"
   },
   {
    "id": 4,
    "en": "{07 16 00}T-take care of yourself!{01 00 00 0f 00}\nI'll be here unless I, like,\nfall over and can't stand...",
-   "et": ""
+   "et": "{07 16 00}H-hoia end!{01 00 00 0f 00}\nMa olen siin, kui ma just,\nnagu, ümber ei kuku..."
   },
   {
    "id": 5,
    "en": "{07 16 00}Um, yeah. So, like, see ya{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\nIf you come back and I've\nfainted, just prop me up.",
-   "et": ""
+   "et": "{07 16 00}Emm, jah. Nii et nägemist{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\nKui sa tagasi tuled ja olen\nminestanud, toeta mind."
   },
   {
    "id": 6,
    "en": "{07 16 00}Yeah{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}. Bye{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.",
-   "et": ""
+   "et": "{07 16 00}Jah{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}. Nägemist{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}."
   },
   {
    "id": 7,
    "en": "{07 04 00}Oh! {01 00 00 05 00}{ff 00 00 07}Medicine{ff 00 00 00}?!",
-   "et": ""
+   "et": "{07 04 00}Oh! {01 00 00 05 00}{ff 00 00 07}Rohi{ff 00 00 00}?!"
   },
   {
    "id": 8,
    "en": "{07 04 00}You brought me {ff 00 00 07}medicine{ff 00 00 00}!",
-   "et": ""
+   "et": "{07 04 00}Sa tõid mulle {ff 00 00 07}rohtu{ff 00 00 00}!"
   },
   {
    "id": 9,
    "en": "{07 1d 00}Wow!{01 00 00 05 00} Is that {ff 00 00 07}medicine{ff 00 00 00}?!{01 00 00 0a 00} Oh,\nwow!{01 00 00 05 00} Like, thank you!",
-   "et": ""
+   "et": "{07 1d 00}Vau!{01 00 00 05 00} Kas see on {ff 00 00 07}rohi{ff 00 00 00}?!{01 00 00 0a 00} Oh,\nvau!{01 00 00 05 00} Nagu, aitäh!"
   },
   {
    "id": 10,
    "en": "{07 16 00}What?{01 00 00 05 00} You don't have it!{01 01 00}\n{07 0b 00}Are you confused?{01 00 00 05 00} OR AM I?{01 00 00 0f 00}\nOh no!{01 00 00 05 00} I'm goin' CRAZY!",
-   "et": ""
+   "et": "{07 16 00}Mida?{01 00 00 05 00} Sul pole seda!{01 01 00} {07 0b 00}Kas sa\noled segaduses?{01 00 00 05 00} VÕI MINA?{01 00 00 0f 00}\nOh ei!{01 00 00 05 00} Ma lähen HULLUKS!"
   },
   {
    "id": 11,
    "en": "{07 15 00}You don't have {ff 00 00 07}medicine{ff 00 00 00}!{01 00 00 0a 00}\nLIAR! MEAN OLD LIAR! {01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.Oooh,\nI'm gonna be sick{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}. {07 00 00}{07 07 00}{01 09 00}BLARRG!",
-   "et": ""
+   "et": "{07 15 00}Sul pole {ff 00 00 07}rohtu{ff 00 00 00}!{01 00 00 0a 00} VALETAJA!\nÕEL VANA VALETAJA! {01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}Oooh,\nmul hakkab paha{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}. {07 00 00}{07 07 00}{01 09 00}BLÄÄRG!"
   },
   {
    "id": 12,
    "en": "{07 04 00}What? {01 00 00 05 00}Where is it?{01 01 00} {07 15 00}NO! Not\nfair, {01 00 00 05 00}{04 02 00}!{01 00 00 0a 00} PLEEASE\nBRING IT!!",
-   "et": ""
+   "et": "{07 04 00}Mida? {01 00 00 05 00}Kus see on?{01 01 00} {07 15 00}EI! Pole\naus, {01 00 00 05 00}{04 02 00}!{01 00 00 0a 00} PAAALUN\nTOO SEE!!"
   },
   {
    "id": 13,
    "en": "{07 06 00}H-{01 00 00 05 00}hey!!{01 00 00 0a 00} C'MON!! You GOTTA\ngive it to me!!",
-   "et": ""
+   "et": "{07 06 00}H-{01 00 00 05 00}hei!!{01 00 00 0a 00} TULE!! Sa PEAD\nselle mulle andma!!"
   },
   {
    "id": 14,
    "en": "{07 1d 00}WHAT?!{01 00 00 0a 00} What do you mean?!",
-   "et": ""
+   "et": "{07 1d 00}MIDA?!{01 00 00 0a 00} Mis mõttes?!"
   },
   {
    "id": 15,
    "en": "{07 15 00}Are you TEASING a sick girl,\n{01 00 00 05 00}{04 02 00}?! That's so\ncruel...{01 00 00 0a 00} {07 00 00}{07 08 00}WAAAAAAAAH!!!",
-   "et": ""
+   "et": "{07 15 00}Kas sa NARRID haiget\ntüdrukut, {01 00 00 05 00}{04 02 00}?! See on\nnii julm...{01 00 00 0a 00} {07 00 00}{07 08 00}AAAAAAAH!!!"
   },
   {
    "id": 16,
    "en": "{07 00 00}Gluuuuggg{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} {07 1c 00}Ahhhhhh{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\nThank you, {01 00 00 05 00}{04 1f 00}!",
-   "et": ""
+   "et": "{07 00 00}Gluuuggg{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} {07 1c 00}Ahhhhh{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\nAitäh, {01 00 00 05 00}{04 1f 00}!"
   },
   {
    "id": 17,
    "en": "{07 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}Ahhhhh.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n\n\n{07 16 00}Whoa...{01 00 00 05 00}  I still feel kinda\ndizzy, but I think I'll be\nOK!{01 00 00 05 00} {07 14 00}Thanks, {04 1f 00}!",
-   "et": ""
+   "et": "{07 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}Ahhhh{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n\n\n{07 16 00}Vau...{01 00 00 05 00}  Mul on ikka veidi\npea ringi käimas, ma vist\nsaan korda!{01 00 00 05 00} {07 14 00}Aitäh, {04 1f 00}!"
   },
   {
    "id": 18,
    "en": "{07 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}Like, aaaaaaahhhh.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n\n\n{07 14 00}Thanks...{01 00 00 0a 00} Sorry for making\nyou all worried.{01 00 00 05 00} I'll be\nbetter soon, {01 00 00 05 00}{04 02 00}.",
-   "et": ""
+   "et": "{07 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}Nagu, aaaaahhh{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n\n\n{07 14 00}Aitäh...{01 00 00 0a 00} Vabandust, et sind\nmuretsema panin.{01 00 00 05 00} Saan\nvarsti paremaks, {01 00 00 05 00}{04 02 00}."
   },
   {
    "id": 19,
    "en": "{07 14 00}Yeah...{01 00 00 0a 00} I feel a lot better!\n\n\n{07 16 00}But {01 00 00 05 00}it'll probably take a \nwhile until I'm totally\nrecovered, {01 00 00 05 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 14 00}Jah...{01 00 00 0a 00} Tunnen end palju\nparemini! \n\n{07 16 00}Aga {01 00 00 05 00}ilmselt läheb veel \naega, kuni olen täiesti\nterve, {01 00 00 05 00}{04 02 00}!"
   },
   {
    "id": 20,
    "en": "{07 14 00}Thanks for taking SUCH GOOD\ncare of me, {01 00 00 05 00}{04 1f 00}!{01 00 00 0a 00}\n{07 00 00}{07 0a 00}You're a total ANGEL!",
-   "et": ""
+   "et": "{07 14 00}Aitäh, et sa mu eest NII\nHÄSTI hoolitsesid, {01 00 00 05 00}{04 1f 00}!{01 00 00 0a 00}\n{07 00 00}{07 0a 00}Sa oled täielik INGEL!"
   },
   {
    "id": 21,
    "en": "{07 16 00}I gotta be careful while I'm\nrecovering from this,\n{01 00 00 05 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 16 00}Ma pean ettevaatlik olema,\nkuni sellest toibun,\n{01 00 00 05 00}{04 02 00}!"
   }
  ]
 }

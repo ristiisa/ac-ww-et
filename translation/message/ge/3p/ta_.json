@@ -4,87 +4,87 @@
   {
    "id": 0,
    "en": "{09 01 00}{09 08 00}{07 14 00}Hey, {ff 00 00 06}{04 10 00}{ff 00 00 00}!\nI've got some totally cool\nnews, {01 00 00 05 00}{04 02 00}!\n{07 0a 00}I've been voted the most\npopular girl in\n{04 03 00}!{09 09 00}",
-   "et": ""
+   "et": "{09 01 00}{09 08 00}{07 14 00}Kuule, {ff 00 00 06}{04 10 00}{ff 00 00 00}!\nMul on täiesti lahedad\nuudised, {01 00 00 05 00}{04 02 00}!\n{07 0a 00}Mind valiti {04 03 00}\nkõige populaarsemaks\ntüdrukuks!{09 09 00}"
   },
   {
    "id": 1,
    "en": "{09 01 00}{09 08 00}{07 00 00}My favorite dinner is a{01 00 00 05 00}\nveggie burger and \n{04 11 00} combo!\n{07 0b 00}What do you like,\n{ff 00 00 06}{04 10 00}{ff 00 00 00}?\nEh, {01 00 00 05 00}{04 02 00}?{09 09 00}",
-   "et": ""
+   "et": "{09 01 00}{09 08 00}{07 00 00}Mu lemmikõhtusöök on{01 00 00 05 00}\nköögiviljaburger ja \n{04 11 00} komplekt!\n{07 0b 00}Mis sulle meeldib,\n{ff 00 00 06}{04 10 00}{ff 00 00 00}?\nEks, {01 00 00 05 00}{04 02 00}?{09 09 00}"
   },
   {
    "id": 2,
    "en": "{09 01 00}{09 08 00}{07 16 00}I know it's weird for me to\nsay things about my own\nlegs, but.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\nDo you think I've got yeti\nlegs, {01 00 00 05 00}{04 02 00}?{09 09 00}",
-   "et": ""
+   "et": "{09 01 00}{09 08 00}{07 16 00}Ma tean, et on veider, et\nma räägin oma jalgadest,\naga{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\nKas sinu meelest on mul\njeti jalad, {01 00 00 05 00}{04 02 00}?{09 09 00}"
   },
   {
    "id": 3,
    "en": "{07 14 00}{09 00 00}{09 08 00}{09 02 00}{09 06 00}{07 1a 00}That's really cool!{01 01 00}\n{07 00 00}But, {ff 00 00 06}{04 0f 00}{ff 00 00 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n\n{07 1b 00}When you're popular, it\nmeans people secretly\ndespise you.{09 09 00}",
-   "et": ""
+   "et": "{07 14 00}{09 00 00}{09 08 00}{09 02 00}{09 06 00}{07 1a 00}See on tõesti lahe!{01 01 00}\n{07 00 00}Aga, {ff 00 00 06}{04 0f 00}{ff 00 00 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n\n{07 1b 00}Kui sa oled populaarne,\ntähendab see, et inimesed\nsalaja põlgavad sind.{09 09 00}"
   },
   {
    "id": 4,
    "en": "{09 00 00}{09 06 00}{09 01 00}{07 04 00}WHAT?!{01 00 00 14 00} {07 06 00}I didn't know that,\n{01 00 00 05 00}{04 02 00}!{09 09 00}",
-   "et": ""
+   "et": "{09 00 00}{09 06 00}{09 01 00}{07 04 00}MIDA?!{01 00 00 14 00} {07 06 00}Ma ei teadnud seda,\n{01 00 00 05 00}{04 02 00}!{09 09 00}"
   },
   {
    "id": 5,
    "en": "{07 16 00}{09 00 00}{09 08 00}{09 02 00}{07 00 00}If you want people to\nREALLY like you, just follow\nmy lead!\n{07 14 00}People are always jealous\nof me, see!{01 00 00 05 00}{09 09 00}",
-   "et": ""
+   "et": "{07 16 00}{09 00 00}{09 08 00}{09 02 00}{07 00 00}Kui sa tahad, et inimesed\nsind TÕESTI armastaksid,\njärgi lihtsalt minu eeskuju!\n{07 14 00}Inimesed on alati minu peale\nkadedad, näed!{01 00 00 05 00}{09 09 00}"
   },
   {
    "id": 6,
    "en": "{07 00 00}{09 00 00}{09 06 00}{09 02 00}{07 19 00}{09 01 00}{07 0e 00}So what you're saying is{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\nTo get people to really\nlike me{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{09 02 00}{07 00 00}{09 01 00}{07 0b 00}I gotta make them hate me\nfirst?!{03 03 00 01}",
-   "et": ""
+   "et": "{07 00 00}{09 00 00}{09 06 00}{09 02 00}{07 19 00}{09 01 00}{07 0e 00}Nii et sa ütled{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\nEt inimesed mind tõesti\narmastaksid{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{09 02 00}{07 00 00}{09 01 00}{07 0b 00}pean ma esmalt panema nad\nmind vihkama?!{03 03 00 01}"
   },
   {
    "id": 7,
    "en": "{07 00 00}{09 00 00}{09 08 00}{09 02 00}{07 0b 00}Me?!{01 00 00 14 00} {07 1b 00}How could you even\nthink that I EVER eat junk\nfood like that!\n{07 0e 00}But, {01 00 00 05 00}if I had to choose{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00}\n{07 0c 00}I'd get the milk shake and\n{04 12 00} combo!{01 00 00 14 00}\n{07 00 00}So{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}good.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{09 09 00}",
-   "et": ""
+   "et": "{07 00 00}{09 00 00}{09 08 00}{09 02 00}{07 0b 00}Mina?!{01 00 00 14 00} {07 1b 00}Kuidas sa üldse\nvõid arvata, et ma IIAL\nsöön sellist rämpstoitu!\n{07 0e 00}Aga {01 00 00 05 00}kui peaksin valima{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00}\n{07 0c 00}Ma võtaksin piimakokteili ja\n{04 12 00} komplekti!{01 00 00 14 00}\n{07 00 00}Nii{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}hea{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{09 09 00}"
   },
   {
    "id": 8,
    "en": "{09 00 00}{09 06 00}{09 01 00}{07 16 00}Uhh, I don't see the\ndifference, {01 00 00 05 00}{04 02 00}.\n\nHey, {04 1f 00}! You like\njunk food, right?{02 00 00 09 0b}\nSo tasty!\nSo nasty!",
-   "et": ""
+   "et": "{09 00 00}{09 06 00}{09 01 00}{07 16 00}Öö, ma ei näe\nvahet, {01 00 00 05 00}{04 02 00}.\n\nKuule, {04 1f 00}! Sulle\nmeeldib rämpstoit, eks?{02 00 00 09 0b}\nNii maitsev!\nNii jäle!"
   },
   {
    "id": 9,
    "en": "{09 02 00}{09 04 00}{09 01 00}{07 0d 00}I knew it!{01 01 00} {07 00 00}But since YOU\nlike it, I'm not into it\nanymore.\n{07 1c 00}Junk food is so played out\nnow that other people like\nit{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{09 04 00}{07 06 00}I can't like anything other\npeople are into.{09 09 00}",
-   "et": ""
+   "et": "{09 02 00}{09 04 00}{09 01 00}{07 0d 00}Ma teadsin!{01 01 00} {07 00 00}Aga kuna SINULE\nsee meeldib, ei huvita see\nmind enam.\n{07 1c 00}Rämpstoit on nii ära\nleierdatud, kui see teistele\nmeeldib{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{09 04 00}{07 06 00}Mulle ei saa meeldida miski,\nmis teistele meeldib.{09 09 00}"
   },
   {
    "id": 10,
    "en": "{07 00 00}{09 00 00}{09 08 00}{09 02 00}{09 05 00}{07 16 00}Yeah. I kinda know what\nyou mean{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{04 02 00}.",
-   "et": ""
+   "et": "{07 00 00}{09 00 00}{09 08 00}{09 02 00}{09 05 00}{07 16 00}Jah. Ma saan kuidagi aru,\nmida sa mõtled{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{04 02 00}."
   },
   {
    "id": 11,
    "en": "{09 02 00}{09 04 00}{09 01 00}{07 04 00}Really? {01 00 00 05 00}{07 14 00}I didn't know you\nwere so health conscious!{09 09 00}",
-   "et": ""
+   "et": "{09 02 00}{09 04 00}{09 01 00}{07 04 00}Tõesti? {01 00 00 05 00}{07 14 00}Ma ei teadnud, et\noled nii tervisest teadlik!{09 09 00}"
   },
   {
    "id": 12,
    "en": "{07 00 00}{09 07 00}{09 00 00}{09 08 00}{09 02 00}{09 04 00}{07 04 00}Wait a minute!{01 00 00 0f 00} {07 00 00}If that's\ntrue, then why are your\nhands so greasy?\n{07 15 00}You always eat greasy,\nfried foods, don't you?!\n\n{09 01 00}{09 03 00}{09 02 00}{07 19 00}You can't hide it{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00}{01 01 00}\n{07 01 00}Your greasy hands gave it\naway!{09 09 00}",
-   "et": ""
+   "et": "{07 00 00}{09 07 00}{09 00 00}{09 08 00}{09 02 00}{09 04 00}{07 04 00}Oota hetk!{01 00 00 0f 00} {07 00 00}Kui see on\ntõsi, siis miks on su\nkäed nii rasvased?\n{07 15 00}Sa sööd alati rasvast,\npraetud toitu, kas pole?!\n\n{09 01 00}{09 03 00}{09 02 00}{07 19 00}Sa ei saa seda varjata{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00}{01 01 00}\n{07 01 00}Su rasvased käed andsid\nsu üles!{09 09 00}"
   },
   {
    "id": 13,
    "en": "{09 00 00}{09 06 00}{09 01 00}{07 1c 00}I know{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 01 00} {09 04 00}{07 00 00}{07 06 00}It's so obvious\nwhen {04 1f 00} is lying!",
-   "et": ""
+   "et": "{09 00 00}{09 06 00}{09 01 00}{07 1c 00}Ma tean{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 01 00} {09 04 00}{07 00 00}{07 06 00}On nii ilmne,\nkui {04 1f 00} valetab!"
   },
   {
    "id": 14,
    "en": "{07 00 00}{09 00 00}{09 08 00}{09 02 00}{07 1b 00}Yeti legs? Not so much.\nDon't you mean tornado\nlegs?{09 09 00}",
-   "et": ""
+   "et": "{07 00 00}{09 00 00}{09 08 00}{09 02 00}{07 1b 00}Jeti jalad? Mitte eriti.\nSa mõtled vist tornaado-\njalad?{09 09 00}"
   },
   {
    "id": 15,
    "en": "{09 00 00}{09 06 00}{09 01 00}{07 02 00}T-{01 00 00 0f 00}tornado legs?!{01 01 00} {07 0b 00}Are you\nsaying they're always\nflopping around?!\n{09 02 00}{07 00 00}{09 01 00}{07 14 00}Yeah, well you've got\n{04 12 00} legs!\n\n{07 06 00}Because, when I look at 'em,\nI just want to munch on\n'em!{09 09 00}",
-   "et": ""
+   "et": "{09 00 00}{09 06 00}{09 01 00}{07 02 00}T-{01 00 00 0f 00}tornaadojalad?!{01 01 00} {07 0b 00}Kas sa\nütled, et nad lipsavad\nalati ringi?!\n{09 02 00}{07 00 00}{09 01 00}{07 14 00}Jah, noh, sinul on\n{04 12 00} jalad!\n\n{07 06 00}Sest kui ma neid vaatan,\ntahan ma neid lihtsalt\nnäksida!{09 09 00}"
   },
   {
    "id": 16,
    "en": "{07 16 00}{09 00 00}{09 08 00}{09 02 00}{07 04 00}{01 00 00 05 00}HEY?!{01 00 00 0a 00} Is that supposed to\nbe a compliment?!\n\n{07 1b 00}I guess it could be taken\neither way{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{04 02 00}.",
-   "et": ""
+   "et": "{07 16 00}{09 00 00}{09 08 00}{09 02 00}{07 04 00}{01 00 00 05 00}HEI?!{01 00 00 0a 00} Kas see peaks\nolema kompliment?!\n\n{07 1b 00}Vist võib seda võtta\nmõlemat pidi{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{04 02 00}."
   }
  ]
 }

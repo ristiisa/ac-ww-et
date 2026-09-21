@@ -4,17 +4,17 @@
   {
    "id": 0,
    "en": "{07 14 00}Here you go! It's just a\nsmall little something\nfrom me, {01 00 00 0a 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 14 00}Palun väga! See on lihtsalt\nväike asjake\nminu käest, {01 00 00 0a 00}{04 02 00}!"
   },
   {
    "id": 1,
    "en": "{07 14 00}It's nothing, but please\ntake it. {01 00 00 0f 00}{07 19 00}You're such a huge\nhelp to me, {04 1f 00}!{07 14 00}",
-   "et": ""
+   "et": "{07 14 00}Pole midagi, aga võta\npalun. {01 00 00 0f 00}{07 19 00}Sa oled mulle nii\nsuureks abiks, {04 1f 00}!{07 14 00}"
   },
   {
    "id": 2,
    "en": "{07 19 00}This is just a token of my\nappreciation for you,\n{01 00 00 05 00}{04 02 00}.\n{07 14 00}Thanks to you{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.I'm never\ngonna be alone again!",
-   "et": ""
+   "et": "{07 19 00}See on lihtsalt märk minu\ntänulikkusest sulle,\n{01 00 00 05 00}{04 02 00}.\n{07 14 00}Tänu sulle{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}pole ma enam\nkunagi üksi!"
   }
  ]
 }

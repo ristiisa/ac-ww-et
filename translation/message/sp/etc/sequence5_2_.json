@@ -4,37 +4,37 @@
   {
    "id": 0,
    "en": "{07 02 00}Hello there!{01 00 00 0a 00} {01 00 00 05 00}Let me ask you\na question.{01 00 00 0f 00} {07 15 00}Of these four,\nwho do you respect most?{02 02 00 01 02 01 01}\nThe chief.\nThe mayor.\nThe mail clerk.\nThe CEO.",
-   "et": ""
+   "et": "{07 02 00}Tere!{01 00 00 0a 00} {01 00 00 05 00}Las ma küsin sinult\nüht küsimust.{01 00 00 0f 00} {07 15 00}Keda neist\nsa kõige rohkem austad?{02 02 00 01 02 01 01}\nPolitseiülemat.\nLinnapead.\nPostiametnikku.\nTegevjuhti."
   },
   {
    "id": 1,
    "en": "{07 09 00}I see.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00} My heart feels the\npangs of a thousand tiny\nicicles.\nYou!{07 0b 00}{01 00 00 05 00} What's your name?{01 01 00}{07 00 00}\n{0b 03 00}{04 00 00}, eh?{01 00 00 0f 00}\n{07 14 00}A fine name!\n{07 00 00}My name is {ff 00 00 06}Tortimer{ff 00 00 00}!{01 00 00 0f 00} I'm\nthe mayor of {04 03 00}.\n\nOn holidays and days when\nthere are {ff 00 00 03}events{ff 00 00 00} going on,\nyou should come see me.\n{07 11 00}I'll be waiting for you{01 00 00 05 00} here\nin this {ff 00 00 08}plaza{ff 00 00 00}.{01 00 00 0f 00}\n{07 03 00}Heh{01 00 00 05 00} heh{01 00 00 05 00} hoorf!",
-   "et": ""
+   "et": "{07 09 00}Selge.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00} Mu süda tunneb\ntuhande pisikese jääpurika\ntorkeid.\nSina!{07 0b 00}{01 00 00 05 00} Mis su nimi on?{01 01 00}{07 00 00}\n{0b 03 00}{04 00 00}, või nii?{01 00 00 0f 00}\n{07 14 00}Kena nimi!\n{07 00 00}Minu nimi on {ff 00 00 06}Tortimer{ff 00 00 00}!{01 00 00 0f 00} Olen\nlinna {04 03 00} linnapea.\n\nPühade ajal ja päevadel,\nkui toimuvad {ff 00 00 03}üritused{ff 00 00 00},\ntule mind vaatama.\n{07 11 00}Ootan sind{01 00 00 05 00} siin\nsellel {ff 00 00 08}väljakul{ff 00 00 00}.{01 00 00 0f 00}\n{07 03 00}Hee{01 00 00 05 00} hee{01 00 00 05 00} hoorf!"
   },
   {
    "id": 2,
    "en": "{07 04 00}You mean me?!{01 00 00 0f 00} Now that is\na good answer! {07 17 00}You're quite\nwise{01 00 00 05 00} for one so young.\nSo,{01 00 00 05 00}{07 0b 00} what's your name?{01 01 00}\n{07 00 00}{0b 03 00}{04 00 00}, eh?{01 00 00 0f 00}\n{07 14 00}That's a fine name.\n{07 00 00}I am {ff 00 00 06}Tortimer{ff 00 00 00},{01 00 00 0f 00} and I'm\nthe mayor of {04 03 00}.\n\nOn holidays and days when\n{ff 00 00 03}events{ff 00 00 00} are going on, you\nshould come see me.\n{07 11 00}I'll be waiting for you{01 00 00 05 00} here\nin this {ff 00 00 08}plaza{ff 00 00 00}.{01 00 00 0f 00}\n{07 03 00}Heh{01 00 00 05 00} heh{01 00 00 05 00} hoorf!",
-   "et": ""
+   "et": "{07 04 00}Sa mõtled mind?!{01 00 00 0f 00} See on\nalles hea vastus! {07 17 00}Sa oled\ntark{01 00 00 05 00} nii noore kohta.\nNii,{01 00 00 05 00}{07 0b 00} mis su nimi on?{01 01 00}\n{07 00 00}{0b 03 00}{04 00 00}, või nii?{01 00 00 0f 00}\n{07 14 00}See on kena nimi.\n{07 00 00}Olen {ff 00 00 06}Tortimer{ff 00 00 00},{01 00 00 0f 00} ja olen\nlinna {04 03 00} linnapea.\n\nPühade ajal ja päevadel,\nkui toimuvad {ff 00 00 03}üritused{ff 00 00 00},\ntule mind vaatama.\n{07 11 00}Ootan sind{01 00 00 05 00} siin\nsellel {ff 00 00 08}väljakul{ff 00 00 00}.{01 00 00 0f 00}\n{07 03 00}Hee{01 00 00 05 00} hee{01 00 00 05 00} hoorf!"
   },
   {
    "id": 3,
    "en": "Do you understand me,\n{04 00 00}?{01 00 00 0f 00} Come to this\n{ff 00 00 08}plaza {ff 00 00 00}during town {ff 00 00 03}events{ff 00 00 00}.",
-   "et": ""
+   "et": "Kas sa mõistad mind,\n{04 00 00}?{01 00 00 0f 00} Tule sellele\n{ff 00 00 08}väljakule {ff 00 00 00}{ff 00 00 03}ürituste{ff 00 00 00} ajal."
   },
   {
    "id": 4,
    "en": "Remember, {04 00 00}, {01 00 00 0f 00}the\nmayor always has his eye\non you.{01 00 00 05 00}.{01 00 00 05 00}.",
-   "et": ""
+   "et": "Pea meeles, {04 00 00}, {01 00 00 0f 00}et\nlinnapeal on sul alati\nsilm peal{01 00 00 05 00}.{01 00 00 05 00}."
   },
   {
    "id": 5,
    "en": "{07 0b 00}Eh? What's that?{01 01 00} {07 09 00}Oh, I see.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0f 00}\nMade me look, did you?",
-   "et": ""
+   "et": "{07 0b 00}Ah? Mis see on?{01 01 00} {07 09 00}Oh, selge.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0f 00}\nPanid mind vaatama, mis?"
   },
   {
    "id": 6,
    "en": "{07 16 00}Oh, dear{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} I've got an itch\nsomething awful right in\nthe center of my back.\n{07 00 00}But I just can't quite reach\nit{01 00 00 0a 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 09 00} It's downright\nannoying.",
-   "et": ""
+   "et": "{07 16 00}Oh sa{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} Mul on kohutav\nsügelus otse\nselja keskel.\n{07 00 00}Aga ma ei ulata\nsinna{01 00 00 0a 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 09 00} See on\notse tüütu."
   }
  ]
 }

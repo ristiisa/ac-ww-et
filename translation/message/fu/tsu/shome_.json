@@ -4,67 +4,67 @@
   {
    "id": 0,
    "en": "{06 04 00 03 04 05 06}",
-   "et": ""
+   "et": "{06 04 00 03 04 05 06}"
   },
   {
    "id": 1,
    "en": "{06 04 00 07 08 09 0a}",
-   "et": ""
+   "et": "{06 04 00 07 08 09 0a}"
   },
   {
    "id": 2,
    "en": "{0b 03 00}{04 1f 00}, {07 0b 00}are you happy\nabout the size of your\nhouse?{02 00 00 0b 0c}\nIt's all right.\nIt's too small!",
-   "et": ""
+   "et": "{0b 03 00}{04 1f 00}, {07 0b 00}kas sa oled\noma maja suurusega\nrahul?{02 00 00 0b 0c}\nSee on okei.\nSee on liiga väike!"
   },
   {
    "id": 3,
    "en": "{0b 03 00}{04 1f 00}, aren't you\ngetting a little cramped\nin that house, {01 00 00 05 00}{04 02 00}?\nI mean, I'm sure it's cozy\nand everything, but {07 0b 00}isn't\nit a little smallish?\n{07 14 00}You know, you should be\nworking harder to pay off\nyour debt, {01 00 00 05 00}{04 02 00}.\n{07 0d 00}Then, maybe {ff 00 00 06}Tom Nook {ff 00 00 00}will\nbe willing to expand your\nhouse a little, {01 00 00 05 00}{04 02 00}!",
-   "et": ""
+   "et": "{0b 03 00}{04 1f 00}, kas sul ei hakka\nselles majas pisut\nkitsas, {01 00 00 05 00}{04 02 00}?\nMa mõtlen, kindlasti on see\nhubane ja kõik, aga {07 0b 00}kas ei\npisut väikevõitu?\n{07 14 00}Tead, sa peaksid rohkem\ntööd tegema, et oma võlg\nära maksta, {01 00 00 05 00}{04 02 00}.\n{07 0d 00}Siis ehk on {ff 00 00 06}Tom Nook {ff 00 00 00}nõus\nsu maja natuke\nlaiendama, {01 00 00 05 00}{04 02 00}!"
   },
   {
    "id": 4,
    "en": "{07 14 00}It's nice to see that your\nhouse is getting a little\nbigger, {04 1f 00}.\n{07 0b 00}How do you like it?{01 00 00 14 00}\nI'm sure you're a lot\nhappier with it, aren't you?",
-   "et": ""
+   "et": "{07 14 00}Kena on näha, et su maja\nläheb natuke\nsuuremaks, {04 1f 00}.\n{07 0b 00}Kuidas see sulle meeldib?{01 00 00 14 00}\nOled kindlasti palju\nrahulolevam, kas pole?"
   },
   {
    "id": 5,
    "en": "{07 1a 00}I noticed you had a second\nstory built on your house,\n{04 1f 00}! Nice work!\n{07 14 00}It's great having a second\nfloor. It opens up so many\ndesign possibilities!\n{07 0d 00}You can go modern on the\nground floor and rococo\nupstairs, {01 00 00 05 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 1a 00}Ma nägin, et sulle ehitati\nmajale teine korrus,\n{04 1f 00}! Tubli töö!\n{07 14 00}Teine korrus on vahva.\nSee avab nii palju\nkujundusvõimalusi!\n{07 0d 00}Sa võid minna moodsaks\nalumisel korrusel, rokokoo\nülal, {01 00 00 05 00}{04 02 00}!"
   },
   {
    "id": 6,
    "en": "{07 1a 00}Congratulations on getting\nsuch a huge house,\n{04 1f 00}!\n{07 14 00}More house means more\nroom for furniture, just\nfor starters, {01 00 00 05 00}{04 02 00}.\n{07 00 00}It may seem like work,\n{07 0b 00}deciding which furniture\ngoes where, though, huh?\n{07 04 00}Of course, there's no\nreason you need to go\ncrazy with furniture...\n{07 14 00}Just enjoy all the open\nspace, and see if you like\nthe minimalist approach.",
-   "et": ""
+   "et": "{07 1a 00}Palju õnne nii tohutu maja\npuhul,\n{04 1f 00}!\n{07 14 00}Rohkem maja tähendab\nrohkem ruumi mööblile,\nalustuseks, {01 00 00 05 00}{04 02 00}.\n{07 00 00}See võib tunduda tööna,\n{07 0b 00}otsustada, milline mööbel\nkuhu läheb, kas pole?\n{07 04 00}Muidugi pole põhjust\nmööbliga hulluks\nminna...\n{07 14 00}Naudi lihtsalt avarat ruumi\nja vaata, kas sulle meeldib\nminimalistlik lähenemine."
   },
   {
    "id": 7,
    "en": "{0b 03 00}{04 1f 00}, you haven't\nremodeled your house even\nonce since you moved in!\n{07 0b 00}Don't you want a bigger\nhouse? Don't you want more\nroom to stretch out?\n{07 00 00}Personally, I couldn't\nstand living in such a\nsmall place, {01 00 00 05 00}{04 02 00}.\n{07 13 00}I love to relax in my\nhuge living room with a cup\nof {04 13 00}!",
-   "et": ""
+   "et": "{0b 03 00}{04 1f 00}, sa pole oma maja\nkordagi ümber ehitanud,\nkui sa siia kolisid!\n{07 0b 00}Kas sa ei taha suuremat\nmaja? Kas sa ei taha veel\nruumi end välja sirutada?\n{07 00 00}Mina isiklikult ei suudaks\nelada nii väikeses\nkohas, {01 00 00 05 00}{04 02 00}.\n{07 13 00}Mulle meeldib lõõgastuda\nsuures elutoas tassi\n{04 13 00}ga!"
   },
   {
    "id": 8,
    "en": "{07 14 00}Listen up, {04 1f 00}, you\nagree that bigger is\ndefinitely better, right?\n{07 00 00}So why haven't you paid off\nyour debt and gotten a\nbigger place, {01 00 00 05 00}{04 02 00}?\n{07 0b 00}Are you afraid of\nhaving a little TOO MUCH\nspace to work with?\n{07 06 00}That'd be terrible! What if\nyou lost your precious\n{04 15 00}?\n{07 00 00}Yeah, having a big house\nwould be just TERRIBLE,\nwouldn't it?{01 00 00 05 00} Sheesh!",
-   "et": ""
+   "et": "{07 14 00}Kuula, {04 1f 00}, sa oled\nnõus, et suurem on\nkindlasti parem, eks?\n{07 00 00}Miks sa siis pole oma võlga\nära maksnud ja suuremat\nkohta saanud, {01 00 00 05 00}{04 02 00}?\n{07 0b 00}Kas sa kardad, et sul\noleks LIIGA PALJU\nruumi kasutada?\n{07 06 00}See oleks kohutav! Mis siis,\nkui sa kaotaksid oma kalli\n{04 15 00}?\n{07 00 00}Jah, suur maja oleks\nlihtsalt KOHUTAV,\nkas pole?{01 00 00 05 00} Pühh!"
   },
   {
    "id": 9,
    "en": "How do you like {07 0b 00}having that\nsecond floor, {04 1f 00}?\n\n{07 00 00}I wish I could expand my\nhouse, but{01 00 00 05 00} {07 0f 00}I just don't\nhave the money.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}",
-   "et": ""
+   "et": "Kuidas sulle {07 0b 00}teine korrus\nmeeldib, {04 1f 00}?\n\n{07 00 00}Soovin, et saaksin oma maja\nlaiendada, aga{01 00 00 05 00} {07 0f 00}mul lihtsalt\npole raha.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}"
   },
   {
    "id": 10,
    "en": "So what's your secret, huh,\n{04 1f 00}? {07 0b 00}How did you\nget such a big house?\n{07 00 00}I'm just asking, because{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n{07 06 00}I know you've got a secret,\nand I want you to tell me!",
-   "et": ""
+   "et": "Mis on su saladus, mis,\n{04 1f 00}? {07 0b 00}Kuidas sa said\nnii suure maja?\n{07 00 00}Ma lihtsalt küsin, sest{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n{07 06 00}Ma tean, et sul on saladus,\nja ma tahan seda teada!"
   },
   {
    "id": 11,
    "en": "{07 00 00}\"It's all right\"? {01 00 00 05 00}{07 0b 00}What kind\nof answer is that?\n\n{07 16 00}{0b 03 00}{04 1f 00}, you're not the\nsort of person who caves\nin on everything, are you?\nBecause I don't want you\nto have to compromise on\ncomfort, {01 00 00 05 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 00 00}„See on okei”? {01 00 00 05 00}{07 0b 00}Mis vastus\nsee selline on?\n\n{07 16 00}{0b 03 00}{04 1f 00}, sa ei ole ju\nselline inimene, kes kõiges\njärele annab, ega?\nSest ma ei taha, et sa\npeaksid mugavuses\njärele andma, {01 00 00 05 00}{04 02 00}!"
   },
   {
    "id": 12,
    "en": "{07 1a 00}Wow, {04 1f 00}! That's\nthe spirit! I like your\nattitude, {01 00 00 05 00}{04 02 00}!\n{07 00 00}I'm not sure how much\nbigger you can actually get\nyour house, but...yeah.\n{07 0d 00}It never hurts to have\na dream, {01 00 00 05 00}{04 02 00}!{03 01 00 01}",
-   "et": ""
+   "et": "{07 1a 00}Vau, {04 1f 00}! Selline\nvaim! Mulle meeldib su\nsuhtumine, {01 00 00 05 00}{04 02 00}!\n{07 00 00}Ma pole kindel, kui palju\nsuuremaks sa oma maja\ntegelikult saad, aga...jah.\n{07 0d 00}Unistamine ei tee\nkunagi halba, {01 00 00 05 00}{04 02 00}!{03 01 00 01}"
   }
  ]
 }

@@ -4,17 +4,17 @@
   {
    "id": 0,
    "en": "{07 15 00}It's ON, {ff 00 00 05}{04 1f 00}{ff 00 00 00}!{01 00 00 0a 00}\nGo time! At long last, the\nday has arrived! \n{07 16 00}What day? {01 00 00 05 00}What DAY?{01 00 00 05 00}\n{07 15 00}The day of bug-challenge\nrevenge and redemption!\n{07 00 00}Well, {01 00 00 05 00}I don't care if you\nknow what I'm talking\nabout, so THERE!{01 00 00 05 00}\n{07 06 00}I just wanna see who's\nfaster at catching\n{04 1a 00}!\n{07 14 00}So, {01 00 00 05 00}the first one to catch\n{04 1a 00} is\nthe best catcher EVER!",
-   "et": ""
+   "et": "{07 15 00}See ON käes, {ff 00 00 05}{04 1f 00}{ff 00 00 00}!{01 00 00 0a 00}\nAeg läks! Lõpuks ometi on\npäev saabunud! \n{07 16 00}Mis päev? {01 00 00 05 00}Mis PÄEV?{01 00 00 05 00}\n{07 15 00}Putukaduelli kättemaksu\nja lunastuse päev!\n{07 00 00}Noh, {01 00 00 05 00}mul ükskõik, kas sa\ntead, millest ma\nräägin, nii et VÕTA!{01 00 00 05 00}\n{07 06 00}Ma tahan lihtsalt näha, kes\non kiirem püüdma\n{04 1a 00}!\n{07 14 00}Nii et {01 00 00 05 00}esimene, kes püüab\n{04 1a 00}, on\nparim püüdja ÜLDSE!"
   },
   {
    "id": 1,
    "en": "{07 14 00}Hey hey, {ff 00 00 05}{04 1f 00}{ff 00 00 00}!{01 00 00 0a 00}\nHow you doing? {01 00 00 05 00}You feeling\nfit? {01 00 00 05 00}You stretched?\n{07 16 00}Me, I'm so pumped up, I can\nbarely keep these muscles\nin check, {01 00 00 05 00}{04 02 00}!\n{07 00 00}They're hungry!{01 00 00 05 00} They demand\nsatisfaction! {01 00 00 05 00}I gotta put\nthis energy to good use.\n{07 0b 00}How about we race to catch\n{04 1a 00}?{01 00 00 05 00}\nC'mon, {01 00 00 05 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 14 00}Hei hei, {ff 00 00 05}{04 1f 00}{ff 00 00 00}!{01 00 00 0a 00}\nKuidas läheb? {01 00 00 05 00}Kas oled\nvormis? {01 00 00 05 00}Oled venitanud?\n{07 16 00}Olen nii üles köetud, et\nvaevu suudan neid lihaseid\nohjata, {01 00 00 05 00}{04 02 00}!\n{07 00 00}Nad on näljased!{01 00 00 05 00} Nõuavad\nrahuldust! {01 00 00 05 00}Ma pean selle\nenergia kasutusse panema.\n{07 0b 00}Kuidas oleks, kui võistleme\n{04 1a 00} püüdmises?{01 00 00 05 00}\nOle nüüd, {01 00 00 05 00}{04 02 00}!"
   },
   {
    "id": 2,
    "en": "{07 00 00}Look, you and me are both\nfamous champs, am I right?{01 00 00 05 00}\nWe've both got street cred.\n{07 15 00}Well, there can be only one!{01 00 00 05 00}\nIt's ON!{01 00 00 05 00} You.{01 00 00 05 00} Me.{01 00 00 05 00} The prey?{01 00 00 05 00}\n{0b 03 00}{04 1a 00}!\n{07 0d 00}The race is on, baby!\n{0b 03 00}{04 1a 00} or\nbust, {01 00 00 05 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 00 00}Vaata, sina ja mina oleme\nmõlemad kuulsad meistrid?{01 00 00 05 00}\nMeil mõlemal on maine.\n{07 15 00}Noh, olla saab ainult üks!{01 00 00 05 00}\nKäes!{01 00 00 05 00} Sina.{01 00 00 05 00} Mina.{01 00 00 05 00} Saak?{01 00 00 05 00}\n{0b 03 00}{04 1a 00}!\n{07 0d 00}Võidujooks on alanud, mees!\n{0b 03 00}{04 1a 00} või\nmitte midagi, {01 00 00 05 00}{04 02 00}!"
   }
  ]
 }

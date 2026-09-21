@@ -4,47 +4,47 @@
   {
    "id": 0,
    "en": "{07 14 00}Oh, hello, {01 00 00 05 00}{04 1f 00}.{01 00 00 0a 00}\nYou finally made it over,\n{01 00 00 0a 00}{04 02 00}.\nPlease take your time\nlooking through the{01 00 00 0a 00}\n{04 01 00} Collection.",
-   "et": ""
+   "et": "{07 14 00}Oi, tere, {01 00 00 05 00}{04 1f 00}.{01 00 00 0a 00}\nSa jõudsid lõpuks kohale,\n{01 00 00 0a 00}{04 02 00}.\nVõta palun aega ja\nvaata läbi{01 00 00 0a 00}\n{04 01 00} kollektsioon."
   },
   {
    "id": 1,
    "en": "{07 14 00}Hello, {04 1f 00}.{01 00 00 14 00} {07 00 00}I was\nhoping you'd pop in.\n{01 00 00 0a 00}{0b 03 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 14 00}Tere, {04 1f 00}.{01 00 00 14 00} {07 00 00}Ma lootsin,\net sa sisse põikad.\n{01 00 00 0a 00}{0b 03 00}{04 02 00}!"
   },
   {
    "id": 2,
    "en": "{07 14 00}Oh, {01 00 00 05 00}{04 1f 00}, welcome!{01 01 00}\n{07 03 00}Feel free to browse, but\ntry not to carouse! {01 00 00 0a 00}Hee!",
-   "et": ""
+   "et": "{07 14 00}Oi, {01 00 00 05 00}{04 1f 00}, tere tulemast!{01 01 00}\n{07 03 00}Sirvi julgelt, aga\nära lärma! {01 00 00 0a 00}Hihii!"
   },
   {
    "id": 3,
    "en": "{07 14 00}Tee hee hee!{01 00 00 05 00} Thank you so\nmuch, {01 00 00 05 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 14 00}Hihihii!{01 00 00 05 00} Suur aitäh\nsulle, {01 00 00 05 00}{04 02 00}!"
   },
   {
    "id": 4,
    "en": "{07 14 00}Tee hee! Do come again,\n{01 00 00 0a 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 14 00}Hihii! Tule jälle,\n{01 00 00 0a 00}{04 02 00}!"
   },
   {
    "id": 5,
    "en": "{07 14 00}Well then, please do come\nagain, {01 00 00 05 00}{04 02 00}.",
-   "et": ""
+   "et": "{07 14 00}Noh siis, tule palun\njälle, {01 00 00 05 00}{04 02 00}."
   },
   {
    "id": 6,
    "en": "{07 0b 00}Well,{01 00 00 14 00}{07 14 00} each of the pieces \nhere were hand-selected by\nme, {01 00 00 05 00}{04 02 00}!\n{07 0a 00}And any one of them{01 00 00 0a 00} will\nfreshen up the look of any\nroom, no matter HOW drab!",
-   "et": ""
+   "et": "{07 0b 00}Noh,{01 00 00 14 00}{07 14 00} iga ese siin on\nminu enda valitud,\n{01 00 00 05 00}{04 02 00}!\n{07 0a 00}Ja iga neist{01 00 00 0a 00} värskendab\nükskõik millise toa ilmet,\nükskõik KUI tuim see on!"
   },
   {
    "id": 7,
    "en": "{07 16 00}You really shouldn't go \nbuying something for cheap\nat one person's house\n{07 1b 00}and selling it for a\nprofit at your own place.{01 00 00 0a 00}\nIt's just plain old tacky.",
-   "et": ""
+   "et": "{07 16 00}Sa ei tohiks tõesti\nosta midagi odavalt\nühe inimese kodust\n{07 1b 00}ja müüa seda kasumiga\nenda juures.{01 00 00 0a 00}\nSee on lihtsalt maitsetu."
   },
   {
    "id": 8,
    "en": "{07 14 00}If there's something that\nyou like,{01 00 00 05 00} feel free to pick\nit up for a closer look.\n{07 00 00}All the items here are\npieces that I strongly \nrecommend, {01 00 00 0a 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 14 00}Kui midagi sulle\nmeeldib,{01 00 00 05 00} võta see julgelt\nlähemaks vaatluseks kätte.\n{07 00 00}Kõik esemed siin on\nsellised, mida ma tungivalt\nsoovitan, {01 00 00 0a 00}{04 02 00}!"
   }
  ]
 }

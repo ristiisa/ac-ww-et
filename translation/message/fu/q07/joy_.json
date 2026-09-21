@@ -4,17 +4,17 @@
   {
    "id": 0,
    "en": "{07 04 00}Wow!{01 00 00 0f 00} {07 00 00}Just getting\n{ff 00 00 06}{04 0f 00}{ff 00 00 00}'s letter makes\nme happy, {04 1f 00}!\n{07 14 00}But, since YOU'RE the\ndelivery person{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} So that's\na double dose of happy!\n{07 00 00}{07 06 00}OK, I can't wait anymore!{01 00 00 0a 00}\nI'm gonna read it{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.",
-   "et": ""
+   "et": "{07 04 00}Vau!{01 00 00 0f 00} {07 00 00}Juba {ff 00 00 06}{04 0f 00}{ff 00 00 00}\nkirja saamine teeb mind\nõnnelikuks, {04 1f 00}!\n{07 14 00}Aga kuna SINA oled\nkirjakandja{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} Siis on see\ntopeltannus õnne!\n{07 00 00}{07 06 00}Olgu, ma ei jõua oodata!{01 00 00 0a 00}\nMa loen selle läbi{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}."
   },
   {
    "id": 1,
    "en": "{07 04 00}Oh my!{01 00 00 0a 00} You came all this\nway for a letter{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\nA letter for ME!\n{07 14 00}Oh, it's from {ff 00 00 06}{04 0f 00}{ff 00 00 00}. \nNow that's exciting!{01 00 00 05 00} I'm\ngoing to read it{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.",
-   "et": ""
+   "et": "{07 04 00}Oh sa!{01 00 00 0a 00} Sa tulid kogu selle\ntee kirja pärast{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\nKiri MULLE!\n{07 14 00}Oh, see on {ff 00 00 06}{04 0f 00}{ff 00 00 00}lt. \nNüüd on põnev!{01 00 00 05 00} Ma\nloen selle läbi{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}."
   },
   {
    "id": 2,
    "en": "{07 04 00}Huh? {01 00 00 0a 00}A letter from \n{ff 00 00 06}{04 0f 00}{ff 00 00 00}?{01 00 00 0f 00} {07 14 00}I can't wait\nto read it, {04 02 00}!",
-   "et": ""
+   "et": "{07 04 00}Ah? {01 00 00 0a 00}Kiri \n{ff 00 00 06}{04 0f 00}{ff 00 00 00}lt?{01 00 00 0f 00} {07 14 00}Ma ei jõua\noodata, et lugeda, {04 02 00}!"
   }
  ]
 }

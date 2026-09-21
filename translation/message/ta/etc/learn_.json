@@ -4,97 +4,97 @@
   {
    "id": 0,
    "en": "{07 00 00}Why are you flailing around\nlike that, {01 00 00 05 00}{04 1f 00}? {01 00 00 0a 00}You\nlook really weird.\nIs this what you're trying\nto do, {01 00 00 05 00}{04 02 00}?",
-   "et": ""
+   "et": "{07 00 00}Miks sa niimoodi ringi\nvehid, {01 00 00 05 00}{04 1f 00}? {01 00 00 0a 00}Sa\nnäed tõesti imelik välja.\nKas sa üritasid seda\nteha, {01 00 00 05 00}{04 02 00}?"
   },
   {
    "id": 1,
    "en": "{07 02 00}Ugh! {01 00 00 05 00}What was that?!{01 01 00} Are\ntrying to dance or\nsomething?\n{07 0b 00}Was this what you were \ntrying to do, {01 00 00 05 00}{04 02 00}?",
-   "et": ""
+   "et": "{07 02 00}Öök! {01 00 00 05 00}Mis see oli?!{01 01 00} Kas sa\nüritad tantsida või\nmidagi?\n{07 0b 00}Kas seda sa üritasid\nteha, {01 00 00 05 00}{04 02 00}?"
   },
   {
    "id": 2,
    "en": "{07 02 00}Ew, {01 00 00 05 00}{04 1f 00}!{01 00 00 14 00} Is this\n{01 00 00 05 00}what you were trying to do,\n{01 00 00 05 00}{04 02 00}?",
-   "et": ""
+   "et": "{07 02 00}Öök, {01 00 00 05 00}{04 1f 00}!{01 00 00 14 00} Kas seda\n{01 00 00 05 00}sa üritasid teha,\n{01 00 00 05 00}{04 02 00}?"
   },
   {
    "id": 3,
    "en": "{07 16 00}No, that stunk{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00} {07 00 00}You have\nto harder if you want to\nexpress {ff 00 00 02}{04 0f 00}{ff 00 00 00}.",
-   "et": ""
+   "et": "{07 16 00}Ei, see oli jube{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00} {07 00 00}Sa pead\nrohkem pingutama, kui tahad\nväljendada {ff 00 00 02}{04 0f 00}{ff 00 00 00}."
   },
   {
    "id": 4,
    "en": "{07 1b 00}Did that quack {ff 00 00 06}Dr. Shrunk\n{ff 00 00 00}tell you {ff 00 00 02}{04 0f 00}\n{ff 00 00 00}looks like that?",
-   "et": ""
+   "et": "{07 1b 00}Kas see soss {ff 00 00 06}dr Shrunk\n{ff 00 00 00}ütles sulle, et {ff 00 00 02}{04 0f 00}\n{ff 00 00 00}näeb selline välja?"
   },
   {
    "id": 5,
    "en": "{07 0b 00}Ready?{01 00 00 14 00} I'm going to do it\nfor you one more time!\nWatch me!",
-   "et": ""
+   "et": "{07 0b 00}Valmis?{01 00 00 14 00} Ma teen seda\nsulle veel korra!\nVaata mind!"
   },
   {
    "id": 6,
    "en": "{07 15 00}You're pathetic{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00} Pay\nattention this time,\n{01 00 00 05 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 15 00}Sa oled haletsusväärne{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}\nPane seekord tähele,\n{01 00 00 05 00}{04 02 00}!"
   },
   {
    "id": 7,
    "en": "{07 00 00}So, what do you think? {01 00 00 05 00}{07 0b 00}You\ngot it now, {01 00 00 05 00}{04 02 00}?",
-   "et": ""
+   "et": "{07 00 00}Nii, mida sa arvad? {01 00 00 05 00}{07 0b 00}Kas\nsaid nüüd pihta, {01 00 00 05 00}{04 02 00}?"
   },
   {
    "id": 8,
    "en": "{07 0b 00}So, do you get it? {01 01 00}{07 15 00}Look, I\ndon't have all day here.",
-   "et": ""
+   "et": "{07 0b 00}Nii, kas said aru? {01 01 00}{07 15 00}Kuule,\nmul pole terve päeva aega."
   },
   {
    "id": 9,
    "en": "{07 16 00}Either you're super\nuncoordinated,{01 00 00 03 00} or {ff 00 00 06}Shrunk{ff 00 00 00}\ntotally taught you wrong!\n{07 14 00}Fine, {01 00 00 05 00}I'll do it for you\none more time. {01 00 00 0a 00}You better\npay attention this time!",
-   "et": ""
+   "et": "{07 16 00}Kas sa oled ülikohmakas{01 00 00 03 00}\nvõi õpetas {ff 00 00 06}Shrunk{ff 00 00 00}\nsulle täiesti valesti!\n{07 14 00}Hästi, {01 00 00 05 00}ma teen seda sulle\nveel korra. {01 00 00 0a 00}Pane seekord\nparem tähele!"
   },
   {
    "id": 10,
    "en": "{07 16 00}Ugh!{01 00 00 05 00} What are you doing?{01 00 00 05 00} Do\nyou think this is a game?!{01 01 00} {07 05 00}{01 08 00}\n'Cause it's not!\n{07 15 00}I'm gonna do it one more\ntime so this time{01 00 00 05 00} WATCH ME!",
-   "et": ""
+   "et": "{07 16 00}Öök!{01 00 00 05 00} Mida sa teed?{01 00 00 05 00} Kas\nsa arvad, et see on mäng?!{01 01 00} {07 05 00}{01 08 00}\nSest see pole!\n{07 15 00}Ma teen seda veel korra,\nnii et seekord{01 00 00 05 00} VAATA MIND!"
   },
   {
    "id": 11,
    "en": "{07 00 00}Finally!{01 00 00 05 00} OK, congratulations!{01 00 00 05 00}\nYou've finally get how to\nshow {ff 00 00 02}{04 0f 00}{ff 00 00 00}!",
-   "et": ""
+   "et": "{07 00 00}Lõpuks!{01 00 00 05 00} Olgu, palju õnne!{01 00 00 05 00}\nSa said lõpuks aru, kuidas\nnäidata {ff 00 00 02}{04 0f 00}{ff 00 00 00}!"
   },
   {
    "id": 12,
    "en": "{07 14 00}OK, you finally get how to\nshow {ff 00 00 02}{04 0f 00}{ff 00 00 00}!\n{01 00 00 0f 00}{07 15 00}Now go bug someone else!",
-   "et": ""
+   "et": "{07 14 00}Olgu, sa said lõpuks aru,\nkuidas näidata {ff 00 00 02}{04 0f 00}{ff 00 00 00}!\n{01 00 00 0f 00}{07 15 00}Mine tüüta kedagi teist!"
   },
   {
    "id": 13,
    "en": "{07 04 00}You can't learn any new\n{ff 00 00 02}expressions{ff 00 00 00}. {01 00 00 0a 00}Didn't {ff 00 00 06}Shrunk \n{ff 00 00 00}cover this in your session?\n{07 15 00}Of course not. {01 00 00 0a 00}He probably\njust yammered about the\nKomedy Klatch or something.\n{07 1b 00}If you're willing to forget \nan {ff 00 00 02}expression{ff 00 00 00} you know,\n{01 00 00 05 00}you can learn a new one.",
-   "et": ""
+   "et": "{07 04 00}Sa ei saa õppida uusi\n{ff 00 00 02}väljendusi{ff 00 00 00}. {01 00 00 0a 00}Kas {ff 00 00 06}Shrunk\n{ff 00 00 00}ei rääkinud sellest sulle?\n{07 15 00}Muidugi mitte. {01 00 00 0a 00}Ta ilmselt\nlobises ainult\nkomöödiaklubist või\nmillestki. {07 1b 00}Kui oled nõus\nunustama mõne {ff 00 00 02}väljenduse{ff 00 00 00},\nmida tead, {01 00 00 05 00}saad õppida uue."
   },
   {
    "id": 14,
    "en": "{07 16 00}It looks like you can't learn\nany more {ff 00 00 02}expressions{ff 00 00 00}. {01 00 00 0a 00}You\ndon't have any room left.\n{07 15 00}You have to forget one of\nthe {ff 00 00 02}expressions {ff 00 00 00}that you\nknow now, {01 00 00 0a 00}{04 02 00}.",
-   "et": ""
+   "et": "{07 16 00}Tundub, et sa ei saa enam\n{ff 00 00 02}väljendusi{ff 00 00 00} õppida. {01 00 00 0a 00}Sul\npole enam ruumi.\n{07 15 00}Sa pead unustama ühe\n{ff 00 00 02}väljendustest{ff 00 00 00}, mida praegu\ntead, {01 00 00 0a 00}{04 02 00}."
   },
   {
    "id": 15,
    "en": "{07 01 00}{01 08 00}Snap! {01 01 00}{07 00 00}So,{01 00 00 05 00} you can't express\n{ff 00 00 02}{04 10 00}{ff 00 00 00} anymore\nbut don't worry.\nWhy? {01 01 00}{07 19 00}'Cause you learned how\nto express\n{ff 00 00 02}{04 0f 00}{ff 00 00 00}!\n{07 15 00}Now maybe you won't just\nstare blankly when someone\nis talking to you!",
-   "et": ""
+   "et": "{07 01 00}{01 08 00}Nõks! {01 01 00}{07 00 00}Nii,{01 00 00 05 00} sa ei oska enam\nväljendada {ff 00 00 02}{04 10 00}{ff 00 00 00},\naga ära muretse.\nMiks? {01 01 00}{07 19 00}Sest sa õppisid,\nkuidas väljendada\n{ff 00 00 02}{04 0f 00}{ff 00 00 00}!\n{07 15 00}Ehk sa nüüd ei vahi enam\ntühja pilguga, kui keegi\nsinuga räägib!"
   },
   {
    "id": 16,
    "en": "{07 14 00}OK, so,{01 00 00 05 00} turn this way a \nlittle and{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.{01 01 00} {07 05 00}{01 08 00}Snap!{01 01 00} You can't\nexpress {ff 00 00 02}{04 10 00}{ff 00 00 00}.\nBut it's OK, 'cause you can\nexpress {ff 00 00 02}{04 0f 00}{ff 00 00 00}!{01 01 00}\n{07 0a 00}Yay! {01 00 00 0a 00}Oh, happy day!\n{07 14 00}Now maybe you'll do\nsomething besides drool\nwhen I talk to you!",
-   "et": ""
+   "et": "{07 14 00}Olgu, nii,{01 00 00 05 00} keera veidi\nsiiapoole ja{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.{01 01 00} {07 05 00}{01 08 00}Nõks!{01 01 00} Sa ei\noska väljendada {ff 00 00 02}{04 10 00}{ff 00 00 00}.\nAga pole hullu, sest sa\noskad väljendada {ff 00 00 02}{04 0f 00}{ff 00 00 00}!{01 01 00}\n{07 0a 00}Jee! {01 00 00 0a 00}Oh, õnnelik päev!\n{07 14 00}Ehk sa nüüd teed midagi\nmuud kui ilastad, kui ma\nsinuga räägin!"
   },
   {
    "id": 17,
    "en": "{07 00 00}Oh, {01 00 00 05 00}really?{01 00 00 14 00} {07 03 00}I don't really\ncare either way,\n{01 00 00 0a 00}{04 02 00}.{01 00 00 0a 00}{07 00 00}",
-   "et": ""
+   "et": "{07 00 00}Oi, {01 00 00 05 00}tõesti?{01 00 00 14 00} {07 03 00}Mind ei huvita\nsee nii ega naa,\n{01 00 00 0a 00}{04 02 00}.{01 00 00 0a 00}{07 00 00}"
   },
   {
    "id": 18,
    "en": "{07 1b 00}Eh, who cares.{01 00 00 0a 00} Do whatever\nyou think is best. ",
-   "et": ""
+   "et": "{07 1b 00}Ah, ükskõik.{01 00 00 0a 00} Tee, nagu\nsinu arust parem on. "
   }
  ]
 }

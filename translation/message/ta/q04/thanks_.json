@@ -4,17 +4,17 @@
   {
    "id": 0,
    "en": "{07 04 00}Oh! What's this here?!{01 00 00 14 00}\n{0b 03 00}{04 1c 00}!{01 00 00 0a 00}\n{07 0a 00}Oh, yay!\nDid you find this just for \nlittle ol' me,\n{01 00 00 05 00}{04 02 00}?\n{07 00 00}Wow,{01 00 00 0f 00} I'm so impressed by\nyour great taste and your\nbig heart!",
-   "et": ""
+   "et": "{07 04 00}Oi! Mis see siin on?!{01 00 00 14 00}\n{0b 03 00}{04 1c 00}!{01 00 00 0a 00}\n{07 0a 00}Oi, jee!\nKas sa leidsid selle just\nväikese minu jaoks,\n{01 00 00 05 00}{04 02 00}?\n{07 00 00}Vau,{01 00 00 0f 00} ma olen nii muljet\navaldatud sinu maitsest ja\nsuurest südamest!"
   },
   {
    "id": 1,
    "en": "{07 04 00}What?!{01 00 00 14 00}{07 00 00} Did you say you\nwere going to give me this\n{0b 02 00}{04 1c 00}?\nSo, {01 00 00 0f 00}are you saying you want\nme to wear it?\n\n{07 14 00}OK then,{01 00 00 0f 00} as you wish.{01 00 00 05 00} I'm\ngonna get all dolled up now,\n{01 00 00 05 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 04 00}Mis?!{01 00 00 14 00}{07 00 00} Kas sa ütlesid, et\nkavatsed mulle kinkida selle\n{0b 02 00}{04 1c 00}?\nNii et, {01 00 00 0f 00}sa tahad, et ma\nseda kannaksin?\n\n{07 14 00}Olgu siis,{01 00 00 0f 00} nagu soovid.{01 00 00 05 00} Ma\nlähen end nüüd ilusaks\ntegema, {01 00 00 05 00}{04 02 00}!"
   },
   {
    "id": 2,
    "en": "{07 04 00}Wow! {01 00 00 05 00}Check it out! That\n{0b 02 00}{04 1c 00}\nis so lovely!\n{07 00 00}It seems that you're\nbeginning to understand\nwhat beauty is.\nWell then,{01 00 00 05 00} I guess I have to\ngo try this on!",
-   "et": ""
+   "et": "{07 04 00}Vau! {01 00 00 05 00}Vaata seda! See\n{0b 02 00}{04 1c 00}\non nii armas!\n{07 00 00}Tundub, et sa hakkad\nmõistma,\nmis on ilu.\nNo nii,{01 00 00 05 00} ma vist pean\nseda proovima!"
   }
  ]
 }

@@ -4,17 +4,17 @@
   {
    "id": 0,
    "en": "{07 04 00}Whoa, {01 00 00 05 00}this must be\n{04 1c 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00}\n{07 00 00}{07 02 00}What?!{01 00 00 0f 00} You got it for ME?\n{07 14 00}Whoa!{01 00 00 05 00} Thanks, {04 02 00}!\nThat's so nice of you!{01 00 00 05 00} I'm\ngoing try it on right now!",
-   "et": ""
+   "et": "{07 04 00}Ohoo, {01 00 00 05 00}see peab olema\n{04 1c 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00}\n{07 00 00}{07 02 00}Mida?!{01 00 00 0f 00} Sa said selle MULLE?\n{07 14 00}Ohoo!{01 00 00 05 00} Aitäh, {04 02 00}!\nSee on nii kena sinust!{01 00 00 05 00} Ma\nlähen proovin kohe selga!"
   },
   {
    "id": 1,
    "en": "{07 04 00}Wait{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00} Are you GIVING me\n{04 1c 00}?{01 00 00 0a 00}\nI-I don't know what to say!\n{07 06 00}Gosh, thank you so much!!{01 00 00 0a 00}\nI've actually been looking\neverywhere for this!\n{07 14 00}OK, I can't wait!{01 00 00 05 00} I'm going\nto try this on right now!{01 00 00 05 00}\nHold on, {04 02 00}!!",
-   "et": ""
+   "et": "{07 04 00}Oota{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00} Kas sa ANNAD mulle\n{04 1c 00}?{01 00 00 0a 00}\nM-ma ei tea, mida öelda!\n{07 06 00}Issand, suur aitäh!!{01 00 00 0a 00}\nMa olen seda tegelikult\nigalt poolt otsinud!\n{07 14 00}Olgu, ma ei jõua oodata!{01 00 00 05 00} Ma\nlähen proovin kohe selga!{01 00 00 05 00}\nOota, {04 02 00}!!"
   },
   {
    "id": 2,
    "en": "{07 04 00}Whoa...{01 00 00 0f 00} Oh hey, this\nis {04 1c 00},\nisn't it, {01 00 00 05 00}{04 02 00}?\n{07 16 00}You{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} You got it\njust for me?{01 01 00} {07 14 00}THANK YOU!\nYou are so great!\n{07 16 00}I know it's a little rude,\nbut I just can't wait any\nlonger, {01 00 00 05 00}{04 02 00}.\n{07 06 00}I'm going to try it on right\nNOW!{01 00 00 14 00} Oh, uh...{01 00 00 0a 00}{07 17 00} 'Scuse me a\nsecond, {04 02 00}!",
-   "et": ""
+   "et": "{07 04 00}Ohoo...{01 00 00 0f 00} Oh hei, see\non {04 1c 00},\nkas pole, {01 00 00 05 00}{04 02 00}?\n{07 16 00}Sa{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} Sa said selle\nainult mulle?{01 01 00} {07 14 00}AITÄH!\nSa oled nii tore!\n{07 16 00}Ma tean, et see on pisut\nebaviisakas, aga ma ei jõua\nenam oodata, {01 00 00 05 00}{04 02 00}.\n{07 06 00}Ma lähen proovin selle KOHE\nselga!{01 00 00 14 00} Oh, ee...{01 00 00 0a 00}{07 17 00} Vabanda\nhetkeks, {04 02 00}!"
   }
  ]
 }

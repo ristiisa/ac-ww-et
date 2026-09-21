@@ -4,17 +4,17 @@
   {
    "id": 0,
    "en": "{07 15 00}I got a bone to pick with\nyou!{01 00 00 05 00} You always open \nletters that aren't yours?!\n{07 01 00}Don't lie!{01 00 00 14 00} Do you think I'm\nstupid or something.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}?!\n\n{07 15 00}Listen up, and listen good!{01 00 00 14 00}\nIf you do it again, you and\nme are done, {01 00 00 05 00}{04 02 00}!\n{07 05 00}Come on!{01 00 00 0f 00} Gimme back my\nletter now, {01 00 00 05 00}{04 02 00}!{03 02 00 01}",
-   "et": ""
+   "et": "{07 15 00}Mul on sinuga kana kitkuda!\n{01 00 00 05 00}Kas sa avad alati\nvõõraid kirju?!\n{07 01 00}Ära valeta!{01 00 00 14 00} Kas ma olen\nsinu arust loll{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.?!\n\n{07 15 00}Kuula ja kuula hoolega!{01 00 00 14 00}\nKui sa seda veel teed, on\nmeie vahel lõpp, {01 00 00 05 00}{04 02 00}!\n{07 05 00}Ole nüüd!{01 00 00 0f 00} Anna mu kiri\nkohe tagasi, {01 00 00 05 00}{04 02 00}!{03 02 00 01}"
   },
   {
    "id": 1,
    "en": "{07 02 00}What're you trying to pull,\neh? You think I'm some kind\nof idiot, is that it?\n{07 16 00}How many times did I tell\nya not to open that letter\nto {ff 00 00 06}{04 10 00}{ff 00 00 00}?\nAnd you went ahead and did\nit anyway. Way to go,\nchief! You're a moron!\n{07 15 00}Give it back now...{01 01 00}\nYou're a disgrace,\n{01 00 00 05 00}{04 02 00}!{03 02 00 01}",
-   "et": ""
+   "et": "{07 02 00}Mida sa üritad teha,\nmis? Kas sa pead mind\nmingiks idioodiks või?\n{07 16 00}Mitu korda ma ütlesin,\net sa ei avaks seda kirja\n{ff 00 00 06}{04 10 00}{ff 00 00 00}le?\nJa sa läksid ja tegid seda\nikka. Tubli töö,\npealik! Sa oled tobu!\n{07 15 00}Anna kohe tagasi...{01 01 00}\nSa oled häbiplekk,\n{01 00 00 05 00}{04 02 00}!{03 02 00 01}"
   },
   {
    "id": 2,
    "en": "{07 16 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}Hey!{01 00 00 05 00} Do you usually go\naround opening up people's\nmail? Is that it?\n{07 00 00}Well, that garbage doesn't \nfly with me! You're like 32\nflavors of stupid!\n{07 01 00}Hand that letter over now,\n{01 00 00 05 00}{04 02 00}!{03 02 00 01}",
-   "et": ""
+   "et": "{07 16 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}Hei!{01 00 00 05 00} Kas sa käid\ntavaliselt teiste kirju\navamas? Kas nii?\n{07 00 00}Noh, see rämps ei lähe\nminu juures läbi! Sa oled\n32 maitsega rumalus!\n{07 01 00}Anna see kiri kohe siia,\n{01 00 00 05 00}{04 02 00}!{03 02 00 01}"
   }
  ]
 }

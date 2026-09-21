@@ -4,17 +4,17 @@
   {
    "id": 0,
    "en": "I hate to say it, but you{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00}\nyou{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00}w{01 00 00 05 00}-won.\n\nAs a token of your victory,\nplease accept my\n{0b 02 00}{04 1b 00}!",
-   "et": ""
+   "et": "Vastumeelne öelda, aga sa{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00}\nsa{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00}v{01 00 00 05 00}-võitsid.\n\nVõidu märgiks võta\npalun minu\n{0b 02 00}{04 1b 00}!"
   },
   {
    "id": 1,
    "en": "Apparently, you completely \ndefeated me{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}. Since this is\nsuch a rare occasion,\nplease take my\n{0b 02 00}{04 1b 00}\nto remember it by.",
-   "et": ""
+   "et": "Ilmselt alistasid sa\nmind täielikult{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}. Kuna see\non nii haruldane juhus,\nvõta palun minu\n{0b 02 00}{04 1b 00}\nseda meenutama."
   },
   {
    "id": 2,
    "en": "Oh, well. {01 00 00 05 00}Here, {01 00 00 05 00}take my\n{0b 02 00}{04 1b 00}\nin exchange for your fish.",
-   "et": ""
+   "et": "No mis seal. {01 00 00 05 00}Säh, {01 00 00 05 00}võta mu\n{0b 02 00}{04 1b 00}\noma kala eest."
   }
  ]
 }

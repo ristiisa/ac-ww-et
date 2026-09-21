@@ -4,12 +4,12 @@
   {
    "id": 0,
    "en": "{07 00 00}Hey, whatcha got there?{01 00 00 05 00}\n{07 0b 00}You caught yourself \n{04 1c 00}?!\n{07 0e 00}Well, yeah, but I netted{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n{07 03 00}{04 1d 00}!{01 00 00 0a 00}\nWar har har HAR!\n{07 00 00}That makes me the\nheavyweight champ and YOU{01 00 00 05 00}\nthe KO'd loser, {01 00 00 05 00}{04 02 00}!\n{07 14 00}Oh, it feels so GOOD when{01 00 00 05 00}\nsweet, sweet victory is\nmine, {01 00 00 05 00}{04 02 00}!\n{07 0d 00}I'll catch you later, at the\nnext big fight, {ff 00 00 05}{04 1f 00}{ff 00 00 00}!",
-   "et": ""
+   "et": "{07 00 00}Hei, mis sul seal on?{01 00 00 05 00}\n{07 0b 00}Sa püüdsid endale \n{04 1c 00}?!\n{07 0e 00}Noh, jah, aga mina sain{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n{07 03 00}{04 1d 00}!{01 00 00 0a 00}\nVaar haar haar HAAR!\n{07 00 00}See teeb minust\nraskekaalu ässa ja SINUST{01 00 00 05 00}\nKO-kaotaja, {01 00 00 05 00}{04 02 00}!\n{07 14 00}Oh, kui HEA tunne on,{01 00 00 05 00}\nkui magus, magus võit on\nminu, {01 00 00 05 00}{04 02 00}!\n{07 0d 00}Näeme hiljem, järgmises\nsuures matšis, {ff 00 00 05}{04 1f 00}{ff 00 00 00}!"
   },
   {
    "id": 1,
    "en": "{07 00 00}Hey, what's goin' on!{01 00 00 05 00}\n{07 0b 00}Did you bring me\n{04 1c 00}?\n{07 03 00}Oh, man, that's rich! {01 00 00 05 00}I got\n{04 1d 00}!{01 00 00 0a 00}\nToo bad, {01 00 00 05 00}{04 02 00}!\n{07 15 00}It was close, but{01 00 00 05 00} the home\nrun in the bottom of the\n9th locked it in for me!\n{07 14 00}Victory is mine, baby!{01 01 00}\nBetter luck next time,\n{01 00 00 05 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 00 00}Hei, mis toimub!{01 00 00 05 00}\n{07 0b 00}Kas sa tõid mulle\n{04 1c 00}?\n{07 03 00}Oh mees, see on hea! {01 00 00 05 00}Mul on\n{04 1d 00}!{01 00 00 0a 00}\nKahju, {01 00 00 05 00}{04 02 00}!\n{07 15 00}Oli napp, aga{01 00 00 05 00} kodujooks\nüheksanda alumises poolis\nlukustas selle mulle!\n{07 14 00}Võit on minu, beebi!{01 01 00}\nParem õnne järgmine kord,\n{01 00 00 05 00}{04 02 00}!"
   }
  ]
 }

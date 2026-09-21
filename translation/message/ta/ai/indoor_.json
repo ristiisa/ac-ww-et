@@ -4,62 +4,62 @@
   {
    "id": 0,
    "en": "{07 12 00}{01 00 00 14 00}Yaaaaaaawn{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 01 00}\n{07 16 00}Ah, {01 00 00 05 00}good morning,\n{04 1f 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 16 00}I'm happy that you came to\nvisit me this morning, but{01 00 00 0a 00}\n{01 00 00 0a 00}I'm{01 00 00 05 00} not a morning person.\n{07 1b 00}So, if it seems like I'm in{01 00 00 0a 00}\na bad mood, don't blame me.",
-   "et": ""
+   "et": "{07 12 00}{01 00 00 14 00}Haaaaigutus{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 01 00}\n{07 16 00}Ah, {01 00 00 05 00}tere hommikust,\n{04 1f 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 16 00}Hea meel, et sa tulid\nmind hommikul vaatama, aga{01 00 00 0a 00}\n{01 00 00 0a 00}ma{01 00 00 05 00} pole hommikuinimene.\n{07 1b 00}Nii et kui tundub, et mul on{01 00 00 0a 00}\nhalb tuju, ära süüdista."
   },
   {
    "id": 1,
    "en": "{07 04 00}{0b 03 00}{01 06 00}Oh my{01 07 00}!{01 00 00 05 00}\n{0b 03 00}{04 1f 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 14 00}\nIt's so early, {01 00 00 0a 00}{04 02 00}.\n{07 14 00}I{01 00 00 05 00} just finished putting my\nmakeup on. {01 00 00 05 00}Not that I\nreally need it.",
-   "et": ""
+   "et": "{07 04 00}{0b 03 00}{01 06 00}Oh sa{01 07 00}!{01 00 00 05 00}\n{0b 03 00}{04 1f 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 14 00}\nOn nii vara, {01 00 00 0a 00}{04 02 00}.\n{07 14 00}Ma{01 00 00 05 00} just lõpetasin meigi\ntegemise. {01 00 00 05 00}Mitte et mul\nseda väga vaja oleks."
   },
   {
    "id": 2,
    "en": "{07 14 00}{0b 03 00}{01 06 00}Welcome to my humble abode{01 07 00}!\n{01 00 00 05 00}{0b 03 00}{04 1f 00}...\n\n{07 00 00}You're here a bit late.{01 00 00 14 00} {07 1b 00}Do\nyou want breakfast?{01 00 00 05 00} Well, I\nate breakfast a while ago.\n{07 14 00}I finished up my post-meal\n{04 18 00}{01 00 00 05 00},\n{01 00 00 0a 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 14 00}{0b 03 00}{01 06 00}Tere tulemast mu\ntagasihoidlikku majja{01 07 00}\n!{01 00 00 05 00}{0b 03 00}{04 1f 00} ... \n{07 00 00}Sa oled veidi hilja.{01 00 00 14 00} {07 1b 00}Kas\nsa tahad hommikusööki?{01 00 00 05 00} ma\nsõin ammu.\n{07 14 00}Ma lõpetasin oma\nsöögijärgse {04 18 00}{01 00 00 05 00},\n{01 00 00 0a 00}{04 02 00}!"
   },
   {
    "id": 3,
    "en": "{07 04 00}{0b 03 00}{01 06 00}Hey{01 07 00}!\n{01 00 00 05 00}Welcome! {07 14 00}I was relaxing{01 00 00 0a 00} with\nsome{01 00 00 0a 00} {04 18 00}.",
-   "et": ""
+   "et": "{07 04 00}{0b 03 00}{01 06 00}Hei{01 07 00}!\n{01 00 00 05 00}Tere! {07 14 00}Ma lõõgastusin{01 00 00 0a 00}\nnatuke{01 00 00 0a 00} {04 18 00}ga."
   },
   {
    "id": 4,
    "en": "{07 04 00}{0b 03 00}{01 06 00}Oh{01 07 00}!{01 00 00 0a 00}\nWelcome to casa de\n{04 01 00}!\n{07 00 00}You're still under the\nguidance of the {ff 00 00 02}Happy\nRoom Academy{ff 00 00 00}, right?\n{07 19 00}You should{01 00 00 0a 00} really learn the\nins and outs of interior\ndesign, {01 00 00 05 00}{04 02 00}!{07 00 00}",
-   "et": ""
+   "et": "{07 04 00}{0b 03 00}{01 06 00}Oi{01 07 00}!{01 00 00 0a 00}\nTere tulemast {04 01 00}\nmajja!\n{07 00 00}Sa oled ikka veel {ff 00 00 02}Kauni\nKodu Akadeemia{ff 00 00 00} juhendamise\nall, eks?\n{07 19 00}Sa peaksid{01 00 00 0a 00} tõesti õppima\nsisekujunduse\nnüansse, {01 00 00 05 00}{04 02 00}!{07 00 00}"
   },
   {
    "id": 5,
    "en": "{07 04 00}Oh, hello,{01 00 00 05 00} {04 1f 00}.\nLet me offer this piece of\nadvice, {04 02 00}.\n{07 15 00}When entering the home\nof a lady,{01 00 00 0a 00} rather than just\nknocking and barging in,\n{07 1b 00}it's common courtesy to\noffer a proper greeting.{01 00 00 0a 00}\nWere you raised in a barn?",
-   "et": ""
+   "et": "{07 04 00}Oi, tere,{01 00 00 05 00} {04 1f 00}.\nLas ma annan sulle ühe\nnõuande, {04 02 00}.\n{07 15 00}Daami koju sisenedes\non viisakas{01 00 00 0a 00} mitte lihtsalt\nkoputada ja sisse tormata,\n{07 1b 00}vaid esitada\nkorralik tervitus.{01 00 00 0a 00} Kas\nsa kasvasid laudas üles?"
   },
   {
    "id": 6,
    "en": "{07 04 00}Oh, {04 1f 00}?{01 01 00}\n{07 16 00}I haven't prepared enough\ndinner for you, too.\n{01 00 00 0a 00}{07 1b 00}{01 00 00 05 00}And{01 00 00 05 00} don't guests normally\nbring something for the\nhostess? {01 00 00 0a 00}Well?",
-   "et": ""
+   "et": "{07 04 00}Oi, {04 1f 00}?{01 01 00}\n{07 16 00}Ma pole sinu jaoks piisavalt\nõhtusööki valmistanud.\n{01 00 00 0a 00}{07 1b 00}{01 00 00 05 00}Ja{01 00 00 05 00} kas külalised ei too\ntavaliselt perenaisele\nmidagi? {01 00 00 0a 00}Noh?"
   },
   {
    "id": 7,
    "en": "{0b 03 00}{01 06 00}Good evening{01 07 00}!{01 00 00 05 00}{07 14 00}\n{07 19 00}I thought you'd be visiting\nme, {07 14 00}{01 00 00 0a 00}{04 02 00}.",
-   "et": ""
+   "et": "{0b 03 00}{01 06 00}Tere õhtust{01 07 00}!{01 00 00 05 00}{07 14 00}\n{07 19 00}Ma arvasin, et sa tuled\nmind vaatama, {07 14 00}{01 00 00 0a 00}{04 02 00}."
   },
   {
    "id": 8,
    "en": "{07 1c 00}{01 00 00 14 00}Phew!{01 00 00 14 00} It's not easy being so\npretty, {01 00 00 0a 00}{04 02 00}. It's\nhard work!\n{07 00 00}I'm at my happiest when I\ncan relax in the comfort of{01 00 00 0a 00}\n{07 13 00}{01 00 00 0a 00}my own{01 00 00 05 00} home{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{04 02 00}.",
-   "et": ""
+   "et": "{07 1c 00}{01 00 00 14 00}Uhh!{01 00 00 14 00} Pole kerge olla nii\nilus, {01 00 00 0a 00}{04 02 00}. See on\nraske töö!\n{07 00 00}Ma olen kõige õnnelikum, kui\nsaan lõõgastuda oma{01 00 00 0a 00}\n{07 13 00}{01 00 00 0a 00}kodu{01 00 00 05 00} mugavuses{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{04 02 00}."
   },
   {
    "id": 9,
    "en": "{07 04 00}Oh, {01 00 00 05 00}{04 1f 00},{01 00 00 14 00} you're here\nso late. Perhaps you have a\n{07 0b 00}secret you'd like to share?\n{07 14 00}If this is about a crush,{01 00 00 05 00}\nI'll listen 'til morning!",
-   "et": ""
+   "et": "{07 04 00}Oi, {01 00 00 05 00}{04 1f 00},{01 00 00 14 00} sa oled siin\nnii hilja. Ehk on sul\n{07 0b 00}saladus, mida tahad jagada?\n{07 14 00}Kui jutt käib armumisest,{01 00 00 05 00}\nkuulan ma hommikuni!"
   },
   {
    "id": 10,
    "en": "{07 04 00}Hey, {01 00 00 0a 00}{04 1f 00}!\nExcellent timing! {07 16 00}I saw {01 00 00 0a 00}a\nsuper scary movie today{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 07 00}{01 00 00 14 00}Now I'm all creeped\nout, {01 00 00 05 00}{04 02 00}. Eeeek!\nDon't sneak up on me!",
-   "et": ""
+   "et": "{07 04 00}Hei, {01 00 00 0a 00}{04 1f 00}!\nImeline ajastus! {07 16 00}Ma nägin {01 00 00 0a 00}\ntäna ülihirmsat filmi{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 07 00}{01 00 00 14 00}Nüüd on mul judinad\npeal, {01 00 00 05 00}{04 02 00}. Aiiih!\nÄra hiili mulle ligi!"
   },
   {
    "id": 11,
    "en": "{07 04 00}Hey!{01 00 00 14 00}\n{07 14 00}So I guess you really ARE a\nnight owl, huh, {04 1f 00}?\n{07 00 00}Or{01 00 00 0a 00} did you drink some\n{04 18 00}, and the\ncaffeine is keeping you up?{07 14 00}{01 00 00 0a 00}",
-   "et": ""
+   "et": "{07 04 00}Hei!{01 00 00 14 00}\n{07 14 00}Nii et sa OLEDKI öökull,\nmis, {04 1f 00}?\n{07 00 00}Või{01 00 00 0a 00} jõid sa natuke\n{04 18 00} ja kofeiin\nhoiab sind üleval?{07 14 00}{01 00 00 0a 00}"
   }
  ]
 }

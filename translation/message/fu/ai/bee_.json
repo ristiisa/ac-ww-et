@@ -4,62 +4,62 @@
   {
    "id": 0,
    "en": "{07 02 00}Oh, {01 00 00 05 00}ew! What happened to\nyou, {01 00 00 05 00}{04 02 00}!\n\n{07 00 00}Did you get stung by a bee?{01 00 00 05 00}\n{0b 03 00}{04 1f 00},{01 00 00 14 00} {07 16 00}that looks\nreally painful.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}",
-   "et": ""
+   "et": "{07 02 00}Oh, {01 00 00 05 00}äh! Mis sinuga\njuhtus, {01 00 00 05 00}{04 02 00}!\n\n{07 00 00}Kas mesilane nõelas sind?{01 00 00 05 00}\n{0b 03 00}{04 1f 00},{01 00 00 14 00} {07 16 00}see näeb\ntõesti valus välja.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}"
   },
   {
    "id": 1,
    "en": "{07 02 00}Ah!!!{01 00 00 0f 00} {0b 03 00}{04 1f 00},{01 00 00 0a 00} look at\nyour face!{01 00 00 0a 00} {07 0e 00}Wait, I guess\nyou really can't, can you?\n{07 00 00}Well, let me describe it to\nyou.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} It's all swollen!\nWere you stung by a bee?\nTell me the truth.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} {07 11 00}Were\nyou shaking trees again,\n{01 00 00 05 00}{04 02 00}?\nYou were,{01 00 00 05 00} weren't you,\n{04 1f 00}? It's OK,\nI won't judge you.",
-   "et": ""
+   "et": "{07 02 00}Ah!!!{01 00 00 0f 00} {0b 03 00}{04 1f 00},{01 00 00 0a 00} vaata\noma nägu!{01 00 00 0a 00} {07 0e 00}Oota, sa vist\ntõesti ei saa, ega?\n{07 00 00}Noh, las ma kirjeldan seda\nsulle.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} See on paistes!\nKas mesilane nõelas sind?\nÜtle tõtt.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} {07 11 00}Kas sa\nraputasid jälle puid,\n{01 00 00 05 00}{04 02 00}?\nRaputasid,{01 00 00 05 00} kas pole,\n{04 1f 00}? Pole viga,\nma ei mõista sind hukka."
   },
   {
    "id": 2,
    "en": "{07 04 00}Oh, no!{01 00 00 0f 00} You poor thing! What\nhappened to you?{01 00 00 05 00} Your face\nlooks awful, {01 00 00 0a 00}{04 02 00}!\n{07 00 00}What did that?{01 00 00 0f 00} It was bees,\nwasn't it? Did they sting\nyou, {01 00 00 05 00}{04 02 00}?\n{07 14 00}Well, don't you worry.{01 00 00 0f 00} You'll\nbe just fine after a good\nnight's sleep.\n{07 19 00}A little medicine wouldn't\nhurt, either, {01 00 00 05 00}{04 02 00}.",
-   "et": ""
+   "et": "{07 04 00}Oh ei!{01 00 00 0f 00} Sa vaeseke! Mis\nsinuga juhtus?{01 00 00 05 00} Su nägu\nnäeb kohutav, {01 00 00 0a 00}{04 02 00}!\n{07 00 00}Mis seda tegi?{01 00 00 0f 00} Mesilased,\nkas pole? Kas nad nõelasid\nsind, {01 00 00 05 00}{04 02 00}?\n{07 14 00}Noh, ära muretse.{01 00 00 0f 00} Sul on\nkõik korras pärast head\nööund.\n{07 19 00}Natuke rohtu ei teeks ka\nhalba, {01 00 00 05 00}{04 02 00}."
   },
   {
    "id": 3,
    "en": "Oh, hello.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} Have we met\nbefo-- {07 02 00}Ahhh!{01 01 00}\nIs that you, {04 1f 00}?\n{07 00 00}Oh,{01 00 00 0f 00} you were stung by bees?{01 00 00 14 00}\n{07 16 00}That looks really painful!{01 00 00 0a 00}\n{07 00 00}It's too late now, but.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\nWhen bees attack, you\nshould run straight for\nthe nearest house.",
-   "et": ""
+   "et": "Oh, tere.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} Kas me oleme\nvarem koh-- {07 02 00}Ahhh!{01 01 00}\nKas see oled sina,{04 1f 00}?\n{07 00 00}Oh,{01 00 00 0f 00} mesilased nõelasid sind?{01 00 00 14 00}\n{07 16 00}See näeb tõesti valus!{01 00 00 0a 00}\n{07 00 00}Nüüd on juba hilja, aga.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\nKui mesilased ründavad,\npead sa jooksma otse\nlähima maja poole."
   },
   {
    "id": 4,
    "en": "{07 07 00}Aaaah!{01 00 00 05 00}!{01 00 00 05 00}!{01 00 00 05 00}{01 00 00 14 00} Oh, ouch!{01 00 00 05 00} That\nlooks REALLY painful!\n\nI mean.{01 00 00 05 00}.{01 00 00 05 00}.you don't need me\nto tell you that, I guess.{01 00 00 14 00}\n{07 00 00}Are you all right?\nListen, don't you worry at\nall, OK? I'm sure a good\nnight's rest will fix you up.\nBut from now on, you keep\nyour peepers peeled for\nbees, please, {01 00 00 0a 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 07 00}Aaaah!{01 00 00 05 00}!{01 00 00 05 00}!{01 00 00 05 00}{01 00 00 14 00} Oh, ai!{01 00 00 05 00} See\nnäeb TÕESTI valus välja!\n\nMa mõtlen.{01 00 00 05 00}.{01 00 00 05 00}.sa ei vaja mind,\net seda öelda, vist.{01 00 00 14 00}\n{07 00 00}Kas sinuga on kõik korras?\nKuula, ära üldse muretse,\neks? Hea ööuni parandab\nsu kindlasti ära.\nAga nüüdsest hoia\nmesilaste eest silmad\nlahti, palun, {01 00 00 0a 00}{04 02 00}!"
   },
   {
    "id": 5,
    "en": "{07 04 00}Oh{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} {0b 03 00}{04 1f 00},{01 00 00 0f 00} look\nat how much your face\nswelled up! A lot!\n{07 14 00}Just keep telling yourself\nthat it doesn't hurt.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\nIt doesn't hurt.\nIf you keep thinking about\nit,{01 00 00 05 00} it will just keep on\nhurting, {01 00 00 05 00}{04 02 00}.",
-   "et": ""
+   "et": "{07 04 00}Oh{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} {0b 03 00}{04 1f 00},{01 00 00 0f 00} vaata,\nkui palju su nägu\nüles paistetas! Palju!\n{07 14 00}Lihtsalt ütle endale,\net see ei valuta.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\nSee ei valuta.\nKui sa sellele mõtled,{01 00 00 05 00}\nsiis see lihtsalt valutab\nedasi, {01 00 00 05 00}{04 02 00}."
   },
   {
    "id": 6,
    "en": "{07 02 00}Eek!{01 01 00}\n{07 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}Oh, {01 00 00 0f 00}my.\n\n{07 0b 00}What happened to you?{01 00 00 14 00}\nYour face...{01 00 00 0f 00}{04 02 00}!{01 01 00}\n{07 00 00}Oh, {01 00 00 05 00}that explains it. {01 00 00 05 00}Bees.\n{07 14 00}It happens to everyone\nsooner or later. But I do\nhave some advice for you.\nIf you knock a beehive\nloose, haul heinie straight\nfor the nearest house!",
-   "et": ""
+   "et": "{07 02 00}Iik!{01 01 00}\n{07 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}Oh, {01 00 00 0f 00}sa heldene.\n\n{07 0b 00}Mis sinuga juhtus?{01 00 00 14 00}\nSu nägu...{01 00 00 0f 00}{04 02 00}!{01 01 00}\n{07 00 00}Oh, {01 00 00 05 00}see seletab. {01 00 00 05 00}Mesilased.\n{07 14 00}See juhtub kõigiga\nvarem või hiljem. Aga mul\non sulle üks nõuanne.\nKui sa mesitaru lahti lööd,\njookse otse lähima\nmaja poole!"
   },
   {
    "id": 7,
    "en": "{07 02 00}Aaieee!!!{01 01 00}\n{07 16 00}Whoa! Don't scare me like\nthat,{01 00 00 05 00} {04 1f 00}!\n{07 00 00}Sheesh! Look at you. It's\nlike you got stung by every\nbee in town.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\nListen, next time, just run\nstraight into the nearest\nhouse, {04 02 00}!\nBees can't use doors! In\nthe battle of man versus\nbee, doors are your savior!",
-   "et": ""
+   "et": "{07 02 00}Aaiii!!!{01 01 00}\n{07 16 00}Ohoo! Ära hirmuta mind\nniimoodi,{01 00 00 05 00} {04 1f 00}!\n{07 00 00}Issand! Vaata sind. Nagu\noleks sind nõelanud iga\nmesilane linnas.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\nKuula, järgmine kord jookse\notse lähimasse\nmajja, {04 02 00}!\nMesilased ei oska ust\nkasutada! Uks on sinu\npäästja selles lahingus!"
   },
   {
    "id": 8,
    "en": "{07 02 00}Aah!{01 00 00 0a 00} Monster! Don't come\nnear me!{01 00 00 0a 00}\n\n{07 0b 00}Huh?{01 00 00 0f 00} Wait, you're not.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n{07 0c 00}{04 1f 00}?{01 01 00}\nOh, it IS you, {04 1f 00}!\n{07 16 00}I'm sorry!{01 00 00 0f 00} I didn't\nrecognize you through all\nthe swollen face tissue!",
-   "et": ""
+   "et": "{07 02 00}Aah!{01 00 00 0a 00} Koletis! Ära tule\nmulle lähedale!{01 00 00 0a 00}\n\n{07 0b 00}Ah?{01 00 00 0f 00} Oota, sa pole.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n{07 0c 00}{04 1f 00}?{01 01 00}\nOh, see OLED sina, {04 1f 00}!\n{07 16 00}Vabandust!{01 00 00 0f 00} Ma ei tundnud\nsind ära kogu selle\npaistes näokoe tõttu!"
   },
   {
    "id": 9,
    "en": "{07 02 00}Noooo{01 00 00 05 00}oo{01 00 00 05 00}ooo{01 00 00 05 00}oo{01 00 00 05 00}!!\n\n\n{07 00 00}...Oh,{01 00 00 0f 00} wait a minute.{01 00 00 0a 00}\nIs that you, {04 1f 00}?\n\n.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}Whew!{01 00 00 0f 00} I thought you were\na monster, come to eat me\nfor dinner.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}",
-   "et": ""
+   "et": "{07 02 00}Eiii{01 00 00 05 00}ii{01 00 00 05 00}iii{01 00 00 05 00}ii{01 00 00 05 00}!!\n\n\n{07 00 00}...Oh,{01 00 00 0f 00} oota hetk.{01 00 00 0a 00}\nKas see oled sina,{04 1f 00}?\n\n.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}Uhh!{01 00 00 0f 00} Ma arvasin, et sa\noled koletis, kes tuleb mind\nõhtusöögiks sööma.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}"
   },
   {
    "id": 10,
    "en": "{07 06 00}No! {01 00 00 05 00}Stay away! I'm sure\nthat I'm not delicious at\nall! Stay away!\nWait.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 0b 00} Is that you,{01 00 00 0f 00}\n{04 1f 00}?{01 00 00 0f 00}\n\n{07 00 00}Oh, I swear!{01 00 00 0f 00} Don't startle\nme like that! I thought you\nwere a monster!",
-   "et": ""
+   "et": "{07 06 00}Ei! {01 00 00 05 00}Hoia eemale! Ma olen\nkindel, et ma pole üldse\nmaitsev! Hoia eemale!\nOota.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 0b 00} Kas see oled sina,{01 00 00 0f 00}\n{04 1f 00}?{01 00 00 0f 00}\n\n{07 00 00}Oh, ma vannun!{01 00 00 0f 00} Ära ehmata\nmind niimoodi! Ma arvasin,\net sa oled koletis!"
   },
   {
    "id": 11,
    "en": "{07 02 00}Nooooo{01 00 00 05 00}ooo{01 00 00 05 00}oo{01 00 00 05 00}ooo{01 00 00 05 00}oo{01 00 00 05 00}!\nStay away, {01 00 00 05 00}{04 02 00}!!\n\n{07 07 00}Someone! {01 00 00 05 00}Help me.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\nA ghost is after me!\n\n{07 0a 00}What?!{01 00 00 0f 00} {0b 03 00}{04 1f 00}?{01 00 00 0f 00}\nIs that you, {04 1f 00}?{01 00 00 05 00}?\n\n{07 16 00}Stop laughing.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 00 00} You'd be\nscared too if I came up to\nyou in the dead of night!\nEspecially with my face all\nswollen like that!",
-   "et": ""
+   "et": "{07 02 00}Eiiiii{01 00 00 05 00}iii{01 00 00 05 00}ii{01 00 00 05 00}iii{01 00 00 05 00}ii{01 00 00 05 00}!\nHoia eemale, {01 00 00 05 00}{04 02 00}!!\n\n{07 07 00}Keegi! {01 00 00 05 00}Aidake mind.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\nKummitus ajab mind taga!\n\n{07 0a 00}Mida?!{01 00 00 0f 00} {0b 03 00}{04 1f 00}?{01 00 00 0f 00}\nKas see oled sa, {04 1f 00}?{01 00 00 05 00}?\n\n{07 16 00}Lõpeta naermine.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 00 00} Sa oleks\nka hirmul, kui ma tuleksin\nsu juurde kesköösel!\nEriti sellise paistes\nnäoga!"
   }
  ]
 }

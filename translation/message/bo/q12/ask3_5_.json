@@ -4,32 +4,32 @@
   {
    "id": 0,
    "en": "{07 07 00}My forehead's as cold as ice\ncream, but my body's as\nhot as tomato soup!\nAnd my belly is churning\ntoo much for me to eat\nanything!{01 01 00} I'm really sick!",
-   "et": ""
+   "et": "{07 07 00}Mu laup on külm nagu\njäätis, aga keha kuum\nnagu tomatisupp!\nJa mu kõht keerleb liiga\npalju, et midagi\nsüüa!{01 01 00} Olen tõesti haige!"
   },
   {
    "id": 1,
    "en": "{07 16 00}I f{01 00 00 03 00}-feel all sh{01 00 00 03 00}-shivery{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\nAnd every sq{01 00 00 03 00}-square inch\nof me feels so achy.\n{07 07 00}But, on the upside, I{01 00 00 03 00}-I can\nunderstand what the bugs\nare saying now.",
-   "et": ""
+   "et": "{07 16 00}Ma v{01 00 00 03 00}-värisen ü{01 00 00 03 00}-üleni{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\nJa iga r{01 00 00 03 00}-ruutsentimeeter\nminust valutab.\n{07 07 00}Aga hea uudis: m{01 00 00 03 00}-ma saan\nnüüd aru, mida putukad\nräägivad."
   },
   {
    "id": 2,
    "en": "{07 07 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}S{01 00 00 03 00}-so very cold.{01 00 00 14 00} Can't\nstop sh-shaking.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} Brrrr.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\nH{01 00 00 03 00}-head overheating.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n{07 02 00}{01 08 00}I CAN TASTE THE CLOUDS!{01 00 00 05 00}\nDELICIOUS, FLUFFY CLOUDS!{01 01 00} {07 07 00}Oh,\nman, I gotta lie down.",
-   "et": ""
+   "et": "{07 07 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}N{01 00 00 03 00}-nii väga külm.{01 00 00 14 00} Ei\nsaa v-värinat{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}. Brrrr{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\nP{01 00 00 03 00}-pea kuumeneb üle{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 02 00}{01 08 00}MA MAITSEN PILVI!{01 00 00 05 00}\nMAITSVAD, KOHEVAD PILVED!{01 01 00} {07 07 00}Oi,\nmees, pean pikali heitma."
   },
   {
    "id": 3,
    "en": "{07 00 00}I just wanna yell from my\nrooftop, {01 00 00 14 00}{01 08 00}{07 0a 00}\"{ff 00 00 05}{04 0f 00}{ff 00 00 00}'s\n{ff 00 00 07}medicine {ff 00 00 00}HEALED ME!\"",
-   "et": ""
+   "et": "{07 00 00}Tahaks lihtsalt karjuda oma\nkatuselt: {01 00 00 14 00}{01 08 00}{07 0a 00}„{ff 00 00 05}{04 0f 00}{ff 00 00 00}\n{ff 00 00 07}rohi {ff 00 00 00}TEGI MU TERVEKS!”"
   },
   {
    "id": 4,
    "en": "{07 00 00}The {ff 00 00 07}medicine {ff 00 00 00}worked! {01 00 00 0f 00}I just\nwanna scream {01 00 00 0f 00}{01 08 00}\"{0b 03 00}{ff 00 00 05}{04 0f 00}\n{ff 00 00 00}is my hero!\"\n{07 14 00}But now I can't understand\nwhat the bugs are saying\nanymore.",
-   "et": ""
+   "et": "{07 00 00}{ff 00 00 07}Rohi {ff 00 00 00}mõjus! {01 00 00 0f 00}Tahaks\nlihtsalt karjuda {01 00 00 0f 00}{01 08 00}„{0b 03 00}{ff 00 00 05}{04 0f 00}\n{ff 00 00 00}on mu kangelane!”\n{07 14 00}Aga nüüd ma ei saa enam\naru, mida putukad\nräägivad."
   },
   {
    "id": 5,
    "en": "{07 14 00}I feel so much better now,\nthanks to {01 00 00 05 00}the one, {01 00 00 05 00}the\nonly,{01 00 00 0f 00} {ff 00 00 05}{04 0f 00}{ff 00 00 00}!",
-   "et": ""
+   "et": "{07 14 00}Tunnen end nüüd palju\nparemini, tänu {01 00 00 05 00}ainsale{01 00 00 05 00} ja\nainuõigele{01 00 00 0f 00} {ff 00 00 05}{04 0f 00}{ff 00 00 00}!"
   }
  ]
 }

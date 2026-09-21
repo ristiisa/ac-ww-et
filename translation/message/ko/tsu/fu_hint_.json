@@ -4,42 +4,42 @@
   {
    "id": 0,
    "en": "{06 01 00 05 06 07}",
-   "et": ""
+   "et": "{06 01 00 05 06 07}"
   },
   {
    "id": 1,
    "en": "Even those nameless flowers\nthat grow here and there\ncan be great accent pieces.\n{07 14 00}Just put 'em in your house,\n{01 00 00 05 00}{04 02 00}!{01 01 00} {07 00 00}Sure, they look\ncheap, but whatever.",
-   "et": ""
+   "et": "Isegi need nimetud lilled,\nmis siin-seal kasvavad,\nvõivad olla toredad.\n{07 14 00}Pane need lihtsalt oma\nmajja, {01 00 00 05 00}{04 02 00}!{01 01 00} {07 00 00}Näevad küll\nodavad välja, aga ükskõik."
   },
   {
    "id": 2,
    "en": "{07 0e 00}You know how {ff 00 00 06}Nook{ff 00 00 00}'s got the\n{ff 00 00 02}Point Machine {ff 00 00 00}set up at his\nstore?\n{07 0f 00}I still don't get how to use\nit.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{01 01 00} Stupid technology!{01 00 00 0a 00} {07 0b 00}Do\nyou use it?{02 00 00 03 04}\nDuh?\nNah!",
-   "et": ""
+   "et": "{07 0e 00}Tead, et {ff 00 00 06}Nookil{ff 00 00 00} on poes\n{ff 00 00 02}punktimasin {ff 00 00 00}üles\npandud?\n{07 0f 00}Ma ei saa ikka aru, kuidas\nseda kasutada{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 01 00} Rumal!{01 00 00 0a 00} {07 0b 00}Kas\nsa kasutad seda?{02 00 00 03 04}\nMuidugi?\nEi!"
   },
   {
    "id": 3,
    "en": "{07 0e 00}Um{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}OK. Anyone ever told\nyou{01 00 00 0f 00} {07 00 00}that you're kinda\nsimple? {01 00 00 0f 00}In a good way!{03 03 00 01}",
-   "et": ""
+   "et": "{07 0e 00}Ee{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}Olgu. Kas keegi on\nöelnud,{01 00 00 0f 00} {07 00 00}et sa oled pisut\nlihtsameelne? {01 00 00 0f 00}Heas mõttes!{03 03 00 01}"
   },
   {
    "id": 4,
    "en": "{07 0b 00}You too, huh?{01 00 00 14 00} {07 16 00}We regular\nfolks{01 00 00 05 00} don't do the whole\nhigh-tech gizmo thing.{07 00 00}\nBut {01 00 00 0f 00}I heard that it works\nby tracking your points\nwhen you buy stuff.\nAs you earn more points,\nyour rank goes up. {07 0e 00}Then you\nget special discount prices.\nI'm not a technophobe or\nanything.{07 06 00} It's just\nconfusing, {01 00 00 05 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 0b 00}Sina ka, mis?{01 00 00 14 00} {07 16 00}Meie, lihtsad\ninimesed,{01 00 00 05 00} ei tegele\ntehnikavidinatega.{07 00 00}\nAga {01 00 00 0f 00}ma kuulsin, et see\njälgib su punkte, kui sa\nasju ostad.\nMida rohkem punkte, seda\nkõrgem aste. {07 0e 00}Siis saad\nerilisi soodushindu.\nMa pole tehnikapelgur\nega midagi.{07 06 00} See on lihtsalt\nsegadust tekitav, {01 00 00 05 00}{04 02 00}!"
   },
   {
    "id": 5,
    "en": "{07 00 00}You know how different TV\nprograms {07 0b 00}come on at\ndifferent times?\n{07 00 00}What channels are they\nshowing on, anyway? {01 00 00 05 00}'Cause\nI get no reception at all!\n{07 16 00}I don't even think\n{04 03 00} has its own TV\nstation, {01 00 00 05 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 00 00}Tead, kuidas erinevad\nTV-saated {07 0b 00}tulevad\nerinevatel aegadel?\n{07 00 00}Mis kanalitel neid üldse\nnäidatakse? {01 00 00 05 00}Sest mul pole\nmingit levi!\n{07 16 00}Ma ei usu isegi, et\n{04 03 00}-l on oma\ntelejaam, {01 00 00 05 00}{04 02 00}!"
   },
   {
    "id": 6,
    "en": "{07 00 00}I don't mean to be petty or\nanything, but{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n\n{07 04 00}Oh, {01 01 00}never mind!{01 00 00 14 00} {07 00 00}It\nwas nothing, really.{01 00 00 0f 00} {07 06 00}Just\nforget about it!",
-   "et": ""
+   "et": "{07 00 00}Ma ei taha olla\nväiklane ega midagi, aga{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n\n{07 04 00}Oh, {01 01 00}pole tähtis!{01 00 00 14 00} {07 00 00}See\npolnud midagi.{01 00 00 0f 00} {07 06 00}Unusta\nlihtsalt ära!"
   },
   {
    "id": 7,
    "en": "{07 00 00}I've spent a LOT of time\nand energy collecting\nfurniture, {01 00 00 05 00}{04 02 00}!\nIt'd be cool if I got a\n{ff 00 00 07}trophy{ff 00 00 00} or something to \nshow for it, {01 00 00 05 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 00 00}Ma olen kulutanud PALJU\naega ja energiat mööbli\nkogumisele, {01 00 00 05 00}{04 02 00}!\nOleks lahe, kui saaksin\n{ff 00 00 07}karika{ff 00 00 00} või midagi, et \nseda näidata, {01 00 00 05 00}{04 02 00}!"
   }
  ]
 }

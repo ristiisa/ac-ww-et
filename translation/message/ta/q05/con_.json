@@ -4,17 +4,17 @@
   {
    "id": 0,
    "en": "{07 14 00}I'm all about collecting\n{ff 00 00 07}{04 0f 00}{ff 00 00 00}\nlately.",
-   "et": ""
+   "et": "{07 14 00}Ma kogun viimasel ajal\nainult\n{ff 00 00 07}{04 0f 00}{ff 00 00 00}."
   },
   {
    "id": 1,
    "en": "{07 14 00}I want to fill up my house\nwith nothing but\n{ff 00 00 07}{04 0f 00}{ff 00 00 00}!",
-   "et": ""
+   "et": "{07 14 00}Ma tahan täita oma maja\nainult sellega:\n{ff 00 00 07}{04 0f 00}{ff 00 00 00}!"
   },
   {
    "id": 2,
    "en": "{07 14 00}Lately, {01 00 00 05 00}I've been collecting\n{ff 00 00 07}{04 0f 00}\n{ff 00 00 00}like mad, {01 00 00 0a 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 14 00}Viimasel ajal {01 00 00 05 00}olen ma\nkogunud {ff 00 00 07}{04 0f 00}\n{ff 00 00 00}nagu hull, {01 00 00 0a 00}{04 02 00}!"
   }
  ]
 }

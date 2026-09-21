@@ -4,102 +4,102 @@
   {
    "id": 0,
    "en": "{07 1d 00}Wow! Look at all this stuff!\nYou have impeccable taste,\nthere's no doubt about it.\n{07 14 00}OK, {04 1f 00}, it's time\nfor me to get my shop on!",
-   "et": ""
+   "et": "{07 1d 00}Vau! Vaata seda kõike!\nSul on laitmatu maitse,\nselles pole kahtlustki.\n{07 14 00}Olgu, {04 1f 00}, nüüd on\nmul aeg poodlema hakata!"
   },
   {
    "id": 1,
    "en": "{07 04 00}Wow!{01 00 00 05 00} I didn't think your\nhouse would look so\nfabulous, {01 00 00 05 00}{04 02 00}.\n{07 19 00}You've got a better eye for\ndesign than I'd given you\ncredit for, {01 00 00 05 00}{04 02 00}!{07 14 00}",
-   "et": ""
+   "et": "{07 04 00}Vau!{01 00 00 05 00} Ma ei arvanud, et su\nmaja näeb nii vapustav\nvälja, {01 00 00 05 00}{04 02 00}.\n{07 19 00}Sul on parem silm disaini\njaoks, kui ma arvasin,\n{01 00 00 05 00}{04 02 00}!{07 14 00}"
   },
   {
    "id": 2,
    "en": "{07 16 00}I'm so cozy here! I feel\nlike I'm finally home.\n\nBut it's not my home! It's\nyours! And it's not fair,\nI tell you, {01 00 00 05 00}{04 02 00}!\n{07 14 00}Oh, you know I'm just\nkidding, {04 1f 00}. But\nyou do have lovely things.\nThanks for letting me look\naround. I should be moving\non to the other houses.",
-   "et": ""
+   "et": "{07 16 00}Mul on siin nii hubane! Ma\ntunnen end lõpuks kodus.\n\nAga see pole minu kodu! See\non sinu oma! Ja see pole\nõiglane, {01 00 00 05 00}{04 02 00}!\n{07 14 00}Oh, tead küll, ma ainult\nnaljatan, {04 1f 00}. Aga\nsul on tõesti ilusad asjad.\nAitäh, et lasid mul ringi\nvaadata. Ma peaksin teiste\nmajade juurde liikuma."
   },
   {
    "id": 3,
    "en": "{07 00 00}{0b 03 00}{04 1f 00}, I wish I\ncould just buy your whole\nhouse and move in forever.\n{07 16 00}There are so many other\nhouses to see! I can't\nwaste any more time here!",
-   "et": ""
+   "et": "{07 00 00}{0b 03 00}{04 1f 00}, soovin, et ma\nsaaksin lihtsalt su maja\nära osta ja siia jääda.\n{07 16 00}Vaadata on veel nii palju\nteisi maju! Ma ei saa siin\nrohkem aega raisata!"
   },
   {
    "id": 4,
    "en": "{07 14 00}This is a nice place you've\ngot here, {01 00 00 05 00}{04 02 00}!\n\nDon't let anyone tell you\notherwise.",
-   "et": ""
+   "et": "{07 14 00}Sul on siin kena koht,\n{01 00 00 05 00}{04 02 00}!\n\nÄra lase kellelgi teisiti\nöelda."
   },
   {
    "id": 5,
    "en": "{07 19 00}Interesting, {01 00 00 05 00}{04 1f 00}!\n\n\nYou know, this is the last\nthing I'd have expected to\nsee at your house.{07 14 00}",
-   "et": ""
+   "et": "{07 19 00}Huvitav, {01 00 00 05 00}{04 1f 00}!\n\n\nTead, see on viimane asi,\nmida ma oleksin oodanud\nsu majas näha.{07 14 00}"
   },
   {
    "id": 6,
    "en": "{07 00 00}{07 0b 00}So, uh, how much are you\nasking for this dingy old\n{0b 02 00}{04 1a 00}?{02 00 00 ff ff}\nLet's talk!\nNot for sale!",
-   "et": ""
+   "et": "{07 00 00}{07 0b 00}Nii, ee, kui palju sa küsid\nselle vana räämas\n{0b 02 00}{04 1a 00} eest?{02 00 00 ff ff}\nRäägime!\nPole müügiks!"
   },
   {
    "id": 7,
    "en": "{07 00 00}Oh,{01 00 00 05 00} {04 1f 00},{01 00 00 0a 00} hey, I've\ngot a question about this\n{0b 02 00}{04 1a 00}.\nHow much do you want for\nit, {01 00 00 05 00}{04 02 00}?{02 00 00 ff ff}\nHmmm...\nNot selling it!",
-   "et": ""
+   "et": "{07 00 00}Oh,{01 00 00 05 00} {04 1f 00},{01 00 00 0a 00} kuule, mul\non küsimus selle\n{0b 02 00}{04 1a 00} kohta.\nKui palju sa selle eest\ntahad, {01 00 00 05 00}{04 02 00}?{02 00 00 ff ff}\nHmmm...\nEi müü!"
   },
   {
    "id": 8,
    "en": "{07 1c 00}I see...{01 00 00 14 00} That's too bad.",
-   "et": ""
+   "et": "{07 1c 00}Selge...{01 00 00 14 00} See on kahju."
   },
   {
    "id": 9,
    "en": "{07 16 00}Oh!{01 00 00 05 00} That's a shame,\n{01 00 00 05 00}{04 02 00}.",
-   "et": ""
+   "et": "{07 16 00}Oh!{01 00 00 05 00} Kahju,\n{01 00 00 05 00}{04 02 00}."
   },
   {
    "id": 10,
    "en": "{07 1d 00}What?!{01 00 00 0a 00} .{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}{07 06 00}For that piece\nof junk? Are you crazy!?\n\nMaybe if you wanted a\nlittle less, I'd be willing\nto take it, {01 00 00 05 00}{04 02 00}.{02 00 00 ff ff}\nMaaaaaybe...\nNo way!",
-   "et": ""
+   "et": "{07 1d 00}Mida?!{01 00 00 0a 00} .{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}{07 06 00}Selle rämpsu\neest? Kas sa oled hull!?\n\nEhk kui sa tahaksid pisut\nvähem, oleksin ma nõus\nselle võtma, {01 00 00 05 00}{04 02 00}.{02 00 00 ff ff}\nEhk-kaaa...\nEi mingil juhul!"
   },
   {
    "id": 11,
    "en": "{07 06 00}That's a little out of my\nprice range, to tell you\nthe truth, {01 00 00 05 00}{04 02 00}!\n{07 16 00}Think you could knock the\nprice down a bit?{02 00 00 ff ff}\nI suppose.\nI won't budge!",
-   "et": ""
+   "et": "{07 06 00}See on pisut väljaspool mu\nhinnaklassi, kui ausalt\nöelda, {01 00 00 05 00}{04 02 00}!\n{07 16 00}Kas sa saaksid hinda\npisut alla lasta?{02 00 00 ff ff}\nVist küll.\nMa ei liigu!"
   },
   {
    "id": 12,
    "en": "{07 14 00}Great!{01 00 00 0a 00} If that's the price\nyou're selling it for, sign\nme up!{02 00 00 ff ff}\nIt's a deal!\nNo way!",
-   "et": ""
+   "et": "{07 14 00}Suurepärane!{01 00 00 0a 00} Kui see on\nhind, millega müüd, siis\nma võtan!{02 00 00 ff ff}\nKäed löödud!\nEi mingil juhul!"
   },
   {
    "id": 13,
    "en": "{07 00 00}{04 0f 00}?{01 00 00 0a 00} That sounds good.\n{01 00 00 0a 00}{07 0b 00}Are you sure about the\nprice, {01 00 00 05 00}{04 02 00}?{02 00 00 ff ff}\nYup!\nDeal's off!",
-   "et": ""
+   "et": "{07 00 00}{04 0f 00}?{01 00 00 0a 00} See kõlab hästi.\n{01 00 00 0a 00}{07 0b 00}Kas sa oled hinnas\nkindel, {01 00 00 05 00}{04 02 00}?{02 00 00 ff ff}\nJah!\nTehing katki!"
   },
   {
    "id": 14,
    "en": "{07 14 00}It's a deal! I'll take your\n{0b 02 00}{04 1a 00}\nfor{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 14 00} {07 0b 00}How many Bells again?\nOh, yeah. {01 00 00 14 00}{07 19 00}{04 0f 00}.{01 01 00} And don't\nyou worry. I'll take good\ncare of it!",
-   "et": ""
+   "et": "{07 14 00}Käed löödud! Ma võtan su\n{0b 02 00}{04 1a 00}\nhinnaga{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 14 00} {07 0b 00}Mitu kellukest?\nAh jaa. {01 00 00 14 00}{07 19 00}{04 0f 00}.{01 01 00} Ja ära\nmuretse. Ma hoolitsen\nselle eest hästi!"
   },
   {
    "id": 15,
    "en": "{07 14 00}We have a deal, then!{01 00 00 14 00}\nI'll just be taking this\n{0b 02 00}{04 1a 00}.",
-   "et": ""
+   "et": "{07 14 00}Käed löödud siis!{01 00 00 14 00}\nMa võtan siis selle\n{0b 02 00}{04 1a 00}."
   },
   {
    "id": 16,
    "en": "{07 06 00}Oh,{01 00 00 05 00} oh, that makes me so\nsad{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.\n\n{07 0f 00}After all this, you just say\nno? That is seriously\nuncool, {01 00 00 05 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 06 00}Oh,{01 00 00 05 00} oh, see teeb mind nii\nkurvaks{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.\n\n{07 0f 00}Pärast kõike seda ütled sa\nlihtsalt ei? See on tõsiselt\nkole, {01 00 00 05 00}{04 02 00}!"
   },
   {
    "id": 17,
    "en": "{07 16 00}Oh, {01 00 00 05 00}I see how it is{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 14 00} That's\na shame, {01 00 00 05 00}{04 02 00}.",
-   "et": ""
+   "et": "{07 16 00}Oh, {01 00 00 05 00}selge{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 14 00} Kahju,\n{01 00 00 05 00}{04 02 00}."
   },
   {
    "id": 18,
    "en": "{07 16 00}Oh, {04 1f 00}!{01 00 00 0a 00} Your wallet\nis full! You can't hold any\nmore money, {01 00 00 05 00}{04 02 00}!\n{07 00 00}If you can't hold any more\nmoney, you certainly don't\nneed mine, {01 00 00 05 00}{04 02 00}.\nMaybe when you've had time\nto dump some cash, we can\ndo business, {01 00 00 05 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 16 00}Oh, {04 1f 00}!{01 00 00 0a 00} Su rahakott\non täis! Sa ei mahuta enam\nraha, {01 00 00 05 00}{04 02 00}!\n{07 00 00}Kui sa ei mahuta rohkem\nraha, siis sa kindlasti ei\nvaja minu oma, {01 00 00 05 00}{04 02 00}.\nEhk siis, kui oled jõudnud\nnatuke raha kulutada, saame\näri ajada, {01 00 00 05 00}{04 02 00}!"
   },
   {
    "id": 19,
    "en": "{07 04 00}What?!{01 00 00 14 00} Look at you,\nmoneybags! You can't hold\nany more cash!\n{07 16 00}Maybe we should just forget\nabout this deal altogether,\nhuh, {01 00 00 05 00}{04 02 00}!\n{07 00 00}We can talk more later,\nwhen you've sorted out your\nfinancial situation.",
-   "et": ""
+   "et": "{07 04 00}Mida?!{01 00 00 14 00} Vaata sind,\nrahakott! Sa ei mahuta\nenam sentigi!\n{07 16 00}Ehk peaksime selle tehingu\nlihtsalt unustama,\nmis, {01 00 00 05 00}{04 02 00}!\n{07 00 00}Räägime hiljem, kui oled\noma rahaasjad korda\najanud."
   }
  ]
 }

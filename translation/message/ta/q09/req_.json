@@ -4,17 +4,17 @@
   {
    "id": 0,
    "en": "{07 00 00}Hey, {01 00 00 05 00}{04 1f 00},{01 00 00 0a 00} do you\nwant to {07 0b 00}play hide-and-seek,\n{01 00 00 05 00}{04 02 00}?\n{07 04 00}What?{01 00 00 14 00} \"Hide-and-seek is for\nkids,\" you say? {01 00 00 0a 00}You couldn't\nbe more wrong!\n{07 1b 00}You just don't understand.{01 00 00 05 00}\nYou've lost touch with your\nplayful side, {01 00 00 0a 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 00 00}Hei, {01 00 00 05 00}{04 1f 00},{01 00 00 0a 00} kas sa\ntahad {07 0b 00}peitust mängida,\n{01 00 00 05 00}{04 02 00}?\n{07 04 00}Mis?{01 00 00 14 00} „Peitus on laste\nmäng,” ütled? {01 00 00 0a 00}Sa ei saaks\nrohkem eksida!\n{07 1b 00}Sa lihtsalt ei mõista.{01 00 00 05 00} Sa\noled kaotanud sideme oma\nmängulise poolega, {01 00 00 0a 00}{04 02 00}!"
   },
   {
    "id": 1,
    "en": "{07 00 00}Hey, {01 00 00 05 00}{04 1f 00}.{01 00 00 0a 00} {07 0b 00}You wanna\nplay hide-and-seek with me,\n{01 00 00 0a 00}{04 02 00}?\n{07 14 00}I'm {01 00 00 05 00}pretty good at hiding,{01 00 00 05 00}\nyou know! {01 00 00 05 00}What with the\npaparazzi and all.",
-   "et": ""
+   "et": "{07 00 00}Hei, {01 00 00 05 00}{04 1f 00}.{01 00 00 0a 00} {07 0b 00}Kas sa tahad\nminuga peitust mängida,\n{01 00 00 0a 00}{04 02 00}?\n{07 14 00}Ma olen {01 00 00 05 00}peitmises päris hea,{01 00 00 05 00}\ntead! {01 00 00 05 00}Kõigi nende\npaparatsodega ja nii."
   },
   {
    "id": 2,
    "en": "Hey, {01 00 00 05 00}{04 1f 00}.{01 00 00 0a 00} {07 0b 00}Are you\nany good at hide-and-seek?\n\n{07 17 00}I don't mean to brag or\nanything but{01 00 00 05 00} I'm the\nreigning champ at it.\n{07 00 00}What do you think?{01 00 00 14 00}\n{07 0b 00}You think you're up for it,\n{01 00 00 0a 00}{04 02 00}?!",
-   "et": ""
+   "et": "Hei, {01 00 00 05 00}{04 1f 00}.{01 00 00 0a 00} {07 0b 00}Kas sa oled\npeituses üldse hea?\n\n{07 17 00}Ma ei taha kiidelda ega\nmidagi, aga{01 00 00 05 00} mina olen selle\nvalitsev meister.\n{07 00 00}Mida sa arvad?{01 00 00 14 00}\n{07 0b 00}Kas sa arvad, et sa suudad,\n{01 00 00 0a 00}{04 02 00}?!"
   }
  ]
 }

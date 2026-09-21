@@ -4,17 +4,17 @@
   {
    "id": 0,
    "en": "{07 14 00}You did really well,\n{04 1f 00}. Thanks for\neverything, {01 00 00 05 00}{04 02 00}.",
-   "et": ""
+   "et": "{07 14 00}Sa said väga hästi hakkama,\n{04 1f 00}. Aitäh\nkõige eest, {01 00 00 05 00}{04 02 00}."
   },
   {
    "id": 1,
    "en": "{07 16 00}Next time will be different!{01 00 00 05 00}\nYou'll see, {04 1f 00}!{01 00 00 05 00}\nYou'll see!",
-   "et": ""
+   "et": "{07 16 00}Järgmine kord on teisiti!{01 00 00 05 00}\nKüll sa näed, {04 1f 00}!{01 00 00 05 00}\nKüll sa näed!"
   },
   {
    "id": 2,
    "en": "{07 16 00}Next time, I'll have to\nsteal your {ff 00 00 07}fishing rod\n{ff 00 00 00}before we start!",
-   "et": ""
+   "et": "{07 16 00}Järgmine kord pean ma su\n{ff 00 00 07}õnge\n{ff 00 00 00}enne algust varastama!"
   }
  ]
 }

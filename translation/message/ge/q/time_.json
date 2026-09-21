@@ -4,17 +4,17 @@
   {
    "id": 0,
    "en": "{07 06 00}I'm in a HUGE hurry,{01 00 00 05 00} so\ncouldja do it within {ff 00 00 02}10\nminutes{ff 00 00 00}?{01 00 00 0a 00} PLEEEEASE!",
-   "et": ""
+   "et": "{07 06 00}Mul on SUUR kiire,{01 00 00 05 00} nii et\nkas sa saaksid selle teha {ff 00 00 02}10\nminutiga{ff 00 00 00}?{01 00 00 0a 00} PAAALUN!"
   },
   {
    "id": 1,
    "en": "{07 00 00}I'd LOVE it if you could\ntake care of it within {ff 00 00 02}30\nminutes{ff 00 00 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{01 00 00 05 00}{04 02 00}.",
-   "et": ""
+   "et": "{07 00 00}Ma ARMASTAKSIN, kui sa\nsaaksid sellega hakkama {ff 00 00 02}30\nminutiga{ff 00 00 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{01 00 00 05 00}{04 02 00}."
   },
   {
    "id": 2,
    "en": "{07 00 00}I have some leeway,{01 00 00 05 00} so if\nyou can do it within {ff 00 00 02}1 hour{ff 00 00 00},\nit's all good, {01 00 00 05 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 00 00}Mul on veidi aega,{01 00 00 05 00} nii et kui\nsa teed selle {ff 00 00 02}1 tunniga{ff 00 00 00},\non kõik hästi, {01 00 00 05 00}{04 02 00}!"
   }
  ]
 }

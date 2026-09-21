@@ -4,27 +4,27 @@
   {
    "id": 0,
    "en": "{07 04 00}Hey, hey, chill, will ya?!{01 01 00}\n{07 16 00}I just moved here and I'm{01 00 00 05 00}\nstill pulling it together!\n{07 06 00}Gimme 'til tomorrow, \nwouldja, {01 00 00 05 00}{04 02 00}?",
-   "et": ""
+   "et": "{07 04 00}Hei, hei, rahu, eks?!{01 01 00}\n{07 16 00}Ma just kolisin siia ja{01 00 00 05 00}\nma alles sean end sisse!\n{07 06 00}Anna mulle homseni aega, \neks, {01 00 00 05 00}{04 02 00}?"
   },
   {
    "id": 1,
    "en": "Hey, you!{01 00 00 05 00} {07 0b 00}You gonna help me\nmove in, {01 00 00 05 00}{04 02 00}?",
-   "et": ""
+   "et": "Hei, sina!{01 00 00 05 00} {07 0b 00}Kas sa aitad mul\nsisse kolida, {01 00 00 05 00}{04 02 00}?"
   },
   {
    "id": 2,
    "en": "{07 16 00}Hold up a sec, chatty!{01 00 00 0a 00}\nI'm not done gettin' settled\nin yet, {01 00 00 05 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 16 00}Oota korra, lobiseja!{01 00 00 0a 00}\nMa pole veel sisse\nseadnud, {01 00 00 05 00}{04 02 00}!"
   },
   {
    "id": 3,
    "en": "{07 0b 00}What in the... {01 00 00 05 00}Where the\nheck, {01 00 00 05 00}{04 02 00}?\n\n{07 00 00}Did you see where I might\nhave put my jock strap?{01 00 00 05 00}\n{07 0b 00}I know I put it right there!",
-   "et": ""
+   "et": "{07 0b 00}Mis kur... {01 00 00 05 00}Kus pagan,\n{01 00 00 05 00}{04 02 00}?\n\n{07 00 00}Kas sa nägid, kuhu ma\nvõisin suspensoori panna?{01 00 00 05 00}\n{07 0b 00}Ma panin selle just sinna!"
   },
   {
    "id": 4,
    "en": "Look, I'm stoked you came\nto visit, but...\n\n{07 15 00}You can't come in yet!{01 00 00 05 00}\nYou hear me?! {01 00 00 05 00}YAAAAAARGH!{01 00 00 05 00}\nNot yet, {01 00 00 05 00}{04 02 00}!",
-   "et": ""
+   "et": "Kuule, mul on hea meel, et\nsa külla tulid, aga...\n\n{07 15 00}Sa ei saa veel sisse!{01 00 00 05 00}\nKuuled mind?! {01 00 00 05 00}JAAAAAARGH!{01 00 00 05 00}\nVeel mitte, {01 00 00 05 00}{04 02 00}!"
   }
  ]
 }

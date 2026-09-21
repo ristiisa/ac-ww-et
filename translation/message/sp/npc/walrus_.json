@@ -4,82 +4,82 @@
   {
    "id": 0,
    "en": "{07 16 00}Suh-{01 00 00 05 00}so hungry.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00}\nMust eat something.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n\n{07 1c 00}Belly.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} So empty.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\nFeels like a black hole{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n\nIt {ff 00 00 02}screams{ff 00 00 00} for food{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\nFainting spell imminent.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n\n{07 00 00}Suh-{01 00 00 05 00}something!{01 00 00 05 00} ANYTHING!{01 00 00 05 00}\nPuh-{01 00 00 05 00}please, I need FOOD!{02 04 00 00 01}\nOkeydokey!\nGrow up.",
-   "et": ""
+   "et": "{07 16 00}Ni-{01 00 00 05 00}nii näljane.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00}\nPean midagi sööma{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n\n{07 1c 00}Kõht.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} Nii tühi.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\nNagu must auk{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n\nSee {ff 00 00 02}karjub{ff 00 00 00} toidu järele{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\nMinestus on lähedal{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n\n{07 00 00}Mi-{01 00 00 05 00}midagi!{01 00 00 05 00} ÜKSKÕIK MIDA!{01 00 00 05 00}\nPa-{01 00 00 05 00}palun, ma vajan TOITU!{02 04 00 00 01}\nOlgu pealegi!\nKasva suureks."
   },
   {
    "id": 1,
    "en": "{07 0f 00}Ugh{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} Eyes dimming{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\nVitality fading{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 14 00}\nHunger{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}so strong{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 04 00}What was that?{01 01 00}\nI swore I heard food.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\nMocking me.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}",
-   "et": ""
+   "et": "{07 0f 00}Uhh{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} Silmad tumenevad{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\nElujõud kaob{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 14 00}\nNälg{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}nii tugev{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 04 00}Mis see oli?{01 01 00}\nVandusin, et kuulsin toitu{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\nPilkamas mind{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}."
   },
   {
    "id": 2,
    "en": "{07 04 00}Whuh-{01 00 00 05 00}what's this?!{01 00 00 05 00} Why?!{01 00 00 14 00}\n{07 16 00}Nuh-{01 00 00 05 00}not edible!\n\n.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}But I'll take it!{01 00 00 05 00}\nOh, I'll take it!{01 00 00 0a 00}\nThank you!{01 00 00 05 00} Oh, thank you!",
-   "et": ""
+   "et": "{07 04 00}Mi-{01 00 00 05 00}mis see on?!{01 00 00 05 00} Miks?!{01 00 00 14 00}\n{07 16 00}Po-{01 00 00 05 00}pole söödav!\n\n.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}Aga ma võtan selle!{01 00 00 05 00}\nOh, ma võtan selle!{01 00 00 0a 00}\nAitäh!{01 00 00 05 00} Oh, aitäh!"
   },
   {
    "id": 3,
    "en": "{07 0a 00}I'm back from the brink!{01 00 00 0a 00}\nThuh-{01 00 00 05 00}thank you so much!{01 00 00 05 00}\nSweet, sweet food!\n{07 14 00}I.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}MUST EAT IT!{01 00 00 05 00}\nY{01 00 00 05 00}U{01 00 00 05 00}M{01 00 00 05 00}M{01 00 00 05 00}Y!",
-   "et": ""
+   "et": "{07 0a 00}Olen tagasi hauaservalt!{01 00 00 0a 00}\nSu-{01 00 00 05 00}suur aitäh sulle!{01 00 00 05 00}\nMagus, magus toit!\n{07 14 00}Ma{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}PEAN SEDA SÖÖMA!{01 00 00 05 00}\nN{01 00 00 05 00}Ä{01 00 00 05 00}M{01 00 00 05 00}M!"
   },
   {
    "id": 4,
    "en": "{07 14 00}Ahhhhhhhh!{01 00 00 05 00} Mmm{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.burp!{01 00 00 0a 00}\n{07 0a 00}So very delicious!{01 00 00 0a 00}\nSo very full and happy!\nThuh-{01 00 00 05 00}thanks for your help!{01 00 00 05 00}\nPlease, please take this!{01 00 00 05 00}\nIt's my favorite piece!\n{07 00 00}Buh-{01 00 00 05 00}but{01 00 00 05 00} you'll have to toss\nout one that you have now.{01 00 00 05 00}\n{07 0b 00}Duh-{01 00 00 05 00}do you still want it?{02 00 00 0e 0d}\nOh, yeah!\nNo, thanks.",
-   "et": ""
+   "et": "{07 14 00}Ahhhhhh!{01 00 00 05 00} Mmm{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.röhh!{01 00 00 0a 00}\n{07 0a 00}Nii väga maitsev!{01 00 00 0a 00}\nNii täis ja õnnelik!\nAi-{01 00 00 05 00}aitäh abi eest!{01 00 00 05 00}\nPalun, palun võta see!{01 00 00 05 00}\nSee on mu lemmiktükk!\n{07 00 00}Ag-{01 00 00 05 00}aga{01 00 00 05 00} sa pead ühe\nära viskama, mis sul on.{01 00 00 05 00}\n{07 0b 00}Ka-{01 00 00 05 00}kas sa tahad seda ikka?{02 00 00 0e 0d}\nOh jaa!\nEi, aitäh."
   },
   {
    "id": 5,
    "en": "{07 14 00}Oh, so very happy!\nSuh-{01 00 00 05 00}soo very gratified!\n{0b 03 00}{04 1b 00}!\n{07 0a 00}Ahhhhhhhhhhhhhhhhh!{01 00 00 14 00}\nSo full of happiness!{01 00 00 0a 00}\nSuh-{01 00 00 05 00}so round in the belly!",
-   "et": ""
+   "et": "{07 14 00}Oh, nii väga õnnelik!\nNi-{01 00 00 05 00}nii väga tänulik!\n{0b 03 00}{04 1b 00}!\n{07 0a 00}Ahhhhhhhhhhhhhhhhh!{01 00 00 14 00}\nNii täis õnne!{01 00 00 0a 00}\nNi-{01 00 00 05 00}nii ümar kõhust!"
   },
   {
    "id": 6,
    "en": "{07 00 00}Thuh-{01 00 00 05 00}thanks to you,{01 00 00 05 00}\nmuh-{01 00 00 05 00}my belly is now \no-{01 00 00 05 00}officially {01 00 00 05 00}full!\nNuh-{01 00 00 05 00}next time, could you\nbring{01 00 00 05 00} something different?\nMuh-{01 00 00 05 00}maybe?\nIf you do, {01 00 00 05 00}I'll give you a\nduh-{01 00 00 05 00}different picture!{01 00 00 05 00}\n{07 14 00}Thuh-{01 00 00 05 00}thanks again!",
-   "et": ""
+   "et": "{07 00 00}Ai-{01 00 00 05 00}aitäh sinule,{01 00 00 05 00}\nmu-{01 00 00 05 00}mu kõht on nüüd \no-{01 00 00 05 00}ametlikult {01 00 00 05 00}täis!\nJä-{01 00 00 05 00}järgmine kord, kas sa\ntooksid{01 00 00 05 00} midagi muud?\nVõ-{01 00 00 05 00}võib-olla?\nKui tood, {01 00 00 05 00}annan sulle\nte-{01 00 00 05 00}teise pildi!{01 00 00 05 00}\n{07 14 00}Ai-{01 00 00 05 00}aitäh veel kord!"
   },
   {
    "id": 7,
    "en": "{07 00 00}Huh-{01 00 00 05 00}hey, {01 00 00 05 00}thanks for the\nfood earlier!\n\n{07 0a 00}So full of happiness!{01 00 00 0a 00}\nSo plump in the belly!",
-   "et": ""
+   "et": "{07 00 00}He-{01 00 00 05 00}hei, {01 00 00 05 00}aitäh toidu\neest varem!\n\n{07 0a 00}Nii täis õnne!{01 00 00 0a 00}\nNii tüse kõhust!"
   },
   {
    "id": 8,
    "en": "Juh-{01 00 00 05 00}just once,{01 00 00 05 00} I'd like to\neat a bellyful of the\ndelicacy {01 00 00 05 00}called {ff 00 00 07}red turnips{ff 00 00 00}.\n{07 12 00}Snrrrrrrf.{01 00 00 05 00}.{01 00 00 05 00}.\n\n\n{07 16 00}Ahhh! {01 00 00 05 00}Sorta nodded off.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\nSuh-{01 00 00 05 00}something's making my \nheart go {ff 00 00 02}pitter-patter {ff 00 00 00}now!",
-   "et": ""
+   "et": "A-{01 00 00 05 00}ainult korra,{01 00 00 05 00} tahaksin\nsüüa kõhutäie hõrgutist\n{01 00 00 05 00}nimega {ff 00 00 07}punased naerid{ff 00 00 00}.\n{07 12 00}Snrrrrrf.{01 00 00 05 00}.{01 00 00 05 00}\n\n\n{07 16 00}Ahhh! {01 00 00 05 00}Jäin veidi tukkuma{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\nMi-{01 00 00 05 00}miski paneb mu \nsüdame {ff 00 00 02}põksuma {ff 00 00 00}nüüd!"
   },
   {
    "id": 9,
    "en": "{07 02 00}AHHHHHHHH!{01 00 00 0a 00}\nIt{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} It really WAS a\ndelicacy! {01 00 00 05 00}So happy!\n{07 14 00}I ate and I ate,{01 00 00 05 00} and now\nI'm filled to the buh-brim!\n\nTuh-{01 00 00 05 00}to show you how much I\nappreciated that,{01 00 00 05 00} have\n{04 1a 00}!",
-   "et": ""
+   "et": "{07 02 00}AHHHHHHHH!{01 00 00 0a 00}\nSee{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} See oligi\nhõrgutis! {01 00 00 05 00}Nii õnnelik!\n{07 14 00}Sõin ja sõin,{01 00 00 05 00} ja nüüd\nolen ää-ääreni täis!\n\nSe-{01 00 00 05 00}selleks, et näidata, kui\nväga ma seda hindasin,{01 00 00 05 00} võta\n{04 1a 00}!"
   },
   {
    "id": 10,
    "en": "{07 00 00}Thuh-{01 00 00 05 00}this is something that\nI  picked up on my way to\nthis town, buh-but{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 0e 00}I thuh-{01 00 00 05 00}think there's a name\nor something written on it!{01 00 00 05 00}\n\nIt's kind of fuh-faded so I\ncan't really tuh-tell.\n\n{07 00 00}Well, {01 00 00 05 00}you can either take it\nto the puh-person who lost\nit or muh-maybe{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n...keep it for yourself{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 01 00}\n{07 0a 00}Do what you wuh-{01 00 00 05 00}want!",
-   "et": ""
+   "et": "{07 00 00}Se-{01 00 00 05 00}see on midagi, mille\nma korjasin teel siia\nlinna, ag-aga{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 0e 00}Ma ar-{01 00 00 05 00}arvan, et sellele on\nkirjutatud nimi või midagi!{01 00 00 05 00}\n\nSee on veidi lu-luitunud, nii\net ma ei saa a-aru.\n\n{07 00 00}Noh, {01 00 00 05 00}sa võid selle viia\nini-inimesele, kes selle\nkaotas, või äk-äkki{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n...jätta endale{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 01 00}\n{07 0a 00}Tee, mida ta-{01 00 00 05 00}tahad!"
   },
   {
    "id": 11,
    "en": "{07 04 00}Whuh-{01 00 00 05 00}what's this?!{01 00 00 14 00}\n{07 16 00}Nuh-{01 00 00 05 00}not edible!\n\n.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}Besides, I can't take\nthis.{01 00 00 05 00} Yuh-you'd be lost\nwithout it!{01 00 00 05 00}\nI can't accept it, so\npuh-please,{01 00 00 05 00} take it back.",
-   "et": ""
+   "et": "{07 04 00}Mi-{01 00 00 05 00}mis see on?!{01 00 00 14 00}\n{07 16 00}Po-{01 00 00 05 00}pole söödav!\n\n.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}Pealegi ei saa ma\nseda võtta.{01 00 00 05 00} Sa-sa oleksid\nselleta kadunud!{01 00 00 05 00}\nMa ei saa seda vastu võtta,\nnii et palun,{01 00 00 05 00} võta tagasi."
   },
   {
    "id": 12,
    "en": "{07 1c 00}Still.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}so.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}famished!{01 00 00 05 00}\nWorld{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.spinning.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\nLosing{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.pounds{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\nBuh-{01 00 00 05 00}belly{01 00 00 05 00} {ff 00 00 02}screaming{ff 00 00 00} louder{01 00 00 05 00}\nthan ever.{01 00 00 05 00}.{01 00 00 05 00}.",
-   "et": ""
+   "et": "{07 1c 00}Ikka.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}nii.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}näljane!{01 00 00 05 00}\nMaailm{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.keerleb.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\nKaotan{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.kilosid{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\nKõ-{01 00 00 05 00}kõht{01 00 00 05 00} {ff 00 00 02}karjub{ff 00 00 00} valjemini{01 00 00 05 00}\nkui iial.{01 00 00 05 00}.{01 00 00 05 00}."
   },
   {
    "id": 13,
    "en": "{07 04 00}I-{01 00 00 05 00}is that so?\n\n\n{07 14 00}Wuh-well, {01 00 00 05 00}that's fine too.",
-   "et": ""
+   "et": "{07 04 00}K-{01 00 00 05 00}kas tõesti?\n\n\n{07 14 00}No-noh, {01 00 00 05 00}see on ka hea."
   },
   {
    "id": 14,
    "en": "{07 14 00}Wuh-{01 00 00 05 00}well,{01 00 00 05 00} please decide\nwhere to put it, thuh-then.",
-   "et": ""
+   "et": "{07 14 00}No-{01 00 00 05 00}noh,{01 00 00 05 00} palun otsusta\nsiis, kuhu see panna."
   },
   {
    "id": 15,
    "en": "{07 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.",
-   "et": ""
+   "et": "{07 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}."
   }
  ]
 }

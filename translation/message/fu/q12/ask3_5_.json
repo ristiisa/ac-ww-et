@@ -4,32 +4,32 @@
   {
    "id": 0,
    "en": "{07 07 00}My forehead's hot enough\nto fry an egg{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}so why do I\nfeel so cold?",
-   "et": ""
+   "et": "{07 07 00}Mu laup on nii kuum, et\nsellel praeks muna{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\nmiks siis mul nii külm on?"
   },
   {
    "id": 1,
    "en": "{07 07 00}It hurts to move. {01 00 00 05 00}I don't\neven know why I'm still up.\nI should be in bed{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.",
-   "et": ""
+   "et": "{07 07 00}Liigutamine teeb haiget. {01 00 00 05 00}Ma\nei teagi, miks ma veel püsti\nolen. Peaksin voodis{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}."
   },
   {
    "id": 2,
    "en": "{07 07 00}S-s-s-so c-c-cold{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\nC-c-can't s-s-stop\nsh-shaking.{01 00 00 05 00}.{01 00 00 05 00}.",
-   "et": ""
+   "et": "{07 07 00}N-n-n-nii k-k-külm{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\nE-e-ei saa v-v-värisemist\nl-lõpetada.{01 00 00 05 00}.{01 00 00 05 00}."
   },
   {
    "id": 3,
    "en": "{07 14 00}I just wrote this letter to\nmy best friend:{01 00 00 14 00} \"Dear\nMoppina,{01 00 00 0a 00} I feel lots better!\n\"{ff 00 00 05}{0b 03 00}{04 0f 00}{ff 00 00 00} gave me some\n{ff 00 00 07}medicine{ff 00 00 00}. I'm starting to\nfeel like my old self again.\"",
-   "et": ""
+   "et": "{07 14 00}Ma kirjutasin just selle\nkirja sõbrale:{01 00 00 14 00} „Kallis\nMoppina,{01 00 00 0a 00} mul on parem!\n„{ff 00 00 05}{0b 03 00}{04 0f 00}{ff 00 00 00} andis mulle\n{ff 00 00 07}rohtu{ff 00 00 00}. Ma hakkan end jälle\nvanamoodi tundma.”"
   },
   {
    "id": 4,
    "en": "{07 00 00}The {ff 00 00 07}medicine {ff 00 00 00}really did the\ntrick. {01 00 00 14 00}{07 14 00}I hereby pronounce\n{ff 00 00 05}{04 0f 00} {ff 00 00 00}to be my hero!",
-   "et": ""
+   "et": "{07 00 00}{ff 00 00 07}Rohi {ff 00 00 00}mõjus tõesti\nhästi. {01 00 00 14 00}{07 14 00}Ma kuulutan\n{ff 00 00 05}{04 0f 00} {ff 00 00 00}oma kangelaseks!"
   },
   {
    "id": 5,
    "en": "{07 14 00}I would like to take this\nopportunity to thank those\nthat helped me get here:\n{07 0a 00}Sweet, sweet {ff 00 00 07}medicine{ff 00 00 00}, and,{01 00 00 05 00}\nof course,{01 00 00 05 00} my hero,{01 00 00 05 00}\n{ff 00 00 05}{04 0f 00}{ff 00 00 00}!",
-   "et": ""
+   "et": "{07 14 00}Ma tahaksin seda võimalust\nkasutada, et tänada neid,\nkes aitasid mul siia jõuda:\n{07 0a 00}Magus, magus {ff 00 00 07}rohi{ff 00 00 00} ja,{01 00 00 05 00}\nmuidugi,{01 00 00 05 00} minu kangelane,{01 00 00 05 00}\n{ff 00 00 05}{04 0f 00}{ff 00 00 00}!"
   }
  ]
 }

@@ -4,27 +4,27 @@
   {
    "id": 0,
    "en": "{07 05 00}Like, what are you doing?!{01 00 00 14 00}\nAre you crazy, {01 00 00 05 00}{04 02 00}?\nThat hurts!{01 00 00 0a 00} ...So STOP IT!",
-   "et": ""
+   "et": "{07 05 00}Nagu, mida sa teed?!{01 00 00 14 00}\nKas sa oled hull, {01 00 00 05 00}{04 02 00}?\nSee teeb haiget!{01 00 00 0a 00} LÕPETA!"
   },
   {
    "id": 1,
    "en": "{07 15 00}OUCH! {01 00 00 14 00}{07 08 00}Are you TRYING to\ndestroy my beautiful face,{01 00 00 05 00}\n{04 02 00}?!{01 00 00 14 00} QUIT IT!!",
-   "et": ""
+   "et": "{07 15 00}AUH! {01 00 00 14 00}{07 08 00}Kas sa ÜRITAD mu\nilusat nägu hävitada,{01 00 00 05 00}\n{04 02 00}?!{01 00 00 14 00} LÕPETA!!"
   },
   {
    "id": 2,
    "en": "{07 15 00}GYYYAAAAAAHHHH!!!{01 01 00} {07 05 00}You hit a\nGIRL!{01 00 00 05 00} What in the heck is\nyour PROBLEM, jerkface?!",
-   "et": ""
+   "et": "{07 15 00}JÜÜÜAAAAHH!!!{01 01 00} {07 05 00}Sa lõid\nTÜDRUKUT!{01 00 00 05 00} Mis sul viga\non, tolvan?!"
   },
   {
    "id": 3,
    "en": "{07 15 00}{01 0a 00}YOU BIG HUGE JERKFACE!{01 00 00 14 00}\nSTOP HITTING ME WITH THAT\nBIG HUGE STUPID NET!!",
-   "et": ""
+   "et": "{07 15 00}{01 0a 00}SA SUUR TOLVAN!{01 00 00 14 00}\nLÕPETA MU LÖÖMINE SELLE\nSUURE RUMALA VÕRGUGA!!"
   },
   {
    "id": 4,
    "en": "{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{07 05 00}That's it!{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}. THAT'S IT!{01 01 00}\nYOU'RE GONNA PAY FOR THAT!{01 00 00 14 00}\nI AM SO TOTALLY MAD!{03 02 00 00}",
-   "et": ""
+   "et": ".{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 05 00}Aitab!{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}. AITAB!{01 01 00}\nSA MAKSAD SELLE EEST!{01 00 00 14 00}\nMA OLEN NII VIHANE!{03 02 00 00}"
   }
  ]
 }

@@ -4,17 +4,17 @@
   {
    "id": 0,
    "en": "{07 0d 00}YESSSS!{01 00 00 05 00} Good answer!{01 01 00}\nJust don't DARE open it on\nthe way, {01 00 00 05 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 0d 00}JAAAA!{01 00 00 05 00} Hea vastus!{01 01 00}\nÄra ainult JULGE seda teel\navada, {01 00 00 05 00}{04 02 00}!"
   },
   {
    "id": 1,
    "en": "{07 14 00}OK, {01 00 00 05 00}I'm counting on you!{01 01 00}\n{07 15 00}Oh, and try reading it on\nthe way, and I'll GET you!",
-   "et": ""
+   "et": "{07 14 00}Olgu, {01 00 00 05 00}loodan sinu peale!{01 01 00}\n{07 15 00}Ah jaa, proovi seda teel\nlugeda ja ma SAAN su kätte!"
   },
   {
    "id": 2,
    "en": "{07 14 00}Oh, {01 00 00 05 00}awesome, thanks!{01 01 00}\n{07 15 00}Hey, but you better not\nopen it!\n{07 06 00}Even for a bud like you,\nthat counts as a flagrant\nfoul, {01 00 00 05 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 14 00}Oh, {01 00 00 05 00}vinge, aitäh!{01 01 00}\n{07 15 00}Hei, aga ära seda parem\nava!\n{07 06 00}Isegi sinusuguse semu puhul\nläheb see jämeda\nvea alla, {01 00 00 05 00}{04 02 00}!"
   }
  ]
 }

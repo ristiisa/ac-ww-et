@@ -4,17 +4,17 @@
   {
    "id": 0,
    "en": "{07 00 00}I'm trying to track down\n{04 1a 00},\n{01 00 00 05 00}{04 02 00}.\n{07 16 00}But I'm having a pretty\nhard time finding it... Who\nwould have thought?\n{07 14 00}Please help me find one,\n{04 1f 00}! I'm out of\nplaces to look!",
-   "et": ""
+   "et": "{07 00 00}Ma üritan üles leida\n{04 1a 00},\n{01 00 00 05 00}{04 02 00}.\n{07 16 00}Aga mul on päris raske seda\nleida... Kes oleks\nseda arvanud?\n{07 14 00}Palun aita mul üks leida,\n{04 1f 00}! Mul pole enam\nkohti, kust otsida!"
   },
   {
    "id": 1,
    "en": "{07 16 00}Um{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}say, I hope this\ndoesn't seem too brash or\nanything, but...um...\n{07 06 00}Look, I'm desperate to find\n{04 1a 00}!\nYou have to help me!!\n{07 04 00}Oh{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00} No{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 0a 00} {07 16 00}I'm not trying\nto make you feel bad{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\nI just needed{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n{07 0f 00}I was just hoping someone\nwould listen to me,\n{01 00 00 05 00}{04 02 00}.",
-   "et": ""
+   "et": "{07 16 00}Ee{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}kuule, loodan, et see\nei tundu liiga jultunud\nvõi nii, aga...ee...\n{07 06 00}Vaata, ma vajan hädasti\n{04 1a 00}!\nSa pead mind aitama!!\n{07 04 00}Oh{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00} Ei{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 0a 00} {07 16 00}Ma ei taha, et\nsul oleks paha tunne{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\nMa lihtsalt vajasin{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n{07 0f 00}Ma lootsin lihtsalt, et keegi\nmind kuulaks,\n{01 00 00 05 00}{04 02 00}."
   },
   {
    "id": 2,
    "en": "{07 00 00}{07 0b 00}Hey, do you think that \n{04 1a 00}\nwould look good on me?\n{07 16 00}Or is that a bad idea?{01 00 00 14 00} Man,\nI wish I could try it on and\ncheck it out myself{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n{07 00 00}{0b 03 00}{04 1f 00},{01 00 00 05 00} if you find\n{04 1a 00},\n{07 06 00}please tell me, {01 00 00 05 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 00 00}{07 0b 00}Kuule, kas sinu arust \n{04 1a 00}\nsobiks mulle hästi?\n{07 16 00}Või on see halb mõte?{01 00 00 14 00} Oi,\nsoovin, et saaksin proovida\nja ise järele vaadata{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n{07 00 00}{0b 03 00}{04 1f 00},{01 00 00 05 00} kui sa leiad\n{04 1a 00},\n{07 06 00}palun ütle mulle, {01 00 00 05 00}{04 02 00}!"
   }
  ]
 }

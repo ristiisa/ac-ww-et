@@ -4,107 +4,107 @@
   {
    "id": 0,
    "en": "{07 00 00}Yo, {01 00 00 05 00}{04 1f 00}!{01 00 00 0a 00} Did you\nknow the {ff 00 00 03}Acorn Festival\n{ff 00 00 00}starts TODAY?\n{07 16 00}Man, I didn't know these\nwere acorn trees! {01 00 00 05 00}I don't\neven know what an acorn is!\n{07 05 00}I bet everyone got together\nand decided to play a sick\njoke on me, {01 00 00 05 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 00 00}Jou, {01 00 00 05 00}{04 1f 00}!{01 00 00 0a 00} Kas sa\nteadsid, et {ff 00 00 03}tõrupidu\n{ff 00 00 00}algab TÄNA?\n{07 16 00}Mees, ma ei teadnud, et\nneed on tammed! {01 00 00 05 00}Ma ei tea\nisegi, mis on tõru!\n{07 05 00}Vean kihla, et kõik said\nkokku ja otsustasid mulle\nhaiget nalja teha, {01 00 00 05 00}{04 02 00}!"
   },
   {
    "id": 1,
    "en": "{07 04 00}Man, {01 00 00 0a 00}the {ff 00 00 03}Acorn Festival\n{ff 00 00 00}starts today, right?\n\n{07 0d 00}I've been beefing up my\ncalves just so I can jump\nup high and pick acorns!\n{07 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 04 00}Whoa, whoa, whoa!{01 00 00 0a 00}\n{07 0b 00}Are you telling me acorns\nare just on the ground?\n{07 06 00}Why didn't you say\nsomething,{01 00 00 0a 00} {ff 00 00 05}{04 1f 00}{ff 00 00 00}!\n{ff 00 00 05}\n{ff 00 00 00}Aw, well. At least I have\nmagnificently chunky\ncalves now!",
-   "et": ""
+   "et": "{07 04 00}Mees, {01 00 00 0a 00}{ff 00 00 03}tõrupidu\n{ff 00 00 00}algab täna, eks?\n\n{07 0d 00}Ma olen oma säärelihaseid\nkasvatanud, et hüpata\nkõrgele ja tõrusid korjata!\n{07 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 04 00}Ohoo, ohoo, ohoo!{01 00 00 0a 00}\n{07 0b 00}Kas sa tahad öelda, et\ntõrud on lihtsalt maas?\n{07 06 00}Miks sa midagi ei\nöelnud,{01 00 00 0a 00} {ff 00 00 05}{04 1f 00}{ff 00 00 00}!\n{ff 00 00 05}\n{ff 00 00 00}Noh. Vähemalt on\nmul nüüd suurepäraselt\njämedad sääred!"
   },
   {
    "id": 2,
    "en": "{07 14 00}Did you get a huge load of\nacorns, {01 00 00 0a 00}{ff 00 00 05}{04 1f 00}{ff 00 00 00}?\n\n{07 00 00}I'm working out at the\nsame time, so I haven't\ngotten many, {01 00 00 05 00}{04 02 00}.\nI'm trying to pinch 'em\nbetween my shoulder blades\nwhile I do sit-ups!",
-   "et": ""
+   "et": "{07 14 00}Kas sa said hiigelkoguse\ntõrusid, {01 00 00 0a 00}{ff 00 00 05}{04 1f 00}{ff 00 00 00}?\n\n{07 00 00}Mina teen samal ajal trenni,\nnii et ma pole palju\nsaanud, {01 00 00 05 00}{04 02 00}.\nMa üritan neid abaluude\nvahel pigistada, kui teen\nkõhulihaseid!"
   },
   {
    "id": 3,
    "en": "{07 14 00}{0b 03 00}{04 1f 00}!{01 00 00 0a 00} How's the big\nacorn hunt going?\n\n{07 15 00}Sometimes you gotta go\nfor quantity over quality, \n{01 00 00 05 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 14 00}{0b 03 00}{04 1f 00}!{01 00 00 0a 00} Kuidas suur\ntõrujaht läheb?\n\n{07 15 00}Vahel tuleb minna\nkvantiteedi peale, \n{01 00 00 05 00}{04 02 00}!"
   },
   {
    "id": 4,
    "en": "{07 16 00}Yo, {01 00 00 05 00}{04 1f 00}!{01 00 00 0a 00} I wanna\nsee you more FIRED UP!\n\n{07 06 00}Otherwise, {04 0d 00}'ll\nchomp 'em all before you\ncan nab 'em, {01 00 00 05 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 16 00}Jou, {01 00 00 05 00}{04 1f 00}!{01 00 00 0a 00} Ma tahan\nsind rohkem HOOS näha!\n\n{07 06 00}Muidu õgib {04 0d 00}\nnad kõik ära, enne kui sa\nnabid, {01 00 00 05 00}{04 02 00}!"
   },
   {
    "id": 5,
    "en": "{07 1d 00}The {ff 00 00 03}Acorn Festival {ff 00 00 00}is over\ntoday, {01 00 00 05 00}{04 02 00}?!\n\n{07 15 00}WEAK!{01 00 00 0a 00} Can't someone\ntell me ahead of time?!\n\n{07 06 00}And why can't they work\naround my training\nschedule?!",
-   "et": ""
+   "et": "{07 1d 00}{ff 00 00 03}Tõrupidu {ff 00 00 00}saab täna\nläbi, {01 00 00 05 00}{04 02 00}?!\n\n{07 15 00}NÕME!{01 00 00 0a 00} Kas keegi ei saa\nmulle ette teatada?!\n\n{07 06 00}Ja miks nad ei saa minu\ntreeningugraafikuga\narvestada?!"
   },
   {
    "id": 6,
    "en": "{07 14 00}Today is the last day of\nthe {ff 00 00 03}Acorn Festival{ff 00 00 00},\n{01 00 00 05 00}{04 02 00}!\n{07 11 00}{0b 03 00}{04 1f 00}, you and I\nshould complete a one-two\nfinish of this season!",
-   "et": ""
+   "et": "{07 14 00}Täna on {ff 00 00 03}tõrupeo{ff 00 00 00}\nviimane päev,\n{01 00 00 05 00}{04 02 00}!\n{07 11 00}{0b 03 00}{04 1f 00}, sina ja mina\npeaksime tegema selle\nhooaja kaksikvõidu!"
   },
   {
    "id": 7,
    "en": "{07 14 00}Whassup, {01 00 00 05 00}{04 1f 00}?!\n{0b 03 00}{01 00 00 05 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 14 00}Mis toimub, {01 00 00 05 00}{04 1f 00}?!\n{0b 03 00}{01 00 00 05 00}{04 02 00}!"
   },
   {
    "id": 8,
    "en": "{07 16 00}Picking acorns makes my\nshirt all dirty! That and\nthe sweat stains!",
-   "et": ""
+   "et": "{07 16 00}Tõrude korjamine teeb mu\nsärgi mustaks! See ja\nhigiplekid!"
   },
   {
    "id": 9,
    "en": "{07 14 00}Yo, {ff 00 00 05}{04 1f 00}{ff 00 00 00}!{01 00 00 0a 00} Y'know,\ncollecting acorns can be\npretty rad, right?",
-   "et": ""
+   "et": "{07 14 00}Jou, {ff 00 00 05}{04 1f 00}{ff 00 00 00}!{01 00 00 0a 00} Tead,\ntõrude kogumine võib\npäris vinge olla, eks?"
   },
   {
    "id": 10,
    "en": "{07 16 00}{07 16 00}Hey, is it just me, or {01 00 00 05 00}are\nyou{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}uh{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}starting to smell\nlike an acorn?\n{07 00 00}You know,{01 00 00 05 00}{07 0a 00} that smell isn't\nthat bad. {01 00 00 0f 00}It beats sweaty\nsweatpants, {01 00 00 05 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 16 00}{07 16 00}Hei, kas ainult mulle\nvõi {01 00 00 05 00}sa{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}öö{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}haised\nnagu tõru?\n{07 00 00}Tead,{01 00 00 05 00}{07 0a 00} see lõhn pole\nnii halb. {01 00 00 0f 00}See lööb higiseid\ndresse, {01 00 00 05 00}{04 02 00}!"
   },
   {
    "id": 11,
    "en": "{07 16 00}I don't know beans about\nacorns, so don't ask me\nabout 'em, {01 00 00 05 00}{04 02 00}!\n{07 0d 00}But if you want to know\nabout busting flab, I could\ngive your ears a workout!",
-   "et": ""
+   "et": "{07 16 00}Ma ei tea tõrudest tuhkagi,\nnii et ära küsi minult\nnende kohta, {01 00 00 05 00}{04 02 00}!\n{07 0d 00}Aga kui tahad teada rasva\npõletamisest, siis annaksin\nsu kõrvadele trenni!"
   },
   {
    "id": 12,
    "en": "{07 0b 00}So, {04 1f 00}, whatcha\ngonna do with that huge\nload of acorns you nabbed?\n{07 14 00}If I were you, I'd make\na wrestling pit out of\nthem, {01 00 00 05 00}{04 02 00}!\n{07 13 00}Ohh, {01 00 00 05 00}I'd LOVE to suplex\npeople into a pile of those\nbabies!",
-   "et": ""
+   "et": "{07 0b 00}Nii et, {04 1f 00}, mida sa\nkavatsed teha selle\nhunniku tõrudega?\n{07 14 00}Sinu asemel teeksin ma\nneist maadlusaugu,\n{01 00 00 05 00}{04 02 00}!\n{07 13 00}Ohh, {01 00 00 05 00}ma ARMASTAKSIN inimesi\nsellesse hunnikusse\nvisata!"
   },
   {
    "id": 13,
    "en": "{07 04 00}Look at that magnificent,\nshining, rock-hard body!\n\n{07 0d 00}You have my favorite kind\nof acorn! {07 14 00}You have GOT to\nhook me up, {01 00 00 05 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 04 00}Vaata seda suurepärast,\nläikivat, kõva keha!\n\n{07 0d 00}Sul on mu lemmiktõru!\n{07 14 00}Sa PEAD mind aitama,\n{01 00 00 05 00}{04 02 00}!"
   },
   {
    "id": 14,
    "en": "{07 1d 00}WHOA!{01 00 00 14 00}{07 00 00} Those are some\nsweet acorns you've got\nthere, {01 00 00 05 00}{04 02 00}!\nIf you're REALLY my buddy,\nyou'll toss a couple of\nthose my way!",
-   "et": ""
+   "et": "{07 1d 00}OHOO!{01 00 00 14 00}{07 00 00} Sul on seal päris\nmagusad tõrud,\n{01 00 00 05 00}{04 02 00}!\nKui sa oled TÕESTI mu semu,\nviskad sa mulle paar\nneist!"
   },
   {
    "id": 15,
    "en": "{07 06 00}That's just ICE COLD!\nEspecially after showing 'em\noff like that, {01 00 00 05 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 06 00}See on lihtsalt JÄINE!\nEriti pärast seda, kui sa\nneid nii näitasid, {01 00 00 05 00}{04 02 00}!"
   },
   {
    "id": 16,
    "en": "{07 02 00}No? {01 00 00 05 00}NO?!{01 01 00}\n{07 1c 00}I knew it was too good to\nbe true, {01 00 00 05 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 02 00}Ei? {01 00 00 05 00}EI?!{01 01 00}\n{07 1c 00}Ma teadsin, et see oli liiga\nhea, et tõsi olla, {01 00 00 05 00}{04 02 00}!"
   },
   {
    "id": 17,
    "en": "{07 14 00}Chalk up a right answer for\nthe big {ff 00 00 05}{04 1f 00}{ff 00 00 00}!",
-   "et": ""
+   "et": "{07 14 00}Õige vastus suurele\n{ff 00 00 05}{04 1f 00}{ff 00 00 00}ile!"
   },
   {
    "id": 18,
    "en": "{07 11 00}{0b 03 00}{04 1f 00}, you're finally\nlearning some respect!",
-   "et": ""
+   "et": "{07 11 00}{0b 03 00}{04 1f 00}, sa õpid lõpuks\nometi austust!"
   },
   {
    "id": 19,
    "en": "{07 14 00}Y'know, to be fair I\nhave to give you this\n{0b 02 00}{04 1a 00}!\n{07 15 00}It's junk, but you'll figure\nout something, {01 00 00 05 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 14 00}Tead, ausalt öeldes pean\nma sulle selle andma\n{0b 02 00}{04 1a 00}!\n{07 15 00}See on rämps, aga küll sa\nmidagi mõtled, {01 00 00 05 00}{04 02 00}!"
   },
   {
    "id": 20,
    "en": "{07 0d 00}OK, then, I'll give you this\n{0b 02 00}{04 1a 00} in\nexchange, {01 00 00 05 00}{04 02 00}!\n{07 14 00}No need to thank me, man!{01 00 00 0a 00}\nI was just about to toss \nthat thing as a shot put!",
-   "et": ""
+   "et": "{07 0d 00}Olgu siis, ma annan sulle\nselle {0b 02 00}{04 1a 00}\nvastutasuks, {01 00 00 05 00}{04 02 00}!\n{07 14 00}Pole vaja tänada, mees!{01 00 00 0a 00}\nMa kavatsesin selle asja \nkuulitõukena minema visata!"
   }
  ]
 }

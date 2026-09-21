@@ -4,17 +4,17 @@
   {
    "id": 0,
    "en": "{07 14 00}All right, let me explain\nthe rules to you! {01 00 00 05 00}{07 00 00}The time\nlimit is  {ff 00 00 02}5 minutes{ff 00 00 00}!\nIf you can find me within\n{ff 00 00 02}5 minutes{ff 00 00 00} then you win! {07 00 00}OK?\n{01 00 00 05 00}{07 0b 00}Simple, huh?\n{07 15 00}All right, {01 00 00 0a 00}here we go then,\n{01 00 00 0a 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 14 00}Hästi, las ma seletan\nsulle reeglid! {01 00 00 05 00}{07 00 00}Ajapiirang\non  {ff 00 00 02}5 minutit{ff 00 00 00}!\nKui sa leiad mu\n{ff 00 00 02}5 minutiga{ff 00 00 00}, võidad! {07 00 00}Eks?\n{01 00 00 05 00}{07 0b 00}Lihtne, mis?\n{07 15 00}Hästi, {01 00 00 0a 00}läksime siis,\n{01 00 00 0a 00}{04 02 00}!"
   },
   {
    "id": 1,
    "en": "{07 14 00}Hmm, I like it, {01 00 00 05 00}{04 02 00}!{01 00 00 0a 00}\n{07 00 00}I guess I should probably {01 00 00 0a 00}\nexplain the rules then, huh?\n{07 19 00}I'm going to hide somewhere\nin this town, so{01 00 00 05 00}{07 00 00} you have\n{ff 00 00 02}10 minutes{ff 00 00 00} to find me.\nIf{ff 00 00 02} 10 minutes{ff 00 00 00} come and go,{01 00 00 05 00}\nyou lose!{01 01 00} And I'll lord it\nover you forever! {07 0b 00}Got it?\n{07 14 00}OK then! Let the game{01 00 00 0a 00}\nBEGIN! {01 00 00 0a 00}{0b 03 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 14 00}Hmm, mulle\nmeeldib,{01 00 00 05 00}{04 02 00} !{01 00 00 0a 00} {07 00 00}Ma\npeaksin vist{01 00 00 0a 00} reeglid ära\nseletama, mis? {07 19 00}Ma peidan\nend kuhugi siia linna, nii et{01 00 00 05 00}{07 00 00}\nsul on {ff 00 00 02}10 minutit{ff 00 00 00}, et mind\nleida. Kui{ff 00 00 02} 10 minutit{ff 00 00 00} läbi\nsaab,{01 00 00 05 00} kaotad sa!{01 01 00} Ja ma\nhõõrun seda sulle igavesti\nnina alla!{07 0b 00} Selge? {07 14 00}Olgu siis!\nMäng{01 00 00 0a 00} ALGAGU! {01 00 00 0a 00}{0b 03 00}{04 02 00}!"
   },
   {
    "id": 2,
    "en": "{07 14 00}Wow! I like your enthusiasm,\n{01 00 00 0a 00}{04 02 00}! It brings a\ntwinkle to your eyes!\n{07 00 00}Please allow me to explain\nthe rules{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.{01 01 00} The limit is\n{ff 00 00 02}15 minutes{ff 00 00 00}.\n{07 00 00}You have to find where in\nthis town I'm hiding in {ff 00 00 02}15\nminutes{ff 00 00 00}.\n{07 0b 00}Got that?{01 01 00} {07 14 00}Well then,{01 00 00 05 00} I'm\ngonna go hide, {01 00 00 0a 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 14 00}Vau! Mulle meeldib su\ninnukus, {01 00 00 0a 00}{04 02 00}! See toob\nsulle sära silma!\n{07 00 00}Lubage mul reeglid\nseletada{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.{01 01 00} Piirang on\n{ff 00 00 02}15 minutit{ff 00 00 00}.\n{07 00 00}Sa pead leidma, kus ma\nselles linnas peidus olen, {ff 00 00 02}15\nminutiga{ff 00 00 00}.\n{07 0b 00}Selge?{01 01 00} {07 14 00}No nii,{01 00 00 05 00} ma\nlähen peitu, {01 00 00 0a 00}{04 02 00}!"
   }
  ]
 }

@@ -4,17 +4,17 @@
   {
    "id": 0,
    "en": "{07 0d 00}Oh, AWESOME, {ff 00 00 05}{04 1f 00}{ff 00 00 00}!{01 00 00 14 00}\n{07 0b 00}So {01 00 00 05 00}when should I come over?",
-   "et": ""
+   "et": "{07 0d 00}Oh, VINGE, {ff 00 00 05}{04 1f 00}{ff 00 00 00}!{01 00 00 14 00}\n{07 0b 00}Millal {01 00 00 05 00}ma tulema peaksin?"
   },
   {
    "id": 1,
    "en": "{07 04 00}Gotcha!{01 01 00} {07 00 00}I wanna come over \nwhen it's still bright out...\n\n{07 0b 00}When would be good for you,\n{01 00 00 05 00}{04 02 00}?",
-   "et": ""
+   "et": "{07 04 00}Sain!{01 01 00} {07 00 00}Ma tahan tulla \nsiis, kui on veel valge...\n\n{07 0b 00}Millal sulle sobiks,\n{01 00 00 05 00}{04 02 00}?"
   },
   {
    "id": 2,
    "en": "{07 03 00}War har har har har!{01 00 00 0f 00}\nMan, you always tell me\nwhat I wanna hear!\n{07 00 00}OK then, {01 00 00 05 00}{07 0b 00}when do you wanna\ndo this, {01 00 00 05 00}{04 02 00}?",
-   "et": ""
+   "et": "{07 03 00}Vaar haar haar haar!{01 00 00 0f 00}\nMees, sa ütled alati seda,\nmida ma kuulda tahan!\n{07 00 00}Olgu siis, {01 00 00 05 00}{07 0b 00}millal sa tahad\nseda teha, {01 00 00 05 00}{04 02 00}?"
   }
  ]
 }

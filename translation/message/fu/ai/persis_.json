@@ -4,32 +4,32 @@
   {
    "id": 0,
    "en": "{07 16 00}What!? What is it this time?{01 00 00 0f 00}\n{07 0f 00}All I want is a little time\nto myself.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{04 02 00}.{01 00 00 05 00}{03 00 00}",
-   "et": ""
+   "et": "{07 16 00}Mida!? Mis nüüd jälle?{01 00 00 0f 00}\n{07 0f 00}Ma tahan ainult natuke\naega endale.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{04 02 00}.{01 00 00 05 00}{03 00 00}"
   },
   {
    "id": 1,
    "en": "I don't mean to be rude,\nbut {07 16 00}I'm just so tired of\ntalking, {01 00 00 05 00}{04 02 00}!{01 00 00 05 00}{03 00 00}",
-   "et": ""
+   "et": "Ma ei taha olla ebaviisakas,\naga {07 16 00}ma olen rääkimisest\nnii väsinud, {01 00 00 05 00}{04 02 00}!{01 00 00 05 00}{03 00 00}"
   },
   {
    "id": 2,
    "en": "{07 0f 00}Look, if it's all the same\nto you, I'd really rather go\n{04 22 00} just now.{01 00 00 05 00}{03 00 00}",
-   "et": ""
+   "et": "{07 0f 00}Kuule, kui sul ükskõik on,\nläheksin ma praegu pigem\n{04 22 00}.{01 00 00 05 00}{03 00 00}"
   },
   {
    "id": 3,
    "en": "{07 15 00}You just don't know when to\nstop, do you, {04 1f 00}?\nI just need some me time!{01 00 00 05 00}{03 00 00}",
-   "et": ""
+   "et": "{07 15 00}Sa lihtsalt ei tea, millal\nlõpetada, ega, {04 1f 00}?\nMa vajan omaette aega!{01 00 00 05 00}{03 00 00}"
   },
   {
    "id": 4,
    "en": "{07 15 00}Look, you come over here,\nand you expect ME to do all\nthe talking.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n{07 01 00}Well, you know what? I can't\nthink of anything else to\nsay, {01 00 00 05 00}{04 02 00}!{01 00 00 05 00}{03 00 00}",
-   "et": ""
+   "et": "{07 15 00}Kuule, sa tuled siia ja\nootad, et MINA teeksin\nkogu rääkimise.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n{07 01 00}Noh, tead mida? Ma ei oska\nenam midagi muud öelda,\n{01 00 00 05 00}{04 02 00}!{01 00 00 05 00}{03 00 00}"
   },
   {
    "id": 5,
    "en": "{07 01 00}Hey! Hey, you! I've had just\nabout enough out of you\nfor now, {01 00 00 05 00}{04 02 00}!\nSometimes, a girl just\nwants to be left alone!\nYou got that, {01 00 00 05 00}{04 02 00}!{01 00 00 05 00}{03 00 00}",
-   "et": ""
+   "et": "{07 01 00}Hei! Hei, sina! Mul on\nsinust praeguseks\nkõrini, {01 00 00 05 00}{04 02 00}!\nVahel tahab tüdruk\nlihtsalt üksi olla!\nSaad aru, {01 00 00 05 00}{04 02 00}!{01 00 00 05 00}{03 00 00}"
   }
  ]
 }

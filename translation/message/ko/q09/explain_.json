@@ -4,17 +4,17 @@
   {
    "id": 0,
    "en": "{07 14 00}All right!{01 00 00 0f 00} Rules are \nmade to be broken, but{01 00 00 05 00} I'm\ngonna explain 'em anyway.\n{07 00 00}I'm gonna hide somewhere\nin town. You have to find\nme within {ff 00 00 02}5 minutes{ff 00 00 00}.{01 00 00 14 00}\n{07 14 00}See?{01 00 00 0f 00} Simple, huh? {07 00 00}So, {01 00 00 05 00}I'm\nheadin' to my hiding spot{01 00 00 05 00}.{01 00 00 05 00}.{01 01 00}\nBetcha can't find me!",
-   "et": ""
+   "et": "{07 14 00}Hea küll!{01 00 00 0f 00} Reeglid on\nloodud murdmiseks, aga{01 00 00 05 00} ma\nseletan need siiski ära.\n{07 00 00}Ma peidan end kuhugi\nlinna. Sa pead mind\nleidma {ff 00 00 02}5 minutiga{ff 00 00 00}.{01 00 00 14 00}\n{07 14 00}Näed?{01 00 00 0f 00} Lihtne, mis? {07 00 00}Nii, {01 00 00 05 00}ma\nlähen oma peidukohta{01 00 00 05 00}.{01 00 00 05 00}.{01 01 00}\nVean kihla, et ei leia!"
   },
   {
    "id": 1,
    "en": "{07 15 00}Ha!{01 00 00 0a 00} The rules are simple!{01 00 00 14 00}\nIf you can find me within {ff 00 00 02}10\nminutes{ff 00 00 00}, you win!\n{07 00 00}If you can't, well, then I\nwin! Those are the rules,\n{01 00 00 05 00}{04 02 00}!\nOK, {01 00 00 05 00}as long as you get it,\nI'm gonna go hide,\n{01 00 00 05 00}{04 02 00}!\n{07 11 00}Heh heh heh{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00} I am a\nmaster at hiding in the\nshade of trees.",
-   "et": ""
+   "et": "{07 15 00}Hah!{01 00 00 0a 00} Reeglid on lihtsad!{01 00 00 14 00}\nKui sa leiad mind {ff 00 00 02}10\nminutiga{ff 00 00 00}, siis võidad!\n{07 00 00}Kui ei leia, noh, siis\nvõidan mina! Sellised on\nreeglid, {01 00 00 05 00}{04 02 00}!\nOlgu, {01 00 00 05 00}kui sa aru said,\nlähen ma end peitma,\n{01 00 00 05 00}{04 02 00}!\n{07 11 00}Heh heh heh{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00} Ma olen\nmeister puude varjus\npeitumises."
   },
   {
    "id": 2,
    "en": "{07 14 00}Heh heh!{01 00 00 0f 00} Well, then I guess\nI have to explain the rules\nor somethin'.\n{07 00 00}I'm gonna hide and you've\ngot {ff 00 00 02}15 minutes {ff 00 00 00}to find me.\n\n{07 15 00}If it takes you longer\nthan  {ff 00 00 02}15 minutes{ff 00 00 00}, {01 00 00 05 00}YOU LOSE!\nGot that, {01 00 00 05 00}{04 02 00}?\n{07 00 00}{01 00 00 14 00}I'm gonna have to use all\nthe techniques I learned at\nninja night school.",
-   "et": ""
+   "et": "{07 14 00}Heh heh!{01 00 00 0f 00} Noh, siis pean ma\nvist reeglid ära seletama\nvõi midagi.\n{07 00 00}Ma peidan end ja sul on\n{ff 00 00 02}15 minutit {ff 00 00 00}mind leida.\n\n{07 15 00}Kui sul läheb kauem\nkui  {ff 00 00 02}15 minutit{ff 00 00 00}, {01 00 00 05 00}SA KAOTAD!\nSaid aru, {01 00 00 05 00}{04 02 00}?\n{07 00 00}{01 00 00 14 00}Pean kasutama kõiki\nvõtteid, mida nindade\nõhtukoolis õppisin."
   }
  ]
 }

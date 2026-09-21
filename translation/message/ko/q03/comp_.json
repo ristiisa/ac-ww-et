@@ -4,17 +4,17 @@
   {
    "id": 0,
    "en": "{07 14 00}Hey, kid!{01 00 00 14 00} I just got the\ncoolest fossil.\n\n{07 0d 00}I've got it all set up and\nlookin' scary in my room,\n{01 00 00 05 00}{04 02 00}. {01 00 00 05 00}Rawwr!",
-   "et": ""
+   "et": "{07 14 00}Hei, poiss!{01 00 00 14 00} Sain just\nkõige lahedama fossiili.\n\n{07 0d 00}Panin selle oma tuppa\nhirmuäratavalt üles,\n{01 00 00 05 00}{04 02 00}. {01 00 00 05 00}Rrrr!"
   },
   {
    "id": 1,
    "en": "{07 00 00}There's somethin' about my\nroom and fossils. They just\ngo together, {01 00 00 05 00}{04 02 00}.\n{07 11 00}Your place, though... Not\ngood for fossils. Just give\n'em all to me.",
-   "et": ""
+   "et": "{07 00 00}Minu toal ja fossiilidel on\nmidagi ühist. Nad lihtsalt\nsobivad kokku, {01 00 00 05 00}{04 02 00}.\n{07 11 00}Sinu kodu aga... Fossiilide\njaoks ei sobi. Anna need\nkõik lihtsalt mulle."
   },
   {
    "id": 2,
    "en": "{07 14 00}It's a good thing I've got\na fearsome fossil guarding\nmy room.\n{07 00 00}It scares away all the\nannoyingly happy people in\nthis town.",
-   "et": ""
+   "et": "{07 14 00}Hea, et mul on hirmus\nfossiil, mis mu tuba\nvalvab.\n{07 00 00}See peletab eemale kõik\ntüütult rõõmsad inimesed\nselles linnas."
   }
  ]
 }

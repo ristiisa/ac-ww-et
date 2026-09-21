@@ -4,17 +4,17 @@
   {
    "id": 0,
    "en": "{01 08 00}Whoa!\n\n\nI'm in big trouble now!\nHeeeeelp! Oh, won't you help\nme,{01 00 00 05 00} {04 02 00}?",
-   "et": ""
+   "et": "{01 08 00}Ohoo!\n\n\nNüüd olen ma suures hädas!\nAppiiii! Kas sa ei aitaks\nmind,{01 00 00 05 00} {04 02 00}?"
   },
   {
    "id": 1,
    "en": "{01 08 00}Aaaaaaugh!\n\n\nSomeone help me! I can't\nget out! {01 00 00 05 00}{0b 03 00}{04 02 00}!",
-   "et": ""
+   "et": "{01 08 00}Aaaaaah!\n\n\nKeegi aidaku! Ma ei saa\nvälja! {01 00 00 05 00}{0b 03 00}{04 02 00}!"
   },
   {
    "id": 2,
    "en": "{01 08 00}Waaaaaa! {01 00 00 05 00}{0b 03 00}{04 02 00}!\n\n\nHmmm. This hole...{01 00 00 0a 00}\nIt's just my size,\n{01 00 00 05 00}{04 02 00}!",
-   "et": ""
+   "et": "{01 08 00}Vaaaaa! {01 00 00 05 00}{0b 03 00}{04 02 00}!\n\n\nHmmm. See auk...{01 00 00 0a 00}\nSee on just minu mõõtu,\n{01 00 00 05 00}{04 02 00}!"
   }
  ]
 }

@@ -4,17 +4,17 @@
   {
    "id": 0,
    "en": "{07 15 00}Hey, {01 00 00 0f 00}you!{01 00 00 05 00} Why are you\nstanding around wasting\ntime, {01 00 00 05 00}{04 02 00}?!\n{07 16 00}The {0b 02 00}{04 1a 00}\ncontest is to see who can\ncatch one first,{01 00 00 05 00} ya know?",
-   "et": ""
+   "et": "{07 15 00}Hei, {01 00 00 0f 00}sina!{01 00 00 05 00} Miks sa\nseisad ja raiskad\naega, {01 00 00 05 00}{04 02 00}?!\n{07 16 00}{0b 02 00}{04 1a 00}\nvõistlus on selles, kes\npüüab esimesena,{01 00 00 05 00} tead?"
   },
   {
    "id": 1,
    "en": "{07 04 00}Naw, I haven't caught\n{04 1a 00}\nyet either, {01 00 00 05 00}{04 02 00}.\n{07 15 00}What? You're scared, aren't\nyou, {04 1f 00}? {01 00 00 05 00}I can see\nit in your eyes!",
-   "et": ""
+   "et": "{07 04 00}Ei, ma pole ka\n{04 1a 00}\nveel püüdnud, {01 00 00 05 00}{04 02 00}.\n{07 15 00}Mis? Sa kardad, kas pole,\n{04 1f 00}? {01 00 00 05 00}Ma näen seda\nsu silmist!"
   },
   {
    "id": 2,
    "en": "{07 06 00}Why can't I catch{01 00 00 14 00}\n{04 1a 00}?!\nWHY?!",
-   "et": ""
+   "et": "{07 06 00}Miks ma ei suuda püüda{01 00 00 14 00}\n{04 1a 00}?!\nMIKS?!"
   }
  ]
 }

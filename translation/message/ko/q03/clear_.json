@@ -4,17 +4,17 @@
   {
    "id": 0,
    "en": "{07 14 00}I owe you one,{01 00 00 05 00}\n{04 1f 00}! {01 00 00 05 00}{0b 03 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 14 00}Ma olen sulle võlgu,{01 00 00 05 00}\n{04 1f 00}! {01 00 00 05 00}{0b 03 00}{04 02 00}!"
   },
   {
    "id": 1,
    "en": "{07 14 00}Hey{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} That was kinda cool \nof you, {01 00 00 05 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 14 00}Kuule{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} See oli sinust\npäris lahe, {01 00 00 05 00}{04 02 00}!"
   },
   {
    "id": 2,
    "en": "{07 00 00}This fossil is gonna look\ngreat back at my pad. Come\ncheck it out, {01 00 00 05 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 00 00}See fossiil näeb mu\nkoopas hea välja. Tule\nvaatama, {01 00 00 05 00}{04 02 00}!"
   }
  ]
 }

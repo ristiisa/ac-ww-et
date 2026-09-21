@@ -4,32 +4,32 @@
   {
    "id": 0,
    "en": "{ff 00 00 04}{07 16 00}{01 08 00}HACKITY HACK HACK!{ff 00 00 00} {ff 00 00 04}{01 00 00 05 00}HWEEEZE.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n{ff 00 00 00}{07 15 00}Unnghhh, my throat's killing\nme!\n{07 16 00}I really hope I'm not\ngetting a cold,\n{01 00 00 0a 00}{04 02 00}.",
-   "et": ""
+   "et": "{ff 00 00 04}{07 16 00}{01 08 00}KÖHH-KÖHH-KÖHH!{ff 00 00 00} {ff 00 00 04}{01 00 00 05 00}VIHISE{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{ff 00 00 00}{07 15 00}Uhhh, mu kurk tapab\nmind!\n{07 16 00}Loodan väga, et ma ei\njää külmetama,\n{01 00 00 0a 00}{04 02 00}."
   },
   {
    "id": 1,
    "en": "{ff 00 00 04}{07 07 00}Hack{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} Hack{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} {ff 00 00 00}Oh, whoooa{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\nMy legs are as wobbly as\ngrape jelly, {01 00 00 0a 00}{04 02 00}.",
-   "et": ""
+   "et": "{ff 00 00 04}{07 07 00}Köh{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} Köh{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} {ff 00 00 00}Oh, ohoo{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\nMu jalad on nõrgad nagu\ntarretis, {01 00 00 0a 00}{04 02 00}."
   },
   {
    "id": 2,
    "en": "{07 1c 00}{01 00 00 0a 00}I feel so{01 00 00 0a 00} tired{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} {07 12 00}Zzzzzzzz...{01 01 00}\n{07 02 00}Huh?! What?! Where am I?!\n{01 01 00}{07 16 00}Oh, yeah. {ff 00 00 04}{01 00 00 05 00}{01 08 00}HACKITY HACK HACK!",
-   "et": ""
+   "et": "{07 1c 00}{01 00 00 0a 00}Olen nii{01 00 00 0a 00} väsinud{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} {07 12 00}Zzzzzzz...{01 01 00}\n{07 02 00}Ah?! Mis?! Kus ma olen?!\n{01 01 00}{07 16 00}Ah jaa. {ff 00 00 04}{01 00 00 05 00}{01 08 00}KÖHH-KÖHH-KÖHH!"
   },
   {
    "id": 3,
    "en": "{07 14 00}Ahh, that's much better.{01 00 00 14 00} {07 00 00}I\nsent my best buddy this\nletter today:\n\"I think {ff 00 00 05}{04 0f 00}{ff 00 00 00}'s\n{ff 00 00 07}medicine {ff 00 00 00}really helped!{01 00 00 14 00} My\nhead's not leaking anymore!\"",
-   "et": ""
+   "et": "{07 14 00}Ahh, palju parem.{01 00 00 14 00} {07 00 00}Saatsin\ntäna oma parimale sõbrale\nsellise kirja:\n„Arvan, et {ff 00 00 05}{04 0f 00}{ff 00 00 00}\n{ff 00 00 07}rohi {ff 00 00 00}tõesti aitas!{01 00 00 14 00} Mu\npea ei leki enam!”"
   },
   {
    "id": 4,
    "en": "{07 00 00}Hey, thanks to the {ff 00 00 07}medicine{ff 00 00 00}\nthat {ff 00 00 05}{04 0f 00}{ff 00 00 00} brought, {01 00 00 14 00}{07 14 00}\nI feel {01 00 00 0a 00}LOADS better.\n{07 17 00}I'm sorry. {01 00 00 0f 00}I'm still kinda\ndazed{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}and thinking out\nloud.",
-   "et": ""
+   "et": "{07 00 00}Hei, tänu {ff 00 00 07}rohule{ff 00 00 00}, mille\n{ff 00 00 05}{04 0f 00}{ff 00 00 00} tõi, {01 00 00 14 00}{07 14 00}\ntunnen end {01 00 00 0a 00}PALJU paremini.\n{07 17 00}Vabandust. {01 00 00 0f 00}Olen ikka veel\nuimane{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}ja mõtlen\nvaljusti."
   },
   {
    "id": 5,
    "en": "{07 00 00}\"Dear Diary,{01 00 00 0f 00} I think the\n{ff 00 00 07}medicine {ff 00 00 00}from {ff 00 00 05}{04 0f 00}\n{ff 00 00 00}worked!\"{01 00 00 0f 00}\n{07 14 00}Oh, hi, {04 1f 00}.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 14 00} I was\nmaking a mental note. {01 00 00 14 00}I'm\nfeeling better now!\nI mean, my appetite's\ndefinitely coming back.{01 01 00} Uh,{07 0b 00}\ngot any snacks on you?",
-   "et": ""
+   "et": "{07 00 00}„Kallis päevik,{01 00 00 0f 00} arvan, et\n{ff 00 00 07}rohi {ff 00 00 00}{ff 00 00 05}{04 0f 00}\n{ff 00 00 00}käest mõjus!”{01 00 00 0f 00}\n{07 14 00}Oh, tere, {04 1f 00}.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 14 00} Panin\nlihtsalt meelde. {01 00 00 14 00}Tunnen end\nnüüd paremini!\nTähendab, mu isu tuleb\nkindlasti tagasi.{01 01 00} Ee,{07 0b 00}\nkas sul on näkse kaasas?"
   }
  ]
 }

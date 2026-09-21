@@ -4,97 +4,97 @@
   {
    "id": 0,
    "en": "What?{01 00 00 05 00} What was that,\n{01 00 00 05 00}{04 02 00}?!\n\nWere you, like, trying to do\nTHIS by any chance?",
-   "et": ""
+   "et": "Mida?{01 00 00 05 00} Mis see oli,\n{01 00 00 05 00}{04 02 00}?!\n\nKas sa, nagu, üritasid teha\nSEDA juhuslikult?"
   },
   {
    "id": 1,
    "en": "Oh, like, ew!{01 00 00 0a 00} What in the\nworld was that?!{01 01 00}\nDid you mean...this?!",
-   "et": ""
+   "et": "Oh, nagu, äkh!{01 00 00 0a 00} Mis see\nküll oli?!{01 01 00}\nKas sa mõtlesid...seda?!"
   },
   {
    "id": 2,
    "en": "{0b 03 00}{04 1f 00}!{01 00 00 0a 00} Was that me?!\nAre you, like, trying to\nmake fun of me?{01 00 00 0a 00} HOW RUDE!\nI THINK you were trying\nto do this, {01 00 00 05 00}{04 02 00}!",
-   "et": ""
+   "et": "{0b 03 00}{04 1f 00}!{01 00 00 0a 00} Kas see olin ma?\nKas sa, nagu, üritad minu\nüle naerda?{01 00 00 0a 00} KUI EBAVIISAKAS!\nMa ARVAN, et sa üritasid\nteha seda, {01 00 00 05 00}{04 02 00}!"
   },
   {
    "id": 3,
    "en": "Um, hello? Yeah, not quite...{01 01 00}\n{0b 03 00}{ff 00 00 02}{04 0f 00} {ff 00 00 00}doesn't\nwork like that{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.",
-   "et": ""
+   "et": "Emm, halloo? mitte päris...{01 01 00}\n{0b 03 00}{ff 00 00 02}{04 0f 00} {ff 00 00 00}ei käi\nnii{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}."
   },
   {
    "id": 4,
    "en": "{0b 03 00}{04 1f 00}, your\n{ff 00 00 02}{04 0f 00} {ff 00 00 00}is, like,\na seven out of ten.{01 00 00 0f 00} Maybe.",
-   "et": ""
+   "et": "{0b 03 00}{04 1f 00}, sinu\n{ff 00 00 02}{04 0f 00} {ff 00 00 00}on, nagu,\nseitse kümnest.{01 00 00 0f 00} Ehk."
   },
   {
    "id": 5,
    "en": "I'll do it one more time.{01 00 00 05 00}\nWatch me carefully,\n{01 00 00 05 00}{04 02 00}!",
-   "et": ""
+   "et": "Ma teen seda veel kord.{01 00 00 05 00}\nVaata mind hoolikalt,\n{01 00 00 05 00}{04 02 00}!"
   },
   {
    "id": 6,
    "en": "I'll show you one more time,{01 00 00 05 00}\nso watch closely!{01 00 00 0a 00} Got it,\n{01 00 00 05 00}{04 02 00}?!",
-   "et": ""
+   "et": "Ma näitan sulle veel kord,{01 00 00 05 00}\nnii et vaata hoolega!{01 00 00 0a 00} Selge,\n{01 00 00 05 00}{04 02 00}?!"
   },
   {
    "id": 7,
    "en": "See?!{01 00 00 0a 00} You got that, \n{01 00 00 05 00}{04 02 00}?!",
-   "et": ""
+   "et": "Näed?!{01 00 00 0a 00} Kas sa said aru, \n{01 00 00 05 00}{04 02 00}?!"
   },
   {
    "id": 8,
    "en": "It's like that!{01 00 00 0a 00} See?{01 00 00 0a 00}\nDid you get it,\n{01 00 00 05 00}{04 02 00}?",
-   "et": ""
+   "et": "See käib nii!{01 00 00 0a 00} Näed?{01 00 00 0a 00}\nKas sa said aru,\n{01 00 00 05 00}{04 02 00}?"
   },
   {
    "id": 9,
    "en": "YAY, {01 00 00 05 00}{04 02 00}!",
-   "et": ""
+   "et": "JEE, {01 00 00 05 00}{04 02 00}!"
   },
   {
    "id": 10,
    "en": "Oh, well!{01 00 00 0a 00} {0b 03 00}{04 1f 00}, this\nis just for you!!",
-   "et": ""
+   "et": "Oh, noh!{01 00 00 0a 00} {0b 03 00}{04 1f 00}, see\non ainult sinu jaoks!!"
   },
   {
    "id": 11,
    "en": "YAY!{01 00 00 0f 00} Yippy skippy YAY!{01 00 00 0f 00}\nNow you're a master at\n{ff 00 00 02}{04 0f 00}{ff 00 00 00}, too!",
-   "et": ""
+   "et": "JEE!{01 00 00 0f 00} Jipii-jee JEE!{01 00 00 0f 00}\nNüüd oled ka sina\n{ff 00 00 02}{04 0f 00}{ff 00 00 00} meister!"
   },
   {
    "id": 12,
    "en": "Good job, {04 1f 00}!{01 00 00 0a 00}\nYou're, like, a quick study,\n{01 00 00 05 00}{04 02 00}!\nYou'll TOTALLY pass the big\n{ff 00 00 02}{04 0f 00} {ff 00 00 00}exam!",
-   "et": ""
+   "et": "Tubli töö, {04 1f 00}!{01 00 00 0a 00}\nSa oled, nagu, kiire õppija,\n{01 00 00 05 00}{04 02 00}!\nSa läbid TÄIESTI suure\n{ff 00 00 02}{04 0f 00} {ff 00 00 00}eksami!"
   },
   {
    "id": 13,
    "en": "Oops?!{01 00 00 05 00} You can't remember\nany more {ff 00 00 02}expressions{ff 00 00 00}!\n\nBut if you want to forget\nan {ff 00 00 02}expression{ff 00 00 00}, you can\nlearn this one instead.\nWhich one do you want to,\nlike, forget, {01 00 00 05 00}{04 02 00}?",
-   "et": ""
+   "et": "Uups?!{01 00 00 05 00} Sa ei suuda rohkem\n{ff 00 00 02}väljendeid{ff 00 00 00} meelde jätta!\n\nAga kui sa tahad mõne\n{ff 00 00 02}väljendi{ff 00 00 00} unustada, võid\nselle asemel selle õppida.\nMillise sa tahad, nagu,\nunustada, {01 00 00 05 00}{04 02 00}?"
   },
   {
    "id": 14,
    "en": "{07 02 00}Oh, ew!{01 01 00} {07 00 00}{0b 03 00}{04 1f 00}, you're\nso greedy!{01 00 00 0a 00} You can't learn\nany more {ff 00 00 02}expressions{ff 00 00 00}!\nTo remember this one, you\nHAVE TO forget an old one{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}\nWhich one, {01 00 00 05 00}{04 02 00}?",
-   "et": ""
+   "et": "{07 02 00}Oh, äkh!{01 01 00} {07 00 00}{0b 03 00}{04 1f 00}, sa oled\nnii ahne!{01 00 00 0a 00} Sa ei saa rohkem\n{ff 00 00 02}väljendeid{ff 00 00 00} õppida!\nSelle meelde jätmiseks PEAD\nsa vana ära unustama.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}{01 00 00 03 00}\nMillise, {01 00 00 05 00}{04 02 00}?"
   },
   {
    "id": 15,
    "en": "OK then!{01 00 00 0a 00} Reeeeady?{01 00 00 0a 00}\nThree{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00} Twooo{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}\nOOOONNNNEEE{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}\n{07 0a 00}PRESTO!!!{01 09 00}\n\n\n{07 00 00}You TOTALLY forgot\n{ff 00 00 02}{04 10 00}{ff 00 00 00}, and \nlearned {ff 00 00 02}{04 0f 00}{ff 00 00 00}!\nGood job, {01 00 00 05 00}{04 1f 00}!",
-   "et": ""
+   "et": "Olgu siis!{01 00 00 0a 00} Vaaaalmis?{01 00 00 0a 00}\nKolm.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}{01 00 00 03 00} Kakssss.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}{01 00 00 03 00}\nÜÜÜKS.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}{01 00 00 03 00}\n{07 0a 00}PRESTO!!!{01 09 00}\n\n\n{07 00 00}Sa unustasid TÄIESTI\n{ff 00 00 02}{04 10 00}{ff 00 00 00} ja \nõppisid {ff 00 00 02}{04 0f 00}{ff 00 00 00}!\nTubli töö, {01 00 00 05 00}{04 1f 00}!"
   },
   {
    "id": 16,
    "en": "OK! {01 00 00 05 00}{07 11 00}Looook into my eyes{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 01 00}\nOh!{01 00 00 0a 00}{07 17 00} Now I'm all embarrassed!{01 00 00 0a 00}\n'K, I'll stop acting stupid...\n{07 00 00}Forget {ff 00 00 02}{04 10 00}{ff 00 00 00}...\nAnd instead, remember\n{ff 00 00 02}{04 0f 00}{ff 00 00 00}!\n{0b 03 00}{04 1f 00},{01 00 00 05 00} you're like a\nnew person, {01 00 00 05 00}{04 02 00}!",
-   "et": ""
+   "et": "Olgu! {01 00 00 05 00}{07 11 00}Vaaata mulle silma{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 01 00}\nOh!{01 00 00 0a 00}{07 17 00} Nüüd on mul piinlik!{01 00 00 0a 00}\nOlgu, lõpetan rumalate\ntegemise... {07 00 00}Unusta {ff 00 00 02}{04 10 00}{ff 00 00 00}\n... Ja jäta selle asemel\nmeelde {ff 00 00 02}{04 0f 00}{ff 00 00 00}!\n{0b 03 00}{04 1f 00},{01 00 00 05 00} sa oled nagu\nuus inimene, {01 00 00 05 00}{04 02 00}!"
   },
   {
    "id": 17,
    "en": "I see{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} Well, I guess if it\nmakes YOU happy{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n\nHuh? Oh, no! No!{01 00 00 0a 00} I'm not\nupset at all{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}",
-   "et": ""
+   "et": "Selge{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} Noh, vist kui see\nteeb SIND õnnelikuks{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n\nAh? Oh, ei! Ei!{01 00 00 0a 00} Ma pole\nüldse pahane{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}"
   },
   {
    "id": 18,
    "en": "{0b 03 00}{04 1f 00}, I knew you'd be\nthe kind of person who\ncherished old memories!",
-   "et": ""
+   "et": "{0b 03 00}{04 1f 00}, ma teadsin, et sa\noled selline inimene, kes\nhoiab vanu mälestusi!"
   }
  ]
 }

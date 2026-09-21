@@ -4,112 +4,112 @@
   {
    "id": 0,
    "en": "{07 35 00}Hey! This time? Private.\nMine. Leave {ff 00 00 06}Lyle {ff 00 00 00}alone. \n{ff 00 00 06}Lyle{ff 00 00 00}'s gotta drink in peace.",
-   "et": ""
+   "et": "{07 35 00}Hei! Seekord? Eraviisiline.\nMinu. Jäta {ff 00 00 06}Lyle {ff 00 00 00}rahule. \n{ff 00 00 06}Lyle{ff 00 00 00} peab rahus jooma."
   },
   {
    "id": 1,
    "en": "{07 38 00}That guy? There? {01 00 00 0a 00}Talky.\nTalky talky yak yak blah\nblah blah talky yakey blah.\nEnough. {01 00 00 0a 00}Shut it. {01 00 00 0a 00}Just lemme\ndrink in peace. Right?{01 00 00 0a 00}\nRight.",
-   "et": ""
+   "et": "{07 38 00}See tüüp? Seal? {01 00 00 0a 00}Lobiseb.\nLoba loba lälla lälla lalla\nlalla lalla loba lälla lalla.\nAitab. {01 00 00 0a 00}Pane kinni. {01 00 00 0a 00}Las ma\njoon rahus. Eks?{01 00 00 0a 00}\nEks."
   },
   {
    "id": 2,
    "en": "{07 35 00}Stress? Listen, {ff 00 00 06}Lyle{ff 00 00 00}'s got\nplenty. {01 00 00 0a 00}You too, right?\nSure, {01 00 00 05 00}stress, {01 00 00 05 00}bang.\n{07 00 00}This coffee shop? {01 00 00 05 00}Busy.{01 00 00 05 00}\nToo busy. {01 00 00 05 00}Don't like it.\nYou? {01 00 00 0a 00}Bang! Thought so.",
-   "et": ""
+   "et": "{07 35 00}Stress? Kuula, {ff 00 00 06}Lyle{ff 00 00 00}-l on\nseda palju. {01 00 00 0a 00}Sul ka, eks?\nIkka, {01 00 00 05 00}stress, {01 00 00 05 00}pauk.\n{07 00 00}See kohvik? {01 00 00 05 00}Kiire.{01 00 00 05 00}\nLiiga kiire. {01 00 00 05 00}Ei meeldi.\nSul? {01 00 00 0a 00}Pauk! Nii ma arvasin."
   },
   {
    "id": 3,
    "en": "{06 01 00 08 09 0a}",
-   "et": ""
+   "et": "{06 01 00 08 09 0a}"
   },
   {
    "id": 4,
    "en": "{07 38 00}Kids. You know 'em? {01 00 00 05 00}Sure ya\ndo. But them? The kids?{01 00 00 0a 00}\nDon't know nothin'. {01 00 00 05 00}Useless.\n{06 01 00 0c 0d 0e}",
-   "et": ""
+   "et": "{07 38 00}Lapsed. Tunned neid? {01 00 00 05 00}Ikka\ntunned. Aga nemad? Lapsed?{01 00 00 0a 00}\nEi tea midagi. {01 00 00 05 00}Kasutud.\n{06 01 00 0c 0d 0e}"
   },
   {
    "id": 5,
    "en": "{07 00 00}Labels. {01 00 00 05 00}Everybody has 'em,\nright? {01 00 00 05 00}Sure, labels. {01 00 00 05 00}Happy.\nSad. Loser. Right? {01 00 00 05 00}Sure.\n{07 37 00}Take me. Take {ff 00 00 06}Lyle{ff 00 00 00}. Folks\ncall me sleaze. Sneak. Liar.{01 00 00 0a 00}\nNot true. I'm a peach.\nSure, some deals don't work\nout, but hey, right? That's\nlife. That's it. {01 00 00 0a 00}Bang.",
-   "et": ""
+   "et": "{07 00 00}Sildid. {01 00 00 05 00}Kõigil on need,\neks? {01 00 00 05 00}Ikka, sildid. {01 00 00 05 00}Õnnelik.\nKurb. Luuser. Eks? {01 00 00 05 00}Ikka.\n{07 37 00}Võta {ff 00 00 06}Lyle{ff 00 00 00}. Rahvas\nkutsub mind libedaks.{01 00 00 0a 00}\nPole tõsi. Ma olen kullatükk.\nIkka, mõni tehing läheb\nvussi, aga noh, eks? See on\nelu. Ongi kõik. {01 00 00 0a 00}Pauk."
   },
   {
    "id": 6,
    "en": "{07 35 00}Listen. Words. {01 00 00 0a 00}You know 'em?{01 00 00 0a 00}\nMe too. Some words, I can't\nstand. {01 00 00 0a 00}Wanna know?{02 00 00 10 18}\nTell me!\nDon't care!",
-   "et": ""
+   "et": "{07 35 00}Kuula. Sõnad. {01 00 00 0a 00}Tunned neid?{01 00 00 0a 00}\nMina ka. Mõnda sõna ma ei\ntalu. {01 00 00 0a 00}Tahad teada?{02 00 00 10 18}\nRäägi!\nEi huvita!"
   },
   {
    "id": 7,
    "en": "{07 35 00}This recession? Killin' me.{01 00 00 0a 00}\nYou?{01 00 00 05 00} Yeah, sure, right.\n{ff 00 00 06}Lyle{ff 00 00 00} hears that. Bang.\n{06 01 00 15 16 17}",
-   "et": ""
+   "et": "{07 35 00}See surutis? Tapab mind.{01 00 00 0a 00}\nSind?{01 00 00 05 00} Jaa, ikka, eks.\n{ff 00 00 06}Lyle{ff 00 00 00} kuuleb seda. Pauk.\n{06 01 00 15 16 17}"
   },
   {
    "id": 8,
    "en": "{07 35 00}You? Again? What? Why you\ndoing this? {01 00 00 0a 00}Why you bustin'\nmy chops? {01 00 00 0a 00}Huh? Why?\n{07 38 00}I'm fine. {01 00 00 0a 00}Fine. Yeah, {ff 00 00 06}Lyle{ff 00 00 00}'s\nfine, no worries, legit,\nbang. {01 00 00 0a 00}Leave me alone.",
-   "et": ""
+   "et": "{07 35 00}Sina? Jälle? Mis? Miks sa\nseda teed? {01 00 00 0a 00}Miks sa mind\ntüütad? {01 00 00 0a 00}Ah? Miks?\n{07 38 00}Kõik hästi. {01 00 00 0a 00}Jaa, {ff 00 00 06}Lyle{ff 00 00 00}-l\non hästi, pole muret, aus,\npauk. {01 00 00 0a 00}Jäta mind rahule."
   },
   {
    "id": 9,
    "en": "{07 35 00}Turnips? Shoulda bought\nsome. {01 00 00 0a 00}Had a chance. {01 00 00 0a 00}Thought\nit over. Didn't. Blew it.\nKnow what? {01 00 00 0a 00}Now I'm busted.\nGot nothin'. {01 00 00 0a 00}But hey, what\nthe deuce, right? {01 00 00 0a 00}Bang.",
-   "et": ""
+   "et": "{07 35 00}Naerid? Oleks pidanud\nostma. {01 00 00 0a 00}Oli šanss.{01 00 00 0a 00} Mõtlesin\njärele. Ei ostnud. Vussisin.\nTead mida? {01 00 00 0a 00}Nüüd olen puru.\nPole midagi. {01 00 00 0a 00}Aga noh, mis\nsa teed, eks? {01 00 00 0a 00}Pauk."
   },
   {
    "id": 10,
    "en": "{07 35 00}{01 08 00}WHY YA BUSTIN' MY CHOPS?!{01 01 00}\nI'm fine, right? Sure I am.{01 00 00 0a 00}\nSure. Right. {01 00 00 05 00}Get lost.",
-   "et": ""
+   "et": "{07 35 00}{01 08 00}MIKS SA MIND TÜÜTAD?!{01 01 00}\nMul on hästi, eks? Ikka on.{01 00 00 0a 00}\nIkka. Eks. {01 00 00 05 00}Kao ära."
   },
   {
    "id": 12,
    "en": "{07 37 00}Kids work at my office. \nBunches. Tons. Hundreds.{01 00 00 0a 00}\nActually, five.\nAnd their talk? {01 00 00 0a 00}Bang! Crazy\ntalk. {01 00 00 0a 00}Jibber-jabber. Can't\nfollow it. Not a word.",
-   "et": ""
+   "et": "{07 37 00}Lapsed töötavad kontoris. \nHunnikutes. Tonnide viisi.\nSadu.{01 00 00 0a 00} Tegelikult viis.\nJa nende jutt? {01 00 00 0a 00}Pauk! Hull\njutt. {01 00 00 0a 00}Lobamokad. Ei saa\naru. Mitte sõnagi."
   },
   {
    "id": 13,
    "en": "{07 38 00}Always talkin'. {01 00 00 0a 00}Singin'.{01 00 00 0a 00}\nMakin' flowers and stuff\nshoot outta their heads.",
-   "et": ""
+   "et": "{07 38 00}Alati räägivad. {01 00 00 0a 00}Laulavad.{01 00 00 0a 00}\nLasevad lilli ja asju\npeast välja kasvada."
   },
   {
    "id": 14,
    "en": "{07 37 00}No smarts. Can't work the\nsystem. Close the deal.{01 00 00 0a 00}\nAlways be closing, right?\n{07 00 00}BANG! Right, sure. And their\ntalk? {01 00 00 0a 00}Totally. Like. Pumped.{01 00 00 0a 00}\nForget it, right? Right.",
-   "et": ""
+   "et": "{07 37 00}Pole nutti. Ei oska\nsüsteemi. Tehingut sulgeda.{01 00 00 0a 00}\nAlati sulge, eks?\n{07 00 00}PAUK! Eks, ikka. Ja nende\njutt? {01 00 00 0a 00}Täiesti. Nagu. Elevil.{01 00 00 0a 00}\nUnusta, eks? Eks."
   },
   {
    "id": 16,
    "en": "{06 01 00 11 12 13}",
-   "et": ""
+   "et": "{06 01 00 11 12 13}"
   },
   {
    "id": 17,
    "en": "{07 35 00}{01 04 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 00 00}\"Grand jury.\"{01 00 00 0a 00}{01 05 00} Reminds me\nof folks. You know it,\nright? Right, sure you do.\n{07 37 00}One minute, friendly. Next\nminute, BANG!{01 00 00 0f 00} Feds on your\ncase. House repossessed.\nTough world. Tough, angry\nworld. Turn your back?{01 00 00 0a 00}\nChops get busted.",
-   "et": ""
+   "et": "{07 35 00}{01 04 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 00 00}„Vandekohus.”{01 00 00 0a 00}{01 05 00} Meenutab\nmulle rahvast. Tunned seda,\neks? Eks, ikka tunned.\n{07 37 00}Ühel hetkel sõbralik. Siis\nhetkel, PAUK!{01 00 00 0f 00} Maksuamet\nsinu kallal. Maja käest ära.\nKarm maailm. Karm, vihane\nmaailm. Pöörad selja?{01 00 00 0a 00}\nSaad nahutada."
   },
   {
    "id": 18,
    "en": "{07 35 00}{01 04 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 00 00}\"Communication.\"{01 00 00 0a 00}{01 05 00}{07 00 00} Sure,\nyou know what I mean. You\nhear me, sure you do.\nCommunication.{01 00 00 05 00} Phones ring.\nFolks talk. Words get read.\nThat kind of thing.\nMy boss?{01 00 00 0a 00} Busts my chops.{01 00 00 05 00}\nSays I don't communicate.\nSays folks don't like me.\n{07 34 00}I'm friendly! See? {ff 00 00 06}Lyle{ff 00 00 00}'s a\npal!{01 00 00 0a 00} {07 00 00}{07 35 00}No one believes me.\nEven now. Off the clock.\nI'm just no good with\npeople...",
-   "et": ""
+   "et": "{07 35 00}{01 04 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 00 00}„Suhtlus.”{01 00 00 0a 00}{01 05 00}{07 00 00} Ikka,\nsa tead, mida ma mõtlen. Sa\nkuuled mind, ikka kuuled.\nSuhtlus.{01 00 00 05 00} Telefonid helisevad.\nRahvas räägib. Sõnu\nloetakse. Selliseid asju.\nMu ülemus?{01 00 00 0a 00} Tüütab mind.{01 00 00 05 00}\nÜtleb, et ma ei suhtle.\nÜtleb, et rahvale ei meeldi.\n{07 34 00}Ma olen sõbralik! Näed? {ff 00 00 06}Lyle{ff 00 00 00}\non semu!{01 00 00 0a 00} {07 00 00}{07 35 00}Keegi ei usu mind.\nIsegi nüüd. Väljaspool tööd.\nMa lihtsalt ei sobi\ninimestega..."
   },
   {
    "id": 19,
    "en": "{07 35 00}{01 04 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 00 00}\"IRS.\"{01 00 00 0a 00}{01 05 00} Not a word? {01 00 00 0a 00}I know.\n{ff 00 00 06}Lyle {ff 00 00 00}knows. Three words.\nAbbreviation. Don't matter.\nI'm legit. Aboveboard. All\nsquare. Do they listen?\n'Course not. {01 00 00 0a 00}Bang.\nBeen to jail? Me too. Three\nhots and a cot, right?\nBad news. Bad deal.\nListen to {ff 00 00 06}Lyle{ff 00 00 00}. Advice. Mine.\nTake it{01 04 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 00 00} Taxes?{01 00 00 0a 00}{01 05 00} Pay 'em.",
-   "et": ""
+   "et": "{07 35 00}{01 04 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 00 00}„Maksuamet.”{01 00 00 0a 00}{01 05 00} Ei tea?{01 00 00 0a 00}\n{ff 00 00 06}Lyle{ff 00 00 00} teab. Üks sõna.\nLühend. Pole vahet.\nOlen aus. Puhas. Korras.\nKas nad kuulavad?\nMuidugi mitte. {01 00 00 0a 00}Pauk.\nOled vangis olnud? Mina ka.\nKolm sooja ja voodi, eks?\nHalvad uudised. Halb tehing.\nKuula {ff 00 00 06}Lyle{ff 00 00 00}-t. Nõuanne. Minu.\nVõta see{01 04 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 00 00} Maksud?{01 00 00 0a 00}{01 05 00} Maksa."
   },
   {
    "id": 21,
    "en": "Folks want to help? Look\nout for you? {01 00 00 0a 00}Don't buy\nit. Not a chance. Bang.\nAssume that everyone wants\nto bust your chops.{01 00 00 14 00} Because\nthey probably do.",
-   "et": ""
+   "et": "Rahvas tahab aidata? Sinu\neest hoolitseda? {01 00 00 0a 00}Ära usu.\nMitte kunagi. Pauk.\nEelda, et kõik tahavad\nsind nöökida.{01 00 00 14 00} Sest\nnad ilmselt tahavadki."
   },
   {
    "id": 22,
    "en": "{07 00 00}{ff 00 00 06}Lyle{ff 00 00 00} needs a scheme. Rich.\nQuick. Getting. Me. Follow?\nSure ya do.",
-   "et": ""
+   "et": "{07 00 00}{ff 00 00 06}Lyle{ff 00 00 00} vajab plaani. Rikas.\nKiiresti. Saada. Mina. Saad\naru? Ikka saad."
   },
   {
    "id": 23,
    "en": "{07 00 00}If I owned real estate? I'm\nliving the high life.{01 01 00} {07 38 00}{ff 00 00 06}Lyle{ff 00 00 00}\nreally needed those leads...",
-   "et": ""
+   "et": "{07 00 00}Kui mul oleks kinnisvara?\nElan lahedat elu.{01 01 00} {07 38 00}{ff 00 00 06}Lyle{ff 00 00 00}\nvajas neid vihjeid väga..."
   },
   {
    "id": 24,
    "en": "{07 38 00}Yeah, sure, right. {01 00 00 05 00}Why\nlisten to {ff 00 00 06}Lyle{ff 00 00 00}, right?{01 00 00 05 00} Sure.{01 00 00 05 00}\nOver. Done. Bang. Get lost.",
-   "et": ""
+   "et": "{07 38 00}Jaa, ikka, eks. {01 00 00 05 00}Miks\nkuulata {ff 00 00 06}Lyle{ff 00 00 00}-t, eks?{01 00 00 05 00} Ikka.{01 00 00 05 00}\nLäbi. Tehtud. Pauk. Kao ära."
   }
  ]
 }

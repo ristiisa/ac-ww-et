@@ -4,32 +4,32 @@
   {
    "id": 0,
    "en": "{07 16 00}KAAAAAK! HRACK!{01 00 00 05 00} HRAAAAAACK!{01 00 00 14 00}\n{07 07 00}I can't believe I'm making\nthese sounds!\nSo {01 00 00 05 00}very sick{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 01 00} If I pass\nout here, please make sure\nI have some lipstick on.",
-   "et": ""
+   "et": "{07 16 00}KAAAAK! HRÄK!{01 00 00 05 00} HRAAAAÄK!{01 00 00 14 00}\n{07 07 00}Ma ei usu, et ma selliseid\nhelisid teen!\nNii {01 00 00 05 00}haige{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 01 00} Kui ma siin\nminestan, siis vaata, et\nmul oleks huulepulk peal."
   },
   {
    "id": 1,
    "en": "{07 07 00}I've got the worst chills{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\nI can't stop shaking,\n{01 00 00 0a 00}{04 02 00}.",
-   "et": ""
+   "et": "{07 07 00}Mul on külmavärinad{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\nMa ei suuda värisemist\nlõpetada, {01 00 00 0a 00}{04 02 00}."
   },
   {
    "id": 2,
    "en": "{07 07 00}So {01 00 00 05 00}very{01 00 00 05 00} cold.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00} Can't {01 00 00 05 00}stop{01 00 00 05 00}\nshivering{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}. Lipstick{01 00 00 05 00} all{01 00 00 05 00}\nover{01 00 00 05 00} face{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.",
-   "et": ""
+   "et": "{07 07 00}Nii {01 00 00 05 00}väga{01 00 00 05 00} külm.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00} Ei {01 00 00 05 00}suuda{01 00 00 05 00}\nväriseda{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}. Huulepulk{01 00 00 05 00} üle{01 00 00 05 00}\nkogu{01 00 00 05 00} näo{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}."
   },
   {
    "id": 3,
    "en": "{07 14 00}Thanks to the {ff 00 00 07}medicine{ff 00 00 00},{01 00 00 05 00}\nI feel a little better.\n\n{07 09 00}It's clear that I only have\none friend in this world,{01 00 00 0a 00}\nand that's {ff 00 00 05}{04 0f 00}{ff 00 00 00}.",
-   "et": ""
+   "et": "{07 14 00}Tänu {ff 00 00 07}rohule{ff 00 00 00}{01 00 00 05 00}\ntunnen end veidi paremini.\n\n{07 09 00}On selge, et mul on siin\nmaailmas ainult üks sõber,{01 00 00 0a 00}\nja see on {ff 00 00 05}{04 0f 00}{ff 00 00 00}."
   },
   {
    "id": 4,
    "en": "{07 00 00}The {ff 00 00 07}medicine{ff 00 00 05} {ff 00 00 00}feels like it's\nworking.\n\n{07 19 00}There's one name that just\nmoved to the top of my\nfriend list:{01 00 00 0a 00} {ff 00 00 05}{04 0f 00}{ff 00 00 00}.",
-   "et": ""
+   "et": "{07 00 00}{ff 00 00 07}Rohi{ff 00 00 05} {ff 00 00 00}tundub mõjuvat.\n\n\n{07 19 00}Üks nimi tõusis just\nminu sõbranimekirja\ntippu:{01 00 00 0a 00} {ff 00 00 05}{04 0f 00}{ff 00 00 00}."
   },
   {
    "id": 5,
    "en": "{07 00 00}Thanks to the {ff 00 00 07}medicine{ff 00 00 00}, {07 14 00}I\nfeel loads better{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.\n\nI have one person to thank\nfor this, {01 00 00 0f 00}and that's\n{ff 00 00 05}{04 0f 00}{ff 00 00 00}.",
-   "et": ""
+   "et": "{07 00 00}Tänu {ff 00 00 07}rohule{ff 00 00 00} {07 14 00}tunnen\nend tunduvalt paremini{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.\n\nMul on selle eest tänada\nühte inimest, {01 00 00 0f 00}ja see on\n{ff 00 00 05}{04 0f 00}{ff 00 00 00}."
   }
  ]
 }

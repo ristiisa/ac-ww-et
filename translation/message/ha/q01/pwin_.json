@@ -4,12 +4,12 @@
   {
    "id": 0,
    "en": "{07 1d 00}Jumping jackrabbits!{01 00 00 0f 00}\n{07 16 00}Did you really catch\n{04 1c 00}?\n{07 06 00}Aw, man, all I got is\n{04 1d 00}!\nWEAK, {01 00 00 05 00}{04 02 00}!\n{07 15 00}You win at the buzzer!{01 00 00 05 00}\nDude, I never saw that one\ncoming!{01 00 00 05 00} Unprecedented!",
-   "et": ""
+   "et": "{07 1d 00}Hüppavad jänesed!{01 00 00 0f 00}\n{07 16 00}Kas sa tõesti püüdsid\n{04 1c 00}?\n{07 06 00}Oh mees, mul on ainult\n{04 1d 00}!\nNÕME, {01 00 00 05 00}{04 02 00}!\n{07 15 00}Sa võidad viimasel hetkel!{01 00 00 05 00}\nMees, ma ei näinud seda\ntulemas!{01 00 00 05 00} Pretsedenditu!"
   },
   {
    "id": 1,
    "en": "{07 02 00}Bug-a-BAM! {01 00 00 14 00}You caught\n{07 06 00}{04 1c 00}?{01 00 00 05 00}\nThat ain't right!\n{07 16 00}Man, all I caught was\n{04 1d 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n\n{07 00 00}I hate to admit it, but you\nbeat me hands down,{01 00 00 05 00}\n{04 02 00}!",
-   "et": ""
+   "et": "{07 02 00}Putuka-PÄMM! {01 00 00 14 00}Sa püüdsid\n{07 06 00}{04 1c 00}?{01 00 00 05 00}\nSee pole õige!\n{07 16 00}Mees, mina püüdsin ainult\n{04 1d 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n\n{07 00 00}Ma ei taha seda tunnistada,\naga sa võitsid mind puhtalt,{01 00 00 05 00}\n{04 02 00}!"
   }
  ]
 }

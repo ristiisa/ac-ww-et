@@ -4,82 +4,82 @@
   {
    "id": 0,
    "en": "{07 00 00}Hey, {01 00 00 05 00}{04 1f 00}.{01 00 00 0f 00} Did I\nimagine it, or do you have\n{04 1a 00}?\n{07 06 00}Oh! I've been wanting one of\nthose for so long!{01 00 00 05 00} Where\ndid you get it?\n{07 00 00}Could I talk you out of it?\nMaybe if I offered you my\n{0b 02 00}{04 1b 00}?{02 00 00 07 03}\nOoo, yeah.\nNo can do.",
-   "et": ""
+   "et": "{07 00 00}Hei, {01 00 00 05 00}{04 1f 00}.{01 00 00 0f 00} Kas ma\nkujutasin ette või on sul\n{04 1a 00}?\n{07 06 00}Oh! Ma olen üht sellist nii\nkaua tahtnud!{01 00 00 05 00} Kust sa\nselle said?\n{07 00 00}Kas ma saaksin sind ümber\nveenda? Ehk kui pakun oma\n{0b 02 00}{04 1b 00}?{02 00 00 07 03}\nOoo, jaa.\nEi saa."
   },
   {
    "id": 1,
    "en": "{07 00 00}Hey, {01 00 00 05 00}{04 1f 00},{01 00 00 0f 00} think\nfast! No questions, no\nhesitation. Just answer!\nTrade me your\n{0b 02 00}{04 1a 00}...\n\nFor my amazing\n{0b 02 00}{04 1b 00}?{02 00 00 07 03}\nWhy not?\nWait, what?",
-   "et": ""
+   "et": "{07 00 00}Hei, {01 00 00 05 00}{04 1f 00},{01 00 00 0f 00} mõtle\nkiiresti! Ei küsimusi,\nei kõhklust. Lihtsalt vasta!\nVaheta mulle oma\n{0b 02 00}{04 1a 00}...\n\nMinu hämmastava\n{0b 02 00}{04 1b 00} vastu?{02 00 00 07 03}\nMiks mitte?\nOota, mis?"
   },
   {
    "id": 2,
    "en": "{07 00 00}{0b 03 00}{04 1f 00},{01 00 00 0a 00} I don't want to\nalarm you or anything, but\nI have something to say.\n{07 15 00}I have {01 00 00 0f 00}{ff 00 00 07}IT{ff 00 00 00}.\n\n\n{07 14 00}I'll bet you want {ff 00 00 07}IT{ff 00 00 00},{01 00 00 05 00} don't\nyou, {04 1f 00}?\n\n{07 11 00}If you're nice, I'll trade {ff 00 00 07}IT{ff 00 00 00}\nto you for...let's see...your\n{0b 02 00}{04 1a 00}!{02 00 00 0f 03}\nGotta have it!\nDon't need it!",
-   "et": ""
+   "et": "{07 00 00}{0b 03 00}{04 1f 00},{01 00 00 0a 00} ma ei taha sind\nehmatada ega midagi, aga\nmul on midagi öelda.\n{07 15 00}Mul on {01 00 00 0f 00}{ff 00 00 07}SEE{ff 00 00 00}.\n\n\n{07 14 00}Küllap sa tahad {ff 00 00 07}SEDA{ff 00 00 00},{01 00 00 05 00}\nkas pole, {04 1f 00}?\n\n{07 11 00}Kui oled kena, vahetan {ff 00 00 07}SELLE{ff 00 00 00}\nsulle...vaatame...su\n{0b 02 00}{04 1a 00} vastu!{02 00 00 0f 03}\nPean saama!\nEi vaja!"
   },
   {
    "id": 3,
    "en": "{06 01 00 04 05 06}",
-   "et": ""
+   "et": "{06 01 00 04 05 06}"
   },
   {
    "id": 4,
    "en": "{07 04 00}No?{01 00 00 05 00} You don't really mean\nthat, do you, {01 00 00 05 00}{04 02 00}?\n\n{07 16 00}Because I just thought you\nmight like one, and I was\njust trying to be nice.",
-   "et": ""
+   "et": "{07 04 00}Ei?{01 00 00 05 00} Sa ei mõtle seda\ntõsiselt, ega, {01 00 00 05 00}{04 02 00}?\n\n{07 16 00}Sest ma lihtsalt arvasin, et\nsulle võiks üks meeldida, ja\nüritasin lihtsalt kena olla."
   },
   {
    "id": 5,
    "en": "{07 16 00}Oh, I see the way it is with\nyou, {01 00 00 05 00}{04 02 00}. Don't\nwant to try anything new?\n{07 0f 00}I thought you had a more\nadventurous spirit, but I\nguess I was wrong.",
-   "et": ""
+   "et": "{07 16 00}Oh, ma näen, kuidas sinuga\non, {01 00 00 05 00}{04 02 00}. Ei taha\nmidagi uut proovida?\n{07 0f 00}Ma arvasin, et sul on\nseiklushimu, aga vist\neksisin."
   },
   {
    "id": 6,
    "en": "{07 16 00}That's fine. {01 00 00 14 00}Don't even\nworry about it.\n\n{07 0f 00}I didn't think it would be\nthat easy to get rid\nof this thing, {01 00 00 05 00}{04 02 00}.",
-   "et": ""
+   "et": "{07 16 00}Pole viga. {01 00 00 14 00}Ära muretse\nselle pärast.\n\n{07 0f 00}Ma ei arvanudki, et sellest\nasjast on nii lihtne\nlahti saada, {01 00 00 05 00}{04 02 00}."
   },
   {
    "id": 7,
    "en": "{06 01 00 08 09 0a}",
-   "et": ""
+   "et": "{06 01 00 08 09 0a}"
   },
   {
    "id": 8,
    "en": "{07 14 00}Lucky me, {01 00 00 05 00}{04 02 00}!{01 00 00 0f 00}\n{07 0d 00}I'm so lucky I'm friends\nwith you, {04 1f 00}!\n{07 00 00}OK, it's a deal! Here's the\n{0b 02 00}{04 1b 00}\nI promised you!",
-   "et": ""
+   "et": "{07 14 00}Kui mul veab, {01 00 00 05 00}{04 02 00}!{01 00 00 0f 00}\n{07 0d 00}Mul on nii vedanud, et olen\nsinuga sõber, {04 1f 00}!\n{07 00 00}Olgu, kokkulepe! Siin on\n{0b 02 00}{04 1b 00},\nmille ma lubasin!"
   },
   {
    "id": 9,
    "en": "{07 04 00}Really?{01 00 00 0f 00} {07 14 00}So you'd be willing\nto take my stinky, old\n{0b 02 00}{04 1b 00}?\nThat's great!{01 00 00 0f 00} {07 00 00}If you insist!",
-   "et": ""
+   "et": "{07 04 00}Tõesti?{01 00 00 0f 00} {07 14 00}Nii et sa oleksid\nnõus võtma mu haiseva vana\n{0b 02 00}{04 1b 00}?\nSuurepärane!{01 00 00 0f 00} {07 00 00}Kui sa nõuad!"
   },
   {
    "id": 10,
    "en": "{07 14 00}Wow, {01 00 00 0a 00}that's great!{01 00 00 0a 00} {07 16 00}You have\nno idea how much of a\nfavor you're doing me.\n{07 14 00}As promised, here's my\n{0b 02 00}{04 1b 00}!\nThanks, {01 00 00 05 00}{04 02 00}.",
-   "et": ""
+   "et": "{07 14 00}Vau, {01 00 00 0a 00}suurepärane!{01 00 00 0a 00} {07 16 00}Sul pole\naimugi, kui suure teene\nsa mulle teed.\n{07 14 00}Nagu lubatud, siin on mu\n{0b 02 00}{04 1b 00}!\nAitäh, {01 00 00 05 00}{04 02 00}."
   },
   {
    "id": 11,
    "en": "{06 01 00 0c 0d 0e}",
-   "et": ""
+   "et": "{06 01 00 0c 0d 0e}"
   },
   {
    "id": 12,
    "en": "{07 0a 00}Thank you so much! {01 00 00 05 00}I didn't\nmean to be pushy, but I\nreally appreciate it.",
-   "et": ""
+   "et": "{07 0a 00}Suur tänu! {01 00 00 05 00}Ma ei tahtnud\npealetükkiv olla, aga ma\nhindan seda väga."
   },
   {
    "id": 13,
    "en": "{07 14 00}We ought to do this again\nsometime, {01 00 00 05 00}{04 02 00}.",
-   "et": ""
+   "et": "{07 14 00}Me peaksime seda kunagi\nuuesti tegema, {01 00 00 05 00}{04 02 00}."
   },
   {
    "id": 14,
    "en": "{07 0a 00}I certainly hope that\n{0b 02 00}{04 1b 00}\nlooks good in your room!",
-   "et": ""
+   "et": "{07 0a 00}Ma loodan kindlasti, et\n{0b 02 00}{04 1b 00}\nnäeb su toas hea välja!"
   },
   {
    "id": 15,
    "en": "{07 04 00}Really?{01 00 00 0f 00} Are you serious,\n{01 00 00 05 00}{04 02 00}?\n\n{07 16 00}I hope you're not too\ndisappointed, but {ff 00 00 07}IT{ff 00 00 00} is just\n{04 1b 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 14 00}Still, if that's what you're\nafter, {04 1f 00}, who am\nI to say no?",
-   "et": ""
+   "et": "{07 04 00}Tõesti?{01 00 00 0f 00} Kas sa oled tõsine,\n{01 00 00 05 00}{04 02 00}?\n\n{07 16 00}Ma loodan, et sa pole liiga\npettunud, aga {ff 00 00 07}SEE{ff 00 00 00} on vaid\n{04 1b 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 14 00}Ikkagi, kui sa seda tahad,\n{04 1f 00}, kes olen mina,\net ei öelda?"
   }
  ]
 }

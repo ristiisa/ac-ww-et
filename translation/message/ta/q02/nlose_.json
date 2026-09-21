@@ -4,17 +4,17 @@
   {
    "id": 0,
    "en": "{07 16 00}What?!{01 00 00 05 00} How could this\nhappen?! {01 00 00 05 00}How could you beat\nme to it, {01 00 00 0a 00}{04 02 00}?!",
-   "et": ""
+   "et": "{07 16 00}Mis?!{01 00 00 05 00} Kuidas see juhtuda\nsai?! {01 00 00 05 00}Kuidas sa jõudsid enne\nmind, {01 00 00 0a 00}{04 02 00}?!"
   },
   {
    "id": 1,
    "en": "How could it be?!{01 00 00 0a 00} You're too\nfast, {01 00 00 05 00}{04 02 00}!",
-   "et": ""
+   "et": "Kuidas see võimalik on?!{01 00 00 0a 00} Sa\noled liiga kiire, {01 00 00 05 00}{04 02 00}!"
   },
   {
    "id": 2,
    "en": "This wasn't a fair match!{01 00 00 0a 00}\nSure, you're fast, {01 00 00 0f 00}but you\nalso have opposable thumbs!",
-   "et": ""
+   "et": "See polnud aus matš!{01 00 00 0a 00}\nMuidugi oled kiire, {01 00 00 0f 00}aga sul\non ka pöidlad!"
   }
  ]
 }

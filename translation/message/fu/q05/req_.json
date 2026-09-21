@@ -4,17 +4,17 @@
   {
    "id": 0,
    "en": "{07 14 00}Hey, I'm trying to track\ndown some swank new\n{ff 00 00 07}{04 0f 00}{ff 00 00 00}.\n{0b 03 00}{04 1f 00}, would you like\nto help, {01 00 00 05 00}{04 02 00}?{01 00 00 05 00} {07 14 00}\nIt'd be more fun that way!",
-   "et": ""
+   "et": "{07 14 00}Hei, ma üritan üles leida\nmõnda uhket uut\n{ff 00 00 07}{04 0f 00}{ff 00 00 00}.\n{0b 03 00}{04 1f 00}, kas sa tahaksid\naidata, {01 00 00 05 00}{04 02 00}?{01 00 00 05 00} {07 14 00}\nNii oleks lõbusam!"
   },
   {
    "id": 1,
    "en": "{07 0b 00}Say, {04 1f 00}, what kind\nof furniture do you like?{01 00 00 0a 00}\nI know, out of the blue...\n{07 14 00}But there's a point!{01 00 00 0a 00} See,\nI'm definitely into\n{ff 00 00 07}{04 0f 00}{ff 00 00 00}!\n{07 00 00}'Cause it's simple on the\noutside, but tough on the\ninside.{01 00 00 0a 00} Just like me!",
-   "et": ""
+   "et": "{07 0b 00}Kuule, {04 1f 00}, milline\nmööbel sulle meeldib?{01 00 00 0a 00}\nTean, ootamatu küsimus...\n{07 14 00}Aga sellel on mõte!{01 00 00 0a 00} Vaata,\nmind huvitab kindlasti\n{ff 00 00 07}{04 0f 00}{ff 00 00 00}!\n{07 00 00}Sest see on väljast lihtne,\naga seest tugev.{01 00 00 0a 00} Täpselt\nnagu mina!"
   },
   {
    "id": 2,
    "en": "{07 00 00}{0b 03 00}{ff 00 00 07}{04 0f 00} \n{ff 00 00 00}makes me happy every time\nI see it, {04 02 00}!\n{07 14 00}Wouldn't it be great to\nhave a room full of it?{01 00 00 05 00}{07 03 00}\nYES, I'd leave room to walk!",
-   "et": ""
+   "et": "{07 00 00}{0b 03 00}{ff 00 00 07}{04 0f 00} \n{ff 00 00 00}teeb mind õnnelikuks iga\nkord, kui näen, {04 02 00}!\n{07 14 00}Kas poleks suurepärane, kui\ntuba oleks seda täis?{01 00 00 05 00}{07 03 00}\nJAH, ma jätaks käiguruumi!"
   }
  ]
 }

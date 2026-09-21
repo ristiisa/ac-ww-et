@@ -4,72 +4,72 @@
   {
    "id": 0,
    "en": "{07 0d 00}Whenever I watch fireworks,{01 00 00 05 00}\nall my problems and worries\njust fly away!\n{07 04 00}W-{01 00 00 05 00}what?{01 01 00}{07 03 00} Of COURSE I have\nproblems, {01 00 00 05 00}{04 02 00}!{01 00 00 0a 00} Even\nI'm not THAT perfect!",
-   "et": ""
+   "et": "{07 0d 00}Kui ma vaatan ilutulestikku,{01 00 00 05 00}\nlendavad kõik mu mured ja\nprobleemid lihtsalt minema!\n{07 04 00}M-{01 00 00 05 00}mis?{01 01 00}{07 03 00} MUIDUGI on mul\nprobleeme, {01 00 00 05 00}{04 02 00}!{01 00 00 0a 00} Isegi\nmina pole NII täiuslik!"
   },
   {
    "id": 1,
    "en": "{07 00 00}Y'know, whenever this time\nof year rolls around, I'm\nalways kinda tempted...\n{07 1c 00}Maybe I should hit the road\nand become a professional\nfirework{07 00 00}{07 0b 00}{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}um{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}girl.\n{07 00 00}{07 0e 00}Imagine the danger of it\nall{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}. {07 19 00}One mistake and{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{01 08 00}BOOM! {01 01 00}{07 03 00}How thrilling!",
-   "et": ""
+   "et": "{07 00 00}Tead, iga kord kui see\naastaaeg saabub, tunnen\nalati kiusatust...\n{07 1c 00}Äkki peaksin minema teele\nja hakkama elukutseliseks\nilutulestiku{07 00 00}{07 0b 00}{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}ee{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}tüdrukuks.\n{07 00 00}{07 0e 00}Kujuta ette, kui ohtlik see\non{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}. {07 19 00}Üks viga ja{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{01 08 00}PAUH! {01 01 00}{07 03 00}Kui põnev!"
   },
   {
    "id": 2,
    "en": "{07 14 00}YAAAAAY!{01 00 00 0a 00} YAAAAAAAYYYY!!!{01 01 00}\nWoooo hoooo!",
-   "et": ""
+   "et": "{07 14 00}JEEEEE!{01 00 00 0a 00} JEEEEEEEEE!!!{01 01 00}\nJuhhuuuu!"
   },
   {
    "id": 3,
    "en": "{07 14 00}Oooo... It's almost time for\nthe big huge GRAND FINALE!\nWhooo! I can't wait!\n{07 0d 00}I'm soooo excited, I think\nI'm gonna EXPLODE! {01 00 00 05 00}Just like\na FIRECRACKER, {04 02 00}!!",
-   "et": ""
+   "et": "{07 14 00}Ohhh... Varsti on aeg\nsuureks SUURFINAALIKS!\nUhuu! Ma ei jõua oodata!\n{07 0d 00}Olen nii elevil, et vist\nPLAHVATAN! {01 00 00 05 00}Just nagu\nPAUKPADRUN, {04 02 00}!!"
   },
   {
    "id": 4,
    "en": "{07 14 00}The fireworks are almost\nover...{01 00 00 0a 00} Soon we'll just have\nmemories of smoke and ash.\n{07 09 00}I hope people remember me\nonce I'm gone, too{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 14 00} Wow,\nthat's TOTALLY morbid...",
-   "et": ""
+   "et": "{07 14 00}Ilutulestik on peaaegu\nläbi...{01 00 00 0a 00} Varsti on meil vaid\nvaid suits ja tuhk.\n{07 09 00}Loodan, et mind mäletatakse\nka, kui olen läinud{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 14 00} Vau,\nsee on TÄIESTI morbiidne..."
   },
   {
    "id": 5,
    "en": "{07 14 00}Today's fireworks are nearly\nover, {01 00 00 05 00}{04 02 00}!{01 00 00 05 00} Wow, it\nhappened so fast...\n{07 16 00}Y'know, I thought LAST \nyear's fireworks were kinda\nbetter than these{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\nMaybe we're, like,{01 00 00 05 00}{07 0b 00} in a\nfirework recession...",
-   "et": ""
+   "et": "{07 14 00}Tänane ilutulestik on\npeaaegu läbi, {01 00 00 05 00}{04 02 00}!{01 00 00 05 00} Vau,\nsee läks nii kiiresti...\n{07 16 00}Tead, ma arvasin, et EELMISE\naasta ilutulestik oli\nveidi parem kui see{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\nEhk oleme, nagu,{01 00 00 05 00}{07 0b 00}\nilutulestikukriisis..."
   },
   {
    "id": 6,
    "en": "{07 0d 00}The {ff 00 00 03}Fireworks Show {ff 00 00 00}is\nTOTALLY starting!{01 00 00 0a 00} Yay!{ff 00 00 03}\n{ff 00 00 00}Yay yay yay, {01 00 00 05 00}{04 02 00}!\n{07 0a 00}YEEEAAAAAAHHH!!{01 00 00 05 00} WHOOO!!!{01 00 00 0a 00}\nOOOOOOOO!{01 00 00 0a 00} AAAAAAAHHHHH!!!{01 00 00 0a 00}\nWHOOOOOOOOOOAAAAAAAA!\n{07 17 00}Heh heh{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00} I dunno why I'm\nshouting like a crazy\nperson,{01 00 00 05 00} but it feels good!",
-   "et": ""
+   "et": "{07 0d 00}{ff 00 00 03}Ilutulestikushow {ff 00 00 00}on\nTÄIESTI algamas!{01 00 00 0a 00} Jee!{ff 00 00 03}\n{ff 00 00 00}Jee jee jee, {01 00 00 05 00}{04 02 00}!\n{07 0a 00}JAAAAAAA!!{01 00 00 05 00} UHUUU!!!{01 00 00 0a 00}\nOOOOOOOO!{01 00 00 0a 00} AAAAAAAHHHH!!!{01 00 00 0a 00}\nUHHHHHHHHAAAAAAAA!\n{07 17 00}Heh heh{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00} Ei tea, miks ma\nkarjun nagu hull\ninimene,{01 00 00 05 00} aga tunne on hea!"
   },
   {
    "id": 7,
    "en": "{07 00 00}The big {ff 00 00 03}Fireworks Show\n{ff 00 00 00}is here, {04 02 00}{01 00 00 0a 00}\n...What??{01 00 00 0a 00} ...WHAT??\n{07 0d 00}{01 08 00}THE FIREWORKS ARE TOO NOISY!{01 00 00 0a 00}\nYOU'LL HAVE TO, {01 00 00 03 00}LIKE,{01 00 00 03 00} YELL!!",
-   "et": ""
+   "et": "{07 00 00}Suur {ff 00 00 03}ilutulestikushow\n{ff 00 00 00}on käes, {04 02 00}{01 00 00 0a 00}\n...Mida??{01 00 00 0a 00} ...MIDA??\n{07 0d 00}{01 08 00}ILUTULESTIK ON LIIGA VALJU!{01 00 00 0a 00}\nSA PEAD, {01 00 00 03 00}NAGU,{01 00 00 03 00} KARJUMA!!"
   },
   {
    "id": 8,
    "en": "{07 14 00}The {ff 00 00 03}Fireworks Show {ff 00 00 00}just\nstarted, {01 00 00 05 00}{04 02 00}!\n\n{07 0d 00}I hope you totally enjoy it,\n{01 00 00 05 00}{04 1f 00}!",
-   "et": ""
+   "et": "{07 14 00}{ff 00 00 03}Ilutulestikushow {ff 00 00 00}algas just,\n{01 00 00 05 00}{04 02 00}!\n\n{07 0d 00}Loodan, et naudid seda\ntäiesti, {01 00 00 05 00}{04 1f 00}!"
   },
   {
    "id": 9,
    "en": "{07 04 00}Huh?!{01 01 00} What?!{01 01 00} WHAT?!\n\n\n{07 06 00}Sorry, {01 00 00 05 00}{04 02 00}! The\nfireworks are too loud!{01 00 00 05 00}\nI can't hear you!",
-   "et": ""
+   "et": "{07 04 00}Mis?!{01 01 00} Mida?!{01 01 00} MIDA?!\n\n\n{07 06 00}Vabandust, {01 00 00 05 00}{04 02 00}!\nIlutulestik on liiga vali!{01 00 00 05 00}\nMa ei kuule sind!"
   },
   {
    "id": 10,
    "en": "{07 14 00}This is the midpoint of \nthis year's {ff 00 00 03}Fireworks Show{ff 00 00 00}!\n\n{07 15 00}I feel like it's the mid-\npoint of my life, too!",
-   "et": ""
+   "et": "{07 14 00}See on selle aasta\n{ff 00 00 03}ilutulestikushow{ff 00 00 00} keskpunkt!\n\n{07 15 00}Mulle tundub, et see on ka\nmu elu keskpunkt!"
   },
   {
    "id": 11,
    "en": "{07 19 00}These awesome fireworks\nwouldn't be possible without\nthe firework creators...\n{07 13 00}Someday I wanna be able to\ndo something amazing for\neveryone to see!",
-   "et": ""
+   "et": "{07 19 00}Need vägevad ilutulestikud\npoleks võimalikud ilma\nilutulestiku tegijateta...\n{07 13 00}Kunagi tahan ma teha\nmidagi imelist, mida kõik\nsaaksid vaadata!"
   },
   {
    "id": 12,
    "en": "{07 0f 00}Oh...{01 00 00 0a 00} Today is the last\n{ff 00 00 03}Fireworks Show {ff 00 00 00}of the\nyear...\n{07 00 00}{07 0d 00}But I'm already looking\nforward to NEXT YEAR's\n{ff 00 00 03}Fireworks Show{ff 00 00 00}, {01 00 00 05 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 0f 00}Oi...{01 00 00 0a 00} Täna on selle aasta\nviimane {ff 00 00 03}ilutulestikushow\n{ff 00 00 00}...\n{07 00 00}{07 0d 00}Aga ma ootan juba\nJÄRGMISE AASTA\n{ff 00 00 03}ilutulestikushowd{ff 00 00 00}, {01 00 00 05 00}{04 02 00}!"
   },
   {
    "id": 13,
    "en": "{07 16 00}I'm gonna take one last look\nat this year's fireworks,\n{01 00 00 05 00}{04 02 00}!\n{07 10 00}Goodbye, {ff 00 00 03}Fireworks Show{ff 00 00 00}!{01 00 00 0a 00}\nGoodbye, pretty colors!{01 00 00 0a 00}\nGoodbye...\n{07 14 00}Aw, heck!{01 00 00 0a 00} I'm just gonna\nenjoy this now and get all\nmushy later, {01 00 00 05 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 16 00}Ma vaatan viimast korda\nselle aasta ilutulestikku,\n{01 00 00 05 00}{04 02 00}!\n{07 10 00}Hüvasti, {ff 00 00 03}ilutulestikushow{ff 00 00 00}!{01 00 00 0a 00}\nHüvasti, ilusad värvid!{01 00 00 0a 00}\nHüvasti...\n{07 14 00}Ah, mis seal!{01 00 00 0a 00} Ma lihtsalt\nnaudin seda nüüd ja lähen\npärast hellaks, {01 00 00 05 00}{04 02 00}!"
   }
  ]
 }

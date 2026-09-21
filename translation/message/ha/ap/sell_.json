@@ -4,107 +4,107 @@
   {
    "id": 0,
    "en": "{07 14 00}Yo yo,{01 00 00 05 00} {04 1f 00}!{01 01 00} It's\n{07 00 00}the {0b 02 00}{04 1c 00}\nyou've always wanted!\nI happen to have it on me!{01 00 00 05 00}\n{07 0b 00}How's {04 11 00} Bells sound?{02 00 00 03 0b}\nI'll buy it!\nNo thanks.",
-   "et": ""
+   "et": "{07 14 00}Jou jou,{01 00 00 05 00} {04 1f 00}!{01 01 00} See on\n{07 00 00}see {0b 02 00}{04 1c 00},\nmida sa oled alati tahtnud!\nJuhtumisi on see kaasas!{01 00 00 05 00}\n{07 0b 00}Kuidas kõlab {04 11 00}?{02 00 00 03 0b}\nMa ostan!\nEi, aitäh."
   },
   {
    "id": 1,
    "en": "{07 14 00}Hey, {ff 00 00 05}{04 1f 00}{ff 00 00 00}!{01 00 00 0a 00}\n{07 00 00}Listen, I know this comes\nout of the blue, but...\nWhy don't you buy my \n{0b 02 00}{04 1c 00} for\n{07 0b 00}{04 11 00} Bells?\n{07 06 00}Think of it as charity!{01 00 00 05 00}\nHelp me out, {01 00 00 05 00}{04 02 00}!{02 00 00 03 0b}\nFor you...OK!\nSorry.",
-   "et": ""
+   "et": "{07 14 00}Hei, {ff 00 00 05}{04 1f 00}{ff 00 00 00}!{01 00 00 0a 00}\n{07 00 00}Kuule, ma tean, et see\ntuleb ootamatult, aga...\nMiks sa ei osta minu \n{0b 02 00}{04 1c 00}\n{07 0b 00}{04 11 00} kelluka eest?\n{07 06 00}Mõtle, et see on heategu!{01 00 00 05 00}\nAita mind, {01 00 00 05 00}{04 02 00}!{02 00 00 03 0b}\nSinu pärast...olgu!\nVabandust."
   },
   {
    "id": 2,
    "en": "{07 00 00}Whoa, {04 1f 00}!{01 00 00 05 00}\nGood timing, {04 02 00}!\n\nAt this moment, {01 00 00 05 00}I have the\n{0b 02 00}{04 1c 00} on\nmy person!{01 00 00 05 00}\n{07 0b 00}How much are you willing to\npay for it, {01 00 00 05 00}{04 02 00}?{05 05 00 03 0f 05 10 05 10 03 14}\n10,000 Bells.\nZilch!",
-   "et": ""
+   "et": "{07 00 00}Ohoo, {04 1f 00}!{01 00 00 05 00}\nHea ajastus, {04 02 00}!\n\nPraegusel hetkel {01 00 00 05 00}on mul\n{0b 02 00}{04 1c 00}\nkaasas!{01 00 00 05 00}\n{07 0b 00}Kui palju sa oled nõus\nselle eest, {01 00 00 05 00}{04 02 00}?{05 05 00 03 0f 05 10 05 10 03 14}\n10 000 kellukest.\nMitte midagi!"
   },
   {
    "id": 3,
    "en": "{07 14 00}Sweet, {01 00 00 05 00}now you're talking,\n{01 00 00 05 00}{04 02 00}!\n\n{06 01 00 04 05 06}",
-   "et": ""
+   "et": "{07 14 00}Super, {01 00 00 05 00}nüüd sa räägid,\n{01 00 00 05 00}{04 02 00}!\n\n{06 01 00 04 05 06}"
   },
   {
    "id": 4,
    "en": "{07 00 00}I'm stoked to know you're\na good sport, {01 00 00 05 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 00 00}Ma olen elevil, et sa oled\nhea sell, {01 00 00 05 00}{04 02 00}!"
   },
   {
    "id": 5,
    "en": "{07 14 00}You got a killer deal!{01 00 00 0a 00}\nI guarantee it!",
-   "et": ""
+   "et": "{07 14 00}Sa said tapva tehingu!{01 00 00 0a 00}\nMa garanteerin!"
   },
   {
    "id": 6,
    "en": "{07 00 00}I didn't know you were\nso loaded, {01 00 00 05 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 00 00}Ma ei teadnudki, et sa\noled nii rikas, {01 00 00 05 00}{04 02 00}!"
   },
   {
    "id": 7,
    "en": "{06 01 00 08 09 0a}",
-   "et": ""
+   "et": "{06 01 00 08 09 0a}"
   },
   {
    "id": 8,
    "en": "{07 14 00}Catch you next time,{01 00 00 05 00}\n{ff 00 00 05}{04 1f 00}{ff 00 00 00}! {01 00 00 05 00}{0b 03 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 14 00}Näeme järgmine kord,{01 00 00 05 00}\n{ff 00 00 05}{04 1f 00}{ff 00 00 00}! {01 00 00 05 00}{0b 03 00}{04 02 00}!"
   },
   {
    "id": 9,
    "en": "{07 14 00}Thanks, {01 00 00 05 00}{ff 00 00 05}{04 1f 00}{ff 00 00 00}!\n{01 00 00 05 00}Rock on, {04 02 00}!",
-   "et": ""
+   "et": "{07 14 00}Aitäh, {01 00 00 05 00}{ff 00 00 05}{04 1f 00}{ff 00 00 00}!\n{01 00 00 05 00}Roki edasi, {04 02 00}!"
   },
   {
    "id": 10,
    "en": "{07 14 00}'Til next time,\n{04 02 00}!",
-   "et": ""
+   "et": "{07 14 00}Järgmise korrani,\n{04 02 00}!"
   },
   {
    "id": 11,
    "en": "{06 01 00 0c 0d 0e}",
-   "et": ""
+   "et": "{06 01 00 0c 0d 0e}"
   },
   {
    "id": 12,
    "en": "{07 04 00}Huh?! {01 00 00 05 00}Why the heck not?!{01 01 00}\n{07 06 00}You're my bud! {01 00 00 05 00}You're\nsupposed to buy it off me!",
-   "et": ""
+   "et": "{07 04 00}Ah?! {01 00 00 05 00}Miks mitte?!{01 01 00}\n{07 06 00}Sa oled mu semu! {01 00 00 05 00}Sa pead\nselle minult ära ostma!"
   },
   {
    "id": 13,
    "en": "{07 04 00}Whaaaaaaaaaaaat?!{01 01 00}\n{07 06 00}After all I did to get this\nfor you, {01 00 00 05 00}{04 02 00}?!",
-   "et": ""
+   "et": "{07 04 00}Miiiiiiiiiiiida?!{01 01 00}\n{07 06 00}Pärast kõike, mida tegin,\net see saada,{01 00 00 05 00}{04 02 00}?!"
   },
   {
    "id": 14,
    "en": "{07 15 00}Man, c'mon,{01 00 00 05 00} {ff 00 00 05}{04 1f 00}{ff 00 00 00}!{01 01 00}\n{07 16 00}I was counting on you to\nbuy it off me!\n{07 15 00}Fine, forget you! {01 00 00 05 00}I'm gonna\ngive it to {04 0b 00} for\nfree, how you like that?",
-   "et": ""
+   "et": "{07 15 00}Mees, ole nüüd,{01 00 00 05 00} {ff 00 00 05}{04 1f 00}{ff 00 00 00}!{01 01 00}\n{07 16 00}Ma lootsin, et sa ostad\nselle minult ära!\n{07 15 00}Olgu, unusta sind! {01 00 00 05 00}Ma annan\nselle {04 0b 00}le tasuta,\nkuidas see sulle meeldib?"
   },
   {
    "id": 15,
    "en": "{07 02 00}Whaaaaaaaaaaaaaat?!{01 01 00}\n{07 06 00}How could you say that with\na straight face?!\n{07 15 00}Man, I KNOW you know I\ngotta make a living too!",
-   "et": ""
+   "et": "{07 02 00}Miiiiiiiiiiiiida?!{01 01 00}\n{07 06 00}Kuidas sa saad seda öelda\nnäoilmet muutmata?!\n{07 15 00}Mees, ma TEAN, et sa tead,\net ka mina pean elama!"
   },
   {
    "id": 16,
    "en": "{06 01 00 11 12 12}",
-   "et": ""
+   "et": "{06 01 00 11 12 12}"
   },
   {
    "id": 17,
    "en": "{07 01 00}Huh?!{01 00 00 05 00} Hey!{01 00 00 05 00} What's with that\nvague answer, {01 00 00 05 00}{04 02 00}?!\n\n{07 10 00}Indecisive people really\nbum me out, {01 00 00 05 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 01 00}Ah?!{01 00 00 05 00} Hei!{01 00 00 05 00} Mis udune\nvastus see on, {01 00 00 05 00}{04 02 00}?!\n\n{07 10 00}Otsustusvõimetud inimesed\najavad norgu, {01 00 00 05 00}{04 02 00}!"
   },
   {
    "id": 18,
    "en": "{07 16 00}Hey,{01 00 00 0a 00} can't you make a\nsimple decision?{01 00 00 05 00} What's\nyour deal, {01 00 00 05 00}{04 02 00}?!\n.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}Fine, fine, I get it.{01 01 00}\n{07 06 00}Don't look at me like that!{01 01 00}\n{07 16 00}Ugh! {01 00 00 05 00}Whatever!",
-   "et": ""
+   "et": "{07 16 00}Hei,{01 00 00 0a 00} kas sa ei suuda teha\nlihtsat otsust?{01 00 00 05 00} Mis sul\nviga on, {01 00 00 05 00}{04 02 00}?!\n.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}Olgu, olgu, ma saan aru.{01 01 00}\n{07 06 00}Ära vaata mind niimoodi!{01 01 00}\n{07 16 00}Uhh! {01 00 00 05 00}Ükskõik!"
   },
   {
    "id": 19,
    "en": "{07 16 00}You're{01 00 00 05 00} a real pain\nsometimes, you know that?\n\n{07 15 00}Someday you're gonna take\nmy generosity for granted\nand it's gonna be GONE!",
-   "et": ""
+   "et": "{07 16 00}Sa oled{01 00 00 05 00} vahel tõeline\ntüütus, kas tead seda?\n\n{07 15 00}Kunagi pead sa mu heldust\niseenesestmõistetavaks ja\nsiis on see KADUNUD!"
   },
   {
    "id": 20,
    "en": "{07 02 00}Jumping jackrabbits{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n{07 06 00}10,000?{01 00 00 05 00} How many 100s is\nTHAT?!\n{07 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}Brain{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}locking{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}up{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\nLet's forget about this\nwhole thing,{01 00 00 05 00} {04 02 00}!",
-   "et": ""
+   "et": "{07 02 00}Hüppavad jänesed{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n{07 06 00}10 000?{01 00 00 05 00} Mitu sadat see\nOLEKS?!\n{07 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}Aju{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}lukustub{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}kinni{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\nUnustame kogu selle\nasja ära,{01 00 00 05 00} {04 02 00}!"
   }
  ]
 }

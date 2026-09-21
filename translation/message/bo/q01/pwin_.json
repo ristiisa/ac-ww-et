@@ -4,12 +4,12 @@
   {
    "id": 0,
    "en": "{07 04 00}What!{01 00 00 05 00} Don't tell me! Is that\n{04 1c 00}?",
-   "et": ""
+   "et": "{07 04 00}Mis!{01 00 00 05 00} Ära ütle! Kas see on\n{04 1c 00}?"
   },
   {
    "id": 1,
    "en": "{07 04 00}Ack! No! Tell me that's not\n{04 1c 00}!{01 01 00}\nWay to go, {04 1f 00}.",
-   "et": ""
+   "et": "{07 04 00}Ahh! Ei! Ütle, et see pole\n{04 1c 00}!{01 01 00}\nTubli töö, {04 1f 00}."
   }
  ]
 }

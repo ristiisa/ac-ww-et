@@ -4,17 +4,17 @@
   {
    "id": 0,
    "en": "{07 00 00}Aww.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} {07 14 00}Anyway, thanks!{01 00 00 14 00} If\nanything else comes up,{01 00 00 05 00}\nyou'll help me out, right?",
-   "et": ""
+   "et": "{07 00 00}Ohh{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}. {07 14 00}Igatahes, aitäh!{01 00 00 14 00} Kui\nmidagi veel tuleb,{01 00 00 05 00}\nsa aitad mind, eks?"
   },
   {
    "id": 1,
    "en": "{07 14 00}Nice work,{01 00 00 0a 00} {04 02 00}!\n{07 00 00}If anything else comes up,\nI'm going to you first!",
-   "et": ""
+   "et": "{07 14 00}Tubli töö,{01 00 00 0a 00} {04 02 00}!\n{07 00 00}Kui midagi veel tuleb,\ntulen kohe sinu juurde!"
   },
   {
    "id": 2,
    "en": "{07 19 00}Anyway, thanks,{01 00 00 0a 00}\n{04 02 00}.{07 14 00}",
-   "et": ""
+   "et": "{07 19 00}Igatahes, aitäh,{01 00 00 0a 00}\n{04 02 00}.{07 14 00}"
   }
  ]
 }

@@ -4,17 +4,17 @@
   {
    "id": 0,
    "en": "{07 04 00}My gift was a dud?{01 00 00 0f 00} I can't\neven begin to understand\nthat, {01 00 00 05 00}{04 02 00}!\n{07 00 00}{07 05 00}I guess that's what I get \nfor giving something decent\nto a tasteless yokel.",
-   "et": ""
+   "et": "{07 04 00}Mu kingitus oli mööda?{01 00 00 0f 00} Ma ei\nsuuda seda üldse mõista,\n{01 00 00 05 00}{04 02 00}!\n{07 00 00}{07 05 00}Vist saangi seda, kui annan\nmidagi korralikku\nmaitsetule külamatsile."
   },
   {
    "id": 1,
    "en": "{07 04 00}It didn't go over well?{01 00 00 05 00}\nWeird. {01 00 00 05 00}{07 05 00}Next time, I'll just \nsend a bunch of TRASH.",
-   "et": ""
+   "et": "{07 04 00}See ei läinud hästi peale?{01 00 00 05 00}\nImelik. {01 00 00 05 00}{07 05 00}Järgmisel korral\nsaadan hunniku PRÜGI."
   },
   {
    "id": 2,
    "en": "{07 04 00}What?! {01 00 00 05 00}The gift went over \nlike a lump of lunch meat?\n\n{07 15 00}Is it even possible to be\nmore ungrateful?! {01 00 00 05 00}That\nanimal has no taste.",
-   "et": ""
+   "et": "{07 04 00}Mida?! {01 00 00 05 00}Kingitus läks peale\nnagu külm lihatükk?\n\n{07 15 00}Kas saab olla veel\ntänamatum?! {01 00 00 05 00}Sellel loomal\npole maitset."
   }
  ]
 }

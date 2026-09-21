@@ -4,362 +4,362 @@
   {
    "id": 0,
    "en": "{07 1c 00}Hmm.{01 00 00 05 00}.{01 00 00 05 00}.{02 04 00 1e 00}\nWhat's wrong?\nGet to work!",
-   "et": ""
+   "et": "{07 1c 00}Hmm.{01 00 00 05 00}.{01 00 00 05 00}.{02 04 00 1e 00}\nMis viga?\nMine tööle!"
   },
   {
    "id": 1,
    "en": "{07 1c 00}Um.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{02 04 00 1f 00}\nWhat's up?\nZip it!",
-   "et": ""
+   "et": "{07 1c 00}Ee.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{02 04 00 1f 00}\nMis on?\nSuu kinni!"
   },
   {
    "id": 2,
    "en": "{07 1c 00}Ugh.{01 00 00 05 00}.{01 00 00 05 00}.{02 04 00 21 00}\nWhat happened?\nI don't care!",
-   "et": ""
+   "et": "{07 1c 00}Uhh.{01 00 00 05 00}.{01 00 00 05 00}.{02 04 00 21 00}\nMis juhtus?\nEi huvita!"
   },
   {
    "id": 3,
    "en": "{07 1c 00}Oh, dear.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{02 04 00 23 00}\nWhat's wrong?\nGet a shrink!",
-   "et": ""
+   "et": "{07 1c 00}Oh sa.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{02 04 00 23 00}\nMis viga?\nMine arsti juurde!"
   },
   {
    "id": 4,
    "en": "{07 1c 00}Well.{01 00 00 05 00}.{01 00 00 05 00}.{02 04 00 25 00}\nWhat's up?\nEnough chitchat!",
-   "et": ""
+   "et": "{07 1c 00}Noh.{01 00 00 05 00}.{01 00 00 05 00}.{02 04 00 25 00}\nMis on?\nAitab lobast!"
   },
   {
    "id": 5,
    "en": "{07 1c 00}Sigh.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{02 04 00 27 00}\nWhat's going on?\nGet to work!",
-   "et": ""
+   "et": "{07 1c 00}Ohh.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{02 04 00 27 00}\nMis toimub?\nMine tööle!"
   },
   {
    "id": 6,
    "en": "{07 1c 00}Oh, well{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{02 04 00 28 00}\nWhat's up?\nEnough of that!",
-   "et": ""
+   "et": "{07 1c 00}Oh, noh{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{02 04 00 28 00}\nMis on?\nAitab sellest!"
   },
   {
    "id": 7,
    "en": "{07 1c 00}How very strange.{01 00 00 05 00}.{01 00 00 05 00}.{02 04 00 29 00}\nWhat's wrong?\nI don't care!",
-   "et": ""
+   "et": "{07 1c 00}Kui imelik.{01 00 00 05 00}.{01 00 00 05 00}.{02 04 00 29 00}\nMis viga?\nEi huvita!"
   },
   {
    "id": 8,
    "en": "{07 1c 00}Sigh.{01 00 00 05 00}.{01 00 00 05 00}.{02 04 00 2b 00}\nWhat's up?\nGet to work!",
-   "et": ""
+   "et": "{07 1c 00}Ohh.{01 00 00 05 00}.{01 00 00 05 00}.{02 04 00 2b 00}\nMis on?\nMine tööle!"
   },
   {
    "id": 9,
    "en": "{07 1c 00}Oh, dear me{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{02 04 00 2d 00}\nWhat's going on?\nZip it!",
-   "et": ""
+   "et": "{07 1c 00}Oh heldeke{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{02 04 00 2d 00}\nMis toimub?\nSuu kinni!"
   },
   {
    "id": 10,
    "en": "{07 1c 00}Sigh.{01 00 00 05 00}.{01 00 00 05 00}.{02 04 00 2e 00}\nWhat's up?\nShush already!",
-   "et": ""
+   "et": "{07 1c 00}Ohh.{01 00 00 05 00}.{01 00 00 05 00}.{02 04 00 2e 00}\nMis on?\nOle vait juba!"
   },
   {
    "id": 11,
    "en": "{07 1c 00}Sigh.{01 00 00 05 00}.{01 00 00 05 00}.{02 04 00 2f 00}\nWhat's up?\nGet to work!",
-   "et": ""
+   "et": "{07 1c 00}Ohh.{01 00 00 05 00}.{01 00 00 05 00}.{02 04 00 2f 00}\nMis on?\nMine tööle!"
   },
   {
    "id": 12,
    "en": "{07 1c 00}Stupid {ff 00 00 06}Pelly{ff 00 00 00}!{02 04 00 31 00}\nWhat's wrong?\nEnough chitchat!",
-   "et": ""
+   "et": "{07 1c 00}Rumal {ff 00 00 06}Pelly{ff 00 00 00}!{02 04 00 31 00}\nMis viga?\nAitab lobast!"
   },
   {
    "id": 13,
    "en": "{07 02 00}You won't believe this!{02 04 00 33 00}\nWhat?! What?!\nI DON'T CARE!",
-   "et": ""
+   "et": "{07 02 00}Sa ei usu seda!{02 04 00 33 00}\nMis?! Mis?!\nEI HUVITA!"
   },
   {
    "id": 14,
    "en": "{07 1c 00}Oh, dear.{01 00 00 05 00}.{01 00 00 05 00}.{02 04 00 35 00}\nWhat's up?\nShush! Shush!",
-   "et": ""
+   "et": "{07 1c 00}Oh sa.{01 00 00 05 00}.{01 00 00 05 00}.{02 04 00 35 00}\nMis on?\nTšš! Tšš!"
   },
   {
    "id": 15,
    "en": "{07 1c 00}Oh, no.{01 00 00 05 00}.{01 00 00 05 00}.{02 04 00 36 00}\nWhat's going on?\nGet to work!",
-   "et": ""
+   "et": "{07 1c 00}Oh ei.{01 00 00 05 00}.{01 00 00 05 00}.{02 04 00 36 00}\nMis toimub?\nMine tööle!"
   },
   {
    "id": 16,
    "en": "{07 1c 00}Oh, no.{01 00 00 05 00}.{01 00 00 05 00}.{02 04 00 38 00}\nWhat's going on?\nGet to work!",
-   "et": ""
+   "et": "{07 1c 00}Oh ei.{01 00 00 05 00}.{01 00 00 05 00}.{02 04 00 38 00}\nMis toimub?\nMine tööle!"
   },
   {
    "id": 17,
    "en": "{07 1c 00}Oh, dear.{01 00 00 05 00}.{01 00 00 05 00}.{02 04 00 3a 00}\nWhat's wrong?\nGet a shrink!",
-   "et": ""
+   "et": "{07 1c 00}Oh sa.{01 00 00 05 00}.{01 00 00 05 00}.{02 04 00 3a 00}\nMis viga?\nMine arsti juurde!"
   },
   {
    "id": 18,
    "en": "{07 02 00}She did it again!{02 04 00 3b 00}\nWhat?! Tell me!\nI don't care!",
-   "et": ""
+   "et": "{07 02 00}Ta tegi seda jälle!{02 04 00 3b 00}\nMis?! Räägi!\nEi huvita!"
   },
   {
    "id": 19,
    "en": "{07 1c 00}Sigh.{01 00 00 05 00}.{01 00 00 05 00}.{02 04 00 3d 00}\nWhat's going on?\nCan it!",
-   "et": ""
+   "et": "{07 1c 00}Ohh.{01 00 00 05 00}.{01 00 00 05 00}.{02 04 00 3d 00}\nMis toimub?\nAitab!"
   },
   {
    "id": 20,
    "en": "{07 1c 00}Sigh.{01 00 00 05 00}.{01 00 00 05 00}.{02 04 00 3f 00}\nWhat is it?\nGet to work!",
-   "et": ""
+   "et": "{07 1c 00}Ohh.{01 00 00 05 00}.{01 00 00 05 00}.{02 04 00 3f 00}\nMis see on?\nMine tööle!"
   },
   {
    "id": 21,
    "en": "{07 1c 00}Well, there's always next\ntime.{01 00 00 05 00}.{01 00 00 05 00}.{02 04 00 41 00}\nWhat happened?\nGet to work!",
-   "et": ""
+   "et": "{07 1c 00}Noh, alati on järgmine\nkord.{01 00 00 05 00}.{01 00 00 05 00}.{02 04 00 41 00}\nMis juhtus?\nMine tööle!"
   },
   {
    "id": 22,
    "en": "{07 1c 00}Oh, no.{01 00 00 05 00}.{01 00 00 05 00}.{02 04 00 43 00}\nWhat's up?\nNot again.",
-   "et": ""
+   "et": "{07 1c 00}Oh ei.{01 00 00 05 00}.{01 00 00 05 00}.{02 04 00 43 00}\nMis on?\nMitte jälle."
   },
   {
    "id": 23,
    "en": "{07 1c 00}Hee hee hee!{02 04 00 44 00}\nWhat's up?\nGet to work!",
-   "et": ""
+   "et": "{07 1c 00}Hihihii!{02 04 00 44 00}\nMis on?\nMine tööle!"
   },
   {
    "id": 24,
    "en": "{07 1c 00}Hmm.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{02 04 00 45 00}\nWhat is it?\nGet to work!",
-   "et": ""
+   "et": "{07 1c 00}Hmm.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{02 04 00 45 00}\nMis see on?\nMine tööle!"
   },
   {
    "id": 25,
    "en": "{07 1c 00}Hmm{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{02 04 00 46 00}\nWhat's wrong?\nGet to work!",
-   "et": ""
+   "et": "{07 1c 00}Hmm{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{02 04 00 46 00}\nMis viga?\nMine tööle!"
   },
   {
    "id": 26,
    "en": "{06 01 00 1b 1c 1d}",
-   "et": ""
+   "et": "{06 01 00 1b 1c 1d}"
   },
   {
    "id": 27,
    "en": "{07 04 00}Oh, {01 00 00 05 00}I'm sorry.",
-   "et": ""
+   "et": "{07 04 00}Oh, {01 00 00 05 00}vabandust."
   },
   {
    "id": 28,
    "en": "{07 16 00}I'm sorry{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} I don't mean to\nbore you.",
-   "et": ""
+   "et": "{07 16 00}Vabandust{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} Ma ei taha sind\nära tüüdata."
   },
   {
    "id": 29,
    "en": "{07 16 00}Was I dumping on you?{01 00 00 0f 00} This\nis so embarrassing! {01 00 00 0a 00}I'm\never so sorry!",
-   "et": ""
+   "et": "{07 16 00}Kas ma koormasin sind?{01 00 00 0f 00} See\non nii piinlik! {01 00 00 0a 00}Mul on\nnii kahju!"
   },
   {
    "id": 30,
    "en": "{07 0e 00}I just can't remember how\nit went{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}. {01 01 00}{07 04 00}What?{01 00 00 0a 00} What went,\n{01 00 00 05 00}you ask?\n{07 16 00}Oh dear. I didn't mean to\nsay that out loud. {01 00 00 0f 00}This has\nnothing to do with my job,\nwhich means {01 00 00 05 00}I probably{01 00 00 05 00}\nshouldn't be thinking about\nit while I'm on the clock{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\nI'm so very sorry!",
-   "et": ""
+   "et": "{07 0e 00}Ma lihtsalt ei mäleta,\nkuidas see läks{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}. {01 01 00}{07 04 00}Mis?{01 00 00 0a 00} Mis,\n{01 00 00 05 00}küsid sa?\n{07 16 00}Oh sa. Ma ei tahtnud seda\nvaljusti öelda. {01 00 00 0f 00}Sel pole\nmu tööga mingit pistmist,\nmis tähendab, {01 00 00 05 00}et ma vist{01 00 00 05 00}\nei peaks sellele mõtlema,\nkui olen tööl{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\nMul on nii kahju!"
   },
   {
    "id": 31,
    "en": "{07 0b 00}Have you seen the poem\n\"{ff 00 00 02}Talking to Myself{ff 00 00 00}\" on the\n{04 03 00} {ff 00 00 08}bulletin board{ff 00 00 00}?{02 04 00 20 1a}\nTalking to myself?\nThat's enough.",
-   "et": ""
+   "et": "{07 0b 00}Kas oled näinud luuletust\n„{ff 00 00 02}Iseendaga rääkides{ff 00 00 00}”\n{04 03 00} {ff 00 00 08}teadetetahvlil{ff 00 00 00}?{02 04 00 20 1a}\nIseendaga?\nAitab küll."
   },
   {
    "id": 32,
    "en": "{07 00 00}I heard that it's{01 00 00 05 00} become\nquite popular among the\ntown's residents.\nIt's anonymous, so I think\npeople like that feeling of \nmystery. {01 01 00}{07 0e 00}Hmm, mystery{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n{07 00 00}The style is so simple {07 16 00}you'd\nthink someone{01 00 00 05 00} would figure\nout who wrote it{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 04 00}Oh, {01 00 00 05 00}but that's{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} {07 16 00}Why am I\neven bothering you with\nthis? {01 00 00 14 00}I'm so very sorry!",
-   "et": ""
+   "et": "{07 00 00}Kuulsin, et see on{01 00 00 05 00} muutunud\nlinna elanike seas\nüsna populaarseks.\nSee on anonüümne, nii et\ninimestele meeldib see \nsaladus. {01 01 00}{07 0e 00}Hmm, saladus{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n{07 00 00}Stiil on nii lihtne, {07 16 00}et võiks\narvata, et keegi{01 00 00 05 00} saab aru,\nkes selle kirjutas{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 04 00}Oh, {01 00 00 05 00}aga see on{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} {07 16 00}Miks ma\nsind sellega üldse\ntülitan? {01 00 00 14 00}Mul on nii kahju!"
   },
   {
    "id": 33,
    "en": "{07 16 00}I've always been very shy\nand introverted. Even when\nI wanted to say something,\nI never could! Then I'd go\nhome and be frustrated at\nmyself for not speaking up.{02 04 00 22 1a}\nPoor thing.\nEnough already.",
-   "et": ""
+   "et": "{07 16 00}Olen alati olnud häbelik\nja kinnine. Isegi kui ma\ntahtsin midagi öelda,\nei suutnud ma kunagi! Siis\nläksin koju ja olin enda\npeale pahane, et vaikisin.{02 04 00 22 1a}\nVaeseke.\nAitab juba."
   },
   {
    "id": 34,
    "en": "{07 00 00}I'd do anything to stop\nbeing like this, {01 00 00 05 00}but I was\nreading this book,\nand it said that many\nwriters are the same way.\n\n{07 16 00}While that made me feel\nbetter,{01 00 00 05 00} at the same time,{01 00 00 05 00}\nit made me really sad{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.",
-   "et": ""
+   "et": "{07 00 00}Teeksin ükskõik mida, et\nselline mitte olla, {01 00 00 05 00}aga ma\nlugesin üht raamatut\nja seal oli kirjas, et\npaljud kirjanikud on samad.\n\n{07 16 00}Kuigi see lohutas mind,\ntegi see{01 00 00 05 00} samal{01 00 00 05 00}\najal mind väga kurvaks{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}."
   },
   {
    "id": 35,
    "en": "{07 00 00}The other day, I was going\nto find a time when no one\nwas at the {ff 00 00 08}bulletin board{ff 00 00 00}.\nI was planning on writing\nsomething.{01 01 00} {07 16 00}But when I got\nthere, I ran into{ff 00 00 06} Pete{ff 00 00 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{02 04 00 24 1a}\nTell me more!\nEnough already!",
-   "et": ""
+   "et": "{07 00 00}Teine päev tahtsin leida\naja, kui kedagi pole\n{ff 00 00 08}teadetetahvli{ff 00 00 00} juures.\nPlaanisin midagi\nkirjutada.{01 01 00} {07 16 00}Aga kui ma sinna\njõudsin, kohtasin{ff 00 00 06} Pete'i{ff 00 00 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{02 04 00 24 1a}\nRäägi veel!\nAitab juba!"
   },
   {
    "id": 36,
    "en": "{07 16 00}My heart was racing, and I\nstarted pacing, not knowing\nwhat else to do!\n{07 04 00}\"N{01 00 00 05 00}-nice day isn't it?!\"{01 01 00}\n{07 16 00}That's{01 00 00 05 00} all I could force\nmyself to croak out!\n{07 1c 00}And {ff 00 00 06}Pete{ff 00 00 00}{01 00 00 05 00} just stared at me\nwith a blank look on his\nface{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 16 00}Oh, my.{01 00 00 05 00} I'm such an idiot.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\nDumb, {01 00 00 05 00}stupid {01 00 00 05 00}{ff 00 00 06}Pelly {ff 00 00 00}strikes\nagain{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.",
-   "et": ""
+   "et": "{07 16 00}Mu süda peksles ja ma\nhakkasin edasi-tagasi käima\nteadmata, mida teha!\n{07 04 00}„K{01 00 00 05 00}-kena ilm, eks?!”{01 01 00}\n{07 16 00}See{01 00 00 05 00} oli kõik, mida ma\nendast välja krooksuda!\n{07 1c 00}Ja {ff 00 00 06}Pete{ff 00 00 00}{01 00 00 05 00} lihtsalt jõllitas\nmind tühja ilmega\nnäol{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 16 00}Oh sa.{01 00 00 05 00} Olen selline idioot.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\nRumal, {01 00 00 05 00}loll {01 00 00 05 00}{ff 00 00 06}Pelly {ff 00 00 00}lööb\njälle{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}."
   },
   {
    "id": 37,
    "en": "{07 00 00}Before I come to work,{01 00 00 05 00} I\nlike to stop by the {ff 00 00 08}Roost{ff 00 00 00}\nin the {ff 00 00 08}museum{ff 00 00 00}.\n{07 14 00}I'll usually enjoy a nice cup\nof coffee to wake me up.{02 04 00 26 1a}\nThat's nice.\nEnough, enough!",
-   "et": ""
+   "et": "{07 00 00}Enne tööle tulekut{01 00 00 05 00} meeldib\nmulle põigata {ff 00 00 08}Roosti{ff 00 00 00}\n{ff 00 00 08}muuseumis{ff 00 00 00}.\n{07 14 00}Tavaliselt naudin head tassi\nkohvi, et ärgata.{02 04 00 26 1a}\nKena.\nAitab, aitab!"
   },
   {
    "id": 38,
    "en": "{07 00 00}It might be{01 00 00 05 00} because I've\nbeen staying up later,\nbut...\n{07 16 00}I've been having a really\nhard time getting up in the\nmorning{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 00 00}Some days I have to choose\nwhether to swipe my time\ncard or get coffee first.\nIt's like I have a devil on \none shoulder and an angel\non the other.\nMore often then not though,\nwith me {07 1c 00}the devil usually\ndoesn't win{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.",
-   "et": ""
+   "et": "{07 00 00}See võib olla{01 00 00 05 00} sellepärast,\net olen hilja üleval\nolnud, aga...\n{07 16 00}Mul on olnud väga raske\nhommikuti\nüles tõusta{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 00 00}Mõnel päeval pean valima,\nkas märkida end tööle\nvõi võtta enne kohvi.\nJustkui oleks mul kurat \nühel õlal ja ingel\nteisel.\nEnamasti aga\nminu puhul {07 1c 00}kurat\ntavaliselt ei võida{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}."
   },
   {
    "id": 39,
    "en": "{07 00 00}You know in the movies how \ncouples often meet in\ncoffee shops?\n{07 14 00}I wish that would happen in\nreal life.{01 01 00} It's one of my\ndreams.\n{07 0b 00}I wonder if {ff 00 00 06}Pete{ff 00 00 00} doesn't\nlike coffee or something?\n\n{07 16 00}I've never seen him at{01 00 00 05 00}\nthe {ff 00 00 08}Roost{ff 00 00 00}.{01 00 00 05 00} Not even {01 00 00 05 00}once.",
-   "et": ""
+   "et": "{07 00 00}Tead, kuidas filmides \npaarid sageli kohvikutes\nkohtuvad?\n{07 14 00}Soovin, et see juhtuks\npäriselus.{01 01 00} See on üks mu\nunistusi.\n{07 0b 00}Huvitav, kas {ff 00 00 06}Pete'ile{ff 00 00 00} ei\nmeeldi kohv või midagi?\n\n{07 16 00}Ma pole teda kunagi näinud{01 00 00 05 00}\n{ff 00 00 08}Roostis{ff 00 00 00}.{01 00 00 05 00} Mitte {01 00 00 05 00}kordagi."
   },
   {
    "id": 40,
    "en": "{07 00 00}The other day I asked{ff 00 00 06} Pete\n{ff 00 00 00}{07 14 00}if he liked to drink coffee.\nI had a plan, you see.\n{01 00 00 05 00}{07 00 00}If he said yes,{01 00 00 05 00} I thought I\ncould ask him if he'd like\nto join me for a cup.\n{07 16 00}But before I could put my\nbrilliant plan into effect,\nhe said{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 00 00}{01 04 00}\"{ff 00 00 02}Actually, I like hot cocoa\nbetter.{ff 00 00 00}\"{01 05 00}{01 01 00}{07 16 00} Oh, I felt so very\nfoolish!\n{07 0f 00}Even with his sweet tooth, {01 00 00 05 00}\n{ff 00 00 06}Pete {ff 00 00 00}can be awfully unsweet\nsometimes{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 14 00}",
-   "et": ""
+   "et": "{07 00 00}Teine päev küsisin{ff 00 00 06} Pete'ilt,\n{ff 00 00 00}{07 14 00}kas talle meeldib kohv.\nMul oli plaan, näed sa.\n{01 00 00 05 00}{07 00 00}Kui ta ütleb jah,{01 00 00 05 00} mõtlesin,\net võiksin küsida, kas ta\ntahaks minuga tassi juua.\n{07 16 00}Aga enne kui ma sain oma\nhiilgava plaani ellu viia,\nütles ta{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 00 00}{01 04 00}„{ff 00 00 02}Tegelikult meeldib mulle\nkuum kakao rohkem.{ff 00 00 00}”{01 05 00}{01 01 00}{07 16 00} Oh, ma\ntundsin end nii rumalana!\n{07 0f 00}Isegi magusasõbrana {01 00 00 05 00}oskab\n{ff 00 00 06}Pete {ff 00 00 00}olla kohutavalt\nebamagus{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 14 00}"
   },
   {
    "id": 41,
    "en": "{07 16 00}Ever since I found out that\n{ff 00 00 06}Pete {ff 00 00 00}doesn't like coffee, I\ndon't go to the {ff 00 00 08}Roost{ff 00 00 00} much.\nIt's just not very fun for\nme anymore.{02 04 00 2a 1a}\nChin up!\nGimme a break!",
-   "et": ""
+   "et": "{07 16 00}Kui ma teada sain,\net {ff 00 00 06}Pete'ile {ff 00 00 00}ei meeldi kohv,\nkäin {ff 00 00 08}Roostis{ff 00 00 00} harva.\nSee pole minu jaoks enam\neriti lõbus.{02 04 00 2a 1a}\nPea vastu!\nJäta järele!"
   },
   {
    "id": 42,
    "en": "{07 00 00}But let me tell you, when I\nwas feeling blue and sipping\nmy coffee down there,\n{07 14 00}{ff 00 00 06}Brewster {ff 00 00 00}walked up and \ngave me some odd advice.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\nHe said to me,\n{07 00 00}\"{ff 00 00 02}Rushing matters of the \nheart is counter-\nproductive{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{ff 00 00 00}\n\"{ff 00 00 02}A good cup of coffee has\nthe power to move men's\nhearts more than force{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{ff 00 00 00}\"\n{07 00 00}On one hand, those words{01 00 00 05 00} \nmade me feel better. But\non the other hand,\n{07 16 00}part of me felt like I'd\njust watched a commercial.{01 00 00 05 00}\nIt was all very perplexing.",
-   "et": ""
+   "et": "{07 00 00}Aga ütlen sulle, kui ma\nseal kurvana kohvi\nrüüpasin,\n{07 14 00}tuli {ff 00 00 06}Brewster {ff 00 00 00}ligi ja \nandis veidra nõu.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\nTa ütles mulle:\n{07 00 00}„{ff 00 00 02}Südameasjade tagant \nkiirustamine on\nkahjulik{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{ff 00 00 00}\n„{ff 00 00 02}Hea tass kohvi liigutab\nmeeste südameid rohkem\nkui jõud{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{ff 00 00 00}”\n{07 00 00}Ühelt poolt need sõnad{01 00 00 05 00} \nlohutasid mind. Aga\nteiselt poolt\n{07 16 00}tundus mulle, nagu oleksin\njust reklaami vaadanud.{01 00 00 05 00}\nSee oli väga hämmastav."
   },
   {
    "id": 43,
    "en": "{07 16 00}Oh, {ff 00 00 06}Pete{ff 00 00 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 01 00} Can't you see{01 00 00 05 00}\nhow hard I'm trying to get\nyou to notice me{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\nWhy can't I get you to\nlook my way?{02 04 00 2c 1a}\nAre you trying?\nShush!",
-   "et": ""
+   "et": "{07 16 00}Oh, {ff 00 00 06}Pete{ff 00 00 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 01 00} Kas sa ei näe,{01 00 00 05 00}\nkui kõvasti ma püüan, et sa\nmind märkaksid{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\nMiks ma ei suuda sind panna\nminu poole vaatama?{02 04 00 2c 1a}\nKas sa püüad?\nTšš!"
   },
   {
    "id": 44,
    "en": "{07 16 00}Of course! I straighten my\nwings when he's around and\npolish my beak daily.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n{07 04 00}Oh, {01 00 00 05 00}goodness!{01 01 00} {07 16 00}I'm at work!{01 00 00 05 00}\nWhat am I talking about?!",
-   "et": ""
+   "et": "{07 16 00}Muidugi! Ma sirutan tiibu,\nkui ta läheduses on, ja\npoleerin iga päev nokka.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n{07 04 00}Oh, {01 00 00 05 00}heldeke!{01 01 00} {07 16 00}Ma olen tööl!{01 00 00 05 00}\nMillest ma räägin?!"
   },
   {
    "id": 45,
    "en": "{07 16 00}No matter how hard I try,{01 00 00 05 00}\nor how long I wait, {ff 00 00 06}Pete{ff 00 00 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0f 00}\njust doesn't notice me.\nI think I have to be more\nup front and aggressive in\nmy approach.\n{07 0f 00}B{01 00 00 05 00}-but I{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} I just can't work\nup the courage to do it{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\nIt's so pathetic.\n{07 16 00}If I were my sister, I'd\nbe able to say {01 00 00 05 00}whatever I \nwanted to{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}. From the hip!",
-   "et": ""
+   "et": "{07 16 00}Ükskõik kui kõvasti püüan,{01 00 00 05 00}\nvõi kui kaua ootan, {ff 00 00 06}Pete{ff 00 00 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0f 00}\nlihtsalt ei märka mind.\nArvan, et pean olema\notsekohesem ja julgem\noma lähenemises.\n{07 0f 00}A{01 00 00 05 00}-aga ma{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} Ma lihtsalt ei\nsuuda julgust koguda{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\nSee on nii haletsusväärne.\n{07 16 00}Kui ma oleksin oma õde,\nsuudaksin öelda {01 00 00 05 00}kõike, mida \ntahan{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}. Otse puusalt!"
   },
   {
    "id": 46,
    "en": "{07 16 00}I think about {ff 00 00 06}Pete {ff 00 00 00}all the\ntime, and yet{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}. {07 04 00}Do you\nthink maybe{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 16 00}Do you think maybe{01 00 00 05 00} {ff 00 00 06}Pete\n{ff 00 00 00}has a crush on someone\nelse already?\n{07 0f 00}No.{01 00 00 05 00} It can't be{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.",
-   "et": ""
+   "et": "{07 16 00}Ma mõtlen {ff 00 00 06}Pete'ile {ff 00 00 00}kogu\naeg, ja ometi{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}. {07 04 00}Kas sa\narvad, et ehk{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 16 00}Kas sa arvad, et ehk{01 00 00 05 00} {ff 00 00 06}Pete\n{ff 00 00 00}on juba kellessegi teise\narmunud?\n{07 0f 00}Ei.{01 00 00 05 00} See ei saa olla{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}."
   },
   {
    "id": 47,
    "en": "{07 00 00}I've been watching {ff 00 00 06}Pete{ff 00 00 00}'s\nbehavior lately{01 00 00 05 00} for signs\nof a crush.\n{07 16 00}Do you think maybe, {01 00 00 05 00}just\nmaybe{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{07 06 00}his crush could\nbe{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{02 04 00 30 1a}\nOh, I know!\nStop it!",
-   "et": ""
+   "et": "{07 00 00}Olen viimasel ajal jälginud\n{ff 00 00 06}Pete'i{ff 00 00 00} käitumist{01 00 00 05 00} armumise\nmärkide otsimiseks.\n{07 16 00}Kas sa arvad, et{01 00 00 05 00} ehk,\nlihtsalt ehk{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{07 06 00}on tema arm\nhoopis{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{02 04 00 30 1a}\nOh, ma tean!\nLõpeta!"
   },
   {
    "id": 48,
    "en": "{07 04 00}No!{01 00 00 0f 00} {ff 00 00 06}Pelly{ff 00 00 00}, stop!{01 00 00 05 00} Why do I\nalways do this?\n\n{07 16 00}I jump to conclusions{01 00 00 05 00}\nwithout any hard evidence!\n{07 15 00}I have to pull it together!{01 00 00 05 00}\nI'll go ask {ff 00 00 06}Pete{ff 00 00 00} myself!{01 00 00 05 00}\nSimple as that!",
-   "et": ""
+   "et": "{07 04 00}Ei!{01 00 00 0f 00} {ff 00 00 06}Pelly{ff 00 00 00}, lõpeta!{01 00 00 05 00} Miks ma\nteen alati nii?\n\n{07 16 00}Ma teen järeldusi{01 00 00 05 00}\nilma igasuguste tõenditeta!\n{07 15 00}Pean end kokku võtma!{01 00 00 05 00}\nLähen ise {ff 00 00 06}Pete'i{ff 00 00 00} küsin!{01 00 00 05 00}\nNii lihtne see ongi!"
   },
   {
    "id": 49,
    "en": "{07 00 00}I'd decided that today was\ngoing to be the day.{01 00 00 05 00} The\nday that I confront {ff 00 00 06}Pete{ff 00 00 00}.\n{07 16 00}I was going to ask him if \nthere was someone he was \ninterested in{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 00 00}But{01 00 00 05 00} as soon as I looked\nat his downy face{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n\n{07 16 00}I forgot my courage and\nthe question I was going\nto ask him.{02 04 00 32 1a}\nWhy?\nEnough!",
-   "et": ""
+   "et": "{07 00 00}Olin otsustanud, et täna\non see päev.{01 00 00 05 00} Päev,\nmil ma {ff 00 00 06}Pete'iga{ff 00 00 00} räägin.\n{07 16 00}Kavatsesin küsida, kas \nkeegi teda huvitab\n{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 00 00}Aga{01 00 00 05 00} niipea kui ma vaatasin\nta udusulgset nägu{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n\n{07 16 00}unustasin ma oma julguse ja\nküsimuse, mida kavatsesin\ntalt küsida.{02 04 00 32 1a}\nMiks?\nAitab!"
   },
   {
    "id": 50,
    "en": "{07 16 00}Because{01 00 00 05 00} on {ff 00 00 06}Pete{ff 00 00 00}'s cheek{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 06 00}There was a red mark.{01 00 00 05 00} Like\nhe'd been slapped!\n{07 15 00}He'd have to have gotten \nslapped really hard for it\nto leave a mark like that.\n{07 16 00}I think it's best{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.for us to\njust let him take it easy\nfor now.",
-   "et": ""
+   "et": "{07 16 00}Sest{01 00 00 05 00} {ff 00 00 06}Pete'i{ff 00 00 00} põsel{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 06 00}oli punane jälg.{01 00 00 05 00} Nagu\noleks talle antud kõrvakiilu!\n{07 15 00}Ta pidi saama väga kõva \nkõrvakiilu, et selline\njälg jääks.\n{07 16 00}Arvan, et parem{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.on lasta\ntal praegu lihtsalt\nrahulikult võtta."
   },
   {
    "id": 51,
    "en": "{07 0e 00}That slap mark on {ff 00 00 06}Pete{ff 00 00 00}'s\nface the other day{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n\n{07 0e 00}Do you think that maybe his\ngirlfriend slapped him{01 00 00 05 00} when\nhe dumped her?\n{07 00 00}I asked my sister what she\nthought, and {07 16 00}all I got from\nher were harsh words{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{02 04 00 34 1a}\nLike what?\nStop, please.",
-   "et": ""
+   "et": "{07 0e 00}See kõrvakiilu jälg {ff 00 00 06}Pete'i{ff 00 00 00}\nnäol teine päev{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n\n{07 0e 00}Kas sa arvad, et ehk andis\nta tüdruk talle kõrvakiilu,{01 00 00 05 00}\nkui ta ta maha jättis?\n{07 00 00}Küsisin õelt, mida tema\narvab, ja {07 16 00}sain temalt\nainult karme sõnu{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{02 04 00 34 1a}\nNäiteks?\nLõpeta, palun."
   },
   {
    "id": 52,
    "en": "{07 15 00}\"{ff 00 00 02}Not to bad-mouth anyone,{01 00 00 05 00}\nbut I'd stay away from that\nfool if I were you!{ff 00 00 00}\"{07 00 00}\n{07 16 00}I know that my sister is\nstronger and a lot more\nmature than I am, but\nshe didn't have to be that\nmean{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 01 00} {07 0f 00}Hrm{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.",
-   "et": ""
+   "et": "{07 15 00}„{ff 00 00 02}Ma ei taha kedagi laita,{01 00 00 05 00}\naga sinu asemel hoiaksin\nsellest lollist eemale!{ff 00 00 00}”{07 00 00}\n{07 16 00}Ma tean, et mu õde on\ntugevam ja palju\nküpsem kui mina, aga\nta ei pidanud nii\nõel olema{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 01 00} {07 0f 00}Hrm{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}."
   },
   {
    "id": 53,
    "en": "{ff 00 00 06}{07 16 00}Phyllis{ff 00 00 00}{01 00 00 05 00} has been really on \nedge lately{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n\nShe's always chewing gum to\nkeep from grinding her\nteeth!\n{07 0e 00}I ask her what's wrong, but\nshe won't tell me{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n\n{07 16 00}I wonder what in the\nworld is bothering her{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 01 00}\nI'm really worried.",
-   "et": ""
+   "et": "{ff 00 00 06}{07 16 00}Phyllis{ff 00 00 00}{01 00 00 05 00} on viimasel ajal \nväga närvis{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n\nTa närib kogu aeg nätsu, et\nmitte hambaid\nkiristada!\n{07 0e 00}Küsin, mis viga, aga\nta ei ütle mulle{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n\n{07 16 00}Huvitav, mis teda\nküll vaevab{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 01 00}\nMa olen tõesti mures."
   },
   {
    "id": 54,
    "en": "{07 00 00}My sister has been chewing\na lot of gum lately.\n\n{07 16 00}Even long after the flavor\nis gone,{01 00 00 05 00} she still keeps \nchewing it{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{02 04 00 37 1a}\nBad sign.\nSo what?",
-   "et": ""
+   "et": "{07 00 00}Mu õde närib viimasel ajal\npalju nätsu.\n\n{07 16 00}Isegi kaua pärast seda, kui\nmaitse on kadunud,{01 00 00 05 00} närib ta\nseda edasi{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{02 04 00 37 1a}\nHalb märk.\nNo ja siis?"
   },
   {
    "id": 55,
    "en": "{07 00 00}If that was all, I wouldn't\nbe so worried, but{01 01 00} {07 16 00}on top\nof that{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 06 00}She doesn't spit her gum\nout when she's done.{01 00 00 05 00} She\njust swallows it every time!\n{07 16 00}I hate to be so indelicate,{01 00 00 05 00}\nbut at this rate, she's\ngoing to be blocked up{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 06 00}For the next seven years!",
-   "et": ""
+   "et": "{07 00 00}Kui see oleks kõik, ei oleks\nma nii mures, aga{01 01 00} {07 16 00}lisaks\nsellele{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 06 00}Ta ei sülita nätsu välja,\nkui ta lõpetab.{01 00 00 05 00} Ta\nneelab selle iga kord alla!\n{07 16 00}Ma ei taha ebaviisakas olla,{01 00 00 05 00}\naga sellise tempoga läheb\ntal kõht kinni{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 06 00}Seitsmeks aastaks!"
   },
   {
    "id": 56,
    "en": "{07 16 00}My sister's been{01 00 00 05 00} so\nstressed out that she\nchews gum all the time!\n{07 00 00}So I got her a present{01 00 00 05 00}\nto make her feel better{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{02 04 00 39 1a}\nWhat was it?\nEnough! Please!",
-   "et": ""
+   "et": "{07 16 00}Mu õde on olnud{01 00 00 05 00} nii\nstressis, et ta närib\nkogu aeg nätsu!\n{07 00 00}Nii et ostsin talle kingi,{01 00 00 05 00}\net tuju parandada{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{02 04 00 39 1a}\nMis see oli?\nAitab! Palun!"
   },
   {
    "id": 57,
    "en": "{07 14 00}Sugarless peppermint gum!{01 01 00}\n{07 00 00}This way, no matter how \nmuch she chews,\nshe won't gain weight, and\nmore importantly,{01 00 00 05 00} her teeth\nwon't fall out of her head!",
-   "et": ""
+   "et": "{07 14 00}Suhkruvaba piparmündinäts!{01 01 00}\n{07 00 00}Nii ta kaalus juurde ei võta\nükskõik kui palju ta närib,\nja mis veel tähtsam,{01 00 00 05 00}\ntema hambad ei kuku\npeast välja!"
   },
   {
    "id": 58,
    "en": "{07 1c 00}Well, {01 00 00 05 00}the other day I got in\na fight with {ff 00 00 06}Phyllis {ff 00 00 00}because{07 16 00}\nshe bad-mouthed poor {ff 00 00 06}Pete{ff 00 00 00}.\n{07 00 00}I didn't think it was fair\nfor her to call someone\nwho is kind and honest \n{07 15 00}\"simply stupid\"{01 00 00 05 00} without a\nreason,{01 00 00 05 00} so I told her off!",
-   "et": ""
+   "et": "{07 1c 00}Noh, {01 00 00 05 00}teine päev läks mul\n{ff 00 00 06}Phyllisega {ff 00 00 00}tüli, sest{07 16 00}\nta laitis vaest {ff 00 00 06}Pete'i{ff 00 00 00}.\n{07 00 00}Ma ei pidanud õiglaseks,\net ta nimetab kedagi,\nkes on lahke ja aus, \n{07 15 00}„lihtsalt lolliks”{01 00 00 05 00} ilma\npõhjuseta,{01 00 00 05 00} ja ma vastasin!"
   },
   {
    "id": 59,
    "en": "{07 16 00}Well, {01 00 00 05 00}the other day {ff 00 00 06}Phyllis{ff 00 00 00}\nand I got in a huge fight{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n\n{07 00 00}It was the same thing we \nalways fight about.{01 00 00 05 00}\nShe bad-mouthed {ff 00 00 06}Pete{ff 00 00 00} again.\n{07 15 00}I just couldn't keep it in\nany longer{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{02 04 00 3c 1a}\nWhat happened?\nEnough already!",
-   "et": ""
+   "et": "{07 16 00}Noh, {01 00 00 05 00}teine päev läks mul\n{ff 00 00 06}Phyllisega{ff 00 00 00} suur tüli{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n\n{07 00 00}See oli sama asi, mille \npärast me alati tülitseme.{01 00 00 05 00}\nTa laitis jälle {ff 00 00 06}Pete'i{ff 00 00 00}.\n{07 15 00}Ma lihtsalt ei suutnud seda\nenam kinni hoida{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{02 04 00 3c 1a}\nMis juhtus?\nAitab juba!"
   },
   {
    "id": 60,
    "en": "{07 15 00}I shouted at her, \"{ff 00 00 02}Phyllis!\nI know you're lonely because\nyou don't have a love life!{ff 00 00 00}\n\"{ff 00 00 02}But that doesn't mean you\nshould butt into mine!{ff 00 00 00}\"{01 01 00}\n{07 00 00}I didn't know I had it in me.\n{07 16 00}Then {ff 00 00 06}{01 00 00 05 00}Phyllis {ff 00 00 00}looked so\ndepressed{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.and I felt really\nbad.\nI'm the worst sister in the\nworld.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{01 01 00} {07 06 00}I have to make\nthings OK between us again!",
-   "et": ""
+   "et": "{07 15 00}Ma karjusin: „{ff 00 00 02}Phyllis!\nTean, et sa oled üksildane,\nsest sul pole armuelu!{ff 00 00 00}\n„{ff 00 00 02}Aga see ei tähenda, et sa\npeaksid minu ellu tikkuma!{ff 00 00 00}”{01 01 00}\n{07 00 00}Ma ei teadnud, et suudan.\n{07 16 00}Siis nägi {ff 00 00 06}{01 00 00 05 00}Phyllis {ff 00 00 00}nii\nmasendunud{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.ja mul hakkas\nväga halb.\nOlen maailma halvim\nõde.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{01 01 00} {07 06 00}Pean asjad\nmeie vahel korda tegema!"
   },
   {
    "id": 61,
    "en": "{07 00 00}The other day{01 00 00 05 00} I made\n{ff 00 00 06}Phyllis {ff 00 00 00}so mad at me!\n\nI wanted to make it up to\nher, so I baked her a\ncake!{02 04 00 3e 1a}\nHow nice!\nSo what?",
-   "et": ""
+   "et": "{07 00 00}Teine päev{01 00 00 05 00} ajasin ma\n{ff 00 00 06}Phyllise {ff 00 00 00}nii vihaseks!\n\nTahtsin seda heastada,\nnii et küpsetasin talle\nkoogi!{02 04 00 3e 1a}\nKui kena!\nNo ja siis?"
   },
   {
    "id": 62,
    "en": "{07 0e 00}I did it because{01 00 00 05 00} she loves\ncake{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}. {07 00 00}I know we were both\nreally upset,\nand we both said some\nharsh things, but in the\nend she said,\n{07 15 00}\"{ff 00 00 02}Now everything is back to\nthe way it should be!{ff 00 00 00}\"{01 01 00}{07 00 00} Like\nwater under the bridge{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 16 00}She's so mature{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} She can\nface any kind of stress and\nstay cool as a cucumber!{07 00 00}\nI could learn a lot from\nher. {01 01 00}{07 14 00}And if I do that,\nmaybe {ff 00 00 06}Pete{ff 00 00 00} will notice me!",
-   "et": ""
+   "et": "{07 0e 00}Tegin seda, sest{01 00 00 05 00} ta armas-\ntab kooki{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}. {07 00 00}Tean, et olime\nmõlemad väga endast väljas\nja me mõlemad ütlesime\nkarme sõnu, aga lõpuks\nütles ta:\n{07 15 00}„{ff 00 00 02}Nüüd on kõik jälle nii,\nnagu peab!{ff 00 00 00}”{01 01 00}{07 00 00} Nagu vesi\nsilla all{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 16 00}Ta on nii küps{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} Ta suudab\niga stressiga toime tulla ja\njääda jahedaks nagu kurk!{07 00 00}\nVõiksin temalt palju\nõppida. {01 01 00}{07 14 00}Ja kui ma seda teen\nehk märkab {ff 00 00 06}Pete{ff 00 00 00} mind!"
   },
   {
    "id": 63,
    "en": "{07 00 00}{0b 03 00}{04 00 00}, {07 0b 00}have you ever\nbeen in love? {07 00 00}I think love\nstarts unexpectedly.\n{07 0e 00}Yes, it always starts from\nsome seemingly meaningless\nthing{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{02 04 00 40 1a}\nWhat happened?\nSpare me!",
-   "et": ""
+   "et": "{07 00 00}{0b 03 00}{04 00 00}, {07 0b 00}kas sa oled\nkunagi armunud? {07 00 00}Arm\nalgab ootamatult.\n{07 0e 00}Jah, see algab millestki\nnäiliselt tähtsusetust\n{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{02 04 00 40 1a}\nMis juhtus?\nSäästa mind!"
   },
   {
    "id": 64,
    "en": "{07 04 00}Oh,{01 00 00 0f 00} well{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} {07 00 00}This morning {ff 00 00 06}Pete\n{ff 00 00 00}came up to me and said,\n{07 14 00}\"{ff 00 00 02}Oh, hey!{01 00 00 05 00} Good morning!{ff 00 00 00}\"\nThat's right!{01 00 00 05 00} He noticed me\nand said hi! {01 00 00 05 00}{07 00 00}Usually all he\nsays is \"Mornin'.\"\n{07 0b 00}So what do you think it\nmeans?{01 01 00} {07 00 00}Could it be?{01 00 00 0f 00} {07 13 00}Maybe\n{ff 00 00 06}Pete{ff 00 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}?",
-   "et": ""
+   "et": "{07 04 00}Oh,{01 00 00 0f 00} noh{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} {07 00 00}Täna tuli{ff 00 00 06} Pete\n{ff 00 00 00}minu juurde ja ütles:\n{07 14 00}„{ff 00 00 02}Oh, tere!{01 00 00 05 00} Head hommikut!{ff 00 00 00}”\nJust nii!{01 00 00 05 00} Ta märkas mind\nja tervitas! {01 00 00 05 00}{07 00 00}Tavaliselt\nütleb ta vaid „Hommikust”.\n{07 0b 00}Mis sa arvad, mida see\ntähendab?{01 01 00} {07 00 00}Kas võib olla?{01 00 00 0f 00}{07 13 00}Ehk\n{ff 00 00 06}Pete{ff 00 00 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.?"
   },
   {
    "id": 65,
    "en": "{07 00 00}I'm talking about {ff 00 00 06}Pete{ff 00 00 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n{07 15 00}Next time! {01 00 00 05 00}Next time, I'm\nsure he'll{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{02 04 00 42 1a}\nHe's interested?\nSpare me!",
-   "et": ""
+   "et": "{07 00 00}Ma räägin {ff 00 00 06}Pete'ist{ff 00 00 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n{07 15 00}Järgmine kord! {01 00 00 05 00}Siis ta\nkindlasti{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{02 04 00 42 1a}\nTa on huvitatud?\nSäästa mind!"
   },
   {
    "id": 66,
    "en": "{07 06 00}Do you really think so?!{01 00 00 0a 00}\n{07 14 00}Well, if you think so, too,\nit could really be true!\n{07 00 00}Think about it!{01 00 00 05 00} The other\nday,{01 00 00 05 00} I caught {ff 00 00 06}Pete{ff 00 00 00} staring\nat me{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 14 00}And then,{01 01 00} when I looked at\nhim,{01 00 00 05 00} he turned away{01 00 00 05 00}\nas fast as he could!\n{07 0d 00}This is the start of \na romance! I'm sure of it!",
-   "et": ""
+   "et": "{07 06 00}Kas sa tõesti arvad?!{01 00 00 0a 00}\n{07 14 00}Noh, kui sina ka nii arvad,\nsiis võib see tõsi olla!\n{07 00 00}Mõtle järele!{01 00 00 05 00} Teine\npäev{01 00 00 05 00} tabasin {ff 00 00 06}Pete'i{ff 00 00 00} mind\njõllitamas{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 14 00}Ja siis,{01 01 00} kui ma teda\nvaatasin,{01 00 00 05 00} pööras ta ära{01 00 00 05 00}\nnii kiiresti kui sai!\n{07 0d 00}See on romansi algus! \nOlen selles kindel!"
   },
   {
    "id": 67,
    "en": "{ff 00 00 06}{07 16 00}Pete{ff 00 00 00} didn't{01 00 00 05 00} say hi to me\ntoday{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}. {07 1c 00}What am I going to\ndo.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\nDo you think I did\nsomething wrong?\n\n{07 16 00}Or maybe I DIDN'T do\nsomething, and {01 00 00 05 00}that's why\n{ff 00 00 06}Pete{ff 00 00 00} hates me{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.",
-   "et": ""
+   "et": "{ff 00 00 06}{07 16 00}Pete{ff 00 00 00} ei{01 00 00 05 00} tervitanud mind\ntäna{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}. {07 1c 00}Mida ma nüüd\nteen.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\nKas sa arvad, et ma\ntegin midagi valesti?\n\n{07 16 00}Või ehk ma EI TEINUD\nmidagi ja {01 00 00 05 00}sellepärast\n{ff 00 00 06}Pete{ff 00 00 00} mind vihkab{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}."
   },
   {
    "id": 68,
    "en": "{07 14 00}Yay! I'm so happy because \n{ff 00 00 06}Pete{ff 00 00 00} said hi to me today!\n\n{07 00 00}I don't think he hated me \nat all. I think that was\njust in my head.\n{07 14 00}Tee hee{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0f 00} Well, I guess\nthat's kind of obvious.\n\nBecause I{01 00 00 05 00} haven't really\ndone anything yet{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.",
-   "et": ""
+   "et": "{07 14 00}Jee! Olen nii õnnelik, sest \n{ff 00 00 06}Pete{ff 00 00 00} tervitas mind täna!\n\n{07 00 00}Ma ei usu, et ta mind \nvihkas. Arvan, et see oli\nlihtsalt minu peas.\n{07 14 00}Hihii{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0f 00} Noh, vist on see\nüsna ilmne.\n\nSest ma{01 00 00 05 00} pole veel\ntegelikult midagi teinud{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}."
   },
   {
    "id": 69,
    "en": "{07 16 00}I don't think {ff 00 00 06}Phyllis{ff 00 00 00}{01 00 00 05 00} is very\nfond of {ff 00 00 06}Pete{ff 00 00 00}. I don't know\nwhy either, \nbecause he's such a kind\nfellow{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n\n{07 00 00}{ff 00 00 06}Phyllis {ff 00 00 00}is one of those\npeople who's even fiercer\nthan she looks.\n{07 16 00}I don't care what people\nthink, though.{01 00 00 05 00} We're birds\nof a feather, so...",
-   "et": ""
+   "et": "{07 16 00}Vist {ff 00 00 06}Phyllisele{ff 00 00 00}{01 00 00 05 00} ei väga\nmeeldi {ff 00 00 06}Pete{ff 00 00 00}. Ma ei tea ka,\nmiks, \nsest ta on nii lahke\nsell{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n\n{07 00 00}{ff 00 00 06}Phyllis {ff 00 00 00}on üks neist\ninimestest, kes on veel\nägedam, kui ta välja näeb.\n{07 16 00}Mind ei huvita siiski, mida\ninimesed arvavad.{01 00 00 05 00} Me oleme\nühest sulest, nii et..."
   },
   {
    "id": 70,
    "en": "{07 16 00}I had a dream about{ff 00 00 06} Pete{ff 00 00 00} \nthe other night{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}. {07 00 00}In my\ndream, {01 00 00 05 00}we were on a date.\nBut because the wind was\nso strong,{01 00 00 05 00} I couldn't get\nto the top of the cloud.\nSee, I was going to meet\nhim there.{02 04 00 47 1a}\nTragic!\nThat's enough!",
-   "et": ""
+   "et": "{07 16 00}Nägin{ff 00 00 06} Pete'ist{ff 00 00 00} teine öö \nunenägu{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}. {07 00 00}Mu\nunes {01 00 00 05 00}olime me kohtingul.\nAga kuna tuul oli\nnii tugev,{01 00 00 05 00} ei jõudnud ma\npilve tippu.\nNäed, ma pidin temaga\nseal kohtuma.{02 04 00 47 1a}\nTraagiline!\nAitab küll!"
   },
   {
    "id": 71,
    "en": "{07 15 00}No, it's not!{01 01 00} Because in my\ndream,{01 00 00 05 00} I could fly!\n\n{07 14 00}All I had to do was\nspread my wings,{01 00 00 05 00} and there\nI was, on top of the cloud!\n{07 0d 00}A rendezvous in the clouds,{01 00 00 0f 00}\njust the two of us. {00 01 00}{01 01 00}\n{07 1c 00}Wow.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{01 00 00 05 00}\n{07 16 00}If I were only so bold in\nreal life, my love wouldn't\nbe just a one-way street.",
-   "et": ""
+   "et": "{07 15 00}Ei ole!{01 01 00} Sest mu\nunes{01 00 00 05 00} suutsin ma lennata!\n\n{07 14 00}Pidin vaid\ntiivad laiali ajama{01 00 00 05 00} ja seal\nma olingi, pilve tipus!\n{07 0d 00}Kohtumine pilvedes,{01 00 00 0f 00}\nainult meie kahekesi. {00 01 00}{01 01 00}\n{07 1c 00}Vau.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{01 00 00 05 00}\n{07 16 00}Kui ma oleksin päriselus\nsama julge, poleks mu arm\nlihtsalt ühepoolne."
   }
  ]
 }

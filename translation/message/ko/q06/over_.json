@@ -4,17 +4,17 @@
   {
    "id": 0,
    "en": "{07 00 00}Hey there, {01 00 00 05 00}{04 1f 00}!{01 00 00 0f 00}\n{07 1b 00}How's it going?{01 00 00 05 00}\n\n{07 14 00}Listen, do you maybe\nremember that itty-bitty\nfavor I asked you to do?\n{01 08 00}{07 05 00}WHY DIDN'T YOU DO IT?!\nWas it really asking too\nmuch?{01 00 00 0f 00}\nDo you even realize how\ndumb this makes me look,\n{01 00 00 05 00}{04 02 00}?!\n{07 15 00}Look, just forget it! \nGive me back my package,\n{01 00 00 05 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 00 00}Tere siin, {01 00 00 05 00}{04 1f 00}!{01 00 00 0f 00}\n{07 1b 00}Kuidas läheb?{01 00 00 05 00}\n\n{07 14 00}Kuula, kas sa mäletad\nseda tibatillukest teenet,\nmida ma palusin?\n{01 08 00}{07 05 00}MIKS SA SEDA EI TEINUD?!\nKas see oli tõesti liiga\npalju palutud?{01 00 00 0f 00}\nKas sa üldse taipad, kui\nrumalana see mind näitab,\n{01 00 00 05 00}{04 02 00}?!\n{07 15 00}Kuule, unusta ära!\nAnna mu pakk tagasi,\n{01 00 00 05 00}{04 02 00}!"
   },
   {
    "id": 1,
    "en": "{07 00 00}{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}What?! {01 00 00 05 00}{07 15 00}How can you be so\nlazy? All you had to do was\ndeliver a package!\n{07 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 01 00}You're so slow!{01 00 00 14 00} Forget it!\nGive it back, {01 00 00 05 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 00 00}{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}Mida?! {01 00 00 05 00}{07 15 00}Kuidas sa saad\nnii laisk olla? Sa pidid\nainult paki ära viima!\n{07 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 01 00}Sa oled aeglane!{01 00 00 14 00} Unusta!\nAnna see tagasi, {01 00 00 05 00}{04 02 00}!"
   },
   {
    "id": 2,
    "en": "{07 00 00}Hey, by the way,{01 00 00 05 00}\nyou delivered that package\nto {ff 00 00 06}{04 10 00}{ff 00 00 00}, right?{01 00 00 0a 00}\n{07 15 00}No?! {01 00 00 05 00}NO?!{01 00 00 05 00} Was it really so\nmuch to ask, {01 00 00 05 00}{04 02 00}?\n\nMan{01 00 00 0f 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} Now I have to go\napologize and look stupid\nto {ff 00 00 06}{04 10 00}{ff 00 00 00}!\n{07 01 00}Forget it! Give it back now,\n{01 00 00 05 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 00 00}Kuule, muide,{01 00 00 05 00}\nsa viisid selle paki\n{ff 00 00 06}{04 10 00}{ff 00 00 00}le, eks?{01 00 00 0a 00}\n{07 15 00}Ei?! {01 00 00 05 00}EI?!{01 00 00 05 00} Kas see oli nii\npalju palutud, {01 00 00 05 00}{04 02 00}?\n\nPoiss{01 00 00 0f 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} Nüüd pean minema\nvabandama ja näima rumal\n{ff 00 00 06}{04 10 00}{ff 00 00 00} ees!\n{07 01 00}Unusta! Anna kohe tagasi,\n{01 00 00 05 00}{04 02 00}!"
   }
  ]
 }

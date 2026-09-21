@@ -4,152 +4,152 @@
   {
    "id": 0,
    "en": "{06 01 00 0f 10 11}",
-   "et": ""
+   "et": "{06 01 00 0f 10 11}"
   },
   {
    "id": 1,
    "en": "{07 14 00}Yes!{01 00 00 05 00} Hello!{01 00 00 05 00} I am {ff 00 00 06}Saharah{ff 00 00 00}.\n\n\n{07 00 00}I have come from far away.\nI must deliver goods that\nmy customers have ordered.",
-   "et": ""
+   "et": "{07 14 00}Jah!{01 00 00 05 00} Tere!{01 00 00 05 00} Mina olen\n{ff 00 00 06}Saharah{ff 00 00 00}.\n\n{07 00 00}Olen tulnud kaugelt.\nPean kohale viima kaubad,\nmida mu kliendid tellisid."
   },
   {
    "id": 2,
    "en": "{07 16 00}{01 00 00 05 00}Ah,{01 00 00 05 00} I have a problem{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 01 00}\nA terrible problem{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 01 00}\nI have forgotten my map!\n{01 00 00 05 00}{07 08 00}All my addresses{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}gone!{01 01 00}\n{07 00 00}{07 04 00}My deliveries!{01 01 00} {07 00 00}{07 02 00}My customers!{01 01 00}\n{07 00 00}{07 08 00}What is a camel to do?!\n{07 00 00}{07 0c 00}{01 00 00 05 00}Wait!{01 00 00 0f 00} You look like a good\nperson!{01 00 00 05 00}{07 00 00}{07 0b 00} You will help me\nmake deliveries, yes?{02 04 00 05 03}\nSure!\nNo, thanks.",
-   "et": ""
+   "et": "{07 16 00}{01 00 00 05 00}Ah,{01 00 00 05 00} mul on probleem{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 01 00}\nKohutav probleem{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 01 00}\nOlen kaardi unustanud!\n{01 00 00 05 00}{07 08 00}Kõik mu aadressid{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}läinud!{01 01 00}\n{07 00 00}{07 04 00}Mu saadetised!{01 01 00} {07 00 00}{07 02 00}Mu kliendid!{01 01 00}\n{07 00 00}{07 08 00}Mida peab kaamel tegema?!\n{07 00 00}{07 0c 00}{01 00 00 05 00}Oota!{01 00 00 0f 00} Sa näed hea\ninimene välja!{01 00 00 05 00}{07 00 00}{07 0b 00} Sa aitad mul\nsaadetisi viia, jah?{02 04 00 05 03}\nIkka!\nEi, aitäh."
   },
   {
    "id": 3,
    "en": "{07 09 00}{01 04 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{01 05 00}Oh,{01 00 00 05 00} that is very bad{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\nYes, yes, very unfortunate.{01 00 00 0a 00}\nI have traveled so far...",
-   "et": ""
+   "et": "{07 09 00}{01 04 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{01 05 00}Oh,{01 00 00 05 00} see on väga halb{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\nJah, väga kahetsusväärne.{01 00 00 0a 00}\nOlen nii kaugelt tulnud..."
   },
   {
    "id": 4,
    "en": "{07 16 00}I still have many goods to\ndeliver!{01 00 00 0a 00} {07 00 00}{07 0b 00}Please, friend, will\nyou help me?{02 04 00 05 03}\nOh, all right.\nNot today.",
-   "et": ""
+   "et": "{07 16 00}Mul on veel palju kaupu\nviia!{01 00 00 0a 00} {07 00 00}{07 0b 00}Palun, sõber, kas\nsa aitad mind?{02 04 00 05 03}\nOh, olgu.\nMitte täna."
   },
   {
    "id": 5,
    "en": "{07 0a 00}{01 00 00 0a 00}Oh, you are very nice!{01 00 00 0a 00} You\nmake me happy. Come, let\nus get started, yes?",
-   "et": ""
+   "et": "{07 0a 00}{01 00 00 0a 00}Oh, sa oled väga kena!{01 00 00 0a 00} Sa\nteed mind rõõmsaks. Tule,\nhakkame pihta, jah?"
   },
   {
    "id": 6,
    "en": "{07 14 00}This {ff 00 00 07}rug{ff 00 00 00}, it was ordered by\nsomeone.",
-   "et": ""
+   "et": "{07 14 00}Selle {ff 00 00 07}vaiba{ff 00 00 00} tellis\nkeegi."
   },
   {
    "id": 7,
    "en": "{07 14 00}This {ff 00 00 07}wallpaper{ff 00 00 00}, it was\nordered by someone.",
-   "et": ""
+   "et": "{07 14 00}Selle {ff 00 00 07}tapeedi{ff 00 00 00} tellis\nkeegi."
   },
   {
    "id": 8,
    "en": "{07 00 00}Yes, yes, very important.{01 00 00 05 00}\nThis must be delivered\nright away.\nYou will take it to\n{ff 00 00 06}{04 0f 00}{ff 00 00 00}, yes? {01 00 00 05 00}{07 14 00}Many\nthanks to you, friend!",
-   "et": ""
+   "et": "{07 00 00}Jah, jah, väga tähtis.{01 00 00 05 00}\nSee tuleb kohe kohale\nviia.\nSa viid selle\n{ff 00 00 06}{04 0f 00}{ff 00 00 00}-le, jah? {01 00 00 05 00}{07 14 00}Suur\ntänu sulle, sõber!"
   },
   {
    "id": 9,
    "en": "{07 0b 00}{01 00 00 0a 00}Yes? Take it where?{01 01 00}\n{07 06 00}To {ff 00 00 06}{04 0f 00}{ff 00 00 00},{01 00 00 05 00} please! And\nas quickly as you can!",
-   "et": ""
+   "et": "{07 0b 00}{01 00 00 0a 00}Jah? Viia kuhu?{01 01 00}\n{07 06 00}{ff 00 00 06}{04 0f 00}{ff 00 00 00}-le,{01 00 00 05 00} palun! Ja\nnii kiiresti kui saad!"
   },
   {
    "id": 10,
    "en": "{07 0a 00}{01 00 00 0a 00}Ah, thank you!{01 00 00 05 00} Thank you\nmuch! {01 00 00 0a 00}It is hard work, but\nthere is happiness in it!\n{07 00 00}{07 19 00}I have the next one here.{01 00 00 05 00}\nPlease take it to\n{ff 00 00 06}{04 0f 00}{ff 00 00 00}.",
-   "et": ""
+   "et": "{07 0a 00}{01 00 00 0a 00}Ah, aitäh!{01 00 00 05 00} Suur\naitäh! {01 00 00 0a 00}See on raske töö,\naga selles on õnne!\n{07 00 00}{07 19 00}Mul on järgmine siin.{01 00 00 05 00}\nPalun vii see\n{ff 00 00 06}{04 0f 00}{ff 00 00 00}-le."
   },
   {
    "id": 11,
    "en": "{07 14 00}Ah, yes!{01 00 00 05 00} Many thanks to\nyou, friend!{01 00 00 05 00} I am grateful!",
-   "et": ""
+   "et": "{07 14 00}Ah, jah!{01 00 00 05 00} Suur tänu\nsulle, sõber!{01 00 00 05 00} Olen tänulik!"
   },
   {
    "id": 12,
    "en": "{07 1a 00}{01 00 00 0a 00}Done!{01 00 00 05 00} It is finally done!{01 00 00 0a 00}\nThank you so much for your\nhelp, friend!",
-   "et": ""
+   "et": "{07 1a 00}{01 00 00 0a 00}Valmis!{01 00 00 05 00} Lõpuks valmis!{01 00 00 0a 00}\nSuur aitäh sinu\nabi eest, sõber!"
   },
   {
    "id": 13,
    "en": "{07 14 00}Please, let me show my\nappreciation.{01 00 00 0a 00} I have special\n{ff 00 00 07}carpets{ff 00 00 00} and {ff 00 00 07}wallpaper{ff 00 00 00}, yes?\n{07 00 00}You can have one!{01 00 00 05 00} Please,\npick whichever you like.\n\n{07 0b 00}Do you want\n{04 1b 00} or\n{04 1c 00}?{02 00 00 0e 0e}\nWallpaper.\nCarpet.",
-   "et": ""
+   "et": "{07 14 00}Palun, las ma näitan oma\ntänu.{01 00 00 0a 00} Mul on erilised\n{ff 00 00 07}vaibad{ff 00 00 00} ja {ff 00 00 07}tapeedid{ff 00 00 00}, jah?\n{07 00 00}Sa võid ühe saada!{01 00 00 05 00} Palun,\nvali see, mis meeldib.\n\n{07 0b 00}Kas sa tahad\n{04 1b 00} või\n{04 1c 00}?{02 00 00 0e 0e}\nTapeedi.\nVaiba."
   },
   {
    "id": 14,
    "en": "{07 14 00}Ah, yes!{01 00 00 05 00} That is very rare!{01 01 00}\n{07 00 00}Take good care of it,\nfriend!{01 00 00 05 00} Many thanks again!",
-   "et": ""
+   "et": "{07 14 00}Ah, jah!{01 00 00 05 00} See on haruldane!{01 01 00}\n{07 00 00}Hoolitse selle eest hästi,\nsõber!{01 00 00 05 00} Suur tänu veel kord!"
   },
   {
    "id": 15,
    "en": "{07 15 00}{01 00 00 0a 00}Hmmm? Oh, no, we do not\ntake returns. No, no, never.\nBuyer be warned!\n{07 00 00}You see, in my country,{01 00 00 05 00}\nwhen you get something\nnice{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} {07 19 00}You keep it, yes?",
-   "et": ""
+   "et": "{07 15 00}{01 00 00 0a 00}Hmmm? Oh ei, me ei võta\ntagasi. Ei, ei, mitte kunagi.\nOstja olgu hoiatatud!\n{07 00 00}Näed, minu maal,{01 00 00 05 00}\nkui sa saad midagi\nhead{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} {07 19 00}Sa hoiad seda, jah?"
   },
   {
    "id": 16,
    "en": "{06 00 00 19 1a}",
-   "et": ""
+   "et": "{06 00 00 19 1a}"
   },
   {
    "id": 17,
    "en": "{07 00 00}I have a question, yes?{01 00 00 05 00}\n{07 0b 00}Do you like{ff 00 00 07} turbans{ff 00 00 00}?{02 00 00 1b 1c}\nNot really.\nWhat's that?",
-   "et": ""
+   "et": "{07 00 00}Mul on küsimus, jah?{01 00 00 05 00}\n{07 0b 00}Kas sulle meeldib {ff 00 00 07}turban{ff 00 00 00}?{02 00 00 1b 1c}\nMitte eriti.\nMis see on?"
   },
   {
    "id": 18,
    "en": "{07 14 00}{01 00 00 0a 00}Oh!{01 00 00 05 00} You are back!{01 00 00 05 00} I have\nbeen waiting, yes? I have\nsomething to give you!\n{07 04 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}Oh,{01 00 00 05 00} but I cannot!{01 01 00}\nYou are already carrying so\nmany things!\n{07 19 00}Oh, but you can come back,\nyes?{01 00 00 05 00} {07 00 00}{07 14 00}Please, empty your\npockets and then return!",
-   "et": ""
+   "et": "{07 14 00}{01 00 00 0a 00}Oh!{01 00 00 05 00} Sa oled tagasi!{01 00 00 05 00} Olen\noodanud, jah? Mul on\nsulle midagi anda!\n{07 04 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}Oh,{01 00 00 05 00} aga ma ei saa!{01 01 00}\nSa kannad juba nii\npalju asju!\n{07 19 00}Oh, aga sa võid tagasi\ntulla, jah?{01 00 00 05 00} {07 00 00}{07 14 00}Palun, tühjenda\ntaskud ja tule tagasi!"
   },
   {
    "id": 19,
    "en": "{07 14 00}You have returned to me,\nyes?{01 00 00 05 00} That is good, friend,\nfor I have a gift for you!\n{07 00 00}Some {ff 00 00 07}carpet {ff 00 00 00}or {ff 00 00 07}wallpaper{ff 00 00 00}?{01 00 00 0a 00}\n{07 14 00}One of these is yours!{01 00 00 05 00}\nPlease, you must choose!\n{0b 03 00}{04 1b 00} or\n{04 1c 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00}\n{07 0b 00}Which would you like?{02 00 00 0e 0e}\nWallpaper.\nCarpet.",
-   "et": ""
+   "et": "{07 14 00}Sa tulid minu juurde\ntagasi, jah?{01 00 00 05 00} See on hea,\nsest mul on sulle kingitus!\n{07 00 00}Kas {ff 00 00 07}vaipa {ff 00 00 00}või {ff 00 00 07}tapeeti{ff 00 00 00}?{01 00 00 0a 00}\n{07 14 00}Üks neist on sinu!{01 00 00 05 00}\nPalun, sa pead valima!\n{0b 03 00}{04 1b 00} või\n{04 1c 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00}\n{07 0b 00}Kumba sa tahaksid?{02 00 00 0e 0e}\nTapeedi.\nVaiba."
   },
   {
    "id": 20,
    "en": "{07 04 00}Oh!{01 00 00 0a 00} .{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}You have.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} Yes, you\ndo!{01 00 00 0a 00} You have something\nvery nice there, yes?\n{07 14 00}It is a {ff 00 00 07}turban{ff 00 00 00}!!!{01 00 00 0a 00} Look at it!\n{01 00 00 05 00}Very stylish!{01 00 00 0a 00} {07 00 00}{07 02 00}And it is\nwrapped so perfectly...\n{07 16 00}{01 00 00 0a 00}Friend, I am ashamed, but I \nmust have a favor...{01 00 00 0a 00} {07 00 00}{07 06 00}Please\ngive me that {ff 00 00 07}turban{ff 00 00 00}, yes?!{02 00 00 16 15}\nSure, take it.\nNo! Mine!",
-   "et": ""
+   "et": "{07 04 00}Oh!{01 00 00 0a 00} .{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}Sul on.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} Jah, on\nküll!{01 00 00 0a 00} Sul on seal midagi\nväga kena, jah?\n{07 14 00}See on {ff 00 00 07}turban{ff 00 00 00}!!!{01 00 00 0a 00} Vaata seda!\n{01 00 00 05 00}Väga stiilne!{01 00 00 0a 00} {07 00 00}{07 02 00}Ja see on\nnii täiuslikult mähitud...\n{07 16 00}{01 00 00 0a 00}Sõber, mul on häbi, aga ma \npean paluma teenet...{01 00 00 0a 00} {07 00 00}{07 06 00}Palun\nanna mulle see {ff 00 00 07}turban{ff 00 00 00}, jah?!{02 00 00 16 15}\nIkka, võta.\nEi! Minu!"
   },
   {
    "id": 21,
    "en": "{07 00 00}I understand.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} It is your\nspecial thing, yes?\n{07 09 00}{01 00 00 0a 00}Oh, but I am very sad...",
-   "et": ""
+   "et": "{07 00 00}Ma mõistan{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} See on sinu\neriline asi, jah?\n{07 09 00}{01 00 00 0a 00}Oh, aga mul on väga kurb..."
   },
   {
    "id": 22,
    "en": "{07 0a 00}{01 00 00 0a 00}Ha ha!{01 00 00 0a 00} Now I have nothing\nto fear!{01 00 00 0a 00} Not even the\ndesert sun can touch me!\n{07 00 00}{07 19 00}My good friend, I must\nthank you!{01 00 00 0a 00} Now it is my\nturn to give, yes?",
-   "et": ""
+   "et": "{07 0a 00}{01 00 00 0a 00}Ha haa!{01 00 00 0a 00} Nüüd pole mul\nmidagi karta!{01 00 00 0a 00} Isegi\nkõrbepäike ei puuduta mind!\n{07 00 00}{07 19 00}Mu hea sõber, ma pean\nsind tänama!{01 00 00 0a 00} Nüüd on minu\nkord anda, jah?"
   },
   {
    "id": 23,
    "en": "{07 00 00}I was ordering goods, and\ngot {04 1a 00}\nby accident! \n{07 0e 00}I do not know how it works,\nand I do not have the time\nto be learning.\n{07 00 00}But, it should go to a good\nfriend...{01 01 00}{07 0d 00} And that is you!{01 00 00 0a 00}\nPlease, you must take it!",
-   "et": ""
+   "et": "{07 00 00}Ma tellisin kaupa ja\nsain kogemata\n{04 1a 00}! \n{07 0e 00}Ma ei tea, kuidas see\ntöötab, ja mul pole aega\nseda õppida.\n{07 00 00}Aga see peaks minema heale\nsõbrale...{01 01 00}{07 0d 00} Ja see oled sina!{01 00 00 0a 00}\nPalun, sa pead selle võtma!"
   },
   {
    "id": 24,
    "en": "{07 00 00}That is a rare and valuable\npiece of art.{01 00 00 0a 00} It is called\n{04 1a 00}{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.\n{07 0e 00}{01 00 00 0a 00}It has a very rich history.{01 00 00 0a 00}\nYes, a rare treasure from\ntimes long past{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.\n{07 00 00}And that's why I must give\nit to someone special!{01 01 00}\n{07 14 00}Thank you, my good friend!",
-   "et": ""
+   "et": "{07 00 00}See on haruldane ja kallis\nkunstiteos.{01 00 00 0a 00} Selle nimi on\n{04 1a 00}{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.\n{07 0e 00}{01 00 00 0a 00}Sel on väga rikas ajalugu.{01 00 00 0a 00}\nJah, haruldane aare\nammustest aegadest{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.\n{07 00 00}Ja sellepärast pean selle\nandma kellelegi erilisele!{01 01 00}\n{07 14 00}Aitäh, mu hea sõber!"
   },
   {
    "id": 25,
    "en": "{07 0a 00}Yes, yes, hello!{01 00 00 0a 00} Seeing you\nis making me very happy,\nfriend!",
-   "et": ""
+   "et": "{07 0a 00}Jah, jah, tere!{01 00 00 0a 00} Sind\nnähes olen väga\nõnnelik, sõber!"
   },
   {
    "id": 26,
    "en": "{07 1c 00}Phew! This is a long day!{01 00 00 0a 00}\nYes, very long.{01 00 00 0a 00}{07 00 00}{07 19 00} The work of\na merchant is never done!",
-   "et": ""
+   "et": "{07 1c 00}Uhh! See on pikk päev!{01 00 00 0a 00}\nJah, väga pikk.{01 00 00 0a 00}{07 00 00}{07 19 00} Kaupmehe\ntöö ei lõpe kunagi!"
   },
   {
    "id": 27,
    "en": "{07 1c 00}{01 00 00 05 00}Oh{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} Yes, yes, I understand.\nYou would not need such a\nthing here.\n{07 00 00}{07 16 00}But that is fine.{01 01 00}\nI do not need the{ff 00 00 07} turban{ff 00 00 00}.{01 00 00 05 00}\nTruly I do not...",
-   "et": ""
+   "et": "{07 1c 00}{01 00 00 05 00}Oh{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} Jah, jah, ma mõistan.\nSa ei vajaks siin\nsellist asja.\n{07 00 00}{07 16 00}Aga see on hea.{01 01 00}\nMa ei vaja{ff 00 00 07} turbanit{ff 00 00 00}.{01 00 00 05 00}\nTõesti ei vaja..."
   },
   {
    "id": 28,
    "en": "{07 14 00}Ah!{01 00 00 05 00} It is the best defense\nagainst a withering desert\nsun!{01 00 00 05 00} A fine thing, yes?",
-   "et": ""
+   "et": "{07 14 00}Ah!{01 00 00 05 00} See on parim kaitse\nnärbuva kõrbepäikese\nvastu!{01 00 00 05 00} Hea asi, jah?"
   },
   {
    "id": 29,
    "en": "{07 04 00}{01 00 00 0a 00}Oh, {01 00 00 05 00}but I cannot!{01 00 00 0a 00} Your\npockets, they are very full!\n\n{07 16 00}Oh, that is very bad.{01 00 00 0a 00} {07 00 00}{07 0c 00}But\nperhaps you could return\nwith less things, yes?",
-   "et": ""
+   "et": "{07 04 00}{01 00 00 0a 00}Oh, {01 00 00 05 00}aga ma ei saa!{01 00 00 0a 00} Sinu\ntaskud on väga täis!\n\n{07 16 00}Oh, see on väga halb.{01 00 00 0a 00} {07 00 00}{07 0c 00}Aga\nehk saad tagasi tulla\nväiksema koormaga, jah?"
   }
  ]
 }

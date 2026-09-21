@@ -4,27 +4,27 @@
   {
    "id": 0,
    "en": "{07 0e 00}{01 00 00 0a 00}Hmmm, let's see...{01 00 00 0a 00}\nWhat should I do next...{01 00 00 14 00}\n\n{07 13 00}{01 00 00 0a 00}I wanna do{01 00 00 0a 00} something\nreally cool,{01 00 00 0a 00} {04 02 00}...",
-   "et": ""
+   "et": "{07 0e 00}{01 00 00 0a 00}Hmmm, vaatame...{01 00 00 0a 00}\nMida ma järgmiseks teen...{01 00 00 14 00}\n\n{07 13 00}{01 00 00 0a 00}Tahaks teha{01 00 00 0a 00} midagi\nväga lahedat,{01 00 00 0a 00} {04 02 00}..."
   },
   {
    "id": 1,
    "en": "{07 0e 00}{01 00 00 0a 00}Hmm.{01 00 00 14 00} Hmm{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 14 00}\n{07 0b 00}{01 00 00 05 00}So, what should I do next?\nGot any good ideas?\n{07 06 00}I'm thinking so hard that\nmy brain is overheating,\n{01 00 00 0a 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 0e 00}{01 00 00 0a 00}Hmm.{01 00 00 14 00} Hmm{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 14 00}\n{07 0b 00}{01 00 00 05 00}Mida ma järgmiseks teen?\nKas sul on häid mõtteid?\n{07 06 00}Mõtlen nii kõvasti, et\nmu aju läheb ülekuumenema,\n{01 00 00 0a 00}{04 02 00}!"
   },
   {
    "id": 2,
    "en": "{07 0e 00}{01 00 00 0a 00}Hmm...{01 00 00 14 00} What to do...\nShould I do this{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00} Or should\nI do that{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 16 00}Whoa! I'm riding a roller\ncoaster of indecision, and\nit's making my belly sick!{01 00 00 14 00}\n{07 06 00}I'm so indecisive. You gotta\nhelp me out, {01 00 00 0a 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 0e 00}{01 00 00 0a 00}Hmm...{01 00 00 14 00} Mida teha...\nKas teen seda{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00} Või teen\nhoopis toda{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 16 00}Ohoo! Sõidan otsustamatuse\nkarussellil ja mu kõht\nläheb sellest pahaks!{01 00 00 14 00}\n{07 06 00}Olen nii otsustamatu. Pead\nmind aitama, {01 00 00 0a 00}{04 02 00}!"
   },
   {
    "id": 3,
    "en": "{07 16 00}{01 00 00 05 00}So...{01 00 00 0a 00} What should I do next?\nGot any good ideas?{01 00 00 0a 00} Hmm.\nGotta think here.\n{07 13 00}As fun as gorging on\n{04 19 00} would be,\n{01 00 00 0a 00}I wanna do something else.",
-   "et": ""
+   "et": "{07 16 00}{01 00 00 05 00}Nii...{01 00 00 0a 00} Mida ma nüüd teen?\nHäid mõtteid?{01 00 00 0a 00} Hmm.\nPean siin mõtlema.\n{07 13 00}Nii lõbus kui oleks õgida\n{04 19 00},\n{01 00 00 0a 00}tahaks teha midagi muud."
   },
   {
    "id": 4,
    "en": "{07 0e 00}{01 00 00 0a 00}Oh, no{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 01 00}{07 06 00} If there were a\nhundred of me,{01 00 00 0a 00} I could do\neverything I want to do!",
-   "et": ""
+   "et": "{07 0e 00}{01 00 00 0a 00}Oh ei{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 01 00}{07 06 00} Kui mind oleks\nsada tükki,{01 00 00 0a 00} saaksin teha\nkõik, mida tahan!"
   }
  ]
 }

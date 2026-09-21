@@ -4,42 +4,42 @@
   {
    "id": 0,
    "en": "{07 0b 00}I like the color, but the\nfit's all wrong.{01 00 00 0f 00}\n{07 0e 00}What to do{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{04 02 00}?",
-   "et": ""
+   "et": "{07 0b 00}Mulle meeldib värv, aga\nistuvus on täiesti vale.{01 00 00 0f 00}\n{07 0e 00}Mida teha{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{04 02 00}?"
   },
   {
    "id": 1,
    "en": "{07 14 00}Oh, {04 1f 00}! So, you're\na bit of a fashion maven\ntoo, are you, {01 00 00 05 00}{04 02 00}?",
-   "et": ""
+   "et": "{07 14 00}Oh, {04 1f 00}! Nii et sa\noled ka pisut moehull,\nkas pole, {01 00 00 05 00}{04 02 00}?"
   },
   {
    "id": 2,
    "en": "{07 0e 00}Usually, I like my clothes\nto be a bit on the\n{04 15 00} side.{01 00 00 0f 00}\nBut.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} Hmmmmmmm.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} There's\nno way around it. {01 00 00 0f 00}{07 0d 00}I want\n'em all, {01 00 00 05 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 0e 00}Tavaliselt meeldib mulle,\nkui mu riided on pisut\n{04 15 00} poole.{01 00 00 0f 00}\nAga.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} Hmmmmmmm.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} Sellest\nei pääse. {01 00 00 0f 00}{07 0d 00}Ma tahan neid\nkõiki, {01 00 00 05 00}{04 02 00}!"
   },
   {
    "id": 3,
    "en": "{07 04 00}Ah!{01 00 00 0a 00} That's an interesting\nlook right there{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{07 00 00}\n\n{07 04 00}Oh!{01 00 00 0a 00} But that one looks\ngood, too.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 00 00}\n\n{07 0d 00}A good boutique fills you\nwith joy and rage, all at\nthe same time, {01 00 00 05 00}{04 02 00}.\nJoy because of all the nice\nclothes, and rage because\nyou can't buy them all!",
-   "et": ""
+   "et": "{07 04 00}Ah!{01 00 00 0a 00} See on huvitav\nvälimus seal{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{07 00 00}\n\n{07 04 00}Oh!{01 00 00 0a 00} Aga see näeb ka\nhea välja.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 00 00}\n\n{07 0d 00}Hea butiik täidab sind\nrõõmu ja raevuga korraga,\n{01 00 00 05 00}{04 02 00}.\nRõõmu kõigi kenade riiete\npärast ja raevu, sest sa ei\nsaa neid kõiki osta!"
   },
   {
    "id": 4,
    "en": "{07 13 00}Wouldn't it be great if we\nhad some {04 18 00}\nwhile we were shopping?\n{07 00 00}I mean, just think about\nit for a second.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n\n{07 14 00}If the {ff 00 00 08}Able Sisters{ff 00 00 00} had a\ncafe in here, I'd never have\nto leave, {01 00 00 05 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 13 00}Kas poleks suurepärane, kui\nmeil oleks {04 18 00}\nostlemise ajal?\n{07 00 00}Ma mõtlen, mõtle sellele\nvaid hetk.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n\n{07 14 00}Kui {ff 00 00 08}Able Sistersil{ff 00 00 00} oleks\nsiin kohvik, ei peaks ma\nkunagi lahkuma, {01 00 00 05 00}{04 02 00}!"
   },
   {
    "id": 5,
    "en": "They may not have much in\nthe way of selection, but\ntake a look around.\n{07 0d 00}All of these clothes are\nexquisite, {01 00 00 05 00}{04 02 00}!{01 00 00 05 00}{07 00 00} Much\nbetter than what {ff 00 00 06}Nook{ff 00 00 00} has.\nIt's no wonder {ff 00 00 06}Sable {ff 00 00 00}and\n{ff 00 00 06}Mabel{ff 00 00 00} do such good\nbusiness, {01 00 00 05 00}{04 02 00}.",
-   "et": ""
+   "et": "Neil ei pruugi olla suurt\nvalikut, aga vaata\nringi.\n{07 0d 00}Kõik need riided on\nvapustavad, {01 00 00 05 00}{04 02 00}!{01 00 00 05 00}{07 00 00} Palju\nparemad kui {ff 00 00 06}Nooki{ff 00 00 00} omad.\nPole ime, et {ff 00 00 06}Sable {ff 00 00 00}ja\n{ff 00 00 06}Mabel{ff 00 00 00} nii head äri\nteevad, {01 00 00 05 00}{04 02 00}."
   },
   {
    "id": 6,
    "en": "{07 04 00}Oh!{01 00 00 0f 00} This fabric is so nice!\nI just love the way it\nfeels.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n{07 0b 00}Hm. I wonder if it would\nlook nice on me.{01 00 00 0f 00}\n\n{07 0e 00}I'm just not sure.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} Maybe\nI should just try it on for\nsize,{01 00 00 05 00} {04 02 00}.",
-   "et": ""
+   "et": "{07 04 00}Oh!{01 00 00 0f 00} See kangas on nii kena!\nMulle lihtsalt meeldib,\nkuidas see tundub.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n{07 0b 00}Hm. Huvitav, kas see näeks\nmul hea välja.{01 00 00 0f 00}\n\n{07 0e 00}Ma pole kindel.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} Ehk\npeaksin selle lihtsalt\nselga proovima,{01 00 00 05 00} {04 02 00}."
   },
   {
    "id": 7,
    "en": "{07 0e 00}People always tell me my\nclothes are way too plain.{01 00 00 05 00}\n\nI want to be adventurous\nand try out some different\nstyles, {01 00 00 05 00}{04 02 00}.\n{07 07 00}But it's so embarrassing.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\nWhat if I look silly?",
-   "et": ""
+   "et": "{07 0e 00}Inimesed ütlevad alati, et\nmu riided on liiga lihtsad.{01 00 00 05 00}\n\nMa tahan olla julge ja\nproovida uut, {01 00 00 05 00}{04 02 00}.\n{07 07 00}Aga see on nii piinlik.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\nMis siis, kui ma näen\nnaeruväärne välja?"
   }
  ]
 }

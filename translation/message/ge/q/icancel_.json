@@ -4,17 +4,17 @@
   {
    "id": 0,
    "en": "{07 15 00}Boy, if you're playing some\nkinda game, I have NO idea\nwhy, {01 00 00 05 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 15 00}Oh sa, kui sa mängid mingit\nmängu, siis mul pole AIMUGI,\nmiks, {01 00 00 05 00}{04 02 00}!"
   },
   {
    "id": 1,
    "en": "{07 16 00}Grr!{01 00 00 0a 00} Don't say things you\ndon't mean, you faker!",
-   "et": ""
+   "et": "{07 16 00}Grr!{01 00 00 0a 00} Ära räägi asju, mida\nsa ei mõtle, sa teeskleja!"
   },
   {
    "id": 2,
    "en": "{07 16 00}HUH?!{01 00 00 0a 00} What do you mean?!{01 00 00 05 00}\nYou're cruel, {01 00 00 05 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 16 00}AH?!{01 00 00 0a 00} Mis mõttes?!{01 00 00 05 00}\nSa oled julm, {01 00 00 05 00}{04 02 00}!"
   }
  ]
 }

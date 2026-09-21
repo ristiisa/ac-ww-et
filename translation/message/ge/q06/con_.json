@@ -4,17 +4,17 @@
   {
    "id": 0,
    "en": "{07 15 00}Don't forget, {04 1f 00}!{01 00 00 0a 00}\nYou KNOW what I'm talking\nabout, {01 00 00 05 00}{04 02 00}!\n{07 16 00}Your important errand to\n{ff 00 00 06}{04 10 00}{ff 00 00 00}'s place!{01 01 00}\n{07 0b 00}Remember now, {01 00 00 05 00}{04 02 00}?",
-   "et": ""
+   "et": "{07 15 00}Ära unusta, {04 1f 00}!{01 00 00 0a 00}\nSa TEAD, millest ma\nräägin, {01 00 00 05 00}{04 02 00}!\n{07 16 00}Sinu tähtsast käigust\n{ff 00 00 06}{04 10 00}{ff 00 00 00} juurde!{01 01 00}\n{07 0b 00}Mäletad nüüd, {01 00 00 05 00}{04 02 00}?"
   },
   {
    "id": 1,
    "en": "{07 00 00}I've already told the time\nto {ff 00 00 06}{04 10 00}{ff 00 00 00}!\n\n{07 06 00}If you don't go quick,{01 00 00 05 00} I'm\ngonna be the one who gets\nyelled at, {01 00 00 05 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 00 00}Ma ütlesin {ff 00 00 06}{04 10 00}{ff 00 00 00}le\njuba aja!\n\n{07 06 00}Kui sa kiiresti ei lähe,{01 00 00 05 00} saan\nmina see, kelle peale\nkarjutakse, {01 00 00 05 00}{04 02 00}!"
   },
   {
    "id": 2,
    "en": "{07 00 00}C'mon, now, {01 00 00 05 00}{04 1f 00}!{01 00 00 0a 00}\nYour trip to {ff 00 00 06}{04 10 00}{ff 00 00 00}'s?\nYour {01 00 00 05 00}P{01 00 00 05 00}R{01 00 00 05 00}O{01 00 00 05 00}M{01 00 00 05 00}I{01 00 00 05 00}S{01 00 00 05 00}E?!\n{07 06 00}If you forget, I am gonna\nget SO steamed at you,\n{01 00 00 05 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 00 00}Tule nüüd, {01 00 00 05 00}{04 1f 00}!{01 00 00 0a 00}\nSinu käik {ff 00 00 06}{04 10 00}{ff 00 00 00} juurde?\nSinu {01 00 00 05 00}L{01 00 00 05 00}U{01 00 00 05 00}B{01 00 00 05 00}A{01 00 00 05 00}D{01 00 00 05 00}U{01 00 00 05 00}S?!\n{07 06 00}Kui sa unustad, saan ma\nsinu peale NII vihaseks,\n{01 00 00 05 00}{04 02 00}!"
   }
  ]
 }

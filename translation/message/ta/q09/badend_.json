@@ -4,17 +4,17 @@
   {
    "id": 0,
    "en": ".{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 09 00}Hide-and-seek?{01 01 00} {07 1b 00}I gave up\non that a while ago.{01 00 00 0a 00} When\nyou disappoint people,\nthat's what happens. {01 01 00}{07 1c 00}{01 00 00 05 00}Ugh, {01 00 00 0a 00}I\nwaited and waited and you\nnever came to find me!\n{07 15 00}I took it upon myself to\ngo home!{01 00 00 0a 00} I know when I've\nbeen stood up!",
-   "et": ""
+   "et": ".{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 09 00}Peitus?{01 01 00} {07 1b 00}Ma loobusin\nsellest juba ammu.{01 00 00 0a 00} Kui\nsa inimesi alt vead,\nsiis nii juhtubki. {01 01 00}{07 1c 00}{01 00 00 05 00}Öök, {01 00 00 0a 00}ma\nootasin ja ootasin ja sa\nei tulnud mind kunagi\notsima! {07 15 00}Ma võtsin vastu\notsuse koju minna!{01 00 00 0a 00} Ma tean,\nkui mind on tüssatud!"
   },
   {
    "id": 1,
    "en": "Uh.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00} {07 09 00}Hide-and-seek? {01 01 00}{07 16 00}I\nwaited for forever and you\nnever showed up!\nSo I just gave up and left!{01 01 00}\n{07 0b 00}Were you{01 00 00 05 00} even trying to\nfind me at all?!\n{07 01 00}If you use me like that\nagain for your amusement,{01 00 00 05 00}\nyou'll be sorry!{03 02 00 01}",
-   "et": ""
+   "et": "Ee.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00} {07 09 00}Peitus? {01 01 00}{07 16 00}Ma\nootasin igavesti ja sa\nei ilmunudki välja!\nNii et loobusin ja läksin\nära!{01 01 00} {07 0b 00}Kas sa{01 00 00 05 00} üritasid mind\nleida?!\n{07 01 00}Kui sa mind niimoodi veel\nkord oma lõbuks ära\nkasutad,{01 00 00 05 00} siis sa kahetsed!{03 02 00 01}"
   },
   {
    "id": 2,
    "en": "You know hide-and-seek?\nWell{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 0f 00} {07 15 00}You{01 00 00 05 00} really stink at\nit!\n{07 1b 00}If you really don't wanna\nplay, you should really say \nso, {01 00 00 05 00}{04 02 00}!\n{07 01 00}I waited for a while, but{01 00 00 05 00}\nI started feeling stupid{01 00 00 05 00}\nso I went home.{03 02 00 01}",
-   "et": ""
+   "et": "Tead seda peitust?\nNoh{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 0f 00} {07 15 00}Sa{01 00 00 05 00} oled selles\nkohutav!\n{07 1b 00}Kui sa tõesti ei taha\nmängida, peaksid seda ka\nütlema, {01 00 00 05 00}{04 02 00}!\n{07 01 00}Ma ootasin tükk aega, aga{01 00 00 05 00}\nhakkasin end lollina tundma{01 00 00 05 00}\nja läksin koju.{03 02 00 01}"
   }
  ]
 }

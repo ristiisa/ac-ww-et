@@ -4,17 +4,17 @@
   {
    "id": 0,
    "en": "{07 04 00}Oh, look! {01 00 00 05 00}I think this is\n{04 1a 00}.{01 00 00 0f 00}\n{07 06 00}What?{01 00 00 0a 00} I can KEEP it?!\n{07 14 00}YEEEEES! Oh, thank you!{01 00 00 0f 00} I've\nbeen itching for some new\n{ff 00 00 07}{04 0f 00}{ff 00 00 00}.",
-   "et": ""
+   "et": "{07 04 00}Oh, vaata! {01 00 00 05 00}See on vist\n{04 1a 00}.{01 00 00 0f 00}\n{07 06 00}Mida?{01 00 00 0a 00} Saan selle endale?!\n{07 14 00}JAAAAH! Oh, aitäh!{01 00 00 0f 00} Ma olen\nihanud uut\n{ff 00 00 07}{04 0f 00}{ff 00 00 00}."
   },
   {
    "id": 1,
    "en": "{07 04 00}What{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}? Did you really get\n{04 1a 00}\nfor me, {01 00 00 05 00}{04 02 00}?\n{07 16 00}I can't believe you're\ngiving me such nice\n{ff 00 00 07}{04 0f 00}{ff 00 00 00}{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.\n{07 0a 00}Oh, {04 1f 00},{01 00 00 05 00} thank you\nso much!{01 00 00 05 00} I owe you dinner\nor something!",
-   "et": ""
+   "et": "{07 04 00}Mida{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}? Kas sa tõesti said\n{04 1a 00}\nmulle, {01 00 00 05 00}{04 02 00}?\n{07 16 00}Ma ei suuda uskuda, et sa\nannad mulle nii kena\n{ff 00 00 07}{04 0f 00}{ff 00 00 00}{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.\n{07 0a 00}Oh, {04 1f 00},{01 00 00 05 00} suur\naitäh!{01 00 00 05 00} Ma võlgnen sulle\nõhtusöögi või midagi!"
   },
   {
    "id": 2,
    "en": "{07 04 00}Oh, wow! {01 00 00 05 00}This is such a nice\n{0b 02 00}{04 1a 00}!\n{07 02 00}What?!{01 00 00 0f 00} You got this for me?\n{07 0b 00}How in the world did you\nknow I was into collecting\n{ff 00 00 07}{04 0f 00}{ff 00 00 00}?\n{07 14 00}{0b 03 00}{04 1f 00}.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00} So nice!{01 00 00 0a 00}\n{07 0d 00}I accept it with pride,\n{01 00 00 05 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 04 00}Oh, vau! {01 00 00 05 00}See on nii kena\n{0b 02 00}{04 1a 00}!\n{07 02 00}Mida?!{01 00 00 0f 00} Sa said selle mulle?\n{07 0b 00}Kuidas sa küll teadsid, et\nma kogun\n{ff 00 00 07}{04 0f 00}{ff 00 00 00}?\n{07 14 00}{0b 03 00}{04 1f 00}.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00} Nii kena!{01 00 00 0a 00}\n{07 0d 00}Ma võtan selle uhkusega\nvastu, {01 00 00 05 00}{04 02 00}!"
   }
  ]
 }

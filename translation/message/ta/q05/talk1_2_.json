@@ -4,17 +4,17 @@
   {
    "id": 0,
    "en": "{07 00 00}I'm gonna have the complete\nset someday, {01 00 00 05 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 00 00}Kunagi on mul terve\nkomplekt, {01 00 00 05 00}{04 02 00}!"
   },
   {
    "id": 1,
    "en": "{07 16 00}It's not me, you say?{01 01 00} {07 00 00}Hmm.{01 00 00 14 00}\n{07 15 00}Well, a woman never forgets{01 00 00 0a 00}\nthe element of surprise!",
-   "et": ""
+   "et": "{07 16 00}See pole minu moodi,\nütled?{01 01 00}{07 00 00} Hmm.{01 00 00 14 00} {07 15 00}naine ei unusta\nkunagi{01 00 00 0a 00} üllatuse elementi!"
   },
   {
    "id": 2,
    "en": "{07 14 00}But don't you think that{01 00 00 05 00}\nnothing screams \"me\" like\n{ff 00 00 07}{04 0f 00}{ff 00 00 00}?",
-   "et": ""
+   "et": "{07 14 00}Aga kas sa ei arva, et{01 00 00 05 00}\nmiski ei karju „mina” nii\nkui {ff 00 00 07}{04 0f 00}{ff 00 00 00}?"
   }
  ]
 }

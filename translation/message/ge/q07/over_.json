@@ -4,17 +4,17 @@
   {
    "id": 0,
    "en": "{07 00 00}Hey, look, {04 1f 00}...{01 01 00}\n{0b 03 00}{ff 00 00 06}{04 10 00}{ff 00 00 00}'s hassling me\nfor that letter, big-time...\nAnd, um, it looks like you{01 00 00 05 00}\n{07 0b 00}still haven't delivered it,\nam I right?\n{07 0f 00}For real? {01 00 00 05 00}You haven't?!{01 01 00}\n{07 16 00}Come ON!{01 00 00 14 00} That's it, I'll take\nit myself!{01 00 00 05 00} Give it back!",
-   "et": ""
+   "et": "{07 00 00}Kuule, vaata, {04 1f 00}...{01 01 00}\n{0b 03 00}{ff 00 00 06}{04 10 00}{ff 00 00 00} tüütab mind\nselle kirjaga kohutavalt...\nJa, emm, näib, et sa{01 00 00 05 00}\n{07 0b 00}pole seda veel ära viinud,\nkas pole?\n{07 0f 00}Päriselt? {01 00 00 05 00}Pole?!{01 01 00}\n{07 16 00}Tule NÜÜD!{01 00 00 14 00} Aitab, ma viin\nise!{01 00 00 05 00} Anna tagasi!"
   },
   {
    "id": 1,
    "en": "{07 00 00}So anyway, {04 1f 00}...{01 00 00 05 00}\nHaven't you forgotten\nsomething, {01 00 00 05 00}{04 02 00}?\n{07 15 00}{0b 03 00}{ff 00 00 06}{04 10 00}{ff 00 00 00}'s letter!{01 00 00 05 00}\nEver hear the words\n\"delivery deadline\"?\n{07 16 00}Ugh!{01 00 00 0a 00} You're such a slacker!{01 01 00}\nNow I have to go myself!\n{01 00 00 05 00}Gimme that!",
-   "et": ""
+   "et": "{07 00 00}Igatahes, {04 1f 00}...{01 00 00 05 00}\nKas sa pole midagi\nunustanud, {01 00 00 05 00}{04 02 00}?\n{07 15 00}{0b 03 00}{ff 00 00 06}{04 10 00}{ff 00 00 00} kiri!{01 00 00 05 00}\nOled sa kuulnud sõnu\n„toimetamise tähtaeg”?\n{07 16 00}Ohh!{01 00 00 0a 00} Sa oled selline logard!{01 01 00}\nNüüd pean ma ise minema!\n{01 00 00 05 00}Anna siia!"
   },
   {
    "id": 2,
    "en": "{07 00 00}Look{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} I hate to say this,\nbut, I mean, be honest....\n\n{07 06 00}You haven't delivered the\nletter to {ff 00 00 06}{04 10 00}{ff 00 00 00},\nhave you?\n{07 16 00}Gosh! {01 00 00 05 00}Gimme a break!{01 01 00}\n{07 00 00}Fine, I'm gonna go myself!{01 00 00 05 00}\nGimme that stupid thing!",
-   "et": ""
+   "et": "{07 00 00}Kuule{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} Ma ei taha seda\nöelda, aga, ma mõtlen, ole\naus.... \n{07 06 00}Sa pole kirja\n{ff 00 00 06}{04 10 00}{ff 00 00 00}le viinud,\nkas pole?\n{07 16 00}Heldeke! {01 00 00 05 00}Anna armu!{01 01 00}\n{07 00 00}Olgu, ma lähen ise!{01 00 00 05 00}\nAnna see rumal asi siia!"
   }
  ]
 }

@@ -4,102 +4,102 @@
   {
    "id": 0,
    "en": "{0b 03 00}{04 1f 00},{01 00 00 05 00}{07 0b 00} do you know\nthe difference{01 00 00 05 00} between a\n{ff 00 00 07}watering can{01 00 00 05 00}{ff 00 00 00} and a pitcher?{02 00 00 10 11}\nDuh! Of course!\nUm, no...",
-   "et": ""
+   "et": "{0b 03 00}{04 1f 00},{01 00 00 05 00}{07 0b 00} kas sa tead,\nmis vahe on{01 00 00 05 00} {ff 00 00 07}kastekannul{01 00 00 05 00}{ff 00 00 00}\nja kannul?{02 00 00 10 11}\nMuidugi tean!\nEe, ei..."
   },
   {
    "id": 1,
    "en": "{07 14 00}When flowers are blooming,{01 00 00 0a 00}\nthe town feels so bright.\nIt's so nice,{01 00 00 0a 00} {04 02 00}.\n{07 00 00}This path is gonna be great\nwhen it's filled with\nflowers!",
-   "et": ""
+   "et": "{07 14 00}Kui lilled õitsevad,{01 00 00 0a 00}\ntundub linn nii hele.\nSee on nii tore,{01 00 00 0a 00} {04 02 00}.\n{07 00 00}Sellest teest tuleb vahva,\nkui see on lilli\ntäis!"
   },
   {
    "id": 2,
    "en": "{07 0d 00}You know what I like even\nmore than flowers?{01 00 00 0a 00} The way\nthey smell.\n{07 00 00}It's so alluring to me{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00}\n{07 14 00}It's just like\n{04 19 00}!",
-   "et": ""
+   "et": "{07 0d 00}Tead, mis mulle meeldib\nrohkem kui lilled?{01 00 00 0a 00} See,\nkuidas nad lõhnavad.\n{07 00 00}See on nii ahvatlev{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00}\n{07 14 00}Täpselt nagu\n{04 19 00}!"
   },
   {
    "id": 3,
    "en": "{07 14 00}Just once,{01 00 00 0a 00} I'd like to\nplay tag in a field of\nflowers,{01 00 00 0a 00} {04 02 00}.\n{07 13 00}{01 00 00 0a 00}Huh huh huh{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} Catch me if\nyou can!",
-   "et": ""
+   "et": "{07 14 00}Ainult korra{01 00 00 0a 00} tahaksin\nmängida kulli lilleväljal,\n{01 00 00 0a 00}{04 02 00}.\n{07 13 00}{01 00 00 0a 00}Hah hah haa{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} Püüa mind,\nkui suudad!"
   },
   {
    "id": 4,
    "en": "{07 0e 00}{01 00 00 0a 00}So, the only thing you have\nto give flowers{01 00 00 0a 00} is water{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\nWeird.\n{07 0c 00}Wait a second!{01 00 00 0a 00} If I gave 'em\n{04 18 00},{01 00 00 0a 00} would\ncandy bloom instead?!",
-   "et": ""
+   "et": "{07 0e 00}{01 00 00 0a 00}Nii et ainus, mida lilledele\nanda tuleb,{01 00 00 0a 00} on vesi{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\nVeider.\n{07 0c 00}Oota korra!{01 00 00 0a 00} Kui annaksin\nneile {04 18 00},{01 00 00 0a 00}\nkas siis kasvaks komme?!"
   },
   {
    "id": 5,
    "en": "{07 04 00}Hey,{01 00 00 05 00} {04 1f 00},{01 00 00 0a 00} I heard\nthat if you compliment your\nflowers, they'll be prettier.\n{06 00 00 12 13}",
-   "et": ""
+   "et": "{07 04 00}Hei,{01 00 00 05 00} {04 1f 00},{01 00 00 0a 00} kuulsin,\net kui lilli kiita,\nlähevad nad ilusamaks.\n{06 00 00 12 13}"
   },
   {
    "id": 6,
    "en": "{07 14 00}Huh huh huh{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00} I seriously\nlove{01 00 00 05 00} the scent{01 00 00 05 00} of\nflowers,{01 00 00 05 00} {04 02 00}.\n{07 0a 00}I want to spread flower\npetals all over my house{01 00 00 0a 00}\nand choke up on the scent.",
-   "et": ""
+   "et": "{07 14 00}Hah hah haa{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00} Ma tõsiselt\narmastan{01 00 00 05 00} lillede{01 00 00 05 00}\nlõhna,{01 00 00 05 00} {04 02 00}.\n{07 0a 00}Tahaks puistata õielehti\nüle kogu oma maja{01 00 00 0a 00}\nja lõhnas ära uppuda."
   },
   {
    "id": 7,
    "en": "{07 0e 00}{01 00 00 0a 00}I think both flowers and\npeople need sun and\nwater{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 14 00}That's why I like to snooze\nby the river when it's\nsunny, {01 00 00 0a 00}{04 02 00}.",
-   "et": ""
+   "et": "{07 0e 00}{01 00 00 0a 00}Arvan, et nii lilled kui\ninimesed vajavad päikest\nja vett{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 14 00}Seepärast meeldibki mulle\npäikesega jõe ääres\ntukkuda, {01 00 00 0a 00}{04 02 00}."
   },
   {
    "id": 8,
    "en": "{07 0b 00}{01 00 00 05 00}So, the insects that gather\naround the flowers{01 00 00 05 00} are\nthere to drink nectar?\n{07 0e 00}Do you think it tastes like\n{04 13 00} to them?\n{07 0a 00}I love {04 13 00}!",
-   "et": ""
+   "et": "{07 0b 00}{01 00 00 05 00}Kas putukad, kes lillede\nümber kogunevad,{01 00 00 05 00} on seal\nnektarit joomas?\n{07 0e 00}Kas arvad, et see maitseb\nneile nagu {04 13 00}?\n{07 0a 00}Mulle meeldib {04 13 00}!"
   },
   {
    "id": 9,
    "en": "{07 04 00}{01 00 00 0a 00}Hey,{01 00 00 05 00} {04 1f 00}!{01 00 00 0a 00} Did you\nknow that you can actually\neat flowers?\n{07 11 00}I'm going to try them{01 00 00 0a 00}\nsauteed with red bulborb,{01 00 00 0a 00}\n{04 02 00}!",
-   "et": ""
+   "et": "{07 04 00}{01 00 00 0a 00}Hei,{01 00 00 05 00} {04 1f 00}!{01 00 00 0a 00} Kas sa\nteadsid, et lilli saab\ntegelikult süüa?\n{07 11 00}Proovin neid{01 00 00 0a 00}\npraetuna koos mardikaga,{01 00 00 0a 00}\n{04 02 00}!"
   },
   {
    "id": 10,
    "en": "{07 0e 00}{01 00 00 0a 00}Umm{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 14 00} So, what exactly{01 00 00 0a 00}{07 0b 00}{01 00 00 05 00} do\nflowers eat, anyway?\n\n{01 00 00 0a 00}{07 1b 00}{01 00 00 05 00}'Cause{01 00 00 05 00} I would die if all I\ncould eat was water and\ndirt, {01 00 00 0a 00}{04 02 00}.",
-   "et": ""
+   "et": "{07 0e 00}{01 00 00 0a 00}Ee{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 14 00} Mida lilled{01 00 00 0a 00}{07 0b 00}{01 00 00 05 00}\nõieti söövad?\n\n{01 00 00 0a 00}{07 1b 00}{01 00 00 05 00}Sest{01 00 00 05 00} mina sureksin, kui\nsaaksin süüa ainult vett\nja mulda, {01 00 00 0a 00}{04 02 00}."
   },
   {
    "id": 11,
    "en": "{07 0b 00}Hmm?{01 00 00 0a 00} This {ff 00 00 07}watering can{ff 00 00 00}?\nOh{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 14 00}{07 14 00} It's just an accessory\nfor when I go out.\n{07 0d 00}Isn't it cool?{01 00 00 0a 00} Don't I look\nreally, I don't know,{01 00 00 0a 00}\ninternational with it?",
-   "et": ""
+   "et": "{07 0b 00}Hmm?{01 00 00 0a 00} See {ff 00 00 07}kastekann{ff 00 00 00}?\nOh{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 14 00}{07 14 00} See on lihtsalt\nlisand, kui välja lähen.\n{07 0d 00}Kas pole lahe?{01 00 00 0a 00} Kas ma ei\nnäe sellega, no ei tea,{01 00 00 0a 00}\nrahvusvaheline välja?"
   },
   {
    "id": 12,
    "en": "{07 0e 00}Hmm{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00} Dirt is kind of\ninteresting, {01 00 00 0a 00}{04 02 00}.\n\nThink about all the water\nthat seeps into it{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{07 0b 00}{01 00 00 0a 00} Where\ndoes it all go?",
-   "et": ""
+   "et": "{07 0e 00}Hmm{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00} Muld on üsna\nhuvitav, {01 00 00 0a 00}{04 02 00}.\n\nMõtle kogu selle vee peale,\nmis sinna imbub{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{07 0b 00}{01 00 00 0a 00} Kuhu\nsee kõik kaob?"
   },
   {
    "id": 13,
    "en": "Flowers{01 00 00 05 00} smell so good{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00} But\nwhen you eat them, they're\nnot sweet at all.\nThat was a tough life\nlesson for me.{01 01 00} {07 0a 00}I gotta be\nmore like a flower.{01 00 00 05 00}.{01 00 00 05 00}.",
-   "et": ""
+   "et": "Lilled{01 00 00 05 00} lõhnavad nii hästi{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00}\nAga kui neid süüa, pole\nnad üldse magusad.\nSee oli mulle karm\nelutund.{01 01 00} {07 0a 00}Pean olema\nrohkem nagu lill{01 00 00 05 00}.{01 00 00 05 00}."
   },
   {
    "id": 14,
    "en": "{07 00 00}You know weeds?{01 00 00 05 00} {07 16 00}I feel so\nbad for them 'cause\neveryone hates them.\n{07 00 00}If it would make 'em taste\ngood,{01 00 00 0a 00}{01 00 00 0a 00}{07 1b 00}{01 00 00 05 00} I'd give 'em all the\nwater they wanted{01 00 00 05 00}.{01 00 00 05 00}{01 00 00 05 00}.{01 00 00 05 00}.",
-   "et": ""
+   "et": "{07 00 00}Tead umbrohtu?{01 00 00 05 00} {07 16 00}Mul on neist\nnii kahju, sest kõik\nvihkavad neid.\n{07 00 00}Kui see neid maitsvaks\nteeks,{01 00 00 0a 00}{01 00 00 0a 00}{07 1b 00}{01 00 00 05 00} annaksin neile kogu\nvee, mida tahavad{01 00 00 05 00}.{01 00 00 05 00}{01 00 00 05 00}.{01 00 00 05 00}."
   },
   {
    "id": 15,
    "en": "{07 00 00}When I water flowers,{01 00 00 0a 00}{07 0b 00}{01 00 00 05 00} why\ndo I always{01 00 00 05 00} unconsciously\nopen my mouth?\n{07 13 00}{01 00 00 0a 00}It's like I'm hoping I'll\nwater me,{01 00 00 05 00} too{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 14 00}\n\n{07 16 00}But while the flowers get\nall the water they want,{01 00 00 05 00} I\njust get thirstier!",
-   "et": ""
+   "et": "{07 00 00}Kui ma lilli kastan,{01 00 00 0a 00}{07 0b 00}{01 00 00 05 00} miks\nma alati{01 00 00 05 00} alateadlikult\nsuu lahti teen?\n{07 13 00}{01 00 00 0a 00}Nagu lootaksin, et keegi\nkastab ka mind,{01 00 00 05 00} {01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 14 00}\n\n{07 16 00}Aga lilled saavad kogu\nvee, mida tahavad,{01 00 00 05 00} ja\nmul läheb aina janusemaks!"
   },
   {
    "id": 16,
    "en": "Well{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 14 00} {07 1b 00}{01 00 00 05 00}The thing they water\nis different!\n\n{07 09 00}{01 00 00 0a 00}Was that the {04 14 00}\nline you were gonna feed\nme, {01 00 00 05 00}{04 02 00}?",
-   "et": ""
+   "et": "Noh{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 14 00} {07 1b 00}{01 00 00 05 00}See, mida kastetakse,\non erinev!\n\n{07 09 00}{01 00 00 0a 00}Kas see oligi see {04 14 00}\nlause, mida sa mulle\nsööta tahtsid, {01 00 00 05 00}{04 02 00}?"
   },
   {
    "id": 17,
    "en": "{07 0a 00}A {ff 00 00 07}watering can{ff 00 00 00} quenches the\nflowers' thirst.{01 00 00 0a 00} A pitcher\nquenches our thirst!",
-   "et": ""
+   "et": "{07 0a 00}{ff 00 00 07}Kastekann{ff 00 00 00} kustutab lillede\njanu.{01 00 00 0a 00} Kann kustutab\nmeie janu!"
   },
   {
    "id": 18,
    "en": "{07 0e 00}Let's give it a try{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{01 01 00} {07 17 00}Wow!{01 00 00 05 00}\nYou're just wonderful,{01 00 00 05 00}\n{04 02 00}.\n{07 13 00}{01 00 00 0a 00}I think that petal just got\na little brighter!",
-   "et": ""
+   "et": "{07 0e 00}Proovime järele{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{01 01 00} {07 17 00}Vau!{01 00 00 05 00}\nSa oled lihtsalt imeline,{01 00 00 05 00}\n{04 02 00}.\n{07 13 00}{01 00 00 0a 00}Mulle tundub, et see õieleht\nläks just heledamaks!"
   },
   {
    "id": 19,
    "en": "{07 0d 00}That's why{01 00 00 05 00} you have to\ncompliment me more,{01 00 00 05 00}\n{04 02 00}!",
-   "et": ""
+   "et": "{07 0d 00}Just sellepärast{01 00 00 05 00} peadki sa\nmind rohkem kiitma,{01 00 00 05 00}\n{04 02 00}!"
   }
  ]
 }

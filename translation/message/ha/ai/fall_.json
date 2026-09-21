@@ -4,17 +4,17 @@
   {
    "id": 0,
    "en": "{01 08 00}WAAARGH! {01 00 00 05 00}Who did this?!\n\n\nOh, you think playing in the\nsand is funny?!{01 00 00 05 00} Go play\nin a sandbox, {04 02 00}!",
-   "et": ""
+   "et": "{01 08 00}VAAARGH! {01 00 00 05 00}Kes seda tegi?!\n\n\nOh, sa arvad, et liivas\nmängida on naljakas?!{01 00 00 05 00} Mine\nmängi liivakastis, {04 02 00}!"
   },
   {
    "id": 1,
    "en": "{01 08 00}WHAT'S GOING ON?!\nTHE RAGE! IT'S TAKING ME!!\nYaargh, {01 00 00 05 00}{04 02 00}!!!",
-   "et": ""
+   "et": "{01 08 00}MIS TOIMUB?!\nRAEV! SEE VÕTAB MIND!!\nJaargh, {01 00 00 05 00}{04 02 00}!!!"
   },
   {
    "id": 2,
    "en": "{01 08 00}What the-- HEY!\n\n\nMy weight training will save\nme! {01 00 00 05 00}Biceps, triceps...\nCHARGE, {04 02 00}!",
-   "et": ""
+   "et": "{01 08 00}Mis kur-- HEI!\n\n\nMu jõutreening päästab\nmind! {01 00 00 05 00}Biitseps, triitseps...\nRÜNNAK, {04 02 00}!"
   }
  ]
 }

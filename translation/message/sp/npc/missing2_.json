@@ -4,52 +4,52 @@
   {
    "id": 0,
    "en": "{07 16 00}Oh, dear.{01 00 00 05 00} My daughter has\ngotten lost{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} Where could\nshe be?\n{07 0b 00}Perhaps we got separated in\n{ff 00 00 08}{04 0f 00}{ff 00 00 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} It's such a\nlarge and frightening town!",
-   "et": ""
+   "et": "{07 16 00}Oh, issand.{01 00 00 05 00} Mu tütar on\nära eksinud{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} Kus ta\nküll olla võiks?\n{07 0b 00}Ehk läksime lahku\n{ff 00 00 08}{04 0f 00}{ff 00 00 00}-s{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} See on nii\nsuur ja hirmus linn!"
   },
   {
    "id": 1,
    "en": "{07 16 00}Oh, bother. It seems my\ndaughter has run off again.{01 00 00 05 00}\n{07 00 00}{07 15 00}What a naughty kitten!\n{07 00 00}{07 0b 00}I wonder if she headed off\nto {ff 00 00 08}{04 0f 00}{ff 00 00 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}?",
-   "et": ""
+   "et": "{07 16 00}Oh, häda. Paistab, et mu\ntütar jooksis jälle minema.{01 00 00 05 00}\n{07 00 00}{07 15 00}Milline üleannetu kassipoeg!\n{07 00 00}{07 0b 00}Huvitav, kas ta läks\n{ff 00 00 08}{04 0f 00}{ff 00 00 00}-sse{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}?"
   },
   {
    "id": 2,
    "en": "{07 16 00}Where is she?! I just looked\naway for a second! Oh,\nthis is a real pickle!\n{07 0b 00}Perhaps she's wandered off\nto {ff 00 00 08}{04 0f 00}{ff 00 00 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}",
-   "et": ""
+   "et": "{07 16 00}Kus ta on?! Vaatasin ainult\nhetkeks kõrvale! Oh,\nsee on tõeline pahandus!\n{07 0b 00}Ehk uitas ta\n{ff 00 00 08}{04 0f 00}{ff 00 00 00}-sse{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}"
   },
   {
    "id": 3,
    "en": "{07 16 00}Oh, pickles! My daughter has\ngone missing again{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n{07 00 00}{07 15 00}Naughty, naughty kitten!\n{07 0b 00}Where could she be? Hmmm...{01 00 00 05 00}\n{ff 00 00 08}{04 0f 00}{ff 00 00 00}?{01 00 00 05 00} Would she\nreally go that far...?",
-   "et": ""
+   "et": "{07 16 00}Oh, kurat! Mu tütar on\njälle kadunud{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n{07 00 00}{07 15 00}Üleannetu, üleannetu kiisu!\n{07 0b 00}Kus ta olla võib? Hmm...{01 00 00 05 00}\n{ff 00 00 08}{04 0f 00}{ff 00 00 00}?{01 00 00 05 00} Kas ta tõesti\nnii kaugele läheks...?"
   },
   {
    "id": 4,
    "en": "{07 1c 00}Wait!{01 00 00 05 00} I know!{01 00 00 05 00} {ff 00 00 08}{0b 03 00}{04 0f 00}{ff 00 00 00}!{01 00 00 0a 00}\n{07 00 00}She's always going on about\nhow she enjoys it there.",
-   "et": ""
+   "et": "{07 1c 00}Oota!{01 00 00 05 00} Ma tean!{01 00 00 05 00} {ff 00 00 08}{0b 03 00}{04 0f 00}{ff 00 00 00}!{01 00 00 0a 00}\n{07 00 00}Ta räägib alati sellest,\nkui väga talle seal meeldib."
   },
   {
    "id": 5,
    "en": "{07 00 00}I think the last place we\nwent was{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{07 0e 00}{ff 00 00 08}{04 0f 00}{ff 00 00 00}? Was\nthat it?{01 00 00 05 00} Yes, it must be...",
-   "et": ""
+   "et": "{07 00 00}Arvan, et viimane koht, kus\nkäisime, oli{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{07 0e 00}{ff 00 00 08}{04 0f 00}{ff 00 00 00}? Kas\nsee oli?{01 00 00 05 00} Jah, peab olema..."
   },
   {
    "id": 6,
    "en": "{07 16 00}Oh, creampuffs! I do hope\nshe's still in {ff 00 00 08}{04 0f 00}{ff 00 00 00}!{01 00 00 0a 00}\n{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 00 00}{07 08 00}My poor, naughty kitten!",
-   "et": ""
+   "et": "{07 16 00}Oh, kooreküpsised! Loodan,\net ta on ikka {ff 00 00 08}{04 0f 00}{ff 00 00 00}-s!{01 00 00 0a 00}\n{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 00 00}{07 08 00}Mu vaene üleannetu kiisu!"
   },
   {
    "id": 7,
    "en": "{07 15 00}I'm so frustrated!{01 00 00 05 00} Wherever\ncould she have gone?{01 00 00 05 00} {07 00 00}{07 16 00}Oh,\nmy poor, naughty kitten!",
-   "et": ""
+   "et": "{07 15 00}Olen nii pettunud!{01 00 00 05 00} Kuhu\nta küll minna võis?{01 00 00 05 00} {07 00 00}{07 16 00}Oh,\nmu vaene üleannetu kiisu!"
   },
   {
    "id": 8,
    "en": "{07 16 00}Oh, she's always been such a\ndemanding child. Or maybe{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n{07 08 00}I'm just a TERRIBLE mother!!",
-   "et": ""
+   "et": "{07 16 00}Oh, ta on alati olnud nii\nnõudlik laps. Või äkki{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n{07 08 00}olen ma KOHUTAV ema!!"
   },
   {
    "id": 9,
    "en": "{07 16 00}Oh, dear{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} Oh, dearie dear.{01 00 00 05 00}\nWhat's a mama cat to do{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}?\n\n{07 0e 00}I wonder if she's in\n{ff 00 00 08}{04 0f 00}{ff 00 00 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.",
-   "et": ""
+   "et": "{07 16 00}Oh, issand{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} Oh, issakene.{01 00 00 05 00}\nMida teeb emakass{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}?\n\n{07 0e 00}Huvitav, kas ta on\n{ff 00 00 08}{04 0f 00}{ff 00 00 00}-s{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}."
   }
  ]
 }

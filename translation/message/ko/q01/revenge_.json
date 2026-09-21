@@ -4,17 +4,17 @@
   {
    "id": 0,
    "en": "{07 09 00}Man, I lost.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{04 02 00}.{01 01 00}\n{07 15 00}Next time, I'm gonna wipe\nthat smirk off your face!",
-   "et": ""
+   "et": "{07 09 00}Ma kaotasin.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{04 02 00}.{01 01 00}\n{07 15 00}Järgmine kord pühin selle\nmuige su näolt!"
   },
   {
    "id": 1,
    "en": "{07 0e 00}I guess you can't win 'em\nall{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{04 02 00}.\n\n{07 0f 00}Man, what kind of loser\nexcuse was that?!",
-   "et": ""
+   "et": "{07 0e 00}Vist ei saagi kõiki\nvõita{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{04 02 00}.\n\n{07 0f 00}Poiss, mis luuseri\nvabandus see oli?!"
   },
   {
    "id": 2,
    "en": "{07 15 00}It takes a big man to know\nhow to lose gracefully.\n\n{07 01 00}I am not that man. {01 00 00 05 00}I HATE\nLOSING TO LOSERS LIKE YOU!",
-   "et": ""
+   "et": "{07 15 00}Vaja on suurt meest, et\nosata väärikalt kaotada.\n\n{07 01 00}Mina pole see. {01 00 00 05 00}MA VIHKAN\nKAOTAMIST SINUTAOLISTELE!"
   }
  ]
 }

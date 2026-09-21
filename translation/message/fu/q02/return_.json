@@ -4,17 +4,17 @@
   {
    "id": 0,
    "en": "{07 0e 00}I wonder.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} What would be a\ngood fish for next time.{01 00 00 05 00}\nThat's a toughie.{01 00 00 05 00}.{01 00 00 05 00}.",
-   "et": ""
+   "et": "{07 0e 00}Huvitav.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} Milline kala\noleks järgmine kord hea.{01 00 00 05 00}\nSee on raske{01 00 00 05 00}.{01 00 00 05 00}."
   },
   {
    "id": 1,
    "en": "{07 0a 00}I'm one step closer to\nachieving my dream:\na walk-in aquarium!",
-   "et": ""
+   "et": "{07 0a 00}Ma olen oma unistusele\nsamm lähemal:\nsisse-astutav akvaarium!"
   },
   {
    "id": 2,
    "en": "{07 0d 00}I'm gonna put this in my\nroom right away!{01 00 00 05 00} I can't\nwait, {01 00 00 05 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 0d 00}Ma panen selle kohe oma\ntuppa!{01 00 00 05 00} Ma ei jõua\noodata, {01 00 00 05 00}{04 02 00}!"
   }
  ]
 }

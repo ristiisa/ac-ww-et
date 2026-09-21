@@ -4,32 +4,32 @@
   {
    "id": 0,
    "en": "{07 14 00}The sound of rain is so\nsoothing, {01 00 00 05 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 14 00}Vihma hääl on nii\nrahustav, {01 00 00 05 00}{04 02 00}!"
   },
   {
    "id": 1,
    "en": "{0b 03 00}{01 06 00}It's still raining{01 07 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\nMy feet are getting soaked,\n{04 02 00}.",
-   "et": ""
+   "et": "{0b 03 00}{01 06 00}Ikka veel sajab{01 07 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\nMu jalad saavad märjaks,\n{04 02 00}."
   },
   {
    "id": 2,
    "en": "{0b 03 00}{01 06 00}This rain just won't let up{01 07 00}!",
-   "et": ""
+   "et": "{0b 03 00}{01 06 00}See vihm ei anna järele{01 07 00}!"
   },
   {
    "id": 3,
    "en": "{07 14 00}Rain makes flowers grow!{01 00 00 0a 00}\nWhat? I'm looking at the\nbright side, {01 00 00 05 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 14 00}Vihm paneb lilled kasvama!{01 00 00 0a 00}\nMis? Ma vaatan helgemat\npoolt, {01 00 00 05 00}{04 02 00}!"
   },
   {
    "id": 4,
    "en": "{07 0f 00}I'm starting to think{01 00 00 05 00} all\nthis rain is my fault.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}",
-   "et": ""
+   "et": "{07 0f 00}Ma hakkan arvama,{01 00 00 05 00} et kogu\nsee vihm on minu süü.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}"
   },
   {
    "id": 5,
    "en": "{07 14 00}{0b 03 00}{01 06 00}Oh, hi{01 07 00}!{01 00 00 0f 00}\nSo, {04 1f 00}. Still at it,\n{01 00 00 05 00}{04 02 00}?",
-   "et": ""
+   "et": "{07 14 00}{0b 03 00}{01 06 00}Oh, tere{01 07 00}!{01 00 00 0f 00}\nNii, {04 1f 00}. Ikka ametis,\n{01 00 00 05 00}{04 02 00}?"
   }
  ]
 }

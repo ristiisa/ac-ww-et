@@ -4,17 +4,17 @@
   {
    "id": 0,
    "en": "The hungry {04 10 00}.",
-   "et": ""
+   "et": "Näljane {04 10 00}."
   },
   {
    "id": 1,
    "en": "I'm growing! {04 10 00}",
-   "et": ""
+   "et": "Ma kasvan! {04 10 00}"
   },
   {
    "id": 2,
    "en": "A huh huh! {04 10 00}",
-   "et": ""
+   "et": "A hah haa! {04 10 00}"
   },
   {
    "id": 3,
@@ -24,7 +24,7 @@
   {
    "id": 4,
    "en": "It's nap time! {04 10 00}",
-   "et": ""
+   "et": "Uinaku aeg! {04 10 00}"
   },
   {
    "id": 5,
@@ -39,27 +39,27 @@
   {
    "id": 7,
    "en": "I'm sad now. {04 10 00}",
-   "et": ""
+   "et": "Olen kurb. {04 10 00}"
   },
   {
    "id": 8,
    "en": "Hardcore! {04 10 00}",
-   "et": ""
+   "et": "Täiega! {04 10 00}"
   },
   {
    "id": 9,
    "en": "I love frills! {04 10 00}",
-   "et": ""
+   "et": "Armastan sakke! {04 10 00}"
   },
   {
    "id": 10,
    "en": "I'm a hammer! {04 10 00}",
-   "et": ""
+   "et": "Olen haamer! {04 10 00}"
   },
   {
    "id": 11,
    "en": "I'm not weird. {04 10 00}",
-   "et": ""
+   "et": "Pole veider. {04 10 00}"
   },
   {
    "id": 12,
@@ -69,27 +69,27 @@
   {
    "id": 13,
    "en": "Shake it! {04 10 00}",
-   "et": ""
+   "et": "Raputa! {04 10 00}"
   },
   {
    "id": 14,
    "en": "Good-bye! {04 10 00}",
-   "et": ""
+   "et": "Head aega! {04 10 00}"
   },
   {
    "id": 15,
    "en": "Keep it real. {04 10 00}",
-   "et": ""
+   "et": "Ole ehtne. {04 10 00}"
   },
   {
    "id": 16,
    "en": "Yippee! From {04 10 00}",
-   "et": ""
+   "et": "Jipii! {04 10 00}-lt"
   },
   {
    "id": 17,
    "en": "I'm hot! From {04 10 00}",
-   "et": ""
+   "et": "Olen kuum! {04 10 00}-lt"
   },
   {
    "id": 18,
@@ -99,7 +99,7 @@
   {
    "id": 19,
    "en": "Excessive... {04 10 00}",
-   "et": ""
+   "et": "Liialdus... {04 10 00}"
   }
  ]
 }

@@ -4,172 +4,172 @@
   {
    "id": 0,
    "en": "{07 04 00}I-{01 00 00 05 00}I{01 00 00 05 00} brought you that {ff 00 00 02}thing{ff 00 00 00}\nyou were talking about!{02 01 00 03 04 05}\nWhat thing?\nI don't need it.\nGimme gimme!",
-   "et": ""
+   "et": "{07 04 00}M-{01 00 00 05 00}ma{01 00 00 05 00} tõin sulle selle {ff 00 00 02}asja{ff 00 00 00},\nmillest sa rääkisid!{02 01 00 03 04 05}\nMis asja?\nMul pole vaja.\nAnna siia!"
   },
   {
    "id": 1,
    "en": "{07 00 00}Say,{01 00 00 05 00} {04 1f 00},{01 00 00 0a 00}{07 0b 00} what do\nyou think of {04 0c 00}?{05 05 00 04 0a 04 0b 04 0c 04 0d}\nI try not to.\nTalk about nice!",
-   "et": ""
+   "et": "{07 00 00}Kuule,{01 00 00 05 00} {04 1f 00},{01 00 00 0a 00}{07 0b 00} mida sa\narvad {04 0c 00}-st?{05 05 00 04 0a 04 0b 04 0c 04 0d}\nÜritan mitte.\nOn alles tore!"
   },
   {
    "id": 2,
    "en": "{07 14 00}Um,{01 00 00 05 00} {04 1f 00}.\n\n\n{07 00 00}{07 0b 00}Want to buy my\n{0b 02 00}{04 1c 00} for\n{04 11 00} Bells?{02 01 00 15 16 04}\nI'll buy it!\nThat's too much!\nNo interest.",
-   "et": ""
+   "et": "{07 14 00}Ee,{01 00 00 05 00} {04 1f 00}.\n\n\n{07 00 00}{07 0b 00}Kas tahad osta mu\n{0b 02 00}{04 1c 00}\n{04 11 00} kella eest?{02 01 00 15 16 04}\nOstan ära!\nLiiga palju!\nPole huvi."
   },
   {
    "id": 3,
    "en": "{07 00 00}You lookin' at my old\n{0b 02 00}{04 1c 00}?\n\n{07 14 00}I'll sell it to you right now\nfor {04 11 00} Bells{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00}\n{07 0b 00}Interested,{01 00 00 05 00} {04 02 00}?{02 00 00 06 04}\nI'll take it!\nNo, thanks.",
-   "et": ""
+   "et": "{07 00 00}Vaatad mu vana\n{0b 02 00}{04 1c 00}?\n\n{07 14 00}Müün selle sulle kohe\n{04 11 00} kella eest{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00}\n{07 0b 00}Huvitab,{01 00 00 05 00} {04 02 00}?{02 00 00 06 04}\nVõtan!\nEi, aitäh."
   },
   {
    "id": 4,
    "en": "{07 16 00}Oh, really,{01 00 00 0a 00} {04 02 00}? OK,\nI guess.",
-   "et": ""
+   "et": "{07 16 00}Oh, tõesti,{01 00 00 0a 00} {04 02 00}? Olgu\nsiis."
   },
   {
    "id": 5,
    "en": "{06 00 00 08 09}",
-   "et": ""
+   "et": "{06 00 00 08 09}"
   },
   {
    "id": 6,
    "en": "{07 14 00}Sold{01 00 00 0a 00} to {04 1f 00},{01 00 00 0a 00}\n{04 02 00}!",
-   "et": ""
+   "et": "{07 14 00}Müüdud{01 00 00 0a 00} {04 1f 00}-le,{01 00 00 0a 00}\n{04 02 00}!"
   },
   {
    "id": 7,
    "en": "{07 00 00}Huh huh huh{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 0a 00}{07 14 00} Take good\ncare of it, {01 00 00 05 00}{04 02 00}.",
-   "et": ""
+   "et": "{07 00 00}Hah hah haa{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 0a 00}{07 14 00} Hoolitse\nselle eest, {01 00 00 05 00}{04 02 00}."
   },
   {
    "id": 8,
    "en": "{07 04 00}{07 16 00}Dude, you gotta chill out a\nlittle. I'll give you my\n{0b 02 00}{04 1c 00}.",
-   "et": ""
+   "et": "{07 04 00}{07 16 00}Semu, rahune veidi maha.\nAnnan sulle oma\n{0b 02 00}{04 1c 00}."
   },
   {
    "id": 9,
    "en": "{07 16 00}No way.{01 00 00 0a 00} This {ff 00 00 02}thing{ff 00 00 00} is really\nhard to come by{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}. {07 0e 00}I know{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 01 00}\n{07 0c 00}It's yours for {04 11 00} Bells!{02 00 00 06 04}\nDeal!\nNever mind.",
-   "et": ""
+   "et": "{07 16 00}Pole võimalik.{01 00 00 0a 00} Seda {ff 00 00 02}asja{ff 00 00 00} on\nväga raske saada{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}. {07 0e 00}Tean{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 01 00}\n{07 0c 00}Sinu oma {04 11 00} kella eest!{02 00 00 06 04}\nKäed löödud!\nÜkskõik."
   },
   {
    "id": 10,
    "en": "{07 04 00}Really?{01 00 00 0f 00}{01 00 00 14 00} So, you two are\nfriends, {01 00 00 0a 00}{04 02 00}?\n\n{07 16 00}Then{01 00 00 05 00} could you buy my\n{0b 02 00}{04 1c 00}\noff me for {04 11 00} Bells?\n{07 1b 00}To be honest, I don't want\nto have the exact same\nthing as {04 0c 00}{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.{02 00 00 0e 10}\nI'll buy it!\nNo thanks.",
-   "et": ""
+   "et": "{07 04 00}Tõesti?{01 00 00 0f 00}{01 00 00 14 00} Nii et te olete\nsõbrad, {01 00 00 0a 00}{04 02 00}?\n\n{07 16 00}Kas{01 00 00 05 00} sa siis ostaksid mu\n{0b 02 00}{04 1c 00}\nära {04 11 00} kella eest?\n{07 1b 00}Ausalt öeldes ei taha ma\ntäpselt sama asja mis\n{04 0c 00}{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.{02 00 00 0e 10}\nOstan ära!\nEi, aitäh."
   },
   {
    "id": 11,
    "en": "{06 01 00 11 11 12}",
-   "et": ""
+   "et": "{06 01 00 11 11 12}"
   },
   {
    "id": 12,
    "en": "{07 0e 00}Hmm.{01 00 00 05 00} Yeah,{01 00 00 0a 00}{01 00 00 14 00} I guess{01 00 00 05 00} I kinda\ntry not to, too{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{01 00 00 0a 00}",
-   "et": ""
+   "et": "{07 0e 00}Hmm.{01 00 00 05 00} Jaa,{01 00 00 0a 00}{01 00 00 14 00} ma vist{01 00 00 05 00} üritan\nka mitte{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{01 00 00 0a 00}"
   },
   {
    "id": 13,
    "en": "{07 19 00}Yeah{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} {07 16 00}{04 0c 00} is kind\nof a bully.{01 00 00 05 00} And I don't\nlike bullies.\n{07 00 00}Say,{01 00 00 05 00} do you wanna buy\nthis, {04 1f 00}?\n\n{07 16 00}I actually promised to sell\nit to {04 0c 00} for\n5,000 Bells{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 14 00}But I could sell it to you\nfor {04 11 00} Bells!{02 00 00 13 14}\nYes! I'll buy it!\nNo thanks.",
-   "et": ""
+   "et": "{07 19 00}Jaa{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} {07 16 00}{04 0c 00} on üsna\nkiusaja.{01 00 00 05 00} Ja mulle ei\nmeeldi kiusajad.\n{07 00 00}Kuule,{01 00 00 05 00} kas tahad selle\nära osta, {04 1f 00}?\n\n{07 16 00}Tegelikult lubasin selle\nmüüa {04 0c 00}-le\n5000 kella eest{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 14 00}Aga võiksin selle sulle\nmüüa {04 11 00} kella eest!{02 00 00 13 14}\nJah! Ostan!\nEi, aitäh."
   },
   {
    "id": 14,
    "en": "{07 02 00}Wow{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00} You must really like\nit. {01 01 00}{07 09 00}Here.{01 00 00 05 00}{01 00 00 0a 00} Take it,{01 00 00 05 00}\n{04 02 00}.",
-   "et": ""
+   "et": "{07 02 00}Vau{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00} Sulle peab see\nväga meeldima. {01 01 00}{07 09 00}Säh.{01 00 00 05 00}{01 00 00 0a 00} Võta,{01 00 00 05 00}\n{04 02 00}."
   },
   {
    "id": 15,
    "en": "{07 16 00}Well, good luck,{01 00 00 0a 00}\n{04 02 00}.",
-   "et": ""
+   "et": "{07 16 00}Noh, edu sulle,{01 00 00 0a 00}\n{04 02 00}."
   },
   {
    "id": 16,
    "en": "{07 00 00}Hmmm{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00} {07 14 00}You've got a weird\nsense of duty,{01 00 00 0a 00} {04 02 00}.",
-   "et": ""
+   "et": "{07 00 00}Hmmm{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00} {07 14 00}Sul on imelik\nkohusetunne,{01 00 00 0a 00} {04 02 00}."
   },
   {
    "id": 17,
    "en": "{07 16 00}I guess you're friendlier\nthan I thought.{01 01 00} {07 06 00}This isn't\nright! You're MY friend.\n{07 11 00}Here! This will cement our\nfriendship. {01 00 00 0a 00}{04 0c 00}\ndoesn't give you presents!",
-   "et": ""
+   "et": "{07 16 00}Sa oled vist sõbralikum,\nkui arvasin.{01 01 00} {07 06 00}See pole õige!\nSa oled MINU sõber.\n{07 11 00}Säh! See kinnitab meie\nsõprust. {01 00 00 0a 00}{04 0c 00}\nei tee sulle kingitusi!"
   },
   {
    "id": 18,
    "en": "{07 15 00}Ugh!{01 00 00 0a 00} I can't stand that\ncreep.{01 01 00} {07 16 00}I've never met\nanyone so{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00}creepy.",
-   "et": ""
+   "et": "{07 15 00}Uhh!{01 00 00 0a 00} Ma ei kannata seda\ntüüpi.{01 01 00} {07 16 00}Pole kunagi\nkohanud kedagi nii{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00}jubedat."
   },
   {
    "id": 19,
    "en": "{07 16 00}Don't tell {04 0c 00},{01 00 00 0a 00}\n{04 02 00}.",
-   "et": ""
+   "et": "{07 16 00}Ära ütle {04 0c 00}-le,{01 00 00 0a 00}\n{04 02 00}."
   },
   {
    "id": 20,
    "en": "{07 00 00}I see{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00} {07 19 00}I guess I have to\nkeep my promise then.{07 16 00}",
-   "et": ""
+   "et": "{07 00 00}Selge{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00} {07 19 00}Siis pean vist\noma lubadust pidama.{07 16 00}"
   },
   {
    "id": 21,
    "en": "{07 04 00}Really?{01 01 00} {07 14 00}Great!{01 00 00 0a 00} I ate too\nmuch this month, so\nmoney's a little tight.\n{07 00 00}OK.{01 00 00 05 00} It's a done deal!",
-   "et": ""
+   "et": "{07 04 00}Tõesti?{01 01 00} {07 14 00}Suurepärane!{01 00 00 0a 00} Sõin\nsel kuul liiga palju, nii et\nrahaga on veidi kitsas.\n{07 00 00}Olgu.{01 00 00 05 00} Kokkulepe sõlmitud!"
   },
   {
    "id": 22,
    "en": "{07 16 00}Really? {01 00 00 0a 00}{07 0b 00}Then what's the\nright price?{05 05 00 04 18 04 1a 04 1a 04 1e}\nFree!\nThe buddy price.",
-   "et": ""
+   "et": "{07 16 00}Tõesti? {01 00 00 0a 00}{07 0b 00}Mis on siis\nõige hind?{05 05 00 04 18 04 1a 04 1a 04 1e}\nTasuta!\nSõbrahind."
   },
   {
    "id": 23,
    "en": "{07 0e 00}Hmm{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 14 00} Maybe I'll just sell\nit{01 00 00 05 00} at the shop then.",
-   "et": ""
+   "et": "{07 0e 00}Hmm{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 14 00} Äkki müün selle\nsiis{01 00 00 05 00} lihtsalt poodi."
   },
   {
    "id": 24,
    "en": "{06 00 00 19 17}",
-   "et": ""
+   "et": "{06 00 00 19 17}"
   },
   {
    "id": 25,
    "en": "{07 16 00}But{01 00 00 0a 00} I bought my\n{0b 02 00}{04 1c 00} for\n{04 11 00} Bells.\n{07 1b 00}I'd really like it if you\ncould shell out the same,{01 00 00 0a 00}\n{04 02 00}.{02 00 00 17 15}\nRip-off!\nMaybe...",
-   "et": ""
+   "et": "{07 16 00}Aga{01 00 00 0a 00} ma ostsin oma\n{0b 02 00}{04 1c 00}\n{04 11 00} kella eest.\n{07 1b 00}Mulle meeldiks väga, kui\nsa sama palju välja käiksid,{01 00 00 0a 00}\n{04 02 00}.{02 00 00 17 15}\nRöövimine!\nVõib-olla..."
   },
   {
    "id": 26,
    "en": "{06 01 00 1b 1c 19}",
-   "et": ""
+   "et": "{06 01 00 1b 1c 19}"
   },
   {
    "id": 27,
    "en": "{07 1b 00}You have a surprising lack\nof self-respect,{01 00 00 0a 00}\n{04 02 00}.\n{07 00 00}{0b 03 00}{04 0b 00} told {ff 00 00 06}Tom Nook{ff 00 00 00}\nhe should take a 3,000 Bell\nloss on it.\n{07 14 00}Poor old {ff 00 00 06}Nook{ff 00 00 00} just went\npale!",
-   "et": ""
+   "et": "{07 1b 00}Sul on üllatavalt vähe\neneseväärikust,{01 00 00 0a 00}\n{04 02 00}.\n{07 00 00}{0b 03 00}{04 0b 00} ütles {ff 00 00 06}Tom Nookile{ff 00 00 00},\net too peaks võtma selle\npealt 3000 kella kahjumit.\n{07 14 00}Vaene vana {ff 00 00 06}Nook{ff 00 00 00} läks\nnäost valgeks!"
   },
   {
    "id": 28,
    "en": "{07 09 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00}W{01 00 00 0a 00}-wow, {04 1f 00}. You\nmust be really desperate,{01 00 00 05 00}\n{04 02 00}.\n{07 00 00}I guess{01 00 00 0a 00} I'll just give it\nto you for free.{01 00 00 0a 00} You need\nit more than I do.",
-   "et": ""
+   "et": "{07 09 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00}V{01 00 00 0a 00}-vau, {04 1f 00}. Sa\npead olema meeleheitel,{01 00 00 05 00}\n{04 02 00}.\n{07 00 00}Annan{01 00 00 0a 00} selle sulle vist\nlihtsalt tasuta.{01 00 00 0a 00} Sina vajad\nseda rohkem kui mina."
   },
   {
    "id": 29,
    "en": "{07 00 00}And{01 00 00 0a 00} don't worry about\nthanking me{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 01 00}\nYou're{01 00 00 05 00} scary right now!",
-   "et": ""
+   "et": "{07 00 00}Ja{01 00 00 0a 00} ära muretse tänamise\npärast{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 01 00}\nSa oled{01 00 00 05 00} praegu hirmus!"
   },
   {
    "id": 30,
    "en": "{06 00 00 1f 20}",
-   "et": ""
+   "et": "{06 00 00 1f 20}"
   },
   {
    "id": 31,
    "en": "{07 02 00}WHAT?!{01 01 00}{07 08 00} That's terrible!{01 00 00 14 00}\nYou're nothing but a big\nmeanie, {04 1f 00}!",
-   "et": ""
+   "et": "{07 02 00}MIDA?!{01 01 00}{07 08 00} See on kohutav!{01 00 00 14 00}\nSa pole muud kui suur\npahalane, {04 1f 00}!"
   },
   {
    "id": 32,
    "en": "{07 02 00}Free?!{01 01 00} {07 0e 00}Well{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 14 00} Hmmm. That\ncould be kinda cool.\n\n{07 00 00}OK!{01 00 00 14 00} I'll follow my heart and\ngive it to you for free!",
-   "et": ""
+   "et": "{07 02 00}Tasuta?!{01 01 00} {07 0e 00}Noh{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 14 00} Hmmm. See\nvõiks olla päris lahe.\n\n{07 00 00}Olgu!{01 00 00 14 00} Järgin oma südant ja\nannan selle sulle tasuta!"
   },
   {
    "id": 33,
    "en": "{07 0d 00}Thank you very much,{01 00 00 0a 00}\n{04 02 00}!{03 01 00 01}",
-   "et": ""
+   "et": "{07 0d 00}Suur tänu,{01 00 00 0a 00}\n{04 02 00}!{03 01 00 01}"
   }
  ]
 }

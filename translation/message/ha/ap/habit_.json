@@ -4,82 +4,82 @@
   {
    "id": 0,
    "en": "{07 16 00}Hold up a sec, {ff 00 00 05}{04 1f 00}{ff 00 00 00}!{01 00 00 0a 00}\nI've got a little favor to\nask you, {01 00 00 05 00}{04 02 00}...\n{07 00 00}Y'know that thing I say?{01 00 00 05 00}\nA lot?{01 00 00 05 00} \"{0b 03 00}{04 02 00}\"?{01 00 00 05 00}\n{07 0b 00}Am I playing that out?\n{07 06 00}I kinda think I am, so{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\nyou gotta come up with\nsomething edgier for me!",
-   "et": ""
+   "et": "{07 16 00}Oota hetk, {ff 00 00 05}{04 1f 00}{ff 00 00 00}!{01 00 00 0a 00}\nMul on sulle väike palve,\n{01 00 00 05 00}{04 02 00}...\n{07 00 00}Tead seda, mida ma ütlen?{01 00 00 05 00}\nPalju?{01 00 00 05 00} „{0b 03 00}{04 02 00}”?{01 00 00 05 00}\n{07 0b 00}Kas ma kulutan seda ära?\n{07 06 00}Vist jah, nii et{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\nsa pead mulle midagi\nteravamat välja mõtlema!"
   },
   {
    "id": 1,
    "en": "{07 14 00}{0b 03 00}{01 06 00}Yo yo yo{01 07 00}!{01 00 00 05 00}\nListen up, {ff 00 00 05}{04 1f 00}{ff 00 00 00}!\n\n{07 16 00}I'm feeling stale. {01 00 00 05 00}Real\nstale. {01 00 00 05 00}I got stale moves,\nstale everything{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 00 00}Stalest of all is that thing\nI say all the time. {01 00 00 05 00}I mean,\nI WORK that phrase.\n{07 0b 00}Can you think of a good\nalternative, {01 00 00 05 00}{04 02 00}?",
-   "et": ""
+   "et": "{07 14 00}{0b 03 00}{01 06 00}Jou jou jou{01 07 00}!{01 00 00 05 00}\nKuula, {ff 00 00 05}{04 1f 00}{ff 00 00 00}!\n\n{07 16 00}Ma olen ära leierdatud.{01 00 00 05 00}\nMu liigutused,{01 00 00 05 00} kõik on\nleierdatud{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 00 00}Kõige vanem on see asi,\nmida ma ütlen. {01 00 00 05 00}Ma lausa\nKURNAN seda fraasi.\n{07 0b 00}Kas sa oskad head\nalternatiivi, {01 00 00 05 00}{04 02 00}?"
   },
   {
    "id": 2,
    "en": "{06 00 00 0e 0f}",
-   "et": ""
+   "et": "{06 00 00 0e 0f}"
   },
   {
    "id": 3,
    "en": "{07 16 00}Oh yeah?! {01 00 00 05 00}{0b 03 00}{04 02 00}?!\n\n\n{07 14 00}MAN, that worked out well!{01 00 00 05 00}\nNow I don't have to exert\nany brain effort at ALL!",
-   "et": ""
+   "et": "{07 16 00}Ah jaa?! {01 00 00 05 00}{0b 03 00}{04 02 00}?!\n\n\n{07 14 00}MEES, see läks hästi!{01 00 00 05 00}\nNüüd ei pea ma ajusid\nÜLDSE pingutama!"
   },
   {
    "id": 4,
    "en": "{07 14 00}Oh YEAH!{01 00 00 0f 00} Man, everyone is\ngonna be so PUMPED to hear\nthe new me!",
-   "et": ""
+   "et": "{07 14 00}Oh JAA!{01 00 00 0f 00} Mees, kõik lähevad\nnii ÄGEDAKS, kui kuulevad\nuut mind!"
   },
   {
    "id": 5,
    "en": "{07 0d 00}Awright!{01 00 00 05 00} I'm counting on\nyou, OK?",
-   "et": ""
+   "et": "{07 0d 00}Olgu!{01 00 00 05 00} Ma loodan sinu\npeale, eks?"
   },
   {
    "id": 6,
    "en": "{07 00 00}{ff 00 00 02}{0b 03 00}{04 02 00}{01 00 00 05 00}{ff 00 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 0b 00}right?",
-   "et": ""
+   "et": "{07 00 00}{ff 00 00 02}{0b 03 00}{04 02 00}{01 00 00 05 00}{ff 00 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 0b 00}eks?"
   },
   {
    "id": 7,
    "en": "{07 15 00}\"Hey you! {0b 03 00}{04 02 00}!\"{01 00 00 0a 00}\n.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 04 00}Oh yeah!{01 00 00 05 00} Nice!{01 00 00 05 00} NICE!\n\n{07 14 00}I'm gonna start throwing\nthat thing around like\nconfetti, {01 00 00 05 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 15 00}„Hei sina! {0b 03 00}{04 02 00}!”{01 00 00 0a 00}\n.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 04 00}Oh jaa!{01 00 00 05 00} Äge!{01 00 00 05 00} ÄGE!\n\n{07 14 00}Ma hakkan seda asja\nlaiali loopima nagu\nkonfetit, {01 00 00 05 00}{04 02 00}!"
   },
   {
    "id": 8,
    "en": "{07 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{0b 03 00}{04 02 00}!{01 01 00}\n{07 02 00}Whoa!{01 00 00 05 00} It's like speaking my\nfirst words all over again!\n{07 11 00}Solid work, {04 1f 00}!{01 00 00 05 00}\nYou're good{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{04 02 00}.",
-   "et": ""
+   "et": "{07 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{0b 03 00}{04 02 00}!{01 01 00}\n{07 02 00}Ohoo!{01 00 00 05 00} See on nagu räägiksin\noma esimesi sõnu uuesti!\n{07 11 00}Kõva töö, {04 1f 00}!{01 00 00 05 00}\nSa oled hea{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{04 02 00}."
   },
   {
    "id": 9,
    "en": "{07 14 00}{0b 03 00}{01 06 00}Yo, wassup{01 07 00}!{01 00 00 05 00}\nHow you been, {04 1f 00}?\n\n{07 00 00}Listen, this is totally out\nof left field, but{01 00 00 05 00} {07 0b 00}do you\nknow any cool chants?\n{07 00 00}I kinda wanna get a new\ngreeting that people might\nchant at me someday.\n{07 16 00}Problem is, I've been having\na BRUTAL time coming up\nwith something cool{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.",
-   "et": ""
+   "et": "{07 14 00}{0b 03 00}{01 06 00}Jou, mis toimub{01 07 00}!{01 00 00 05 00}\nKuidas läinud on, {04 1f 00}?\n\n{07 00 00}Kuule, see tuleb täiesti\nootamatult, aga{01 00 00 05 00} {07 0b 00}kas sa\ntead mõnda lahedat hüüdu?\n{07 00 00}Ma tahaksin uut tervitust,\nmida inimesed võiksid mulle\nkunagi hüüda.\n{07 16 00}Häda on selles, et mul on\nolnud JUBE raske midagi\nlahedat välja mõelda{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}."
   },
   {
    "id": 10,
    "en": "{07 14 00}{0b 03 00}{01 06 00}Word, bird{01 07 00}!{01 00 00 0a 00}\nHow are ya, {04 1f 00}?\n\n{07 00 00}Listen, I just had this\nkiller idea. {01 00 00 05 00}Today, in honor\nof us being buds...\n{07 15 00}Let's come up with a secret\ngreeting for just the two\nof us, {01 00 00 05 00}{04 02 00}!\n{07 14 00}You're the brainy one, so\nyou get to come up with it!{01 01 00}\n{07 06 00}C'mon, it'll be awesome!",
-   "et": ""
+   "et": "{07 14 00}{0b 03 00}{01 06 00}Jah, mees{01 07 00}!{01 00 00 0a 00}\nKuidas läheb, {04 1f 00}?\n\n{07 00 00}Kuule, mul tuli just\ntapev idee. {01 00 00 05 00}Täna, meie\nsõpruse auks...\n{07 15 00}Mõtleme välja salajase\ntervituse ainult meie\nkahe jaoks, {01 00 00 05 00}{04 02 00}!\n{07 14 00}Sina oled see tarkpea, nii\net sina mõtled selle välja!{01 01 00}\n{07 06 00}Ole nüüd, see tuleb vinge!"
   },
   {
    "id": 11,
    "en": "{07 14 00}{0b 03 00}{0b 03 00}{ff 00 00 02}{01 06 00} {01 07 00}{ff 00 00 00}!{01 01 00}\n.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}{07 0b 00}Is that it?",
-   "et": ""
+   "et": "{07 14 00}{0b 03 00}{0b 03 00}{ff 00 00 02}{01 06 00} {01 07 00}{ff 00 00 00}!{01 01 00}\n.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}{07 0b 00}Kas see ongi?"
   },
   {
    "id": 12,
    "en": "{07 14 00}{0b 03 00}{ff 00 00 02}{01 06 00} {01 07 00}{ff 00 00 00}!{01 01 00}\n{07 04 00}Oh yeah!{01 00 00 05 00} That's so fiery!{01 00 00 05 00}\nYeah, that's gonna work!\n{07 00 00}OK, sweet, from now on,\nwhen I see you, I'll lay\nthat greeting on you!\n{07 15 00}Don't forget to hit me back\nwith it, {01 00 00 05 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 14 00}{0b 03 00}{ff 00 00 02}{01 06 00} {01 07 00}{ff 00 00 00}!{01 01 00}\n{07 04 00}Oh jaa!{01 00 00 05 00} See on nii tuline!{01 00 00 05 00}\nJah, see töötab!\n{07 00 00}Olgu, super, nüüdsest, kui\nma sind näen, viskan ma\nselle tervituse sulle!\n{07 15 00}Ära unusta mulle sellega\nvastata, {01 00 00 05 00}{04 02 00}!"
   },
   {
    "id": 13,
    "en": "{07 14 00}{ff 00 00 02}{0b 03 00}{01 06 00} {01 07 00}{ff 00 00 00}!{01 01 00}\n{07 06 00}Whoa{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} Isn't that, like, a\nlittle on the trendy side?\n{07 00 00}Oh, hey, don't feel bad,\nthough.{01 00 00 05 00} I know you busted\nyour brain on that thing.\n{07 14 00}Forget trendy! {01 00 00 05 00}I'm gonna\nrock that greeting all the\ntime, {01 00 00 05 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 14 00}{ff 00 00 02}{0b 03 00}{01 06 00} {01 07 00}{ff 00 00 00}!{01 01 00}\n{07 06 00}Ohoo{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} Kas see pole pisut\nliiga trendikas?\n{07 00 00}Oh, hei, ära pane pahaks.{01 00 00 05 00}\nMa tean, et sa murdsid\nselle asja peal pead.\n{07 14 00}Unusta trendid! {01 00 00 05 00}Ma hakkan\nseda tervitust kogu aeg\nkasutama, {01 00 00 05 00}{04 02 00}!"
   },
   {
    "id": 14,
    "en": "{07 04 00}Really?!{01 00 00 0a 00} You think I oughta\njust leave it as is,\n{01 00 00 05 00}{04 02 00}?\n{07 0e 00}Hmmm...{01 00 00 05 00} Well, if you say so,\nmaybe I'm all turned around\non this thing{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 14 00}Well, {01 00 00 05 00}thanks anyway!{01 00 00 14 00}\n'Til next time,\n{01 00 00 0a 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 04 00}Tõesti?!{01 00 00 0a 00} Sa arvad, et ma\npeaksin selle jätma nii,\n{01 00 00 05 00}{04 02 00}?\n{07 0e 00}Hmmm...{01 00 00 05 00} Noh, kui sa nii\nütled, siis ehk ma olen\nselle asjaga segi läinud{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 14 00}Noh, {01 00 00 05 00}igatahes aitäh!{01 00 00 14 00}\nJärgmise korrani,\n{01 00 00 0a 00}{04 02 00}!"
   },
   {
    "id": 15,
    "en": "{07 0e 00}Yeah... {01 00 00 05 00}Now that I think\nabout it, it sounds OK the\nway it is{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 00 00}That's kinda lame, actually.{01 00 00 05 00}\n{07 02 00}I almost lost track of my\nown coolness!\n{07 06 00}That was close,\n{01 00 00 05 00}{04 02 00}! {01 00 00 0a 00}TOO CLOSE!",
-   "et": ""
+   "et": "{07 0e 00}Jah... {01 00 00 05 00}Nüüd kui ma mõtlen,\nkõlab see okei nii, nagu\nsee on{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 00 00}See on tegelikult nõme.{01 00 00 05 00}\n{07 02 00}Ma peaaegu kaotasin oma\nlaheduse silmist!\n{07 06 00}See oli napp,\n{01 00 00 05 00}{04 02 00}! {01 00 00 0a 00}LIIGA NAPP!"
   }
  ]
 }

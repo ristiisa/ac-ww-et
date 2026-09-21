@@ -4,17 +4,17 @@
   {
    "id": 0,
    "en": "{07 00 00}{0b 03 00}{04 1f 00}, have you heard\nof the rare and elusive\n{0b 02 00}{04 1a 00}?\n{07 14 00}Believe it or not, I can\ncatch them faster than\nanyone in town!\n{07 0b 00}Do you want to put me to\nthe test, {01 00 00 05 00}{04 02 00}?",
-   "et": ""
+   "et": "{07 00 00}{0b 03 00}{04 1f 00}, kas oled kuulnud\nharuldasest ja tabamatust\n{0b 02 00}{04 1a 00}?\n{07 14 00}Usu või ei, ma püüan neid\nkiiremini kui keegi teine\nsiin linnas!\n{07 0b 00}Kas sa tahad mind\nproovile panna, {01 00 00 05 00}{04 02 00}?"
   },
   {
    "id": 1,
    "en": "{07 00 00}I'm hunting the ferocious\n{0b 02 00}{04 1a 00}\nright now, {01 00 00 05 00}{04 02 00}.\nI've got an idea! Tell you\nwhat, {01 00 00 05 00}{04 1f 00}. {07 0b 00}Have you\ncaught one yet?\n{07 14 00}Then let's each see if we\ncan catch one! {01 00 00 05 00}First one\nto bag it wins!",
-   "et": ""
+   "et": "{07 00 00}Ma jahin praegu metsikut\n{0b 02 00}{04 1a 00},\n{01 00 00 05 00}{04 02 00}.\nMul on mõte! Ütlen sulle,\n{01 00 00 05 00}{04 1f 00}. {07 0b 00}Kas sa oled\njuba ühe püüdnud?\n{07 14 00}Vaatame siis mõlemad, kas\nme suudame püüda! {01 00 00 05 00}Esimene,\nkes kinni saab, võidab!"
   },
   {
    "id": 2,
    "en": "{07 00 00}I know it sounds a little\ngross, but lately, I've been\nreally into insects.\nCatching 'em, keeping 'em,\ncaring for 'em. I love\neverything about 'em!\n{07 15 00}So today's bug hunt is for\n{04 1a 00}!{01 01 00}\n{07 14 00}It's the cutest of insects.\n{07 0c 00}{0b 03 00}{04 1f 00}! Let us duel!\nWe'll battle to see who can\ncatch one first! {01 00 00 0f 00}{07 0d 00}Woo-hoo!",
-   "et": ""
+   "et": "{07 00 00}Ma tean, et see kõlab pisut\njälgilt, aga mulle\nmeeldivad putukad.\nNende püüdmine, hoidmine,\nnende eest hoolitsemine.\nMulle meeldib neis kõik!\n{07 15 00}Nii et tänane putukajaht on\n{04 1a 00} jaoks!{01 01 00}\n{07 14 00}See on nunnuim putukas.\n{07 0c 00}{0b 03 00}{04 1f 00}! Duelleerime!\nVõitleme, kes püüab\nesimesena! {01 00 00 0f 00}{07 0d 00}Juhhuu!"
   }
  ]
 }

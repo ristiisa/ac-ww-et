@@ -4,122 +4,122 @@
   {
    "id": 0,
    "en": "{07 00 00}Hey, you!{01 00 00 0a 00} About that item\nyou got there...{01 00 00 05 00} {07 0b 00}Is that\n{04 1a 00}?\n{07 06 00}Ooh! Please!{01 00 00 0a 00} You've just\nGOTTA trade it for my\n{0b 02 00}{04 1b 00}!{02 00 00 03 0b}\nOK!\nI can't do that...",
-   "et": ""
+   "et": "{07 00 00}Hei, sina!{01 00 00 0a 00} Selle asja kohta,\nmis sul seal on...{01 00 00 05 00} {07 0b 00}Kas on\n{04 1a 00}?\n{07 06 00}Ohh! Palun!{01 00 00 0a 00} Sa PEAD selle\nvahetama minu\n{0b 02 00}{04 1b 00} vastu!{02 00 00 03 0b}\nOlgu!\nMa ei saa..."
   },
   {
    "id": 1,
    "en": "{07 00 00}Hey, yesterday{01 00 00 05 00} I found\n{04 1b 00}...\n\n{07 0b 00}Any chance you maybe wanna\ntrade it for your\n{0b 02 00}{04 1a 00}?{02 00 00 03 0b}\nSure!\nNo thanks.",
-   "et": ""
+   "et": "{07 00 00}Hei, eile{01 00 00 05 00} leidsin ma\n{04 1b 00}...\n\n{07 0b 00}Kas sa tahaksid seda\nvahetada oma\n{0b 02 00}{04 1a 00} vastu?{02 00 00 03 0b}\nMuidugi!\nEi, aitäh."
   },
   {
    "id": 2,
    "en": "{07 14 00}Listen up, {01 00 00 0a 00}{04 1f 00}!\n{07 00 00}Through my squat buddy, \nI got this!\n{07 14 00}I can trade it for your\n{0b 02 00}{04 1a 00} if\nyou like!{01 00 00 0a 00} Do you want it?{02 00 00 14 0b}\nYes!\nNo thanks.",
-   "et": ""
+   "et": "{07 14 00}Kuula, {01 00 00 0a 00}{04 1f 00}!\n{07 00 00}Oma kükisemu kaudu \nsain ma selle!\n{07 14 00}Ma võin selle vahetada su\n{0b 02 00}{04 1a 00} vastu, kui\nsoovid!{01 00 00 0a 00} Kas sa tahad?{02 00 00 14 0b}\nJah!\nEi, aitäh."
   },
   {
    "id": 3,
    "en": "{06 01 00 04 05 06}",
-   "et": ""
+   "et": "{06 01 00 04 05 06}"
   },
   {
    "id": 4,
    "en": "{07 00 00}YES! {01 00 00 05 00}You rule, {01 00 00 05 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 00 00}JAH! {01 00 00 05 00}Sa oled äge, {01 00 00 05 00}{04 02 00}!"
   },
   {
    "id": 5,
    "en": "{07 00 00}Good stuff!{01 00 00 05 00} That's my kind\nof answer, {01 00 00 05 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 00 00}Hea kraam!{01 00 00 05 00} See on minu\nmoodi vastus, {01 00 00 05 00}{04 02 00}!"
   },
   {
    "id": 6,
    "en": "{07 00 00}Oh yeah!{01 00 00 05 00} You're a good kid,\n{01 00 00 05 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 00 00}Oh jaa!{01 00 00 05 00} Sa oled tubli laps,\n{01 00 00 05 00}{04 02 00}!"
   },
   {
    "id": 7,
    "en": "{06 01 00 08 09 0a}",
-   "et": ""
+   "et": "{06 01 00 08 09 0a}"
   },
   {
    "id": 8,
    "en": "{07 14 00}I gotta be honest,{01 00 00 05 00} I sorta\nactually found that in the\n{ff 00 00 08}recycling bin{ff 00 00 00}...\n{07 15 00}If you don't mind the smell,\nyou can still use it,\nthough!{01 00 00 05 00} Cherish it!",
-   "et": ""
+   "et": "{07 14 00}Pean ausalt ütlema,{01 00 00 05 00} ma\nleidsin selle tegelikult\n{ff 00 00 08}prügikastist{ff 00 00 00}...\n{07 15 00}Kui lõhn sind ei häiri,\nsaad sa seda ikka kasutada!{01 00 00 05 00}\nHoia seda kalliks!"
   },
   {
    "id": 9,
    "en": "{07 13 00}Ahhh, now that I have this \n{0b 02 00}{04 1a 00}, my\nmuscles are full of joy!\n{07 14 00}Thanks,{01 00 00 0a 00} {ff 00 00 05}{04 1f 00}{ff 00 00 00}!\nSo awesome, {01 00 00 05 00}{04 02 00}!{03 01 00 01}",
-   "et": ""
+   "et": "{07 13 00}Ahhh, nüüd kui mul on see \n{0b 02 00}{04 1a 00}, on mu\nlihased rõõmu täis!\n{07 14 00}Aitäh,{01 00 00 0a 00} {ff 00 00 05}{04 1f 00}{ff 00 00 00}!\nNii vinge, {01 00 00 05 00}{04 02 00}!{03 01 00 01}"
   },
   {
    "id": 10,
    "en": "{07 16 00}I was actually gonna throw\nthis away, but...\n\n{07 0d 00}Now I don't have to! {01 00 00 05 00}The\n{0b 02 00}{04 1b 00} will\nlive on, {01 00 00 05 00}{04 02 00}!{03 01 00 01}",
-   "et": ""
+   "et": "{07 16 00}Ma tahtsin selle tegelikult\nära visata, aga...\n\n{07 0d 00}Nüüd ei pea! {01 00 00 05 00}See\n{0b 02 00}{04 1b 00} elab\nedasi, {01 00 00 05 00}{04 02 00}!{03 01 00 01}"
   },
   {
    "id": 11,
    "en": "{06 00 00 0c 0d}",
-   "et": ""
+   "et": "{06 00 00 0c 0d}"
   },
   {
    "id": 12,
    "en": "{06 01 00 0e 0f 10}",
-   "et": ""
+   "et": "{06 01 00 0e 0f 10}"
   },
   {
    "id": 13,
    "en": "{06 01 00 11 12 13}",
-   "et": ""
+   "et": "{06 01 00 11 12 13}"
   },
   {
    "id": 14,
    "en": "{07 16 00}What? {01 00 00 05 00}No?{01 00 00 0a 00} Ooh, low blow,\n{01 00 00 05 00}{04 02 00}!{03 03 00 01}",
-   "et": ""
+   "et": "{07 16 00}Mida? {01 00 00 05 00}Ei?{01 00 00 0a 00} Ohh, madal löök,\n{01 00 00 05 00}{04 02 00}!{03 03 00 01}"
   },
   {
    "id": 15,
    "en": "{07 02 00}Huh?{01 00 00 05 00} Why NOT, {01 00 00 05 00}{04 02 00}?!\n\n\n{07 06 00}You know, {01 00 00 05 00}you went from\ncool to NOT COOL in about\none second!{03 03 00 01}",
-   "et": ""
+   "et": "{07 02 00}Ah?{01 00 00 05 00} Miks MITTE, {01 00 00 05 00}{04 02 00}?!\n\n\n{07 06 00}Tead, {01 00 00 05 00}sa läksid lahedast\nEBALAHEDAKS umbes\nühe sekundiga!{03 03 00 01}"
   },
   {
    "id": 16,
    "en": "{07 02 00}Huh?!{01 00 00 05 00} Aw, I expected better\noutta you, {01 00 00 05 00}{04 02 00}!\n\n{07 13 00}If you did clench-squats\nholding this,{01 00 00 05 00} you'd be a\ntotal hoss{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{03 03 00 01}",
-   "et": ""
+   "et": "{07 02 00}Ah?!{01 00 00 05 00} Oh, ma ootasin sinult\nparemat, {01 00 00 05 00}{04 02 00}!\n\n{07 13 00}Kui sa teeksid kükke seda\nhoides,{01 00 00 05 00} oleksid sa\ntäielik loom{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{03 03 00 01}"
   },
   {
    "id": 17,
    "en": "{07 04 00}Whoa, you don't want it?{01 00 00 0a 00}\n{07 0b 00}You mean to tell me your\nroom is already full?\n{07 15 00}Fine,{01 00 00 05 00} come back after you \nremodel your house or\nsomething, {01 00 00 05 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 04 00}Ohoo, sa ei taha seda?{01 00 00 0a 00}\n{07 0b 00}Kas sa tahad öelda, et su\ntuba on juba täis?\n{07 15 00}Olgu,{01 00 00 05 00} tule tagasi, kui oled \noma maja ümber ehitanud\nvõi midagi, {01 00 00 05 00}{04 02 00}!"
   },
   {
    "id": 18,
    "en": "{07 16 00}Don't be so stubborn!{01 01 00}\n{07 15 00}I mean it, {04 1f 00}!\n\n{07 05 00}It's a fine line between\nfreedom of choice and total\nselfishness, {01 00 00 05 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 16 00}Ära ole nii kangekaelne!{01 01 00}\n{07 15 00}Ma mõtlen seda, {04 1f 00}!\n\n{07 05 00}Valikuvabaduse ja täieliku\nisekuse vahel on peenike\npiir, {01 00 00 05 00}{04 02 00}!"
   },
   {
    "id": 19,
    "en": "{07 16 00}Huh?!{01 00 00 0a 00} You're refusing me?!{01 00 00 05 00}\nME?!\n\n{07 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}Great. {01 00 00 05 00}Now I have no\nchoice.{01 00 00 05 00} I've gotta give it \nto {04 0d 00} for free!",
-   "et": ""
+   "et": "{07 16 00}Ah?!{01 00 00 0a 00} Sa keeldud minust?!{01 00 00 05 00}\nMINUST?!\n\n{07 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}Tore. {01 00 00 05 00}Nüüd pole mul\nvalikut.{01 00 00 05 00} Ma pean selle andma\n{04 0d 00}le tasuta!"
   },
   {
    "id": 20,
    "en": "{07 0d 00}Good deal!{01 00 00 0a 00} I like that about\nyou{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} You're all business!\n\n{07 14 00}Right on!{01 00 00 05 00} Here ya go,\n{01 00 00 05 00}{04 02 00}!\n\n{06 01 00 15 16 17}",
-   "et": ""
+   "et": "{07 0d 00}Hea tehing!{01 00 00 0a 00} Mulle meeldib\nsinu juures see{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} Asjalik!\n\n{07 14 00}Äge!{01 00 00 05 00} Palun,\n{01 00 00 05 00}{04 02 00}!\n\n{06 01 00 15 16 17}"
   },
   {
    "id": 21,
    "en": "{07 00 00}You may already have this, \nbut...\n\n{07 14 00}Oh well, don't sweat the\ndetails, {01 00 00 05 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 00 00}Sul võib see juba olla, \naga...\n\n{07 14 00}Ah noh, ära muretse\npisiasjade pärast, {01 00 00 05 00}{04 02 00}!"
   },
   {
    "id": 22,
    "en": "{07 14 00}Here ya go, {01 00 00 05 00}{04 02 00}!{01 01 00}\n{07 0a 00}From now on, you're my\nhopping-wild-adventure pal!{03 01 00 01}",
-   "et": ""
+   "et": "{07 14 00}Palun, {01 00 00 05 00}{04 02 00}!{01 01 00}\n{07 0a 00}Nüüdsest oled sa mu\nmetsikute seikluste semu!{03 01 00 01}"
   },
   {
    "id": 23,
    "en": "{07 14 00}Here!{01 00 00 05 00} Take this!{01 00 00 0a 00} Hope ya dig\nit, {01 00 00 05 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 14 00}Siin!{01 00 00 05 00} Võta see!{01 00 00 0a 00} Loodan, et\nsulle meeldib, {01 00 00 05 00}{04 02 00}!"
   }
  ]
 }

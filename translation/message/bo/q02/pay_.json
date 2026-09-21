@@ -4,17 +4,17 @@
   {
    "id": 0,
    "en": "{07 16 00}This really bugs me,{01 00 00 0a 00} so do\nyou mind if I keep this\nfish?\n{07 00 00}I'll trade you my\n{0b 02 00}{04 1b 00}\nfor it,{01 00 00 0a 00} {04 02 00}!",
-   "et": ""
+   "et": "{07 16 00}See närib mind,{01 00 00 0a 00} nii et kas\nsa pahandad, kui ma selle\nkala endale jätan?\n{07 00 00}Vahetan selle vastu oma\n{0b 02 00}{04 1b 00},\n{01 00 00 0a 00}{04 02 00}!"
   },
   {
    "id": 1,
    "en": "{07 19 00}{01 00 00 05 00}I really{01 00 00 05 00} gotta study fish\nsome more,{01 00 00 0a 00} {04 02 00}!\n\n{07 00 00}So I'll give you my\n{0b 02 00}{04 1b 00} if\nyou let me keep this fish.",
-   "et": ""
+   "et": "{07 19 00}{01 00 00 05 00}Ma pean{01 00 00 05 00} kalasid veel\nrohkem uurima,{01 00 00 0a 00} {04 02 00}!\n\n{07 00 00}Nii et annan sulle oma\n{0b 02 00}{04 1b 00}, kui\nlased mul kala jätta."
   },
   {
    "id": 2,
    "en": "{07 00 00}By the way, in exchange for\nthis fish{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 01 00} {07 0c 00}Wait! I know!\nYeah!\n{07 14 00}You can have my\n{0b 02 00}{04 1b 00}!",
-   "et": ""
+   "et": "{07 00 00}Muide, vastutasuks selle\nkala eest{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 01 00} {07 0c 00}Oota! Ma tean!\nJaa!\n{07 14 00}Sa võid saada mu\n{0b 02 00}{04 1b 00}!"
   }
  ]
 }

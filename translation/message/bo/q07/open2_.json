@@ -4,17 +4,17 @@
   {
    "id": 0,
    "en": "{07 1d 00}Hey! {01 00 00 05 00}What's this?{01 00 00 14 00} The seal\nis broken{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00} Say it ain't so,\n{04 1f 00}!\nTell me you didn't read this\nletter!{01 01 00} 'Cause if you did,{01 00 00 05 00} I\nwon't like you anymore.",
-   "et": ""
+   "et": "{07 1d 00}Hei! {01 00 00 05 00}Mis see on?{01 00 00 14 00} Pitsat\non katki{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00} Ütle, et see\npole nii, {04 1f 00}!\nÜtle, et sa ei lugenud\nseda kirja!{01 01 00} Sest kui lugesid{01 00 00 05 00}\nei meeldi sa mulle enam."
   },
   {
    "id": 1,
    "en": "{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 04 00}Whoa!{01 00 00 14 00} This envelope has\nalready been opened!{01 01 00} Wait a\nsecond! {0b 03 00}{04 1f 00}?\nDid you open it,{01 00 00 05 00}\n{04 02 00}? .{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}I can't\nbelieve this!{01 00 00 14 00}\nNow {ff 00 00 06}{04 10 00}{ff 00 00 00}'s and my\nsecret will get out! This is\nterrible!",
-   "et": ""
+   "et": "{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 04 00}Ohoo!{01 00 00 14 00} See ümbrik on\njuba avatud!{01 01 00} Oota\nkorraks! {0b 03 00}{04 1f 00}?\nKas sina avasid,{01 00 00 05 00}\n{04 02 00}? .{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}Ma ei\nusu seda!{01 00 00 14 00}\nNüüd tuleb minu ja\n{ff 00 00 06}{04 10 00}{ff 00 00 00} saladus välja!\nSee on kohutav!"
   },
   {
    "id": 2,
    "en": "{07 04 00}Hey!{01 00 00 14 00} The more I look at\nthis, the more it looks like\nthe envelope is open{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00}{07 15 00}{0b 03 00}{ff 00 00 06}{04 0f 00}{ff 00 00 00} is so\ncareless,{01 00 00 0a 00} {04 02 00}!",
-   "et": ""
+   "et": "{07 04 00}Hei!{01 00 00 14 00} Mida rohkem ma seda\nvaatan, seda enam paistab,\net ümbrik on lahti{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00}{07 15 00}{0b 03 00}{ff 00 00 06}{04 0f 00}{ff 00 00 00} on nii\nhooletu,{01 00 00 0a 00} {04 02 00}!"
   }
  ]
 }

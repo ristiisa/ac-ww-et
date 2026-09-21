@@ -4,32 +4,32 @@
   {
    "id": 0,
    "en": "{07 14 00}Hello there, {01 00 00 05 00}{04 1f 00}.{01 00 00 0a 00}\n{07 00 00}It's been a while, {01 00 00 0a 00}\n{04 02 00}! Way too long!\n{07 0b 00}{01 00 00 05 00}How many weeks has it been\nexactly?{01 00 00 0a 00} Like, {04 11 00}?\n\n{01 00 00 0a 00}{07 1b 00}{01 00 00 05 00}What's that you say?{01 00 00 0a 00} That\nI'm as cute as ever? \n{07 03 00}Well, duh, {01 00 00 05 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 14 00}Tere, {01 00 00 05 00}{04 1f 00}.{01 00 00 0a 00}\n{07 00 00}Ammu pole näinud, {01 00 00 0a 00}\n{04 02 00}! Liiga kaua!\n{07 0b 00}{01 00 00 05 00}Mitu nädalat täpselt\non möödas?{01 00 00 0a 00} Nagu, {04 11 00}?\n\n{01 00 00 0a 00}{07 1b 00}{01 00 00 05 00}Mida sa ütled?{01 00 00 0a 00} Et ma\nolen sama nunnu kui alati?\n{07 03 00}No muidugi, {01 00 00 05 00}{04 02 00}!"
   },
   {
    "id": 1,
    "en": "{07 02 00}{01 00 00 0a 00}What's this?{01 00 00 05 00}\nOh, it's you, {04 1f 00}!\n\n{07 00 00}How was your {04 11 00}-week-long\nvacation? {07 1b 00}{01 00 00 0a 00}Well, you haven't\nchanged a bit! I mean it!\n{07 15 00}You might try updating your\nlook once in a while.{01 00 00 14 00}\n{07 01 00}Couldn't hurt, {01 00 00 0a 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 02 00}{01 00 00 0a 00}Mis see on?{01 00 00 05 00}\nOi, see oled sina, {04 1f 00}!\n\n{07 00 00}Kuidas su {04 11 00}-nädalane\npuhkus oli? {07 1b 00}{01 00 00 0a 00}Noh, sa pole\nkarvavõrdki muutunud!\nTõsiselt! {07 15 00}Sa võiksid oma\nvälimust vahel uuendada.{01 00 00 14 00}\n{07 01 00}Ei teeks paha, {01 00 00 0a 00}{04 02 00}!"
   },
   {
    "id": 2,
    "en": "{07 04 00}{01 00 00 0a 00}What!? {01 00 00 0a 00}.{01 00 00 0a 00}.{01 00 00 0a 00}.{01 00 00 0a 00}{07 0b 00}{01 00 00 05 00}Who are you,\n{04 02 00}?\nDo I know you?\n{07 00 00}Tee hee!{01 00 00 05 00}{07 14 00} Just kidding!{01 00 00 14 00}\nYou're {04 1f 00}, right?{01 00 00 14 00}\nIt's been a while, huh!\n{07 14 00}You're not the most\nmemorable person I've ever\nmet. You gotta visit more.",
-   "et": ""
+   "et": "{07 04 00}{01 00 00 0a 00}Mis!? {01 00 00 0a 00}.{01 00 00 0a 00}.{01 00 00 0a 00}.{01 00 00 0a 00}{07 0b 00}{01 00 00 05 00}Kes sa oled,\n{04 02 00}?\nKas ma tunnen sind?\n{07 00 00}Hihii!{01 00 00 05 00}{07 14 00} Naljatan!{01 00 00 14 00}\nSa oled {04 1f 00}, eks?{01 00 00 14 00}\nAmmu pole näinud, mis!\n{07 14 00}Sa pole just kõige\nmeeldejäävam inimene, keda\ntean. Käi tihedamini."
   },
   {
    "id": 3,
    "en": "{07 04 00}Hey!{01 00 00 05 00} I remember that face!{01 00 00 14 00}\n{07 0b 00}You're {01 00 00 05 00}{04 1f 00}, right?\n\n{07 0e 00}Let's see,{01 00 00 0a 00} how many weeks\nhas it been since I saw\nyou last?\n{07 19 00}Like {04 11 00} or something,\n{01 00 00 05 00}{04 02 00}?{07 00 00}\n\nYou look{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 14 00}a little more\nmature than you did before,\n{01 00 00 05 00}{04 02 00}.",
-   "et": ""
+   "et": "{07 04 00}Hei!{01 00 00 05 00} Ma mäletan seda nägu!{01 00 00 14 00}\n{07 0b 00}Sa oled {01 00 00 05 00}{04 1f 00}, eks?\n\n{07 0e 00}Vaatame,{01 00 00 0a 00} mitu nädalat\non möödas, kui sind\nviimati nägin?\n{07 19 00}Nagu {04 11 00} või nii,\n{01 00 00 05 00}{04 02 00}?{07 00 00}\n\nSa näed{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 14 00}veidi küpsem\nvälja kui varem,\n{01 00 00 05 00}{04 02 00}."
   },
   {
    "id": 4,
    "en": "{07 02 00}{0b 03 00}{01 06 00}Well, well{01 07 00}!\n{01 00 00 05 00}{0b 03 00}{04 1f 00}?!{01 01 00}\n{07 16 00}Where have you been?\n{07 08 00}So many things happened\nwhile you were away!\n\n{07 16 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00}{07 15 00}I'll tell you all about it{01 00 00 0a 00}\nlater! OK, {01 00 00 0a 00}{04 02 00}?",
-   "et": ""
+   "et": "{07 02 00}{0b 03 00}{01 06 00}Vaata aga{01 07 00}!\n{01 00 00 05 00}{0b 03 00}{04 1f 00}?!{01 01 00}\n{07 16 00}Kus sa oled olnud?\n{07 08 00}Nii palju asju juhtus,\nkui sa ära olid!\n\n{07 16 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00}{07 15 00}Ma räägin sulle kõigest{01 00 00 0a 00}\nhiljem! Eks, {01 00 00 0a 00}{04 02 00}?"
   },
   {
    "id": 5,
    "en": "{07 04 00}Well,{01 00 00 0a 00} what do you know!\nIt's you, {04 1f 00}!{01 00 00 14 00} {07 14 00}How\nmany weeks has it been?{01 00 00 0a 00}\n{07 02 00}What?!{01 00 00 14 00} {0b 03 00}{04 11 00}?!\nOmigosh! You know what?\n\n{01 00 00 0a 00}{07 1b 00}{01 00 00 05 00}Your house must be\nswarming with cockroaches\nright now! Gag me!",
-   "et": ""
+   "et": "{07 04 00}Noh,{01 00 00 0a 00} vaata aga!\nSee oled sina, {04 1f 00}!{01 00 00 14 00} {07 14 00}\nMitu nädalat on möödas?{01 00 00 0a 00}\n{07 02 00}Mis?!{01 00 00 14 00} {0b 03 00}{04 11 00}?!\nOhjumal! Tead mis?\n\n{01 00 00 0a 00}{07 1b 00}{01 00 00 05 00}Su maja peab praegu\nprussakaid kihama\nolema! Öök!"
   }
  ]
 }

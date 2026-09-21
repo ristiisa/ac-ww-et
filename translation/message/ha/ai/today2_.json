@@ -4,82 +4,82 @@
   {
    "id": 0,
    "en": "{0b 03 00}{01 06 00}Hey, yo{01 07 00}!\n'Sup, {01 00 00 05 00}{04 02 00}?",
-   "et": ""
+   "et": "{0b 03 00}{01 06 00}Hei, jou{01 07 00}!\nMis toimub, {01 00 00 05 00}{04 02 00}?"
   },
   {
    "id": 1,
    "en": "{07 14 00}What's up? {01 00 00 0a 00}You look pumped!\nYou been workin' out,\n{01 00 00 05 00}{04 02 00}?",
-   "et": ""
+   "et": "{07 14 00}Mis toimub? {01 00 00 0a 00}Sa näed hoos!\nKas sa oled trenni teinud,\n{01 00 00 05 00}{04 02 00}?"
   },
   {
    "id": 2,
    "en": "Hey, {01 00 00 05 00}{04 1f 00}!{01 00 00 05 00}{01 00 00 0a 00}\n{07 14 00}You been hitting those\nweights, {04 02 00}?",
-   "et": ""
+   "et": "Hei, {01 00 00 05 00}{04 1f 00}!{01 00 00 05 00}{01 00 00 0a 00}\n{07 14 00}Kas sa oled rauda\ntõstnud, {04 02 00}?"
   },
   {
    "id": 3,
    "en": "{07 14 00}So, you're an early bird\ntoo, eh, {04 1f 00}?\nNice, {01 00 00 05 00}{04 02 00}!\n{07 00 00}Are you that anxious to\n{07 0d 00}{04 22 00} with me?\nRight on, {01 00 00 05 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 14 00}Nii et sa oled ka varane\närkaja, mis, {04 1f 00}?\nVinge, {01 00 00 05 00}{04 02 00}!\n{07 00 00}Kas sa oled nii innukas\n{07 0d 00}{04 22 00} minuga?\nTäpselt, {01 00 00 05 00}{04 02 00}!"
   },
   {
    "id": 4,
    "en": "{0b 03 00}{01 06 00}Hey, hi, hello, hup-two{01 07 00}!{01 00 00 0a 00}\nHow's life, {01 00 00 05 00}{04 02 00}?",
-   "et": ""
+   "et": "{0b 03 00}{01 06 00}Hei, tsau, tere, üks-kaks{01 07 00}!{01 00 00 0a 00}\nKuidas elu, {01 00 00 05 00}{04 02 00}?"
   },
   {
    "id": 5,
    "en": "Yo,{01 00 00 05 00} {04 1f 00}!{01 00 00 14 00}\n{07 14 00}You been pumping iron\nor what, {01 00 00 05 00}{04 02 00}?",
-   "et": ""
+   "et": "Jou,{01 00 00 05 00} {04 1f 00}!{01 00 00 14 00}\n{07 14 00}Kas sa oled rauda\ntõstnud või mis, {01 00 00 05 00}{04 02 00}?"
   },
   {
    "id": 6,
    "en": "{07 14 00}I'm gonna give 110 percent\ntoday, {01 00 00 05 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 14 00}Ma annan täna 110%,\n{01 00 00 05 00}{04 02 00}!"
   },
   {
    "id": 7,
    "en": "{07 14 00}I wanna {04 22 00}\nto {04 17 00} with\n{04 0b 00}!\n{07 0d 00}I wanna, {01 00 00 05 00}I wanna!\nRight NOW, {01 00 00 05 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 14 00}Ma tahan {04 22 00}\n{04 17 00} saatel koos\n{04 0b 00}ga!\n{07 0d 00}Ma tahan, {01 00 00 05 00}ma tahan!\nJust NÜÜD, {01 00 00 05 00}{04 02 00}!"
   },
   {
    "id": 8,
    "en": "{07 14 00}{0b 03 00}{01 06 00}Good evening{01 07 00}!{01 00 00 0a 00}\nThe night is young, and so{01 00 00 0a 00}\nare we, {ff 00 00 05}{04 1f 00}{ff 00 00 00}!",
-   "et": ""
+   "et": "{07 14 00}{0b 03 00}{01 06 00}Tere õhtust{01 07 00}!{01 00 00 0a 00}\nÖö on noor ja meie{01 00 00 0a 00}\nka, {ff 00 00 05}{04 1f 00}{ff 00 00 00}!"
   },
   {
    "id": 9,
    "en": "Hey, wassup, night owl?{01 00 00 0a 00}\n{07 14 00}It's gotten pretty dark,\nhuh, {01 00 00 05 00}{04 02 00}.",
-   "et": ""
+   "et": "Hei, mis toimub, öökull?{01 00 00 0a 00}\n{07 14 00}On päris pimedaks läinud,\nmis, {01 00 00 05 00}{04 02 00}."
   },
   {
    "id": 10,
    "en": "{07 16 00}It's gotten freezing out!\nMuscle freeze, {01 00 00 05 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 16 00}Väljas on külmaks läinud!\nLihased jäätuvad, {01 00 00 05 00}{04 02 00}!"
   },
   {
    "id": 11,
    "en": "{07 1d 00}{04 08 00}:{04 09 00}!!!\n\n\n{07 06 00}It's almost time for\n{04 16 00}!{01 00 00 05 00} Oh, yeah!{01 00 00 05 00}\nYowza, {01 00 00 05 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 1d 00}{04 08 00}:{04 09 00}!!!\n\n\n{07 06 00}Varsti on aeg\n{04 16 00}!{01 00 00 05 00} Oh jaa!{01 00 00 05 00}\nJauhh, {01 00 00 05 00}{04 02 00}!"
   },
   {
    "id": 12,
    "en": "{07 12 00}It's already {04 08 00}!{01 00 00 14 00}\nNo wonder I'm so sleepy{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{01 00 00 05 00}{04 02 00}.",
-   "et": ""
+   "et": "{07 12 00}On juba {04 08 00}!{01 00 00 14 00}\nPole ime, et mul on uni{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{01 00 00 05 00}{04 02 00}."
   },
   {
    "id": 13,
    "en": "If you stay up too late,{01 00 00 05 00}\n{07 16 00}you'll pay for it tomorrow,\n{01 00 00 05 00}{04 02 00}!",
-   "et": ""
+   "et": "Kui sa liiga kaua üleval,{01 00 00 05 00}\n{07 16 00}maksad selle eest homme,\n{01 00 00 05 00}{04 02 00}!"
   },
   {
    "id": 14,
    "en": "{0b 03 00}{01 06 00}Hey, good evening{01 07 00}!{01 00 00 0a 00}\n{07 16 00}I still can't sleep,\n{01 00 00 05 00}{04 02 00}!",
-   "et": ""
+   "et": "{0b 03 00}{01 06 00}Hei, tere õhtust{01 07 00}!{01 00 00 0a 00}\n{07 16 00}Ma ei saa ikka magada,\n{01 00 00 05 00}{04 02 00}!"
   },
   {
    "id": 15,
    "en": "{07 0b 00}You {01 00 00 05 00}still not going to bed?\nWhy not, {01 00 00 05 00}{04 02 00}?{07 00 00}\n\nIf you want, I'd happily sing\nyou a {04 17 00}-style \nlullaby. {01 00 00 05 00}Ya want?",
-   "et": ""
+   "et": "{07 0b 00}Kas sa {01 00 00 05 00}ei lähe magama?\nMiks mitte, {01 00 00 05 00}{04 02 00}?{07 00 00}\n\nKui tahad, laulaksin sulle\n{04 17 00}-stiilis \nhällilaulu. {01 00 00 05 00}Tahad?"
   }
  ]
 }

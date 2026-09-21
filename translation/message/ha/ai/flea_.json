@@ -4,17 +4,17 @@
   {
    "id": 0,
    "en": "{07 02 00}Whoa!{01 00 00 14 00} Amazing!{01 00 00 0a 00}\nSweet, sweet relief!\n{07 14 00}You did it, {01 00 00 0a 00}{04 1f 00}!\n{07 0a 00}I'm not itchy anymore!{01 00 00 14 00}\nEat THAT, itch-monsters!{01 00 00 05 00}\nThank you, {01 00 00 0a 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 02 00}Ohoo!{01 00 00 14 00} Hämmastav!{01 00 00 0a 00}\nMagus, magus kergendus!\n{07 14 00}Sa tegid seda, {01 00 00 0a 00}{04 1f 00}!\n{07 0a 00}Mul pole enam sügelust!{01 00 00 14 00}\nVõtke SEDA, sügelejad!{01 00 00 05 00}\nAitäh, {01 00 00 0a 00}{04 02 00}!"
   },
   {
    "id": 1,
    "en": "{07 06 00}Hey!{01 00 00 0a 00} What did you do that\nfor, huh? {01 00 00 0a 00}I coulda handled\nit myself!\n{07 15 00}I was about to beat the\nliving heck outta those\nthings!{01 00 00 14 00} {07 00 00}{01 00 00 05 00}Grrr, {01 00 00 0a 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 06 00}Hei!{01 00 00 0a 00} Milleks sa seda\ntegid, mis? {01 00 00 0a 00}Ma oleksin ise\nhakkama saanud!\n{07 15 00}Ma olin just valmis neist\nasjadest tuule välja\nlööma!{01 00 00 14 00} {07 00 00}{01 00 00 05 00}Grrr, {01 00 00 0a 00}{04 02 00}!"
   },
   {
    "id": 2,
    "en": "{07 04 00}Hey! {01 00 00 05 00}{0b 03 00}{04 02 00}!{01 00 00 14 00}\nYou wasted 'em for me?!{01 00 00 0a 00}\nYou rule, {04 1f 00}!\n{07 00 00}Even I had a hard time\ncatching those little dudes!{01 00 00 14 00}\n{07 14 00}Thanks, {01 00 00 0a 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 04 00}Hei! {01 00 00 05 00}{0b 03 00}{04 02 00}!{01 00 00 14 00}\nSa hävitasid nad ära?!{01 00 00 0a 00}\nSa oled äge, {04 1f 00}!\n{07 00 00}Isegi mul oli raske neid\nväikseid tüüpe püüda!{01 00 00 14 00}\n{07 14 00}Aitäh, {01 00 00 0a 00}{04 02 00}!"
   }
  ]
 }

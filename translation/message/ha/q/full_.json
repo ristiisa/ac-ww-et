@@ -4,17 +4,17 @@
   {
    "id": 0,
    "en": "{07 04 00}Huh?{01 00 00 14 00} Hey! {01 00 00 05 00}Hang on!{01 00 00 05 00}\n{07 0b 00}Your pockets are full,{01 00 00 05 00}\naren't they?\n{07 16 00}Take care of that and come\nback, will ya, {01 00 00 05 00}{04 02 00}?",
-   "et": ""
+   "et": "{07 04 00}Ah?{01 00 00 14 00} Hei! {01 00 00 05 00}Oota!{01 00 00 05 00}\n{07 0b 00}Su taskud on täis,{01 00 00 05 00}\nkas pole?\n{07 16 00}Tegele sellega ja tule\ntagasi, eks, {01 00 00 05 00}{04 02 00}?"
   },
   {
    "id": 1,
    "en": ".{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 16 00}But wait,{01 00 00 05 00} you can't carry\nanything more!\n\n{07 15 00}Are you greedy or WHAT,\n{01 00 00 05 00}{04 02 00}?!",
-   "et": ""
+   "et": ".{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 16 00}Aga oota,{01 00 00 05 00} sa ei saa\nrohkem kanda!\n\n{07 15 00}Kas sa oled ahne või MIS,\n{01 00 00 05 00}{04 02 00}?!"
   },
   {
    "id": 2,
    "en": "{07 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 1d 00}Huh?{01 00 00 0f 00} {07 16 00}Now that I take a\ncloser look,{01 00 00 05 00} you already\nhave WAY too much stuff!\n{07 00 00}Make some room in those\npockets and come back\nlater, {01 00 00 05 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 1d 00}Ah?{01 00 00 0f 00} {07 16 00}Nüüd kui ma\nvaatan,{01 00 00 05 00} on sul juba\nPALJU liiga palju kraami!\n{07 00 00}Tee taskutes ruumi ja\ntule hiljem tagasi,\n{01 00 00 05 00}{04 02 00}!"
   }
  ]
 }

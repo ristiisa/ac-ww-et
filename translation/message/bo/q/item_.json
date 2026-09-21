@@ -4,17 +4,17 @@
   {
    "id": 0,
    "en": "{07 00 00}Okeydokey then!{01 00 00 14 00} Here's the\n{0b 02 00}{04 1b 00} I\npromised you.",
-   "et": ""
+   "et": "{07 00 00}Nonii siis!{01 00 00 14 00} Siin on\n{0b 02 00}{04 1b 00}, mille\nsulle lubasin."
   },
   {
    "id": 1,
    "en": "{07 00 00}Right!{01 00 00 14 00} Here's your\n{0b 02 00}{04 1b 00},{01 00 00 0a 00}\n{04 02 00}!",
-   "et": ""
+   "et": "{07 00 00}Õige!{01 00 00 14 00} Siin on sinu\n{0b 02 00}{04 1b 00},{01 00 00 0a 00}\n{04 02 00}!"
   },
   {
    "id": 2,
    "en": "{07 00 00}Uh, OK.{01 00 00 0f 00} I've got your\n{0b 02 00}{04 1b 00}\nright here,{01 00 00 05 00} {04 02 00}!",
-   "et": ""
+   "et": "{07 00 00}Ee, olgu.{01 00 00 0f 00} Sinu\n{0b 02 00}{04 1b 00}\non mul siin,{01 00 00 05 00} {04 02 00}!"
   }
  ]
 }

@@ -4,32 +4,32 @@
   {
    "id": 0,
    "en": "{07 16 00}Orggggggghh. I feel nasty.\nI think I'm gonna toss my\nchimichangas!{01 00 00 05 00}",
-   "et": ""
+   "et": "{07 16 00}Orgggggh. Mul on paha olla.\nMa vist oksendan oma\ntšimitšangad välja!{01 00 00 05 00}"
   },
   {
    "id": 1,
    "en": "{07 07 00}I feel{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}awful.",
-   "et": ""
+   "et": "{07 07 00}Ma tunnen end{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}kohutavalt."
   },
   {
    "id": 2,
    "en": "{07 07 00}HACKGH{01 00 00 05 00} HACKGHHH{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n{0b 03 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 07 00}KÄHH{01 00 00 05 00} KÄHHHH{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n{0b 03 00}{04 02 00}!"
   },
   {
    "id": 3,
    "en": "{07 00 00}I'm feeling pretty good,\nactually.\n\n{01 00 00 14 00}{07 14 00}And it's all thanks to\n{ff 00 00 05}{04 0f 00}{ff 00 00 00}, {ff 00 00 07}medicine{ff 00 00 00}-\nbringer.",
-   "et": ""
+   "et": "{07 00 00}Ma tunnen end tegelikult\npäris hästi.\n\n{01 00 00 14 00}{07 14 00}Ja see kõik tänu\n{ff 00 00 05}{04 0f 00}{ff 00 00 00}le, {ff 00 00 07}rohu{ff 00 00 00}-\ntoojale."
   },
   {
    "id": 4,
    "en": "{07 00 00}I'm feeling better{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} {07 14 00}I\nthink it was that {ff 00 00 07}medicine{ff 00 00 00}.\n\nThere's one name at the\ntop of my to-give-mad-\nprops-to list:{01 00 00 0a 00} {ff 00 00 05}{04 0f 00}{ff 00 00 00}.",
-   "et": ""
+   "et": "{07 00 00}Mul on parem{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} {07 14 00}Ma\narvan, et see oli {ff 00 00 07}rohi{ff 00 00 00}.\n\nMu tänuloendi tipus on\nüks nimi ja see\non:{01 00 00 0a 00} {ff 00 00 05}{04 0f 00}{ff 00 00 00}."
   },
   {
    "id": 5,
    "en": "{07 14 00}I'm feeling a lot better.{01 00 00 14 00} \nI bet it was that {ff 00 00 07}medicine\n{ff 00 00 00}that did the trick.\n{07 05 00}{01 08 00}HEY, WORLD! {01 00 00 14 00}{0b 03 00}{ff 00 00 05}{04 0f 00} {ff 00 00 00}is\nthe only person here who\nhas a heart!",
-   "et": ""
+   "et": "{07 14 00}Mul on palju parem.{01 00 00 14 00}\nVean kihla, et {ff 00 00 07}rohi\n{ff 00 00 00}tegi oma töö.\n{07 05 00}{01 08 00}HEI, MAAILM! {01 00 00 14 00}{0b 03 00}{ff 00 00 05}{04 0f 00} {ff 00 00 00}on\nainus siin, kellel on\nsüda!"
   }
  ]
 }

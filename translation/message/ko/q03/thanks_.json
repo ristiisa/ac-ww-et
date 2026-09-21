@@ -4,17 +4,17 @@
   {
    "id": 0,
    "en": "{07 04 00}What's this!? {01 00 00 05 00}You found me\n{04 1a 00}\nfossil?!\n{07 14 00}Thanks. You're not half as\nbad as I thought{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.",
-   "et": ""
+   "et": "{07 04 00}Mis see on!? {01 00 00 05 00}Sa leidsid\n{04 1a 00}\nfossiili?!\n{07 14 00}Aitäh. Sa polegi pooltki\nnii halb, kui arvasin{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}."
   },
   {
    "id": 1,
    "en": "{07 04 00}Huh? Wait, what? This\n{0b 02 00}{04 1a 00}\nfossil is for me?{01 01 00}{07 00 00}{01 00 00 05 00} .{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}Thanks!\n{07 08 00}This just shows that people\ncan actually be nice to you\na few times in your life{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n{07 14 00}Just for this, I gotta do \nsomething cool for you,\n{01 00 00 05 00}{04 02 00}.",
-   "et": ""
+   "et": "{07 04 00}Ah? Oot, mis? See\n{0b 02 00}{04 1a 00}\nfossiil on mulle?{01 01 00}{07 00 00}{01 00 00 05 00} .{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}Aitäh!\n{07 08 00}See näitab, et inimesed\nvõivad paar korda elus\nsinuga kenad olla{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n{07 14 00}Juba selle eest pean ma\nsulle midagi lahedat tegema,\n{01 00 00 05 00}{04 02 00}."
   },
   {
    "id": 2,
    "en": "{07 04 00}Whoa{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00} You're giving me\n{04 1a 00}?\nSeriously?!\n{07 16 00}I mean{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00}wow.{01 00 00 0f 00} {07 08 00}You're not\nbad, kid. Anyone ever tell\nyou that, {01 00 00 05 00}{04 02 00}?\n{07 14 00}There's no way I can let\nyou leave without some cool\nloot, {01 00 00 05 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 04 00}Ohoo{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00} Sa annad mulle\n{04 1a 00}?\nTõsiselt?!\n{07 16 00}Ma mõtlen{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00}vau.{01 00 00 0f 00} {07 08 00}Sa pole\nhalb, poiss. Kas keegi on\nsulle seda öelnud, {01 00 00 05 00}{04 02 00}?\n{07 14 00}Ma ei saa sind kuidagi\nlasta lahkuda ilma lahedat\nsaaki saamata, {01 00 00 05 00}{04 02 00}!"
   }
  ]
 }

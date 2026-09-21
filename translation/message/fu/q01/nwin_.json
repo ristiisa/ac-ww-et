@@ -4,17 +4,17 @@
   {
    "id": 0,
    "en": "{07 1d 00}Oh, look at that!{01 00 00 0f 00} {07 14 00}You're a\nlittle slow today, aren't\nyou, {04 1f 00}?\n{07 00 00}See, I already caught one,\n{01 00 00 05 00}{04 02 00},{01 00 00 0f 00} {07 14 00}which makes\nme the winner of our bet!\n{07 0a 00}{00 01 00}Nyeh, nyeh! I beat you!{00 01 00}\nI beat you, {04 1f 00}!\n\n{07 14 00}There's no better bug\nbagger in {04 03 00}!",
-   "et": ""
+   "et": "{07 1d 00}Oh, vaata seda!{01 00 00 0f 00} {07 14 00}Sa oled\ntäna pisut aeglane, kas\npole, {04 1f 00}?\n{07 00 00}Vaata, ma püüdsin juba ühe,\n{01 00 00 05 00}{04 02 00},{01 00 00 0f 00} {07 14 00}mis teeb\nminust meie kihlveo võitja!\n{07 0a 00}{00 01 00}Näh, näh! Ma võitsin sind!{00 01 00}\nMa võitsin, {04 1f 00}!\n\n{07 14 00}Paremat putukapüüdjat\npole {04 03 00}!"
   },
   {
    "id": 1,
    "en": "{07 16 00}Oh, you should have stopped\nby sooner, {01 00 00 05 00}{04 1f 00}!\n\nAs you can see, I've caught\n{04 1a 00}.{01 00 00 05 00}\nSome time ago, in fact.\n{07 14 00}You, my friend, are slow,{01 00 00 05 00}\nand I am the winner! Yup!\nI beat you, {04 1f 00}!\n{07 0a 00}I'm so happy! I rocked your\nworld, {01 00 00 05 00}{04 02 00}! I reign\nsupreme, the insect queen!\n{07 14 00}It's not just about\nreflexes or bug knowledge...{01 00 00 05 00}\n\nIt's about DEDICATION,\nmy friend.",
-   "et": ""
+   "et": "{07 16 00}Oh, sa oleksid pidanud\nvarem tulema, {01 00 00 05 00}{04 1f 00}!\n\nNagu näed, olen ma püüdnud\n{04 1a 00}.{01 00 00 05 00}\nTegelikult juba ammu.\n{07 14 00}Sina, sõber, oled aeglane,{01 00 00 05 00}\nja mina olen võitja! Jah!\nMa võitsin sind, {04 1f 00}!\n{07 0a 00}Ma olen nii õnnelik! Ma\nraputasin sind, {01 00 00 05 00}{04 02 00}!\nOlen putukate kuninganna!\n{07 14 00}Asi pole ainult\nrefleksides ega tarkuses...{01 00 00 05 00}\n\nAsi on PÜHENDUMUSES,\nmu sõber."
   },
   {
    "id": 2,
    "en": "{07 0a 00}Oh, too bad, {01 00 00 05 00}{04 02 00}!\n\n\n{07 14 00}Didn't you hear?{01 00 00 05 00} I caught\n{04 1a 00}\nalready, {01 00 00 05 00}{04 02 00}!\n{07 00 00}You're just the teensiest\nbit too slow, {04 1f 00}!\nI caught it first!\nAnd in the grand bug battle\nbetween {04 01 00} and\n{04 00 00}, {07 0a 00}{01 00 00 05 00}I win! Yeah!\n{07 14 00}But don't get too down\nabout it, {04 1f 00}.{01 00 00 0a 00} I'll\ntake you on anytime!",
-   "et": ""
+   "et": "{07 0a 00}Oh, kahju, {01 00 00 05 00}{04 02 00}!\n\n\n{07 14 00}Kas ei kuulnud?{01 00 00 05 00} Ma püüdsin\n{04 1a 00}\njuba, {01 00 00 05 00}{04 02 00}!\n{07 00 00}Sa oled lihtsalt pisut\nliiga aeglane, {04 1f 00}!\nMa püüdsin selle esimesena!\nJa suures putukalahingus\n{04 01 00} ja\n{04 00 00} vahel, {07 0a 00}{01 00 00 05 00}võidan mina!\n{07 14 00}Aga ära lase end sellest\nheidutada, {04 1f 00}.{01 00 00 0a 00} Ma\nvõtan sinuga alati mõõtu!"
   }
  ]
 }

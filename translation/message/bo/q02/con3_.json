@@ -4,17 +4,17 @@
   {
    "id": 0,
    "en": "{07 06 00}W{01 00 00 0a 00}-ait a sec!{01 00 00 0a 00} I'm in the\nmiddle of working over a\nfish right now,{01 00 00 0a 00} {04 02 00}!",
-   "et": ""
+   "et": "{07 06 00}O{01 00 00 0a 00}-ota korraks!{01 00 00 0a 00} Ma olen\npraegu keset ühe kalaga\ntegelemist,{01 00 00 0a 00} {04 02 00}!"
   },
   {
    "id": 1,
    "en": "{07 04 00}Huh?!{01 00 00 0a 00} {0b 03 00}{04 1f 00}! You\nalready got one?!\n\n{07 06 00}W-wait a sec!{01 00 00 14 00} I{01 00 00 05 00} haven't even\nseen one yet,{01 00 00 0a 00} {04 02 00}!\nNo fair!",
-   "et": ""
+   "et": "{07 04 00}Ah?!{01 00 00 0a 00} {0b 03 00}{04 1f 00}! Sa juba\nsaidki ühe?!\n\n{07 06 00}O-oota korraks!{01 00 00 14 00} Ma{01 00 00 05 00} pole\nveel ühtki näinud,{01 00 00 0a 00} {04 02 00}!\nEbaaus!"
   },
   {
    "id": 2,
    "en": "{07 00 00}{0b 03 00}{04 1f 00}, did you get\nall your gear together\nalready?\n{07 19 00}Well, I'm gonna need a little\nmore time{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{01 01 00} {07 06 00}So wait a sec,\n{01 00 00 0a 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 00 00}{0b 03 00}{04 1f 00}, kas sul on\nkogu varustus juba\nkoos?\n{07 19 00}Noh, mul on vaja veidi\nrohkem aega{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{01 01 00} {07 06 00}Nii et oota,\n{01 00 00 0a 00}{04 02 00}!"
   }
  ]
 }

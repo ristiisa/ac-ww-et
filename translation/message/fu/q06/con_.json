@@ -4,17 +4,17 @@
   {
    "id": 0,
    "en": "{07 00 00}{07 0b 00}Hey, did you deliver that\npresent like I asked you\nto, {01 00 00 05 00}{04 02 00}?\n{07 14 00}Look, I don't want to be\na big old nag,{01 00 00 05 00} but please\nget it there on time!",
-   "et": ""
+   "et": "{07 00 00}{07 0b 00}Hei, kas sa toimetasid selle\nkingituse kohale, nagu ma\npalusin, {01 00 00 05 00}{04 02 00}?\n{07 14 00}Vaata, ma ei taha olla\nsuur näägutaja,{01 00 00 05 00} aga palun\ntoimeta see õigeks ajaks!"
   },
   {
    "id": 1,
    "en": "{07 00 00}Hey, I need to make sure\nthat {ff 00 00 06}{04 10 00} {ff 00 00 00}is happy,\nand I need to do it soon!\n{07 16 00}PLEASE deliver my gift by \nthe deadline, {01 00 00 05 00}{04 02 00}!{01 00 00 0a 00}\nI'm really counting on you!",
-   "et": ""
+   "et": "{07 00 00}Hei, ma pean kindlustama,\net {ff 00 00 06}{04 10 00} {ff 00 00 00}on õnnelik,\nja ma pean seda kiiresti!\n{07 16 00}PALUN toimeta mu kink \ntähtajaks kohale, {01 00 00 05 00}{04 02 00}!{01 00 00 0a 00}\nMa loodan tõesti sinu peale!"
   },
   {
    "id": 2,
    "en": "Say{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00} About that present{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}\n{07 16 00}You're going to deliver it\non time,{01 00 00 05 00} right?\n{07 00 00}{07 06 00}It's a big fun surprise for\n{ff 00 00 06}{04 10 00}{ff 00 00 00}, so it needs to\nget there ASAP!",
-   "et": ""
+   "et": "Kuule{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00} Selle kingi kohta{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}\n{07 16 00}Sa toimetad selle õigeks\najaks kohale,{01 00 00 05 00} eks?\n{07 00 00}{07 06 00}See on suur lõbus üllatus\n{ff 00 00 06}{04 10 00}{ff 00 00 00} jaoks, nii et see\npeab kohale jõudma KOHE!"
   }
  ]
 }

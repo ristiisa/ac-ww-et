@@ -4,17 +4,17 @@
   {
    "id": 0,
    "en": "{07 00 00}Oh, YAY!{01 00 00 05 00}{07 14 00} Well, you can just\ntouch what you want, like,\nwhenever you're ready!",
-   "et": ""
+   "et": "{07 00 00}Oh, JEE!{01 00 00 05 00}{07 14 00} sa võid lihtsalt\npuudutada seda, mida tahad,\nnagu, kui oled valmis!"
   },
   {
    "id": 1,
    "en": "{07 0b 00}Which one? {01 00 00 05 00}Which one?{01 00 00 05 00} {07 14 00}Touch\nwhat you want so I can tell\nwhich one it is!",
-   "et": ""
+   "et": "{07 0b 00}Kumb? {01 00 00 05 00}Kumb?{01 00 00 05 00} {07 14 00}Puuduta\nseda, mida tahad, et ma\nteaksin, kumb see on!"
   },
   {
    "id": 2,
    "en": "{07 14 00}GREAT!{01 00 00 05 00} Which one do you\nwant?{01 00 00 05 00} Just tell me by\ntouching it, {01 00 00 05 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 14 00}SUUREPÄRANE!{01 00 00 05 00} Kumba sa\ntahad?{01 00 00 05 00} Ütle mulle seda\npuudutades, {01 00 00 05 00}{04 02 00}!"
   }
  ]
 }

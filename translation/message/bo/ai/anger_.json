@@ -4,27 +4,27 @@
   {
    "id": 0,
    "en": "{07 15 00}Grrrrrrr!{01 00 00 0a 00} {0b 03 00}{04 02 00}!\n\n\n{07 05 00}{01 00 00 0a 00}I'm really, REALLY mad!{01 00 00 14 00} I'm\nwarning you...{01 00 00 0a 00} Stay away!\nIt's a danger zone here!",
-   "et": ""
+   "et": "{07 15 00}Grrrrrrr!{01 00 00 0a 00} {0b 03 00}{04 02 00}!\n\n\n{07 05 00}{01 00 00 0a 00}Olen väga, VÄGA vihane!{01 00 00 14 00} Ma\nhoiatan sind...{01 00 00 0a 00} Hoia eemale!\nSiin on ohutsoon!"
   },
   {
    "id": 1,
    "en": "{07 05 00}{01 08 00}Hmph!{01 00 00 0a 00} Grrrr{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00} Gr{01 00 00 05 00}r{01 00 00 05 00}r{01 00 00 05 00}r{01 00 00 05 00}r{01 00 00 05 00}r!\n{01 00 00 05 00}{0b 03 00}{04 02 00}!\n\n{07 04 00}No, I will NOT calm down!{01 00 00 14 00}\n{07 15 00}If you can't tell, I'm really\nsteamed up right now!",
-   "et": ""
+   "et": "{07 05 00}{01 08 00}Hmph!{01 00 00 0a 00} Grrrr{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00} Gr{01 00 00 05 00}r{01 00 00 05 00}r{01 00 00 05 00}r{01 00 00 05 00}r{01 00 00 05 00}r!\n{01 00 00 05 00}{0b 03 00}{04 02 00}!\n\n{07 04 00}Ei, ma EI rahune maha!{01 00 00 14 00}\n{07 15 00}Kui sa aru ei saa: ma olen\npraegu keema läinud!"
   },
   {
    "id": 2,
    "en": "{07 06 00}Oh, no...{01 00 00 0a 00} Now you've done it!\nYou've got me really worked\nup!{01 01 00} {07 05 00}{01 00 00 05 00}Grrrrr!{01 00 00 05 00} {0b 03 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 06 00}Oh ei...{01 00 00 0a 00} Nüüd sa tegid ära!\nSa ajasid mu päriselt\nvihale!{01 01 00} {07 05 00}{01 00 00 05 00}Grrrrr!{01 00 00 05 00} {0b 03 00}{04 02 00}!"
   },
   {
    "id": 3,
    "en": "{07 01 00}{01 00 00 0a 00}Grrrrr{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00}\nReaching maximum overload{01 00 00 0a 00}\nin ten seconds!\n{07 05 00}{01 00 00 05 00}Apologize all you want, {01 00 00 0a 00}it\nmakes no difference now.{01 00 00 05 00}\nBecause I'm{01 00 00 05 00} already{01 00 00 05 00} {01 09 00}MAD!",
-   "et": ""
+   "et": "{07 01 00}{01 00 00 0a 00}Grrrrr{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00}\nMaksimaalne ülekoormus{01 00 00 0a 00}\nkümne sekundi pärast!\n{07 05 00}{01 00 00 05 00}Vabanda palju tahad, {01 00 00 0a 00}see\nei muuda enam midagi.{01 00 00 05 00}\nSest ma olen{01 00 00 05 00} juba{01 00 00 05 00} {01 09 00}VIHANE!"
   },
   {
    "id": 4,
    "en": "I'm usually pretty mellow,\nbut {07 04 00}my fuse {01 00 00 0a 00}has been lit!\n\n{07 05 00}{01 00 00 05 00}This isn't gonna be pretty,{01 00 00 0a 00}\nso you should just leave me\nalone,{01 00 00 0a 00} {04 1f 00}.",
-   "et": ""
+   "et": "Olen tavaliselt üsna rahulik,\naga {07 04 00}mu süütenöör {01 00 00 0a 00}põleb!\n\n{07 05 00}{01 00 00 05 00}Sellest ei tule midagi head,{01 00 00 0a 00}\nnii et jäta mind lihtsalt\nrahule,{01 00 00 0a 00} {04 1f 00}."
   }
  ]
 }

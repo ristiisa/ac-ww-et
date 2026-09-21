@@ -4,32 +4,32 @@
   {
    "id": 0,
    "en": "{07 04 00}.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}Whoa there, {04 1f 00}!{01 00 00 14 00}\nLooks like your hands are{01 00 00 05 00}\nfull, {01 00 00 05 00}{04 02 00}.\n{07 16 00}I can't give you a gift\nif you can't even carry it!\n\n{07 00 00}Go lighten your load, then\ncome back and see me, \n{01 00 00 05 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 04 00}.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}Oot-oot, {04 1f 00}!{01 00 00 14 00}\nPaistab, et su käed on{01 00 00 05 00}\ntäis, {01 00 00 05 00}{04 02 00}.\n{07 16 00}Ma ei saa sulle kingitust\nanda, kui sa ei suuda kanda!\n\n{07 00 00}Mine tee koormat kergemaks\nja tule siis tagasi,\n{01 00 00 05 00}{04 02 00}!"
   },
   {
    "id": 1,
    "en": "{07 00 00}Well then, you should take\nthis{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.\n\nWhoa, {04 1f 00}. {07 06 00}Your\npockets are crammed with\nstuff, {01 00 00 05 00}{04 02 00}.\n{07 00 00}Sheesh. Go drop off some\nstuff, then head right back\nhere. Got that?",
-   "et": ""
+   "et": "{07 00 00}Noh siis, sa peaksid selle\nvõtma{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.\n\nOhoo, {04 1f 00}. {07 06 00}Su\ntaskud on kraami\ntäis topitud, {01 00 00 05 00}{04 02 00}.\n{07 00 00}Ptüi. Mine vii osa kraami\nära ja tule kohe siia\ntagasi. Said aru?"
   },
   {
    "id": 2,
    "en": "{07 04 00}Oh, {01 00 00 05 00}I almost forgot!\n{07 14 00}I got a little somethin'-\nsomethin' for you!",
-   "et": ""
+   "et": "{07 04 00}Oi, {01 00 00 05 00}ma peaaegu unustasin!\n{07 14 00}Mul on sulle väike\nmidagi-midagi!"
   },
   {
    "id": 3,
    "en": "{07 14 00}Oh, man. {01 00 00 05 00}I still haven't\ngiven you that gift for\nbringing me the {ff 00 00 07}medicine{ff 00 00 00}.",
-   "et": ""
+   "et": "{07 14 00}Oh poiss. {01 00 00 05 00}Ma pole sulle\nikka andnud kingitust selle\n{ff 00 00 07}rohu{ff 00 00 00} toomise eest."
   },
   {
    "id": 4,
    "en": "{07 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 04 00}Hey!{01 00 00 0f 00}{07 16 00} You're still carrying\nall that junk, {01 00 00 05 00}{04 02 00}!\n\n{07 15 00}Were you even listening\nwhen I told you to get rid\nof some stuff?!",
-   "et": ""
+   "et": "{07 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 04 00}Hei!{01 00 00 0f 00}{07 16 00} Sa kannad ikka\nkogu seda rämpsu, {01 00 00 05 00}{04 02 00}!\n\n{07 15 00}Kas sa üldse kuulasid, kui\nma ütlesin, et vabane\nosast kraamist?!"
   },
   {
    "id": 5,
    "en": "{07 1d 00}Huh-WHAT?!{01 00 00 14 00} Your pockets\nare still packed with junk!\n\n{07 15 00}I told you to drop some\nstuff off, {01 00 00 05 00}{04 02 00}!\n\nWhat, is my gift not good\nenough for ya? {01 00 00 05 00}I can always\ngive it to someone else!",
-   "et": ""
+   "et": "{07 1d 00}Ah-MIDA?!{01 00 00 14 00} Su taskud on\nikka rämpsu täis!\n\n{07 15 00}Ma ütlesin, et vii osa\nkraami ära, {01 00 00 05 00}{04 02 00}!\n\nMis, kas mu kingitus pole\nsulle piisavalt hea? {01 00 00 05 00}Võin\nselle ka teisele anda!"
   }
  ]
 }

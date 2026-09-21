@@ -4,122 +4,122 @@
   {
    "id": 0,
    "en": "{07 00 00}Yo, {04 1f 00}, you know\nthat Ab Blaster Academy\nyou always hassle me about?\nYou gotta know someone to\nbecome a member, {01 00 00 05 00}so I'm\ngonna recommend you!\n{07 00 00}I've got to fill out this\nbeefy stack of paper to\nget you a membership.\n{07 14 00}So tell me when your\nbirthday is, {01 00 00 05 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 00 00}Jou, {04 1f 00}, tead seda\nKõhupurustajate Kooli,\nmille kohta sa mind tüütad?\nLiikmeks saamiseks pead sa\nkedagi tundma, {01 00 00 05 00}nii et ma\nsoovitan sind!\n{07 00 00}Ma pean täitma selle\nturska paberivirna, et\nsulle liikmesus saada.\n{07 14 00}Nii et ütle, millal on\nsu sünnipäev, {01 00 00 05 00}{04 02 00}!"
   },
   {
    "id": 1,
    "en": "Yo, {01 00 00 05 00}{04 1f 00}!{01 00 00 14 00} Are you\ninto penmanship and\nall that?{02 00 00 14 15}\nIt's cool.\nYou kidding?\n",
-   "et": ""
+   "et": "Jou, {01 00 00 05 00}{04 1f 00}!{01 00 00 14 00} Kas sa oled\nilukirja ja kõige\nselle lainel?{02 00 00 14 15}\nSee on lahe.\nSa teed nalja?\n"
   },
   {
    "id": 2,
    "en": "{07 14 00}There's some fruit! {ff 00 00 01}Tap {ff 00 00 00}the\ntree or{ff 00 00 01} {ff 00 00 00}press the\n{ff 00 00 01}A Button{ff 00 00 00} to shake it down!{ff 00 00 01}\n{ff 00 00 00}{07 00 00}I go feral on most fresh\nfruit the second I stop to\npick it up, {01 00 00 05 00}{04 02 00}!\nBut if you're not feeling\nsnacky and you have extras,\nsell 'em to {ff 00 00 06}Tom Nook{ff 00 00 00}.\n{07 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 15 00}Hey, all this food talk\nhas made me wicked hungry!{01 00 00 05 00}\n{07 06 00}Gimme a peach, STAT!",
-   "et": ""
+   "et": "{07 14 00}Puuvili! {ff 00 00 01}Koputa {ff 00 00 00}puud\nvõi{ff 00 00 01} {ff 00 00 00}vajuta\n{ff 00 00 01}A-nuppu{ff 00 00 00}, et see alla ajada!{ff 00 00 01}\n{ff 00 00 00}{07 00 00}Ma lähen enamiku värske\npuuvilja peal hulluks, kui\nselle üles korjan, {01 00 00 05 00}{04 02 00}!\nAga kui sul pole näpsuisu\nja sul on ülejääke,\nmüü need {ff 00 00 06}Tom Nookile{ff 00 00 00}.\n{07 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 15 00}Hei, kogu see toidujutt\ntegi mu väga näljaseks!{01 00 00 05 00}\n{07 06 00}Anna mulle virsik, KOHE!"
   },
   {
    "id": 3,
    "en": "{07 15 00}You're gonna need a {ff 00 00 07}shovel\n{ff 00 00 00}if you want a chance of\nsurviving in {04 03 00}!\n{07 0e 00}And{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} Oh, man, if you\nwanna catch bugs, you'll\nneed a {ff 00 00 07}net{ff 00 00 00}!\n{07 15 00}And you can't be fishing\nwithout a {ff 00 00 07}fishing rod{ff 00 00 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{01 00 00 05 00}{0b 03 00}{04 02 00}!\n{07 06 00}Arrgh!{01 00 00 0a 00} All this thinking is\ngonna make my burly head\nexplode!",
-   "et": ""
+   "et": "{07 15 00}Sul on vaja {ff 00 00 07}labidat\n{ff 00 00 00}, kui tahad {04 03 00}s\nellu jääda!\n{07 0e 00}Ja{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} Oh mees, kui sa\ntahad putukaid püüda,\nvajad sa {ff 00 00 07}kahva{ff 00 00 00}!\n{07 15 00}Ja kala ei saa püüda\nilma {ff 00 00 07}õngeta{ff 00 00 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{01 00 00 05 00}{0b 03 00}{04 02 00}!\n{07 06 00}Arrgh!{01 00 00 0a 00} Kogu see mõtlemine\npaneb mu turska pea\nplahvatama!"
   },
   {
    "id": 4,
    "en": "{07 00 00}You ever wanna pay off\nthat hulked-out debt\nthat's weighing you down?\n{07 16 00}It's kinda nasty, but you\nshould pick stuff up off\nthe street, {01 00 00 05 00}{04 02 00}!\n{07 11 00}Then you dump all that\ngear off on {ff 00 00 06}Tom Nook {ff 00 00 00}and\nrake in the CASH!",
-   "et": ""
+   "et": "{07 00 00}Kas sa tahad kunagi ära\nmaksta seda hiiglaslikku\nvõlga, mis sind rõhub?\n{07 16 00}See on pisut jälk, aga sa\npeaksid asju tänavalt\nüles korjama, {01 00 00 05 00}{04 02 00}!\n{07 11 00}Siis viskad kogu selle\nkraami {ff 00 00 06}Tom Nookile {ff 00 00 00}ja\nkraabid RAHA kokku!"
   },
   {
    "id": 5,
    "en": "{07 00 00}Yo, {04 1f 00}! Not that\nI'm all girly or anything,\nbut{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n{07 13 00}Wouldn't it ROCK if we were\npen pals? Er{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}I mean pen\nbuds?\n{07 16 00}You know, like weight-\ntraining partners, except\nwe send each other letters.\n{07 00 00}You can mail letters from\nthe post office inside the\n{ff 00 00 08}town hall{ff 00 00 00}, {01 00 00 05 00}{04 02 00}!\n{07 14 00}Getting a letter in the mail\nwould be such a RUSH!{01 00 00 14 00}\n{07 0d 00}I'll even write you back!",
-   "et": ""
+   "et": "{07 00 00}Jou, {04 1f 00}! Mitte et ma\noleksin plikalik või midagi,\naga{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n{07 13 00}Kas poleks VINGE, kui me\noleksime kirjasõbrad? Öö{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\nkirjasemud?\n{07 16 00}Tead, nagu jõutreeningu\npartnerid, ainult et me\nsaadame teineteisele kirju.\n{07 00 00}Kirju saab saata\npostkontorist, mis on\n{ff 00 00 08}raekoja{ff 00 00 00} sees, {01 00 00 05 00}{04 02 00}!\n{07 14 00}Kirja saamine oleks\nselline ELAMUS!{01 00 00 14 00}\n{07 0d 00}Ma isegi vastan sulle!"
   },
   {
    "id": 6,
    "en": "{07 14 00}You can change the {ff 00 00 02}town \ntune{ff 00 00 00} at the {ff 00 00 08}town hall{ff 00 00 00},\n{01 00 00 05 00}{04 02 00}!\nAnybody can write a new\ntown tune, {04 1f 00}.\n\n{07 0d 00}Get on there and go wild!{01 00 00 0a 00}\nBut I better be ROCKIN' OUT\nwhile I'm WORKIN' OUT!",
-   "et": ""
+   "et": "{07 14 00}Sa saad {ff 00 00 02}linna viisi\n{ff 00 00 00}muuta {ff 00 00 08}raekojas{ff 00 00 00},\n{01 00 00 05 00}{04 02 00}!\nIgaüks võib kirjutada uue\nlinna viisi, {04 1f 00}.\n\n{07 0d 00}Mine sinna ja mine hulluks!{01 00 00 0a 00}\nAga ma tahan ROKKIDA,\nkui ma TRENNI teen!"
   },
   {
    "id": 7,
    "en": "{07 00 00}So, {04 1f 00}...you know\nyour house is big enough\nfor four people, right?\n{07 13 00}With four people on your\nteam{01 00 00 05 00} you could play tag!{01 01 00}\n{07 06 00}I'm so jealous!\n{07 00 00}But, {01 00 00 05 00}if you wanted to \ngo back to fighting solo-\nstyle again,\ntalk to the folks at the\n{ff 00 00 08}civic center{ff 00 00 00} at the {ff 00 00 08}town\nhall{ff 00 00 00} and move outta town!\n{07 04 00}Huh, {01 00 00 05 00}wait, no!{01 01 00}\n{07 06 00}We just met, and{01 00 00 05 00} I don't\nwant to think about that!",
-   "et": ""
+   "et": "{07 00 00}Nii et, {04 1f 00}...sa tead,\net su maja on piisavalt\nsuur neljale, eks?\n{07 13 00}Nelja inimesega tiimis\nsaaksid{01 00 00 05 00} sa kulli mängida!{01 01 00}\n{07 06 00}Ma olen nii kade!\n{07 00 00}Aga, {01 00 00 05 00}kui sa tahaksid \ntagasi üksi võitlemise\njuurde minna,\nräägi inimestega\n{ff 00 00 08}kodanikukeskuses{ff 00 00 00} {ff 00 00 08}raekojas\n{ff 00 00 00}ja koli linnast ära!\n{07 04 00}Ah, {01 00 00 05 00}oota, ei!{01 01 00}\n{07 06 00}Me alles kohtusime ja{01 00 00 05 00} ma ei\ntaha sellele mõelda!"
   },
   {
    "id": 8,
    "en": "{07 16 00}{0b 03 00}{ff 00 00 05}{04 1f 00}{ff 00 00 00}!{01 00 00 0a 00} I'm ALWAYS\ntalkin' to you! Isn't there\nanyone else around here?!\n{07 00 00}Seriously, you're cool and\nall, but a dude needs some\nvariety once in a while!\n{07 14 00}You have GOT to invite some\nof your buds over from\nother towns, {01 00 00 05 00}{04 02 00}!{01 00 00 05 00}\nI have this crazy talent\nfor talking to up to four\npeople AT ONCE!\n{07 00 00}Or maybe it'd be better if\n{04 1f 00} hit up another\ntown{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n{07 14 00}So if you want to get outta\ntown, just ask {ff 00 00 06}Copper\n{ff 00 00 00}and {ff 00 00 06}Booker{ff 00 00 00}!",
-   "et": ""
+   "et": "{07 16 00}{0b 03 00}{ff 00 00 05}{04 1f 00}{ff 00 00 00}!{01 00 00 0a 00} Ma räägin\nALATI sinuga! Kas siin pole\nkedagi teist?!\n{07 00 00}Tõsiselt, sa oled lahe ja\nkõik, aga mees vajab vahel\nvaheldust!\n{07 14 00}Sa PEAD kutsuma siia mõne\noma semu teistest\nlinnadest, {01 00 00 05 00}{04 02 00}!{01 00 00 05 00}\nMul on hull anne rääkida\nkuni nelja inimesega\nKORRAGA!\n{07 00 00}Või oleks parem, kui\n{04 1f 00} läheks teise\nlinna{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n{07 14 00}Nii et kui tahad linnast\nvälja, küsi lihtsalt {ff 00 00 06}Copperi\n{ff 00 00 00}ja {ff 00 00 06}Bookeri{ff 00 00 00} käest!"
   },
   {
    "id": 9,
    "en": "{07 00 00}Someday, I might get too\nbeefy for this little town\nand have to break out.\nIf you miss me, just talk\nto {ff 00 00 06}Copper {ff 00 00 00}and {ff 00 00 06}Booker {ff 00 00 00}to\ncome visit me!\nYou WILL visit, right? {01 00 00 0a 00}We\ncan wrestle in a steel-cage\nmatch for old time's sake!",
-   "et": ""
+   "et": "{07 00 00}Ühel päeval võin ma selle\nväikese linna jaoks liiga\nturskeks minna ja lahkuda.\nKui sa mind igatsed, räägi\n{ff 00 00 06}Copperi {ff 00 00 00}ja {ff 00 00 06}Bookeriga{ff 00 00 00},\net mulle külla tulla!\nSa ju KÜLASTAD, eks? {01 00 00 0a 00}Me\nvõime vanade aegade pärast\nterasepuuris maadelda!"
   },
   {
    "id": 10,
    "en": "{07 04 00}Oh yeah, {01 00 00 05 00}you must be that\nrookie, {04 1f 00}!\n\n{07 0c 00}So you're working part-time\nfor {ff 00 00 06}Tom Nook{ff 00 00 00}, huh? Oh...bad\nmove, {01 00 00 05 00}{04 02 00}!\n{07 05 00}I bet {ff 00 00 06}Tom Nook{ff 00 00 00} is already\nmaking you run a bunch of\ntotally WEAK errands, huh?\n{07 16 00}I feel your pain, dude!{01 00 00 05 00}\nSo I'm gonna give you this\n{0b 02 00}{04 1a 00}!",
-   "et": ""
+   "et": "{07 04 00}Ah jaa, {01 00 00 05 00}sa pead olema see\nuustulnuk, {04 1f 00}!\n\n{07 0c 00}Nii et sa töötad osalise\najaga {ff 00 00 06}Tom Nookil{ff 00 00 00}? Oh...halb\nkäik, {01 00 00 05 00}{04 02 00}!\n{07 05 00}Vean kihla, et {ff 00 00 06}Tom Nook{ff 00 00 00}\npaneb sind juba hunnikut\nNÕMEDAID asju tegema?\n{07 16 00}Ma tunnen su valu, mees!{01 00 00 05 00}\nNii et ma annan sulle selle\n{0b 02 00}{04 1a 00}!"
   },
   {
    "id": 11,
    "en": "{07 14 00}Don't even sweat it! We've\ngot each other's backs,\n{01 00 00 05 00}{04 02 00}!\n{07 00 00}Anyway, a rookie like you\nhas got to practice moving\nstuff in your house.\nWhen you're inside your\nroom, {ff 00 00 01}tap {ff 00 00 00}yourself on the\n{ff 00 00 01}Touch Screen{ff 00 00 00} to grab stuff.\nWhile you got that thing\ngripped, {ff 00 00 01}slide {ff 00 00 00}it any\ndirection you want.\n{07 14 00}Pretty sweet, right? Hauling\na big couch around is one\nof my favorite workouts!\n{07 0e 00}Hmmm{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} Yep, I think that\npretty much covers\neverything for now.\n{07 0d 00}Rock on! You're not even\nall that clueless anymore,\n{01 00 00 05 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 14 00}Ära muretse! Me hoiame\nteineteise selja taga,\n{01 00 00 05 00}{04 02 00}!\n{07 00 00}Igatahes, sinusugune noor\npeab harjutama asjade\nliigutamist oma majas.\nKui sa oled oma toas,\n{ff 00 00 01}koputa {ff 00 00 00}ennast\n{ff 00 00 01}puuteekraanil{ff 00 00 00}, et haarata.\nKui sa asja käes hoiad,\n{ff 00 00 01}libista {ff 00 00 00}seda suunas,\nkuhu tahad.\n{07 14 00}Päris magus, eks? Suure\ndiivani tassimine on üks mu\nlemmiktrenne!\n{07 0e 00}Hmmm{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} Jah, ma arvan, et\nsee katab praegu\nenam-vähem kõik.\n{07 0d 00}Roki edasi! Sa polegi enam\nnii täiesti mõistmatu,\n{01 00 00 05 00}{04 02 00}!"
   },
   {
    "id": 12,
    "en": "{07 01 00}Finally!{01 00 00 14 00} {07 05 00}Where have you\nbeen? Are you some kind of\nrookie slacker?!\n{07 00 00}Oh.{01 00 00 05 00} {07 16 00}My bad. {01 00 00 05 00}You're actually\non time, {01 00 00 05 00}{04 02 00}.\n\n{07 14 00}Well,{01 00 00 0a 00} since I got a new\none, I'll give you my\n{0b 02 00}{01 00 00 05 00}{04 1a 00}!",
-   "et": ""
+   "et": "{07 01 00}Lõpuks!{01 00 00 14 00} {07 05 00}Kus sa oled\nolnud? Kas sa oled mingi\nlaisk uustulnuk?!\n{07 00 00}Oh.{01 00 00 05 00} {07 16 00}Minu viga. {01 00 00 05 00}Sa oled\ntegelikult ajas, {01 00 00 05 00}{04 02 00}.\n\n{07 14 00}Noh,{01 00 00 0a 00} kuna ma sain uue,\nannan ma sulle oma\n{0b 02 00}{01 00 00 05 00}{04 1a 00}!"
   },
   {
    "id": 13,
    "en": "{07 00 00}{0b 03 00}{04 1f 00}! You about \ndone slaving away at your\npart-time job?\nWell, when you are, you have\nGOT to start checking out\n{ff 00 00 06}Tom Nook{ff 00 00 00}'s store every day!\n{07 14 00}He changes up his\ninventory every day just\nto keep things spicy.\n{07 00 00}Personally,{01 00 00 05 00} I'd rather hang\nout in my room doing sets\nof ab blasters all day.\nShopping is totally weak\nsauce, {01 00 00 05 00}{04 02 00}!\nIt's such a HASSLE!",
-   "et": ""
+   "et": "{07 00 00}{0b 03 00}{04 1f 00}! Kas sa oled \noma osalise ajaga tööga\npeaaegu valmis?\nNoh, kui oled, siis sa PEAD\nhakkama iga päev vaatama\n{ff 00 00 06}Tom Nooki{ff 00 00 00} poodi!\n{07 14 00}Ta vahetab oma kaupa\niga päev, et asjad\npõnevad oleksid.\n{07 00 00}Isiklikult{01 00 00 05 00} veedaksin ma\nparema meelega päeva toas\nkõhulihaseid tehes.\nOstlemine on täiesti\nnõme, {01 00 00 05 00}{04 02 00}!\nSee on selline TÜLI!"
   },
   {
    "id": 14,
    "en": "{07 04 00}HWHAT?!{01 00 00 0f 00}{07 00 00} When did I order a\ndang {ff 00 00 07}watering can{ff 00 00 00}? \n\n{07 0e 00}Oh well,{01 00 00 05 00} I guess I can use\nit to drench dried-up\nflowers. {01 00 00 0f 00}{07 09 00}Whoop-de-doo.\n{07 00 00}By the way, did you write\nthis?!",
-   "et": ""
+   "et": "{07 04 00}MIDA?!{01 00 00 0f 00}{07 00 00} Millal ma tellisin\npagana {ff 00 00 07}kastekannu{ff 00 00 00}? \n\n{07 0e 00}Noh,{01 00 00 05 00} ma vist saan sellega\nkuivanud lilli kasta.\n{01 00 00 0f 00}{07 09 00}Vau, kui põnev.\n{07 00 00}Muide, kas sina kirjutasid\nselle?!"
   },
   {
    "id": 15,
    "en": "{07 00 00}People in {04 03 00}\naren't just a bunch of\nmeatheads, you know!\n{07 14 00}If you write us letters,\nwe'll write back. You can\ncount on it, {01 00 00 05 00}{04 02 00}!\n{07 0d 00}So don't be a big sissy!\nGet crackin' and write us\nsome letters!\n{07 00 00}I might show it to a couple\npeople around town, but{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n\n{07 15 00}You're cool with that,\nright?{01 00 00 05 00} Good.",
-   "et": ""
+   "et": "{07 00 00}Inimesed linnas {04 03 00}\npole lihtsalt hunnik\nlihapäid, tead küll!\n{07 14 00}Kui sa meile kirjutad,\nme vastame. Selle peale\nvõid kindel olla, {01 00 00 05 00}{04 02 00}!\n{07 0d 00}Nii et ära ole nõrguke!\nHakka pihta ja kirjuta\nmeile kirju!\n{07 00 00}Ma võin seda paarile\ninimesele näidata, aga{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n\n{07 15 00}Sa oled sellega nõus,\neks?{01 00 00 05 00} Hea."
   },
   {
    "id": 16,
    "en": "{07 04 00}{04 0f 00} {04 10 00}?! WHOA!{01 01 00}\n{07 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}But that means your\nsign is {04 11 00}!{02 00 00 11 12}\nYou got it!\nHow about no?",
-   "et": ""
+   "et": "{07 04 00}{04 0f 00} {04 10 00}?! OHOO!{01 01 00}\n{07 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}Aga see tähendab, et su\ntähtkuju on {04 11 00}!{02 00 00 11 12}\nJust nii!\nAga kui ei?"
   },
   {
    "id": 17,
    "en": "{07 14 00}All right, next question:{01 00 00 0a 00}\nWhat's your blood type?{02 02 00 13 13 13 13}\nA.\nB.\nAB.\nO.",
-   "et": ""
+   "et": "{07 14 00}Olgu, järgmine küsimus:{01 00 00 0a 00}\nMis on su veregrupp?{02 02 00 13 13 13 13}\nA.\nB.\nAB.\nO."
   },
   {
    "id": 18,
    "en": "{07 01 00}HWHAT?!{01 00 00 05 00} You just LIED?!{01 01 00}\n{07 16 00}You BETTER give me a\nstraight answer this time!",
-   "et": ""
+   "et": "{07 01 00}MIDA?!{01 00 00 05 00} Sa just VALETASID?!{01 01 00}\n{07 16 00}Sa annad PAREM seekord\nausa vastuse!"
   },
   {
    "id": 19,
    "en": "{07 14 00}Right on, right on.{01 01 00}\n{07 00 00}Wait, you want a membership\ncard? {07 03 00}There's no card!{01 00 00 0a 00}\n{07 16 00}We're the only two members!",
-   "et": ""
+   "et": "{07 14 00}Just nii, just nii.{01 01 00}\n{07 00 00}Oota, sa tahad liikmekaarti?\n{07 03 00}Kaarti pole!{01 00 00 0a 00}\n{07 16 00}Me olemegi ainsad liikmed!"
   },
   {
    "id": 20,
    "en": "{07 0f 00}Oh, really? Then I'm gonna\nhave to learn how to write\npretty letters and stuff? {01 00 00 05 00}\n{07 06 00}But I hate it! I always get\ntoo fired up and just start\nscribbling, {01 00 00 05 00}{04 02 00}!{02 00 00 17 15}\nI hear ya!\nIt's easy!",
-   "et": ""
+   "et": "{07 0f 00}Oh, tõesti? Siis pean ma\nõppima ilusaid kirju\nkirjutama ja nii? {01 00 00 05 00}\n{07 06 00}Aga ma vihkan seda! Ma\nlähen alati liiga hoogu ja\nhakkan soditama, {01 00 00 05 00}{04 02 00}!{02 00 00 17 15}\nSaan aru!\nSee on lihtne!"
   },
   {
    "id": 21,
    "en": "{07 0d 00}Right on, I wasn't sure what\nI'd do if you were super\npsyched about penmanship.{01 00 00 14 00}\n{07 14 00}We even think alike,\n{01 00 00 05 00}{04 02 00}!{02 00 00 17 14}\nTotally!\nNot at all!",
-   "et": ""
+   "et": "{07 0d 00}Just nii, ma ei teaks,\nmida teha, kui sa oleksid\nilukirja peale hull.{01 00 00 14 00}\n{07 14 00}Me mõtleme ühtemoodi,\n{01 00 00 05 00}{04 02 00}!{02 00 00 17 14}\nTäiesti!\nÜldse mitte!"
   },
   {
    "id": 22,
    "en": "{07 04 00}What?!{01 00 00 0f 00} I don't remember\nordering a {ff 00 00 07}watering can{ff 00 00 00}!\n\n{07 14 00}Whatever!{01 00 00 05 00} I'll figure out\nsomething to do with it.\n\n{07 0d 00}Hold up! I can water my\ndead flowers with this, and\nthey'll come back to life!\nThat RULES, {01 00 00 05 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 04 00}Mida?!{01 00 00 0f 00} Ma ei mäleta\n{ff 00 00 07}kastekannu{ff 00 00 00} tellimist!\n\n{07 14 00}Ükskõik!{01 00 00 05 00} Küll ma midagi\nvälja mõtlen.\n\n{07 0d 00}Oota! Ma saan sellega oma\nsurnud lilli kasta ja nad\närkavad ellu!\nSee on ÄGE, {01 00 00 05 00}{04 02 00}!"
   },
   {
    "id": 23,
    "en": "{07 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}All right!{01 00 00 14 00}\n\n\nYou're getting to be one of\nmy best buds now that I\nknow you better.\nI'm gonna go rock my pecs\non the gym's pec punisher!\n\nIf I think of any more\nquestions, I'll come find\nyou!",
-   "et": ""
+   "et": "{07 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}Hea küll!{01 00 00 14 00}\n\n\nSinust on saamas üks mu\nparimaid semusid, nüüd kui\nma sind paremini tunnen.\nMa lähen rokin oma rindu\njõusaali rinnamasinal!\n\nKui mul tuleb veel\nküsimusi, ma leian su\nüles!"
   }
  ]
 }

@@ -4,102 +4,102 @@
   {
    "id": 0,
    "en": "{07 14 00}Yessss! Can you believe it's\nalready time for the\n{ff 00 00 03}Bright Nights{ff 00 00 00}, {01 00 00 05 00}{04 1f 00}?",
-   "et": ""
+   "et": "{07 14 00}Jaaaa! Kas suudad uskuda,\net on juba\n{ff 00 00 03}säraööde{ff 00 00 00} aeg, {01 00 00 05 00}{04 1f 00}?"
   },
   {
    "id": 1,
    "en": "{07 14 00}Isn't snow totally pretty,\n{01 00 00 05 00}{04 02 00}?",
-   "et": ""
+   "et": "{07 14 00}Kas lumi pole täiesti ilus,\n{01 00 00 05 00}{04 02 00}?"
   },
   {
    "id": 2,
    "en": "{07 07 00}I can see my breath,\n{01 00 00 05 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 07 00}Ma näen oma hingeauru,\n{01 00 00 05 00}{04 02 00}!"
   },
   {
    "id": 3,
    "en": "{07 14 00}The {ff 00 00 03}Bright Nights {ff 00 00 00}start\ntoday, {01 00 00 05 00}{04 02 00}!\n\n{07 00 00}I spent so much time\ndecorating my house this\nyear!\n{07 14 00}You'll come over and see it,\nright?",
-   "et": ""
+   "et": "{07 14 00}{ff 00 00 03}Säraööd {ff 00 00 00}algavad\ntäna, {01 00 00 05 00}{04 02 00}!\n\n{07 00 00}Ma kulutasin sel aastal\nnii palju aega maja\nkaunistamisele!\n{07 14 00}Sa tuled ju seda\nvaatama, eks?"
   },
   {
    "id": 4,
    "en": "{07 14 00}The {ff 00 00 03}Bright Nights{ff 00 00 00} have\nalready started! {01 00 00 05 00}I'm so\nexcited, {01 00 00 05 00}{04 02 00}!\n{07 0e 00}Who do you think will be the\n{ff 00 00 02}Bright Star{ff 00 00 00} this year?\nIt's gotta be me, right?!\n{07 10 00}{0b 03 00}If you help me, {04 1f 00},\nI can't lose!",
-   "et": ""
+   "et": "{07 14 00}{ff 00 00 03}Säraööd{ff 00 00 00} on juba\nalanud! {01 00 00 05 00}Ma olen nii\nelevil, {01 00 00 05 00}{04 02 00}!\n{07 0e 00}Kes sinu arust saab sel\naastal {ff 00 00 02}säratäheks{ff 00 00 00}?\nSee peab olema mina, eks?!\n{07 10 00}{0b 03 00}Kui sa mind aitad, {04 1f 00},\nei saa ma kaotada!"
   },
   {
    "id": 5,
    "en": "{07 00 00}I've already finished\ndecorating my house. Now\nall I can do is wait!\n{07 00 00}So when you give your\nvote to {ff 00 00 06}Tortimer{01 00 00 05 00}{ff 00 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{ff 00 00 06}\n{ff 00 00 00}\nYou should totally throw\nyour hands in the air and\nscream:{ff 00 00 06}\n{ff 00 00 00}\"Hey, old mayor dude!\n{04 01 00} rules!\nWOOOOOOOOOOOOO!!!\"",
-   "et": ""
+   "et": "{07 00 00}Ma olen maja kaunistamise\njuba lõpetanud. Nüüd saan\nainult oodata!\n{07 00 00}Nii et kui annad oma\nhääle {ff 00 00 06}Tortimerile{01 00 00 05 00}{ff 00 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{ff 00 00 06}\n{ff 00 00 00}\nsiis viska kindlasti\nkäed õhku ja\nkarju:{ff 00 00 06}\n{ff 00 00 00}„Hei, vana linnapea!\n{04 01 00} on parim!\nUUUUUUUUUUUU!!!”"
   },
   {
    "id": 6,
    "en": "{07 00 00}So {04 1f 00}, {01 00 00 05 00}{07 0b 00}what do you\nthink of how I decorated\nmy house, {01 00 00 05 00}{04 02 00}?\n{07 00 00}Fabulous, right?\n\n\n{07 0d 00}Make sure to tell \n{ff 00 00 06}Tortimer {ff 00 00 00}how much you like\nthe decorations!",
-   "et": ""
+   "et": "{07 00 00}Kuule {04 1f 00}, {01 00 00 05 00}{07 0b 00}mida sa\narvad sellest, kuidas ma\noma maja kaunistasin,\n{01 00 00 05 00}{04 02 00} ? {07 00 00}Vapustav, eks?\n\n\n{07 0d 00}Ütle kindlasti\n{ff 00 00 06}Tortimerile{ff 00 00 00}, kui väga sulle\nkaunistused meeldivad!"
   },
   {
    "id": 7,
    "en": "{07 0d 00}Everyone keeps telling me\nthat the lights on my house\nlook interesting.\n{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}{07 06 00}But I'm not really sure\nif it's a compliment or\nnot, {01 00 00 05 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 0d 00}Kõik ütlevad mulle aina,\net mu maja tuled\nnäevad huvitavad välja.\n{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}{07 06 00}Aga ma pole päris kindel,\nkas see on kompliment\nvõi mitte, {01 00 00 05 00}{04 02 00}!"
   },
   {
    "id": 8,
    "en": "{07 06 00}What a pile of peanut\nbutter! {01 00 00 05 00}I didn't win the\ncontest!\n{07 0f 00}I guess I'll never beat\n{ff 00 00 06}{04 0f 00}{ff 00 00 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.",
-   "et": ""
+   "et": "{07 06 00}Milline maapähklivõi\nhunnik! {01 00 00 05 00}Ma ei võitnud\nvõistlust!\n{07 0f 00}Ma vist ei võida kunagi\n{ff 00 00 06}{04 0f 00}t{ff 00 00 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}."
   },
   {
    "id": 9,
    "en": "{07 16 00}Thanks to {ff 00 00 06}{04 0f 00}{ff 00 00 00},{01 00 00 05 00}\nI'm not the {ff 00 00 02}Bright Star{ff 00 00 00}\nthis year.\n{07 05 00}What's that about?!\n{ff 00 00 06}{04 0f 00} {ff 00 00 00}isn't even that\nbright, {01 00 00 05 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 16 00}Tänu {ff 00 00 06}{04 0f 00}le{ff 00 00 00},{01 00 00 05 00}\nei ole mina sel aastal\n{ff 00 00 02}säratäht{ff 00 00 00}.\n{07 05 00}Mis lugu see on?!\n{ff 00 00 06}{04 0f 00} {ff 00 00 00}pole isegi nii\nsärav, {01 00 00 05 00}{04 02 00}!"
   },
   {
    "id": 10,
    "en": "{07 00 00}So I guess {ff 00 00 06}{04 0f 00} {ff 00 00 00}won\nthe contest this year,\n{04 1f 00}.\n{07 06 00}But you think mine was\nbetter, right? {01 00 00 05 00}RIGHT?!",
-   "et": ""
+   "et": "{07 00 00}Nii et {ff 00 00 06}{04 0f 00} {ff 00 00 00}võitis\nsel aastal võistluse,\n{04 1f 00}.\n{07 06 00}Aga sinu arust oli minu oma\nparem, eks? {01 00 00 05 00}EKS?!"
   },
   {
    "id": 11,
    "en": "{07 0d 00}Yessss! I'm the {ff 00 00 02}Bright Star{ff 00 00 00}!{01 00 00 0a 00}\n{07 14 00}This is the greatest day of\nmy fabulous life!",
-   "et": ""
+   "et": "{07 0d 00}Jaaaa! Mina olen {ff 00 00 02}säratäht{ff 00 00 00}!{01 00 00 0a 00}\n{07 14 00}See on mu vapustava elu\nparim päev!"
   },
   {
    "id": 12,
    "en": "{07 14 00}I just chatted with old\n{ff 00 00 06}Tortimer{ff 00 00 00},{ff 00 00 06} {ff 00 00 00}{01 00 00 05 00}{04 02 00}!\n\n{07 0a 00}You voted for me, didn't\nyou? You're such a sweetie!",
-   "et": ""
+   "et": "{07 14 00}Ma just vestlesin vana\n{ff 00 00 06}Tortimeriga{ff 00 00 00},{ff 00 00 06} {ff 00 00 00}{01 00 00 05 00}{04 02 00}!\n\n{07 0a 00}Sa hääletasid minu poolt,\neks? Sa oled nii kullake!"
   },
   {
    "id": 13,
    "en": "{07 0e 00}{0b 03 00}{04 1f 00}, do you think\nI put up the best lights\nin town?\n{07 15 00}Oh, you don't have to\neven answer that!\n\nI can tell just by looking\nat your face!",
-   "et": ""
+   "et": "{07 0e 00}{0b 03 00}{04 1f 00}, kas sinu arust\npanin mina linna parimad\ntuled üles?\n{07 15 00}Oi, sa ei pea sellele\nisegi vastama!\n\nMa näen seda ainuüksi\nsinu näost!"
   },
   {
    "id": 14,
    "en": "{07 16 00}{0b 03 00}{04 1f 00}, {01 00 00 05 00}why are you\nacting so shy?\n\n{07 0c 00}I know!{01 01 00} {07 14 00}You must have\nvoted for me!\n\n.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 0d 00}Awww, you don't have\nto hide that, {01 00 00 05 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 16 00}{0b 03 00}{04 1f 00}, {01 00 00 05 00}miks sa\nnii häbelik oled?\n\n{07 0c 00}Ma tean!{01 01 00} {07 14 00}Sa hääletasid\nkindlasti minu poolt!\n\n.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 0d 00}Ohh, sa ei pea seda\nvarjama, {01 00 00 05 00}{04 02 00}!"
   },
   {
    "id": 15,
    "en": "{07 15 00}Hmmmm{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} It looks like my\narchrival is {ff 00 00 06}{04 10 00}{ff 00 00 00}!\n\n{07 05 00}We'll just see who's\nbetter, won't we? {01 00 00 0f 00}{07 11 00}Oh yes,\n{01 00 00 05 00}{04 02 00}, we'll see! ",
-   "et": ""
+   "et": "{07 15 00}Hmmmm{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} Tundub, et mu\npeamine rivaal on {ff 00 00 06}{04 10 00}{ff 00 00 00}!\n\n{07 05 00}Eks me näe, kumb on\nparem, kas pole? {01 00 00 0f 00}{07 11 00}Oh jaa,\n{01 00 00 05 00}{04 02 00}, me näeme! "
   },
   {
    "id": 16,
    "en": "{07 15 00}The way things are going,\n{ff 00 00 06}{04 10 00} {ff 00 00 00}is gonna win\nthis contest!\nBut I'm not about to give\nup yet!\n\n{07 05 00}I may look cute, but I can\nget pretty FEROCIOUS about\ndecorations when I have to!",
-   "et": ""
+   "et": "{07 15 00}Nii nagu asjad lähevad,\nvõidab {ff 00 00 06}{04 10 00} {ff 00 00 00}selle\nvõistluse!\nAga ma ei kavatse veel\nalla anda!\n\n{07 05 00}Ma võin nunnu välja näha,\naga kaunistuste pärast\nsuudan ma olla päris METSIK!"
   },
   {
    "id": 17,
    "en": "{07 0e 00}Just look at {ff 00 00 06}{04 10 00}{ff 00 00 00}'s\nlights{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n\n{07 19 00}They're pretty simple, but\nthat's what makes them\nso classic and gorgeous!",
-   "et": ""
+   "et": "{07 0e 00}Vaata ainult {ff 00 00 06}{04 10 00}{ff 00 00 00}\ntulesid{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n\n{07 19 00}Need on päris lihtsad, aga\njust see teeb nad\nnii klassikaliseks ja uhkeks!"
   },
   {
    "id": 18,
    "en": "{07 0e 00}I wonder whose house will\nwin?\n\n{07 0c 00}This year I'm gonna be the\nbrightest star in the sky,\n{01 00 00 05 00}{04 02 00}!{07 14 00}",
-   "et": ""
+   "et": "{07 0e 00}Huvitav, kelle maja\nvõidab?\n\n{07 0c 00}Sel aastal olen mina taeva\nkõige eredam täht,\n{01 00 00 05 00}{04 02 00}!{07 14 00}"
   },
   {
    "id": 19,
    "en": "{07 15 00}I'm gonna win that contest,\nyou know, {01 00 00 05 00}{04 02 00}!\n\n{07 0d 00}It's all about reaching out\nand grabbing sweet victory,\n{01 00 00 05 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 15 00}Ma võidan selle võistluse,\ntead küll, {01 00 00 05 00}{04 02 00}!\n\n{07 0d 00}Kõik seisneb selles, et\nsirutad käe ja haarad\nmagusa võidu, {01 00 00 05 00}{04 02 00}!"
   }
  ]
 }

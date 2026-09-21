@@ -4,17 +4,17 @@
   {
    "id": 0,
    "en": "{07 00 00}Tee hee hee!{01 00 00 14 00} Everything\nabout this house is just\nso totally{01 00 00 0a 00} you!\nInterpret that however you\nwant.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}",
-   "et": ""
+   "et": "{07 00 00}Hihihii!{01 00 00 14 00} Kõik selle\nmaja juures on lihtsalt\nnii täiesti{01 00 00 0a 00} sinu moodi!\nTõlgenda seda, kuidas\ntahad.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}"
   },
   {
    "id": 1,
    "en": "{07 14 00}Whoa!{01 00 00 05 00} It's so much cleaner\nthan I thought it would be!{01 00 00 05 00}\nNot sparkling, but still...\n{07 00 00}You really worked hard to\nget this place all spiffy,\ndidn't you?",
-   "et": ""
+   "et": "{07 14 00}Ohoo!{01 00 00 05 00} Siin on palju puhtam\nkui ma arvasin!{01 00 00 05 00}\nMitte säravpuhas, siiski...\n{07 00 00}Sa nägid tõesti vaeva,\net see koht korda saada,\nkas pole?"
   },
   {
    "id": 2,
    "en": "{07 00 00}Well, well{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00} It's a lot\ncleaner {07 0b 00}than I'd expected.\n\n{07 14 00}Actually, I always had the\nimpression that you lived\nin filth, {01 00 00 05 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 00 00}Nonii{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00} Siin on palju\npuhtam {07 0b 00}kui ma ootasin.\n\n{07 14 00}Tegelikult oli mul alati\nmulje, et sa elad\nräpasuses, {01 00 00 05 00}{04 02 00}!"
   }
  ]
 }

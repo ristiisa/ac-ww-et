@@ -4,17 +4,17 @@
   {
    "id": 0,
    "en": "{07 00 00}Uh{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} What are you doing?\nThat doesn't make any\nsense at all, {01 00 00 05 00}{04 02 00}.",
-   "et": ""
+   "et": "{07 00 00}Ee{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} Mida sa teed?\nSellel pole mingit\nmõtet, {01 00 00 05 00}{04 02 00}."
   },
   {
    "id": 1,
    "en": "{07 18 00}Hanh!? {01 00 00 0f 00}{07 06 00}That's not fair!\nWhat's the big idea,\n{01 00 00 05 00}{04 02 00}?",
-   "et": ""
+   "et": "{07 18 00}Mis!? {01 00 00 0f 00}{07 06 00}See pole aus!\nMis mõte sul on,\n{01 00 00 05 00}{04 02 00}?"
   },
   {
    "id": 2,
    "en": "{07 15 00}It's not right to tease me\nlike that, {01 00 00 05 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 15 00}Pole ilus mind niimoodi\nnarrida, {01 00 00 05 00}{04 02 00}!"
   }
  ]
 }

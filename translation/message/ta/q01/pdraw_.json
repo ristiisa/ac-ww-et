@@ -4,12 +4,12 @@
   {
    "id": 0,
    "en": "{07 04 00}{0b 03 00}{04 1c 00}!{01 00 00 0a 00}\n{07 00 00}Well, what I've got is \n{04 1d 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00}\n{07 14 00}So, {01 00 00 05 00}I guess this match is\na draw. I'll give you back\nthis bug {01 00 00 0a 00}for now.",
-   "et": ""
+   "et": "{07 04 00}{0b 03 00}{04 1c 00}!{01 00 00 0a 00}\n{07 00 00}Noh, minul on\n{04 1d 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00}\n{07 14 00}Nii et {01 00 00 05 00}see matš on vist\nviik. Ma annan selle putuka\n{01 00 00 0a 00}praegu tagasi."
   },
   {
    "id": 1,
    "en": "{07 00 00}You must have worked really\nhard to get that\n{0b 02 00}{04 1c 00}!\nMe, I managed to nab\n{04 1d 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\nWell, {01 00 00 05 00}this means we're tied.\nAnyway, I'll give this back \nto you now!{01 00 00 14 00} Let's do it\nagain later, {01 00 00 0a 00}{04 02 00}.",
-   "et": ""
+   "et": "{07 00 00}Sa pidid kõvasti pingutama,\net saada see\n{0b 02 00}{04 1c 00}!\nMina õnnestusin napsata\n{04 1d 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\nNoh, {01 00 00 05 00}see tähendab viiki.\nIgatahes annan selle sulle\nnüüd tagasi!{01 00 00 14 00} Teeme seda\nhiljem uuesti, {01 00 00 0a 00}{04 02 00}."
   }
  ]
 }

@@ -4,27 +4,27 @@
   {
    "id": 0,
    "en": "{07 16 00}Say, uh, {04 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} Would\nyou mind not shoving me\naround? {01 00 00 05 00}It's kinda rude.",
-   "et": ""
+   "et": "{07 16 00}Kuule, ee, {04 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} Kas\nsa võiksid mind mitte\nlükata? {01 00 00 05 00}See on ebaviisakas."
   },
   {
    "id": 1,
    "en": "{01 00 00 05 00}Dude, cut it out!{01 00 00 0a 00} How would\nyou like it if I shoved\nyou around, {01 00 00 05 00}{04 02 00}?",
-   "et": ""
+   "et": "{01 00 00 05 00}Sõber, lõpeta ära!{01 00 00 0a 00} Kuidas\nsulle meeldiks, kui ma sind\nlükkaksin, {01 00 00 05 00}{04 02 00}?"
   },
   {
    "id": 2,
    "en": "{07 01 00}Hey! I was standing there!{01 00 00 0a 00}\nIf you want me to move,\nask! You don't have to push!",
-   "et": ""
+   "et": "{07 01 00}Hei! Ma seisin seal!{01 00 00 0a 00}\nKui tahad, et ma liiguksin,\nküsi! Pole vaja lükata!"
   },
   {
    "id": 3,
    "en": "{07 16 00}Uh.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} What are you doing?\n\n\nIf you keep that up, I\nswear,{01 00 00 05 00} I'm going to hate you\nfor the rest of my life!",
-   "et": ""
+   "et": "{07 16 00}Ee.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} Mida sa teed?\n\n\nKui sa sedasi jätkad, siis\nvannun,{01 00 00 05 00} ma vihkan sind\nkogu ülejäänud elu!"
   },
   {
    "id": 4,
    "en": "{07 16 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}Does this make you happy,\n{04 00 00}? Does this give\nyou a full, satisfying life?",
-   "et": ""
+   "et": "{07 16 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}Kas see rõõmustab sind,\n{04 00 00}? Kas see teeb su\nelu täisväärtuslikuks?"
   }
  ]
 }

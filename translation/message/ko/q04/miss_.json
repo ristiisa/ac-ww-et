@@ -4,27 +4,27 @@
   {
    "id": 0,
    "en": "{07 15 00}Hey, {01 00 00 0f 00}what's the big idea,\ntrying to get me into \n{04 1c 00}?\nDid you fall on your head\nor something, {01 00 00 05 00}{04 02 00}?\n\n{07 16 00}If you think that would look\ngood on me, you need to\nget your head checked!",
-   "et": ""
+   "et": "{07 15 00}Hei, {01 00 00 0f 00}mis mõte sellel on,\net üritad mind panna\n{04 1c 00}?\nKas sa kukkusid pea peale\nvõi midagi, {01 00 00 05 00}{04 02 00}?\n\n{07 16 00}Kui sa arvad, et see mulle\nsobiks, siis lase pea\nüle vaadata!"
   },
   {
    "id": 1,
    "en": "{07 00 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}So, {01 00 00 05 00}{04 02 00}, I know \nyou worked hard to get me\n{04 1c 00}.\n{07 1b 00}But everyone's got their\nown style, {07 16 00}and that thing\nis just plain{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}hideous.",
-   "et": ""
+   "et": "{07 00 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}Nii, {01 00 00 05 00}{04 02 00}, ma tean,\net sa nägid vaeva, et tuua\n{04 1c 00}.\n{07 1b 00}Aga igaühel on oma\nstiil, {07 16 00}ja see asi on\nlihtsalt{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}jube."
   },
   {
    "id": 2,
    "en": "{07 00 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 02 00}Whoa there!{01 00 00 0f 00} Are you\ncrazy? This is\n{04 1c 00}!\n{07 0f 00}I could never pull off\nwearing something like\nthat.{01 01 00} It's just not me{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.",
-   "et": ""
+   "et": "{07 00 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 02 00}Oot-oot!{01 00 00 0f 00} Kas sa\noled hull? See on\n{04 1c 00}!\n{07 0f 00}Ma ei suudaks kunagi\nmidagi sellist kanda.{01 01 00}\nSee pole lihtsalt mina{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}."
   },
   {
    "id": 3,
    "en": "{07 15 00}Hey!{01 00 00 05 00} In case you haven't\nnoticed, I've already got\n{04 1c 00}!\nWhat's the big idea, \n{01 00 00 05 00}{04 02 00}?!",
-   "et": ""
+   "et": "{07 15 00}Hei!{01 00 00 05 00} Juhuks kui sa pole\nmärganud, mul on juba\n{04 1c 00}!\nMis mõte sellel on,\n{01 00 00 05 00}{04 02 00}?!"
   },
   {
    "id": 4,
    "en": "{07 00 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 02 00}Ugh!{01 00 00 0f 00} What's the big idea?{01 00 00 0f 00}\nWhy are you bringing me\n{04 1c 00}?\n{07 00 00}I know I'm a clotheshorse,\nbut this is ridiculous, \n{01 00 00 05 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 00 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 02 00}Uhh!{01 00 00 0f 00} Mis mõte sellel on?{01 00 00 0f 00}\nMiks sa tood mulle\n{04 1c 00}?\n{07 00 00}Ma tean, et olen moehull,\naga see on naeruväärne,\n{01 00 00 05 00}{04 02 00}!"
   }
  ]
 }

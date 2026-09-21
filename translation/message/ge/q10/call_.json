@@ -4,17 +4,17 @@
   {
    "id": 0,
    "en": "{07 00 00}Like, yoo-hoo?!{01 00 00 0a 00} It's me,\n{04 01 00}!{01 00 00 0a 00} REMEMBER ME?{01 00 00 0a 00}\nSure ya do, {01 00 00 05 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 00 00}Nagu, huhuu?!{01 00 00 0a 00} See olen mina,\n{04 01 00}!{01 00 00 0a 00} MÄLETAD MIND?{01 00 00 0a 00}\nMuidugi mäletad, {01 00 00 05 00}{04 02 00}!"
   },
   {
    "id": 1,
    "en": "{07 00 00}Are you here, {04 1f 00}?{01 00 00 0a 00}\nIt's me!{01 00 00 0a 00} {0b 03 00}{04 01 00}!{01 00 00 0a 00} Your\nbestest friend ever?",
-   "et": ""
+   "et": "{07 00 00}Kas sa oled siin, {04 1f 00}?{01 00 00 0a 00}\nSee olen mina!{01 00 00 0a 00} {0b 03 00}{04 01 00}!{01 00 00 0a 00}\nSinu kõige parem sõber?"
   },
   {
    "id": 2,
    "en": "{07 00 00}Helloooooo?{01 00 00 0a 00} Hey, {01 00 00 05 00}it's me!{01 00 00 0a 00}\nRemember me, {04 01 00}?{01 00 00 0a 00}\nI'm, like, here and stuff!",
-   "et": ""
+   "et": "{07 00 00}Halloo?{01 00 00 0a 00} Kuule, {01 00 00 05 00}mina siin!{01 00 00 0a 00}\nMäletad mind, {04 01 00}?{01 00 00 0a 00}\nMa olen, nagu, siin ja nii!"
   }
  ]
 }

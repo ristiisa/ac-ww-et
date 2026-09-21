@@ -4,17 +4,17 @@
   {
    "id": 0,
    "en": "{07 00 00}By the way{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00}{01 01 00} {07 1c 00}{01 00 00 14 00}I see you\ncouldn't deliver it either.\n{07 19 00}I understand.\nWhen {ff 00 00 06}{04 10 00}{ff 00 00 00} is upset,\nit can be pretty scary{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00}{07 00 00}\n\n{07 19 00}I guess what I can't pawn\noff on others I have to do\nmyself{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 01 00}{07 15 00} OK!{01 00 00 14 00} I'm ready now!\nSo,{01 00 00 05 00}{07 0b 00} where's my package,{01 00 00 0a 00}\n{04 02 00}?",
-   "et": ""
+   "et": "{07 00 00}Muide{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00}{01 01 00} {07 1c 00}{01 00 00 14 00}Näen, et sina\nka ei suutnud kohale viia.\n{07 19 00}Ma mõistan.\nKui {ff 00 00 06}{04 10 00}{ff 00 00 00} on pahane,\nvõib see üsna hirmus olla{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00}{07 00 00}\n\n{07 19 00}Vist pean ise tegema selle,\nmida teistele ei saa\nlükata{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 01 00}{07 15 00} Olgu!{01 00 00 14 00} Olen valmis!\nNii,{01 00 00 05 00}{07 0b 00} kus mu pakk on,{01 00 00 0a 00}\n{04 02 00}?"
   },
   {
    "id": 1,
    "en": "{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00}{07 04 00}{01 00 00 0a 00}What?! You haven't been\nto see {ff 00 00 06}{04 10 00}{ff 00 00 00} yet?\n{07 1c 00}{01 00 00 14 00}Well, whatcha gonna do?\nEven though time makes or\nbreaks a delivery{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} {07 00 00}I guess{01 00 00 0a 00}\nI'll just have to go myself!\n{07 14 00}So,{01 00 00 0a 00} can you give me back\nmy package?",
-   "et": ""
+   "et": "{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00}{07 04 00}{01 00 00 0a 00}Mis?! Sa pole veel\n{ff 00 00 06}{04 10 00}{ff 00 00 00} juures käinud?\n{07 1c 00}{01 00 00 14 00}Noh, mis teha?\nKuigi aeg teeb või murrab\nsaadetise{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} {07 00 00}Vist pean{01 00 00 0a 00}\nise minema!\n{07 14 00}Nii et{01 00 00 0a 00} kas annad mu paki\ntagasi?"
   },
   {
    "id": 2,
    "en": "{07 04 00}But, anyway{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} Come on!{01 00 00 14 00}{07 06 00}\nYou promised me,\n{04 1f 00}!\n{07 16 00}I{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}was counting on you{01 00 00 0a 00} to\ndeliver that present\nto {ff 00 00 06}{04 10 00}{ff 00 00 00}!\n{07 08 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}I got yelled at because\nyou hadn't delivered it yet!\nYou really disappointed me.\n{07 16 00}Give it back to me now,{01 00 00 0a 00}\n{04 02 00}!",
-   "et": ""
+   "et": "{07 04 00}Aga igatahes{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} Ole nüüd!{01 00 00 14 00}{07 06 00}\nSa lubasid mulle,\n{04 1f 00}!\n{07 16 00}Ma{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}lootsin sinu peale,{01 00 00 0a 00} et\nviid selle kingituse\n{ff 00 00 06}{04 10 00}{ff 00 00 00}-le!\n{07 08 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}Mind sõimati, sest\nsa polnud seda ära viinud!\nSa valmistasid pettumuse.\n{07 16 00}Anna see mulle kohe tagasi,{01 00 00 0a 00}\n{04 02 00}!"
   }
  ]
 }

@@ -4,482 +4,482 @@
   {
    "id": 0,
    "en": "{07 22 00}Hello, and welcome to the\n{ff 00 00 08}checkpoint {ff 00 00 00}for bustling\n{04 03 00}{01 00 00 05 00}!\n{07 00 00}Listen well, {04 00 00}!\nWhen you want to visit\nanother town...{01 00 00 05 00}\nOr if, perhaps, you have a\nfriend come visit you here\nin {04 03 00}{01 00 00 0a 00}...\nI'd very much appreciate it\nif you'd please let me{01 00 00 05 00}\nknow in advance! I insist!\nYou see, because that way,{01 00 00 05 00}\nI can open the gate for you{01 00 00 0a 00}\nand let you through!",
-   "et": ""
+   "et": "{07 22 00}Tere ja tere tulemast\n{ff 00 00 08}kontrollpunkti {ff 00 00 00}elava linna\n{04 03 00}{01 00 00 05 00} juurde!\n{07 00 00}Kuula hästi, {04 00 00}!\nKui tahad külastada\nmõnda teist linna...{01 00 00 05 00}\nVõi kui sul on ehk\nsõber külla tulemas siia\nlinna {04 03 00}{01 00 00 0a 00}...\nOleksin väga tänulik,\nkui annaksid mulle{01 00 00 05 00}\nsellest ette teada!\nNäed sa, sest nii{01 00 00 05 00}\nsaan ma sulle värava avada{01 00 00 0a 00}\nja su läbi lasta!"
   },
   {
    "id": 1,
    "en": "{07 00 00}Ah! Is that so? Understood.{01 00 00 0f 00}\nWell, if you need anything,{01 00 00 05 00}\ndo not hesitate to ask!",
-   "et": ""
+   "et": "{07 00 00}Ah! Kas tõesti? Selge.{01 00 00 0f 00}\nNoh, kui sul on midagi vaja,{01 00 00 05 00}\nära kõhkle küsimast!"
   },
   {
    "id": 2,
    "en": "{07 00 00}{ff 00 00 01}Unable to register.{01 00 00 0a 00} Please\nturn the power off and\nreinsert the Game Card.",
-   "et": ""
+   "et": "{07 00 00}{ff 00 00 01}Registreerimine nurjus.{01 00 00 0a 00}\nLülita toide välja ja\npane mängukaart tagasi."
   },
   {
    "id": 4,
    "en": "{07 22 00}Good morning to you!{01 01 00}\nYou're up rather bright and\nearly.{01 00 00 05 00} Very commendable!{07 00 00}",
-   "et": ""
+   "et": "{07 22 00}Tere hommikust!{01 01 00}\nOled üleval õige vara.{01 00 00 05 00}\nVäga kiiduväärt!{07 00 00}"
   },
   {
    "id": 5,
    "en": "{07 22 00}A very good day to you!{01 01 00}\nI see you're working away\nwith due diligence. Hoo-rah!{07 00 00}",
-   "et": ""
+   "et": "{07 22 00}Väga head päeva sulle!{01 01 00}\nNäen, et rabad tööd\nkohusetundlikult. Just nii!{07 00 00}"
   },
   {
    "id": 6,
    "en": "{07 22 00}A good evening to you!{01 01 00}\nAs the day nears its end,{01 00 00 05 00}\ntry to watch your step!{07 00 00}",
-   "et": ""
+   "et": "{07 22 00}Head õhtut sulle!{01 01 00}\nKui päev hakkab lõppema,{01 00 00 05 00}\nvaata, kuhu astud!{07 00 00}"
   },
   {
    "id": 7,
    "en": "{07 22 00}A fine evening to you!{01 01 00}\nYou're working rather late...{01 00 00 05 00}\nExemplary dedication!{07 00 00}",
-   "et": ""
+   "et": "{07 22 00}Kaunist õhtut sulle!{01 01 00}\nOled üsna hilja tööl...{01 00 00 05 00}\nEeskujulik pühendumus!{07 00 00}"
   },
   {
    "id": 8,
    "en": "{07 24 00}Oh!{01 00 00 0a 00} Isn't there some other \nbusiness that you need to \ntake care of, {04 00 00}?\n{07 0e 00}Like your part-time job for\nexample{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n\n{07 22 00}Until you complete that\ntask, I am unfortunately\nunable to assist you.",
-   "et": ""
+   "et": "{07 24 00}Oh!{01 00 00 0a 00} Kas sul pole mitte \nmõnd muud asja, mida \nteha, {04 00 00}?\n{07 0e 00}Näiteks su osalise ajaga\ntöö{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n\n{07 22 00}Kuni sa selle ülesande\nlõpetad, ei saa ma\nkahjuks sind aidata."
   },
   {
    "id": 9,
    "en": "{07 24 00}Oh!{01 00 00 0a 00} Isn't there some other \nbusiness that you need to \ntake care of, {04 00 00}?\n{07 0e 00}Like your part-time job,\nfor example{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n\n{07 22 00}Until you complete that\ntask, I am unfortunately\nunable to assist you.",
-   "et": ""
+   "et": "{07 24 00}Oh!{01 00 00 0a 00} Kas sul pole mitte \nmõnd muud asja, mida \nteha, {04 00 00}?\n{07 0e 00}Näiteks su osalise\najaga töö{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n\n{07 22 00}Kuni sa selle ülesande\nlõpetad, ei saa ma\nkahjuks sind aidata."
   },
   {
    "id": 10,
    "en": "{07 25 00}Are you going home?{02 04 00 00 0b}\nI'm going home.\nThen again...",
-   "et": ""
+   "et": "{07 25 00}Kas lähed koju?{02 04 00 00 0b}\nLähen koju.\nTeisest küljest..."
   },
   {
    "id": 11,
    "en": "{07 00 00}When you go home, we truly\nappreciate it{01 00 00 05 00} if you take a\nmoment to let us know!",
-   "et": ""
+   "et": "{07 00 00}Kui sa koju lähed, oleme\nväga tänulikud,{01 00 00 05 00} kui sa\nhetkeks meile teada annad!"
   },
   {
    "id": 12,
    "en": "{07 00 00}Ah, {04 00 00}.{01 00 00 0a 00} Poor form.{01 00 00 0f 00}\nMy deepest apologies!\n\nPeople seem to be engaged\nin an activity.{01 00 00 0a 00} I cannot\nprocess your request.",
-   "et": ""
+   "et": "{07 00 00}Ah, {04 00 00}.{01 00 00 0a 00} Halb lugu.{01 00 00 0f 00}\nMu sügavaim vabandus!\n\nInimesed näivad olevat\ntegevuses.{01 00 00 0a 00} Ma ei saa\nsu soovi täita."
   },
   {
    "id": 13,
    "en": "{07 22 00}On that note, {04 00 00}...{01 00 00 0f 00}\nI bid you farewell!{07 00 00}{01 10 00 1e}",
-   "et": ""
+   "et": "{07 22 00}Sellega seoses, {04 00 00}...{01 00 00 0f 00}\nJätan sinuga hüvasti!{07 00 00}{01 10 00 1e}"
   },
   {
    "id": 14,
    "en": "{07 24 00}Oh!{01 00 00 0a 00} Isn't there still some\nunfinished business for you\nto attend to, {04 00 00}?\n{07 0e 00}Like your part-time job,\nfor example{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n\n{07 22 00}Unfortunately, I cannot\nopen the gate until you \ntake care of that.",
-   "et": ""
+   "et": "{07 24 00}Oh!{01 00 00 0a 00} Kas sul pole ikka veel\nlõpetamata asju, millega\ntegeleda, {04 00 00}?\n{07 0e 00}Näiteks su osalise\najaga töö{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n\n{07 22 00}Kahjuks ei saa ma väravat\navada enne, kui sa sellega \ntegelenud oled."
   },
   {
    "id": 15,
    "en": "{07 00 00}At any rate, is there\nsomething{01 00 00 0a 00} that I can do for\nyou at this time?{02 07 00 00 00 00 11 01}\nI wanna go out!\nInvite guests!\nFriend code!\nWhere am I?\nOh, nothing.",
-   "et": ""
+   "et": "{07 00 00}Igatahes, kas ma saan\nmidagi{01 00 00 0a 00} sinu heaks\npraegu teha?{02 07 00 00 00 00 11 01}\nTahan välja!\nKutsu külalisi!\nSõbrakood!\nKus ma olen?\nOh, ei midagi."
   },
   {
    "id": 16,
    "en": "{07 00 00}At any rate, {01 00 00 05 00}can I do{01 00 00 0a 00}\nsomething for you?{02 06 00 00 00 11 01}\nI wanna go out.\nClose the gate.\nWhere am I?\nNothing.",
-   "et": ""
+   "et": "{07 00 00}Igatahes, {01 00 00 05 00}kas saan{01 00 00 0a 00}\nmidagi sinu heaks teha?{02 06 00 00 00 11 01}\nTahan välja.\nSulge värav.\nKus ma olen?\nEi midagi."
   },
   {
    "id": 17,
    "en": "{07 22 00}Listen well, {04 00 00}!\nThis is the {ff 00 00 08}checkpoint\n{ff 00 00 00}for bustling {04 03 00}{01 00 00 05 00}!\n{07 00 00}When you should want to\nvisit{01 00 00 05 00} another town...\n\nOr if, perhaps, you have a\nfriend come visit you here\nin {04 03 00}...{01 00 00 0a 00}\nI would appreciate you{01 00 00 05 00}\nletting me know so I can\nexpedite the gate-opening!{01 00 00 05 00}\nEfficiency is our utmost\nconcern here!",
-   "et": ""
+   "et": "{07 22 00}Kuula hästi, {04 00 00}!\nSee on {ff 00 00 08}kontrollpunkt\n{ff 00 00 00}elava linna {04 03 00} jaoks{01 00 00 05 00}!\n{07 00 00}Kui sa peaksid tahtma\nkülastada{01 00 00 05 00} teist linna...\n\nVõi kui sul on ehk\nsõber külla tulemas siia\nlinna {04 03 00}...{01 00 00 0a 00}\nOleksin tänulik,{01 00 00 05 00} kui\nannaksid teada, et saaksin\nvärava kiiremini avada!{01 00 00 05 00}\nTõhusus on siin meie\nkõrgeim mure!"
   },
   {
    "id": 18,
    "en": "{07 22 00}I understand!{01 00 00 14 00} {07 00 00}I shall start\nthe process at once, so\nplease be patient!{01 10 00 28}",
-   "et": ""
+   "et": "{07 22 00}Selge!{01 00 00 14 00} {07 00 00}Alustan\nprotsessi kohe, nii et\npalun ole kannatlik!{01 10 00 28}"
   },
   {
    "id": 20,
    "en": "{07 00 00}Without further fanfare, I\nshall begin {ff 00 00 01}DS Wireless\nCommunications{ff 00 00 00}!\nThen you'll be able to visit\na nearby town! {01 00 00 0a 00}Hoo-rah!{02 04 00 54 22}\nOK!\nForget it.",
-   "et": ""
+   "et": "{07 00 00}Ilma pikema jututa alustan\nma {ff 00 00 01}DS-i juhtmevaba\nsidet{ff 00 00 00}!\nSiis saad külastada\nlähedast linna! {01 00 00 0a 00}Just nii!{02 04 00 54 22}\nOlgu!\nUnusta ära."
   },
   {
    "id": 21,
    "en": "{07 00 00}Without further ado, I will\nstart {ff 00 00 01}DS Wireless\nCommunications{ff 00 00 00}!\nThen you can host visitors\nfrom nearby towns.{01 00 00 0a 00}\nHoo-rah!{02 04 00 46 22}\nOK!\nForget it.",
-   "et": ""
+   "et": "{07 00 00}Ilma pikema jututa alustan\nma {ff 00 00 01}DS-i juhtmevaba\nsidet{ff 00 00 00}!\nSiis saad võõrustada\nkülalisi lähilinnadest.{01 00 00 0a 00}\nJust nii!{02 04 00 46 22}\nOlgu!\nUnusta ära."
   },
   {
    "id": 23,
    "en": "{07 24 00}Oh!{0b 03 00} {01 00 00 05 00}{04 00 00}!\n\n\n{07 00 00}I am quite unwilling to\nclose the gate when there\nare{01 00 00 05 00} visitors in town!",
-   "et": ""
+   "et": "{07 24 00}Oh!{0b 03 00} {01 00 00 05 00}{04 00 00}!\n\n\n{07 00 00}Ma ei taha sugugi\nväravat sulgeda, kui\nlinnas on{01 00 00 05 00} külalisi!"
   },
   {
    "id": 25,
    "en": "{07 25 00}Do you mind if I halt{ff 00 00 01}\nwireless communications{ff 00 00 00}?{02 04 00 12 0b}\nGo for it.\nStop! Wait!",
-   "et": ""
+   "et": "{07 25 00}Kas sa pahandad, kui\npeatan{ff 00 00 01} juhtmevaba side{ff 00 00 00}?{02 04 00 12 0b}\nLase käia.\nStopp! Oota!"
   },
   {
    "id": 33,
    "en": "{07 00 00}Is there anything else \nI can do for you?{02 06 00 00 00 11 01}\nI wanna go out!\nClose the gate!\nWhere am I?\nNothing.",
-   "et": ""
+   "et": "{07 00 00}Kas saan veel midagi \nsinu heaks teha?{02 06 00 00 00 11 01}\nTahan välja!\nSulge värav!\nKus ma olen?\nEi midagi."
   },
   {
    "id": 34,
    "en": "{07 00 00}Is there perhaps something\nelse I could help you with?{02 07 00 00 00 00 11 01}\nI wanna go out!\nInvite guests!\nFriend code!\nWhere am I?\nOh, nothing.",
-   "et": ""
+   "et": "{07 00 00}Kas saan sind ehk veel\nmillegagi aidata?{02 07 00 00 00 00 11 01}\nTahan välja!\nKutsu külalisi!\nSõbrakood!\nKus ma olen?\nOh, ei midagi."
   },
   {
    "id": 35,
    "en": "{07 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}What's this?!{01 00 00 14 00} You still\nhave not been issued a\n{ff 00 00 02}friend code{ff 00 00 00}!\n{07 00 00}Your {ff 00 00 02}friend code\n{ff 00 00 00}distinguishes you while\nplaying with a very\ndistant friend over\n{ff 00 00 01}Nintendo WFC{ff 00 00 00}!\nAs long as you register \neach other's {ff 00 00 02}friend codes\n{ff 00 00 00}to your {ff 00 00 02}friend rosters{ff 00 00 00},\nyou can play in the\nsame town even if you are\nvery far apart!\n\nWell then, {01 00 00 05 00}{07 0b 00}would you like\nto be issued a {ff 00 00 02}friend code{ff 00 00 00}?{02 05 00 24 27 01}\nYes!\nUh, come again?\nNo, thanks.",
-   "et": ""
+   "et": "{07 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}Mis see on?!{01 00 00 14 00} Sulle\npole veel väljastatud\n{ff 00 00 02}sõbrakoodi{ff 00 00 00}!\n{07 00 00}Sinu {ff 00 00 02}sõbrakood\n{ff 00 00 00}eristab sind, kui\nmängid väga\nkauge sõbraga\n{ff 00 00 01}Nintendo WFC{ff 00 00 00} kaudu!\nKui te registreerite \nteineteise {ff 00 00 02}sõbrakoodid\n{ff 00 00 00}oma {ff 00 00 02}sõbranimekirja{ff 00 00 00},\nsaate mängida samas\nlinnas, isegi kui olete\nteineteisest väga kaugel!\n\nNoh, {01 00 00 05 00}{07 0b 00}kas soovid, et sulle\nväljastataks {ff 00 00 02}sõbrakood{ff 00 00 00}?{02 05 00 24 27 01}\nJah!\nEe, korda veel?\nEi, aitäh."
   },
   {
    "id": 36,
    "en": "{07 22 00}Affirmative!{01 00 00 14 00}\nSo that you can be issued\na{ff 00 00 02} friend code{ff 00 00 00},\n{07 00 00}I shall now initiate{01 00 00 05 00}\n{ff 00 00 01}Nintendo WFC{ff 00 00 00}!{02 04 00 25 22}\nLet's do this!\nNever mind.",
-   "et": ""
+   "et": "{07 22 00}Jaatav!{01 00 00 14 00}\nSelleks, et sulle saaks\nväljastada{ff 00 00 02} sõbrakoodi{ff 00 00 00},\n{07 00 00}alustan ma nüüd{01 00 00 05 00}\n{ff 00 00 01}Nintendo WFC{ff 00 00 00} ühendust!{02 04 00 25 22}\nTeeme ära!\nPole vaja."
   },
   {
    "id": 37,
    "en": "{07 00 00}{ff 00 00 01}I am now connecting you to\nNintendo WFC... Please wait\njust a moment.{01 10 00 14}",
-   "et": ""
+   "et": "{07 00 00}{ff 00 00 01}Ühendan sind nüüd\nNintendo WFC-ga... Oota\nüks hetk.{01 10 00 14}"
   },
   {
    "id": 38,
    "en": "{07 22 00}Everything is in order,\n{04 00 00}!{01 00 00 0a 00} Your {ff 00 00 02}friend\ncode {ff 00 00 00}is...\n{ff 00 00 02}{04 14 00}-{04 17 00}-{04 18 00}{ff 00 00 00}!",
-   "et": ""
+   "et": "{07 22 00}Kõik on korras,\n{04 00 00}!{01 00 00 0a 00} Sinu {ff 00 00 02}sõbrakood\n{ff 00 00 00}on...\n{ff 00 00 02}{04 14 00}-{04 17 00}-{04 18 00}{ff 00 00 00}!"
   },
   {
    "id": 39,
    "en": "{07 00 00}When playing with a friend\nfor the first time using\n{ff 00 00 01}Nintendo WFC{ff 00 00 00},\nyou'll need a {ff 00 00 02}friend code\n{ff 00 00 00}to distinguish you,\n{04 00 00}.\nJust register each other's\n{ff 00 00 02}friend codes {ff 00 00 00}to your{ff 00 00 02} friend\nrosters{ff 00 00 00}.\nThen, you will be able to\nplay with that friend,{01 00 00 05 00}\neven when you're far apart!\nSo, {01 00 00 05 00}{04 00 00}, in order\nto issue a{ff 00 00 02} friend code {ff 00 00 00}to\nyou,\n{07 23 00}you will need to connect\nto {ff 00 00 01}Nintendo WFC {ff 00 00 00}once{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.",
-   "et": ""
+   "et": "{07 00 00}Kui mängid sõbraga\nesimest korda\n{ff 00 00 01}Nintendo WFC{ff 00 00 00} kaudu,\nläheb sul vaja {ff 00 00 02}sõbrakoodi\n{ff 00 00 00}, mis sind eristab,\n{04 00 00}.\nRegistreerige teineteise\n{ff 00 00 02}koodid {ff 00 00 00}oma{ff 00 00 02} sõbra-\nnimekirja{ff 00 00 00}.\nSiis saad selle sõbraga\nmängida,{01 00 00 05 00} isegi\nkui olete kaugel!\nNii et, {01 00 00 05 00}{04 00 00}, selleks\net anda sulle{ff 00 00 02} sõbrakood{ff 00 00 00},\n\n{07 23 00}pead sa korra ühenduma\n{ff 00 00 01}Nintendo WFC-ga{ff 00 00 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}."
   },
   {
    "id": 40,
    "en": ".{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}So,{01 00 00 05 00} would you like a\n{ff 00 00 02}friend code{ff 00 00 00}?{02 05 00 24 27 01}\nYes!\nTell me again.\nNo thanks.",
-   "et": ""
+   "et": ".{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}Nii,{01 00 00 05 00} kas sooviksid\n{ff 00 00 02}sõbrakoodi{ff 00 00 00}?{02 05 00 24 27 01}\nJah!\nRäägi uuesti.\nEi, aitäh."
   },
   {
    "id": 41,
    "en": "{07 00 00}A{ff 00 00 02} friend code{ff 00 00 00} identifies\nwho you are, {04 00 00},\n\nwhen you are playing with\na distant friend via\n{ff 00 00 01}Nintendo WFC{ff 00 00 00}.\nBy the way, {04 00 00},\nyour{ff 00 00 02} friend code{ff 00 00 00} is\n{ff 00 00 02}{04 14 00}-{04 17 00}-{04 18 00}{ff 00 00 00}!\nShare it with your friends\nand have them add you to\ntheir {ff 00 00 02}friend rosters{ff 00 00 00}!\nAnd don't forget to ask\nyour friends for their\n{ff 00 00 02}friend codes{01 00 00 05 00}{ff 00 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.\nThat way,{01 00 00 05 00} you can register\nthem to your {ff 00 00 02}friend\nroster{ff 00 00 00}.\nThen, {01 00 00 05 00}you'll be able to\nvisit those friends via\n{ff 00 00 01}Nintendo WFC{ff 00 00 00}. {01 00 00 0a 00}Hoo-rah!",
-   "et": ""
+   "et": "{07 00 00}{ff 00 00 02}Sõbrakood{ff 00 00 00} näitab,\nkes sa oled, {04 00 00},\n\nkui mängid kauge\nsõbraga\n{ff 00 00 01}Nintendo WFC{ff 00 00 00} kaudu.\nMuide, {04 00 00},\nsinu{ff 00 00 02} sõbrakood{ff 00 00 00} on\n{ff 00 00 02}{04 14 00}-{04 17 00}-{04 18 00}{ff 00 00 00}!\nJaga seda sõpradega ja\nlase neil sind lisada\noma {ff 00 00 02}sõbranimekirja{ff 00 00 00}!\nJa ära unusta küsida\noma sõpradelt nende\n{ff 00 00 02}sõbrakoode{01 00 00 05 00}{ff 00 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.\nNii{01 00 00 05 00} saad sa nemad\nregistreerida oma {ff 00 00 02}sõbra-\nnimekirja{ff 00 00 00}.\nSiis {01 00 00 05 00}saad sa neid sõpru\nkülastada\n{ff 00 00 01}Nintendo WFC{ff 00 00 00} kaudu. {01 00 00 0a 00}Just nii!"
   },
   {
    "id": 42,
    "en": "{07 00 00}My sincerest apologies,{01 00 00 05 00}\n{04 00 00}!\n\nFor some reason, {01 00 00 05 00} I don't\nseem to be able to connect\nto {ff 00 00 01}Nintendo WFC{ff 00 00 00} right now.",
-   "et": ""
+   "et": "{07 00 00}Mu siiraim vabandus,{01 00 00 05 00}\n{04 00 00}!\n\nMingil põhjusel {01 00 00 05 00} ei näi\nma praegu suutvat ühenduda\n{ff 00 00 01}Nintendo WFC-ga{ff 00 00 00}."
   },
   {
    "id": 44,
    "en": "{07 25 00}Would you like to save and \nend your game?\n\nThat way, you can go\nchange your {ff 00 00 01}Nintendo WFC\nConfiguration{ff 00 00 00}?{02 00 00 66 22}\nChange it!\nNo thanks.",
-   "et": ""
+   "et": "{07 25 00}Kas soovid salvestada ja \nmängu lõpetada?\n\nSiis saad muuta oma\n{ff 00 00 01}Nintendo WFC\nseadistust{ff 00 00 00}?{02 00 00 66 22}\nMuuda seda!\nEi, aitäh."
   },
   {
    "id": 45,
    "en": "{07 00 00}Saving complete!{01 00 00 0a 00} {07 22 00}Please\nchange your {ff 00 00 01}Nintendo WFC\nConfiguration{ff 00 00 00}.{01 10 00 28}",
-   "et": ""
+   "et": "{07 00 00}Salvestamine tehtud!{01 00 00 0a 00} {07 22 00}Palun\nmuuda oma {ff 00 00 01}Nintendo WFC\nseadistust{ff 00 00 00}.{01 10 00 28}"
   },
   {
    "id": 47,
    "en": "{07 00 00}.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}Oh!{01 00 00 14 00} It appears that you\ncannot use your {ff 00 00 02}friend\ncode{ff 00 00 00}!\nWould you like to be issued\na new {ff 00 00 02}friend code{ff 00 00 00}?{02 05 00 24 27 01}\nGimme one!\nWhat's that?\nI'll pass.",
-   "et": ""
+   "et": "{07 00 00}.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}Oh!{01 00 00 14 00} Näib, et sa\nei saa oma {ff 00 00 02}sõbrakoodi\n{ff 00 00 00}kasutada!\nKas soovid, et sulle\nväljastataks uus {ff 00 00 02}sõbrakood{ff 00 00 00}?{02 05 00 24 27 01}\nAnna mulle!\nMis see on?\nJätan vahele."
   },
   {
    "id": 56,
    "en": "{07 00 00}Very well, then,{01 00 00 05 00} I will close\nthe gate at once!\n\n{07 22 00}If you need anything at all,\ndon't hesitate to\ncall on me!",
-   "et": ""
+   "et": "{07 00 00}Väga hästi,{01 00 00 05 00} sulgen\nvärava otsekohe!\n\n{07 22 00}Kui sul on midagi vaja,\nära kõhkle minu\npoole pöördumast!"
   },
   {
    "id": 57,
    "en": "{07 22 00}Please let me know if\nthere is anything else I\ncan do for you!",
-   "et": ""
+   "et": "{07 22 00}Anna mulle teada, kui\nsaan veel midagi\nsinu heaks teha!"
   },
   {
    "id": 58,
    "en": "{07 25 00}Would you like to close\nthe gate and halt the\n{ff 00 00 01}Nintendo WFC {ff 00 00 00}session?{02 04 00 38 39}\nYup!\nNot yet!",
-   "et": ""
+   "et": "{07 25 00}Kas soovid sulgeda\nvärava ja peatada\n{ff 00 00 01}Nintendo WFC {ff 00 00 00}seansi?{02 04 00 38 39}\nJaa!\nVeel mitte!"
   },
   {
    "id": 61,
    "en": "{07 00 00}By choosing {ff 00 00 01}DS to DS{ff 00 00 00}, you\ncan have a friend visit\nwho is close by.\nTo host a friend who is far\naway, {01 00 00 05 00}choose {ff 00 00 01}Nintendo WFC{ff 00 00 00}.{01 00 00 14 00}\n{07 25 00}Which would you prefer?{02 05 00 15 41 22}\nDS to DS.\nNintendo WFC.\nForget it...",
-   "et": ""
+   "et": "{07 00 00}Valides {ff 00 00 01}DS-ilt DS-ile{ff 00 00 00}, saad\nvõõrustada lähedal\nolevat sõpra.\nKauge sõbra võõrustamiseks\nvali {01 00 00 05 00}{ff 00 00 01}Nintendo WFC{ff 00 00 00}.{01 00 00 14 00}\n{07 25 00}Kumba sa eelistad?{02 05 00 15 41 22}\nDS-ilt DS-ile.\nNintendo WFC.\nUnusta ära..."
   },
   {
    "id": 62,
    "en": "{07 00 00}{ff 00 00 01}Connecting to Nintendo\nWFC... Please wait a moment.{01 10 00 14}",
-   "et": ""
+   "et": "{07 00 00}{ff 00 00 01}Ühendun Nintendo\nWFC-ga... Palun oota hetk.{01 10 00 14}"
   },
   {
    "id": 65,
    "en": "{07 00 00}Well then,{01 00 00 05 00} so that you can\nhost a visitor from far \naway, \nI shall begin {ff 00 00 01}Nintendo WFC\n{ff 00 00 00}procedures! {01 00 00 0a 00}Hoo-rah!{02 04 00 3e 22}\nOK!\nNever mind.",
-   "et": ""
+   "et": "{07 00 00}Noh,{01 00 00 05 00} selleks et sa saaksid\nvõõrustada kaugelt \ntulevat külalist, \nalustan ma {ff 00 00 01}Nintendo WFC\n{ff 00 00 00}toiminguid! {01 00 00 0a 00}Just nii!{02 04 00 3e 22}\nOlgu!\nPole vaja."
   },
   {
    "id": 69,
    "en": "{07 22 00}{04 00 00}!{01 00 00 0f 00}\nYou cannot leave this town\nat this time!\nI apologize, but it's simply\nunavoidable right now!",
-   "et": ""
+   "et": "{07 22 00}{04 00 00}!{01 00 00 0f 00}\nSa ei saa praegu\nsellest linnast lahkuda!\nVabandan, aga see on\npraegu paratamatu!"
   },
   {
    "id": 70,
    "en": "{07 22 00}Understood! {01 00 00 14 00}I shall open\nthe gate! {01 00 00 0f 00}Hoo-rah!{01 10 00 28}",
-   "et": ""
+   "et": "{07 22 00}Selge! {01 00 00 14 00}Avan\nvärava! {01 00 00 0f 00}Just nii!{01 10 00 28}"
   },
   {
    "id": 71,
    "en": "{07 24 00}No, no, {01 00 00 05 00}{04 00 00}!\nI apologize for the\noutburst, but I must insist!\n{07 00 00}While there is a visitor in\nyour town,{01 00 00 05 00} it is against\nregulations to leave!",
-   "et": ""
+   "et": "{07 24 00}Ei, ei, {01 00 00 05 00}{04 00 00}!\nVabandan puhangu pärast,\naga pean nõudma!\n{07 00 00}Kuni sinu linnas on\nkülaline,{01 00 00 05 00} on lahkumine\nreeglite vastane!"
   },
   {
    "id": 72,
    "en": "{07 00 00}You wish to go somewhere?{01 01 00}\nI will need you to fill out\nsome forms first...",
-   "et": ""
+   "et": "{07 00 00}Sa soovid kuhugi minna?{01 01 00}\nPean paluma sul kõigepealt\nmõned vormid täita..."
   },
   {
    "id": 73,
    "en": "{07 00 00}Are you ready to go home?{01 01 00}\nI have to ask you to fill\nout a few things first...",
-   "et": ""
+   "et": "{07 00 00}Kas oled valmis koju?{01 01 00}\nPean paluma sul kõigepealt\nmõned asjad täita..."
   },
   {
    "id": 80,
    "en": "{07 24 00}Pardon me, {01 00 00 05 00}{04 00 00}!\n\n\n{07 00 00}I'm afraid you cannot go\nanywhere{01 00 00 05 00} when you have a\nguest! {01 00 00 05 00}No.{01 00 00 05 00} Impossible!",
-   "et": ""
+   "et": "{07 24 00}Vabanda, {01 00 00 05 00}{04 00 00}!\n\n\n{07 00 00}Kardan, et sa ei saa\nkuhugi minna,{01 00 00 05 00} kui sul on\nkülaline! {01 00 00 05 00}Ei.{01 00 00 05 00} Võimatu!"
   },
   {
    "id": 81,
    "en": "{07 00 00}You would rather venture\nout{01 00 00 05 00}{07 25 00} than invite a guest?{02 04 00 00 01}\nI wanna go out!\nThen again...",
-   "et": ""
+   "et": "{07 00 00}Sa läheksid pigem ise\nvälja{01 00 00 05 00}{07 25 00} kui kutsuksid külla?{02 04 00 00 01}\nTahan välja!\nTeisest küljest..."
   },
   {
    "id": 82,
    "en": "{07 00 00}Choose{ff 00 00 01} DS to DS {ff 00 00 00}to visit a\nfriend who is close by.\n\nOr choose {ff 00 00 01}Nintendo WFC{ff 00 00 00} to\nvisit a far-away friend!\n\n{07 25 00}Which do you prefer?{02 05 00 14 7f 22}\nDS to DS.\nNintendo WFC.\nForget it...",
-   "et": ""
+   "et": "{07 00 00}Vali{ff 00 00 01} DS-ilt DS-ile{ff 00 00 00}, et\nkülastada lähedast sõpra.\n\nVõi vali {ff 00 00 01}Nintendo WFC{ff 00 00 00}, et\nkülastada kauget sõpra!\n\n{07 25 00}Kumba sa eelistad?{02 05 00 14 7f 22}\nDS-ilt DS-ile.\nNintendo WFC.\nUnusta ära..."
   },
   {
    "id": 84,
    "en": "{ff 00 00 01}{07 00 00}I will now search for a\ntown with an open gate...{01 00 00 05 00}\nPlease wait for a moment...{01 10 00 14}",
-   "et": ""
+   "et": "{ff 00 00 01}{07 00 00}Otsin nüüd linna,\nmille värav on avatud...{01 00 00 05 00}\nPalun oota hetk...{01 10 00 14}"
   },
   {
    "id": 85,
    "en": "{07 00 00}Might I suggest you consider\nthese towns?",
-   "et": ""
+   "et": "{07 00 00}Kas tohin soovitada sulle\nneid linnu?"
   },
   {
    "id": 86,
    "en": "{07 00 00}Currently,{01 00 00 05 00} I'm afraid there\nare no towns to which you\ncan venture!\nUnless the gate to another\ntown is open,{01 00 00 05 00} you cannot\ngo out.{02 04 00 54 22}\nTry again!\nForget it.",
-   "et": ""
+   "et": "{07 00 00}Praegu{01 00 00 05 00} pole kahjuks\nühtki linna, kuhu sa\nsaaksid minna!\nKui teise linna värav\npole avatud,{01 00 00 05 00} ei saa\nsa välja minna.{02 04 00 54 22}\nProovi uuesti!\nUnusta ära."
   },
   {
    "id": 87,
    "en": "{ff 00 00 08}{07 00 00}{0b 03 00}{04 12 00}{ff 00 00 00}, the home of\n{ff 00 00 05}{04 13 00}{ff 00 00 00}, is open for\nyou to visit. Hoo-rah!{02 05 00 59 55 58}\nI wanna go there!\nFind another town.\nThen again...",
-   "et": ""
+   "et": "{ff 00 00 08}{07 00 00}{0b 03 00}{04 12 00}{ff 00 00 00}, kodulinn, kus\nelab {ff 00 00 05}{04 13 00}{ff 00 00 00}, on sulle\nkülastamiseks avatud!{02 05 00 59 55 58}\nTahan sinna minna!\nOtsi teine linn.\nTeisest küljest..."
   },
   {
    "id": 88,
    "en": "{07 00 00}So, you don't want to go\nanywhere at all?\n\nWell, please do let us know\nif we can be of any further\nassistance.",
-   "et": ""
+   "et": "{07 00 00}Nii et sa ei taha\nüldse kuhugi minna?\n\nNoh, anna palun teada,\nkui saame sind veel\nkuidagi aidata."
   },
   {
    "id": 89,
    "en": "{07 00 00}I will take care of that,\nof course.{01 00 00 05 00} It will take just\na moment!{01 10 00 28}",
-   "et": ""
+   "et": "{07 00 00}Ma hoolitsen selle eest,\nmuidugi.{01 00 00 05 00} See võtab vaid\nhetke!{01 10 00 28}"
   },
   {
    "id": 91,
    "en": "{07 00 00}{ff 00 00 01}Connecting to Nintendo\nWFC... Please wait a moment.{01 10 00 14}",
-   "et": ""
+   "et": "{07 00 00}{ff 00 00 01}Ühendun Nintendo\nWFC-ga... Palun oota hetk.{01 10 00 14}"
   },
   {
    "id": 93,
    "en": "{07 00 00}Where would you like to go?",
-   "et": ""
+   "et": "{07 00 00}Kuhu sa sooviksid minna?"
   },
   {
    "id": 97,
    "en": "{07 00 00}Oh?{01 00 00 14 00} I see you want to quit.",
-   "et": ""
+   "et": "{07 00 00}Oh?{01 00 00 14 00} Tahad siis lõpetada."
   },
   {
    "id": 98,
    "en": "{07 00 00}A few formalities...{01 00 00 05 00}\nIt'll only take a second!{01 10 00 28}",
-   "et": ""
+   "et": "{07 00 00}Mõned formaalsused...{01 00 00 05 00}\nSee võtab vaid sekundi!{01 10 00 28}"
   },
   {
    "id": 99,
    "en": "{07 00 00}My most earnest apologies,{01 00 00 05 00}\n{04 00 00}!\n\nIt seems that the town you\nwish to visit isn't ready\nto welcome you!{02 04 00 00 01}\nTry again.\nNever mind.",
-   "et": ""
+   "et": "{07 00 00}Mu siiraim vabandus,{01 00 00 05 00}\n{04 00 00}!\n\nNäib, et linn, mida sa\nsoovid külastada, pole\nvalmis sind vastu võtma!{02 04 00 00 01}\nProovi uuesti.\nPole vaja."
   },
   {
    "id": 101,
    "en": "{07 00 00}My sincerest apologies,{01 00 00 05 00}\n{04 00 00}!\n\nFor some reason I cannot\nunderstand,{01 00 00 05 00} you can't visit\nthat town!{02 04 00 00 01}\nTry again!\nMaybe later.",
-   "et": ""
+   "et": "{07 00 00}Mu siiraim vabandus,{01 00 00 05 00}\n{04 00 00}!\n\nMingil arusaamatul\npõhjusel{01 00 00 05 00} ei saa sa seda\nlinna külastada!{02 04 00 00 01}\nProovi uuesti!\nEhk hiljem."
   },
   {
    "id": 102,
    "en": "{07 00 00}{ff 00 00 01}Saving... Please sit\nstill and do not turn the\npower off!{01 10 00 14}",
-   "et": ""
+   "et": "{07 00 00}{ff 00 00 01}Salvestan... Palun istu\nrahulikult ja ära lülita\ntoidet välja!{01 10 00 14}"
   },
   {
    "id": 103,
    "en": "{07 00 00}{0b 03 00}{ff 00 00 05}{04 10 00}{ff 00 00 00} has come to\nplay! Hoo-rah!{01 10 00 32}",
-   "et": ""
+   "et": "{07 00 00}{0b 03 00}{ff 00 00 05}{04 10 00}{ff 00 00 00} tuli\nmängima! Just nii!{01 10 00 32}"
   },
   {
    "id": 104,
    "en": "{07 22 00}Well, then,{01 00 00 05 00} I hope you\nhave a smashing time!{01 10 00 1e}",
-   "et": ""
+   "et": "{07 22 00}Noh siis,{01 00 00 05 00} loodan, et sul\non vapustavalt tore aeg!{01 10 00 1e}"
   },
   {
    "id": 105,
    "en": "{ff 00 00 01}Registering... Sit tight and\ndon't turn the power off!{01 10 00 14}",
-   "et": ""
+   "et": "{ff 00 00 01}Registreerin... Istu paigal\nja ära lülita toidet välja!{01 10 00 14}"
   },
   {
    "id": 106,
    "en": "{07 22 00}I shall make necessary \npreparations right away!{01 10 00 28}\n\n{07 00 00}{ff 00 00 01}Registering now.{01 00 00 05 00} Please wait\na moment and do not turn\nthe power off.{01 10 00 14}",
-   "et": ""
+   "et": "{07 22 00}Teen vajalikud \nettevalmistused kohe!{01 10 00 28}\n\n{07 00 00}{ff 00 00 01}Registreerin nüüd.{01 00 00 05 00} Oota\nhetk ja ära lülita\ntoidet välja.{01 10 00 14}"
   },
   {
    "id": 107,
    "en": "{07 04 00}{01 00 00 0a 00}{0b 03 00}{04 00 00},{01 00 00 14 00} {07 00 00}someone\nalready has their gate\nopen.\n{07 0b 00}Would you still like to \nopen your gate?{02 00 00 6c 6d}\nOpen the gate!\nI'm going out.",
-   "et": ""
+   "et": "{07 04 00}{01 00 00 0a 00}{0b 03 00}{04 00 00},{01 00 00 14 00} {07 00 00}kellelgi\non värav juba\nlahti.\n{07 0b 00}Kas soovid ikkagi oma \nvärava avada?{02 00 00 6c 6d}\nAva värav!\nLähen välja."
   },
   {
    "id": 108,
    "en": "{07 22 00}Understood!{01 00 00 14 00}\nI shall now{01 00 00 05 00} open the gate!{01 10 00 28}",
-   "et": ""
+   "et": "{07 22 00}Selge!{01 00 00 14 00}\nAvan nüüd{01 00 00 05 00} värava!{01 10 00 28}"
   },
   {
    "id": 109,
    "en": "{07 22 00}I understand!\n\n\n{07 00 00}By the way,{01 00 00 05 00} the town\nyou can visit is right\nthis way.",
-   "et": ""
+   "et": "{07 22 00}Selge!\n\n\n{07 00 00}Muide,{01 00 00 05 00} linn, mida\nsa külastada saad, on\nsiinsamas."
   },
   {
    "id": 111,
    "en": "{07 24 00}What's this?{01 00 00 14 00} I see that{01 00 00 05 00} {07 00 00}you\ndo not have anyone on your\n{ff 00 00 02}friend roster{ff 00 00 00} yet!\nYou need to register some\nfriends before you can\nutilize {ff 00 00 01}Nintendo WFC{ff 00 00 00}.\nWe can't have you wandering\naround strange towns.\nIt just isn't safe.\nTo view your {ff 00 00 02}friend roster{ff 00 00 00},\npress the{ff 00 00 01} X Button{ff 00 00 00} and\nthen {ff 00 00 01}tap {ff 00 00 00}the heart icon.\nPlease come back after\nyou've registered friends\nto your {ff 00 00 02}friend roster{ff 00 00 00}.",
-   "et": ""
+   "et": "{07 24 00}Mis see on?{01 00 00 14 00} Näen, et{01 00 00 05 00} {07 00 00}sul\npole veel kedagi oma\n{ff 00 00 02}sõbranimekirjas{ff 00 00 00}!\nPead registreerima mõned\nsõbrad, enne kui saad\nkasutada {ff 00 00 01}Nintendo WFC-d{ff 00 00 00}.\nMe ei saa lubada sul\nvõõrastes linnades hulkuda.\nSee lihtsalt pole turvaline.\n{ff 00 00 02}Sõbranimekirja{ff 00 00 00} vaatamiseks\nvajuta{ff 00 00 01} X-nuppu{ff 00 00 00} ja\nsiis {ff 00 00 01}koputa {ff 00 00 00}südameikooni.\nPalun tule tagasi, kui oled\nsõbrad registreerinud\noma {ff 00 00 02}sõbranimekirja{ff 00 00 00}."
   },
   {
    "id": 112,
    "en": "{07 24 00}Aha!{01 00 00 14 00} I see that{01 00 00 05 00} {07 00 00}you\ndo not have anyone on your\n{ff 00 00 02}friend roster{ff 00 00 00} yet!\nYou need to register some\nfriends before you can\nutilize {ff 00 00 01}Nintendo WFC{ff 00 00 00}.\nYou see, I simply won't\nallow riffraff to run amok\nin this fine town!\nTo view your {ff 00 00 02}friend roster{ff 00 00 00},\npress the {ff 00 00 01}X Button{ff 00 00 00} and\nthen {ff 00 00 01}tap {ff 00 00 00}the heart icon.\nPlease come back after\nyou've added some friends\nto your {ff 00 00 02}friend roster{ff 00 00 00}.",
-   "et": ""
+   "et": "{07 24 00}Ahaa!{01 00 00 14 00} Näen, et{01 00 00 05 00} {07 00 00}sul\npole veel kedagi oma\n{ff 00 00 02}sõbranimekirjas{ff 00 00 00}!\nPead registreerima mõned\nsõbrad, enne kui saad\nkasutada {ff 00 00 01}Nintendo WFC-d{ff 00 00 00}.\nNäed sa, ma lihtsalt ei\nluba igasugusel rahval\nsiin kenas linnas möllata!\n{ff 00 00 02}Sõbranimekirja{ff 00 00 00} vaatamiseks\nvajuta {ff 00 00 01}X-nuppu{ff 00 00 00} ja\nsiis {ff 00 00 01}koputa {ff 00 00 00}südameikooni.\nPalun tule tagasi, kui oled\nlisanud mõned sõbrad\noma {ff 00 00 02}sõbranimekirja{ff 00 00 00}."
   },
   {
    "id": 113,
    "en": "{07 00 00}{ff 00 00 01}Nintendo WFC {ff 00 00 00}treats your\n{ff 00 00 01}Game Card{ff 00 00 00} and {ff 00 00 01}Nintendo DS\n{ff 00 00 00}as a set.\n{07 25 00}Can I connect to {ff 00 00 01}Nintendo{ff 00 00 00}\n{ff 00 00 01}WFC{ff 00 00 00} using the {ff 00 00 01}Nintendo DS\n{ff 00 00 00}you're playing with?{02 04 00 00 22}\nGo for it!\nNever mind.",
-   "et": ""
+   "et": "{07 00 00}{ff 00 00 01}Nintendo WFC {ff 00 00 00}käsitleb sinu\n{ff 00 00 01}mängukaarti{ff 00 00 00} ja {ff 00 00 01}DS-i\n{ff 00 00 00}ühe komplektina.\n{07 25 00}Kas võin ühenduda {ff 00 00 01}Nintendo{ff 00 00 00}\n{ff 00 00 01}WFC-ga{ff 00 00 00}, kasutades {ff 00 00 01}DS-i\n{ff 00 00 00}, millega sa mängid?{02 04 00 00 22}\nLase käia!\nPole vaja."
   },
   {
    "id": 114,
    "en": "{07 23 00}The {ff 00 00 01}Nintendo WFC\nConfiguration{ff 00 00 02} {ff 00 00 00}on the\n{ff 00 00 01}Nintendo DS {ff 00 00 00}and {ff 00 00 01}Game Card\n{ff 00 00 00}don't match. I'm afraid I\ncan't allow you to connect\nto {ff 00 00 01}Nintendo WFC{ff 00 00 00}!",
-   "et": ""
+   "et": "{07 23 00}{ff 00 00 01}Nintendo WFC\nseadistus{ff 00 00 02} {ff 00 00 00}sinu\n{ff 00 00 01}DS-il {ff 00 00 00}ja {ff 00 00 01}mängukaardil\n{ff 00 00 00}ei ühti. Kardan, et ei\nsaa lubada sul ühenduda\n{ff 00 00 01}Nintendo WFC-ga{ff 00 00 00}!"
   },
   {
    "id": 115,
    "en": "{07 00 00}Do you want to update the\n{07 25 00}{ff 00 00 02}Nintendo Wi-Fi Connection\nID {ff 00 00 00}on this {ff 00 00 01}Game Card{ff 00 00 00}?\n{07 00 00}If you do update it, you\nwon't be able to use the\nsame{ff 00 00 01} Nintendo WFC {ff 00 00 00}data.\nYou can still use your\n{ff 00 00 02}friend roster{ff 00 00 00}, but to use\n{ff 00 00 01}Nintendo WFC{ff 00 00 00},\nyour friends{07 23 00} need to\nre-register you on their\n{ff 00 00 02}friend rosters{ff 00 00 00}.{02 04 00 74 22}\nI understand.\nNever mind.",
-   "et": ""
+   "et": "{07 00 00}Kas soovid uuendada\n{07 25 00}{ff 00 00 02}Nintendo Wi-Fi ühenduse\nID-d {ff 00 00 00}sellel {ff 00 00 01}mängukaardil{ff 00 00 00}?\n{07 00 00}Kui sa seda uuendad, ei\nsaa sa kasutada samu\n{ff 00 00 01}Nintendo WFC {ff 00 00 00}andmeid.\nSa saad ikka kasutada oma\n{ff 00 00 02}sõbranimekirja{ff 00 00 00}, aga\n{ff 00 00 01}Nintendo WFC{ff 00 00 00} jaoks\npeavad su sõbrad{07 23 00} sind\nuuesti registreerima oma\n{ff 00 00 02}sõbranimekirjadesse{ff 00 00 00}.{02 04 00 74 22}\nSain aru.\nPole vaja."
   },
   {
    "id": 116,
    "en": "{07 25 00}Are you certain that you\nwant to update your user\ninformation?{02 04 00 00 22}\nSure!\nMaybe not...",
-   "et": ""
+   "et": "{07 25 00}Kas oled kindel, et\nsoovid uuendada oma\nkasutajateavet?{02 04 00 00 22}\nMuidugi!\nEhk siiski mitte..."
   },
   {
    "id": 117,
    "en": "{07 00 00}The {ff 00 00 02}Wi-Fi ID{ff 00 00 00}{01 00 00 05 00} you are using\nnow has been saved to the\n{ff 00 00 01}Game Card{ff 00 00 00}!\nFrom now on, {01 00 00 05 00}{07 22 00}please use\nthis {ff 00 00 01}Nintendo DS{ff 00 00 00} when you\nconnect to {ff 00 00 01}Nintendo WFC{ff 00 00 00}.",
-   "et": ""
+   "et": "{07 00 00}{ff 00 00 02}Wi-Fi ID{ff 00 00 00},{01 00 00 05 00} mida sa praegu\nkasutad, on salvestatud\n{ff 00 00 01}mängukaardile{ff 00 00 00}!\nNüüdsest {01 00 00 05 00}{07 22 00}kasuta palun\nseda {ff 00 00 01}Nintendo DS-i{ff 00 00 00}, kui\nühendud {ff 00 00 01}Nintendo WFC-ga{ff 00 00 00}."
   },
   {
    "id": 118,
    "en": "{07 00 00}Consequently, {01 00 00 05 00}your {ff 00 00 02}friend\ncode{ff 00 00 00} has also changed.{01 01 00}\n{07 22 00}Without further ado,\nI present you, {04 00 00},\nwith your new {ff 00 00 02}friend code{ff 00 00 00}:{01 00 00 05 00}\n{ff 00 00 02}{04 14 00}-{04 17 00}-{04 18 00}{ff 00 00 00}!\n{07 00 00}In order to visit distant \nfriends, and have them\nvisit you,\n{07 00 00}you'll have to ask them to{01 00 00 05 00}\nadd your {ff 00 00 02}friend code{ff 00 00 00} to\ntheir {ff 00 00 02}friend rosters{ff 00 00 00}!",
-   "et": ""
+   "et": "{07 00 00}Järelikult {01 00 00 05 00}muutus ka sinu\n{ff 00 00 02}sõbrakood{ff 00 00 00}.{01 01 00}\n{07 22 00}Ilma pikema jututa\nesitan sulle, {04 00 00},\nsinu uue {ff 00 00 02}sõbrakoodi{ff 00 00 00}:{01 00 00 05 00}\n{ff 00 00 02}{04 14 00}-{04 17 00}-{04 18 00}{ff 00 00 00}!\n{07 00 00}Et külastada kaugeid\nsõpru ja lasta neil sind\nkülastada,\n{07 00 00}pead sa paluma neil{01 00 00 05 00}\nlisada sinu {ff 00 00 02}sõbrakood{ff 00 00 00} oma\n{ff 00 00 02}sõbranimekirja{ff 00 00 00}!"
   },
   {
    "id": 119,
    "en": "{07 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}I'm terribly sorry,{01 00 00 05 00}\n{04 00 00}!\n\nI wasn't able to find\nanother town with its gate\nopen.\nYou can't venture out\nwithout a town to travel\nto!",
-   "et": ""
+   "et": "{07 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}Mul on kohutavalt kahju,{01 00 00 05 00}\n{04 00 00}!\n\nMa ei suutnud leida\nteist linna, mille värav\noleks avatud.\nSa ei saa välja minna,\nkui pole linna, kuhu\nsõita!"
   },
   {
    "id": 120,
    "en": "{07 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}I'm terribly sorry,{01 00 00 05 00}\n{04 00 00}!\n\nThe town you tried to visit{01 00 00 05 00}\ndid not have its gate\nopen!\nUnless the gate to that \ntown is open,{01 00 00 05 00} you cannot\nvisit it!",
-   "et": ""
+   "et": "{07 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}Mul on kohutavalt kahju,{01 00 00 05 00}\n{04 00 00}!\n\nLinnal, mida sa üritasid{01 00 00 05 00}\nkülastada, polnud väravat\nlahti!\nKui selle linna värav\npole avatud,{01 00 00 05 00} ei saa sa\nseda külastada!"
   },
   {
    "id": 121,
    "en": "{07 00 00}Oh, {01 00 00 0a 00}{04 00 00}!{01 01 00}\nThat town already has\nthree visitors.\nI'm sorry to say I can't\nlet you venture to such\na crowded town.",
-   "et": ""
+   "et": "{07 00 00}Oh, {01 00 00 0a 00}{04 00 00}!{01 01 00}\nSeal linnas on juba\nkolm külalist.\nMul on kahju öelda, et ei\nsaa lasta sind nii\nrahvarohkesse linna."
   },
   {
    "id": 122,
    "en": "{07 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}I'm terribly sorry, {01 00 00 05 00}\n{04 00 00}!\n\nFor some unfathomable\nreason, you can't visit that\ntown right now.",
-   "et": ""
+   "et": "{07 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}Mul on kohutavalt kahju, {01 00 00 05 00}\n{04 00 00}!\n\nMingil arusaamatul\npõhjusel ei saa sa seda\nlinna praegu külastada."
   },
   {
    "id": 123,
    "en": "{07 00 00}{0b 03 00}{ff 00 00 05}{04 10 00} {ff 00 00 00}is going home!{01 10 00 28}",
-   "et": ""
+   "et": "{07 00 00}{0b 03 00}{ff 00 00 05}{04 10 00} {ff 00 00 00}läheb koju!{01 10 00 28}"
   },
   {
    "id": 125,
    "en": "{07 00 00}For some reason, you\ncannot go out right now.\n\nIt seems that someone else\nis trying to enter the\ntown at the same time.\nPlease wait a moment\nbefore trying to visit that\ntown again.{02 04 00 00 01}\nTry again.\nQuit.",
-   "et": ""
+   "et": "{07 00 00}Mingil põhjusel ei saa\nsa praegu välja minna.\n\nNäib, et keegi teine\nüritab samal ajal linna\nsiseneda.\nPalun oota hetk, enne kui\nüritad seda linna uuesti\nkülastada.{02 04 00 00 01}\nProovi uuesti.\nLõpeta."
   },
   {
    "id": 126,
    "en": "{ff 00 00 01}{07 00 00}For some curious reason,\nyou cannot go out now.\n                 <{04 15 00}{04 16 00}>\n{ff 00 00 00}If you try several times\nand still can't do it, try\nconsulting your manual.{02 04 00 00 01}\nTry again!\nNever mind.",
-   "et": ""
+   "et": "{ff 00 00 01}{07 00 00}Mingil veidral põhjusel\nei saa sa nüüd välja minna.\n                 <{04 15 00}{04 16 00}>\n{ff 00 00 00}Kui proovid mitu korda\nja ikka ei õnnestu, vaata\noma kasutusjuhendit.{02 04 00 00 01}\nProovi uuesti!\nPole vaja."
   },
   {
    "id": 127,
    "en": "{07 00 00}Before you can travel,\nI will need to begin\n{ff 00 00 01}Nintendo WFC {ff 00 00 00}procedures!{02 04 00 5b 22}\nOK!\nNo, no, no!",
-   "et": ""
+   "et": "{07 00 00}Enne kui saad reisida,\npean alustama\n{ff 00 00 01}Nintendo WFC {ff 00 00 00}toiminguid!{02 04 00 5b 22}\nOlgu!\nEi, ei, ei!"
   },
   {
    "id": 128,
    "en": "{07 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}I'm terribly sorry, {01 00 00 05 00}\n{04 00 00}!\n\nYou can't enter because \nthere seems to be a\nconversation in progress.{02 04 00 00 01}\nTry again.\nI'll try later.",
-   "et": ""
+   "et": "{07 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}Mul on kohutavalt kahju, {01 00 00 05 00}\n{04 00 00}!\n\nSa ei saa siseneda, sest \nnäib, et käimas on\nmingi vestlus.{02 04 00 00 01}\nProovi uuesti.\nProovin hiljem."
   },
   {
    "id": 130,
    "en": "{07 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}I'm terribly sorry, {01 00 00 05 00}\n{04 00 00}!\n\nFor some unfathomable\nreason, you can't visit that\ntown right now.{02 04 00 00 01}\nTry again!\nMaybe later.",
-   "et": ""
+   "et": "{07 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}Mul on kohutavalt kahju, {01 00 00 05 00}\n{04 00 00}!\n\nMingil arusaamatul\npõhjusel ei saa sa seda\nlinna praegu külastada.{02 04 00 00 01}\nProovi uuesti!\nEhk hiljem."
   },
   {
    "id": 131,
    "en": "{07 00 00}{ff 00 00 01}The server is experiencing\nheavy traffic, or Nintendo\nWFC service is down.\nPlease try again later.\nFor help, call\n1-800-895-1672 in the USA\nand Canada, or visit\nwww.nintendowifi.com.\n                 <{04 15 00}{04 16 00}>",
-   "et": ""
+   "et": "{07 00 00}{ff 00 00 01}Serveris on suur koormus\nvõi Nintendo WFC teenus\non maas.\nPalun proovi hiljem uuesti.\nAbi saamiseks helista\n1-800-895-1672 (USA ja\nKanada) või külasta\nwww.nintendowifi.com.\n                 <{04 15 00}{04 16 00}>"
   },
   {
    "id": 132,
    "en": "{07 00 00}{ff 00 00 01}You connected to an access\npoint but were unable to\nconnect to Nintendo WFC.\nFor help, call\n1-800-895-1672 in the USA\nand Canada.\nYou can also visit\nwww.nintendowifi.com.\n                 <{04 15 00}{04 16 00}>",
-   "et": ""
+   "et": "{07 00 00}{ff 00 00 01}Ühendusid pääsupunktiga,\naga ei saanud ühendust\nNintendo WFC-ga.\nAbi saamiseks helista\n1-800-895-1672 (USA ja\nKanada).\nVõid külastada ka\nwww.nintendowifi.com.\n                 <{04 15 00}{04 16 00}>"
   },
   {
    "id": 133,
    "en": "{07 00 00}{ff 00 00 01}This Wi-Fi ID was inactive\nfor a long time and has\nbeen erased.\nFor help, call\n1-800-895-1672 in the USA\nand Canada.\nYou can also visit\nwww.nintendowifi.com.\n                 <{04 15 00}{04 16 00}>",
-   "et": ""
+   "et": "{07 00 00}{ff 00 00 01}See Wi-Fi ID oli kaua\naega kasutamata ja on\nkustutatud.\nAbi saamiseks helista\n1-800-895-1672 (USA ja\nKanada).\nVõid külastada ka\nwww.nintendowifi.com.\n                 <{04 15 00}{04 16 00}>"
   },
   {
    "id": 134,
    "en": "{07 00 00}{ff 00 00 01}Nintendo WFC service for\nthis software has been\nhalted.\nVisit www.nintendowifi.com\nfor a list of Nintendo\nWFC-compatible software.\n                 <{04 15 00}{04 16 00}>",
-   "et": ""
+   "et": "{07 00 00}{ff 00 00 01}Nintendo WFC teenus\nsellele tarkvarale on\npeatatud.\nVaata www.nintendowifi.com,\nkust leiad Nintendo\nWFC-ga ühilduva tarkvara.\n                 <{04 15 00}{04 16 00}>"
   },
   {
    "id": 135,
    "en": "{07 00 00}{ff 00 00 01}Unable to find an access\npoint. Move the Nintendo DS\nwithin range.\nFor help, call\n1-800-895-1672 in the USA\nand Canada.\nYou can also visit\nwww.nintendowifi.com.\n                 <{04 15 00}{04 16 00}>",
-   "et": ""
+   "et": "{07 00 00}{ff 00 00 01}Pääsupunkti ei leitud.\nVii Nintendo DS\nlevialasse.\nAbi saamiseks helista\n1-800-895-1672 (USA ja\nKanada).\nVõid külastada ka\nwww.nintendowifi.com.\n                 <{04 15 00}{04 16 00}>"
   },
   {
    "id": 136,
    "en": "{07 00 00}{ff 00 00 01}No compatible access point\nin range. Please check your\nconnection settings.\nFor help, call\n1-800-895-1672 in the USA\nand Canada.\nYou can also visit\nwww.nintendowifi.com.\n                 <{04 15 00}{04 16 00}>",
-   "et": ""
+   "et": "{07 00 00}{ff 00 00 01}Levialas pole ühilduvat\npääsupunkti. Palun kontrolli\noma ühenduse seadeid.\nAbi saamiseks helista\n1-800-895-1672 (USA ja\nKanada).\nVõid külastada ka\nwww.nintendowifi.com.\n                 <{04 15 00}{04 16 00}>"
   },
   {
    "id": 137,
    "en": "{07 00 00}{ff 00 00 01}Unable to connect to the\nNintendo Wi-Fi USB\nConnector.\nConfirm connection settings\nin the Nintendo WFC setup.\n\nCall 1-800-895-1672 (USA\nand Canada) for help.\n                 <{04 15 00}{04 16 00}>",
-   "et": ""
+   "et": "{07 00 00}{ff 00 00 01}Ei saa ühendust Nintendo\nWi-Fi USB-ühendajaga.\n\nKontrolli ühenduse seadeid\nNintendo WFC seadistuses.\n\nAbi: 1-800-895-1672 (USA\nja Kanada).\n                 <{04 15 00}{04 16 00}>"
   },
   {
    "id": 138,
    "en": "{07 00 00}{ff 00 00 01}This access point is\nexperiencing a high volume\nof traffic.\nYou cannot establish\na connection at this time.\nTry again later.\n                 <{04 15 00}{04 16 00}>",
-   "et": ""
+   "et": "{07 00 00}{ff 00 00 01}Sellel pääsupunktil on\nsuur liikluskoormus.\n\nSa ei saa praegu\nühendust luua.\nProovi hiljem uuesti.\n                 <{04 15 00}{04 16 00}>"
   },
   {
    "id": 139,
    "en": "{07 00 00}{ff 00 00 01}Unable to connect to\nNintendo WFC. Please check\nyour connection settings.\nFor help, call\n1-800-895-1672 in the USA\nand Canada.\nYou can also visit\nwww.nintendowifi.com.\n                 <{04 15 00}{04 16 00}>",
-   "et": ""
+   "et": "{07 00 00}{ff 00 00 01}Ei saa ühendust Nintendo\nWFC-ga. Palun kontrolli\noma ühenduse seadeid.\nAbi saamiseks helista\n1-800-895-1672 (USA ja\nKanada).\nVõid külastada ka\nwww.nintendowifi.com.\n                 <{04 15 00}{04 16 00}>"
   }
  ]
 }

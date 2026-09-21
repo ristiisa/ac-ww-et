@@ -4,17 +4,17 @@
   {
    "id": 0,
    "en": "{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 04 00}What?{01 00 00 14 00} Don't tell me!{01 00 00 0a 00} You\nlost the present?!?\n\n{07 06 00}Tha{01 00 00 0a 00}-that's terrible!{01 00 00 0a 00} It had\nall of my personal secrets\ninside!\n{07 08 00}If anyone sees it, I'll be\ntoo embarrassed{01 00 00 0a 00} to ever\nleave the house!",
-   "et": ""
+   "et": "{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 04 00}Mis?{01 00 00 14 00} Ära ütle!{01 00 00 0a 00} Sa\nkaotasid kingituse?!?\n\n{07 06 00}Se{01 00 00 0a 00}-see on kohutav!{01 00 00 0a 00} Seal\nolid kõik mu isiklikud\nsaladused sees!\n{07 08 00}Kui keegi seda näeb, on mul\nliiga piinlik,{01 00 00 0a 00} et kodust\nüldse välja minna!"
   },
   {
    "id": 1,
    "en": "{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 14 00}{07 02 00}{01 00 00 0a 00}Excuse me?!{01 00 00 05 00} It's gone?!?{01 00 00 14 00}{01 01 00}\n{07 09 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}Oh, no problem.\n\n{07 0f 00}{01 00 00 14 00}I was never very good at\nthis whole present thing\nanyway{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{03 03 00 01}",
-   "et": ""
+   "et": "{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 14 00}{07 02 00}{01 00 00 0a 00}Palun?!{01 00 00 05 00} See on kadunud?!?{01 00 00 14 00}{01 01 00}\n{07 09 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}Oh, pole hullu.\n\n{07 0f 00}{01 00 00 14 00}Ma polnud niikuinii kunagi\nväga hea selles kogu\nkinkimise asjas{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{03 03 00 01}"
   },
   {
    "id": 2,
    "en": "{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{07 02 00}WHAT?!{01 00 00 14 00} You LOST it?!{01 00 00 0a 00}\n{0b 03 00}{04 02 00}?!?\n\n{07 06 00}This is terrible.{01 00 00 0a 00} TERRIBLE!{01 01 00}\n{07 08 00}{01 00 00 0a 00}{0b 03 00}{ff 00 00 06}{04 10 00}{ff 00 00 00}{01 00 00 0a 00} is gonna be\nsooo mad at me again!\nYou're an idiot,\n{04 1f 00}! And I don't\nusually like to call names!",
-   "et": ""
+   "et": "{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{07 02 00}MIDA?!{01 00 00 14 00} Sa KAOTASID selle?!{01 00 00 0a 00}\n{0b 03 00}{04 02 00}?!?\n\n{07 06 00}See on kohutav.{01 00 00 0a 00} KOHUTAV!{01 01 00}\n{07 08 00}{01 00 00 0a 00}{0b 03 00}{ff 00 00 06}{04 10 00}{ff 00 00 00}{01 00 00 0a 00} saab jälle\nnii vihaseks minu peale!\nSa oled idioot,\n{04 1f 00}! Ja ma ei taha\ntavaliselt sõimata!"
   }
  ]
 }

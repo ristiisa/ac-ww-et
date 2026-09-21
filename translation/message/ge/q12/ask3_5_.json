@@ -4,32 +4,32 @@
   {
    "id": 0,
    "en": "{07 07 00}Oof...{01 00 00 05 00} I thought I would get\nbetter...{01 00 00 05 00} But noooooo...{01 00 00 05 00}\nNow I feel totally worse{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.",
-   "et": ""
+   "et": "{07 07 00}Uff...{01 00 00 05 00} Ma arvasin, et saan\nparemaks...{01 00 00 05 00} Aga eiii...{01 00 00 05 00} Nüüd\non mul täiesti hullem{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}."
   },
   {
    "id": 1,
    "en": "{07 1c 00}Oooh... I feel queasy{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 01 00}\n{07 07 00}I think I'm totally gonna \nredecorate my shoes{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.",
-   "et": ""
+   "et": "{07 1c 00}Oooh... Mul on iiveldus{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 01 00}\n{07 07 00}Ma arvan, et ma kaunistan \nvarsti oma kingi ümber{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}."
   },
   {
    "id": 2,
    "en": "{07 07 00}Ooh{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}my head is pounding{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\nThis is gonna get worse\nbefore it gets better...",
-   "et": ""
+   "et": "{07 07 00}Ooh{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}mu pea taob{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\nSee läheb hullemaks,\nenne kui paremaks..."
   },
   {
    "id": 3,
    "en": "{07 14 00}Now I feel a LOT better!{01 01 00}\n{07 05 00}{01 08 00}HEY, WORLD! {01 00 00 0a 00}{0b 03 00}{ff 00 00 05}{04 0f 00}\n{ff 00 00 00}is totally,{01 00 00 05 00} like,{01 00 00 05 00} THE BEST!",
-   "et": ""
+   "et": "{07 14 00}Nüüd on PALJU parem!{01 01 00}\n{07 05 00}{01 08 00}HEI, MAAILM! {01 00 00 0a 00}{0b 03 00}{ff 00 00 05}{04 0f 00}\n{ff 00 00 00}on täiesti,{01 00 00 05 00} nagu,{01 00 00 05 00} PARIM!"
   },
   {
    "id": 4,
    "en": "{07 14 00}I think it was the {ff 00 00 07}medicine{ff 00 00 00},{01 00 00 05 00}\nbut life is GREAT right now!{01 00 00 05 00}\nMy headache is almost gone!\n{07 0a 00}Yaaaaaaaaay, {01 00 00 05 00}{ff 00 00 05}{04 0f 00}{ff 00 00 00}!{01 01 00}\nWho rocks? {01 00 00 0a 00}{0b 03 00}{ff 00 00 05}{04 0f 00}\n{ff 00 00 00}does!",
-   "et": ""
+   "et": "{07 14 00}Ma arvan, et see oli {ff 00 00 07}rohi{ff 00 00 00},{01 00 00 05 00}\naga elu on SUUREPÄRANE!{01 00 00 05 00}\nMu peavalu on peaaegu\nläinud! {07 0a 00}Jeeeee, {01 00 00 05 00}{ff 00 00 05}{04 0f 00}{ff 00 00 00}!{01 01 00}\nKes on äge? {01 00 00 0a 00}{0b 03 00}{ff 00 00 05}{04 0f 00}\n{ff 00 00 00}on!"
   },
   {
    "id": 5,
    "en": "{07 14 00}Once I took that {ff 00 00 07}medicine{ff 00 00 00},\nI felt great!{01 00 00 0a 00} It's all thanks\nto my hero!\n{07 0d 00}Yaaaay, health! {01 00 00 14 00}Yaaaaaay,\n{ff 00 00 05}{04 0f 00}{ff 00 00 00}!",
-   "et": ""
+   "et": "{07 14 00}Kui ma selle {ff 00 00 07}rohu{ff 00 00 00} ära\nvõtsin, tundsin end\nsuurepäraselt!{01 00 00 0a 00} See kõik\ntänu mu kangelasele! {07 0d 00}Jeee,\ntervis!{01 00 00 14 00} Jeeeee, {ff 00 00 05}{04 0f 00}{ff 00 00 00}!"
   }
  ]
 }

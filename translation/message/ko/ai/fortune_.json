@@ -4,17 +4,17 @@
   {
    "id": 0,
    "en": "{07 11 00}I found it, {01 00 00 05 00}{04 1f 00}!\n{01 00 00 05 00}{0b 03 00}{04 02 00}!\n\n{07 13 00}So,{01 00 00 05 00} without further ado,\nplease accept this!{01 00 00 05 00}\n{0b 03 00}{04 1a 00}!\n{07 0b 00}What?{01 00 00 0f 00} Why, you ask?{01 01 00} You\nsayin' I need a reason to\nbe nice?!",
-   "et": ""
+   "et": "{07 11 00}Ma leidsin selle, {01 00 00 05 00}{04 1f 00}!\n{01 00 00 05 00}{0b 03 00}{04 02 00}!\n\n{07 13 00}Nii et,{01 00 00 05 00} ilma pikema jututa,\nvõta palun see vastu!{01 00 00 05 00}\n{0b 03 00}{04 1a 00}!\n{07 0b 00}Mida?{01 00 00 0f 00} Miks, sa küsid?{01 01 00} Sa\nütled, et mul on vaja\npõhjust kena olla?!"
   },
   {
    "id": 1,
    "en": "{07 0b 00}What?{01 00 00 14 00} I have this feeling{01 00 00 05 00}\nthat there's something I\nwas gonna say to you{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 01 00}Hey, {01 00 00 05 00}{04 1f 00}!{01 00 00 14 00} Take this!{01 00 00 05 00}\n{0b 03 00}{04 1a 00}!{01 01 00}{07 00 00}\nYeah, {01 00 00 05 00}I think that was it.\n{07 14 00}Meh, whatever. {01 00 00 05 00}It's close\nenough, I guess,\n{01 00 00 05 00}{04 02 00}.",
-   "et": ""
+   "et": "{07 0b 00}Mida?{01 00 00 14 00} Mul on selline tunne,{01 00 00 05 00}\net ma tahtsin sulle midagi\nöelda{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 01 00}Hei, {01 00 00 05 00}{04 1f 00}!{01 00 00 14 00} Võta see!{01 00 00 05 00}\n{0b 03 00}{04 1a 00}!{01 01 00}{07 00 00}\nJah, {01 00 00 05 00}vist oligi see.\n{07 14 00}Noh, ükskõik. {01 00 00 05 00}Piisavalt\nlähedal, vist,\n{01 00 00 05 00}{04 02 00}."
   },
   {
    "id": 2,
    "en": "{07 04 00}Whoa!{01 00 00 0f 00} Impressive!{01 00 00 14 00} Nice,\n{01 00 00 05 00}{04 1f 00}!!! {0b 03 00}{01 00 00 05 00}{04 02 00}!\nI'm feeling weird right now.\n{07 0d 00}I'm so pleased with you\nright now that you could\nconvince me of anything!\n{07 13 00}Do me a favor and take my\n{0b 02 00}{04 1a 00},{01 00 00 0f 00}\nall right, {01 00 00 05 00}{04 02 00}?!",
-   "et": ""
+   "et": "{07 04 00}Ohoo!{01 00 00 0f 00} Muljetavaldav!{01 00 00 14 00} Vinge,\n{01 00 00 05 00}{04 1f 00}!!! {0b 03 00}{01 00 00 05 00}{04 02 00}!\nMa tunnen end imelikult.\n{07 0d 00}Ma olen sinuga praegu nii\nrahul, et sa võiksid mind\nmilles tahes veenda!\n{07 13 00}Tee mulle teene ja võta mu\n{0b 02 00}{04 1a 00},{01 00 00 0f 00}\neks, {01 00 00 05 00}{04 02 00}?!"
   }
  ]
 }

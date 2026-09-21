@@ -4,17 +4,17 @@
   {
    "id": 0,
    "en": "{07 00 00}I'm home! Time to kick off\nmy shoes and relax! {01 00 00 0f 00}{07 0e 00}Oh,\nwait{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} {07 00 00}{07 03 00}This isn't my house!",
-   "et": ""
+   "et": "{07 00 00}Olen kodus! Kingad jalast\nja lõõgastuma! {01 00 00 0f 00}{07 0e 00}Oh,\noota{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} {07 00 00}{07 03 00}See pole minu maja!"
   },
   {
    "id": 1,
    "en": "{07 19 00}Oh yeah,{01 00 00 05 00} this is a really\nnice room!{01 00 00 0a 00} {07 14 00}OK,{01 00 00 05 00} I'm coming\nin now, {01 00 00 05 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 19 00}Oh jaa,{01 00 00 05 00} see on tõesti kena\ntuba!{01 00 00 0a 00} {07 14 00}Olgu,{01 00 00 05 00} ma tulen\nnüüd sisse, {01 00 00 05 00}{04 02 00}!"
   },
   {
    "id": 2,
    "en": "{07 04 00}Wow!{01 00 00 0a 00} This room looks just\nlike I thought it would,\n{04 1f 00}! Nice taste!\n{07 14 00}Well, enough with the small\ntalk.{01 00 00 05 00} I'm comin' in,\n{01 00 00 05 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 04 00}Vau!{01 00 00 0a 00} See tuba näeb välja\ntäpselt nii, nagu arvasin,\n{04 1f 00}! Kena maitse!\n{07 14 00}Noh, aitab lobisemisest.{01 00 00 05 00}\nMa tulen sisse,\n{01 00 00 05 00}{04 02 00}!"
   }
  ]
 }

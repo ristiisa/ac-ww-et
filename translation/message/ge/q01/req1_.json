@@ -4,17 +4,17 @@
   {
    "id": 0,
    "en": "{07 0c 00}{01 00 00 0a 00}{0b 03 00}{04 1f 00}! Aren't you,\nlike, the WIZARD of bug\ncatching, {01 00 00 05 00}{04 02 00}?\n{07 00 00}What?{01 00 00 0a 00} {07 1a 00}Oh, yeah, I know.{01 00 00 05 00}\nWizards are totally geeky...{01 00 00 0a 00}\nANYWAY... \nCan you maybe get me\n{04 1a 00}?{01 00 00 05 00}\n{07 16 00}I can't find one ANYWHERE!\n{07 14 00}If we compete with each\nother, we can find it FAST!{01 00 00 05 00}\nSo let's go look together!",
-   "et": ""
+   "et": "{07 0c 00}{01 00 00 0a 00}{0b 03 00}{04 1f 00}! Kas sa pole\nmitte, nagu, putukapüügi\nVÕLUR, {01 00 00 05 00}{04 02 00}?\n{07 00 00}Mis?{01 00 00 0a 00} {07 1a 00}Ah jaa, ma tean.{01 00 00 05 00}\nVõlurid on täitsa nohikud...{01 00 00 0a 00}\nIGATAHES... \nKas sa saaksid mulle\n{04 1a 00}?{01 00 00 05 00}\n{07 16 00}Ma ei leia seda KUSKILT!\n{07 14 00}Kui me omavahel võistleme,\nleiame selle KIIRESTI!{01 00 00 05 00}\nNii et lähme koos otsima!"
   },
   {
    "id": 1,
    "en": "{07 14 00}You're really good at\ncatching bugs, right,\n{01 00 00 05 00}{04 02 00}?!\n{07 00 00}Well, I think we should just\nput that little theory to\nthe test!\n{07 11 00}Let's see who can catch\n{04 1a 00}\nfirst!",
-   "et": ""
+   "et": "{07 14 00}Sa oled tõesti hea\nputukapüüdja, eks,\n{01 00 00 05 00}{04 02 00}?!\n{07 00 00}Noh, ma arvan, et me\npeaksime selle väikese\nteooria proovile panema!\n{07 11 00}Vaatame, kes püüab\nenne\n{04 1a 00}!"
   },
   {
    "id": 2,
    "en": "{07 00 00}{07 0b 00}{0b 03 00}{04 1f 00}, did you say\nthat you're super good at\ncatching bugs, {01 00 00 05 00}{04 02 00}?\n{07 16 00}Well, {01 00 00 05 00}I'm looking for\n{04 1a 00},{01 00 00 05 00}\nbut I TOTALLY can't find it!\n{07 11 00}So as the leader of the\n{04 01 00} fan club...{01 00 00 0a 00}\nyou GOTTA get me one!\n{07 14 00}I'll try too, so let's see\nwho's the first to get\n{04 1a 00}!",
-   "et": ""
+   "et": "{07 00 00}{07 0b 00}{0b 03 00}{04 1f 00}, kas sa ütlesid,\net sa oled ülihea\nputukapüüdja, {01 00 00 05 00}{04 02 00}?\n{07 16 00}Noh, {01 00 00 05 00}ma otsin\n{04 1a 00},{01 00 00 05 00}\naga ma EI leia seda!\n{07 11 00}Nii et {04 01 00} fänniklubi\njuhina...{01 00 00 0a 00}\nsa PEAD mulle ühe\nmuretsema! {07 14 00}Ma proovin ka,\nnii vaatame, kes saab\nesimesena {04 1a 00}!"
   }
  ]
 }

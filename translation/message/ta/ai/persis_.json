@@ -4,32 +4,32 @@
   {
    "id": 0,
    "en": "{07 1c 00}{01 00 00 0a 00}What IS it?!{01 00 00 0a 00} I just got done\ntalking to you!{01 01 00} {01 00 00 0a 00}{07 1b 00}{01 00 00 05 00}Sheesh!\nBored much, {01 00 00 05 00}{04 02 00}?{01 00 00 05 00}{03 00 00}",
-   "et": ""
+   "et": "{07 1c 00}{01 00 00 0a 00}Mis nüüd?!{01 00 00 0a 00} Ma just lõpetasin\nsinuga rääkimise!{01 01 00} {01 00 00 0a 00}{07 1b 00}{01 00 00 05 00}Issand!\nIgav on, {01 00 00 05 00}{04 02 00}?{01 00 00 05 00}{03 00 00}"
   },
   {
    "id": 1,
    "en": "{07 1c 00}{01 00 00 0a 00}You sure do come around a\nlot{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 01 00} {01 00 00 0a 00}{07 1b 00}{01 00 00 05 00}I know, I know. You\ncrave my attention, {01 00 00 05 00}huh?{01 00 00 05 00}{03 00 00}",
-   "et": ""
+   "et": "{07 1c 00}{01 00 00 0a 00}Sa käid küll tihti ringi\n{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 01 00} {01 00 00 0a 00}{07 1b 00}{01 00 00 05 00}Ma tean, ma tean. Sa\nihkad mu tähelepanu, {01 00 00 05 00}mis?{01 00 00 05 00}{03 00 00}"
   },
   {
    "id": 2,
    "en": "{07 1c 00}{01 00 00 0a 00}Oh, no! Not you again{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 01 00}\n{07 16 00}I'm not your mother,\n{04 1f 00}. Got it?{01 00 00 05 00}{03 00 00}",
-   "et": ""
+   "et": "{07 1c 00}{01 00 00 0a 00}Oi ei! Mitte jälle sina{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 01 00}\n{07 16 00}Ma pole su ema,\n{04 1f 00}. Selge?{01 00 00 05 00}{03 00 00}"
   },
   {
    "id": 3,
    "en": "{07 02 00}{01 00 00 0a 00}Hey! {01 00 00 0a 00}Could you just STOP for\na while?! A LOT of people\nwant to talk to me, OK?\n{07 06 00}Sometimes, I just need to\ntake a break from{01 00 00 0a 00} talking!{01 00 00 0a 00}\nAnd it starts with you!{01 00 00 05 00}{03 00 00}",
-   "et": ""
+   "et": "{07 02 00}{01 00 00 0a 00}Hei! {01 00 00 0a 00}Kas sa võiksid korraks\nLÕPETADA?! PALJUD inimesed\ntahavad minuga rääkida,\neks? {07 06 00}Vahel on mul vaja\nrääkimisest{01 00 00 0a 00} pausi teha!{01 00 00 0a 00}\nJa see algab sinust!{01 00 00 05 00}{03 00 00}"
   },
   {
    "id": 4,
    "en": "{07 15 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}Enough!{01 00 00 05 00} I can't keep\nentertaining you like this,\n{04 1f 00}!{07 00 00}\n{07 05 00}Will you just go away!{01 00 00 14 00}\nI'm so annoyed! Hmph,\n{01 00 00 05 00}{04 02 00}!{01 00 00 05 00}{03 00 00}",
-   "et": ""
+   "et": "{07 15 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}Aitab!{01 00 00 05 00} Ma ei suuda sind\nniimoodi lõbustada,\n{04 1f 00}!{07 00 00}\n{07 05 00}Kas sa lähed juba ära!{01 00 00 14 00}\nMa olen nii tüdinud! Pff,\n{01 00 00 05 00}{04 02 00}!{01 00 00 05 00}{03 00 00}"
   },
   {
    "id": 5,
    "en": "{07 15 00}All right{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}that's it,\n{04 02 00}!\n\n{07 01 00}You and I have nothing more\nto talk about, so go away!{01 00 00 0a 00}\nGot it? Scram!{01 00 00 05 00}{03 00 00}",
-   "et": ""
+   "et": "{07 15 00}Hea küll{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}aitab,\n{04 02 00}!\n\n{07 01 00}Meil pole enam midagi\nrääkida, nii et mine ära!{01 00 00 0a 00}\nSelge? Kasi!{01 00 00 05 00}{03 00 00}"
   }
  ]
 }

@@ -4,42 +4,42 @@
   {
    "id": 0,
    "en": "{07 14 00}Whenever I go to another\ntown,{01 00 00 05 00} I always make sure to\nstop by the shop.\n{07 19 00}That's where you can find{01 00 00 0a 00}\nrare pieces, {01 00 00 0a 00}{04 02 00}.{01 00 00 05 00}\n{07 0b 00}You know, like local brands?",
-   "et": ""
+   "et": "{07 14 00}Kui ma lähen teise\nlinna,{01 00 00 05 00} käin alati kindlasti\npoes ära.\n{07 19 00}Just sealt leiab{01 00 00 0a 00}\nharuldusi, {01 00 00 0a 00}{04 02 00}.{01 00 00 05 00}\n{07 0b 00}Tead, nagu kohalik mark?"
   },
   {
    "id": 1,
    "en": "{07 0c 00}Hey,{01 00 00 05 00} do you know how the\n{ff 00 00 03}Flea Market{ff 00 00 00} works?{02 00 00 03 04}\nNope!\nOh, yeah!",
-   "et": ""
+   "et": "{07 0c 00}Hei,{01 00 00 05 00} kas sa tead, kuidas\n{ff 00 00 03}kirbuturg{ff 00 00 00} toimib?{02 00 00 03 04}\nEi!\nOo, jaa!"
   },
   {
    "id": 2,
    "en": "{06 01 00 05 06 07}",
-   "et": ""
+   "et": "{06 01 00 05 06 07}"
   },
   {
    "id": 3,
    "en": "{07 00 00}This {ff 00 00 03}Flea Market{ff 00 00 00} specializes\nin items for the home...\n\n{07 14 00}You go into each other's\nhouses and make deals for\npieces that you want.\n{07 00 00}So{01 00 00 05 00} what I'm saying{01 00 00 05 00} is,{01 01 00}\n{07 19 00}you should be nice to\npushovers with good taste!",
-   "et": ""
+   "et": "{07 00 00}See {ff 00 00 03}kirbuturg{ff 00 00 00} on\nkodukaupade päralt...\n\n{07 14 00}Te lähete üksteise\nmajja ja teete tehinguid\nesemete üle, mida tahate.\n{07 00 00}Nii et{01 00 00 05 00} ma tahan öelda{01 00 00 05 00},{01 01 00}\n{07 19 00}et ole kena hea maitsega\nlollikestega!"
   },
   {
    "id": 4,
    "en": "{07 19 00}Tee hee! {01 00 00 0a 00}{07 14 00}I can tell from\nyour great style that you\nand I have similar taste.\n{07 0d 00}So, as the {ff 00 00 03}Flea Market\n{ff 00 00 00}approaches, let's chat!",
-   "et": ""
+   "et": "{07 19 00}Hihii! {01 00 00 0a 00}{07 14 00}Su suurepärasest\nstiilist on näha, et meil\non sarnane maitse.\n{07 0d 00}Nii et kui {ff 00 00 03}kirbuturg\n{ff 00 00 00}läheneb, räägime!"
   },
   {
    "id": 5,
    "en": "{07 0e 00}It's fine and good to choose\na series or furniture of\nthe same color,\n{07 14 00}but I'd rather choose\nindividual pieces that I like\nand coordinate them myself.\n{07 19 00}My eye for style is keen\nenough that I can pull it\noff, {01 00 00 05 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 0e 00}On tore valida sari või\nsama värvi mööbel,\n\n{07 14 00}aga mina valin pigem\nüksikud meeldivad esemed\nja sobitan need ise.\n{07 19 00}Mu stiilisilm on nii terav,\net ma saan sellega\nhakkama, {01 00 00 05 00}{04 02 00}!"
   },
   {
    "id": 6,
    "en": "{07 14 00}If you're walking around\nwith a rare item,{01 00 00 0a 00} you might\nmeet someone special.\n{07 15 00}And then they'll feed you\nsome dumb line like...\n\n\"{ff 00 00 02}Wanna trade my\n{04 15 00} for your\nheart?{ff 00 00 00}\" {01 00 00 0a 00}Hmph!{07 00 00}",
-   "et": ""
+   "et": "{07 14 00}Kui sa kõnnid ringi\nharuldase esemega,{01 00 00 0a 00} võid\nkohata kedagi erilist.\n{07 15 00}Ja siis söödab ta sulle\nmõne rumala lause nagu...\n\n„{ff 00 00 02}Kas vahetad mu\n{04 15 00} oma\nsüdame vastu?{ff 00 00 00}” {01 00 00 0a 00}Hmph!{07 00 00}"
   },
   {
    "id": 7,
    "en": "{07 1c 00}It can be hard to find{01 00 00 0a 00}\nreally good furniture.\n\n{07 19 00}You have to be diligent,\ndo the legwork, and{01 00 00 0a 00}\n{07 14 00}gather information yourself!\n{07 1b 00}In other words,{01 00 00 05 00} it's kinda\nlike dating, {01 00 00 05 00}{04 02 00}.",
-   "et": ""
+   "et": "{07 1c 00}Tõeliselt head mööblit{01 00 00 0a 00}\nvõib olla raske leida.\n\n{07 19 00}Pead olema hoolas,\njalgu kulutama ja{01 00 00 0a 00}\n{07 14 00}ise infot koguma!\n{07 1b 00}Teisisõnu,{01 00 00 05 00} see on natuke\nnagu käimine, {01 00 00 05 00}{04 02 00}."
   }
  ]
 }

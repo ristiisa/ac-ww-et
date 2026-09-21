@@ -4,27 +4,27 @@
   {
    "id": 0,
    "en": "{07 15 00}Can't you see I'm angry?{01 01 00}\nANGRY!!!{01 00 00 0f 00} SO VERY ANGRY!!!\nGo away, {01 00 00 05 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 15 00}Kas sa ei näe, et olen\nvihane?{01 01 00} VIHANE!!!{01 00 00 0f 00} VÄGA\nVIHANE!!! Mine ära, {01 00 00 05 00}{04 02 00}!"
   },
   {
    "id": 1,
    "en": "{07 15 00}Ya know, some folks might\nlike persistence...{01 01 00} BUT NOT\nME!!! SCRAM!!!",
-   "et": ""
+   "et": "{07 15 00}Tead, mõnele võib\njärjekindlus meeldida...{01 01 00} AGA\nMITTE MULLE!!! KASI!!!"
   },
   {
    "id": 2,
    "en": "{07 15 00}Hey! LAME-O!{01 00 00 0a 00} Beat it!\nI don't wanna talk to ANYONE\nEVER, EVER, AGAIN!!",
-   "et": ""
+   "et": "{07 15 00}Hei! LÄTAKAS!{01 00 00 0a 00} Kao!\nMa ei taha KELLEGAGI enam\nKUNAGI, KUNAGI rääkida!!"
   },
   {
    "id": 3,
    "en": "{07 05 00}If I had to describe you in\none word,{01 00 00 05 00} it would be.{01 00 00 05 00}.{01 00 00 0a 00}.{01 00 00 0c 00}\n\"REALLYREALLYANNOYING\"!!",
-   "et": ""
+   "et": "{07 05 00}Kui ma peaksin sind ühe\nsõnaga kirjeldama,{01 00 00 05 00} oleks.{01 00 00 05 00}.{01 00 00 0a 00}.{01 00 00 0c 00}\n„VÄGAVÄGATÜÜTU”!!"
   },
   {
    "id": 4,
    "en": "{07 05 00}You! Yeah...{01 00 00 05 00}YOU!{01 00 00 05 00} ...Yoooou...{01 00 00 05 00}\nYou're always so happy{01 00 00 05 00}.{01 00 00 0a 00}.{01 00 00 0a 00}.{01 00 00 0c 00}\nIT SICKENS ME!!{01 00 00 05 00}",
-   "et": ""
+   "et": "{07 05 00}Sina! Jah...{01 00 00 05 00}SINA!{01 00 00 05 00} ...Siiina...{01 00 00 05 00}\nSa oled alati nii rõõmus{01 00 00 05 00}.{01 00 00 0a 00}.{01 00 00 0a 00}.{01 00 00 0c 00}\nMUL HAKKAB PAHA!!{01 00 00 05 00}"
   }
  ]
 }

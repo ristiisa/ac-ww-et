@@ -4,17 +4,17 @@
   {
    "id": 0,
    "en": "OK, well,{01 00 00 05 00} if something else\ncomes up, I'll ask you\nagain, {01 00 00 05 00}{04 02 00}!",
-   "et": ""
+   "et": "Olgu,{01 00 00 05 00} kui midagi muud\ntuleb, küsin sinult\njälle, {01 00 00 05 00}{04 02 00}!"
   },
   {
    "id": 1,
    "en": "{07 14 00}OK then, I'll definitely \ncome to you again,\n{01 00 00 05 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 14 00}Olgu siis, ma tulen \nkindlasti jälle sinu juurde,\n{01 00 00 05 00}{04 02 00}!"
   },
   {
    "id": 2,
    "en": "{07 14 00}Thanks so much!{01 00 00 0a 00} I just\nmight ask for your help\nagain, {01 00 00 05 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 14 00}Suur aitäh!{01 00 00 0a 00} Ma võin\nsinult jälle abi\nküsida, {01 00 00 05 00}{04 02 00}!"
   }
  ]
 }

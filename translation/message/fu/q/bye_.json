@@ -4,17 +4,17 @@
   {
    "id": 0,
    "en": "{07 00 00}Well then, I guess that's it\nfor now, {01 00 00 05 00}{04 02 00}.{01 00 00 0f 00}\n{07 14 00}Bye-bye, {01 00 00 05 00}{04 1f 00}!",
-   "et": ""
+   "et": "{07 00 00}Noh, praeguseks on vist\nkõik, {01 00 00 05 00}{04 02 00}.{01 00 00 0f 00}\n{07 14 00}Head aega, {01 00 00 05 00}{04 1f 00}!"
   },
   {
    "id": 1,
    "en": "{07 00 00}Well, if we're done here, I'll\nbe off, {01 00 00 05 00}{04 02 00}.{01 00 00 0f 00}\n{07 14 00}See you later, {04 1f 00}!",
-   "et": ""
+   "et": "{07 00 00}Noh, kui me oleme valmis,\nsiis lähen, {01 00 00 05 00}{04 02 00}.{01 00 00 0f 00}\n{07 14 00}Näeme hiljem, {04 1f 00}!"
   },
   {
    "id": 2,
    "en": "{07 14 00}I guess that wraps it all\nup. I'll catch you later!{01 00 00 05 00}\nBye, {01 00 00 05 00}{04 1f 00}!",
-   "et": ""
+   "et": "{07 14 00}See vist teebki kõik\nkorda. Näeme hiljem!{01 00 00 05 00}\nTšau, {01 00 00 05 00}{04 1f 00}!"
   }
  ]
 }

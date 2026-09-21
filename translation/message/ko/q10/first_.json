@@ -4,17 +4,17 @@
   {
    "id": 0,
    "en": "{07 0e 00}Hmm...{01 00 00 0f 00} That delicate\nfragrance{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n\n{07 14 00}It's nice, {01 00 00 05 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 0e 00}Hmm...{01 00 00 0f 00} See õrn\nlõhn{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n\n{07 14 00}See on kena, {01 00 00 05 00}{04 02 00}!"
   },
   {
    "id": 1,
    "en": "{07 00 00}They say that a room \ntells a lot about who\nlives there.\n{07 14 00}Your room is a bigger\nwindbag than {ff 00 00 06}Blathers{ff 00 00 00}!",
-   "et": ""
+   "et": "{07 00 00}Öeldakse, et tuba\nräägib palju sellest, kes\nseal elab.\n{07 14 00}Sinu tuba on suurem\nlobisõber kui {ff 00 00 06}Blathers{ff 00 00 00}!"
   },
   {
    "id": 2,
    "en": "{07 18 00}Whoa!{01 00 00 0f 00} This room really\ndoesn't look like you,\n{01 00 00 05 00}{04 02 00}.\n{07 0e 00}I pictured your room as\nbeing more{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.you know, {01 00 00 05 00}lame\nlookin', {01 00 00 05 00}{04 02 00}.",
-   "et": ""
+   "et": "{07 18 00}Ohoo!{01 00 00 0f 00} See tuba ei näe\nsinu moodi välja,\n{01 00 00 05 00}{04 02 00}.\n{07 0e 00}Kujutasin su tuba ette\nrohkem{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.tead küll, {01 00 00 05 00}nõmeda\nvälimusega, {01 00 00 05 00}{04 02 00}."
   }
  ]
 }

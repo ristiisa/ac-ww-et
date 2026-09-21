@@ -4,17 +4,17 @@
   {
    "id": 0,
    "en": "{07 00 00}Heya, {01 00 00 05 00}{04 1f 00}!{01 00 00 0a 00} Like, I\nknow it's kinda late today,\nbut...\n{07 0b 00}Would you like to play hide-\nand-seek some other time,\n{01 00 00 05 00}{04 02 00}? Pleeeease?\n{07 11 00}Then{01 00 00 05 00} I'll hide someplace\nwhere no one will find me...{01 00 00 0a 00}\nNOT EVEN ME, {01 00 00 05 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 00 00}Tsau, {01 00 00 05 00}{04 1f 00}!{01 00 00 0a 00} Nagu, ma\ntean, et täna on juba hilja,\naga...\n{07 0b 00}Kas sa tahaksid mängida\npeitust mõni teine kord,\n{01 00 00 05 00}{04 02 00}? Paaalun?\n{07 11 00}Siis{01 00 00 05 00} peidan ma end kohta,\nkust keegi mind ei leia...{01 00 00 0a 00}\nISEGI MINA MITTE, {01 00 00 05 00}{04 02 00}!"
   },
   {
    "id": 1,
    "en": "{07 16 00}Wow.{01 00 00 05 00} It's crazy late now, \nbut{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n\n{07 14 00}Let's play hide-and-seek\nREALLY soon, {01 00 00 05 00}{04 02 00}\n{07 00 00}{07 11 00}I'll totally beat you!",
-   "et": ""
+   "et": "{07 16 00}Vau.{01 00 00 05 00} Praegu on hullult\nhilja, aga{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n\n{07 14 00}Mängime peitust\nTÕESTI varsti, {01 00 00 05 00}{04 02 00}\n{07 00 00}{07 11 00}Ma võidan sind täiesti!"
   },
   {
    "id": 2,
    "en": "{07 00 00}Aw, it's too dark to play\nhide-and-seek, {01 00 00 05 00}{04 1f 00}!{01 00 00 05 00}\nBut we'll do it real soon!\n{07 11 00}Then you'll know why I'm\ncalled {04 01 00} the\nNinja!{01 00 00 0a 00} Hiiiii-ya!",
-   "et": ""
+   "et": "{07 00 00}Ohh, peituse mängimiseks\non liiga pime, {01 00 00 05 00}{04 1f 00}!{01 00 00 05 00}\nAga teeme seda varsti!\n{07 11 00}Siis saad teada, miks mind\nkutsutakse {04 01 00}\nNinjaks!{01 00 00 0a 00} Hiiii-jaa!"
   }
  ]
 }

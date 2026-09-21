@@ -4,147 +4,147 @@
   {
    "id": 0,
    "en": "{07 14 00}{01 00 00 0a 00}Oh, hello.{01 00 00 05 00} Come for a little\nchat with ol' {ff 00 00 06}Joan{ff 00 00 00}, have\nyou, my wee radish?\n{07 00 00}I've been traveling these\nparts, selling my stock of\nturnips for 60 years now.\nFor most folk 'round here,\nSunday mornings bring to\nmind thoughts of turnips.",
-   "et": ""
+   "et": "{07 14 00}{01 00 00 0a 00}Oh, tere.{01 00 00 05 00} Tulid vana\n{ff 00 00 06}Joaniga{ff 00 00 00} juttu ajama,\nmu väike redis?\n{07 00 00}Olen neis kantides rännanud\nja naereid müünud juba\n60 aastat.\nEnamikule siinsetest\ntoovad pühapäevahommikud\nmeelde mõtted naeritest."
   },
   {
    "id": 1,
    "en": "{07 00 00}But maybe you don't know\nwhat I'm talking about.{01 00 00 05 00} Want\nme to explain?{02 04 00 06 02}\nYeah!\nNo need.",
-   "et": ""
+   "et": "{07 00 00}Aga ehk sa ei tea,\nmillest ma räägin.{01 00 00 05 00} Kas\nselgitan?{02 04 00 06 02}\nJaa!\nPole vaja."
   },
   {
    "id": 2,
    "en": "{07 04 00}Oh, {01 00 00 05 00}is that so?{01 00 00 0f 00} {07 00 00}Well, thank\ngoodness for that!\n\n{07 14 00}I tell you, having to explain\nmyself over and over again\ncan get mighty tiring.",
-   "et": ""
+   "et": "{07 04 00}Oh, {01 00 00 05 00}kas nii?{01 00 00 0f 00} {07 00 00}Noh, jumal\ntänatud!\n\n{07 14 00}Ütlen sulle, et pidev\nenda seletamine võib\nsaada üsna väsitavaks."
   },
   {
    "id": 3,
    "en": "{07 00 00}What'll it be, my wee\nradish?{01 00 00 0a 00} What kind of turnip\nare you interested in?{02 05 00 10 17 05}\nWhite turnips.\nRed turnips.\nNeither.",
-   "et": ""
+   "et": "{07 00 00}Mis saab, mu väike\nredis?{01 00 00 0a 00} Millised naerid\nsind huvitavad?{02 05 00 10 17 05}\nValged naerid.\nPunased naerid.\nKumbki ei huvita."
   },
   {
    "id": 4,
    "en": "{07 14 00}{01 00 00 05 00}Hello there,{01 00 00 05 00} my wee radish!{01 00 00 0a 00} \nBack so soon?",
-   "et": ""
+   "et": "{07 14 00}{01 00 00 05 00}Tere sulle,{01 00 00 05 00} mu väike redis!{01 00 00 0a 00} \nJuba tagasi?"
   },
   {
    "id": 5,
    "en": "{07 16 00}{01 00 00 05 00}Well,{01 00 00 05 00} that really is just\nsuch a shame.{01 00 00 05 00}.{01 00 00 05 00}.",
-   "et": ""
+   "et": "{07 16 00}{01 00 00 05 00}Noh,{01 00 00 05 00} see on tõesti\nväga kahju{01 00 00 05 00}.{01 00 00 05 00}."
   },
   {
    "id": 6,
    "en": "{07 00 00}Oh, where to start.{01 00 00 05 00}.{01 00 00 05 00}. All\nthese years, and I still\nnever know where to start.\nFirst of all, there are two\ntypes of turnip:{01 00 00 05 00} {ff 00 00 07}white\nturnips{ff 00 00 00} and {ff 00 00 07}red turnips{ff 00 00 00}.",
-   "et": ""
+   "et": "{07 00 00}Oh, kust alustada.{01 00 00 05 00}.{01 00 00 05 00}. Kõik\nneed aastad ja ma ikka\nei tea, kust alustada.\nKõigepealt on kaht\nsorti naereid:{01 00 00 05 00} {ff 00 00 07}valged\nnaerid{ff 00 00 00} ja {ff 00 00 07}punased naerid{ff 00 00 00}."
   },
   {
    "id": 7,
    "en": "Now, you can eat the kinds\nof turnip I sell.{01 00 00 05 00}.{01 00 00 05 00}.\n\n{07 19 00}But then, there aren't many\npeople who buy my turnips{07 03 00}{01 00 00 0a 00}\nso they can eat 'em!{07 14 00}\n{01 00 00 0a 00}No, most people 'round here\nbuy 'em to make a profit.{01 00 00 05 00}\nSeems silly to me, but.{01 00 00 05 00}.{01 00 00 05 00}.",
-   "et": ""
+   "et": "Muide, naereid, mida ma\nmüün, saab süüa{01 00 00 05 00}.{01 00 00 05 00}.\n\n{07 19 00}Aga siiski pole palju\ninimesi, kes ostaksid neid{07 03 00}{01 00 00 0a 00}\nselleks, et süüa!{07 14 00}\n{01 00 00 0a 00}Ei, enamik siinseid\nostab neid kasu pärast.{01 00 00 05 00}\nMinu meelest rumal, aga{01 00 00 05 00}.{01 00 00 05 00}."
   },
   {
    "id": 8,
    "en": "{07 00 00}Oh, listen to me prattle on.\nI won't keep you. Unless...\nyou want to hear more?{02 04 00 09 0f}\nMore! More!\nThat's plenty.",
-   "et": ""
+   "et": "{07 00 00}Oh, kuula mind lobisemas.\nMa ei hoia sind kinni.\nVõi tahad veel kuulda?{02 04 00 09 0f}\nVeel! Veel!\nSellest piisab."
   },
   {
    "id": 9,
    "en": "{07 00 00}I'm sure you know all about\n{ff 00 00 06}Tom Nook{ff 00 00 00}'s shop, right? {ff 00 00 06}Tom{ff 00 00 00}\nand I go way back.{01 00 00 05 00}.{01 00 00 05 00}.\nHe's always willing to buy\nmy {ff 00 00 07}turnips{ff 00 00 00}, both {ff 00 00 07}white{ff 00 00 00}\nand {ff 00 00 07}red{ff 00 00 00}.\nThe {ff 00 00 07}white turnips{ff 00 00 00}, that's\nwhat most folk mean when\nthey say \"{ff 00 00 07}turnip{ff 00 00 00}.\"\nTheir price changes daily.\n{ff 00 00 06}Tom{ff 00 00 00} tells me it has to do\nwith supply and demand.\nIt's too much hassle for\nme, which is why I sell my\nturnips on the open market.\n{07 14 00}{01 00 00 0a 00}But I've heard you can make\na tidy sum selling turnips\nwhen the time is right.",
-   "et": ""
+   "et": "{07 00 00}Sa tead kindlasti kõike\n{ff 00 00 06}Tom Nooki{ff 00 00 00} poest, eks? {ff 00 00 06}Tom{ff 00 00 00}\nja mina tunneme ammu{01 00 00 05 00}.{01 00 00 05 00}.\nTa on alati valmis ostma\nmu {ff 00 00 07}naereid{ff 00 00 00}, nii {ff 00 00 07}valgeid{ff 00 00 00}\nkui {ff 00 00 07}punaseid{ff 00 00 00}.\n{ff 00 00 07}Valged naerid{ff 00 00 00} on see,\nmida enamik mõtleb, kui\nütleb „{ff 00 00 07}naeris{ff 00 00 00}”.\nNende hind muutub iga päev.\n{ff 00 00 06}Tom{ff 00 00 00} ütleb, et asi on\npakkumises ja nõudluses.\nMinu jaoks on see liiga\ntüütu, sellepärast müün\nnaereid vabaturul.\n{07 14 00}{01 00 00 0a 00}Aga olen kuulnud, et õigel\najal naerite müügist saab\nkorraliku summa."
   },
   {
    "id": 10,
    "en": "{07 00 00}There's more, if you've got\ntime to hear it.{02 04 00 0b 0f}\nYup!\nSkip it.",
-   "et": ""
+   "et": "{07 00 00}Rohkem on veel, kui sul\naega kuulata on.{02 04 00 0b 0f}\nJaa!\nJäta vahele."
   },
   {
    "id": 11,
    "en": "{07 00 00}That's good, because this\nmight just be the most\nimportant part.{01 00 00 05 00}.{01 00 00 05 00}.\nYou see, {07 0e 00}{01 00 00 0a 00}after a week,\nturnips go bad and rot.\n\n{07 00 00}And since I come 'round on\nSundays, that means you\nshould sell by Saturday.\nOtherwise, {07 02 00}you're throwing\nout good money! {01 00 00 0a 00}{07 16 00}Just you\nbe careful about that.\nEven if you lose Bells,{01 00 00 05 00}\nyou're better off selling\nthose turnips.",
-   "et": ""
+   "et": "{07 00 00}See on hea, sest see võib\nolla kõige tähtsam\nosa{01 00 00 05 00}.{01 00 00 05 00}.\nNäed, {07 0e 00}{01 00 00 0a 00}nädala pärast\nlähevad naerid halvaks.\n\n{07 00 00}Ja kuna ma tulen ringi\npühapäeviti, peaksid sa\nmüüma laupäevaks.\nMuidu {07 02 00}viskad head raha\nminema! {01 00 00 0a 00}{07 16 00}Ole sellega\nettevaatlik.\nIsegi kui kaotad kellasid,{01 00 00 05 00}\non parem need naerid\nära müüa."
   },
   {
    "id": 12,
    "en": "{07 00 00}Hoo! {01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.Sorry, I just have\nto catch my breath. I do\nget long-winded at times.\nAnd I haven't even told you\nabout {ff 00 00 07}red turnips{ff 00 00 00}! You're\n{07 0b 00}not in a rush, are you?{02 04 00 0d 0f}\nNo, go ahead.\nLet's wrap up.",
-   "et": ""
+   "et": "{07 00 00}Huu! {01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.Vabandust, pean\nhinge tõmbama. Kipun\nvahel pikalt rääkima.\nJa {ff 00 00 07}punastest naeritest{ff 00 00 00}\npole ma veel rääkinud! Sul\n{07 0b 00}pole ju kiire?{02 04 00 0d 0f}\nEi, räägi aga.\nLõpetame ära."
   },
   {
    "id": 13,
    "en": "{07 00 00}I've only just started\nraising stocks of\n{ff 00 00 07}red turnips{ff 00 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.\nThey're all organic, grown\nwithout any pesticides, and\nthey can be tough to raise.\n{07 16 00}If you miss even a single\nwatering,{01 00 00 05 00} they'll just\nshrivel up and die!\n{07 14 00}But it's just so rewarding\nto bring them up right.\n\n{07 00 00}{ff 00 00 06}Tom Nook{ff 00 00 00} just loves {ff 00 00 07}red\nturnips{ff 00 00 00}. The bigger they\nare, the more he'll pay!\n{07 0e 00}Now, {01 00 00 05 00}they take about a week\nto grow. {07 14 00}{01 00 00 0a 00}Just care for 'em\nlike they're your own kids.",
-   "et": ""
+   "et": "{07 00 00}Olen alles hiljuti hakanud\nkasvatama\n{ff 00 00 07}punased naerid{ff 00 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.\nNad on täiesti mahedad,\nkasvatatud pestitsiidideta,\nja neid on raske kasvatada.\n{07 16 00}Kui sa jätad kasvõi ühe\nkastmise vahele,{01 00 00 05 00} nad\nkuivavad ära ja surevad!\n{07 14 00}Aga neid õigesti üles\nkasvatada on nii\ntänuväärne.\n{07 00 00}{ff 00 00 06}Tom Nook{ff 00 00 00} armastab {ff 00 00 07}punaseid\nnaereid{ff 00 00 00}. Mida suuremad,\nseda rohkem ta maksab!\n{07 0e 00}Nüüd, {01 00 00 05 00}neil kulub kasvamiseks\nnädal. {07 14 00}{01 00 00 0a 00}Hoolitse nende eest\nnagu omaenda laste eest."
   },
   {
    "id": 14,
    "en": "{07 00 00}{01 00 00 0a 00}All right, my wee radish.\nThat's everything you need\nto know about {ff 00 00 07}red turnips{ff 00 00 00}.",
-   "et": ""
+   "et": "{07 00 00}{01 00 00 0a 00}Hästi, mu väike redis.\nRohkem pole {ff 00 00 07}punaste naerite{ff 00 00 00}\nkohta midagi teada."
   },
   {
    "id": 15,
    "en": "{07 00 00}Hoo.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} That's good. {01 00 00 05 00}I'm a bit\nwinded from all that talking\nas it is. {01 00 00 05 00}What a chore!",
-   "et": ""
+   "et": "{07 00 00}Huu.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} See on hea. {01 00 00 05 00}Olen\nsellest jutust juba veidi\nhingetu. {01 00 00 05 00}Milline vaev!"
   },
   {
    "id": 16,
    "en": "{07 00 00}Today, my asking price for\nturnips is {ff 00 00 02}{04 0f 00} Bells{ff 00 00 00}.{01 00 00 05 00} How\ndoes that sound to you?{02 05 00 12 07 11}\nI'll buy some!\nExplain turnips!\nNot interested.",
-   "et": ""
+   "et": "{07 00 00}Täna on mu naerite\nhind {ff 00 00 02}{04 0f 00} kella{ff 00 00 00}.{01 00 00 05 00} Kuidas\nsee sulle sobib?{02 05 00 12 07 11}\nOstan mõned!\nSelgita naereid!\nEi huvita."
   },
   {
    "id": 17,
    "en": "{07 00 00}Well, {01 00 00 05 00}isn't that a shame?{07 14 00}{01 00 00 0a 00}\nMaybe next time, my wee\nradish.",
-   "et": ""
+   "et": "{07 00 00}Noh, {01 00 00 05 00}kas pole kahju?{07 14 00}{01 00 00 0a 00}\nEhk järgmine kord, mu\nväike redis."
   },
   {
    "id": 18,
    "en": "{07 00 00}That's good, that's good.{01 00 00 05 00}\nHow many do you want?",
-   "et": ""
+   "et": "{07 00 00}See on hea, see on hea.{01 00 00 05 00}\nKui palju sa tahad?"
   },
   {
    "id": 19,
    "en": "{07 00 00}I can sell you {ff 00 00 02}{04 10 00} turnips{ff 00 00 00}\nfor {ff 00 00 02}{04 11 00} Bells{ff 00 00 00}.{02 04 00 00 11}\nIt's a deal!\nChanged my mind.",
-   "et": ""
+   "et": "{07 00 00}Saan müüa {ff 00 00 02}{04 10 00} naerist{ff 00 00 00}\n{ff 00 00 02}{04 11 00} kella{ff 00 00 00} eest.{02 04 00 00 11}\nKäed löödud!\nMõtlesin ümber."
   },
   {
    "id": 20,
    "en": "{07 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.{07 04 00}Oh! Looks like that's a\nfew more turnips than you\ncan manage right now.\nMaybe you should buy less?{02 04 00 12 11}\nGood idea.\nNever mind.",
-   "et": ""
+   "et": "{07 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.{07 04 00}Oh! Paistab, et see on\nrohkem naereid, kui sa\npraegu kanda jaksad.\nEhk peaksid vähem ostma?{02 04 00 12 11}\nHea mõte.\nÜkskõik."
   },
   {
    "id": 21,
    "en": "{07 14 00}{01 00 00 0a 00}Hoo.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} Thanks! That's\na load off my shoulders.",
-   "et": ""
+   "et": "{07 14 00}{01 00 00 0a 00}Huu.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} Aitäh! See\nvõttis koorma õlgadelt."
   },
   {
    "id": 22,
    "en": "{07 00 00}Oh, my wee radish, you\nstill want to buy {ff 00 00 07}white\nturnips{ff 00 00 00}, don't you?{02 05 00 12 07 11}\nYes.\nExplain turnips!\nNever mind.",
-   "et": ""
+   "et": "{07 00 00}Oh, mu väike redis, sa\ntahad ikka osta {ff 00 00 07}valgeid\nnaereid{ff 00 00 00}, kas pole?{02 05 00 12 07 11}\nJah.\nSelgita naereid!\nÜkskõik."
   },
   {
    "id": 23,
    "en": "{07 00 00}So, my wee radish, what did\nyou want with my {ff 00 00 07}red\nturnips{ff 00 00 00}, anyway?{02 05 00 00 0d 05}\nI wanna buy!\nExplain them!\nNothing.",
-   "et": ""
+   "et": "{07 00 00}Nii, mu väike redis, mida sa\nmu {ff 00 00 07}punaste naeritega{ff 00 00 00}\nõieti tahtsid?{02 05 00 00 0d 05}\nTahan osta!\nSelgita neid!\nMitte midagi."
   },
   {
    "id": 24,
    "en": "{07 16 00}{01 00 00 05 00}Oh,{01 00 00 0a 00} I'm sorry.{01 00 00 05 00}.{01 00 00 05 00}.\n\n\nI'm fresh out of {ff 00 00 07}red\nturnips{ff 00 00 00} today.{01 00 00 05 00}.{01 00 00 05 00}.\n\n{07 00 00}Why not come see me next\nSunday?{01 00 00 05 00} I'll see if I can't\nremember to pack extra.",
-   "et": ""
+   "et": "{07 16 00}{01 00 00 05 00}Oh,{01 00 00 0a 00} mul on kahju{01 00 00 05 00}.{01 00 00 05 00}.\n\n\n{ff 00 00 07}Punased naerid{ff 00 00 00} on mul\ntäna otsas{01 00 00 05 00}.{01 00 00 05 00}.\n\n{07 00 00}Ehk tuled järgmisel\npühapäeval?{01 00 00 05 00} Vaatan, kas\nmäletan lisa kaasa panna."
   },
   {
    "id": 25,
    "en": "{07 00 00}Oh, but you know what...\nI do have some {ff 00 00 07}red turnip\nseeds{ff 00 00 00} on me!\n{07 16 00}I've {ff 00 00 02}one pack{ff 00 00 00} left, and\nit's not cheap. Like I said,\nthey're hard to raise.\n{07 00 00}But I'll sell it to you for\n{ff 00 00 02}1,000 Bells{ff 00 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}if you promise\nto take good care of it.{02 04 00 00 11}\nIt's a deal!\nNo, thanks.",
-   "et": ""
+   "et": "{07 00 00}Oh, aga tead mida...\nMul on kaasas {ff 00 00 07}punase naeri\nseemneid{ff 00 00 00}!\n{07 16 00}Mul on {ff 00 00 02}üks pakk{ff 00 00 00} järel ja\nsee pole odav. Nagu ütlesin,\nneid on raske kasvatada.\n{07 00 00}Aga müün selle sulle\n{ff 00 00 02}1000 kella{ff 00 00 00} eest{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}kui lubad\nselle eest hästi hoolitseda.{02 04 00 00 11}\nKäed löödud!\nEi, aitäh."
   },
   {
    "id": 26,
    "en": "{07 00 00}All righty. Just make sure\nyou stay on top of watering\nit. It needs a lot of love.\n{07 14 00}{01 00 00 0a 00}Thanks for the business.{01 00 00 14 00}\nThis old sow appreciates\nit, kiddo.",
-   "et": ""
+   "et": "{07 00 00}Hästi. Vaata lihtsalt, et\nsa seda kastad. See vajab\npalju armastust.\n{07 14 00}{01 00 00 0a 00}Aitäh äri eest.{01 00 00 14 00}\nSee vana emis hindab\nseda, põnn."
   },
   {
    "id": 27,
    "en": "{07 16 00}{01 00 00 05 00}Hold on, my wee radish!\nYou don't have enough\nmoney!\n{07 00 00}Come see me when you do,\nthough. I'll be around all\nmorning.",
-   "et": ""
+   "et": "{07 16 00}{01 00 00 05 00}Oota, mu väike redis!\nSul pole piisavalt\nraha!\n{07 00 00}Tule minu juurde, kui on.\nOlen siin terve\nhommiku."
   },
   {
    "id": 28,
    "en": "{07 04 00}{01 00 00 0a 00}Well, I'll be!{01 00 00 05 00} Sorry, my li'l\nrutabaga, {01 00 00 0a 00}but you're already\ncarrying too much.\n{07 1c 00}Kids today.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} Think they can\ntake on the whole dang\nworld.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 00 00}",
-   "et": ""
+   "et": "{07 04 00}{01 00 00 0a 00}Oi heldust!{01 00 00 05 00} Vabandust, mu\nväike kaalikas, {01 00 00 0a 00}aga kannad\njuba liiga palju.\n{07 1c 00}Tänapäeva lapsed{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} Arvavad,\net suudavad kogu maailma\nkanda{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{07 00 00}"
   }
  ]
 }

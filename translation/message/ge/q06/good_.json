@@ -4,17 +4,17 @@
   {
    "id": 0,
    "en": "{07 0a 00}See? I TOTALLY told you so,\n{01 00 00 05 00}{04 02 00}!\n\n{07 14 00}My research on {ff 00 00 06}{04 10 00}{ff 00 00 00}\nall these years is FINALLY\npaying off!",
-   "et": ""
+   "et": "{07 0a 00}Näed? Ma TÄIESTI ütlesin,\n{01 00 00 05 00}{04 02 00}!\n\n{07 14 00}Mu uurimistöö {ff 00 00 06}{04 10 00}{ff 00 00 00}\nkõigi nende aastate jooksul\nLÕPUKS tasub end ära!"
   },
   {
    "id": 1,
    "en": "{07 0a 00}Yay!{01 00 00 0a 00} Just like I thought,\n{01 00 00 05 00}{04 02 00}!\n\n{07 14 00}I played it safe, but I was\npretty sure it'd pay off!",
-   "et": ""
+   "et": "{07 0a 00}Jee!{01 00 00 0a 00} Täpselt nagu arvasin,\n{01 00 00 05 00}{04 02 00}!\n\n{07 14 00}Mängisin kindla peale, aga\nolin kindel, et tasub ära!"
   },
   {
    "id": 2,
    "en": "{07 14 00}Great, {01 00 00 05 00}{04 02 00}! {01 01 00}{07 00 00}I kinda\njust picked this one\nrandomly...\n{07 17 00}So I wasn't, y'know, 100%\nsure, {01 00 00 05 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 14 00}Suurepärane, {01 00 00 05 00}{04 02 00}! {01 01 00}{07 00 00}Ma\nvalisin selle kuidagi\njuhuslikult...\n{07 17 00}Nii et ma polnud, tead,\n100% kindel, {01 00 00 05 00}{04 02 00}!"
   }
  ]
 }

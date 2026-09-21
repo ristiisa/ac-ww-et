@@ -4,32 +4,32 @@
   {
    "id": 0,
    "en": "{07 04 00}Oh! {01 00 00 0f 00}{0b 03 00}{04 1f 00}!{01 00 00 14 00} {07 0b 00}You're\n{01 00 00 05 00}alive! {01 00 00 05 00}{0b 03 00}{04 02 00}?",
-   "et": ""
+   "et": "{07 04 00}Oi! {01 00 00 0f 00}{0b 03 00}{04 1f 00}!{01 00 00 14 00} {07 0b 00}Sa oled\n{01 00 00 05 00}elus! {01 00 00 05 00}{0b 03 00}{04 02 00}?"
   },
   {
    "id": 1,
    "en": "{07 02 00}What?!{01 00 00 14 00} {07 0b 00}{01 00 00 05 00}{0b 03 00}{04 1f 00}?{01 01 00}{07 00 00} You're\nso lucky you get a\n{04 11 00}-week-long vacation!\n{07 11 00}While you were away, I went\ninto your house and sat on\nyour bed, {01 00 00 05 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 02 00}Mida?!{01 00 00 14 00} {07 0b 00}{01 00 00 05 00}{0b 03 00}{04 1f 00}?{01 01 00}{07 00 00} Sul on\nnii vedanud, et saad\n{04 11 00} nädalat puhkust!\n{07 11 00}Kuni sa ära olid, käisin ma\nsu majas ja istusin su\nvoodil, {01 00 00 05 00}{04 02 00}!"
   },
   {
    "id": 2,
    "en": "{07 04 00}Oh, {01 00 00 05 00}{04 00 00}!{01 00 00 0f 00}{07 00 00} Wait a\nsec.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} Uh, {01 00 00 05 00}{07 0b 00}did I get your\nname right?\n{07 0e 00}Hmm{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0f 00} {07 0b 00}Are you sure you're\nthe one they call\n{04 1f 00}?\n{07 00 00}Something about you seems\ndifferent, {01 00 00 05 00}{04 02 00}.",
-   "et": ""
+   "et": "{07 04 00}Oi, {01 00 00 05 00}{04 00 00}!{01 00 00 0f 00}{07 00 00} Oota\nhetk.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} Ee, {01 00 00 05 00}{07 0b 00}kas ma sain su\nnime õigesti?\n{07 0e 00}Hmm{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0f 00} {07 0b 00}Oled sa kindel, et\nsind kutsutakse\n{04 1f 00}?\n{07 00 00}Midagi sinus tundub\nteistsugune, {01 00 00 05 00}{04 02 00}."
   },
   {
    "id": 3,
    "en": "{07 14 00}Whoa!{01 00 00 0f 00} Who are you?{07 0b 00}{01 00 00 14 00} I've\nnever seen your face\nbefore{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{07 00 00}\n{07 03 00}Ga ha ha ha!{01 00 00 14 00} {07 00 00}I'm kidding!{01 00 00 05 00}\nI'm kidding! I had you going,\nthough, right?\n{07 14 00}You think a {04 11 00}-week-long\nseparation{01 00 00 05 00} would make me\nforget{01 00 00 05 00} your ugly mug?",
-   "et": ""
+   "et": "{07 14 00}Ohoo!{01 00 00 0f 00} Kes sa oled?{07 0b 00}{01 00 00 14 00} Ma pole\nsinu nägu kunagi\nvarem näinud{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{07 00 00}\n{07 03 00}Ga ha ha haa!{01 00 00 14 00} {07 00 00}Teen nalja!{01 00 00 05 00}\nTeen nalja! Aga ma panin\nsu uskuma, eks?\n{07 14 00}Kas sa arvad, et {04 11 00}\nnädalat eemal{01 00 00 05 00} paneks mind\nunustama{01 00 00 05 00} su inetu moka?"
   },
   {
    "id": 4,
    "en": "{07 0b 00}Whoa!{01 00 00 0f 00} What happened{01 00 00 05 00} to\nyou?!{01 00 00 14 00} {07 00 00}You don't come around\nlike you used to{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 14 00}\n{07 1b 00}How many weeks has it been,\n{01 00 00 05 00}{04 02 00}? {01 00 00 05 00}{04 11 00}?! That's\npractically an eternity!",
-   "et": ""
+   "et": "{07 0b 00}Ohoo!{01 00 00 0f 00} Mis sinuga{01 00 00 05 00}\njuhtus?!{01 00 00 14 00} {07 00 00}Sa ei käi enam nii\nnagu varem{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 14 00}\n{07 1b 00}Mitu nädalat on möödas,\n{01 00 00 05 00}{04 02 00}? {01 00 00 05 00}{04 11 00}?! See on\npraktiliselt igavik!"
   },
   {
    "id": 5,
    "en": "{07 02 00}Hey! {01 00 00 05 00}{0b 03 00}{04 1f 00}!{01 00 00 14 00} Where've\nyou been all this time,\n{01 00 00 05 00}{04 02 00}!\n{07 11 00}I was worried that you'd{01 00 00 05 00}\nfallen into a bottomless\npit or something!",
-   "et": ""
+   "et": "{07 02 00}Hei! {01 00 00 05 00}{0b 03 00}{04 1f 00}!{01 00 00 14 00} Kus sa\nkogu selle aja olid,\n{01 00 00 05 00}{04 02 00}!\n{07 11 00}Ma muretsesin, et sa{01 00 00 05 00}\nkukkusid põhjatusse\nauku või midagi!"
   }
  ]
 }

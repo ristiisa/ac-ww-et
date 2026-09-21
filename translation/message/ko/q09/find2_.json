@@ -4,17 +4,17 @@
   {
    "id": 0,
    "en": "{07 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}Oh, HEY!{01 00 00 05 00} Your hands are\nfull! {01 00 00 05 00}That means I don't\nhave to give you anything!\n{07 00 00}Well, at least until you\nunload your pockets. Come\nback when you do!",
-   "et": ""
+   "et": "{07 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}Oi, HEI!{01 00 00 05 00} Su käed on\ntäis! {01 00 00 05 00}See tähendab, et ma\nei pea sulle midagi andma!\n{07 00 00}Noh, vähemalt seni, kuni sa\ntaskud tühjendad. Tule\nsiis tagasi!"
   },
   {
    "id": 1,
    "en": "{07 00 00}Hey now,{01 00 00 05 00} you're pockets are\nfull of junk, {01 00 00 05 00}{04 02 00}!\n\nWay to go! You just keep\nproving again and again\nthat you don't have a clue!",
-   "et": ""
+   "et": "{07 00 00}Kuule nüüd,{01 00 00 05 00} su taskud on\nrämpsu täis, {01 00 00 05 00}{04 02 00}!\n\nTubli töö! Sa tõestad aina\nuuesti ja uuesti,\net sul pole aimugi!"
   },
   {
    "id": 2,
    "en": "{07 00 00}Huh?! {07 15 00}Hey, greedyhands!{01 00 00 05 00}\nYou can't carry any more\nstuff, {01 00 00 05 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 00 00}Ah?! {07 15 00}Hei, ahnekäpp!{01 00 00 05 00}\nSa ei suuda enam kraami\nkanda, {01 00 00 05 00}{04 02 00}!"
   }
  ]
 }

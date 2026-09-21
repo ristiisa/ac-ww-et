@@ -4,12 +4,12 @@
   {
    "id": 0,
    "en": "{07 06 00}Whoa, just take it easy!{01 00 00 0a 00}\nDon't you have any patience\nat all, {01 00 00 05 00}{04 02 00}?!\n{07 16 00}You gotta gimme some time\nto prepare, y'know!",
-   "et": ""
+   "et": "{07 06 00}Oih, võta rahulikult!{01 00 00 0a 00}\nKas sul pole üldse\nkannatust, {01 00 00 05 00}{04 02 00}?!\n{07 16 00}Sa pead mulle aega andma,\net valmistuda, tead!"
   },
   {
    "id": 1,
    "en": "{07 16 00}Don't you think that's a\nlittle quick, {01 00 00 05 00}{04 02 00}?{01 00 00 05 00}\nI mean, get REAL!\n{07 06 00}I need to put makeup on!{01 00 00 05 00}\nI don't wake up this cute!{01 01 00}\n{07 16 00}Let's meet later!",
-   "et": ""
+   "et": "{07 16 00}Kas sa ei arva, et see on\nveidi kiire, {01 00 00 05 00}{04 02 00}?{01 00 00 05 00}\nMa mõtlen, ole REAALNE!\n{07 06 00}Ma pean meiki panema!{01 00 00 05 00}\nMa ei ärka nii nunnuna!{01 01 00}\n{07 16 00}Kohtume hiljem!"
   }
  ]
 }

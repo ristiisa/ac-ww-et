@@ -4,17 +4,17 @@
   {
    "id": 0,
    "en": "{07 00 00}I want to see you back here\nagain soon.\n\nSo, you've got{ff 00 00 02} 10 minutes{ff 00 00 00}\nto do your task, \n{01 00 00 05 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 00 00}Tahan sind varsti siin\ntagasi näha.\n\nNii et sul on{ff 00 00 02} 10 minutit{ff 00 00 00}\nülesande täitmiseks,\n{01 00 00 05 00}{04 02 00}!"
   },
   {
    "id": 1,
    "en": "{07 00 00}It usually takes{01 00 00 05 00}\nabout {ff 00 00 02}30 minutes{ff 00 00 00} for me to\nchange my mind! {01 00 00 05 00}Get going!",
-   "et": ""
+   "et": "{07 00 00}Mul kulub tavaliselt{01 00 00 05 00}\numbes {ff 00 00 02}30 minutit{ff 00 00 00}, et meelt\nmuuta! {01 00 00 05 00}Liigu nüüd!"
   },
   {
    "id": 2,
    "en": "{07 00 00}Lemme think{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} I wanna give\nit to you while I'm still\nfeeling generous.\n{07 0b 00}So deliver it within\n{ff 00 00 02}1 hour{ff 00 00 00}, all right?",
-   "et": ""
+   "et": "{07 00 00}Las ma mõtlen{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} Tahan\nselle anda, kuni olen\nveel helde.\n{07 0b 00}Nii et too see ära\n{ff 00 00 02}1 tunni{ff 00 00 00} jooksul, eks?"
   }
  ]
 }

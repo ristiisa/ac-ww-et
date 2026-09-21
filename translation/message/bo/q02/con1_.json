@@ -4,17 +4,17 @@
   {
    "id": 0,
    "en": "{07 04 00}Me?{01 01 00} {07 16 00}Not yet{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 14 00} When it\ncomes to catching\n{04 1a 00},\nrushing is a luxury I\njust can't afford,\n{01 00 00 0a 00}{04 02 00}.",
-   "et": ""
+   "et": "{07 04 00}Mina?{01 01 00} {07 16 00}Veel mitte{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 14 00} Kui\njutt käib {04 1a 00}\npüüdmisest,\non kiirustamine luksus,\nmida ma lubada ei saa,\n{01 00 00 0a 00}{04 02 00}."
   },
   {
    "id": 1,
    "en": "{07 04 00}Huh?{01 00 00 14 00} No, I haven't caught\none yet.{01 01 00} But it's not that I\nhaven't had the chance!\n{07 19 00}{0b 03 00}{0b 01 00}{04 1a 00}\nis so common,{01 00 00 0a 00}{07 00 00}{07 0d 00} I wanna get\nthe coolest one possible!",
-   "et": ""
+   "et": "{07 04 00}Ah?{01 00 00 14 00} Ei, pole veel\nühtki püüdnud.{01 01 00} Aga mitte\nvõimaluse puudumise pärast!\n{07 19 00}{0b 03 00}{0b 01 00}{04 1a 00}\non nii tavaline,{01 00 00 0a 00}{07 00 00}{07 0d 00} et tahan\nsaada kõige lahedama!"
   },
   {
    "id": 2,
    "en": "{07 04 00}What!?{01 00 00 14 00} {0b 03 00}{04 1f 00}! You\nalready caught\n{04 1a 00}.\n{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 00 00}What's that you say? {01 00 00 05 00}You\ndidn't?{01 00 00 14 00} {07 14 00}Whew!{01 00 00 14 00} That's good,{01 00 00 0a 00}\n{04 02 00}.",
-   "et": ""
+   "et": "{07 04 00}Mis!?{01 00 00 14 00} {0b 03 00}{04 1f 00}! Sa juba\npüüdsid\n{04 1a 00}.\n{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 00 00}Mis sa ütled? {01 00 00 05 00}Ei\npüüdnud?{01 00 00 14 00} {07 14 00}Ohh!{01 00 00 14 00} Hea küll,{01 00 00 0a 00}\n{04 02 00}."
   }
  ]
 }

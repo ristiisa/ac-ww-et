@@ -4,17 +4,17 @@
   {
    "id": 0,
    "en": "{07 03 00}This fish really freshens\nup the place, {01 00 00 05 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 03 00}See kala värskendab\nkohta tõesti, {01 00 00 05 00}{04 02 00}!"
   },
   {
    "id": 1,
    "en": "{07 00 00}If I keep this thing in my\nroom,{07 13 00}{01 00 00 05 00} will it make it look\nlike a sushi restaurant?",
-   "et": ""
+   "et": "{07 00 00}Kui ma hoian seda asja oma\ntoas,{07 13 00}{01 00 00 05 00} kas see hakkab välja\nnägema nagu sushirestoran?"
   },
   {
    "id": 2,
    "en": "{07 13 00}Sushi{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 14 00} {07 04 00}Whoa!{01 00 00 05 00} That was\nclose.{01 00 00 0f 00} {07 06 00}Oh, {04 02 00}!",
-   "et": ""
+   "et": "{07 13 00}Sushi{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 14 00} {07 04 00}Ohoo!{01 00 00 05 00} See oli\nnapp.{01 00 00 0f 00} {07 06 00}Oi, {04 02 00}!"
   }
  ]
 }

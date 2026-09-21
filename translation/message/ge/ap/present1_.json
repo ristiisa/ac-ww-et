@@ -4,137 +4,137 @@
   {
    "id": 0,
    "en": "{07 14 00}{0b 03 00}{01 06 00}Oh, hey there{01 07 00}!{01 00 00 05 00}\n{0b 03 00}{04 1f 00},{01 00 00 05 00} I'm thinking\nof getting a new pet fish.{07 00 00}\n{06 01 00 03 04 05}",
-   "et": ""
+   "et": "{07 14 00}{0b 03 00}{01 06 00}Oi, tere{01 07 00}!{01 00 00 05 00}\n{0b 03 00}{04 1f 00},{01 00 00 05 00} ma mõtlen\nendale uut lemmikkala\nvõtta.{07 00 00} {06 01 00 03 04 05}"
   },
   {
    "id": 1,
    "en": "{07 14 00}{0b 03 00}{01 06 00}Hey! Hey{01 07 00}!{01 00 00 0a 00}\nI have a really important \nquestion for you!\n{07 00 00}What color do you think\nsuits me the best?{02 03 00 0f 0f 0f 0f 12}\nPink!\nBlue!\nWhite!\nBlack?\nBurnt umber??",
-   "et": ""
+   "et": "{07 14 00}{0b 03 00}{01 06 00}Hei! Hei{01 07 00}!{01 00 00 0a 00}\nMul on sulle üks väga\ntähtis küsimus!\n{07 00 00}Mis värv sinu arust\nmulle kõige rohkem sobib?{02 03 00 0f 0f 0f 0f 12}\nRoosa!\nSinine!\nValge!\nMust?\nPõletatud umbra??"
   },
   {
    "id": 2,
    "en": "{07 14 00}{0b 03 00}{01 06 00}Heya{01 07 00}!{01 00 00 0a 00}\n{0b 03 00}{04 1f 00},{01 01 00} it's time for\na pop quiz!\nIf you pass, I'll give you \nsomething TOTALLY nice!\n\n{06 01 00 14 15 16}",
-   "et": ""
+   "et": "{07 14 00}{0b 03 00}{01 06 00}Tsau{01 07 00}!{01 00 00 0a 00}\n{0b 03 00}{04 1f 00},{01 01 00} aeg on\nvälkviktoriiniks!\nKui läbid, annan sulle\nmidagi TÄIESTI toredat!\n\n{06 01 00 14 15 16}"
   },
   {
    "id": 3,
    "en": "{07 0b 00}What should I name it?{01 00 00 05 00}\nI need a name that's SUPER\ncute, {01 00 00 05 00}{04 02 00}!{02 02 00 1a 1a 1a 1a}\nGoldy.\nCarpo.\nOrville.\nMittens!",
-   "et": ""
+   "et": "{07 0b 00}Mis nime ma sellele panen?{01 00 00 05 00}\nVajan nime, mis on SUPER\nnunnu, {01 00 00 05 00}{04 02 00}!{02 02 00 1a 1a 1a 1a}\nKuldi.\nKarpo.\nOrville.\nKäpikud!"
   },
   {
    "id": 4,
    "en": "{07 00 00}{07 0b 00}So, {04 1f 00},{01 00 00 05 00} do you\nknow any good fish names?{02 03 00 1a 1a 1a 1a 1a}\nSweetie.\nFido.\nSwimmy.\nGill Boy.\nFillet!",
-   "et": ""
+   "et": "{07 00 00}{07 0b 00}Niisiis, {04 1f 00},{01 00 00 05 00} kas\ntead mõnda head kalanime?{02 03 00 1a 1a 1a 1a 1a}\nKullake.\nMuki.\nUjuja.\nLõpusepoiss.\nFilee!"
   },
   {
    "id": 5,
    "en": "{07 0b 00}So what's a good name for\nmy new fish, {01 00 00 05 00}{04 02 00}?{02 02 00 1a 1a 1a 1a}\nRuby.\nSushi.\nJaws.\nMr. Fish!",
-   "et": ""
+   "et": "{07 0b 00}Mis oleks hea nimi mu\nuuele kalale, {01 00 00 05 00}{04 02 00}?{02 02 00 1a 1a 1a 1a}\nRubiin.\nSushi.\nLõuad.\nHärra Kala!"
   },
   {
    "id": 6,
    "en": "{07 1d 00}Yeah! {01 00 00 05 00}That's cool!{01 01 00} I mean,\nREALLY cool!{01 00 00 0a 00} Thanks,\n{01 00 00 05 00}{04 02 00}!\n{07 14 00}OK, {01 00 00 05 00}{04 1f 00},{01 00 00 05 00} since you\nhelped me name my new\nfish,{01 00 00 05 00} I'll give you this!",
-   "et": ""
+   "et": "{07 1d 00}Jaa! {01 00 00 05 00}See on lahe!{01 01 00} Ei, ikka\nTÕESTI lahe!{01 00 00 0a 00} Aitäh,\n{01 00 00 05 00}{04 02 00}!\n{07 14 00}Olgu, {01 00 00 05 00}{04 1f 00},{01 00 00 05 00} kuna sa\naitasid mul kalale nime\npanna,{01 00 00 05 00} annan sulle selle!"
   },
   {
    "id": 7,
    "en": "{06 01 00 08 09 0a}",
-   "et": ""
+   "et": "{06 01 00 08 09 0a}"
   },
   {
    "id": 8,
    "en": "{07 15 00}And TAKE CARE OF IT, OK?!\nIt wasn't easy finding\n{04 1b 00}!\nSo don't go crazy and drop\nchocolate ice cream on it,\n{01 00 00 05 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 15 00}Ja HOIA SEDA, eks?!\nSeda polnud kerge leida:\n{04 1b 00}!\nÄra siis hulluks mine ja\naja sellele jäätist\npeale, {01 00 00 05 00}{04 02 00}!"
   },
   {
    "id": 9,
    "en": "{07 14 00}Here!!{01 00 00 05 00} It's not much, but I\nreally want you to have my\n{0b 02 00}{04 1b 00}!\nLove it like it was your\nown...{01 00 00 0f 00}because it TOTALLY is\nnow, {01 00 00 05 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 14 00}Säh!!{01 00 00 05 00} Pole palju, aga ma\ntahan väga, et sul oleks mu\n{0b 02 00}{04 1b 00}!\nArmasta seda nagu enda\noma...{01 00 00 0f 00}sest see ONGI nüüd\nsinu oma, {01 00 00 05 00}{04 02 00}!"
   },
   {
    "id": 10,
    "en": "{07 14 00}Here ya go!{01 00 00 05 00} Take my\n{0b 02 00}{04 1b 00}!\n\n{07 00 00}It's not worth very much,{01 00 00 05 00}\nbut take care of it anyway,\n{01 00 00 05 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 14 00}Palun väga!{01 00 00 05 00} Võta minu\n{0b 02 00}{04 1b 00}!\n\n{07 00 00}See pole eriti väärtuslik,{01 00 00 05 00}\naga hoia seda ikkagi,\n{01 00 00 05 00}{04 02 00}!"
   },
   {
    "id": 11,
    "en": "{07 16 00}What?!{01 00 00 0a 00} No way!{01 01 00}\nI mean, sorry and all,{01 00 00 05 00} but\nthat's pretty lame-o.\n{06 01 00 0c 0d 0e}",
-   "et": ""
+   "et": "{07 16 00}Mis?!{01 00 00 0a 00} Ei või olla!{01 01 00}\nVabandust ja nii,{01 00 00 05 00} aga\nsee on päris lääge.\n{06 01 00 0c 0d 0e}"
   },
   {
    "id": 12,
    "en": "{07 15 00}Wow!{01 00 00 05 00} I can't believe that\nyou have such bad taste in\nfish names, {01 00 00 05 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 15 00}Vau!{01 00 00 05 00} Uskumatu, et sul on\nkalanimede osas nii halb\nmaitse, {01 00 00 05 00}{04 02 00}!"
   },
   {
    "id": 13,
    "en": "{07 16 00}Um.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}can't you come up with\nsomething a little better,\n{01 00 00 05 00}{04 02 00}?{01 00 00 05 00} Anything?",
-   "et": ""
+   "et": "{07 16 00}Ee.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}kas sa ei suudaks\nmidagi natuke paremat,\n{01 00 00 05 00}{04 02 00}?{01 00 00 05 00} Ükskõik mida?"
   },
   {
    "id": 14,
    "en": "{07 19 00}Now I know what kind of\ntaste you have...{01 00 00 0a 00} Pretty\nsuspect, if you ask me!!",
-   "et": ""
+   "et": "{07 19 00}Nüüd ma tean, milline\nmaitse sul on...{01 00 00 0a 00} Päris\nkahtlane, kui minult küsid!!"
   },
   {
    "id": 15,
    "en": "{06 01 00 10 11 11}",
-   "et": ""
+   "et": "{06 01 00 10 11 11}"
   },
   {
    "id": 16,
    "en": "{07 0e 00}Um{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}yeah, I guess that's a\nnice color,{01 00 00 05 00} but I don't know\nif it's really ME...\n{07 16 00}Hmm...{01 00 00 05 00} Maybe this question\nwas too tough for you, \n{01 00 00 05 00}{04 02 00}.",
-   "et": ""
+   "et": "{07 0e 00}Ee{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}jah, vist on kena\nvärv,{01 00 00 05 00} aga ma ei tea, kas\nsee on päriselt MINA...\n{07 16 00}Hmm...{01 00 00 05 00} Ehk oli see küsimus\nsinu jaoks liiga raske,\n{01 00 00 05 00}{04 02 00}."
   },
   {
    "id": 17,
    "en": "{07 14 00}Yes!{01 00 00 14 00} That's definitely me,\n{01 00 00 05 00}{04 02 00}!\n\n{07 0a 00}OK!{01 00 00 05 00} Now that you helped me,\nI'm gonna give you this,\n{01 00 00 05 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 14 00}Jaa!{01 00 00 14 00} See olen mina,\n{01 00 00 05 00}{04 02 00}!\n\n{07 0a 00}Olgu!{01 00 00 05 00} Kuna sa mind aitasid,\nannan sulle selle,\n{01 00 00 05 00}{04 02 00}!"
   },
   {
    "id": 18,
    "en": "{06 01 00 10 13 13}",
-   "et": ""
+   "et": "{06 01 00 10 13 13}"
   },
   {
    "id": 19,
    "en": "{07 04 00}Hey{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}HEY!!{01 01 00} {07 15 00}Are you saying\nthat I'm a total loser? Is\nthat it?!\n{07 16 00}I mean,{01 00 00 05 00} sure, th-there are\ntimes when I look a little\ng-grungy or something...\n{07 06 00}B-but I'm always beautiful\non the INSIDE, {01 00 00 05 00}{04 02 00}!{03 03 00 01}",
-   "et": ""
+   "et": "{07 04 00}Hei{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}HEI!!{01 01 00} {07 15 00}Kas sa ütled,\net ma olen täielik luuser?\nOn nii?!\n{07 16 00}No et,{01 00 00 05 00} ikka, o-on hetki,\nmil ma näen veidi\nk-kasimatu välja...\n{07 06 00}A-aga ma olen alati ilus\nSEESPOOLT, {01 00 00 05 00}{04 02 00}!{03 03 00 01}"
   },
   {
    "id": 20,
    "en": "{07 11 00}Question!!{01 01 00} {07 00 00}{07 0b 00}What did I have\nfor DINNER last night?{02 03 00 17 17 17 17 17}\nFish.\nApples.\nBiscotti.\nA cracker.\nUm...nothing?",
-   "et": ""
+   "et": "{07 11 00}Küsimus!!{01 01 00} {07 00 00}{07 0b 00}Mida ma sõin\neile ÕHTUSÖÖGIKS?{02 03 00 17 17 17 17 17}\nKala.\nÕunu.\nBiskotot.\nKreekerit.\nEe...mitte midagi?"
   },
   {
    "id": 21,
    "en": "{07 11 00}Question!!{01 01 00} {07 00 00}{07 0b 00}What did I eat\nfor LUNCH last week?{02 03 00 17 17 17 17 17}\nA sandwich.\nLasagna.\nRice.\nExtra rice?\nFive pickles.",
-   "et": ""
+   "et": "{07 11 00}Küsimus!!{01 01 00} {07 00 00}{07 0b 00}Mida ma sõin\neelmisel nädalal LÕUNAKS?{02 03 00 17 17 17 17 17}\nVõileiba.\nLasanjet.\nRiisi.\nVeel riisi?\nViis hapukurki."
   },
   {
    "id": 22,
    "en": "{07 11 00}Question!!{01 01 00} {07 00 00}{07 0b 00}What did I eat\nfor DESSERT two months\nago?{02 03 00 17 17 17 17 17}\nPie!\nCake!\nIce cream!\nUh, kibble?\nFish!",
-   "et": ""
+   "et": "{07 11 00}Küsimus!!{01 01 00} {07 00 00}{07 0b 00}Mida ma sõin\nkaks kuud tagasi\nMAGUSTOIDUKS?{02 03 00 17 17 17 17 17}\nPirukat!\nKooki!\nJäätist!\nEe, koeratoitu?\nKala!"
   },
   {
    "id": 23,
    "en": "{06 01 00 18 18 19}",
-   "et": ""
+   "et": "{06 01 00 18 18 19}"
   },
   {
    "id": 24,
    "en": "{07 04 00}Correct!{01 00 00 14 00} Wow, you got it on\nthe VERY FIRST try!\nHow cool, {01 00 00 05 00}{04 02 00}!\n{07 14 00}OK, {01 00 00 05 00}I'm gonna give you the\nprize,{01 00 00 05 00} so hold out your\nhands!",
-   "et": ""
+   "et": "{07 04 00}Õige!{01 00 00 14 00} Vau, sa said selle\nKOHE ESIMESEL korral!\nKui lahe, {01 00 00 05 00}{04 02 00}!\n{07 14 00}Olgu, {01 00 00 05 00}ma annan sulle\nauhinna,{01 00 00 05 00} siis siruta oma\nkäed välja!"
   },
   {
    "id": 25,
    "en": "{07 15 00}NO!{01 00 00 0a 00} That is WAY WRONG!{01 01 00}\n{07 14 00}Soooo...{01 00 00 05 00}that means that\nyou get...{01 00 00 0f 00}NOTHING!\n{07 16 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}Ohhh,{01 00 00 05 00} don't look so sad!{01 00 00 0a 00}\nC'mon, we can try this\nagain later. I promise!",
-   "et": ""
+   "et": "{07 15 00}EI!{01 00 00 0a 00} See on TÄIESTI VALE!{01 01 00}\n{07 14 00}Niiii...{01 00 00 05 00}see tähendab, et\nsa saad...{01 00 00 0f 00}MITTE MIDAGI!\n{07 16 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}Ohhh,{01 00 00 05 00} ära ole nii kurb!{01 00 00 0a 00}\nMe võime hiljem uuesti\nproovida. Ma luban!"
   },
   {
    "id": 26,
    "en": "{06 01 00 06 06 0b}",
-   "et": ""
+   "et": "{06 01 00 06 06 0b}"
   }
  ]
 }

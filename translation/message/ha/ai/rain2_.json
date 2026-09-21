@@ -4,32 +4,32 @@
   {
    "id": 0,
    "en": "{07 14 00}I love the sound of rain!{01 00 00 05 00}\nYeah!{01 00 00 05 00} Unh!{01 00 00 05 00} Pow! {01 00 00 05 00}Rain solo!{01 00 00 05 00}\nFeel it, {01 00 00 05 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 14 00}Ma armastan vihma häält!{01 00 00 05 00}\nJaa!{01 00 00 05 00} Unh!{01 00 00 05 00} Pauh! {01 00 00 05 00}Vihmasoolo!{01 00 00 05 00}\nTunne seda, {01 00 00 05 00}{04 02 00}!"
   },
   {
    "id": 1,
    "en": "{07 14 00}It's raining as hard as I\nsweat, {01 00 00 05 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 14 00}Sajab sama kõvasti kui ma\nhigistan, {01 00 00 05 00}{04 02 00}!"
   },
   {
    "id": 2,
    "en": "{0b 03 00}{01 06 00}It's POURING{01 07 00}!{01 00 00 0a 00}\nStay dry, {04 1f 00}!",
-   "et": ""
+   "et": "{0b 03 00}{01 06 00}SADAB KUI OAVARREST{01 07 00}!{01 00 00 0a 00}\nPüsi kuiv, {04 1f 00}!"
   },
   {
    "id": 3,
    "en": "{07 14 00}{0b 03 00}{01 06 00}Yo, yo, yo{01 07 00}!{01 00 00 05 00}\nHey, it's {04 1f 00} stew!",
-   "et": ""
+   "et": "{07 14 00}{0b 03 00}{01 06 00}Jou, jou, jou{01 07 00}!{01 00 00 05 00}\nHei, see on {04 1f 00}-supp!"
   },
   {
    "id": 4,
    "en": "{07 16 00}Wonder how long it's gonna\nkeep raining...",
-   "et": ""
+   "et": "{07 16 00}Huvitav, kui kaua see\nsadamine kestab..."
   },
   {
    "id": 5,
    "en": "{0b 03 00}{01 06 00}Yo, yo{01 07 00}!{01 00 00 0a 00}\n{07 14 00}It's really comin' down,\n{01 00 00 05 00}{04 02 00}!",
-   "et": ""
+   "et": "{0b 03 00}{01 06 00}Jou, jou{01 07 00}!{01 00 00 0a 00}\n{07 14 00}Praegu kallab tõesti,\n{01 00 00 05 00}{04 02 00}!"
   }
  ]
 }

@@ -4,17 +4,17 @@
   {
    "id": 0,
    "en": "{07 14 00}Psst!{01 00 00 0a 00} {0b 03 00}{04 1f 00}, I'll show\nit to you...{01 00 00 0a 00} But ONLY you!{01 00 00 0f 00}\nDon't tell anyone!",
-   "et": ""
+   "et": "{07 14 00}Pst!{01 00 00 0a 00} {0b 03 00}{04 1f 00}, ma näitan\nseda sulle...{01 00 00 0a 00} AINULT sulle!{01 00 00 0f 00}\nÄra ütle kellelegi!"
   },
   {
    "id": 1,
    "en": "{07 14 00}I like you, {01 00 00 05 00}{04 02 00}, so{01 00 00 0f 00}\nI'm going to show you my\nletter{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} Ready?",
-   "et": ""
+   "et": "{07 14 00}Sa meeldid mulle, {01 00 00 05 00}{04 02 00},{01 00 00 0f 00}\nnii et ma näitan sulle oma\nkirja{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} Valmis?"
   },
   {
    "id": 2,
    "en": "{07 14 00}Shhhhhh! {0b 03 00}{04 1f 00}, I'll\nshow you the letter, OK?{01 00 00 05 00}\nIt'll be our little secret!",
-   "et": ""
+   "et": "{07 14 00}Tsssss! {0b 03 00}{04 1f 00}, ma\nnäitan sulle kirja, eks?{01 00 00 05 00}\nSee jääb meie saladuseks!"
   }
  ]
 }

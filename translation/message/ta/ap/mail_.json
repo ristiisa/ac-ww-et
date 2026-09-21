@@ -4,97 +4,97 @@
   {
    "id": 0,
    "en": "{07 00 00}Hey, {01 00 00 05 00}{04 1f 00},{01 00 00 0a 00} would you\ntake a look at this letter\nI got from a friend?",
-   "et": ""
+   "et": "{07 00 00}Hei, {01 00 00 05 00}{04 1f 00},{01 00 00 0a 00} kas sa\nvaataksid seda kirja,\nmille ma sõbralt sain?"
   },
   {
    "id": 1,
    "en": "{07 15 00}Hey, {01 00 00 05 00}{01 00 00 05 00}{04 1f 00},{01 00 00 14 00} a friend\nof mine sent me this\nletter here.",
-   "et": ""
+   "et": "{07 15 00}Hei, {01 00 00 05 00}{01 00 00 05 00}{04 1f 00},{01 00 00 14 00} üks mu\nsõber saatis mulle\nselle kirja."
   },
   {
    "id": 2,
    "en": "{07 00 00}Hi, {01 00 00 05 00}{04 1f 00}.{01 00 00 05 00} {07 0b 00}Would you\nlike to see something? {01 00 00 0a 00}Of\ncourse you would.\n{07 16 00}This super weird letter{01 00 00 05 00}\njust appeared in my mailbox\none day.",
-   "et": ""
+   "et": "{07 00 00}Tere, {01 00 00 05 00}{04 1f 00}.{01 00 00 05 00} {07 0b 00}Kas sa\ntahaksid midagi näha? {01 00 00 0a 00}\nMuidugi tahad.\n{07 16 00}See ülimalt imelik kiri{01 00 00 05 00}\nilmus ühel päeval lihtsalt\nmu postkasti."
   },
   {
    "id": 3,
    "en": "{07 00 00}By the way, {04 1f 00}, I\njust gotta show you this\nweird letter I got!",
-   "et": ""
+   "et": "{07 00 00}Muide, {04 1f 00}, ma pean\nsulle näitama seda\nimelikku kirja, mille sain!"
   },
   {
    "id": 4,
    "en": "{07 0b 00}So, what do you think of\nit?{02 01 00 05 06 07}\nSounds friendly!\nNot good...\nWhy?",
-   "et": ""
+   "et": "{07 0b 00}Nii, mida sa sellest\narvad?{02 01 00 05 06 07}\nKõlab sõbralikult!\nPole hea...\nMiks?"
   },
   {
    "id": 5,
    "en": "{07 04 00}Yeah?{01 00 00 14 00}{07 00 00} I thought so, too.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 0a 00}\nBut don't you think it's a\nlittle{07 11 00}.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 0a 00}TOO friendly?",
-   "et": ""
+   "et": "{07 04 00}Jah?{01 00 00 14 00}{07 00 00} Mina arvasin ka.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 0a 00}\nAga kas sa ei arva, et see\non veidi{07 11 00}.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 0a 00}LIIGA sõbralik?"
   },
   {
    "id": 6,
    "en": "{07 19 00}{01 00 00 05 00}Well{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00} I think ordinary\npeople would definitely\nfeel that way.{07 00 00}\nBut.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} {07 13 00}I'm anything but\nordinary!{01 00 00 0a 00} And the smell of\nintrigue is alluring to me{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.",
-   "et": ""
+   "et": "{07 19 00}{01 00 00 05 00}Noh{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00} Ma arvan, et\ntavalised inimesed tunneksid\nkindlasti nii.{07 00 00}\nAga.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} {07 13 00}mina pole üldse\ntavaline!{01 00 00 0a 00} Ja intriigi lõhn\non mulle ahvatlev{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}."
   },
   {
    "id": 7,
    "en": "{07 09 00}Oh.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} I just wanted your\nopinion, is all. {07 1b 00}I've been\ncraving some excitement.\nI was hoping that this\nletter had a coded message\nthat you could help decode.\n{07 01 00}Ugh!{01 00 00 0f 00} There's absolutely no\nexcitement in real life,\n{01 00 00 0a 00}{04 02 00}!{07 15 00}",
-   "et": ""
+   "et": "{07 09 00}Oh.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} Ma tahtsin lihtsalt su\narvamust, ongi kõik. {07 1b 00}Ma olen\nigatsenud natuke põnevust.\nMa lootsin, et selles\nkirjas on kodeeritud sõnum,\nmille sa aitaksid lahti\nmuukida. {07 01 00}Öök!{01 00 00 0f 00} Pärismaailmas\npole täiesti mingit\npõnevust, {01 00 00 0a 00}{04 02 00}!{07 15 00}"
   },
   {
    "id": 8,
    "en": "{07 00 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00}{07 04 00}W-{01 00 00 0a 00}what is it?!{01 00 00 14 00} Why did\nyou suddenly go all quiet?\n{01 01 00}{07 0b 00}Is it really scandalous?",
-   "et": ""
+   "et": "{07 00 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00}{07 04 00}M-{01 00 00 0a 00}mis see on?!{01 00 00 14 00} Miks sa\näkki nii vaikseks jäid?\n{01 01 00}{07 0b 00}Kas see on skandaalne?"
   },
   {
    "id": 9,
    "en": "{07 1b 00}You see?{01 00 00 14 00} You really gotta\nfocus when you're reading\nit!\n{06 00 00 0b 0c}",
-   "et": ""
+   "et": "{07 1b 00}Näed?{01 00 00 14 00} Sa pead tõesti\nkeskenduma, kui seda\nloed!\n{06 00 00 0b 0c}"
   },
   {
    "id": 10,
    "en": "{07 1c 00}{01 00 00 05 00}Writing me a letter like\nthis must be really boring.{01 01 00}\n{07 1b 00}And I must be really bored,\ntoo, 'cause I'm actually\nshowing you this snoozefest\nof a letter!",
-   "et": ""
+   "et": "{07 1c 00}{01 00 00 05 00}Sellise kirja kirjutamine\nmulle peab olema tõeliselt\nigav.{01 01 00} {07 1b 00}Ja mul peab ka igav\nolema, sest ma tõesti\nnäitan sulle seda\nuinutavat kirja!"
   },
   {
    "id": 11,
    "en": "{07 1b 00}Terrible writing, isn't it?{01 00 00 14 00}\n{07 15 00}I had the worst time trying\nto decode it!\n{07 19 00}Why would someone send\nsomething like this?{01 00 00 0a 00} It's\njust embarrassing.{07 00 00}",
-   "et": ""
+   "et": "{07 1b 00}Kohutav kirjutis, kas pole?{01 00 00 14 00}\n{07 15 00}Mul oli kõige raskem üritada\nseda lahti muukida!\n{07 19 00}Miks keegi saadaks\nmidagi sellist?{01 00 00 0a 00} See on\nlihtsalt piinlik.{07 00 00}"
   },
   {
    "id": 12,
    "en": "{07 14 00}Nice handwriting, wouldn't\nyou say?{01 01 00} {07 19 00}Yep, that one's a\ngood friend of mine!{07 00 00}",
-   "et": ""
+   "et": "{07 14 00}Kena käekiri, kas sa ei\nütleks?{01 01 00} {07 19 00}Jah, see on üks\nmu hea sõber!{07 00 00}"
   },
   {
    "id": 13,
    "en": "{07 0b 00}Do you think it was a\npractical joke or something\nelse?\n{07 14 00}I kept it because it was\nkinda funny, {01 00 00 0a 00}{04 02 00}.",
-   "et": ""
+   "et": "{07 0b 00}Kas sinu arust oli see\nvempu või midagi\nmuud? {07 14 00}Ma\njätsin selle alles, sest see\noli üsna naljakas, {01 00 00 0a 00}{04 02 00}."
   },
   {
    "id": 14,
    "en": "{07 15 00}It's a very weird letter, \n{07 19 00}but in some ways, it's right\non target!\n{07 14 00}Oh, well,{01 00 00 05 00} whatever{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 0f 00} It's\nkind of funny, {01 00 00 0a 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 15 00}See on väga imelik kiri,\n{07 19 00}aga mõnes mõttes on see\ntäpselt sihis!\n{07 14 00}No mis seal,{01 00 00 05 00} ükskõik{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 0f 00} See\non üsna naljakas, {01 00 00 0a 00}{04 02 00}!"
   },
   {
    "id": 15,
    "en": "{07 0e 00}{01 00 00 0a 00}Is this, like, poetry or\nsomething?{01 01 00} {07 16 00}It sounds kinda\nstupid to me{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.",
-   "et": ""
+   "et": "{07 0e 00}{01 00 00 0a 00}Kas see on, nagu, luule või\nmidagi?{01 01 00} {07 16 00}Mulle kõlab see üsna\nrumalalt{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}."
   },
   {
    "id": 16,
    "en": "{06 01 00 04 08 09}",
-   "et": ""
+   "et": "{06 01 00 04 08 09}"
   },
   {
    "id": 17,
    "en": "{06 01 00 04 09 0a}",
-   "et": ""
+   "et": "{06 01 00 04 09 0a}"
   },
   {
    "id": 18,
    "en": "{06 01 00 0d 0e 0f}",
-   "et": ""
+   "et": "{06 01 00 0d 0e 0f}"
   }
  ]
 }

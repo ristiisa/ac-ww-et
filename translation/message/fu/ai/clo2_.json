@@ -4,17 +4,17 @@
   {
    "id": 0,
    "en": "{07 14 00}Hey, take a look at this,{01 00 00 05 00}\n{01 00 00 05 00}{04 1f 00}!{01 01 00}\n{07 0b 00}So? What do you think?\n{07 14 00}{ff 00 00 05}{04 14 00}{ff 00 00 00} sent it to me\nin the mail, along with a\nnice letter, {01 00 00 05 00}{04 02 00}.\nIsn't {ff 00 00 05}{04 14 00} {ff 00 00 00}sweet?{01 00 00 05 00}\nAnd such impeccable taste\nin clothes, too!\nI wish everyone were so\nnice.{01 00 00 0f 00} {07 13 00}I {01 00 00 05 00}love it,\n{01 00 00 05 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 14 00}Hei, vaata seda,{01 00 00 05 00}\n{01 00 00 05 00}{04 1f 00}!{01 01 00}\n{07 0b 00}Nii? Mida sa arvad?\n{07 14 00}{ff 00 00 05}{04 14 00}{ff 00 00 00} saatis selle mulle\npostiga koos kena\nkirjaga, {01 00 00 05 00}{04 02 00}.\nKas {ff 00 00 05}{04 14 00} {ff 00 00 00}pole armas?{01 00 00 05 00}\nJa nii laitmatu riidemaitse\nka veel!\nSoovin, et kõik oleksid nii\nkenad.{01 00 00 0f 00} {07 13 00}Mulle {01 00 00 05 00}väga meeldib,\n{01 00 00 05 00}{04 02 00}!"
   },
   {
    "id": 1,
    "en": "{07 14 00}{0b 03 00}{04 1f 00}!{01 00 00 0f 00} You like the\n{0b 02 00}{04 1b 00}\nI'm wearing?\nWell, guess what.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n{ff 00 00 05}{04 14 00} {ff 00 00 00}sent it to me,\n{01 00 00 05 00}{04 02 00}!\n{07 17 00}What do you think?{01 00 00 0a 00} Isn't\nthe cut perfect? It fits\nme like a glove!\n{07 13 00}I had no idea {ff 00 00 05}{04 14 00}{ff 00 00 00}\ncared so much about me!",
-   "et": ""
+   "et": "{07 14 00}{0b 03 00}{04 1f 00}!{01 00 00 0f 00} Sulle meeldib\n{0b 02 00}{04 1b 00},\nmida ma kannan?\nNoh, arva ära.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n{ff 00 00 05}{04 14 00} {ff 00 00 00}saatis selle mulle,\n{01 00 00 05 00}{04 02 00}!\n{07 17 00}Mida sa arvad?{01 00 00 0a 00} Kas lõige\npole täiuslik? See istub\nnagu valatud!\n{07 13 00}Ma ei teadnud, et {ff 00 00 05}{04 14 00}{ff 00 00 00}\nminust nii palju hoolib!"
   },
   {
    "id": 2,
    "en": "{07 04 00}Oh, {01 00 00 05 00}{04 1f 00}!{01 00 00 0a 00} Do you\nnotice anything new about\nme, {01 00 00 05 00}{04 02 00}?{07 00 00}{01 00 00 0f 00}\nMy {0b 02 00}{04 1b 00}!\n{07 17 00}It was a present from my\ndear friend {ff 00 00 05}{04 14 00}{ff 00 00 00}.\n{07 0a 00}It made me so happy!{01 00 00 05 00} I\ndidn't even want to take it\noff, so I just slept in it!\n{07 0d 00}I wish I had a million of\nthese, so I could keep\nwearing them forever!",
-   "et": ""
+   "et": "{07 04 00}Oh, {01 00 00 05 00}{04 1f 00}!{01 00 00 0a 00} Kas sa\nmärkad minu juures midagi\nuut, {01 00 00 05 00}{04 02 00}?{07 00 00}{01 00 00 0f 00}\nMu {0b 02 00}{04 1b 00}!\n{07 17 00}See oli kingitus mu\nkallilt sõbralt {ff 00 00 05}{04 14 00}{ff 00 00 00}.\n{07 0a 00}See tegi mu nii rõõmsaks!{01 00 00 05 00}\nMa ei tahtnud seda ära\nvõtta, magasin selles!\n{07 0d 00}Soovin, et mul oleks miljon\nneid, et saaksin neid\nigavesti kanda!"
   }
  ]
 }

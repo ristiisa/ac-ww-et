@@ -4,17 +4,17 @@
   {
    "id": 0,
    "en": "{07 14 00}I'm so psyched to play with\nmy bug,{01 00 00 0a 00} {04 02 00}!",
-   "et": ""
+   "et": "{07 14 00}Olen nii elevil, et saan\nputukaga mängida,{01 00 00 0a 00} {04 02 00}!"
   },
   {
    "id": 1,
    "en": "{07 17 00}I've put a bug in my room!{01 01 00}\n{07 14 00}It looks awesome, right?",
-   "et": ""
+   "et": "{07 17 00}Panin putuka oma tuppa!{01 01 00}\n{07 14 00}Näeb vinge välja, eks?"
   },
   {
    "id": 2,
    "en": "{07 14 00}My new life with my pet bug\nis about to begin.\n\n{07 19 00}I bet we'll learn a lot\nabout each other by living\ntogether.{07 00 00}",
-   "et": ""
+   "et": "{07 14 00}Mu uus elu lemmikputukaga\nhakkab algama.\n\n{07 19 00}Küllap õpime koos elades\nteineteise kohta palju\njuurde.{07 00 00}"
   }
  ]
 }

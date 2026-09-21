@@ -4,17 +4,17 @@
   {
    "id": 0,
    "en": "{07 00 00}You went above and beyond\nin helping me out{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 14 00} {07 14 00}Thank\nyou, {01 00 00 0a 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 00 00}Sa läksid mind aidates\nkaugemale kui vaja{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 14 00} {07 14 00}Aitäh\nsulle, {01 00 00 0a 00}{04 02 00}!"
   },
   {
    "id": 1,
    "en": "{07 14 00}I see you in a totally\ndifferent light now.{01 00 00 14 00} Thank\nyou, {01 00 00 05 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 14 00}Ma näen sind nüüd täiesti\nteises valguses.{01 00 00 14 00} Aitäh\nsulle, {01 00 00 05 00}{04 02 00}!"
   },
   {
    "id": 2,
    "en": "{07 14 00}I can't thank you enough!{01 00 00 05 00}\nYou really helped me out of\na jam, {01 00 00 05 00}{04 02 00}.",
-   "et": ""
+   "et": "{07 14 00}Ma ei suuda sind piisavalt\ntänada!{01 00 00 05 00} Sa aitasid mu\nhädast välja, {01 00 00 05 00}{04 02 00}."
   }
  ]
 }

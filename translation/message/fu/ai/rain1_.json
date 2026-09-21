@@ -4,62 +4,62 @@
   {
    "id": 0,
    "en": "{07 14 00}{0b 03 00}{01 06 00}Good morning{01 07 00}!{01 00 00 0f 00}\nHow are you, {04 1f 00}?\n\nThe way it looks right now,{01 00 00 05 00}\nit's going to be raining all\nday, {01 00 00 05 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 14 00}{0b 03 00}{01 06 00}Tere hommikust{01 07 00}!{01 00 00 0f 00}\nKuidas läheb, {04 1f 00}?\n\nNii nagu praegu paistab,{01 00 00 05 00}\nsajab terve päeva,\n{01 00 00 05 00}{04 02 00}!"
   },
   {
    "id": 1,
    "en": "{07 14 00}{0b 03 00}{01 06 00}Good mornin'{01 07 00}!{01 00 00 0f 00}\nListen, don't let this\nweather get you down.\n{07 0d 00}Don't pout! Play! Jump in a\npuddle! Enjoy the rain!",
-   "et": ""
+   "et": "{07 14 00}{0b 03 00}{01 06 00}Tere hommikust{01 07 00}!{01 00 00 0f 00}\nKuule, ära lase sel ilmal\nend kurvaks teha.\n{07 0d 00}Ära mossita! Mängi! Hüppa\nlompi! Naudi vihma!"
   },
   {
    "id": 2,
    "en": "{0b 03 00}{01 06 00}Goood morning{01 07 00}!\n{01 00 00 05 00}{0b 03 00}{04 02 00}! You look like\nyou're enjoying the rain.\nYou know.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} {07 14 00}{01 00 00 0a 00}If there's one\nthing I hate, it's that wet\nhuman smell, {01 00 00 05 00}{04 1f 00}!",
-   "et": ""
+   "et": "{0b 03 00}{01 06 00}Tereee hommikust{01 07 00}!\n{01 00 00 05 00}{0b 03 00}{04 02 00}! Sa paistad\nvihma nautivat.\nTead.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} {07 14 00}{01 00 00 0a 00}Kui on üks asi,\nmida vihkan, siis on see\nmärja hais, {01 00 00 05 00}{04 1f 00}!"
   },
   {
    "id": 3,
    "en": "Rainy days always make me\nfeel a little{01 00 00 05 00} nostalgic,\nyou know, {04 1f 00}?\nIt reminds me of how I\nused to feel...{01 00 00 05 00}\n\nStaring outside and\nwatching the rain fall.",
-   "et": ""
+   "et": "Vihmased päevad teevad mu\nalati natuke{01 00 00 05 00} nostalgiliseks,\ntead küll, {04 1f 00}?\nSee meenutab mulle, kuidas\nma varem tundsin...{01 00 00 05 00}\n\nVaadates välja ja\nvaadates vihma sadamist."
   },
   {
    "id": 4,
    "en": "{07 14 00}{0b 03 00}{01 06 00}Oh, hi{01 07 00}!\nIsn't it a nice day? I just\nlove the rain.\n{07 19 00}Rain washes away all the\ndirt and makes everything\nfeel new, {01 00 00 05 00}{04 02 00}.\n{07 00 00}Which is all well and good,\nbut I'm getting a little\nsick of it, {01 00 00 05 00}{04 02 00}.",
-   "et": ""
+   "et": "{07 14 00}{0b 03 00}{01 06 00}Oh, tere{01 07 00}!\nKas pole kena päev? Mulle\nlihtsalt meeldib vihm.\n{07 19 00}Vihm peseb ära mustuse\nja teeb kõik uueks,\n{01 00 00 05 00}{04 02 00}.\n{07 00 00}See on kõik hea ja ilus,\naga mul hakkab sellest\nnatuke kõrini, {01 00 00 05 00}{04 02 00}."
   },
   {
    "id": 5,
    "en": "Tell me something,\n{04 1f 00}.{01 00 00 0a 00} {07 0b 00}Do you like\nrainy days?\n{07 14 00}I do. I like them quite a\nbit, {01 00 00 05 00}{04 02 00}.\n\nIt's almost like the world\nhas been veiled in the\nsound of falling rain.\nI love that quiet time when\nall I can hear is the sound\nof raindrops.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{04 02 00}.",
-   "et": ""
+   "et": "Ütle mulle midagi,\n{04 1f 00}.{01 00 00 0a 00} {07 0b 00}Kas sulle meeldib\nvihmane päev?\n{07 14 00}Mulle küll. Mulle meeldivad\nnad päris palju, {01 00 00 05 00}{04 02 00}.\n\nOn peaaegu nagu maailm\noleks loori taha peidetud\nsadava vihma helis.\nMa armastan seda vaikset\naega, kui kuulen ainult\nvihmapiisku.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{04 02 00}."
   },
   {
    "id": 6,
    "en": "{07 14 00}{0b 03 00}{04 1f 00},{01 00 00 05 00} is that you? {01 00 00 0a 00}I\nhaven't seen you all day!\n\n{07 0b 00}Where have you been?\nScampering about in the\nrain, {01 00 00 05 00}{04 02 00}?\n{07 14 00}You know what? I kind of\nlike walking around in the\nrain, too, {01 00 00 05 00}{04 02 00}.",
-   "et": ""
+   "et": "{07 14 00}{0b 03 00}{04 1f 00},{01 00 00 05 00} oled see sina? {01 00 00 0a 00}Ma\npole sind päeva näinud!\n\n{07 0b 00}Kus sa olnud oled?\nSähvid vihma käes\nringi, {01 00 00 05 00}{04 02 00}?\n{07 14 00}Tead mida? Mulle meeldib ka\nvihma käes ringi\njalutada, {01 00 00 05 00}{04 02 00}."
   },
   {
    "id": 7,
    "en": "{0b 03 00}{01 06 00}Well, well! Good evening{01 07 00}!{01 00 00 0a 00}\n{07 0b 00}Did you waste your whole\nday inside today?\nReading a book, {01 00 00 05 00}{07 00 00}drinking a\ncup of {04 18 00},\nmaybe watching a movie?\n{07 14 00}Now that I think about it,\nthat's not a bad way to\nspend a day, {01 00 00 05 00}{04 02 00}.",
-   "et": ""
+   "et": "{0b 03 00}{01 06 00}Noh, noh! Tere õhtust{01 07 00}!{01 00 00 0a 00}\n{07 0b 00}Kas sa raiskasid terve\npäeva toas?\nLugedes raamatut, {01 00 00 05 00}{07 00 00}juues\ntassi {04 18 00},\nvõib-olla filmi vaadates?\n{07 14 00}Nüüd kui ma mõtlen, pole\nsee halb viis päeva\nveeta, {01 00 00 05 00}{04 02 00}."
   },
   {
    "id": 8,
    "en": "{07 14 00}Oh, {04 1f 00}!{01 00 00 05 00}\n{0b 03 00}{01 06 00}Good evening{01 07 00}!\n\n{07 00 00}It's cold, it's getting dark,\nand this rain just won't let\nup, {01 00 00 05 00}{04 02 00}!\n{07 19 00}I think it's just about time\nI went home and had a nice,\nhot cup of tea.",
-   "et": ""
+   "et": "{07 14 00}Oh, {04 1f 00}!{01 00 00 05 00}\n{0b 03 00}{01 06 00}Tere õhtust{01 07 00}!\n\n{07 00 00}On külm, läheb pimedaks\nja see vihm ei anna\njärele, {01 00 00 05 00}{04 02 00}!\n{07 19 00}Ma arvan, et on just aeg\nminna koju ja juua kena\nkuum tass teed."
   },
   {
    "id": 9,
    "en": "{07 04 00}{0b 03 00}{01 06 00}Wow{01 07 00}!{01 00 00 0f 00}\n{07 0b 00}What on earth are you doing\nout in this rain?\n{07 00 00}Is something bothering\nyou? Is the rain getting\nyou down?\n{07 14 00}Well, don't you worry!{01 01 00}\n{07 19 00}This rain won't last\nforever, {01 00 00 05 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 04 00}{0b 03 00}{01 06 00}Vau{01 07 00}!{01 00 00 0f 00}\n{07 0b 00}Mida sa küll siin vihma\nkäes teed?\n{07 00 00}Kas miski vaevab sind?\nKas vihm teeb sind\nkurvaks?\n{07 14 00}Noh, ära muretse!{01 01 00}\n{07 19 00}See vihm ei kesta\nigavesti, {01 00 00 05 00}{04 02 00}!"
   },
   {
    "id": 10,
    "en": "{07 14 00}{0b 03 00}{01 06 00}Good evening{01 07 00}.\nThe rain always makes me\nfeel a little poetic.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\nDeep upon the night, \nThe rainfall echoes sweetly.\nClouds begin to break.",
-   "et": ""
+   "et": "{07 14 00}{0b 03 00}{01 06 00}Tere õhtust{01 07 00}.\nVihm teeb mind alati\nnatuke poeetiliseks.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\nSügaval öös, \nvihmasadu kajab magusalt.\nPilved hakkavad hajuma."
   },
   {
    "id": 11,
    "en": "The rain{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} It's not\nstopping, {01 00 00 0a 00}{04 1f 00}.\n\n{07 0f 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}Maybe it's me. Maybe rain\nfollows me everywhere I go,\n{01 00 00 05 00}{04 02 00}.{01 00 00 0f 00} Stupid rain.",
-   "et": ""
+   "et": "Vihm{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} See ei\nlõpe, {01 00 00 0a 00}{04 1f 00}.\n\n{07 0f 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}Ehk olen see mina. Ehk\njärgneb vihm mulle kõikjale,\n{01 00 00 05 00}{04 02 00}.{01 00 00 0f 00} Rumal vihm."
   }
  ]
 }

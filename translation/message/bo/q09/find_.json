@@ -4,17 +4,17 @@
   {
    "id": 0,
    "en": "{07 14 00}What?{01 00 00 05 00} You found me? No\nway! {07 0e 00}I was trying so hard!{01 00 00 05 00}\nI wasn't even breathing{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 14 00}You could go pro with this,\n{01 00 00 05 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 14 00}Mis?{01 00 00 05 00} Sa leidsid mind? Ei\nvõi olla! {07 0e 00}Ma pingutasin nii!{01 00 00 05 00}\nMa ei hinganudki{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 14 00}Sa võiksid selles proffiks\nhakata, {01 00 00 05 00}{04 02 00}!"
   },
   {
    "id": 1,
    "en": "{01 08 00}{ff 00 00 04}GRUMBLE GRUMBLE GRRRRROWL!{01 01 00}\n{ff 00 00 00}.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}{07 14 00}Huh huh huh!{01 00 00 05 00} You must\nhave heard my belly.\n{07 17 00}Stupid belly always gives me\naway,{01 00 00 05 00}{04 02 00}!",
-   "et": ""
+   "et": "{01 08 00}{ff 00 00 04}KORIN KORIN KRRRRAUH!{01 01 00}\n{ff 00 00 00}.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}{07 14 00}Hah hah haa!{01 00 00 05 00} Sa pidid\nkuulma mu kõhtu.\n{07 17 00}Rumal kõht annab mind alati\nära,{01 00 00 05 00}{04 02 00}!"
   },
   {
    "id": 2,
    "en": "{07 04 00}Ack!{01 00 00 05 00} You found me after all!{01 01 00}\n{07 16 00}I hope I never get on your\nbad side!",
-   "et": ""
+   "et": "{07 04 00}Ahh!{01 00 00 05 00} Sa leidsid mind ikkagi!{01 01 00}\n{07 16 00}Loodan, et ei satu kunagi\nsinuga tülli!"
   }
  ]
 }

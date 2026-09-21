@@ -4,17 +4,17 @@
   {
    "id": 0,
    "en": "YOU DID IT! {01 00 00 05 00}You got me\n{04 1c 00}!{01 00 00 0a 00}\nOh, it's sooooo nice!\n.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}Really?{01 00 00 0a 00} I can have it?{01 00 00 0a 00}\nThanks! {01 00 00 0a 00}Sorry if I sounded\nall mad about it before.",
-   "et": ""
+   "et": "SA TEGID SEDA! {01 00 00 05 00}Sa said mulle\n{04 1c 00}!{01 00 00 0a 00}\nOh, see on nii kena!\n.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}Tõesti?{01 00 00 0a 00} Ma võin selle\nsaada?{01 00 00 0a 00} Aitäh! {01 00 00 0a 00}Vabandust, kui\nma enne pahane kõlasin."
   },
   {
    "id": 1,
    "en": "{07 00 00}{07 0b 00}Huh?{01 00 00 05 00} You're giving me\n{04 1c 00}?{01 00 00 05 00}\nTruly, {01 00 00 05 00}{04 02 00}?\n{07 00 00}{07 14 00}Wow, {04 1f 00}! {01 00 00 05 00}You're so\nsuper generous!{01 01 00} I can't\nwait to try it on!",
-   "et": ""
+   "et": "{07 00 00}{07 0b 00}Ah?{01 00 00 05 00} Sa annad mulle\n{04 1c 00}?{01 00 00 05 00}\nTõesti, {01 00 00 05 00}{04 02 00}?\n{07 00 00}{07 14 00}Vau, {04 1f 00}! {01 00 00 05 00}Sa oled nii\nülihelde!{01 01 00} Ma ei jõua ära\noodata, et seda proovida!"
   },
   {
    "id": 2,
    "en": "{0b 03 00}{04 1c 00}?!{01 00 00 0f 00}\nAre you giving it to me,\n{01 00 00 05 00}{04 02 00}?\nYAY! Thanks, {04 1f 00}!{01 00 00 0a 00}\nI'll try it on now!",
-   "et": ""
+   "et": "{0b 03 00}{04 1c 00}?!{01 00 00 0f 00}\nKas sa annad selle mulle,\n{01 00 00 05 00}{04 02 00}?\nJEE! Aitäh, {04 1f 00}!{01 00 00 0a 00}\nProovin selle kohe selga!"
   }
  ]
 }

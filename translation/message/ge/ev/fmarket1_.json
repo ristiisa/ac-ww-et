@@ -4,32 +4,32 @@
   {
    "id": 0,
    "en": "{07 04 00}Oh, yeah{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}. The {ff 00 00 03}Flea Market\n{ff 00 00 00}is today, right?\n\n{07 06 00}I have to go! I've got this\nnasty old couch I want to\nsell, {01 00 00 05 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 04 00}Ah jaa{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}. {ff 00 00 03}Kirbuturg\n{ff 00 00 00}on täna, eks?\n\n{07 06 00}Ma pean minema! Mul on üks\njälk vana diivan, mida tahan\nmüüa, {01 00 00 05 00}{04 02 00}!"
   },
   {
    "id": 1,
    "en": "{07 14 00}So today is that {ff 00 00 03}Flea\nMarket{ff 00 00 00} everyone has been\ntalking about!\n{07 00 00}I should go check out\neveryone's stuff,\n{01 00 00 05 00}{04 02 00}!\n{07 0d 00}Wouldn't it be SWEET if\nsomeone was selling an\nedible marshmallow chair?!",
-   "et": ""
+   "et": "{07 14 00}Nii et täna on see {ff 00 00 03}kirbu-\nturg{ff 00 00 00}, millest kõik on\nrääkinud!\n{07 00 00}Ma peaksin minema kõigi\nkraami vaatama,\n{01 00 00 05 00}{04 02 00}!\n{07 0d 00}Kas poleks MAGUS, kui keegi\nmüüks söödavat\nvahukommitooli?!"
   },
   {
    "id": 2,
    "en": "{07 15 00}I can't wait to stock up on\nused furniture at the\n{ff 00 00 03}Flea Market{ff 00 00 00}!{01 00 00 05 00}\n{07 0e 00}Furniture is cooler when\nit looks a little loved,\ndon't you think?",
-   "et": ""
+   "et": "{07 15 00}Ma ei jõua ära oodata, et\n{ff 00 00 03}kirbuturult{ff 00 00 00} kasutatud\nmööblit varuda!{01 00 00 05 00}\n{07 0e 00}Mööbel on lahedam, kui see\nnäeb natuke armastatud\nvälja, kas pole?"
   },
   {
    "id": 3,
    "en": "{07 00 00}Hey {04 1f 00}, {07 0b 00}do you\nhave any furniture that you\nwant to sell, {01 00 00 05 00}{04 02 00}?\n{07 14 00}Then you better hurry back\nto your place and see if\nsomeone shows up to buy it!",
-   "et": ""
+   "et": "{07 00 00}Hei {04 1f 00}, {07 0b 00}kas sul on\nmööblit, mida tahaksid\nmüüa, {01 00 00 05 00}{04 02 00}?\n{07 14 00}Siis kiirusta parem koju ja\nvaata, kas keegi tuleb\nseda ostma!"
   },
   {
    "id": 4,
    "en": "{07 00 00}You've got loads of cute\nstuff I want to buy!\n\n{07 16 00}But the thing is, {01 00 00 05 00}{01 00 00 05 00}I can't\nbuy any of it unless you go\nback home!\n{07 01 00}And you DO NOT want to get\nbetween me and a sweet\ndeal, {01 00 00 05 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 00 00}Sul on hunnik nunnut\nkraami, mida tahan osta!\n\n{07 16 00}Aga asi on selles, {01 00 00 05 00}{01 00 00 05 00}et ma ei\nsaa midagi osta, kui sa\nkoju ei lähe!\n{07 01 00}Ja sa EI TAHA jääda minu\nja hea tehingu\nvahele, {01 00 00 05 00}{04 02 00}!"
   },
   {
    "id": 5,
    "en": "{07 04 00}{01 00 00 05 00}{0b 03 00}{04 1f 00}!{01 00 00 0a 00} {07 0b 00}What are you\ndoing here, {01 00 00 05 00}{04 02 00}?!\n\n{07 16 00}I've already rummaged\nthrough everyone else's\nfurniture!\n{07 1c 00}You're the last hope! If you\ndon't have cool stuff to\nbuy, {07 10 00}I'll be shattered!",
-   "et": ""
+   "et": "{07 04 00}{01 00 00 05 00}{0b 03 00}{04 1f 00}!{01 00 00 0a 00} {07 0b 00}Mida sa\nsiin teed, {01 00 00 05 00}{04 02 00}?!\n\n{07 16 00}Ma olen juba kõigi teiste\nmööbli läbi\ntuhninud!\n{07 1c 00}Sa oled viimane lootus! Kui\nsul pole lahedat kraami\nmüüa, {07 10 00}olen ma purustatud!"
   }
  ]
 }

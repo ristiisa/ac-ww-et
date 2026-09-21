@@ -4,42 +4,42 @@
   {
    "id": 0,
    "en": "{07 15 00}You know, {01 00 00 0f 00}I really like\nfishing by myself,\n{01 00 00 05 00}{04 02 00}.\nI guess what I'm trying to\nsay is, {01 00 00 05 00}\"SCRAM, {01 00 00 05 00}{04 02 00}!\"\nNow do you get it?",
-   "et": ""
+   "et": "{07 15 00}Tead, {01 00 00 0f 00}mulle meeldib väga\nüksi kalastada,\n{01 00 00 05 00}{04 02 00}.\nMa üritan vist öelda, et\n{01 00 00 05 00}„KAO, {01 00 00 05 00}{04 02 00}!”\nNüüd saad aru?"
   },
   {
    "id": 1,
    "en": "{07 15 00}I'm going to catch me\n{04 1a 00} today.{01 00 00 0f 00}\nYou know what, {01 00 00 05 00}{04 02 00}?\nI can't focus when I feel\nlike I'm being watched, so\ngo away, would you?!",
-   "et": ""
+   "et": "{07 15 00}Ma püüan täna endale\n{04 1a 00}.{01 00 00 0f 00}\nTead mida, {01 00 00 05 00}{04 02 00}?\nMa ei suuda keskenduda,\nkui tunnen, et mind\njälgitakse, nii et kao!"
   },
   {
    "id": 2,
    "en": "{07 19 00}When you think fishing, you\nshould think {04 01 00}.{01 00 00 14 00}\n\nAnd when you think\n{04 01 00}, you should\nthink fishing{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 15 00}Yeah, {01 00 00 0f 00}that about sums it\nup, {01 00 00 05 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 19 00}Kui sa mõtled kalale, siis\nmõtle {04 01 00}ile.{01 00 00 14 00}\n\nJa kui sa mõtled\n{04 01 00}ile, peaksid\nmõtlema kalapüügile{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 15 00}Jah, {01 00 00 0f 00}see võtab asja kokku,\n{01 00 00 05 00}{04 02 00}!"
   },
   {
    "id": 3,
    "en": "{07 16 00}Do you mind, {01 00 00 05 00}{04 1f 00}?{01 00 00 14 00}\nWould you stop following me\naround, {01 00 00 05 00}{04 02 00}?\n{07 11 00}I'm going to my top-secret\nfishing spot, and I'm gonna\ncatch {04 1a 00}!",
-   "et": ""
+   "et": "{07 16 00}Ega pahanda, {01 00 00 05 00}{04 1f 00}?{01 00 00 14 00}\nKas sa lõpetaksid mulle\njärgnemise, {01 00 00 05 00}{04 02 00}?\n{07 11 00}Ma lähen oma ülisalajasse\nkalapaika ja püüan\n{04 1a 00}!"
   },
   {
    "id": 4,
    "en": "{07 14 00}It's been a while, but I\nfinally dusted off my\nfishing gear.\nNow all I gotta do is decide\nwhere I wanna drop my line!\n{01 00 00 05 00}{0b 03 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 14 00}On aega läinud, aga ma\nlõpuks tolmutasin oma\nkalavarustuse üles.\nNüüd pean vaid otsustama,\nkuhu õnge visata!\n{01 00 00 05 00}{0b 03 00}{04 02 00}!"
   },
   {
    "id": 5,
    "en": "What? What do you want,\n{01 00 00 05 00}{04 1f 00}?{01 00 00 14 00} Oh, I get it. \nMan, you're so transparent.\n{07 0b 00}You wanna go fishing, huh?\n{07 15 00}If that's it, just shut up \nand follow me, {01 00 00 05 00}{04 02 00}.",
-   "et": ""
+   "et": "Mis? Mida sa tahad,\n{01 00 00 05 00}{04 1f 00}?{01 00 00 14 00} Oh, sain aru. \nPoiss, oled läbinähtav.\n{07 0b 00}Sa tahad kalale minna, mis?\n{07 15 00}Kui nii, siis ole vait \nja järgne mulle, {01 00 00 05 00}{04 02 00}."
   },
   {
    "id": 6,
    "en": "Hey! You wanna go catch{07 0b 00}\n{04 1a 00} with me?\n\n{07 14 00}Yeah, I could really use\nsomeone to help carry my\nstuff, {01 00 00 05 00}{04 02 00}!",
-   "et": ""
+   "et": "Hei! Kas tahad minuga{07 0b 00}\n{04 1a 00} püüdma?\n\n{07 14 00}Jah, mul kuluks ära keegi,\nkes aitaks mu kraami\nkanda, {01 00 00 05 00}{04 02 00}!"
   },
   {
    "id": 7,
    "en": "{07 16 00}Actually,{01 00 00 05 00} I'm not obsessed\nwith fish or anything. {01 00 00 0a 00}I can\ntake it or leave it, really.\n{07 19 00}But you're not really a man\n{01 00 00 0f 00}'til you can say you caught\n{04 1a 00}!",
-   "et": ""
+   "et": "{07 16 00}Tegelikult{01 00 00 05 00} pole ma kalade\njärele hull. {01 00 00 0a 00}Võin\nvõtta või jätta, tõesti.\n{07 19 00}Aga sa pole tõeline mees\n{01 00 00 0f 00}enne, kui saad öelda, et\npüüdsid {04 1a 00}!"
   }
  ]
 }

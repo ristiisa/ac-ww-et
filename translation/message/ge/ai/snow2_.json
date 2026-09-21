@@ -4,32 +4,32 @@
   {
    "id": 0,
    "en": "{07 14 00}{0b 03 00}{01 06 00}Cold day{01 07 00}!\nBrrrrrr!{01 00 00 05 00} I need, like,{01 00 00 05 00} a\nparka or something.",
-   "et": ""
+   "et": "{07 14 00}{0b 03 00}{01 06 00}Külm päev{01 07 00}!\nBrrrrr!{01 00 00 05 00} Mul on vaja, nagu,{01 00 00 05 00}\nparkat või midagi."
   },
   {
    "id": 1,
    "en": "{07 14 00}{0b 03 00}{01 06 00}Um, like, hi{01 07 00}!\n{01 00 00 05 00}{0b 03 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 14 00}{0b 03 00}{01 06 00}Ee, nagu, tere{01 07 00}!\n{01 00 00 05 00}{0b 03 00}{04 02 00}!"
   },
   {
    "id": 2,
    "en": "Omigosh, {04 1f 00}!{01 00 00 05 00} {07 14 00}It's,\nlike, soooo cold,{01 00 00 05 00}\n{04 02 00}!",
-   "et": ""
+   "et": "Ohjumal, {04 1f 00}!{01 00 00 05 00} {07 14 00}On,\nnagu, nii külm,{01 00 00 05 00}\n{04 02 00}!"
   },
   {
    "id": 3,
    "en": "{07 07 00}I th-think it's gonna\ns-stop snowing t-tonight, {01 00 00 05 00}\n{04 02 00}!",
-   "et": ""
+   "et": "{07 07 00}Ma a-arvan, et lumi\nl-lõpeb t-täna õhtul, {01 00 00 05 00}\n{04 02 00}!"
   },
   {
    "id": 4,
    "en": "{07 14 00}Wow, {01 00 00 0a 00}I think this snow is...{01 00 00 05 00}\n{07 00 00}{07 0a 00}Just like me, {01 00 00 05 00}{04 02 00}!\n'Cause it's fun!{01 00 00 05 00} And stuff.",
-   "et": ""
+   "et": "{07 14 00}Vau, {01 00 00 0a 00}see lumi on vist...{01 00 00 05 00}\n{07 00 00}{07 0a 00}Just nagu mina, {01 00 00 05 00}{04 02 00}!\nSest see on lõbus!{01 00 00 05 00} Ja nii."
   },
   {
    "id": 5,
    "en": "{07 07 00}It's a l-lot c-c-colder\ntoday, {01 00 00 05 00}{04 02 00}! M-my\nbrains are f-freezing!",
-   "et": ""
+   "et": "{07 07 00}Täna on p-palju\nk-k-külmem, {01 00 00 05 00}{04 02 00}!\nM-mu aju k-külmub!"
   }
  ]
 }

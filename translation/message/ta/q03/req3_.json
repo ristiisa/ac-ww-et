@@ -4,17 +4,17 @@
   {
    "id": 0,
    "en": "{07 00 00}Hey, {01 00 00 14 00}{07 0b 00}{04 1f 00}, do you\nknow anything about the\n{ff 00 00 02}{04 0f 00}{ff 00 00 00}?\n{07 00 00}{ff 00 00 06}Blathers {ff 00 00 00}told me about it a\nwhile back.{01 01 00} And according to\n{ff 00 00 02}Ms. Nintendique{ff 00 00 00},\n{07 13 00}{ff 00 00 02}{04 0f 00} {ff 00 00 00}bones\ncan also hydrate your skin!\n{01 01 00}{07 00 00}Don't ask me how it works.",
-   "et": ""
+   "et": "{07 00 00}Hei, {01 00 00 14 00}{07 0b 00}{04 1f 00}, kas sa\ntead midagi\n{ff 00 00 02}{04 0f 00}{ff 00 00 00} kohta?\n{07 00 00}{ff 00 00 06}Blathers {ff 00 00 00}rääkis mulle\nsellest mõni aeg tagasi.{01 01 00} Ja {ff 00 00 02}\npreili Nintendique{ff 00 00 00}i sõnul\n{07 13 00}{ff 00 00 02}{04 0f 00} {ff 00 00 00}luud\nniisutavad ka nahka!\n{01 01 00}{07 00 00}Ära küsi, kuidas see toimib."
   },
   {
    "id": 1,
    "en": "{07 0b 00}Why is it{01 00 00 0a 00} that when I look\nat a fossil, I feel so\ncomforted, {01 00 00 0a 00}{04 02 00}?\n{07 19 00}Especially the\n{ff 00 00 02}{04 0f 00}{ff 00 00 00}! {01 00 00 0a 00}I bet\nit's 'cause it's so scary!{07 00 00}\n{07 14 00}Yeah, it would totally scare\noff intruders! {01 00 00 0a 00}One look at\nit and they'd run away!",
-   "et": ""
+   "et": "{07 0b 00}Miks on nii,{01 00 00 0a 00} et kui vaatan\nfossiili, tunnen ma end nii\nlohutatult, {01 00 00 0a 00}{04 02 00}?\n{07 19 00}Eriti\n{ff 00 00 02}{04 0f 00}{ff 00 00 00}! {01 00 00 0a 00}Kindlasti\nsest see on nii hirmus!{07 00 00}\n{07 14 00}Jah, see peletaks vargad\ntäiesti eemale! {01 00 00 0a 00}Üks pilk\nja nad jooksevad minema!"
   },
   {
    "id": 2,
    "en": "{07 14 00}You know, {01 00 00 0a 00}I used to be a\nbig fossil collector, \n{01 00 00 0a 00}{04 02 00}.\n{07 00 00}I had lots of fossils, {07 14 00}but\nthe {ff 00 00 02}{04 0f 00} \n{ff 00 00 00}was always my favorite.\n{07 19 00}Yep, {01 00 00 05 00}those were the good\nold days...{01 01 00} Maybe I should\ngo find it again.{07 00 00}",
-   "et": ""
+   "et": "{07 14 00}Tead, {01 00 00 0a 00}ma olin kunagi\nsuur fossiilikoguja,\n{01 00 00 0a 00}{04 02 00}.\n{07 00 00}Mul oli palju fossiile, {07 14 00}aga\n{ff 00 00 02}{04 0f 00}\n{ff 00 00 00}oli alati mu lemmik.\n{07 19 00}Jah, {01 00 00 05 00}need olid head vanad\najad...{01 01 00} Ehk peaksin\nselle uuesti üles otsima.{07 00 00}"
   }
  ]
 }

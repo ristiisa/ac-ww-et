@@ -4,442 +4,442 @@
   {
    "id": 0,
    "en": "Welcome, welcome!{01 00 00 0a 00}\nPlease!{01 00 00 05 00} Feel free to look\naround.{01 00 00 05 00} Take your time!",
-   "et": ""
+   "et": "Tere tulemast!{01 00 00 0a 00}\nPalun!{01 00 00 05 00} Vaata julgelt\nringi.{01 00 00 05 00} Võta aega!"
   },
   {
    "id": 1,
    "en": "Thanks much!{01 00 00 0f 00}\nPlease, do come again.{01 00 00 05 00}\nWe'll be waiting, hm?",
-   "et": ""
+   "et": "Suur tänu!{01 00 00 0f 00}\nTulge palun jälle.{01 00 00 05 00}\nMe ootame, ah?"
   },
   {
    "id": 2,
    "en": "Yes, yes, {01 00 00 05 00}{04 00 00},{01 00 00 0a 00} I\nwant you to know we'll be\nclosed {04 16 00} {04 17 00}.\nI know it's sudden,{01 00 00 0a 00} but we\nare expanding, so it's all\nfor the best, hm?\nYou'll benefit in the end,\nso I hope you understand.{01 00 00 05 00} \nBenefits for all, you see?",
-   "et": ""
+   "et": "Jah, jah, {01 00 00 05 00}{04 00 00},{01 00 00 0a 00} ma\ntahan, et sa teaksid: me\nsuletud {04 16 00} {04 17 00}.\nTean, see on ootamatu,{01 00 00 0a 00} aga\nme laieneme, nii et see on\nkõigi huvides, ah?\nSa võidad sellest lõpuks,\nnii et loodan, et mõistad.{01 00 00 05 00} \nKasu kõigile, näed sa?"
   },
   {
    "id": 3,
    "en": "{07 04 00}Oh!{01 00 00 0f 00}{07 00 00} This is the carpet I had\nordered from {ff 00 00 06}Saharah{ff 00 00 00}!{01 00 00 05 00} \nWhat a surprise, hm?\n{0b 03 00}{04 00 00},{01 00 00 0a 00}{07 0b 00} did you come\nall the way here just to\ndeliver this to me?{01 00 00 0f 00}\n{07 0a 00}Well, thanks much!{01 00 00 05 00} And good\nwork, I must say! {01 00 00 05 00}Tell\n{ff 00 00 06}Saharah{ff 00 00 00} I said hi, yes?",
-   "et": ""
+   "et": "{07 04 00}Oh!{01 00 00 0f 00}{07 00 00} See on vaip, mille ma\n{ff 00 00 06}Saharah'lt{ff 00 00 00} tellisin!{01 00 00 05 00} \nMilline üllatus, ah?\n{0b 03 00}{04 00 00},{01 00 00 0a 00}{07 0b 00} kas sa tulid\nkogu selle tee siia, et\nsee mulle tuua?{01 00 00 0f 00}\n{07 0a 00}Noh, suur tänu!{01 00 00 05 00} Ja tubli\ntöö, pean ütlema! {01 00 00 05 00}Ütle\n{ff 00 00 06}Saharah'le{ff 00 00 00} tervitusi, jah?"
   },
   {
    "id": 4,
    "en": ".{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00}What is it you want to\ndo, hm?",
-   "et": ""
+   "et": ".{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00}Mida sa tahad\nteha, ah?"
   },
   {
    "id": 5,
    "en": "{07 0b 00}Yes, yes, how can I help\nyou, hm?{02 04 00 03 0f}\nDelivery!\nNever mind.",
-   "et": ""
+   "et": "{07 0b 00}Jah, jah, kuidas saan sind\naidata, ah?{02 04 00 03 0f}\nSaadetis!\nPole midagi."
   },
   {
    "id": 6,
    "en": "Yes,{01 00 00 05 00} yes!{01 00 00 0a 00} What can I do\nfor you?{02 06 00 07 00 00 15}\nI want to sell!\nCatalog, please!\nTurnip prices!\nNothing, really.",
-   "et": ""
+   "et": "Jah,{01 00 00 05 00} jah!{01 00 00 0a 00} Mida saan sinu\nheaks teha?{02 06 00 07 00 00 15}\nTahan müüa!\nKataloog, palun!\nNaeri hind!\nTegelikult ei midagi."
   },
   {
    "id": 7,
    "en": "In that case,{01 00 00 0a 00} show me the\nitems you'd like to sell!",
-   "et": ""
+   "et": "Sel juhul{01 00 00 0a 00} näita mulle\nesemeid, mida tahad müüa!"
   },
   {
    "id": 8,
    "en": "Oh, too bad.{01 00 00 0f 00} Is there\nsomething else I can do?{02 06 00 07 00 00 15}\nSell! Sell! Sell!\nCatalog, please!\nTurnip prices!\nNo, thanks!",
-   "et": ""
+   "et": "Oh, kahju.{01 00 00 0f 00} Kas saan\nveel midagi teha?{02 06 00 07 00 00 15}\nTahan müüa!\nKataloog, palun!\nNaeri hind!\nEi, aitäh!"
   },
   {
    "id": 9,
    "en": "I see.{01 00 00 0f 00} Well, if there is\nanything you need,{01 00 00 05 00} do not\nhesitate to ask.",
-   "et": ""
+   "et": "Selge.{01 00 00 0f 00} Noh, kui sul on\nmidagi vaja,{01 00 00 05 00} küsi\njulgelt."
   },
   {
    "id": 10,
    "en": "I'm awfully sorry,{01 00 00 05 00} but I\ncan't buy that sort of\nthing! {01 00 00 05 00}You understand, yes?\nHowever,{01 00 00 05 00} if you don't need\nit, I could{01 00 00 0f 00} take it off your\nhands...\nCan I have it?{02 04 00 0b 0c}\nSure.\nSorry.",
-   "et": ""
+   "et": "Mul on väga kahju,{01 00 00 05 00} aga\nma ei saa sellist asja\nosta! {01 00 00 05 00}Mõistad, jah?\nKuid{01 00 00 05 00} kui sa seda ei vaja,\nvõiksin{01 00 00 0f 00} selle su käest\nära võtta...\nKas võin selle saada?{02 04 00 0b 0c}\nIkka.\nVabandust."
   },
   {
    "id": 11,
    "en": "Yes!{01 00 00 05 00} Yes!{01 00 00 05 00} OHHHHH, YES!\n\n\nI don't really want it,{01 00 00 0f 00} but\ndisposing of unneeded items{01 00 00 05 00}\nis but one of my services!\nSo, is there anything else I\ncan do for you?{02 06 00 07 00 00 15}\nI want to sell!\nCatalog, please!\nTurnip prices!\nNothing, really.",
-   "et": ""
+   "et": "Jah!{01 00 00 05 00} Jah!{01 00 00 05 00} OHHHH, JAH!\n\n\nMa ei taha seda,{01 00 00 0f 00} aga\nprügi äravedu{01 00 00 05 00}\non üks mu teenustest!\nNii et kas saan sinu heaks\nveel midagi teha?{02 06 00 07 00 00 15}\nTahan müüa!\nKataloog, palun!\nNaeri hind!\nTegelikult ei midagi."
   },
   {
    "id": 12,
    "en": "I suppose one can develop\nan attachment{01 00 00 0a 00} to just\nabout anything, hm?\nWell,{01 00 00 05 00} is there anything else\nI can do for you?{02 06 00 07 00 00 15}\nI want to sell!\nCatalog, please!\nTurnip prices!\nNothing, really.",
-   "et": ""
+   "et": "Vist võib millegi külge\nkiinduda{01 00 00 0a 00} peaaegu\niga asja puhul, ah?\nNoh,{01 00 00 05 00} kas saan sinu heaks\nveel midagi teha?{02 06 00 07 00 00 15}\nTahan müüa!\nKataloog, palun!\nNaeri hind!\nTegelikult ei midagi."
   },
   {
    "id": 13,
    "en": "I'm terribly sorry,{01 00 00 0f 00} but the\nstalk market is closed on\nSundays.{01 00 00 05 00}.{01 00 00 05 00}.",
-   "et": ""
+   "et": "Mul on väga kahju,{01 00 00 0f 00} aga\nnaeriturg on pühapäeviti\nsuletud{01 00 00 05 00}.{01 00 00 05 00}."
   },
   {
    "id": 14,
    "en": "Let's see,{01 00 00 05 00} all together, I'll\npay {04 0f 00} Bells for\neverything!{02 04 00 00 08}\nWe have a deal!\nNo, thanks.",
-   "et": ""
+   "et": "Vaatame,{01 00 00 05 00} kokku maksan\nma {04 0f 00} kella\nkõige eest!{02 04 00 00 08}\nKäed löödud!\nEi, aitäh."
   },
   {
    "id": 15,
    "en": "{07 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}Well then, what can I do\nfor you, hm?{02 06 00 07 00 00 15}\nI wanna sell!\nCatalog, please!\nTurnip prices?\nNothing.",
-   "et": ""
+   "et": "{07 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}Noh siis, mida saan sinu\nheaks teha, ah?{02 06 00 07 00 00 15}\nTahan müüa!\nKataloog, palun!\nNaeri hind?\nMitte midagi."
   },
   {
    "id": 16,
    "en": "{07 00 00}This {ff 00 00 07}timer{ff 00 00 00} can also be used\nas a stopwatch, yes?\n\nPick it in your {ff 00 00 01}pocket{ff 00 00 00},\nselect a length of time,{01 00 00 05 00}\nand PRESTO!\n{07 19 00}Like magic, your clock will \ntransform into a{ff 00 00 07} timer \n{ff 00 00 00}right there{ff 00 00 07} {ff 00 00 00}on your screen!\n{07 00 00}It'll come in handy when\nplaying hide-and-seek or\ntag with out-of-towners!\nUsing this to count down\nthe time will surely add an\n{07 0d 00}element of excitement, hm?\n{07 00 00}Also,{01 00 00 05 00} this handy device will\ncount the number of fish\nand bugs you've caught!\nYes, it tracks how many\nyou've nabbed in a certain\namount of time, so...\n...it might be fun to use it\nin a fishing or bug-\ncatching competition, yes?",
-   "et": ""
+   "et": "{07 00 00}Seda {ff 00 00 07}taimerit{ff 00 00 00} saab kasutada\nka stopperina, jah?\n\nVali see {ff 00 00 01}taskust{ff 00 00 00},\nmäära ajapikkus{01 00 00 05 00}\nja PRESTO!\n{07 19 00}Nagu võluväel muutub kell \n{ff 00 00 07}taimeriks \n{ff 00 00 00}otse{ff 00 00 07} {ff 00 00 00}sinu ekraanil!\n{07 00 00}See kulub ära, kui mängid\npeitust või kulli\nvõõraste külalistega!\nSelle abil aja lugemine\nlisab kindlasti\n{07 0d 00}põnevust, ah?\n{07 00 00}Samuti{01 00 00 05 00} loeb see käepärane\nseade, mitu kala ja\nputukat sa püüdnud oled!\nJah, see jälgib, mitu sa\noled teatud aja jooksul\npüüdnud, nii et...\n...seda on lõbus kasutada\nkalapüügi- või putuka-\nvõistlusel, jah?"
   },
   {
    "id": 17,
    "en": "{07 04 00}Oh???\n\n\n{07 00 00}You seem to have put a\nrather precious item in\nwith this group, yes?\n{07 0b 00}Are you sure you want to\nsell it?\n\n{07 00 00}I'd gladly pay {04 0f 00}\nBells for it, but{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.{02 04 00 00 58}\nI'll sell it.\nNever mind.",
-   "et": ""
+   "et": "{07 04 00}Oh???\n\n\n{07 00 00}Sa oled vist pannud\nsellesse hulka üsna\nväärtusliku eseme, jah?\n{07 0b 00}Kas sa oled kindel, et\ntahad seda müüa?\n\n{07 00 00}Maksaksin meeleldi {04 0f 00}\nkella, aga{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.{02 04 00 00 58}\nMüün ära.\nPole midagi."
   },
   {
    "id": 18,
    "en": "{07 14 00}Thank you much!{01 00 00 0f 00} {07 00 00}Is there\nanything else I can do for\nyou?{02 06 00 07 00 00 15}\nI wanna sell!\nCatalog, please!\nTurnip prices!\nI'm done!",
-   "et": ""
+   "et": "{07 14 00}Suur tänu!{01 00 00 0f 00} {07 00 00}Kas saan\nsinu heaks veel midagi\nteha?{02 06 00 07 00 00 15}\nTahan müüa!\nKataloog, palun!\nNaeri hind!\nOlen valmis!"
   },
   {
    "id": 19,
    "en": "{07 04 00}Ah,{01 00 00 05 00} you don't have enough\nroom in your pockets to\nhold that much money, hm?\n{07 00 00}I'll put it in a money bag\nfor you.{01 00 00 0f 00} Don't worry!{01 00 00 05 00} There\nwill be no extra charge!",
-   "et": ""
+   "et": "{07 04 00}Ah,{01 00 00 05 00} sul pole taskutes\npiisavalt ruumi, et nii palju\nraha kanda, ah?\n{07 00 00}Panen selle sulle\nrahakotti.{01 00 00 0f 00} Ära karda!{01 00 00 05 00} Lisa-\ntasu ei tule!"
   },
   {
    "id": 21,
    "en": "I see.{01 00 00 0f 00} Well, if there is\nanything you need,{01 00 00 05 00} do not\nhesitate to ask, hm?",
-   "et": ""
+   "et": "Selge.{01 00 00 0f 00} Noh, kui sul on\nmidagi vaja,{01 00 00 05 00} küsi\njulgelt, ah?"
   },
   {
    "id": 22,
    "en": "{07 19 00}I'm currently buying\nturnips for{01 00 00 05 00} {04 10 00} Bells per\nturnip!",
-   "et": ""
+   "et": "{07 19 00}Ma ostan praegu naereid\nhinnaga{01 00 00 05 00} {04 10 00} kella\nnaeri eest!"
   },
   {
    "id": 23,
    "en": "I must apologize! I'm all\nbooked up with orders.\n\nSo,{01 00 00 05 00} obviously, I can't accept\nany new orders, yes?\n\nI'm awfully sorry,{01 00 00 0a 00} but I'll\nbe happy to accept your\norder another time!\nWell, is there anything else\nI can do for you?{02 06 00 07 00 00 15}\nI want to sell!\nCatalog, please!\nTurnip prices!\nNothing, really.",
-   "et": ""
+   "et": "Pean vabandama! Mul on\ntellimusi täis.\n\nNii et{01 00 00 05 00} ma ei saa muidugi\nuusi tellimusi võtta, jah?\n\nMul on kohutavalt kahju,{01 00 00 0a 00} aga\nvõtan su tellimuse\nhea meelega teine kord!\nNoh, kas saan sinu heaks\nveel midagi teha?{02 06 00 07 00 00 15}\nTahan müüa!\nKataloog, palun!\nNaeri hind!\nTegelikult ei midagi."
   },
   {
    "id": 24,
    "en": "This catalog is tailored to\nyour own personal buying\nhabits, {04 00 00}.\nIf you see something you'd\nlike to order,{01 00 00 05 00} just choose\nyour item, hm?",
-   "et": ""
+   "et": "See kataloog on kohandatud\nsinu enda ostuharjumuste\njärgi, {04 00 00}.\nKui näed midagi, mida\ntahaksid tellida,{01 00 00 05 00} vali\nlihtsalt oma ese, ah?"
   },
   {
    "id": 26,
    "en": "Hm, hmm.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} The\n{0b 02 00}{04 1b 00}.\n\nThe price for that, which\nincludes free shipping, is\n{04 0f 00} Bells!\nWould you like to order it?{02 04 00 00 1b}\nYes, please!\nUh, no, thanks.",
-   "et": ""
+   "et": "Hm, hmm{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}. See\n{0b 02 00}{04 1b 00}.\n\nSelle hind koos tasuta\nkohaletoimetamisega on\n{04 0f 00} kella!\nKas soovid selle tellida?{02 04 00 00 1b}\nJah, palun!\nEe, ei, aitäh."
   },
   {
    "id": 27,
    "en": "Oh, you'd like to put off\nordering it for now?{01 00 00 14 00} That's\nfine.{01 00 00 0a 00} Not a worry, hm?\nWell, is there anything else\nI can do for you?{02 06 00 07 00 00 15}\nI want to sell!\nCatalog, please!\nTurnip prices!\nNothing, really.",
-   "et": ""
+   "et": "Oh, sa tahad tellimise\npraegu edasi lükata?{01 00 00 14 00} Pole\nviga.{01 00 00 0a 00} Pole muret, ah?\nNoh, kas saan sinu heaks\nveel midagi teha?{02 06 00 07 00 00 15}\nTahan müüa!\nKataloog, palun!\nNaeri hind!\nTegelikult ei midagi."
   },
   {
    "id": 28,
    "en": "Thanks much!\n\n\nThe moment your order\narrives in the store,{01 00 00 0a 00} I'll\nsend it on to you by mail.\nI bet you can't wait,{01 00 00 0a 00} can\nyou now? No, I rather\nthink you can't!\nNow then,{01 00 00 0f 00} is there anything\nelse I can do for you?{02 06 00 07 00 00 15}\nI want to sell!\nCatalog, please!\nTurnip prices!\nNothing, really.",
-   "et": ""
+   "et": "Suur tänu!\n\n\nNiipea kui sinu tellimus\njõuab poodi,{01 00 00 0a 00} saadan\nselle sulle postiga.\nVean kihla, et sa ei jõua\nära oodata,{01 00 00 0a 00} ega?\nEi, ma arvan, et ei!\nNoh siis,{01 00 00 0f 00} kas saan sinu\nheaks veel midagi teha?{02 06 00 07 00 00 15}\nTahan müüa!\nKataloog, palun!\nNaeri hind!\nTegelikult ei midagi."
   },
   {
    "id": 29,
    "en": "{07 0b 00}Hm?{01 00 00 05 00} What's this?{01 00 00 05 00} Ahem!{07 00 00}\nYou don't have enough\nmoney, I'm afraid!\nThat being the case,{01 00 00 05 00} I can't\naccept your order. I trust\nyou understand, hm?\nYou see,{01 00 00 0a 00} you have to pay in\nadvance for preorders.{01 00 00 05 00}\nYes, this is a rule!\nWell, then{01 00 00 05 00} is there anything\nelse I can do for you?{02 06 00 07 00 00 15}\nI want to sell!\nCatalog, please!\nTurnip prices!\nNothing, really.",
-   "et": ""
+   "et": "{07 0b 00}Ah?{01 00 00 05 00} Mis see on?{01 00 00 05 00} Khm!{07 00 00}\nKardan, et sul pole\npiisavalt raha!\nSel juhul{01 00 00 05 00} ei saa ma sinu\ntellimust võtta. Loodan,\net mõistad, ah?\nNäed,{01 00 00 0a 00} ettetellimuste eest\ntuleb maksta ette.{01 00 00 05 00}\nJah, see on reegel!\nNoh siis{01 00 00 05 00} kas saan sinu\nheaks veel midagi teha?{02 06 00 07 00 00 15}\nTahan müüa!\nKataloog, palun!\nNaeri hind!\nTegelikult ei midagi."
   },
   {
    "id": 30,
    "en": "Why, yes, that would be\n{04 1b 00}.{01 00 00 0f 00} It\nsells for {04 13 00} Bells.\nIt's quite a bargain, yes?{01 00 00 0f 00}\n{07 0b 00}Would you like to buy it?{02 04 00 00 1f}\nI'll buy it!\nNo, thanks.",
-   "et": ""
+   "et": "Jah, see oleks\n{04 1b 00}.{01 00 00 0f 00} See\nmaksab {04 13 00} kella.\nSee on üsna soodne, jah?{01 00 00 0f 00}\n{07 0b 00}Kas soovid seda osta?{02 04 00 00 1f}\nOstan!\nEi, aitäh."
   },
   {
    "id": 31,
    "en": "{07 00 00}Yes, yes.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0f 00} Very good!{01 00 00 05 00}\nVery good!{01 00 00 0f 00} Take a look at\nour other wares, hm?",
-   "et": ""
+   "et": "{07 00 00}Jah, jah{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0f 00} Väga hea!{01 00 00 05 00}\nVäga hea!{01 00 00 0f 00} Vaata ka meie\nteisi kaupu, ah?"
   },
   {
    "id": 32,
    "en": "{07 00 00}Thanks much!\n\n\n{07 0b 00}What's this!{01 00 00 05 00} But...\n{07 00 00}Your pockets are full!\n\nI'm very sorry,{01 00 00 0a 00} but please\nmake your purchase after\nemptying your pockets!",
-   "et": ""
+   "et": "{07 00 00}Suur tänu!\n\n\n{07 0b 00}Mis see on!{01 00 00 05 00} Aga...\n{07 00 00}Su taskud on täis!\n\nMul on väga kahju,{01 00 00 0a 00} aga tee\noma ost pärast seda, kui\noled taskud tühjendanud!"
   },
   {
    "id": 33,
    "en": "{07 00 00}Thanks much!!!\n\n\nWhat's this?{01 00 00 0f 00} But...{01 00 00 05 00} Oh, dear!\nYou seem to be lacking\nenough money, hm?\nClearly, you see I can't sell\nto you.{01 00 00 0f 00}.{01 00 00 05 00}.{01 00 00 05 00}{01 00 00 05 00} I'm awfully sorry.",
-   "et": ""
+   "et": "{07 00 00}Suur tänu!!!\n\n\nMis see on?{01 00 00 0f 00} Aga...{01 00 00 05 00} Oh sa!\nSul näib olevat liiga\nvähe raha, ah?\nSelge, et ma ei saa sulle\nmüüa.{01 00 00 0f 00}.{01 00 00 05 00}.{01 00 00 05 00}{01 00 00 05 00} Mul on väga kahju."
   },
   {
    "id": 34,
    "en": "{07 00 00}Thanks much!!!",
-   "et": ""
+   "et": "{07 00 00}Suur tänu!!!"
   },
   {
    "id": 35,
    "en": "{07 14 00}Yes, that's precisely\n{04 13 00} Bells.{01 00 00 0a 00} Excellent\ncounting, hm?",
-   "et": ""
+   "et": "{07 14 00}Jah, see on täpselt\n{04 13 00} kella.{01 00 00 0a 00} Suurepärane\nlugemisoskus, ah?"
   },
   {
    "id": 36,
    "en": "{07 00 00}If you want to use your\n{ff 00 00 07}shovel{ff 00 00 00}, just grab it from\nyour {ff 00 00 01}pockets{ff 00 00 00}, hm?\nStand in front of the area\nyou want to dig, and {ff 00 00 01}tap{ff 00 00 00}\nyourself or the {ff 00 00 01}A Button{ff 00 00 00}.\nIt's very easy, yes?{01 00 00 05 00}\nYou can also dig by\n{ff 00 00 01}tapping{ff 00 00 00} the ground.\nIf the ground is soft\nenough, you'll be able to\ndig a hole!\nThe ground will look a little\ndifferent where items are\nburied, so...\nKeep your eyes peeled for\nclues, hm?",
-   "et": ""
+   "et": "{07 00 00}Kui tahad kasutada oma\n{ff 00 00 07}labidat{ff 00 00 00}, võta see lihtsalt\n{ff 00 00 01}taskust{ff 00 00 00}, ah?\nSeisa selle koha ees,\nkuhu kaevata, ja {ff 00 00 01}koputa{ff 00 00 00}\nend või {ff 00 00 01}A-nuppu{ff 00 00 00}.\nSee on väga lihtne, jah?{01 00 00 05 00}\nSa võid kaevata ka\nmaad {ff 00 00 01}koputades{ff 00 00 00}.\nKui maa on piisavalt\npehme, saad kaevata\naugu!\nSeal, kus esemed on maetud,\nnäeb maa veidi teistsugune\nvälja, nii et...\nHoia silmad lahti\nvihjete jaoks, ah?"
   },
   {
    "id": 37,
    "en": "{07 00 00}To use your {ff 00 00 07}net{ff 00 00 00}, just take\nit out of your {ff 00 00 01}pockets{ff 00 00 00} and\nyou're all set, hm?\nTo swing the {ff 00 00 07}net{ff 00 00 00}, either\npress the{ff 00 00 01} A Button{ff 00 00 00} or\nmerely {ff 00 00 01}tap {ff 00 00 00}yourself.\nYou can also swing your {ff 00 00 07}net{ff 00 00 00}\nby {ff 00 00 01}tapping{ff 00 00 00} the bug you're\ntrying to catch, yes?\nAnd if you should catch\none, bring it over here!{01 00 00 05 00}\nWe buy them, you know!",
-   "et": ""
+   "et": "{07 00 00}Et kasutada {ff 00 00 07}võrku{ff 00 00 00}, võta see\nlihtsalt {ff 00 00 01}taskust{ff 00 00 00} välja ja\noledki valmis, ah?\n{ff 00 00 07}Võrgu{ff 00 00 00} vibutamiseks vajuta\nkas{ff 00 00 01} A-nuppu{ff 00 00 00} või\nlihtsalt {ff 00 00 01}koputa {ff 00 00 00}end.\nSa võid {ff 00 00 07}võrku{ff 00 00 00} vibutada ka\nnii, et {ff 00 00 01}koputad{ff 00 00 00} putukat,\nkeda püüda tahad, jah?\nJa kui sa mõne püüad,\ntoo see siia!{01 00 00 05 00}\nMe ostame neid, tead küll!"
   },
   {
    "id": 38,
    "en": "{07 00 00}To use the {ff 00 00 07}fishing rod{ff 00 00 00},\ngrab it from your{ff 00 00 01} pockets{ff 00 00 00}\nand you're ready to go, hm?\nFace the river and press\nthe {ff 00 00 01}A Button {ff 00 00 00}or simply\n{ff 00 00 01}tap {ff 00 00 00}yourself.\nYou can also use your\n{ff 00 00 07}fishing rod{ff 00 00 00} by {ff 00 00 01}tapping{ff 00 00 00} \nwhere you want to fish.\nPull up as soon as you see\nyour float bob! {01 00 00 05 00}That means\nyou have a bite, hm?\nDo it quickly, though!{01 00 00 05 00}\nOtherwise, the fish will get\naway with your bait!\nWe will buy any fish that\nyou catch, so come by when\nyou're done, yes?",
-   "et": ""
+   "et": "{07 00 00}{ff 00 00 07}Õnge{ff 00 00 00} kasutamiseks võta\nsee{ff 00 00 01} taskust{ff 00 00 00} välja\nja oledki valmis, ah?\nPööra näoga jõe poole ja\nvajuta {ff 00 00 01}A-nuppu {ff 00 00 00}või lihtsalt\n{ff 00 00 01}koputa {ff 00 00 00}end.\nSa võid {ff 00 00 07}õnge{ff 00 00 00} kasutada ka\n{ff 00 00 01}koputades{ff 00 00 00} kohta, \nkus tahad kala püüda.\nTõmba kohe, kui näed\nujukit vajumas! {01 00 00 05 00}Siis on\nkala näkanud, ah?\nTee seda aga kiiresti!{01 00 00 05 00}\nMuidu viib kala\nsu sööda minema!\nMe ostame iga kala, mille\nsa püüad, nii et tule\nläbi, kui valmis oled, jah?"
   },
   {
    "id": 39,
    "en": "{07 00 00}To use your{ff 00 00 07} axe{ff 00 00 00}, pick it up\nfrom your {ff 00 00 01}pockets{ff 00 00 00}, and\nyou're ready to go, yes?\nFace the tree you want to\nchop down and press the\n{ff 00 00 01}A Button{ff 00 00 00} or{ff 00 00 01} tap{ff 00 00 00} yourself.\nYou can also cut trees down\nby simply {ff 00 00 01}tapping {ff 00 00 00}the tree\nitself, hm?\nYou can remove stumps left\nbehind by digging them up\nwith your{ff 00 00 07} shovel{ff 00 00 00}!\nPlease, however, don't go\noverboard and start cutting\ntrees down willy-nilly{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{ff 00 00 07}Axes{ff 00 00 00} are more delicate than\nyou think and will break\nafter a while, yes?\nYou might want to limit\nyourself to only cutting\ntrees that are{01 00 00 05 00} in the way!",
-   "et": ""
+   "et": "{07 00 00}Et kasutada{ff 00 00 07} kirvest{ff 00 00 00}, võta\n{ff 00 00 01}taskust{ff 00 00 00} ja\noledki valmis, jah?\nPööra näoga puu poole,\nmida raiud, ja vajuta\n{ff 00 00 01}A-nuppu{ff 00 00 00} või{ff 00 00 01} koputa{ff 00 00 00} end.\nSa võid puid maha võtta ka\nlihtsalt {ff 00 00 01}koputades {ff 00 00 00}puud\nennast, ah?\nJärelejäänud kännud saad\neemaldada, kaevates need\nvälja oma{ff 00 00 07} labidaga{ff 00 00 00}!\nPalun ära siiski liialda\nja hakka puid maha\nvõtma suvaliselt{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{ff 00 00 07}Kirved{ff 00 00 00} on õrnemad, kui sa\narvad, ja lähevad mõne aja\npärast katki, jah?\nSa võiksid piirduda ainult\nnende puudega, mis{01 00 00 05 00}\nette jäävad!"
   },
   {
    "id": 40,
    "en": "{07 00 00}To use your {ff 00 00 07}watering can{ff 00 00 00},\njust take it out of your\n{ff 00 00 01}pocket{ff 00 00 00}, and you're set!\nFace the flower and press\nthe{ff 00 00 01} A Button{ff 00 00 00} or merely\n{ff 00 00 01}tap {ff 00 00 00}yourself, hm?\nYou can also use your\n{ff 00 00 07}watering can{ff 00 00 00} by {ff 00 00 01}tapping{ff 00 00 00} \nthe flowers, of course.\nEven droopy flowers will\nperk up the next day{01 00 00 05 00} with\njust a little sprinkling!\nI carry flower seeds at my\nstore, too, so pick some up{01 00 00 05 00}\nand beautify the town,{01 00 00 0f 00} yes?",
-   "et": ""
+   "et": "{07 00 00}Et kasutada {ff 00 00 07}kastekannu{ff 00 00 00},\nvõta see lihtsalt oma\n{ff 00 00 01}taskust{ff 00 00 00} ja oledki valmis!\nPööra näoga lille poole ja\nvajuta{ff 00 00 01} A-nuppu{ff 00 00 00} või lihtsalt\n{ff 00 00 01}koputa {ff 00 00 00}end, ah?\nSa võid {ff 00 00 07}kastekannu{ff 00 00 00} kasutada\nka nii, et {ff 00 00 01}koputad{ff 00 00 00} \nlilli, muidugi.\nIsegi närbunud lill\nkosub järgmiseks päevaks,{01 00 00 05 00}\nkui seda veidi kastad!\nMul on poes lilleseemneid,\nnii et võta neid{01 00 00 05 00}\nja kaunista linna,{01 00 00 0f 00} jah?"
   },
   {
    "id": 41,
    "en": "{07 00 00}To use your {ff 00 00 07}slingshot{ff 00 00 00}, take\nit out of your{ff 00 00 01} pockets {ff 00 00 00}and\ndrag it over yourself, hm?\nWhen your target is\ndirectly overhead{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}STRIKE!\n\nEither press the {ff 00 00 01}A Button\n{ff 00 00 00}or just{ff 00 00 01} tap{ff 00 00 00} yourself.\n\nJust make sure your target\nis close enough or you\nmight miss, yes?\nMany things can be found\nfloating in the sky, hm?\n\nIf you see something, try\nknocking it out of the air,{01 00 00 05 00}\nyes? {01 00 00 05 00}Oh, YES!",
-   "et": ""
+   "et": "{07 00 00}Et kasutada {ff 00 00 07}lingupüssi{ff 00 00 00}, võta\nsee{ff 00 00 01} taskust {ff 00 00 00}ja\nlohista see endale, ah?\nKui su sihtmärk on\notse pea kohal{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}LÖÖ!\n\nKas vajuta {ff 00 00 01}A-nuppu\n{ff 00 00 00}või lihtsalt{ff 00 00 01} koputa{ff 00 00 00} end.\n\nVeendu, et su sihtmärk\noleks piisavalt lähedal,\nmuidu lased mööda, jah?\nTaevas võib hõljuda\npalju asju, ah?\n\nKui midagi näed, proovi\nsee alla lasta,{01 00 00 05 00}\njah? {01 00 00 05 00}Oh, JAH!"
   },
   {
    "id": 42,
    "en": "{07 00 00}Yes, yes, that would be{01 00 00 05 00}\n{04 1b 00}.\n\nI'll sell you a four-pack\nfor{01 00 00 05 00} just {04 13 00} Bells.{01 00 00 0f 00}\nAn excellent deal, yes?\nWhat do you say?{02 04 00 00 1f}\nI'll take them!\nNo, thanks.",
-   "et": ""
+   "et": "{07 00 00}Jah, jah, see oleks{01 00 00 05 00}\n{04 1b 00}.\n\nMüün sulle neljase paki\nainult{01 00 00 05 00} {04 13 00} kella eest.{01 00 00 0f 00}\nSuurepärane pakkumine, jah?\nMis sa ütled?{02 04 00 00 1f}\nVõtan need!\nEi, aitäh."
   },
   {
    "id": 43,
    "en": "{07 00 00}Yes, yes, that would be the\n{0b 02 00}{04 1b 00}.{01 00 00 0f 00}\nIt sells for {04 13 00} Bells.\nHow about it?{02 05 00 00 2c 1f}\nI'll take it!\nShow it to me!\nNo, thanks.",
-   "et": ""
+   "et": "{07 00 00}Jah, jah, see oleks\n{0b 02 00}{04 1b 00}.{01 00 00 0f 00}\nSee maksab {04 13 00} kella.\nMis sa arvad?{02 05 00 00 2c 1f}\nVõtan!\nNäita mulle!\nEi, aitäh."
   },
   {
    "id": 44,
    "en": "{07 0b 00}Well?{01 00 00 05 00} Well?{01 00 00 0f 00} Do you like it?\n\n\n{07 00 00}It's a mere {04 13 00} Bells.{01 00 00 05 00}\nWhat a ravishing deal, hm?\nWill you take it?{02 04 00 00 1f}\nI'll buy it!\nNo, thanks.",
-   "et": ""
+   "et": "{07 0b 00}Noh?{01 00 00 05 00} Noh?{01 00 00 0f 00} Kas meeldib?\n\n\n{07 00 00}See on vaid {04 13 00} kella.{01 00 00 05 00}\nMilline hea pakkumine, ah?\nKas võtad?{02 04 00 00 1f}\nOstan!\nEi, aitäh."
   },
   {
    "id": 48,
    "en": "{07 04 00}Oh!{01 00 00 05 00} Yes, yes!{01 00 00 0f 00} Of course!{01 00 00 05 00}\n{07 00 00}I forgot to tell you one\nlittle thing, yes?\nRegarding one of my store's\nsister companies,{01 00 00 05 00} {ff 00 00 02}Tom Nook\nPoint Systems, Inc{ff 00 00 00}...\nThey recently provided me\nwith a new {ff 00 00 02}Point-Tracking\nMachine{ff 00 00 00}, or {ff 00 00 02}PTM{ff 00 00 00}!\nWhich means that from now\non,{01 00 00 05 00} whenever you shop here,\n{01 00 00 05 00}you earn shop points!\nYour shop points will be\nautomatically tracked by\nthe {ff 00 00 02}PTM{ff 00 00 00} there by the door.\nSo you can check how many\npoints you've accumulated\n{07 14 00}as often as you like, hm?",
-   "et": ""
+   "et": "{07 04 00}Oh!{01 00 00 05 00} Jah, jah!{01 00 00 0f 00} Muidugi!{01 00 00 05 00}\n{07 00 00}Unustasin sulle ühe\nväikese asja öelda, jah?\nMu poe ühe sõsarfirma,{01 00 00 05 00}\n{ff 00 00 02}Tom Nook Point Systems{ff 00 00 00},\nkohta...\nNad andsid mulle hiljuti\nuue {ff 00 00 02}punktiarvesti{ff 00 00 00},\nehk {ff 00 00 02}PA{ff 00 00 00}!\nSee tähendab, et nüüdsest,{01 00 00 05 00}\nkui sa siin ostled,\n{01 00 00 05 00}teenid sa poepunkte!\nSinu poepunkte jälgib\nautomaatselt\n{ff 00 00 02}PA{ff 00 00 00} seal ukse juures.\nNii saad kontrollida, kui\npalju punkte oled kogunud,\n{07 14 00}nii tihti kui soovid, ah?"
   },
   {
    "id": 49,
    "en": "{07 14 00}I should have known,\n{04 00 00}!{01 00 00 0f 00} You have a\ndiscerning eye, yes?\n{07 00 00}That is today's\n{ff 00 00 02}spotlight product{ff 00 00 00}...{01 00 00 0f 00}the\n{0b 02 00}{04 1b 00}!\nAnd at just {04 13 00} Bells,{01 00 00 05 00}\nI highly recommend it!{01 00 00 0f 00}\nYou will buy it, won't you?{02 04 00 00 1f}\nI'll buy it!\nNo, thanks.",
-   "et": ""
+   "et": "{07 14 00}Oleksin pidanud teadma,\n{04 00 00}!{01 00 00 0f 00} Sul on\nterav silm, jah?\n{07 00 00}See on tänane\n{ff 00 00 02}tähttoode{ff 00 00 00}...{01 00 00 0f 00}\n{0b 02 00}{04 1b 00}!\nJa vaid {04 13 00} kella eest,{01 00 00 05 00}\nma soovitan seda väga!{01 00 00 0f 00}\nSa ju ostad selle?{02 04 00 00 1f}\nOstan!\nEi, aitäh."
   },
   {
    "id": 50,
    "en": "{07 14 00}Yes, welcome, {01 00 00 05 00}{04 00 00}!{01 00 00 0f 00}\nToday is the long-awaited\n{ff 00 00 03}Point Special{ff 00 00 00}!\n{07 00 00}You'll make {ff 00 00 02}five times\n{ff 00 00 00}the usual points for every\npurchase you make!",
-   "et": ""
+   "et": "{07 14 00}Jah, tere, {01 00 00 05 00}{04 00 00}!{01 00 00 0f 00}\nTäna on kauaoodatud\n{ff 00 00 03}punktieripakkumine{ff 00 00 00}!\n{07 00 00}Sa teenid {ff 00 00 02}viis korda\n{ff 00 00 00}tavapärasest rohkem punkte\niga ostu eest!"
   },
   {
    "id": 51,
    "en": "{07 14 00}Yes, welcome,{01 00 00 05 00} {04 00 00}!{01 00 00 0f 00}\nWe have our {ff 00 00 03}super sale{ff 00 00 00} in\neffect right now!\nAll products are being\noffered at{01 00 00 05 00} {ff 00 00 02}half-price{ff 00 00 00}!",
-   "et": ""
+   "et": "{07 14 00}Jah, tere,{01 00 00 05 00} {04 00 00}!{01 00 00 0f 00}\nMeil käib praegu\n{ff 00 00 03}suur soodusmüük{ff 00 00 00}!\nKõiki tooteid pakutakse{01 00 00 05 00}\n{ff 00 00 02}poole hinnaga{ff 00 00 00}!"
   },
   {
    "id": 52,
    "en": "{07 14 00}Yes, welcome!{01 00 00 0f 00} We have our\n{ff 00 00 02}spotlight product{ff 00 00 00} in stock\ntoday! {01 00 00 05 00}Check it out, yes?",
-   "et": ""
+   "et": "{07 14 00}Jah, tere tulemast!{01 00 00 0f 00} Meil on\ntäna laos {ff 00 00 02}tähttoode{ff 00 00 00}!\n{01 00 00 05 00}Vaata seda, jah?"
   },
   {
    "id": 53,
    "en": "{07 04 00}My, my,{01 00 00 05 00} {04 00 00}!{01 00 00 0f 00}\n{07 00 00}You have a very nice {ff 00 00 07}safe{ff 00 00 00},\ndon't you?\nTo tell you the truth,{01 00 00 05 00}{07 06 00} I've\nalways wanted a {ff 00 00 07}safe {ff 00 00 00}of my\nown{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 14 00}I'd surely thank you much,{01 00 00 0f 00}\n{04 00 00}...{02 00 00 37 36}\nSure...take it.\nNever, Nook!",
-   "et": ""
+   "et": "{07 04 00}Oi, oi,{01 00 00 05 00} {04 00 00}!{01 00 00 0f 00}\n{07 00 00}Sul on väga kena {ff 00 00 07}seif{ff 00 00 00},\nkas pole?\nAusalt öeldes{01 00 00 05 00}{07 06 00} olen ma\nalati tahtnud omaenda\n{ff 00 00 07}seifi{ff 00 00 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 14 00}Oleksin sulle väga tänulik,{01 00 00 0f 00}\n{04 00 00}...{02 00 00 37 36}\nIkka...võta.\nEi iial, Nook!"
   },
   {
    "id": 54,
    "en": "{07 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n\n\n{04 00 00}, I didn't think\nyou were that sort of\nperson, hm?{01 00 00 05 00} Shocking!\n{07 15 00}From now on, I can only\nthink of you{01 00 00 05 00} as a\ncompetitor!!!",
-   "et": ""
+   "et": "{07 00 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n\n\n{04 00 00}, ma ei arvanud,\net sa oled selline\ninimene, ah?{01 00 00 05 00} Vapustav!\n{07 15 00}Nüüdsest saan ma mõelda\nsinust{01 00 00 05 00} ainult kui\nkonkurendist!!!"
   },
   {
    "id": 55,
    "en": "{07 0a 00}Oh, such joy for me!\n\n\n{07 00 00}To think you understand my\ncravings so completely.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n\n{07 0b 00}Are you so fond of {ff 00 00 06}Nook{ff 00 00 00}?{01 01 00}\n{07 14 00}Ho ho ho!{01 00 00 05 00} You're a tough\nnut to crack, {04 00 00}!\n{07 00 00}Well,{01 00 00 05 00} I shall respond to your\nkindness{01 00 00 05 00} by giving you this\nwonderful thing, yes?",
-   "et": ""
+   "et": "{07 0a 00}Oh, milline rõõm!\n\n\n{07 00 00}Mõelda, et sa mõistad mu\nihasid nii täielikult{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n\n{07 0b 00}Kas {ff 00 00 06}Nook{ff 00 00 00} on sulle kallis?{01 01 00}\n{07 14 00}Ho ho ho!{01 00 00 05 00} Sinuga on raske,\n{04 00 00}!\n{07 00 00}Noh,{01 00 00 05 00} vastan sinu lahkusele{01 00 00 05 00}\nsellega, et annan sulle\nselle imelise asja, jah?"
   },
   {
    "id": 56,
    "en": "You'll never be able to get\nthis any other way.{01 00 00 0a 00} It's my\n{ff 00 00 07}glamour shot{ff 00 00 00}!\nNot to be a braggart,{01 00 00 05 00} but\nit's quite a bit better than\nan ordinary photo, yes?\n{07 14 00}I tried hard to come across\nas casual, yet forthright,\nhm?{01 00 00 05 00} Treasure it!",
-   "et": ""
+   "et": "Seda sa ei saa kuidagi\nmujalt.{01 00 00 0a 00} See on minu\n{ff 00 00 07}glamuurfoto{ff 00 00 00}!\nEi taha kiidelda,{01 00 00 05 00} aga\nsee on päris palju parem\nkui tavaline foto, jah?\n{07 14 00}Püüdsin kõvasti näida\nvabalt, kuid otsekoheselt,\nah?{01 00 00 05 00} Hoia seda kallina!"
   },
   {
    "id": 57,
    "en": "{07 00 00}{ff 00 00 07}Bottle mail {ff 00 00 00}is mail that you\nput in a bottle and deliver\nin the water, yes?\n{ff 00 00 07}Bottle mail{ff 00 00 00} that you have \nwritten is stored in the\nsame place as letters.\nYes, just choose \"{ff 00 00 01}release{ff 00 00 00}\"\non the beach or near the\nriver to send them, hm?\n{07 14 00}If you do that, your letter\nmight wash up on the\nshores of another town!\n{07 00 00}But be very careful,\n{04 00 00}{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.\n\nYou really don't know who\nwill be on the receiving end\nof your {ff 00 00 07}bottle mail{ff 00 00 00}, hm?\nAs such, it's probably best\nnot to include super-secret\ninformation, yes?",
-   "et": ""
+   "et": "{07 00 00}{ff 00 00 07}Pudelipost {ff 00 00 00}on kiri, mille\npaned pudelisse ja saadad\nvee peale, jah?\n{ff 00 00 07}Pudelipost{ff 00 00 00}, mille oled \nkirjutanud, on samas kohas\nkus kirjad.\nVali lihtsalt „{ff 00 00 01}lase lahti{ff 00 00 00}”\nrannas või jõe ääres,\net neid saata, ah?\n{07 14 00}Kui sa seda teed, võib su\nkiri uhtuda teise linna\nkaldale!\n{07 00 00}Aga ole väga ettevaatlik,\n{04 00 00}{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.\n\nSa ei tea, kes su\n{ff 00 00 07}pudeliposti{ff 00 00 00} kätte\nsaab, ah?\nSeepärast on ilmselt parem\nmitte lisada ülisalajast\ninfot, jah?"
   },
   {
    "id": 59,
    "en": "{07 04 00}Oh,{01 00 00 0a 00} {04 00 00}!{01 00 00 0f 00}\n{07 00 00}What fantastic timing\non your part!\nI'd completely forgotten to\nmention{01 00 00 05 00} a very important\nthing I must ask of you.\nNow that you've moved into\n{04 03 00},{01 00 00 05 00} the {ff 00 00 02}Happy Room\nAcademy{ff 00 00 00} will rate you!\nIt's not hard at all.{01 00 00 0f 00} And\neveryone is doing it, yes?\n\nAll you have to do{01 00 00 05 00} is keep\nyour room{01 00 00 05 00} looking nice and\nappealing. {01 00 00 05 00}That's it! \nYou won't even notice the\nacademy representatives\nevaluating your room.\nAnd they'll send you the\nresults of their evaluations\nfrom time to time.\nAll you have to do is try\nto earn a high score.{01 00 00 05 00} Not\nso much to ask, hm?\nSo,{01 00 00 0a 00} what do you think?{01 00 00 0f 00}\n{07 0b 00}You will do it, right?{02 01 00 3c 3d 3e}\nHuh? What?!\nCount me in!\nCount me OUT!",
-   "et": ""
+   "et": "{07 04 00}Oh,{01 00 00 0a 00} {04 00 00}!{01 00 00 0f 00}\n{07 00 00}Milline suurepärane\najastus sinult!\nOlin täiesti unustanud\nmainida{01 00 00 05 00} üht väga tähtsat\nasja, mida sinult paluda.\nNüüd, kui oled kolinud\nlinna {04 03 00},{01 00 00 05 00} hindab sind\n{ff 00 00 02}Kauni Kodu Akadeemia{ff 00 00 00}!\nSee pole üldse raske.{01 00 00 0f 00} Ja\nkõik teevad seda, jah?\n\nSa pead vaid{01 00 00 05 00} hoidma\noma tuba{01 00 00 05 00} kena ja\nahvatlevana. {01 00 00 05 00}Ongi kõik! \nSa ei märkagi, kuidas\nakadeemia esindajad\nsu tuba hindavad.\nJa nad saadavad sulle\naeg-ajalt oma hinnangute\ntulemused.\nSul tuleb vaid püüda\nteenida kõrge skoor.{01 00 00 05 00} Pole\nsee nii palju palutud, ah?\nNii,{01 00 00 0a 00} mis sa arvad?{01 00 00 0f 00}\n{07 0b 00}Sa ju teed seda?{02 01 00 3c 3d 3e}\nAh? Mida?!\nOlen nõus!\nEi ole nõus!"
   },
   {
    "id": 60,
    "en": "{07 0b 00}Don't you know?{01 00 00 05 00} Doesn't\nEVERYONE know?!?{01 00 00 0f 00}{07 00 00} It's the\n{ff 00 00 02}Happy Room Academy{ff 00 00 00}!\nThat is where fabulous\nstyle scientists study style{01 00 00 05 00}\nnight and day!\nIt is the primary authority\non research into the\nsubject of{01 00 00 05 00} style, yes?\nThey evaluate the collection\nof furniture in a room,{01 00 00 05 00}\nand, uh,{01 00 00 0a 00} the layout,{01 00 00 05 00} and...\nEr, how well it matches\nyour carpet and wallpaper,{01 00 00 05 00}\nand, uh.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\nAt any rate, they research\na lot of things, hm?\n\nThey evaluate the living\nspaces of everyday animals.{01 00 00 05 00}\n...And people, hm?\nThose evaluations come in\nthe form of a point total\nknown as the {ff 00 00 02}HRA Rating{ff 00 00 00}.\nIt can be quite difficult to\nearn a high score, but when\none does, one feels joy!\nIt gives one some pretty{01 00 00 05 00}\nhefty{01 00 00 05 00} bragging rights,\nif I do say so!\nOf course, you're willing to\nput your sense of style\non trial, hm, {04 00 00}?\n{07 0b 00}You will do it, won't you!{02 00 00 3d 3e}\nCount me in!\nCount me OUT!",
-   "et": ""
+   "et": "{07 0b 00}Kas sa ei tea?{01 00 00 05 00} Kas KÕIK\nei tea?!?{01 00 00 0f 00}{07 00 00} See on\n{ff 00 00 02}Kauni Kodu Akadeemia{ff 00 00 00}!\nSeal uurivad vapustavad\nstiiliteadlased stiili{01 00 00 05 00}\nööd ja päevad!\nSee on peamine autoriteet\nstiili-uuringute{01 00 00 05 00}\nvallas, jah?\nNad hindavad toa\nmööblikogu,{01 00 00 05 00}\nja, ee,{01 00 00 0a 00} paigutust,{01 00 00 05 00} ja...\nEe, kui hästi see sobib\nsu vaiba ja tapeediga,{01 00 00 05 00}\nja, ee{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\nIgatahes uurivad nad\npalju asju, ah?\n\nNad hindavad tavaliste\nloomade eluruume.{01 00 00 05 00}\n...Ja inimeste, ah?\nNeed hinnangud tulevad\npunktisumma kujul, mida\nnimetatakse {ff 00 00 02}KKA hinnanguks{ff 00 00 00}.\nKõrget skoori võib olla\nraske teenida, aga kui\nsee õnnestub, on rõõmu!\nSee annab üsna{01 00 00 05 00}\nkopsaka õiguse{01 00 00 05 00} kiidelda,\nkui nii võib öelda!\nMuidugi oled sa valmis\noma stiilitaju proovile\npanema, ah, {04 00 00}?\n{07 0b 00}Sa ju teed seda?{02 00 00 3d 3e}\nOlen nõus!\nEi ole nõus!"
   },
   {
    "id": 61,
    "en": "{07 14 00}I just knew you'd say that!",
-   "et": ""
+   "et": "{07 14 00}Teadsin, et sa nii ütled!"
   },
   {
    "id": 62,
    "en": "{07 00 00}Hm.{01 00 00 03 00} It perplexes me that\nyou'd say such a thing{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.\n\n{0b 03 00}{04 00 00}, I want to give\nyour life some meaning, hm?{01 00 00 03 00}\nThat's why I ask!\n{07 15 00}Please don't decline. {01 00 00 03 00}Please!{01 00 00 05 00}\nYou must accept, yes?",
-   "et": ""
+   "et": "{07 00 00}Hm.{01 00 00 03 00} Mind hämmastab, et\nsa midagi sellist ütled{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.\n\n{0b 03 00}{04 00 00}, tahan anda\nsu elule mõtet, ah?{01 00 00 03 00}\nSeepärast ma palungi!\n{07 15 00}Palun ära keeldu. {01 00 00 03 00}Palun!{01 00 00 05 00}\nSa pead nõustuma, jah?"
   },
   {
    "id": 63,
    "en": "{07 00 00}High scores mean you have{01 00 00 05 00}\na refined sense of style,\n{04 00 00}. {01 00 00 05 00}You see?\nSo show us all just how\ngood your interior design\nskills are, hm?\n{07 14 00}Well,{01 00 00 05 00} good luck!{01 00 00 0f 00}",
-   "et": ""
+   "et": "{07 00 00}Kõrge skoor tähendab, et{01 00 00 05 00}\nsul on peen stiilitaju,\n{04 00 00}. {01 00 00 05 00}Näed sa?\nNii et näita meile kõigile,\nkui hea sa sisekujunduses\noled, ah?\n{07 14 00}Noh,{01 00 00 05 00} edu!{01 00 00 0f 00}"
   },
   {
    "id": 64,
    "en": "{07 0b 00}It can't be!{01 00 00 0f 00}\n{07 00 00}{0b 03 00}{04 00 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n\n{07 00 00}This painting is a\n{ff 00 00 07}forged masterpiece{ff 00 00 00}!\n\nAnd since it's a fake, I can\nonly pay a price worthy of\na fake, yes?\nWhich means that, in total,{01 00 00 05 00}\nI can pay {04 0f 00} Bells.\nDo we have a deal?{02 04 00 00 08}\nWe have a deal!\nThe deal's off!",
-   "et": ""
+   "et": "{07 0b 00}See ei saa olla!{01 00 00 0f 00}\n{07 00 00}{0b 03 00}{04 00 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n\n{07 00 00}See maal on\n{ff 00 00 07}võltsitud meistriteos{ff 00 00 00}!\n\nKuna see on võltsing, saan\nma maksta ainult võltsingu\nväärilist hinda, jah?\nSee tähendab, et kokku{01 00 00 05 00}\nsaan maksta {04 0f 00} kella.\nKas käed löödud?{02 04 00 00 08}\nKäed löödud!\nTehing tühistatud!"
   },
   {
    "id": 65,
    "en": "{07 14 00}Thanks!{01 00 00 05 00} Thanks much,{01 00 00 0f 00}\n{04 00 00}!\n\nYes, I heard you repaid{01 00 00 05 00} all\nof your home loan.\nVery prompt of you,{01 00 00 0a 00} yes!\nI knew I could trust you to\npay it all off, {04 00 00}.\n{07 00 00}But that reminds me{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00}\nIsn't your current house{01 00 00 05 00}{07 0b 00}\njust a tad cramped?\n\n{07 00 00}We could build you a larger\nhome.{01 00 00 05 00} It could hold{01 00 00 05 00} much\nmore furniture, yes?\n{07 0b 00}So?{01 00 00 0a 00} What do you say?{02 00 00 42 43}\nBigger is better!\nSmaller is cozier!",
-   "et": ""
+   "et": "{07 14 00}Aitäh!{01 00 00 05 00} Suur tänu,{01 00 00 0f 00}\n{04 00 00}!\n\nJah, kuulsin, et maksid{01 00 00 05 00} kogu\noma kodulaenu tagasi.\nVäga kiire sinust,{01 00 00 0a 00} jah!\nTeadsin, et võin sind\nusaldada, {04 00 00}.\n{07 00 00}Aga see meenutas mulle{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00}\nKas su praegune maja{01 00 00 05 00}{07 0b 00}\npole mitte veidi kitsas?\n\n{07 00 00}Me võiksime ehitada sulle\nsuurema kodu.{01 00 00 05 00} Sinna mahuks{01 00 00 05 00}\npalju rohkem mööblit, jah?\n{07 0b 00}Noh?{01 00 00 0a 00} Mis sa ütled?{02 00 00 42 43}\nSuurem on parem!\nVäiksem on hubasem!"
   },
   {
    "id": 66,
    "en": "{07 00 00}I suspected{01 00 00 0a 00} you, of all\npeople, would agree with me,\n{04 00 00}!{01 00 00 05 00} Yes, yes!\nIn that case,{01 00 00 05 00} when I build\nyour new house,{01 00 00 05 00}{07 0b 00} what color\nroof would you like?{02 07 00 48 48 48 48 44}\nRed.\nBlue.\nYellow.\nGreen.\nAnother color.",
-   "et": ""
+   "et": "{07 00 00}Kahtlustasin,{01 00 00 0a 00} et just sina\nnõustud minuga,\n{04 00 00}!{01 00 00 05 00} Jah, jah!\nSel juhul,{01 00 00 05 00} kui ma sulle uue\nmaja ehitan,{01 00 00 05 00}{07 0b 00} mis värvi\nkatust sa tahaksid?{02 07 00 48 48 48 48 44}\nPunane.\nSinine.\nKollane.\nRoheline.\nMõni muu värv."
   },
   {
    "id": 67,
    "en": "{07 14 00}Oh, {04 00 00}!{01 00 00 05 00} Always the\njoker, hm?\n\n{07 00 00}I know a young up-and-\ncomer like you,{01 00 00 05 00}\n{04 00 00}{01 00 00 05 00}...\nYou couldn't possibly be\nsatisfied with a house\nthat small. {01 00 00 05 00}Not likely!\nSo,{01 00 00 0a 00} the roof on your newer,\nbigger house.{01 00 00 05 00}.{01 00 00 05 00}.{07 0b 00} What color\nshould it be, hm?{02 07 00 48 48 48 48 44}\nRed.\nBlue.\nYellow.\nGreen.\nAnother color.",
-   "et": ""
+   "et": "{07 14 00}Oh, {04 00 00}!{01 00 00 05 00} Alati\nnaljahammas, ah?\n\n{07 00 00}Ma tean, et selline noor\ntõusev täht nagu sina,{01 00 00 05 00}\n{04 00 00}{01 00 00 05 00}...\nSa ei saaks kuidagi\nrahul olla nii väikese\nmajaga. {01 00 00 05 00}Vaevalt!\nNii et{01 00 00 0a 00} sinu uue, suurema\nmaja katus{01 00 00 05 00}.{01 00 00 05 00}.{07 0b 00} Mis värvi\nsee peaks olema, ah?{02 07 00 48 48 48 48 44}\nPunane.\nSinine.\nKollane.\nRoheline.\nMõni muu värv."
   },
   {
    "id": 68,
    "en": "{07 00 00}{07 0b 00}How about one of these?{02 07 00 48 48 48 48 45}\nPink.\nOrange.\nSky blue.\nPurple.\nAnother color.",
-   "et": ""
+   "et": "{07 00 00}{07 0b 00}Kuidas oleks ühega neist?{02 07 00 48 48 48 48 45}\nRoosa.\nOranž.\nTaevasinine.\nLilla.\nMõni muu värv."
   },
   {
    "id": 69,
    "en": "{07 00 00}{07 0b 00}Then one of these, maybe?{02 07 00 48 48 48 48 46}\nPale green.\nLilac.\nTurquoise.\nHot pink.\nAnother color.",
-   "et": ""
+   "et": "{07 00 00}{07 0b 00}Siis ehk üks neist?{02 07 00 48 48 48 48 46}\nHeleroheline.\nSirelivärv.\nTürkiis.\nErkroosa.\nMõni muu värv."
   },
   {
    "id": 70,
    "en": "{07 00 00}{07 0b 00}Oh,{01 00 00 05 00} then what about these?{01 00 00 0f 00}\n{07 00 00}They're a bit plain, but...{02 07 00 48 48 48 48 47}\nGray.\nBrown.\nDark green.\nNavy.\nAnother color.",
-   "et": ""
+   "et": "{07 00 00}{07 0b 00}Oh,{01 00 00 05 00} aga kuidas need?{01 00 00 0f 00}\n{07 00 00}Veidi tagasihoidlikud, aga...{02 07 00 48 48 48 48 47}\nHall.\nPruun.\nTumeroheline.\nTumesinine.\nMõni muu värv."
   },
   {
    "id": 71,
    "en": "{07 00 00}Oh, my.{01 00 00 05 00}{07 0b 00} There weren't any\ncolors you liked at all?\n\n{07 00 00}Sorry,{01 00 00 05 00} but you'll have to\npick one of those colors.\nI'll list them for you again.{01 00 00 0f 00}\n{07 0b 00}So which one do you like?{02 07 00 48 48 48 48 44}\nRed.\nBlue.\nYellow.\nGreen.\nAnother color.",
-   "et": ""
+   "et": "{07 00 00}Oh sa.{01 00 00 05 00}{07 0b 00} Kas ükski värv\nei meeldinud sulle?\n\n{07 00 00}Vabandust,{01 00 00 05 00} aga sa pead\nvalima ühe neist värvidest.\nLoen need sulle uuesti ette.{01 00 00 0f 00}\n{07 0b 00}Nii et milline sulle meeldib?{02 07 00 48 48 48 48 44}\nPunane.\nSinine.\nKollane.\nRoheline.\nMõni muu värv."
   },
   {
    "id": 72,
    "en": "{07 14 00}All right!{01 00 00 0a 00} {0b 03 00}{04 11 00} it\nis!{01 00 00 0f 00} I'll mark that on the\nplans.\nWell,{01 00 00 05 00} I plan to be finished\nwith your rebuild tomorrow!{01 00 00 05 00}\nI bet you can't wait,{01 00 00 0a 00} hm?",
-   "et": ""
+   "et": "{07 14 00}Hea küll!{01 00 00 0a 00} {0b 03 00}{04 11 00} siis\nolgu!{01 00 00 0f 00} Märgin selle\nplaanidele.\nNoh,{01 00 00 05 00} su ümberehitus saab\nhomme valmis!{01 00 00 05 00}\nKüll sa ootad seda,{01 00 00 0a 00} ah?"
   },
   {
    "id": 73,
    "en": "{07 14 00}Welcome! Welcome!\n\n\nWell?{01 00 00 05 00} Come on now,{01 00 00 05 00} be\nhonest.{01 00 00 0f 00}{07 0b 00} How do you like the\nnew house, hm?\n{07 14 00}It must be nice having a\nlittle more space,{01 00 00 05 00} wouldn't\nyou say? {01 00 00 05 00}Of course it is.\n{07 00 00}Now then,{01 00 00 05 00} there is the\nmatter{01 00 00 05 00} of the cost of your\nlittle project{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\nFor materials, labor, taxes,\nand of course, permits, the\ntotal came to...\n{ff 00 00 02}120,000 Bells{ff 00 00 00}{01 00 00 0a 00}!\n\n\n{07 04 00}Oh!{01 00 00 0a 00} No, no!{07 00 00} I'm not\nexpecting you to pay it all\nright here and now. {01 00 00 05 00}Ho ho!\nJust continue making\npayments to my account,{01 00 00 05 00}{ff 00 00 08}\n{ff 00 00 00}like you have been, hm?\n{07 14 00}And don't feel rushed. Take\nyour time.{01 00 00 05 00} Pace yourself.{01 00 00 05 00}\nThat's just fine, yes?\nAnd don't forget: you'll be\nneeding new furniture to\nfill that new house!\nSo, I expect to see more of\nyou in the store here!{01 00 00 0a 00}{ff 00 00 08}\n{ff 00 00 00}Oh, yes, indeed!",
-   "et": ""
+   "et": "{07 14 00}Tere! Tere tulemast!\n\n\nNoh?{01 00 00 05 00} Ole nüüd,{01 00 00 05 00} ole\naus.{01 00 00 0f 00}{07 0b 00} Kuidas sulle uus\nmaja meeldib, ah?\n{07 14 00}Tore on ju, kui on veidi\nrohkem ruumi,{01 00 00 05 00} kas pole?\n{01 00 00 05 00}Muidugi on.\n{07 00 00}Nüüd siis{01 00 00 05 00} selle väikese\nprojekti{01 00 00 05 00} kulude\nkohta{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\nMaterjalide, töö, maksude\nja muidugi lubade eest\ntuli kokku...\n{ff 00 00 02}120 000 kella{ff 00 00 00}{01 00 00 0a 00}!\n\n\n{07 04 00}Oh!{01 00 00 0a 00} Ei, ei!{07 00 00} Ma ei oota,\net sa maksaksid kõik\nsiin ja praegu. {01 00 00 05 00}Ho ho!\nLihtsalt jätka maksete\ntegemist mu kontole,{01 00 00 05 00}{ff 00 00 08}\n{ff 00 00 00}nagu sa oled teinud, ah?\n{07 14 00}Ja ära kiirusta. Võta\naega.{01 00 00 05 00} Pea oma tempot.{01 00 00 05 00}\nSee on igati hea, jah?\nJa ära unusta: sa vajad\nuut mööblit, et see uus\nmaja täita!\nNii et ootan sind poes\nsagedamini!{01 00 00 0a 00}{ff 00 00 08}\n{ff 00 00 00}Oh jaa, tõesti!"
   },
   {
    "id": 74,
    "en": "{07 14 00}Thanks!{01 00 00 05 00} Thanks much,{01 00 00 0a 00}\n{04 00 00}!\n\nYou paid off the entire\ncost of reconstruction!{01 00 00 05 00}\nAren't you responsible!{01 00 00 05 00}\n{07 00 00}But now that you've got\nthat burden of debt off\nyour back{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\nI can see you're already\nthinking, aren't you?{01 00 00 05 00} The\nnew house doesn't cut it!\nYou want something{01 00 00 0a 00} bigger,{01 00 00 0a 00}\n{07 0b 00}don't you?\n\n{07 14 00}No problem!{01 00 00 05 00} No problem at\nall!{01 00 00 05 00} I had an inkling you\nmight say that, yes?\n{07 00 00}In that case,{01 00 00 05 00} I can build\nyou an even bigger house!{01 00 00 05 00}\nA much more livable one!\n{07 0b 00}So!{01 00 00 0a 00} Are we in agreement?{02 04 00 42 43}\nOf course!\nOf course NOT!",
-   "et": ""
+   "et": "{07 14 00}Aitäh!{01 00 00 05 00} Suur tänu,{01 00 00 0a 00}\n{04 00 00}!\n\nSa maksid kogu\nümberehituse kulu ära!{01 00 00 05 00}\nKüll sa oled tubli!{01 00 00 05 00}\n{07 00 00}Aga nüüd, kui võlakoorem\non su õlgadelt\nmaas{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\nMa näen, et sa juba\nmõtled, kas pole?{01 00 00 05 00} Uus\nmaja ei kõlba!\nSa tahad midagi{01 00 00 0a 00} suuremat,{01 00 00 0a 00}\n{07 0b 00}kas pole?\n\n{07 14 00}Pole probleemi!{01 00 00 05 00} Üldse\npole!{01 00 00 05 00} Mul oli aimdus, et\nsa nii ütled, jah?\n{07 00 00}Sel juhul{01 00 00 05 00} saan ma ehitada\nsulle veel suurema maja!{01 00 00 05 00}\nPalju elamiskõlblikuma!\n{07 0b 00}Nii!{01 00 00 0a 00} Kas oleme nõus?{02 04 00 42 43}\nMuidugi!\nMuidugi MITTE!"
   },
   {
    "id": 75,
    "en": "{07 14 00}Welcome!{01 00 00 05 00} Yes, welcome!\n\n\nIt was a lot of work,{01 00 00 05 00} but\nyour new house is finally\ncomplete!{01 00 00 05 00} Are you joyful?{01 00 00 0f 00}\n{07 0b 00}Did you take a look around?\n{07 14 00}Lots of space, hm? {01 00 00 05 00}Now\nthat's what I call a house!\n{07 00 00}So,{01 00 00 05 00} after tallying up my\nnumbers{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n\nThe total cost comes to\n{ff 00 00 02}298,000 Bells{ff 00 00 00}!{01 00 00 05 00}\n\n{07 04 00}Oh,{01 00 00 0f 00} but I'm sure you're\naware by now{01 00 00 05 00} that I don't\nexpect{07 00 00} immediate payment.\nYou just keep visiting the\n{ff 00 00 08}town hall{01 00 00 05 00} {ff 00 00 00}and making\npayments there, hm?\n{07 14 00}Yes, take your time.{01 00 00 05 00}\nPace yourself.{01 00 00 0f 00} I know I can\ncount on you,{01 00 00 05 00} {04 00 00}!{01 00 00 05 00}",
-   "et": ""
+   "et": "{07 14 00}Tere tulemast!{01 00 00 05 00} Jah, tere!\n\n\nSee oli palju tööd,{01 00 00 05 00} aga\nsinu uus maja on lõpuks\nvalmis!{01 00 00 05 00} Kas oled rõõmus?{01 00 00 0f 00}\n{07 0b 00}Kas sa vaatasid juba ringi?\n{07 14 00}Palju ruumi, ah? {01 00 00 05 00}Seda\nma nimetan majaks!\n{07 00 00}Nii et{01 00 00 05 00} pärast arvude\nkokkulöömist{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n\nKogukulu on\n{ff 00 00 02}298 000 kella{ff 00 00 00}!{01 00 00 05 00}\n\n{07 04 00}Oh,{01 00 00 0f 00} aga sa tead nüüdseks\nkindlasti,{01 00 00 05 00} et ma ei oota\n{07 00 00}kohest maksmist.\nSa lihtsalt käi edasi\n{ff 00 00 08}raekojas{01 00 00 05 00} {ff 00 00 00}ja tee seal\nmakseid, ah?\n{07 14 00}Jah, võta aega.{01 00 00 05 00}\nOma tempos.{01 00 00 0f 00} Tean, et võin\nsinule loota,{01 00 00 05 00} {04 00 00}!{01 00 00 05 00}"
   },
   {
    "id": 76,
    "en": "My!{01 00 00 05 00} My goodness,{01 00 00 0f 00}\n{04 00 00}!!!\n\nI never thought you'd\nactually pay it all off!{01 00 00 0f 00}\nI'm shocked, I admit!\nWhat?!? It was easy?\nIs that so?\n\nWell, with that being the\ncase, I bet you're thinking\nit's high time you moved up.\nAnd built up! {01 00 00 05 00}Let's add\nanother floor!{01 00 00 05 00} Of course,\nthere would be a small fee.\nBut I'm sure that doesn't\nbother you, now, hm?\nDo we have a plan?{02 04 00 55 56}\nTake me higher!\nI hate heights!",
-   "et": ""
+   "et": "Oi!{01 00 00 05 00} Oi heldeke,{01 00 00 0f 00}\n{04 00 00}!!!\n\nMa ei arvanud, et sa\ntõesti kõik ära maksad!{01 00 00 0f 00}\nOlen šokis, tunnistan!\nMida?!? See oli lihtne?\nKas tõesti?\n\nNoh, kui nii on,\nsiis vean kihla, et mõtled,\net on aeg üles kolida.\nJa üles ehitada! {01 00 00 05 00}Lisame\nveel ühe korruse!{01 00 00 05 00} Muidugi\ntuleks väike tasu.\nAga ma olen kindel, et see\nsind ei häiri, ah?\nKas meil on plaan?{02 04 00 55 56}\nVii mind kõrgemale!\nVihkan kõrgust!"
   },
   {
    "id": 77,
    "en": "Welcome! {01 00 00 05 00}Yes, welcome!\n\n\nConstruction is finished!{01 00 00 0f 00}\nHow do you like your new{01 00 00 05 00}\nthree-story house, hm?\nYou now have a whole extra\nfloor to furnish to your\nliking!{01 00 00 05 00} How marvelous!\nNow then,{01 00 00 05 00} about the bill.{01 00 00 05 00}\nYour new mortgage comes\nto{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{ff 00 00 02}598,000 Bells{ff 00 00 00}!{01 00 00 0a 00}\nThank you very much!\n\nOh,{01 00 00 0a 00} but as before, I don't\nneed it right away.{01 00 00 0a 00}\nYou know the drill.\nGo to the {ff 00 00 08}town hall{ff 00 00 00}, make\npayments.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}and all will be\nwell, hm?\nAnd don't forget to come\nhere for all of your\nshopping needs!",
-   "et": ""
+   "et": "Tere tulemast! {01 00 00 05 00}Jah, tere!\n\n\nEhitus on lõppenud!{01 00 00 0f 00}\nKuidas meeldib su uus{01 00 00 05 00}\nkolmekorruseline maja, ah?\nSul on nüüd terve lisa-\nkorrus, mida sisustada oma\nmaitse järgi!{01 00 00 05 00} Kui imeline!\nNüüd siis{01 00 00 05 00} arve kohta.{01 00 00 05 00}\nSu uus hüpoteek on\nkokku{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{ff 00 00 02}598 000 kella{ff 00 00 00}!{01 00 00 0a 00}\nSuur tänu!\n\nOh,{01 00 00 0a 00} aga nagu varemgi, ma ei\nvaja seda kohe.{01 00 00 0a 00}\nSa tead, kuidas käib.\nMine {ff 00 00 08}raekotta{ff 00 00 00}, tee\nmakseid{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.ja kõik saab\nkorda, ah?\nJa ära unusta siia tulla\nkõigi oma ostude\njaoks!"
   },
   {
    "id": 78,
    "en": "{07 14 00}Thanks!{01 00 00 05 00} Thanks much,{01 00 00 0f 00}\n{04 00 00}!\n\nYou've paid off the full\ncost{01 00 00 05 00} of your new addition!\nYou're a dynamo, yes?{01 00 00 0a 00}\n{07 00 00}And how do you like your\nhumble abode, hm?\n\n.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 0b 00}Hmm?{01 00 00 0f 00}{07 00 00} You have too much\nfurniture?{01 00 00 05 00} And not enough\nspace for it? {01 00 00 05 00}Madness!\n.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}Well, as always, I'm happy\nto take anything you don't\nneed off your hands{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\nBut that won't do,{01 00 00 0f 00} will it?\nI guess we have no choice,\n{07 14 00}but to add another room!{01 00 00 05 00}\n{07 00 00}Of course,{01 00 00 05 00} doing so will\ninvolve the purchase of\nadditional land.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\nBut looking at your payment\nhistory, {04 00 00},{01 00 00 05 00} I can\nsee there's no worry there.\nSo,{07 0b 00} would you like to add a\nroom to your home?{02 00 00 55 56}\nI need space!\nNo, No, NOOO!!!",
-   "et": ""
+   "et": "{07 14 00}Aitäh!{01 00 00 05 00} Suur tänu,{01 00 00 0f 00}\n{04 00 00}!\n\nSa maksid ära kogu uue\njuurdeehituse kulu!{01 00 00 05 00}\nSa oled dünamo, jah?{01 00 00 0a 00}\n{07 00 00}Ja kuidas meeldib su\ntagasihoidlik elamine, ah?\n\n.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 0b 00}Hmm?{01 00 00 0f 00}{07 00 00} Sul on liiga palju\nmööblit?{01 00 00 05 00} Ja mitte piisavalt\nruumi? {01 00 00 05 00}Hullus!\n.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}Noh, nagu ikka, võtan ma\nhea meelega kõik, mida sa\nei vaja, su käest{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\nAga see ei kõlba,{01 00 00 0f 00} ega?\nVist pole meil muud valikut,\n{07 14 00}kui lisada veel üks tuba!{01 00 00 05 00}\n{07 00 00}Muidugi{01 00 00 05 00} nõuab see\ntäiendava maa\nostmist{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\nAga vaadates su maksete\najalugu, {04 00 00},{01 00 00 05 00} näen,\net muret pole.\nNii et,{07 0b 00} kas tahaksid oma\nkoju toa juurde?{02 00 00 55 56}\nVajan ruumi!\nEi, ei, EIII!!!"
   },
   {
    "id": 79,
    "en": "{07 14 00}Welcome! {01 00 00 05 00}Yes, welcome!\n\n\nYour new addition has\nbeen completed!{01 00 00 0f 00}\nDid you see it yet?\nYou have an additional room\non the first floor,{01 00 00 0a 00} making\nit 20% more livable!\n{07 00 00}Now then,{01 00 00 05 00} for a modest\naddition{01 00 00 05 00}, plus land,{01 00 00 05 00} surveys,{01 00 00 05 00}\nconstruction,{01 00 00 05 00} and permits.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\nThe total comes to\n{ff 00 00 02}728,000 Bells{ff 00 00 00}!{01 00 00 0a 00}\nThank you VERY much!\n{07 04 00}Not now, you crazy person!{01 00 00 0a 00}\nDid you forget?{07 14 00} Not now.\n\n{07 00 00}Just keep going to the {ff 00 00 08}town\nhall {ff 00 00 00}and making payments\ninto my account, hm?\nYes, yes,{01 00 00 05 00} take your time.\nThat's just fine.{01 00 00 0a 00}\n{07 14 00}Thanks much!{01 00 00 05 00} Indeedy!",
-   "et": ""
+   "et": "{07 14 00}Tere tulemast! {01 00 00 05 00}Jah, tere!\n\n\nSinu juurdeehitus on\nvalmis!{01 00 00 0f 00}\nKas sa nägid seda juba?\nSul on lisatuba\nesimesel korrusel,{01 00 00 0a 00} mis teeb\nselle 20% mugavamaks!\n{07 00 00}Nüüd siis{01 00 00 05 00} tagasihoidliku{01 00 00 05 00}\njuurdeehituse,{01 00 00 05 00} maa,{01 00 00 05 00}\nmõõtmise{01 00 00 05 00} ja lubade eest{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\nKokku tuleb\n{ff 00 00 02}728 000 kella{ff 00 00 00}!{01 00 00 0a 00}\nSUUR tänu!\n{07 04 00}Mitte praegu, sa hull!{01 00 00 0a 00}\nUnustasid?{07 14 00} Mitte praegu.\n\n{07 00 00}Lihtsalt käi edasi {ff 00 00 08}raekojas\n{ff 00 00 00}ja tee makseid minu\nkontole, ah?\nJah, jah,{01 00 00 05 00} võta aega.\nSee on igati hea.{01 00 00 0a 00}\n{07 14 00}Suur tänu!{01 00 00 05 00} Tõesti!"
   },
   {
    "id": 80,
    "en": "{07 14 00}Thanks! {01 00 00 05 00}Thanks much,{01 00 00 0f 00}\n{04 00 00}!\n\nYou paid off all the debt\non your fine, fine house!{01 00 00 05 00}\nThank you{01 00 00 0a 00} SO VERY much!\n{07 00 00}I suppose if you paid it all\noff, then that must mean{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n\nYou'd like an even bigger\nand better house to live in,\n{07 0b 00}wouldn't you, hm?\n{07 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n\n\nIn that case, I can add on\none more room to your\ncurrent house. {01 00 00 05 00}Yes!\nThere is the remodeling\ncost, the price of the land,\nand all those other fees...\nIt'll make your eyes pop out\nof your head, it's so\nexpensive! {01 00 00 05 00}Ho ho ho!\n{07 0b 00}But shall we do it anyway?{02 00 00 55 56}\nAbsolutely!\nYou're nuts!",
-   "et": ""
+   "et": "{07 14 00}Aitäh! {01 00 00 05 00}Suur tänu,{01 00 00 0f 00}\n{04 00 00}!\n\nSa maksid ära kogu võla\noma kena-kena maja eest!{01 00 00 05 00}\nSuur{01 00 00 0a 00} SUUR tänu!\n{07 00 00}Vist kui sa kõik ära\nmaksid, siis see tähendab{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n\nSa tahaksid veel suuremat\nja paremat maja, kus elada,\n{07 0b 00}kas pole, ah?\n{07 00 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n\n\nSel juhul saan ma lisada\nveel ühe toa sinu\npraegusele majale. {01 00 00 05 00}Jah!\nOn ümberehituse\nkulu, maa hind\nja kõik need muud tasud...\nSu silmad hüppavad peast\nvälja, nii kallis\nsee on!{01 00 00 05 00} Ho ho ho!\n{07 0b 00}Aga kas teeme ikka ära?{02 00 00 55 56}\nKindlasti!\nSa oled hull!"
   },
   {
    "id": 81,
    "en": "{07 14 00}Welcome! {01 00 00 05 00}Yes, welcome!\n\n\nDid you see your new\naddition? Isn't it wondrous?\nNow THAT is a HOUSE!\nThe first floor is even\nbigger! {01 00 00 05 00}How spacious!{01 00 00 05 00} You\nmust be satisfied now, hm?\n{07 00 00}Now then,{01 00 00 05 00} about that price!{01 00 00 05 00}\nAs I mentioned before,{01 00 00 05 00} it's\nnothing to scoff at.{01 00 00 05 00}.{01 00 00 05 00}.\n{ff 00 00 02}848,000 Bells{ff 00 00 00},{01 00 00 0a 00} please!\n\n\n{07 04 00}Oh,{01 00 00 0a 00} but now, of course.\n{07 14 00}It's the same as always.\n\n{07 00 00}Just keep making payments\nto my account at the {ff 00 00 08}town\nhall{ff 00 00 00}, if you don't mind, hm?\n{07 14 00}And there's no rush.{01 00 00 05 00}\nJust take your time.{01 00 00 0a 00}\nEnjoy life, hm?{01 00 00 05 00}",
-   "et": ""
+   "et": "{07 14 00}Tere tulemast! {01 00 00 05 00}Jah, tere!\n\n\nKas nägid oma uut\njuurdeehitust? Vaimustav!\nSEE on alles MAJA!\nEsimene korrus on veel\nsuurem! {01 00 00 05 00}Kui avar!{01 00 00 05 00} Nüüd pead\nsa küll rahul olema, ah?\n{07 00 00}Nüüd siis{01 00 00 05 00} selle hinna kohta!{01 00 00 05 00}\nNagu ma mainisin,{01 00 00 05 00} pole\nsee naljaasi{01 00 00 05 00}.{01 00 00 05 00}.\n{ff 00 00 02}848 000 kella{ff 00 00 00},{01 00 00 0a 00} palun!\n\n\n{07 04 00}Oh,{01 00 00 0a 00} aga nüüd, muidugi.\n{07 14 00}Nagu alati.\n\n{07 00 00}Lihtsalt tee edasi makseid\nminu kontole {ff 00 00 08}raekojas{ff 00 00 00},\nkui sa ei pahanda, ah?\n{07 14 00}Ja pole kiiret.{01 00 00 05 00}\nVõta lihtsalt aega.{01 00 00 0a 00}\nNaudi elu, ah?{01 00 00 05 00}"
   },
   {
    "id": 82,
    "en": "{07 14 00}Thanks!{01 00 00 05 00} Thanks much,{01 00 00 0f 00}\n{04 00 00}!\n\nOnce again,{01 00 00 05 00} you've paid off\nall the debt on your house.\nThank you very, very much!\n{07 00 00}It didn't take you long at\nall!{01 00 00 05 00} You must have excellent\nmotivation{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\nDon't tell me.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 0b 00} You still\ndon't have enough room!{01 00 00 05 00}\nMadness!\n{07 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n\n\nWell the only option{01 00 00 05 00} is to\nadd yet another room to\nyour house. {01 00 00 05 00}Yes.\nOf course, there is the\ncost of land and\nconstruction.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\nAnd it's so expensive, your\nheart may stop when you\nsee the price. {01 00 00 05 00}Ho ho!{01 00 00 05 00}\nBut who cares!{07 0b 00} Shall we do\nit anyway?{02 00 00 55 56}\nI suppose...\nPlease! NO!!!",
-   "et": ""
+   "et": "{07 14 00}Aitäh!{01 00 00 05 00} Suur tänu,{01 00 00 0f 00}\n{04 00 00}!\n\nJälle kord{01 00 00 05 00} maksid sa ära\nkogu oma maja võla.\nSuur-suur tänu!\n{07 00 00}See ei võtnud sul üldse\nkaua!{01 00 00 05 00} Sul peab olema\nsuurepärane motivatsioon{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\nÄra ütle{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 0b 00} Sul pole ikka\npiisavalt ruumi!{01 00 00 05 00}\nHullus!\n{07 00 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n\n\nNoh, ainus valik{01 00 00 05 00} on\nlisada sinu majale veel\nüks tuba. {01 00 00 05 00}Jah.\nMuidugi on maa ja\nehituse\nkulu{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\nJa see on nii kallis, et su\nsüda võib seisma jääda, kui\nhinda näed. {01 00 00 05 00}Ho ho!{01 00 00 05 00}\nAga mis sest!{07 0b 00} Kas teeme\nikka ära?{02 00 00 55 56}\nNo eks vist...\nPalun! EI!!!"
   },
   {
    "id": 83,
    "en": "{07 14 00}Welcome! {01 00 00 05 00}Yes, welcome!\n\n\nThe remodel of your home\nis complete!{01 00 00 05 00} Have you seen\nit?{01 00 00 05 00} Tell me you have!{01 00 00 0f 00}\nIt's three stories, now,{01 00 00 05 00}\nand the first floor is\nabsolutely gigantic, hm?\nYou will find no house\nmore gorgeous than this!{01 00 00 05 00}\nSo big! {01 00 00 05 00}So glorious!\n{07 00 00}So,{01 00 00 05 00} on to the price...{01 00 00 05 00}\nNow, I want you to know I'm\ntaking a huge loss on this.\nI'm bleeding money, hm?\nIt comes to the low,{01 00 00 05 00} low\nprice of.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n{ff 00 00 02}9,480 Bells{ff 00 00 00}!\n\n\n{07 02 00}Whoops!{01 00 00 0a 00} I'm sorry.{07 00 00}{01 00 00 05 00} I'm off\nby just a smidgen. {01 00 00 05 00}Ho ho!{01 00 00 05 00}\nYou work hard, {04 00 00}.\nYou can afford{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{ff 00 00 02}948,000 Bells{ff 00 00 00}!{01 00 00 05 00}\n\n{07 03 00}Oh ho ho ho ho ho ho ho!{01 00 00 0f 00}\n{07 14 00}Aren't you positively joyful,{01 00 00 05 00}\n{04 00 00}?\nAs usual, you can pay it\noff in installments!\n\n{07 00 00}And just so we're clear on\nthis,{01 00 00 05 00} I cannot expand your\nhouse any more.{01 00 00 05 00} Not at all.\nNo, no!{01 00 00 05 00} You'll have to be\nhappy with what you've got,\nI'm afraid.\n{07 14 00}But don't hold it against\nme!{01 00 00 05 00} I'm still counting on\nyou for business here!\n{01 00 00 0a 00}Yes, yes!",
-   "et": ""
+   "et": "{07 14 00}Tere tulemast! {01 00 00 05 00}Jah, tere!\n\n\nSinu kodu ümberehitus\non valmis!{01 00 00 05 00} Kas oled seda\nnäinud?{01 00 00 05 00} Ütle, et oled!{01 00 00 0f 00}\nNüüd on see kolmekordne{01 00 00 05 00}\nja esimene korrus on\nlausa hiiglaslik, ah?\nSa ei leia uhkemat\nmaja kui see!{01 00 00 05 00}\nNii suur! {01 00 00 05 00}Nii hiilgav!\n{07 00 00}Nii,{01 00 00 05 00} hinna juurde...{01 00 00 05 00}\nTahan, et sa teaksid, et ma\nteen selle pealt kahju.\nMa veritsen raha, ah?\nSee tuleb madala,{01 00 00 05 00} madala\nhinnaga{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{ff 00 00 02}9 480 kella{ff 00 00 00}!\n\n\n{07 02 00}Uups!{01 00 00 0a 00} Vabandust.{07 00 00}{01 00 00 05 00} Eksisin\nnatuke. {01 00 00 05 00}Ho ho!{01 00 00 05 00}\nSa rabad tööd, {04 00 00}.\nSa saad endale lubada{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{ff 00 00 02}948 000 kella{ff 00 00 00}!{01 00 00 05 00}\n\n{07 03 00}Oh ho ho ho ho ho ho!{01 00 00 0f 00}\n{07 14 00}Kas pole sa lausa rõõmus,{01 00 00 05 00}\n{04 00 00}?\nNagu tavaliselt saad sa\nmaksta osamaksetena!\n\n{07 00 00}Ja et see oleks selge,{01 00 00 05 00}\nma ei saa su maja enam\nlaiendada.{01 00 00 05 00} Üldse mitte.\nEi, ei!{01 00 00 05 00} Sa pead olema\nrahul sellega, mis sul on,\nkardan ma.\n{07 14 00}Aga ära pane seda mulle\npahaks!{01 00 00 05 00} Ma loodan ikka\nsinu peale ärialaselt!\n{01 00 00 0a 00}Jah, jah!"
   },
   {
    "id": 84,
    "en": "{07 14 00}Thanks!{01 00 00 05 00} Thanks much,{01 00 00 0f 00}\n{04 00 00}!\n\nFinally, at long last,{01 00 00 05 00} you've\npaid off all that debt!\nThanks so much!{01 00 00 0a 00} Yes, yes!\n{07 00 00}Unfortunately,{01 00 00 05 00} I can't get\npermits for a bigger house\nthan you currently have!\nSo, if you're at a loss as\nto what to do with all your\nbags of money.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00}\nJust open a savings account\nat the {ff 00 00 08}town hall{ff 00 00 00}. {01 00 00 05 00}You know\nthe place, I imagine, yes?\nYou may still be young, but\nyou need to save up for\nlater in life, {04 00 00}!\nIt's never too early to\nstart saving for\nretirement. No, indeed!\nAfter all, there's no social\nsecurity in {04 03 00}!\n\nSo, now just deposit your\nmoney at the {ff 00 00 08}town hall{ff 00 00 00},\ninstead of making payments.\nBut you can always make\npayments on products at\nthe shop!{01 00 00 05 00}{07 03 00} Ho ho ho ho ho!{01 00 00 05 00}{07 00 00}\nNow that you've got no\ndebt, you can buy anything\nyou like!\n{07 14 00}And I'll be happy to sell it\nto you, hm?",
-   "et": ""
+   "et": "{07 14 00}Aitäh!{01 00 00 05 00} Suur tänu,{01 00 00 0f 00}\n{04 00 00}!\n\nLõpuks ometi{01 00 00 05 00} maksid sa\nkogu selle võla ära!\nSuur tänu!{01 00 00 0a 00} Jah, jah!\n{07 00 00}Kahjuks{01 00 00 05 00} ei saa ma lube\nsuurema maja jaoks, kui\nsul praegu on!\nNii et kui sa ei tea, mida\nkõigi oma rahakottidega\nteha.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00}\nAva lihtsalt hoiukonto\n{ff 00 00 08}raekojas{ff 00 00 00}. {01 00 00 05 00}Sa tead\nseda kohta, ma arvan, jah?\nSa võid veel noor olla, aga\nsa pead koguma hilisemaks\neluks, {04 00 00}!\nKunagi pole liiga vara\nhakata pensioniks\nkoguma. Ei, tõesti!\nLõppude lõpuks pole linnas\n{04 03 00} pensionisüsteemi!\n\nNii et nüüd lihtsalt hoiusta\noma raha {ff 00 00 08}raekojas{ff 00 00 00},\nmakse tegemise asemel.\nAga sa võid alati teha\nmakseid toodete eest\npoes!{01 00 00 05 00}{07 03 00} Ho ho ho ho ho!{01 00 00 05 00}{07 00 00}\nNüüd, kui sul pole võlgu,\nsaad sa osta kõike,\nmida soovid!\n{07 14 00}Ja mina müün seda sulle\nhea meelega, ah?"
   },
   {
    "id": 85,
    "en": "{07 04 00}My!{01 00 00 05 00} My!{01 00 00 05 00} What generosity!\n\n\n{07 00 00}If you wish to build it,{01 00 00 05 00}\nI shall come build it, hm?\n\nNow then,{01 00 00 05 00}{07 0b 00} what color roof\nwould you like this time?{02 07 00 48 48 48 48 44}\nRed.\nBlue.\nYellow.\nGreen.\nAnother color.",
-   "et": ""
+   "et": "{07 04 00}Oi!{01 00 00 05 00} Oi!{01 00 00 05 00} Milline heldus!\n\n\n{07 00 00}Kui sa soovid seda ehitada,{01 00 00 05 00}\ntulen ma ja ehitan, ah?\n\nNüüd siis,{01 00 00 05 00}{07 0b 00} mis värvi katust\nsa seekord soovid?{02 07 00 48 48 48 48 44}\nPunane.\nSinine.\nKollane.\nRoheline.\nMõni muu värv."
   },
   {
    "id": 86,
    "en": "{07 14 00}Oh, stop it!{01 00 00 0f 00} What are you\nsaying,{01 00 00 05 00} {04 00 00}!\n\nWhy, even if you don't pay\nyour construction debt off,\nI won't say anything!{01 00 00 05 00}\nYou know that! Don't insult\nboth our intelligences!\n\nSo,{01 00 00 0a 00} no refusing!{01 00 00 05 00} I insist\non making your house and\nthereby your life{01 00 00 05 00} better!\n{07 00 00}Now then,{01 00 00 05 00} tell me{01 00 00 05 00}{07 0b 00} what\ncolor roof you would like\nnext!{02 07 00 48 48 48 48 44}\nRed.\nBlue.\nYellow.\nGreen.\nAnother color.",
-   "et": ""
+   "et": "{07 14 00}Oh, jäta!{01 00 00 0f 00} Mida sa\nräägid,{01 00 00 05 00} {04 00 00}!\n\nIsegi kui sa oma ehitusvõlga\nära ei maksa,\nei ütle ma midagi!{01 00 00 05 00}\nSa tead seda! Ära solva\nmeie mõlema mõistust!\n\nNii et{01 00 00 0a 00} ära keeldu!{01 00 00 05 00} Ma nõuan,\net teen su maja ja seega\nsu elu{01 00 00 05 00} paremaks!\n{07 00 00}Nüüd siis{01 00 00 05 00} ütle mulle{01 00 00 05 00}{07 0b 00} mis\nvärvi katust sa\njärgmisena soovid!{02 07 00 48 48 48 48 44}\nPunane.\nSinine.\nKollane.\nRoheline.\nMõni muu värv."
   },
   {
    "id": 87,
    "en": ".{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}By the way, {04 00 00},{01 00 00 0f 00}\nI don't want to have to tell\nyou this...{01 10 00 32}\nBut it's past closing time!\nI have to close up shop{01 00 00 05 00} and\nclean out the till and such.{01 10 00 32}\nSo, I need you to leave{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\nBut do come again\ntomorrow!!!{01 10 00 32}",
-   "et": ""
+   "et": ".{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}Muide, {04 00 00},{01 00 00 0f 00}\nma ei tahaks sulle seda\nöelda...{01 10 00 32}\nAga sulgemisaeg on möödas!\nPean poe sulgema{01 00 00 05 00} ja\nkassa tühjendama.{01 10 00 32}\nNii et sa pead lahkuma{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\nAga tule kindlasti\nhomme jälle!!!{01 10 00 32}"
   },
   {
    "id": 88,
    "en": "{07 00 00}No, of course you wouldn't\nsell! Ho ho!\n\nWell, is there anything else\nI can do for you?{02 06 00 07 00 00 15}\nI want to sell!\nCatalog, please!\nTurnip prices!\nNothing, really.",
-   "et": ""
+   "et": "{07 00 00}Ei, muidugi sa ei müüks!\nHo ho!\n\nNoh, kas saan sinu heaks\nveel midagi teha?{02 06 00 07 00 00 15}\nTahan müüa!\nKataloog, palun!\nNaeri hind!\nTegelikult ei midagi."
   },
   {
    "id": 89,
    "en": "{07 16 00}I have my paws full trying\nto get stock in the catalog\nfor the residents here...\nIt angers me, but I don't\nhave time to keep track of\nwhat visitors want, hm?\nI'm sorry, but{01 00 00 0a 00} would you\nplease place orders in\nyour own town?\n{07 00 00}Is there anything else I can\nhelp you with, hm?{02 06 00 07 00 00 15}\nSell! Sell!\nYour catalog?\nTurnip prices?\nForget it!",
-   "et": ""
+   "et": "{07 16 00}Mul on käpad tööd täis,\net saada kataloogi kaupa\nsiinsetele elanikele...\nSee vihastab mind, aga mul\npole aega jälgida, mida\nkülalised soovivad, ah?\nVabandust, aga{01 00 00 0a 00} kas sa\nsaaksid tellimused esitada\noma linnas?\n{07 00 00}Kas saan sind veel millegagi\naidata, ah?{02 06 00 07 00 00 15}\nMüün! Müün!\nSinu kataloog?\nNaeri hind?\nUnusta ära!"
   },
   {
    "id": 90,
    "en": "{07 03 00}Welcome!{01 00 00 14 00}{07 14 00} Yes, welcome to\nthe grand opening of\n{ff 00 00 08}Nook 'n' Go{ff 00 00 00}!",
-   "et": ""
+   "et": "{07 03 00}Tere tulemast!{01 00 00 14 00}{07 14 00} Jah, tere\ntulemast {ff 00 00 08}Nook 'n' Go{ff 00 00 00}\npidulikule avamisele!"
   },
   {
    "id": 91,
    "en": "{07 03 00}Welcome!{01 00 00 14 00}{07 14 00} Yes, welcome to\nthe grand opening of\n{ff 00 00 08}Nookway{ff 00 00 00}!",
-   "et": ""
+   "et": "{07 03 00}Tere tulemast!{01 00 00 14 00}{07 14 00} Jah, tere\ntulemast {ff 00 00 08}Nookway{ff 00 00 00}\npidulikule avamisele!"
   },
   {
    "id": 92,
    "en": "{07 03 00}Welcome!{01 00 00 14 00}{07 14 00} Yes, welcome to\nthe grand opening of\n{ff 00 00 08}Nookington's{ff 00 00 00}!\n{07 19 00}We've expanded to include \na second floor full of \nexciting merchandise.\n{07 00 00}Furthermore, there is a\nbrand-new hair salon on the\nfirst floor.\n{07 14 00}There, top stylist {ff 00 00 06}Harriet{ff 00 00 00}\nwill cut your hair to your\nprecise specifications!\n{07 0a 00}At {ff 00 00 08}Nookington's{ff 00 00 00} we look \nforward to taking care of \nall your needs!",
-   "et": ""
+   "et": "{07 03 00}Tere tulemast!{01 00 00 14 00}{07 14 00} Jah, tere\ntulemast {ff 00 00 08}Nookington'si{ff 00 00 00}\npidulikule avamisele!\n{07 19 00}Oleme laienenud ja lisanud \nteise korruse täis \npõnevat kaupa.\n{07 00 00}Lisaks on esimesel\nkorrusel täiesti uus\njuuksurisalong.\n{07 14 00}Seal lõikab stilist {ff 00 00 06}Harriet{ff 00 00 00}\nsu juukseid täpselt\nsinu soovide järgi!\n{07 0a 00}{ff 00 00 08}Nookington'sis{ff 00 00 00} ootame \nvõimalust hoolitseda \nkõigi su vajaduste eest!"
   },
   {
    "id": 93,
    "en": "{07 04 00}Oh, but wait!{01 00 00 0f 00} You already\nhave as much money as you\ncan hold!\n{07 00 00}My apologies but{01 00 00 05 00} please\nreorganize your items to\nmake room for a money bag.\n{07 19 00}And please do come again\nto sell! {01 01 00}{07 00 00}Is there anything\nelse I can do for you?{02 06 00 07 00 00 15}\nI wanna sell!\nCatalog, please!\nTurnip prices?\nI'm done!",
-   "et": ""
+   "et": "{07 04 00}Oh, aga oota!{01 00 00 0f 00} Sul on juba\nnii palju raha, kui sa\nkanda jaksad!\n{07 00 00}Vabandust, aga{01 00 00 05 00} korralda\noma esemed ümber, et\nteha ruumi rahakotile.\n{07 19 00}Ja tule palun jälle\nmüüma! {01 01 00}{07 00 00}Kas saan sinu\nheaks veel midagi teha?{02 06 00 07 00 00 15}\nTahan müüa!\nKataloog, palun!\nNaeri hind?\nOlen valmis!"
   }
  ]
 }

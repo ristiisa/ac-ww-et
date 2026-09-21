@@ -4,17 +4,17 @@
   {
    "id": 0,
    "en": ".{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 04 00}You WEASEL!{01 00 00 05 00} You opened\nthe box for {ff 00 00 06}{04 10 00}{ff 00 00 00},\ndidn't you?!\n{07 05 00}Man! {01 00 00 05 00}Unbelievable!{01 00 00 0f 00}\nYou SWINE, {01 00 00 05 00}{04 02 00}!{03 02 00 01}",
-   "et": ""
+   "et": ".{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 04 00}Sa NIRK!{01 00 00 05 00} Sa avasid\n{ff 00 00 06}{04 10 00}{ff 00 00 00} karbi,\neks?!\n{07 05 00}Mees! {01 00 00 05 00}Uskumatu!{01 00 00 0f 00}\nSa SIGA, {01 00 00 05 00}{04 02 00}!{03 02 00 01}"
   },
   {
    "id": 1,
    "en": ".{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 04 00}Hey, you opened the\npresent for {ff 00 00 06}{04 10 00}{ff 00 00 00}!\n\n{07 06 00}I wrote \"To: {ff 00 00 06}{04 10 00}{ff 00 00 00}\"\non the side of the box, \ndidn't I, {04 02 00}?!\n{07 05 00}Here's a thought: DON'T OPEN\nSTUFF THAT DOESN'T HAVE\nYOUR NAME ON IT!{03 02 00 01}",
-   "et": ""
+   "et": ".{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 04 00}Hei, sa avasid\n{ff 00 00 06}{04 10 00}{ff 00 00 00} kingi!\n\n{07 06 00}Kirjutasin „Saaja: {ff 00 00 06}{04 10 00}{ff 00 00 00}”\nkarbi küljele, \neks, {04 02 00}?!\n{07 05 00}Mõtle järele: ÄRA AVA\nASJU, MILLEL POLE\nSINU NIME PEAL!{03 02 00 01}"
   },
   {
    "id": 2,
    "en": "{07 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}Y'know, {01 00 00 05 00}{ff 00 00 05}{04 1f 00}{ff 00 00 00}...{01 00 00 0f 00}\n{07 15 00}Opening someone else's\npresent without asking is...\nAS UNCOOL AS IT GETS!{01 01 00}\n{07 01 00}Ugh!{01 00 00 05 00} I can't BELIEVE you!{01 00 00 05 00}\nYou STINK, {04 02 00}!{03 02 00 01}",
-   "et": ""
+   "et": "{07 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}Tead, {01 00 00 05 00}{ff 00 00 05}{04 1f 00}{ff 00 00 00}...{01 00 00 0f 00}\n{07 15 00}Kellegi teise kingi avamine\nilma küsimata on...\nNII EBALAHE KUI OLLA SAAB!{01 01 00}\n{07 01 00}Uhh!{01 00 00 05 00} Ma ei USU sind!{01 00 00 05 00}\nSa HAISED, {04 02 00}!{03 02 00 01}"
   }
  ]
 }

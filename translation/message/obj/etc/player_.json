@@ -4,97 +4,97 @@
   {
    "id": 0,
    "en": "I can't carry any more, so\nI guess I'll just leave it.",
-   "et": ""
+   "et": "Ma ei jaksa rohkem kanda,\nnii et jätan selle siia."
   },
   {
    "id": 1,
    "en": "Check out what I dug up!\n{0b 03 00}{04 1a 00}!",
-   "et": ""
+   "et": "Vaata, mis ma kaevasin!\n{0b 03 00}{04 1a 00}!"
   },
   {
    "id": 2,
    "en": "Oh, {01 00 00 05 00}I'm carrying too much!{01 00 00 05 00}\nNow what?{02 04 00 00 00}\nSwap it.\nDrop it.",
-   "et": ""
+   "et": "Oh, {01 00 00 05 00}ma kannan liiga palju!{01 00 00 05 00}\nMis nüüd?{02 04 00 00 00}\nVaheta ära.\nViska maha."
   },
   {
    "id": 3,
    "en": "But {01 00 00 05 00}I'm carrying too much!\nNow what?{02 04 00 00 00}\nSwap it.\nBury it again.",
-   "et": ""
+   "et": "Aga {01 00 00 05 00}ma kannan liiga palju!\nMis nüüd?{02 04 00 00 00}\nVaheta ära.\nMata tagasi."
   },
   {
    "id": 4,
    "en": "Want a different bed?{02 04 00 00 00}\nSwitch!\nNever mind.",
-   "et": ""
+   "et": "Kas tahad teist voodit?{02 04 00 00 00}\nVaheta!\nÜkskõik."
   },
   {
    "id": 5,
    "en": "{0b 03 00}{0b 02 00}{04 1a 00}...",
-   "et": ""
+   "et": "{0b 03 00}{0b 02 00}{04 1a 00}..."
   },
   {
    "id": 6,
    "en": "\nNothing is playing.",
-   "et": ""
+   "et": "\nMidagi ei mängi."
   },
   {
    "id": 10,
    "en": "Aw...{01 00 00 05 00} Rats!\n\nMy axe broke!",
-   "et": ""
+   "et": "Ohh...{01 00 00 05 00} Pagan!\n\nMu kirves läks katki!"
   },
   {
    "id": 20,
    "en": "I got stung by BEES!\n\nOw! Ow ow ow ow!",
-   "et": ""
+   "et": "Mind nõelasid MESILASED!\n\nAi! Ai ai ai ai!"
   },
   {
    "id": 21,
    "en": "I got bit by a mosquito! {01 00 00 05 00}\n\nSo...{01 00 00 05 00}very...{01 00 00 05 00}ITCHY!",
-   "et": ""
+   "et": "Mind hammustas sääsk! {01 00 00 05 00}\n\nNii...{01 00 00 05 00}väga...{01 00 00 05 00}SÜGELEB!"
   },
   {
    "id": 30,
    "en": "Yes! {01 00 00 00 00}Look what I caught!\n\n\nI got the {ff 00 00 07}golden net{ff 00 00 00}!\nI'm gonna take care of it!{00 00 00}",
-   "et": ""
+   "et": "Jess! {01 00 00 00 00}Vaata, mis püüdsin!\n\n\nSain {ff 00 00 07}kuldse võrgu{ff 00 00 00}!\nHoian seda hoolega!{00 00 00}"
   },
   {
    "id": 31,
    "en": "Look at what I caught!\n\n\nI reeled in the {ff 00 00 07}golden\nfishing rod{ff 00 00 00}!\nLook out fishies!",
-   "et": ""
+   "et": "Vaata, mis ma püüdsin!\n\n\nÕngitsesin välja {ff 00 00 07}kuldse\nõnge{ff 00 00 00}!\nGare, kalad!"
   },
   {
    "id": 32,
    "en": "I did it!\n\n\nI got the {ff 00 00 07}golden axe{ff 00 00 00}!\nThis won't ever break!",
-   "et": ""
+   "et": "Sain hakkama!\n\n\nSain {ff 00 00 07}kuldse kirve{ff 00 00 00}!\nSee ei lähe kunagi katki!"
   },
   {
    "id": 33,
    "en": "I did it!\n\n\nI got the {ff 00 00 07}golden shovel{ff 00 00 00}!\n\nWhat does it do?",
-   "et": ""
+   "et": "Sain hakkama!\n\n\nSain {ff 00 00 07}kuldse labida{ff 00 00 00}!\n\nMida see teeb?"
   },
   {
    "id": 34,
    "en": "I did it!\n\n\nI got the {ff 00 00 07}golden watering\ncan{ff 00 00 00}!\n\nJust try and stop me from\nwatering!",
-   "et": ""
+   "et": "Sain hakkama!\n\n\nSain {ff 00 00 07}kuldse\nkastekannu{ff 00 00 00}!\n\nProovi mind nüüd\nkastmast takistada!"
   },
   {
    "id": 35,
    "en": "BULL'S-EYE!\n\n\nI got the {ff 00 00 07}golden slingshot{ff 00 00 00}!\n\nI'm right on target!",
-   "et": ""
+   "et": "KÜMNESSE!\n\n\nSain {ff 00 00 07}kuldse lingu{ff 00 00 00}!\n\nOlen täpselt märgil!"
   },
   {
    "id": 37,
    "en": "WAHOO!\n\nI got the {ff 00 00 07}four-leaf clover{ff 00 00 00}!\n\nI'm so lucky!",
-   "et": ""
+   "et": "JUHHUU!\n\nSain {ff 00 00 07}neljalehelise ristiku{ff 00 00 00}!\n\nMul on nii vedanud!"
   },
   {
    "id": 40,
    "en": "\n{01 08 00}ALL RIGHT!\n\nMy home loan{01 00 00 05 00}\n\nis ALL paid off!",
-   "et": ""
+   "et": "\n{01 08 00}SUUREPÄRANE!\n\nMu kodulaen{01 00 00 05 00}\n\non TÄIELIKULT makstud!"
   },
   {
    "id": 41,
    "en": "\n{01 08 00}YAHOO!\n\nI'm done with work!{01 00 00 0f 00}\n\nNow, I'm FREE!",
-   "et": ""
+   "et": "\n{01 08 00}JUHHUU!\n\nMu töö on tehtud!{01 00 00 0f 00}\n\nNüüd olen VABA!"
   }
  ]
 }

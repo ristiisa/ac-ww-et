@@ -4,12 +4,12 @@
   {
    "id": 0,
    "en": "{07 00 00}So, like, nobody is better\nthan you at catching bugs,\n{07 0b 00}huh?\n.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}{07 04 00}WHOA.{01 00 00 05 00} Does that mean\nyou're the bug-catching\nchamp?!\n{07 0e 00}I think I'm jealous{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.{01 01 00}\n{07 06 00}YEP! I'm pretty jealous,\n{01 00 00 05 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 00 00}Nii et, nagu, keegi pole\nputukapüügis sinust parem,\n{07 0b 00}mis?\n{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}{07 04 00}VAU.{01 00 00 05 00} Kas see tähendab,\net sa oled putukapüügi\nmeister?!\n{07 0e 00}Ma vist kadestan sind{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.{01 01 00}\n{07 06 00}JAH! Ma kadestan sind\ntõsiselt, {01 00 00 05 00}{04 02 00}!"
   },
   {
    "id": 1,
    "en": "{07 14 00}You're such a sweetie for\nspending time with me and\ncatching bugs!\n{07 00 00}{07 16 00}But you are WAY too good at\nit, {04 1f 00}!{01 00 00 05 00}\n\n{07 06 00}Don't think I'm gonna forget\nthat you took my place as\nthe bug-catching champ!\nAnd there's no way I'm\ngonna let you steal my\nthunder in other contests!\n{07 06 00}I'm trying to become the\nprincess of all hobbies in\nthis town, {01 00 00 05 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 14 00}Sa oled nii armas, et\nveedad minuga aega ja\npüüad putukaid!\n{07 00 00}{07 16 00}Aga sa oled selles LIIGA\nhea, {04 1f 00}!{01 00 00 05 00}\n\n{07 06 00}Ära arva, et ma unustan,\net sa võtsid mu koha\nputukapüügi meistrina!\nJa ma ei lase sul kuidagi\nvarastada mu hiilgust\nka teistel võistlustel!\n{07 06 00}Ma tahan saada kõigi\nselle linna hobide\nprintsessiks, {01 00 00 05 00}{04 02 00}!"
   }
  ]
 }

@@ -4,17 +4,17 @@
   {
    "id": 0,
    "en": "{07 00 00}I don't know how to say\nthis, {04 1f 00}, but{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n\n{07 15 00}You remember that letter\nwe talked about?{01 00 00 05 00} Aren't you\nway overdue?!\n{07 0f 00}I told {ff 00 00 06}{04 10 00} {ff 00 00 00}what\ntime it was going to be\ndelivered, ya know{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 15 00}I guess you're just a flake.\nHand me the letter. {01 00 00 05 00}I'll\ndo it myself, {01 00 00 05 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 00 00}Ma ei tea, kuidas seda\nöelda, {04 1f 00}, aga{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n\n{07 15 00}Mäletad seda kirja,\nmillest rääkisime?{01 00 00 05 00} Kas sa\npole ammu üle aja?!\n{07 0f 00}Ma ütlesin {ff 00 00 06}{04 10 00} {ff 00 00 00}le,\nmis kell see kohale\ntoimetatakse{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 15 00}Sa oled vist lohakas.\nAnna kiri siia. {01 00 00 05 00}Teen\nise ära, {01 00 00 05 00}{04 02 00}!"
   },
   {
    "id": 1,
    "en": "{07 16 00}Hey{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} You'd better have\ndelivered that letter like\nyou promised!\n{07 00 00}I know you probably \nhave your excuses.\n\n{07 15 00}But I'm gonna think twice \nabout asking you to do\nthat again, {01 00 00 05 00}{04 02 00}?!",
-   "et": ""
+   "et": "{07 16 00}Kuule{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} Parem oleks, et\nsa toimetasid selle kirja,\nnagu lubasid!\n{07 00 00}Ma tean, et sul on\nilmselt oma vabandused.\n\n{07 15 00}Aga ma mõtlen kaks korda,\nenne kui sind veel kord\npalun, {01 00 00 05 00}{04 02 00}?!"
   },
   {
    "id": 2,
    "en": "{07 00 00}Hey, {01 00 00 05 00}spare me the excuses,\n{01 00 00 05 00}{04 02 00}!\n\nRemember that letter I\nasked you to deliver to\n{ff 00 00 06}{04 10 00}{ff 00 00 00}? {01 00 00 05 00}{07 05 00}You blew it!\n{07 15 00}So, yeah{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}. You can hand\nthat over now, kid. {01 00 00 05 00}You're\na disgrace.",
-   "et": ""
+   "et": "{07 00 00}Hei, {01 00 00 05 00}jäta vabandused,\n{01 00 00 05 00}{04 02 00}!\n\nMäletad seda kirja, mida\npalusin sul viia\n{ff 00 00 06}{04 10 00}{ff 00 00 00}le? {01 00 00 05 00}{07 05 00}Sa vedasid alt!\n{07 15 00}Nii et jah{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}. Anna see\nnüüd siia, poiss. {01 00 00 05 00}Sa oled\nhäbiplekk."
   }
  ]
 }

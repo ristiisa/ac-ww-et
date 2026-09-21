@@ -4,17 +4,17 @@
   {
    "id": 0,
    "en": "{07 00 00}I was going to you a prize\nbut {01 00 00 05 00}{07 16 00}your pockets are full!\nYou can't carry anymore!\n{07 14 00}Come back when you've taken\ncare of that stuff,\n{01 00 00 0a 00}{04 02 00}.",
-   "et": ""
+   "et": "{07 00 00}Ma tahtsin sulle auhinna\nanda, {01 00 00 05 00}{07 16 00}su taskud on täis!\nSa ei jaksa enam kanda!\n{07 14 00}Tule tagasi, kui oled selle\nkraamiga tegelenud,\n{01 00 00 0a 00}{04 02 00}."
   },
   {
    "id": 1,
    "en": "{07 00 00}I thought that maybe I\nshould give you something\nfor winning but\n{07 16 00}it looks like you have too\nmuch stuff already,\n{01 00 00 0a 00}{04 02 00}.\n{07 00 00}Go deal with all your\nstuff and then come talk\nto me again, {01 00 00 05 00}{04 02 00}.",
-   "et": ""
+   "et": "{07 00 00}Ma mõtlesin, et võiksin\nsulle võidu eest midagi\nanda, aga\n{07 16 00}tundub, et sul on juba\nliiga palju kraami,\n{01 00 00 0a 00}{04 02 00}.\n{07 00 00}Mine tegele oma kraamiga\nja tule siis minuga\nuuesti rääkima, {01 00 00 05 00}{04 02 00}."
   },
   {
    "id": 2,
    "en": "So,{01 00 00 05 00} I was prepared to give\nyou something in the off\nchance that you won but{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.\nYou're{01 00 00 05 00} already carrying too\nmuch stuff, {01 00 00 05 00}{04 02 00}.{01 01 00}\nGo deal with that first.",
-   "et": ""
+   "et": "Nii,{01 00 00 05 00} ma olin valmis sulle\nmidagi andma juhuks, kui\nsa võidad, aga{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.\nSa{01 00 00 05 00} kannad juba liiga\npalju kraami, {01 00 00 05 00}{04 02 00}.{01 01 00}\nTegele sellega enne."
   }
  ]
 }

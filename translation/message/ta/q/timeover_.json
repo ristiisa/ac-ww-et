@@ -4,17 +4,17 @@
   {
    "id": 0,
    "en": "{07 04 00}{01 00 00 05 00}Hey!{01 00 00 0f 00} {ff 00 00 06}{04 0f 00} {ff 00 00 00}was looking\nfor you,{01 00 00 0a 00} and the word for\ntoday is {01 08 00}M{01 00 00 03 00}A{01 00 00 03 00}D{01 00 00 03 00}!\n{07 16 00}The head-about-to-explode\nlook is gonna turn\n{ff 00 00 06}{04 0f 00}{ff 00 00 00}'s face...\ninto Wrinkle City!{01 01 00} {07 0b 00}{01 00 00 05 00}I wonder\nwhat's wrong? {07 00 00}Maybe you\nshould go check it out!",
-   "et": ""
+   "et": "{07 04 00}{01 00 00 05 00}Hei!{01 00 00 0f 00} {ff 00 00 06}{04 0f 00} {ff 00 00 00}otsis\nsind,{01 00 00 0a 00} ja tänane sõna\non {01 08 00}V{01 00 00 03 00}I{01 00 00 03 00}HANE{01 00 00 03 00}!\n{07 16 00}See kohe-plahvatan-ilme\nmuudab {ff 00 00 06}{04 0f 00}{ff 00 00 00}\nnäo...\nKortsulinnaks!{01 01 00} {07 0b 00}{01 00 00 05 00}Huvitav,\nmis viga? {07 00 00}Ehk peaksid\nminema vaatama!"
   },
   {
    "id": 1,
    "en": "{07 04 00}{01 00 00 05 00}Wait a minute, {01 00 00 05 00}{04 1f 00}!\n{07 00 00}You better go to\n{ff 00 00 06}{04 0f 00}{ff 00 00 00}'s place first.{ff 00 00 04}\n{07 14 00}You're totally in for it,\n{01 00 00 0a 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 04 00}{01 00 00 05 00}Oota korraks, {01 00 00 05 00}{04 1f 00}!\n{07 00 00}Sa peaksid kõigepealt\n{ff 00 00 06}{04 0f 00}{ff 00 00 00} juurde minema.{ff 00 00 04}\n{07 14 00}Sa saad kõvasti pähe,\n{01 00 00 0a 00}{04 02 00}!"
   },
   {
    "id": 2,
    "en": "{07 04 00}Oh,{01 00 00 05 00} hey there, {04 1f 00}.{01 01 00}\n{07 00 00}{ff 00 00 06}{04 0f 00} {ff 00 00 00}was looking for\nyou...and looking mad.\n{07 16 00}I have a bad feeling about\nthis...{01 00 00 14 00} {07 15 00}You should go there\nfirst, {01 00 00 0a 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 04 00}Oi,{01 00 00 05 00} tere, {04 1f 00}.{01 01 00}\n{07 00 00}{ff 00 00 06}{04 0f 00} {ff 00 00 00}otsis sind...\nja nägi vihane välja.\n{07 16 00}Mul on halb tunne selle\nsuhtes...{01 00 00 14 00} {07 15 00}Sa peaksid enne\nsinna minema, {01 00 00 0a 00}{04 02 00}!"
   }
  ]
 }

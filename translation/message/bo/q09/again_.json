@@ -4,17 +4,17 @@
   {
    "id": 0,
    "en": "{07 14 00}Hey,{01 00 00 05 00} {04 1f 00},{01 00 00 0a 00} why don't\nyou hide next time?\n\n{07 19 00}It's too scary to play after\ndark, so we can play again\nwhen it's light out.{07 14 00}",
-   "et": ""
+   "et": "{07 14 00}Hei,{01 00 00 05 00} {04 1f 00},{01 00 00 0a 00} miks sa\njärgmine kord ei peida?\n\n{07 19 00}Pärast pimedat on liiga\nhirmus mängida, mängime\nuuesti, kui valge on.{07 14 00}"
   },
   {
    "id": 1,
    "en": "{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 0c 00}{01 00 00 14 00}Oh,{01 00 00 0a 00} yeah!{01 00 00 0a 00} Hide-and-seek!{01 00 00 0a 00}\n{07 06 00}I was gonna play hide-and-\nseek with you today.\n{07 1b 00}Dang!{01 00 00 14 00} I totally forgot\nabout it. {01 01 00}{07 14 00}Next time I think\nof it, it'll be light out.",
-   "et": ""
+   "et": "{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 0c 00}{01 00 00 14 00}Oh,{01 00 00 0a 00} jaa!{01 00 00 0a 00} Peitust!{01 00 00 0a 00}\n{07 06 00}Tahtsin täna sinuga\npeitust mängida.\n{07 1b 00}Pagan!{01 00 00 14 00} Unustasin selle\ntäiesti. {01 01 00}{07 14 00}Järgmine kord, kui\nmeenub, on juba valge."
   },
   {
    "id": 2,
    "en": "{07 04 00}Whoa!{01 00 00 0a 00} It's already this late?\n{07 00 00}I was gonna ask you to play\nhide-and-seek...\n...but the day ended! {01 01 00}{07 0d 00}Maybe\nI'll ask you again{01 00 00 05 00}\nwhen it's light out!",
-   "et": ""
+   "et": "{07 04 00}Ohoo!{01 00 00 0a 00} On juba nii hilja?\n{07 00 00}Tahtsin paluda sind peitust\nmängima...\n...aga päev sai läbi! {01 01 00}{07 0d 00}Äkki\nküsin uuesti,{01 00 00 05 00}\nkui valge on!"
   }
  ]
 }

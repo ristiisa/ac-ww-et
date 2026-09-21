@@ -4,17 +4,17 @@
   {
    "id": 0,
    "en": "{07 02 00}Whoa!{01 00 00 05 00} I can't believe it!\n{0b 03 00}{04 1a 00}!{01 00 00 0a 00}\n{0b 03 00}{04 02 00}!\n{07 00 00}Did you get some wonderful\n{ff 00 00 07}{04 0f 00}{ff 00 00 00}\njust for me?\nWow, {04 1f 00}! You're the\ngreatest friend ever!{01 00 00 0a 00} And\nI'm not just saying that!",
-   "et": ""
+   "et": "{07 02 00}Ohoo!{01 00 00 05 00} Ma ei usu seda!\n{0b 03 00}{04 1a 00}!{01 00 00 0a 00}\n{0b 03 00}{04 02 00}!\n{07 00 00}Kas sa said imelise\n{ff 00 00 07}{04 0f 00}{ff 00 00 00}\nainult minu jaoks?\nVau, {04 1f 00}! Sa oled\nmaailma parim sõber!{01 00 00 0a 00} Ja\nma ei ütle seda niisama!"
   },
   {
    "id": 1,
    "en": "{07 00 00}Oh!{01 00 00 0f 00} Is that\n{04 1a 00},\n{04 1f 00}?\nI can't believe you went and\nfound me some\n{ff 00 00 07}{04 0f 00}{ff 00 00 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 0a 00}Thanks,{01 00 00 05 00} {04 02 00}!",
-   "et": ""
+   "et": "{07 00 00}Oh!{01 00 00 0f 00} Kas see on\n{04 1a 00},\n{04 1f 00}?\nMa ei usu, et sa läksid ja\nleidsid mulle\n{ff 00 00 07}{04 0f 00}{ff 00 00 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 0a 00}Aitäh,{01 00 00 05 00} {04 02 00}!"
   },
   {
    "id": 2,
    "en": "{07 04 00}Oh!{01 00 00 14 00}\n{0b 03 00}{04 1a 00}?\n\nYep.{01 00 00 0f 00} Yep, that's definitely\nin the group of\n{ff 00 00 07}{04 0f 00}{ff 00 00 00}.\nThanks for going to all\nthat trouble to get it\nfor me,{01 00 00 05 00} {04 02 00}!",
-   "et": ""
+   "et": "{07 04 00}Oh!{01 00 00 14 00}\n{0b 03 00}{04 1a 00}?\n\nJah.{01 00 00 0f 00} Jah, see kuulub\nkindlasti rühma\n{ff 00 00 07}{04 0f 00}{ff 00 00 00}.\nAitäh, et sa nii palju\nvaeva nägid, et see\nmulle tuua,{01 00 00 05 00} {04 02 00}!"
   }
  ]
 }

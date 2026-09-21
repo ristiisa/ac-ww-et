@@ -4,17 +4,17 @@
   {
    "id": 0,
    "en": "{07 00 00}So tell me, {04 1f 00}, {01 00 00 0a 00}{07 0b 00}did\nyou see anything you liked\nin my house?\nIf so, just let me know!{02 04 00 ff ff}\nOK!\nNever mind.",
-   "et": ""
+   "et": "{07 00 00}Ütle mulle, {04 1f 00}, {01 00 00 0a 00}{07 0b 00}kas\nsa nägid mu majas midagi,\nmis sulle meeldis?\nKui nii, siis anna teada!{02 04 00 ff ff}\nOlgu!\nPole tähtis."
   },
   {
    "id": 1,
    "en": "{07 00 00}Heya, {01 00 00 05 00}{04 1f 00}!{01 00 00 14 00} Seen\nanything in here that you\nlike, {01 00 00 05 00}{04 02 00}?\n{07 00 00}Just tell me if something\ncatches your fancy. Sound\ngood to you, {01 00 00 05 00}{04 02 00}?{02 04 00 ff ff}\nSure.\nForget it.",
-   "et": ""
+   "et": "{07 00 00}Tsau, {01 00 00 05 00}{04 1f 00}!{01 00 00 14 00} Kas\nnägid siin midagi, mis\nsulle meeldib, {01 00 00 05 00}{04 02 00}?\n{07 00 00}Ütle lihtsalt, kui miski\nsulle silma jääb. Kõlab\nhästi, {01 00 00 05 00}{04 02 00}?{02 04 00 ff ff}\nMuidugi.\nUnusta ära."
   },
   {
    "id": 2,
    "en": "{07 00 00}{0b 03 00}{04 1f 00},{01 00 00 0a 00} if you see\nanything you like in my\nroom, let me know, {07 0b 00}OK?{02 04 00 ff ff}\nOK!\nNah.",
-   "et": ""
+   "et": "{07 00 00}{0b 03 00}{04 1f 00},{01 00 00 0a 00} kui sa näed\nmu toas midagi, mis sulle\nmeeldib, anna teada, {07 0b 00}eks?{02 04 00 ff ff}\nOlgu!\nEi."
   }
  ]
 }

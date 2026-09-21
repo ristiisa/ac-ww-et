@@ -4,112 +4,112 @@
   {
    "id": 0,
    "en": "{07 07 00}{01 08 00}HACKity HACK HACK!{01 00 00 05 00} SNEEYORF!{01 00 00 0a 00}\nI'b OK.{01 00 00 0a 00} I'b t{01 00 00 03 00}-tough{01 00 00 03 00} like rock\nc{01 00 00 03 00}-candy, see{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\nW{01 00 00 03 00}-why are da two of you\nlooking at be like dat?",
-   "et": ""
+   "et": "{07 07 00}{01 08 00}KÖHH KÖHH KÖHH!{01 00 00 05 00} NUUKSS!{01 00 00 0a 00}\nKorras.{01 00 00 0a 00} Olen t{01 00 00 03 00}-tugev{01 00 00 03 00} nagu\nk{01 00 00 03 00}-kivikomm, näed{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\nM{01 00 00 03 00}-miks te mõlemad\nmind nii vaatate?"
   },
   {
    "id": 1,
    "en": "{ff 00 00 04}{07 16 00}{01 08 00}HACKITY! {01 01 00}{ff 00 00 00}{07 14 00}I can taste the\nmusic! {01 01 00}{07 03 00}{01 08 00}WHOOO! TASTES LIKE\nPEAS!{01 01 00} {07 07 00}I'm totally delirious.",
-   "et": ""
+   "et": "{ff 00 00 04}{07 16 00}{01 08 00}KÖHH! {01 01 00}{ff 00 00 00}{07 14 00}Ma maitsen\nmuusikat! {01 01 00}{07 03 00}{01 08 00}VUUU! NAGU\nHERNED!{01 01 00} {07 07 00}Olen täiesti sonis."
   },
   {
    "id": 2,
    "en": "{07 07 00}Ugh, {01 00 00 0a 00}my throat hurts too\nmuch to eat.{01 00 00 0f 00}{07 02 00} WHAT IF I\nNEVER EAT AGAIN!?{01 01 00}{07 07 00} {ff 00 00 04}{01 08 00}HACKITY!",
-   "et": ""
+   "et": "{07 07 00}Uhh, {01 00 00 0a 00}mu kurk valutab liiga\npalju, et süüa.{01 00 00 0f 00}{07 02 00} MIS SIIS,\nKUI EI SÖÖ ENAM IIAL!?{01 01 00}{07 07 00} {ff 00 00 04}{01 08 00}KÖHH!"
   },
   {
    "id": 3,
    "en": "{07 14 00}Uh huh huh! {01 00 00 0a 00}{07 07 00}Are you the\ncupcake fairy?{01 00 00 0a 00} I th{01 00 00 03 00}-thought\nyou'd have wings... {ff 00 00 04}{01 00 00 0a 00}{01 08 00}HWEEZE!",
-   "et": ""
+   "et": "{07 14 00}Uh huh huh! {01 00 00 0a 00}{07 07 00}Kas sa oled\nkoogihaldjas?{01 00 00 0a 00} Ma a{01 00 00 03 00}-arvasin,\net sul on tiivad... {ff 00 00 04}{01 00 00 0a 00}{01 08 00}VIHISE!"
   },
   {
    "id": 4,
    "en": "{07 07 00}{01 08 00}SNEEEYORF!{01 00 00 0a 00} HACKSNORF!{01 00 00 0a 00} {07 08 00}By\nhead id full of pudding!{01 00 00 0a 00}\n{07 07 00}{01 08 00}HACKity HACK HACK!",
-   "et": ""
+   "et": "{07 07 00}{01 08 00}NUUKSS!{01 00 00 0a 00} KÖHNUKS!{01 00 00 0a 00} {07 08 00}Mu\npea on pudingut täis!{01 00 00 0a 00}\n{07 07 00}{01 08 00}KÖHH KÖHH KÖHH!"
   },
   {
    "id": 5,
    "en": "{07 1c 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}Maybe you, uh, shouldn't\nbe here. {01 01 00}{07 16 00}You might catch\nsomething TERRIBLE!",
-   "et": ""
+   "et": "{07 1c 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}Äkki sa, ee, ei peaks\nsiin olema. {01 01 00}{07 16 00}Sa võid saada\nmidagi KOHUTAVAT!"
   },
   {
    "id": 6,
    "en": "{07 07 00}Don't breathe around me!{01 00 00 0a 00}\nYou don't wanna get what\nI've got, {01 00 00 0a 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 07 00}Ära hinga minu lähedal!{01 00 00 0a 00}\nSa ei taha saada seda,\nmis mul on, {01 00 00 0a 00}{04 02 00}!"
   },
   {
    "id": 7,
    "en": "{07 14 00}Aww, thanks.{01 00 00 0a 00} {07 00 00}You've been\nreally good to me.",
-   "et": ""
+   "et": "{07 14 00}Ohh, aitäh.{01 00 00 0a 00} {07 00 00}Sa oled olnud\nminu vastu väga hea."
   },
   {
    "id": 8,
    "en": "{07 16 00}I was just about to go buy\nsome. {01 00 00 0a 00}{07 14 00}Thanks, {01 00 00 0a 00}{04 02 00}.",
-   "et": ""
+   "et": "{07 16 00}Olin just minemas seda\nostma. {01 00 00 0a 00}{07 14 00}Aitäh, {01 00 00 0a 00}{04 02 00}."
   },
   {
    "id": 9,
    "en": "{07 14 00}You sure are thoughtful,\n{01 00 00 0a 00}{04 02 00}.",
-   "et": ""
+   "et": "{07 14 00}Sa oled küll hoolitsev,\n{01 00 00 0a 00}{04 02 00}."
   },
   {
    "id": 10,
    "en": "{07 14 00}I might be OK even without\n{ff 00 00 07}medicine{ff 00 00 00}, though.",
-   "et": ""
+   "et": "{07 14 00}Võib-olla saan hakkama ka\nilma {ff 00 00 07}rohuta{ff 00 00 00}."
   },
   {
    "id": 11,
    "en": "{07 16 00}I really don't like the {01 00 00 0a 00}bad-\ntasting stuff{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}. This\n{ff 00 00 07}medicine{ff 00 00 00} isn't candy, yanno!",
-   "et": ""
+   "et": "{07 16 00}Mulle ei meeldi üldse {01 00 00 0a 00}halva\nmaitsega kraam{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}. See\n{ff 00 00 07}rohi{ff 00 00 00} pole ju komm!"
   },
   {
    "id": 12,
    "en": "{07 07 00}Eww, {ff 00 00 07}medicine{ff 00 00 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} {07 16 00}Just when I\nthought it couldn't get any\nworse, {01 00 00 0a 00}{04 02 00}.",
-   "et": ""
+   "et": "{07 07 00}Öäk, {ff 00 00 07}rohi{ff 00 00 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} {07 16 00}Just kui\narvasin, et hullemaks enam\nei lähe, {01 00 00 0a 00}{04 02 00}."
   },
   {
    "id": 13,
    "en": "{07 16 00}Aww, man! You gotta be\nkidding me! {01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 07 00}Blecch!",
-   "et": ""
+   "et": "{07 16 00}Ohh, mees! Sa teed\nnalja! {01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 07 00}Pfui!"
   },
   {
    "id": 14,
    "en": "{07 09 00}{0b 03 00}{04 1f 00}, you got me the\nnasty kind on purpose,\ndidn't you!",
-   "et": ""
+   "et": "{07 09 00}{0b 03 00}{04 1f 00}, sa tõid mulle\nmeelega selle jälgi\nsorti, kas pole!"
   },
   {
    "id": 15,
    "en": "{07 07 00}Phewwagggh!{01 00 00 0a 00} I think I was\nfeeling better before!",
-   "et": ""
+   "et": "{07 07 00}Pfuuuih!{01 00 00 0a 00} Arvan, et mul oli\nenne parem tunne!"
   },
   {
    "id": 16,
    "en": "{07 16 00}I hate {ff 00 00 07}medicine{ff 00 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} {07 00 00}BLEEECH!{01 00 00 0a 00}\nTalk about gross,\n{01 00 00 0a 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 16 00}Ma vihkan {ff 00 00 07}rohtu{ff 00 00 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}. {07 00 00}PFUIII!{01 00 00 0a 00}\nRäägi sa jäledast,\n{01 00 00 0a 00}{04 02 00}!"
   },
   {
    "id": 17,
    "en": "{ff 00 00 04}{07 07 00}HACK! URGGGGLE{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}. {ff 00 00 00}{07 16 00}Thanks.{01 00 00 14 00}\nI know you mean well, but\nthat {ff 00 00 07}medicine{ff 00 00 00} was terrible.",
-   "et": ""
+   "et": "{ff 00 00 04}{07 07 00}KÖHH! URGGGL{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}. {ff 00 00 00}{07 16 00}Aitäh.{01 00 00 14 00}\nMa tean, et sa tahad head,\naga see {ff 00 00 07}rohi{ff 00 00 00} oli kohutav."
   },
   {
    "id": 18,
    "en": "{07 16 00}Oh, gross.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} {07 14 00}Thanks.{01 00 00 14 00} I think\nI feel a little better,\n{01 00 00 0a 00}{04 02 00}.",
-   "et": ""
+   "et": "{07 16 00}Oh, jäle{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}. {07 14 00}Aitäh.{01 00 00 14 00} Arvan,\net tunnen end paremini,\n{01 00 00 0a 00}{04 02 00}."
   },
   {
    "id": 19,
    "en": "{07 14 00}Thanks for worrying about\nme, {01 00 00 0a 00}{04 02 00}.",
-   "et": ""
+   "et": "{07 14 00}Aitäh, et minu pärast\nmuretsed, {01 00 00 0a 00}{04 02 00}."
   },
   {
    "id": 20,
    "en": "{07 14 00}Uh huh huh!{01 00 00 0a 00} {0b 03 00}{04 1f 00},\nyou're too good to me,\n{01 00 00 05 00}{04 02 00}.",
-   "et": ""
+   "et": "{07 14 00}Uh huh huh!{01 00 00 0a 00} {0b 03 00}{04 1f 00},\nsa oled liiga hea,\n{01 00 00 05 00}{04 02 00}."
   },
   {
    "id": 21,
    "en": "{07 0d 00}Thanks.{01 00 00 14 00} You've made me feel\nmuch better, {01 00 00 0a 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 0d 00}Aitäh.{01 00 00 14 00} Sa panid mind end\nparemini tundma, {01 00 00 0a 00}{04 02 00}!"
   }
  ]
 }

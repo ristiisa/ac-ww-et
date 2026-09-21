@@ -4,32 +4,32 @@
   {
    "id": 0,
    "en": "{07 00 00}Now, how to thank you\nproperly.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} Oh, I know! I've\ngot just the perfect thing.\nOh, but, {04 1f 00},{01 00 00 05 00} {07 06 00}your\npockets are full! You can't\nhold anything else!\n{07 16 00}I really want you to have\nthis, so come back when\nyou've got room for it!",
-   "et": ""
+   "et": "{07 00 00}Nüüd, kuidas sind tänada\nkorralikult.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} Oh, ma tean!\nMul on täpselt õige asi.\nOh, aga, {04 1f 00},{01 00 00 05 00} {07 06 00}su\ntaskud on täis! Sa ei saa\nmidagi enam kanda!\n{07 16 00}Ma tahan väga, et sa selle\nsaaksid, nii et tule tagasi,\nkui sul on ruumi!"
   },
   {
    "id": 1,
    "en": "{07 14 00}This is a pretty poor gift,\nespecially compared to the\ngift of health, but.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 04 00}Oh! {0b 03 00}{04 1f 00},{01 00 00 05 00} did you\nknow your pockets are full?{01 00 00 05 00}\n{07 16 00}You can't carry any more.\nI can't give this to you\nuntil you've got the room\nto carry it, {01 00 00 05 00}{04 02 00}!\n{07 14 00}Take care of that, will\nyou? And then come back\nand see me right away!",
-   "et": ""
+   "et": "{07 14 00}See on üsna kehv kingitus,\neriti võrreldes tervise\nkingitusega, aga.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 04 00}Oh! {0b 03 00}{04 1f 00},{01 00 00 05 00} kas sa\nteadsid? Taskud on täis!{01 00 00 05 00}\n{07 16 00}Sa ei saa rohkem kanda.\nMa ei saa sulle seda anda,\nenne kui sul on ruumi\nseda kanda, {01 00 00 05 00}{04 02 00}!\n{07 14 00}Tegele sellega, eks?\nJa siis tule kohe tagasi\nmind vaatama!"
   },
   {
    "id": 2,
    "en": "{07 04 00}Oh, how silly of me!{01 00 00 05 00} I still\nhaven't given you a thank-\nyou gift for that {ff 00 00 07}medicine{ff 00 00 00}!",
-   "et": ""
+   "et": "{07 04 00}Oh, kui rumal ma olen!{01 00 00 05 00} Pole\nsulle ikka veel tänukinki\nandnud selle {ff 00 00 07}rohu{ff 00 00 00} eest!"
   },
   {
    "id": 3,
    "en": "{07 14 00}You haven't forgotten, have\nyou? About your thank-you\ngift? For that {ff 00 00 07}medicine{ff 00 00 00}?",
-   "et": ""
+   "et": "{07 14 00}Sa pole ju unustanud,\nega? Oma tänukingitust?\nSelle {ff 00 00 07}rohu{ff 00 00 00} eest?"
   },
   {
    "id": 4,
    "en": "{07 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 04 00}Oh, no. {01 00 00 05 00}Not again!{01 00 00 14 00}\n{07 16 00}Would you PLEASE make some\nroom in your pockets?\nIt's almost like you don't\nwant a thank-you gift!{01 00 00 0f 00}\n{07 14 00}But you do, don't you?",
-   "et": ""
+   "et": "{07 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 04 00}Oh ei. {01 00 00 05 00}Mitte jälle!{01 00 00 14 00}\n{07 16 00}Kas sa PALUN teeksid oma\ntaskutes veidi ruumi?\nTundub peaaegu, nagu sa ei\ntahakski tänukingitust!{01 00 00 0f 00}\n{07 14 00}Aga sa ju tahad, kas pole?"
   },
   {
    "id": 5,
    "en": "{07 16 00}Oh, dear.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} What are we\ngoing to do with you? {01 00 00 05 00}Your\npockets are STILL full?\n{07 14 00}OK,{01 00 00 05 00} it's no big deal. Just\ncome back when you've\ndropped some stuff.",
-   "et": ""
+   "et": "{07 16 00}Oh sa.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} Mida me sinuga\npeale hakkame? {01 00 00 05 00}Su taskud\non IKKA täis?\n{07 14 00}Olgu,{01 00 00 05 00} pole hullu. Tule\nlihtsalt tagasi, kui oled\nmõne asja maha pannud."
   }
  ]
 }

@@ -4,32 +4,32 @@
   {
    "id": 0,
    "en": "{07 00 00}I know this is short notice,{01 00 00 0a 00}{07 14 00}\nbut today's the {ff 00 00 03}Flea Market{ff 00 00 00}!\n{01 00 00 0a 00}It's so exciting!\n{07 1b 00}Today, someone else's trash\ncould become your treasure!\n\n{07 0d 00}There's something about \nthis day{01 00 00 05 00} that gets me so\nworked up, {01 00 00 0a 00}{04 02 00}.",
-   "et": ""
+   "et": "{07 00 00}Ma tean, et see on lühike\netteteatamine,{01 00 00 0a 00}{07 14 00} aga täna on {ff 00 00 03}\nkirbuturg{ff 00 00 00} ! {01 00 00 0a 00}See on nii\npõnev! {07 1b 00}Täna võib kellegi\nteise prügi saada sinu\naardeks! \n{07 0d 00}Selles päevas on midagi,\n{01 00 00 05 00}mis ajab mind nii\nelevile, {01 00 00 0a 00}{04 02 00}."
   },
   {
    "id": 1,
    "en": "{07 14 00}Hey, {01 00 00 05 00}{04 1f 00},{01 00 00 0a 00} you DO\nknow that today is the day\nof the {ff 00 00 03}Flea Market{ff 00 00 00}, right?!\n{07 00 00}If you see something you \nlike, just pounce on it{01 00 00 05 00}\nwithout hesitation.\n{07 1b 00}Good furniture moves fast.{01 01 00}\nIn a way, it's just like \nlove, {01 00 00 05 00}{04 02 00}.",
-   "et": ""
+   "et": "{07 14 00}Hei, {01 00 00 05 00}{04 1f 00},{01 00 00 0a 00} sa ju\nTEAD, et täna on\n{ff 00 00 03}kirbuturu{ff 00 00 00} päev, eks?!\n{07 00 00}Kui näed midagi, mis\nmeeldib, haara see kohe{01 00 00 05 00}\nkõhklemata.\n{07 1b 00}Hea mööbel läheb kiiresti.{01 01 00}\nMõnes mõttes on see just\nnagu armastus, {01 00 00 05 00}{04 02 00}."
   },
   {
    "id": 2,
    "en": "{07 14 00}There's just something \nabout used furniture that's\nso warm, {01 00 00 05 00}{04 02 00}.\n{07 19 00}The {ff 00 00 03}Flea Market{ff 00 00 00} is so much\nmore than just buying used\nitems for cheap!{07 14 00}",
-   "et": ""
+   "et": "{07 14 00}Kasutatud mööblis on\nlihtsalt midagi nii\nsooja, {01 00 00 05 00}{04 02 00}.\n{07 19 00}{ff 00 00 03}Kirbuturg{ff 00 00 00} on palju\nrohkem kui ainult kasutatud\nasjade odav ostmine!{07 14 00}"
   },
   {
    "id": 3,
    "en": "{07 04 00}Hey, {01 00 00 05 00}you! {01 00 00 0a 00}Yeah, you! What\nare you doing just standing\naround here?\n{07 15 00}Shouldn't you be manning\nthe shop or something?\nHuh, {01 00 00 05 00}{04 02 00}?",
-   "et": ""
+   "et": "{07 04 00}Hei, {01 00 00 05 00}sina! {01 00 00 0a 00}Jah, sina! Mida\nsa siin niisama\nseistes teed?\n{07 15 00}Kas sa ei peaks poodi\npidama või midagi?\nMis, {01 00 00 05 00}{04 02 00}?"
   },
   {
    "id": 4,
    "en": "{07 14 00}Because townsfolk come to\nyour house,{01 00 00 0a 00} the {ff 00 00 03}Flea Market\n{ff 00 00 00}is a chance to meet people.\n{07 00 00}So don't go wasting your\ntime lollygagging\naround here!",
-   "et": ""
+   "et": "{07 14 00}Kuna linnarahvas tuleb\nsinu koju,{01 00 00 0a 00} on {ff 00 00 03}kirbuturg\n{ff 00 00 00}võimalus inimestega\nkohtuda. {07 00 00}Nii et ära raiska\noma aega siin ringi\nlogelemisele!"
   },
   {
    "id": 5,
    "en": "{07 00 00}Even if you don't have a\nBell to your name, your\nhome can still feel inviting.\n{07 19 00}A successful shop always\nfeels nice to be in,\n{01 00 00 05 00}{04 02 00}.{07 14 00}",
-   "et": ""
+   "et": "{07 00 00}Isegi kui sul pole ühtegi\nkella, võib su kodu\nikkagi kutsuv tunduda.\n{07 19 00}Edukas pood on alati\nmõnus koht olla,\n{01 00 00 05 00}{04 02 00}.{07 14 00}"
   }
  ]
 }

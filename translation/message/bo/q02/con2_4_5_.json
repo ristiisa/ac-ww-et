@@ -4,17 +4,17 @@
   {
    "id": 0,
    "en": "{07 06 00}Man!{01 00 00 05 00} I haven't caught one!{01 01 00}\n{07 16 00}{0b 03 00}{0b 01 00}{04 1a 00}\nis just too smart!",
-   "et": ""
+   "et": "{07 06 00}Issand!{01 00 00 05 00} Ei ühtki saaki!{01 01 00}\n{07 16 00}{0b 03 00}{0b 01 00}{04 1a 00}\non lihtsalt liiga tark!"
   },
   {
    "id": 1,
    "en": "{07 04 00}What?{01 00 00 0a 00} You don't have one\nyet, do you,{01 00 00 05 00} {04 02 00}?\n\n{07 06 00}Huh huh! Of course not!\n{0b 03 00}{04 1a 00}\ncan't be caught that easily!",
-   "et": ""
+   "et": "{07 04 00}Mis?{01 00 00 0a 00} Sul pole veel ühtegi,\nega ju,{01 00 00 05 00} {04 02 00}?\n\n{07 06 00}Hah hah! Muidugi mitte!\n{0b 03 00}{04 1a 00}\nei lase end kergelt püüda!"
   },
   {
    "id": 2,
    "en": "{07 0e 00}Umm{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00} Well, since my prey\nis just some lowly\n{0b 02 00}{04 1a 00}...{07 00 00}\n{07 14 00}I'm focusing more on looking\ncool while I fish. {01 00 00 0a 00}'Cause\nthat's important, too.",
-   "et": ""
+   "et": "{07 0e 00}Ee{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00} Noh, kuna mu saak\non lihtsalt mingi tühine\n{0b 02 00}{04 1a 00}...{07 00 00}\n{07 14 00}keskendun rohkem sellele,\net näha lahe välja. {01 00 00 0a 00}Sest\nsee on ka tähtis."
   }
  ]
 }

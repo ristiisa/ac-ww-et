@@ -4,17 +4,17 @@
   {
    "id": 0,
    "en": "{07 00 00}Hey, {01 00 00 0f 00}{04 1f 00}!{01 00 00 14 00}\n{07 16 00}{0b 03 00}{ff 00 00 06}{04 0f 00} {ff 00 00 00}was lookin'\nfor you earlier.\n{07 00 00}Well{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0f 00}? {07 15 00}What are ya waiting\nfor?! Someone's lookin' for\nya, {01 00 00 05 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 00 00}Hei, {01 00 00 0f 00}{04 1f 00}!{01 00 00 14 00}\n{07 16 00}{0b 03 00}{ff 00 00 06}{04 0f 00} {ff 00 00 00}otsis sind\nvarem taga.\n{07 00 00}Noh{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0f 00}? {07 15 00}Mida sa ootad?!\nKeegi otsib sind,\n{01 00 00 05 00}{04 02 00}!"
   },
   {
    "id": 1,
    "en": "{07 16 00}Hey{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 14 00} {07 1b 00}What'd you do \nto {ff 00 00 06}{04 0f 00}{ff 00 00 00}? \n\n{07 00 00}I don't know what kind of\nawful thing you did,{01 00 00 05 00} but I'll\nbet you do!\n{07 15 00}You'd better go find\n{ff 00 00 06}{04 0f 00}{ff 00 00 00}{01 00 00 14 00} fast,\n{01 00 00 05 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 16 00}Kuule{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 14 00} {07 1b 00}Mida sa tegid\n{ff 00 00 06}{04 0f 00}{ff 00 00 00}le?\n\n{07 00 00}Ma ei tea, mis jubedat sa\ntegid,{01 00 00 05 00} aga vean kihla, et\nsina tead!\n{07 15 00}Parem mine otsi\n{ff 00 00 06}{04 0f 00}{ff 00 00 00}{01 00 00 14 00} kiiresti üles,\n{01 00 00 05 00}{04 02 00}!"
   },
   {
    "id": 2,
    "en": "{07 04 00}Hey, {01 00 00 0f 00}{ff 00 00 06}{04 0f 00} {ff 00 00 00}is lookin'\neverywhere{01 00 00 05 00} for you!\n\n{07 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}Hey, {01 00 00 05 00}what'd you {07 0b 00}do to\nfuel such a raging fire,{01 00 00 05 00}\n{04 02 00}?\n{07 06 00}That animal seemed pretty\nticked off!{01 00 00 05 00} It was\ndownright explosive! \n{07 15 00}Well, you'd better find\n{ff 00 00 06}{04 0f 00}{ff 00 00 00} in a hurry.{01 00 00 14 00}\nYou got that, {01 00 00 05 00}{04 02 00}?!",
-   "et": ""
+   "et": "{07 04 00}Hei, {01 00 00 0f 00}{ff 00 00 06}{04 0f 00} {ff 00 00 00}otsib sind\nigalt poolt{01 00 00 05 00} taga!\n\n{07 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}Kuule, {01 00 00 05 00}mida sa {07 0b 00}tegid, et\nselline tuli lahvatas,{01 00 00 05 00}\n{04 02 00}?\n{07 06 00}See loom tundus päris\nvihane!{01 00 00 05 00} Lausa\nplahvatusohtlik!\n{07 15 00}Noh, parem leia\n{ff 00 00 06}{04 0f 00}{ff 00 00 00} kiiresti üles.{01 00 00 14 00}\nSaid aru, {01 00 00 05 00}{04 02 00}?!"
   }
  ]
 }

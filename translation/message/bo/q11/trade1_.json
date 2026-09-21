@@ -4,17 +4,17 @@
   {
    "id": 0,
    "en": "{07 00 00}These are some of my\nfavorite pieces of\nfurniture!\n{07 14 00}Please tell me if you like\nany of them, {01 00 00 05 00}{04 02 00}.{02 04 00 ff ff}\nSure.\nNever!",
-   "et": ""
+   "et": "{07 00 00}Need on mõned mu\nlemmikmööbliesemed!\n\n{07 14 00}Ütle palun, kui mõni neist\nmeeldib, {01 00 00 05 00}{04 02 00}.{02 04 00 ff ff}\nIkka.\nMitte iial!"
   },
   {
    "id": 1,
    "en": "{07 14 00}No one ever tells me which\npiece of furniture in my\nhouse they like the best.\nBut, {01 00 00 03 00}as one of my best\nbuddies, {01 00 00 03 00}you'll tell me,\n{07 0b 00}right? {02 04 00 ff ff}\nSure.\nNot now.",
-   "et": ""
+   "et": "{07 14 00}Keegi ei ütle mulle kunagi,\nmilline mööbliese mu majas\nneile kõige rohkem meeldib.\nAga, {01 00 00 03 00}ühe mu parima\nsõbrana {01 00 00 03 00}sa ütled,\n{07 0b 00}eks? {02 04 00 ff ff}\nIkka.\nMitte praegu."
   },
   {
    "id": 2,
    "en": "Hey, do you like any of my\nfurniture? {01 00 00 05 00}Please let me\nknow if you do!{02 04 00 ff ff}\nUh, OK.\nLeave me alone!",
-   "et": ""
+   "et": "Hei, kas sulle meeldib mõni\nmu mööbel? {01 00 00 05 00}Anna palun\nteada, kui meeldib!{02 04 00 ff ff}\nEe, olgu.\nJäta mind rahule!"
   }
  ]
 }

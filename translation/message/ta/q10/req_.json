@@ -4,17 +4,17 @@
   {
    "id": 0,
    "en": "{07 14 00}Hey, {01 00 00 05 00}{04 1f 00},{01 00 00 14 00} I know\nthis is sudden, but {07 0b 00}do you\nmind if I come over?",
-   "et": ""
+   "et": "{07 14 00}Hei, {01 00 00 05 00}{04 1f 00},{01 00 00 14 00} ma tean,\net see on äkiline, aga {07 0b 00}kas\nvõin sulle külla tulla?"
   },
   {
    "id": 1,
    "en": "I {01 00 00 05 00}really like peeking into{01 00 00 05 00}\n{07 14 00}other people's houses. {01 00 00 05 00}And\nsnooping, too!\n{07 00 00}So, {01 00 00 05 00}{04 1f 00},{01 00 00 0a 00} {07 0b 00}can I come\nover sometime?! It'll be a\nblast! {01 00 00 0a 00}{ff 00 00 04}(For me, anyway.)\n{ff 00 00 00}{07 00 00}I think you can tell a lot \nabout someone {01 00 00 05 00}by the way\nthey set up their house.\nAnd I wanna know more\nabout you, {01 00 00 05 00}{04 02 00}.",
-   "et": ""
+   "et": "Mulle {01 00 00 05 00}meeldib piiluda{01 00 00 05 00}\n{07 14 00}teiste kodudesse. {01 00 00 05 00}Ja\nka nuuskida!\n{07 00 00}Nii et, {01 00 00 05 00}{04 1f 00},{01 00 00 0a 00} {07 0b 00}kas võin\nkunagi külla tulla?! Tuleb\nlõbus! {01 00 00 0a 00}{ff 00 00 04}(Vähemalt mulle.)\n{ff 00 00 00}{07 00 00}Inimese kohta saab palju\nteada {01 00 00 05 00}sellest, kuidas\nta oma kodu sisustab.\nJa ma tahan sinu kohta\nrohkem teada, {01 00 00 05 00}{04 02 00}."
   },
   {
    "id": 2,
    "en": "{07 14 00}Hey, {01 00 00 05 00}{04 1f 00},{01 00 00 14 00} can I{07 0b 00}\ncome over to your house to\nhang out?\n{07 14 00}You know, {01 00 00 05 00}like they do in\nthe movies! {01 00 00 0a 00}{07 0d 00}So, invite me\nover for a house party, OK?",
-   "et": ""
+   "et": "{07 14 00}Hei, {01 00 00 05 00}{04 1f 00},{01 00 00 14 00} kas ma võin{07 0b 00}\nsinu koju tulla, et\nniisama olla?\n{07 14 00}Tead, {01 00 00 05 00}nagu filmides\ntehakse! {01 00 00 0a 00}{07 0d 00}Nii et kutsu mind\nmajapeole, eks?"
   }
  ]
 }

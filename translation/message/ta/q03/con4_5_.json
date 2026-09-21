@@ -4,17 +4,17 @@
   {
    "id": 0,
    "en": "{07 16 00}{01 00 00 05 00}Don't worry,{01 00 00 0a 00} little\n{ff 00 00 02}{04 0f 00}{ff 00 00 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}. I'm\nalmost there to save you!",
-   "et": ""
+   "et": "{07 16 00}{01 00 00 05 00}Ära muretse,{01 00 00 0a 00} väike\n{ff 00 00 02}{04 0f 00}{ff 00 00 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}. Ma olen peaaegu\nkohal, et sind päästa!"
   },
   {
    "id": 1,
    "en": "{07 19 00}I gotta finish the\n{ff 00 00 02}{04 0f 00} {ff 00 00 00}fossil\nquick{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00}\n{07 14 00}Even glitterati need a big,\nstrong, {01 00 00 0a 00}uh, bony shoulder\nto cry on sometimes!",
-   "et": ""
+   "et": "{07 19 00}Ma pean\n{ff 00 00 02}{04 0f 00} {ff 00 00 00}fossiili\nkiiresti lõpetama{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00}\n{07 14 00}Isegi kuulsused vajavad\nvahel suurt, tugevat, {01 00 00 0a 00}ee,\nkondist õlga, kuhu nutta!"
   },
   {
    "id": 2,
    "en": "{07 1c 00}Oh, {ff 00 00 02}{04 0f 00}{ff 00 00 00}!\nDon't you want to see the\nsun again, {01 00 00 0a 00}{04 02 00}?",
-   "et": ""
+   "et": "{07 1c 00}Oi, {ff 00 00 02}{04 0f 00}{ff 00 00 00}!\nKas sa ei taha päikest\njälle näha, {01 00 00 0a 00}{04 02 00}?"
   }
  ]
 }

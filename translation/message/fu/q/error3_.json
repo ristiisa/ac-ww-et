@@ -4,12 +4,12 @@
   {
    "id": 0,
    "en": "{07 04 00}Wha--? Huh? What? {01 00 00 14 00}{07 16 00}I'm\nprobably going to be asleep\nby then, {01 00 00 05 00}{04 02 00}.\n{07 0b 00}Could you make it a little\nearlier, maybe?",
-   "et": ""
+   "et": "{07 04 00}Mis--? Ah? Mida? {01 00 00 14 00}{07 16 00}Ma olen\nselleks ajaks ilmselt\nmagama jäänud, {01 00 00 05 00}{04 02 00}.\n{07 0b 00}Kas sa saaksid selle veidi\nvarasemaks teha, ehk?"
   },
   {
    "id": 1,
    "en": "{07 16 00}Sorry. I know I sound like\na total dud, but I'll\nprobably be in bed by then.\n{07 0b 00}Do you think you could pick\nanother time, {01 00 00 05 00}{04 02 00}?",
-   "et": ""
+   "et": "{07 16 00}Vabandust. Ma tean, et\nkõlan nagu täielik tuhk,\naga olen siis vist voodis.\n{07 0b 00}Kas sa saaksid valida\nmõne teise aja, {01 00 00 05 00}{04 02 00}?"
   }
  ]
 }

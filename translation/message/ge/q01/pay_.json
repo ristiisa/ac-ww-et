@@ -4,17 +4,17 @@
   {
    "id": 0,
    "en": "{07 00 00}OK,{01 00 00 05 00} so in return for\n{04 1a 00},{01 00 00 05 00} \nI'll give you...\n{07 14 00}{0b 03 00}{04 1b 00}!\nYup!{01 00 00 05 00} It's official!{01 00 00 05 00} {07 0a 00}I give\nthe BEST PRIZES!",
-   "et": ""
+   "et": "{07 00 00}Olgu,{01 00 00 05 00} nii et vastutasuks\n{04 1a 00} eest{01 00 00 05 00} \nannan ma sulle...\n{07 14 00}{0b 03 00}{04 1b 00}!\nJah!{01 00 00 05 00} See on ametlik!{01 00 00 05 00} {07 0a 00}Mina\nannan PARIMAID AUHINDU!"
   },
   {
    "id": 1,
    "en": "{07 14 00}Just for giving me the bug,\nI'll give you\n{04 1b 00}!",
-   "et": ""
+   "et": "{07 14 00}Ainuüksi putuka andmise\neest annan sulle\n{04 1b 00}!"
   },
   {
    "id": 2,
    "en": "{07 14 00}In return, why don't you\ntake my fabulous prize:\n{04 1b 00}?",
-   "et": ""
+   "et": "{07 14 00}Vastutasuks võta minu\nvõrratu auhind:\n{04 1b 00}?"
   }
  ]
 }

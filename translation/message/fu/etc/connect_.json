@@ -4,17 +4,17 @@
   {
    "id": 0,
    "en": "{07 00 00}By the way, what do you\nneed from me, {01 00 00 05 00}{04 02 00}?",
-   "et": ""
+   "et": "{07 00 00}Muide, mida sa minult\nvajad, {01 00 00 05 00}{04 02 00}?"
   },
   {
    "id": 1,
    "en": "{07 00 00}Anyway, did you need\nsomething, {01 00 00 05 00}{04 02 00}?",
-   "et": ""
+   "et": "{07 00 00}Igatahes, kas sa vajasid\nmidagi, {01 00 00 05 00}{04 02 00}?"
   },
   {
    "id": 2,
    "en": "{07 00 00}So, uh,{01 00 00 05 00} what can I do\nfor you, {01 00 00 05 00}{04 02 00}?",
-   "et": ""
+   "et": "{07 00 00}Nii, ee,{01 00 00 05 00} mida ma saan sinu\nheaks teha, {01 00 00 05 00}{04 02 00}?"
   }
  ]
 }

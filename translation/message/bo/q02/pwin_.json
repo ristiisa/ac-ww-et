@@ -4,12 +4,12 @@
   {
    "id": 0,
    "en": "Whoa!{01 00 00 0a 00}\n{0b 03 00}{04 1c 00}!\n\n{07 16 00}My {0b 02 00}{04 1d 00}\nis a pretty rare fish{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n\n{07 1b 00}But it's no match for your\n{0b 02 00}{04 1c 00},\n{04 02 00}.",
-   "et": ""
+   "et": "Ohoo!{01 00 00 0a 00}\n{0b 03 00}{04 1c 00}!\n\n{07 16 00}Minu {0b 02 00}{04 1d 00}\non üsna haruldane kala{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n\n{07 1b 00}Aga see ei võistle sinu\n{0b 02 00}{04 1c 00}-ga,\n{04 02 00}."
   },
   {
    "id": 1,
    "en": "{07 04 00}What?! Is that\n{0b 02 00}{04 1c 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\nyours?\n{07 06 00}That's just incredible,\n{04 1f 00}!{01 00 00 0a 00} Where did you\ncatch it,{01 00 00 05 00} {04 02 00}?\n{07 1b 00}My {0b 02 00}{04 1d 00}\nis no match for your\n{0b 02 00}{04 1c 00}.",
-   "et": ""
+   "et": "{07 04 00}Mis?! Kas see\n{0b 02 00}{04 1c 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\non sinu oma?\n{07 06 00}See on lihtsalt uskumatu,\n{04 1f 00}!{01 00 00 0a 00} Kust sa selle\npüüdsid,{01 00 00 05 00} {04 02 00}?\n{07 1b 00}Minu {0b 02 00}{04 1d 00}\nei võistle sinu\n{0b 02 00}{04 1c 00}-ga."
   }
  ]
 }

@@ -4,17 +4,17 @@
   {
    "id": 0,
    "en": "{07 00 00}Hey, {04 1f 00}! I've got\nthe coolest furniture in\nmy room now!\n{07 0d 00}It makes me wanna flail my\narms and sing a happy\nlittle song, {04 02 00}!",
-   "et": ""
+   "et": "{07 00 00}Hei, {04 1f 00}! Mul on nüüd\ntoas kõige lahedam\nmööbel!\n{07 0d 00}See paneb mind käsi\nvehkima ja rõõmsat\nlaulukest laulma, {04 02 00}!"
   },
   {
    "id": 1,
    "en": "{07 14 00}I don't know if it's because\nI put new furniture around\nmy room or what, but...\n{07 0a 00}I just feel like life is\nall rainbows and flowers\nlately, {01 00 00 05 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 14 00}Ma ei tea, kas see on sest,\net ma panin tuppa uut\nmööblit, või millest, aga...\n{07 0a 00}Mul on tunne, et elu on\nviimasel ajal lust ja\nlillepidu, {01 00 00 05 00}{04 02 00}!"
   },
   {
    "id": 2,
    "en": "{07 14 00}I've got TONS of new\nfurniture in my house!\n\n{07 0d 00}It makes me so happy,\n{01 00 00 05 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 14 00}Mul on TONNIDE viisi uut\nmööblit majas!\n\n{07 0d 00}Ma olen nii õnnelik,\n{01 00 00 05 00}{04 02 00}!"
   }
  ]
 }

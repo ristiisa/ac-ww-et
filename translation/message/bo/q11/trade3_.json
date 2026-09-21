@@ -4,17 +4,17 @@
   {
    "id": 0,
    "en": "{07 00 00}Oh, are you looking at my\n{0b 02 00}{04 1a 00}?\n{01 01 00}Heh. I thought so.\n{07 14 00}Only {04 12 00} Bells! What\ndo you say?{02 04 00 ff ff}\nI'll take it!\nNo, thanks.",
-   "et": ""
+   "et": "{07 00 00}Oh, kas sa vaatad mu\n{0b 02 00}{04 1a 00}?\n{01 01 00}Heh. Nii ma arvasin.\n{07 14 00}Ainult {04 12 00} kella! Mis\nsa kostad?{02 04 00 ff ff}\nVõtan!\nEi, aitäh."
   },
   {
    "id": 1,
    "en": "{07 00 00}My {0b 02 00}{04 1a 00},\nhuh? {01 00 00 0a 00}Hmmm{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 0a 00}\n\n{07 14 00}For {04 12 00} Bells, you\ncan be the new owner!{02 04 00 ff ff}\nI'll take it!\nNo, thanks.",
-   "et": ""
+   "et": "{07 00 00}Minu {0b 02 00}{04 1a 00},\njah? {01 00 00 0a 00}Hmmm{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 0a 00}\n\n{07 14 00}{04 12 00} kella eest saad\nsa uueks omanikuks!{02 04 00 ff ff}\nVõtan!\nEi, aitäh."
   },
   {
    "id": 2,
    "en": "{07 14 00}I'll sell you my\n{0b 02 00}{04 1a 00}\nfor {04 12 00} Bells!{02 04 00 ff ff}\nDeal!\nNo, thanks.",
-   "et": ""
+   "et": "{07 14 00}Müün sulle oma\n{0b 02 00}{04 1a 00}\n{04 12 00} kella eest!{02 04 00 ff ff}\nKäed löödud!\nEi, aitäh."
   }
  ]
 }

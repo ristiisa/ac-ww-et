@@ -4,17 +4,17 @@
   {
    "id": 0,
    "en": "{07 1b 00}Well,{01 00 00 0f 00} I'm on the hunt for a\nrare {ff 00 00 02}{04 0f 00}\n{ff 00 00 00}fossil.",
-   "et": ""
+   "et": "{07 1b 00}Noh,{01 00 00 0f 00} ma jahin haruldast\n{ff 00 00 02}{04 0f 00}\n{ff 00 00 00}fossiili."
   },
   {
    "id": 1,
    "en": "{07 02 00}{01 00 00 0a 00}Oh, no!{01 00 00 0a 00} You're looking for\nthe {ff 00 00 02}{04 0f 00}\n{ff 00 00 00}bones, too?\n{07 06 00}That's unacceptable!{01 00 00 0a 00} I'm the\ntrendsetter here, {01 00 00 0a 00}so I have\nto find them first!",
-   "et": ""
+   "et": "{07 02 00}{01 00 00 0a 00}Oi ei!{01 00 00 0a 00} Kas sina otsid ka\n{ff 00 00 02}{04 0f 00}\n{ff 00 00 00}luid?\n{07 06 00}See on vastuvõetamatu!{01 00 00 0a 00} Mina\nolen siin trendilooja, {01 00 00 0a 00}nii et\nmina pean need enne leidma!"
   },
   {
    "id": 2,
    "en": "{07 16 00}It's a given, but.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} {07 1c 00}{01 00 00 0a 00}It's so\nhard to find fossils,\n{01 00 00 0a 00}{04 02 00}.\n{07 00 00}I've been searching for\n{ff 00 00 02}{04 0f 00} {ff 00 00 00}bones\nfor forever.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00}",
-   "et": ""
+   "et": "{07 16 00}See on ilmselge, aga.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} {07 1c 00}{01 00 00 0a 00}\nFossiile on nii raske leida,\n{01 00 00 0a 00}{04 02 00}.\n{07 00 00}Ma olen otsinud\n{ff 00 00 02}{04 0f 00} {ff 00 00 00}luid\nigavesti.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00}"
   }
  ]
 }

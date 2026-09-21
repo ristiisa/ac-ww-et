@@ -4,17 +4,17 @@
   {
    "id": 0,
    "en": "{07 04 00}Really?{01 00 00 14 00}{07 0d 00} That's great!{01 00 00 0a 00} Way to\ngo, {04 1f 00}!",
-   "et": ""
+   "et": "{07 04 00}Tõesti?{01 00 00 14 00}{07 0d 00} Suurepärane!{01 00 00 0a 00} Tubli\ntöö, {04 1f 00}!"
   },
   {
    "id": 1,
    "en": "{07 14 00}Wow! Nice work!{01 01 00} {07 00 00}It's kind of\nlike{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00}{07 0d 00}you're Cupid or\nsomething!",
-   "et": ""
+   "et": "{07 14 00}Vau! Tubli töö!{01 01 00} {07 00 00}See on\nnagu{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00}{07 0d 00}sa oleksid Amor\nvõi midagi!"
   },
   {
    "id": 2,
    "en": "{07 0d 00}Yesss!{01 00 00 14 00} I knew I could trust\nyou,{01 00 00 0a 00} {04 02 00}!",
-   "et": ""
+   "et": "{07 0d 00}Jessss!{01 00 00 14 00} Teadsin, et sind\nvõib usaldada,{01 00 00 0a 00} {04 02 00}!"
   }
  ]
 }

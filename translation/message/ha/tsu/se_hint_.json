@@ -4,32 +4,32 @@
   {
    "id": 0,
    "en": "{07 14 00}When times were tough,{01 00 00 05 00}\nI'd collect shells for\nhours and sell 'em to {ff 00 00 06}Nook{ff 00 00 00}!\n{07 00 00}Hey, what do you think{01 00 00 0a 00}\n{ff 00 00 06}{07 0b 00}Nook {ff 00 00 00}does with all those\nshells, {01 00 00 05 00}{04 02 00}?\n{06 01 00 03 04 05}",
-   "et": ""
+   "et": "{07 14 00}Kui ajad olid rasked,{01 00 00 05 00}\nkorjasin ma tundide kaupa\nkarpe ja müüsin {ff 00 00 06}Nookile{ff 00 00 00}!\n{07 00 00}Hei, mis sa arvad,{01 00 00 0a 00}\n{ff 00 00 06}{07 0b 00}mida Nook {ff 00 00 00}kõigi nende\nkarpidega teeb, {01 00 00 05 00}{04 02 00}?\n{06 01 00 03 04 05}"
   },
   {
    "id": 1,
    "en": "{07 00 00}Looking at the frothy sea{01 00 00 05 00}\n{07 14 00}makes me wanna grab a ship\nand catch something huge!\n{07 15 00}A high-seas jaunt with just\nmy fishing rod and my\nmuscles, {01 00 00 05 00}{04 02 00}!\n{07 0d 00}Whoa, yeah! {01 00 00 05 00}HOT ADVENTURE!{01 00 00 14 00}\nFish vs. abs, {01 00 00 05 00}{04 02 00}!{03 01 00 01}",
-   "et": ""
+   "et": "{07 00 00}Vahutavat merd vaadates{01 00 00 05 00}\n{07 14 00}tahaks haarata laeva ja\npüüda midagi tohutut!\n{07 15 00}Avamererännak ainult\nõnge ja lihastega,\n{01 00 00 05 00}{04 02 00}!\n{07 0d 00}Ohoo, jaa! {01 00 00 05 00}KUUM SEIKLUS!{01 00 00 14 00}\nKala vs. kõht, {01 00 00 05 00}{04 02 00}!{03 01 00 01}"
   },
   {
    "id": 2,
    "en": ".{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 04 00}No, no, no, NOOOOOOO!{01 00 00 0a 00}\nYou ain't getting this\n{ff 00 00 07}oyster{ff 00 00 00} shell, {01 00 00 05 00}{04 02 00}!\n{07 15 00}And y'know what? I won't\ntell{01 00 00 05 00} you to sell {ff 00 00 07}oyster\n{ff 00 00 00}shells for lots, either!",
-   "et": ""
+   "et": ".{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 04 00}Ei, ei, ei, EIIIII!{01 00 00 0a 00}\nSa ei saa seda\n{ff 00 00 07}austrikarpi{ff 00 00 00}, {01 00 00 05 00}{04 02 00}!\n{07 15 00}Ja tead mis? Ma ei ütle{01 00 00 05 00}\nsulle ka, et {ff 00 00 07}austrikarpe\n{ff 00 00 00}saab kallilt müüa!"
   },
   {
    "id": 3,
    "en": "{07 0e 00}Ya think he might{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n{07 02 00}Ya think he eats 'em?!\n\n{07 16 00}Yeah, you can see it in his\neyes, huh? {01 00 00 05 00}The eyes of a...\nshell-eater, {01 00 00 05 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 0e 00}Kas sa arvad, et ta{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n{07 02 00}Sa arvad, et ta sööb neid?!\n\n{07 16 00}Jah, seda näeb ta silmist,\nmis? {01 00 00 05 00}Karbisööja...\nsilmad, {01 00 00 05 00}{04 02 00}!"
   },
   {
    "id": 4,
    "en": "{07 0e 00}Ya think that maybe he{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n{07 02 00}EATS 'em?\n\n{07 00 00}I bet he eats anything,\nwhether or not it has\namino acids, {01 00 00 05 00}{04 02 00}.",
-   "et": ""
+   "et": "{07 0e 00}Kas sa arvad, et ta{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n{07 02 00}SÖÖB neid?\n\n{07 00 00}Vean kihla, et ta sööb\nkõike, olgu aminohappeid\nvõi mitte, {01 00 00 05 00}{04 02 00}."
   },
   {
    "id": 5,
    "en": "{07 02 00}So,{01 00 00 05 00} you think he's making\nswimming suits with those \nshells?!\n{07 06 00}Man, if so, sign me up 'cuz\nI want one!{01 00 00 05 00} That is so dang\nHOT, {01 00 00 05 00}{04 02 00}!!!",
-   "et": ""
+   "et": "{07 02 00}Nii et,{01 00 00 05 00} sa arvad, et ta teeb\nnendest karpidest \nujumistrikoosid?!\n{07 06 00}Mees, kui nii, siis ma\ntahan ühte!{01 00 00 05 00} See on\nnii KUUM, {01 00 00 05 00}{04 02 00}!!!"
   }
  ]
 }

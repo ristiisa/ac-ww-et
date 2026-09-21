@@ -4,17 +4,17 @@
   {
    "id": 0,
    "en": "{07 00 00}Yup.{01 00 00 05 00} There's no fighting it,\n{04 02 00}. {01 00 00 05 00}I really want\n{ff 00 00 07}{04 0f 00}{ff 00 00 00}.",
-   "et": ""
+   "et": "{07 00 00}Jah.{01 00 00 05 00} Sellele ei saa vastu,\n{04 02 00}. {01 00 00 05 00}Ma tahan väga\n{ff 00 00 07}{04 0f 00}{ff 00 00 00}."
   },
   {
    "id": 1,
    "en": "{07 06 00}I'm obsessed!{01 00 00 05 00} Obsessed with\n{ff 00 00 07}{04 0f 00}{ff 00 00 00}!{01 00 00 05 00}\nIt's KILLING me!",
-   "et": ""
+   "et": "{07 06 00}Mul on kinnisidee!{01 00 00 05 00} Tahan\n{ff 00 00 07}{04 0f 00}{ff 00 00 00}!{01 00 00 05 00}\nSee TAPAB mind!"
   },
   {
    "id": 2,
    "en": "{07 13 00}Man, I've got the fever!{01 00 00 05 00}\nAnd the only cure is\n{ff 00 00 07}{04 0f 00}{ff 00 00 00}!",
-   "et": ""
+   "et": "{07 13 00}Mees, mul on palavik!{01 00 00 05 00}\nJa ainus rohi on\n{ff 00 00 07}{04 0f 00}{ff 00 00 00}!"
   }
  ]
 }

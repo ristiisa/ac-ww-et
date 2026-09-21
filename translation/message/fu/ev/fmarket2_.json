@@ -4,47 +4,47 @@
   {
    "id": 0,
    "en": "{07 14 00}Oh, hey, {01 00 00 05 00}{04 1f 00},{01 00 00 0f 00} glad\nyou could stop by!\nWelcome to my house!\nNo hurry, no hurry! Just\ntake your time and look\naround, {01 00 00 05 00}{04 02 00}.",
-   "et": ""
+   "et": "{07 14 00}Oh, tere, {01 00 00 05 00}{04 1f 00},{01 00 00 0f 00} hea,\net sa läbi astusid!\nTere tulemast mu majja!\nPole kiiret, pole kiiret!\nVõta aega ja vaata\nringi, {01 00 00 05 00}{04 02 00}."
   },
   {
    "id": 1,
    "en": "{07 04 00}Oh! {01 00 00 05 00}A customer! Welcome to\nmy house, {01 00 00 05 00}{04 1f 00}!\nPlease, have a look around!",
-   "et": ""
+   "et": "{07 04 00}Oh! {01 00 00 05 00}Klient! Tere tulemast\nmu majja, {01 00 00 05 00}{04 1f 00}!\nPalun, vaata ringi!"
   },
   {
    "id": 2,
    "en": "{07 14 00}Welcome, welcome, welcome!\n\n\nWelcome to {04 01 00}'s{ff 00 00 03}\nFlea Market {ff 00 00 00}showroom floor,\n{01 00 00 05 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 14 00}Tere, tere, tere tulemast!\n\n\nTere tulemast {04 01 00}i{ff 00 00 03}\nkirbuturu {ff 00 00 00}näidissaali,\n{01 00 00 05 00}{04 02 00}!"
   },
   {
    "id": 3,
    "en": "{07 14 00}Thank you for your\nbusiness, {01 00 00 05 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 14 00}Aitäh sulle ostu\neest, {01 00 00 05 00}{04 02 00}!"
   },
   {
    "id": 4,
    "en": "{07 14 00}Come back anytime,\n{01 00 00 05 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 14 00}Tule millal tahes tagasi,\n{01 00 00 05 00}{04 02 00}!"
   },
   {
    "id": 5,
    "en": "{07 14 00}Come again!",
-   "et": ""
+   "et": "{07 14 00}Tule jälle!"
   },
   {
    "id": 6,
    "en": "{07 00 00}So what do you think? Do\nyou like anything I'm\nselling, {01 00 00 05 00}{04 02 00}?\n{07 14 00}If I were you, I'd buy up\nstuff I wanted now.\nIt might not be here later.",
-   "et": ""
+   "et": "{07 00 00}Nii, mida sa arvad? Kas\nsulle meeldib midagi, mida\nma müün, {01 00 00 05 00}{04 02 00}?\n{07 14 00}Sinu asemel ostaksin ma\nkohe selle, mida tahan.\nHiljem võib see kadunud."
   },
   {
    "id": 7,
    "en": "{07 04 00}Oh, {01 00 00 05 00}what's the matter, \n{04 1f 00}?\n\n{07 14 00}Don't be shy! Just pick up\nanything you want. It's all\nfor sale, {01 00 00 05 00}{04 02 00}.",
-   "et": ""
+   "et": "{07 04 00}Oh, {01 00 00 05 00}mis lahti, \n{04 1f 00}?\n\n{07 14 00}Ära ole häbelik! Võta\nükskõik mida. Kõik on\nmüügiks, {01 00 00 05 00}{04 02 00}."
   },
   {
    "id": 8,
    "en": "{07 00 00}I might not have great\nfurniture, {01 00 00 0f 00}{07 14 00}but I've got\ngreat deals!",
-   "et": ""
+   "et": "{07 00 00}Mul ei pruugi olla head\nmööblit, {01 00 00 0f 00}{07 14 00}aga mul on\nsuurepärased hinnad!"
   }
  ]
 }

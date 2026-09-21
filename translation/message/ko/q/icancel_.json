@@ -4,17 +4,17 @@
   {
    "id": 0,
    "en": "{07 1c 00}HEY!{01 00 00 14 00} You think I'm stupid?!\nWell, {01 00 00 05 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 1c 00}HEI!{01 00 00 14 00} Pead sa mind lolliks?!\nNojah, {01 00 00 05 00}{04 02 00}!"
   },
   {
    "id": 1,
    "en": "{07 15 00}Ha.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0f 00} I didn't expect much\nfrom ya, {01 00 00 05 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 15 00}Hah.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0f 00} Ma ei oodanudki\nsinult palju, {01 00 00 05 00}{04 02 00}!"
   },
   {
    "id": 2,
    "en": "{07 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 15 00}Don't even think for a \nsecond that you can \noutsmart me, {01 00 00 05 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 15 00}Ära isegi hetkeks arva,\net sa suudad mind\nüle kavaldada, {01 00 00 05 00}{04 02 00}!"
   }
  ]
 }

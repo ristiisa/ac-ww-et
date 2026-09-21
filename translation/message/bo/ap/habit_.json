@@ -4,87 +4,87 @@
   {
    "id": 0,
    "en": "{07 02 00}Hey,{01 00 00 05 00} {04 1f 00}!{01 00 00 0a 00} I gotta\ntalk to you about my\ncatchphrase!\n{07 06 00}To tell you the truth{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00}\nI'm kind of tired of saying\n\"{04 02 00}\" all the time.\n{07 0b 00}Can you maybe help me\nthink of something cooler\nto say, {01 00 00 0a 00}{04 02 00}?",
-   "et": ""
+   "et": "{07 02 00}Hei,{01 00 00 05 00} {04 1f 00}!{01 00 00 0a 00} Pean\nsinuga oma hüüdlausest\nrääkima!\n{07 06 00}Ausalt öeldes{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00}\nolen väsinud sellest, et\nütlen kogu aeg „{04 02 00}”.\n{07 0b 00}Kas aitaksid mul välja\nmõelda midagi lahedamat,\n{01 00 00 0a 00}{04 02 00}?"
   },
   {
    "id": 1,
    "en": "{07 02 00}{0b 03 00}{04 02 00}! {01 01 00}{07 16 00}You know, I'm\ngetting kinda tired of my\nsignature \"{04 02 00}.\"\n{07 06 00}I need something to say\nthat'll up my cool quotient,\nlike {04 0b 00}.",
-   "et": ""
+   "et": "{07 02 00}{0b 03 00}{04 02 00}! {01 01 00}{07 16 00}Tead, olen\noma tunnuslausest\n„{04 02 00}” veidi tüdinud.\n{07 06 00}Vajan midagi, mis tõstaks\nmu lahedusetaset,\nnagu {04 0b 00}."
   },
   {
    "id": 2,
    "en": "{07 16 00}What?{01 00 00 05 00} Are you sure?{01 00 00 14 00} {07 00 00}Well,{01 00 00 0a 00}\nif you say so, I guess I\nshould, huh, {01 00 00 0a 00}{04 02 00}?",
-   "et": ""
+   "et": "{07 16 00}Mis?{01 00 00 05 00} Oled kindel?{01 00 00 14 00} {07 00 00}Noh,{01 00 00 0a 00}\nkui sa nii ütled, siis vist\npeaksin, mis, {01 00 00 0a 00}{04 02 00}?"
   },
   {
    "id": 3,
    "en": "{07 13 00}{0b 03 00}{01 06 00}Huh huh huh{01 07 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00}\n{07 0b 00}Do I seem kinda heroic to\nyou, {01 00 00 0a 00}{04 02 00}?",
-   "et": ""
+   "et": "{07 13 00}{0b 03 00}{01 06 00}Hah hah haa{01 07 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00}\n{07 0b 00}Kas ma tundun sulle\nkangelaslik, {01 00 00 0a 00}{04 02 00}?"
   },
   {
    "id": 4,
    "en": "{07 00 00}What?! Really?{01 00 00 14 00} {07 0a 00}Yes! That\nmakes me so happy,\n{01 00 00 0a 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 00 00}Mis?! Tõesti?{01 00 00 14 00} {07 0a 00}Jess! See\nteeb mind nii õnnelikuks,\n{01 00 00 0a 00}{04 02 00}!"
   },
   {
    "id": 5,
    "en": "{07 00 00}OK, then,{01 00 00 0a 00} I'll leave it\nup to you,{01 00 00 05 00} {04 02 00}.",
-   "et": ""
+   "et": "{07 00 00}Olgu siis,{01 00 00 0a 00} jätan selle\nsinu hooleks,{01 00 00 05 00} {04 02 00}."
   },
   {
    "id": 6,
    "en": "{07 00 00}So{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 0b 00}you think I should say\n\"{ff 00 00 02}{04 02 00}{ff 00 00 00}\"{01 00 00 0a 00} instead?",
-   "et": ""
+   "et": "{07 00 00}Nii et{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 0b 00}sinu meelest peaksin\nütlema hoopis „{ff 00 00 02}{04 02 00}{ff 00 00 00}”{01 00 00 0a 00}?"
   },
   {
    "id": 7,
    "en": "{07 00 00}\"{0b 03 00}{04 02 00},\" huh{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 14 00} {07 0a 00}That\ngoes down as smooth as a\nglass of {04 13 00}!",
-   "et": ""
+   "et": "{07 00 00}„{0b 03 00}{04 02 00}”, jah{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 14 00} {07 0a 00}See\nlibiseb alla sama sujuvalt\nkui klaas {04 13 00}!"
   },
   {
    "id": 8,
    "en": "{07 00 00}\"{0b 03 00}{04 02 00},\" eh{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 14 00} {07 0a 00}Sweet!{01 00 00 05 00} I\nthink I felt myself{01 00 00 05 00} get a\nlittle bit cooler!",
-   "et": ""
+   "et": "{07 00 00}„{0b 03 00}{04 02 00}”, ah{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 14 00} {07 0a 00}Vinge!{01 00 00 05 00} Ma\ntundsin, kuidas muutusin{01 00 00 05 00}\nnatuke lahedamaks!"
   },
   {
    "id": 9,
    "en": "{07 0e 00}I really think I need some\nkind of catchphrase.\n\n{07 0b 00}But isn't there something\ncooler for me to say,{01 00 00 0a 00}\n{04 02 00}?",
-   "et": ""
+   "et": "{07 0e 00}Ma tõesti arvan, et vajan\nmingit hüüdlauset.\n\n{07 0b 00}Aga kas pole midagi\nlahedamat, mida öelda,{01 00 00 0a 00}\n{04 02 00}?"
   },
   {
    "id": 10,
    "en": "{07 04 00}Hey,{01 00 00 05 00} {04 1f 00},{01 00 00 0a 00} did you\nknow that every superhero\nneeds a catchphrase?\n{07 14 00}Yeah, it's a fact. {01 00 00 05 00}They need\nsomething to say when they\nfirst swoop into a room!\nYou see where I'm going\nwith this? See, I'm a\nsuperhero myself...\n{07 0a 00}So I need a catchphrase,\ntoo!{01 00 00 05 00} And it's gotta scare\noff dastardly villains!",
-   "et": ""
+   "et": "{07 04 00}Hei,{01 00 00 05 00} {04 1f 00},{01 00 00 0a 00} kas sa\nteadsid, et superkangelane\nvajab hüüdlauset?\n{07 14 00}Jah, fakt. {01 00 00 05 00}Nad vajavad\nmidagi, mida öelda, kui\nnad tuppa sööstavad!\nSaad aru, kuhu ma sihin?\nNäed, ma olen ise\nsuperkangelane...\n{07 0a 00}Nii et ka mina vajan\nhüüdlauset!{01 00 00 05 00} Ja see peab\npeletama alatuid kurikaelu!"
   },
   {
    "id": 11,
    "en": "{07 04 00}\"{0b 03 00}{ff 00 00 02}{01 06 00} {01 07 00}{ff 00 00 00}\"!{01 01 00} {07 14 00}\nHuh huh huh!{01 00 00 05 00} Am I good,\n{01 00 00 0a 00}{04 02 00}?",
-   "et": ""
+   "et": "{07 04 00}„{0b 03 00}{ff 00 00 02}{01 06 00} {01 07 00}{ff 00 00 00}”!{01 01 00} {07 14 00}\nHah hah haa!{01 00 00 05 00} Kas olen hea,\n{01 00 00 0a 00}{04 02 00}?"
   },
   {
    "id": 12,
    "en": "{07 19 00}\"{0b 03 00}{ff 00 00 02}{01 06 00} {01 07 00}{ff 00 00 00},\" right?{01 00 00 14 00}\n\n\n{07 0a 00}Cool! {01 00 00 05 00}From now on, I'm gonna\nsay \"{ff 00 00 02}{01 06 00} {01 07 00}{ff 00 00 00}\"\nwhen I swoop into a room!",
-   "et": ""
+   "et": "{07 19 00}„{0b 03 00}{ff 00 00 02}{01 06 00} {01 07 00}{ff 00 00 00}”, eks?{01 00 00 14 00}\n\n\n{07 0a 00}Lahe! {01 00 00 05 00}Nüüdsest ütlen\n„{ff 00 00 02}{01 06 00} {01 07 00}{ff 00 00 00}”,\nkui tuppa sööstan!"
   },
   {
    "id": 13,
    "en": "{07 00 00}\"{0b 03 00}{ff 00 00 02}{01 06 00} {01 07 00}{ff 00 00 00}\"!{01 00 00 0f 00}{01 01 00}\nHuh huh huh!{01 00 00 05 00} Did I sound\nlike a superhero?{02 01 00 0e 0f 10}\nTotally!\nKind of...\nScram, already!",
-   "et": ""
+   "et": "{07 00 00}„{0b 03 00}{ff 00 00 02}{01 06 00} {01 07 00}{ff 00 00 00}”!{01 00 00 0f 00}{01 01 00}\nHah hah haa!{01 00 00 05 00} Kas kõlasin\nnagu superkangelane?{02 01 00 0e 0f 10}\nTäiesti!\nNatuke...\nKao juba ära!"
   },
   {
    "id": 14,
    "en": "{07 0a 00}Yesss! Sweet,{01 00 00 0a 00} {04 02 00}!{03 01 00 01}",
-   "et": ""
+   "et": "{07 0a 00}Jessss! Vinge,{01 00 00 0a 00} {04 02 00}!{03 01 00 01}"
   },
   {
    "id": 15,
    "en": "{07 1b 00}Aw, {01 00 00 05 00}{04 1f 00}.{01 01 00} {07 16 00}Don't you\nknow that a superhero also\nneeds a loyal sidekick?",
-   "et": ""
+   "et": "{07 1b 00}Ohh, {01 00 00 05 00}{04 1f 00}.{01 01 00} {07 16 00}Kas sa ei\ntea, et superkangelane\nvajab ka ustavat abilist?"
   },
   {
    "id": 16,
    "en": "{07 04 00}Th{01 00 00 03 00}-that's so mean{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.\nSuperheroes have feelings,\ntoo! {01 01 00}{07 08 00}WAAAAAAA! {01 00 00 05 00}{0b 03 00}{04 02 00}!{03 03 00 01}",
-   "et": ""
+   "et": "{07 04 00}S{01 00 00 03 00}-see on nii õel{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.\nSuperkangelastel on ka\ntunded! {01 01 00}{07 08 00}BUAAAAA! {01 00 00 05 00}{0b 03 00}{04 02 00}!{03 03 00 01}"
   }
  ]
 }

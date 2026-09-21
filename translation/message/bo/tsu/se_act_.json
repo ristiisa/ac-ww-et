@@ -4,97 +4,97 @@
   {
    "id": 0,
    "en": "{07 00 00}The great thing about\nshellfish{01 00 00 14 00}{07 14 00} is\nhow versatile it is.\nYou can grill it,{01 00 00 0a 00} or steam\nit, or boil it, {07 0a 00}and it always{01 00 00 0a 00}\ntastes delicious.\nThen afterwards, you can\nwear the shell! {01 01 00}{07 00 00}{07 0b 00}{01 00 00 05 00}Do you{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00}get\nwhat I mean,{01 00 00 0a 00} {04 02 00}?",
-   "et": ""
+   "et": "{07 00 00}Karpide juures on hea see,\n{01 00 00 14 00}{07 14 00} et neid saab\nnii mitmeti teha.\nVõid neid grillida,{01 00 00 0a 00} aurutada\nvõi keeta, {07 0a 00}ja alati{01 00 00 0a 00}\nmaitsevad nad hästi.\nJa pärast saad kanda\nkarpi! {01 01 00}{07 00 00}{07 0b 00}{01 00 00 05 00}Kas sa{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00}saad\naru, mis mõttes,{01 00 00 0a 00} {04 02 00}?"
   },
   {
    "id": 1,
    "en": "{07 14 00}Huh huh huh.{01 00 00 0a 00} Shells are\npretty, aren't they,{01 00 00 0a 00}\n{04 02 00}?\n{06 01 00 10 11 12}",
-   "et": ""
+   "et": "{07 14 00}Hah hah haa.{01 00 00 0a 00} Karbid on\nilusad, kas pole,{01 00 00 0a 00}\n{04 02 00}?\n{06 01 00 10 11 12}"
   },
   {
    "id": 2,
    "en": "{07 14 00}The ocean is just great.{01 00 00 05 00}\n{07 13 00}{01 00 00 0a 00}It's like the sky,{01 00 00 05 00} but in\nreverse, you know?",
-   "et": ""
+   "et": "{07 14 00}Ookean on lihtsalt tore.{01 00 00 05 00}\n{07 13 00}{01 00 00 0a 00}See on nagu taevas,{01 00 00 05 00} ainult\nvastupidi, tead?"
   },
   {
    "id": 3,
    "en": "{07 0b 00}{01 00 00 05 00}Oh?{01 00 00 0a 00} Are you{01 00 00 05 00} collecting\nshells, too,{01 00 00 05 00} {04 02 00}?\n\n{06 04 00 08 09 0a 0b}",
-   "et": ""
+   "et": "{07 0b 00}{01 00 00 05 00}Oh?{01 00 00 0a 00} Kas sina{01 00 00 05 00} kogud\nka karpe,{01 00 00 05 00} {04 02 00}?\n\n{06 04 00 08 09 0a 0b}"
   },
   {
    "id": 4,
    "en": "{01 00 00 0a 00}{07 1b 00}{01 00 00 05 00}Leaving messages in the\nsand{01 00 00 0a 00} is so old.{01 00 00 05 00} Sooo old!\n{01 00 00 0a 00}{0b 03 00}{04 02 00}!\n{07 05 00}{01 00 00 0a 00}From now on, I'm just going\nto face the sea and just\nshout my messages!",
-   "et": ""
+   "et": "{01 00 00 0a 00}{07 1b 00}{01 00 00 05 00}Liiva sisse sõnumite\njätmine{01 00 00 0a 00} on nii vana.{01 00 00 05 00} Vana!\n{01 00 00 0a 00}{0b 03 00}{04 02 00}!\n{07 05 00}{01 00 00 0a 00}Edaspidi pööran end lihtsalt\nmere poole ja karjun\noma sõnumid!"
   },
   {
    "id": 5,
    "en": "{07 15 00}I'm not just collecting\nshells{01 00 00 0a 00} for the money!\n\n{07 01 00}{01 00 00 0a 00}I'm doing it{01 00 00 05 00} so I can eat\ndeliciously fresh seafood,{01 00 00 0a 00}\n{04 02 00}!",
-   "et": ""
+   "et": "{07 15 00}Ma ei kogu karpe\n{01 00 00 0a 00}ainult raha pärast!\n\n{07 01 00}{01 00 00 0a 00}Teen seda{01 00 00 05 00} et saaksin süüa\nimevärskeid mereande,{01 00 00 0a 00}\n{04 02 00}!"
   },
   {
    "id": 6,
    "en": "{06 08 00 0c 0d 0e 0f}",
-   "et": ""
+   "et": "{06 08 00 0c 0d 0e 0f}"
   },
   {
    "id": 7,
    "en": "{07 1c 00}{01 00 00 14 00}The ocean makes you forget\nall sorts of painful\nmemories{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 04 00}Oh!{01 00 00 0f 00} Why did I do that?{01 00 00 0f 00} {07 06 00}\nI forgot to eat my\n{04 08 00} o'clock snack!",
-   "et": ""
+   "et": "{07 1c 00}{01 00 00 14 00}Ookean paneb sind unustama\nigasugused valusad\nmälestused{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 04 00}Oh!{01 00 00 0f 00} Miks ma seda tegin?{01 00 00 0f 00} {07 06 00}\nUnustasin ära oma\nkella {04 08 00} suupiste!"
   },
   {
    "id": 8,
    "en": "{07 16 00}Since your house is so\nsmall,\n\n{07 14 00}maybe you can use the\nshells you collect{01 00 00 0a 00} to buy\nyourself a bigger house.",
-   "et": ""
+   "et": "{07 16 00}Kuna sinu maja on nii\nväike,\n\n{07 14 00}võiksid ehk kogutud karpide\neest{01 00 00 0a 00} osta endale\nsuurema maja."
   },
   {
    "id": 9,
    "en": "{07 14 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}Is that so?{01 00 00 0a 00} So you use\nthem to decorate your\nplace?\n{07 19 00}You{01 00 00 05 00} are a hardcore\nfashionista{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} {07 13 00}{01 00 00 0a 00}That's so\nneat,{01 00 00 0a 00} {04 02 00}.",
-   "et": ""
+   "et": "{07 14 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}Ah nii?{01 00 00 0a 00} Sa siis kasutad\nneid oma kodu\nkaunistamiseks?\n{07 19 00}Sina{01 00 00 05 00} oled tõeline\nmoehull{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} {07 13 00}{01 00 00 0a 00}See on nii\ntore,{01 00 00 0a 00} {04 02 00}."
   },
   {
    "id": 10,
    "en": "{07 0c 00}{01 00 00 0a 00}Your house is so big,{01 00 00 05 00} you\ncould dedicate a whole room\nto your shell collection!\n{07 0d 00}And then{01 00 00 05 00} I could enjoy your\ncollection{01 00 00 0a 00} anytime I wanted,{01 00 00 0a 00}\n{04 02 00}!",
-   "et": ""
+   "et": "{07 0c 00}{01 00 00 0a 00}Sinu maja on nii suur,{01 00 00 05 00} et\nsaaksid pühendada terve toa\noma karbikogule!\n{07 0d 00}Ja siis{01 00 00 05 00} saaksin sinu kogu\nnautida{01 00 00 0a 00} millal tahes,{01 00 00 0a 00}\n{04 02 00}!"
   },
   {
    "id": 11,
    "en": "{07 04 00}Don't tell me{01 00 00 0a 00}.{01 00 00 0a 00}.{01 00 00 0a 00}.{01 00 00 14 00}{07 06 00} Are you\ntrying to re-create\nPoseidon's palace?!\n{07 19 00}Your place is huge!{01 00 00 0a 00} If you\ndecorated it with shells,{01 00 00 05 00}\nyou'd be like royalty!{07 00 00}\n{07 0a 00}Then I'd visit and pretend\nto be Prince {04 01 00},\nruler of the sea!",
-   "et": ""
+   "et": "{07 04 00}Ära ütle{01 00 00 0a 00}.{01 00 00 0a 00}.{01 00 00 0a 00}.{01 00 00 14 00}{07 06 00} Kas sa\nüritad taastada\nPoseidoni paleed?!\n{07 19 00}Su koht on hiiglaslik!{01 00 00 0a 00} Kui\nkaunistad selle karpidega,{01 00 00 05 00}\noleks see kuninglik!{07 00 00}\n{07 0a 00}Siis tuleksin külla ja\nteeskleksin, et olen prints\n{04 01 00}, mere valitseja!"
   },
   {
    "id": 12,
    "en": "{07 14 00}Ahhhhh!{01 00 00 0a 00} The morning ocean\nis so refreshing!\n\n{07 0a 00}It really puts me in the\nmood{01 00 00 05 00} to collect pretty\nshells, {01 00 00 0a 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 14 00}Ahhhh!{01 00 00 0a 00} Hommikune ookean\non nii värskendav!\n\n{07 0a 00}See paneb mind päriselt\ntujju{01 00 00 05 00} ilusaid karpe\nkoguma, {01 00 00 0a 00}{04 02 00}!"
   },
   {
    "id": 13,
    "en": "{07 0e 00}{01 00 00 0a 00}At first, the ocean is\nreally cold,{01 00 00 0a 00} {07 00 00}but then it\ngradually gets warmer.\n{07 13 00}{01 00 00 0a 00}It's kind of like you,{01 00 00 0a 00}\n{04 02 00}!",
-   "et": ""
+   "et": "{07 0e 00}{01 00 00 0a 00}Alguses on ookean\nväga külm,{01 00 00 0a 00} {07 00 00}aga siis läheb\ntasapisi soojemaks.\n{07 13 00}{01 00 00 0a 00}Umbes nagu sina,{01 00 00 0a 00}\n{04 02 00}!"
   },
   {
    "id": 14,
    "en": "{07 13 00}I used to think long walks\non the beach at sunset{01 00 00 0a 00}\nwere so romantic...\n{07 15 00}'Til I got one foot caught{01 00 00 05 00}\nin some driftwood, and the\nother in something slimy.\n{07 19 00}It just reaffirmed my\nbelief that sitting around\nis always the best policy.",
-   "et": ""
+   "et": "{07 13 00}Varem arvasin, et pikad\njalutuskäigud rannas õhtul{01 00 00 0a 00}\non nii romantilised...\n{07 15 00}Kuni jäin ühe jalaga{01 00 00 05 00}\nuppunud puu taha ja\nteisega millegi limase sisse.\n{07 19 00}See kinnitas mu usku, et\nniisama istumine on alati\nparim poliitika."
   },
   {
    "id": 15,
    "en": "{07 16 00}Somebody told me{01 00 00 05 00} to be\ncareful at the ocean{01 00 00 0a 00} at\nmidnight{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 0e 00}{01 00 00 0a 00}But they never told me\nwhat to be careful about{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 14 00}{07 0c 00}\n\n{01 08 00}{07 02 00}{01 00 00 0a 00}AAAAAAAAAAAAAAAAAAAUGH!!!{01 01 00}\n{07 14 00}Huh huh huh!{01 00 00 0a 00} Did I scare\nyou? Just be careful, OK?",
-   "et": ""
+   "et": "{07 16 00}Keegi ütles mulle{01 00 00 05 00}, et olgu\nookeani ääres ettevaatlik{01 00 00 0a 00}\nkeskööl{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 0e 00}{01 00 00 0a 00}Aga nad ei öelnud kunagi,\nmille suhtes ettevaatlik{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 14 00}{07 0c 00}\n\n{01 08 00}{07 02 00}{01 00 00 0a 00}AAAAAAAAAAAAAAAAAAAUH!!!{01 01 00}\n{07 14 00}Hah hah haa!{01 00 00 0a 00} Kas ma\nehmatasin? Ole valvas, eks?"
   },
   {
    "id": 16,
    "en": "{07 00 00}It's so nice of 'em to just\nhang around like this for\nfree,{01 00 00 0a 00} {04 02 00}.",
-   "et": ""
+   "et": "{07 00 00}Nii kena neist, et nad\nlihtsalt niisama tasuta\nsiin vedelevad,{01 00 00 0a 00} {04 02 00}."
   },
   {
    "id": 17,
    "en": "{07 0d 00}{01 00 00 0a 00}They're like nature's jewels!",
-   "et": ""
+   "et": "{07 0d 00}{01 00 00 0a 00}Nad on nagu looduse ehted!"
   },
   {
    "id": 18,
    "en": "{07 00 00}Collecting all those stylish\nseashells{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 14 00}{07 0a 00}makes me all the\nmore stylish!",
-   "et": ""
+   "et": "{07 00 00}Kõigi nende stiilsete\nkarpide kogumine{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 14 00}{07 0a 00}teeb mind\nveelgi stiilsemaks!"
   }
  ]
 }

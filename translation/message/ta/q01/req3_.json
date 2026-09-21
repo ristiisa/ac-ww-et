@@ -4,17 +4,17 @@
   {
    "id": 0,
    "en": "{07 00 00}Speaking of which,{01 00 00 05 00}\n{04 1f 00}, {01 00 00 0a 00}you're good\nat bug catching, right?\n{07 16 00}I heard you're very\nconfident about how fast\nyou catch bugs{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 14 00}How about this time we\ncompete on the rarity of\nthe bug instead of speed?\n{07 0b 00}What do you say,\n{01 00 00 0a 00}{04 02 00}? Wanna give it\na go?",
-   "et": ""
+   "et": "{07 00 00}Kui sellest juttu tuli,{01 00 00 05 00}\n{04 1f 00}, {01 00 00 0a 00}sa oled hea\nputukate püüdmises, eks?\n{07 16 00}Kuulsin, et sa oled väga\nenesekindel selles, kui\nkiiresti sa putukaid püüad{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 14 00}Kuidas oleks, kui seekord\nvõistleme putuka\nharuldusega kiiruse asemel?\n{07 0b 00}Mis sa ütled,\n{01 00 00 0a 00}{04 02 00}? Tahad\nproovida?"
   },
   {
    "id": 1,
    "en": "{07 00 00}Hey, {01 00 00 05 00}{04 1f 00},{01 00 00 05 00} {07 15 00}you should\nknow just catching any old\nbug doesn't prove anything!\n{07 19 00}No, a TRUE bug connoisseur\ncares {07 14 00}about quality, not\njust quantity{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n{07 00 00}If you catch a rarer bug\nthan I do, {01 00 00 05 00}{07 14 00}then I'll believe\nthat you're a connoisseur!\n{07 0b 00}What do you say?{01 00 00 14 00} Will you\naccept my challenge,\n{01 00 00 05 00}{04 02 00}?",
-   "et": ""
+   "et": "{07 00 00}Hei, {01 00 00 05 00}{04 1f 00},{01 00 00 05 00} {07 15 00}sa peaksid\nteadma, et suvalise putuka\npüüdmine ei tõesta midagi!\n{07 19 00}Ei, TÕELINE putukatundja\nhoolib {07 14 00}kvaliteedist, mitte\nainult kogusest{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n{07 00 00}Kui sa püüad haruldasema\nputuka kui mina, {01 00 00 05 00}{07 14 00}siis usun,\net sa oled tundja!\n{07 0b 00}Mis sa ütled?{01 00 00 14 00} Kas võtad\nmu väljakutse vastu,\n{01 00 00 05 00}{04 02 00}?"
   },
   {
    "id": 2,
    "en": "{07 00 00}I heard you're also a big\nbug fan{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n\n{07 0b 00}Did you know that there are\nlots of different types of\nbug-catching battles?\n{07 0e 00}{01 00 00 0a 00}Speed matches, {01 00 00 14 00}rarity\nmatches,{01 00 00 14 00} {04 03 00}\nmatches{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n{07 00 00}Actually, the {04 03 00}\nmatch is impossible to have\nthis time of year.\n{07 14 00}But we can have a rarity\nmatch! {01 01 00}{07 0b 00}Well? Wanna see who\ncan catch the rarer bug?",
-   "et": ""
+   "et": "{07 00 00}Ma kuulsin, et sa oled ka\nsuur putukafänn{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n\n{07 0b 00}Kas sa teadsid, et on\npalju eri tüüpi\nputukapüügi lahinguid?\n{07 0e 00}{01 00 00 0a 00}Kiirusmatšid, {01 00 00 14 00}harulduse\nmatšid,{01 00 00 14 00} {04 03 00}\nmatšid{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n{07 00 00}Tegelikult on {04 03 00}\nmatši sel aastaajal\nvõimatu pidada.\n{07 14 00}Aga võime pidada harulduse\nmatši! {01 01 00}{07 0b 00}Noh? Tahad näha, kes\npüüab haruldasema putuka?"
   }
  ]
 }

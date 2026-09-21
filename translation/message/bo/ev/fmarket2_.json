@@ -4,47 +4,47 @@
   {
    "id": 0,
    "en": "{07 04 00}Oh!{01 00 00 0a 00} {0b 03 00}{04 1f 00}!{01 00 00 14 00}{07 14 00} You came!",
-   "et": ""
+   "et": "{07 04 00}Oh!{01 00 00 0a 00} {0b 03 00}{04 1f 00}!{01 00 00 14 00}{07 14 00} Sa tulid!"
   },
   {
    "id": 1,
    "en": "{07 0d 00}Welcome to {04 01 00}'s\n{ff 00 00 02}Mega Mart{ff 00 00 00},{01 00 00 0a 00} where the deals\ngrab you by the lapels...\nAnd punch you square in\nthe teeth!",
-   "et": ""
+   "et": "{07 0d 00}Tere tulemast {04 01 00}\n{ff 00 00 02}Megapoodi{ff 00 00 00},{01 00 00 0a 00} kus pakkumised\nhaaravad sul revääridest...\nJa löövad otse\nhammaste pihta!"
   },
   {
    "id": 2,
    "en": "{07 0a 00}Whoa! I didn't think you'd\nshow up, {04 1f 00}!\n\n{07 0d 00}Wow! I sure am glad I\ncleaned my place,\n{01 00 00 05 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 0a 00}Ohoo! Ma ei arvanud, et sa\nkohale tuled, {04 1f 00}!\n\n{07 0d 00}Vau! Hea, et ma oma\nkoha ära koristasin,\n{01 00 00 05 00}{04 02 00}!"
   },
   {
    "id": 3,
    "en": "{07 14 00}Thanks,{01 00 00 0a 00} {04 02 00}!",
-   "et": ""
+   "et": "{07 14 00}Aitäh,{01 00 00 0a 00} {04 02 00}!"
   },
   {
    "id": 4,
    "en": "{07 14 00}Come again!{01 00 00 0a 00} {04 01 00}'s\n{ff 00 00 02}Mega Mart {ff 00 00 00}will be waiting!",
-   "et": ""
+   "et": "{07 14 00}Tule jälle!{01 00 00 0a 00} {04 01 00}\n{ff 00 00 02}Megapood {ff 00 00 00}ootab!"
   },
   {
    "id": 5,
    "en": "{07 00 00}See you later, {01 00 00 0a 00}{04 02 00}.",
-   "et": ""
+   "et": "{07 00 00}Näeme hiljem, {01 00 00 0a 00}{04 02 00}."
   },
   {
    "id": 6,
    "en": "{07 14 00}Huh huh huh!{01 00 00 14 00}\n\n\n{07 15 00}This shop is {04 01 00}'s{01 00 00 0a 00}\n{04 01 00}-run{01 00 00 0a 00} {07 04 00}market for\nfans of {04 01 00}!!!\n{07 0d 00}If you see anything you\nlike, let me know!",
-   "et": ""
+   "et": "{07 14 00}Hah hah haa!{01 00 00 14 00}\n\n\n{07 15 00}See pood on {04 01 00}\n{01 00 00 0a 00}{04 01 00} juhitud{01 00 00 0a 00} {07 04 00}turg\n{04 01 00} fännidele!!!\n{07 0d 00}Kui näed midagi, mis\nmeeldib, anna teada!"
   },
   {
    "id": 7,
    "en": "{07 17 00}For some reason, having you\nin my house gives my belly\na case of the butterflies{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.",
-   "et": ""
+   "et": "{07 17 00}Millegipärast tekitab sinu\nkohalolek mu majas kõhus\nliblikaid{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}."
   },
   {
    "id": 8,
    "en": "{07 14 00}Huh huh huh!{01 00 00 0a 00} I love the\n{ff 00 00 03}Flea Market{ff 00 00 00},{01 00 00 05 00} {04 02 00}!",
-   "et": ""
+   "et": "{07 14 00}Hah hah haa!{01 00 00 0a 00} Mulle meeldib\n{ff 00 00 03}kirbuturg{ff 00 00 00},{01 00 00 05 00} {04 02 00}!"
   }
  ]
 }

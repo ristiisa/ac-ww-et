@@ -4,17 +4,17 @@
   {
    "id": 0,
    "en": "{07 00 00}I heard that you're wicked\nat catching bugs!\n\nBut how good are you at{07 0b 00}\ntellin' one bug from\nanother, {01 00 00 05 00}{04 02 00}?\n{07 14 00}I thought so! Why don't you\nand me compete to see who\ncan catch the rarest bug?\n{07 00 00}{07 11 00}I'm about to show you how\nit's done!",
-   "et": ""
+   "et": "{07 00 00}Kuulsin, et sa oled\nputukapüügis kõva käsi!\n\nAga kui hea sa oled{07 0b 00}\nühe putuka teisest\neristamises, {01 00 00 05 00}{04 02 00}?\n{07 14 00}Nii ma arvasingi! Miks me ei\nvõistle, kes püüab kõige\nharuldasema putuka?\n{07 00 00}{07 11 00}Ma näitan sulle kohe,\nkuidas seda tehakse!"
   },
   {
    "id": 1,
    "en": "{07 15 00}Don't get a bloated head{01 00 00 05 00}\njust 'cause you caught a\ncouple scrawny bugs!\n{07 00 00}I think it's high time you\nand me dueled to see who\ncan catch the rarer bug.\n{07 11 00}Of course, I'll be the judge\nof which bug is more \nrare{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{04 02 00}!\n{07 00 00}So,{01 00 00 05 00} are you in or what?\nEh, {01 00 00 05 00}{04 02 00}?",
-   "et": ""
+   "et": "{07 15 00}Ära aja pead punni{01 00 00 05 00}\nlihtsalt sellepärast, et\npüüdsid paar kõhna putukat!\n{07 00 00}Minu arust on ülim aeg, et\nme duelli peaksime, kes\npüüab haruldasema putuka.\n{07 11 00}Muidugi otsustan mina, kumb\nputukas on\nharuldasem{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{04 02 00}!\n{07 00 00}Noh,{01 00 00 05 00} oled sa nõus või?\nMis, {01 00 00 05 00}{04 02 00}?"
   },
   {
    "id": 2,
    "en": "{07 15 00}Yo!{01 00 00 14 00} How about you and me\ncompete to see who can\ncatch the rarer bug?\n{07 00 00}I get along with bugs\nbetter than people. I know\nthem and understand them.\n{07 15 00}So when you think you've\ncaught a bug that can't be\nbeat,{01 00 00 05 00} bring it to me!\nI'll check it out and tell\nyou if it's something\nspecial. {01 00 00 05 00}{07 0b 00}So,{01 00 00 14 00} you game?",
-   "et": ""
+   "et": "{07 15 00}Jou!{01 00 00 14 00} Kuidas oleks, kui me\nvõistleksime, kes püüab\nharuldasema putuka?\n{07 00 00}Ma saan putukatega paremini\nläbi kui inimestega. Tunnen\nja mõistan neid.\n{07 15 00}Nii et kui arvad, et\npüüdsid võitmatu putuka,{01 00 00 05 00}\ntoo see mulle!\nMa vaatan selle üle ja\nütlen, kas see on midagi\nerilist. {01 00 00 05 00}{07 0b 00}Noh,{01 00 00 14 00} mängid?"
   }
  ]
 }

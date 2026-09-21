@@ -4,12 +4,12 @@
   {
    "id": 0,
    "en": "{07 06 00}I hate to say this, but\nyou definitely found\nsomething cooler. {01 00 00 05 00}You win!\n{07 00 00}{07 14 00}I'll take this\n{0b 02 00}{04 1c 00}...\n\nAnd give you a sweet prize:\n{0b 02 00}{04 1b 00}!\nWay to go, {01 00 00 05 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 06 00}Ma ei taha seda öelda, aga\nsa leidsid kindlasti\nmidagi lahedamat. {01 00 00 05 00}Sina\nvõidad! {07 00 00}{07 14 00}Mina võtan selle\n{0b 02 00}{04 1c 00}...\n\nJa annan sulle magusa\nauhinna: {0b 02 00}{04 1b 00}!\nTubli töö, {01 00 00 05 00}{04 02 00}!"
   },
   {
    "id": 1,
    "en": "{07 16 00}Well, {01 00 00 03 00}I tried to be perky,\nbut I guess this just wasn't\nmy day.\nI'll take your\n{0b 02 00}{04 1c 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n\nAnd then you can have\n{04 1b 00}!",
-   "et": ""
+   "et": "{07 16 00}Noh, {01 00 00 03 00}ma üritasin särtsakas\nolla, aga vist polnud see\nlihtsalt minu päev.\nMa võtan sinu\n{0b 02 00}{04 1c 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n\nJa siis võid sina saada\n{04 1b 00}!"
   }
  ]
 }

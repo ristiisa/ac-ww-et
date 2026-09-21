@@ -4,32 +4,32 @@
   {
    "id": 0,
    "en": "{07 1c 00}I, like, feel all barfy{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} {07 07 00}I\nhope I didn't catch a cold,\n{01 00 00 05 00}{04 02 00}...",
-   "et": ""
+   "et": "{07 1c 00}Ma, nagu, tunnen iiveldust{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n{07 07 00}Loodan, et ei saanud külma,\n{01 00 00 05 00}{04 02 00}..."
   },
   {
    "id": 1,
    "en": "{07 07 00}Ooooh... I think I'm gonna\nbe totally sick{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} Oh, that's\nso super gross{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} {07 02 00}Mrrrrrph!",
-   "et": ""
+   "et": "{07 07 00}Ooooh... Ma arvan, et mul\nhakkab paha{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} Oh, see on\nnii ülijäle{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} {07 02 00}Mrrrrph!"
   },
   {
    "id": 2,
    "en": "{07 07 00}My head hurts,{01 00 00 05 00} and my nose\nis, like, all full of goo{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n{07 1c 00}I think I have a cold...",
-   "et": ""
+   "et": "{07 07 00}Mu pea valutab,{01 00 00 05 00} ja mu nina\non, nagu, tatti täis{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n{07 1c 00}Ma vist olen külmetunud..."
   },
   {
    "id": 3,
    "en": "{07 14 00}I was just writing my\nfriend to say that I feel\nLOTS better now!\nI was all like, {01 00 00 0f 00}{07 19 00}\"And it's all\nthanks to {ff 00 00 05}{04 0f 00}{ff 00 00 00}'s\n{ff 00 00 07}medicine{ff 00 00 00}!\" {01 00 00 0a 00}{01 01 00}{07 0a 00}YAY!",
-   "et": ""
+   "et": "{07 14 00}Ma just kirjutasin oma\nsõbrale, et tunnen end\nPALJU paremini!\nMa olin nagu, {01 00 00 0f 00}{07 19 00}„Ja see kõik\ntänu {ff 00 00 05}{04 0f 00}{ff 00 00 00}\n{ff 00 00 07}rohule{ff 00 00 00}!” {01 00 00 0a 00}{01 01 00}{07 0a 00}JEE!"
   },
   {
    "id": 4,
    "en": "{07 05 00}{01 08 00}HEY, WORLD! {01 00 00 0f 00}LISTEN UP!{01 01 00}\n{0b 03 00}{ff 00 00 05}{04 0f 00}{ff 00 00 00}'s {ff 00 00 07}medicine {ff 00 00 00}{01 00 00 05 00}\ntotally saved me!\n{07 0a 00}YAAAAAAAAAAAAAAAY,\n{ff 00 00 05}{04 0f 00}{ff 00 00 00}!",
-   "et": ""
+   "et": "{07 05 00}{01 08 00}HEI, MAAILM! {01 00 00 0f 00}KUULAKE!{01 01 00}\n{0b 03 00}{ff 00 00 05}{04 0f 00}{ff 00 00 00} {ff 00 00 07}rohi {ff 00 00 00}{01 00 00 05 00}\npäästis mu täiesti!\n{07 0a 00}JEEEEEEEE,\n{ff 00 00 05}{04 0f 00}{ff 00 00 00}!"
   },
   {
    "id": 5,
    "en": "{07 14 00}You know what name's on\nthe top of my friend list?{01 00 00 14 00}\n{07 19 00}{0b 03 00}{ff 00 00 05}{04 0f 00}{ff 00 00 00}!\n{07 0a 00}You know, {01 00 00 0a 00}'cause the\n{ff 00 00 07}medicine {ff 00 00 00}totally made my\nhead stop leaking!",
-   "et": ""
+   "et": "{07 14 00}Tead, kelle nimi on mu\nsõbranimekirja tipus?{01 00 00 14 00}\n{07 19 00}{0b 03 00}{ff 00 00 05}{04 0f 00}{ff 00 00 00}!\n{07 0a 00}Tead, {01 00 00 0a 00}sest {ff 00 00 07}rohi {ff 00 00 00}\npani mu pea täiesti\nlekkimast lakkama!"
   }
  ]
 }

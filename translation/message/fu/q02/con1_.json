@@ -4,17 +4,17 @@
   {
    "id": 0,
    "en": "{07 04 00}Oh, heya, {01 00 00 05 00}{04 1f 00}. I see\nyou still haven't caught\n{04 1a 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n{07 14 00}Maybe I've still got a\nchance of catching one\nfirst, {01 00 00 05 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 04 00}Oh, tsau, {01 00 00 05 00}{04 1f 00}. Näen,\net sa pole ikka püüdnud\n{04 1a 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n{07 14 00}Ehk on mul ikka veel\nvõimalus üks esimesena\npüüda, {01 00 00 05 00}{04 02 00}!"
   },
   {
    "id": 1,
    "en": "{07 16 00}I'm having no luck catching\n{04 1a 00}.\nHow about you?\n{07 14 00}It doesn't matter. I'm not\ngiving up if you're not!\nGood luck, {04 1f 00}!",
-   "et": ""
+   "et": "{07 16 00}Mul ei vea püüdmisega\n{04 1a 00}.\nAga sinul?\n{07 14 00}Pole tähtis. Ma ei anna\nalla, kui sina ei anna!\nEdu, {04 1f 00}!"
   },
   {
    "id": 2,
    "en": "{07 0e 00}Hmmm{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} Where are you\nhiding, you stupid little\n{0b 02 00}{04 1a 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}",
-   "et": ""
+   "et": "{07 0e 00}Hmmm{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} Kus sa peidad,\nsa rumal väike\n{0b 02 00}{04 1a 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}"
   }
  ]
 }

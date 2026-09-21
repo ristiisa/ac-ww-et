@@ -4,17 +4,17 @@
   {
    "id": 0,
    "en": "{07 14 00}Huh huh!{01 00 00 0a 00} This represents\nmy true feelings,{01 00 00 05 00}\n{04 02 00}!",
-   "et": ""
+   "et": "{07 14 00}Hah hah!{01 00 00 0a 00} See väljendab\nmu tõelisi tundeid,{01 00 00 05 00}\n{04 02 00}!"
   },
   {
    "id": 1,
    "en": "{07 14 00}Huh huh huh!{01 00 00 0a 00} Don't let this\nbe the last time,{01 00 00 0a 00}\n{04 02 00}!",
-   "et": ""
+   "et": "{07 14 00}Hah hah haa!{01 00 00 0a 00} Ära lase sel\nolla viimane kord,{01 00 00 0a 00}\n{04 02 00}!"
   },
   {
    "id": 2,
    "en": "{07 17 00}Huh huh huh!{01 00 00 0a 00} Thanks,{01 00 00 0a 00}\n{04 02 00}.\n\n{07 00 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00}{01 08 00}{ff 00 00 04}(RRRRRUUUUUMBLE!){01 01 00} {07 0d 00}{ff 00 00 00}Oops!{01 00 00 0a 00}\nI'm so happy, I've got\nbutterflies in my belly!",
-   "et": ""
+   "et": "{07 17 00}Hah hah haa!{01 00 00 0a 00} Aitäh,{01 00 00 0a 00}\n{04 02 00}.\n\n{07 00 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00}{01 08 00}{ff 00 00 04}(KRRRRUUUUUIN!){01 01 00} {07 0d 00}{ff 00 00 00}Ups!{01 00 00 0a 00}\nOlen nii õnnelik, et mul on\nkõhus liblikad!"
   }
  ]
 }

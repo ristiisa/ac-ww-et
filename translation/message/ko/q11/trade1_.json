@@ -4,17 +4,17 @@
   {
    "id": 0,
    "en": "{07 00 00}Say,{01 00 00 05 00} you seem to like some\nof my stuff. Let me ask\nyou something...\n{07 0e 00}Can you tell me which ones\na kid would like?{01 00 00 05 00} One of\nthe \"popular\" kids?{02 04 00 ff ff}\nSure thing.\nNot right now.",
-   "et": ""
+   "et": "{07 00 00}Kuule,{01 00 00 05 00} sulle näib meeldivat\nmõni mu asi. Las ma\nküsin sinult midagi...\n{07 0e 00}Kas sa oskad öelda, millised\nmeeldiksid lapsele?{01 00 00 05 00} Mõnele\n„populaarsele” lapsele?{02 04 00 ff ff}\nMuidugi.\nMitte praegu."
   },
   {
    "id": 1,
    "en": "{07 15 00}All right,{01 00 00 05 00} let's get down\nto brass tacks here{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n\n{07 00 00}{07 15 00}Now, I know my stuff all\nhas a weird kinda odor to\nit. I'm aware of that!\nBut I need to know which\npiece is the MOST stinky!{01 00 00 0f 00}\nWill ya tell me?{02 04 00 ff ff}\nYou got it!\nNot right now",
-   "et": ""
+   "et": "{07 15 00}Hea küll,{01 00 00 05 00} räägime nüüd\nasjast{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n\n{07 00 00}{07 15 00}Ma tean, et kogu mu kraam\nlõhnab kuidagi imelikult.\nMa olen sellest teadlik!\nAga ma pean teadma, milline\nese on KÕIGE haisvam!{01 00 00 0f 00}\nKas sa ütled mulle?{02 04 00 ff ff}\nOlgu pealegi!\nMitte praegu"
   },
   {
    "id": 2,
    "en": "{07 00 00}{07 0b 00}So which piece here do you\nlike the most?{01 00 00 0a 00} {07 00 00}I'm just\ncurious, is all.{02 04 00 ff ff}\nLemme tell ya!\nBuzz off!",
-   "et": ""
+   "et": "{07 00 00}{07 0b 00}Nii et milline ese sulle\nkõige rohkem meeldib?{01 00 00 0a 00} {07 00 00}Olen\nlihtsalt uudishimulik.{02 04 00 ff ff}\nLas ma ütlen!\nKasi eemale!"
   }
  ]
 }

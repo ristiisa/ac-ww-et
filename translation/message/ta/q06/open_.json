@@ -4,17 +4,17 @@
   {
    "id": 0,
    "en": "{01 00 00 0a 00}{07 04 00}Hey, forget about whatever\nyou're doing!{01 01 00} {07 15 00}I know{01 00 00 0a 00} you\nopened that present!\nDon't even try to deny it!{01 00 00 0a 00}{07 1c 00}{01 00 00 14 00}\nUgh,{01 00 00 0a 00} why would anyone do\nsomething like that?!\n{07 1b 00}Were you THAT jealous of\nthe attention I've been\ngiving {ff 00 00 06}{04 10 00}{ff 00 00 00}?",
-   "et": ""
+   "et": "{01 00 00 0a 00}{07 04 00}Hei, unusta see, mida sa\nparasjagu teed!{01 01 00} {07 15 00}Ma tean,{01 00 00 0a 00} et\nsa avasid selle kingituse!\nÄra isegi ürita eitada!{01 00 00 0a 00}{07 1c 00}{01 00 00 14 00}\nÖök,{01 00 00 0a 00} miks keegi teeks\nmidagi sellist?!\n{07 1b 00}Kas sa olid NII kade selle\ntähelepanu peale, mida olen\n{ff 00 00 06}{04 10 00}{ff 00 00 00}le pööranud?"
   },
   {
    "id": 1,
    "en": "{01 00 00 14 00}{07 04 00}By the way, {04 1f 00}!{01 01 00}\n{07 15 00}About the {01 00 00 05 00}present that I\ngave you for {ff 00 00 06}{04 10 00}{ff 00 00 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00}\n{07 01 00}I know it was you who\nopened it!\n\n{07 05 00}I can't believe this!{01 00 00 14 00} {01 00 00 05 00}You've\ntarnished my reputation,\n{01 00 00 0a 00}{04 02 00}!{03 02 00 01}",
-   "et": ""
+   "et": "{01 00 00 14 00}{07 04 00}Muide, {04 1f 00}!{01 01 00}\n{07 15 00}Selle {01 00 00 05 00}kingituse kohta, mille\nma sulle {ff 00 00 06}{04 10 00}{ff 00 00 00}le andsin{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n.{01 00 00 0a 00} {07 01 00}Ma tean, et sina selle\navasid!\n\n{07 05 00}Ma ei suuda uskuda!{01 00 00 14 00} {01 00 00 05 00}Sa\nrikkusid mu maine,\n{01 00 00 0a 00}{04 02 00}!{03 02 00 01}"
   },
   {
    "id": 2,
    "en": "{07 00 00}{01 00 00 14 00}{07 04 00}Ugh,{01 00 00 05 00} how can you be so\ncalm?! How can you even\nlook me in the eye?!\n{07 15 00}That present{01 00 00 0a 00} I gave you to\ndeliver to {ff 00 00 06}{04 10 00}{ff 00 00 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00}\nYou opened it, didn't you?\n{07 05 00}I can't believe that!{01 00 00 14 00} {01 00 00 05 00}It's a\ntotal violation of privacy!\n{01 00 00 0a 00}You're a terrible snoop!!{03 02 00 01}",
-   "et": ""
+   "et": "{07 00 00}{01 00 00 14 00}{07 04 00}Öök,{01 00 00 05 00} kuidas sa saad nii\nrahulik olla?! Kuidas sa\nsuudad mulle silma vaadata?\n{07 15 00}See kingitus,{01 00 00 0a 00} mille andsin\n{ff 00 00 06}{04 10 00}{ff 00 00 00}le viia{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00}\nSa avasid selle, kas pole?\n{07 05 00}Ma ei suuda uskuda!{01 00 00 14 00} {01 00 00 05 00}See on\ntäielik privaatsusrikkumine!\n{01 00 00 0a 00}Sa oled kohutav nuhk!!{03 02 00 01}"
   }
  ]
 }

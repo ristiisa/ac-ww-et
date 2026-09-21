@@ -4,17 +4,17 @@
   {
    "id": 0,
    "en": "{07 06 00}Aaaarrrgh!{01 00 00 05 00} You found me!{01 00 00 14 00}\n{07 15 00}You're way too good,\n{04 1f 00}!\n{07 1c 00}I lose again...{01 00 00 05 00} Like always,\n{01 00 00 05 00}{04 02 00}...\n\n{07 1a 00}Oh well! What can you do?{01 00 00 0a 00} I\nguess I'll fork over this\ncool prize!",
-   "et": ""
+   "et": "{07 06 00}Aaaarrrgh!{01 00 00 05 00} Sa leidsid mu!{01 00 00 14 00}\n{07 15 00}Sa oled liiga hea,\n{04 1f 00}!\n{07 1c 00}Kaotan jälle...{01 00 00 05 00} Nagu alati,\n{01 00 00 05 00}{04 02 00}...\n\n{07 1a 00}Ah noh! Mis teha?{01 00 00 0a 00} Ma\nvist annan selle lahe\nauhinna välja!"
   },
   {
    "id": 1,
    "en": "{07 00 00}.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}Hey, how did you know I\n{07 0b 00}was here, {01 00 00 05 00}{04 02 00}?{01 00 00 0f 00} That\ndidn't take long at all!\n{07 1a 00}You rule, {04 1f 00}!{01 00 00 05 00} I\nadmit defeat{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00} {07 0d 00}And now\nit's time for your prize!",
-   "et": ""
+   "et": "{07 00 00}.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}Hei, kuidas sa teadsid, et\n{07 0b 00}ma olen siin, {01 00 00 05 00}{04 02 00}?{01 00 00 0f 00} See\nei võtnud üldse kaua!\n{07 1a 00}Oled võimas, {04 1f 00}!{01 00 00 05 00} Ma\ntunnistan kaotust{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00} {07 0d 00}Ja nüüd\non aeg su auhinnaks!"
   },
   {
    "id": 2,
    "en": "{07 06 00}Oh no! You found me!{01 00 00 0f 00} {07 16 00}Wow,\nI'm no match for you,\n{01 00 00 05 00}{04 02 00}\n{07 14 00}And in exchange for seeing\nthe seeking master in\naction...\nI'm going to give you a\nlittle present!",
-   "et": ""
+   "et": "{07 06 00}Oh ei! Sa leidsid mu!{01 00 00 0f 00} {07 16 00}Vau,\nma pole sulle vastane,\n{01 00 00 05 00}{04 02 00}\n{07 14 00}Ja vastutasuks selle eest,\net nägin otsimismeistrit\ntegutsemas...\nMa annan sulle väikese\nkingituse!"
   }
  ]
 }

@@ -4,137 +4,137 @@
   {
    "id": 0,
    "en": "{07 14 00}Hey, {01 00 00 05 00}{04 1f 00}!{01 00 00 0a 00} {07 00 00}Wanna\ntest your luck and brains\nwith a little trivia?{02 00 00 03 04}\nBring it!\nNo, thanks.",
-   "et": ""
+   "et": "{07 14 00}Hei, {01 00 00 05 00}{04 1f 00}!{01 00 00 0a 00} {07 00 00}Kas tahad\nproovile panna oma õnne ja\naru väikese viktoriiniga?{02 00 00 03 04}\nTule aga!\nEi, aitäh."
   },
   {
    "id": 1,
    "en": "{07 14 00}OK, {01 00 00 0a 00}y'know how some people\nthink there's a prime age\nfor falling in love?\n{07 0b 00}{01 00 00 05 00}What do you think that\nage is, {04 1f 00}?{05 05 00 02 0f 08 10 03 11 03 12}\nSixties\nTeens",
-   "et": ""
+   "et": "{07 14 00}Olgu, {01 00 00 0a 00}tead küll, mõned\narvavad, et on parim vanus\narmumiseks?\n{07 0b 00}{01 00 00 05 00}Mis see vanus sinu arust\non, {04 1f 00}?{05 05 00 02 0f 08 10 03 11 03 12}\nKuuekümnendad\nTeismeiga"
   },
   {
    "id": 2,
    "en": "{06 03 00 0d 17}",
-   "et": ""
+   "et": "{06 03 00 0d 17}"
   },
   {
    "id": 3,
    "en": "{01 00 00 0a 00}{07 1b 00}{01 00 00 05 00}That's the spirit!{01 00 00 0f 00} All righty\nthen. {01 00 00 0f 00}Imagine there's a red\ncard and a white card here.\n{07 14 00}I'm going to ask you a\nquestion, and then you pick\nthe right answer.\n{07 00 00}Here's the first question!{01 01 00}\n{07 0b 00}{01 00 00 05 00}Your mom is yelling at your\ndad, and his face turns...{02 00 00 05 06}\nRed.\nWhite.",
-   "et": ""
+   "et": "{01 00 00 0a 00}{07 1b 00}{01 00 00 05 00}Vaat see on vaim!{01 00 00 0f 00} Hästi\nsiis. {01 00 00 0f 00}Kujuta, et siin on\npunane ja valge kaart.\n{07 14 00}Ma esitan sulle\nküsimuse ja sina valid\nõige vastuse.\n{07 00 00}Siin on esimene küsimus!{01 01 00}\n{07 0b 00}{01 00 00 05 00}Su ema karjub isa peale\nja isa nägu läheb...{02 00 00 05 06}\nPunaseks.\nValgeks."
   },
   {
    "id": 4,
    "en": "{07 16 00}Oh, {01 00 00 05 00}really?{01 00 00 0f 00} Too bad.{01 00 00 05 00} It's\nyour loss, {01 00 00 0a 00}{04 02 00}.",
-   "et": ""
+   "et": "{07 16 00}Oi, {01 00 00 05 00}tõesti?{01 00 00 0f 00} Kahju.{01 00 00 05 00} See on\nsinu kaotus, {01 00 00 0a 00}{04 02 00}."
   },
   {
    "id": 5,
    "en": "{07 14 00}Ha ha!{01 00 00 05 00} That is correct!{01 01 00}\n{07 00 00}And now, on to question\nnumber two, {01 00 00 05 00}{04 02 00}!\n{07 16 00}A stern gentleman in his\nforties is standing by a\nfountain in the mall.\n{07 14 00}What color sombrero is he\nwearing on his head,\n{01 00 00 05 00}{04 02 00}?{02 00 00 0b 0b}\nRed.\nWhite.",
-   "et": ""
+   "et": "{07 14 00}Hahaa!{01 00 00 05 00} See on õige!{01 01 00}\n{07 00 00}Ja nüüd teine\nküsimus, {01 00 00 05 00}{04 02 00}!\n{07 16 00}Range keskealine härra\nseisab kaubanduskeskuses\npurskkaevu juures.\n{07 14 00}Mis värvi sombreero on\ntal peas,\n{01 00 00 05 00}{04 02 00}?{02 00 00 0b 0b}\nPunane.\nValge."
   },
   {
    "id": 6,
    "en": "{07 14 00}Yesssssss! {01 00 00 05 00}You are right!{01 01 00}\n{07 00 00}On to your second question,\n{01 00 00 05 00}{04 02 00}!\n{07 13 00}{01 00 00 0a 00}A handsome man says to me,\n\"{ff 00 00 02}Your handkerchief, miss{ff 00 00 00},\"\nand starts a romance.\n{07 14 00}And{01 00 00 05 00} now for the question.{01 00 00 14 00}\nWhat color handkerchief am\nI carrying?{02 00 00 0b 0b}\nRed.\nWhite.",
-   "et": ""
+   "et": "{07 14 00}Jaaaaaah! {01 00 00 05 00}Sul on õigus!{01 01 00}\n{07 00 00}Nüüd sinu teine küsimus,\n{01 00 00 05 00}{04 02 00}!\n{07 13 00}{01 00 00 0a 00}Nägus mees ütleb mulle:\n„{ff 00 00 02}Teie taskurätik, preili{ff 00 00 00}”\nja algab romanss.\n{07 14 00}Ja{01 00 00 05 00} nüüd küsimus.{01 00 00 14 00}\nMis värvi taskurätikut\nma kannan?{02 00 00 0b 0b}\nPunast.\nValget."
   },
   {
    "id": 7,
    "en": "{07 15 00}That's very impressive,\nbraniac.{01 00 00 14 00} {07 00 00}Well, then,{01 00 00 0a 00} here's\nyour final question.",
-   "et": ""
+   "et": "{07 15 00}See on väga muljetavaldav,\ntarkpea.{01 00 00 14 00} {07 00 00}Noh siis,{01 00 00 0a 00} siin on\nsinu viimane küsimus."
   },
   {
    "id": 8,
    "en": "{07 15 00}I gotta say,{01 00 00 05 00} I'm impressed.{01 00 00 14 00}{07 00 00}\nGet ready for your last\nquestion!{01 00 00 0a 00} READY?!\n{07 0c 00}{01 00 00 0a 00}Here it is!{01 00 00 0a 00} What color are\nthe {ff 00 00 06}mayor{ff 00 00 00}'s long johns?!{02 00 00 0a 0a}\nRed...?\nWhite...?",
-   "et": ""
+   "et": "{07 15 00}Pean ütlema,{01 00 00 05 00} olen muljet\navaldatud.{01 00 00 14 00}{07 00 00} Valmistu\nviimaseks küsimuseks!{01 00 00 0a 00} NII?!\n{07 0c 00}{01 00 00 0a 00}Siin see on!{01 00 00 0a 00} Mis värvi on\n{ff 00 00 06}linnapea{ff 00 00 00} pikad aluspüksid?!{02 00 00 0a 0a}\nPunased...?\nValged...?"
   },
   {
    "id": 9,
    "en": "{07 14 00}In my yard, a single rose\ngrows, {01 00 00 0a 00}{04 02 00}. {01 00 00 0a 00}Now let\nme ask you, {04 02 00}.\n{07 0b 00}Is the rose {01 00 00 0a 00}red, signifying\npassion and romance? {01 00 00 0a 00}{07 14 00}Or is\nit{01 00 00 0a 00} a proud and cold white?{01 00 00 0a 00}{02 00 00 0c 0c}\nRed.\nWhite.",
-   "et": ""
+   "et": "{07 14 00}Mu õues kasvab üksainus\nroos, {01 00 00 0a 00}{04 02 00}. {01 00 00 0a 00}Nüüd lase\nma küsin, {04 02 00}.\n{07 0b 00}Kas roos on {01 00 00 0a 00}punane, mis\ntähistab kirge? {01 00 00 0a 00}{07 14 00}Või on ta{01 00 00 0a 00}\nuhke ja külm valge?{01 00 00 0a 00}{02 00 00 0c 0c}\nPunane.\nValge."
   },
   {
    "id": 10,
    "en": "{01 00 00 0a 00}{07 1b 00}{01 00 00 05 00}Oh, no.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} Too bad!{01 00 00 14 00} The\n{ff 00 00 06}mayor{ff 00 00 00}'s long johns are, in\nfact, pink! {01 00 00 05 00}{0b 03 00}{04 02 00}!\n{07 19 00}In this case,{01 00 00 0a 00} the correct\nresponse would have been to\npick both cards.{07 00 00}",
-   "et": ""
+   "et": "{01 00 00 0a 00}{07 1b 00}{01 00 00 05 00}Oh ei.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} Kahju!{01 00 00 14 00}\n{ff 00 00 06}Linnapea{ff 00 00 00} pikad aluspüksid on\ntegelikult roosad! {01 00 00 05 00}{0b 03 00}{04 02 00}!\n{07 19 00}Sel juhul{01 00 00 0a 00} oleks õige\nvastus olnud valida\nmõlemad kaardid.{07 00 00}"
   },
   {
    "id": 11,
    "en": "{06 01 00 07 07 08}",
-   "et": ""
+   "et": "{06 01 00 07 07 08}"
   },
   {
    "id": 12,
    "en": "{07 14 00}{01 00 00 0a 00}Tee hee!{01 00 00 0a 00} That is correct!{01 00 00 14 00}\n{07 0d 00}And your prize is\n{04 1a 00}!",
-   "et": ""
+   "et": "{07 14 00}{01 00 00 0a 00}Hihii!{01 00 00 0a 00} See on õige!{01 00 00 14 00}\n{07 0d 00}Ja sinu auhind on\n{04 1a 00}!"
   },
   {
    "id": 13,
    "en": "{06 00 00 16 17}",
-   "et": ""
+   "et": "{06 00 00 16 17}"
   },
   {
    "id": 14,
    "en": "{07 00 00}Do whatever you want with\nit, {01 00 00 0a 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 00 00}Tee sellega, mida tahad,\n{01 00 00 0a 00}{04 02 00}!"
   },
   {
    "id": 15,
    "en": "{07 0e 00}Huh?{01 00 00 14 00} {07 0c 00}{01 00 00 05 00}Oh,{01 00 00 05 00} I get it! {07 14 00}You think\nthat even kids understand\nlove, right? {01 00 00 0f 00}Big hippie!\n{06 01 00 13 14 14}",
-   "et": ""
+   "et": "{07 0e 00}Ah?{01 00 00 14 00} {07 0c 00}{01 00 00 05 00}Oi,{01 00 00 05 00} sain aru! {07 14 00}Sa arvad,\net isegi lapsed mõistavad\narmastust, eks? {01 00 00 0f 00}Suur hipi!\n{06 01 00 13 14 14}"
   },
   {
    "id": 16,
    "en": "{07 04 00}Whoa, {01 00 00 0a 00}coming from you,\nthat's a pretty solid\nresponse, {01 00 00 05 00}{04 02 00}!\n{07 14 00}Have you been watching{01 00 00 0a 00}\nthose cheesy made-for-TV\nromances again?",
-   "et": ""
+   "et": "{07 04 00}Ohoo, {01 00 00 0a 00}sinu kohta on see\npäris tugev\nvastus, {01 00 00 05 00}{04 02 00}!\n{07 14 00}Kas sa oled jälle vaadanud{01 00 00 0a 00}\nneid odavaid telekas\nnäidatavaid armulugusid?"
   },
   {
    "id": 17,
    "en": "{07 0a 00}Yes, I totally agree with\nyou.{01 01 00} {07 14 00}For getting the\ncorrect answer...\n...please accept my\n{0b 02 00}{04 1a 00} as\nyour prize, {01 00 00 0a 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 0a 00}Jah, ma olen sinuga\ntäiesti nõus.{01 01 00} {07 14 00}Õige vastuse\neest...\n...võta palun minu\n{0b 02 00}{04 1a 00}\nauhinnaks, {01 00 00 0a 00}{04 02 00}!"
   },
   {
    "id": 18,
    "en": "{07 0e 00}{01 00 00 0a 00}Umm{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 14 00}{07 16 00} Well, that's an age I\njust can't relate to. And\nthat's that.\n{07 09 00}I suppose someday I will{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 1c 00}{01 00 00 0a 00}That is so depressing,\n{01 00 00 0a 00}{04 02 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{03 03 00 03}",
-   "et": ""
+   "et": "{07 0e 00}{01 00 00 0a 00}Ee{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 14 00}{07 16 00} Noh, see on vanus,\nmillega ma ei oska\nsuhestuda. Ja kõik.\n{07 09 00}Ilmselt kunagi oskan{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 1c 00}{01 00 00 0a 00}See on nii masendav,\n{01 00 00 0a 00}{04 02 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{03 03 00 03}"
   },
   {
    "id": 19,
    "en": "{07 00 00}{01 00 00 0a 00}So, would this be considered{01 00 00 0a 00}\nan adult relationship?{01 00 00 14 00}\n{07 19 00}That's deep, {01 00 00 0a 00}{04 02 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.",
-   "et": ""
+   "et": "{07 00 00}{01 00 00 0a 00}Nii et kas seda peetaks{01 00 00 0a 00}\ntäiskasvanute suhteks?{01 00 00 14 00}\n{07 19 00}See on sügav, {01 00 00 0a 00}{04 02 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}."
   },
   {
    "id": 20,
    "en": "{07 09 00}{01 00 00 05 00}I see your point of view.{01 00 00 05 00}\nPlease accept this gift of\n{04 1a 00}.",
-   "et": ""
+   "et": "{07 09 00}{01 00 00 05 00}Ma mõistan su seisukohta.{01 00 00 05 00}\nVõta palun kingiks\n{04 1a 00}."
   },
   {
    "id": 21,
    "en": "{07 16 00}Well, {01 00 00 05 00}good luck, I guess,\n{01 00 00 0a 00}{04 02 00}.",
-   "et": ""
+   "et": "{07 16 00}Noh, {01 00 00 05 00}edu sulle siis,\n{01 00 00 0a 00}{04 02 00}."
   },
   {
    "id": 22,
    "en": "{07 16 00}Hey, {01 00 00 05 00}{04 1f 00}.{01 00 00 0f 00} {07 0b 00}Tell me,\nwhat kind of makeup are\nboys really into?{02 01 00 18 19 1a}\nClown makeup!\nSimple makeup.\nWho cares?",
-   "et": ""
+   "et": "{07 16 00}Hei, {01 00 00 05 00}{04 1f 00}.{01 00 00 0f 00} {07 0b 00}Ütle mulle,\nmilline meik poistele\ntegelikult meeldib?{02 01 00 18 19 1a}\nKlounimeik!\nLihtne meik.\nKeda huvitab?"
   },
   {
    "id": 23,
    "en": "{07 0b 00}Do you like how my makeup\nlooks today? {01 00 00 0a 00}It's a new look\nfor me, {01 00 00 05 00}{04 02 00}!\n{07 14 00}Hee hee! {01 00 00 0a 00}This is the latest\nblush by Nintendique,\n{01 00 00 05 00}{04 02 00}!\n{07 00 00}I got so much they gave me\n{04 1a 00}.{01 00 00 0a 00}\n{07 14 00}Here,{01 00 00 05 00} you can have it! ",
-   "et": ""
+   "et": "{07 0b 00}Kas sulle meeldib, kuidas mu\nmeik täna on? {01 00 00 0a 00}See on minu\nuus stiil, {01 00 00 05 00}{04 02 00}!\n{07 14 00}Hihii! {01 00 00 0a 00}See on Nintendique'i\nuusim põsepuna,\n{01 00 00 05 00}{04 02 00}!\n{07 00 00}Ostsin nii palju, et sain\n{04 1a 00}.{01 00 00 0a 00}\n{07 14 00}Säh,{01 00 00 05 00} sina võid selle saada! "
   },
   {
    "id": 24,
    "en": "{07 02 00}Is that{01 00 00 0a 00} REALLY what guys\nlike?{01 01 00} {07 0b 00}Or are you just\nmessing with my head?\n{07 0e 00}{01 00 00 0a 00}I guess a really cute girl\ncould pull it off{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00}maybe.\n{07 07 00}But I'm scared of clowns.",
-   "et": ""
+   "et": "{07 02 00}Kas see{01 00 00 0a 00} TÕESTI meeldib\npoistele?{01 01 00} {07 0b 00}Või sa lihtsalt\najad mind segadusse?\n{07 0e 00}{01 00 00 0a 00}Vist saaks tõesti armas\ntüdruk sellega{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00}ehk.\n{07 07 00}Aga ma kardan klounisid."
   },
   {
    "id": 25,
    "en": "{07 0c 00}{01 00 00 0a 00}Oh, you mean the\nprofessional look, right,\n{01 00 00 0a 00}{04 02 00}?\n{07 14 00}Yes, I, too, salute career\nladies everywhere! {01 00 00 0a 00}After\nall, I am one, {01 00 00 0a 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 0c 00}{01 00 00 0a 00}Oi, sa mõtled\nasjaliku välimuse, eks,\n{01 00 00 0a 00}{04 02 00}?\n{07 14 00}Jah, minagi tervitan\nkarjäärinaisi kõikjal! {01 00 00 0a 00}Ma\nolen ju ise üks, {01 00 00 0a 00}{04 02 00}!"
   },
   {
    "id": 26,
    "en": "{07 1c 00}{01 00 00 0a 00}Oh{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00} So you think boys like\nthe natural look?{01 00 00 0a 00} {07 1b 00}{01 00 00 05 00}I didn't\nexpect you to say that.",
-   "et": ""
+   "et": "{07 1c 00}{01 00 00 0a 00}Oi{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00} Nii et poistele\nmeeldib loomulik ilme?{01 00 00 0a 00} {07 1b 00}{01 00 00 05 00}Ma\nei oodanud, et sa nii ütled."
   }
  ]
 }

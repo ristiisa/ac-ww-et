@@ -4,62 +4,62 @@
   {
    "id": 0,
    "en": "{07 02 00}BLEEAAAARGH!{01 00 00 0a 00}\nWait, {04 1f 00}?!\n{01 00 00 05 00}Whoa, {04 02 00}!\n{07 16 00}Man, it's too early to get\nmy heart rate up so high!{01 01 00}\n{07 0b 00}So...you got face allergies?\n{07 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}Oh,{01 00 00 05 00}{07 16 00} you got schooled by\na bee, eh, {01 00 00 05 00}{04 02 00}?",
-   "et": ""
+   "et": "{07 02 00}BLÖÖÖÖÄÄRGH!{01 00 00 0a 00}\nOota, {04 1f 00}?!\n{01 00 00 05 00}Ohoo, {04 02 00}!\n{07 16 00}Mees, on liiga vara, et mu\npulss nii kõrgele ajada!{01 01 00}\n{07 0b 00}Nii et...sul on näoallergia?\n{07 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}Oh,{01 00 00 05 00}{07 16 00} sind õpetas\nmesilane, mis, {01 00 00 05 00}{04 02 00}?"
   },
   {
    "id": 1,
    "en": "{07 02 00}Whoa whoa WHOA!{01 00 00 0a 00}\n{07 0b 00}{0b 03 00}{04 1f 00}, is that you?{01 00 00 0a 00}\n{07 16 00}Woke up ugly, huh?{01 00 00 05 00}\n{07 00 00}Hey, but...{01 00 00 05 00}the more I look{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00}\n{07 14 00}the cooler you look! {01 00 00 05 00}Yeah,\nthe ugly grows on you!\n{07 0d 00}Maybe I oughta work on\nan ugly look for myself{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{01 00 00 05 00}{04 02 00}.",
-   "et": ""
+   "et": "{07 02 00}Ohoo ohoo OHOO!{01 00 00 0a 00}\n{07 0b 00}{0b 03 00}{04 1f 00}, sina või?{01 00 00 0a 00}\n{07 16 00}Ärkasid inetuna, mis?{01 00 00 05 00}\n{07 00 00}Hei...{01 00 00 05 00}mida kauem vaatan{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00}\n{07 14 00}seda lahedam sa oled! {01 00 00 05 00}Jah,\ninetus kasvab su peale!\n{07 0d 00}Äkki peaksin ka endale\ninetu ilme välja mõtlema{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{01 00 00 05 00}{04 02 00}."
   },
   {
    "id": 2,
    "en": "{07 02 00}AIGH! TERRIBLE FACE!{01 00 00 05 00}\n{0b 03 00}{04 1f 00}, is that you\nunder there?!\n{07 16 00}I can understand wanting to\ncatch a bee and all, but{01 00 00 05 00}\nMother Nature can be mean!\n{07 00 00}You messed with her, and\nshe gave you the heinous- \nface-for-a-day treatment.",
-   "et": ""
+   "et": "{07 02 00}AIH! KOHUTAV NÄGU!{01 00 00 05 00}\n{0b 03 00}{04 1f 00}, kas see oled\nsina seal all?!\n{07 16 00}Ma saan aru, et tahad\nmesilast püüda, aga{01 00 00 05 00}\nLoodusema võib olla kuri!\n{07 00 00}Sa tegid temaga jama ja\nta andis sulle jälk-nägu-\nterveks-päevaks ravi."
   },
   {
    "id": 3,
    "en": "{07 02 00}Oh, man, now THAT is a face\nI could do without!{01 00 00 0a 00}\nThat you, {ff 00 00 05}{04 1f 00}{ff 00 00 00}?\n{07 16 00}Have you been overworking\nyour face muscles or\nsomething, {01 00 00 05 00}{04 02 00}?\n{07 00 00}Man, that's the face of\ndedication right there!{01 00 00 05 00}\nFace aerobics.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} You rule!",
-   "et": ""
+   "et": "{07 02 00}Oh mees, SEE on nägu,\nmilleta ma hakkama saaks!{01 00 00 0a 00}\nSina või, {ff 00 00 05}{04 1f 00}{ff 00 00 00}?\n{07 16 00}Kas sa oled oma näolihaseid\nüle koormanud või\nmidagi, {01 00 00 05 00}{04 02 00}?\n{07 00 00}Mees, see on pühendumuse\nnägu!{01 00 00 05 00}\nNäoaeroobika.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} Sa oled äge!"
   },
   {
    "id": 4,
    "en": "{07 02 00}Oh, talk about gross!{01 00 00 0a 00}\nThat face.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} Is that really\nyou, {04 1f 00}?\n{07 00 00}If a bee gets all fired up{01 00 00 05 00}\nfor you, you gotta sprint\nlike the wind, {01 00 00 05 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 02 00}Oh, milline jälkus!{01 00 00 0a 00}\nSee nägu.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} Kas see oled\ntõesti sina, {04 1f 00}?\n{07 00 00}Kui mesilane läheb sinu{01 00 00 05 00}\npeale hoogu, pead sa\ntuulena jooksma, {01 00 00 05 00}{04 02 00}!"
   },
   {
    "id": 5,
    "en": "{07 02 00}NOOO! DON'T EAT ME!{01 00 00 0a 00}\n{07 14 00}Oh, wait, you're {01 00 00 05 00}{04 1f 00}\nwith a bee sting, huh?\n{07 06 00}I thought you were one of\nthose trolls that like to\neat hot bods, {01 00 00 05 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 02 00}EIII! ÄRA SÖÖ MIND!{01 00 00 0a 00}\n{07 14 00}Oh, oota, sa oled {01 00 00 05 00}{04 1f 00}\nmesilase nõelamisega, mis?\n{07 06 00}Arvasin, et oled üks neist\ntrollidest, kes armastab\nkuumi kehi süüa, {01 00 00 05 00}{04 02 00}!"
   },
   {
    "id": 6,
    "en": "{07 0b 00}Who dat?!{01 00 00 05 00} Who's there?!{01 01 00}\n{07 04 00}Oh, wow, it's {01 00 00 05 00}{04 1f 00}!\nWhat's up, {01 00 00 05 00}{04 02 00}!\n{07 16 00}It's getting dark, and\nyour face is...weird.{01 00 00 05 00} I just\ncouldn't recognize you!",
-   "et": ""
+   "et": "{07 0b 00}Kes seal?!{01 00 00 05 00} Kes seal on?!{01 01 00}\n{07 04 00}Oh, vau, see on {01 00 00 05 00}{04 1f 00}!\nMis toimub, {01 00 00 05 00}{04 02 00}!\n{07 16 00}Läheb pimedaks ja\nsu nägu on...veider.{01 00 00 05 00} Ma ei\ntundnud sind lihtsalt ära!"
   },
   {
    "id": 7,
    "en": "{07 14 00}Hey, how's your evening?\n{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.Wait a minute{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n{07 02 00}That is NASTY!\n{07 00 00}Are{01 00 00 05 00} masks like that all\n{07 0b 00}the rage now, {01 00 00 05 00}{04 02 00}?{01 01 00}\n.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}WHAT?!{01 00 00 0a 00} {07 02 00}That's your FACE?!\n{07 14 00}Wow, sorry.{01 00 00 05 00} But seriously, I\nthink a mask like that\nwould sell like hotcakes!",
-   "et": ""
+   "et": "{07 14 00}Hei, kuidas su õhtu?\n{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.Oota korra{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n{07 02 00}See on JÄLK!\n{07 00 00}Kas{01 00 00 05 00} sellised maskid on nüüd\n{07 0b 00}moes, {01 00 00 05 00}{04 02 00}?{01 01 00}\n.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}MIDA?!{01 00 00 0a 00} {07 02 00}See on su NÄGU?!\n{07 14 00}Vau, sorri.{01 00 00 05 00} Aga tõsiselt,\nma arvan, et selline mask\nmüüks nagu soe sai!"
   },
   {
    "id": 8,
    "en": "{07 02 00}Great ugly-buggly!{01 00 00 05 00}\nWhat the heck happened\nto you, {01 00 00 05 00}{04 1f 00}?!\n{07 16 00}Oh, you got stung?!{01 01 00}\n{07 00 00}Get some {ff 00 00 07}medicine{ff 00 00 00} and fix\nthat up ASAP, {01 00 00 05 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 02 00}Suur inetus-putukus!{01 00 00 05 00}\nMis pagan sinuga\njuhtus, {01 00 00 05 00}{04 1f 00}?!\n{07 16 00}Oh, sind nõelati?!{01 01 00}\n{07 00 00}Hangi {ff 00 00 07}rohtu{ff 00 00 00} ja tee see\nkohe korda, {01 00 00 05 00}{04 02 00}!"
   },
   {
    "id": 9,
    "en": "{07 02 00}Noooooo! {01 00 00 0a 00}It can't be!{01 00 00 0a 00}\n{07 06 00}Are you the ghost of\npoor {04 1f 00}?!\n{07 04 00}What?{01 00 00 05 00} You're still alive?{01 01 00}\n{07 16 00}Oh, man!{01 00 00 05 00} You got stung?!\nIs that all, {01 00 00 05 00}{04 02 00}?",
-   "et": ""
+   "et": "{07 02 00}Eiiiiii! {01 00 00 0a 00}See ei saa olla!{01 00 00 0a 00}\n{07 06 00}Kas sa oled vaese\n{04 1f 00} vaim?!\n{07 04 00}Mida?{01 00 00 05 00} Sa oled ikka elus?{01 01 00}\n{07 16 00}Oh mees!{01 00 00 05 00} Sind nõelati?!\nKas see on kõik, {01 00 00 05 00}{04 02 00}?"
   },
   {
    "id": 10,
    "en": "{07 02 00}Jeepers creepers!{01 00 00 05 00}\nAre you {04 1f 00}?!{01 00 00 0f 00}\n{07 0b 00}Oh, you got stung?\n{07 14 00}You look like a low-carb\nmeatball in the moonlight{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\nYummers, {01 00 00 05 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 02 00}Issanda jumal!{01 00 00 05 00}\nKas sa oled {04 1f 00}?!{01 00 00 0f 00}\n{07 0b 00}Oh, sind nõelati?\n{07 14 00}Sa näed nagu lahja\nlihapall kuuvalguses{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\nNämma, {01 00 00 05 00}{04 02 00}!"
   },
   {
    "id": 11,
    "en": "{07 02 00}Whoa whoa whoa, there!{01 00 00 0a 00}\n{07 06 00}You look like one hot, cross\nbun, {01 00 00 05 00}{04 02 00}!\n{07 0b 00}A bee gotcha, huh?{01 00 00 0a 00}\n{07 16 00}Those little suckers start\nchasing and don't let up!\n{07 15 00}Don't fight 'em, trust me!{01 00 00 05 00}\nSwallow your pride and duck\ninto a house or something!",
-   "et": ""
+   "et": "{07 02 00}Ohoo ohoo ohoo, nüüd!{01 00 00 0a 00}\n{07 06 00}Sa näed välja nagu kuum\nkukkel, {01 00 00 05 00}{04 02 00}!\n{07 0b 00}Mesilane sai su kätte, mis?{01 00 00 0a 00}\n{07 16 00}Need väikesed tüübid\nhakkavad jälitama ega jäta!\n{07 15 00}Ära võitle, usu mind!{01 00 00 05 00}\nNeela uhkus alla ja tõmba\nmajja või kuhugi!"
   }
  ]
 }

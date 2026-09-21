@@ -4,17 +4,17 @@
   {
    "id": 0,
    "en": "{07 17 00}I'm{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00}counting on you,{01 00 00 0a 00}\n{04 02 00}!",
-   "et": ""
+   "et": "{07 17 00}Ma{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00}loodan sinu peale,{01 00 00 0a 00}\n{04 02 00}!"
   },
   {
    "id": 1,
    "en": "{07 04 00}Let's finish this together!{01 01 00}\n{07 0d 00}You'll help out your old pal,\nwon't you,{01 00 00 0a 00} {04 02 00}?",
-   "et": ""
+   "et": "{07 04 00}Lõpetame selle koos!{01 01 00}\n{07 0d 00}Sa aitad oma vana sõpra,\nkas pole,{01 00 00 0a 00} {04 02 00}?"
   },
   {
    "id": 2,
    "en": "{07 0b 00}Can I ask you to do this\nfor me, too,{01 00 00 0a 00} {04 02 00}?",
-   "et": ""
+   "et": "{07 0b 00}Kas ma võin paluda sul\nka seda teha,{01 00 00 0a 00} {04 02 00}?"
   }
  ]
 }

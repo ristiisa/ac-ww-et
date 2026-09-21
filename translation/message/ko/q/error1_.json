@@ -4,12 +4,12 @@
   {
    "id": 0,
    "en": "{07 00 00}You've got a lot to \nlearn.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{04 02 00}.\n\n{07 15 00}You're so hasty! You gotta \nbe more patient. Let's try\n'er over, {01 00 00 05 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 00 00}Sul on veel palju\nõppida.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{04 02 00}.\n\n{07 15 00}Sa oled nii kiirustaja! Pead\nkannatlikum olema. Proovime\nuuesti, {01 00 00 05 00}{04 02 00}!"
   },
   {
    "id": 1,
    "en": "{07 00 00}Whoa there. You're way too\nquick to respond!\n\n{07 15 00}You didn't even give me\ntime to prepare! I wasn't\nready, {01 00 00 05 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 00 00}Oot-oot. Sa vastad palju\nliiga kiiresti!\n\n{07 15 00}Sa ei andnud mulle aegagi\nvalmistuda! Ma polnud\nvalmis, {01 00 00 05 00}{04 02 00}!"
   }
  ]
 }

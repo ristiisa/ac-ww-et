@@ -4,17 +4,17 @@
   {
    "id": 0,
    "en": "{07 0d 00}Oh, NICE!{01 01 00} I'm gonna put this\non display!{01 00 00 0a 00} {07 14 00}See ya,\n{01 00 00 05 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 0d 00}Oh, VINGE!{01 01 00} Ma panen selle\nvälja!{01 00 00 0a 00} {07 14 00}Näeme,\n{01 00 00 05 00}{04 02 00}!"
   },
   {
    "id": 1,
    "en": "{07 14 00}Hey, if anything else like\nthis ever comes up,{01 00 00 05 00} I'll\ncall you first, {01 00 00 05 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 14 00}Kuule, kui midagi sellist\nveel tuleb,{01 00 00 05 00} ma helistan\nsulle esimesena, {01 00 00 05 00}{04 02 00}!"
   },
   {
    "id": 2,
    "en": "{07 0a 00}This has been a great day!{01 00 00 05 00}\nWhat a cool friend you are!{01 00 00 0a 00}\nThanks, {01 00 00 05 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 0a 00}See on olnud tore päev!{01 00 00 05 00}\nMilline lahe sõber sa oled!{01 00 00 0a 00}\nAitäh, {01 00 00 05 00}{04 02 00}!"
   }
  ]
 }

@@ -4,17 +4,17 @@
   {
    "id": 0,
    "en": "{07 02 00}EEEEEK!{01 00 00 14 00} {07 06 00}I-{01 00 00 05 00}I have no idea\nwhat's going on! NONE!",
-   "et": ""
+   "et": "{07 02 00}AIIIIH!{01 00 00 14 00} {07 06 00}M-{01 00 00 05 00}mul pole aimugi,\nmis toimub! MITTE MINGIT!"
   },
   {
    "id": 1,
    "en": "{07 04 00}EWWWWW!{01 00 00 0a 00} So that's why I was\nall itchy! Ick! How creepy!\n\n{07 11 00}{0b 03 00}{04 1f 00}, {01 00 00 0a 00}promise me you\nwon't say a word to anyone,\nOK? {01 00 00 05 00}{0b 03 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 04 00}ÖÖÖÖÖK!{01 00 00 0a 00} Nii et sellepärast\nmul sügeleski! Jälk! Kole!\n\n{07 11 00}{0b 03 00}{04 1f 00}, {01 00 00 0a 00}luba mulle, et sa\nei räägi kellelegi sõnagi,\neks? {01 00 00 05 00}{0b 03 00}{04 02 00}!"
   },
   {
    "id": 2,
    "en": "{07 02 00}OH MY GOSH! This can't be\nhappening! {01 00 00 05 00}It's gotta be\na horrible mistake!\n{07 06 00}{01 00 00 0a 00}I don't know how this\nhappened! {01 00 00 14 00}This has nothing\nto do with me!",
-   "et": ""
+   "et": "{07 02 00}OH JUMAL! See ei saa\ntõsi olla! {01 00 00 05 00}See peab olema\nkohutav eksitus!\n{07 06 00}{01 00 00 0a 00}Ma ei tea, kuidas see\njuhtus! {01 00 00 14 00}Sellel pole minuga\nmitte mingit pistmist!"
   }
  ]
 }

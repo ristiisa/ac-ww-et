@@ -4,32 +4,32 @@
   {
    "id": 0,
    "en": "{07 0b 00}Hey, you think looking near\ntrees is a good way to nab\n{04 1a 00}?\n{07 00 00}Well, I'm thinking so.{01 00 00 05 00}\nAnd catching bugs is my\npassion, baby!\n{07 06 00}So you better not turn\nthis place into a concrete\njungle, {01 00 00 05 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 0b 00}Hei, kas sa arvad, et puude\nlähedalt otsimine on hea\nviis püüda {04 1a 00}?\n{07 00 00}Noh, mina arvan nii.{01 00 00 05 00}\nJa putukate püüdmine on\nmu kirg, beebi!\n{07 06 00}Nii et ära muuda seda kohta\nbetoondžungliks,\n{01 00 00 05 00}{04 02 00}!"
   },
   {
    "id": 1,
    "en": "{07 00 00}Look carefully in grassy\nareas{01 00 00 05 00} and you might find\n{04 1a 00}!\nTo catch one, look around{01 00 00 05 00}\n{04 12 00}!\nGood luck, {01 00 00 05 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 00 00}Vaata hoolikalt rohuses\nkohas{01 00 00 05 00} ja sa võid leida\n{04 1a 00}!\nEt üks püüda, vaata ringi{01 00 00 05 00}\n{04 12 00}!\nEdu, {01 00 00 05 00}{04 02 00}!"
   },
   {
    "id": 2,
    "en": "{07 00 00}Listen, if you're hunting\n{04 1a 00}...\nlook {04 12 00}.\n{07 11 00}I'm hunting for bigger and{01 00 00 05 00}\nbetter insects, myself!{01 00 00 14 00}\nDon't hate me, {ff 00 00 05}{01 00 00 05 00}{04 1f 00}{ff 00 00 00}!",
-   "et": ""
+   "et": "{07 00 00}Kuule, kui sa jahid\n{04 1a 00}...\nvaata {04 12 00}.\n{07 11 00}Mina ise jahin suuremaid ja{01 00 00 05 00}\nparemaid putukaid!{01 00 00 14 00}\nÄra vihka mind, {ff 00 00 05}{01 00 00 05 00}{04 1f 00}{ff 00 00 00}!"
   },
   {
    "id": 3,
    "en": "{07 0b 00}Um,{01 00 00 05 00} I think you can look in\ntrees if you want to find\n{04 1a 00}...\n{07 16 00}Is that right? {01 00 00 05 00}I don't\nreally know all that well,\nto be honest, {01 00 00 05 00}{04 02 00}.",
-   "et": ""
+   "et": "{07 0b 00}Öö,{01 00 00 05 00} ma arvan, et võid\nvaadata puudel, kui tahad\nleida {04 1a 00}...\n{07 16 00}Kas nii on õige? {01 00 00 05 00}Ausalt\nöeldes ma ei tea seda\nkuigi hästi, {01 00 00 05 00}{04 02 00}."
   },
   {
    "id": 4,
    "en": "{07 00 00}{0b 03 00}{04 1a 00}?{01 00 00 05 00}\nI saw one when I was doing\nsquat thrusts in the grass!\n{07 0d 00}So {01 00 00 05 00}if you wanna do squats,\ndo 'em {04 12 00},\n{01 00 00 05 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 00 00}{0b 03 00}{04 1a 00}?{01 00 00 05 00}\nMa nägin ühte, kui tegin\nrohus kükke!\n{07 0d 00}Nii et {01 00 00 05 00}kui tahad kükke teha,\ntee neid {04 12 00},\n{01 00 00 05 00}{04 02 00}!"
   },
   {
    "id": 5,
    "en": "{07 00 00}Oh, wait, you're after\n{04 1a 00}?{01 00 00 05 00}\nLook {04 12 00}!\n{07 14 00}No, {01 00 00 05 00}I don't know why.{01 00 00 05 00}\nThat's just how it is.{01 00 00 05 00}\nGet over it, {01 00 00 05 00}{04 02 00}.",
-   "et": ""
+   "et": "{07 00 00}Oh, oota, sa jahid\n{04 1a 00}?{01 00 00 05 00}\nVaata {04 12 00}!\n{07 14 00}Ei, {01 00 00 05 00}ma ei tea, miks.{01 00 00 05 00}\nLihtsalt on nii.{01 00 00 05 00}\nLepi sellega, {01 00 00 05 00}{04 02 00}."
   }
  ]
 }

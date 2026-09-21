@@ -4,17 +4,17 @@
   {
    "id": 0,
    "en": "{07 00 00}Say,{01 00 00 05 00} I've been hankering for\n{04 1a 00}.{01 00 00 0a 00} {07 02 00}\nI even see it when I sleep!\n{07 1c 00}But I don't have one to call\nmy own.{01 00 00 0a 00} Yeah, it's been a\nrough couple of days{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.",
-   "et": ""
+   "et": "{07 00 00}Kuule,{01 00 00 05 00} ma olen ihaldanud\n{04 1a 00}.{01 00 00 0a 00} {07 02 00}\nMa näen seda isegi unes!\n{07 1c 00}Aga mul pole ühtegi enda\noma.{01 00 00 0a 00} Jah, viimased päevad\non olnud rasked{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}."
   },
   {
    "id": 1,
    "en": "{07 00 00}Saaay, help me out.{01 00 00 0a 00} {07 0b 00}Would\n{04 1a 00} \nlook good on me?\n{01 00 00 0f 00}{07 09 00}{01 00 00 0a 00}Not so much, huh?{01 00 00 0a 00}\n{07 19 00}Well, I'd sure like one so I\ncould see for myself...",
-   "et": ""
+   "et": "{07 00 00}Kuuuule, aita mind.{01 00 00 0a 00} {07 0b 00}Kas\n{04 1a 00} \nsobiks mulle hästi?\n{01 00 00 0f 00}{07 09 00}{01 00 00 0a 00}Mitte eriti, mis?{01 00 00 0a 00}\n{07 19 00}Noh, ma tahaksin üht küll,\net ise järele vaadata..."
   },
   {
    "id": 2,
    "en": "{07 0b 00}How you doing, {01 00 00 05 00}{04 02 00}?{01 00 00 0a 00}\nYeah, I've been better. Lots\nbetter, to tell the truth...\n{07 0e 00}You know what would be\nreally cool, though{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}?\n{0b 03 00}{04 1a 00}.\n{07 19 00}I mean, I'm not trying to\nimply anything, but{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.\n{07 00 00}{07 17 00}{ff 00 00 04}That would make me happy.",
-   "et": ""
+   "et": "{07 0b 00}Kuidas läheb, {01 00 00 05 00}{04 02 00}?{01 00 00 0a 00}\nJah, on olnud paremini.\nPalju paremini, ausalt...\n{07 0e 00}Tead, mis oleks tõesti\nlahe{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}?\n{0b 03 00}{04 1a 00}.\n{07 19 00}Ma mõtlen, ma ei taha\nmidagi vihjata, aga{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.\n{07 00 00}{07 17 00}{ff 00 00 04}See teeks mind õnnelikuks."
   }
  ]
 }

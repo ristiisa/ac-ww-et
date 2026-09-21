@@ -4,32 +4,32 @@
   {
    "id": 0,
    "en": "{07 07 00}Man, my head just feels\nWEIRD today{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{04 02 00}.",
-   "et": ""
+   "et": "{07 07 00}Mees, mu pea on täna\ntäiesti IMELIK{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{04 02 00}."
   },
   {
    "id": 1,
    "en": "{07 1c 00}Ugh, I feel SO run-down{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 01 00}\n{07 07 00}Too many pectoral presses,\nmaybe, {01 00 00 05 00}{04 02 00}?",
-   "et": ""
+   "et": "{07 1c 00}Uhh, olen NII räsitud{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 01 00}\n{07 07 00}Liiga palju rinnasurumisi,\nvõib-olla, {01 00 00 05 00}{04 02 00}?"
   },
   {
    "id": 2,
    "en": "{07 07 00}I feel like four pounds of\ntrash in a two-pound bag{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.",
-   "et": ""
+   "et": "{07 07 00}Tunnen end nagu neli kilo\nprügi kahekilos kotis{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}."
   },
   {
    "id": 3,
    "en": "{07 14 00}{0b 03 00}{04 01 00}'s back, baby!{01 01 00}\nMust be the {ff 00 00 07}medicine{ff 00 00 00}!\n\nI just wanna holler from\nthe rooftop, {01 00 00 0a 00}{07 05 00}{01 08 00}\"{0b 03 00}{ff 00 00 05}{04 0f 00} \n{ff 00 00 00}is my hero!\"",
-   "et": ""
+   "et": "{07 14 00}{0b 03 00}{04 01 00} on tagasi, beebi!{01 01 00}\nKüllap see {ff 00 00 07}rohi{ff 00 00 00}!\n\nMa tahan lihtsalt katuselt\nhõigata, {01 00 00 0a 00}{07 05 00}{01 08 00}„{0b 03 00}{ff 00 00 05}{04 0f 00} \n{ff 00 00 00}on mu kangelane!”"
   },
   {
    "id": 4,
    "en": "{07 0a 00}{01 08 00}Hey, world! {01 00 00 14 00}{ff 00 00 05}{0b 03 00}{04 0f 00}{ff 00 00 00}'s\n{ff 00 00 07}medicine {ff 00 00 00}works miracles!{01 00 00 0a 00}\nI'm back in the game!{01 00 00 0a 00} YEAH!",
-   "et": ""
+   "et": "{07 0a 00}{01 08 00}Hei, maailm! {01 00 00 14 00}{ff 00 00 05}{0b 03 00}{04 0f 00}{ff 00 00 00}i\n{ff 00 00 07}rohi {ff 00 00 00}teeb imesid!{01 00 00 0a 00}\nMa olen mängus tagasi!{01 00 00 0a 00} JAA!"
   },
   {
    "id": 5,
    "en": "{07 03 00}War har har HAR!{01 01 00} {07 14 00}Thanks to\nthat {ff 00 00 07}medicine{ff 00 00 00}, {01 00 00 0a 00}{07 0d 00}I'm back to\nmy awesome self!\nI've got one person to\nthank for my health:{01 00 00 0a 00}\n{ff 00 00 05}{04 0f 00}{ff 00 00 00}!",
-   "et": ""
+   "et": "{07 03 00}Vaar haar haar HAAR!{01 01 00} {07 14 00}Tänu\nsellele {ff 00 00 07}rohule{ff 00 00 00}, {01 00 00 0a 00}{07 0d 00}olen ma\ntaas oma vinge mina!\nMul on üks inimene, keda\noma tervise eest tänada:{01 00 00 0a 00}\n{ff 00 00 05}{04 0f 00}{ff 00 00 00}!"
   }
  ]
 }

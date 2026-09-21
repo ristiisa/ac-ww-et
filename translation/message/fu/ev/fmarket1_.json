@@ -4,32 +4,32 @@
   {
    "id": 0,
    "en": "{07 14 00}{0b 03 00}{04 1f 00},{01 00 00 0a 00} I hope you've\nbeen saving Bells, because\nit's {ff 00 00 03}Flea Market{ff 00 00 00} day!\n{07 0b 00}Picked up anything nice\nyet? Maybe some furniture?\n{01 00 00 05 00}Or a little knickknack?",
-   "et": ""
+   "et": "{07 14 00}{0b 03 00}{04 1f 00},{01 00 00 0a 00} loodan, et sa\noled kellasid kogunud, sest\ntäna on {ff 00 00 03}kirbuturg{ff 00 00 00}!\n{07 0b 00}Kas oled midagi kena juba\nleidnud? Ehk mööblit?\n{01 00 00 05 00}Või mõne nipsasja?"
   },
   {
    "id": 1,
    "en": "{07 14 00}Didja go to {04 0b 00}'s\nhouse? There's some nice\nstuff there.\nYou {01 00 00 05 00}do know that the {ff 00 00 03}Flea\nMarket{ff 00 00 00} is today, right?\n\n{07 16 00}Well, you're wasting time!\nQuick! Check out everyone's\nhouse and buy their stuff!",
-   "et": ""
+   "et": "{07 14 00}Kas sa käisid {04 0b 00}i\nmajas? Seal on kena\nkraami.\nSa {01 00 00 05 00}tead ju, et täna on\n{ff 00 00 03}kirbuturg{ff 00 00 00}, eks?\n\n{07 16 00}Noh, sa raiskad aega!\nKiiresti! Vaata kõigi maju\nja osta nende kraami!"
   },
   {
    "id": 2,
    "en": "{07 14 00}I think I like new furniture\na bit more than I like used\nfurniture, {01 00 00 05 00}{04 02 00}.\nUsed furniture has a warm,\nwell-loved feeling, like my\nroom is filled with history.",
-   "et": ""
+   "et": "{07 14 00}Ma arvan, et uus mööbel\nmeeldib mulle pisut rohkem\nkui kasutatud, {01 00 00 05 00}{04 02 00}.\nKasutatud mööblil on soe,\narmastatud tunne, nagu mu\ntuba oleks täis ajalugu."
   },
   {
    "id": 3,
    "en": "{07 00 00}You know, {04 1f 00},{01 00 00 0a 00} it IS\ngood to visit other people's\nhouses, but{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\nYou should know that\nsomeone might be waiting\nto visit your house, too.",
-   "et": ""
+   "et": "{07 00 00}Tead, {04 1f 00},{01 00 00 0a 00} on hea\nkülastada teiste inimeste\nmaju, aga{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\nSa peaksid teadma, et\nkeegi võib oodata, et\nkülastada ka sinu maja."
   },
   {
    "id": 4,
    "en": "{0b 03 00}{04 1f 00}, you're making\nme nervous, pacing around\nlike that, {01 00 00 05 00}{04 02 00}.\n{07 14 00}Just go back and chill at\nyour house. People will show\nup sooner or later!",
-   "et": ""
+   "et": "{0b 03 00}{04 1f 00}, sa teed mind\nnärviliseks, kui kõnnid nii\nringi, {01 00 00 05 00}{04 02 00}.\n{07 14 00}Mine lihtsalt tagasi ja ole\noma majas. Inimesed tulevad\nvarem või hiljem!"
   },
   {
    "id": 5,
    "en": "{07 00 00}I love the {ff 00 00 03}Flea Market{ff 00 00 00},{01 00 00 0a 00}\n{07 16 00}but how can I shop properly\nwhen everyone's outside?\n{07 0e 00}{0b 03 00}{04 1f 00}, I want to shop\nat your house, but you're\nnot there{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 05 00}{04 02 00}.",
-   "et": ""
+   "et": "{07 00 00}Ma armastan {ff 00 00 03}kirbuturgu{ff 00 00 00},{01 00 00 0a 00}\n{07 16 00}aga kuidas ma saan\nostelda, kui kõik on väljas?\n{07 0e 00}{0b 03 00}{04 1f 00}, ma tahan sinu\nmajas ostelda, aga sa pole\nseal{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 05 00}{04 02 00}."
   }
  ]
 }

@@ -4,17 +4,17 @@
   {
    "id": 0,
    "en": "{07 00 00}If you found a nice shirt,\ndon't be shy...\n\n{07 14 00}Hook me up with it right\naway, {01 00 00 05 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 00 00}Kui leidsid toreda särgi,\nära ole häbelik...\n\n{07 14 00}Anna see mulle kohe\nkätte, {01 00 00 05 00}{04 02 00}!"
   },
   {
    "id": 1,
    "en": "{07 15 00}Hey, {04 1f 00}!{01 00 00 0f 00}\n{07 0b 00}Did you already forget,\n{01 00 00 05 00}{04 02 00}?\n{07 06 00}What I want is a shirt!\n{01 00 00 05 00}A SHIRT!{01 00 00 0a 00} Don't forget again!",
-   "et": ""
+   "et": "{07 15 00}Hei, {04 1f 00}!{01 00 00 0f 00}\n{07 0b 00}Kas sa juba unustasid,\n{01 00 00 05 00}{04 02 00}?\n{07 06 00}Ma tahan särki!\n{01 00 00 05 00}SÄRKI!{01 00 00 0a 00} Ära unusta jälle!"
   },
   {
    "id": 2,
    "en": "{07 16 00}It doesn't matter which\none. I just want to have a\nshirt, {01 00 00 05 00}{04 02 00}...\n{07 06 00}Even a used one is fine!{01 00 00 0f 00}\nSeriously, I'm not a shirt\nsnob, {01 00 00 05 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 16 00}Ükskõik milline. Ma tahan\nlihtsalt särki saada,\n{01 00 00 05 00}{04 02 00}...\n{07 06 00}Isegi kasutatu sobib!{01 00 00 0f 00}\nTõsiselt, ma pole särgi\nsnoob, {01 00 00 05 00}{04 02 00}!"
   }
  ]
 }

@@ -4,17 +4,17 @@
   {
    "id": 0,
    "en": "{07 00 00}OK, mental note time. {01 00 00 05 00}The\n{04 0f 00} at {04 10 00}:{04 11 00}. {01 01 00}{07 14 00}Got it!{01 00 00 0a 00} I'll\n{01 00 00 05 00}definitely be there!\nMake sure you're there on\ntime, 'cause I hate\nstanding around alone.",
-   "et": ""
+   "et": "{07 00 00}Olgu, paneme meelde. {01 00 00 05 00}{04 0f 00}\nkell {04 10 00}:{04 11 00}. {01 01 00}{07 14 00}Selge!{01 00 00 0a 00} Ma\n{01 00 00 05 00}olen kindlasti kohal!\nOle ise ka õigeks ajaks\nkohal, sest ma vihkan\nüksi ootamist."
   },
   {
    "id": 1,
    "en": "{07 00 00}Lemme jot that down.{01 00 00 0a 00}\n{04 10 00}:{04 11 00}...on the {04 0f 00}.\n{07 0d 00}Can't wait to see your pad!",
-   "et": ""
+   "et": "{07 00 00}Las ma kirjutan üles.{01 00 00 0a 00}\n{04 10 00}:{04 11 00}...{04 0f 00}.\n{07 0d 00}Ootan juba su kodu nägemist!"
   },
   {
    "id": 2,
    "en": "{07 00 00}Uh-huh!{01 00 00 0a 00} {04 10 00}:{04 11 00}, then?\nAnd we're talking about the\n{04 0f 00}. {01 01 00}{07 14 00}I'll be there!",
-   "et": ""
+   "et": "{07 00 00}Jaa!{01 00 00 0a 00} {04 10 00}:{04 11 00}, siis?\nJa me räägime\n{04 0f 00}-st. {01 01 00}{07 14 00}Ma tulen!"
   }
  ]
 }

@@ -4,17 +4,17 @@
   {
    "id": 0,
    "en": "{07 04 00}Huh?{01 00 00 0a 00} Wait, is the letter{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\nopened, {01 00 00 05 00}{04 02 00}?\n\n{07 0e 00}You{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} Don't tell me...{01 00 00 05 00} {07 15 00}You\nREAD the letter?!\n\n{07 08 00}I can't believe you!{01 00 00 0a 00}\n{0b 03 00}{04 1f 00}, you stink!{01 00 00 05 00}\nFor real, {04 02 00}!{03 03 00 01}",
-   "et": ""
+   "et": "{07 04 00}Ah?{01 00 00 0a 00} Oota, kas kiri on{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\nlahti, {01 00 00 05 00}{04 02 00}?\n\n{07 0e 00}Sa{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} Ära ütle...{01 00 00 05 00} {07 15 00}Sa\nLUGESID kirja?!\n\n{07 08 00}Ma ei usu sind!{01 00 00 0a 00}\n{0b 03 00}{04 1f 00}, sa oled jube!{01 00 00 05 00}\nPäriselt, {04 02 00}!{03 03 00 01}"
   },
   {
    "id": 1,
    "en": "{07 02 00}Omigosh!{01 00 00 0a 00} The letter is torn!{01 00 00 05 00}\nBut how, {01 00 00 05 00}{04 02 00}?!\n\n{07 15 00}It was YOU, {01 00 00 05 00}{04 1f 00}!{01 01 00}\n{07 05 00}I know it was you, lame-o!\nYou broke my heart!{03 02 00 01}",
-   "et": ""
+   "et": "{07 02 00}Oi heldeke!{01 00 00 0a 00} Kiri on rebitud!{01 00 00 05 00}\nAga kuidas, {01 00 00 05 00}{04 02 00}?!\n\n{07 15 00}See olid SINA, {01 00 00 05 00}{04 1f 00}!{01 01 00}\n{07 05 00}Tean, et see olid sina!\nSa murdsid mu südame!{03 02 00 01}"
   },
   {
    "id": 2,
    "en": "{07 1d 00}Wait just one minute!{01 00 00 0a 00} This\nletter...{01 00 00 05 00}looks like it's\nbeen opened{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\nAnd...{01 00 00 05 00}YOU'RE the only one\nwho could have done it,\n{01 00 00 05 00}{04 02 00}!\n{07 0f 00}Ohhhhhh, {01 00 00 05 00}{04 1f 00}!{01 00 00 05 00} To\nthink, I trusted you{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}. I'm\nsuch a bad judge of people!{03 03 00 01}",
-   "et": ""
+   "et": "{07 1d 00}Oota üks hetk!{01 00 00 0a 00} See\nkiri...{01 00 00 05 00}näib olevat\nlahti tehtud{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\nJa...{01 00 00 05 00}SINA oled ainus,\nkes seda teha võis,\n{01 00 00 05 00}{04 02 00}!\n{07 0f 00}Ohhhh, {01 00 00 05 00}{04 1f 00}!{01 00 00 05 00} Mõelda,\net ma usaldasin sind{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}. Ma\nolen nii halb inimesetundja!{03 03 00 01}"
   }
  ]
 }

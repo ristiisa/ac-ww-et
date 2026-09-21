@@ -4,17 +4,17 @@
   {
    "id": 0,
    "en": "{07 00 00}Hmm?{01 00 00 14 00} Oh.{01 00 00 05 00} This is from\n{ff 00 00 06}{04 0f 00}{ff 00 00 00}, {01 00 00 14 00}isn't it?",
-   "et": ""
+   "et": "{07 00 00}Hmm?{01 00 00 14 00} Oh.{01 00 00 05 00} See on\n{ff 00 00 06}{04 0f 00}{ff 00 00 00}-lt, {01 00 00 14 00}kas pole?"
   },
   {
    "id": 1,
    "en": "{07 00 00}Huh huh huh!{01 00 00 0a 00} That was fast.{01 01 00}\n{0b 03 00}{ff 00 00 06}{04 0f 00}{ff 00 00 00}{01 00 00 0a 00} and I were\nworried about you, pal.",
-   "et": ""
+   "et": "{07 00 00}Hah hah haa!{01 00 00 0a 00} See oli kiire.{01 01 00}\n{0b 03 00}{ff 00 00 06}{04 0f 00}{ff 00 00 00}{01 00 00 0a 00} ja mina\nmuretsesime su pärast."
   },
   {
    "id": 2,
    "en": "{07 00 00}Is this present from\n{ff 00 00 06}{04 0f 00}{ff 00 00 00}?\n\nIt's been a while since I\ngot one. I wonder what it\ncould be,{01 00 00 0a 00} {04 02 00}?!",
-   "et": ""
+   "et": "{07 00 00}Kas see kingitus on\n{ff 00 00 06}{04 0f 00}{ff 00 00 00}-lt?\n\nOn ammu, kui viimati ühe\nsain. Huvitav, mis see\nküll on,{01 00 00 0a 00} {04 02 00}?!"
   }
  ]
 }

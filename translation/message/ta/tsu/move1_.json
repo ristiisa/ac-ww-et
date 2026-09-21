@@ -4,87 +4,87 @@
   {
    "id": 0,
    "en": "{07 16 00}Hey, {01 00 00 05 00}{04 1f 00}.{01 00 00 0a 00} {07 06 00}I know\nthis is sudden, {01 00 00 05 00}but I've\ndecided to move!\n{07 19 00}It's not your business,{01 00 00 0a 00} {07 1b 00}but\nI've got a dream I have to\npursue. {01 01 00}{07 00 00}Someplace else.",
-   "et": ""
+   "et": "{07 16 00}Hei, {01 00 00 05 00}{04 1f 00}.{01 00 00 0a 00} {07 06 00}Ma tean,\net see on äkiline, {01 00 00 05 00}aga ma\notsustasin kolida!\n{07 19 00}See pole sinu asi,{01 00 00 0a 00} {07 1b 00}aga\nmul on unistus, mida pean\ntaga ajama. {01 01 00}{07 00 00}Mujal."
   },
   {
    "id": 1,
    "en": "{07 04 00}Oh, hey, {01 00 00 0a 00}{04 1f 00}. {07 14 00}I know\nit's sudden, but I'm moving,\n{01 00 00 0a 00}{04 02 00}.\n{07 1b 00}I'm not chasing a boy or\nanything foolish like that.{07 00 00}{01 00 00 05 00}\nDon't you worry!",
-   "et": ""
+   "et": "{07 04 00}Oi, hei, {01 00 00 0a 00}{04 1f 00}. {07 14 00}Tean,\net on äkiline, aga ma kolin,\n{01 00 00 0a 00}{04 02 00}.\n{07 1b 00}Ma ei aja taga poissi ega\nmidagi nii rumalat.{07 00 00}{01 00 00 05 00}\nÄra muretse!"
   },
   {
    "id": 2,
    "en": "{07 04 00}Hi, {04 1f 00}!{07 00 00}{01 00 00 05 00} Look, I\ngotta break some bad news\nto you. {01 00 00 0a 00}I'm moving.\n{07 1c 00}I'm sorry, {01 00 00 0a 00}{04 00 00}.{01 01 00}\n{07 15 00}You'd better send me off \nwith a smile! {07 14 00}{01 00 00 0a 00}{0b 03 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 04 00}Tere, {04 1f 00}!{07 00 00}{01 00 00 05 00} Kuule,\npean sulle halbu uudiseid\nütlema. {01 00 00 0a 00}Ma kolin ära.\n{07 1c 00}Mul on kahju, {01 00 00 0a 00}{04 00 00}.{01 01 00}\n{07 15 00}Saada mind parem ära\nnaeratusega! {07 14 00}{01 00 00 0a 00}{0b 03 00}{04 02 00}!"
   },
   {
    "id": 3,
    "en": "{07 14 00}Thanks for everything!{01 00 00 0a 00} {07 17 00}I\nhope you find love soon,\ntoo, {01 00 00 0a 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 14 00}Aitäh kõige eest!{01 00 00 0a 00} {07 17 00}Loodan,\net sinagi leiad varsti\narmastuse, {01 00 00 0a 00}{04 02 00}!"
   },
   {
    "id": 4,
    "en": "{06 03 00 0c 0d}",
-   "et": ""
+   "et": "{06 03 00 0c 0d}"
   },
   {
    "id": 5,
    "en": "{07 16 00}Don't make that face!{01 01 00} {07 06 00}I\ndon't want to remember you\nwith that ugly, sad face!",
-   "et": ""
+   "et": "{07 16 00}Ära tee sellist nägu!{01 01 00} {07 06 00}Ma\nei taha sind mäletada\nselle inetu kurva näoga!"
   },
   {
    "id": 6,
    "en": "{07 02 00}Don't try to stop me!{01 00 00 0a 00}\n{07 06 00}My life depends on it!",
-   "et": ""
+   "et": "{07 02 00}Ära üritagi mind peatada!{01 00 00 0a 00}\n{07 06 00}Mu elu sõltub sellest!"
   },
   {
    "id": 7,
    "en": "{07 16 00}I'm sorry, but{01 00 00 0a 00} {07 14 00}I need more.{01 00 00 0a 00}\nSo much more than this\ntown can give.",
-   "et": ""
+   "et": "{07 16 00}Kahju, aga{01 00 00 0a 00} {07 14 00}vajan enamat.{01 00 00 0a 00}\nPalju enamat, kui see\nlinn anda suudab."
   },
   {
    "id": 8,
    "en": "{07 16 00}It's not you, {01 00 00 0a 00}it's me.{01 00 00 14 00} {07 09 00}I knew\nyou'd understand{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.",
-   "et": ""
+   "et": "{07 16 00}Asi pole sinus, {01 00 00 0a 00}vaid minus.{01 00 00 14 00} {07 09 00}\nMa teadsin, et sa mõistad{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}."
   },
   {
    "id": 9,
    "en": "{07 1b 00}Oh, wow{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00} {07 15 00}Do you really like\nme that much?{02 01 00 0e 0f 10}\nYes! Yes I do!\nUh...\nYes. I mean, no.",
-   "et": ""
+   "et": "{07 1b 00}Ohoo{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00} {07 15 00}Kas ma tõesti\nmeeldin sulle nii väga?{02 01 00 0e 0f 10}\nJah! Jah, meeldid!\nEe...\nJah. Ma mõtlen, ei."
   },
   {
    "id": 10,
    "en": "{07 02 00}Stop!{01 00 00 0a 00} Don't say stuff like\nthat, OK?!\n\n{07 06 00}I won't be able to get away\nfrom this place if you keep\nsaying that, {01 00 00 0a 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 02 00}Lõpeta!{01 00 00 0a 00} Ära ütle selliseid\nasju, eks?!\n\n{07 06 00}Ma ei suuda siit ära minna,\nkui sa seda kogu aeg\nütled, {01 00 00 0a 00}{04 02 00}!"
   },
   {
    "id": 11,
    "en": "{07 0e 00}If we got more visitors,{01 00 00 0a 00}\nI'd meet new people,\n{01 00 00 0a 00}{04 02 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 14 00}If you do what I say,\n{04 1f 00}, then maybe,\njust maybe, I'll{01 00 00 05 00} stay.",
-   "et": ""
+   "et": "{07 0e 00}Kui käiks rohkem külalisi,{01 00 00 0a 00}\nkohtaksin uusi inimesi,\n{01 00 00 0a 00}{04 02 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 14 00}Kui teed, nagu ma ütlen,\n{04 1f 00}, siis ehk,\nlihtsalt ehk, ma{01 00 00 05 00} jään."
   },
   {
    "id": 12,
    "en": "{07 14 00}Take care of yourself!",
-   "et": ""
+   "et": "{07 14 00}Hoia end!"
   },
   {
    "id": 13,
    "en": "{07 15 00}Even if I'm not around,{01 00 00 0a 00}\ndon't settle for some sad\nloser 'cause you're lonely!",
-   "et": ""
+   "et": "{07 15 00}Isegi kui mind pole,{01 00 00 0a 00}\nära lepi mõne kurva\nluuseriga, sest oled üksik!"
   },
   {
    "id": 14,
    "en": "{07 09 00}I know you're just being\nhonest, but{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00}{07 17 00}it's actually\nkind of embarrassing me!",
-   "et": ""
+   "et": "{07 09 00}Ma tean, et sa oled aus,\naga{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00}{07 17 00}see teeb mulle\ntegelikult pisut piinlikku!"
   },
   {
    "id": 15,
    "en": "{07 01 00}Well, don't get so excited\nthat you pop a blood vessel\nor something, {01 00 00 0a 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 01 00}Noh, ära nii elevil ole,\net mõni veresoon lõhkeb\nvõi midagi, {01 00 00 0a 00}{04 02 00}!"
   },
   {
    "id": 16,
    "en": "{07 15 00}Hmph!{01 00 00 0a 00} You sneaky little.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}\n{0b 03 00}{04 1f 00}, you're such a\njerk!\n{07 01 00}I bet you'll miss toying with\nmy emotions the most, huh!\n{0b 03 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 15 00}Hmph!{01 00 00 0a 00} Sa salakaval väike.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}\n{0b 03 00}{04 1f 00}, sa oled täielik\ntola!\n{07 01 00}Kõige rohkem igatsed sa\nmu tunnetega mängimist!\n{0b 03 00}{04 02 00}!"
   }
  ]
 }

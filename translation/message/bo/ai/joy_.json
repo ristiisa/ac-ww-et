@@ -4,62 +4,62 @@
   {
    "id": 0,
    "en": "{07 0a 00}Good morning,{01 00 00 05 00} {04 1f 00}!{01 00 00 0a 00}\nAnd it IS a good morning!\n{0b 03 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 0a 00}Tere hommikust,{01 00 00 05 00} {04 1f 00}!{01 00 00 0a 00}\nJa see ONGI hea hommik!\n{0b 03 00}{04 02 00}!"
   },
   {
    "id": 1,
    "en": "{07 14 00}Heh heh!{01 00 00 05 00} Good to see you,{01 00 00 0a 00}\n{04 02 00}!",
-   "et": ""
+   "et": "{07 14 00}Heh heh!{01 00 00 05 00} Tore sind näha,{01 00 00 0a 00}\n{04 02 00}!"
   },
   {
    "id": 2,
    "en": "{07 04 00}{01 00 00 05 00}Oh.{01 00 00 05 00} {0b 03 00}{04 1f 00}.{01 00 00 0a 00} Hello! {01 00 00 0a 00}\n{07 14 00}{0b 03 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 04 00}{01 00 00 05 00}Oh.{01 00 00 05 00} {0b 03 00}{04 1f 00}.{01 00 00 0a 00} Tere! {01 00 00 0a 00}\n{07 14 00}{0b 03 00}{04 02 00}!"
   },
   {
    "id": 3,
    "en": "{07 0a 00}Heh heh.{01 00 00 14 00} What do you think\nof this look I'm rocking\ntoday? {01 00 00 05 00}Pretty cool, huh?",
-   "et": ""
+   "et": "{07 0a 00}Heh heh.{01 00 00 14 00} Mida sa arvad\nsellest välimusest, mis mul\ntäna on? {01 00 00 05 00}Päris lahe, mis?"
   },
   {
    "id": 4,
    "en": "{07 0a 00}I'm really happy today,\n{01 00 00 0a 00}{04 02 00}! Everything's\ncoming up {04 01 00}!",
-   "et": ""
+   "et": "{07 0a 00}Olen täna väga õnnelik,\n{01 00 00 0a 00}{04 02 00}! Kõik läheb\n{04 01 00} moodi!"
   },
   {
    "id": 5,
    "en": "{07 04 00}Wow!{01 00 00 05 00} We meet again.{01 00 00 0a 00} You\nknow, this must be {01 00 00 05 00}f{01 00 00 05 00}a{01 00 00 05 00}t{01 00 00 05 00}e{01 00 00 0a 00},{07 14 00}\n{04 02 00}!",
-   "et": ""
+   "et": "{07 04 00}Vau!{01 00 00 05 00} Kohtume jälle.{01 00 00 0a 00} Tead,\nsee peab olema {01 00 00 05 00}s{01 00 00 05 00}a{01 00 00 05 00}at{01 00 00 05 00}us{01 00 00 0a 00},{07 14 00}\n{04 02 00}!"
   },
   {
    "id": 6,
    "en": "{07 13 00}Mmm-mmm.{01 00 00 0a 00} Nighttime smells\ngood.{01 00 00 0a 00} Almost as good as a\n{04 19 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\nI'm getting hungry.",
-   "et": ""
+   "et": "{07 13 00}Mmm-mmm.{01 00 00 0a 00} Öö lõhnab\nhästi.{01 00 00 0a 00} Peaaegu nagu\n{04 19 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\nKõht läheb tühjaks."
   },
   {
    "id": 7,
    "en": "{07 14 00}Wow! It's already {04 08 00}?{01 00 00 14 00}\n{07 0d 00}Today{01 00 00 05 00} was a really fun day,{01 00 00 0a 00}\n{04 02 00}.",
-   "et": ""
+   "et": "{07 14 00}Vau! Kas juba {04 08 00}?{01 00 00 14 00}\n{07 0d 00}Täna{01 00 00 05 00} oli väga lõbus päev,{01 00 00 0a 00}\n{04 02 00}."
   },
   {
    "id": 8,
    "en": "{07 0a 00}Mmm-mmm! {00 01 00}{01 00 00 14 00} {04 08 00} o'clock\nis dinnertime! {00 01 00} One of my\nfavorite hours of the day!",
-   "et": ""
+   "et": "{07 0a 00}Mmm-mmm! {00 01 00}{01 00 00 14 00} Kell {04 08 00}\non õhtusöögiaeg! {00 01 00} Üks mu\nlemmiktunde päevas!"
   },
   {
    "id": 9,
    "en": "{07 14 00}Hey,{01 00 00 05 00} {04 1f 00}!{01 00 00 14 00}{07 00 00} Let's hear\nit for{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 0a 00}your elbow,{01 00 00 05 00}\n{04 02 00}! Yeah!",
-   "et": ""
+   "et": "{07 14 00}Hei,{01 00 00 05 00} {04 1f 00}!{01 00 00 14 00}{07 00 00} Elagu{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 0a 00}sinu\nküünarnukk,{01 00 00 05 00}\n{04 02 00}! Jaa!"
   },
   {
    "id": 10,
    "en": "{07 0a 00}Yesss!{01 00 00 0a 00} I am so not gonna\nsleep tonight,{01 00 00 0a 00} {04 02 00}!",
-   "et": ""
+   "et": "{07 0a 00}Jaaah!{01 00 00 0a 00} Ma ei kavatse\ntäna magada,{01 00 00 0a 00} {04 02 00}!"
   },
   {
    "id": 11,
    "en": "{07 0a 00}When you sleep, you can't\ndo anything,{01 00 00 0a 00} so I'm gonna\nstay up{01 00 00 0a 00} real late tonight!",
-   "et": ""
+   "et": "{07 0a 00}Magades ei saa sa midagi\nteha,{01 00 00 0a 00} nii et jään täna\nõhtul{01 00 00 0a 00} väga kauaks üles!"
   }
  ]
 }

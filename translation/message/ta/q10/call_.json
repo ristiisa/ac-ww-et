@@ -4,17 +4,17 @@
   {
    "id": 0,
    "en": "It's me, {04 01 00}!{01 00 00 14 00}\nRemember? You invited me\nover, {01 00 00 05 00}{04 02 00}!",
-   "et": ""
+   "et": "Mina siin, {04 01 00}!{01 00 00 14 00}\nMäletad? Sa kutsusid mu\nkülla, {01 00 00 05 00}{04 02 00}!"
   },
   {
    "id": 1,
    "en": "Hey, {04 1f 00},{01 00 00 14 00} I'm here!",
-   "et": ""
+   "et": "Hei, {04 1f 00},{01 00 00 14 00} ma olen siin!"
   },
   {
    "id": 2,
    "en": "Yoo-hoo, {01 00 00 05 00}{04 1f 00}!{01 00 00 14 00} It's\nme, {04 01 00}!",
-   "et": ""
+   "et": "Juhhuu, {01 00 00 05 00}{04 1f 00}!{01 00 00 14 00} Mina\nsiin, {04 01 00}!"
   }
  ]
 }

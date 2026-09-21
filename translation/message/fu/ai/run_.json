@@ -4,17 +4,17 @@
   {
    "id": 0,
    "en": "{07 02 00}{01 08 00}Zowie!!!{01 00 00 0f 00}\n{07 06 00}BEE{01 00 00 05 00}EEEEEEEEES, {01 00 00 05 00}{04 02 00}!\nBees, bees, bees!!!",
-   "et": ""
+   "et": "{07 02 00}{01 08 00}Oih!!!{01 00 00 0f 00}\n{07 06 00}MESI{01 00 00 05 00}IIIILASED, {01 00 00 05 00}{04 02 00}!\nMesilased, mesilased!!!"
   },
   {
    "id": 1,
    "en": "{07 02 00}{01 08 00}No, no, no!{01 00 00 0f 00} I hate bees!{01 00 00 05 00}\n{07 06 00}Don't come this way!",
-   "et": ""
+   "et": "{07 02 00}{01 08 00}Ei, ei!{01 00 00 0f 00} Vihkan mesilasi!{01 00 00 05 00}\n{07 06 00}Ärge tulge siiapoole!"
   },
   {
    "id": 2,
    "en": "{07 02 00}{01 08 00}Yoweeeeeee!{01 00 00 0a 00}\n{07 08 00}There are bees everywhere!",
-   "et": ""
+   "et": "{07 02 00}{01 08 00}Joviiiii!{01 00 00 0a 00}\n{07 08 00}Mesilased on kõikjal!"
   }
  ]
 }

@@ -4,17 +4,17 @@
   {
    "id": 0,
    "en": "{07 04 00}Hey, {01 00 00 05 00}about your\n{0b 02 00}{04 1a 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n\n{07 0d 00}Did you remember that{01 00 00 0a 00} I\nwas collecting \n{ff 00 00 07}{04 0f 00}{ff 00 00 00}?",
-   "et": ""
+   "et": "{07 04 00}Hei, {01 00 00 05 00}sinu\n{0b 02 00}{04 1a 00} kohta{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n\n{07 0d 00}Kas sa mäletasid,{01 00 00 0a 00} et ma\nkogusin\n{ff 00 00 07}{04 0f 00}{ff 00 00 00}?"
   },
   {
    "id": 1,
    "en": "Are you giving your\n{0b 02 00}{04 1a 00}{01 00 00 0a 00}\nto me?\nI haven't even{01 00 00 14 00} mentioned\n{ff 00 00 07}{04 0f 00}{ff 00 00 00}\nto you!",
-   "et": ""
+   "et": "Kas sa annad oma\n{0b 02 00}{04 1a 00}{01 00 00 0a 00}\nmulle?\nMa pole sulle isegi{01 00 00 14 00} maininud\n{ff 00 00 07}{04 0f 00}{ff 00 00 00}\n!"
   },
   {
    "id": 2,
    "en": "{07 02 00}{0b 03 00}{0b 02 00}{04 1a 00}?!\nFor me, {01 00 00 0a 00}{04 02 00}?!\n\n{07 00 00}Of everything you could've\nchosen out of the\n{ff 00 00 07}{04 0f 00}{ff 00 00 00},\nfor you to choose the\n{0b 02 00}{04 1a 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 01 00}\n{07 14 00}I knew you had good taste!",
-   "et": ""
+   "et": "{07 02 00}{0b 03 00}{0b 02 00}{04 1a 00}?!\nMinule, {01 00 00 0a 00}{04 02 00}?!\n\n{07 00 00}Kõigest, mida sa oleksid\nvõinud valida siit:\n{ff 00 00 07}{04 0f 00}{ff 00 00 00},\nvalisid sa just\n{0b 02 00}{04 1a 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 01 00} {07 14 00}Ma\nteadsin, et sul on maitset!"
   }
  ]
 }

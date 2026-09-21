@@ -4,67 +4,67 @@
   {
    "id": 0,
    "en": "{07 00 00}Say,{01 00 00 0a 00}{07 0b 00} which direction{01 00 00 05 00} is your\ntown in again?{02 02 00 03 04 05 06}\nWest.\nEast.\nSouth.\nUp.",
-   "et": ""
+   "et": "{07 00 00}Kuule,{01 00 00 0a 00}{07 0b 00} mis suunas{01 00 00 05 00} sinu\nlinn asubki?{02 02 00 03 04 05 06}\nLäänes.\nIdas.\nLõunas.\nÜleval."
   },
   {
    "id": 1,
    "en": "{07 00 00}If you were stinkin' filthy\nrich,{01 00 00 0a 00}{07 0b 00}{01 00 00 05 00} what kind of house\nwould you live in?\n{06 01 00 07 08 09}",
-   "et": ""
+   "et": "{07 00 00}Kui sa oleksid räpaselt\nrikas,{01 00 00 0a 00}{07 0b 00}{01 00 00 05 00} millises majas sa\nelaksid?\n{06 01 00 07 08 09}"
   },
   {
    "id": 2,
    "en": "{07 00 00}What does your town{01 00 00 0a 00}{07 0b 00}{01 00 00 05 00} think\nof {04 03 00}?{02 01 00 0a 0b 0c}\nIt's great!\nIt's OK.\nWe don't...",
-   "et": ""
+   "et": "{07 00 00}Mida sinu linn{01 00 00 0a 00}{07 0b 00}{01 00 00 05 00} arvab\nlinnast {04 03 00}?{02 01 00 0a 0b 0c}\nSee on vinge!\nLäheb kah.\nMe ei..."
   },
   {
    "id": 3,
    "en": "{07 0a 00}Really?{01 00 00 14 00} I heard they used\nto have a train there! Was\nit really cool?\n{07 06 00}I saw an article on it in a\nback issue of {ff 00 00 02}Chillin'\nMagazine{ff 00 00 00}, {04 02 00}!",
-   "et": ""
+   "et": "{07 0a 00}Tõesti?{01 00 00 14 00} Kuulsin, et neil\noli seal kunagi rong! Kas\nsee oli lahe?\n{07 06 00}Nägin sellest artiklit\n{ff 00 00 02}Chillin' Magazine'i{ff 00 00 00}\nvanas numbris, {04 02 00}!"
   },
   {
    "id": 4,
    "en": "{07 19 00}Oh, yeah. {01 00 00 05 00}That's right. It's\na really big town, right?{01 00 00 0a 00}{07 00 00}\n\n{07 0a 00}There's an amusement park{01 00 00 0a 00}\nand a concert hall and lots\nof stuff like{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 0b 00}What?{01 00 00 14 00} That's not the same\nplace?{01 00 00 14 00}{07 16 00} That's so weird,{01 00 00 0a 00}\n{04 02 00}.",
-   "et": ""
+   "et": "{07 19 00}Ah jaa. {01 00 00 05 00}Õige küll. See on\npäris suur linn, eks?{01 00 00 0a 00}{07 00 00}\n\n{07 0a 00}Seal on lõbustuspark{01 00 00 0a 00}\nja kontserdisaal ja palju\nmuud sellist{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 0b 00}Mis?{01 00 00 14 00} See pole sama\nkoht?{01 00 00 14 00}{07 16 00} Väga imelik,{01 00 00 0a 00}\n{04 02 00}."
   },
   {
    "id": 5,
    "en": "{07 14 00}Well, if it's down south, it\nmust get pretty warm in\nyour town{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 0d 00}I want to visit someplace\ntropical{01 00 00 05 00} and sit in the sun\nsipping {04 13 00}.",
-   "et": ""
+   "et": "{07 14 00}Noh, kui see on lõunas, siis\non su linnas vist päris\nsoe{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 0d 00}Tahaksin minna kuhugi\ntroopikasse{01 00 00 05 00} ja rüübata\npäikese käes {04 13 00}."
   },
   {
    "id": 6,
    "en": "{07 19 00}I see.{01 00 00 0a 00} So one of those\ntwinkly things in the sky\nmust be your house, huh?{07 00 00}\n{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00}{07 0c 00}{01 00 00 14 00}Wait a second!{01 00 00 14 00}{07 02 00}{01 00 00 0a 00} Are you an\nalien,{01 00 00 0a 00} {04 02 00}?! {07 06 00}Oh,\nwow, this is sooooo cool!\nCan I get your autograph,\n{01 00 00 0a 00}{04 02 00}?",
-   "et": ""
+   "et": "{07 19 00}Ahsoo.{01 00 00 0a 00} Siis on üks neist\nsätendavatest täppidest\nsinu maja, mis?{07 00 00}\n{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00}{07 0c 00}{01 00 00 14 00}Oota korraks!{01 00 00 14 00}{07 02 00}{01 00 00 0a 00} Kas sa oled\ntulnukas,{01 00 00 0a 00} {04 02 00}?! {07 06 00}Oh,\nvau, see on nii lahe!\nKas saan su autogrammi,\n{01 00 00 0a 00}{04 02 00}?"
   },
   {
    "id": 7,
    "en": "{07 14 00}I'd want a big, spacious\nhouse, like a castle.{01 00 00 05 00} A\ncastle made of stone!\n{01 00 00 0a 00}{07 1b 00}{01 00 00 05 00}Then, on dark and stormy\nnights, I can stand by the\nwindow {01 00 00 0a 00}and look mysterious.",
-   "et": ""
+   "et": "{07 14 00}Tahaksin suurt avarat\nmaja, nagu loss.{01 00 00 05 00} Kivist\ntehtud loss!\n{01 00 00 0a 00}{07 1b 00}{01 00 00 05 00}Siis saaksin pimedatel\ntormiöödel seista akna all\n{01 00 00 0a 00}ja näida salapärane."
   },
   {
    "id": 8,
    "en": "{07 00 00}I want to live in a really,\nreally long house, kind of\nshaped like a train.\n{07 11 00}Yeah, a long house where\nit's just door after door,{01 00 00 0a 00}\nand room after room{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00}\n{07 0a 00}Then every day{01 00 00 05 00} would be\nlike an action movie,\n{01 00 00 0a 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 00 00}Tahan elada väga-väga\npikas majas, mis on nagu\nrongi kujuga.\n{07 11 00}Jah, pikas majas, kus on\nlihtsalt uks ukse järel,{01 00 00 0a 00}\nja tuba toa järel{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00}\n{07 0a 00}Siis oleks iga päev{01 00 00 05 00}\nnagu märulifilm,\n{01 00 00 0a 00}{04 02 00}!"
   },
   {
    "id": 9,
    "en": "{07 13 00}{01 00 00 0a 00}I want to live in a\ngingerbread house,{01 00 00 0a 00} only\nwithout the scary witch.\n{07 00 00}The doors,{01 00 00 05 00} the floors,{01 00 00 05 00} even\nthe furniture would be made\nof gingerbread and icing!\n{07 0a 00}Huh huh!{01 00 00 05 00} Who am I kidding?\nI'd just lie in bed all day,\ngnawing on my pillow!",
-   "et": ""
+   "et": "{07 13 00}{01 00 00 0a 00}Tahan elada piparkoogi-\nmajas,{01 00 00 0a 00} ainult ilma\nhirmsa nõiata.\n{07 00 00}Uksed,{01 00 00 05 00} põrandad,{01 00 00 05 00} isegi\nmööbel oleks tehtud\npiparkoogist ja glasuurist!\n{07 0a 00}Hah haa!{01 00 00 05 00} Keda ma petan?\nMa lamaksin voodis\nterve päev ja näriks patja!"
   },
   {
    "id": 10,
    "en": "{07 04 00}Really?!{01 00 00 14 00} Oh.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} {07 17 00}I guess it's\nbecause{01 00 00 0a 00} I'm here, isn't it?\n\n{07 0d 00}I think you should move\nhere,{01 00 00 0a 00} {04 02 00}! We'd\nhave such a blast!",
-   "et": ""
+   "et": "{07 04 00}Tõesti?!{01 00 00 14 00} Oh.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} {07 17 00}Küllap\nsest{01 00 00 0a 00} et mina siin olen?\n\n{07 0d 00}Ma arvan, et sa peaksid\nsiia kolima,{01 00 00 0a 00} {04 02 00}! Meil\noleks nii lõbus!"
   },
   {
    "id": 11,
    "en": "{07 0e 00}{01 00 00 0a 00}Hmm.{01 00 00 0a 00} It must be because\nwe're kind of isolated from\nother towns, huh.\n{07 16 00}We need to do a better job{01 00 00 0a 00}\nshowing off what makes\nthis town so fun...{03 03 00 01}",
-   "et": ""
+   "et": "{07 0e 00}{01 00 00 0a 00}Hmm.{01 00 00 0a 00} Küllap sellepärast, et\noleme teistest linnadest\npisut eraldatud.\n{07 16 00}Peaksime rohkem näitama,{01 00 00 0a 00}\nmis teeb selle linna\nnii lõbusaks...{03 03 00 01}"
   },
   {
    "id": 12,
    "en": "{07 02 00}{01 00 00 14 00}WHAT?!{01 00 00 14 00} What do you mean,{01 00 00 05 00}\n{04 02 00}?! How can that\nbe?!\n{07 06 00}B{01 00 00 05 00}-but this is such a fun\ntown! You can't just NOT\nthink about us!",
-   "et": ""
+   "et": "{07 02 00}{01 00 00 14 00}MIDA?!{01 00 00 14 00} Mida sa mõtled,{01 00 00 05 00}\n{04 02 00}?! Kuidas see\nvõimalik on?!\n{07 06 00}A{01 00 00 05 00}-aga see on nii lõbus\nlinn! Sa ei saa meist\nlihtsalt MITTE mõelda!"
   }
  ]
 }

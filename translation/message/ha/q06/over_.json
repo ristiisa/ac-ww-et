@@ -4,17 +4,17 @@
   {
    "id": 0,
    "en": "{07 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 04 00}Oh, look who's here!{01 00 00 14 00}\n{07 15 00}{ff 00 00 05}{0b 03 00}{04 1f 00}{ff 00 00 00}! My old favor-\ndoing pal, {01 00 00 05 00}{04 02 00}!\n{07 01 00}You forgot to bring that\npresent to {ff 00 00 06}{04 10 00}{ff 00 00 00},\ndidn't you?!\n{07 05 00}Yeah, {ff 00 00 06}{04 10 00} {ff 00 00 00}got all\npeeved and came over to\nmy place to yell at ME!\n{07 15 00}Know what? {01 00 00 05 00}You're a jerk!{01 00 00 05 00}\nI'm gonna take it myself, {01 00 00 05 00}\nso gimme it back!",
-   "et": ""
+   "et": "{07 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 04 00}Oh, vaata, kes siin!{01 00 00 14 00}\n{07 15 00}{ff 00 00 05}{0b 03 00}{04 1f 00}{ff 00 00 00}! Mu vana teene-\ntegija semu, {01 00 00 05 00}{04 02 00}!\n{07 01 00}Sa unustasid selle kingi\n{ff 00 00 06}{04 10 00}{ff 00 00 00}ile viia,\neks?!\n{07 05 00}Jah, {ff 00 00 06}{04 10 00} {ff 00 00 00}läks marru\nja tuli minu juurde\nMIND sõimama!\n{07 15 00}Tead mis? {01 00 00 05 00}Sa oled tropp!{01 00 00 05 00}\nMa viin selle ise, {01 00 00 05 00}\nnii et anna see tagasi!"
   },
   {
    "id": 1,
    "en": "{07 04 00}Oh hey, it's {01 00 00 05 00}{04 1f 00}!{01 00 00 14 00}\n{07 00 00}You know who I heard from?{01 00 00 05 00}\n{ff 00 00 06}{04 10 00}{ff 00 00 00}! {01 00 00 05 00}Ring a bell?!\n{07 15 00}It should! {01 00 00 05 00}You still haven't\ndelivered the present, have\nyou, {01 00 00 05 00}{04 02 00}?!\n{07 01 00}Man, WEAK!{01 01 00} {07 15 00}I'll take it with\nme when I go to apologize.{01 00 00 05 00}\nGive me that!",
-   "et": ""
+   "et": "{07 04 00}Oh hei, see on {01 00 00 05 00}{04 1f 00}!{01 00 00 14 00}\n{07 00 00}Tead, kellelt ma kuulsin?{01 00 00 05 00}\n{ff 00 00 06}{04 10 00}{ff 00 00 00}ilt! {01 00 00 05 00}Tuleb tuttav?!\n{07 15 00}Peaks! {01 00 00 05 00}Sa pole ikka veel\nkinki kohale toimetanud,\nega, {01 00 00 05 00}{04 02 00}?!\n{07 01 00}Mees, NÕRK!{01 01 00} {07 15 00}Ma võtan\nselle vabandades kaasa.{01 00 00 05 00}\nAnna see siia!"
   },
   {
    "id": 2,
    "en": "{07 01 00}Well, well, well! {01 00 00 05 00}{ff 00 00 05}{0b 03 00}{04 1f 00}{ff 00 00 00}!{01 00 00 14 00}\nYeah, about that present...{01 00 00 05 00}\nYOU DIDN'T DELIVER IT!\n{07 16 00}Man, who KNOWS how steamed\n{ff 00 00 06}{04 10 00} {ff 00 00 00}is...\n\n{07 07 00}Just thinking about the hot\nwrath makes me nervous{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n\n{07 15 00}This stinks. {01 00 00 05 00}Gimme that\nthing back, {01 00 00 05 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 01 00}No nii, no nii! {01 00 00 05 00}{ff 00 00 05}{0b 03 00}{04 1f 00}{ff 00 00 00}!{01 00 00 14 00}\nJah, selle kingi kohta...{01 00 00 05 00}\nSA EI VIINUD SEDA KOHALE!\n{07 16 00}Mees, kes TEAB, kui marus\n{ff 00 00 06}{04 10 00} {ff 00 00 00}on...\n\n{07 07 00}Ainuüksi mõte sellest\nraevust teeb mind närvi{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n\n{07 15 00}See on nõme. {01 00 00 05 00}Anna see\nasi tagasi, {01 00 00 05 00}{04 02 00}!"
   }
  ]
 }

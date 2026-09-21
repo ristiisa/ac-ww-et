@@ -4,62 +4,62 @@
   {
    "id": 0,
    "en": "{07 12 00}Hey!{01 00 00 0f 00} Why are you yelling\nthis early in the morning?{01 00 00 0a 00}\nPipe down, little human.\n{07 0b 00}Wait a sec.{01 00 00 14 00} Who are you?\nI don't know you,\n{01 00 00 05 00}{04 02 00}.\n{07 00 00}I'm {04 01 00}.{01 01 00} I like{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\nWell,{01 00 00 0f 00} not much, but I like\nto {04 22 00}.\n{07 14 00}It's{01 00 00 05 00} nice to meet you. {01 00 00 0f 00}\nI guess. {01 00 00 05 00}{0b 03 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 12 00}Hei!{01 00 00 0f 00} Miks sa karjud\nnii vara hommikul?{01 00 00 0a 00}\nOle vaiksem, väike inimene.\n{07 0b 00}Oota hetk.{01 00 00 14 00} Kes sa oled?\nMa ei tunne sind,\n{01 00 00 05 00}{04 02 00}.\n{07 00 00}Olen {04 01 00}.{01 01 00} Meeldib{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\nNoh,{01 00 00 0f 00} mitte palju, aga mulle\nmeeldib {04 22 00}.\n{07 14 00}Meeldiv{01 00 00 05 00} tutvuda. {01 00 00 0f 00}\nVist. {01 00 00 05 00}{0b 03 00}{04 02 00}!"
   },
   {
    "id": 1,
    "en": "{07 18 00}Whoa now!{01 00 00 14 00} Man.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} {07 01 00}Don't go\nyellin' in my ear, 'cause I'm\nRIGHT HERE!{01 00 00 05 00} Sheesh.\n{07 0b 00}What?{01 00 00 14 00} Oh, yeah. Who are\nyou, anyway?{01 00 00 14 00} {07 00 00}{0b 03 00}{04 1f 00}?\nIt's, {01 00 00 05 00}uh, {01 00 00 05 00}nice to meet you.{01 00 00 14 00}\nI'm {04 01 00}, and my\nsign is {04 0f 00}.{01 00 00 0a 00}{07 00 00} Not\nthat I believe that tripe.\n{01 00 00 0a 00}{07 01 00}What!{01 00 00 14 00} What's your problem!{01 00 00 14 00}\nFine! You know what?{01 00 00 05 00} I'm\noutta here! {01 00 00 05 00}{0b 03 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 18 00}Oot nüüd!{01 00 00 14 00} Poiss.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} {07 01 00}Ära karju\nmulle kõrva, sest ma olen\nSIINSAMAS!{01 00 00 05 00} Ptüi.\n{07 0b 00}Mida?{01 00 00 14 00} Ah jaa. Kes sa\nüldse oled?{01 00 00 14 00} {07 00 00}{0b 03 00}{04 1f 00}?\nMeeldiv, {01 00 00 05 00}ee, {01 00 00 05 00}tutvuda.{01 00 00 14 00}\nOlen {04 01 00} ja mu\ntähemärk on {04 0f 00}.{01 00 00 0a 00}{07 00 00} Mitte\net ma seda jura usuksin.\n{01 00 00 0a 00}{07 01 00}Mida!{01 00 00 14 00} Mis sul viga on!{01 00 00 14 00}\nHea küll! Tead mida?{01 00 00 05 00} Ma\nlähen ära! {01 00 00 05 00}{0b 03 00}{04 02 00}!"
   },
   {
    "id": 2,
    "en": "{07 01 00}Why, oh, why{01 00 00 14 00} do you insist{01 00 00 05 00}\non making so much noise\nthis early, {01 00 00 05 00}{04 02 00}!\n{07 0b 00}Huh?{01 00 00 05 00} Who are you?{01 00 00 14 00} H-have\nwe met before?\n\n{07 00 00}Oh.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} {0b 03 00}{04 1f 00}, eh?{01 00 00 14 00}\n{07 14 00}I'm kind of sorry for\nyelling at you.\nMy name is {04 01 00}, and\nI like to {04 22 00}!{01 00 00 14 00}\nIt's{01 00 00 05 00} nice to meet you.",
-   "et": ""
+   "et": "{07 01 00}Miks, oh miks{01 00 00 14 00} sa nõuad,{01 00 00 05 00}\net teed nii palju müra\nnii vara, {01 00 00 05 00}{04 02 00}!\n{07 0b 00}Ah?{01 00 00 05 00} Kes sa oled?{01 00 00 14 00} K-kas\nme oleme varem kohtunud?\n\n{07 00 00}Oh.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} {0b 03 00}{04 1f 00}, mis?{01 00 00 14 00}\n{07 14 00}Mul on natuke kahju, et ma\nsu peale karjusin.\nMu nimi on {04 01 00} ja\nmulle meeldib {04 22 00}!{01 00 00 14 00}\nMeeldiv{01 00 00 05 00} tutvuda."
   },
   {
    "id": 3,
    "en": "Whoa!{01 00 00 14 00} {07 0b 00}So,{01 00 00 05 00} they call you.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n{07 14 00}{04 1f 00}, huh? That's an,\nuh, interesting name.\nMy name is {04 01 00}.\nNice to meet you. Just a\nword of warning, OK?\n{07 11 00}If you come at me without\nwarning, you might get\nburned, {01 00 00 05 00}{04 02 00}!",
-   "et": ""
+   "et": "Ohoo!{01 00 00 14 00} {07 0b 00}Nii,{01 00 00 05 00} sind kutsutakse.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n{07 14 00}{04 1f 00}, mis? See on, ee,\nhuvitav nimi.\nMu nimi on {04 01 00}.\nMeeldiv tutvuda. Üks\nhoiatus, eks?\n{07 11 00}Kui sa tuled mu juurde\nhoiatamata, võid saada\nkõrvetada, {01 00 00 05 00}{04 02 00}!"
   },
   {
    "id": 4,
    "en": "{07 15 00}What's {01 00 00 05 00}up?!{01 00 00 14 00} Can I help you\nwith somethin',{07 01 00}{01 00 00 05 00} or what?\nSpeak up!\n{07 0b 00}{0b 03 00}{04 1f 00}?{01 00 00 0f 00} Uh, OK.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} I've\nnever heard that one\nbefore, but whatever.\nSo, {01 00 00 05 00}you came over to\nintroduce yourself?{07 00 00} {07 0a 00}Wow,\nthat was so considerate!\n{07 00 00}They call me {04 01 00}.{01 00 00 14 00}\nLemme know if I can help.{01 00 00 14 00}\n{07 03 00}Har{01 00 00 05 00} har{01 00 00 05 00} har{01 00 00 05 00} har!",
-   "et": ""
+   "et": "{07 15 00}Mis {01 00 00 05 00}on?!{01 00 00 14 00} Kas ma saan\nsind kuidagi aidata,{07 01 00}{01 00 00 05 00} või?\nRäägi valjemini!\n{07 0b 00}{0b 03 00}{04 1f 00}?{01 00 00 0f 00} Ee, ok.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} Ma pole\nseda varem kuulnud,\naga ükskõik.\nNii et, {01 00 00 05 00}sa tulid end\ntutvustama?{07 00 00} {07 0a 00}Ohoo,\nsee oli nii tähelepanelik!\n{07 00 00}Mind kutsutakse {04 01 00}.{01 00 00 14 00}\nÜtle, kui saan aidata.{01 00 00 14 00}\n{07 03 00}Har{01 00 00 05 00} har{01 00 00 05 00} har{01 00 00 05 00} har!"
   },
   {
    "id": 5,
    "en": "{07 01 00}Hey, {01 00 00 05 00}what's{01 00 00 0f 00} the big idea?!{01 00 00 0f 00}\nI haven't seen your mug\nbefore, {01 00 00 05 00}{04 02 00}!\n{07 15 00}What're you doing, loitering\naround here,{01 00 00 05 00} {04 02 00}?\nDo you have business?\n{07 07 00}Sorry! I'm kinda excitable.{01 00 00 0f 00}\nYou're {04 1f 00}?{01 00 00 0f 00} Well,\nnice to meet you. {01 00 00 0f 00}{07 00 00}\n{07 17 00}Sorry! {01 00 00 0f 00}Sorry!{01 00 00 0f 00} Did I really\nscare you?{01 00 00 14 00} I was just\njoking, seriously!\n{07 00 00}Anyway, I'm {04 01 00}, and\nI like to {04 22 00}.{01 01 00}\n{07 14 00}We're cool, {01 00 00 05 00}right?",
-   "et": ""
+   "et": "{07 01 00}Hei, {01 00 00 05 00}mis{01 00 00 0f 00} mõte sellel on?!{01 00 00 0f 00}\nMa pole su mokka\nvarem näinud, {01 00 00 05 00}{04 02 00}!\n{07 15 00}Mida sa siin logeled,{01 00 00 05 00}\n{04 02 00}?\nKas sul on asja?\n{07 07 00}Vabandust! Ma olen erutuv.{01 00 00 0f 00}\nSa oled {04 1f 00}?{01 00 00 0f 00} Noh,\nmeeldiv tutvuda. {01 00 00 0f 00}{07 00 00}\n{07 17 00}Vabandust! {01 00 00 0f 00}Vabandust!{01 00 00 0f 00} Kas\nma tõesti ehmatasin?{01 00 00 14 00} Ma\nlihtsalt tegin nalja!\n{07 00 00}Igatahes, olen {04 01 00} ja\nmulle meeldib {04 22 00}.{01 01 00}\n{07 14 00}Me oleme sõbrad, {01 00 00 05 00}eks?"
   },
   {
    "id": 6,
    "en": "It's still early,{01 00 00 05 00} but it sure\nis dark, {01 00 00 05 00}{04 02 00}!\n\n{07 11 00}It's pretty brave of you to\napproach me now.{01 00 00 05 00} I can be\npret-ty intimidating.\n{07 00 00}{0b 03 00}{04 1f 00}, huh? {01 00 00 05 00}My name\nis {04 01 00}, and I\nlike to {04 22 00}.\n{07 14 00}It's a morning-people world,\nso we night owls gotta\nstick together!",
-   "et": ""
+   "et": "On alles vara,{01 00 00 05 00} aga\nküll on pime, {01 00 00 05 00}{04 02 00}!\n\n{07 11 00}On päris julge, et sa\nminu juurde tuled.{01 00 00 05 00} Ma võin\nolla päris hirmutav.\n{07 00 00}{0b 03 00}{04 1f 00}, mis? {01 00 00 05 00}Mu nimi\non {04 01 00} ja mulle\nmeeldib {04 22 00}.\n{07 14 00}See on hommikuinimeste\nmaailm, nii et meie,\nöökullid, hoiame kokku!"
   },
   {
    "id": 7,
    "en": "Whoa! {01 00 00 14 00}Who's that?!{01 00 00 05 00}\nWho are you?!\n\nOh.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 0b 00}{04 1f 00}? I haven't\nheard that one before,\n{01 00 00 05 00}{04 02 00}.\n{07 00 00}Well, {01 00 00 05 00}since you're here,{01 00 00 14 00} I'm\ngonna tell you something,{01 00 00 05 00}\nso listen up!\nI'm {04 01 00}, and I\nlove to {04 22 00}.{01 00 00 05 00}\n{07 03 00}Got that, {01 00 00 05 00}{04 02 00}?",
-   "et": ""
+   "et": "Ohoo! {01 00 00 14 00}Kes see on?!{01 00 00 05 00}\nKes sa oled?!\n\nOh.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 0b 00}{04 1f 00}? Ma pole\nseda varem kuulnud,\n{01 00 00 05 00}{04 02 00}.\n{07 00 00}Noh, {01 00 00 05 00}kuna sa siin oled,{01 00 00 14 00}\nütlen ma sulle midagi,{01 00 00 05 00}\nnii et kuula!\nOlen {04 01 00} ja mulle\nmeeldib väga {04 22 00}.{01 00 00 05 00}\n{07 03 00}Said aru, {01 00 00 05 00}{04 02 00}?"
   },
   {
    "id": 8,
    "en": "{07 11 00}You there! {01 00 00 0f 00}You with the\nface!{01 00 00 14 00} I haven't seen you\nbefore.{01 00 00 14 00} Who are you?{07 00 00}\n{07 0b 00}{0b 03 00}{04 1f 00}?{01 01 00} OK{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}. {07 00 00}I haven't\nmet you before. {01 00 00 05 00}Next time\nwe get together...\n...we should do something.{01 01 00}\n{07 11 00}Like drink\n{04 18 00}!",
-   "et": ""
+   "et": "{07 11 00}Hei sina! {01 00 00 0f 00}Sina seal\nnäoga!{01 00 00 14 00} Ma pole sind\nvarem näinud.{01 00 00 14 00} Kes sa oled?{07 00 00}\n{07 0b 00}{0b 03 00}{04 1f 00}?{01 01 00} Olgu{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}. {07 00 00}Ma pole\nsind kohanud. {01 00 00 05 00}Järgmine\nkord, kui kokku saame...\n...peaksime midagi tegema.{01 01 00}\n{07 11 00}Näiteks jooma\n{04 18 00}!"
   },
   {
    "id": 9,
    "en": "{07 02 00}Aaack!{01 00 00 14 00} {07 07 00}No, {01 00 00 05 00}it's not like I\nwas scared or anything.{01 00 00 0a 00} You\ndon't scare me!{07 00 00}\nYou just shouldn't sneak up\non folks like that!{07 01 00} Got it,\nCaptain Dense-o?!{01 00 00 14 00}\n{07 00 00}So, {01 00 00 05 00}what do you want!?{01 01 00}\n{07 0b 00}What?{01 00 00 14 00} You wanna be friends?\nUh.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 03 00}Har {01 00 00 05 00}har{01 00 00 05 00} HAR!{01 00 00 14 00} {07 00 00}You're weird,{01 00 00 05 00}\nlike me! {07 14 00}I'm {04 01 00}.{01 00 00 14 00}\nNice to meet you!",
-   "et": ""
+   "et": "{07 02 00}Aaah!{01 00 00 14 00} {07 07 00}Ei, {01 00 00 05 00}pole nii, et ma\noleksin kartnud.{01 00 00 0a 00} Sa\nei hirmuta mind!{07 00 00}\nSa lihtsalt ei tohiks\nnii ligi hiilida!{07 01 00} Said aru,\nkapten Juhm?!{01 00 00 14 00}\n{07 00 00}Nii, {01 00 00 05 00}mida sa tahad!?{01 01 00}\n{07 0b 00}Mida?{01 00 00 14 00} Tahad sõber olla?\nEe.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 03 00}Har {01 00 00 05 00}har{01 00 00 05 00} HAR!{01 00 00 14 00} {07 00 00}Veider,{01 00 00 05 00}\nnagu mina! {07 14 00}Olen {04 01 00}.{01 00 00 14 00}\nMeeldiv tutvuda!"
   },
   {
    "id": 10,
    "en": "{07 04 00}Whoa! {01 00 00 0f 00}No worries!{01 00 00 14 00} {07 00 00}I'm not a\nfreak or anything,\n{01 00 00 05 00}{04 02 00}!\nMy name is {04 01 00}, and\nmy sign is {04 0f 00}.{01 00 00 05 00}\nAnd you are{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.?\n{07 19 00}Ah, so you're{01 00 00 0f 00} {04 1f 00}?\n{01 01 00}{07 14 00}Well, {01 00 00 0f 00}we night owls ought\nto try to get along, eh!?",
-   "et": ""
+   "et": "{07 04 00}Ohoo! {01 00 00 0f 00}Pole muret!{01 00 00 14 00} {07 00 00}Ma pole\nmingi veidrik ega midagi,\n{01 00 00 05 00}{04 02 00}!\nMu nimi on {04 01 00} ja\nmu tähemärk on {04 0f 00}.{01 00 00 05 00}\nJa sina oled{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.?\n{07 19 00}Ahaa, sa oled{01 00 00 0f 00} {04 1f 00}?\n{01 01 00}{07 14 00}Noh, {01 00 00 0f 00}meie öökullid peaksime\nüritama läbi saada, eks!?"
   },
   {
    "id": 11,
    "en": "{07 18 00}What!{01 00 00 14 00} What is it? What do\nyou want?!{07 00 00} You're lucky I'm\nin a good mood!\nNormally, I would put such\na hurt on you for bugging\nme, {01 00 00 05 00}{04 02 00}.\n{07 0a 00}Yeah, it's been a good day,\nso this time, you're{01 00 00 05 00} off\nthe hook, {01 00 00 05 00}{04 02 00}.\n{07 00 00}I'm {04 01 00}, and my\nsign is{01 00 00 05 00} {04 0f 00}.{01 00 00 14 00} {07 14 00}Nice\nto meet you!",
-   "et": ""
+   "et": "{07 18 00}Mida!{01 00 00 14 00} Mis on? Mida sa\ntahad?!{07 00 00} Sul on vedanud, et\nmul on hea tuju!\nTavaliselt teeksin ma sulle\ntüütamise eest nii haiget,\n{01 00 00 05 00}{04 02 00}.\n{07 0a 00}Jah, päev on olnud hea,\nnii et seekord{01 00 00 05 00} pääsed\npuhtalt, {01 00 00 05 00}{04 02 00}.\n{07 00 00}Olen {04 01 00} ja mu\ntähemärk{01 00 00 05 00} {04 0f 00}.{01 00 00 14 00} {07 14 00}Meeldiv\ntutvuda!"
   }
  ]
 }

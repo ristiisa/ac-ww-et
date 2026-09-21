@@ -4,162 +4,162 @@
   {
    "id": 0,
    "en": "The place is packed! You\ncan't get in!{01 10 00 64}",
-   "et": ""
+   "et": "Koht on rahvast täis! Sa\nei pääse sisse!{01 10 00 64}"
   },
   {
    "id": 1,
    "en": "Don't you know better than\nto move furniture when you\nhave company over?",
-   "et": ""
+   "et": "Kas sa ei tea, et mööblit\nei liigutata, kui sul on\nkülalisi?"
   },
   {
    "id": 2,
    "en": "You can't write a letter\nthat you can't carry.",
-   "et": ""
+   "et": "Sa ei saa kirjutada kirja,\nmida sa kanda ei jaksa."
   },
   {
    "id": 3,
    "en": "You can't put anything\ndown here!",
-   "et": ""
+   "et": "Sa ei saa siia midagi\nmaha panna!"
   },
   {
    "id": 4,
    "en": "You can't swap your designs\nif your pockets are full.",
-   "et": ""
+   "et": "Mustreid ei saa vahetada,\nkui taskud on täis."
   },
   {
    "id": 5,
    "en": "If you put anything else\ndown, your floor is going to\ngive out!",
-   "et": ""
+   "et": "Kui sa veel midagi maha\npaned, kukub su põrand\nsisse!"
   },
   {
    "id": 6,
    "en": "You can't hold any more\nletters. Wanna toss some?",
-   "et": ""
+   "et": "Sa ei jaksa rohkem kirju\nkanda. Kas viskad mõne ära?"
   },
   {
    "id": 7,
    "en": "You'll have to take off\nyour accessories before\nyou can put that on!",
-   "et": ""
+   "et": "Sa pead lisandid ära\nvõtma, enne kui saad selle\nselga panna!"
   },
   {
    "id": 8,
    "en": "You can't plant that here!",
-   "et": ""
+   "et": "Sa ei saa seda siia panna!"
   },
   {
    "id": 9,
    "en": "You can't put something\ndown when you're not alone.",
-   "et": ""
+   "et": "Sa ei saa midagi maha\npanna, kui sa pole üksi."
   },
   {
    "id": 10,
    "en": "You can't remove items\nyou're holding or wearing if\nyour pockets are full.",
-   "et": ""
+   "et": "Sa ei saa käes või seljas\nolevaid esemeid ära võtta,\nkui taskud on täis."
   },
   {
    "id": 11,
    "en": "Your pockets are full!\nYou can't remove the\npresent you're holding!",
-   "et": ""
+   "et": "Su taskud on täis!\nSa ei saa käes olevat\nkingitust ära võtta!"
   },
   {
    "id": 12,
    "en": "Your pockets are full and\nyou can't use Bells.",
-   "et": ""
+   "et": "Su taskud on täis ja\nsa ei saa kellasid kasutada."
   },
   {
    "id": 13,
    "en": "You can't bury anything\nhere!",
-   "et": ""
+   "et": "Sa ei saa siia midagi\nmatta!"
   },
   {
    "id": 14,
    "en": "You can't deposit any more\nBells!",
-   "et": ""
+   "et": "Sa ei saa rohkem kellasid\nhoiustada!"
   },
   {
    "id": 15,
    "en": "You can't carry any more\nBells!",
-   "et": ""
+   "et": "Sa ei jaksa rohkem\nkellasid kanda!"
   },
   {
    "id": 16,
    "en": "You can't take your music\nout if your pockets are\nfull.",
-   "et": ""
+   "et": "Sa ei saa muusikat välja\nvõtta, kui su taskud on\ntäis."
   },
   {
    "id": 17,
    "en": "You already have that music\nin your pockets!",
-   "et": ""
+   "et": "See muusika on sul juba\ntaskus!"
   },
   {
    "id": 18,
    "en": "You can't pick up any\nbottle mail because your\npockets are full.",
-   "et": ""
+   "et": "Sa ei saa pudelipostit\nkorjata, sest su taskud\non täis."
   },
   {
    "id": 19,
    "en": "You can't register any new\nfriends if your friend\nroster is full.",
-   "et": ""
+   "et": "Sa ei saa uusi sõpru\nregistreerida, kui su\nsõbranimekiri on täis."
   },
   {
    "id": 20,
    "en": "This person is already \nregistered!",
-   "et": ""
+   "et": "See inimene on juba \nregistreeritud!"
   },
   {
    "id": 21,
    "en": "Someone's already in there,\nso you can't go in.{01 10 00 64}",
-   "et": ""
+   "et": "Keegi on juba seal sees,\nnii et sa ei pääse sisse.{01 10 00 64}"
   },
   {
    "id": 22,
    "en": "There aren't any stars that\nyou can connect to this\none!",
-   "et": ""
+   "et": "Pole ühtegi tähte, mida\nsaaksid selle tähega\nühendada!"
   },
   {
    "id": 23,
    "en": "You can't change the carpet\nwhen you have a visitor!",
-   "et": ""
+   "et": "Sa ei saa vaipa vahetada,\nkui sul on külaline!"
   },
   {
    "id": 24,
    "en": "You can't change the\nwallpaper when you have a \nvisitor!",
-   "et": ""
+   "et": "Sa ei saa tapeeti vahetada,\nkui sul on \nkülaline!"
   },
   {
    "id": 25,
    "en": "The friend code is\nincorrect and can't\nbe registered!",
-   "et": ""
+   "et": "Sõbrakood on vale ja\nseda ei saa\nregistreerida!"
   },
   {
    "id": 26,
    "en": "You cannot register using \na friend code while you\nare communicating!",
-   "et": ""
+   "et": "Sa ei saa sõbrakoodiga \nregistreerida, kui oled\nühenduses!"
   },
   {
    "id": 27,
    "en": "You can't write your friend\ncode while you're\ncommunicating!",
-   "et": ""
+   "et": "Sa ei saa oma sõbrakoodi\nkirjutada, kui oled\nühenduses!"
   },
   {
    "id": 28,
    "en": "You don't have room to\nwrite any more letters!",
-   "et": ""
+   "et": "Sul pole ruumi rohkemate\nkirjade kirjutamiseks!"
   },
   {
    "id": 29,
    "en": "You cannot enter your own\nfriend code!",
-   "et": ""
+   "et": "Sa ei saa sisestada oma\nenda sõbrakoodi!"
   },
   {
    "id": 30,
    "en": "Your battery is running low.\nIt might be a good idea to\nsave your game soon.",
-   "et": ""
+   "et": "Su aku hakkab tühjaks.\nOleks hea mõte mäng\nvarsti salvestada."
   },
   {
    "id": 31,
    "en": "Unable to save.{01 00 00 0a 00} Please turn\nthe power off and reinsert\nyour Game Card.",
-   "et": ""
+   "et": "Ei saa salvestada.{01 00 00 0a 00} Palun\nlülita toide välja ja pane\nmängukaart uuesti sisse."
   }
  ]
 }

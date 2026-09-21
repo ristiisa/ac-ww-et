@@ -4,27 +4,27 @@
   {
    "id": 0,
    "en": "{07 16 00}I'm settling in right now,{01 00 00 05 00} so\nI'm kind of busy at the\nmoment.\n{07 14 00}Would you mind coming back\ntomorrow, {01 00 00 0a 00}{04 02 00}? It's\njust such a mess right now!",
-   "et": ""
+   "et": "{07 16 00}Ma sean end praegu sisse,{01 00 00 05 00}\nnii et mul on praegu\npisut kiire.\n{07 14 00}Kas sa tuleksid homme\ntagasi, {01 00 00 0a 00}{04 02 00}? Praegu\non siin lihtsalt segadus!"
   },
   {
    "id": 1,
    "en": "{07 04 00}Oh,{01 00 00 0a 00} {07 14 00}if you're talking about\na housewarming party,\ntomorrow's good!\n{07 0e 00}I'd better clean up my\nplace, STAT! {01 00 00 0a 00}{0b 03 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 04 00}Oi,{01 00 00 0a 00} {07 14 00}kui sa räägid\nsoojapeost,\nsiis homme sobib!\n{07 0e 00}Pean oma kodu\nKOHE korda! {01 00 00 0a 00}{0b 03 00}{04 02 00}!"
   },
   {
    "id": 2,
    "en": "{07 15 00}Hey, {01 00 00 0a 00}I can only let you in\nif you're willing to help me\nstraighten up, {01 00 00 0a 00}{04 02 00}!\n{07 14 00}Oh!{01 00 00 0a 00} Where are my manners?{01 00 00 05 00}\nMust be the moving stress.\nPlease stop by tomorrow.",
-   "et": ""
+   "et": "{07 15 00}Hei, {01 00 00 0a 00}ma saan sind sisse\nlasta ainult siis, kui aitad\nkoristada, {01 00 00 0a 00}{04 02 00}!\n{07 14 00}Oi!{01 00 00 0a 00} Kus on mu kombed?{01 00 00 05 00}\nVist kolimisstress.\nAstu palun homme läbi."
   },
   {
    "id": 3,
    "en": "{07 1b 00}I'm sorry, I'm really super\nbusy right now, as you can\nprobably see.\n{07 14 00}If you come back tomorrow,\nI promise to give you the\ngrand tour, {01 00 00 0a 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 1b 00}Vabandust, mul on praegu\ntõesti ülikiire, nagu sa\nilmselt näed.\n{07 14 00}Kui tuled homme tagasi,\nluban ma sulle korraldada\nsuure ringkäigu, {01 00 00 0a 00}{04 02 00}!"
   },
   {
    "id": 4,
    "en": "{07 16 00}No, don't look!{01 00 00 14 00} My place is a\nterrible mess right now!{01 00 00 0a 00} Oh,\nit's just horrible!\n{07 06 00}Please don't tell anyone\nabout my dark secret,\n{01 00 00 0a 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 16 00}Ei, ära vaata!{01 00 00 14 00} Mu kodus on\npraegu kohutav segadus!{01 00 00 0a 00} Oh,\nsee on lihtsalt jube!\n{07 06 00}Palun ära räägi kellelegi\nminu tumedast saladusest,\n{01 00 00 0a 00}{04 02 00}!"
   }
  ]
 }

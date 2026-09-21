@@ -4,17 +4,17 @@
   {
    "id": 0,
    "en": "{07 00 00}Hey, wassup, {04 1f 00}!{01 00 00 05 00}\n{07 0b 00}Haven't you caught\n{04 1a 00}?{01 00 00 05 00}\n{07 14 00}According to my timetable,\nI'm due to catch one\nanytime now, {01 00 00 05 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 00 00}Jou jou, {04 1f 00}!{01 00 00 05 00}\n{07 0b 00}Kas sa pole püüdnud\n{04 1a 00}?{01 00 00 05 00}\n{07 14 00}Mu ajakava järgi pean ma\niga hetk ühe püüdma,\n{01 00 00 05 00}{04 02 00}!"
   },
   {
    "id": 1,
    "en": "{07 16 00}Man, trying to catch\n{04 1a 00} at\nthis time of the year?\n{07 15 00}This is ridiculous! {01 00 00 0a 00}Who's the\nmoron who decided this was\na good idea, {01 00 00 05 00}{04 02 00}?",
-   "et": ""
+   "et": "{07 16 00}Mees, püüda\n{04 1a 00}\nsellel aastaajal?\n{07 15 00}See on naeruväärne! {01 00 00 0a 00}Kes see\njuhm oli, kes otsustas, et\nsee on hea mõte, {01 00 00 05 00}{04 02 00}?"
   },
   {
    "id": 2,
    "en": "{07 16 00}{0b 02 00}{0b 03 00}{04 1a 00}!{01 00 00 05 00}\nI hate you!{01 00 00 05 00} I can't find\nyou! {01 00 00 05 00}It's too much to ask!\n{07 0f 00}If this were a prize fight,{01 00 00 05 00}\nI'd be throwing towels left\nand right, {01 00 00 05 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 16 00}{0b 02 00}{0b 03 00}{04 1a 00}!{01 00 00 05 00}\nMa vihkan sind!{01 00 00 05 00} Ma ei leia\nsind! {01 00 00 05 00}See on liig mis liig!\n{07 0f 00}Kui see oleks auhinnamatš,{01 00 00 05 00}\nloobiksin ma rätikuid\nigale poole, {01 00 00 05 00}{04 02 00}!"
   }
  ]
 }

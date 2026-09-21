@@ -4,17 +4,17 @@
   {
    "id": 0,
    "en": "{07 04 00}Hey, {01 00 00 05 00}{04 1f 00},{01 00 00 0a 00} will you\ndo me a little favor?\n\n{07 00 00}Could you deliver this\nletter to{ff 00 00 06} {04 10 00} {ff 00 00 00}for\nme? Please?\n{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00}{07 04 00}Oh, {01 00 00 05 00}calm down! It's\nnot{01 00 00 14 00} a love letter or\nanything, {01 00 00 0a 00}{04 02 00}.",
-   "et": ""
+   "et": "{07 04 00}Hei, {01 00 00 05 00}{04 1f 00},{01 00 00 0a 00} kas teed\nmulle väikese teene?\n\n{07 00 00}Kas viiksid selle kirja\n{ff 00 00 06} {04 10 00} {ff 00 00 00}le minu\neest? Palun?\n{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00}{07 04 00}Oi, {01 00 00 05 00}rahune! See ei\nole{01 00 00 14 00} armastuskiri ega\nmidagi, {01 00 00 0a 00}{04 02 00}."
   },
   {
    "id": 1,
    "en": "{07 0b 00}Huh? {01 00 00 14 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 14 00}{07 1d 00}Oh, no!{01 00 00 14 00} Where is my\nmind?! I completely spaced\non sending that letter!\n{07 16 00}I wrote it and everything{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00}{07 0c 00}{01 00 00 0a 00}{01 01 00}\n{07 0b 00}Oh, hey, {01 00 00 05 00}{04 1f 00},{01 00 00 0a 00}\ncan you take care of it?\n{07 14 00}I need you to take this \nletter to {ff 00 00 06}{04 10 00} {ff 00 00 00}\nfor me, {01 00 00 0a 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 0b 00}Mis? {01 00 00 14 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 14 00}{07 1d 00}Oi ei!{01 00 00 14 00} Kus mu\nmõistus on?! Ma unustasin\ntäiesti selle kirja saata!\n{07 16 00}Kirjutasin selle valmis{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00}{07 0c 00}{01 00 00 0a 00}{01 01 00}\n{07 0b 00}Oi, kuule, {01 00 00 05 00}{04 1f 00},{01 00 00 0a 00}\nkas sa teeksid selle ära?\n{07 14 00}Ma tahan, et viiksid selle\nkirja {ff 00 00 06}{04 10 00} {ff 00 00 00}le\nminu eest, {01 00 00 0a 00}{04 02 00}!"
   },
   {
    "id": 2,
    "en": "{07 00 00}Hey, {01 00 00 05 00}{04 1f 00},{01 00 00 0a 00} {07 14 00}you don't\nlook like you're doing\nanything right now. \n{07 00 00}If you're just strolling\naround, {01 00 00 05 00}can you take this\nletter to {ff 00 00 06}{04 10 00}{ff 00 00 00}?",
-   "et": ""
+   "et": "{07 00 00}Hei, {01 00 00 05 00}{04 1f 00},{01 00 00 0a 00} {07 14 00}sa ei näe\nvälja, nagu sa praegu\nmidagi teeksid. \n{07 00 00}Kui sa niisama jalutad,\n{01 00 00 05 00}kas viiksid selle kirja\n{ff 00 00 06}{04 10 00}{ff 00 00 00}le?"
   }
  ]
 }

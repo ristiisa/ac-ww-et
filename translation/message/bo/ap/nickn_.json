@@ -4,32 +4,32 @@
   {
    "id": 0,
    "en": "{07 14 00}Hey, {01 00 00 05 00}{04 1f 00}!{01 00 00 0f 00} {07 0d 00}I thought\nup the perfect nickname\nfor you, {01 00 00 0a 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 14 00}Hei, {01 00 00 05 00}{04 1f 00}!{01 00 00 0f 00} {07 0d 00}Mõtlesin\nsulle välja täiusliku\nhüüdnime, {01 00 00 0a 00}{04 02 00}!"
   },
   {
    "id": 1,
    "en": "{07 16 00}Are you sure?{01 00 00 0a 00} {07 1b 00}I kinda think\n\"{ff 00 00 02}{04 13 00} kid{ff 00 00 00}\"\nfits you perfectly.",
-   "et": ""
+   "et": "{07 16 00}Oled kindel?{01 00 00 0a 00} {07 1b 00}Minu meelest\n„{ff 00 00 02}{04 13 00} poiss{ff 00 00 00}”\nsobib sulle ideaalselt."
   },
   {
    "id": 2,
    "en": "{07 00 00}Yeah!{01 00 00 14 00}{07 0d 00} It's \"{ff 00 00 02}{04 1f 00}{ff 00 00 00}.\"{01 00 00 05 00}\nIsn't it just perfect,\n{01 00 00 05 00}{04 02 00}?",
-   "et": ""
+   "et": "{07 00 00}Jaa!{01 00 00 14 00}{07 0d 00} See on „{ff 00 00 02}{04 1f 00}{ff 00 00 00}”.{01 00 00 05 00}\nKas pole täiuslik,\n{01 00 00 05 00}{04 02 00}?"
   },
   {
    "id": 3,
    "en": "{07 16 00}What?{01 00 00 0a 00} You don't like it?\n\n\n{07 06 00}Then what am I supposed to\ncall you,{01 00 00 05 00} {04 02 00}?",
-   "et": ""
+   "et": "{07 16 00}Mis?{01 00 00 0a 00} Sulle ei meeldi?\n\n\n{07 06 00}Kuidas ma sind siis\nkutsuma pean,{01 00 00 05 00} {04 02 00}?"
   },
   {
    "id": 4,
    "en": "{07 04 00}\"{0b 03 00}{ff 00 00 02}{04 0f 00}{ff 00 00 00},\" huh{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} {07 0b 00}Are\nyou sure about that,\n{01 00 00 0a 00}{04 02 00}?",
-   "et": ""
+   "et": "{07 04 00}„{0b 03 00}{ff 00 00 02}{04 0f 00}{ff 00 00 00}”, jah{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} {07 0b 00}Oled\nsa selles kindel,\n{01 00 00 0a 00}{04 02 00}?"
   },
   {
    "id": 5,
    "en": "{07 14 00}Then from now on, you're\n{ff 00 00 02}{04 1f 00}{ff 00 00 00}.\n\n{07 0a 00}Whoa!{01 00 00 05 00} It sounds even cooler\nwhen I say it out loud,{01 00 00 14 00}\n{ff 00 00 02}{04 1f 00}{ff 00 00 00}!!!",
-   "et": ""
+   "et": "{07 14 00}Siis oled sa nüüdsest\n{ff 00 00 02}{04 1f 00}{ff 00 00 00}.\n\n{07 0a 00}Ohoo!{01 00 00 05 00} Valjusti kõlab see\nveel lahedamalt,{01 00 00 14 00}\n{ff 00 00 02}{04 1f 00}{ff 00 00 00}!!!"
   }
  ]
 }

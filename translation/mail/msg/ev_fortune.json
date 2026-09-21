@@ -4,17 +4,17 @@
   {
    "id": 0,
    "en": "{04 0f 00}\nDreams: {04 10 00}\nLove: {04 11 00}\nHealth: {04 12 00}",
-   "et": ""
+   "et": "{04 0f 00}\nUnistused: {04 10 00}\nArmastus: {04 11 00}\nTervis: {04 12 00}"
   },
   {
    "id": 1,
    "en": "{04 0f 00}\nHead: {04 10 00}\nHeart: {04 11 00}\nBelly: {04 12 00}",
-   "et": ""
+   "et": "{04 0f 00}\nPea: {04 10 00}\nSüda: {04 11 00}\nKõht: {04 12 00}"
   },
   {
    "id": 2,
    "en": "{04 0f 00}\nLife: {04 10 00}\nHopes: {04 11 00}\nKarma: {04 12 00}",
-   "et": ""
+   "et": "{04 0f 00}\nElu: {04 10 00}\nLootused: {04 11 00}\nKarma: {04 12 00}"
   }
  ]
 }

@@ -4,27 +4,27 @@
   {
    "id": 0,
    "en": "{07 16 00}Ooooh.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n\n\nI'm so sad, {01 00 00 05 00}{04 02 00}.",
-   "et": ""
+   "et": "{07 16 00}Ooooh.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n\n\nMa olen nii kurb, {01 00 00 05 00}{04 02 00}."
   },
   {
    "id": 1,
    "en": "{07 16 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}Could we maybe not do\nthis right now?\n\n{07 0f 00}I'm just not in the mood\nfor chatting, {01 00 00 05 00}{04 02 00}.",
-   "et": ""
+   "et": "{07 16 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}Kas me võiksime seda\npraegu mitte teha?\n\n{07 0f 00}Mul pole lihtsalt tuju\nvestelda, {01 00 00 05 00}{04 02 00}."
   },
   {
    "id": 2,
    "en": "{07 16 00}{0b 03 00}{04 1f 00},{01 00 00 0a 00} have you ever\neaten something that makes\nyour stomach feel queasy?\n{01 00 00 0a 00}That's how I feel right now,\nbut I didn't eat anything.\n{07 0f 00}I think I'm just sad.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}",
-   "et": ""
+   "et": "{07 16 00}{0b 03 00}{04 1f 00},{01 00 00 0a 00} kas oled kunagi\nsöönud midagi, mis teeb\nsu kõhu pahaks?\n{01 00 00 0a 00}Nii ma end praegu tunnen,\naga ma ei söönud midagi.\n{07 0f 00}Ma arvan, et olen kurb.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}"
   },
   {
    "id": 3,
    "en": "{07 16 00}Right now{01 00 00 05 00} {07 09 00}is not a good\ntime.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{04 02 00}.",
-   "et": ""
+   "et": "{07 16 00}Praegu{01 00 00 05 00} {07 09 00}pole hea\naeg.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{04 02 00}."
   },
   {
    "id": 4,
    "en": "{07 16 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}Right now, my heart is\nsinking deep into the well\nof sorrow, {01 00 00 05 00}{04 02 00}.\n{07 0f 00}I'm sorry, but would you\nmind leaving me alone for a\nwhile, {01 00 00 05 00}{04 02 00}?",
-   "et": ""
+   "et": "{07 16 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}Praegu vajub mu süda\nsügavale kurbuse\nkaevu, {01 00 00 05 00}{04 02 00}.\n{07 0f 00}Vabandust, aga kas sa\njätaksid mind mõneks ajaks\nrahule, {01 00 00 05 00}{04 02 00}?"
   }
  ]
 }

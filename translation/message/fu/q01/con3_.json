@@ -4,17 +4,17 @@
   {
    "id": 0,
    "en": "{07 00 00}You know, {01 00 00 05 00}{04 1f 00},\n{01 00 00 0f 00}{07 16 00}I still haven't caught that\nstupid bug yet.\n{07 00 00}If you wait just a while\nlonger, I'm sure I can catch\none, {01 00 00 05 00}{04 02 00}.",
-   "et": ""
+   "et": "{07 00 00}Tead, {01 00 00 05 00}{04 1f 00},\n{01 00 00 0f 00}{07 16 00}ma pole seda rumalat\nputukat ikka veel püüdnud.\n{07 00 00}Kui sa ootad veel natuke,\nsiis ma kindlasti püüan\nühe, {01 00 00 05 00}{04 02 00}."
   },
   {
    "id": 1,
    "en": "{07 0e 00}That's strange.{01 00 00 05 00} I didn't\nthink it would be so hard\nto catch a stupid bug.\n{07 14 00}Think you could give me a\nlittle more time to track\none down, {01 00 00 05 00}{04 02 00}?",
-   "et": ""
+   "et": "{07 0e 00}See on veider.{01 00 00 05 00} Ma ei\narvanud, et rumalat putukat\non nii raske püüda.\n{07 14 00}Kas sa võiksid anda mulle\nveel natuke aega, et üks\nüles leida, {01 00 00 05 00}{04 02 00}?"
   },
   {
    "id": 2,
    "en": "{07 00 00}{0b 03 00}{04 1f 00}, {01 00 00 05 00}{07 0b 00}have you\ncaught any worthwhile\nbugs yet?\nMe?{01 00 00 03 00} No, not yet{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 14 00} I'm\nhaving a little trouble.\nBut give me time, OK?",
-   "et": ""
+   "et": "{07 00 00}{0b 03 00}{04 1f 00}, {01 00 00 05 00}{07 0b 00}kas sa oled\njuba mõne väärt putuka\npüüdnud?\nMina?{01 00 00 03 00} Ei, mitte veel{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 14 00} Mul\non pisut raskusi.\nAga anna mulle aega, eks?"
   }
  ]
 }

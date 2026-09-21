@@ -4,117 +4,117 @@
   {
    "id": 0,
    "en": "{07 00 00}Well, now! {0b 03 00}{04 00 00},\ntoday is the day of the big\n{ff 00 00 03}Fishing Tourney{ff 00 00 00}.\n{07 16 00}{01 00 00 05 00}But {01 00 00 05 00}surely you must know\nthat you can't participate\nwithout a{ff 00 00 07} fishing rod{ff 00 00 00}!\n{07 00 00}Go rearrange your pockets{01 00 00 05 00}\nand come talk to me again.",
-   "et": ""
+   "et": "{07 00 00}Noh, nii! {0b 03 00}{04 00 00},\ntäna on suure\n{ff 00 00 03}kalapüügivõistluse{ff 00 00 00} päev.\n{07 16 00}{01 00 00 05 00}Aga {01 00 00 05 00}sa pead ju teadma,\net ilma{ff 00 00 07} õngeta{ff 00 00 00} ei saa\nosaleda!\n{07 00 00}Mine sea oma taskud korda{01 00 00 05 00}\nja tule jälle rääkima."
   },
   {
    "id": 1,
    "en": "{07 00 00}Yes, the day has finally\narrived, {04 00 00}! Today\nis the big {ff 00 00 03}Fishing Tourney{ff 00 00 00}!\n{07 16 00}{01 00 00 05 00}But {01 00 00 05 00}I must advise you that\nfishing is more productive\nwith the right tools{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 00 00}If you don't mind using my\nhand-me-downs, you can\nhave my old {ff 00 00 07}fishing rod{ff 00 00 00}!\n{07 14 00}{01 00 00 0a 00}Go on,{01 00 00 05 00} take it!{01 00 00 0f 00} Someday,\nsprout, you'll realize life\nis all about give and take.",
-   "et": ""
+   "et": "{07 00 00}Jah, päev on lõpuks\nkäes, {04 00 00}! Täna\non suur {ff 00 00 03}kalapüügivõistlus{ff 00 00 00}!\n{07 16 00}{01 00 00 05 00}Aga {01 00 00 05 00}pean sind hoiatama, et\nkalapüük on tulusam\nõigete tööriistadega{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 00 00}Kui sa ei pahanda minu\nvana kraami, võid saada\nmu vana {ff 00 00 07}õnge{ff 00 00 00}!\n{07 14 00}{01 00 00 0a 00}Võta aga,{01 00 00 05 00} võta!{01 00 00 0f 00} Kunagi,\nvõsuke, saad aru, et elu on\nandmine ja võtmine."
   },
   {
    "id": 2,
    "en": "{07 00 00}Sorry, {04 00 00},{01 00 00 0a 00} but\ntoday's {ff 00 00 03}Fishing Tourney {ff 00 00 00}has\nended!\nI'll post the results on the\ntown {ff 00 00 08}bulletin board{ff 00 00 00},{01 00 00 05 00}\nso go take a look.\n{07 14 00}{01 00 00 0a 00}Doesn't that make you{01 00 00 0a 00} giddy\nwith excitement?{07 03 00}{01 00 00 0f 00} I just love\nbeing the {ff 00 00 06}mayor{ff 00 00 00}!",
-   "et": ""
+   "et": "{07 00 00}Vabandust, {04 00 00},{01 00 00 0a 00} aga\ntänane {ff 00 00 03}kalapüügivõistlus {ff 00 00 00}on\nlõppenud!\nPanen tulemused linna\n{ff 00 00 08}teadetetahvlile{ff 00 00 00},{01 00 00 05 00}\nnii et mine vaata.\n{07 14 00}{01 00 00 0a 00}Kas see ei tee sind{01 00 00 0a 00} elevil\nja õnnelikuks?{07 03 00}{01 00 00 0f 00} Mulle lihtsalt\nmeeldib {ff 00 00 06}linnapea{ff 00 00 00} olla!"
   },
   {
    "id": 3,
    "en": "{07 0a 00}{01 00 00 05 00}Fishing time!{01 00 00 0a 00} Grab your\nrods!{01 00 00 0f 00} Today is {04 03 00}'s\n{ff 00 00 03}Fishing Tourney{ff 00 00 00}!\n{07 00 00}Hey, {04 00 00},{07 0b 00}{01 00 00 0a 00} would you\nlike me to tell you about{01 00 00 05 00}\nthe {ff 00 00 03}Fishing Tourney{ff 00 00 00}?{02 04 00 06 05}\nTell me!\nNo, thanks!",
-   "et": ""
+   "et": "{07 0a 00}{01 00 00 05 00}Kalapüügiaeg!{01 00 00 0a 00} Haarake\nõnged!{01 00 00 0f 00} Täna on {04 03 00}\n{ff 00 00 03}kalapüügivõistlus{ff 00 00 00}!\n{07 00 00}Hei, {04 00 00},{07 0b 00}{01 00 00 0a 00} kas sa\ntahad, et räägin sulle{01 00 00 05 00}\n{ff 00 00 03}kalapüügivõistlusest{ff 00 00 00}?{02 04 00 06 05}\nRäägi!\nEi, aitäh!"
   },
   {
    "id": 4,
    "en": "{07 00 00}Say, {04 00 00},{01 00 00 0f 00} do you\nwant to hear about the\n{ff 00 00 03}Fishing Tourney{ff 00 00 00}?{02 04 00 06 05}\nTell me!\nNo, thanks.",
-   "et": ""
+   "et": "{07 00 00}Kuule, {04 00 00},{01 00 00 0f 00} kas sa\ntahad kuulda\n{ff 00 00 03}kalapüügivõistlusest{ff 00 00 00}?{02 04 00 06 05}\nRäägi!\nEi, aitäh."
   },
   {
    "id": 5,
    "en": "{07 03 00}{01 00 00 0a 00}I see, I see.{01 00 00 0f 00} So,\n{04 00 00}, you've{01 00 00 05 00} already\nheard all about it?\n{07 14 00}{01 00 00 05 00}Well then, what are you\nwaiting for! Get out there!{01 01 00}\n{07 0f 00}{01 00 00 0a 00}Ack, {01 00 00 0a 00}my poor, aching back!",
-   "et": ""
+   "et": "{07 03 00}{01 00 00 0a 00}Selge, selge.{01 00 00 0f 00} Nii et,\n{04 00 00}, sa oled{01 00 00 05 00} juba\nkõike kuulnud?\n{07 14 00}{01 00 00 05 00}Noh, mida sa siis ootad!\nMine juba välja!{01 01 00}\n{07 0f 00}{01 00 00 0a 00}Ahh, {01 00 00 0a 00}mu vaene valutav selg!"
   },
   {
    "id": 6,
    "en": "{07 00 00}The {ff 00 00 03}Fishing Tourney{ff 00 00 00},{01 00 00 05 00} as the\nname suggests, is a contest\nwhere you fish.\nWhoever catches the {ff 00 00 02}biggest\nfish{ff 00 00 00} by 6 p.m. {01 00 00 05 00}wins!\n\nSo get out there, and if\nyou catch one, {01 00 00 05 00}come here\nand show it to me!{01 00 00 0f 00}\nI'll measure it for you.{01 01 00}\nWant to hear more?{02 04 00 07 05}\nTell me!\nNo, thanks.",
-   "et": ""
+   "et": "{07 00 00}{ff 00 00 03}Kalapüügivõistlus{ff 00 00 00},{01 00 00 05 00} nagu\nnimi ütleb, on võistlus,\nkus püütakse kala.\nKes püüab kella 18-ks\n{ff 00 00 02}suurima kala{ff 00 00 00}, {01 00 00 05 00}võidab!\n\nNii et mine välja ja kui\nühe püüad, {01 00 00 05 00}tule siia\nja näita seda mulle!{01 00 00 0f 00}\nMa mõõdan selle ära.{01 01 00}\nTahad rohkem kuulda?{02 04 00 07 05}\nRäägi!\nEi, aitäh."
   },
   {
    "id": 7,
    "en": "{07 00 00}Oh, and{01 00 00 05 00} even if you don't\nwin, if the fish you turn in{01 00 00 05 00}\nbeats your personal best,\n{07 14 00}{01 00 00 0a 00}I'll present you with a\nprize that'll make the\nyoung'uns squeal with glee.\n{07 00 00}You're{01 00 00 0f 00} getting excited,\naren't you?{01 00 00 0f 00} Was that a {01 00 00 0a 00}\nsqueal I heard? {01 00 00 0f 00}But anyway.\nKeep your eye on the prize\nwhen you're out there\nfishing! Use it to focus!\nHowever,{07 11 00}{01 00 00 0f 00} remember that\nonce you turn a fish in,\nit's mine!\n{07 03 00}{01 00 00 05 00}Even the {ff 00 00 06}mayor{ff 00 00 00} needs \nsomething to sweeten the\ndeal!",
-   "et": ""
+   "et": "{07 00 00}Oh, ja{01 00 00 05 00} isegi kui sa ei\nvõida, kui su toodud kala{01 00 00 05 00}\nületab sinu enda rekordi,\n{07 14 00}{01 00 00 0a 00}annan sulle auhinna, mis\npaneb noorukid rõõmust\nkiljuma.\n{07 00 00}Sa{01 00 00 0f 00} lähed elevile,\nkas pole?{01 00 00 0f 00} Kas see oli {01 00 00 0a 00}\nkiljatus? {01 00 00 0f 00}Aga igatahes.\nHoia auhinnal silm peal,\nkui seal väljas kalastad!\nKasuta seda keskendumiseks!\nAga,{07 11 00}{01 00 00 0f 00} pea meeles, et\nkui sa kala ära annad,\non see minu!\n{07 03 00}{01 00 00 05 00}Isegi {ff 00 00 06}linnapea{ff 00 00 00} vajab \nmidagi, mis tehingut\nmagusamaks teeb!"
   },
   {
    "id": 8,
    "en": "{07 14 00}{01 00 00 0a 00}Oh, {01 00 00 05 00}{04 00 00}!{01 00 00 0f 00} I hope you\nbrought me something\nwonderful!{01 00 00 0f 00} Did you?{02 04 00 0b 00}\nI caught one!\nUh, no.",
-   "et": ""
+   "et": "{07 14 00}{01 00 00 0a 00}Oh, {01 00 00 05 00}{04 00 00}!{01 00 00 0f 00} Loodan, et\nsa tõid mulle midagi\nimelist!{01 00 00 0f 00} Kas tõid?{02 04 00 0b 00}\nPüüdsin ühe!\nEe, ei."
   },
   {
    "id": 9,
    "en": "{07 16 00}{01 00 00 0a 00}What's this?{01 00 00 05 00} Don't worry,\nsprout! {07 00 00}Your record of{01 00 00 05 00}\n{ff 00 00 02}{04 0f 00} inches{ff 00 00 00} still stands!\n{07 14 00}{01 00 00 0a 00}Relax and go another round\nwith those fish!{01 00 00 05 00} Go get 'em,\ntiger!",
-   "et": ""
+   "et": "{07 16 00}{01 00 00 0a 00}Mis see on?{01 00 00 05 00} Ära muretse,\nvõsuke! {07 00 00}Sinu rekord{01 00 00 05 00}\n{ff 00 00 02}{04 0f 00} tolli{ff 00 00 00} püsib ikka!\n{07 14 00}{01 00 00 0a 00}Lõõgastu ja mine kaladega\nuus ring!{01 00 00 05 00} Mine võta,\ntiiger!"
   },
   {
    "id": 10,
    "en": "{07 16 00}Checking out the\ncompetition?{01 00 00 0f 00} A fine\nstrategy, sprout.\n{07 00 00}Well, the current record\nis {04 1b 00}\nthat's {ff 00 00 02}{04 0f 00} inches{ff 00 00 00}.\nIt belongs to {04 10 00}. {07 03 00}\nHeh{01 00 00 05 00} heh{01 00 00 0f 00} hoorf! {01 00 00 05 00}Yes, talk\nabout a fierce competitor!",
-   "et": ""
+   "et": "{07 16 00}Uurid konkurentsi?{01 00 00 0f 00} Hea\nstrateegia,\nvõsuke.\n{07 00 00}Noh, praegune rekord\non {04 1b 00},\nmis on {ff 00 00 02}{04 0f 00} tolli{ff 00 00 00}.\nSee kuulub {04 10 00}-le. {07 03 00}\nHeh{01 00 00 05 00} heh{01 00 00 0f 00} hoorf! {01 00 00 05 00}Jah, räägi\nsa tulisest võistlejast!"
   },
   {
    "id": 11,
    "en": "{07 00 00}Well then, {04 00 00},{01 00 00 05 00} let's\nsee how it measures up.{01 00 00 0f 00}\nHand it over.",
-   "et": ""
+   "et": "{07 00 00}Noh siis, {04 00 00},{01 00 00 05 00} vaatame,\nkuidas see mõõtu annab.{01 00 00 0f 00}\nAnna siia."
   },
   {
    "id": 12,
    "en": "{07 15 00}{01 00 00 0a 00}I only want fish!{01 01 00} {07 03 00}{01 00 00 0a 00}Why?! {01 00 00 0a 00}I'm\nthe {ff 00 00 06}mayor{ff 00 00 00}, that's why! {01 00 00 0a 00}Oh, I\njust love saying that!",
-   "et": ""
+   "et": "{07 15 00}{01 00 00 0a 00}Tahan ainult kala!{01 01 00} {07 03 00}{01 00 00 0a 00}Miks?! {01 00 00 0a 00}Ma\nolen {ff 00 00 06}linnapea{ff 00 00 00}, sest!{01 00 00 0a 00} Oh,\nmulle meeldib seda öelda!"
   },
   {
    "id": 13,
    "en": "{07 14 00}{01 00 00 0a 00}Ah!{01 00 00 05 00} {0b 03 00}{04 1c 00}!{01 01 00}\n{07 0e 00}Let's just take a look at\nwhat we've got here.\nHm.{01 00 00 05 00}.{01 00 00 05 00}.{01 01 00} {07 14 00}Yes, {ff 00 00 02}{04 13 00} inches{ff 00 00 00},{01 00 00 05 00}\ngive or take a bit.",
-   "et": ""
+   "et": "{07 14 00}{01 00 00 0a 00}Ah!{01 00 00 05 00} {0b 03 00}{04 1c 00}!{01 01 00}\n{07 0e 00}Vaatame lihtsalt, mis\nmeil siin on.\nHm.{01 00 00 05 00}.{01 00 00 05 00}.{01 01 00} {07 14 00}Jah, {ff 00 00 02}{04 13 00} tolli{ff 00 00 00},{01 00 00 05 00}\nvähem või rohkem."
   },
   {
    "id": 14,
    "en": "{07 03 00}{01 00 00 0a 00}Ha{01 00 00 05 00} heh{01 00 00 05 00} hoorf!{01 00 00 0f 00} Too bad,{01 00 00 05 00}\n{04 00 00}! Better luck\nnext time!\n{07 00 00}{0b 03 00}{04 10 00} already caught\n{04 1b 00}\nthat was {ff 00 00 02}{04 0f 00} inches{ff 00 00 00}.",
-   "et": ""
+   "et": "{07 03 00}{01 00 00 0a 00}Ha{01 00 00 05 00} heh{01 00 00 05 00} hoorf!{01 00 00 0f 00} Kahju,{01 00 00 05 00}\n{04 00 00}! Järgmine kord\nveab rohkem!\n{07 00 00}{0b 03 00}{04 10 00} püüdis juba\n{04 1b 00},\nmis oli {ff 00 00 02}{04 0f 00} tolli{ff 00 00 00}."
   },
   {
    "id": 15,
    "en": "{07 14 00}{01 00 00 0a 00}Well,{01 00 00 05 00} don't give up!\nYou can do it, {04 00 00}!{01 00 00 0f 00}\nAnd I'll be waiting!",
-   "et": ""
+   "et": "{07 14 00}{01 00 00 0a 00}Noh,{01 00 00 05 00} ära anna alla!\nSa suudad seda, {04 00 00}!{01 00 00 0f 00}\nJa ma ootan!"
   },
   {
    "id": 16,
    "en": "{07 14 00}{01 00 00 0a 00}What's this!{01 00 00 0f 00} My goodness!\n{07 1a 00}{01 00 00 0a 00}It's a new record!{01 00 00 0a 00} We have a\nnew record!",
-   "et": ""
+   "et": "{07 14 00}{01 00 00 0a 00}Mis see on!{01 00 00 0f 00} Jumaluke!\n{07 1a 00}{01 00 00 0a 00}See on uus rekord!{01 00 00 0a 00} Meil on\nuus rekord!"
   },
   {
    "id": 17,
    "en": "{07 00 00}The previous record for\nyour {ff 00 00 02}{04 0f 00}-inch{ff 00 00 00}{01 00 00 05 00}\n{0b 02 00}{04 1b 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n{07 03 00}{01 00 00 0a 00}has been broken by you! {01 01 00}It's\n{07 0d 00}{01 00 00 05 00}a feast fit for.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}a {ff 00 00 06}mayor{ff 00 00 00}!{01 00 00 0f 00}\nHeh heh hoorf!",
-   "et": ""
+   "et": "{07 00 00}Eelmine rekord sinu\n{ff 00 00 02}{04 0f 00}-tollise{ff 00 00 00}{01 00 00 05 00}\n{0b 02 00}{04 1b 00} kohta{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 03 00}{01 00 00 0a 00}sina purustasid!{01 01 00} See on\n{07 0d 00}{01 00 00 05 00}pidusöök{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{ff 00 00 06}linnapeale{ff 00 00 00}!{01 00 00 0f 00}\nHeh heh hoorf!"
   },
   {
    "id": 18,
    "en": "{07 00 00}The record {ff 00 00 02}{04 0f 00} inches \n{ff 00 00 00}set with {04 10 00}'s{01 00 00 05 00}\n{0b 02 00}{04 1b 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n{07 14 00}{01 00 00 0a 00}has been broken with this\nbeast! You're certainly one\nto watch out for!\n{07 0d 00}{01 00 00 0a 00}My heartiest\ncongratulations are in\norder, {01 00 00 05 00}{04 00 00}!",
-   "et": ""
+   "et": "{07 00 00}Rekord {ff 00 00 02}{04 0f 00} tolli \n{ff 00 00 00}, mille seadis {04 10 00}{01 00 00 05 00}\n{0b 02 00}{04 1b 00}-ga{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 14 00}{01 00 00 0a 00}on selle koletisega\npurustatud! Sinuga tuleb\nkindlasti arvestada!\n{07 0d 00}{01 00 00 0a 00}Minu kõige südamlikumad\nõnnitlused,\n{01 00 00 05 00}{04 00 00}!"
   },
   {
    "id": 19,
    "en": "{07 14 00}{01 00 00 0a 00}All righty then, {01 00 00 05 00}I suppose\nI'll be having this for\ndinner tonight!\n{07 00 00}But before I fire up the\ngrill, {01 00 00 05 00}I should give you your\nprize, shouldn't I?",
-   "et": ""
+   "et": "{07 14 00}{01 00 00 0a 00}Hästi siis, {01 00 00 05 00}vist söön\nselle täna õhtul\nõhtusöögiks!\n{07 00 00}Aga enne kui grilli\nsüütan, {01 00 00 05 00}peaksin sulle\nauhinna andma, kas pole?"
   },
   {
    "id": 20,
    "en": "{07 14 00}{01 00 00 0a 00}Now, gaze upon this lovely\n{0b 02 00}{04 1a 00} and{01 00 00 05 00}\nbreak that record again!\n{07 19 00}{01 00 00 0a 00}I think you'll be a fierce\ncontender in the {ff 00 00 03}Fishing\nTourneys{ff 00 00 00} to come.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n{07 00 00}Though, in the end, {07 03 00}{01 00 00 0a 00}I'm the\none who wins! Heh{01 00 00 05 00} heh {01 00 00 05 00}horf!",
-   "et": ""
+   "et": "{07 14 00}{01 00 00 0a 00}Nüüd vaata seda võrratut\n{0b 02 00}{04 1a 00} ja{01 00 00 05 00}\npurusta see rekord uuesti!\n{07 19 00}{01 00 00 0a 00}Arvan, et sinust saab tuline\nvõistleja tulevastel\n{ff 00 00 03}kalapüügivõistlustel{ff 00 00 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 00 00}Kuigi lõpuks {07 03 00}{01 00 00 0a 00}võidan\nikka mina! Heh{01 00 00 05 00} heh {01 00 00 05 00}horf!"
   },
   {
    "id": 21,
    "en": "{07 14 00}{01 00 00 0a 00}{0b 03 00}{04 1a 00} to\ninspire you to keep\nbreaking those records.{01 00 00 05 00}\n{07 00 00}{0b 03 00}{04 1a 00},\n{04 00 00}, and me.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0f 00}\n\n{07 14 00}{01 00 00 0a 00}Together, we're virtually\nunstoppable!{07 03 00}{01 00 00 0f 00} Heh {01 00 00 05 00}heh {01 00 00 05 00}\nhroorf!",
-   "et": ""
+   "et": "{07 14 00}{01 00 00 0a 00}{0b 03 00}{04 1a 00}, mis\ninspireeriks sind rekordeid\npurustama.{01 00 00 05 00}\n{07 00 00}{0b 03 00}{04 1a 00},\n{04 00 00} ja mina.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0f 00}\n\n{07 14 00}{01 00 00 0a 00}Koos oleme praktiliselt\npeatamatud!{07 03 00}{01 00 00 0f 00} Heh {01 00 00 05 00}heh {01 00 00 05 00}\nhroorf!"
   },
   {
    "id": 22,
    "en": "{07 03 00}{01 00 00 0a 00}Heh{01 00 00 05 00} heh {01 00 00 05 00}heh!{01 00 00 0f 00} Too bad,{01 00 00 05 00}\n{04 00 00}, too bad! {01 00 00 05 00}A\ntragedy, really!\n{07 00 00}The {ff 00 00 02}{04 0f 00}-inch\n{ff 00 00 00}{0b 02 00}{04 1b 00}\nis still the record holder!",
-   "et": ""
+   "et": "{07 03 00}{01 00 00 0a 00}Heh{01 00 00 05 00} heh {01 00 00 05 00}heh!{01 00 00 0f 00} Kahju,{01 00 00 05 00}\n{04 00 00}, kahju! {01 00 00 05 00}Tõeline\ntragöödia!\n{07 00 00}{ff 00 00 02}{04 0f 00}-tolline\n{ff 00 00 00}{0b 02 00}{04 1b 00}\non ikka rekordiomanik!"
   }
  ]
 }

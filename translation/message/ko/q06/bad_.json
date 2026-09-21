@@ -4,17 +4,17 @@
   {
    "id": 0,
    "en": "{07 02 00}What?!{01 00 00 0f 00} Are you serious,\n{04 02 00}{01 00 00 05 00}?!\n\n{07 0f 00}I was sure {ff 00 00 06}{04 10 00}{ff 00 00 00}{01 00 00 05 00}\nwas into this stuff{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.",
-   "et": ""
+   "et": "{07 02 00}Mida?!{01 00 00 0f 00} Kas sa oled tõsine,\n{04 02 00}{01 00 00 05 00}?!\n\n{07 0f 00}Ma olin kindel, et {ff 00 00 06}{04 10 00}{ff 00 00 00}{01 00 00 05 00}\non sellise kraami lainel{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}."
   },
   {
    "id": 1,
    "en": "{07 02 00}What?!{01 00 00 05 00} I shoulda figured\nthat kid would let me down!\n\n{07 00 00}You people don't understand\nthe value of anything{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 01 00}\n{07 15 00}I shoulda kept it!",
-   "et": ""
+   "et": "{07 02 00}Mida?!{01 00 00 05 00} Võinuks aimata,\net see laps mind alt veab!\n\n{07 00 00}Teie ei mõista millegi\nväärtust{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 01 00}\n{07 15 00}Oleksin pidanud jätma!"
   },
   {
    "id": 2,
    "en": "{07 02 00}What?{01 00 00 05 00} You have GOT to be\nkidding me!{01 00 00 0f 00} {0b 03 00}{01 00 00 05 00}{04 02 00}?!\n\n.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 00 00}That kid really knows\nhow to chap my hide,\n{01 00 00 05 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 02 00}Mida?{01 00 00 05 00} Sa pead nalja\ntegema!{01 00 00 0f 00} {0b 03 00}{01 00 00 05 00}{04 02 00}?!\n\n.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 00 00}See laps oskab küll\nmind marru ajada,\n{01 00 00 05 00}{04 02 00}!"
   }
  ]
 }

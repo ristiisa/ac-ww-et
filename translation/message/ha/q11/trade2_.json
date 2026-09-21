@@ -4,17 +4,17 @@
   {
    "id": 0,
    "en": "{07 00 00}OK then, {01 00 00 05 00}grab hold of what\nyou want!",
-   "et": ""
+   "et": "{07 00 00}Olgu siis, {01 00 00 05 00}haara see, mida\ntahad!"
   },
   {
    "id": 1,
    "en": "{07 14 00}Sweet, all you got to do\nnow is touch whatever you\nwant, {01 00 00 05 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 14 00}Vinge, nüüd pead ainult\npuudutama seda, mida\ntahad, {01 00 00 05 00}{04 02 00}!"
   },
   {
    "id": 2,
    "en": "{07 16 00}Well, don't just stand\nthere! {01 00 00 05 00}Grab whatever you're\ninto, {04 02 00}!",
-   "et": ""
+   "et": "{07 16 00}Noh, ära lihtsalt seisa\nseal! {01 00 00 05 00}Haara, mis sulle\nmeeldib, {04 02 00}!"
   }
  ]
 }

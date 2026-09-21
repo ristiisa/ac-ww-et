@@ -4,17 +4,17 @@
   {
    "id": 0,
    "en": "{07 14 00}Thanks for doing that!{01 00 00 14 00}\n{07 15 00}And don't you dare open it,\n{01 00 00 05 00}{04 02 00}! {01 00 00 05 00}Ya hear me?!",
-   "et": ""
+   "et": "{07 14 00}Aitäh, et seda teed!{01 00 00 14 00}\n{07 15 00}Ja ära julgegi seda avada,\n{01 00 00 05 00}{04 02 00}! {01 00 00 05 00}Kuuled mind?!"
   },
   {
    "id": 1,
    "en": "{07 15 00}{01 00 00 14 00}For your own safety, you'd\nbetter not even think of \nopening that, {01 00 00 05 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 15 00}{01 00 00 14 00}Omaenda ohutuse nimel ära\nisegi mõtle selle \navamisele, {01 00 00 05 00}{04 02 00}!"
   },
   {
    "id": 2,
    "en": "{07 15 00}Listen up, kid.{01 00 00 05 00} Don't get\nany wise ideas about\nopening that letter.\n{07 11 00}I'll find out. And when I\ndo,{01 00 00 05 00} I'll break you{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0f 00}\n{07 00 00}Got that, {01 00 00 05 00}{04 02 00}?!",
-   "et": ""
+   "et": "{07 15 00}Kuula, poiss.{01 00 00 05 00} Ära mõtlegi\nselle kirja avamisele\nmingeid tarku mõtteid.\n{07 11 00}Ma saan teada. Ja kui saan,\n{01 00 00 05 00}murran ma su{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0f 00}\n{07 00 00}Said aru, {01 00 00 05 00}{04 02 00}?!"
   }
  ]
 }

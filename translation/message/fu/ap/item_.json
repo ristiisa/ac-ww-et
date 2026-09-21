@@ -4,187 +4,187 @@
   {
    "id": 0,
    "en": "{07 00 00}{0b 03 00}{01 06 00}Excuse me{01 07 00}!\n{0b 03 00}{04 1f 00}... I hope this\ndoesn't sound weird, but...\n{07 14 00}Thanks for being my friend.\nYou're always there for me,\nand I think that's great.\n{07 00 00}I don't know what came over\nme, but {07 16 00}when I saw you, I\njust had to tell you!\n{07 0a 00}Hee hee hee! I hope you\ndon't mind, {01 00 00 05 00}{04 02 00}!{03 01 00 01}",
-   "et": ""
+   "et": "{07 00 00}{0b 03 00}{01 06 00}Vabanda{01 07 00}!\n{0b 03 00}{04 1f 00}... Loodan, et see\nei kõla veidralt, aga...\n{07 14 00}Aitäh, et oled mu sõber.\nSa oled alati minu jaoks\nolemas ja see on tore.\n{07 00 00}Ma ei tea, mis mulle peale\ntuli, aga {07 16 00}kui ma sind nägin,\npidin ma sulle seda ütlema!\n{07 0a 00}Hii hii hii! Loodan, et sa\nei pahanda, {01 00 00 05 00}{04 02 00}!{03 01 00 01}"
   },
   {
    "id": 1,
    "en": "{07 00 00}{0b 03 00}{01 06 00}Whoa, hey there{01 07 00}!{01 00 00 0f 00}\nI had a question for you,\n{04 1f 00}.\n{07 0b 00}Do you still have that\n{ff 00 00 07}picture{ff 00 00 00} I gave you?{02 00 00 0a 0b}\nOf course!\nI...lost it!",
-   "et": ""
+   "et": "{07 00 00}{0b 03 00}{01 06 00}Ohoo, tere seal{01 07 00}!{01 00 00 0f 00}\nMul oli sulle küsimus,\n{04 1f 00}.\n{07 0b 00}Kas sul on veel see\n{ff 00 00 07}pilt{ff 00 00 00}, mille ma andsin?{02 00 00 0a 0b}\nMuidugi!\nMa...kaotasin selle!"
   },
   {
    "id": 2,
    "en": "{07 00 00}{0b 03 00}{04 1f 00},{01 00 00 0f 00} I have a\nspecial gift for a very\nspecial person{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} You!\nYou're the best friend I've\ngot here in {04 03 00}, so\nI want to give you this.\n{07 14 00}It's a {ff 00 00 07}picture of me{ff 00 00 00}!{01 00 00 0f 00}\n{06 00 00 0c 0d}",
-   "et": ""
+   "et": "{07 00 00}{0b 03 00}{04 1f 00},{01 00 00 0f 00} mul on eriline\nkingitus väga erilisele\ninimesele{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} Sulle!\nSa oled parim sõber, kes\nsiin {04 03 00}-s on, nii et\nma tahan sulle seda anda.\n{07 14 00}See on {ff 00 00 07}pilt minust{ff 00 00 00}!{01 00 00 0f 00}\n{06 00 00 0c 0d}"
   },
   {
    "id": 3,
    "en": "{07 00 00}{0b 03 00}{01 06 00}Ah, hello{01 07 00}!\n{0b 03 00}{04 1f 00}! Have I told\nyou how much I like you?\nBecause I really do, you\nknow? In fact, I want you\nto have a little gift.\n{07 16 00}It's nothing much. Just a\n{ff 00 00 07}picture of me{ff 00 00 00}, {01 00 00 05 00}{04 02 00},{01 00 00 0f 00}\n{07 14 00}but I hope you like it!\n{06 00 00 0c 0d}",
-   "et": ""
+   "et": "{07 00 00}{0b 03 00}{01 06 00}Ah, tere{01 07 00}!\n{0b 03 00}{04 1f 00}! Kas ma olen sulle\nöelnud, kui väga sa meeldid?\nSest tõesti meeldid, tead?\nTegelikult tahan, et sul\noleks väike kingitus.\n{07 16 00}Pole midagi erilist. Lihtsalt\n{ff 00 00 07}pilt minust{ff 00 00 00}, {01 00 00 05 00}{04 02 00},{01 00 00 0f 00}\n{07 14 00}aga loodan, et meeldib!\n{06 00 00 0c 0d}"
   },
   {
    "id": 4,
    "en": "{07 14 00}{0b 03 00}{04 1f 00}, {01 00 00 0f 00}I want you to\nhave this little token\nof my apprecia--\n{07 04 00}Hey!{01 00 00 0a 00} Your pockets are full!{01 01 00}\n{07 0f 00}Well, never mind. Maybe\nsome other time{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.",
-   "et": ""
+   "et": "{07 14 00}{0b 03 00}{04 1f 00}, {01 00 00 0f 00}ma tahan, et sul\noleks see väike tänumärk\nminu poo--\n{07 04 00}Hei!{01 00 00 0a 00} Su taskud on täis!{01 01 00}\n{07 0f 00}Noh, pole tähtis. Ehk\nmõni teine kord{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}."
   },
   {
    "id": 5,
    "en": "{07 00 00}{0b 03 00}{01 06 00}Heya{01 07 00}!{01 00 00 0f 00}\nHere, I've got something\nI wanted to give you.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n{07 04 00}Wait a minute!{01 00 00 0a 00} Your hands\nare full!{01 00 00 0f 00}{07 16 00} I guess I can't\ngive you anything at all.",
-   "et": ""
+   "et": "{07 00 00}{0b 03 00}{01 06 00}Terekest{01 07 00}!{01 00 00 0f 00}\nSäh, mul on midagi,\nmida tahtsin sulle anda.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n{07 04 00}Oota hetk!{01 00 00 0a 00} Su käed on\ntäis!{01 00 00 0f 00}{07 16 00} Vist ei saa ma\nsulle midagi anda."
   },
   {
    "id": 6,
    "en": "{07 00 00}{0b 03 00}{01 06 00}What's up{01 07 00}?{01 00 00 0f 00}\nYou got a second? I wanted\nto try something on you.\n{07 14 00}See, I was reading this\nfashion magazine, and they\nhad a personality quiz.\nAnd at the end, they'd tell\nyou what celebrity you were\nmost like, {01 00 00 05 00}{04 02 00}.\nSo, I made my own quiz,\nusing {04 03 00}'s local\ncelebrities! Wanna take it?{02 00 00 0e 0f}\nSure!\nNah.",
-   "et": ""
+   "et": "{07 00 00}{0b 03 00}{01 06 00}Mis toimub{01 07 00}?{01 00 00 0f 00}\nKas sul on hetk? Ma tahtsin\nmidagi sinu peal proovida.\n{07 14 00}Näed, ma lugesin üht\nmoeajakirja ja seal oli\nisiksusetest.\nJa lõpus ütlesid nad,\nmillise kuulsusega sa kõige\nrohkem sarnaned, {01 00 00 05 00}{04 02 00}.\nNii et ma tegin oma testi\n{04 03 00} kohalike\nkuulsustega! Tahad teha?{02 00 00 0e 0f}\nMuidugi!\nEi."
   },
   {
    "id": 7,
    "en": "{07 00 00}{0b 03 00}{01 06 00}Hey there{01 07 00}!\n{0b 03 00}{04 1f 00}!{01 00 00 0f 00} Have you read\n\"{ff 00 00 02}Staplers: A Brief History{ff 00 00 00}\"?\nI'm right in the middle\nof it, {01 00 00 05 00}{04 02 00}.{02 00 00 08 09}\nIsn't it good?\nWhat's that?",
-   "et": ""
+   "et": "{07 00 00}{0b 03 00}{01 06 00}Tere seal{01 07 00}!\n{0b 03 00}{04 1f 00}!{01 00 00 0f 00} Kas sa lugesid\n„{ff 00 00 02}Klambrid: lühiajalugu{ff 00 00 00}”?\nMa olen sellega poole\npeal, {01 00 00 05 00}{04 02 00}.{02 00 00 08 09}\nKas pole hea?\nMis see on?"
   },
   {
    "id": 8,
    "en": "{07 04 00}Oh!{01 00 00 0f 00} You've read it,\ntoo, {04 1f 00}?\n\n{07 14 00}I had no idea we had so\nmuch in common. {01 00 00 0f 00}{07 0a 00}It's like\nwe share the same brain!{03 01 00 01}",
-   "et": ""
+   "et": "{07 04 00}Oh!{01 00 00 0f 00} Sa oled seda ka\nlugenud, {04 1f 00}?\n\n{07 14 00}Mul polnud aimugi, et meil\non nii palju ühist. {01 00 00 0f 00}{07 0a 00}Nagu\njagaksime sama aju!{03 01 00 01}"
   },
   {
    "id": 9,
    "en": "{07 00 00}{0b 03 00}{04 0e 00} recommended it\nto me, and I thought it'd\nbe interesting...\nBut I just can't get into\nit. {01 00 00 0a 00}{07 16 00}I fell asleep reading\nit last night!\n{07 00 00}Is that normal? {0b 03 00}{04 0e 00}\nthought it was OK. {01 00 00 0a 00}{07 0f 00}Am I\nweird for not liking it?{03 03 00 01}",
-   "et": ""
+   "et": "{07 00 00}{0b 03 00}{04 0e 00} soovitas seda\nmulle ja ma arvasin, et\nsee on huvitav...\nAga ma lihtsalt ei suuda\nsellesse süveneda. {01 00 00 0a 00}{07 16 00}Jäin eile\nseda lugedes magama!\n{07 00 00}Kas see on normaalne? {0b 03 00}\n{04 0e 00} arvas: hea. {01 00 00 0a 00}{07 0f 00}Kas ma\nolen veider, et ei meeldi?{03 03 00 01}"
   },
   {
    "id": 10,
    "en": "{07 14 00}Hee hee! I knew you'd take\ncare of it, {04 1f 00}!\nI'm glad I gave it to you.\n{07 0d 00}It's like I gave you a little\npiece of my heart, and\nyou kept it safe and warm!{03 01 00 01}",
-   "et": ""
+   "et": "{07 14 00}Hii hii! Ma teadsin,\net hoiad seda, {04 1f 00}!\nMul on hea meel, et andsin.\n{07 0d 00}Nagu oleksin sulle andnud\nväikese tüki oma südamest\nja sa hoidsid seda soojas!{03 01 00 01}"
   },
   {
    "id": 11,
    "en": "{07 00 00}You {01 00 00 0a 00}{07 02 00}WHAT!?\n\n\n{07 08 00}{0b 03 00}{04 1f 00}, how could you?\nThat picture meant a lot\nto me, {01 00 00 05 00}{04 02 00}!\nThe only reason I gave it\nto you is because I thought\nyou and I were friends!\n{07 15 00}You'd better go right home\nand find it, {01 00 00 05 00}{04 02 00},\nor I'll never forgive you!{03 02 00 01}",
-   "et": ""
+   "et": "{07 00 00}Sa {01 00 00 0a 00}{07 02 00}MIDA!?\n\n\n{07 08 00}{0b 03 00}{04 1f 00}, kuidas sa võisid?\nSee pilt tähendas mulle\npalju, {01 00 00 05 00}{04 02 00}!\nAinus põhjus, miks ma selle\nsulle andsin, on see, et ma\narvasin, et oleme sõbrad!\n{07 15 00}Sa parem mine kohe koju\nja leia see, {01 00 00 05 00}{04 02 00},\nvõi ma ei andesta sulle!{03 02 00 01}"
   },
   {
    "id": 12,
    "en": "{07 06 00}I can't believe I finally\ngot up the nerve to give\nit to you, {01 00 00 05 00}{04 02 00}.\n{07 14 00}But I meant what I said,{01 00 00 05 00} so\nI hope you take good care\nof it.{01 00 00 05 00} Don't go losing it!",
-   "et": ""
+   "et": "{07 06 00}Ma ei suuda uskuda, et ma\nlõpuks julguse kokku võtsin\nja selle andsin, {01 00 00 05 00}{04 02 00}.\n{07 14 00}Aga mõtlesin seda,{01 00 00 05 00} nii et\nloodan, et hoolitsed selle\neest.{01 00 00 05 00} Ära kaota seda ära!"
   },
   {
    "id": 13,
    "en": "Just keep it close to your\nheart, {01 00 00 05 00}{04 02 00}.\n\n{07 14 00}That way, we'll never be\nfar apart!",
-   "et": ""
+   "et": "Hoia seda lihtsalt oma\nsüdame lähedal, {01 00 00 05 00}{04 02 00}.\n\n{07 14 00}Nii ei ole me kunagi\nkaugel teineteisest!"
   },
   {
    "id": 14,
    "en": "{07 00 00}Awesome! Here, I'm just\ngoing to ask you a few\nquestions.\nAnswer them honestly, and\ndon't think too long about\nyour answers, OK?",
-   "et": ""
+   "et": "{07 00 00}Vinge! Säh, ma küsin sinult\nlihtsalt paar\nküsimust.\nVasta neile ausalt ja\nära mõtle vastuste üle\nliiga kaua, eks?"
   },
   {
    "id": 15,
    "en": "{07 06 00}What? You don't think\npersonality tests are\nweird, do you?",
-   "et": ""
+   "et": "{07 06 00}Mis? Sa ei arva ju, et\nisiksusetestid on\nveidrad, ega?"
   },
   {
    "id": 16,
    "en": "If you have a lot of food,{07 0b 00}\ndo you eat your favorite\ndish first?{02 00 00 15 14}\nYes.\nNo.",
-   "et": ""
+   "et": "Kui sul on palju toitu,{07 0b 00}\nkas sa sööd oma lemmikroa\nesimesena?{02 00 00 15 14}\nJah.\nEi."
   },
   {
    "id": 19,
    "en": "{07 0b 00}Do you try to avoid\nfighting with the people\naround you?{02 00 00 17 18}\nYes.\nNo.",
-   "et": ""
+   "et": "{07 0b 00}Kas sa üritad vältida\ntülitsemist inimestega\nenda ümber?{02 00 00 17 18}\nJah.\nEi."
   },
   {
    "id": 20,
    "en": "When you make a mistake,{07 0b 00}\ndo you spend a lot of time\nfeeling bad about it?{02 00 00 1a 16}\nYes.\nNo.",
-   "et": ""
+   "et": "Kui sa teed vea,{07 0b 00}\nkas sa veedad palju aega\nselle pärast kurvastades?{02 00 00 1a 16}\nJah.\nEi."
   },
   {
    "id": 21,
    "en": "If you were being totally\nhonest, {07 0b 00}would you say that\nyou're a very lazy person?{02 00 00 19 1a}\nYes.\nNo.",
-   "et": ""
+   "et": "Kui sa oleksid täiesti\naus, {07 0b 00}kas sa ütleksid, et\nsa oled väga laisk?{02 00 00 19 1a}\nJah.\nEi."
   },
   {
    "id": 22,
    "en": "{07 00 00}If you had an emergency,\n{07 0b 00}would you rely on your\nparents to help you out?{02 00 00 1b 13}\nYes.\nNo.",
-   "et": ""
+   "et": "{07 00 00}Kui sul oleks hädaolukord,\n{07 0b 00}kas sa loodaksid vanemate\nabile?{02 00 00 1b 13}\nJah.\nEi."
   },
   {
    "id": 23,
    "en": "{07 0b 00}Would you sacrifice\nanything to get what you\nwanted?{02 00 00 1f 20}\nYes.\nNo.",
-   "et": ""
+   "et": "{07 0b 00}Kas sa ohverdaksid kõike,\net saada seda, mida\nsa tahad?{02 00 00 1f 20}\nJah.\nEi."
   },
   {
    "id": 24,
    "en": "{07 00 00}Would you say that{07 0b 00} money\ncounts more than anything\nelse in this world?{02 00 00 1c 1b}\nYes.\nNo.",
-   "et": ""
+   "et": "{07 00 00}Kas sa ütleksid, et{07 0b 00} raha\nloeb rohkem kui miski muu\nsiin maailmas?{02 00 00 1c 1b}\nJah.\nEi."
   },
   {
    "id": 25,
    "en": "{07 00 00}Do you hate {07 0b 00}not being the\none in the spotlight?{02 00 00 26 1a}\nYes.\nNo.",
-   "et": ""
+   "et": "{07 00 00}Kas sa vihkad {07 0b 00}seda, kui sa\npole tähelepanu keskmes?{02 00 00 26 1a}\nJah.\nEi."
   },
   {
    "id": 26,
    "en": "{07 0b 00}Do you have dreams and\nambitions for the future?{02 00 00 1d 1b}\nYes.\nNo.",
-   "et": ""
+   "et": "{07 0b 00}Kas sul on unistusi ja\nauahnust tuleviku suhtes?{02 00 00 1d 1b}\nJah.\nEi."
   },
   {
    "id": 27,
    "en": "{07 00 00}Do you worry about things\n{07 0b 00}for a long time after\nthey've happened?{02 00 00 23 1d}\nYes.\nNo.",
-   "et": ""
+   "et": "{07 00 00}Kas sa muretsed asjade\n{07 0b 00}pärast kaua pärast seda,\nkui need on juhtunud?{02 00 00 23 1d}\nJah.\nEi."
   },
   {
    "id": 28,
    "en": "{07 00 00}Do you think of yourself\n{07 0b 00}as a natural leader?{02 00 00 21 1e}\nYes.\nNo.",
-   "et": ""
+   "et": "{07 00 00}Kas sa pead end\n{07 0b 00}loomulikuks juhiks?{02 00 00 21 1e}\nJah.\nEi."
   },
   {
    "id": 29,
    "en": "{07 00 00}Do you think that {07 0b 00}you're a\ngood liar?{02 00 00 25 23}\nYes.\nNo.",
-   "et": ""
+   "et": "{07 00 00}Kas sa arvad, et {07 0b 00}sa oled\nhea valetaja?{02 00 00 25 23}\nJah.\nEi."
   },
   {
    "id": 30,
    "en": "{07 00 00}Do you have a hard time\n{07 0b 00}saying no to others?{02 00 00 24 22}\nYes.\nNo.",
-   "et": ""
+   "et": "{07 00 00}Kas sul on raske\n{07 0b 00}teistele ei öelda?{02 00 00 24 22}\nJah.\nEi."
   },
   {
    "id": 31,
    "en": "{07 19 00}OK, that's it for the\nquestions! Now to figure\nout who {01 00 00 05 00}you {01 00 00 05 00}are.\n{07 14 00}Look at that! You're {ff 00 00 06}Tom\nNook{ff 00 00 00}, {01 00 00 05 00}the enterprising and\nentrepreneurial type!\n{07 00 00}Beneath your warm, caring\nexterior lurks a focused\nfinancial mastermind.\nNever satisfied with just\none success, you push\nyourself to bigger things.\n{07 14 00}You dedicate yourself to\nyour goals with an almost\nruthless efficiency.\nBut.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00}{07 0b 00}don't you feel you try\nto impress other people a\nlittle TOO hard?\n{07 00 00}You need to find your true\nfriends and cut loose with\nthem every once in a while.\n{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 14 00}So that's it! And all it\ntook was a few insightful\nquestions! Wasn't that fun?",
-   "et": ""
+   "et": "{07 19 00}Olgu, küsimused on läbi!\nNüüd selgitame välja,\nkes {01 00 00 05 00}sa {01 00 00 05 00}oled.\n{07 14 00}Vaata seda! Sa oled {ff 00 00 06}Tom\nNook{ff 00 00 00}, {01 00 00 05 00}ettevõtlik ja\nalgatusvõimeline tüüp!\n{07 00 00}Su sooja välimuse\nall peitub keskendunud\nfinantsgeenius.\nKunagi ei rahuldu sa ühe\neduga, vaid tõukad end\nsuuremate asjade poole.\n{07 14 00}Sa pühendud eesmärkidele\npeaaegu halastamatu\ntõhususega.\nAga.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00}{07 0b 00}kas sa ei tunne, et\nüritad teistele muljet\navaldada LIIGA palju?\n{07 00 00}Sa pead leidma oma tõelised\nsõbrad ja aeg-ajalt\nlõdvaks laskma.\n{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 14 00}Nii et ongi kõik! Ja kõik,\nmis selleks kulus, oli paar\nteravat küsimust! Lõbus?"
   },
   {
    "id": 32,
    "en": "{07 19 00}OK, that's it for the\nquestions! Now to figure\nout who {01 00 00 05 00}you {01 00 00 05 00}are.\n{07 14 00}Well, isn't that interesting?\nYou're {ff 00 00 06}Mabel{ff 00 00 00}, seamstress\nextraordinaire!\n{07 00 00}That means you're kind and\ncompassionate and that\neveryone likes you.\nWhen you've got a lot on\nyour plate, you're good\nat balancing it all out.\n{07 16 00}Now, the problem is that\nyou DO have an awful lot\nof responsibilities.\n{07 00 00}And how much you succeed\nor fail depends entirely on\nhow good your judgment is.\nJust bear that in mind,\nand you'll be just fine. {01 00 00 0f 00}{07 14 00}So\nthat's it!{01 00 00 05 00} Wasn't that fun?",
-   "et": ""
+   "et": "{07 19 00}Olgu, küsimused on läbi!\nNüüd selgitame välja,\nkes {01 00 00 05 00}sa {01 00 00 05 00}oled.\n{07 14 00}Noh, kas pole huvitav?\nSa oled {ff 00 00 06}Mabel{ff 00 00 00}, suurepärane\nõmbleja!\n{07 00 00}See tähendab, et sa oled\nlahke ja kaastundlik ning\net kõigile meeldid.\nKui sul on palju tegemist,\noled sa hea kõike\ntasakaalus hoidma.\n{07 16 00}Nüüd, probleem on selles, et\nsul ON kohutavalt palju\nkohustusi.\n{07 00 00}Ja see, kas õnnestud\nvõi ebaõnnestud, sõltub\ntäiesti su otsustusvõimest.\nPea seda meeles ja\nkõik läheb hästi. {01 00 00 0f 00}{07 14 00}Nii et\nongi kõik!{01 00 00 05 00} Kas oli lõbus?"
   },
   {
    "id": 33,
    "en": "{07 19 00}OK, that's it for the\nquestions! Now to figure\nout who {01 00 00 05 00}you {01 00 00 05 00}are.\n{07 14 00}Looks like you're {ff 00 00 06}Phyllis{ff 00 00 00},\nwho works the night shift\nat the {ff 00 00 08}town hall{ff 00 00 00}.\n{07 00 00}That means you're a bit of\nan individualist. You're\ntalented, and you know it!\nYou have a tendency to be,\ner, selfish. Just a little.\nAnd your personality is{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.\n{07 16 00}Let's just say you're\nunique and leave it at\nthat, {01 00 00 05 00}{04 02 00}!\n{07 14 00}On the plus side, you always\nsay exactly what you mean,\nwhich is a good thing.\n{07 0b 00}Don't you think that can be\na little tough on your\nfriends, though?\n{07 16 00}I worry about your\nrelationships.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0f 00} {07 14 00}But you're a\nsmart cookie. You'll be OK.\nAs I said, you've got lots\nof skill, and you sometimes\nlook down on other people.\n{07 0e 00}But it's only the people who\nwork hard who succeed in\nthis world,{01 00 00 05 00} right?\n{07 00 00}Don't let yourself get too\ncaught up in your work.\nYou need time off, too.\n{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 14 00}Well, that didn't turn\nout so bad, did it? I\nthought it was fun!",
-   "et": ""
+   "et": "{07 19 00}Olgu, küsimused on läbi!\nNüüd selgitame välja,\nkes {01 00 00 05 00}sa {01 00 00 05 00}oled.\n{07 14 00}Paistab, et oled {ff 00 00 06}Phyllis{ff 00 00 00},\nkes töötab öövahetuses\n{ff 00 00 08}raekojas{ff 00 00 00}.\n{07 00 00}See tähendab, et sa oled\npisut individualist. Oled\nandekas ja sa tead seda!\nSul on kalduvus olla,\nee, isekas. Ainult natuke.\nJa su isiksus on{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.\n{07 16 00}Ütleme lihtsalt, et sa oled\nainulaadne ja jätame\nselle sinnapaika, {01 00 00 05 00}{04 02 00}!\n{07 14 00}Plussiks on see, et sa ütled\nalati täpselt, mida mõtled,\nmis on hea asi.\n{07 0b 00}Kas sa ei arva, et see võib\nsu sõpradele pisut\nraske olla?\n{07 16 00}Ma muretsen su suhete\npärast.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0f 00} {07 14 00}Aga sa oled\ntark. Sul läheb hästi.\nNagu ütlesin, sul on palju\noskusi ja sa vaatad vahel\nteistele ülevalt alla.\n{07 0e 00}Ainult need, kes kõvasti\ntöötavad, saavutavad selles\nmaailmas edu,{01 00 00 05 00} eks?\n{07 00 00}Ära lase end tööst liiga\npalju haarata.\nSa vajad ka puhkust.\n{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 14 00}Noh, see ei läinud\nnii halvasti, ega? Ma\narvasin, et oli lõbus!"
   },
   {
    "id": 34,
    "en": "{07 19 00}OK, that's it for the\nquestions! Now to figure\nout who {01 00 00 05 00}you {01 00 00 05 00}are.\n{07 14 00}Look at that! You're our\nlocal know-it-all, {ff 00 00 06}Blathers{ff 00 00 00}!\n\n{07 00 00}You are a true academic,\nfreed from all worldly\nconcerns, {01 00 00 05 00}{04 02 00}.\nYou follow your own path,\nand you have lots of\nwisdom and experience.\n{07 16 00}But you're so scattered and\nout there that you have a\ntough time making friends!\n{07 00 00}But {01 00 00 0a 00}you're not all that\ninterested in other people,\n{07 0b 00}are you, {01 00 00 05 00}{04 02 00}?\n{07 00 00}Remember, even bookworms\nneed buddies. You can't\ntalk to a book!\nI mean, you can, but {07 0e 00}it\nwould look a little weird.{01 01 00}{07 14 00}\nThat's it! Did you have fun?",
-   "et": ""
+   "et": "{07 19 00}Olgu, küsimused on läbi!\nNüüd selgitame välja,\nkes {01 00 00 05 00}sa {01 00 00 05 00}oled.\n{07 14 00}Vaata seda! Sa oled meie\nkohalik tarkpea, {ff 00 00 06}Blathers{ff 00 00 00}!\n\n{07 00 00}Sa oled tõeline akadeemik,\nvaba kõigist ilmalikest\nmuredest, {01 00 00 05 00}{04 02 00}.\nSa käid oma teed ja sul\non palju tarkust ja\nkogemusi.\n{07 16 00}Aga sa oled nii hajevil ja\nomaette, et sul on raske\nsõpru leida!\n{07 00 00}Aga {01 00 00 0a 00}sind ei huvita teised\ninimesed eriti,\n{07 0b 00}ega, {01 00 00 05 00}{04 02 00}?\n{07 00 00}Pea meeles, raamatukoid\nvajavad semusid. Raamatuga\nei saa rääkida!\nNoh, saab, aga {07 0e 00}see\nnäeks pisut veider välja.{01 01 00}{07 14 00}\nOngi kõik! Kas oli lõbus?"
   },
   {
    "id": 35,
    "en": "{07 19 00}OK, that's it for the\nquestions! Now to figure\nout who {01 00 00 05 00}you {01 00 00 05 00}are.\n{07 14 00}Wow! You're {ff 00 00 06}Pelly{ff 00 00 00}, the lovely\nlass who works the front\ndesk at the {ff 00 00 08}town hall{ff 00 00 00}!\n{07 00 00}You are a trusting soul,\nwith high standards and a\npure heart, {01 00 00 05 00}{04 02 00}.\nYou're selfless to a fault,\nand you reach out to\nothers in need.\nBecause of that, everyone\nrespects you and relies\non your assistance.\n{07 16 00}Unfortunately, not everyone\ncan live up to your high\nstandards.\n{07 00 00}I hate to be the one to\nbring a dose of reality\nyour way, but{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\nYou probably have to learn\nto be a little less trusting\nof the motives of others.\nThat's all I've got!{01 00 00 05 00}\n{07 14 00}So, wasn't that fun?",
-   "et": ""
+   "et": "{07 19 00}Olgu, küsimused on läbi!\nNüüd selgitame välja,\nkes {01 00 00 05 00}sa {01 00 00 05 00}oled.\n{07 14 00}Vau! Sa oled {ff 00 00 06}Pelly{ff 00 00 00}, armas\nneiu, kes töötab\n{ff 00 00 08}raekoja{ff 00 00 00} letis!\n{07 00 00}Sa oled usaldav hing,\nkõrgete standardite ja\npuhta südamega, {01 00 00 05 00}{04 02 00}.\nSa oled ennastsalgav ja\nsirutad käe neile, kes\nvajavad abi.\nSeetõttu austavad sind kõik\nja loodavad sinu\nabile.\n{07 16 00}Kahjuks ei suuda kõik\nsinu kõrgeid standardeid\ntäita.\n{07 00 00}Ma ei taha olla see, kes\ntoob sulle annuse\nreaalsust, aga{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\nSa pead ilmselt õppima\nolema pisut vähem usaldav\nteiste motiivide suhtes.\nSee on kõik!{01 00 00 05 00}\n{07 14 00}Nii et, kas oli lõbus?"
   },
   {
    "id": 36,
    "en": "{07 19 00}OK, that's it for the\nquestions! Now to figure\nout who {01 00 00 05 00}you {01 00 00 05 00}are.\n{07 14 00}Look at this! You're {ff 00 00 06}Sable{ff 00 00 00},\nseamstress superb from\nthe {ff 00 00 08}Able Sisters{ff 00 00 00} boutique.\n{07 00 00}You're very skilled with\nyour hands, and you tend\nto be a little.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}difficult.\nBut why do you need to be\neasygoing when you've got\nso much artistic talent?\nAfter all, you're a very\ngrounded person. You trust\nhard work, not daydreams.\n{07 16 00}Of course, there's more to\nlife than hard work! You\ncan't neglect your friends!\n{07 0b 00}You know what you should\ndo?{01 01 00}{07 15 00} Something spontaneous!\nAnything! Just go do it!\n{07 14 00}You might even find that a\nchange of pace helps\nenhance your creativity!\n{07 00 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 14 00}So that's all I've got.\nI hope you had fun and\nlearned a little something!",
-   "et": ""
+   "et": "{07 19 00}Olgu, küsimused on läbi!\nNüüd selgitame välja,\nkes {01 00 00 05 00}sa {01 00 00 05 00}oled.\n{07 14 00}Vaata seda! Sa oled {ff 00 00 06}Sable{ff 00 00 00},\nsuurepärane õmbleja\n{ff 00 00 08}Able Sistersi{ff 00 00 00} butiigist.\n{07 00 00}Sa oled kätega osav\nja sul on kalduvus olla\npisut.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}keeruline.\nAga miks peaksid sa olema\nleebe, kui sul on nii palju\nkunstilist annet?\nLõppude lõpuks oled väga\nmaalähedane. Usud rasket\ntööd, mitte unistusi.\n{07 16 00}Muidugi on elus enamat kui\nraske töö! Sa ei tohi oma\nsõpru unarusse jätta!\n{07 0b 00}Tead, mida sa peaksid\ntegema?{01 01 00}{07 15 00} Midagi spontaanset!\nÜkskõik mida! Lihtsalt tee!\n{07 14 00}Sa võid isegi avastada, et\ntempovahetus aitab su\nloovust suurendada!\n{07 00 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 14 00}Nii et see on kõik.\nLoodan, et sul oli lõbus ja\nõppisid midagi!"
   },
   {
    "id": 37,
    "en": "{07 19 00}OK, that's it for the\nquestions! Now to figure\nout who {01 00 00 05 00}you {01 00 00 05 00}are.\n{07 14 00}Ever ready to deliver our\nmail, you are {ff 00 00 06}Pete{ff 00 00 00}, postman\npar excellence!\n{07 00 00}You're a charmer,{01 00 00 05 00} but you\nhave a bit of a, er, dark\nside, shall we say?\n{07 13 00}Your eyes are deep and\nsincere, difficult to\nread but so trustworthy{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 15 00}But they hide the truth,\nthat you are loyal only\nto your own desires!\n{07 00 00}Naturally, you're a smooth\noperator, and people just\nWANT to trust in you.\n{07 16 00}But that just lets you take\ncredit for other people's\nwork! That's not right!\n{07 00 00}Basically, you're downright\nuntrustworthy. {01 01 00}{07 15 00}If you meet\nanyone like you, watch out!\n{07 00 00}Which isn't to say you can't\ntrust {ff 00 00 06}Pete{ff 00 00 00}.{01 00 00 0a 00} {07 13 00}Who wouldn't\ntrust those dreamy eyes?\n{07 00 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 14 00}So anyway, that's all I've\ngot to say. So? Did you\nhave fun with the quiz?",
-   "et": ""
+   "et": "{07 19 00}Olgu, küsimused on läbi!\nNüüd selgitame välja,\nkes {01 00 00 05 00}sa {01 00 00 05 00}oled.\n{07 14 00}Alati valmis posti tooma,\nsa oled {ff 00 00 06}Pete{ff 00 00 00}, suurepärane\npostiljon!\n{07 00 00}Sa oled võluv,{01 00 00 05 00} aga sul on\npisut, ee, tume pool,\nütleme nii?\n{07 13 00}Su silmad on sügavad ja\nsiirad, raskesti loetavad,\naga nii usaldusväärsed{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 15 00}Aga need varjavad tõde, et\nsa oled truu ainult\noma soovidele!\n{07 00 00}Loomulikult oled sa sujuv\ntegutseja ja inimesed lausa\nTAHAVAD sind usaldada.\n{07 16 00}Aga see lubab sul võtta\nau teiste inimeste töö\neest! See pole õige!\n{07 00 00}Põhimõtteliselt oled sa\ntäiesti ebaaus. {01 01 00}{07 15 00}Kui\nkohtad sinusugust, valva!\n{07 00 00}See ei tähenda, et {ff 00 00 06}Pete{ff 00 00 00}i ei\nsaa usaldada.{01 00 00 0a 00} {07 13 00}Kes ei usuks\nneid unistavaid silmi?\n{07 00 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 14 00}Igatahes, see on kõik,\nmida mul öelda on. Nii? Kas\nsul oli testiga lõbus?"
   },
   {
    "id": 38,
    "en": "{07 19 00}OK, that's it for the\nquestions! Now to figure\nout who {01 00 00 05 00}you {01 00 00 05 00}are.\n{07 14 00}Hey, you're {ff 00 00 06}Tortimer{ff 00 00 00}, the\nmayor of {ff 00 00 08}{04 03 00}{ff 00 00 00}!\n\n{07 00 00}You're a master of making\nother people do all the\nheavy lifting for you!\nYou rely on others, but\nonly insofar as you\nmake them do your work.\n{07 0b 00}Do you ever notice anything\nabout people other than\nwhat they can do for you?\n{07 00 00}It makes getting things\ndone easier, but it's hard\non friendships.\nYou're nice enough,\n{07 11 00}but you're a little obsessed\nwith titles and positions.\n{07 16 00}Sometimes, people cross to\nthe other side of the\nstreet to avoid you!\n{07 00 00}You know{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{07 11 00}there are some\nthings more important than\nbeing important.\n{07 00 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 14 00}So there you have it!\nI hope you learned a little\nsomething about yourself!",
-   "et": ""
+   "et": "{07 19 00}Olgu, küsimused on läbi!\nNüüd selgitame välja,\nkes {01 00 00 05 00}sa {01 00 00 05 00}oled.\n{07 14 00}Hei, sa oled {ff 00 00 06}Tortimer{ff 00 00 00},\n{ff 00 00 08}{04 03 00}{ff 00 00 00} linnapea!\n\n{07 00 00}Sa oled meister panema\nteisi inimesi kogu rasket\ntööd sinu eest tegema!\nSa loodad teistele, aga\nainult sel määral, et\npanna nad oma tööd tegema.\n{07 0b 00}Kas sa märkad inimeste\njuures midagi peale selle,\nmida nad sinu heaks teevad?\n{07 00 00}See teeb asjade tegemise\nlihtsamaks, aga on raske\nsõprusele.\nSa oled piisavalt kena,\n{07 11 00}aga sa oled kinnisideega\ntiitlite ja ametikohtadega.\n{07 16 00}Vahel lähevad inimesed üle\ntänava, et sind\nvältida!\n{07 00 00}Tead{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{07 11 00}on mõned asjad\ntähtsamad kui tähtis\nolemine.\n{07 00 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 14 00}Nii et ongi kõik!\nLoodan, et õppisid enda\nkohta midagi!"
   }
  ]
 }

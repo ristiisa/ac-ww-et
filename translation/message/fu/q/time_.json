@@ -4,17 +4,17 @@
   {
    "id": 0,
    "en": "{07 16 00}I need you to deliver this\nquickly, OK?{01 00 00 05 00} And by quickly,\nI mean in, like, {ff 00 00 02}10 minutes{ff 00 00 00}!",
-   "et": ""
+   "et": "{07 16 00}Ma vajan, et sa viiksid\nselle ruttu kohale, eks?{01 00 00 05 00}\nJa see on {ff 00 00 02}10 minutit{ff 00 00 00}!"
   },
   {
    "id": 1,
    "en": "{07 00 00}It's not too much of a\nrush. {01 00 00 0f 00}{07 0b 00}Can you deliver it in,\nsay, {ff 00 00 02}30 minutes{ff 00 00 00}?",
-   "et": ""
+   "et": "{07 00 00}Sellega pole väga\nkiire. {01 00 00 0f 00}{07 0b 00}Kas sa saaksid selle\nviia, ütleme, {ff 00 00 02}30 minutiga{ff 00 00 00}?"
   },
   {
    "id": 2,
    "en": "{07 00 00}I'm hoping you'll be able\nto deliver this in,{01 00 00 05 00} oh,{01 00 00 05 00}\n{07 0b 00}how does an {ff 00 00 02}hour{ff 00 00 00} sound?",
-   "et": ""
+   "et": "{07 00 00}Ma loodan, et sa suudad\nselle kohale viia,{01 00 00 05 00} oh,{01 00 00 05 00}\n{07 0b 00}kuidas kõlab {ff 00 00 02}üks tund{ff 00 00 00}?"
   }
  ]
 }

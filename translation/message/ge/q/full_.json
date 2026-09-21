@@ -4,17 +4,17 @@
   {
    "id": 0,
    "en": "{07 1d 00}Oh, total lameness!{01 00 00 14 00} {07 16 00}You\nhave too much stuff,\n{04 1f 00}!\nI mean, it's sweet that\nyou're willing, but you\ncan't help, {01 00 00 05 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 1d 00}Oh, täielik jama!{01 00 00 14 00} {07 16 00}Sul on\nliiga palju kraami,\n{04 1f 00}!\nMa mõtlen, on armas, et sa\ntahad, aga sa ei saa\naidata, {01 00 00 05 00}{04 02 00}!"
   },
   {
    "id": 1,
    "en": "{07 04 00}Huh?{01 00 00 0a 00} But...{01 00 00 05 00} But...{01 00 00 0a 00} {07 0b 00}Your\npockets are, like, all full!{01 00 00 05 00}\nYou can't carry anything!\nCome back after you\norganize some stuff,\n{01 00 00 05 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 04 00}Ah?{01 00 00 0a 00} Aga...{01 00 00 05 00} Aga...{01 00 00 0a 00} {07 0b 00}Su\ntaskud on, nagu, täiesti\ntäis!{01 00 00 05 00} Sa ei saa midagi\nkanda! Tule tagasi, kui oled\nkraami korda seadnud,\n{01 00 00 05 00}{04 02 00}!"
   },
   {
    "id": 2,
    "en": "{07 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 04 00}Oh, shoot!{01 00 00 14 00} {07 16 00}Now that I\nlook at you, you have\ntotally full pockets!\n{07 06 00}Boy!{01 00 00 0a 00} You're sort of a pack\nrat, huh, {01 00 00 05 00}{04 02 00}?",
-   "et": ""
+   "et": "{07 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 04 00}Oh, pagan!{01 00 00 14 00} {07 16 00}Nüüd, kui ma\nsind vaatan, on sul\ntäiesti täis taskud!\n{07 06 00}Oh sa!{01 00 00 0a 00} Sa oled omamoodi\nkoguja, mis, {01 00 00 05 00}{04 02 00}?"
   }
  ]
 }

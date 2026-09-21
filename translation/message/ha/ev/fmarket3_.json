@@ -4,102 +4,102 @@
   {
    "id": 0,
    "en": "{07 02 00}CRAZY DEALS?!{01 00 00 0a 00}\n{07 14 00}Get outta the way, I'm\ngoing in, {01 00 00 05 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 02 00}HULLUD PAKKUMISED?!{01 00 00 0a 00}\n{07 14 00}Eest ära, ma lähen\nsisse, {01 00 00 05 00}{04 02 00}!"
   },
   {
    "id": 1,
    "en": "{07 05 00}So many hot deals! Such\na massive selection!\n\n{07 14 00}That vein on my forehead\nis bulging like a flexing\nbicep, {01 00 00 05 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 05 00}Nii palju kuumi pakkumisi!\nNii tohutu valik!\n\n{07 14 00}See veen mu otsmikul punnib\nnagu pingutatud biitseps,\n{01 00 00 05 00}{04 02 00}!"
   },
   {
    "id": 2,
    "en": "{07 14 00}{01 00 00 0a 00}All right, I checked out all\nthe stuff I wanted to see,\n{01 00 00 05 00}{04 02 00}!\n{07 15 00}I'm out like gout,\n{01 00 00 0a 00}{04 02 00}!\n",
-   "et": ""
+   "et": "{07 14 00}{01 00 00 0a 00}Hea küll, ma vaatasin üle\nkõik, mida tahtsin näha,\n{01 00 00 05 00}{04 02 00}!\n{07 15 00}Ma olen minek,\n{01 00 00 0a 00}{04 02 00}!\n"
   },
   {
    "id": 3,
    "en": "{07 14 00}I wanna check out what\nother people are pawning,\nso I'm hitting the road!\n{07 0d 00}You should hit up some\nother stores, too!\n{0b 03 00}{01 00 00 05 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 14 00}Ma tahan vaadata, mida\nteised müüvad, nii et\nlähen teele!\n{07 0d 00}Sa peaksid ka teistesse\npoodidesse minema!\n{0b 03 00}{01 00 00 05 00}{04 02 00}!"
   },
   {
    "id": 4,
    "en": "{07 14 00}Hey, {04 1f 00}! You did\npretty good, little buddy!\n{0b 03 00}{01 00 00 05 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 14 00}Hei, {04 1f 00}! Sa said\npäris hästi hakkama, semu!\n{0b 03 00}{01 00 00 05 00}{04 02 00}!"
   },
   {
    "id": 5,
    "en": "{07 0e 00}Huh? {01 00 00 05 00}So{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} I should put this\nhere like this, {01 00 00 05 00}{04 02 00}?",
-   "et": ""
+   "et": "{07 0e 00}Ah? {01 00 00 05 00}Nii et{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} ma peaksin\nselle nii panema, {01 00 00 05 00}{04 02 00}?"
   },
   {
    "id": 6,
    "en": "{07 15 00}OK, {01 00 00 05 00}I'm all about your\n{0b 02 00}{04 1a 00}.\n{07 0b 00}How much do you want?{02 00 00 ff ff}\nLet's talk.\nNot for sale!",
-   "et": ""
+   "et": "{07 15 00}Olgu, {01 00 00 05 00}ma tahan sinu\n{0b 02 00}{04 1a 00}.\n{07 0b 00}Kui palju sa tahad?{02 00 00 ff ff}\nRäägime.\nPole müügiks!"
   },
   {
    "id": 7,
    "en": "{07 00 00}OK, sport. I want your\n{0b 02 00}{04 1a 00}...\n\n{07 16 00}What kind of a deal can you\nbreak me?{02 00 00 ff ff}\nLet's chat.\nNo deal!",
-   "et": ""
+   "et": "{07 00 00}Olgu, sportlane. Ma tahan su\n{0b 02 00}{04 1a 00}...\n\n{07 16 00}Millise diili sa mulle\nteed?{02 00 00 ff ff}\nRäägime.\nEi mingit diili!"
   },
   {
    "id": 8,
    "en": "{07 1c 00}Man, {01 00 00 05 00}that's pretty weak.",
-   "et": ""
+   "et": "{07 1c 00}Mees, {01 00 00 05 00}see on päris nõrk."
   },
   {
    "id": 9,
    "en": "{07 04 00}What?!{01 00 00 05 00} It's FREE?!!{01 01 00}\n{07 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 0f 00}Aww, man!{01 00 00 05 00} You didn't say\nit was free, {01 00 00 05 00}{04 02 00}?",
-   "et": ""
+   "et": "{07 04 00}Mida?!{01 00 00 05 00} See on TASUTA?!!{01 01 00}\n{07 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 0f 00}Ohh, mees!{01 00 00 05 00} Sa ei öelnud,\net see on tasuta, {01 00 00 05 00}{04 02 00}?"
   },
   {
    "id": 10,
    "en": "{07 16 00}Hey!{01 00 00 0a 00} Why have you got\nto be chintzy like that?\n\n{07 06 00}Can't you cut your bro a\ndeal, {01 00 00 05 00}{04 02 00}?{02 00 00 ff ff}\nFine!\nNO DEAL FOR YOU!",
-   "et": ""
+   "et": "{07 16 00}Hei!{01 00 00 0a 00} Miks sa pead\nniimoodi ihne olema?\n\n{07 06 00}Kas sa ei saaks oma vennale\ndiili teha, {01 00 00 05 00}{04 02 00}?{02 00 00 ff ff}\nOlgu!\nSINULE EI MINGIT DIILI!"
   },
   {
    "id": 11,
    "en": "{07 01 00}What?! Do you think I use\nmoneybags as dumbbells or\nsomething?!\n{07 16 00}Can't you cut me a deal,\n{01 00 00 05 00}{04 02 00}?{02 00 00 ff ff}\nOK, fine!\nPay up!",
-   "et": ""
+   "et": "{07 01 00}Mida?! Kas sa arvad, et ma\nkasutan rahakotte\nhantlitena või?!\n{07 16 00}Kas sa ei saaks mulle\ndiili teha, {01 00 00 05 00}{04 02 00}?{02 00 00 ff ff}\nOlgu, hea küll!\nMaksa ära!"
   },
   {
    "id": 12,
    "en": "{07 14 00}Whoa, {04 1f 00}!{01 00 00 0a 00} You'd\nreally sell it to me for\nthat price?{02 00 00 ff ff}\nSell! Sell!\nNo way!",
-   "et": ""
+   "et": "{07 14 00}Ohoo, {04 1f 00}!{01 00 00 0a 00} Kas sa\ntõesti müüksid selle mulle\nselle hinnaga?{02 00 00 ff ff}\nMüü! Müü!\nEi iial!"
   },
   {
    "id": 13,
    "en": "{07 16 00}If I drop that much on\nthis, I'm gonna be broke!\nBut, man{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}I have no choice!\n{07 16 00}Arrg! {01 00 00 05 00}I'll take the stupid\nthing, {01 00 00 05 00}{04 02 00}!{02 00 00 ff ff}\nDeal!\nNope!",
-   "et": ""
+   "et": "{07 16 00}Kui ma nii palju välja\nkäin, jään ma puruvaeseks!\nAga, mees{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}mul pole valikut!\n{07 16 00}Arrg! {01 00 00 05 00}Ma võtan selle rumala\nasja, {01 00 00 05 00}{04 02 00}!{02 00 00 ff ff}\nDiil!\nEi!"
   },
   {
    "id": 14,
    "en": "{07 14 00}It's a deal, {01 00 00 05 00}{04 02 00}!{01 00 00 14 00}\n{07 0d 00}Yessss, I got me\n{04 1a 00}!",
-   "et": ""
+   "et": "{07 14 00}Diil on tehtud, {01 00 00 05 00}{04 02 00}!{01 00 00 14 00}\n{07 0d 00}Jaaah, ma sain endale\n{04 1a 00}!"
   },
   {
    "id": 15,
    "en": "{07 15 00}Now you're talking!{01 00 00 0f 00}\n{07 14 00}I'll take good care of your\n{0b 02 00}{04 1a 00}!",
-   "et": ""
+   "et": "{07 15 00}Nüüd sa räägid!{01 00 00 0f 00}\n{07 14 00}Ma hoolitsen hästi su\n{0b 02 00}{04 1a 00} eest!"
   },
   {
    "id": 16,
    "en": "{07 04 00}Why?!{01 00 00 14 00} {07 16 00}{0b 03 00}{04 1f 00}, you've\nbeen acting like a total\nfreakoid lately!",
-   "et": ""
+   "et": "{07 04 00}Miks?!{01 00 00 14 00} {07 16 00}{0b 03 00}{04 1f 00}, sa oled\nviimasel ajal käitunud nagu\ntäielik friik!"
   },
   {
    "id": 17,
    "en": "{07 01 00}Dang it,{01 00 00 0a 00} {04 1f 00}!{01 00 00 0f 00}\n{07 15 00}That is NOT funny,\n{01 00 00 05 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 01 00}Pagan,{01 00 00 0a 00} {04 1f 00}!{01 00 00 0f 00}\n{07 15 00}See EI OLE naljakas,\n{01 00 00 05 00}{04 02 00}!"
   },
   {
    "id": 18,
    "en": "{07 04 00}{0b 03 00}{04 1f 00}!{01 00 00 0a 00}{07 16 00} Whaddya mean\nyou can't carry any more\nBells?!\n{07 15 00}Man, you must be LOADED!{01 00 00 05 00}\nHow are you even carrying\nall of it around?!\n{07 0d 00}You must be some kind of\ninternational power-\nsquatting champ!\n{07 16 00}But I thought I had the\nbiggest glutes in town,\n{01 00 00 05 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 04 00}{0b 03 00}{04 1f 00}!{01 00 00 0a 00}{07 16 00} Mida sa mõtled,\net sa ei saa rohkem\nkellukesi kanda?!\n{07 15 00}Mees, sa pead olema RIKAS!{01 00 00 05 00}\nKuidas sa seda kõike üldse\nringi kannad?!\n{07 0d 00}Sa pead olema mingi\nrahvusvaheline\nkükimeister!\n{07 16 00}Aga ma arvasin, et minul\non linna suurimad tuharad,\n{01 00 00 05 00}{04 02 00}!"
   },
   {
    "id": 19,
    "en": "{07 01 00}WHAT?!{01 00 00 05 00} You have so much\nmoney that you can't even\ncarry any more?!\n{07 16 00}So why would someone so\nfilthy rich even bother\nselling stuff?!\n{07 15 00}Don't you have something\nbetter to do?\n\n{07 19 00}You know, like hook your\nfriends up with fat\ndonations, {01 00 00 05 00}{04 02 00}?",
-   "et": ""
+   "et": "{07 01 00}MIDA?!{01 00 00 05 00} Sul on nii palju\nraha, et sa ei suuda enam\nkanda?!\n{07 16 00}Miks keegi nii räpaselt\nrikas üldse viitsib\nasju müüa?!\n{07 15 00}Kas sul pole midagi\nparemat teha?\n\n{07 19 00}Tead küll, näiteks\nsõpradele paksu annetust\nteha, {01 00 00 05 00}{04 02 00}?"
   }
  ]
 }

@@ -4,17 +4,17 @@
   {
    "id": 0,
    "en": "{07 16 00}Wow, it's really hard to\ncomplete the\n{01 00 00 05 00}{ff 00 00 02}{04 0f 00}{ff 00 00 00}!\n{07 17 00}.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}Would you help me look?{01 00 00 0f 00}\n{07 04 00}No pressure!{01 00 00 05 00} I understand\nif you're too busy!",
-   "et": ""
+   "et": "{07 16 00}Vau, on tõesti raske\ntäiendada\n{01 00 00 05 00}{ff 00 00 02}{04 0f 00}{ff 00 00 00}!\n{07 17 00}.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}Kas sa aitaksid otsida?{01 00 00 0f 00}\n{07 04 00}Ilma surveta!{01 00 00 05 00} Ma mõistan,\nkui sul on liiga kiire!"
   },
   {
    "id": 1,
    "en": "{07 14 00}I need to complete the\n{ff 00 00 02}{04 0f 00}{ff 00 00 00}\nfossil really soon!\n{07 06 00}I can't wait to break out\nmy magnifying glass and \nsee all the little details!",
-   "et": ""
+   "et": "{07 14 00}Ma pean {ff 00 00 02}{04 0f 00}{ff 00 00 00}\nfossiili varsti\nvalmis saama!\n{07 06 00}Ma ei jõua ära oodata, et\nvõtta välja luup ja \nnäha kõiki pisidetaile!"
   },
   {
    "id": 2,
    "en": "{07 00 00}{0b 03 00}The complete{ff 00 00 02}\n{04 0f 00} {ff 00 00 00}fossil\nis still eluding me!\n{07 14 00}I hope I appreciate it more\nbecause it's been so hard\nto find!",
-   "et": ""
+   "et": "{07 00 00}{0b 03 00}Täielik{ff 00 00 02}\n{04 0f 00} {ff 00 00 00}fossiil\nväldib mind ikka veel!\n{07 14 00}Loodan, et hindan seda\nrohkem, sest seda oli nii\nraske leida!"
   }
  ]
 }

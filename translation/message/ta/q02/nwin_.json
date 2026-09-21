@@ -4,17 +4,17 @@
   {
    "id": 0,
    "en": "{07 1d 00}You're too late!{01 01 00} {07 00 00}I caught \n{04 1a 00}\na while ago!\n{07 14 00}Well, you lost this match.{01 00 00 0a 00}\nOne might go so far as to\nsay that you're a loser.\n{07 1b 00}Well, {01 00 00 0a 00}don't feel bad. You can\nchallenge me again anytime!{01 01 00}\n{07 14 00}I'll be waiting, {01 00 00 0a 00}{04 02 00}.",
-   "et": ""
+   "et": "{07 1d 00}Sa oled liiga hilja!{01 01 00} {07 00 00}Ma\npüüdsin {04 1a 00}\njuba tükk aega tagasi!\n{07 14 00}sa kaotasid selle matši.{01 00 00 0a 00}\nVõiks isegi öelda,\net sa oled luuser.\n{07 1b 00}Noh, {01 00 00 0a 00}ära pahanda. Võid mind\nmillal tahes uuesti kutsuda!{01 01 00}\n{07 14 00}Ma ootan, {01 00 00 0a 00}{04 02 00}."
   },
   {
    "id": 1,
    "en": "{07 0b 00}Huh?{01 01 00} {07 1d 00}Oh, right, our fishing\nmatch! {01 00 00 0a 00}You took so long\nthat I forgot all about it.\n{07 1b 00}Well, it's only \n{04 1a 00}...\nBut I got it long ago.\n{07 14 00}I guess that means that I'm\nthe winner!{01 01 00} {07 03 00}{01 00 00 0a 00}Tee hee hee!\nToo bad for you!",
-   "et": ""
+   "et": "{07 0b 00}Mis?{01 01 00} {07 1d 00}Ah jaa, meie kalamatš!\n{01 00 00 0a 00}Sul läks nii kaua,\net ma unustasin selle ära.\n{07 1b 00}Noh, see on ainult\n{04 1a 00}...\nAga ma sain selle ammu.\n{07 14 00}See tähendab vist, et mina\nolen võitja!{01 01 00} {07 03 00}{01 00 00 0a 00}Hihihii!\nKahju sinust!"
   },
   {
    "id": 2,
    "en": "{07 1d 00}Oh, {01 00 00 0a 00}what took you so long?!{01 01 00}\n{07 1b 00}{0b 03 00}{04 1a 00}?{01 00 00 05 00}\nI got one a while ago.\n{07 14 00}I'll be waiting to see what\nother challenges you have\nfor me, {01 00 00 0a 00}{04 02 00}.",
-   "et": ""
+   "et": "{07 1d 00}Oi, {01 00 00 0a 00}miks sul nii kaua läks?!{01 01 00}\n{07 1b 00}{0b 03 00}{04 1a 00}?{01 00 00 05 00}\nMa sain ühe ammu.\n{07 14 00}Ma ootan, mis väljakutseid\nsul mulle veel\non, {01 00 00 0a 00}{04 02 00}."
   }
  ]
 }

@@ -4,17 +4,17 @@
   {
    "id": 0,
    "en": "{07 04 00}Whoa, whoa, whoa{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} Hang on\na sec!{01 00 00 14 00}{07 06 00} I still haven't\ncaught a single one!",
-   "et": ""
+   "et": "{07 04 00}Ohoo, ohoo, ohoo{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} Oota\nkorraks!{01 00 00 14 00}{07 06 00} Ma pole veel\nühtegi püüdnud!"
   },
   {
    "id": 1,
    "en": "{07 06 00}Hold on a second.{01 00 00 0f 00} I'm\nhaving a{01 00 00 03 00} heart-to-heart\nwith the bugs right now!",
-   "et": ""
+   "et": "{07 06 00}Oota korraks.{01 00 00 0f 00} Mul on\nputukatega{01 00 00 03 00} praegu\nsüdamest südamesse jutt!"
   },
   {
    "id": 2,
    "en": "{07 06 00}Stop right there!{01 00 00 0f 00} I'm still\njust psyching myself up,{01 00 00 0a 00}\n{04 02 00}!",
-   "et": ""
+   "et": "{07 06 00}Seisa seal!{01 00 00 0f 00} Ma alles\nkogun end vaimselt,{01 00 00 0a 00}\n{04 02 00}!"
   }
  ]
 }

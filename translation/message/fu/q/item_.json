@@ -4,17 +4,17 @@
   {
    "id": 0,
    "en": "{07 00 00}Here you go. As promised,\n{04 1b 00},\njust for you, {01 00 00 05 00}{04 02 00}.",
-   "et": ""
+   "et": "{07 00 00}Palun. Nagu lubatud,\n{04 1b 00},\nainult sulle, {01 00 00 05 00}{04 02 00}."
   },
   {
    "id": 1,
    "en": "{07 00 00}Here you go! Consider my\n{0b 02 00}{04 1b 00}\nall yours, {01 00 00 05 00}{04 02 00}.",
-   "et": ""
+   "et": "{07 00 00}Palun! Loe minu\n{0b 02 00}{04 1b 00}\nenda omaks, {01 00 00 05 00}{04 02 00}."
   },
   {
    "id": 2,
    "en": "{07 00 00}{07 14 00}A deal's a deal. {01 00 00 05 00}Here's your\n{0b 02 00}{04 1b 00}.\nEnjoy, {01 00 00 05 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 00 00}{07 14 00}Lubadus on lubadus. {01 00 00 05 00}Siin on\n{0b 02 00}{04 1b 00}.\nNaudi, {01 00 00 05 00}{04 02 00}!"
   }
  ]
 }

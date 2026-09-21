@@ -4,87 +4,87 @@
   {
    "id": 0,
    "en": "{07 14 00}{01 00 00 0a 00}The {ff 00 00 02}{04 0f 00}\n{ff 00 00 00}constellation{01 00 00 0a 00} is really\ncool.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} {07 0b 00}{01 00 00 05 00}Who made it?{02 00 00 06 07}\nME!\nWho do ya think?",
-   "et": ""
+   "et": "{07 14 00}{01 00 00 0a 00}Tähtkuju {ff 00 00 02}{04 0f 00}\n{ff 00 00 00}on{01 00 00 0a 00} tõesti\nlahe.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} {07 0b 00}{01 00 00 05 00}Kes selle tegi?{02 00 00 06 07}\nMINA!\nMis sa arvad?"
   },
   {
    "id": 1,
    "en": "{07 14 00}When I gaze up at the sky,\nI end up thinking all sorts\nof super deep things.\n{07 00 00}Whatcha think of when you\nsee the {ff 00 00 02}{04 0f 00}\n{ff 00 00 00}constellation?{02 01 00 08 09 0a}\nMy main squeeze.\nYou.\nNothing.",
-   "et": ""
+   "et": "{07 14 00}Kui ma taevasse vaatan,\nhakkan mõtlema igasuguseid\nvõimsalt sügavaid asju.\n{07 00 00}Millele sina mõtled, kui\nnäed tähtkuju {ff 00 00 02}{04 0f 00}\n{ff 00 00 00}?{02 01 00 08 09 0a}\nOma kallimale.\nSinule.\nEi millelegi."
   },
   {
    "id": 2,
    "en": "So, I heard that\n{ff 00 00 02}{04 0f 00}{ff 00 00 00}{01 00 00 0a 00} was\ncreated by {ff 00 00 05}{04 10 00}{ff 00 00 00}.\n{07 0e 00}{01 00 00 0a 00}I don't know what\n{ff 00 00 02}{04 0f 00}{ff 00 00 00} means.\n\n{07 19 00}But I bet {ff 00 00 05}{04 10 00}\n{ff 00 00 00}thinks about deep stuff\nwhen looking at stars, too.{07 00 00}",
-   "et": ""
+   "et": "Kuulsin, et\n{ff 00 00 02}{04 0f 00}{ff 00 00 00}{01 00 00 0a 00} lõi\n{ff 00 00 05}{04 10 00}{ff 00 00 00}.\n{07 0e 00}{01 00 00 0a 00}Ma ei tea, mida\n{ff 00 00 02}{04 0f 00}{ff 00 00 00} tähendab.\n\n{07 19 00}Aga vean kihla, et {ff 00 00 05}{04 10 00}\n{ff 00 00 00}mõtleb tähti vaadates\nka sügavaid asju.{07 00 00}"
   },
   {
    "id": 3,
    "en": "{07 14 00}Look,{01 00 00 05 00} {04 1f 00}!{01 00 00 0f 00} Up in the\nsky,{01 00 00 0a 00} {04 02 00}!\n\n{07 13 00}{01 00 00 0a 00}You can see the\n{ff 00 00 02}{04 0f 00}\n{ff 00 00 00}constellation!\n{0b 03 00}{ff 00 00 05}{04 10 00}{ff 00 00 00} made it!\n{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 00 00}Wow.{01 00 00 0a 00} {07 17 00}I'm its biggest fan,{01 00 00 0a 00}\n{04 02 00}.",
-   "et": ""
+   "et": "{07 14 00}Vaata,{01 00 00 05 00} {04 1f 00}!{01 00 00 0f 00} Üles\ntaevasse,{01 00 00 0a 00} {04 02 00}!\n\n{07 13 00}{01 00 00 0a 00}Sa näed tähtkuju\n{ff 00 00 02}{04 0f 00}\n{ff 00 00 00}!\n{0b 03 00}{ff 00 00 05}{04 10 00}{ff 00 00 00} tegi selle!\n{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 00 00}Vau.{01 00 00 0a 00} {07 17 00}Olen ta suurim fänn,{01 00 00 0a 00}\n{04 02 00}."
   },
   {
    "id": 4,
    "en": "{07 0c 00}{01 00 00 0a 00}Did you hear, {04 1f 00}?{01 00 00 14 00}\nThe {ff 00 00 02}{04 0f 00}\n{ff 00 00 00}constellation up there?\n{07 15 00}{0b 03 00}{ff 00 00 05}{04 10 00}{ff 00 00 00} from\n{ff 00 00 08}{04 11 00}{ff 00 00 00} made that\nconstellation!\n{07 16 00}I mean, giving it a name\nlike that{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 14 00} {07 0b 00}{01 00 00 05 00}Just what kind\nof person is {ff 00 00 05}{04 10 00}{ff 00 00 00}?{02 01 00 0b 0c 0d}\nA comedian!\nA real cutie!\nA big jerk!",
-   "et": ""
+   "et": "{07 0c 00}{01 00 00 0a 00}Kas kuulsid, {04 1f 00}?{01 00 00 14 00}\nSee tähtkuju {ff 00 00 02}{04 0f 00}\n{ff 00 00 00}seal üleval?\n{07 15 00}{0b 03 00}{ff 00 00 05}{04 10 00}{ff 00 00 00} linnast\n{ff 00 00 08}{04 11 00}{ff 00 00 00} tegi selle\ntähtkuju!\n{07 16 00}Ma mõtlen, anda sellele\nselline nimi{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 14 00} {07 0b 00}{01 00 00 05 00}Mis inimene\nsee {ff 00 00 05}{04 10 00}{ff 00 00 00} küll on?{02 01 00 0b 0c 0d}\nKoomik!\nTäitsa nunnu!\nSuur tropp!"
   },
   {
    "id": 5,
    "en": "{07 14 00}The {ff 00 00 02}{04 0f 00}\n{ff 00 00 00}constellation is sooo\ncool{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n{07 00 00}And I heard{01 00 00 05 00} that\n{ff 00 00 05}{04 10 00} {ff 00 00 00}from\n{ff 00 00 08}{04 11 00}{ff 00 00 00} created it!\n{06 01 00 0e 0f 10}",
-   "et": ""
+   "et": "{07 14 00}Tähtkuju {ff 00 00 02}{04 0f 00}\n{ff 00 00 00}on nii\nlahe{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n{07 00 00}Ja ma kuulsin,{01 00 00 05 00} et selle\nlõi {ff 00 00 05}{04 10 00} {ff 00 00 00}linnast\n{ff 00 00 08}{04 11 00}{ff 00 00 00}!\n{06 01 00 0e 0f 10}"
   },
   {
    "id": 6,
    "en": "{07 18 00}What?!{01 00 00 0a 00} Really?! {01 01 00}{07 06 00}Amazing,\n{04 1f 00}.{01 00 00 0f 00} You're so\ntalented,{01 00 00 05 00} {04 02 00}!",
-   "et": ""
+   "et": "{07 18 00}Mida?!{01 00 00 0a 00} Tõesti?! {01 01 00}{07 06 00}Hämmastav,\n{04 1f 00}.{01 00 00 0f 00} Sa oled nii\nandekas,{01 00 00 05 00} {04 02 00}!"
   },
   {
    "id": 7,
    "en": "{07 0a 00}It looks to me like it wants\nto drink {04 13 00},{01 00 00 0a 00}\n{04 02 00}.{03 01 00 01}",
-   "et": ""
+   "et": "{07 0a 00}Mulle tundub, et see tahab\njuua {04 13 00},{01 00 00 0a 00}\n{04 02 00}.{03 01 00 01}"
   },
   {
    "id": 8,
    "en": "{07 18 00}WHAT?!{01 00 00 0f 00} {0b 03 00}{04 1f 00}?! {01 01 00}{07 06 00}EW!\nTMI alert! TMI!{01 00 00 0a 00} Keep the\nkissyface talk to yourself!",
-   "et": ""
+   "et": "{07 18 00}MIDA?!{01 00 00 0f 00} {0b 03 00}{04 1f 00}?! {01 01 00}{07 06 00}ÖÄK!\nLiiga palju infot!{01 00 00 0a 00} Hoia\nsuudlusjutt endale!"
   },
   {
    "id": 9,
    "en": "{07 18 00}Whoa{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00} Really, {04 1f 00}?{01 01 00}\n{07 09 00}{01 00 00 05 00}I{01 00 00 05 00} really hate it when you're\nsarcastic, {01 00 00 05 00}{04 02 00}.",
-   "et": ""
+   "et": "{07 18 00}Ohoo{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00} Tõesti, {04 1f 00}?{01 01 00}\n{07 09 00}{01 00 00 05 00}Ma{01 00 00 05 00} vihkan väga, kui sa\noled sarkastiline, {01 00 00 05 00}{04 02 00}."
   },
   {
    "id": 10,
    "en": "{07 18 00}Huh?!{01 00 00 14 00} .{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 14 00}{07 16 00}You're always so\ncold, {01 00 00 05 00}{04 02 00}. {01 01 00}{07 00 00}Some\npeople don't like it{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00}\n{07 14 00}But I just pretend you're\na big lump of ice cream,\nand then I don't mind.",
-   "et": ""
+   "et": "{07 18 00}Ah?!{01 00 00 14 00} .{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 14 00}{07 16 00}Sa oled alati nii\nkülm, {01 00 00 05 00}{04 02 00}. {01 01 00}{07 00 00}Mõnele\nsee ei meeldi{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00}\n{07 14 00}Aga mina teesklen, et sa\noled suur jäätisepall,\nja siis ei häiri see mind."
   },
   {
    "id": 11,
    "en": "{07 1d 00}Whoa!{01 00 00 05 00} Really, {01 00 00 05 00}{04 02 00}! I\ntotally agree!\n\n{07 0a 00}Whenever I look closely at\nthat constellation, I just\nburst out laughing!{03 01 00 01}",
-   "et": ""
+   "et": "{07 1d 00}Ohoo!{01 00 00 05 00} Tõesti, {01 00 00 05 00}{04 02 00}! Ma\nolen täiesti nõus!\n\n{07 0a 00}Alati kui vaatan seda\ntähtkuju lähemalt, puhken\nlihtsalt naerma!{03 01 00 01}"
   },
   {
    "id": 12,
    "en": "{07 04 00}{01 00 00 0a 00}Have you two ever met?\n{01 01 00}{07 06 00}That's so unbelievably cool!\n\nYou need to hook me up\nwith an autograph and a\nglamour shot,{01 00 00 0a 00} {04 02 00}!",
-   "et": ""
+   "et": "{07 04 00}{01 00 00 0a 00}Kas te olete kohtunud?\n{01 01 00}{07 06 00}See on uskumatult lahe!\n\nPead mulle hankima\nautogrammi ja uhke\nfoto,{01 00 00 0a 00} {04 02 00}!"
   },
   {
    "id": 13,
    "en": "{07 02 00}{01 00 00 14 00}Wow!{01 00 00 0a 00} What do you mean by\nthat,{01 00 00 0a 00} {04 02 00}?\n\n{07 06 00}What exactly about\n{ff 00 00 02}{04 0f 00} {ff 00 00 00}is so\njerkish?\n{07 0d 00}I'll need you to summarize\nit in an essay of 50\nletters or less!",
-   "et": ""
+   "et": "{07 02 00}{01 00 00 14 00}Vau!{01 00 00 0a 00} Mida sa sellega\nmõtled,{01 00 00 0a 00} {04 02 00}?\n\n{07 06 00}Mis täpselt on\n{ff 00 00 02}{04 0f 00} {ff 00 00 00}juures\ntropilik?\n{07 0d 00}Pead selle kokku võtma\nesseesse, mis on 50 tähte\nvõi lühem!"
   },
   {
    "id": 14,
    "en": "{07 0d 00}Talk about someone who's a\nbig fan of glittery things,\nhuh, {01 00 00 0a 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 0d 00}Räägi sa inimesest, kes on\nsäravate asjade suur fänn,\nmis, {01 00 00 0a 00}{04 02 00}!"
   },
   {
    "id": 15,
    "en": "{07 14 00}Talk about a starry-eyed\nartist{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}. {07 0a 00}What creative\nvision!",
-   "et": ""
+   "et": "{07 14 00}Räägi sa tähesilmsest\nkunstnikust{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}. {07 0a 00}Milline\nloominguline nägemus!"
   },
   {
    "id": 16,
    "en": "{07 00 00}Talk about someone{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 19 00}who's\nalways working hard!{07 00 00}",
-   "et": ""
+   "et": "{07 00 00}Räägi sa inimesest{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 19 00}kes\ntöötab alati kõvasti!{07 00 00}"
   }
  ]
 }

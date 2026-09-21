@@ -4,17 +4,17 @@
   {
    "id": 0,
    "en": "{07 00 00}{0b 03 00}{04 1f 00}! {01 00 00 0a 00}You know what\n{04 1a 00}{07 0b 00} is?{01 00 00 05 00}\nHeard of it, {01 00 00 05 00}{04 02 00}?\n{07 14 00}Even if you haven't,{01 00 00 05 00} you\noughta know that those\nthings get me FIRED UP!\n{07 15 00}So...let's see who can catch\n{04 1a 00}\nthe fastest!\n{07 0d 00}C'mon!{01 00 00 05 00} It'll be awesome,\n{ff 00 00 05}{04 1f 00}{ff 00 00 00}!",
-   "et": ""
+   "et": "{07 00 00}{0b 03 00}{04 1f 00}! {01 00 00 0a 00}Kas sa tead, mis\n{04 1a 00}{07 0b 00} on?{01 00 00 05 00}\nKuulnud sellest, {01 00 00 05 00}{04 02 00}?\n{07 14 00}Isegi kui pole,{01 00 00 05 00} peaksid sa\nteadma, et need asjad\najavad mind HOOGU!\n{07 15 00}Nii et...vaatame, kes püüab\n{04 1a 00}\nkiiremini!\n{07 0d 00}Ole nüüd!{01 00 00 05 00} See tuleb vinge,\n{ff 00 00 05}{04 1f 00}{ff 00 00 00}!"
   },
   {
    "id": 1,
    "en": "{07 14 00}Wassup, {ff 00 00 05}{04 1f 00}{ff 00 00 00}!{01 00 00 0a 00}\nHey, are you into catching\nbugs, {01 00 00 05 00}{04 02 00}?\n{07 00 00}Sweet! {01 00 00 05 00}You can test your\nskills against me!{01 00 00 05 00} I'm a\nsemi-pro, after all.\nLet's see who can catch\n{04 1a 00}\nfirst. {07 0b 00}OK, {01 00 00 05 00}{04 02 00}?",
-   "et": ""
+   "et": "{07 14 00}Mis toimub, {ff 00 00 05}{04 1f 00}{ff 00 00 00}!{01 00 00 0a 00}\nHei, kas sa oled putukate\npüüdmise lainel, {01 00 00 05 00}{04 02 00}?\n{07 00 00}Super! {01 00 00 05 00}Sa võid oma oskusi\nminu vastu proovida!{01 00 00 05 00} Olen\nlõppude lõpuks poolproff.\nVaatame, kes püüab\n{04 1a 00}\nenne. {07 0b 00}Olgu, {01 00 00 05 00}{04 02 00}?"
   },
   {
    "id": 2,
    "en": "{07 11 00}If you're here, it means\nyou haven't been getting\nenough exercise, right?\n{07 00 00}Lemme ask you this, then:\nHow fast can you catch\n{04 1a 00}?\n{07 0b 00}I'll race you to catch one.\nHow about it?{01 00 00 05 00} It'll be a hot\nworkout,{01 00 00 05 00} {04 02 00}!",
-   "et": ""
+   "et": "{07 11 00}Kui sa oled siin, siis see\ntähendab, et sa pole palju\nliikunud, eks?\n{07 00 00}Las ma küsin siis nii:\nkui kiiresti sa suudad püüda\n{04 1a 00}?\n{07 0b 00}Võistleme püüdmises.\nKuidas oleks?{01 00 00 05 00} See on kuum\ntrenn,{01 00 00 05 00} {04 02 00}!"
   }
  ]
 }

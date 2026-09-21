@@ -4,32 +4,32 @@
   {
    "id": 0,
    "en": "{07 07 00}I don't feel like myself\ntoday{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 14 00} Brrrr{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}. I think I'm\ncatching a cold!",
-   "et": ""
+   "et": "{07 07 00}Ma ei tunne end täna\niseendana{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 14 00} Brrrr{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}. Ma vist\njään külmetama!"
   },
   {
    "id": 1,
    "en": "{07 16 00}AAACK!{01 00 00 05 00} KARF! KARF! HAAACK!{01 01 00}\nOh, no! I think I'm catching\na cold, {01 00 00 05 00}{04 02 00}.",
-   "et": ""
+   "et": "{07 16 00}AAAK!{01 00 00 05 00} KÖH! KÖH! HAAAK!{01 01 00}\nOi ei! Ma vist jään\nkülmetama, {01 00 00 05 00}{04 02 00}."
   },
   {
    "id": 2,
    "en": "{07 07 00}Ohh.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} I don't {01 00 00 05 00}feel {01 00 00 05 00}so {01 00 00 05 00}good. \nI think I'm gonna barf. {01 00 00 05 00}No,\nI'm OK. {01 00 00 05 00}I think.{01 01 00}{01 08 00} I'm so sick!",
-   "et": ""
+   "et": "{07 07 00}Ohh.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} Ma ei {01 00 00 05 00}tunne {01 00 00 05 00}end {01 00 00 05 00}hästi\nMa vist oksendan. {01 00 00 05 00}Ei,\nolen OK. {01 00 00 05 00}Vist.{01 01 00}{01 08 00} Nii haige!"
   },
   {
    "id": 3,
    "en": "{07 00 00}I was a goner, {01 00 00 05 00}but then\nthe {ff 00 00 07}medicine {ff 00 00 00}started to\nwork!\n{07 05 00}{01 08 00}HEY, EVERYBODY!{01 00 00 0f 00} {0b 03 00}{ff 00 00 05}{04 0f 00}\n{ff 00 00 00}is my HERO!{01 00 00 0f 00}{01 01 00} {07 07 00}That really\nhurt my throat.",
-   "et": ""
+   "et": "{07 00 00}Ma olin kadunud, {01 00 00 05 00}aga siis\nhakkas {ff 00 00 07}rohi {ff 00 00 00}mõjuma!\n\n{07 05 00}{01 08 00}HEI, KÕIK!{01 00 00 0f 00} {0b 03 00}{ff 00 00 05}{04 0f 00}\n{ff 00 00 00}on mu KANGELANE!{01 00 00 0f 00}{01 01 00} {07 07 00}See tegi\nmu kurgule haiget."
   },
   {
    "id": 4,
    "en": "{07 14 00}I'm feeling so much better!{01 00 00 14 00}\n{07 00 00}The {ff 00 00 07}medicine {ff 00 00 00}really did the\ntrick!\n{07 17 00}{0b 03 00}{ff 00 00 05}{04 0f 00} {ff 00 00 00}is my new hero.",
-   "et": ""
+   "et": "{07 14 00}Ma tunnen end palju\nparemini!{01 00 00 14 00} {07 00 00}{ff 00 00 07}Rohi {ff 00 00 00}tegi tõesti\noma töö! {07 17 00}{0b 03 00}{ff 00 00 05}{04 0f 00}{ff 00 00 00}on\nmu uus kangelane."
   },
   {
    "id": 5,
    "en": "{07 16 00}{01 08 00}KACK KAK HURK!{01 00 00 0a 00} HRACK {01 00 00 05 00}HRACK!\n{07 14 00}Don't worry. It sounds\nworse than it is.\nThe {ff 00 00 07}medicine {ff 00 00 00}that my hero,\n{ff 00 00 05}{04 0f 00}{ff 00 00 00}, gave me {01 00 00 0a 00}is\nstarting to work.",
-   "et": ""
+   "et": "{07 16 00}{01 08 00}KÖH KÖH HÖRK!{01 00 00 0a 00} HRÄK {01 00 00 05 00}HRÄK!\n{07 14 00}Ära muretse. See kõlab\nhullemini kui on.\n{ff 00 00 07}Rohi{ff 00 00 00}, mille mu kangelane\n{ff 00 00 05}{04 0f 00}{ff 00 00 00} mulle andis, {01 00 00 0a 00}\nhakkab mõjuma."
   }
  ]
 }

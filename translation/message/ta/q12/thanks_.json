@@ -4,17 +4,17 @@
   {
    "id": 0,
    "en": "{07 00 00}Say, that{ff 00 00 07} medicine{ff 00 00 00} that you\ngave me really did the \ntrick, {01 00 00 0a 00}{04 02 00}!\n{07 16 00}I think I'm a pretty tough\ncookie, but that cold\ntotally did a number on me!\n{07 00 00}Thanks for helping!{01 01 00} {07 16 00}I don't\neven want to THINK about\nwhat could've happened!",
-   "et": ""
+   "et": "{07 00 00}Kuule, see{ff 00 00 07} rohi{ff 00 00 00}, mille sa\nmulle andsid, tegi tõesti\noma töö, {01 00 00 0a 00}{04 02 00}!\n{07 16 00}Ma arvan, et olen päris\nkõva tegija, see külmetus\nvõttis mu täiesti maha!\n{07 00 00}Aitäh abi eest!{01 01 00} {07 16 00}Ma ei taha\nisegi MÕELDA sellele,\nmis oleks võinud juhtuda!"
   },
   {
    "id": 1,
    "en": "{07 00 00}Hey, {04 1f 00}, that\n{ff 00 00 07}medicine {ff 00 00 00}you gave me\ntotally helped!\n{07 0a 00}See, {01 00 00 05 00}don't I look like{01 00 00 14 00} my\nold perfect self again? {01 00 00 05 00}And\nisn't that thanks enough?!\n{07 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}Well, {01 00 00 05 00}I guess a present\nis a good way to say\nthanks, too.",
-   "et": ""
+   "et": "{07 00 00}Hei, {04 1f 00}, see\n{ff 00 00 07}rohi{ff 00 00 00}, mille sa mulle andsid,\naitas täiesti!\n{07 0a 00}Näed, {01 00 00 05 00}kas ma ei näe{01 00 00 14 00} jälle\nvälja nagu oma vana\ntäiuslik mina?{01 00 00 05 00} Ja kas\nsellest tänust ei piisa?! {07 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{01 00 00 05 00}\nkingitus on vist ka hea viis\ntänu avaldada."
   },
   {
    "id": 2,
    "en": "{07 1c 00}Thank you, {04 1f 00},\nfrom the bottom of my\nheart.\n{07 19 00}If you hadn't come to my\nrescue, I'd still be shaking\nand coughing and dizzy{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.\n{07 14 00}But I'm not, so I guess I\nshould give you something \nto thank you, {01 00 00 05 00}{04 02 00}.",
-   "et": ""
+   "et": "{07 1c 00}Aitäh sulle, {04 1f 00},\nkogu südamest.\n\n{07 19 00}Kui sa poleks mulle\nappi tulnud, väriseksin ma\nikka ja köhiksin{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.\n{07 14 00}Aga ma ei värise, nii et\nma peaksin sulle midagi\ntänuks andma, {01 00 00 05 00}{04 02 00}."
   }
  ]
 }

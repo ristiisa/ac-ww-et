@@ -4,62 +4,62 @@
   {
    "id": 0,
    "en": "{07 14 00}Wow... Snow.{01 00 00 05 00} SNOW!{01 00 00 0a 00} It's snow!{01 00 00 0a 00}\nYippee! Snow is SO cool!\n\nEveryone in town seems\ntotally happy to see the\nsnow, {01 00 00 05 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 14 00}Vau... Lumi.{01 00 00 05 00} LUMI!{01 00 00 0a 00} Lumi\nsajab!{01 00 00 0a 00} Juhhei! Lumi on NII\nlahe! \nKõik linnas tunduvad\nlume üle täiesti\nrõõmsad, {01 00 00 05 00}{04 02 00}!"
   },
   {
    "id": 1,
    "en": "{07 14 00}{0b 03 00}{01 06 00}Good morning{01 07 00}!{01 00 00 0a 00}\n{07 07 00}It was so c-cold last night!{01 00 00 05 00}\nI KNEW it would s-snow!\n{07 02 00}Eep! What happens if I slip\nand fall on my tush?!{01 00 00 0a 00}\nI'd be SOOOO embarrassed!",
-   "et": ""
+   "et": "{07 14 00}{0b 03 00}{01 06 00}Tere hommikust{01 07 00}!{01 00 00 0a 00}\n{07 07 00}Eile öösel oli nii k-külm!{01 00 00 05 00}\nMa TEADSIN, et tuleb l-lund!\n{07 02 00}Aih! Mis siis, kui ma libisen\nja tagumiku peale kukun?!{01 00 00 0a 00}\nMul oleks NII piinlik!"
   },
   {
    "id": 2,
    "en": "{07 16 00}Yesterday, my horoscope\nsaid that it would be sunny,{01 00 00 05 00}\nbut it SNOWED instead{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 15 00}Boy,{01 00 00 05 00} that does it!\nI'm never gonna believe in\nstupid astrology again{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 16 00}Oh, wait... {01 00 00 0a 00}Actually, that\nwas the weather forecast,\nnot astrology, {01 00 00 05 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 16 00}Eile ütles mu horoskoop,\net tuleb päikesepaisteline,{01 00 00 05 00}\naga selle asemel SADAS LUND{01 00 00 05 00}\n.{01 00 00 05 00} .{01 00 00 05 00} . {07 15 00}Küll,{01 00 00 05 00} aitab sellest!\nMa ei usu enam kunagi\nrumalat astroloogiat{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 16 00}Oi, oota... {01 00 00 0a 00}Tegelikult oli see\nilmateade, mitte\nastroloogia, {01 00 00 05 00}{04 02 00}!"
   },
   {
    "id": 3,
    "en": "{07 14 00}Oh, look! It's {01 00 00 05 00}{04 1f 00}!{01 00 00 05 00}\n{0b 03 00}{01 06 00}Hiya{01 07 00}!\n\n{07 16 00}Y'know, when I see all this\nsnow lying around, it makes\nme, like, kinda sad{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\nWhy?{01 00 00 0a 00}{07 06 00} Because it's gonna be\nGONE in a few days!!",
-   "et": ""
+   "et": "{07 14 00}Oi, vaata! See on {01 00 00 05 00}{04 1f 00}!{01 00 00 05 00}\n{0b 03 00}{01 06 00}Tsau{01 07 00}!\n\n{07 16 00}Tead, kui ma näen seda\nlund siin vedelemas, teeb\nsee mind, nagu, kurvaks{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\nMiks?{01 00 00 0a 00}{07 06 00} Sest see on paari\npäeva pärast KADUNUD!!"
   },
   {
    "id": 4,
    "en": "{07 14 00}{0b 03 00}{01 06 00}Heya{01 07 00}!\n{07 16 00}No matter how cold it gets,{01 00 00 05 00}\nyou can't be all lazy.\n{07 0c 00}Wait! I know! Hold on...{01 00 00 14 00}\nYou should go try some\n{04 16 00}!\n{07 16 00}I won't do it though,\n{04 02 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}. No way!{01 00 00 0a 00}\nIt's too cold!",
-   "et": ""
+   "et": "{07 14 00}{0b 03 00}{01 06 00}Tsau{01 07 00}!\n{07 16 00}Ükskõik kui külmaks läheb,{01 00 00 05 00}\nei tohi laisaks jääda.\n{07 0c 00}Oota! Ma tean! Pea kinni...{01 00 00 14 00}\nSa peaksid proovima\n{04 16 00}!\n{07 16 00}Mina seda küll ei tee,\n{04 02 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}. Mitte mingil\njuhul!{01 00 00 0a 00} Liiga külm on!"
   },
   {
    "id": 5,
    "en": "Huh?{01 00 00 0a 00}{07 14 00} Hey, {04 1f 00}!{01 00 00 05 00}\nDid you just get up,\n{01 00 00 05 00}{04 02 00}?\n{07 16 00}Yeah, it was soooo hard\nto get out of bed this\nmorning{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} It's too cold!",
-   "et": ""
+   "et": "Mis?{01 00 00 0a 00}{07 14 00} Hei, {04 1f 00}!{01 00 00 05 00}\nKas sa ärkasid just üles,\n{01 00 00 05 00}{04 02 00}?\n{07 16 00}Jah, täna hommikul oli nii\nraske voodist välja\nsaada{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} Liiga külm!"
   },
   {
    "id": 6,
    "en": "Hey, it's {01 00 00 05 00}{04 1f 00}!{01 00 00 0a 00}\n{07 14 00}Like, hi there! {01 00 00 05 00}Guess what?{01 00 00 0a 00}\nI've got a secret for you...\nI don't care if it's snowing{01 00 00 05 00}\nor dark{01 00 00 05 00} or there are wolves\nchasing me{01 00 00 05 00} or whatever...\nI love to {04 22 00}\nmore than anything else,\n{01 00 00 05 00}{04 02 00}!",
-   "et": ""
+   "et": "Hei, see on {01 00 00 05 00}{04 1f 00}!{01 00 00 0a 00}\n{07 14 00}Nagu, tere! {01 00 00 05 00}Tead mis?{01 00 00 0a 00}\nMul on sulle saladus...\nMul on ükskõik, kas sajab\nlund{01 00 00 05 00} või on pime{01 00 00 05 00} või ajavad\nhundid mind taga{01 00 00 05 00} või mis\niganes... Mulle\nmeeldib{04 22 00} rohkem kui\nmiski muu, {01 00 00 05 00}{04 02 00}!"
   },
   {
    "id": 7,
    "en": "{07 14 00}{0b 03 00}{01 06 00}Heya{01 07 00}!{01 00 00 0a 00}\n{07 00 00}Say, {01 00 00 05 00}{04 1f 00}, {01 00 00 05 00}I didn't\nsee you at all today!\n{07 0b 00}Were you all curled up next\nto the heater in your room,\n{01 00 00 05 00}{04 02 00}? That's so you!",
-   "et": ""
+   "et": "{07 14 00}{0b 03 00}{01 06 00}Tsau{01 07 00}!{01 00 00 0a 00}\n{07 00 00}Kuule, {01 00 00 05 00}{04 1f 00}, {01 00 00 05 00}ma ei\nnäinud sind täna üldse!\n{07 0b 00}Kas sa olid kerra tõmbunud\noma toas radiaatori kõrval,\n{01 00 00 05 00}{04 02 00}? Nii sinu moodi!"
   },
   {
    "id": 8,
    "en": "Say, {04 1f 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}. {07 14 00}You\nshould always move around\na lot when it snows.\n{07 00 00}That way, you can stay\nwarm {07 14 00}for FREE!{01 00 00 0a 00} Tee hee!{01 00 00 05 00} I'm\nsoooo smart!",
-   "et": ""
+   "et": "Kuule, {04 1f 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}. {07 14 00}Sa\npeaksid alati palju\nliikuma, kui lund sajab.\n{07 00 00}Nii püsid sa soojas\n{07 14 00}TASUTA!{01 00 00 0a 00} Hihii!{01 00 00 05 00} Olen\nnii tark!"
   },
   {
    "id": 9,
    "en": "{07 14 00}{0b 03 00}{01 06 00}Omigosh{01 07 00}!\n{01 00 00 05 00}{0b 03 00}{04 1f 00}!{01 00 00 0a 00} {07 07 00}How did you\nnot {01 00 00 05 00}FREEZE in that outfit?\n{07 04 00}Oh, hey... {01 00 00 0a 00}I guess I'm kinda\nin the same boat as you,\n{01 00 00 05 00}{04 02 00}!{07 00 00}",
-   "et": ""
+   "et": "{07 14 00}{0b 03 00}{01 06 00}Ohjumal{01 07 00}!\n{01 00 00 05 00}{0b 03 00}{04 1f 00}!{01 00 00 0a 00} {07 07 00}Kuidas sa\nselles rõivas {01 00 00 05 00}ÄRA EI KÜLMU?\n{07 04 00}Oi, kuule... {01 00 00 0a 00}Ma vist olen\nsinuga samas paadis,\n{01 00 00 05 00}{04 02 00}!{07 00 00}"
   },
   {
    "id": 10,
    "en": "{0b 03 00}{01 06 00}Wha--?{01 07 00}!{01 00 00 0f 00}\nOh, it's {04 1f 00}!{01 00 00 05 00} Hi\nthere, {04 02 00}!\n{07 16 00}I'm glad you came by, 'cause\nit's all cold and dark and\nscary and stuff! But...{01 00 00 05 00}\nDon't catch cold! Drink\nsome {04 18 00}\nand, like, go back to bed!",
-   "et": ""
+   "et": "{0b 03 00}{01 06 00}Mis--?{01 07 00}!{01 00 00 0f 00}\nOi, see on {04 1f 00}!{01 00 00 05 00} Tere,\n{04 02 00}!\n{07 16 00}Hea, et sa tulid, sest\non nii külm ja pime ja\nhirmus! Aga...{01 00 00 05 00}\nÄra külmeta! Joo natuke\n{04 18 00} ja,\nnagu, mine tagasi magama!"
   },
   {
    "id": 11,
    "en": "{07 02 00}Gyaaaaaaaaaaa!{01 01 00} .{01 00 00 05 00}.{01 00 00 0a 00}.{01 00 00 0c 00}{07 03 00}Oh, it's\nyou, {01 00 00 05 00}{04 1f 00}! WHEW!\nWhat a relief!\n{07 14 00}For a minute there,{01 00 00 0a 00}\nI thought you were a big,\nangry snowman, {01 00 00 05 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 02 00}Krääääääh!{01 01 00} .{01 00 00 05 00}.{01 00 00 0a 00}.{01 00 00 0c 00}{07 03 00}Oi, see oled\nsina, {01 00 00 05 00}{04 1f 00}! UHH!\nMilline kergendus!\n{07 14 00}Hetkeks arvasin,{01 00 00 0a 00}\net sa oled suur\nvihane lumememm, {01 00 00 05 00}{04 02 00}!"
   }
  ]
 }

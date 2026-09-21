@@ -4,17 +4,17 @@
   {
    "id": 0,
    "en": "{07 15 00}Hide-and-seek?!{01 00 00 0a 00} {07 01 00}{01 00 00 0a 00}Remember?!\nI went to hide! But you\nnever went looking for me!\n{07 16 00}If you didn't want to play,\nyou should have just said\nso{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 06 00}I've been waiting for you\nthis whole time,{01 00 00 0a 00}\n{04 02 00}!{03 03 00 02}",
-   "et": ""
+   "et": "{07 15 00}Peitust?!{01 00 00 0a 00} {07 01 00}{01 00 00 0a 00}Mäletad?!\nMa läksin peitu! Aga sa ei\ntulnud mind kunagi otsima!\n{07 16 00}Kui sa ei tahtnud mängida,\noleksid võinud lihtsalt\nöelda{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 06 00}Ma ootasin sind kogu\nselle aja,{01 00 00 0a 00}\n{04 02 00}!{03 03 00 02}"
   },
   {
    "id": 1,
    "en": "{07 04 00}Uh,{07 00 00} I kept waiting and\nwaiting, but you never came\nto find me.\n{07 16 00}I finally went home 'cause I\nwas dying of hunger.\n\n{07 1b 00}That game is no fun when\nthe seeker is terrible at\nseeking,{01 00 00 0a 00} {04 02 00}.",
-   "et": ""
+   "et": "{07 04 00}Ee,{07 00 00} ma ootasin ja\nootasin, aga sa ei tulnud\nkunagi mind otsima.\n{07 16 00}Lõpuks läksin koju, sest\nolin näljast suremas.\n\n{07 1b 00}See mäng pole lõbus, kui\notsija on otsimises\nkohutav,{01 00 00 0a 00} {04 02 00}."
   },
   {
    "id": 2,
    "en": "{07 0b 00}Hello?! Hide-and-seek?!{01 00 00 14 00} {07 14 00}Oh{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}\nThat means I win!\n\n{07 00 00}I thought it was just a\nrumor,{07 1b 00} but you really are\nterrible,{01 00 00 05 00} {04 02 00}.\n{07 16 00}I've never met anyone who\nwas sooo bad at hide-and-\nseek!",
-   "et": ""
+   "et": "{07 0b 00}Halloo?! Peitust?!{01 00 00 14 00} {07 14 00}Oh{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}\nSee tähendab, et võidan!\n\n{07 00 00}Arvasin, et see on lihtsalt\nkuulujutt,{07 1b 00} aga sa oled\ntõesti kohutav,{01 00 00 05 00} {04 02 00}.\n{07 16 00}Pole kunagi kohanud kedagi,\nkes oleks nii halb\npeitusemängija!"
   }
  ]
 }

@@ -4,17 +4,17 @@
   {
    "id": 0,
    "en": "{07 04 00}H-{01 00 00 03 00}hold on!{01 00 00 14 00} I haven't caught\nit yet!",
-   "et": ""
+   "et": "{07 04 00}O-{01 00 00 03 00}oota!{01 00 00 14 00} Ma pole seda\nveel püüdnud!"
   },
   {
    "id": 1,
    "en": "{07 15 00}Look, {01 00 00 0f 00}stop being so\nimpatient, {04 1f 00}, {01 00 00 0f 00}or I\nWILL whack you with my net!\nJust hold on until I find a\nbug I like!",
-   "et": ""
+   "et": "{07 15 00}Kuule, {01 00 00 0f 00}lõpeta see\nkannatamatus, {04 1f 00}, {01 00 00 0f 00}või\nma VIRUTAN sulle võrguga!\nOota, kuni ma leian\nputuka, kes meeldib!"
   },
   {
    "id": 2,
    "en": "{07 01 00}Ugh!{01 00 00 0f 00} {07 06 00}Where IS that bug?!{01 01 00}\n{07 16 00}Sorry, {04 1f 00}, {01 00 00 05 00}but you\ngotta give me more time!",
-   "et": ""
+   "et": "{07 01 00}Öök!{01 00 00 0f 00} {07 06 00}Kus see putukas ON?!{01 01 00}\n{07 16 00}Vabandust, {04 1f 00}, {01 00 00 05 00}aga sa\npead mulle aega andma!"
   }
  ]
 }

@@ -4,27 +4,27 @@
   {
    "id": 0,
    "en": "{07 05 00}Can we do this later?{01 00 00 14 00} I'm\nsorry, but I really need a\nsecond alone.\nNothing personal, but{01 00 00 05 00} I'm\nabout to explode! You don't\nwanna be around for that.",
-   "et": ""
+   "et": "{07 05 00}Kas teeme seda hiljem?{01 00 00 14 00} Mul\non kahju, aga ma vajan\ntõesti hetke üksi.\nPole isiklik, aga{01 00 00 05 00} ma olen\nplahvatamas! Sa ei taha\nselle juures olla."
   },
   {
    "id": 1,
    "en": "{07 01 00}I'm telling you that you \nwant to stay away from me,\n{01 00 00 05 00}{04 1f 00}!\nI don't want to gnaw your\nankle,{01 00 00 05 00} but at this rate,\nI just might, {01 00 00 05 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 01 00}Ma ütlen sulle, et sa\ntahad minust eemale hoida,\n{01 00 00 05 00}{04 1f 00}!\nMa ei taha su pahkluud\nnärida,{01 00 00 05 00} aga sellise tempoga\nvõin küll, {01 00 00 05 00}{04 02 00}!"
   },
   {
    "id": 2,
    "en": "{07 05 00}{01 08 00}AUGH!{01 00 00 14 00} Leave me alone!\n{0b 03 00}{01 00 00 05 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 05 00}{01 08 00}AUH!{01 00 00 14 00} Jäta mind rahule!\n{0b 03 00}{01 00 00 05 00}{04 02 00}!"
   },
   {
    "id": 3,
    "en": "{07 1b 00}Hey{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} Are you lookin' for a\nfight?{01 00 00 05 00} {07 01 00}Huh? Are ya? {01 00 00 05 00}Keep\nthis up and you'll find one!",
-   "et": ""
+   "et": "{07 1b 00}Kuule{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} Kas sa otsid\nkaklust?{01 00 00 05 00} {07 01 00}Ah? Otsid? {01 00 00 05 00}Jätka\nnii ja sa leiadki ühe!"
   },
   {
    "id": 4,
    "en": "{07 05 00}Shut up!{01 00 00 14 00} I'm in a really,{01 00 00 05 00}\nreally bad mood right now!",
-   "et": ""
+   "et": "{07 05 00}Jää vait!{01 00 00 14 00} Mul on praegu\ntõesti,{01 00 00 05 00} tõesti halb tuju!"
   }
  ]
 }

@@ -4,17 +4,17 @@
   {
    "id": 0,
    "en": "{07 16 00}I don't know what my\nproblem is, {01 00 00 05 00}{04 1f 00}!{01 00 00 0f 00} I\nhaven't caught a fish yet!\n{07 0b 00}What say you give me some\nmore time, {01 00 00 05 00}{04 02 00}?",
-   "et": ""
+   "et": "{07 16 00}Ma ei tea, mis mul viga\non, {01 00 00 05 00}{04 1f 00}!{01 00 00 0f 00} Ma pole\nveel ühtegi kala püüdnud!\n{07 0b 00}Mis sa ütled, kui annaksid\nmulle veel aega, {01 00 00 05 00}{04 02 00}?"
   },
   {
    "id": 1,
    "en": "{07 16 00}I hate to admit it, but{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}\nI still haven't caught a\nworthwhile fish.\n{07 14 00}It would be super if you'd\ngive me just a little more\ntime, {01 00 00 05 00}{04 02 00}.",
-   "et": ""
+   "et": "{07 16 00}Ma ei tahaks öelda, aga{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}\nma pole ikka veel ühtegi\nväärt kala püüdnud.\n{07 14 00}Oleks super, kui sa annaksid\nmulle veel natuke\naega, {01 00 00 05 00}{04 02 00}."
   },
   {
    "id": 2,
    "en": "{07 00 00}{0b 03 00}{04 1f 00}, {01 00 00 05 00}{07 0b 00}have you\ncaught any especially rare\nfish yet?\n{07 16 00}I'm not pressuring you!{01 00 00 05 00}\nI haven't caught anything\nyet either. Be patient!",
-   "et": ""
+   "et": "{07 00 00}{0b 03 00}{04 1f 00}, {01 00 00 05 00}{07 0b 00}kas sa oled\njuba mõne eriti haruldase\nkala püüdnud?\n{07 16 00}Ma ei sunni sind!{01 00 00 05 00}\nMa pole ka ise veel midagi\npüüdnud. Ole kannatlik!"
   }
  ]
 }

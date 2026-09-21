@@ -4,107 +4,107 @@
   {
    "id": 0,
    "en": "{07 00 00}I heard that the {ff 00 00 06}mayor{ff 00 00 00} has\nstarted the {ff 00 00 03}New Year's Eve\nCountdown {ff 00 00 00}in the{ff 00 00 08} plaza.\n{ff 00 00 00}Why does he have to start\nso darn early?!\n\nJust wait, {01 00 00 05 00}I'm sure this\nwon't last through the new\nyear.{01 01 00} I guarantee it!",
-   "et": ""
+   "et": "{07 00 00}Ma kuulsin, et {ff 00 00 06}linnapea{ff 00 00 00} on\nalustanud {ff 00 00 03}vana-aasta\npöördloendust {ff 00 00 00}{ff 00 00 08}väljakul.\n{ff 00 00 00}Miks ta peab nii vara\nalustama?!\n\nOota sa, {01 00 00 05 00}ma olen kindel, et\nsee ei kesta uue aastani.{01 01 00}\nMa garanteerin!"
   },
   {
    "id": 1,
    "en": "{07 00 00}I heard that they already\nstarted the {ff 00 00 03}countdown{ff 00 00 00} to\nthe end of the year{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.\n{07 14 00}Maybe I'll stop by just\nto say hi or something,\n{01 00 00 0a 00}{04 02 00}.",
-   "et": ""
+   "et": "{07 00 00}Ma kuulsin, et nad juba\nalustasid {ff 00 00 03}pöördloendust{ff 00 00 00}\naasta lõpuni{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.\n{07 14 00}Ehk astun ma läbi lihtsalt\nselleks, et tere öelda,\n{01 00 00 0a 00}{04 02 00}."
   },
   {
    "id": 2,
    "en": "Hey, {01 00 00 0a 00}did you see that the\n{ff 00 00 06}mayor {ff 00 00 00}{07 0b 00}has started the {ff 00 00 03}New\nYear's Eve Countdown{ff 00 00 00}?\nYeah, it's going on in the\n{ff 00 00 08}plaza {ff 00 00 00}now. {01 01 00}{07 06 00}I heard that he\nstarted it this morning.\n{07 00 00}.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}Wh-{01 00 00 05 00}{07 09 00}-what's he thinking\nanyway?",
-   "et": ""
+   "et": "Hei, {01 00 00 0a 00}kas sa nägid, et\n{ff 00 00 06}linnapea {ff 00 00 00}{07 0b 00}on alustanud {ff 00 00 03}vana-\naasta pöördloendust{ff 00 00 00}?\nJah, see käib praegu\n{ff 00 00 08}väljakul{ff 00 00 00}. {01 01 00}{07 06 00}Ma kuulsin, et ta\nalustas täna hommikul.\n{07 00 00}.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}M-{01 00 00 05 00}{07 09 00}-mida ta üldse\nmõtleb?"
   },
   {
    "id": 3,
    "en": "{07 00 00}A lot's happened this year,\n{07 14 00}but thanks to you, it was\na lot of fun, {01 00 00 05 00}{04 02 00}!\nI hope that you'll make me\nlaugh a lot next year, {01 00 00 05 00}just\nlike you did this year!",
-   "et": ""
+   "et": "{07 00 00}Sel aastal juhtus palju,\n{07 14 00}aga tänu sulle oli see\nväga lõbus, {01 00 00 05 00}{04 02 00}!\nLoodan, et paned mind ka\nuuel aastal naerma, {01 00 00 05 00}nagu\nsa tegid sel aastal!"
   },
   {
    "id": 4,
    "en": "{07 15 00}Everyone's getting all riled\nup for the new year's\ncelebration, but...\nI wonder if it'd seem uncool\nif I {07 0b 00}got all excited, too, \n{01 00 00 05 00}{04 02 00}?",
-   "et": ""
+   "et": "{07 15 00}Kõik lähevad uusaasta\npidustuste pärast\nelevile, aga...\nHuvitav, kas tundub ebalahe,\nkui {07 0b 00}ma ka elevile lähen,\n{01 00 00 05 00}{04 02 00}?"
   },
   {
    "id": 5,
    "en": "{07 1c 00}{01 00 00 05 00}Just a little bit of time\nleft until the next year.{01 01 00}\n{07 14 00}Hey, {01 00 00 05 00}{04 1f 00}...{01 00 00 0a 00}\nIf there's something that\nyou wanted to do, {07 15 00}here's\nyour chance to just do it!",
-   "et": ""
+   "et": "{07 1c 00}{01 00 00 05 00}Järgmise aastani on jäänud\nvaid pisut aega.{01 01 00}\n{07 14 00}Hei, {01 00 00 05 00}{04 1f 00}...{01 00 00 0a 00}\nKui sa tahtsid midagi\nteha, {07 15 00}siis nüüd on\nsul võimalus!"
   },
   {
    "id": 6,
    "en": "{07 14 00}This year is rapidly coming\nto an end, {01 00 00 05 00}{04 02 00}.\n\n{07 00 00}This is how time passes us\nby.{01 01 00} {07 09 00}It slips through our\ngrasp, never to return{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.",
-   "et": ""
+   "et": "{07 14 00}See aasta läheneb kiiresti\nlõpule, {01 00 00 05 00}{04 02 00}.\n\n{07 00 00}Nii aeg meist möödubki.{01 01 00} {07 09 00}See\nlibiseb meie haardest, et\nmitte kunagi tagasi tulla{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}."
   },
   {
    "id": 7,
    "en": "{07 04 00}Oh, no!{01 00 00 14 00} Less than an hour\nbefore the new year is\nhere!\n{07 06 00}There were so many things I\nwanted to do before the\nend of the year! {01 00 00 0a 00}Now what?!",
-   "et": ""
+   "et": "{07 04 00}Oi ei!{01 00 00 14 00} Vähem kui tund\naega uue aastani!\n\n{07 06 00}Ma tahtsin enne aasta\nlõppu nii palju teha!\n{01 00 00 0a 00}Mis nüüd?!"
   },
   {
    "id": 8,
    "en": "{07 00 00}The new year will be here\nin just a little bit, but\nwhen it does,\n{07 0b 00}what happens to this year?\nDo you know, {01 00 00 05 00}{04 02 00}?\n\n{07 00 00}You ever thought about{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}\nwhat happens to time after\nit's gone?{01 00 00 05 00} Where did it go?",
-   "et": ""
+   "et": "{07 00 00}Uus aasta saabub üsna\npea, aga kui see\nsaabub,\n{07 0b 00}mis juhtub selle aastaga?\nKas sa tead, {01 00 00 05 00}{04 02 00}?\n\n{07 00 00}Kas sa oled mõelnud{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}\nmis juhtub ajaga, kui see\non läinud?{01 00 00 05 00} Kuhu see läks?"
   },
   {
    "id": 9,
    "en": "{07 06 00}I resolve{01 00 00 05 00} to focus less on\nothers{01 00 00 05 00} and more on what\nreally matters.{01 01 00} ME!",
-   "et": ""
+   "et": "{07 06 00}Ma otsustan{01 00 00 05 00} keskenduda\nvähem teistele{01 00 00 05 00} ja rohkem\nsellele, mis loeb.{01 01 00} MINULE!"
   },
   {
    "id": 10,
    "en": "Tee hee hee! {01 00 00 05 00}Just five\nmore minutes to go 'til we\nkick this year to the curb!",
-   "et": ""
+   "et": "Hihihii! {01 00 00 05 00}Ainult viis\nminutit, kuni saadame selle\naasta minema!"
   },
   {
    "id": 11,
    "en": "{07 07 00}OK, {04 01 00}, it's time\nto get ahold of yourself.\n\nPull yourself together and\nwelcome in the new year\nwith style!",
-   "et": ""
+   "et": "{07 07 00}Olgu, {04 01 00}, on aeg\nend kokku võtta.\n\nVõta end kokku ja\ntervita uut aastat\nstiilselt!"
   },
   {
    "id": 12,
    "en": "{07 16 00}There's{01 00 00 05 00} something that I've\ngotta tell you! {07 06 00}I know it's\nsudden and last minute{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.\n{07 0a 00}But thanks for being so\nsweet to me all this year, \n{01 00 00 0a 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 16 00}Mul{01 00 00 05 00} on sulle midagi\nöelda! {07 06 00}Ma tean, et see on\näkiline ja viimasel hetkel{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.\n{07 0a 00}Aga aitäh, et olid minuga\nterve aasta nii kena,\n{01 00 00 0a 00}{04 02 00}!"
   },
   {
    "id": 13,
    "en": "I can't take it anymore{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 14 00} I\nhaven't been this excited\nsince my first crush!",
-   "et": ""
+   "et": "Ma ei kannata enam{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 14 00} Ma\npole nii elevil olnud alates\nesimesest armumisest!"
   },
   {
    "id": 14,
    "en": "{07 1a 00}HAPPY NEW YEAR!{01 01 00} {ff 00 00 02}{04 0f 00}{ff 00 00 00} has\nofficially started,\n{01 00 00 0a 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 1a 00}HEAD UUT AASTAT!{01 01 00} {ff 00 00 02}{04 0f 00}{ff 00 00 00}\non ametlikult alanud,\n{01 00 00 0a 00}{04 02 00}!"
   },
   {
    "id": 15,
    "en": "{07 1a 00}Hip hip hooray, {01 00 00 05 00}{04 1f 00}!\n{ff 00 00 02}{04 0f 00}{ff 00 00 00} is finally here, \n{01 00 00 05 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 1a 00}Elagu, {01 00 00 05 00}{04 1f 00}!\n{ff 00 00 02}{04 0f 00}{ff 00 00 00} on lõpuks käes,\n{01 00 00 05 00}{04 02 00}!"
   },
   {
    "id": 16,
    "en": "{07 0a 00}Happy New Year!{01 00 00 14 00} I hope this\nis a good one for us all,\n{01 00 00 0a 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 0a 00}Head uut aastat!{01 00 00 14 00} Loodan, et\nsee tuleb meile kõigile hea,\n{01 00 00 0a 00}{04 02 00}!"
   },
   {
    "id": 17,
    "en": "{07 00 00}I hope that this year is \na happy one for me{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.\n\n{07 11 00}And if it isn't, {01 00 00 05 00}I'll do\neverything I can to make\nit one, {01 00 00 05 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 00 00}Loodan, et see aasta on\nminu jaoks õnnelik{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.\n\n{07 11 00}Ja kui pole, {01 00 00 05 00}teen ma kõik,\nmis suudan, et see\nselliseks teha, {01 00 00 05 00}{04 02 00}!"
   },
   {
    "id": 18,
    "en": "{07 14 00}We're gonna have a great\nyear, {01 00 00 05 00}{04 1f 00}! I can\nfeel it in my eyelashes!",
-   "et": ""
+   "et": "{07 14 00}Meil tuleb suurepärane\naasta, {01 00 00 05 00}{04 1f 00}! Ma tunnen\nseda oma ripsmetes!"
   },
   {
    "id": 19,
    "en": "{07 00 00}{0b 03 00}{04 1f 00}! It's {ff 00 00 02}{04 0f 00}{ff 00 00 00}!!!",
-   "et": ""
+   "et": "{07 00 00}{0b 03 00}{04 1f 00}! On {ff 00 00 02}{04 0f 00}{ff 00 00 00}!!!"
   },
   {
    "id": 20,
    "en": "Hey, {01 00 00 05 00}{04 1f 00}!\n{01 00 00 05 00}{0b 03 00}{04 02 00}!",
-   "et": ""
+   "et": "Hei, {01 00 00 05 00}{04 1f 00}!\n{01 00 00 05 00}{0b 03 00}{04 02 00}!"
   }
  ]
 }

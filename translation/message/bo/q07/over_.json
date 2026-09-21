@@ -4,17 +4,17 @@
   {
    "id": 0,
    "en": "{07 00 00}Um, {04 1f 00}?{01 00 00 0a 00} Did you\never{01 00 00 0a 00} deliver my letter to\n{ff 00 00 06}{04 10 00}{ff 00 00 00}?\n{07 04 00}What?{01 00 00 05 00} You didn't?{01 01 00} {07 06 00}Why not?!{01 01 00}\n{07 16 00}Oh, no{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00} I guess{01 00 00 0a 00} I'll just\nhave to do it myself.\n{07 0b 00}Can I have my letter back,{01 00 00 0a 00}\n{04 02 00}?",
-   "et": ""
+   "et": "{07 00 00}Ee, {04 1f 00}?{01 00 00 0a 00} Kas sa\nüldse{01 00 00 0a 00} viisid mu kirja\n{ff 00 00 06}{04 10 00}{ff 00 00 00}-le?\n{07 04 00}Mis?{01 00 00 05 00} Ei viinud?{01 01 00} {07 06 00}Miks mitte?!{01 01 00}\n{07 16 00}Oh ei{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00} Vist{01 00 00 0a 00} pean\nselle ise ära tegema.\n{07 0b 00}Kas saan oma kirja tagasi,{01 00 00 0a 00}\n{04 02 00}?"
   },
   {
    "id": 1,
    "en": "{07 00 00}Oh, hey,{01 00 00 05 00} {04 1f 00},{01 00 00 0f 00} did\nyou deliver my letter?{01 01 00}\n{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00}{07 1c 00}{01 00 00 0a 00}You didn't, did you?\n{07 1b 00}I know {01 00 00 05 00}because {ff 00 00 06}{04 10 00}\n{ff 00 00 00}asked me,{01 00 00 05 00} \"{ff 00 00 02}Are you gonna\nreply to me,{01 00 00 05 00} or what?{ff 00 00 00}\"\nSince you don't want to do\nwhat you promised,{07 0b 00} can I\nhave it back?",
-   "et": ""
+   "et": "{07 00 00}Oh, hei,{01 00 00 05 00} {04 1f 00},{01 00 00 0f 00} kas\nsa viisid mu kirja?{01 01 00}\n{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00}{07 1c 00}{01 00 00 0a 00}Ei viinud, ega?\n{07 1b 00}Tean, {01 00 00 05 00}sest {ff 00 00 06}{04 10 00}\n{ff 00 00 00}küsis minult:{01 00 00 05 00} „{ff 00 00 02}Kas sa\nvastad mulle,{01 00 00 05 00} või kuidas?{ff 00 00 00}”\nKuna sa ei taha teha, mida\nlubasid,{07 0b 00} kas saan selle\ntagasi?"
   },
   {
    "id": 2,
    "en": "{07 04 00}Oh!{01 00 00 05 00} {0b 03 00}{04 1f 00}!{01 00 00 14 00} About that\nletter I gave you the other\nday{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00}\nIf you don't intend to\ndeliver it,{07 0b 00} can I have it\nback?\n{07 16 00}{0b 03 00}{ff 00 00 06}{04 10 00}{ff 00 00 00} got mad at me\nfor not sending a reply,{01 00 00 0a 00}\n{04 02 00}.",
-   "et": ""
+   "et": "{07 04 00}Oh!{01 00 00 05 00} {0b 03 00}{04 1f 00}!{01 00 00 14 00} Selle\nkirja kohta, mille sulle\nandsin{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00}\nKui sa ei kavatse seda\nkohale viia,{07 0b 00} kas saan selle\ntagasi?\n{07 16 00}{0b 03 00}{ff 00 00 06}{04 10 00}{ff 00 00 00} vihastas minu\npeale, et ma ei vastanud,{01 00 00 0a 00}\n{04 02 00}."
   }
  ]
 }

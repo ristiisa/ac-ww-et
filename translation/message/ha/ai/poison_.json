@@ -4,17 +4,17 @@
   {
    "id": 0,
    "en": "{07 04 00}Hey, {04 1f 00}!{01 00 00 0f 00}\n{07 06 00}Look! {01 00 00 05 00}Over there!{01 00 00 0a 00}\n{0b 03 00}{04 1a 00}!\n{07 15 00}I{01 00 00 05 00} can't believe you didn't\nnotice it sooner!{01 00 00 05 00} Look\nalive, {04 02 00}!\n{07 07 00}You DO realize, if I hadn't\npointed it out for you,{01 00 00 05 00}\nyou'd be{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.",
-   "et": ""
+   "et": "{07 04 00}Hei, {04 1f 00}!{01 00 00 0f 00}\n{07 06 00}Vaata! {01 00 00 05 00}Sealpool!{01 00 00 0a 00}\n{0b 03 00}{04 1a 00}!\n{07 15 00}Ma{01 00 00 05 00} ei usu, et sa seda varem\nei märganud!{01 00 00 05 00} Ole ärkvel,\n{04 02 00}!\n{07 07 00}Sa ju MÕISTAD, et kui ma\npoleks seda sulle näidanud,{01 00 00 05 00}\noleksid sa{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}."
   },
   {
    "id": 1,
    "en": "{07 02 00}Whoa, {01 00 00 05 00}{04 02 00}!\nMan, look over there!{01 00 00 05 00}\n{0b 03 00}{04 1a 00}!!!\n{07 15 00}You don't wanna scare it...\n{01 00 00 05 00}so you probably shouldn't\nscream in terror right now!",
-   "et": ""
+   "et": "{07 02 00}Ohoo, {01 00 00 05 00}{04 02 00}!\nMees, vaata sinnapoole!{01 00 00 05 00}\n{0b 03 00}{04 1a 00}!!!\n{07 15 00}Sa ei taha seda hirmutada...\n{01 00 00 05 00}nii et sa ilmselt ei peaks\npraegu õudusest karjuma!"
   },
   {
    "id": 2,
    "en": "{07 07 00}Aaaack!{01 00 00 0a 00} Look!{01 00 00 05 00} Over there!{01 00 00 05 00}\n{0b 03 00}{04 1a 00}!{01 00 00 05 00}\nYikes, {01 00 00 05 00}{04 02 00}!\n{07 0e 00}Even just a little of\nits poison can{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n{07 06 00}Aw, man... Just the thought!",
-   "et": ""
+   "et": "{07 07 00}Aaaak!{01 00 00 0a 00} Vaata!{01 00 00 05 00} Sealpool!{01 00 00 05 00}\n{0b 03 00}{04 1a 00}!{01 00 00 05 00}\nOih, {01 00 00 05 00}{04 02 00}!\n{07 0e 00}Isegi natuke selle\nmürki võib{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n{07 06 00}Oh mees... Juba mõte!"
   }
  ]
 }

@@ -4,17 +4,17 @@
   {
    "id": 0,
    "en": "{07 0e 00}I think we should hang out\nmore, {01 00 00 05 00}don't you?\n\n{07 0c 00}{01 00 00 14 00}Oh!{01 00 00 05 00} {07 14 00}Oh! Oh! I know!{01 00 00 14 00}{07 0b 00} Can I{01 00 00 0a 00}\ncome over to your house\nsometime?",
-   "et": ""
+   "et": "{07 0e 00}Arvan, et peaksime rohkem\nkoos aega veetma, {01 00 00 05 00}kas sa ei\nleia?\n{07 0c 00}{01 00 00 14 00}Oh!{01 00 00 05 00} {07 14 00}Oh! Oh! Ma tean!{01 00 00 14 00}{07 0b 00} Kas ma{01 00 00 0a 00}\nvõiksin kunagi sinu\nkoju tulla?"
   },
   {
    "id": 1,
    "en": "{07 00 00}Hey, {04 1f 00}, I've\nalways wondered what kind\nof a house you live in.\n{07 15 00}You play it like you're all\ncasual, {01 00 00 05 00}{07 11 00}but I bet your\nhouse is awesome!\n{07 0f 00}But this is all just\nspeculation, 'cause you've\nnever invited me over!\n{07 00 00}So whaddaya say? {07 0b 00}Can I\ncome by and see your\nplace, {01 00 00 05 00}{04 02 00}?",
-   "et": ""
+   "et": "{07 00 00}Hei, {04 1f 00}, olen alati\nmõelnud, millises majas\nsa elad.\n{07 15 00}Sa teed nägu, nagu oleks\nkõik lihtne, {01 00 00 05 00}{07 11 00}aga vean kihla,\net su maja on vinge!\n{07 0f 00}Aga see on kõik ainult\noletus, sest sa pole mind\nkunagi külla kutsunud!\n{07 00 00}Mis sa kostad? {07 0b 00}Kas ma\nvõin läbi tulla ja su\nkodu vaadata, {01 00 00 05 00}{04 02 00}?"
   },
   {
    "id": 2,
    "en": "{07 14 00}Having someone visit your\nhouse is proof that they're\nyour friend, huh?\n{07 06 00}I'd sure like to see your\nplace, too, {01 00 00 0a 00}{04 02 00}.{01 01 00}\n{ff 00 00 04}Hint, hint.",
-   "et": ""
+   "et": "{07 14 00}Kellegi külla kutsumine on\ntõend, et ta on sinu\nsõber, mis?\n{07 06 00}Tahaksin väga näha ka\nsinu kodu, {01 00 00 0a 00}{04 02 00}.{01 01 00}\n{ff 00 00 04}Vihje, vihje."
   }
  ]
 }

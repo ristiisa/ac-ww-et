@@ -4,17 +4,17 @@
   {
    "id": 0,
    "en": "{07 15 00}WHAT?! {01 00 00 05 00}Why are you all up in\nmy business?{01 01 00}{01 08 00} NO, I HAVEN'T\nCAUGHT THE BUG YET!\n{07 16 00}But {01 00 00 05 00}just you wait and see,\n{01 00 00 05 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 15 00}MIDA?! {01 00 00 05 00}Miks sa toppid nina\nmu asjadesse?{01 01 00}{01 08 00} EI, MA POLE\nSEDA PUTUKAT VEEL PÜÜDNUD!\n{07 16 00}Aga {01 00 00 05 00}oota ja vaata,\n{01 00 00 05 00}{04 02 00}!"
   },
   {
    "id": 1,
    "en": "{07 16 00}I still haven't found a bug\nthat's worthy, {01 00 00 05 00}{04 02 00}.\nYeah, I'm choosy.\n{07 01 00}But so what?! {01 01 00}{07 06 00}I'll find one\nthat'll make your eyes bug\nout and your brain melt!",
-   "et": ""
+   "et": "{07 16 00}Ma pole ikka leidnud\nväärilist putukat, {01 00 00 05 00}{04 02 00}.\nJah, ma olen valiv.\n{07 01 00}Aga mis siis?! {01 01 00}{07 06 00}Leian ühe,\nmis paneb su silmad\npunni ja aju sulama!"
   },
   {
    "id": 2,
    "en": "{07 15 00}Stop rushing me, you jerk!{01 00 00 05 00}\nYou're too darn edgy!\nJust cool it, {01 00 00 05 00}{04 02 00}!\n{07 06 00}I still haven't caught my\nbug quite yet!{01 01 00}\nBUT I WILL!",
-   "et": ""
+   "et": "{07 15 00}Ära kiirusta mind tagant!{01 00 00 05 00}\nSa oled liiga närviline!\nRahune maha, {01 00 00 05 00}{04 02 00}!\n{07 06 00}Ma pole oma putukat\nveel päris kätte saanud!{01 01 00}\nAGA SAAN!"
   }
  ]
 }

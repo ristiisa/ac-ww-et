@@ -4,192 +4,192 @@
   {
    "id": 0,
    "en": "{06 0b 00 0b 0b 0b 0b 0c 0c 0a}",
-   "et": ""
+   "et": "{06 0b 00 0b 0b 0b 0b 0c 0c 0a}"
   },
   {
    "id": 1,
    "en": "{07 35 00}Hey, {04 1f 00},{01 00 00 14 00}{07 0b 00} have you\never seen {ff 00 00 06}Brewster{ff 00 00 00} laugh?{01 00 00 0a 00}\n{0b 03 00}{04 02 00}?{02 01 00 0d 0e 0f}\nI guess not...\nOf course!\nI don't know.",
-   "et": ""
+   "et": "{07 35 00}Hei, {04 1f 00},{01 00 00 14 00}{07 0b 00} kas oled\nnäinud {ff 00 00 06}Brewsterit{ff 00 00 00}\nnaermas?{01 00 00 0a 00} {0b 03 00}{04 02 00}?{02 01 00 0d 0e 0f}\nVist mitte...\nMuidugi!\nMa ei tea."
   },
   {
    "id": 2,
    "en": "{06 08 00 10 11 12 13}",
-   "et": ""
+   "et": "{06 08 00 10 11 12 13}"
   },
   {
    "id": 3,
    "en": "{07 35 00}{01 00 00 05 00}{ff 00 00 06}Brewster{ff 00 00 00} was saying that\nthe coffee du jour has a\nsophisticated flavor{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n{07 07 00}But it's too bitter for me,{01 00 00 05 00}\n{04 02 00}.\n\n{07 16 00}Do you like bitter,\nover-roasted coffee,\n{04 1f 00}?{01 00 00 0a 00}\n{02 00 00 14 19}\nBlech!\nI love it!",
-   "et": ""
+   "et": "{07 35 00}{01 00 00 05 00}{ff 00 00 06}Brewster{ff 00 00 00} ütles, et\npäevakohvil on\nrafineeritud maitse{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n{07 07 00}Aga minu jaoks on see liiga\nmõru,{01 00 00 05 00} {04 02 00}.\n\n{07 16 00}Kas sulle meeldib mõru,\nüleröstitud kohv,\n{04 1f 00}?{01 00 00 0a 00}\n{02 00 00 14 19}\nPtüi!\nJumaldan!"
   },
   {
    "id": 4,
    "en": "{06 0b 00 1d 1e 06 1d 06 1e 1d}",
-   "et": ""
+   "et": "{06 0b 00 1d 1e 06 1d 06 1e 1d}"
   },
   {
    "id": 6,
    "en": "{06 01 00 07 08 09}",
-   "et": ""
+   "et": "{06 01 00 07 08 09}"
   },
   {
    "id": 7,
    "en": "I{01 00 00 0a 00} love the whirpool that's\ncreated when I pour cream \nin my coffee.\n{07 37 00}I just heard this:{01 00 00 0a 00}{07 0e 00} \"Love's\nsea is made of tears and\n{04 19 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\"\nDo you get that? {01 00 00 0a 00}{07 34 00}Well, I\nhope I'll get to set sail on\nthat sea someday.",
-   "et": ""
+   "et": "Mulle{01 00 00 0a 00} meeldib keeris, mis\ntekib, kui valan kohvi \nsisse koort.\n{07 37 00}Kuulsin just:{01 00 00 0a 00}{07 0e 00} „Armastuse\nmeri on tehtud pisaratest\nja {04 19 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}”\nKas saad aru? {01 00 00 0a 00}{07 34 00}Noh, loodan,\net saan kunagi sellel merel\npurjetada."
   },
   {
    "id": 8,
    "en": "{07 34 00}I heard that you-know-who\ncomes here a lot. {01 00 00 0a 00}{07 33 00}So I'm\nlearning to like coffee!\n{07 36 00}Oh,{01 00 00 05 00} but don't tell anyone,\nOK? It's a secret,{01 00 00 0a 00}\n{04 02 00}!",
-   "et": ""
+   "et": "{07 34 00}Kuulsin, et sa-tead-kes\nkäib siin tihti. {01 00 00 0a 00}{07 33 00}Nii et\nõpin kohvi armastama!\n{07 36 00}Oh,{01 00 00 05 00} aga ära ütle kellelegi,\neks? See on saladus,{01 00 00 0a 00}\n{04 02 00}!"
   },
   {
    "id": 9,
    "en": "{07 34 00}I always feel so\nsophisticated when I come\nhere,{01 00 00 0a 00} {04 02 00}.\n{07 37 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}It makes me{01 00 00 0a 00} want to grow\na beard or something{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{01 00 00 0a 00}{07 00 00}\n\n{07 33 00}{01 00 00 05 00}It'd be SOO cool if I grew a\nbeard down to my feet! {01 00 00 05 00}I'd\nnever have to wear clothes!",
-   "et": ""
+   "et": "{07 34 00}Tunnen end alati nii\nrafineerituna, kui siia\ntulen,{01 00 00 0a 00} {04 02 00}.\n{07 37 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}See paneb mind{01 00 00 0a 00} tahtma\nhabet kasvatada{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{01 00 00 0a 00}{07 00 00}\n\n{07 33 00}{01 00 00 05 00}Oleks NII lahe, kui mul\nkasvaks habe jalgadeni! {01 00 00 05 00}Ei\npeaks kunagi riideid kandma!"
   },
   {
    "id": 10,
    "en": "{07 37 00}{ff 00 00 06}Brewster{ff 00 00 00} always talks about\ncoffee's \"sophistated\nbitterness,\"{01 00 00 05 00} {04 02 00}.\n{07 34 00}But I don't agree, so I'm\nenjoying a cup of joe with\nextra milk and sugar!",
-   "et": ""
+   "et": "{07 37 00}{ff 00 00 06}Brewster{ff 00 00 00} räägib alati\nkohvi „rafineeritud\nmõrudusest”,{01 00 00 05 00} {04 02 00}.\n{07 34 00}Aga mina ei nõustu, nii et\nnaudin tassi kohvi, kus on\nlisaks piima ja suhkrut!"
   },
   {
    "id": 11,
    "en": "{07 0e 00}OK{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00}so if sweetened milk is\nthe flavor of love, {01 00 00 0a 00}\n{04 02 00},\n{07 35 00}then{01 00 00 0a 00}{07 0b 00} what is bitter\ncoffee the flavor of?\n\n{07 34 00}It must be the flavor of\nromance,{01 00 00 0a 00} {04 02 00}!",
-   "et": ""
+   "et": "{07 0e 00}Olgu{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00}kui magus piim on\narmastuse maitse, {01 00 00 0a 00}\n{04 02 00},\n{07 35 00}siis{01 00 00 0a 00}{07 0b 00} mille maitse on\nmõru kohv?\n\n{07 34 00}See peab olema romantika\nmaitse,{01 00 00 0a 00} {04 02 00}!"
   },
   {
    "id": 12,
    "en": "{07 33 00}Whew.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00} What I wouldn't give\nfor a sweet helping of\n{04 19 00}.",
-   "et": ""
+   "et": "{07 33 00}Ohh.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00} Mida ma ei annaks\nmagusa portsjoni\n{04 19 00} eest."
   },
   {
    "id": 13,
    "en": "{07 0e 00}So{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}do you think the only\ncoffee that {ff 00 00 06}Brewster{ff 00 00 00} ever\ndrinks{01 00 00 0a 00} is bitter coffee?\n{07 37 00}That's why he always has\nsuch a cold, bitter look on\nhis face, {04 02 00}!\n{07 0c 00}{01 00 00 05 00}I know!{01 00 00 14 00} Let's make him eat\nsome {04 19 00}!{01 00 00 0a 00}\n{07 33 00}That would sweeten him up!",
-   "et": ""
+   "et": "{07 0e 00}Nii et{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}kas sa arvad, et\nainus kohv, mida {ff 00 00 06}Brewster{ff 00 00 00}\njoob,{01 00 00 0a 00} on mõru kohv?\n{07 37 00}Sellepärast ongi tal alati\nnii külm ja mõru nägu,\n{04 02 00}!\n{07 0c 00}{01 00 00 05 00}Tean!{01 00 00 14 00} Söödame talle\n{04 19 00}!{01 00 00 0a 00}\n{07 33 00}See teeks ta magusaks!"
   },
   {
    "id": 14,
    "en": "{07 36 00}WHAT?!{01 00 00 14 00}{07 06 00} {0b 03 00}{04 1f 00}! What\ndid you just say!?!\n\n{07 35 00}{01 00 00 05 00}He never cracks a smile\naround me, no matter how\nmany funny stories I tell.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00}\n{07 16 00}Maybe I'm just not very\nfunny,{01 00 00 0a 00} {04 02 00}.{03 03 00 01}",
-   "et": ""
+   "et": "{07 36 00}MIDA?!{01 00 00 14 00}{07 06 00} {0b 03 00}{04 1f 00}! Mida\nsa just ütlesid!?!\n\n{07 35 00}{01 00 00 05 00}Ta ei naerata minu seltsis\nkunagi, ükskõik kui palju\nnaljakaid lugusid räägin.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00}\n{07 16 00}Vahest ma lihtsalt polegi\nväga naljakas,{01 00 00 0a 00} {04 02 00}.{03 03 00 01}"
   },
   {
    "id": 15,
    "en": "{07 09 00}{01 00 00 05 00}{0b 03 00}{04 02 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n\n\n{07 36 00}The mysteries of\n{04 03 00} multiply again{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00}\n{07 38 00}This is number {04 06 00}!{03 03 00 01}",
-   "et": ""
+   "et": "{07 09 00}{01 00 00 05 00}{0b 03 00}{04 02 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n\n\n{07 36 00}Linna {04 03 00}\nsaladused kasvavad taas{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00}\n{07 38 00}See on number {04 06 00}!{03 03 00 01}"
   },
   {
    "id": 16,
    "en": "{07 14 00}Heh heh heh!{01 00 00 0a 00} Drinking bitter\ncoffee like this first thing\nin the morning{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n{07 00 00}I'm just{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 0d 00}the picture of\nsophistication, aren't I?{01 00 00 14 00}\n{07 0d 00}Well, look and learn!\nThis is how a man of style\ngreets the day. Look and\nlearn, {04 02 00}!\n",
-   "et": ""
+   "et": "{07 14 00}Heh heh heh!{01 00 00 0a 00} Nii mõru kohvi\njoomine kohe hommiku\nesimese asjana{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n{07 00 00}Olen lihtsalt{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 0d 00}rafineerituse\nmusternäide, kas pole?{01 00 00 14 00}\n{07 0d 00}Vaata ja õpi!\nNii tervitab stiilne mees\nuut päeva. Vaata ja\nõpi, {04 02 00}!\n"
   },
   {
    "id": 17,
    "en": "{07 12 00}YAAAWWWNNN!{01 00 00 0a 00} I always get so\nsleepy in the afternoon,{01 00 00 0a 00}\n{04 02 00}.\n{07 16 00}And drinking {ff 00 00 06}Brwester's\n{ff 00 00 00}bitter coffee didn't even\nhelp! Hmph{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 1c 00}{01 00 00 05 00}What a waste.",
-   "et": ""
+   "et": "{07 12 00}HAAAAUH!{01 00 00 0a 00} Pärastlõunal jään\nalati nii uniseks,{01 00 00 0a 00}\n{04 02 00}.\n{07 16 00}Ja {ff 00 00 06}Brwesteri\n{ff 00 00 00}mõru kohvi joomine ei\naidanud! Hmph{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 1c 00}{01 00 00 05 00}Raisus."
   },
   {
    "id": 18,
    "en": "{07 16 00}Oh no! I gotta watch a\n{04 16 00} match on TV\nlater today!\n{07 00 00}I'm drinking coffee to get\nready{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 15 00} But how can I stay\nup that late?! I'm sleepy!",
-   "et": ""
+   "et": "{07 16 00}Oh ei! Pean täna hiljem\ntelekast {04 16 00} matši\nvaatama!\n{07 00 00}Joon kohvi, et valmis\nolla{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 15 00} Aga kuidas ma nii\nhilja üleval püsin?! Unine!"
   },
   {
    "id": 19,
    "en": "{07 14 00}Drinking coffee this late at\nnight like this is{01 00 00 0a 00}{07 0d 00} so\nexciting!\n{07 0a 00}Heck! I could even listen to\nsome {04 17 00},\n{01 00 00 05 00}{04 02 00}!\n{07 0d 00}I'm on fire! YEAH!{01 00 00 0a 00}\n{0b 03 00}{04 02 00}!!! Caffeinated\n{04 01 00}!{03 01 00 01}",
-   "et": ""
+   "et": "{07 14 00}Nii hilja öösel kohvi\njoomine on{01 00 00 0a 00}{07 0d 00} nii\npõnev!\n{07 0a 00}Ohoh! Võiksin isegi kuulata\n{04 17 00},\n{01 00 00 05 00}{04 02 00}!\n{07 0d 00}Ma põlen! JAH!{01 00 00 0a 00}\n{0b 03 00}{04 02 00}!!! Kofeiinine\n{04 01 00}!{03 01 00 01}"
   },
   {
    "id": 20,
    "en": "{07 0a 00}I totally agree with you!{01 00 00 14 00}\n{07 00 00}But {ff 00 00 06}Brewster {ff 00 00 00}always says\nthat black is best!\n{07 1b 00}I think coffee is good when\nit's sweet and bitter. You\nknow, bitter sweet, right?\n{07 00 00}By the way,{01 00 00 05 00}{07 0b 00} how much sugar\ndo you put in your joe?{05 05 00 02 18 06 17 06 16 02 15}\nNone.\n30 scoops.",
-   "et": ""
+   "et": "{07 0a 00}Olen sinuga täiesti nõus!{01 00 00 14 00}\n{07 00 00}Aga {ff 00 00 06}Brewster {ff 00 00 00}ütleb alati,\net must on parim!\n{07 1b 00}Minu meelest on kohv hea,\nkui see on magus ja mõru.\nMõrkjasmagus, eks?\n{07 00 00}Muide,{01 00 00 05 00}{07 0b 00} kui palju suhkrut\nsa oma kohvi paned?{05 05 00 02 18 06 17 06 16 02 15}\nMitte midagi.\n30 lusikat."
   },
   {
    "id": 21,
    "en": "{07 02 00}What?! {0b 03 00}{04 1f 00}!{01 00 00 0a 00}{07 06 00} That's\nwhat he means by black!\n\n{07 08 00}Coffee without sugar is like\na day without sunshine,\n{01 00 00 0a 00}{04 02 00}!{03 03 00 01}",
-   "et": ""
+   "et": "{07 02 00}Mida?! {0b 03 00}{04 1f 00}!{01 00 00 0a 00}{07 06 00} Seda\nta mustaga mõtlebki!\n\n{07 08 00}Kohv ilma suhkruta on nagu\npäev ilma päikeseta,\n{01 00 00 0a 00}{04 02 00}!{03 03 00 01}"
   },
   {
    "id": 22,
    "en": "{07 14 00}Whoa!{01 00 00 05 00} {0b 03 00}{04 1f 00}! Your\ntastes are more refined\nthan I thought,{01 00 00 0a 00} {04 02 00}.\n{07 13 00}I put so much sugar in\ncoffee,{01 00 00 05 00} there's a pile at\nthe bottom when I'm done.",
-   "et": ""
+   "et": "{07 14 00}Ohoo!{01 00 00 05 00} {0b 03 00}{04 1f 00}! Sinu\nmaitse on peenem, kui\narvasin,{01 00 00 0a 00} {04 02 00}.\n{07 13 00}Mina panen kohvi nii palju\nsuhkrut,{01 00 00 05 00} et põhja jääb\nkorralik hunnik."
   },
   {
    "id": 23,
    "en": "{07 19 00}{01 00 00 0a 00}Yeah.{01 00 00 14 00}{07 1b 00} That's about how much\nsugar a cup of coffee\nneeds to be drinkable.\n{07 06 00}Yum!{01 00 00 0a 00} Just the thought of it\nmakes me want to eat some\n{04 19 00}!",
-   "et": ""
+   "et": "{07 19 00}{01 00 00 0a 00}Jaa.{01 00 00 14 00}{07 1b 00} Umbes nii palju\nsuhkrut ongi tassi kohvi\njoodavaks tegemiseks vaja.\n{07 06 00}Nämm!{01 00 00 0a 00} Juba mõte sellest\npaneb mind tahtma süüa\n{04 19 00}!"
   },
   {
    "id": 24,
    "en": "{06 00 00 25 26}",
-   "et": ""
+   "et": "{06 00 00 25 26}"
   },
   {
    "id": 25,
    "en": "{06 01 00 1a 1b 1c}",
-   "et": ""
+   "et": "{06 01 00 1a 1b 1c}"
   },
   {
    "id": 26,
    "en": "{07 02 00}What?{01 00 00 0a 00} Really?{01 00 00 14 00}{07 1b 00}Well, even\nthough you don't look it,\n{04 1f 00},\nI guess your tastes are\npretty refined. {01 00 00 0a 00}You're all\nsophisticated and stuff.\n{07 16 00}I think this coffee would be\nbetter if tasted like\n{04 19 00}.",
-   "et": ""
+   "et": "{07 02 00}Mida?{01 00 00 0a 00} Tõesti?{01 00 00 14 00}{07 1b 00}Noh, kuigi\nsa ei näe selline välja,\n{04 1f 00},\non su maitse vist päris\npeen. {01 00 00 0a 00}Sa oled üleni\nrafineeritud ja nii.\n{07 16 00}Minu meelest oleks see kohv\nparem, kui see maitseks\nnagu {04 19 00}."
   },
   {
    "id": 27,
    "en": "{07 14 00}Huh huh huh.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00} The secret\ningredient in his coffee{01 00 00 05 00} is\nlove,{01 00 00 0a 00} {04 02 00}!\n{07 00 00}So, that means that if you\ncrave bitter coffee {01 00 00 0a 00}{07 13 00}you're\nin love!",
-   "et": ""
+   "et": "{07 14 00}Hah hah haa.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00} Tema kohvi\nsalajane koostisosa{01 00 00 05 00} on\narmastus,{01 00 00 0a 00} {04 02 00}!\n{07 00 00}See tähendab, et kui ihkad\nmõru kohvi, {01 00 00 0a 00}{07 13 00}oled\narmunud!"
   },
   {
    "id": 28,
    "en": "{07 16 00}{0b 03 00}{04 1f 00}?! You're the\nonly one I know who can\nhandle bitter coffee!\n{07 06 00}It's not fair,{01 00 00 0a 00} {04 02 00}! {07 08 00}I\nwanna sit and chat with you\nover a cup of joe!{03 03 00 01}",
-   "et": ""
+   "et": "{07 16 00}{0b 03 00}{04 1f 00}?! Sa oled ainus,\nkeda ma tean, kes mõru\nkohvi talub!\n{07 06 00}See pole aus,{01 00 00 0a 00} {04 02 00}! {07 08 00}Ma\ntahan sinuga tassi kohvi\njuures istuda ja vestelda!{03 03 00 01}"
   },
   {
    "id": 29,
    "en": "{06 01 00 1f 20 21}",
-   "et": ""
+   "et": "{06 01 00 1f 20 21}"
   },
   {
    "id": 30,
    "en": "{06 01 00 22 23 24}",
-   "et": ""
+   "et": "{06 01 00 22 23 24}"
   },
   {
    "id": 31,
    "en": "{07 00 00}Drinking coffee at a coffee\nshop{01 00 00 0a 00}{07 14 00} kinda makes me feel\nlike my old man!\n{07 11 00}\"{ff 00 00 02}Brewster! Give me another\nshot!{ff 00 00 00}\" {01 00 00 14 00}{07 00 00}I can't wait to use{01 00 00 05 00}\nthat one on him!",
-   "et": ""
+   "et": "{07 00 00}Kohvikus kohvi joomine{01 00 00 0a 00}{07 14 00}\npaneb mind end tundma\nnagu mu vanamees!\n{07 11 00}„{ff 00 00 02}Brewster! Anna mulle veel\nüks tass!{ff 00 00 00}” {01 00 00 14 00}{07 00 00}Ootan juba,{01 00 00 05 00}\net seda talle öelda!"
   },
   {
    "id": 32,
    "en": "{07 14 00}Don't tell Brewster this,\nbut I put in one sugar for\neach year of my life.\n{07 00 00}One,{01 00 00 05 00} two,{01 00 00 05 00} three{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 16 00}{01 00 00 05 00}{04 0a 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00}\n{07 17 00}Heh heh heh.{01 00 00 14 00}Well, sometimes\nI cheat, {01 00 00 0a 00}{04 02 00}.",
-   "et": ""
+   "et": "{07 14 00}Ära ütle Brewsterile, aga\npanen ühe suhkru iga\neluaasta kohta.\n{07 00 00}Üks,{01 00 00 05 00} kaks,{01 00 00 05 00} kolm{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 16 00}{01 00 00 05 00}{04 0a 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00}\n{07 17 00}Heh heh heh.{01 00 00 14 00}Noh, vahel ma\npetan, {01 00 00 0a 00}{04 02 00}."
   },
   {
    "id": 33,
    "en": "{07 16 00}You won't believe this!{01 00 00 0a 00} I saw\n{ff 00 00 06}Tom Nook{ff 00 00 00} drinking coffee\nwith a girl!\nMan, what luck! {07 1c 00}I guess\nlooks can be deceiving, huh,\n{01 00 00 05 00}{04 02 00}?{03 03 00 01}",
-   "et": ""
+   "et": "{07 16 00}Sa ei usu seda!{01 00 00 0a 00} Nägin\n{ff 00 00 06}Tom Nooki{ff 00 00 00} tüdrukuga\nkohvi joomas!\nVau, milline õnn! {07 1c 00}Vist\npetab välimus, mis,\n{01 00 00 05 00}{04 02 00}?{03 03 00 01}"
   },
   {
    "id": 34,
    "en": "Today's coffee tastes a\nlittle different than usual,\n{01 00 00 05 00}don't you think?\n{07 0c 00}Oh!{01 01 00}{07 06 00} Is this what they call a{01 00 00 0a 00}\n{07 0d 00}rich and robust coffee,{01 00 00 05 00}\n{04 02 00}?",
-   "et": ""
+   "et": "Tänane kohv maitseb veidi\nteistmoodi kui tavaliselt,\n{01 00 00 05 00}kas sa ei leia?\n{07 0c 00}Oh!{01 01 00}{07 06 00} Kas seda nimetataksegi{01 00 00 0a 00}\n{07 0d 00}rikkalikuks ja tugevaks{01 00 00 05 00}\nkohviks, {04 02 00}?"
   },
   {
    "id": 35,
    "en": "{07 0e 00}Sometimes I think this cup\nis a lot like life: dark and\nbitter.\n{07 02 00}Whoa{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 14 00} {07 13 00}Sometimes I'm so\ndeep, {01 00 00 0a 00}I scare myself,\n{04 02 00}!",
-   "et": ""
+   "et": "{07 0e 00}Vahel mõtlen: see tass on\nvägagi elu moodi: tume ja\nmõru.\n{07 02 00}Ohoo{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 14 00} {07 13 00}Vahel olen nii\nsügav, {01 00 00 0a 00}et ehmatan ennast,\n{04 02 00}!"
   },
   {
    "id": 36,
    "en": "{07 17 00}Cup in hand, I doze off in\nthe coffee house's warm\nembrace{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00}{07 13 00} Ah,{01 00 00 0a 00} poetry.\n{07 16 00}But I wish I had brought the\n{04 19 00} that's\nat my house{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{04 02 00}.",
-   "et": ""
+   "et": "{07 17 00}Tass käes, tukun kohviku\nsoojas embuses{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00}{07 13 00} Ah,{01 00 00 0a 00}\nluule.\n{07 16 00}Aga oleksin võinud kaasa\nvõtta {04 19 00},\nmis on kodus{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{04 02 00}."
   },
   {
    "id": 37,
    "en": "{07 02 00}What?!{01 00 00 14 00} {07 07 00}{0b 03 00}{04 1f 00},{01 00 00 0a 00} that's\nway too much!{01 00 00 0a 00} {0b 03 00}{04 02 00}!\n\n{07 16 00}I like sweet coffee, too{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00}\n{07 06 00}but that much sugar would\nrot even my sweet tooth!",
-   "et": ""
+   "et": "{07 02 00}Mida?!{01 00 00 14 00} {07 07 00}{0b 03 00}{04 1f 00},{01 00 00 0a 00} see on\nikka liiga palju!{01 00 00 0a 00} {0b 03 00}{04 02 00}!\n\n{07 16 00}Mulle meeldib magus kohv{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00}\n{07 06 00}aga nii palju suhkrut\nrikuks isegi minu magusaisu!"
   },
   {
    "id": 38,
    "en": "{07 19 00}Uh-huh, uh-huh. I hear you.\n{01 00 00 0a 00}{07 00 00}I knew you'd understand,\n{04 1f 00}.\n{07 14 00}If you don't sweeten your\ncoffee that much, it's\nundrinkable,{01 00 00 0a 00} {04 02 00}.\n{07 04 00}Oh,{01 00 00 0a 00} but{01 00 00 05 00}{07 16 00} don't tell {ff 00 00 06}Brewster{ff 00 00 00},\nOK?{01 00 00 14 00}{07 00 00} He'll just glare at me\nagain!",
-   "et": ""
+   "et": "{07 19 00}Jaa, jaa. Ma kuulen sind.\n{01 00 00 0a 00}{07 00 00}Teadsin, et sa mõistad,\n{04 1f 00}.\n{07 14 00}Kui sa oma kohvi nii palju\nei magusta, on see\njoomiskõlbmatu,{01 00 00 0a 00} {04 02 00}.\n{07 04 00}Oh,{01 00 00 0a 00} aga{01 00 00 05 00}{07 16 00} ära ütle seda\n{ff 00 00 06}Brewsterile{ff 00 00 00}, eks?{01 00 00 14 00}{07 00 00} Ta\njõllitab mind jälle kurjalt!"
   }
  ]
 }

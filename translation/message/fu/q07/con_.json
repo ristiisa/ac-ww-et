@@ -4,17 +4,17 @@
   {
    "id": 0,
    "en": "{07 00 00}Hey, {01 00 00 05 00}{04 1f 00}?{01 00 00 0a 00} {07 0b 00}Do you\nstill have that letter I\nasked you to deliver?\n{07 00 00}Look, I'm sorry for asking,{01 00 00 05 00} \nand I KNOW that it's really\nlast-minute...\n{07 14 00}But please make sure to\ndeliver it on time,\n{01 00 00 05 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 00 00}Hei, {01 00 00 05 00}{04 1f 00}?{01 00 00 0a 00} {07 0b 00}Kas sul on\nveel see kiri, mille ma\npalusin kohale viia?\n{07 00 00}Vaata, vabandust, et küsin,{01 00 00 05 00} \nja ma TEAN, et see on\nviimasel hetkel...\n{07 14 00}Aga palun vii see kindlasti\nõigeks ajaks kohale,\n{01 00 00 05 00}{04 02 00}!"
   },
   {
    "id": 1,
    "en": "{07 00 00}So about the letter that I\nwrote to {ff 00 00 06}{04 10 00}{01 00 00 05 00}{ff 00 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\nThe one I gave to you?\n{07 06 00}PLEASE make sure that it's\ndelivered on time,\n{01 00 00 05 00}{04 02 00}!\n{07 1a 00}I don't mean to sound like\na nag,{01 00 00 03 00} but it's supposed to\nbe a big surprise!",
-   "et": ""
+   "et": "{07 00 00}Nii et see kiri, mille ma\nkirjutasin {ff 00 00 06}{04 10 00}{01 00 00 05 00}{ff 00 00 00}le{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\nSee, mille sulle andsin?\n{07 06 00}PALUN hoolitse, et see\nviidaks õigeks ajaks,\n{01 00 00 05 00}{04 02 00}!\n{07 1a 00}Ma ei taha kõlada nagu\nnäägutaja,{01 00 00 03 00} aga see peaks\nolema suur üllatus!"
   },
   {
    "id": 2,
    "en": "{07 00 00}So, um,{01 00 00 05 00} are you SURE that\nyou can deliver that letter\non time, {01 00 00 05 00}{04 02 00}?\n{07 06 00}{0b 03 00}{ff 00 00 06}{04 10 00} {ff 00 00 00}will be so\nupset if it's late!{01 00 00 0a 00} ...{07 01 00}And I\nwon't be happy either!",
-   "et": ""
+   "et": "{07 00 00}Nii et, ee,{01 00 00 05 00} kas sa oled\nKINDEL, et suudad kirja\nõigeks ajaks viia, {01 00 00 05 00}{04 02 00}?\n{07 06 00}{0b 03 00}{ff 00 00 06}{04 10 00} {ff 00 00 00}on nii\npahane, kui hilineb!{01 00 00 0a 00}{07 01 00} ...Ja\nmina ei ole rõõmus!"
   }
  ]
 }

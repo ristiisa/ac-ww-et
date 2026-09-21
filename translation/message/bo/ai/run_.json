@@ -4,17 +4,17 @@
   {
    "id": 0,
    "en": "{07 08 00}{01 08 00}NOOO!{01 00 00 0f 00} B-{01 00 00 05 00}bees!{01 00 00 0a 00} Listen, bees,\nyou don't want to bite me!\nI taste terrible!",
-   "et": ""
+   "et": "{07 08 00}{01 08 00}EIII!{01 00 00 0f 00} H-{01 00 00 05 00}herilased!{01 00 00 0a 00} Kuulge,\nteie ei taha mind näksida!\nMa maitsen kohutavalt!"
   },
   {
    "id": 1,
    "en": "{07 08 00}{01 08 00}EEEEEEEEEEEEEEEK!{01 00 00 0f 00} Don't sting\nme!{01 00 00 14 00} I'm your friend,{01 00 00 05 00}\n{04 02 00}! Really, I am!",
-   "et": ""
+   "et": "{07 08 00}{01 08 00}IIIIIIIIIIIIIIK!{01 00 00 0f 00} Ärge nõelake\nmind!{01 00 00 14 00} Ma olen teie sõber,{01 00 00 05 00}\n{04 02 00}! Päriselt!"
   },
   {
    "id": 2,
    "en": "{07 08 00}{01 08 00}Noooooooooooo!{01 00 00 14 00} {01 00 00 0a 00}Don't lead\nthe bees to me!",
-   "et": ""
+   "et": "{07 08 00}{01 08 00}Eiiiiiiiiiii!{01 00 00 14 00} {01 00 00 0a 00}Ära juhi\nherilasi minu juurde!"
   }
  ]
 }

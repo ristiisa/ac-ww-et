@@ -4,82 +4,82 @@
   {
    "id": 0,
    "en": "{07 00 00}The {ff 00 00 03}Flower Fest {ff 00 00 00}starts\ntoday!!!\n\n{07 16 00}Not that I'm into any of\nthat girly stuff,\n{01 00 00 05 00}{04 02 00}.",
-   "et": ""
+   "et": "{07 00 00}{ff 00 00 03}Lillepidu {ff 00 00 00}algab\ntäna!!!\n\n{07 16 00}Mitte et ma oleksin selle\nplikaliku värgi lainel,\n{01 00 00 05 00}{04 02 00}."
   },
   {
    "id": 1,
    "en": "{07 14 00}{0b 03 00}{ff 00 00 05}{04 1f 00}{ff 00 00 00}!{01 00 00 0a 00} The {ff 00 00 03}Flower\nFest {ff 00 00 00}just started!\n\n{07 16 00}You're the competition!\nI have no choice!{01 00 00 14 00}\n{07 15 00}{07 01 00}{01 08 00}BRING IT ON!!!",
-   "et": ""
+   "et": "{07 14 00}{0b 03 00}{ff 00 00 05}{04 1f 00}{ff 00 00 00}!{01 00 00 0a 00} {ff 00 00 03}Lille-\npidu {ff 00 00 00}algas just!\n\n{07 16 00}Sina oled konkurent!\nMul pole valikut!{01 00 00 14 00}\n{07 15 00}{07 01 00}{01 08 00}TULE AGA!!!"
   },
   {
    "id": 2,
    "en": "{07 00 00}Yo, {04 1f 00}. {07 0b 00}How's it\ngoing, {01 00 00 05 00}{04 02 00}?\n{07 11 00}Me? {01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}I'm doin' all right!\n{07 13 00}Just admiring the glorious\nbeacons of pumpitude that\nare my biceps.",
-   "et": ""
+   "et": "{07 00 00}Jou, {04 1f 00}. {07 0b 00}Kuidas\nläheb, {01 00 00 05 00}{04 02 00}?\n{07 11 00}Mina? {01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}Mul läheb hästi!\n{07 13 00}Imetlen lihtsalt neid\nhiilgavaid hoomajakaid,\nmis on mu biitsepsid."
   },
   {
    "id": 3,
    "en": "{07 04 00}Ha-WHAT?! Venus flytraps\ndon't count as flowers?!\n\n{07 06 00}But they were going to eat\nall of the competition,\n{01 00 00 05 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 04 00}Mi-MIDA?! Kärbsepüünised\nei lähe lillede alla?!\n\n{07 06 00}Aga nad oleksid ju ära\nsöönud kogu konkurentsi,\n{01 00 00 05 00}{04 02 00}!"
   },
   {
    "id": 4,
    "en": "{07 00 00}Yo, {04 1f 00}! {07 0b 00}How's your\nlittle garden going?{01 00 00 05 00}\n\n{07 13 00}The theme of my flower\ngarden is \"NO PANSIES\"!\nCool, eh, {01 00 00 05 00}{04 02 00}?",
-   "et": ""
+   "et": "{07 00 00}Jou, {04 1f 00}! {07 0b 00}Kuidas su\nväikese aiaga läheb?{01 00 00 05 00}\n\n{07 13 00}Minu lilleaia teema on\n„EI MINGEID NÕRGUKESI”!\nLahe, mis, {01 00 00 05 00}{04 02 00}?"
   },
   {
    "id": 5,
    "en": "{07 02 00}What?!{01 00 00 0a 00} Shamrocks don't\ncount?!\n\n{07 0f 00}Why didn't someone tell\nme?! They're SO not lucky,\n{01 00 00 05 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 02 00}Mida?!{01 00 00 0a 00} Ristikud ei\nlähe arvesse?!\n\n{07 0f 00}Miks keegi mulle ei öelnud?!\nNad EI OLE üldse õnnelikud,\n{01 00 00 05 00}{04 02 00}!"
   },
   {
    "id": 6,
    "en": "{07 01 00}Quit runnin' all over my \nflowers, {ff 00 00 05}{04 1f 00}{ff 00 00 00}!\n\n{07 16 00}I'm doing that to everyone\nelse's flowers! {01 00 00 05 00}I NEED THAT\n{ff 00 00 07}TROPHY{ff 00 00 00}, {01 00 00 05 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 01 00}Lõpeta mu lilledel \njooksmine, {ff 00 00 05}{04 1f 00}{ff 00 00 00}!\n\n{07 16 00}Mina teen seda kõigi teiste\nlilledega! {01 00 00 05 00}MUL ON VAJA SEDA\n{ff 00 00 07}KARIKAT{ff 00 00 00}, {01 00 00 05 00}{04 02 00}!"
   },
   {
    "id": 7,
    "en": "{07 00 00}The {ff 00 00 03}Flower Fest {ff 00 00 00}is in the\nfinal burst before the\nfinish!\n{07 14 00}Win or lose, we shouldn't\nleave any regrets,\n{01 00 00 05 00}{04 02 00}.\n{07 06 00}So,{01 00 00 0a 00} if I'm gonna do it, \nI wanna win, {01 00 00 05 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 00 00}{ff 00 00 03}Lillepidu {ff 00 00 00}on viimases\nrünnakus enne\nfinišit!\n{07 14 00}Võit või kaotus, me ei\ntohiks kahetsust jätta,\n{01 00 00 05 00}{04 02 00}.\n{07 06 00}Nii et,{01 00 00 0a 00} kui ma juba teen, \ntahan ma võita, {01 00 00 05 00}{04 02 00}!"
   },
   {
    "id": 8,
    "en": "{07 14 00}So today's the last day of\nthe {ff 00 00 03}Flower Fest{ff 00 00 00}! Eh,\n{04 1f 00}?\n{07 19 00}It's been a long battle{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 01 00}\n{07 15 00}But I'm going to conquer\n'em all in the end!",
-   "et": ""
+   "et": "{07 14 00}Nii et täna on {ff 00 00 03}lillepeo{ff 00 00 00}\nviimane päev! Mis,\n{04 1f 00}?\n{07 19 00}See on olnud pikk lahing{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 01 00}\n{07 15 00}Aga ma vallutan nad\nlõpuks kõik!"
   },
   {
    "id": 9,
    "en": "{07 00 00}The {ff 00 00 03}Flower Fest {ff 00 00 00}is\nalmost over!\n\n{07 16 00}And I still can't even\nremember the names of\nflowers, {01 00 00 05 00}{04 02 00}!\n{07 0e 00}Tu-tu...tuuul?{01 01 00}\n{07 06 00}Can't these dang names be\nany shorter?!",
-   "et": ""
+   "et": "{07 00 00}{ff 00 00 03}Lillepidu {ff 00 00 00}on peaaegu\nläbi!\n\n{07 16 00}Ja ma ei suuda ikka meelde\njätta lillede\nnimesid, {01 00 00 05 00}{04 02 00}!\n{07 0e 00}Tu-tu...tuuul?{01 01 00}\n{07 06 00}Kas need pagana nimed ei\nvõiks lühemad olla?!"
   },
   {
    "id": 10,
    "en": "I guess gardening{ff 00 00 03} {ff 00 00 00}isn't my\nthing, {01 00 00 05 00}{04 02 00}.\n\nThere just aren't enough\nbone-crunching tackles.\n{01 00 00 05 00}Know what I mean?",
-   "et": ""
+   "et": "Aiandus{ff 00 00 03} {ff 00 00 00}pole vist minu\nala, {01 00 00 05 00}{04 02 00}.\n\nSeal pole lihtsalt piisavalt\nkontimurdvaid rünnakuid.\n{01 00 00 05 00}Saad aru, mida ma mõtlen?"
   },
   {
    "id": 11,
    "en": "{07 14 00}Flowers are so dang boring,\n{01 00 00 05 00}{04 02 00}! {01 00 00 05 00}You can't even\nwrassle with 'em!",
-   "et": ""
+   "et": "{07 14 00}Lilled on nii pagana igavad,\n{01 00 00 05 00}{04 02 00}! {01 00 00 05 00}Nendega ei saa\nisegi maadelda!"
   },
   {
    "id": 12,
    "en": "Whassup, {01 00 00 05 00}{ff 00 00 05}{04 1f 00}{ff 00 00 00}?",
-   "et": ""
+   "et": "Mis toimub, {01 00 00 05 00}{ff 00 00 05}{04 1f 00}{ff 00 00 00}?"
   },
   {
    "id": 13,
    "en": "{07 15 00}{0b 03 00}{04 1f 00}!!! {07 05 00}You just\nmade me poke my finger on\na rose thorn, {01 00 00 05 00}{04 02 00}!\n{07 13 00}But it hurts so good. Like\nwhen my abs seize up after\nI do my 3,000th ab blaster!",
-   "et": ""
+   "et": "{07 15 00}{0b 03 00}{04 1f 00}!!! {07 05 00}Sa panid mu\njust sõrme roosiokka\notsa torkama, {01 00 00 05 00}{04 02 00}!\n{07 13 00}Aga see valutab nii hästi.\nNagu siis, kui mu kõht\nkrampi läheb 3000. tõmbel!"
   },
   {
    "id": 14,
    "en": "{07 1c 00}I'd rather chow on sweaty\nspandex than watch some\nstupid flowers.",
-   "et": ""
+   "et": "{07 1c 00}Ma pigem närin higist\nspandeksit kui vaatan\nmingeid rumalaid lilli."
   },
   {
    "id": 15,
    "en": "{07 00 00}In {04 03 00}, I heard\nthere are people who put\nFLOWERS on their HEADS!\nDude. What's up with that,\n{01 00 00 05 00}{04 02 00}?!",
-   "et": ""
+   "et": "{07 00 00}Linnas {04 03 00} on kuulda,\net on inimesi, kes panevad\nLILLI oma PÄHE!\nMees. Mis värk sellega on,\n{01 00 00 05 00}{04 02 00}?!"
   }
  ]
 }

@@ -4,17 +4,17 @@
   {
    "id": 0,
    "en": "{07 00 00}I see you still don't have\n{04 1a 00}, do\nyou, {04 1f 00}?\n{07 06 00}That's OK. I haven't got one\neither, {01 00 00 05 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 00 00}Ma näen, et sul pole ikka\n{04 1a 00}, ega\nole, {04 1f 00}?\n{07 06 00}Pole hullu. Mul pole ka\nühtegi, {01 00 00 05 00}{04 02 00}!"
   },
   {
    "id": 1,
    "en": "{07 16 00}I'm still not having any\nluck.{01 00 00 05 00} I don't know what to\ndo, {01 00 00 05 00}{04 02 00}!\nI can't seem to catch\n{04 1a 00} at\nall!{01 00 00 05 00} And I've been trying!",
-   "et": ""
+   "et": "{07 16 00}Mul ei vea ikka veel.{01 00 00 05 00} Ma\nei tea, mida teha,\n{01 00 00 05 00}{04 02 00}!\nMa ei suuda kuidagi püüda\n{04 1a 00}!{01 00 00 05 00}\nJa ma olen püüdnud!"
   },
   {
    "id": 2,
    "en": "{07 0b 00}So, have you caught\n{04 1a 00} by\nany chance, {01 00 00 05 00}{04 02 00}?\n{07 16 00}I haven't even SEEN one\nyet, {01 00 00 05 00}{04 02 00}! {01 00 00 0a 00}{07 1c 00}Grrrrrr{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.",
-   "et": ""
+   "et": "{07 0b 00}Kas sa oled juhtumisi\npüüdnud {04 1a 00},\n{01 00 00 05 00}{04 02 00}?\n{07 16 00}Ma pole isegi ühtegi\nNÄINUD, {01 00 00 05 00}{04 02 00}! {01 00 00 0a 00}{07 1c 00}Grrrrrr{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}."
   }
  ]
 }

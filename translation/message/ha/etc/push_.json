@@ -4,27 +4,27 @@
   {
    "id": 0,
    "en": "Yo, {01 00 00 05 00}{04 1f 00}!{01 00 00 0a 00} {07 15 00}Why're you\nup in my face? You wanna\nwrassle, {01 00 00 05 00}{04 02 00}?!",
-   "et": ""
+   "et": "Jou, {01 00 00 05 00}{04 1f 00}!{01 00 00 0a 00} {07 15 00}Miks sa oled\nmulle näkku? Tahad\nmaadelda, {01 00 00 05 00}{04 02 00}?!"
   },
   {
    "id": 1,
    "en": "{07 15 00}You do NOT wanna be pushing\nme around like that,\n{01 00 00 05 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 15 00}Sa EI TAHA mind niimoodi\nringi lükata,\n{01 00 00 05 00}{04 02 00}!"
   },
   {
    "id": 2,
    "en": "{07 01 00}If you don't stop pushin'\nme, {01 00 00 0a 00}I'll be forced to break\nout the bicep cannons!",
-   "et": ""
+   "et": "{07 01 00}Kui sa ei lõpeta mu\nlükkamist, {01 00 00 0a 00}pean ma välja\ntooma biitsepsikahurid!"
   },
   {
    "id": 3,
    "en": "{07 05 00}You startin' something with\nme, wimp-hat?!",
-   "et": ""
+   "et": "{07 05 00}Kas sa alustad minuga\nmidagi, nätsupea?!"
   },
   {
    "id": 4,
    "en": "{07 05 00}What's your malfunction,\n{04 02 00}?!",
-   "et": ""
+   "et": "{07 05 00}Mis sul viga on,\n{04 02 00}?!"
   }
  ]
 }

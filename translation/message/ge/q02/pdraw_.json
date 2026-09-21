@@ -4,12 +4,12 @@
   {
    "id": 0,
    "en": "{07 04 00}Oh, {01 00 00 0f 00}this must be\n{07 00 00}{04 1c 00}!\nIsn't it, {01 00 00 05 00}{04 02 00}?\n{07 14 00}Wow! That's, like, just as\ngood as my super awesome\n{0b 02 00}{04 1d 00}!\n{07 0d 00}That means our contest is\na total TIE, {01 00 00 05 00}{04 02 00}!\n\n{07 14 00}OK, then, I'll return your\n{0b 02 00}{04 1c 00}!{01 00 00 0a 00}\n{07 11 00}Wow... You're pretty wily!",
-   "et": ""
+   "et": "{07 04 00}Oh, {01 00 00 0f 00}see peab olema\n{07 00 00}{04 1c 00}!\nKas pole, {01 00 00 05 00}{04 02 00}?\n{07 14 00}Vau! See on, nagu, sama\nhea kui mu ülivõimas\n{0b 02 00}{04 1d 00}!\n{07 0d 00}See tähendab, et meie\nvõistlus on täielik\nVIIK,{01 00 00 05 00}{04 02 00} ! \n{07 14 00}Olgu siis, tagastan sinu\n{0b 02 00}{04 1c 00}!{01 00 00 0a 00}\n{07 11 00}Vau... Sa oled üsna kaval!"
   },
   {
    "id": 1,
    "en": "{07 04 00}{0b 03 00}{04 1c 00}!!{01 01 00}\n{07 00 00}{07 02 00}No way! {01 00 00 0a 00}That's really good,\n{01 00 00 05 00}{04 02 00}!\n{07 00 00}Well, I managed to catch\n{04 1d 00}{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.\nHmmm{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.\n{07 14 00}Y'know, in terms of rarity,\nthey're about the same...{01 00 00 0a 00}\nso I think this is a tie!\n{07 15 00}But next time, I'll PROVE\nthat I'm better than you,\n{01 00 00 05 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 04 00}{0b 03 00}{04 1c 00}!!{01 01 00}\n{07 00 00}{07 02 00}Ei või olla! {01 00 00 0a 00}See on hea,\n{01 00 00 05 00}{04 02 00}!\n{07 00 00}Noh, mul õnnestus püüda\n{04 1d 00}{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.\nHmmm{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.\n{07 14 00}Tead, harulduse mõttes\non nad umbes ühesugused...{01 00 00 0a 00}\nnii ma arvan, et see on\nviik! {07 15 00}Aga järgmine kord\nTÕESTAN, et olen sinust\nparem, {01 00 00 05 00}{04 02 00}!"
   }
  ]
 }

@@ -4,42 +4,42 @@
   {
    "id": 0,
    "en": "{07 14 00}{0b 03 00}{04 1f 00}!!",
-   "et": ""
+   "et": "{07 14 00}{0b 03 00}{04 1f 00}!!"
   },
   {
    "id": 1,
    "en": "{07 14 00}Happy happy birthday,\n{01 00 00 05 00}{04 02 00}!{01 00 00 0f 00} {07 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 02 00}What?!{01 00 00 0a 00} You\nFORGOT your own birthday?!\n{07 03 00}I didn't think that was\npossible!{01 00 00 0a 00} What's wrong with\nyou, {01 00 00 05 00}{04 02 00}?!\n{07 14 00}Anyway, I brought you \na totally cute present!{01 00 00 05 00}\nYou're gonna LOVE it!",
-   "et": ""
+   "et": "{07 14 00}Palju-palju õnne\nsünnipäevaks, {01 00 00 05 00}{04 02 00}!{01 00 00 0f 00} {07 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 02 00}\nMis?!{01 00 00 0a 00} Sa UNUSTASID oma\nsünnipäeva?! {07 03 00}Ma ei arvanud,\net see on võimalik!{01 00 00 0a 00} Mis sul\nviga on, {01 00 00 05 00}{04 02 00}?!\n{07 14 00}Igatahes, ma tõin sulle\ntäiesti nunnu kingituse!{01 00 00 05 00}\nSee MEELDIB sulle kindlasti!"
   },
   {
    "id": 2,
    "en": "{07 00 00}{07 0b 00}Hey, {01 00 00 05 00}{04 1f 00}? How do\nyou like it, {01 00 00 05 00}{04 02 00}?",
-   "et": ""
+   "et": "{07 00 00}{07 0b 00}Hei, {01 00 00 05 00}{04 1f 00}? Kuidas\nsee sulle meeldib, {01 00 00 05 00}{04 02 00}?"
   },
   {
    "id": 3,
    "en": "{07 14 00}Tee hee!{01 00 00 0a 00} {0b 03 00}{04 1f 00}, I'm\nhappy because YOU'RE happy!\n\n{07 0d 00}But on my birthday,{01 00 00 05 00} make\nsure to bring me a present\nworth TWICE as much!",
-   "et": ""
+   "et": "{07 14 00}Hihii!{01 00 00 0a 00} {0b 03 00}{04 1f 00}, ma olen\nrõõmus, sest SINA oled\nrõõmus! \n{07 0d 00}Aga minu sünnipäeval{01 00 00 05 00} too\nkindlasti kingitus, mis on\nKAKS KORDA kallim!"
   },
   {
    "id": 4,
    "en": "{07 02 00}What?!{01 00 00 0a 00} WHAT?!{01 00 00 0a 00} {07 00 00}{07 16 00}What do you\nMEAN, you don't care how\nmuch it cost?!\n{07 06 00}{0b 03 00}{04 1f 00}, that's SOOOO\nWEIRD, {01 00 00 05 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 02 00}Mis?!{01 00 00 0a 00} MIS?!{01 00 00 0a 00} {07 00 00}{07 16 00}Mida sa MÕTLED\nsellega, et sul on ükskõik,\nkui palju see maksis?!\n{07 06 00}{0b 03 00}{04 1f 00}, see on NII\nIMELIK, {01 00 00 05 00}{04 02 00}!"
   },
   {
    "id": 5,
    "en": "{07 00 00}{0b 03 00}{ff 00 00 06}{04 0f 00}{ff 00 00 00},",
-   "et": ""
+   "et": "{07 00 00}{0b 03 00}{ff 00 00 06}{04 0f 00}{ff 00 00 00},"
   },
   {
    "id": 6,
    "en": "{07 00 00}and {ff 00 00 06}{04 0f 00}",
-   "et": ""
+   "et": "{07 00 00}ja {ff 00 00 06}{04 0f 00}"
   },
   {
    "id": 7,
    "en": "{07 14 00}bought this for YOU!",
-   "et": ""
+   "et": "{07 14 00}ostsid selle SULLE!"
   }
  ]
 }

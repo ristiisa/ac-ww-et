@@ -4,22 +4,22 @@
   {
    "id": 0,
    "en": "The {0b 02 00}{04 10 00}\nyou ordered has arrived. I\nlook forward to serving\nyou again in the future!",
-   "et": ""
+   "et": "{0b 02 00}{04 10 00},\nmille tellisite, on kohal.\nOotan taas võimalust\nteid teenindada!"
   },
   {
    "id": 1,
    "en": "Here is the\n{0b 02 00}{04 10 00} you\nordered. Stop by if you\nneed anything else!",
-   "et": ""
+   "et": "Siin on\n{0b 02 00}{04 10 00}, mille\ntellisite. Põigake läbi, kui\nvajate veel midagi!"
   },
   {
    "id": 2,
    "en": "Here is your\n{0b 02 00}{04 10 00}!\nThank you for your\nfaithful patronage!",
-   "et": ""
+   "et": "Siin on teie\n{0b 02 00}{04 10 00}!\nTänan teid ustava\nkliendisuhte eest!"
   },
   {
    "id": 3,
    "en": "We are pleased to deliver\nthe {0b 02 00}{04 10 00}\nthat you ordered! Please\ncome visit us again!",
-   "et": ""
+   "et": "Meil on hea meel tuua\n{0b 02 00}{04 10 00},\nmille tellisite! Palun\ntulge meile jälle!"
   }
  ]
 }

@@ -4,17 +4,17 @@
   {
    "id": 0,
    "en": "{07 02 00}Oh, no!{01 00 00 14 00} Hold on! {01 01 00}{07 06 00}There's no\nway I can catch a fish\nthat quick, {01 00 00 0a 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 02 00}Oi ei!{01 00 00 14 00} Oota! {01 01 00}{07 06 00}Ma ei suuda\nkuidagi nii kiiresti\nkala püüda, {01 00 00 0a 00}{04 02 00}!"
   },
   {
    "id": 1,
    "en": "{07 04 00}We're supposed to catch a\nfish that's really rare for\nthis season, right?\n{07 03 00}So there's NO WAY I could\nhave found one this\nquickly! DUH, {01 00 00 0a 00}{04 02 00}!!",
-   "et": ""
+   "et": "{07 04 00}Me peame püüdma kala, mis\non sel aastaajal väga\nharuldane, eks?\n{07 03 00}Nii et ma EI SAANUD kuidagi\nseda nii kiiresti\nleida! NOH, {01 00 00 0a 00}{04 02 00}!!"
   },
   {
    "id": 2,
    "en": "{07 04 00}Wait a minute, OK?{01 01 00} {07 06 00}I haven't\ncaught a fish I really like\nyet, {01 00 00 0a 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 04 00}Oota hetk, eks?{01 01 00} {07 06 00}Ma pole\nveel püüdnud kala, kes mulle\npäriselt meeldiks, {01 00 00 0a 00}{04 02 00}!"
   }
  ]
 }

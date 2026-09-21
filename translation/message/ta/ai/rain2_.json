@@ -4,32 +4,32 @@
   {
    "id": 0,
    "en": "{07 04 00}{0b 03 00}{01 06 00}Well, hello there{01 07 00}.\n{01 00 00 05 00}{0b 03 00}{04 1f 00}. {01 00 00 05 00}{0b 03 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 04 00}{0b 03 00}{01 06 00}Noh, tere{01 07 00}.\n{01 00 00 05 00}{0b 03 00}{04 1f 00}. {01 00 00 05 00}{0b 03 00}{04 02 00}!"
   },
   {
    "id": 1,
    "en": "{07 16 00}Hi, {04 1f 00}. {01 00 00 14 00}{07 1b 00}It's nice\nthat a little rain doesn't\nfaze you, {01 00 00 0a 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 16 00}Tere, {04 1f 00}. {01 00 00 14 00}{07 1b 00}Kena,\net väike vihm sind ei\nheiduta, {01 00 00 0a 00}{04 02 00}!"
   },
   {
    "id": 2,
    "en": "{07 1c 00}{01 00 00 0a 00}{0b 03 00}{01 06 00}Ugh{01 07 00}!{01 00 00 0f 00} Stupid\nrain{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} It's messing up my\nmascara!",
-   "et": ""
+   "et": "{07 1c 00}{01 00 00 0a 00}{0b 03 00}{01 06 00}Öök{01 07 00}!{01 00 00 0f 00} Rumal\nvihm{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} See rikub mu\nripsmetuši ära!"
   },
   {
    "id": 3,
    "en": "{07 00 00}Isn't rain, like, {01 00 00 05 00}{07 14 00}the\nprettiest thing ever?{01 00 00 0a 00}\nI mean, besides me?",
-   "et": ""
+   "et": "{07 00 00}Kas vihm pole, nagu, {01 00 00 05 00}{07 14 00}kõige\nilusam asi üldse?{01 00 00 0a 00}\nNo et, peale minu?"
   },
   {
    "id": 4,
    "en": "{07 14 00}Hee hee,{01 00 00 0a 00} {04 02 00}. Rainy\ndays are A-OK in my book!",
-   "et": ""
+   "et": "{07 14 00}Hihii,{01 00 00 0a 00} {04 02 00}. Vihmased\npäevad on minu arust head!"
   },
   {
    "id": 5,
    "en": "{07 14 00}{0b 03 00}{01 06 00}Well, well{01 07 00}!{01 00 00 05 00}\nWe meet again, {01 00 00 05 00}{04 02 00}.\nWhy are you following me?",
-   "et": ""
+   "et": "{07 14 00}{0b 03 00}{01 06 00}Vaata aga{01 07 00}!{01 00 00 05 00}\nKohtume jälle, {01 00 00 05 00}{04 02 00}.\nMiks sa mind jälitad?"
   }
  ]
 }

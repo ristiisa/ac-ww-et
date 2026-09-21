@@ -4,17 +4,17 @@
   {
    "id": 0,
    "en": "{07 03 00}Check it out!{01 00 00 05 00} So awesome!{01 00 00 0a 00}\nWhat a total crack-up,\n{01 00 00 05 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 03 00}Vaata seda!{01 00 00 05 00} Nii võrratu!{01 00 00 0a 00}\nMilline täielik naerupomm,\n{01 00 00 05 00}{04 02 00}!"
   },
   {
    "id": 1,
    "en": "{07 0b 00}{0b 03 00}{04 1f 00}, you wanna\nsneak a peek at it, too?{01 01 00}\n{07 14 00}OK then, just for you!",
-   "et": ""
+   "et": "{07 0b 00}{0b 03 00}{04 1f 00}, kas sa tahad\nka salaja piiluda?{01 01 00}\n{07 14 00}Olgu siis, ainult sinu jaoks!"
   },
   {
    "id": 2,
    "en": "Hey, {01 00 00 05 00}{04 1f 00}, let's read\nit together, {01 00 00 05 00}{04 02 00}!",
-   "et": ""
+   "et": "Kuule, {01 00 00 05 00}{04 1f 00}, loeme\nseda koos, {01 00 00 05 00}{04 02 00}!"
   }
  ]
 }

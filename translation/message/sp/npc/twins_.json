@@ -4,217 +4,217 @@
   {
    "id": 0,
    "en": "{07 14 00}Welcome!{01 00 00 05 00} {ff 00 00 09}...'come!{01 00 00 05 00}{ff 00 00 00}\nThis is the second floor!\n\nHere you'll find furniture\nand other items for around\nthe house.{01 00 00 05 00} {ff 00 00 09}...house!",
-   "et": ""
+   "et": "{07 14 00}Tere tulemast!{01 00 00 05 00} {ff 00 00 09}...emast!{01 00 00 05 00}{ff 00 00 00}\nSee on teine korrus!\n\nSiit leiad mööblit ja\nmuid asju kodu\nsisustamiseks.{01 00 00 05 00} {ff 00 00 09}...amiseks!"
   },
   {
    "id": 1,
    "en": "Thank you very much!{01 00 00 05 00} Please\ncome see us again soon.{01 00 00 05 00}\n{ff 00 00 09}...soon!",
-   "et": ""
+   "et": "Suur tänu!{01 00 00 05 00} Tulge meid\nvarsti jälle vaatama.{01 00 00 05 00}\n{ff 00 00 09}...vaatama!"
   },
   {
    "id": 6,
    "en": "Yes? Yes? {01 00 00 05 00}How can we help\nyou this fine day?{01 00 00 05 00} {ff 00 00 09}...day!{ff 00 00 00}{02 06 00 07 00 00 15}\nI want to sell!\nCatalog, please!\nTurnip prices!\nNothing.",
-   "et": ""
+   "et": "Jaa? Jaa? {01 00 00 05 00}Kuidas saame sind\ntäna aidata?{01 00 00 05 00} {ff 00 00 09}...aidata!{ff 00 00 00}{02 06 00 07 00 00 15}\nTahan müüa!\nKataloog, palun!\nNaeri hind!\nMitte midagi."
   },
   {
    "id": 7,
    "en": "Well then,{01 00 00 05 00} please pick the\nitems that you wish to\nsell!{01 00 00 05 00} {ff 00 00 09}...sell!",
-   "et": ""
+   "et": "Nii siis,{01 00 00 05 00} vali esemed,\nmida sa soovid\nmüüa!{01 00 00 05 00} {ff 00 00 09}...müüa!"
   },
   {
    "id": 8,
    "en": "Oh? You want to quit?{01 00 00 0a 00} Isn't\nthere anything else we can\ndo for you?{01 00 00 05 00} {ff 00 00 09}...you?{ff 00 00 00}{02 06 00 07 00 00 15}\nSell! Sell! Sell!\nCatalog, please!\nTurnip prices!\nEnough!",
-   "et": ""
+   "et": "Oh? Sa tahad lõpetada?{01 00 00 0a 00} Kas\nme ei saa sinu heaks\nmidagi muud teha?{01 00 00 05 00} {ff 00 00 09}...teha?{ff 00 00 00}{02 06 00 07 00 00 15}\nMüüa! Müüa!\nKataloog, palun!\nNaeri hind!\nAitab!"
   },
   {
    "id": 9,
    "en": "If there is anything else we\ncan help you with, don't\nhesitate to ask!{01 00 00 05 00} {ff 00 00 09}...ask!",
-   "et": ""
+   "et": "Kui saame sind veel\nmillegagi aidata, siis küsi\njulgelt!{01 00 00 05 00} {ff 00 00 09}...julgelt!"
   },
   {
    "id": 10,
    "en": "Our sincerest apologies,\n{ff 00 00 09}...'ologies!{ff 00 00 00}{01 00 00 0a 00} but we cannot\nbuy that item.{01 00 00 05 00} {ff 00 00 09}...item!{ff 00 00 00}\nHowever, {01 00 00 05 00}if you don't need\nit, we'd be happy to take it\noff your hands.{01 00 00 05 00}{ff 00 00 09} {ff 00 00 09}...hands!{ff 00 00 00}{02 04 00 0b 0c}\nPlease do!\nMaybe not.",
-   "et": ""
+   "et": "Meie siiraimad vabandused,\n{ff 00 00 09}...andused!{ff 00 00 00}{01 00 00 0a 00} aga me ei saa\nseda eset osta.{01 00 00 05 00} {ff 00 00 09}...osta!{ff 00 00 00}\nKuid {01 00 00 05 00}kui sa seda ei vaja,\nvõtame selle hea meelega\nsu käest ära.{01 00 00 05 00}{ff 00 00 09} {ff 00 00 09}...ära!{ff 00 00 00}{02 04 00 0b 0c}\nPalun võtke!\nEhk mitte."
   },
   {
    "id": 11,
    "en": "{07 19 00}Yes, yes!{01 00 00 05 00} {ff 00 00 09}...Yes!{ff 00 00 02}{01 00 00 05 00} {ff 00 00 00}Consider it\ndone! \n\n{07 00 00}We are a full-service shop!{01 00 00 05 00}\nWe can rid you of anything\nyou don't need!{01 00 00 05 00}{ff 00 00 02} {ff 00 00 09}...'eed!{ff 00 00 02}\n{ff 00 00 00}Is there anything else that\nwe can help you with?{01 00 00 05 00}\n{ff 00 00 09}...you with?{ff 00 00 00}{02 06 00 07 00 00 15}\nI wanna sell!\nCatalog, please!\nTurnip prices!\nI'm done.",
-   "et": ""
+   "et": "{07 19 00}Jaa, jaa!{01 00 00 05 00} {ff 00 00 09}...Jaa!{ff 00 00 02}{01 00 00 05 00} {ff 00 00 00}Loe see\ntehtuks! \n\n{07 00 00}Me oleme täisteeninduspood!{01 00 00 05 00}\nVabastame sind kõigest,\nmida sa ei vaja!{01 00 00 05 00}{ff 00 00 02} {ff 00 00 09}...vaja!{ff 00 00 02}\n{ff 00 00 00}Kas saame sind veel\nmillegagi aidata?{01 00 00 05 00}\n{ff 00 00 09}...aidata?{ff 00 00 00}{02 06 00 07 00 00 15}\nTahan müüa!\nKataloog, palun!\nNaeri hind!\nOlen valmis."
   },
   {
    "id": 12,
    "en": "Well, that's not a problem!\nNot a problem at all!{01 00 00 05 00}\n{ff 00 00 09}...at all!{ff 00 00 02}\n{ff 00 00 00}Is there anything else that\nwe can help you with?{01 00 00 05 00}\n{ff 00 00 09}...you with?{ff 00 00 00}{02 06 00 07 00 00 15}\nI want to sell!\nCatalog, please!\nTurnip prices!\nI'm finished.",
-   "et": ""
+   "et": "Noh, see pole probleem!\nÜldse mitte probleem!{01 00 00 05 00}\n{ff 00 00 09}...probleem!{ff 00 00 02}\n{ff 00 00 00}Kas saame sind veel\nmillegagi aidata?{01 00 00 05 00}\n{ff 00 00 09}...aidata?{ff 00 00 00}{02 06 00 07 00 00 15}\nTahan müüa!\nKataloog, palun!\nNaeri hind!\nOlen lõpetanud."
   },
   {
    "id": 13,
    "en": "Our sincerest apologies,{01 00 00 05 00} but\nbecause today is Sunday...{01 00 00 05 00}\n{ff 00 00 09}...'unday!{ff 00 00 02}\n{ff 00 00 00}We are not buying turnips!{01 00 00 05 00}\n{ff 00 00 09}...turnips!",
-   "et": ""
+   "et": "Siiraimad vabandused,{01 00 00 05 00} aga\nkuna täna on pühapäev...{01 00 00 05 00}\n{ff 00 00 09}...päev!{ff 00 00 02}\n{ff 00 00 00}Me ei osta naereid!{01 00 00 05 00}\n{ff 00 00 09}...naereid!"
   },
   {
    "id": 14,
    "en": "We would be willing to pay{01 00 00 05 00}\n{04 0f 00} Bells for\neverything!{01 00 00 05 00} {ff 00 00 09}...'thing!{ff 00 00 00}{02 04 00 00 08}\nSell!\nNever mind.",
-   "et": ""
+   "et": "Oleme nõus maksma{01 00 00 05 00}\n{04 0f 00} kella kõige\neest!{01 00 00 05 00} {ff 00 00 09}...eest!{ff 00 00 00}{02 04 00 00 08}\nMüün!\nPole midagi."
   },
   {
    "id": 17,
    "en": "{07 04 00}What's this?{01 00 00 05 00} {ff 00 00 09}...this?\n\n\n{ff 00 00 00}{07 00 00}It looks like that's\nsomething you might want\nto hang on to.\n{07 0b 00}Are you sure you want to \nsell?{01 00 00 05 00} {ff 00 00 09}...sell?\n{ff 00 00 00}\n{07 00 00}We'll take this off your\nhands for {04 0f 00}\nBells{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.{02 04 00 00 58}\nI'll sell!\nForget it!",
-   "et": ""
+   "et": "{07 04 00}Mis see on?{01 00 00 05 00} {ff 00 00 09}...on?\n\n\n{ff 00 00 00}{07 00 00}Tundub, et see on midagi,\nmida sa võiksid tahta\nalles hoida.\n{07 0b 00}Kas oled kindel, et tahad \nmüüa?{01 00 00 05 00} {ff 00 00 09}...müüa?\n{ff 00 00 00}\n{07 00 00}Võtame selle su käest\nära {04 0f 00}\nkella eest{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.{02 04 00 00 58}\nMüün!\nUnusta ära!"
   },
   {
    "id": 18,
    "en": "Thank you!{01 00 00 05 00} {ff 00 00 09}...you!{ff 00 00 02}{01 00 00 05 00}\n{ff 00 00 00}Is there anything else we\ncan do for you?{01 00 00 05 00} {ff 00 00 09}...for you?{ff 00 00 00}{02 06 00 07 00 00 15}\nI'm selling!\nCatalog time!\nTurnip prices!\nNo, thanks.",
-   "et": ""
+   "et": "Aitäh!{01 00 00 05 00} {ff 00 00 09}...äh!{ff 00 00 02}{01 00 00 05 00}\n{ff 00 00 00}Kas saame sinu heaks veel\nmidagi teha?{01 00 00 05 00} {ff 00 00 09}...teha?{ff 00 00 00}{02 06 00 07 00 00 15}\nMa müün!\nKataloogi aeg!\nNaeri hind!\nEi, aitäh."
   },
   {
    "id": 19,
    "en": "You can't hold any more\nBells! {01 00 00 05 00}What a fine problem\nto have, eh?\nWe will put the money in a\nbag for you! No charge!{01 00 00 05 00}\n{ff 00 00 09}...charge!",
-   "et": ""
+   "et": "Sa ei jaksa rohkem kellasid\nkanda! {01 00 00 05 00}Milline tore mure,\nkas pole?\nPaneme raha sulle\nkotti! Tasuta!{01 00 00 05 00}\n{ff 00 00 09}...tasuta!"
   },
   {
    "id": 21,
    "en": "Is that so? {01 00 00 05 00}{ff 00 00 09}...that so?{ff 00 00 02} {01 00 00 05 00}{ff 00 00 00}Well,\nplease let us know if you\nchange your mind!{ff 00 00 02}{01 00 00 05 00} {ff 00 00 09}...mind!",
-   "et": ""
+   "et": "Kas tõesti? {01 00 00 05 00}{ff 00 00 09}...tõesti?{ff 00 00 02} {01 00 00 05 00}{ff 00 00 00}Noh,\nanna teada, kui sa oma\nmeelt muudad!{ff 00 00 02}{01 00 00 05 00} {ff 00 00 09}...muudad!"
   },
   {
    "id": 22,
    "en": "The turnip price for today\nis {04 10 00} Bells!{01 00 00 05 00} {ff 00 00 09}...Bells!",
-   "et": ""
+   "et": "Tänane naeri hind\non {04 10 00} kella!{01 00 00 05 00} {ff 00 00 09}...kella!"
   },
   {
    "id": 23,
    "en": "I'm sorry, but our order\nsheet is completely filled!{01 00 00 05 00}\n\nTherefore, we can no longer\naccept new orders!{01 00 00 05 00}\n{ff 00 00 09}...new orders!{ff 00 00 00}\nMaybe you could come back\nand place your order when\nwe're less busy?{ff 00 00 02}{01 00 00 05 00} {ff 00 00 09}...busy!\n{ff 00 00 00}So sorry! Is there anything\nelse we can help you with?{02 06 00 07 00 00 15}\nI want to sell!\nCatalog, please!\nTurnip prices!\nNope.",
-   "et": ""
+   "et": "Vabandust, aga meie\ntellimusleht on täiesti täis!{01 00 00 05 00}\n\nSeepärast ei saa me enam\nuusi tellimusi vastu võtta!{01 00 00 05 00}\n{ff 00 00 09}...võtta!{ff 00 00 00}\nVõib-olla tuled tagasi ja\nesitad tellimuse siis,\nkui on vaiksem?{ff 00 00 02}{01 00 00 05 00} {ff 00 00 09}...vaiksem!\n{ff 00 00 00}Nii kahju! Kas saame\nsind veel millegagi aidata?{02 06 00 07 00 00 15}\nTahan müüa!\nKataloog, palun!\nNaeri hind!\nEi."
   },
   {
    "id": 24,
    "en": "{0b 03 00}{04 00 00},{01 00 00 05 00} this is a\ncatalog created with YOU\nin mind!{01 00 00 05 00} {ff 00 00 09}...in mind!{ff 00 00 02}\n{ff 00 00 00}If there is anything you \nwould like to order, please\nlet us know.{01 00 00 05 00} {ff 00 00 09}...know!",
-   "et": ""
+   "et": "{0b 03 00}{04 00 00},{01 00 00 05 00} see on\nkataloog, mis on loodud\njust SINULE!{01 00 00 05 00} {ff 00 00 09}...SINULE!{ff 00 00 02}\n{ff 00 00 00}Kui soovid midagi \ntellida, anna meile\nteada.{01 00 00 05 00} {ff 00 00 09}...teada!"
   },
   {
    "id": 26,
    "en": "I see.{01 00 00 05 00} {ff 00 00 09}...I see.{01 00 00 05 00} {ff 00 00 00}Yes, the\n{0b 02 00}{04 1b 00}\nis very nice. {ff 00 00 09}{01 00 00 05 00}...very nice!{ff 00 00 00}\nWith delivery cost, your\ngrand total comes to\n{04 0f 00} Bells!{01 00 00 05 00}\nWould you like to order it?{01 00 00 05 00}\n{ff 00 00 09}...order it?{ff 00 00 00}{02 00 00 00 1b}\nYes, please!\nMaybe not...",
-   "et": ""
+   "et": "Selge.{01 00 00 05 00} {ff 00 00 09}...Selge.{01 00 00 05 00} {ff 00 00 00}Jah,\n{0b 02 00}{04 1b 00}\non väga kena. {ff 00 00 09}{01 00 00 05 00}...väga kena!{ff 00 00 00}\nKoos kohaletoimetamisega\ntuleb kogusummaks\n{04 0f 00} kella!{01 00 00 05 00}\nKas soovid selle tellida?{01 00 00 05 00}\n{ff 00 00 09}...tellida?{ff 00 00 00}{02 00 00 00 1b}\nJah, palun!\nEhk mitte..."
   },
   {
    "id": 27,
    "en": "Oh? I see. So you don't\nwant to order it after\nall?{01 00 00 05 00} {ff 00 00 09}...after all?{ff 00 00 00}\nYes, that's fine! Is there\nanything else that we can\nhelp you with?{01 00 00 05 00} {ff 00 00 09}...you with?{ff 00 00 00}{02 06 00 07 00 00 15}\nI want to sell!\nCatalog, please!\nTurnip prices!\nNope.",
-   "et": ""
+   "et": "Oh? Selge. Nii et sa ei\ntaha seda ikkagi\ntellida?{01 00 00 05 00} {ff 00 00 09}...tellida?{ff 00 00 00}\nJah, pole viga! Kas saame\nsind veel millegagi\naidata?{01 00 00 05 00} {ff 00 00 09}...aidata?{ff 00 00 00}{02 06 00 07 00 00 15}\nTahan müüa!\nKataloog, palun!\nNaeri hind!\nEi."
   },
   {
    "id": 28,
    "en": "Thank you for your\npatronage!{01 00 00 05 00} {ff 00 00 09}...'atronage!{ff 00 00 02}\n{ff 00 00 00}\nThis item will be shipped \nto you as soon as we get it\nin stock!{01 00 00 05 00} {ff 00 00 09}...stock!{ff 00 00 02}\n{ff 00 00 00}Don't forget to check your\nmailbox regularly!{ff 00 00 02}{01 00 00 05 00}\n{ff 00 00 00}\nIs there anything else we \ncan help you with?{01 00 00 05 00}\n{ff 00 00 09}...you with?{ff 00 00 00}{02 06 00 07 00 00 15}\nI want to sell!\nCatalog, please!\nTurnip prices!\nNo.",
-   "et": ""
+   "et": "Aitäh, et meid\nkülastasid!{01 00 00 05 00} {ff 00 00 09}...astasid!{ff 00 00 02}\n{ff 00 00 00}\nSee ese saadetakse sulle \nkohe, kui see meile\nlattu jõuab!{01 00 00 05 00} {ff 00 00 09}...jõuab!{ff 00 00 02}\n{ff 00 00 00}Ära unusta oma postkasti\nregulaarselt vaatamast!{ff 00 00 02}{01 00 00 05 00}\n{ff 00 00 00}\nKas saame sind veel \nmillegagi aidata?{01 00 00 05 00}\n{ff 00 00 09}...aidata?{ff 00 00 00}{02 06 00 07 00 00 15}\nTahan müüa!\nKataloog, palun!\nNaeri hind!\nEi."
   },
   {
    "id": 29,
    "en": "Oh?{ff 00 00 02}{01 00 00 05 00} {ff 00 00 09}...Oh?{ff 00 00 02}{01 00 00 05 00} {ff 00 00 00}One moment{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n{ff 00 00 09}...moment!{ff 00 00 00}\n\nIt appears that you do not\nhave enough money!{01 00 00 05 00}\n{ff 00 00 09}...money!{ff 00 00 00}\nYes, we cannot take your\norder if you don't have\nenough money{01 00 00 05 00}! So sorry!{ff 00 00 02}\n{ff 00 00 00}Please place your order\nat a later date when you\nhave more Bells.{ff 00 00 02}{01 00 00 05 00} {ff 00 00 09}...Bells!{ff 00 00 02}\n{ff 00 00 00}Is there anything else we\ncan help you with?{01 00 00 05 00}{02 06 00 07 00 00 15}\nI want to sell!\nCatalog, please!\nTurnip prices!\nI'm done.",
-   "et": ""
+   "et": "Oh?{ff 00 00 02}{01 00 00 05 00} {ff 00 00 09}...Oh?{ff 00 00 02}{01 00 00 05 00} {ff 00 00 00}Üks hetk{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n{ff 00 00 09}...hetk!{ff 00 00 00}\n\nNäib, et sul pole\npiisavalt raha!{01 00 00 05 00}\n{ff 00 00 09}...raha!{ff 00 00 00}\nJah, me ei saa su tellimust\nvastu võtta, kui sul pole\npiisavalt raha{01 00 00 05 00}! Nii kahju!{ff 00 00 02}\n{ff 00 00 00}Palun esita tellimus\nhiljem, kui sul on\nrohkem kellasid.{ff 00 00 02}{01 00 00 05 00} {ff 00 00 09}...kellasid!{ff 00 00 02}\n{ff 00 00 00}Kas saame sind veel\nmillegagi aidata?{01 00 00 05 00}{02 06 00 07 00 00 15}\nTahan müüa!\nKataloog, palun!\nNaeri hind!\nOlen valmis."
   },
   {
    "id": 30,
    "en": "Ah, yes, yes. That's the\n{0b 02 00}{04 1b 00}.\nVery nice.{01 00 00 05 00} {ff 00 00 09}...very nice.{ff 00 00 02}\n{ff 00 00 00}The price is {04 13 00} Bells.\nWould you like it?{01 00 00 05 00} {ff 00 00 09}...like it?{ff 00 00 00}{02 04 00 00 1f}\nI'll buy it!\nNo, thanks.",
-   "et": ""
+   "et": "Ah, jaa, jaa. See on\n{0b 02 00}{04 1b 00}.\nVäga kena.{01 00 00 05 00} {ff 00 00 09}...väga kena.{ff 00 00 02}\n{ff 00 00 00}Hind on {04 13 00} kella.\nKas soovid seda?{01 00 00 05 00} {ff 00 00 09}...seda?{ff 00 00 00}{02 04 00 00 1f}\nOstan!\nEi, aitäh."
   },
   {
    "id": 31,
    "en": "Very well!{01 00 00 0a 00} Please take your\ntime and have a look at our\nother items!{01 00 00 05 00} {ff 00 00 09}...items!",
-   "et": ""
+   "et": "Hästi!{01 00 00 0a 00} Vaata rahulikult\nringi ja uuri meie\nteisi esemeid!{01 00 00 05 00} {ff 00 00 09}...esemeid!"
   },
   {
    "id": 32,
    "en": "Thank you so much!{01 00 00 05 00} {ff 00 00 09}...'uch!{ff 00 00 02}\n{ff 00 00 00}Much appreciated!{ff 00 00 02}\n{ff 00 00 00}\n{07 04 00}Oh!{01 00 00 05 00}{07 00 00} What a shame!{01 00 00 05 00} {ff 00 00 09}...shame!{ff 00 00 02}\n{ff 00 00 00}You're carrying too much\nstuff already!{ff 00 00 02}\n{ff 00 00 00}Please empty your pockets\nand come back!{01 00 00 05 00} {ff 00 00 09}...back!",
-   "et": ""
+   "et": "Suur aitäh!{01 00 00 05 00} {ff 00 00 09}...aitäh!{ff 00 00 02}\n{ff 00 00 00}Väga hinnatud!{ff 00 00 02}\n{ff 00 00 00}\n{07 04 00}Oh!{01 00 00 05 00}{07 00 00} Kui kahju!{01 00 00 05 00} {ff 00 00 09}...kahju!{ff 00 00 02}\n{ff 00 00 00}Sa kannad juba liiga\npalju kraami!{ff 00 00 02}\n{ff 00 00 00}Tühjenda taskud ja\ntule tagasi!{01 00 00 05 00} {ff 00 00 09}...tagasi!"
   },
   {
    "id": 33,
    "en": "Thank you very much!{01 00 00 05 00}\n{ff 00 00 09}...'uch!{ff 00 00 02}\n{ff 00 00 00}\nOh?{01 00 00 05 00} Oh ho!{01 00 00 05 00} It appears that\nyou don't have enough\nmoney!{01 00 00 05 00} {ff 00 00 09}...money!{ff 00 00 02}\n{ff 00 00 00}Please remember to bring\nyour money when you come \nto our shop!{01 00 00 05 00} {ff 00 00 09}...our shop!",
-   "et": ""
+   "et": "Suur tänu!{01 00 00 05 00}\n{ff 00 00 09}...tänu!{ff 00 00 02}\n{ff 00 00 00}\nOh?{01 00 00 05 00} Oh hoo!{01 00 00 05 00} Näib, et sul\npole piisavalt\nraha!{01 00 00 05 00} {ff 00 00 09}...raha!{ff 00 00 02}\n{ff 00 00 00}Palun pea meeles võtta\nraha kaasa, kui tuled \nmeie poodi!{01 00 00 05 00} {ff 00 00 09}...meie poodi!"
   },
   {
    "id": 34,
    "en": "Thank you so very much!{01 00 00 05 00}\n{ff 00 00 09}...very much!",
-   "et": ""
+   "et": "Väga suur tänu!{01 00 00 05 00}\n{ff 00 00 09}...suur tänu!"
   },
   {
    "id": 35,
    "en": "Very well, that will be\n{04 13 00} Bells.{01 00 00 05 00} A good\nprice, yes?{01 00 00 05 00} {ff 00 00 09}...yes!",
-   "et": ""
+   "et": "Hästi, see teeb\n{04 13 00} kella.{01 00 00 05 00} Hea\nhind, kas pole?{01 00 00 05 00} {ff 00 00 09}...pole!"
   },
   {
    "id": 42,
    "en": "Oh ho! This is the amazing\n{04 1b 00},\nyes? {ff 00 00 09}{01 00 00 05 00}...yes!{ff 00 00 02}\n{ff 00 00 00}Four sheets per one set...\nIt comes to {04 13 00} Bells!\n\nWould you like to \nbuy it?{01 00 00 05 00} {ff 00 00 09}...buy it?{ff 00 00 00}{02 04 00 00 1f}\nI'll take it!\nNo, thanks.",
-   "et": ""
+   "et": "Oh hoo! See on vapustav\n{04 1b 00},\neks? {ff 00 00 09}{01 00 00 05 00}...eks!{ff 00 00 02}\n{ff 00 00 00}Neli lehte komplektis...\nSee teeb {04 13 00} kella!\n\nKas sa soovid selle \nosta?{01 00 00 05 00} {ff 00 00 09}...osta?{ff 00 00 00}{02 04 00 00 1f}\nVõtan!\nEi, aitäh."
   },
   {
    "id": 43,
    "en": "Ah, yes. This is the \n{0b 02 00}{04 1b 00}!\nA fine item!{01 00 00 05 00} {ff 00 00 09}...item!{ff 00 00 02}\n{ff 00 00 00}It's a real bargain at only\n{04 13 00} Bells, don't you \nagree?{01 00 00 05 00} {ff 00 00 09}...agree?{ff 00 00 00}{02 05 00 00 2c 1f}\nI'll take it!\nLet me see it!\nI'll pass.",
-   "et": ""
+   "et": "Ah, jaa. See on \n{0b 02 00}{04 1b 00}!\nSuurepärane ese!{01 00 00 05 00} {ff 00 00 09}...ese!{ff 00 00 02}\n{ff 00 00 00}See on soodne,\nainult {04 13 00} kella,\nkas pole?{01 00 00 05 00} {ff 00 00 09}...pole?{ff 00 00 00}{02 05 00 00 2c 1f}\nVõtan!\nLas ma vaatan!\nJätan vahele."
   },
   {
    "id": 44,
    "en": "So? What do you think?{01 00 00 05 00}\n{ff 00 00 09}...you think?{ff 00 00 00}\n\nThis is a steal at only\n{04 13 00} Bells!{01 00 00 05 00} {ff 00 00 09}...Bells!{ff 00 00 00}{02 04 00 00 1f}\nI'll take it!\nNo, thanks.",
-   "et": ""
+   "et": "Noh? Mis sa arvad?{01 00 00 05 00}\n{ff 00 00 09}...arvad?{ff 00 00 00}\n\nSee on pilluhind, ainult\n{04 13 00} kella!{01 00 00 05 00} {ff 00 00 09}...kella!{ff 00 00 00}{02 04 00 00 1f}\nVõtan!\nEi, aitäh."
   },
   {
    "id": 45,
    "en": "Oh, yes. That is the\n{ff 00 00 07}{04 11 00} paint{ff 00 00 00}.\nUnfortunately...\nWe are unable to sell that\nto visitors from out of\ntown.{01 00 00 05 00} {ff 00 00 09}...out of town!{ff 00 00 00}\nYou see, {04 00 00},{01 00 00 05 00}{07 03 00} we'd \nhave to go to your house\nand paint it!{01 00 00 0a 00}{07 00 00} Oh my, yes.\nSo sorry, but we're sure\nthat you'll find something\nelse!{01 00 00 05 00} {ff 00 00 09}...else!",
-   "et": ""
+   "et": "Oh, jaa. See on\n{ff 00 00 07}{04 11 00} värv{ff 00 00 00}.\nKahjuks...\nMe ei saa seda müüa\nkülalistele, kes tulevad\nmujalt.{01 00 00 05 00} {ff 00 00 09}...mujalt!{ff 00 00 00}\nNäed, {04 00 00},{01 00 00 05 00}{07 03 00} peaksime \nminema sinu majja ja\nselle üle värvima!{01 00 00 0a 00}{07 00 00} Oi jaa.\nNii kahju, aga oleme\nkindlad, et sa leiad midagi\nmuud!{01 00 00 05 00} {ff 00 00 09}...muud!"
   },
   {
    "id": 46,
    "en": "Ah, what an eye! That is\nthe {ff 00 00 07}{04 11 00} paint{ff 00 00 00}!\n{01 00 00 05 00}{ff 00 00 09}...paint!{ff 00 00 02}\n{ff 00 00 00}With that, you can repaint\nyour roof, {04 00 00}.\n\nThis color is only available\nfor a limited time, so if\nyou want it, act now!{01 00 00 05 00} {ff 00 00 09}...now!{ff 00 00 02}\n{ff 00 00 00}Right now, the price is\n{04 13 00} Bells. And that\nincludes all labor!\nSo?{ff 00 00 02}{01 00 00 05 00} {ff 00 00 09}...so?{ff 00 00 00}{02 04 00 00 1f}\nI'll take it!\nNo thank you.",
-   "et": ""
+   "et": "Ah, milline silm! See on\n{ff 00 00 07}{04 11 00} värv{ff 00 00 00}!\n{01 00 00 05 00}{ff 00 00 09}...värv!{ff 00 00 02}\n{ff 00 00 00}Sellega saad üle värvida\noma katuse, {04 00 00}.\n\nSee värv on saadaval\nainult piiratud aja, nii et\ntegutse kohe!{01 00 00 05 00} {ff 00 00 09}...kohe!{ff 00 00 02}\n{ff 00 00 00}Praegu on hind\n{04 13 00} kella. Ja see\nsisaldab kogu tööd!\nNoh?{ff 00 00 02}{01 00 00 05 00} {ff 00 00 09}...noh?{ff 00 00 00}{02 04 00 00 1f}\nVõtan!\nEi, aitäh."
   },
   {
    "id": 47,
    "en": "So that will be {04 13 00}\nBells!{01 00 00 0a 00} Thank you much!\n{ff 00 00 02}{01 00 00 05 00} {ff 00 00 09}...you much!{ff 00 00 00}\n{07 14 00}We'll check our schedule and\nbe out there to paint as\nsoon as we can!{01 00 00 05 00} {ff 00 00 09}...we can!",
-   "et": ""
+   "et": "See teeb siis {04 13 00}\nkella!{01 00 00 0a 00} Suur tänu!\n{ff 00 00 02}{01 00 00 05 00} {ff 00 00 09}...suur tänu!{ff 00 00 00}\n{07 14 00}Vaatame oma graafikut ja\ntuleme värvima nii\npea kui saame!{01 00 00 05 00} {ff 00 00 09}...kui saame!"
   },
   {
    "id": 49,
    "en": "{07 14 00}You have a keen eye! That's\nour {ff 00 00 02}spotlight product{01 00 00 05 00}{ff 00 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}the\n{0b 02 00}{04 1b 00}!\nIt's a bargain at {04 13 00}\nBells!{01 00 00 0a 00} So,{01 00 00 05 00} what do you say?\n{ff 00 00 09}...say!{ff 00 00 00}{02 04 00 00 1f}\nI'll take it!\nNo, thanks.",
-   "et": ""
+   "et": "{07 14 00}Sul on terav silm! See on\nmeie {ff 00 00 02}tähttoode{01 00 00 05 00}{ff 00 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n{0b 02 00}{04 1b 00}!\nSoodne, ainult {04 13 00}\nkella!{01 00 00 0a 00} Noh,{01 00 00 05 00} mis sa ütled?\n{ff 00 00 09}...ütled!{ff 00 00 00}{02 04 00 00 1f}\nVõtan!\nEi, aitäh."
   },
   {
    "id": 50,
    "en": "Welcome!{01 00 00 05 00} {ff 00 00 09}...'come!{ff 00 00 02} {ff 00 00 00}Today\nwe're having a {ff 00 00 03}Point\nSpecial{ff 00 00 00}!{01 00 00 05 00} {ff 00 00 09}...special!",
-   "et": ""
+   "et": "Tere tulemast!{01 00 00 05 00} {ff 00 00 09}...emast!{ff 00 00 02}\n{ff 00 00 00}Täna on meil {ff 00 00 03}punkti-\neripakkumine{ff 00 00 00}!{01 00 00 05 00} {ff 00 00 09}...pakkumine!"
   },
   {
    "id": 51,
    "en": "Welcome!{01 00 00 05 00} {ff 00 00 09}...'come!{ff 00 00 00} {01 00 00 05 00}You're\njust in time for our rare\n{ff 00 00 03}Time Service{ff 00 00 00}! ",
-   "et": ""
+   "et": "Tere tulemast!{01 00 00 05 00} {ff 00 00 09}...emast!{ff 00 00 00} {01 00 00 05 00}Sa\njõudsid just õigel ajal\nmeie {ff 00 00 03}tunnipakkumisele{ff 00 00 00}! "
   },
   {
    "id": 52,
    "en": "Welcome! {ff 00 00 09}{01 00 00 05 00}...'come!{ff 00 00 00}{01 00 00 05 00} Today's\n{ff 00 00 02}Spotlight Item{ff 00 00 00} has just\narrived!{ff 00 00 02}{01 00 00 05 00} {ff 00 00 09}...arrived!",
-   "et": ""
+   "et": "Tere tulemast! {ff 00 00 09}{01 00 00 05 00}...emast!{ff 00 00 00}{01 00 00 05 00}\nTänane {ff 00 00 02}tähtese{ff 00 00 00} just\nsaabus!{ff 00 00 02}{01 00 00 05 00} {ff 00 00 09}...saabus!"
   },
   {
    "id": 64,
    "en": "{07 0b 00}Oh ho!{ff 00 00 02}{01 00 00 05 00} {ff 00 00 09}...Oh ho!{ff 00 00 02}{01 01 00}{ff 00 00 00}\n{07 00 00}We don't mind if you sell\nyour paintings here, but...\n{01 00 00 05 00}This is a {ff 00 00 07}forged painting{ff 00 00 00}!{ff 00 00 07}{01 00 00 05 00} \n{ff 00 00 09}...forged!{ff 00 00 02}\n{ff 00 00 00}\n{07 19 00}Of course, we can only pay\n{ff 00 00 07}forged-painting{ff 00 00 00} prices for\nsuch counterfeits.{01 00 00 05 00} {ff 00 00 09}...'feits!{ff 00 00 02}\n{ff 00 00 00}{07 00 00}So, that being said, {01 00 00 05 00}we can\ngive you{01 00 00 05 00} {04 0f 00} Bells\nfor those items!{ff 00 00 02}{01 00 00 05 00} {ff 00 00 09}...items!{ff 00 00 00}{02 04 00 00 08}\nI'll sell.\nI'll pass.",
-   "et": ""
+   "et": "{07 0b 00}Oh hoo!{ff 00 00 02}{01 00 00 05 00} {ff 00 00 09}...Oh hoo!{ff 00 00 02}{01 01 00}{ff 00 00 00}\n{07 00 00}Meil pole midagi selle vastu,\net müüd siin maale, aga...\n{01 00 00 05 00}See on {ff 00 00 07}võltsmaal{ff 00 00 00}!{ff 00 00 07}{01 00 00 05 00} \n{ff 00 00 09}...võlts!{ff 00 00 02}\n{ff 00 00 00}\n{07 19 00}Muidugi saame maksta ainult\n{ff 00 00 07}võltsmaali{ff 00 00 00} hinda selliste\nvõltsingute eest.{01 00 00 05 00} {ff 00 00 09}...eest!{ff 00 00 02}\n{ff 00 00 00}{07 00 00}Nii et, seda öeldes, {01 00 00 05 00}saame\nsulle anda{01 00 00 05 00} {04 0f 00} kella\nnende esemete eest!{ff 00 00 02}{01 00 00 05 00} {ff 00 00 09}...eest!{ff 00 00 00}{02 04 00 00 08}\nMüün.\nJätan vahele."
   },
   {
    "id": 87,
    "en": "{07 16 00}Oh no{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00} I'm so very sorry!{01 00 00 05 00}\n{ff 00 00 09}...sorry!{ff 00 00 00}{01 10 00 32}\n\nYes, it seems that closing\ntime has come and gone.\n{01 00 00 05 00}{ff 00 00 09}...gone!{ff 00 00 00}{01 10 00 32}\n{07 06 00}If we don't start closing{01 00 00 05 00}\nup, we'll be in big trouble!{01 00 00 05 00}\n{ff 00 00 09}...trouble!{ff 00 00 00}{01 10 00 32}\n{07 00 00}{07 0b 00}Yes, so would you please\nhelp us out and leave?{01 00 00 05 00}\n{ff 00 00 09}...leave?{ff 00 00 00}{01 10 00 32}\n{07 14 00}We appreciate the business,{01 00 00 05 00}\nand look forward to seeing\nyou tomorrow!{01 00 00 05 00} {ff 00 00 09}...'orrow!{ff 00 00 00}{01 10 00 32}",
-   "et": ""
+   "et": "{07 16 00}Oh ei{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00} Mul on nii kahju!{01 00 00 05 00}\n{ff 00 00 09}...kahju!{ff 00 00 00}{01 10 00 32}\n\nJah, näib, et sulgemisaeg\non käes ja möödas.\n{01 00 00 05 00}{ff 00 00 09}...möödas!{ff 00 00 00}{01 10 00 32}\n{07 06 00}Kui me ei hakka sulgema,{01 00 00 05 00}\njääme suurde hätta!{01 00 00 05 00}\n{ff 00 00 09}...hätta!{ff 00 00 00}{01 10 00 32}\n{07 00 00}{07 0b 00}Jah, kas sa aitaksid\nmeid ja lahkuksid?{01 00 00 05 00}\n{ff 00 00 09}...lahkuksid?{ff 00 00 00}{01 10 00 32}\n{07 14 00}Hindame sinu äri,{01 00 00 05 00}\nja ootame sind\nhomme jälle!{01 00 00 05 00} {ff 00 00 09}...jälle!{ff 00 00 00}{01 10 00 32}"
   },
   {
    "id": 88,
    "en": "{07 00 00}I'm sorry, but we cannot\nbuy that item.{01 00 00 05 00} {ff 00 00 09}...item!{ff 00 00 02}\n{ff 00 00 00}\nIs there anything else that\nwe can do for you?{01 00 00 05 00} {ff 00 00 09}...you?{ff 00 00 00}{02 06 00 07 00 00 15}\nI want to sell!\nCatalog, please!\nTurnip prices!\nNo, thanks.",
-   "et": ""
+   "et": "{07 00 00}Vabandust, aga me ei saa\nseda eset osta.{01 00 00 05 00} {ff 00 00 09}...osta!{ff 00 00 02}\n{ff 00 00 00}\nKas saame sinu heaks veel\nmidagi teha?{01 00 00 05 00} {ff 00 00 09}...teha?{ff 00 00 00}{02 06 00 07 00 00 15}\nTahan müüa!\nKataloog, palun!\nNaeri hind!\nEi, aitäh."
   },
   {
    "id": 89,
    "en": "{07 16 00}Oh, terribly sorry!{01 00 00 05 00} {ff 00 00 09}...sorry!{ff 00 00 00}{01 00 00 0a 00}\nWe cannot accept catalog\norders from out of town!\n{07 06 00}Yes, so sorry,{01 00 00 05 00} but can you\nplease place that order in\nyour own town?{01 00 00 05 00} {ff 00 00 09}...town?{ff 00 00 02}\n{ff 00 00 00}{07 00 00}Is there anything else that\nwe can help you with?{01 00 00 05 00}\n{ff 00 00 09}...you with?{ff 00 00 00}{02 06 00 07 00 00 15}\nI want to sell! \nCatalog, please!\nTurnip prices!\nNo, thanks.",
-   "et": ""
+   "et": "{07 16 00}Oh, väga kahju!{01 00 00 05 00} {ff 00 00 09}...kahju!{ff 00 00 00}{01 00 00 0a 00}\nMe ei võta vastu kataloogi-\ntellimusi väljastpoolt linna!\n{07 06 00}Jah, nii kahju,{01 00 00 05 00} aga kas sa\nsaaksid tellimuse esitada\noma linnas?{01 00 00 05 00} {ff 00 00 09}...linnas?{ff 00 00 02}\n{ff 00 00 00}{07 00 00}Kas saame sind veel\nmillegagi aidata?{01 00 00 05 00}\n{ff 00 00 09}...aidata?{ff 00 00 00}{02 06 00 07 00 00 15}\nTahan müüa!\nKataloog, palun!\nNaeri hind!\nEi, aitäh."
   },
   {
    "id": 93,
    "en": "{07 0b 00}Huh?!{01 00 00 0a 00} {ff 00 00 09}...Wuh-huh?{ff 00 00 00}{01 01 00}\n{07 00 00}I'm afraid you can't hold\nany more money.{01 00 00 05 00} {ff 00 00 09}...'oney!{ff 00 00 02}\n{ff 00 00 00}{07 19 00}Please empty your pockets\nso you can hold a money\nbag and come back!{ff 00 00 02}{01 00 00 05 00} {ff 00 00 09}...back!{ff 00 00 00}\n{07 00 00}Is there anything else\nthat we might help you\nwith?{ff 00 00 02}{01 00 00 05 00} {ff 00 00 09}...with?{ff 00 00 00}{02 06 00 07 00 00 15}\nI wanna sell!\nCatalog, please!\nTurnip prices!\nThat's it!",
-   "et": ""
+   "et": "{07 0b 00}Mis?!{01 00 00 0a 00} {ff 00 00 09}...Mi-mis?{ff 00 00 00}{01 01 00}\n{07 00 00}Kardan, et sa ei jaksa\nrohkem raha kanda.{01 00 00 05 00} {ff 00 00 09}...kanda!{ff 00 00 02}\n{ff 00 00 00}{07 19 00}Tühjenda taskud, et\nsaaksid rahakotti kanda,\nja tule tagasi!{ff 00 00 02}{01 00 00 05 00} {ff 00 00 09}...tagasi!{ff 00 00 00}\n{07 00 00}Kas saame sind veel\nmillegagi\naidata?{ff 00 00 02}{01 00 00 05 00} {ff 00 00 09}...aidata?{ff 00 00 00}{02 06 00 07 00 00 15}\nTahan müüa!\nKataloog, palun!\nNaeri hind!\nSee on kõik!"
   }
  ]
 }

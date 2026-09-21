@@ -4,42 +4,42 @@
   {
    "id": 0,
    "en": "{07 14 00}{0b 03 00}{04 1f 00}!!!",
-   "et": ""
+   "et": "{07 14 00}{0b 03 00}{04 1f 00}!!!"
   },
   {
    "id": 1,
    "en": "{07 00 00}It's your birthday today,\nisn't it, {04 1f 00}?\n\n{07 14 00}Hee hee!{01 00 00 05 00} You didn't think\nI'd forget, did you? I wrote\nit down and everything!\nToday is a very important\nday, the day my dearest\nfriend came into the world!\nHere, I even brought you a\npresent, {01 00 00 05 00}{04 02 00}.",
-   "et": ""
+   "et": "{07 00 00}Sul on täna sünnipäev,\nkas pole, {04 1f 00}?\n\n{07 14 00}Hii hii!{01 00 00 05 00} Sa ei arvanud, et\nma unustan, ega? Ma panin\nselle kirja ja kõike!\nTäna on väga tähtis päev,\npäev, mil mu kalleim\nsõber maailma tuli!\nSäh, ma tõin sulle isegi\nkingituse, {01 00 00 05 00}{04 02 00}."
   },
   {
    "id": 2,
    "en": "{07 00 00}So? What do you think,\n{04 1f 00}? Don't keep me\nin suspense, {01 00 00 05 00}{04 02 00}!\n.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}{07 14 00}Do you like it?",
-   "et": ""
+   "et": "{07 00 00}Nii? Mida sa arvad,\n{04 1f 00}? Ära hoia mind\npõnevuses, {01 00 00 05 00}{04 02 00}!\n.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}{07 14 00}Kas sulle meeldib?"
   },
   {
    "id": 3,
    "en": "{07 14 00}Happy birthday! So,\n{04 1f 00}, you like it,\nright, {01 00 00 05 00}{04 02 00}?\n{07 0a 00}I'm so happy! {01 00 00 0f 00}{07 14 00}I hope you\nand I stay friends for a\nlong, long time!",
-   "et": ""
+   "et": "{07 14 00}Palju õnne! Nii,\n{04 1f 00}, sulle meeldib,\neks, {01 00 00 05 00}{04 02 00}?\n{07 0a 00}Ma olen nii õnnelik! {01 00 00 0f 00}{07 14 00}Loodan,\net sina ja mina oleme\nkaua sõbrad!"
   },
   {
    "id": 4,
    "en": "{07 00 00}.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}{07 16 00}But I thought it was{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.\n\n\nNever mind, {04 1f 00}{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.\n\n\n.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}Later.",
-   "et": ""
+   "et": "{07 00 00}.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}{07 16 00}Aga ma arvasin, et{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.\n\n\nPole tähtis, {04 1f 00}{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.\n\n\n.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}Näeme."
   },
   {
    "id": 5,
    "en": "{07 00 00}{0b 03 00}{ff 00 00 06}{04 0f 00}{ff 00 00 00},",
-   "et": ""
+   "et": "{07 00 00}{0b 03 00}{ff 00 00 06}{04 0f 00}{ff 00 00 00},"
   },
   {
    "id": 6,
    "en": "{07 00 00}and {ff 00 00 06}{04 0f 00}",
-   "et": ""
+   "et": "{07 00 00}ja {ff 00 00 06}{04 0f 00}"
   },
   {
    "id": 7,
    "en": "{07 14 00}chipped in, {01 00 00 05 00}{04 02 00}.{01 01 00}\nI hope you like it!",
-   "et": ""
+   "et": "{07 14 00}panid ka oma, {01 00 00 05 00}{04 02 00}.{01 01 00}\nLoodan, et see meeldib!"
   }
  ]
 }

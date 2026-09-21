@@ -4,27 +4,27 @@
   {
    "id": 0,
    "en": "{07 04 00}What? {01 00 00 0a 00}WHAT!?{01 00 00 0a 00} {07 15 00}Would you mind\nnot pushing me, puh-lease!\nSheesh, {01 00 00 0a 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 04 00}Mis? {01 00 00 0a 00}MIS!?{01 00 00 0a 00} {07 15 00}Kas sa ei\nvõiks mind mitte tõugata!\nIssand, {01 00 00 0a 00}{04 02 00}!"
   },
   {
    "id": 1,
    "en": "{07 15 00}You better watch out,\nbecause I'm{01 00 00 05 00} gonna{01 00 00 05 00} get{01 00 00 05 00} MAD!",
-   "et": ""
+   "et": "{07 15 00}Sa parem hoia alt,\nsest ma{01 00 00 05 00} lähen{01 00 00 05 00} nüüd{01 00 00 05 00} MARUS!"
   },
   {
    "id": 2,
    "en": "{07 05 00}{01 00 00 05 00}Hey,{01 00 00 0a 00} just what is it you're\ntrying to accomplish\nanyways, {01 00 00 0a 00}{04 02 00}?",
-   "et": ""
+   "et": "{07 05 00}{01 00 00 05 00}Hei,{01 00 00 0a 00} mida sa õieti\nüritad saavutada,\n{01 00 00 0a 00}{04 02 00}?"
   },
   {
    "id": 3,
    "en": "{07 15 00}Why, you sneaky little{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n{07 05 00}{01 00 00 05 00}Would you please stop\npushing me RIGHT NOW!",
-   "et": ""
+   "et": "{07 15 00}No sa kaval väike{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n{07 05 00}{01 00 00 05 00}Kas sa lõpetaksid palun\nmind tõukamast KOHE!"
   },
   {
    "id": 4,
    "en": "{07 01 00}Hey, {01 00 00 05 00}what do you think\nyou're doing?! I said stop!\nThat's S-T-O-P! Got it?",
-   "et": ""
+   "et": "{07 01 00}Hei, {01 00 00 05 00}mida sa arvad, et\nsa teed?! Ma ütlesin: aitab!\nSee on A-I-T-A-B! Selge?"
   }
  ]
 }

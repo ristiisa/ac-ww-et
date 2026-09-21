@@ -4,17 +4,17 @@
   {
    "id": 0,
    "en": "{07 04 00}Did you know {ff 00 00 06}{04 0f 00}\n{ff 00 00 00}was looking for you?{01 01 00} {07 0b 00}{01 00 00 05 00}Did\nsomething happen?\n{07 16 00}You'd better go find out,\n'cause {ff 00 00 06}{04 0f 00}{ff 00 00 00} didn't\nlook too happy!",
-   "et": ""
+   "et": "{07 04 00}Kas teadsid, et {ff 00 00 06}{04 0f 00}\n{ff 00 00 00}otsis sind?{01 01 00} {07 0b 00}{01 00 00 05 00}Kas midagi\njuhtus?\n{07 16 00}Sa peaksid järele uurima,\nsest {ff 00 00 06}{04 0f 00}{ff 00 00 00} ei näinud\nrõõmus välja!"
   },
   {
    "id": 1,
    "en": "{07 04 00}{01 00 00 05 00}Um,{01 00 00 0a 00} on a side note,\n{ff 00 00 06}{04 0f 00} {ff 00 00 00}was\nlooking for you.\n{07 0b 00}{01 00 00 0a 00}Said something about\nsomething you were\nsupposed to deliver{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 06 00}You'd better go find out\nwhat it was about.{01 00 00 05 00} STAT,\n{01 00 00 0a 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 04 00}{01 00 00 05 00}Ee,{01 00 00 0a 00} muuseas,\n{ff 00 00 06}{04 0f 00} {ff 00 00 00}otsis\nsind.\n{07 0b 00}{01 00 00 0a 00}Ütles midagi millegi\nkohta, mida sa pidid\nkohale toimetama{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 06 00}Sa peaksid järele uurima,\nmis asi see oli.{01 00 00 05 00} KOHE,\n{01 00 00 0a 00}{04 02 00}!"
   },
   {
    "id": 2,
    "en": "{07 04 00}Oh,{01 00 00 14 00} wait a sec, {04 1f 00}!{01 00 00 0a 00}\n{0b 03 00}{04 02 00}! {07 0b 00}{01 00 00 05 00}{0b 03 00}{ff 00 00 06}{04 0f 00}\n{ff 00 00 00}was just looking for you.\n{07 06 00}It seemed like something\nwas wrong. You'd better go\nfind out what!",
-   "et": ""
+   "et": "{07 04 00}Oh,{01 00 00 14 00} oota hetk, {04 1f 00}!{01 00 00 0a 00}\n{0b 03 00}{04 02 00}! {07 0b 00}{01 00 00 05 00}{0b 03 00}{ff 00 00 06}{04 0f 00}\n{ff 00 00 00}otsis sind just.\n{07 06 00}Tundus, et midagi on\nviltu. Sa peaksid järele\nuurima, mis!"
   }
  ]
 }

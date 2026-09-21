@@ -4,17 +4,17 @@
   {
    "id": 0,
    "en": "{07 00 00}Great! All you have to do\nis {ff 00 00 01}touch {ff 00 00 00}the item you're\ntalking about.",
-   "et": ""
+   "et": "{07 00 00}Suurepärane! Sa pead ainult\n{ff 00 00 01}puudutama {ff 00 00 00}eset, millest\nsa räägid."
   },
   {
    "id": 1,
    "en": "{07 0b 00}So what is it?{01 01 00}\nJust {ff 00 00 01}touch {ff 00 00 00}the item for\nme, OK, {01 00 00 05 00}{04 02 00}?",
-   "et": ""
+   "et": "{07 0b 00}Mis see siis on?{01 01 00}\nLihtsalt {ff 00 00 01}puuduta {ff 00 00 00}eset\nminu jaoks, eks, {01 00 00 05 00}{04 02 00}?"
   },
   {
    "id": 2,
    "en": "{07 00 00}All right then.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} {07 0b 00}Which is\nit? {01 00 00 14 00}{07 00 00}Just {ff 00 00 01}touch {ff 00 00 00}it to let\nme know, {01 00 00 05 00}{04 02 00}.",
-   "et": ""
+   "et": "{07 00 00}Hea küll siis.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} {07 0b 00}Kumb see\non? {01 00 00 14 00}{07 00 00}Lihtsalt {ff 00 00 01}puuduta {ff 00 00 00}seda,\net teada anda, {01 00 00 05 00}{04 02 00}."
   }
  ]
 }

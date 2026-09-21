@@ -4,17 +4,17 @@
   {
    "id": 0,
    "en": "{07 15 00}It won't be this easy next\ntime{01 00 00 0f 00} {07 00 00}{07 14 00}Hee hee! Wow, that was\nfun! Let's do it again!",
-   "et": ""
+   "et": "{07 15 00}Järgmine kord ei ole nii\nlihtne{01 00 00 0f 00} {07 00 00}{07 14 00}Hi hii! Vau, see oli\nlõbus! Teeme seda uuesti!"
   },
   {
    "id": 1,
    "en": "{07 0d 00}Whooo!{01 00 00 05 00} Let's do it again\nsometime, {01 00 00 05 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 0d 00}Juhhu!{01 00 00 05 00} Teeme seda kunagi\nuuesti, {01 00 00 05 00}{04 02 00}!"
   },
   {
    "id": 2,
    "en": "{07 0d 00}It was so much fun!!{01 00 00 0a 00}\nPleeeeeease play with me\nagain, {01 00 00 05 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 0d 00}See oli nii lõbus!!{01 00 00 0a 00}\nPaaaaalun mängi minuga\nuuesti, {01 00 00 05 00}{04 02 00}!"
   }
  ]
 }

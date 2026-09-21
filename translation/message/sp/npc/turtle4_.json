@@ -4,87 +4,87 @@
   {
    "id": 0,
    "en": "{07 14 00}{01 00 00 0a 00}You're in for a treat today,\nsprout! The {04 03 00}\n{ff 00 00 03}Fireworks Show{ff 00 00 00} is today!\n{07 00 00}Our town's fireworks are\nreally something else{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.\nThey're the best around!\n{07 03 00}{01 00 00 0a 00}Well, {01 00 00 05 00}actually, I don't know\nenough about other towns\nto say!\n{07 00 00}But anyway, {04 00 00},\ntry this on for size!",
-   "et": ""
+   "et": "{07 14 00}{01 00 00 0a 00}Täna ootab sind hea asi,\nvõsuke! {04 03 00}\n{ff 00 00 03}ilutulestik{ff 00 00 00} on täna!\n{07 00 00}Meie linna ilutulestik on\ntõesti midagi erilist{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.\nParim lähikonnas!\n{07 03 00}{01 00 00 0a 00}Noh, {01 00 00 05 00}tegelikult ma ei tea\nteistest linnadest piisavalt,\net nii öelda!\n{07 00 00}Aga igatahes, {04 00 00},\nproovi seda!"
   },
   {
    "id": 1,
    "en": "{07 0a 00}{01 00 00 0a 00}Fireworks.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00} {07 0d 00}{01 00 00 0a 00}Smelt.{01 00 00 05 00}.{01 00 00 05 00}.{01 01 00} {07 17 00}{01 00 00 0a 00}Power.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 14 00}{01 00 00 0a 00}Oh, hi. {01 00 00 0a 00}I was just making\na list of things I like.\nTonight, {04 03 00} will\nhave a {ff 00 00 03}Fireworks Show{ff 00 00 00}. {07 00 00}{01 00 00 0a 00}So\nplease take this, sprout.",
-   "et": ""
+   "et": "{07 0a 00}{01 00 00 0a 00}Ilutulestik.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00} {07 0d 00}{01 00 00 0a 00}Tint.{01 00 00 05 00}.{01 00 00 05 00}.{01 01 00} {07 17 00}{01 00 00 0a 00}Võim.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 14 00}{01 00 00 0a 00}Oh, tere. {01 00 00 0a 00}Tegin just\nnimekirja lemmikasjadest.\nTäna õhtul on {04 03 00}\n{ff 00 00 03}ilutulestik{ff 00 00 00}. {07 00 00}{01 00 00 0a 00}Nii et\npalun võta see, võsuke."
   },
   {
    "id": 2,
    "en": "{07 0a 00}{01 00 00 0a 00}Ah.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0f 00} Nothing beats eating a\nsmelt-and-jam sandwich\nunder an exploding sky.\n{07 14 00}Tonight's the last {ff 00 00 03}Fireworks\nShow{ff 00 00 00} of the summer,\nsprout!\n{07 00 00}We won't have another 'til\nnext year, so please take\nthis, {04 00 00}.",
-   "et": ""
+   "et": "{07 0a 00}{01 00 00 0a 00}Ahh.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0f 00} Miski ei ületa\ntindi-moosivõileiva söömist\nplahvatava taeva all.\n{07 14 00}Täna on suve viimane\n{ff 00 00 03}ilutulestik{ff 00 00 00},\nvõsuke!\n{07 00 00}Järgmist ei tule enne\njärgmist aastat, nii et\nvõta see, {04 00 00}."
   },
   {
    "id": 3,
    "en": "{01 00 00 0a 00}{0b 03 00}{04 1a 00}!{01 01 00}\n{07 03 00}Now scamper on, you little\nbeastie!",
-   "et": ""
+   "et": "{01 00 00 0a 00}{0b 03 00}{04 1a 00}!{01 01 00}\n{07 03 00}Ja nüüd lippa minema, sa\nväike elukas!"
   },
   {
    "id": 4,
    "en": "{07 00 00}{0b 03 00}{04 1a 00}!{01 01 00}\n{07 19 00}{01 00 00 0a 00}Now dazzle us all with its\nsparkle! {01 00 00 14 00}{07 03 00}{01 08 00}WAHOOOOOO!",
-   "et": ""
+   "et": "{07 00 00}{0b 03 00}{04 1a 00}!{01 01 00}\n{07 19 00}{01 00 00 0a 00}Ja nüüd pimesta meid kõiki\nselle säraga! {01 00 00 14 00}{07 03 00}{01 08 00}JUHHUUUUU!"
   },
   {
    "id": 5,
    "en": "{07 16 00}See here, you little\nfirecracker! {01 00 00 03 00}I want to give\nyou something, but{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 05 00}\n{07 00 00}Your pockets are full! {01 00 00 05 00}Make\nroom, so I can give you\n{04 1a 00}!",
-   "et": ""
+   "et": "{07 16 00}Kuula siia, sa väike\npauguti! {01 00 00 03 00}Tahan sulle midagi\nanda, aga{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 05 00}\n{07 00 00}Su taskud on täis! {01 00 00 05 00}Tee\nruumi, et saaksin anda\n{04 1a 00}!"
   },
   {
    "id": 6,
    "en": "{07 0b 00}{01 00 00 0a 00}Hm?{01 00 00 0f 00} Give you fireworks,{01 00 00 05 00}\nyou say? .{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{01 01 00}{07 03 00}{01 00 00 0a 00}Heh heh heh!{01 00 00 0a 00}\nHO HO HOORF HEEORF!\nAren't YOU a little\nfirecracker, {04 00 00}!",
-   "et": ""
+   "et": "{07 0b 00}{01 00 00 0a 00}Hm?{01 00 00 0f 00} Anda sulle tulestikku,{01 00 00 05 00}\nsa ütled? .{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{01 01 00}{07 03 00}{01 00 00 0a 00}Heh heh heh!{01 00 00 0a 00}\nHO HO HOORF HEEORF!\nOled sa alles väike\npauguti, {04 00 00}!"
   },
   {
    "id": 7,
    "en": "{07 00 00}I recently realized that{01 00 00 05 00} I\ncan tell the future by\nlooking at fireworks.\nIt's all based on their\ntrajectory and explosion\npattern.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n{07 14 00}{01 00 00 0a 00}Would you like me to read\nyour fortune?{02 04 00 00 08}\nPlease.\nYou're creepy.",
-   "et": ""
+   "et": "{07 00 00}Sain hiljuti aru, et{01 00 00 05 00} oskan\nennustada tulevikku\nilutulestikku vaadates.\nKõik põhineb nende\nlennuteel ja plahvatuse\nmustril{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 14 00}{01 00 00 0a 00}Kas tahad, et ma sinu\nsaatust loeksin?{02 04 00 00 08}\nPalun.\nSa oled jube."
   },
   {
    "id": 8,
    "en": "{07 09 00}{0b 03 00}{04 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} You're a big\nstinker, you know that?",
-   "et": ""
+   "et": "{07 09 00}{0b 03 00}{04 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} Sa oled suur\nhaisupomm, kas teadsid?"
   },
   {
    "id": 9,
    "en": "{07 14 00}{01 00 00 0a 00}Hmm.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} Very well then.{01 00 00 0f 00}\nTake this, young\n{04 00 00}!",
-   "et": ""
+   "et": "{07 14 00}{01 00 00 0a 00}Hmm.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} Olgu siis.{01 00 00 0f 00}\nVõta see, noor\n{04 00 00}!"
   },
   {
    "id": 10,
    "en": "{07 00 00}Well, {01 00 00 05 00}don't get too excited\nnow{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}. {07 14 00}{01 00 00 0a 00}It's a bit like a\nfortune cookie.\n{07 0e 00}Although{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.I HAVE had some\nthrilling fortunes come\nfrom cookies in my time.",
-   "et": ""
+   "et": "{07 00 00}Noh, {01 00 00 05 00}ära liiga elevil\nole{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}. {07 14 00}{01 00 00 0a 00}See on veidi nagu\nõnneküpsis.\n{07 0e 00}Kuigi{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.mul ON olnud\npõnevaid ennustusi\nküpsistest omal ajal."
   },
   {
    "id": 11,
    "en": "{07 00 00}Now, {01 00 00 03 00}hold on here!\n{07 16 00}Sorry, {04 00 00}.\n\nI don't have any\nfireworks right now!\n\n{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}{07 01 00}Brr!{01 00 00 14 00} That sure is\n{07 09 00}a cold night wind.",
-   "et": ""
+   "et": "{07 00 00}Nii, {01 00 00 03 00}oota siin!\n{07 16 00}Vabandust, {04 00 00}.\n\nMul pole praegu\nühtegi ilutulestikku!\n\n{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}{07 01 00}Brr!{01 00 00 14 00} See on küll\n{07 09 00}külm öötuul."
   },
   {
    "id": 12,
    "en": "{07 00 00}So then.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0f 00} Could you tidy up\nyour letters first?\n\nI can't give you your\nfortune until you do.",
-   "et": ""
+   "et": "{07 00 00}Nii et.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0f 00} Kas sa saaksid\nenne kirjad korda teha?\n\nMa ei saa sulle enne\nsaatust ennustada."
   },
   {
    "id": 13,
    "en": "{07 00 00}The {ff 00 00 06}mayor {ff 00 00 00}stands against\nthe exploding night sky.{01 00 00 05 00}.{01 00 00 05 00}.{07 17 00}{01 00 00 0f 00}\nWhat an intriguing scene!",
-   "et": ""
+   "et": "{07 00 00}{ff 00 00 06}Linnapea {ff 00 00 00}seisab\nplahvatava taeva taustal.{01 00 00 05 00}.{01 00 00 05 00}.{07 17 00}{01 00 00 0f 00}\nMilline põnev vaatepilt!"
   },
   {
    "id": 14,
    "en": "{07 14 00}{01 00 00 0a 00}If only you regular folk\ncould be as dazzling as\nthese fireworks.",
-   "et": ""
+   "et": "{07 14 00}{01 00 00 0a 00}Kui te, lihtrahvas, vaid\nsuudaksite olla nii\npimestavad kui see tulestik."
   },
   {
    "id": 15,
    "en": "{07 00 00}Sitting still in the summer\nair, {01 00 00 05 00}a single, solitary\n{ff 00 00 06}mayor {ff 00 00 00}contemplates life.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n{07 19 00}{01 00 00 0f 00}My, what an elegant turn of\nphrase! It's poetry!",
-   "et": ""
+   "et": "{07 00 00}Suveõhus paigal istudes\nmõtiskleb {01 00 00 05 00}üksik, üksildane\n{ff 00 00 06}linnapea {ff 00 00 00}elu üle{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 19 00}{01 00 00 0f 00}Ohoh, milline elegantne\nväljend! See on luule!"
   },
   {
    "id": 16,
    "en": "{07 00 00}Like flowers blooming in\nthe sky.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{01 00 00 14 00} {07 17 00}If only real\nflowers were so dazzling.",
-   "et": ""
+   "et": "{07 00 00}Nagu lilled, mis õitsevad\ntaevas{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 14 00} {07 17 00}Kui vaid\npärislilled nii säraksid."
   }
  ]
 }

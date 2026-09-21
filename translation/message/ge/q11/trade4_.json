@@ -4,17 +4,17 @@
   {
    "id": 0,
    "en": "{07 04 00}Oh, no! {01 00 00 05 00}Sorry!{01 01 00} {07 16 00}That one is,{01 00 00 05 00}\nlike, a family heirloom!{01 00 00 0a 00}\nI totally can't sell it!",
-   "et": ""
+   "et": "{07 04 00}Oh ei! {01 00 00 05 00}Vabandust!{01 01 00} {07 16 00}See on,{01 00 00 05 00}\nnagu, perekonna pärandus!{01 00 00 0a 00}\nMa ei saa seda müüa!"
   },
   {
    "id": 1,
    "en": "{07 14 00}Oh, right! That one is total\ncuteness, {01 00 00 05 00}{04 02 00}!\nActually...\n{07 0a 00}It's so cute, I'm gonna keep\nit in my room, {01 00 00 05 00}{04 02 00}!{01 00 00 0a 00}\nLike, sorry and stuff!",
-   "et": ""
+   "et": "{07 14 00}Oh, õige! See on täiesti\nnunnu, {01 00 00 05 00}{04 02 00}!\nTegelikult...\n{07 0a 00}See on nii nunnu, et jätan\nselle oma tuppa, {01 00 00 05 00}{04 02 00}!{01 00 00 0a 00}\nNagu, vabandust ja nii!"
   },
   {
    "id": 2,
    "en": "{07 04 00}Um{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} That's not for sale,\n{01 00 00 05 00}{04 02 00}!{01 00 00 05 00} Don't be such\na big silly!{07 00 00}",
-   "et": ""
+   "et": "{07 04 00}Emm{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} See pole müügiks,\n{01 00 00 05 00}{04 02 00}!{01 00 00 05 00} Ära ole selline\nsuur tobu!{07 00 00}"
   }
  ]
 }

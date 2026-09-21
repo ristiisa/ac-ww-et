@@ -4,17 +4,17 @@
   {
    "id": 0,
    "en": "{07 14 00}All right, {04 1f 00}.{01 00 00 0a 00} I'm\ncounting on you to take\ncare of it.",
-   "et": ""
+   "et": "{07 14 00}Hea küll, {04 1f 00}.{01 00 00 0a 00} Ma\nloodan, et sa hoolitsed\nselle eest."
   },
   {
    "id": 1,
    "en": "{07 00 00}You have your orders,\n{04 1f 00}!{01 00 00 05 00} Get going,\n{01 00 00 05 00}{04 02 00}! {01 00 00 05 00}{07 03 00}Tee hee!",
-   "et": ""
+   "et": "{07 00 00}Sul on käsk käes,\n{04 1f 00}!{01 00 00 05 00} Mine juba,\n{01 00 00 05 00}{04 02 00}! {01 00 00 05 00}{07 03 00}Hi hii!"
   },
   {
    "id": 2,
    "en": "{07 0a 00}I knew you'd take care of\neverything, {04 1f 00}!\nYou're always so nice.\n{07 14 00}I'll just leave you to it\nthen, {01 00 00 05 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 0a 00}Ma teadsin, et sa hoolitsed\nkõige eest, {04 1f 00}!\nSa oled alati nii kena.\n{07 14 00}Ma jätan su siis selle\njuurde, {01 00 00 05 00}{04 02 00}!"
   }
  ]
 }

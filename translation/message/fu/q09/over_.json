@@ -4,17 +4,17 @@
   {
    "id": 0,
    "en": "{07 06 00}Oh no! {01 00 00 0a 00}You found me!\n{07 00 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}Buuuuuut{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n\n{07 14 00}TIME'S UP! Tee hee,\n{01 00 00 05 00}{04 02 00}! That means I'm\nthe big winner!\n{07 0d 00}Whoo hooo!{01 00 00 05 00} I can't BELIEVE I\nbeat {04 1f 00}! I am SO\nhappy!! {03 01 00 01}",
-   "et": ""
+   "et": "{07 06 00}Oh ei! {01 00 00 0a 00}Sa leidsid mu!\n{07 00 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}Aaaaaga{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n\n{07 14 00}AEG SAI OTSA! Hi hii,\n{01 00 00 05 00}{04 02 00}! See tähendab, et\nmina olen suur võitja!\n{07 0d 00}Juhhuuu!{01 00 00 05 00} Ma ei USU, et ma\nvõitsin {04 1f 00}! Olen NII\nõnnelik!! {03 01 00 01}"
   },
   {
    "id": 1,
    "en": "{07 00 00}{0b 03 00}{04 1f 00}, {01 00 00 0a 00}I'm impressed\nthat you found me all the\nway out here, {01 00 00 05 00}{04 02 00}.\n{07 00 00}Unfortunately{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.your time\nran out!{01 00 00 0f 00} {07 14 00}And that means I\nwin this one!\n{07 0a 00}YES!{01 00 00 05 00} I actually defeated\nthe world-famous seeker,\n{04 1f 00}!\nI'm the greatest!{01 00 00 0a 00} I'm the\ngreatest ever, {01 00 00 05 00}{04 02 00}!{03 01 00 01}",
-   "et": ""
+   "et": "{07 00 00}{0b 03 00}{04 1f 00}, {01 00 00 0a 00}mulle avaldab\nmuljet, et sa mind siit\nüles leidsid, {01 00 00 05 00}{04 02 00}.\n{07 00 00}Kahjuks{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.sai su aeg\notsa!{01 00 00 0f 00} {07 14 00}Ja see tähendab, et\nmina võidan selle!\n{07 0a 00}JAH!{01 00 00 05 00} Ma tõesti alistasin\nmaailmakuulsa otsija,\n{04 1f 00}!\nMa olen kõige suurem!{01 00 00 0a 00} Kõige\nsuurem üldse, {01 00 00 05 00}{04 02 00}!{03 01 00 01}"
   },
   {
    "id": 2,
    "en": "{07 02 00}YAAAAAAAA!!! {01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}You found\nme! {07 00 00}...Oh! {01 00 00 0f 00}But I'm afraid\nthat time has expired!\n{07 03 00}Ha ha!{01 00 00 0f 00} I beat the amazing\n{04 1f 00} fair and\nsquare!{01 00 00 05 00} Whoooooo!\n{07 0a 00}Today is forever known as\n{04 01 00} Day!{01 00 00 0f 00} Hooray\nfor me!{03 01 00 01}",
-   "et": ""
+   "et": "{07 02 00}JAAAAAAA!!! {01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}Sa leidsid\nmu! {07 00 00}...Oh! {01 00 00 0f 00}Aga ma kardan,\net aeg on otsas!\n{07 03 00}Hah hah!{01 00 00 0f 00} Ma võitsin vägeva\n{04 1f 00} ausalt ja\nselgelt!{01 00 00 05 00} Juhhuuuuu!\n{07 0a 00}Täna on igavesti\n{04 01 00} päev!{01 00 00 0f 00} Elagu\nmina!{03 01 00 01}"
   }
  ]
 }

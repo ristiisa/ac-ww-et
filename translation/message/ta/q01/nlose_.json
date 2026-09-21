@@ -4,17 +4,17 @@
   {
    "id": 0,
    "en": "I can't believe it{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00}\n{07 16 00}How'd you catch it so fast,\n{01 00 00 05 00}{04 02 00}?!",
-   "et": ""
+   "et": "Ma ei suuda uskuda{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00}\n{07 16 00}Kuidas sa selle nii kiiresti\npüüdsid, {01 00 00 05 00}{04 02 00}?!"
   },
   {
    "id": 1,
    "en": "Whoa{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} Are you serious?!\n{07 16 00}How'd you{01 00 00 03 00} get it that\nfast?!",
-   "et": ""
+   "et": "Ohoo{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} Kas sa oled tõsine?!\n{07 16 00}Kuidas sa{01 00 00 03 00} selle nii\nkiiresti said?!"
   },
   {
    "id": 2,
    "en": "{07 06 00}AUGH!!{01 00 00 14 00} I can't {01 00 00 05 00}believe this!{01 01 00}\n{07 0f 00}I'm totally humiliated that\nyou beat me, {01 00 00 05 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 06 00}AAH!!{01 00 00 14 00} Ma ei {01 00 00 05 00}suuda uskuda!{01 01 00}\n{07 0f 00}Mul on täiesti alandav, et\nsa mind võitsid, {01 00 00 05 00}{04 02 00}!"
   }
  ]
 }

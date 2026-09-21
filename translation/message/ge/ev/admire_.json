@@ -4,82 +4,82 @@
   {
    "id": 0,
    "en": "{07 04 00}Oh, hi,{01 00 00 05 00} {04 1f 00}!{01 01 00} {07 1a 00}You\nlook like a TOTAL movie\nstar today, {01 00 00 05 00}{04 02 00}!!\n{07 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 14 00}Wasn't that fun? Today's\nthe day to compliment each\nother! {01 00 00 05 00}It's called {ff 00 00 03}Yay Day{ff 00 00 00}!\nOK, {01 00 00 05 00}now it's YOUR turn!{01 00 00 05 00}\nTime to totally compliment\nme, {01 00 00 05 00}{04 02 00}!\n{07 13 00}C'mon! Say something\namazing! Treat me like a\npretty princess!",
-   "et": ""
+   "et": "{07 04 00}Oi, tere,{01 00 00 05 00} {04 1f 00}!{01 01 00} {07 1a 00}Sa\nnäed täna välja nagu TÄIELIK\nfilmitäht, {01 00 00 05 00}{04 02 00}!!\n{07 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 14 00}Kas polnud lõbus? Täna on\npäev, mil tehakse\nteineteisele komplimente! {01 00 00 05 00}\nSee on{ff 00 00 03} kiidupäev{ff 00 00 00}!{01 00 00 05 00} Ja nüüd\non SINU kord!{01 00 00 05 00} Aeg teha\nmulle kompliment, {01 00 00 05 00}{04 02 00}!\n{07 13 00}No tule! Ütle midagi\nimelist! Kohtle mind nagu\nilusat printsessi!"
   },
   {
    "id": 1,
    "en": "Today is {ff 00 00 03}Yay Day{ff 00 00 00}! It's this\nawesome day where everyone\ncompliments everyone else!\nSo...compliment me!{01 00 00 05 00} Um...{01 00 00 0a 00}\nI can't hear you...\nHelloooo??{01 00 00 0f 00} Compliments???\n{07 15 00}Well, if you can't think of \nanything nice, then at\nLEAST make up a pretty lie!",
-   "et": ""
+   "et": "Täna on {ff 00 00 03}kiidupäev{ff 00 00 00}! See on\näge päev, mil kõik teevad\nkõigile komplimente!\nNii et...kiida mind!{01 00 00 05 00} Ee...{01 00 00 0a 00}\nMa ei kuule sind...\nHallooo??{01 00 00 0f 00} Komplimendid???\n{07 15 00}No kui sa ei oska midagi\nkena välja mõelda, siis\nVALETA vähemalt ilusasti!"
   },
   {
    "id": 2,
    "en": "{07 0e 00}{0b 03 00}{04 21 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00}\n{07 00 00}{07 17 00}Tee hee! {01 00 00 05 00}I'm kinda\nembarrassed, {01 00 00 05 00}{04 02 00}!\n{07 00 00}{07 0d 00}Well, {01 00 00 05 00}from now on, I'll think\n\"{04 21 00}\" all\nday, {01 00 00 05 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 0e 00}{0b 03 00}{04 21 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00}\n{07 00 00}{07 17 00}Hihii! {01 00 00 05 00}Mul on natuke\npiinlik, {01 00 00 05 00}{04 02 00}!\n{07 00 00}{07 0d 00}Noh, {01 00 00 05 00}nüüdsest mõtlen terve\npäeva „{04 21 00}”,\n{01 00 00 05 00}{04 02 00}!"
   },
   {
    "id": 3,
    "en": "{07 0e 00}{0b 03 00}{04 21 00}.{01 00 00 05 00}.{01 00 00 05 00}. Huh.{01 00 00 05 00}.{01 00 00 05 00}.{01 01 00}\n{07 13 00}That sounds pretty good,\n{01 00 00 05 00}{04 02 00}!\n{07 00 00}Whenever I'm down,{01 00 00 05 00} I'll just\nkeep repeating that...\n\"{0b 03 00}{04 21 00}\"!!\n{07 19 00}Then I'll feel like I can do\nanything at all!\n",
-   "et": ""
+   "et": "{07 0e 00}{0b 03 00}{04 21 00}.{01 00 00 05 00}.{01 00 00 05 00}. Huh.{01 00 00 05 00}.{01 00 00 05 00}.{01 01 00}\n{07 13 00}See kõlab päris hästi,\n{01 00 00 05 00}{04 02 00}!\n{07 00 00}Kui olen norus,{01 00 00 05 00} kordan\nlihtsalt seda...\n„{0b 03 00}{04 21 00}”!!\n{07 19 00}Siis tunnen, et suudan\nkõike!\n"
   },
   {
    "id": 4,
    "en": "{07 14 00}{0b 03 00}{04 1f 00},{01 00 00 05 00} you're too\nmuch!{01 00 00 0a 00} {0b 03 00}{04 21 00}!!{01 00 00 0a 00}\nThat's, like, SO ME!",
-   "et": ""
+   "et": "{07 14 00}{0b 03 00}{04 1f 00},{01 00 00 05 00} sa oled liiga\nhea!{01 00 00 0a 00} {0b 03 00}{04 21 00}!!{01 00 00 0a 00}\nSee on, nagu, NII MINA!"
   },
   {
    "id": 5,
    "en": "{07 14 00}{0b 03 00}{04 21 00}! That's\nexactly me, isn't it,\n{01 00 00 05 00}{04 02 00}?",
-   "et": ""
+   "et": "{07 14 00}{0b 03 00}{04 21 00}! See olen\ntäpselt mina, kas pole,\n{01 00 00 05 00}{04 02 00}?"
   },
   {
    "id": 6,
    "en": "{0b 03 00}{01 06 00}Like, hi{01 07 00}!{01 00 00 0a 00}\nWhat's up, {04 1f 00}?",
-   "et": ""
+   "et": "{0b 03 00}{01 06 00}Nagu, tere{01 07 00}!{01 00 00 0a 00}\nMis teed, {04 1f 00}?"
   },
   {
    "id": 7,
    "en": "{07 0b 00}So, {04 1f 00}, {01 00 00 05 00}be honest.\nDo you think that\n\"{04 21 00}\" is me?",
-   "et": ""
+   "et": "{07 0b 00}Kuule, {04 1f 00}, {01 00 00 05 00}ole aus.\nKas sinu arust on\n„{04 21 00}” minu moodi?"
   },
   {
    "id": 8,
    "en": "{07 0b 00}Hey, {01 00 00 05 00}{04 1f 00}!{01 00 00 0a 00} What do\nyou think about\n{04 21 00}?\nDoes that seem to fit me,\n{01 00 00 05 00}{04 02 00}?",
-   "et": ""
+   "et": "{07 0b 00}Hei, {01 00 00 05 00}{04 1f 00}!{01 00 00 0a 00} Mida sa\narvad sellest:\n{04 21 00}?\nKas see tundub mulle\nsobivat, {01 00 00 05 00}{04 02 00}?"
   },
   {
    "id": 9,
    "en": "{07 14 00}{0b 03 00}{04 1f 00}!{01 00 00 0a 00} I think that\n\"{04 21 00}\" fits\nme pretty well!\n{07 0d 00}I mean,{01 00 00 05 00} it's TOTALLY what \nI'm like,{01 00 00 05 00} don't you think,\n{01 00 00 05 00}{04 02 00}?",
-   "et": ""
+   "et": "{07 14 00}{0b 03 00}{04 1f 00}!{01 00 00 0a 00} Ma arvan, et\n„{04 21 00}” sobib\nmulle päris hästi!\n{07 0d 00}No et,{01 00 00 05 00} see on TÄIESTI see,\nmilline ma olen,{01 00 00 05 00} kas pole,\n{01 00 00 05 00}{04 02 00}?"
   },
   {
    "id": 10,
    "en": "{07 14 00}Oh!{01 00 00 0a 00} Sweet!{01 00 00 0a 00} That's good,\n{01 00 00 05 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 14 00}Oi!{01 00 00 0a 00} Magus!{01 00 00 0a 00} See on hea,\n{01 00 00 05 00}{04 02 00}!"
   },
   {
    "id": 11,
    "en": "{07 14 00}GREAT!{01 00 00 0a 00} I'm sooo glad to hear\nthat, {01 00 00 05 00}{04 02 00}!\n\n{07 00 00}Now I'll go through my day\nwith \"{04 21 00}\"\nas my, like, motto!",
-   "et": ""
+   "et": "{07 14 00}SUPER!{01 00 00 0a 00} Nii hea seda kuulda,\n{01 00 00 05 00}{04 02 00}!\n\n{07 00 00}Nüüd lähen läbi oma päeva\nmotoga „{04 21 00}”,\nnagu!"
   },
   {
    "id": 12,
    "en": "{07 04 00}WHAT?!{01 00 00 14 00} {07 06 00}{0b 03 00}{04 1f 00},\nyou big meanie!\n\n{07 16 00}Why don't you stop being\nsuch a jerk and just try\ncomplimenting me again!",
-   "et": ""
+   "et": "{07 04 00}MIS?!{01 00 00 14 00} {07 06 00}{0b 03 00}{04 1f 00},\nsa suur tigedik!\n\n{07 16 00}Miks sa ei lõpeta tolaks\nolemist ja ei proovi mulle\nuuesti komplimenti teha!"
   },
   {
    "id": 13,
    "en": "{07 04 00}Whaaaaaaaaaaat?!{01 00 00 14 00} {07 16 00}Hey{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}that\nhurts! You hurt my\nfeelings!\n{07 15 00}FINE!{01 00 00 0a 00} Then why don't YOU\ntake over and give me some\ncompliments of your own!",
-   "et": ""
+   "et": "{07 04 00}Miiiiiiiis?!{01 00 00 14 00} {07 16 00}Hei{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}see\nteeb haiget! Sa riivasid\nmu tundeid!\n{07 15 00}OLGU!{01 00 00 0a 00} Siis miks SINA ei\nvõta üle ja ei tee mulle\noma komplimente!"
   },
   {
    "id": 14,
    "en": "{07 0e 00}{0b 03 00}{04 21 00}, huh{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}?\n{07 14 00}That's pretty good!{01 00 00 0a 00}\nOh yeah, that's GREAT!\n{07 0d 00}It makes me feel like\na whole new person,\n{01 00 00 05 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 0e 00}{0b 03 00}{04 21 00}, mis{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}?\n{07 14 00}See on päris hea!{01 00 00 0a 00}\nOh jaa, see on SUPER!\n{07 0d 00}See paneb mind tundma end\npäris uue inimesena,\n{01 00 00 05 00}{04 02 00}!"
   },
   {
    "id": 15,
    "en": "{07 0e 00}{0b 03 00}{04 21 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} Say...{01 00 00 0a 00}\n{07 14 00}Yeah!{01 00 00 0a 00} That sounds just like\nme! Tee hee!{01 00 00 05 00} YAY!{01 00 00 05 00} YAAAAY!\nThanks, {01 00 00 05 00}{04 1f 00}!\n{01 00 00 05 00}{0b 03 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 0e 00}{0b 03 00}{04 21 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} Kuule...{01 00 00 0a 00}\n{07 14 00}Jaa!{01 00 00 0a 00} See kõlab just nagu\nmina! Hihii!{01 00 00 05 00} JEE!{01 00 00 05 00} JEEEE!\nAitäh, {01 00 00 05 00}{04 1f 00}!\n{01 00 00 05 00}{0b 03 00}{04 02 00}!"
   }
  ]
 }

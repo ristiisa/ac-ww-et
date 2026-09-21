@@ -4,102 +4,102 @@
   {
    "id": 0,
    "en": "{07 14 00}{0b 03 00}{04 1f 00}, do you care\nmuch for flowers?\n\n{07 00 00}If so, you should remember\nto water them with your\n{ff 00 00 07}watering can{ff 00 00 00}, {01 00 00 05 00}{04 02 00}!\n{07 14 00}That way, they won't die in\nwinter.{01 00 00 0f 00} Flowers are more\ndurable than people think!",
-   "et": ""
+   "et": "{07 14 00}{0b 03 00}{04 1f 00}, kas sa hoolid\nväga lilledest?\n\n{07 00 00}Kui jah, siis pea meeles\nneid kasta oma\n{ff 00 00 07}kastekannuga{ff 00 00 00}, {01 00 00 05 00}{04 02 00}!\n{07 14 00}Nii ei sure nad\ntalvel.{01 00 00 0f 00} Lilled on tugevamad,\nkui inimesed arvavad!"
   },
   {
    "id": 1,
    "en": "{0b 03 00}{04 1f 00},{01 00 00 0a 00} guess what\nhappens if you plant a wide\nvariety of flowers in town?\n{07 0a 00}Sometimes, {01 00 00 05 00}you just might\nfind new types of flowers\npopping up!",
-   "et": ""
+   "et": "{0b 03 00}{04 1f 00},{01 00 00 0a 00} arva ära, mis\njuhtub, kui sa istutad linna\npalju erinevaid lilli?\n{07 0a 00}Vahel {01 00 00 05 00}võid sa leida\nuusi lilleliike, mis\nvälja ilmuvad!"
   },
   {
    "id": 2,
    "en": "{07 14 00}Every flower has a special\nsignificance.{01 00 00 14 00} {07 0b 00}Want me to\ntell you what they mean?{02 00 00 03 04}\nYeah!\nSome other time.",
-   "et": ""
+   "et": "{07 14 00}Igal lillel on eriline\ntähendus.{01 00 00 14 00} {07 0b 00}Kas tahad teada,\nmida need tähendavad?{02 00 00 03 04}\nJah!\nMõni teine kord."
   },
   {
    "id": 3,
    "en": "{06 01 00 05 06 07}",
-   "et": ""
+   "et": "{06 01 00 05 06 07}"
   },
   {
    "id": 4,
    "en": "That's fine.{01 00 00 0a 00} It can wait\nuntil you're not so busy.",
-   "et": ""
+   "et": "Hea küll.{01 00 00 0a 00} See võib oodata,\nkuni sul pole nii kiire."
   },
   {
    "id": 5,
    "en": "{06 01 00 08 09 0a}",
-   "et": ""
+   "et": "{06 01 00 08 09 0a}"
   },
   {
    "id": 6,
    "en": "{06 01 00 0b 0c 0d}",
-   "et": ""
+   "et": "{06 01 00 0b 0c 0d}"
   },
   {
    "id": 7,
    "en": "{06 01 00 0e 0f 10}",
-   "et": ""
+   "et": "{06 01 00 0e 0f 10}"
   },
   {
    "id": 8,
    "en": "Let me give you an\nexample. {01 00 00 05 00}{07 0b 00} Have you heard\nof an anemone?\n{07 14 00}It's a windflower that\nbelongs to the buttercup\nfamily, {01 00 00 05 00}{04 02 00}.\n{07 00 00}Anemones symbolize undying\nlove and fading hope.\n\nNow that I think about it,{01 00 00 05 00}\n{07 16 00}that's a pretty confusing\nmessage to send someone.",
-   "et": ""
+   "et": "Las ma toon sulle\nnäite. {01 00 00 05 00}{07 0b 00} Kas oled kuulnud\nülasest?\n{07 14 00}See on tuulelill, mis\nkuulub tulikaliste\nsugukonda, {01 00 00 05 00}{04 02 00}.\n{07 00 00}Ülane tähistab surematut\narmastust ja lootust.\n\nNüüd, kui ma mõtlen,{01 00 00 05 00}\n{07 16 00}on see üsna segane\nsõnum kellelegi saata."
   },
   {
    "id": 9,
    "en": "You know aloe is good for\nyou, right? That's why it's\nin yogurt and skin cream.\nWell, {04 1f 00}, {07 0b 00}have you\never seen the flowers of\nthe aloe, {01 00 00 05 00}{04 02 00}?\n{07 14 00}They bloom in fall and\nwinter, and their flowers\nlook a little like lilies.\n{07 00 00}Aloe flowers symbolize\ngrief and sorrow.{01 00 00 0f 00} So when\nyou put aloe on your skin...\n{07 16 00}it's kinda like you're\nmoisturizing yourself with\nits tears.",
-   "et": ""
+   "et": "Tead, et aloe on sulle\nkasulik, eks? Sellepärast on\nsee jogurtis ja kreemis.\nNii, {04 1f 00}, {07 0b 00}kas sa oled\nkunagi näinud aloe\nõisi, {01 00 00 05 00}{04 02 00}?\n{07 14 00}Need õitsevad sügisel ja\ntalvel ja nende õied\nmeenutavad natuke liiliaid.\n{07 00 00}Aloe õied tähistavad\nleina ja kurbust.{01 00 00 0f 00} Nii et kui\nsa määrid aloed nahale...\n{07 16 00}siis on see nagu\nniisutaksid end tema\npisaratega."
   },
   {
    "id": 10,
    "en": "We don't get them much in\nthese parts, but {07 0b 00}have you\never seen apple blossoms?\n{07 00 00}They begin as fiery red\nbuds, {01 00 00 05 00}{07 14 00}and then they open\ninto pinkish white petals.\n{07 00 00}Apple blossoms symbolize\n{07 17 00}temptation.\n\n{07 00 00}I was tempted once. I saw\nan apple on the ground, and\nI picked it up and ate it.\n{07 02 00}And that's when I saw half\na worm inside! That's right!\nHALF!\n{07 09 00}I learned a valuable lesson\nabout temptation that day,\n{01 00 00 05 00}{04 02 00}.",
-   "et": ""
+   "et": "Meil neid siin kandis\npalju pole, aga {07 0b 00}kas sa\noled näinud õunaõisi?\n{07 00 00}Need algavad tulipunaste\npungadena {01 00 00 05 00}{07 14 00}ja avanevad siis\nroosakasvalgeks.\n{07 00 00}Õunaõied tähistavad\n{07 17 00}kiusatust.\n\n{07 00 00}Mind kiusati kord. Ma nägin\nmaas õuna ja ma\nvõtsin selle ja sõin ära.\n{07 02 00}Ja siis ma nägin sees\npoolt ussi! Just nii!\nPOOLT!\n{07 09 00}Ma õppisin sel päeval\nkiusatuse kohta väärtusliku\nõppetunni, {01 00 00 05 00}{04 02 00}."
   },
   {
    "id": 11,
    "en": "Have you ever seen cherry\nblossoms?{01 00 00 0a 00} {07 0b 00}Do you want to\nknow what they symbolize?\n{07 00 00}I'm not entirely sure,\nmyself, but I think they\nsymbolize deliciousness.\n{07 13 00}But maybe that's just\nbecause I love the taste of\nfresh-picked cherries!",
-   "et": ""
+   "et": "Kas sa oled näinud\nkirsiõisi?{01 00 00 0a 00} {07 0b 00}Kas tahad teada,\nmida need tähendavad?\n{07 00 00}Ma pole isegi ise päris\nkindel, aga ma arvan, et\nnad tähistavad maitsvust.\n{07 13 00}Aga ehk on see lihtsalt\nsellepärast, et ma armastan\nvärskete kirsside maitset!"
   },
   {
    "id": 12,
    "en": "I'm sure you know how\nyummy peaches are, but{01 00 00 0a 00}{07 0b 00}\nhave you seen them flower?\n{07 14 00}They have small, peach-\ncolored flowers that bloom\nin spring. Go figure, huh?\nBecause their pits are\ntrapped in the center of\nthe fruit, they symbolize\n{07 13 00}that you are a captive\nof love!{01 00 00 0f 00}\n\n{07 17 00}They also symbolize\nlongevity, but what's\nromantic about that?{01 00 00 05 00} Bleh.",
-   "et": ""
+   "et": "Sa tead kindlasti, kui\nmaitsvad virsikud on, aga{01 00 00 0a 00}{07 0b 00}\nkas oled näinud nende õisi?\n{07 14 00}Neil on väikesed,\nvirsikuvärvi õied, mis\nõitsevad kevadel. Ennäe!\nKuna nende kivid on\nlõksus vilja keskel,\ntähistavad need seda,\n{07 13 00}et sa oled armastuse\nvang!{01 00 00 0f 00}\n\n{07 17 00}Need tähistavad ka\npikka iga, aga mis on\nselles romantilist?{01 00 00 05 00} Pläh."
   },
   {
    "id": 13,
    "en": "{0b 03 00}{04 1f 00},{01 00 00 0a 00} {07 0b 00}are you\nfamiliar with the petunia?\n\n{07 00 00}Petunias are pretty, but,\nBOY, do they send a mixed\nmessage, {01 00 00 05 00}{04 02 00}!\nGet this:{01 00 00 05 00} {07 14 00}a petunia can\nmean either that your\npresence soothes me.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n{07 15 00}or that I totally resent\nyou and want nothing to\ndo with you!\n{07 00 00}So if you give someone\npetunias,{01 00 00 05 00}{07 19 00} make sure you're\nclear about what you mean.",
-   "et": ""
+   "et": "{0b 03 00}{04 1f 00},{01 00 00 0a 00} {07 0b 00}kas sa tunned\npetuuniat?\n\n{07 00 00}Petuuniad on ilusad, aga\nOI, kui segase sõnumi\nnad saadavad, {01 00 00 05 00}{04 02 00}!\nKuula:{01 00 00 05 00} {07 14 00}petuunia võib\ntähendada, et su kohalolek\nrahustab mind.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n{07 15 00}või et ma põlgan sind\ntäiesti ja ei taha sinuga\nmidagi tegemist teha!\n{07 00 00}Nii et kui kingid kellelegi\npetuuniaid,{01 00 00 05 00}{07 19 00} tee kindlaks, et\nsu mõte oleks selge."
   },
   {
    "id": 14,
    "en": "{0b 03 00}{04 1f 00},{01 00 00 05 00} {07 14 00}I'm sure you've\nseen all the different\nkinds of tulip, {01 00 00 05 00}{04 02 00}.\n{07 00 00}Their meaning changes\ndepending on the color.{01 00 00 0a 00}\n{07 0b 00}Which color do you like?{02 01 00 11 12 13}\nRed!\nWhite!\nGreen!",
-   "et": ""
+   "et": "{0b 03 00}{04 1f 00},{01 00 00 05 00} {07 14 00}sa oled kindlasti\nnäinud kõiki erinevaid\ntulbisorte, {01 00 00 05 00}{04 02 00}.\n{07 00 00}Nende tähendus muutub\nolenevalt värvist.{01 00 00 0a 00}\n{07 0b 00}Milline värv sulle meeldib?{02 01 00 11 12 13}\nPunane!\nValge!\nRoheline!"
   },
   {
    "id": 15,
    "en": "{0b 03 00}{04 1f 00},{01 00 00 0f 00} {07 0b 00}have you ever\nseen an iris?\n\n{07 14 00}You know, they've got soft\npetals and sharp, pointy\nleaves, {01 00 00 05 00}{04 02 00}.\n{07 00 00}According to myth, {01 00 00 0f 00}Iris\nwas a messenger of the\ngods, {01 00 00 05 00}{04 02 00}.\nBut in the language of\nflowers, the iris is {07 13 00}the\nmessenger of love!",
-   "et": ""
+   "et": "{0b 03 00}{04 1f 00},{01 00 00 0f 00} {07 0b 00}kas sa oled\nkunagi näinud iirist?\n\n{07 14 00}Tead, neil on pehmed\nkroonlehed ja teravad,\nteravad lehed, {01 00 00 05 00}{04 02 00}.\n{07 00 00}Müüdi järgi oli {01 00 00 0f 00}Iris\njumalate\nsõnumitooja, {01 00 00 05 00}{04 02 00}.\nAga lillekeeles on\niiris {07 13 00}armastuse\nsõnumitooja!"
   },
   {
    "id": 16,
    "en": "{07 0b 00}What do you think of\nheliotropes, {01 00 00 05 00}{04 02 00}?{01 00 00 0f 00}\n\n{07 14 00}They're special favorites of\nmine. They're so small and\ncute, and those flowers!\n{07 0d 00}Oh, don't get me started!\nAnd their fragrance is just\nso amazing, {01 00 00 05 00}{04 02 00}!\n{07 14 00}And you'll never guess what\nthe heliotrope means{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 01 00}\n{07 04 00}It means eternal love!\n{07 14 00}And it's true:{01 00 00 05 00} I'm going to\nlove heliotropes forever\nand ever, {01 00 00 05 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 0b 00}Mida sa arvad\nheliotroopidest, {01 00 00 05 00}{04 02 00}?{01 00 00 0f 00}\n\n{07 14 00}Need on minu erilised\nlemmikud. Nad on nii väiksed\nja nunnud, ja need õied!\n{07 0d 00}Oh, ära pane mind alustama!\nJa nende lõhn on lihtsalt\nnii hämmastav, {01 00 00 05 00}{04 02 00}!\n{07 14 00}Ja sa ei arva kunagi ära,\nmida heliotroop tähendab{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 01 00}\n{07 04 00}See tähendab igavest armu!\n{07 14 00}Ja see on tõsi:{01 00 00 05 00} armastan\nheliotroope igavesti\nja alati, {01 00 00 05 00}{04 02 00}!"
   },
   {
    "id": 17,
    "en": "{07 00 00}Oh, who wouldn't love red\ntulips? Their message is{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 13 00}a confession of true love!\n{07 00 00}A long time ago, people got\nobsessed about tulips. The\nprices skyrocketed!\n{07 06 00}Could you imagine if that\nhappened today?\n\n{07 16 00}If tulips got that expensive\nagain, how would we afford\nto confess our true love!?",
-   "et": ""
+   "et": "{07 00 00}Kes ei armastaks punaseid\ntulpe? Nende sõnum on{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 13 00}armastuse ülestunnistus!\n{07 00 00}Ammu aega tagasi läksid\ninimesed tulpidest hulluks.\nHinnad tõusid lakke!\n{07 06 00}Kujutad ette, kui see\njuhtuks täna?\n\n{07 16 00}Kui tulbid nii kalliks\nläheksid, kuidas me oma\narmastust tunnistaksime!?"
   },
   {
    "id": 18,
    "en": "{07 00 00}Really? You like white? They\nsend the message of{07 09 00} a\nbroken heart.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n{07 14 00}I'll bet you never thought\nsuch a pretty flower would\nhave such a sad meaning.",
-   "et": ""
+   "et": "{07 00 00}Tõesti? Meeldib valge?\nNende sõnum on{07 09 00} murtud\nsüda.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 14 00}Vean kihla, et ei arvanud,\net nii ilusal lillel oleks\nnii kurb tähendus."
   },
   {
    "id": 19,
    "en": "{07 00 00}You like green? {01 00 00 05 00}Do tulips\neven come in green?{01 01 00}\nI'm kidding! They mean, uh.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n{07 04 00}\"You have beautiful eyes!\"{01 00 00 0a 00}\n{07 14 00}Maybe that's because green\nis so easy on the eyes.",
-   "et": ""
+   "et": "{07 00 00}Sulle meeldib roheline? {01 00 00 05 00}Kas\ntulbid on üldse rohelised?{01 01 00}\nMa naljatan! Need on, ee.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 04 00}„Sul on ilusad silmad!”{01 00 00 0a 00}\n{07 14 00}Ehk sellepärast, et roheline\non silmadele nii mõnus."
   }
  ]
 }

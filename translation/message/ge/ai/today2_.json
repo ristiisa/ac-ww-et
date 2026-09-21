@@ -4,82 +4,82 @@
   {
    "id": 0,
    "en": "{07 14 00}{0b 03 00}{01 06 00}Oh, it's totally you{01 07 00}!\n{01 00 00 05 00}{0b 03 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 14 00}{0b 03 00}{01 06 00}Oi, see oled täiesti sina{01 07 00}!\n{01 00 00 05 00}{0b 03 00}{04 02 00}!"
   },
   {
    "id": 1,
    "en": "{07 14 00}{0b 03 00}{01 06 00}Heya there{01 07 00}!{01 00 00 05 00}\n{0b 03 00}{04 1f 00}! {01 00 00 05 00}{0b 03 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 14 00}{0b 03 00}{01 06 00}Tsau seal{01 07 00}!{01 00 00 05 00}\n{0b 03 00}{04 1f 00}! {01 00 00 05 00}{0b 03 00}{04 02 00}!"
   },
   {
    "id": 2,
    "en": "{07 14 00}{0b 03 00}{01 06 00}Like, g'morning{01 07 00}!{01 00 00 0a 00}\nI just love mornings! Always\nso full of...{01 00 00 05 00}morning...{01 00 00 0a 00}stuff?",
-   "et": ""
+   "et": "{07 14 00}{0b 03 00}{01 06 00}Nagu, tere hommikust{01 07 00}!{01 00 00 0a 00} Mulle\nmeeldivad hommikud! Alati\nnii täis...{01 00 00 05 00}hommiku...{01 00 00 0a 00}kraami?"
   },
   {
    "id": 3,
    "en": "Oh, yeah, {01 00 00 05 00}{04 02 00}! Neat!\nI feel like dancing to some\n{04 17 00} today!",
-   "et": ""
+   "et": "Oh jaa, {01 00 00 05 00}{04 02 00}! Vahva!\nMul on täna tuju tantsida\n{04 17 00} saatel!"
   },
   {
    "id": 4,
    "en": "{07 14 00}{0b 03 00}{01 06 00}Totally wow! It's, like, you{01 07 00}!\n{01 00 00 05 00}{0b 03 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 14 00}{0b 03 00}{01 06 00}Täiesti vau! See oled, nagu,\nsina{01 07 00} ! {01 00 00 05 00}{0b 03 00}{04 02 00}!"
   },
   {
    "id": 5,
    "en": "{07 14 00}{0b 03 00}{01 06 00}Hey, looky here{01 07 00}!{01 00 00 05 00}\nIt's {04 1f 00}!{01 00 00 05 00} Tee hee!\nWhat's up, {01 00 00 05 00}{04 02 00}?",
-   "et": ""
+   "et": "{07 14 00}{0b 03 00}{01 06 00}Hei, vaata siia{01 07 00}!{01 00 00 05 00}\nSee on {04 1f 00}!{01 00 00 05 00} Hihii!\nMis teed, {01 00 00 05 00}{04 02 00}?"
   },
   {
    "id": 6,
    "en": "{07 14 00}Yeah, I still feel great!\nThanks for asking!{01 00 00 05 00} ...Oh,\nyou didn't?{01 00 00 0a 00} Well, why not?!",
-   "et": ""
+   "et": "{07 14 00}Jaa, tunnen end ikka super!\nAitäh küsimast!{01 00 00 05 00} ...Oi,\nsa ei küsinud?{01 00 00 0a 00} Miks mitte?!"
   },
   {
    "id": 7,
    "en": "Well, I suppose I could go\n{04 22 00}... But I\ndid that yesterday. Hmmm...\n{07 0c 00}Oh, maybe {04 0b 00} and I\nshould give {04 16 00}\na go... That'd be SWEET!",
-   "et": ""
+   "et": "Noh, ma vist võiksin minna\n{04 22 00}... Aga ma\ntegin seda eile. Hmmm...\n{07 0c 00}Oi, ehk peaksime {04 0b 00}ga\nproovima {04 16 00}\nära... See oleks MAGUS!"
   },
   {
    "id": 8,
    "en": "Hey, look! It's {04 08 00} o'clock,{01 00 00 0a 00}\n{04 1f 00}! {01 00 00 05 00}My favorite\ntime!{01 00 00 05 00} Yaaaaaaay, NUMBERS!",
-   "et": ""
+   "et": "Hei, vaata! Kell on {04 08 00}\n,{01 00 00 0a 00} {04 1f 00}! {01 00 00 05 00}Minu lemmikaeg!{01 00 00 05 00}\nJeeeeee, NUMBRID!"
   },
   {
    "id": 9,
    "en": "{07 14 00}{0b 03 00}{01 06 00}Hey, sweet! It's you{01 07 00}!{01 00 00 06 00}\n{0b 03 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 14 00}{0b 03 00}{01 06 00}Hei, magus! See oled sina{01 07 00}!{01 00 00 06 00}\n{0b 03 00}{04 02 00}!"
   },
   {
    "id": 10,
    "en": "So you wanna chat with me\nsome more, {01 00 00 05 00}right? Yeah, I\nlike chatting with me, too!",
-   "et": ""
+   "et": "Nii et sa tahad minuga veel\nveidi vestelda, {01 00 00 05 00}eks? Jah, ka\nmulle meeldib minuga!"
   },
   {
    "id": 11,
    "en": "Just between you and me, \nI like {04 17 00} a lot,\ntoo, {04 02 00}! Way fun!",
-   "et": ""
+   "et": "Omavahel öeldes,\nmulle meeldib ka {04 17 00}\nväga, {04 02 00}! Nii lõbus!"
   },
   {
    "id": 12,
    "en": "So you can't sleep either?\nI hear that, {01 00 00 05 00}{04 02 00}!{01 00 00 05 00}\nGimme more coffee!{01 00 00 05 00} NOW!",
-   "et": ""
+   "et": "Nii et sinagi ei saa magada?\nTunnen kaasa, {01 00 00 05 00}{04 02 00}!{01 00 00 05 00}\nAndke mulle kohvi!{01 00 00 05 00} KOHE!"
   },
   {
    "id": 13,
    "en": "{07 16 00}Wow. It's {04 08 00} o'clock, huh,\n{01 00 00 05 00}{04 02 00}? It's so late!\n{01 00 00 0a 00}Scary things happen late!",
-   "et": ""
+   "et": "{07 16 00}Vau. Kell on {04 08 00}, mis,\n{01 00 00 05 00}{04 02 00}? Nii hilja!\n{01 00 00 0a 00}Hilja juhtub hirmsaid asju!"
   },
   {
    "id": 14,
    "en": "{07 14 00}{0b 03 00}{01 06 00}Wow{01 07 00}!{01 00 00 0a 00}\n{0b 03 00}{04 1f 00}! It's so totally\ndark out here, {04 02 00}!",
-   "et": ""
+   "et": "{07 14 00}{0b 03 00}{01 06 00}Vau{01 07 00}!{01 00 00 0a 00}\n{0b 03 00}{04 1f 00}! Siin on nii\npime, {04 02 00}!"
   },
   {
    "id": 15,
    "en": "{07 14 00}I told {04 0d 00} that I\nwas gonna enter some big\n{04 16 00} tourney{01 00 00 05 00}...\n{07 11 00}But I'm NOT! I'm gonna, like,\nkick back and watch TV and\neat pudding or something!",
-   "et": ""
+   "et": "{07 14 00}Ütlesin {04 0d 00}le, et\nlähen mingile suurele\n{04 16 00} võistlusele{01 00 00 05 00}...\n{07 11 00}Aga ma EI lähe! Ma, nagu,\nlesin ja vaatan telekat ja\nsöön pudingut või midagi!"
   }
  ]
 }

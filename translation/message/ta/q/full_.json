@@ -4,17 +4,17 @@
   {
    "id": 0,
    "en": "{07 04 00}Just look at your grubby\npaws! {01 00 00 05 00}They're full of stuff!{01 01 00}\n{07 1b 00}{01 00 00 05 00}Oh, well.{01 00 00 0a 00} TOO BAD!",
-   "et": ""
+   "et": "{07 04 00}Vaata ainult oma räpaseid\nkäppi! {01 00 00 05 00}Need on kraami täis!{01 01 00}\n{07 1b 00}{01 00 00 05 00}No mis seal.{01 00 00 0a 00} KAHJU!"
   },
   {
    "id": 1,
    "en": "{07 04 00}Well, {01 00 00 05 00}you can't carry any\nmore stuff. {01 00 00 0a 00}{07 1b 00}{01 00 00 05 00}Maybe next\ntime then, {01 00 00 0a 00}{04 02 00}.",
-   "et": ""
+   "et": "{07 04 00}Noh, {01 00 00 05 00}sa ei jaksa rohkem\nkraami kanda. {01 00 00 0a 00}{07 1b 00}{01 00 00 05 00}Ehk järgmine\nkord siis, {01 00 00 0a 00}{04 02 00}."
   },
   {
    "id": 2,
    "en": "{07 04 00}Huh? {01 00 00 0a 00}But it looks like you\ncan't carry anything more,\ncan you?\n{01 00 00 0a 00}{07 1b 00}{01 00 00 05 00}Maybe next time,\n{01 00 00 0a 00}{04 02 00}.",
-   "et": ""
+   "et": "{07 04 00}Mis? {01 00 00 0a 00}Aga tundub, et sa ei\nsuuda enam midagi kanda,\nkas pole?\n{01 00 00 0a 00}{07 1b 00}{01 00 00 05 00}Ehk järgmine kord,\n{01 00 00 0a 00}{04 02 00}."
   }
  ]
 }

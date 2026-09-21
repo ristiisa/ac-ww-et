@@ -4,17 +4,17 @@
   {
    "id": 0,
    "en": "{01 08 00}Aaack!{01 00 00 0a 00} No!\n\n\nI'm stuck! My behind!\n{01 00 00 14 00}{0b 03 00}{04 02 00}!",
-   "et": ""
+   "et": "{01 08 00}Aaah!{01 00 00 0a 00} Ei!\n\n\nMa olen kinni! Mu tagumik!\n{01 00 00 14 00}{0b 03 00}{04 02 00}!"
   },
   {
    "id": 1,
    "en": "{01 08 00}{0b 03 00}{01 00 00 14 00}Don't just\nstand there laughing!{01 00 00 05 00}\nHELP ME!\n{07 16 00}Can't you see?! {01 00 00 05 00}My shirt is\ngetting wrinkled!",
-   "et": ""
+   "et": "{01 08 00}{0b 03 00}{01 00 00 14 00}Ära seisa seal\nnaerdes!{01 00 00 05 00}\nAITA MIND!\n{07 16 00}Kas sa ei näe?! {01 00 00 05 00}Mu särk\nläheb kortsu!"
   },
   {
    "id": 2,
    "en": "{01 08 00}Eeeeek!\n\n\nGo away,{01 00 00 05 00} you rubbernecking\njerk!{01 00 00 14 00} This isn't a show,\n{01 00 00 05 00}{04 02 00}!",
-   "et": ""
+   "et": "{01 08 00}Aiiih!\n\n\nMine ära,{01 00 00 05 00} sa jõllitav\ntolvan!{01 00 00 14 00} See pole etendus,\n{01 00 00 05 00}{04 02 00}!"
   }
  ]
 }

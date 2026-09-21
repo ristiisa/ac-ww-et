@@ -4,132 +4,132 @@
   {
    "id": 0,
    "en": "{09 01 00}{09 08 00}{07 00 00}So, {ff 00 00 06}{04 10 00}{ff 00 00 00},{01 00 00 0f 00} what's your\nfavorite drink,\n{01 00 00 05 00}{04 02 00}?{09 09 00}",
-   "et": ""
+   "et": "{09 01 00}{09 08 00}{07 00 00}Nii, {ff 00 00 06}{04 10 00}{ff 00 00 00},{01 00 00 0f 00} mis on su\nlemmikjook,\n{01 00 00 05 00}{04 02 00}?{09 09 00}"
   },
   {
    "id": 1,
    "en": "{09 01 00}{09 07 00}{07 00 00}{ff 00 00 06}{04 10 00}{ff 00 00 00}, you always look\nso happy and cheerful, but\nI have to ask.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\nDo you ever feel a little\n{07 0b 00}lonely, {01 00 00 05 00}{04 02 00}?{09 09 00}",
-   "et": ""
+   "et": "{09 01 00}{09 07 00}{07 00 00}{ff 00 00 06}{04 10 00}{ff 00 00 00}, sa näed alati\nnii rõõmus ja õnnelik välja,\naga ma pean küsima.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\nKas sa tunned end kunagi\n{07 0b 00}üksildasena, {01 00 00 05 00}{04 02 00}?{09 09 00}"
   },
   {
    "id": 2,
    "en": "{09 01 00}{09 07 00}{07 00 00}I don't want to sound rude,{01 00 00 05 00}\nbut do you ever feel like\nyou're a little TOO normal?\nNot that that's bad!\nYou know how weird everyone\naround here can get{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{09 09 00}",
-   "et": ""
+   "et": "{09 01 00}{09 07 00}{07 00 00}Ma ei taha ebaviisakas olla,{01 00 00 05 00}\naga kas sa tunned kunagi,\net oled LIIGA tavaline?\nMitte et see halb oleks!\nSa tead ju, kui veidraks\nkõik siin võivad minna{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{09 09 00}"
   },
   {
    "id": 3,
    "en": "{09 00 00}{09 08 00}{09 02 00}{09 06 00}{07 0e 00}Ooo.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} That's a toughie.{01 00 00 05 00}\n{07 00 00}But right now, I'd have to\ngo with {04 11 00}.{09 09 00}",
-   "et": ""
+   "et": "{09 00 00}{09 08 00}{09 02 00}{09 06 00}{07 0e 00}Ooo.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} See on raske.{01 00 00 05 00}\n{07 00 00}Aga praegu ütleksin ma\nvist {04 11 00}.{09 09 00}"
   },
   {
    "id": 4,
    "en": "{09 00 00}{09 06 00}{09 01 00}{07 04 00}Wow!{01 00 00 05 00} We have SO much\nin common, {01 00 00 05 00}{04 02 00}!\n\n{07 14 00}That's my favorite drink,\ntoo! I absolutely LOVE\n{04 11 00}!\n{07 00 00}OK, so now I have to ask,\n{ff 00 00 06}{04 10 00}{ff 00 00 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} {07 0b 00}Do you like\nit better hot {01 00 00 05 00}or cold?{07 00 00}{09 09 00}",
-   "et": ""
+   "et": "{09 00 00}{09 06 00}{09 01 00}{07 04 00}Vau!{01 00 00 05 00} Meil on NII palju\nühist, {01 00 00 05 00}{04 02 00}!\n\n{07 14 00}See on ka minu lemmikjook!\nMa lihtsalt ARMASTAN\n{04 11 00}!\n{07 00 00}Olgu, nüüd pean ma küsima,\n{ff 00 00 06}{04 10 00}{ff 00 00 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} {07 0b 00}Kas see meeldib\nsulle kuumalt {01 00 00 05 00}või külmalt?{07 00 00}{09 09 00}"
   },
   {
    "id": 5,
    "en": "{09 00 00}{09 08 00}{09 02 00}{07 14 00}I like my {04 11 00}\nserved just the plain old\nnormal way. {01 00 00 05 00}Nothing fancy.{09 09 00}",
-   "et": ""
+   "et": "{09 00 00}{09 08 00}{09 02 00}{07 14 00}Mulle meeldib {04 11 00}\nserveerituna vanamoodsalt\ntavaliselt. {01 00 00 05 00}Ei midagi peent.{09 09 00}"
   },
   {
    "id": 6,
    "en": "{09 00 00}{09 06 00}{09 01 00}{07 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.{07 04 00}{01 02 00}Are you serious?{01 03 00}{09 09 00}",
-   "et": ""
+   "et": "{09 00 00}{09 06 00}{09 01 00}{07 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.{07 04 00}{01 02 00}Kas sa tõsiselt?{01 03 00}{09 09 00}"
   },
   {
    "id": 7,
    "en": "{09 00 00}{09 08 00}{09 02 00}{07 16 00}Did I say something wrong?\nWhy are you looking at me\nlike that, {01 00 00 05 00}{04 02 00}?{09 09 00}",
-   "et": ""
+   "et": "{09 00 00}{09 08 00}{09 02 00}{07 16 00}Ütlesin ma midagi valesti?\nMiks sa mind niimoodi\nvaatad, {01 00 00 05 00}{04 02 00}?{09 09 00}"
   },
   {
    "id": 8,
    "en": "{09 00 00}{09 06 00}{09 01 00}{07 16 00}No! Nothing's wrong at all!{01 00 00 05 00}\nAnd that's the problem!\n\n{07 00 00}See, I like normal, unfancy\n{04 11 00}, too! {01 00 00 05 00}It's\nlike we're exactly the same!\nIf we like all the same\nthings {07 0e 00}and we think all the\nsame things{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 0f 00}How can we be sure we\naren't the same person?{01 01 00}\n{07 00 00}I guess it doesn't matter.{03 01 00 01}{09 09 00}",
-   "et": ""
+   "et": "{09 00 00}{09 06 00}{09 01 00}{07 16 00}Ei! Midagi pole valesti!{01 00 00 05 00}\nJa see ongi probleem!\n\n{07 00 00}Vaata, mulle meeldib ka\ntavaline {04 11 00}! {01 00 00 05 00}Me\noleme nagu täpselt samad!\nKui meile meeldib kõik\nsama {07 0e 00}ja me mõtleme kõike\nsama{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 0f 00}kuidas võime kindlad olla,\net me pole sama inimene?{01 01 00}\n{07 00 00}Vist pole sel vahet.{03 01 00 01}{09 09 00}"
   },
   {
    "id": 9,
    "en": "{09 00 00}{09 08 00}{09 02 00}{07 04 00}Yeah! What's wrong with\nthinking the same thoughts,\nanyway, {ff 00 00 06}{04 0f 00}{ff 00 00 00}?\nThat just means we'll always\nknow we're not alone,\n{01 00 00 05 00}{04 02 00}!{03 01 00 01}",
-   "et": ""
+   "et": "{09 00 00}{09 08 00}{09 02 00}{07 04 00}Jah! Mis on halba samade\nmõtete mõtlemises,\n{ff 00 00 06}{04 0f 00}{ff 00 00 00}?\nSee tähendab lihtsalt, et\nme teame alati, et me pole\nüksi, {01 00 00 05 00}{04 02 00}!{03 01 00 01}"
   },
   {
    "id": 10,
    "en": "{09 00 00}{09 08 00}{09 02 00}{09 06 00}{07 04 00}What? How... How did you\nknow, {ff 00 00 06}{04 0f 00}{ff 00 00 00}? {01 00 00 0f 00}{07 06 00}Was it\nsomething I said?{07 16 00}{09 09 00}",
-   "et": ""
+   "et": "{09 00 00}{09 08 00}{09 02 00}{09 06 00}{07 04 00}Mida? Kuidas... Kuidas sa\nteadsid, {ff 00 00 06}{04 0f 00}{ff 00 00 00}?{01 00 00 0f 00}{07 06 00} Kas ma\nütlesin midagi?{07 16 00}{09 09 00}"
   },
   {
    "id": 11,
    "en": "{09 00 00}{09 06 00}{09 01 00}{09 08 00}{07 00 00}No, nothing like that. It's\njust... I feel like you and\nI have a lot in common.\nYou know what I do when I\nfeel really lonely,\n{01 00 00 05 00}{04 02 00}?\nLike on a rainy Sunday\nafternoon {07 0b 00}when I can't even\nchange out of my pj's?\n{07 00 00}That's when I talk to my\nbest friend in the whole\nworld.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 0d 00}Moppina!{09 09 00}",
-   "et": ""
+   "et": "{09 00 00}{09 06 00}{09 01 00}{09 08 00}{07 00 00}Ei, midagi sellist. Lihtsalt\nmulle tundub, et meil on\npalju ühist.\nTead, mida ma teen, kui ma\nend väga üksildasena\ntunnen, {01 00 00 05 00}{04 02 00}?\nNäiteks vihmasel pühapäeva-\npärastlõunal, {07 0b 00}kui ma isegi\npidžaamat ei vaheta?\n{07 00 00}Siis räägin ma oma parima\nsõbraga terves\nmaailmas.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 0d 00}Moppinaga!{09 09 00}"
   },
   {
    "id": 12,
    "en": "{09 00 00}{09 08 00}{09 02 00}{07 02 00}You talk to your mop?{01 01 00}\n{07 06 00}That's insane! That's so\nweird, {ff 00 00 06}{04 0f 00}{ff 00 00 00}!\nNot to mention just a\nlittle bit scary!{07 16 00}{09 09 00}",
-   "et": ""
+   "et": "{09 00 00}{09 08 00}{09 02 00}{07 02 00}Sa räägid oma mopiga?{01 01 00}\n{07 06 00}See on hull! See on nii\nveider, {ff 00 00 06}{04 0f 00}{ff 00 00 00}!\nRääkimata sellest, et\npisut hirmutav!{07 16 00}{09 09 00}"
   },
   {
    "id": 13,
    "en": "{09 00 00}{09 06 00}{09 01 00}{07 00 00}What do you mean, scary?\nWhat's so weird about\nhaving a special friend?{09 09 00}",
-   "et": ""
+   "et": "{09 00 00}{09 06 00}{09 01 00}{07 00 00}Mida sa mõtled, hirmutav?\nMis on veider selles, et on\nüks eriline sõber?{09 09 00}"
   },
   {
    "id": 14,
    "en": "{09 00 00}{09 08 00}{09 02 00}{07 16 00}No, not that, {ff 00 00 06}{04 0f 00}{ff 00 00 00}!\nThe scary part is that I do\nexactly the same thing!\n{07 06 00}Doesn't it seem like a bit\ntoo much of a coincidence\nto you, {01 00 00 05 00}{04 02 00}?",
-   "et": ""
+   "et": "{09 00 00}{09 08 00}{09 02 00}{07 16 00}Ei, mitte see, {ff 00 00 06}{04 0f 00}{ff 00 00 00}!\nHirmus on see, et ma teen\ntäpselt sama asja!\n{07 06 00}Kas see ei tundu sinu\nmeelest pisut liiga suur\njuhus, {01 00 00 05 00}{04 02 00}?"
   },
   {
    "id": 15,
    "en": "{09 00 00}{09 08 00}{09 02 00}{09 06 00}{07 00 00}No, I totally know what you\nmean. The other day? This\nguy comes up to me{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 16 00}And he starts telling me\nall about his \"secret ninja\ntraining,\" {01 00 00 05 00}{04 02 00}!\n{07 15 00}Like he's ever even SEEN a\nreal ninja! I mean, come ON!\n\n{07 00 00}Is it wrong to want to be,\nlike, totally sane?{07 0b 00} What do\nyou think, {04 1f 00}?{09 01 00}{09 03 00}{09 02 00}{01 00 00 05 00}{09 09 00}{02 00 00 10 16}\nNormal's fine.\nGimme ninjas!",
-   "et": ""
+   "et": "{09 00 00}{09 08 00}{09 02 00}{09 06 00}{07 00 00}Ei, ma saan täiesti aru,\nmida sa mõtled. Hiljuti tuli\nüks tüüp minu juurde{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 16 00}Ja ta hakkas mulle rääkima\noma „salajasest ninda-\ntreeningust”, {01 00 00 05 00}{04 02 00}!\n{07 15 00}Nagu ta oleks üldse päris\nnindat NÄINUD! Ole nüüd!\n\n{07 00 00}Kas on vale tahta olla\ntäiesti normaalne?{07 0b 00} Mida sa\narvad, {04 1f 00}?{09 01 00}{09 03 00}{09 02 00}{01 00 00 05 00}{09 09 00}{02 00 00 10 16}\nTavaline sobib.\nAnna nindad!"
   },
   {
    "id": 16,
    "en": "{09 00 00}{09 06 00}{09 01 00}{09 04 00}Oh{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}. {01 00 00 05 00}{07 0f 00}I should\nhave guessed, {01 00 00 05 00}{04 02 00}.{01 00 00 05 00}.{01 00 00 05 00}.{07 16 00}{09 09 00}",
-   "et": ""
+   "et": "{09 00 00}{09 06 00}{09 01 00}{09 04 00}Oh{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}. {01 00 00 05 00}{07 0f 00}Oleksin pidanud\narvama, {01 00 00 05 00}{04 02 00}.{01 00 00 05 00}.{01 00 00 05 00}.{07 16 00}{09 09 00}"
   },
   {
    "id": 17,
    "en": "{09 00 00}{09 08 00}{09 02 00}{09 05 00}{07 16 00}That's what everyone says!\nNormal's always \"fine\" or\n\"good enough\"! {01 00 00 05 00}Sheesh!\nI'm tired of being fine!\nI want to be fabulous,\njust for once!{09 09 00}",
-   "et": ""
+   "et": "{09 00 00}{09 08 00}{09 02 00}{09 05 00}{07 16 00}Nii ütlevad kõik!\nTavaline on alati „hea” või\n„piisavalt hea”! {01 00 00 05 00}Pühh!\nOlen tüdinud „heast”.\nMa tahan olla vapustav,\nkas või korra!{09 09 00}"
   },
   {
    "id": 18,
    "en": "{09 00 00}{09 06 00}{09 01 00}{07 16 00}Yeah, I know!{01 00 00 05 00} I wanna run\noff and join the circus! {01 00 00 0a 00}{07 0c 00}\nI could learn how to juggle!\n{07 14 00}I'd juggle all the time!{01 01 00}\n{07 15 00}Then I'D be the special one!{01 01 00}\n{07 1c 00}Ah{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}. That sounds nice.{09 09 00}",
-   "et": ""
+   "et": "{09 00 00}{09 06 00}{09 01 00}{07 16 00}Jah, ma tean!{01 00 00 05 00} Ma tahan\ntsirkusega liituda! {01 00 00 0a 00}{07 0c 00}\nÕpiksin žongleerima!\n{07 14 00}Ma žongleeriksin kogu aeg!{01 01 00}\n{07 15 00}Siis oleksin MINA eriline!{01 01 00}\n{07 1c 00}Ah{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}. See kõlab kenasti.{09 09 00}"
   },
   {
    "id": 19,
    "en": "{09 00 00}{09 08 00}{09 02 00}{07 04 00}Oh! That does sound fun! {07 0d 00}\nOr I could spend a year\ntraveling abroad!\n{07 00 00}And then.{01 00 00 05 00}.{01 00 00 05 00}.have a whirlwind\naffair that {07 1c 00}ends inevitably\nin heartbreak and ruin.{01 00 00 05 00}.{01 00 00 05 00}.{09 09 00}",
-   "et": ""
+   "et": "{09 00 00}{09 08 00}{09 02 00}{07 04 00}Oh! See kõlab lõbusalt! {07 0d 00}\nVõi ma võiksin veeta aasta\nvälismaal reisides!\n{07 00 00}Ja siis.{01 00 00 05 00}.{01 00 00 05 00}.oleks mul tormiline\nromaan, mis {07 1c 00}lõpeb kindlasti\nsüdamevalu ja hävinguga.{01 00 00 05 00}.{01 00 00 05 00}.{09 09 00}"
   },
   {
    "id": 20,
    "en": "{09 00 00}{09 06 00}{09 01 00}{07 0c 00}Oh! {01 00 00 05 00}I hadn't thought of\nthat{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} {07 14 00}I guess being normal\ndoes have an up side{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{09 09 00}",
-   "et": ""
+   "et": "{09 00 00}{09 06 00}{09 01 00}{07 0c 00}Oh! {01 00 00 05 00}Ma polnud sellele\nmõelnud{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} {07 14 00}Tavaline olemine\non vist ikka hea{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{09 09 00}"
   },
   {
    "id": 21,
    "en": "{09 00 00}{09 08 00}{09 02 00}{07 14 00}That's true. We might\ncomplain about being too\nnormal, {01 00 00 05 00}{04 02 00}.{01 00 00 05 00}.{01 00 00 05 00}.\nBut at least we don't have\nto worry about, like, our\nworlds imploding on us.\nI think we should just make\nthe best of our normal,\nninja-free lives.{03 01 00 01}{09 01 00}{03 01 00 01}",
-   "et": ""
+   "et": "{09 00 00}{09 08 00}{09 02 00}{07 14 00}See on tõsi. Me võime\nnuriseda liiga tavalisuse\nüle, {01 00 00 05 00}{04 02 00}.{01 00 00 05 00}.{01 00 00 05 00}.\nAga vähemalt ei pea me\nmuretsema selle pärast, et\nmeie maailm kokku kukub.\nMa arvan, et me peaksime\nlihtsalt nautima oma\ntavalist, nindavaba elu.{03 01 00 01}{09 01 00}{03 01 00 01}"
   },
   {
    "id": 22,
    "en": "{09 00 00}{09 06 00}{09 01 00}{09 04 00}I don't even know why we\nbother asking you.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} You're\nso predictably.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 09 00}weird.\n{07 0f 00}Maybe I should just give in\nto the madness, like all the\nothers around here!\n{07 16 00}Maybe I should just run off\nand become a roadie for\n{ff 00 00 02}Iron Walrus{ff 00 00 00} or {ff 00 00 02}Hyppo{ff 00 00 00}!{09 09 00}",
-   "et": ""
+   "et": "{09 00 00}{09 06 00}{09 01 00}{09 04 00}Ma ei tea isegi, miks me\nsinult küsime.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} Sa oled\nnii etteaimatavalt.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 09 00}veider.\n{07 0f 00}Ehk peaksin ma lihtsalt\nhullusele alla andma, nagu\nkõik teised siin!\n{07 16 00}Ehk peaksin ma minema ja\nhakkama abiliseks bändile\n{ff 00 00 02}Iron Walrus{ff 00 00 00} või {ff 00 00 02}Hyppo{ff 00 00 00}!{09 09 00}"
   },
   {
    "id": 23,
    "en": "{09 00 00}{09 08 00}{09 02 00}{07 15 00}I see how it is with you,\n{04 1f 00}! You people are\nall the same, {01 00 00 05 00}{04 02 00}!\n{09 05 00}Don't let it get to you!\nWe're plenty interesting\njust how we are!{09 09 00}",
-   "et": ""
+   "et": "{09 00 00}{09 08 00}{09 02 00}{07 15 00}Ma näen, kuidas sinuga on,\n{04 1f 00}! Teie olete kõik\nühesugused, {01 00 00 05 00}{04 02 00}!\n{09 05 00}Ära lase sel end häirida!\nMe oleme küllalt huvitavad\nnii, nagu oleme!{09 09 00}"
   },
   {
    "id": 24,
    "en": "{09 00 00}{09 06 00}{09 01 00}{07 00 00}Sniff... You think so? Well,\nwhat's so interesting {07 0b 00}about\nus, {ff 00 00 06}{04 10 00}{ff 00 00 00}?{09 09 00}",
-   "et": ""
+   "et": "{09 00 00}{09 06 00}{09 01 00}{07 00 00}Nuuks... Sa arvad nii? Noh,\nmis on meie juures {07 0b 00}nii\nhuvitav, {ff 00 00 06}{04 10 00}{ff 00 00 00}?{09 09 00}"
   },
   {
    "id": 25,
    "en": "{09 00 00}{09 08 00}{09 02 00}{09 06 00}{07 04 00}Oh, I{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 00 00} I don't know about\nyou, but, um{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.I did sign up\nfor that ninja night school.\nIt sounded pretty exciting.\n.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}{07 16 00}There might still be room\nfor you, {01 00 00 05 00}{04 02 00}!",
-   "et": ""
+   "et": "{09 00 00}{09 08 00}{09 02 00}{09 06 00}{07 04 00}Oh, ma{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 00 00} Sinu kohta ma\nei tea, aga, ee{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.ma küll\nkirjutasin end nindakooli.\nSee kõlas päris põnevalt.\n.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}{07 16 00}Seal võib sulle veel\nruumi olla, {01 00 00 05 00}{04 02 00}!"
   }
  ]
 }

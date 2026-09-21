@@ -4,17 +4,17 @@
   {
    "id": 0,
    "en": "{07 02 00}Wha{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} You found me!{07 16 00} You're,\nlike, a hide-and-seek\nmaster, {01 00 00 05 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 02 00}Mi{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} Sa leidsid mu!{07 16 00} Sa oled,\nnagu, peituse\nmeister, {01 00 00 05 00}{04 02 00}!"
   },
   {
    "id": 1,
    "en": "{07 02 00}Oh no!{01 00 00 0a 00} NOOOOOOOOOOOOO!!\nI can't BELIEVE you found me\nalready!!\n{07 0f 00}I'm not a good hider, am I,\n{01 00 00 05 00}{04 02 00}??",
-   "et": ""
+   "et": "{07 02 00}Oh ei!{01 00 00 0a 00} EIIIIIIIIII!!\nMa ei USU, et sa mu\njuba leidsid!!\n{07 0f 00}Ma pole hea peitja, ega,\n{01 00 00 05 00}{04 02 00}??"
   },
   {
    "id": 2,
    "en": "{07 02 00}Oh crumblebuns!{01 00 00 05 00} You win,\n{01 00 00 05 00}{04 02 00}!\n\n{07 15 00}I can't believe you found me\nso quick{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}{07 06 00} Oooo! You're too\ndarn good!",
-   "et": ""
+   "et": "{07 02 00}Oh kuratsaiad!{01 00 00 05 00} Sina võidad,\n{01 00 00 05 00}{04 02 00}!\n\n{07 15 00}Ma ei usu, et sa mu nii\nkiiresti leidsid{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}{07 06 00} Oooo! Sa\noled liiga hea!"
   }
  ]
 }

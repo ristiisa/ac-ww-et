@@ -4,77 +4,77 @@
   {
    "id": 0,
    "en": "{07 04 00}Whoa!{01 00 00 0f 00} Hold up!{01 00 00 14 00} Whatcha\ngot over there?\n{0b 03 00}{04 1a 00}?\n{07 15 00}Man, that burns my wick!\n{0b 03 00}{04 1a 00}!\n\n{07 00 00}All right, lookit.\nI'll pay ya {07 0b 00}{04 10 00} Bells\nfor it. Whaddaya say?{02 00 00 03 04}\nSure.\nTake a hike!",
-   "et": ""
+   "et": "{07 04 00}Ohoo!{01 00 00 0f 00} Oot!{01 00 00 14 00} Mis sul\nseal on?\n{0b 03 00}{04 1a 00}?\n{07 15 00}Poiss, see ajab mu põlema!\n{0b 03 00}{04 1a 00}!\n\n{07 00 00}Hea küll, vaata.\nMaksan {07 0b 00}{04 10 00} kella\nselle eest. Mis kostad?{02 00 00 03 04}\nMuidugi.\nKao minema!"
   },
   {
    "id": 1,
    "en": "{07 04 00}Wauggggh! {01 00 00 0f 00}Hey!{01 00 00 05 00}\nLook what you have!\n{0b 03 00}{04 1a 00}!\n{07 00 00}I{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0f 00}{07 06 00} I really {01 00 00 05 00}NEED that...\n\n\nSay, {04 1f 00},{01 00 00 14 00} whaddaya\nthink about, uh{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n\n...selling your\n{0b 02 00}{04 1a 00}{01 00 00 0f 00}\nto me for {07 0b 00}{04 10 00} Bells?{02 00 00 03 04}\nOK.\nIn your dreams!",
-   "et": ""
+   "et": "{07 04 00}Vauggggh! {01 00 00 0f 00}Hei!{01 00 00 05 00}\nVaata, mis sul on!\n{0b 03 00}{04 1a 00}!\n{07 00 00}Ma{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0f 00}{07 06 00} Ma tõesti {01 00 00 05 00}VAJAN seda...\n\n\nKuule, {04 1f 00},{01 00 00 14 00} mida sa\narvad, ee{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n\n...müüa mulle oma\n{0b 02 00}{04 1a 00}{01 00 00 0f 00}\n{07 0b 00}{04 10 00} kella eest?{02 00 00 03 04}\nOlgu.\nSinu unistustes!"
   },
   {
    "id": 2,
    "en": "{07 04 00}{0b 03 00}{01 06 00}Hey{01 07 00}!{01 00 00 0f 00}\n{07 16 00}{0b 03 00}{04 1f 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0f 00} Go figure.\n\n{07 15 00}You went and got yourself\n{04 1a 00}\nwithout telling me{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 00 00}{07 06 00}Well, you sell me yours for\n{04 10 00} Bells, and I won't\nhold it against you!{01 00 00 0f 00}\nYa got that?{02 00 00 03 04}\nUh, all right.\nYou're joking!",
-   "et": ""
+   "et": "{07 04 00}{0b 03 00}{01 06 00}Hei{01 07 00}!{01 00 00 0f 00}\n{07 16 00}{0b 03 00}{04 1f 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0f 00} No muidugi.\n\n{07 15 00}Sa hankisid endale\n{04 1a 00}\nmulle ütlemata{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 00 00}{07 06 00}Noh, müü mulle oma\n{04 10 00} kella eest, ja ma\nei pane seda sulle pahaks!{01 00 00 0f 00}\nSaid aru?{02 00 00 03 04}\nEe, hea küll.\nSa teed nalja!"
   },
   {
    "id": 3,
    "en": "{06 01 00 0c 0d 0e}",
-   "et": ""
+   "et": "{06 01 00 0c 0d 0e}"
   },
   {
    "id": 4,
    "en": "{06 01 00 06 07 08}",
-   "et": ""
+   "et": "{06 01 00 06 07 08}"
   },
   {
    "id": 5,
    "en": "{06 01 00 09 0a 0b}",
-   "et": ""
+   "et": "{06 01 00 09 0a 0b}"
   },
   {
    "id": 6,
    "en": "{07 16 00}Oh, I get it.{01 00 00 0f 00} You like to\n{04 22 00}, huh?{01 00 00 05 00}\n\nWell, I guess late is better\nthan never{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n\n{07 15 00}Fine, I'm through with\nyou!{01 00 00 14 00} Later, {01 00 00 05 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 16 00}Oh, selge.{01 00 00 0f 00} Sulle meeldib\n{04 22 00}, mis?{01 00 00 05 00}\n\nNoh, hilja on vist parem\nkui mitte kunagi{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n\n{07 15 00}Hästi, mul on sinust\nkõrini!{01 00 00 14 00} Näeme, {01 00 00 05 00}{04 02 00}!"
   },
   {
    "id": 7,
    "en": "{07 15 00}So{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0f 00} {07 00 00}You want me to get\n{04 1a 00}\nfrom a friend or somethin'?\n{07 1b 00}Well it must be NICE, havin'\nfriends and stuff{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{01 00 00 05 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 15 00}Nii{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0f 00} {07 00 00}Sa tahad, et ma\nsaaksin {04 1a 00}\nsõbralt või midagi?\n{07 1b 00}Noh, KENA vist on, kui on\nsõpru ja kraami{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{01 00 00 05 00}{04 02 00}!"
   },
   {
    "id": 8,
    "en": "{07 03 00}Har har har, {01 00 00 0f 00}right{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 01 00}\n{07 15 00}Well, you just made #1 on\nmy angry list, with a star!",
-   "et": ""
+   "et": "{07 03 00}Har har har, {01 00 00 0f 00}jajah{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 01 00}\n{07 15 00}Noh, sa said just mu\nvihanimekirjas #1 koha!"
   },
   {
    "id": 9,
    "en": "{07 14 00}Thanks a lot there, pal!\n{0b 03 00}{01 00 00 05 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 14 00}Suur tänu, semu!\n{0b 03 00}{01 00 00 05 00}{04 02 00}!"
   },
   {
    "id": 10,
    "en": "{07 06 00}All right!\n{0b 03 00}{04 1a 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0f 00}\n{07 14 00}Later, sucker!\n{07 03 00}Har har har, {01 00 00 05 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 06 00}Hea küll!\n{0b 03 00}{04 1a 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0f 00}\n{07 14 00}Näeme, lollpea!\n{07 03 00}Har har har, {01 00 00 05 00}{04 02 00}!"
   },
   {
    "id": 11,
    "en": "{07 15 00}Well, {04 1f 00},{01 00 00 0f 00} you seem\nto have more sense than I\ngive ya credit for!",
-   "et": ""
+   "et": "{07 15 00}Noh, {04 1f 00},{01 00 00 0f 00} sul paistab\nolevat rohkem mõistust,\nkui ma arvasin!"
   },
   {
    "id": 12,
    "en": "{07 0a 00}Wahoo!{01 00 00 14 00} Who's gonna\n{04 22 00}? I am!\n\n{07 14 00}Well, OK, {01 00 00 0f 00}here's your\n{04 10 00} Bells. Enjoy!\n{07 03 00}Har har har, {01 00 00 05 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 0a 00}Vahhuu!{01 00 00 14 00} Kes hakkab\n{04 22 00}? Mina!\n\n{07 14 00}Noh, olgu, {01 00 00 0f 00}siin on su\n{04 10 00} kella. Naudi!\n{07 03 00}Har har har, {01 00 00 05 00}{04 02 00}!"
   },
   {
    "id": 13,
    "en": "{07 0d 00}YEAH!{01 00 00 14 00} Yahoo, {01 00 00 05 00}{04 02 00}!\n\n\n{07 14 00}Now, {01 00 00 0f 00}here are your\nprecious{01 00 00 05 00} {04 10 00} Bells!",
-   "et": ""
+   "et": "{07 0d 00}JAA!{01 00 00 14 00} Jahuu, {01 00 00 05 00}{04 02 00}!\n\n\n{07 14 00}Nüüd, {01 00 00 0f 00}siin on su\nkallid{01 00 00 05 00} {04 10 00} kella!"
   },
   {
    "id": 14,
    "en": "{07 04 00}Whoa ho ho, there! Really,\n{01 00 00 05 00}{04 02 00}?\n\n{07 14 00}Here ya go, take my\n{04 10 00} Bells!",
-   "et": ""
+   "et": "{07 04 00}Ohoo hoo hoo! Tõesti,\n{01 00 00 05 00}{04 02 00}?\n\n{07 14 00}Palun, võta mu\n{04 10 00} kella!"
   }
  ]
 }

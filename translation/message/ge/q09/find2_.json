@@ -4,17 +4,17 @@
   {
    "id": 0,
    "en": "{07 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 04 00}Oh, {01 00 00 05 00}{04 1f 00}! I was\ngonna give you a super\nprize for winning...\n{07 16 00}but your pockets are all\ntotally full and stuff,\n{01 00 00 05 00}{04 02 00}!\n{07 00 00}Aw, nuts!{01 00 00 0a 00} Well, come back\nand talk to me when you've\ndone some cleaning!",
-   "et": ""
+   "et": "{07 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 04 00}Oh, {01 00 00 05 00}{04 1f 00}! Ma tahtsin\nsulle võidu eest anda\nsuperauhinna...\n{07 16 00}aga su taskud on täiesti\ntäis ja nii,\n{01 00 00 05 00}{04 02 00}!\n{07 00 00}Ohh, pagan!{01 00 00 0a 00} Noh, tule tagasi\nja räägi minuga, kui oled\nveidi koristanud!"
   },
   {
    "id": 1,
    "en": "{07 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 04 00}Huh?!{01 01 00} {07 16 00}Oh, like, that's a\nTOTAL bummer!{01 00 00 05 00} You can't\ncarry any more!\n{07 14 00}Unless you empty out some \nof those pockets,{01 00 00 05 00} I can't \ngive you the PRIZE!",
-   "et": ""
+   "et": "{07 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 04 00}Ah?!{01 01 00} {07 16 00}Oh, nagu, see on\nTÄIELIK kahju!{01 00 00 05 00} Sa ei saa\nrohkem kanda!\n{07 14 00}Kui sa neid taskuid \nei tühjenda,{01 00 00 05 00} ei saa ma \nsulle AUHINDA anda!"
   },
   {
    "id": 2,
    "en": "{07 04 00}Ooops! {01 00 00 0a 00}{0b 03 00}{04 1f 00}, you big\nsilly! {07 0b 00}Your pockets are full,\naren't they?!\n{07 0e 00}Aw, too bad! I was about to\ngive you a really cool\nprize!{01 00 00 0a 00} REALLY cool...\nLook, {01 00 00 05 00}come talk to me again\nwhen you're done organizing\nyour stuff, {01 00 00 05 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 04 00}Uups! {01 00 00 0a 00}{0b 03 00}{04 1f 00}, sa suur\ntobu! {07 0b 00}Su taskud on täis,\nkas pole?!\n{07 0e 00}Ohh, kahju! Ma tahtsin sulle\nanda tõesti lahedat\nauhinda!{01 00 00 0a 00} TÕESTI lahedat...\nKuule, {01 00 00 05 00}tule uuesti rääkima,\nkui oled oma kraami\nkorda seadnud, {01 00 00 05 00}{04 02 00}!"
   }
  ]
 }

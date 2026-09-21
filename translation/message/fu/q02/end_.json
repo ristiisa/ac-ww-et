@@ -4,12 +4,12 @@
   {
    "id": 0,
    "en": "{07 00 00}Thanks, {04 1f 00}! That\nwas actually a lot of fun.\n\nI didn't think you'd put up\nsuch a challenge. And I\nhad no idea you'd beat me!\n{07 14 00}I guess maybe it's time to\nhang up my fishing rod\nfor a bit, {01 00 00 05 00}{04 02 00}.\n{07 1a 00}After all, you are truly\nthe finest fisher in all of\n{04 03 00}, {04 1f 00}!\n{07 14 00}Thanks for letting me\nwatch you in action!",
-   "et": ""
+   "et": "{07 00 00}Aitäh, {04 1f 00}! See oli\ntegelikult väga lõbus.\n\nMa ei arvanud, et sa oled\nnii tugev vastane. Ja ma ei\naimanud, et sa mind võidad!\n{07 14 00}Vist on aeg mu õng\nmõneks ajaks varna\nriputada, {01 00 00 05 00}{04 02 00}.\n{07 1a 00}Lõppude lõpuks oled sina\ntõesti parim kalamees kogu\n{04 03 00}, {04 1f 00}!\n{07 14 00}Aitäh, et lasid mul sind\ntegutsemas vaadata!"
   },
   {
    "id": 1,
    "en": "{07 15 00}You've beaten me for now,\n{04 1f 00}, but just you\nwait, {01 00 00 05 00}{04 02 00}!\nI guess I've got no regrets\nfor.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 0f 00}losing our fishing\nmatch.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 14 00}Honestly, I did have a good\ntime, {04 1f 00}, {01 00 00 05 00}and I\nlearned a lot from you.\n{07 1a 00}Hands down, you're the best\nfisher in {04 03 00}!",
-   "et": ""
+   "et": "{07 15 00}Sa võitsid mind praeguseks,\n{04 1f 00}, aga oota\nsa, {01 00 00 05 00}{04 02 00}!\nMa vist ei kahetse\n.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 0f 00}meie kalamatši\nkaotust.{01 00 00 05 00}.{01 00 00 05 00}\n{07 14 00}Ausalt, mul oli tõesti tore,\n{04 1f 00}, {01 00 00 05 00}ja ma\nõppisin sinult palju.\n{07 1a 00}Selge see, et sa oled parim\nkalamees {04 03 00}!"
   }
  ]
 }

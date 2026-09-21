@@ -4,17 +4,17 @@
   {
    "id": 0,
    "en": "It IS a speed match, {01 00 00 03 00}{07 15 00}but\n{0b 01 00}{04 1a 00}\nis pretty speedy, too!",
-   "et": ""
+   "et": "See ON kiirusmatš, {01 00 00 03 00}{07 15 00}aga\n{0b 01 00}{04 1a 00}\non ka päris kiire!"
   },
   {
    "id": 1,
    "en": "{07 01 00}Ugh!{01 00 00 14 00} {07 15 00}Listen up, you stupid\n{0b 02 00}{04 1a 00}{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}\nDon't go without me!",
-   "et": ""
+   "et": "{07 01 00}Öök!{01 00 00 14 00} {07 15 00}Kuula, sa rumal\n{0b 02 00}{04 1a 00}{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}\nÄra mine ilma minuta!"
   },
   {
    "id": 2,
    "en": "{07 16 00}The {0b 02 00}{04 1a 00}\nis{01 00 00 0a 00} a really common fish{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n\n{07 1c 00}{01 00 00 0a 00}But once you decide to fish\nfor it, somehow, it suddenly\ndisappears, {01 00 00 0a 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 16 00}{0b 02 00}{04 1a 00}\non{01 00 00 0a 00} väga tavaline kala{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n\n{07 1c 00}{01 00 00 0a 00}Aga kui sa otsustad teda\npüüda, kaob ta kuidagi äkki\nära, {01 00 00 0a 00}{04 02 00}!"
   }
  ]
 }

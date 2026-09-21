@@ -4,17 +4,17 @@
   {
    "id": 0,
    "en": "{07 0a 00}Cool, {01 00 00 0a 00}{04 1f 00} This will\nbe a blast!{01 00 00 0a 00} {07 00 00}OK, let's go\nover the ground rules.\nI'm going to hide somewhere\nin the town,{01 00 00 05 00} and you have\n{ff 00 00 02}five minutes{ff 00 00 00} to find me!\n{07 14 00}If you find me within the\ntime frame, {04 02 00},\nyou WIN!{01 00 00 05 00} Pretty easy, huh?\n{07 00 00}OK!{01 00 00 05 00} I'm going to go hide\nnow{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.",
-   "et": ""
+   "et": "{07 0a 00}Lahe, {01 00 00 0a 00}{04 1f 00} See tuleb\nvinge!{01 00 00 0a 00} {07 00 00}Olgu, vaatame\nreeglid üle.\nMa lähen peidan end kuhugi\nlinna,{01 00 00 05 00} ja sul on\n{ff 00 00 02}viis minutit{ff 00 00 00} mind leida!\n{07 14 00}Kui sa leiad mind selle aja\njooksul, {04 02 00},\nsiis sa VÕIDAD!{01 00 00 05 00} Lihtne, mis?\n{07 00 00}Olgu!{01 00 00 05 00} Ma lähen nüüd\npeitu{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}."
   },
   {
    "id": 1,
    "en": "{07 0d 00}Oh, YES!{01 00 00 0a 00} You're the best,\n{04 1f 00}! {07 00 00}OK, let's go\nover the rules real quick.\nI'm going to go hide...{01 00 00 0a 00}and\nyou have to find me in\n{ff 00 00 02}ten minutes{ff 00 00 00} or less!\n{07 14 00}If you do, you win!!{01 01 00}\nPretty easy, huh,{01 00 00 05 00}\n{04 02 00}?{01 00 00 0a 00} {07 00 00}OK, here I go!",
-   "et": ""
+   "et": "{07 0d 00}Oh, JAH!{01 00 00 0a 00} Sa oled parim,\n{04 1f 00}! {07 00 00}Olgu, vaatame\nkiiresti reeglid üle.\nMa lähen peitu...{01 00 00 0a 00}ja\nsa pead mind leidma\n{ff 00 00 02}kümne minutiga{ff 00 00 00} või vähem!\n{07 14 00}Kui leiad, siis võidad!!{01 01 00}\nÜsna lihtne, mis,{01 00 00 05 00}\n{04 02 00}?{01 00 00 0a 00} {07 00 00}Olgu, ma lähen!"
   },
   {
    "id": 2,
    "en": "{07 14 00}We're on!{01 00 00 05 00}Let me explain the\nrules now, {01 00 00 05 00}{04 02 00}!{01 00 00 0a 00}\nYou ready?\n{07 00 00}OK, I'm going to hide,\nand you have to find me in\n{ff 00 00 02}fifteen minutes{ff 00 00 00} or less.\n{07 19 00}If you find me within that\ntime, then {04 1f 00} is\na big winner! \n{07 14 00}But if you don't find me,\nI win, {01 00 00 05 00}{04 02 00}!{01 01 00}\n{07 00 00}OK, I'm off{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}{07 14 00} Tee hee!",
-   "et": ""
+   "et": "{07 14 00}Mängime!{01 00 00 05 00}Las ma seletan nüüd\nreeglid, {01 00 00 05 00}{04 02 00}!{01 00 00 0a 00}\nOled valmis?\n{07 00 00}Olgu, ma lähen peitu\nja sa pead mind leidma\n{ff 00 00 02}15 minutiga{ff 00 00 00} või vähem.\n{07 19 00}Kui sa leiad mind selle aja\njooksul, siis on {04 1f 00}\nsuur võitja! \n{07 14 00}Aga kui sa mind ei leia,\nvõidan mina, {01 00 00 05 00}{04 02 00}!{01 01 00}\n{07 00 00}Olgu, ma lähen{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}{07 14 00} Hi hii!"
   }
  ]
 }

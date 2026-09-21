@@ -4,17 +4,17 @@
   {
    "id": 0,
    "en": "{07 15 00}And if you ever get a cold,{01 00 00 05 00}\nI'll be right there to take\ncare of you, you hear?\n{07 14 00}Thanks again, {01 00 00 0a 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 15 00}Ja kui sina kunagi külmetad,{01 00 00 05 00}\nolen kohe kohal, et sinu\neest hoolt kanda, kuuled?\n{07 14 00}Aitäh veel kord, {01 00 00 0a 00}{04 02 00}!"
   },
   {
    "id": 1,
    "en": "{07 00 00}Uh huh huh huh!{01 00 00 0a 00} {07 0d 00}That\n{ff 00 00 07}medicine {ff 00 00 00}you gave me was\nvile, dude.",
-   "et": ""
+   "et": "{07 00 00}Uh huh huh huh!{01 00 00 0a 00} {07 0d 00}See\n{ff 00 00 07}rohi{ff 00 00 00}, mille sa mulle andsid,\noli jube, semu."
   },
   {
    "id": 2,
    "en": "{07 14 00}I'll be sure to bring you\n{ff 00 00 07}medicine {ff 00 00 00}next time you get\nsick. {01 00 00 0a 00}{07 00 00}Just let me know!",
-   "et": ""
+   "et": "{07 14 00}Toon sulle kindlasti\n{ff 00 00 07}rohtu{ff 00 00 00}, kui sa järgmine kord\nhaigeks jääd. {01 00 00 0a 00}{07 00 00}Anna teada!"
   }
  ]
 }

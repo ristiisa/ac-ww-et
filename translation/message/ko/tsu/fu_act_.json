@@ -4,77 +4,77 @@
   {
    "id": 0,
    "en": "{07 0b 00}So, do you hit up {ff 00 00 06}{01 00 00 05 00}Tom\nNook{ff 00 00 00}'s store every day? {02 00 00 08 09}\nYup!\nNot every day...",
-   "et": ""
+   "et": "{07 0b 00}Nii, kas sa käid {ff 00 00 06}{01 00 00 05 00}Tom\nNooki{ff 00 00 00} poes iga päev? {02 00 00 08 09}\nJah!\nMitte iga päev..."
   },
   {
    "id": 1,
    "en": "I didn't get it until I\nstarted collecting\nfurniture myself, but...\n{07 14 00}...in addition to selecting\nfurniture,{01 00 00 05 00} a few pieces of\nart make a difference!{02 00 00 0a 0b}\nOh yeah!\nYa think?",
-   "et": ""
+   "et": "Ma ei saanud sellest aru,\nenne kui ise mööblit\nkoguma hakkasin, aga...\n{07 14 00}...lisaks mööbli valimisele{01 00 00 05 00}\nteevad paar kunstiteost\nvahet!{02 00 00 0a 0b}\nOh jaa!\nArvad?"
   },
   {
    "id": 2,
    "en": "{07 15 00}In order to be a real\ncollector of furniture, you{01 00 00 05 00}\ngotta do more than shop.\n{07 14 00}You have to go to various\nfunctions and events,{01 00 00 05 00} and\nget those rare pieces!",
-   "et": ""
+   "et": "{07 15 00}Selleks, et olla tõeline\nmööblikoguja, pead sa{01 00 00 05 00}\ntegema rohkem kui ostlema.\n{07 14 00}Sa pead käima erinevatel\nüritustel ja pidudel,{01 00 00 05 00} ja\nhankima haruldasi tükke!"
   },
   {
    "id": 3,
    "en": "{07 16 00}{0b 03 00}{04 1f 00},{01 00 00 05 00} listen up! I've\ngot something important to\ntalk to you about!\n{07 14 00}How much do you like\nfurniture, {01 00 00 05 00}{04 02 00}?{05 05 00 05 0c 05 0c 02 0e 04 0d}\nI love it!\nIt's OK.",
-   "et": ""
+   "et": "{07 16 00}{0b 03 00}{04 1f 00},{01 00 00 05 00} kuula! Mul on\nsulle midagi tähtsat\nöelda!\n{07 14 00}Kui väga sulle meeldib\nmööbel, {01 00 00 05 00}{04 02 00}?{05 05 00 05 0c 05 0c 02 0e 04 0d}\nMa armastan seda!\nSobib."
   },
   {
    "id": 4,
    "en": "I normally couldn't care\nless about furniture, but I\nhave an idea.\n{07 14 00}How about you and me go\ncheck out what {ff 00 00 06}Nook{ff 00 00 00}'s got\nfor a change, {01 00 00 05 00}{04 02 00}?\n{07 11 00}He might have some rare\nitem, {01 00 00 05 00}{04 02 00}.",
-   "et": ""
+   "et": "Tavaliselt ei huvitaks mind\nmööbel üldse, aga mul on\nidee.\n{07 14 00}Kuidas oleks, kui sina ja\nmina vaatame {ff 00 00 06}Nooki{ff 00 00 00} kaupa,\nvahelduseks, {01 00 00 05 00}{04 02 00}?\n{07 11 00}Tal võib olla mõni haruldane\nese, {01 00 00 05 00}{04 02 00}."
   },
   {
    "id": 5,
    "en": "I can't ignore it any\nlonger.{01 00 00 05 00} I've gotta make my\nplace more livable!\nI've gotta not\n{04 22 00} for a\nlittle while...\n{07 19 00}...and focus on getting the\nright furniture for my pad,\n{01 00 00 05 00}{04 02 00}.",
-   "et": ""
+   "et": "Ma ei suuda seda enam\neirata.{01 00 00 05 00} Ma pean oma kodu\nelamisväärsemaks tegema!\nMa ei tohi mõnda aega\n{04 22 00}...\nüldse...\n{07 19 00}...ja keskenduda õige\nmööbli hankimisele,\n{01 00 00 05 00}{04 02 00}."
   },
   {
    "id": 6,
    "en": "{07 16 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}I've gotta tell you\nsomething. I met an alien\nthe other day. {01 00 00 05 00}{0b 03 00}{04 02 00}!\n{07 06 00}He gave me all this rare\nfurniture{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}. {07 19 00}He was{01 00 00 05 00} the\nnicest alien I've met.",
-   "et": ""
+   "et": "{07 16 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}Ma pean sulle midagi\nütlema. Ma kohtasin teine\npäev tulnukat. {01 00 00 05 00}{0b 03 00}{04 02 00}!\n{07 06 00}Ta andis mulle kogu selle\nharuldase mööbli{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}. {07 19 00}Ta oli{01 00 00 05 00}\nkõige kenam tulnukas."
   },
   {
    "id": 7,
    "en": "{07 0b 00}Hey, {01 00 00 05 00}have you gone to see\n{ff 00 00 06}Tom Nook{ff 00 00 00} yet today? Well,\n{01 00 00 05 00}{04 02 00}?\n{07 16 00}He seemed different today.{01 00 00 14 00}\n{07 06 00}There was a swagger{01 00 00 05 00} to his\nstep{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.",
-   "et": ""
+   "et": "{07 0b 00}Hei, {01 00 00 05 00}kas sa oled täna\n{ff 00 00 06}Tom Nooki{ff 00 00 00} juures? Noh,\n{01 00 00 05 00}{04 02 00}?\n{07 16 00}Ta tundus täna teistsugune.{01 00 00 14 00}\n{07 06 00}Tal oli sammus{01 00 00 05 00} mingi\nkõõks{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}."
   },
   {
    "id": 8,
    "en": "{07 17 00}Oh, yeah? {01 00 00 05 00}Me, too!{01 00 00 14 00} {07 00 00}But it's\nnot like I wanna be {ff 00 00 06}Nook\n{ff 00 00 00}or something.{ff 00 00 06}\n{ff 00 00 00}{07 14 00}It's just that{01 00 00 05 00} the selection\nthere changes every single\nday, {01 00 00 05 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 17 00}Oh jaa? {01 00 00 05 00}Mina ka!{01 00 00 14 00} {07 00 00}Aga pole\nnii, et ma tahaks olla {ff 00 00 06}Nook\n{ff 00 00 00}või midagi.{ff 00 00 06}\n{ff 00 00 00}{07 14 00}Lihtsalt{01 00 00 05 00} valik seal muutub\niga üksiku päevaga,\n{01 00 00 05 00}{04 02 00}!"
   },
   {
    "id": 9,
    "en": "{07 0e 00}I see{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} So, {01 00 00 05 00}you're not\nreally interested in\nfurniture, {01 00 00 05 00}{04 02 00}?\n{07 00 00}Uh, OK. {01 00 00 0a 00}Weirdo.",
-   "et": ""
+   "et": "{07 0e 00}Selge{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} Nii, {01 00 00 05 00}sind ei\nhuvita mööbel eriti,\n{01 00 00 05 00}{04 02 00}?\n{07 00 00}Ee, olgu. {01 00 00 0a 00}Veidrik."
   },
   {
    "id": 10,
    "en": "{07 0f 00}But, {ff 00 00 07}{01 00 00 05 00}famous paintings {ff 00 00 00}are\nso expensive, {01 00 00 05 00}{04 02 00}.\nI can't afford them!\n{07 00 00}Replicas are so well made{01 00 00 05 00}\nthat you can't tell the\ndifference by looking.\n{07 0e 00}So buying {ff 00 00 07}fakes{ff 00 00 00} might be an\noption worth considering,\n{01 00 00 05 00}{04 02 00}.",
-   "et": ""
+   "et": "{07 0f 00}Aga {ff 00 00 07}{01 00 00 05 00}kuulsad maalid {ff 00 00 00}on\nnii kallid, {01 00 00 05 00}{04 02 00}.\nMa ei saa neid lubada!\n{07 00 00}Koopiad on nii hästi tehtud{01 00 00 05 00}\net sa ei erista neid\nvaadates.\n{07 0e 00}Nii et {ff 00 00 07}võltsingute{ff 00 00 00} ostmine\nvõib olla kaalumist väärt,\n{01 00 00 05 00}{04 02 00}."
   },
   {
    "id": 11,
    "en": "{07 1b 00}Hah! {01 00 00 05 00}You just don't get it,{01 00 00 05 00}\n{04 1f 00}! Eh, your loss.\n\n{07 11 00}You should, just once,{01 00 00 05 00}\ngo to {ff 00 00 02}Redd{ff 00 00 00}'s shop{01 00 00 05 00} and buy a\n{ff 00 00 07}famous painting{ff 00 00 00}!",
-   "et": ""
+   "et": "{07 1b 00}Hah! {01 00 00 05 00}Sa lihtsalt ei mõista,{01 00 00 05 00}\n{04 1f 00}! Ee, sinu kaotus.\n\n{07 11 00}Sa peaksid kasvõi korra{01 00 00 05 00}\nminema {ff 00 00 02}Reddi{ff 00 00 00} poodi{01 00 00 05 00} ostma\n{ff 00 00 07}kuulsa maali{ff 00 00 00}!"
   },
   {
    "id": 12,
    "en": "{07 0c 00}Right! Exactly! {01 00 00 05 00}{0b 03 00}{04 02 00}!{01 00 00 14 00}\n{07 0d 00}We're totally on the same\npage, kid!",
-   "et": ""
+   "et": "{07 0c 00}Just! Täpselt! {01 00 00 05 00}{0b 03 00}{04 02 00}!{01 00 00 14 00}\n{07 0d 00}Me oleme täiesti samal\nlainel, laps!"
   },
   {
    "id": 13,
    "en": "{07 16 00}No, {01 00 00 0f 00}I'm not asking for any \nreason in particular.{01 01 00} {07 15 00}What?!\nI'm just making small talk!",
-   "et": ""
+   "et": "{07 16 00}Ei, {01 00 00 0f 00}ma ei küsi mingil \nkindlal põhjusel.{01 01 00} {07 15 00}Mida?!\nMa lihtsalt vestlen!"
   },
   {
    "id": 14,
    "en": "{07 06 00}Hmm{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} Hmm. {01 00 00 05 00}{0b 03 00}{04 02 00}.\n\n\n{07 00 00}But{01 00 00 05 00} picking the right\nfurniture {07 0b 00}takes practice,\n{01 00 00 05 00}{04 02 00}.\n{07 16 00}How do you expect to\nimprove if you're not even\nwilling to try?",
-   "et": ""
+   "et": "{07 06 00}Hmm{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} Hmm. {01 00 00 05 00}{0b 03 00}{04 02 00}.\n\n\n{07 00 00}Aga{01 00 00 05 00} õige mööbli valimine\n{07 0b 00}nõuab harjutamist,\n{01 00 00 05 00}{04 02 00}.\n{07 16 00}Kuidas sa loodad areneda,\nkui sa isegi ei taha\nproovida?"
   }
  ]
 }

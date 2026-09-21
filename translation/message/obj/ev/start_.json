@@ -4,62 +4,62 @@
   {
    "id": 0,
    "en": "Hey, everybody!{01 00 00 05 00}\nToday's the {ff 00 00 03}Fishing Tourney{ff 00 00 00}!{01 10 00 3c}",
-   "et": ""
+   "et": "Hei, kõik!{01 00 00 05 00}\nTäna on {ff 00 00 03}kalapüügivõistlus{ff 00 00 00}!{01 10 00 3c}"
   },
   {
    "id": 1,
    "en": "Hey, everybody!{01 00 00 05 00}\nHope you're all ready\nfor the {ff 00 00 03}Bug-Off{ff 00 00 00} today!{01 10 00 3c}",
-   "et": ""
+   "et": "Hei, kõik!{01 00 00 05 00}\nLoodetavasti olete valmis\ntänaseks {ff 00 00 03}putukavõistluseks{ff 00 00 00}!{01 10 00 3c}"
   },
   {
    "id": 2,
    "en": "Hey, everybody!{01 00 00 05 00}\nThe {ff 00 00 03}Flea Market{ff 00 00 00}'s today!\nHappy shopping!{01 10 00 3c}",
-   "et": ""
+   "et": "Hei, kõik!{01 00 00 05 00}\nTäna on {ff 00 00 03}kirbuturg{ff 00 00 00}!\nHead ostlemist!{01 10 00 3c}"
   },
   {
    "id": 3,
    "en": "Hey, everybody!{01 00 00 05 00}\nIt's {ff 00 00 03}La-Di-Day{ff 00 00 00}!{01 10 00 3c}",
-   "et": ""
+   "et": "Hei, kõik!{01 00 00 05 00}\nTäna on {ff 00 00 03}laulupäev{ff 00 00 00}!{01 10 00 3c}"
   },
   {
    "id": 4,
    "en": "Hey, everybody!{01 00 00 05 00}\nIt's {ff 00 00 03}Yay Day{ff 00 00 00}! Hooray!{01 10 00 3c}",
-   "et": ""
+   "et": "Hei, kõik!{01 00 00 05 00}\nTäna on {ff 00 00 03}kiidupäev{ff 00 00 00}! Hurraa!{01 10 00 3c}"
   },
   {
    "id": 5,
    "en": "Hey, everybody!{01 00 00 05 00}\nThe {ff 00 00 03}Flower Fest{ff 00 00 00} is today!{01 10 00 3c}",
-   "et": ""
+   "et": "Hei, kõik!{01 00 00 05 00}\nTäna on {ff 00 00 03}lillepidu{ff 00 00 00}!{01 10 00 3c}"
   },
   {
    "id": 6,
    "en": "Hey, everybody!{01 00 00 05 00}\nThe {ff 00 00 03}Fireworks Show{ff 00 00 00} is\ntoday!{01 00 00 05 00} KA-BOOM!{01 10 00 3c}",
-   "et": ""
+   "et": "Hei, kõik!{01 00 00 05 00}\n{ff 00 00 03}Ilutulestik{ff 00 00 00} on\ntäna!{01 00 00 05 00} PAUH!{01 10 00 3c}"
   },
   {
    "id": 7,
    "en": "Hey, everybody!{01 00 00 05 00}\nIt's time for the\n{ff 00 00 03}Acorn Festival{ff 00 00 00}!{01 10 00 3c}",
-   "et": ""
+   "et": "Hei, kõik!{01 00 00 05 00}\nOn aeg\n{ff 00 00 03}tõrufestivaliks{ff 00 00 00}!{01 10 00 3c}"
   },
   {
    "id": 8,
    "en": "Hey, everybody!{01 00 00 05 00}\nThe {ff 00 00 03}Bright Nights{ff 00 00 00} are here!{01 10 00 3c}",
-   "et": ""
+   "et": "Hei, kõik!{01 00 00 05 00}\n{ff 00 00 03}Valgusööd{ff 00 00 00} on käes!{01 10 00 3c}"
   },
   {
    "id": 9,
    "en": "Hey, everybody!{01 00 00 05 00}\nThe year-end {ff 00 00 03}countdown{ff 00 00 00}\nhas officially begun!{01 10 00 3c}",
-   "et": ""
+   "et": "Hei, kõik!{01 00 00 05 00}\nAastalõpu {ff 00 00 03}loendus{ff 00 00 00}\non ametlikult alanud!{01 10 00 3c}"
   },
   {
    "id": 14,
    "en": "An unidentified object has\ncrashed in our town!{01 10 00 3c}",
-   "et": ""
+   "et": "Tundmatu objekt on\nmeie linna kukkunud!{01 10 00 3c}"
   },
   {
    "id": 15,
    "en": "Good morning, everybody!{01 00 00 05 00}\nRise and shine!{01 10 00 3c}",
-   "et": ""
+   "et": "Tere hommikust, kõik!{01 00 00 05 00}\nÄrgake ja särage!{01 10 00 3c}"
   }
  ]
 }

@@ -4,52 +4,52 @@
   {
    "id": 0,
    "en": "{07 01 00}Hey! {01 00 00 05 00}You!{01 00 00 05 00} Shell hog!{01 00 00 05 00}\nYou plan on collecting all\nthe shells in the ocean?\n{07 06 00}Save a couple for me,\nwill you, {01 00 00 05 00}{04 02 00}?",
-   "et": ""
+   "et": "{07 01 00}Hei! {01 00 00 05 00}Sina!{01 00 00 05 00} Karbiahnitseja!{01 00 00 05 00}\nKas kavatsed kõik ookeani\nkarbid kokku korjata?\n{07 06 00}Jäta mullegi paar,\neks, {01 00 00 05 00}{04 02 00}?"
   },
   {
    "id": 1,
    "en": "{07 13 00}Oh, it's so romantic...{01 00 00 05 00}\nThe blue sea, so full of\nmarriagers{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 04 00}Huh?{01 00 00 14 00} Wait, what'd I say?{01 00 00 05 00}\n{07 0b 00}I said full of \"mariners,\"\ndidn't I?\n{07 06 00}Oh gosh!{01 00 00 05 00} Talk about\nembarrassing, {01 00 00 05 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 13 00}Oi, see on nii romantiline...{01 00 00 05 00}\nSinine meri, nii täis\nabielumehi{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 04 00}Mis?{01 00 00 14 00} Oot, mida ma ütlesin?{01 00 00 05 00}\n{07 0b 00}Ma ütlesin „meremehi”,\nkas pole?\n{07 06 00}Oh issand!{01 00 00 05 00} Milline\npiinlikkus, {01 00 00 05 00}{04 02 00}!"
   },
   {
    "id": 2,
    "en": "{07 13 00}The sea is said to heal all\nwounds with its tireless\ntides, {01 00 00 05 00}{04 02 00}...\n{07 00 00}That's a saying I heard\nfrom{01 00 00 05 00} {04 0d 00}, but...\nI don't get it.\n{07 09 00}Am I not hip enough to\n\"get\" things, {01 00 00 05 00}{04 02 00}?!",
-   "et": ""
+   "et": "{07 13 00}Öeldakse, et meri ravib kõik\nhaavad oma väsimatute\nlainetega, {01 00 00 05 00}{04 02 00}...\n{07 00 00}Seda ütlust kuulsin ma\n{01 00 00 05 00}{04 0d 00} käest, aga...\nma ei saa sellest aru.\n{07 09 00}Kas ma pole piisavalt lahe,\net asju mõista, {01 00 00 05 00}{04 02 00}?!"
   },
   {
    "id": 3,
    "en": "{07 14 00}Y'know, the sea totally\nalways reminds me of beach\nvolleyball...\n{06 03 00 08 09}",
-   "et": ""
+   "et": "{07 14 00}Tead, meri meenutab mulle\nalati rannavõrkpalli...\n\n{06 03 00 08 09}"
   },
   {
    "id": 4,
    "en": "{07 06 00}{0b 03 00}{04 1f 00}!{01 00 00 05 00} Heads up!{01 01 00}\n{07 15 00}Prepare to receive the\nSpike of Sandy Doom!\n{07 04 00}Huh? {01 00 00 14 00}You never heard of...\n{07 0b 00}that volleyball move?{01 00 00 05 00} Don't\nyou watch animal sports?",
-   "et": ""
+   "et": "{07 06 00}{0b 03 00}{04 1f 00}!{01 00 00 05 00} Pea alla!{01 01 00}\n{07 15 00}Valmistu vastu võtma\nLiivase Hukatuse Rünnakut!\n{07 04 00}Mis? {01 00 00 14 00}Sa pole kuulnud...\n{07 0b 00}sellest võrkpallilöögist?{01 00 00 05 00} Kas\nsa ei vaata loomaspordi?"
   },
   {
    "id": 5,
    "en": "{07 0a 00}Yeeeeeeeeee-HAAAAAAAAAW!{01 00 00 05 00}\nRide them waves, cowboys!{01 00 00 05 00}\nWoo, {01 00 00 05 00}{04 02 00}!\n{07 04 00}What?!{01 00 00 0a 00} You don't say that\nsort of stuff on the\nbeach?{01 00 00 05 00} Really?\n{07 06 00}Oh no!{01 00 00 0f 00} No wonder that\nsurfer kicked sand at me,\n{01 00 00 05 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 0a 00}Jiiiiiiiii-HAAAAAAAA!{01 00 00 05 00}\nSõitke lainetel, kauboid!{01 00 00 05 00}\nUuu, {01 00 00 05 00}{04 02 00}!\n{07 04 00}Mis?!{01 00 00 0a 00} Sa ei ütle sellist\nkraami randa\nminnes?{01 00 00 05 00} Tõesti?\n{07 06 00}Oi ei!{01 00 00 0f 00} Pole ime, et see\nsurfar mulle liiva viskas,\n{01 00 00 05 00}{04 02 00}!"
   },
   {
    "id": 6,
    "en": "{07 00 00}The cool sea breeze is ever\nso nice...\n\n{07 0d 00}...but my heart is like\nhot, hot {04 13 00}!{01 00 00 05 00}\nHee hee, {01 00 00 05 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 00 00}Jahe meretuul on nii\nmõnus...\n\n{07 0d 00}...aga mu süda on nagu\nkuum, kuum {04 13 00}!{01 00 00 05 00}\nHihii, {01 00 00 05 00}{04 02 00}!"
   },
   {
    "id": 7,
    "en": "{07 02 00}Don't move, {04 1f 00}!{01 01 00}\n{07 06 00}I'm counting the grains of\nsand, {01 00 00 05 00}{04 02 00}!\n{07 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 14 00}Ha! {01 01 00}{07 17 00}Whenever I'm at the\nbeach, I always wanna say\nthat, {01 00 00 05 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 02 00}Ära liiguta, {04 1f 00}!{01 01 00}\n{07 06 00}Ma loen liivateri,\n{01 00 00 05 00}{04 02 00}!\n{07 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 14 00}Ha! {01 01 00}{07 17 00}Kui ma olen rannas,\ntahan alati seda\nöelda, {01 00 00 05 00}{04 02 00}!"
   },
   {
    "id": 8,
    "en": "{07 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 01 00}Hey! {01 00 00 05 00}I saw that look!{01 01 00}\n{07 15 00}What, you don't think this\nis \"cool\" beachwear?\n{07 05 00}Oh yeah, like you're ready\nfor your swimsuit spread!{01 00 00 05 00}\nWhatever, {01 00 00 05 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 01 00}Hei! {01 00 00 05 00}Ma nägin seda pilku!{01 01 00}\n{07 15 00}Mis, sinu arust pole see\n„lahe” rannariietus?\n{07 05 00}Oh jaa, nagu sina oleksid\nujurõivareklaamiks valmis!{01 00 00 05 00}\nÜkskõik, {01 00 00 05 00}{04 02 00}!"
   },
   {
    "id": 9,
    "en": "{07 04 00}Oh, {01 00 00 05 00}but you know what?{01 00 00 0a 00}\n{07 14 00}Clamming is such a better\nactivity! {01 00 00 05 00}I can eat them!",
-   "et": ""
+   "et": "{07 04 00}Oi, {01 00 00 05 00}aga tead mis?{01 00 00 0a 00}\n{07 14 00}Karbipüük on palju parem\ntegevus! {01 00 00 05 00}Neid saab süüa!"
   }
  ]
 }

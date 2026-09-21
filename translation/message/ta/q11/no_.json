@@ -4,17 +4,17 @@
   {
    "id": 0,
    "en": "{07 16 00}Really. {01 00 00 05 00}Well, that's just too\nbad, {01 00 00 0a 00}{04 02 00}.",
-   "et": ""
+   "et": "{07 16 00}Tõesti. {01 00 00 05 00}Noh, väga kahju,\n{01 00 00 0a 00}{04 02 00}."
   },
   {
    "id": 1,
    "en": "{07 15 00}What?!{01 00 00 14 00} You're no fun!",
-   "et": ""
+   "et": "{07 15 00}Mis?!{01 00 00 14 00} Sa pole üldse lõbus!"
   },
   {
    "id": 2,
    "en": "{07 00 00}Hmmm.{01 00 00 14 00} Maybe I'll sell it to\n{04 0b 00}, then.",
-   "et": ""
+   "et": "{07 00 00}Hmmm.{01 00 00 14 00} Ehk müün siis selle\n{04 0b 00}le."
   }
  ]
 }

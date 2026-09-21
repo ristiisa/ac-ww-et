@@ -4,102 +4,102 @@
   {
    "id": 0,
    "en": "{07 16 00}{0b 03 00}{04 1f 00}!!{01 01 00} I TOTALLY\nneed your help!{01 00 00 0a 00} You HAVE\nto listen to me!\n{07 0b 00}OK, look, you're holding\n{04 1a 00},{01 00 00 0a 00}\nright?\n{07 06 00}Please give it to me!{01 00 00 0a 00}\nPLEASE!{01 00 00 0a 00} I'll give you my\n{0b 02 00}{04 1b 00}!{02 00 00 03 07}\nLet's trade!\nNo way!",
-   "et": ""
+   "et": "{07 16 00}{0b 03 00}{04 1f 00}!!{01 01 00} Mul on\nSINU abi vaja!{01 00 00 0a 00} Sa PEAD\nmind kuulama!\n{07 0b 00}Nii, kuule, sa hoiad käes\n{04 1a 00},{01 00 00 0a 00}\neks?\n{07 06 00}Palun anna see mulle!{01 00 00 0a 00}\nPALUN!{01 00 00 0a 00} Annan sulle oma\n{0b 02 00}{04 1b 00}!{02 00 00 03 07}\nVahetame!\nEi tule kõne alla!"
   },
   {
    "id": 1,
    "en": "{07 00 00}{0b 03 00}{04 1f 00}!{01 00 00 0f 00} I'm sorry to\nspring this on you, but we\nshould trade! Let's swap...\n{07 06 00}My {0b 02 00}{04 1b 00},\nfor your lame old\n{0b 02 00}{04 1a 00}!{02 00 00 03 07}\nSounds good!\nNope.",
-   "et": ""
+   "et": "{07 00 00}{0b 03 00}{04 1f 00}!{01 00 00 0f 00} Vabandust,\net nii äkki, me peaksime\nvahetama! Teeme vahetuse...\n{07 06 00}Minu {0b 02 00}{04 1b 00}\nsinu lääge vana\n{0b 02 00}{04 1a 00} vastu!{02 00 00 03 07}\nKõlab hästi!\nEi."
   },
   {
    "id": 2,
    "en": "{07 11 00}Hey there, {01 00 00 05 00}{04 1f 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 01 00}\nWanna test your luck?\n\n{07 14 00}Let's swap my {ff 00 00 07}secret item\n{ff 00 00 00}for your totally lame\n{0b 02 00}{04 1a 00}!{02 00 00 0b 0e}\nLet's do it!\nToo risky!",
-   "et": ""
+   "et": "{07 11 00}Tere, {01 00 00 05 00}{04 1f 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 01 00}\nTahad õnne proovida?\n\n{07 14 00}Vahetame minu {ff 00 00 07}salajase asja\n{ff 00 00 00}sinu täiesti läägeda\n{0b 02 00}{04 1a 00} vastu!{02 00 00 0b 0e}\nTeeme ära!\nLiiga riskantne!"
   },
   {
    "id": 3,
    "en": "{07 14 00}YES!{01 00 00 0a 00} WHOOO! {01 00 00 0a 00}You're the BEST!\nHere you go, {01 00 00 05 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 14 00}JAA!{01 00 00 0a 00} JUHUU! {01 00 00 0a 00}Sa oled PARIM!\nPalun väga, {01 00 00 05 00}{04 02 00}!"
   },
   {
    "id": 4,
    "en": "{07 14 00}Don't you know? Today is{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\nNO CASH TRADES DAY!!!{01 00 00 0f 00}\nOnly bartering!\n{07 11 00}So we'll have to swap items,{01 00 00 05 00}\n{01 00 00 05 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 14 00}Kas sa ei tea? Täna on{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\nSULARAHATA PÄEV!!!{01 00 00 0f 00}\nAinult vahetuskaubandus!\n{07 11 00}Nii et peame asju vahetama,{01 00 00 05 00}\n{01 00 00 05 00}{04 02 00}!"
   },
   {
    "id": 5,
    "en": "{07 06 00}That was C-R-A-Z-Y\nexpensive, so take good\ncare of it, {01 00 00 05 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 06 00}See oli H-U-L-L-U-L-T\nkallis, nii et hoolitse\nselle eest, {01 00 00 05 00}{04 02 00}!"
   },
   {
    "id": 6,
    "en": "{07 11 00}Heh heh heh{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} You know,\nit's, like, not easy to find\n{04 1b 00}!\nTake REALLY good care of\nit, {01 00 00 05 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 11 00}Heh heh heh{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} Tead,\nseda pole, nagu, kerge\nleida: {04 1b 00}!\nHoolitse selle eest TÕESTI\nhästi, {01 00 00 05 00}{04 02 00}!"
   },
   {
    "id": 7,
    "en": "{06 01 00 08 09 0a}",
-   "et": ""
+   "et": "{06 01 00 08 09 0a}"
   },
   {
    "id": 8,
    "en": "{07 06 00}What?!{01 00 00 0a 00} Oh, no!{01 00 00 0a 00} You know,\nthis will be worth a TON of\nBells in the future{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 05 00}I think you just threw away\nyour early retirement,\n{01 00 00 05 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 06 00}Mis?!{01 00 00 0a 00} Oi ei!{01 00 00 0a 00} Tead,\nsee on tulevikus TONNIDE\nkellade väärtuses{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 05 00}Sa vist just viskasid ära\noma varajase pensioni,\n{01 00 00 05 00}{04 02 00}!"
   },
   {
    "id": 9,
    "en": "{07 16 00}Well, {01 00 00 05 00}OK.{01 00 00 0f 00} I suppose I'll\nsurvive, {04 02 00}.{01 00 00 0f 00}\nSomehow...{07 00 00}",
-   "et": ""
+   "et": "{07 16 00}Noh, {01 00 00 05 00}olgu.{01 00 00 0f 00} Ma vist jään\nellu, {04 02 00}.{01 00 00 0f 00}\nKuidagi...{07 00 00}"
   },
   {
    "id": 10,
    "en": "{07 16 00}Oh, no... {01 00 00 0f 00}OH, NO! I so\nwanted that.{01 00 00 05 00} I...{01 00 00 0f 00} I don't\nknow what to do!{03 03 00 00}",
-   "et": ""
+   "et": "{07 16 00}Oi ei... {01 00 00 0f 00}OI, EI! Ma tahtsin\nseda nii väga.{01 00 00 05 00} Ma...{01 00 00 0f 00} Ma ei\ntea, mida teha!{03 03 00 00}"
   },
   {
    "id": 11,
    "en": "{07 14 00}Like, done and done!{01 00 00 0a 00} OK\nthen,{01 00 00 05 00} here's my AWESOME\n{0b 02 00}{04 1b 00}!",
-   "et": ""
+   "et": "{07 14 00}Nagu, tehtud ja tehtud!{01 00 00 0a 00}\nOlgu siis,{01 00 00 05 00} siin on mu VÄGEV\n{0b 02 00}{04 1b 00}!"
   },
   {
    "id": 12,
    "en": "{07 14 00}SWEET! {01 00 00 0a 00}You scratch my back,\nand I'll scratch yours,\n{01 00 00 05 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 14 00}MAGUS! {01 00 00 0a 00}Käsi peseb kätt,\neks ole nii,\n{01 00 00 05 00}{04 02 00}!"
   },
   {
    "id": 13,
    "en": "{07 04 00}Huh?{01 00 00 05 00} What?{01 00 00 0a 00} Why do you look\nso bummed out?\n\n{07 15 00}Hey{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} That wasn't easy for\nme, either, {01 00 00 05 00}{04 02 00}!\nSheesh!{01 00 00 05 00} How RUDE!{03 02 00 00}",
-   "et": ""
+   "et": "{07 04 00}Mis?{01 00 00 05 00} Kuidas?{01 00 00 0a 00} Miks sa nii\nnorus välja näed?\n\n{07 15 00}Kuule{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} Minul polnud ka\nkerge, {01 00 00 05 00}{04 02 00}!\nIssand!{01 00 00 05 00} Kui EBAVIISAKAS!{03 02 00 00}"
   },
   {
    "id": 14,
    "en": "{07 02 00}What?!{01 00 00 05 00} Wow, you're like a\ntotal wet blanket,\n{01 00 00 05 00}{04 02 00}!\n{06 01 00 0f 10 11}",
-   "et": ""
+   "et": "{07 02 00}Mis?!{01 00 00 05 00} Vau, sa oled nagu\ntäielik tuju rikkuja,\n{01 00 00 05 00}{04 02 00}!\n{06 01 00 0f 10 11}"
   },
   {
    "id": 15,
    "en": "{07 06 00}Sometimes you just need to\nthrow caution to the wind\nand have fun, {01 00 00 05 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 06 00}Vahel pead lihtsalt\nettevaatuse unustama\nja lõbutsema, {01 00 00 05 00}{04 02 00}!"
   },
   {
    "id": 16,
    "en": "{07 00 00}{07 0b 00}Don't you think it's about\ntime for you to take a\nrisk, {01 00 00 05 00}{04 02 00}?",
-   "et": ""
+   "et": "{07 00 00}{07 0b 00}Kas sul poleks juba\naeg natuke riskida,\n{01 00 00 05 00}{04 02 00}?"
   },
   {
    "id": 17,
    "en": "{07 06 00}You only live once!{01 00 00 05 00} You\nshould enjoy it by going\ncrazy once in a while!",
-   "et": ""
+   "et": "{07 06 00}Elad ainult korra!{01 00 00 05 00} Naudi\nseda ja mine vahel\nnatuke hulluks!"
   },
   {
    "id": 18,
    "en": "{06 01 00 04 05 06}",
-   "et": ""
+   "et": "{06 01 00 04 05 06}"
   },
   {
    "id": 19,
    "en": "{06 01 00 05 0c 0d}",
-   "et": ""
+   "et": "{06 01 00 05 0c 0d}"
   }
  ]
 }

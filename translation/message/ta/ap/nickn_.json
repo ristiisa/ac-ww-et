@@ -4,32 +4,32 @@
   {
    "id": 0,
    "en": "{07 00 00}Hey, {01 00 00 05 00}{04 1f 00}!{01 00 00 14 00} {07 14 00}I just\ncame up with the absolute\nPERFECT nickname for you!\n{07 00 00}It's written all over \nyour face{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00} {07 0b 00}Wanna hear it?\n",
-   "et": ""
+   "et": "{07 00 00}Hei, {01 00 00 05 00}{04 1f 00}!{01 00 00 14 00} {07 14 00}Ma just\nmõtlesin sulle välja\ntäiesti IDEAALSE hüüdnime!\n{07 00 00}See on sul näkku \nkirjutatud{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00} {07 0b 00}Tahad kuulda?\n"
   },
   {
    "id": 1,
    "en": "{07 16 00}Oh, {01 00 00 05 00}I get it...{01 00 00 14 00} {07 1b 00}You're just,\nlike, {01 00 00 0a 00}the mortal enemy of\nfun, {01 00 00 0a 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 16 00}Ahaa, {01 00 00 05 00}saan aru...{01 00 00 14 00} {07 1b 00}Sa oled\nlihtsalt, {01 00 00 0a 00}nagu, lõbu\nsurmavaenlane, {01 00 00 0a 00}{04 02 00}!"
   },
   {
    "id": 2,
    "en": "{07 15 00}It's {ff 00 00 02}{04 0f 00}{ff 00 00 00}!{01 01 00} {07 14 00}PRET-ty\nawesome, huh, {01 00 00 05 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 15 00}See on {ff 00 00 02}{04 0f 00}{ff 00 00 00}!{01 01 00} {07 14 00}PRIS-ki\nvägev, mis, {01 00 00 05 00}{04 02 00}!"
   },
   {
    "id": 3,
    "en": "{07 16 00}Which part don't you like?{01 00 00 0a 00}\n{07 15 00}WHAT?! {01 00 00 0a 00}All of it?!{01 01 00} {07 1c 00}Tough\ncrowd, {01 00 00 0a 00}{04 02 00}!\n{07 1b 00}Well, OK then, tell me what\nyou want to be called, \n{01 00 00 0a 00}{04 02 00}.",
-   "et": ""
+   "et": "{07 16 00}Milline osa sulle ei meeldi?{01 00 00 0a 00}\n{07 15 00}MIS?! {01 00 00 0a 00}Kõik?!{01 01 00} {07 1c 00}Raske\npublik, {01 00 00 0a 00}{04 02 00}!\n{07 1b 00}Noh, olgu siis, ütle, kuidas\nsa tahad, et sind\nkutsutaks, {01 00 00 0a 00}{04 02 00}."
   },
   {
    "id": 4,
    "en": "{07 04 00}Huh? {01 00 00 0a 00}\"{0b 03 00}{ff 00 00 02}{04 0f 00}{ff 00 00 00}\"?{01 00 00 14 00} {07 16 00}THAT'S\nwhat you want? {01 00 00 0a 00}Sheesh!",
-   "et": ""
+   "et": "{07 04 00}Mis? {01 00 00 0a 00}„{0b 03 00}{ff 00 00 02}{04 0f 00}{ff 00 00 00}”?{01 00 00 14 00} {07 16 00}SEDA\nsa tahad? {01 00 00 0a 00}Issand!"
   },
   {
    "id": 5,
    "en": "{07 14 00}Well, in that case,\n{ff 00 00 02}{04 1f 00}{ff 00 00 00} it is! {01 01 00}{07 00 00}Have a\nwonderful day, {01 00 00 0a 00}{07 14 00}{ff 00 00 02}{04 1f 00}{ff 00 00 00}.",
-   "et": ""
+   "et": "{07 14 00}Noh, sel juhul olgu\n{ff 00 00 02}{04 1f 00}{ff 00 00 00}! {01 01 00}{07 00 00}Head\npäeva, {01 00 00 0a 00}{07 14 00}{ff 00 00 02}{04 1f 00}{ff 00 00 00}."
   }
  ]
 }

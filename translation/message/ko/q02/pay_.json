@@ -4,17 +4,17 @@
   {
    "id": 0,
    "en": "{07 00 00}Well,{01 00 00 05 00} I have to give you a\nbig nod for delivering that\n{0b 02 00}{04 1a 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 14 00}Here, this is for you...\n{0b 03 00}{04 1b 00}!\nEnjoy, {01 00 00 05 00}{04 02 00}.",
-   "et": ""
+   "et": "{07 00 00}Noh,{01 00 00 05 00} pean sulle suure\nkummarduse tegema selle\n{0b 02 00}{04 1a 00} eest{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 14 00}Säh, see on sulle...\n{0b 03 00}{04 1b 00}!\nNaudi, {01 00 00 05 00}{04 02 00}."
   },
   {
    "id": 1,
    "en": "{07 14 00}I want you to take my\n{0b 02 00}{04 1b 00}!{01 00 00 14 00}\nSeriously, I don't want it!",
-   "et": ""
+   "et": "{07 14 00}Tahan, et sa võtaksid mu\n{0b 02 00}{04 1b 00}!{01 00 00 14 00}\nTõsiselt, ma ei taha seda!"
   },
   {
    "id": 2,
    "en": "{07 00 00}I guess I'll give you my\n{0b 02 00}{04 1b 00}.{01 00 00 05 00}\nGo crazy.",
-   "et": ""
+   "et": "{07 00 00}Vist annan sulle oma\n{0b 02 00}{04 1b 00}.{01 00 00 05 00}\nNaudi täiega."
   }
  ]
 }

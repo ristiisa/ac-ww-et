@@ -4,17 +4,17 @@
   {
    "id": 0,
    "en": "{07 04 00}GEEZ!! {01 00 00 0f 00}{07 16 00}On top of everything\nelse, this letter is OPEN{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n\n{07 15 00}{0b 03 00}{04 1f 00},{01 00 00 05 00} you are{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0f 00}\n{07 05 00}You're unbelievable!{01 00 00 05 00} Now\nleave me alone!{03 02 00 01}",
-   "et": ""
+   "et": "{07 04 00}OHOH!! {01 00 00 0f 00}{07 16 00}Kõige muu kõrval\non see kiri veel LAHTI{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n\n{07 15 00}{0b 03 00}{04 1f 00},{01 00 00 05 00} sa oled{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0f 00}\n{07 05 00}Sa oled uskumatu!{01 00 00 05 00} Jäta\nmind nüüd rahule!{03 02 00 01}"
   },
   {
    "id": 1,
    "en": "{07 04 00}You even read the letter{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n{07 16 00}Wow, this really couldn't\nhave gone any worse{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}No, no.{01 00 00 05 00} Don't worry.{01 00 00 0f 00}\n{07 0f 00}It was my mistake to\nbelieve in you, {04 1f 00}.{03 03 00 01}",
-   "et": ""
+   "et": "{07 04 00}Sa isegi lugesid kirja{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n{07 16 00}Vau, hullemini see poleks\nsaanudki minna{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}Ei, ei.{01 00 00 05 00} Ära muretse.{01 00 00 0f 00}\n{07 0f 00}See oli minu viga, et ma\nsinusse uskusin, {04 1f 00}.{03 03 00 01}"
   },
   {
    "id": 2,
    "en": "{07 04 00}Huh?{01 00 00 0f 00} {07 0b 00}Hey, it looks like this{01 00 00 05 00}\nletter is already open...\n{07 18 00}You opened it?!{01 00 00 0f 00} {07 15 00}CRUD!!\nI can't believe I trusted\nyou{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} {07 01 00}Now I come out of\nthis looking like a chump!{03 02 00 01}",
-   "et": ""
+   "et": "{07 04 00}Ah?{01 00 00 0f 00} {07 0b 00}Hei, paistab, et see{01 00 00 05 00}\nkiri on juba lahti...\n{07 18 00}Sa avasid selle?!{01 00 00 0f 00} {07 15 00}PAGAN!!\nUskumatu, et ma sind\nusaldasin{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} {07 01 00}Nüüd näen ma\nselle juures loll välja!{03 02 00 01}"
   }
  ]
 }

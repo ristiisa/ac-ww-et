@@ -4,92 +4,92 @@
   {
    "id": 0,
    "en": "{07 00 00}{0b 03 00}{01 06 00}Oh, hey{01 07 00}.{01 00 00 14 00}\nI got somethin' to ask you,\n{04 1f 00}...{01 00 00 05 00}\n{07 0b 00}You're not from the\ncountryside, are you,\n{01 00 00 05 00}{04 02 00}?{02 00 00 06 07}\nWooo-haaa!\nNot a chance.",
-   "et": ""
+   "et": "{07 00 00}{0b 03 00}{01 06 00}Oh, hei{01 07 00}.{01 00 00 14 00}\nMul on sult midagi küsida,\n{04 1f 00}...{01 00 00 05 00}\n{07 0b 00}Sa ei ole ju maalt\npärit, ega,\n{01 00 00 05 00}{04 02 00}?{02 00 00 06 07}\nVuuu-haaa!\nEi mingil juhul."
   },
   {
    "id": 1,
    "en": "{07 00 00}You see,{01 00 00 14 00} there are a lot of\nslackers in this\nslack-adaisical world.\nBut I'm not one of those\npeople, right? {07 0b 00}Or am I?{05 05 00 05 0c 03 0d 03 0d 05 0c}\nNot at all.\nSLACKER!",
-   "et": ""
+   "et": "{07 00 00}Näed,{01 00 00 14 00} siin lodeva maailma\npeal on palju\nlogelejaid.\nAga mina pole üks neist,\neks? {07 0b 00}Või olen?{05 05 00 05 0c 03 0d 03 0d 05 0c}\nÜldse mitte.\nLOGELEJA!"
   },
   {
    "id": 2,
    "en": "{07 00 00}{0b 03 00}{01 06 00}Hey{01 07 00}!{01 00 00 0f 00}\n{0b 03 00}{04 1f 00}! {07 0b 00}Ya want my\n{0b 02 00}{04 1b 00}?{05 05 00 05 11 03 10 04 10 04 0f}\nTotally!\nNot really.",
-   "et": ""
+   "et": "{07 00 00}{0b 03 00}{01 06 00}Hei{01 07 00}!{01 00 00 0f 00}\n{0b 03 00}{04 1f 00}! {07 0b 00}Tahad mu\n{0b 02 00}{04 1b 00}?{05 05 00 05 11 03 10 04 10 04 0f}\nKindlasti!\nMitte eriti."
   },
   {
    "id": 3,
    "en": "{07 00 00}Well, here ya go!\n{0b 03 00}{04 1b 00},\n{01 00 00 05 00}{04 02 00}.{01 00 00 14 00}\nYou take good care of\nthat, y'hear?",
-   "et": ""
+   "et": "{07 00 00}Noh, siin see on!\n{0b 03 00}{04 1b 00},\n{01 00 00 05 00}{04 02 00}.{01 00 00 14 00}\nSa hoolitse selle eest\nhästi, kuuled?"
   },
   {
    "id": 4,
    "en": "{07 14 00}Heh,{01 00 00 0f 00} here's my\n{0b 02 00}{04 1b 00}.{01 00 00 14 00}\n\nYou better put it to good\nuse{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}or I'll know about it!",
-   "et": ""
+   "et": "{07 14 00}Heh,{01 00 00 0f 00} siin on mu\n{0b 02 00}{04 1b 00}.{01 00 00 14 00}\n\nSa parem kasuta seda\nhästi{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}või ma saan teada!"
   },
   {
    "id": 5,
    "en": "{07 00 00}Here, why don'tcha take my\n{0b 02 00}{04 1b 00}.\n\n{07 0d 00}It may stink like me,{01 00 00 05 00}\nbut that's what makes it\nso collectible!",
-   "et": ""
+   "et": "{07 00 00}Säh, miks sa ei võta mu\n{0b 02 00}{04 1b 00}.\n\n{07 0d 00}See võib haiseda nagu mina,{01 00 00 05 00}\naga just see teeb selle\nnii kogumisväärseks!"
   },
   {
    "id": 6,
    "en": "{06 01 00 08 09 09}",
-   "et": ""
+   "et": "{06 01 00 08 09 09}"
   },
   {
    "id": 7,
    "en": "{06 00 00 0a 0b}",
-   "et": ""
+   "et": "{06 00 00 0a 0b}"
   },
   {
    "id": 8,
    "en": "{07 04 00}Really, {01 00 00 05 00}{04 02 00}?{01 00 00 14 00}\n\n\n{07 00 00}Well, you're probably still\ngetting money from a farm\nor something.\nSo I guess you don't need\n{04 1b 00},\n{01 00 00 05 00}{04 02 00}.",
-   "et": ""
+   "et": "{07 04 00}Tõesti, {01 00 00 05 00}{04 02 00}?{01 00 00 14 00}\n\n\n{07 00 00}Noh, sa saad ilmselt ikka\nraha mõnelt talult\nvõi midagi.\nNii et sa vist ei vaja\n{04 1b 00},\n{01 00 00 05 00}{04 02 00}."
   },
   {
    "id": 9,
    "en": "{07 1c 00}Yeah{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{01 00 00 14 00} That must be\nreal rough for you,\n{01 00 00 05 00}{04 02 00}.\n{07 16 00}Maybe things will get better\nfor you.{01 00 00 05 00} {07 03 00}{01 00 00 05 00}You know.\n{01 00 00 05 00}Someday.\n{06 01 00 03 04 05}",
-   "et": ""
+   "et": "{07 1c 00}Jah{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{01 00 00 14 00} See peab sulle\npäris raske olema,\n{01 00 00 05 00}{04 02 00}.\n{07 16 00}Ehk lähevad asjad sul\nparemaks.{01 00 00 05 00} {07 03 00}{01 00 00 05 00}Tead küll.\n{01 00 00 05 00}Kunagi.\n{06 01 00 03 04 05}"
   },
   {
    "id": 10,
    "en": "{07 04 00}So you're all urban\nand sophisticated and\nstuff?\nWell, I don't much like you\nthinking you're something\nspecial just 'cause...\n...you're living it up with\nus yokels, {01 00 00 05 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 04 00}Nii et sa oled linlik\nja peen ja\nnii?\nNoh, mulle ei meeldi, et sa\narvad end midagi erilist\nolevat lihtsalt sest...\n...et sa elad meie,\nkolkakate, seas, {01 00 00 05 00}{04 02 00}!"
   },
   {
    "id": 11,
    "en": "{07 00 00}But what about living in\n{04 03 00}, {01 00 00 05 00}{04 02 00}?\nYeah, I know{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n{07 16 00}There's only one store,\nnowhere to hang out, and\nnot a pirate ninja in sight!\n{07 0e 00}Hmmmm.{07 00 00} Why don't\nI give you this?\n\nIt makes living in a\nninja-less world a little\neasier to bear.\n{06 01 00 03 04 05}",
-   "et": ""
+   "et": "{07 00 00}Aga mis siis {04 03 00}-s\nelamisest, {01 00 00 05 00}{04 02 00}?\nJah, ma tean{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n{07 16 00}Siin on vaid üks pood,\npole kohta, kus olla, ja\nmitte ühtki ninjat!\n{07 0e 00}Hmmmm.{07 00 00} Miks ma ei\nanna sulle seda?\n\nSee teeb ninjata maailmas\nelamise pisut\nkergemini talutavaks.\n{06 01 00 03 04 05}"
   },
   {
    "id": 12,
    "en": "{07 04 00}Oh really, is that how I\nseem to you{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.?\nWell, {01 00 00 05 00}{04 02 00}.\n{07 1c 00}Maybe I should just start\nacting my age, huh?",
-   "et": ""
+   "et": "{07 04 00}Oh tõesti, kas ma niimoodi\nsulle paistan{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.?\nNoh, {01 00 00 05 00}{04 02 00}.\n{07 1c 00}Ehk peaksin hakkama oma\nvanuse kohaselt käituma?"
   },
   {
    "id": 13,
    "en": "{07 15 00}Oh, {01 00 00 0f 00}that's it!{01 00 00 14 00} That's what\nI'm talkin' about,\n{01 00 00 05 00}{04 02 00}!\n{07 00 00}It's pretty easy to get\nall extreme about\neverything, isn't it?\nReal adults try to be\n\"balanced\" and not act like\n\"complete psychos.\"\n{07 14 00}I'm glad you get it!{01 00 00 05 00}\nNow take this present!",
-   "et": ""
+   "et": "{07 15 00}Oh, {01 00 00 0f 00}just nii!{01 00 00 14 00} Just sellest\nma räägingi,\n{01 00 00 05 00}{04 02 00}!\n{07 00 00}On päris lihtne minna\nkõiges äärmustesse,\nkas pole?\nPäris täiskasvanud üritavad\nolla „tasakaalus” ja mitte\nkäituda „täiselus”.\n{07 14 00}Hea, et sa mõistad!{01 00 00 05 00}\nNüüd võta see kingitus!"
   },
   {
    "id": 14,
    "en": "{07 0d 00}Here, just take my{01 00 00 0f 00}\n{0b 02 00}{04 1b 00},\n{01 00 00 05 00}{04 02 00}!\n{07 15 00}And don't let yourself\nget too uptight. {01 00 00 05 00}Or become\ntoo much of a slacker!",
-   "et": ""
+   "et": "{07 0d 00}Säh, võta lihtsalt mu{01 00 00 0f 00}\n{0b 02 00}{04 1b 00},\n{01 00 00 05 00}{04 02 00}!\n{07 15 00}Ja ära lase endal liiga\npingul minna. {01 00 00 05 00}Või liiga\nsuureks logelejaks!"
   },
   {
    "id": 15,
    "en": "{07 16 00}Yikes{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0f 00} Well, if you like it\nthat much, just take it,\n{01 00 00 05 00}{04 02 00}!\n{06 01 00 03 04 05}",
-   "et": ""
+   "et": "{07 16 00}Oih{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0f 00} Noh, kui see sulle\nnii väga meeldib, võta see,\n{01 00 00 05 00}{04 02 00}!\n{06 01 00 03 04 05}"
   },
   {
    "id": 16,
    "en": "{07 15 00}Argggh! {01 00 00 14 00}{07 16 00}Where's your sense\nof competition?\n\n{07 00 00}Well, {01 00 00 0f 00}you won't see an offer\nlike this often, so just\ntake it, {01 00 00 05 00}{04 02 00}!\n{06 01 00 03 04 05}",
-   "et": ""
+   "et": "{07 15 00}Arrgh! {01 00 00 14 00}{07 16 00}Kus on su\nvõistlusvaim?\n\n{07 00 00}Noh, {01 00 00 0f 00}sellist pakkumist ei\nnäe sa tihti, nii et\nvõta see, {01 00 00 05 00}{04 02 00}!\n{06 01 00 03 04 05}"
   },
   {
    "id": 17,
    "en": "{07 15 00}Pfft, {01 00 00 0f 00}then maybe I'll just\ngive it to {04 0e 00},\n{01 00 00 05 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 15 00}Pfft, {01 00 00 0f 00}siis ehk annan ma\nselle {04 0e 00}le,\n{01 00 00 05 00}{04 02 00}!"
   }
  ]
 }

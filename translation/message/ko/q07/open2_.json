@@ -4,17 +4,17 @@
   {
    "id": 0,
    "en": "{07 04 00}What?!{01 00 00 0f 00} {07 16 00}WHAT IS THIS?!{01 00 00 05 00} You\nopened my letter, didn't\nyou? I knew it, {01 00 00 05 00}{04 02 00}!\n{07 15 00}You better watch it. I've \ngot henchmen to deal with \npeople like you.{03 02 00 01}",
-   "et": ""
+   "et": "{07 04 00}Mida?!{01 00 00 0f 00} {07 16 00}MIS SEE ON?!{01 00 00 05 00} Sa\navasid mu kirja, kas\npole? Ma teadsin, {01 00 00 05 00}{04 02 00}!\n{07 15 00}Parem ole ettevaatlik. Mul\non käsilased sinusugustega\ntegelemiseks.{03 02 00 01}"
   },
   {
    "id": 1,
    "en": "{07 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 0b 00}Huh?{01 00 00 0f 00} What's going on\nhere?!{01 00 00 0f 00}{07 15 00} Someone opened this\nletter!\nIs this your dirty deed,\n{01 00 00 05 00}{04 02 00}?! I bet it is.\nIt reeks of {04 1f 00}!\n{07 05 00}You've entered a new world\nof wrath now, {01 00 00 05 00}{04 02 00}!{03 02 00 01}",
-   "et": ""
+   "et": "{07 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 0b 00}Ah?{01 00 00 0f 00} Mis siin\ntoimub?!{01 00 00 0f 00}{07 15 00} Keegi on selle\nkirja avanud!\nKas see on sinu räpane töö,\n{01 00 00 05 00}{04 02 00}?! Vean kihla.\nHaiseb {04 1f 00} järele!\n{07 05 00}Sa astusid nüüd uude\nraevumaailma, {01 00 00 05 00}{04 02 00}!{03 02 00 01}"
   },
   {
    "id": 2,
    "en": "{07 02 00}WHOA, WHOA, WHOA!\nWhat's going on here?!\n\n{07 15 00}The letter has been opened!{01 00 00 05 00}\nWho's been snooping in my\nbusiness, {01 00 00 05 00}{04 02 00}?!\n{07 00 00}{07 15 00}It was YOU! I always knew \nyou were kinda shady,\n{04 1f 00}!{03 02 00 01}",
-   "et": ""
+   "et": "{07 02 00}OOT, OOT, OOT!\nMis siin toimub?!\n\n{07 15 00}Kiri on avatud!{01 00 00 05 00}\nKes on minu asjades\nnuuskinud, {01 00 00 05 00}{04 02 00}?!\n{07 00 00}{07 15 00}See olid SINA! Ma teadsin\nalati, et sa oled hämar,\n{04 1f 00}!{03 02 00 01}"
   }
  ]
 }

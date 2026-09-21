@@ -4,67 +4,67 @@
   {
    "id": 0,
    "en": "{07 0b 00}{01 00 00 05 00}What's your favorite walking\nroute, {01 00 00 05 00}{04 02 00}?{02 01 00 08 09 0a}\nCity streets.\nJungle paths.\nSpacious parks.",
-   "et": ""
+   "et": "{07 0b 00}{01 00 00 05 00}Mis on su lemmik\njalutusrada, {01 00 00 05 00}{04 02 00}?{02 01 00 08 09 0a}\nLinnatänavad.\nDžunglirajad.\nAvarad pargid."
   },
   {
    "id": 1,
    "en": "{06 00 00 0b 0c}",
-   "et": ""
+   "et": "{06 00 00 0b 0c}"
   },
   {
    "id": 2,
    "en": "{07 16 00}Well, {04 1f 00},{01 00 00 05 00} don't\nexpect me to escort you,{01 00 00 0a 00}\n{04 02 00}!\n{07 1b 00}If you want to walk with\nme, you'll have to chase me\ndown or bring me bananas.",
-   "et": ""
+   "et": "{07 16 00}Noh, {04 1f 00},{01 00 00 05 00} ära oota,\net ma sind saadan,{01 00 00 0a 00}\n{04 02 00}!\n{07 1b 00}Kui tahad minuga jalutada,\npead mind taga ajama või\nbanaane tooma."
   },
   {
    "id": 3,
    "en": "{01 00 00 0a 00}{07 1b 00}{01 00 00 05 00}I've been so busy lately\nthat {07 17 00}just going for a nice\nwalk like this is a treat{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.",
-   "et": ""
+   "et": "{01 00 00 0a 00}{07 1b 00}{01 00 00 05 00}Olen viimasel ajal nii\nhõivatud, et {07 17 00}selline mõnus\njalutuskäik on juba pidu{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}."
   },
   {
    "id": 4,
    "en": "{07 15 00}I'm not just out here\nwalking,{01 00 00 0a 00} {04 02 00}! No,\nI've got serious business.\n{07 0a 00}I'm checking to see if\nanyone dropped a\n{04 15 00}!",
-   "et": ""
+   "et": "{07 15 00}Ma ei ole siin lihtsalt\njalutamas,{01 00 00 0a 00} {04 02 00}! Ei,\nmul on tõsine asjaajamine.\n{07 0a 00}Kontrollin, kas keegi on\nmaha pillanud\n{04 15 00}!"
   },
   {
    "id": 5,
    "en": "{07 16 00}Ugh{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00} I missed my chance\nto buy the hot new\n{04 15 00}.{01 00 00 0a 00}\n{07 06 00}I'm so mad at myself,{01 00 00 0a 00} I'm\ntaking a walk to cool off,{01 00 00 0a 00}\n{04 02 00}.",
-   "et": ""
+   "et": "{07 16 00}Öäk{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00} Jäin ilma võimalusest\nosta see uus kuum\n{04 15 00}.{01 00 00 0a 00}\n{07 06 00}Olen enda peale nii vihane,{01 00 00 0a 00}\net käin jahutamas,{01 00 00 0a 00}\n{04 02 00}."
   },
   {
    "id": 6,
    "en": "{07 0e 00}{01 00 00 0a 00}Hmmm{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0f 00} I thought I had\nsomething I needed to do.{01 00 00 0a 00}\nBut maybe{01 00 00 0a 00} I didn't.\n{01 00 00 0a 00}{07 1b 00}{01 00 00 05 00}Whenever I'm out walking,{01 00 00 05 00} I\nalways half-remember stuff\nI totally forgot.",
-   "et": ""
+   "et": "{07 0e 00}{01 00 00 0a 00}Hmmm{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0f 00} Arvasin, et mul\non midagi vaja teha.{01 00 00 0a 00}\nAga ehk{01 00 00 0a 00} polnudki.\n{01 00 00 0a 00}{07 1b 00}{01 00 00 05 00}Alati kui jalutan,{01 00 00 05 00} meenub\nmulle poolikult see, mille\nolin täiesti unustanud."
   },
   {
    "id": 7,
    "en": "{07 14 00}When I'm walking around like\nthis,{01 00 00 0a 00} I start thinking\nabout difficult things.\n{07 00 00}Like this one time{01 00 00 0a 00}, I\ndropped my sandwich in a\npuddle. {01 01 00}{07 09 00}It {01 00 00 0a 00}scarred me.{07 00 00}",
-   "et": ""
+   "et": "{07 14 00}Kui ma niimoodi ringi\njalutan,{01 00 00 0a 00} hakkan mõtlema\nrasketele asjadele.\n{07 00 00}Näiteks kord{01 00 00 0a 00} pillasin oma\nvõileiva lompi. {01 01 00}{07 09 00}See {01 00 00 0a 00}jättis\njälje.{07 00 00}"
   },
   {
    "id": 8,
    "en": "{07 19 00}Yeah, walking along streets\nlined with skyscrapers{01 00 00 0a 00} is\nso cool!{07 00 00}\n{07 0d 00}You're just waiting for a\nsuperhero to fly down and\nswoop you up,{01 00 00 0a 00} {04 02 00}!",
-   "et": ""
+   "et": "{07 19 00}Jah, jalutada tänavatel\npilvelõhkujate vahel{01 00 00 0a 00} on\nnii lahe!{07 00 00}\n{07 0d 00}Ootad, et superkangelane\nalla lendaks ja su\nkaasa haaraks,{01 00 00 0a 00} {04 02 00}!"
   },
   {
    "id": 9,
    "en": "{07 04 00}{01 00 00 0a 00}Oh!{01 00 00 14 00}{07 0d 00} You like oppressively\ndense air dripping with the\nlush scent of foliage!\n{07 14 00}Yeah.{01 00 00 05 00} That just washes away\nthe stress.{01 00 00 0a 00} I mean, I\nimagine it would.",
-   "et": ""
+   "et": "{07 04 00}{01 00 00 0a 00}Oh!{01 00 00 14 00}{07 0d 00} Sulle meeldib rõhuv\ntihe õhk, mis tilgub\nlopsakast lehelõhnast!\n{07 14 00}Jah.{01 00 00 05 00} See uhub stressi\nlihtsalt minema.{01 00 00 0a 00} Ma arvan,\net uhuks."
   },
   {
    "id": 10,
    "en": "{07 14 00}Yeah, {01 00 00 0a 00}{04 02 00}.{01 00 00 14 00} Leisurely\nwalks are best done in a\npark. Alone. With cookies.",
-   "et": ""
+   "et": "{07 14 00}Jah, {01 00 00 0a 00}{04 02 00}.{01 00 00 14 00} Rahulik\njalutus on parim pargis.\nÜksi. Küpsistega."
   },
   {
    "id": 11,
    "en": "{07 14 00}Whenever I'm walking,{01 00 00 0a 00} I can\nforget everything that's\nbothering me{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 00 00}Each step{01 00 00 0a 00} makes me feel\nlighter and lighter, {01 00 00 14 00}until\nfinally, {07 0a 00}I'm just flying!",
-   "et": ""
+   "et": "{07 14 00}Alati kui jalutan,{01 00 00 0a 00} suudan\nunustada kõik, mis mind\nvaevab{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 00 00}Iga samm{01 00 00 0a 00} teeb mind\naina kergemaks, {01 00 00 14 00}kuni\nlõpuks {07 0a 00}ma lihtsalt lendan!"
   },
   {
    "id": 12,
    "en": "{07 14 00}I really like to walk with a\n{04 15 00} in my\nhand!\n{07 19 00}I mean,{01 00 00 05 00} it just seems so\ndeep and mysterious,\ndoesn't it,{01 00 00 05 00} {04 02 00}?{07 00 00}",
-   "et": ""
+   "et": "{07 14 00}Mulle meeldib väga jalutada,\n{04 15 00}\nkäes!\n{07 19 00}Ma mõtlen,{01 00 00 05 00} see tundub nii\nsügav ja salapärane,\nkas pole,{01 00 00 05 00} {04 02 00}?{07 00 00}"
   }
  ]
 }

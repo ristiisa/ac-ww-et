@@ -4,52 +4,52 @@
   {
    "id": 0,
    "en": "Sometimes, {04 1f 00},{01 00 00 0f 00}\nyou find yourself a little\nstrapped for cash.\nIt's no big deal. I mean,\nit happens to everyone\nsometimes, {01 00 00 05 00}{04 02 00}.\nWell let me tell you, if you\nneed some pocket change\nfast, here's a little tip.\n{07 14 00}Collect shells on the beach!\nYou can sell them for some\nquick money, {01 00 00 05 00}{04 02 00}.",
-   "et": ""
+   "et": "Vahel, {04 1f 00},{01 00 00 0f 00}\navastad sa, et sul on\npisut rahapuudus.\nPole hullu. Ma mõtlen,\nseda juhtub kõigiga\nvahel, {01 00 00 05 00}{04 02 00}.\nNoh, las ma ütlen sulle, kui\nsul on kiiresti taskuraha\nvaja, siis siin on vihje.\n{07 14 00}Korja rannalt karpe!\nSa võid neid müüa ja saada\nkiiret raha, {01 00 00 05 00}{04 02 00}."
   },
   {
    "id": 1,
    "en": "{06 08 00 03 04 05 06}",
-   "et": ""
+   "et": "{06 08 00 03 04 05 06}"
   },
   {
    "id": 2,
    "en": "{07 14 00}Pop-quiz time, {04 1f 00}!{01 00 00 0f 00}{07 0b 00}\nWhich of these seashells is\nworth the most?{02 01 00 07 08 09}\nCoral.\nWhite scallop.\nConch.",
-   "et": ""
+   "et": "{07 14 00}Välkküsimuse aeg, {04 1f 00}!{01 00 00 0f 00}{07 0b 00}\nMilline neist merekarpidest\non kõige väärtuslikum?{02 01 00 07 08 09}\nKorall.\nValge kammkarp.\nTõrikodalane."
   },
   {
    "id": 3,
    "en": "{07 14 00}I like to take a nice\nwalk on the beach in the\nmorning, {01 00 00 05 00}{04 02 00}.\n{07 00 00}Some mornings, it's so nice\nand peaceful that you can\nhear just about anything.\n{07 0d 00}Sometimes, I think I hear\nthe sound of the Earth\nrevolving, {01 00 00 05 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 14 00}Mulle meeldib teha kena\njalutuskäik rannas\nhommikul, {01 00 00 05 00}{04 02 00}.\n{07 00 00}Mõnel hommikul on nii kena\nja rahulik, et sa võid\nkuulda peaaegu kõike.\n{07 0d 00}Vahel arvan ma, et kuulen\nMaa pöörlemise\nhäält, {01 00 00 05 00}{04 02 00}!"
   },
   {
    "id": 4,
    "en": "{07 14 00}This is just about the best\ntime to take a walk out\non the beach, {01 00 00 05 00}{04 02 00}.\n{07 0d 00}After an especially busy\nmorning,{01 00 00 05 00} it's nice to spend\nyour day out on the beach.",
-   "et": ""
+   "et": "{07 14 00}See on umbes parim\naeg minna rannas\njalutama, {01 00 00 05 00}{04 02 00}.\n{07 0d 00}Pärast eriti kiiret\nhommikut{01 00 00 05 00} on kena veeta\npäev rannas."
   },
   {
    "id": 5,
    "en": "I've been spending a lot of\ntime at the beach lately,\n{04 1f 00}.\n{07 14 00}It's nice to be out by\nyourself at night on the\nbeach, {01 00 00 05 00}{04 02 00}.\n{07 00 00}Nobody comes around to\nbother you,{01 00 00 05 00} and you can sit\nalone with your thoughts.",
-   "et": ""
+   "et": "Ma olen viimasel ajal palju\naega rannas veetnud,\n{04 1f 00}.\n{07 14 00}On kena olla öösel\nrannas omaette,\n{01 00 00 05 00}{04 02 00}.\n{07 00 00}Keegi ei tule sind\ntülitama,{01 00 00 05 00} ja sa võid istuda\nüksi oma mõtetega."
   },
   {
    "id": 6,
    "en": "{07 16 00}The ocean is so dark this\nlate at night. I feel like it\nmight swallow me whole!\n{07 13 00}It's almost too beautiful.\nIt's almost a little bit\nfrightening, {01 00 00 05 00}{04 02 00}.",
-   "et": ""
+   "et": "{07 16 00}Ookean on nii pime nii\nhilisel ööl. Mul on tunne, et\nsee võib mu alla neelata!\n{07 13 00}See on peaaegu liiga ilus.\nSee on peaaegu pisut\nhirmutav, {01 00 00 05 00}{04 02 00}."
   },
   {
    "id": 7,
    "en": "{07 03 00}Wrong-o!{01 00 00 14 00} {07 14 00}Sorry, but {ff 00 00 07}coral{ff 00 00 00}\nis the wrong answer!\n\nLooks like you've still got\na lot to learn about the\nsea, {04 1f 00}!",
-   "et": ""
+   "et": "{07 03 00}Vale!{01 00 00 14 00} {07 14 00}Vabandust, aga {ff 00 00 07}korall{ff 00 00 00}\non vale vastus!\n\nPaistab, et sul on veel\npalju mere kohta\nõppida, {04 1f 00}!"
   },
   {
    "id": 8,
    "en": "{07 0a 00}Ding ding ding! We have a\nwinner, {01 00 00 05 00}{04 02 00}!\n\n{07 16 00}And you know what? {ff 00 00 07}White\nscallops{ff 00 00 00} are just about the\nhardest shells to find!\n{07 06 00}I've been trying to get\nenough to make a necklace\nfor ages now, {01 00 00 05 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 0a 00}Ding ding ding! Meil on\nvõitja, {01 00 00 05 00}{04 02 00}!\n\n{07 16 00}Ja tead mida? {ff 00 00 07}Valged\nkammkarbid{ff 00 00 00} on umbes kõige\nraskemini leitavad karbid!\n{07 06 00}Ma olen juba ammu üritanud\nsaada piisavalt kaelakee\ntegemiseks, {01 00 00 05 00}{04 02 00}!"
   },
   {
    "id": 9,
    "en": "{07 06 00}Oooo, {01 00 00 0a 00}sorry!{01 00 00 0f 00} You were\nclose, but {ff 00 00 07}{07 16 00}conch {ff 00 00 00}is the\nwrong answer, {01 00 00 05 00}{04 02 00}!\n{07 14 00}To tell you the truth, I\nwish they were worth more.\n{ff 00 00 07}Conchs {ff 00 00 00}are my favorites.\n{07 13 00}When you hold them up to\nyour ear,{01 00 00 0f 00}{07 09 00} you can hear the\nwind echoing in your head.",
-   "et": ""
+   "et": "{07 06 00}Ooo, {01 00 00 0a 00}vabandust!{01 00 00 0f 00} Sa olid\nlähedal, aga {ff 00 00 07}{07 16 00}tõrikodalane {ff 00 00 00}on\nvale vastus, {01 00 00 05 00}{04 02 00}!\n{07 14 00}Ausalt öeldes soovin ma,\net need oleksid kallimad.\n{ff 00 00 07}Need {ff 00 00 00}on mu lemmikud.\n{07 13 00}Kui sa hoiad neid kõrva\nääres,{01 00 00 0f 00}{07 09 00} kuuled sa tuule\nkaja oma peas."
   }
  ]
 }

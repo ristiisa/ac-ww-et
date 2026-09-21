@@ -4,17 +4,17 @@
   {
    "id": 0,
    "en": "I'm sure you can do it \nin {ff 00 00 02}10 minutes{ff 00 00 00}, {01 00 00 05 00}{04 02 00}!",
-   "et": ""
+   "et": "Küll sa saad sellega \n{ff 00 00 02}10 minutiga{ff 00 00 00}, {01 00 00 05 00}{04 02 00}!"
   },
   {
    "id": 1,
    "en": "{07 16 00}You gotta deal with it\nwithin {ff 00 00 02}30 minutes{ff 00 00 00} from now!",
-   "et": ""
+   "et": "{07 16 00}Sa pead sellega hakkama\nsaama {ff 00 00 02}30 minutiga{ff 00 00 00} siit!"
   },
   {
    "id": 2,
    "en": "{07 00 00}As long as you can deliver \nit within {ff 00 00 02}1 hour{ff 00 00 00}, that'll\nbe fine, {01 00 00 05 00}{04 02 00}.",
-   "et": ""
+   "et": "{07 00 00}Kui sa suudad selle \nviia {ff 00 00 02}1 tunniga{ff 00 00 00}, siis on\nkõik hästi, {01 00 00 05 00}{04 02 00}."
   }
  ]
 }

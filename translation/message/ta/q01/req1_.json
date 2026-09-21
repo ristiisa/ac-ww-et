@@ -4,17 +4,17 @@
   {
    "id": 0,
    "en": "{07 00 00}You can hear it, {01 00 00 05 00}but can't\nsee it{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}. That's how bug\ncatching always goes.\n{07 14 00}You try to get the bug to\nspill its secrets,\n{04 1f 00}...\n{07 00 00}Don't you want to know the\n{0b 02 00}{04 1a 00}'s\nsecret?\n{07 14 00}Let's race to see who can\ncatch one first,\n{01 00 00 0a 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 00 00}Sa kuuled seda, {01 00 00 05 00}aga ei\nnäe{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}. Nii käib putukate\npüüdmine alati.\n{07 14 00}Sa üritad panna putukat\noma saladusi rääkima,\n{04 1f 00}...\n{07 00 00}Kas sa ei taha teada\n{0b 02 00}{04 1a 00}\nsaladust?\n{07 14 00}Võistleme, kes suudab\nesimesena ühe püüda,\n{01 00 00 0a 00}{04 02 00}!"
   },
   {
    "id": 1,
    "en": "{07 14 00}What I like best about bug\ncatching is{01 01 00}{07 11 00} the sound of\ndefeat it makes when I win.\nEspecially{01 00 00 0a 00} when I nab one\nthat puts up a fight...like\n{04 1a 00}!\n{07 14 00}Hey, {04 1f 00}, wanna see\nwho can be the first to nab\n{04 1a 00}?",
-   "et": ""
+   "et": "{07 14 00}Mis mulle putukapüügis\nmeeldib,{01 01 00}{07 11 00} on kaotuse\nheli, mille ta võites teeb.\nEriti{01 00 00 0a 00} siis, kui napsan ühe,\nkes vastu paneb...nagu\n{04 1a 00}!\n{07 14 00}Hei, {04 1f 00}, tahad näha,\nkes napsab esimesena\n{04 1a 00}?"
   },
   {
    "id": 2,
    "en": "{07 15 00}{04 0c 00} thinks that bug\ncatching is kids' play.{01 00 00 05 00}\nHmph! Talk about clueless!\n{07 19 00}{01 00 00 05 00}Anybody who says that is a\ntotally uninformed moron\nthat's, like, against fun!{07 15 00}\nSo, {04 1f 00}{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}{07 0b 00}wanna see\njust how fun bug catching\ncan be? {07 00 00}The rules are easy!\nWhoever catches\n{04 1a 00}\nfirst, wins!",
-   "et": ""
+   "et": "{07 15 00}{04 0c 00} arvab, et putukate\npüüdmine on lastemäng.{01 00 00 05 00}\nPff! Milline võhiklikkus!\n{07 19 00}{01 00 00 05 00}Igaüks, kes nii ütleb, on\ntäiesti võhik ja tolvan,\nkes on, nagu, lõbu vastu!{07 15 00}\nNii et, {04 1f 00}{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}{07 0b 00}tahad\nnäha, kui lõbus putukapüük\nolla võib? {07 00 00}Reeglid on\nlihtsad! Kes püüab\nesimesena {04 1a 00}\n, see võidab!"
   }
  ]
 }

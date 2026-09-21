@@ -4,322 +4,322 @@
   {
    "id": 0,
    "en": "I caught a bitterling!{01 00 00 05 00}\n\nSo small, so very bitter!",
-   "et": ""
+   "et": "Püüdsin mõrusilma!{01 00 00 05 00}\n\nNii väike, nii mõru!"
   },
   {
    "id": 1,
    "en": "I caught a pale chub!{01 00 00 05 00}\n\nHm...{01 00 00 05 00} It could use some sun.",
-   "et": ""
+   "et": "Püüdsin säinase!{01 00 00 05 00}\n\nHm...{01 00 00 05 00} Talle kuluks päike."
   },
   {
    "id": 2,
    "en": "I caught a crucian carp!{01 00 00 05 00}\n\nCarpe diem!{01 00 00 05 00}",
-   "et": ""
+   "et": "Püüdsin kogre!{01 00 00 05 00}\n\nKoger kotti!{01 00 00 05 00}"
   },
   {
    "id": 3,
    "en": "I caught a dace!{01 00 00 05 00}\n\nDace in the hole!",
-   "et": ""
+   "et": "Püüdsin turva!{01 00 00 05 00}\n\nTurvaline saak!"
   },
   {
    "id": 4,
    "en": "I caught a barbel steed!{01 00 00 05 00}\n\nI'm not horsin' around!",
-   "et": ""
+   "et": "Püüdsin vurrkala!{01 00 00 05 00}\n\nVurr — ja ongi käes!"
   },
   {
    "id": 5,
    "en": "I caught a carp!{01 00 00 05 00}\n\nCarpe carp!",
-   "et": ""
+   "et": "Püüdsin karpkala!{01 00 00 05 00}\n\nKarpi ja kotti!"
   },
   {
    "id": 6,
    "en": "I caught a koi!{01 00 00 05 00}\n\nDon't be coy! {ff 00 00 04}(Ugh.)",
-   "et": ""
+   "et": "Püüdsin koi!{01 00 00 05 00}\n\nMitte see koi! {ff 00 00 04}(Uhh.)"
   },
   {
    "id": 7,
    "en": "I caught a goldfish!{01 00 00 05 00}\n\nWorth its weight in...fish!",
-   "et": ""
+   "et": "Püüdsin kuldkala!{01 00 00 05 00}\n\nVäärt oma kaalu...kalas!"
   },
   {
    "id": 8,
    "en": "I caught a popeyed goldfish!{01 00 00 05 00}\n\nI think he's in shock!",
-   "et": ""
+   "et": "Püüdsin punnsilmkuldkala!{01 00 00 05 00}\n\nArvan, et ta on šokis!"
   },
   {
    "id": 9,
    "en": "I caught a killifish!{01 00 00 05 00}\n\nWhat's the dilly, fish? {ff 00 00 04}(Ow!)",
-   "et": ""
+   "et": "Püüdsin hambakarpkala!{01 00 00 05 00}\n\nÄra hammusta! {ff 00 00 04}(Ai!)"
   },
   {
    "id": 10,
    "en": "I caught a crawfish!{01 00 00 05 00}\n\nStick THAT in your craw!",
-   "et": ""
+   "et": "Püüdsin jõevähi!{01 00 00 05 00}\n\nVähk on paadis!"
   },
   {
    "id": 11,
    "en": "I caught a frog!{01 00 00 05 00}\n\nLeapin'...lizards?",
-   "et": ""
+   "et": "Püüdsin konna!{01 00 00 05 00}\n\nHüppa...nagu sisalik?"
   },
   {
    "id": 12,
    "en": "I caught a freshwater goby!{01 00 00 05 00}\n\nNow, go be in my pocket!{01 00 00 05 00}",
-   "et": ""
+   "et": "Püüdsin mageveemudila!{01 00 00 05 00}\n\nNüüd mudi mu taskus!{01 00 00 05 00}"
   },
   {
    "id": 13,
    "en": "I caught a loach!{01 00 00 05 00}\n\nI'm the loach coach!{01 00 00 05 00} ",
-   "et": ""
+   "et": "Püüdsin hingi!{01 00 00 05 00}\n\nHinge kinni pidades!{01 00 00 05 00} "
   },
   {
    "id": 14,
    "en": "I caught a catfish!{01 00 00 05 00}\n\nHere, kitty-kitty!",
-   "et": ""
+   "et": "Püüdsin säga!{01 00 00 05 00}\n\nKus-kus, kiisu!"
   },
   {
    "id": 15,
    "en": "I caught an eel!{01 00 00 05 00}\n\nSlippery little sucker!",
-   "et": ""
+   "et": "Püüdsin angerja!{01 00 00 05 00}\n\nLibe väike vennas!"
   },
   {
    "id": 16,
    "en": "I caught a giant snakehead!{01 00 00 05 00}\n\n{01 00 00 05 00}ACK! It's got a huge head!",
-   "et": ""
+   "et": "Püüdsin hiidmaokala!{01 00 00 05 00}\n\n{01 00 00 05 00}AHH! Tal on tohutu pea!"
   },
   {
    "id": 17,
    "en": "I caught a bluegill!{01 00 00 05 00}\n\nWhy's the little guy so sad?",
-   "et": ""
+   "et": "Püüdsin sinilõpuse!{01 00 00 05 00}\n\nMiks see väike nii kurb on?"
   },
   {
    "id": 18,
    "en": "I caught a yellow perch!{01 00 00 05 00}\n\nPerch in my belly!",
-   "et": ""
+   "et": "Püüdsin kollase ahvena!{01 00 00 05 00}\n\nAhven mu kõhtu!"
   },
   {
    "id": 19,
    "en": "I caught a black bass.{01 00 00 05 00}\n\n{01 00 00 05 00}That couldn't BE more bass!",
-   "et": ""
+   "et": "Püüdsin musta ahvena.{01 00 00 05 00}\n\n{01 00 00 05 00}Mustem ei saagi olla!"
   },
   {
    "id": 20,
    "en": "I caught a pond smelt!{01 00 00 05 00}\n\nWhat's the pond smell like?",
-   "et": ""
+   "et": "Püüdsin tiigimeritindi!{01 00 00 05 00}\n\nMis lõhna tiik tunneb?"
   },
   {
    "id": 21,
    "en": "I caught a sweetfish!{01 00 00 05 00}\n\nSweeeeet!",
-   "et": ""
+   "et": "Püüdsin magekala!{01 00 00 05 00}\n\nMaguuuus!"
   },
   {
    "id": 22,
    "en": "I caught a cherry salmon!{01 00 00 05 00}\n\nWeird...{01 00 00 05 00} It smells like fish.",
-   "et": ""
+   "et": "Püüdsin kirsilõhe!{01 00 00 05 00}\n\nImelik...{01 00 00 05 00} Lõhnab kala järele."
   },
   {
    "id": 23,
    "en": "I caught a large char!{01 00 00 05 00}\n\nReady? Set? Char...ge!",
-   "et": ""
+   "et": "Püüdsin suure paalia!{01 00 00 05 00}\n\nValmis? Läks? Paaliaaa!"
   },
   {
    "id": 24,
    "en": "I caught a rainbow trout!{01 00 00 05 00}\n\nA{01 00 00 05 00} trout of many colors!",
-   "et": ""
+   "et": "Püüdsin vikerforelli!{01 00 00 05 00}\n\nPalju{01 00 00 05 00} värve korraga!"
   },
   {
    "id": 25,
    "en": "Whoa.{01 00 00 05 00}.{01 00 00 05 00}.\n\nI caught a stringfish!\nI completely rock!{01 00 00 05 00}\n\nYIPPEEEEEE!",
-   "et": ""
+   "et": "Ohoo.{01 00 00 05 00}.{01 00 00 05 00}.\n\nPüüdsin nöörkala!\nMa olen täielik äss!{01 00 00 05 00}\n\nJIPPIIIII!"
   },
   {
    "id": 26,
    "en": "I caught a salmon!{01 00 00 05 00}\n\nWelcome back!",
-   "et": ""
+   "et": "Püüdsin lõhe!{01 00 00 05 00}\n\nTere tulemast tagasi!"
   },
   {
    "id": 27,
    "en": "Woo hoo!{01 00 00 05 00}\n\nI caught a king salmon!\nAll hail the king!\n\n...For I am the fish king!{00 01 00}",
-   "et": ""
+   "et": "Juhhuu!{01 00 00 05 00}\n\nPüüdsin kuninglõhe!\nElagu kuningas!\n\n...Kalakuningas olen mina!{00 01 00}"
   },
   {
    "id": 28,
    "en": "I caught a guppy!{01 00 00 05 00}\n\nSmall...but what a bite!",
-   "et": ""
+   "et": "Püüdsin guppi!{01 00 00 05 00}\n\nVäike...aga milline haare!"
   },
   {
    "id": 29,
    "en": "I caught an angelfish!{01 00 00 05 00}\n\nHow heavenly!",
-   "et": ""
+   "et": "Püüdsin skalaari!{01 00 00 05 00}\n\nKui taevalik!"
   },
   {
    "id": 30,
    "en": "I caught a piranha!{01 00 00 05 00}\n\nHe'd better not catch me!{00 01 00}",
-   "et": ""
+   "et": "Püüdsin piraaja!{01 00 00 05 00}\n\nParem, kui ta mind ei püüa!{00 01 00}"
   },
   {
    "id": 31,
    "en": "I caught an arowana!{01 00 00 05 00}\n\nIt's golden and beautiful!",
-   "et": ""
+   "et": "Püüdsin arovaana!{01 00 00 05 00}\n\nKuldne ja kaunis!"
   },
   {
    "id": 32,
    "en": "Whoa!{01 00 00 05 00}\n\nA golden fish...!?\nI think this is a dorado!{01 00 00 05 00}\n\nWho knew they lived here!?",
-   "et": ""
+   "et": "Ohoo!{01 00 00 05 00}\n\nKuldne kala...!?\nArvan, et see on dorado!{01 00 00 05 00}\n\nKes teadis, et neid siin on?"
   },
   {
    "id": 33,
    "en": "I caught a gar!{01 00 00 05 00}\n\n...Nose like a GARden hose!",
-   "et": ""
+   "et": "Püüdsin luukala!{01 00 00 05 00}\n\n...Nina nagu aiavoolik!"
   },
   {
    "id": 34,
    "en": "I caught an arapaima!{01 00 00 05 00}\n\nIt's big...and kinda gross!",
-   "et": ""
+   "et": "Püüdsin arapaima!{01 00 00 05 00}\n\nSuur...ja veidi vastik!"
   },
   {
    "id": 35,
    "en": "I caught a sea butterfly!{01 00 00 05 00}\n\nI didn't even use a net!",
-   "et": ""
+   "et": "Püüdsin mereliblika!{01 00 00 05 00}\n\nMa ei kasutanud võrkugi!"
   },
   {
    "id": 36,
    "en": "I caught a jellyfish!{01 00 00 05 00}\n\nI'm in some kind of jam!",
-   "et": ""
+   "et": "Püüdsin meduusi!{01 00 00 05 00}\n\nOlen kimpus!"
   },
   {
    "id": 37,
    "en": "I caught a seahorse!{01 00 00 05 00}\n\nGiddy up! YEE HAW!",
-   "et": ""
+   "et": "Püüdsin merihobukese!{01 00 00 05 00}\n\nNõõ! JUHHUU!"
   },
   {
    "id": 38,
    "en": "I caught a clownfish!{01 00 00 05 00}\n\nWho's laughing now!?",
-   "et": ""
+   "et": "Püüdsin klounkala!{01 00 00 05 00}\n\nKes nüüd naerab!?"
   },
   {
    "id": 39,
    "en": "I caught a zebra\nturkeyfish!{01 00 00 05 00}\nNo gobbling those spines!",
-   "et": ""
+   "et": "Püüdsin sebra-\nleegikala!{01 00 00 05 00}\nÄra neid okkaid neela!"
   },
   {
    "id": 40,
    "en": "I caught a puffer fish!{01 00 00 05 00}\n\nSo cute! SO painful!",
-   "et": ""
+   "et": "Püüdsin kerakala!{01 00 00 05 00}\n\nNii nunnu! NII valus!"
   },
   {
    "id": 41,
    "en": "I caught a horse mackerel!{01 00 00 05 00}\n\nNay!?{01 00 00 05 00} Yay!",
-   "et": ""
+   "et": "Püüdsin stauriidi!{01 00 00 05 00}\n\nEi!?{01 00 00 05 00} Jah!"
   },
   {
    "id": 42,
    "en": "I caught a barred knifejaw!{01 00 00 05 00}\n\n\nWith that jaw, it SHOULD\nbe barred!",
-   "et": ""
+   "et": "Püüdsin triipkala!{01 00 00 05 00}\n\n\nSelliste lõugadega PEAKSKI\ntriibuline olema!"
   },
   {
    "id": 43,
    "en": "I caught a sea bass!{01 00 00 05 00}\n\nNot again!",
-   "et": ""
+   "et": "Püüdsin meriahvena!{01 00 00 05 00}\n\nMitte jälle!"
   },
   {
    "id": 44,
    "en": "I caught a red snapper!{01 00 00 05 00}\n\nOoh, SNAP!",
-   "et": ""
+   "et": "Püüdsin punase ahvena!{01 00 00 05 00}\n\nOoh, punane!"
   },
   {
    "id": 45,
    "en": "I caught a dab...{01 00 00 05 00}\nDidja see it?\nYou {01 00 00 05 00}are a dab, right?",
-   "et": ""
+   "et": "Püüdsin lesta...{01 00 00 05 00}\nKas nägid?\nSa {01 00 00 05 00}oled lest, eks?"
   },
   {
    "id": 46,
    "en": "I caught a dab!{01 00 00 05 00}\n\n\nOh wait...{01 00 00 05 00} Are you an\nolive flounder?{01 00 00 05 00} Oh, yeah,\nyou are, aren't you?",
-   "et": ""
+   "et": "Püüdsin lesta!{01 00 00 05 00}\n\n\nOh oota...{01 00 00 05 00} Kas sa oled\nhiidlest?{01 00 00 05 00} Ah jaa,\noledki, kas pole?"
   },
   {
    "id": 47,
    "en": "I caught a squid!{01 00 00 05 00}\n\nOh, no, I squidn't!",
-   "et": ""
+   "et": "Püüdsin kalmaari!{01 00 00 05 00}\n\nOh ei, peaaegu libises!"
   },
   {
    "id": 48,
    "en": "I caught an octopus!{01 00 00 05 00}\n\nYou're mine, suckers!",
-   "et": ""
+   "et": "Püüdsin kaheksajala!{01 00 00 05 00}\n\nSa oled minu, imikäpp!"
   },
   {
    "id": 49,
    "en": "I caught a football fish!\n\n\nWell, well...{01 00 00 05 00}\n\nYou've come a long way!",
-   "et": ""
+   "et": "Püüdsin õngitsejakala!\n\n\nNoh, noh...{01 00 00 05 00}\n\nSa oled pika tee käinud!"
   },
   {
    "id": 50,
    "en": "I caught a tuna!{01 00 00 05 00}\n\nAnd I'm not talking canned!",
-   "et": ""
+   "et": "Püüdsin tuunikala!{01 00 00 05 00}\n\nJa ma ei räägi konservist!"
   },
   {
    "id": 51,
    "en": "I caught a blue marlin!{01 00 00 05 00}\n\nWhy so blue, marlin?",
-   "et": ""
+   "et": "Püüdsin sinise marliini!{01 00 00 05 00}\n\nMiks nii sinine, marliin?"
   },
   {
    "id": 52,
    "en": "I caught an ocean sunfish!{01 00 00 05 00}\n\nDon't look directly at it!{00 01 00}",
-   "et": ""
+   "et": "Püüdsin kuukala!{01 00 00 05 00}\n\nÄra vaata sellele otse!{00 01 00}"
   },
   {
    "id": 53,
    "en": "I caught a hammerhead\nshark!{01 00 00 05 00}\n\nGot any nails?",
-   "et": ""
+   "et": "Püüdsin haivasara!{01 00 00 05 00}\n\n\nKas naelu on?"
   },
   {
    "id": 54,
    "en": "I caught a shark!{01 00 00 05 00}\n\nIt was a shark attack!",
-   "et": ""
+   "et": "Püüdsin hai!{01 00 00 05 00}\n\nSee oli hairünnak!"
   },
   {
    "id": 55,
    "en": "Whoa! Whoa! Whoa!{01 00 00 05 00}\n\nI caught a living fossil!{01 00 00 05 00}\nAmazing!{01 00 00 05 00}\nWhat were you doing down\nthere?",
-   "et": ""
+   "et": "Ohoo! Ohoo! Ohoo!{01 00 00 05 00}\n\nPüüdsin elava fossiili!{01 00 00 05 00}\nHämmastav!{01 00 00 05 00}\nMida sa seal all\ntegid?"
   },
   {
    "id": 56,
    "en": "I caught a tin can!{01 00 00 05 00}\n\nYou CAN't litter!",
-   "et": ""
+   "et": "Püüdsin plekkpurgi!{01 00 00 05 00}\n\nPrahti ei tohi visata!"
   },
   {
    "id": 57,
    "en": "I caught a boot!{01 00 00 05 00}\n\nKeep our waters clean!",
-   "et": ""
+   "et": "Püüdsin saapa!{01 00 00 05 00}\n\nHoidke meie veed puhtad!"
   },
   {
    "id": 58,
    "en": "I caught a tire!{01 00 00 05 00}\n\nIs this from Gracie's car!?",
-   "et": ""
+   "et": "Püüdsin rehvi!{01 00 00 05 00}\n\nKas see on Gracie autolt!?"
   },
   {
    "id": 60,
    "en": "But{01 00 00 05 00} I can't hold any more!{01 00 00 05 00}\n\n{01 00 00 05 00}I guess{01 00 00 05 00} I have to let it go.",
-   "et": ""
+   "et": "Aga{01 00 00 05 00} ma ei jaksa rohkem!{01 00 00 05 00}\n\n{01 00 00 05 00}Vist{01 00 00 05 00} pean ta lahti laskma."
   },
   {
    "id": 61,
    "en": "But{01 00 00 05 00} I can't hold any more!{01 00 00 05 00}\n\nShould I swap it?{02 00 00 00 00}\nSwap!\nRelease!",
-   "et": ""
+   "et": "Aga{01 00 00 05 00} ma ei jaksa rohkem!{01 00 00 05 00}\n\nKas vahetan?{02 00 00 00 00}\nVaheta!\nLase lahti!"
   },
   {
    "id": 62,
    "en": "But you can't hold any\nmore! Wanna swap it?{02 00 00 00 00}\nSwap it!\nDrop it!",
-   "et": ""
+   "et": "Aga sa ei jaksa rohkem\nkanda! Kas vahetad?{02 00 00 00 00}\nVaheta ära!\nViska maha!"
   },
   {
    "id": 63,
    "en": "Hey, you got\n{04 1a 00}!\nThat means...",
-   "et": ""
+   "et": "Hei, sa said\n{04 1a 00}!\nSee tähendab..."
   },
   {
    "id": 64,
    "en": "\n{01 08 00}Right on!\n\nI caught every kind of fish!",
-   "et": ""
+   "et": "\n{01 08 00}Just nii!\n\nPüüdsin kõiki kalaliike!"
   }
  ]
 }

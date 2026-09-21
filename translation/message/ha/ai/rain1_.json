@@ -4,62 +4,62 @@
   {
    "id": 0,
    "en": "{07 14 00}{0b 03 00}{01 06 00}G'mornin'{01 07 00}!{01 00 00 0f 00}\n{07 16 00}Actually, no, it's not good!{01 00 00 05 00}\nWhat's up with the weather?\n{07 0f 00}It's tough to get motivated\nto lift on cruddy days like\ntoday, {01 00 00 05 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 14 00}{0b 03 00}{01 06 00}Tere hommikust{01 07 00}!{01 00 00 0f 00}\n{07 16 00}Õigemini ei, pole hea!{01 00 00 05 00}\nMis selle ilmaga on?\n{07 0f 00}Sellistel nõmedatel päevil\non raske end tõstma\nmotiveerida, {01 00 00 05 00}{04 02 00}!"
   },
   {
    "id": 1,
    "en": "{07 14 00}You taking care of business,{01 00 00 0a 00}\n{04 1f 00}?\n\n{07 00 00}Yeah, well, I'm TRYING to.{01 00 00 05 00}\nWith ground this muddy,{01 00 00 05 00}\n{07 14 00}today's MADE for rugby!",
-   "et": ""
+   "et": "{07 14 00}Kas sa ajad asju,{01 00 00 0a 00}\n{04 1f 00}?\n\n{07 00 00}Jah, noh, ma ÜRITAN.{01 00 00 05 00}\nNii mudase maaga{01 00 00 05 00}\n{07 14 00}on täna ragbi jaoks LOODUD!"
   },
   {
    "id": 2,
    "en": "{07 14 00}Hey, how's your morning,{01 00 00 0a 00}\n{04 1f 00}?\n\n{07 16 00}I went jogging this morning,\nand my shoes got all muddy!{01 00 00 05 00}\nNasty, {01 00 00 05 00}{04 02 00}!\n{07 04 00}Wait, extra mud means\nextra weight{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}which means\nextra muscle, {01 00 00 05 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 14 00}Hei, kuidas su hommik,{01 00 00 0a 00}\n{04 1f 00}?\n\n{07 16 00}Ma käisin täna sörkimas\nja tossud läksid poriseks!{01 00 00 05 00}\nJälk, {01 00 00 05 00}{04 02 00}!\n{07 04 00}Oota, lisapori tähendab\nlisakaalu{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}mis tähendab\nlisalihast, {01 00 00 05 00}{04 02 00}!"
   },
   {
    "id": 3,
    "en": "{07 16 00}Man, when I do crunches in\nthe rain,{01 00 00 05 00} I can't tell if\nI'm sweating or just wet.\n{07 0f 00}It stinks!{01 00 00 05 00} Without my own\nsweat meter, how do I know\nif I'm working to the max?\n{07 06 00}That's when I tell myself\nit'd help if {04 1f 00}\nworked out with me!",
-   "et": ""
+   "et": "{07 16 00}Mees, kui teen vihmas\nkõhulihaseid,{01 00 00 05 00} ei saa ma aru,\nkas higistan või olen märg.\n{07 0f 00}See on nõme!{01 00 00 05 00} Ilma oma\nhigimõõdikuta, kuidas ma\ntean, kas annan maksimumi?\n{07 06 00}Siis ütlen ma endale, et\naitaks, kui {04 1f 00}\nminuga koos treeniks!"
   },
   {
    "id": 4,
    "en": "{07 14 00}{0b 03 00}{01 06 00}Yo, yo, yo{01 07 00}!{01 00 00 0a 00}\nIt's {ff 00 00 05}{04 1f 00}{ff 00 00 00}!\n\n{07 0b 00}Are you{01 00 00 05 00} down with rain,\n{01 00 00 05 00}{04 02 00}?\n\n{07 00 00}Me, I love it!{01 00 00 05 00} When my shirt\ngets all wet and clingy,{01 00 00 05 00}\n{07 14 00}my muscles look bigger!",
-   "et": ""
+   "et": "{07 14 00}{0b 03 00}{01 06 00}Jou, jou, jou{01 07 00}!{01 00 00 0a 00}\nSee on {ff 00 00 05}{04 1f 00}{ff 00 00 00}!\n\n{07 0b 00}Kas sa{01 00 00 05 00} oled vihmaga rahul,\n{01 00 00 05 00}{04 02 00}?\n\n{07 00 00}Ma armastan seda!{01 00 00 05 00} Kui särk\nläheb märjaks ja kleepub,{01 00 00 05 00}\n{07 14 00}näevad mu lihased suuremad!"
   },
   {
    "id": 5,
    "en": "{07 14 00}Whoa! {01 00 00 05 00}{0b 03 00}{04 1f 00}!{01 00 00 0a 00}\nYou're all covered in\nsweat, {01 00 00 05 00}{04 02 00}!\n{07 06 00}You doing extra workouts?{01 00 00 05 00}\nMan, your muscles are gonna\nget more cut than mine!\n{07 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 01 00}Oh, wait! That's rain?{01 01 00}\n{07 15 00}My bad, {04 1f 00}.{01 00 00 05 00}\nStupid! Stupid! Stupid!",
-   "et": ""
+   "et": "{07 14 00}Ohoo! {01 00 00 05 00}{0b 03 00}{04 1f 00}!{01 00 00 0a 00}\nSa oled üleni higine,\n{01 00 00 05 00}{04 02 00}!\n{07 06 00}Kas sa teed lisatrenne?{01 00 00 05 00}\nMees, su lihased lähevad\nminu omadest krussisemaks!\n{07 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 01 00}Oh, oota! See on vihm?{01 01 00}\n{07 15 00}Minu viga, {04 1f 00}.{01 00 00 05 00}\nLoll! Loll! Loll!"
   },
   {
    "id": 6,
    "en": "{07 14 00}How's the evening going,{01 00 00 0a 00}\n{ff 00 00 05}{04 1f 00}{ff 00 00 00}?\n\n{07 16 00}I didn't see you out, so\nI thought you caught a \ncold and were in bed.\n{07 14 00}But hey, you're looking\nfine, {01 00 00 05 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 14 00}Kuidas õhtu läheb,{01 00 00 0a 00}\n{ff 00 00 05}{04 1f 00}{ff 00 00 00}?\n\n{07 16 00}Ma ei näinud sind väljas,\nnii et arvasin, et sa jäid \nkülmetusse ja oled voodis.\n{07 14 00}Aga hei, sa näed hea\nvälja, {01 00 00 05 00}{04 02 00}!"
   },
   {
    "id": 7,
    "en": "{07 14 00}{0b 03 00}{01 06 00}Yo, wassup{01 07 00}!{01 00 00 0a 00}\nIt's good old {04 1f 00},\n{01 00 00 05 00}{04 02 00}!\nDoesn't matter if it's\nraining{01 00 00 05 00} or pitch black\noutside...\n{07 0d 00}I still get the urge to\nget up, do some stretches,\nand {04 22 00}!",
-   "et": ""
+   "et": "{07 14 00}{0b 03 00}{01 06 00}Jou, mis toimub{01 07 00}!{01 00 00 0a 00}\nSee on vana hea {04 1f 00},\n{01 00 00 05 00}{04 02 00}!\nPole tähtis, kas väljas\nsajab{01 00 00 05 00} või on pilkane\npimedus...\n{07 0d 00}Mul tekib ikka tahtmine\nüles tõusta, venitada\nja {04 22 00}!"
   },
   {
    "id": 8,
    "en": "{07 14 00}{0b 03 00}{01 06 00}Hey, hey{01 07 00}!{01 00 00 0f 00}\nThe savage drops of night\nrain don't scare me!\n{07 00 00}I'll wear what I want and\nDO whatever I want,\n{01 00 00 05 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 14 00}{0b 03 00}{01 06 00}Hei, hei{01 07 00}!{01 00 00 0f 00}\nÖise vihma metsikud\npiisad ei hirmuta mind!\n{07 00 00}Ma kannan, mida tahan, ja\nTEEN, mida tahan,\n{01 00 00 05 00}{04 02 00}!"
   },
   {
    "id": 9,
    "en": "{07 14 00}{0b 03 00}{01 06 00}Whoa{01 07 00}!{01 00 00 0a 00}\n{07 0b 00}{0b 03 00}{04 1f 00}, {01 00 00 05 00}{04 02 00}?\n\nYou planning to practice\n{04 16 00}{01 00 00 05 00} in this\nweather or something?",
-   "et": ""
+   "et": "{07 14 00}{0b 03 00}{01 06 00}Ohoo{01 07 00}!{01 00 00 0a 00}\n{07 0b 00}{0b 03 00}{04 1f 00}, {01 00 00 05 00}{04 02 00}?\n\nKas sa plaanid harjutada\n{04 16 00}{01 00 00 05 00} sellise\nilmaga või midagi?"
   },
   {
    "id": 10,
    "en": "{07 04 00}Yo, {01 00 00 05 00}{04 1f 00}!{01 00 00 0a 00}\n{07 14 00}How's this nasty old night\ntreating you, {01 00 00 05 00}{04 02 00}?\n{07 00 00}So, did you{01 00 00 05 00} brave this\ndownpour just to see me?!\n\n{07 06 00}Whoa!{01 00 00 0a 00} That's so...{01 00 00 0f 00}\n{07 08 00}I think I'm gonna cry!",
-   "et": ""
+   "et": "{07 04 00}Jou, {01 00 00 05 00}{04 1f 00}!{01 00 00 0a 00}\n{07 14 00}Kuidas see jälk öö\nsind kohtleb, {01 00 00 05 00}{04 02 00}?\n{07 00 00}Nii et, kas sa{01 00 00 05 00} trotsisid\npaduvihma minu pärast?!\n\n{07 06 00}Ohoo!{01 00 00 0a 00} See on nii...{01 00 00 0f 00}\n{07 08 00}Ma vist hakkan nutma!"
   },
   {
    "id": 11,
    "en": "{07 02 00}Hey, {01 00 00 05 00}{04 1f 00}!{01 01 00}\n{07 16 00}Creeping around on a\nstormy night is NOT cool!\nI think I swallowed the\n{04 19 00} that was\nin my mouth!",
-   "et": ""
+   "et": "{07 02 00}Hei, {01 00 00 05 00}{04 1f 00}!{01 01 00}\n{07 16 00}Tormisel ööl hiilimine\nEI OLE lahe!\nMa vist neelasin alla\n{04 19 00}, mis mul\nsuus oli!"
   }
  ]
 }

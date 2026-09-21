@@ -4,17 +4,17 @@
   {
    "id": 0,
    "en": "{07 14 00}OK then, {01 00 00 05 00}later on,\n{01 00 00 05 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 14 00}Olgu siis, {01 00 00 05 00}näeme hiljem,\n{01 00 00 05 00}{04 02 00}!"
   },
   {
    "id": 1,
    "en": "{07 14 00}OK, catch you later,\n{01 00 00 05 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 14 00}Olgu, näeme hiljem,\n{01 00 00 05 00}{04 02 00}!"
   },
   {
    "id": 2,
    "en": "{07 14 00}I'll come to you next time,\ntoo, {01 00 00 05 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 14 00}Ma tulen järgmine kord ka\nsinu juurde, {01 00 00 05 00}{04 02 00}!"
   }
  ]
 }

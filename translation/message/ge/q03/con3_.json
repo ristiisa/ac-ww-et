@@ -4,17 +4,17 @@
   {
    "id": 0,
    "en": "{07 1d 00}What's this?! {01 00 00 05 00}A lovely\n{ff 00 00 02}{04 0f 00} {ff 00 00 00}part!\n{01 00 00 14 00}{07 0f 00}.{01 00 00 05 00}.{01 00 00 05 00}.Oh.\n{07 16 00}It's just a rock!{01 00 00 0f 00} {07 06 00}Stupid\nlack of fossils,{01 00 00 05 00} making me\nall upset!",
-   "et": ""
+   "et": "{07 1d 00}Mis see on?! {01 00 00 05 00}Armas\n{ff 00 00 02}{04 0f 00} {ff 00 00 00}osa!\n{01 00 00 14 00}{07 0f 00}.{01 00 00 05 00}.{01 00 00 05 00}.Oh.\n{07 16 00}See on lihtsalt kivi!{01 00 00 0f 00} {07 06 00}Rumal\nfossiilide puudus,{01 00 00 05 00} teeb mu\ntäitsa tujutuks!"
   },
   {
    "id": 1,
    "en": "{07 05 00}Look.{01 00 00 05 00} What.{01 00 00 05 00} I.{01 00 00 05 00} Want.{01 00 00 05 00} Is...{01 00 00 05 00} A\nnice {ff 00 00 02}{04 0f 00}{ff 00 00 00}\nfossil, {04 02 00}!\n{07 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 04 00}Wha--?!{01 00 00 0a 00} I have bloodshot\neyes?{01 00 00 0a 00} {07 1d 00}Uh...no I don't!\nI TOTALLY DO NOT!\n{07 06 00}It's not like I've been\nsitting here crying without\nmy fossil!{01 00 00 0f 00} ...Sniff...",
-   "et": ""
+   "et": "{07 05 00}Vaata.{01 00 00 05 00} Mida.{01 00 00 05 00} Ma.{01 00 00 05 00} Tahan.{01 00 00 05 00} On...{01 00 00 05 00}\nKena {ff 00 00 02}{04 0f 00}{ff 00 00 00}\nfossiil, {04 02 00}!\n{07 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 04 00}Mi--?!{01 00 00 0a 00} Mul on verised\nsilmad?{01 00 00 0a 00} {07 1d 00}Öö...ei ole!\nMul TÄIESTI POLE!\n{07 06 00}Pole ju nii, et ma oleksin\nsiin istunud ja nutnud ilma\nfossiilita!{01 00 00 0f 00} ...Nuuks..."
   },
   {
    "id": 2,
    "en": "{07 0d 00}Fossil,{01 00 00 03 00} fossil,{01 00 00 03 00} I love you...{01 00 00 05 00}\n{0b 03 00}{ff 00 00 02}{04 0f 00}{ff 00 00 00} \nbones...{01 00 00 05 00} La la la...{00 01 00}\n{07 0a 00}C'mon!{01 00 00 0a 00} You gotta sing with\nme, {01 00 00 05 00}{04 02 00}! We'll sing\na fossil out of the ground!",
-   "et": ""
+   "et": "{07 0d 00}Fossiil,{01 00 00 03 00} fossiil,{01 00 00 03 00} ma\narmastan sind...{01 00 00 05 00} {0b 03 00}{ff 00 00 02}{04 0f 00}{ff 00 00 00} \nkondid...{01 00 00 05 00} La la laa...{00 01 00}\n{07 0a 00}Tule!{01 00 00 0a 00} Sa pead minuga kaasa\nlaulma, {01 00 00 05 00}{04 02 00}! Me laulame\nfossiili maa seest välja!"
   }
  ]
 }

@@ -4,17 +4,17 @@
   {
    "id": 0,
    "en": "{07 06 00}Hey! {01 00 00 05 00}Whoa whoa whoa!{01 00 00 14 00}\n{07 09 00}Man, that is NOT cool!\n\n{07 15 00}I mean, it was from me!{01 00 00 05 00} ME!{01 00 00 05 00}\nThat joker shoulda at least\nPRETENDED it was rad!",
-   "et": ""
+   "et": "{07 06 00}Hei! {01 00 00 05 00}Ohoo ohoo ohoo!{01 00 00 14 00}\n{07 09 00}Mees, see EI OLE lahe!\n\n{07 15 00}See oli ju minult!{01 00 00 05 00} MINULT!{01 00 00 05 00}\nSee naljamees oleks võinud\nvähemalt rõõmu TEESELDA!"
   },
   {
    "id": 1,
    "en": "{07 18 00}Wait, are you SERIOUS?!{01 01 00}\n{07 15 00}That was supposed to be\nthat idiot's favorite!\n{07 0e 00}Talk about weirdness{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 14 00}\nDid I send it to the wrong\nperson, ya think?",
-   "et": ""
+   "et": "{07 18 00}Oota, kas sa TÕSISELT?!{01 01 00}\n{07 15 00}See pidi olema selle\ntolvani lemmik!\n{07 0e 00}Räägi veel imelikkusest{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 14 00}\nKas ma saatsin selle valele\ninimesele, mis arvad?"
   },
   {
    "id": 2,
    "en": "{07 02 00}Whaaaaaat?! {01 00 00 05 00}For real?!{01 00 00 0a 00}\nWhoa, {01 00 00 05 00}{04 02 00}!\n\n{07 15 00}{0b 03 00}{ff 00 00 06}{04 10 00} {ff 00 00 00}must be\ngetting ornery with age!",
-   "et": ""
+   "et": "{07 02 00}Midaaaaa?! {01 00 00 05 00}Päriselt?!{01 00 00 0a 00}\nOhoo, {01 00 00 05 00}{04 02 00}!\n\n{07 15 00}{0b 03 00}{ff 00 00 06}{04 10 00} {ff 00 00 00}läheb vanusega\nvist tõrksaks!"
   }
  ]
 }

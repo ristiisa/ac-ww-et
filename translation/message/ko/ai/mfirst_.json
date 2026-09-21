@@ -4,47 +4,47 @@
   {
    "id": 0,
    "en": "Yo!{01 00 00 14 00} I'm {04 01 00} and, in\ncase you couldn't tell,{01 00 00 05 00} I'm\nnew here, {01 00 00 05 00}{04 02 00}. \n{07 19 00}Before I moved here, I lived\nin {ff 00 00 08}{04 10 00}{ff 00 00 00}. {07 14 00}Hey, {01 00 00 05 00}nice\nto meet you.",
-   "et": ""
+   "et": "Jou!{01 00 00 14 00} Olen {04 01 00} ja,\nkui sa ei märganud,{01 00 00 05 00} olen\nsiin uus, {01 00 00 05 00}{04 02 00}. \n{07 19 00}Enne siia kolimist elasin\nma {ff 00 00 08}{04 10 00}{ff 00 00 00}-s. {07 14 00}Hei, {01 00 00 05 00}on\nmeeldiv tutvuda."
   },
   {
    "id": 1,
    "en": "Whoa!{01 00 00 0f 00}{07 0b 00} You there! Who are\nyou? {07 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{0b 03 00}{04 1f 00}, huh?{01 00 00 14 00}\n{07 14 00}That's a nice name you got.\n{07 00 00}I'm {04 01 00}!{01 00 00 14 00} I used to\nlive in a town called\n{ff 00 00 08}{04 10 00}{ff 00 00 00}, {01 00 00 05 00}{04 02 00}.\nYeah{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} {07 19 00}You can call me{01 00 00 05 00}\n{04 01 00} the Great!",
-   "et": ""
+   "et": "Ohoo!{01 00 00 0f 00}{07 0b 00} Hei sina! Kes sa\noled? {07 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{0b 03 00}{04 1f 00}, mis?{01 00 00 14 00}\n{07 14 00}Sul on kena nimi.\n{07 00 00}Olen {04 01 00}!{01 00 00 14 00} Ma elasin\nvarem linnas nimega\n{ff 00 00 08}{04 10 00}{ff 00 00 00}, {01 00 00 05 00}{04 02 00}.\nJah{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} {07 19 00}Võid mind kutsuda{01 00 00 05 00}\n{04 01 00} Suureks!"
   },
   {
    "id": 2,
    "en": "Oh! Hi.{01 00 00 14 00} I'm {04 01 00}!\nUntil a little while ago,{01 00 00 05 00}\nI lived in {ff 00 00 08}{04 10 00}{ff 00 00 00}.\n{07 00 00}So you're{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0f 00}{04 1f 00},\nhuh? OK, {01 00 00 05 00}{04 02 00}.\n{07 19 00}You're from {04 03 00}.\nYou must be a local, then.\n{07 14 00}It's nice to meet someone\n{01 00 00 05 00}who's been here a while.",
-   "et": ""
+   "et": "Oh! Tere.{01 00 00 14 00} Olen {04 01 00}!\nKuni hiljutise ajani{01 00 00 05 00}\nelasin ma {ff 00 00 08}{04 10 00}{ff 00 00 00}-s.\n{07 00 00}Nii et sa oled{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0f 00}{04 1f 00},\nmis? Olgu, {01 00 00 05 00}{04 02 00}.\n{07 19 00}Sa oled {04 03 00}-st.\nSiis oled sa vist kohalik.\n{07 14 00}Meeldiv kohata kedagi,\n{01 00 00 05 00}kes on siin kaua olnud."
   },
   {
    "id": 3,
    "en": "{07 04 00}Oh!{01 00 00 0f 00} Hey!{01 00 00 0f 00} What's the deal?!{01 00 00 14 00}\n{07 11 00}What do you want?!{01 00 00 14 00} Huh?!\nAnswer me!\n{07 00 00}Oh, {01 00 00 0f 00}shoot, {01 00 00 05 00}my bad.{01 00 00 05 00} I don't\nmean you any harm,{01 00 00 14 00} I just\ntend to bark a lot.\n{07 14 00}My name is {04 01 00}, and\nI like to {04 22 00},{01 00 00 05 00}\nand that's all!\nWell, no, there's one more\nthing. Before I moved here,\nI lived in {ff 00 00 08}{04 10 00}{ff 00 00 00}!\n{07 19 00}Well, it's {01 00 00 05 00}nice to meet you!\n{01 00 00 05 00}{0b 03 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 04 00}Oh!{01 00 00 0f 00} Hei!{01 00 00 0f 00} Mis see on?!{01 00 00 14 00}\n{07 11 00}Mida sa tahad?!{01 00 00 14 00} Ah?!\nVasta mulle!\n{07 00 00}Oh, {01 00 00 0f 00}pagan, {01 00 00 05 00}mu viga.{01 00 00 05 00} Ma ei\ntaha halba,{01 00 00 14 00} ma lihtsalt\nhaugun palju.\n{07 14 00}Mu nimi on {04 01 00} ja\nmulle meeldib {04 22 00},{01 00 00 05 00}\nja see on kõik!\nNoh, ei, on veel üks asi.\nEnne siia kolimist elasin\nma {ff 00 00 08}{04 10 00}{ff 00 00 00}-s!\n{07 19 00}Noh, {01 00 00 05 00}meeldiv tutvuda!\n{01 00 00 05 00}{0b 03 00}{04 02 00}!"
   },
   {
    "id": 4,
    "en": "{07 01 00}What?!{01 00 00 0f 00} You! There!{01 00 00 14 00} With the\nthumbs! What do you think\nyou're looking at?!{01 00 00 05 00}\n{07 00 00}Don't you know{01 00 00 0f 00} that when\nyou meet someone, you\nshould--{01 00 00 05 00}{07 16 00} Oh, {07 00 00}wait.\nI'm {04 01 00} from\n{ff 00 00 08}{04 10 00}{ff 00 00 00}, {01 00 00 05 00}{04 02 00}.\n\n{07 14 00}Yeah, {01 00 00 05 00}I'm not the most\npolite guy in town, but it's{01 00 00 05 00}\nnice to meet you!",
-   "et": ""
+   "et": "{07 01 00}Mida?!{01 00 00 0f 00} Sina! Seal!{01 00 00 14 00} Pöidla-\ntega! Mida sa arvad, et sa\nvaatad?!{01 00 00 05 00}\n{07 00 00}Kas sa ei tea,{01 00 00 0f 00} et kui sa\nkedagi kohtad, peaksid\nsa--{01 00 00 05 00}{07 16 00} Oh, {07 00 00}oota.\nOlen {04 01 00} linnast\n{ff 00 00 08}{04 10 00}{ff 00 00 00}, {01 00 00 05 00}{04 02 00}.\n\n{07 14 00}Jah, {01 00 00 05 00}ma pole linna kõige\nviisakam tüüp, aga{01 00 00 05 00}\nmeeldiv tutvuda!"
   },
   {
    "id": 5,
    "en": "{07 0b 00}Huh? {01 00 00 0f 00}Hey you!{01 00 00 0f 00} {07 00 00}This is the\nfirst time we've met,\n{01 00 00 05 00}{04 02 00}.\nI'm {04 01 00} from\n{ff 00 00 08}{04 10 00}.{ff 00 00 00}{01 00 00 0f 00} {07 11 00}You got\nsomethin' to say to me?!\nWell?{01 00 00 0a 00}{07 00 00} No? Nothing?{01 00 00 0f 00} Aw, all\nright then.{01 00 00 14 00} {07 14 00}Later, then,\n{01 00 00 05 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 0b 00}Ah? {01 00 00 0f 00}Hei sina!{01 00 00 0f 00} {07 00 00}See on\nesimene kord, kui kohtume,\n{01 00 00 05 00}{04 02 00}.\nOlen {04 01 00} linnast\n{ff 00 00 08}{04 10 00}.{ff 00 00 00}{01 00 00 0f 00} {07 11 00}Kas sul on\nmulle midagi öelda?!\nNoh?{01 00 00 0a 00}{07 00 00} Ei? Mitte midagi?{01 00 00 0f 00} Ah,\nolgu siis.{01 00 00 14 00} {07 14 00}Näeme siis,\n{01 00 00 05 00}{04 02 00}!"
   },
   {
    "id": 7,
    "en": "{07 04 00}WHAT?! {01 00 00 0a 00}{0b 03 00}{04 1f 00}?!{01 00 00 14 00}\nWhat the HECK are you doing\nback here, {01 00 00 05 00}{04 02 00}?!\n{07 01 00}When you leave a place,{01 00 00 05 00} you\ncan't just expect that\npeople won't move on!",
-   "et": ""
+   "et": "{07 04 00}MIDA?! {01 00 00 0a 00}{0b 03 00}{04 1f 00}?!{01 00 00 14 00}\nMida KURAT sa siin tagasi\nteed, {01 00 00 05 00}{04 02 00}?!\n{07 01 00}Kui sa kuskilt lahkud,{01 00 00 05 00} ei\nsaa sa oodata, et\ninimesed edasi ei liigu!"
   },
   {
    "id": 8,
    "en": "{07 04 00}Yo, {01 00 00 05 00}{04 1f 00}!{01 00 00 14 00} I heard\nyou moved! {01 01 00}But just look\nat you now!\n{07 11 00}I always knew you'd come\ncrawling back! {01 00 00 0a 00}{07 03 00}You're so\npredictable, {01 00 00 05 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 04 00}Jou, {01 00 00 05 00}{04 1f 00}!{01 00 00 14 00} Ma kuulsin,\net sa kolisid! {01 01 00}Aga vaata\nend nüüd!\n{07 11 00}Ma teadsin alati, et sa\nroomad tagasi! {01 00 00 0a 00}{07 03 00}Sa oled nii\netteaimatav, {01 00 00 05 00}{04 02 00}!"
   },
   {
    "id": 9,
    "en": "Oh!{01 00 00 14 00} Hey,{01 00 00 05 00} I heard you moved.{01 00 00 05 00}\nBut here you are, back\nagain.{01 01 00}{07 01 00}{01 08 00} WHY?!\nYou better not expect any\nhandouts from me! {01 00 00 05 00}Nope,\nthat train's long gone!",
-   "et": ""
+   "et": "Oh!{01 00 00 14 00} Hei,{01 00 00 05 00} sa vist kolisid.{01 00 00 05 00}\nAga siin sa oled, jälle\ntagasi.{01 01 00}{07 01 00}{01 08 00} MIKS?!\nÄra looda minult mingeid\nalmuseid! {01 00 00 05 00}Ei, see rong\non ammu läinud!"
   }
  ]
 }

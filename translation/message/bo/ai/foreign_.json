@@ -4,32 +4,32 @@
   {
    "id": 0,
    "en": "{07 14 00}Hey, long time no see.{01 00 00 14 00} {07 0e 00}{01 00 00 0a 00}Uh,\nyou're{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 14 00}{07 0c 00}{01 01 00}{07 14 00}{0b 03 00}{04 1f 00},{01 00 00 0a 00}\nright? {0b 03 00}{04 02 00}!\n{07 19 00}The last time I saw you was\nin {ff 00 00 08}{04 10 00}{ff 00 00 00}, wasn't it,\n{01 00 00 05 00}{04 02 00}?{07 00 00}\n{07 00 00}I know I can be a dork,{01 00 00 0a 00}{07 14 00}\nbut I look forward to\nseeing more of you!",
-   "et": ""
+   "et": "{07 14 00}Hei, ammu pole näinud.{01 00 00 14 00} {07 0e 00}{01 00 00 0a 00}Ee,\nsa oled{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 14 00}{07 0c 00}{01 01 00}{07 14 00}{0b 03 00}{04 1f 00},{01 00 00 0a 00}\neks? {0b 03 00}{04 02 00}!\n{07 19 00}Viimati nägin sind\nlinnas {ff 00 00 08}{04 10 00}{ff 00 00 00}, eks,\n{01 00 00 05 00}{04 02 00}?{07 00 00}\n{07 00 00}Tean, et olen kohmakas,{01 00 00 0a 00}{07 14 00}\naga ootan, et sind\nrohkem näeksin!"
   },
   {
    "id": 1,
    "en": "{07 04 00}Whoa!{01 00 00 0a 00} {0b 03 00}{04 1f 00}!{01 00 00 14 00} {07 14 00}I haven't\nseen you in a while!{01 00 00 0a 00}\n{07 0d 00}It's me!{01 00 00 05 00} {04 01 00}!\nI did the {04 18 00}\ntoast in {ff 00 00 08}{04 10 00}{ff 00 00 00}{01 00 00 05 00}.\n{07 00 00}Remember?\n{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{07 15 00}I don't believe this!{01 00 00 0a 00}\nYou already forgot about\nit,{01 00 00 0a 00} {04 02 00}?!\n{07 0a 00}Then next time{01 00 00 0a 00} I'll do a\ntoast with diet\n{04 18 00}!\n{07 00 00}{07 11 00}It'll burn a memory of me\ninto your brain{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}and your\nstomach,{01 00 00 0a 00} {04 02 00}.",
-   "et": ""
+   "et": "{07 04 00}Ohoo!{01 00 00 0a 00} {0b 03 00}{04 1f 00}!{01 00 00 14 00} {07 14 00}Pole sind\nammu näinud!{01 00 00 0a 00}\n{07 0d 00}See olen mina!{01 00 00 05 00} {04 01 00}!\nMa tegin {04 18 00}\ntoosti linnas {ff 00 00 08}{04 10 00}{ff 00 00 00}{01 00 00 05 00}.\n{07 00 00}Mäletad?\n{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{07 15 00}Ma ei usu seda!{01 00 00 0a 00}\nSa unustasid selle juba\nära,{01 00 00 0a 00} {04 02 00}?!\n{07 0a 00}Siis teen järgmine kord{01 00 00 0a 00}\ntoosti dieet-\n{04 18 00}ga!\n{07 00 00}{07 11 00}See põletab mälestuse\nsu ajju{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}ja kõhtu,\n{01 00 00 0a 00} {04 02 00}."
   },
   {
    "id": 2,
    "en": "{07 02 00}Whoa!{01 00 00 05 00} {0b 03 00}{04 1f 00}!{01 00 00 0a 00} I haven't\nseen you in the longest\ntime,{01 00 00 05 00} {04 02 00}!\n{07 00 00}Last time I talked to you\nwas{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00}{07 0b 00}in{01 00 00 05 00} {ff 00 00 08}{04 10 00}{ff 00 00 00}? {01 00 00 0a 00}{07 14 00}Lucky\nme! {01 00 00 05 00}I get to see you again!",
-   "et": ""
+   "et": "{07 02 00}Ohoo!{01 00 00 05 00} {0b 03 00}{04 1f 00}!{01 00 00 0a 00} Pole sind\nväga ammu näinud,{01 00 00 05 00}\n{04 02 00}!\n{07 00 00}Viimati rääkisin sinuga\n{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00}{07 0b 00}linnas{01 00 00 05 00} {ff 00 00 08}{04 10 00}{ff 00 00 00}? {01 00 00 0a 00}{07 14 00}Vedas\nmul! {01 00 00 05 00}Saan sind jälle näha!"
   },
   {
    "id": 3,
    "en": "{07 14 00}Hey,{01 00 00 05 00} {04 1f 00}!{01 00 00 0a 00} It's been\nages since I saw you last,{01 00 00 05 00}\n{04 02 00}!\n{07 00 00}It was in {ff 00 00 08}{04 10 00}{ff 00 00 00},{01 00 00 05 00}\nright? {01 00 00 0a 00}{07 19 00}Back then,{01 00 00 0a 00} I was\nplain ol' {04 01 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 00 00}\n{07 03 00}But now,{01 00 00 0a 00} I'm Totally\nStarving {04 01 00}! {01 00 00 0a 00}Got\nany snacks?\n{07 14 00}Heh heh!{01 00 00 0a 00} It's good seeing\nyou again!",
-   "et": ""
+   "et": "{07 14 00}Hei,{01 00 00 05 00} {04 1f 00}!{01 00 00 0a 00} Sellest on\nigavik, kui sind nägin,{01 00 00 05 00}\n{04 02 00}!\n{07 00 00}See oli linnas {ff 00 00 08}{04 10 00}{ff 00 00 00},{01 00 00 05 00}\neks? {01 00 00 0a 00}{07 19 00}Tookord{01 00 00 0a 00} olin ma\nlihtsalt {04 01 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 00 00}\n{07 03 00}Aga nüüd{01 00 00 0a 00} olen Täiesti\nNäljane {04 01 00}! {01 00 00 0a 00}Kas sul\non näkse?\n{07 14 00}Heh heh!{01 00 00 0a 00} Tore sind\njälle näha!"
   },
   {
    "id": 4,
    "en": "{07 14 00}Huh huh{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00} Good to see ya,{01 00 00 05 00}\n{04 02 00}!\n\n{07 00 00}We haven't seen each other\nsince back in \n{ff 00 00 08}{04 10 00}{ff 00 00 00}!\n{07 13 00}{01 00 00 0a 00}I've been wanting to come\nhere so bad{01 00 00 05 00} I couldn't help\nmyself,{01 00 00 05 00} {04 02 00}!",
-   "et": ""
+   "et": "{07 14 00}Hah haa{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00} Tore näha,{01 00 00 05 00}\n{04 02 00}!\n\n{07 00 00}Me pole teineteist näinud\nsellest ajast, kui olime \n{ff 00 00 08}{04 10 00}{ff 00 00 00}!\n{07 13 00}{01 00 00 0a 00}Tahtsin siia nii väga tulla,{01 00 00 05 00}\net ei suutnud end tagasi\nhoida,{01 00 00 05 00} {04 02 00}!"
   },
   {
    "id": 5,
    "en": "{07 04 00}Whoa! Hey!{01 00 00 14 00} {0b 03 00}{04 1f 00}!\nWhat's up, {01 00 00 05 00}{04 02 00}?\n\n{07 0e 00}{01 00 00 0a 00}Who woulda thought I'd see\nyou again so soon after\nleaving {ff 00 00 08}{04 10 00}{ff 00 00 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n{07 14 00}It's like{01 00 00 05 00} I'm the main\ncharacter in a movie!{01 00 00 0f 00}{07 00 00} But\nnot an action movie.\nThat would take too much\neffort. {01 00 00 0a 00}Maybe a movie\nabout {01 00 00 14 00}{07 0d 00}food!",
-   "et": ""
+   "et": "{07 04 00}Ohoo! Hei!{01 00 00 14 00} {0b 03 00}{04 1f 00}!\nMis teoksil, {01 00 00 05 00}{04 02 00}?\n\n{07 0e 00}{01 00 00 0a 00}Kes oleks arvanud, et näen\nsind nii pea pärast seda,\nkui lahkusin {ff 00 00 08}{04 10 00}{ff 00 00 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n{07 14 00}Nagu oleksin{01 00 00 05 00} filmi\npeategelane!{01 00 00 0f 00}{07 00 00} Aga mitte\nmärulifilmi.\nSee nõuaks liiga palju\nvaeva. {01 00 00 0a 00}Ehk film\n{01 00 00 14 00}{07 0d 00}toidust!"
   }
  ]
 }

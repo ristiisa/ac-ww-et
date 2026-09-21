@@ -4,17 +4,17 @@
   {
    "id": 0,
    "en": "{07 00 00}Remember the time and\ndate! {04 10 00}:{04 11 00} on the {04 0f 00}!\n{07 16 00}Don't forget!\nYou'd better be waiting by\nthe door when I knock, \n{01 00 00 05 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 00 00}Pea aeg ja kuupäev meeles!\n{04 10 00}:{04 11 00} {04 0f 00}!\n{07 16 00}Ära unusta!\nSa oled parem ukse juures\nootamas, kui ma koputan,\n{01 00 00 05 00}{04 02 00}!"
   },
   {
    "id": 1,
    "en": "{07 16 00}What?{01 00 00 14 00} {04 10 00}:{04 11 00} on the {04 0f 00}!{01 00 00 0a 00}\n{07 00 00}I KNOW that's right, I\nwrote it down, {01 00 00 0a 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 16 00}Mis?{01 00 00 14 00} {04 10 00}:{04 11 00} {04 0f 00}!{01 00 00 0a 00}\n{07 00 00}Ma TEAN, et see on õige, ma\nkirjutasin selle üles, {01 00 00 0a 00}{04 02 00}!"
   },
   {
    "id": 2,
    "en": "{07 16 00}{04 10 00}:{04 11 00} on the {04 0f 00}!{01 01 00}\n{07 14 00}Tidy up before! {01 00 00 05 00}I don't care\nto see your dirty socks!\n{07 14 00}I'm gonna be there right on\ntime, so I hope you'll be \nhome to greet me!",
-   "et": ""
+   "et": "{07 16 00}{04 10 00}:{04 11 00} {04 0f 00}!{01 01 00}\n{07 14 00}Tee enne korda! {01 00 00 05 00}Ma ei taha\nnäha su määrdunud sokke!\n{07 14 00}Ma tulen täpselt õigeks\najaks, nii et loodan, et sa\noled kodus mind tervitamas!"
   }
  ]
 }

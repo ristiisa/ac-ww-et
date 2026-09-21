@@ -4,17 +4,17 @@
   {
    "id": 0,
    "en": "{07 00 00}So, you think you can do it\nwithin {ff 00 00 02}10 minutes{ff 00 00 00}? {01 00 00 0a 00}{07 0b 00}Or is it\ntoo hard for you?",
-   "et": ""
+   "et": "{07 00 00}Nii et sa arvad, et jõuad\n{ff 00 00 02}10 minutiga{ff 00 00 00}? {01 00 00 0a 00}{07 0b 00}Või on see\nsulle liiga raske?"
   },
   {
    "id": 1,
    "en": "{07 00 00}Yes,{01 00 00 0a 00} I'm sure you can do it\nwithin {ff 00 00 02}30 minutes{ff 00 00 00}. {01 00 00 0a 00}I mean,\nit's not rocket science.",
-   "et": ""
+   "et": "{07 00 00}Jah,{01 00 00 0a 00} ma olen kindel, et\njõuad {ff 00 00 02}30 minutiga{ff 00 00 00}. {01 00 00 0a 00}See pole\nju mingi raketiteadus."
   },
   {
    "id": 2,
    "en": "{07 00 00}As long as it's delivered\nwithin {ff 00 00 02}1 hour {ff 00 00 00}from now{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00}",
-   "et": ""
+   "et": "{07 00 00}Peaasi, et see kohale\njõuaks {ff 00 00 02}1 tunni {ff 00 00 00}jooksul{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00}"
   }
  ]
 }

@@ -4,17 +4,17 @@
   {
    "id": 0,
    "en": "{07 14 00}That was totally fun! {01 00 00 05 00}Bug\ncatching is, {01 00 00 05 00}like, {01 00 00 05 00}the new\nshopping!",
-   "et": ""
+   "et": "{07 14 00}See oli täiesti lõbus! {01 00 00 05 00}\nPutukate püüdmine on, {01 00 00 05 00}\nnagu,{01 00 00 05 00} uus ostlemine!"
   },
   {
    "id": 1,
    "en": "{07 14 00}Tee hee HEE hee hee!{01 00 00 14 00} Let's\ndo this again sometime,\n{01 00 00 0a 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 14 00}Hihi HIHI hihii!{01 00 00 14 00} Teeme\nseda kunagi uuesti,\n{01 00 00 0a 00}{04 02 00}!"
   },
   {
    "id": 2,
    "en": "{07 14 00}Let's see now...{01 00 00 0a 00} Where\nshould I {01 00 00 05 00}put this bug,\n{01 00 00 0a 00}{04 02 00}?",
-   "et": ""
+   "et": "{07 14 00}Vaatame nüüd...{01 00 00 0a 00} Kuhu ma\nselle putuka {01 00 00 05 00}panen,\n{01 00 00 0a 00}{04 02 00}?"
   }
  ]
 }

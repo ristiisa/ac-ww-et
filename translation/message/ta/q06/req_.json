@@ -4,17 +4,17 @@
   {
    "id": 0,
    "en": "{07 04 00}{01 00 00 05 00}Hey, {04 1f 00}.{01 00 00 0a 00} {07 16 00}Would you\ndo me a tiny little favor?\n\n{07 0b 00}{01 00 00 05 00}Would you deliver a package{01 00 00 05 00}\nto{ff 00 00 06} {04 10 00}{ff 00 00 00} for me?",
-   "et": ""
+   "et": "{07 04 00}{01 00 00 05 00}Hei, {04 1f 00}.{01 00 00 0a 00} {07 16 00}Kas sa\nteeksid mulle ühe väikese\nteene? \n{07 0b 00}{01 00 00 05 00}Kas viiksid minu eest paki{01 00 00 05 00}\n{ff 00 00 06} {04 10 00}{ff 00 00 00}le?"
   },
   {
    "id": 1,
    "en": "{07 16 00}Well then, maybe I can ask \n{04 1f 00} to help me{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00}{07 00 00}\n\n{07 14 00}Say, {01 00 00 05 00}aren't you friends with\n{ff 00 00 06}{04 10 00}{ff 00 00 00}?\n\n{07 16 00}Well, I've got this package \nthat I need to get to\n{ff 00 00 06}{04 10 00}{ff 00 00 00}, {01 00 00 0a 00}{04 02 00}.",
-   "et": ""
+   "et": "{07 16 00}Noh, ehk saan paluda\n{04 1f 00}l mind aidata{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00}{07 00 00}\n\n{07 14 00}Kuule, {01 00 00 05 00}kas sa pole sõber\n{ff 00 00 06}{04 10 00}{ff 00 00 00}ga?\n\n{07 16 00}Noh, mul on üks pakk,\nmille pean saatma\n{ff 00 00 06}{04 10 00}{ff 00 00 00}le, {01 00 00 0a 00}{04 02 00}."
   },
   {
    "id": 2,
    "en": "{07 0e 00}Uh{01 00 00 0a 00}.{01 00 00 0a 00}.{01 00 00 0a 00}.{01 00 00 14 00} {07 0c 00}{01 00 00 0a 00}There's actually{01 00 00 0a 00} this\nfavor that I've been\nmeaning to ask of you.\n{07 16 00}It's a delivery{01 00 00 05 00} for\n{ff 00 00 06}{04 10 00}{ff 00 00 00}, actually,\n{01 00 00 0a 00}{04 02 00}. ",
-   "et": ""
+   "et": "{07 0e 00}Ee{01 00 00 0a 00}.{01 00 00 0a 00}.{01 00 00 0a 00}.{01 00 00 14 00} {07 0c 00}{01 00 00 0a 00}Mul on tegelikult{01 00 00 0a 00} üks\nteene, mida olen\ntahtnud sinult paluda.\n{07 16 00}See on üks saadetis{01 00 00 05 00}\n{ff 00 00 06}{04 10 00}{ff 00 00 00}le, tegelikult,\n{01 00 00 0a 00}{04 02 00}. "
   }
  ]
 }

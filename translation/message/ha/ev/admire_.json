@@ -4,82 +4,82 @@
   {
    "id": 0,
    "en": "{07 14 00}Yo, {04 1f 00}!{01 00 00 0a 00} Today is\n{ff 00 00 03}Yay Day{ff 00 00 00}, you know!\n\n{07 06 00}Even if you can't think of\nanything nice to say, at\nleast make up something!\n{07 16 00}Otherwise, we'll never\nadvance the story,\n{01 00 00 05 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 14 00}Jou, {04 1f 00}!{01 00 00 0a 00} Täna on\n{ff 00 00 03}kiidupäev{ff 00 00 00}, tead küll!\n\n{07 06 00}Isegi kui sa ei oska midagi\nhead öelda, mõtle vähemalt\nmidagi välja!\n{07 16 00}Muidu ei liigu lugu\nkunagi edasi,\n{01 00 00 05 00}{04 02 00}!"
   },
   {
    "id": 1,
    "en": "{07 0d 00}{0b 03 00}{04 1f 00}, you're beefier\nthan a sumo wrestler!\n\n{07 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 02 00}MAN!!{01 01 00}\n{07 06 00}Dishing out compliments is\nSO AWKWARD, {01 00 00 05 00}{04 02 00}!\n{07 16 00}I guess I have to just suck\nit up. It IS {ff 00 00 03}Yay Day{ff 00 00 00}, after\nall.\n{07 14 00}Yo, {04 1f 00}, it's your\nturn to compliment me! How\nabout my rock-hard pecs?",
-   "et": ""
+   "et": "{07 0d 00}{0b 03 00}{04 1f 00}, sa oled turskem\nkui sumomaadleja!\n\n{07 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 02 00}MEES!!{01 01 00}\n{07 06 00}Komplimentide jagamine on\nNII kohmetu, {01 00 00 05 00}{04 02 00}!\n{07 16 00}Vist pean lihtsalt hambad\nristi panema. {ff 00 00 03}Kiidupäev{ff 00 00 00}\nlõpuks.\n{07 14 00}Jou, {04 1f 00}, nüüd on sinu\nkord mind kiita! Kuidas\noleks mu kõvade rindadega?"
   },
   {
    "id": 2,
    "en": "{07 0e 00}{0b 03 00}{04 21 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 01 00}\n{07 0b 00}That's your compliment?\n\n{07 15 00}That was totally WEAK,\n{01 00 00 05 00}{04 02 00}!\n\n{07 14 00}But, {01 00 00 05 00}thanks anyway!{01 00 00 14 00}\nMaybe you won't wimp out\nnext time, {01 00 00 05 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 0e 00}{0b 03 00}{04 21 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 01 00}\n{07 0b 00}See on sinu kompliment?\n\n{07 15 00}See oli täiesti NÕRK,\n{01 00 00 05 00}{04 02 00}!\n\n{07 14 00}Aga, {01 00 00 05 00}igatahes aitäh!{01 00 00 14 00}\nÄkki sa ei löö järgmine\nkord ära, {01 00 00 05 00}{04 02 00}!"
   },
   {
    "id": 3,
    "en": "{07 02 00}{0b 03 00}{04 21 00}!\n{01 00 00 05 00}{0b 03 00}{04 02 00}!\n\n{07 14 00}I'm not even sure what that\nmeans, but{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n{07 0b 00}It sounds nice, right?\n{07 14 00}Thanks, {04 1f 00}!{01 00 00 0a 00}\nYou rule, {01 00 00 05 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 02 00}{0b 03 00}{04 21 00}!\n{01 00 00 05 00}{0b 03 00}{04 02 00}!\n\n{07 14 00}Ma pole isegi kindel, mida\nsee tähendab, aga{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n{07 0b 00}See kõlab kenasti, eks?\n{07 14 00}Aitäh, {04 1f 00}!{01 00 00 0a 00}\nSa oled äge, {01 00 00 05 00}{04 02 00}!"
   },
   {
    "id": 4,
    "en": "{07 14 00}I RULE!{01 00 00 0a 00} I'm the\n{04 21 00}\n{04 01 00}!",
-   "et": ""
+   "et": "{07 14 00}MA OLEN ÄGE!{01 00 00 0a 00} Ma olen\n{04 21 00}\n{04 01 00}!"
   },
   {
    "id": 5,
    "en": "Yo, {01 00 00 05 00}{ff 00 00 05}{04 1f 00}{ff 00 00 00}!\n{0b 03 00}{01 00 00 05 00}{04 02 00}!",
-   "et": ""
+   "et": "Jou, {01 00 00 05 00}{ff 00 00 05}{04 1f 00}{ff 00 00 00}!\n{0b 03 00}{01 00 00 05 00}{04 02 00}!"
   },
   {
    "id": 6,
    "en": "{07 14 00}{0b 03 00}{04 21 00}!{01 00 00 0a 00}\nGet outta the way! Here\ncomes Turbo {04 01 00}!",
-   "et": ""
+   "et": "{07 14 00}{0b 03 00}{04 21 00}!{01 00 00 0a 00}\nEest ära! Siin tuleb\nTurbo {04 01 00}!"
   },
   {
    "id": 7,
    "en": "{07 00 00}Hey, {01 00 00 05 00}{04 1f 00}!{01 00 00 0a 00}\nBe serious! {07 0b 00}Am I really\n\"{04 21 00}\"?",
-   "et": ""
+   "et": "{07 00 00}Hei, {01 00 00 05 00}{04 1f 00}!{01 00 00 0a 00}\nOle tõsine! {07 0b 00}Kas ma olen\ntõesti „{04 21 00}”?"
   },
   {
    "id": 8,
    "en": "{07 06 00}I'm not so sure that I'm a\n\"{04 21 00}\" guy,\n{01 00 00 05 00}{04 02 00}.\n{07 0b 00}What do you think,\n{04 1f 00}?",
-   "et": ""
+   "et": "{07 06 00}Ma pole nii kindel, et olen\n„{04 21 00}” tüüp,\n{01 00 00 05 00}{04 02 00}.\n{07 0b 00}Mis sa arvad,\n{04 1f 00}?"
   },
   {
    "id": 9,
    "en": "{07 15 00}And in the red corner...{01 00 00 05 00}\nBig \"{04 21 00}\"\n{ff 00 00 06}{04 01 00}{ff 00 00 00}!!!\n{07 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 02 00}WHOA!{01 01 00}\n{07 06 00}Just hearing that gets my\nadrenaline thumping!\n{07 14 00}What do you think,\n{01 00 00 05 00}{04 1f 00}? Doesn't that\ntotally rock?",
-   "et": ""
+   "et": "{07 15 00}Ja punases nurgas...{01 00 00 05 00}\nSuur „{04 21 00}”\n{ff 00 00 06}{04 01 00}{ff 00 00 00}!!!\n{07 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 02 00}OHOO!{01 01 00}\n{07 06 00}Ainuüksi selle kuulmine\npaneb adrenaliini põksuma!\n{07 14 00}Mis sa arvad,\n{01 00 00 05 00}{04 1f 00}? Kas see ei\nrokigi täiega?"
   },
   {
    "id": 10,
    "en": "{07 14 00}I KNEW it!{01 00 00 0f 00} {07 0a 00}I'm really startin'\nto show off my inner\n{04 21 00}!",
-   "et": ""
+   "et": "{07 14 00}Ma TEADSIN!{01 00 00 0f 00} {07 0a 00}Ma hakkan\ntõesti oma sisemist\n{04 21 00} näitama!"
   },
   {
    "id": 11,
    "en": "{07 01 00}Quit being such a WEAK\nyes-dude,{01 00 00 0a 00} {ff 00 00 05}{04 1f 00}{ff 00 00 00}!\n\n{07 19 00}You've gotta live by your\nown motto, {01 00 00 05 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 01 00}Lõpeta see NÕRK\njah-mehe värk,{01 00 00 0a 00} {ff 00 00 05}{04 1f 00}{ff 00 00 00}!\n\n{07 19 00}Sa pead elama oma\nmoto järgi, {01 00 00 05 00}{04 02 00}!"
   },
   {
    "id": 12,
    "en": "{07 02 00}What?!{01 00 00 05 00} You CAN'T be serious,\n{01 00 00 05 00}{04 02 00}!\n\n{07 00 00}But that means you've\nstill got something better\nin there?!{01 00 00 05 00}\n{07 06 00}Cough it up, {01 00 00 05 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 02 00}Mida?!{01 00 00 05 00} Sa EI SAA tõsine olla,\n{01 00 00 05 00}{04 02 00}!\n\n{07 00 00}Aga see tähendab, et sul\non seal veel midagi\nparemat?!{01 00 00 05 00}\n{07 06 00}Välja sellega, {01 00 00 05 00}{04 02 00}!"
   },
   {
    "id": 13,
    "en": "{07 02 00}HWHAT?!{01 01 00} {07 16 00}Man! You're still all\nin your resistant phase,\neh?\n{07 16 00}Well,{01 00 00 05 00} why don't YOU come up\nwith something better,\n{04 1f 00}!",
-   "et": ""
+   "et": "{07 02 00}MIDA?!{01 01 00} {07 16 00}Mees! Sa oled ikka\noma vastuhaku faasis,\nmis?\n{07 16 00}Noh,{01 00 00 05 00} miks SINA ei mõtle\nmidagi paremat välja,\n{04 1f 00}!"
   },
   {
    "id": 14,
    "en": "{07 0e 00}{0b 03 00}{04 21 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 01 00}\n{07 14 00}Well, {01 00 00 05 00}at least that was\nbetter than the last one!\n{07 00 00}Oh, {01 00 00 05 00}{04 02 00}. I guess I'm\nthe \"{04 21 00}\n{04 01 00}\" now!",
-   "et": ""
+   "et": "{07 0e 00}{0b 03 00}{04 21 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 01 00}\n{07 14 00}Noh, {01 00 00 05 00}vähemalt oli see\nparem kui eelmine!\n{07 00 00}Oh, {01 00 00 05 00}{04 02 00}. Ma olen vist\nnüüd „{04 21 00}\n{04 01 00}”!"
   },
   {
    "id": 15,
    "en": "{07 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 04 00}{0b 03 00}{04 21 00}!{01 01 00}\n{07 02 00}YARRRG! {01 00 00 05 00}I think I just pulled\na hammy, {01 00 00 05 00}{04 02 00}!\n{07 16 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}Man,{01 00 00 05 00} I was just trying\nto make myself feel\nbetter.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}and now I'm in pain!\n{07 0f 00}Walk it off{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} I'm just\ngonna walk it off.\n{0b 03 00}{01 00 00 05 00}{04 02 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.",
-   "et": ""
+   "et": "{07 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 04 00}{0b 03 00}{04 21 00}!{01 01 00}\n{07 02 00}JARRRG! {01 00 00 05 00}Ma vist venitasin\nreielihast, {01 00 00 05 00}{04 02 00}!\n{07 16 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}Mees,{01 00 00 05 00} ma üritasin ainult\nenesetunnet paremaks\nteha{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.ja nüüd on valus!\n{07 0f 00}Kõnnin välja{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} Ma lihtsalt\nkõnnin selle välja.\n{0b 03 00}{01 00 00 05 00}{04 02 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}."
   }
  ]
 }

@@ -4,17 +4,17 @@
   {
    "id": 0,
    "en": "{07 00 00}In exchange for your\n{0b 02 00}{04 1a 00}, I'll\ngive you this, {01 00 00 05 00}{04 02 00}.\n{07 14 00}From my very own stash,\nI present to you my\n{0b 02 00}{04 1b 00}.",
-   "et": ""
+   "et": "{07 00 00}Vastutasuks sinu\n{0b 02 00}{04 1a 00} eest annan\nma sulle selle, {01 00 00 05 00}{04 02 00}.\n{07 14 00}Oma isiklikust varamust\nkingin ma sulle oma\n{0b 02 00}{04 1b 00}."
   },
   {
    "id": 1,
    "en": "{07 14 00}Well, here. Please take my\n{0b 02 00}{04 1b 00} in\nthanks for finding the bug.",
-   "et": ""
+   "et": "{07 14 00}Noh, siin. Palun võta minu\n{0b 02 00}{04 1b 00} tänuks\nputuka leidmise eest."
   },
   {
    "id": 2,
    "en": "{07 00 00}Here, I want to give you my\n{0b 02 00}{04 1b 00} as\na trade, {01 00 00 05 00}{04 02 00}.",
-   "et": ""
+   "et": "{07 00 00}Siin, ma tahan sulle anda\noma {0b 02 00}{04 1b 00}\nvahetuseks, {01 00 00 05 00}{04 02 00}."
   }
  ]
 }

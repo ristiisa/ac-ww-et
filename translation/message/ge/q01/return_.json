@@ -4,17 +4,17 @@
   {
    "id": 0,
    "en": "{07 14 00}This bug is MEGA CRAZY!{01 00 00 0a 00}\nIt's like TV...{01 00 00 05 00}I could stare\nat it for days!",
-   "et": ""
+   "et": "{07 14 00}See putukas on MEGA HULL!{01 00 00 0a 00}\nSee on nagu telekas...{01 00 00 05 00}Ma\nvõiksin seda päevi jõllitada!"
   },
   {
    "id": 1,
    "en": "{07 0a 00}Yay! One more bug for \n{04 01 00}'s collection!",
-   "et": ""
+   "et": "{07 0a 00}Jee! Veel üks putukas \n{04 01 00} kogusse!"
   },
   {
    "id": 2,
    "en": "{07 01 00}I'LL GET YOU NEXT, OTHER\nBUG!{01 01 00} {07 00 00}{07 07 00}Oh wow, I gotta chill\nbefore my head, like, POPS!",
-   "et": ""
+   "et": "{07 01 00}JÄRGMISENA SAAN SIND, TEINE\nPUTUKAS!{01 01 00} {07 00 00}{07 07 00}Oh vau, pean maha\nrahunema, muidu pea LÕHKEB!"
   }
  ]
 }

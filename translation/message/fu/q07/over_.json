@@ -4,17 +4,17 @@
   {
    "id": 0,
    "en": "{07 00 00}Yeah{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{04 1f 00}?{01 00 00 0f 00} Yeah,\nlook, I hate to do this to\nyou,{01 00 00 05 00} buuuuut{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 0f 00}My letter is late. Reeeeally\nlate. Yeah, it's way past\nthe deadline, {04 02 00}.\n{07 15 00}Oh, forget it, {01 00 00 05 00}{04 02 00}!{01 00 00 0a 00}\nI'll go myself!{01 00 00 0a 00} Now give me\nback that letter.",
-   "et": ""
+   "et": "{07 00 00}Jah{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{04 1f 00}?{01 00 00 0f 00} Jah,\nvaata, mul on kahju seda\nsulle teha,{01 00 00 05 00} aaaga{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 0f 00}Mu kiri hilineb. Väääga\npalju. Jah, tähtaeg on\nammu möödas, {04 02 00}.\n{07 15 00}Oh, unusta ära, {01 00 00 05 00}{04 02 00}!{01 00 00 0a 00}\nMa lähen ise!{01 00 00 0a 00} Anna mulle\nnüüd see kiri tagasi."
   },
   {
    "id": 1,
    "en": "{07 16 00}Um, {01 00 00 05 00}{04 1f 00}?{01 00 00 0f 00} Yeah, it's\nway past the promised \ndelivery time.\n{07 00 00}Thanks for trying and all,\nbut...{01 00 00 05 00}yeah. {01 00 00 0f 00}This just isn't\ngoing to work out.\n{07 0b 00}So, could you give me back\nmy letter, {01 00 00 05 00}{04 02 00}?{01 00 00 05 00}\nI'll have to take it myself.",
-   "et": ""
+   "et": "{07 16 00}Ee, {01 00 00 05 00}{04 1f 00}?{01 00 00 0f 00} Jah,\nlubatud kohaletoimetamise \naeg on ammu möödas.\n{07 00 00}Aitäh, et proovisid ja nii,\naga...{01 00 00 05 00}jah. {01 00 00 0f 00}Sellest lihtsalt\nei tule midagi välja.\n{07 0b 00}Nii et, kas annaksid mulle\nmu kirja tagasi, {01 00 00 05 00}{04 02 00}?{01 00 00 05 00}\nMa pean selle ise viima."
   },
   {
    "id": 2,
    "en": "{07 16 00}Hey, about {ff 00 00 06}{04 10 00}{ff 00 00 00}'s\nletter...{01 00 00 0a 00} You didn't take it\nover there, did you?\n{07 16 00}I didn't think so. It's way\npast the promised delivery\ntime{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0f 00}\n{07 0f 00}No, no.{01 00 00 0f 00} It's my fault.{01 00 00 0f 00} Maybe\nI ask too much of people,\n{01 00 00 05 00}{04 02 00}...\n{07 1c 00}Anyway, just give me the\nletter and I'll take it\nmyself.",
-   "et": ""
+   "et": "{07 16 00}Hei, {ff 00 00 06}{04 10 00}{ff 00 00 00} kirja\nkohta...{01 00 00 0a 00} Sa ei viinud seda\nsinna, ega?\n{07 16 00}Ma nii arvasingi. Lubatud\nkohaletoimetamise aeg on\nammu möödas{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0f 00}\n{07 0f 00}Ei, ei.{01 00 00 0f 00} See on minu süü.{01 00 00 0f 00} Ehk\nma nõuan inimestelt liiga\npalju, {01 00 00 05 00}{04 02 00}...\n{07 1c 00}Igatahes, anna mulle kiri\nja ma viin selle\nise."
   }
  ]
 }

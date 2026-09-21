@@ -4,17 +4,17 @@
   {
    "id": 0,
    "en": "{07 06 00}Finding a complete\n{ff 00 00 02}{04 0f 00}\n{ff 00 00 00}fossil is SO HARD!{01 00 00 05 00} You know?\n{07 16 00}{0b 03 00}{04 1f 00},{01 00 00 05 00} if you find\nthat fossil, you HAVE to let\nme know right away!",
-   "et": ""
+   "et": "{07 06 00}Terve {ff 00 00 02}{04 0f 00}\n{ff 00 00 00}fossiili leidmine on\nNII RASKE!{01 00 00 05 00} Tead?\n{07 16 00}{0b 03 00}{04 1f 00},{01 00 00 05 00} kui sa leiad\nselle fossiili, PEAD sa mulle\nkohe teada andma!"
   },
   {
    "id": 1,
    "en": "{07 13 00}Y'know what's TOTALLY cute?{01 00 00 0f 00}\n{ff 00 00 02}{0b 03 00}{04 0f 00}\n{ff 00 00 00}{01 00 00 05 00}fossils!\n{07 16 00}But, I hear that it's not\nvery easy to find one, \n{01 00 00 05 00}{04 02 00}.\n{07 06 00}Ooo! I totally want one!\n{0b 03 00}{ff 00 00 02}{04 0f 00}{ff 00 00 00}!!\nWhere are yooooou?!",
-   "et": ""
+   "et": "{07 13 00}Tead, mis on TÄIESTI nunnu?{01 00 00 0f 00}\n{ff 00 00 02}{0b 03 00}{04 0f 00}\n{ff 00 00 00}{01 00 00 05 00}fossiilid!\n{07 16 00}Aga ma kuulsin, et neid\npole väga lihtne leida, \n{01 00 00 05 00}{04 02 00}.\n{07 06 00}Ooo! Ma tahan täiesti üht!\n{0b 03 00}{ff 00 00 02}{04 0f 00}{ff 00 00 00}!!\nKus sa oleeed?!"
   },
   {
    "id": 2,
    "en": "{07 00 00}I'm looking all OVER for all\nthe {ff 00 00 02}{04 0f 00}\n{ff 00 00 00}fossils...\n{07 0f 00}But luck has deserted me{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00}\n{07 09 00}{01 00 00 05 00}They're just nowhere to be\nfound, {01 00 00 05 00}{04 02 00}!\n{07 06 00}I GOTTA get them!{01 00 00 0a 00} Please\ntell me if you find one,\n{04 1f 00}! {01 00 00 0a 00}PLEASE!",
-   "et": ""
+   "et": "{07 00 00}Ma otsin KÕIKJALT kõiki\n{ff 00 00 02}{04 0f 00}\n{ff 00 00 00}fossiile...\n{07 0f 00}Aga õnn on mu maha jätnud{01 00 00 05 00}.{01 00 00 05 00}\n.{01 00 00 05 00} .{01 00 00 0a 00} {07 09 00}{01 00 00 05 00}Neid pole kuskilt\nleida, {01 00 00 05 00}{04 02 00}!\n{07 06 00}Ma PEAN nad saama!{01 00 00 0a 00} Palun\nütle mulle, kui ühe leiad,\n{04 1f 00}! {01 00 00 0a 00}PALUN!"
   }
  ]
 }

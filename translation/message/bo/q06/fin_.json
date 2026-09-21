@@ -4,17 +4,17 @@
   {
    "id": 0,
    "en": "{07 14 00}Thanks,{01 00 00 05 00} {04 1f 00}!{01 00 00 14 00}{07 0d 00} And\nsay hi to {ff 00 00 06}{04 0f 00}{ff 00 00 00} for\nme,{01 00 00 0a 00} {04 02 00}!",
-   "et": ""
+   "et": "{07 14 00}Aitäh,{01 00 00 05 00} {04 1f 00}!{01 00 00 14 00}{07 0d 00} Ja\nütle {ff 00 00 06}{04 0f 00}{ff 00 00 00}-le\nminult tere,{01 00 00 0a 00} {04 02 00}!"
   },
   {
    "id": 1,
    "en": "{07 00 00}Thanks,{01 00 00 05 00} {04 1f 00}. {07 14 00}And\nsay thanks to {ff 00 00 06}{04 0f 00}\n{ff 00 00 00}for me, too!",
-   "et": ""
+   "et": "{07 00 00}Aitäh,{01 00 00 05 00} {04 1f 00}. {07 14 00}Ja\nütle {ff 00 00 06}{04 0f 00}{ff 00 00 00}-le\nka minu poolt aitäh!"
   },
   {
    "id": 2,
    "en": "{07 14 00}Thanks a lot, {04 1f 00}!\n{07 00 00}And make sure {ff 00 00 06}{04 0f 00}{ff 00 00 00}\nknows how I feel, too, OK?",
-   "et": ""
+   "et": "{07 14 00}Suur aitäh, {04 1f 00}!\n{07 00 00}Ja vaata, et {ff 00 00 06}{04 0f 00}{ff 00 00 00}\nteaks, mida ma tunnen!"
   }
  ]
 }

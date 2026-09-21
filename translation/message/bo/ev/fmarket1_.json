@@ -4,32 +4,32 @@
   {
    "id": 0,
    "en": "{07 14 00}Hey,{01 00 00 05 00} {04 1f 00},{01 00 00 0a 00} did you\nknow that today is\nthe {ff 00 00 03}Flea Market{ff 00 00 00}?\n{07 0a 00}It's been so long since I've\nhad anybody come to my\nhouse,{01 00 00 0a 00} {04 02 00}!",
-   "et": ""
+   "et": "{07 14 00}Hei,{01 00 00 05 00} {04 1f 00},{01 00 00 0a 00} kas sa\nteadsid, et täna on\n{ff 00 00 03}kirbuturg{ff 00 00 00}?\n{07 0a 00}Nii kaua pole keegi\nminu koju külla\ntulnud,{01 00 00 0a 00} {04 02 00}!"
   },
   {
    "id": 1,
    "en": "{07 14 00}Huh huh huh!{01 00 00 05 00} The {ff 00 00 03}Flea\nMarket{ff 00 00 00} is today.\n\n{07 00 00}{04 0d 00} is the only\nresident whose house I still\nhaven't been inside.\n{07 0d 00}But all that's gonna change\ntoday,{01 00 00 0a 00} {04 02 00}!",
-   "et": ""
+   "et": "{07 14 00}Hah hah haa!{01 00 00 05 00} {ff 00 00 03}Kirbuturg\n{ff 00 00 00}on täna.\n\n{07 00 00}{04 0d 00} on ainus elanik,\nkelle majas ma pole veel\nkäinud.\n{07 0d 00}Aga täna muutub see kõik,{01 00 00 0a 00}\n{04 02 00}!"
   },
   {
    "id": 2,
    "en": "{07 16 00}Some folk aren't just\nselling used stuff during\nthe {ff 00 00 03}Flea Market{ff 00 00 00}.\n{07 00 00}There are some people who\nsell stuff they received as\ngifts. {01 01 00}Tacky, right?\n{07 14 00}That's why you have to go\nto each house to compare\neverything,{01 00 00 0a 00} {04 02 00}.",
-   "et": ""
+   "et": "{07 16 00}Mõned ei müü\n{ff 00 00 03}kirbuturul{ff 00 00 00} ainult\nkasutatud kraami.\n{07 00 00}On inimesi, kes müüvad\nasju, mis nad kingiks\nsaid. {01 01 00}Labane, eks?\n{07 14 00}Sellepärast peadki käima\nigas majas ja kõike\nvõrdlema,{01 00 00 0a 00} {04 02 00}."
   },
   {
    "id": 3,
    "en": "{07 14 00}I tell you,{01 00 00 0a 00} back in the day,\nthey used to call me\nHagglin' {04 01 00}.\n{07 15 00}The {ff 00 00 03}Flea Market{ff 00 00 00} is basically\none big haggling match\nwith the sellers{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 06 00}AAAUURGH!{01 00 00 14 00} My blood of old\nboils within me again,\n{01 00 00 0a 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 14 00}Ütlen sulle,{01 00 00 0a 00} omal ajal\nkutsuti mind\nKauplejaks {04 01 00}.\n{07 15 00}{ff 00 00 03}kirbuturg{ff 00 00 00} on sisuliselt\nüks suur kauplemismatš\nmüüjatega{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 06 00}AAAUURGH!{01 00 00 14 00} Vana veri\nkeeb mus taas,\n{01 00 00 0a 00}{04 02 00}!"
   },
   {
    "id": 4,
    "en": "{07 04 00}Oh!{01 01 00} If it isn't {04 1f 00}!\n\n\n{07 14 00}{04 0d 00} was looking\nfor you. Something about\nwanting to see your shop.\n{07 16 00}Today is the {ff 00 00 03}Flea Market{ff 00 00 00}!\n{07 1b 00}You gotta be good to your\ncustomers,{01 00 00 0a 00} {04 02 00}.",
-   "et": ""
+   "et": "{07 04 00}Oh!{01 01 00} Kas pole {04 1f 00}!\n\n\n{07 14 00}{04 0d 00} otsis sind.\nMidagi sellest, et tahab\nsu poodi näha.\n{07 16 00}Täna on {ff 00 00 03}kirbuturg{ff 00 00 00}!\n{07 1b 00}Sa pead oma klientidega\nkena olema,{01 00 00 0a 00} {04 02 00}."
   },
   {
    "id": 5,
    "en": "{07 04 00}Whoa!{01 00 00 05 00} {0b 03 00}{04 1f 00}?!{01 00 00 14 00}\n{07 0b 00}What are you doing here of\nall places,{01 00 00 05 00} {04 02 00}?\n{07 14 00}Everyone is looking forward\nto seeing your shop! {01 01 00}{07 00 00}You\nhave to get home, and fast!",
-   "et": ""
+   "et": "{07 04 00}Ohoo!{01 00 00 05 00} {0b 03 00}{04 1f 00}?!{01 00 00 14 00}\n{07 0b 00}Mida sa just siin teed,\n{01 00 00 05 00}{04 02 00}?\n{07 14 00}Kõik ootavad, et su poodi\nnäha! {01 01 00}{07 00 00}Sa pead koju\njõudma, ja kiiresti!"
   }
  ]
 }

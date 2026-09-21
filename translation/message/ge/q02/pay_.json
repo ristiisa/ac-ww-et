@@ -4,17 +4,17 @@
   {
    "id": 0,
    "en": "{07 14 00}So, you gave me your\n{0b 02 00}{04 1a 00},\n{01 00 00 05 00}{04 02 00}!\nAnd now, {01 00 00 05 00}I'll give you\n{04 1b 00} in\nexchange!{01 00 00 05 00} Yay!{01 00 00 05 00} Trading!",
-   "et": ""
+   "et": "{07 14 00}Nii, sa andsid mulle oma\n{0b 02 00}{04 1a 00},\n{01 00 00 05 00}{04 02 00}!\nJa nüüd {01 00 00 05 00}annan ma sulle\nvahetuseks {04 1b 00}!{01 00 00 05 00}\nJee!{01 00 00 05 00} Kauplemine!"
   },
   {
    "id": 1,
    "en": "{07 14 00}Well then,{01 00 00 05 00} in exchange for\nyour fish,{01 00 00 05 00} I'll give you\n{04 1b 00}!",
-   "et": ""
+   "et": "{07 14 00}Noh siis,{01 00 00 05 00} vahetuseks\nsinu kala eest{01 00 00 05 00} annan sulle\n{04 1b 00}!"
   },
   {
    "id": 2,
    "en": "{07 00 00}In that case{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} {07 14 00}Here you\ngo!{01 00 00 05 00} You can totally have\n{04 1b 00}!\nIt's a big THANK YOU for\nyour super-cool fish,\n{01 00 00 05 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 00 00}Sel juhul{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} {07 14 00}Siin,\npalun!{01 00 00 05 00} Sa võid täiesti saada\n{04 1b 00}!\nSee on suur AITÄH\nsinu ülilahe kala eest,\n{01 00 00 05 00}{04 02 00}!"
   }
  ]
 }

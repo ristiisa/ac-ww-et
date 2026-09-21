@@ -4,17 +4,17 @@
   {
    "id": 0,
    "en": "{07 02 00}Whoa, {01 00 00 05 00}where are you going?!{01 01 00}\n{07 16 00}Dude, I'm totally still here!{01 00 00 05 00}\nSheesh, {04 02 00}!\n{07 00 00}I mean, if you're super\nbusy, {01 00 00 05 00}I guess you just want\nme to take off, huh?",
-   "et": ""
+   "et": "{07 02 00}Ohoo, {01 00 00 05 00}kuhu sa lähed?!{01 01 00}\n{07 16 00}Mees, ma olen ju veel siin!{01 00 00 05 00}\nIssand, {04 02 00}!\n{07 00 00}Ma mõtlen, kui sul on\nsuper kiire, {01 00 00 05 00}siis tahad sa\nvist, et ma lahkun, mis?"
   },
   {
    "id": 1,
    "en": "{07 04 00}Huh?{01 00 00 14 00} Going somewhere?{01 00 00 05 00}\nHot date, {04 02 00}?\n\n{07 16 00}In that case, I guess I\nshould get going...",
-   "et": ""
+   "et": "{07 04 00}Ah?{01 00 00 14 00} Lähed kuhugi?{01 00 00 05 00}\nKuum kohting, {04 02 00}?\n\n{07 16 00}Sel juhul peaksin ma\nvist minema hakkama..."
   },
   {
    "id": 2,
    "en": "{07 04 00}Hang on there, {04 1f 00}!{01 00 00 0a 00}\nAre you taking off,\n{01 00 00 05 00}{04 02 00}?!\n{07 16 00}'Cause if you are, I'll break\nout myself!",
-   "et": ""
+   "et": "{07 04 00}Oota korra, {04 1f 00}!{01 00 00 0a 00}\nKas sa lähed ära,\n{01 00 00 05 00}{04 02 00}?!\n{07 16 00}Sest kui lähed, siis lasen\nminema ka mina!"
   }
  ]
 }

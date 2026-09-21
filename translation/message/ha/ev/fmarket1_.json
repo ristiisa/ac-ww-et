@@ -4,32 +4,32 @@
   {
    "id": 0,
    "en": "{07 14 00}Hey, {ff 00 00 05}{04 1f 00}{ff 00 00 00}!{01 00 00 0a 00} Today's\n{ff 00 00 03}Free Market {ff 00 00 00}day,\n{01 00 00 05 00}{04 02 00}!\n{07 15 00}HWHAT?! It's not a free\nmarket?! {01 00 00 05 00}Wait, did you\njust say FLEA?!{01 00 00 05 00}\n{07 16 00}Dude! I don't want fleas!{01 01 00}\n{07 06 00}LAME! {01 00 00 05 00}I was so pumped about\nscoring free gear!",
-   "et": ""
+   "et": "{07 14 00}Hei, {ff 00 00 05}{04 1f 00}{ff 00 00 00}!{01 00 00 0a 00} Täna on\n{ff 00 00 03}vaba turu {ff 00 00 00}päev,\n{01 00 00 05 00}{04 02 00}!\n{07 15 00}MIDA?! See pole vaba\nturg?! {01 00 00 05 00}Oota, kas sa\nütlesid KIRBU?!{01 00 00 05 00}\n{07 16 00}Mees! Ma ei taha kirpe!{01 01 00}\n{07 06 00}NÕME! {01 00 00 05 00}Ma olin nii hoos\ntasuta kraami saamisest!"
   },
   {
    "id": 1,
    "en": "{07 00 00}{0b 03 00}{04 1f 00}!{01 00 00 05 00} How's the\n{ff 00 00 03}Flea Market{ff 00 00 00} treating you?\n\n{07 04 00}Me?{01 01 00} {07 14 00}Oh yeah, I haven't\nreally done anything at all\nfor it yet, {01 00 00 05 00}{04 02 00}.",
-   "et": ""
+   "et": "{07 00 00}{0b 03 00}{04 1f 00}!{01 00 00 05 00} Kuidas\n{ff 00 00 03}kirbuturg{ff 00 00 00} sind kohtleb?\n\n{07 04 00}Mina?{01 01 00} {07 14 00}Ah jaa, ma pole\nveel üldse midagi\nselleks teinud, {01 00 00 05 00}{04 02 00}."
   },
   {
    "id": 2,
    "en": "{07 00 00}I might stop by your place\nand buy a bunch of your\nfurniture.\n{07 15 00}So you better not spill\nanything sticky on it,\n{01 00 00 05 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 00 00}Ma võin sinu juurest läbi\nastuda ja osta hunniku\nsu mööblit.\n{07 15 00}Nii et ära aja sellele\nmidagi kleepuvat peale,\n{01 00 00 05 00}{04 02 00}!"
   },
   {
    "id": 3,
    "en": "{07 15 00}{0b 03 00}{ff 00 00 05}{04 1f 00}{ff 00 00 00}!{01 00 00 0a 00} You're still\nhere?! {07 16 00}But I was on my way\nto your house!\n{07 06 00}And if you're not at your\npad, I can't buy stuff from\nyou, {01 00 00 05 00}{04 02 00}!\n{07 15 00}Show some hustle, kid!\n{01 00 00 05 00}I don't need to bust out my\nwhistle, do I?!",
-   "et": ""
+   "et": "{07 15 00}{0b 03 00}{ff 00 00 05}{04 1f 00}{ff 00 00 00}!{01 00 00 0a 00} Sa oled ikka\nsiin?! {07 16 00}Aga ma olin teel\nsinu majja!\n{07 06 00}Ja kui sa pole oma kodus,\nei saa ma sinult asju\nosta, {01 00 00 05 00}{04 02 00}!\n{07 15 00}Näita hoogu, poiss!\n{01 00 00 05 00}Ma ei pea ju vilet\nvälja võtma?!"
   },
   {
    "id": 4,
    "en": "{07 14 00}Hey, good to see you! You\ngotta see my hot new\nwares, {01 00 00 05 00}{04 02 00}!\n{07 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 04 00}Oh! Dude!{01 00 00 0a 00} I'm not even\nin my house!\n\n{07 16 00}Whoa. {01 00 00 05 00}I guess I've just been\nin the {ff 00 00 03}Flea Market{ff 00 00 00} zone\nlately.",
-   "et": ""
+   "et": "{07 14 00}Hei, tore sind näha! Sa\npead nägema mu kuumi uusi\nkaupu, {01 00 00 05 00}{04 02 00}!\n{07 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 04 00}Oh! Mees!{01 00 00 0a 00} Ma pole isegi\noma majas!\n\n{07 16 00}Ohoo. {01 00 00 05 00}Ma olen viimasel ajal\nlihtsalt {ff 00 00 03}kirbuturu{ff 00 00 00}\ntsoonis."
   },
   {
    "id": 5,
    "en": "{07 00 00}Today is {ff 00 00 03}Flea Market {ff 00 00 00}day,\nright? {01 00 00 05 00}Aren't people gonna\nstart shopping at your pad?\n{07 06 00}I mean, {01 00 00 05 00}I'm headed there\nRIGHT NOW, {01 00 00 05 00}{04 02 00}.{01 00 00 05 00}\n{07 0b 00}So why aren't you there?!",
-   "et": ""
+   "et": "{07 00 00}Täna on {ff 00 00 03}kirbuturu {ff 00 00 00}päev,\neks? {01 00 00 05 00}Kas inimesed ei hakka\nsinu juures ostlema?\n{07 06 00}Ma mõtlen, {01 00 00 05 00}ma lähen sinna\nKOHE, {01 00 00 05 00}{04 02 00}.{01 00 00 05 00}\n{07 0b 00}Miks sa siis seal pole?!"
   }
  ]
 }

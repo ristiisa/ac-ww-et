@@ -4,67 +4,67 @@
   {
    "id": 0,
    "en": "{07 0b 00}{01 00 00 0a 00}Hey, you have a {ff 00 00 07}{01 00 00 05 00}watering\ncan{ff 00 00 00}, right?{02 00 00 05 06}\nOf course!\nUh, no.",
-   "et": ""
+   "et": "{07 0b 00}{01 00 00 0a 00}Hei, sul on {ff 00 00 07}{01 00 00 05 00}kaste-\nkann{ff 00 00 00}, eks?{02 00 00 05 06}\nMuidugi!\nEe, ei."
   },
   {
    "id": 1,
    "en": "{07 14 00}Hey, you know about the\n{01 00 00 05 00}{ff 00 00 08}Able Sisters{ff 00 00 00} shop, right?{02 00 00 07 08}\nOh, yeah!\nWhat's that?",
-   "et": ""
+   "et": "{07 14 00}Hei, sa tead\n{01 00 00 05 00}{ff 00 00 08}Able Sistersi{ff 00 00 00} poodi, eks?{02 00 00 07 08}\nOo, jaa!\nMis see on?"
   },
   {
    "id": 2,
    "en": "{07 0b 00}{01 00 00 0a 00}Have you ever had{01 00 00 05 00} {ff 00 00 06}Katrina\n{ff 00 00 00}tell you your fortune?{02 00 00 09 0a}\nWho?\nOh, yeah!",
-   "et": ""
+   "et": "{07 0b 00}{01 00 00 0a 00}Kas sul on kunagi{01 00 00 05 00} {ff 00 00 06}Katrina\n{ff 00 00 00}tulevikku ennustanud?{02 00 00 09 0a}\nKes?\nOo, jaa!"
   },
   {
    "id": 3,
    "en": "{07 15 00}A true fashion connoisseur\nknows how to accessorize!\n\n{06 03 00 0b 0c}",
-   "et": ""
+   "et": "{07 15 00}Tõeline moeasjatundja\noskab aksessuaare valida!\n\n{06 03 00 0b 0c}"
   },
   {
    "id": 4,
    "en": "If you see a{01 00 00 05 00} {ff 00 00 07}scorpion{ff 00 00 00} or a\n{ff 00 00 07}tarantula{ff 00 00 00}, {01 00 00 05 00}above all, you\nmust stay calm!\n{07 15 00}They'll attack{01 00 00 05 00} if you swing\nyour {ff 00 00 07}net{ff 00 00 00} around like a\ncrazy person. \n{07 19 00}But if you act like you can\nsee them, they won't bug\nyou at all, {01 00 00 05 00}{04 02 00}!{07 00 00}",
-   "et": ""
+   "et": "Kui näed{01 00 00 05 00} {ff 00 00 07}skorpioni{ff 00 00 00} või\n{ff 00 00 07}tarantlit{ff 00 00 00}, {01 00 00 05 00}pead ennekõike\njääma rahulikuks!\n{07 15 00}Nad ründavad{01 00 00 05 00}, kui vehid\n{ff 00 00 07}võrguga{ff 00 00 00} nagu\nhullumeelne.\n{07 19 00}Aga kui teed näo, et sa\nneid näed, ei tülita nad\nsind üldse, {01 00 00 05 00}{04 02 00}!{07 00 00}"
   },
   {
    "id": 5,
    "en": "{07 14 00}Yeah, {01 00 00 0a 00}{04 1f 00},{01 00 00 0a 00} you have\nto make sure not to let\nflowers wither!\n{07 0e 00}{01 00 00 0a 00}Flowers{01 00 00 0a 00} are kinda like\nwomen, {01 00 00 05 00}{04 02 00}.\n\n{07 1c 00}{01 00 00 14 00}Give 'em care and they perk\nup,{01 00 00 05 00} but ignore 'em and they\nwilt and hit you with a net.",
-   "et": ""
+   "et": "{07 14 00}Jah, {01 00 00 0a 00}{04 1f 00},{01 00 00 0a 00} sa pead\nhoolitsema, et lilled\nei närtsiks!\n{07 0e 00}{01 00 00 0a 00}Lilled{01 00 00 0a 00} on natuke nagu\nnaised, {01 00 00 05 00}{04 02 00}.\n\n{07 1c 00}{01 00 00 14 00}Anna neile hoolt ja nad\nergastuvad,{01 00 00 05 00} eira ja nad\nnärtsivad ja löövad sind."
   },
   {
    "id": 6,
    "en": "{07 1d 00}{01 00 00 0a 00}What?! {01 00 00 0a 00}Have you, like,{01 00 00 0a 00} never\nplanted a flower before,\n{01 00 00 05 00}{04 02 00}?\n{07 0e 00}{01 00 00 0a 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 01 00}{07 19 00}Hm.{01 00 00 14 00} Well,{01 00 00 05 00} different\nstrokes for different\nfolks, I guess.{07 00 00}",
-   "et": ""
+   "et": "{07 1d 00}{01 00 00 0a 00}Mida?! {01 00 00 0a 00}Kas sa pole nagu{01 00 00 0a 00}\nkunagi lille istutanud,\n{01 00 00 05 00}{04 02 00}?\n{07 0e 00}{01 00 00 0a 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 01 00}{07 19 00}Hm.{01 00 00 14 00} Noh,{01 00 00 05 00} igaühel\noma kombed,\nvist.{07 00 00}"
   },
   {
    "id": 7,
    "en": "{07 19 00}You know that they'll{01 00 00 0a 00} put\nyour original designs on\ndisplay there, right?\n{07 14 00}Lately,{01 00 00 05 00} we've been so busy\ngossiping that I haven't\ndesigned a thing.{01 00 00 0a 00} Oops!",
-   "et": ""
+   "et": "{07 19 00}Sa ju tead, et nad{01 00 00 0a 00} panevad\nsinu enda kujundused seal\nvälja, eks?\n{07 14 00}Viimasel ajal{01 00 00 05 00} oleme nii palju\nklatšinud, et ma pole midagi\nkujundanud.{01 00 00 0a 00} Uups!"
   },
   {
    "id": 8,
    "en": "{07 16 00}That's the {ff 00 00 08}tailor shop{ff 00 00 00} that\nthe sisters {ff 00 00 06}Mabel{ff 00 00 00} and {ff 00 00 06}Sable{ff 00 00 00}\nrun together!\nHow did you not know?{01 00 00 0a 00}\nThey'll print your designs\non clothes and hats!\n{07 14 00}So when you're tired of\nbuying off the rack, you\nshould stop in, {01 00 00 05 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 16 00}See on {ff 00 00 08}rätsepatöökoda{ff 00 00 00},\nmida õed {ff 00 00 06}Mabel{ff 00 00 00} ja {ff 00 00 06}Sable{ff 00 00 00}\nkoos peavad!\nKuidas sa ei teadnud?{01 00 00 0a 00}\nNad trükivad su kujundused\nriietele ja mütsidele!\n{07 14 00}Nii et kui oled riiulist\nostmisest tüdinud, astu\nsisse, {01 00 00 05 00}{04 02 00}!"
   },
   {
    "id": 9,
    "en": "{07 0e 00}{01 00 00 0a 00}The mysterious fortune-\nteller whose cards can tell\nyou what tomorrow holds{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 05 00}Next time I see her{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} {01 00 00 0a 00}I'm\ngonna ask about the man\nof my dreams, {01 00 00 0a 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 0e 00}{01 00 00 0a 00}Salapärane ennustaja,\nkelle kaardid ütlevad,\nmis homme tuleb{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 05 00}Järgmine kord{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} {01 00 00 0a 00}küsin ma\noma unistuste mehe\nkohta, {01 00 00 0a 00}{04 02 00}!"
   },
   {
    "id": 10,
    "en": "{07 0e 00}{01 00 00 0a 00}She used to use her crystal\nball to see the secrets of\nthe future, but\n{07 19 00}she recently switched props.\nSo she uses cards now,\n{01 00 00 0a 00}{07 00 00}{04 02 00}.",
-   "et": ""
+   "et": "{07 0e 00}{01 00 00 0a 00}Ta kasutas varem kristall-\nkuuli, et näha tuleviku\nsaladusi, aga\n{07 19 00}hiljuti vahetas ta vahendit.\nNüüd kasutab ta kaarte,\n{01 00 00 0a 00}{07 00 00}{04 02 00}."
   },
   {
    "id": 11,
    "en": "Like with facial hair. {07 13 00}{01 00 00 0a 00}I {00 00 00}\nmoustaches!{01 00 00 0a 00} I think they\nmake guys look super tough.\n{07 14 00}It might even help you in\nthat department. Try it!{01 01 00}\n{07 0d 00}GO! GO!",
-   "et": ""
+   "et": "Näiteks näokarvad. {07 13 00}{01 00 00 0a 00}Ma {00 00 00}\nvuntse!{01 00 00 0a 00} Minu arust teevad\nnad poisid ülikarmiks.\n{07 14 00}See võib isegi sind selles\nvallas aidata. Proovi!{01 01 00}\n{07 0d 00}LÄHME! LÄHME!"
   },
   {
    "id": 12,
    "en": "{07 0c 00}{01 00 00 0a 00}Oooh, glasses!{01 01 00} {07 00 00}Glasses can\nchange the way someone\nlooks instantly!\n{07 14 00}And some boys really like\ngirls who wear glasses,\n{01 00 00 0a 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 0c 00}{01 00 00 0a 00}Ooo, prillid!{01 01 00} {07 00 00}Prillid võivad\nkellegi välimust hetkega\nmuuta!\n{07 14 00}Ja mõnele poisile meeldivad\nprillidega tüdrukud väga,\n{01 00 00 0a 00}{04 02 00}!"
   }
  ]
 }

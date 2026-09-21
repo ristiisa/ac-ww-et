@@ -4,17 +4,17 @@
   {
    "id": 0,
    "en": "{07 00 00}Hey yo, {04 1f 00}!{01 00 00 05 00}\n{07 0b 00}See anything you like?\n\n{07 14 00}If you've got your eye on\nsomething, lemme know!{02 04 00 ff ff}\nI do!\nJust looking.",
-   "et": ""
+   "et": "{07 00 00}Hei jou, {04 1f 00}!{01 00 00 05 00}\n{07 0b 00}Näed midagi, mis meeldib?\n\n{07 14 00}Kui sul on midagi silma\njäänud, anna teada!{02 04 00 ff ff}\nJah!\nAinult vaatan."
   },
   {
    "id": 1,
    "en": "{07 0b 00}Isn't there ANYTHING you\nlike here, {01 00 00 05 00}{04 02 00}?\n\n{07 14 00}C'mon, you KNOW you want\nsomething, {01 00 00 05 00}{04 02 00}!{02 04 00 ff ff}\nYup!\nJust browsing.",
-   "et": ""
+   "et": "{07 0b 00}Kas siin pole MIDAGI, mis\nsulle meeldib, {01 00 00 05 00}{04 02 00}?\n\n{07 14 00}Ole nüüd, sa ju TAHAD\nmidagi, {01 00 00 05 00}{04 02 00}!{02 04 00 ff ff}\nJah!\nAinult sirvin."
   },
   {
    "id": 2,
    "en": "{07 16 00}I see those puppy-dog eyes!\n\n\n{07 00 00}You want something here, I\ncan tell! {01 00 00 05 00}So fill me in,\n{01 00 00 05 00}{04 02 00}!{02 04 00 ff ff}\nDeal!\nNo thanks.",
-   "et": ""
+   "et": "{07 16 00}Ma näen neid kutsikasilmi!\n\n\n{07 00 00}Sa tahad siit midagi, ma\nnäen! {01 00 00 05 00}Nii et räägi,\n{01 00 00 05 00}{04 02 00}!{02 04 00 ff ff}\nKäsi peale!\nEi, aitäh."
   }
  ]
 }

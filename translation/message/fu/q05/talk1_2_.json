@@ -4,17 +4,17 @@
   {
    "id": 0,
    "en": "{07 0d 00}I'm usually quite easygoing,{01 00 00 05 00}\nbut I'm not going to budge\nan inch on this one!",
-   "et": ""
+   "et": "{07 0d 00}Olen tavaliselt rahulik,{01 00 00 05 00}\naga selles asjas ma ei\ntaandu sentimeetritki!"
   },
   {
    "id": 1,
    "en": "{07 14 00}OK, {01 00 00 05 00}let's do it, {01 00 00 05 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 14 00}Olgu, {01 00 00 05 00}teeme ära, {01 00 00 05 00}{04 02 00}!"
   },
   {
    "id": 2,
    "en": "{07 14 00}I can't help it! {01 00 00 05 00}I'm just\ntotally crazy for\n{ff 00 00 07}{04 0f 00}{ff 00 00 00}.",
-   "et": ""
+   "et": "{07 14 00}Ma ei saa parata! {01 00 00 05 00}Ma olen\nlihtsalt täiesti hull\n{ff 00 00 07}{04 0f 00}{ff 00 00 00} järele."
   }
  ]
 }

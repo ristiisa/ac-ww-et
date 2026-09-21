@@ -4,62 +4,62 @@
   {
    "id": 0,
    "en": "{07 14 00}Hey, {01 00 00 05 00}{04 1f 00},{01 00 00 0a 00} {07 0b 00}could you\ntell me a little about\nyour hometown?{02 02 00 03 04 05 06}\nIt's the best.\nIt's all right.\nIt's weird.\nI can't say.",
-   "et": ""
+   "et": "{07 14 00}Hei, {01 00 00 05 00}{04 1f 00},{01 00 00 0a 00} {07 0b 00}kas sa\nsaaksid mulle natuke oma\nkodulinnast rääkida?{02 02 00 03 04 05 06}\nSee on parim.\nSee on okei.\nSee on veider.\nMa ei oska öelda."
   },
   {
    "id": 1,
    "en": "{06 03 00 07 08}",
-   "et": ""
+   "et": "{06 03 00 07 08}"
   },
   {
    "id": 2,
    "en": "So, back in your hometown,\n{07 0b 00}do you have a golden\n{04 15 00}?{02 01 00 09 0a 0b}\nYep!\nNo...\nA golden what?",
-   "et": ""
+   "et": "Nii, kas sinu kodulinnas\n{07 0b 00}on kuldne\n{04 15 00}?{02 01 00 09 0a 0b}\nJah!\nEi...\nKuldne mis?"
   },
   {
    "id": 3,
    "en": "{07 04 00}Oh, my!{01 00 00 0f 00} {07 14 00}You must really\nlike it in your hometown,\n{01 00 00 05 00}{04 02 00}.\n{07 00 00}It sounds nice.{01 00 00 0f 00} Actually,\n{07 0f 00}it sounds nicer than\n{04 03 00}!\n{07 14 00}Maybe I'll get a chance to\nvisit it someday,\n{01 00 00 05 00}{04 02 00}.",
-   "et": ""
+   "et": "{07 04 00}Oh sa!{01 00 00 0f 00} {07 14 00}Sulle peab oma\nkodulinnas tõesti meeldima,\n{01 00 00 05 00}{04 02 00}.\n{07 00 00}Kõlab kenasti.{01 00 00 0f 00} Tegelikult\n{07 0f 00}kõlab see kenamalt kui\n{04 03 00}!\n{07 14 00}Ehk saan ma kunagi\nseda külastada,\n{01 00 00 05 00}{04 02 00}."
   },
   {
    "id": 4,
    "en": "{07 04 00}Oh, that's really{01 00 00 0a 00}{07 0b 00}\nnoncommittal, {01 00 00 0a 00}{04 02 00}.\n\n{07 00 00}No place is perfect, but{01 00 00 05 00}\nthat's why we work so hard\nto make things better!",
-   "et": ""
+   "et": "{07 04 00}Oh, see on tõesti{01 00 00 0a 00}{07 0b 00}\npõiklev vastus, {01 00 00 0a 00}{04 02 00}.\n\n{07 00 00}Ükski koht pole täiuslik,{01 00 00 05 00}\njust seepärast me töötame,\net asju paremaks teha!"
   },
   {
    "id": 5,
    "en": "{07 14 00}I see. Weird, is it? That's\nawfully.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} {07 00 00}Wait a minute.{01 00 00 0f 00}{07 0b 00}\nWhat's so weird about it?\nYou can't just say\nsomething like that and not\nexplain what you mean...\n{07 0d 00}Now I totally want to see\nwhat makes your hometown\nso strange, {01 00 00 05 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 14 00}Selge. Veider? See on\nkohutavalt.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} {07 00 00}Oota hetk.{01 00 00 0f 00}{07 0b 00}\nMis seal nii veidrat on?\nSa ei saa lihtsalt midagi\nsellist öelda ja mitte\nseletada, mida sa mõtled...\n{07 0d 00}Nüüd tahan ma täiesti näha,\nmis teeb su kodulinna\nnii kummaliseks, {01 00 00 05 00}{04 02 00}!"
   },
   {
    "id": 6,
    "en": "{07 08 00}That's mean, {01 00 00 05 00}{04 02 00}!\n{07 16 00}It's not like it costs you\nanything to tell me!\n{07 04 00}Ohh!{01 00 00 0f 00} Unless there's a\nreason {07 0b 00}you CAN'T tell me?\nCan you not talk openly?\n{07 16 00}If you're in danger, blink\nonce for yes and twice for\nno, {01 00 00 05 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 08 00}See on õel, {01 00 00 05 00}{04 02 00}!\n{07 16 00}Sulle ei maksa ju midagi\nmulle öelda!\n{07 04 00}Ohh!{01 00 00 0f 00} Kui just pole põhjust,\n{07 0b 00}miks sa EI SAA öelda?\nKas sa ei saa avalikult?\n{07 16 00}Kui sa oled ohus, pilguta\nkord jah ja kaks korda\nei, {01 00 00 05 00}{04 02 00}!"
   },
   {
    "id": 7,
    "en": "I, uh.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} {07 06 00}Actually, I'm a bit\nmore dressed up than usual\nright now, {01 00 00 05 00}{04 02 00}!\n{07 04 00}Oh! {01 00 00 0f 00}What am I saying!{01 00 00 14 00} {07 06 00}Now I\nsound like I'm a total slob\nmost of the time!",
-   "et": ""
+   "et": "Ma, ee.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} {07 06 00}Tegelikult olen ma\npraegu pisut rohkem riides\nkui tavaliselt, {01 00 00 05 00}{04 02 00}!\n{07 04 00}Oh! {01 00 00 0f 00}Mida ma räägin!{01 00 00 14 00} {07 06 00}Nüüd\nkõlan ma nagu oleksin\nenamiku ajast lohakas!"
   },
   {
    "id": 8,
    "en": "{07 0d 00}I'm so glad I've made\nfriends with someone from\nout of town, {01 00 00 05 00}{04 02 00}!\n{07 14 00}Be sure to write me from\ntime to time, OK?",
-   "et": ""
+   "et": "{07 0d 00}Mul on nii hea meel, et ma\nsain sõbraks kellegagi\nteisest linnast, {01 00 00 05 00}{04 02 00}!\n{07 14 00}Kirjuta mulle kindlasti\naeg-ajalt, eks?"
   },
   {
    "id": 9,
    "en": "{07 00 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}You don't take me\nseriously, do you?\n\n{07 05 00}Don't toy with me! {01 00 00 0f 00}{07 15 00}I know\nthere's no such thing, so I\nknow you don't have one!\nWhy would you lie to me\nlike that, {01 00 00 05 00}{04 02 00}?!{03 02 00 01}",
-   "et": ""
+   "et": "{07 00 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}Sa ei võta mind\ntõsiselt, ega?\n\n{07 05 00}Ära mängi minuga! {01 00 00 0f 00}{07 15 00}Ma tean,\net sellist asja pole, nii et\nma tean, et sul pole seda!\nMiks sa nii mulle\nvaletad, {01 00 00 05 00}{04 02 00}?!{03 02 00 01}"
   },
   {
    "id": 10,
    "en": "{07 14 00}Good answer, {01 00 00 05 00}{04 02 00}.\n\n\n{07 06 00}I wouldn't have been able\nto take you seriously if\nyou'd lied to me.",
-   "et": ""
+   "et": "{07 14 00}Hea vastus, {01 00 00 05 00}{04 02 00}.\n\n\n{07 06 00}Ma poleks saanud sind\ntõsiselt võtta, kui sa\noleksid mulle valetanud."
   },
   {
    "id": 11,
    "en": "{07 16 00}Oh, {01 00 00 05 00}no.{01 00 00 0f 00} Never mind,\n{01 00 00 05 00}{04 02 00}.\n\nIt was just part of this\nstrange dream I had last\nnight, {01 00 00 05 00}{04 02 00}.",
-   "et": ""
+   "et": "{07 16 00}Oh, {01 00 00 05 00}ei.{01 00 00 0f 00} Pole tähtis,\n{01 00 00 05 00}{04 02 00}.\n\nSee oli lihtsalt osa\nveidrast unenäost, mis mul\neile öösel oli, {01 00 00 05 00}{04 02 00}."
   }
  ]
 }

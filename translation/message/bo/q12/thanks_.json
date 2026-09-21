@@ -4,17 +4,17 @@
   {
    "id": 0,
    "en": "{07 14 00}Thanks to you, {04 1f 00},\nI'm good as new!\n\n{07 07 00}If it weren't for you, I\nmight've never been able to\neat again!\n{07 14 00}I should give you something\nfor saving my life,\n{01 00 00 05 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 14 00}Tänu sinule, {04 1f 00},\nolen jälle nagu uus!\n\n{07 07 00}Kui sind poleks olnud, ei\noleks ma ehk enam kunagi\nsüüa saanud!\n{07 14 00}Peaksin sulle midagi andma\nmu elu päästmise eest,\n{01 00 00 05 00}{04 02 00}!"
   },
   {
    "id": 1,
    "en": "{07 14 00}{0b 03 00}{04 1f 00}, your tender\ncare has returned me\nto full health!\n{07 19 00}I can really count on you{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 14 00}Thanks for attending to me\nin my time of plague!",
-   "et": ""
+   "et": "{07 14 00}{0b 03 00}{04 1f 00}, sinu hell\nhoolitsus on mu\ntäielikult terveks teinud!\n{07 19 00}Sinu peale võib loota{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 14 00}Aitäh, et hoolitsesid minu\neest katkuajal!"
   },
   {
    "id": 2,
    "en": "{07 00 00}Hey, come to think of it...{01 00 00 0a 00}\n{07 14 00}My cold's all gone now!\n{07 00 00}That {ff 00 00 07}medicine{ff 00 00 00} really worked!\n{07 14 00}Thanks for everything,\nbuddy!\n\nI want to give you\nsomething for bringing me\n{ff 00 00 07}medicine{ff 00 00 00}, {01 00 00 05 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 00 00}Hei, kui järele mõelda...{01 00 00 0a 00}\n{07 14 00}Mu külmetus on nüüd läbi!\n{07 00 00}See {ff 00 00 07}rohi{ff 00 00 00} tõesti mõjus!\n{07 14 00}Aitäh kõige eest,\nsemu!\n\nTahan sulle midagi anda\nselle eest, et tõid mulle\n{ff 00 00 07}rohtu{ff 00 00 00}, {01 00 00 05 00}{04 02 00}!"
   }
  ]
 }

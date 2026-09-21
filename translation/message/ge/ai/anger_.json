@@ -4,27 +4,27 @@
   {
    "id": 0,
    "en": "{07 05 00}Grrrrrrr!{01 00 00 0a 00} Just leave me\nalone, OK?! {01 00 00 05 00}{0b 03 00}{04 02 00}!{03 02 00 01}",
-   "et": ""
+   "et": "{07 05 00}Grrrrrrr!{01 00 00 0a 00} Jäta mind\nrahule, eks?! {01 00 00 05 00}{0b 03 00}{04 02 00}!{03 02 00 01}"
   },
   {
    "id": 1,
    "en": "{07 05 00}Hey! {01 00 00 05 00}Can't you see I'm in no\nmood to talk right now?{03 02 00 01}",
-   "et": ""
+   "et": "{07 05 00}Hei! {01 00 00 05 00}Kas sa ei näe, et mul\npole praegu tuju rääkida?{03 02 00 01}"
   },
   {
    "id": 2,
    "en": "{07 05 00}Oooh! You know what I hate\nmost of all? {01 00 00 0a 00}Insensitive\nJERKS, {01 00 00 05 00}{04 02 00}!{03 02 00 01}",
-   "et": ""
+   "et": "{07 05 00}Ohhh! Tead, mida ma kõige\nrohkem vihkan? {01 00 00 0a 00}Tundetuid\nTOLASID, {01 00 00 05 00}{04 02 00}!{03 02 00 01}"
   },
   {
    "id": 3,
    "en": "{07 05 00}I'm so mad, I can't hear a\nword you're saying!\n{01 00 00 05 00}{0b 03 00}{04 02 00}!{03 02 00 01}",
-   "et": ""
+   "et": "{07 05 00}Olen nii vihane, et ei kuule\nsõnagi, mida sa räägid!\n{01 00 00 05 00}{0b 03 00}{04 02 00}!{03 02 00 01}"
   },
   {
    "id": 4,
    "en": "{07 05 00}No one, not a single person,\nunderstands how I feel.{01 00 00 05 00}\nI'm so sick of it!{03 02 00 01}",
-   "et": ""
+   "et": "{07 05 00}Mitte keegi, mitte üks\ninimene ei mõista mind.{01 00 00 05 00}\nMul on sellest nii kõrini!{03 02 00 01}"
   }
  ]
 }

@@ -4,12 +4,12 @@
   {
    "id": 0,
    "en": "{07 15 00}Ugh!{01 00 00 14 00} Fine!{01 00 00 14 00} I got the bug I\nwanted.\n\n{07 00 00}Here you go. Here's\n{04 1b 00}{01 00 00 05 00} for\nyour trouble, {01 00 00 05 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 15 00}Uhh!{01 00 00 14 00} Olgu!{01 00 00 14 00} Sain putuka,\nmida tahtsin.\n\n{07 00 00}Säh. Siin on\n{04 1b 00}{01 00 00 05 00}\nsinu vaeva eest, {01 00 00 05 00}{04 02 00}!"
   },
   {
    "id": 1,
    "en": "{07 0f 00}I{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}lost?{01 01 00} Man! This bad luck\nhas infected me like a\nplague.\n{07 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}Ah well,{01 00 00 05 00} at least I get\nthe bug and you get{01 00 00 14 00}\n{01 00 00 05 00}{04 1b 00}!",
-   "et": ""
+   "et": "{07 0f 00}Ma{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}kaotasin?{01 01 00} Poiss! See\nhalb õnn on mind\nnakatanud nagu katk.\n{07 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}Noh,{01 00 00 05 00} vähemalt saan mina\nputuka ja sina saad{01 00 00 14 00}\n{01 00 00 05 00}{04 1b 00}!"
   }
  ]
 }

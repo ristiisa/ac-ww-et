@@ -4,32 +4,32 @@
   {
    "id": 0,
    "en": "{07 15 00}What?! {01 00 00 0a 00}YOU AGAIN! Gosh,\ndon't you have anything\nbetter to do, {01 00 00 05 00}{04 02 00}?{01 00 00 05 00}{03 00 00}",
-   "et": ""
+   "et": "{07 15 00}Mis?! {01 00 00 0a 00}JÄLLE SINA! Issand,\nkas sul pole midagi\nparemat teha, {01 00 00 05 00}{04 02 00}?{01 00 00 05 00}{03 00 00}"
   },
   {
    "id": 1,
    "en": "{07 15 00}You know what? {01 00 00 05 00}Even I don't\nhave anything else to say!\n{01 00 00 05 00}{0b 03 00}{04 02 00}!{01 00 00 05 00}{03 00 00}",
-   "et": ""
+   "et": "{07 15 00}Tead mis? {01 00 00 05 00}Isegi minul pole\nenam midagi öelda!\n{01 00 00 05 00}{0b 03 00}{04 02 00}!{01 00 00 05 00}{03 00 00}"
   },
   {
    "id": 2,
    "en": "{07 15 00}I know you like me, but this\nis getting to be way, way,\nWAY too much, {01 00 00 05 00}{04 02 00}!{01 00 00 05 00}{03 00 00}",
-   "et": ""
+   "et": "{07 15 00}Ma tean, et ma meeldin\nsulle, aga see läheb palju,\nliiga kaugele, {01 00 00 05 00}{04 02 00}!{01 00 00 05 00}{03 00 00}"
   },
   {
    "id": 3,
    "en": "{07 01 00}You {01 00 00 05 00}are {01 00 00 05 00}really {01 00 00 05 00}BUGGING {01 00 00 05 00}ME!\n{01 00 00 0a 00}Sheesh! I never realized how\nhigh-maintenance you were!{01 00 00 05 00}{03 00 00}",
-   "et": ""
+   "et": "{07 01 00}Sa {01 00 00 05 00}käid {01 00 00 05 00}mulle {01 00 00 05 00}KÕVASTI {01 00 00 05 00}PINDA!\n{01 00 00 0a 00}Issand! Ma ei taibanud, kui\nnõudlik sa oled!{01 00 00 05 00}{03 00 00}"
   },
   {
    "id": 4,
    "en": "{07 01 00}LEAVE ME ALONE! {01 00 00 0a 00}You're like a\nchewed-up piece of gum I\naccidentally sat on! GAG ME!{01 00 00 05 00}{03 00 00}",
-   "et": ""
+   "et": "{07 01 00}JÄTA MIND! {01 00 00 0a 00}Sa oled nagu\nnäritud närimiskumm, millele\nma kogemata istusin! ÖÖK!{01 00 00 05 00}{03 00 00}"
   },
   {
    "id": 5,
    "en": "{07 01 00}Grrrrrrrrrrrrrr!{01 00 00 0a 00} You're\ngetting on my last nerve,\n{01 00 00 05 00}{04 02 00}!{01 00 00 05 00}{03 00 00}",
-   "et": ""
+   "et": "{07 01 00}Grrrrrrrrrrrrrr!{01 00 00 0a 00} Sa käid\nmulle viimse närvi pihta,\n{01 00 00 05 00}{04 02 00}!{01 00 00 05 00}{03 00 00}"
   }
  ]
 }

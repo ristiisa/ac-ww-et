@@ -4,57 +4,57 @@
   {
    "id": 0,
    "en": "{09 01 00}{09 08 00}Hey, {ff 00 00 06}{04 10 00}{ff 00 00 00},{07 0b 00} can you\ncook a three-course meal,\n{01 00 00 05 00}{04 02 00}?{09 09 00}",
-   "et": ""
+   "et": "{09 01 00}{09 08 00}Hei, {ff 00 00 06}{04 10 00}{ff 00 00 00},{07 0b 00} kas oskad\nkolmekäigulist einet teha,\n{01 00 00 05 00}{04 02 00}?{09 09 00}"
   },
   {
    "id": 1,
    "en": "{09 01 00}{09 08 00}So, {ff 00 00 06}{04 10 00}{ff 00 00 00},{01 00 00 05 00}{07 0b 00} are you\ndating anyone right now,{01 00 00 05 00}\n{04 02 00}?{09 09 00}",
-   "et": ""
+   "et": "{09 01 00}{09 08 00}Nii, {ff 00 00 06}{04 10 00}{ff 00 00 00},{01 00 00 05 00}{07 0b 00} kas sa\nkäid praegu kellegagi,{01 00 00 05 00}\n{04 02 00}?{09 09 00}"
   },
   {
    "id": 2,
    "en": "{07 14 00}{09 01 00}{09 08 00}If you stuffed your cheeks\nfull of {04 12 00}\nand then {04 13 00},\n{07 0b 00}what do you think it would\ntaste like,{01 00 00 05 00} {04 02 00}?{09 09 00}",
-   "et": ""
+   "et": "{07 14 00}{09 01 00}{09 08 00}Kui topiksid põsed täis\n{04 12 00}\nja siis {04 13 00},\n{07 0b 00}mis sa arvad, mis maitse\nsellel oleks,{01 00 00 05 00} {04 02 00}?{09 09 00}"
   },
   {
    "id": 3,
    "en": "{09 00 00}{09 08 00}{09 02 00}{09 06 00}Well, of course!{01 00 00 0f 00}{07 15 00} Any doofus\ncan do it! {01 00 00 05 00}It's easy,\n{04 02 00}!\n{07 19 00}Just make\n{04 13 00},{01 00 00 05 00} rice,{01 00 00 05 00}\nand {04 11 00}.{01 00 00 05 00}.{01 00 00 05 00}.\nOr portobello Wellington,{01 00 00 05 00}\nrice,{01 00 00 05 00} and juice.{01 00 00 05 00}.{01 00 00 05 00}.{07 15 00}\n\n{07 14 00}That's what you mean, isn't\nit? {01 01 00}And, NO,{07 01 00} I'm not going\nto cook for you!{09 09 00}",
-   "et": ""
+   "et": "{09 00 00}{09 08 00}{09 02 00}{09 06 00}Noh, muidugi!{01 00 00 0f 00}{07 15 00} Iga tainapea\noskab seda! {01 00 00 05 00}See on lihtne,\n{04 02 00}!\n{07 19 00}Tee lihtsalt\n{04 13 00},{01 00 00 05 00} riisi{01 00 00 05 00}\nja {04 11 00}.{01 00 00 05 00}.{01 00 00 05 00}.\nVõi seenepirukas,{01 00 00 05 00}\nriis{01 00 00 05 00} ja mahl.{01 00 00 05 00}.{01 00 00 05 00}.{07 15 00}\n\n{07 14 00}Seda sa mõtlesidki, kas\npole? {01 01 00}Ja EI,{07 01 00} ma ei hakka\nsulle süüa tegema!{09 09 00}"
   },
   {
    "id": 4,
    "en": "{09 01 00}{07 0e 00}Yeah,{01 00 00 0f 00} well,{09 02 00}{07 00 00}{09 01 00} I like rice the\nmost, so I tend to eat a\nlot of it{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 00 00}So, for me, a three-course\nmeal would be rice,{01 00 00 05 00} rice,{01 00 00 05 00}\nand {04 11 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\nOr rice,{01 00 00 05 00} rice,{01 00 00 05 00} and\njuice{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n\n{07 0a 00}I'm totally OK with that,{01 00 00 05 00}\n{04 02 00}!{09 09 00}",
-   "et": ""
+   "et": "{09 01 00}{07 0e 00}Jah,{01 00 00 0f 00} noh,{09 02 00}{07 00 00}{09 01 00} mulle meeldib\nriis kõige rohkem, nii et\nsöön seda palju{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 00 00}Minu kolmekäiguline eine\noleks riis,{01 00 00 05 00} riis{01 00 00 05 00}\nja {04 11 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\nVõi riis,{01 00 00 05 00} riis{01 00 00 05 00} ja\nmahl{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n\n{07 0a 00}Mind see täiesti rahuldab,{01 00 00 05 00}\n{04 02 00}!{09 09 00}"
   },
   {
    "id": 5,
    "en": "{09 00 00}{09 08 00}{09 02 00}{07 09 00}Oh, wow, {ff 00 00 06}{04 0f 00}{ff 00 00 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0f 00} You\nare so dense. That's not a\nthree-course meal at all!\nThat's just a pile of rice!",
-   "et": ""
+   "et": "{09 00 00}{09 08 00}{09 02 00}{07 09 00}Oh, vau, {ff 00 00 06}{04 0f 00}{ff 00 00 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0f 00} Sa\noled nii juhm. See pole\nüldse kolmekäiguline eine!\nSee on lihtsalt riisihunnik!"
   },
   {
    "id": 6,
    "en": "{09 00 00}{09 08 00}{09 02 00}{09 06 00}Tee hee hee! This is just\nbetween us{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n\n{07 14 00}but if I say I am, I am,{01 01 00}\nand if I say I'm not, I'm\nnot{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 0b 00}How about you, {ff 00 00 06}{04 0f 00}{ff 00 00 00},{01 00 00 05 00}\n{04 02 00}?{09 09 00}",
-   "et": ""
+   "et": "{09 00 00}{09 08 00}{09 02 00}{09 06 00}Hii hii hii! See jääb\nmeie vahele{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n\n{07 14 00}kui ütlen jah, siis jah,{01 01 00}\nja kui ütlen ei, siis\nei{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 0b 00}Aga sina, {ff 00 00 06}{04 0f 00}{ff 00 00 00},{01 00 00 05 00}\n{04 02 00}?{09 09 00}"
   },
   {
    "id": 7,
    "en": "{09 00 00}{09 06 00}{09 01 00}{07 04 00}Who, {01 00 00 0f 00}me, {01 00 00 05 00}{04 02 00}? {01 01 00}{07 17 00}Well,\nas you can see{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}. Girls\nchase after me a lot.\nBut I'm kinda shy.{01 00 00 05 00} {07 19 00}I'm\nafraid of falling in love\nand getting hurt.\n{07 10 00}That happened to me once\nwith {04 12 00}, {01 00 00 0f 00}{07 09 00}and\nI've never really recovered.{09 09 00}",
-   "et": ""
+   "et": "{09 00 00}{09 06 00}{09 01 00}{07 04 00}Kes, {01 00 00 0f 00}mina, {01 00 00 05 00}{04 02 00}? {01 01 00}{07 17 00}Noh,\nnagu näed{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}. Tüdrukud\njooksevad mul tihti järel.\nAga olen veidi häbelik.{01 00 00 05 00} {07 19 00}Ma\nkardan armuda ja\nhaiget saada.\n{07 10 00}Nii juhtus minuga korra\n{04 12 00}-ga, {01 00 00 0f 00}{07 09 00}ja\nma pole sellest toibunud.{09 09 00}"
   },
   {
    "id": 8,
    "en": "{09 00 00}{09 08 00}{09 02 00}{07 09 00}Sorry,{01 00 00 05 00} {ff 00 00 06}{04 0f 00}{ff 00 00 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}. That's\nrough. {01 00 00 05 00}No one knows the\npain of lost love like me!\nAnd that's not it!{01 00 00 05 00} You're\ntalking about a dessert,\nfor Pete's sake!{03 02 00 01}",
-   "et": ""
+   "et": "{09 00 00}{09 08 00}{09 02 00}{07 09 00}Kahju,{01 00 00 05 00} {ff 00 00 06}{04 0f 00}{ff 00 00 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}. See on\nraske. {01 00 00 05 00}Keegi ei tunne armu\nkaotuse valu nii kui mina!\nJa see pole see!{01 00 00 05 00} Sa räägid\nmagustoidust,\njumala pärast!{03 02 00 01}"
   },
   {
    "id": 9,
    "en": "{09 00 00}{09 08 00}{09 02 00}{09 06 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 09 00}Go right ahead.{01 00 00 05 00}\n{0b 03 00}{04 02 00}. {01 01 00}{07 1b 00}I won't try to\nstop you.{09 01 00}{07 00 00}{09 02 00}\n{07 15 00}I mean it!{01 00 00 0f 00} It's not hard to\ndo!{01 01 00} {07 05 00}Go on!{01 00 00 05 00} Get on with it!{09 09 00}",
-   "et": ""
+   "et": "{09 00 00}{09 08 00}{09 02 00}{09 06 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 09 00}Aga palun.{01 00 00 05 00}\n{0b 03 00}{04 02 00}. {01 01 00}{07 1b 00}Ma ei ürita sind\ntakistada.{09 01 00}{07 00 00}{09 02 00}\n{07 15 00}Ma mõtlen seda!{01 00 00 0f 00} Pole raske\nteha!{01 01 00} {07 05 00}Jätka!{01 00 00 05 00} Tee ära!{09 09 00}"
   },
   {
    "id": 10,
    "en": "{09 00 00}{09 06 00}{09 01 00}I{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 06 00}I can't eat that fast!{01 01 00}\n{07 08 00}I haven't trained in a while,\n{04 02 00}!{03 03 00 01}{09 02 00}{03 02 00 01}",
-   "et": ""
+   "et": "{09 00 00}{09 06 00}{09 01 00}Ma{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 06 00}Ma ei suuda nii kiiresti!{01 01 00}\n{07 08 00}Ma pole ammu treeninud,\n{04 02 00}!{03 03 00 01}{09 02 00}{03 02 00 01}"
   }
  ]
 }

@@ -4,17 +4,17 @@
   {
    "id": 0,
    "en": "{07 03 00}Oh man,{01 00 00 05 00} that's so like\n{ff 00 00 06}{04 0f 00}{ff 00 00 00}, {01 00 00 05 00}{04 02 00}!\n\n{07 14 00}Cool. {01 00 00 03 00}Hey, thanks a bunch!{01 01 00}\nSay \"hey\" for me!",
-   "et": ""
+   "et": "{07 03 00}Oh mees,{01 00 00 05 00} see on nii nagu\n{ff 00 00 06}{04 0f 00}{ff 00 00 00}, {01 00 00 05 00}{04 02 00}!\n\n{07 14 00}Lahe. {01 00 00 03 00}Hei, suur tänu!{01 01 00}\nÜtle minu poolt tere!"
   },
   {
    "id": 1,
    "en": "{07 14 00}{0b 03 00}{ff 00 00 06}{04 0f 00} {ff 00 00 00}really likes to\nwrite, huh, {01 00 00 05 00}{04 02 00}?\n\n{07 00 00}I'll write back eventually,\n{01 00 00 05 00}but could you say \"thanks\"\nfor me, too?",
-   "et": ""
+   "et": "{07 14 00}{0b 03 00}{ff 00 00 06}{04 0f 00} {ff 00 00 00}armastab küll\nkirjutada, {01 00 00 05 00}{04 02 00}?\n\n{07 00 00}Ma vastan varem või hiljem,\n{01 00 00 05 00}aga kas ütleksid ka minu\npoolt aitäh?"
   },
   {
    "id": 2,
    "en": "{07 03 00}War har har har har!{01 00 00 14 00}\nThis is nuts!{01 01 00} {07 14 00}Seriously,{01 00 00 05 00}\n{ff 00 00 06}{04 0f 00} {ff 00 00 00}is a CARD!\nHey, listen, {04 1f 00}!{01 00 00 0a 00}\nWhen you get a chance, give\nmy regards to {ff 00 00 06}{04 0f 00}{ff 00 00 00}!",
-   "et": ""
+   "et": "{07 03 00}Vaar haar haar haar haar!{01 00 00 14 00}\nSee on hull!{01 01 00} {07 14 00}Tõsiselt,{01 00 00 05 00}\n{ff 00 00 06}{04 0f 00} {ff 00 00 00}on KLOUN!\nHei, kuule, {04 1f 00}!{01 00 00 0a 00}\nKui juhus tuleb, edasta\ntervitused {ff 00 00 06}{04 0f 00}{ff 00 00 00}ile!"
   }
  ]
 }

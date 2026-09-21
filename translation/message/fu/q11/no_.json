@@ -4,17 +4,17 @@
   {
    "id": 0,
    "en": "{07 16 00}Oh.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} That's a bummer.\n\n\n{07 14 00}Take a look at some of the\nother stuff, just in case,\n{01 00 00 05 00}{04 02 00}.",
-   "et": ""
+   "et": "{07 16 00}Oh.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} See on kahju.\n\n\n{07 14 00}Vaata igaks juhuks ka\nmõnda teist asja,\n{01 00 00 05 00}{04 02 00}."
   },
   {
    "id": 1,
    "en": "{07 16 00}Oh, {01 00 00 05 00}I see how it is.",
-   "et": ""
+   "et": "{07 16 00}Oh, {01 00 00 05 00}selge, kuidas on."
   },
   {
    "id": 2,
    "en": "{07 16 00}I don't know what to say.{01 00 00 14 00}\nI'm just so disappointed,\nbut whatever, {01 00 00 05 00}{04 02 00}.",
-   "et": ""
+   "et": "{07 16 00}Ma ei tea, mida öelda.{01 00 00 14 00}\nMa olen nii pettunud,\naga las olla, {01 00 00 05 00}{04 02 00}."
   }
  ]
 }

@@ -4,47 +4,47 @@
   {
    "id": 0,
    "en": "{07 14 00}Hey, {01 00 00 05 00}{04 1f 00}!{01 00 00 0a 00} {07 0b 00}Y'know\nthat constellation you can\nsee from here?\n{07 14 00}Well, I'll have you know that\nit has a name!{01 00 00 05 00} It's called\n{ff 00 00 02}{04 0f 00}{ff 00 00 00}!\n{07 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}Huh?{01 00 00 05 00} {07 04 00}You're the one who\nmade it, {01 00 00 05 00}{04 02 00}?!\n\n{06 01 00 06 07 08}",
-   "et": ""
+   "et": "{07 14 00}Hei, {01 00 00 05 00}{04 1f 00}!{01 00 00 0a 00} {07 0b 00}Tead seda\ntähtkuju, mida siit\nnäha on?\n{07 14 00}Noh, ma ütlen sulle, et sel\non nimi!{01 00 00 05 00} Seda kutsutakse\n{ff 00 00 02}{04 0f 00}{ff 00 00 00}!\n{07 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}Mis?{01 00 00 05 00} {07 04 00}Sina olid see, kes\nselle tegi, {01 00 00 05 00}{04 02 00}?!\n\n{06 01 00 06 07 08}"
   },
   {
    "id": 1,
    "en": "{07 13 00}Ohhhh, {ff 00 00 02}{04 0f 00}{ff 00 00 00}...\n\n\n{07 16 00}I wish someone would give\nME a cute stage name like \n\"{0b 03 00}{ff 00 00 02}{04 0f 00}{ff 00 00 00}\"!",
-   "et": ""
+   "et": "{07 13 00}Ohhh, {ff 00 00 02}{04 0f 00}{ff 00 00 00}...\n\n\n{07 16 00}Ma soovin, et keegi annaks\nMULLE nii nunnu lavanime\nnagu „{0b 03 00}{ff 00 00 02}{04 0f 00}{ff 00 00 00}”!"
   },
   {
    "id": 2,
    "en": "{07 00 00}That constellation over\nthere is {ff 00 00 02}{04 0f 00}{ff 00 00 00},\n{01 00 00 05 00}{04 02 00}!\n{07 14 00}Yeah, {ff 00 00 05}{04 10 00}{ff 00 00 00} has some\npretty good star sense,\n{01 00 00 05 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 00 00}See tähtkuju seal on\n{ff 00 00 02}{04 0f 00}{ff 00 00 00},\n{01 00 00 05 00}{04 02 00}!\n{07 14 00}Jah, {ff 00 00 05}{04 10 00}{ff 00 00 00}l on päris\nhea tähtede taju,\n{01 00 00 05 00}{04 02 00}!"
   },
   {
    "id": 3,
    "en": "{07 00 00}{0b 03 00}{ff 00 00 02}{04 0f 00}{ff 00 00 00} is\nvisible up in the sky\nright now...\n{07 14 00}I heard {ff 00 00 05}{04 10 00}{ff 00 00 00} created\nthat one, actually!\n\n{07 13 00}If it was up to me, I'd have\nnamed it something like \n\"Pretty {04 01 00}\"{01 00 00 05 00}...",
-   "et": ""
+   "et": "{07 00 00}{0b 03 00}{ff 00 00 02}{04 0f 00}{ff 00 00 00} on\npraegu taevas\nnähtav...\n{07 14 00}Ma kuulsin, et {ff 00 00 05}{04 10 00}{ff 00 00 00} lõi\nselle tegelikult!\n\n{07 13 00}Kui minu teha oleks, oleksin\nnimetanud selle millekski\nnagu „Ilus {04 01 00}”{01 00 00 05 00}..."
   },
   {
    "id": 4,
    "en": "{07 04 00}Oh hi, {01 00 00 05 00}{04 1f 00}!{01 00 00 0a 00} {07 14 00}Look!\n{0b 03 00}{ff 00 00 02}{04 0f 00}{ff 00 00 00} is in\nthe sky, {01 00 00 05 00}{04 02 00}!\n{07 00 00}I heard {ff 00 00 05}{04 10 00}{ff 00 00 00} from\n{ff 00 00 08}{04 11 00}{ff 00 00 00} created it...\n\n{07 0b 00}I wonder if there's a pond\ncalled \"{0b 03 00}{ff 00 00 02}{04 0f 00}{ff 00 00 00}\"\nin {ff 00 00 08}{04 11 00}{ff 00 00 00}...",
-   "et": ""
+   "et": "{07 04 00}Oi tere, {01 00 00 05 00}{04 1f 00}!{01 00 00 0a 00} {07 14 00}Vaata!\n{0b 03 00}{ff 00 00 02}{04 0f 00}{ff 00 00 00} on\ntaevas, {01 00 00 05 00}{04 02 00}!\n{07 00 00}Ma kuulsin, et {ff 00 00 05}{04 10 00}{ff 00 00 00}\n{ff 00 00 08}{04 11 00}{ff 00 00 00}st lõi selle...\n\n{07 0b 00}Huvitav, kas on olemas tiik\nnimega „{0b 03 00}{ff 00 00 02}{04 0f 00}{ff 00 00 00}”\n{ff 00 00 08}{04 11 00}{ff 00 00 00}s..."
   },
   {
    "id": 5,
    "en": "{07 04 00}Ah! Look, look! {01 00 00 14 00} Is that \n{ff 00 00 02}{04 0f 00}{ff 00 00 00},\n{01 00 00 05 00}{04 02 00}?\n{07 0b 00}Why is it named that?{01 01 00}\n{07 06 00}How should I know?\n\n{07 16 00}After all, {ff 00 00 05}{04 10 00}{ff 00 00 00} from\n{ff 00 00 08}{04 11 00}{ff 00 00 00} is the one who \nnamed it, {01 00 00 05 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 04 00}Ah! Vaata, vaata! {01 00 00 14 00} Kas see\non {ff 00 00 02}{04 0f 00}{ff 00 00 00},\n{01 00 00 05 00}{04 02 00}?\n{07 0b 00}Miks seda nii kutsutakse?{01 01 00}\n{07 06 00}Kust mina tean?\n\n{07 16 00}Lõpuks oli see ju {ff 00 00 05}{04 10 00}{ff 00 00 00}\n{ff 00 00 08}{04 11 00}{ff 00 00 00}st, kes selle\nnimetas, {01 00 00 05 00}{04 02 00}!"
   },
   {
    "id": 6,
    "en": "{07 02 00}That's totally amazing!{01 00 00 14 00} {07 14 00}You\nshould go into astrology!{01 00 00 0a 00}\n{07 01 00}Now tell me my future!\n{07 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 0b 00}Huh? {01 00 00 05 00}I mean astronomy,\nnot astrology?{01 00 00 0a 00}{07 06 00} Oh, wow, I'm\nso embarrassed I could DIE!",
-   "et": ""
+   "et": "{07 02 00}See on täiesti imeline!{01 00 00 14 00} {07 14 00}Sa\npeaksid astroloogiks saama!{01 00 00 0a 00}\n{07 01 00}Ütle nüüd mu tulevik!\n{07 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 0b 00}Mis? {01 00 00 05 00}Astronoomiat,\nmitte astroloogiat?{01 00 00 0a 00}{07 06 00} Mul on\nnii piinlik, et võiks SURRA!"
   },
   {
    "id": 7,
    "en": "{07 10 00}Um, couldn't you come up\nwith a little better name,\n{01 00 00 05 00}{04 02 00}?!",
-   "et": ""
+   "et": "{07 10 00}Ee, kas sa ei suutnud välja\nmõelda natuke paremat\nnime, {01 00 00 05 00}{04 02 00}?!"
   },
   {
    "id": 8,
    "en": "{07 06 00}Oh, GOSH! I'm so BUSTED!{01 00 00 0a 00}\nI acted all smart in front\nof the CREATOR!",
-   "et": ""
+   "et": "{07 06 00}Oi, ISSAND! Ma jäin vahele!{01 00 00 0a 00}\nMa mängisin tarka\nLOOJA ees!"
   }
  ]
 }

@@ -4,82 +4,82 @@
   {
    "id": 0,
    "en": "{07 14 00}The {ff 00 00 03}Flower Fest {ff 00 00 00}starts\ntoday, {01 00 00 05 00}{04 02 00}!\n\n{07 0d 00}Good thing I've got my\n{ff 00 00 07}watering can{ff 00 00 00} ready for\naction!",
-   "et": ""
+   "et": "{07 14 00}{ff 00 00 03}Lillepidu {ff 00 00 00}algab\ntäna, {01 00 00 05 00}{04 02 00}!\n\n{07 0d 00}Hea, et mu {ff 00 00 07}kastekann{ff 00 00 00} on\ntegutsemiseks\nvalmis!"
   },
   {
    "id": 1,
    "en": "{07 14 00}The {ff 00 00 03}Flower Fest {ff 00 00 00}starts\ntoday! Yes{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}TODAY,\n{04 02 00}!\nIf you want to win, try to\nhave tons of different\nflowers in bloom!\n{07 00 00}{07 16 00}But you'll have to figure\nthe rest out for yourself!{01 00 00 05 00}\nI'm in it to win it!",
-   "et": ""
+   "et": "{07 14 00}{ff 00 00 03}Lillepidu {ff 00 00 00}algab\ntäna! Jah{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}TÄNA,\n{04 02 00}!\nKui tahad võita, ürita\npanna õitsema tonnide viisi\nerinevaid lilli!\n{07 00 00}{07 16 00}Aga ülejäänu pead sa ise\nvälja mõtlema!{01 00 00 05 00}\nMa olen siin võitma!"
   },
   {
    "id": 2,
    "en": "{07 04 00}Didn't you know that the\n{ff 00 00 03}Flower Fest{ff 00 00 00} has already\nstarted?\n{07 14 00}I hope you keep slackin',{01 00 00 05 00}\n'cause then I'll win again\nthis year!",
-   "et": ""
+   "et": "{07 04 00}Kas sa ei teadnud, et\n{ff 00 00 03}lillepidu{ff 00 00 00} on juba\nalanud?\n{07 14 00}Loodan, et sa logeled edasi,{01 00 00 05 00}\nsest siis võidan mina sel\naastal jälle!"
   },
   {
    "id": 3,
    "en": "{07 14 00}How's it going, {01 00 00 0a 00}{04 1f 00}?{01 00 00 05 00}\n{07 0b 00}Are you into gardening,\n{01 00 00 05 00}{04 02 00}?\n{07 17 00}I've been talking to my\nflowers, and we have a\ngood relationship going.\n{07 00 00}{07 02 00}WHAT?!{01 00 00 0a 00} You think I'm a freak\n'cause I talk to flowers?{01 00 00 0a 00}\nYou're just a flower hater!",
-   "et": ""
+   "et": "{07 14 00}Kuidas läheb, {01 00 00 0a 00}{04 1f 00}?{01 00 00 05 00}\n{07 0b 00}Kas sulle meeldib aiandus,\n{01 00 00 05 00}{04 02 00}?\n{07 17 00}Ma olen oma lilledega\nrääkinud ja meil on\nhea suhe.\n{07 00 00}{07 02 00}MIS?!{01 00 00 0a 00} Ma olevat imelik,\nsest räägin lilledega?{01 00 00 0a 00}\nSa oled lihtsalt lillevihkaja!"
   },
   {
    "id": 4,
    "en": "{07 14 00}Gardening is perfect for\na neat freak,\n{01 00 00 05 00}{04 02 00}.\n{07 00 00}Neat freaks finish\nfirst!{01 01 00} YAAAAAAYYYY!",
-   "et": ""
+   "et": "{07 14 00}Aiandus sobib ideaalselt\npuhtusehullule,\n{01 00 00 05 00}{04 02 00}.\n{07 00 00}Puhtusehullud jõuavad\nesimesena!{01 01 00} JEEEEEE!"
   },
   {
    "id": 5,
    "en": "{07 14 00}We're gonna find out who\nthe {ff 00 00 02}Green Thumb{ff 00 00 00} is on\nSunday!{ff 00 00 03}\n{ff 00 00 00}{07 16 00}Not to be rude or anything,{01 00 00 05 00}\nbut shouldn't you be\ngardening?!",
-   "et": ""
+   "et": "{07 14 00}Pühapäeval saame teada,\nkes on {ff 00 00 02}rohenäpp{ff 00 00 00}\nsel korral!{ff 00 00 03}\n{ff 00 00 00}{07 16 00}Ma ei taha ebaviisakas olla,{01 00 00 05 00}\naga kas sa ei peaks\naiatööd tegema?!"
   },
   {
    "id": 6,
    "en": "{07 06 00}{01 00 00 0a 00}Why aren't any of my\nflowers turning out right?!{01 01 00}\n{07 05 00}{01 08 00}ARRRRRRRRRRRRRRRRRRGH!\n{07 16 00}And why can't the {ff 00 00 03}Flower\nFest {ff 00 00 00}just be a few days\nlonger, {01 00 00 05 00}{04 02 00}?",
-   "et": ""
+   "et": "{07 06 00}{01 00 00 0a 00}Miks ükski mu lill\nkorralikult välja ei tule?!{01 01 00}\n{07 05 00}{01 08 00}AAAAAAAAAAAAARGH!\n{07 16 00}Ja miks ei võiks {ff 00 00 03}lillepidu\n{ff 00 00 00}lihtsalt paar päeva\npikem olla, {01 00 00 05 00}{04 02 00}?"
   },
   {
    "id": 7,
    "en": "{07 13 00}I love how \"Passion\" is the\ntheme for this year's\n{ff 00 00 03}Flower Fest{ff 00 00 00}.\n{07 0f 00}But for me, it's been\nmore like \"Horrible\nFrustration,\" {01 00 00 05 00}{04 02 00}.",
-   "et": ""
+   "et": "{07 13 00}Mulle meeldib, et „Kirg” on\nselle aasta {ff 00 00 03}lillepeo{ff 00 00 00}\nteema.\n{07 0f 00}Aga minu jaoks on see olnud\npigem „Kohutav\nfrustratsioon”, {01 00 00 05 00}{04 02 00}."
   },
   {
    "id": 8,
    "en": "{07 16 00}The {ff 00 00 03}Flower Fest {ff 00 00 00}is\nalmost over, {01 00 00 05 00}{04 02 00}!\n\nOh, sure{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}. EVERYONE loves\nflowers during the festival!\n\n{07 06 00}But who will take care of\nthe flowers when it's over?!",
-   "et": ""
+   "et": "{07 16 00}{ff 00 00 03}Lillepidu {ff 00 00 00}on\npeaaegu läbi, {01 00 00 05 00}{04 02 00}!\n\nOi, muidugi{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}. KÕIK\narmastavad lilli peo ajal!\n\n{07 06 00}Aga kes hoolitseb lillede\neest, kui see läbi saab?!"
   },
   {
    "id": 9,
    "en": "{07 14 00}So today's the last day of\nthe {ff 00 00 03}Flower Fest{ff 00 00 00},\n{01 00 00 05 00}{04 02 00}!\n{07 0f 00}But it didn't go my way at\nall this year! {01 00 00 05 00}My thumb\nisn't green at all!\nBUMMER BUMMER BUMMER!{01 00 00 14 00}\n{07 10 00}All I wanted was a green\nthumb and a {ff 00 00 07}trophy{ff 00 00 00}!",
-   "et": ""
+   "et": "{07 14 00}Nii et täna on {ff 00 00 03}lillepeo{ff 00 00 00}\nviimane päev,\n{01 00 00 05 00}{04 02 00}!\n{07 0f 00}Aga sel aastal ei läinud\nmul üldse hästi! {01 00 00 05 00}Mu näpp\npole üldse roheline!\nKURB KURB KURB!{01 00 00 14 00}\n{07 10 00}Ma tahtsin ainult rohelist\nnäppu ja {ff 00 00 07}karikat{ff 00 00 00}!"
   },
   {
    "id": 10,
    "en": "{07 0a 00}The {ff 00 00 03}Flower Fest{ff 00 00 00} is SO\nAWESOME, {01 00 00 05 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 0a 00}{ff 00 00 03}Lillepidu{ff 00 00 00} on NII\nVÄGEV, {01 00 00 05 00}{04 02 00}!"
   },
   {
    "id": 11,
    "en": "{07 14 00}Look at all the flowers!{01 00 00 05 00}\nIt's like a flower bomb\nexploded out here!",
-   "et": ""
+   "et": "{07 14 00}Vaata kõiki neid lilli!{01 00 00 05 00}\nNagu oleks siin lillepomm\nplahvatanud!"
   },
   {
    "id": 12,
    "en": "{07 14 00}Good thing I'm cuter than\na flower, {01 00 00 05 00}{04 02 00}, or\nI'd be crazy jealous!",
-   "et": ""
+   "et": "{07 14 00}Hea, et ma olen nunnum kui\nlill, {01 00 00 05 00}{04 02 00}, muidu\noleksin hullult kade!"
   },
   {
    "id": 13,
    "en": "{07 01 00}{01 08 00}ACHOOOOO!!!{01 01 00} {07 04 00}Oh, no! What if\nI'm allergic to flowers,\n{01 00 00 05 00}{04 02 00}?!\n{07 06 00}But I love them{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} Don't\nthey want to love me back?\n",
-   "et": ""
+   "et": "{07 01 00}{01 08 00}APTŠIII!!!{01 01 00} {07 04 00}Oi ei! Mis siis,\nkui mul on lilleallergia,\n{01 00 00 05 00}{04 02 00}?!\n{07 06 00}Aga ma armastan neid{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} Kas\nnad ei taha mind vastu\narmastada? "
   },
   {
    "id": 14,
    "en": "{07 00 00}Just think of it{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}. A pretty\ngirl picking wildflowers in\nan alpine meadow{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 06 00}That's the kind of role I'll\nplay when I'm an A-list\nstarlet, {01 00 00 05 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 00 00}Mõtle ainult{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}. Ilus\ntüdruk korjab metsalilli\nalpiaasal{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 06 00}Sellist rolli mängin mina,\nkui olen A-klassi\nstaar, {01 00 00 05 00}{04 02 00}!"
   },
   {
    "id": 15,
    "en": "{07 1c 00}Flowers are so pretty{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.but\nall they do all day is sit\nthere looking pretty.\n{07 19 00}If I wanna be a flower, I\nbetter get used to sitting\nin the soil, {01 00 00 05 00}{04 02 00}!{07 14 00}",
-   "et": ""
+   "et": "{07 1c 00}Lilled on nii ilusad{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.aga\nnad ainult istuvad terve\npäeva ja näevad ilusad\nvälja. {07 19 00}Kui tahan olla lill,\npean harjuma mullas\nistumisega, {01 00 00 05 00}{04 02 00}!{07 14 00}"
   }
  ]
 }

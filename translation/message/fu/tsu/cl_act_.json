@@ -4,87 +4,87 @@
   {
    "id": 0,
    "en": "Tell me a little about\nyourself, {04 1f 00}.\n\nWhat sorts of clothes{07 0b 00} do\nyou like to wear?\n\n{06 01 00 08 09 0a}",
-   "et": ""
+   "et": "Räägi mulle endast\nnatuke, {04 1f 00}.\n\nMilliseid riideid{07 0b 00} sulle\nmeeldib kanda?\n\n{06 01 00 08 09 0a}"
   },
   {
    "id": 1,
    "en": "{07 14 00}I wonder what style looks\nbest on me. I'm trying to\nchange my look up.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n{07 0e 00}I like that one well enough,{01 00 00 0f 00}\nbut this one's nice too.\n\n{07 06 00}Hmmmmm, {01 00 00 05 00}this is a bummer!{01 00 00 0f 00}\nI want 'em all, {01 00 00 05 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 14 00}Huvitav, milline stiil mulle\nsobib. Üritan oma välimust\nmuuta.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n{07 0e 00}See üks meeldib mulle,{01 00 00 0f 00}\naga see teine on ka kena.\n\n{07 06 00}Hmmmmm, {01 00 00 05 00}see on nii kahju!{01 00 00 0f 00}\nTahan neid kõiki, {01 00 00 05 00}{04 02 00}!"
   },
   {
    "id": 2,
    "en": "{06 03 00 0b 0c}",
-   "et": ""
+   "et": "{06 03 00 0b 0c}"
   },
   {
    "id": 3,
    "en": "{07 14 00}I can't explain it, {01 00 00 05 00}but\nlately, I've really been into\ncollecting clothes.\nNot just buying, mind you.{01 00 00 05 00}\n{07 11 00}Collecting.{01 00 00 0a 00}\n\n{07 0a 00}That's why I visit {ff 00 00 06}Mabel {ff 00 00 00}and\n{ff 00 00 06}Sable{ff 00 00 00}'s boutique each and\nevery day, {01 00 00 05 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 14 00}Ma ei oska seletada, {01 00 00 05 00}aga\nviimasel ajal kogun ma\nkirglikult riideid.\nMitte lihtsalt ostmine.{01 00 00 05 00}\n{07 11 00}Kogumine.{01 00 00 0a 00}\n\n{07 0a 00}Sellepärast käin {ff 00 00 06}Mabeli{ff 00 00 00} ja\n{ff 00 00 06}Sable{ff 00 00 00}i butiigis iga\njumala päev, {01 00 00 05 00}{04 02 00}!"
   },
   {
    "id": 4,
    "en": "I'm trying to figure out\nwhat my new look should be.\nI don't know what to wear!\n{07 14 00}I've always liked clothes\nthat were a little on the\n{04 14 00} side.\n{07 19 00}Yeah, sounds good. What I\nneed is something really\n{04 14 00}, {01 00 00 05 00}{04 02 00}!",
-   "et": ""
+   "et": "Ma üritan välja mõelda,\nmilline peaks olema mu uus\nlook. Ma ei tea, mida kanda!\n{07 14 00}Mulle on alati meeldinud\nriided, mis on pisut\n{04 14 00} poole.\n{07 19 00}Jah, kõlab hästi. Mul on\nvaja midagi tõeliselt\n{04 14 00}, {01 00 00 05 00}{04 02 00}!"
   },
   {
    "id": 5,
    "en": "I'm so tired of all my\nclothes! I think it's time\nto get something new.\nOff the rack is fine, but I\nwant something custom-\ndesigned just for me.\n{07 14 00}Just once, I'd like to wear\nsomething you couldn't just\nbuy at any old store.",
-   "et": ""
+   "et": "Ma olen kõigist oma\nriietest tüdinud! Vist on\naeg midagi uut hankida.\nRiiulilt on hea, aga ma\ntahan midagi spetsiaalselt\nmulle kujundatut.\n{07 14 00}Kas või korra tahaksin ma\nkanda midagi, mida ei saa\nosta igast poest."
   },
   {
    "id": 6,
    "en": "You know what my mom used\nto tell me, {01 00 00 05 00}{04 02 00}?\n\nShe said someone like me\nneeded clothes that were\n{07 16 00}really {04 14 00}!\nI never quite believed her,\nbut{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 0b 00}do you think she was\nright all this time?",
-   "et": ""
+   "et": "Tead, mida mu ema mulle\nvarem ütles, {01 00 00 05 00}{04 02 00}?\n\nTa ütles, et minusugune\nvajab riideid, mis on\n{07 16 00}tõeliselt {04 14 00}!\nMa ei uskunud teda päriselt,\naga{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 0b 00}kas sa arvad, et tal\noli kogu aeg õigus?"
   },
   {
    "id": 7,
    "en": "{07 14 00}If it's nice clothes you're\nafter, {ff 00 00 06}Mabel {ff 00 00 00}and {ff 00 00 06}Sable{ff 00 00 00}'s is\nthe only way to go!\n{07 16 00}I mean it! They have the\nonly boutique in all of\n{04 03 00}, {01 00 00 05 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 14 00}Kui otsid kenasid riideid,\nsiis {ff 00 00 06}Mabel {ff 00 00 00}ja {ff 00 00 06}Sable{ff 00 00 00} on\nainus koht!\n{07 16 00}Ma mõtlen seda! Neil on\nainus butiik kogu\n{04 03 00}, {01 00 00 05 00}{04 02 00}!"
   },
   {
    "id": 8,
    "en": "{07 13 00}I like {04 14 00} clothes\nthe best, {01 00 00 05 00}{04 02 00}.\n\n{07 0a 00}{04 0b 00} once told me\nthey were very flattering\nto my figure, {01 00 00 05 00}{04 02 00}.{03 01 00 01}",
-   "et": ""
+   "et": "{07 13 00}Mulle meeldivad {04 14 00}\nriided kõige rohkem,\n{01 00 00 05 00}{04 02 00}.\n{07 0a 00}{04 0b 00} ütles mulle kord,\net need sobivad väga\nhästi mu figuurile,{01 00 00 05 00}{04 02 00}.{03 01 00 01}"
   },
   {
    "id": 9,
    "en": "Do you mean to tell me {07 0b 00}you\nlike {04 14 00} clothes\ntoo, {01 00 00 05 00}{04 02 00}?\n{07 0d 00}Can you believe it? We have\nexactly the same style!",
-   "et": ""
+   "et": "Kas tahad öelda, {07 0b 00}et\nsulle meeldivad {04 14 00}\nriided ka, {01 00 00 05 00}{04 02 00}?\n{07 0d 00}Kas sa suudad uskuda? Meil\non täpselt sama stiil!"
   },
   {
    "id": 10,
    "en": "{07 00 00}Collecting furniture is fine\nfor some people, but it's\njust not my thing.\nThe same goes for fish and\ninsects.{01 00 00 05 00} They're just icky.{01 00 00 05 00}\nOr scaly.{01 00 00 05 00} Who wants that?\nI think it's best to\nexpress yourself with\nclothes and accessories!",
-   "et": ""
+   "et": "{07 00 00}Mööbli kogumine sobib\nmõnele inimesele, aga see\npole lihtsalt minu asi.\nSama kehtib kalade ja\nputukate kohta.{01 00 00 05 00} Nad on\njälgid.{01 00 00 05 00} Või soomused.{01 00 00 05 00} Fui.\nMa arvan, et kõige parem\non end väljendada\nriiete ja aksessuaaridega!"
   },
   {
    "id": 11,
    "en": "{07 00 00}What do you think of girls\nwho go around wearing{07 0b 00}\n{04 14 00} clothes?{02 01 00 0d 0e 0f}\nI don't care.\nIt's cute.\nIt's weird.",
-   "et": ""
+   "et": "{07 00 00}Mida sa arvad tüdrukutest,\nkes käivad ringi{07 0b 00}\n{04 14 00} riietes?{02 01 00 0d 0e 0f}\nMul ükskõik.\nSee on nunnu.\nSee on veider."
   },
   {
    "id": 12,
    "en": "{07 00 00}What do you think when you\nsee girls who wear those{07 0b 00}\n{04 14 00} clothes?{02 01 00 0d 10 0f}\nI don't care.\nIt looks good.\nIt's freakish.",
-   "et": ""
+   "et": "{07 00 00}Mida sa mõtled, kui sa\nnäed tüdrukuid neis{07 0b 00}\n{04 14 00} riietes?{02 01 00 0d 10 0f}\nMul ükskõik.\nNäeb hea välja.\nSee on veider."
   },
   {
    "id": 13,
    "en": "{07 00 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 16 00}Is that so?\n\n\n{07 00 00}I thought you'd understand\nwhat was stylish about\n{04 14 00} clothes.\n{07 16 00}I guess I thought\nwrong.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{03 03 00 01}",
-   "et": ""
+   "et": "{07 00 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 16 00}Kas tõesti?\n\n\n{07 00 00}Ma arvasin, et sa mõistad,\nmis on stiilne\n{04 14 00} riietes.\n{07 16 00}Ma vist arvasin\nvalesti{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{03 03 00 01}"
   },
   {
    "id": 14,
    "en": "{07 02 00}Really?!{01 00 00 0f 00} {0b 03 00}{04 02 00}!\n{07 06 00}Oh, {01 00 00 0f 00}no{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{04 1f 00}!\n\n{07 16 00}I really was curious,{01 00 00 05 00} but\nnow, I think you're just{01 00 00 05 00}\n{07 06 00}trying to flatter me!{01 00 00 05 00}",
-   "et": ""
+   "et": "{07 02 00}Tõesti?!{01 00 00 0f 00} {0b 03 00}{04 02 00}!\n{07 06 00}Oh, {01 00 00 0f 00}ei{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{04 1f 00}!\n\n{07 16 00}Olin uudishimulik,{01 00 00 05 00} aga\nnüüd arvan, et sa lihtsalt{01 00 00 05 00}\n{07 06 00}üritad mulle meelitada!{01 00 00 05 00}"
   },
   {
    "id": 15,
    "en": "{07 16 00}Sheesh! I guess I should\nsteer clear of anything\n{04 14 00}.\n{07 14 00}I guess it all comes down\nto what your own personal\nstyle is,{01 00 00 05 00} {04 02 00}.",
-   "et": ""
+   "et": "{07 16 00}Pühh! Ma vist peaksin\neemale hoidma kõigest,\nmis on {04 14 00}.\n{07 14 00}Vist taandub kõik sellele,\nmilline on su enda\nstiil,{01 00 00 05 00} {04 02 00}."
   },
   {
    "id": 16,
    "en": "{07 17 00}Aw, hunny! {01 00 00 0a 00}That's so sweet\nof you!{01 00 00 0f 00}\n\n{07 00 00}I guess girls really do\nunderstand {07 0d 00}what fashion is\nall about, {01 00 00 05 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 17 00}Oh, kullake! {01 00 00 0a 00}See on nii kena\nsinust!{01 00 00 0f 00}\n\n{07 00 00}Ma arvan, et tüdrukud\ntõesti mõistavad, {07 0d 00}mis on\nmood, {01 00 00 05 00}{04 02 00}!"
   }
  ]
 }

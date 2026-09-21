@@ -4,27 +4,27 @@
   {
    "id": 0,
    "en": "New game.",
-   "et": ""
+   "et": "Uus mäng."
   },
   {
    "id": 1,
    "en": "Continue.",
-   "et": ""
+   "et": "Jätka."
   },
   {
    "id": 2,
    "en": "New resident.",
-   "et": ""
+   "et": "Uus elanik."
   },
   {
    "id": 3,
    "en": "Rebuild town.",
-   "et": ""
+   "et": "Ehita linn uuesti."
   },
   {
    "id": 4,
    "en": "Erase resident.",
-   "et": ""
+   "et": "Kustuta elanik."
   },
   {
    "id": 5,
@@ -34,82 +34,82 @@
   {
    "id": 6,
    "en": "Erase anyway?",
-   "et": ""
+   "et": "Kustutada ikkagi?"
   },
   {
    "id": 7,
    "en": "Reset clock.",
-   "et": ""
+   "et": "Lähtesta kell."
   },
   {
    "id": 8,
    "en": "Set sound.",
-   "et": ""
+   "et": "Heliseaded."
   },
   {
    "id": 9,
    "en": "About kanji...",
-   "et": ""
+   "et": "Kanji kohta..."
   },
   {
    "id": 10,
    "en": "Tag Mode.",
-   "et": ""
+   "et": "Sildirežiim."
   },
   {
    "id": 11,
    "en": "Other things.",
-   "et": ""
+   "et": "Muud asjad."
   },
   {
    "id": 12,
    "en": "Save and end.",
-   "et": ""
+   "et": "Salvesta ja lõpeta."
   },
   {
    "id": 13,
    "en": "Continue.",
-   "et": ""
+   "et": "Jätka."
   },
   {
    "id": 14,
    "en": "Wi-Fi settings.",
-   "et": ""
+   "et": "Wi-Fi seaded."
   },
   {
    "id": 15,
    "en": "{00 06 00} Next.",
-   "et": ""
+   "et": "{00 06 00} Edasi."
   },
   {
    "id": 16,
    "en": "{00 06 00}Quit.",
-   "et": ""
+   "et": "{00 06 00}Lõpeta."
   },
   {
    "id": 17,
    "en": "Downloads.",
-   "et": ""
+   "et": "Allalaadimised."
   },
   {
    "id": 18,
    "en": "Start.",
-   "et": ""
+   "et": "Alusta."
   },
   {
    "id": 19,
    "en": "Then again...",
-   "et": ""
+   "et": "Teisest küljest..."
   },
   {
    "id": 20,
    "en": "Stereo.",
-   "et": ""
+   "et": "Stereo."
   },
   {
    "id": 21,
    "en": "Surround.",
-   "et": ""
+   "et": "Ruumiline."
   },
   {
    "id": 23,
@@ -119,137 +119,137 @@
   {
    "id": 24,
    "en": "Immigration.",
-   "et": ""
+   "et": "Sisseränne."
   },
   {
    "id": 46,
    "en": "Village Mayor.",
-   "et": ""
+   "et": "Küla vanem."
   },
   {
    "id": 47,
    "en": "Town Mayor.",
-   "et": ""
+   "et": "Linnapea."
   },
   {
    "id": 48,
    "en": "City Mayor.",
-   "et": ""
+   "et": "Suurlinna pea."
   },
   {
    "id": 49,
    "en": "President.",
-   "et": ""
+   "et": "President."
   },
   {
    "id": 50,
    "en": "I'll take it.",
-   "et": ""
+   "et": "Võtan selle."
   },
   {
    "id": 51,
    "en": "No, thanks.",
-   "et": ""
+   "et": "Ei, aitäh."
   },
   {
    "id": 52,
    "en": "Gray.",
-   "et": ""
+   "et": "Hall."
   },
   {
    "id": 53,
    "en": "Brown.",
-   "et": ""
+   "et": "Pruun."
   },
   {
    "id": 54,
    "en": "Red.",
-   "et": ""
+   "et": "Punane."
   },
   {
    "id": 55,
    "en": "Pink.",
-   "et": ""
+   "et": "Roosa."
   },
   {
    "id": 56,
    "en": "Orange.",
-   "et": ""
+   "et": "Oranž."
   },
   {
    "id": 57,
    "en": "Yellow.",
-   "et": ""
+   "et": "Kollane."
   },
   {
    "id": 58,
    "en": "Pale green.",
-   "et": ""
+   "et": "Heleroheline."
   },
   {
    "id": 59,
    "en": "Dark green.",
-   "et": ""
+   "et": "Tumeroheline."
   },
   {
    "id": 60,
    "en": "Dark green.",
-   "et": ""
+   "et": "Tumeroheline."
   },
   {
    "id": 61,
    "en": "Turquoise.",
-   "et": ""
+   "et": "Türkiis."
   },
   {
    "id": 62,
    "en": "Sky blue.",
-   "et": ""
+   "et": "Taevasinine."
   },
   {
    "id": 63,
    "en": "Blue.",
-   "et": ""
+   "et": "Sinine."
   },
   {
    "id": 64,
    "en": "Navy.",
-   "et": ""
+   "et": "Meresinine."
   },
   {
    "id": 65,
    "en": "Purple.",
-   "et": ""
+   "et": "Lilla."
   },
   {
    "id": 66,
    "en": "Lilac.",
-   "et": ""
+   "et": "Sirelililla."
   },
   {
    "id": 67,
    "en": "Hot pink.",
-   "et": ""
+   "et": "Erkroosa."
   },
   {
    "id": 68,
    "en": "Another color.",
-   "et": ""
+   "et": "Teine värv."
   },
   {
    "id": 70,
    "en": "Friend roster.",
-   "et": ""
+   "et": "Sõbranimekiri."
   },
   {
    "id": 71,
    "en": "Search.",
-   "et": ""
+   "et": "Otsi."
   },
   {
    "id": 72,
    "en": "Randomly.",
-   "et": ""
+   "et": "Juhuslikult."
   }
  ]
 }

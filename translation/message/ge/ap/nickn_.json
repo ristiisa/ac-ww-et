@@ -4,32 +4,32 @@
   {
    "id": 0,
    "en": "{07 14 00}Hi! What's up, {01 00 00 05 00}{04 1f 00}?\n{01 00 00 05 00}{0b 03 00}{04 02 00}!\n\n{07 00 00}Hey, guess what? I totally {01 00 00 05 00}\nthought of the CUTEST new\nnickname for you!\n{07 0b 00}Wanna hear it???",
-   "et": ""
+   "et": "{07 14 00}Tere! Mis teed, {01 00 00 05 00}{04 1f 00}?\n{01 00 00 05 00}{0b 03 00}{04 02 00}!\n\n{07 00 00}Kuule, tead mis? Mõtlesin {01 00 00 05 00}\nsulle välja KÕIGE NUNNUMA\nuue hüüdnime!\n{07 0b 00}Tahad kuulda???"
   },
   {
    "id": 1,
    "en": "{07 16 00}What?!{01 00 00 0a 00} Seriously?{01 00 00 0a 00} Oh, wow,\nthat's really COLD!",
-   "et": ""
+   "et": "{07 16 00}Mis?!{01 00 00 0a 00} Tõesti?{01 00 00 0a 00} Oi vau,\nsee on tõesti KÜLM!"
   },
   {
    "id": 2,
    "en": "{07 14 00}OK, here it is!{01 00 00 0a 00} Your new \n{07 00 00}AWESOME nickname is{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n\n{07 0d 00}{0b 03 00}\"{ff 00 00 02}{04 0f 00}{ff 00 00 00}\"!!!{01 01 00} {07 0b 00}Isn't it\njust the coolest thing\never, {01 00 00 05 00}{04 02 00}? Yup yup!",
-   "et": ""
+   "et": "{07 14 00}Olgu, siin see on!{01 00 00 0a 00} Sinu uus\n{07 00 00}ÄGE hüüdnimi on{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n\n{07 0d 00}{0b 03 00}„{ff 00 00 02}{04 0f 00}{ff 00 00 00}”!!!{01 01 00} {07 0b 00}Kas pole\nkõige lahedam asi\nüldse, {01 00 00 05 00}{04 02 00}? Jaa jaa!"
   },
   {
    "id": 3,
    "en": "{07 16 00}Huh?!{01 00 00 0a 00} You don't like it? \nOh wow, total bummer.{01 00 00 05 00} I was\nthinking it was so great...\n{07 15 00}Well, FINE then! What kind of\nlame nickname DO you want,\n{01 00 00 05 00}{04 02 00}?!",
-   "et": ""
+   "et": "{07 16 00}Mis?!{01 00 00 0a 00} Ei meeldi?\nOi vau, milline pettumus.{01 00 00 05 00}\nMa arvasin, et on super...\n{07 15 00}No OLGU siis! Millist lääget\nhüüdnime sa siis TAHAD,\n{01 00 00 05 00}{04 02 00}?!"
   },
   {
    "id": 4,
    "en": "{07 00 00}{0b 03 00}\"{ff 00 00 02}{04 0f 00}{ff 00 00 00}\"?{01 01 00} Seriously,\n{01 00 00 05 00}{04 02 00}?\n\n{07 16 00}Well...I dunno.{01 00 00 0a 00} It seems\nkinda dull to me.{01 00 00 0a 00} {07 0b 00}Do YOU\nlike it??",
-   "et": ""
+   "et": "{07 00 00}{0b 03 00}„{ff 00 00 02}{04 0f 00}{ff 00 00 00}”?{01 01 00} Tõsiselt,\n{01 00 00 05 00}{04 02 00}?\n\n{07 16 00}No...ma ei tea.{01 00 00 0a 00} Tundub\nmulle veidi igav.{01 00 00 0a 00} {07 0b 00}Kas SULLE\nmeeldib??"
   },
   {
    "id": 5,
    "en": "{07 14 00}OK then!{01 00 00 05 00} Done!{01 00 00 0a 00} Hooray! From\nnow on, you're always gonna\nbe {ff 00 00 02}{04 1f 00}{ff 00 00 00}!\n{07 0d 00}I just know it will make you\nSUPER popular with people,\n{01 00 00 05 00}{04 02 00}! Yay, nicknames!{03 01 00 00}",
-   "et": ""
+   "et": "{07 14 00}Olgu siis!{01 00 00 05 00} Tehtud!{01 00 00 0a 00} Hurraa!\nNüüdsest oled sa alati\n{ff 00 00 02}{04 1f 00}{ff 00 00 00}!\n{07 0d 00}Ma tean, et see teeb sind\ninimeste seas SUPER popiks,\n{01 00 00 05 00}{04 02 00}! Jee, hüüdnimed!{03 01 00 00}"
   }
  ]
 }

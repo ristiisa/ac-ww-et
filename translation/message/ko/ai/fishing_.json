@@ -4,72 +4,72 @@
   {
    "id": 0,
    "en": "What do you want?!{01 00 00 0f 00} Don't\ntalk to me right now!{01 00 00 05 00} Can't\nyou see I'm busy!\nI was this close to snaring\n{ff 00 00 07}{04 1a 00}{ff 00 00 00}\nand you distracted me!{02 00 00 0c 0d}\nI'm so sorry!\nWhatever, jerk!",
-   "et": ""
+   "et": "Mida sa tahad?!{01 00 00 0f 00} Ära\nräägi minuga praegu!{01 00 00 05 00} Kas sa\nei näe, et mul on kiire!\nOlin nii lähedal püüdmisele\n{ff 00 00 07}{04 1a 00}{ff 00 00 00}\nja sa segasid mind!{02 00 00 0c 0d}\nMul on nii kahju!\nÜkskõik, tola!"
   },
   {
    "id": 1,
    "en": "When I fish{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}I like to be\nalone and quiet. It makes\nme feel peaceful.\nSo do me a favor and zip\nit, {01 00 00 05 00}{04 02 00}! {01 00 00 05 00}We on the\nsame page?",
-   "et": ""
+   "et": "Kui ma kalastan{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}tahan olla\nüksi ja vaikuses. See annab\nmulle rahu.\nNii et tee teene ja pane\nsuu kinni, {01 00 00 05 00}{04 02 00}! {01 00 00 05 00}Saame\nteineteisest aru?"
   },
   {
    "id": 2,
    "en": "I heard{01 00 00 05 00} there was good\nfishing in these parts,{01 00 00 05 00} but\nI think it was a lie{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.",
-   "et": ""
+   "et": "Kuulsin{01 00 00 05 00}, et siinkandis on\nhea kalapüük,{01 00 00 05 00} aga\nvist oli see vale{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}."
   },
   {
    "id": 3,
    "en": "I was planning on kicking\nback here and catching\n{ff 00 00 07}{04 1a 00}.",
-   "et": ""
+   "et": "Ma plaanisin siin\nlõõgastuda ja püüda\n{ff 00 00 07}{04 1a 00}."
   },
   {
    "id": 4,
    "en": "Hmm. {01 00 00 0f 00}I don't think this\nplace is as good as I\nthought, {01 00 00 05 00}{04 02 00}.",
-   "et": ""
+   "et": "Hmm. {01 00 00 0f 00}Ma ei arva, et see\nkoht on nii hea, kui ma\narvasin, {01 00 00 05 00}{04 02 00}."
   },
   {
    "id": 5,
    "en": "The fish are onto me.\nEspecially that\n{0b 02 00}{ff 00 00 07}{04 1a 00}.\n{ff 00 00 00}{01 00 00 05 00}Try as I might, I still\nhaven't caught it.{01 00 00 05 00}\n\nGRRR!{01 00 00 0f 00} Who knew fish were\nso{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.cunning!",
-   "et": ""
+   "et": "Kalad on mu jälil.\nEriti see\n{0b 02 00}{ff 00 00 07}{04 1a 00}.\n{ff 00 00 00}{01 00 00 05 00}Nii palju kui ma ka ei\nüritaks, pole püüdnud.{01 00 00 05 00}\n\nGRRR!{01 00 00 0f 00} Kes teadis, et kalad\non nii{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.kavalad!"
   },
   {
    "id": 6,
    "en": "It's been a while, but I\nhave to say, it feels good\nto be outside.\nBut waiting around for\n{ff 00 00 07}{04 1a 00}{ff 00 00 00}\njust isn't my thing.\nI just get so dang\nimpatient, {01 00 00 05 00}{04 02 00}!\n\nHurry up, stupid\n{0b 02 00}{04 1a 00}!",
-   "et": ""
+   "et": "On läinud aega, aga\npean ütlema, et õues on\nhea olla.\nAga ootamine\n{ff 00 00 07}{04 1a 00}{ff 00 00 00}\njärele pole minu asi.\nMa lähen lihtsalt nii\nkannatamatuks, {01 00 00 05 00}{04 02 00}!\n\nKiirusta, rumal\n{0b 02 00}{04 1a 00}!"
   },
   {
    "id": 7,
    "en": "Hey, would you do me a\nfavor and spare me the\nchitchat, {01 00 00 05 00}{04 02 00}?!\nIf you wanna catch\n{ff 00 00 07}{04 1a 00}{ff 00 00 00},\ndo it with your trap shut!",
-   "et": ""
+   "et": "Hei, kas sa teeksid mulle\nteene ja säästaksid mind\nlobast, {01 00 00 05 00}{04 02 00}?!\nKui sa tahad püüda\n{ff 00 00 07}{04 1a 00}{ff 00 00 00},\ntee seda suu kinni!"
   },
   {
    "id": 8,
    "en": "Hey hey!{01 00 00 0f 00} The fish isn't\ngonna bite with all that\ncommotion{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\nHey! Hold on a sec.{01 00 00 14 00} Do I\nknow you?\n\nWell, I'm {04 01 00}.{01 00 00 14 00} I'm\ntrying to catch\n{ff 00 00 07}{04 1a 00}!{ff 00 00 00}\nIt's nice to make your\nacquaintance, {01 00 00 05 00}{04 02 00}!",
-   "et": ""
+   "et": "Hei hei!{01 00 00 0f 00} Kala ei näkka\nkogu selle\nmürglisega{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\nHei! Oota hetk.{01 00 00 14 00} Kas ma\ntunnen sind?\n\nNoh, olen {04 01 00}.{01 00 00 14 00} Ma\nüritan püüda\n{ff 00 00 07}{04 1a 00}!{ff 00 00 00}\nMeeldiv tutvuda,\n{01 00 00 05 00}{04 02 00}!"
   },
   {
    "id": 9,
    "en": "Can't you see I'm trying to\nfish here?! Don't distract\nme, OK?\nI've been eyeing that\n{0b 02 00}{ff 00 00 07}{04 1a 00}\n{ff 00 00 00}all day long!\n.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}Oh, {01 00 00 05 00}well.{01 00 00 14 00} Anyway, I'm\n{04 01 00}.{01 00 00 14 00} It's a\npleasure, {01 00 00 05 00}{04 02 00}!",
-   "et": ""
+   "et": "Kas sa ei näe, et ma üritan\nsiin kalastada?! Ära sega\nmind, eks?\nMa olen tervet päeva\nseda {0b 02 00}{ff 00 00 07}{04 1a 00}\n{ff 00 00 00}silmitsenud!\n.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}Oh, {01 00 00 05 00}noh.{01 00 00 14 00} Igatahes, olen\n{04 01 00}.{01 00 00 14 00} On\nmeeldiv, {01 00 00 05 00}{04 02 00}!"
   },
   {
    "id": 10,
    "en": "Hey,{01 00 00 0f 00} no worries!{01 00 00 14 00} Your\nyapping won't throw off my\ngame or anything.\nMostly 'cause I haven't got\nany!{01 00 00 0a 00} I'm {04 01 00}, by\nthe way. And you are{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.?\nOh, {01 00 00 0f 00}{04 1f 00}!{01 01 00} Well, I\nlook forward to talkin'\nwith you again!",
-   "et": ""
+   "et": "Hei,{01 00 00 0f 00} pole muret!{01 00 00 14 00} Sinu\nlobisemine ei riku mu\nmängu ega midagi.\nPeamiselt sellepärast, et\nmul pole seda!{01 00 00 0a 00} Olen muide\n{04 01 00}. Ja sina oled{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.?\nOh, {01 00 00 0f 00}{04 1f 00}!{01 01 00} Noh, ma\nootan, et saaksime jälle\nrääkida!"
   },
   {
    "id": 11,
    "en": "Whoa!{01 00 00 14 00} I've seen you around,\nbut this is the first time\nwe've had a chance to talk.\nI'm {04 01 00} and I like\nto chow down on\n{0b 02 00}{ff 00 00 07}{04 1a 00}{ff 00 00 00}!\nAnyhoo, {01 00 00 05 00}nice meeting you,\n{01 00 00 05 00}{04 02 00}!",
-   "et": ""
+   "et": "Ohoo!{01 00 00 14 00} Ma olen sind näinud,\naga see on esimene kord,\nkui saame rääkida.\nOlen {04 01 00} ja mulle\nmeeldib nosida\n{0b 02 00}{ff 00 00 07}{04 1a 00}{ff 00 00 00}!\nIgatahes, {01 00 00 05 00}meeldiv tutvuda,\n{01 00 00 05 00}{04 02 00}!"
   },
   {
    "id": 12,
    "en": "If \"sorry\" was enough, we\nwouldn't need lawyers,\n{01 00 00 05 00}{04 02 00}!\nWhy don't you try to{01 00 00 05 00} make\nit up to me by catching\nme a fish!",
-   "et": ""
+   "et": "Kui „vabandust” piisaks, ei\nvajaks me advokaate,\n{01 00 00 05 00}{04 02 00}!\nMiks sa ei ürita{01 00 00 05 00} seda\nheastada, püüdes mulle\nkala!"
   },
   {
    "id": 13,
    "en": "WHAT{01 00 00 05 00} IS{01 00 00 05 00} YOUR{01 00 00 05 00} PROBLEM?! And{01 00 00 05 00}\nwhat's with this whole\nfishing expert act, anyway?\nIf you're trying to show me{01 00 00 05 00}\nhow it's done, do it over\nthere, would you?!",
-   "et": ""
+   "et": "MIS{01 00 00 05 00} SUL{01 00 00 05 00} VIGA{01 00 00 05 00} ON?! Ja{01 00 00 05 00}\nmis mõte on sellel\nkalaeksperdi etendusel?\nKui sa üritad mulle näidata,{01 00 00 05 00}\nkuidas seda tehakse, tee\nseda seal, eks?!"
   }
  ]
 }

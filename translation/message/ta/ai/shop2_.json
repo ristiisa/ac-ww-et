@@ -4,52 +4,52 @@
   {
    "id": 0,
    "en": "{06 00 00 08 09}",
-   "et": ""
+   "et": "{06 00 00 08 09}"
   },
   {
    "id": 1,
    "en": "{07 0d 00}{01 00 00 0a 00}Well then,{01 00 00 0a 00} I'll take one of\neverything, {01 00 00 05 00}{04 02 00}!\n\n{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{07 00 00}{01 00 00 05 00}No, I'm just kidding!{01 00 00 0a 00} I'd\nlove to be able to do that\njust once, though!",
-   "et": ""
+   "et": "{07 0d 00}{01 00 00 0a 00}Noh siis,{01 00 00 0a 00} ma võtan igast\nühe, {01 00 00 05 00}{04 02 00}!\n\n{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{07 00 00}{01 00 00 05 00}Ei, ma naljatan!{01 00 00 0a 00} Tahaksin\nküll väga seda kord\nteha!"
   },
   {
    "id": 2,
    "en": "{07 14 00}Some accessories{01 00 00 0a 00} can really\ntransform your whole outfit\ninto something awesome.\n{07 1b 00}Careful though,{01 00 00 05 00} 'cause other\nitems can turn you into a\nwalking fashion \"don't.\" Ick!",
-   "et": ""
+   "et": "{07 14 00}Mõned aksessuaarid{01 00 00 0a 00} võivad\nkogu su rõivastuse\nmillekski vägevaks muuta.\n{07 1b 00}Ettevaatust,{01 00 00 05 00} sest teised\nesemed võivad teha sinust\nkõndiva moeapsaka. Öök!"
   },
   {
    "id": 3,
    "en": "{07 15 00}You know those girls who\nthink everything's cute?{01 00 00 14 00}\n{07 16 00}What{01 00 00 05 00} do you think of them?\n{01 00 00 0a 00}{07 1b 00}{01 00 00 05 00}Everything in a store\ncan't be cute,{01 00 00 05 00} right?\n{0b 03 00}{04 02 00}?\n.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 14 00}{07 04 00}But,{01 00 00 05 00} hey!{01 00 00 0a 00} That's cute... {01 00 00 0a 00}\nAnd that too!{01 00 00 14 00} {07 06 00}I want it all!",
-   "et": ""
+   "et": "{07 15 00}Tead neid tüdrukuid, kes\narvavad, et kõik on nunnu?{01 00 00 14 00}\n{07 16 00}Mida{01 00 00 05 00} sina neist arvad?\n{01 00 00 0a 00}{07 1b 00}{01 00 00 05 00}Kõik poes ei saa\nolla nunnu,{01 00 00 05 00} eks?\n{0b 03 00}{04 02 00}?\n.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 14 00}{07 04 00}Aga,{01 00 00 05 00} oot!{01 00 00 0a 00} See on nunnu... {01 00 00 0a 00}\nJa see ka!{01 00 00 14 00} {07 06 00}Ma tahan kõike!"
   },
   {
    "id": 4,
    "en": "{07 14 00}When I was little,{01 00 00 0a 00} clothing\nstores were like clubhouses\nto me, {01 00 00 0a 00}{04 02 00}.\n{07 19 00}I loved to crawl and hide in\n{01 00 00 0a 00}racks full of clothes!{07 00 00}\n{01 00 00 14 00}Hmm...\n{07 0e 00}{01 00 00 14 00}Now that I think of it,\n{07 14 00}I still do it when no one's\nlooking, {01 00 00 0a 00}{04 02 00}.",
-   "et": ""
+   "et": "{07 14 00}Kui ma väike olin,{01 00 00 0a 00} olid\nriide- poed minu jaoks nagu\nklubimajad, {01 00 00 0a 00}{04 02 00}.\n{07 19 00}Mulle meeldis roomata ja\npeituda {01 00 00 0a 00}riideid täis\nriiulitesse!{07 00 00} {01 00 00 14 00}Hmm...\n{07 0e 00}{01 00 00 14 00}Kui ma nüüd mõtlen,\n{07 14 00}teen ma seda ikka, kui\nkeegi ei vaata, {01 00 00 0a 00}{04 02 00}."
   },
   {
    "id": 5,
    "en": "{07 04 00}Oh, {01 00 00 05 00}{04 1f 00}!{01 00 00 14 00} {07 14 00}Are you all\nabout fashion now, too?\n{07 00 00}Well, I think it's great!{01 00 00 14 00}\nYour look really needed\nupdating. {07 14 00}And this shop has\nsome great options.",
-   "et": ""
+   "et": "{07 04 00}Oi, {01 00 00 05 00}{04 1f 00}!{01 00 00 14 00} {07 14 00}Kas sina\noled nüüd ka moe lainel?\n{07 00 00}minu arust on see imeline!{01 00 00 14 00}\nSu välimus vajas tõesti\nuuendamist. {07 14 00}Ja sel poel on\nhäid valikuid."
   },
   {
    "id": 6,
    "en": "{07 14 00}Innovative, unique, fresh,{01 01 00}{07 00 00}\nand maybe even a little bit\nrebellious!\n{07 0a 00}Yep,{01 00 00 0a 00} that's what fashion\nin {04 03 00} is all about.{01 00 00 14 00}\nThat's {04 01 00} style!",
-   "et": ""
+   "et": "{07 14 00}Uuenduslik, omanäoline,\nvärske,{01 01 00}{07 00 00} ja ehk isegi natuke\nmässumeelne!\n{07 0a 00}Jah,{01 00 00 0a 00} sellest mood\n{04 03 00}s koosnebki.{01 00 00 14 00}\nSee on {04 01 00} stiil!"
   },
   {
    "id": 7,
    "en": "{07 04 00}{01 00 00 05 00}Aw, {01 00 00 05 00}{04 1f 00}!{01 00 00 14 00} {07 1c 00}{01 00 00 14 00}Why do you\ninsist on looking{01 00 00 0a 00} completely\nfrumpy all the time?\n{07 16 00}It's not like you're ugly\nor anything.{01 00 00 0a 00} You just have \nto try a little.",
-   "et": ""
+   "et": "{07 04 00}{01 00 00 05 00}Ohh, {01 00 00 05 00}{04 1f 00}!{01 00 00 14 00} {07 1c 00}{01 00 00 14 00}Miks sa\nnõuad, et näeksid{01 00 00 0a 00} kogu aeg\ntäiesti kohmakas välja?\n{07 16 00}Pole nii, et sa oleksid\ninetu.{01 00 00 0a 00} Sa pead lihtsalt\nnatuke pingutama."
   },
   {
    "id": 8,
    "en": "{07 00 00}The selection today is{07 14 00}\npretty {04 15 00}. Don't\nyou think, {01 00 00 05 00}{04 02 00}?",
-   "et": ""
+   "et": "{07 00 00}Tänane valik on{07 14 00}\npäris {04 15 00}. Kas sa ei\narva, {01 00 00 05 00}{04 02 00}?"
   },
   {
    "id": 9,
    "en": "{07 04 00}Oh!{01 00 00 14 00} You're all dressed up\nin your best outfit!{01 01 00} {07 14 00}You're\nso lucky, {01 00 00 0a 00}{04 02 00}.\n{07 19 00}See, all my clothes{01 00 00 05 00} make me\nlook my absolute best,\nwhich{07 00 00} {07 1b 00}is kind of{01 00 00 05 00} a curse!\n'Cause if {01 00 00 05 00}everything is\nthe best, then nothing is!{07 0e 00}{01 00 00 14 00}\nWhoa, {01 00 00 05 00}I am really deep!",
-   "et": ""
+   "et": "{07 04 00}Oi!{01 00 00 14 00} Sa oled oma parimas\nrõivas!{01 01 00} {07 14 00}Sul on nii\nvedanud, {01 00 00 0a 00}{04 02 00}.\n{07 19 00}Näed, kõik mu riided{01 00 00 05 00}\npanevad mind parimana välja\nnägema, mis{07 00 00} {07 1b 00}on omamoodi{01 00 00 05 00}\nneedus! Sest kui {01 00 00 05 00}kõik on\nparim, pole miski parim!{07 0e 00}{01 00 00 14 00}\nOhoo, {01 00 00 05 00}küll ma olen sügav!"
   }
  ]
 }

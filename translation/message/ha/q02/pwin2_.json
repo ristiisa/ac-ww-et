@@ -4,12 +4,12 @@
   {
    "id": 0,
    "en": "{07 00 00}Well, since I got this boss\n{0b 02 00}{04 1c 00}{01 00 00 05 00},\n\nit's only fair {07 14 00}that you take\n{04 1b 00}!\nGo on, {01 00 00 05 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 00 00}Noh, kuna mina sain selle\n{0b 02 00}{04 1c 00}{01 00 00 05 00},\n\non ainuõige, {07 14 00}et sina saad\n{04 1b 00}!\nVõta aga, {01 00 00 05 00}{04 02 00}!"
   },
   {
    "id": 1,
    "en": "{07 14 00}Just for kicks, {01 00 00 05 00}I'm\ngonna keep this\n{0b 02 00}{04 1c 00}.\nAnd I'm gonna give you\n{04 1b 00},\n{01 00 00 05 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 14 00}Puhtalt lõbu pärast {01 00 00 05 00}jätan\nma endale selle\n{0b 02 00}{04 1c 00}.\nJa sina saad minult\n{04 1b 00},\n{01 00 00 05 00}{04 02 00}!"
   }
  ]
 }

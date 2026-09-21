@@ -4,17 +4,17 @@
   {
    "id": 0,
    "en": "{07 14 00}Killer job, {04 1f 00}!{01 00 00 0a 00}\nYou totally saved my hide!\n\n{07 00 00}So,{01 00 00 05 00} what did {ff 00 00 06}{04 10 00}{ff 00 00 00}\n{07 0b 00}say, {01 00 00 05 00}{04 02 00}?",
-   "et": ""
+   "et": "{07 14 00}Tapvalt hea töö, {04 1f 00}!{01 00 00 0a 00}\nSa päästsid täiesti mu\nnaha! \n{07 00 00}Nii,{01 00 00 05 00} mida {ff 00 00 06}{04 10 00}{ff 00 00 00}\n{07 0b 00}ütles, {01 00 00 05 00}{04 02 00}?"
   },
   {
    "id": 1,
    "en": "{07 0d 00}Oh, awesome, you delivered\nit!{01 00 00 05 00} Thanks, {01 00 00 05 00}{04 02 00}!\n\n{07 00 00}Hey, so speaking of...{01 00 00 05 00}\n{07 0b 00}How did {ff 00 00 06}{04 10 00} {ff 00 00 00}react\nto it?",
-   "et": ""
+   "et": "{07 0d 00}Oh, võrratu, sa viisid selle\nkohale!{01 00 00 05 00} Aitäh, {01 00 00 05 00}{04 02 00}!\n\n{07 00 00}Kuule, sellest rääkides...{01 00 00 05 00}\n{07 0b 00}Kuidas {ff 00 00 06}{04 10 00} {ff 00 00 00}sellele\nreageeris?"
   },
   {
    "id": 2,
    "en": "{07 14 00}Yes, {04 1f 00}!{01 00 00 05 00} Good job!{01 00 00 05 00}\nWay to go, {01 00 00 05 00}{04 02 00}!\n\n{07 00 00}So...{01 00 00 05 00} How was {ff 00 00 06}{04 10 00}{ff 00 00 00}'s\n{07 0b 00}reaction?",
-   "et": ""
+   "et": "{07 14 00}Jah, {04 1f 00}!{01 00 00 05 00} Tubli töö!{01 00 00 05 00}\nTubli, {01 00 00 05 00}{04 02 00}!\n\n{07 00 00}Nii...{01 00 00 05 00} Milline oli {ff 00 00 06}{04 10 00}{ff 00 00 00}\n{07 0b 00}reaktsioon?"
   }
  ]
 }

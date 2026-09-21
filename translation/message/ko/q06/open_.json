@@ -4,17 +4,17 @@
   {
    "id": 0,
    "en": "{01 00 00 05 00}I know all about what you\ndid, {04 1f 00}.{01 00 00 0f 00} {07 15 00}I know you\nopened my package.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n{07 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}The thing is,{01 00 00 05 00}{07 0b 00} you're\nthe one that lost\nsomething, {01 00 00 05 00}{04 02 00}.\n{07 15 00}I can buy another present.\nIt can be replaced.\n\n{07 05 00}But my respect for you\nis deader than a sad,\nforgotten noodle.{03 02 00 01}",
-   "et": ""
+   "et": "{01 00 00 05 00}Ma tean kõike, mida sa\ntegid, {04 1f 00}.{01 00 00 0f 00} {07 15 00}Ma tean, et\nsa avasid mu paki{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}Asi on selles,{01 00 00 05 00}{07 0b 00} et sina\noled see, kes midagi\nkaotas, {01 00 00 05 00}{04 02 00}.\n{07 15 00}Ma võin osta uue kingituse.\nSeda saab asendada.\n\n{07 05 00}Aga mu austus sinu vastu\non surnum kui kurb,\nunustatud nuudel.{03 02 00 01}"
   },
   {
    "id": 1,
    "en": "{07 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}Hey,{01 00 00 0f 00}{07 01 00} I know all about \nhow you opened my package.\n\n{07 05 00}I didn't think you were\ncapable of doing something \nas shady as that.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\nBut you'll be sorry if you\ncross me again like that, \n{01 00 00 05 00}{04 02 00}!{03 02 00 01}",
-   "et": ""
+   "et": "{07 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}Kuule,{01 00 00 0f 00}{07 01 00} ma tean kõike\nsellest, kuidas sa mu paki\navasid.\n{07 05 00}Ma ei arvanud, et sa oled\nvõimeline midagi nii\nhämarat tegema{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\nAga sa kahetsed, kui mind\nveel niimoodi alt tõmbad,\n{01 00 00 05 00}{04 02 00}!{03 02 00 01}"
   },
   {
    "id": 2,
    "en": "{07 00 00}By the way, {01 00 00 05 00}I know{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n{07 15 00}Yes, I know that you{01 00 00 05 00}\nopened the package.\n{07 03 00}Did you actually think that\nI wouldn't find out?\n\n{07 05 00}Don't you know I've got\nspies behind every tree in\nthis town, {01 00 00 05 00}{04 02 00}?{03 02 00 01}",
-   "et": ""
+   "et": "{07 00 00}Muide, {01 00 00 05 00}ma tean{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n{07 15 00}Jah, ma tean, et sa{01 00 00 05 00}\navasid paki.\n{07 03 00}Kas sa tõesti arvasid, et\nma ei saa teada?\n\n{07 05 00}Kas sa ei tea, et mul on\nluurajad iga puu taga\nselles linnas, {01 00 00 05 00}{04 02 00}?{03 02 00 01}"
   }
  ]
 }

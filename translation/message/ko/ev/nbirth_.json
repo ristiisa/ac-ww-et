@@ -4,157 +4,157 @@
   {
    "id": 0,
    "en": "{07 04 00}Hey!{01 00 00 0f 00} Well, if it isn't{01 00 00 05 00}\n{04 1f 00}!\n\n{07 06 00}You.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} You know, you didn't\nhave to come.\n\n{07 16 00}I guess you just had some\ntime on your hands, then?\nEh, {01 00 00 05 00}{04 02 00}?",
-   "et": ""
+   "et": "{07 04 00}Hei!{01 00 00 0f 00} Noh, kas pole mitte{01 00 00 05 00}\n{04 1f 00}!\n\n{07 06 00}Sa.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} Tead, sa ei pidanud\ntulema.\n\n{07 16 00}Vist oli sul lihtsalt\nnatuke vaba aega?\nMis, {01 00 00 05 00}{04 02 00}?"
   },
   {
    "id": 1,
    "en": "{07 04 00}Hey, {01 00 00 05 00}{04 1f 00}!\nYou're late!\n\n{07 06 00}We've been waiting forever\nfor you to show up!",
-   "et": ""
+   "et": "{07 04 00}Hei, {01 00 00 05 00}{04 1f 00}!\nSa jäid hiljaks!\n\n{07 06 00}Me oleme igaviku oodanud,\net sa kohale ilmuksid!"
   },
   {
    "id": 2,
    "en": "{07 00 00}{ff 00 00 06}{04 0f 00}{ff 00 00 00} came along to\ncelebrate, too!\n\nI didn't think I needed any\nfriends, but{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.\n\n{07 08 00}You guys are the best{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.\n{01 00 00 05 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 00 00}{ff 00 00 06}{04 0f 00}{ff 00 00 00} tuli ka\ntähistama!\n\nMa ei arvanud, et vajan\nsõpru, aga{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.\n\n{07 08 00}Te olete parimad{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.\n{01 00 00 05 00}{04 02 00}!"
   },
   {
    "id": 3,
    "en": "{07 00 00}{0b 03 00}{04 1f 00} and\n{ff 00 00 06}{04 0f 00}{ff 00 00 00}{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.\n\nTo think I'd have as many\nas TWO people at my\nbirthday party{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 08 00}Sniff!{01 00 00 14 00} This is the best\nbirthday EVER, {01 00 00 05 00}{04 02 00}.",
-   "et": ""
+   "et": "{07 00 00}{0b 03 00}{04 1f 00} ja\n{ff 00 00 06}{04 0f 00}{ff 00 00 00}{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.\n\nMõelda vaid, et mul on\nsünnipäevapeol tervelt\nKAKS inimest{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 08 00}Nuuks!{01 00 00 14 00} See on parim\nsünnipäev EVER, {01 00 00 05 00}{04 02 00}."
   },
   {
    "id": 4,
    "en": "{07 00 00}By the way, {04 1f 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0f 00}\n\n\nNo pressure, but, uh, {07 14 00}is\nthere anything you want to\nGIVE me? {0b 03 00}{01 00 00 05 00}{04 02 00}?{02 00 00 ff ff}\nOh, yeah!\nUh, no.",
-   "et": ""
+   "et": "{07 00 00}Muide, {04 1f 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0f 00}\n\n\nSurvet pole, aga, ee, {07 14 00}kas\nsa tahad mulle midagi\nANDA? {0b 03 00}{01 00 00 05 00}{04 02 00}?{02 00 00 ff ff}\nOh, jaa!\nEe, ei."
   },
   {
    "id": 5,
    "en": "{07 00 00}Say,{01 00 00 05 00} I know it's awkward for\nme to bring it up, but{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n{07 0b 00}where's my present?{02 00 00 ff ff}\nRight here!\nIn your dreams.",
-   "et": ""
+   "et": "{07 00 00}Kuule,{01 00 00 05 00} tean, et on piinlik\nseda mainida, aga{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n{07 0b 00}kus on mu kingitus?{02 00 00 ff ff}\nSiinsamas!\nSinu unistustes."
   },
   {
    "id": 6,
    "en": "{07 00 00}Hey, {01 00 00 05 00}{04 1f 00},{01 00 00 0f 00}\ndon't overdo it, now.\n{0b 03 00}{01 00 00 05 00}{04 02 00}!\nRight now,{01 00 00 05 00} you've got that\nkind of cornered animal\nlook on you.\n{07 15 00}I can see it on your face,\n{01 00 00 05 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 00 00}Hei, {01 00 00 05 00}{04 1f 00},{01 00 00 0f 00}\nära nüüd liialda.\n{0b 03 00}{01 00 00 05 00}{04 02 00}!\nPraegu on sul{01 00 00 05 00} selline\nnurka surutud looma\nilme peal.\n{07 15 00}Ma näen seda su näost,\n{01 00 00 05 00}{04 02 00}!"
   },
   {
    "id": 7,
    "en": "{07 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 16 00}Yeah, I sorta expected\nthat.",
-   "et": ""
+   "et": "{07 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 16 00}Jah, ma justkui\nootasin seda."
   },
   {
    "id": 8,
    "en": "{07 05 00}All right, you gravy-nosed\npastry-face!{01 00 00 14 00} You tryin' to\nmake me look bad?!",
-   "et": ""
+   "et": "{07 05 00}Hea küll, sa kastmenina\nsaianägu!{01 00 00 14 00} Sa üritad mind\nhalvas valguses näidata?!"
   },
   {
    "id": 9,
    "en": "{07 04 00}Whoa!{01 00 00 0f 00} You serious?\n\n\n{07 00 00}Is it, uh, a birthday\npresent, perhaps?\n{0b 03 00}{01 00 00 05 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 04 00}Ohoo!{01 00 00 0f 00} Kas tõsiselt?\n\n\n{07 00 00}Kas see on, ee,\nsünnipäevakink?\n{0b 03 00}{01 00 00 05 00}{04 02 00}!"
   },
   {
    "id": 10,
    "en": "{07 04 00}No{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00} No way!{01 00 00 14 00}\nYou sure you're not just\n{07 00 00}yankin' my chain?",
-   "et": ""
+   "et": "{07 04 00}Ei{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00} Ei või olla!{01 00 00 14 00}\nKas sa kindlasti ei\n{07 00 00}vea mind ninapidi?"
   },
   {
    "id": 11,
    "en": "{07 04 00}Whoa, check it out{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 01 00}\n{0b 03 00}{04 1a 00}!\n\n{07 00 00}I always wanted to start\ngetting into these!\n\n{07 0d 00}And now my new\n{0b 02 00}{04 1a 00}\nwill be my chance!",
-   "et": ""
+   "et": "{07 04 00}Ohoo, vaata seda{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 01 00}\n{0b 03 00}{04 1a 00}!\n\n{07 00 00}Ma olen alati tahtnud\nnendega tegelema hakata!\n\n{07 0d 00}Ja nüüd on mu uus\n{0b 02 00}{04 1a 00}\nminu võimalus!"
   },
   {
    "id": 12,
    "en": "{07 00 00}Hey!{01 00 00 14 00} Look at that!\n{0b 03 00}{04 1a 00}!\n\nIt's not like I wanted or\ndidn't want one, but{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n\nHey, who's complaining,\nright? {0b 03 00}{01 00 00 05 00}{04 02 00}!\n\n{07 14 00}{0b 03 00}{04 1f 00}, you're not a \nslack-jawed cheese-hugger\nafter all!",
-   "et": ""
+   "et": "{07 00 00}Hei!{01 00 00 14 00} Vaata seda!\n{0b 03 00}{04 1a 00}!\n\nPole nii, et ma tahtsin või\nei tahtnud, aga{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n\nHei, kes siin kurdab,\neks? {0b 03 00}{01 00 00 05 00}{04 02 00}!\n\n{07 14 00}{0b 03 00}{04 1f 00}, sa polegi \nlõdvasuine juustukallistaja\nlõppude lõpuks!"
   },
   {
    "id": 13,
    "en": "{07 1d 00}Could it...{01 00 00 05 00} Could it...{01 00 00 05 00}be...\n{04 1a 00}?! \n\n{07 06 00}Yee-haaah!{01 00 00 0f 00} I have{01 00 00 05 00} ALWAYS\nwanted a present like this,\n{01 00 00 05 00}{04 02 00}!\n{07 0d 00}You must really know my\nstyle!",
-   "et": ""
+   "et": "{07 1d 00}Kas see...{01 00 00 05 00} Kas võiks...{01 00 00 05 00}olla...\n{04 1a 00}?! \n\n{07 06 00}Jii-haaa!{01 00 00 0f 00} Ma olen{01 00 00 05 00} ALATI\ntahtnud sellist kingitust,\n{01 00 00 05 00}{04 02 00}!\n{07 0d 00}Sa tunned tõesti minu\nstiili!"
   },
   {
    "id": 14,
    "en": "{07 1d 00}No way! {01 00 00 14 00}Yesssss!\n{0b 03 00}{04 1a 00}!\n\n{0b 03 00}{04 1f 00}, how'd you\nknow{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.?\n\n{07 08 00}I'm so glad we're friends,\n{01 00 00 05 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 1d 00}Ei või olla! {01 00 00 14 00}Jaaaaa!\n{0b 03 00}{04 1a 00}!\n\n{0b 03 00}{04 1f 00}, kuidas sa\nteadsid{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.?\n\n{07 08 00}Nii hea, et oleme sõbrad,\n{01 00 00 05 00}{04 02 00}!"
   },
   {
    "id": 15,
    "en": "{07 00 00}You gotta take my\n{0b 02 00}{04 1b 00} in\nreturn!\nIt's the least I can do.",
-   "et": ""
+   "et": "{07 00 00}Sa pead võtma mu\n{0b 02 00}{04 1b 00}\nvastutasuks!\nSee on vähim, mida saan."
   },
   {
    "id": 16,
    "en": "{07 00 00}Oh yeah,{01 00 00 0f 00} it's not right just\nto take and take and take.\n\n{07 14 00}So I want you to have my\n{0b 02 00}{04 1b 00} in\nreturn, {01 00 00 05 00}{04 02 00}.",
-   "et": ""
+   "et": "{07 00 00}Ah jaa,{01 00 00 0f 00} pole õige ainult\nvõtta ja võtta ja võtta.\n\n{07 14 00}Nii et ma tahan, et sul\noleks mu {0b 02 00}{04 1b 00}\nvastutasuks, {01 00 00 05 00}{04 02 00}."
   },
   {
    "id": 17,
    "en": "{07 14 00}This is gonna sound kinda\nlame, {01 00 00 05 00}but let's always\nbe friends, {04 02 00}!",
-   "et": ""
+   "et": "{07 14 00}See kõlab pisut lörtsilt,\n{01 00 00 05 00}aga olgem alati\nsõbrad, {04 02 00}!"
   },
   {
    "id": 18,
    "en": "{07 00 00}I think this is the start of\na great friendship,\n{01 00 00 05 00}{04 02 00}.",
-   "et": ""
+   "et": "{07 00 00}Ma arvan, et see on\nsuure sõpruse algus,\n{01 00 00 05 00}{04 02 00}."
   },
   {
    "id": 19,
    "en": "{07 00 00}I guess this year\nrepresents the peak of my\nmanliness{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}\n{07 11 00}I should try to pull off\nsomething more manly than\never before, {01 00 00 05 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 00 00}Vist esindab see aasta\nminu mehelikkuse\ntippu{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}\n{07 11 00}Ma peaksin üritama teha\nmidagi mehelikumat kui\nkunagi varem, {01 00 00 05 00}{04 02 00}!"
   },
   {
    "id": 20,
    "en": "{07 00 00}Still,{01 00 00 05 00} I have to say I didn't\nexpect you to come!\n\n{07 06 00}Actually,{01 00 00 05 00} I thought you\ntotally hated me!\n\n{07 08 00}Bwahhhaaaa!{01 00 00 14 00} I'm so happy,\n{01 00 00 05 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 00 00}Ikkagi,{01 00 00 05 00} pean ütlema, et ma\nei oodanud sinu tulekut!\n\n{07 06 00}Tegelikult{01 00 00 05 00} arvasin ma, et\nsa vihkad mind täiesti!\n\n{07 08 00}Bvahhhaaaa!{01 00 00 14 00} Ma olen nii\nõnnelik, {01 00 00 05 00}{04 02 00}!"
   },
   {
    "id": 21,
    "en": "{07 00 00}I'm so happy to have you\ntwo here to party with!\n\n{07 15 00}Ahhhh {01 00 00 05 00}AGGHHH {01 00 00 05 00}AGHHHHH...{01 01 00}\n{07 01 00}{01 08 00}...CHOOOOOOOOOOOO!!!{01 00 00 14 00}\n{07 16 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}Ugh, {01 00 00 05 00}dadblastit!",
-   "et": ""
+   "et": "{07 00 00}Nii hea, et teie kaks\nolete siin pidutsemas!\n\n{07 15 00}Ahhhh {01 00 00 05 00}AGGHHH {01 00 00 05 00}AGHHHHH...{01 01 00}\n{07 01 00}{01 08 00}...TSIHHHHHHHHH!!!{01 00 00 14 00}\n{07 16 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}Uhh, {01 00 00 05 00}pagan võtaks!"
   },
   {
    "id": 22,
    "en": "{07 16 00}You know,{01 00 00 05 00} I just got one\nyear older.{01 00 00 05 00}\n\n{07 1c 00}I guess birthdays aren't\nmuch for celebrating after\nall, {01 00 00 0f 00}are they?",
-   "et": ""
+   "et": "{07 16 00}Tead,{01 00 00 05 00} ma sain just aasta\nvanemaks.{01 00 00 05 00}\n\n{07 1c 00}Vist polegi sünnipäevad\ntähistamiseks\nkuigi head, {01 00 00 0f 00}ega?"
   },
   {
    "id": 26,
    "en": "{07 00 00}So tell me, {01 00 00 05 00}{04 1f 00},{01 00 00 14 00}\nwhat's the deal between you\nand {ff 00 00 06}{04 10 00}{ff 00 00 00},{ff 00 00 06} {ff 00 00 00}{07 0b 00}anyway?\n{07 00 00}.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}Oh!{01 00 00 0f 00} I see, {01 00 00 05 00}I see.\n\n\n{07 15 00}Well, it must be nice to be\nyoung, {01 00 00 05 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 00 00}Nii et ütle, {01 00 00 05 00}{04 1f 00},{01 00 00 14 00}\nmis on sinu ja\n{ff 00 00 06}{04 10 00}{ff 00 00 00} vahel,{ff 00 00 06} {ff 00 00 00}{07 0b 00}ah?\n{07 00 00}.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}Oh!{01 00 00 0f 00} Selge, {01 00 00 05 00}selge.\n\n\n{07 15 00}Noh, kena peab olema olla\nnoor, {01 00 00 05 00}{04 02 00}!"
   },
   {
    "id": 27,
    "en": "{07 14 00}Should we do something\nnice for {ff 00 00 06}{04 10 00}{ff 00 00 00}'s\nbirthday, too?\n{07 15 00}Hm.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} All right, then!{01 01 00}\nWe'll come up with somethin'\ncrazy for {ff 00 00 06}{04 10 00}{ff 00 00 00}!\n{07 11 00}It'll be the most\nraging birthday party in\nthe history of ever!",
-   "et": ""
+   "et": "{07 14 00}Kas me peaksime tegema\nmidagi kena ka {ff 00 00 06}{04 10 00}{ff 00 00 00}\nsünnipäevaks?\n{07 15 00}Hm.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} Hea küll, siis!{01 01 00}\nMõtleme {ff 00 00 06}{04 10 00}{ff 00 00 00}\njaoks midagi hullu!\n{07 11 00}See saab olema kõige\nmetsikum sünnipäevapidu\nläbi aegade!"
   },
   {
    "id": 28,
    "en": "{07 04 00}Huh?{01 00 00 14 00} You haven't given your\npresent yet?\n\n{07 00 00}So uh,{01 00 00 05 00} you're just a big\ntease, aren'tcha?",
-   "et": ""
+   "et": "{07 04 00}Ah?{01 00 00 14 00} Sa pole oma kingitust\nveel andnud?\n\n{07 00 00}Nii et, ee,{01 00 00 05 00} sa oled alles\nnarritaja, mis?"
   },
   {
    "id": 29,
    "en": "{07 14 00}Look,{01 00 00 0f 00} {ff 00 00 06}{04 10 00}{ff 00 00 00} is smiling\nlike an idiot, {01 00 00 05 00}{04 02 00}!\n\n{07 00 00}If you just hand over\na present, you'd have a\nbuddy for life!",
-   "et": ""
+   "et": "{07 14 00}Vaata,{01 00 00 0f 00} {ff 00 00 06}{04 10 00}{ff 00 00 00} naeratab\nnagu tola, {01 00 00 05 00}{04 02 00}!\n\n{07 00 00}Kui sa lihtsalt annaksid\nkingituse, oleks sul semu\nkogu eluks!"
   },
   {
    "id": 30,
    "en": "{07 00 00}The best way to get happy\n{07 19 00}is to make others happy.\n\n{07 03 00}Not that I'd know anything\nabout that!\n",
-   "et": ""
+   "et": "{07 00 00}Parim viis õnnelikuks saada\n{07 19 00}on teha teisi õnnelikuks.\n\n{07 03 00}Mitte et ma sellest midagi\nteaksin!\n"
   },
   {
    "id": 31,
    "en": "{07 00 00}So, do you think you and \n{ff 00 00 06}{04 10 00}{ff 00 00 00} will come to my\nbirthday party?\n{07 06 00}I'll be pretty bummed if\nyou don't, {04 1f 00}!\nSeriously, {01 00 00 05 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 00 00}Nii, kas sa arvad, et sina \nja {ff 00 00 06}{04 10 00}{ff 00 00 00} tulete mu\nsünnipäevapeole?\n{07 06 00}Ma olen päris norus, kui\nte ei tule, {04 1f 00}!\nTõsiselt, {01 00 00 05 00}{04 02 00}!"
   },
   {
    "id": 32,
    "en": "{07 13 00}Man, you can really feel the\nlove in here. {01 00 00 05 00}And it's not\neven makin' me sick!\n{07 14 00}I wish there was a birthday\naround here every day,\n{01 00 00 05 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 13 00}Poiss, siin on tõesti tunda\narmastust. {01 00 00 05 00}Ja see ei aja\nmul isegi südant pahaks!\n{07 14 00}Soovin, et siin oleks iga\npäev mõni sünnipäev,\n{01 00 00 05 00}{04 02 00}!"
   },
   {
    "id": 33,
    "en": "{07 14 00}So, {ff 00 00 06}{04 10 00} {ff 00 00 00}looks\npretty happy, {01 00 00 05 00}{04 02 00}.\n\nI mean, who wouldn't be\nhappy with party guests\nlike us?{01 00 00 05 00}\nAnd, {04 1f 00}, you even\nbrought a present and\neverything!",
-   "et": ""
+   "et": "{07 14 00}Nii, {ff 00 00 06}{04 10 00} {ff 00 00 00}näeb päris\nõnnelik välja, {01 00 00 05 00}{04 02 00}.\n\nMa mõtlen, kes poleks\nõnnelik selliste\npeokülalistega nagu meie?{01 00 00 05 00}\nJa, {04 1f 00}, sa tõid\nisegi kingituse ja\nkõike!"
   }
  ]
 }

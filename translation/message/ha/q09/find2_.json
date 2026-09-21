@@ -4,17 +4,17 @@
   {
    "id": 0,
    "en": "{07 04 00}Huh? {01 00 00 05 00}Aw, you're overloaded!{01 00 00 14 00}\n{07 0e 00}And I was just about to\ngive you the prize{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 00 00}Why don't you go organize\nyour pockets and then come\nback, {01 00 00 05 00}{04 02 00}?",
-   "et": ""
+   "et": "{07 04 00}Ah? {01 00 00 05 00}Oih, sul on käed täis!{01 00 00 14 00}\n{07 0e 00}Ja ma tahtsin sulle just\nauhinda anda{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 00 00}Mine korrasta oma taskud\nära ja tule siis\ntagasi, {01 00 00 05 00}{04 02 00}?"
   },
   {
    "id": 1,
    "en": "{07 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 04 00}Whoa, hold the phone!{01 00 00 14 00}\n{07 16 00}Your pockets are packed to\nthe brim!\n{07 15 00}How are you gonna carry\nthis sweet prize home, huh?{01 00 00 14 00}\n{07 16 00}Sheesh, use your head!",
-   "et": ""
+   "et": "{07 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 04 00}Ohoo, oota korraks!{01 00 00 14 00}\n{07 16 00}Su taskud on ääreni\ntäis topitud!\n{07 15 00}Kuidas sa selle magusa\nauhinna koju viid, mis?{01 00 00 14 00}\n{07 16 00}Issand, kasuta pead!"
   },
   {
    "id": 2,
    "en": "{07 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 04 00}Wait, what's going on?{01 00 00 14 00}\n{07 16 00}I was all set to give you\nthis awesome prize, but...\nYou can't carry any more\nitems right now, can you,\n{01 00 00 05 00}{04 02 00}?\n{07 14 00}Tell you what:{01 00 00 05 00} Go deal with\nyour pocket situation and\ncome back, {01 00 00 05 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 04 00}Oota, mis toimub?{01 00 00 14 00}\n{07 16 00}Ma olin valmis sulle andma\nseda vinget auhinda, aga...\nSa ei suuda praegu enam\nasju kanda, ega ju,\n{01 00 00 05 00}{04 02 00}?\n{07 14 00}Tead mis:{01 00 00 05 00} Tegele oma\ntaskute olukorraga ja\ntule tagasi, {01 00 00 05 00}{04 02 00}!"
   }
  ]
 }

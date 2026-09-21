@@ -4,42 +4,42 @@
   {
    "id": 0,
    "en": "Hey, {01 00 00 0a 00}{07 0b 00}do you know {ff 00 00 06}Gracie{ff 00 00 00}?{02 00 00 03 04}\nSure!\nNope.",
-   "et": ""
+   "et": "Hei, {01 00 00 0a 00}{07 0b 00}kas sa tead {ff 00 00 06}Graciet{ff 00 00 00}?{02 00 00 03 04}\nMuidugi!\nEi."
   },
   {
    "id": 1,
    "en": "{07 00 00}Look, if you ever, I dunno,\nwanted to send a present{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\nY'know, like a shirt{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\nJust attach it to a letter,\n{07 14 00}and send it to me,\n{01 00 00 05 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 00 00}Kuule, kui sa kunagi, ma ei\ntea, tahaksid kingi saata{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\nTead küll, näiteks särgi{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\nLihtsalt lisa see kirjale\n{07 14 00}ja saada mulle,\n{01 00 00 05 00}{04 02 00}!"
   },
   {
    "id": 2,
    "en": "{07 14 00}Whoa! {0b 03 00}{ff 00 00 05}{04 1f 00}{ff 00 00 00}!{01 00 00 0a 00}\nThat was AWESOME!\n\nYou can do backflips\n{07 0b 00}while changing shirts?!{01 00 00 05 00}\nSO RAD, {01 00 00 05 00}{04 02 00}!\n{06 01 00 05 06 07}",
-   "et": ""
+   "et": "{07 14 00}Ohoo! {0b 03 00}{ff 00 00 05}{04 1f 00}{ff 00 00 00}!{01 00 00 0a 00}\nSee oli VINGE!\n\nSa suudad teha tagurpidi\nsaltosid {07 0b 00}särki vahetades?!{01 00 00 05 00}\nNII ÄGE, {01 00 00 05 00}{04 02 00}!\n{06 01 00 05 06 07}"
   },
   {
    "id": 3,
    "en": "OK, smarty-pants, but do\nyou know her REAL name?{01 00 00 0a 00}\n{07 14 00}'Cause I do!\n{07 0e 00}Let's see, {01 00 00 0a 00}what was it{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\nIt was SOMEthing...\n\n{07 04 00}Oh, yeah, I remember!{01 00 00 05 00}\n{07 0b 00}No, wait, that's MY name!\n\n.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 14 00}Oh, {01 00 00 05 00}who really cares,\n{01 00 00 05 00}{04 02 00}!",
-   "et": ""
+   "et": "Olgu, tarkpea, aga kas sa\ntead tema PÄRIS nime?{01 00 00 0a 00}\n{07 14 00}Sest mina tean!\n{07 0e 00}Vaatame, {01 00 00 0a 00}mis see oligi{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\nSee oli MIDAGI...\n\n{07 04 00}Oh jaa, ma mäletan!{01 00 00 05 00}\n{07 0b 00}Ei, oota, see on MINU nimi!\n\n.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 14 00}Oh, {01 00 00 05 00}keda see huvitab,\n{01 00 00 05 00}{04 02 00}!"
   },
   {
    "id": 4,
    "en": "{07 00 00}Yeah, I don't know too much\nabout her either...\n\n{07 15 00}Everybody says she's THE\nauthority on what's trendy,\nthough, {01 00 00 05 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 00 00}Jah, ma ei tea temast ka\neriti palju...\n\n{07 15 00}Kõik ütlevad, et tema on\ntrendide osas AUTORITEET,\n{01 00 00 05 00}{04 02 00}!"
   },
   {
    "id": 5,
    "en": "{07 00 00}Your calves must be YOKED!{01 00 00 05 00}\n{07 0d 00}You could probably earn\nsome medals in gymnastics!",
-   "et": ""
+   "et": "{07 00 00}Su sääred on MASSIIVSED!{01 00 00 05 00}\n{07 0d 00}Sa võiksid võimlemises\nmedaleid võita!"
   },
   {
    "id": 6,
    "en": "{07 06 00}Man, I guess I oughta work\nmore moves into my\ndressing routine, too!\n{07 05 00}From now on, I'm doing\ntriple-axels out of bed,\n{01 00 00 05 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 06 00}Mees, ma peaksin vist ka\nrohkem trikke oma\nriietumisrutiini panema!\n{07 05 00}Nüüdsest teen ma voodist\ntulles kolmikaksleid,\n{01 00 00 05 00}{04 02 00}!"
   },
   {
    "id": 7,
    "en": "{07 00 00}Dang! {01 00 00 05 00}My shirt moves STINK!{01 00 00 0f 00}\nFine, I'll learn a backflip\n{07 0d 00}with a twist, baby!",
-   "et": ""
+   "et": "{07 00 00}Pagan! {01 00 00 05 00}Mu trikid on NÕMEDAD!{01 00 00 0f 00}\nHea küll, ma õpin tagurpidi\nsalto {07 0d 00}keeruga, beebi!"
   }
  ]
 }

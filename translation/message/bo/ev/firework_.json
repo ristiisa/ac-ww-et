@@ -4,72 +4,72 @@
   {
    "id": 0,
    "en": "{07 14 00}The fireworks{01 00 00 0a 00} have started!\nWahooooo!!\n\n{07 0d 00}{01 00 00 0a 00}I've been looking forward to\nthis{01 00 00 0a 00} since I woke up this\nmorning,{01 00 00 0a 00} {04 02 00}!",
-   "et": ""
+   "et": "{07 14 00}Ilutulestik{01 00 00 0a 00} on alanud!\nJuhhuuu!!\n\n{07 0d 00}{01 00 00 0a 00}Olen seda oodanud{01 00 00 0a 00}\nsellest ajast, kui täna\nhommikul ärkasin,{01 00 00 0a 00} {04 02 00}!"
   },
   {
    "id": 1,
    "en": "{07 14 00}{01 08 00}BOOM!\n\n\n{07 0a 00}The fireworks have finally\nbegun! {01 00 00 0a 00}That noise just\nscreams {01 00 00 0a 00}{01 08 00}\"SUMMER!!!\" to me.",
-   "et": ""
+   "et": "{07 14 00}{01 08 00}PAU!\n\n\n{07 0a 00}Ilutulestik on lõpuks\nalanud! {01 00 00 0a 00}See müra lihtsalt\nkarjub {01 00 00 0a 00}{01 08 00}„SUVI!!!” mulle."
   },
   {
    "id": 2,
    "en": "{07 00 00}So, we're in the midst of\nanother {ff 00 00 03}Fireworks Show{ff 00 00 00},\nhuh?\n{07 17 00}Do you have any snacks? {01 00 00 05 00}I'm\nsuddenly feeling kind of\nhungry,{01 00 00 0a 00} {04 02 00}.",
-   "et": ""
+   "et": "{07 00 00}Nii, me oleme jälle keset\n{ff 00 00 03}ilutulestikku{ff 00 00 00},\nmis?\n{07 17 00}Kas sul on näkse? {01 00 00 05 00}Mul\ntuli äkki kuidagi\nkõht tühjaks,{01 00 00 0a 00} {04 02 00}."
   },
   {
    "id": 3,
    "en": "{07 04 00}{ff 00 00 04}(GRUMBLE{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.){01 01 00} {ff 00 00 00}Oh, oops!{01 00 00 0a 00} {07 17 00}That\nwas my belly doing the\nrumbling.\n{07 14 00}Huh huh!{01 00 00 0a 00} Did you hear it? {01 00 00 0a 00}{07 1b 00}I\nwas hoping all the exploding\nfireworks would cover it up.",
-   "et": ""
+   "et": "{07 04 00}{ff 00 00 04}(KORIN{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.){01 01 00} {ff 00 00 00}Oh, ups!{01 00 00 0a 00} {07 17 00}See\noli minu kõht, mis\nkoises.\n{07 14 00}Hah hah!{01 00 00 0a 00} Kuulsid? {01 00 00 0a 00}{07 1b 00}Lootsin,\net plahvatav ilutulestik\nsumbutab selle ära."
   },
   {
    "id": 4,
    "en": "{07 14 00}It's almost time for the\nfinale,{01 00 00 05 00} {04 02 00}!\n\n{07 0a 00}They launch it with a BOOM,\nand the night sky lights up\nlike it's daytime!",
-   "et": ""
+   "et": "{07 14 00}Peagi on finaali aeg,{01 00 00 05 00}\n{04 02 00}!\n\n{07 0a 00}Nad lasevad selle PAUGUGA\nõhku ja öötaevas läheb\nvalgeks nagu päeval!"
   },
   {
    "id": 5,
    "en": "{07 00 00}I guess the fireworks{01 00 00 0a 00} are\nalmost over{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00} {07 16 00}It's kind of\nsad really.\n{07 14 00}But when the fireworks are\nall done, I kinda like that\nlingering smell of smoke.\n{07 0d 00}It reminds me of toasting\nmarshmallows!",
-   "et": ""
+   "et": "{07 00 00}Vist on ilutulestik{01 00 00 0a 00}\npeaaegu läbi{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00} {07 16 00}See on\nkuidagi kurb.\n{07 14 00}Aga kui ilutulestik on\nläbi, meeldib mulle see\nsuitsulõhn, mis jääb.\n{07 0d 00}See meenutab mulle\nvahukommide röstimist!"
   },
   {
    "id": 6,
    "en": "{07 0a 00}Whoa! Fireworks!{01 00 00 0a 00} FIREWORKS!{01 01 00}\n{07 0d 00}The fireworks of summer\nare here at last!",
-   "et": ""
+   "et": "{07 0a 00}Ohoo! Ilutulestik!{01 00 00 0a 00} TULESTIK!{01 01 00}\n{07 0d 00}Suve ilutulestik on\nlõpuks kohal!"
   },
   {
    "id": 7,
    "en": "{07 0a 00}Whoa!{01 00 00 14 00} It's been a whole year\nsince the last time I saw\nfireworks!\n{07 0d 00}And what do you know!{01 00 00 0a 00}\nThey're still just as fun,\n{01 00 00 0a 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 0a 00}Ohoo!{01 00 00 14 00} Terve aasta on\nmöödunud, kui viimati\nilutulestikku nägin!\n{07 0d 00}Ja mis sa arvad!{01 00 00 0a 00}\nSee on ikka sama lõbus,\n{01 00 00 0a 00}{04 02 00}!"
   },
   {
    "id": 8,
    "en": "{07 00 00}Why are fireworks so\nbright and loud? {01 00 00 0a 00}You know,\nif they were clothes{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00}\n{07 06 00}Fashion Lad would never\napprove of such gaudiness!",
-   "et": ""
+   "et": "{07 00 00}Miks on ilutulestik nii\nhele ja vali? {01 00 00 0a 00}Tead,\nkui see oleks riietus{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00}\n{07 06 00}Moepoiss ei kiidaks sellist\nkirevust kunagi heaks!"
   },
   {
    "id": 9,
    "en": "{07 00 00}Hey,{01 00 00 05 00} {04 1f 00}?{01 00 00 0a 00} Have you\nnoticed that fireworks look\nround from every angle?\n{07 0a 00}I can totally identify,{01 00 00 05 00}\n{04 02 00}!",
-   "et": ""
+   "et": "{07 00 00}Hei,{01 00 00 05 00} {04 1f 00}?{01 00 00 0a 00} Kas oled\nmärganud, et ilutulestik\nnäeb igast nurgast ümar?\n{07 0a 00}Ma saan täiesti aru,{01 00 00 05 00}\n{04 02 00}!"
   },
   {
    "id": 10,
    "en": "{07 13 00}People who make fireworks\nfor a living are sooo cool.\n\n{07 00 00}Being able to make flowers\nbloom in the night sky is\nso neat!\n{07 0a 00}That's one more thing for\nmy To-Do List,{01 00 00 0a 00} {04 02 00}!",
-   "et": ""
+   "et": "{07 13 00}Inimesed, kes teenivad\nilutulestikuga elatist,\non nii lahedad.\n{07 00 00}Osata panna lilli õitsema\nöötaevas on nii äge!\n\n{07 0a 00}See on veel üks asi mu\nteha-nimekirjas,{01 00 00 0a 00} {04 02 00}!"
   },
   {
    "id": 11,
    "en": "{07 14 00}Hey,{01 00 00 05 00} {04 1f 00}, don't you\nagree that fireworks are\ntotally amazing?\n{07 00 00}I mean,{01 00 00 0a 00} I'm here, you're\nhere, and {04 0b 00} is\nhere, too.\n{07 13 00}And we're all here watching\nfireworks together at the\nsame time!\n{07 14 00}In fact, who knows how many\ntowns are watching\nfireworks right now!",
-   "et": ""
+   "et": "{07 14 00}Hei,{01 00 00 05 00} {04 1f 00}, kas sa ei\nnõustu, et ilutulestik on\ntäiesti hämmastav?\n{07 00 00}Tähendab,{01 00 00 0a 00} mina olen siin,\nsina oled siin ja {04 0b 00}\non ka siin.\n{07 13 00}Ja me kõik vaatame koos\nilutulestikku samal\najal!\n{07 14 00}Tegelikult, kes teab, kui\nmitu linna vaatab praegu\nilutulestikku!"
   },
   {
    "id": 12,
    "en": "{07 16 00}Oh, no! This year's\nfireworks are over! {01 01 00}It's SO\nsad, {01 00 00 0a 00}{04 02 00}.",
-   "et": ""
+   "et": "{07 16 00}Oh ei! Selle aasta\nilutulestik on läbi! {01 01 00}NII\nkurb, {01 00 00 0a 00}{04 02 00}."
   },
   {
    "id": 13,
    "en": "{07 04 00}Huh?{01 00 00 0a 00} Today is the last day\nof the fireworks season?!{01 00 00 05 00}\nOh, {04 02 00}!\n{07 06 00}Nooooo!{01 00 00 05 00} I don't wanna hear\nthat! {01 00 00 05 00}Does that mean no\nmore ice cream, too?!",
-   "et": ""
+   "et": "{07 04 00}Ah?{01 00 00 0a 00} Täna on ilutulestiku\nhooaja viimane päev?!{01 00 00 05 00}\nOh, {04 02 00}!\n{07 06 00}Eiiii!{01 00 00 05 00} Ma ei taha seda\nkuulda! {01 00 00 05 00}Kas see tähendab,\net jäätist ka enam pole?!"
   }
  ]
 }

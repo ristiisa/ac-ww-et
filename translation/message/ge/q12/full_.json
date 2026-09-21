@@ -4,32 +4,32 @@
   {
    "id": 0,
    "en": "{07 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}Hey,{01 00 00 0a 00} {07 16 00}your pockets are all\nfull, aren't they? {01 00 00 05 00}{07 14 00}Make\nsome space {01 00 00 05 00}and come back!",
-   "et": ""
+   "et": "{07 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}Kuule,{01 00 00 0a 00} {07 16 00}su taskud on\ntäiesti täis, kas pole? {01 00 00 05 00}{07 14 00}Tee\nveidi ruumi {01 00 00 05 00}ja tule tagasi!"
   },
   {
    "id": 1,
    "en": "{07 04 00}NOOOO!{01 00 00 0a 00} You can't carry any\nmore stuff, can you?!{01 00 00 0a 00}{07 0f 00} Like,\ntotal bummer!\n{07 14 00}Look, organize your stuff\nand come see me again,\n{01 00 00 05 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 04 00}EIII!{01 00 00 0a 00} Sa ei saa rohkem\nkraami kanda, kas pole?!{01 00 00 0a 00}{07 0f 00}\nNagu, täielik kahju!\n{07 14 00}Kuule, sea oma kraam korda\nja tule mind jälle vaatama,\n{01 00 00 05 00}{04 02 00}!"
   },
   {
    "id": 2,
    "en": "{07 00 00}{07 02 00}Oh, hey!{01 00 00 05 00} I totally didn't\nthank you for the {ff 00 00 07}medicine{ff 00 00 00},\ndid I?",
-   "et": ""
+   "et": "{07 00 00}{07 02 00}Oh, kuule!{01 00 00 05 00} Ma täiesti ei\ntänanud sind {ff 00 00 07}rohu{ff 00 00 00} eest,\nkas pole?"
   },
   {
    "id": 3,
    "en": "{07 04 00}Ooops! {01 00 00 14 00}{07 14 00}You did all that,\nand I forgot to return the\nfavor, {01 00 00 05 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 04 00}Uups! {01 00 00 14 00}{07 14 00}Sa tegid kõike seda\nja ma unustasin tänu\navaldada, {01 00 00 05 00}{04 02 00}!"
   },
   {
    "id": 4,
    "en": "{07 0b 00}Huh?{01 00 00 0a 00} Your pockets are still\nTOTALLY full, {01 00 00 05 00}{04 02 00}!\n\n{07 06 00}YAAAA!{01 00 00 0a 00} {0b 03 00}{04 1f 00},{01 00 00 05 00} why\ndidn't you LISTEN to me?",
-   "et": ""
+   "et": "{07 0b 00}Ah?{01 00 00 0a 00} Su taskud on ikka\nTÄIESTI täis, {01 00 00 05 00}{04 02 00}!\n\n{07 06 00}JAAAA!{01 00 00 0a 00} {0b 03 00}{04 1f 00},{01 00 00 05 00} miks sa\nei KUULANUD mind?"
   },
   {
    "id": 5,
    "en": "{07 04 00}OH NO!{01 00 00 0f 00} {07 0b 00}You STILL haven't,\nlike, organized your stuff,\nhave you?\n{07 14 00}Look, just come back when\nyou're ready, OK,\n{01 00 00 05 00}{04 02 00}?!",
-   "et": ""
+   "et": "{07 04 00}OH EI!{01 00 00 0f 00} {07 0b 00}Sa pole IKKA veel,\nnagu, oma kraami korda\nseadnud, kas pole?\n{07 14 00}Kuule, tule lihtsalt tagasi,\nkui oled valmis, eks,\n{01 00 00 05 00}{04 02 00}?!"
   }
  ]
 }

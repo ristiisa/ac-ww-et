@@ -4,42 +4,42 @@
   {
    "id": 0,
    "en": "{07 06 00}Ohh, super-weak!{01 00 00 0a 00}\nI can't decide! {01 00 00 05 00}I want it\nALL, {01 00 00 05 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 06 00}Ohh, nii nõrk!{01 00 00 0a 00}\nMa ei suuda otsustada! {01 00 00 05 00}\nTahan KÕIKE, {01 00 00 05 00}{04 02 00}!"
   },
   {
    "id": 1,
    "en": "{07 14 00}Oh, what's up, {01 00 00 05 00}{04 1f 00}?!{01 00 00 05 00}\nYou have, like, the BEST\ntiming, {01 00 00 05 00}{04 02 00}!\n{07 17 00}Could I{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} Any chance I could\nmaybe, kinda borrow some\nBells?{01 00 00 05 00} I don't have enough!\n{07 16 00}Whaaaaaaaat?! {01 00 00 05 00}No?!{01 01 00}\n{07 01 00}I was gonna pay you back\ndouble, {01 00 00 05 00}{04 02 00}!\n{07 15 00}Fine! {01 00 00 05 00}FINE!{01 00 00 05 00} You're on my\nno-talk list, {01 00 00 05 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 14 00}Oi, mis teed, {01 00 00 05 00}{04 1f 00}?!{01 00 00 05 00}\nSul on, nagu, PARIM\najastus, {01 00 00 05 00}{04 02 00}!\n{07 17 00}Kas ma saaks{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} Kas ma\nsaaks kuidagi natuke\nkellasid laenata?{01 00 00 05 00} Mul ei\njätku! {07 16 00}Miiiiiis?! {01 00 00 05 00}Ei?!{01 01 00}\n{07 01 00}Ma oleksin sulle topelt\ntagasi maksnud, {01 00 00 05 00}{04 02 00}!\n{07 15 00}Hästi! {01 00 00 05 00}HÄSTI!{01 00 00 05 00} Oled minu\nmusta nimekirjas, {01 00 00 05 00}{04 02 00}!"
   },
   {
    "id": 2,
    "en": "{07 14 00}Y'know, I think {ff 00 00 06}Tom Nook{ff 00 00 00} is\ndoing a totally killer job,\ndon't you?\n{07 00 00}I mean, he comes off sorta\ndorky, but he actually\nknows TONS about fashion!\n{07 14 00}I think I just might let him\nsign on as my fashion\napprentice, {01 00 00 05 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 14 00}Tead, ma arvan, et {ff 00 00 06}Tom\nNook{ff 00 00 00} teeb täiesti tapvat\ntööd, kas pole?\n{07 00 00}No et, ta tundub veidi\ntobe, aga tegelikult teab\nta moest TONNIDE viisi!\n{07 14 00}Ma vist lasen tal hakata\nminu moeõpipoisiks,\n{01 00 00 05 00}{04 02 00}!"
   },
   {
    "id": 3,
    "en": "{07 04 00}Huhhhhhh?!{01 00 00 14 00} {07 06 00}The furniture I\nwanted is gone,\n{01 00 00 05 00}{04 02 00}!\n{07 16 00}Did it sell out yesterday?{01 00 00 0a 00}\n{07 0f 00}Oh, nooooo!",
-   "et": ""
+   "et": "{07 04 00}Mishhhh?!{01 00 00 14 00} {07 06 00}See mööbel, mida\nma tahtsin, on läinud,\n{01 00 00 05 00}{04 02 00}!\n{07 16 00}Kas see müüdi eile ära?{01 00 00 0a 00}\n{07 0f 00}Oi, eiiii!"
   },
   {
    "id": 4,
    "en": "{07 16 00}Awww, I was hoping this one\n{04 15 00} furniture\npiece would be here today.\nIt'd be so perfect for my\nroom, it's not even funny.\n{07 00 00}Too bad, {01 00 00 05 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 16 00}Ohh, ma lootsin, et see üks\n{04 15 00} mööblitükk\non täna siin.\nSee sobiks mu tuppa nii\nideaalselt, et naljakas.\n{07 00 00}Kahju, {01 00 00 05 00}{04 02 00}!"
   },
   {
    "id": 5,
    "en": "Y'know, the LAST thing I\nneed to be doing right now\nis spending money...\n{07 16 00}But when I look into {ff 00 00 06}Nook{ff 00 00 00}'s \ndroopy eyes,{01 00 00 05 00} I can't help\nwanting to buy something{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 06 00}His eyes{01 00 00 05 00} are cash-traps,\n{01 00 00 05 00}{04 02 00}!",
-   "et": ""
+   "et": "Tead, VIIMANE asi, mida ma\npraegu tegema peaksin,\non raha kulutamine...\n{07 16 00}Aga kui vaatan {ff 00 00 06}Nooki{ff 00 00 00}\nlontis silmi,{01 00 00 05 00} ei saa ma\nmidagi ostmata jätta{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 06 00}Ta silmad{01 00 00 05 00} on rahalõksud,\n{01 00 00 05 00}{04 02 00}!"
   },
   {
    "id": 6,
    "en": "{07 14 00}Oh, hey, {01 00 00 05 00}{04 1f 00}!{01 00 00 0a 00}\nShopping, {01 00 00 05 00}{04 02 00}?\n\n{07 00 00}I just dropped by since I\nwas already at {ff 00 00 08}Able Sisters{ff 00 00 00}!",
-   "et": ""
+   "et": "{07 14 00}Oi, tere, {01 00 00 05 00}{04 1f 00}!{01 00 00 0a 00}\nOstlemas, {01 00 00 05 00}{04 02 00}?\n\n{07 00 00}Põikasin sisse, kuna olin\nniikuinii {ff 00 00 08}Able Sistersis{ff 00 00 00}!"
   },
   {
    "id": 7,
    "en": "{07 14 00}{0b 03 00}{01 06 00}Oh, hey, what's up!{01 07 00}!{01 00 00 0a 00}\nHow's life, {04 1f 00}?\n\n{07 00 00}Listen, buying furniture is\ngood, but mind your budget!{01 00 00 05 00}\n{07 16 00}Otherwise, you'll regret it!",
-   "et": ""
+   "et": "{07 14 00}{0b 03 00}{01 06 00}Oi, tere, mis teed!{01 07 00}!{01 00 00 0a 00}\nKuidas elu, {04 1f 00}?\n\n{07 00 00}Kuule, mööbli ostmine on\nhea, aga jälgi eelarvet!{01 00 00 05 00}\n{07 16 00}Muidu sa kahetsed!"
   }
  ]
 }

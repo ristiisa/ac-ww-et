@@ -4,97 +4,97 @@
   {
    "id": 0,
    "en": "{07 00 00}I try not to buy something\nunless I really like it.{01 00 00 14 00}\n{07 15 00}Especially furniture.\n{06 01 00 0d 0e 0f}",
-   "et": ""
+   "et": "{07 00 00}Ma püüan mitte osta asja,\nkui see mulle ei meeldi.{01 00 00 14 00}\n{07 15 00}Eriti mööblit.\n{06 01 00 0d 0e 0f}"
   },
   {
    "id": 1,
    "en": "{07 14 00}You can change the whole\nfeel of a room by replacing\nthe carpet and walls.\n{07 19 00}When you've been dumped,{01 00 00 0a 00}\nmight I suggest this over\ncutting your hair?{07 00 00}",
-   "et": ""
+   "et": "{07 14 00}Sa võid muuta kogu toa\ntunnet, kui vahetad\nvaiba ja seinad.\n{07 19 00}Kui sind on maha jäetud,{01 00 00 0a 00}\nsoovitaksin seda juuste\nlõikamise asemel.{07 00 00}"
   },
   {
    "id": 2,
    "en": "{06 01 00 10 11 12}",
-   "et": ""
+   "et": "{06 01 00 10 11 12}"
   },
   {
    "id": 3,
    "en": "{07 14 00}I love redecorating because\nit changes the way my room\nfeels so much!\n{01 00 00 0a 00}{07 1b 00}{01 00 00 05 00}Sad breakups make a\nplace more beautiful{01 00 00 14 00} but\nit's a high price to pay.",
-   "et": ""
+   "et": "{07 14 00}Armastan ümber sisustada,\nsest see muudab mu toa\ntunnet nii väga!\n{01 00 00 0a 00}{07 1b 00}{01 00 00 05 00}Kurvad lahkuminekud teevad\nkoha ilusamaks{01 00 00 14 00}, aga\nsee on kõrge hind."
   },
   {
    "id": 4,
    "en": "{07 1c 00}{01 00 00 0a 00}I dated a boy who was a\ntotal furniture freak,\n{01 00 00 0a 00}{04 02 00}.\n{07 15 00}For some stupid reason, I'm\nreminiscing about him.{01 00 00 05 00}\nI have no idea why{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{01 00 00 0a 00}{07 1b 00}{01 00 00 05 00}I'm such an idiot{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00} Why\ncan't I just forget him and\nhis matching end tables?!",
-   "et": ""
+   "et": "{07 1c 00}{01 00 00 0a 00}Ma käisin poisiga, kes oli\ntäielik mööblihull,\n{01 00 00 0a 00}{04 02 00}.\n{07 15 00}Mingil rumalal põhjusel\nmeenutan teda.{01 00 00 05 00}\nEi tea, miks{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{01 00 00 0a 00}{07 1b 00}{01 00 00 05 00}Milline idioot ma olen{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00} Miks\nma ei suuda teda ja ta\nsobivaid öökappe unustada?!"
   },
   {
    "id": 5,
    "en": "{07 0b 00}Have you ever heard of {01 00 00 0a 00}\n{ff 00 00 06}K.K. Slider{ff 00 00 00}?{02 00 00 08 09}\nDuh!\nWho?",
-   "et": ""
+   "et": "{07 0b 00}Kas sa oled kuulnud {01 00 00 0a 00}\n{ff 00 00 06}K.K. Sliderist{ff 00 00 00}?{02 00 00 08 09}\nMuidugi!\nKellest?"
   },
   {
    "id": 6,
    "en": "{07 0e 00}{01 00 00 0a 00}Your reflection at midnight\nis what you'll look like in\nten years.\nI read that somewhere. {07 02 00}But!{01 01 00}\n{07 08 00}I don't want to know{01 00 00 05 00} what\nI'll look like in ten years!",
-   "et": ""
+   "et": "{07 0e 00}{01 00 00 0a 00}Su peegelpilt keskööl\nnäitab, milline sa oled\nkümne aasta pärast.\nLugesin seda kusagilt. {07 02 00}Aga!{01 01 00}\n{07 08 00}Ma ei taha teada{01 00 00 05 00}, milline ma\nkümne aasta pärast olen!"
   },
   {
    "id": 7,
    "en": "{07 0e 00}{01 00 00 0a 00}I love furniture so much{01 00 00 0a 00} \nthat sometimes I dream\nabout it, {01 00 00 0a 00}{04 02 00}.\n{06 01 00 0a 0b 0c}",
-   "et": ""
+   "et": "{07 0e 00}{01 00 00 0a 00}Armastan mööblit nii väga,{01 00 00 0a 00}\net vahel näen sellest\nund, {01 00 00 0a 00}{04 02 00}.\n{06 01 00 0a 0b 0c}"
   },
   {
    "id": 8,
    "en": "{07 14 00}He's totally awesome. {01 00 00 0a 00}I said\nthat I wanted a song that\nwould suit my house,\nand he wrote one for me! {07 13 00}I\ncouldn't believe it!{01 01 00}\n{07 19 00}He's a genius, {01 00 00 0a 00}{04 02 00}!{07 00 00}",
-   "et": ""
+   "et": "{07 14 00}Ta on vinge. {01 00 00 0a 00}Ütlesin,\net tahan laulu, mis\nsobiks mu majaga,\nja ta kirjutas mulle ühe! {07 13 00}Ma\nei suutnud uskuda!{01 01 00}\n{07 19 00}Ta on geenius, {01 00 00 0a 00}{04 02 00}!{07 00 00}"
   },
   {
    "id": 9,
    "en": "{07 14 00}He plays at the {ff 00 00 08}Roost {ff 00 00 00}every\nSaturday!{01 00 00 0a 00}{07 13 00} Oh, he writes the\ndreamiest songs!\n{07 19 00}I think he's got a pretty\nstrong following, too,\n{01 00 00 05 00}{04 02 00}!{07 00 00}",
-   "et": ""
+   "et": "{07 14 00}Ta mängib {ff 00 00 08}Roostis {ff 00 00 00}igal\nlaupäeval!{01 00 00 0a 00}{07 13 00} Oh, ta kirjutab\nkõige unistavamaid laule!\n{07 19 00}Arvan, et tal on ka päris\ntugev fännkond,\n{01 00 00 05 00}{04 02 00}!{07 00 00}"
   },
   {
    "id": 10,
    "en": "{07 13 00}{01 00 00 0a 00}Take chairs.{01 01 00} I like 'em best\nwith armrests, {07 14 00}fancy\nfabric, and gold fringe{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 0d 00}I want to sit in a chair{01 00 00 05 00},\nno, a THRONE, like that\njust once!",
-   "et": ""
+   "et": "{07 13 00}{01 00 00 0a 00}Võta toolid.{01 01 00} Mulle meeldivad\nneed käetugedega, {07 14 00}peene\nkanga ja kuldnarmastega{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 0d 00}Tahan kasvõi korra istuda{01 00 00 05 00}\nsellises toolis, ei,\nTROONIL!"
   },
   {
    "id": 11,
    "en": "{07 0c 00}{01 00 00 0a 00}Take wardrobes, for\nexample.{01 00 00 14 00} {07 14 00}Or should I say\ngarment rooms?\n{07 13 00}{01 00 00 0a 00}You see, right now all my\nhaute couture dresses are{01 00 00 0a 00}\ncrowding my house.\n{07 00 00}Of course,{01 00 00 05 00} they're all gifts\nfrom you-know-who,\n{01 00 00 0a 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 0c 00}{01 00 00 0a 00}Võta näiteks\nriidekapid.{01 00 00 14 00} {07 14 00}Või ütleksin\nrõivatoad?\n{07 13 00}{01 00 00 0a 00}Näed, praegu on kõik mu\nkõrgmoe kleidid{01 00 00 0a 00}\nmu maja ummistanud.\n{07 00 00}Muidugi{01 00 00 05 00} on need kõik kingid\nkelleltki-sa-tead,\n{01 00 00 0a 00}{04 02 00}!"
   },
   {
    "id": 12,
    "en": "{07 0c 00}{01 00 00 0a 00}Take beds, for example.{01 01 00}\n{01 00 00 0a 00}{07 1b 00}{01 00 00 05 00}Poorly made ones are flat\nand have no support, right?\n{07 00 00}I want to sleep{01 00 00 05 00}\nin a bed that envelopes me\nlike a cloud, {01 00 00 05 00}{04 02 00}.\n{07 13 00}{01 00 00 0a 00}Like a bed for a queen,\n{01 00 00 0a 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 0c 00}{01 00 00 0a 00}Võta näiteks voodid.{01 01 00}\n{01 00 00 0a 00}{07 1b 00}{01 00 00 05 00}Halvasti tehtud on lamedad\nja ei toeta midagi, eks?\n{07 00 00}Ma tahan magada{01 00 00 05 00}\nvoodis, mis mähib mind\nnagu pilv, {01 00 00 05 00}{04 02 00}.\n{07 13 00}{01 00 00 0a 00}Nagu kuninganna voodi,\n{01 00 00 0a 00}{04 02 00}!"
   },
   {
    "id": 13,
    "en": "{07 14 00}Rather than looking at the\nbig picture,{01 00 00 0a 00} I focus on\nindividual pieces.\n{07 13 00}{01 00 00 0a 00}That's one of the many\nthings{01 00 00 05 00} I love about myself.{01 00 00 0a 00}\nMy attention to detail!",
-   "et": ""
+   "et": "{07 14 00}Selle asemel, et vaadata\nsuurt pilti,{01 00 00 0a 00} keskendun ma\nüksikutele esemetele.\n{07 13 00}{01 00 00 0a 00}See on üks paljudest\nasjadest,{01 00 00 05 00} mida armastan.{01 00 00 0a 00}\nMinu tähelepanu detailile!"
   },
   {
    "id": 14,
    "en": "{07 14 00}Yeah{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} You got something\nto contribute to this\nconversation, {01 00 00 05 00}{04 02 00}?",
-   "et": ""
+   "et": "{07 14 00}Jah{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} Kas sul on midagi\nsellesse vestlusse\nlisada, {01 00 00 05 00}{04 02 00}?"
   },
   {
    "id": 15,
    "en": "{07 15 00}I won't have {ff 00 00 06}Tom Nook{ff 00 00 00} or\nthe {ff 00 00 02}Happy Room Academy{ff 00 00 00}{01 00 00 0a 00}\ntell me what to do!",
-   "et": ""
+   "et": "{07 15 00}Ma ei lase {ff 00 00 06}Tom Nookil{ff 00 00 00} ega\n{ff 00 00 02}Kauni Kodu Akadeemial{ff 00 00 00}{01 00 00 0a 00}\nendale öelda, mida teha!"
   },
   {
    "id": 16,
    "en": "{07 06 00}{0b 03 00}{04 1f 00}!{01 00 00 05 00} If you find \nsome cool furniture, pick\nsome up for me, all right?\n{07 00 00}I'm kidding!{01 00 00 05 00} I'm just\nteasing, {01 00 00 05 00}{04 02 00}! I\nmean, kind of.\n{01 00 00 0a 00}{07 1b 00}In this world, {01 00 00 05 00}some people\nwant to nurture and others\nwant to BE nurtured.",
-   "et": ""
+   "et": "{07 06 00}{0b 03 00}{04 1f 00}!{01 00 00 05 00} Kui leiad\nlahedat mööblit, võta\nmullegi, eks?\n{07 00 00}Ma teen nalja!{01 00 00 05 00} Ma lihtsalt\nnarrin, {01 00 00 05 00}{04 02 00}! Noh,\nmingis mõttes.\n{01 00 00 0a 00}{07 1b 00}Selles maailmas {01 00 00 05 00}tahavad\nühed hoolitseda ja teised\ntahavad hoolt saada."
   },
   {
    "id": 17,
    "en": "{07 13 00}{01 00 00 0a 00}When you find the right\nfurniture, it feels like it\nwas just meant to be{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 19 00}Take my table, for example.\nThe first time I saw it, I\nknew it was fate.\n{07 15 00}Why don't relationships ever\nturn out that way,\n{04 02 00}?",
-   "et": ""
+   "et": "{07 13 00}{01 00 00 0a 00}Kui leiad õige mööbli,\ntundub, nagu oleks see\nniimoodi määratud{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 19 00}Võta näiteks mu laud.\nKui ma seda esimest korda\nnägin, teadsin, et saatus.\n{07 15 00}Miks küll suhted kunagi\nnii ei lähe,\n{04 02 00}?"
   },
   {
    "id": 18,
    "en": "When I picture my dream\nchair, {07 13 00}{01 00 00 0a 00}I'm sitting in it and\nsipping {04 13 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n{01 00 00 0a 00}{07 1b 00}{01 00 00 05 00}Visualization is very\nimportant when buying\nfurniture, {01 00 00 0a 00}{04 02 00}.",
-   "et": ""
+   "et": "Kui kujutan ette oma\nunistuste tooli, {07 13 00}{01 00 00 0a 00}istun selles\nja rüüpan {04 13 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n{01 00 00 0a 00}{07 1b 00}{01 00 00 05 00}Visualiseerimine on mööbli\nostmisel väga\ntähtis, {01 00 00 0a 00}{04 02 00}."
   }
  ]
 }

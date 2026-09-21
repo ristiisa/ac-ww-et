@@ -4,42 +4,42 @@
   {
    "id": 0,
    "en": "{07 14 00}{0b 03 00}{ff 00 00 05}{04 1f 00}{ff 00 00 00}!",
-   "et": ""
+   "et": "{07 14 00}{0b 03 00}{ff 00 00 05}{04 1f 00}{ff 00 00 00}!"
   },
   {
    "id": 1,
    "en": "{07 0b 00}Today's your birthday,\nright? {07 14 00}I hope so, 'cause I\nbought you this present!",
-   "et": ""
+   "et": "{07 0b 00}Täna on su sünnipäev,\neks? {07 14 00}Loodan, sest ma\nostsin sulle selle kingi!"
   },
   {
    "id": 2,
    "en": "{07 14 00}Well, {01 00 00 05 00} {04 1f 00}?{01 00 00 0a 00} {07 0b 00}You like\nthat, huh?",
-   "et": ""
+   "et": "{07 14 00}Noh, {01 00 00 05 00} {04 1f 00}?{01 00 00 0a 00} {07 0b 00}Meeldib\nsee sulle, mis?"
   },
   {
    "id": 3,
    "en": "{07 04 00}Seriously?!{01 01 00}\n{07 00 00}Dude, I just stopped by the\nstore and grabbed whatever!\n{07 00 00}I'm glad you're so pumped\nabout it, 'cause you're\npretty awesome.\n{01 00 00 14 00}{07 11 00}We're always gonna be the\nburliest buds, {01 00 00 05 00}{04 1f 00}!",
-   "et": ""
+   "et": "{07 04 00}Tõsiselt?!{01 01 00}\n{07 00 00}Mees, ma lihtsalt astusin\npoodi ja haarasin midagi!\n{07 00 00}Hea meel, et sa nii hoos\noled, sest sa oled\npäris vinge.\n{01 00 00 14 00}{07 11 00}Me jääme alati parimateks\nsemudeks, {01 00 00 05 00}{04 1f 00}!"
   },
   {
    "id": 4,
    "en": "{07 06 00}HEY!{01 00 00 0a 00} Can't you at least\npretend to like it?!\n\n{07 00 00}Well,{01 00 00 05 00} at least I gotta\nrespect your brutal\nhonesty, {04 1f 00}!",
-   "et": ""
+   "et": "{07 06 00}HEI!{01 00 00 0a 00} Kas sa ei saaks\nvähemalt teeselda, et\nmeeldib?!\n{07 00 00}Noh,{01 00 00 05 00} vähemalt pean ma\naustama su jõhkrat\nausust, {04 1f 00}!"
   },
   {
    "id": 5,
    "en": "{07 00 00}{ff 00 00 06}{04 0f 00}{ff 00 00 00},",
-   "et": ""
+   "et": "{07 00 00}{ff 00 00 06}{04 0f 00}{ff 00 00 00},"
   },
   {
    "id": 6,
    "en": "{07 00 00}and {ff 00 00 06}{04 0f 00} {ff 00 00 00}chipped in",
-   "et": ""
+   "et": "{07 00 00}ja {ff 00 00 06}{04 0f 00} {ff 00 00 00}panid kokku"
   },
   {
    "id": 7,
    "en": "{07 15 00}and got you this!{01 01 00}\n{07 14 00}Don't go and break it,\n{04 02 00}!",
-   "et": ""
+   "et": "{07 15 00}ja saime sulle selle!{01 01 00}\n{07 14 00}Ära mine seda lõhkuma,\n{04 02 00}!"
   }
  ]
 }

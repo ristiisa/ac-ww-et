@@ -4,32 +4,32 @@
   {
    "id": 0,
    "en": "Hey, {04 1f 00},{01 00 00 05 00} it's you!\nI just moved here a few\ndays ago from {ff 00 00 08}{04 10 00}{ff 00 00 00}.{01 00 00 05 00}\nRight now, I'm into chuggin'\n{04 18 00}.{01 00 00 05 00} I also\nlike to {04 22 00}.{01 00 00 0f 00}\nIt's nice to meet you, \n{01 00 00 05 00}{04 02 00}!",
-   "et": ""
+   "et": "Hei, {04 1f 00},{01 00 00 05 00} sina!\nMa kolisin siia paar\npäeva tagasi {ff 00 00 08}{04 10 00}{ff 00 00 00}-st.{01 00 00 05 00}\nPraegu olen ma {04 18 00}\nkummutamise lainel.{01 00 00 05 00} Mulle\nmeeldib ka {04 22 00}.{01 00 00 0f 00}\nMeeldiv tutvuda,\n{01 00 00 05 00}{04 02 00}!"
   },
   {
    "id": 1,
    "en": "{07 04 00}Oh, hey, {01 00 00 0f 00}it's you!{01 00 00 14 00} {07 00 00}It's me!{01 00 00 05 00}\nMe!{01 00 00 14 00} {01 00 00 05 00}{0b 03 00}{04 02 00}!{01 00 00 0f 00} What's\nyour problem?{01 00 00 0f 00}\n{07 0b 00}Don't look at me like that!{01 00 00 14 00}\nYou don't remember me, do\nyou?\n{07 15 00}My name is {04 01 00}! {01 00 00 14 00}\nWe just met the other day!\n{01 00 00 05 00}{0b 03 00}{04 02 00}!\n{07 00 00}Remember? I just moved\nhere {01 00 00 05 00}from {ff 00 00 08}{04 10 00}{ff 00 00 00}.\nRemember.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}?\n{07 15 00}Would you please stop {01 00 00 05 00}\nlooking at me like that?{01 00 00 14 00}\nAnnoying, {01 00 00 05 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 04 00}Oi, hei, {01 00 00 0f 00}sina!{01 00 00 14 00} {07 00 00}Mina siin!{01 00 00 05 00}\nMina!{01 00 00 14 00} {01 00 00 05 00}{0b 03 00}{04 02 00}!{01 00 00 0f 00} Mis sul\nviga on?{01 00 00 0f 00}\n{07 0b 00}Ära vaata mind niimoodi!{01 00 00 14 00}\nSa ei mäleta mind, ega\nju?\n{07 15 00}Mu nimi on {04 01 00}! {01 00 00 14 00}\nMe kohtusime alles hiljuti!\n{01 00 00 05 00}{0b 03 00}{04 02 00}!\n{07 00 00}Mäletad? Ma kolisin siia\n{01 00 00 05 00}linnast {ff 00 00 08}{04 10 00}{ff 00 00 00}.\nMäletad{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.?\n{07 15 00}Kas sa palun lõpetaksid {01 00 00 05 00}\nminu niimoodi vaatamise?{01 00 00 14 00}\nTüütu, {01 00 00 05 00}{04 02 00}!"
   },
   {
    "id": 2,
    "en": "{07 01 00}I'm not interested in\nanything you have to sell!\n\n{07 00 00}Oh, whoops. {01 00 00 0f 00}{0b 03 00}{04 1f 00},\nit's you!{01 00 00 14 00} {07 14 00}It's me,\n{01 00 00 0f 00}{04 01 00}! Remember?\n{07 00 00}Actually,{01 00 00 05 00} I just moved here\nfrom {ff 00 00 08}{04 10 00} {ff 00 00 00}the\nother day, and...\n{07 11 00}...I'm already sick of all\nthe dang flowers around\nhere, {01 00 00 05 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 01 00}Mind ei huvita miski,\nmida sa müüd!\n\n{07 00 00}Oh, uups. {01 00 00 0f 00}{0b 03 00}{04 1f 00},\nsee oled sina!{01 00 00 14 00} {07 14 00}Mina siin,\n{01 00 00 0f 00}{04 01 00}! Mäletad?\n{07 00 00}Tegelikult{01 00 00 05 00} kolisin ma siia\n{ff 00 00 08}{04 10 00} {ff 00 00 00}-st hiljuti,\nja...\n{07 11 00}...mul on juba kõrini\nkõigist neist pagana\nlilledest siin, {01 00 00 05 00}{04 02 00}!"
   },
   {
    "id": 3,
    "en": "{07 18 00}Whoa!{01 00 00 14 00} {07 06 00}Uh,{01 00 00 05 00} hello!{01 00 00 05 00} Excuse me,\n{01 00 00 05 00}{04 02 00}! I just moved\nfrom {ff 00 00 08}{04 10 00}{ff 00 00 00}.\nFor fun, I like to\n{04 22 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{07 00 00}\nWhat? Oh hey, it's you!{01 00 00 0f 00}\n{07 01 00}{0b 03 00}{04 1f 00}!{01 00 00 14 00} Don't scare me!{07 00 00}{01 01 00}\nNot that I was scared, but,\nyou know, {01 00 00 05 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 18 00}Ohoo!{01 00 00 14 00} {07 06 00}Ee,{01 00 00 05 00} tere!{01 00 00 05 00} Vabandust,\n{01 00 00 05 00}{04 02 00}! Ma kolisin just\n{ff 00 00 08}{04 10 00}{ff 00 00 00}-st.\nLõbu pärast meeldib mulle\n{04 22 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{07 00 00}\nMis? Oi hei, see oled sina!{01 00 00 0f 00}\n{07 01 00}{0b 03 00}{04 1f 00}!{01 00 00 14 00} Ära hirmuta mind!{07 00 00}{01 01 00}\nMitte et ma kartsin, aga,\ntead küll, {01 00 00 05 00}{04 02 00}!"
   },
   {
    "id": 4,
    "en": "{07 04 00}Oh!{01 00 00 0f 00} {0b 03 00}{04 1f 00}, hey!{01 00 00 14 00} {07 14 00}How'd\nyou find this place,\n{01 00 00 05 00}{04 02 00}?!\n{07 00 00}If you ask me,{01 00 00 0f 00} folks around\nhere seem so clueless{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n\n{07 0b 00}Ah, {01 00 00 14 00}just wandering, huh?{01 00 00 14 00}\nSo you didn't know I'd\nmoved here, huh?{07 00 00}\n{07 01 00}Then {01 00 00 14 00}stop bothering me!{01 00 00 0f 00}\nCan't you see I'm busy, \n{01 00 00 05 00}{04 02 00}! Sheesh!",
-   "et": ""
+   "et": "{07 04 00}Oi!{01 00 00 0f 00} {0b 03 00}{04 1f 00}, hei!{01 00 00 14 00} {07 14 00}Kuidas\nsa selle koha leidsid,\n{01 00 00 05 00}{04 02 00}?!\n{07 00 00}Minu arust{01 00 00 0f 00} tunduvad siinsed\ninimesed nii taipamatud{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n\n{07 0b 00}Ahaa, {01 00 00 14 00}lihtsalt hulgud, mis?{01 00 00 14 00}\nNii et sa ei teadnudki, et\nma siia kolisin?{07 00 00}\n{07 01 00}Siis {01 00 00 14 00}lõpeta mind tüütamast!{01 00 00 0f 00}\nKas sa ei näe, et kiire,\n{01 00 00 05 00}{04 02 00}! Ptüi!"
   },
   {
    "id": 5,
    "en": "Oh!{01 00 00 14 00} It's {04 1f 00}, I see.{01 00 00 0f 00}\n{07 0b 00}Whatcha think, {01 00 00 05 00}{04 02 00}?\n\n{07 00 00}I know I just moved here\nfrom {ff 00 00 08}{04 10 00}{ff 00 00 00}, but\nI think I've found my niche.{01 00 00 05 00}\n{07 17 00}One might even mistake me\nfor a native, {01 00 00 05 00}{04 02 00}!\n\n{07 19 00}If you need anything, don't\nhesitate to ask, all right?!",
-   "et": ""
+   "et": "Oi!{01 00 00 14 00} {04 1f 00}, ma näen.{01 00 00 0f 00}\n{07 0b 00}Mis sa arvad, {01 00 00 05 00}{04 02 00}?\n\n{07 00 00}Tean, et kolisin siia just\n{ff 00 00 08}{04 10 00}{ff 00 00 00}-st, aga\narvan, et leidsin oma koha.{01 00 00 05 00}\n{07 17 00}Mind võiks isegi kohalikuks\npidada, {01 00 00 05 00}{04 02 00}!\n\n{07 19 00}Kui sul on midagi vaja,\nära kõhkle küsimast, eks?!"
   }
  ]
 }

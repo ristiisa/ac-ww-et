@@ -4,17 +4,17 @@
   {
    "id": 0,
    "en": "{07 0b 00}Huh?{01 00 00 14 00} But this won't work,\n{01 00 00 05 00}{04 02 00}. {01 01 00}{07 16 00}Your pockets\nare stuffed!",
-   "et": ""
+   "et": "{07 0b 00}Ah?{01 00 00 14 00} Aga see ei tööta,\n{01 00 00 05 00}{04 02 00}. {01 01 00}{07 16 00}Su taskud\non pilgeni täis!"
   },
   {
    "id": 1,
    "en": "{07 0b 00}Huh?{01 00 00 14 00} But{01 00 00 0a 00} you can't carry\nanything else. {01 01 00}{07 16 00}I guess I\ncan't give it to you.",
-   "et": ""
+   "et": "{07 0b 00}Ah?{01 00 00 14 00} Aga{01 00 00 0a 00} sa ei jaksa\nrohkem kanda. {01 01 00}{07 16 00}Vist ei saa\nma seda sulle anda."
   },
   {
    "id": 2,
    "en": "{07 0b 00}What's this?{01 00 00 14 00} You{01 00 00 05 00} don't have\nroom for anything else!\n\n{07 16 00}I can't give you this if you\ncan't carry it!",
-   "et": ""
+   "et": "{07 0b 00}Mis see on?{01 00 00 14 00} Sul{01 00 00 05 00} pole\nrohkemale ruumi!\n\n{07 16 00}Ma ei saa sulle seda anda,\nkui sa ei jaksa seda kanda!"
   }
  ]
 }

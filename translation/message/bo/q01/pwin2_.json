@@ -4,12 +4,12 @@
   {
    "id": 0,
    "en": "{07 0e 00}Well, I thought my\n{0b 02 00}{04 1d 00} was\npretty cool...\n{07 04 00}But now I think the\n{0b 02 00}{04 1c 00}\nmight be even cooler!\n{07 06 00}Hey,{01 00 00 14 00} wanna trade for my\n{0b 02 00}{04 1b 00}?",
-   "et": ""
+   "et": "{07 0e 00}Noh, ma arvasin, et minu\n{0b 02 00}{04 1d 00} on\npäris lahe...\n{07 04 00}Aga nüüd arvan, et\n{0b 02 00}{04 1c 00}\non veel lahedam!\n{07 06 00}Hei,{01 00 00 14 00} tahad vahetada mu\n{0b 02 00}{04 1b 00} vastu?"
   },
   {
    "id": 1,
    "en": "{07 0e 00}My {0b 02 00}{04 1d 00}\nis pretty cool{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n\n{07 04 00}But I think the\n{0b 02 00}{04 1c 00}\nis way cooler,{01 00 00 05 00} {04 02 00}!\n{07 19 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00}So, do you want to trade\nit to me{01 00 00 0a 00} for my\n{0b 02 00}{04 1b 00}?",
-   "et": ""
+   "et": "{07 0e 00}Mu {0b 02 00}{04 1d 00}\non päris lahe{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n\n{07 04 00}Aga arvan, et\n{0b 02 00}{04 1c 00}\non palju lahedam,{01 00 00 05 00} {04 02 00}!\n{07 19 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00}Nii et kas tahad selle\nmulle vahetada{01 00 00 0a 00} minu\n{0b 02 00}{04 1b 00} vastu?"
   }
  ]
 }

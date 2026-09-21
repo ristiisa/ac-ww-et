@@ -4,17 +4,17 @@
   {
    "id": 0,
    "en": "{07 16 00}I'm not having any luck\nfinding fossils today!\n\n{07 15 00}I guess just picking a spot\nin the ground and digging\naway won't cut it!\n{07 00 00}The only thing I'm\ndigging up is a whole lot of\nboredom, {01 00 00 05 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 16 00}Mul ei vea täna fossiilide\nleidmisega!\n\n{07 15 00}Vist ei piisa lihtsalt koha\nvalimisest maapinnal ja\nkaevamisest!\n{07 00 00}Ainus asi, mida ma välja\nkaevan, on hunnik\nigavust, {01 00 00 05 00}{04 02 00}!"
   },
   {
    "id": 1,
    "en": "The {ff 00 00 07}shovel {ff 00 00 00}is a must-have\nitem when you're out in the\nfield digging for fossils.\nGo crazy with your digging\nbecause, unlike an {ff 00 00 07}axe{ff 00 00 00},\nyour shovel won't break!",
-   "et": ""
+   "et": "{ff 00 00 07}Labidas {ff 00 00 00}on kohustuslik\nasi, kui sa oled väljas\nfossiile kaevamas.\nKaeva palju, sest erinevalt\n{ff 00 00 07}kirvest{ff 00 00 00} ei lähe su\nlabidas katki!"
   },
   {
    "id": 2,
    "en": "If you see a mark on the\nground, whip out your\nshovel and dig, dig, dig!\n{07 14 00}You never know what you'll\nturn up, {01 00 00 05 00}{04 02 00}.",
-   "et": ""
+   "et": "Kui sa näed maapinnal\nmärki, võta labidas välja\nja kaeva, kaeva, kaeva!\n{07 14 00}Kunagi ei tea, mida sa\nvälja kaevad, {01 00 00 05 00}{04 02 00}."
   }
  ]
 }

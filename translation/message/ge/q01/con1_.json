@@ -4,17 +4,17 @@
   {
    "id": 0,
    "en": "{07 00 00}Let's try to catch\n{04 1a 00}!\n\n{07 06 00}There's no way I'm gonna let\nyou win, {01 00 00 05 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 00 00}Püüame kinni\n{04 1a 00}!\n\n{07 06 00}Ma ei lase sind kuidagi\nvõita, {01 00 00 05 00}{04 02 00}!"
   },
   {
    "id": 1,
    "en": "{07 16 00}{01 00 00 05 00}{0b 03 00}{04 02 00}! I haven't found\n{04 1a 00}\nyet, either!\n{07 15 00}But you haven't won yet!{01 01 00}\nThis girl isn't gonna back\ndown!",
-   "et": ""
+   "et": "{07 16 00}{01 00 00 05 00}{0b 03 00}{04 02 00}! Ma pole ka veel\nleidnud\n{04 1a 00}!\n{07 15 00}Aga sa pole veel võitnud!{01 01 00}\nSee tüdruk ei anna\nalla!"
   },
   {
    "id": 2,
    "en": "{07 14 00}What's up, {01 00 00 05 00}{04 02 00}?{01 00 00 0a 00}\n{07 0b 00}Have you found\n{04 1a 00}?\n{07 16 00}Me?{01 00 00 05 00} I was SOOOO close,\nbut it got away{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.\n\n{07 06 00}If my legs were just a\nlittle longer, I woulda\ncaught it for sure!",
-   "et": ""
+   "et": "{07 14 00}Mis teoksil, {01 00 00 05 00}{04 02 00}?{01 00 00 0a 00}\n{07 0b 00}Kas sa leidsid\n{04 1a 00}?\n{07 16 00}Mina?{01 00 00 05 00} Olin NII lähedal,\naga see pääses{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.\n\n{07 06 00}Kui mu jalad oleksid pisut\npikemad, oleksin ta\nkindlasti kätte saanud!"
   }
  ]
 }

@@ -4,12 +4,12 @@
   {
    "id": 0,
    "en": "{07 04 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 14 00}{07 06 00}Nooooooooo!{01 00 00 0a 00} I don't want\nto hear it!{01 00 00 05 00} I'm not ready\nyet!\n{07 16 00}I need some time to make\nmyself look cool,{01 00 00 05 00}\n{04 02 00}!",
-   "et": ""
+   "et": "{07 04 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 14 00}{07 06 00}Eiiiiiiii!{01 00 00 0a 00} Ma ei taha\nseda kuulda!{01 00 00 05 00} Ma pole veel\nvalmis!\n{07 16 00}Vajan aega, et end\nlahedaks teha,{01 00 00 05 00}\n{04 02 00}!"
   },
   {
    "id": 1,
    "en": "{07 14 00}I'm sorry,{01 00 00 0a 00} {04 02 00}.{01 00 00 14 00} {07 00 00}I'm\neating dinner then, and you\nknow I can't skip meals.\n{07 14 00}Can't we make it a little\nearlier?",
-   "et": ""
+   "et": "{07 14 00}Vabandust,{01 00 00 0a 00} {04 02 00}.{01 00 00 14 00} {07 00 00}Ma\nsöön siis õhtust ja tead,\net ma ei jäta sööki vahele.\n{07 14 00}Kas me ei saaks veidi\nvarem?"
   }
  ]
 }

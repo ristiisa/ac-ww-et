@@ -4,17 +4,17 @@
   {
    "id": 0,
    "en": "{07 0e 00}What{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} Oh, are you talking\nabout hide-and-seek? \n{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 03 00}Ha ha ha!{01 00 00 05 00}\n{07 06 00}{0b 03 00}{01 00 00 05 00}{04 1f 00}! You're serious!{01 00 00 0a 00}\n{07 16 00}Oh wow, sorry!{01 00 00 05 00} The time ran\nout so long ago...\nI thought we had already\nquit, {01 00 00 05 00}{04 02 00}!{01 01 00}\n{07 0f 00}I'm really sorry{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.",
-   "et": ""
+   "et": "{07 0e 00}Mida{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} Oh, kas sa räägid\npeitusest? \n{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 03 00}Hah hah hah!{01 00 00 05 00}\n{07 06 00}{0b 03 00}{01 00 00 05 00}{04 1f 00}! Sa oled tõsine!{01 00 00 0a 00}\n{07 16 00}Oh vau, vabandust!{01 00 00 05 00} Aeg sai\nammu otsa...\nMa arvasin, et me olime\njuba lõpetanud, {01 00 00 05 00}{04 02 00}!{01 01 00}\n{07 0f 00}Mul on tõesti kahju{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}."
   },
   {
    "id": 1,
    "en": "{07 04 00}What?{01 00 00 0f 00} Were you still playing\nhide-and-seek?!{01 00 00 05 00}\n.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 02 00}OH NO!\n{07 00 00}{07 16 00}Sorry, {01 00 00 05 00}{04 1f 00}!{01 00 00 05 00} I waited\nforever, but you just never\ncame to get me\n{07 07 00}And then I got lonely and\nscared, so I came out!{01 00 00 0f 00}\n{07 00 00}{07 14 00}I'm sorry, {01 00 00 05 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 04 00}Mida?{01 00 00 0f 00} Kas sa mängisid ikka\npeitust?!{01 00 00 05 00}\n.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 02 00}OH EI!\n{07 00 00}{07 16 00}Vabandust, {01 00 00 05 00}{04 1f 00}!{01 00 00 05 00}\nOotasin kaua, aga sa ei\ntulnud mind otsima\n{07 07 00}Ja siis hakkas mul hirm\nja ma tulin välja!{01 00 00 0f 00}\n{07 00 00}{07 14 00}Vabandust, {01 00 00 05 00}{04 02 00}!"
   },
   {
    "id": 2,
    "en": "{07 0e 00}Hide-and-seek{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}?{01 00 00 0f 00}\nHide-and-seek{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\nOH YEAH! \n{07 01 00}Hey, {04 1f 00}!{01 00 00 0a 00} Why didn't\nyou come find me?! I was \nhiding forever!\n{07 06 00}Then I got lonely{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}. And\nthen I got kinda hungry{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\nI went to get a sandwich.\n{07 16 00}It was so sad!{01 01 00}\nSo sad, {04 1f 00}!{01 00 00 0f 00} {ff 00 00 04}And I\ndidn't even get a sandwich.{03 03 00 00}",
-   "et": ""
+   "et": "{07 0e 00}Peitus{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}?{01 00 00 0f 00}\nPeitus{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\nAH JAA! \n{07 01 00}Hei, {04 1f 00}!{01 00 00 0a 00} Miks sa ei\ntulnud mind otsima?! Ma \npeitsin end igaviku!\n{07 06 00}Siis hakkas üksildane{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}. Ja\nsiis hakkas kõht tühi{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\nMa läksin võileiba võtma.\n{07 16 00}See oli nii kurb!{01 01 00}\nNii kurb, {04 1f 00}!{01 00 00 0f 00} {ff 00 00 04}Ja ma\nei saanudki võileiba.{03 03 00 00}"
   }
  ]
 }

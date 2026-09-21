@@ -4,62 +4,62 @@
   {
    "id": 0,
    "en": "{07 14 00}What is UP, {04 1f 00}?!{01 00 00 0a 00}\nYou have this, am I right?{01 00 00 05 00}\n{0b 03 00}{04 1a 00}?\n{07 16 00}Man, I've been looking for\nthat thing for FOREVER!\n\n{07 06 00}Hook me up!{01 00 00 05 00} Hook me UP!{01 00 00 05 00}\nFor our friendship's sake,{01 00 00 05 00}\nsell me it for {04 10 00} Bells!{02 00 00 03 04}\nOK!\nNot this one...",
-   "et": ""
+   "et": "{07 14 00}Mis TOIMUB, {04 1f 00}?!{01 00 00 0a 00}\nSul on see olemas, eks?{01 00 00 05 00}\n{0b 03 00}{04 1a 00}?\n{07 16 00}Mees, ma olen seda asja\notsinud IGAVESTI!\n\n{07 06 00}Aita mind!{01 00 00 05 00} AITA mind!{01 00 00 05 00}\nMeie sõpruse nimel,{01 00 00 05 00}\nmüü {04 10 00} kelluka eest!{02 00 00 03 04}\nOlgu!\nMitte seda..."
   },
   {
    "id": 1,
    "en": "{07 00 00}Hey hey, {01 00 00 05 00}{04 1f 00}!{01 00 00 0a 00}\nIs that the new model\n{07 0b 00}{0b 02 00}{04 1a 00}?\n{07 14 00}Listen, you think you could\nsee your way to selling it\nto me for {04 10 00} Bells?{02 00 00 03 04}\nOK!\nSorry...",
-   "et": ""
+   "et": "{07 00 00}Nii-nii, {01 00 00 05 00}{04 1f 00}!{01 00 00 0a 00}\nKas see on uus mudel\n{07 0b 00}{0b 02 00}{04 1a 00}?\n{07 14 00}Kuule, kas sa ei saaks seda\nmulle müüa {04 10 00}\nkelluka eest?{02 00 00 03 04}\nOlgu!\nVabandust..."
   },
   {
    "id": 2,
    "en": "{07 15 00}Yo yo, {01 00 00 05 00}{04 1f 00}!{01 00 00 0a 00}\nAren't you famished,\n{01 00 00 05 00}{04 02 00}?\n{07 00 00}You look hungry, seriously.{01 00 00 05 00}\nSo what I'll do is buy your\n{0b 02 00}{04 1a 00}...\n{07 14 00}I'll hand over {04 10 00} Bells{01 00 00 05 00}\nand you can go get some\nrighteous chow!{02 00 00 03 04}\nI'll do it!\nNo way!",
-   "et": ""
+   "et": "{07 15 00}Jou jou, {01 00 00 05 00}{04 1f 00}!{01 00 00 0a 00}\nKas sul pole kõht tühi,\n{01 00 00 05 00}{04 02 00}?\n{07 00 00}Sa näed näljane välja.{01 00 00 05 00}\nNii et ma ostan sinult su\n{0b 02 00}{04 1a 00}...\n{07 14 00}Ma annan {04 10 00} kellukest{01 00 00 05 00}\nja sa võid minna endale\nkõva kõhutäie hankima!{02 00 00 03 04}\nTeen ära!\nEi mingil juhul!"
   },
   {
    "id": 3,
    "en": "{07 0d 00}All right!{01 00 00 05 00} Now we're talking!\n\n\n{07 14 00}Here!{01 00 00 05 00} {04 10 00} Bells for you,{01 00 00 05 00}\n{04 02 00}!",
-   "et": ""
+   "et": "{07 0d 00}Vinge!{01 00 00 05 00} Nüüd sa räägid!\n\n\n{07 14 00}Siin!{01 00 00 05 00} {04 10 00} kellukest,{01 00 00 05 00}\n{04 02 00}!"
   },
   {
    "id": 4,
    "en": "{06 01 00 06 07 08}",
-   "et": ""
+   "et": "{06 01 00 06 07 08}"
   },
   {
    "id": 5,
    "en": "{06 01 00 09 0a 0b}",
-   "et": ""
+   "et": "{06 01 00 09 0a 0b}"
   },
   {
    "id": 6,
    "en": "{07 16 00}Aw, weak!{01 00 00 05 00} I thought it\nwas a sweet deal for both\nof us, too{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{04 02 00}.{03 03 00 01}",
-   "et": ""
+   "et": "{07 16 00}Oh, nõrk!{01 00 00 05 00} Ma arvasin, et\nsee oli mõlemale magus\ntehing{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{04 02 00}.{03 03 00 01}"
   },
   {
    "id": 7,
    "en": "{07 16 00}Huh?{01 00 00 0a 00} You know what?{01 00 00 05 00}\nYou're uncool, {01 00 00 05 00}{04 02 00}.",
-   "et": ""
+   "et": "{07 16 00}Ah?{01 00 00 0a 00} Tead mida?{01 00 00 05 00}\nSa pole lahe, {01 00 00 05 00}{04 02 00}."
   },
   {
    "id": 8,
    "en": "{07 04 00}Huh?{01 00 00 05 00} Why NOT?!\n\n\n{07 05 00}Have you learned NOTHING\nI've taught you about\nhooking up your peeps?!{03 02 00 01}",
-   "et": ""
+   "et": "{07 04 00}Ah?{01 00 00 05 00} Miks MITTE?!\n\n\n{07 05 00}Kas sa pole MIDAGI õppinud\nsellest, mida ma õpetasin\nsõprade aitamisest?!{03 02 00 01}"
   },
   {
    "id": 9,
    "en": "{07 0d 00}Brokering a sweet deal\nmakes me feel GREAT!{01 00 00 05 00} Unh!{01 00 00 05 00}\nFEEL IT, {04 02 00}{01 00 00 05 00}!{03 01 00 01}",
-   "et": ""
+   "et": "{07 0d 00}Magusa tehingu tegemine\nteeb mind ÕNNELIKUKS!{01 00 00 05 00} Unh!{01 00 00 05 00}\nTUNNE SEDA, {04 02 00}{01 00 00 05 00}!{03 01 00 01}"
   },
   {
    "id": 10,
    "en": "{07 0a 00}One hand washes the\nother, {01 00 00 05 00}y'know what I mean,\n{01 00 00 05 00}{04 02 00}?",
-   "et": ""
+   "et": "{07 0a 00}Üks käsi peseb teist,{01 00 00 05 00}\nsaad aru, mida ma mõtlen,\n{01 00 00 05 00}{04 02 00}?"
   },
   {
    "id": 11,
    "en": "{07 14 00}YESSSSSS!{01 00 00 05 00} I finally got\n{04 1a 00}!{01 00 00 05 00}\nSo rad, {01 00 00 05 00}{04 02 00}!\n{07 0d 00}Now I can stop obsessing\nand concentrate on bulking\nup my deltoids!{03 01 00 01}",
-   "et": ""
+   "et": "{07 14 00}JAAAAH!{01 00 00 05 00} Ma sain lõpuks\n{04 1a 00}!{01 00 00 05 00}\nNii vinge, {01 00 00 05 00}{04 02 00}!\n{07 0d 00}Nüüd saan ma lõpetada\nkinnisidee ja keskenduda\ndeltalihaste kasvatamisele!{03 01 00 01}"
   }
  ]
 }

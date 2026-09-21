@@ -4,17 +4,17 @@
   {
    "id": 0,
    "en": "{07 0d 00}I'm hoping you'll hook me\nup,{01 00 00 0a 00} {04 02 00}!",
-   "et": ""
+   "et": "{07 0d 00}Loodan, et sa muretsed\nselle,{01 00 00 0a 00} {04 02 00}!"
   },
   {
    "id": 1,
    "en": "{07 06 00}There's not much left, so\nI'm hoping you'll help me\nout,{01 00 00 0a 00} {04 02 00}!",
-   "et": ""
+   "et": "{07 06 00}Palju pole enam jäänud,\nnii et loodan, et sa\naitad,{01 00 00 0a 00} {04 02 00}!"
   },
   {
    "id": 2,
    "en": "{07 14 00}If you lend me a hand, I\njust know we'll find it,{01 00 00 05 00}\n{04 02 00}.",
-   "et": ""
+   "et": "{07 14 00}Kui sa mind aitad, siis\nma tean, et leiame selle,{01 00 00 05 00}\n{04 02 00}."
   }
  ]
 }

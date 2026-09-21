@@ -4,27 +4,27 @@
   {
    "id": 0,
    "en": ".{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{0b 03 00}{04 1c 00}?{01 01 00}\nWow. {01 00 00 05 00}Hey, look, I appreciate\nthe effort, but...\nThis{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.just doesn't really do\nit for me, {01 00 00 05 00}{04 02 00}.\n\nIt's like...{01 00 00 05 00}not awesome\nenough{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}or something.",
-   "et": ""
+   "et": ".{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{0b 03 00}{04 1c 00}?{01 01 00}\nVau. {01 00 00 05 00}Kuule, ma hindan\npingutust, aga...\nSee{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.lihtsalt ei lähe\nmulle peale, {01 00 00 05 00}{04 02 00}.\n\nSee on nagu...{01 00 00 05 00}pole piisavalt\nvinge{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}või midagi."
   },
   {
    "id": 1,
    "en": "What the heck is this?!{01 00 00 14 00}\nIt's for me, {01 00 00 05 00}{04 02 00}?\n\n{0b 03 00}{04 1c 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 01 00}\nBoy, sorry, {01 00 00 05 00}but this just\ndoesn't float my boat{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.",
-   "et": ""
+   "et": "Mis pagan see on?!{01 00 00 14 00}\nSee on mulle, {01 00 00 05 00}{04 02 00}?\n\n{0b 03 00}{04 1c 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 01 00}\nPoiss, vabandust, {01 00 00 05 00}aga see\nlihtsalt ei kõneta mind{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}."
   },
   {
    "id": 2,
    "en": "Hey, yo, {01 00 00 0a 00}{ff 00 00 05}{04 1f 00}{ff 00 00 00}!{01 00 00 14 00}\n{0b 03 00}{04 1c 00}?{01 00 00 05 00}\nIsn't that for girls?\nSeriously, {04 1f 00}...{01 00 00 05 00}\nYou KNOW I can't go out like\nthat, {01 00 00 05 00}{04 02 00}!",
-   "et": ""
+   "et": "Hei, jou, {01 00 00 0a 00}{ff 00 00 05}{04 1f 00}{ff 00 00 00}!{01 00 00 14 00}\n{0b 03 00}{04 1c 00}?{01 00 00 05 00}\nKas see pole tüdrukutele?\nTõsiselt, {04 1f 00}...{01 00 00 05 00}\nSa TEAD, et ma ei saa nii\nvälja minna, {01 00 00 05 00}{04 02 00}!"
   },
   {
    "id": 3,
    "en": "{0b 03 00}{04 1c 00},\nhuh?{01 01 00} I've already got one.\nThanks, though.\nThat's real sportsmanlike\nof you!",
-   "et": ""
+   "et": "{0b 03 00}{04 1c 00},\nmis?{01 01 00} Mul on juba üks.\nAitäh siiski.\nSee on sinust väga\nsportlik!"
   },
   {
    "id": 4,
    "en": "Hey, {01 00 00 0a 00}{ff 00 00 05}{04 1f 00}{ff 00 00 00}!{01 00 00 14 00} Listen,\nI've already got\n{04 1c 00}!\nYou really gotta train that\n\"perception\" muscle, doncha,\n{01 00 00 05 00}{04 02 00}?!",
-   "et": ""
+   "et": "Hei, {01 00 00 0a 00}{ff 00 00 05}{04 1f 00}{ff 00 00 00}!{01 00 00 14 00} Kuule,\nmul on juba olemas\n{04 1c 00}!\nSa pead tõesti treenima\nseda „taju” lihast, mis,\n{01 00 00 05 00}{04 02 00}?!"
   }
  ]
 }

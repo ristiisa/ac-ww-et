@@ -4,47 +4,47 @@
   {
    "id": 0,
    "en": "{07 0b 00}{01 00 00 05 00}{0b 03 00}{04 1f 00}, have you heard\nthe stories{01 00 00 0a 00} of the\nfearsome red flower?{02 00 00 03 04}\nOh, yeah!\nWhat stories?",
-   "et": ""
+   "et": "{07 0b 00}{01 00 00 05 00}{0b 03 00}{04 1f 00}, kas oled kuulnud\nlugusid{01 00 00 0a 00} kohutavast\npunasest lillest?{02 00 00 03 04}\nOo jaa!\nMis lugusid?"
   },
   {
    "id": 1,
    "en": "{07 14 00}Tell me, {04 1f 00}, {01 00 00 0a 00}{07 0b 00}do\nyou like black roses,{01 00 00 05 00} gold\nroses,{01 00 00 05 00} or me the best?{02 01 00 07 07 08}\nBlack roses.\nGold roses.\nWhatever.",
-   "et": ""
+   "et": "{07 14 00}Ütle, {04 1f 00}, {01 00 00 0a 00}{07 0b 00}kumb\nmeeldib: mustad,{01 00 00 05 00} kuld-\nroosid{01 00 00 05 00} või hoopis mina?{02 01 00 07 07 08}\nMustad roosid.\nKuldroosid.\nÜkskõik."
   },
   {
    "id": 2,
    "en": "{07 06 00}Flowers flowers flowers\nflowers! I want to smell\nthem all!\n{07 01 00}{01 00 00 0a 00}{01 08 00}Hah{01 00 00 05 00}-CHOO!!!{01 01 00}{07 00 00} {07 1d 00}{01 00 00 05 00}Oh, dude! I\nsneezed all over you! {01 00 00 14 00}{07 06 00}I'm\nsorry! It wasn't on purpose!",
-   "et": ""
+   "et": "{07 06 00}Lilled lilled lilled\nlilled! Tahan neid kõiki\nnuusutada!\n{07 01 00}{01 00 00 0a 00}{01 08 00}At{01 00 00 05 00}-ŠOO!!!{01 01 00}{07 00 00} {07 1d 00}{01 00 00 05 00}Oi, sõber! Ma\naevastasin su peale! {01 00 00 14 00}{07 06 00}Sorri!\nSee polnud meelega!"
   },
   {
    "id": 3,
    "en": "{07 0a 00}I just saw one{01 00 00 05 00} in another\ntown!{01 01 00} {07 19 00}It was huge{01 00 00 05 00} and\nfilthy{01 00 00 05 00} and so stinky{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}!{07 00 00}\n{07 0d 00}But{01 00 00 05 00} it was kinda cool,{01 00 00 05 00}\n{04 02 00}!\n\n{07 00 00}When I told {ff 00 00 06}Tortimer {ff 00 00 00}that\nwe should grow one here,{01 00 00 0a 00}{07 0f 00}{01 00 00 14 00} he\ngot all kinds of mad at me.",
-   "et": ""
+   "et": "{07 0a 00}Nägin just ühte{01 00 00 05 00} teises\nlinnas!{01 01 00} {07 19 00}See oli hiiglaslik{01 00 00 05 00} ja\nräpane{01 00 00 05 00} ja nii haisev{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}!{07 00 00}\n{07 0d 00}Aga{01 00 00 05 00} see oli päris lahe,{01 00 00 05 00}\n{04 02 00}!\n\n{07 00 00}Kui ütlesin {ff 00 00 06}Tortimerile {ff 00 00 00}et\nkasvatame ühe siia,{01 00 00 0a 00}{07 0f 00}{01 00 00 14 00} sai ta\nminu peale kõvasti vihaseks."
   },
   {
    "id": 4,
    "en": "{06 00 00 05 06}",
-   "et": ""
+   "et": "{06 00 00 05 06}"
   },
   {
    "id": 5,
    "en": "{07 1c 00}{01 00 00 0a 00}Oh.{01 00 00 05 00} So, you haven't heard\nabout it{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 14 00}\n\n{01 00 00 0a 00}{07 1b 00}{01 00 00 05 00}You know, only nosy people\n{01 00 00 05 00}try to find gossip on stuff\nthey don't understand.",
-   "et": ""
+   "et": "{07 1c 00}{01 00 00 0a 00}Ahaa.{01 00 00 05 00} Sa siis pole sellest\nkuulnud{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 14 00}\n\n{01 00 00 0a 00}{07 1b 00}{01 00 00 05 00}Tead, ainult uudishimulikud\n{01 00 00 05 00}otsivad klatši asjade kohta,\nmida nad ei mõista."
   },
   {
    "id": 6,
    "en": "{07 0e 00}{01 00 00 0a 00}It's a kind of dirty flower{01 00 00 05 00}\nthat only grows in pigsties.\n{07 00 00}It stinks to high heaven.{01 00 00 0a 00}\n{07 14 00}But if you fry it up, it\nactually tastes kinda like\n{04 19 00}!",
-   "et": ""
+   "et": "{07 0e 00}{01 00 00 0a 00}See on üks räpane lill{01 00 00 05 00}\nmis kasvab ainult seapesas.\n{07 00 00}Haiseb taevani.{01 00 00 0a 00}\n{07 14 00}Aga kui ta ära praed,\nmaitseb ta natuke nagu\n{04 19 00}!"
   },
   {
    "id": 7,
    "en": "{07 19 00}Oh, OK{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} I get it. {01 01 00}{07 1b 00}{01 00 00 05 00}Well, I\ndon't think you'll ever find\none, {01 00 00 05 00}{04 02 00}.",
-   "et": ""
+   "et": "{07 19 00}Ahaa{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} Saan aru. {01 01 00}{07 1b 00}{01 00 00 05 00}Noh, ma\nei usu, et sa seda kunagi\nleiad, {01 00 00 05 00}{04 02 00}."
   },
   {
    "id": 8,
    "en": "{07 16 00}Oh, {01 00 00 0a 00}{04 1f 00}! You always\nsay the coldest things{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00}\nYou're no fun at all!",
-   "et": ""
+   "et": "{07 16 00}Oh, {01 00 00 0a 00}{04 1f 00}! Sa ütled alati\nkõige külmemaid asju{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00}\nSinuga pole üldse nalja!"
   }
  ]
 }

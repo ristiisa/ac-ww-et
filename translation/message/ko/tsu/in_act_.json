@@ -4,107 +4,107 @@
   {
    "id": 0,
    "en": "{07 14 00}What's up, {01 00 00 05 00}{04 1f 00}?{01 00 00 14 00}\nFeel like catching bugs\nsometime, {01 00 00 05 00}{04 02 00}?\n{07 00 00}I'll point them out and you \ncan do the legwork. I'm\nnot really into exercise.\n{07 03 00}{01 00 00 05 00}Great, it's a deal!{01 00 00 14 00}\n{07 15 00}Come on, {01 00 00 05 00}{04 1f 00}!{01 00 00 0f 00}\nGet a move on, {01 00 00 05 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 14 00}Mis toimub, {01 00 00 05 00}{04 1f 00}?{01 00 00 14 00}\nTahaks kunagi putukaid\npüüda, {01 00 00 05 00}{04 02 00}?\n{07 00 00}Mina osutan neile ja sina \nteed jooksutöö. Mind ei\nhuvita eriti liikumine.\n{07 03 00}{01 00 00 05 00}Suurepärane, kokkulepe!{01 00 00 14 00}\n{07 15 00}Tule nüüd, {01 00 00 05 00}{04 1f 00}!{01 00 00 0f 00}\nLiiguta ennast, {01 00 00 05 00}{04 02 00}!"
   },
   {
    "id": 1,
    "en": "Hey, {01 00 00 05 00}{04 1f 00}!{01 00 00 0f 00}\n{07 0b 00}Ever touched\n{04 1a 00}?{02 00 00 14 14}\nYou know it!\nNo way.",
-   "et": ""
+   "et": "Hei, {01 00 00 05 00}{04 1f 00}!{01 00 00 0f 00}\n{07 0b 00}Kas oled kunagi katsunud\n{04 1a 00}?{02 00 00 14 14}\nMuidugi!\nEi iial."
   },
   {
    "id": 2,
    "en": "{07 01 00}I can't understand anyone\nwho doesn't like bug\nhunting!\n{07 0d 00}It's so much fun! {07 16 00}Well...{01 00 00 05 00}\nunless you're a bug, then\nit's maybe not so fun.",
-   "et": ""
+   "et": "{07 01 00}Ma ei mõista kedagi,\nkellele ei meeldi\nputukajaht!\n{07 0d 00}See on nii lõbus! {07 16 00}Noh...{01 00 00 05 00}\nkui sa just pole putukas,\nsiis pole ehk nii lõbus."
   },
   {
    "id": 3,
    "en": "{07 0b 00}So what do bugs mean to\nyou, {01 00 00 05 00}{04 02 00}?{02 01 00 12 13 12}\nThey're friends!\nThey're bugs!\nThey're toys!",
-   "et": ""
+   "et": "{07 0b 00}Nii, mida putukad sinu\njaoks on, {01 00 00 05 00}{04 02 00}?{02 01 00 12 13 12}\nNad on sõbrad!\nNad on putukad!\nNad on mänguasjad!"
   },
   {
    "id": 4,
    "en": "{07 1b 00}Right on!{01 00 00 14 00} {07 00 00}Maybe you're not\nso bad after all.\n\n{07 06 00}Nothing gets my \nblood pumping like stalking\na rare bug, {01 00 00 05 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 1b 00}Just nii!{01 00 00 14 00} {07 00 00}Ehk sa polegi\nnii halb.\n\n{07 06 00}Miski ei pane mu verd \nkeema nii nagu haruldase\nputuka jälitamine, {01 00 00 05 00}{04 02 00}!"
   },
   {
    "id": 5,
    "en": "{07 15 00}SHHHHH!{01 01 00}{07 02 00}{01 08 00} Did you hear that?!{01 00 00 05 00}\nBUGS!!!{01 00 00 0a 00} They're everywhere!\nWe're surrounded!{01 00 00 05 00}\n{07 06 00}They want to take\nrevenge on me for catching\ntheir friends, {01 00 00 05 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 15 00}ŠŠŠŠ!{01 01 00}{07 02 00}{01 08 00} Kas sa kuulsid seda?!{01 00 00 05 00}\nPUTUKAD!!!{01 00 00 0a 00} Nad on kõikjal!\nMe oleme ümber piiratud!{01 00 00 05 00}\n{07 06 00}Nad tahavad mulle kätte\nmaksta nende sõprade\npüüdmise eest, {01 00 00 05 00}{04 02 00}!"
   },
   {
    "id": 6,
    "en": "{07 11 00}When I decide I want\nsomething, I won't stop 'til\nI get it, {01 00 00 05 00}{04 02 00}!\n{07 15 00}Watch this, {01 00 00 05 00}{04 1f 00}!{01 00 00 14 00}\nI'm gonna show you how it's\ndone!",
-   "et": ""
+   "et": "{07 11 00}Kui ma otsustan midagi\ntahta, ei lõpeta ma enne,\nkui saan, {01 00 00 05 00}{04 02 00}!\n{07 15 00}Vaata seda, {01 00 00 05 00}{04 1f 00}!{01 00 00 14 00}\nMa näitan sulle, kuidas\nseda tehakse!"
   },
   {
    "id": 7,
    "en": "{07 15 00}Shhh!{01 00 00 14 00} There's a bug right \nover there! Quiet, {01 00 00 05 00}fool!\n\n{07 16 00}Step aside and let a real\npro take care of business,\n{01 00 00 05 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 15 00}Tšš!{01 00 00 14 00} Seal on putukas! \nVaikselt, {01 00 00 05 00}tola!\n\n{07 16 00}Astu kõrvale ja lase\ntõelisel profil asja ajada,\n{01 00 00 05 00}{04 02 00}!"
   },
   {
    "id": 8,
    "en": "This might sound weird, but\ndo you think bugs and \npeople can communicate?{02 00 00 10 10}\nOf course!\nYou're crazy.",
-   "et": ""
+   "et": "See võib kõlada veidralt,\naga kas putukad ja\ninimesed saavad suhelda?{02 00 00 10 10}\nMuidugi!\nSa oled hull."
   },
   {
    "id": 9,
    "en": "You wanna {07 0b 00}join me on a \nbug-catching expedition, \n{01 00 00 05 00}{04 02 00}?\n{07 15 00}You can be my assistant!\nI hope you like carrying\nheavy gear, {01 00 00 05 00}{04 02 00}!",
-   "et": ""
+   "et": "Kas sa tahad {07 0b 00}minuga \nputukapüügiretkele, \n{01 00 00 05 00}{04 02 00}?\n{07 15 00}Sa võid olla mu abiline!\nLoodan, et sulle meeldib\nkraami kanda, {01 00 00 05 00}{04 02 00}!"
   },
   {
    "id": 10,
    "en": "Hey, {01 00 00 05 00}{04 1f 00}!{01 00 00 0f 00}\n{07 0b 00}Have you ever touched\n{04 1a 00}?\n{07 15 00}I hear they totally wig\nout, {01 00 00 05 00}{04 02 00}!",
-   "et": ""
+   "et": "Hei, {01 00 00 05 00}{04 1f 00}!{01 00 00 0f 00}\n{07 0b 00}Kas oled kunagi katsunud\n{04 1a 00}?\n{07 15 00}Ma kuulsin, et nad lähevad\ntäitsa hulluks, {01 00 00 05 00}{04 02 00}!"
   },
   {
    "id": 11,
    "en": "So, do you think it's\n{0b 02 00}{04 1a 00}\nseason?{02 00 00 11 11}\nSure is.\nNo chance.",
-   "et": ""
+   "et": "Nii, kas sinu arust on\n{0b 02 00}{04 1a 00}\nhooaeg?{02 00 00 11 11}\nKindlasti.\nEi mingil juhul."
   },
   {
    "id": 12,
    "en": "{07 06 00}Quit squirming away, you \nlittle beast!{01 00 00 0f 00}\n\n{07 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 04 00}Oh, hey, {01 00 00 05 00}{04 1f 00}!\nI'm not talking to you!\n{07 15 00}I'm talking to this bug!",
-   "et": ""
+   "et": "{07 06 00}Lõpeta rabelemine, sa \nväike elukas!{01 00 00 0f 00}\n\n{07 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 04 00}Oh, hei, {01 00 00 05 00}{04 1f 00}!\nMa ei räägi sinuga!\n{07 15 00}Ma räägin selle putukaga!"
   },
   {
    "id": 13,
    "en": "{07 04 00}Owwww!{01 00 00 0f 00} {07 11 00}Ahhh{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} So you're\nover there, {04 02 00}!{01 00 00 14 00}\nHeh!",
-   "et": ""
+   "et": "{07 04 00}Aiii!{01 00 00 0f 00} {07 11 00}Ahhh{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} Nii et sa\noled seal, {04 02 00}!{01 00 00 14 00}\nHeh!"
   },
   {
    "id": 14,
    "en": ".{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 01 00}{0b 03 00}{04 1f 00}!{01 00 00 14 00} You're \nreally distracting me! Go\nsomeplace else!\n{07 15 00}How am I supposed to \nconcentrate{01 00 00 05 00} with you{01 00 00 05 00} \nstaring at me like that?",
-   "et": ""
+   "et": ".{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 01 00}{0b 03 00}{04 1f 00}!{01 00 00 14 00} Sa segad \nmind tõesti! Mine \nkuskile mujale!\n{07 15 00}Kuidas ma peaksin \nkeskenduma,{01 00 00 05 00} kui sa{01 00 00 05 00} \nmind niimoodi vahid?"
   },
   {
    "id": 15,
    "en": "{07 01 00}Try tiptoeing, {01 00 00 0f 00}{04 1f 00}!{01 00 00 14 00}\n{07 15 00}You're scaring all the bugs\naway, {01 00 00 05 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 01 00}Käi kikivarvul, {01 00 00 0f 00}{04 1f 00}!{01 00 00 14 00}\n{07 15 00}Sa peletad kõik putukad\nminema, {01 00 00 05 00}{04 02 00}!"
   },
   {
    "id": 16,
    "en": "{07 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}Yeah. {07 16 00}That was a stupid\nquestion, huh? {01 00 00 05 00}Sorry,\n{01 00 00 05 00}{04 02 00}.",
-   "et": ""
+   "et": "{07 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}Jah. {07 16 00}See oli rumal\nküsimus, mis? {01 00 00 05 00}Vabandust,\n{01 00 00 05 00}{04 02 00}."
   },
   {
    "id": 17,
    "en": "{07 04 00}Really,{01 00 00 05 00} {04 02 00}?\n\n\n{07 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}To be honest, {07 16 00}bugs don't\ninterest me at all. They're\nkinda nasty.",
-   "et": ""
+   "et": "{07 04 00}Tõesti,{01 00 00 05 00} {04 02 00}?\n\n\n{07 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}Ausalt öeldes, {07 16 00}putukad\nei huvita mind üldse. Nad\non pisut jälgid."
   },
   {
    "id": 18,
    "en": "{07 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 02 00}BLECH!{01 00 00 14 00} {07 16 00}I didn't expect\nsuch a freaky answer from\nyou!\n{07 15 00}I'll never look at you the\nsame way again, \n{01 00 00 05 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 02 00}ÖÄK!{01 00 00 14 00} {07 16 00}Ma ei oodanud\nsinult nii jubedat\nvastust!\n{07 15 00}Ma ei vaata sind enam\nkunagi samamoodi, \n{01 00 00 05 00}{04 02 00}!"
   },
   {
    "id": 19,
    "en": "{07 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 15 00}I should have known I'd\nget nothin' but sass from \n{04 1f 00}!\n{07 1b 00}Ugh!{01 00 00 14 00} Kids these days,\n{01 00 00 05 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 15 00}Ma teadsin, et saan\n{04 1f 00}ilt ainult \njultumust!\n{07 1b 00}Uhh!{01 00 00 14 00} Tänapäeva lapsed,\n{01 00 00 05 00}{04 02 00}!"
   },
   {
    "id": 20,
    "en": "{07 0e 00}Oh, man.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0f 00} {07 15 00}Those things are\nfreaky!",
-   "et": ""
+   "et": "{07 0e 00}Oh, poiss.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0f 00} {07 15 00}Need asjad on\njubedad!"
   }
  ]
 }

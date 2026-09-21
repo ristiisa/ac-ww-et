@@ -4,17 +4,17 @@
   {
    "id": 0,
    "en": "{07 04 00}Oh! That's a shame.{01 00 00 0f 00}{07 00 00} This\nisn't going to work out,\n{01 00 00 05 00}{04 1f 00}.\nYour pockets are full! You\ncan't carry any more stuff!\n{07 16 00}Too bad, {01 00 00 05 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 04 00}Oh! Kahju.{01 00 00 0f 00}{07 00 00} Sellest ei\ntule midagi välja,\n{01 00 00 05 00}{04 1f 00}.\nSu taskud on täis! Sa ei\nsaa rohkem kraami kanda!\n{07 16 00}Kahju, {01 00 00 05 00}{04 02 00}!"
   },
   {
    "id": 1,
    "en": "{07 1d 00}Oops!{01 00 00 0f 00} We've got a bit of a\nproblem here, {04 1f 00}.\n\nLooks like you can't carry\nany more stuff, so I can't\ngive you anything!\n{07 14 00}Maybe some other time, you\nthink, {01 00 00 05 00}{04 02 00}?",
-   "et": ""
+   "et": "{07 1d 00}Oih!{01 00 00 0f 00} Meil on siin väike\nprobleem, {04 1f 00}.\n\nPaistab, et sa ei saa\nrohkem kraami kanda, nii\net ma ei saa midagi anda!\n{07 14 00}Ehk mõni teine kord,\nmis arvad, {01 00 00 05 00}{04 02 00}?"
   },
   {
    "id": 2,
    "en": "{07 0b 00}What's up with{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 00 00}Oh, now I get it. {01 00 00 05 00}You're\nfull up, {01 00 00 05 00}{04 02 00}.\n{07 14 00}We'll have to do this\nsometime when you're not\ncarrying so much.",
-   "et": ""
+   "et": "{07 0b 00}Mis lahti{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 00 00}Oh, nüüd sain aru. {01 00 00 05 00}Sul on\nkõik täis, {01 00 00 05 00}{04 02 00}.\n{07 14 00}Me peame seda tegema\nsiis, kui sa ei kanna\nnii palju kaasas."
   }
  ]
 }

@@ -4,207 +4,207 @@
   {
    "id": 2,
    "en": "{07 1d 00}What? Oh, yeah, sure, right.\nLook. Here's the deal. Don't\nlike it? Bang, I'm gone.\n{07 14 00}Who am I?{01 00 00 05 00}{ff 00 00 06} Lyle{ff 00 00 00}. What do I\ndo?{01 00 00 05 00} I sell. What do I sell?{01 00 00 05 00}\nPeace of mind. Golden.\n{07 19 00}I'm an agent. Insurance.\nLicensed, bonded, all legit,\nacross the board, bang!{02 00 00 03 03}\n...What?\nYou're a creep.",
-   "et": ""
+   "et": "{07 1d 00}Mis? Ah, jaa, muidugi, jah.\nKuula. Asi on nii. Ei\nmeeldi? Pauk, ma kadusin.\n{07 14 00}Kes ma olen?{01 00 00 05 00}{ff 00 00 06} Lyle{ff 00 00 00}. Mida ma\nteen?{01 00 00 05 00} Müün. Mida ma müün?{01 00 00 05 00}\nMeelerahu. Kuldne.\n{07 19 00}Olen agent. Kindlustus.\nLitsents, tagatis, kõik aus,\nüle kogu liini, pauk!{02 00 00 03 03}\n...Mida?\nSa oled imelik."
   },
   {
    "id": 3,
    "en": "{07 09 00}You don't trust me. I can\nsee that.{01 00 00 05 00} {07 00 00}{07 14 00}OK, understood.\nYou're careful, I like that.\n{07 11 00}Listen, this {ff 00 00 02}questionnaire{ff 00 00 00}{01 00 00 05 00}?\nCouple of questions,\nreal easy, nothing big. \nYou answer these, I'm gone.\n{07 19 00}No joke. Five minutes, done,\nbang, outta here.{07 00 00}{07 11 00}{01 00 00 05 00} Ready?",
-   "et": ""
+   "et": "{07 09 00}Sa ei usalda mind. Näen\nseda.{01 00 00 05 00} {07 00 00}{07 14 00}Olgu, selge.\nOled ettevaatlik, hea.\n{07 11 00}Kuula, see {ff 00 00 02}küsitlus{ff 00 00 00}{01 00 00 05 00}?\nPaar küsimust,\nväga lihtne, pole midagi. \nVastad neile, mina kadunud.\n{07 19 00}Pole nali. Viis minutit,\npauk, olengi läinud.{07 00 00}{07 11 00}{01 00 00 05 00} Valmis?"
   },
   {
    "id": 4,
    "en": "{07 00 00}Look, this{ff 00 00 02} questionnaire{ff 00 00 00}?{01 00 00 05 00}\nIt's nothing. Basic info,\nnothing you'll regret.\n{07 19 00}Say the first thing in your\nhead. Don't think, feel.{01 00 00 05 00} Got\nit?{01 00 00 0f 00} {07 14 00}Good. Bang! Here we go.",
-   "et": ""
+   "et": "{07 00 00}Kuula, see{ff 00 00 02} küsitlus{ff 00 00 00}?{01 00 00 05 00}\nPole midagi. Põhiinfo,\nmidagi, mida kahetseda.\n{07 19 00}Ütle esimene asi, mis\npähe tuleb. Ära mõtle.{01 00 00 05 00}\nSelge?{01 00 00 0f 00} {07 14 00}Hea. Pauk! Läks."
   },
   {
    "id": 5,
    "en": "{07 1d 00}We got trust here, you and\nme. It's good. No trust,\nno deal, right?{07 00 00}{07 09 00}{01 00 00 0f 00} Right.\n{07 00 00}But, yeah, I hear ya. I'm\nbusy, you're busy, let's go,\nright?{01 00 00 0a 00} Right. Here we go.",
-   "et": ""
+   "et": "{07 1d 00}Meil on usaldus, sinul ja\nminul. Hea. Pole usaldust,\npole tehingut, eks?{07 00 00}{07 09 00}{01 00 00 0f 00} Just.\n{07 00 00}Aga jah, ma kuulen sind. Mul\nkiire, sul kiire, lähme,\neks?{01 00 00 0a 00} Just. Läks."
   },
   {
    "id": 6,
    "en": "{01 04 00}{01 00 00 0f 00}{01 05 00}{07 01 00}Oh,{01 00 00 05 00} you're bustin' my chops\nhere, just BUSTIN'{01 09 00} 'em!{01 00 00 05 00} Why\nyou wanna go and do that? \n{07 00 00}{07 14 00}Yeah, well, maybe next time,\nright?{01 00 00 0f 00} Right, sure, right.",
-   "et": ""
+   "et": "{01 04 00}{01 00 00 0f 00}{01 05 00}{07 01 00}Oh,{01 00 00 05 00} sa käid mulle närvidele\nsiin, lausa KÄID{01 09 00}! {01 00 00 05 00}Miks\nsa tahad seda teha? \n{07 00 00}{07 14 00}Jah, noh, ehk teinekord,\neks?{01 00 00 0f 00} Just, muidugi, just."
   },
   {
    "id": 7,
    "en": "{07 14 00}So if you're injured? Tragic\nevent? That kind of thing?\nYou're covered. Totally.\n{07 00 00}We get the money straight\nto you. Immediately. Within\na day. At some point. Bang.",
-   "et": ""
+   "et": "{07 14 00}Nii et saad viga? Traagiline\njuhtum? Midagi sellist?\nOled kaetud. Täielikult.\n{07 00 00}Raha jõuab otse\nsinuni. Kohe. Ühe\npäevaga. Mingil hetkel. Pauk."
   },
   {
    "id": 8,
    "en": "Listen, here's the thing.{01 00 00 05 00} Do\nyou,{01 00 00 05 00} and I'm just askin',{01 00 00 05 00}\nbut do you know a Mr. {ff 00 00 06}Redd{ff 00 00 00}?\n{07 0b 00}Short guy, black market,\nowns a tent?{01 00 00 0a 00} {07 00 00}Yeah, right,\nhim, you got it.\n{07 19 00}Yeah, everybody knows {ff 00 00 06}Redd{ff 00 00 00}.\nEverybody. {ff 00 00 06}Crazy Redd{ff 00 00 00},\nright?{01 00 00 05 00} {07 14 00}Bang! Right!\n{07 00 00}So look, if you could pick a\nday for him to visit, which\none ya want? What works?{02 03 00 09 09 09 09 09}\nMonday.\nTuesday.\nWednesday.\nThursday.\nFriday.",
-   "et": ""
+   "et": "Kuula, asi on nii.{01 00 00 05 00} Kas\nsa,{01 00 00 05 00} ma lihtsalt küsin,{01 00 00 05 00}\ntunned härra {ff 00 00 06}Reddi{ff 00 00 00}?\n{07 0b 00}Lühike tüüp, must turg,\nomab telki?{01 00 00 0a 00} {07 00 00}Jah, just,\ntema, sa said aru.\n{07 19 00}Jah, kõik tunnevad {ff 00 00 06}Reddi{ff 00 00 00}.\nKõik. {ff 00 00 06}Hull Redd{ff 00 00 00},\neks?{01 00 00 05 00} {07 14 00}Pauk! Just!\n{07 00 00}Nii et kui sa saaksid valida\npäeva, mil ta tuleb, millise\nsa valiksid? Mis sobib?{02 03 00 09 09 09 09 09}\nEsmaspäev.\nTeisipäev.\nKolmapäev.\nNeljapäev.\nReede."
   },
   {
    "id": 9,
    "en": "OK, good.{01 00 00 05 00} Yeah, good, real\ngood. Gotcha{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00} BANG! Huh??\nYeah, can't fool you!\n{07 00 00}{07 04 00}What, me?{07 00 00}{01 00 00 03 00}{07 09 00}{01 00 00 0f 00} Nah,{ff 00 00 06} {01 00 00 14 00}Redd{ff 00 00 00} and me,\nwe just know each other\nfrom around. No big! C'mon!",
-   "et": ""
+   "et": "Olgu, hea.{01 00 00 05 00} Jah, hea, väga\nhea. Sain aru{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00} PAUK! Mis??\nJah, sind ei peta!\n{07 00 00}{07 04 00}Mis, mina?{07 00 00}{01 00 00 03 00}{07 09 00}{01 00 00 0f 00} Ei,{ff 00 00 06} {01 00 00 14 00}Redd{ff 00 00 00} ja mina,\nme lihtsalt tunneme\nteineteist. Pole midagi!"
   },
   {
    "id": 12,
    "en": "{07 00 00}Look, enough about {ff 00 00 06}Redd{ff 00 00 00},\nright? Yeah, forget it. Next\nquestion, bang!\n{07 00 00}{07 0b 00}What do you think of me?{01 00 00 0f 00}\n{07 00 00}{07 19 00}No, it's fine. {ff 00 00 06}Lyle {ff 00 00 00}can take\nit, no sweat, easy, bang.\n{07 00 00}{07 14 00}So.{01 00 00 05 00} Face.{01 00 00 05 00} Mine.{01 00 00 05 00} What about\nit? You trust this face?\nSeriously, gimme the skinny.{02 03 00 0d 0d 0d 0d 0d}\nSure?\nUm...\nNot really.\nNo way.\nLeave me alone!",
-   "et": ""
+   "et": "{07 00 00}Kuula, aitab {ff 00 00 06}Reddist{ff 00 00 00},\neks? Jah, unusta. Järgmine\nküsimus, pauk!\n{07 00 00}{07 0b 00}Mida sa minust arvad?{01 00 00 0f 00}\n{07 00 00}{07 19 00}Ei, pole viga. {ff 00 00 06}Lyle {ff 00 00 00}kannatab\nvälja, lihtne, pauk.\n{07 00 00}{07 14 00}Nii.{01 00 00 05 00} Nägu.{01 00 00 05 00} Minu.{01 00 00 05 00} Mis sellest\narvad? Usaldad seda nägu?\nTõsiselt, anna aus vastus.{02 03 00 0d 0d 0d 0d 0d}\nIkka?\nEe...\nMitte eriti.\nEi mingil juhul.\nJäta mind rahule!"
   },
   {
    "id": 13,
    "en": "{07 18 00}{01 04 00}{01 05 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 01 00}Oh, you're BUSTIN' MY\nCHOPS{01 09 00} here! Ab-so-lutely\nBUSTIN'{01 0a 00} these puppies!\n{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 14 00}Yeah, so, no sweat, right?\nRight, sure, no sweat.{01 00 00 0f 00}{07 01 00} Bang!{01 00 00 0f 00}\n{07 00 00}{07 14 00}Ha ha! {ff 00 00 06}Lyle {ff 00 00 00}got ya!\n{07 00 00}Seriously, enough. You wanna\nmove on? Yeah, sure, why\nnot, right? Right.\n{07 00 00}I got a few questions here.{01 00 00 05 00}\nTen.{01 00 00 03 00} Actually, less.{01 00 00 03 00} I got\nseven.{01 00 00 03 00} Three.{01 00 00 03 00} Ready?{01 01 00} Bang!",
-   "et": ""
+   "et": "{07 18 00}{01 04 00}{01 05 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 01 00}Oh, sa KÄID MULLE\nNÄRVIDELE{01 09 00}! Ab-so-luutselt\nKÄID{01 0a 00} nende peal!\n{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 14 00}Jah, noh, pole higi, eks?\nJust, pole viga.{01 00 00 0f 00}{07 01 00} Pauk!{01 00 00 0f 00}\n{07 00 00}{07 14 00}Ha ha! {ff 00 00 06}Lyle {ff 00 00 00}sai su kätte!\n{07 00 00}Tõsiselt, aitab. Tahad\nedasi minna? Jah, muidugi,\nmiks mitte, eks? Just.\n{07 00 00}Mul on siin paar küsimust.{01 00 00 05 00}\nKümme.{01 00 00 03 00} Ei, vähem.{01 00 00 03 00} Mul on\nseitse.{01 00 00 03 00} Kolm.{01 00 00 03 00} Valmis?{01 01 00} Pauk!"
   },
   {
    "id": 14,
    "en": "Q: I have put thought\ninto my plans for the grim,\ninevitable future.{02 00 00 ff ff}\nAgree.\nDisagree.",
-   "et": ""
+   "et": "K: Olen mõelnud oma\nplaanidele sünge ja\nvältimatu tuleviku jaoks.{02 00 00 ff ff}\nNõus.\nEi nõustu."
   },
   {
    "id": 15,
    "en": "Q: My impression of the\ninsurance community is \na positive one.{02 00 00 ff ff}\nAgree.\nDisagree.",
-   "et": ""
+   "et": "K: Minu arvamus\nkindlustusmaailmast on\npositiivne.{02 00 00 ff ff}\nNõus.\nEi nõustu."
   },
   {
    "id": 16,
    "en": "Q: If hurt or sick, I\nhave a plan for the\ninevitable, awful outcome.{02 00 00 ff ff}\nAgree.\nDisagree.",
-   "et": ""
+   "et": "K: Kui olen haige või\nvigastatud, on mul plaan\nvältimatuks õuduseks.{02 00 00 ff ff}\nNõus.\nEi nõustu."
   },
   {
    "id": 17,
    "en": "Q: The phrase \"long-term\nhospitalization\" makes me \nterribly, terribly afraid.{02 00 00 ff ff}\nAgree.\nDisagree.",
-   "et": ""
+   "et": "K: Väljend „pikaajaline\nhaiglaravi” teeb mulle \nkohutavalt suurt hirmu.{02 00 00 ff ff}\nNõus.\nEi nõustu."
   },
   {
    "id": 18,
    "en": "Q: I have been the victim\nof frauds, scams, con jobs,\nor pyramid schemes.{02 00 00 ff ff}\nAgree.\nDisagree.",
-   "et": ""
+   "et": "K: Olen langenud pettuste,\nkelmuste või\npüramiidskeemide ohvriks.{02 00 00 ff ff}\nNõus.\nEi nõustu."
   },
   {
    "id": 19,
    "en": "{01 04 00}{01 00 00 03 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 03 00}{07 19 00}{01 05 00}Yeah, bad news.{01 01 00} Real bad.{01 01 00}\nYou?{01 00 00 05 00} You got big problems. \nWanna hear 'em? Here we go.\nAlone.{01 00 00 03 00} No plan.{01 00 00 03 00} No safety\nnet.{01 00 00 03 00} Know what happens\nthen?{01 01 00}{07 09 00} Right.{01 00 00 03 00} Bad things.{01 00 00 05 00}\nListen, I'm gonna be blunt.\n{07 0b 00}The profile?{01 00 00 05 00} You fit it. To\na T.{07 00 00} I mean, {07 02 00}BANG!\n{07 00 00}You need {ff 00 00 02}insurance{ff 00 00 00}. Not\ntomorrow. Not next week.\nNow. Right now.",
-   "et": ""
+   "et": "{01 04 00}{01 00 00 03 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 03 00}{07 19 00}{01 05 00}Jah, halvad uudised.{01 01 00} Väga.{01 01 00}\nSina?{01 00 00 05 00} Sul on suured mured. \nTahad kuulda? Läks.\nÜksi.{01 00 00 03 00} Plaani pole.{01 00 00 03 00} Turva-\nvõrku pole.{01 00 00 03 00} Tead, mis siis\njuhtub?{01 01 00}{07 09 00} Just.{01 00 00 03 00} Halvad asjad.{01 00 00 05 00}\nKuula, ma olen otsekohene.\n{07 0b 00}Profiil?{01 00 00 05 00} Sa sobid. Täpselt\nsinna.{07 00 00} Ma mõtlen, {07 02 00}PAUK!\n{07 00 00}Sa vajad {ff 00 00 02}kindlustust{ff 00 00 00}. Mitte\nhomme. Mitte järgmisel\nnädalal. Nüüd. Kohe praegu."
   },
   {
    "id": 20,
    "en": "Me? {07 11 00}I sell {ff 00 00 02}insurance{ff 00 00 00}. {01 00 00 0a 00}\n{ff 00 00 02}ACCIDENT insurance{ff 00 00 00}.{01 00 00 0f 00}\nNo scam, no lie. All legit.\n{07 00 00}{07 0b 00}Injured?{01 00 00 05 00} Had an accident?{01 00 00 05 00}\n{07 00 00}{07 14 00}You'll receive compensation\nthat{01 00 00 05 00} very{01 00 00 05 00} day! {01 00 00 0a 00}BANG!",
-   "et": ""
+   "et": "Mina? {07 11 00}Müün {ff 00 00 02}kindlustust{ff 00 00 00}. {01 00 00 0a 00}\n{ff 00 00 02}ÕNNETUSKINDLUSTUST{ff 00 00 00}.{01 00 00 0f 00}\nPole pettust ega valet.\n{07 00 00}{07 0b 00}Viga saanud?{01 00 00 05 00} Õnnetus?{01 00 00 05 00}\n{07 00 00}{07 14 00}Saad hüvitise juba\nsamal{01 00 00 05 00} päeval{01 00 00 05 00}! {01 00 00 0a 00}PAUK!"
   },
   {
    "id": 21,
    "en": "{07 00 00}This deal? What a deal. Let\nme tell you. You like deals?\nDon't miss this one.\n{07 14 00}You can have this for only\n{ff 00 00 02}3,000 Bells{ff 00 00 00}!{01 01 00} {07 00 00}{07 02 00}BANG!{01 01 00} I know,\ncrazy, right? Cra-zy.\n{07 19 00}Let me help you. LET me\nHELP you. Sign this. Here.\nRight now. Whattya say?{02 00 00 18 17}\nUm...OK.\nNo way!",
-   "et": ""
+   "et": "{07 00 00}See tehing? Milline tehing.\nÜtlen sulle. Sulle meeldib?\nÄra seda maha maga.\n{07 14 00}Sa saad selle ainult\n{ff 00 00 02}3000 kella{ff 00 00 00} eest!{01 01 00} {07 00 00}{07 02 00}PAUK!{01 01 00} Tean,\nhull, eks? Hull.\n{07 19 00}Las ma aitan sind. LAS ma\nAITAN. Kirjuta alla. Siia.\nKohe praegu. Mis sa ütled?{02 00 00 18 17}\nEe...olgu.\nEi mingil juhul!"
   },
   {
    "id": 22,
    "en": "{07 18 00}WHAT?!{01 09 00} {01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00}No money. You got\nno Bells. None. Zip. What's\nyour problem? Huh?\n{07 01 00}You let me talk like this?\nWaste your time? Waste MY\ntime?{01 00 00 0f 00} {01 0a 00}BUST MY CHOPS?!\n.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 00 00}{07 14 00}But hey, no sweat, right?\nYeah, good. Good.{01 00 00 05 00} Next time,\nmaybe.",
-   "et": ""
+   "et": "{07 18 00}MIDA?!{01 09 00} {01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00}Raha pole. Sul pole\nkellasid. Üldse. Null. Mis sul\nviga on? Mis?\n{07 01 00}Lasid mul niimoodi rääkida?\nRaiskasid oma aega? MINU\naega?{01 00 00 0f 00} {01 0a 00}KÄISID NÄRVIDELE?!\n.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 00 00}{07 14 00}Aga noh, pole higi, eks?\nJah, hea. Hea.{01 00 00 05 00} Järgmine\nkord, võib-olla."
   },
   {
    "id": 23,
    "en": "{07 00 00}Look, wait. Hold it. I don't\nthink you get me. Lemme,\nlook, lemme try this again.\n{ff 00 00 06}{07 1a 00}Lyle{ff 00 00 00}'s not kidding here. This\ndeal? It's a good deal.{01 00 00 05 00} {07 00 00}{07 19 00}No,\nbetter. Not good. Great.\n{07 14 00}Listen, I'll sweeten it. The\npot. Sweeten the pot. Make\nit better, right?\nThe price? Knocked down.\nCheap. Just for you.\n{ff 00 00 02}3,000 Bells{ff 00 00 00}! BANG!\nNow you gotta sign, right?\nRight! Sign it. On the line.\nRight now. Do it. Do it now.{02 00 00 00 17}\nAll right.\nNo way!",
-   "et": ""
+   "et": "{07 00 00}Kuula, oota. Pea kinni. Ma ei\nusu, et sa said aru. Las\nma proovin uuesti.\n{ff 00 00 06}{07 1a 00}Lyle{ff 00 00 00} ei naljata siin. See\ntehing? Hea tehing.{01 00 00 05 00} {07 00 00}{07 19 00}Ei,\nparem. Suurepärane.\n{07 14 00}Kuula, teen magusamaks.\nPanuse. Magusam panus. Teen\nparema, eks?\nHind? Alla löödud.\nOdav. Ainult sinule.\n{ff 00 00 02}3000 kella{ff 00 00 00}! PAUK!\nNüüd kirjuta alla, eks?\nJust! Kirjuta alla. Joonele.\nKohe praegu. Tee. Tee kohe.{02 00 00 00 17}\nHästi.\nEi mingil juhul!"
   },
   {
    "id": 24,
    "en": "{07 1d 00}Good! Good. You won't regret\nthis, trust me. It's the\nright choice.\n{07 14 00}All right. Look. Now I just\nneed a name and address.\nEasy, right? Simple stuff.\n{07 11 00}Right... {01 00 00 0f 00}Yes... {01 00 00 0f 00}Now gimme a\nchicken scratch here...{01 01 00}\n{07 0d 00}Bang! Finished! Kaput!",
-   "et": ""
+   "et": "{07 1d 00}Hea! Hea. Sa ei kahetse\nseda, usu mind. See on\nõige valik.\n{07 14 00}Hästi. Kuula. Nüüd vajan\nainult nime ja aadressi.\nLihtne, eks? Lihtne asi.\n{07 11 00}Just... {01 00 00 0f 00}Jah... {01 00 00 0f 00}Nüüd tee siia\nüks kritseldus...{01 01 00}\n{07 0d 00}Pauk! Valmis! Kaputt!"
   },
   {
    "id": 25,
    "en": "{07 00 00}See? Easy. Real easy. I told\nyou, best decision you'll\never make. Trust me.\n{07 14 00}You got {ff 00 00 02}accident insurance{ff 00 00 00}\nnow. No more worries. Ever.\nTrust me. Trust {ff 00 00 06}Lyle{ff 00 00 00}.\n{07 11 00}Yeah, so, look.{01 00 00 05 00} I need the\n{ff 00 00 02}3,000 Bells{ff 00 00 00}. Just business,\nright? Strictly business.",
-   "et": ""
+   "et": "{07 00 00}Näed? Lihtne. Ütlesin sulle,\nparim otsus, mille sa\nkunagi teed. Usu mind.\n{07 14 00}Sul on {ff 00 00 02}õnnetuskindlustus{ff 00 00 00}.\nRohkem muresid pole.\nKunagi. Usu mind. Usu {ff 00 00 06}Lyle'i{ff 00 00 00}.\n{07 11 00}Jah, nii et kuula.{01 00 00 05 00} Vajan\n{ff 00 00 02}3000 kella{ff 00 00 00}. Lihtsalt äri,\neks? Puhas äri."
   },
   {
    "id": 26,
    "en": "{07 00 00}{07 1b 00}You feel better, right?\nSure you do. Safe? Warm?\nYeah. All that. Sure you do.\n{07 00 00}So look, if you're ever\ninjured? My company? We\nsend you compensation.\n{07 1a 00}It's what you deserve. What\nwe ALL deserve, right?\nRight. Sure. Bang!",
-   "et": ""
+   "et": "{07 00 00}{07 1b 00}Tunned end paremini, eks?\nMuidugi. Turvaline? Soe?\nJah. Kõik see. Muidugi.\n{07 00 00}Nii et kuula, kui sa kunagi\nviga saad? Minu firma? Me\nsaadame sulle hüvitise.\n{07 1a 00}Seda sa väärid. Mida me\nKÕIK väärime, eks?\nJust. Muidugi. Pauk!"
   },
   {
    "id": 27,
    "en": "{07 09 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}Really?{01 01 00} Bad call.{01 00 00 0f 00} {07 01 00}BAD CALL!\nThink yer smart? Think yer\nbig? BUST MY CHOPS{01 09 00}?!\n{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 00 00}{07 14 00}But hey, no sweat, right?\nGood info. Yeah. Sure. Need \nanything else?{01 00 00 05 00} Talk to {ff 00 00 06}Lyle{ff 00 00 00}.",
-   "et": ""
+   "et": "{07 09 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}Tõesti?{01 01 00} Vale valik.{01 00 00 0f 00} {07 01 00}VALE!\nArvad, et oled tark? Suur?\nKÄID MULLE NÄRVIDELE{01 09 00}?!\n{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 00 00}{07 14 00}Aga noh, pole higi, eks?\nHea info. Jah. Vajad \nveel midagi?{01 00 00 05 00} Räägi {ff 00 00 06}Lyle'iga{ff 00 00 00}."
   },
   {
    "id": 28,
    "en": "{07 00 00}It's like this. You buy\nsomething? It's a fake?\nCounterfeit? Busted?\n{07 19 00}{ff 00 00 02}Damage insurance{ff 00 00 00}. You're\ncovered. Bang! Like I said,\npeace of mind, right?\n{07 14 00}You come to us, give us the\nitem, we pay you. It's easy.\nLegit. Totally legit.\n{07 19 00}We pay you a percentage of\nthe damages. Good deal,\nright? Sure it is.",
-   "et": ""
+   "et": "{07 00 00}Asi on nii. Sa ostad\nmidagi? See on võlts?\nJäreletehtud? Katki?\n{07 19 00}{ff 00 00 02}Kahjukindlustus{ff 00 00 00}. Sa oled\nkaetud. Pauk! Nagu ütlesin,\nmeelerahu, eks?\n{07 14 00}Sa tuled meie juurde, annad\neseme, me maksame. Lihtne.\nAus. Täiesti aus.\n{07 19 00}Maksame sulle protsendi\nkahjust. Hea tehing,\neks? Muidugi on."
   },
   {
    "id": 29,
    "en": "{07 00 00}{07 11 00}You just gotta enroll. Pay a\nfee, real small. One-time\nfee. {ff 00 00 02}6,000 Bells{ff 00 00 00}. That's it.\n{07 00 00}{07 14 00}Good deal. Not good. Great.\nAmazing. What's the catch?\nNothing. Sign it. Sign now.{02 00 00 00 27}\nUm, OK...\nNo way!",
-   "et": ""
+   "et": "{07 00 00}{07 11 00}Pead vaid liituma. Maksa\ntasu, väga väike. Ühekordne\ntasu. {ff 00 00 02}6000 kella{ff 00 00 00}. Ongi kõik.\n{07 00 00}{07 14 00}Hea tehing. Ei, suurepärane.\nVapustav. Mis on konks?\nPole. Kirjuta alla. Kohe.{02 00 00 00 27}\nEe, olgu...\nEi mingil juhul!"
   },
   {
    "id": 30,
    "en": "{07 00 00}There you go! Finished.\nDone. Easy, right? Sure it\nwas.{01 01 00} {07 00 00}{07 02 00}BANG!{01 00 00 0a 00}{07 00 00}{07 14 00} Ha ha, yeah, you!\n{07 14 00}Now you're covered. You got\n{ff 00 00 02}damage insurance{ff 00 00 00}. No more\nworries. Ever. Trust me.\n...{07 04 00}What?{01 00 00 0a 00} No! Lyle wouldn't\nbust your chops on this\none! We got trust, right?\nSure we do.{01 00 00 0a 00} {07 11 00}You just gotta \npay the {ff 00 00 02}6,000 Bells{ff 00 00 00} like you\npromised. That's it. Easy.",
-   "et": ""
+   "et": "{07 00 00}Näe nii! Valmis.\nTehtud. Lihtne, eks? Muidugi\noli.{01 01 00} {07 00 00}{07 02 00}PAUK!{01 00 00 0a 00}{07 00 00}{07 14 00} Ha ha, jah, sina!\n{07 14 00}Nüüd oled kaetud. Sul on\n{ff 00 00 02}kahjukindlustus{ff 00 00 00}. Rohkem\nmuresid pole. Usu mind.\n...{07 04 00}Mis?{01 00 00 0a 00} Ei! Lyle ei käiks\nsulle selle pärast\nnärvidele! Usaldus, eks?\nMuidugi.{01 00 00 0a 00} {07 11 00}Pead vaid \nmaksma {ff 00 00 02}6000 kella{ff 00 00 00}, nagu\nlubasid. Ongi kõik. Lihtne."
   },
   {
    "id": 31,
    "en": "{07 00 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 14 00}Done! Listen, here's the\nthing. You ever get fooled?\nDuped? Taken? Bang?\n{07 19 00}Bring it to me. You give me\nthe fake item, I take care\nof everything.\n{07 11 00}Percentage of the damages?\nStraight to you. Check's in\nthe mail, that day, easy.",
-   "et": ""
+   "et": "{07 00 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 14 00}Valmis! Kuula, asi on\nnii. Kas sind on petetud?\nTüssatud? Alt veetud? Pauk?\n{07 19 00}Too see mulle. Annad mulle\nvõltseseme, mina hoolitsen\nkõige eest.\n{07 11 00}Protsent kahjust?\nOtse sinule. Tšekk on postis\nsamal päeval, lihtne."
   },
   {
    "id": 32,
    "en": "{07 02 00}Hey!{01 00 00 0f 00} You!{01 00 00 0f 00} {07 00 00}{07 14 00}Right, sure, you!\nYeah, sure! Sure. Wife and\nkids? Good? Sure they are.\n{07 0b 00}What now? You need to talk?\n{ff 00 00 02}Damage insurance{ff 00 00 00}? Buy a\nfake item? {07 00 00}Hand it over!\n{07 11 00}I'll take it, you get\ncompensation. Easy. Legit.\nBang. You got something?{02 04 00 23 22}\nI have one!\nNope.",
-   "et": ""
+   "et": "{07 02 00}Hei!{01 00 00 0f 00} Sina!{01 00 00 0f 00} {07 00 00}{07 14 00}Just, sina!\nJah, muidugi! Pere ja\nlapsed? Hästi? Muidugi on.\n{07 0b 00}Mis nüüd? Tahad rääkida?\n{ff 00 00 02}Kahjukindlustus{ff 00 00 00}? Ostsid\nvõltseseme? {07 00 00}Anna siia!\n{07 11 00}Ma võtan selle, sina saad\nhüvitise. Lihtne. Aus.\nPauk. On sul midagi?{02 04 00 23 22}\nMul on üks!\nEi ole."
   },
   {
    "id": 33,
    "en": "{07 15 00}Yeah, OK. I see. Right. Sure.\nWhat now? You got more?\nMore fakes? What?{02 04 00 23 22}\nYes!\nNo.",
-   "et": ""
+   "et": "{07 15 00}Jah, olgu. Selge. Muidugi.\nMis nüüd? On sul veel?\nVeel võltse? Mis?{02 04 00 23 22}\nJah!\nEi."
   },
   {
    "id": 34,
    "en": "{07 00 00}We have a good plan. Right?\nRight. Good plan. Solid. Use\nit. {01 04 00}{07 09 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00}{01 05 00}{07 00 00}{07 11 00}While you can.",
-   "et": ""
+   "et": "{07 00 00}Meil on hea plaan. Eks?\nJust. Hea plaan. Kindel.\nKasuta seda. {01 04 00}{07 09 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00}{01 05 00}{07 00 00}{07 11 00}Kuni saad."
   },
   {
    "id": 35,
    "en": "{07 15 00}Fine. Fine. Bust my chops.\nGo ahead. Which item you\ntalking about?",
-   "et": ""
+   "et": "{07 15 00}Hea küll. Käi närvidele.\nLase käia. Millisest esemest\nsa räägid?"
   },
   {
    "id": 36,
    "en": "{07 00 00}{07 04 00}Yeah, whoa, hey, whoa. No\ndice. Yeah, sorry, but it's\nall there. In the policy.\n{07 11 00}Claims on counterfeit items\nonly. {ff 00 00 07}Forged paintings{ff 00 00 00}, that\nkind of thing. You get me?",
-   "et": ""
+   "et": "{07 00 00}{07 04 00}Jah, oot, hei, oot. Ei\ntule. Vabandust, aga\nkõik on kirjas. Poliisis.\n{07 11 00}Ainult võltsesemetele.\n{ff 00 00 07}Võltsmaalid{ff 00 00 00}, sellised\nasjad. Said aru?"
   },
   {
    "id": 37,
    "en": "{07 14 00}Oh, yeah. Sure. That item?\nNOT legit. Violation of the\nbook. Every rule in it.",
-   "et": ""
+   "et": "{07 14 00}Oh, jah. Muidugi. See ese?\nEI OLE aus. Rikub reegleid.\nKõiki neid."
   },
   {
    "id": 38,
    "en": "{07 19 00}You want compensation? It's\nyours. BANG! In the mail,\nexpress!\nClear out the mailbox. Big\npackage. You get me? Right,\nsure you do. Sure.",
-   "et": ""
+   "et": "{07 19 00}Tahad hüvitist? See on\nsinu. PAUK! Postiga,\nkiirsaadetisena!\nTühjenda postkast. Suur\npakk. Said aru? Just,\nmuidugi said. Muidugi."
   },
   {
    "id": 39,
    "en": "{07 00 00}{07 02 00}Whoa, hey, wait, hold it.\nWhoa, whoa, whoa. Hold it.\nHold it, whoa, wait, hold it.\n{07 00 00}Me? {ff 00 00 06}Lyle{ff 00 00 00}? Didn't explain it\nwell. Lemme try again. One\nminute. Here I go.\nThis deal? {07 19 00}Great deal. You\nwon't find this deal again.\nIt's that good. Bang.\n{07 00 00}{07 14 00}Lemme sweeten it. Sweeten\nthe pot. The fee? Cut.\nSlashed. Huge discount.\n{07 11 00}Only{ff 00 00 02} 6,000 Bells{ff 00 00 00}! That's it,\nfinal offer. Sign it. Don't\nwait, don't think, sign.{02 00 00 18 27}\nOK OK!\nNo way!",
-   "et": ""
+   "et": "{07 00 00}{07 02 00}Oot, hei, oota, pea kinni.\nOot, oot, oot. Pea kinni.\nPea kinni, oot, oota, pea.\n{07 00 00}Mina? {ff 00 00 06}Lyle{ff 00 00 00}? Ei seletanud\nhästi. Proovin uuesti.\nÜks minut. Läks.\nSee tehing? {07 19 00}Suurepärane. Sa\nei leia seda enam kunagi.\nNii hea see on. Pauk.\n{07 00 00}{07 14 00}Las ma teen magusamaks.\nPanust. Tasu? Lõigatud.\nMaha löödud. Odav.\n{07 11 00}Ainult{ff 00 00 02} 6000 kella{ff 00 00 00}! Ongi kõik,\nviimane pakkumine. Kirjuta.\nÄra oota, ära mõtle.{02 00 00 18 27}\nOlgu olgu!\nEi mingil juhul!"
   },
   {
    "id": 40,
    "en": "{07 1d 00}Hey! HEY! You! Yeah, you!\nYou're {ff 00 00 05}{04 00 00}{ff 00 00 00}, right?\nSure you are. Sure.\n{07 03 00}Sure I know you! Sure!{07 00 00}{01 00 00 05 00}{07 14 00}\nYou? Big reputation. All\nover, everyone knows, bang.\n{07 0b 00}Look, I got a {ff 00 00 02}questionnaire{ff 00 00 00},\nright? Need people to fill\nit out. Quick. Easy. Bang.\nYou want to represent\n{ff 00 00 08}{04 03 00}{ff 00 00 00}?{01 00 00 05 00} Sure you do.\nSure. Just fill it out.{ff 00 00 08}\n{ff 00 00 00}{07 01 00}My boss? {01 00 00 0a 00}Bustin' my chops\non this one ALL WEEK! {07 00 00}{07 14 00}Real\nquick. Easy. Fill it out.{02 01 00 04 03 06}\nSounds fun!\nWho are you?\nGet lost!",
-   "et": ""
+   "et": "{07 1d 00}Hei! HEI! Sina! Jah, sina!\nSa oled {ff 00 00 05}{04 00 00}{ff 00 00 00}, eks?\nMuidugi oled. Muidugi.\n{07 03 00}Muidugi tunnen sind!{07 00 00}{01 00 00 05 00}{07 14 00}\nSina? Suur maine. Kõikjal,\nkõik teavad, pauk.\n{07 0b 00}Kuula, mul on {ff 00 00 02}küsitlus{ff 00 00 00},\neks? Vaja inimesi, kes selle\ntäidavad. Kiire. Pauk.\nTahad esindada linna\n{ff 00 00 08}{04 03 00}{ff 00 00 00}?{01 00 00 05 00} Muidugi tahad.\nMuidugi. Lihtsalt täida ära.{ff 00 00 08}\n{ff 00 00 00}{07 01 00}Minu ülemus? {01 00 00 0a 00}Käib mulle\nnärvidele TERVE NÄDALA! {07 00 00}{07 14 00}Väga\nkiire. Lihtne. Täida ära.{02 01 00 04 03 06}\nKõlab lõbusalt!\nKes sa oled?\nKao ära!"
   },
   {
    "id": 41,
    "en": "{07 1d 00}HEY! YOU! Yeah, you! How you\ndoing? Good, right? Sure\nyou are, sure.\n{07 14 00}You're from {ff 00 00 08}{04 03 00}{ff 00 00 00},\nright? Sure you are. {ff 00 00 06}Lyle{ff 00 00 00}\ncan tell. {ff 00 00 06}Lyle {ff 00 00 00}knows.\n{07 00 00}Listen, my company. Doing\nresearch. Trying to drum up\nbusiness. Basic stuff, legit.\nGotta learn about hicks.\nNo. City folk. Like you.\nWhoever. Doesn't matter.\n{07 14 00}Look, just fill out this\n{ff 00 00 02}questionnaire{ff 00 00 00}.{02 01 00 04 03 06}\nUm... OK.\nWho are you?\nNot today.",
-   "et": ""
+   "et": "{07 1d 00}HEI! SINA! Jah, sina! Kuidas\nläheb? Hästi, eks? Muidugi\nläheb, muidugi.\n{07 14 00}Sa oled linnast {ff 00 00 08}{04 03 00}{ff 00 00 00},\neks? Muidugi oled. {ff 00 00 06}Lyle{ff 00 00 00}\nnäeb ära. {ff 00 00 06}Lyle {ff 00 00 00}teab.\n{07 00 00}Kuula, minu firma. Teeb\nuuringut. Üritab äri\nkäima lükata. Põhiasjad.\nPeab maakaid tundma.\nEi. Linnarahvast. Nagu sina.\nÜkskõik. Pole tähtis.\n{07 14 00}Kuula, lihtsalt täida see\n{ff 00 00 02}küsitlus{ff 00 00 00} ära.{02 01 00 04 03 06}\nEe... olgu.\nKes sa oled?\nMitte täna."
   },
   {
    "id": 42,
    "en": "{07 1d 00}Whoa, hey, wait. You. Gimme\na second. Just one, that's\nall, bang, over, done.\n{07 0b 00}You married?{01 00 00 0f 00} {07 00 00}{07 19 00}Yeah, sure,\nright, I can see that. {ff 00 00 06}Lyle{ff 00 00 00}\nknows, no worries, right?\n{07 14 00}Listen, my company? In the\nmiddle of something. Big\nproject, numbers, you know.\nWe need data. Info. That\nkind of thing. Can you help?\nSure you can. {01 01 00}{07 02 00}BANG!\n{07 00 00}{07 19 00}Just gotta ask a couple of\nquestions. Life plans, basic\nstuff, easy, bang, done.\nGot a{ff 00 00 02} questionnaire{ff 00 00 00}. Fill it\nout. No sweat, right? Sure.\nRewarding. Do it. Do it now.{02 01 00 04 03 06}\nWell, OK.\nWho are you?\nI'm busy.",
-   "et": ""
+   "et": "{07 1d 00}Oot, hei, oota. Sina. Anna\nmulle hetk. Ainult üks, see\nongi kõik, pauk, tehtud.\n{07 0b 00}Abielus?{01 00 00 0f 00} {07 00 00}{07 19 00}Jah, muidugi,\njust, ma näen seda. {ff 00 00 06}Lyle{ff 00 00 00}\nteab, pole muret, eks?\n{07 14 00}Kuula, minu firma? Keset\nüht asja. Suur\nprojekt, numbrid, tead küll.\nVajame andmeid. Sellist\nasja. Kas sa aitad?\nMuidugi aitad. {01 01 00}{07 02 00}PAUK!\n{07 00 00}{07 19 00}Pean vaid paar küsimust\nküsima. Eluplaanid,\nlihtne, pauk, tehtud.\nMul on{ff 00 00 02} küsitlus{ff 00 00 00}. Täida\nära. Pole higi, eks? Muidugi.\nTasuv. Tee ära. Tee kohe.{02 01 00 04 03 06}\nNoh, olgu.\nKes sa oled?\nMul on kiire."
   },
   {
    "id": 43,
    "en": "{07 1d 00}You! Hey, wait, stop, wait.{01 01 00}\n{07 0b 00}Listen, are you happy with\nlife? Seriously, no joke.\nGotcha, sure, right.{01 00 00 0a 00} {07 0b 00}You\nplanning to move up in the\nworld?{01 00 00 0a 00} {07 00 00}Sure you are. Bang!\n{07 19 00}Look, let me help. I wanna\nhelp you. Sound good?{01 00 00 05 00} Sure\nit does. Relax. It's easy.\n{07 14 00}What do you do? This\n{ff 00 00 02}questionnaire{ff 00 00 00}. Fill it out.\nEasy, right? Sure it is.\n{07 19 00}Goals? We all got 'em. You\ngot 'em, I got 'em,\neverybody. Let's do this.{02 01 00 04 03 06}\nYes, let's!\nWho are you?\nI'm busy.",
-   "et": ""
+   "et": "{07 1d 00}Sina! Hei, oota, seisa, oota.{01 01 00}\n{07 0b 00}Kuula, kas sa oled eluga\nrahul? Tõsiselt, pole nali.\nSain aru, muidugi, just.{01 00 00 0a 00} {07 0b 00}Kas\nplaanid maailmas\nkõrgemale?{01 00 00 0a 00} {07 00 00}Muidugi. Pauk!\n{07 19 00}Kuula, las ma aitan. Tahan\nsind aidata. Kõlab hästi?{01 00 00 05 00}\nJah, kõlab. Lõdvestu.\n{07 14 00}Mida sa teed? See\n{ff 00 00 02}küsitlus{ff 00 00 00}. Täida ära.\nLihtne, eks? Muidugi on.\n{07 19 00}Eesmärgid? Meil kõigil on.\nSul on, mul on,\nkõigil. Teeme ära.{02 01 00 04 03 06}\nJah, teeme!\nKes sa oled?\nMul on kiire."
   },
   {
    "id": 44,
    "en": "{07 1d 00}Wait, listen. Taking a trip?{01 01 00}\n{07 00 00}{07 19 00}Yeah, I thought so. Worldly.\nCultured. That's you. Bang.\n{07 00 00}Listen, my company?{01 00 00 05 00} Doing a\ncontest. Big. Big prizes.\nMoney. Fame. Not really.\n{07 14 00}It's a trip. Win a trip\nanywhere. Anywhere at all.\nGood, right? Sure it is.\nWant to enter?{01 00 00 05 00} Fill out this\n{ff 00 00 02}questionnaire{ff 00 00 00}. Short, quick,\nbang, you're done. Simple.\n{07 04 00}C'mon, you get a trip!{01 00 00 0a 00} {07 00 00}Big \nprize, everyone wants one,\nfill it out. Now. Do it.{02 01 00 04 03 06}\nOK!\nWho are you?\nI'm kinda busy.",
-   "et": ""
+   "et": "{07 1d 00}Oota, kuula. Lähed reisile?{01 01 00}\n{07 00 00}{07 19 00}Jah, arvasingi. Maailmamees.\nKultuurne. See oled sina.\n{07 00 00}Kuula, mu firma?{01 00 00 05 00} Korraldab\nvõistlust. Suured auhinnad.\nRaha. Kuulsus. Noh, mitte.\n{07 14 00}See on reis. Võida reis\nkuhu tahes. Ükskõik kuhu.\nHea, eks? Muidugi on.\nTahad osaleda?{01 00 00 05 00} Täida see\n{ff 00 00 02}küsitlus{ff 00 00 00}. Lühike, kiire,\npauk, valmis. Lihtne.\n{07 04 00}Tule, sa saad reisi!{01 00 00 0a 00} {07 00 00}Suur \nauhind, kõik tahavad,\ntäida ära. Nüüd. Tee ära.{02 01 00 04 03 06}\nOlgu!\nKes sa oled?\nMul on kiire."
   }
  ]
 }

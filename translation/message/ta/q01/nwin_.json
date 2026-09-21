@@ -4,17 +4,17 @@
   {
    "id": 0,
    "en": "{07 14 00}Tee hee hee! {01 00 00 05 00}You're a little\ntoo late, {01 00 00 0a 00}{04 02 00}.\n\n{07 00 00}See, I already picked up\n{04 1a 00}{01 00 00 0a 00}\na LONG time ago.\n{07 0b 00}Is it training{01 00 00 0a 00} or just my\nraw talent{01 01 00} {07 14 00}that makes me\nso much better than you?\n{07 03 00}Too bad, {01 00 00 05 00}{04 1f 00}! Too\nbad for you, {01 00 00 0a 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 14 00}Hihihii! {01 00 00 05 00}Sa oled veidi\nhilja, {01 00 00 0a 00}{04 02 00}.\n\n{07 00 00}Vaata, ma korjasin\n{04 1a 00}{01 00 00 0a 00}\njuba AMMU üles.\n{07 0b 00}Kas see on treening{01 00 00 0a 00} või\nmu loomulik anne,{01 01 00} {07 14 00}mis teeb\nmu sinust nii palju\nparemaks? {07 03 00}Kahju, {01 00 00 05 00}{04 1f 00}!\nKahju sinust, {01 00 00 0a 00}{04 02 00}!"
   },
   {
    "id": 1,
    "en": "{07 0b 00}Huh?{01 01 00} Uh{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 0c 00} {01 00 00 0a 00}Oh,{01 00 00 14 00} that's right,\nI was having a bug match\nwith you, wasn't I.\n{07 14 00}It's been so long, I almost\nforgot, {01 00 00 0a 00}{04 02 00}.\n\n{07 00 00}Anyway, {07 0b 00}how come it took\nso long for you to catch\n{04 1a 00}?\n{07 00 00}Well, it's too late for you\nnow. I won the match.{01 00 00 14 00}\n{07 03 00}Maybe next time.",
-   "et": ""
+   "et": "{07 0b 00}Mis?{01 01 00} Ee{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 0c 00} {01 00 00 0a 00}Ah,{01 00 00 14 00} tõsi,\nmul oli sinuga\nputukavõistlus, kas polnud.\n{07 14 00}Nii kaua on läinud, et ma\npeaaegu unustasin, {01 00 00 0a 00}{04 02 00}\n. \n{07 00 00}Igatahes, {07 0b 00}miks sul läks\nnii kaua aega, et püüda\n{04 1a 00}?\n{07 00 00}Noh, sul on nüüd hilja.\nMina võitsin matši.{01 00 00 14 00}\n{07 03 00}Ehk järgmine kord."
   },
   {
    "id": 2,
    "en": "{07 14 00}Tee hee HEE hee! {01 00 00 05 00}Too bad\nfor you!{01 00 00 14 00} I already caught{07 00 00}\n{04 1a 00}!\n{07 1b 00}So, {01 00 00 05 00}the winner is...{01 00 00 05 00}ME! {01 01 00}Well,\n{01 00 00 05 00}you can challenge me again\nanytime, {01 00 00 0a 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 14 00}Hihi HIHI hii! {01 00 00 05 00}Kahju\nsinust!{01 00 00 14 00} Ma püüdsin juba{07 00 00}\n{04 1a 00}!\n{07 1b 00}Nii et {01 00 00 05 00}võitja on...{01 00 00 05 00}MINA! {01 01 00}Noh,\n{01 00 00 05 00}sa võid mind millal iganes\nuuesti kutsuda, {01 00 00 0a 00}{04 02 00}!"
   }
  ]
 }

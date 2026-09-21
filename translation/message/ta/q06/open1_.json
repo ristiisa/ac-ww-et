@@ -4,17 +4,17 @@
   {
    "id": 0,
    "en": "Oh wow! Hey, look!\n{0b 03 00}{04 1a 00}!\n\nI wonder how in the world\n{ff 00 00 06}{04 0f 00} {ff 00 00 00}got something\nlike that, {01 00 00 0a 00}{04 02 00}?",
-   "et": ""
+   "et": "Oi vau! Hei, vaata!\n{0b 03 00}{04 1a 00}!\n\nHuvitav, kust maailmast sai\n{ff 00 00 06}{04 0f 00} {ff 00 00 00}midagi\nsellist, {01 00 00 0a 00}{04 02 00}?"
   },
   {
    "id": 1,
    "en": "Oh!{01 00 00 0a 00} I've always wanted\n{04 1a 00}!\n\n{0b 03 00}{ff 00 00 06}{04 0f 00}{ff 00 00 00} never ceases\nto amaze me{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} I feel so\n{01 00 00 05 00}understood!",
-   "et": ""
+   "et": "Oi!{01 00 00 0a 00} Ma olen alati tahtnud\n{04 1a 00}!\n\n{0b 03 00}{ff 00 00 06}{04 0f 00}{ff 00 00 00} ei lakka\nmind hämmastamast{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} Ma\ntunnen end {01 00 00 05 00}nii mõistetuna!"
   },
   {
    "id": 2,
    "en": "Hey, check it out! It's\n{04 1a 00}!{01 00 00 05 00}\nYippee!\nI guess {ff 00 00 06}{04 0f 00}\n{ff 00 00 00}remembered that I said I{01 00 00 0a 00}\nwanted that, {01 00 00 05 00}{04 02 00}!",
-   "et": ""
+   "et": "Hei, vaata! See on\n{04 1a 00}!{01 00 00 05 00}\nJuhhei!\n{ff 00 00 06}{04 0f 00}\n{ff 00 00 00}mäletas vist, et ütlesin, et{01 00 00 0a 00}\ntahan seda, {01 00 00 05 00}{04 02 00}!"
   }
  ]
 }

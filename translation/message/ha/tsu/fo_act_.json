@@ -4,62 +4,62 @@
   {
    "id": 0,
    "en": "{07 0b 00}You wanna know what I'm\ndoing with this {ff 00 00 07}shovel{ff 00 00 00}?{01 01 00}\n{07 16 00}I'm looking for fossils!\n{07 14 00}Digging works all kinds of\nmuscle groups,{01 00 00 05 00} so it's like\na workout, {01 00 00 05 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 0b 00}Tahad teada, mida ma\nselle {ff 00 00 07}labidaga{ff 00 00 00} teen?{01 01 00}\n{07 16 00}Ma otsin fossiile!\n{07 14 00}Kaevamine paneb tööle\nigasugused lihased,{01 00 00 05 00} nii et\nsee on trenn, {01 00 00 05 00}{04 02 00}!"
   },
   {
    "id": 1,
    "en": "{07 14 00}Hey, {01 00 00 05 00}{04 1f 00}!{01 00 00 0a 00}\nHelp me look, wouldja?\n\n{07 00 00}For what?! Are you crazy?!{01 00 00 0a 00}\nFor fossils, man! {01 00 00 05 00}Fossils!\n\n{07 14 00}From now on, I want you to\ncall me {ff 00 00 06}{04 01 00}, the\nFossil Hunter{ff 00 00 00}! {01 00 00 05 00}{0b 03 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 14 00}Hei, {01 00 00 05 00}{04 1f 00}!{01 00 00 0a 00}\nAita mul otsida, eks?\n\n{07 00 00}Mida?! Kas sa oled hull?!{01 00 00 0a 00}\nFossiile, mees! {01 00 00 05 00}Fossiile!\n\n{07 14 00}Nüüdsest tahan, et sa\nkutsuksid mind {ff 00 00 06}{04 01 00},\nfossiilikütiks{ff 00 00 00}! {01 00 00 05 00}{0b 03 00}{04 02 00}!"
   },
   {
    "id": 2,
    "en": "{07 00 00}Yo yo, {01 00 00 05 00}{04 1f 00}!{01 00 00 0f 00}\nIf you find a spot with\nfossils, holler at me!\n{06 03 00 0a 0b}",
-   "et": ""
+   "et": "{07 00 00}Jou jou, {01 00 00 05 00}{04 1f 00}!{01 00 00 0f 00}\nKui leiad koha, kus on\nfossiile, hõika mulle!\n{06 03 00 0a 0b}"
   },
   {
    "id": 3,
    "en": "{06 08 00 08 08 09 09}",
-   "et": ""
+   "et": "{06 08 00 08 08 09 09}"
   },
   {
    "id": 4,
    "en": "{07 00 00}{ff 00 00 06}Blathers{ff 00 00 00} told me{01 00 00 05 00} fossils\nare actually the remains of\ndinosaurs...\n{07 14 00}Yeah, dinosaurs that were\nburied thousands of years\nago, {01 00 00 05 00}{04 02 00}!\n{07 00 00}I wonder, if I got buried\nin this place, {01 00 00 05 00}{07 0b 00}would I\nbecome a fossil, too?",
-   "et": ""
+   "et": "{07 00 00}{ff 00 00 06}Blathers{ff 00 00 00} ütles mulle,{01 00 00 05 00} et\nfossiilid on tegelikult\ndinosauruste jäänused...\n{07 14 00}Jah, dinosaurused, kes\nmaeti tuhandeid aastaid\ntagasi, {01 00 00 05 00}{04 02 00}!\n{07 00 00}Huvitav, kas ma muutuksin\nka fossiiliks, {01 00 00 05 00}{07 0b 00}kui mind\nsiia maha maetaks?"
   },
   {
    "id": 5,
    "en": "{07 16 00}I can't tell where fossils\nare buried{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} Seriously,\nI have no clue, {04 02 00}.\n{07 06 00}There oughta be a way to\ntell{01 00 00 05 00} if nothing is there!{01 00 00 05 00}\nThis stinks, {01 00 00 05 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 16 00}Ma ei oska öelda, kuhu\nfossiilid on{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} Ausalt,\nmul pole aimugi, {04 02 00}.\n{07 06 00}Peaks olema mingi viis,\nkuidas teada,{01 00 00 05 00} kui seal pole!{01 00 00 05 00}\nSee on nõme, {01 00 00 05 00}{04 02 00}!"
   },
   {
    "id": 6,
    "en": "{07 16 00}So{01 00 00 05 00} are you saying that\nfossils are actually just\nrocks, {01 00 00 05 00}{04 02 00}?\n{07 06 00}I thought{01 00 00 05 00} that if you\npoured hot water on them,\nthey'd come back to life!",
-   "et": ""
+   "et": "{07 16 00}Nii et{01 00 00 05 00} sa ütled, et\nfossiilid on tegelikult\nlihtsalt kivid, {01 00 00 05 00}{04 02 00}?\n{07 06 00}Ma arvasin,{01 00 00 05 00} et kui neile\nkuuma vett peale valada,\närkavad nad ellu!"
   },
   {
    "id": 7,
    "en": "{07 00 00}Have you ever looked at a\ndinosaur fossil and\nthought...\n{07 15 00}\"Y'know, I should get more\ncalcium in my diet\"?{01 00 00 14 00} {07 0b 00}Well,\nhave ya?\n.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 16 00}Look, I'm not{01 00 00 05 00} saying you\nHAVE to or anything. {01 00 00 05 00}I'm\njust asking, {01 00 00 05 00}{04 02 00}.",
-   "et": ""
+   "et": "{07 00 00}Kas sa oled kunagi\nvaadanud dinosauruse\nfossiili ja mõelnud...\n{07 15 00}„Tead, ma peaksin rohkem\nkaltsiumi sööma”?{01 00 00 14 00} {07 0b 00}Noh,\nkas oled?\n.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 16 00}Kuule, ma ei ütle,{01 00 00 05 00} et sa\nPEAD või midagi. {01 00 00 05 00}Ma lihtsalt\nküsin, {01 00 00 05 00}{04 02 00}."
   },
   {
    "id": 8,
    "en": "{07 14 00}I'm training and fossil\nhunting at the same time\ntoday!\n{07 16 00}...But for some reason,{01 00 00 05 00} I'm\nnot finding anything{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n\n{07 00 00}I know, {01 00 00 05 00}{04 1f 00}!{01 00 00 0a 00}\n{07 14 00}You can help me look for\nfossils! {01 00 00 05 00}YEAH! {01 00 00 05 00}Let's ROCK!",
-   "et": ""
+   "et": "{07 14 00}Ma treenin ja jahin\nfossiile täna samal\najal!\n{07 16 00}...Aga millegipärast{01 00 00 05 00} ma\nei leia midagi{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n\n{07 00 00}Ma tean, {01 00 00 05 00}{04 1f 00}!{01 00 00 0a 00}\n{07 14 00}Sa saad mind fossiilide\notsimisel aidata!{01 00 00 05 00} JAH!{01 00 00 05 00} ROKI!"
   },
   {
    "id": 9,
    "en": "{07 00 00}Fossils{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00} Must...{01 00 00 05 00}find...{01 00 00 05 00}them.\n{07 06 00}I haven't found a single one\nand it's almost nightfall!\n{07 00 00}It's so dark that I can't\nsee a thing{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n\n{07 15 00}Aw, man!{01 00 00 0f 00} Forget fossils!{01 00 00 05 00}\nI wanna just do sit-ups\nuntil my head pops!",
-   "et": ""
+   "et": "{07 00 00}Fossiil{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00} Pean{01 00 00 05 00}...{01 00 00 05 00}leidma.\n{07 06 00}Ma pole ühtegi leidnud ja\npeagi on öö käes!\n{07 00 00}On nii pime, et ma ei näe\nmitte midagi{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n\n{07 15 00}Oh mees!{01 00 00 0f 00} Unusta fossiilid!{01 00 00 05 00}\nMa tahan lihtsalt teha\nkõhulihaseid, kuni lõhken!"
   },
   {
    "id": 10,
    "en": "{07 00 00}Well,{01 00 00 05 00} whether I find some\nor not...\n\n{07 14 00}Fossil-hunting{01 00 00 0f 00} is just\nsomething we men have\nto do, {01 00 00 05 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 00 00}Noh,{01 00 00 05 00} leian ma neid või\nmitte...\n\n{07 14 00}Fossiilijaht{01 00 00 0f 00} on lihtsalt\nmidagi, mida meie, mehed,\nteha peame, {01 00 00 05 00}{04 02 00}!"
   },
   {
    "id": 11,
    "en": "{07 14 00}To the men's club!!!{01 01 00}\n.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}Oh! Whoa!{01 00 00 05 00}{07 04 00} Shoot!{01 00 00 14 00}\n{07 16 00}You're a girl!\n{07 06 00}I'm horribly confused!{01 00 00 0f 00}\nAaargh, {01 00 00 05 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 14 00}Meeste klubile!!!{01 01 00}\n.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}Oh! Ohoo!{01 00 00 05 00}{07 04 00} Pagan!{01 00 00 14 00}\n{07 16 00}Sa oled tüdruk!\n{07 06 00}Ma olen täiesti segaduses!{01 00 00 0f 00}\nAaargh, {01 00 00 05 00}{04 02 00}!"
   }
  ]
 }

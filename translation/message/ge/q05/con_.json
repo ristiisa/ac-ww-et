@@ -4,17 +4,17 @@
   {
    "id": 0,
    "en": "{07 14 00}I'm gonna fill my room with\n{ff 00 00 07}{04 0f 00}{ff 00 00 00},\n{01 00 00 05 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 14 00}Ma täidan oma toa\n{ff 00 00 07}{04 0f 00}{ff 00 00 00}ga,\n{01 00 00 05 00}{04 02 00}!"
   },
   {
    "id": 1,
    "en": "{07 14 00}Right now,{01 00 00 05 00}{01 00 00 05 00} I'm ALL ABOUT\n{ff 00 00 07}{04 0f 00}{ff 00 00 00}!{01 00 00 05 00}\nALL.{01 00 00 0a 00} ABOUT.{01 00 00 0a 00} IT.",
-   "et": ""
+   "et": "{07 14 00}Praegu{01 00 00 05 00}{01 00 00 05 00} olen ma HULLULT\nsees {ff 00 00 07}{04 0f 00}{ff 00 00 00}!{01 00 00 05 00}\nTÄIESTI.{01 00 00 0a 00} SEES.{01 00 00 0a 00} SELLES."
   },
   {
    "id": 2,
    "en": "{07 0a 00}I wanna live surrounded by\n{ff 00 00 07}{04 0f 00}{ff 00 00 00}!{01 00 00 0a 00}\nSooo cute!{01 00 00 0a 00} And so FUN!",
-   "et": ""
+   "et": "{07 0a 00}Ma tahan elada ümbritsetuna\n{ff 00 00 07}{04 0f 00}{ff 00 00 00}st!{01 00 00 0a 00}\nNii nunnu!{01 00 00 0a 00} Ja nii LÕBUS!"
   }
  ]
 }

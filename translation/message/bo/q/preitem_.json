@@ -4,17 +4,17 @@
   {
    "id": 0,
    "en": "{07 00 00}Well then{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00} {01 00 00 05 00}I gotta give\nyou somethin' nice{01 00 00 05 00} to say\nthanks, {01 00 00 05 00}{04 02 00}.",
-   "et": ""
+   "et": "{07 00 00}Noh siis{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00} {01 00 00 05 00}Pean sulle\nmidagi kena andma{01 00 00 05 00}, et\ntänada, {01 00 00 05 00}{04 02 00}."
   },
   {
    "id": 1,
    "en": "{07 00 00}Hmm{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00}{07 1d 00} Oh, yeah,{01 00 00 14 00} there's\nsomething that I wanna give\nyou to say thanks!",
-   "et": ""
+   "et": "{07 00 00}Hmm{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00}{07 1d 00} Ah jaa,{01 00 00 14 00} on\nüks asi, mille tahan sulle\ntänuks anda!"
   },
   {
    "id": 2,
    "en": "{07 00 00}Hm.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 14 00}{07 1d 00} Oh! There's something\nI wanna give you to say \nthanks, {01 00 00 05 00}{04 02 00}.",
-   "et": ""
+   "et": "{07 00 00}Hm.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 14 00}{07 1d 00} Oh! On üks asi,\nmille tahan sulle tänuks \nanda, {01 00 00 05 00}{04 02 00}."
   }
  ]
 }

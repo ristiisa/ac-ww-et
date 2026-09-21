@@ -4,17 +4,17 @@
   {
    "id": 0,
    "en": "{07 1d 00}Hey!{01 00 00 14 00} {07 14 00}Looks like you made it\njust under the wire,\n{04 02 00}!",
-   "et": ""
+   "et": "{07 1d 00}Hei!{01 00 00 14 00} {07 14 00}Paistab, et jõudsid\nnapilt tähtajaks,\n{04 02 00}!"
   },
   {
    "id": 1,
    "en": "{07 14 00}Sweet, {01 00 00 05 00}right on time!{01 00 00 05 00}\nRock on, {04 02 00}!",
-   "et": ""
+   "et": "{07 14 00}Vinge, {01 00 00 05 00}täpselt ajaks!{01 00 00 05 00}\nRoki edasi, {04 02 00}!"
   },
   {
    "id": 2,
    "en": "{07 14 00}Whoa nelly, {04 1f 00}!{01 00 00 0a 00}\n{07 06 00}You're turbo, {01 00 00 05 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 14 00}Ohoo, {04 1f 00}!{01 00 00 0a 00}\n{07 06 00}Sa oled turbo, {01 00 00 05 00}{04 02 00}!"
   }
  ]
 }

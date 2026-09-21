@@ -4,32 +4,32 @@
   {
    "id": 0,
    "en": "{07 0c 00}{0b 03 00}{01 06 00}Oh, hey{01 07 00}!{01 00 00 0f 00}\n{0b 03 00}{04 1f 00}.",
-   "et": ""
+   "et": "{07 0c 00}{0b 03 00}{01 06 00}Oi, tere{01 07 00}!{01 00 00 0f 00}\n{0b 03 00}{04 1f 00}."
   },
   {
    "id": 1,
    "en": "{07 07 00}{0b 03 00}{01 00 00 0a 00}{01 06 00}Oh, BRRRRRR{01 07 00}!{01 00 00 0f 00}\nAnother cold one today,\n{01 00 00 05 00}{04 02 00}.",
-   "et": ""
+   "et": "{07 07 00}{0b 03 00}{01 00 00 0a 00}{01 06 00}Oi, BRRRRR{01 07 00}!{01 00 00 0f 00}\nTäna jälle külm,\n{01 00 00 05 00}{04 02 00}."
   },
   {
    "id": 2,
    "en": "{07 16 00}{01 00 00 05 00}The snow doesn't look like\nit'll be letting up at all{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.",
-   "et": ""
+   "et": "{07 16 00}{01 00 00 05 00}Ei tundu, et lumesadu\nüldse järele annaks{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}."
   },
   {
    "id": 3,
    "en": "{07 14 00}Snow is prettiest when it's\nstill falling, {01 00 00 14 00}{04 02 00}.",
-   "et": ""
+   "et": "{07 14 00}Lumi on kõige ilusam siis,\nkui see sajab, {01 00 00 14 00}{04 02 00}."
   },
   {
    "id": 4,
    "en": "{0b 03 00}{01 06 00}Oh, no{01 07 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} The\nsky's still dumping white\ndown on us, {01 00 00 0a 00}{04 02 00}.",
-   "et": ""
+   "et": "{0b 03 00}{01 06 00}Oi ei{01 07 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} Taevas\npuistab meile ikka\nvalget, {01 00 00 0a 00}{04 02 00}."
   },
   {
    "id": 5,
    "en": "{07 15 00}{0b 03 00}{01 06 00}UGH{01 07 00}!{01 00 00 14 00} How\nmuch longer is it gonna\nkeep falling, {01 00 00 0a 00}{04 02 00}?!",
-   "et": ""
+   "et": "{07 15 00}{0b 03 00}{01 06 00}ÖÖK{01 07 00}!{01 00 00 14 00} Kui\nkaua see veel\nsajab, {01 00 00 0a 00}{04 02 00}?!"
   }
  ]
 }

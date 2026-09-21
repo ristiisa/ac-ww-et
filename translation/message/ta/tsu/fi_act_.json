@@ -4,107 +4,107 @@
   {
    "id": 0,
    "en": "{06 01 00 12 13 14}",
-   "et": ""
+   "et": "{06 01 00 12 13 14}"
   },
   {
    "id": 1,
    "en": "{06 06 00 08 09 0a}",
-   "et": ""
+   "et": "{06 06 00 08 09 0a}"
   },
   {
    "id": 2,
    "en": "{06 08 00 0b 0c 0d 0e}",
-   "et": ""
+   "et": "{06 08 00 0b 0c 0d 0e}"
   },
   {
    "id": 3,
    "en": "{07 0b 00}Hey, {04 1f 00}, do you\nwant to fish with me?\n{01 00 00 05 00}{0b 03 00}{04 02 00}?\n{07 14 00}Let's team up! I'm all about\ncatching {04 1a 00}!",
-   "et": ""
+   "et": "{07 0b 00}Hei, {04 1f 00}, kas tahad\nminuga kala püüda?\n{01 00 00 05 00}{0b 03 00}{04 02 00}?\n{07 14 00}Teeme koostööd! Ma tahan\npüüda {04 1a 00}!"
   },
   {
    "id": 4,
    "en": "{07 14 00}You should really try\nfishing around a waterfall,\n{01 00 00 0a 00}{04 02 00}.\n{07 0a 00}{01 00 00 0a 00}They're full of negative\nions that are proven to be\npositive for your skin!",
-   "et": ""
+   "et": "{07 14 00}Sa peaksid kindlasti\nproovima kosest püüda,\n{01 00 00 0a 00}{04 02 00}.\n{07 0a 00}{01 00 00 0a 00}Need on täis negatiivseid\nioone, mis on tõestatult\nnahale positiivsed!"
   },
   {
    "id": 5,
    "en": "{01 00 00 0a 00}{07 1b 00}Hee!{01 00 00 0f 00} I'll bet you thought\nI was holding a regular old\n{ff 00 00 07}fishing rod{ff 00 00 00}, huh?\n{07 14 00}It's actually the hippest,\nhottest exercise machine\naround, {01 00 00 05 00}{04 02 00}!",
-   "et": ""
+   "et": "{01 00 00 0a 00}{07 1b 00}Hihi!{01 00 00 0f 00} Sa arvasid vist,\net mul on käes tavaline\n{ff 00 00 07}õngeritv{ff 00 00 00}, mis?\n{07 14 00}Tegelikult on see kõige\nmoodsam trenažöör\nüldse, {01 00 00 05 00}{04 02 00}!"
   },
   {
    "id": 6,
    "en": "{06 09 00 0f 10 11}",
-   "et": ""
+   "et": "{06 09 00 0f 10 11}"
   },
   {
    "id": 7,
    "en": "{07 16 00}Suddenly, I was struck with\nan urge to catch\n{01 00 00 05 00}{04 1a 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\nBelieve it or not, my ex\nand I used to while away\nentire days{01 00 00 05 00} {07 09 00}fishing{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.",
-   "et": ""
+   "et": "{07 16 00}Äkitselt tabas mind tung\npüüda\n{01 00 00 05 00}{04 1a 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\nUsu või mitte, mu endine ja\nmina veetsime terveid\npäevi{01 00 00 05 00} {07 09 00}kala püüdes{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}."
   },
   {
    "id": 8,
    "en": "{07 1d 00}{01 00 00 0a 00}Really? {01 00 00 0a 00}So you're collecting\nfish, too, {04 1f 00}?\n{01 00 00 0a 00}{0b 03 00}{04 02 00}?\n{01 00 00 0a 00}{07 1b 00}Yeah,{01 00 00 0a 00} I totally agree. {01 00 00 0a 00}It's\none thing to do it and{01 00 00 05 00}\nanother to perfect it.",
-   "et": ""
+   "et": "{07 1d 00}{01 00 00 0a 00}Tõesti? {01 00 00 0a 00}Nii et sa kogud\nkalu, {04 1f 00}?\n{01 00 00 0a 00}{0b 03 00}{04 02 00}?\n{01 00 00 0a 00}{07 1b 00}Jah,{01 00 00 0a 00} olen täiesti nõus. {01 00 00 0a 00}Üks\nasi on seda teha ja{01 00 00 05 00}\nteine see täiuslikuks viia."
   },
   {
    "id": 9,
    "en": "{07 1d 00}{01 00 00 0a 00}Whoa!{01 00 00 0f 00} Look at that! You've\ncollected quite a few fish\nthere, {01 00 00 14 00}{07 14 00}haven't you!\n{01 00 00 0a 00}{07 1b 00}You don't look like it, {01 00 00 0a 00}\nbut you're a DO-er, huh?{01 00 00 0f 00}\nHuh.{01 00 00 0a 00} {07 14 00}Who knew, {01 00 00 05 00}{04 02 00}?",
-   "et": ""
+   "et": "{07 1d 00}{01 00 00 0a 00}Ohoo!{01 00 00 0f 00} Vaata seda! Sa oled\npäris palju kalu\nkogunud, {01 00 00 14 00}{07 14 00}kas pole!\n{01 00 00 0a 00}{07 1b 00}Sa ei näe välja nagu, {01 00 00 0a 00}\naga sa oled TEGIJA, mis?{01 00 00 0f 00}\nAh.{01 00 00 0a 00} {07 14 00}Kes teadis, {01 00 00 05 00}{04 02 00}?"
   },
   {
    "id": 10,
    "en": "{07 1d 00}{01 00 00 0a 00}What!{01 00 00 14 00} Did you catch every\nkind of fish there is,\n{04 1f 00}!?{01 00 00 05 00}\n{07 1a 00}{01 00 00 0a 00}Wow!{01 00 00 14 00} A standing ovation just\npour vous!{01 00 00 0a 00} {07 0a 00}Hee hee! Don't I\nsound so international?",
-   "et": ""
+   "et": "{07 1d 00}{01 00 00 0a 00}Mida!{01 00 00 14 00} Kas sa püüdsid kõik\nkalaliigid, mis olemas on,\n{04 1f 00}!?{01 00 00 05 00}\n{07 1a 00}{01 00 00 0a 00}Ohoo!{01 00 00 14 00} Püstijalu aplaus\npour vous!{01 00 00 0a 00} {07 0a 00}Hihii! Kas ma ei\nkõla väga rahvusvaheliselt?"
   },
   {
    "id": 11,
    "en": "{07 14 00}If you're gonna fish, you're\nbetter off doing it in the\nmorning, that's for sure!\n{07 19 00}That crisp morning air.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\nIt's so refreshing even the\nfish come out to enjoy it!",
-   "et": ""
+   "et": "{07 14 00}Kui sa kala püüad, siis\ntee seda kindlasti\nhommikul!\n{07 19 00}See värske hommikuõhk.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\nSee on nii kosutav, et isegi\nkalad tulevad seda nautima!"
   },
   {
    "id": 12,
    "en": "{07 0e 00}{01 00 00 0a 00}I want to try night fishing\nfor a change, {01 00 00 0a 00}{04 02 00}!\n\n{01 00 00 05 00}{07 13 00}{01 00 00 0a 00}In the darkness of night,\nI'm sure to meet that\nspecial someone!",
-   "et": ""
+   "et": "{07 0e 00}{01 00 00 0a 00}Tahan vahelduseks proovida\nöist kalapüüki, {01 00 00 0a 00}{04 02 00}!\n\n{01 00 00 05 00}{07 13 00}{01 00 00 0a 00}Öö pimeduses kohtan\nkindlasti seda üht\nerilist inimest!"
   },
   {
    "id": 13,
    "en": "{07 14 00}I fancy the twilight hours\nand always have,\n{01 00 00 0a 00}{04 02 00}.\n{01 00 00 05 00}{07 13 00}{01 00 00 0a 00}I always get the feeling\nthat a fisherboy might\ncome up and talk to me.",
-   "et": ""
+   "et": "{07 14 00}Mulle meeldivad hämarad\ntunnid, on alati meeldinud,\n{01 00 00 0a 00}{04 02 00}.\n{01 00 00 05 00}{07 13 00}{01 00 00 0a 00}Mul on alati tunne, et\nmõni kalurpoiss võib tulla\nja minuga rääkida."
   },
   {
    "id": 14,
    "en": "{07 16 00}Fishing this late at night\nmakes my heart race{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n\n{01 00 00 05 00}{07 13 00}{01 00 00 0a 00}It makes me feel like I'm on\nan adventure or something,\n{01 00 00 05 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 16 00}Nii hilja öösel kala püüdes\nlööb mu süda kiiremini{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n\n{01 00 00 05 00}{07 13 00}{01 00 00 0a 00}Tunnen end nagu oleksin\nseiklusel või midagi,\n{01 00 00 05 00}{04 02 00}!"
   },
   {
    "id": 15,
    "en": "{07 00 00}Ahh, {01 00 00 0a 00}it's such a nice day,{01 00 00 05 00} I\nthought I'd try my luck at\nfishing{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 14 00}I wonder if there's a cute\n{0b 02 00}{04 1a 00}\ndown there? {01 00 00 0a 00}{0b 03 00}{04 02 00}?",
-   "et": ""
+   "et": "{07 00 00}Ahh, {01 00 00 0a 00}nii ilus päev,{01 00 00 05 00} mõtlesin\nproovida õnne\nkalapüügiga{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 14 00}Huvitav, kas seal all on\nmõni armas\n{0b 02 00}{04 1a 00}? {01 00 00 0a 00}{0b 03 00}{04 02 00}?"
   },
   {
    "id": 16,
    "en": "{07 16 00}On rainy days,{01 00 00 0a 00} I can't just\nsit at home quietly,\n{01 00 00 0a 00}{04 02 00}.\n{07 09 00}Sitting alone thinking about\nmy exes is just a total\nwaste of time, right?",
-   "et": ""
+   "et": "{07 16 00}Vihmastel päevadel{01 00 00 0a 00} ei suuda\nma lihtsalt vaikselt kodus\nistuda, {01 00 00 0a 00}{04 02 00}.\n{07 09 00}Üksi istuda ja endistele\nmõelda on lihtsalt\najaraisk, eks?"
   },
   {
    "id": 17,
    "en": "{07 19 00}Snowy days are my favorite\ndays to go fishing with\nother people.\n{07 00 00}I just love sitting there,\nthe cold, soft snow falling\non my face{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00}\n{07 0c 00}It doesn't get more\nromantic than that, huh.\n{01 00 00 0a 00}{0b 03 00}{04 02 00}?",
-   "et": ""
+   "et": "{07 19 00}Lumised päevad on mu\nlemmikud, et teistega\nkoos kala püüda.\n{07 00 00}Mulle lihtsalt meeldib seal\nistuda, külm pehme lumi\nnäole sadamas{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00}\n{07 0c 00}Romantilisemaks ei\nlähe, mis.\n{01 00 00 0a 00}{0b 03 00}{04 02 00}?"
   },
   {
    "id": 18,
    "en": "{07 15 00}If you really believe that\nyou'll catch something,\nyou will catch something.\n{07 0e 00}{01 00 00 0a 00}If you go into it with a\nlaid-back approach, you'll\nnever catch anything!\n{07 14 00}Tee hee, it's kinda like love\nin a way, huh, {01 00 00 0a 00}{04 02 00}?\nBut without the lipstick.",
-   "et": ""
+   "et": "{07 15 00}Kui sa tõesti usud, et\npüüad midagi,\nsiis sa püüadki midagi.\n{07 0e 00}{01 00 00 0a 00}Kui lähed sellele lodevalt\nvastu, ei püüa sa\nkunagi midagi!\n{07 14 00}Hihii, see on natuke nagu\narmastus, mis, {01 00 00 0a 00}{04 02 00}?\nAinult ilma huulepulgata."
   },
   {
    "id": 19,
    "en": "{07 15 00}I'd like to catch\n{04 1a 00}, so\ntell me if you see one!\n{07 00 00}One of my goals is to catch{07 05 00}\none{01 00 00 05 00}--no, ten!--of those{01 00 00 05 00}\ntoday, {01 00 00 05 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 15 00}Tahaksin püüda\n{04 1a 00}, nii et\nütle, kui mõne näed!\n{07 00 00}Üks mu eesmärkidest on{07 05 00}\npüüda üht{01 00 00 05 00}--ei, kümmet!--{01 00 00 05 00}\ntäna, {01 00 00 05 00}{04 02 00}!"
   },
   {
    "id": 20,
    "en": "{01 00 00 0a 00}{07 1b 00}The {0b 02 00}{04 1a 00}\nis an elusive beast,\n{04 02 00}!\nI haven't had a\nsingle bite yet{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}!\n\n{07 15 00}That{01 00 00 05 00} just fuels my fire\neven more, {01 00 00 05 00}{04 02 00}!\nI'll show them who's boss!",
-   "et": ""
+   "et": "{01 00 00 0a 00}{07 1b 00}{0b 02 00}{04 1a 00}\non tabamatu elukas,\n{04 02 00}!\nMul pole veel ühtegi\nnäkkamist olnud{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}!\n\n{07 15 00}See{01 00 00 05 00} ainult õhutab mu tuld\nveel rohkem, {01 00 00 05 00}{04 02 00}!\nNäitan neile, kes on boss!"
   }
  ]
 }

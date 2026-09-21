@@ -39,22 +39,22 @@
   {
    "id": 7,
    "en": "      - Notice -\n\nThe Fishing Tourney will\nbegin this coming Sunday!\nTry to catch a big one!",
-   "et": "      - Teade -\n\nKalapüügiturniir algab\ntuleval pühapäeval!\nPüüa mõni suur kala!"
+   "et": "      - Teade -\n\nKalapüügivõistlus algab\ntuleval pühapäeval!\nPüüa mõni suur kala!"
   },
   {
    "id": 8,
    "en": "       - Notice -\nThe Fishing Tourney begins\ntomorrow, and the winner\ngets a sweet trophy!\nGo to bed so you're ready\nfor the big day!",
-   "et": "       - Teade -\nKalapüügiturniir algab\nhomme ja võitja saab\nvahva karika!\nMine magama, et suureks\npäevaks valmis olla!"
+   "et": "       - Teade -\nKalapüügivõistlus algab\nhomme ja võitja saab\nvahva karika!\nMine magama, et suureks\npäevaks valmis olla!"
   },
   {
    "id": 9,
    "en": "     - Notice - \n\nThis Sunday is the long-\nawaited Bug-Off!\nGet buggy with it!",
-   "et": "      - Teade -\n\nSel pühapäeval on\nkaua oodatud putukajaht!\nMine putukatele järele!"
+   "et": "      - Teade -\n\nSel pühapäeval on kaua\noodatud putukavõistlus!\nMine putukatele järele!"
   },
   {
    "id": 10,
    "en": "     - Notice -\n\nTomorrow is the Bug-Off!\nThe person with the\nbiggest bug gets a huge\ntrophy! Get your bug on!",
-   "et": "      - Teade -\n\nHomme on putukajaht!\nSee, kellel on suurim\nputukas, saab hiigelkarika!\nHaara võrk!"
+   "et": "      - Teade -\n\nHomme on putukavõistlus!\nSee, kellel on suurim\nputukas, saab hiigelkarika!\nHaara võrk!"
   },
   {
    "id": 11,
@@ -79,12 +79,12 @@
   {
    "id": 15,
    "en": "      - Notice - \n\nThis Sunday is a very\nspecial day... Yay Day!\nStart thinking up those\ncompliments right now!",
-   "et": "      - Teade -\n\nSel pühapäeval on väga\neriline päev... Jeepäev!\nHakka juba praegu\nkomplimente välja mõtlema!"
+   "et": "      - Teade -\n\nSel pühapäeval on väga\neriline päev... Kiidupäev!\nHakka juba praegu\nkomplimente välja mõtlema!"
   },
   {
    "id": 16,
    "en": "      - Notice -\nTomorrow we celebrate \nkindness and happiness\nwith Yay Day! Break out\nyour best compliments and\nlet the sunshine in!",
-   "et": "      - Teade -\nHomme tähistame lahkust\nja rõõmu jeepäevaga!\nVõta välja oma parimad\nkomplimendid ja lase\npäikesel sisse!"
+   "et": "      - Teade -\nHomme tähistame lahkust\nja rõõmu kiidupäevaga!\nVõta välja oma parimad\nkomplimendid ja lase\npäikesel sisse!"
   },
   {
    "id": 17,
@@ -129,17 +129,17 @@
   {
    "id": 25,
    "en": " - Bright Nights Notice -\nBright Nights will start\nnext Monday! Who will\nwin the treasured crown\nof best light decorator?",
-   "et": "  - Säravate Ööde teade -\nSäravad Ööd algavad\ntuleval esmaspäeval! Kes\nvõidab hinnatud krooni\nparima kaunistaja eest?"
+   "et": "  - valgusööde teade -\nvalgusööd algavad\ntuleval esmaspäeval! Kes\nvõidab hinnatud krooni\nparima kaunistaja eest?"
   },
   {
    "id": 26,
    "en": " - Bright Nights Notice -\nBright Nights will start\ntomorrow! TOMORROW!\nGet ready to decorate\nthose houses! C'mon,\ndo it! DO IT!",
-   "et": "  - Säravate Ööde teade -\nSäravad Ööd algavad\nhomme! HOMME!\nValmistu maju\nkaunistama! Tule,\ntee seda! TEE SEDA!"
+   "et": "  - valgusööde teade -\nvalgusööd algavad\nhomme! HOMME!\nValmistu maju\nkaunistama! Tule,\ntee seda! TEE SEDA!"
   },
   {
    "id": 27,
    "en": " - Bright Nights Notice -\n\nBright Nights will continue\nthrough next Monday!!\n...Only with FUN can we\nsurvive the harsh winter!",
-   "et": "  - Säravate Ööde teade -\n\nSäravad Ööd kestavad\ntuleva esmaspäevani!!\n...Ainult LÕBUGA elame\nkarmi talve üle!"
+   "et": "  - valgusööde teade -\n\nvalgusööd kestavad\ntuleva esmaspäevani!!\n...Ainult LÕBUGA elame\nkarmi talve üle!"
   },
   {
    "id": 28,

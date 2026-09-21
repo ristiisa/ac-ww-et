@@ -4,17 +4,17 @@
   {
    "id": 0,
    "en": "{07 00 00}Still no sign of that ol'\n{0b 02 00}{04 1a 00},\nhuh, {01 00 00 05 00}{04 1f 00}?\nYou're not alone. {07 1c 00}I'm having\nno luck whatsoever.",
-   "et": ""
+   "et": "{07 00 00}Ikka pole märkigi sellest\n{0b 02 00}{04 1a 00},\nmis, {01 00 00 05 00}{04 1f 00}?\nSa pole üksi. {07 1c 00}Mul ei vea\nmitte kuidagi."
   },
   {
    "id": 1,
    "en": "{07 04 00}{0b 03 00}{04 1f 00}! What are you\ndoing here? {01 00 00 0f 00}{07 0b 00}Don't you have\nbetter things to do?\n{07 06 00}You'd better hope you catch\n{04 1a 00}\nbefore I do, {01 00 00 05 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 04 00}{0b 03 00}{04 1f 00}! Mida sa siin\nteed? {01 00 00 0f 00}{07 0b 00}Kas sul pole\nparemat teha?\n{07 06 00}Loodetavasti püüad sa\n{04 1a 00}\nenne mind, {01 00 00 05 00}{04 02 00}!"
   },
   {
    "id": 2,
    "en": "{07 1c 00}Things aren't going so hot\nright now, {01 00 00 05 00}{04 02 00}.\n\n{07 16 00}I thought it'd be a lot\neasier to track down\n{04 1a 00}!",
-   "et": ""
+   "et": "{07 1c 00}Asjad ei lähe praegu\neriti hästi, {01 00 00 05 00}{04 02 00}.\n\n{07 16 00}Ma arvasin, et palju\nlihtsam on üles leida\n{04 1a 00}!"
   }
  ]
 }

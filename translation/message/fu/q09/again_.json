@@ -4,17 +4,17 @@
   {
    "id": 0,
    "en": "{07 00 00}Oh, sorry, {01 00 00 05 00}{04 1f 00},{01 00 00 05 00} but \nit's too late to play\ntonight.{01 00 00 0a 00} {07 07 00}The dark is scary!\n{07 00 00}{07 14 00}But we'll play a game of\nhide-and-seek really soon!{01 01 00}\nI promise, {04 02 00}!",
-   "et": ""
+   "et": "{07 00 00}Oh, vabandust, {01 00 00 05 00}{04 1f 00}.{01 00 00 05 00} \nMängimiseks on täna õhtul\nliiga hilja.{01 00 00 0a 00} {07 07 00}Pime on hirmus!\n{07 00 00}{07 14 00}Aga me mängime peitust\nväga varsti!{01 01 00}\nMa luban, {04 02 00}!"
   },
   {
    "id": 1,
    "en": "{07 00 00}Hi, {01 00 00 05 00}{04 1f 00}!{01 00 00 0a 00} {07 0b 00}You want to\nplay hide-and-seek,\n{01 00 00 05 00}{04 02 00}?\n{07 00 00}{07 0e 00}Well, I don't know. It's kind\nof dark{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} I don't think we'd\nfind much of anything.\n{07 14 00}But maybe some other time!{01 00 00 05 00}\nWe'll try when it's bright\nout, {01 00 00 05 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 00 00}Tere, {01 00 00 05 00}{04 1f 00}!{01 00 00 0a 00} {07 0b 00}Kas sa\ntahad peitust mängida,\n{01 00 00 05 00}{04 02 00}?\n{07 00 00}{07 0e 00}Noh, ma ei tea. On üsna\npime{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} Ma ei arva, et me\nmidagi leiaksime.\n{07 14 00}Aga ehk mõni teine kord!{01 00 00 05 00}\nProovime, kui väljas on\nvalge, {01 00 00 05 00}{04 02 00}!"
   },
   {
    "id": 2,
    "en": "{07 00 00}Hi, {01 00 00 05 00}{04 1f 00}{01 00 00 0a 00}! Um, when\nyou have time,{07 0b 00} can we play\nhide-and-seek?\n{07 14 00}I really like hide-and-seek,\n{01 00 00 05 00}{04 02 00}! Especially\nthe hiding part!\n{07 00 00}Of course, it's way to dark\nright now.{01 00 00 05 00} {07 03 00}I'd fall in a pit\nor something!\n{07 00 00}{07 14 00}But let's do it the next\nchance we get!{01 00 00 05 00} As long as\nit's sunny, {01 00 00 05 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 00 00}Tere, {01 00 00 05 00}{04 1f 00}{01 00 00 0a 00}! Ee, kui\nsul on aega,{07 0b 00} kas me saame\npeitust mängida?\n{07 14 00}Mulle meeldib peitus väga,\n{01 00 00 05 00}{04 02 00}! Eriti\npeitmise osa!\n{07 00 00}Muidugi on praegu palju\nliiga pime.{01 00 00 05 00} {07 03 00}Ma kukuksin auku\nvõi midagi!\n{07 00 00}{07 14 00}Aga teeme seda esimesel\nvõimalusel!{01 00 00 05 00} Kui ainult on\npäikseline, {01 00 00 05 00}{04 02 00}!"
   }
  ]
 }

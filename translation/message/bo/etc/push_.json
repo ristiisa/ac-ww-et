@@ -4,27 +4,27 @@
   {
    "id": 0,
    "en": "{07 15 00}{0b 03 00}{04 1f 00}! That is not\ncool! Just quit pushing me\nalready,{01 00 00 0a 00} {04 02 00}.",
-   "et": ""
+   "et": "{07 15 00}{0b 03 00}{04 1f 00}! See pole\nlahe! Lõpeta juba minu\ntõukamine,{01 00 00 0a 00} {04 02 00}."
   },
   {
    "id": 1,
    "en": "{07 01 00}C'mon!{01 00 00 0a 00} You know I hate\nthat!{01 00 00 14 00} Why do you have\nto be so mean to me?!",
-   "et": ""
+   "et": "{07 01 00}Kuule!{01 00 00 0a 00} Sa tead, et ma\nvihkan seda!{01 00 00 14 00} Miks sa pead\nminuga nii õel olema?!"
   },
   {
    "id": 2,
    "en": "{07 01 00}Hey! {01 00 00 0a 00}I never agreed to\nwrestle with you, so cut it\nout,{01 00 00 0a 00} {04 02 00}!",
-   "et": ""
+   "et": "{07 01 00}Hei! {01 00 00 0a 00}Ma pole kunagi nõus\nolnud sinuga maadlema, nii\net lõpeta,{01 00 00 0a 00} {04 02 00}!"
   },
   {
    "id": 3,
    "en": "{07 16 00}I'm not a snowball, so quit\npushing me around,{01 00 00 0a 00}\n{04 02 00}. {01 00 00 0a 00}Sheesh!",
-   "et": ""
+   "et": "{07 16 00}Ma pole lumepall, nii et\nära tõuka mind ringi,{01 00 00 0a 00}\n{04 02 00}. {01 00 00 0a 00}Issand!"
   },
   {
    "id": 4,
    "en": "{07 01 00}Dude, you gotta lay off the\ncoffee. {01 00 00 0a 00}It's making you\nsuper aggro, {01 00 00 0a 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 01 00}Semu, jäta kohv järele.\n{01 00 00 0a 00}See teeb sind ülemäära\nagressiivseks, {01 00 00 0a 00}{04 02 00}!"
   }
  ]
 }

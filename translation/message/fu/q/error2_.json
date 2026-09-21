@@ -4,12 +4,12 @@
   {
    "id": 0,
    "en": "{07 1d 00}Whoa, hey! No, no, no!{01 00 00 0a 00}\n{07 16 00}It's way too late for this\nright now, {01 00 00 05 00}{04 02 00}!\n{07 06 00}Maybe another time. Say{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.a\nmore appropriate time?",
-   "et": ""
+   "et": "{07 1d 00}Ohoo, hei! Ei, ei, ei!{01 00 00 0a 00}\n{07 16 00}Praegu on selleks juba\npalju liiga hilja, {01 00 00 05 00}{04 02 00}!\n{07 06 00}Ehk teinekord. Ütleme{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\nsobivamal ajal?"
   },
   {
    "id": 1,
    "en": "{07 04 00}What? Now? Are you serious?\n\n\n{07 16 00}No, sorry, but this just\ndoesn't work for me. Sorry,\nanother time, {01 00 00 05 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 04 00}Mida? Nüüd? Kas tõsiselt?\n\n\n{07 16 00}Ei, vabandust, aga see ei\nsobi mulle. Vabandust,\nmõni teine kord, {01 00 00 05 00}{04 02 00}!"
   }
  ]
 }

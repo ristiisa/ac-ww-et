@@ -4,17 +4,17 @@
   {
    "id": 0,
    "en": "{07 1d 00}{0b 03 00}{04 1a 00}!{01 00 00 14 00}\nYou{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00} {07 0d 00}You have solid taste,\n{04 02 00}!\nI can sell that to you for\n{04 12 00} Bells!{02 04 00 ff ff}\nI'll bite.\nNo thanks.",
-   "et": ""
+   "et": "{07 1d 00}{0b 03 00}{04 1a 00}!{01 00 00 14 00}\nSul{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00} {07 0d 00}Sul on hea maitse,\n{04 02 00}!\nMa võin selle sulle müüa\n{04 12 00} kellukese eest!{02 04 00 ff ff}\nOlgu.\nEi, aitäh."
   },
   {
    "id": 1,
    "en": "{07 14 00}{0b 03 00}{04 1a 00}...{01 01 00}\n{07 00 00}All right, all right...{01 00 00 05 00}\nYou look kinda broke{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n{07 14 00}Tell you what! {01 00 00 05 00}I'll sell it to\nyou for {04 12 00} Bells!{02 04 00 ff ff}\nDeal!\nI'll pass.",
-   "et": ""
+   "et": "{07 14 00}{0b 03 00}{04 1a 00}...{01 01 00}\n{07 00 00}Hea küll, hea küll...{01 00 00 05 00}\nSa paistad üsna vaene{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n{07 14 00}Tead mis! {01 00 00 05 00}Müün selle sulle\n{04 12 00} kelluka eest!{02 04 00 ff ff}\nKäsi peale!\nJätan vahele."
   },
   {
    "id": 2,
    "en": "{07 04 00}{0b 03 00}{04 1a 00}!{01 01 00}\n{07 14 00}How's this? {01 00 00 05 00}I'll drop the\nprice to {04 12 00} Bells!{02 04 00 ff ff}\nOK!\nNah.",
-   "et": ""
+   "et": "{07 04 00}{0b 03 00}{04 1a 00}!{01 01 00}\n{07 14 00}Kuidas oleks? {01 00 00 05 00}Ma langetan\nhinna {04 12 00} kellukale!{02 04 00 ff ff}\nOlgu!\nEi."
   }
  ]
 }

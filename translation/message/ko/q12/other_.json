@@ -4,17 +4,17 @@
   {
    "id": 0,
    "en": "{07 15 00}Hey,{01 00 00 05 00} you had no idea that\nI was sick, huh?\nEh, {01 00 00 05 00}{04 02 00}???\n{07 16 00}There I was, laying in bed,\nagonizing while some stupid\ncold clobbered me silly.\n{07 06 00}But I'm all better now\nthanks to the {ff 00 00 07}medicine{ff 00 00 00}\n{ff 00 00 05}{04 10 00}{ff 00 00 00} brought me!\n{07 01 00}But you{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} You had no idea\nI was sick. {01 00 00 05 00}I'm sure it was\nan honest mistake.",
-   "et": ""
+   "et": "{07 15 00}Hei,{01 00 00 05 00} sul polnud aimugi, et\nma olin haige, mis?\nMis, {01 00 00 05 00}{04 02 00}???\n{07 16 00}Seal ma lamasin voodis ja\npiinlesin, kuni mingi rumal\nkülmetus mind kolkis.\n{07 06 00}Aga nüüd olen terve tänu\n{ff 00 00 07}rohule{ff 00 00 00}, mille\n{ff 00 00 05}{04 10 00}{ff 00 00 00} mulle tõi!\n{07 01 00}Aga sina{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} Sul polnud\naimugi. {01 00 00 05 00}Küllap oli see\naus eksitus."
   },
   {
    "id": 1,
    "en": "{07 00 00}I was violently sick for\na while.{01 00 00 05 00} I never knew my\nbody could do...what it did.\n{07 16 00}But because {ff 00 00 05}{04 10 00} \n{ff 00 00 00}took such good care of me,{01 00 00 05 00}\nI was able to recover.\n{07 07 00}It was pretty touch and go\nthere for a while{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n\n{07 14 00}But, {01 00 00 05 00}then again, you had no\nidea,{01 00 00 0f 00} did you?\n\n{07 01 00}{01 08 00}DID YOU, {01 00 00 05 00}{04 02 00}?!",
-   "et": ""
+   "et": "{07 00 00}Ma olin tükk aega\nränkhaige.{01 00 00 05 00} Ma ei teadnud, et\nmu keha seda teha oskab.\n{07 16 00}Aga kuna {ff 00 00 05}{04 10 00}\n{ff 00 00 00}hoolitses minu eest nii,{01 00 00 05 00}\nsuutsin ma paraneda.\n{07 07 00}Mõnda aega oli seis\npäris kriitiline{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n\n{07 14 00}Aga {01 00 00 05 00}sul polnud sellest\naimugi,{01 00 00 0f 00} ega ju?\n\n{07 01 00}{01 08 00}EGA JU, {01 00 00 05 00}{04 02 00}?!"
   },
   {
    "id": 2,
    "en": "{07 16 00}Man, {01 00 00 05 00}that was the worst!\n{01 00 00 05 00}{0b 03 00}{04 02 00}!\n\n{07 00 00}So, I caught the flu in the\nworst way.\n\nYou know, I write the names\nof people who do nice\nthings for me on a list.\n{07 19 00}Like{ff 00 00 05} {04 10 00}{ff 00 00 00}, for\nexample. {01 00 00 05 00}That kid's even\ngot a gold star{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 04 00}Oh, my!{01 00 00 0f 00} What's this?{01 01 00}\n{07 06 00}Next to your name is a\nskull and crossbones!",
-   "et": ""
+   "et": "{07 16 00}Poiss, {01 00 00 05 00}see oli kõige hullem!\n{01 00 00 05 00}{0b 03 00}{04 02 00}!\n\n{07 00 00}Nii et ma sain gripi\nkõige hullemal moel.\n\nTead, ma kirjutan nimekirja\nnende nimed, kes minu heaks\nmidagi head teevad.\n{07 19 00}Näiteks{ff 00 00 05} {04 10 00}{ff 00 00 00}. {01 00 00 05 00}Sellel\nlapsel on isegi\nkuldtäht{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 04 00}Oh sa!{01 00 00 0f 00} Mis see on?{01 01 00}\n{07 06 00}Sinu nime kõrval on\npealuu ja kondid!"
   }
  ]
 }

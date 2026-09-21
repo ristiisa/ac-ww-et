@@ -4,57 +4,57 @@
   {
    "id": 0,
    "en": "{06 04 00 03 04 05 06}",
-   "et": ""
+   "et": "{06 04 00 03 04 05 06}"
   },
   {
    "id": 1,
    "en": "{06 04 00 07 08 09 0a}",
-   "et": ""
+   "et": "{06 04 00 07 08 09 0a}"
   },
   {
    "id": 2,
    "en": "{07 0e 00}{01 00 00 0a 00}Don't you think you could\nmake your house a little\nmore.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 14 00}{07 0b 00}{01 00 00 05 00}{04 14 00}?\n{07 14 00}Well,{01 00 00 05 00} that's just me forcing\nmy opinion! Huh huh huh!",
-   "et": ""
+   "et": "{07 0e 00}{01 00 00 0a 00}Kas sa ei arva, et võiksid\noma maja teha natuke\nrohkem.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 14 00}{07 0b 00}{01 00 00 05 00}{04 14 00}?\n{07 14 00}Noh,{01 00 00 05 00} see on lihtsalt minu\narvamus! Hah hah haa!"
   },
   {
    "id": 3,
    "en": "{07 16 00}Umm, I'm sorry to say it{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00}\nBut your house is\nridiculously small.{01 00 00 0a 00}\n{01 00 00 0a 00}{07 1b 00}{01 00 00 05 00}But you're kinda shrimpy,\ntoo, so I guess it's all\nfor the best,{01 00 00 0a 00} {04 02 00}.",
-   "et": ""
+   "et": "{07 16 00}Ee, kahju seda öelda{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00}\naga sinu maja on\nnaeruväärselt väike.{01 00 00 0a 00}\n{01 00 00 0a 00}{07 1b 00}{01 00 00 05 00}Aga sa oled ka üsna\nkribu, nii et vist ongi\nkõige parem,{01 00 00 0a 00} {04 02 00}."
   },
   {
    "id": 4,
    "en": "{07 14 00}Huh huh huh.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00} Your house is\nlookin' bigger than it used\nto. Nice.\n{07 11 00}{01 00 00 05 00}That means you have more\nspace to hide the stuff you\ndon't want people to see.\n{07 19 00}That's my preferred way of\ncleaning for sure! Just\nstuff it in another room!",
-   "et": ""
+   "et": "{07 14 00}Hah hah haa.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00} Sinu maja\nnäeb suurem välja kui\nvarem. Kena.\n{07 11 00}{01 00 00 05 00}See tähendab, et sul on\nrohkem ruumi peita asju,\nmida sa näidata ei taha.\n{07 19 00}See on kindlasti minu\nlemmikviis koristada! Topi\nlihtsalt teise tuppa!"
   },
   {
    "id": 5,
    "en": "{07 14 00}Oh,{01 00 00 0a 00} say, did you add\nanother floor onto your\nhouse?\n{07 13 00}{01 00 00 0a 00}That's sooo cool{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0f 00} I want a\nhobby room, too,{01 00 00 0a 00}\n{04 02 00}.",
-   "et": ""
+   "et": "{07 14 00}Oi,{01 00 00 0a 00} kuule, kas sa lisasid\noma majale veel ühe\nkorruse?\n{07 13 00}{01 00 00 0a 00}See on nii lahe{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0f 00} Tahaksin\nka hobituba,{01 00 00 0a 00}\n{04 02 00}."
   },
   {
    "id": 6,
    "en": "{07 14 00}Hey, {04 1f 00},{01 00 00 0a 00} your\nhouse is soo big now,\n{01 00 00 05 00}{04 02 00}!\n{07 0d 00}{01 00 00 0a 00}It's pretty posh{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00} With so\nmany rooms, everyone in\ntown could live there!",
-   "et": ""
+   "et": "{07 14 00}Hei, {04 1f 00},{01 00 00 0a 00} su maja\non nüüd nii suur,\n{01 00 00 05 00}{04 02 00}!\n{07 0d 00}{01 00 00 0a 00}Päris uhke{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00} Nii paljude\ntubadega mahuks sinna\nterve linn elama!"
   },
   {
    "id": 7,
    "en": "{07 16 00}Guess what, {04 1f 00}?\n{07 15 00}{0b 03 00}{04 0b 00} has a friend{01 00 00 05 00}\nwho lives in a mansion!\n{07 01 00}{01 00 00 0a 00}I'm like you, though.{01 00 00 0a 00} I think\ntiny little shacks are way\ncooler!",
-   "et": ""
+   "et": "{07 16 00}Tead mis, {04 1f 00}?\n{07 15 00}{0b 03 00}{04 0b 00} sõber{01 00 00 05 00}\nelab mõisas!\n{07 01 00}{01 00 00 0a 00}Mina olen nagu sina.{01 00 00 0a 00} Minu\nmeelest on pisikesed onnid\npalju lahedamad!"
   },
   {
    "id": 8,
    "en": "{07 0b 00}{01 00 00 05 00}Is it just me,{01 00 00 05 00} or is your\nhouse bigger than it was?{01 00 00 05 00}\n\n{07 0e 00}{01 00 00 0a 00}Or{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}is it just an optical\nillusion,{01 00 00 05 00} {04 02 00}?",
-   "et": ""
+   "et": "{07 0b 00}{01 00 00 05 00}Kas see on ainult mulle,{01 00 00 05 00} või\non su maja suurem kui oli?{01 00 00 05 00}\n\n{07 0e 00}{01 00 00 0a 00}Või{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}on see lihtsalt\nsilmapete,{01 00 00 05 00} {04 02 00}?"
   },
   {
    "id": 9,
    "en": "{07 14 00}Huh huh huh! I saw that\nyour house has a second\nstory now, {04 1f 00}!\n{07 0e 00}{01 00 00 0a 00}It's nice, 'cause getting\ntaller when your place\nstays the same size{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 00 00}is like cramming too much\ndough in the oven when you\nmake bread. {07 0f 00}{01 00 00 0a 00}A tragedy.",
-   "et": ""
+   "et": "{07 14 00}Hah hah haa! Nägin, et sul\non nüüd majal teine\nkorrus, {04 1f 00}!\n{07 0e 00}{01 00 00 0a 00}See on kena, sest kui ise\nkasvad, aga maja jääb\nsamaks{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 00 00}on see nagu topiksid ahju\nliiga palju tainast, kui\nleiba teed. {07 0f 00}{01 00 00 0a 00}Tragöödia."
   },
   {
    "id": 10,
    "en": "{07 0e 00}{01 00 00 0a 00}So{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00} I wonder how many\npeople can fit in there{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n\n{07 04 00}Huh? {01 00 00 14 00}{07 00 00}I'm talking about your\nhouse!{01 01 00} {07 14 00}Isn't it totally huge\nnow? That's what I heard!\n{07 0d 00}I bet you could have a\ndinner party{01 00 00 0a 00} with a million\npeople, {01 00 00 0a 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 0e 00}{01 00 00 0a 00}Nii{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00} Huvitav, mitu\ninimest sinna ära mahub{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n\n{07 04 00}Ah? {01 00 00 14 00}{07 00 00}Ma räägin sinu\nmajast!{01 01 00} {07 14 00}Kas see pole nüüd\nhiiglaslik? Nii ma kuulsin!\n{07 0d 00}Vean kihla, et saaks pidada\nõhtusöögi{01 00 00 0a 00} miljoni\ninimesega, {01 00 00 0a 00}{04 02 00}!"
   }
  ]
 }

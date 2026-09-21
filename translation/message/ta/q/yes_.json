@@ -4,17 +4,17 @@
   {
    "id": 0,
    "en": "{07 00 00}OK, {04 1f 00}!{01 00 00 14 00} I'm\ncounting on you, so you\nbetter not mess up!\n{07 14 00}Please deliver it soon,\n{01 00 00 0a 00}{04 02 00}.",
-   "et": ""
+   "et": "{07 00 00}Olgu, {04 1f 00}!{01 00 00 14 00} Ma loodan\nsinu peale, nii et ära\naja asja untsu!\n{07 14 00}Palun vii see ruttu kohale,\n{01 00 00 0a 00}{04 02 00}."
   },
   {
    "id": 1,
    "en": "{07 00 00}OK then.{01 01 00} {07 14 00}Please take care, \n{01 00 00 0a 00}{04 02 00}.",
-   "et": ""
+   "et": "{07 00 00}Olgu siis.{01 01 00} {07 14 00}Hoia end,\n{01 00 00 0a 00}{04 02 00}."
   },
   {
    "id": 2,
    "en": "{07 00 00}Good answer!{01 01 00} {07 14 00}I knew you'd\nsay yes, {01 00 00 0a 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 00 00}Hea vastus!{01 01 00} {07 14 00}Ma teadsin, et\nsa ütled jah, {01 00 00 0a 00}{04 02 00}!"
   }
  ]
 }

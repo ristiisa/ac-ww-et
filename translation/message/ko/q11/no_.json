@@ -4,17 +4,17 @@
   {
    "id": 0,
    "en": "{07 15 00}WHAT?!{01 00 00 0a 00} FINE! {01 00 00 05 00}If that's how\nyou're gonna be, {01 00 00 05 00}then JUST\nFORGET IT, {01 00 00 05 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 15 00}MIDA?!{01 00 00 0a 00} HEA KÜLL! {01 00 00 05 00}Kui sa nii\ntahad, {01 00 00 05 00}siis UNUSTA\nKOGU ASI, {01 00 00 05 00}{04 02 00}!"
   },
   {
    "id": 1,
    "en": "{07 16 00}Huh?{01 00 00 0f 00} Aw, I ruined the deal!{01 00 00 0f 00}\n{07 0f 00}I musta been looking at my\nfeet or something.",
-   "et": ""
+   "et": "{07 16 00}Ah?{01 00 00 0f 00} Rikkusin tehingu ära!{01 00 00 0f 00}\n{07 0f 00}Ma vaatasin vist oma\njalgu või midagi."
   },
   {
    "id": 2,
    "en": "{07 16 00}GAAAHH!{01 00 00 0f 00} {07 00 00}{07 05 00}You makin' a FOOL\noutta me?{01 00 00 0f 00} You playin' me\nfor a SAP, {01 00 00 05 00}{04 02 00}?!",
-   "et": ""
+   "et": "{07 16 00}GAAAH!{01 00 00 0f 00} {07 00 00}{07 05 00}Kas sa teed minust\nLOLLI?{01 00 00 0f 00} Kas sa pead mind\nLOLLAKAKS, {01 00 00 05 00}{04 02 00}?!"
   }
  ]
 }

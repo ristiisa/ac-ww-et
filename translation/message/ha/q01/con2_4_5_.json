@@ -4,17 +4,17 @@
   {
    "id": 0,
    "en": "{07 16 00}I still can't catch a stupid{01 00 00 0a 00}\n{0b 02 00}{04 1a 00}!\n\n{07 0f 00}Even if I find one, it just\nruns away like a wimp{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n\n{07 06 00}This is just killing me!{01 00 00 14 00}\nI've never felt less manly,\n{01 00 00 05 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 16 00}Ma ei suuda ikka püüda{01 00 00 0a 00}\n{0b 02 00}{04 1a 00}!\n\n{07 0f 00}Isegi kui ma ühe leian,\njookseb see nõrgana ära{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n\n{07 06 00}See lihtsalt tapab mu!{01 00 00 14 00}\nMa pole kunagi tundnud end\nnii vähe mehena, {01 00 00 05 00}{04 02 00}!"
   },
   {
    "id": 1,
    "en": "{07 00 00}Hey, did you already catch\n{07 0b 00}{04 1a 00}?\n\nNo matter where I look, I\njust can't find one of\nthose things{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\nHey, you think that jerk,\n{04 0c 00}, caught every\nlast one?",
-   "et": ""
+   "et": "{07 00 00}Hei, kas sa juba püüdsid\n{07 0b 00}{04 1a 00}?\n\nÜkskõik kust ma vaatan, ma\nlihtsalt ei leia ühtegi\nneist asjadest{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\nHei, kas sa arvad, et see\ntobu {04 0c 00} püüdis kõik\nviimseni ära?"
   },
   {
    "id": 2,
    "en": "{07 10 00}It's impossible to find\n{04 1a 00}\nanywhere, {01 00 00 05 00}{04 02 00}!\n{07 15 00}Wait, what's up with you?{01 00 00 05 00}\nWhat's with that smug face?{01 01 00}\nIt can't be{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.\n{07 04 00}Have you? Have you really?{01 00 00 05 00}\nIs it even possible?{01 00 00 05 00}\nReally, {01 00 00 05 00}{04 02 00}?",
-   "et": ""
+   "et": "{07 10 00}Võimatu on kuskilt leida\n{04 1a 00},\n{01 00 00 05 00}{04 02 00}!\n{07 15 00}Oota, mis sinuga on?{01 00 00 05 00}\nMis see rahulolev nägu on?{01 01 00}\nEi saa olla{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.\n{07 04 00}Kas oled? Kas tõesti?{01 00 00 05 00}\nKas see on üldse võimalik?{01 00 00 05 00}\nTõesti, {01 00 00 05 00}{04 02 00}?"
   }
  ]
 }

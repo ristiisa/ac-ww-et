@@ -4,17 +4,17 @@
   {
    "id": 0,
    "en": "{07 00 00}Huh?{01 00 00 14 00}\n{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00}{0b 03 00}{04 1a 00}?\n\nI guess someone's telling\nme I need to change up my\nstyle, {01 00 00 0a 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 00 00}Ah?{01 00 00 14 00}\n{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00}{0b 03 00}{04 1a 00}?\n\nVist tahab keegi öelda,\net pean oma stiili\nmuutma, {01 00 00 0a 00}{04 02 00}!"
   },
   {
    "id": 1,
    "en": "{01 00 00 14 00}{07 00 00}Oh,{01 00 00 14 00} is that\n{04 1a 00}?\nThey're all the rage now.\n{0b 03 00}{ff 00 00 06}{04 0f 00}{ff 00 00 00} is so\ntransparent,{01 00 00 0a 00} {04 02 00}.",
-   "et": ""
+   "et": "{01 00 00 14 00}{07 00 00}Oh,{01 00 00 14 00} kas see on\n{04 1a 00}?\nNeed on nüüd moes.\n{0b 03 00}{ff 00 00 06}{04 0f 00}{ff 00 00 00} on nii\nläbinähtav,{01 00 00 0a 00} {04 02 00}."
   },
   {
    "id": 2,
    "en": "{01 00 00 14 00}{07 00 00}Hmmm.{01 00 00 0a 00} Isn't that\n{04 1a 00}?\n\n{07 00 00}I had no idea {ff 00 00 06}{04 0f 00}\n{ff 00 00 00}was even into this sort\nof thing,{01 00 00 0a 00} {04 02 00}.",
-   "et": ""
+   "et": "{01 00 00 14 00}{07 00 00}Hmmm.{01 00 00 0a 00} Kas see pole\n{04 1a 00}?\n\n{07 00 00}Mul polnud aimugi, et\n{ff 00 00 06}{04 0f 00}{ff 00 00 00} üldse selliseid\nasju armastab,{01 00 00 0a 00} {04 02 00}."
   }
  ]
 }

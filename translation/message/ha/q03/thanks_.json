@@ -4,17 +4,17 @@
   {
    "id": 0,
    "en": "Ah! {01 00 00 0a 00}Is that{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} Could it be{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n{07 06 00}{0b 03 00}{04 1a 00}?{01 00 00 05 00}\nIt is! {01 00 00 05 00}It really is!\nFor me?{01 00 00 14 00} YESSSS!{01 00 00 05 00} Thank you,\n{01 00 00 05 00}{04 02 00}!\n\nRight on!{01 00 00 14 00} I'll give you\nsomething rad{01 00 00 05 00} in exchange,\n{01 00 00 05 00}{04 02 00}!",
-   "et": ""
+   "et": "Ah! {01 00 00 0a 00}Kas see{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} Kas tõesti{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n{07 06 00}{0b 03 00}{04 1a 00}?{01 00 00 05 00}\nOn! {01 00 00 05 00}Päriselt on!\nMulle?{01 00 00 14 00} JAAAA!{01 00 00 05 00} Aitäh,\n{01 00 00 05 00}{04 02 00}!\n\nTäpselt!{01 00 00 14 00} Ma annan sulle\nmidagi vinget{01 00 00 05 00} vastutasuks,\n{01 00 00 05 00}{04 02 00}!"
   },
   {
    "id": 1,
    "en": "Yo, hold up!{01 00 00 0a 00} Could this be...{01 00 00 05 00}\n{04 1a 00}?\n\nWhat?{01 00 00 0a 00} You got it just for\nlittle old me?{01 01 00}\nWhoa!{01 00 00 05 00} Thanks!\nYou KNOW I'm gonna accept\nthat gift, {01 00 00 05 00}{04 02 00}!\n\n.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}Oh, {01 00 00 05 00}but{01 00 00 0a 00} I oughta thank\nyou somehow, {01 00 00 05 00}{04 02 00}...",
-   "et": ""
+   "et": "Jou, oota!{01 00 00 0a 00} Kas see on...{01 00 00 05 00}\n{04 1a 00}?\n\nMida?{01 00 00 0a 00} Sa said selle\nlihtsalt minu jaoks?{01 01 00}\nOhoo!{01 00 00 05 00} Aitäh!\nSa TEAD, et ma võtan selle\nkingi vastu, {01 00 00 05 00}{04 02 00}!\n\n.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}Oh, {01 00 00 05 00}aga{01 00 00 0a 00} ma peaksin\nsind tänama, {01 00 00 05 00}{04 02 00}..."
   },
   {
    "id": 2,
    "en": "Whoa!{01 00 00 0a 00} You gotta be kidding!{01 00 00 05 00}\n{0b 03 00}{ff 00 00 07}{04 1a 00}{ff 00 00 00}!{01 00 00 14 00}\nYou're gonna give it to me?\nOh, man, THANK YOU!{01 00 00 0a 00}\nYou better not change your\nmind tomorrow!\nSweet!{01 00 00 14 00} OK, hold your hands\nout{01 00 00 0a 00} and I'll give you a\nreward, {01 00 00 05 00}{04 02 00}!",
-   "et": ""
+   "et": "Ohoo!{01 00 00 0a 00} Sa teed nalja!{01 00 00 05 00}\n{0b 03 00}{ff 00 00 07}{04 1a 00}{ff 00 00 00}!{01 00 00 14 00}\nSa annad selle mulle?\nOh mees, AITÄH!{01 00 00 0a 00}\nÄra ainult homme meelt\nmuuda!\nVinge!{01 00 00 14 00} Olgu, siruta käed\nvälja{01 00 00 0a 00} ja ma annan sulle\ntasu, {01 00 00 05 00}{04 02 00}!"
   }
  ]
 }

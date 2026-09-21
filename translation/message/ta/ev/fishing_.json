@@ -4,77 +4,77 @@
   {
    "id": 0,
    "en": "{07 14 00}Hey, {01 00 00 05 00}{04 1f 00}!{01 00 00 0a 00} Today's\nthe big{ff 00 00 03} Fishing Tourney{ff 00 00 00}!{01 00 00 0a 00}\nAnd I'm warning you.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n{07 15 00}I'm gonna win this time, so\nyou better just back the\nHECK up, {01 00 00 0a 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 14 00}Hei, {01 00 00 05 00}{04 1f 00}!{01 00 00 0a 00} Täna on\nsuur{ff 00 00 03} kalapüügivõistlus{ff 00 00 00}!{01 00 00 0a 00}\nJa ma hoiatan sind.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n{07 15 00}Ma võidan seekord, nii et\nsa parem astu\nEEMALE, {01 00 00 0a 00}{04 02 00}!"
   },
   {
    "id": 1,
    "en": "Tee hee HEE hee! Today's\nthe big {ff 00 00 03}Fishing Tourney{ff 00 00 00},\n{01 00 00 0a 00}{04 02 00}!\n{07 14 00}I'm gonna play it at my \nown pace, like I always do,\n{01 00 00 05 00}{04 02 00}!\n{07 1b 00}But you go and give it\nyour all. {01 00 00 0a 00}You gotta if you\nwanna keep up with me!",
-   "et": ""
+   "et": "Hihi HIHI hii! Täna on\nsuur {ff 00 00 03}kalapüügivõistlus{ff 00 00 00},\n{01 00 00 0a 00}{04 02 00}!\n{07 14 00}Ma teen seda omas\ntempos, nagu alati,\n{01 00 00 05 00}{04 02 00}!\n{07 1b 00}Aga sina anna endast\nkõik. {01 00 00 0a 00}Pead ju, kui tahad\nminuga sammu pidada!"
   },
   {
    "id": 2,
    "en": "{07 14 00}Today is the day of the\n{ff 00 00 03}Fishing Tourney{ff 00 00 00}!\n\n{07 09 00}It's a tragedy that I, of all\npeople, should have to fish\nall alone out there!{07 15 00}{ff 00 00 03}\n{ff 00 00 00}I'm gonna give it my all{01 00 00 05 00}{07 11 00} and\nhope I catch something\nbesides fish!",
-   "et": ""
+   "et": "{07 14 00}Täna on\n{ff 00 00 03}kalapüügivõistluse{ff 00 00 00} päev!\n\n{07 09 00}On tragöödia, et just mina\npean seal üksinda\nkala püüdma!{07 15 00}{ff 00 00 03}\n{ff 00 00 00}Ma annan endast kõik{01 00 00 05 00}{07 11 00} ja\nloodan, et püüan midagi\nmuud peale kala!"
   },
   {
    "id": 3,
    "en": "{07 03 00}Whee!{01 01 00} {07 14 00}Right now, my record\nis numero uno!\n\n{07 14 00}I'm talking about my\n{ff 00 00 02}{04 0f 00}-inch\n{0b 02 00}{ff 00 00 00}{04 1a 00}!",
-   "et": ""
+   "et": "{07 03 00}Jihuu!{01 01 00} {07 14 00}Praegu on mu rekord\nnumber üks!\n\n{07 14 00}Ma räägin oma\n{ff 00 00 02}{04 0f 00}-tollisest\n{0b 02 00}{ff 00 00 00}{04 1a 00}st!"
   },
   {
    "id": 4,
    "en": "The {0b 02 00}{04 1a 00}\nthat I caught was\n{ff 00 00 02}{04 0f 00} inches {ff 00 00 00}long!\n{07 14 00}I guess I'm way in the lead \nwith it, too{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.{01 01 00} {07 17 00}Well, {01 00 00 05 00}no doy!\n{01 00 00 05 00}{0b 03 00}{04 02 00}!",
-   "et": ""
+   "et": "{0b 02 00}{04 1a 00},\nmille ma püüdsin, oli\n{ff 00 00 02}{04 0f 00} tolli {ff 00 00 00}pikk!\n{07 14 00}Ma vist juhin sellega\nkindlalt{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.{01 01 00} {07 17 00}Noh, {01 00 00 05 00}ilmselgelt!\n{01 00 00 05 00}{0b 03 00}{04 02 00}!"
   },
   {
    "id": 5,
    "en": "The {0b 02 00}{04 1a 00}\nthat I caught{01 00 00 0a 00} {07 19 00}clocked in at\n{ff 00 00 02}{04 0f 00} inches{ff 00 00 00}.\nIt's in the lead! Tee hee!{01 00 00 14 00}\n{07 11 00}Who knew that this was such\nan easy tournament to win?!",
-   "et": ""
+   "et": "{0b 02 00}{04 1a 00},\nmille ma püüdsin,{01 00 00 0a 00} {07 19 00}oli\n{ff 00 00 02}{04 0f 00} tolli{ff 00 00 00} pikk.\nSee juhib! Hihii!{01 00 00 14 00} {07 11 00}Kes\nteadis, et seda võistlust\non nii lihtne võita?!"
   },
   {
    "id": 6,
    "en": "{07 1c 00}I always start worrying\nabout where other people\nare fishing.\n{07 1b 00}But in the end,{01 00 00 05 00} it doesn't\nmake a difference, 'cause\nit's about RAW TALENT! ",
-   "et": ""
+   "et": "{07 1c 00}Ma hakkan alati muretsema\nselle pärast, kus teised\nkala püüavad.\n{07 1b 00}Aga lõpuks{01 00 00 05 00} pole sel\nvahet, sest kõik sõltub\nPUHTAST ANDEST! "
   },
   {
    "id": 7,
    "en": "{07 14 00}You know what they say\nabout the one that got\naway?{01 00 00 05 00}\n{07 00 00}That really reminds me{01 00 00 05 00} {07 09 00}of\nmy ex-boyfriend,\n{01 00 00 05 00}{04 02 00}.",
-   "et": ""
+   "et": "{07 14 00}Tead küll, mida öeldakse\nselle kohta, kes minema\npääses?{01 00 00 05 00}\n{07 00 00}See meenutab mulle{01 00 00 05 00} {07 09 00}\nmu eksi,\n{01 00 00 05 00}{04 02 00}."
   },
   {
    "id": 8,
    "en": "{07 15 00}Hey,{01 00 00 0a 00} I heard the current \nleader is {04 10 00}'s\ncatch.\n{07 01 00}{01 08 00}Don't play dumb with me!{01 00 00 05 00}\nYou know ALL ABOUT it,\ndon't you, {01 00 00 05 00}{04 02 00}?!",
-   "et": ""
+   "et": "{07 15 00}Hei,{01 00 00 0a 00} ma kuulsin, et praegu\njuhib {04 10 00}\nsaak.\n{07 01 00}{01 08 00}Ära mängi minuga lolli!{01 00 00 05 00}\nSa tead sellest KÕIKE,\nkas pole, {01 00 00 05 00}{04 02 00}?!"
   },
   {
    "id": 9,
    "en": "{07 0e 00}They run when pursued\nand pursue when ignored{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.\n\n{07 00 00}The more I fish, the more I\nrealize how similar it is\n{07 10 00}to love, {01 00 00 0a 00}{04 02 00}.",
-   "et": ""
+   "et": "{07 0e 00}Nad põgenevad jahi eest\nja tulevad, kui ei hooli{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.\n\n{07 00 00}Mida rohkem ma püüan, seda\nenam näen sarnasust\n{07 10 00}armastusega, {01 00 00 0a 00}{04 02 00}."
   },
   {
    "id": 10,
    "en": "{ff 00 00 04}{07 15 00}So that stupid {04 10 00}\nthinks I'M gonna lose? {01 00 00 05 00}Fat\nchance!{ff 00 00 00}\n{07 00 00}Oh, {01 00 00 05 00}um, {01 00 00 05 00}hey, {04 1f 00}. I\ndidn't see you standing\nthere.",
-   "et": ""
+   "et": "{ff 00 00 04}{07 15 00}Nii et see rumal {04 10 00}\narvab, et MINA kaotan? {01 00 00 05 00}\nKindlasti mitte!{ff 00 00 00}\n{07 00 00}Oi, {01 00 00 05 00}ee, {01 00 00 05 00}tere, {04 1f 00}. Ma\nei näinud sind seal\nseismas."
   },
   {
    "id": 11,
    "en": "{07 11 00}{ff 00 00 04}So {04 10 00} caught\n{04 1a 00}\nthat was {ff 00 00 02}{04 0f 00} inches{ff 00 00 04}...{ff 00 00 00}\n{07 15 00}Hey, quit eavesdropping on\nmy private thoughts,\n{04 1f 00}! {01 00 00 05 00}Seriously!",
-   "et": ""
+   "et": "{07 11 00}{ff 00 00 04}Nii et {04 10 00} püüdis\n{04 1a 00},\nmis oli {ff 00 00 02}{04 0f 00} tolli{ff 00 00 04}...{ff 00 00 00}\n{07 15 00}Hei, lõpeta mu privaatsete\nmõtete pealtkuulamine,\n{04 1f 00}! {01 00 00 05 00}Tõsiselt!"
   },
   {
    "id": 12,
    "en": "{07 1b 00}Fishing is all about\ncharming the fish in, \n{01 00 00 0a 00}{04 02 00}.",
-   "et": ""
+   "et": "{07 1b 00}Kalapüügi juures on kõige\ntähtsam kala võluda,\n{01 00 00 0a 00}{04 02 00}."
   },
   {
    "id": 13,
    "en": "{07 0e 00}I have no idea what{01 00 00 05 00}\nthose fish down there are\nthinking. \n{07 1b 00}There's no way that I could\never become one with them.{01 00 00 05 00}\n'Cause they smell!",
-   "et": ""
+   "et": "{07 0e 00}Mul pole aimugi, mida{01 00 00 05 00}\nneed kalad seal all\nmõtlevad.\n{07 1b 00}Ma ei saaks kuidagi\nnendega üheks saada.{01 00 00 05 00}\nSest nad haisevad!"
   },
   {
    "id": 14,
    "en": "{ff 00 00 04}{07 0e 00}OK, so {04 10 00} is in\nthe lead right now...{ff 00 00 06}\n\n{ff 00 00 00}{07 00 00}Well, {04 1f 00}, I can nab\n{04 1a 00}\nthat's {ff 00 00 02}{04 0f 00} inches{ff 00 00 00}, {01 00 00 05 00}{07 15 00}easy!",
-   "et": ""
+   "et": "{ff 00 00 04}{07 0e 00}Olgu, nii et {04 10 00} juhib\npraegu...{ff 00 00 06}\n\n{ff 00 00 00}{07 00 00}{04 1f 00}, ma suudan\nnapsata {04 1a 00}, mis\non {ff 00 00 02}{04 0f 00} tolli{ff 00 00 00}, {01 00 00 05 00}{07 15 00}kergelt!"
   }
  ]
 }

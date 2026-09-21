@@ -4,17 +4,17 @@
   {
    "id": 0,
    "en": "{07 00 00}Oh{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00} It's not your fault, \n{04 1f 00}.\n\n{07 16 00}It's all my fault{01 00 00 0a 00}\nfor not thinking it would\nturn out like this.",
-   "et": ""
+   "et": "{07 00 00}Oi{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00} See pole sinu süü,\n{04 1f 00}.\n\n{07 16 00}See on täiesti minu süü,{01 00 00 0a 00}\net ma ei arvanud, et see\nniimoodi läheb."
   },
   {
    "id": 1,
    "en": "{07 00 00}I'm sorry.{01 01 00} {07 16 00}It was something\nI should have taken care of\nmyself, {01 00 00 0a 00}{04 02 00}.",
-   "et": ""
+   "et": "{07 00 00}Vabandust.{01 01 00} {07 16 00}See oli miski,\nmille ma oleksin pidanud ise\nära tegema, {01 00 00 0a 00}{04 02 00}."
   },
   {
    "id": 2,
    "en": "{07 00 00}I wonder if {ff 00 00 06}{04 10 00}{ff 00 00 00}\nis upset{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}",
-   "et": ""
+   "et": "{07 00 00}Huvitav, kas {ff 00 00 06}{04 10 00}{ff 00 00 00}\non pahane{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}"
   }
  ]
 }

@@ -4,17 +4,17 @@
   {
    "id": 0,
    "en": "{07 0b 00}What?{01 00 00 05 00} Did you forget?{01 00 00 14 00}\n{07 15 00}The {04 0f 00}...{01 00 00 0a 00}{04 10 00}:{04 11 00}... {01 00 00 0a 00}Ring a\nbell?!{01 01 00} Get with it!{01 00 00 14 00}",
-   "et": ""
+   "et": "{07 0b 00}Mida?{01 00 00 05 00} Kas sa unustasid?{01 00 00 14 00}\n{07 15 00}{04 0f 00}...{01 00 00 0a 00}{04 10 00}:{04 11 00}... {01 00 00 0a 00}Meenub\nmidagi?!{01 01 00} Võta end kokku!{01 00 00 14 00}"
   },
   {
    "id": 1,
    "en": "{07 15 00}The {04 0f 00}, {04 10 00}:{04 11 00}!{01 01 00} Mark\nyour calendar! {07 00 00}I'm gonna\nknock, so don't miss it!",
-   "et": ""
+   "et": "{07 15 00}{04 0f 00}, {04 10 00}:{04 11 00}!{01 01 00} Märgi\nkalendrisse! {07 00 00}Ma koputan,\nnii et ära maga maha!"
   },
   {
    "id": 2,
    "en": "{07 00 00}Huh?{01 00 00 0f 00} You did tell me the\n{04 0f 00} at {04 10 00}:{04 11 00}, right?\n\n{07 14 00}Don't miss the sound of me\nscraping the paint off \nyour door, {01 00 00 05 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 00 00}Ah?{01 00 00 0f 00} Sa ütlesid mulle\n{04 0f 00} kell {04 10 00}:{04 11 00}, eks?\n\n{07 14 00}Ära maga maha heli, kuidas\nma su ukselt värvi\nmaha kraabin, {01 00 00 05 00}{04 02 00}!"
   }
  ]
 }

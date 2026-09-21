@@ -4,17 +4,17 @@
   {
    "id": 0,
    "en": "{07 16 00}Hey, I'm sorry for asking\nthe impossible. {01 00 00 0a 00}My bad.",
-   "et": ""
+   "et": "{07 16 00}Hei, vabandust, et palusin\nvõimatut. {01 00 00 0a 00}Minu viga."
   },
   {
    "id": 1,
    "en": "{07 16 00}Anyway, thanks for at least\ntrying.{01 00 00 0a 00} I suppose you did\nyour best.",
-   "et": ""
+   "et": "{07 16 00}Igatahes, aitäh, et sa\nvähemalt proovisid.{01 00 00 0a 00} Vist\nandsid endast parima."
   },
   {
    "id": 2,
    "en": "{07 14 00}Being laid-back isn't always\na good thing, is it, \n{01 00 00 05 00}{04 02 00}?",
-   "et": ""
+   "et": "{07 14 00}Muretu olemine pole alati\nhea asi, kas on, \n{01 00 00 05 00}{04 02 00}?"
   }
  ]
 }

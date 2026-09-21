@@ -4,17 +4,17 @@
   {
    "id": 0,
    "en": "{07 00 00}If you could do it in the\nnext {ff 00 00 02}10 minutes{ff 00 00 00}, that\nwould be great.",
-   "et": ""
+   "et": "{07 00 00}Kui saaksid selle teha\njärgmise {ff 00 00 02}10 minuti{ff 00 00 00}\njooksul, oleks suurepärane."
   },
   {
    "id": 1,
    "en": "{07 00 00}If you could do it in the\nnext {ff 00 00 02}half hour{ff 00 00 00}, I'd\nappreciate it,{01 00 00 0a 00} {04 02 00}.",
-   "et": ""
+   "et": "{07 00 00}Kui saaksid selle teha\n{ff 00 00 02}poole tunni{ff 00 00 00} jooksul,\noleksin tänulik,{01 00 00 0a 00} {04 02 00}."
   },
   {
    "id": 2,
    "en": "{07 00 00}One more thing.{01 00 00 0a 00} Can you get\nit done in {ff 00 00 02}1 hour{ff 00 00 00}?",
-   "et": ""
+   "et": "{07 00 00}Veel üks asi.{01 00 00 0a 00} Kas saad\nselle {ff 00 00 02}1 tunniga{ff 00 00 00} valmis?"
   }
  ]
 }

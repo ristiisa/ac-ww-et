@@ -4,72 +4,72 @@
   {
    "id": 0,
    "en": "{07 14 00}Hey, {04 1f 00}, thanks so\nmuch for being my friend.{01 00 00 0a 00}\nIt's meant a lot to me.\n{07 00 00}I know this is sudden,{01 00 00 0a 00} but\nI've decided to move away.\nDon't try to stop me.",
-   "et": ""
+   "et": "{07 14 00}Hei, {04 1f 00}, aitäh\nsulle sõpruse eest.{01 00 00 0a 00}\nSee tähendas mulle palju.\n{07 00 00}Tean, et see tuleb äkki,{01 00 00 0a 00} aga\nolen otsustanud ära kolida.\nÄra püüa mind takistada."
   },
   {
    "id": 1,
    "en": "{07 14 00}Um,{01 00 00 0a 00} {04 1f 00},{01 00 00 0a 00}{07 00 00} I'm moving\naway. There. I said it.\n\n{07 16 00}I couldn't bear to see you\ncry,{01 00 00 0a 00} so I've been keeping it\nsecret from you until now.\n{07 14 00}But the time has come to\nsay farewell,{01 00 00 0a 00} so thanks for\neverything,{01 00 00 0a 00} {04 02 00}.",
-   "et": ""
+   "et": "{07 14 00}Ee,{01 00 00 0a 00} {04 1f 00},{01 00 00 0a 00}{07 00 00} ma kolin\nära. Nii. Ütlesin ära.\n\n{07 16 00}Ei kannatanud näha, kuidas\nsa nutad,{01 00 00 0a 00} nii et hoidsin\nseda seni saladuses.\n{07 14 00}Aga aeg on hüvasti jätta,{01 00 00 0a 00}\nnii et aitäh kõige eest,{01 00 00 0a 00}\n{04 02 00}."
   },
   {
    "id": 2,
    "en": "{07 14 00}Hey,{01 00 00 05 00} {04 1f 00},{01 00 00 0a 00} I've\ndecided it's time for me to\nleave this town behind.\n{07 16 00}I enjoyed my time here. {01 01 00}{07 15 00}But\nI have no choice. There's\nbetter food elsewhere{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.",
-   "et": ""
+   "et": "{07 14 00}Hei,{01 00 00 05 00} {04 1f 00},{01 00 00 0a 00} olen\notsustanud, et on aeg see\nlinn selja taha jätta.\n{07 16 00}Mul oli siin tore. {01 01 00}{07 15 00}Aga\nmul pole valikut. Mujal on\nparem söök{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}."
   },
   {
    "id": 3,
    "en": "{07 14 00}OK!{01 00 00 14 00}{07 00 00} You take care of\nyourself, {04 1f 00}. Got\nthat,{01 00 00 0a 00} {04 02 00}?",
-   "et": ""
+   "et": "{07 14 00}Olgu!{01 00 00 14 00}{07 00 00} Hoia ennast,\n{04 1f 00}. Saad aru,{01 00 00 0a 00}\n{04 02 00}?"
   },
   {
    "id": 4,
    "en": "{07 14 00}Huh huh huh.{01 00 00 0a 00} I hope you'll\nthink of me once in a\nwhile,{01 00 00 0a 00} {04 02 00}.",
-   "et": ""
+   "et": "{07 14 00}Hah hah haa.{01 00 00 0a 00} Loodan, et\nmõtled vahel minu peale,{01 00 00 0a 00}\n{04 02 00}."
   },
   {
    "id": 5,
    "en": "{07 0a 00}Yep.{01 00 00 0a 00} Wish me luck,{01 00 00 0a 00}\n{04 02 00}.",
-   "et": ""
+   "et": "{07 0a 00}Jap.{01 00 00 0a 00} Soovi mulle õnne,{01 00 00 0a 00}\n{04 02 00}."
   },
   {
    "id": 6,
    "en": "{07 16 00}You can't do this.{01 00 00 0a 00} Trying\nto stop me isn't like you!\n\n{07 14 00}I need you to laugh and\nsmile as you see me off,{01 00 00 0a 00}\n{04 02 00}.",
-   "et": ""
+   "et": "{07 16 00}Sa ei saa seda teha.{01 00 00 0a 00} Minu\ntakistamine pole sinu moodi!\n\n{07 14 00}Tahan, et sa naerad ja\nnaeratad, kui mind saadad,{01 00 00 0a 00}\n{04 02 00}."
   },
   {
    "id": 7,
    "en": "{07 16 00}Ohh{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 14 00}when you say those\nthings to me, it makes my\nheart ache.",
-   "et": ""
+   "et": "{07 16 00}Ohh{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 14 00}kui sa mulle\nnii ütled, teeb see\nsüdame haigeks."
   },
   {
    "id": 8,
    "en": "{07 06 00}No! I can't have this!{01 00 00 0a 00} I'm a\nman, for goodness' sake!\n\n{07 15 00}Once I've made up my mind,\nthere's no changing it,{01 00 00 0a 00}\n{04 02 00}!",
-   "et": ""
+   "et": "{07 06 00}Ei! Nii ei lähe!{01 00 00 0a 00} Ma olen\nmees, jumala pärast!\n\n{07 15 00}Kui olen otsuse teinud,\nsiis seda ei muuda,{01 00 00 0a 00}\n{04 02 00}!"
   },
   {
    "id": 9,
    "en": "{07 0e 00}Wow. I wasn't expecting that\nresponse{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}. {07 00 00}Maybe I'll think\nit over once more.",
-   "et": ""
+   "et": "{07 0e 00}Vau. Ma ei oodanud sellist\nvastust{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}. {07 00 00}Ehk mõtlen\nasja veel korra läbi."
   },
   {
    "id": 10,
    "en": "{07 02 00}Why would you say that?{01 01 00}\n{07 13 00}{01 00 00 0a 00}Are you trying to tell me\nsomething?\n{07 0a 00}Huh huh huh!{01 00 00 0a 00} Maybe I'll\nstick around a little bit\nlonger,{01 00 00 0a 00} {04 02 00}!",
-   "et": ""
+   "et": "{07 02 00}Miks sa nii ütled?{01 01 00}\n{07 13 00}{01 00 00 0a 00}Kas sa tahad mulle midagi\nöelda?\n{07 0a 00}Hah hah haa!{01 00 00 0a 00} Äkki jäängi\nveel natukeseks ajaks\nsiia,{01 00 00 0a 00} {04 02 00}!"
   },
   {
    "id": 11,
    "en": "{07 16 00}Well, this is a problem.\nI didn't expect you to\nrespond like that{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 06 00}I guess maybe I should stay\nin this town, huh?{02 00 00 10 11}\nDon't leave me!\nMaybe?",
-   "et": ""
+   "et": "{07 16 00}Noh, see on probleem.\nMa ei oodanud, et sa\nnii vastad{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 06 00}Vist peaksin siia linna\nikkagi jääma, mis?{02 00 00 10 11}\nÄra jäta mind!\nEhk?"
   },
   {
    "id": 16,
    "en": "{07 00 00}Is that so? {01 00 00 0a 00}{07 14 00}Well, if that's\nhow you're going to react,{01 00 00 0a 00}\nI'll sleep on it for a while.",
-   "et": ""
+   "et": "{07 00 00}Ah nii? {01 00 00 0a 00}{07 14 00}Noh, kui sa nii\nreageerid,{01 00 00 0a 00}\nmagan selle asja üle."
   },
   {
    "id": 17,
    "en": "{07 0e 00}Yeah{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 16 00} Somehow I get the\nfeeling{01 00 00 0a 00} that if I move,\nsomething bad will happen!",
-   "et": ""
+   "et": "{07 0e 00}Jah{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 16 00} Millegipärast on\nmul tunne,{01 00 00 0a 00} et kui ma kolin,\njuhtub midagi halba!"
   }
  ]
 }

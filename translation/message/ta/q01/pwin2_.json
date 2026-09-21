@@ -4,12 +4,12 @@
   {
    "id": 0,
    "en": "I guess I have no choice.{01 00 00 14 00} {07 14 00}As\nyour prize, {01 00 00 0a 00}I'll give you\n{04 1b 00}.",
-   "et": ""
+   "et": "Mul pole vist valikut.{01 00 00 14 00} {07 14 00}Sinu\nauhinnaks {01 00 00 0a 00}annan ma sulle\n{04 1b 00}."
   },
   {
    "id": 1,
    "en": "{07 16 00}I guess{01 00 00 03 00} I underestimated\nyou. {01 01 00}{07 00 00}That was my fatal\nmistake, {01 00 00 0a 00}{04 02 00}.\n{07 14 00}Here, I'll give you my\n{0b 02 00}{04 1b 00} as\na way of saying sorry.",
-   "et": ""
+   "et": "{07 16 00}Ma vist{01 00 00 03 00} alahindasin\nsind. {01 01 00}{07 00 00}See oli mu saatuslik\nviga, {01 00 00 0a 00}{04 02 00}.\n{07 14 00}Säh, ma annan sulle oma\n{0b 02 00}{04 1b 00}\nvabanduseks."
   }
  ]
 }

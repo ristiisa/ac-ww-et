@@ -4,12 +4,12 @@
   {
    "id": 0,
    "en": "{07 1d 00}Wow! {01 00 00 0f 00}That's a really nice\n{0b 02 00}{04 1c 00} you\nfound, {01 00 00 05 00}{04 02 00}!\nAll I found was this old\n{0b 02 00}{04 1d 00}.{01 00 00 0f 00}\n{07 0e 00}Hm. Which is more rare?\n{07 00 00}I guess I'm willing to call\nthis match a draw. How\ndoes that sound to you?\nHere's your bug back.{01 00 00 05 00} {07 14 00}Let's\ntry this again sometime,\nshall we, {01 00 00 05 00}{04 02 00}?",
-   "et": ""
+   "et": "{07 1d 00}Vau! {01 00 00 0f 00}See on tõesti kena\n{0b 02 00}{04 1c 00}, mille sa\nleidsid, {01 00 00 05 00}{04 02 00}!\nMina leidsin ainult vana\n{0b 02 00}{04 1d 00}.{01 00 00 0f 00}\n{07 0e 00}Hm. Kumb on haruldasem?\n{07 00 00}Ma olen vist nõus kuulutama\nselle matši viigiks. Kuidas\nsee sulle kõlab?\nSiin, putukas tagasi.{01 00 00 05 00} {07 14 00}Teeme\nseda kunagi uuesti,\neks, {01 00 00 05 00}{04 02 00}?"
   },
   {
    "id": 1,
    "en": "{07 1d 00}Oh my!{01 00 00 05 00} Did you really catch{01 00 00 05 00}\n{04 1c 00}?{01 00 00 0f 00}\nThat's not too shabby!\n{07 0e 00}Hm... What do we do now,\n{01 00 00 05 00}{04 02 00}? I caught\n{04 1d 00}...\nAll things considered, {01 00 00 05 00}{07 06 00}both\nof the bugs we caught are\nequally rare.\n{07 00 00}I really think this one's\na draw. {01 00 00 05 00}Here, you can have\nyour bug back, {01 00 00 05 00}{04 02 00}.\n{07 14 00}Let's try again sometime!",
-   "et": ""
+   "et": "{07 1d 00}Oh sa!{01 00 00 05 00} Kas sa tõesti said{01 00 00 05 00}\n{04 1c 00}?{01 00 00 0f 00}\nSee pole sugugi halb!\n{07 0e 00}Hm... Mis me nüüd teeme,\n{01 00 00 05 00}{04 02 00}? Mina püüdsin\n{04 1d 00}...\nKokkuvõttes on {01 00 00 05 00}{07 06 00}mõlemad\nputukad, mille me püüdsime,\nvõrdselt haruldased.\n{07 00 00}Ma arvan tõesti, et see on\nviik. {01 00 00 05 00}Siin, võta oma\nputukas tagasi, {01 00 00 05 00}{04 02 00}.\n{07 14 00}Teeme kunagi uuesti!"
   }
  ]
 }

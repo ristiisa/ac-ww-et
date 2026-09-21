@@ -4,17 +4,17 @@
   {
    "id": 0,
    "en": "{07 11 00}You and me, bug, are gonna\ntake over this podunk town!",
-   "et": ""
+   "et": "{07 11 00}Meie kaks, putukas, võtame\nselle kolkalinna üle!"
   },
   {
    "id": 1,
    "en": "{07 00 00}This bug.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00} I'm gonna take\nreal good care of it, \n{01 00 00 05 00}{04 02 00}.",
-   "et": ""
+   "et": "{07 00 00}See putukas.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00} Ma hoolitsen\nselle eest väga hästi,\n{01 00 00 05 00}{04 02 00}."
   },
   {
    "id": 2,
    "en": "{07 0d 00}Yesss! {01 00 00 05 00}I've got another bug\nto add to my collection\nat home{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{04 02 00}!\nOooh, I'm so excited{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 01 00}\n{07 09 00}Am I really that nerdy?!",
-   "et": ""
+   "et": "{07 0d 00}Jaaah! {01 00 00 05 00}Veel üks putukas\nkodus olevasse kogusse\nlisada{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{04 02 00}!\nOooh, ma olen nii elevil{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 01 00}\n{07 09 00}Kas ma olengi nii nohik?!"
   }
  ]
 }

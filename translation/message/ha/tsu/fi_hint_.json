@@ -4,32 +4,32 @@
   {
    "id": 0,
    "en": "{07 00 00}Hey, so by the way,{01 00 00 05 00}\n{07 0b 00}have you been fishing?\n\n{07 14 00}I heard that you can catch\n{0b 02 00}{04 1a 00} in\nrivers now, {01 00 00 05 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 00 00}Hei, muide,{01 00 00 05 00}\n{07 0b 00}kas sa oled kala püüdnud?\n\n{07 14 00}Ma kuulsin, et jõgedest\nsaab nüüd püüda\n{0b 02 00}{04 1a 00}, {01 00 00 05 00}{04 02 00}!"
   },
   {
    "id": 1,
    "en": "I was fishing in the river\n{07 14 00}and caught myself\n{04 1a 00}!\nIf you wanna catch one, try\nfishing {04 10 00},\n{01 00 00 05 00}{04 02 00}!",
-   "et": ""
+   "et": "Ma püüdsin jões\n{07 14 00}ja sain endale\n{04 1a 00}!\nKui tahad ühe püüda, proovi\npüüda {04 10 00},\n{01 00 00 05 00}{04 02 00}!"
   },
   {
    "id": 2,
    "en": "{07 14 00}So I was fishing in a pond,\nright{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}and I caught\n{04 1a 00}!\nThrow a line in a pond\n{04 10 00} and you\nmight, too, {01 00 00 05 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 14 00}Nii et ma püüdsin tiigis,\neks{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}ja püüdsin\n{04 1a 00}!\nViska õng tiiki\n{04 10 00} ja äkki\nsina ka, {01 00 00 05 00}{04 02 00}!"
   },
   {
    "id": 3,
    "en": "{07 00 00}So tell me: have you{01 00 00 05 00}\n{07 0b 00}ever laid eyes on\n{04 1a 00}?\n{07 16 00}I heard you can catch 'em\nin the river,{01 00 00 05 00} but I've\nnever seen one!{01 00 00 05 00}\n{07 15 00}Yaargh!{01 00 00 05 00} Show yourself,\n{0b 02 00}{04 1a 00}!{01 00 00 05 00}\nSHOW YOURSEEEEEELF!",
-   "et": ""
+   "et": "{07 00 00}Ütle mulle: kas sa oled{01 00 00 05 00}\n{07 0b 00}kunagi näinud\n{04 1a 00}?\n{07 16 00}Ma kuulsin, et neid saab\njõest püüda,{01 00 00 05 00} aga ma pole\nkunagi ühtegi näinud!{01 00 00 05 00}\n{07 15 00}Jaargh!{01 00 00 05 00} Näita end,\n{0b 02 00}{04 1a 00}!{01 00 00 05 00}\nNÄITA ENNAST!"
   },
   {
    "id": 4,
    "en": "{07 00 00}The other day, someone\ntook the time to show me\n{04 1a 00}...{01 00 00 05 00}\n{07 14 00}That thing was flexing its\nlittle fin muscles...{01 00 00 05 00} It got\nme super pumped!\n{07 13 00}If I were to catch one of\nthose all by myself, I'd be\nstoked, {01 00 00 05 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 00 00}Üleeile võttis keegi\naega, et mulle näidata\n{04 1a 00}...{01 00 00 05 00}\n{07 14 00}See asi pingutas oma\nväikseid uimelihaseid...{01 00 00 05 00} See\najas mu super hoogu!\n{07 13 00}Kui ma püüaksin ühe neist\ntäiesti üksi, oleksin ma\nelevil, {01 00 00 05 00}{04 02 00}!"
   },
   {
    "id": 5,
    "en": "{07 00 00}In the {04 03 00} pond,\nthey spotted a massive\n{07 15 00}{0b 02 00}{04 1a 00}!\n{07 07 00}Just the thought makes my\nreeling muscles flex with\nanticipation, {01 00 00 05 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 00 00}{04 03 00} tiigis nähti\ntohutut\n{07 15 00}{0b 02 00}{04 1a 00}!\n{07 07 00}Ainuüksi mõte paneb mu\nkerimislihased ootusest\npingule, {01 00 00 05 00}{04 02 00}!"
   }
  ]
 }

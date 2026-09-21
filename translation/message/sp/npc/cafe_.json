@@ -4,447 +4,447 @@
   {
    "id": 0,
    "en": ".{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}",
-   "et": ""
+   "et": ".{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}"
   },
   {
    "id": 1,
    "en": "{07 00 00}Good day.",
-   "et": ""
+   "et": "{07 00 00}Tere päevast."
   },
   {
    "id": 2,
    "en": "{07 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}Welcome to the {ff 00 00 08}Roost{ff 00 00 00}.",
-   "et": ""
+   "et": "{07 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}Tere tulemast {ff 00 00 08}Pesasse{ff 00 00 00}."
   },
   {
    "id": 3,
    "en": "{07 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}Welcome to the {ff 00 00 08}Roost{ff 00 00 00}.",
-   "et": ""
+   "et": "{07 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}Tere tulemast {ff 00 00 08}Pesasse{ff 00 00 00}."
   },
   {
    "id": 4,
    "en": "{07 00 00}Come on in.",
-   "et": ""
+   "et": "{07 00 00}Astu sisse."
   },
   {
    "id": 5,
    "en": "Good to see you,{01 00 00 05 00} coo.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}",
-   "et": ""
+   "et": "Hea sind näha,{01 00 00 05 00} kuu{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}."
   },
   {
    "id": 6,
    "en": "Coo,{01 00 00 05 00} {04 00 00}.\nGlad to see you.",
-   "et": ""
+   "et": "Kuu,{01 00 00 05 00} {04 00 00}.\nHea sind näha."
   },
   {
    "id": 7,
    "en": "Good to see you again,{01 00 00 0f 00}\n{04 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}",
-   "et": ""
+   "et": "Hea sind jälle näha,{01 00 00 0f 00}\n{04 00 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}."
   },
   {
    "id": 8,
    "en": ".{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}Interested in our special\nblend, I take it?",
-   "et": ""
+   "et": ".{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}Huvitab vist meie\nerisegu, ma arvan?"
   },
   {
    "id": 9,
    "en": ".{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}If it's coffee you're\nafter, you're in the right\nplace.",
-   "et": ""
+   "et": ".{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}Kui sa otsid kohvi,\nsiis oled õiges\nkohas."
   },
   {
    "id": 10,
    "en": ".{01 00 00 05 00}.{01 00 00 05 00}.Coo.",
-   "et": ""
+   "et": ".{01 00 00 05 00}.{01 00 00 05 00}.Kuu."
   },
   {
    "id": 11,
    "en": "Coffee's all I serve here.{02 00 00 41 42}\nThat's fine.\nYou're joking!",
-   "et": ""
+   "et": "Siin pakun ainult kohvi.{02 00 00 41 42}\nSobib hästi.\nSa teed nalja!"
   },
   {
    "id": 12,
    "en": "I.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}do have sugar.{02 00 00 3f 40}\nPlease!\nNo, thanks.",
-   "et": ""
+   "et": "Suhkrut{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}mul on küll.{02 00 00 3f 40}\nPalun!\nEi, aitäh."
   },
   {
    "id": 13,
    "en": "Take your time, relax.\nThere's no rush.",
-   "et": ""
+   "et": "Võta aega, lõõgastu.\nKiiret pole."
   },
   {
    "id": 14,
    "en": "Sit back and relax.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{02 00 00 3c 3d}\nI love this place!\nThanks!",
-   "et": ""
+   "et": "Istu ja puhka{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{02 00 00 3c 3d}\nMa armastan seda kohta!\nAitäh!"
   },
   {
    "id": 15,
    "en": "{06 00 00 4d 4e}",
-   "et": ""
+   "et": "{06 00 00 4d 4e}"
   },
   {
    "id": 16,
    "en": "I'm experimenting a bit with\ntoday's blend. It's a bit\ndifferent than the usual.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}",
-   "et": ""
+   "et": "Katsetan täna veidi\nsegu kallal. See on\nveidi teistsugune{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}."
   },
   {
    "id": 17,
    "en": "{06 00 00 4f 50}",
-   "et": ""
+   "et": "{06 00 00 4f 50}"
   },
   {
    "id": 18,
    "en": "{06 01 00 43 44 45}",
-   "et": ""
+   "et": "{06 01 00 43 44 45}"
   },
   {
    "id": 19,
    "en": "{06 01 00 46 47 48}",
-   "et": ""
+   "et": "{06 01 00 46 47 48}"
   },
   {
    "id": 20,
    "en": "{07 00 00}The coffee may seem a tad\nexpensive at.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0f 00}200 Bells a\ncup, but it's well worth it.{02 04 00 00 18}\nOne, please.\nI'll pass.",
-   "et": ""
+   "et": "{07 00 00}Kohv võib tunduda veidi\nkallis.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0f 00}200 kella\ntass, aga on seda väärt.{02 04 00 00 18}\nÜks, palun.\nJätan vahele."
   },
   {
    "id": 21,
    "en": "{07 00 00}A cup of java's{01 00 00 05 00} 200 Bells{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0f 00}\nWhat do you say? Best cup\nin town, guaranteed.{02 04 00 00 19}\nYes, please!\nNo, thanks!",
-   "et": ""
+   "et": "{07 00 00}Tass kohvi on{01 00 00 05 00} 200 kella{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0f 00}\nMis sa ütled? Linna parim\ntass, garanteeritult.{02 04 00 00 19}\nJah, palun!\nEi, aitäh!"
   },
   {
    "id": 22,
    "en": "{07 00 00}Care for a cup of joe?{01 01 00}\nIt's 200 Bells. You got a\nfavorite blend?{02 04 00 00 1a}\nAnything's fine.\nI'll pass.",
-   "et": ""
+   "et": "{07 00 00}Kas soovid tassi kohvi?{01 01 00}\nSee on 200 kella. On sul\nlemmiksegu?{02 04 00 00 1a}\nÜkskõik milline.\nJätan vahele."
   },
   {
    "id": 23,
    "en": "{07 00 00}Care for a cup of java to\npick you up? It's 200 Bells.{01 01 00}\nWhat blend would you like?{02 04 00 00 1b}\nThe usual!\nI'll pass.",
-   "et": ""
+   "et": "{07 00 00}Tass kohvi turgutuseks?\nSee on 200 kella.{01 01 00}\nMis segu sa soovid?{02 04 00 00 1b}\nNagu ikka!\nJätan vahele."
   },
   {
    "id": 24,
    "en": ".{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}I see.",
-   "et": ""
+   "et": ".{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}Selge."
   },
   {
    "id": 25,
    "en": ".{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}Whatever you say.",
-   "et": ""
+   "et": ".{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}Nagu soovid."
   },
   {
    "id": 26,
    "en": ".{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}That's a shame.",
-   "et": ""
+   "et": ".{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}Kahju."
   },
   {
    "id": 27,
    "en": "If you decide you're up for\na cup,{01 00 00 05 00} just say the word.",
-   "et": ""
+   "et": "Kui otsustad, et tahad\ntassi,{01 00 00 05 00} ütle vaid sõna."
   },
   {
    "id": 28,
    "en": "{07 00 00}Thanks.",
-   "et": ""
+   "et": "{07 00 00}Aitäh."
   },
   {
    "id": 29,
    "en": "{07 00 00}Thanks.",
-   "et": ""
+   "et": "{07 00 00}Aitäh."
   },
   {
    "id": 30,
    "en": "{07 00 00}Thanks again.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n\n\nThe only coffee I serve\nhere is my own special\nhouse blend.",
-   "et": ""
+   "et": "{07 00 00}Jälle aitäh{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n\n\nAinus kohv, mida ma siin\npakun, on minu enda\nerisegu."
   },
   {
    "id": 31,
    "en": "{07 00 00}Thank you much.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n\n\nToday, I'm experimenting\nwith a slightly different\nblend from my usual.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 00 00}",
-   "et": ""
+   "et": "{07 00 00}Suur tänu{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n\n\nTäna katsetan veidi\nteistsugust segu kui\ntavaliselt{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{07 00 00}"
   },
   {
    "id": 32,
    "en": "{07 00 00}Well then,{01 00 00 05 00} I suppose you\nwon't mind my special house\nblend too much, will you.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}",
-   "et": ""
+   "et": "{07 00 00}No siis{01 00 00 05 00} ei pane sa vist\nmu erisegu väga\npahaks, eks{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}."
   },
   {
    "id": 33,
    "en": "{07 00 00}Coming right up.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n\n\nOne cup of your favorite,\nmade, as always, with only\nthe finest springwater.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}",
-   "et": ""
+   "et": "{07 00 00}Tuleb kohe{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n\n\nÜks tass su lemmikut,\ntehtud nagu alati vaid\nparimast allikaveest{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}."
   },
   {
    "id": 34,
    "en": "{01 00 00 0f 00}Coo.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 00 00}\n\n\nI've got the special house\nblend today, but it turned\nout a little differently.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}",
-   "et": ""
+   "et": "{01 00 00 0f 00}Kuu{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{07 00 00}\n\n\nMul on täna erisegu,\naga see tuli välja\nveidi teistmoodi{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}."
   },
   {
    "id": 35,
    "en": "{07 00 00}Whatever you say.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n\n\nThen up comes one hot cup\nof your favorite blend,\n{04 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}",
-   "et": ""
+   "et": "{07 00 00}Nagu soovid{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n\n\nSiis tuleb üks kuum tass\nsinu lemmiksegu,\n{04 00 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}."
   },
   {
    "id": 36,
    "en": "{07 00 00}All right then,{01 00 00 05 00} before it\ngets cold{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n\nOne fresh-brewed cup.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\nEnjoy.{02 00 00 00 28}\nThanks, I will.\nIt's gotta cool.",
-   "et": ""
+   "et": "{07 00 00}Hea küll,{01 00 00 05 00} enne kui see\njahtub{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n\nÜks värske tass{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\nNaudi.{02 00 00 00 28}\nAitäh, naudin.\nPeab jahtuma."
   },
   {
    "id": 37,
    "en": "{07 00 00}Enjoy.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n\n\nOne piping-hot, freshly\nbrewed cup.{02 00 00 00 29}\nThanks, I will.\nIt's gotta cool.",
-   "et": ""
+   "et": "{07 00 00}Naudi{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n\n\nÜks tulikuum, värskelt\nkeedetud tass.{02 00 00 00 29}\nAitäh, naudin.\nPeab jahtuma."
   },
   {
    "id": 38,
    "en": "{07 00 00}There you go.\n\n\nOne fresh-brewed cup,\npiping hot and served in a\nwell-stained mug. Enjoy.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 00 00}{02 00 00 00 2a}\nUm... Thanks?\nIt's gotta cool.",
-   "et": ""
+   "et": "{07 00 00}Palun.\n\n\nÜks värskelt keedetud tass,\ntulikuum ja serveeritud\nkulunud kruusis. Naudi{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{07 00 00}{02 00 00 00 2a}\nEe... Aitäh?\nPeab jahtuma."
   },
   {
    "id": 39,
    "en": "{07 00 00}There we go, at the perfect\ntemperature to bring out\nthe flavor: 176 degrees.\nOne fresh-brewed cup.\nDrink up.{02 00 00 00 2b}\nThanks, I will.\nIt's gotta cool.",
-   "et": ""
+   "et": "{07 00 00}Nii, täpselt õigel\ntemperatuuril, et maitse\nesile tuleks: 80 kraadi.\nÜks värskelt keedetud tass.\nJoo ära.{02 00 00 00 2b}\nAitäh, joon.\nPeab jahtuma."
   },
   {
    "id": 40,
    "en": "{07 02 00}{01 00 00 0a 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}Are you insane?!?\n\n\n{07 00 00}Drink it now, before it\ncools down!{02 00 00 00 28}\nFine, fine!\nIt's too hot!",
-   "et": ""
+   "et": "{07 02 00}{01 00 00 0a 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}Kas sa oled hull?!?\n\n\n{07 00 00}Joo kohe, enne kui see\nära jahtub!{02 00 00 00 28}\nOlgu, olgu!\nLiiga kuum!"
   },
   {
    "id": 41,
    "en": "{07 02 00}{01 00 00 0a 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}What?!?\n\n\n{07 00 00}Look, this...{01 00 00 05 00} This isn't iced\ntea, pal.{01 00 00 05 00} It's coffee.{01 00 00 05 00}\nHOT COFFEE.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{02 00 00 00 29}\nI'll drink it!\nIt's too hot!",
-   "et": ""
+   "et": "{07 02 00}{01 00 00 0a 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}Mida?!?\n\n\n{07 00 00}Kuule, see...{01 00 00 05 00} See pole\njäätee, semu.{01 00 00 05 00} See on kohv.{01 00 00 05 00}\nKUUM KOHV{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{02 00 00 00 29}\nMa joon selle ära!\nLiiga kuum!"
   },
   {
    "id": 42,
    "en": "{07 02 00}{01 00 00 0a 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}What?!\n\n\n{07 00 00}Are you trying to make me\nchip the china? Drink it\nhot, while it's still good!{02 00 00 00 2a}\nI will.\nIt's gotta cool!",
-   "et": ""
+   "et": "{07 02 00}{01 00 00 0a 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}Mida?!\n\n\n{07 00 00}Kas tahad, et mu portselan\nmõraneb? Joo see kuumalt,\nkuni see veel hea on!{02 00 00 00 2a}\nJoon küll.\nPeab jahtuma!"
   },
   {
    "id": 43,
    "en": "{07 02 00}{01 00 00 0a 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}What?!?\n\n\n{07 00 00}Look, this coffee isn't for\nsipping. If you want to\nenjoy it, drink it hot.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{02 00 00 00 2b}\nI'll drink to that!\nI'll let it cool.",
-   "et": ""
+   "et": "{07 02 00}{01 00 00 0a 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}Mida?!?\n\n\n{07 00 00}Kuule, see kohv pole\nrüüpamiseks. Kui tahad\nnautida, joo see kuumalt{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{02 00 00 00 2b}\nSee on hea mõte!\nLasen jahtuda."
   },
   {
    "id": 44,
    "en": "{07 00 00}Whatever you say.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n\n\nCare for a little {ff 00 00 02}pigeon\nmilk{ff 00 00 00}{01 00 00 05 00} to put in it?{02 00 00 2d 2e}\nYes, please!\nYech, no!",
-   "et": ""
+   "et": "{07 00 00}Nagu soovid{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n\n\nSoovid veidi {ff 00 00 02}tuvipiima{ff 00 00 00}\nsisse{01 00 00 05 00} panna?{02 00 00 2d 2e}\nJah, palun!\nÄkh, ei!"
   },
   {
    "id": 45,
    "en": "{01 00 00 0a 00}I think you're going to be\nvery pleased.{01 00 00 05 00} In it goes.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}",
-   "et": ""
+   "et": "{01 00 00 0a 00}Arvan, et sa jääd väga\nrahule.{01 00 00 05 00} Ja sisse läheb{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}."
   },
   {
    "id": 46,
    "en": "{07 00 00}You like it black?{01 00 00 0a 00}\n{01 00 00 0a 00}Coo coo.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}",
-   "et": ""
+   "et": "{07 00 00}Sulle meeldib must?{01 00 00 0a 00}\n{01 00 00 0a 00}Kuu kuu{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}."
   },
   {
    "id": 47,
    "en": "Coo!{01 01 00}\n{07 00 00}You{01 00 00 05 00} don't have enough\nmoney.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} Sorry, but no joe.",
-   "et": ""
+   "et": "Kuu!{01 01 00}\n{07 00 00}Sul{01 00 00 05 00} pole piisavalt\nraha{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}. Kahju, kohvi ei tule."
   },
   {
    "id": 48,
    "en": "Sweet and mild!\n\n\nThis can be none other\nthan the world-renowned\n{01 00 00 05 00}Pigeon Blend!",
-   "et": ""
+   "et": "Magus ja mahe!\n\n\nSee ei saa olla miski muu\nkui maailmakuulus\n{01 00 00 05 00}Tuvisegu!"
   },
   {
    "id": 49,
    "en": "Ooo-hah!\n\n\nGoes down smooth, with a\nnice, clean aftertaste.",
-   "et": ""
+   "et": "Ooo-hah!\n\n\nLäheb alla sujuvalt, kena\nja puhta järelmaitsega."
   },
   {
    "id": 50,
    "en": "Mmmmmmmmmmm!\n\n\nSo strong, so.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}impetuous!\nI can't get enough!",
-   "et": ""
+   "et": "Mmmmmmmmmmm!\n\n\nNii kange, nii{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}tormakas!\nMa ei saa küllalt!"
   },
   {
    "id": 51,
    "en": "What an odd flavor!\n\n\nA bit acidic, and yet it's\nstrangely refreshing.",
-   "et": ""
+   "et": "Milline veider maitse!\n\n\nVeidi hapukas, aga siiski\nimekombel kosutav."
   },
   {
    "id": 52,
    "en": "Hot! Hot hot HOTTT!\n\n\nAh! What a flavor! What a\nfeeling! But who knew\ncoffee could get this hot?",
-   "et": ""
+   "et": "Kuum! Kuum kuum KUUMMM!\n\n\nAh! Milline maitse! Milline\ntunne! Aga kes teadis, et\nkohv nii kuum olla saab?"
   },
   {
    "id": 53,
    "en": "Ahh!\n\n\nThat rich aroma, that bold\ntaste! It penetrates my\nvery soul! {01 00 00 05 00}Yum!",
-   "et": ""
+   "et": "Ahh!\n\n\nSee rikkalik aroom, see\njulge maitse! See tungib\nmu hinge! {01 00 00 05 00}Nämm!"
   },
   {
    "id": 54,
    "en": "Ahh!\n\n\nIt has a rich, earthy scent\nthat warms my entire body!",
-   "et": ""
+   "et": "Ahh!\n\n\nSel on rikkalik mullane lõhn,\nmis soojendab kogu keha!"
   },
   {
    "id": 55,
    "en": "Hmmmmm.\n\n\nBitter, but with a subtle\nmildness.\n\nTHIS...is the flavor of\nsophistication!",
-   "et": ""
+   "et": "Hmmmmm.\n\n\nMõru, aga peene\nmahedusega.\n\nSEE...on kõrge kultuuri\nmaitse!"
   },
   {
    "id": 56,
    "en": "Mmmm...{07 0c 00}{01 00 00 0a 00} Excellent!\n\n\nBut could you expect\nanything less from the\nlegendary {ff 00 00 06}Brewster{ff 00 00 00}'s Blend!?",
-   "et": ""
+   "et": "Mmmm...{07 0c 00}{01 00 00 0a 00} Suurepärane!\n\n\nAga kas legendaarselt\n{ff 00 00 06}Brewsteri{ff 00 00 00} segult saakski\nmidagi vähemat oodata!?"
   },
   {
    "id": 57,
    "en": "Mmmmmmm!\n\n\nAcid, bitterness, and\nboldness, all balanced in\nperfect harmony!",
-   "et": ""
+   "et": "Mmmmmmm!\n\n\nHapusus, mõrudus ja\njulgus, kõik täiuslikus\nharmoonias!"
   },
   {
    "id": 58,
    "en": "Today's blend...\n\n\nboasts a mild flavor. It's\nquite drinkable for those\nwith unrefined palates.",
-   "et": ""
+   "et": "Tänane segu...\n\n\nuhkeldab maheda maitsega.\nSee on üsna joodav neile,\nkel maitsemeel lihtne."
   },
   {
    "id": 59,
    "en": "Pheeeeeeeeeeeeee!\n\n\nBitter! So bitter! It's like\na banshee, screaming in\nmy taste buds!",
-   "et": ""
+   "et": "Pheeeeeeeeeeeee!\n\n\nMõru! Nii mõru! Nagu\nkoletis, kes mu\nmaitsemeeltes kisendab!"
   },
   {
    "id": 60,
    "en": "{07 00 00}Please.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}",
-   "et": ""
+   "et": "{07 00 00}Palun{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}."
   },
   {
    "id": 61,
    "en": "{07 00 00}Enjoy yourself.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}",
-   "et": ""
+   "et": "{07 00 00}Naudi{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}."
   },
   {
    "id": 62,
    "en": "{07 00 00}It's a hobby, really.{01 00 00 05 00}\nNothing more.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n",
-   "et": ""
+   "et": "{07 00 00}See on tegelikult hobi.{01 00 00 05 00}\nEi midagi enamat{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n"
   },
   {
    "id": 63,
    "en": "{07 00 00}Sorry.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{01 01 00}\nOnly have enough for me.",
-   "et": ""
+   "et": "{07 00 00}Kahju{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 01 00}\nJätkub ainult mulle."
   },
   {
    "id": 64,
    "en": "{07 18 00}{01 00 00 0a 00}Coo!\n\n\n.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}Is that so?",
-   "et": ""
+   "et": "{07 18 00}{01 00 00 0a 00}Kuu!\n\n\n.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}Kas tõesti?"
   },
   {
    "id": 65,
    "en": "Coo.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n\n\nGlad you like it.",
-   "et": ""
+   "et": "Kuu{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n\n\nHea, et sulle meeldib."
   },
   {
    "id": 66,
    "en": "When it comes to coffee, I\nnever joke. It's coffee, and\nnothing but.\n{07 00 00}For now, anyway.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}",
-   "et": ""
+   "et": "Kohvi osas ma kunagi\nnalja ei tee. On kohv ja\nei midagi muud.\n{07 00 00}Praegu igatahes{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}."
   },
   {
    "id": 67,
    "en": "{07 00 00}I spent my college days in\na cafe just like this one.\n\nThat's where my own dream\nof opening a cafe was born.",
-   "et": ""
+   "et": "{07 00 00}Veetsin oma ülikooliaastad\ntäpselt sellises kohvikus.\n\nSeal sündiski mu enda\nunistus kohvik avada."
   },
   {
    "id": 68,
    "en": "{07 00 00}He's a good man,{01 00 00 05 00} that\n{ff 00 00 06}Blathers{ff 00 00 00}. I owe him.\n\nI figure I can't ever thank\nhim enough.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}",
-   "et": ""
+   "et": "{07 00 00}Ta on hea mees,{01 00 00 05 00} see\n{ff 00 00 06}Blathers{ff 00 00 00}. Olen talle võlgu.\n\nVist ei jõua ma teda\niial piisavalt tänada{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}."
   },
   {
    "id": 69,
    "en": "{07 00 00}Back in the day, I used to\nhave myself a little cafe in\nthe city.\nAh, those were black days,\nand bitter. I was bitter, my\ncoffee was bitter...\nI guess I shouldn't be\nsurprised I couldn't pull\nthe customers.\nIt was the coffee, you see?{01 00 00 05 00}\nNobody wants a bitter cup\nof java.",
-   "et": ""
+   "et": "{07 00 00}Omal ajal oli mul linnas\nväike kohvik.\n\nAh, need olid mustad ja\nmõrud päevad. Olin mõru,\nmu kohv oli mõru...\nVist ei peaks ma imestama,\net kliente ei tulnud.\n\nAsi oli kohvis, näed sa?{01 00 00 05 00}\nKeegi ei taha mõru\ntassi kohvi."
   },
   {
    "id": 70,
    "en": "Don't sweat the Bells. It's\non me today.\n\n{07 02 00}{01 00 00 0a 00}Oh!\n\n\n{07 00 00}Sorry about that.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0f 00}\nI forgot you'd{01 00 00 05 00} already paid.",
-   "et": ""
+   "et": "Ära muretse kellade pärast.\nTäna on minu kulul.\n\n{07 02 00}{01 00 00 0a 00}Oh!\n\n\n{07 00 00}Vabandust.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0f 00}\nUnustasin,{01 00 00 05 00} et juba maksid."
   },
   {
    "id": 71,
    "en": "{01 00 00 0a 00}Coo.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n\n\n{07 00 00}{0b 03 00}{04 00 00},{01 00 00 05 00} why don't you\nrelax and enjoy yourself.\nNo need to hurry.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}",
-   "et": ""
+   "et": "{01 00 00 0a 00}Kuu{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n\n\n{07 00 00}{0b 03 00}{04 00 00},{01 00 00 05 00} lõõgastu\nja naudi elu.\nKiirustada pole vaja{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}."
   },
   {
    "id": 72,
    "en": "{07 00 00}You're probably curious\nabout the secret of my\nspecial {ff 00 00 02}pigeon milk{ff 00 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\nSure, I'll tell you. You see,\nit's.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} Well.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{01 01 00}\nYeah, never mind.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}",
-   "et": ""
+   "et": "{07 00 00}Sind huvitab ilmselt mu\nerilise {ff 00 00 02}tuvipiima{ff 00 00 00}\nsaladus{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\nMuidugi räägin. Näed sa,\nasi on{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} Noh{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 01 00}\nJah, ega midagi{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}."
   },
   {
    "id": 73,
    "en": "Why don't you take a\nseat right over there?",
-   "et": ""
+   "et": "Miks sa ei istu\nsealsamas?"
   },
   {
    "id": 74,
    "en": "Have a seat if you want.",
-   "et": ""
+   "et": "Istu, kui tahad."
   },
   {
    "id": 75,
    "en": "No need to be shy.{01 00 00 05 00} Just\ngrab yourself a chair.",
-   "et": ""
+   "et": "Pole vaja häbeneda.{01 00 00 05 00} Võta\nendale lihtsalt tool."
   },
   {
    "id": 76,
    "en": "I mean it.{01 00 00 05 00} Have a seat.",
-   "et": ""
+   "et": "Ma mõtlen seda.{01 00 00 05 00} Istu."
   },
   {
    "id": 77,
    "en": "{07 00 00}I suppose I ought to{01 00 00 05 00} pick\nup some more sugar.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}",
-   "et": ""
+   "et": "{07 00 00}Vist peaksin{01 00 00 05 00} veel\nsuhkrut hankima{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}."
   },
   {
    "id": 78,
    "en": "{07 00 00}{07 00 00}You see a lot of pigeons\nout in the city,{01 00 00 05 00} milling\naround,{01 00 00 05 00} doing their thing.\nBut nobody can ever figure\nout where they roost when\nthey're not in the streets.",
-   "et": ""
+   "et": "{07 00 00}{07 00 00}Linnas näeb palju tuvisid\nsaginamas,{01 00 00 05 00} sebimas,{01 00 00 05 00}\noma asju ajamas.\nAga keegi ei suuda välja\nnuputada, kus nad ööbivad,\nkui neid tänaval pole."
   },
   {
    "id": 79,
    "en": "{01 00 00 0a 00}Coo coo.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\nDon't mention it. I do what\nI do because I love it.{02 00 00 3c 3e}\nI love it here!\nIs that so?",
-   "et": ""
+   "et": "{01 00 00 0a 00}Kuu kuu{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\nÄra räägi. Teen, mida ma\nteen, sest armastan seda.{02 00 00 3c 3e}\nMulle meeldib siin!\nKas tõesti?"
   },
   {
    "id": 80,
    "en": "{07 00 00}You see a lot of pigeons\nout in the city,{01 00 00 05 00} milling\naround,{01 00 00 05 00} doing their thing.\nBut nobody can ever figure\nout where they roost when\nthey're not in the streets.\nThat's what gave me the\nidea for this cafe.\n\nWhen you get right down to\nit, what we all need is a\nplace to go{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.\nA place where we can escape\nthe noise of our lives{01 00 00 05 00} and\njust relax.",
-   "et": ""
+   "et": "{07 00 00}Linnas näeb palju tuvisid\nsaginamas,{01 00 00 05 00} sebimas,{01 00 00 05 00}\noma asju ajamas.\nAga keegi ei suuda välja\nnuputada, kus nad ööbivad,\nkui neid tänaval pole.\nSee andiski mulle mõtte\nsee kohvik teha.\n\nKui päris aus olla, siis\nkõik me vajame\nkohta, kuhu minna{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.\nKohta, kus pääseda oma\nelu lärmist{01 00 00 05 00} ja\nlihtsalt lõõgastuda."
   },
   {
    "id": 81,
    "en": "{07 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}Thanks.",
-   "et": ""
+   "et": "{07 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}Aitäh."
   },
   {
    "id": 82,
    "en": "{07 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}Thanks.",
-   "et": ""
+   "et": "{07 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}Aitäh."
   },
   {
    "id": 83,
    "en": "{07 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}Thanks.",
-   "et": ""
+   "et": "{07 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}Aitäh."
   },
   {
    "id": 84,
    "en": "{07 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}Thanks.",
-   "et": ""
+   "et": "{07 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}Aitäh."
   },
   {
    "id": 85,
    "en": ".{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}",
-   "et": ""
+   "et": ".{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}"
   },
   {
    "id": 86,
    "en": "Hate to say this, but,\nwell, it's been a busy day\naround here, and.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\nI'm fresh out of beans. But\ndon't panic. I'll be roasting\nup a new batch in no time.",
-   "et": ""
+   "et": "Ei taha seda öelda, aga\nsiin on olnud kiire\npäev ja{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\nMu oad said otsa. Aga ära\nsatu paanikasse. Röstin\nvarsti uue partii."
   },
   {
    "id": 87,
    "en": "I'm not open just yet.",
-   "et": ""
+   "et": "Ma pole veel avatud."
   },
   {
    "id": 88,
    "en": "It'd be nice of you to turn\nyour {ff 00 00 07}timer{ff 00 00 00} off during the\nshow{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.",
-   "et": ""
+   "et": "Oleks kena, kui paneksid\netenduse ajaks oma\n{ff 00 00 07}taimeri{ff 00 00 00} kinni{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}."
   }
  ]
 }

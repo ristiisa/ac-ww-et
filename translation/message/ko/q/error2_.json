@@ -4,12 +4,12 @@
   {
    "id": 0,
    "en": "{07 16 00}Hey.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} Maybe I'm a little\non the fast side, but\nyou're way too slow.\n{07 15 00}I mean,{01 00 00 05 00} I don't mind waitin',{01 00 00 0f 00}\nbut not everyone is as nice\nas me, {01 00 00 05 00}{04 02 00}.",
-   "et": ""
+   "et": "{07 16 00}Kuule.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} Ehk olen mina\npisut kärmas, aga\nsina oled liiga aeglane.\n{07 15 00}Noh,{01 00 00 05 00} mind ootamine ei sega,{01 00 00 0f 00}\naga kõik pole nii kenad\nkui mina, {01 00 00 05 00}{04 02 00}."
   },
   {
    "id": 1,
    "en": "{07 04 00}Huh? No way! I'm out,\n{01 00 00 05 00}{04 02 00}!\n\n{07 00 00}Next time, make it a little\nquicker, would ya, \n{01 00 00 05 00}{04 02 00}?",
-   "et": ""
+   "et": "{07 04 00}Ah? Ei või olla! Ma lähen,\n{01 00 00 05 00}{04 02 00}!\n\n{07 00 00}Järgmine kord tee natuke\nkiiremini, eks,\n{01 00 00 05 00}{04 02 00}?"
   }
  ]
 }

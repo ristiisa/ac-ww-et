@@ -4,32 +4,32 @@
   {
    "id": 0,
    "en": "{07 14 00}Hello, hello, hello!{01 00 00 0a 00} HELLO!{01 01 00}\n{07 03 00}Tee hee hee!{01 00 00 05 00}{07 00 00}{07 0e 00} Oh wow, did I,\nlike, scare you?{01 00 00 05 00}{07 00 00} Sorry!\nI just moved to this town!{01 00 00 05 00}\n{07 0d 00}I think we're gonna be\nBEST friends, {01 00 00 05 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 14 00}Tere, tere, tere!{01 00 00 0a 00} TERE!{01 01 00}\n{07 03 00}Hihihii!{01 00 00 05 00}{07 00 00}{07 0e 00} Oi vau, kas ma,\nnagu, ehmatasin sind?{01 00 00 05 00}{07 00 00} Sorri!\nKolisin just siia linna!{01 00 00 05 00}\n{07 0d 00}Ma arvan, et meist saavad\nPARIMAD sõbrad, {01 00 00 05 00}{04 02 00}!"
   },
   {
    "id": 1,
    "en": "{07 14 00}Hi there, {01 00 00 05 00}{04 1f 00}!{01 01 00}\n{07 0b 00}It's ME!!{01 00 00 0f 00} {07 15 00}Um, you DO\nremember me, right?\n{07 14 00}{0b 03 00}{04 01 00}? Yep, that's\nme!{ff 00 00 08}\n\n{ff 00 00 00}And you're {ff 00 00 05}{04 00 00}{ff 00 00 00},\nright?{01 00 00 05 00} YAY! {07 0d 00}Now we can talk\nEVERY DAY, {01 00 00 05 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 14 00}Tere, {01 00 00 05 00}{04 1f 00}!{01 01 00}\n{07 0b 00}See olen MINA!!{01 00 00 0f 00} {07 15 00}Ee, sa ju\nMÄLETAD mind, eks?\n{07 14 00}{0b 03 00}{04 01 00}? Jaa, see olen\nmina!{ff 00 00 08}\n\n{ff 00 00 00}Ja sina oled {ff 00 00 05}{04 00 00}{ff 00 00 00},\neks?{01 00 00 05 00} JEE! {07 0d 00}Nüüd saame\nrääkida IGA PÄEV, {01 00 00 05 00}{04 02 00}!"
   },
   {
    "id": 2,
    "en": "{07 14 00}Oh, WOW!{01 00 00 0a 00} It's, like, you! Hey,\nyou! It's ME!{01 00 00 0f 00} {07 00 00}{07 0b 00}C'mon! You\nremember me, right?\n{ff 00 00 06}{07 06 00}{0b 03 00}{04 01 00}{ff 00 00 08}{01 00 00 05 00} {ff 00 00 00}from{ff 00 00 08}\n{04 10 00}{ff 00 00 00}?!{01 00 00 0a 00}{07 00 00}{07 0a 00} Of COURSE you\nremember me, silly! YAY ME!\n{07 00 00}{07 14 00}Let's totally hook up and\n{04 22 00} again,\n{01 00 00 05 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 14 00}Oi, VAU!{01 00 00 0a 00} See oled, nagu,\nsina! Hei, sina! See olen\nMINA!{01 00 00 0f 00}{07 00 00}{07 0b 00} No tule! Sa mäletad\nmind, eks? {ff 00 00 06}{07 06 00}{0b 03 00}{04 01 00}{ff 00 00 08}{01 00 00 05 00} {ff 00 00 00}linnast{ff 00 00 08}\n{04 10 00}{ff 00 00 00}?!{01 00 00 0a 00}{07 00 00}{07 0a 00} MUIDUGI sa\nmäletad mind, rumaluke! JEE!\n{07 00 00}{07 14 00}Lähme kindlasti jälle koos\n{04 22 00},\n{01 00 00 05 00}{04 02 00}!"
   },
   {
    "id": 3,
    "en": "{07 04 00}OHMIGOSH!{01 00 00 05 00} {0b 03 00}{04 1f 00}!!{01 00 00 0a 00} {07 14 00}It's\nbeen, like, FOREVER,\n{01 00 00 05 00}{04 02 00}!\n{07 00 00}{07 0b 00}We haven't seen each other\nsince back in\n{ff 00 00 08}{04 10 00}{ff 00 00 00}, right?{07 00 00}\n{07 14 00}Y'know, something about\nthat time just stuck with\nme, so{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}well, here I am!",
-   "et": ""
+   "et": "{07 04 00}OHJUMAL!{01 00 00 05 00} {0b 03 00}{04 1f 00}!!{01 00 00 0a 00} {07 14 00}Sellest\non, nagu, IGAVIK möödas,\n{01 00 00 05 00}{04 02 00}!\n{07 00 00}{07 0b 00}Me pole teineteist näinud\nsellest ajast, kui olime\n{ff 00 00 08}{04 10 00}{ff 00 00 00}s, eks?{07 00 00}\n{07 14 00}Tead, miski sellest ajast\njäi mulle lihtsalt külge,\nnii et{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}noh, siin ma olen!"
   },
   {
    "id": 4,
    "en": "{07 0b 00}Oh, wow! Like, hold on!{01 00 00 0f 00}\n{07 04 00}{0b 03 00}{04 1f 00}?{01 00 00 0f 00} {07 02 00}{0b 03 00}{04 1f 00}?!{01 00 00 0f 00}\n{07 1a 00}{0b 03 00}{04 02 00}!!!\n{07 00 00}Ohmigosh, {07 14 00}I just moved here\nfrom {ff 00 00 08}{04 10 00}{ff 00 00 00}! We're\ngonna be best friends!",
-   "et": ""
+   "et": "{07 0b 00}Oi, vau! Nagu, oota!{01 00 00 0f 00}\n{07 04 00}{0b 03 00}{04 1f 00}?{01 00 00 0f 00} {07 02 00}{0b 03 00}{04 1f 00}?!{01 00 00 0f 00}\n{07 1a 00}{0b 03 00}{04 02 00}!!!\n{07 00 00}Ohjumal, {07 14 00}ma kolisin just\nsiia {ff 00 00 08}{04 10 00}{ff 00 00 00}st! Meist\nsaavad parimad sõbrad!"
   },
   {
    "id": 5,
    "en": "{07 14 00}{0b 03 00}{04 1f 00}!!!{01 01 00} Oh, wow.\nYou're speechless, aren't\nyou, {01 00 00 05 00}{04 02 00}?\n{07 00 00}Folks from {04 03 00} love\nto {04 22 00}, so I\nmoved here!{01 00 00 05 00}\n{07 0a 00}I hope we can hang out\nsometime, {04 1f 00}! We'll\nhave TONS of fun!",
-   "et": ""
+   "et": "{07 14 00}{0b 03 00}{04 1f 00}!!!{01 01 00} Oi, vau.\nSa oled sõnatu, kas pole\nnii, {01 00 00 05 00}{04 02 00}?\n{07 00 00}{04 03 00} rahvale meeldib\n{04 22 00}, nii et ma\nkolisin siia!{01 00 00 05 00}\n{07 0a 00}Loodan, et saame kunagi\nkoos olla, {04 1f 00}! Meil\ntuleb TONNIDE viisi lõbu!"
   }
  ]
 }

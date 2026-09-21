@@ -4,17 +4,17 @@
   {
    "id": 0,
    "en": "{07 0e 00}Lately, I've been trying to\ncollect{01 00 00 05 00} the pieces of the\n{0b 02 00}{ff 00 00 02}{04 0f 00}{ff 00 00 00}.\n{07 16 00}But something's missing.{01 01 00}\n{07 0b 00}What am I missing?{01 00 00 14 00} The\nhead?\nOh, man{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00} {07 06 00}Darn it!{01 00 00 0a 00} I can't\neven tell what I'm missing!\nIt all looks like bones!",
-   "et": ""
+   "et": "{07 0e 00}Viimasel ajal olen üritanud\nkoguda{01 00 00 05 00} tükke\n{0b 02 00}{ff 00 00 02}{04 0f 00}{ff 00 00 00}-st.\n{07 16 00}Aga midagi on puudu.{01 01 00}\n{07 0b 00}Mis mul puudu on?{01 00 00 14 00} Kas\npea?\nOh, issand{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00} {07 06 00}Pagan!{01 00 00 0a 00} Ma ei\nsaa arugi, mis puudu on!\nKõik näeb välja nagu kondid!"
   },
   {
    "id": 1,
    "en": "{07 14 00}I've almost completed the\n{0b 02 00}{ff 00 00 02}{04 0f 00}\n{ff 00 00 00}fossil,{01 00 00 0a 00} {04 02 00}.\n{07 0b 00}What should I say when I\nfinish it? {07 00 00}\"Nice to meet\nyou\"?{01 01 00} \"Hello\"?\n{07 0a 00}Yippee!{01 00 00 0a 00} Just thinking about\nit{01 00 00 05 00} gets me sooo psyched,{01 00 00 0a 00}\n{04 02 00}!",
-   "et": ""
+   "et": "{07 14 00}Olen peaaegu valmis saanud\n{0b 02 00}{ff 00 00 02}{04 0f 00}\n{ff 00 00 00}fossiili,{01 00 00 0a 00} {04 02 00}.\n{07 0b 00}Mida ma peaksin ütlema, kui\nsee valmis saab? {07 00 00}„Meeldiv\ntutvuda”?{01 01 00} „Tere”?\n{07 0a 00}Jipii!{01 00 00 0a 00} Juba mõte sellest{01 00 00 05 00}\nteeb mind nii elevil,{01 00 00 0a 00}\n{04 02 00}!"
   },
   {
    "id": 2,
    "en": "{07 00 00}I'm working on collecting{01 00 00 05 00}\nall the pieces{01 00 00 0a 00} of the\n{0b 02 00}{ff 00 00 02}{04 0f 00}{ff 00 00 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n{07 1b 00}But I just can't seem to\nfind the last one I need.\n\n{07 16 00}If I could just finish it, it\nwould look sooo cool.\n\n{07 1c 00}{01 00 00 0a 00}But now it just looks\npathetic without all of its\npieces,{01 00 00 0a 00} {04 02 00}.",
-   "et": ""
+   "et": "{07 00 00}Üritan koguda{01 00 00 05 00}\nkõiki tükke{01 00 00 0a 00}\n{0b 02 00}{ff 00 00 02}{04 0f 00}{ff 00 00 00}-st{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n{07 1b 00}Aga ma ei suuda kuidagi\nviimast leida.\n\n{07 16 00}Kui ma selle valmis saaksin,\nnäeks see nii lahe välja.\n\n{07 1c 00}{01 00 00 0a 00}Aga praegu näeb see ilma\nkõigi tükkideta lihtsalt\nhale välja,{01 00 00 0a 00} {04 02 00}."
   }
  ]
 }

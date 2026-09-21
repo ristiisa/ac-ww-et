@@ -4,57 +4,57 @@
   {
    "id": 0,
    "en": "{07 15 00}Hey, c'mon, {01 00 00 05 00}{04 1f 00}!{01 00 00 0f 00}\nThis place is a DUMP! {01 00 00 05 00}And\nwhat reeks, {01 00 00 05 00}{04 02 00}?!\n{07 00 00}Sorry, but I'm gonna have\nto dock you some points.{01 00 00 05 00}\n{04 12 00} out of five!",
-   "et": ""
+   "et": "{07 15 00}Hei, ole nüüd, {01 00 00 05 00}{04 1f 00}!{01 00 00 0f 00}\nSee koht on PRÜGIMÄGI! {01 00 00 05 00}Ja\nmis siin haiseb, {01 00 00 05 00}{04 02 00}?!\n{07 00 00}Vabandust, aga ma pean\nsult punkte maha võtma.{01 00 00 05 00}\n{04 12 00} viiest!"
   },
   {
    "id": 1,
    "en": "{07 15 00}Come ON, {ff 00 00 05}{04 1f 00}{ff 00 00 00}!{01 00 00 0a 00}\nThere's too much stuff just\nlaying around here!\n{07 00 00}I mean, this place is\nactually messier than mine!\n\n{07 14 00}In my five-star rating\nsystem, you get only{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n{04 12 00}, {04 02 00}!",
-   "et": ""
+   "et": "{07 15 00}Ole NÜÜD, {ff 00 00 05}{04 1f 00}{ff 00 00 00}!{01 00 00 0a 00}\nSiin vedeleb liiga palju\nkraami ringi!\n{07 00 00}Ma mõtlen, see koht on\ntegelikult segasem kui minu!\n\n{07 14 00}Minu viietärnisüsteemis\nsaad sa ainult{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n{04 12 00}, {04 02 00}!"
   },
   {
    "id": 2,
    "en": "{07 04 00}Huh?{01 00 00 14 00} {07 0b 00}Your furniture...{01 00 00 05 00}\nIs furniture SUPPOSED to\nface the wall?\n{07 00 00}How are you supposed to\nuse stuff {07 0b 00}if it's facing the\nwrong way?\n{07 14 00}I guess contorting yourself\nworks the abs, so you get\n{04 12 00}!",
-   "et": ""
+   "et": "{07 04 00}Ah?{01 00 00 14 00} {07 0b 00}Su mööbel...{01 00 00 05 00}\nKas mööbel PEABKI olema\nnäoga vastu seina?\n{07 00 00}Kuidas sa peaksid asju\nkasutama, {07 0b 00}kui need on\nvaletpidi?\n{07 14 00}Vist väänlemine treenib\nkõhulihaseid, nii et saad\n{04 12 00}!"
   },
   {
    "id": 3,
    "en": "{07 04 00}Hey yo, {01 00 00 05 00}{04 1f 00}!{01 00 00 0f 00}\n{07 0b 00}Your furniture is all\nwonky, {01 00 00 05 00}{04 02 00}!\n{07 00 00}I appreciate weird styles,\nbut stuff shouldn't face\nrandom directions...{01 00 00 05 00}\n{07 15 00}I mean, it's inconvenient!{01 00 00 05 00}\nI rate this room {04 12 00}\nout of five stars!",
-   "et": ""
+   "et": "{07 04 00}Hei jou, {01 00 00 05 00}{04 1f 00}!{01 00 00 0f 00}\n{07 0b 00}Su mööbel on täiesti\nviltu, {01 00 00 05 00}{04 02 00}!\n{07 00 00}Ma hindan imelikke stiile,\naga asjad ei tohiks olla\njuhuslikes suundades...{01 00 00 05 00}\n{07 15 00}See on ju ebamugav!{01 00 00 05 00}\nAnnan sellele toale {04 12 00}\nviiest tärnist!"
   },
   {
    "id": 4,
    "en": "{07 06 00}How could you LIVE in a\nplace like this?!\n\n{07 0b 00}Are you doing survival\ntraining or something,\n{01 00 00 05 00}{04 02 00}?\n{07 00 00}Hey, training is good!{01 00 00 05 00}\n{07 14 00}I'll up your score for that,{01 00 00 05 00}\nso...a {04 12 00} room!",
-   "et": ""
+   "et": "{07 06 00}Kuidas sa saad ELADA\nsellises kohas?!\n\n{07 0b 00}Kas sa teed ellujäämis-\ntreeningut või midagi,\n{01 00 00 05 00}{04 02 00}?\n{07 00 00}Hei, treening on hea!{01 00 00 05 00}\n{07 14 00}Tõstan selle eest punkte,{01 00 00 05 00}\nnii et...{04 12 00} tuba!"
   },
   {
    "id": 5,
    "en": "{07 00 00}Maybe it's none of my\nbeeswax, but {07 06 00}don't you need\na little more stuff to live?\n{07 00 00}Well, {01 00 00 05 00}being messy is sort of\nyour style, so that's OK,\nbut wow...\nMy five-star rating system \ngives you a measly score\nof {04 12 00}!",
-   "et": ""
+   "et": "{07 00 00}Võib-olla pole see mu asi,\naga {07 06 00}kas sul poleks vaja\nnatuke rohkem kraami?\n{07 00 00}Noh, {01 00 00 05 00}segadus on omamoodi\nsinu stiil, nii et olgu,\naga vau...\nMinu viietärnisüsteem \nannab sulle kasina\ntulemuse {04 12 00}!"
   },
   {
    "id": 6,
    "en": "{07 15 00}Just collecting random crud\nis NOT good enough!\n\n{07 16 00}Look at this mess! If I did\na power lunge in here, I'd\nbreak a hip!\n{07 00 00}With that obvious safety\nhazard in mind,{01 00 00 05 00} you get a\nscore of {04 12 00}!",
-   "et": ""
+   "et": "{07 15 00}Lihtsalt juhusliku rämpsu\nkogumisest EI PIISA!\n\n{07 16 00}Vaata seda segadust! Kui\nteeksin siin jõuväljaaste,\nmurraksin puusa!\n{07 00 00}Seda ilmselget ohtu\narvestades{01 00 00 05 00} saad sa\ntulemuse {04 12 00}!"
   },
   {
    "id": 7,
    "en": "{07 00 00}Wow, your room is about as\ndisorganized as mine,{01 00 00 05 00}\n{04 02 00}!\n{07 14 00}Out of five stars, I'm gonna\ngive this place{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{04 12 00}!",
-   "et": ""
+   "et": "{07 00 00}Vau, su tuba on umbes sama\nkorratu kui minu oma,{01 00 00 05 00}\n{04 02 00}!\n{07 14 00}Viiest tärnist annan ma\nsellele kohale{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{04 12 00}!"
   },
   {
    "id": 8,
    "en": "{07 09 00}It's like you did everything\nin this room halfway,\n{01 00 00 05 00}{04 02 00}!\n{07 00 00}I mean, maybe you oughta\nconcentrate on collecting\na set of ONE theme!\n{07 00 00}Think about it, OK?{01 00 00 05 00}\nFor now, you get\n{04 12 00} out of five!",
-   "et": ""
+   "et": "{07 09 00}Tundub, et sa tegid kõik\nselles toas poolikult,\n{01 00 00 05 00}{04 02 00}!\n{07 00 00}Võib-olla peaksid sa\nkeskenduma ÜHE teema\nkomplekti kogumisele!\n{07 00 00}Mõtle selle peale, eks?{01 00 00 05 00}\nPraegu saad sa\n{04 12 00} viiest!"
   },
   {
    "id": 9,
    "en": "{07 00 00}OK, listen, {04 1f 00}...{01 00 00 05 00}\n{07 0e 00}Your room is missing \nsomething, {01 00 00 05 00}{04 02 00}.\n{07 00 00}I think you need some more\nmatching items, maybe...\n\n{07 00 00}In my five-star rating\nsystem, this would rate\n{04 12 00}, {01 00 00 05 00}{04 02 00}.",
-   "et": ""
+   "et": "{07 00 00}Olgu, kuula, {04 1f 00}...{01 00 00 05 00}\n{07 0e 00}Su toal on midagi \npuudu, {01 00 00 05 00}{04 02 00}.\n{07 00 00}Ma arvan, et sul on vaja\nrohkem sobivaid asju...\n\n{07 00 00}Minu viietärnisüsteemis\nsaaks see hinnanguks\n{04 12 00}, {01 00 00 05 00}{04 02 00}."
   },
   {
    "id": 10,
    "en": "{07 14 00}{ff 00 00 05}{0b 03 00}{04 1f 00}{ff 00 00 00}!{01 00 00 0a 00} This ROCKS!{01 00 00 05 00}\nThis room is perfect for\nmy entire workout regimen!\n{07 00 00}If you only had a protein-\nshake dispenser here, {01 00 00 05 00}I'd\nmove in, {04 02 00}!\n{07 00 00}Well, this room maxes out \nmy rating system, no DOUBT!{01 00 00 05 00}\n{04 12 00}, all the way!",
-   "et": ""
+   "et": "{07 14 00}{ff 00 00 05}{0b 03 00}{04 1f 00}{ff 00 00 00}!{01 00 00 0a 00} See ROKIB!{01 00 00 05 00}\nSee tuba sobib ideaalselt\nkogu mu trennikavale!\n{07 00 00}Kui sul oleks siin veel\nproteiiniautomaat, {01 00 00 05 00}koliksin\nsisse, {04 02 00}!\n{07 00 00}Noh, see tuba lööb mu \nhinnangu lakke, KAHTLEMATA!{01 00 00 05 00}\n{04 12 00}, täiega!"
   }
  ]
 }

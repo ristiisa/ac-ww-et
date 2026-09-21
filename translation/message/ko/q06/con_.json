@@ -4,17 +4,17 @@
   {
    "id": 0,
    "en": "{07 06 00}You'd better deliver that\npackage, STAT!{01 00 00 05 00} You hear me,\n{01 00 00 05 00}{04 02 00}?!\n{07 16 00}I told {ff 00 00 06}{04 10 00} {ff 00 00 00}that\nI'd have this thing \ndelivered on time!",
-   "et": ""
+   "et": "{07 06 00}Sa peaksid selle paki\nKOHE ära toimetama!{01 00 00 05 00} Kuuled,\n{01 00 00 05 00}{04 02 00}?!\n{07 16 00}Ma ütlesin {ff 00 00 06}{04 10 00} {ff 00 00 00}le,\net see asi toimetatakse\nõigeks ajaks kohale!"
   },
   {
    "id": 1,
    "en": "{07 14 00}Heh heh,{01 00 00 0f 00} I can just see \nthe look on {ff 00 00 06}{04 10 00}{ff 00 00 00}'s \nface, {01 00 00 05 00}{04 02 00}.\n{07 06 00}Hey, {01 00 00 05 00}{04 1f 00}!{01 00 00 0f 00} Quit your\nlollygaggin' and get a move\non, will ya?!",
-   "et": ""
+   "et": "{07 14 00}Heh heh,{01 00 00 0f 00} ma juba näen\n{ff 00 00 06}{04 10 00}{ff 00 00 00} nägu,\n{01 00 00 05 00}{04 02 00}.\n{07 06 00}Hei, {01 00 00 05 00}{04 1f 00}!{01 00 00 0f 00} Lõpeta\nlooderdamine ja liiguta\nend, eks?!"
   },
   {
    "id": 2,
    "en": "{07 16 00}Listen,{01 00 00 05 00} you've gotta get\nthat package to\n{ff 00 00 06}{04 10 00}{ff 00 00 00} right quick!\n{07 0e 00}You know, {04 1f 00},\nI have a theory about \npackage delivery.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 19 00}You've gotta deliver it\nwhile it's still warm,\n{01 00 00 05 00}{04 02 00}.",
-   "et": ""
+   "et": "{07 16 00}Kuula,{01 00 00 05 00} sa pead selle paki\n{ff 00 00 06}{04 10 00}{ff 00 00 00}le kiiresti\nkohale toimetama!\n{07 0e 00}Tead, {04 1f 00},\nmul on pakkide kohta\nüks teooria{01 00 00 05 00}.{01 00 00 05 00}.\n{07 19 00}Sa pead selle kohale viima,\nkuni see on veel soe,\n{01 00 00 05 00}{04 02 00}."
   }
  ]
 }

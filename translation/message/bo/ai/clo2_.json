@@ -4,17 +4,17 @@
   {
    "id": 0,
    "en": "{01 00 00 05 00}{07 04 00}Hey, {04 1f 00}!{01 00 00 14 00}\n{07 14 00}Check out this {0b 02 00}\n{ff 00 00 07}{04 1b 00}!\n{07 00 00}{ff 00 00 05}{04 14 00} {ff 00 00 00}sent this to me{01 00 00 05 00}\nwith a letter.\n\n{07 0d 00}Pretty cool, huh?{01 00 00 14 00}\nIt's a little wrinkled 'cause\nI fell asleep with it on.",
-   "et": ""
+   "et": "{01 00 00 05 00}{07 04 00}Hei, {04 1f 00}!{01 00 00 14 00}\n{07 14 00}Vaata seda {0b 02 00}\n{ff 00 00 07}{04 1b 00}!\n{07 00 00}{ff 00 00 05}{04 14 00} {ff 00 00 00}saatis selle mulle{01 00 00 05 00}\nkoos kirjaga.\n\n{07 0d 00}Päris lahe, mis?{01 00 00 14 00}\nPisut kortsus, sest\njäin sellega magama."
   },
   {
    "id": 1,
    "en": "{07 04 00}{01 00 00 05 00}Hey, {01 00 00 0a 00}{04 1f 00}!{01 00 00 14 00}\n{07 14 00}What do you think of this\n{0b 02 00}{04 1b 00}?\n{07 0d 00}{ff 00 00 05}{04 14 00}{ff 00 00 00}{01 00 00 0a 00} sent it to me in a letter!\n{07 00 00}When I wear it, it feels like\na big hug.{01 00 00 14 00} {07 13 00}{01 00 00 0a 00}It feels so good.",
-   "et": ""
+   "et": "{07 04 00}{01 00 00 05 00}Hei, {01 00 00 0a 00}{04 1f 00}!{01 00 00 14 00}\n{07 14 00}Mida sa arvad sellest\n{0b 02 00}{04 1b 00}?\n{07 0d 00}{ff 00 00 05}{04 14 00}{ff 00 00 00}{01 00 00 0a 00} saatis selle mulle kirjaga!\n{07 00 00}Kui seda kannan, on tunne\nnagu suur kallistus.{01 00 00 14 00} {07 13 00}{01 00 00 0a 00}Nii hea tunne."
   },
   {
    "id": 2,
    "en": "{07 0b 00}{01 00 00 05 00}Hey, {04 1f 00},{01 00 00 0a 00} what do\nyou think of this {01 00 00 05 00}\n{0b 02 00}{ff 00 00 07}{04 1b 00}{ff 00 00 00}?\n{07 0e 00}{01 00 00 0a 00}{ff 00 00 05}{04 14 00}{ff 00 00 00}{01 00 00 0a 00} gave it to me, saying that\nit was my style{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n\n{07 0f 00}{01 00 00 14 00}Do people really think my\nstyle is this bad? {01 00 00 14 00}Wow,\nthat's really depressing.",
-   "et": ""
+   "et": "{07 0b 00}{01 00 00 05 00}Hei, {04 1f 00},{01 00 00 0a 00} mida sa\narvad sellest {01 00 00 05 00}\n{0b 02 00}{ff 00 00 07}{04 1b 00}{ff 00 00 00}?\n{07 0e 00}{01 00 00 0a 00}{ff 00 00 05}{04 14 00}{ff 00 00 00}{01 00 00 0a 00} andis selle mulle ja ütles,\net see on minu stiil{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n\n{07 0f 00}{01 00 00 14 00}Kas inimesed tõesti arvavad,\net mu stiil on nii halb? {01 00 00 14 00}Vau,\nsee teeb päris kurvaks."
   }
  ]
 }

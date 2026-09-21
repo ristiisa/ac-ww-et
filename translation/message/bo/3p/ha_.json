@@ -4,82 +4,82 @@
   {
    "id": 0,
    "en": "{09 01 00}{09 08 00}{07 14 00}Don't take this the wrong\nway, {ff 00 00 06}{04 10 00}{ff 00 00 00}, but when\nyou laugh, you look dreamy.{09 09 00}",
-   "et": ""
+   "et": "{09 01 00}{09 08 00}{07 14 00}Ära mõista valesti,\n{ff 00 00 06}{04 10 00}{ff 00 00 00}, aga kui sa\nnaerad, näed unistav välja.{09 09 00}"
   },
   {
    "id": 1,
    "en": "{09 01 00}{09 08 00}{07 14 00}Ooo! Hey!{01 00 00 0f 00} Do you know the\nstory{01 00 00 0a 00} of \"{ff 00 00 02}{04 0f 00} and\n{04 10 00}{ff 00 00 00}\"?{09 09 00}",
-   "et": ""
+   "et": "{09 01 00}{09 08 00}{07 14 00}Ooo! Hei!{01 00 00 0f 00} Kas sa tead\nlugu{01 00 00 0a 00} „{ff 00 00 02}{04 0f 00} ja\n{04 10 00}{ff 00 00 00}”?{09 09 00}"
   },
   {
    "id": 2,
    "en": "{09 01 00}{09 04 00}Oh! {01 00 00 05 00}{0b 03 00}{04 1f 00}! What great\ntiming!\n\n{07 00 00}So, um,{01 00 00 14 00}{07 0b 00} {ff 00 00 06}{04 10 00}{ff 00 00 00} and I\nkind of look alike, don't\nyou think?{09 09 00}",
-   "et": ""
+   "et": "{09 01 00}{09 04 00}Oh! {01 00 00 05 00}{0b 03 00}{04 1f 00}! Milline\najastus!\n\n{07 00 00}Nii, ee,{01 00 00 14 00}{07 0b 00} {ff 00 00 06}{04 10 00}{ff 00 00 00} ja mina\noleme kuidagi sarnased, kas\nsa ei leia?{09 09 00}"
   },
   {
    "id": 3,
    "en": "{09 00 00}{09 08 00}{09 02 00}{09 06 00}{07 17 00}Uh, {01 00 00 0a 00}OK, I guess{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0f 00} {07 02 00}Wait!\nYou saying that my smile\nlooks fatigued? Flabby?\nDude, you're so wrong.{07 14 00}{01 00 00 0a 00} See?{01 00 00 05 00}\nMy smile is totally pumped,{01 00 00 05 00}\n{04 02 00}!{09 09 00}",
-   "et": ""
+   "et": "{09 00 00}{09 08 00}{09 02 00}{09 06 00}{07 17 00}Ee, {01 00 00 0a 00}olgu, vist{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0f 00} {07 02 00}Oota!\nSa ütled, et mu naeratus\nnäeb väsinud? Lötakas?\nSemu, sa eksid.{07 14 00}{01 00 00 0a 00} Näed?{01 00 00 05 00}\nMu naeratus on täiesti\ntrenni tehtud,{01 00 00 05 00} {04 02 00}!{09 09 00}"
   },
   {
    "id": 4,
    "en": "{09 00 00}{09 06 00}{09 01 00}{07 0a 00}Huh huh huh!{01 00 00 0f 00} And those\ndimples you get when you\nsmile are dreamy, too{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{09 09 00}",
-   "et": ""
+   "et": "{09 00 00}{09 06 00}{09 01 00}{07 0a 00}Hah hah haa!{01 00 00 0f 00} Ja need\nlohukesed, mis naeratades\ntekivad, on ka unistavad{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{09 09 00}"
   },
   {
    "id": 5,
    "en": "{09 00 00}{09 08 00}{09 02 00}{07 19 00}Heh heh heh!{01 00 00 0f 00} {07 01 00}I mean, these\naren't dimples.{09 01 00}{07 00 00}{09 02 00}\n\n{07 00 00}They're my totally ripped\nface muscles,{01 00 00 05 00} {04 02 00}!\n\n{07 15 00}See{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0f 00} Here's your proof!\n{07 01 00}{01 00 00 05 00}See how {01 00 00 05 00}rock-solid that is?{09 09 00}",
-   "et": ""
+   "et": "{09 00 00}{09 08 00}{09 02 00}{07 19 00}Heh heh heh!{01 00 00 0f 00} {07 01 00}Need pole\nlohukesed.{09 01 00}{07 00 00}{09 02 00}\n\n{07 00 00}Need on mu täiesti trenni\ntehtud näolihased,{01 00 00 05 00} {04 02 00}!\n\n{07 15 00}Vaata{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0f 00} Siin on tõestus!\n{07 01 00}{01 00 00 05 00}Näed, kui {01 00 00 05 00}kivikõvad need on?{09 09 00}"
   },
   {
    "id": 6,
    "en": "{09 00 00}{09 06 00}{09 01 00}{07 02 00}EW! GROSS!{01 00 00 0f 00} Your dimples are\npulsating! {01 01 00}{07 0a 00}That's so cool,\n{ff 00 00 06}{04 10 00}{ff 00 00 00}.{01 00 00 05 00} {0b 03 00}{04 02 00}!{03 01 00 01}",
-   "et": ""
+   "et": "{09 00 00}{09 06 00}{09 01 00}{07 02 00}ÖÖK! JÄLK!{01 00 00 0f 00} Su lohukesed\ntuksuvad! {01 01 00}{07 0a 00}See on nii lahe,\n{ff 00 00 06}{04 10 00}{ff 00 00 00}.{01 00 00 05 00} {0b 03 00}{04 02 00}!{03 01 00 01}"
   },
   {
    "id": 7,
    "en": "{09 00 00}{09 08 00}{09 02 00}{09 06 00}Does it involve pumping\niron? {01 00 00 0f 00}'Cause if it doesn't,\nprobably not.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n{07 0b 00}So,{01 00 00 05 00} what kind of story\nis it,{01 00 00 05 00} {04 02 00}?{09 09 00}",
-   "et": ""
+   "et": "{09 00 00}{09 08 00}{09 02 00}{09 06 00}Kas see hõlmab raua\nkangutamist? {01 00 00 0f 00}Sest kui ei,\nsiis vist mitte{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 0b 00}Nii,{01 00 00 05 00} mis lugu see on,\n{01 00 00 05 00}{04 02 00}?{09 09 00}"
   },
   {
    "id": 8,
    "en": "{09 00 00}{09 06 00}{09 02 00}{07 00 00}{09 01 00}{07 00 00}It's the story of a race\nbetween me and\n{ff 00 00 06}{04 10 00}{ff 00 00 00}.\n{07 15 00}{ff 00 00 06}{04 10 00}{ff 00 00 00} is fast, but\noverconfident and careless.\n\n{07 19 00}Whereas I labor on with\nsteady determination, and\ntriumph over {ff 00 00 06}{04 10 00}{ff 00 00 00}.\n{07 0a 00}Huh huh huh!{01 00 00 0f 00} It's such a\ncool story!{09 09 00}",
-   "et": ""
+   "et": "{09 00 00}{09 06 00}{09 02 00}{07 00 00}{09 01 00}{07 00 00}See on lugu võidujooksust\nminu ja\n{ff 00 00 06}{04 10 00}{ff 00 00 00} vahel.\n{07 15 00}{ff 00 00 06}{04 10 00}{ff 00 00 00} on kiire, aga\nliiga enesekindel ja hooletu.\n\n{07 19 00}Mina aga rühin edasi\nkindla sihikindlusega ja\nvõidan {ff 00 00 06}{04 10 00}{ff 00 00 00}.\n{07 0a 00}Hah hah haa!{01 00 00 0f 00} Nii lahe\nlugu!{09 09 00}"
   },
   {
    "id": 9,
    "en": "{09 00 00}{09 08 00}{09 02 00}{07 0e 00}Hmmm{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{09 01 00}{07 00 00}{09 02 00} So, in the story,\nyou take advantage of my\ncarelessness, is that it?\n{07 03 00}Dude, that is the worst\nstory ever! A fairy tale is\nmore believable than that!\n{07 00 00}See, this is exactly why I'm\nmore into working out my\nlegs than my mind!\n{07 03 00}'Cause all you \"thinkers\" are\ntotal nut jobs!{09 09 00}",
-   "et": ""
+   "et": "{09 00 00}{09 08 00}{09 02 00}{07 0e 00}Hmmm{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{09 01 00}{07 00 00}{09 02 00} Nii et loos\nsa kasutad ära minu\nhooletust, on nii?\n{07 03 00}Semu, see on halvim lugu\nüldse! Muinasjutt on\nusutavam kui see!\n{07 00 00}Näed, just sellepärast\ntreenin ma pigem jalgu\nkui mõistust!\n{07 03 00}Sest kõik teie „mõtlejad”\nolete täielikud hullud!{09 09 00}"
   },
   {
    "id": 10,
    "en": "{09 00 00}{09 06 00}{09 01 00}{07 02 00}Sheesh!{01 00 00 0f 00} Me winning is not\nTHAT unbelievable, you know!\n\n{07 14 00}OK, fine. {01 00 00 05 00}Here's how it would\ngo down in real life.\nPicture it, OK?\n{07 00 00}You're running as fast as\nyou can from the get-go.{01 00 00 05 00}\nAnd I'm just relaxing.\nYeah, I'm relaxing with a\nsnack, a banana, let's say.{01 00 00 05 00}\nYou're running like a nut.\n{07 11 00}And then, just when you\nthink you've won, {01 00 00 05 00}I throw\nmy peel in front of you!\n{07 1a 00}You slip! I take the lead!{01 01 00}\nAnd then the winner is\ndeclared: ME!",
-   "et": ""
+   "et": "{09 00 00}{09 06 00}{09 01 00}{07 02 00}Issand!{01 00 00 0f 00} Minu võit pole\nNII uskumatu, tead!\n\n{07 14 00}Olgu, hüva. {01 00 00 05 00}Nii läheks see\npärises elus.\nKujuta ette, eks?\n{07 00 00}Sina jooksed algusest peale\nnii kiiresti kui suudad.{01 00 00 05 00}\nJa mina lihtsalt lõõgastun.\nJah, lõõgastun näksiga,\nütleme, banaaniga.{01 00 00 05 00}\nSina jooksed nagu hull.\n{07 11 00}Ja just siis, kui arvad,\net oled võitnud, {01 00 00 05 00}viskan\nkoore sinu ette!\n{07 1a 00}Sa libised! Mina lähen ette!{01 01 00}\nJa siis kuulutatakse võitja:\nMINA!"
   },
   {
    "id": 11,
    "en": "{09 00 00}{09 08 00}{09 02 00}{09 06 00}{07 02 00}Re{01 00 00 05 00}-really?{01 01 00}{09 01 00}{09 08 00}{09 02 00} {07 16 00}I don't think so\nat all{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{09 09 00}",
-   "et": ""
+   "et": "{09 00 00}{09 08 00}{09 02 00}{09 06 00}{07 02 00}Kas{01 00 00 05 00}-kas tõesti?{01 01 00}{09 01 00}{09 08 00}{09 02 00} {07 16 00}Ma ei arva\nüldse nii{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{09 09 00}"
   },
   {
    "id": 12,
    "en": "{09 00 00}{09 06 00}{09 01 00}{09 08 00}{07 0b 00}But, we're both working out\nall the time!\n\n{07 19 00}And when we chat with\npeople,{01 00 00 05 00} we always talk about\nworking out{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 14 00}Which means we must both\nbe totally in love with\nourselves, right?{09 09 00}",
-   "et": ""
+   "et": "{09 00 00}{09 06 00}{09 01 00}{09 08 00}{07 0b 00}Aga me mõlemad teeme\nkogu aeg trenni!\n\n{07 19 00}Ja kui me inimestega\nvestleme,{01 00 00 05 00} räägime alati\ntrennist{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 14 00}See tähendab, et me\nmõlemad oleme endasse\ntäiesti armunud, eks?{09 09 00}"
   },
   {
    "id": 13,
    "en": "{09 00 00}{09 08 00}{09 02 00}{07 02 00}{01 00 00 0a 00}N-{01 00 00 0a 00}no! That's not what it's\nlike!{01 00 00 0f 00}{07 06 00} At least, that's not\nwhat I meant to do{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{09 09 00}",
-   "et": ""
+   "et": "{09 00 00}{09 08 00}{09 02 00}{07 02 00}{01 00 00 0a 00}E-{01 00 00 0a 00}ei! See pole nii,\nnagu sa ütled!{01 00 00 0f 00}{07 06 00} Vähemalt ei\ntahtnud ma seda teha{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{09 09 00}"
   },
   {
    "id": 14,
    "en": "{09 00 00}{09 06 00}{09 01 00}{07 1b 00}But you love yourself so\nmuch, you can't get enough\nof you, right, {01 00 00 05 00}{04 02 00}?\n{09 02 00}{07 16 00}{09 01 00}{07 14 00}In fact, you really only\nlove yourself, right?\n\n{09 02 00}{07 1d 00}{09 01 00}{07 0a 00}And that stoic expression{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\nis so like me,{01 00 00 05 00} {04 02 00}!{03 01 00 01}{09 09 00}",
-   "et": ""
+   "et": "{09 00 00}{09 06 00}{09 01 00}{07 1b 00}Aga sa armastad ennast nii\nväga, et ei saa endast\nküllalt, eks, {01 00 00 05 00}{04 02 00}?\n{09 02 00}{07 16 00}{09 01 00}{07 14 00}Tegelikult armastad sa\nainult iseennast, eks?\n\n{09 02 00}{07 1d 00}{09 01 00}{07 0a 00}Ja see stoiline ilme{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\non nii minu moodi,{01 00 00 05 00} {04 02 00}!{03 01 00 01}{09 09 00}"
   },
   {
    "id": 15,
    "en": "{09 00 00}{09 08 00}{09 02 00}{07 01 00}Jerk!!!{01 00 00 14 00} I've been telling you\nNO! That's not what I'm like,{01 00 00 05 00}\n{04 02 00}!\n{07 15 00}You know,{01 00 00 05 00} you just say what\nyou want to{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n\n{07 05 00}But you never listen to a\nword anybody else says,{01 00 00 05 00}\n{04 02 00}!{03 02 00 01}",
-   "et": ""
+   "et": "{09 00 00}{09 08 00}{09 02 00}{07 01 00}Tobu!!!{01 00 00 14 00} Ma olen sulle\nöelnud EI! Ma pole selline,{01 00 00 05 00}\n{04 02 00}!\n{07 15 00}Tead,{01 00 00 05 00} sa lihtsalt ütled,\nmida tahad{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n\n{07 05 00}Aga sa ei kuula kunagi\nsõnagi, mida teised ütlevad,{01 00 00 05 00}\n{04 02 00}!{03 02 00 01}"
   }
  ]
 }

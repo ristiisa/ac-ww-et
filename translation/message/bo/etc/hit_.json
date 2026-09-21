@@ -4,27 +4,27 @@
   {
    "id": 0,
    "en": "{07 08 00}Ow! Dude, that hurts!\n\n\n{07 16 00}Wh{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}?{01 00 00 14 00} {07 0b 00}Why did you do that,{01 00 00 0a 00}\n{04 02 00}?",
-   "et": ""
+   "et": "{07 08 00}Ai! Semu, see teeb haiget!\n\n\n{07 16 00}Mi{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}?{01 00 00 14 00} {07 0b 00}Miks sa seda tegid,{01 00 00 0a 00}\n{04 02 00}?"
   },
   {
    "id": 1,
    "en": "{07 08 00}{01 00 00 05 00}Ouch!{01 00 00 0a 00} {0b 03 00}{04 02 00}!\n\n\n{07 06 00}{0b 03 00}{04 1f 00}!{01 00 00 0a 00} Knock it off!",
-   "et": ""
+   "et": "{07 08 00}{01 00 00 05 00}Auh!{01 00 00 0a 00} {0b 03 00}{04 02 00}!\n\n\n{07 06 00}{0b 03 00}{04 1f 00}!{01 00 00 0a 00} Jäta järele!"
   },
   {
    "id": 2,
    "en": "{07 06 00}Stop! Stop it!{01 00 00 0a 00}{07 08 00} You'll crack\nmy head open!",
-   "et": ""
+   "et": "{07 06 00}Lõpeta! Lõpeta ära!{01 00 00 0a 00}{07 08 00} Sa lööd\nmu pea lõhki!"
   },
   {
    "id": 3,
    "en": "{07 00 00}OUCH!\n\n\n{07 04 00}What?{01 00 00 0a 00} Was there a bug on\nmy head?{01 00 00 0a 00} Did you get it,\n{01 00 00 0a 00}{04 02 00}?",
-   "et": ""
+   "et": "{07 00 00}AI!\n\n\n{07 04 00}Mis?{01 00 00 0a 00} Kas mul oli putukas\npeas?{01 00 00 0a 00} Kas sa said ta,\n{01 00 00 0a 00}{04 02 00}?"
   },
   {
    "id": 4,
    "en": "{07 08 00}{01 00 00 05 00}{01 08 00}AAAAUGH!\n\n\n{07 06 00}That really hurt!{01 00 00 0a 00} Did you\nknow that? You're a jerk,\n{04 1f 00}. A JERK!",
-   "et": ""
+   "et": "{07 08 00}{01 00 00 05 00}{01 08 00}AAAAII!\n\n\n{07 06 00}See tegi tõesti haiget!{01 00 00 0a 00} Kas\nsa teadsid? Sa oled tobu,\n{04 1f 00}. TOBU!"
   }
  ]
 }

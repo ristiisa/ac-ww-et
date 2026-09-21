@@ -4,32 +4,32 @@
   {
    "id": 0,
    "en": "{07 00 00}I wanted to thank you for\nbringing me that {ff 00 00 07}medicine{ff 00 00 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n\n{07 1b 00}But you've got no space!{01 00 00 14 00}\nMake some room for\npresents, buddy!",
-   "et": ""
+   "et": "{07 00 00}Tahtsin sind tänada, et\ntõid mulle seda {ff 00 00 07}rohtu{ff 00 00 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n\n{07 1b 00}Aga sul pole ruumi!{01 00 00 14 00}\nTee kingitustele veidi\nruumi, semu!"
   },
   {
    "id": 1,
    "en": "{07 00 00}I really want to thank you.{01 00 00 05 00}\n{07 1b 00}But {01 00 00 05 00}you can't{01 00 00 05 00} carry any\nmore stuff!\nLighten your load and come\non back, {01 00 00 05 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 00 00}Ma tahan sind väga tänada.{01 00 00 05 00}\n{07 1b 00}Aga {01 00 00 05 00}sa ei jaksa{01 00 00 05 00} rohkem\nkraami kanda!\nKergenda koormat ja tule\ntagasi, {01 00 00 05 00}{04 02 00}!"
   },
   {
    "id": 2,
    "en": "{07 1d 00}Oh, yeah, {01 00 00 05 00}I was going to\nthank you for the {ff 00 00 07}medicine{ff 00 00 00},\n{01 00 00 0a 00}{04 02 00}.",
-   "et": ""
+   "et": "{07 1d 00}Ah jaa, {01 00 00 05 00}tahtsin sind\ntänada {ff 00 00 07}rohu{ff 00 00 00} eest,\n{01 00 00 0a 00}{04 02 00}."
   },
   {
    "id": 3,
    "en": "{07 19 00}Yeah, right! {01 00 00 0a 00}{07 14 00}Here, let me \ngive you something,\n{01 00 00 0a 00}{04 02 00}.",
-   "et": ""
+   "et": "{07 19 00}Jah, muidugi! {01 00 00 0a 00}{07 14 00}Säh, las ma \nannan sulle midagi,\n{01 00 00 0a 00}{04 02 00}."
   },
   {
    "id": 4,
    "en": "{07 04 00}Whaaat?!{01 00 00 05 00} You still have too\nmuch stuff.\n\n{07 06 00}Dude,{01 00 00 05 00} just chuck some fruit\nor something, then it'll be\nall good, {01 00 00 0a 00}{04 02 00}.",
-   "et": ""
+   "et": "{07 04 00}Miiis?!{01 00 00 05 00} Sul on ikka liiga\npalju kraami.\n\n{07 06 00}Semu,{01 00 00 05 00} viska mõni puuvili\nvõi midagi ära, siis on\nkõik hästi, {01 00 00 0a 00}{04 02 00}."
   },
   {
    "id": 5,
    "en": "{07 1b 00}You're loaded to the gills!{01 00 00 05 00}\n{07 16 00}And I was totally gonna give\nyou something sweet, too.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}",
-   "et": ""
+   "et": "{07 1b 00}Sa oled pilgeni täis!{01 00 00 05 00}\n{07 16 00}Ja ma tahtsin sulle veel\nmidagi magusat anda{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}."
   }
  ]
 }

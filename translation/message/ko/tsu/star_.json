@@ -4,47 +4,47 @@
   {
    "id": 0,
    "en": "{07 04 00}Hey,{01 00 00 05 00} check it out, will ya?{01 00 00 0a 00}\nJust look up for a sec,{01 00 00 05 00}\n{04 1f 00}! {01 00 00 05 00}{0b 03 00}{04 02 00}!\n{07 00 00}You know that constellation\nright there? I heard it's\ncalled {ff 00 00 02}{04 0f 00}{ff 00 00 00}.\n{06 01 00 06 07 08}",
-   "et": ""
+   "et": "{07 04 00}Hei,{01 00 00 05 00} vaata seda, eks?{01 00 00 0a 00}\nVaata hetkeks üles,{01 00 00 05 00}\n{04 1f 00}! {01 00 00 05 00}{0b 03 00}{04 02 00}!\n{07 00 00}Tead seda tähtkuju seal?\nKuulsin, et seda\nkutsutakse {ff 00 00 02}{04 0f 00}{ff 00 00 00}.\n{06 01 00 06 07 08}"
   },
   {
    "id": 1,
    "en": "{07 00 00}See that constellation up\nthere?{01 00 00 0a 00} {07 14 00}I guess it's called\n{ff 00 00 02}{04 0f 00}{ff 00 00 00}!\nHmm.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} {0b 03 00}{04 0f 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n{0b 03 00}{04 0f 00}!{01 00 00 14 00} {07 03 00}When\nI say it, I gotta laugh!",
-   "et": ""
+   "et": "{07 00 00}Näed seda tähtkuju seal\nüleval?{01 00 00 0a 00} {07 14 00}Vist on see\n{ff 00 00 02}{04 0f 00}{ff 00 00 00}!\nHmm.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} {0b 03 00}{04 0f 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n{0b 03 00}{04 0f 00}!{01 00 00 14 00} {07 03 00}Kui\nma seda ütlen, tuleb naer!"
   },
   {
    "id": 2,
    "en": "You know that kid you live\nwith? {01 00 00 05 00}Yeah, I'm talking\nabout {ff 00 00 05}{04 10 00}{ff 00 00 00}!\n{07 14 00}What a character! {01 00 00 0a 00}Hey, {01 00 00 05 00}see\n{ff 00 00 02}{04 0f 00} {ff 00 00 00}up\nthere? {01 00 00 0a 00}{0b 03 00}{ff 00 00 05}{04 10 00}{ff 00 00 00} made it!\n{07 01 00}Man!{01 00 00 0f 00} {07 19 00}I'm impressed! {01 00 00 0a 00}Now\nthat's talent! You could\nlearn a thing or two!",
-   "et": ""
+   "et": "Tead seda last, kellega sa\nelad? {01 00 00 05 00}Jah, ma räägin\n{ff 00 00 05}{04 10 00}{ff 00 00 00}ist!\n{07 14 00}Milline tegelane! {01 00 00 0a 00}Hei, {01 00 00 05 00}näed\n{ff 00 00 02}{04 0f 00} {ff 00 00 00}seal\nüleval? {01 00 00 0a 00}{0b 03 00}{ff 00 00 05}{04 10 00}{ff 00 00 00} tegi selle!\n{07 01 00}Poiss!{01 00 00 0f 00} {07 19 00}Muljetavaldav! {01 00 00 0a 00}See\non talent! Sa võiksid\nmidagi õppida!"
   },
   {
    "id": 3,
    "en": "{07 04 00}Whoa!{01 00 00 0f 00} That right there is\nthe {ff 00 00 02}{04 0f 00}\n{ff 00 00 00}constellation!\n{07 00 00}It was named by that kid\nthat you share a house\nwith, {01 00 00 05 00}{04 02 00}.\n{0b 03 00}{ff 00 00 05}{04 10 00}{ff 00 00 00}, yeah.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{01 01 00}\n{07 15 00}Makes me wonder whether\nYOU ever do anything.",
-   "et": ""
+   "et": "{07 04 00}Ohoo!{01 00 00 0f 00} Seal on\n{ff 00 00 02}{04 0f 00}\n{ff 00 00 00}tähtkuju!\n{07 00 00}Selle nimetas laps,\nkellega sa maja jagad,\n{01 00 00 05 00}{04 02 00}.\n{0b 03 00}{ff 00 00 05}{04 10 00}{ff 00 00 00}, jah.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{01 01 00}\n{07 15 00}Paneb mõtlema, kas SINA\nüldse midagi teed."
   },
   {
    "id": 4,
    "en": "{07 15 00}{0b 03 00}{04 1f 00}! You lookin' for\nlost Bells or something?!\nLook up when you walk!\n{07 00 00}See {ff 00 00 02}{04 0f 00} {ff 00 00 00}up\nthere? {01 01 00}{0b 03 00}{ff 00 00 05}{04 10 00} {ff 00 00 00}from\n{ff 00 00 08}{04 11 00} {ff 00 00 00}made it!\nI don't know why it's named\n\"{04 0f 00},\" but {07 14 00}it\nkinda seems to fit.",
-   "et": ""
+   "et": "{07 15 00}{0b 03 00}{04 1f 00}! Kas otsid\nkaotatud kellasid või?!\nVaata kõndides üles!\n{07 00 00}Näed {ff 00 00 02}{04 0f 00} {ff 00 00 00}seal\nüleval? {01 01 00}{0b 03 00}{ff 00 00 05}{04 10 00} {ff 00 00 00}linnast\n{ff 00 00 08}{04 11 00} {ff 00 00 00}tegi selle!\nMa ei tea, miks seda kutsub\n„{04 0f 00}”, aga {07 14 00}see\nkuidagi sobib."
   },
   {
    "id": 5,
    "en": "{07 04 00}What's that?! There's\nsomething weird going on\nwith the sky, {01 00 00 05 00}{04 02 00}!\n{07 02 00}Oh! That's the constellation\nthat {ff 00 00 05}{04 10 00}{ff 00 00 00} from\n{ff 00 00 08}{04 11 00} {ff 00 00 00}thought up!\n{07 0b 00}I think it's called\n{ff 00 00 02}{04 0f 00}{ff 00 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} Yeah,\nI think that's right...\n{07 16 00}I swear, half the time I\nhave no idea what that\nkid's thinkin', {01 00 00 05 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 04 00}Mis see on?! Taevas\ntoimub midagi veidrat,\n{01 00 00 05 00}{04 02 00}!\n{07 02 00}Oh! See on tähtkuju, mille\n{ff 00 00 05}{04 10 00}{ff 00 00 00} linnast\n{ff 00 00 08}{04 11 00} {ff 00 00 00}välja mõtles!\n{07 0b 00}Ma arvan, et see on\n{ff 00 00 02}{04 0f 00}{ff 00 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} Jah,\nma arvan, et nii on...\n{07 16 00}Ma vannun, pooltel kordadel\npole mul aimugi, mida see\nlaps mõtleb, {01 00 00 05 00}{04 02 00}!"
   },
   {
    "id": 6,
    "en": "I wonder {07 0b 00}who made it? And\nwhere does this mystery\nperson live, {01 00 00 05 00}{04 02 00}?\nI know I'm usually cynical,\nbut {07 14 00}I gotta admit.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\nI'm really into this design.",
-   "et": ""
+   "et": "Huvitav, {07 0b 00}kes selle tegi? Ja\nkus see mõistatuslik\ninimene elab, {01 00 00 05 00}{04 02 00}?\nMa tean, et olen tavaliselt\nküüniline, aga {07 14 00}tunnistan{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\nSee kujundus meeldib."
   },
   {
    "id": 7,
    "en": "{07 16 00}Don't you think that\n\"{04 0f 00}\" is a\nlittle old, {01 00 00 05 00}{04 02 00}?",
-   "et": ""
+   "et": "{07 16 00}Kas sa ei arva, et\n„{04 0f 00}” on\npisut vana, {01 00 00 05 00}{04 02 00}?"
   },
   {
    "id": 8,
    "en": "{07 14 00}Well, I kinda like it,\n{01 00 00 05 00}{04 02 00}.\n\nYou see, it's so misshapen\nand awkward, {07 19 00}and that\nmakes it interesting!",
-   "et": ""
+   "et": "{07 14 00}Noh, mulle see meeldib,\n{01 00 00 05 00}{04 02 00}.\n\nNäed, see on nii moonutatud\nja kohmakas, {07 19 00}ja see\nteeb selle huvitavaks!"
   }
  ]
 }

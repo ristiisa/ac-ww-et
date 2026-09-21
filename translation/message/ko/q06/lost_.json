@@ -4,17 +4,17 @@
   {
    "id": 0,
    "en": "{07 16 00}Oh, {01 00 00 05 00}{04 1f 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} {07 15 00}Are you\nseriously telling me that\nyou lost the package?\n{07 05 00}You really are a shining\nbeacon of incompetence,\naren't you?{01 00 00 0f 00} UGH!{03 02 00 01}",
-   "et": ""
+   "et": "{07 16 00}Oi, {01 00 00 05 00}{04 1f 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} {07 15 00}Kas sa\nütled mulle tõsiselt,\net sa kaotasid paki ära?\n{07 05 00}Sa oled tõeline\nsaamatuse majakas,\nkas pole?{01 00 00 0f 00} UHH!{03 02 00 01}"
   },
   {
    "id": 1,
    "en": "{07 04 00}Whoa, whoa, WHOA. {01 00 00 05 00}Stop right\nthere! {07 15 00}My package{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 01 00}\n{07 01 00}Disappeared?!\n{07 05 00}How?! {01 00 00 05 00}How does a package\ndisappear? {01 00 00 05 00}Did the magical \npackage gnomes steal it?!\n{07 15 00}Honestly{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}. Do you have a\nblack belt in incompetence,\nor what, {01 00 00 05 00}{04 02 00}?{03 02 00 01}",
-   "et": ""
+   "et": "{07 04 00}Oot, oot, OOT. {01 00 00 05 00}Peatu\nkohe! {07 15 00}Minu pakk{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 01 00}\n{07 01 00}Kadus ära?!\n{07 05 00}Kuidas?! {01 00 00 05 00}Kuidas pakk\nkaob? {01 00 00 05 00}Kas võluvad\npakihaldjad varastasid?!\n{07 15 00}Ausalt{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}. Kas sul on\nsaamatuses must vöö\nvõi mis, {01 00 00 05 00}{04 02 00}?{03 02 00 01}"
   },
   {
    "id": 2,
    "en": "{07 04 00}Hold it right there{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00}\n{07 16 00}You \"lost\" my package, \n{01 00 00 05 00}{04 02 00}?\n{07 05 00}...What, did you trip on a\nlog and \"lose\" your brain,\ntoo?{03 02 00 01}",
-   "et": ""
+   "et": "{07 04 00}Seisa kohe{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00}\n{07 16 00}Sa „kaotasid” mu paki,\n{01 00 00 05 00}{04 02 00}?\n{07 05 00}...Mis, kas sa komistasid\npalgi otsa ja „kaotasid”\nka oma aju?{03 02 00 01}"
   }
  ]
 }

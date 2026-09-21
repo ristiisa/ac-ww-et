@@ -4,17 +4,17 @@
   {
    "id": 0,
    "en": "{07 00 00}So in exchange, I'll give you\n{04 1b 00}.{01 00 00 0a 00}\n{0b 03 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 00 00}Nii et vastutasuks annan\nsulle {04 1b 00}.{01 00 00 0a 00}\n{0b 03 00}{04 02 00}!"
   },
   {
    "id": 1,
    "en": "And for the bug-catching\nmaster,{01 00 00 0a 00} I have my\n{0b 02 00}{04 1b 00}!",
-   "et": ""
+   "et": "Ja putukapüügimeistrile\non mul{01 00 00 0a 00} minu\n{0b 02 00}{04 1b 00}!"
   },
   {
    "id": 2,
    "en": "{07 16 00}OK,{01 00 00 05 00} I'll trade you my\n{0b 02 00}{04 1b 00}\nfor your bug,{01 00 00 0a 00} {04 02 00}!",
-   "et": ""
+   "et": "{07 16 00}Olgu,{01 00 00 05 00} vahetan oma\n{0b 02 00}{04 1b 00}\nsu putuka vastu,{01 00 00 0a 00} {04 02 00}!"
   }
  ]
 }

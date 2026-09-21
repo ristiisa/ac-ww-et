@@ -4,17 +4,17 @@
   {
    "id": 0,
    "en": "{07 16 00}Ack, {01 00 00 05 00}{04 1f 00}!{01 00 00 14 00} {07 00 00}I still\nhaven't caught a rare fish\nyet, {01 00 00 05 00}{04 02 00}.\nDo a dude a favor{01 00 00 05 00} and hold\nyer horses, would ya,\n{01 00 00 05 00}{04 02 00}?",
-   "et": ""
+   "et": "{07 16 00}Ahh, {01 00 00 05 00}{04 1f 00}!{01 00 00 14 00} {07 00 00}Ma pole\nikka haruldast kala\npüüdnud, {01 00 00 05 00}{04 02 00}.\nTee mehele teene{01 00 00 05 00} ja ole\nkannatlik, eks,\n{01 00 00 05 00}{04 02 00}?"
   },
   {
    "id": 1,
    "en": "{07 16 00}Just 'cause all fish swim\nin the water doesn't make\n'em all the same, y'know!\n{07 00 00}Hang tight for a bit.{01 00 00 14 00}\n{07 16 00}I'm tryin' to catch a crazy\nrare one now, {01 00 00 05 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 16 00}See, et kõik kalad ujuvad\nvees, ei tee neid veel\nühesuguseks, tead!\n{07 00 00}Oota natuke.{01 00 00 14 00}\n{07 16 00}Üritan praegu püüda hullult\nharuldast, {01 00 00 05 00}{04 02 00}!"
   },
   {
    "id": 2,
    "en": "{07 00 00}Have you caught a fish that\nsets your soul on fire,\n{01 00 00 05 00}{04 02 00}?\n{07 15 00}Well, I haven't yet!{01 01 00}\nBut hang tight, 'cause\nI WILL!",
-   "et": ""
+   "et": "{07 00 00}Kas sa oled püüdnud kala,\nmis paneb su hinge põlema,\n{01 00 00 05 00}{04 02 00}?\n{07 15 00}Noh, mina pole veel!{01 01 00}\nAga oota, sest\nMA PÜÜAN!"
   }
  ]
 }

@@ -4,182 +4,182 @@
   {
    "id": 0,
    "en": "Thank you for your\ncooperation.",
-   "et": ""
+   "et": "Aitäh teie\nkoostöö eest."
   },
   {
    "id": 1,
    "en": "{0b 03 00}{0b 02 00}{04 1a 00}\nDonor: {ff 00 00 05}{04 0f 00}",
-   "et": ""
+   "et": "{0b 03 00}{0b 02 00}{04 1a 00}\nAnnetaja: {ff 00 00 05}{04 0f 00}"
   },
   {
    "id": 2,
    "en": "{0b 03 00}{0b 02 00}{04 1a 00}\nDonated by a kindly person\nwho once lived here.",
-   "et": ""
+   "et": "{0b 03 00}{0b 02 00}{04 1a 00}\nAnnetanud lahke inimene,\nkes kunagi siin elas."
   },
   {
    "id": 3,
    "en": "Dear patrons:\n\n\nThis cockroach is a\nthoughtful donation from\n{ff 00 00 05}{04 0f 00}{ff 00 00 00}.\nPlease do not step on it.",
-   "et": ""
+   "et": "Kallid külastajad:\n\n\nSee prussakas on\n{ff 00 00 05}{04 0f 00}{ff 00 00 00} hoolikas\nannetus.\nPalun ärge astuge peale."
   },
   {
    "id": 4,
    "en": "Dear patrons:\n\n\nThis cockroach is a ward of\nthe museum. Please do not\nstep on it.",
-   "et": ""
+   "et": "Kallid külastajad:\n\n\nSee prussakas on muuseumi\nhoolealune. Palun ärge\nastuge talle peale."
   },
   {
    "id": 5,
    "en": "{0b 03 00}{0b 02 00}{04 1a 00}",
-   "et": ""
+   "et": "{0b 03 00}{0b 02 00}{04 1a 00}"
   },
   {
    "id": 6,
    "en": "{0b 03 00}{0b 02 00}{04 1a 00}\n{0b 03 00}{0b 02 00}{04 1b 00}",
-   "et": ""
+   "et": "{0b 03 00}{0b 02 00}{04 1a 00}\n{0b 03 00}{0b 02 00}{04 1b 00}"
   },
   {
    "id": 7,
    "en": "{0b 03 00}{0b 02 00}{04 1a 00}\n{0b 03 00}{0b 02 00}{04 1b 00}\n{0b 03 00}{0b 02 00}{04 1c 00}",
-   "et": ""
+   "et": "{0b 03 00}{0b 02 00}{04 1a 00}\n{0b 03 00}{0b 02 00}{04 1b 00}\n{0b 03 00}{0b 02 00}{04 1c 00}"
   },
   {
    "id": 10,
    "en": "\n{ff 00 00 07}Ankylosaur",
-   "et": ""
+   "et": "\n{ff 00 00 07}Ankülosaurus"
   },
   {
    "id": 11,
    "en": "Length: 36.1 feet\nLate Cretaceous",
-   "et": ""
+   "et": "Pikkus: 11 m\nHiliskriit"
   },
   {
    "id": 12,
    "en": "\n{ff 00 00 07}Apatosaur",
-   "et": ""
+   "et": "\n{ff 00 00 07}Apatosaurus"
   },
   {
    "id": 13,
    "en": "Length: 68.9 feet\nLate Jurassic",
-   "et": ""
+   "et": "Pikkus: 21 m\nHilisjura"
   },
   {
    "id": 14,
    "en": "\n{ff 00 00 07}Dimetrodon",
-   "et": ""
+   "et": "\n{ff 00 00 07}Dimetrodon"
   },
   {
    "id": 15,
    "en": "Length: 11.5 feet\nEarly Permian",
-   "et": ""
+   "et": "Pikkus: 3,5 m\nVaraperm"
   },
   {
    "id": 16,
    "en": "\n{ff 00 00 07}Iguanodon",
-   "et": ""
+   "et": "\n{ff 00 00 07}Iguanodon"
   },
   {
    "id": 17,
    "en": "Length: 32.8 feet\nEarly Cretaceous",
-   "et": ""
+   "et": "Pikkus: 10 m\nVarakriit"
   },
   {
    "id": 18,
    "en": "\n{ff 00 00 07}Mammoth",
-   "et": ""
+   "et": "\n{ff 00 00 07}Mammut"
   },
   {
    "id": 19,
    "en": "Length: 13 feet\nPleistocene Cenozoic",
-   "et": ""
+   "et": "Pikkus: 4 m\nPleistotseen, kainosoikum"
   },
   {
    "id": 20,
    "en": "\n{ff 00 00 07}Pachycephalosaur",
-   "et": ""
+   "et": "\n{ff 00 00 07}Pahhütsefalosaurus"
   },
   {
    "id": 21,
    "en": "Length: 13.1 feet\nLate Cretaceous",
-   "et": ""
+   "et": "Pikkus: 4 m\nHiliskriit"
   },
   {
    "id": 22,
    "en": "\n{ff 00 00 07}Parasaur",
-   "et": ""
+   "et": "\n{ff 00 00 07}Parasaurolophus"
   },
   {
    "id": 23,
    "en": "Length: 29.5 feet\nLate Cretaceous",
-   "et": ""
+   "et": "Pikkus: 9 m\nHiliskriit"
   },
   {
    "id": 24,
    "en": "{ff 00 00 07}\nPteranodon",
-   "et": ""
+   "et": "{ff 00 00 07}\nPteranodon"
   },
   {
    "id": 25,
    "en": "Length: 30.2 feet\nLate Cretaceous",
-   "et": ""
+   "et": "Pikkus: 9,2 m\nHiliskriit"
   },
   {
    "id": 26,
    "en": "\n{ff 00 00 07}Sabretooth Tiger",
-   "et": ""
+   "et": "\n{ff 00 00 07}Säbelhammastiiger"
   },
   {
    "id": 27,
    "en": "Length: 6.2 feet\nPleistocene Cenozoic",
-   "et": ""
+   "et": "Pikkus: 1,9 m\nPleistotseen, kainosoikum"
   },
   {
    "id": 28,
    "en": "\n{ff 00 00 07}Seismosaur",
-   "et": ""
+   "et": "\n{ff 00 00 07}Seismosaurus"
   },
   {
    "id": 29,
    "en": "Length: 113.2 feet\nLate Jurassic",
-   "et": ""
+   "et": "Pikkus: 34,5 m\nHilisjura"
   },
   {
    "id": 30,
    "en": "\n{ff 00 00 07}Stegosaur",
-   "et": ""
+   "et": "\n{ff 00 00 07}Stegosaurus"
   },
   {
    "id": 31,
    "en": "Length: 30.5 feet\nLate Cretaceous",
-   "et": ""
+   "et": "Pikkus: 9,3 m\nHiliskriit"
   },
   {
    "id": 32,
    "en": "\n{ff 00 00 07}Plesiosaur",
-   "et": ""
+   "et": "\n{ff 00 00 07}Plesiosaurus"
   },
   {
    "id": 33,
    "en": "Length: 23.6 feet\nLate Cretaceous",
-   "et": ""
+   "et": "Pikkus: 7,2 m\nHiliskriit"
   },
   {
    "id": 34,
    "en": "\n{ff 00 00 07}T. Rex",
-   "et": ""
+   "et": "\n{ff 00 00 07}T. rex"
   },
   {
    "id": 35,
    "en": "Length: 47.6 feet\nLate Cretaceous",
-   "et": ""
+   "et": "Pikkus: 14,5 m\nHiliskriit"
   },
   {
    "id": 36,
    "en": "\n{ff 00 00 07}Triceratops",
-   "et": ""
+   "et": "\n{ff 00 00 07}Triceratops"
   },
   {
    "id": 37,
    "en": "Length: 31.2 feet\nLate Cretaceous",
-   "et": ""
+   "et": "Pikkus: 9,5 m\nHiliskriit"
   }
  ]
 }

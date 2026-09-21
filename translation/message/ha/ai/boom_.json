@@ -4,27 +4,27 @@
   {
    "id": 0,
    "en": "{07 0e 00}Hmmmmmmm{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} It's early.\n{01 00 00 05 00}What should I get into\ntoday.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{04 02 00}?",
-   "et": ""
+   "et": "{07 0e 00}Hmmmmmmm{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} On vara.\n{01 00 00 05 00}Millega ma täna\ntegelema peaks.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{04 02 00}?"
   },
   {
    "id": 1,
    "en": "{07 0e 00}What kind of hobby would\nkeep a high-energy guy like\nme interested?",
-   "et": ""
+   "et": "{07 0e 00}Milline hobi hoiaks\nminusugust energilist\ntüüpi huvitatuna?"
   },
   {
    "id": 2,
    "en": "{07 16 00}Aw, man{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00} I wanna try so\nmany things...{01 00 00 05 00} {07 0f 00}I can't pick\njust one{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.",
-   "et": ""
+   "et": "{07 16 00}Oh mees{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00} Ma tahan nii\npalju asju proovida...{01 00 00 05 00} {07 0f 00}Ma ei\noska ühtegi valida{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}."
   },
   {
    "id": 3,
    "en": "{07 0e 00}This,{01 00 00 05 00} that{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00}{07 06 00}and the other\nthing!{01 00 00 05 00} So many choices,\n{01 00 00 05 00}{04 02 00}! I'm bugging!",
-   "et": ""
+   "et": "{07 0e 00}Seda,{01 00 00 05 00} toda{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00}{07 06 00}ja veel\nkolmandat!{01 00 00 05 00} Nii palju valida,\n{01 00 00 05 00}{04 02 00}! Ma lähen hulluks!"
   },
   {
    "id": 4,
    "en": "{07 0e 00}So many things to do...{01 00 00 05 00}\nYou wouldn't think it'd be\nso hard to pick just one{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.",
-   "et": ""
+   "et": "{07 0e 00}Nii palju asju teha...{01 00 00 05 00}\nEi arvaks, et ühe valimine\non nii raske{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}."
   }
  ]
 }

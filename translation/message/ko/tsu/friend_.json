@@ -4,177 +4,177 @@
   {
    "id": 0,
    "en": "Hey, {ff 00 00 06}{04 16 00} {ff 00 00 00}and\n{ff 00 00 06}{04 17 00}{ff 00 00 00} are pretty\ntight, y'know, {01 00 00 05 00}{04 02 00}.\n{06 01 00 09 0a 0b}",
-   "et": ""
+   "et": "Hei, {ff 00 00 06}{04 16 00} {ff 00 00 00}ja\n{ff 00 00 06}{04 17 00}{ff 00 00 00} on päris\nlähedased, tead, {01 00 00 05 00}{04 02 00}.\n{06 01 00 09 0a 0b}"
   },
   {
    "id": 1,
    "en": "{07 0b 00}Did you hear?{01 00 00 14 00} About\n{ff 00 00 06}{04 16 00} {ff 00 00 00}and \n{ff 00 00 06}{04 17 00}{ff 00 00 00}'s relationship?{02 00 00 0c 0d}\nI heard!\nWhat?!",
-   "et": ""
+   "et": "{07 0b 00}Kas sa kuulsid?{01 00 00 14 00} \n{ff 00 00 06}{04 16 00} {ff 00 00 00}ja \n{ff 00 00 06}{04 17 00}{ff 00 00 00} suhtest?{02 00 00 0c 0d}\nKuulsin!\nMida?!"
   },
   {
    "id": 2,
    "en": "{07 16 00}Whoa! {ff 00 00 06}{04 16 00} {ff 00 00 00}and\n{01 00 00 05 00}{ff 00 00 06}{04 17 00}{ff 00 00 00}{01 00 00 05 00} are in a huge\nfight right now!\n{06 01 00 11 12 13}",
-   "et": ""
+   "et": "{07 16 00}Ohoo! {ff 00 00 06}{04 16 00} {ff 00 00 00}ja\n{01 00 00 05 00}{ff 00 00 06}{04 17 00}{ff 00 00 00}{01 00 00 05 00} on praegu suures\ntülis!\n{06 01 00 11 12 13}"
   },
   {
    "id": 3,
    "en": "{07 14 00}{ff 00 00 06}{04 16 00} {ff 00 00 00}and\n{ff 00 00 06}{04 17 00}{ff 00 00 00} are such good\nfriends...\n{06 01 00 14 15 16}",
-   "et": ""
+   "et": "{07 14 00}{ff 00 00 06}{04 16 00} {ff 00 00 00}ja\n{ff 00 00 06}{04 17 00}{ff 00 00 00} on nii head\nsõbrad...\n{06 01 00 14 15 16}"
   },
   {
    "id": 4,
    "en": "Hey, {04 1f 00}! So, what's\nup with{01 00 00 14 00} {ff 00 00 06}{04 16 00}{ff 00 00 00} and\n{ff 00 00 06}{04 17 00}{ff 00 00 00}?{05 05 00 06 17 02 18 02 18 06 17}\nTotal PDA!\nSlappy fight!",
-   "et": ""
+   "et": "Hei, {04 1f 00}! Nii, mis\non{01 00 00 14 00} {ff 00 00 06}{04 16 00}{ff 00 00 00} ja\n{ff 00 00 06}{04 17 00}{ff 00 00 00} vahel?{05 05 00 06 17 02 18 02 18 06 17}\nTäielik hellus!\nLaksutüli!"
   },
   {
    "id": 5,
    "en": "{07 0b 00}Did you hear about the tiff\nbetween {ff 00 00 06}{04 16 00} {ff 00 00 00}and\n{ff 00 00 06}{04 17 00}{ff 00 00 00}, {01 00 00 05 00}{04 02 00}?\n{06 00 00 21 22}",
-   "et": ""
+   "et": "{07 0b 00}Kas sa kuulsid tülist\n{ff 00 00 06}{04 16 00} {ff 00 00 00}ja\n{ff 00 00 06}{04 17 00}{ff 00 00 00} vahel, {01 00 00 05 00}{04 02 00}?\n{06 00 00 21 22}"
   },
   {
    "id": 6,
    "en": "Of all the people in\n{04 03 00}, I think the\ntwo who are closest are...\n{07 14 00}{ff 00 00 06}{04 16 00} {ff 00 00 00}and\n{ff 00 00 06}{04 17 00}{ff 00 00 00}, {01 00 00 05 00}{04 02 00}!\n\n{06 01 00 19 1a 1b}",
-   "et": ""
+   "et": "Kõigist inimestest\n{04 03 00}-s on minu arust\nkõige lähedasemad...\n{07 14 00}{ff 00 00 06}{04 16 00} {ff 00 00 00}ja\n{ff 00 00 06}{04 17 00}{ff 00 00 00}, {01 00 00 05 00}{04 02 00}!\n\n{06 01 00 19 1a 1b}"
   },
   {
    "id": 7,
    "en": "{06 00 00 1c 1d}",
-   "et": ""
+   "et": "{06 00 00 1c 1d}"
   },
   {
    "id": 8,
    "en": "{07 15 00}{ff 00 00 06}{04 16 00} {ff 00 00 00}and {ff 00 00 06}{04 17 00}{ff 00 00 00}{01 00 00 05 00}\nhave been at war for a\nwhile, {01 00 00 05 00}{04 02 00}!\n{06 01 00 1e 1f 20}",
-   "et": ""
+   "et": "{07 15 00}{ff 00 00 06}{04 16 00} {ff 00 00 00}ja {ff 00 00 06}{04 17 00}{ff 00 00 00}{01 00 00 05 00}\non juba tükk aega sõjas,\n{01 00 00 05 00}{04 02 00}!\n{06 01 00 1e 1f 20}"
   },
   {
    "id": 9,
    "en": "{07 19 00}Sure, back in my day,{01 00 00 05 00} I\ndated a girl or two{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.or\nmaybe more.\n{07 14 00}But those two,{01 00 00 05 00} they act\nlike they're cemented at\nthe hip or something!",
-   "et": ""
+   "et": "{07 19 00}Muidugi, omal ajal{01 00 00 05 00} käisin ma\nkahe tüdrukuga{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.või\nehk rohkemaga.\n{07 14 00}Aga need kaks,{01 00 00 05 00} nad käituvad\nnagu oleksid puusast kokku\ntsementeeritud!"
   },
   {
    "id": 10,
    "en": "{07 15 00}What do you mean?!{01 00 00 0f 00} It's not\nthat I'm jealous or\nanything, {01 00 00 05 00}{04 02 00}!\n{07 06 00}I've got a friend or...uh...\nmaybe two around there,\ntoo! Ya hear, {01 00 00 05 00}{04 02 00}?!",
-   "et": ""
+   "et": "{07 15 00}Mida sa mõtled?!{01 00 00 0f 00} Pole nii,\net ma oleksin kade või\nmidagi, {01 00 00 05 00}{04 02 00}!\n{07 06 00}Mul on ka sõber või kaks\nseal! Kuuled,\n{01 00 00 05 00}{04 02 00}?!"
   },
   {
    "id": 11,
    "en": "{07 00 00}The other day in the\n{ff 00 00 08}Roost{ff 00 00 00}, I saw the two of 'em\nsitting together.\n{07 15 00}They were sharing the same\ncup of {04 13 00}{01 00 00 05 00}\nwith two straws!{01 00 00 0a 00}\nIt was so nauseating!",
-   "et": ""
+   "et": "{07 00 00}Teine päev nägin ma\n{ff 00 00 08}Roostis{ff 00 00 00} neid kahte\nkoos istumas.\n{07 15 00}Nad jagasid sama tassi\n{04 13 00}{01 00 00 05 00}\nkahe kõrrega!{01 00 00 0a 00}\nSee oli nii iiveldamaajav!"
   },
   {
    "id": 12,
    "en": "{06 01 00 0e 0f 10}",
-   "et": ""
+   "et": "{06 01 00 0e 0f 10}"
   },
   {
    "id": 13,
    "en": "{07 16 00}Oh, OK{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 01 00} {07 03 00}{0b 03 00}{04 1f 00}, {01 00 00 0f 00}I like\nyou! Don't you ever change!\n{01 00 00 05 00}{0b 03 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 16 00}Oh, OK{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 01 00} {07 03 00}{0b 03 00}{04 1f 00}, {01 00 00 0f 00}sa\nmeeldid mulle! Ära muutu!\n{01 00 00 05 00}{0b 03 00}{04 02 00}!"
   },
   {
    "id": 14,
    "en": "{07 00 00}That kind of energy.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} Well,\nthey'll either become best\nfriends or mortal enemies.\n{07 0d 00}I can't wait to see what\nhappens! I'm gonna go pop\nsome popcorn right now!",
-   "et": ""
+   "et": "{07 00 00}Selline energia.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} Noh,\nnad saavad kas parimateks\nsõpradeks või vaenlasteks.\n{07 0d 00}Ma ei jõua ära oodata, mis\njuhtub! Ma lähen teen kohe\npopkorni!"
   },
   {
    "id": 15,
    "en": "{07 16 00}So what exactly is going on\nbetween those two,\n{01 00 00 05 00}{04 02 00}?\n{07 00 00}Neither of them are the\ntype to say how they feel,{01 00 00 0f 00}\nso I can't tell!\n{07 19 00}Well, {01 00 00 05 00}they'd both make\ngreat actors! {01 00 00 0f 00}'Cause they\nsure do understand drama!",
-   "et": ""
+   "et": "{07 16 00}Nii et mis täpselt nende\nkahe vahel toimub,\n{01 00 00 05 00}{04 02 00}?\n{07 00 00}Kumbki pole seda tüüpi,\nkes ütleks, mida tunneb,{01 00 00 0f 00}\nnii et ma ei oska öelda!\n{07 19 00}Noh, {01 00 00 05 00}neist mõlemast saaks\nsuurepärased näitlejad! {01 00 00 0f 00}Nad\nmõistavad draamat!"
   },
   {
    "id": 16,
    "en": "{07 16 00}Honestly, {01 00 00 0f 00}whatever is going\non there seems weird,\n{01 00 00 05 00}{04 02 00}.\n{07 15 00}I can't wait{01 00 00 0f 00} to see what\nhappens next, {01 00 00 05 00}{04 02 00}!\nIt's better than TV!",
-   "et": ""
+   "et": "{07 16 00}Ausalt, {01 00 00 0f 00}mis iganes seal\ntoimub, tundub veider,\n{01 00 00 05 00}{04 02 00}.\n{07 15 00}Ma ei jõua ära oodata,{01 00 00 0f 00}\nmis edasi saab, {01 00 00 05 00}{04 02 00}!\nSee on parem kui telekas!"
   },
   {
    "id": 17,
    "en": "{07 0f 00}This is exactly the reason\nwhy I say I can't hang with\nthe young'uns anymore{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 05 00}I really wish both of them\nwould just grow up a little,\n{01 00 00 05 00}{04 02 00}!{03 02 00 01}",
-   "et": ""
+   "et": "{07 0f 00}Just sellepärast ma ütlen,\net ma ei suuda enam\nnoortega läbi käia{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 05 00}Ma tõesti soovin, et nad\nmõlemad natuke suureks\nkasvaksid, {01 00 00 05 00}{04 02 00}!{03 02 00 01}"
   },
   {
    "id": 18,
    "en": "{07 01 00}And {ff 00 00 06}{04 17 00}{ff 00 00 00}{01 00 00 05 00} went nuts,\n{01 00 00 05 00}{04 02 00}! There was\nsmashed fruit everywhere!\n{07 1b 00}Once she starts, nothing\ncan stop her{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{04 02 00}.",
-   "et": ""
+   "et": "{07 01 00}Ja {ff 00 00 06}{04 17 00}{ff 00 00 00}{01 00 00 05 00} läks hulluks,\n{01 00 00 05 00}{04 02 00}! Purustatud\npuuvilja oli kõikjal!\n{07 1b 00}Kui ta kord alustab, ei\npeata miski{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{04 02 00}."
   },
   {
    "id": 19,
    "en": "{07 1b 00}I bet {ff 00 00 06}{04 16 00} {ff 00 00 00}stole a\ncupcake or something!{01 00 00 0a 00} {07 01 00}I'm\nmad just thinking about it!",
-   "et": ""
+   "et": "{07 1b 00}Küllap {ff 00 00 06}{04 16 00} {ff 00 00 00}näppas\nkoogikese või midagi!{01 00 00 0a 00} {07 01 00}Ma\nolen vihane juba mõeldes!"
   },
   {
    "id": 20,
    "en": "{07 1b 00}A friendship that close is\ntoo close for my comfort,\n{01 00 00 05 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 1b 00}Nii lähedane sõprus on\nminu jaoks liiga lähedane,\n{01 00 00 05 00}{04 02 00}!"
   },
   {
    "id": 21,
    "en": "{07 0e 00}Or, {01 00 00 0f 00}maybe it's just that\nthey're both still too\nyoung, {01 00 00 05 00}{04 02 00}.\n{07 16 00}They're at that age{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}when\nrunning around screaming is\nfun, {01 00 00 05 00}{04 02 00}.",
-   "et": ""
+   "et": "{07 0e 00}Või, {01 00 00 0f 00}ehk on lihtsalt nii,\net nad mõlemad on veel\nliiga noored, {01 00 00 05 00}{04 02 00}.\n{07 16 00}Nad on selles eas{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}kui\nringi joostes karjumine on\nlõbus, {01 00 00 05 00}{04 02 00}."
   },
   {
    "id": 22,
    "en": "{07 13 00}Getting along is{01 00 00 05 00} a beautiful\nthing{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 15 00} I mean, if you're\ninto that kind of sap!{03 01 00 01}",
-   "et": ""
+   "et": "{07 13 00}Läbisaamine on{01 00 00 05 00} ilus\nasi{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 15 00} Ma mõtlen, kui sulle\nselline mesi meeldib!{03 01 00 01}"
   },
   {
    "id": 23,
    "en": "{07 16 00}You{01 00 00 0f 00} really think so?{01 01 00} I don't\nsee it that way,\n{01 00 00 05 00}{04 02 00}.",
-   "et": ""
+   "et": "{07 16 00}Sa{01 00 00 0f 00} arvad tõesti nii?{01 01 00} Mina ei\nnäe seda nii,\n{01 00 00 05 00}{04 02 00}."
   },
   {
    "id": 24,
    "en": "{07 0c 00}You're so right!{01 00 00 14 00}\n{ff 00 00 06}{04 16 00} {ff 00 00 00}is COMPLETELY\nthat way!\n{07 14 00}You never let me down,\n{04 1f 00}.{01 00 00 0f 00} Good eye!\n{01 00 00 05 00}{0b 03 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 0c 00}Sul on nii õigus!{01 00 00 14 00}\n{ff 00 00 06}{04 16 00} {ff 00 00 00}on TÄIESTI\nselline!\n{07 14 00}Sa ei vea mind kunagi alt,\n{04 1f 00}.{01 00 00 0f 00} Hea silm!\n{01 00 00 05 00}{0b 03 00}{04 02 00}!"
   },
   {
    "id": 25,
    "en": "{07 15 00}Even though you bug me\nsometimes, {01 00 00 05 00}I don't ever\nwant to fight with you.",
-   "et": ""
+   "et": "{07 15 00}Kuigi sa vahel mind tüütad,\n{01 00 00 05 00}ei taha ma sinuga kunagi\ntülitseda."
   },
   {
    "id": 26,
    "en": "{07 16 00}And the oddest couple has\nto be me and {04 0c 00}.\nI can't stand that doofus.",
-   "et": ""
+   "et": "{07 16 00}Ja kõige veidram paar\non mina ja {04 0c 00}.\nMa ei talu seda tuhmi."
   },
   {
    "id": 27,
    "en": "{07 16 00}And me and {04 0b 00}?\nWell, I doubt we'll ever be\nmore than casual friends!",
-   "et": ""
+   "et": "{07 16 00}Ja mina ja {04 0b 00}?\nNoh, ma kahtlen, et me\nkunagi lähedased oleme!"
   },
   {
    "id": 28,
    "en": "{07 00 00}I wonder what kind of\nrelationship{07 0b 00} {ff 00 00 06}{04 16 00}\n{ff 00 00 00}and {ff 00 00 06}{04 17 00} {ff 00 00 00}have?\n{07 00 00}I heard that kids these\ndays are all really\nself-absorbed.\n{07 16 00}I wonder if they're like\nthat, too, {01 00 00 05 00}{04 02 00}?",
-   "et": ""
+   "et": "{07 00 00}Huvitav, milline suhe\non{07 0b 00} {ff 00 00 06}{04 16 00}\n{ff 00 00 00}ja {ff 00 00 06}{04 17 00} {ff 00 00 00}vahel?\n{07 00 00}Ma kuulsin, et tänapäeva\nlapsed on kõik väga\nenesekesksed.\n{07 16 00}Huvitav, kas nad on ka\nsellised, {01 00 00 05 00}{04 02 00}?"
   },
   {
    "id": 29,
    "en": "{07 00 00}Boy, old {ff 00 00 06}{04 16 00} {ff 00 00 00}and\n{ff 00 00 06}{04 17 00}{ff 00 00 00} act like the\nbest of friends, but...\n{07 0e 00}...you think deep down.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}?{01 00 00 05 00}\n{07 03 00}HA HA HA! I'm kidding! I got\nyou, though! {01 00 00 05 00}{0b 03 00}{04 02 00}!\n{07 11 00}Seriously, making up rumors\nis, like, pure Grade A\nentertainment! It's so fun!",
-   "et": ""
+   "et": "{07 00 00}Poiss, vana {ff 00 00 06}{04 16 00} {ff 00 00 00}ja\n{ff 00 00 06}{04 17 00}{ff 00 00 00} käituvad nagu\nparimad sõbrad, aga...\n{07 0e 00}...kas sa arvad, et sees{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}?{01 00 00 05 00}\n{07 03 00}HA HA HA! Ma teen nalja!\nSain su kätte! {01 00 00 05 00}{0b 03 00}{04 02 00}!\n{07 11 00}Tõsiselt, kuulujuttude\nvälja mõtlemine on puhas\nmeelelahutus! Nii lõbus!"
   },
   {
    "id": 30,
    "en": "{07 1b 00}I don't know how to break\nup a catfight, so I'm\nstaying out of it!",
-   "et": ""
+   "et": "{07 1b 00}Ma ei tea, kuidas kassitüli\nlahutada, nii et ma\nhoian eemale!"
   },
   {
    "id": 31,
    "en": "{07 16 00}Don't get too close to\nthose two! You might get\nbonked in the cross fire!",
-   "et": ""
+   "et": "{07 16 00}Ära mine neile kahele liiga\nlähedale! Võid ristutules\npihta saada!"
   },
   {
    "id": 32,
    "en": "{07 0f 00}I don't know what I can do \nto help{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 14 00} {07 16 00}I wanna help,\n{01 00 00 05 00}{04 02 00}! No kidding!",
-   "et": ""
+   "et": "{07 0f 00}Ma ei tea, kuidas ma saaks \naidata{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 14 00} {07 16 00}Ma tahan aidata,\n{01 00 00 05 00}{04 02 00}! Ilma naljata!"
   },
   {
    "id": 33,
    "en": "{07 15 00}If you don't wanna get\ncaught in the cross fire,\nyou should stay far away!",
-   "et": ""
+   "et": "{07 15 00}Kui sa ei taha ristutulle\nsattuda, peaksid sa\nkaugele eemale hoidma!"
   },
   {
    "id": 34,
    "en": "{07 0b 00}What?{01 00 00 0f 00} You haven't heard?{01 00 00 14 00}\n{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 00 00}Well then,{01 00 00 05 00} maybe we\nshouldn't talk about it.",
-   "et": ""
+   "et": "{07 0b 00}Mida?{01 00 00 0f 00} Sa pole kuulnud?{01 00 00 14 00}\n{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 00 00}Noh siis,{01 00 00 05 00} ehk me ei\npeaks sellest rääkima."
   }
  ]
 }

@@ -4,17 +4,17 @@
   {
    "id": 0,
    "en": "{07 14 00}I guess you're on it!{01 01 00}\n{07 00 00}I know it's obvious, but{01 00 00 0a 00}\n{07 15 00}don't read my letter!",
-   "et": ""
+   "et": "{07 14 00}Sa oled vist asja kallal!{01 01 00}\n{07 00 00}Ma tean, et see on ilmselge,\naga{01 00 00 0a 00} {07 15 00}ära loe mu kirja!"
   },
   {
    "id": 1,
    "en": "{07 00 00}Well,{01 00 00 05 00} if you insist!{01 01 00} {07 14 00}I guess{01 00 00 05 00}\nyou're hired!{01 00 00 14 00} {07 00 00}Now{01 00 00 05 00} don't go\nreading it, OK?",
-   "et": ""
+   "et": "{07 00 00}Noh,{01 00 00 05 00} kui sa nõuad!{01 01 00} {07 14 00}Sa oled{01 00 00 05 00}\nvist palgatud!{01 00 00 14 00} {07 00 00}Ära{01 00 00 05 00} hakka\nseda lugema, eks?"
   },
   {
    "id": 2,
    "en": "{07 14 00}Well, {01 00 00 0a 00}lucky me!{01 01 00} {07 00 00}Thanks{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n{07 15 00}And don't you even THINK\nabout reading it!",
-   "et": ""
+   "et": "{07 14 00}No, {01 00 00 0a 00}küll mul vedas!{01 01 00} {07 00 00}Aitäh{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n{07 15 00}Ja ära isegi MÕTLE\nselle lugemisest!"
   }
  ]
 }

@@ -4,242 +4,242 @@
   {
    "id": 0,
    "en": "Oh,{01 00 00 05 00} so you've decided to\nshow your face!{01 00 00 0f 00} I was\nwondering if I'd ever see it!",
-   "et": ""
+   "et": "Oh,{01 00 00 05 00} nii et sa otsustasid\nend näidata!{01 00 00 0f 00} Mõtlesin juba,\nkas ma näengi sind!"
   },
   {
    "id": 1,
    "en": "Unfortunately,{01 00 00 05 00} you won't get\nmuch work done if your\npockets are full.\nWhy don't you go drop off\nyour belongings at home\nbefore you start working.",
-   "et": ""
+   "et": "Kahjuks{01 00 00 05 00} ei saa sa palju\ntööd teha, kui su\ntaskud on täis.\nMiks sa ei viska oma\nasju enne töö algust\nkoju ära."
   },
   {
    "id": 2,
    "en": "{07 04 00}You haven't changed yet!{01 00 00 0f 00}\nAnd what did you do with\nyour {ff 00 00 07}work clothes{ff 00 00 00}?\n{07 16 00}Yes, yes, I'll give you a new\nset,{01 00 00 05 00} so come back after\nyou empty your pockets!",
-   "et": ""
+   "et": "{07 04 00}Sa pole veel riides!{01 00 00 0f 00}\nJa mida sa tegid oma\n{ff 00 00 07}tööriietega{ff 00 00 00}?\n{07 16 00}Jah, jah, annan sulle uue\nkomplekti,{01 00 00 05 00} nii et tule, kui\noled taskud tühjendanud!"
   },
   {
    "id": 3,
    "en": "All right then, first things\nfirst!{01 00 00 05 00} You'll need to change\ninto these {ff 00 00 07}work clothes{ff 00 00 00}.\nIf you must know,{01 00 00 05 00} everyone\nwho works here is required\nto wear a uniform.",
-   "et": ""
+   "et": "Hea küll, kõigepealt\nkõige tähtsam!{01 00 00 05 00} Sa pead\n{ff 00 00 07}tööriided{ff 00 00 00} selga panema.\nKui tahad teada,{01 00 00 05 00} siis kõik,\nkes siin töötavad, peavad\nkandma vormi."
   },
   {
    "id": 4,
    "en": "{07 04 00}You haven't changed yet?{01 00 00 0f 00}\nWhat did you do with your\n{ff 00 00 07}work clothes{ff 00 00 00}? Hm? Hm?\n{07 16 00}Unbelievable.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0f 00} Here, take\nthis new set,{01 00 00 05 00} but you must\nchange into them this time!",
-   "et": ""
+   "et": "{07 04 00}Sa pole veel riietunud?{01 00 00 0f 00}\nMida sa tegid oma\n{ff 00 00 07}tööriietega{ff 00 00 00}? Ah? Ah?\n{07 16 00}Uskumatu.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0f 00} Siin, võta\nsee uus komplekt,{01 00 00 05 00} aga nüüd\npead sa need selga panema!"
   },
   {
    "id": 5,
    "en": "{07 04 00}You still haven't dressed!{01 01 00}\n{07 00 00}Either tap the {ff 00 00 01}arrow {ff 00 00 00}on the\n{ff 00 00 01}Touch Screen{ff 00 00 00}...\nor press the{ff 00 00 02} {ff 00 00 01}Y Button {ff 00 00 00}to\nsee what's in your{ff 00 00 01} pockets{ff 00 00 00}.{01 00 00 0a 00}\nFind your {ff 00 00 07}work clothes{ff 00 00 00}...\nThen {ff 00 00 01}touch{ff 00 00 00} them and{01 00 00 05 00}\ndrag them onto your\nbody. {01 00 00 05 00}Easy, hm?{ff 00 00 01}\n{ff 00 00 00}And{01 00 00 05 00} there you go!{01 00 00 05 00}\nCome, come!{01 00 00 05 00} Hurry up\nand change!",
-   "et": ""
+   "et": "{07 04 00}Sa pole ikka veel riietunud!{01 01 00}\n{07 00 00}Kas koputa {ff 00 00 01}noolt {ff 00 00 00}\n{ff 00 00 01}puuteekraanil{ff 00 00 00}...\nvõi vajuta{ff 00 00 02} {ff 00 00 01}Y-nuppu{ff 00 00 00}, et\nnäha, mis on su{ff 00 00 01} taskutes{ff 00 00 00}.{01 00 00 0a 00}\nLeia oma {ff 00 00 07}tööriided{ff 00 00 00}...\nSiis {ff 00 00 01}puuduta{ff 00 00 00} neid ja{01 00 00 05 00}\nlohista need endale\nselga. {01 00 00 05 00}Lihtne, ah?{ff 00 00 01}\n{ff 00 00 00}Ja{01 00 00 05 00} ongi tehtud!{01 00 00 05 00}\nTule, tule!{01 00 00 05 00} Kiirusta\nja vaheta riided!"
   },
   {
    "id": 6,
    "en": "{07 14 00}Just say the word once\nyou're done changing.",
-   "et": ""
+   "et": "{07 14 00}Ütle lihtsalt sõna, kui\noled riided vahetanud."
   },
   {
    "id": 7,
    "en": "{07 19 00}Yes, yes.{01 00 00 05 00} That suits you\njust fine.{01 00 00 05 00}\n\n{07 00 00}And since that's done,{01 00 00 05 00} we'll\nput you right to work.{01 00 00 05 00}\nYes, indeed!",
-   "et": ""
+   "et": "{07 19 00}Jah, jah.{01 00 00 05 00} See sobib sulle\nväga hästi.{01 00 00 05 00}\n\n{07 00 00}Ja kuna see on tehtud,{01 00 00 05 00}\npaneme su kohe tööle.{01 00 00 05 00}\nJah, tõepoolest!"
   },
   {
    "id": 8,
    "en": "First off, I want you to\nplant some trees and\nflowers around my shop.\n{07 14 00}The shopping experience is\ngreatly enhanced{01 00 00 05 00} by clean\nand alluring surroundings!",
-   "et": ""
+   "et": "Kõigepealt tahan, et sa\nistutaksid mu poe ümber\npuid ja lilli.\n{07 14 00}Ostlemiselamust parandab\noluliselt{01 00 00 05 00} puhas ja\nahvatlev ümbrus!"
   },
   {
    "id": 9,
    "en": "But{01 00 00 0a 00}{07 16 00} if you can't carry\nanything, you can't do any\nwork, unfortunately.\nI'll have to ask you to\nempty your pockets!{01 00 00 0a 00}\n\nAt the very least, make\nroom for seven items,\nyes?",
-   "et": ""
+   "et": "Aga{01 00 00 0a 00}{07 16 00} kui sa ei saa midagi\nkanda, ei saa sa kahjuks\nmingit tööd teha.\nPean paluma sul taskud\ntühjaks teha!{01 00 00 0a 00}\n\nTee ruumi vähemalt\nseitsme eseme jaoks,\njah?"
   },
   {
    "id": 10,
    "en": "{07 00 00}I'm counting on you to\ngive the place a little\ncharm, indeed!\nJust say the word when\nyou're done,{01 00 00 05 00} yes?",
-   "et": ""
+   "et": "{07 00 00}Loodan, et annad sellele\nkohale veidi\nvõlu, tõepoolest!\nÜtle lihtsalt sõna, kui\noled valmis,{01 00 00 05 00} jah?"
   },
   {
    "id": 11,
    "en": "{07 04 00}That? I select only the\nfinest goods for my\npatrons.\n{07 15 00}I don't sell to employees!",
-   "et": ""
+   "et": "{07 04 00}See? Valin oma klientidele\nainult kõige\nparemaid kaupu.\n{07 15 00}Ma ei müü töötajatele!"
   },
   {
    "id": 12,
    "en": "{07 06 00}Now, wait just a moment!{01 00 00 0a 00}\nThat's the way to the\nsecond floor!\nYou don't have any errands\nup there!",
-   "et": ""
+   "et": "{07 06 00}Oota nüüd üks hetk!{01 00 00 0a 00}\nSee on tee teisele\nkorrusele!\nSul pole seal üleval\nmingit asja!"
   },
   {
    "id": 14,
    "en": "{01 09 00}A{01 00 00 05 00}U{01 00 00 05 00}G{01 00 00 05 00}G{01 00 00 05 00}G{01 00 00 05 00}H{01 00 00 05 00}!{01 01 00} {07 15 00}Why are you not\nwearing{01 00 00 05 00} your {ff 00 00 07}work clothes{ff 00 00 00}?!\n\nIs the uniform I've chosen\nfor my employees{01 00 00 05 00} so\nunpleasant to wear?\n{07 16 00}I say! Kids these days,\nthinking every day should\nbe casual Friday{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 00 00}But I can't be a dinosaur\nin the modern day, can I.{01 00 00 14 00}\nWear what you want.\nJust make sure it doesn't\nleave my customers feeling\n{01 00 00 05 00}uncomfortable, hm?\nA workplace must maintain\na modicum of dignity,\nafter all.",
-   "et": ""
+   "et": "{01 09 00}A{01 00 00 05 00}U{01 00 00 05 00}H{01 00 00 05 00}H{01 00 00 05 00}H{01 00 00 05 00}H{01 00 00 05 00}!{01 01 00} {07 15 00}Miks sa ei\nkanna{01 00 00 05 00} oma {ff 00 00 07}tööriideid{ff 00 00 00}?!\n\nKas vorm, mille olen oma\ntöötajatele valinud,{01 00 00 05 00} on\nnii ebameeldiv kanda?\n{07 16 00}Ütlen ma! Tänapäeva noored,\narvavad, et iga päev võiks\nolla vaba riietusega{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 00 00}Aga ma ei saa ju nüüd\ndinosaurus olla, ega?{01 00 00 14 00}\nKanna, mida tahad.\nLihtsalt vaata, et see ei\njätaks mu kliente\n{01 00 00 05 00}ebamugavasse olukorda, ah?\nTöökoht peab ju säilitama\nteatava väärikuse,\nlõppude lõpuks."
   },
   {
    "id": 15,
    "en": "Check your {ff 00 00 01}pockets{ff 00 00 00}, and\n{ff 00 00 01}touch{ff 00 00 00} the seeds or sapling\nyou want to plant.\nKeep touching it, and\nyou'll be asked what you\nwant to do with it.\nSimply choose {ff 00 00 02}Plant{ff 00 00 00}. It's as\neasy as that! Yes, indeed!\n\nHowever,{01 00 00 05 00} if something is\nalready there,{01 00 00 05 00} you won't be\nable to plant anything.\n{07 04 00}Oh, yes!{01 00 00 0a 00} I'm sure you know\nthis, but {01 00 00 05 00}make sure you do\nyour planting outdoors!",
-   "et": ""
+   "et": "Vaata oma {ff 00 00 01}taskuid{ff 00 00 00} ja\n{ff 00 00 01}puuduta{ff 00 00 00} seemneid või\nvõsu, mida tahad istutada.\nHoia seda puudutatuna ja\nsinult küsitakse, mida sa\nsellega teha tahad.\nVali lihtsalt {ff 00 00 02}Istuta{ff 00 00 00}. Nii\nlihtne see ongi! Jah, tõesti!\n\nKui aga{01 00 00 05 00} seal on juba\nmidagi,{01 00 00 05 00} ei saa sa\nsinna midagi istutada.\n{07 04 00}Ah jaa!{01 00 00 0a 00} Olen kindel, et sa\ntead seda, aga {01 00 00 05 00}istuta\nkindlasti õues!"
   },
   {
    "id": 16,
    "en": "Now, now!{01 00 00 0a 00} Don't dillydally!{01 00 00 05 00} I\nwant you to finish up this\nchore quickly!",
-   "et": ""
+   "et": "Nüüd, nüüd!{01 00 00 0a 00} Ära venita!{01 00 00 05 00} Ma\ntahan, et sa selle töö\nkiiresti lõpetaksid!"
   },
   {
    "id": 17,
    "en": "{07 0b 00}So did you give the grounds\nsome charming character\nwith the plants?\n{07 00 00}I suppose I'll have to trust\nto your sense of style,\nwon't I,{01 00 00 05 00} {04 00 00}?\n{07 0e 00}Now then,{01 00 00 0a 00} what should I\nhave you do next{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.",
-   "et": ""
+   "et": "{07 0b 00}Kas sa andsid maastikule\ntaimedega veidi\nvõluvat iseloomu?\n{07 00 00}Vist pean usaldama\nsinu stiilitunnetust,\nkas pole,{01 00 00 05 00} {04 00 00}?\n{07 0e 00}Nii siis,{01 00 00 0a 00} mida ma peaksin\nsind nüüd tegema panema{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}."
   },
   {
    "id": 18,
    "en": "{07 04 00}Oh, how silly of me.{01 00 00 0f 00} I just\nremembered something I had\ncompletely forgotten{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 00 00}{0b 03 00}{04 00 00},{01 00 00 05 00} you've only\njust arrived in {04 03 00},\nno?\nWell,{01 00 00 05 00}{07 0b 00} have you introduced\nyourself to everyone in\n{04 03 00} yet?\n{07 00 00}Tell you what:{01 00 00 05 00} you've worked\ndiligently, so I'll let you\ntake a little break, yes?\n{07 19 00}Use{01 00 00 05 00} this time to\nintroduce yourself to your\nneighbors--my customers!\n{07 00 00}Be sure to knock before\nentering their houses. You\ndon't want to shock anyone.\n{07 04 00}Oh!{01 00 00 0a 00} And don't forget to\nintroduce yourself to the{ff 00 00 06}\nmayor{ff 00 00 00}, too!\n{07 00 00}He should be out for a walk\nnear the {ff 00 00 08}town hall{ff 00 00 00},{01 00 00 05 00} so look\nfor him around there.\n{07 14 00}Very well, now!{01 00 00 05 00} On your way!\nNo dawdling!",
-   "et": ""
+   "et": "{07 04 00}Oh, kui rumal ma olen.{01 00 00 0f 00} Mul\ntuli meelde midagi, mille\nolin täiesti unustanud{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 00 00}{0b 03 00}{04 00 00},{01 00 00 05 00} sa oled alles\njõudnud linna {04 03 00},\nkas pole?\nNoh,{01 00 00 05 00}{07 0b 00} kas sa oled end juba\nkõigile linnas {04 03 00}\ntutvustanud?\n{07 00 00}Ütlen sulle nii:{01 00 00 05 00} sa oled\ntöötanud usinalt, nii et\nsul teha väikese pausi, jah?\n{07 19 00}Kasuta{01 00 00 05 00} seda aega, et\ntutvustada end oma\nnaabritele – mu klientidele!\n{07 00 00}Koputa kindlasti, enne kui\nnende majja astud. Sa ei\ntaha ju kedagi ehmatada.\n{07 04 00}Oh!{01 00 00 0a 00} Ja ära unusta end\ntutvustada ka{ff 00 00 06}\nlinnapeale{ff 00 00 00}!\n{07 00 00}Ta peaks olema jalutamas\n{ff 00 00 08}raekoja{ff 00 00 00} lähedal,{01 00 00 05 00} nii et\notsi teda sealt.\n{07 14 00}Väga hästi, nüüd!{01 00 00 05 00} Mine!\nMitte venitada!"
   },
   {
    "id": 19,
    "en": "Be sure to introduce\nyourself to all the\ntownsfolk{01 00 00 05 00} and {ff 00 00 06}mayor{ff 00 00 00}!",
-   "et": ""
+   "et": "Tutvusta end kindlasti\nkõigile linlastele{01 00 00 05 00} ja\n{ff 00 00 06}linnapeale{ff 00 00 00}!"
   },
   {
    "id": 20,
    "en": "{07 0b 00}Hmm? You met everyone?{01 00 00 0f 00} I'm\nnot so sure. You could have\neasily missed someone.\n{07 00 00}Be sure to meet everyone\nin town,{01 00 00 05 00} including the{ff 00 00 06}\nmayor{ff 00 00 00}!",
-   "et": ""
+   "et": "{07 0b 00}Hmm? Kohtusid kõigiga?{01 00 00 0f 00} Ma\npole nii kindel. Sa võisid\nkergesti kellegi unustada.\n{07 00 00}Kohtu kindlasti kõigiga\nlinnas,{01 00 00 05 00} kaasa arvatud{ff 00 00 06}\nlinnapeaga{ff 00 00 00}!"
   },
   {
    "id": 21,
    "en": "Don't just give them a nod{01 00 00 05 00}\nand a hello. Oh, no no.{01 00 00 05 00} You\nbe sure to chitchat, too.\n{07 14 00}Relationships are built on\ntrust, after all.{01 00 00 0a 00} Not to\nmention communication!",
-   "et": ""
+   "et": "Ära lihtsalt nooguta{01 00 00 05 00}\nja ütle tere. Oh ei.{01 00 00 05 00} Sa\nvestle nendega kindlasti ka.\n{07 14 00}Suhted on ju üles ehitatud\nusaldusele.{01 00 00 0a 00} Rääkimata\nsuhtlemisest!"
   },
   {
    "id": 22,
    "en": "{07 0b 00}Did you introduce yourself\nto everyone?\n\n{07 14 00}Yes, yes! You'll get your\nbearings in {04 03 00}\nfaster by making friends!",
-   "et": ""
+   "et": "{07 0b 00}Kas sa tutvustasid end\nkõigile?\n\n{07 14 00}Jah, jah! Sa leiad linnas\n{04 03 00} kiiremini\nsuuna, kui saad sõpru!"
   },
   {
    "id": 23,
    "en": "{07 04 00}Oh!{01 00 00 0a 00} {0b 03 00}{04 00 00},{01 00 00 0a 00} you know\nbetter than to come to\nwork with your pockets full!\n{07 06 00}Can't you go empty them\nout somewhere, hm?{01 00 00 05 00} Go on,\nnow!",
-   "et": ""
+   "et": "{07 04 00}Oh!{01 00 00 0a 00} {0b 03 00}{04 00 00},{01 00 00 0a 00} sa tead\nküll paremini, kui tulla\ntööle täis taskutega!\n{07 06 00}Kas sa ei saaks need\nkuskil tühjaks teha?{01 00 00 05 00} Mine\nnüüd!"
   },
   {
    "id": 24,
    "en": "I suppose I'll put you in\ncharge of furniture\ndelivery for me.\nSurely this is the type of\nwork you had in mind when\nyou accepted the job, no?\nSo,{01 00 00 05 00} I'd like you to deliver\nthis furniture to\n{ff 00 00 06}{04 10 00}{ff 00 00 00}. Go on!",
-   "et": ""
+   "et": "Vist panen su vastutama\nmööbli kohaletoimetamise\neest.\nKindlasti on see selline\ntöö, mida sa mõtlesid, kui\nselle töö vastu võtsid?\nNii et,{01 00 00 05 00} ma tahaksin, et sa\nviiksid selle mööbli\n{ff 00 00 06}{04 10 00}{ff 00 00 00}-le. Mine!"
   },
   {
    "id": 25,
    "en": "And don't stop to chew the\nfat along the way!{01 00 00 05 00}\nGo straight there!\nAnd then come straight\nback!{01 00 00 05 00} And let me know as\nsoon as you're done, yes?",
-   "et": ""
+   "et": "Ja ära peatu teel\nlobisema!{01 00 00 05 00}\nMine otse sinna!\nJa siis tule otse\ntagasi!{01 00 00 05 00} Ja anna teada kohe,\nkui oled valmis, jah?"
   },
   {
    "id": 26,
    "en": "{07 0b 00}So did you give the grounds\nsome charming character\nwith the plants, hm?\n{07 00 00}I suppose I'll have to trust\nto your sense of style,\nwon't I,{01 00 00 05 00} {04 00 00}?",
-   "et": ""
+   "et": "{07 0b 00}Kas sa andsid maastikule\ntaimedega veidi\nvõluvat iseloomu, ah?\n{07 00 00}Vist pean usaldama\nsinu stiilitunnetust,\nkas pole,{01 00 00 05 00} {04 00 00}?"
   },
   {
    "id": 28,
    "en": "If you forget who the\nrecipient is, just {ff 00 00 01}touch{ff 00 00 00} the\nitem in your {ff 00 00 01}pockets{ff 00 00 00}.\nYou'll be reminded of who is\nwaiting for it!{01 00 00 05 00}\n\nAnd you can check your\n{ff 00 00 07}map{ff 00 00 00} to see where the\naddressee lives.\nDon't let me down now!{01 01 00} {07 14 00}I'm\ncounting on you{01 00 00 05 00} to make\nthis delivery. Good luck!",
-   "et": ""
+   "et": "Kui sa unustad, kes on\nsaaja, siis lihtsalt {ff 00 00 01}puuduta{ff 00 00 00}\neset oma {ff 00 00 01}taskutes{ff 00 00 00}.\nSulle tuletatakse meelde,\nkes seda ootab!{01 00 00 05 00}\n\nJa sa võid vaadata oma\n{ff 00 00 07}kaarti{ff 00 00 00}, et näha, kus\nsaaja elab.\nÄra vea mind alt!{01 01 00} {07 14 00}Ma\nloodan sinu peale,{01 00 00 05 00} et sa\nselle kohale viid. Edu!"
   },
   {
    "id": 30,
    "en": "{07 14 00}Welcome back!{01 00 00 05 00} Welcome back!{01 00 00 0f 00}\nCongratulations{01 00 00 14 00} on your\nfirst successful delivery!\n{07 00 00}You may not look the part,{01 00 00 05 00}\n{07 19 00}but you are surprisingly\ndedicated and efficient!\n{07 00 00}Of course,{01 00 00 05 00} the folks who\nget the job done{01 00 00 0a 00} get more\njobs to do! Yes, indeed!",
-   "et": ""
+   "et": "{07 14 00}Tere tagasi!{01 00 00 05 00} Tere tagasi!{01 00 00 0f 00}\nPalju õnne{01 00 00 14 00} sinu\nesimese saadetise puhul!\n{07 00 00}Sa ei pruugi välja näha,{01 00 00 05 00}\n{07 19 00}aga sa oled üllatavalt\npühendunud ja tõhus!\n{07 00 00}Muidugi{01 00 00 05 00} saavad need, kes\ntöö ära teevad,{01 00 00 0a 00} rohkem\ntööd! Jah, tõepoolest!"
   },
   {
    "id": 31,
    "en": "Your next task is to\ncompose some copy for\na direct mailing.\n{07 19 00}It will be a personalized\npitch to my valued\ncustomer,{01 00 00 05 00} {ff 00 00 06}{04 0f 00}{ff 00 00 00}.\n{07 00 00}Obviously, start with a word\nof gratitude for\n{ff 00 00 06}{04 0f 00}{ff 00 00 00}'s patronage.\n{07 14 00}And then include\ninformation about our\nspecial sale!\n{07 00 00}Yes, yes.{01 00 00 0a 00} You can write it\non this stationery.",
-   "et": ""
+   "et": "Sinu järgmine ülesanne on\nkoostada tekst\notsepostituse jaoks.\n{07 19 00}See saab olema isiklik\npakkumine mu väärtuslikule\nkliendile,{01 00 00 05 00} {ff 00 00 06}{04 0f 00}{ff 00 00 00}.\n{07 00 00}Muidugi alusta tänusõnadega\n{ff 00 00 06}{04 0f 00}{ff 00 00 00}-le\ntema truuduse eest.\n{07 14 00}Ja siis lisa teave\nmeie eripakkumise\nkohta!\n{07 00 00}Jah, jah.{01 00 00 0a 00} Sa võid selle\nkirjutada sellele paberile."
   },
   {
    "id": 32,
    "en": "You can mail letters at the\n{ff 00 00 08}post office{ff 00 00 00}{01 00 00 05 00} in the{ff 00 00 08} town\nhall{ff 00 00 00}. It's all very simple.\n{07 19 00}Now, be quick about it!{01 00 00 05 00} But\nI will not tolerate sloppy\nwork! {01 00 00 05 00}Correct any typos!",
-   "et": ""
+   "et": "Kirju saad saata\n{ff 00 00 08}postkontorist{ff 00 00 00}{01 00 00 05 00} {ff 00 00 08}raekojas{ff 00 00 00}.\nSee on väga lihtne.\n{07 19 00}Nüüd, tee seda kiiresti!{01 00 00 05 00} Aga\nma ei salli lohakat\ntööd! {01 00 00 05 00}Paranda kõik vead!"
   },
   {
    "id": 33,
    "en": "To write a letter,{01 00 00 05 00} just {ff 00 00 01}tap\n{ff 00 00 00}the stationery. Next, {ff 00 00 01}tap{ff 00 00 00}\n{ff 00 00 02}Write Letter{ff 00 00 00}. Simple, yes?",
-   "et": ""
+   "et": "Kirja kirjutamiseks{01 00 00 05 00} {ff 00 00 01}koputa\n{ff 00 00 00}kirjapaberit. Siis {ff 00 00 01}koputa{ff 00 00 00}\n{ff 00 00 02}Kirjuta kiri{ff 00 00 00}. Lihtne, jah?"
   },
   {
    "id": 34,
    "en": "Do you need new paper to\nwrite your letter?{02 04 00 25 26}\nGrand idea!\nNope! I'm good.",
-   "et": ""
+   "et": "Kas sul on kirja\njaoks uut paberit vaja?{02 04 00 25 26}\nSuurepärane mõte!\nEi! Saan hakkama."
   },
   {
    "id": 37,
    "en": "Yes, yes.{01 00 00 0a 00} Here{01 00 00 05 00} is your new\nstationery!",
-   "et": ""
+   "et": "Jah, jah.{01 00 00 0a 00} Siin{01 00 00 05 00} on sinu uus\nkirjapaber!"
   },
   {
    "id": 38,
    "en": "Now,{01 00 00 05 00} you be quick about\nhammering that out.\n\n{07 14 00}And let me know as soon as\nyou're done!",
-   "et": ""
+   "et": "Nüüd,{01 00 00 05 00} tee see kiiresti\nvalmis.\n\n{07 14 00}Ja anna teada niipea,\nkui oled valmis!"
   },
   {
    "id": 39,
    "en": "Welcome back!{01 00 00 0f 00}{07 0b 00} Did you get\nthat letter sent off?\n\n{07 0e 00}Hmm{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} Something seems\namiss. {01 00 00 05 00}A little fishy, yes.\n\n{07 16 00}Don't tell me{01 00 00 05 00} you sent it to\nthe wrong person! {01 00 00 05 00}You did,\ndidn't you?\nI don't know why,{01 00 00 05 00} but that's\nthe feeling I have in my\ngut.\n{07 00 00}I know it's a baseless\nhunch,{01 00 00 05 00} but I still want you\nto send the letter again!\nAnd this time,{01 00 00 05 00} be sure to\naddress it to {ff 00 00 06}{04 0f 00}{ff 00 00 00}!{01 00 00 0a 00}\nIndeed!",
-   "et": ""
+   "et": "Tere tagasi!{01 00 00 0f 00}{07 0b 00} Kas sa\nsaatsid selle kirja ära?\n\n{07 0e 00}Hmm{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} Midagi näib\nolevat viltu. {01 00 00 05 00}Veidi kahtlane.\n\n{07 16 00}Ära ütle,{01 00 00 05 00} et saatsid selle\nvalele inimesele! {01 00 00 05 00}Saatsid ju,\neks?\nMa ei tea, miks,{01 00 00 05 00} aga see\non tunne, mis mul\nkõhus on.\n{07 00 00}Tean, et see on alusetu\naimdus,{01 00 00 05 00} aga ma tahan ikka,\net saadaksid kirja uuesti!\nJa seekord{01 00 00 05 00} adresseeri see\nkindlasti {ff 00 00 06}{04 0f 00}{ff 00 00 00}-le!{01 00 00 0a 00}\nTõepoolest!"
   },
   {
    "id": 40,
    "en": "{07 0b 00}Well? {01 00 00 05 00}Did you send it?{01 01 00}\n{07 19 00}Yes, yes.{01 00 00 05 00} Good work. Nice\njob. Well done.\n{07 00 00}It took a little longer than\nI expected,{01 00 00 0a 00} but {01 00 00 05 00}you got\nthe job done.\nFolks in {04 03 00}{01 00 00 05 00} love\ngetting mail. If you don't\nknow how to send one{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\nIt will come back to bite\nyou later.",
-   "et": ""
+   "et": "{07 0b 00}Noh? {01 00 00 05 00}Kas saatsid ära?{01 01 00}\n{07 19 00}Jah, jah.{01 00 00 05 00} Tubli töö. Hästi\ntehtud. Väga hea.\n{07 00 00}See võttis kauem aega,\nkui ootasin,{01 00 00 0a 00} aga {01 00 00 05 00}sa said\ntöö tehtud.\n{04 03 00} rahvas{01 00 00 05 00} armastab\nposti saada. Kui sa ei\ntea, kuidas seda saata{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\nsee tuleb sulle hiljem\ntagasi kummitama."
   },
   {
    "id": 41,
    "en": "Now then,{01 00 00 0a 00} your next task\nwill be to deliver a carpet!\n\n{07 19 00}No slacking off this time!{01 00 00 05 00}\nUnderstand, hm?\n\n{07 00 00}This carpet{01 00 00 05 00} is going to\n{ff 00 00 06}{04 10 00}{ff 00 00 00}, so I need you\nto get it there.",
-   "et": ""
+   "et": "Nii siis,{01 00 00 0a 00} sinu järgmine\nülesanne on viia vaip!\n\n{07 19 00}Seekord mitte logeleda!{01 00 00 05 00}\nSaad aru, ah?\n\n{07 00 00}See vaip{01 00 00 05 00} läheb\n{ff 00 00 06}{04 10 00}{ff 00 00 00}-le, nii et pead\nselle sinna viima."
   },
   {
    "id": 42,
    "en": "And don't think that you\ncan dillydally just because\nI'm not watching you.\n{07 11 00}And no idle chitchat along\nthe way, either. {01 00 00 05 00}You\nunderstand me, yes?\n{07 14 00}Good, then.{01 00 00 05 00} Just let me\nknow once you're done.",
-   "et": ""
+   "et": "Ja ära arva, et sa\nvõid venitada sellepärast,\net ma sind ei vaata.\n{07 11 00}Ja mingit tühja lobisemist\nka teel ei tohi. {01 00 00 05 00}Saad\nminust aru, jah?\n{07 14 00}Hea siis.{01 00 00 05 00} Anna lihtsalt\nteada, kui valmis oled."
   },
   {
    "id": 43,
    "en": "{07 06 00}Don't stand around here\nfishing for gossip! You\nhave a delivery to make!\n{07 14 00}My favorite saying is{01 00 00 05 00}\n\"Time is money.\"{01 00 00 05 00} You'd be\nwise to remember that!",
-   "et": ""
+   "et": "{07 06 00}Ära seisa siin ja\nõngitse klatši! Sul on\nsaadetis viia!\n{07 14 00}Mu lemmikütlus on{01 00 00 05 00}\n„Aeg on raha.”{01 00 00 05 00} Sa teeksid\ntargasti, kui mäletaksid!"
   },
   {
    "id": 44,
    "en": "{07 14 00}Welcome back! Welcome back!\nAnd nice job!\n\nLooks like you're finally\ngetting the hang of things\naround here!\n{07 19 00}Why, if you keep this up, I\nmight consider offering you\na permanent position!{07 00 00}",
-   "et": ""
+   "et": "{07 14 00}Tere tagasi! Tere tagasi!\nJa tubli töö!\n\nNäib, et sa hakkad lõpuks\nsiinsete asjadega\nkohanema!\n{07 19 00}Noh, kui sa nii jätkad,\nvõin ma kaaluda sulle\nalalise koha pakkumist!{07 00 00}"
   },
   {
    "id": 46,
    "en": "Next, I need you to deliver{01 00 00 05 00}\na {ff 00 00 07}watering can{ff 00 00 00} to\n{ff 00 00 06}{04 10 00}{ff 00 00 00}!\n{07 04 00}And don't get any ideas!{01 00 00 0f 00} No\nusing the products you're\ndelivering to others!\n{07 00 00}If you get the urge to\nwater withering flowers,{01 00 00 05 00}\n\n{07 14 00}you'll have to do it on your\nown time,{01 00 00 05 00} with a can you\nbuy with your own money!",
-   "et": ""
+   "et": "Järgmiseks pead viima{01 00 00 05 00}\n{ff 00 00 07}kastekannu\n{ff 00 00 00}{ff 00 00 06}{04 10 00}{ff 00 00 00}-le!\n{07 04 00}Ja ära tule mõttele!{01 00 00 0f 00} Ei\ntohi kasutada tooteid, mida\nsa teistele viid!\n{07 00 00}Kui sul tekib tung kasta\nnärbuvaid lilli,{01 00 00 05 00}\n\n{07 14 00}siis pead seda tegema oma\najal,{01 00 00 05 00} kannuga, mille\nostad oma raha eest!"
   },
   {
    "id": 48,
    "en": "{07 00 00}Since that's cleared up,{01 00 00 05 00} get\nout there and show the\nworld how well you deliver!\nAnd let me know when you're\ndone,{01 00 00 0a 00} yes?",
-   "et": ""
+   "et": "{07 00 00}Kuna see on selge,{01 00 00 05 00} mine\nsinna välja ja näita\nmaailmale, kui hea sa oled!\nJa anna teada, kui oled\nvalmis,{01 00 00 0a 00} jah?"
   },
   {
    "id": 49,
    "en": "{07 14 00}Welcome back!{01 00 00 0f 00} You are\nworking hard indeed!\n\n{07 00 00}Now, now!{01 00 00 05 00} Next up{01 00 00 05 00} on your\nwork schedule is.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}um.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 14 00}\n{07 0c 00}Yes, yes!{01 00 00 05 00} Now I remember!\n{07 00 00}{07 0b 00}Have you seen the {ff 00 00 08}bulletin\nboard{ff 00 00 00}{01 00 00 05 00} near the {ff 00 00 08}town hall{ff 00 00 00}?\n\n{07 00 00}I want you to post a nice\nadvertisement for my shop{01 00 00 05 00}\non that {ff 00 00 08}bulletin board{ff 00 00 00}.\n{07 04 00}Oh,{01 00 00 0f 00} you don't have to think\ntoo hard about it.{01 00 00 05 00} Anything\nwill do.\n{07 14 00}Just write something that\nthe kids these days will\nthink is \"catchy\" and \"cool.\"\n{07 00 00}But once you post a notice\non that {ff 00 00 08}bulletin board{ff 00 00 00},{01 00 00 0a 00}\nyou can't erase it.\nSo, don't write anything too\nembarrassing.\n\n{07 14 00}I'll be waiting for you,{01 00 00 05 00} so\ndon't take too long!{01 00 00 0f 00} And let\nme know once you're done!",
-   "et": ""
+   "et": "{07 14 00}Tere tagasi!{01 00 00 0f 00} Sa töötad\ntõesti kõvasti!\n\n{07 00 00}Nüüd, nüüd!{01 00 00 05 00} Järgmine{01 00 00 05 00} sinu\ntöögraafikus on.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}ee.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 14 00}\n{07 0c 00}Jah, jah!{01 00 00 05 00} Nüüd mäletan!\n{07 00 00}{07 0b 00}Kas sa oled näinud\n{ff 00 00 08}tahvlit{ff 00 00 00}{01 00 00 05 00} {ff 00 00 08}raekoja{ff 00 00 00} juures?\n\n{07 00 00}Tahan, et sa paneksid\nkena reklaami mu poe kohta{01 00 00 05 00}\nsellele {ff 00 00 08}teadetetahvlile{ff 00 00 00}.\n{07 04 00}Oh,{01 00 00 0f 00} sa ei pea selle üle\nliiga palju mõtlema.{01 00 00 05 00} Mis\nmis sobib.\n{07 14 00}Kirjuta midagi, mida\ntänapäeva lapsed peavad\n„tabavaks” ja „lahedaks”.\n{07 00 00}Aga kui oled teate sellele\n{ff 00 00 08}teadetetahvlile{ff 00 00 00} pannud,{01 00 00 0a 00}\nei saa sa seda kustutada.\nNii et ära kirjuta midagi\nliiga piinlikku.\n\n{07 14 00}Ma ootan sind,{01 00 00 05 00} nii et\nära venita kaua!{01 00 00 0f 00} Ja anna\nteada, kui valmis oled!"
   },
   {
    "id": 50,
    "en": "{07 14 00}You don't have to give it\ntoo much thought.\n\nWhy,{01 00 00 05 00} everyone knows a true\nsalesman doesn't even need\nto know what he's selling!",
-   "et": ""
+   "et": "{07 14 00}Sa ei pea selle üle\nliiga palju mõtlema.\n\nNoh,{01 00 00 05 00} kõik teavad, et tõeline\nmüügimees ei pea isegi\nteadma, mida ta müüb!"
   },
   {
    "id": 51,
    "en": "Welcome back!{01 00 00 0f 00}{07 0b 00} Did you come\nup with something good?\n\n{07 19 00}Good, good.{01 00 00 0a 00} Well done.{01 00 00 0f 00}\n{07 00 00}So,{01 00 00 05 00} that means{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 0a 00}Oh!{01 00 00 05 00} You're done!{01 00 00 05 00} You're done!{01 00 00 0f 00}\nAll the stacked-up work I\nhad that needed doing{01 00 00 05 00} is\nall done!\nSince I no longer have any\nwork for you,{01 00 00 05 00} I'm afraid\nI'll have to lay you off!",
-   "et": ""
+   "et": "Tere tagasi!{01 00 00 0f 00}{07 0b 00} Kas sa mõtlesid\nvälja midagi head?\n\n{07 19 00}Hea, hea.{01 00 00 0a 00} Tubli töö.{01 00 00 0f 00}\n{07 00 00}Nii,{01 00 00 05 00} see tähendab{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 0a 00}Oh!{01 00 00 05 00} Sa oled valmis!{01 00 00 05 00} Valmis!{01 00 00 0f 00}\nKogu see kuhjunud töö,\nmis vajas tegemist,{01 00 00 05 00} on\nkõik tehtud!\nKuna mul pole sulle enam\ntööd,{01 00 00 05 00} kardan, et pean\nsind koondama!"
   },
   {
    "id": 52,
    "en": "{07 0b 00}Hm? What's that?{01 00 00 0a 00} Your\nmortgage?\n\n{07 00 00}Oh, well, of course{01 00 00 05 00} you'll\nstill have to pay{01 00 00 05 00} every{01 00 00 05 00} last\n{01 00 00 05 00}Bell{01 00 00 05 00} of it back!\nIf I deduct your wages so\nfar,{01 00 00 05 00} {ff 00 00 02}1,400 Bells{ff 00 00 00},{01 00 00 05 00}{07 14 00} you have\nonly{01 00 00 05 00} {ff 00 00 02}{04 11 00} Bells{ff 00 00 00} left!",
-   "et": ""
+   "et": "{07 0b 00}Ah? Mis see on?{01 00 00 0a 00} Sinu\nkodulaen?\n\n{07 00 00}Oh, noh, muidugi{01 00 00 05 00} pead sa\nikka maksma{01 00 00 05 00} iga{01 00 00 05 00} viimse\n{01 00 00 05 00}kella{01 00 00 05 00} tagasi!\nKui arvestan maha sinu\npalga,{01 00 00 05 00} {ff 00 00 02}1400 kella{ff 00 00 00},{01 00 00 05 00}{07 14 00} on sul\nalles{01 00 00 05 00} {ff 00 00 02}{04 11 00} kella{ff 00 00 00}!"
   },
   {
    "id": 53,
    "en": "{07 00 00}Since there's no more work\nfor you to do here,{01 00 00 05 00} you'll\nhave to find other methods.\nBut you can sell anything\nyou don't need{01 00 00 05 00} and save up\nmoney that way.\n{07 14 00}Of course, if you do want\nto{01 00 00 05 00} sell anything, just let\nme know. I pay top Bell!\n{07 00 00}You may also be able to\nmake a living{01 00 00 05 00} running\nerrands for the townsfolk.\nIf you help them without\nmuch grumbling,{01 00 00 05 00} they may\njust reward you.\n{07 04 00}Oh, yes!{01 00 00 0a 00} Make payments at\nthe {ff 00 00 08}town hall{ff 00 00 00}{07 00 00} by depositing\nthem into my account.\nOnce you've paid off your\nloan,{01 00 00 05 00} {07 14 00}we can talk about\nremodeling your house.\n{07 00 00}Your house is quite small\nnow.{01 00 00 05 00} I'm sure you'd like\nmore space to stretch out.\n{07 14 00}Anyway,{01 00 00 05 00} thanks for your\nhard work,{01 00 00 05 00} but your work is\ndone here!\n{07 19 00}But I do hope to see you in\nmy store again soon{01 00 00 05 00} to\nshop, of course!{01 00 00 05 00} Yes, yes!",
-   "et": ""
+   "et": "{07 00 00}Kuna sul pole siin enam\ntööd teha,{01 00 00 05 00} pead sa\nleidma teisi viise.\nAga sa võid müüa kõike,\nmida sa ei vaja,{01 00 00 05 00} ja\nnii raha koguda.\n{07 14 00}Muidugi, kui sa tahad\nmidagi{01 00 00 05 00} müüa, anna lihtsalt\nteada. Maksan hästi!\n{07 00 00}Sa võid ka elatist teenida,{01 00 00 05 00}\ntehes linlastele\nasjatoimetusi.\nKui sa aitad neid ilma\nnurisemata,{01 00 00 05 00} võivad\nnad sind tasustada.\n{07 04 00}Ah jaa!{01 00 00 0a 00} Tee makseid\n{ff 00 00 08}raekojas{ff 00 00 00}{07 00 00}, kandes need\nminu kontole.\nKui oled laenu ära\nmaksnud,{01 00 00 05 00} {07 14 00}võime rääkida\nsu maja ümberehitusest.\n{07 00 00}Su maja on praegu üsna\nväike.{01 00 00 05 00} Kindlasti tahaksid\nrohkem ruumi.\n{07 14 00}Igatahes,{01 00 00 05 00} aitäh su\nraske töö eest,{01 00 00 05 00} aga töö\non siin tehtud!\n{07 19 00}Aga loodan sind varsti oma\npoes jälle näha,{01 00 00 05 00}\nostlemas muidugi!{01 00 00 05 00} Jah, jah!"
   },
   {
    "id": 54,
    "en": "So, {04 00 00}{01 00 00 05 00} do you\nthink you know all you need\nto know about life in town\n{07 0b 00}{01 00 00 05 00}and about saving money? {01 01 00}{07 00 00}Oh!{01 00 00 0a 00}\n{01 00 00 05 00}No worries! I won't charge\nfor this little lesson.\nI'm not that cheap.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0f 00}\n{07 14 00}Don't think so little of me!{01 00 00 0a 00}\n\n{07 00 00}But{01 00 00 05 00} since I have no more\nwork for you,{01 00 00 05 00} you'll have to{01 00 00 0a 00}\nmake your way on your own.\nYou know,{01 00 00 05 00} by hawking\nthings you don't need to\nraise some cash.\n{07 14 00}If you do want to sell\nanything,{01 00 00 05 00} just say the word.\nI pay top Bell!\n{07 00 00}Of course,{01 00 00 05 00} if any of the\ntownsfolk ask you for a\nfavor,\nthey're likely to reward you{01 00 00 05 00}\nif you don't grumble much.\n\n{07 14 00}Sooo,{01 00 00 05 00} thank you for all\nyour hard work.\n\n{07 19 00}And remember,{01 00 00 05 00} {ff 00 00 06}Tom Nook{ff 00 00 00} is\nhere for all your shopping\nneeds!{01 00 00 05 00} Yes, yes!",
-   "et": ""
+   "et": "Nii, {04 00 00}{01 00 00 05 00} kas sa\narvad, et tead kõike, mida\nvaja linnaelu kohta\n{07 0b 00}{01 00 00 05 00}ja raha kogumise kohta? {01 01 00}{07 00 00}Oh!{01 00 00 0a 00}\n{01 00 00 05 00}Pole muret! Ma ei võta\nselle õppetunni eest tasu.\nMa pole nii ihne.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0f 00}\n{07 14 00}Ära mõtle minust halvasti!{01 00 00 0a 00}\n\n{07 00 00}Aga{01 00 00 05 00} kuna mul pole sulle\nenam tööd,{01 00 00 05 00} pead sa{01 00 00 0a 00}\nise hakkama saama.\nTead küll,{01 00 00 05 00} müües asju,\nmida sa ei vaja, et\nraha saada.\n{07 14 00}Kui sa tahad midagi\nmüüa,{01 00 00 05 00} ütle lihtsalt sõna.\nMaksan parimat hinda!\n{07 00 00}Muidugi,{01 00 00 05 00} kui mõni linlane\npalub sul teene teha,\n\nsiis nad ilmselt tasuvad,{01 00 00 05 00}\nkui sa liialt ei nurise.\n\n{07 14 00}Nii etttt,{01 00 00 05 00} aitäh kogu su\nraske töö eest.\n\n{07 19 00}Ja pea meeles,{01 00 00 05 00} {ff 00 00 06}Tom Nook{ff 00 00 00} on\nsiin kõigi su ostude\ntarvis!{01 00 00 05 00} Jah, jah!"
   }
  ]
 }

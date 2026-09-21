@@ -4,27 +4,27 @@
   {
    "id": 0,
    "en": "{07 1c 00}Let's see{01 00 00 0a 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00} What should I do\ntomorrow? {01 00 00 0a 00}{0b 03 00}{04 02 00}?",
-   "et": ""
+   "et": "{07 1c 00}Vaatame{01 00 00 0a 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00} Mida ma homme\nteen? {01 00 00 0a 00}{0b 03 00}{04 02 00}?"
   },
   {
    "id": 1,
    "en": "{07 0e 00}{01 00 00 14 00}.{01 00 00 14 00}.{01 00 00 14 00}.{01 00 00 14 00}{07 16 00}What{01 00 00 05 00} now?!{01 00 00 0f 00} I'm busy\nthinking right now, so {07 15 00}stay\nout of my way!",
-   "et": ""
+   "et": "{07 0e 00}{01 00 00 14 00}.{01 00 00 14 00}.{01 00 00 14 00}.{01 00 00 14 00}{07 16 00}Mis{01 00 00 05 00} nüüd?!{01 00 00 0f 00} Mul on\nmõtlemisega kiire, nii {07 15 00}püsi\nmu teelt eemal!"
   },
   {
    "id": 2,
    "en": "{07 0e 00}{01 00 00 0a 00}Ugh.{01 00 00 05 00} Maybe that's the hobby\nI should get into after\nall{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.",
-   "et": ""
+   "et": "{07 0e 00}{01 00 00 0a 00}Öök.{01 00 00 05 00} Ehk ongi see hobi,\nmillega ma peaksin\ntegelema{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}."
   },
   {
    "id": 3,
    "en": "{07 1b 00}I don't mean to brag, but{01 00 00 0a 00}\nI'm one of those girls who{01 00 00 0a 00}\nis good at everything.\n{07 19 00}Yup. I have to pick my{01 00 00 0a 00}\nhobbies carefully, so I don't{01 00 00 05 00}\nget bored! {0b 03 00}{04 02 00}!{07 00 00}",
-   "et": ""
+   "et": "{07 1b 00}Ma ei taha kiidelda, aga{01 00 00 0a 00}\nolen üks neist tüdrukutest,{01 00 00 0a 00}\nkes on kõiges hea.\n{07 19 00}Jah. Ma pean oma{01 00 00 0a 00}\nhobisid hoolikalt valima, et\nma{01 00 00 05 00} ei tüdineks! {0b 03 00}{04 02 00}!{07 00 00}"
   },
   {
    "id": 4,
    "en": "{07 1c 00}{01 00 00 0a 00}Hmm...{01 00 00 14 00} This might pose a\nproblem soon{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n\n{07 16 00}I wanna do so many things\nthat I don't know where to\nstart, {04 02 00}.",
-   "et": ""
+   "et": "{07 1c 00}{01 00 00 0a 00}Hmm...{01 00 00 14 00} See võib varsti\nprobleemiks saada{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n\n{07 16 00}Ma tahan nii palju asju\nteha, et ei tea, kust\nalustada, {04 02 00}."
   }
  ]
 }

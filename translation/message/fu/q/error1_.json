@@ -4,12 +4,12 @@
   {
    "id": 0,
    "en": "{07 06 00}Whoa there! Not so fast!\nI can't keep up with you,\n{01 00 00 05 00}{04 02 00}!\n{07 16 00}I just need a little more\ntime to get myself\norganized!",
-   "et": ""
+   "et": "{07 06 00}Oot-oot! Mitte nii ruttu!\nMa ei jõua sinuga sammu\npidada, {01 00 00 05 00}{04 02 00}!\n{07 16 00}Mul on vaja lihtsalt veidi\nrohkem aega, et end\nkokku võtta!"
   },
   {
    "id": 1,
    "en": "{07 04 00}Hey, hey, hey! Wait a\nsecond!{01 00 00 14 00} {07 16 00}Don't you think\nyou're moving too fast?\nI'm not really ready right\nnow. {01 00 00 0f 00}Give me a little more\ntime, will you?",
-   "et": ""
+   "et": "{07 04 00}Hei, hei, hei! Oota\nkorraks!{01 00 00 14 00} {07 16 00}Kas sa ei arva,\net sa liigud liiga kiiresti?\nMa pole praegu päris\nvalmis. {01 00 00 0f 00}Anna mulle veidi\nrohkem aega, eks?"
   }
  ]
 }

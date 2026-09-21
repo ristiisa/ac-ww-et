@@ -4,17 +4,17 @@
   {
    "id": 0,
    "en": "{07 00 00}Hello? {01 00 00 0f 00}Helloooooooo??{01 00 00 0f 00} Hey,\nit's me!{01 00 00 05 00} {0b 03 00}{04 01 00}!{01 00 00 05 00}\nI made it, {01 00 00 05 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 00 00}Halloo? {01 00 00 0f 00}Hallooooooo??{01 00 00 0f 00} Hei,\nsee olen mina!{01 00 00 05 00} {0b 03 00}{04 01 00}!{01 00 00 05 00}\nMa jõudsin kohale, {01 00 00 05 00}{04 02 00}!"
   },
   {
    "id": 1,
    "en": "{07 00 00}Hellooooo?{01 00 00 0f 00} It's {04 01 00}!{01 00 00 05 00}\nRemember me?{01 00 00 0f 00} I hope so,\nbecause I'm coming in!",
-   "et": ""
+   "et": "{07 00 00}Hallooooo?{01 00 00 0f 00} See on {04 01 00}!{01 00 00 05 00}\nMäletad mind?{01 00 00 0f 00} Loodan küll,\nsest ma tulen sisse!"
   },
   {
    "id": 2,
    "en": "{07 00 00}Anyone home?{01 00 00 0f 00} It's\n{04 01 00}!{01 00 00 05 00} {07 0e 00}{0b 03 00}{04 1f 00},\nare you here?",
-   "et": ""
+   "et": "{07 00 00}Kas keegi on kodus?{01 00 00 0f 00} See on\n{04 01 00}!{01 00 00 05 00} {07 0e 00}{0b 03 00}{04 1f 00},\nkas sa oled siin?"
   }
  ]
 }

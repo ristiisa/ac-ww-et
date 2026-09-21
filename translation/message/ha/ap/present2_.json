@@ -4,57 +4,57 @@
   {
    "id": 0,
    "en": "{07 14 00}{0b 03 00}{01 06 00}What's shakin', bacon{01 07 00}!{01 00 00 0a 00}\nGood seein' ya, {ff 00 00 05}{04 1f 00}{ff 00 00 00}!{01 01 00}\n{07 16 00}You look kinda blah, though.\n{07 14 00}I figured you'd need a\nlittle pick-me-up,{01 00 00 05 00} so I\nbrought you something nice!\n{06 01 00 03 03 04}",
-   "et": ""
+   "et": "{07 14 00}{0b 03 00}{01 06 00}Mis värk, semu{01 07 00}!{01 00 00 0a 00}\nTore näha, {ff 00 00 05}{04 1f 00}{ff 00 00 00}!{01 01 00}\n{07 16 00}Sa näed kuidagi tuim välja.\n{07 14 00}Ma arvasin, et sa vajad\nvirgutust,{01 00 00 05 00} nii et ma tõin\nsulle midagi kena!\n{06 01 00 03 03 04}"
   },
   {
    "id": 1,
    "en": "{07 14 00}{0b 03 00}{01 06 00}What is going DOWN?{01 07 00}!{01 00 00 0a 00}\nYou rockin', {04 1f 00}?\n\n{07 00 00}Listen, when you popped by\nmy place the other day...{01 00 00 05 00}\n{07 0b 00}did you forget something?{02 00 00 05 06}\nMaybe.\nDon't think so!",
-   "et": ""
+   "et": "{07 14 00}{0b 03 00}{01 06 00}Mis TOIMUB?{01 07 00}!{01 00 00 0a 00}\nKas rokid, {04 1f 00}?\n\n{07 00 00}Kuule, kui sa hiljuti\nmu juurest läbi astusid...{01 00 00 05 00}\n{07 0b 00}kas sa unustasid midagi?{02 00 00 05 06}\nEhk.\nVist mitte!"
   },
   {
    "id": 2,
    "en": "{07 14 00}Look at you, {ff 00 00 05}{04 1f 00}{ff 00 00 00}!{01 00 00 0a 00}\nHave you been working out,{01 00 00 05 00}\n{04 02 00}?!\n{07 00 00}If you have,{01 00 00 05 00} then I've got\nnothing to say to you,\n{01 00 00 05 00}{04 02 00}!\n{06 01 00 08 09 09}",
-   "et": ""
+   "et": "{07 14 00}Vaata sind, {ff 00 00 05}{04 1f 00}{ff 00 00 00}!{01 00 00 0a 00}\nKas sa oled trenni teinud,{01 00 00 05 00}\n{04 02 00}?!\n{07 00 00}Kui oled,{01 00 00 05 00} siis pole mul sulle\nmidagi öelda,\n{01 00 00 05 00}{04 02 00}!\n{06 01 00 08 09 09}"
   },
   {
    "id": 3,
    "en": "{07 14 00}Da-da-da-DAAAAAAAAAAAAA!{01 00 00 0a 00}\n{0b 03 00}{04 1b 00}!{01 00 00 05 00}\nJust for you, {04 02 00}!\n{07 0d 00}It may have a couple sweat\nstains from my workouts,{01 00 00 05 00}\nbut it's still good to go!",
-   "et": ""
+   "et": "{07 14 00}Ta-ta-ta-TAAAAAAAAAAAAA!{01 00 00 0a 00}\n{0b 03 00}{04 1b 00}!{01 00 00 05 00}\nAinult sulle, {04 02 00}!\n{07 0d 00}Sellel võib olla paar\nhigiplekki mu trennidest,{01 00 00 05 00}\naga see on ikka hea!"
   },
   {
    "id": 4,
    "en": "{07 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}Oh, man, I'm an idiot.{01 00 00 05 00}\n{07 16 00}I completely forgot it at\nhome! {01 00 00 05 00}Stupid! {01 00 00 05 00}Stupid!\n{07 15 00}Hey,{01 00 00 05 00} it happens to the best\nof us, {01 00 00 05 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}Oh mees, ma olen tobu.{01 00 00 05 00}\n{07 16 00}Ma unustasin selle täiesti\nkoju! {01 00 00 05 00}Loll! {01 00 00 05 00}Loll!\n{07 15 00}Hei,{01 00 00 05 00} juhtub parimatega,\n{01 00 00 05 00}{04 02 00}!"
   },
   {
    "id": 5,
    "en": "{07 14 00}Hey, yeah, I thought so!{01 00 00 14 00}\nHere ya go, {01 00 00 05 00}it's your\n{0b 02 00}{04 1b 00}!\nAnd listen,{01 00 00 05 00}{07 15 00} even if it's NOT\nyours,{01 00 00 05 00} I'd expect you to\ntake it, understand?",
-   "et": ""
+   "et": "{07 14 00}Hei, jah, ma nii arvasingi!{01 00 00 14 00}\nSiin, {01 00 00 05 00}see on sinu\n{0b 02 00}{04 1b 00}!\nJa kuule,{01 00 00 05 00}{07 15 00} isegi kui see POLE\nsinu oma,{01 00 00 05 00} ootan ma, et sa\nselle võtaksid, said aru?"
   },
   {
    "id": 6,
    "en": "{07 04 00}Man, color me impressed!{01 00 00 14 00}\n{07 08 00}You're so darned honest,\n{01 00 00 05 00}{04 02 00}! {01 00 00 05 00}Wow!\n{07 14 00}Integrity oughta be\nrewarded, so take my\n{0b 02 00}{04 1b 00}!",
-   "et": ""
+   "et": "{07 04 00}Mees, muljetavaldav!{01 00 00 14 00}\n{07 08 00}Sa oled nii pagana aus,\n{01 00 00 05 00}{04 02 00}! {01 00 00 05 00}Vau!\n{07 14 00}Ausust peab premeerima,\nnii et võta minu\n{0b 02 00}{04 1b 00}!"
   },
   {
    "id": 7,
    "en": "{07 16 00}To tell the truth, I just\ndon't want it anymore.{01 00 00 05 00} It\nmesses with my training!",
-   "et": ""
+   "et": "{07 16 00}Ausalt öeldes ei taha ma\nseda enam.{01 00 00 05 00} See segab\nmu treeningut!"
   },
   {
    "id": 8,
    "en": "{07 00 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{07 16 00}Look, I told you I might\nhave nothing to say to you,\nand I meant it!\n{07 06 00}What do you expect,{01 00 00 14 00}\n{ff 00 00 05}{04 1f 00}{ff 00 00 00}?!",
-   "et": ""
+   "et": "{07 00 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{07 16 00}Kuule, ma ütlesin, et mul\nei pruugi olla sulle midagi\nöelda, ja ma mõtlesin seda!\n{07 06 00}Mida sa ootad,{01 00 00 14 00}\n{ff 00 00 05}{04 1f 00}{ff 00 00 00}?!"
   },
   {
    "id": 9,
    "en": "{07 14 00}Well, OK then, I'll give you \nthis, {01 00 00 05 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 14 00}Noh, olgu siis, ma annan \nsulle selle, {01 00 00 05 00}{04 02 00}!"
   },
   {
    "id": 10,
    "en": "{07 00 00}Do push-ups with my\n{0b 02 00}{04 1b 00}\non your back and{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.\n{07 04 00}Oh, shoot!{01 00 00 14 00} {07 06 00}I can't tell you \nany more, {01 00 00 05 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 00 00}Tee kätekõverdusi minu\n{0b 02 00}{04 1b 00}\nseljal ja{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.\n{07 04 00}Oh, pagan!{01 00 00 14 00} {07 06 00}Ma ei saa sulle \nrohkem öelda, {01 00 00 05 00}{04 02 00}!"
   }
  ]
 }

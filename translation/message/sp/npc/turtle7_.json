@@ -4,57 +4,57 @@
   {
    "id": 0,
    "en": "{07 14 00}{01 00 00 0a 00}I've been waiting,\n{04 00 00}.{01 00 00 0f 00} I have\nsomething for you.\nYou've probably guessed\nwhat it is... {07 13 00}{01 00 00 0a 00}It's an\n{ff 00 00 02}engagement ring{ff 00 00 00}!\n{07 03 00}{01 00 00 0a 00}Just kidding, little\nfirecracker!{01 00 00 14 00} Heh heh heh!\nIt's a {ff 00 00 07}golden fishing rod!",
-   "et": ""
+   "et": "{07 14 00}{01 00 00 0a 00}Ma olen oodanud,\n{04 00 00}.{01 00 00 0f 00} Mul on\nsulle midagi.\nSa oled ilmselt aimanud,\nmis see on... {07 13 00}{01 00 00 0a 00}See on\n{ff 00 00 02}kihlasõrmus{ff 00 00 00}!\n{07 03 00}{01 00 00 0a 00}Teen nalja, väike\npaukpadrun!{01 00 00 14 00} Hehehee!\nSee on {ff 00 00 07}kuldne õng!"
   },
   {
    "id": 1,
    "en": "{07 00 00}So,{01 00 00 05 00} you've really caught{01 00 00 05 00}\nall the fish?{07 14 00}{01 00 00 0f 00} Well then!\nThis rod is your prize!\nYou may not need it, but\nwho doesn't want a rod made\nof gold?\n{07 00 00}Now, don't get all\ncomplacent{01 00 00 05 00} just because \nyou've caught many fish!\nDo you understand me,\n{01 00 00 05 00}{04 00 00}?{01 01 00} You're still\na wee young'un!\nThere's plenty more ahead\nof you in life!{01 00 00 14 00} {07 03 00}{01 00 00 0f 00}A heh heh\nheh! {01 00 00 05 00}A hee hee HORF! {01 00 00 05 00}HOOO!",
-   "et": ""
+   "et": "{07 00 00}Nii,{01 00 00 05 00} sa oled tõesti püüdnud{01 00 00 05 00}\nkõik kalad?{07 14 00}{01 00 00 0f 00} Noh siis!\nSee õng on sinu auhind!\nSa ei pruugi seda vajada,\naga kes ei tahaks kullast\nõnge?\n{07 00 00}Nüüd ära muutu enese-\nrahulolevaks{01 00 00 05 00} sellepärast, \net oled palju kalu püüdnud!\nKas sa mõistad mind,\n{01 00 00 05 00}{04 00 00}?{01 01 00} Sa oled veel\nväike põnn!\nSul on elus veel\npalju ees!{01 00 00 14 00} {07 03 00}{01 00 00 0f 00}A hehe\nhee! {01 00 00 05 00}A hii hii HORF! {01 00 00 05 00}HOOO!"
   },
   {
    "id": 2,
    "en": "{07 14 00}{01 00 00 0a 00}I've been waiting for you,\n{04 00 00}.{01 00 00 0f 00} I have\nsomething special for you.\nYes, brace yourself, for it\nis.{01 00 00 05 00}.{01 00 00 05 00}.{07 13 00}{01 00 00 0a 00}a{ff 00 00 02} love letter{ff 00 00 00}!{01 01 00} {07 03 00}{01 00 00 0f 00}A heh heh\nheh! Got you there!\n{07 00 00}You're not the first to\nget one,{01 00 00 0a 00} but please take\nthis {ff 00 00 07}golden fishing rod{ff 00 00 00}.",
-   "et": ""
+   "et": "{07 14 00}{01 00 00 0a 00}Ma olen sind oodanud,\n{04 00 00}.{01 00 00 0f 00} Mul on sulle\nmidagi erilist.\nJah, valmistu, sest see\non.{01 00 00 05 00}.{01 00 00 05 00}.{07 13 00}{01 00 00 0a 00}{ff 00 00 02}armastuskiri{ff 00 00 00}!{01 01 00} {07 03 00}{01 00 00 0f 00}A hehe\nhee! Sain su kätte!\n{07 00 00}Sa pole esimene, kes\nselle saab,{01 00 00 0a 00} aga võta palun\nsee {ff 00 00 07}kuldne õng{ff 00 00 00}."
   },
   {
    "id": 3,
    "en": "{07 14 00}{01 00 00 0a 00}I've been waiting for you,\n{04 00 00}.{01 00 00 0f 00} Why?\n\nBecause you've caught every\ntype of bug!{01 00 00 05 00} {07 19 00}{01 00 00 0a 00}What a brave\nwarrior you are.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 1a 00}{01 00 00 0f 00}Your bravery\nis the net that's captured\nour hearts!\nWe honor you today,{07 00 00} master\nbug catcher, with\nthis {ff 00 00 07}golden net{ff 00 00 00}.",
-   "et": ""
+   "et": "{07 14 00}{01 00 00 0a 00}Ma olen sind oodanud,\n{04 00 00}.{01 00 00 0f 00} Miks?\n\nSest sa oled püüdnud iga\nputukaliigi!{01 00 00 05 00} {07 19 00}{01 00 00 0a 00}Milline vapper\nsõdalane sa oled.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 1a 00}{01 00 00 0f 00}Sinu vaprus\non võrk, mis on püüdnud\nmeie südamed!\nTäna austame sind,{07 00 00}\nmeister- putukapüüdja,\nselle {ff 00 00 07}kuldse võrguga{ff 00 00 00}."
   },
   {
    "id": 4,
    "en": "{07 00 00}You may not need it,{01 00 00 05 00} but\nthis net is fit to catch\nthe finest of butterflies!\n.{01 00 00 05 00}.{01 00 00 05 00}.{07 14 00}{01 00 00 0a 00}So show some respect!{01 01 00}\n{07 00 00}Still{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0f 00}a net is a fine\nthing,\n{07 13 00}{01 00 00 0f 00}but it is the net of love\nthat catches our hearts!{01 00 00 0a 00}\n{07 00 00}{01 00 00 0a 00}Contemplate that, sprout{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00}\nMy hip sure is {01 00 00 05 00}{07 09 00}acting up\ntoday{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.",
-   "et": ""
+   "et": "{07 00 00}Sa ei pruugi seda vajada,{01 00 00 05 00}\naga see võrk sobib püüdma\nkõige peenemaid liblikaid!\n.{01 00 00 05 00}.{01 00 00 05 00}.{07 14 00}{01 00 00 0a 00}Nii et näita austust!{01 01 00}\n{07 00 00}Siiski{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0f 00}võrk on kena\nasi,\n{07 13 00}{01 00 00 0f 00}aga just armastuse võrk\npüüab meie südamed!{01 00 00 0a 00}\n{07 00 00}{01 00 00 0a 00}Mõtiskle selle üle, võsuke{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00}\nMu puus annab täna {01 00 00 05 00}{07 09 00}kõvasti\ntunda{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}."
   },
   {
    "id": 5,
    "en": "{07 14 00}{01 00 00 0a 00}I've been waiting for you,\n{04 00 00}!{01 00 00 0f 00} It seems you\n{01 00 00 05 00}caught every type of bug!\nAnd, in doing so, you have\ncaptured our hearts as\nwell!{01 00 00 05 00}\n{07 00 00}Come and claim your prize,{01 00 00 05 00}\nthe {ff 00 00 07}golden net{ff 00 00 00}, available\nnowhere else!\nWell, to be honest, someone\nelse in {04 03 00} already\nhas one, but hey{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\nYou'll take it, won't you,\nsprout? {01 00 00 05 00}{07 03 00}Oh, what a happy\nday! Heh heh heh!",
-   "et": ""
+   "et": "{07 14 00}{01 00 00 0a 00}Ma olen sind oodanud,\n{04 00 00}!{01 00 00 0f 00} Näib, et sa\n{01 00 00 05 00}püüdsid iga putukaliigi!\nJa seda tehes oled sa\npüüdnud ka meie\nsüdamed!{01 00 00 05 00}\n{07 00 00}Tule ja võta oma auhind,{01 00 00 05 00}\n{ff 00 00 07}kuldne võrk{ff 00 00 00}, mida mujalt\nei saa!\nNoh, ausalt öeldes on\nlinnas {04 03 00} kellelgi\njuba üks, aga noh{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\nSa ju võtad selle,\nvõsuke? {01 00 00 05 00}{07 03 00}Oh, milline õnnelik\npäev! Hehehee!"
   },
   {
    "id": 6,
    "en": "{07 14 00}Treat it as well as you\nwould treat me.",
-   "et": ""
+   "et": "{07 14 00}Kohtle seda sama hästi\nnagu mind."
   },
   {
    "id": 7,
    "en": "Now, when people see you\nwith that thing, they'll be\nso awestruck, they'll just{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\nEr, {01 00 00 05 00}{07 11 00}never mind.",
-   "et": ""
+   "et": "Kui inimesed näevad sind\nselle asjaga, on nad nii\nhämmastuses, et nad\nlihtsalt{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}. Ee, {01 00 00 05 00}{07 11 00}pole midagi."
   },
   {
    "id": 8,
    "en": "Now, when people see you\nwith that thing, they'll be\nso awestruck, they'll just{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n\nErr, {01 00 00 05 00}{07 11 00}never mind.",
-   "et": ""
+   "et": "Kui inimesed näevad sind\nselle asjaga, on nad nii\nhämmastuses, et nad\nlihtsalt{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\nEee, {01 00 00 05 00}{07 11 00}pole midagi."
   },
   {
    "id": 9,
    "en": "{07 14 00}{01 00 00 0a 00}I've been waiting for you,\n{04 00 00}.{01 00 00 0f 00} I have\nsomething for you.\n{07 15 00}{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}But, {01 00 00 03 00}you already have too\nmany things!\n\nBah!{01 00 00 05 00} Now I can't give you\nthis {07 09 00}{01 00 00 05 00}{ff 00 00 02}engagement ring{ff 00 00 00}{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.",
-   "et": ""
+   "et": "{07 14 00}{01 00 00 0a 00}Ma olen sind oodanud,\n{04 00 00}.{01 00 00 0f 00} Mul on\nsulle midagi.\n{07 15 00}{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}Aga {01 00 00 03 00}sul on juba liiga\npalju asju!\n\nPah!{01 00 00 05 00} Nüüd ei saa ma sulle\nseda {07 09 00}{01 00 00 05 00}{ff 00 00 02}kihlasõrmust{ff 00 00 00}{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00} anda."
   },
   {
    "id": 10,
    "en": "{07 14 00}{01 00 00 0a 00}I've been waiting for you,\n{04 00 00}.{01 00 00 0f 00} I have\nsomething special for you.\n{07 15 00}{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}But {01 00 00 03 00}you have too much\nstuff already!\n\nNow you'll never get a\nchance to read my{01 00 00 0a 00}\n{07 09 00}{ff 00 00 02}love letter{ff 00 00 00}{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.",
-   "et": ""
+   "et": "{07 14 00}{01 00 00 0a 00}Ma olen sind oodanud,\n{04 00 00}.{01 00 00 0f 00} Mul on sulle\nmidagi erilist.\n{07 15 00}{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}Aga {01 00 00 03 00}sul on juba liiga\npalju kraami!\n\nNüüd ei saa sa kunagi\nlugeda minu{01 00 00 0a 00}\n{07 09 00}{ff 00 00 02}armastuskirja{ff 00 00 00}{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}."
   }
  ]
 }

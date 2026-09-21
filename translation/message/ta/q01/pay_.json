@@ -4,17 +4,17 @@
   {
    "id": 0,
    "en": "{07 1c 00}{01 00 00 05 00}Well,{01 00 00 03 00} if you insist, I'll take\nyour bug as a keepsake.\n\nBut please take my\n{0b 02 00}{04 1b 00}\nin exchange.",
-   "et": ""
+   "et": "{07 1c 00}{01 00 00 05 00}Noh,{01 00 00 03 00} kui sa nõuad, võtan ma\nsinu putuka mälestuseks.\n\nAga palun võta vastutasuks\nminu {0b 02 00}{04 1b 00}\n."
   },
   {
    "id": 1,
    "en": "{07 14 00}Well...OK.{01 00 00 0a 00} I'll keep this bug,\nthen. {07 00 00}In return,{01 00 00 0a 00} take my\n{0b 02 00}{04 1b 00}.",
-   "et": ""
+   "et": "{07 14 00}Noh...olgu.{01 00 00 0a 00} Ma hoian selle\nputuka siis. {07 00 00}Vastutasuks{01 00 00 0a 00}\nvõta mu {0b 02 00}{04 1b 00}."
   },
   {
    "id": 2,
    "en": "{07 00 00}OK. {01 00 00 05 00}In exchange for your\n{0b 02 00}{04 1a 00},\n\n{07 14 00}I'll give you\n{04 1b 00},\n{01 00 00 05 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 00 00}Olgu. {01 00 00 05 00}Sinu\n{0b 02 00}{04 1a 00} eest\n\n{07 14 00}annan ma sulle\n{04 1b 00},\n{01 00 00 05 00}{04 02 00}!"
   }
  ]
 }

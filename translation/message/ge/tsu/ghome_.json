@@ -4,47 +4,47 @@
   {
    "id": 0,
    "en": "{07 00 00}Oh, hi, {04 1f 00}!{01 00 00 0a 00} Hey,\nabout your hometown{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n{07 0b 00}Honestly, {01 00 00 05 00}how is it?{02 01 00 03 04 05}\nSo cool!\nVery cute!\nSo lame...",
-   "et": ""
+   "et": "{07 00 00}Oi, tere, {04 1f 00}!{01 00 00 0a 00} Kuule,\nsinu kodulinna kohta{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n{07 0b 00}Ausalt, {01 00 00 05 00}kuidas seal on?{02 01 00 03 04 05}\nNii lahe!\nVäga nunnu!\nNii lääge..."
   },
   {
    "id": 1,
    "en": "{07 02 00}Whaaaaat?!{01 00 00 0a 00} People in your\ntown only {07 0b 00}work one day a\nweek?! {01 00 00 05 00}Are you SERIOUS?!\n{07 14 00}Well, whatever. {01 00 00 05 00}I'm around\nseven days a week, so you\ncan come visit me any day!",
-   "et": ""
+   "et": "{07 02 00}Miiiiis?!{01 00 00 0a 00} Sinu linna\ninimesed {07 0b 00}töötavad ainult\nühe päeva nädalas?! {01 00 00 05 00}TÕESTI?!\n{07 14 00}No ükskõik. {01 00 00 05 00}Mina olen kohal\nseitse päeva nädalas, nii et\nvõid iga päev külla tulla!"
   },
   {
    "id": 2,
    "en": "{07 00 00}{0b 03 00}{04 1f 00}, your town...{01 00 00 05 00}\n{07 0b 00}How many people live there?{05 05 00 05 06 03 07 03 07 05 08}\nA lot!\nNot many...",
-   "et": ""
+   "et": "{07 00 00}{0b 03 00}{04 1f 00}, sinu linn...{01 00 00 05 00}\n{07 0b 00}Mitu inimest seal elab?{05 05 00 05 06 03 07 03 07 05 08}\nPalju!\nMitte palju..."
   },
   {
    "id": 3,
    "en": "{07 14 00}Huh!{01 00 00 0a 00} OK, cool, I gotcha!{01 00 00 05 00}\nNeat-o, {01 00 00 05 00}{04 02 00}!\n\n{07 00 00}I bet {01 00 00 05 00}it's all futuristic\n{07 0b 00}with streamlined buildings\nand stuff, right?\n{07 16 00}Oh, but...{01 00 00 05 00}that'd be more like\na city than a town{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} {07 14 00}Oh,{01 00 00 05 00}\nwho cares, {01 00 00 05 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 14 00}Ahaa!{01 00 00 0a 00} Olgu, lahe, sain aru!{01 00 00 05 00}\nVahva, {01 00 00 05 00}{04 02 00}!\n\n{07 00 00}Kindlasti {01 00 00 05 00}on seal kõik\nfuturistlik {07 0b 00}voolujooneliste\nhoonete ja nii, eks?\n{07 16 00}Oi, aga...{01 00 00 05 00}see oleks pigem\nlinnak kui linn{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} {07 14 00}Ah,{01 00 00 05 00}\nmis vahet, {01 00 00 05 00}{04 02 00}!"
   },
   {
    "id": 4,
    "en": "{07 06 00}Wowzer!{01 00 00 05 00} That sounds totally\nawesome!\n\n{07 0b 00}Hey, so is{01 00 00 05 00} the town all\nfilled with flowers, then?!\n\n{07 00 00}I gotta say, if I was\n{04 03 00}'s mayor...\n\n{07 0a 00}I'd TOTALLY fill all the\nempty spaces with flowers,\n{01 00 00 05 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 06 00}Ohoo!{01 00 00 05 00} See kõlab täiesti\nvägevalt!\n\n{07 0b 00}Kuule, kas{01 00 00 05 00} linn on siis\nüleni lilli täis?!\n\n{07 00 00}Pean ütlema, et kui mina\noleksin {04 03 00} linnapea...\n\n{07 0a 00}Ma täidaksin TÄIESTI kõik\ntühjad kohad lilledega,\n{01 00 00 05 00}{04 02 00}!"
   },
   {
    "id": 5,
    "en": "{07 16 00}Aw, how can you SAY that?!{01 00 00 0a 00}\nYou wanna make all your\ntownspeople cry?!\n{07 15 00}You be nice! {01 00 00 05 00}You should\npick up trash or pick weeds\nfor them, OK?",
-   "et": ""
+   "et": "{07 16 00}Ohh, kuidas sa nii ÜTLED?!{01 00 00 0a 00}\nKas tahad panna kõik oma\nlinnaelanikud nutma?!\n{07 15 00}Ole kena! {01 00 00 05 00}Sa peaksid nende\neest prügi koristama või\numbrohtu kitkuma, eks?"
   },
   {
    "id": 6,
    "en": "{07 16 00}Oh, whoops, that's too bad!{01 00 00 0a 00}\nAlthough, {01 00 00 05 00}I guess that \nmeans it's nice and quiet{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 14 00}I bet you always wake up\nfeeling like a million\nBells, {01 00 00 05 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 16 00}Oi, no kurat, see on kahju!{01 00 00 0a 00}\nKuigi, {01 00 00 05 00}see vist tähendab,\net seal on kena ja vaikne{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 14 00}Kindlasti ärkad sa alati\nmiljoni kella tundega,\n{01 00 00 05 00}{04 02 00}!"
   },
   {
    "id": 7,
    "en": "{07 14 00}Huh, I gotcha. {01 00 00 05 00}I guess it's \nabout the same size as\nmine, {01 00 00 05 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 14 00}Ahaa, sain aru. {01 00 00 05 00}See on vist\numbes sama suur kui\nminu oma, {01 00 00 05 00}{04 02 00}!"
   },
   {
    "id": 8,
    "en": "{07 04 00}Wow, {01 00 00 05 00}that's a big town!{01 00 00 05 00}\nJeepers, {01 00 00 05 00}{04 02 00}!\n\n{07 00 00}Is there a lot more stuff\n{07 0b 00}at the store or what?{01 01 00}\n{07 06 00}I'm totally jealous!",
-   "et": ""
+   "et": "{07 04 00}Vau, {01 00 00 05 00}see on suur linn!{01 00 00 05 00}\nIssake, {01 00 00 05 00}{04 02 00}!\n\n{07 00 00}Kas poes on palju rohkem\n{07 0b 00}kraami või?{01 01 00}\n{07 06 00}Ma olen täiesti kade!"
   }
  ]
 }

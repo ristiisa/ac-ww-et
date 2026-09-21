@@ -4,17 +4,17 @@
   {
    "id": 0,
    "en": "{07 00 00}Hey, {01 00 00 05 00}{04 1f 00}.{01 00 00 0a 00} {07 0b 00}Do you\nwant to play a quick game\nof hide-and-seek?\n{07 00 00}{07 16 00}Folks find me quickly{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\nso I really need to practice\nmy hiding skills!",
-   "et": ""
+   "et": "{07 00 00}Hei, {01 00 00 05 00}{04 1f 00}.{01 00 00 0a 00} {07 0b 00}Kas sa\ntahad mängida kiiret\npeitusemängu?\n{07 00 00}{07 16 00}Mind leitakse kiiresti{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\nnii et ma pean tõesti\npeitumist harjutama!"
   },
   {
    "id": 1,
    "en": "{07 00 00}{01 00 00 05 00}{0b 03 00}{04 1f 00}!{01 00 00 0a 00} Listen,{01 00 00 05 00} {07 0b 00}do you\nwant to play a little\nhide-and-seek?\n{07 14 00}If you do a good job,{01 00 00 05 00} I'll\ngive you something really\ncool!{01 00 00 05 00} What do you say?",
-   "et": ""
+   "et": "{07 00 00}{01 00 00 05 00}{0b 03 00}{04 1f 00}!{01 00 00 0a 00} Kuule,{01 00 00 05 00} {07 0b 00}kas sa\ntahad natuke peitust\nmängida?\n{07 14 00}Kui sa hästi hakkama saad,{01 00 00 05 00}\nannan ma sulle midagi\ntõesti lahedat!{01 00 00 05 00} Mis ütled?"
   },
   {
    "id": 2,
    "en": "{07 00 00}Say, {04 1f 00},{01 00 00 05 00} {07 0b 00}are you\nany good at hide-and-seek,\n{01 00 00 05 00}{04 02 00}?\n{07 0f 00}I'm lousy!{01 00 00 0a 00} Folks always find\nme about a minute after I\nhide someplace...\n{07 00 00}But I want to get better,\nand I need to practice. {07 0b 00}Are\nyou up for it, {01 00 00 05 00}{04 02 00}?",
-   "et": ""
+   "et": "{07 00 00}Kuule, {04 1f 00},{01 00 00 05 00} {07 0b 00}kas sa\noled peituses hea,\n{01 00 00 05 00}{04 02 00}?\n{07 0f 00}Mina olen kehv!{01 00 00 0a 00} Inimesed\nleiavad mu umbes minut\npärast peitmist...\n{07 00 00}Aga tahan paremaks saada\nja pean harjutama. {07 0b 00}Kas sa\noled nõus, {01 00 00 05 00}{04 02 00}?"
   }
  ]
 }

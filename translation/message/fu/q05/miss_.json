@@ -4,32 +4,32 @@
   {
    "id": 0,
    "en": "{07 18 00}Wha--?!{01 00 00 0a 00} Um{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}yeah, sorry,\n{01 00 00 05 00}{04 02 00}, but I need\n{ff 00 00 07}{04 0f 00}{ff 00 00 00}.\n{07 00 00}Thanks for the...interesting\n{0b 02 00}{04 1a 00}{07 1a 00},{01 00 00 05 00}\nbut it's not what I need.",
-   "et": ""
+   "et": "{07 18 00}Mis--?!{01 00 00 0a 00} Ee{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}jah, vabandust,\n{01 00 00 05 00}{04 02 00}, aga ma vajan\n{ff 00 00 07}{04 0f 00}{ff 00 00 00}.\n{07 00 00}Aitäh selle...huvitava\n{0b 02 00}{04 1a 00}{07 1a 00} eest,{01 00 00 05 00}\naga ma ei vaja seda."
   },
   {
    "id": 1,
    "en": "{07 00 00}.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}Look, it was really nice\nof you to bring me\n{04 1a 00}...\nBut I'm trying to collect\n{ff 00 00 07}{04 0f 00}{ff 00 00 00}.\nSo, um... I can't accept it.{01 00 00 05 00}\nSorry, {01 00 00 05 00}{04 02 00}!{01 00 00 0a 00} {07 06 00}Please\ndon't be mad at me!",
-   "et": ""
+   "et": "{07 00 00}.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}Kuule, sinust oli väga\nkena mulle tuua\n{04 1a 00}...\nAga ma üritan koguda\n{ff 00 00 07}{04 0f 00}{ff 00 00 00}.\nNii et, ee... ei saa võtta.{01 00 00 05 00}\nVabandust, {01 00 00 05 00}{04 02 00}!{01 00 00 0a 00} {07 06 00}Palun\nära ole minu peale vihane!"
   },
   {
    "id": 2,
    "en": "{07 02 00}YAAAAAAA!! {01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00}{07 00 00}{07 16 00}Um, sorry,\n{04 1f 00},{01 00 00 0f 00} but I don't\nwant this in my house.\n{07 00 00}{07 07 00}Yeah, I had a really bad\nexperience once with\n{04 1a 00}{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.",
-   "et": ""
+   "et": "{07 02 00}JAAAAAA!! {01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00}{07 00 00}{07 16 00}Ee, vabandust,\n{04 1f 00},{01 00 00 0f 00} aga ma ei taha\nseda oma majja.\n{07 00 00}{07 07 00}Jah, mul oli kord väga halb\nkogemus asjaga\n{04 1a 00}{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}."
   },
   {
    "id": 3,
    "en": "{07 00 00}I know you got this just\nfor me, but I can't fit\nanything else in my place!\nNope, not even\n{04 1a 00}!{01 00 00 05 00}\nThanks, {01 00 00 05 00}{04 02 00}.",
-   "et": ""
+   "et": "{07 00 00}Ma tean, et sa said selle\nainult mulle, aga mul ei\nmahu majja enam midagi!\nEi, isegi mitte\n{04 1a 00}!{01 00 00 05 00}\nAitäh, {01 00 00 05 00}{04 02 00}."
   },
   {
    "id": 4,
    "en": "{07 00 00}.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}I know you brought me\n{04 1a 00},\nbut I have enough for now.\nSo{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}. Would you mind taking\nthis back, {01 00 00 05 00}{04 02 00}?",
-   "et": ""
+   "et": "{07 00 00}.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}Ma tean, et sa tõid mulle\n{04 1a 00},\naga mul on praegu küllalt.\nNii et{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}. Kas võtaksid selle\ntagasi, {01 00 00 05 00}{04 02 00}?"
   },
   {
    "id": 5,
    "en": "{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}{0b 03 00}{04 1f 00},{01 00 00 0f 00} I'm sorry\nto say it,{01 00 00 05 00} but I can't\naccept this.\nI just don't need\n{04 1a 00},\n{01 00 00 05 00}{04 02 00}.",
-   "et": ""
+   "et": "{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}{0b 03 00}{04 1f 00},{01 00 00 0f 00} mul on kahju\nseda öelda,{01 00 00 05 00} aga ma ei saa\nseda vastu võtta.\nMa lihtsalt ei vaja\n{04 1a 00},\n{01 00 00 05 00}{04 02 00}."
   }
  ]
 }

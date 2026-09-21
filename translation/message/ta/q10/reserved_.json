@@ -4,17 +4,17 @@
   {
    "id": 0,
    "en": "{07 14 00}All right, so that's {04 10 00}:{04 11 00}\non the {04 0f 00}, right? {01 01 00}I'll\nnote it in my date book!",
-   "et": ""
+   "et": "{07 14 00}Hästi, nii {04 10 00}:{04 11 00}\n{04 0f 00}, eks? {01 01 00}Ma panen\nselle märkmikku kirja!"
   },
   {
    "id": 1,
    "en": "{07 14 00}Let me just confirm. That's\n{04 10 00}:{04 11 00} on the {04 0f 00}, right?\n\n{07 1b 00}Do me a favor.{01 00 00 05 00} Try to\nstraighten up before I\nget there, {01 00 00 05 00}{04 02 00}.",
-   "et": ""
+   "et": "{07 14 00}Las ma kinnitan. See on\n{04 10 00}:{04 11 00} {04 0f 00},\neks? \n{07 1b 00}Tee mulle teene.{01 00 00 05 00} Ürita\nenne mu tulekut asjad\nkorda seada, {01 00 00 05 00}{04 02 00}."
   },
   {
    "id": 2,
    "en": "{07 15 00}{04 10 00}:{04 11 00} on the {04 0f 00}{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.\n{07 14 00}I've penciled you in!{01 00 00 0a 00} I'll be\ncounting the minutes!",
-   "et": ""
+   "et": "{07 15 00}{04 10 00}:{04 11 00} {04 0f 00}{01 00 00 03 00}.{01 00 00 03 00}\n.{01 00 00 03 00} . {07 14 00}Ma panin su kirja!{01 00 00 0a 00} Ma\nloen minuteid!"
   }
  ]
 }

@@ -4,132 +4,132 @@
   {
    "id": 0,
    "en": "{07 00 00}{0b 03 00}{04 1f 00}, this is a\npretty nice {ff 00 00 07}coffee maker{ff 00 00 00}.\n{07 0b 00}Do you take sugar in it?{02 02 00 14 15 16 17}\nThree lumps!!\nTwo lumps!\nOne lump.\nI take it black.",
-   "et": ""
+   "et": "{07 00 00}{0b 03 00}{04 1f 00}, see on päris\nkena {ff 00 00 07}kohvimasin{ff 00 00 00}.\n{07 0b 00}Kas sa paned sinna suhkrut?{02 02 00 14 15 16 17}\nKolm tükki!!\nKaks tükki!\nÜks tükk.\nJoon musta."
   },
   {
    "id": 1,
    "en": "{07 00 00}{0b 03 00}{04 1f 00}! Now that is a\nfine {ff 00 00 07}kitchen sink{ff 00 00 00}!\n\n{07 14 00}Just looking at it makes me\nfeel all warm and fuzzy!{01 01 00}\nUm{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 16 00}is that weird?",
-   "et": ""
+   "et": "{07 00 00}{0b 03 00}{04 1f 00}! See on küll\nkena {ff 00 00 07}köögivalamu{ff 00 00 00}!\n\n{07 14 00}Juba selle vaatamine teeb\nmind soojaks ja kohevaks!{01 01 00}\nEe{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 16 00}kas see on veider?"
   },
   {
    "id": 2,
    "en": "{07 00 00}I see you have quite an eye\nfor paintings, {04 02 00}!{01 00 00 05 00}\nLike that one over there...\n{07 19 00}That's a {ff 00 00 07}solemn painting{ff 00 00 00},{01 00 00 05 00}\nisn't it?{01 00 00 0f 00} {07 14 00}Yep! Even I know\nthat much!",
-   "et": ""
+   "et": "{07 00 00}Ma näen, et sul on hea silm\nmaalide jaoks, {04 02 00}!{01 00 00 05 00}\nNäiteks see seal...\n{07 19 00}See on {ff 00 00 07}tõsine maal{ff 00 00 00},{01 00 00 05 00}\nkas pole?{01 00 00 0f 00} {07 14 00}Jah! Isegi mina\ntean niipalju!"
   },
   {
    "id": 3,
    "en": "{07 00 00}{07 04 00}Oh, hey, {04 1f 00}!{01 00 00 05 00} You\nhave a {ff 00 00 07}quaint painting {ff 00 00 00}in\nyour room!{01 00 00 0f 00} Nice choice!\n{07 14 00}You must have a very\ndiscerning eye for art,\n{01 00 00 05 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 00 00}{07 04 00}Oh, hei, {04 1f 00}!{01 00 00 05 00} Sul\non toas {ff 00 00 07}veider maal {ff 00 00 00}!{01 00 00 0f 00}\nKena valik!\n{07 14 00}Sul peab olema väga\nterav silm kunsti jaoks,\n{01 00 00 05 00}{04 02 00}!"
   },
   {
    "id": 4,
    "en": "{07 00 00}Oh, look, {04 1f 00}!{01 00 00 0a 00} You\nhave a {ff 00 00 07}warm painting {ff 00 00 00}right\nin the middle of your room!\n{07 0a 00}It's obvious that the artist\nintended to{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}{07 0e 00}um{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}paint\nsomething{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}warm{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}\n{07 00 00}Aw, nuts! I don't know\nanything about art!{01 00 00 0a 00} {07 0f 00}Sorry,\n{01 00 00 05 00}{04 02 00}.",
-   "et": ""
+   "et": "{07 00 00}Oh, vaata, {04 1f 00}!{01 00 00 0a 00} Sul\non {ff 00 00 07}soe maal {ff 00 00 00}otse\noma toa keskel!\n{07 0a 00}On ilmne, et kunstnik\ntahtis{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}{07 0e 00}ee{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}maalida\nmidagi{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}sooja{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}\n{07 00 00}Oh, pagan! Ma ei tea\nkunstist midagi!{01 00 00 0a 00} {07 0f 00}Vabandust,\n{01 00 00 05 00}{04 02 00}."
   },
   {
    "id": 5,
    "en": "{07 00 00}Oh, whoa!{01 00 00 05 00} {07 14 00}I didn't think I'd\never see an actual {ff 00 00 07}rare\npainting{ff 00 00 00}!{01 00 00 0a 00} That's impressive!\n{07 0d 00}It seems like the longer I\nlive, the more rare stuff I\nsee, {01 00 00 05 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 00 00}Oh, ohoo!{01 00 00 05 00} {07 14 00}Ma ei arvanud, et\nnäen kunagi päris {ff 00 00 07}haruldast\nmaali{ff 00 00 00}!{01 00 00 0a 00} See on muljetavaldav!\n{07 0d 00}Tundub, et mida kauem ma\nelan, seda rohkem haruldasi\nasju näen, {01 00 00 05 00}{04 02 00}!"
   },
   {
    "id": 6,
    "en": "{07 00 00}{07 14 00}Hey, I don't know much\nabout art, but I do know\nthat's a {ff 00 00 07}fine painting{ff 00 00 00}!\n{0b 03 00}{04 1f 00}{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00} You're an art\nsnob!{01 00 00 0f 00} {07 0a 00}No, I'm kidding! It's\nreally cool, {01 00 00 05 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 00 00}{07 14 00}Hei, ma ei tea kunstist\npalju, aga ma tean, et\nsee on {ff 00 00 07}peen maal{ff 00 00 00}!\n{0b 03 00}{04 1f 00}{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00} Sa oled kunsti-\nnoss!{01 00 00 0f 00} {07 0a 00}Ei, ma naljatan!\nTõesti lahe, {01 00 00 05 00}{04 02 00}!"
   },
   {
    "id": 7,
    "en": "{07 14 00}Hee hee{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} {0b 03 00}{04 1f 00}, I\nbet you're always studying\nat this {ff 00 00 07}writing desk{ff 00 00 00}.\n{07 06 00}Don't start doodling on it,{01 00 00 05 00}\nor {ff 00 00 06}Old Man Nook {ff 00 00 00}will rip you\noff if you sell it!",
-   "et": ""
+   "et": "{07 14 00}Hi hii{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} {0b 03 00}{04 1f 00}, ma\nvean kihla, et sa õpid alati\nselle {ff 00 00 07}kirjutuslaua{ff 00 00 00} taga.\n{07 06 00}Ära hakka sinna soperdama,{01 00 00 05 00}\nvõi {ff 00 00 06}vana Nook {ff 00 00 00}petab sind\nmüügi juures!"
   },
   {
    "id": 8,
    "en": "{07 16 00}Yeowch!{01 00 00 05 00} This {ff 00 00 07}writing chair \n{ff 00 00 00}looks really hard and\nuncomfortable{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 00 00}{07 0e 00}But {01 00 00 05 00}if it was cozy,{01 00 00 05 00} you'd\nsleep instead of write...{01 00 00 0a 00} {07 00 00}{07 14 00}So\nI guess it's a good thing!",
-   "et": ""
+   "et": "{07 16 00}Auh!{01 00 00 05 00} See {ff 00 00 07}kirjutustool \n{ff 00 00 00}näeb välja väga kõva ja\nebamugav{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 00 00}{07 0e 00}Aga {01 00 00 05 00}kui oleks mugav,{01 00 00 05 00} sa\nmagaksid hoopis...{01 00 00 0a 00} {07 00 00}{07 14 00}Nii et\nsee on vist hea asi!"
   },
   {
    "id": 9,
    "en": "{07 14 00}Oh!{01 00 00 0a 00} This is my favorite\nstuffed animal!{01 00 00 05 00} It's a\n{ff 00 00 07}mama bear{ff 00 00 00}, right?\n{07 00 00}Yeah, my first bear was too\nlarge...{01 00 00 0a 00} And my second bear\nwas too small...\n{07 0d 00}But this one looks just\nright!",
-   "et": ""
+   "et": "{07 14 00}Oh!{01 00 00 0a 00} See on mu lemmik\nkaisuloom!{01 00 00 05 00} See on\n{ff 00 00 07}emakaru{ff 00 00 00}, eks?\n{07 00 00}Jah, mu esimene karu oli\nliiga suur...{01 00 00 0a 00} Ja teine karu\noli liiga väike...\n{07 0d 00}Aga see näeb välja just\nparaja!"
   },
   {
    "id": 10,
    "en": "{07 00 00}I love white-collar jobs,{01 00 00 05 00} so\nthis {ff 00 00 07}office desk{ff 00 00 00} makes me\nfeel right at home!\n{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}Is that odd?{01 00 00 0a 00} Do I need\nserious medical attention,\n{01 00 00 05 00}{04 02 00}?",
-   "et": ""
+   "et": "{07 00 00}Mulle meeldib kontoritöö,{01 00 00 05 00}\nsee {ff 00 00 07}kontorilaud{ff 00 00 00} paneb mu\nend koduselt tundma!\n{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}Kas see on veider?{01 00 00 0a 00} Kas\nvajan tõsist arstiabi,\n{01 00 00 05 00}{04 02 00}?"
   },
   {
    "id": 11,
    "en": "{07 00 00}{07 0d 00}Aw,{01 00 00 05 00} I always wanted my own\n{ff 00 00 07}iris table{ff 00 00 00}!{01 00 00 0a 00} {07 00 00}They seem like\nsuch pure flowers.\n{07 17 00}Actually,{01 00 00 05 00} I used to think\nthat you didn't even have\nto clean these tables...",
-   "et": ""
+   "et": "{07 00 00}{07 0d 00}Oh,{01 00 00 05 00} ma olen alati tahtnud\noma {ff 00 00 07}iiriselauda{ff 00 00 00}!{01 00 00 0a 00} {07 00 00}Need on\nnii puhtad lilled.\n{07 17 00}Tegelikult{01 00 00 05 00} arvasin varem,\net neid laudu ei peagi\npuhastama..."
   },
   {
    "id": 12,
    "en": "{07 00 00}When you sit on the {ff 00 00 07}iris\nchair{ff 00 00 00},{01 00 00 05 00} {07 0b 00}does it make you\nfeel happy, {01 00 00 05 00}{04 02 00}?\n{07 13 00}If I sat on a chair like\nthis, I'd never want to get\nup{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00} {07 04 00}EVER!",
-   "et": ""
+   "et": "{07 00 00}Kui sa istud {ff 00 00 07}iirise-\ntoolil{ff 00 00 00},{01 00 00 05 00} {07 0b 00}kas see teeb sind\nõnnelikuks, {01 00 00 05 00}{04 02 00}?\n{07 13 00}Kui ma istuksin sellisel\ntoolil, ei tahaks ma kunagi\nüles tõusta{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00} {07 04 00}MITTE KUNAGI!"
   },
   {
    "id": 13,
    "en": "{07 14 00}Geez, {04 1f 00},{01 00 00 05 00} you have\na really nice kitchen,\n{01 00 00 05 00}{04 02 00}.\n{07 00 00}{07 13 00}If I had a kitchen like this,{01 00 00 05 00}\nI'd have to buy a bunch of\nnew dishes!\n{07 1a 00}Mine are too old to use in\nsuch a nice place.",
-   "et": ""
+   "et": "{07 14 00}Oi, {04 1f 00},{01 00 00 05 00} sul on\ntõesti kena köök,\n{01 00 00 05 00}{04 02 00}.\n{07 00 00}{07 13 00}Kui mul oleks selline köök,{01 00 00 05 00}\npeaksin ma ostma hunniku\nuusi nõusid!\n{07 1a 00}Minu omad on liiga vanad\nnii kena koha jaoks."
   },
   {
    "id": 14,
    "en": "{07 00 00}{07 03 00}Hey, silly!{01 00 00 05 00} Your clothes\nwon't get dry if you hang\nthem up inside!\n{07 19 00}This {ff 00 00 07}clothesline pole {ff 00 00 00}should\nbe in your backyard or\nsomething!",
-   "et": ""
+   "et": "{07 00 00}{07 03 00}Hei, rumaluke!{01 00 00 05 00} Su riided ei\nkuiva, kui sa riputad\nneed sisse!\n{07 19 00}See {ff 00 00 07}pesukuivatuspost {ff 00 00 00}peaks\nolema su tagaaias või\nkuskil!"
   },
   {
    "id": 15,
    "en": "{07 14 00}Oh, wicked!{01 00 00 05 00} You've got a\n{ff 00 00 07}birdhouse{01 00 00 05 00} {ff 00 00 00}INSIDE your\nhouse,{01 00 00 05 00} {01 00 00 05 00}{04 02 00}?!\nDoes a bird live in it?{01 00 00 05 00} {07 13 00}That\nwould be like a real-life\nfairy tale!",
-   "et": ""
+   "et": "{07 14 00}Oh, vinge!{01 00 00 05 00} Sul on\n{ff 00 00 07}linnumaja{01 00 00 05 00} {ff 00 00 00}oma maja\nSEES,{01 00 00 05 00} {01 00 00 05 00}{04 02 00}?!\nKas seal elab lind?{01 00 00 05 00} {07 13 00}See\noleks nagu päris\nmuinasjutt!"
   },
   {
    "id": 16,
    "en": "{07 14 00}{0b 03 00}{04 1f 00}, this desk is a\nclassic! What is it called?{01 00 00 05 00}\n...Huh?{01 00 00 0f 00} A {ff 00 00 07}classic desk{ff 00 00 00}?\n{07 03 00}Well, that makes sense,\n{01 00 00 05 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 14 00}{0b 03 00}{04 1f 00}, see laud on\nklassika! Mis nimi sel on?{01 00 00 05 00}\n...Ah?{01 00 00 0f 00} {ff 00 00 07}Klassikaline laud{ff 00 00 00}?\n{07 03 00}Noh, see on loogiline,\n{01 00 00 05 00}{04 02 00}!"
   },
   {
    "id": 17,
    "en": "{07 0e 00}Um, {04 1f 00}?{01 00 00 05 00} Is that a\n{ff 00 00 07}garden gnome {ff 00 00 00}that you have\nover there?\nWeird.{01 00 00 0a 00} {07 0e 00}Actually,{01 00 00 05 00} I don't even\nknow what a gnome is{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n{07 16 00}They're not evil,{01 00 00 05 00} right?!\n{07 00 00}WHEW!{01 00 00 05 00} {07 14 00}Yeah, {01 00 00 05 00}it looked too\ncute to be something evil,\n{01 00 00 05 00}{04 02 00}.",
-   "et": ""
+   "et": "{07 0e 00}Ee, {04 1f 00}?{01 00 00 05 00} Kas see on\n{ff 00 00 07}aiapäkapikk{ff 00 00 00}, mis sul\nseal on?\nVeider.{01 00 00 0a 00} {07 0e 00}Tegelikult{01 00 00 05 00} ei tea,\nmis on päkapikk{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n{07 16 00}Nad pole ju kurjad,{01 00 00 05 00} eks?!\n{07 00 00}UHH!{01 00 00 05 00} {07 14 00}Jah, {01 00 00 05 00}ta nägi liiga\nnunnu välja, et olla kuri,\n{01 00 00 05 00}{04 02 00}."
   },
   {
    "id": 18,
    "en": "{07 00 00}{07 0d 00}Oh, a {ff 00 00 07}mop{ff 00 00 00}! I LOVE mops! I\nhave a mop at home that I\nnamed Moppina!\n{07 00 00}{07 07 00}Sometimes she gets mad at\nme...{01 00 00 0a 00}so very angry...{01 00 00 0a 00} {07 08 00}I can't\nstand that! Noooo! Moppina!\n{07 00 00}{07 02 00}Huh?{01 00 00 0a 00} {07 00 00}Oh, uh...sorry.{07 09 00}{01 00 00 14 00}\n{07 17 00}...How about we just forget\nthat, all right?",
-   "et": ""
+   "et": "{07 00 00}{07 0d 00}Oh, {ff 00 00 07}mopp{ff 00 00 00}! Mulle meeldivad!\nMul on kodus mopp, kellele\nma panin nimeks Moppina!\n{07 00 00}{07 07 00}Vahel saab ta mu peale\npahaseks...{01 00 00 0a 00}nii vihaseks...{01 00 00 0a 00} {07 08 00}Ma\nei talu seda! Eiii! Moppina!\n{07 00 00}{07 02 00}Ah?{01 00 00 0a 00} {07 00 00}Oh, ee...vabandust.{07 09 00}{01 00 00 14 00}\n{07 17 00}...Kuidas oleks, kui me\nlihtsalt unustame selle?"
   },
   {
    "id": 19,
    "en": "{07 14 00}So, {04 1f 00},{01 00 00 05 00} do you\nthink hamsters are cute?{02 00 00 18 19}\nEw! Rodents!\nThe cutest!",
-   "et": ""
+   "et": "{07 14 00}Nii, {04 1f 00},{01 00 00 05 00} kas sinu\narust on hamstrid nunnud?{02 00 00 18 19}\nÄh! Närilised!\nKõige nunnumad!"
   },
   {
    "id": 20,
    "en": "{07 02 00}WHAT?! Holy cow, that's a\nton of sugar!\n\n{07 03 00}Don't you want some coffee\nwith that, {01 00 00 05 00}{04 02 00}?!{01 00 00 0a 00}\nWHA HA HA HA!!!",
-   "et": ""
+   "et": "{07 02 00}MIDA?! Püha lehm, see on\ntonn suhkrut!\n\n{07 03 00}Kas sa ei taha sinna ka\nnatuke kohvi, {01 00 00 05 00}{04 02 00}?!{01 00 00 0a 00}\nHAH HAH HAH HAA!!!"
   },
   {
    "id": 21,
    "en": "{07 14 00}Ha ha ha{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} You've got a\nsweet tooth, {01 00 00 05 00}{04 1f 00}!{01 01 00}\n{07 0a 00}I'm the same, {01 00 00 05 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 14 00}Hah hah hah{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} Sul on\nmagus hammas, {01 00 00 05 00}{04 1f 00}!{01 01 00}\n{07 0a 00}Mina ka, {01 00 00 05 00}{04 02 00}!"
   },
   {
    "id": 22,
    "en": "{07 00 00}Yeah, I usually take two\nsugars, {04 02 00}.\n\nBut when I'm at the{ff 00 00 08} Roost{ff 00 00 00},{01 00 00 05 00}\nI try to be more mature.{01 00 00 0a 00}\n{07 17 00}So I just use one sugar...",
-   "et": ""
+   "et": "{07 00 00}Ma võtan tavaliselt kaks\nsuhkrut, {04 02 00}.\n\nAga kui ma olen{ff 00 00 08} Roostis{ff 00 00 00},{01 00 00 05 00}\nüritan ma olla küpsem.{01 00 00 0a 00}\n{07 17 00}Nii et võtan ühe suhkru..."
   },
   {
    "id": 23,
    "en": "{07 04 00}{0b 03 00}{04 1f 00}! You don't put \nANY sugar in your coffee?!{01 00 00 14 00}\n{07 0b 00}Seriously?{01 00 00 0a 00} None at all?\n{07 00 00}{07 16 00}Wow, I bet you have a lot\nof trouble getting to\nsleep.{01 00 00 0a 00} I know I would!\n{07 13 00}Wow, {04 1f 00}...{01 00 00 0f 00} That's\nso hardcore, {01 00 00 05 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 04 00}{0b 03 00}{04 1f 00}! Sa ei pane \nkohvi sisse ÜLDSE suhkrut?!{01 00 00 14 00}\n{07 0b 00}Tõsiselt?{01 00 00 0a 00} Mitte üldse?\n{07 00 00}{07 16 00}Vau, vean kihla, et sul on\npalju raskusi uinumisega.{01 00 00 0a 00}\nMul oleks küll!\n{07 13 00}Vau, {04 1f 00}...{01 00 00 0f 00} See on\nnii karm, {01 00 00 05 00}{04 02 00}!"
   },
   {
    "id": 24,
    "en": "{07 14 00}Yeah, I figured as much{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\nI can tell just by looking\nat your room, {01 00 00 05 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 14 00}Jah, ma nii arvasingi{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\nMa näen seda juba su toa\njärgi, {01 00 00 05 00}{04 02 00}!"
   },
   {
    "id": 25,
    "en": "{07 19 00}I think so, too!{01 00 00 05 00} {07 00 00}{07 0b 00}You know\nthat sensation when one's \nsitting on your hand{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}?\n{07 06 00}SO CUTE, {01 00 00 05 00}{04 02 00}!{01 00 00 0f 00} {07 0d 00}I'm\ngetting excited just\nthinking about it!",
-   "et": ""
+   "et": "{07 19 00}Ma arvan ka nii!{01 00 00 05 00} {07 00 00}{07 0b 00}Tead sa\nseda tunnet, kui üks \nistub su käel{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}?\n{07 06 00}NII NUNNU, {01 00 00 05 00}{04 02 00}!{01 00 00 0f 00} {07 0d 00}Ma\nlähen elevile juba\nsellele mõeldes!"
   }
  ]
 }

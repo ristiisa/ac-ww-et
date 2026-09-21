@@ -4,17 +4,17 @@
   {
    "id": 0,
    "en": "{07 14 00}OK then, please be careful!{01 00 00 0f 00}\nAnd don't even THINK about\nopening it, {01 00 00 05 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 14 00}Olgu siis, ole hoolas!{01 00 00 0f 00}\nJa ära isegi MÕTLE selle\navamise peale, {01 00 00 05 00}{04 02 00}!"
   },
   {
    "id": 1,
    "en": "{07 14 00}I'm counting on you!{01 00 00 0f 00}\n{07 00 00}And please don't open it,\n{01 00 00 05 00}{04 02 00}.{01 00 00 0a 00} It's private!",
-   "et": ""
+   "et": "{07 14 00}Ma loodan sinu peale!{01 00 00 0f 00}\n{07 00 00}Ja palun ära ava seda,\n{01 00 00 05 00}{04 02 00}.{01 00 00 0a 00} See on eraasi!"
   },
   {
    "id": 2,
    "en": "{07 16 00}It's not yours, so don't be\nall nosy and open it, OK?{01 00 00 0f 00}\n{07 14 00}Good luck, {01 00 00 05 00}{04 02 00}!",
-   "et": ""
+   "et": "{07 16 00}See pole sinu oma, nii et\nära ole uudishimulik, eks?{01 00 00 0f 00}\n{07 14 00}Edu, {01 00 00 05 00}{04 02 00}!"
   }
  ]
 }
