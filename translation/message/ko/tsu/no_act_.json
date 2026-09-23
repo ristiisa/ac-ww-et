@@ -14,7 +14,7 @@
   {
    "id": 2,
    "en": "I don't stroll.{01 00 00 05 00} I don't\nmosey.{01 00 00 05 00} I speed-walk,\n{01 00 00 05 00}{04 02 00}!\nSounds kinda tough, right?\n{01 00 00 0f 00}SPEED-WALKING!{01 01 00} \n{07 14 00}Serious stuff, {01 00 00 05 00}{04 02 00}.",
-   "et": "Ma ei jaluta.{01 00 00 05 00} Ma ei\nlonki.{01 00 00 05 00} Ma kiirkõnnin,\n{01 00 00 05 00}{04 02 00}!\nKõlab päris karmilt, eks?\n{01 00 00 0f 00}KIIRKÕND!{01 01 00} \n{07 14 00}Tõsine asi, {01 00 00 05 00}{04 02 00}."
+   "et": "Ma ei jaluta.{01 00 00 05 00} Ma ei\ntatsa.{01 00 00 05 00} Ma kiirkõnnin,\n{01 00 00 05 00}{04 02 00}!\nKõlab päris karmilt, eks?\n{01 00 00 0f 00}KIIRKÕND!{01 01 00} \n{07 14 00}Tõsine asi, {01 00 00 05 00}{04 02 00}."
   },
   {
    "id": 3,
@@ -39,7 +39,7 @@
   {
    "id": 7,
    "en": "{07 16 00}I'm NOT walking around\naimlessly, so quit lookin' at\nme like that, {01 00 00 05 00}{04 02 00}.\n{07 00 00}I'm helping {04 0b 00} find\na lost {04 15 00}.",
-   "et": "{07 16 00}Ma EI kõnni sihitult\nringi, nii et lõpeta minu\nvahtimine, {01 00 00 05 00}{04 02 00}.\n{07 00 00}Ma aitan {04 0b 00}l leida\nkaotatud {04 15 00}."
+   "et": "{07 16 00}Ma EI kõnni sihitult\nringi, nii et lõpeta minu\nvahtimine, {01 00 00 05 00}{04 02 00}.\n{07 00 00}Ma aitan tüüpi nimega {04 0b 00}\nleida kaotatud {04 15 00}."
   },
   {
    "id": 8,

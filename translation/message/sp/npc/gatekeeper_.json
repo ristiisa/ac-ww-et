@@ -4,7 +4,7 @@
   {
    "id": 0,
    "en": "{07 22 00}Hello, and welcome to the\n{ff 00 00 08}checkpoint {ff 00 00 00}for bustling\n{04 03 00}{01 00 00 05 00}!\n{07 00 00}Listen well, {04 00 00}!\nWhen you want to visit\nanother town...{01 00 00 05 00}\nOr if, perhaps, you have a\nfriend come visit you here\nin {04 03 00}{01 00 00 0a 00}...\nI'd very much appreciate it\nif you'd please let me{01 00 00 05 00}\nknow in advance! I insist!\nYou see, because that way,{01 00 00 05 00}\nI can open the gate for you{01 00 00 0a 00}\nand let you through!",
-   "et": "{07 22 00}Tere ja tere tulemast\n{ff 00 00 08}kontrollpunkti {ff 00 00 00}elava linna\n{04 03 00}{01 00 00 05 00} juurde!\n{07 00 00}Kuula hästi, {04 00 00}!\nKui tahad külastada\nmõnda teist linna...{01 00 00 05 00}\nVõi kui sul on ehk\nsõber külla tulemas siia\nlinna {04 03 00}{01 00 00 0a 00}...\nOleksin väga tänulik,\nkui annaksid mulle{01 00 00 05 00}\nsellest ette teada!\nNäed sa, sest nii{01 00 00 05 00}\nsaan ma sulle värava avada{01 00 00 0a 00}\nja su läbi lasta!"
+   "et": "{07 22 00}Tere ja tere tulemast\n{ff 00 00 08}elava linna{ff 00 00 00}\n{04 03 00}{01 00 00 05 00} värava juurde!\n{07 00 00}Kuula hästi, {04 00 00}!\nKui tahad külastada\nmõnda teist linna...{01 00 00 05 00}\nVõi kui sul on ehk\nsõber külla tulemas siia\nlinna {04 03 00}{01 00 00 0a 00}...\nOleksin väga tänulik,\nkui annaksid mulle{01 00 00 05 00}\nsellest ette teada!\nNäed sa, sest nii{01 00 00 05 00}\nsaan ma sulle värava avada{01 00 00 0a 00}\nja su läbi lasta!"
   },
   {
    "id": 1,
@@ -24,7 +24,7 @@
   {
    "id": 5,
    "en": "{07 22 00}A very good day to you!{01 01 00}\nI see you're working away\nwith due diligence. Hoo-rah!{07 00 00}",
-   "et": "{07 22 00}Väga head päeva sulle!{01 01 00}\nNäen, et rabad tööd\nkohusetundlikult. Just nii!{07 00 00}"
+   "et": "{07 22 00}Väga head päeva sulle!{01 01 00}\nNäen, et teed tööd\nkohusetundlikult. Just nii!{07 00 00}"
   },
   {
    "id": 6,
@@ -59,7 +59,7 @@
   {
    "id": 12,
    "en": "{07 00 00}Ah, {04 00 00}.{01 00 00 0a 00} Poor form.{01 00 00 0f 00}\nMy deepest apologies!\n\nPeople seem to be engaged\nin an activity.{01 00 00 0a 00} I cannot\nprocess your request.",
-   "et": "{07 00 00}Ah, {04 00 00}.{01 00 00 0a 00} Halb lugu.{01 00 00 0f 00}\nMu sügavaim vabandus!\n\nInimesed näivad olevat\ntegevuses.{01 00 00 0a 00} Ma ei saa\nsu soovi täita."
+   "et": "{07 00 00}Ah, {04 00 00}.{01 00 00 0a 00} Halb lugu.{01 00 00 0f 00}\nMu sügavaim vabandus!\n\nTundub, et inimesed on\nmillestki hõivatud.{01 00 00 0a 00} Ma ei saa\nsu soovi täita."
   },
   {
    "id": 13,
@@ -84,7 +84,7 @@
   {
    "id": 17,
    "en": "{07 22 00}Listen well, {04 00 00}!\nThis is the {ff 00 00 08}checkpoint\n{ff 00 00 00}for bustling {04 03 00}{01 00 00 05 00}!\n{07 00 00}When you should want to\nvisit{01 00 00 05 00} another town...\n\nOr if, perhaps, you have a\nfriend come visit you here\nin {04 03 00}...{01 00 00 0a 00}\nI would appreciate you{01 00 00 05 00}\nletting me know so I can\nexpedite the gate-opening!{01 00 00 05 00}\nEfficiency is our utmost\nconcern here!",
-   "et": "{07 22 00}Kuula hästi, {04 00 00}!\nSee on {ff 00 00 08}kontrollpunkt\n{ff 00 00 00}elava linna {04 03 00} jaoks{01 00 00 05 00}!\n{07 00 00}Kui sa peaksid tahtma\nkülastada{01 00 00 05 00} teist linna...\n\nVõi kui sul on ehk\nsõber külla tulemas siia\nlinna {04 03 00}...{01 00 00 0a 00}\nOleksin tänulik,{01 00 00 05 00} kui\nannaksid teada, et saaksin\nvärava kiiremini avada!{01 00 00 05 00}\nTõhusus on siin meie\nkõrgeim mure!"
+   "et": "{07 22 00}Kuula hästi, {04 00 00}!\nSee on {ff 00 00 08}elava linna\n{ff 00 00 00}{04 03 00} värav{01 00 00 05 00}!\n{07 00 00}Kui sa peaksid tahtma\nkülastada{01 00 00 05 00} teist linna...\n\nVõi kui sul on ehk\nsõber külla tulemas siia\nlinna {04 03 00}...{01 00 00 0a 00}\nOleksin tänulik,{01 00 00 05 00} kui\nannaksid teada, et saaksin\nvärava kiiremini avada!{01 00 00 05 00}\nTõhusus on siin meie\nkõrgeim mure!"
   },
   {
    "id": 18,
@@ -129,7 +129,7 @@
   {
    "id": 36,
    "en": "{07 22 00}Affirmative!{01 00 00 14 00}\nSo that you can be issued\na{ff 00 00 02} friend code{ff 00 00 00},\n{07 00 00}I shall now initiate{01 00 00 05 00}\n{ff 00 00 01}Nintendo WFC{ff 00 00 00}!{02 04 00 25 22}\nLet's do this!\nNever mind.",
-   "et": "{07 22 00}Jaatav!{01 00 00 14 00}\nSelleks, et sulle saaks\nväljastada{ff 00 00 02} sõbrakoodi{ff 00 00 00},\n{07 00 00}alustan ma nüüd{01 00 00 05 00}\n{ff 00 00 01}Nintendo WFC{ff 00 00 00} ühendust!{02 04 00 25 22}\nTeeme ära!\nPole vaja."
+   "et": "{07 22 00}Jah, aru saadud!{01 00 00 14 00}\nSelleks, et sulle saaks\nväljastada{ff 00 00 02} sõbrakoodi{ff 00 00 00},\n{07 00 00}alustan ma nüüd{01 00 00 05 00}\n{ff 00 00 01}Nintendo WFC{ff 00 00 00} ühendust!{02 04 00 25 22}\nTeeme ära!\nPole vaja."
   },
   {
    "id": 37,
@@ -209,7 +209,7 @@
   {
    "id": 69,
    "en": "{07 22 00}{04 00 00}!{01 00 00 0f 00}\nYou cannot leave this town\nat this time!\nI apologize, but it's simply\nunavoidable right now!",
-   "et": "{07 22 00}{04 00 00}!{01 00 00 0f 00}\nSa ei saa praegu\nsellest linnast lahkuda!\nVabandan, aga see on\npraegu paratamatu!"
+   "et": "{07 22 00}{04 00 00}!{01 00 00 0f 00}\nSa ei saa praegu\nsellest linnast lahkuda!\nVabandan, aga see on\npraegu lihtsalt võimatu!"
   },
   {
    "id": 70,

@@ -29,7 +29,7 @@
   {
    "id": 5,
    "en": "Have you ever noticed a\nmessage on the bulletin\nboard that says {ff 00 00 02}Soliloquy{ff 00 00 00}?\nI've always wondered {01 00 00 05 00}{07 0b 00}who\nwrote it, {01 00 00 05 00}{04 02 00}.\n\nMaybe it's just me, but I\nthought it sounded like it\nwas written by a girl.{02 02 00 3c 3d 3e 3f}\nIt was you!\nIt was Mabel!\nIt was Pelly!\nIt was Phyllis!",
-   "et": "Kas sa oled kunagi näinud\nteadetetahvlil sõnumit\nnimega {ff 00 00 02}Monoloog{ff 00 00 00}?\nOlen alati mõelnud, {01 00 00 05 00}{07 0b 00}kes\nselle kirjutas, {01 00 00 05 00}{04 02 00}.\n\nEhk ainult mulle, aga\nmulle tundus, et selle\nkirjutas tüdruk.{02 02 00 3c 3d 3e 3f}\nSee olid sina!\nSee oli Mabel!\nSee oli Pelly!\nSee oli Phyllis!"
+   "et": "Kas sa oled kunagi näinud\nteadetetahvlil sõnumit\nnimega {ff 00 00 02}Monoloog{ff 00 00 00}?\nOlen alati mõelnud, {01 00 00 05 00}{07 0b 00}kes\nselle kirjutas, {01 00 00 05 00}{04 02 00}.\n\nTundub vaid mulle, aga\nmulle tundus, et selle\nkirjutas tüdruk.{02 02 00 3c 3d 3e 3f}\nSee olid sina!\nSee oli Mabel!\nSee oli Pelly!\nSee oli Phyllis!"
   },
   {
    "id": 6,
@@ -84,7 +84,7 @@
   {
    "id": 16,
    "en": "{07 0c 00}Oh, by the way,{01 00 00 05 00} I was\nlistening to {04 0f 00}\nwhile I was cooking.{07 00 00}\nMy {04 14 00} came\nout better than usual.\n{07 0b 00}Or was it just me.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}",
-   "et": "{07 0c 00}Oh, muide,{01 00 00 05 00} ma kuulasin\n{04 0f 00}\nsel ajal kui kokkasin.{07 00 00}\nMu {04 14 00} tuli\nparem kui tavaliselt.\n{07 0b 00}Või oli see ainult minu.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}"
+   "et": "{07 0c 00}Oh, muide,{01 00 00 05 00} ma kuulasin\n{04 0f 00}\nsel ajal kui kokkasin.{07 00 00}\nMu {04 14 00} tuli\nparem kui tavaliselt.\n{07 0b 00}Või tundus see vaid mulle.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}"
   },
   {
    "id": 17,
@@ -119,7 +119,7 @@
   {
    "id": 23,
    "en": "{07 14 00}I'm EXACTLY the same way!\nI always save my favorite\nthing until the very end.\n{07 00 00}Except when I'm cooking.{01 00 00 05 00}\nI nibble here and there, \nand then I get totally full.\n{07 17 00}Then I wind up just giving\nit to {04 0b 00}, so that\nat least SOMEONE enjoys it!",
-   "et": "{07 14 00}Ma olen TÄPSELT samasugune!\nMa hoian oma lemmiku alati\nkõige lõpuni.\n{07 00 00}Välja arvatud siis, kui ma\nkokkan.{01 00 00 05 00} Ma näksin siit-sealt\nja siis olen täiesti täis.\n{07 17 00}Siis annan ma selle lõpuks\n{04 0b 00}le, et vähemalt\nKEEGI seda naudiks!"
+   "et": "{07 14 00}Ma olen TÄPSELT samasugune!\nMa hoian oma lemmiku alati\nkõige lõpuni.\n{07 00 00}Välja arvatud siis, kui ma\nkokkan.{01 00 00 05 00} Ma näksin siit-sealt\nja siis olen täiesti täis.\n{07 17 00}Siis annan ma selle lõpuks\ntalle, {04 0b 00}, et vähemalt\nKEEGI seda naudiks!"
   },
   {
    "id": 24,
@@ -214,7 +214,7 @@
   {
    "id": 42,
    "en": "{07 14 00}I'm so glad I got to know\nyou, {04 1f 00}.{01 00 00 05 00} I feel\nso close to you!\n{06 01 00 2c 2d 2e}",
-   "et": "{07 14 00}Mul on nii hea meel, et\ntundsin sind, {04 1f 00}.{01 00 00 05 00} Ma\ntunnen end sulle lähedal!\n{06 01 00 2c 2d 2e}"
+   "et": "{07 14 00}Mul on nii hea meel, et\nsain sind tundma, {04 1f 00}.{01 00 00 05 00} Ma\ntunnen end sulle lähedal!\n{06 01 00 2c 2d 2e}"
   },
   {
    "id": 43,
@@ -224,7 +224,7 @@
   {
    "id": 44,
    "en": "So, I hope you come by and\ntalk to me more often.\n\n{07 0d 00}I want to be very close to\nyou, {04 1f 00}! We'll be\nbest friends, {01 00 00 05 00}{04 02 00}!",
-   "et": "Nii et ma loodan, et sa\ntuled ja räägid minuga\nsagedamini.\n{07 0d 00}Ma tahan olla sinuga väga\nlähedane, {04 1f 00}! Saame\nparimaks, {01 00 00 05 00}{04 02 00}!"
+   "et": "Nii et ma loodan, et sa\ntuled ja räägid minuga\nsagedamini.\n{07 0d 00}Ma tahan olla sinuga väga\nlähedane, {04 1f 00}! Saame\nparimateks sõpradeks, {01 00 00 05 00}{04 02 00}!"
   },
   {
    "id": 45,
@@ -304,7 +304,7 @@
   {
    "id": 61,
    "en": "{07 04 00}What? No!{01 00 00 0f 00} Really?{01 00 00 05 00}\n.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}So, {07 0b 00}you think it was\n{ff 00 00 06}Mabel{ff 00 00 00},{01 00 00 05 00} do you?\n{07 0e 00}Interesting.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} I guess. I\ncould see it being {ff 00 00 06}Mabel{ff 00 00 00}'s\nsort of thing, but still.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n{07 0b 00}Do you have any evidence\nto back that up,\n{01 00 00 05 00}{04 02 00}?",
-   "et": "{07 04 00}Mida? Ei!{01 00 00 0f 00} Tõesti?{01 00 00 05 00}\n.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}Nii et, {07 0b 00}sa arvad, et oli\n{ff 00 00 06}Mabel{ff 00 00 00},{01 00 00 05 00} jah?\n{07 0e 00}Huvitav.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} Ma vist. Ma\nnäen, et see võiks olla\n{ff 00 00 06}Mabeli{ff 00 00 00} moodi, aga siiski.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n{07 0b 00}Kas sul on mingeid tõendeid\nselle kohta,\n{01 00 00 05 00}{04 02 00}?"
+   "et": "{07 04 00}Mida? Ei!{01 00 00 0f 00} Tõesti?{01 00 00 05 00}\n.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}Nii et, {07 0b 00}sa arvad, et oli\n{ff 00 00 06}Mabel{ff 00 00 00},{01 00 00 05 00} jah?\n{07 0e 00}Huvitav.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} Vist küll. Ma\nnäen, et see võiks olla\n{ff 00 00 06}Mabeli{ff 00 00 00} moodi, aga siiski.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n{07 0b 00}Kas sul on mingeid tõendeid\nselle kohta,\n{01 00 00 05 00}{04 02 00}?"
   },
   {
    "id": 62,
@@ -389,7 +389,7 @@
   {
    "id": 78,
    "en": "{07 0d 00}{ff 00 00 02}Ribbet, ribbet, ribbettt,\n{01 00 00 05 00}{04 02 00}! {00 01 00}\n{ff 00 00 00}\n{07 14 00}How do you like it? That's\nmy very own rain song.\nI use it to call for rain!\n{07 00 00}When my trainee gets tired\nof working out, {07 13 00}I sing that\nsong and rain away the day!{03 01 00 01}",
-   "et": "{07 0d 00}{ff 00 00 02}Krooks, krooks, krooksss,\n{01 00 00 05 00}{04 02 00}! {00 01 00}\n{ff 00 00 00}\n{07 14 00}Kuidas sulle meeldib? See on\nminu enda vihmalaul.\nMa kutsun sellega vihma!\n{07 00 00}Kui mu õpilane väsib\ntreeningust, {07 13 00}laulan ma seda\nlaulu ja sajutan päeva!{03 01 00 01}"
+   "et": "{07 0d 00}{ff 00 00 02}Krooks, krooks, krooksss,\n{01 00 00 05 00}{04 02 00}! {00 01 00}\n{ff 00 00 00}\n{07 14 00}Kuidas sulle meeldib? See on\nminu enda vihmalaul.\nMa kutsun sellega vihma!\n{07 00 00}Kui mu õpilane väsib\ntreeningust, {07 13 00}laulan ma seda\nlaulu ja sajatan päeva!{03 01 00 01}"
   },
   {
    "id": 79,

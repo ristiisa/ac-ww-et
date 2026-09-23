@@ -19,7 +19,7 @@
   {
    "id": 3,
    "en": "{07 00 00}I'm feeling pretty good,\nactually.\n\n{01 00 00 14 00}{07 14 00}And it's all thanks to\n{ff 00 00 05}{04 0f 00}{ff 00 00 00}, {ff 00 00 07}medicine{ff 00 00 00}-\nbringer.",
-   "et": "{07 00 00}Ma tunnen end tegelikult\npäris hästi.\n\n{01 00 00 14 00}{07 14 00}Ja see kõik tänu\n{ff 00 00 05}{04 0f 00}{ff 00 00 00}le, {ff 00 00 07}rohu{ff 00 00 00}-\ntoojale."
+   "et": "{07 00 00}Ma tunnen end tegelikult\npäris hästi.\n\n{01 00 00 14 00}{07 14 00}Ja see kõik tänu\ntüübile nimega {ff 00 00 05}{04 0f 00}{ff 00 00 00},\n{ff 00 00 07}rohu{ff 00 00 00}-toojale."
   },
   {
    "id": 4,

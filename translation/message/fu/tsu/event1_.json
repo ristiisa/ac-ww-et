@@ -14,7 +14,7 @@
   {
    "id": 2,
    "en": "{0b 03 00}{04 1f 00}, are you set\nfor the {ff 00 00 03}Bug-Off{ff 00 00 00}? It's\ncoming up this Sunday.\n{07 15 00}I've been psyching myself\nup by drinking a special\n{04 13 00} shake.\n{07 11 00}It's the only way to make\nsure I've got the raw\nenergy to bag those bugs!",
-   "et": "{0b 03 00}{04 1f 00}, kas sa oled\nvalmis {ff 00 00 03}putukavõistluseks{ff 00 00 00}?\nSee tuleb sel pühapäeval.\n{07 15 00}Ma olen end üles kütnud,\njuues erilist\n{04 13 00}kokteili.\n{07 11 00}See on ainus viis tagada,\net mul on toorest energiat\nnende putukate püüdmiseks!"
+   "et": "{0b 03 00}{04 1f 00}, kas sa oled\nvalmis {ff 00 00 03}putukavõistluseks{ff 00 00 00}?\nSee tuleb sel pühapäeval.\n{07 15 00}Ma olen end üles kütnud,\njuues erilist\njooki nimega {04 13 00}.\n{07 11 00}See on ainus viis tagada,\net mul on toorest energiat\nnende putukate püüdmiseks!"
   },
   {
    "id": 3,
@@ -79,7 +79,7 @@
   {
    "id": 15,
    "en": "{07 02 00}You're joking, {01 00 00 05 00}{04 02 00}!\nTell me you're joking!\n\n{07 0f 00}Aw.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} And I was so looking\nforward to fishing with my\nlittle {04 1f 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}",
-   "et": "{07 02 00}Sa naljatad, {01 00 00 05 00}{04 02 00}!\nÜtle, et sa naljatad!\n\n{07 0f 00}Ohh.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} Ja ma ootasin nii\nväga kalal käimist oma\nväikese {04 1f 00}ga.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}"
+   "et": "{07 02 00}Sa naljatad, {01 00 00 05 00}{04 02 00}!\nÜtle, et sa naljatad!\n\n{07 0f 00}Ohh.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} Ja ma ootasin nii\nväga kalal käimist oma\nväikese sõbraga, {04 1f 00},.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}"
   },
   {
    "id": 16,
@@ -99,12 +99,12 @@
   {
    "id": 19,
    "en": "All I know is, {07 11 00}I'm not about\nto lose to {04 0c 00}.\nThat dweeb is tone deaf!",
-   "et": "Ma tean ainult seda, {07 11 00}et ma\nei kaota {04 0c 00}le.\nSee tobu on kuulmiskurt!"
+   "et": "Ma tean ainult seda, {07 11 00}et ma\nei kaota talle, {04 0c 00}.\nSee tobu on kuulmiskurt!"
   },
   {
    "id": 20,
    "en": "{07 00 00}I'm just very curious to\nsee {07 14 00}whose song you wind\nup picking, {04 02 00}.",
-   "et": "{07 00 00}Mul on lihtsalt väga\nuudishimulik, {07 14 00}kelle laulu\nsa lõpuks valid, {04 02 00}."
+   "et": "{07 00 00}Ma olen lihtsalt väga\nuudishimulik, {07 14 00}kelle laulu\nsa lõpuks valid, {04 02 00}."
   },
   {
    "id": 21,

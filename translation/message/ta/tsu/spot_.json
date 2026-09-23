@@ -14,7 +14,7 @@
   {
    "id": 2,
    "en": "{07 06 00}Guess what?{01 00 00 0a 00} {04 0b 00}\npicked up a\n{04 15 00}!\nIn the {ff 00 00 08}recycling bin{ff 00 00 00}! {01 00 00 0a 00}Can\nyou believe it! Lucky\nduck!\n{07 15 00}I've been looking for one{01 00 00 05 00}\nfor the longest time{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00} It's\nso frustrating, {01 00 00 05 00}{04 02 00}!",
-   "et": "{07 06 00}Arva, mis?{01 00 00 0a 00} {04 0b 00}\nkorjas üles\n{04 15 00}!\n{ff 00 00 08}Taaskasutuskastist{ff 00 00 00}! {01 00 00 0a 00}Kas\nsa suudad uskuda! Õnneseen!\n\n{07 15 00}Ma olen seda otsinud{01 00 00 05 00}\nväga kaua{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00} See on\nnii masendav, {01 00 00 05 00}{04 02 00}!"
+   "et": "{07 06 00}Arva, mis?{01 00 00 0a 00} {04 0b 00}\nkorjas üles\n{04 15 00}!\n{ff 00 00 08}Taaskasutuskastist{ff 00 00 00}! {01 00 00 0a 00}Kas\nsa suudad uskuda! Õnneseen!\n\n{07 15 00}Ma olen seda otsinud{01 00 00 05 00}\nväga kaua{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00} See on\nnii tüütu, {01 00 00 05 00}{04 02 00}!"
   },
   {
    "id": 3,
@@ -59,7 +59,7 @@
   {
    "id": 11,
    "en": "{07 14 00}You can change the way a\nroom feels by changing the\ncolor of the lighting.\n{07 0e 00}{01 00 00 0a 00}White is pure and clean,{01 00 00 0a 00}\nblue is calming,{01 00 00 0a 00} and\nyellow{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{01 00 00 0a 00}{07 1b 00}{01 00 00 05 00}Well, actually,{01 00 00 0f 00} yellow drives\nyou completely crazy,\n{01 00 00 05 00}{04 02 00}!",
-   "et": "{07 14 00}Sa saad toa tunnet muuta,\nkui muudad valgustuse\nvärvi.\n{07 0e 00}{01 00 00 0a 00}Valge on puhas ja selge,{01 00 00 0a 00}\nsinine rahustab{01 00 00 0a 00} ja\nkollane{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{01 00 00 0a 00}{07 1b 00}{01 00 00 05 00}Noh, tegelikult{01 00 00 0f 00} ajab kollane\nsind täiesti hulluks,\n{01 00 00 05 00}{04 02 00}!"
+   "et": "{07 14 00}Sa saad toa tunnet muuta,\nkui muudad valgustuse\nvärvi.\n{07 0e 00}{01 00 00 0a 00}Valge on puhas ja laitmatu,{01 00 00 0a 00}\nsinine rahustab{01 00 00 0a 00} ja\nkollane{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{01 00 00 0a 00}{07 1b 00}{01 00 00 05 00}Noh, tegelikult{01 00 00 0f 00} ajab kollane\nsind täiesti hulluks,\n{01 00 00 05 00}{04 02 00}!"
   },
   {
    "id": 12,

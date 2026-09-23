@@ -4,7 +4,7 @@
   {
    "id": 0,
    "en": "{07 14 00}Yessss! Can you believe it's\nalready time for the\n{ff 00 00 03}Bright Nights{ff 00 00 00}, {01 00 00 05 00}{04 1f 00}?",
-   "et": "{07 14 00}Jaaaa! Kas suudad uskuda,\net on juba\n{ff 00 00 03}säraööde{ff 00 00 00} aeg, {01 00 00 05 00}{04 1f 00}?"
+   "et": "{07 14 00}Jaaaa! Kas suudad uskuda,\net on juba\n{ff 00 00 03}valgusööde{ff 00 00 00} aeg, {01 00 00 05 00}{04 1f 00}?"
   },
   {
    "id": 1,
@@ -19,12 +19,12 @@
   {
    "id": 3,
    "en": "{07 14 00}The {ff 00 00 03}Bright Nights {ff 00 00 00}start\ntoday, {01 00 00 05 00}{04 02 00}!\n\n{07 00 00}I spent so much time\ndecorating my house this\nyear!\n{07 14 00}You'll come over and see it,\nright?",
-   "et": "{07 14 00}{ff 00 00 03}Säraööd {ff 00 00 00}algavad\ntäna, {01 00 00 05 00}{04 02 00}!\n\n{07 00 00}Ma kulutasin sel aastal\nnii palju aega maja\nkaunistamisele!\n{07 14 00}Sa tuled ju seda\nvaatama, eks?"
+   "et": "{07 14 00}{ff 00 00 03}Valgusööd {ff 00 00 00}algavad\ntäna, {01 00 00 05 00}{04 02 00}!\n\n{07 00 00}Ma kulutasin sel aastal\nnii palju aega maja\nkaunistamisele!\n{07 14 00}Sa tuled ju seda\nvaatama, eks?"
   },
   {
    "id": 4,
    "en": "{07 14 00}The {ff 00 00 03}Bright Nights{ff 00 00 00} have\nalready started! {01 00 00 05 00}I'm so\nexcited, {01 00 00 05 00}{04 02 00}!\n{07 0e 00}Who do you think will be the\n{ff 00 00 02}Bright Star{ff 00 00 00} this year?\nIt's gotta be me, right?!\n{07 10 00}{0b 03 00}If you help me, {04 1f 00},\nI can't lose!",
-   "et": "{07 14 00}{ff 00 00 03}Säraööd{ff 00 00 00} on juba\nalanud! {01 00 00 05 00}Ma olen nii\nelevil, {01 00 00 05 00}{04 02 00}!\n{07 0e 00}Kes sinu arust saab sel\naastal {ff 00 00 02}säratäheks{ff 00 00 00}?\nSee peab olema mina, eks?!\n{07 10 00}{0b 03 00}Kui sa mind aitad, {04 1f 00},\nei saa ma kaotada!"
+   "et": "{07 14 00}{ff 00 00 03}Valgusööd{ff 00 00 00} on juba\nalanud! {01 00 00 05 00}Ma olen nii\nelevil, {01 00 00 05 00}{04 02 00}!\n{07 0e 00}Kes sinu arust saab sel\naastal {ff 00 00 02}säratäheks{ff 00 00 00}?\nSee peab olema mina, eks?!\n{07 10 00}{0b 03 00}Kui sa mind aitad, {04 1f 00},\nei saa ma kaotada!"
   },
   {
    "id": 5,
@@ -44,12 +44,12 @@
   {
    "id": 8,
    "en": "{07 06 00}What a pile of peanut\nbutter! {01 00 00 05 00}I didn't win the\ncontest!\n{07 0f 00}I guess I'll never beat\n{ff 00 00 06}{04 0f 00}{ff 00 00 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.",
-   "et": "{07 06 00}Milline maapähklivõi\nhunnik! {01 00 00 05 00}Ma ei võitnud\nvõistlust!\n{07 0f 00}Ma vist ei võida kunagi\n{ff 00 00 06}{04 0f 00}t{ff 00 00 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}."
+   "et": "{07 06 00}Milline maapähklivõi\nhunnik! {01 00 00 05 00}Ma ei võitnud\nvõistlust!\n{07 0f 00}Ma vist ei võida kunagi\n{ff 00 00 06}{04 0f 00}{ff 00 00 00}-nimelist{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}."
   },
   {
    "id": 9,
    "en": "{07 16 00}Thanks to {ff 00 00 06}{04 0f 00}{ff 00 00 00},{01 00 00 05 00}\nI'm not the {ff 00 00 02}Bright Star{ff 00 00 00}\nthis year.\n{07 05 00}What's that about?!\n{ff 00 00 06}{04 0f 00} {ff 00 00 00}isn't even that\nbright, {01 00 00 05 00}{04 02 00}!",
-   "et": "{07 16 00}Tänu {ff 00 00 06}{04 0f 00}le{ff 00 00 00},{01 00 00 05 00}\nei ole mina sel aastal\n{ff 00 00 02}säratäht{ff 00 00 00}.\n{07 05 00}Mis lugu see on?!\n{ff 00 00 06}{04 0f 00} {ff 00 00 00}pole isegi nii\nsärav, {01 00 00 05 00}{04 02 00}!"
+   "et": "{07 16 00}Tänu {ff 00 00 06}{04 0f 00}{ff 00 00 00}-nimelisele,{01 00 00 05 00}\nei ole mina sel aastal\n{ff 00 00 02}säratäht{ff 00 00 00}.\n{07 05 00}Mis lugu see on?!\n{ff 00 00 06}{04 0f 00} {ff 00 00 00}pole isegi nii\nsärav, {01 00 00 05 00}{04 02 00}!"
   },
   {
    "id": 10,

@@ -29,12 +29,12 @@
   {
    "id": 5,
    "en": "{09 00 00}{09 08 00}{09 02 00}{07 14 00}I like my {04 11 00}\nserved just the plain old\nnormal way. {01 00 00 05 00}Nothing fancy.{09 09 00}",
-   "et": "{09 00 00}{09 08 00}{09 02 00}{07 14 00}Mulle meeldib {04 11 00}\nserveerituna vanamoodsalt\ntavaliselt. {01 00 00 05 00}Ei midagi peent.{09 09 00}"
+   "et": "{09 00 00}{09 08 00}{09 02 00}{07 14 00}Mulle meeldib {04 11 00}\ntäitsa lihtsalt, vanal hea\ntavalisel moel. {01 00 00 05 00}Ei midagi peent.{09 09 00}"
   },
   {
    "id": 6,
    "en": "{09 00 00}{09 06 00}{09 01 00}{07 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.{07 04 00}{01 02 00}Are you serious?{01 03 00}{09 09 00}",
-   "et": "{09 00 00}{09 06 00}{09 01 00}{07 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.{07 04 00}{01 02 00}Kas sa tõsiselt?{01 03 00}{09 09 00}"
+   "et": "{09 00 00}{09 06 00}{09 01 00}{07 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.{07 04 00}{01 02 00}Kas sa räägid tõsiselt?{01 03 00}{09 09 00}"
   },
   {
    "id": 7,
@@ -79,7 +79,7 @@
   {
    "id": 15,
    "en": "{09 00 00}{09 08 00}{09 02 00}{09 06 00}{07 00 00}No, I totally know what you\nmean. The other day? This\nguy comes up to me{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 16 00}And he starts telling me\nall about his \"secret ninja\ntraining,\" {01 00 00 05 00}{04 02 00}!\n{07 15 00}Like he's ever even SEEN a\nreal ninja! I mean, come ON!\n\n{07 00 00}Is it wrong to want to be,\nlike, totally sane?{07 0b 00} What do\nyou think, {04 1f 00}?{09 01 00}{09 03 00}{09 02 00}{01 00 00 05 00}{09 09 00}{02 00 00 10 16}\nNormal's fine.\nGimme ninjas!",
-   "et": "{09 00 00}{09 08 00}{09 02 00}{09 06 00}{07 00 00}Ei, ma saan täiesti aru,\nmida sa mõtled. Hiljuti tuli\nüks tüüp minu juurde{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 16 00}Ja ta hakkas mulle rääkima\noma „salajasest ninda-\ntreeningust”, {01 00 00 05 00}{04 02 00}!\n{07 15 00}Nagu ta oleks üldse päris\nnindat NÄINUD! Ole nüüd!\n\n{07 00 00}Kas on vale tahta olla\ntäiesti normaalne?{07 0b 00} Mida sa\narvad, {04 1f 00}?{09 01 00}{09 03 00}{09 02 00}{01 00 00 05 00}{09 09 00}{02 00 00 10 16}\nTavaline sobib.\nAnna nindad!"
+   "et": "{09 00 00}{09 08 00}{09 02 00}{09 06 00}{07 00 00}Ei, ma saan täiesti aru,\nmida sa mõtled. Hiljuti tuli\nüks tüüp minu juurde{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 16 00}Ja ta hakkas mulle rääkima\noma „salajasest ninja-\ntreeningust”, {01 00 00 05 00}{04 02 00}!\n{07 15 00}Nagu ta oleks üldse päris\nninjat NÄINUD! Ole nüüd!\n\n{07 00 00}Kas on vale tahta olla\ntäiesti normaalne?{07 0b 00} Mida sa\narvad, {04 1f 00}?{09 01 00}{09 03 00}{09 02 00}{01 00 00 05 00}{09 09 00}{02 00 00 10 16}\nTavaline sobib.\nAnna ninjad!"
   },
   {
    "id": 16,
@@ -109,7 +109,7 @@
   {
    "id": 21,
    "en": "{09 00 00}{09 08 00}{09 02 00}{07 14 00}That's true. We might\ncomplain about being too\nnormal, {01 00 00 05 00}{04 02 00}.{01 00 00 05 00}.{01 00 00 05 00}.\nBut at least we don't have\nto worry about, like, our\nworlds imploding on us.\nI think we should just make\nthe best of our normal,\nninja-free lives.{03 01 00 01}{09 01 00}{03 01 00 01}",
-   "et": "{09 00 00}{09 08 00}{09 02 00}{07 14 00}See on tõsi. Me võime\nnuriseda liiga tavalisuse\nüle, {01 00 00 05 00}{04 02 00}.{01 00 00 05 00}.{01 00 00 05 00}.\nAga vähemalt ei pea me\nmuretsema selle pärast, et\nmeie maailm kokku kukub.\nMa arvan, et me peaksime\nlihtsalt nautima oma\ntavalist, nindavaba elu.{03 01 00 01}{09 01 00}{03 01 00 01}"
+   "et": "{09 00 00}{09 08 00}{09 02 00}{07 14 00}See on tõsi. Me võime\nnuriseda liiga tavalisuse\nüle, {01 00 00 05 00}{04 02 00}.{01 00 00 05 00}.{01 00 00 05 00}.\nAga vähemalt ei pea me\nmuretsema selle pärast, et\nmeie maailm kokku kukub.\nMa arvan, et me peaksime\nlihtsalt nautima oma\ntavalist, ninjavaba elu.{03 01 00 01}{09 01 00}{03 01 00 01}"
   },
   {
    "id": 22,
@@ -129,7 +129,7 @@
   {
    "id": 25,
    "en": "{09 00 00}{09 08 00}{09 02 00}{09 06 00}{07 04 00}Oh, I{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 00 00} I don't know about\nyou, but, um{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.I did sign up\nfor that ninja night school.\nIt sounded pretty exciting.\n.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}{07 16 00}There might still be room\nfor you, {01 00 00 05 00}{04 02 00}!",
-   "et": "{09 00 00}{09 08 00}{09 02 00}{09 06 00}{07 04 00}Oh, ma{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 00 00} Sinu kohta ma\nei tea, aga, ee{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.ma küll\nkirjutasin end nindakooli.\nSee kõlas päris põnevalt.\n.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}{07 16 00}Seal võib sulle veel\nruumi olla, {01 00 00 05 00}{04 02 00}!"
+   "et": "{09 00 00}{09 08 00}{09 02 00}{09 06 00}{07 04 00}Oh, ma{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 00 00} Sinu kohta ma\nei tea, aga, ee{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.ma küll\nkirjutasin end ninjakooli.\nSee kõlas päris põnevalt.\n.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}{07 16 00}Seal võib sulle veel\nruumi olla, {01 00 00 05 00}{04 02 00}!"
   }
  ]
 }

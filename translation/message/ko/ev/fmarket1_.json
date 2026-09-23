@@ -4,7 +4,7 @@
   {
    "id": 0,
    "en": "{07 00 00}I don't know anything about\n{ff 00 00 03}Flea Markets{ff 00 00 00}{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}\n\n{07 1b 00}But leftovers always sound\ngood to me!",
-   "et": "{07 00 00}Ma ei tea {ff 00 00 03}kirbuturgude{ff 00 00 00}\nkohta midagi{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}\n\n{07 1b 00}Aga ülejäägid kõlavad mu\njaoks alati hästi!"
+   "et": "{07 00 00}Ma ei tea {ff 00 00 03}kirbuturgude{ff 00 00 00}\nkohta midagi{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}\n\n{07 1b 00}Aga vanavara kõlab\nmulle alati hästi!"
   },
   {
    "id": 1,
@@ -14,7 +14,7 @@
   {
    "id": 2,
    "en": "{07 16 00}Argggh{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00} I really want\n{04 0b 00}'s{01 00 00 05 00} furniture.\n\n{07 0e 00}See, it doesn't even smell\nall that bad{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.{01 01 00}\n{07 14 00}Right, {01 00 00 05 00}{04 1f 00}?",
-   "et": "{07 16 00}Arrgh{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00} Ma tahan väga\n{04 0b 00}{01 00 00 05 00} mööblit.\n\n{07 0e 00}Näed, see ei haise isegi\nnii hullusti{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.{01 01 00}\n{07 14 00}Eks ole, {01 00 00 05 00}{04 1f 00}?"
+   "et": "{07 16 00}Arrgh{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00} Ma tahan väga\n{04 0b 00}{01 00 00 05 00} mööblit.\n\n{07 0e 00}Näed, see isegi eriti\nei haise{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.{01 01 00}\n{07 14 00}Eks ole, {01 00 00 05 00}{04 1f 00}?"
   },
   {
    "id": 3,

@@ -4,7 +4,7 @@
   {
    "id": 0,
    "en": "{07 04 00}{01 00 00 0a 00}Oh, hey, thanks for taking\ncare of that for me.\n\n{07 14 00}By the way,{01 00 00 14 00} how did\n{ff 00 00 06}{04 10 00} {ff 00 00 00}like the gift?",
-   "et": "{07 04 00}{01 00 00 0a 00}Oi, kuule, aitäh, et sa\nselle minu eest ära tegid.\n\n{07 14 00}Muide,{01 00 00 14 00} kuidas\n{ff 00 00 06}{04 10 00}{ff 00 00 00}le kingitus meeldis?"
+   "et": "{07 04 00}{01 00 00 0a 00}Oi, kuule, aitäh, et sa\nselle minu eest ära tegid.\n\n{07 14 00}Muide,{01 00 00 14 00} kuidas meeldis kingitus\ntüübile nimega {ff 00 00 06}{04 10 00}{ff 00 00 00}?"
   },
   {
    "id": 1,

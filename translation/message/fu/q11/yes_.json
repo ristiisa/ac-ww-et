@@ -4,7 +4,7 @@
   {
    "id": 0,
    "en": "{07 14 00}It's a deal! I don't know\nabout you, but I'm happy\nwith this!\nI get {04 12 00} Bells,\nand you get a nice\n{0b 02 00}{04 1a 00}!",
-   "et": "{07 14 00}Käed löödud! Ma ei tea,\nkuidas sinuga, aga mina\nolen rahul!\nSaan {04 12 00} kellukest\nja sina saad kena\n{0b 02 00}{04 1a 00}!"
+   "et": "{07 14 00}Käed löödud! Ma ei tea,\nkuidas sinuga, aga mina\nolen rahul!\nSaan {04 12 00} kella\nja sina saad kena\n{0b 02 00}{04 1a 00}!"
   },
   {
    "id": 1,
@@ -14,7 +14,7 @@
   {
    "id": 2,
    "en": "{07 00 00}Sure, {04 12 00} Bells?\nYou've got yourself a\ndeal, {01 00 00 05 00}{04 02 00}!\n{07 14 00}I think that's about what I\npaid when I bought that\n{0b 02 00}{04 1a 00}.{01 00 00 05 00}.{01 00 00 05 00}.",
-   "et": "{07 00 00}Muidugi, {04 12 00} kellukest?\nSul on tehing käes,\n{01 00 00 05 00}{04 02 00}!\n{07 14 00}Arvan, et umbes nii palju\nmaksin minagi, kui ostsin\n{0b 02 00}{04 1a 00}.{01 00 00 05 00}.{01 00 00 05 00}."
+   "et": "{07 00 00}Muidugi, {04 12 00} kella?\nSul on tehing käes,\n{01 00 00 05 00}{04 02 00}!\n{07 14 00}Arvan, et umbes nii palju\nmaksin minagi, kui ostsin\n{0b 02 00}{04 1a 00}.{01 00 00 05 00}.{01 00 00 05 00}."
   }
  ]
 }

@@ -119,7 +119,7 @@
   {
    "id": 23,
    "en": "I woke up starving this\nmorning, so I scarfed down\nsome {04 14 00}.\n{07 16 00}Now I've got some onion\nstuck in my back teeth and\nI can't get it out.\nYeah.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 15 00} I can't say no to\n{04 14 00} cooked\nwith{01 00 00 05 00} a bunch of onions!",
-   "et": "Ärkasin täna hommikul\nnäljasena, nii et ahmisin\nalla {04 14 00}.\n{07 16 00}Nüüd on mul sibul\ntagahammaste vahel kinni\nja ma ei saa seda välja.\nJah.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 15 00} Ma ei ütle ei\n{04 14 00}le, mis on\nkeedetud{01 00 00 05 00} hunniku sibulaga!"
+   "et": "Ärkasin täna hommikul\nnäljasena, nii et ahmisin\nalla {04 14 00}.\n{07 16 00}Nüüd on mul sibul\ntagahammaste vahel kinni\nja ma ei saa seda välja.\nJah.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 15 00} Ma ei ütle ei\ntoidule nimega {04 14 00}, mis on\nkeedetud{01 00 00 05 00} hunniku sibulaga!"
   },
   {
    "id": 24,
@@ -129,7 +129,7 @@
   {
    "id": 25,
    "en": "'Round this time of day, {07 0b 00}I\nget an urge to drink some\n{04 12 00}, y'know?\n{07 15 00}I call it my {ff 00 00 02}twilight\n{04 12 00}{ff 00 00 00}. Clever,\nhuh, {01 00 00 05 00}{04 02 00}!",
-   "et": "Sel kellaajal {07 0b 00}tuleb mul\nisu juua natuke\n{04 12 00}, tead?\n{07 15 00}Ma kutsun seda {ff 00 00 02}hämariku\n{04 12 00}{ff 00 00 00}ks. Nutikas,\nmis, {01 00 00 05 00}{04 02 00}!"
+   "et": "Sel kellaajal {07 0b 00}tuleb mul\nisu juua natuke\n{04 12 00}, tead?\n{07 15 00}Ma kutsun seda oma\n{ff 00 00 02}{04 12 00}{ff 00 00 00}-hämarikuks.\nNutikas, mis, {01 00 00 05 00}{04 02 00}!"
   },
   {
    "id": 26,
@@ -149,7 +149,7 @@
   {
    "id": 29,
    "en": "I'm into more exciting food\nthan most people are,\n{01 00 00 05 00}{04 02 00}. In fact...\n{07 14 00}...my dream food would be\n{04 11 00} flavored\nwith {04 14 00}.",
-   "et": "Mind huvitab põnevam toit\nkui enamikku inimesi,\n{01 00 00 05 00}{04 02 00}. Tegelikult...\n{07 14 00}...mu unistuste toit oleks\n{04 11 00} maitsestatud\n{04 14 00}ga."
+   "et": "Mind huvitab põnevam toit\nkui enamikku inimesi,\n{01 00 00 05 00}{04 02 00}. Tegelikult...\n{07 14 00}...mu unistuste toit oleks\n{04 11 00} maitsestatud\ntoiduga nimega {04 14 00}."
   },
   {
    "id": 30,
@@ -174,7 +174,7 @@
   {
    "id": 34,
    "en": "{07 00 00}Why?{01 00 00 05 00} Are you saying I'm\n{07 15 00}hot tempered or\nsomething, {01 00 00 05 00}{04 02 00}?\n{ff 00 00 06}{07 0e 00}Chili Pepper {04 01 00}{ff 00 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 01 00}\n{07 03 00}Oh, man.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} It's almost funny\nhow wrong you always are!",
-   "et": "{07 00 00}Miks?{01 00 00 05 00} Kas sa ütled, et ma\n{07 15 00}olen äkiline või\nmidagi, {01 00 00 05 00}{04 02 00}?\n{ff 00 00 06}{07 0e 00}Tšillipipar {04 01 00}{ff 00 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 01 00}\n{07 03 00}Oh, poiss.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} Peaaegu naljas,\nkui vale sa alati oled!"
+   "et": "{07 00 00}Miks?{01 00 00 05 00} Kas sa ütled, et ma\n{07 15 00}olen äkiline või\nmidagi, {01 00 00 05 00}{04 02 00}?\n{ff 00 00 06}{07 0e 00}Tšillipipar {04 01 00}{ff 00 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 01 00}\n{07 03 00}Oh, poiss.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} Peaaegu naljakas,\nkui väga sa alati eksid!"
   },
   {
    "id": 35,
@@ -184,7 +184,7 @@
   {
    "id": 36,
    "en": "{07 0e 00}Interesting{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0f 00} {07 00 00}But you're so\ncompletely wrong it's not\neven funny, {01 00 00 05 00}{04 02 00}!\n{07 01 00}Ugh! You make me so mad!\n{01 00 00 0a 00}Do you really {01 00 00 14 00}{07 09 00}think that I'm\nthat bland? ",
-   "et": "{07 0e 00}Huvitav{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0f 00} {07 00 00}Aga sa oled nii\ntäiesti vales, et see pole\nisegi naljakas, {01 00 00 05 00}{04 02 00}!\n{07 01 00}Uhh! Sa ajad mu vihaseks!\n{01 00 00 0a 00}Kas sa tõesti {01 00 00 14 00}{07 09 00}arvad, et ma\nolen nii mage? "
+   "et": "{07 0e 00}Huvitav{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0f 00} {07 00 00}Aga sa eksid nii\ntäiesti, et see pole\nisegi naljakas, {01 00 00 05 00}{04 02 00}!\n{07 01 00}Uhh! Sa ajad mu vihaseks!\n{01 00 00 0a 00}Kas sa tõesti {01 00 00 14 00}{07 09 00}arvad, et ma\nolen nii mage? "
   },
   {
    "id": 37,
@@ -259,7 +259,7 @@
   {
    "id": 51,
    "en": "{07 0e 00}Hmm{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} {07 00 00}Your hands do look\nnimble, {01 00 00 05 00}{04 02 00}.\n\n{07 11 00}If you and I teamed up,\nwe could get away with{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 14 00}\n{07 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}No, no, {01 00 00 05 00}never mind.",
-   "et": "{07 0e 00}Hmm{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} {07 00 00}Su käed näevad\nküll väledad, {01 00 00 05 00}{04 02 00}.\n\n{07 11 00}Kui sina ja mina ühineksime,\nsaaksime hakkama{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 14 00}\n{07 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}Ei, ei, {01 00 00 05 00}pole tähtis."
+   "et": "{07 0e 00}Hmm{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} {07 00 00}Su käed näevad\nküll väledad, {01 00 00 05 00}{04 02 00}.\n\n{07 11 00}Kui sina ja mina ühineksime,\nsaaksime millegagi puhtalt{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 14 00}\n{07 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}Ei, ei, {01 00 00 05 00}pole tähtis."
   },
   {
    "id": 52,
@@ -274,7 +274,7 @@
   {
    "id": 54,
    "en": "{07 04 00}What in the--?{01 00 00 14 00} How about\nthat! {07 00 00}I'm impressed,\n{01 00 00 05 00}{04 02 00}!\nI guess you don't need my\nhelp anymore then, huh, \n{01 00 00 05 00}{04 02 00}.\n{07 09 00}It's kinda sad, actually{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 14 00} I\nkinda depended on you\ndepending on me.{03 03 00 01}",
-   "et": "{07 04 00}Mis kur--?{01 00 00 14 00} Vaata aga!\n{07 00 00}Ma olen muljet avaldatud,\n{01 00 00 05 00}{04 02 00}!\nVist ei vaja sa siis enam\nmu abi, mis, \n{01 00 00 05 00}{04 02 00}.\n{07 09 00}See on tegelikult kurb{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 14 00} Ma\nlootsin natuke sellele, et\nsa minust sõltud.{03 03 00 01}"
+   "et": "{07 04 00}Mis kur--?{01 00 00 14 00} Vaata aga!\n{07 00 00}Ma olen lausa vaimustunud,\n{01 00 00 05 00}{04 02 00}!\nVist ei vaja sa siis enam\nmu abi, mis, \n{01 00 00 05 00}{04 02 00}.\n{07 09 00}See on tegelikult kurb{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 14 00} Ma\nlootsin natuke sellele, et\nsa minust sõltud.{03 03 00 01}"
   },
   {
    "id": 55,
@@ -339,12 +339,12 @@
   {
    "id": 67,
    "en": "{07 14 00}Well, you're wrong, as usual!{01 00 00 14 00}\n{07 00 00}Sure, {04 0c 00} and I are\nlike oil and water, but...\n{07 14 00}...all my other relationships{01 00 00 05 00}\nare like oil and vinegar!\nDelicious, {01 00 00 05 00}{04 02 00}!",
-   "et": "{07 14 00}Noh, sul on jälle vale!{01 00 00 14 00}\n{07 00 00}Muidugi, {04 0c 00} ja mina\noleme nagu õli ja vesi...\n{07 14 00}...kõik mu teised suhted{01 00 00 05 00}\non nagu õli ja äädikas!\nMaitsev, {01 00 00 05 00}{04 02 00}!"
+   "et": "{07 14 00}Noh, sa eksid jälle!{01 00 00 14 00}\n{07 00 00}Muidugi, {04 0c 00} ja mina\noleme nagu õli ja vesi...\n{07 14 00}...kõik mu teised suhted{01 00 00 05 00}\non nagu õli ja äädikas!\nMaitsev, {01 00 00 05 00}{04 02 00}!"
   },
   {
    "id": 68,
    "en": "{07 00 00}Yeah, {01 00 00 05 00}when you see\n{04 0b 00},{01 00 00 05 00} {07 15 00}don't you\nwanna do something?",
-   "et": "{07 00 00}Jah, {01 00 00 05 00}kui sa näed\n{04 0b 00}i,{01 00 00 05 00} {07 15 00}kas sa ei\ntaha midagi teha?"
+   "et": "{07 00 00}Jah, {01 00 00 05 00}kui sa näed\nteda, {04 0b 00},{01 00 00 05 00} {07 15 00}kas sa ei\ntaha midagi teha?"
   },
   {
    "id": 69,
@@ -419,7 +419,7 @@
   {
    "id": 83,
    "en": "{07 00 00}You ever seen those {07 0b 00}\"{ff 00 00 02}Notes\nto Self{ff 00 00 00}\" on the town\n{ff 00 00 08}bulletin board{ff 00 00 00}?\n{07 19 00}I'll bet that's the handiwork\nof {04 0c 00}. Yeah, I'm\nsure of it, {01 00 00 05 00}{04 02 00}.\n{07 15 00}Did you know you can change\nthe words of a message?{01 00 00 14 00}{07 00 00}\nJust saying.",
-   "et": "{07 00 00}Kas oled näinud {07 0b 00}„{ff 00 00 02}Märkmeid\nendale{ff 00 00 00}” linna\n{ff 00 00 08}teadetetahvlil{ff 00 00 00}?\n{07 19 00}Vean kihla, et see on\n{04 0c 00}i käetöö. Jah, ma\nolen kindel, {01 00 00 05 00}{04 02 00}.\n{07 15 00}Kas sa teadsid, et sõnumi\nsõnu saab muuta?{01 00 00 14 00}{07 00 00}\nNiisama ütlen."
+   "et": "{07 00 00}Kas oled näinud {07 0b 00}„{ff 00 00 02}Märkmeid\nendale{ff 00 00 00}” linna\n{ff 00 00 08}teadetetahvlil{ff 00 00 00}?\n{07 19 00}Vean kihla, et selle\non teinud {04 0c 00}. Jah, ma\nolen kindel, {01 00 00 05 00}{04 02 00}.\n{07 15 00}Kas sa teadsid, et sõnumi\nsõnu saab muuta?{01 00 00 14 00}{07 00 00}\nNiisama ütlen."
   },
   {
    "id": 84,

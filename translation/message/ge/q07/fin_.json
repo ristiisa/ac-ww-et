@@ -4,12 +4,12 @@
   {
    "id": 0,
    "en": "{07 03 00}Oh, that {ff 00 00 06}{04 0f 00}{ff 00 00 00} hasn't\nchanged a bit, {01 00 00 05 00}{04 02 00}!\n\n{07 14 00}OK then, don't forget to\nsay hi to old {ff 00 00 06}{04 0f 00}{ff 00 00 00}\nfor me!",
-   "et": "{07 03 00}Oh, see {ff 00 00 06}{04 0f 00}{ff 00 00 00} pole\nüldse muutunud, {01 00 00 05 00}{04 02 00}!\n\n{07 14 00}Olgu siis, ära unusta\nvana {ff 00 00 06}{04 0f 00}{ff 00 00 00}t\nminu poolt tervitada!"
+   "et": "{07 03 00}Oh, see {ff 00 00 06}{04 0f 00}{ff 00 00 00} pole\nüldse muutunud, {01 00 00 05 00}{04 02 00}!\n\n{07 14 00}Olgu siis, ära unusta\ntervitada vana {ff 00 00 06}{04 0f 00}{ff 00 00 00}\nminu poolt!"
   },
   {
    "id": 1,
    "en": "{07 14 00}Good to see that wild\nchild's doing A-OK,{01 00 00 05 00}\n{04 02 00}!\n{07 0d 00}{0b 03 00}{04 1f 00}, if you don't\nmind, {01 00 00 05 00}tell {ff 00 00 06}{04 0f 00}{ff 00 00 00} I\nsaid hi. {01 00 00 05 00}I appreciate it!",
-   "et": "{07 14 00}Hea näha, et see metsik\nlaps on korras,{01 00 00 05 00}\n{04 02 00}!\n{07 0d 00}{0b 03 00}{04 1f 00}, kui sa ei\npahanda, {01 00 00 05 00}ütle {ff 00 00 06}{04 0f 00}{ff 00 00 00}le\ntervitusi. {01 00 00 05 00}Ma hindan seda!"
+   "et": "{07 14 00}Hea näha, et see metsik\nlaps on korras,{01 00 00 05 00}\n{04 02 00}!\n{07 0d 00}{0b 03 00}{04 1f 00}, kui sa ei\npahanda, {01 00 00 05 00}ütle talle, {ff 00 00 06}{04 0f 00}{ff 00 00 00},\ntervitusi. {01 00 00 05 00}Ma hindan seda!"
   },
   {
    "id": 2,

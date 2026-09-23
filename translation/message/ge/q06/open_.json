@@ -4,7 +4,7 @@
   {
    "id": 0,
    "en": "{07 00 00}.{01 00 00 0a 00}.{01 00 00 0a 00}.{01 00 00 0a 00}Huh?{01 00 00 0a 00} Hey, uh, hello?{01 00 00 05 00}\n{07 15 00}Excuse me, isn't this box\nalready opened?\n{07 16 00}It was a present for\n{ff 00 00 06}{04 10 00}{ff 00 00 00}, y'know!\n\n{07 15 00}If you wanted one too,\nall you had to do was ask!{01 00 00 05 00}\nGOSH, {01 00 00 05 00}{04 02 00}!{03 02 00 01}",
-   "et": "{07 00 00}.{01 00 00 0a 00}.{01 00 00 0a 00}.{01 00 00 0a 00}Ah?{01 00 00 0a 00} Kuule, öö, halloo?{01 00 00 05 00}\n{07 15 00}Vabandust, kas see karp\npole juba lahti tehtud?\n{07 16 00}See oli kingitus\n{ff 00 00 06}{04 10 00}{ff 00 00 00}le, tead!\n\n{07 15 00}Kui sina ka üht tahtsid,\npidid sa lihtsalt küsima!{01 00 00 05 00}\nHELDEKE, {01 00 00 05 00}{04 02 00}!{03 02 00 01}"
+   "et": "{07 00 00}.{01 00 00 0a 00}.{01 00 00 0a 00}.{01 00 00 0a 00}Ah?{01 00 00 0a 00} Kuule, öö, halloo?{01 00 00 05 00}\n{07 15 00}Vabandust, kas see karp\npole juba lahti tehtud?\n{07 16 00}See oli kingitus\ntalle, {ff 00 00 06}{04 10 00}{ff 00 00 00}, tead!\n\n{07 15 00}Kui sina ka üht tahtsid,\npidid sa lihtsalt küsima!{01 00 00 05 00}\nHELDEKE, {01 00 00 05 00}{04 02 00}!{03 02 00 01}"
   },
   {
    "id": 1,
@@ -14,7 +14,7 @@
   {
    "id": 2,
    "en": "{07 0e 00}Hey, {01 00 00 05 00}that thing you're\ntoting around{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n\n{07 02 00}AIIIIGH!{01 00 00 0a 00} That's the item I\nbought! {01 00 00 05 00}How COULD you?!\n\n{07 05 00}What am I supposed to tell\n{ff 00 00 06}{04 10 00}{ff 00 00 00} now?{01 00 00 0a 00} You stink!{01 00 00 05 00}\nYou just stink!{03 02 00 01}",
-   "et": "{07 0e 00}Kuule, {01 00 00 05 00}see asi, mida sa\nringi tassid{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n\n{07 02 00}AIIIIH!{01 00 00 0a 00} See on see ese, mille\nma ostsin! {01 00 00 05 00}Kuidas sa\nVÕISID?! \n{07 05 00}Mida ma nüüd {ff 00 00 06}{04 10 00}{ff 00 00 00}le\nütlen?{01 00 00 0a 00} Sa oled jube!{01 00 00 05 00}\nLihtsalt jube!{03 02 00 01}"
+   "et": "{07 0e 00}Kuule, {01 00 00 05 00}see asi, mida sa\nringi tassid{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n\n{07 02 00}AIIIIH!{01 00 00 0a 00} See on see ese, mille\nma ostsin! {01 00 00 05 00}Kuidas sa\nVÕISID?! \n{07 05 00}Mida ma nüüd talle, {ff 00 00 06}{04 10 00}{ff 00 00 00},\nütlen?{01 00 00 0a 00} Sa oled jube!{01 00 00 05 00}\nLihtsalt jube!{03 02 00 01}"
   }
  ]
 }

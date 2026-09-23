@@ -24,7 +24,7 @@
   {
    "id": 4,
    "en": "{07 14 00}Have you heard about the\n{0b 02 00}{04 1a 00} I\ncaught? It was huge!\n{07 00 00}It was easily {ff 00 00 02}{04 0f 00} mm{ff 00 00 00}\nlong, {01 00 00 05 00}{04 02 00}!",
-   "et": "{07 14 00}Kas sa oled kuulnud\n{0b 02 00}{04 1a 00}-st,\nmille püüdsin? Hiiglaslik!\n{07 00 00}See oli kergelt {ff 00 00 02}{04 0f 00} mm{ff 00 00 00}\npikk, {01 00 00 05 00}{04 02 00}!"
+   "et": "{07 14 00}Kas sa oled kuulnud,\nmillise {0b 02 00}{04 1a 00}\nma püüdsin? Hiiglaslik!\n{07 00 00}See oli lausa {ff 00 00 02}{04 0f 00} mm{ff 00 00 00}\npikk, {01 00 00 05 00}{04 02 00}!"
   },
   {
    "id": 5,
@@ -59,7 +59,7 @@
   {
    "id": 11,
    "en": "{07 14 00}Have you heard? Everyone's\nrunning around, shouting\n\"{04 10 00} is in the lead!\"\n{07 06 00}And with a {ff 00 00 02}{04 0f 00}-mm{ff 00 00 00}\n{0b 02 00}{04 1a 00}! Ew!\nThat gives me the creeps!",
-   "et": "{07 14 00}Kas sa oled kuulnud? Kõik\njooksevad ringi ja hüüavad\n„{04 10 00} juhib!”\n{07 06 00}Ja {ff 00 00 02}{04 0f 00}-mm{ff 00 00 00}\n{0b 02 00}{04 1a 00}ga! Äh!\nMul hakkab kohe paha!"
+   "et": "{07 14 00}Kas sa oled kuulnud? Kõik\njooksevad ringi ja hüüavad\n„{04 10 00} juhib!”\n{07 06 00}Ja {ff 00 00 02}{04 0f 00}-mm{ff 00 00 00}\n{0b 02 00}putukaga nimega {04 1a 00}! Äh!\nMul hakkab kohe paha!"
   },
   {
    "id": 12,

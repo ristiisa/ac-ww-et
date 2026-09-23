@@ -4,7 +4,7 @@
   {
    "id": 0,
    "en": "{07 14 00}{0b 03 00}{01 06 00}Oh, wow! Hey there{01 07 00}!{01 00 00 0a 00}\nIt's {04 1f 00}!\n\n{07 00 00}So,{01 00 00 05 00} right now I'm trying to\nget rid of all my old, lame\njunk.\n{07 0b 00}Saaaay,{01 00 00 05 00} do you want to help\nme recycle some of it?\nC'mon, {01 00 00 05 00}{04 02 00}!{02 00 00 03 07}\nSure!\nNo thanks.",
-   "et": "{07 14 00}{0b 03 00}{01 06 00}Oi vau! Tere{01 07 00}!{01 00 00 0a 00}\nSiin {04 1f 00}!\n\n{07 00 00}Nii,{01 00 00 05 00} ma üritan praegu\nlahti saada kõigest vanast\nläägest kolast.\n{07 0b 00}Kuuule,{01 00 00 05 00} kas aitaksid mul\nosa sellest ringlusse anda?\nNo tule, {01 00 00 05 00}{04 02 00}!{02 00 00 03 07}\nIkka!\nEi, aitäh."
+   "et": "{07 14 00}{0b 03 00}{01 06 00}Oi vau! Tere{01 07 00}!{01 00 00 0a 00}\nSiin {04 1f 00}!\n\n{07 00 00}Nii,{01 00 00 05 00} ma üritan praegu\nlahti saada kõigest vanast\nnõmedast kolast.\n{07 0b 00}Kuuule,{01 00 00 05 00} kas aitaksid mul\nosa sellest ringlusse anda?\nNo tule, {01 00 00 05 00}{04 02 00}!{02 00 00 03 07}\nIkka!\nEi, aitäh."
   },
   {
    "id": 1,
@@ -44,12 +44,12 @@
   {
    "id": 8,
    "en": "{07 16 00}Oh{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} Gee, I thought that\nYOU would be willing to help!{01 00 00 05 00}\nI mean, you, of all people...\n{07 15 00}{0b 03 00}{04 1f 00}, you're just a\nbig meanie! Don't talk to\nme ever again!{03 03 00 01}",
-   "et": "{07 16 00}Oi{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} Ma arvasin, et\njust SINA tahaksid aidata!{01 00 00 05 00}\nJust sina kõigist...\n{07 15 00}{0b 03 00}{04 1f 00}, sa oled lihtsalt\nsuur tigedik! Ära räägi\nminuga enam kunagi!{03 03 00 01}"
+   "et": "{07 16 00}Oi{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} Ma arvasin, et\njust SINA tahaksid aidata!{01 00 00 05 00}\nJust sina kõigist...\n{07 15 00}{0b 03 00}{04 1f 00}, sa oled lihtsalt\nsuur õelake! Ära räägi\nminuga enam kunagi!{03 03 00 01}"
   },
   {
    "id": 9,
    "en": "{07 15 00}What? You big meanie!{01 01 00} You\nwon't help me recycle?{01 00 00 0a 00} You\nHATE the earth!{01 00 00 0a 00} MEANIE!",
-   "et": "{07 15 00}Mis? Sa suur tigedik!{01 01 00} Sa ei\naita mind ringlusega?{01 00 00 0a 00} Sa\nVIHKAD maakera!{01 00 00 0a 00} TIGEDIK!"
+   "et": "{07 15 00}Mis? Sa suur õelake!{01 01 00} Sa ei\naita mind ringlusega?{01 00 00 0a 00} Sa\nVIHKAD maakera!{01 00 00 0a 00} ÕELAKE!"
   },
   {
    "id": 10,

@@ -19,12 +19,12 @@
   {
    "id": 3,
    "en": "{07 04 00}OHMIGOSH!{01 00 00 05 00} {0b 03 00}{04 1f 00}!!{01 00 00 0a 00} {07 14 00}It's\nbeen, like, FOREVER,\n{01 00 00 05 00}{04 02 00}!\n{07 00 00}{07 0b 00}We haven't seen each other\nsince back in\n{ff 00 00 08}{04 10 00}{ff 00 00 00}, right?{07 00 00}\n{07 14 00}Y'know, something about\nthat time just stuck with\nme, so{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}well, here I am!",
-   "et": "{07 04 00}OHJUMAL!{01 00 00 05 00} {0b 03 00}{04 1f 00}!!{01 00 00 0a 00} {07 14 00}Sellest\non, nagu, IGAVIK möödas,\n{01 00 00 05 00}{04 02 00}!\n{07 00 00}{07 0b 00}Me pole teineteist näinud\nsellest ajast, kui olime\n{ff 00 00 08}{04 10 00}{ff 00 00 00}s, eks?{07 00 00}\n{07 14 00}Tead, miski sellest ajast\njäi mulle lihtsalt külge,\nnii et{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}noh, siin ma olen!"
+   "et": "{07 04 00}OHJUMAL!{01 00 00 05 00} {0b 03 00}{04 1f 00}!!{01 00 00 0a 00} {07 14 00}Sellest\non, nagu, IGAVIK möödas,\n{01 00 00 05 00}{04 02 00}!\n{07 00 00}{07 0b 00}Me pole teineteist näinud\nsellest ajast, kui olime\nlinnas nimega {ff 00 00 08}{04 10 00}{ff 00 00 00}, eks?{07 00 00}\n{07 14 00}Tead, miski sellest ajast\njäi mulle lihtsalt külge,\nnii et{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}noh, siin ma olen!"
   },
   {
    "id": 4,
    "en": "{07 0b 00}Oh, wow! Like, hold on!{01 00 00 0f 00}\n{07 04 00}{0b 03 00}{04 1f 00}?{01 00 00 0f 00} {07 02 00}{0b 03 00}{04 1f 00}?!{01 00 00 0f 00}\n{07 1a 00}{0b 03 00}{04 02 00}!!!\n{07 00 00}Ohmigosh, {07 14 00}I just moved here\nfrom {ff 00 00 08}{04 10 00}{ff 00 00 00}! We're\ngonna be best friends!",
-   "et": "{07 0b 00}Oi, vau! Nagu, oota!{01 00 00 0f 00}\n{07 04 00}{0b 03 00}{04 1f 00}?{01 00 00 0f 00} {07 02 00}{0b 03 00}{04 1f 00}?!{01 00 00 0f 00}\n{07 1a 00}{0b 03 00}{04 02 00}!!!\n{07 00 00}Ohjumal, {07 14 00}ma kolisin just\nsiia {ff 00 00 08}{04 10 00}{ff 00 00 00}st! Meist\nsaavad parimad sõbrad!"
+   "et": "{07 0b 00}Oi, vau! Nagu, oota!{01 00 00 0f 00}\n{07 04 00}{0b 03 00}{04 1f 00}?{01 00 00 0f 00} {07 02 00}{0b 03 00}{04 1f 00}?!{01 00 00 0f 00}\n{07 1a 00}{0b 03 00}{04 02 00}!!!\n{07 00 00}Ohjumal, {07 14 00}ma kolisin just\nsiia linnast {ff 00 00 08}{04 10 00}{ff 00 00 00}! Meist\nsaavad parimad sõbrad!"
   },
   {
    "id": 5,

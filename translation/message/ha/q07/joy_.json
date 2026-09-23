@@ -4,17 +4,17 @@
   {
    "id": 0,
    "en": "{07 0b 00}A letter from {ff 00 00 06}{04 0f 00}{ff 00 00 00}?{01 01 00}\n{07 17 00}Heh...{01 00 00 05 00} Well, THAT'S a bit \nawkward, {01 00 00 05 00}{04 02 00}!\n{07 14 00}Well, whatever.{01 00 00 05 00} I'm gonna\ntake a look, {01 00 00 05 00}{04 02 00}!",
-   "et": "{07 0b 00}Kiri {ff 00 00 06}{04 0f 00}{ff 00 00 00}ilt?{01 01 00}\n{07 17 00}Heh...{01 00 00 05 00} Noh, SEE on veidi \nkohmakas, {01 00 00 05 00}{04 02 00}!\n{07 14 00}Noh, ükskõik.{01 00 00 05 00} Ma vaatan\nkorra, {01 00 00 05 00}{04 02 00}!"
+   "et": "{07 0b 00}Kiri {ff 00 00 06}{04 0f 00}{ff 00 00 00} käest?{01 01 00}\n{07 17 00}Heh...{01 00 00 05 00} Noh, SEE on veidi \nkohmakas, {01 00 00 05 00}{04 02 00}!\n{07 14 00}Noh, ükskõik.{01 00 00 05 00} Ma vaatan\nkorra, {01 00 00 05 00}{04 02 00}!"
   },
   {
    "id": 1,
    "en": "{07 04 00}Whoa! {01 00 00 14 00}{07 0b 00}A letter for me?{01 01 00}\n{07 14 00}Oh, from {ff 00 00 06}{04 0f 00}{ff 00 00 00}!\n\n{07 15 00}This could be an urgent\nmuscle emergency!{01 00 00 05 00} I better\nread it now, {01 00 00 05 00}{04 02 00}!",
-   "et": "{07 04 00}Ohoo! {01 00 00 14 00}{07 0b 00}Kiri mulle?{01 01 00}\n{07 14 00}Oh, {ff 00 00 06}{04 0f 00}{ff 00 00 00}ilt!\n\n{07 15 00}See võib olla kiireloomuline\nlihashäda!{01 00 00 05 00} Parem loen\nkohe, {01 00 00 05 00}{04 02 00}!"
+   "et": "{07 04 00}Ohoo! {01 00 00 14 00}{07 0b 00}Kiri mulle?{01 01 00}\n{07 14 00}Oh, {ff 00 00 06}{04 0f 00}{ff 00 00 00} käest!\n\n{07 15 00}See võib olla kiireloomuline\nlihashäda!{01 00 00 05 00} Parem loen\nkohe, {01 00 00 05 00}{04 02 00}!"
   },
   {
    "id": 2,
    "en": "{07 04 00}Oh, {01 00 00 05 00}a letter for me?{01 00 00 0a 00}\n{07 0b 00}From {ff 00 00 06}{04 0f 00}{ff 00 00 00}?\n\n{07 14 00}I wonder what it says?!{01 00 00 14 00}\nLemme check it out,\n{01 00 00 05 00}{04 02 00}!",
-   "et": "{07 04 00}Oh, {01 00 00 05 00}kiri mulle?{01 00 00 0a 00}\n{07 0b 00}{ff 00 00 06}{04 0f 00}{ff 00 00 00}ilt?\n\n{07 14 00}Huvitav, mis seal kirjas?!{01 00 00 14 00}\nLas ma vaatan,\n{01 00 00 05 00}{04 02 00}!"
+   "et": "{07 04 00}Oh, {01 00 00 05 00}kiri mulle?{01 00 00 0a 00}\n{07 0b 00}{ff 00 00 06}{04 0f 00}{ff 00 00 00} käest?\n\n{07 14 00}Huvitav, mis seal kirjas?!{01 00 00 14 00}\nLas ma vaatan,\n{01 00 00 05 00}{04 02 00}!"
   }
  ]
 }

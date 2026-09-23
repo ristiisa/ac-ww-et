@@ -4,12 +4,12 @@
   {
    "id": 0,
    "en": "{09 02 00}{09 03 00}{09 01 00}{09 04 00}Whoa, hey {01 00 00 05 00}{04 1f 00}!\n\n\n{07 14 00}I was just talking wrasslin'\nwith {ff 00 00 06}{04 10 00}{ff 00 00 00},\n{01 00 00 05 00}{04 02 00}! {09 09 00}",
-   "et": "{09 02 00}{09 03 00}{09 01 00}{09 04 00}Ohoo, hei {01 00 00 05 00}{04 1f 00}!\n\n\n{07 14 00}Ma just rääkisin maadlusest\n{ff 00 00 06}{04 10 00}{ff 00 00 00}ga,\n{01 00 00 05 00}{04 02 00}! {09 09 00}"
+   "et": "{09 02 00}{09 03 00}{09 01 00}{09 04 00}Ohoo, hei {01 00 00 05 00}{04 1f 00}!\n\n\n{07 14 00}Ma just rääkisin maadlusest\ntüübiga nimega {ff 00 00 06}{04 10 00}{ff 00 00 00},\n{01 00 00 05 00}{04 02 00}! {09 09 00}"
   },
   {
    "id": 1,
    "en": "{09 01 00}{09 08 00}Someday, {01 00 00 05 00}I'm gonna fill\na pool with\n{04 11 00}!\n{07 0d 00}Then I'm gonna swim laps\nin it while I drink,\n{01 00 00 05 00}{04 02 00}!{09 09 00}",
-   "et": "{09 01 00}{09 08 00}Kunagi{01 00 00 05 00} täidan ma\nbasseini ainega\n{04 11 00}!\n{07 0d 00}Siis ujun ma seal ringe\nja joon samal ajal,\n{01 00 00 05 00}{04 02 00}!{09 09 00}"
+   "et": "{09 01 00}{09 08 00}Kunagi{01 00 00 05 00} täidan ma\nbasseini ainega nimega\n{04 11 00}!\n{07 0d 00}Siis ujun ma seal ringe\nja joon samal ajal,\n{01 00 00 05 00}{04 02 00}!{09 09 00}"
   },
   {
    "id": 2,
@@ -19,7 +19,7 @@
   {
    "id": 3,
    "en": "{09 00 00}{09 08 00}{09 02 00}{09 04 00}Yeah, totally. Wrestling is\nawesome!\n\n{07 0d 00}The best part is the music!\nThat thumping beat is\npretty groovy, {01 00 00 05 00}{04 02 00}.{09 09 00}",
-   "et": "{09 00 00}{09 08 00}{09 02 00}{09 04 00}Jah, täiesti. Maadlus on\nvinge!\n\n{07 0d 00}Parim osa on muusika!\nSee põrisev biit on päris\ngroovy, {01 00 00 05 00}{04 02 00}.{09 09 00}"
+   "et": "{09 00 00}{09 08 00}{09 02 00}{09 04 00}Jah, täiesti. Maadlus on\nvinge!\n\n{07 0d 00}Parim osa on muusika!\nSee põrisev biit on päris\ntuus, {01 00 00 05 00}{04 02 00}.{09 09 00}"
   },
   {
    "id": 4,
@@ -29,7 +29,7 @@
   {
    "id": 5,
    "en": "{09 00 00}{09 08 00}{09 02 00}{07 14 00}Beefed-up muscles!{01 00 00 0a 00}\nOver-the-top action!\nSupersized spandex!\n{07 13 00}And I totally dig those\nlegwarmers, {01 00 00 05 00}{04 02 00}!{09 09 00}",
-   "et": "{09 00 00}{09 08 00}{09 02 00}{07 14 00}Punnis lihased!{01 00 00 0a 00}\nÜle vindi keeratud action!\nÜlisuur spandeks!\n{07 13 00}Ja mulle meeldivad need\nsäärised, {01 00 00 05 00}{04 02 00}!{09 09 00}"
+   "et": "{09 00 00}{09 08 00}{09 02 00}{07 14 00}Punnis lihased!{01 00 00 0a 00}\nÜle vindi keeratud märul!\nÜlisuur spandeks!\n{07 13 00}Ja mulle meeldivad need\nsäärised, {01 00 00 05 00}{04 02 00}!{09 09 00}"
   },
   {
    "id": 6,
@@ -39,7 +39,7 @@
   {
    "id": 7,
    "en": "{07 00 00}{09 00 00}{09 08 00}{09 02 00}{07 1d 00}Huh?{01 00 00 0a 00} But I was\nwatching it on{09 06 00}\nTV {0b 03 00}{04 03 00} last night{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{09 09 00}",
-   "et": "{07 00 00}{09 00 00}{09 08 00}{09 02 00}{07 1d 00}Ah?{01 00 00 0a 00} Aga ma vaatasin\nseda eile{09 06 00}\ntelekast {0b 03 00}{04 03 00}s{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{09 09 00}"
+   "et": "{07 00 00}{09 00 00}{09 08 00}{09 02 00}{07 1d 00}Ah?{01 00 00 0a 00} Aga ma vaatasin\nseda eile{09 06 00}\ntelekast {0b 03 00}linnas nimega {04 03 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{09 09 00}"
   },
   {
    "id": 8,
@@ -59,7 +59,7 @@
   {
    "id": 11,
    "en": "{09 00 00}{09 06 00}{09 01 00}{07 15 00}{09 02 00}{07 18 00}{09 01 00}CRÉME BRÛLÉE?!{01 01 00}\nWhat kind of sissitude is\nthat?!\n{07 05 00}It's got to be muscle-\ninflating, protein-infused\n{04 11 00}!\n{09 02 00}{07 00 00}{09 01 00}{07 15 00}Gulping {04 11 00}\nwhile you're swimmin' in it{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\nThat ROCKS, {01 00 00 05 00}{04 02 00}!{09 09 00}",
-   "et": "{09 00 00}{09 06 00}{09 01 00}{07 15 00}{09 02 00}{07 18 00}{09 01 00}CRÉME BRÛLÉE?!{01 01 00}\nMis tobe lipitsemine\nsee on?!\n{07 05 00}See peab olema lihaseid\npaisutav, proteiinirikas\n{04 11 00}!\n{09 02 00}{07 00 00}{09 01 00}{07 15 00}Lürpida {04 11 00}\nsamal ajal, kui seal ujud{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\nSee ROKIB, {01 00 00 05 00}{04 02 00}!{09 09 00}"
+   "et": "{09 00 00}{09 06 00}{09 01 00}{07 15 00}{09 02 00}{07 18 00}{09 01 00}CRÉME BRÛLÉE?!{01 01 00}\nMis tobe kaurust\nsee on?!\n{07 05 00}See peab olema lihaseid\npaisutav, proteiinirikas\n{04 11 00}!\n{09 02 00}{07 00 00}{09 01 00}{07 15 00}Lürpida {04 11 00}\nsamal ajal, kui seal ujud{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\nSee ROKIB, {01 00 00 05 00}{04 02 00}!{09 09 00}"
   },
   {
    "id": 12,

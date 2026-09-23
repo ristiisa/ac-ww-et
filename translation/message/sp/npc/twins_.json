@@ -124,7 +124,7 @@
   {
    "id": 32,
    "en": "Thank you so much!{01 00 00 05 00} {ff 00 00 09}...'uch!{ff 00 00 02}\n{ff 00 00 00}Much appreciated!{ff 00 00 02}\n{ff 00 00 00}\n{07 04 00}Oh!{01 00 00 05 00}{07 00 00} What a shame!{01 00 00 05 00} {ff 00 00 09}...shame!{ff 00 00 02}\n{ff 00 00 00}You're carrying too much\nstuff already!{ff 00 00 02}\n{ff 00 00 00}Please empty your pockets\nand come back!{01 00 00 05 00} {ff 00 00 09}...back!",
-   "et": "Suur aitäh!{01 00 00 05 00} {ff 00 00 09}...aitäh!{ff 00 00 02}\n{ff 00 00 00}Väga hinnatud!{ff 00 00 02}\n{ff 00 00 00}\n{07 04 00}Oh!{01 00 00 05 00}{07 00 00} Kui kahju!{01 00 00 05 00} {ff 00 00 09}...kahju!{ff 00 00 02}\n{ff 00 00 00}Sa kannad juba liiga\npalju kraami!{ff 00 00 02}\n{ff 00 00 00}Tühjenda taskud ja\ntule tagasi!{01 00 00 05 00} {ff 00 00 09}...tagasi!"
+   "et": "Suur aitäh!{01 00 00 05 00} {ff 00 00 09}...aitäh!{ff 00 00 02}\n{ff 00 00 00}Oleme väga tänulikud!{ff 00 00 02}\n{ff 00 00 00}\n{07 04 00}Oh!{01 00 00 05 00}{07 00 00} Kui kahju!{01 00 00 05 00} {ff 00 00 09}...kahju!{ff 00 00 02}\n{ff 00 00 00}Sa kannad juba liiga\npalju kraami!{ff 00 00 02}\n{ff 00 00 00}Tühjenda taskud ja\ntule tagasi!{01 00 00 05 00} {ff 00 00 09}...tagasi!"
   },
   {
    "id": 33,
@@ -199,7 +199,7 @@
   {
    "id": 87,
    "en": "{07 16 00}Oh no{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00} I'm so very sorry!{01 00 00 05 00}\n{ff 00 00 09}...sorry!{ff 00 00 00}{01 10 00 32}\n\nYes, it seems that closing\ntime has come and gone.\n{01 00 00 05 00}{ff 00 00 09}...gone!{ff 00 00 00}{01 10 00 32}\n{07 06 00}If we don't start closing{01 00 00 05 00}\nup, we'll be in big trouble!{01 00 00 05 00}\n{ff 00 00 09}...trouble!{ff 00 00 00}{01 10 00 32}\n{07 00 00}{07 0b 00}Yes, so would you please\nhelp us out and leave?{01 00 00 05 00}\n{ff 00 00 09}...leave?{ff 00 00 00}{01 10 00 32}\n{07 14 00}We appreciate the business,{01 00 00 05 00}\nand look forward to seeing\nyou tomorrow!{01 00 00 05 00} {ff 00 00 09}...'orrow!{ff 00 00 00}{01 10 00 32}",
-   "et": "{07 16 00}Oh ei{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00} Mul on nii kahju!{01 00 00 05 00}\n{ff 00 00 09}...kahju!{ff 00 00 00}{01 10 00 32}\n\nJah, näib, et sulgemisaeg\non käes ja möödas.\n{01 00 00 05 00}{ff 00 00 09}...möödas!{ff 00 00 00}{01 10 00 32}\n{07 06 00}Kui me ei hakka sulgema,{01 00 00 05 00}\njääme suurde hätta!{01 00 00 05 00}\n{ff 00 00 09}...hätta!{ff 00 00 00}{01 10 00 32}\n{07 00 00}{07 0b 00}Jah, kas sa aitaksid\nmeid ja lahkuksid?{01 00 00 05 00}\n{ff 00 00 09}...lahkuksid?{ff 00 00 00}{01 10 00 32}\n{07 14 00}Hindame sinu äri,{01 00 00 05 00}\nja ootame sind\nhomme jälle!{01 00 00 05 00} {ff 00 00 09}...jälle!{ff 00 00 00}{01 10 00 32}"
+   "et": "{07 16 00}Oh ei{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00} Mul on nii kahju!{01 00 00 05 00}\n{ff 00 00 09}...kahju!{ff 00 00 00}{01 10 00 32}\n\nJah, näib, et sulgemisaeg\non käes ja möödas.\n{01 00 00 05 00}{ff 00 00 09}...möödas!{ff 00 00 00}{01 10 00 32}\n{07 06 00}Kui me ei hakka sulgema,{01 00 00 05 00}\njääme suurde hätta!{01 00 00 05 00}\n{ff 00 00 09}...hätta!{ff 00 00 00}{01 10 00 32}\n{07 00 00}{07 0b 00}Jah, kas sa aitaksid\nmeid ja lahkuksid?{01 00 00 05 00}\n{ff 00 00 09}...lahkuksid?{ff 00 00 00}{01 10 00 32}\n{07 14 00}Aitäh ostu eest,{01 00 00 05 00}\nja ootame sind\nhomme jälle!{01 00 00 05 00} {ff 00 00 09}...jälle!{ff 00 00 00}{01 10 00 32}"
   },
   {
    "id": 88,

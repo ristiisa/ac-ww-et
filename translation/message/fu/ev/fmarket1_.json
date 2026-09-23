@@ -9,7 +9,7 @@
   {
    "id": 1,
    "en": "{07 14 00}Didja go to {04 0b 00}'s\nhouse? There's some nice\nstuff there.\nYou {01 00 00 05 00}do know that the {ff 00 00 03}Flea\nMarket{ff 00 00 00} is today, right?\n\n{07 16 00}Well, you're wasting time!\nQuick! Check out everyone's\nhouse and buy their stuff!",
-   "et": "{07 14 00}Kas sa käisid {04 0b 00}i\nmajas? Seal on kena\nkraami.\nSa {01 00 00 05 00}tead ju, et täna on\n{ff 00 00 03}kirbuturg{ff 00 00 00}, eks?\n\n{07 16 00}Noh, sa raiskad aega!\nKiiresti! Vaata kõigi maju\nja osta nende kraami!"
+   "et": "{07 14 00}Kas sa käisid tema, {04 0b 00},\nmajas? Seal on kena\nkraami.\nSa {01 00 00 05 00}tead ju, et täna on\n{ff 00 00 03}kirbuturg{ff 00 00 00}, eks?\n\n{07 16 00}Noh, sa raiskad aega!\nKiiresti! Vaata kõigi maju\nja osta nende kraami!"
   },
   {
    "id": 2,
@@ -19,7 +19,7 @@
   {
    "id": 3,
    "en": "{07 00 00}You know, {04 1f 00},{01 00 00 0a 00} it IS\ngood to visit other people's\nhouses, but{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\nYou should know that\nsomeone might be waiting\nto visit your house, too.",
-   "et": "{07 00 00}Tead, {04 1f 00},{01 00 00 0a 00} on hea\nkülastada teiste inimeste\nmaju, aga{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\nSa peaksid teadma, et\nkeegi võib oodata, et\nkülastada ka sinu maja."
+   "et": "{07 00 00}Tead, {04 1f 00},{01 00 00 0a 00} on hea\nkülastada teiste inimeste\nmaju, aga{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\nSa peaksid teadma, et\nkeegi võib oodata võimalust\nka sinu maja külastada."
   },
   {
    "id": 4,
@@ -29,7 +29,7 @@
   {
    "id": 5,
    "en": "{07 00 00}I love the {ff 00 00 03}Flea Market{ff 00 00 00},{01 00 00 0a 00}\n{07 16 00}but how can I shop properly\nwhen everyone's outside?\n{07 0e 00}{0b 03 00}{04 1f 00}, I want to shop\nat your house, but you're\nnot there{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 05 00}{04 02 00}.",
-   "et": "{07 00 00}Ma armastan {ff 00 00 03}kirbuturgu{ff 00 00 00},{01 00 00 0a 00}\n{07 16 00}aga kuidas ma saan\nostelda, kui kõik on väljas?\n{07 0e 00}{0b 03 00}{04 1f 00}, ma tahan sinu\nmajas ostelda, aga sa pole\nseal{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 05 00}{04 02 00}."
+   "et": "{07 00 00}Ma armastan {ff 00 00 03}kirbuturgu{ff 00 00 00},{01 00 00 0a 00}\n{07 16 00}aga kuidas ma saan\nostlema, kui kõik on väljas?\n{07 0e 00}{0b 03 00}{04 1f 00}, ma tahan sinu\nmajas ostlema, aga sa pole\nseal{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 05 00}{04 02 00}."
   }
  ]
 }

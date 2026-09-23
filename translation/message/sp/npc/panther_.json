@@ -134,12 +134,12 @@
   {
    "id": 26,
    "en": "The cards have spoken.{01 00 00 0a 00}\nIt is the {ff 00 00 07}BIRD symbol{ff 00 00 00},\nin its {ff 00 00 07}natural{ff 00 00 00} state.\n{ff 00 00 02}A red-eyed cat chases a\nrare butterfly...\n\n...only to find herself in an\nunknown land.\n\nThe curiosity of a cat is\ninfamous, infinite, and\nutterly relentless.",
-   "et": "Kaardid on kõnelenud.{01 00 00 0a 00}\nSee on {ff 00 00 07}LINNU sümbol{ff 00 00 00},\n{ff 00 00 07}natural{ff 00 00 00} asendis.\n{ff 00 00 02}Punasilmne kass jälitab\nharuldast liblikat...\n\n...ja leiab end lõpuks\ntundmatult maalt.\n\nKassi uudishimu on kuulus,\nlõputu ja täiesti\ntalitsematu."
+   "et": "Kaardid on kõnelenud.{01 00 00 0a 00}\nSee on {ff 00 00 07}LINNU sümbol{ff 00 00 00},\n{ff 00 00 07}püstises{ff 00 00 00} asendis.\n{ff 00 00 02}Punasilmne kass jälitab\nharuldast liblikat...\n\n...ja leiab end lõpuks\ntundmatult maalt.\n\nKassi uudishimu on kuulus,\nlõputu ja täiesti\npidamatu."
   },
   {
    "id": 27,
    "en": "The cards have spoken.{01 00 00 0a 00}\nIt is the {ff 00 00 07}BIRD{ff 00 00 00} {ff 00 00 07}symbol{ff 00 00 00}, \nin its {ff 00 00 07}natural{ff 00 00 00} state.\n{ff 00 00 02}A large-eyed feline is\nenjoying a chat on her\ntelephone...\nThe number she dialed was\nnaught but a series of\nrandom button-presses...\nStill, to make fast friends\nof strangers is one of a\nfeline's many charms.",
-   "et": "Kaardid on kõnelenud.{01 00 00 0a 00}\nSee on {ff 00 00 07}LINNU{ff 00 00 00} {ff 00 00 07}sümbol{ff 00 00 00}, \n{ff 00 00 07}natural{ff 00 00 00} asendis.\n{ff 00 00 02}Suursilmne kaslane\nnaudib vestlust oma\ntelefonis...\nNumber, mille ta valis,\npolnud muud kui juhuslik\nnuppude vajutamine...\nSiiski, võõrastest kiirelt\nsõprade tegemine on üks\nkaslase paljudest võludest."
+   "et": "Kaardid on kõnelenud.{01 00 00 0a 00}\nSee on {ff 00 00 07}LINNU{ff 00 00 00} {ff 00 00 07}sümbol{ff 00 00 00}, \n{ff 00 00 07}püstises{ff 00 00 00} asendis.\n{ff 00 00 02}Suursilmne kaslane\nnaudib vestlust oma\ntelefonis...\nNumber, mille ta valis,\npolnud muud kui juhuslik\nnuppude vajutamine...\nSiiski, võõrastega kiiresti\nsõpru siduda on üks\nkaslase paljudest võludest."
   },
   {
    "id": 28,
@@ -169,7 +169,7 @@
   {
    "id": 33,
    "en": "The cards have spoken.{01 00 00 0a 00}\nIt is the {ff 00 00 07}BREAD symbol{ff 00 00 00},\nin its {ff 00 00 07}natural {ff 00 00 00}state. \n{ff 00 00 02}After eating a meal, a\nwild boar reclines in a\nfield of flowers.\nThere is nothing dangerous \nto disturb the boar...\n\nThe creatures here are full\nof happiness...and boredom.",
-   "et": "Kaardid on kõnelenud.{01 00 00 0a 00}\nSee on {ff 00 00 07}LEIVA sümbol{ff 00 00 00},\n{ff 00 00 07}püstises {ff 00 00 00}asendis. \n{ff 00 00 02}Pärast sööki heidab\nmetssiga lillede\nväljale.\nPole midagi ohtlikku, \nmis siga häiriks...\n\nSiinsed olendid on täis\nõnne...ja igavust."
+   "et": "Kaardid on kõnelenud.{01 00 00 0a 00}\nSee on {ff 00 00 07}LEIVA sümbol{ff 00 00 00},\n{ff 00 00 07}püstises {ff 00 00 00}asendis. \n{ff 00 00 02}Pärast sööki heitub\nmetssiga lillede\nväljale.\nPole midagi ohtlikku, \nmis siga häiriks...\n\nSiinsed olendid on täis\nõnne...ja igavust."
   },
   {
    "id": 34,
@@ -359,7 +359,7 @@
   {
    "id": 71,
    "en": "The cards have spoken.{01 00 00 0a 00}\nIt is the {ff 00 00 07}BIRD symbol{ff 00 00 00},\nin its {ff 00 00 07}inverted {ff 00 00 00}state. \n{ff 00 00 02}A cat in a red sweater\nwalks a tightrope...\n\nLight on its feet, it can\nwalk the rope with ease...\n\nHowever, the wind is\nstarting to blow stronger{01 00 00 05 00}\nand stronger... ",
-   "et": "Kaardid on kõnelenud.{01 00 00 0a 00}\nSee on {ff 00 00 07}LINNU sümbol{ff 00 00 00},\n{ff 00 00 07}pööratud {ff 00 00 00}asendis. \n{ff 00 00 02}Punases kampsunis kass\nkõnnib mööda nöörijuppi...\n\nKerge jalaga suudab ta\nnööril kergesti kõndida...\n\nKuid tuul hakkab puhuma\naina tugevamalt{01 00 00 05 00}\nja tugevamalt... "
+   "et": "Kaardid on kõnelenud.{01 00 00 0a 00}\nSee on {ff 00 00 07}LINNU sümbol{ff 00 00 00},\n{ff 00 00 07}pööratud {ff 00 00 00}asendis. \n{ff 00 00 02}Punases kampsunis kass\nkõnnib pingul köiel...\n\nKerge jalaga suudab ta\nköiel kergesti kõndida...\n\nKuid tuul hakkab puhuma\naina tugevamalt{01 00 00 05 00}\nja tugevamalt... "
   },
   {
    "id": 72,
@@ -414,7 +414,7 @@
   {
    "id": 82,
    "en": "The cards have spoken.{01 00 00 0a 00}\nIt is the {ff 00 00 07}MUSIC symbol{ff 00 00 00},\nin its {ff 00 00 07}inverted {ff 00 00 00}state. \n{ff 00 00 02}A white dog holds a guitar\nand plays a strange tune...\n\nHe shares visions of cake\nwith a girl on a diet...\n\nThe song and vision are\nsweet, bitter, and melodic...\n\nBefore you know it, you too\nare enveloped.",
-   "et": "Kaardid on kõnelenud.{01 00 00 0a 00}\nSee on {ff 00 00 07}MUUSIKA sümbol{ff 00 00 00},\n{ff 00 00 07}pööratud {ff 00 00 00}asendis. \n{ff 00 00 02}Valge koer hoiab kitarri\nja mängib veidrat viisi...\n\nTa jagab koogivisioone\ndieedil oleva tüdrukuga...\n\nLaul ja visioon on\nmagusad ja meloodilised...\n\nEnne kui arugi saad, oled\nka sina haaratud."
+   "et": "Kaardid on kõnelenud.{01 00 00 0a 00}\nSee on {ff 00 00 07}MUUSIKA sümbol{ff 00 00 00},\n{ff 00 00 07}pööratud {ff 00 00 00}asendis. \n{ff 00 00 02}Valge koer hoiab kitarri\nja mängib veidrat viisi...\n\nTa jagab koogivisioone\ndieedil oleva tüdrukuga...\n\nLaul ja visioon on magusad,\nkibedad ja meloodilised...\n\nEnne kui arugi saad, oled\nka sina haaratud."
   },
   {
    "id": 83,
@@ -434,7 +434,7 @@
   {
    "id": 86,
    "en": "The cards have spoken.{01 00 00 0a 00}\nIt is the {ff 00 00 07}LAKE symbol{ff 00 00 00},\nin its {ff 00 00 07}inverted {ff 00 00 00}state. \n{ff 00 00 02}A turtle wearing a silk hat\nchallenges a cyclone to\na battle...\nAs one might expect, the\nsilk hat is promptly blown\nfar, far away...\nThe turtle is battered by\nthe agony of defeat.",
-   "et": "Kaardid on kõnelenud.{01 00 00 0a 00}\nSee on {ff 00 00 07}JÄRVE sümbol{ff 00 00 00},\n{ff 00 00 07}pööratud {ff 00 00 00}asendis. \n{ff 00 00 02}Siidkübaraga kilpkonn\nkutsub tsükloni\nvõitlusele...\nNagu arvata võib, puhutakse\nsiidkübar kohe\nkaugele-kaugele...\nKilpkonna räsib\nkaotusvalu."
+   "et": "Kaardid on kõnelenud.{01 00 00 0a 00}\nSee on {ff 00 00 07}JÄRVE sümbol{ff 00 00 00},\n{ff 00 00 07}pööratud {ff 00 00 00}asendis. \n{ff 00 00 02}Siidkübaraga kilpkonn\nkutsub tsükloni\nvõitlusele...\nNagu arvata võib, puhutakse\nsiidkübar kohe\nkaugele-kaugele...\nKilpkonda räsib\nkaotusvalu."
   },
   {
    "id": 87,
@@ -564,7 +564,7 @@
   {
    "id": 112,
    "en": "The cards have spoken.{01 00 00 0a 00}\nIt is the {ff 00 00 07}SPACE symbol{ff 00 00 00},\nin its {ff 00 00 07}inverted {ff 00 00 00}state. {ff 00 00 02}\nA laid-back kid chats with\nhis self-centered friends...\n\nFor better or for worse,\neventually the kid, too...\n\n...will become just as\nself-centered as his\nfriends are.",
-   "et": "Kaardid on kõnelenud.{01 00 00 0a 00}\nSee on {ff 00 00 07}KOSMOSE sümbol{ff 00 00 00},\n{ff 00 00 07}pööratud {ff 00 00 00}asendis. {ff 00 00 02}\nMuretu poiss vestleb oma\nenesekeskste sõpradega...\n\nParemal või halvemal juhul\nsaab lõpuks ka poisist...\n\n...sama enesekeskne\nnagu tema\nsõbrad."
+   "et": "Kaardid on kõnelenud.{01 00 00 0a 00}\nSee on {ff 00 00 07}KOSMOSE sümbol{ff 00 00 00},\n{ff 00 00 07}pööratud {ff 00 00 00}asendis. {ff 00 00 02}\nMuretu poiss vestleb oma\nenesekesksete sõpradega...\n\nParemal või halvemal juhul\nsaab lõpuks ka poisist...\n\n...sama enesekeskne\nnagu tema\nsõbrad."
   },
   {
    "id": 113,
@@ -579,7 +579,7 @@
   {
    "id": 115,
    "en": "Yessss...{01 00 00 0a 00} Very well, we have\n\"{ff 00 00 02}Knowledge{ff 00 00 00},\" \"{ff 00 00 02}Technology{ff 00 00 00},\"\nand \"{ff 00 00 02}Words{ff 00 00 00}\".{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\nSo {01 00 00 05 00}what does this portend?\n\n\n{07 20 00}Perhaps{01 00 00 05 00} it means nothing.{01 00 00 05 00}\nBut it may mean everything.",
-   "et": "Jahhh...{01 00 00 0a 00} Hästi, meil on\n„{ff 00 00 02}Teadmine{ff 00 00 00},” „{ff 00 00 02}Tehnika{ff 00 00 00},”\nand „{ff 00 00 02}Sõnad{ff 00 00 00}”.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\nNiisiis {01 00 00 05 00}mida see ennustab?\n\n\n{07 20 00}Ehk{01 00 00 05 00} ei tähenda see midagi.{01 00 00 05 00}\nAga võib tähendada kõike."
+   "et": "Jahhh...{01 00 00 0a 00} Hästi, meil on\n„{ff 00 00 02}Teadmine{ff 00 00 00},” „{ff 00 00 02}Tehnika{ff 00 00 00},”\nja „{ff 00 00 02}Sõnad{ff 00 00 00}”.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\nNiisiis {01 00 00 05 00}mida see ennustab?\n\n\n{07 20 00}Ehk{01 00 00 05 00} ei tähenda see midagi.{01 00 00 05 00}\nAga võib tähendada kõike."
   },
   {
    "id": 116,
@@ -589,12 +589,12 @@
   {
    "id": 117,
    "en": "Yessss...{01 00 00 0a 00} Very well, we have\n\"{ff 00 00 02}Happiness{ff 00 00 00},\" \"{ff 00 00 02}Fulfillment{ff 00 00 00},\"\nand \"{ff 00 00 02}Welcoming{ff 00 00 00}\".{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\nSo {01 00 00 05 00}what does this portend?\n\n\n{07 20 00}Perhaps{01 00 00 05 00} it means nothing.{01 00 00 05 00}\nBut it may mean everything.",
-   "et": "Jahhh...{01 00 00 0a 00} Hästi, meil on\n„{ff 00 00 02}Õnn{ff 00 00 00},” „{ff 00 00 02}Täitumine{ff 00 00 00},”\nand „{ff 00 00 02}Avasüli{ff 00 00 00}”.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\nNiisiis {01 00 00 05 00}mida see ennustab?\n\n\n{07 20 00}Ehk{01 00 00 05 00} ei tähenda see midagi.{01 00 00 05 00}\nAga võib tähendada kõike."
+   "et": "Jahhh...{01 00 00 0a 00} Hästi, meil on\n„{ff 00 00 02}Õnn{ff 00 00 00},” „{ff 00 00 02}Täitumine{ff 00 00 00},”\nja „{ff 00 00 02}Avasüli{ff 00 00 00}”.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\nNiisiis {01 00 00 05 00}mida see ennustab?\n\n\n{07 20 00}Ehk{01 00 00 05 00} ei tähenda see midagi.{01 00 00 05 00}\nAga võib tähendada kõike."
   },
   {
    "id": 118,
    "en": "Yessss...{01 00 00 0a 00} Very well, we have\n\"{ff 00 00 02}Confidence{ff 00 00 00},\" \"{ff 00 00 02}Rights{ff 00 00 00},\" and \n\"{ff 00 00 02}Realism{ff 00 00 00}\".{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\nSo{01 00 00 05 00} what does this portend?\n\n\n{07 20 00}Perhaps{01 00 00 05 00} it means nothing.{01 00 00 05 00}\nBut it may mean everything.",
-   "et": "Jahhh...{01 00 00 0a 00} Hästi, meil on\n„{ff 00 00 02}Kindlus{ff 00 00 00},” „{ff 00 00 02}Õigused{ff 00 00 00},” ja \n„{ff 00 00 02}Realism{ff 00 00 00}”.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\nNiisiis{01 00 00 05 00} mida see ennustab?\n\n\n{07 20 00}Ehk{01 00 00 05 00} ei tähenda see midagi.{01 00 00 05 00}\nAga võib tähendada kõike."
+   "et": "Jahhh...{01 00 00 0a 00} Hästi, meil on\n„{ff 00 00 02}Enesekindlus{ff 00 00 00},” „{ff 00 00 02}Õigused{ff 00 00 00},” ja \n„{ff 00 00 02}Realism{ff 00 00 00}”.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\nNiisiis{01 00 00 05 00} mida see ennustab?\n\n\n{07 20 00}Ehk{01 00 00 05 00} ei tähenda see midagi.{01 00 00 05 00}\nAga võib tähendada kõike."
   },
   {
    "id": 119,
@@ -639,7 +639,7 @@
   {
    "id": 127,
    "en": "Yessss...{01 00 00 0a 00} Very well, we have\n\"{ff 00 00 02}Change{ff 00 00 00},\" \"{ff 00 00 02}Unknown Things{ff 00 00 00},\"\nand \"{ff 00 00 02}Rebirth{ff 00 00 00}\".{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\nSo{01 00 00 05 00} what does this portend?\n\n\n{07 20 00}Perhaps{01 00 00 05 00} it means nothing.{01 00 00 05 00}\nBut it may mean everything.",
-   "et": "Jahhh...{01 00 00 0a 00} Hästi, meil on\n„{ff 00 00 02}Muutus{ff 00 00 00},” „{ff 00 00 02}Tundmatu{ff 00 00 00},”\nand „{ff 00 00 02}Taassünd{ff 00 00 00}”.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\nNiisiis{01 00 00 05 00} mida see ennustab?\n\n\n{07 20 00}Ehk{01 00 00 05 00} ei tähenda see midagi.{01 00 00 05 00}\nAga võib tähendada kõike."
+   "et": "Jahhh...{01 00 00 0a 00} Hästi, meil on\n„{ff 00 00 02}Muutus{ff 00 00 00},” „{ff 00 00 02}Tundmatu{ff 00 00 00},”\nja „{ff 00 00 02}Taassünd{ff 00 00 00}”.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\nNiisiis{01 00 00 05 00} mida see ennustab?\n\n\n{07 20 00}Ehk{01 00 00 05 00} ei tähenda see midagi.{01 00 00 05 00}\nAga võib tähendada kõike."
   },
   {
    "id": 128,
@@ -654,112 +654,112 @@
   {
    "id": 130,
    "en": "Yessss...{01 00 00 0a 00} Very well, we have\n\"{ff 00 00 02}Trouble{ff 00 00 00},\" \"{ff 00 00 02}Second Chances{ff 00 00 00},\"\nand \"{ff 00 00 02}Treatment{ff 00 00 00}\".{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\nSo{01 00 00 05 00} what does this portend?\n\n\n{07 20 00}Perhaps{01 00 00 05 00} it means nothing.{01 00 00 05 00}\nBut it may mean everything.",
-   "et": "Jahhh...{01 00 00 0a 00} Hästi, meil on\n„{ff 00 00 02}Häda{ff 00 00 00},” „{ff 00 00 02}Teine võimalus{ff 00 00 00},”\nand „{ff 00 00 02}Ravi{ff 00 00 00}”.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\nNiisiis{01 00 00 05 00} mida see ennustab?\n\n\n{07 20 00}Ehk{01 00 00 05 00} ei tähenda see midagi.{01 00 00 05 00}\nAga võib tähendada kõike."
+   "et": "Jahhh...{01 00 00 0a 00} Hästi, meil on\n„{ff 00 00 02}Häda{ff 00 00 00},” „{ff 00 00 02}Teine võimalus{ff 00 00 00},”\nja „{ff 00 00 02}Ravi{ff 00 00 00}”.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\nNiisiis{01 00 00 05 00} mida see ennustab?\n\n\n{07 20 00}Ehk{01 00 00 05 00} ei tähenda see midagi.{01 00 00 05 00}\nAga võib tähendada kõike."
   },
   {
    "id": 131,
    "en": "Yessss...{01 00 00 0a 00} Very well, we have\n\"{ff 00 00 02}Hopes{ff 00 00 00},\" \"{ff 00 00 02}Dreams{ff 00 00 00},\"\nand \"{ff 00 00 02}Aspirations{ff 00 00 00}\".{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\nSo{01 00 00 05 00} what does this portend?\n\n\n{07 20 00}Perhaps{01 00 00 05 00} it means nothing.{01 00 00 05 00}\nBut it may mean everything.",
-   "et": "Jahhh...{01 00 00 0a 00} Hästi, meil on\n„{ff 00 00 02}Lootused{ff 00 00 00},” „{ff 00 00 02}Unistused{ff 00 00 00},”\nand „{ff 00 00 02}Püüdlused{ff 00 00 00}”.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\nNiisiis{01 00 00 05 00} mida see ennustab?\n\n\n{07 20 00}Ehk{01 00 00 05 00} ei tähenda see midagi.{01 00 00 05 00}\nAga võib tähendada kõike."
+   "et": "Jahhh...{01 00 00 0a 00} Hästi, meil on\n„{ff 00 00 02}Lootused{ff 00 00 00},” „{ff 00 00 02}Unistused{ff 00 00 00},”\nja „{ff 00 00 02}Püüdlused{ff 00 00 00}”.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\nNiisiis{01 00 00 05 00} mida see ennustab?\n\n\n{07 20 00}Ehk{01 00 00 05 00} ei tähenda see midagi.{01 00 00 05 00}\nAga võib tähendada kõike."
   },
   {
    "id": 132,
    "en": "Yessss...{01 00 00 0a 00} Very well, we have\n\"{ff 00 00 02}Insecurity{ff 00 00 00},\" \"{ff 00 00 02}Stubbornness{ff 00 00 00},\"\nand \"{ff 00 00 02}Distrust{ff 00 00 00}\".{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\nSo{01 00 00 05 00} what does this portend?\n\n\n{07 20 00}Perhaps{01 00 00 05 00} it means nothing.{01 00 00 05 00}\nBut it may mean everything.",
-   "et": "Jahhh...{01 00 00 0a 00} Hästi, meil on\n„{ff 00 00 02}Ebakindlus{ff 00 00 00},” „{ff 00 00 02}Kangus{ff 00 00 00},”\nand „{ff 00 00 02}Umbusk{ff 00 00 00}”.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\nNiisiis{01 00 00 05 00} mida see ennustab?\n\n\n{07 20 00}Ehk{01 00 00 05 00} ei tähenda see midagi.{01 00 00 05 00}\nAga võib tähendada kõike."
+   "et": "Jahhh...{01 00 00 0a 00} Hästi, meil on\n„{ff 00 00 02}Ebakindlus{ff 00 00 00},” „{ff 00 00 02}Kangekaelsus{ff 00 00 00},”\nja „{ff 00 00 02}Umbusk{ff 00 00 00}”.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\nNiisiis{01 00 00 05 00} mida see ennustab?\n\n\n{07 20 00}Ehk{01 00 00 05 00} ei tähenda see midagi.{01 00 00 05 00}\nAga võib tähendada kõike."
   },
   {
    "id": 133,
    "en": "Yessss...{01 00 00 0a 00} Very well, we have\n\"{ff 00 00 02}Novelty{ff 00 00 00},\" \"{ff 00 00 02}Cuteness{ff 00 00 00},\"\nand \"{ff 00 00 02}Power{ff 00 00 00}\".{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\nSo{01 00 00 05 00} what does this portend?\n\n\n{07 20 00}Perhaps{01 00 00 05 00} it means nothing.{01 00 00 05 00}\nBut it may mean everything.",
-   "et": "Jahhh...{01 00 00 0a 00} Hästi, meil on\n„{ff 00 00 02}Uudsus{ff 00 00 00},” „{ff 00 00 02}Nunnus{ff 00 00 00},”\nand „{ff 00 00 02}Vägi{ff 00 00 00}”.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\nNiisiis{01 00 00 05 00} mida see ennustab?\n\n\n{07 20 00}Ehk{01 00 00 05 00} ei tähenda see midagi.{01 00 00 05 00}\nAga võib tähendada kõike."
+   "et": "Jahhh...{01 00 00 0a 00} Hästi, meil on\n„{ff 00 00 02}Uudsus{ff 00 00 00},” „{ff 00 00 02}Nunnus{ff 00 00 00},”\nja „{ff 00 00 02}Vägi{ff 00 00 00}”.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\nNiisiis{01 00 00 05 00} mida see ennustab?\n\n\n{07 20 00}Ehk{01 00 00 05 00} ei tähenda see midagi.{01 00 00 05 00}\nAga võib tähendada kõike."
   },
   {
    "id": 134,
    "en": "Yessss...{01 00 00 0a 00} Very well, we have\n\"{ff 00 00 02}Departure{ff 00 00 00},\" \"{ff 00 00 02}Ascension{ff 00 00 00},\"\nand \"{ff 00 00 02}Escape{ff 00 00 00}\".{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\nSo{01 00 00 05 00} what does this portend?\n\n\n{07 20 00}Perhaps{01 00 00 05 00} it means nothing.{01 00 00 05 00}\nBut it may mean everything.",
-   "et": "Jahhh...{01 00 00 0a 00} Hästi, meil on\n„{ff 00 00 02}Lahkumine{ff 00 00 00},” „{ff 00 00 02}Tõus{ff 00 00 00},”\nand „{ff 00 00 02}Põgenemine{ff 00 00 00}”.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\nNiisiis{01 00 00 05 00} mida see ennustab?\n\n\n{07 20 00}Ehk{01 00 00 05 00} ei tähenda see midagi.{01 00 00 05 00}\nAga võib tähendada kõike."
+   "et": "Jahhh...{01 00 00 0a 00} Hästi, meil on\n„{ff 00 00 02}Lahkumine{ff 00 00 00},” „{ff 00 00 02}Tõus{ff 00 00 00},”\nja „{ff 00 00 02}Põgenemine{ff 00 00 00}”.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\nNiisiis{01 00 00 05 00} mida see ennustab?\n\n\n{07 20 00}Ehk{01 00 00 05 00} ei tähenda see midagi.{01 00 00 05 00}\nAga võib tähendada kõike."
   },
   {
    "id": 135,
    "en": "Yessss...{01 00 00 0a 00} Very well, we have\n\"{ff 00 00 02}Fulfillment{ff 00 00 00},\" \"{ff 00 00 02}Realization{ff 00 00 00},\"\nand \"{ff 00 00 02}Results{ff 00 00 00}\".{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\nSo{01 00 00 05 00} what does this portend?\n\n\n{07 20 00}Perhaps{01 00 00 05 00} it means nothing.{01 00 00 05 00}\nBut it may mean everything.",
-   "et": "Jahhh...{01 00 00 0a 00} Hästi, meil on\n„{ff 00 00 02}Täitumine{ff 00 00 00},” „{ff 00 00 02}Teostus{ff 00 00 00},”\nand „{ff 00 00 02}Tulemused{ff 00 00 00}”.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\nNiisiis{01 00 00 05 00} mida see ennustab?\n\n\n{07 20 00}Ehk{01 00 00 05 00} ei tähenda see midagi.{01 00 00 05 00}\nAga võib tähendada kõike."
+   "et": "Jahhh...{01 00 00 0a 00} Hästi, meil on\n„{ff 00 00 02}Täitumine{ff 00 00 00},” „{ff 00 00 02}Teostus{ff 00 00 00},”\nja „{ff 00 00 02}Tulemused{ff 00 00 00}”.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\nNiisiis{01 00 00 05 00} mida see ennustab?\n\n\n{07 20 00}Ehk{01 00 00 05 00} ei tähenda see midagi.{01 00 00 05 00}\nAga võib tähendada kõike."
   },
   {
    "id": 136,
    "en": "Yessss...{01 00 00 0a 00} Very well, we have\n\"{ff 00 00 02}Selfishness{ff 00 00 00},\" \"{ff 00 00 02}Rashness{ff 00 00 00},\"\nand \"{ff 00 00 02}Irresponsibility{ff 00 00 00}\".{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\nSo{01 00 00 05 00} what does this portend?\n\n\n{07 20 00}Perhaps{01 00 00 05 00} it means nothing.{01 00 00 05 00}\nBut it may mean everything.",
-   "et": "Jahhh...{01 00 00 0a 00} Hästi, meil on\n„{ff 00 00 02}Isekus{ff 00 00 00},” „{ff 00 00 02}Tormakus{ff 00 00 00},”\nand „{ff 00 00 02}Vastutustundetus{ff 00 00 00}”.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\nNiisiis{01 00 00 05 00} mida see ennustab?\n\n\n{07 20 00}Ehk{01 00 00 05 00} ei tähenda see midagi.{01 00 00 05 00}\nAga võib tähendada kõike."
+   "et": "Jahhh...{01 00 00 0a 00} Hästi, meil on\n„{ff 00 00 02}Isekus{ff 00 00 00},” „{ff 00 00 02}Tormakus{ff 00 00 00},”\nja „{ff 00 00 02}Vastutustundetus{ff 00 00 00}”.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\nNiisiis{01 00 00 05 00} mida see ennustab?\n\n\n{07 20 00}Ehk{01 00 00 05 00} ei tähenda see midagi.{01 00 00 05 00}\nAga võib tähendada kõike."
   },
   {
    "id": 137,
    "en": "Yessss...{01 00 00 0a 00} Very well, we have\n\"{ff 00 00 02}Dirtiness{ff 00 00 00},\" \"{ff 00 00 02}Laziness{ff 00 00 00},\"\nand \"{ff 00 00 02}Dishonesty{ff 00 00 00}\".{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\nSo{01 00 00 05 00} what does this portend?\n\n\n{07 20 00}Perhaps{01 00 00 05 00} it means nothing.{01 00 00 05 00}\nBut it may mean everything.",
-   "et": "Jahhh...{01 00 00 0a 00} Hästi, meil on\n„{ff 00 00 02}Räpasus{ff 00 00 00},” „{ff 00 00 02}Laiskus{ff 00 00 00},”\nand „{ff 00 00 02}Ebaausus{ff 00 00 00}”.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\nNiisiis{01 00 00 05 00} mida see ennustab?\n\n\n{07 20 00}Ehk{01 00 00 05 00} ei tähenda see midagi.{01 00 00 05 00}\nAga võib tähendada kõike."
+   "et": "Jahhh...{01 00 00 0a 00} Hästi, meil on\n„{ff 00 00 02}Räpasus{ff 00 00 00},” „{ff 00 00 02}Laiskus{ff 00 00 00},”\nja „{ff 00 00 02}Ebaausus{ff 00 00 00}”.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\nNiisiis{01 00 00 05 00} mida see ennustab?\n\n\n{07 20 00}Ehk{01 00 00 05 00} ei tähenda see midagi.{01 00 00 05 00}\nAga võib tähendada kõike."
   },
   {
    "id": 138,
    "en": "Yessss...{01 00 00 0a 00} Very well, we have\n\"{ff 00 00 02}Insensitivity{ff 00 00 00},\" \"{ff 00 00 02}Loneliness{ff 00 00 00},\"\nand \"{ff 00 00 02}Temper{ff 00 00 00}\".{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\nSo{01 00 00 05 00} what does this portend?\n\n\n{07 20 00}Perhaps{01 00 00 05 00} it means nothing.{01 00 00 05 00}\nBut it may mean everything.",
-   "et": "Jahhh...{01 00 00 0a 00} Hästi, meil on\n„{ff 00 00 02}Tundetus{ff 00 00 00},” „{ff 00 00 02}Üksildus{ff 00 00 00},”\nand „{ff 00 00 02}Ägedus{ff 00 00 00}”.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\nNiisiis{01 00 00 05 00} mida see ennustab?\n\n\n{07 20 00}Ehk{01 00 00 05 00} ei tähenda see midagi.{01 00 00 05 00}\nAga võib tähendada kõike."
+   "et": "Jahhh...{01 00 00 0a 00} Hästi, meil on\n„{ff 00 00 02}Tundetus{ff 00 00 00},” „{ff 00 00 02}Üksildus{ff 00 00 00},”\nja „{ff 00 00 02}Ägedus{ff 00 00 00}”.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\nNiisiis{01 00 00 05 00} mida see ennustab?\n\n\n{07 20 00}Ehk{01 00 00 05 00} ei tähenda see midagi.{01 00 00 05 00}\nAga võib tähendada kõike."
   },
   {
    "id": 139,
    "en": "Yessss...{01 00 00 0a 00} Very well, we have\n\"{ff 00 00 02}Greed{ff 00 00 00},\" \"{ff 00 00 02}Dissatisfaction{ff 00 00 00},\"\nand \"{ff 00 00 02}Jealousy{ff 00 00 00}\".{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\nSo{01 00 00 05 00} what does this portend?\n\n\n{07 20 00}Perhaps{01 00 00 05 00} it means nothing.{01 00 00 05 00}\nBut it may mean everything.",
-   "et": "Jahhh...{01 00 00 0a 00} Hästi, meil on\n„{ff 00 00 02}Ahnus{ff 00 00 00},” „{ff 00 00 02}Rahulolematus{ff 00 00 00},”\nand „{ff 00 00 02}Kadedus{ff 00 00 00}”.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\nNiisiis{01 00 00 05 00} mida see ennustab?\n\n\n{07 20 00}Ehk{01 00 00 05 00} ei tähenda see midagi.{01 00 00 05 00}\nAga võib tähendada kõike."
+   "et": "Jahhh...{01 00 00 0a 00} Hästi, meil on\n„{ff 00 00 02}Ahnus{ff 00 00 00},” „{ff 00 00 02}Rahulolematus{ff 00 00 00},”\nja „{ff 00 00 02}Kadedus{ff 00 00 00}”.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\nNiisiis{01 00 00 05 00} mida see ennustab?\n\n\n{07 20 00}Ehk{01 00 00 05 00} ei tähenda see midagi.{01 00 00 05 00}\nAga võib tähendada kõike."
   },
   {
    "id": 140,
    "en": "Yessss...{01 00 00 0a 00} Very well, we have\n\"{ff 00 00 02}Treachery{ff 00 00 00},\" \"{ff 00 00 02}Pride{ff 00 00 00},\"\nand \"{ff 00 00 02}Selfishness{ff 00 00 00}\".{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\nSo{01 00 00 05 00} what does this portend?\n\n\n{07 20 00}Perhaps{01 00 00 05 00} it means nothing.{01 00 00 05 00}\nBut it may mean everything.",
-   "et": "Jahhh...{01 00 00 0a 00} Hästi, meil on\n„{ff 00 00 02}Reetlikkus{ff 00 00 00},” „{ff 00 00 02}Uhkus{ff 00 00 00},”\nand „{ff 00 00 02}Isekus{ff 00 00 00}”.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\nNiisiis{01 00 00 05 00} mida see ennustab?\n\n\n{07 20 00}Ehk{01 00 00 05 00} ei tähenda see midagi.{01 00 00 05 00}\nAga võib tähendada kõike."
+   "et": "Jahhh...{01 00 00 0a 00} Hästi, meil on\n„{ff 00 00 02}Reetlikkus{ff 00 00 00},” „{ff 00 00 02}Uhkus{ff 00 00 00},”\nja „{ff 00 00 02}Isekus{ff 00 00 00}”.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\nNiisiis{01 00 00 05 00} mida see ennustab?\n\n\n{07 20 00}Ehk{01 00 00 05 00} ei tähenda see midagi.{01 00 00 05 00}\nAga võib tähendada kõike."
   },
   {
    "id": 141,
    "en": "Yessss...{01 00 00 0a 00} Very well, we have\n\"{ff 00 00 02}Stubbornness{ff 00 00 00},\" \"{ff 00 00 02}Cheapness{ff 00 00 00},\"\nand \"{ff 00 00 02}Conservativeness{ff 00 00 00}\".{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\nSo{01 00 00 05 00} what does this portend?\n\n\n{07 20 00}Perhaps{01 00 00 05 00} it means nothing.{01 00 00 05 00}\nBut it may mean everything.",
-   "et": "Jahhh...{01 00 00 0a 00} Hästi, meil on\n„{ff 00 00 02}Kangus{ff 00 00 00},” „{ff 00 00 02}Ihnus{ff 00 00 00},”\nand „{ff 00 00 02}Konservatiivsus{ff 00 00 00}”.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\nNiisiis{01 00 00 05 00} mida see ennustab?\n\n\n{07 20 00}Ehk{01 00 00 05 00} ei tähenda see midagi.{01 00 00 05 00}\nAga võib tähendada kõike."
+   "et": "Jahhh...{01 00 00 0a 00} Hästi, meil on\n„{ff 00 00 02}Kangekaelsus{ff 00 00 00},” „{ff 00 00 02}Ihnus{ff 00 00 00},”\nja „{ff 00 00 02}Konservatiivsus{ff 00 00 00}”.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\nNiisiis{01 00 00 05 00} mida see ennustab?\n\n\n{07 20 00}Ehk{01 00 00 05 00} ei tähenda see midagi.{01 00 00 05 00}\nAga võib tähendada kõike."
   },
   {
    "id": 142,
    "en": "Yessss...{01 00 00 0a 00} Very well, we have\n\"{ff 00 00 02}Deceptiveness{ff 00 00 00},\" \"{ff 00 00 02}Fleetness{ff 00 00 00},\"\nand \"{ff 00 00 02}Estrangement{ff 00 00 00}\".{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\nSo{01 00 00 05 00} what does this portend?\n\n\n{07 20 00}Perhaps{01 00 00 05 00} it means nothing.{01 00 00 05 00}\nBut it may mean everything.",
-   "et": "Jahhh...{01 00 00 0a 00} Hästi, meil on\n„{ff 00 00 02}Petlikkus{ff 00 00 00},” „{ff 00 00 02}Põgusus{ff 00 00 00},”\nand „{ff 00 00 02}Võõrdumine{ff 00 00 00}”.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\nNiisiis{01 00 00 05 00} mida see ennustab?\n\n\n{07 20 00}Ehk{01 00 00 05 00} ei tähenda see midagi.{01 00 00 05 00}\nAga võib tähendada kõike."
+   "et": "Jahhh...{01 00 00 0a 00} Hästi, meil on\n„{ff 00 00 02}Petlikkus{ff 00 00 00},” „{ff 00 00 02}Põgusus{ff 00 00 00},”\nja „{ff 00 00 02}Võõrdumine{ff 00 00 00}”.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\nNiisiis{01 00 00 05 00} mida see ennustab?\n\n\n{07 20 00}Ehk{01 00 00 05 00} ei tähenda see midagi.{01 00 00 05 00}\nAga võib tähendada kõike."
   },
   {
    "id": 143,
    "en": "Yessss...{01 00 00 0a 00} Very well, we have\n\"{ff 00 00 02}Violence{ff 00 00 00},\" \"{ff 00 00 02}Conceit{ff 00 00 00},\"\nand \"{ff 00 00 02}Aggressiveness{ff 00 00 00}\".{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\nSo{01 00 00 05 00} what does this portend?\n\n\n{07 20 00}Perhaps{01 00 00 05 00} it means nothing.{01 00 00 05 00}\nBut it may mean everything.",
-   "et": "Jahhh...{01 00 00 0a 00} Hästi, meil on\n„{ff 00 00 02}Vägivald{ff 00 00 00},” „{ff 00 00 02}Ennasttäis{ff 00 00 00},”\nand „{ff 00 00 02}Agressiivsus{ff 00 00 00}”.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\nNiisiis{01 00 00 05 00} mida see ennustab?\n\n\n{07 20 00}Ehk{01 00 00 05 00} ei tähenda see midagi.{01 00 00 05 00}\nAga võib tähendada kõike."
+   "et": "Jahhh...{01 00 00 0a 00} Hästi, meil on\n„{ff 00 00 02}Vägivald{ff 00 00 00},” „{ff 00 00 02}Kõrkus{ff 00 00 00},”\nja „{ff 00 00 02}Agressiivsus{ff 00 00 00}”.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\nNiisiis{01 00 00 05 00} mida see ennustab?\n\n\n{07 20 00}Ehk{01 00 00 05 00} ei tähenda see midagi.{01 00 00 05 00}\nAga võib tähendada kõike."
   },
   {
    "id": 144,
    "en": "Yessss...{01 00 00 0a 00} Very well, we have\n\"{ff 00 00 02}Weak-Willed{ff 00 00 00},\" \"{ff 00 00 02}Passive{ff 00 00 00},\"\nand \"{ff 00 00 02}Careless{ff 00 00 00}\".{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\nSo{01 00 00 05 00} what does this portend?\n\n\n{07 20 00}Perhaps{01 00 00 05 00} it means nothing.{01 00 00 05 00}\nBut it may mean everything.",
-   "et": "Jahhh...{01 00 00 0a 00} Hästi, meil on\n„{ff 00 00 02}Nõrk tahe{ff 00 00 00},” „{ff 00 00 02}Passiivsus{ff 00 00 00},”\nand „{ff 00 00 02}Hooletus{ff 00 00 00}”.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\nNiisiis{01 00 00 05 00} mida see ennustab?\n\n\n{07 20 00}Ehk{01 00 00 05 00} ei tähenda see midagi.{01 00 00 05 00}\nAga võib tähendada kõike."
+   "et": "Jahhh...{01 00 00 0a 00} Hästi, meil on\n„{ff 00 00 02}Nõrk tahe{ff 00 00 00},” „{ff 00 00 02}Passiivsus{ff 00 00 00},”\nja „{ff 00 00 02}Hooletus{ff 00 00 00}”.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\nNiisiis{01 00 00 05 00} mida see ennustab?\n\n\n{07 20 00}Ehk{01 00 00 05 00} ei tähenda see midagi.{01 00 00 05 00}\nAga võib tähendada kõike."
   },
   {
    "id": 145,
    "en": "Yessss...{01 00 00 0a 00} Very well, we have\n\"{ff 00 00 02}Frivolity{ff 00 00 00},\" \"{ff 00 00 02}Envy{ff 00 00 00},\"\nand \"{ff 00 00 02}Choosiness{ff 00 00 00}\".{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\nSo{01 00 00 05 00} what does this portend?\n\n\n{07 20 00}Perhaps{01 00 00 05 00} it means nothing.{01 00 00 05 00}\nBut it may mean everything.",
-   "et": "Jahhh...{01 00 00 0a 00} Hästi, meil on\n„{ff 00 00 02}Kergemeelsus{ff 00 00 00},” „{ff 00 00 02}Kadedus{ff 00 00 00},”\nand „{ff 00 00 02}Valivus{ff 00 00 00}”.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\nNiisiis{01 00 00 05 00} mida see ennustab?\n\n\n{07 20 00}Ehk{01 00 00 05 00} ei tähenda see midagi.{01 00 00 05 00}\nAga võib tähendada kõike."
+   "et": "Jahhh...{01 00 00 0a 00} Hästi, meil on\n„{ff 00 00 02}Kergemeelsus{ff 00 00 00},” „{ff 00 00 02}Kadedus{ff 00 00 00},”\nja „{ff 00 00 02}Valivus{ff 00 00 00}”.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\nNiisiis{01 00 00 05 00} mida see ennustab?\n\n\n{07 20 00}Ehk{01 00 00 05 00} ei tähenda see midagi.{01 00 00 05 00}\nAga võib tähendada kõike."
   },
   {
    "id": 146,
    "en": "Yessss...{01 00 00 0a 00} Very well, we have\n\"{ff 00 00 02}Regret{ff 00 00 00},\" \"{ff 00 00 02}Brief Happiness{ff 00 00 00},\"\nand \"{ff 00 00 02}Missed Chance{ff 00 00 00}\".{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\nSo{01 00 00 05 00} what does this portend?\n\n\n{07 20 00}Perhaps{01 00 00 05 00} it means nothing.{01 00 00 05 00}\nBut it may mean everything.",
-   "et": "Jahhh...{01 00 00 0a 00} Hästi, meil on\n„{ff 00 00 02}Kahetsus{ff 00 00 00},” „{ff 00 00 02}Põgus õnn{ff 00 00 00},”\nand „{ff 00 00 02}Kadunud võimalus{ff 00 00 00}”.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\nNiisiis{01 00 00 05 00} mida see ennustab?\n\n\n{07 20 00}Ehk{01 00 00 05 00} ei tähenda see midagi.{01 00 00 05 00}\nAga võib tähendada kõike."
+   "et": "Jahhh...{01 00 00 0a 00} Hästi, meil on\n„{ff 00 00 02}Kahetsus{ff 00 00 00},” „{ff 00 00 02}Põgus õnn{ff 00 00 00},”\nja „{ff 00 00 02}Kadunud võimalus{ff 00 00 00}”.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\nNiisiis{01 00 00 05 00} mida see ennustab?\n\n\n{07 20 00}Ehk{01 00 00 05 00} ei tähenda see midagi.{01 00 00 05 00}\nAga võib tähendada kõike."
   },
   {
    "id": 147,
    "en": "Yessss...{01 00 00 0a 00} Very well, we have\n\"{ff 00 00 02}Strictness{ff 00 00 00},\" \"{ff 00 00 02}Polarity{ff 00 00 00},\"\nand \"{ff 00 00 02}Threat{ff 00 00 00}\".{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\nSo{01 00 00 05 00} what does this portend?\n\n\n{07 20 00}Perhaps{01 00 00 05 00} it means nothing.{01 00 00 05 00}\nBut it may mean everything.",
-   "et": "Jahhh...{01 00 00 0a 00} Hästi, meil on\n„{ff 00 00 02}Rangus{ff 00 00 00},” „{ff 00 00 02}Vastandlikkus{ff 00 00 00},”\nand „{ff 00 00 02}Oht{ff 00 00 00}”.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\nNiisiis{01 00 00 05 00} mida see ennustab?\n\n\n{07 20 00}Ehk{01 00 00 05 00} ei tähenda see midagi.{01 00 00 05 00}\nAga võib tähendada kõike."
+   "et": "Jahhh...{01 00 00 0a 00} Hästi, meil on\n„{ff 00 00 02}Rangus{ff 00 00 00},” „{ff 00 00 02}Vastandlikkus{ff 00 00 00},”\nja „{ff 00 00 02}Oht{ff 00 00 00}”.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\nNiisiis{01 00 00 05 00} mida see ennustab?\n\n\n{07 20 00}Ehk{01 00 00 05 00} ei tähenda see midagi.{01 00 00 05 00}\nAga võib tähendada kõike."
   },
   {
    "id": 148,
    "en": "Yessss...{01 00 00 0a 00} Very well, we have\n\"{ff 00 00 02}Self-Control{ff 00 00 00},\" \"{ff 00 00 02}Passion{ff 00 00 00},\"\nand \"{ff 00 00 02}Guts{ff 00 00 00}\".{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\nSo{01 00 00 05 00} what does this portend?\n\n\n{07 20 00}Perhaps{01 00 00 05 00} it means nothing.{01 00 00 05 00}\nBut it may mean everything.",
-   "et": "Jahhh...{01 00 00 0a 00} Hästi, meil on\n„{ff 00 00 02}Enesevalitsus{ff 00 00 00},” „{ff 00 00 02}Kirg{ff 00 00 00},”\nand „{ff 00 00 02}Julgus{ff 00 00 00}”.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\nNiisiis{01 00 00 05 00} mida see ennustab?\n\n\n{07 20 00}Ehk{01 00 00 05 00} ei tähenda see midagi.{01 00 00 05 00}\nAga võib tähendada kõike."
+   "et": "Jahhh...{01 00 00 0a 00} Hästi, meil on\n„{ff 00 00 02}Enesevalitsus{ff 00 00 00},” „{ff 00 00 02}Kirg{ff 00 00 00},”\nja „{ff 00 00 02}Julgus{ff 00 00 00}”.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\nNiisiis{01 00 00 05 00} mida see ennustab?\n\n\n{07 20 00}Ehk{01 00 00 05 00} ei tähenda see midagi.{01 00 00 05 00}\nAga võib tähendada kõike."
   },
   {
    "id": 149,
    "en": "Yessss...{01 00 00 0a 00} Very well, we have\n\"{ff 00 00 02}Repetition{ff 00 00 00},\" \"{ff 00 00 02}Boredom{ff 00 00 00},\"\nand \"{ff 00 00 02}Stagnancy{ff 00 00 00}\".{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\nSo{01 00 00 05 00} what does this portend?\n\n\n{07 20 00}Perhaps{01 00 00 05 00} it means nothing.{01 00 00 05 00}\nBut it may mean everything.",
-   "et": "Jahhh...{01 00 00 0a 00} Hästi, meil on\n„{ff 00 00 02}Kordus{ff 00 00 00},” „{ff 00 00 02}Igavus{ff 00 00 00},”\nand „{ff 00 00 02}Seisak{ff 00 00 00}”.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\nNiisiis{01 00 00 05 00} mida see ennustab?\n\n\n{07 20 00}Ehk{01 00 00 05 00} ei tähenda see midagi.{01 00 00 05 00}\nAga võib tähendada kõike."
+   "et": "Jahhh...{01 00 00 0a 00} Hästi, meil on\n„{ff 00 00 02}Kordus{ff 00 00 00},” „{ff 00 00 02}Igavus{ff 00 00 00},”\nja „{ff 00 00 02}Seisak{ff 00 00 00}”.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\nNiisiis{01 00 00 05 00} mida see ennustab?\n\n\n{07 20 00}Ehk{01 00 00 05 00} ei tähenda see midagi.{01 00 00 05 00}\nAga võib tähendada kõike."
   },
   {
    "id": 150,
    "en": "Yessss...{01 00 00 0a 00} Very well, we have\n\"{ff 00 00 02}Clumsiness{ff 00 00 00},\" \"{ff 00 00 02}Laziness{ff 00 00 00},\"\nand \"{ff 00 00 02}Lack of Skill{ff 00 00 00}\".{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\nSo{01 00 00 05 00} what does this portend?\n\n\n{07 20 00}Perhaps{01 00 00 05 00} it means nothing.{01 00 00 05 00}\nBut it may mean everything.",
-   "et": "Jahhh...{01 00 00 0a 00} Hästi, meil on\n„{ff 00 00 02}Kohmakus{ff 00 00 00},” „{ff 00 00 02}Laiskus{ff 00 00 00},”\nand „{ff 00 00 02}Oskamatus{ff 00 00 00}”.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\nNiisiis{01 00 00 05 00} mida see ennustab?\n\n\n{07 20 00}Ehk{01 00 00 05 00} ei tähenda see midagi.{01 00 00 05 00}\nAga võib tähendada kõike."
+   "et": "Jahhh...{01 00 00 0a 00} Hästi, meil on\n„{ff 00 00 02}Kohmakus{ff 00 00 00},” „{ff 00 00 02}Laiskus{ff 00 00 00},”\nja „{ff 00 00 02}Oskamatus{ff 00 00 00}”.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\nNiisiis{01 00 00 05 00} mida see ennustab?\n\n\n{07 20 00}Ehk{01 00 00 05 00} ei tähenda see midagi.{01 00 00 05 00}\nAga võib tähendada kõike."
   },
   {
    "id": 151,
    "en": "Yessss...{01 00 00 0a 00} Very well, we have\n\"{ff 00 00 02}Concentration{ff 00 00 00},\" \"{ff 00 00 02}Open Eye{ff 00 00 00},\"\nand \"{ff 00 00 02}Control{ff 00 00 00}\".{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\nSo{01 00 00 05 00} what does this portend?\n\n\n{07 20 00}Perhaps{01 00 00 05 00} it means nothing.{01 00 00 05 00}\nBut it may mean everything.",
-   "et": "Jahhh...{01 00 00 0a 00} Hästi, meil on\n„{ff 00 00 02}Süvenemine{ff 00 00 00},” „{ff 00 00 02}Valvsus{ff 00 00 00},”\nand „{ff 00 00 02}Kontroll{ff 00 00 00}”.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\nNiisiis{01 00 00 05 00} mida see ennustab?\n\n\n{07 20 00}Ehk{01 00 00 05 00} ei tähenda see midagi.{01 00 00 05 00}\nAga võib tähendada kõike."
+   "et": "Jahhh...{01 00 00 0a 00} Hästi, meil on\n„{ff 00 00 02}Süvenemine{ff 00 00 00},” „{ff 00 00 02}Valvsus{ff 00 00 00},”\nja „{ff 00 00 02}Kontroll{ff 00 00 00}”.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\nNiisiis{01 00 00 05 00} mida see ennustab?\n\n\n{07 20 00}Ehk{01 00 00 05 00} ei tähenda see midagi.{01 00 00 05 00}\nAga võib tähendada kõike."
   },
   {
    "id": 152,
@@ -769,27 +769,27 @@
   {
    "id": 153,
    "en": "Yessss...{01 00 00 0a 00} Very well, we have\n\"{ff 00 00 02}Ambition{ff 00 00 00},\" \"{ff 00 00 02}Eagerness{ff 00 00 00},\"\nand \"{ff 00 00 02}Flightiness{ff 00 00 00}\".{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\nSo{01 00 00 05 00} what does this portend?\n\n\n{07 20 00}Perhaps{01 00 00 05 00} it means nothing.{01 00 00 05 00}\nBut it may mean everything.",
-   "et": "Jahhh...{01 00 00 0a 00} Hästi, meil on\n„{ff 00 00 02}Auahnus{ff 00 00 00},” „{ff 00 00 02}Innukus{ff 00 00 00},”\nand „{ff 00 00 02}Püsimatus{ff 00 00 00}”.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\nNiisiis{01 00 00 05 00} mida see ennustab?\n\n\n{07 20 00}Ehk{01 00 00 05 00} ei tähenda see midagi.{01 00 00 05 00}\nAga võib tähendada kõike."
+   "et": "Jahhh...{01 00 00 0a 00} Hästi, meil on\n„{ff 00 00 02}Auahnus{ff 00 00 00},” „{ff 00 00 02}Innukus{ff 00 00 00},”\nja „{ff 00 00 02}Püsimatus{ff 00 00 00}”.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\nNiisiis{01 00 00 05 00} mida see ennustab?\n\n\n{07 20 00}Ehk{01 00 00 05 00} ei tähenda see midagi.{01 00 00 05 00}\nAga võib tähendada kõike."
   },
   {
    "id": 154,
    "en": "Yessss...{01 00 00 0a 00} Very well, we have\n\"{ff 00 00 02}Brightness{ff 00 00 00},\" \"{ff 00 00 02}Honesty{ff 00 00 00},\"\nand \"{ff 00 00 02}Understanding{ff 00 00 00}\".{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\nSo{01 00 00 05 00} what does this portend?\n\n\n{07 20 00}Perhaps{01 00 00 05 00} it means nothing.{01 00 00 05 00}\nBut it may mean everything.",
-   "et": "Jahhh...{01 00 00 0a 00} Hästi, meil on\n„{ff 00 00 02}Särav meel{ff 00 00 00},” „{ff 00 00 02}Ausus{ff 00 00 00},”\nand „{ff 00 00 02}Mõistmine{ff 00 00 00}”.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\nNiisiis{01 00 00 05 00} mida see ennustab?\n\n\n{07 20 00}Ehk{01 00 00 05 00} ei tähenda see midagi.{01 00 00 05 00}\nAga võib tähendada kõike."
+   "et": "Jahhh...{01 00 00 0a 00} Hästi, meil on\n„{ff 00 00 02}Särav meel{ff 00 00 00},” „{ff 00 00 02}Ausus{ff 00 00 00},”\nja „{ff 00 00 02}Mõistmine{ff 00 00 00}”.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\nNiisiis{01 00 00 05 00} mida see ennustab?\n\n\n{07 20 00}Ehk{01 00 00 05 00} ei tähenda see midagi.{01 00 00 05 00}\nAga võib tähendada kõike."
   },
   {
    "id": 155,
    "en": "Yesss...{01 00 00 0a 00} Very well, we have\n\"{ff 00 00 02}Bitterness{ff 00 00 00},\" \"{ff 00 00 02}Carelessness{ff 00 00 00},\"\nand \"{ff 00 00 02}Short-Temperedness{ff 00 00 00}\".{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\nSo{01 00 00 05 00} what does this portend?\n\n\n{07 20 00}Perhaps{01 00 00 05 00} it means nothing.{01 00 00 05 00}\nBut it may mean everything.",
-   "et": "Jahh...{01 00 00 0a 00} Hästi, meil on\n„{ff 00 00 02}Kibedus{ff 00 00 00},” „{ff 00 00 02}Hooletus{ff 00 00 00},”\nand „{ff 00 00 02}Äkilisus{ff 00 00 00}”.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\nNiisiis{01 00 00 05 00} mida see ennustab?\n\n\n{07 20 00}Ehk{01 00 00 05 00} ei tähenda see midagi.{01 00 00 05 00}\nAga võib tähendada kõike."
+   "et": "Jahh...{01 00 00 0a 00} Hästi, meil on\n„{ff 00 00 02}Kibedus{ff 00 00 00},” „{ff 00 00 02}Hooletus{ff 00 00 00},”\nja „{ff 00 00 02}Äkilisus{ff 00 00 00}”.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\nNiisiis{01 00 00 05 00} mida see ennustab?\n\n\n{07 20 00}Ehk{01 00 00 05 00} ei tähenda see midagi.{01 00 00 05 00}\nAga võib tähendada kõike."
   },
   {
    "id": 156,
    "en": "Yessss...{01 00 00 0a 00} Very well, we have\n\"{ff 00 00 02}Dullness{ff 00 00 00},\" \"{ff 00 00 02}Laziness{ff 00 00 00},\"\nand \"{ff 00 00 02}Compromise{ff 00 00 00}\".{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\nSo{01 00 00 05 00} what does this portend?\n\n\n{07 20 00}Perhaps{01 00 00 05 00} it means nothing.{01 00 00 05 00}\nBut it may mean everything.",
-   "et": "Jahhh...{01 00 00 0a 00} Hästi, meil on\n„{ff 00 00 02}Tuimus{ff 00 00 00},” „{ff 00 00 02}Laiskus{ff 00 00 00},”\nand „{ff 00 00 02}Kompromiss{ff 00 00 00}”.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\nNiisiis{01 00 00 05 00} mida see ennustab?\n\n\n{07 20 00}Ehk{01 00 00 05 00} ei tähenda see midagi.{01 00 00 05 00}\nAga võib tähendada kõike."
+   "et": "Jahhh...{01 00 00 0a 00} Hästi, meil on\n„{ff 00 00 02}Tuimus{ff 00 00 00},” „{ff 00 00 02}Laiskus{ff 00 00 00},”\nja „{ff 00 00 02}Kompromiss{ff 00 00 00}”.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\nNiisiis{01 00 00 05 00} mida see ennustab?\n\n\n{07 20 00}Ehk{01 00 00 05 00} ei tähenda see midagi.{01 00 00 05 00}\nAga võib tähendada kõike."
   },
   {
    "id": 157,
    "en": "Yessss...{01 00 00 0a 00} Very well, we have\n\"{ff 00 00 02}Incompletion{ff 00 00 00},\" \"{ff 00 00 02}Instability{ff 00 00 00},\"\nand \"{ff 00 00 02}Inconsistency{ff 00 00 00}\".{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\nSo{01 00 00 05 00} what does this portend?\n\n\n{07 20 00}Perhaps{01 00 00 05 00} it means nothing.{01 00 00 05 00}\nBut it may mean everything.",
-   "et": "Jahhh...{01 00 00 0a 00} Hästi, meil on\n„{ff 00 00 02}Lõpetamatus{ff 00 00 00},” „{ff 00 00 02}Kõikuvus{ff 00 00 00},”\nand „{ff 00 00 02}Ebajärjekindlus{ff 00 00 00}”.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\nNiisiis{01 00 00 05 00} mida see ennustab?\n\n\n{07 20 00}Ehk{01 00 00 05 00} ei tähenda see midagi.{01 00 00 05 00}\nAga võib tähendada kõike."
+   "et": "Jahhh...{01 00 00 0a 00} Hästi, meil on\n„{ff 00 00 02}Lõpetamatus{ff 00 00 00},” „{ff 00 00 02}Kõikuvus{ff 00 00 00},”\nja „{ff 00 00 02}Ebajärjekindlus{ff 00 00 00}”.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\nNiisiis{01 00 00 05 00} mida see ennustab?\n\n\n{07 20 00}Ehk{01 00 00 05 00} ei tähenda see midagi.{01 00 00 05 00}\nAga võib tähendada kõike."
   }
  ]
 }

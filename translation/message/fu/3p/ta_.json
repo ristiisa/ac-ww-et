@@ -4,7 +4,7 @@
   {
    "id": 0,
    "en": "{09 01 00}{09 08 00}{07 14 00}Want to see me do my\nimpression of you,\n{ff 00 00 06}{04 10 00}{ff 00 00 00}? Here, watch!\n{ff 00 00 02}{07 1b 00}{ff 00 00 00}\"{ff 00 00 02}What's up with your hair?\nIt looks like someone left\nyou out in the rain!{ff 00 00 00}\"\n{07 0b 00}So what do you think,{ff 00 00 02}\n{ff 00 00 06}{04 10 00}{ff 00 00 00}? That was\nspot-on, huh, {04 02 00}?{09 09 00}",
-   "et": "{09 01 00}{09 08 00}{07 14 00}Kas tahad näha, kuidas ma\nsind järele teen,\n{ff 00 00 06}{04 10 00}{ff 00 00 00}? Vaata!\n{ff 00 00 02}{07 1b 00}{ff 00 00 00}„{ff 00 00 02}Mis su juustega on?\nNäeb välja, nagu oleks sind\nvihma kätte jäetud!{ff 00 00 00}”\n{07 0b 00}Mis sa arvad,{ff 00 00 02}\n{ff 00 00 06}{04 10 00}{ff 00 00 00}? See oli\ntäppi, mis, {04 02 00}?{09 09 00}"
+   "et": "{09 01 00}{09 08 00}{07 14 00}Kas tahad näha, kuidas ma\nsind järele teen,\n{ff 00 00 06}{04 10 00}{ff 00 00 00}? Vaata!\n{ff 00 00 02}{07 1b 00}{ff 00 00 00}„{ff 00 00 02}Mis su juustega on?\nNäeb välja, nagu oleks sind\nvihma kätte jäetud!{ff 00 00 00}”\n{07 0b 00}Mis sa arvad,{ff 00 00 02}\n{ff 00 00 06}{04 10 00}{ff 00 00 00}? See tabas\ntäppi, mis, {04 02 00}?{09 09 00}"
   },
   {
    "id": 1,
@@ -29,7 +29,7 @@
   {
    "id": 5,
    "en": "{09 00 00}{09 08 00}{09 02 00}{07 00 00}Isn't it obvious? {01 00 00 0a 00}{07 11 00}That was\nmy impression of the INNER\nyou, {01 00 00 05 00}{04 02 00}!\n{ff 00 00 02}{07 06 00}{ff 00 00 00}\"{ff 00 00 02}Oh, no! What if {ff 00 00 06}{04 10 00}{ff 00 00 02}\nsees me wearing these old\nrags! She's so fashionable!{ff 00 00 00}\"\n{07 14 00}It's OK. I understand. How\ncould you NOT want to be\nme? {01 00 00 05 00}I mean, {07 13 00}look at me!{09 09 00}",
-   "et": "{09 00 00}{09 08 00}{09 02 00}{07 00 00}Kas pole ilmne? {01 00 00 0a 00}{07 11 00}See oli\nminu mulje sinu SISEMISEST\nminast, {01 00 00 05 00}{04 02 00}!\n{ff 00 00 02}{07 06 00}{ff 00 00 00}„{ff 00 00 02}Oh ei! Kui {ff 00 00 06}{04 10 00}{ff 00 00 02}\nnäeb mind nendes vanades\nkaltsudes! Ta on stiilne!{ff 00 00 00}”\n{07 14 00}Pole hullu. Ma mõistan.\nKuidas saaks sa MITTE\ntahta olla mina?{01 00 00 05 00} {07 13 00}Vaata!{09 09 00}"
+   "et": "{09 00 00}{09 08 00}{09 02 00}{07 00 00}Kas pole ilmne? {01 00 00 0a 00}{07 11 00}See oli\nminu jäljendus SISEMISEST\nsinust, {01 00 00 05 00}{04 02 00}!\n{ff 00 00 02}{07 06 00}{ff 00 00 00}„{ff 00 00 02}Oh ei! Kui {ff 00 00 06}{04 10 00}{ff 00 00 02}\nnäeb mind nendes vanades\nkaltsudes! Ta on stiilne!{ff 00 00 00}”\n{07 14 00}Pole hullu. Ma mõistan.\nKuidas saaks sa MITTE\ntahta olla mina?{01 00 00 05 00} {07 13 00}Vaata!{09 09 00}"
   },
   {
    "id": 6,
@@ -79,7 +79,7 @@
   {
    "id": 15,
    "en": "{09 00 00}{09 08 00}{09 02 00}{07 15 00}\"But\"? {01 00 00 05 00}There's no \"but\" here!\nI'm right, and everyone\nelse is wrong!\n{07 01 00}About everything!{01 01 00} {07 14 00}See? It's\nall about certainty. There's\nno room for doubt!{09 09 00}",
-   "et": "{09 00 00}{09 08 00}{09 02 00}{07 15 00}„Aga”? {01 00 00 05 00}Siin pole „aga”!\nMina olen õige ja kõik\nteised on valed!\n{07 01 00}Kõiges!{01 01 00} {07 14 00}Näed? Kõik sõltub\nkindlusest. Kahtlusele pole\nruumi!{09 09 00}"
+   "et": "{09 00 00}{09 08 00}{09 02 00}{07 15 00}„Aga”? {01 00 00 05 00}Siin pole „aga”!\nMul on õigus ja kõigil\nteistel on vale!\n{07 01 00}Kõiges!{01 01 00} {07 14 00}Näed? Kõik sõltub\nkindlusest. Kahtlusele pole\nruumi!{09 09 00}"
   },
   {
    "id": 16,

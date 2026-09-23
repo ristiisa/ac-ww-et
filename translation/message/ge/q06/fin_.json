@@ -4,7 +4,7 @@
   {
    "id": 0,
    "en": "{07 14 00}Hey, please tell {ff 00 00 06}{04 0f 00}{ff 00 00 00}\nthanks,{01 00 00 05 00} OK, {01 00 00 05 00}{04 02 00}?",
-   "et": "{07 14 00}Kuule, ütle {ff 00 00 06}{04 0f 00}{ff 00 00 00}le\naitäh,{01 00 00 05 00} eks, {01 00 00 05 00}{04 02 00}?"
+   "et": "{07 14 00}Kuule, ütle talle, {ff 00 00 06}{04 0f 00}{ff 00 00 00},\naitäh,{01 00 00 05 00} eks, {01 00 00 05 00}{04 02 00}?"
   },
   {
    "id": 1,
@@ -14,7 +14,7 @@
   {
    "id": 2,
    "en": "{07 14 00}Hey, {04 1f 00},{01 00 00 05 00} remember\nto pass my thanks on to\n{ff 00 00 06}{04 0f 00}{ff 00 00 00}, too!",
-   "et": "{07 14 00}Kuule, {04 1f 00},{01 00 00 05 00} pea meeles\nedasi anda ka minu tänu\n{ff 00 00 06}{04 0f 00}{ff 00 00 00}le!"
+   "et": "{07 14 00}Kuule, {04 1f 00},{01 00 00 05 00} pea meeles\nedasi anda ka minu tänu\ntalle, {ff 00 00 06}{04 0f 00}{ff 00 00 00}!"
   }
  ]
 }

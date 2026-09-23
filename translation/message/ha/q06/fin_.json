@@ -9,12 +9,12 @@
   {
    "id": 1,
    "en": "{07 14 00}Tell {ff 00 00 06}{04 0f 00}{ff 00 00 00} I said\nWASSSSSSSUP!",
-   "et": "{07 14 00}Ütle {ff 00 00 06}{04 0f 00}{ff 00 00 00}ile, et\nKUIDAAAAS LÄÄÄÄB!"
+   "et": "{07 14 00}Ütle tüübile nimega {ff 00 00 06}{04 0f 00}{ff 00 00 00},\net KUIDAAAAS LÄÄÄÄB!"
   },
   {
    "id": 2,
    "en": "{07 14 00}Hey listen, be sure to tell\n{ff 00 00 06}{04 0f 00} {ff 00 00 00}that I got the\npackage, OK?",
-   "et": "{07 14 00}Hei kuule, ütle kindlasti\n{ff 00 00 06}{04 0f 00} {ff 00 00 00}ile, et ma sain\npaki kätte, eks?"
+   "et": "{07 14 00}Hei kuule, ütle kindlasti\ntüübile nimega {ff 00 00 06}{04 0f 00}{ff 00 00 00},\net ma sain paki kätte, eks?"
   }
  ]
 }

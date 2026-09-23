@@ -139,7 +139,7 @@
   {
    "id": 27,
    "en": "{07 00 00}You think so, huh? {07 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}HEY!{01 00 00 05 00}\n{07 01 00}What are you looking at?!{01 00 00 0a 00}\n{0b 03 00}{04 1f 00}, you jerk!",
-   "et": "{07 00 00}Sa arvad nii, mis? {07 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}HEI!{01 00 00 05 00}\n{07 01 00}Mida sa vahid?!{01 00 00 0a 00}\n{0b 03 00}{04 1f 00}, sa tolvan!"
+   "et": "{07 00 00}Sa arvad nii, mis? {07 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}HEI!{01 00 00 05 00}\n{07 01 00}Mida sa vahid?!{01 00 00 0a 00}\n{0b 03 00}{04 1f 00}, sa jobu!"
   },
   {
    "id": 28,
@@ -164,7 +164,7 @@
   {
    "id": 32,
    "en": "{07 14 00}Wow, {01 00 00 05 00}{04 1f 00}!{01 00 00 0a 00}\nI'm impressed!\n\n{07 16 00}But {01 00 00 05 00}I think I might have\ncut my bangs too short{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{0b 03 00}{01 00 00 05 00}{04 02 00}!\n{07 06 00}Every time I try to cut \nthem myself, it all ends in\na horrific hair tragedy.",
-   "et": "{07 14 00}Vau, {01 00 00 05 00}{04 1f 00}!{01 00 00 0a 00}\nMa olen muljet avaldatud!\n\n{07 16 00}Aga {01 00 00 05 00}ma vist lõikasin oma\ntukka liiga lühikeseks{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{0b 03 00}{01 00 00 05 00}{04 02 00}!\n{07 06 00}Iga kord kui ma üritan\nseda ise lõigata, lõpeb see\nkohutava juuksetragöödiaga."
+   "et": "{07 14 00}Vau, {01 00 00 05 00}{04 1f 00}!{01 00 00 0a 00}\nSee teeb mulle muljet!\n\n{07 16 00}Aga {01 00 00 05 00}ma vist lõikasin oma\ntukka liiga lühikeseks{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{0b 03 00}{01 00 00 05 00}{04 02 00}!\n{07 06 00}Iga kord kui ma üritan\nseda ise lõigata, lõpeb see\nkohutava juuksetragöödiaga."
   },
   {
    "id": 33,
@@ -259,7 +259,7 @@
   {
    "id": 51,
    "en": "{07 00 00}It's this movie called\n\"{ff 00 00 02}The {0b 03 00}{04 0f 00} Man{ff 00 00 00}.\"\n\n{07 0d 00}The hero is so cool! It's\nabout this guy fighting the\nevil forces of uncuteness!",
-   "et": "{07 00 00}See on film nimega\n„{ff 00 00 02}{0b 03 00}{04 0f 00} mees{ff 00 00 00}”.\n\n{07 0d 00}Kangelane on nii lahe! See\nräägib mehest, kes võitleb\nkurjade jõududega"
+   "et": "{07 00 00}See on film nimega\n„{ff 00 00 02}{0b 03 00}{04 0f 00} mees{ff 00 00 00}”.\n\n{07 0d 00}Kangelane on nii lahe! See\nräägib mehest, kes võitleb\nebenunnuse kurjade jõududega!"
   },
   {
    "id": 52,
@@ -274,7 +274,7 @@
   {
    "id": 54,
    "en": "{07 15 00}Are you doing that just\nbecause you know I'm\nhungry?\n{07 05 00}You're going down for that,\n{01 00 00 05 00}{04 02 00}!",
-   "et": "{07 15 00}Kas sa teed seda ainult\nsellepärast, et tead, et mul\non kõht tühi?\n{07 05 00}Sa saad selle eest,\n{01 00 00 05 00}{04 02 00}!"
+   "et": "{07 15 00}Kas sa teed seda ainult\nsellepärast, et tead, et mul\non kõht tühi?\n{07 05 00}Selle eest sa küll saad,\n{01 00 00 05 00}{04 02 00}!"
   },
   {
    "id": 55,
@@ -289,7 +289,7 @@
   {
    "id": 57,
    "en": "{07 14 00}Whoa.{01 00 00 05 00} You're way more\nthoughtful than I expected!\n\n{07 00 00}OK, if you want peace,\nmaybe you should start with\n{04 03 00}!\nYou know, pulling weeds,{01 00 00 05 00}\npicking up trash, running\nerrands{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.",
-   "et": "{07 14 00}Ohoo.{01 00 00 05 00} Sa oled palju\nmõtlikum kui ma ootasin!\n\n{07 00 00}Olgu, kui tahad rahu,\nsiis peaksid ehk alustama\n{04 03 00}st!\nTead, umbrohtu kitkuda,{01 00 00 05 00}\nprügi korjata, asju\najada{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}."
+   "et": "{07 14 00}Ohoo.{01 00 00 05 00} Sa oled palju\nmõtlikum kui ma ootasin!\n\n{07 00 00}Olgu, kui tahad rahu,\nsiis peaksid ehk alustama\nlinnast nimega {04 03 00}!\nTead, umbrohtu kitkuda,{01 00 00 05 00}\nprügi korjata, asju\najada{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}."
   },
   {
    "id": 58,

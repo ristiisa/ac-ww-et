@@ -4,7 +4,7 @@
   {
    "id": 0,
    "en": "What?{01 00 00 05 00} What was that,\n{01 00 00 05 00}{04 02 00}?!\n\nWere you, like, trying to do\nTHIS by any chance?",
-   "et": "Mida?{01 00 00 05 00} Mis see oli,\n{01 00 00 05 00}{04 02 00}?!\n\nKas sa, nagu, üritasid teha\nSEDA juhuslikult?"
+   "et": "Mida?{01 00 00 05 00} Mis see oli,\n{01 00 00 05 00}{04 02 00}?!\n\nKas sa, nagu, üritasid teha\nSEDA, eks?"
   },
   {
    "id": 1,
@@ -84,7 +84,7 @@
   {
    "id": 16,
    "en": "OK! {01 00 00 05 00}{07 11 00}Looook into my eyes{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 01 00}\nOh!{01 00 00 0a 00}{07 17 00} Now I'm all embarrassed!{01 00 00 0a 00}\n'K, I'll stop acting stupid...\n{07 00 00}Forget {ff 00 00 02}{04 10 00}{ff 00 00 00}...\nAnd instead, remember\n{ff 00 00 02}{04 0f 00}{ff 00 00 00}!\n{0b 03 00}{04 1f 00},{01 00 00 05 00} you're like a\nnew person, {01 00 00 05 00}{04 02 00}!",
-   "et": "Olgu! {01 00 00 05 00}{07 11 00}Vaaata mulle silma{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 01 00}\nOh!{01 00 00 0a 00}{07 17 00} Nüüd on mul piinlik!{01 00 00 0a 00}\nOlgu, lõpetan rumalate\ntegemise... {07 00 00}Unusta {ff 00 00 02}{04 10 00}{ff 00 00 00}\n... Ja jäta selle asemel\nmeelde {ff 00 00 02}{04 0f 00}{ff 00 00 00}!\n{0b 03 00}{04 1f 00},{01 00 00 05 00} sa oled nagu\nuus inimene, {01 00 00 05 00}{04 02 00}!"
+   "et": "Olgu! {01 00 00 05 00}{07 11 00}Vaaata mulle silma{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 01 00}\nOh!{01 00 00 0a 00}{07 17 00} Nüüd on mul piinlik!{01 00 00 0a 00}\nOlgu, lõpetan lolli\nmängimise... {07 00 00}Unusta {ff 00 00 02}{04 10 00}{ff 00 00 00}\n... Ja jäta selle asemel\nmeelde {ff 00 00 02}{04 0f 00}{ff 00 00 00}!\n{0b 03 00}{04 1f 00},{01 00 00 05 00} sa oled nagu\nuus inimene, {01 00 00 05 00}{04 02 00}!"
   },
   {
    "id": 17,

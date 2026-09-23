@@ -4,7 +4,7 @@
   {
    "id": 0,
    "en": "{07 04 00}Oh, wow! Hi, {01 00 00 05 00}{04 1f 00}!{01 00 00 0a 00}\n{07 00 00}Hey,{01 00 00 05 00} I totally wanna know\nmore about you...\n{07 14 00}So I prepared some really\nFUN questions, {01 00 00 05 00}{04 02 00}!\n\nIt'll ONLY take a minute,{01 00 00 05 00}\nso bear with me,{01 00 00 05 00} OK?!{01 01 00}\nYAY! Let's go, {04 1f 00}!\nWhen's your birthday?",
-   "et": "{07 04 00}Oi, vau! Tere, {01 00 00 05 00}{04 1f 00}!{01 00 00 0a 00}\n{07 00 00}Kuule,{01 00 00 05 00} ma tahan sinu kohta\nrohkem teada...\n{07 14 00}Nii et valmistasin ette\nLÕBUSAD küsimused, {01 00 00 05 00}{04 02 00}\n! \nSee võtab AINULT minuti,{01 00 00 05 00}\nnii et kannata välja,{01 00 00 05 00} eks?!{01 01 00}\nJEE! Läksime, {04 1f 00}!\nMillal on su sünnipäev?"
+   "et": "{07 04 00}Oi, vau! Tere, {01 00 00 05 00}{04 1f 00}!{01 00 00 0a 00}\n{07 00 00}Kuule,{01 00 00 05 00} ma tahan sinu kohta\nrohkem teada...\n{07 14 00}Nii et valmistasin ette\nLÕBUSAD küsimused, {01 00 00 05 00}{04 02 00}\n! \nSee võtab AINULT minuti,{01 00 00 05 00}\nnii et ole kannatlik,{01 00 00 05 00} eks?!{01 01 00}\nJEE! Läksime, {04 1f 00}!\nMillal on su sünnipäev?"
   },
   {
    "id": 2,
@@ -29,7 +29,7 @@
   {
    "id": 6,
    "en": "{07 14 00}Everyone in {04 03 00}\nloves to sing, {01 00 00 05 00}{04 02 00}!\n\n{07 00 00}Did you know you can change\nthe {ff 00 00 02}town tune{ff 00 00 00}? {01 00 00 05 00}Yep! Go to\nthe {ff 00 00 08}town hall {ff 00 00 00}and try it!\n{07 0d 00}If you do a good job,\nmaybe EVERYONE will use it,\n{01 00 00 05 00}{04 02 00}!",
-   "et": "{07 14 00}Kõik {04 03 00}s armastavad\nlaulda, {01 00 00 05 00}{04 02 00}!\n\n{07 00 00}Kas teadsid, et saad muuta\n{ff 00 00 02}linna viisi{ff 00 00 00}? {01 00 00 05 00}Jaa! Mine\n{ff 00 00 08}raekotta {ff 00 00 00}ja proovi!\n{07 0d 00}Kui teed head tööd,\nkasutavad seda ehk KÕIK,\n{01 00 00 05 00}{04 02 00}!"
+   "et": "{07 14 00}Kõik {04 03 00} elanikud\narmastavad laulda, {01 00 00 05 00}{04 02 00}!\n\n{07 00 00}Kas teadsid, et saad muuta\n{ff 00 00 02}linna viisi{ff 00 00 00}? {01 00 00 05 00}Jaa! Mine\n{ff 00 00 08}raekotta {ff 00 00 00}ja proovi!\n{07 0d 00}Kui teed head tööd,\nkasutavad seda ehk KÕIK,\n{01 00 00 05 00}{04 02 00}!"
   },
   {
    "id": 7,
@@ -59,7 +59,7 @@
   {
    "id": 12,
    "en": "{07 16 00}FINALLY!{01 00 00 0a 00} HELLO?!{01 00 00 0a 00} This was \nsupposed to be here\nYES-TER-DAY!\n{07 16 00}Well, since you're the new\npart-timer, {04 1f 00},\nI guess I can't complain.\n{07 00 00}And hey! I shouldn't be all\nangry...{01 00 00 0a 00} After all, I've got\nbrand-new carpet!\n{07 14 00}Um, I don't need this old\nthing.{01 00 00 05 00} Here! Take my\n{0b 02 00}{04 1a 00}!",
-   "et": "{07 16 00}LÕPUKS!{01 00 00 0a 00} HALLOO?!{01 00 00 0a 00} See pidi\nsiin olema\nEI-LE!\n{07 16 00}Noh, kuna sa oled uus\npoole kohaga, {04 1f 00},\nei saa ma vist kurta.\n{07 00 00}Ja kuule! Ma ei tohiks\npahane olla...{01 00 00 0a 00} Lõpuks on mul\nuus vaip!\n{07 14 00}Ee, ma ei vaja seda vana\nasja.{01 00 00 05 00} Säh! Võta mu\n{0b 02 00}{04 1a 00}!"
+   "et": "{07 16 00}LÕPUKS!{01 00 00 0a 00} HALLOO?!{01 00 00 0a 00} See pidi\nsiin olema\nEI-LE!\n{07 16 00}Noh, kuna sa oled uus\npoolajaga abiline, {04 1f 00},\nei saa ma vist kurta.\n{07 00 00}Ja kuule! Ma ei tohiks\npahane olla...{01 00 00 0a 00} Lõpuks on mul\nuus vaip!\n{07 14 00}Ee, ma ei vaja seda vana\nasja.{01 00 00 05 00} Säh! Võta mu\n{0b 02 00}{04 1a 00}!"
   },
   {
    "id": 13,

@@ -4,7 +4,7 @@
   {
    "id": 0,
    "en": "{07 12 00}{01 00 00 14 00}Yaaaaaaawn{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 01 00}\n{07 16 00}Ah, {01 00 00 05 00}good morning,\n{04 1f 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 16 00}I'm happy that you came to\nvisit me this morning, but{01 00 00 0a 00}\n{01 00 00 0a 00}I'm{01 00 00 05 00} not a morning person.\n{07 1b 00}So, if it seems like I'm in{01 00 00 0a 00}\na bad mood, don't blame me.",
-   "et": "{07 12 00}{01 00 00 14 00}Haaaaigutus{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 01 00}\n{07 16 00}Ah, {01 00 00 05 00}tere hommikust,\n{04 1f 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 16 00}Hea meel, et sa tulid\nmind hommikul vaatama, aga{01 00 00 0a 00}\n{01 00 00 0a 00}ma{01 00 00 05 00} pole hommikuinimene.\n{07 1b 00}Nii et kui tundub, et mul on{01 00 00 0a 00}\nhalb tuju, ära süüdista."
+   "et": "{07 12 00}{01 00 00 14 00}Haaaaaaah{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 01 00}\n{07 16 00}Ah, {01 00 00 05 00}tere hommikust,\n{04 1f 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 16 00}Hea meel, et sa tulid\nmind hommikul vaatama, aga{01 00 00 0a 00}\n{01 00 00 0a 00}ma{01 00 00 05 00} pole hommikuinimene.\n{07 1b 00}Nii et kui tundub, et mul on{01 00 00 0a 00}\nhalb tuju, ära süüdista."
   },
   {
    "id": 1,
@@ -14,12 +14,12 @@
   {
    "id": 2,
    "en": "{07 14 00}{0b 03 00}{01 06 00}Welcome to my humble abode{01 07 00}!\n{01 00 00 05 00}{0b 03 00}{04 1f 00}...\n\n{07 00 00}You're here a bit late.{01 00 00 14 00} {07 1b 00}Do\nyou want breakfast?{01 00 00 05 00} Well, I\nate breakfast a while ago.\n{07 14 00}I finished up my post-meal\n{04 18 00}{01 00 00 05 00},\n{01 00 00 0a 00}{04 02 00}!",
-   "et": "{07 14 00}{0b 03 00}{01 06 00}Tere tulemast mu\ntagasihoidlikku majja{01 07 00}\n!{01 00 00 05 00}{0b 03 00}{04 1f 00} ... \n{07 00 00}Sa oled veidi hilja.{01 00 00 14 00} {07 1b 00}Kas\nsa tahad hommikusööki?{01 00 00 05 00} ma\nsõin ammu.\n{07 14 00}Ma lõpetasin oma\nsöögijärgse {04 18 00}{01 00 00 05 00},\n{01 00 00 0a 00}{04 02 00}!"
+   "et": "{07 14 00}{0b 03 00}{01 06 00}Tere tulemast mu\ntagasihoidlikku majja{01 07 00}!\n{01 00 00 05 00}{0b 03 00}{04 1f 00}...\n{07 00 00}Sa oled veidi hilja.{01 00 00 14 00} {07 1b 00}Kas\nsa tahad hommikusööki?{01 00 00 05 00} Ma\nsõin ammu.\n{07 14 00}Ma lõpetasin oma\nsöögijärgse {04 18 00}{01 00 00 05 00},\n{01 00 00 0a 00}{04 02 00}!"
   },
   {
    "id": 3,
    "en": "{07 04 00}{0b 03 00}{01 06 00}Hey{01 07 00}!\n{01 00 00 05 00}Welcome! {07 14 00}I was relaxing{01 00 00 0a 00} with\nsome{01 00 00 0a 00} {04 18 00}.",
-   "et": "{07 04 00}{0b 03 00}{01 06 00}Hei{01 07 00}!\n{01 00 00 05 00}Tere! {07 14 00}Ma lõõgastusin{01 00 00 0a 00}\nnatuke{01 00 00 0a 00} {04 18 00}ga."
+   "et": "{07 04 00}{0b 03 00}{01 06 00}Hei{01 07 00}!\n{01 00 00 05 00}Tere! {07 14 00}Ma lõõgastusin{01 00 00 0a 00}\nnatuke{01 00 00 0a 00} joogi nimega {04 18 00} seltsis."
   },
   {
    "id": 4,

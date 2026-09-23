@@ -54,12 +54,12 @@
   {
    "id": 10,
    "en": "{07 04 00}WHO'S still on top?!{01 00 00 05 00}\n{0b 03 00}{04 10 00}?! {01 00 00 05 00}Crud!\n\n{07 05 00}Look, I can't tell you why, {01 00 00 05 00}\nbut I just CAN'T lose!",
-   "et": "{07 04 00}KES on ikka tipus?!{01 00 00 05 00}\n{0b 03 00}{04 10 00}?! {01 00 00 05 00}Pagan!\n\n{07 05 00}Kuule, ma ei tea, miks, {01 00 00 05 00}\naga ma EI SAA kaotada!"
+   "et": "{07 04 00}KES on ikka tipus?!{01 00 00 05 00}\n{0b 03 00}{04 10 00}?! {01 00 00 05 00}Pagan!\n\n{07 05 00}Kuule, ei saa öelda, miks, {01 00 00 05 00}\naga ma EI SAA kaotada!"
   },
   {
    "id": 11,
    "en": "{07 16 00}Whoa, man, a {ff 00 00 02}{04 0f 00}-mm{ff 00 00 00}\n{0b 02 00}{04 1a 00}?{01 00 00 05 00}\nIs it for real?!\n{07 07 00}Man, what're they FEEDING\nthe bugs in {04 03 00}?!",
-   "et": "{07 16 00}Ohoo, mees, {ff 00 00 02}{04 0f 00}-mm{ff 00 00 00}\n{0b 02 00}{04 1a 00}?{01 00 00 05 00}\nKas see on päris?!\n{07 07 00}Mees, millega nad {04 03 00}s\nputukaid TOIDAVAD?!"
+   "et": "{07 16 00}Ohoo, mees, {ff 00 00 02}{04 0f 00}-mm{ff 00 00 00}\n{0b 02 00}{04 1a 00}?{01 00 00 05 00}\nKas see on päris?!\n{07 07 00}Mees, millega nad {04 03 00}\nlinnas putukaid TOIDAVAD?!"
   },
   {
    "id": 12,
@@ -69,7 +69,7 @@
   {
    "id": 13,
    "en": "{07 16 00}Man, there's just NO\nmovement on the bug front\nlately, {01 00 00 05 00}{04 02 00}...\n{07 00 00}Maybe I oughta do some\nbeetle-back ab crunches to\nstay loose{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}",
-   "et": "{07 16 00}Mees, putukarindel pole\nviimasel ajal MINGIT\nliikumist, {01 00 00 05 00}{04 02 00}...\n{07 00 00}Äkki peaksin tegema paar\npõrnikaselja kõhutõmmet,\net vormis püsida{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}"
+   "et": "{07 16 00}Mees, putukarindel pole\nviimasel ajal MINGIT\nliikumist, {01 00 00 05 00}{04 02 00}...\n{07 00 00}Äkki peaksin tegema paar\npõrnikaselja kõhutõstet,\net vormis püsida{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}"
   },
   {
    "id": 14,

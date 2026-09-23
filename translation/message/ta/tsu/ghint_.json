@@ -14,7 +14,7 @@
   {
    "id": 2,
    "en": "{07 0b 00}{01 00 00 0a 00}Have you ever had{01 00 00 05 00} {ff 00 00 06}Katrina\n{ff 00 00 00}tell you your fortune?{02 00 00 09 0a}\nWho?\nOh, yeah!",
-   "et": "{07 0b 00}{01 00 00 0a 00}Kas sul on kunagi{01 00 00 05 00} {ff 00 00 06}Katrina\n{ff 00 00 00}tulevikku ennustanud?{02 00 00 09 0a}\nKes?\nOo, jaa!"
+   "et": "{07 0b 00}{01 00 00 0a 00}Kas sulle on kunagi{01 00 00 05 00} {ff 00 00 06}Katrina\n{ff 00 00 00}tulevikku ennustanud?{02 00 00 09 0a}\nKes?\nOo, jaa!"
   },
   {
    "id": 3,
@@ -29,7 +29,7 @@
   {
    "id": 5,
    "en": "{07 14 00}Yeah, {01 00 00 0a 00}{04 1f 00},{01 00 00 0a 00} you have\nto make sure not to let\nflowers wither!\n{07 0e 00}{01 00 00 0a 00}Flowers{01 00 00 0a 00} are kinda like\nwomen, {01 00 00 05 00}{04 02 00}.\n\n{07 1c 00}{01 00 00 14 00}Give 'em care and they perk\nup,{01 00 00 05 00} but ignore 'em and they\nwilt and hit you with a net.",
-   "et": "{07 14 00}Jah, {01 00 00 0a 00}{04 1f 00},{01 00 00 0a 00} sa pead\nhoolitsema, et lilled\nei närtsiks!\n{07 0e 00}{01 00 00 0a 00}Lilled{01 00 00 0a 00} on natuke nagu\nnaised, {01 00 00 05 00}{04 02 00}.\n\n{07 1c 00}{01 00 00 14 00}Anna neile hoolt ja nad\nergastuvad,{01 00 00 05 00} eira ja nad\nnärtsivad ja löövad sind."
+   "et": "{07 14 00}Jah, {01 00 00 0a 00}{04 1f 00},{01 00 00 0a 00} sa pead\nhoolitsema, et lilled\nei närtsiks!\n{07 0e 00}{01 00 00 0a 00}Lilled{01 00 00 0a 00} on natuke nagu\nnaised, {01 00 00 05 00}{04 02 00}.\n\n{07 1c 00}{01 00 00 14 00}Anna neile hoolt ja nad\nkosuvad,{01 00 00 05 00} eira ja nad\nnärtsivad ja löövad võrguga."
   },
   {
    "id": 6,

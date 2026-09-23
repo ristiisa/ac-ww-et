@@ -34,7 +34,7 @@
   {
    "id": 6,
    "en": "{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{07 0c 00}{01 00 00 14 00}Of course!{01 00 00 0a 00} The {ff 00 00 07}golden\nnet{ff 00 00 00}! {01 01 00}{07 00 00}My uncle had a {ff 00 00 07}golden\nnet{ff 00 00 00} that he used a lot.\n{07 14 00}He was a {ff 00 00 03}Bug-Off{ff 00 00 00} legend,\nand also quite the star in\nthe bug-catching circuit.",
-   "et": "{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{07 0c 00}{01 00 00 14 00}Muidugi!{01 00 00 0a 00} {ff 00 00 07}Kuldne\nvõrk{ff 00 00 00}! {01 01 00}{07 00 00}Mu onul oli {ff 00 00 07}kuldne\nvõrk{ff 00 00 00}, mida ta tihti kasutas.\n{07 14 00}Ta oli {ff 00 00 03}putukavõistluse{ff 00 00 00}\nlegend ja ka päris staar\nputukavõistluse ringkonnas."
+   "et": "{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{07 0c 00}{01 00 00 14 00}Muidugi!{01 00 00 0a 00} {ff 00 00 07}Kuldne\nvõrk{ff 00 00 00}! {01 01 00}{07 00 00}Mu onul oli {ff 00 00 07}kuldne\nvõrk{ff 00 00 00}, mida ta tihti kasutas.\n{07 14 00}Ta oli {ff 00 00 03}putukavõistluse{ff 00 00 00}\nlegend ja päris staar ka\nputukapüüdjate seas."
   },
   {
    "id": 7,
@@ -74,7 +74,7 @@
   {
    "id": 14,
    "en": "{07 16 00}So {04 10 00} is in the\nlead with that {ff 00 00 02}{04 0f 00}-mm{ff 00 00 00}\n{0b 02 00}{04 1a 00}...\n{07 01 00}Oh, well excuse me! {01 01 00}{01 08 00}Of\ncourse, YOU already know\nthat!",
-   "et": "{07 16 00}Nii et {04 10 00} juhib\nselle {ff 00 00 02}{04 0f 00} mm{ff 00 00 00}\n{0b 02 00}{04 1a 00}ga...\n{07 01 00}Oh, vabandage väga! {01 01 00}{01 08 00}Muidugi\nSINA juba tead\nseda!"
+   "et": "{07 16 00}Nii et {04 10 00} juhib\nselle {ff 00 00 02}{04 0f 00} mm{ff 00 00 00}\n{0b 02 00}putukaga nimega {04 1a 00}...\n{07 01 00}Oh, vabandage väga! {01 01 00}{01 08 00}Muidugi\nSINA juba tead\nseda!"
   }
  ]
 }

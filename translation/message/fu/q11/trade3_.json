@@ -4,17 +4,17 @@
   {
    "id": 0,
    "en": "{07 00 00}You're interested in my\n{0b 02 00}{04 1a 00}?\nHm. After the discount.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 0b 00}How does {04 12 00} Bells\nsound to you, {01 00 00 05 00}{04 02 00}?{02 04 00 ff ff}\nI'll take it!\nYou're joking!",
-   "et": "{07 00 00}Sind huvitab minu\n{0b 02 00}{04 1a 00}?\nHm. Pärast allahindlust{01 00 00 05 00}.{01 00 00 05 00}.\n{07 0b 00}Kuidas kõlab {04 12 00}\nkellukest, {01 00 00 05 00}{04 02 00}?{02 04 00 ff ff}\nMa võtan!\nSa naljatad!"
+   "et": "{07 00 00}Sind huvitab minu\n{0b 02 00}{04 1a 00}?\nHm. Pärast allahindlust{01 00 00 05 00}.{01 00 00 05 00}.\n{07 0b 00}Kuidas kõlab {04 12 00}\nkella, {01 00 00 05 00}{04 02 00}?{02 04 00 ff ff}\nMa võtan!\nSa naljatad!"
   },
   {
    "id": 1,
    "en": "{07 16 00}Really? I never liked that\n{0b 02 00}{04 1a 00}, to\nbe honest, {01 00 00 05 00}{04 02 00}.\n{07 00 00}Would you buy it off me\nfor, oh, {07 0b 00}{04 12 00} Bells?{02 04 00 ff ff}\nI'll take it!\nI'll leave it!",
-   "et": "{07 16 00}Tõesti? Mulle pole kunagi\nmeeldinud see {0b 02 00}{04 1a 00},\nausalt öeldes, {01 00 00 05 00}{04 02 00}.\n{07 00 00}Kas ostaksid selle minult\n{07 0b 00}{04 12 00} kelluka eest?{02 04 00 ff ff}\nMa võtan!\nJätan võtmata!"
+   "et": "{07 16 00}Tõesti? Mulle pole kunagi\nmeeldinud see {0b 02 00}{04 1a 00},\nausalt öeldes, {01 00 00 05 00}{04 02 00}.\n{07 00 00}Kas ostaksid selle minult\n{07 0b 00}{04 12 00} kella eest?{02 04 00 ff ff}\nMa võtan!\nJätan võtmata!"
   },
   {
    "id": 2,
    "en": "{07 00 00}Hoo, boy... You want my\n{0b 02 00}{04 1a 00}?{01 00 00 05 00}\nLet me think about it.\n{07 0e 00}I guess I'd sell it for\n{04 12 00} Bells.{01 01 00}\nDoes that sound good?{02 04 00 ff ff}\nOh, it's on!\nNo, thanks.",
-   "et": "{07 00 00}Oi sa... Sa tahad minu\n{0b 02 00}{04 1a 00}?{01 00 00 05 00}\nLas ma mõtlen.\n{07 0e 00}Ma vist müüksin selle\n{04 12 00} kelluka eest.{01 01 00}\nKas see kõlab hästi?{02 04 00 ff ff}\nOh, läheb!\nEi, aitäh."
+   "et": "{07 00 00}Oi sa... Sa tahad minu\n{0b 02 00}{04 1a 00}?{01 00 00 05 00}\nLas ma mõtlen.\n{07 0e 00}Ma vist müüksin selle\n{04 12 00} kella eest.{01 01 00}\nKas see kõlab hästi?{02 04 00 ff ff}\nKokkulepe siis!\nEi, aitäh."
   }
  ]
 }

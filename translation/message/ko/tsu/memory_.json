@@ -49,7 +49,7 @@
   {
    "id": 9,
    "en": "You been getting along with\n{01 00 00 05 00}{ff 00 00 05}{04 19 00}{ff 00 00 00}?{01 00 00 05 00}\n{07 0b 00}{0b 03 00}{01 00 00 05 00}{04 02 00}?\n{07 00 00}I got this letter from that\nkid the other day.{01 00 00 05 00}\nHere...{01 00 00 05 00}see for yourself!",
-   "et": "Kas sa saad hästi läbi\n{01 00 00 05 00}{ff 00 00 05}{04 19 00}{ff 00 00 00}iga?{01 00 00 05 00}\n{07 0b 00}{0b 03 00}{01 00 00 05 00}{04 02 00}?\n{07 00 00}Ma sain teine päev sellelt\nlapselt selle kirja.{01 00 00 05 00}\nSäh...{01 00 00 05 00}vaata ise!"
+   "et": "Kas sa saad hästi läbi\n{01 00 00 05 00}tüübiga nimega {ff 00 00 05}{04 19 00}{ff 00 00 00}?{01 00 00 05 00}\n{07 0b 00}{0b 03 00}{01 00 00 05 00}{04 02 00}?\n{07 00 00}Ma sain teine päev sellelt\nlapselt selle kirja.{01 00 00 05 00}\nSäh...{01 00 00 05 00}vaata ise!"
   },
   {
    "id": 10,
@@ -59,12 +59,12 @@
   {
    "id": 11,
    "en": "{07 15 00}Every time I read this\nletter, I see that.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}face.\n\nMaybe it's kinda sappy,{01 00 00 05 00}\nbut I can hear that kid's\nvoice when I read it.\n{07 08 00}Man, letters are great, \naren't they, {01 00 00 05 00}{04 02 00}?",
-   "et": "{07 15 00}Iga kord, kui ma seda kirja\nloen, näen ma seda.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}nägu.\n\nEhk on see pisut nutune,{01 00 00 05 00}\naga ma kuulen selle lapse\nhäält, kui ma seda loen.\n{07 08 00}Poiss, kirjad on vahvad, \nkas pole, {01 00 00 05 00}{04 02 00}?"
+   "et": "{07 15 00}Iga kord, kui ma seda kirja\nloen, näen ma seda.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}nägu.\n\nEhk on see pisut mais,{01 00 00 05 00}\naga ma kuulen selle lapse\nhäält, kui ma seda loen.\n{07 08 00}Poiss, kirjad on vahvad, \nkas pole, {01 00 00 05 00}{04 02 00}?"
   },
   {
    "id": 12,
    "en": "{07 14 00}Heh.{01 00 00 14 00} {07 17 00}Sorry if I creeped\nyou out there.",
-   "et": "{07 14 00}Heh.{01 00 00 14 00} {07 17 00}Vabandust, kui ma\nsind ehmatasin."
+   "et": "{07 14 00}Heh.{01 00 00 14 00} {07 17 00}Vabandust, kui ma just\nveidralt mõjusin."
   },
   {
    "id": 13,

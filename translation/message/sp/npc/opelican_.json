@@ -9,7 +9,7 @@
   {
    "id": 1,
    "en": "Fine,{01 00 00 0f 00} don't let the door hit\nyour tail on the way out!{01 00 00 0f 00}\n{ff 00 00 04}(Quit loitering and shoo!)",
-   "et": "Hästi,{01 00 00 0f 00} ära lase uksel\nvälja minnes sabale käia!{01 00 00 0f 00}\n{ff 00 00 04}(Lõpeta luusimine ja kao!)"
+   "et": "Hästi,{01 00 00 0f 00} vaata, et uks su\nvälja minnes sabale ei lööks!{01 00 00 0f 00}\n{ff 00 00 04}(Lõpeta luusimine ja kao!)"
   },
   {
    "id": 2,
@@ -19,7 +19,7 @@
   {
    "id": 3,
    "en": "{07 0b 00}Listen, are you sending{01 00 00 0f 00} or\nnot?!{01 00 00 0f 00}\n{ff 00 00 04}(Make up your mind!){ff 00 00 00}{02 04 00 00 01}\nSending.\nThen again...",
-   "et": "{07 0b 00}Kuule, kas sa saadad{01 00 00 0f 00} või\nei?!{01 00 00 0f 00}\n{ff 00 00 04}(Otsusta juba ära!){ff 00 00 00}{02 04 00 00 01}\nSaadan.\nTeisest küljest..."
+   "et": "{07 0b 00}Kuule, kas sa saadad{01 00 00 0f 00} või\nei?!{01 00 00 0f 00}\n{ff 00 00 04}(Otsusta juba ära!){ff 00 00 00}{02 04 00 00 01}\nSaadan.\nTeisalt..."
   },
   {
    "id": 4,
@@ -124,7 +124,7 @@
   {
    "id": 25,
    "en": "{07 0b 00}So, you want to donate to\n{01 00 00 05 00}the town of {ff 00 00 08}Boondox{ff 00 00 00}?{ff 00 00 08}{01 00 00 0f 00}\n{ff 00 00 04}(Are you.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}serious?){ff 00 00 00}\nNot that I care, really.{01 00 00 05 00}\n{07 0b 00}How much?{01 00 00 0f 00}\n{ff 00 00 04}(What a{01 00 00 05 00} show-off.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00})",
-   "et": "{07 0b 00}Nii, sa tahad annetada\n{01 00 00 05 00}linnale {ff 00 00 08}Kolgas{ff 00 00 00}?{ff 00 00 08}{01 00 00 0f 00}\n{ff 00 00 04}(Kas sa{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}tõsiselt?){ff 00 00 00}\nMitte et mind huvitaks.{01 00 00 05 00}\n{07 0b 00}Kui palju?{01 00 00 0f 00}\n{ff 00 00 04}(Küll on{01 00 00 05 00} eputis{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.)"
+   "et": "{07 0b 00}Nii, sa tahad annetada\n{01 00 00 05 00}linnale {ff 00 00 08}Kolgas{ff 00 00 00}?{ff 00 00 08}{01 00 00 0f 00}\n{ff 00 00 04}(Kas sa{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}tõsiselt?){ff 00 00 00}\nMitte et mind huvitaks.{01 00 00 05 00}\n{07 0b 00}Kui palju?{01 00 00 0f 00}\n{ff 00 00 04}(Küll{01 00 00 05 00} eputab{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.)"
   },
   {
    "id": 26,
@@ -169,7 +169,7 @@
   {
    "id": 34,
    "en": "{07 00 00}Your donation{01 00 00 05 00} will supply\n{ff 00 00 08}Boondox{ff 00 00 00} with much-needed\nwheelbarrows.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}I think.\nNot to mention snacks that\naren't dirt. {01 00 00 0f 00}Like mud pies!\n{07 11 00}{ff 00 00 04}(Heh heh heh!){01 00 00 05 00}{07 00 00}",
-   "et": "{07 00 00}Sinu annetus{01 00 00 05 00} varustab\n{ff 00 00 08}Kolka{ff 00 00 00} hädavajalike\nkäruditega.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}ma arvan.\nRääkimata suupistetest, mis\npole muld. {01 00 00 0f 00}Nagu mudakoogid!\n{07 11 00}{ff 00 00 04}(Hee hee hee!){01 00 00 05 00}{07 00 00}"
+   "et": "{07 00 00}Sinu annetus{01 00 00 05 00} varustab\n{ff 00 00 08}Kolka{ff 00 00 00} hädavajalike\nkärudega.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}ma arvan.\nRääkimata suupistetest, mis\npole muld. {01 00 00 0f 00}Nagu mudakoogid!\n{07 11 00}{ff 00 00 04}(Hee hee hee!){01 00 00 05 00}{07 00 00}"
   },
   {
    "id": 35,
@@ -194,7 +194,7 @@
   {
    "id": 39,
    "en": "{07 00 00}With your gift, {ff 00 00 08}Boondoxians\n{ff 00 00 00}will get a shipment of\nbeets for their borscht.",
-   "et": "{07 00 00}Sinu kingiga saab {ff 00 00 08}Kolgas\n{ff 00 00 00}saadetise peete oma\nborši jaoks."
+   "et": "{07 00 00}Sinu kingiga saab {ff 00 00 08}Kolgas\n{ff 00 00 00}peetisaadetise oma\nborši jaoks."
   },
   {
    "id": 40,
@@ -264,7 +264,7 @@
   {
    "id": 53,
    "en": "What?{01 00 00 0f 00} You're moving from \n{04 03 00} to a town on\nanother {ff 00 00 01}Game Card{ff 00 00 00}?\n{07 00 00}Well, just so you don't\ncome crying to me later,{01 00 00 05 00}\nyou should know...\nWhatever you've got\nsquirreled away in your\ndresser or tape player,\nand anything else that a \nresident might want to use,\nwill be lost.\nAlso, your {ff 00 00 01}Nintendo Wi-Fi\nConnection{ff 00 00 00} settings will be\ndeleted, so...\nIf you want to play via\n{ff 00 00 01}Nintendo WFC{ff 00 00 00},\n\nyou'll have to have your\nfriends re-register you to\ntheir {ff 00 00 02}friend rosters{ff 00 00 00}.\n{07 0b 00}You understand that, \ndon't you?{01 00 00 0f 00} {ff 00 00 04}(It's not rocket\nscience or anything!){ff 00 00 00}\n{07 00 00}If that's what you want to\ndo, then prep the other\n{ff 00 00 01}Game Card {ff 00 00 00}first.\nMake sure that it's\n{ff 00 00 02}prepared to welcome a new\nresident{ff 00 00 00}.\nInsert the {ff 00 00 01}Game Card {ff 00 00 00}with\nthe town you're moving to\ninto a {ff 00 00 01}Nintendo DS{ff 00 00 00}.\nThen choose {ff 00 00 02}Other things\n{ff 00 00 00}and {ff 00 00 02}Immigration{ff 00 00 00}. {01 01 00}{ff 00 00 04}(C'mon! I\ndon't have all day here!){ff 00 00 00}\n{07 00 00}OK then.{01 00 00 05 00} I'll start the{ff 00 00 01}\nDS Wireless Communication{ff 00 00 00}.{01 00 00 05 00}\n{07 0b 00}Are you ready? {02 00 00 36 04}\n...And waiting!\nWait! Cold feet!",
-   "et": "Mida?{01 00 00 0f 00} Sa kolid linnast \n{04 03 00} linna teisel\n{ff 00 00 01}mängukaardil{ff 00 00 00}?\n{07 00 00}Noh, et sa hiljem minu\njuurde nutma ei tuleks,{01 00 00 05 00}\npead sa teadma...\nMis iganes sul on\nkummutisse või\nmakki peidetud,\nja kõik muu, mida mõni \nelanik võiks kasutada,\nläheb kaotsi.\nSamuti kustutatakse sinu\n{ff 00 00 01}Nintendo Wi-Fi ühenduse{ff 00 00 00}\nseaded, nii et...\nKui tahad mängida\n{ff 00 00 01}Nintendo WFC{ff 00 00 00} kaudu,\n\npead laskma sõpradel\nend uuesti registreerida\noma {ff 00 00 02}sõbranimekirja{ff 00 00 00}.\n{07 0b 00}Sa mõistad seda, \neks?{01 00 00 0f 00} {ff 00 00 04}(See pole ju\nmingi raketiteadus!){ff 00 00 00}\n{07 00 00}Kui sa tahad seda teha,\nsiis valmista kõigepealt\nteine {ff 00 00 01}mängukaart {ff 00 00 00}ette.\nVeendu, et see on\n{ff 00 00 02}valmis uut elanikku\nvastu võtma{ff 00 00 00}.\nPane {ff 00 00 01}mängukaart {ff 00 00 00}linnaga,\nkuhu kolid,\n{ff 00 00 01}Nintendo DS-i{ff 00 00 00}.\nSiis vali {ff 00 00 02}Muud asjad\n{ff 00 00 00}ja {ff 00 00 02}Sisseränne{ff 00 00 00}. {01 01 00}{ff 00 00 04}(Kähku! Mul\npole terve päev aega!){ff 00 00 00}\n{07 00 00}Olgu.{01 00 00 05 00} Alustan{ff 00 00 01}\nDS-i juhtmevaba sidet{ff 00 00 00}.{01 00 00 05 00}\n{07 0b 00}Kas oled valmis? {02 00 00 36 04}\n...Ja ootan!\nOota! Kardan!"
+   "et": "Mida?{01 00 00 0f 00} Sa kolid linnast \n{04 03 00} linna teisel\n{ff 00 00 01}mängukaardil{ff 00 00 00}?\n{07 00 00}Noh, et sa hiljem minu\njuurde nutma ei tuleks,{01 00 00 05 00}\npead sa teadma...\nMis iganes sul on\nkummutisse või\nmakki peidetud,\nja kõik muu, mida mõni \nelanik võiks kasutada,\nläheb kaotsi.\nSamuti kustutatakse sinu\n{ff 00 00 01}Nintendo Wi-Fi ühenduse{ff 00 00 00}\nseaded, nii et...\nKui tahad mängida\n{ff 00 00 01}Nintendo WFC{ff 00 00 00} kaudu,\n\npead laskma sõpradel\nend uuesti registreerida\noma {ff 00 00 02}sõbranimekirja{ff 00 00 00}.\n{07 0b 00}Sa mõistad seda, \neks?{01 00 00 0f 00} {ff 00 00 04}(See pole ju\nmingi raketiteadus!){ff 00 00 00}\n{07 00 00}Kui sa tahad seda teha,\nsiis valmista kõigepealt\nteine {ff 00 00 01}mängukaart {ff 00 00 00}ette.\nVeendu, et see on\n{ff 00 00 02}valmis uut elanikku\nvastu võtma{ff 00 00 00}.\nPane {ff 00 00 01}mängukaart {ff 00 00 00}linnaga,\nkuhu kolid,\n{ff 00 00 01}Nintendo DS-i{ff 00 00 00}.\nSiis vali {ff 00 00 02}Muud asjad\n{ff 00 00 00}ja {ff 00 00 02}Sisseränne{ff 00 00 00}. {01 01 00}{ff 00 00 04}(Kähku! Mul\npole terve päev aega!){ff 00 00 00}\n{07 00 00}Olgu.{01 00 00 05 00} Alustan{ff 00 00 01}\nDS-i juhtmevaba sidet{ff 00 00 00}.{01 00 00 05 00}\n{07 0b 00}Kas oled valmis? {02 00 00 36 04}\n...Ja ootan!\nOota! Ma taganen!"
   },
   {
    "id": 54,
@@ -279,7 +279,7 @@
   {
    "id": 56,
    "en": "{07 0b 00}So you're moving to another\ntown?{02 04 00 3b 3a}\nMoving.\nThen again...",
-   "et": "{07 0b 00}Nii et sa kolid teise\nlinna?{02 04 00 3b 3a}\nKolin.\nTeisest küljest..."
+   "et": "{07 0b 00}Nii et sa kolid teise\nlinna?{02 04 00 3b 3a}\nKolin.\nTeisalt..."
   },
   {
    "id": 57,
@@ -304,7 +304,7 @@
   {
    "id": 61,
    "en": "{07 00 00}Are you a tree-hugging\nhippie or something?\n{ff 00 00 04}(Patchouli, ew!){ff 00 00 00}\nHere, just read the notes\nfrom the suggestion box!\n{ff 00 00 04}(Usually, I toss these.)",
-   "et": "{07 00 00}Kas sa oled mingi\npuudekallistaja hipi?\n{ff 00 00 04}(Pats ja lilled, äkh!){ff 00 00 00}\nSiin, loe lihtsalt sedeleid\nettepanekukastist!\n{ff 00 00 04}(Tavaliselt viskan ära.)"
+   "et": "{07 00 00}Kas sa oled mingi\npuudekallistaja hipi?\n{ff 00 00 04}(Pätšuli, äkh!){ff 00 00 00}\nSiin, loe lihtsalt sedeleid\nettepanekukastist!\n{ff 00 00 04}(Tavaliselt viskan ära.)"
   },
   {
    "id": 62,
@@ -434,7 +434,7 @@
   {
    "id": 87,
    "en": "{07 04 00}Oh!{01 00 00 0a 00} This is that item that\n{ff 00 00 06}Pelly {ff 00 00 00}{07 00 00}ordered from{ff 00 00 06} Saharah{ff 00 00 00},\nisn't it.\n{07 0e 00}I didn't know that you were\nworking for {ff 00 00 06}Saharah{ff 00 00 00}.{01 00 00 0f 00}\n{ff 00 00 04}(Are we done yet?!){ff 00 00 00}\n{07 00 00}Well, {01 00 00 0a 00}I guess I should{01 00 00 05 00} say\nthanks.{01 00 00 0f 00} Uh, thanks.\n{ff 00 00 04}(Get outta here!{01 00 00 05 00} Sheesh!){ff 00 00 00}\nTell that cheap {ff 00 00 06}Saharah\n{ff 00 00 00}that I said thanks for me,\nwould you?",
-   "et": "{07 04 00}Oh!{01 00 00 0a 00} See on see ese, mille\n{ff 00 00 06}Pelly {ff 00 00 00}{07 00 00}tellis{ff 00 00 06} Saharah'lt{ff 00 00 00},\neks ole.\n{07 0e 00}Ma ei teadnud, et sa\ntöötad {ff 00 00 06}Saharah'le{ff 00 00 00}.{01 00 00 0f 00}\n{ff 00 00 04}(Kas oleme juba valmis?!){ff 00 00 00}\n{07 00 00}Noh, {01 00 00 0a 00}vist peaksin{01 00 00 05 00} ütlema\naitäh.{01 00 00 0f 00} Ee, aitäh.\n{ff 00 00 04}(Kao siit!{01 00 00 05 00} Ptüi!){ff 00 00 00}\nÜtle ihnele {ff 00 00 06}Saharah'le\n{ff 00 00 00}minu poolt aitäh,\neks?"
+   "et": "{07 04 00}Oh!{01 00 00 0a 00} See on see ese, mille\n{ff 00 00 06}Pelly {ff 00 00 00}{07 00 00}tellis{ff 00 00 06} Saharah'lt{ff 00 00 00},\neks ole.\n{07 0e 00}Ma ei teadnud, et sa\ntöötad {ff 00 00 06}Saharah'le{ff 00 00 00}.{01 00 00 0f 00}\n{ff 00 00 04}(Kas sai juba lõpuks?!){ff 00 00 00}\n{07 00 00}Noh, {01 00 00 0a 00}vist peaksin{01 00 00 05 00} ütlema\naitäh.{01 00 00 0f 00} Ee, aitäh.\n{ff 00 00 04}(Kao siit!{01 00 00 05 00} Ptüi!){ff 00 00 00}\nÜtle ihnele {ff 00 00 06}Saharah'le\n{ff 00 00 00}minu poolt aitäh,\neks?"
   },
   {
    "id": 88,

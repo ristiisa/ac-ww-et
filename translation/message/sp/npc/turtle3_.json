@@ -29,7 +29,7 @@
   {
    "id": 5,
    "en": "{07 00 00}Lest you get any foolish\nideas,{01 00 00 0a 00} it's not just about\nplanting flowers willy-nilly!\n{07 19 00}A beautiful garden is\nwell planned, {01 00 00 05 00}with a sense\nof order and dignity!\n{07 00 00}But for my money, {07 03 00}{01 00 00 0a 00}I like a\ndazzlingly dense array of\nflowers! {01 00 00 0a 00}Yes, think glamour!",
-   "et": "{07 00 00}Et sul rumalaid mõtteid\nei tekiks,{01 00 00 0a 00} asi pole ainult\nlillede istutamises!\n{07 19 00}Ilus aed on hästi\nläbi mõeldud, {01 00 00 05 00}korrastatud\nja väärikas!\n{07 00 00}Aga minu meelest {07 03 00}{01 00 00 0a 00}meeldib\nmulle pimestavalt tihe\nlillemeri! {01 00 00 0a 00}Jah, sära!"
+   "et": "{07 00 00}Et sul rumalaid mõtteid\nei tekiks,{01 00 00 0a 00} asi pole ainult\nlillede laiali panemises!\n{07 19 00}Ilus aed on hästi\nläbi mõeldud, {01 00 00 05 00}korrastatud\nja väärikas!\n{07 00 00}Aga minu meelest {07 03 00}{01 00 00 0a 00}meeldib\nmulle pimestavalt tihe\nlillemeri! {01 00 00 0a 00}Jah, sära!"
   },
   {
    "id": 6,
@@ -64,7 +64,7 @@
   {
    "id": 12,
    "en": "{07 00 00}Well,{01 00 00 05 00} how about this one?",
-   "et": "{07 00 00}Noh,{01 00 00 05 00} kuidas selle kohta?"
+   "et": "{07 00 00}Noh,{01 00 00 05 00} mis sa sellest arvad?"
   },
   {
    "id": 13,
@@ -74,12 +74,12 @@
   {
    "id": 15,
    "en": "{07 0e 00}{01 00 00 05 00}Well, {01 00 00 0f 00}the birth flower for\nJanuary is.{01 00 00 05 00}.{01 00 00 05 00}.{01 01 00}{07 0c 00}the {ff 00 00 02}carnation{ff 00 00 00}!{ff 00 00 02}\n{ff 00 00 00}{07 00 00}It represents {ff 00 00 02}deep love{ff 00 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0f 00}\nAnd is there any love\ndeeper than the love of\na town for its.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}leader?\nAnd is there any greater\ndisplay of love than{01 00 00 0a 00}{07 11 00} a gift\nof fish, Bells, and tulips?\nWell, ahem. Er... {07 03 00}{01 00 00 0a 00}Heh ha ha\nhoorf!{01 00 00 0a 00} Oh my! {01 00 00 05 00}Horf horf\nHEEorf! {01 00 00 05 00}Well, ahh, hmm.{01 00 00 05 00}.{01 00 00 05 00}.",
-   "et": "{07 0e 00}{01 00 00 05 00}Noh, {01 00 00 0f 00}jaanuari sünnilill\non.{01 00 00 05 00}.{01 00 00 05 00}.{01 01 00}{07 0c 00}{ff 00 00 02}nelk{ff 00 00 00}!{ff 00 00 02}\n{ff 00 00 00}{07 00 00}See tähendab {ff 00 00 02}armastust{ff 00 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0f 00}\nJa kas on olemas sügavamat\narmastust kui linna\narmastus oma.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}juhi vastu?\nJa kas on suuremat\narmastusavaldust kui{01 00 00 0a 00}{07 11 00} kalad\nja tulbid kingiks?\nNoh, khm. Ee... {07 03 00}{01 00 00 0a 00}Hehee ha\nhoorf!{01 00 00 0a 00} Oi sa! {01 00 00 05 00}Horf horf\nHEEorf! {01 00 00 05 00}Noh, ahh, hmm.{01 00 00 05 00}.{01 00 00 05 00}."
+   "et": "{07 0e 00}{01 00 00 05 00}Noh, {01 00 00 0f 00}jaanuari sünnilill\non.{01 00 00 05 00}.{01 00 00 05 00}.{01 01 00}{07 0c 00}{ff 00 00 02}nelk{ff 00 00 00}!{ff 00 00 02}\n{ff 00 00 00}{07 00 00}See tähendab {ff 00 00 02}sügavat armastust{ff 00 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0f 00}\nJa kas on olemas sügavamat\narmastust kui linna\narmastus oma.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}juhi vastu?\nJa kas on suuremat\narmastusavaldust kui{01 00 00 0a 00}{07 11 00} kala,\nkellad ja tulbid kingiks?\nNoh, khm. Ee... {07 03 00}{01 00 00 0a 00}Hehee ha\nhoorf!{01 00 00 0a 00} Oi sa! {01 00 00 05 00}Horf horf\nHEEorf! {01 00 00 05 00}Noh, ahh, hmm.{01 00 00 05 00}.{01 00 00 05 00}."
   },
   {
    "id": 16,
    "en": "{07 0e 00}{01 00 00 05 00}Yes!{01 00 00 0f 00} The birth flower for\nFebruary is the.{01 00 00 05 00}.{01 00 00 05 00}.{01 01 00}{07 0c 00}{ff 00 00 02}violet{ff 00 00 00}! {01 00 00 0f 00}{07 00 00}It\nstands for {ff 00 00 02}purity{ff 00 00 00}, sprout.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0f 00}\n{07 17 00}{01 00 00 0a 00}I'm reminded of the purity\nof my young heart as I\ncame out of my shell.{01 00 00 0a 00}\nI had a way with the ladies{07 02 00}.\n{01 00 00 14 00}{07 0f 00}That was a long time ago.\n{01 00 00 0f 00}Oh, {01 00 00 0a 00}my aching shell!",
-   "et": "{07 0e 00}{01 00 00 05 00}Jah!{01 00 00 0f 00} Veebruari sünnilill\non.{01 00 00 05 00}.{01 00 00 05 00}.{01 01 00}{07 0c 00}{ff 00 00 02}kannike{ff 00 00 00}! {01 00 00 0f 00}{07 00 00}See\ntähendab {ff 00 00 02}puhtust{ff 00 00 00}, võsuke..{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0f 00}\n{07 17 00}{01 00 00 0a 00}See meenutab mulle mu\nnoore südame puhtust, kui\nma kojast välja tulin.{01 00 00 0a 00}\nMul oli daamidega oskusi{07 02 00}.\n{01 00 00 14 00}{07 0f 00}See oli ammu.\n{01 00 00 0f 00}Oh, {01 00 00 0a 00}mu valutav koda!"
+   "et": "{07 0e 00}{01 00 00 05 00}Jah!{01 00 00 0f 00} Veebruari sünnilill\non.{01 00 00 05 00}.{01 00 00 05 00}.{01 01 00}{07 0c 00}{ff 00 00 02}kannike{ff 00 00 00}! {01 00 00 0f 00}{07 00 00}See\ntähendab {ff 00 00 02}puhtust{ff 00 00 00}, võsuke..{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0f 00}\n{07 17 00}{01 00 00 0a 00}See meenutab mulle mu\nnoore südame puhtust, kui\nma kojast välja tulin.{01 00 00 0a 00}\nOlin daamide lemmik{07 02 00}.\n{01 00 00 14 00}{07 0f 00}See oli ammu.\n{01 00 00 0f 00}Oh, {01 00 00 0a 00}mu valutav koda!"
   },
   {
    "id": 17,
@@ -104,7 +104,7 @@
   {
    "id": 21,
    "en": "{07 0e 00}{01 00 00 05 00}Well, {01 00 00 0f 00}the birth flower for\nJuly is the.{01 00 00 05 00}.{01 00 00 05 00}.{01 01 00}{07 0c 00}{ff 00 00 02}tulip{ff 00 00 00}!{01 00 00 05 00}\n{07 00 00}It stands for {ff 00 00 02}good luck{ff 00 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0f 00}\n{07 1d 00}I had a spot of good luck\nthe other day.{01 00 00 05 00}{07 00 00} I was making\na smelt-and-jelly sandwich,\nand I dropped the bread\nwith jelly on it.{01 01 00}{07 0a 00} And\nit landed jelly-side up!\n{07 14 00}{01 00 00 0f 00}There's nothing worse than\na smelt-and-jelly-and-lint\nsandwich, sprout!",
-   "et": "{07 0e 00}{01 00 00 05 00}Noh, {01 00 00 0f 00}juuli sünnilill\non.{01 00 00 05 00}.{01 00 00 05 00}.{01 01 00}{07 0c 00}{ff 00 00 02}tulp{ff 00 00 00}!{01 00 00 05 00}\n{07 00 00}See tähendab {ff 00 00 02}õnne{ff 00 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0f 00}\n{07 1d 00}Mul vedas hiljuti\nühel päeval.{01 00 00 05 00}{07 00 00} Tegin\ntindi-ja-moosivõileiba\nja pillasin leiva maha,\nmoosipool all.{01 01 00}{07 0a 00} Ja see\nmaandus moosipool üleval!\n{07 14 00}{01 00 00 0f 00}Pole midagi hullemat kui\ntindi-ja-moosi-ja-ebeme-\nvõileib, võsuke!"
+   "et": "{07 0e 00}{01 00 00 05 00}Noh, {01 00 00 0f 00}juuli sünnilill\non.{01 00 00 05 00}.{01 00 00 05 00}.{01 01 00}{07 0c 00}{ff 00 00 02}tulp{ff 00 00 00}!{01 00 00 05 00}\n{07 00 00}See tähendab {ff 00 00 02}õnne{ff 00 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0f 00}\n{07 1d 00}Mul vedas hiljuti\nühel päeval.{01 00 00 05 00}{07 00 00} Tegin\ntindi-ja-moosivõileiba\nja pillasin leiva maha.{01 01 00}\n{07 0a 00}Ja see\nmaandus moosipool üleval!\n{07 14 00}{01 00 00 0f 00}Pole midagi hullemat kui\ntindi-ja-moosi-ja-ebeme-\nvõileib, võsuke!"
   },
   {
    "id": 22,
@@ -134,7 +134,7 @@
   {
    "id": 28,
    "en": "{07 0e 00}Have you ever noticed that\n{ff 00 00 02}snapdragons{ff 00 00 00} look a bit like{01 00 00 0a 00}\nrabbit faces?\n{07 00 00}That's why I've never\nfavored bouquets that\nfeature them heavily.\n{07 16 00}The idea of hundreds of\nrabbit faces giving me{01 00 00 05 00}\nthe eyeless stare{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\nWatching me as I count my\nBells{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}. {01 01 00}{01 08 00}EEEeeyeech!{01 01 00} {07 16 00}It's too\nfrightening for words!",
-   "et": "{07 0e 00}Kas sa oled märganud, et\n{ff 00 00 02}lõvilõuad{ff 00 00 00} näevad veidi välja{01 00 00 0a 00}\nnagu jäneste näod?\n{07 00 00}Sellepärast pole ma kunagi\nsallinud kimpe, kus neid\npalju on.\n{07 16 00}Mõte sadadest\njänesenägudest, mis{01 00 00 05 00}\nmind silmituna jõllitavad{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\nVaatavad, kuidas ma oma\nkellasid loen{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}. {01 01 00}{01 08 00}IIIhh!{01 01 00} {07 16 00}See on\nsõnulseletamatult hirmus!"
+   "et": "{07 0e 00}Kas sa oled märganud, et\n{ff 00 00 02}lõvilõuad{ff 00 00 00} näevad veidi välja{01 00 00 0a 00}\nnagu jäneste näod?\n{07 00 00}Sellepärast pole ma kunagi\nsallinud kimpe, kus neid\npalju on.\n{07 16 00}Mõte sadadest\njänesenägudest, mis{01 00 00 05 00}\nmind tühjalt jõllitavad{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\nVaatavad, kuidas ma oma\nkellasid loen{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}. {01 01 00}{01 08 00}IIIhh!{01 01 00} {07 16 00}See on\nsõnulseletamatult hirmus!"
   },
   {
    "id": 29,

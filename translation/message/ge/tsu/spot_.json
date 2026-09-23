@@ -19,7 +19,7 @@
   {
    "id": 3,
    "en": "{07 0b 00}Hey, so, {01 00 00 05 00}did you know?{01 00 00 05 00}\n{07 00 00}{ff 00 00 06}Tom Nook {ff 00 00 00}looks all\nsuccessful, right? \n{07 15 00}Well, you wouldn't believe\nwhat that guy has been\nthrough, {01 00 00 05 00}{04 02 00}!\n{07 11 00}His feud with {ff 00 00 06}Sable{ff 00 00 00}!{01 00 00 0a 00}\nHis intense market-share\nbattle with {ff 00 00 06}Redd{ff 00 00 00}!\n.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 03 00}Hee hee hee hee hee!{01 00 00 0a 00}\nBoy, I have got a WILD\nimagination, huh?",
-   "et": "{07 0b 00}Kuule, {01 00 00 05 00}kas sa teadsid?{01 00 00 05 00}\n{07 00 00}{ff 00 00 06}Tom Nook {ff 00 00 00}näeb päris\nedukas välja, eks?\n{07 15 00}Noh, sa ei usuks,\nmida see tüüp on\nläbi elanud, {01 00 00 05 00}{04 02 00}!\n{07 11 00}Tema tüli {ff 00 00 06}Sable{ff 00 00 00}ga!{01 00 00 0a 00}\nTema äge turuosavõitlus\n{ff 00 00 06}Redd{ff 00 00 00}iga!\n.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 03 00}Hihihihihii!{01 00 00 0a 00}\nIssand, mul on ikka METSIK\nkujutlusvõime, mis?"
+   "et": "{07 0b 00}Kuule, {01 00 00 05 00}kas sa teadsid?{01 00 00 05 00}\n{07 00 00}{ff 00 00 06}Tom Nook {ff 00 00 00}näeb päris\nedukas välja, eks?\n{07 15 00}Noh, sa ei usuks,\nmida see tüüp on\nläbi elanud, {01 00 00 05 00}{04 02 00}!\n{07 11 00}Tema tüli {ff 00 00 06}Sable{ff 00 00 00}'ga!{01 00 00 0a 00}\nTema äge võitlus turuosa\npärast {ff 00 00 06}Redd{ff 00 00 00}iga!\n.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 03 00}Hihihihihii!{01 00 00 0a 00}\nIssand, mul on ikka METSIK\nkujutlusvõime, mis?"
   },
   {
    "id": 4,
@@ -29,7 +29,7 @@
   {
    "id": 5,
    "en": "{07 00 00}So keep it under your hat,{01 00 00 05 00}\nbut I heard some dirt about\n{ff 00 00 06}Tom Nook{ff 00 00 00}...\n{07 15 00}Yeah, apparently he and\n{ff 00 00 06}Sable{ff 00 00 00} have some sort of\nrelationship, {01 00 00 05 00}{04 02 00}!\n{07 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 0b 00}Do you think it's true?{01 01 00}\n{07 16 00}Do you know anything?{01 00 00 05 00}\nAt all, {01 00 00 05 00}{04 02 00}?",
-   "et": "{07 00 00}Hoia seda enda teada,{01 00 00 05 00}\naga ma kuulsin natuke pori\n{ff 00 00 06}Tom Nooki{ff 00 00 00} kohta...\n{07 15 00}Jah, ilmselt on tal ja\n{ff 00 00 06}Sable{ff 00 00 00}l mingisugune\nsuhe, {01 00 00 05 00}{04 02 00}!\n{07 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 0b 00}Kas sinu arust on see\ntõsi?{01 01 00} {07 16 00}Kas sa tead midagi?{01 00 00 05 00}\nÜldse, {01 00 00 05 00}{04 02 00}?"
+   "et": "{07 00 00}Hoia seda enda teada,{01 00 00 05 00}\naga ma kuulsin natuke pori\n{ff 00 00 06}Tom Nooki{ff 00 00 00} kohta...\n{07 15 00}Jah, ilmselt on tal ja\n{ff 00 00 06}Sable{ff 00 00 00}'l mingisugune\nsuhe, {01 00 00 05 00}{04 02 00}!\n{07 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 0b 00}Kas sinu arust on see\ntõsi?{01 01 00} {07 16 00}Kas sa tead midagi?{01 00 00 05 00}\nÜldse, {01 00 00 05 00}{04 02 00}?"
   },
   {
    "id": 6,
@@ -54,7 +54,7 @@
   {
    "id": 10,
    "en": "{07 15 00}Step 1: Buy furniture that\nlooks unique but isn't\nreally all that rare!\nStep 2: Hide all your junk\nand pretend it never\nexisted!\n{07 14 00}There you go! {01 00 00 05 00}My foolproof\nstrategy to fool the\n{ff 00 00 02}HRA{ff 00 00 00}, {01 00 00 05 00}{04 02 00}!",
-   "et": "{07 15 00}Samm 1: Osta mööblit, mis\nnäeb omanäoline välja, aga\npole tegelikult haruldane!\nSamm 2: Peida kogu oma\nkola ära ja tee näo, et\nseda polnudki!\n{07 14 00}Palun väga! {01 00 00 05 00}Minu kindel\nstrateegia, kuidas petta\n{ff 00 00 02}KHA{ff 00 00 00}t, {01 00 00 05 00}{04 02 00}!"
+   "et": "{07 15 00}Samm 1: Osta mööblit, mis\nnäeb omanäoline välja, aga\npole tegelikult haruldane!\nSamm 2: Peida kogu oma\nkola ära ja tee, nagu poleks\nseda kunagi olnud!\n{07 14 00}Palun väga! {01 00 00 05 00}Minu kindel\nstrateegia, kuidas petta\n{ff 00 00 02}KKA{ff 00 00 00}t, {01 00 00 05 00}{04 02 00}!"
   },
   {
    "id": 11,

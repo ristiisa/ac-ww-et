@@ -4,12 +4,12 @@
   {
    "id": 3,
    "en": "{07 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n\n\n{07 04 00}What!?{01 00 00 0a 00} What's goin' on?\n{07 15 00}What are you laughing at!?{02 00 00 00 00}\nMy masterpiece!\nWho's laughing?",
-   "et": "{07 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n\n\n{07 04 00}Mida!?{01 00 00 0a 00} Mis toimub?\n{07 15 00}Mille üle sa naerad!?{02 00 00 00 00}\nMu meistriteose!\nKes naerab?"
+   "et": "{07 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n\n\n{07 04 00}Mida!?{01 00 00 0a 00} Mis toimub?\n{07 15 00}Mille üle sa naerad!?{02 00 00 00 00}\nMu meistriteos!\nKes naerab?"
   },
   {
    "id": 5,
    "en": "{07 00 00}Hmmm...{01 01 00}\n.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 04 00}Why are you looking at\nme like that?\n{07 16 00}You're freaking me out!\nNow you've got me really\nworried.\n{07 00 00}Still, I guess I oughta\nthank you.{01 00 00 0a 00} You really came\nthrough when I needed you.",
-   "et": "{07 00 00}Hmmm...{01 01 00}\n.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 04 00}Miks sa mind\nniimoodi vaatad?\n{07 16 00}Sa ajad mind segadusse!\nNüüd oled mind tõesti\nmurelikuks teinud.\n{07 00 00}Ikkagi peaksin sind vist\ntänama.{01 00 00 0a 00} Sa aitasid mind\ntõesti, kui vajasin."
+   "et": "{07 00 00}Hmmm...{01 01 00}\n.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 04 00}Miks sa mind\nniimoodi vaatad?\n{07 16 00}Sa hirmutad mind!\nNüüd oled mind tõesti\nmurelikuks teinud.\n{07 00 00}Ikkagi peaksin sind vist\ntänama.{01 00 00 0a 00} Sa aitasid mind\ntõesti, kui vajasin."
   },
   {
    "id": 6,
@@ -94,7 +94,7 @@
   {
    "id": 27,
    "en": "{07 00 00}I'm flattered that you're so\nconcerned,{01 00 00 05 00} but I could\nreally use some \"me\" time.\nI gotta say,{01 00 00 05 00} the constant\ninterruptions are starting\nto put me on edge!\n{07 16 00}So, try to keep the chatter\nto a minimum, {01 00 00 0a 00}got it?",
-   "et": "{07 00 00}Mul on meelitav, et sa nii\nmures oled,{01 00 00 05 00} aga mul kuluks\npisut „minu aega”.\nPean ütlema,{01 00 00 05 00} et pidevad\nkatkestused hakkavad mind\nnärvi ajama!\n{07 16 00}Nii et hoia lobisemine\nminimaalne, {01 00 00 0a 00}selge?"
+   "et": "{07 00 00}Mul on hea meel, et sa nii\nmures oled,{01 00 00 05 00} aga mul kuluks\npisut „minu aega”.\nPean ütlema,{01 00 00 05 00} et pidevad\nkatkestused hakkavad mind\nnärvi ajama!\n{07 16 00}Nii et hoia lobisemine\nminimaalne, {01 00 00 0a 00}selge?"
   },
   {
    "id": 28,

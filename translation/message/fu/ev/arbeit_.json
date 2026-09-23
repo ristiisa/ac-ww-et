@@ -4,7 +4,7 @@
   {
    "id": 0,
    "en": "{07 00 00}You seem interesting\nenough, {04 1f 00}.{01 00 00 0a 00} Mind\nif I ask some questions?\n{07 14 00}Don't worry. I'm not giving\nyou the third degree or\nanything, {01 00 00 05 00}{04 02 00}!\n{07 00 00}First off, and this is an\nimportant one, when's your\nbirthday?",
-   "et": "{07 00 00}Sa tundud piisavalt\nhuvitav, {04 1f 00}.{01 00 00 0a 00} Kas\ntohin sult midagi küsida?\n{07 14 00}Ära muretse. Ma ei võta\nsind üle kuulama ega\nmidagi, {01 00 00 05 00}{04 02 00}!\n{07 00 00}Kõigepealt, ja see on\ntähtis, millal on su\nsünnipäev?"
+   "et": "{07 00 00}Sa tundud piisavalt\nhuvitav, {04 1f 00}.{01 00 00 0a 00} Kas\ntohin sult midagi küsida?\n{07 14 00}Ära muretse. Ma ei võta\nsind ülekuulama ega\nmidagi, {01 00 00 05 00}{04 02 00}!\n{07 00 00}Kõigepealt, ja see on\ntähtis, millal on su\nsünnipäev?"
   },
   {
    "id": 1,
@@ -24,7 +24,7 @@
   {
    "id": 4,
    "en": "{07 00 00}Everyone's gotta make a\nliving somehow, but there\nare tons of ways to do it.\nFor example, when I need a\nlittle spending money, I\ncollect different items.\nWhen my pockets are full, I\nrace off to {ff 00 00 06}Tom Nook{ff 00 00 00} and\nsell what I found!\n{07 0e 00}{ff 00 00 06}Nook{ff 00 00 00}'ll buy just about\nanything:{01 00 00 05 00} fruit, {01 00 00 05 00}fish,{01 00 00 05 00}\nshells, {01 00 00 05 00}flowers.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n{07 06 00}I mean, the guy'll even buy\nbugs if you bring them in!\nHe's crazy, {01 00 00 05 00}{04 02 00}!",
-   "et": "{07 00 00}Kõik peavad kuidagi\nelatist teenima, aga viise\non selleks tonnide viisi.\nNäiteks kui mul on vaja\nnatuke taskuraha, korjan\nma igasuguseid asju.\nKui taskud on täis, torman\nma {ff 00 00 06}Tom Nooki{ff 00 00 00} juurde ja\nmüün leitu maha!\n{07 0e 00}{ff 00 00 06}Nook{ff 00 00 00} ostab peaaegu\nkõike:{01 00 00 05 00} puuvilju, {01 00 00 05 00}kala,{01 00 00 05 00}\nkarpe, {01 00 00 05 00}lilli.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n{07 06 00}Tegelikult ostab ta isegi\nputukaid, kui neid tood!\nTa on hull, {01 00 00 05 00}{04 02 00}!"
+   "et": "{07 00 00}Kõik peavad kuidagi\nelatist teenima, aga viise\non selleks palju.\nNäiteks kui mul on vaja\nnatuke taskuraha, korjan\nma igasuguseid asju.\nKui taskud on täis, torman\nma {ff 00 00 06}Tom Nooki{ff 00 00 00} juurde ja\nmüün leitu maha!\n{07 0e 00}{ff 00 00 06}Nook{ff 00 00 00} ostab peaaegu\nkõike:{01 00 00 05 00} puuvilju, {01 00 00 05 00}kala,{01 00 00 05 00}\nkarpe, {01 00 00 05 00}lilli.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n{07 06 00}Tegelikult ostab ta isegi\nputukaid, kui neid tood!\nTa on hull, {01 00 00 05 00}{04 02 00}!"
   },
   {
    "id": 5,
@@ -69,7 +69,7 @@
   {
    "id": 13,
    "en": "{07 00 00}There are tons of different\nthings you can do to your\nfloors and walls.\nIf you don't see a design\nyou like, just keep checking\nback at {ff 00 00 06}Nook{ff 00 00 00}'s store.\n{07 14 00}He's pretty good about\nchanging out his inventory\nevery day, {01 00 00 05 00}{04 02 00}.\n{07 06 00}And if you miss a day, you\nmight miss out on a rare\ncarpet or wallpaper design!\n{07 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 04 00}Oh,{01 00 00 05 00} I'm sorry!{01 00 00 0f 00} {07 00 00}I've kept\nyou too long. You should\nbe getting back to work.",
-   "et": "{07 00 00}Oma põrandate ja seintega\nsaab teha tonnide viisi\nerinevaid asju.\nKui sa ei näe mustrit, mis\nmeeldib, käi lihtsalt ikka\n{ff 00 00 06}Nooki{ff 00 00 00} poes uuesti.\n{07 14 00}Ta vahetab oma kaupa\nüsna hoolsalt\niga päev, {01 00 00 05 00}{04 02 00}.\n{07 06 00}Ja kui jätad päeva vahele,\nvõid sa ilma jääda\nharuldasest mustrist!\n{07 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 04 00}Oh,{01 00 00 05 00} vabandust!{01 00 00 0f 00} {07 00 00}Ma hoidsin\nsind liiga kaua. Sa peaksid\ntööle tagasi minema."
+   "et": "{07 00 00}Oma põrandate ja seintega\nsaab teha palju\nerinevaid asju.\nKui sa ei näe mustrit, mis\nmeeldib, käi lihtsalt ikka\n{ff 00 00 06}Nooki{ff 00 00 00} poes uuesti.\n{07 14 00}Ta vahetab oma kaupa\nüsna hoolsalt\niga päev, {01 00 00 05 00}{04 02 00}.\n{07 06 00}Ja kui jätad päeva vahele,\nvõid sa ilma jääda\nharuldasest mustrist!\n{07 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 04 00}Oh,{01 00 00 05 00} vabandust!{01 00 00 0f 00} {07 00 00}Ma hoidsin\nsind liiga kaua. Sa peaksid\ntööle tagasi minema."
   },
   {
    "id": 14,
@@ -79,7 +79,7 @@
   {
    "id": 15,
    "en": "{07 14 00}Everybody in town loves\ngetting a nice letter once\nin a while, {01 00 00 05 00}{04 02 00}.\n{07 00 00}It's sort of a tradition\naround here to keep any\nletters we get.\n{07 17 00}Mostly, I think it's just so\nthat we can show them off\nto our friends{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 00 00}Not that I'm planning on\nmoving anytime soon, but if\nI did, and that's a big if{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 14 00}I promise that I'll take all\nof my letters with me.\n\n{07 00 00}Who knows? {01 00 00 05 00}Once I meet my\nnew neighbors, maybe I'll\nshow them all your letters!\n{07 14 00}You'll probably want to keep\nthat in mind when you're\nwriting me, {01 00 00 05 00}{04 02 00}.",
-   "et": "{07 14 00}Kõigile linnas meeldib\naeg-ajalt kena kirja\nsaada, {01 00 00 05 00}{04 02 00}.\n{07 00 00}Siin on omamoodi\ntraditsioon hoida alles\nkõik saadud kirjad.\n{07 17 00}Peamiselt vist selleks,\net saaksime neid sõpradele\nuhkeldada{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 00 00}Mitte et ma plaaniksin\nniipea kolida, aga kui ma\nseda teeksin{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 14 00}luban, et võtan kõik oma\nkirjad endaga kaasa.\n\n{07 00 00}Kes teab? {01 00 00 05 00}Kui kohtan oma\nuusi naabreid, näitan ma\nneile ehk kõiki su kirju!\n{07 14 00}Sa tahad seda ilmselt\nmeeles pidada, kui sa\nmulle kirjutad, {01 00 00 05 00}{04 02 00}."
+   "et": "{07 14 00}Kõigile linnas meeldib\naeg-ajalt kena kirja\nsaada, {01 00 00 05 00}{04 02 00}.\n{07 00 00}Siin on omamoodi\ntraditsioon hoida alles\nkõik saadud kirjad.\n{07 17 00}Peamiselt vist selleks,\net saaksime nendega sõpradele\nuhkeldada{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 00 00}Mitte et ma plaaniksin\nniipea kolida, aga kui ma\nseda teeksin{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 14 00}luban, et võtan kõik oma\nkirjad endaga kaasa.\n\n{07 00 00}Kes teab? {01 00 00 05 00}Kui kohtan oma\nuusi naabreid, näitan ma\nneile ehk kõiki su kirju!\n{07 14 00}Sa tahad seda ilmselt\nmeeles pidada, kui sa\nmulle kirjutad, {01 00 00 05 00}{04 02 00}."
   },
   {
    "id": 16,

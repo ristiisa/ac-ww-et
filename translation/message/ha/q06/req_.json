@@ -4,17 +4,17 @@
   {
    "id": 0,
    "en": "{07 14 00}Hey yo, {ff 00 00 05}{04 1f 00}{ff 00 00 00}!{01 00 00 0a 00}\nYou'd do a favor for your\nbud, right?\n{07 06 00}Think you could go deliver \nsomething to {ff 00 00 06}{04 10 00}{ff 00 00 00}'s\nfor me?",
-   "et": "{07 14 00}Hei jou, {ff 00 00 05}{04 1f 00}{ff 00 00 00}!{01 00 00 0a 00}\nSa teeksid oma semule\nteene, eks?\n{07 06 00}Kas sa võiksid midagi \n{ff 00 00 06}{04 10 00}{ff 00 00 00}ile minu eest\nkohale viia?"
+   "et": "{07 14 00}Hei jou, {ff 00 00 05}{04 1f 00}{ff 00 00 00}!{01 00 00 0a 00}\nSa teeksid oma semule\nteene, eks?\n{07 06 00}Kas sa võiksid midagi \n{ff 00 00 06}{04 10 00}{ff 00 00 00} juurde minu eest\nkohale viia?"
   },
   {
    "id": 1,
    "en": "{07 00 00}{0b 03 00}{04 1f 00}!{01 00 00 0a 00} Quick favor!{01 00 00 05 00}\n{07 0b 00}Could you go over to \n{ff 00 00 06}{04 10 00}{ff 00 00 00}'s for me?",
-   "et": "{07 00 00}{0b 03 00}{04 1f 00}!{01 00 00 0a 00} Kiire teene!{01 00 00 05 00}\n{07 0b 00}Kas sa käiksid \n{ff 00 00 06}{04 10 00}{ff 00 00 00}il minu eest ära?"
+   "et": "{07 00 00}{0b 03 00}{04 1f 00}!{01 00 00 0a 00} Kiire teene!{01 00 00 05 00}\n{07 0b 00}Kas sa käiksid \n{ff 00 00 06}{04 10 00}{ff 00 00 00} juures minu eest ära?"
   },
   {
    "id": 2,
    "en": "{07 00 00}Yo yo, {ff 00 00 05}{01 00 00 05 00}{04 1f 00}{ff 00 00 00}!{01 00 00 0a 00}\n{07 0b 00}Think you could swing a\nfavor for me?\n{07 0e 00}I have this thing I want \ndelivered to {ff 00 00 06}{04 10 00}{ff 00 00 00}...",
-   "et": "{07 00 00}Jou jou, {ff 00 00 05}{01 00 00 05 00}{04 1f 00}{ff 00 00 00}!{01 00 00 0a 00}\n{07 0b 00}Kas sa teeksid mulle\nühe teene?\n{07 0e 00}Mul on üks asi, mida tahan \n{ff 00 00 06}{04 10 00}{ff 00 00 00}ile viia..."
+   "et": "{07 00 00}Jou jou, {ff 00 00 05}{01 00 00 05 00}{04 1f 00}{ff 00 00 00}!{01 00 00 0a 00}\n{07 0b 00}Kas sa teeksid mulle\nühe teene?\n{07 0e 00}Mul on üks asi, mida tahan \n{ff 00 00 06}{04 10 00}{ff 00 00 00} kätte viia..."
   }
  ]
 }

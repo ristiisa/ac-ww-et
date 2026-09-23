@@ -4,7 +4,7 @@
   {
    "id": 0,
    "en": "{07 14 00}Oh, hi, {01 00 00 05 00}{04 1f 00}! {01 00 00 05 00}Listen,\nI've got some stuff I\nwanted to get rid of.\n{07 00 00}It's nothing much--just\n{04 1c 00},\nbut it's in good shape.\nSo what do you say? {07 0b 00}Want\nto buy it for {04 11 00} Bells,\n{01 00 00 05 00}{04 02 00}?{02 00 00 0c 14}\nI'll take it!\nThat's cool.",
-   "et": "{07 14 00}Oh, tere, {01 00 00 05 00}{04 1f 00}! {01 00 00 05 00}Kuule,\nmul on kraami, millest ma\ntahtsin lahti saada.\n{07 00 00}Pole midagi erilist--lihtsalt\n{04 1c 00},\naga see on heas korras.\nNii, mis kostad? {07 0b 00}Tahad\nselle {04 11 00} kella eest,\n{01 00 00 05 00}{04 02 00}?{02 00 00 0c 14}\nMa võtan selle!\nLahe."
+   "et": "{07 14 00}Oh, tere, {01 00 00 05 00}{04 1f 00}! {01 00 00 05 00}Kuule,\nmul on kraami, millest ma\ntahtsin lahti saada.\n{07 00 00}Pole midagi erilist--lihtsalt\n{04 1c 00},\naga see on heas korras.\nNii, mis kostad? {07 0b 00}Tahad\nselle {04 11 00} kella eest\nosta, {01 00 00 05 00}{04 02 00}?{02 00 00 0c 14}\nMa võtan selle!\nLahe."
   },
   {
    "id": 1,
@@ -39,7 +39,7 @@
   {
    "id": 7,
    "en": "{07 06 00}But I brought it all this\nway! And it's so heavy, too!\nYou can't mean it!\n{07 14 00}Here, what if I just give it\nto you for free? Will that\nbe all right, {01 00 00 05 00}{04 02 00}?",
-   "et": "{07 06 00}Aga ma tõin selle kogu\nsee tee! Ja see on raske!\nSa ei mõtle seda tõsiselt!\n{07 14 00}Säh, mis siis, kui ma annan\nselle sulle tasuta? Kas nii\non hästi, {01 00 00 05 00}{04 02 00}?"
+   "et": "{07 06 00}Aga ma tõin selle kogu\nselle tee! Ja see on raske!\nSa ei mõtle seda tõsiselt!\n{07 14 00}Säh, mis siis, kui ma annan\nselle sulle tasuta? Kas nii\non hästi, {01 00 00 05 00}{04 02 00}?"
   },
   {
    "id": 8,
@@ -49,7 +49,7 @@
   {
    "id": 9,
    "en": "{07 04 00}Wow! You must really, really\nwant it! {07 00 00}Well, who am I to\ndisappoint, {01 00 00 05 00}{04 02 00}?\n{07 14 00}Here. I'll sell you my\n{0b 02 00}{04 1c 00}\nfor only {04 11 00} Bells.{02 00 00 0c 14}\nI'll take it!\nThanks, but no.",
-   "et": "{07 04 00}Vau! Sa pead seda tõesti\nväga tahtma! {07 00 00}Noh, kes\nolen mina, {01 00 00 05 00}{04 02 00}?\n{07 14 00}Säh. Ma müün sulle oma\n{0b 02 00}{04 1c 00}\nainult {04 11 00} kella eest.{02 00 00 0c 14}\nMa võtan selle!\nAitäh, aga ei."
+   "et": "{07 04 00}Vau! Sa pead seda tõesti\nväga tahtma! {07 00 00}Noh, kes\nolen mina, et sind petta, {01 00 00 05 00}{04 02 00}?\n{07 14 00}Säh. Ma müün sulle oma\n{0b 02 00}{04 1c 00}\nainult {04 11 00} kella eest.{02 00 00 0c 14}\nMa võtan selle!\nAitäh, aga ei."
   },
   {
    "id": 10,

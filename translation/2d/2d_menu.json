@@ -604,7 +604,7 @@
   {
    "id": 123,
    "en": "Not enough Bells.",
-   "et": "Kellasid on vähe."
+   "et": "Pole piisavalt kellasid."
   },
   {
    "id": 124,
@@ -1099,12 +1099,12 @@
   {
    "id": 228,
    "en": "seconds...",
-   "et": "sekundit..."
+   "et": "sekundi pärast..."
   },
   {
    "id": 229,
    "en": "Communication has ended\nand the game will reset.\nYou may lose progress\nfrom the last save.",
-   "et": "Ühendus katkes ja mäng\nläheb algusest.\nViimasest salvestusest\ntehtu võib kaduda."
+   "et": "Ühendus katkes ja mäng\ntaaskäivitub.\nViimasest salvestusest\ntehtu võib kaduda."
   },
   {
    "id": 230,

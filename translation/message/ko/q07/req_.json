@@ -4,17 +4,17 @@
   {
    "id": 0,
    "en": "{07 00 00}So, the other day I got\nthis letter from\n{ff 00 00 06}{04 10 00}{ff 00 00 00}...\n{07 16 00}But I kept forgetting to\nwrite back. Or maybe I was\njust too lazy, {01 00 00 05 00}{04 02 00}.\n{07 03 00}Har har! {01 00 00 14 00}{07 14 00}Anyway, can you do\nme a favor and deliver this\nletter, {04 1f 00}?",
-   "et": "{07 00 00}Nii, hiljuti sain ma\nselle kirja\n{ff 00 00 06}{04 10 00}{ff 00 00 00}lt...\n{07 16 00}Aga ma unustasin aina\nvastata. Või ehk olin ma\nlihtsalt laisk, {01 00 00 05 00}{04 02 00}.\n{07 03 00}Har har! {01 00 00 14 00}{07 14 00}Igatahes, kas sa\nteeksid teene ja viiksid\nselle kirja, {04 1f 00}?"
+   "et": "{07 00 00}Nii, hiljuti sain ma\nselle kirja\n{ff 00 00 06}{04 10 00}{ff 00 00 00} käest...\n{07 16 00}Aga ma unustasin aina\nvastata. Või ehk olin ma\nlihtsalt laisk, {01 00 00 05 00}{04 02 00}.\n{07 03 00}Har har! {01 00 00 14 00}{07 14 00}Igatahes, kas sa\nteeksid teene ja viiksid\nselle kirja, {04 1f 00}?"
   },
   {
    "id": 1,
    "en": "{07 00 00}Hey, {01 00 00 05 00}{04 1f 00}.{01 00 00 0a 00} {07 0b 00}You know\n{ff 00 00 06}{04 10 00}{ff 00 00 00}, right?\n\n{07 00 00}I need you to deliver a \nletter to {ff 00 00 06}{04 10 00}{ff 00 00 00} for \nme right away, {01 00 00 05 00}{04 02 00}!",
-   "et": "{07 00 00}Hei, {01 00 00 05 00}{04 1f 00}.{01 00 00 0a 00} {07 0b 00}Sa tead\n{ff 00 00 06}{04 10 00}{ff 00 00 00}, eks?\n\n{07 00 00}Ma tahan, et sa viiksid\nkirja {ff 00 00 06}{04 10 00}{ff 00 00 00}le minu\neest kohe, {01 00 00 05 00}{04 02 00}!"
+   "et": "{07 00 00}Hei, {01 00 00 05 00}{04 1f 00}.{01 00 00 0a 00} {07 0b 00}Sa tead\n{ff 00 00 06}{04 10 00}{ff 00 00 00}, eks?\n\n{07 00 00}Ma tahan, et sa viiksid\nkirja tüübile nimega\n{ff 00 00 06}{04 10 00}{ff 00 00 00} minu eest kohe, {01 00 00 05 00}{04 02 00}!"
   },
   {
    "id": 2,
    "en": "{07 00 00}Hey, {01 00 00 05 00}{04 1f 00},{01 00 00 0f 00} you\ngotta do me a favor,\n{01 00 00 05 00}{04 02 00}.\nI completely forgot that I\nhad to send {ff 00 00 06}{04 10 00}{ff 00 00 00}\na letter.\n{07 16 00}If I ask {ff 00 00 06}Petey{ff 00 00 00} to deliver\nit, who knows when he'll get\naround to it!\n{07 14 00}So I need you to deliver\nthe letter for me by hand,\n{01 00 00 05 00}{04 02 00}.",
-   "et": "{07 00 00}Hei, {01 00 00 05 00}{04 1f 00},{01 00 00 0f 00} sa\npead mulle teene tegema,\n{01 00 00 05 00}{04 02 00}.\nMa unustasin täiesti, et\npean {ff 00 00 06}{04 10 00}{ff 00 00 00}le\nkirja saatma.\n{07 16 00}Kui ma palun {ff 00 00 06}Peteyl{ff 00 00 00} seda\nviia, kes teab, millal ta\nselleni jõuab!\n{07 14 00}Nii et sa pead kirja\nminu eest käsitsi viima,\n{01 00 00 05 00}{04 02 00}."
+   "et": "{07 00 00}Hei, {01 00 00 05 00}{04 1f 00},{01 00 00 0f 00} sa\npead mulle teene tegema,\n{01 00 00 05 00}{04 02 00}.\nMa unustasin täiesti, et\npean tüübile nimega\n{ff 00 00 06}{04 10 00}{ff 00 00 00} kirja saatma.\n{07 16 00}Kui ma palun {ff 00 00 06}Peteyl{ff 00 00 00} seda\nviia, kes teab, millal ta\nselleni jõuab!\n{07 14 00}Nii et sa pead kirja\nminu eest käsitsi viima,\n{01 00 00 05 00}{04 02 00}."
   }
  ]
 }

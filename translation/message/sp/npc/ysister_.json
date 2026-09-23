@@ -19,7 +19,7 @@
   {
    "id": 3,
    "en": "{07 14 00}Well then, what can I help\nyou with?{02 06 00 0b 14 05 06}\nCreate a design\nI wanna sell!\nWhere am I?\nNever mind...",
-   "et": "{07 14 00}Nii, millega saan sind\naidata?{02 06 00 0b 14 05 06}\nTahan kujundada!\nTahan müüa!\nÜtle sina!\nPole midagi..."
+   "et": "{07 14 00}Nii, millega saan sind\naidata?{02 06 00 0b 14 05 06}\nTahan kujundada!\nTahan müüa!\nKus ma olen?\nPole midagi..."
   },
   {
    "id": 4,
@@ -39,7 +39,7 @@
   {
    "id": 7,
    "en": "{07 00 00}At our little shop,{01 00 00 05 00} you\nwon't just find fashionable\nclothes and accessories...\nNo! {01 00 00 05 00}You can also create\nyour own designs for use\non clothes and umbrellas.\nAnd{01 00 00 0a 00} when you display your\nfashion creations in our\nlovely shop here,\nother people who like your\ndesigns can buy them.{01 00 00 05 00} \nIsn't that dreamy?\n{07 14 00}Doesn't the thought of\nsomeone wearing one of\nyour designs excite you?\n{07 00 00}If you want to display a\npattern, just stand by a\nshirt{01 00 00 0a 00} and {ff 00 00 01}tap{ff 00 00 00} it.\nYou can also just press\nthe {ff 00 00 01}A Button{ff 00 00 00}.\n\n{07 14 00}And if you want to design\nyour own new fashion line,{01 00 00 0a 00}\njust come talk to me!",
-   "et": "{07 00 00}Meie väikeses poes{01 00 00 05 00} ei\nleia sa ainult moodsaid\nriideid ja aksessuaare...\nEi! {01 00 00 05 00}Sa saad ka luua\noma kujundusi riietele\nja vihmavarjudele.\nJa{01 00 00 0a 00} kui sa paned oma\nmoeloomingu välja meie\nkenasse poodi,\nsaavad teised, kellele need\nmeeldivad, neid osta.{01 00 00 05 00} \nKas pole unistus?\n{07 14 00}Kas mõte sellest, et keegi\nkannab sinu kujundust,\nei pane sind põnevil olema?\n{07 00 00}Kui tahad mustrit välja\npanna, seisa särgi\nkõrval{01 00 00 0a 00} ja {ff 00 00 01}koputa{ff 00 00 00} seda.\nVõid ka lihtsalt vajutada\n{ff 00 00 01}A-nuppu{ff 00 00 00}.\n\n{07 14 00}Ja kui tahad kujundada\noma uut moeliini,{01 00 00 0a 00}\ntule minuga rääkima!"
+   "et": "{07 00 00}Meie väikeses poes{01 00 00 05 00} ei\nleia sa ainult moodsaid\nriideid ja aksessuaare...\nEi! {01 00 00 05 00}Sa saad ka luua\noma kujundusi riietele\nja vihmavarjudele.\nJa{01 00 00 0a 00} kui sa paned oma\nmoeloomingu välja meie\nkenasse poodi,\nsaavad teised, kellele need\nmeeldivad, neid osta.{01 00 00 05 00} \nKas pole unistus?\n{07 14 00}Kas mõte sellest, et keegi\nkannab sinu kujundust,\nei pane sind põneville?\n{07 00 00}Kui tahad mustrit välja\npanna, seisa särgi\nkõrval{01 00 00 0a 00} ja {ff 00 00 01}koputa{ff 00 00 00} seda.\nVõid ka lihtsalt vajutada\n{ff 00 00 01}A-nuppu{ff 00 00 00}.\n\n{07 14 00}Ja kui tahad kujundada\noma uut moeliini,{01 00 00 0a 00}\ntule minuga rääkima!"
   },
   {
    "id": 8,
@@ -54,7 +54,7 @@
   {
    "id": 10,
    "en": "{09 00 00}{09 06 00}{09 01 00}{09 04 00}Oh,{01 00 00 05 00} right!\n\n\nI have to teach you how to\ntry on the patterns you\ndesign, don't I?{01 00 00 0a 00} Duh!\nOpen your pockets and\nswitch to the pencil\nicon to see your designs.\nYou can use your designs on\numbrellas,{01 00 00 05 00} clothes,{01 00 00 05 00} hats,\n{07 14 00}and on other things, too.{01 00 00 05 00}\n{07 00 00}So,{01 00 00 05 00} um,{01 00 00 0a 00} I guess that's it.\n\n\n{07 14 00}But if you don't understand,{01 00 00 05 00}\njust come back and ask me\nwhenever you like, OK?",
-   "et": "{09 00 00}{09 06 00}{09 01 00}{09 04 00}Oh,{01 00 00 05 00} tõsi!\n\n\nMa pean sulle õpetama,\nkuidas oma kujundusi\nselga proovida, eks?{01 00 00 0a 00} Jaa!\nAva taskud ja lülitu\npliiatsi ikoonile, et\noma kujundusi näha.\nVõid kasutada kujundusi\nvarjudel,{01 00 00 05 00} riietel,{01 00 00 05 00} mütsidel\n{07 14 00}ja ka muudel asjadel.{01 00 00 05 00}\n{07 00 00}Nii et,{01 00 00 05 00} ee,{01 00 00 0a 00} see ongi kõik.\n\n\n{07 14 00}Aga kui sa ei saa aru,{01 00 00 05 00}\ntule lihtsalt tagasi ja küsi,\nmillal iganes, eks?"
+   "et": "{09 00 00}{09 06 00}{09 01 00}{09 04 00}Oh,{01 00 00 05 00} tõsi!\n\n\nMa pean sulle õpetama,\nkuidas oma kujundusi\nselga proovida, eks?{01 00 00 0a 00} Jaa!\nAva taskud ja lülitu\npliiatsi ikoonile, et\noma kujundusi näha.\nVõid kasutada kujundusi\nvihmavarjudel,{01 00 00 05 00} riietel,{01 00 00 05 00} mütsidel\n{07 14 00}ja ka muudel asjadel.{01 00 00 05 00}\n{07 00 00}Nii et,{01 00 00 05 00} ee,{01 00 00 0a 00} see ongi kõik.\n\n\n{07 14 00}Aga kui sa ei saa aru,{01 00 00 05 00}\ntule lihtsalt tagasi ja küsi,\nmillal iganes, eks?"
   },
   {
    "id": 11,
@@ -84,7 +84,7 @@
   {
    "id": 16,
    "en": "{07 00 00}{07 14 00}You're all done!{01 00 00 0a 00} So tell me,{01 00 00 05 00}\n{07 0b 00}what was your driving\nconcept with this design?{02 01 00 11 11 11}\nFormal, refined.\nBasic, yet new!\nDidn't have one.",
-   "et": "{07 00 00}{07 14 00}Sa oled valmis!{01 00 00 0a 00} Ütle mulle,{01 00 00 05 00}\n{07 0b 00}mis oli selle kujunduse\njuhtmõte?{02 01 00 11 11 11}\nAmetlik, rafineeritud.\nLihtne, aga uus!\nPolnud mõtet."
+   "et": "{07 00 00}{07 14 00}Sa oled valmis!{01 00 00 0a 00} Ütle mulle,{01 00 00 05 00}\n{07 0b 00}mis oli selle kujunduse\njuhtmõte?{02 01 00 11 11 11}\nPidulik, rafineeritud.\nLihtne, aga uus!\nPolnud mõtet."
   },
   {
    "id": 17,
@@ -224,7 +224,7 @@
   {
    "id": 47,
    "en": "{07 0b 00}Oh!{01 00 00 0a 00} Is that {07 0e 00}the product\nI ordered from {ff 00 00 06}Saharah{ff 00 00 00}?\n\n{07 00 00}{0b 03 00}{04 00 00},{01 00 00 05 00} did you come\nall the way here just to\ndeliver that to me?\n{07 14 00}Wow, thanks so much!{01 00 00 0a 00}\nYou're too sweet!\n\n{07 04 00}Oh,{01 00 00 05 00} and if you could,{07 00 00} please\ntell {ff 00 00 06}Saharah{ff 00 00 00} thank you for\nme.{01 00 00 05 00} I'd really appreciate it!\n{07 14 00}Can I count on you?{01 00 00 0f 00}\nSorry to be a bother!",
-   "et": "{07 0b 00}Oh!{01 00 00 0a 00} Kas see on {07 0e 00}toode,\nmille ma {ff 00 00 06}Saharah'lt{ff 00 00 00} tellisin?\n\n{07 00 00}{0b 03 00}{04 00 00},{01 00 00 05 00} kas sa tulid\nkogu selle tee siia, et\nsee mulle tuua?\n{07 14 00}Vau, suur aitäh!{01 00 00 0a 00}\nSa oled nii armas!\n\n{07 04 00}Oh,{01 00 00 05 00} ja kui saad,{07 00 00} ütle\npalun {ff 00 00 06}Saharah'le{ff 00 00 00} minu poolt\naitäh.{01 00 00 05 00} Oleksin väga tänulik!\n{07 14 00}Kas ma võin sinule loota?{01 00 00 0f 00}\nVabandust tüli pärast!"
+   "et": "{07 0b 00}Oh!{01 00 00 0a 00} Kas see on {07 0e 00}toode,\nmille ma {ff 00 00 06}Saharah'lt{ff 00 00 00} tellisin?\n\n{07 00 00}{0b 03 00}{04 00 00},{01 00 00 05 00} kas sa tulid\nkogu selle tee siia, et\nsee mulle tuua?\n{07 14 00}Vau, suur aitäh!{01 00 00 0a 00}\nSa oled nii armas!\n\n{07 04 00}Oh,{01 00 00 05 00} ja kui saad,{07 00 00} ütle\npalun {ff 00 00 06}Saharah'le{ff 00 00 00} minu poolt\naitäh.{01 00 00 05 00} Oleksin väga tänulik!\n{07 14 00}Kas ma võin sinule loota?{01 00 00 0f 00}\nVabandust, et tülin!"
   },
   {
    "id": 48,

@@ -9,7 +9,7 @@
   {
    "id": 1,
    "en": "Did you like {04 17 00}?\nWere you into it?\n",
-   "et": "Kas sulle meeldis {04 17 00}?\nKas see võttis sind sisse?\n"
+   "et": "Kas sulle meeldis {04 17 00}?\nKas see haaras sind kaasa?\n"
   },
   {
    "id": 2,
@@ -79,7 +79,7 @@
   {
    "id": 15,
    "en": "We'll spar again next time\nyou head this way, OK?\n",
-   "et": "Rebime uuesti, kui sa\njärgmine kord siia tuled!\n"
+   "et": "Teeme uue sparringu, kui sa\njärgmine kord siia tuled!\n"
   }
  ]
 }

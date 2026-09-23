@@ -24,12 +24,12 @@
   {
    "id": 4,
    "en": "TV with VCR: 1,600 Bells\nInvisible shirt: 460 Bells\nFloorless rug: 1,750 Bells\nTOTAL: 3,810 Bells",
-   "et": "Telekas videoga: 1600 kella\nNähtamatu särk: 460 kella\nPõrandata vaip: 1750 kella\nKOKKU: 3810 kella"
+   "et": "Telekas videoga: 1 600 kella\nNähtamatu särk: 460 kella\nPõrandata vaip: 1 750 kella\nKOKKU: 3 810 kella"
   },
   {
    "id": 5,
    "en": "If you're reading this,\nit's probably too late for\nme! Take care of things\nfor me, would you?",
-   "et": "Kui sa seda loed, on mul\nilmselt juba liiga hilja!\nHoolitse asjade eest\nminu eest, eks?"
+   "et": "Kui sa seda loed, on mul\nilmselt juba liiga hilja!\nHoolitse minu asjade\neest, eks?"
   },
   {
    "id": 6,
@@ -104,7 +104,7 @@
   {
    "id": 20,
    "en": "Because Mars is entering\nCapricorn, you should wear\nbig shoes and do the\nchicken dance. Repeatedly.",
-   "et": "Kuna Marss siseneb\nKaljukitsesse, peaksid\nkandma suuri kingi ja\ntegema kanatantsu. Aina!"
+   "et": "Kuna Marss siseneb\nKaljukitsesse, peaksid\nkandma suuri kingi ja\ntegema kanatantsu. Korduvalt!"
   },
   {
    "id": 21,
@@ -114,7 +114,7 @@
   {
    "id": 22,
    "en": "During the lunar eclipse,\nyou'll run around like a\nshovel-wielding maniac.\nWear a hockey mask.",
-   "et": "Kuuvarjutuse ajal jooksed\nsa ringi nagu labidaga\nhull. Pane jäähoki mask\nette."
+   "et": "Kuuvarjutuse ajal jooksed\nsa ringi nagu labidaga\nhull. Pane jäähokimask\nette."
   },
   {
    "id": 23,
@@ -129,7 +129,7 @@
   {
    "id": 25,
    "en": "I'm gonna make a killing\non turnips! Or so I \nthought, until I ate\nthem. Heh heh heh...{00 08 00}",
-   "et": "Ma teen naeritega\nvaramu! Nii ma arvasin, \nkuni ma need ära sõin.\nHeh heh heh...{00 08 00}"
+   "et": "Ma teen naeritega\nvaranduse! Nii ma arvasin, \nkuni ma need ära sõin.\nHeh heh heh...{00 08 00}"
   },
   {
    "id": 26,
@@ -144,7 +144,7 @@
   {
    "id": 28,
    "en": "Seeking new and seasoned\nadventurers to pick fruit,\nfish, and much more! Earn\nup to 800 Bells per hour!",
-   "et": "Otsime uusi ja kogenud\nseiklejaid puuvilja ja kala\nkorjama ning muuks! Teeni\nkuni 800 kella tunnis!"
+   "et": "Otsime uusi ja kogenud\nseiklejaid puuvilja korjama,\nkala püüdma ning muuks! Teeni\nkuni 800 kella tunnis!"
   },
   {
    "id": 29,
@@ -164,7 +164,7 @@
   {
    "id": 32,
    "en": "All you need to do is\ntest some fine cosmetics.\nOver 3,000 Bells per hour.\nNO EXPERIENCE NECESSARY!!",
-   "et": "Sa pead ainult mõnda\npeent kosmeetikat testima.\nÜle 3000 kella tunnis.\nKOGEMUST POLE VAJA!!"
+   "et": "Sa pead ainult mõnda\npeent kosmeetikat testima.\nÜle 3 000 kella tunnis.\nKOGEMUST POLE VAJA!!"
   },
   {
    "id": 33,
@@ -184,12 +184,12 @@
   {
    "id": 36,
    "en": "How are things over\nthere? If you catch a\ncold, you should wedge an \nonion slice in your nose!",
-   "et": "Kuidas seal läheb? Kui sa\nkülmetad, peaksid\ntoppima sibulaviilu\nnina vahele!"
+   "et": "Kuidas seal läheb? Kui sa\nkülmetad, peaksid\ntoppima sibulaviilu\nninna!"
   },
   {
    "id": 37,
    "en": "Dial 911 if you see him!\nName: Invisible Guy\nOffense: Running a red\nDescription: Invisible",
-   "et": "Helista 112, kui teda näed!\nNimi: Nähtamatu Tüüp\nSüütegu: punase tulega\nKirjeldus: nähtamatu"
+   "et": "Helista 112, kui teda näed!\nNimi: Nähtamatu Tüüp\nSüütegu: sõitis punase tulega\nKirjeldus: nähtamatu"
   },
   {
    "id": 38,

@@ -54,12 +54,12 @@
   {
    "id": 11,
    "en": "{07 04 00}Oh my! {01 00 00 0a 00}A {ff 00 00 02}future letter{ff 00 00 00}!{01 00 00 0a 00}\nThis is a letter that you\nsend to your future self!\n{07 0b 00}When in the future {01 00 00 05 00}should\nwe deliver this to you,\n{04 00 00}?",
-   "et": "{07 04 00}Oh sa! {01 00 00 0a 00}{ff 00 00 02}Tulevikukiri{ff 00 00 00}!{01 00 00 0a 00}\nSee on kiri, mille saadad\noma tulevasele minale!\n{07 0b 00}Millal tulevikus {01 00 00 05 00}peaksime\nselle sulle kohale tooma,\n{04 00 00}?"
+   "et": "{07 04 00}Oh jumalake! {01 00 00 0a 00}{ff 00 00 02}Tulevikukiri{ff 00 00 00}!{01 00 00 0a 00}\nSee on kiri, mille saadad\noma tulevasele minale!\n{07 0b 00}Millal tulevikus {01 00 00 05 00}peaksime\nselle sulle kohale tooma,\n{04 00 00}?"
   },
   {
    "id": 12,
    "en": "{07 00 00}So, you want it delivered on\n{ff 00 00 02}{04 11 00} {04 12 00}, {04 10 00}{ff 00 00 00},\n{07 0b 00}is that correct?{02 00 00 07 0d}\nThat's right.\nNo! No!",
-   "et": "{07 00 00}Nii et tahad, et see toodaks\n{ff 00 00 02}{04 11 00} {04 12 00}, {04 10 00}{ff 00 00 00},\n{07 0b 00}kas on õige?{02 00 00 07 0d}\nTäpselt nii.\nEi! Ei!"
+   "et": "{07 00 00}Nii et tahad, et see toodaks\nkohale {ff 00 00 02}{04 11 00} {04 12 00}, {04 10 00}{ff 00 00 00},\n{07 0b 00}kas nii on?{02 00 00 07 0d}\nTäpselt nii.\nEi! Ei!"
   },
   {
    "id": 13,
@@ -79,12 +79,12 @@
   {
    "id": 16,
    "en": "{07 00 00}If I destroy this letter--\nwell, destroy is such a\nharsh word.\nIf you allow me to discard\nit, I can accept another\nletter instead.{01 00 00 05 00}\nSo,{01 00 00 05 00} should I toss out the\nold {ff 00 00 02}future letter{ff 00 00 00}?{01 01 00} {07 0e 00}That\nsounds really {01 00 00 05 00}odd to me...\n{07 00 00}Anyway, then I can send\nyour new letter to the\nfuture!{02 04 00 11 0e}\nToss it!\nDon't toss it!",
-   "et": "{07 00 00}Kui ma kirja hävitan –\nnoh, hävitama on nii\nkarm sõna.\nKui sa lubad mul selle\nära visata, saan võtta\nselle asemel teise kirja.{01 00 00 05 00}\nNii et,{01 00 00 05 00} kas viskan vana\n{ff 00 00 02}tulevikukirja{ff 00 00 00} ära?{01 01 00} {07 0e 00}See\nkõlab mulle {01 00 00 05 00}päris veidralt...\n{07 00 00}Igatahes saan siis saata\nsu uue kirja\ntulevikku!{02 04 00 11 0e}\nViska ära!\nÄra viska!"
+   "et": "{07 00 00}Kui ma kirja hävitan –\nnoh, hävitada on nii\nkarm sõna.\nKui sa lubad mul selle\nära visata, saan võtta\nselle asemel teise kirja.{01 00 00 05 00}\nNii et,{01 00 00 05 00} kas viskan vana\n{ff 00 00 02}tulevikukirja{ff 00 00 00} ära?{01 01 00} {07 0e 00}See\nkõlab mulle {01 00 00 05 00}päris veidralt...\n{07 00 00}Igatahes saan siis saata\nsu uue kirja\ntulevikku!{02 04 00 11 0e}\nViska ära!\nÄra viska!"
   },
   {
    "id": 17,
    "en": "{07 00 00}Yes, {01 00 00 05 00}as always, we will take\nthe utmost care in\ndelivering your letter.\n{07 14 00}I will dispose of the old \nletter as requested. {01 01 00}{07 00 00}So, {01 00 00 05 00}\nthis new {ff 00 00 02}future letter{ff 00 00 00},\nwhich {04 00 00} of the\nfuture{01 00 00 05 00}{07 0b 00} would you like to\nsend it to?",
-   "et": "{07 00 00}Jah, {01 00 00 05 00}nagu alati hoolitseme\nsinu kirja eest\nülima hoolega.\n{07 14 00}Kõrvaldan vana kirja, \nnagu palusid. {01 01 00}{07 00 00}Nii, {01 00 00 05 00}\nsee uus {ff 00 00 02}tulevikukiri{ff 00 00 00},\nmillisele tuleviku\n{04 00 00}'le{01 00 00 05 00}{07 0b 00} sa tahad\nseda saata?"
+   "et": "{07 00 00}Jah, {01 00 00 05 00}nagu alati hoolitseme\nsinu kirja eest\nülima hoolega.\n{07 14 00}Kõrvaldan vana kirja, \nnagu palusid. {01 01 00}{07 00 00}Nii, {01 00 00 05 00}\nsee uus {ff 00 00 02}tulevikukiri{ff 00 00 00},\nmillisele tuleviku minale,\n{04 00 00},{01 00 00 05 00}{07 0b 00} sa tahad\nseda saata?"
   },
   {
    "id": 18,
@@ -124,7 +124,7 @@
   {
    "id": 25,
    "en": "{07 00 00}So, you would like to make\na donation to the town of\n{ff 00 00 08}Boondox{ff 00 00 00}, is that correct?\nAnd {07 0b 00}exactly how much would\nyou care to donate today?",
-   "et": "{07 00 00}Nii, sa sooviksid teha\nannetuse linnale\n{ff 00 00 08}Kolgas{ff 00 00 00}, kas on õige?\nJa {07 0b 00}kui palju sa täpselt\nsooviksid täna annetada?"
+   "et": "{07 00 00}Nii, sa sooviksid teha\nannetuse linna\n{ff 00 00 08}Kolga{ff 00 00 00} heaks, kas on õige?\nJa {07 0b 00}kui palju sa täpselt\nsooviksid täna annetada?"
   },
   {
    "id": 26,
@@ -159,17 +159,17 @@
   {
    "id": 32,
    "en": "{07 00 00}They're planning to build\nhouses in{ff 00 00 08} Boondox{ff 00 00 00} next.\n{07 0d 00}Isn't it wonderful?!\n{07 19 00}Once built, the townsfolk\nwill enjoy sleeping in\nwarm adobe houses...\n...instead of the dirt piles\nthey've been using thus\nfar.{01 01 00} {07 14 00}Thanks very much.",
-   "et": "{07 00 00}Järgmisena plaanivad nad\nehitada{ff 00 00 08} Kolka{ff 00 00 00} majad.\n{07 0d 00}Kas pole imeline?!\n{07 19 00}Kui need valmis saavad,\nsaavad linlased magada\nsoojades savimajades...\n...selle asemel et magada\nmullahunnikutes, nagu\nseni.{01 01 00} {07 14 00}Suur tänu."
+   "et": "{07 00 00}Järgmisena plaanivad nad\nehitada{ff 00 00 08} Kolkasse{ff 00 00 00} maju.\n{07 0d 00}Kas pole imeline?!\n{07 19 00}Kui need valmis saavad,\nsaavad linlased magada\nsoojades savimajades...\n...selle asemel et magada\nmullahunnikutes, nagu\nseni.{01 01 00} {07 14 00}Suur tänu."
   },
   {
    "id": 33,
    "en": "{07 00 00}The {ff 00 00 08}Boondoxians {ff 00 00 00}{07 14 00}are working\nthe land so they can\neventually grow vegetables!\n{07 0e 00}Of course, a few get\ndistracted by all the free\ndirt.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 14 00} Anyhow, thank you!",
-   "et": "{07 00 00}{ff 00 00 08}Kolkalased {ff 00 00 00}{07 14 00}harivad\nmaad, et lõpuks\nsaaks köögivilja kasvatada!\n{07 0e 00}Muidugi lähevad mõned\nhajevile kogu selle\ntasuta mulla tõttu{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{07 14 00} Aitäh!"
+   "et": "{07 00 00}{ff 00 00 08}Kolkalased {ff 00 00 00}{07 14 00}harivad\nmaad, et lõpuks\nsaaks köögivilja kasvatada!\n{07 0e 00}Muidugi lähevad mõned\nhajevil kogu selle\ntasuta mulla tõttu{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{07 14 00} Aitäh!"
   },
   {
    "id": 34,
    "en": "{07 00 00}It's {01 00 00 05 00}flu season in {ff 00 00 08}Boondox{ff 00 00 00},\nso supply convoys are\nbringing medicine daily.\n{07 14 00}Thanks to your gift,\n{04 00 00}, they should all\nbe feeling better soon!",
-   "et": "{07 00 00}On {01 00 00 05 00}gripihooaeg {ff 00 00 08}Kolkas{ff 00 00 00},\nnii et varustuskolonnid\ntoovad iga päev ravimeid.\n{07 14 00}Tänu sinu kingile,\n{04 00 00}, peaksid nad kõik\nvarsti paremini tundma!"
+   "et": "{07 00 00}On {01 00 00 05 00}gripihooaeg {ff 00 00 08}Kolkas{ff 00 00 00},\nnii et varustuskolonnid\ntoovad iga päev ravimeid.\n{07 14 00}Tänu sinu kingile,\n{04 00 00}, peaksid nad kõik\nvarsti paremaks saama!"
   },
   {
    "id": 35,
@@ -214,7 +214,7 @@
   {
    "id": 43,
    "en": "{ff 00 00 08}{07 00 00}Boondox{ff 00 00 00} asked us{01 00 00 05 00} to build\nan amusement park for the\nyoung people there.\n{07 14 00}Amusement parks ARE nice{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0f 00}\n{07 0e 00}but they should really solve\nthe dirt-eating issue first.",
-   "et": "{ff 00 00 08}{07 00 00}Kolgas{ff 00 00 00} palus meil{01 00 00 05 00} ehitada\nsealsetele noortele\nlõbustuspark.\n{07 14 00}Lõbustuspargid ON toredad{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0f 00}\n{07 0e 00}aga nad peaksid enne\nlahendama mullamure."
+   "et": "{ff 00 00 08}{07 00 00}Kolga{ff 00 00 00} palus meil{01 00 00 05 00} ehitada\nsealsetele noortele\nlõbustuspargi.\n{07 14 00}Lõbustuspargid ON toredad{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0f 00}\n{07 0e 00}aga nad peaksid enne\nlahendama mullamure."
   },
   {
    "id": 44,
@@ -229,7 +229,7 @@
   {
    "id": 46,
    "en": "{07 00 00}I know that {ff 00 00 08}Boondox {ff 00 00 00}has\ncome a long way...\n\n{07 0e 00}But I'm sure that compared\nto {04 03 00}, they've\nstill got {01 00 00 05 00}a long way to go.{01 00 00 05 00}.{01 00 00 05 00}.",
-   "et": "{07 00 00}Tean, et {ff 00 00 08}Kolgas {ff 00 00 00}on\njõudnud pika tee...\n\n{07 0e 00}Aga kindlasti, võrreldes\nlinnaga {04 03 00} on neil\nveel {01 00 00 05 00}pikk tee minna{01 00 00 05 00}.{01 00 00 05 00}."
+   "et": "{07 00 00}Tean, et {ff 00 00 08}Kolga {ff 00 00 00}on\nläbinud pika tee...\n\n{07 0e 00}Aga kindlasti, võrreldes\nlinnaga {04 03 00} on neil\nveel {01 00 00 05 00}pikk tee minna{01 00 00 05 00}.{01 00 00 05 00}."
   },
   {
    "id": 47,
@@ -244,12 +244,12 @@
   {
    "id": 49,
    "en": "{07 00 00}I heard that {ff 00 00 08}Boondox{ff 00 00 00} is\nundertaking a{01 00 00 05 00} massive\nreconstruction project! \n{07 0e 00}It's been a while since we\nstarted sending donations{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0f 00}\n{07 14 00}but it's still so inspiring!",
-   "et": "{07 00 00}Kuulsin, et {ff 00 00 08}Kolgas{ff 00 00 00} on\nette võtnud{01 00 00 05 00} hiiglasliku\nülesehitusprojekti! \n{07 0e 00}On möödunud tükk aega,\nkui hakkasime annetama{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0f 00}\n{07 14 00}aga ikka nii inspireeriv!"
+   "et": "{07 00 00}Kuulsin, et {ff 00 00 08}Kolga{ff 00 00 00} on\nette võtnud{01 00 00 05 00} hiiglasliku\nülesehitusprojekti! \n{07 0e 00}On möödunud tükk aega,\nkui hakkasime annetama{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0f 00}\n{07 14 00}aga ikka nii inspireeriv!"
   },
   {
    "id": 50,
    "en": "{07 00 00}I heard that{ff 00 00 08} Boondox {ff 00 00 00}has\nchanged its name to\n{ff 00 00 08}Boondopolis{ff 00 00 00}.\n{07 0e 00}As you can see,\n{04 00 00}, your donations\n{07 14 00}have been put to good use!",
-   "et": "{07 00 00}Kuulsin, et{ff 00 00 08} Kolgas {ff 00 00 00}on\nmuutnud oma nime\n{ff 00 00 08}Kolkapoliseks{ff 00 00 00}.\n{07 0e 00}Nagu näed,\n{04 00 00}, on sinu annetused\n{07 14 00}heasse kasutusse läinud!"
+   "et": "{07 00 00}Kuulsin, et{ff 00 00 08} Kolga {ff 00 00 00}on\nmuutnud oma nime\n{ff 00 00 08}Kolkapoliseks{ff 00 00 00}.\n{07 0e 00}Nagu näed,\n{04 00 00}, on sinu annetused\n{07 14 00}heasse kasutusse läinud!"
   },
   {
    "id": 51,
@@ -264,7 +264,7 @@
   {
    "id": 53,
    "en": "{07 04 00}Oh!{01 00 00 0f 00}{07 00 00} So you want to move\nfrom {04 03 00}{01 00 00 05 00} to a town\non another {ff 00 00 01}Game Card{ff 00 00 00}?!\nThere's something I have to\ntell you before you move,\nthough.\nThe items in your drawers\nand tape deck...\n\nWell, you can't take them\nwith you. {01 00 00 05 00}We're experiencing\na movers' strike, you see.\nYour {ff 00 00 01}Nintendo Wi-Fi\nConnection{ff 00 00 00} settings\nwill also be deleted, so...\nThough you can keep using\nyour {ff 00 00 02}friend roster {ff 00 00 00}when\ntravelling via {ff 00 00 01}Nintendo WFC\n{ff 00 00 00}or when hosting guests,{01 00 00 05 00}\nyou'll have to ask your\nfriends {01 00 00 05 00}to re-register you\nto their {ff 00 00 02}friend rosters{ff 00 00 00}.\nPlease understand all these\nthings before moving.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\nAll righty then.{01 00 00 14 00} First, take\nthe {ff 00 00 01}Game Card {ff 00 00 00}with the\ntown you're moving to\nand make sure that it's \nin {ff 00 00 02}immigration {ff 00 00 00}mode.{01 01 00}\nTo do this,\ninsert the {ff 00 00 01}Game Card{ff 00 00 00} with\nthe town that you're moving\nto into a {ff 00 00 01}Nintendo DS{ff 00 00 00}.\nThen, just choose {ff 00 00 02}Other\nthings{ff 00 00 00} and {ff 00 00 02}Immigration{ff 00 00 00}.{01 01 00}\nPiece of cake, right?\n{07 14 00}All righty then, are you\nready for me to start the\n{ff 00 00 01}DS Wireless Communication{ff 00 00 00}?{02 00 00 36 04}\n...And waiting!\nCold feet!",
-   "et": "{07 04 00}Oh!{01 00 00 0f 00}{07 00 00} Nii et sa tahad kolida\nlinnast {04 03 00}{01 00 00 05 00} linna\nteisel {ff 00 00 01}mängukaardil{ff 00 00 00}?!\nMul on siiski midagi,\nmida pean sulle enne\nkolimist ütlema.\nSu sahtlites ja\nmakis olevad esemed...\n\nNoh, sa ei saa neid kaasa\nvõtta. {01 00 00 05 00}Meil on parajasti\nkolijate streik, näed sa.\nSinu {ff 00 00 01}Nintendo Wi-Fi\nühenduse{ff 00 00 00} seaded\nkustutatakse ka, nii et...\nKuigi saad edasi kasutada\noma {ff 00 00 02}sõbranimekirja {ff 00 00 00}, kui\nreisid {ff 00 00 01}Nintendo WFC\n{ff 00 00 00}kaudu või võõrustad,{01 00 00 05 00}\npead paluma oma sõpradel{01 00 00 05 00}\nend uuesti registreerida\noma {ff 00 00 02}sõbranimekirja{ff 00 00 00}.\nPalun mõista kõiki neid\nasju enne kolimist{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\nHea küll.{01 00 00 14 00} Kõigepealt võta\n{ff 00 00 01}mängukaart {ff 00 00 00}linnaga,\nkuhu kolid,\nja veendu, et see on \n{ff 00 00 02}sisserände {ff 00 00 00}režiimis.{01 01 00}\nSelleks\npane {ff 00 00 01}mängukaart{ff 00 00 00} linnaga,\nkuhu kolid,\n{ff 00 00 01}Nintendo DS-i{ff 00 00 00}.\nSiis vali lihtsalt {ff 00 00 02}Muud\nasjad{ff 00 00 00} ja {ff 00 00 02}Sisseränne{ff 00 00 00}.{01 01 00}\nLihtne, eks?\n{07 14 00}Hea küll, kas oled valmis,\net alustan\n{ff 00 00 01}DS-i juhtmevaba sidet{ff 00 00 00}?{02 00 00 36 04}\n...Ja ootan!\nKardan!"
+   "et": "{07 04 00}Oh!{01 00 00 0f 00}{07 00 00} Nii et sa tahad kolida\nlinnast {04 03 00}{01 00 00 05 00} linna\nteisel {ff 00 00 01}mängukaardil{ff 00 00 00}?!\nMul on siiski midagi,\nmida pean sulle enne\nkolimist ütlema.\nSu sahtlites ja\nmakis olevad esemed...\n\nNoh, sa ei saa neid kaasa\nvõtta. {01 00 00 05 00}Meil on parajasti\nkolijate streik, näed sa.\nSinu {ff 00 00 01}Nintendo Wi-Fi\nühenduse{ff 00 00 00} seaded\nkustutatakse ka, nii et...\nKuigi saad edasi kasutada\noma {ff 00 00 02}sõbranimekirja {ff 00 00 00}, kui\nreisid {ff 00 00 01}Nintendo WFC\n{ff 00 00 00}kaudu või võõrustad,{01 00 00 05 00}\npead paluma oma sõpradel{01 00 00 05 00}\nend uuesti registreerida\noma {ff 00 00 02}sõbranimekirja{ff 00 00 00}.\nPalun mõista kõiki neid\nasju enne kolimist{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\nHea küll.{01 00 00 14 00} Kõigepealt võta\n{ff 00 00 01}mängukaart {ff 00 00 00}linnaga,\nkuhu kolid,\nja veendu, et see on \n{ff 00 00 02}sisserände {ff 00 00 00}režiimis.{01 01 00}\nSelleks\npane {ff 00 00 01}mängukaart{ff 00 00 00} linnaga,\nkuhu kolid,\n{ff 00 00 01}Nintendo DS-i{ff 00 00 00}.\nSiis vali lihtsalt {ff 00 00 02}Muud\nasjad{ff 00 00 00} ja {ff 00 00 02}Sisseränne{ff 00 00 00}.{01 01 00}\nLihtne, eks?\n{07 14 00}Hea küll, kas oled valmis,\net alustan\n{ff 00 00 01}DS-i juhtmevaba sidet{ff 00 00 00}?{02 00 00 36 04}\n...Ja ootan!\nTaganen!"
   },
   {
    "id": 54,
@@ -309,7 +309,7 @@
   {
    "id": 62,
    "en": "{07 00 00}\"{0b 03 00}{ff 00 00 02}{04 03 00} is a great\nplace to be!{01 00 00 0f 00} It's really{01 00 00 05 00}\ncome a long way!{ff 00 00 00}\"\n{07 14 00}Sounds like this resident\nis very happy!",
-   "et": "{07 00 00}„{0b 03 00}{ff 00 00 02}{04 03 00} on suurepärane\nkoht!{01 00 00 0f 00} See on tõesti{01 00 00 05 00}\npika tee jõudnud!{ff 00 00 00}”\n{07 14 00}Tundub, et see elanik\non väga õnnelik!"
+   "et": "{07 00 00}„{0b 03 00}{ff 00 00 02}{04 03 00} on suurepärane\nkoht!{01 00 00 0f 00} See on tõesti{01 00 00 05 00}\npika tee läbinud!{ff 00 00 00}”\n{07 14 00}Tundub, et see elanik\non väga õnnelik!"
   },
   {
    "id": 63,
@@ -319,12 +319,12 @@
   {
    "id": 64,
    "en": "{07 00 00}Here, read what one\nresident has to say about\nour town.\n\"{ff 00 00 02}Hmm.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} Well, it's not\npassing,{01 00 00 05 00} but it's not\nfailing either.\n{ff 00 00 00}\"{ff 00 00 02}Like, {01 00 00 05 00}more than milk,{01 00 00 0a 00} but\nnot quite a milk shake,\nknow what I mean?!{ff 00 00 00}\"\nHmm.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} Sounds like there's\nnothing this resident likes\nor dislikes in particular.",
-   "et": "{07 00 00}Siin, loe, mida üks\nelanik meie linna\nkohta ütleb.\n„{ff 00 00 02}Hmm..{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} Noh, see pole\nviis,{01 00 00 05 00} aga pole ka\nkaks.\n{ff 00 00 00}”{ff 00 00 02}Nagu, {01 00 00 05 00}rohkem kui piim,{01 00 00 0a 00} aga\nmitte päris kokteil,\nsaad aru?!{ff 00 00 00}”\nHmm..{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} Tundub, et sellele\nelanikule ei meeldi ega\nei meeldi miski eriti."
+   "et": "{07 00 00}Siin, loe, mida üks\nelanik meie linna\nkohta ütleb.\n„{ff 00 00 02}Hmm..{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} Noh, see pole\nviis,{01 00 00 05 00} aga pole ka\nkaks.\n{ff 00 00 00}”{ff 00 00 02}Nagu, {01 00 00 05 00}rohkem kui piim,{01 00 00 0a 00} aga\nmitte päris kokteil,\nsaad aru?!{ff 00 00 00}”\nHmm..{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} Tundub, et sellele\nelanikule pole midagi,\nmis eriti meeldiks või mitte."
   },
   {
    "id": 65,
    "en": "{07 00 00}\"{ff 00 00 02}It feels odd to write this\nbut.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}can't you take better\ncare of our town?{ff 00 00 00}\"\nThat's what the message\nsays.{01 00 00 14 00} {07 16 00}He was holding back{01 00 00 05 00}\nbut his sadness is clear.",
-   "et": "{07 00 00}„{ff 00 00 02}Tundub veider seda\nkirjutada, aga{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}kas te ei\nsaaks linna paremini hoida?{ff 00 00 00}”\nNii see sõnum\nütleb.{01 00 00 14 00} {07 16 00}Ta hoidis tagasi,{01 00 00 05 00}\naga ta kurbus on selge."
+   "et": "{07 00 00}„{ff 00 00 02}Tundub veider seda\nkirjutada, aga{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}kas te ei\nsaaks linna paremini hoida?{ff 00 00 00}”\nNii see sõnum\nütleb.{01 00 00 14 00} {07 16 00}Ta hoidis end tagasi,{01 00 00 05 00}\naga ta kurbus on selge."
   },
   {
    "id": 66,

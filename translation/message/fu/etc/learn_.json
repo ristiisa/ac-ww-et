@@ -59,7 +59,7 @@
   {
    "id": 11,
    "en": "{07 14 00}It looks like you've really\ngotten in touch with your\ninner {ff 00 00 02}{04 0f 00}{ff 00 00 00}!\nNice work, {01 00 00 05 00}{04 02 00}!",
-   "et": "{07 14 00}Paistab, et sa oled tõesti\nleidnud kontakti oma\nsisemise {ff 00 00 02}{04 0f 00}{ff 00 00 00}ga!\nTubli töö, {01 00 00 05 00}{04 02 00}!"
+   "et": "{07 14 00}Paistab, et sa oled tõesti\nleidnud kontakti oma\nsisemise {ff 00 00 02}{04 0f 00}{ff 00 00 00} poolega!\nTubli töö, {01 00 00 05 00}{04 02 00}!"
   },
   {
    "id": 12,
@@ -94,7 +94,7 @@
   {
    "id": 18,
    "en": "{07 00 00}I get you.{01 01 00} Even bad feelings\nare hard to let go of.",
-   "et": "{07 00 00}Ma mõistan sind.{01 01 00} Isegi halbu\ntundeid on raske ära anda."
+   "et": "{07 00 00}Ma mõistan sind.{01 01 00} Isegi halvadest\ntunnetest on raske lahti lasta."
   }
  ]
 }

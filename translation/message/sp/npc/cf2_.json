@@ -59,7 +59,7 @@
   {
    "id": 11,
    "en": "{07 35 00}Ugh,{01 00 00 05 00} my outfit's been ruined\nby this stupid rain. Look at\nthis mess!\n{07 00 00}Maybe I'll{01 00 00 05 00} just take today\noff.{01 00 00 0f 00}\n{ff 00 00 04}(I can't keep doing this.)",
-   "et": "{07 35 00}Uhh,{01 00 00 05 00} mu riietus on selle\nrumala vihmaga rikutud.\nVaata seda segadust!\n{07 00 00}Ehk võtan{01 00 00 05 00} täna lihtsalt\nvabaks.{01 00 00 0f 00}\n{ff 00 00 04}(Ma ei jaksa enam.)"
+   "et": "{07 35 00}Uhh,{01 00 00 05 00} mu riietus on selle\nrumala vihmaga rikutud.\nVaata seda jama!\n{07 00 00}Ehk võtan{01 00 00 05 00} täna lihtsalt\nvabaks.{01 00 00 0f 00}\n{ff 00 00 04}(Ma ei jaksa enam.)"
   },
   {
    "id": 12,
@@ -69,7 +69,7 @@
   {
    "id": 13,
    "en": "{07 35 00}Ack!{01 00 00 14 00} I ordered a dark\nroast, but{01 00 00 05 00} this is really\nbitter!{01 00 00 0f 00} {ff 00 00 04}(I want a refund!)",
-   "et": "{07 35 00}Ahh!{01 00 00 14 00} Tellisin tumeda\nröstiga, aga{01 00 00 05 00} see on väga\nmõru!{01 00 00 0f 00} {ff 00 00 04}(Tahan raha tagasi!)"
+   "et": "{07 35 00}Ahh!{01 00 00 14 00} Tellisin tumeröstist\nkohvi, aga{01 00 00 05 00} see on väga\nmõru!{01 00 00 0f 00} {ff 00 00 04}(Tahan raha tagasi!)"
   },
   {
    "id": 14,
@@ -84,12 +84,12 @@
   {
    "id": 16,
    "en": "{07 00 00}Does that doofus EVER do\nany work? {01 00 00 05 00}Seriously!",
-   "et": "{07 00 00}Kas see juhm teeb ÜLDSE\nmingit tööd? {01 00 00 05 00}Tõsiselt!"
+   "et": "{07 00 00}Kas see jobu teeb ÜLDSE\nmingit tööd? {01 00 00 05 00}Tõsiselt!"
   },
   {
    "id": 17,
    "en": "{07 36 00}I'm not surprised that loser\ndidn't follow me.{01 00 00 05 00} Not here\nat least{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.",
-   "et": "{07 36 00}Pole üllatav, et see luuser\nmulle järele ei tulnud.{01 00 00 05 00}\nVähemalt mitte siia{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}."
+   "et": "{07 36 00}Pole üllatav, et see luuser\nmulle järgi ei tulnud.{01 00 00 05 00}\nVähemalt mitte siia{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}."
   },
   {
    "id": 18,
@@ -124,7 +124,7 @@
   {
    "id": 24,
    "en": "{07 00 00}You seem kinda clueless,{01 00 00 05 00} so\nlet me give you a tip,{01 00 00 05 00} gal\nto gal.\n{07 35 00}{01 08 00}ALWAYS WEAR SENSIBLE SHOES!{01 01 00}\n{07 00 00}Unless you have wings.{01 00 00 05 00} Then\nit doesn't really matter.",
-   "et": "{07 00 00}Sa tundud üsna saamatu,{01 00 00 05 00} nii\net las ma annan sulle vihje,{01 00 00 05 00}\ntüdruk tüdrukule.\n{07 35 00}{01 08 00}KANNA MÕISTLIKKE KINGI!{01 01 00}\n{07 00 00}Kui sul pole tiibu.{01 00 00 05 00} Siis\npole sellel tähtsust."
+   "et": "{07 00 00}Sa tundud üsna saamatu,{01 00 00 05 00} nii\net las ma annan sulle vihje,{01 00 00 05 00}\ntüdrukult tüdrukule.\n{07 35 00}{01 08 00}KANNA MÕISTLIKKE KINGI!{01 01 00}\n{07 00 00}Tiibade korral{01 00 00 05 00} pole\nsellel tähtsust."
   },
   {
    "id": 25,

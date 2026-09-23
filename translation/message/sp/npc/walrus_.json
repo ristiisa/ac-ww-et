@@ -4,7 +4,7 @@
   {
    "id": 0,
    "en": "{07 16 00}Suh-{01 00 00 05 00}so hungry.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00}\nMust eat something.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n\n{07 1c 00}Belly.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} So empty.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\nFeels like a black hole{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n\nIt {ff 00 00 02}screams{ff 00 00 00} for food{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\nFainting spell imminent.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n\n{07 00 00}Suh-{01 00 00 05 00}something!{01 00 00 05 00} ANYTHING!{01 00 00 05 00}\nPuh-{01 00 00 05 00}please, I need FOOD!{02 04 00 00 01}\nOkeydokey!\nGrow up.",
-   "et": "{07 16 00}Ni-{01 00 00 05 00}nii näljane.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00}\nPean midagi sööma{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n\n{07 1c 00}Kõht.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} Nii tühi.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\nNagu must auk{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n\nSee {ff 00 00 02}karjub{ff 00 00 00} toidu järele{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\nMinestus on lähedal{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n\n{07 00 00}Mi-{01 00 00 05 00}midagi!{01 00 00 05 00} ÜKSKÕIK MIDA!{01 00 00 05 00}\nPa-{01 00 00 05 00}palun, ma vajan TOITU!{02 04 00 00 01}\nOlgu pealegi!\nKasva suureks."
+   "et": "{07 16 00}Ni-{01 00 00 05 00}nii näljane.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00}\nPean midagi sööma{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n\n{07 1c 00}Kõht.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} Nii tühi.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\nNagu must auk{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n\nSee {ff 00 00 02}karjub{ff 00 00 00} toidu järele{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\nMinestus on lähedal{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n\n{07 00 00}Mi-{01 00 00 05 00}midagi!{01 00 00 05 00} ÜKSKÕIK MIDA!{01 00 00 05 00}\nPa-{01 00 00 05 00}palun, ma vajan TOITU!{02 04 00 00 01}\nOkei-dokei!\nKasva suureks."
   },
   {
    "id": 1,
@@ -39,7 +39,7 @@
   {
    "id": 7,
    "en": "{07 00 00}Huh-{01 00 00 05 00}hey, {01 00 00 05 00}thanks for the\nfood earlier!\n\n{07 0a 00}So full of happiness!{01 00 00 0a 00}\nSo plump in the belly!",
-   "et": "{07 00 00}He-{01 00 00 05 00}hei, {01 00 00 05 00}aitäh toidu\neest varem!\n\n{07 0a 00}Nii täis õnne!{01 00 00 0a 00}\nNii tüse kõhust!"
+   "et": "{07 00 00}He-{01 00 00 05 00}hei, {01 00 00 05 00}aitäh toidu\neest varem!\n\n{07 0a 00}Nii täis õnne!{01 00 00 0a 00}\nKõht nii punnis!"
   },
   {
    "id": 8,
@@ -54,7 +54,7 @@
   {
    "id": 10,
    "en": "{07 00 00}Thuh-{01 00 00 05 00}this is something that\nI  picked up on my way to\nthis town, buh-but{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 0e 00}I thuh-{01 00 00 05 00}think there's a name\nor something written on it!{01 00 00 05 00}\n\nIt's kind of fuh-faded so I\ncan't really tuh-tell.\n\n{07 00 00}Well, {01 00 00 05 00}you can either take it\nto the puh-person who lost\nit or muh-maybe{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n...keep it for yourself{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 01 00}\n{07 0a 00}Do what you wuh-{01 00 00 05 00}want!",
-   "et": "{07 00 00}Se-{01 00 00 05 00}see on midagi, mille\nma korjasin teel siia\nlinna, ag-aga{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 0e 00}Ma ar-{01 00 00 05 00}arvan, et sellele on\nkirjutatud nimi või midagi!{01 00 00 05 00}\n\nSee on veidi lu-luitunud, nii\net ma ei saa a-aru.\n\n{07 00 00}Noh, {01 00 00 05 00}sa võid selle viia\nini-inimesele, kes selle\nkaotas, või äk-äkki{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n...jätta endale{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 01 00}\n{07 0a 00}Tee, mida ta-{01 00 00 05 00}tahad!"
+   "et": "{07 00 00}Se-{01 00 00 05 00}see on midagi, mille\nma korjasin teel siia\nlinna, ag-aga{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 0e 00}Ma ar-{01 00 00 05 00}arvan, et sellele on\nkirjutatud nimi või midagi!{01 00 00 05 00}\n\nSee on veidi tu-tuhmunud, nii\net ma ei saa a-aru.\n\n{07 00 00}Noh, {01 00 00 05 00}sa võid selle viia\nini-inimesele, kes selle\nkaotas, või äk-äkki{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n...jätta endale{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 01 00}\n{07 0a 00}Tee, mida ta-{01 00 00 05 00}tahad!"
   },
   {
    "id": 11,

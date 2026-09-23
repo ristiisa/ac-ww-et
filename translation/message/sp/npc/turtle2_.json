@@ -64,7 +64,7 @@
   {
    "id": 12,
    "en": "{07 00 00}And remember, I only take\nbugs!{07 03 00}{01 00 00 0f 00} I'm the {ff 00 00 06}mayor{ff 00 00 00}, not\nthe recycling bin, mind you!",
-   "et": "{07 00 00}Ja pea meeles, ma võtan\nainult putukaid!{07 03 00}{01 00 00 0f 00} Olen {ff 00 00 06}pea{ff 00 00 00},\nmitte taaskasutuskast!"
+   "et": "{07 00 00}Ja pea meeles, ma võtan\nainult putukaid!{07 03 00}{01 00 00 0f 00} Olen {ff 00 00 06}linnapea{ff 00 00 00},\nmitte taaskasutuskast!"
   },
   {
    "id": 13,
@@ -99,7 +99,7 @@
   {
    "id": 19,
    "en": "{07 00 00}Now, {01 00 00 05 00}I must give you a\nreward for setting the new\nrecord{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.",
-   "et": "{07 00 00}Nüüd {01 00 00 05 00}pean sulle andma\ntasu uue rekordi\nseadmise eest{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}."
+   "et": "{07 00 00}Nüüd {01 00 00 05 00}pean sulle andma\nauhinna uue rekordi\nseadmise eest{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}."
   },
   {
    "id": 20,
@@ -114,12 +114,12 @@
   {
    "id": 22,
    "en": "{07 14 00}Now don't get a big head--{01 00 00 0a 00}\n{07 03 00}{01 00 00 0a 00}Heh heh {01 00 00 05 00}HEEorf! {01 00 00 05 00}Hoo hoorf!{01 00 00 14 00}\nBut that was quite a feat!\n{07 00 00}And for being the number-\none bug catcher,{01 00 00 05 00} you get a\nspecial prize!",
-   "et": "{07 14 00}Ära nüüd pead kaotama--{01 00 00 0a 00}\n{07 03 00}{01 00 00 0a 00}Heh heh {01 00 00 05 00}HEEorf! {01 00 00 05 00}Hoo hoorf!{01 00 00 14 00}\nAga see oli alles vägitegu!\n{07 00 00}Ja number ühe putuka-\npüüdjana{01 00 00 05 00} saad sa\nerilise auhinna!"
+   "et": "{07 14 00}Ära nüüd tähtsaks minna--{01 00 00 0a 00}\n{07 03 00}{01 00 00 0a 00}Heh heh {01 00 00 05 00}HEEorf! {01 00 00 05 00}Hoo hoorf!{01 00 00 14 00}\nAga see oli alles vägitegu!\n{07 00 00}Ja number ühe putuka-\npüüdjana{01 00 00 05 00} saad sa\nerilise auhinna!"
   },
   {
    "id": 29,
    "en": "{07 03 00}{01 00 00 0a 00}Heh heh horf! {01 00 00 05 00}Hee HORF!{01 00 00 0f 00} Too\nbad, {01 00 00 05 00}sprout! {07 00 00}You're still\nfar away from the lead!\nThe {ff 00 00 02}{04 0f 00}-mm\n{ff 00 00 00}{0b 02 00}{04 1b 00} is\nstill the record holder!",
-   "et": "{07 03 00}{01 00 00 0a 00}Heh heh horf! {01 00 00 05 00}Hee HORF!{01 00 00 0f 00}\nKahju,{01 00 00 05 00} võsuke! {07 00 00}Sa oled ikka\njuhtidest kaugel!\n{ff 00 00 02}{04 0f 00} mm\n{ff 00 00 00}{0b 02 00}{04 1b 00} on\nikka rekordiomanik!"
+   "et": "{07 03 00}{01 00 00 0a 00}Heh heh horf! {01 00 00 05 00}Hee HORF!{01 00 00 0f 00}\nKahju,{01 00 00 05 00} võsuke! {07 00 00}Sa oled ikka\nesikohast kaugel!\n{ff 00 00 02}{04 0f 00} mm\n{ff 00 00 00}{0b 02 00}{04 1b 00} on\nikka rekordiomanik!"
   },
   {
    "id": 30,

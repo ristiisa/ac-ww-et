@@ -19,7 +19,7 @@
   {
    "id": 3,
    "en": "{09 00 00}{09 08 00}{09 02 00}{09 06 00}{07 14 00}Tee hee!{01 00 00 0f 00} Eating is more my\nforte! {09 01 00}{07 1b 00}{09 02 00}I make a cute face\nwhen I eat, {01 00 00 05 00}{07 13 00}like this.\n{07 0b 00}How about you?{01 00 00 05 00} Do you\ncook? {01 01 00}{07 13 00}And would you make\nme some {04 12 00}?{09 09 00}",
-   "et": "{09 00 00}{09 08 00}{09 02 00}{09 06 00}{07 14 00}Hihii!{01 00 00 0f 00} Söömine on rohkem\nminu ala! {09 01 00}{07 1b 00}{09 02 00}Teen armsa näo,\nkui söön, {01 00 00 05 00}{07 13 00}nii nagu see.\n{07 0b 00}Aga sina?{01 00 00 05 00} Kas sa\nkokkad? {01 01 00}{07 13 00}Ja kas teeksid\nmulle veidi {04 12 00}?{09 09 00}"
+   "et": "{09 00 00}{09 08 00}{09 02 00}{09 06 00}{07 14 00}Hihii!{01 00 00 0f 00} Söömine on rohkem\nminu ala! {09 01 00}{07 1b 00}{09 02 00}Teen armsa näo,\nkui söön, {01 00 00 05 00}{07 13 00}vaata nii.\n{07 0b 00}Aga sina?{01 00 00 05 00} Kas sa\nkokkad? {01 01 00}{07 13 00}Ja kas teeksid\nmulle veidi {04 12 00}?{09 09 00}"
   },
   {
    "id": 4,
@@ -79,7 +79,7 @@
   {
    "id": 15,
    "en": "{09 00 00}{09 06 00}{09 01 00}{07 15 00}Yeah, {01 00 00 05 00}totally! {01 00 00 05 00}And that old\njunker she drives? {01 00 00 05 00}Who does\nshe think she's fooling?!\n{07 11 00}It just PROVES how OLD{01 00 00 05 00} and\nOUT OF TOUCH she is!{09 09 00}",
-   "et": "{09 00 00}{09 06 00}{09 01 00}{07 15 00}Jah, {01 00 00 05 00}täiesti! {01 00 00 05 00}Ja see vana\nromu, mida ta sõidab? {01 00 00 05 00}Keda\nta arvab end petvat?!\n{07 11 00}See TÕESTAB, kui VANA{01 00 00 05 00} ja\najast maas ta on!{09 09 00}"
+   "et": "{09 00 00}{09 06 00}{09 01 00}{07 15 00}Jah, {01 00 00 05 00}täiesti! {01 00 00 05 00}Ja see vana\nromu, millega ta sõidab? {01 00 00 05 00}Keda\nta arvab end petvat?!\n{07 11 00}See TÕESTAB, kui VANA{01 00 00 05 00} ja\najast maas ta on!{09 09 00}"
   },
   {
    "id": 16,
@@ -89,7 +89,7 @@
   {
    "id": 17,
    "en": "{09 00 00}{09 06 00}{09 01 00}{07 01 00}Know why our feet hurt?{01 01 00}{07 09 00}\n'Cause we can't buy shoes\nin this backwater town.{01 00 00 14 00}{09 09 00}",
-   "et": "{09 00 00}{09 06 00}{09 01 00}{07 01 00}Tead, miks jalg valutab?{01 01 00}{07 09 00}\nSest selles kolkalinnas\nei saa kingi osta.{01 00 00 14 00}{09 09 00}"
+   "et": "{09 00 00}{09 06 00}{09 01 00}{07 01 00}Tead, miks meie jalad valutavad?{01 01 00}{07 09 00}\nSest selles kolkalinnas\nei saa kingi osta.{01 00 00 14 00}{09 09 00}"
   },
   {
    "id": 18,

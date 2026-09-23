@@ -9,7 +9,7 @@
   {
    "id": 1,
    "en": "{07 02 00}What're you trying to pull,\neh? You think I'm some kind\nof idiot, is that it?\n{07 16 00}How many times did I tell\nya not to open that letter\nto {ff 00 00 06}{04 10 00}{ff 00 00 00}?\nAnd you went ahead and did\nit anyway. Way to go,\nchief! You're a moron!\n{07 15 00}Give it back now...{01 01 00}\nYou're a disgrace,\n{01 00 00 05 00}{04 02 00}!{03 02 00 01}",
-   "et": "{07 02 00}Mida sa üritad teha,\nmis? Kas sa pead mind\nmingiks idioodiks või?\n{07 16 00}Mitu korda ma ütlesin,\net sa ei avaks seda kirja\n{ff 00 00 06}{04 10 00}{ff 00 00 00}le?\nJa sa läksid ja tegid seda\nikka. Tubli töö,\npealik! Sa oled tobu!\n{07 15 00}Anna kohe tagasi...{01 01 00}\nSa oled häbiplekk,\n{01 00 00 05 00}{04 02 00}!{03 02 00 01}"
+   "et": "{07 02 00}Mida sa üritad teha,\nmis? Kas sa pead mind\nmingiks idioodiks või?\n{07 16 00}Mitu korda ma ütlesin,\net sa ei avaks seda kirja\ntüübile nimega {ff 00 00 06}{04 10 00}{ff 00 00 00}?\nJa sa läksid ja tegid seda\nikka. Tubli töö,\npealik! Sa oled tobu!\n{07 15 00}Anna kohe tagasi...{01 01 00}\nSa oled häbiplekk,\n{01 00 00 05 00}{04 02 00}!{03 02 00 01}"
   },
   {
    "id": 2,

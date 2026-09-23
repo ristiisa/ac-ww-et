@@ -4,17 +4,17 @@
   {
    "id": 0,
    "en": "{07 14 00}Please give {ff 00 00 06}{04 0f 00} {ff 00 00 00}a\nhug for me, {01 00 00 05 00}{04 02 00}!{01 00 00 0a 00}\nAnd thanks again!",
-   "et": "{07 14 00}Palun kallista {ff 00 00 06}{04 0f 00}{ff 00 00 00}t\nminu eest, {01 00 00 05 00}{04 02 00}!{01 00 00 0a 00}\nJa aitäh veel kord!"
+   "et": "{07 14 00}Palun kallista minu eest\nteda, {ff 00 00 06}{04 0f 00}{ff 00 00 00}, {01 00 00 05 00}{04 02 00}!{01 00 00 0a 00}\nJa aitäh veel kord!"
   },
   {
    "id": 1,
    "en": "{07 14 00}{0b 03 00}{04 1f 00}, {01 00 00 05 00}make sure to\nthank {ff 00 00 06}{04 0f 00} {ff 00 00 00}for me!",
-   "et": "{07 14 00}{0b 03 00}{04 1f 00}, {01 00 00 05 00}ütle kindlasti\n{ff 00 00 06}{04 0f 00}le {ff 00 00 00}minu tänu!"
+   "et": "{07 14 00}{0b 03 00}{04 1f 00}, {01 00 00 05 00}ütle kindlasti talle,\n{ff 00 00 06}{04 0f 00}{ff 00 00 00}, minu tänu!"
   },
   {
    "id": 2,
    "en": "{07 14 00}Oh, pass my thanks along\nto {ff 00 00 06}{04 0f 00}{ff 00 00 00}, will you?",
-   "et": "{07 14 00}Oh, edasta mu tänu\n{ff 00 00 06}{04 0f 00}{ff 00 00 00}le, eks?"
+   "et": "{07 14 00}Oh, edasta mu tänu\ntalle, {ff 00 00 06}{04 0f 00}{ff 00 00 00}, eks?"
   }
  ]
 }

@@ -29,7 +29,7 @@
   {
    "id": 5,
    "en": "Hello, {01 00 00 05 00}{04 02 00}.{01 00 00 14 00} {07 0b 00}{01 00 00 05 00}Huh?{01 00 00 05 00}\nYou're {04 1f 00}?{01 01 00} {07 14 00}Cool.\nI'm {04 01 00}!\n{07 0e 00}{01 00 00 0a 00}They say that the number\nof people you meet in life{01 00 00 0a 00}\nis predetermined.\n{01 00 00 0a 00}{07 11 00}{01 00 00 05 00}I guess that means you and\nI were fated to meet.{01 01 00}{07 0b 00} Uh,\ndo you have any snacks?",
-   "et": "Tere, {01 00 00 05 00}{04 02 00}.{01 00 00 14 00} {07 0b 00}{01 00 00 05 00}Ah?{01 00 00 05 00}\nSina oled {04 1f 00}?{01 01 00} {07 14 00}Lahe.\nOlen {04 01 00}!\n{07 0e 00}{01 00 00 0a 00}Öeldakse, et inimeste arv,\nkeda elu jooksul kohtad,{01 00 00 0a 00}\non ette määratud.\n{01 00 00 0a 00}{07 11 00}{01 00 00 05 00}Vist tähendab see, et meil\noli saatus kohtuda.{01 01 00}{07 0b 00} Ee,\nkas sul on mõni näks?"
+   "et": "Tere, {01 00 00 05 00}{04 02 00}.{01 00 00 14 00} {07 0b 00}{01 00 00 05 00}Ah?{01 00 00 05 00}\nSina oled {04 1f 00}?{01 01 00} {07 14 00}Lahe.\nOlen {04 01 00}!\n{07 0e 00}{01 00 00 0a 00}Öeldakse, et inimeste arv,\nkeda elu jooksul kohtad,{01 00 00 0a 00}\non ette määratud.\n{01 00 00 0a 00}{07 11 00}{01 00 00 05 00}Vist tähendab see, et me\npidimegi kohtuma.{01 01 00}{07 0b 00} Ee,\nkas sul on mõni näks?"
   },
   {
    "id": 6,

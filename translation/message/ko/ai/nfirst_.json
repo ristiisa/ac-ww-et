@@ -19,7 +19,7 @@
   {
    "id": 3,
    "en": "{07 04 00}Yo!{01 00 00 0f 00} Hey,{01 00 00 0f 00} {07 00 00}this is the first\ntime we've talked, eh,\n{01 00 00 05 00}{04 02 00}?\n.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 0b 00}{0b 03 00}{04 1f 00}?{01 00 00 14 00} {07 00 00}That's one\nfancy name you got there!\n\n{07 14 00}{04 01 00}'s my name, and\nI like to {04 22 00}.{01 00 00 14 00}\n{07 19 00}It's nice to{01 00 00 05 00} meet you!",
-   "et": "{07 04 00}Jou!{01 00 00 0f 00} Hei,{01 00 00 0f 00} {07 00 00}see on esimene\nkord, kui räägime, mis,\n{01 00 00 05 00}{04 02 00}?\n.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 0b 00}{0b 03 00}{04 1f 00}?{01 00 00 14 00} {07 00 00}Sul on alles\nuhke nimi!\n\n{07 14 00}{04 01 00} on mu nimi ja\nmulle meeldib {04 22 00}.{01 00 00 14 00}\n{07 19 00}Meeldiv{01 00 00 05 00} tutvuda!"
+   "et": "{07 04 00}Jou!{01 00 00 0f 00} Hei,{01 00 00 0f 00} {07 00 00}see on esimene\nkord, kui räägime, mis,\n{01 00 00 05 00}{04 02 00}?\n.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 0b 00}{0b 03 00}{04 1f 00}?{01 00 00 14 00} {07 00 00}Küll sul on uhke\nnimi!\n\n{07 14 00}{04 01 00} on mu nimi ja\nmulle meeldib {04 22 00}.{01 00 00 14 00}\n{07 19 00}Meeldiv{01 00 00 05 00} tutvuda!"
   },
   {
    "id": 4,
@@ -59,7 +59,7 @@
   {
    "id": 11,
    "en": "{07 18 00}What?{01 00 00 0f 00} What do you want?!{01 00 00 05 00}\nWhat?{01 00 00 14 00} {07 15 00}What's your problem?!{01 01 00}\n{07 0b 00}Huh?\n{07 00 00}What do you want, {01 00 00 05 00}huh?{01 00 00 0f 00}\nHey, I don't know you.{01 00 00 14 00}\nAll right. OK{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\nMy name is {04 01 00}.{01 00 00 14 00}\n{07 19 00}I may not look like it, but\nI like to {04 22 00}!\n{07 14 00}{0b 03 00}{04 1f 00},{01 00 00 14 00} it's nice to\nmeet you, {01 00 00 05 00}{04 02 00}!{01 00 00 14 00}\nNow stop staring at me!",
-   "et": "{07 18 00}Mida?{01 00 00 0f 00} Mida sa tahad?!{01 00 00 05 00}\nMida?{01 00 00 14 00} {07 15 00}Mis sul viga on?!{01 01 00}\n{07 0b 00}Ah?\n{07 00 00}Mida sa tahad, {01 00 00 05 00}ah?{01 00 00 0f 00}\nHei, ma ei tunne sind.{01 00 00 14 00}\nHea küll. Olgu{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\nMu nimi on {04 01 00}.{01 00 00 14 00}\n{07 19 00}Ma ei näe välja, aga\nmulle meeldib {04 22 00}!\n{07 14 00}{0b 03 00}{04 1f 00},{01 00 00 14 00} meeldiv\nsinuga tutvuda, {01 00 00 05 00}{04 02 00}!{01 00 00 14 00}\nNüüd lõpeta jõllitamine!"
+   "et": "{07 18 00}Mida?{01 00 00 0f 00} Mida sa tahad?!{01 00 00 05 00}\nMida?{01 00 00 14 00} {07 15 00}Mis sul viga on?!{01 01 00}\n{07 0b 00}Ah?\n{07 00 00}Mida sa tahad, {01 00 00 05 00}ah?{01 00 00 0f 00}\nHei, ma ei tunne sind.{01 00 00 14 00}\nHea küll. Olgu{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\nMu nimi on {04 01 00}.{01 00 00 14 00}\n{07 19 00}Ma ei pruugi välja näha, aga\nmulle meeldib {04 22 00}!\n{07 14 00}{0b 03 00}{04 1f 00},{01 00 00 14 00} meeldiv\nsinuga tutvuda, {01 00 00 05 00}{04 02 00}!{01 00 00 14 00}\nNüüd lõpeta jõllitamine!"
   }
  ]
 }

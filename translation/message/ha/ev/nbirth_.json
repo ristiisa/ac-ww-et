@@ -19,7 +19,7 @@
   {
    "id": 3,
    "en": "{07 14 00}Major props to {ff 00 00 06}{04 0f 00}{ff 00 00 00}\nfor coming all this way!\n\n{07 00 00}Being surrounded by my\nbuds on my birthday{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n{07 0a 00}What more could a guy ask?",
-   "et": "{07 14 00}Suur kummardus {ff 00 00 06}{04 0f 00}{ff 00 00 00}ile,\net ta nii kaugelt tuli!\n\n{07 00 00}Olla sünnipäeval oma\nsemudest ümbritsetud{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n{07 0a 00}Mida veel soovida võib?"
+   "et": "{07 14 00}Suur kummardus talle, {ff 00 00 06}{04 0f 00}{ff 00 00 00},\net ta nii kaugelt tuli!\n\n{07 00 00}Olla sünnipäeval oma\nsemudest ümbritsetud{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n{07 0a 00}Mida veel soovida võib?"
   },
   {
    "id": 4,
@@ -64,7 +64,7 @@
   {
    "id": 12,
    "en": "{07 1d 00}{0b 03 00}{04 1a 00}!{01 00 00 0a 00}\nFor me?!\n\n{07 14 00}I gotta figure out a way to\nwork this thing into my\ntraining somehow!\nThanks a ton, {01 00 00 05 00}{04 1f 00}!{01 00 00 05 00}\nKiller gift, {04 02 00}!",
-   "et": "{07 1d 00}{0b 03 00}{04 1a 00}!{01 00 00 0a 00}\nMulle?!\n\n{07 14 00}Pean välja mõtlema, kuidas\nsee asi oma treeningusse\nsisse panna!\nSuur tänu, {01 00 00 05 00}{04 1f 00}!{01 00 00 05 00}\nTapev kink, {04 02 00}!"
+   "et": "{07 1d 00}{0b 03 00}{04 1a 00}!{01 00 00 0a 00}\nMulle?!\n\n{07 14 00}Pean välja mõtlema, kuidas\nsee asi oma treeningusse\nsisse panna!\nSuur tänu, {01 00 00 05 00}{04 1f 00}!{01 00 00 05 00}\nTappev kink, {04 02 00}!"
   },
   {
    "id": 13,
@@ -74,7 +74,7 @@
   {
    "id": 14,
    "en": "{07 02 00}Oh, man, this is awesome!{01 00 00 0a 00}\n{0b 03 00}{04 1a 00}!\nPerfect, {01 00 00 05 00}{04 02 00}!\n{07 00 00}Man, how did you know I was\n{07 0b 00}absolutely DREAMING of\n{04 1a 00}?\n{07 06 00}So cool, {ff 00 00 05}{01 00 00 05 00}{04 1f 00}{ff 00 00 00}!\n{01 00 00 05 00}Rock on, {04 02 00}!",
-   "et": "{07 02 00}Oh mees, see on vinge!{01 00 00 0a 00}\n{0b 03 00}{04 1a 00}!\nTäiuslik, {01 00 00 05 00}{04 02 00}!\n{07 00 00}Mees, kuidas sa teadsid, et\n{07 0b 00}ma täiesti UNISTASIN\n{04 1a 00}st?\n{07 06 00}Nii lahe, {ff 00 00 05}{01 00 00 05 00}{04 1f 00}{ff 00 00 00}!\n{01 00 00 05 00}Roki edasi, {04 02 00}!"
+   "et": "{07 02 00}Oh mees, see on vinge!{01 00 00 0a 00}\n{0b 03 00}{04 1a 00}!\nTäiuslik, {01 00 00 05 00}{04 02 00}!\n{07 00 00}Mees, kuidas sa teadsid, et\n{07 0b 00}ma täiesti UNISTASIN\nesemest nimega {04 1a 00}?\n{07 06 00}Nii lahe, {ff 00 00 05}{01 00 00 05 00}{04 1f 00}{ff 00 00 00}!\n{01 00 00 05 00}Roki edasi, {04 02 00}!"
   },
   {
    "id": 15,
@@ -84,7 +84,7 @@
   {
    "id": 16,
    "en": "{07 14 00}I've gotta thank you!{01 00 00 0a 00} With\n{04 1b 00}!",
-   "et": "{07 14 00}Ma pean sind tänama!{01 00 00 0a 00} Selle\n{04 1b 00}ga!"
+   "et": "{07 14 00}Ma pean sind tänama!{01 00 00 0a 00} Selle\neseme, {04 1b 00}, eest!"
   },
   {
    "id": 17,
@@ -119,7 +119,7 @@
   {
    "id": 26,
    "en": "{07 04 00}Oh, {01 00 00 05 00}you came to celebrate\n{07 0b 00}{ff 00 00 06}{04 10 00}{ff 00 00 00}'s birthday, too?\n\n{07 0d 00}Boy, that {ff 00 00 06}{04 10 00}{ff 00 00 00}!{01 00 00 05 00}\nDr. Cool, {01 00 00 05 00}{04 02 00}!",
-   "et": "{07 04 00}Oh, {01 00 00 05 00}sa tulid ka\n{07 0b 00}{ff 00 00 06}{04 10 00}{ff 00 00 00}i pidu pidama?\n\n{07 0d 00}Poiss, see {ff 00 00 06}{04 10 00}{ff 00 00 00}!{01 00 00 05 00}\nDoktor Lahe, {01 00 00 05 00}{04 02 00}!"
+   "et": "{07 04 00}Oh, {01 00 00 05 00}sa tulid ka tüübi nimega\n{07 0b 00}{ff 00 00 06}{04 10 00}{ff 00 00 00} pidu pidama?\n\n{07 0d 00}Poiss, see {ff 00 00 06}{04 10 00}{ff 00 00 00}!{01 00 00 05 00}\nDoktor Lahe, {01 00 00 05 00}{04 02 00}!"
   },
   {
    "id": 27,
@@ -154,7 +154,7 @@
   {
    "id": 33,
    "en": "{07 00 00}We gotta make sure\n{ff 00 00 06}{04 10 00} {ff 00 00 00}has a\nmemorable birthday...\n{07 0b 00}{0b 03 00}{04 1f 00}, you wanna do a\nroutine or something?\n\n{07 14 00}How about {01 00 00 05 00}we do stand-up\ncomedy while wrestling,\n{01 00 00 05 00}{04 02 00}?",
-   "et": "{07 00 00}Me peame kindlustama, et\n{ff 00 00 06}{04 10 00} {ff 00 00 00}saab meeldejääva\nsünnipäeva...\n{07 0b 00}{0b 03 00}{04 1f 00}, kas tahad\nteha mingi etteaste?\n\n{07 14 00}Kuidas oleks, {01 00 00 05 00}kui teeme\nkoomikat maadeldes,\n{01 00 00 05 00}{04 02 00}?"
+   "et": "{07 00 00}Me peame hoolitsema, et\n{ff 00 00 06}{04 10 00} {ff 00 00 00}saab meeldejääva\nsünnipäeva...\n{07 0b 00}{0b 03 00}{04 1f 00}, kas tahad\nteha mingi etteaste?\n\n{07 14 00}Kuidas oleks, {01 00 00 05 00}kui teeme\nkoomikat maadeldes,\n{01 00 00 05 00}{04 02 00}?"
   }
  ]
 }

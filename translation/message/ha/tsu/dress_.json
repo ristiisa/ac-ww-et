@@ -9,7 +9,7 @@
   {
    "id": 1,
    "en": "{07 04 00}What?!{01 01 00} You're telling me\nYOU'RE the one who designed\nthis thing?!\n{07 16 00}Man, that is UNCANNY.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\nAre you {ff 00 00 06}Gracie{ff 00 00 00}'s apprentice\nor what, {01 00 00 05 00}{04 02 00}?!",
-   "et": "{07 04 00}Mida?!{01 01 00} Sa tahad öelda, et\nSINA kujundasid selle\nasja?!\n{07 16 00}Mees, see on KUMMALINE.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\nKas sa oled {ff 00 00 06}Gracie{ff 00 00 00} õpilane\nvõi mis, {01 00 00 05 00}{04 02 00}?!"
+   "et": "{07 04 00}Mida?!{01 01 00} Sa tahad öelda, et\nSINA kujundasid selle\nasja?!\n{07 16 00}Mees, see on USKUMATU.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\nKas sa oled {ff 00 00 06}Gracie{ff 00 00 00} õpilane\nvõi mis, {01 00 00 05 00}{04 02 00}?!"
   },
   {
    "id": 2,
@@ -19,12 +19,12 @@
   {
    "id": 3,
    "en": "{07 14 00}Yo yo, {ff 00 00 05}{04 1f 00}{ff 00 00 00}!{01 00 00 0a 00}\nTake a look at this shirt!\n\n{07 00 00}That kid {ff 00 00 05}{04 0f 00} {ff 00 00 00}from{ff 00 00 05}\n{ff 00 00 08}{04 10 00} {ff 00 00 00}designed this...\n\n{07 0a 00}When I wear this, it's like\na little man in my head\ncommands me to do sit-ups!\n{07 03 00}Hey, why haven't you\ndesigned anything this good,\n{01 00 00 05 00}{04 02 00}?!",
-   "et": "{07 14 00}Jou jou, {ff 00 00 05}{04 1f 00}{ff 00 00 00}!{01 00 00 0a 00}\nVaata seda särki!\n\n{07 00 00}See laps {ff 00 00 05}{04 0f 00} {ff 00 00 00}linnast{ff 00 00 05}\n{ff 00 00 08}{04 10 00} {ff 00 00 00}kujundas selle...\n\n{07 0a 00}Kui ma seda kannan, siis\njustkui väike mees mu peas\nkäsib mul kõhulihaseid teha!\n{07 03 00}Hei, miks sina pole midagi\nnii head kujundanud,\n{01 00 00 05 00}{04 02 00}?!"
+   "et": "{07 14 00}Jou jou, {ff 00 00 05}{04 1f 00}{ff 00 00 00}!{01 00 00 0a 00}\nVaata seda särki!\n\n{07 00 00}See laps {ff 00 00 05}{04 0f 00} {ff 00 00 00}linnast{ff 00 00 05}\n{ff 00 00 08}{04 10 00} {ff 00 00 00}kujundas selle...\n\n{07 0a 00}Kui ma seda kannan, siis\njustkui väike mees mu peas\nkäsib mul kõhutõsteid teha!\n{07 03 00}Hei, miks sina pole midagi\nnii head kujundanud,\n{01 00 00 05 00}{04 02 00}?!"
   },
   {
    "id": 4,
    "en": "{07 0a 00}You're darn skippy it does!{01 01 00}\n{07 06 00}Feel free to check me out\nall you want, {01 00 00 05 00}{ff 00 00 05}{04 1f 00}{ff 00 00 00}!",
-   "et": "{07 0a 00}Muidugi teeb!{01 01 00}\n{07 06 00}Vaata mind niipalju kui\ntahad, {01 00 00 05 00}{ff 00 00 05}{04 1f 00}{ff 00 00 00}!"
+   "et": "{07 0a 00}Muidugi näeb!{01 01 00}\n{07 06 00}Vaata mind niipalju kui\ntahad, {01 00 00 05 00}{ff 00 00 05}{04 1f 00}{ff 00 00 00}!"
   },
   {
    "id": 5,

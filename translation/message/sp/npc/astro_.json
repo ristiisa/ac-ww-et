@@ -164,7 +164,7 @@
   {
    "id": 44,
    "en": "{07 14 00}Welcome to \n{04 03 00}'s {ff 00 00 08}observatory{ff 00 00 00}.",
-   "et": "{07 14 00}Tere tulemast linna \n{04 03 00} {ff 00 00 08}observatooriumi{ff 00 00 00}."
+   "et": "{07 14 00}Tere tulemast linna nimega \n{04 03 00} {ff 00 00 08}observatooriumi{ff 00 00 00}."
   },
   {
    "id": 45,
@@ -189,7 +189,7 @@
   {
    "id": 50,
    "en": "{07 04 00}Hootie-toot!\n{0b 03 00}{04 0f 00}, was it?{01 01 00}\n{07 14 00}My, that IS a lovely name.\nI'm surprised I never saw\nit before. It seems so\nobvious now.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}\n{07 26 00}Why, those stars practically\nscream \"{04 0f 00}\"\nat the top of their lungs!\n{07 04 00}Oh! Sorry! {01 00 00 0f 00}{07 16 00}I may have been\na tad.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}overenthusiastic!\nHootie-toot!",
-   "et": "{07 04 00}Huhh-huu!\n{0b 03 00}{04 0f 00}, eks?{01 01 00}\n{07 14 00}Oi, see ON kena nimi.\nImestan, et ma ei näinud\nseda varem. Nüüd tundub\nnii ilmselge.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}\n{07 26 00}Need tähed lausa\nkarjuvad „{04 0f 00}”\ntäiest kõrist!\n{07 04 00}Oh! Vabandust! {01 00 00 0f 00}{07 16 00}Olin vist\nveidi.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}liiga vaimustuses!\nHuhh-huu!"
+   "et": "{07 04 00}Huhh-huu!\n{0b 03 00}{04 0f 00}, eks?{01 01 00}\n{07 14 00}Oi, see ON kena nimi.\nImestan, et ma ei näinud\nseda varem. Nüüd tundub\nnii ilmselge.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}\n{07 26 00}Need tähed lausa\nkarjuvad „{04 0f 00}”\nkogu kõrist!\n{07 04 00}Oh! Vabandust! {01 00 00 0f 00}{07 16 00}Olin vist\nveidi.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}liiga vaimustuses!\nHuhh-huu!"
   },
   {
    "id": 51,
@@ -204,7 +204,7 @@
   {
    "id": 56,
    "en": "{07 00 00}Shall we just rename this\nconstellation, then? I'll log\nit in my charts if you like.{02 04 00 3b 24}\nYes, rename it!\nKeep the name.",
-   "et": "{07 00 00}Kas paneme siis sellele\ntähtkujule uue nime? Märgin\nselle kaartidele, kui soovid.{02 04 00 3b 24}\nJah, nimeta ümber!\nJätke nimi alles."
+   "et": "{07 00 00}Kas paneme siis sellele\ntähtkujule uue nime? Märgin\nselle kaartidele, kui soovid.{02 04 00 3b 24}\nJah, nimeta ümber!\nJäta nimi alles."
   },
   {
    "id": 57,

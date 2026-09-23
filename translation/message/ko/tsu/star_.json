@@ -14,7 +14,7 @@
   {
    "id": 2,
    "en": "You know that kid you live\nwith? {01 00 00 05 00}Yeah, I'm talking\nabout {ff 00 00 05}{04 10 00}{ff 00 00 00}!\n{07 14 00}What a character! {01 00 00 0a 00}Hey, {01 00 00 05 00}see\n{ff 00 00 02}{04 0f 00} {ff 00 00 00}up\nthere? {01 00 00 0a 00}{0b 03 00}{ff 00 00 05}{04 10 00}{ff 00 00 00} made it!\n{07 01 00}Man!{01 00 00 0f 00} {07 19 00}I'm impressed! {01 00 00 0a 00}Now\nthat's talent! You could\nlearn a thing or two!",
-   "et": "Tead seda last, kellega sa\nelad? {01 00 00 05 00}Jah, ma räägin\n{ff 00 00 05}{04 10 00}{ff 00 00 00}ist!\n{07 14 00}Milline tegelane! {01 00 00 0a 00}Hei, {01 00 00 05 00}näed\n{ff 00 00 02}{04 0f 00} {ff 00 00 00}seal\nüleval? {01 00 00 0a 00}{0b 03 00}{ff 00 00 05}{04 10 00}{ff 00 00 00} tegi selle!\n{07 01 00}Poiss!{01 00 00 0f 00} {07 19 00}Muljetavaldav! {01 00 00 0a 00}See\non talent! Sa võiksid\nmidagi õppida!"
+   "et": "Tead seda last, kellega sa\nelad? {01 00 00 05 00}Jah, ma räägin\ntüübist nimega {ff 00 00 05}{04 10 00}{ff 00 00 00}!\n{07 14 00}Milline tegelane! {01 00 00 0a 00}Hei, {01 00 00 05 00}näed\n{ff 00 00 02}{04 0f 00} {ff 00 00 00}seal\nüleval? {01 00 00 0a 00}{0b 03 00}{ff 00 00 05}{04 10 00}{ff 00 00 00} tegi selle!\n{07 01 00}Poiss!{01 00 00 0f 00} {07 19 00}Muljetavaldav! {01 00 00 0a 00}See\non talent! Sa võiksid\nmidagi õppida!"
   },
   {
    "id": 3,
@@ -24,7 +24,7 @@
   {
    "id": 4,
    "en": "{07 15 00}{0b 03 00}{04 1f 00}! You lookin' for\nlost Bells or something?!\nLook up when you walk!\n{07 00 00}See {ff 00 00 02}{04 0f 00} {ff 00 00 00}up\nthere? {01 01 00}{0b 03 00}{ff 00 00 05}{04 10 00} {ff 00 00 00}from\n{ff 00 00 08}{04 11 00} {ff 00 00 00}made it!\nI don't know why it's named\n\"{04 0f 00},\" but {07 14 00}it\nkinda seems to fit.",
-   "et": "{07 15 00}{0b 03 00}{04 1f 00}! Kas otsid\nkaotatud kellasid või?!\nVaata kõndides üles!\n{07 00 00}Näed {ff 00 00 02}{04 0f 00} {ff 00 00 00}seal\nüleval? {01 01 00}{0b 03 00}{ff 00 00 05}{04 10 00} {ff 00 00 00}linnast\n{ff 00 00 08}{04 11 00} {ff 00 00 00}tegi selle!\nMa ei tea, miks seda kutsub\n„{04 0f 00}”, aga {07 14 00}see\nkuidagi sobib."
+   "et": "{07 15 00}{0b 03 00}{04 1f 00}! Kas otsid\nkaotatud kellasid või?!\nVaata kõndides üles!\n{07 00 00}Näed {ff 00 00 02}{04 0f 00} {ff 00 00 00}seal\nüleval? {01 01 00}{0b 03 00}{ff 00 00 05}{04 10 00} {ff 00 00 00}linnast\n{ff 00 00 08}{04 11 00} {ff 00 00 00}tegi selle!\nMa ei tea, miks seda kutsutakse\n„{04 0f 00}”, aga {07 14 00}see\nkuidagi sobib."
   },
   {
    "id": 5,
@@ -44,7 +44,7 @@
   {
    "id": 8,
    "en": "{07 14 00}Well, I kinda like it,\n{01 00 00 05 00}{04 02 00}.\n\nYou see, it's so misshapen\nand awkward, {07 19 00}and that\nmakes it interesting!",
-   "et": "{07 14 00}Noh, mulle see meeldib,\n{01 00 00 05 00}{04 02 00}.\n\nNäed, see on nii moonutatud\nja kohmakas, {07 19 00}ja see\nteeb selle huvitavaks!"
+   "et": "{07 14 00}Noh, mulle see meeldib,\n{01 00 00 05 00}{04 02 00}.\n\nNäed, see on nii viltu\nja kohmakas, {07 19 00}ja see\nteeb selle huvitavaks!"
   }
  ]
 }

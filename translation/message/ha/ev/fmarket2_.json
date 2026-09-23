@@ -9,12 +9,12 @@
   {
    "id": 1,
    "en": "{07 14 00}Welcome to {ff 00 00 06}{04 01 00}{ff 00 00 00}'s\nHouse of Burly Goods,\n{01 00 00 05 00}{04 02 00}!",
-   "et": "{07 14 00}Tere tulemast {ff 00 00 06}{04 01 00}{ff 00 00 00}i\nTurskete Kaupade Majja,\n{01 00 00 05 00}{04 02 00}!"
+   "et": "{07 14 00}Tere tulemast {ff 00 00 06}{04 01 00}{ff 00 00 00}\nTurskete Kaupade Majja,\n{01 00 00 05 00}{04 02 00}!"
   },
   {
    "id": 2,
    "en": "{07 14 00}Good thing you're ready\nto drop some serious cash,\n{01 00 00 05 00}{04 02 00}!\n'Cause the House of\n{04 01 00} is open for\nbusiness!",
-   "et": "{07 14 00}Hea, et sa oled valmis\ntõsist raha välja käima,\n{01 00 00 05 00}{04 02 00}!\nSest {04 01 00}i maja\non äriks\navatud!"
+   "et": "{07 14 00}Hea, et sa oled valmis\ntõsist raha välja käima,\n{01 00 00 05 00}{04 02 00}!\nSest maja nimega {04 01 00}\non äriks\navatud!"
   },
   {
    "id": 3,
@@ -44,7 +44,7 @@
   {
    "id": 8,
    "en": "{07 14 00}Check out all this gnarly\nstuff, {01 00 00 05 00}{04 02 00}!{01 00 00 0a 00}\n\n{07 11 00}It's gotta be the most\nmanly {ff 00 00 03}Flea Market{ff 00 00 00} selection\nEVER, am I{ff 00 00 03} {ff 00 00 00}right?!",
-   "et": "{07 14 00}Vaata kogu seda krussis\nkraami, {01 00 00 05 00}{04 02 00}!{01 00 00 0a 00}\n\n{07 11 00}See peab olema kõige\nmehisem {ff 00 00 03}kirbuturu{ff 00 00 00} valik\nÜLDSE, kas{ff 00 00 03} {ff 00 00 00}pole?!"
+   "et": "{07 14 00}Vaata kogu seda võrratut\nkraami, {01 00 00 05 00}{04 02 00}!{01 00 00 0a 00}\n\n{07 11 00}See peab olema kõige\nmehisem {ff 00 00 03}kirbuturu{ff 00 00 00} valik\nÜLDSE, kas{ff 00 00 03} {ff 00 00 00}pole?!"
   }
  ]
 }

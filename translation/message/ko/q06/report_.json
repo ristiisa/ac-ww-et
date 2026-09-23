@@ -14,7 +14,7 @@
   {
    "id": 2,
    "en": "{07 14 00}Thanks for helpin' out,\n{01 00 00 05 00}{04 02 00}!\n\n{07 00 00}So, {01 00 00 05 00}what happened when{01 00 00 05 00}\nyou gave it to {ff 00 00 06}{04 10 00}{ff 00 00 00},\n{01 00 00 05 00}{04 02 00}?",
-   "et": "{07 14 00}Aitäh abi eest,\n{01 00 00 05 00}{04 02 00}!\n\n{07 00 00}Nii, {01 00 00 05 00}mis juhtus, kui{01 00 00 05 00}\nsa selle {ff 00 00 06}{04 10 00}{ff 00 00 00}le andsid,\n{01 00 00 05 00}{04 02 00}?"
+   "et": "{07 14 00}Aitäh abi eest,\n{01 00 00 05 00}{04 02 00}!\n\n{07 00 00}Nii, {01 00 00 05 00}mis juhtus, kui{01 00 00 05 00}\nsa selle andsid tüübile nimega\n{ff 00 00 06}{04 10 00}{ff 00 00 00}, {01 00 00 05 00}{04 02 00}?"
   }
  ]
 }

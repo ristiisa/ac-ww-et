@@ -4,7 +4,7 @@
   {
    "id": 0,
    "en": "{07 02 00}Hey!{01 00 00 0f 00} {0b 03 00}{04 1f 00}! It's you!\n{07 01 00}I haven't seen you in a\nmillion months.\n{07 00 00}Or, you know, {04 12 00}!{01 00 00 05 00} What can\nI do for you? {07 00 00}I thought\nyou'd moved or something!\n{07 01 00}Nice to know you were just\nignoring me, you big jerk!\n{01 00 00 05 00}{0b 03 00}{04 02 00}!",
-   "et": "{07 02 00}Hei!{01 00 00 0f 00} {0b 03 00}{04 1f 00}! Sina!\n{07 01 00}Ma pole sind näinud\nmiljon kuud.\n{07 00 00}Või, noh, {04 12 00}!{01 00 00 05 00} Mis sul\nvaja? {07 00 00}Ma arvasin, et sa\nkolisid või midagi!\n{07 01 00}Tore teada, et sa lihtsalt\neirasid mind, sa suur tola!\n{01 00 00 05 00}{0b 03 00}{04 02 00}!"
+   "et": "{07 02 00}Hei!{01 00 00 0f 00} {0b 03 00}{04 1f 00}! Sina!\n{07 01 00}Ma pole sind näinud\nmiljonit kuud.\n{07 00 00}Või, noh, {04 12 00}!{01 00 00 05 00} Mis sul\nvaja? {07 00 00}Ma arvasin, et sa\nkolisid või midagi!\n{07 01 00}Tore teada, et sa lihtsalt\neirasid mind, sa suur tola!\n{01 00 00 05 00}{0b 03 00}{04 02 00}!"
   },
   {
    "id": 1,
@@ -24,7 +24,7 @@
   {
    "id": 4,
    "en": "{07 04 00}Oh, {01 00 00 05 00}{04 1f 00}!{01 00 00 14 00} {07 00 00}Looks like\nyou got away safe. I was\nworried, {01 00 00 05 00}{04 02 00}!\nYour{01 00 00 05 00} {04 12 00}-month-long break\n{07 11 00}made me think you'd fallen\nin the toilet or somethin'!",
-   "et": "{07 04 00}Oi, {01 00 00 05 00}{04 1f 00}!{01 00 00 14 00} {07 00 00}Paistab, et\nsa pääsesid terve nahaga.\nMa muretsesin, {01 00 00 05 00}{04 02 00}!\nSu{01 00 00 05 00} {04 12 00} kuu paus\n{07 11 00}pani mind arvama, et sa\nkukkusid potti või midagi!"
+   "et": "{07 04 00}Oi, {01 00 00 05 00}{04 1f 00}!{01 00 00 14 00} {07 00 00}Paistab, et\nsa pääsesid terve nahaga.\nMa muretsesin, {01 00 00 05 00}{04 02 00}!\nSu{01 00 00 05 00} {04 12 00} kuu pikkune paus\n{07 11 00}pani mind arvama, et sa\nkukkusid potti või midagi!"
   },
   {
    "id": 5,

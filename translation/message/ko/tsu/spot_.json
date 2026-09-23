@@ -49,7 +49,7 @@
   {
    "id": 9,
    "en": "{07 14 00}Whatcha think{01 00 00 05 00} of my pad?!{01 00 00 0f 00}\nReeks of danger and\nintrigue, doesn't it?\nAh, yes. {07 00 00}That hint of\nbitterness {07 19 00}is just how a\nman's hideout should be!",
-   "et": "{07 14 00}Mida arvad{01 00 00 05 00} mu kodust?!{01 00 00 0f 00}\nLehkab ohu ja intriigi\njärele, kas pole?\nAh, jah. {07 00 00}See kibeduse\nvihje {07 19 00}on just see, milline\nmehe urgas peab olema!"
+   "et": "{07 14 00}Mida arvad{01 00 00 05 00} mu kodust?!{01 00 00 0f 00}\nLõhnab ohu ja intriigi\njärele, kas pole?\nAh, jah. {07 00 00}See kibeduse\nvihje {07 19 00}on just see, milline\nmehe urgas peab olema!"
   },
   {
    "id": 10,
@@ -109,17 +109,17 @@
   {
    "id": 21,
    "en": "{07 16 00}It had dirty grease caked\nonto it,{01 00 00 0f 00} so that's why it\ngot pitched, {01 00 00 0f 00}{04 1f 00}.\n{07 15 00}But that's no excuse! {01 00 00 14 00}My\nmotto is, \"Waste not, want\nnot.\" Truth, {01 00 00 05 00}{04 02 00}!",
-   "et": "{07 16 00}Sellel oli must rasv peal\nkõrbenud,{01 00 00 0f 00} nii et sellepärast\nsee ära visati, {01 00 00 0f 00}{04 1f 00}.\n{07 15 00}Aga see pole vabandus! {01 00 00 14 00}Mu\nmoto on: „Ära raiska, siis\nei raiska.” {01 00 00 05 00}{04 02 00}!"
+   "et": "{07 16 00}Sellel oli must rasv peal\nkõrbenud,{01 00 00 0f 00} nii et sellepärast\nsee ära visati, {01 00 00 0f 00}{04 1f 00}.\n{07 15 00}Aga see pole vabandus! {01 00 00 14 00}Mu\nmoto on: „Ära raiska, siis\nei vaeva.” {01 00 00 05 00}{04 02 00}!"
   },
   {
    "id": 22,
    "en": "{07 0e 00}Thinking about who did it\nand why{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0f 00} Well, I can't help\nbut get{01 00 00 0f 00} {07 07 00}a little scared!",
-   "et": "{07 0e 00}Mõeldes sellele, kes seda\ntegi ja miks{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0f 00} Noh, ma ei\nsaa{01 00 00 0f 00} {07 07 00}natuke kartmata olla!"
+   "et": "{07 0e 00}Mõeldes sellele, kes seda\ntegi ja miks{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0f 00} Noh, ma ei\nsaa{01 00 00 0f 00} {07 07 00}mitte natukegi karta!"
   },
   {
    "id": 23,
    "en": "{07 07 00}It felt like a sign or\nsomething and it freaked\nme out, {01 00 00 05 00}{04 02 00}!",
-   "et": "{07 07 00}See tundus nagu märk või\nmidagi ja ajas mind\nsegaseks, {01 00 00 05 00}{04 02 00}!"
+   "et": "{07 07 00}See tundus nagu märk või\nmidagi ja tegi mulle\nkorraliku hirmu, {01 00 00 05 00}{04 02 00}!"
   },
   {
    "id": 24,
@@ -169,7 +169,7 @@
   {
    "id": 33,
    "en": "{07 00 00}I kinda feel bad thinking of\nhow I acted then. Whenever\n{ff 00 00 06}Nook {ff 00 00 00}started a new diet...\n{07 03 00}...I'd go out of my way\nto talk about sweets\naround him, {01 00 00 05 00}{04 02 00}!",
-   "et": "{07 00 00}Mul on piinlik mõelda,\nkuidas ma siis käitusin. Kui\n{ff 00 00 06}Nook {ff 00 00 00}alustas uut dieeti...\n{07 03 00}...läksin ma vaeva, et\nrääkida tema juures\nmaiustustest, {01 00 00 05 00}{04 02 00}!"
+   "et": "{07 00 00}Mul on piinlik mõelda,\nkuidas ma siis käitusin. Kui\n{ff 00 00 06}Nook {ff 00 00 00}alustas uut dieeti...\n{07 03 00}...nägin ma vaeva, et\nrääkida tema juures\nmaiustustest, {01 00 00 05 00}{04 02 00}!"
   },
   {
    "id": 34,
@@ -194,7 +194,7 @@
   {
    "id": 38,
    "en": "{07 00 00}But {01 00 00 05 00}abrasive people can be\nreally nice and thoughtful\nonce you get to know them.\n{07 19 00}It's one of life's little\nsurprises, {01 00 00 05 00}{04 02 00}.{01 00 00 0a 00} I\noughta know, after all.\n{07 15 00}Do you understand what I'm\nsaying at all, {01 00 00 05 00}{04 1f 00}?\nGimme a sign you get it!",
-   "et": "{07 00 00}Aga {01 00 00 05 00}karedad inimesed võivad\nolla väga kenad ja\ntähelepanelikud, kui tunned.\n{07 19 00}See on üks elu väikesi\nüllatusi, {01 00 00 05 00}{04 02 00}.{01 00 00 0a 00} Ma\npeaksin ju teadma.\n{07 15 00}Kas sa üldse mõistad, mida\nma räägin, {01 00 00 05 00}{04 1f 00}?\nAnna märku, et said aru!"
+   "et": "{07 00 00}Aga {01 00 00 05 00}karedad inimesed võivad\nolla kenad ja tähelepanelikud,\nkui sa neid tunned.\n{07 19 00}See on üks elu väikesi\nüllatusi, {01 00 00 05 00}{04 02 00}.{01 00 00 0a 00} Ma\npeaksin ju teadma.\n{07 15 00}Kas sa üldse mõistad, mida\nma räägin, {01 00 00 05 00}{04 1f 00}?\nAnna märku, et said aru!"
   },
   {
    "id": 39,

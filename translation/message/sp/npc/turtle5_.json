@@ -9,7 +9,7 @@
   {
    "id": 1,
    "en": "{07 03 00}{01 00 00 0a 00}Snow,{01 00 00 05 00} do your best!{01 00 00 0f 00} {ff 00 00 06}Mayor{ff 00 00 00},\n{01 00 00 05 00}beat your chest! {01 00 00 0f 00}I do love\na good, catchy tune.{ff 00 00 06}\n{ff 00 00 00}{07 14 00}{01 00 00 0a 00}In case you haven't noticed,\n{04 03 00}{01 00 00 05 00} is celebrating\nthe {ff 00 00 03}Bright Nights{ff 00 00 00} now!",
-   "et": "{07 03 00}{01 00 00 0a 00}Lumi,{01 00 00 05 00} anna auru!{01 00 00 0f 00} {ff 00 00 06}Linnapea{ff 00 00 00},\n{01 00 00 05 00}tao rinda! {01 00 00 0f 00}Mulle meeldib\nhea kõlav viis.{ff 00 00 06}\n{ff 00 00 00}{07 14 00}{01 00 00 0a 00}Kui sa pole märganud,\n{04 03 00}{01 00 00 05 00} tähistab\npraegu {ff 00 00 03}valgusöid{ff 00 00 00}!"
+   "et": "{07 03 00}{01 00 00 0a 00}Lumi,{01 00 00 05 00} anna auru!{01 00 00 0f 00} {ff 00 00 06}Linnapea{ff 00 00 00},\n{01 00 00 05 00}tao rinda! {01 00 00 0f 00}Mulle meeldib\nhea kaasahaarav viis.{ff 00 00 06}\n{ff 00 00 00}{07 14 00}{01 00 00 0a 00}Kui sa pole märganud,\n{04 03 00}{01 00 00 05 00} tähistab\npraegu {ff 00 00 03}valgusöid{ff 00 00 00}!"
   },
   {
    "id": 2,
@@ -34,12 +34,12 @@
   {
    "id": 6,
    "en": "{07 09 00}{01 00 00 0a 00}Where's your winter spirit,{01 00 00 05 00}\n{04 00 00}? {01 01 00}Perhaps it's\nfrozen{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.like your heart.",
-   "et": "{07 09 00}{01 00 00 0a 00}Kus on su talvine vaim,{01 00 00 05 00}\n{04 00 00}? {01 01 00}Ehk on see\nkülmunud{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.nagu su süda."
+   "et": "{07 09 00}{01 00 00 0a 00}Kus on su talvetuju,{01 00 00 05 00}\n{04 00 00}? {01 01 00}Ehk on see\nkülmunud{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.nagu su süda."
   },
   {
    "id": 7,
    "en": "{07 14 00}{01 00 00 0a 00}That's the spirit, sprout!{01 00 00 0a 00}\nNow,{01 00 00 0a 00} if you feel that way{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.\n\n{07 0b 00}{01 00 00 0a 00}Then perhaps you could tell\nme which house looks BEST?",
-   "et": "{07 14 00}{01 00 00 0a 00}See on õige vaim, võsuke!{01 00 00 0a 00}\nNoh,{01 00 00 0a 00} kui sa nii tunned{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.\n\n{07 0b 00}{01 00 00 0a 00}siis ehk ütleksid, milline\nmaja näeb PARIM välja?"
+   "et": "{07 14 00}{01 00 00 0a 00}Noh, nii on tubli, võsuke!{01 00 00 0a 00}\nNoh,{01 00 00 0a 00} kui sa nii tunned{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.\n\n{07 0b 00}{01 00 00 0a 00}siis ehk ütleksid, milline\nmaja näeb PARIM välja?"
   },
   {
    "id": 8,
@@ -54,7 +54,7 @@
   {
    "id": 10,
    "en": "{ff 00 00 06}{07 00 00}{04 0f 00}{ff 00 00 00}, huh{01 00 00 0a 00}?{07 11 00}{01 00 00 0f 00} You have\na very good eye there,\nguppy!\n{07 00 00}All right then,{01 00 00 0f 00} I'll let\n{ff 00 00 06}{04 0f 00} {ff 00 00 00}know how you\nfeel.\n{07 14 00}{01 00 00 0a 00}\"Nice lights,\" I'll say{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}. {07 03 00}{01 00 00 0a 00}Just\na little compliment from\na gracious mayor{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}. Heh heh!",
-   "et": "{ff 00 00 06}{07 00 00}{04 0f 00}{ff 00 00 00}, jah{01 00 00 0a 00}?{07 11 00}{01 00 00 0f 00} Sul on\nväga hea silm,\nkalapoeg!\n{07 00 00}Hästi siis,{01 00 00 0f 00} annan\n{ff 00 00 06}{04 0f 00} {ff 00 00 00}-le teada, kuidas\nsa tunned.\n{07 14 00}{01 00 00 0a 00}„Kenad tuled,” ütlen{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}. {07 03 00}{01 00 00 0a 00}Väike\nkompliment\nlahkelt linnapealt{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}. Heh!"
+   "et": "{ff 00 00 06}{07 00 00}{04 0f 00}{ff 00 00 00}, jah{01 00 00 0a 00}?{07 11 00}{01 00 00 0f 00} Sul on\nväga hea silm,\nkalapoeg!\n{07 00 00}Hästi siis,{01 00 00 0f 00} annan\n{ff 00 00 06}{04 0f 00} {ff 00 00 00}teada, mida\nsa arvad.\n{07 14 00}{01 00 00 0a 00}„Kenad tuled,” ütlen{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}. {07 03 00}{01 00 00 0a 00}Väike\nkompliment\nlahkelt linnapealt{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}. Heh!"
   },
   {
    "id": 11,
@@ -79,12 +79,12 @@
   {
    "id": 15,
    "en": "{07 03 00}{01 00 00 0a 00}It's the grand finale!{01 00 00 0f 00} Finito,\nI say! Today's the last\n{ff 00 00 03}Bright Night{ff 00 00 00} of the year!\n{07 00 00}Perhaps I use grand,\ndazzling words{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n\nBut how better to honor\nour grand winner with the\ndazzling lights?\n{07 14 00}{01 00 00 0a 00}And{01 00 00 0a 00} this year, the {ff 00 00 02}Bright\nStar{ff 00 00 00} award goes to{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.",
-   "et": "{07 03 00}{01 00 00 0a 00}On suur finaal!{01 00 00 0f 00} Finito,\nütlen ma! Täna on aasta\nviimane {ff 00 00 03}valgusöö{ff 00 00 00}!\n{07 00 00}Ehk kasutan uhkeid,\npimestavaid sõnu{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n\nAga kuidas muidu austada\nmeie suurt võitjat\npimestavate tuledega?\n{07 14 00}{01 00 00 0a 00}Ja{01 00 00 0a 00} sel aastal läheb {ff 00 00 02}Hele\nTäht{ff 00 00 00} auhind{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}."
+   "et": "{07 03 00}{01 00 00 0a 00}On suur finaal!{01 00 00 0f 00} Finito,\nütlen ma! Täna on aasta\nviimane {ff 00 00 03}valgusöö{ff 00 00 00}!\n{07 00 00}Ehk kasutan uhkeid,\npimestavaid sõnu{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n\nAga kuidas muidu austada\nmeie suurt võitjat\npimestavate tuledega?\n{07 14 00}{01 00 00 0a 00}Ja{01 00 00 0a 00} sel aastal läheb {ff 00 00 02}säratähe\nauhind{ff 00 00 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}."
   },
   {
    "id": 16,
    "en": "{07 15 00}Wait for it, wait for it.{01 00 00 05 00}.{01 00 00 05 00}.{01 01 00}\n{07 1a 00}{01 00 00 0a 00}The {ff 00 00 02}Bright Star{ff 00 00 00} is\n{ff 00 00 06}{04 10 00}{ff 00 00 00}!\n{01 00 00 0a 00}Congratulations,\n{ff 00 00 06}{04 10 00}{ff 00 00 00}!{01 01 00} {07 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00}So, uh, {01 00 00 0a 00}could\nyou go let the winner know?\nIt's also on the {ff 00 00 08}bulletin\nboard{ff 00 00 00}, so {ff 00 00 06}{04 10 00}{ff 00 00 00} may\nvery well already know.",
-   "et": "{07 15 00}Oota, oota{01 00 00 05 00}.{01 00 00 05 00}.{01 01 00}\n{07 1a 00}{01 00 00 0a 00}{ff 00 00 02}Hele Täht{ff 00 00 00} on\n{ff 00 00 06}{04 10 00}{ff 00 00 00}!\n{01 00 00 0a 00}Palju õnne,\n{ff 00 00 06}{04 10 00}{ff 00 00 00}!{01 01 00} {07 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00}Nii et, ee, {01 00 00 0a 00}kas\nsa läheksid võitjale ütlema?\nSee on ka {ff 00 00 08}teadetetahvlil{ff 00 00 00},\nnii et {ff 00 00 06}{04 10 00}{ff 00 00 00} võib\nsuurepäraselt juba teada."
+   "et": "{07 15 00}Oota, oota{01 00 00 05 00}.{01 00 00 05 00}.{01 01 00}\n{07 1a 00}{01 00 00 0a 00}{ff 00 00 02}Säratäht{ff 00 00 00} on\n{ff 00 00 06}{04 10 00}{ff 00 00 00}!\n{01 00 00 0a 00}Palju õnne,\n{ff 00 00 06}{04 10 00}{ff 00 00 00}!{01 01 00} {07 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00}Nii et, ee, {01 00 00 0a 00}kas\nsa läheksid võitjale ütlema?\nSee on ka {ff 00 00 08}teadetetahvlil{ff 00 00 00},\nnii et {ff 00 00 06}{04 10 00}{ff 00 00 00} võib\nvägagi juba teada."
   },
   {
    "id": 17,

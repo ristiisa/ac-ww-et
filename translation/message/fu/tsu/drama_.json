@@ -44,7 +44,7 @@
   {
    "id": 8,
    "en": "I heard the most surprising\nstory from {ff 00 00 06}Mabel {ff 00 00 00}and {ff 00 00 06}Sable{ff 00 00 00}\ntoday, {01 00 00 05 00}{04 02 00}.\nI really want to tell you,\n{07 16 00}but I promised to keep it\nsecret! Sorry, {01 00 00 05 00}{04 02 00}!",
-   "et": "Ma kuulsin täna {ff 00 00 06}Mabelilt {ff 00 00 00}ja\n{ff 00 00 06}Sable{ff 00 00 00}ilt kõige üllatavamat\nlugu, {01 00 00 05 00}{04 02 00}.\nMa tahan sulle väga öelda,\n{07 16 00}aga ma lubasin saladust\nhoida! Vabandust, {01 00 00 05 00}{04 02 00}!"
+   "et": "Ma kuulsin täna {ff 00 00 06}Mabelilt {ff 00 00 00}ja\n{ff 00 00 06}Sable{ff 00 00 00}'ilt kõige üllatavamat\nlugu, {01 00 00 05 00}{04 02 00}.\nMa tahan sulle väga öelda,\n{07 16 00}aga ma lubasin saladust\nhoida! Vabandust, {01 00 00 05 00}{04 02 00}!"
   },
   {
    "id": 9,
@@ -109,12 +109,12 @@
   {
    "id": 21,
    "en": "{07 00 00}{ff 00 00 06}Sable {ff 00 00 00}and {ff 00 00 06}Mabel{ff 00 00 00}\ntold me an interesting\nstory, {01 00 00 05 00}{04 02 00}.\n{07 0e 00}It was something about a\nletter.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} A very important\nletter, {01 00 00 05 00}{04 02 00}.\n{07 00 00}It would be like if I got\na letter from {07 0b 00}{04 0e 00}.\nYeah...that important!",
-   "et": "{07 00 00}{ff 00 00 06}Sable {ff 00 00 00}ja {ff 00 00 06}Mabel{ff 00 00 00}\nrääkisid mulle huvitava\nloo, {01 00 00 05 00}{04 02 00}.\n{07 0e 00}See oli midagi ühest\nkirjast.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} Väga tähtsast\nkirjast, {01 00 00 05 00}{04 02 00}.\n{07 00 00}See oleks nagu kui ma\nsaaksin kirja {07 0b 00}{04 0e 00}lt.\nJah...nii tähtis!"
+   "et": "{07 00 00}{ff 00 00 06}Sable {ff 00 00 00}ja {ff 00 00 06}Mabel{ff 00 00 00}\nrääkisid mulle huvitava\nloo, {01 00 00 05 00}{04 02 00}.\n{07 0e 00}See oli midagi ühest\nkirjast.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} Väga tähtsast\nkirjast, {01 00 00 05 00}{04 02 00}.\n{07 00 00}See oleks nagu kui\n{07 0b 00}{04 0e 00} mulle kirja saadaks.\nJah...nii tähtis!"
   },
   {
    "id": 22,
    "en": "{07 00 00}{ff 00 00 06}Sable {ff 00 00 00}and {ff 00 00 06}Mabel {ff 00 00 00}told me the\nmost fascinating story,\n{01 00 00 05 00}{04 02 00}.\n{07 0e 00}Something about a letter.{01 00 00 05 00}.{01 00 00 05 00}.\nIt must be an important\nletter, {01 00 00 05 00}{04 02 00}.\n{07 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}It must be like if I got\na letter from {07 0d 00}{04 1f 00}!",
-   "et": "{07 00 00}{ff 00 00 06}Sable {ff 00 00 00}ja {ff 00 00 06}Mabel {ff 00 00 00}rääkisid\nmulle kõige põnevama loo,\n{01 00 00 05 00}{04 02 00}.\n{07 0e 00}Midagi ühest kirjast.{01 00 00 05 00}.{01 00 00 05 00}.\nSee peab olema tähtis\nkiri, {01 00 00 05 00}{04 02 00}.\n{07 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}See oleks nagu kui ma\nsaaksin kirja {07 0d 00}{04 1f 00}lt!"
+   "et": "{07 00 00}{ff 00 00 06}Sable {ff 00 00 00}ja {ff 00 00 06}Mabel {ff 00 00 00}rääkisid\nmulle kõige põnevama loo,\n{01 00 00 05 00}{04 02 00}.\n{07 0e 00}Midagi ühest kirjast.{01 00 00 05 00}.{01 00 00 05 00}.\nSee peab olema tähtis\nkiri, {01 00 00 05 00}{04 02 00}.\n{07 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}See oleks nagu kui\n{07 0d 00}{04 1f 00} mulle kirja saadaks!"
   },
   {
    "id": 23,

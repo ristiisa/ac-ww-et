@@ -19,7 +19,7 @@
   {
    "id": 3,
    "en": "{07 14 00}Huh!{01 00 00 0a 00} OK, cool, I gotcha!{01 00 00 05 00}\nNeat-o, {01 00 00 05 00}{04 02 00}!\n\n{07 00 00}I bet {01 00 00 05 00}it's all futuristic\n{07 0b 00}with streamlined buildings\nand stuff, right?\n{07 16 00}Oh, but...{01 00 00 05 00}that'd be more like\na city than a town{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} {07 14 00}Oh,{01 00 00 05 00}\nwho cares, {01 00 00 05 00}{04 02 00}!",
-   "et": "{07 14 00}Ahaa!{01 00 00 0a 00} Olgu, lahe, sain aru!{01 00 00 05 00}\nVahva, {01 00 00 05 00}{04 02 00}!\n\n{07 00 00}Kindlasti {01 00 00 05 00}on seal kõik\nfuturistlik {07 0b 00}voolujooneliste\nhoonete ja nii, eks?\n{07 16 00}Oi, aga...{01 00 00 05 00}see oleks pigem\nlinnak kui linn{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} {07 14 00}Ah,{01 00 00 05 00}\nmis vahet, {01 00 00 05 00}{04 02 00}!"
+   "et": "{07 14 00}Ahaa!{01 00 00 0a 00} Olgu, lahe, sain aru!{01 00 00 05 00}\nVahva, {01 00 00 05 00}{04 02 00}!\n\n{07 00 00}Kindlasti {01 00 00 05 00}on seal kõik\nfuturistlik {07 0b 00}voolujooneliste\nhoonete ja nii, eks?\n{07 16 00}Oi, aga...{01 00 00 05 00}see oleks pigem\nlinn kui linnak{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} {07 14 00}Ah,{01 00 00 05 00}\nmis vahet, {01 00 00 05 00}{04 02 00}!"
   },
   {
    "id": 4,
@@ -34,7 +34,7 @@
   {
    "id": 6,
    "en": "{07 16 00}Oh, whoops, that's too bad!{01 00 00 0a 00}\nAlthough, {01 00 00 05 00}I guess that \nmeans it's nice and quiet{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 14 00}I bet you always wake up\nfeeling like a million\nBells, {01 00 00 05 00}{04 02 00}!",
-   "et": "{07 16 00}Oi, no kurat, see on kahju!{01 00 00 0a 00}\nKuigi, {01 00 00 05 00}see vist tähendab,\net seal on kena ja vaikne{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 14 00}Kindlasti ärkad sa alati\nmiljoni kella tundega,\n{01 00 00 05 00}{04 02 00}!"
+   "et": "{07 16 00}Oi, no kurat, see on kahju!{01 00 00 0a 00}\nKuigi, {01 00 00 05 00}see vist tähendab,\net seal on kena ja vaikne{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 14 00}Kindlasti ärkad sa alati\ntundega, et oled miljoni\nkella väärt, {01 00 00 05 00}{04 02 00}!"
   },
   {
    "id": 7,

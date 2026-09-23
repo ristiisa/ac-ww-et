@@ -4,7 +4,7 @@
   {
    "id": 0,
    "en": "{07 00 00}Hey you,{01 00 00 05 00} are you into\nespionage and spying and\nall that?\nWhen I have a spare second,\nI try to study up on my\nninja skills, {01 00 00 05 00}{04 02 00}.\nYou know, like hunting down\npeople in the darkness.\n\nI sneak right up behind 'em\nand then scream\n\"I AM BEHIND YOU!\"\n{07 0b 00}Wanna try it, {01 00 00 05 00}{04 02 00}?",
-   "et": "{07 00 00}Kuule sina,{01 00 00 05 00} kas sa oled\nspionaaži ja luuramise ja\nkõige selle lainel?\nKui mul on vaba hetk,\nüritan ma oma ninda-\noskusi lihvida, {01 00 00 05 00}{04 02 00}.\nTead küll, näiteks inimeste\njahtimine pimeduses.\n\nMa hiilin neile selja taha\nja siis karjun:\n„MA OLEN SINU SELJA TAGA!”\n{07 0b 00}Tahad proovida, {01 00 00 05 00}{04 02 00}?"
+   "et": "{07 00 00}Kuule sina,{01 00 00 05 00} kas sa oled\nspionaaži ja luuramise ja\nkõige selle lainel?\nKui mul on vaba hetk,\nüritan ma oma ninja-\noskusi lihvida, {01 00 00 05 00}{04 02 00}.\nTead küll, näiteks inimeste\njahtimine pimeduses.\n\nMa hiilin neile selja taha\nja siis karjun:\n„MA OLEN SINU SELJA TAGA!”\n{07 0b 00}Tahad proovida, {01 00 00 05 00}{04 02 00}?"
   },
   {
    "id": 1,
@@ -14,7 +14,7 @@
   {
    "id": 2,
    "en": "{07 14 00}Hey, {01 00 00 05 00}{04 1f 00}!{01 00 00 0f 00} Wanna play\n{ff 00 00 02}cowboys and ninjas{ff 00 00 00},\n{01 00 00 05 00}{04 02 00}?\n{07 00 00}Of course, I'll be the ninja.\nYou can be the cowboy,\n{01 00 00 05 00}{04 02 00}.\n{07 06 00}Come on, I know you don't\nhave anything important\nto do! {01 00 00 05 00}Are you in?",
-   "et": "{07 14 00}Hei, {01 00 00 05 00}{04 1f 00}!{01 00 00 0f 00} Mängime\n{ff 00 00 02}kauboisid ja nindasid{ff 00 00 00},\n{01 00 00 05 00}{04 02 00}?\n{07 00 00}Muidugi olen mina ninda.\nSina võid olla kauboi,\n{01 00 00 05 00}{04 02 00}.\n{07 06 00}Ole nüüd, ma tean, et sul\npole midagi tähtsat\nteha! {01 00 00 05 00}Oled mängus?"
+   "et": "{07 14 00}Hei, {01 00 00 05 00}{04 1f 00}!{01 00 00 0f 00} Mängime\n{ff 00 00 02}kauboisid ja ninjasid{ff 00 00 00},\n{01 00 00 05 00}{04 02 00}?\n{07 00 00}Muidugi olen mina ninja.\nSina võid olla kauboi,\n{01 00 00 05 00}{04 02 00}.\n{07 06 00}Ole nüüd, ma tean, et sul\npole midagi tähtsat\nteha! {01 00 00 05 00}Oled mängus?"
   }
  ]
 }

@@ -49,7 +49,7 @@
   {
    "id": 9,
    "en": "{07 1d 00}Are you serious? {01 00 00 05 00}Oh, man,\nthat's no good, {01 00 00 05 00}{04 02 00}!\n\n{07 16 00}It's because I warbled,\nisn't it? {01 00 00 0a 00}{07 08 00}I can't help it if\nI'm a warbler!\n{07 00 00}I'm sorry. I'm being silly.{07 14 00}\nActually, I like warbling.\nAnd yodeling, too.",
-   "et": "{07 1d 00}Kas sa tõsiselt? {01 00 00 05 00}Oh, oi,\nsee pole hea, {01 00 00 05 00}{04 02 00}!\n\n{07 16 00}See on sellepärast, et ma\nvidistasin, eks? {01 00 00 0a 00}{07 08 00}Ma ei saa\nparata, et olen vidistaja!\n{07 00 00}Vabandust. Ma olen rumal.{07 14 00}\nTegelikult mulle meeldib\nvidistada. Ja jodeldada ka."
+   "et": "{07 1d 00}Kas sa tõsiselt? {01 00 00 05 00}Oh, oi,\nsee pole hea, {01 00 00 05 00}{04 02 00}!\n\n{07 16 00}See on sellepärast, et ma\ntrillerdasin, eks? {01 00 00 0a 00}{07 08 00}Ma ei saa\nparata, et olen trillerdaja!\n{07 00 00}Vabandust. Ma olen rumal.{07 14 00}\nTegelikult mulle meeldib\ntrillerdada. Ja jodeldada ka."
   },
   {
    "id": 10,
@@ -94,7 +94,7 @@
   {
    "id": 18,
    "en": "{07 14 00}There's nothing I love so\nmuch as live music.\n\n{07 00 00}But that's beside the point.\nWas there something you\nwanted, {01 00 00 05 00}{04 02 00}?",
-   "et": "{07 14 00}Miski ei meeldi mulle nii\nväga kui elav muusika.\n\n{07 00 00}Aga see selleks.\nKas sa tahtsid midagi,\n{01 00 00 05 00}{04 02 00}?"
+   "et": "{07 14 00}Miski ei meeldi mulle nii\nväga kui elav muusika.\n\n{07 00 00}Aga see pole praegu oluline.\nKas sa tahtsid midagi,\n{01 00 00 05 00}{04 02 00}?"
   },
   {
    "id": 19,

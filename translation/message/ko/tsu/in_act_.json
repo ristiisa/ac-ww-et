@@ -4,7 +4,7 @@
   {
    "id": 0,
    "en": "{07 14 00}What's up, {01 00 00 05 00}{04 1f 00}?{01 00 00 14 00}\nFeel like catching bugs\nsometime, {01 00 00 05 00}{04 02 00}?\n{07 00 00}I'll point them out and you \ncan do the legwork. I'm\nnot really into exercise.\n{07 03 00}{01 00 00 05 00}Great, it's a deal!{01 00 00 14 00}\n{07 15 00}Come on, {01 00 00 05 00}{04 1f 00}!{01 00 00 0f 00}\nGet a move on, {01 00 00 05 00}{04 02 00}!",
-   "et": "{07 14 00}Mis toimub, {01 00 00 05 00}{04 1f 00}?{01 00 00 14 00}\nTahaks kunagi putukaid\npüüda, {01 00 00 05 00}{04 02 00}?\n{07 00 00}Mina osutan neile ja sina \nteed jooksutöö. Mind ei\nhuvita eriti liikumine.\n{07 03 00}{01 00 00 05 00}Suurepärane, kokkulepe!{01 00 00 14 00}\n{07 15 00}Tule nüüd, {01 00 00 05 00}{04 1f 00}!{01 00 00 0f 00}\nLiiguta ennast, {01 00 00 05 00}{04 02 00}!"
+   "et": "{07 14 00}Mis toimub, {01 00 00 05 00}{04 1f 00}?{01 00 00 14 00}\nTahaks kunagi putukaid\npüüda, {01 00 00 05 00}{04 02 00}?\n{07 00 00}Mina osutan neile ja sina \nteed ära jooksmise. Mind ei\nhuvita eriti liikumine.\n{07 03 00}{01 00 00 05 00}Suurepärane, kokkulepe!{01 00 00 14 00}\n{07 15 00}Tule nüüd, {01 00 00 05 00}{04 1f 00}!{01 00 00 0f 00}\nLiiguta ennast, {01 00 00 05 00}{04 02 00}!"
   },
   {
    "id": 1,
@@ -24,7 +24,7 @@
   {
    "id": 4,
    "en": "{07 1b 00}Right on!{01 00 00 14 00} {07 00 00}Maybe you're not\nso bad after all.\n\n{07 06 00}Nothing gets my \nblood pumping like stalking\na rare bug, {01 00 00 05 00}{04 02 00}!",
-   "et": "{07 1b 00}Just nii!{01 00 00 14 00} {07 00 00}Ehk sa polegi\nnii halb.\n\n{07 06 00}Miski ei pane mu verd \nkeema nii nagu haruldase\nputuka jälitamine, {01 00 00 05 00}{04 02 00}!"
+   "et": "{07 1b 00}Just nii!{01 00 00 14 00} {07 00 00}Ehk sa polegi\nnii halb.\n\n{07 06 00}Miski ei erguta mind \nnii nagu haruldase\nputuka jälitamine, {01 00 00 05 00}{04 02 00}!"
   },
   {
    "id": 5,
@@ -99,7 +99,7 @@
   {
    "id": 19,
    "en": "{07 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 15 00}I should have known I'd\nget nothin' but sass from \n{04 1f 00}!\n{07 1b 00}Ugh!{01 00 00 14 00} Kids these days,\n{01 00 00 05 00}{04 02 00}!",
-   "et": "{07 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 15 00}Ma teadsin, et saan\n{04 1f 00}ilt ainult \njultumust!\n{07 1b 00}Uhh!{01 00 00 14 00} Tänapäeva lapsed,\n{01 00 00 05 00}{04 02 00}!"
+   "et": "{07 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 15 00}Ma teadsin, et saan\ntüübilt nimega {04 1f 00}\nainult jultumust!\n{07 1b 00}Uhh!{01 00 00 14 00} Tänapäeva lapsed,\n{01 00 00 05 00}{04 02 00}!"
   },
   {
    "id": 20,

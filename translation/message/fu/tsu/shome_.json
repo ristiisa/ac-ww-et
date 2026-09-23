@@ -19,7 +19,7 @@
   {
    "id": 3,
    "en": "{0b 03 00}{04 1f 00}, aren't you\ngetting a little cramped\nin that house, {01 00 00 05 00}{04 02 00}?\nI mean, I'm sure it's cozy\nand everything, but {07 0b 00}isn't\nit a little smallish?\n{07 14 00}You know, you should be\nworking harder to pay off\nyour debt, {01 00 00 05 00}{04 02 00}.\n{07 0d 00}Then, maybe {ff 00 00 06}Tom Nook {ff 00 00 00}will\nbe willing to expand your\nhouse a little, {01 00 00 05 00}{04 02 00}!",
-   "et": "{0b 03 00}{04 1f 00}, kas sul ei hakka\nselles majas pisut\nkitsas, {01 00 00 05 00}{04 02 00}?\nMa mõtlen, kindlasti on see\nhubane ja kõik, aga {07 0b 00}kas ei\npisut väikevõitu?\n{07 14 00}Tead, sa peaksid rohkem\ntööd tegema, et oma võlg\nära maksta, {01 00 00 05 00}{04 02 00}.\n{07 0d 00}Siis ehk on {ff 00 00 06}Tom Nook {ff 00 00 00}nõus\nsu maja natuke\nlaiendama, {01 00 00 05 00}{04 02 00}!"
+   "et": "{0b 03 00}{04 1f 00}, kas sul ei hakka\nselles majas pisut\nkitsas, {01 00 00 05 00}{04 02 00}?\nMa mõtlen, kindlasti on see\nhubane ja kõik, aga {07 0b 00}kas see pole\npisut väikevõitu?\n{07 14 00}Tead, sa peaksid rohkem\ntööd tegema, et oma võlg\nära maksta, {01 00 00 05 00}{04 02 00}.\n{07 0d 00}Siis ehk on {ff 00 00 06}Tom Nook {ff 00 00 00}nõus\nsu maja natuke\nlaiendama, {01 00 00 05 00}{04 02 00}!"
   },
   {
    "id": 4,
@@ -39,7 +39,7 @@
   {
    "id": 7,
    "en": "{0b 03 00}{04 1f 00}, you haven't\nremodeled your house even\nonce since you moved in!\n{07 0b 00}Don't you want a bigger\nhouse? Don't you want more\nroom to stretch out?\n{07 00 00}Personally, I couldn't\nstand living in such a\nsmall place, {01 00 00 05 00}{04 02 00}.\n{07 13 00}I love to relax in my\nhuge living room with a cup\nof {04 13 00}!",
-   "et": "{0b 03 00}{04 1f 00}, sa pole oma maja\nkordagi ümber ehitanud,\nkui sa siia kolisid!\n{07 0b 00}Kas sa ei taha suuremat\nmaja? Kas sa ei taha veel\nruumi end välja sirutada?\n{07 00 00}Mina isiklikult ei suudaks\nelada nii väikeses\nkohas, {01 00 00 05 00}{04 02 00}.\n{07 13 00}Mulle meeldib lõõgastuda\nsuures elutoas tassi\n{04 13 00}ga!"
+   "et": "{0b 03 00}{04 1f 00}, sa pole oma maja\nkordagi ümber ehitanud\nalates siia kolimisest!\n{07 0b 00}Kas sa ei taha suuremat\nmaja? Kas sa ei taha veel\nruumi end välja sirutada?\n{07 00 00}Mina isiklikult ei suudaks\nelada nii väikeses\nkohas, {01 00 00 05 00}{04 02 00}.\n{07 13 00}Mulle meeldib lõõgastuda\nsuures elutoas tassi\njoogi nimega {04 13 00}!"
   },
   {
    "id": 8,

@@ -39,7 +39,7 @@
   {
    "id": 7,
    "en": "{07 16 00}Nope! That's close, but\nclose is a long way from\nright, {01 00 00 05 00}{04 02 00}.\n{07 00 00}It was a bit of a trick\nquestion, though. See, I'm\nnot TOO hungry just yet...\n{07 0e 00}But once I start eating, I\nmight want to have more\nthan I felt like having.\n{07 06 00}So I suppose it could have\ngone either way.",
-   "et": "{07 16 00}Ei! See on lähedal, aga\nlähedal on õigest kaugel,\n{01 00 00 05 00}{04 02 00}.\n{07 00 00}See oli küll pisut\npüüdlik küsimus. Näed, ma\npole veel LIIGA näljane...\n{07 0e 00}Aga kui ma hakkan sööma,\nvõin ma tahta rohkem,\nkui algul tundus.\n{07 06 00}Nii et vist oleks võinud\nminna kummaltki poolt."
+   "et": "{07 16 00}Ei! See on lähedal, aga\nlähedal on õigest kaugel,\n{01 00 00 05 00}{04 02 00}.\n{07 00 00}See oli küll pisut\nsalakaval küsimus. Näed, ma\npole veel LIIGA näljane...\n{07 0e 00}Aga kui ma hakkan sööma,\nvõin ma tahta rohkem,\nkui algul tundus.\n{07 06 00}Nii et vist oleks võinud\nminna kummaltki poolt."
   },
   {
    "id": 8,
@@ -69,7 +69,7 @@
   {
    "id": 13,
    "en": "{07 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 16 00}I see how it is with you,\n{01 00 00 05 00}{04 02 00}.\n\nI thought you, out of\neveryone in town, could\nunderstand me, {04 1f 00}!\nBut I guess I was just{01 00 00 05 00}\n{07 0f 00}hoping for too much from\nmy friends.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{04 02 00}.",
-   "et": "{07 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 16 00}Ma näen, kuidas sinuga on,\n{01 00 00 05 00}{04 02 00}.\n\nMa arvasin, et just sina\nkõigist linnas suudad\nmind mõista, {04 1f 00}!\nAga vist lootsin ma{01 00 00 05 00}\n{07 0f 00}oma sõpradelt liiga\npalju.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{04 02 00}."
+   "et": "{07 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 16 00}Ma näen, kuidas sinuga on,\n{01 00 00 05 00}{04 02 00}.\n\nMa arvasin, et just sina\nkõigist linna inimestest\nsuudad mind mõista, {04 1f 00}!\nAga vist lootsin ma{01 00 00 05 00}\n{07 0f 00}oma sõpradelt liiga\npalju.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{04 02 00}."
   },
   {
    "id": 14,
@@ -94,7 +94,7 @@
   {
    "id": 18,
    "en": "{07 16 00}It's not yours?{01 00 00 0f 00} But {01 00 00 05 00}{07 0b 00}whose\ncould it be?\n\n{07 0c 00}You don't suppose it\nbelongs to old {04 0d 00},\ndo you?\n{07 19 00}I swear, some people would\nforget their heads if they\nweren't stapled on.",
-   "et": "{07 16 00}See pole sinu?{01 00 00 0f 00} Aga {01 00 00 05 00}{07 0b 00}kelle\noma see võiks olla?\n\n{07 0c 00}Sa ei arva ju, et see\nkuulub vanale {04 0d 00}ile,\nega?\n{07 19 00}Ma vannun, mõned unustaksid\noma pea, kui see poleks\nkülge klammerdatud."
+   "et": "{07 16 00}See pole sinu?{01 00 00 0f 00} Aga {01 00 00 05 00}{07 0b 00}kelle\noma see võiks olla?\n\n{07 0c 00}Sa ei arva ju, et see\non vana {04 0d 00}\noma, ega?\n{07 19 00}Ma vannun, mõned unustaksid\noma pea, kui see poleks\nkülge klammerdatud."
   },
   {
    "id": 19,

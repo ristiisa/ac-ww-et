@@ -29,7 +29,7 @@
   {
    "id": 5,
    "en": "{07 14 00}I understand how someone\nlike you would want to talk \nto someone like me.\n{07 00 00}But when a guy is watering\nhis {ff 00 00 06}{04 01 00} flower{ff 00 00 00},\nyou should respect that.\n{07 15 00}AND BACK OFF!!!\n{0b 03 00}{01 00 00 05 00}{04 02 00}?!",
-   "et": "{07 14 00}Ma mõistan, kuidas keegi\nsinusugune tahaks rääkida \nkellegi minusugusega.\n{07 00 00}Aga kui mees kastab oma\n{ff 00 00 06}{04 01 00}i lille{ff 00 00 00},\npead sa seda austama.\n{07 15 00}JA EEMALE HOIDMA!!!\n{0b 03 00}{01 00 00 05 00}{04 02 00}?!"
+   "et": "{07 14 00}Ma mõistan, kuidas keegi\nsinusugune tahaks rääkida \nkellegi minusugusega.\n{07 00 00}Aga kui mees kastab oma\n{ff 00 00 06}lille nimega {04 01 00}{ff 00 00 00},\npead sa seda austama.\n{07 15 00}JA HOIA EEMALE!!!\n{0b 03 00}{01 00 00 05 00}{04 02 00}?!"
   },
   {
    "id": 6,
@@ -64,7 +64,7 @@
   {
    "id": 12,
    "en": "{07 16 00}I can't stand it when people\nsee me watering my flowers\nand stuff!\n{07 00 00}Think about it.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0f 00}\n{07 06 00}Would you expect to see me\ndoing that, {01 00 00 05 00}{04 02 00}?",
-   "et": "{07 16 00}Ma ei talu, kui inimesed\nnäevad mind lilli kastmas\nja nii!\n{07 00 00}Mõtle sellele.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0f 00}\n{07 06 00}Kas sa ootaksid, et näed\nmind nii, {01 00 00 05 00}{04 02 00}?"
+   "et": "{07 16 00}Ma ei talu, kui inimesed\nnäevad mind lilli kastmas\nja muud tegemas!\n{07 00 00}Mõtle sellele.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0f 00}\n{07 06 00}Kas sa ootaksid, et näed\nmind nii, {01 00 00 05 00}{04 02 00}?"
   },
   {
    "id": 13,
@@ -124,12 +124,12 @@
   {
    "id": 24,
    "en": "{07 1b 00}Oooh, another lame, \nmeaningless answer from \nyou! There's a big surprise!{01 00 00 0f 00}\n{07 15 00}Kids today are just a bunch\nof little punks if ya ask \nme, {01 00 00 05 00}{04 02 00}!",
-   "et": "{07 1b 00}Oooh, järjekordne lörts, \nmõttetu vastus sinult! \nMilline üllatus!{01 00 00 0f 00}\n{07 15 00}Tänapäeva lapsed on minu\narust lihtsalt kamp \npätikesi, {01 00 00 05 00}{04 02 00}!"
+   "et": "{07 1b 00}Oooh, järjekordne nõder, \nmõttetu vastus sinult! \nMilline üllatus!{01 00 00 0f 00}\n{07 15 00}Tänapäeva lapsed on minu\narust lihtsalt kamp \npätikesi, {01 00 00 05 00}{04 02 00}!"
   },
   {
    "id": 25,
    "en": "{07 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}Really? {07 09 00}You think so,\nhuh? {0b 03 00}{01 00 00 05 00}{04 02 00}!\n\n{07 0e 00}Well.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0f 00} If I were a flower,\nI guess I'd be some crazy-\ncool hybrid breed.\n{07 00 00}You know, like a fusion\nof white and red. Wait... No.{01 00 00 05 00}\n{07 17 00}That would make me pink.",
-   "et": "{07 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}Tõesti? {07 09 00}Sa arvad nii,\nmis? {0b 03 00}{01 00 00 05 00}{04 02 00}!\n\n{07 0e 00}Noh.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0f 00} Kui ma oleksin lill,\noleksin ma vist mingi lahe\nlahe hübriidsort.\n{07 00 00}Tead küll, valge ja punase\nsegu. Oota... Ei.{01 00 00 05 00}\n{07 17 00}Siis oleksin ma roosa."
+   "et": "{07 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}Tõesti? {07 09 00}Sa arvad nii,\nmis? {0b 03 00}{01 00 00 05 00}{04 02 00}!\n\n{07 0e 00}Noh.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0f 00} Kui ma oleksin lill,\noleksin ma vist mingi hullult\nlahe hübriidsort.\n{07 00 00}Tead küll, valge ja punase\nsegu. Oota... Ei.{01 00 00 05 00}\n{07 17 00}Siis oleksin ma roosa."
   },
   {
    "id": 26,

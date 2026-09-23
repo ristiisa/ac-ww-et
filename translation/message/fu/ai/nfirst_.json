@@ -44,7 +44,7 @@
   {
    "id": 8,
    "en": "Hi! {01 00 00 05 00}It's nice to meet you.{01 00 00 0f 00}\nOr at least.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 0b 00}I think it is,\nisn't it?\n{07 00 00}My name's {04 01 00}, and\nI'm your perfect textbook\n{04 0f 00}, {01 00 00 05 00}{04 02 00}.\n{07 14 00}I like to {04 22 00}\ntoo, so maybe we can go\ntogether sometime.",
-   "et": "Tere! {01 00 00 05 00}Meeldiv tutvuda.{01 00 00 0f 00}\nVõi vähemalt.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 0b 00}ma arvan nii,\nkas pole?\n{07 00 00}Mu nimi on {04 01 00} ja\nma olen täiuslik õpikunäide,\nmärk {04 0f 00}, {01 00 00 05 00}{04 02 00}.\n{07 14 00}Mulle meeldib ka {04 22 00},\nnii et ehk saame kunagi\nkoos minna."
+   "et": "Tere! {01 00 00 05 00}Meeldiv tutvuda.{01 00 00 0f 00}\nVõi vähemalt.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 0b 00}ma arvan nii,\nkas pole?\n{07 00 00}Mu nimi on {04 01 00} ja\nma olen nagu õpikust võetud\n{04 0f 00}, {01 00 00 05 00}{04 02 00}.\n{07 14 00}Mulle meeldib ka {04 22 00},\nnii et ehk saame kunagi\nkoos minna."
   },
   {
    "id": 9,

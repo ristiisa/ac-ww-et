@@ -9,7 +9,7 @@
   {
    "id": 1,
    "en": "{07 04 00}Whoa!{01 00 00 0a 00} Hey, how're you?{01 00 00 05 00}\nI may be wrong, but is this\nthe first time {07 0b 00}we've met?\n{07 00 00}Yeah!{01 00 00 05 00} I'm {01 00 00 05 00}{04 01 00}!{01 00 00 0a 00}\nI moved here from\n{ff 00 00 08}{04 10 00}{ff 00 00 00}!\nAs you can see from my\nfine, sculpted physique,{01 00 00 05 00}\nI like to {04 22 00}!\n{07 14 00}I don't have many other\ninterests besides that.{01 00 00 05 00}\nThis bod runs the show!\nYou know what they say...{01 00 00 05 00}\nMuscles crush brains!{01 00 00 14 00}\n{07 03 00}War har har har har!",
-   "et": "{07 04 00}Ohoo!{01 00 00 0a 00} Hei, kuidas läheb?{01 00 00 05 00}\nMa võin eksida, aga kas see\non esimene kord, {07 0b 00}kui näeme?\n{07 00 00}Jah!{01 00 00 05 00} Mina olen {01 00 00 05 00}{04 01 00}!{01 00 00 0a 00}\nMa kolisin siia\n{ff 00 00 08}{04 10 00}{ff 00 00 00}ist!\nNagu mu peenest, raiutud\nkehaehitusest näha,{01 00 00 05 00}\nmulle meeldib {04 22 00}!\n{07 14 00}Mul pole selle kõrval\neriti muid huvisid.{01 00 00 05 00}\nSee keha juhib show'd!\nTead, mida öeldakse...{01 00 00 05 00}\nLihased purustavad ajud!{01 00 00 14 00}\n{07 03 00}Vaar haar haar haar!"
+   "et": "{07 04 00}Ohoo!{01 00 00 0a 00} Hei, kuidas läheb?{01 00 00 05 00}\nMa võin eksida, aga kas see\non esimene kord, {07 0b 00}kui näeme?\n{07 00 00}Jah!{01 00 00 05 00} Mina olen {01 00 00 05 00}{04 01 00}!{01 00 00 0a 00}\nMa kolisin siia\nlinnast {ff 00 00 08}{04 10 00}{ff 00 00 00}!\nNagu mu uhkest, raiutud\nkehaehitusest näha,{01 00 00 05 00}\nmulle meeldib {04 22 00}!\n{07 14 00}Mul pole selle kõrval\neriti muid huvisid.{01 00 00 05 00}\nSee keha juhib show'd!\nTead, mida öeldakse...{01 00 00 05 00}\nLihased purustavad ajud!{01 00 00 14 00}\n{07 03 00}Vaar haar haar haar!"
   },
   {
    "id": 2,
@@ -19,7 +19,7 @@
   {
    "id": 3,
    "en": "{07 14 00}Yo, what is UP?!{01 00 00 0a 00} I'm\n{01 00 00 05 00}{04 01 00}!{01 00 00 0f 00} {07 00 00}I was raised in\n{ff 00 00 08}{04 10 00}{ff 00 00 00},{01 00 00 05 00}\nand, uh, my sign is\n{04 0f 00}, and I'm full\nof beans, baby!\nSo, you're {04 1f 00}?{01 00 00 14 00}\n{07 0e 00}Hmmm.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} You seem to be\n{07 00 00}in decent shape, I guess.\nYou and me just met, so...{01 00 00 05 00}\n{07 14 00}I won't question your\nfitness...yet, {01 00 00 05 00}{04 02 00}!",
-   "et": "{07 14 00}Jou, mis TOIMUB?!{01 00 00 0a 00} Mina olen\n{01 00 00 05 00}{04 01 00}!{01 00 00 0f 00} {07 00 00}Ma kasvasin üles\n{ff 00 00 08}{04 10 00}{ff 00 00 00}is,{01 00 00 05 00}\nja, öö, mu tähtkuju on\n{04 0f 00} ja ma olen täis\nenergiat, beebi!\nNii et sina oled {04 1f 00}?{01 00 00 14 00}\n{07 0e 00}Hmmm.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} Sa näid olevat\n{07 00 00}üsna heas vormis, ma arvan.\nMe alles kohtusime, nii et...{01 00 00 05 00}\n{07 14 00}ma ei kahtle sinu\nvormis...veel, {01 00 00 05 00}{04 02 00}!"
+   "et": "{07 14 00}Jou, mis TOIMUB?!{01 00 00 0a 00} Mina olen\n{01 00 00 05 00}{04 01 00}!{01 00 00 0f 00} {07 00 00}Ma kasvasin üles\nlinnas {ff 00 00 08}{04 10 00}{ff 00 00 00},{01 00 00 05 00}\nja, öö, mu tähtkuju on\n{04 0f 00} ja ma olen täis\nenergiat, beebi!\nNii et sina oled {04 1f 00}?{01 00 00 14 00}\n{07 0e 00}Hmmm.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} Sa näid olevat\n{07 00 00}üsna heas vormis, ma arvan.\nMe alles kohtusime, nii et...{01 00 00 05 00}\n{07 14 00}ma ei kahtle sinu\nvormis...veel, {01 00 00 05 00}{04 02 00}!"
   },
   {
    "id": 4,

@@ -4,12 +4,12 @@
   {
    "id": 0,
    "en": "{07 14 00}Hey, do me a favor and tell\n{ff 00 00 06}{04 0f 00} {ff 00 00 00}I said thanks!{01 00 00 14 00}\nI owe you big, {04 1f 00}!",
-   "et": "{07 14 00}Kuule, tee mulle teene ja\nütle {ff 00 00 06}{04 0f 00} {ff 00 00 00}le aitäh!{01 00 00 14 00}\nOlen sulle võlgu, {04 1f 00}!"
+   "et": "{07 14 00}Kuule, tee mulle teene ja\nütle aitäh talle, {ff 00 00 06}{04 0f 00}{ff 00 00 00}!{01 00 00 14 00}\nOlen sulle võlgu, {04 1f 00}!"
   },
   {
    "id": 1,
    "en": "{07 14 00}Hey, {01 00 00 0f 00}{04 1f 00}!{01 00 00 0f 00} Tell \n{ff 00 00 06}{04 0f 00} {ff 00 00 00}I said thanks!\nI owe ya, {04 02 00}!",
-   "et": "{07 14 00}Hei, {01 00 00 0f 00}{04 1f 00}!{01 00 00 0f 00} Ütle\n{ff 00 00 06}{04 0f 00} {ff 00 00 00}le, et tänan!\nOlen võlgu, {04 02 00}!"
+   "et": "{07 14 00}Hei, {01 00 00 0f 00}{04 1f 00}!{01 00 00 0f 00} Ütle\ntalle, {ff 00 00 06}{04 0f 00}{ff 00 00 00}, et tänan!\nOlen võlgu, {04 02 00}!"
   },
   {
    "id": 2,

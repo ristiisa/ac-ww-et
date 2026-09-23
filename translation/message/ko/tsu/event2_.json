@@ -29,7 +29,7 @@
   {
    "id": 5,
    "en": "{07 14 00}It's summertime! You know\nwhat that means?{01 00 00 05 00} Fireworks,\n{01 00 00 05 00}{04 02 00}!\n{07 15 00}In a strange way, my life{01 00 00 05 00}\nkinda centers around the\n{ff 00 00 03}Fireworks Show{ff 00 00 00}.\n{07 11 00}Muwahaha!{01 00 00 05 00} That hot summer\nnight is gonna be \ncraaaaaaazy, {01 00 00 05 00}{04 02 00}!",
-   "et": "{07 14 00}On suveaeg! Tead,\nmida see tähendab?{01 00 00 05 00} Tuld,\n{01 00 00 05 00}{04 02 00}!\n{07 15 00}Imelikul kombel keerleb mu{01 00 00 05 00}\nelu {ff 00 00 03}ilutulestikushow{ff 00 00 00}\nümber.\n{07 11 00}Muvahaha!{01 00 00 05 00} See kuum suveöö\nsaab olema \nhulluuuuus, {01 00 00 05 00}{04 02 00}!"
+   "et": "{07 14 00}On suveaeg! Tead, mida\nsee tähendab?{01 00 00 05 00}\nIlutulestikku, {01 00 00 05 00}{04 02 00}!\n{07 15 00}Imelikul kombel keerleb mu{01 00 00 05 00}\nelu {ff 00 00 03}ilutulestikushow{ff 00 00 00}\nümber.\n{07 11 00}Muvahaha!{01 00 00 05 00} See kuum suveöö\nsaab olema \npäris HULL, {01 00 00 05 00}{04 02 00}!"
   },
   {
    "id": 6,
@@ -54,12 +54,12 @@
   {
    "id": 10,
    "en": "It's almost {ff 00 00 07}acorn{ff 00 00 00} season, \n{01 00 00 05 00}{04 02 00}.\n\n{07 0e 00}Yeah{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} It's pretty crazy.{01 00 00 05 00}\nThis time of year, you can \nfind {ff 00 00 07}acorns{ff 00 00 00} around here.\n{07 04 00}Hey!{01 00 00 0f 00} You don't{01 00 00 0f 00}\nbelieve me, do you?\nWell, {01 00 00 05 00}{04 02 00}!\n{07 15 00}If you think I'm lying,{01 00 00 05 00}\nwhy don't you ask\n{04 0e 00}, {01 00 00 05 00}{04 02 00}!",
-   "et": "On peaaegu {ff 00 00 07}tõru{ff 00 00 00} hooaeg, \n{01 00 00 05 00}{04 02 00}.\n\n{07 0e 00}Jah{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} See on päris hull.{01 00 00 05 00}\nSel aastaajal leiad sa \nsiinkandis {ff 00 00 07}tõrusid{ff 00 00 00}.\n{07 04 00}Hei!{01 00 00 0f 00} Sa ei usu{01 00 00 0f 00}\nmind, ega?\nNoh, {01 00 00 05 00}{04 02 00}!\n{07 15 00}Kui arvad, et ma valetan,{01 00 00 05 00}\nmiks sa ei küsi\n{04 0e 00}ilt, {01 00 00 05 00}{04 02 00}!"
+   "et": "On peaaegu {ff 00 00 07}tõru{ff 00 00 00} hooaeg, \n{01 00 00 05 00}{04 02 00}.\n\n{07 0e 00}Jah{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} See on päris hull.{01 00 00 05 00}\nSel aastaajal leiad sa \nsiinkandis {ff 00 00 07}tõrusid{ff 00 00 00}.\n{07 04 00}Hei!{01 00 00 0f 00} Sa ei usu{01 00 00 0f 00}\nmind, ega?\nNoh, {01 00 00 05 00}{04 02 00}!\n{07 15 00}Kui arvad, et ma valetan,{01 00 00 05 00}\nmiks sa ei küsi tüübilt\nnimega {04 0e 00}, {01 00 00 05 00}{04 02 00}!"
   },
   {
    "id": 11,
    "en": "Pretty soon you'll be able{01 00 00 05 00}\nto pick up {ff 00 00 07}acorns {ff 00 00 00}all over\ntown, {01 00 00 05 00}{04 02 00}.\n{07 15 00}I don't know what freak of\nnature brings them here,{01 00 00 05 00}\nbut just pick 'em up!\n{07 16 00}That's not my area of\nexpertise, so why don't you\nask {04 0d 00} about it?",
-   "et": "Üsna pea saad sa{01 00 00 05 00}\nkorjata {ff 00 00 07}tõrusid {ff 00 00 00}üle kogu\nlinna, {01 00 00 05 00}{04 02 00}.\n{07 15 00}Ma ei tea, mis loodusime\nneid siia toob,{01 00 00 05 00}\naga korja lihtsalt üles!\n{07 16 00}See pole minu ala, nii et\nmiks sa ei küsi selle kohta\n{04 0d 00}ilt?"
+   "et": "Üsna pea saad sa{01 00 00 05 00}\nkorjata {ff 00 00 07}tõrusid {ff 00 00 00}üle kogu\nlinna, {01 00 00 05 00}{04 02 00}.\n{07 15 00}Ma ei tea, mis loodusime\nneid siia toob,{01 00 00 05 00}\naga korja lihtsalt üles!\n{07 16 00}See pole minu ala, nii et\nmiks sa ei küsi selle kohta\ntüübilt nimega {04 0d 00}?"
   },
   {
    "id": 12,
@@ -134,7 +134,7 @@
   {
    "id": 27,
    "en": "{07 14 00}I guarantee I'm gonna\noutshine everyone,\n{01 00 00 05 00}{04 02 00}!\nIt'll look so rad, {01 00 00 05 00}people will\nactually get all soft and\nmisty when they see it!",
-   "et": "{07 14 00}Ma garanteerin, et ma\nsäran kõigist üle,\n{01 00 00 05 00}{04 02 00}!\nSee näeb äge, {01 00 00 05 00}et inimesed\nlähevad seda nähes päris\npehmeks ja pisarateni!"
+   "et": "{07 14 00}Ma garanteerin, et ma\nsäran kõigist üle,\n{01 00 00 05 00}{04 02 00}!\nSee näeb nii äge välja, {01 00 00 05 00}et\ninimesed lähevad seda nähes\npäris pehmeks ja pisarateni!"
   }
  ]
 }

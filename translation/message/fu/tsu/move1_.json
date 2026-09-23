@@ -34,7 +34,7 @@
   {
    "id": 6,
    "en": "{07 16 00}I'm sorry, but I've made up\nmy mind.{01 00 00 0f 00} I have to leave\nthis town while I still can!",
-   "et": "{07 16 00}Vabandust, aga ma olen\notsustanud.{01 00 00 0f 00} Ma pean sellest\nlinnast lahkuma, kuni saan!"
+   "et": "{07 16 00}Vabandust, aga ma olen\notsustanud.{01 00 00 0f 00} Ma pean sellest\nlinnast lahkuma, kuni veel saan!"
   },
   {
    "id": 7,
@@ -59,7 +59,7 @@
   {
    "id": 11,
    "en": ".{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}Oh, fine, {01 00 00 05 00}{04 02 00}.\n\n\n{07 16 00}{0b 03 00}{04 00 00}, if you want me\nhere so badly, I'll think\nabout it. But no promises!\n{07 00 00}I'll make up my mind\nby tomorrow{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{04 02 00}.",
-   "et": ".{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}Oh, hea küll, {01 00 00 05 00}{04 02 00}.\n\n\n{07 16 00}{0b 03 00}{04 00 00}, kui sa tahad mind\nnii väga siia, siis mõtlen\nselle üle. Aga ma ei luba!\n{07 00 00}Ma teen otsuse\nhommeks{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{04 02 00}."
+   "et": ".{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}Oh, hea küll, {01 00 00 05 00}{04 02 00}.\n\n\n{07 16 00}{0b 03 00}{04 00 00}, kui sa tahad mind\nnii väga siia, siis mõtlen\nselle üle. Aga ma ei luba!\n{07 00 00}Ma teen otsuse\nhomseks{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{04 02 00}."
   }
  ]
 }

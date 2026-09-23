@@ -34,7 +34,7 @@
   {
    "id": 6,
    "en": "{07 16 00}Hmm.{01 00 00 0a 00} Am I not catching\nanything{07 0b 00} 'cause I'm in a bad\nspot?\n{07 1b 00}If I don't start catching\nfish like the flu, I'm\nchanging places!",
-   "et": "{07 16 00}Hmm.{01 00 00 0a 00} Kas ma ei püüa\nmidagi{07 0b 00} sellepärast, et\nolen vales kohas?\n{07 1b 00}Kui ma ei hakka kalu püüdma\nnagu grippi, vahetan\nkohta!"
+   "et": "{07 16 00}Hmm.{01 00 00 0a 00} Kas ma ei püüa\nmidagi{07 0b 00} sellepärast, et\nolen vales kohas?\n{07 1b 00}Kui kala ei hakka järjest\nvõtma, vahetan ma\nkohta!"
   },
   {
    "id": 7,
@@ -44,7 +44,7 @@
   {
    "id": 8,
    "en": "{07 03 00}{01 00 00 0a 00}Uh huh huh HUH HUH!{01 00 00 0a 00}\n{0b 03 00}{04 02 00}!\n\n{07 14 00}Huh?{01 00 00 14 00} {07 0a 00}Oh, I was practicing\nhow happy I'll be when I\nactually catch a fish.",
-   "et": "{07 03 00}{01 00 00 0a 00}Uh huh huh HUH HUH!{01 00 00 0a 00}\n{0b 03 00}{04 02 00}!\n\n{07 14 00}Ah?{01 00 00 14 00} {07 0a 00}Oh, ma harjutasin,\nkui õnnelik olen, kui\ntõesti kala püüan."
+   "et": "{07 03 00}{01 00 00 0a 00}Uh huh huh HUH HUH!{01 00 00 0a 00}\n{0b 03 00}{04 02 00}!\n\n{07 14 00}Ah?{01 00 00 14 00} {07 0a 00}Oh, ma harjutasin,\nkui õnnelik ma olen, kui\nlõpuks kala kätte saan."
   },
   {
    "id": 9,
@@ -54,7 +54,7 @@
   {
    "id": 10,
    "en": "{ff 00 00 04}{07 11 00}You've tuned into the\nChillin' Network's coverage\nof the {ff 00 00 03}Fishing Tourney{ff 00 00 04}.\n{0b 03 00}{04 10 00} is in the lead\nwith a HUGE {ff 00 00 02}{04 0f 00}-inch\n{0b 02 00}{ff 00 00 04}{04 1a 00}.\n{ff 00 00 00}{07 02 00}Oh! {01 00 00 05 00}{0b 03 00}{04 1f 00}!{01 00 00 05 00} I didn't\nsee you there. {01 00 00 05 00}I was just\npracticing for.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}{07 17 00}my TV spot!",
-   "et": "{ff 00 00 04}{07 11 00}Olete häälestanud\nLulliverkkonna {ff 00 00 03}kalapüügi-\nvõistluse{ff 00 00 04} ülekandele.\n{0b 03 00}{04 10 00} juhib\nHIIGLASLIKU {ff 00 00 02}{04 0f 00}-tollise\n{0b 02 00}{ff 00 00 04}{04 1a 00}ga.\n{ff 00 00 00}{07 02 00}Oh! {01 00 00 05 00}{0b 03 00}{04 1f 00}!{01 00 00 05 00} Ma ei\nnäinud sind. {01 00 00 05 00}Harjutasin\nlihtsalt oma.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.{07 17 00}telelõiku!"
+   "et": "{ff 00 00 04}{07 11 00}Olete häälestanud\nLõõgastusvõrgu {ff 00 00 03}kalapüügi-\nvõistluse{ff 00 00 04} ülekandele.\n{0b 03 00}{04 10 00} juhib\nHIIGLASLIKU {ff 00 00 02}{04 0f 00}-tollise\n{0b 02 00}{ff 00 00 04}kalaga nimega {04 1a 00}.\n{ff 00 00 00}{07 02 00}Oh! {01 00 00 05 00}{0b 03 00}{04 1f 00}!{01 00 00 05 00} Ma ei\nnäinud sind. {01 00 00 05 00}Harjutasin\nlihtsalt oma.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.{07 17 00}telelõiku!"
   },
   {
    "id": 11,
@@ -69,12 +69,12 @@
   {
    "id": 13,
    "en": "{07 1b 00}I had a dream{01 00 00 05 00} last night.\nWanna hear it?\n\n{07 14 00}I was relaxing in the\nbathtub with a huge\n{0b 02 00}{04 1a 00}.\n{07 02 00}I think that the\n{0b 02 00}{04 1a 00}{01 00 00 0a 00} was\nabout {ff 00 00 02}{04 0f 00} inches{ff 00 00 00}!",
-   "et": "{07 1b 00}Nägin eile öösel{01 00 00 05 00} und.\nTahad kuulda?\n\n{07 14 00}Lõõgastusin vannis koos\nhiiglasliku\n{0b 02 00}{04 1a 00}ga.\n{07 02 00}Arvan, et see\n{0b 02 00}{04 1a 00}{01 00 00 0a 00} oli\numbes {ff 00 00 02}{04 0f 00} tolli{ff 00 00 00}!"
+   "et": "{07 1b 00}Nägin eile öösel{01 00 00 05 00} und.\nTahad kuulda?\n\n{07 14 00}Lõõgastusin vannis koos\nhiiglasliku\n{0b 02 00}kalaga nimega {04 1a 00}.\n{07 02 00}Arvan, et see\n{0b 02 00}{04 1a 00}{01 00 00 0a 00} oli\numbes {ff 00 00 02}{04 0f 00} tolli{ff 00 00 00}!"
   },
   {
    "id": 14,
    "en": "{07 16 00}Did you know {04 10 00} is\nin the lead with that\n{0b 02 00}{04 1a 00}?\nYeah, it's {ff 00 00 02}{04 0f 00} inches{ff 00 00 00},\ntoo!{01 00 00 14 00} Oh, right. {07 08 00}Of course\nyou know!",
-   "et": "{07 16 00}Kas teadsid, et {04 10 00}\njuhib selle\n{0b 02 00}{04 1a 00}ga?\nJa see on {ff 00 00 02}{04 0f 00} tolli{ff 00 00 00}!{01 00 00 14 00}\nAh õige. {07 08 00}Muidugi sa\ntead!"
+   "et": "{07 16 00}Kas teadsid, et {04 10 00}\njuhib selle\n{0b 02 00}kalaga nimega {04 1a 00}?\nJa see on {ff 00 00 02}{04 0f 00} tolli{ff 00 00 00}!{01 00 00 14 00}\nAh õige. {07 08 00}Muidugi sa\ntead!"
   }
  ]
 }

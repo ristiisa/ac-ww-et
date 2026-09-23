@@ -19,7 +19,7 @@
   {
    "id": 3,
    "en": "{07 15 00}You've gotta do somethin'\nabout your place!\n{07 16 00}Something! Anything!\n{07 00 00}If you wanna live large,{01 00 00 0f 00}\nyou've gotta have a huge\nhouse!\n{07 16 00}With low ceilings like that,{01 00 00 05 00}\nyou've gotta be bangin'\nyour head all the time!",
-   "et": "{07 15 00}Sa pead oma kodu suhtes\nmidagi ette võtma!\n{07 16 00}Midagi! Ükskõik mida!\n{07 00 00}Kui sa tahad elada suurelt,{01 00 00 0f 00}\npead sul olema hiiglaslik\nmaja!\n{07 16 00}Nii madalate lagedega{01 00 00 05 00}\npead sa kogu aeg pead\nära lööma!"
+   "et": "{07 15 00}Sa pead oma kodu suhtes\nmidagi ette võtma!\n{07 16 00}Midagi! Ükskõik mida!\n{07 00 00}Kui sa tahad elada suurelt,{01 00 00 0f 00}\npead sul olema hiiglaslik\nmaja!\n{07 16 00}Nii madalate lagedega{01 00 00 05 00}\npead sa kogu aeg lakke\npead ära lööma!"
   },
   {
    "id": 4,
@@ -89,7 +89,7 @@
   {
    "id": 17,
    "en": "{07 00 00}You've got housemates\nliving with you, eh,{01 00 00 05 00}\n{04 02 00}?\nYou know, I thought about\nroomin' with {04 0e 00}...\nThat'd be pretty cool.\n{07 0f 00}But my house is too small.\nEven for just two people{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{01 00 00 05 00}{04 02 00}.\n{07 16 00}And I won't get a big\nmansion even if I save\nFOREVER! {0b 03 00}{01 00 00 05 00}{04 02 00}!",
-   "et": "{07 00 00}Sul on majakaaslased\nsinuga koos, mis,{01 00 00 05 00}\n{04 02 00}?\nTead, ma mõtlesin\n{04 0e 00}iga elamisest...\nSee oleks päris lahe.\n{07 0f 00}Aga mu maja on liiga väike.\nIsegi kahe inimese jaoks{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{01 00 00 05 00}{04 02 00}.\n{07 16 00}Ja suurt häärberit ei saa\nisegi siis, kui kogun\nIGAVESTI! {0b 03 00}{01 00 00 05 00}{04 02 00}!"
+   "et": "{07 00 00}Sul on majakaaslased\nsinuga koos, mis,{01 00 00 05 00}\n{04 02 00}?\nTead, ma mõtlesin tüübiga\nnimega {04 0e 00} elamisest...\nSee oleks päris lahe.\n{07 0f 00}Aga mu maja on liiga väike.\nIsegi kahe inimese jaoks{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{01 00 00 05 00}{04 02 00}.\n{07 16 00}Ja suurt häärberit ei saa\nisegi siis, kui kogun\nIGAVESTI! {0b 03 00}{01 00 00 05 00}{04 02 00}!"
   }
  ]
 }

@@ -9,7 +9,7 @@
   {
    "id": 1,
    "en": "{07 14 00}Hi! Nice to meet you!{01 00 00 0a 00} My\nname is {04 01 00}.{01 01 00} {07 0b 00}Uh,{01 00 00 05 00}\nwhat's your name?\n{07 00 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 14 00}Hmm?{01 00 00 05 00} {0b 03 00}{04 1f 00}?\n\n\n{07 0d 00}That sounds like the name\nof someone{01 00 00 14 00} who could eat\ntons of {04 19 00}!\n{07 00 00}I'm not {01 00 00 05 00}exactly sure what\nthat means, but it sounds\ngood! {01 00 00 05 00}Anyhoo, see you!",
-   "et": "{07 14 00}Tere! Meeldiv tutvuda!{01 00 00 0a 00} Mu\nnimi on {04 01 00}.{01 01 00} {07 0b 00}Ee,{01 00 00 05 00}\nmis sinu nimi on?\n{07 00 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 14 00}Hmm?{01 00 00 05 00} {0b 03 00}{04 1f 00}?\n\n\n{07 0d 00}See kõlab nagu kellegi nimi,{01 00 00 14 00}\nkes suudaks süüa\ntonnide viisi {04 19 00}!\n{07 00 00}Ma pole {01 00 00 05 00}päris kindel, mida\nsee tähendab, aga kõlab\nhästi! {01 00 00 05 00}Igatahes, näeme!"
+   "et": "{07 14 00}Tere! Meeldiv tutvuda!{01 00 00 0a 00} Mu\nnimi on {04 01 00}.{01 01 00} {07 0b 00}Ee,{01 00 00 05 00}\nmis sinu nimi on?\n{07 00 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 14 00}Hmm?{01 00 00 05 00} {0b 03 00}{04 1f 00}?\n\n\n{07 0d 00}See kõlab nagu kellegi nimi,{01 00 00 14 00}\nkes suudaks süüa\ntonnide kaupa {04 19 00}!\n{07 00 00}Ma pole {01 00 00 05 00}päris kindel, mida\nsee tähendab, aga kõlab\nhästi! {01 00 00 05 00}Igatahes, näeme!"
   },
   {
    "id": 2,
@@ -24,12 +24,12 @@
   {
    "id": 4,
    "en": "{07 00 00}Hey,{01 00 00 0a 00} I'm {04 01 00},\n{01 00 00 05 00}{04 02 00}.\n\n{07 15 00}And I brought my stylin'\nself {01 00 00 05 00}all the way from\n{ff 00 00 08}{04 10 00}{ff 00 00 00}.\n{07 00 00}My favorite thing to do is\n{04 22 00} while\neating.\n{07 0d 00}Also,{01 00 00 0a 00} I'll always have a\nhomemade {04 19 00}{01 00 00 05 00}\nwith your name on it.{01 00 00 0a 00}\n{07 14 00}So,{01 00 00 0a 00} stop by, OK? I'll be\nseeing you around,{01 00 00 0a 00}\n{04 02 00}!",
-   "et": "{07 00 00}Hei,{01 00 00 0a 00} olen {04 01 00},\n{01 00 00 05 00}{04 02 00}.\n\n{07 15 00}Ja tõin oma stiilse ise\n{01 00 00 05 00}kogu tee linnast\n{ff 00 00 08}{04 10 00}{ff 00 00 00}.\n{07 00 00}Kõige meelsamini teen ma\n{04 22 00} samal ajal\nkui söön.\n{07 0d 00}Ja{01 00 00 0a 00} mul on alati sinu\nnimega kodune {04 19 00}{01 00 00 05 00}\nvalmis.{01 00 00 0a 00}\n{07 14 00}Põika läbi, eks?{01 00 00 0a 00} Näeme\nveel,{01 00 00 0a 00}\n{04 02 00}!"
+   "et": "{07 00 00}Hei,{01 00 00 0a 00} olen {04 01 00},\n{01 00 00 05 00}{04 02 00}.\n\n{07 15 00}Ja tõin oma stiilse isendi\n{01 00 00 05 00}kogu tee linnast\n{ff 00 00 08}{04 10 00}{ff 00 00 00}.\n{07 00 00}Kõige meelsamini teen ma\n{04 22 00} samal ajal\nkui söön.\n{07 0d 00}Ja{01 00 00 0a 00} mul on alati sinu\nnimega kodune {04 19 00}{01 00 00 05 00}\nvalmis.{01 00 00 0a 00}\n{07 14 00}Põika läbi, eks?{01 00 00 0a 00} Näeme\nveel,{01 00 00 0a 00}\n{04 02 00}!"
   },
   {
    "id": 5,
    "en": "Hi.{01 00 00 0a 00} I'm from {ff 00 00 08}{04 10 00}{ff 00 00 00},\nand my name is\n{04 01 00},{01 00 00 05 00} {04 02 00}.\n{07 14 00}I wanna see {04 0f 00} in\nthe night sky{01 00 00 0a 00}, only\nupside down!\n{07 0b 00}Huh?{01 00 00 0a 00} You wanna know how\nI'm gonna do that?{01 01 00} .{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 14 00}Duh!{01 00 00 0a 00}\nI'll do a handstand!",
-   "et": "Tere.{01 00 00 0a 00} Tulin linnast\n{ff 00 00 08}{04 10 00}{ff 00 00 00} ja mu nimi on\n{04 01 00},{01 00 00 05 00} {04 02 00}.\n{07 14 00}Tahan näha {04 0f 00}\nööt aevas{01 00 00 0a 00}, ainult\ntagurpidi!\n{07 0b 00}Ah?{01 00 00 0a 00} Tahad teada, kuidas\nma seda teen?{01 01 00} .{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 14 00}Noh!{01 00 00 0a 00}\nTeen kättesseisu!"
+   "et": "Tere.{01 00 00 0a 00} Tulin linnast\n{ff 00 00 08}{04 10 00}{ff 00 00 00} ja mu nimi on\n{04 01 00},{01 00 00 05 00} {04 02 00}.\n{07 14 00}Tahan näha {04 0f 00}\nöötaevas{01 00 00 0a 00}, ainult\ntagurpidi!\n{07 0b 00}Ah?{01 00 00 0a 00} Tahad teada, kuidas\nma seda teen?{01 01 00} .{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 14 00}Noh!{01 00 00 0a 00}\nTeen kättesseisu!"
   },
   {
    "id": 7,

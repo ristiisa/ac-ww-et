@@ -4,7 +4,7 @@
   {
    "id": 0,
    "en": "{07 00 00}Oh, maaaannn...{07 09 00}{01 00 00 14 00}I wonder if\nthat dude {ff 00 00 06}Nook{ff 00 00 00} sells land\nlegs.\n{07 00 00}Hey, mannnnn{01 00 00 05 00}{07 0b 00}, like, you\nmind if I share some\nwisdom, maaannn?{02 04 00 ff 05}\nGo wild.\nPlease, no!",
-   "et": "{07 00 00}Oh, meeees...{07 09 00}{01 00 00 14 00}Huvitav, kas\nsee sell {ff 00 00 06}Nook{ff 00 00 00} müüb\nmaajalgu.\n{07 00 00}Kuule, meeees{01 00 00 05 00}{07 0b 00}, kas sa\npahandad, kui ma jagan\nveidi tarkust, meeees?{02 04 00 ff 05}\nLase käia.\nPalun, ära!"
+   "et": "{07 00 00}Oh, meeees...{07 09 00}{01 00 00 14 00}Huvitav, kas\nsee semu {ff 00 00 06}Nook{ff 00 00 00} müüb\nmaajalgu.\n{07 00 00}Kuule, meeees{01 00 00 05 00}{07 0b 00}, kas sa\npahandad, kui ma jagan\nveidi tarkust, meeees?{02 04 00 ff 05}\nLase käia.\nPalun, ära!"
   },
   {
    "id": 1,
@@ -14,7 +14,7 @@
   {
    "id": 2,
    "en": "{07 0e 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.Scallops, mannn. Scallops.{02 01 00 03 03 04}\nHuh?!\nWhat?\nYa want one?",
-   "et": "{07 0e 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.Karbid, meeees. Karbid.{02 01 00 03 03 04}\nAh?!\nMida?\nTahad üht?"
+   "et": "{07 0e 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.Kammkarbid, meeees. Kammkarbid.{02 01 00 03 03 04}\nAh?!\nMida?\nTahad üht?"
   },
   {
    "id": 3,
@@ -24,7 +24,7 @@
   {
    "id": 4,
    "en": "{07 00 00}{01 00 00 0a 00}Scallops, maaannn. Scallops.",
-   "et": "{07 00 00}{01 00 00 0a 00}Karbid, meeees. Karbid."
+   "et": "{07 00 00}{01 00 00 0a 00}Kammkarbid, meeees. Kammkarbid."
   },
   {
    "id": 5,
@@ -44,7 +44,7 @@
   {
    "id": 8,
    "en": "{07 00 00}Dude, maaannn, did you drop\na{01 00 00 05 00} {ff 00 00 07}golden axe{ff 00 00 00} or a\n{ff 00 00 07}silver axe{ff 00 00 00}? {07 0b 00}Or what, maann?{02 01 00 0b 09 0a}\nGold!\nSilver! \nUhh...what?",
-   "et": "{07 00 00}Semu, meeees, kas sa\npillasid{01 00 00 05 00} {ff 00 00 07}kuldkirve{ff 00 00 00} või\n{ff 00 00 07}hõbekirve{ff 00 00 00}? {07 0b 00}Või mida, meees?{02 01 00 0b 09 0a}\nKulla!\nHõbeda! \nÖö...mida?"
+   "et": "{07 00 00}Semu, meeees, kas sa\npillasid{01 00 00 05 00} {ff 00 00 07}kuldkirve{ff 00 00 00} või\n{ff 00 00 07}hõbekirve{ff 00 00 00}? {07 0b 00}Või mida, meees?{02 01 00 0b 09 0a}\nKulda!\nHõbeda! \nÖö...mida?"
   },
   {
    "id": 9,
@@ -164,7 +164,7 @@
   {
    "id": 32,
    "en": "\n{07 16 00}.{01 00 00 01 00}.{01 00 00 01 00}.{01 00 00 01 00}.{01 00 00 01 00}.{01 00 00 01 00}.{01 00 00 01 00}.{01 00 00 01 00}.{01 00 00 01 00}.{07 0c 00}{01 00 00 0f 00}\n{ff 00 00 02}\n{07 16 00}Sandpipers live life on the\nedge, maaannn.",
-   "et": "\n{07 16 00}.{01 00 00 01 00}.{01 00 00 01 00}.{01 00 00 01 00}.{01 00 00 01 00}.{01 00 00 01 00}.{01 00 00 01 00}.{01 00 00 01 00}.{01 00 00 01 00}.{07 0c 00}{01 00 00 0f 00}\n{ff 00 00 02}\n{07 16 00}Rannatüllid elavad elu\nservas, meeees."
+   "et": "\n{07 16 00}.{01 00 00 01 00}.{01 00 00 01 00}.{01 00 00 01 00}.{01 00 00 01 00}.{01 00 00 01 00}.{01 00 00 01 00}.{01 00 00 01 00}.{01 00 00 01 00}.{07 0c 00}{01 00 00 0f 00}\n{ff 00 00 02}\n{07 16 00}Rannatüllid elavad elu\nserva peal, meeees."
   },
   {
    "id": 33,
@@ -279,7 +279,7 @@
   {
    "id": 55,
    "en": "\n{07 16 00}.{01 00 00 01 00}.{01 00 00 01 00}.{01 00 00 01 00}.{01 00 00 01 00}.{01 00 00 01 00}.{01 00 00 01 00}.{01 00 00 01 00}.{01 00 00 01 00}.{07 0c 00}{01 00 00 0f 00}\n\n{ff 00 00 02}{07 16 00}Maaannn, how deep is a \nleague? No, really{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}",
-   "et": "\n{07 16 00}.{01 00 00 01 00}.{01 00 00 01 00}.{01 00 00 01 00}.{01 00 00 01 00}.{01 00 00 01 00}.{01 00 00 01 00}.{01 00 00 01 00}.{01 00 00 01 00}.{07 0c 00}{01 00 00 0f 00}\n\n{ff 00 00 02}{07 16 00}Meeees, kui sügav on üks \nmeremiil? Ei, tõesti{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}"
+   "et": "\n{07 16 00}.{01 00 00 01 00}.{01 00 00 01 00}.{01 00 00 01 00}.{01 00 00 01 00}.{01 00 00 01 00}.{01 00 00 01 00}.{01 00 00 01 00}.{01 00 00 01 00}.{07 0c 00}{01 00 00 0f 00}\n\n{ff 00 00 02}{07 16 00}Meeees, kui sügav on üks \nljöö? Ei, tõesti{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}"
   },
   {
    "id": 56,
@@ -304,7 +304,7 @@
   {
    "id": 60,
    "en": "\n{07 16 00}.{01 00 00 01 00}.{01 00 00 01 00}.{01 00 00 01 00}.{01 00 00 01 00}.{01 00 00 01 00}.{01 00 00 01 00}.{01 00 00 01 00}.{01 00 00 01 00}.{07 0c 00}{01 00 00 0f 00}\n\n{ff 00 00 02}{07 16 00}The currents of life are\nunpredictable, maaannn.\nJust watch out for riptide.",
-   "et": "\n{07 16 00}.{01 00 00 01 00}.{01 00 00 01 00}.{01 00 00 01 00}.{01 00 00 01 00}.{01 00 00 01 00}.{01 00 00 01 00}.{01 00 00 01 00}.{01 00 00 01 00}.{07 0c 00}{01 00 00 0f 00}\n\n{ff 00 00 02}{07 16 00}Elu hoovused on\nettearvamatud, meeees.\nHoidu vaid murdlainest."
+   "et": "\n{07 16 00}.{01 00 00 01 00}.{01 00 00 01 00}.{01 00 00 01 00}.{01 00 00 01 00}.{01 00 00 01 00}.{01 00 00 01 00}.{01 00 00 01 00}.{01 00 00 01 00}.{07 0c 00}{01 00 00 0f 00}\n\n{ff 00 00 02}{07 16 00}Elu hoovused on\nettearvamatud, meeees.\nHoidu vaid tõmbehoovuse eest."
   },
   {
    "id": 61,
@@ -409,7 +409,7 @@
   {
    "id": 81,
    "en": "\n{07 16 00}.{01 00 00 01 00}.{01 00 00 01 00}.{01 00 00 01 00}.{01 00 00 01 00}.{01 00 00 01 00}.{01 00 00 01 00}.{01 00 00 01 00}.{01 00 00 01 00}.{07 0c 00}{01 00 00 0f 00}\n\n{ff 00 00 02}{07 16 00}If you think about it,{01 00 00 0a 00}\nmaaaannn, {01 00 00 0a 00}the ocean is all\nsalty and full of fish.\nIt's, {01 00 00 0a 00}like, {01 00 00 0a 00}this HUGE bowl of\nsoup{01 00 00 0a 00}.{01 00 00 0a 00}.{01 00 00 0a 00}.{01 00 00 0a 00} Just needs a little\nheating, {01 00 00 0a 00}maaannnn.",
-   "et": "\n{07 16 00}.{01 00 00 01 00}.{01 00 00 01 00}.{01 00 00 01 00}.{01 00 00 01 00}.{01 00 00 01 00}.{01 00 00 01 00}.{01 00 00 01 00}.{01 00 00 01 00}.{07 0c 00}{01 00 00 0f 00}\n\n{ff 00 00 02}{07 16 00}Kui järele mõelda,{01 00 00 0a 00}\nmeeeees, {01 00 00 0a 00}on ookean kõik\nsoolane ja kalu täis.\nSee on, {01 00 00 0a 00}nagu, {01 00 00 0a 00}HIIGLASLIK\nsuppi{01 00 00 0a 00}.{01 00 00 0a 00}.{01 00 00 0a 00}.{01 00 00 0a 00} Vajab ainult veidi\nsoojendamist, {01 00 00 0a 00}meeeees."
+   "et": "\n{07 16 00}.{01 00 00 01 00}.{01 00 00 01 00}.{01 00 00 01 00}.{01 00 00 01 00}.{01 00 00 01 00}.{01 00 00 01 00}.{01 00 00 01 00}.{01 00 00 01 00}.{07 0c 00}{01 00 00 0f 00}\n\n{ff 00 00 02}{07 16 00}Kui järele mõelda,{01 00 00 0a 00}\nmeeeees, {01 00 00 0a 00}on ookean kõik\nsoolane ja kalu täis.\nSee on, {01 00 00 0a 00}nagu, {01 00 00 0a 00}HIIGLASLIK kauss\nsuppi{01 00 00 0a 00}.{01 00 00 0a 00}.{01 00 00 0a 00}.{01 00 00 0a 00} Vajab ainult veidi\nsoojendamist, {01 00 00 0a 00}meeeees."
   },
   {
    "id": 82,
@@ -454,7 +454,7 @@
   {
    "id": 90,
    "en": "\n{07 16 00}.{01 00 00 01 00}.{01 00 00 01 00}.{01 00 00 01 00}.{01 00 00 01 00}.{01 00 00 01 00}.{01 00 00 01 00}.{01 00 00 01 00}.{01 00 00 01 00}.{07 0c 00}{01 00 00 0f 00}\n\n{ff 00 00 02}{07 16 00}Maaannn, jellyfish don't\ntaste anything like pudding.\nLike, don't even try it.",
-   "et": "\n{07 16 00}.{01 00 00 01 00}.{01 00 00 01 00}.{01 00 00 01 00}.{01 00 00 01 00}.{01 00 00 01 00}.{01 00 00 01 00}.{01 00 00 01 00}.{01 00 00 01 00}.{07 0c 00}{01 00 00 0f 00}\n\n{ff 00 00 02}{07 16 00}Meeees, meduusid ei maitse\nüldse nagu pudingu.\nNagu, ära isegi proovi."
+   "et": "\n{07 16 00}.{01 00 00 01 00}.{01 00 00 01 00}.{01 00 00 01 00}.{01 00 00 01 00}.{01 00 00 01 00}.{01 00 00 01 00}.{01 00 00 01 00}.{01 00 00 01 00}.{07 0c 00}{01 00 00 0f 00}\n\n{ff 00 00 02}{07 16 00}Meeees, meduusid ei maitse\nüldse nagu puding.\nNagu, ära isegi proovi."
   },
   {
    "id": 91,
@@ -529,7 +529,7 @@
   {
    "id": 105,
    "en": "\n{07 16 00}.{01 00 00 01 00}.{01 00 00 01 00}.{01 00 00 01 00}.{01 00 00 01 00}.{01 00 00 01 00}.{01 00 00 01 00}.{01 00 00 01 00}.{01 00 00 01 00}.{07 0c 00}{01 00 00 0f 00}\n\n{ff 00 00 02}{07 16 00}So the other day, this\ndude came knockin' on my\ndoor.\nHe said, \"Open up, bro! It's\nOpportunity!\"\n\nAnd I said, \"Dude, you'll be\nback!\" And he never came\nback, maaannn.",
-   "et": "\n{07 16 00}.{01 00 00 01 00}.{01 00 00 01 00}.{01 00 00 01 00}.{01 00 00 01 00}.{01 00 00 01 00}.{01 00 00 01 00}.{01 00 00 01 00}.{01 00 00 01 00}.{07 0c 00}{01 00 00 0f 00}\n\n{ff 00 00 02}{07 16 00}Siis üks päev tuli üks\nsell mu uksele\nkoputama.\nTa ütles: „Tee lahti, semu!\nSee on Võimalus!”\n\nJa ma ütlesin: „Semu, sa\ntuled tagasi!” Ja ta ei\ntulnud iial tagasi, meeees."
+   "et": "\n{07 16 00}.{01 00 00 01 00}.{01 00 00 01 00}.{01 00 00 01 00}.{01 00 00 01 00}.{01 00 00 01 00}.{01 00 00 01 00}.{01 00 00 01 00}.{01 00 00 01 00}.{07 0c 00}{01 00 00 0f 00}\n\n{ff 00 00 02}{07 16 00}Ühel päeval tuli üks\ntüüp mu uksele\nkoputama.\nTa ütles: „Tee lahti, semu!\nSee on Võimalus!”\n\nJa ma ütlesin: „Semu, sa\ntuled tagasi!” Ja ta ei\ntulnud iial tagasi, meeees."
   },
   {
    "id": 106,
@@ -544,7 +544,7 @@
   {
    "id": 108,
    "en": "\n{07 16 00}.{01 00 00 01 00}.{01 00 00 01 00}.{01 00 00 01 00}.{01 00 00 01 00}.{01 00 00 01 00}.{01 00 00 01 00}.{01 00 00 01 00}.{01 00 00 01 00}.{07 0c 00}{01 00 00 0f 00}\n\n{07 16 00}{ff 00 00 02}{07 16 00}So the other day, this\ndude came knockin' on my\ndoor.\nHe said, \"Open up, maaannn!\nIt's Destiny!\"\n\nAnd, maaannn, I hid in the\ncloset.",
-   "et": "\n{07 16 00}.{01 00 00 01 00}.{01 00 00 01 00}.{01 00 00 01 00}.{01 00 00 01 00}.{01 00 00 01 00}.{01 00 00 01 00}.{01 00 00 01 00}.{01 00 00 01 00}.{07 0c 00}{01 00 00 0f 00}\n\n{07 16 00}{ff 00 00 02}{07 16 00}Siis üks päev tuli üks\nsell mu uksele\nkoputama.\nTa ütles: „Tee lahti,\nmeeees! See on Saatus!”\n\nJa, meeees, ma peitsin end\nkappi."
+   "et": "\n{07 16 00}.{01 00 00 01 00}.{01 00 00 01 00}.{01 00 00 01 00}.{01 00 00 01 00}.{01 00 00 01 00}.{01 00 00 01 00}.{01 00 00 01 00}.{01 00 00 01 00}.{07 0c 00}{01 00 00 0f 00}\n\n{07 16 00}{ff 00 00 02}{07 16 00}Ühel päeval tuli üks\ntüüp mu uksele\nkoputama.\nTa ütles: „Tee lahti,\nmeeees! See on Saatus!”\n\nJa, meeees, ma peitsin end\nkappi."
   },
   {
    "id": 109,
@@ -569,7 +569,7 @@
   {
    "id": 113,
    "en": "\n{07 16 00}.{01 00 00 01 00}.{01 00 00 01 00}.{01 00 00 01 00}.{01 00 00 01 00}.{01 00 00 01 00}.{01 00 00 01 00}.{01 00 00 01 00}.{01 00 00 01 00}.{07 0c 00}{01 00 00 0f 00}\n\n{ff 00 00 02}{07 16 00}Oh, maaannn, if you crack\nunder pressure, don't go to\nthe bottom of the sea.",
-   "et": "\n{07 16 00}.{01 00 00 01 00}.{01 00 00 01 00}.{01 00 00 01 00}.{01 00 00 01 00}.{01 00 00 01 00}.{01 00 00 01 00}.{01 00 00 01 00}.{01 00 00 01 00}.{07 0c 00}{01 00 00 0f 00}\n\n{ff 00 00 02}{07 16 00}Oh meeees, kui sa surve all\nmuretsed, siis ära mine\nmere põhja."
+   "et": "\n{07 16 00}.{01 00 00 01 00}.{01 00 00 01 00}.{01 00 00 01 00}.{01 00 00 01 00}.{01 00 00 01 00}.{01 00 00 01 00}.{01 00 00 01 00}.{01 00 00 01 00}.{07 0c 00}{01 00 00 0f 00}\n\n{ff 00 00 02}{07 16 00}Oh meeees, kui sa surve all\nmurened, siis ära mine\nmere põhja."
   },
   {
    "id": 114,
@@ -619,7 +619,7 @@
   {
    "id": 123,
    "en": "\n{07 16 00}.{01 00 00 01 00}.{01 00 00 01 00}.{01 00 00 01 00}.{01 00 00 01 00}.{01 00 00 01 00}.{01 00 00 01 00}.{01 00 00 01 00}.{01 00 00 01 00}.{07 0c 00}{01 00 00 0f 00}\n\n{ff 00 00 02}{07 16 00}Ask any barnacle, maaannn.\nSometimes you gotta, like,\nstick together.",
-   "et": "\n{07 16 00}.{01 00 00 01 00}.{01 00 00 01 00}.{01 00 00 01 00}.{01 00 00 01 00}.{01 00 00 01 00}.{01 00 00 01 00}.{01 00 00 01 00}.{01 00 00 01 00}.{07 0c 00}{01 00 00 0f 00}\n\n{ff 00 00 02}{07 16 00}Küsi ükskõik milliselt\nmerikõrvalt, meeees. Vahel\nsa, nagu, kokku hoidma."
+   "et": "\n{07 16 00}.{01 00 00 01 00}.{01 00 00 01 00}.{01 00 00 01 00}.{01 00 00 01 00}.{01 00 00 01 00}.{01 00 00 01 00}.{01 00 00 01 00}.{01 00 00 01 00}.{07 0c 00}{01 00 00 0f 00}\n\n{ff 00 00 02}{07 16 00}Küsi ükskõik milliselt\nkilpkarbilt, meeees. Vahel\npead, nagu, koos hoidma."
   },
   {
    "id": 124,
@@ -684,7 +684,7 @@
   {
    "id": 136,
    "en": "\n{07 16 00}.{01 00 00 01 00}.{01 00 00 01 00}.{01 00 00 01 00}.{01 00 00 01 00}.{01 00 00 01 00}.{01 00 00 01 00}.{01 00 00 01 00}.{01 00 00 01 00}.{07 0c 00}{01 00 00 0f 00}\n\n{ff 00 00 02}{07 16 00}Even a pearl will get\nscratched if you polish it\ntoo much, maaannn.",
-   "et": "\n{07 16 00}.{01 00 00 01 00}.{01 00 00 01 00}.{01 00 00 01 00}.{01 00 00 01 00}.{01 00 00 01 00}.{01 00 00 01 00}.{01 00 00 01 00}.{01 00 00 01 00}.{07 0c 00}{01 00 00 0f 00}\n\n{ff 00 00 02}{07 16 00}Isegi pärl saab kriimustada,\nkui sa teda liiga palju\nlihvid, meeees."
+   "et": "\n{07 16 00}.{01 00 00 01 00}.{01 00 00 01 00}.{01 00 00 01 00}.{01 00 00 01 00}.{01 00 00 01 00}.{01 00 00 01 00}.{01 00 00 01 00}.{01 00 00 01 00}.{07 0c 00}{01 00 00 0f 00}\n\n{ff 00 00 02}{07 16 00}Isegi pärl saab kriime,\nkui seda liiga palju\nlihvida, meeees."
   },
   {
    "id": 137,
@@ -719,12 +719,12 @@
   {
    "id": 143,
    "en": "\n{07 16 00}.{01 00 00 01 00}.{01 00 00 01 00}.{01 00 00 01 00}.{01 00 00 01 00}.{01 00 00 01 00}.{01 00 00 01 00}.{01 00 00 01 00}.{01 00 00 01 00}.{07 0c 00}{01 00 00 0f 00}\n\n{ff 00 00 02}{07 16 00}Don't go trying to buy\nstuff from Tom Nook with\nsand dollars, maaannn.",
-   "et": "\n{07 16 00}.{01 00 00 01 00}.{01 00 00 01 00}.{01 00 00 01 00}.{01 00 00 01 00}.{01 00 00 01 00}.{01 00 00 01 00}.{01 00 00 01 00}.{01 00 00 01 00}.{07 0c 00}{01 00 00 0f 00}\n\n{ff 00 00 02}{07 16 00}Ära ürita Tom Nookilt\nkraami osta\nmerisiilikutega, meeees."
+   "et": "\n{07 16 00}.{01 00 00 01 00}.{01 00 00 01 00}.{01 00 00 01 00}.{01 00 00 01 00}.{01 00 00 01 00}.{01 00 00 01 00}.{01 00 00 01 00}.{01 00 00 01 00}.{07 0c 00}{01 00 00 0f 00}\n\n{ff 00 00 02}{07 16 00}Ära ürita Tom Nookilt\nkraami osta\nliivadollaritega, meeees."
   },
   {
    "id": 144,
    "en": "\n{07 16 00}.{01 00 00 01 00}.{01 00 00 01 00}.{01 00 00 01 00}.{01 00 00 01 00}.{01 00 00 01 00}.{01 00 00 01 00}.{01 00 00 01 00}.{01 00 00 01 00}.{07 0c 00}{01 00 00 0f 00}\n\n{ff 00 00 02}{07 16 00}I knew this barnacle once\nnamed Bob, maaannn.\n\nBut then I discovered that\nthey're all named Bob.",
-   "et": "\n{07 16 00}.{01 00 00 01 00}.{01 00 00 01 00}.{01 00 00 01 00}.{01 00 00 01 00}.{01 00 00 01 00}.{01 00 00 01 00}.{01 00 00 01 00}.{01 00 00 01 00}.{07 0c 00}{01 00 00 0f 00}\n\n{ff 00 00 02}{07 16 00}Ma tundsin kord üht\nmerikõrva nimega Bob,\nmeeees. \nAga siis avastasin, et\nnad on kõik nimega Bob."
+   "et": "\n{07 16 00}.{01 00 00 01 00}.{01 00 00 01 00}.{01 00 00 01 00}.{01 00 00 01 00}.{01 00 00 01 00}.{01 00 00 01 00}.{01 00 00 01 00}.{01 00 00 01 00}.{07 0c 00}{01 00 00 0f 00}\n\n{ff 00 00 02}{07 16 00}Ma tundsin kord üht\nkilpkarpi nimega Bob,\nmeeees. \nAga siis avastasin, et\nnad on kõik nimega Bob."
   },
   {
    "id": 145,
@@ -739,7 +739,7 @@
   {
    "id": 147,
    "en": "\n{07 16 00}.{01 00 00 01 00}.{01 00 00 01 00}.{01 00 00 01 00}.{01 00 00 01 00}.{01 00 00 01 00}.{01 00 00 01 00}.{01 00 00 01 00}.{01 00 00 01 00}.{07 0c 00}{01 00 00 0f 00}\n\n{ff 00 00 02}{07 16 00}Philosophy is like gorp for\nyour mind, maaaannn.",
-   "et": "\n{07 16 00}.{01 00 00 01 00}.{01 00 00 01 00}.{01 00 00 01 00}.{01 00 00 01 00}.{01 00 00 01 00}.{01 00 00 01 00}.{01 00 00 01 00}.{01 00 00 01 00}.{07 0c 00}{01 00 00 0f 00}\n\n{ff 00 00 02}{07 16 00}Filosoofia on nagu näts\nsinu ajule, meeeees."
+   "et": "\n{07 16 00}.{01 00 00 01 00}.{01 00 00 01 00}.{01 00 00 01 00}.{01 00 00 01 00}.{01 00 00 01 00}.{01 00 00 01 00}.{01 00 00 01 00}.{01 00 00 01 00}.{07 0c 00}{01 00 00 0f 00}\n\n{ff 00 00 02}{07 16 00}Filosoofia on nagu matkasegu\nsinu ajule, meeeees."
   },
   {
    "id": 148,
@@ -829,12 +829,12 @@
   {
    "id": 165,
    "en": "\n{07 16 00}.{01 00 00 01 00}.{01 00 00 01 00}.{01 00 00 01 00}.{01 00 00 01 00}.{01 00 00 01 00}.{01 00 00 01 00}.{01 00 00 01 00}.{01 00 00 01 00}.{07 0c 00}{01 00 00 0f 00}\n\n{ff 00 00 02}{07 16 00}Maaannn, I've never met a\nhumuhumunukunukuapuaa that\ncould spell its own name.",
-   "et": "\n{07 16 00}.{01 00 00 01 00}.{01 00 00 01 00}.{01 00 00 01 00}.{01 00 00 01 00}.{01 00 00 01 00}.{01 00 00 01 00}.{01 00 00 01 00}.{01 00 00 01 00}.{07 0c 00}{01 00 00 0f 00}\n\n{ff 00 00 02}{07 16 00}Meeees, ma pole kohanud\nhumuhumunukunukuapuaad,\nsuudaks oma nime kirjutada."
+   "et": "\n{07 16 00}.{01 00 00 01 00}.{01 00 00 01 00}.{01 00 00 01 00}.{01 00 00 01 00}.{01 00 00 01 00}.{01 00 00 01 00}.{01 00 00 01 00}.{01 00 00 01 00}.{07 0c 00}{01 00 00 0f 00}\n\n{ff 00 00 02}{07 16 00}Meeees, ma pole kohanud\nhumuhumunukunukuapuaad,\nkes suudaks oma nime kirjutada."
   },
   {
    "id": 166,
    "en": "\n{07 16 00}.{01 00 00 01 00}.{01 00 00 01 00}.{01 00 00 01 00}.{01 00 00 01 00}.{01 00 00 01 00}.{01 00 00 01 00}.{01 00 00 01 00}.{01 00 00 01 00}.{07 0c 00}{01 00 00 0f 00}\n\n{ff 00 00 02}{07 16 00}Some diamonds{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 14 00}are used\nto cut other diamonds.\nStew on that, maaannn.",
-   "et": "\n{07 16 00}.{01 00 00 01 00}.{01 00 00 01 00}.{01 00 00 01 00}.{01 00 00 01 00}.{01 00 00 01 00}.{01 00 00 01 00}.{01 00 00 01 00}.{01 00 00 01 00}.{07 0c 00}{01 00 00 0f 00}\n\n{ff 00 00 02}{07 16 00}Mõne teemantiga{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 14 00}lõigatakse\nteisi teemante.\nHauduge selle üle, meeees."
+   "et": "\n{07 16 00}.{01 00 00 01 00}.{01 00 00 01 00}.{01 00 00 01 00}.{01 00 00 01 00}.{01 00 00 01 00}.{01 00 00 01 00}.{01 00 00 01 00}.{01 00 00 01 00}.{07 0c 00}{01 00 00 0f 00}\n\n{ff 00 00 02}{07 16 00}Mõne teemantiga{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 14 00}lõigatakse\nteisi teemante.\nMõtle selle üle, meeees."
   },
   {
    "id": 167,
@@ -984,7 +984,7 @@
   {
    "id": 196,
    "en": "\n{07 16 00}.{01 00 00 01 00}.{01 00 00 01 00}.{01 00 00 01 00}.{01 00 00 01 00}.{01 00 00 01 00}.{01 00 00 01 00}.{01 00 00 01 00}.{01 00 00 01 00}.{07 0c 00}{01 00 00 0f 00}\n\n{ff 00 00 02}{07 16 00}Why do pirates make people\nwalk the plank, maaannn?\n\nCan't they let them use the\nship's waterslide?",
-   "et": "\n{07 16 00}.{01 00 00 01 00}.{01 00 00 01 00}.{01 00 00 01 00}.{01 00 00 01 00}.{01 00 00 01 00}.{01 00 00 01 00}.{01 00 00 01 00}.{01 00 00 01 00}.{07 0c 00}{01 00 00 0f 00}\n\n{ff 00 00 02}{07 16 00}Miks panevad piraadid\ninimesi mööda planku\nkõndima, meeees? \nKas nad ei võiks lasta neil\nkasutada laeva veetoru?"
+   "et": "\n{07 16 00}.{01 00 00 01 00}.{01 00 00 01 00}.{01 00 00 01 00}.{01 00 00 01 00}.{01 00 00 01 00}.{01 00 00 01 00}.{01 00 00 01 00}.{01 00 00 01 00}.{07 0c 00}{01 00 00 0f 00}\n\n{ff 00 00 02}{07 16 00}Miks panevad piraadid\ninimesi mööda planku\nkõndima, meeees? \nKas nad ei võiks lasta neil\nkasutada laeva veeliumäge?"
   },
   {
    "id": 197,
@@ -1014,7 +1014,7 @@
   {
    "id": 202,
    "en": "\n{07 16 00}.{01 00 00 01 00}.{01 00 00 01 00}.{01 00 00 01 00}.{01 00 00 01 00}.{01 00 00 01 00}.{01 00 00 01 00}.{01 00 00 01 00}.{01 00 00 01 00}.{07 0c 00}{01 00 00 0f 00}\n\n{ff 00 00 02}{07 16 00}People, maaannn. They do\nthe craziest stuff at the\nbeach.\nOne time, I saw this dude\nwaving this metal stick\nover the ground.\nI mean, maaannn{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}",
-   "et": "\n{07 16 00}.{01 00 00 01 00}.{01 00 00 01 00}.{01 00 00 01 00}.{01 00 00 01 00}.{01 00 00 01 00}.{01 00 00 01 00}.{01 00 00 01 00}.{01 00 00 01 00}.{07 0c 00}{01 00 00 0f 00}\n\n{ff 00 00 02}{07 16 00}Inimesed, meeees. Nad\nteevad rannas kõige\nhullemat kraami.\nKord nägin, kuidas üks sell\nliigutas metallpulka\nmaapinna kohal.\nMa mõtlen, meeees{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}"
+   "et": "\n{07 16 00}.{01 00 00 01 00}.{01 00 00 01 00}.{01 00 00 01 00}.{01 00 00 01 00}.{01 00 00 01 00}.{01 00 00 01 00}.{01 00 00 01 00}.{01 00 00 01 00}.{07 0c 00}{01 00 00 0f 00}\n\n{ff 00 00 02}{07 16 00}Inimesed, meeees. Nad\nteevad rannas kõige\nhullemat kraami.\nKord nägin, kuidas üks tüüp\nliigutas metallpulka\nmaapinna kohal.\nMa mõtlen, meeees{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}"
   },
   {
    "id": 203,
@@ -1034,7 +1034,7 @@
   {
    "id": 206,
    "en": "\n{07 16 00}.{01 00 00 01 00}.{01 00 00 01 00}.{01 00 00 01 00}.{01 00 00 01 00}.{01 00 00 01 00}.{01 00 00 01 00}.{01 00 00 01 00}.{01 00 00 01 00}.{07 0c 00}{01 00 00 0f 00}\n\n{ff 00 00 02}{07 16 00}What do crawdad kids call\ntheir dads, maaannn? Stew\non that for a while.",
-   "et": "\n{07 16 00}.{01 00 00 01 00}.{01 00 00 01 00}.{01 00 00 01 00}.{01 00 00 01 00}.{01 00 00 01 00}.{01 00 00 01 00}.{01 00 00 01 00}.{01 00 00 01 00}.{07 0c 00}{01 00 00 0f 00}\n\n{ff 00 00 02}{07 16 00}Kuidas kutsuvad vähipojad\noma isasid, meeees? Hauduge\nselle üle mõnda aega."
+   "et": "\n{07 16 00}.{01 00 00 01 00}.{01 00 00 01 00}.{01 00 00 01 00}.{01 00 00 01 00}.{01 00 00 01 00}.{01 00 00 01 00}.{01 00 00 01 00}.{01 00 00 01 00}.{07 0c 00}{01 00 00 0f 00}\n\n{ff 00 00 02}{07 16 00}Kuidas kutsuvad vähipojad\noma isasid, meeees? Mõtle\nselle üle mõnda aega."
   },
   {
    "id": 207,
@@ -1044,7 +1044,7 @@
   {
    "id": 208,
    "en": "\n{07 16 00}.{01 00 00 01 00}.{01 00 00 01 00}.{01 00 00 01 00}.{01 00 00 01 00}.{01 00 00 01 00}.{01 00 00 01 00}.{01 00 00 01 00}.{01 00 00 01 00}.{07 0c 00}{01 00 00 0f 00}\n\n{ff 00 00 02}{07 16 00}Maaannnn, you gotta be open\nminded.\n\nAlbatrosses aren't so bad\nonce you get to know 'em.",
-   "et": "\n{07 16 00}.{01 00 00 01 00}.{01 00 00 01 00}.{01 00 00 01 00}.{01 00 00 01 00}.{01 00 00 01 00}.{01 00 00 01 00}.{01 00 00 01 00}.{01 00 00 01 00}.{07 0c 00}{01 00 00 0f 00}\n\n{ff 00 00 02}{07 16 00}Meeeees, sa pead olema\navatud meelega.\n\nAlbatrossid pole nii hullud,\nkui sa neid tundma õpid."
+   "et": "\n{07 16 00}.{01 00 00 01 00}.{01 00 00 01 00}.{01 00 00 01 00}.{01 00 00 01 00}.{01 00 00 01 00}.{01 00 00 01 00}.{01 00 00 01 00}.{01 00 00 01 00}.{07 0c 00}{01 00 00 0f 00}\n\n{ff 00 00 02}{07 16 00}Meeeees, sa pead olema\navameelne.\n\nAlbatrossid pole nii hullud,\nkui sa neid tundma õpid."
   },
   {
    "id": 209,
@@ -1174,7 +1174,7 @@
   {
    "id": 234,
    "en": "\n{07 16 00}.{01 00 00 01 00}.{01 00 00 01 00}.{01 00 00 01 00}.{01 00 00 01 00}.{01 00 00 01 00}.{01 00 00 01 00}.{01 00 00 01 00}.{01 00 00 01 00}.{07 0c 00}{01 00 00 0f 00}\n\n{ff 00 00 02}{07 16 00}Life is like the tides,\nmaaannn. You got your highs\nand you got your lows.",
-   "et": "\n{07 16 00}.{01 00 00 01 00}.{01 00 00 01 00}.{01 00 00 01 00}.{01 00 00 01 00}.{01 00 00 01 00}.{01 00 00 01 00}.{01 00 00 01 00}.{01 00 00 01 00}.{07 0c 00}{01 00 00 0f 00}\n\n{ff 00 00 02}{07 16 00}Elu on nagu loeted,\nmeeees. Sul on oma tõusud\nja sul on oma mõõnad."
+   "et": "\n{07 16 00}.{01 00 00 01 00}.{01 00 00 01 00}.{01 00 00 01 00}.{01 00 00 01 00}.{01 00 00 01 00}.{01 00 00 01 00}.{01 00 00 01 00}.{01 00 00 01 00}.{07 0c 00}{01 00 00 0f 00}\n\n{ff 00 00 02}{07 16 00}Elu on nagu meri,\nmeeees. Sul on oma tõusud\nja sul on oma mõõnad."
   },
   {
    "id": 235,
@@ -1229,7 +1229,7 @@
   {
    "id": 245,
    "en": "\n{07 16 00}.{01 00 00 01 00}.{01 00 00 01 00}.{01 00 00 01 00}.{01 00 00 01 00}.{01 00 00 01 00}.{01 00 00 01 00}.{01 00 00 01 00}.{01 00 00 01 00}.{07 0c 00}{01 00 00 0f 00}\n\n{ff 00 00 02}{07 16 00}Ocean rhymes with emotion,\nmaaannn. Just stew on that\nfor a while.",
-   "et": "\n{07 16 00}.{01 00 00 01 00}.{01 00 00 01 00}.{01 00 00 01 00}.{01 00 00 01 00}.{01 00 00 01 00}.{01 00 00 01 00}.{01 00 00 01 00}.{01 00 00 01 00}.{07 0c 00}{01 00 00 0f 00}\n\n{ff 00 00 02}{07 16 00}Ookean riimub emotsiooniga,\nmeeees. Hauduge selle üle\nmõnda aega."
+   "et": "\n{07 16 00}.{01 00 00 01 00}.{01 00 00 01 00}.{01 00 00 01 00}.{01 00 00 01 00}.{01 00 00 01 00}.{01 00 00 01 00}.{01 00 00 01 00}.{01 00 00 01 00}.{07 0c 00}{01 00 00 0f 00}\n\n{ff 00 00 02}{07 16 00}Ookean riimub emotsiooniga,\nmeeees. Mõtle selle üle\nmõnda aega."
   },
   {
    "id": 246,

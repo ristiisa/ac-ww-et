@@ -54,7 +54,7 @@
   {
    "id": 10,
    "en": "Hello?{01 00 00 14 00} I think this is the\nfirst time we've spoken. I'm\n{04 01 00}, {01 00 00 05 00}{04 02 00}.\nI just caught\n{ff 00 00 07}{04 1a 00}{ff 00 00 00}!\n\nI'm totally crazy about\ncatching them lately!\nYou should give it a shot!\nIt's nice to meet you,\n{01 00 00 0a 00}{04 02 00}!",
-   "et": "Halloo?{01 00 00 14 00} Ma arvan, et see on\nesimene kord, kui räägime.\nMina olen {04 01 00}\n,{01 00 00 05 00}{04 02 00} . Ma just püüdsin\n{ff 00 00 07}{04 1a 00}{ff 00 00 00}!\n\nMa olen viimasel ajal\nnende püüdmise järele hull!\nSa peaksid proovima!\nMeeldiv tutvuda,\n{01 00 00 0a 00}{04 02 00}!"
+   "et": "Halloo?{01 00 00 14 00} Ma arvan, et see on\nesimene kord, kui räägime.\nMina olen {04 01 00},\n{01 00 00 05 00}{04 02 00}. Ma just püüdsin\n{ff 00 00 07}{04 1a 00}{ff 00 00 00}!\n\nMa olen viimasel ajal\nnende püüdmise järele hull!\nSa peaksid proovima!\nMeeldiv tutvuda,\n{01 00 00 0a 00}{04 02 00}!"
   },
   {
    "id": 11,
@@ -74,7 +74,7 @@
   {
    "id": 14,
    "en": "Tee hee! {00 00 00}{01 00 00 14 00}What kind of\nsuper-secret things? Tell!\nI love secrets, {04 1f 00}!\nOh, yeah, {01 00 00 0a 00}and presents,\ntoo, {04 02 00}!",
-   "et": "Hihii! {00 00 00}{01 00 00 14 00}Milliseid ülisalajasi\nasju? Räägi!\nMa armastan\nsaladusi,{04 1f 00} ! Ah jaa, {01 00 00 0a 00}\nja kingitusi ka, {04 02 00}!"
+   "et": "Hihii! {00 00 00}{01 00 00 14 00}Milliseid ülisalajasi\nasju? Räägi!\nMa armastan\nsaladusi, {04 1f 00}! Ah jaa, {01 00 00 0a 00}\nja kingitusi ka, {04 02 00}!"
   }
  ]
 }

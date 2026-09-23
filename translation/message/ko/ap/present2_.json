@@ -54,7 +54,7 @@
   {
    "id": 10,
    "en": "{07 04 00}So you're all urban\nand sophisticated and\nstuff?\nWell, I don't much like you\nthinking you're something\nspecial just 'cause...\n...you're living it up with\nus yokels, {01 00 00 05 00}{04 02 00}!",
-   "et": "{07 04 00}Nii et sa oled linlik\nja peen ja\nnii?\nNoh, mulle ei meeldi, et sa\narvad end midagi erilist\nolevat lihtsalt sest...\n...et sa elad meie,\nkolkakate, seas, {01 00 00 05 00}{04 02 00}!"
+   "et": "{07 04 00}Nii et sa oled linlik\nja peen ja\nnii?\nNoh, mulle ei meeldi, et sa\narvad end midagi erilist\nolevat lihtsalt sest...\n...et sa elad meie,\nmaalaste, seas, {01 00 00 05 00}{04 02 00}!"
   },
   {
    "id": 11,
@@ -69,7 +69,7 @@
   {
    "id": 13,
    "en": "{07 15 00}Oh, {01 00 00 0f 00}that's it!{01 00 00 14 00} That's what\nI'm talkin' about,\n{01 00 00 05 00}{04 02 00}!\n{07 00 00}It's pretty easy to get\nall extreme about\neverything, isn't it?\nReal adults try to be\n\"balanced\" and not act like\n\"complete psychos.\"\n{07 14 00}I'm glad you get it!{01 00 00 05 00}\nNow take this present!",
-   "et": "{07 15 00}Oh, {01 00 00 0f 00}just nii!{01 00 00 14 00} Just sellest\nma räägingi,\n{01 00 00 05 00}{04 02 00}!\n{07 00 00}On päris lihtne minna\nkõiges äärmustesse,\nkas pole?\nPäris täiskasvanud üritavad\nolla „tasakaalus” ja mitte\nkäituda „täiselus”.\n{07 14 00}Hea, et sa mõistad!{01 00 00 05 00}\nNüüd võta see kingitus!"
+   "et": "{07 15 00}Oh, {01 00 00 0f 00}just nii!{01 00 00 14 00} Just sellest\nma räägingi,\n{01 00 00 05 00}{04 02 00}!\n{07 00 00}On päris lihtne minna\nkõiges äärmustesse,\nkas pole?\nPäris täiskasvanud üritavad\nolla „tasakaalus” ja mitte\nkäituda nagu „psühhod”.\n{07 14 00}Hea, et sa mõistad!{01 00 00 05 00}\nNüüd võta see kingitus!"
   },
   {
    "id": 14,
@@ -89,7 +89,7 @@
   {
    "id": 17,
    "en": "{07 15 00}Pfft, {01 00 00 0f 00}then maybe I'll just\ngive it to {04 0e 00},\n{01 00 00 05 00}{04 02 00}!",
-   "et": "{07 15 00}Pfft, {01 00 00 0f 00}siis ehk annan ma\nselle {04 0e 00}le,\n{01 00 00 05 00}{04 02 00}!"
+   "et": "{07 15 00}Pfft, {01 00 00 0f 00}siis ehk annan ma\nselle {04 0e 00} kätte,\n{01 00 00 05 00}{04 02 00}!"
   }
  ]
 }

@@ -64,7 +64,7 @@
   {
    "id": 12,
    "en": "{07 07 00}This is nothing{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.my bod\ncan't handle, {01 00 00 05 00}{04 02 00}!",
-   "et": "{07 07 00}See pole midagi{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.millega mu\nkeha ei saaks, {01 00 00 05 00}{04 02 00}!"
+   "et": "{07 07 00}See pole midagi{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.millega mu\nkeha hakkama ei saaks, {01 00 00 05 00}{04 02 00}!"
   },
   {
    "id": 13,
@@ -89,7 +89,7 @@
   {
    "id": 17,
    "en": "{07 0e 00}Ahh...{01 00 00 0a 00} Ooh...{01 00 00 05 00}{04 02 00}.\n\n\n{07 14 00}Heyyyy, OK!{01 00 00 0a 00} Thanks to you,\nI feel a little better!\n\n{07 0d 00}I'm not super pumped yet,\nbut I'm getting on toward\nhalf pumped, {01 00 00 05 00}{04 02 00}!",
-   "et": "{07 0e 00}Ahh...{01 00 00 0a 00} Ooh...{01 00 00 05 00}{04 02 00}.\n\n\n{07 14 00}Heiii, olgu!{01 00 00 0a 00} Tänu sulle\ntunnen end veidi paremini!\n\n{07 0d 00}Ma pole veel super hoos,\naga liigun poolhoo\npoole, {01 00 00 05 00}{04 02 00}!"
+   "et": "{07 0e 00}Ahh...{01 00 00 0a 00} Ooh...{01 00 00 05 00}{04 02 00}.\n\n\n{07 14 00}Heiii, olgu!{01 00 00 0a 00} Tänu sulle\ntunnen end veidi paremini!\n\n{07 0d 00}Ma pole veel super hoos,\naga olen juba\npoolel teel sinna, {01 00 00 05 00}{04 02 00}!"
   },
   {
    "id": 18,

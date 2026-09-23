@@ -4,17 +4,17 @@
   {
    "id": 0,
    "en": "{07 14 00}I knew it, {01 00 00 05 00}{04 02 00}!{01 00 00 0a 00}\n{07 0d 00}I just KNEW that would look\ngood on {ff 00 00 06}{04 10 00}{ff 00 00 00}!",
-   "et": "{07 14 00}Ma teadsin, {01 00 00 05 00}{04 02 00}!{01 00 00 0a 00}\n{07 0d 00}Ma lihtsalt TEADSIN, et see\nsobib {ff 00 00 06}{04 10 00}{ff 00 00 00}le!"
+   "et": "{07 14 00}Ma teadsin, {01 00 00 05 00}{04 02 00}!{01 00 00 0a 00}\n{07 0d 00}Ma lihtsalt TEADSIN, et see\nsobib {ff 00 00 06}{04 10 00}{ff 00 00 00} selga!"
   },
   {
    "id": 1,
    "en": "{07 14 00}Oh, nice! {01 00 00 05 00}That's good news!{01 00 00 0a 00}\nI actually wasn't sure what\n{ff 00 00 06}{04 10 00} {ff 00 00 00}liked.\n{07 0d 00}I'm just happy that it was\nso well received,\n{01 00 00 05 00}{04 02 00}!",
-   "et": "{07 14 00}Oh, tore! {01 00 00 05 00}See on hea uudis!{01 00 00 0a 00}\nMa tegelikult ei teadnud,\nmis {ff 00 00 06}{04 10 00} {ff 00 00 00}le meeldib.\n{07 0d 00}Mul on lihtsalt hea meel, et\nsee nii hästi vastu võeti,\n{01 00 00 05 00}{04 02 00}!"
+   "et": "{07 14 00}Oh, tore! {01 00 00 05 00}See on hea uudis!{01 00 00 0a 00}\nMa tegelikult ei teadnud,\nmis talle, {ff 00 00 06}{04 10 00}{ff 00 00 00}, meeldib.\n{07 0d 00}Mul on lihtsalt hea meel, et\nsee nii hästi vastu võeti,\n{01 00 00 05 00}{04 02 00}!"
   },
   {
    "id": 2,
    "en": "{07 14 00}No kidding?{01 00 00 0a 00} That's great!{01 00 00 0a 00}\n{07 0a 00}I'm glad it was such a big\nhit with {ff 00 00 06}{04 10 00}{ff 00 00 00}.",
-   "et": "{07 14 00}Ei või olla?{01 00 00 0a 00} See on tore!{01 00 00 0a 00}\n{07 0a 00}Hea meel, et see oli\n{ff 00 00 06}{04 10 00}{ff 00 00 00}le suur hitt."
+   "et": "{07 14 00}Ei või olla?{01 00 00 0a 00} See on tore!{01 00 00 0a 00}\n{07 0a 00}Hea meel, et see oli\n{ff 00 00 06}{04 10 00}{ff 00 00 00} jaoks suur hitt."
   }
  ]
 }

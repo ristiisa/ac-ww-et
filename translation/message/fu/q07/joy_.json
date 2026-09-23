@@ -9,12 +9,12 @@
   {
    "id": 1,
    "en": "{07 04 00}Oh my!{01 00 00 0a 00} You came all this\nway for a letter{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\nA letter for ME!\n{07 14 00}Oh, it's from {ff 00 00 06}{04 0f 00}{ff 00 00 00}. \nNow that's exciting!{01 00 00 05 00} I'm\ngoing to read it{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.",
-   "et": "{07 04 00}Oh sa!{01 00 00 0a 00} Sa tulid kogu selle\ntee kirja pärast{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\nKiri MULLE!\n{07 14 00}Oh, see on {ff 00 00 06}{04 0f 00}{ff 00 00 00}lt. \nNüüd on põnev!{01 00 00 05 00} Ma\nloen selle läbi{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}."
+   "et": "{07 04 00}Oh sa!{01 00 00 0a 00} Sa tulid kogu selle\ntee kirja pärast{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\nKiri MULLE!\n{07 14 00}Oh, see on {ff 00 00 06}{04 0f 00}{ff 00 00 00} käest. \nNüüd on põnev!{01 00 00 05 00} Ma\nloen selle läbi{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}."
   },
   {
    "id": 2,
    "en": "{07 04 00}Huh? {01 00 00 0a 00}A letter from \n{ff 00 00 06}{04 0f 00}{ff 00 00 00}?{01 00 00 0f 00} {07 14 00}I can't wait\nto read it, {04 02 00}!",
-   "et": "{07 04 00}Ah? {01 00 00 0a 00}Kiri \n{ff 00 00 06}{04 0f 00}{ff 00 00 00}lt?{01 00 00 0f 00} {07 14 00}Ma ei jõua\noodata, et lugeda, {04 02 00}!"
+   "et": "{07 04 00}Ah? {01 00 00 0a 00}Kiri \n{ff 00 00 06}{04 0f 00}{ff 00 00 00} käest?{01 00 00 0f 00} {07 14 00}Ma ei jõua\noodata, et lugeda, {04 02 00}!"
   }
  ]
 }

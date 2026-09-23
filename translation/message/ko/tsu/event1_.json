@@ -39,7 +39,7 @@
   {
    "id": 7,
    "en": "{07 02 00}NOOOOOO!{01 00 00 14 00} I just realized\nthis Saturday is\n{ff 00 00 03}La-Di-Day{ff 00 00 00}, {01 00 00 05 00}{04 02 00}!\n{07 16 00}If my song gets chosen to\nbe the town tune for\n{04 05 00}...\n{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 07 00}I'd pretty much freak\nout and barricade myself in\nmy house. Oh, {04 02 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.",
-   "et": "{07 02 00}EIIIII!{01 00 00 14 00} Ma just taipasin,\net sel laupäeval on\n{ff 00 00 03}laulupäev{ff 00 00 00}, {01 00 00 05 00}{04 02 00}!\n{07 16 00}Kui mu laul valitakse\nlinna viisiks\n{04 05 00}ks...\n{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 07 00}Ma läheksin peast\npekki ja barrikadeeriksin\nend majja. Oh, {04 02 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}."
+   "et": "{07 02 00}EIIIII!{01 00 00 14 00} Ma just taipasin,\net sel laupäeval on\n{ff 00 00 03}laulupäev{ff 00 00 00}, {01 00 00 05 00}{04 02 00}!\n{07 16 00}Kui mu laul valitakse\n{04 05 00}\nlinna viisiks...\n{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 07 00}Ma läheksin peast\nsegi ja barrikadeeriksin\nend majja. Oh, {04 02 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}."
   },
   {
    "id": 8,
@@ -69,7 +69,7 @@
   {
    "id": 13,
    "en": "{07 14 00}This year's almost over,\n{01 00 00 05 00}{04 02 00}!\n\n{07 16 00}You and me, kid...{01 00 00 05 00} We've\nbeen through a lot\ntogether this year.\n{07 0d 00}I think we should ring in\nthe new year together\n{01 00 00 05 00}with a{ff 00 00 03} countdown{ff 00 00 00}!",
-   "et": "{07 14 00}See aasta on peaaegu läbi,\n{01 00 00 05 00}{04 02 00}!\n\n{07 16 00}Sina ja mina, laps...{01 00 00 05 00} Me\noleme sel aastal koos\npalju läbi elanud.\n{07 0d 00}Ma arvan, et peaksime uut\naastat koos vastu võtma\n{01 00 00 05 00}koos{ff 00 00 03} loendusega{ff 00 00 00}!"
+   "et": "{07 14 00}See aasta on peaaegu läbi,\n{01 00 00 05 00}{04 02 00}!\n\n{07 16 00}Sina ja mina, laps...{01 00 00 05 00} Me\noleme sel aastal koos\npalju läbi elanud.\n{07 0d 00}Ma arvan, et peaksime uut\naastat koos vastu võtma\n{01 00 00 05 00}{ff 00 00 03}loendusega{ff 00 00 00}!"
   },
   {
    "id": 14,
@@ -79,7 +79,7 @@
   {
    "id": 15,
    "en": "{07 00 00}I'll leave a bunch of\nfurniture that I don't need\nback at my place.\n{07 14 00}You should drop by and pick\nit up, {01 00 00 05 00}{04 02 00}!",
-   "et": "{07 00 00}Ma jätan oma kohta hunniku\nmööblit, mida ma ei vaja.\n\n{07 14 00}Sa peaksid läbi astuma ja\nselle ära viima, {01 00 00 05 00}{04 02 00}!"
+   "et": "{07 00 00}Mul on kodus hunnik\nmööblit, mida ma ei vaja.\n\n{07 14 00}Sa peaksid läbi astuma ja\nselle ära viima, {01 00 00 05 00}{04 02 00}!"
   },
   {
    "id": 16,

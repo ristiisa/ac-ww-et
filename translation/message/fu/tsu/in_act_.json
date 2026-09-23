@@ -9,12 +9,12 @@
   {
    "id": 1,
    "en": "{07 16 00}When you first see one, the\n{0b 02 00}{04 1a 00}\ncan look kinda gross.\n{07 14 00}But if you get in REALLY\nclose and take a good look,\nthey can be kinda cute.\n{07 00 00}Especially when you see\ntheir tiny little legs all\nwriggling in the air!\n{07 07 00}Their nasty.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}spindly.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}ICKY\nLEGS!{01 00 00 0a 00} {07 02 00}I lied! I take it back!{01 00 00 0f 00}\n{07 06 00}They're just so disgusting!",
-   "et": "{07 16 00}Kui sa esimest korda näed,\nvõib {0b 02 00}{04 1a 00}\nnäida üsna jälk.\n{07 14 00}Aga kui sa lähed TÕESTI\nlähedale ja vaatad hoolega,\nvõivad nad olla nunnud.\n{07 00 00}Eriti kui sa näed nende\npisikesi jalgu õhus\nvingerdamas!\n{07 07 00}Nende.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}peenikesed.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}VASTIKUD\nJALAD!{01 00 00 0a 00} {07 02 00}Valetasin! Tagasi!{01 00 00 0f 00}\n{07 06 00}Nad on lihtsalt nii jäledad!"
+   "et": "{07 16 00}Kui sa esimest korda näed,\nvõib {0b 02 00}{04 1a 00}\nnäida üsna jälk.\n{07 14 00}Aga kui sa lähed TÕESTI\nlähedale ja vaatad hoolega,\nvõivad nad olla nunnud.\n{07 00 00}Eriti kui sa näed nende\npisikesi jalgu õhus\nvingerdamas!\n{07 07 00}Nende.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}peenikesed.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}VASTIKUD\nJALAD!{01 00 00 0a 00} {07 02 00}Valetasin! Võtan tagasi!{01 00 00 0f 00}\n{07 06 00}Nad on lihtsalt nii jäledad!"
   },
   {
    "id": 2,
    "en": "{07 0b 00}Have you ever caught\n{04 1a 00}?\n\n{07 14 00}{ff 00 00 06}Blathers{ff 00 00 00} at the {ff 00 00 08}museum{ff 00 00 00}\nthinks they're creepy,{01 00 00 0a 00} but\nI like them, {01 00 00 05 00}{04 02 00}!\n{07 0d 00}It's strangely touching to\nsee such a nasty creature\nfind its way in the world.",
-   "et": "{07 0b 00}Kas sa oled kunagi püüdnud\n{04 1a 00}?\n\n{07 14 00}{ff 00 00 06}Blathers{ff 00 00 00} {ff 00 00 08}muuseumis{ff 00 00 00}\narvab, et nad on koledad,{01 00 00 0a 00}\naga mulle sobivad,{01 00 00 05 00}{04 02 00}!\n{07 0d 00}On veidralt liigutav näha,\nkuidas nii jäle olend\nmaailmas oma teed leiab."
+   "et": "{07 0b 00}Kas sa oled kunagi püüdnud\n{04 1a 00}?\n\n{07 14 00}{ff 00 00 06}Blathers{ff 00 00 00} {ff 00 00 08}muuseumis{ff 00 00 00}\narvab, et nad on koledad,{01 00 00 0a 00}\naga mulle meeldivad nad,{01 00 00 05 00}{04 02 00}!\n{07 0d 00}On veidralt liigutav näha,\nkuidas nii jäle olend\nmaailmas oma teed leiab."
   },
   {
    "id": 3,
@@ -54,7 +54,7 @@
   {
    "id": 10,
    "en": "{07 16 00}It's a lot harder to find\n{04 1a 00}\nthan I'd thought.\n{07 00 00}I'm starting to think I'm\nnever going to find one,\nmuch less catch one{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 10 00}Sort of like a boyfriend{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.",
-   "et": "{07 16 00}Palju raskem on leida\n{04 1a 00}\nkui ma arvasin.\n{07 00 00}Ma hakkan arvama, et ma ei\nleia kunagi ühtegi, ammugi\nsellest, et püüaksin{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 10 00}Umbes nagu kallimat{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}."
+   "et": "{07 16 00}Palju raskem on leida\n{04 1a 00}\nkui ma arvasin.\n{07 00 00}Ma hakkan arvama, et ma ei\nleia kunagi ühtegi,\npüüdmisest rääkimata{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 10 00}Umbes nagu kallimat{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}."
   },
   {
    "id": 11,
@@ -94,7 +94,7 @@
   {
    "id": 18,
    "en": "{07 00 00}Creep in quietly on nimble\nfeet, {01 00 00 05 00}{07 15 00}and then sweep in\nswiftly with the {ff 00 00 07}net{ff 00 00 00}!\n{07 14 00}You'll never forget the\nfeeling of that moment!",
-   "et": "{07 00 00}Hiili vaikselt kergel\nsammul, {01 00 00 05 00}{07 15 00}ja siis vihu\nkiiresti {ff 00 00 07}võrguga{ff 00 00 00}!\n{07 14 00}Sa ei unusta kunagi\nselle hetke tunnet!"
+   "et": "{07 00 00}Hiili vaikselt kergel\nsammul, {01 00 00 05 00}{07 15 00}ja siis vihka\nkiiresti {ff 00 00 07}võrguga{ff 00 00 00}!\n{07 14 00}Sa ei unusta kunagi\nselle hetke tunnet!"
   },
   {
    "id": 19,

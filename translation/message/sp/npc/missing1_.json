@@ -9,7 +9,7 @@
   {
    "id": 1,
    "en": "{07 08 00}Waaaaaaaaaahhhhh!{01 01 00}\n{07 00 00}{07 07 00}Poo! I'm l-lost again...{01 01 00}\n{07 08 00}WAAAAAAAAAAAAHHHHHH!!!!{01 0a 00}\n{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}{07 3a 00}SnifflesnortleHONK!{01 08 00} \n{07 00 00}...I hafta get to\n{ff 00 00 08}{04 10 00}{ff 00 00 00}!{02 00 00 00 00}\nOK, follow me!\nBuy a map, kid.",
-   "et": "{07 08 00}Buaaaaaaaaaa!{01 01 00}\n{07 00 00}{07 07 00}Äh! Ma e-eksisin jälle...{01 01 00}\n{07 08 00}BUAAAAAAAAAAAAA!!!!{01 0a 00}\n{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}{07 3a 00}NuuksnuhhTÕMPS!{01 08 00} \n{07 00 00}...ma pean jõudma siia:\n{ff 00 00 08}{04 10 00}{ff 00 00 00}!{02 00 00 00 00}\nOlgu, tule järele!\nOsta endale kaart."
+   "et": "{07 08 00}Buaaaaaaaaaa!{01 01 00}\n{07 00 00}{07 07 00}Äh! Ma e-eksisin jälle...{01 01 00}\n{07 08 00}BUAAAAAAAAAAAAA!!!!{01 0a 00}\n{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}{07 3a 00}NuuksnuhhTÕMPS!{01 08 00} \n{07 00 00}...ma pean jõudma sinna:\n{ff 00 00 08}{04 10 00}{ff 00 00 00}!{02 00 00 00 00}\nOlgu, tule järele!\nOsta endale kaart."
   },
   {
    "id": 2,
@@ -19,22 +19,22 @@
   {
    "id": 3,
    "en": "{07 07 00}Oh, poo!{01 00 00 05 00} I'm l-lost again!{01 00 00 0f 00}\n{07 0e 00}Waaaa...?{01 00 00 0a 00} Waaaaaaa...?{01 01 00}\n{07 08 00}WAAAAAAAAAAAAAAHHHHHH!!!!{01 0a 00}\n{07 3a 00}My m-mommy's waiting for\nme in {ff 00 00 08}{04 10 00}{ff 00 00 00}!{02 00 00 00 00}\nCome with me.\nSo? Go find her!",
-   "et": "{07 07 00}Oh, äh!{01 00 00 05 00} Ma e-eksisin jälle!{01 00 00 0f 00}\n{07 0e 00}Buaaa...?{01 00 00 0a 00} Buaaaaaa...?{01 01 00}\n{07 08 00}BUAAAAAAAAAAAAAAA!!!!{01 0a 00}\n{07 3a 00}Mu e-emme ootab mind\nsiin: {ff 00 00 08}{04 10 00}{ff 00 00 00}!{02 00 00 00 00}\nTule minuga.\nMine otsi ta üles!"
+   "et": "{07 07 00}Oh, äh!{01 00 00 05 00} Ma e-eksisin jälle!{01 00 00 0f 00}\n{07 0e 00}Buaaa...?{01 00 00 0a 00} Buaaaaaa...?{01 01 00}\n{07 08 00}BUAAAAAAAAAAAAAAA!!!!{01 0a 00}\n{07 3a 00}Mu e-emme ootab mind\nseal: {ff 00 00 08}{04 10 00}{ff 00 00 00}!{02 00 00 00 00}\nTule minuga.\nMine otsi ta üles!"
   },
   {
    "id": 4,
    "en": "{07 07 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}Sniff {01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 00 00}{07 3a 00}KASHNOOOORRRKKHH!!{01 09 00}\nI wanna go back to \n{ff 00 00 08}{04 10 00}{ff 00 00 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{02 00 00 00 00}\nI'll take you.\nToo bad.",
-   "et": "{07 07 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}Nuuks {01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 00 00}{07 3a 00}KAHNOOOORRKK!!{01 09 00}\nMa tahan tagasi siia:\n{ff 00 00 08}{04 10 00}{ff 00 00 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{02 00 00 00 00}\nViin sind sinna.\nKahju küll."
+   "et": "{07 07 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}Nuuks {01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 00 00}{07 3a 00}KAHNOOOORRKK!!{01 09 00}\nMa tahan tagasi sinna:\n{ff 00 00 08}{04 10 00}{ff 00 00 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{02 00 00 00 00}\nViin sind sinna.\nSinu häda."
   },
   {
    "id": 5,
    "en": "{07 08 00}Waaaaaah!{01 00 00 0f 00} HWAAAAAAAAH!{01 00 00 0a 00}\n{07 00 00}{07 07 00}Which way to {ff 00 00 08}{04 10 00}{ff 00 00 00}?{01 00 00 0a 00}\nI lost my {07 00 00}{07 08 00}MAAAAWWWMMMYYY!{02 00 00 00 00}\nCome with me.\nGet lost, again!",
-   "et": "{07 08 00}Buaaaaaa!{01 00 00 0f 00} BUAAAAAAAA!{01 00 00 0a 00}\n{07 00 00}{07 07 00}Kuidas saab siia: {ff 00 00 08}{04 10 00}{ff 00 00 00}?{01 00 00 0a 00}\nMa kaotasin oma {07 00 00}{07 08 00}EEEEMMMEEE!{02 00 00 00 00}\nTule minuga.\nEksi jälle ära!"
+   "et": "{07 08 00}Buaaaaaa!{01 00 00 0f 00} BUAAAAAAAA!{01 00 00 0a 00}\n{07 00 00}{07 07 00}Kuidas saab sinna: {ff 00 00 08}{04 10 00}{ff 00 00 00}?{01 00 00 0a 00}\nMa kaotasin oma {07 00 00}{07 08 00}EEEEMMMEEE!{02 00 00 00 00}\nTule minuga.\nEksi jälle ära!"
   },
   {
    "id": 6,
    "en": "{07 16 00}Oh, M-M-Mommy{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} I hope\nyou're in {ff 00 00 08}{04 10 00}{ff 00 00 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n{07 00 00}{07 08 00}I miss you SO MUCH!{01 00 00 0a 00} WHAAAA!{02 00 00 00 00}\nHang in there!\nEw! Later!",
-   "et": "{07 16 00}Oh, e-e-emme{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} Loodan, et\nsa oled siin: {ff 00 00 08}{04 10 00}{ff 00 00 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n{07 00 00}{07 08 00}Ma IGATSEN sind nii!{01 00 00 0a 00} BUAAA!{02 00 00 00 00}\nPea vastu!\nÄh! Nägemist!"
+   "et": "{07 16 00}Oh, e-e-emme{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} Loodan, et\nsa oled seal: {ff 00 00 08}{04 10 00}{ff 00 00 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n{07 00 00}{07 08 00}Ma IGATSEN sind nii!{01 00 00 0a 00} BUAAA!{02 00 00 00 00}\nPea vastu!\nÄh! Nägemist!"
   },
   {
    "id": 7,
@@ -69,7 +69,7 @@
   {
    "id": 13,
    "en": "{09 00 00}{09 08 00}{09 02 00}{07 16 00}Goodness sakes!{01 00 00 05 00} What am I\nto do with this child!{01 00 00 05 00}\nAlways wandering off{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 10 00 1e}\n{09 04 00}{07 0b 00}You there!{01 00 00 05 00} Are you the\nkind-hearted soul who\nbrought her back to me?{01 10 00 1e}\n{07 14 00}Oh, thank you so very much!{01 01 00}\n{07 16 00}I don't know what I would\nhave done without you.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 10 00 1e}\n{09 05 00}{07 15 00}You there!{01 00 00 05 00} Naughty kitten!{01 00 00 05 00}\nSay thank you to the nice\nperson!{09 09 00}{01 10 00 1e}",
-   "et": "{09 00 00}{09 08 00}{09 02 00}{07 16 00}Oh sa heldene!{01 00 00 05 00} Mida ma\nselle lapsega peale hakkan!{01 00 00 05 00}\nAina uitab minema{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 10 00 1e}\n{09 04 00}{07 0b 00}Kuule sina!{01 00 00 05 00} Kas sina oled\nsee lahke hing, kes ta\nmulle tagasi tõi?{01 10 00 1e}\n{07 14 00}Oh, suur-suur aitäh sulle!{01 01 00}\n{07 16 00}Ma ei tea, mida ma oleksin\nilma sinuta teinud.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 10 00 1e}\n{09 05 00}{07 15 00}Kuule sina!{01 00 00 05 00} Üleannetu kass!{01 00 00 05 00}\nÜtle sellele toredale\ninimesele aitäh!{09 09 00}{01 10 00 1e}"
+   "et": "{09 00 00}{09 08 00}{09 02 00}{07 16 00}Oh jumal küll!{01 00 00 05 00} Mida ma\nselle lapsega peale hakkan!{01 00 00 05 00}\nAina uitab minema{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 10 00 1e}\n{09 04 00}{07 0b 00}Kuule sina!{01 00 00 05 00} Kas sina oled\nsee lahke hing, kes ta\nmulle tagasi tõi?{01 10 00 1e}\n{07 14 00}Oh, suur-suur aitäh sulle!{01 01 00}\n{07 16 00}Ma ei tea, mida ma oleksin\nilma sinuta teinud.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 10 00 1e}\n{09 05 00}{07 15 00}Kuule sina!{01 00 00 05 00} Üleannetu kass!{01 00 00 05 00}\nÜtle sellele toredale\ninimesele aitäh!{09 09 00}{01 10 00 1e}"
   },
   {
    "id": 14,

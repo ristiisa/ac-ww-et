@@ -4,12 +4,12 @@
   {
    "id": 0,
    "en": "Yo ho ho, me hearty!{01 00 00 05 00}\nWe've made landfall!\n\nWelcome to {04 03 00}!\n\n\nIf ye got any questions,\nye'll be wantin' to head to\nthe {ff 00 00 08}town hall{ff 00 00 00}, right there.\nYar, all right, then...{01 00 00 05 00}\nBest o' luck to ye,{01 00 00 05 00}\n{04 00 00}!",
-   "et": "Jo-ho-hoo, mu sõber!{01 00 00 05 00}\nOleme randunud!\n\nTere tulemast linna\n{04 03 00}!\n\nKui sul on küsimusi,\nsiis mine sealsamas\n{ff 00 00 08}raekotta{ff 00 00 00}.\nJaa, olgu siis...{01 00 00 05 00}\nParimat õnne sulle,{01 00 00 05 00}\n{04 00 00}!"
+   "et": "Jo-ho-hoo, mu söber!{01 00 00 05 00}\nOleme randunud!\n\nTere tulemast linna\n{04 03 00}!\n\nKui sul om küsimusi,\nsiis mine sääl samas\n{ff 00 00 08}raekotta{ff 00 00 00}.\nJaa, olgu siis...{01 00 00 05 00}\nParimat önne sulle,{01 00 00 05 00}\n{04 00 00}!"
   },
   {
    "id": 1,
    "en": "Yo ho ho, me hearty!{01 00 00 05 00}\nWe've come ashore!\n\nHere it is, {ff 00 00 05}{04 00 00}{ff 00 00 00}!{01 00 00 05 00}\nYer fair an' blessed\nkingdom{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0f 00}{04 03 00}!\nIf ye got any questions,\nye should head over to the\n{ff 00 00 08}town hall{ff 00 00 00}. {01 00 00 05 00}They'll help ye.\nYar, time to part, milady...{01 00 00 05 00}\nFarewell, {01 00 00 05 00}{04 00 00}!",
-   "et": "Jo-ho-hoo, mu sõber!{01 00 00 05 00}\nOleme kaldale jõudnud!\n\nSiin see on, {ff 00 00 05}{04 00 00}{ff 00 00 00}!{01 00 00 05 00}\nSinu kaunis ja õnnistatud\nkuningriik{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0f 00}{04 03 00}!\nKui sul on küsimusi,\nsiis mine {ff 00 00 08}raekotta{ff 00 00 00}. {01 00 00 05 00}\nNad aitavad sind.\nJaa, aeg lahkuda, mu leedi...{01 00 00 05 00}\nHüvasti, {01 00 00 05 00}{04 00 00}!"
+   "et": "Jo-ho-hoo, mu söber!{01 00 00 05 00}\nOleme kaldale jöudnud!\n\nSii see om, {ff 00 00 05}{04 00 00}{ff 00 00 00}!{01 00 00 05 00}\nSu kaunis ja önnistatud\nkuningriik{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0f 00}{04 03 00}!\nKui sul om küsimusi,\nsiis mine {ff 00 00 08}raekotta{ff 00 00 00}. {01 00 00 05 00}\nNemad aitavad sind.\nJaa, aeg lahkuda, mu leedi...{01 00 00 05 00}\nHüvasti, {01 00 00 05 00}{04 00 00}!"
   },
   {
    "id": 2,
@@ -34,7 +34,7 @@
   {
    "id": 6,
    "en": "Hi there!{01 00 00 0a 00} I don't think we've\nmet.{01 00 00 05 00} I'm Mabel, that's Sable!{01 00 00 05 00}\nWelcome to our humble shop!\n{07 14 00}We here at {ff 00 00 02}Able Sisters{ff 00 00 00}{01 00 00 05 00}\nlook forward to serving{01 00 00 05 00}\nall your tailoring needs!",
-   "et": "Tere!{01 00 00 0a 00} Ma ei usu, et oleme\nkohtunud.{01 00 00 05 00} Olen Mabel!{01 00 00 05 00}\nTere tulemast meie poodi!\n{07 14 00}Meie siin {ff 00 00 02}Able õdedes{ff 00 00 00}{01 00 00 05 00}\nootame rõõmuga, et{01 00 00 05 00}\nsind rõivastega aidata!"
+   "et": "Tere!{01 00 00 0a 00} Ma ei usu, et oleme\nkohtunud.{01 00 00 05 00} Olen Mabel, too Sable!{01 00 00 05 00}\nTere tulemast meie poodi!\n{07 14 00}Meie siin {ff 00 00 02}Able õdedes{ff 00 00 00}{01 00 00 05 00}\nootame rõõmuga, et{01 00 00 05 00}\nsind rõivastega aidata!"
   },
   {
    "id": 7,
@@ -54,7 +54,7 @@
   {
    "id": 10,
    "en": "{07 00 00}You are {04 00 00}, yes?{01 00 00 05 00}\nThe one who's supposed to\nmove here, hm?\nPhew! {01 00 00 05 00}I'm glad you made it\nin time!\n\n{07 0b 00}What do you think?\nYour house, it feels\ncomfortable, yes?{02 00 00 ff ff}\nI don't know...\nIt's OK.",
-   "et": "{07 00 00}Sina oled {04 00 00}, jah?{01 00 00 05 00}\nSee, kes peaks siia\nkolima, ah?\nUhh! {01 00 00 05 00}Hea, et sa\nõigeks ajaks jõudsid!\n\n{07 0b 00}Mis sa arvad?\nSinu maja, kas see tundub\nmugav, jah?{02 00 00 ff ff}\nMa ei tea...\nPole viga."
+   "et": "{07 00 00}Sina oled {04 00 00}, jah?{01 00 00 05 00}\nSee, kes peaks siia\nkolima, ah?\nÕhh! {01 00 00 05 00}Hea, et sa\nõigeks ajaks jõudsid!\n\n{07 0b 00}Mis sa arvad?\nSinu maja, kas see tundub\nmugav, jah?{02 00 00 ff ff}\nMa ei tea...\nPole viga."
   },
   {
    "id": 11,
@@ -69,7 +69,7 @@
   {
    "id": 13,
    "en": "{07 00 00}You're {04 00 00}, yes?{01 00 00 05 00}\nThe youth that ordered this\nsplendid house?\nPhew!{01 00 00 05 00} I'm glad you made it\nin time!\n\n{07 0b 00}So, what do you think?{01 00 00 05 00}\nLooks quite cozy and\ncomfortable, hm?{02 00 00 ff ff}\nI don't know...\nIt's OK.",
-   "et": "{07 00 00}Sina oled {04 00 00}, jah?{01 00 00 05 00}\nNoor, kes tellis selle\nsuurepärase maja?\nUhh!{01 00 00 05 00} Hea, et sa\nõigeks ajaks jõudsid!\n\n{07 0b 00}Nii, mis sa arvad?{01 00 00 05 00}\nNäeb üsna hubane ja\nmugav välja, ah?{02 00 00 ff ff}\nMa ei tea...\nPole viga."
+   "et": "{07 00 00}Sina oled {04 00 00}, jah?{01 00 00 05 00}\nNooruke, kes tellis selle\nsuurepärase maja?\nÕhh!{01 00 00 05 00} Hea, et sa\nõigeks ajaks jõudsid!\n\n{07 0b 00}Nii, mis sa arvad?{01 00 00 05 00}\nNäeb üsna hubane ja\nmugav välja, ah?{02 00 00 ff ff}\nMa ei tea...\nPole viga."
   },
   {
    "id": 14,
@@ -84,7 +84,7 @@
   {
    "id": 16,
    "en": "{07 19 00}Yes, yes,{01 00 00 05 00} well, the pleasure\nis all mine, hm?{07 00 00}\n\nI know this will sound like a\ncommercial but{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n\n{07 14 00}If you wish to go shopping,{01 00 00 05 00}\nthe store in {04 03 00}\nis second to none!\n{07 19 00}We have everything you\nmight need or want!{07 00 00}\n\n{07 17 00}And on top of that,{01 00 00 05 00} the\nowner really knows how to\ntake care of his clients!\n{07 00 00}So, if you ever get lonely,{01 00 00 05 00}\ngo to {ff 00 00 06}Tom Nook{ff 00 00 00}'s shop, hm?\n\n{07 14 00}Yes, all your needs will be{01 00 00 05 00}\nmet at {ff 00 00 06}Tom Nook{ff 00 00 00}'s shop.{01 00 00 05 00}.{01 00 00 05 00}.{01 01 00}\n{07 17 00}That's it {01 00 00 05 00}in a nutshell, hm?\n{07 00 00}We look forward to serving\nyou with vim and vigor!{01 00 00 05 00}\n{07 14 00}See you soon, yes?",
-   "et": "{07 19 00}Jah, jah,{01 00 00 05 00} noh, rõõm on\nminupoolne, ah?{07 00 00}\n\nTean, et see kõlab nagu\nreklaam, aga{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n\n{07 14 00}Kui soovid ostelda,{01 00 00 05 00}\nsiis pood linnas {04 03 00}\non võrratu!\n{07 19 00}Meil on kõik, mida sa\nvajada või soovida võid!{07 00 00}\n\n{07 17 00}Ja pealegi{01 00 00 05 00} oskab\nomanik oma klientide eest\ntõesti hoolt kanda!\n{07 00 00}Nii et kui sul kunagi igav\nhakkab,{01 00 00 05 00} mine {ff 00 00 06}Nooki{ff 00 00 00} poodi!\n\n{07 14 00}Jah, kõik su vajadused{01 00 00 05 00}\nrahuldatakse {ff 00 00 06}Nooki{ff 00 00 00} poes.{01 00 00 05 00}.{01 00 00 05 00}.{01 01 00}\n{07 17 00}See ongi {01 00 00 05 00}lühidalt kõik, ah?\n{07 00 00}Ootame rõõmuga võimalust\nsind innukalt teenindada!{01 00 00 05 00}\n{07 14 00}Näeme varsti, jah?"
+   "et": "{07 19 00}Jah, jah,{01 00 00 05 00} noh, rõõm on\nminupoolne, ah?{07 00 00}\n\nTean, et see kõlab nagu\nreklaam, aga{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n\n{07 14 00}Kui soovid ostlema,{01 00 00 05 00}\nsiis pood linnas {04 03 00}\non võrratu!\n{07 19 00}Meil on kõik, mida sa\nvajada või soovida võid!{07 00 00}\n\n{07 17 00}Ja pealegi{01 00 00 05 00} oskab\nomanik oma klientide eest\ntõesti hoolt kanda!\n{07 00 00}Nii et kui sul kunagi igav\nhakkab,{01 00 00 05 00} mine {ff 00 00 06}Nooki{ff 00 00 00} poodi!\n\n{07 14 00}Jah, kõik su vajadused{01 00 00 05 00}\nrahuldatakse {ff 00 00 06}Nooki{ff 00 00 00} poes.{01 00 00 05 00}.{01 00 00 05 00}.{01 01 00}\n{07 17 00}See ongi {01 00 00 05 00}lühidalt kõik, ah?\n{07 00 00}Ootame rõõmuga võimalust\nsind innukalt teenindada!{01 00 00 05 00}\n{07 14 00}Näeme varsti, jah?"
   },
   {
    "id": 17,
@@ -134,7 +134,7 @@
   {
    "id": 26,
    "en": "Worry not! {01 00 00 05 00}Worry not, hm?{01 00 00 14 00}\n{07 19 00}If you want to know about\nmaking money, I'll tell you!\n{07 00 00}Yes, actually, I COULD\nexplain it to you, but...\n\n{07 14 00}It's better to learn\nthrough living than\nlistening, yes?\n{07 00 00}Why don't you come work\npart-time at my shop, hm?\n\nYou'll earn some money and{01 00 00 05 00}\nlearn about living in town!{01 00 00 05 00}\n{07 0b 00}Two birds, one stone, hm?\n{07 19 00}Yes, yes!{01 00 00 0a 00} What a great idea!\nAbsolutely top-notch!{01 00 00 05 00} Yes!{01 00 00 14 00}\n{07 00 00}It's official!{01 00 00 0f 00}\nWhy don't you come by the\nshop in a little bit then,\nhm? \nIf you don't know where the\nshop is, then check your\n{ff 00 00 07}map{ff 00 00 00}. {01 00 00 05 00}It's simple, yes?\n{07 14 00}Well then,{01 00 00 05 00} I'll be waiting for\nyou at the store!{01 00 00 05 00}\nCome on by!",
-   "et": "Pole muret! {01 00 00 05 00}Pole muret, ah?{01 00 00 14 00}\n{07 19 00}Kui tahad teada, kuidas\nraha teenida, ma räägin!\n{07 00 00}Jah, tegelikult VÕIKSIN ma\nseda sulle selgitada, aga...\n\n{07 14 00}Parem on õppida\nelades kui\nkuulates, jah?\n{07 00 00}Miks sa ei tuleks minu\npoodi tööle tule, ah?\n\nSa teenid veidi raha ja{01 00 00 05 00}\nõpid linnaelu tundma!{01 00 00 05 00}\n{07 0b 00}Kaks kärbest ühe hoobiga?\n{07 19 00}Jah, jah!{01 00 00 0a 00} Milline hea mõte!\nLausa suurepärane!{01 00 00 05 00} Jah!{01 00 00 14 00}\n{07 00 00}See on ametlik!{01 00 00 0f 00}\nMiks sa ei astuks siis\nvarsti poest läbi,\nah? \nKui sa ei tea, kus pood\non, siis vaata oma\n{ff 00 00 07}kaarti{ff 00 00 00}. {01 00 00 05 00}Lihtne, jah?\n{07 14 00}Noh siis,{01 00 00 05 00} ma ootan sind\npoes!{01 00 00 05 00}\nTule läbi!"
+   "et": "Pole muret! {01 00 00 05 00}Pole muret, ah?{01 00 00 14 00}\n{07 19 00}Kui tahad teada, kuidas\nraha teenida, ma räägin!\n{07 00 00}Jah, tegelikult VÕIKSIN ma\nseda sulle selgitada, aga...\n\n{07 14 00}Parem on õppida\nelades kui\nkuulates, jah?\n{07 00 00}Miks sa ei tuleks minu\npoodi osalise ajaga tööle, ah?\n\nSa teenid veidi raha ja{01 00 00 05 00}\nõpid linnaelu tundma!{01 00 00 05 00}\n{07 0b 00}Kaks kärbest ühe hoobiga?\n{07 19 00}Jah, jah!{01 00 00 0a 00} Milline hea mõte!\nLausa suurepärane!{01 00 00 05 00} Jah!{01 00 00 14 00}\n{07 00 00}See on ametlik!{01 00 00 0f 00}\nMiks sa ei astuks siis\nvarsti poest läbi,\nah? \nKui sa ei tea, kus pood\non, siis vaata oma\n{ff 00 00 07}kaarti{ff 00 00 00}. {01 00 00 05 00}Lihtne, jah?\n{07 14 00}Noh siis,{01 00 00 05 00} ma ootan sind\npoes!{01 00 00 05 00}\nTule läbi!"
   },
   {
    "id": 27,
@@ -164,7 +164,7 @@
   {
    "id": 32,
    "en": "{07 14 00}Welcome to {04 03 00}'s\n{ff 00 00 08}town hall{ff 00 00 00}.\n\nYes, {01 00 00 05 00}that's right,{01 00 00 0f 00} I've been\nexpecting you, {04 00 00}.\n\n{07 00 00}Allow me to show you where\nyour house is located.\n{07 14 00}{01 00 00 05 00}It's right here!",
-   "et": "{07 14 00}Tere tulemast {04 03 00}\n{ff 00 00 08}raekotta{ff 00 00 00}.\n\nJah, {01 00 00 05 00}just nii,{01 00 00 0f 00} ma olen\nsind oodanud, {04 00 00}.\n\n{07 00 00}Lubage mul näidata, kus\nteie maja asub.\n{07 14 00}{01 00 00 05 00}See on siinsamas!"
+   "et": "{07 14 00}Tere tulemast {04 03 00}\n{ff 00 00 08}raekotta{ff 00 00 00}.\n\nJah, {01 00 00 05 00}just nii,{01 00 00 0f 00} ma olen\nsind oodanud, {04 00 00}.\n\n{07 00 00}Luba mul näidata, kus\nsu maja asub.\n{07 14 00}{01 00 00 05 00}See on siinsamas!"
   },
   {
    "id": 33,

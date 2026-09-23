@@ -49,7 +49,7 @@
   {
    "id": 9,
    "en": "If you rebuild the town,\n{04 03 00} as you know it\nwill be gone forever!\nEveryone who lives here,{01 00 00 05 00}\nall the stuff they've\ncollected...{01 00 00 05 00}POOF!{01 00 00 05 00} Gone!{01 00 00 0a 00}\nAnd it will NEVER come back!\nSo, you really want to get\nrid of {04 03 00}?{02 00 00 0a 0b}\nNever mind.\nYes! Rebuild!",
-   "et": "Kui sa linna uuesti ehitad,\nkaob {04 03 00} sellisena,\nnagu sa teda tead!\nKõik, kes siin elavad,{01 00 00 05 00}\nkõik, mis nad on kogunud...\n{01 00 00 05 00}PAHVATUS!{01 00 00 05 00} Läinud!{01 00 00 0a 00}\nJa see EI tule enam tagasi!\nKas tahad tõesti linnast\n{04 03 00} lahti saada?{02 00 00 0a 0b}\nPole midagi.\nJah! Ehita uuesti!"
+   "et": "Kui sa linna uuesti ehitad,\nkaob {04 03 00} sellisena,\nnagu sa teda tead!\nKõik, kes siin elavad,{01 00 00 05 00}\nkõik, mis nad on kogunud...\n{01 00 00 05 00}PÕFF!{01 00 00 05 00} Läinud!{01 00 00 0a 00}\nJa see EI tule enam tagasi!\nKas tahad tõesti linnast\n{04 03 00} lahti saada?{02 00 00 0a 0b}\nPole midagi.\nJah! Ehita uuesti!"
   },
   {
    "id": 10,
@@ -84,7 +84,7 @@
   {
    "id": 16,
    "en": "Very good.{01 00 00 05 00} I believe we're\nall on time now!",
-   "et": "Väga hea.{01 00 00 05 00} Usun, et nüüd\noleme kõik ajas järjel!"
+   "et": "Väga hea.{01 00 00 05 00} Usun, et nüüd\non kõik kellad õiged!"
   },
   {
    "id": 17,
@@ -99,7 +99,7 @@
   {
    "id": 19,
    "en": "I understand.{01 00 00 0a 00} Well then, I'll\nmake sure you don't\ndownload anything.",
-   "et": "Saan aru.{01 00 00 0a 00} Siis hoolitsen\nselle eest, et sa midagi\nalla ei laadiks."
+   "et": "Saan aru.{01 00 00 0a 00} Siis hoolitsen\nselle eest, et sa midagi\nalla ei lae."
   },
   {
    "id": 20,
@@ -264,7 +264,7 @@
   {
    "id": 56,
    "en": "My, my, {01 00 00 05 00}thanks for coming.{01 00 00 14 00}\nI guess that's my cue to \nstart{ff 00 00 02} Tag Mode{ff 00 00 00}!\nI should warn you, I might\nsave without telling you.\n\nJust don't turn the power\noff or pull out the Game\nCard, and we'll be fine.\nEither {ff 00 00 01}tap{ff 00 00 00} the Touch\nScreen or press the\n{ff 00 00 01}A Button{ff 00 00 00} to exit.",
-   "et": "Oh sa,{01 00 00 05 00} aitäh, et tulid.{01 00 00 14 00}\nVist on see mulle märguanne\nalustada{ff 00 00 02} sildirežiimi{ff 00 00 00}!\nHoiatan sind, ma võin\nsalvestada sulle ütlemata.\n\nÄra lihtsalt lülita toidet\nvälja ega tõmba kaarti\nvälja, siis on kõik hästi.\nVäljumiseks kas {ff 00 00 01}koputa{ff 00 00 00}\npuuteekraanile või vajuta\n{ff 00 00 01}A-nuppu{ff 00 00 00}."
+   "et": "No-no,{01 00 00 05 00} aitäh, et tulid.{01 00 00 14 00}\nVist on see mulle märguanne\nalustada{ff 00 00 02} sildirežiimi{ff 00 00 00}!\nHoiatan sind, ma võin\nsalvestada sulle ütlemata.\n\nÄra lihtsalt lülita toidet\nvälja ega tõmba kaarti\nvälja, siis on kõik hästi.\nVäljumiseks kas {ff 00 00 01}koputa{ff 00 00 00}\npuuteekraanile või vajuta\n{ff 00 00 01}A-nuppu{ff 00 00 00}."
   },
   {
    "id": 57,

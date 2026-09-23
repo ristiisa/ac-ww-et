@@ -4,7 +4,7 @@
   {
    "id": 0,
    "en": "{07 00 00}So, compared to\n{ff 00 00 08}{04 03 00}{ff 00 00 00}, {07 0b 00}what's your\ntown like?{02 02 00 03 04 05 06}\nThis is better.\nMine's better.\nI like 'em both.\nI hate 'em both.",
-   "et": "{07 00 00}Nii et, võrreldes\n{ff 00 00 08}{04 03 00}{ff 00 00 00}ga, {07 0b 00}milline on\nsinu linn?{02 02 00 03 04 05 06}\nSee on parem.\nMinu on parem.\nMeeldivad mõlemad.\nVihkan mõlemat."
+   "et": "{07 00 00}Nii et, võrreldes linnaga\nnimega {ff 00 00 08}{04 03 00}{ff 00 00 00},\n{07 0b 00}milline on sinu linn?{02 02 00 03 04 05 06}\nSee on parem.\nMinu on parem.\nMeeldivad mõlemad.\nVihkan mõlemat."
   },
   {
    "id": 1,

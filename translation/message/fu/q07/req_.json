@@ -9,12 +9,12 @@
   {
    "id": 1,
    "en": "{07 00 00}Hey, {01 00 00 05 00}{04 1f 00}!{01 00 00 0a 00} I've got\na favor to ask you...\n\n{07 0b 00}Would you deliver this\nletter to {ff 00 00 06}{04 10 00}{ff 00 00 00} for\nme, {01 00 00 05 00}{04 02 00}?\n{07 00 00}It needs to get there\npretty fast, {07 16 00}so I can't use\nthe {ff 00 00 08}post office{ff 00 00 00}, you know?",
-   "et": "{07 00 00}Hei, {01 00 00 05 00}{04 1f 00}!{01 00 00 0a 00} Mul on\nsulle üks palve...\n\n{07 0b 00}Kas sa viiksid selle kirja\n{ff 00 00 06}{04 10 00}{ff 00 00 00}le minu\neest, {01 00 00 05 00}{04 02 00}?\n{07 00 00}See peab sinna jõudma\nüsna kiiresti, {07 16 00}nii et ma ei\nsaa {ff 00 00 08}postkontorit{ff 00 00 00} kasutada."
+   "et": "{07 00 00}Hei, {01 00 00 05 00}{04 1f 00}!{01 00 00 0a 00} Mul on\nsulle üks palve...\n\n{07 0b 00}Kas sa viiksid selle kirja\n{ff 00 00 06}{04 10 00}{ff 00 00 00} juurde minu\neest, {01 00 00 05 00}{04 02 00}?\n{07 00 00}See peab sinna jõudma\nüsna kiiresti, {07 16 00}nii et ma ei\nsaa {ff 00 00 08}postkontorit{ff 00 00 00} kasutada."
   },
   {
    "id": 2,
    "en": "{07 00 00}Hey, {01 00 00 0a 00}{04 1f 00}.{01 00 00 0f 00} I'm sorry\nfor the sudden request,\nbut would you deliver this?\nIt's just a letter, but I\nhave to get it over to\n{ff 00 00 06}{04 10 00}{ff 00 00 00}, {01 00 00 05 00}{04 02 00}.",
-   "et": "{07 00 00}Hei, {01 00 00 0a 00}{04 1f 00}.{01 00 00 0f 00} Vabandust\nnii äkilise palve pärast,\naga kas sa viiksid selle?\nSee on lihtsalt kiri, aga\nma pean selle viima\n{ff 00 00 06}{04 10 00}{ff 00 00 00}le, {01 00 00 05 00}{04 02 00}."
+   "et": "{07 00 00}Hei, {01 00 00 0a 00}{04 1f 00}.{01 00 00 0f 00} Vabandust\nnii äkilise palve pärast,\naga kas sa viiksid selle?\nSee on lihtsalt kiri, aga\nma pean selle viima\n{ff 00 00 06}{04 10 00}{ff 00 00 00} juurde, {01 00 00 05 00}{04 02 00}."
   }
  ]
 }

@@ -14,7 +14,7 @@
   {
    "id": 2,
    "en": "{07 00 00}Look{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} I hate to say this,\nbut, I mean, be honest....\n\n{07 06 00}You haven't delivered the\nletter to {ff 00 00 06}{04 10 00}{ff 00 00 00},\nhave you?\n{07 16 00}Gosh! {01 00 00 05 00}Gimme a break!{01 01 00}\n{07 00 00}Fine, I'm gonna go myself!{01 00 00 05 00}\nGimme that stupid thing!",
-   "et": "{07 00 00}Kuule{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} Ma ei taha seda\nöelda, aga, ma mõtlen, ole\naus.... \n{07 06 00}Sa pole kirja\n{ff 00 00 06}{04 10 00}{ff 00 00 00}le viinud,\nkas pole?\n{07 16 00}Heldeke! {01 00 00 05 00}Anna armu!{01 01 00}\n{07 00 00}Olgu, ma lähen ise!{01 00 00 05 00}\nAnna see rumal asi siia!"
+   "et": "{07 00 00}Kuule{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} Ma ei taha seda\nöelda, aga, ma mõtlen, ole\naus.... \n{07 06 00}Sa pole kirja\ntalle, {ff 00 00 06}{04 10 00}{ff 00 00 00}, viinud,\nkas pole?\n{07 16 00}Heldeke! {01 00 00 05 00}Anna armu!{01 01 00}\n{07 00 00}Olgu, ma lähen ise!{01 00 00 05 00}\nAnna see rumal asi siia!"
   }
  ]
 }

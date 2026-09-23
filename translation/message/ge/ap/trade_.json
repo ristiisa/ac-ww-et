@@ -9,12 +9,12 @@
   {
    "id": 1,
    "en": "{07 00 00}{0b 03 00}{04 1f 00}!{01 00 00 0f 00} I'm sorry to\nspring this on you, but we\nshould trade! Let's swap...\n{07 06 00}My {0b 02 00}{04 1b 00},\nfor your lame old\n{0b 02 00}{04 1a 00}!{02 00 00 03 07}\nSounds good!\nNope.",
-   "et": "{07 00 00}{0b 03 00}{04 1f 00}!{01 00 00 0f 00} Vabandust,\net nii äkki, me peaksime\nvahetama! Teeme vahetuse...\n{07 06 00}Minu {0b 02 00}{04 1b 00}\nsinu lääge vana\n{0b 02 00}{04 1a 00} vastu!{02 00 00 03 07}\nKõlab hästi!\nEi."
+   "et": "{07 00 00}{0b 03 00}{04 1f 00}!{01 00 00 0f 00} Vabandust,\net nii äkki, me peaksime\nvahetama! Teeme vahetuse...\n{07 06 00}Minu {0b 02 00}{04 1b 00}\nsinu nõme vana\n{0b 02 00}{04 1a 00} vastu!{02 00 00 03 07}\nKõlab hästi!\nEi."
   },
   {
    "id": 2,
    "en": "{07 11 00}Hey there, {01 00 00 05 00}{04 1f 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 01 00}\nWanna test your luck?\n\n{07 14 00}Let's swap my {ff 00 00 07}secret item\n{ff 00 00 00}for your totally lame\n{0b 02 00}{04 1a 00}!{02 00 00 0b 0e}\nLet's do it!\nToo risky!",
-   "et": "{07 11 00}Tere, {01 00 00 05 00}{04 1f 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 01 00}\nTahad õnne proovida?\n\n{07 14 00}Vahetame minu {ff 00 00 07}salajase asja\n{ff 00 00 00}sinu täiesti läägeda\n{0b 02 00}{04 1a 00} vastu!{02 00 00 0b 0e}\nTeeme ära!\nLiiga riskantne!"
+   "et": "{07 11 00}Tere, {01 00 00 05 00}{04 1f 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 01 00}\nTahad õnne proovida?\n\n{07 14 00}Vahetame minu {ff 00 00 07}salajase asja\n{ff 00 00 00}sinu täiesti nõmeda\n{0b 02 00}{04 1a 00} vastu!{02 00 00 0b 0e}\nTeeme ära!\nLiiga riskantne!"
   },
   {
    "id": 3,
@@ -74,7 +74,7 @@
   {
    "id": 14,
    "en": "{07 02 00}What?!{01 00 00 05 00} Wow, you're like a\ntotal wet blanket,\n{01 00 00 05 00}{04 02 00}!\n{06 01 00 0f 10 11}",
-   "et": "{07 02 00}Mis?!{01 00 00 05 00} Vau, sa oled nagu\ntäielik tuju rikkuja,\n{01 00 00 05 00}{04 02 00}!\n{06 01 00 0f 10 11}"
+   "et": "{07 02 00}Mis?!{01 00 00 05 00} Vau, sa oled nagu\ntäielik tujurikkuja,\n{01 00 00 05 00}{04 02 00}!\n{06 01 00 0f 10 11}"
   },
   {
    "id": 15,

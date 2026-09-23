@@ -14,7 +14,7 @@
   {
    "id": 2,
    "en": "{07 06 00}I'd steer clear of\n{ff 00 00 06}{04 16 00}{ff 00 00 00} and\n{ff 00 00 06}{04 17 00} {ff 00 00 00}for a while.\n{07 15 00}Things are a little weird\nbetween them right now,\n{01 00 00 05 00}{04 02 00}!{01 00 00 0f 00}\n{06 01 00 0f 10 11}",
-   "et": "{07 06 00}Ma hoiaksin eemale\n{ff 00 00 06}{04 16 00}{ff 00 00 00}st ja\n{ff 00 00 06}{04 17 00}{ff 00 00 00}st mõnda aega.\n{07 15 00}Nende vahel on praegu\npisut veider olukord,\n{01 00 00 05 00}{04 02 00}!{01 00 00 0f 00}\n{06 01 00 0f 10 11}"
+   "et": "{07 06 00}Ma hoiaksin eemale\ntüüpidest nimega {ff 00 00 06}{04 16 00}{ff 00 00 00}\nja {ff 00 00 06}{04 17 00}{ff 00 00 00} mõnda aega.\n{07 15 00}Nende vahel on praegu\npisut veider olukord,\n{01 00 00 05 00}{04 02 00}!{01 00 00 0f 00}\n{06 01 00 0f 10 11}"
   },
   {
    "id": 3,
@@ -114,7 +114,7 @@
   {
    "id": 22,
    "en": "{07 06 00}I saw it with my own eyes!\nThey do everything\ntogether, {01 00 00 05 00}{04 02 00}!\n{07 16 00}They even bought matching\n{04 15 00}s!\n\nI don't know why.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n{07 10 00}but I got so jealous\nwatching them, {01 00 00 05 00}{04 02 00}!",
-   "et": "{07 06 00}Ma nägin seda oma silmaga!\nNad teevad kõike\nkoos, {01 00 00 05 00}{04 02 00}!\n{07 16 00}Nad ostsid isegi ühesugused\n{04 15 00}d!\n\nMa ei tea, miks.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n{07 10 00}aga ma läksin neid vaadates\nnii kadedaks, {01 00 00 05 00}{04 02 00}!"
+   "et": "{07 06 00}Ma nägin seda oma silmaga!\nNad teevad kõike\nkoos, {01 00 00 05 00}{04 02 00}!\n{07 16 00}Nad ostsid isegi ühesugused\nesemed nagu {04 15 00}!\n\nMa ei tea, miks.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n{07 10 00}aga ma läksin neid vaadates\nnii kadedaks, {01 00 00 05 00}{04 02 00}!"
   },
   {
    "id": 23,

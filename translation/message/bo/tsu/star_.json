@@ -4,7 +4,7 @@
   {
    "id": 0,
    "en": "{07 14 00}{01 00 00 0a 00}The {ff 00 00 02}{04 0f 00}\n{ff 00 00 00}constellation{01 00 00 0a 00} is really\ncool.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} {07 0b 00}{01 00 00 05 00}Who made it?{02 00 00 06 07}\nME!\nWho do ya think?",
-   "et": "{07 14 00}{01 00 00 0a 00}Tähtkuju {ff 00 00 02}{04 0f 00}\n{ff 00 00 00}on{01 00 00 0a 00} tõesti\nlahe.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} {07 0b 00}{01 00 00 05 00}Kes selle tegi?{02 00 00 06 07}\nMINA!\nMis sa arvad?"
+   "et": "{07 14 00}{01 00 00 0a 00}Tähtkuju {ff 00 00 02}{04 0f 00}\n{ff 00 00 00}on{01 00 00 0a 00} tõesti\nlahe.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} {07 0b 00}{01 00 00 05 00}Kes selle tegi?{02 00 00 06 07}\nMINA!\nKes su meelest?"
   },
   {
    "id": 1,
@@ -69,7 +69,7 @@
   {
    "id": 13,
    "en": "{07 02 00}{01 00 00 14 00}Wow!{01 00 00 0a 00} What do you mean by\nthat,{01 00 00 0a 00} {04 02 00}?\n\n{07 06 00}What exactly about\n{ff 00 00 02}{04 0f 00} {ff 00 00 00}is so\njerkish?\n{07 0d 00}I'll need you to summarize\nit in an essay of 50\nletters or less!",
-   "et": "{07 02 00}{01 00 00 14 00}Vau!{01 00 00 0a 00} Mida sa sellega\nmõtled,{01 00 00 0a 00} {04 02 00}?\n\n{07 06 00}Mis täpselt on\n{ff 00 00 02}{04 0f 00} {ff 00 00 00}juures\ntropilik?\n{07 0d 00}Pead selle kokku võtma\nesseesse, mis on 50 tähte\nvõi lühem!"
+   "et": "{07 02 00}{01 00 00 14 00}Vau!{01 00 00 0a 00} Mida sa sellega\nmõtled,{01 00 00 0a 00} {04 02 00}?\n\n{07 06 00}Mis täpselt on\n{ff 00 00 02}{04 0f 00} {ff 00 00 00}juures\nidiootlik?\n{07 0d 00}Pead selle kokku võtma\nesseesse, mis on 50 tähte\nvõi lühem!"
   },
   {
    "id": 14,

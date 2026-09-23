@@ -4,7 +4,7 @@
   {
    "id": 0,
    "en": "{07 00 00}Oh!{01 00 00 0a 00} From {ff 00 00 06}{04 0f 00}{ff 00 00 00}?{01 00 00 14 00} Is it\nalready that time of year?{01 01 00}\nSweet, {01 00 00 05 00}let's open it!",
-   "et": "{07 00 00}Oh!{01 00 00 0a 00} {ff 00 00 06}{04 0f 00}{ff 00 00 00}ilt?{01 00 00 14 00} Kas juba\non see aeg aastast?{01 01 00}\nVinge, {01 00 00 05 00}teeme lahti!"
+   "et": "{07 00 00}Oh!{01 00 00 0a 00} {ff 00 00 06}{04 0f 00}{ff 00 00 00} käest?{01 00 00 14 00} Kas juba\non see aeg aastast?{01 01 00}\nVinge, {01 00 00 05 00}teeme lahti!"
   },
   {
    "id": 1,
@@ -14,7 +14,7 @@
   {
    "id": 2,
    "en": "{07 00 00}Oh, {01 00 00 05 00}it's from {ff 00 00 06}{04 0f 00}{ff 00 00 00},\nis it?{01 00 00 14 00} What's in it?!{01 00 00 0a 00}",
-   "et": "{07 00 00}Oh, {01 00 00 05 00}see on {ff 00 00 06}{04 0f 00}{ff 00 00 00}ilt,\nkas nii?{01 00 00 14 00} Mis seal on?!{01 00 00 0a 00}"
+   "et": "{07 00 00}Oh, {01 00 00 05 00}see on {ff 00 00 06}{04 0f 00}{ff 00 00 00} käest,\nkas nii?{01 00 00 14 00} Mis seal on?!{01 00 00 0a 00}"
   }
  ]
 }

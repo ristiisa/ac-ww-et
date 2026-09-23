@@ -4,17 +4,17 @@
   {
    "id": 0,
    "en": "{07 14 00}Thank you, {01 00 00 05 00}{04 1f 00}.\nTell {ff 00 00 06}{04 0f 00} {ff 00 00 00}I send my\nbest! {01 00 00 0a 00}Don't forget, OK?",
-   "et": "{07 14 00}Aitäh, {01 00 00 05 00}{04 1f 00}.\nÜtle {ff 00 00 06}{04 0f 00}{ff 00 00 00}le palju\ntervisi! {01 00 00 0a 00}Ära unusta, eks?"
+   "et": "{07 14 00}Aitäh, {01 00 00 05 00}{04 1f 00}.\nSaada tüübile nimega {ff 00 00 06}{04 0f 00}{ff 00 00 00}\nminu tervisi! {01 00 00 0a 00}Ära unusta, eks?"
   },
   {
    "id": 1,
    "en": "{07 14 00}Well, thanks!{01 01 00} {07 00 00}Give\n{ff 00 00 06}{04 0f 00}{ff 00 00 00} my regards!",
-   "et": "{07 14 00}Noh, aitäh!{01 01 00} {07 00 00}Edasta\n{ff 00 00 06}{04 0f 00}{ff 00 00 00}le tervisi!"
+   "et": "{07 14 00}Noh, aitäh!{01 01 00} {07 00 00}Edasta tervisi\ntüübile nimega {ff 00 00 06}{04 0f 00}{ff 00 00 00}!"
   },
   {
    "id": 2,
    "en": "{07 14 00}Thanks for delivering that,{01 00 00 0a 00}\n{04 02 00}!{01 00 00 0a 00} {07 14 00}And send my\nlove to {ff 00 00 06}{04 0f 00}{ff 00 00 00}, OK?",
-   "et": "{07 14 00}Aitäh, et selle ära viisid,{01 00 00 0a 00}\n{04 02 00}!{01 00 00 0a 00} {07 14 00}Ja saada\n{ff 00 00 06}{04 0f 00}{ff 00 00 00}le armastust, eks?"
+   "et": "{07 14 00}Aitäh, et selle ära viisid,{01 00 00 0a 00}\n{04 02 00}!{01 00 00 0a 00} {07 14 00}Ja saada armastust\ntüübile nimega {ff 00 00 06}{04 0f 00}{ff 00 00 00}, eks?"
   }
  ]
 }

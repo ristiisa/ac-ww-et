@@ -19,7 +19,7 @@
   {
    "id": 3,
    "en": "{07 16 00}WRONG! {01 00 00 0a 00}Man, too bad!{01 01 00}\n{07 00 00}The correct answer was{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n{07 14 00}\"Each and every one of 'em!\"\n.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 04 00}Oh! Wasn't quite fair, eh?{01 00 00 14 00}\n{07 16 00}Yeah, I guess that was{01 00 00 0a 00}\nthe worst quiz ever. {01 00 00 05 00}Sorry!\n{06 01 00 04 05 05}",
-   "et": "{07 16 00}VALE! {01 00 00 0a 00}Mees, kahju!{01 01 00}\n{07 00 00}Õige vastus oli{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n{07 14 00}„Iga viimane kui üks!”\n.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 04 00}Oh! Polnud päris aus, mis?{01 00 00 14 00}\n{07 16 00}Jah, see oli vist{01 00 00 0a 00}\nhalvim küsimus üldse. {01 00 00 05 00}Sorri!\n{06 01 00 04 05 05}"
+   "et": "{07 16 00}VALE! {01 00 00 0a 00}Mees, kahju!{01 01 00}\n{07 00 00}Õige vastus oli{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n{07 14 00}„Kõik viimseni!”\n.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 04 00}Oh! Polnud päris aus, mis?{01 00 00 14 00}\n{07 16 00}Jah, see oli vist{01 00 00 0a 00}\nhalvim küsimus üldse. {01 00 00 05 00}Sorri!\n{06 01 00 04 05 05}"
   },
   {
    "id": 4,
@@ -29,7 +29,7 @@
   {
    "id": 5,
    "en": "{07 00 00}Well, I did ya wrong and now\nI feel bad. {01 00 00 05 00}Take this and\nwe're even, {01 00 00 05 00}{04 02 00}!",
-   "et": "{07 00 00}Noh, ma tegin sulle liiga ja\ntunnen halvasti. {01 00 00 05 00}Võta see\nja oleme tasa, {01 00 00 05 00}{04 02 00}!"
+   "et": "{07 00 00}Noh, ma tegin sulle liiga ja\nmul on kahju. {01 00 00 05 00}Võta see\nja oleme tasa, {01 00 00 05 00}{04 02 00}!"
   },
   {
    "id": 7,
@@ -69,7 +69,7 @@
   {
    "id": 15,
    "en": "{07 14 00}I found that lying around,\nbut it looks like you can \nstill get some use from it.\n{07 15 00}I can't BELIEVE people don't\ntake better care of their\nstuff, {01 00 00 05 00}{04 02 00}!{03 01 00 01}",
-   "et": "{07 14 00}Ma leidsin selle vedelemas,\naga paistab, et sellest\nveel kasu olla.\n{07 15 00}Ma ei USU, et inimesed ei\nhoolitse oma asjade eest\nparemini, {01 00 00 05 00}{04 02 00}!{03 01 00 01}"
+   "et": "{07 14 00}Ma leidsin selle vedelemas,\naga paistab, et sellest\non veel kasu.\n{07 15 00}Ma ei USU, et inimesed ei\nhoolitse oma asjade eest\nparemini, {01 00 00 05 00}{04 02 00}!{03 01 00 01}"
   },
   {
    "id": 16,

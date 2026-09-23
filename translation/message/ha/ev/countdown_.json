@@ -4,12 +4,12 @@
   {
    "id": 0,
    "en": "{07 02 00}I heard the craziest thing!{01 01 00}\n{07 16 00}It's the last day of the\nyear! Can you believe that?\n{07 00 00}{ff 00 00 06}Tortimer{ff 00 00 00}'s throwing a{ff 00 00 06}\n{ff 00 00 03}countdown{ff 00 00 00} rager down at\nthe {ff 00 00 08}plaza{ff 00 00 00}.\nAsk him if you want to hear\nall the details,{ff 00 00 06}\n{ff 00 00 00}{01 00 00 05 00}{04 02 00}!",
-   "et": "{07 02 00}Ma kuulsin kõige hullemat!{01 01 00}\n{07 16 00}Täna on aasta viimane\npäev! Kas sa usud seda?\n{07 00 00}{ff 00 00 06}Tortimer{ff 00 00 00} korraldab{ff 00 00 06}\n{ff 00 00 03}pöördloenduse{ff 00 00 00} peo\n{ff 00 00 08}väljakul{ff 00 00 00}.\nKüsi temalt, kui tahad\nkõiki üksikasju kuulda,{ff 00 00 06}\n{ff 00 00 00}{01 00 00 05 00}{04 02 00}!"
+   "et": "{07 02 00}Ma kuulsin kõige hullemat!{01 01 00}\n{07 16 00}Täna on aasta viimane\npäev! Kas sa usud seda?\n{07 00 00}{ff 00 00 06}Tortimer{ff 00 00 00} korraldab{ff 00 00 06}\n{ff 00 00 03}aastavahetuse loenduse{ff 00 00 00} peo\n{ff 00 00 08}väljakul{ff 00 00 00}.\nKüsi temalt, kui tahad\nkõiki üksikasju kuulda,{ff 00 00 06}\n{ff 00 00 00}{01 00 00 05 00}{04 02 00}!"
   },
   {
    "id": 1,
    "en": "{07 16 00}Yo, {01 00 00 05 00}{04 1f 00}!{01 00 00 14 00}\nI think {ff 00 00 06}Tortimer{ff 00 00 00} has\nsnapped or something!{ff 00 00 06}\n{ff 00 00 00}The old dude started the\n{ff 00 00 03}countdown{ff 00 00 00} at the {ff 00 00 08}plaza\n{ff 00 00 00}way early{ff 00 00 08} {ff 00 00 00}this morning!\n{07 06 00}You better go make sure\nthe dude is OK,\n{01 00 00 05 00}{04 02 00}!",
-   "et": "{07 16 00}Jou, {01 00 00 05 00}{04 1f 00}!{01 00 00 14 00}\nMa arvan, et {ff 00 00 06}Tortimeril{ff 00 00 00} on\nkruvi lahti või midagi!{ff 00 00 06}\n{ff 00 00 00}Vanamees alustas\n{ff 00 00 03}pöördloendust{ff 00 00 00} {ff 00 00 08}väljakul\n{ff 00 00 00}täna hommikul{ff 00 00 08} {ff 00 00 00}liiga vara!\n{07 06 00}Sa peaksid minema\nkontrollima, kas ta on OK,\n{01 00 00 05 00}{04 02 00}!"
+   "et": "{07 16 00}Jou, {01 00 00 05 00}{04 1f 00}!{01 00 00 14 00}\nMa arvan, et {ff 00 00 06}Tortimeril{ff 00 00 00} on\nkruvi lahti või midagi!{ff 00 00 06}\n{ff 00 00 00}Vanamees alustas\n{ff 00 00 03}aastavahetuse loendust{ff 00 00 00} {ff 00 00 08}väljakul\n{ff 00 00 00}täna hommikul{ff 00 00 08} {ff 00 00 00}liiga vara!\n{07 06 00}Sa peaksid minema\nkontrollima, kas ta on OK,\n{01 00 00 05 00}{04 02 00}!"
   },
   {
    "id": 2,
@@ -19,12 +19,12 @@
   {
    "id": 3,
    "en": "{07 0b 00}Is {ff 00 00 06}Tortimer {ff 00 00 00}still doing\nthe {ff 00 00 03}countdown{ff 00 00 00},{ff 00 00 03} {ff 00 00 00}{01 00 00 05 00}{04 02 00}?\n\n{07 16 00}Doesn't he have anything\nelse to do?{01 01 00} {07 0e 00}You know,\nlike incline crunches?",
-   "et": "{07 0b 00}Kas {ff 00 00 06}Tortimer {ff 00 00 00}teeb ikka\n{ff 00 00 03}pöördloendust{ff 00 00 00},{ff 00 00 03} {ff 00 00 00}{01 00 00 05 00}{04 02 00}?\n\n{07 16 00}Kas tal pole midagi muud\nteha?{01 01 00} {07 0e 00}Tead küll,\nnäiteks kaldkõhulihaseid?"
+   "et": "{07 0b 00}Kas {ff 00 00 06}Tortimer {ff 00 00 00}teeb ikka\n{ff 00 00 03}aastavahetuse loendust{ff 00 00 00},{ff 00 00 03} {ff 00 00 00}{01 00 00 05 00}{04 02 00}?\n\n{07 16 00}Kas tal pole midagi muud\nteha?{01 01 00} {07 0e 00}Tead küll,\nnäiteks kaldkõhulihaseid?"
   },
   {
    "id": 4,
    "en": "{07 14 00}It's startin' to get dark,{01 00 00 0a 00}\n{04 1f 00}!\n\n{07 00 00}Feel like doing wind\nsprints until the big\n{ff 00 00 03}countdown{ff 00 00 00}, {01 00 00 05 00}{04 02 00}?",
-   "et": "{07 14 00}Hakkab pimedaks minema,{01 00 00 0a 00}\n{04 1f 00}!\n\n{07 00 00}Kas tahaks teha kiirjookse\nkuni suure\n{ff 00 00 03}pöördloenduseni{ff 00 00 00}, {01 00 00 05 00}{04 02 00}?"
+   "et": "{07 14 00}Hakkab pimedaks minema,{01 00 00 0a 00}\n{04 1f 00}!\n\n{07 00 00}Kas tahaks teha kiirjookse\nkuni suure\n{ff 00 00 03}aastavahetuse loenduseni{ff 00 00 00}, {01 00 00 05 00}{04 02 00}?"
   },
   {
    "id": 5,
@@ -49,17 +49,17 @@
   {
    "id": 9,
    "en": "{07 14 00}{0b 03 00}{ff 00 00 05}{04 1f 00}{ff 00 00 00}! {01 00 00 0a 00}How can you be\nso chill about the New\nYear's {ff 00 00 03}countdown{ff 00 00 00}?!\n{07 03 00}I guess you're all grown\nup and serious now,\n{01 00 00 05 00}{04 02 00}!",
-   "et": "{07 14 00}{0b 03 00}{ff 00 00 05}{04 1f 00}{ff 00 00 00}! {01 00 00 0a 00}Kuidas sa saad\nuusaasta {ff 00 00 03}pöördloenduse{ff 00 00 00}\nsuhtes nii rahulik olla?!\n{07 03 00}Sa oled vist nüüd suureks\nja tõsiseks saanud,\n{01 00 00 05 00}{04 02 00}!"
+   "et": "{07 14 00}{0b 03 00}{ff 00 00 05}{04 1f 00}{ff 00 00 00}! {01 00 00 0a 00}Kuidas sa saad\n{ff 00 00 03}aastavahetuse loenduse{ff 00 00 00}\nsuhtes nii rahulik olla?!\n{07 03 00}Sa oled vist nüüd suureks\nja tõsiseks saanud,\n{01 00 00 05 00}{04 02 00}!"
   },
   {
    "id": 10,
    "en": "{07 06 00}My veins just start BULGING\nevery time I think about\nnext year!",
-   "et": "{07 06 00}Mu veenid hakkavad PUNNI\nminema iga kord, kui ma\njärgmisele aastale mõtlen!"
+   "et": "{07 06 00}Mu veenid lähevad PUNNIS\niga kord, kui ma\njärgmisele aastale mõtlen!"
   },
   {
    "id": 11,
    "en": "{07 15 00}The judge is about to ring\nthe starting bell,\n{01 00 00 05 00}{04 02 00}!\n{07 04 00}WHOA!{01 00 00 14 00} I got confused\nthere for a second. {07 0f 00}This is\nthe {ff 00 00 03}countdown{ff 00 00 00}!{ff 00 00 03} {01 00 00 05 00}{ff 00 00 00}My bad{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}",
-   "et": "{07 15 00}Kohtunik lööb kohe\nstardikella,\n{01 00 00 05 00}{04 02 00}!\n{07 04 00}OHOO!{01 00 00 14 00} Ma läksin hetkeks\nsegadusse. {07 0f 00}See on ju\n{ff 00 00 03}pöördloendus{ff 00 00 00}!{ff 00 00 03} {01 00 00 05 00}{ff 00 00 00}Minu viga{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}"
+   "et": "{07 15 00}Kohtunik lööb kohe\nstardikella,\n{01 00 00 05 00}{04 02 00}!\n{07 04 00}OHOO!{01 00 00 14 00} Ma läksin hetkeks\nsegadusse. {07 0f 00}See on ju\n{ff 00 00 03}aastavahetuse loendus{ff 00 00 00}!{ff 00 00 03} {01 00 00 05 00}{ff 00 00 00}Minu viga{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}"
   },
   {
    "id": 12,

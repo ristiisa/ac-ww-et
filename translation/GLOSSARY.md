@@ -53,18 +53,28 @@ Kasutame kaanet: **"Tom Nookilt"**, "Muuseumist", "Raekojalt", "Lyle'ilt",
 
 ## Lauseehitus
 
-- **Linna ja mängija nime ei saa käänata**, sest need tulevad muutujast
-  (`{04 03 00}` linn, `{04 00 00}` mängija). Kasuta ümbersõnastust:
-  "linn nimega {04 03 00}", "linnas nimega {04 03 00}", "Kas sa oled kindel, {04 00 00}?".
+- **Ühtegi nimemuutujat ei saa käänata**, sest nimi tuleb muutujast ja tema
+  tüvi on teadmata (`{04 03 00}` linn, `{04 00 00}` mängija, `{04 0f 00}` külaelanik
+  ja teised `{04 xx 00}` nimekohad). Keelatud on kujud nagu `{04 03 00}s`,
+  `{04 0f 00}le`, `{04 1f 00}st`. Kasuta ümbersõnastust või apositsiooni:
+  "linn nimega {04 03 00}", "linnas nimega {04 03 00}", "Kas sa oled kindel, {04 00 00}?",
+  "räägi talle, {04 0f 00},".
 - **Artikleid pole:** "a/an/the/some" ridade tõlge on `{-}`, mis teeb rea tühjaks.
 - **Kuupäev:** kuud on nimetavas ("juuni"), päevad kujul "5.".
 - **Kellaaeg:** 12 tunni süsteem markeritega "e.l." ja "p.l.".
-- **Mõõdud** on meetermõõdustikus (tollid ja jalad teisendatud).
+- **Mõõdud** on meetermõõdustikus (tollid ja jalad teisendatud). Erand:
+  **dünaamilised** suurused muutujatest (`{04 12 00}` kala pikkus bbs_fishing jm)
+  jäävad tollidesse, sest arvu arvutab mängu mootor — tekstipoolne teisendus
+  annaks vale numbri.
+- **„Heldeke"** on lubatud hüüdsõna (ge, Pelly jt) — teadlik vormivalik,
+  ära "paranda".
 
 ## Kõnepruuk
 
-- **Kapp'n** räägib meremehe keeles: "Jarr!", "Jarr harr harr HARR!", "Jo-ho!",
-  ja kutsub mängijat kalanimedega ("sa väike makrell", "sa tursk").
+- **Kapp'n** räägib saarte murdes (vt CHARACTERS.md lõiku „Kapp'ni saarte murre"):
+  `õ`→`ö`, „on"→„om", lõpu `-d` kukub („sa ole", „ütle"), „sii/sääl/tääl/nüid".
+  Naerab „Jarr!", „Jarr harr harr HARR!", „Jo-ho!" ja kutsub mängijat
+  kalanimedega („sa väike makrell", „sa tursk"). Mängija valikud on kirjakeeles.
 - **Elanike kõnepruugid** (`st_npc_habit`) mahuvad 10 märgi sisse, nagu originaalis,
   sest mängija saab neid muuta ja salvestusfail piirab pikkust.
 

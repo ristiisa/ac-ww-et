@@ -4,87 +4,87 @@
   {
    "id": 0,
    "en": "Welcome aboard!\n\n\n{07 00 00}Clear somethin' up fer me,\nwould ye? {01 00 00 05 00}Today be{01 00 00 05 00}\n{04 05 00} {04 06 00}, {04 04 00}...\nAnd the time o' day be\n{04 10 00}:{04 09 00} {04 0f 00}, right?{02 00 00 05 01}\nYup!\nNo.",
-   "et": "Tere tulemast pardale!\n\n\n{07 00 00}Aita mul üks asi selgeks\nteha, jah? {01 00 00 05 00}Täna on{01 00 00 05 00}\n{04 05 00} {04 06 00}, {04 04 00}...\nJa kellaaeg on praegu\n{04 10 00}:{04 09 00} {04 0f 00}, eks?{02 00 00 05 01}\nJah!\nEi."
+   "et": "Tere tulemast pardale!\n\n\n{07 00 00}Aita mul üks asi selgeks\nteha, jah? {01 00 00 05 00}Täna om{01 00 00 05 00}\n{04 05 00} {04 06 00}, {04 04 00}...\nJa kell om nüid\n{04 10 00}:{04 09 00} {04 0f 00}, eks?{02 00 00 05 01}\nJah!\nEi."
   },
   {
    "id": 1,
    "en": "{07 31 00}Oh, fer the luvva clams!{01 00 00 0a 00}\n.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}This old sea-dog's brains\nmust be swizzled.\n{07 00 00}Well, don't play coy, ye wee\nmackerel! Set me straight!{01 00 00 05 00}\nWhat time do it be?",
-   "et": "{07 31 00}Oh, karpide nimel!{01 00 00 0a 00}\n.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}Selle vana merekaru aju\non päris sassis.\n{07 00 00}Ära nüüd põikle, sa\nväike makrell! Ütle õigesti!{01 00 00 05 00}\nMis kell siis on?"
+   "et": "{07 31 00}Oh, karpide nimel!{01 00 00 0a 00}\n.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}Selle vana merekaru aju\nom päris sassis.\n{07 00 00}Ära nüid põikle, sa\nväike makrell! Ütle öigesti!{01 00 00 05 00}\nMis kell siis om?"
   },
   {
    "id": 2,
    "en": "{07 00 00}{04 05 00} {04 06 00}, {04 04 00}...{01 00 00 05 00}\nat {04 10 00}:{04 09 00} {04 0f 00}?{01 00 00 05 00}\nYar!{01 00 00 05 00} That be right?{02 00 00 03 04}\nPerfect!\nWrong again!",
-   "et": "{07 00 00}{04 05 00} {04 06 00}, {04 04 00}...{01 00 00 05 00}\n{04 10 00}:{04 09 00} {04 0f 00}?{01 00 00 05 00}\nJarr!{01 00 00 05 00} Nii on õige?{02 00 00 03 04}\nTäpselt!\nJälle vale!"
+   "et": "{07 00 00}{04 05 00} {04 06 00}, {04 04 00}...{01 00 00 05 00}\n{04 10 00}:{04 09 00} {04 0f 00}?{01 00 00 05 00}\nJarr!{01 00 00 05 00} Nii om öige?{02 00 00 03 04}\nTäpselt!\nJälle vale!"
   },
   {
    "id": 3,
    "en": "{07 32 00}Yar har! {01 00 00 05 00}Sorry about that.{01 00 00 05 00}\nThe clock on this car be{01 00 00 0a 00} a\nlittle off, ye see.\n{07 00 00}Jumpin' jellyfishes{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}\nI've had about enough of\nthis here rain!{02 00 00 06 07}\nMe, too.\nI like it!",
-   "et": "{07 32 00}Jarr-harr! {01 00 00 05 00}Vabandust.{01 00 00 05 00}\nSelle auto kell käib{01 00 00 0a 00} natuke\nvalesti, näed.\n{07 00 00}Hüppavad meduusid{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}\nMul on sellest vihmast\njuba villand!{02 00 00 06 07}\nMul ka.\nMulle meeldib!"
+   "et": "{07 32 00}Jarr-harr! {01 00 00 05 00}Vabandust.{01 00 00 05 00}\nSelle auto kell käib{01 00 00 0a 00} natukene\nviltu, näe.\n{07 00 00}Hüppavad meduusid{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}\nMul om sellest vihmast\njuba villand!{02 00 00 06 07}\nMul ka.\nMulle meeldib!"
   },
   {
    "id": 4,
    "en": "{07 31 00}Oh,{01 00 00 0a 00} nar, I'm terrible sorry.{01 00 00 05 00}\nMust be a shrimp in me ear.{01 00 00 0f 00}\nWhat time do it be, again?",
-   "et": "{07 31 00}Oh,{01 00 00 0a 00} ei, kohutavalt vabandan.{01 00 00 05 00}\nVist on krevett mul kõrvas.{01 00 00 0f 00}\nMis kell see nüüd oligi?"
+   "et": "{07 31 00}Oh,{01 00 00 0a 00} ei, kohutavalt vabandan.{01 00 00 05 00}\nVist om krevett mul körvas.{01 00 00 0f 00}\nMis kell see nüid oligi?"
   },
   {
    "id": 5,
    "en": "{07 00 00}Thank ye. I don't trust this\nclock...{01 00 00 14 00} I oughta send it\nto sleep with the fishies!\nSpeakin' o' fishies, they\ncould swim in this road{01 00 00 05 00}.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 0f 00}\nThis rain be merciless!{02 00 00 06 07}\nI know!\nIt's calming.",
-   "et": "{07 00 00}Aitäh. Ma ei usalda seda\nkella...{01 00 00 14 00} Saadaks ta hoopis\nkaladele seltsiks!\nKaladest rääkides, need\nvõiksid siin teel ujuda{01 00 00 05 00}.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 0f 00}\nSee vihm on halastamatu!{02 00 00 06 07}\nTõsi!\nSee rahustab."
+   "et": "{07 00 00}Aitäh. Ma ei usalda seda\nkella...{01 00 00 14 00} Saadaks ta hoopis\nkaladele seltsiks!\nKaladest rääkides, need\nvöiksid siin teel ujuda{01 00 00 05 00}.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 0f 00}\nSee vihm om halastamatu!{02 00 00 06 07}\nTõsi!\nSee rahustab."
   },
   {
    "id": 6,
    "en": "Well, 'tis a cryin' shame,\nconsiderin' ye came all the\nway out here...",
-   "et": "Noh, see on ikka kurb,\narvestades, et tulid nii\nkaugele siia välja..."
+   "et": "Noh, see om ikka nutune\nkahju, arvestades, et tulid\nnii kaugele sii välja..."
   },
   {
    "id": 7,
    "en": ".{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}Yar, well, all right, then.{01 00 00 05 00}\nThere be no pleasin' some\npeople, that's fer sure.",
-   "et": ".{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}Jarr, noh, olgu siis.{01 00 00 05 00}\nMõnele inimesele ei saa\nkuidagi meele järele olla."
+   "et": ".{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}Jarr, noh, olgu siis.{01 00 00 05 00}\nMönele inimesele ei saa\nkuidagi meele järgi olla."
   },
   {
    "id": 8,
    "en": "{07 00 00}.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}Gar, now, wait a moment,\nye wee snappin' turtle.{01 00 00 05 00}{07 30 00}\nI never got yer name!",
-   "et": "{07 00 00}.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}Garr, oota nüüd hetk,\nsa väike näksiv kilpkonn.{01 00 00 05 00}{07 30 00}\nMa ei küsinudki su nime!"
+   "et": "{07 00 00}.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}Garr, oota nüid hetk,\nsa väike näksiv kilpkonn.{01 00 00 05 00}{07 30 00}\nMa ei küsinudki su nime!"
   },
   {
    "id": 9,
    "en": "{07 00 00}Yar... {01 00 00 05 00}{0b 03 00}{04 00 00}, is it?\n\n\nSo, fond o' the name{01 00 00 05 00}\n{04 00 00}, are ye?{02 01 00 0c 0b 0a}\nYup, it's burly!\nYeah, it's cute!\nThat's not it.",
-   "et": "{07 00 00}Jarr... {01 00 00 05 00}{0b 03 00}{04 00 00}, jah?\n\n\nSoo, meeldib sulle nimi{01 00 00 05 00}\n{04 00 00}, või?{02 01 00 0c 0b 0a}\nJah, see on vägev!\nJah, see on armas!\nSee pole õige."
+   "et": "{07 00 00}Jarr... {01 00 00 05 00}{0b 03 00}{04 00 00}, jah?\n\n\nSoo, meeldib sulle nimi{01 00 00 05 00}\n{04 00 00}, vöi?{02 01 00 0c 0b 0a}\nJah, see on vägev!\nJah, see on armas!\nSee pole õige."
   },
   {
    "id": 10,
    "en": "{07 31 00}Fergettin' yer name ain't\na good sign, ye scallop.{01 00 00 0f 00}\n{07 00 00}Ye got the sea madness?\nNo, of course not, yer too\nyoung. {01 00 00 05 00}Just calm down an'\ntell me again.",
-   "et": "{07 31 00}Oma nime unustamine pole\nhea märk, sa kammkarp.{01 00 00 0f 00}\n{07 00 00}Kas sul on merehullus?\nEi, muidugi mitte, oled\nliiga noor. {01 00 00 05 00}Rahune maha ja\nütle mulle uuesti."
+   "et": "{07 31 00}Oma nime unustamine pole\nhea märk, sa kammkarp.{01 00 00 0f 00}\n{07 00 00}Kas sul om merehullus?\nEi, muidugi mitte, ole\nliiga noor. {01 00 00 05 00}Rahune maha ja\nütle mulle uuesti."
   },
   {
    "id": 11,
    "en": "{07 00 00}Yar, yar, that be a fine\nname,{01 00 00 05 00} pure an' true.\n\nIt's the perfect name fer\na perfect young lass.{07 32 00}{01 00 00 0f 00}\nYoung Miss {04 00 00}{01 00 00 05 00}.{01 00 00 03 00}.{01 00 00 03 00}.{02 00 00 00 0d}\nAwww, thanks!\nI'm not a girl!",
-   "et": "{07 00 00}Jarr, jarr, see on kena\nnimi,{01 00 00 05 00} puhas ja aus.\n\nIdeaalne nimi ühele\nideaalsele noorele neiule.{07 32 00}{01 00 00 0f 00}\nNoor preili {04 00 00}{01 00 00 05 00}.{01 00 00 03 00}.{01 00 00 03 00}.{02 00 00 00 0d}\nOi, aitäh!\nMa pole tüdruk!"
+   "et": "{07 00 00}Jarr, jarr, see om kena\nnimi,{01 00 00 05 00} puhas ja aus.\n\nIdeaalne nimi ühele\nideaalsele noorele neiule.{07 32 00}{01 00 00 0f 00}\nNoor preili {04 00 00}{01 00 00 05 00}.{01 00 00 03 00}.{01 00 00 03 00}.{02 00 00 00 0d}\nOi, aitäh!\nMa pole tüdruk!"
   },
   {
    "id": 12,
    "en": "{07 00 00}Well, {01 00 00 05 00}burly be as burly do,\nas me ol' gran'-turtle used\nto tell me{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.\nAnyway, 'tis a strong name\nfer a strong-lookin' boy!{02 00 00 00 0e}\nRight on!\nI'm not a boy!",
-   "et": "{07 00 00}Noh, {01 00 00 05 00}vägev on see, kes\nvägevalt teeb, ütles mu\nvanaema-kilpkonn{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.\nIgatahes, tugev nimi ühele\ntugeva välimusega poisile!{02 00 00 00 0e}\nJust nii!\nMa pole poiss!"
+   "et": "{07 00 00}Noh, {01 00 00 05 00}vägev om see, kes\nvägevalt teeb, ütles mu\nvanaema-kilpkonn{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.\nIgatahes, tugev nimi ühele\ntugeva välimusega poisile!{02 00 00 00 0e}\nJust nii!\nMa pole poiss!"
   },
   {
    "id": 13,
    "en": "{07 31 00}Ye gots to be foolin'!{01 00 00 0f 00}\nYer{01 00 00 05 00} a lad?!\n\n{07 00 00}Nar, that be some egg on\nme face, no two ways about\nit.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 0f 00} A thousand pardons!",
-   "et": "{07 31 00}Sa teed vist nalja!{01 00 00 0f 00}\nSa oled{01 00 00 05 00} poiss?!\n\n{07 00 00}Oh, see oli mul küll\npiinlik viga{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 0f 00}\nTuhat vabandust!"
+   "et": "{07 31 00}Sa teed vist nalja!{01 00 00 0f 00}\nSa ole{01 00 00 05 00} poiss?!\n\n{07 00 00}Oh, tegin end ikka\nkorralikult lolliks{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 0f 00}\nTuhat vabandust!"
   },
   {
    "id": 14,
    "en": "{07 31 00}Nar, nar, that can't be!{01 00 00 0f 00}\nYer{01 00 00 05 00} a lass?{01 00 00 0f 00} Ooh, missy,\nI'm terrible sorry!\n{07 32 00}Yar har{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 0f 00} Come to think\nof it, though, ye do smell\na bit fancy fer a lad!",
-   "et": "{07 31 00}Ei, ei, see ei saa olla!{01 00 00 0f 00}\nSa oled{01 00 00 05 00} tüdruk?{01 00 00 0f 00} Oi, preili,\nkohutavalt vabandan!\n{07 32 00}Jarr-harr{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 0f 00} Kui nüüd\nmõelda, siis lõhnad sa\npoisi kohta küll uhkelt!"
+   "et": "{07 31 00}Ei, ei, see ei saa olla!{01 00 00 0f 00}\nSa ole{01 00 00 05 00} tüdruk?{01 00 00 0f 00} Oi, preili,\nkohutavalt vabandan!\n{07 32 00}Jarr-harr{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 0f 00} Kui nüid\nmöelda, siis löhnad sa\npoisi kohta küll uhkelt!"
   },
   {
    "id": 15,
    "en": "{07 00 00}Yar, I just been cruisin'\naround like an oarless\ndinghy here...\nTell me, where is it{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}\n{07 30 00}ye want to be goin'?",
-   "et": "{07 00 00}Jarr, ma olen siin ringi\ntiirutanud nagu aerudeta\npaat...\nÜtle mulle, kuhu sa{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}\n{07 30 00}õieti minna tahad?"
+   "et": "{07 00 00}Jarr, ma olen siin ringi\ntiirutanud nagu aerudeta\npaat...\nÜtle mulle, kuhu sa{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}\n{07 30 00}öieti minna taha?"
   },
   {
    "id": 16,
    "en": "{07 00 00}Oh, nar,{01 00 00 05 00} how embarrassin'...\nI forgot to ask ye!\n\n{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}{07 30 00}Whar ye be wishin' to go?",
-   "et": "{07 00 00}Oh, ei,{01 00 00 05 00} kui piinlik...\nMa unustasin sult küsida!\n\n{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}{07 30 00}Kuhu sa minna soovid?"
+   "et": "{07 00 00}Oh, ei,{01 00 00 05 00} kui piinlik...\nMa unustasin sult küsida!\n\n{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}{07 30 00}Kuhu sa minna soovi?"
   },
   {
    "id": 17,
@@ -99,32 +99,32 @@
   {
    "id": 19,
    "en": "{07 31 00}Nar, {01 00 00 0a 00}ye got eel-mouth, now?{01 00 00 0f 00}\n{07 00 00}'Tis no cure for that, no!{01 00 00 0f 00}\nSay it again fer me!",
-   "et": "{07 31 00}Ei, {01 00 00 0a 00}sul on angerjasuu, või?{01 00 00 0f 00}\n{07 00 00}Selle vastu pole rohtu!{01 00 00 0f 00}\nÜtle mulle uuesti!"
+   "et": "{07 31 00}Ei, {01 00 00 0a 00}sul om angerjasuu, vöi?{01 00 00 0f 00}\n{07 00 00}Selle vastu pole rohtu!{01 00 00 0f 00}\nÜtle mulle uuesti!"
   },
   {
    "id": 20,
    "en": "{07 31 00}Yar, {01 00 00 0a 00}I must have some sand\nmites in me bloomin' ears.{01 00 00 0f 00}\n{07 00 00}Back to sick bay fer me!\nDon't worry, they don't be\ncontagious. {01 00 00 05 00}Now relax an'\nsay it fer me again.",
-   "et": "{07 31 00}Jarr, {01 00 00 0a 00}mul on vist kirbud\nneis neetud kõrvades.{01 00 00 0f 00}\n{07 00 00}Tagasi haiglasse minuga!\nÄra muretse, need pole\nnakkavad. {01 00 00 05 00}Nüüd lõdvestu ja\nütle mulle uuesti."
+   "et": "{07 31 00}Jarr, {01 00 00 0a 00}mul om vist kirbud\nneis neetud körvades.{01 00 00 0f 00}\n{07 00 00}Tagasi haiglasse minuga!\nÄra muretse, need pole\nnakkavad. {01 00 00 05 00}Nüid lödvestu ja\nütle mulle uuesti."
   },
   {
    "id": 21,
    "en": "{07 00 00}Yar, I gots to ask...{01 00 00 05 00}\nWhy would a minnow like\nyerself pick {04 03 00}?\nI mean, it's got its charms,{01 00 00 14 00}\nbut it's way out in the\nmiddle o' nowhere!\nSo what exactly was it\nabout ol' {04 03 00}\n{07 30 00}that made ye choose it?{02 03 00 00 00 00 00 00}\nThe beach.\nTown hall.\nShopping.\nThe border.\nThe museum.",
-   "et": "{07 00 00}Jarr, pean küsima...{01 00 00 05 00}\nMiks valis sinusugune kilu\nlinna nimega {04 03 00}?\nSel on muidugi oma võlud,{01 00 00 14 00}\naga see on ju kusagil\nkeset tühja maad!\nMis sind siis linnas\nnimega {04 03 00}\n{07 30 00}nii väga võlus?{02 03 00 00 00 00 00 00}\nRand.\nRaekoda.\nPoed.\nPiir.\nMuuseum."
+   "et": "{07 00 00}Jarr, pea küsima...{01 00 00 05 00}\nMiks valis sinusugune kilu\nlinna nimega {04 03 00}?\nSel om muidugi oma võlud,{01 00 00 14 00}\naga see om ju kusagil\nkeset tühja maad!\nMis sind siis linnas\nnimega {04 03 00}\n{07 30 00}nii väga võlus?{02 03 00 00 00 00 00 00}\nRand.\nRaekoda.\nPoed.\nPiir.\nMuuseum."
   },
   {
    "id": 22,
    "en": "But...{01 00 00 05 00}yer young an' hip-like!{01 00 00 05 00}\nFer ye to choose to live\nin {04 03 00}{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.\nDon't get me wrong, it's got\nits good points, but on the\nwhole,{01 00 00 14 00} it's sorta quiet.\nSo, what is it about\nol' {04 03 00} that\n{07 30 00}convinced ye to move?{02 03 00 00 00 00 00 00}\nThe beach.\nTown hall.\nShopping.\nThe border.\nThe museum.",
-   "et": "Aga...{01 00 00 05 00}oled noor ja moodne!{01 00 00 05 00}\nEt sina valid elamiseks\nlinna nimega {04 03 00}{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.\nÄra mõista valesti, sel on\nomad plussid, aga üldiselt\n{01 00 00 14 00}on seal üsna vaikne.\nMis siis linnas nimega\n{04 03 00} on sellist,\n{07 30 00}mis sind kolima veenis?{02 03 00 00 00 00 00 00}\nRand.\nRaekoda.\nPoed.\nPiir.\nMuuseum."
+   "et": "Aga...{01 00 00 05 00}ole noor ja moodne!{01 00 00 05 00}\nEt sina valid elamiseks\nlinna nimega {04 03 00}{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.\nÄra möista valesti, sel om\nomad plussid, aga üldiselt\n{01 00 00 14 00}om sääl üsna vaikne.\nMis siis linnas nimega\n{04 03 00} om sellist,\n{07 30 00}mis sind kolima veenis?{02 03 00 00 00 00 00 00}\nRand.\nRaekoda.\nPoed.\nPiir.\nMuuseum."
   },
   {
    "id": 23,
    "en": "{07 00 00}Yar, yar, I get ye{01 00 00 05 00}.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 0f 00}\n{07 32 00}That be boy-logic, there.\n{01 00 00 05 00}Yar har har har!",
-   "et": "{07 00 00}Jarr, jarr, saan aru{01 00 00 05 00}.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 0f 00}\n{07 32 00}See on poisiloogika.\n{01 00 00 05 00}Jarr harr harr harr!"
+   "et": "{07 00 00}Jarr, jarr, saan aru{01 00 00 05 00}.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 0f 00}\n{07 32 00}See om poisiloogika.\n{01 00 00 05 00}Jarr harr harr harr!"
   },
   {
    "id": 24,
    "en": "{07 32 00}Yar, yar, {01 00 00 05 00}I see, missy.{01 00 00 0f 00}\nYe ladies got a{01 00 00 05 00} refreshin'\nway o' lookin' at life!",
-   "et": "{07 32 00}Jarr, jarr, {01 00 00 05 00}saan aru, preili.{01 00 00 0f 00}\nTeil daamidel on{01 00 00 05 00} värske\npilk elule!"
+   "et": "{07 32 00}Jarr, jarr, {01 00 00 05 00}saan aru, preili.{01 00 00 0f 00}\nTeil daamidel om{01 00 00 05 00} värske\npilk elule!"
   },
   {
    "id": 25,
@@ -134,12 +134,12 @@
   {
    "id": 26,
    "en": "{07 00 00}So tell me, {04 00 00}...{01 00 00 0f 00}\nWhat're ye plannin' on doin'\nout in {04 03 00}?\nYe learnin' the ins an'\nouts o' interior decoratin'?{02 00 00 00 00}\nI'm moving.\nButt out!",
-   "et": "{07 00 00}Ütle siis, {04 00 00}...{01 00 00 0f 00}\nMida sa kavatsed teha\nlinnas nimega {04 03 00}?\nÕpid ehk sisekujunduse\nnippe ja saladusi?{02 00 00 00 00}\nKolin sinna.\nPole sinu asi!"
+   "et": "{07 00 00}Ütle siis, {04 00 00}...{01 00 00 0f 00}\nMida sa kavatsed teha\nlinnas nimega {04 03 00}?\nÖpid ehk sisekujunduse\nnippe ja saladusi?{02 00 00 00 00}\nKolin sinna.\nPole sinu asi!"
   },
   {
    "id": 27,
    "en": "{07 31 00}Watch yer tongue, ye slug!{01 00 00 0f 00}\nI were on the briny, true,{01 00 00 05 00}\nbut I ain't some sea rube!\nYe know, most big-city folk\n{07 32 00}started out in small towns.\nYe'd be surprised{01 00 00 05 00}.{01 00 00 03 00}.{01 00 00 03 00}.",
-   "et": "{07 31 00}Hoia keelt, sa nälkjas!{01 00 00 0f 00}\nOlin küll merel, tõsi,{01 00 00 05 00}\naga mingi matsi ma pole!\nTead, enamik suurlinlasi\n{07 32 00}alustas väikelinnades.\nSa imestaksid{01 00 00 05 00}.{01 00 00 03 00}.{01 00 00 03 00}."
+   "et": "{07 31 00}Hoia keelt, sa nälkjas!{01 00 00 0f 00}\nOlin küll merel, tösi,{01 00 00 05 00}\naga mingi meremats ma pole!\nTead, enamik suurlinlasi\n{07 32 00}alustas väikelinnades.\nSa imestaksid{01 00 00 05 00}.{01 00 00 03 00}.{01 00 00 03 00}."
   },
   {
    "id": 28,
@@ -149,107 +149,107 @@
   {
    "id": 29,
    "en": "{07 00 00}Well, movin', are ye{01 00 00 05 00}.{01 00 00 03 00}.{01 00 00 03 00}.\nYar, yar, {04 00 00}...{01 00 00 05 00}\nYer at the wanderin' age...",
-   "et": "{07 00 00}Soo, kolid, jah{01 00 00 05 00}.{01 00 00 03 00}.{01 00 00 03 00}.\nJarr, jarr, {04 00 00}...{01 00 00 05 00}\nSa oled rändamise eas..."
+   "et": "{07 00 00}Soo, kolid, jah{01 00 00 05 00}.{01 00 00 03 00}.{01 00 00 03 00}.\nJarr, jarr, {04 00 00}...{01 00 00 05 00}\nSa ole rändamise eas..."
   },
   {
    "id": 30,
    "en": "{07 00 00}Headin' out on yer own, eh{01 00 00 05 00}.{01 00 00 03 00}.{01 00 00 03 00}.{01 01 00}\nYar, {04 00 00}, ye got\nsome spine on ye!",
-   "et": "{07 00 00}Lähed omapäi maailma, jah{01 00 00 05 00}.{01 00 00 03 00}.{01 00 00 03 00}.{01 01 00}\nJarr, {04 00 00}, sul on\nikka selgroogu!"
+   "et": "{07 00 00}Lähe omapäi maailma, jah{01 00 00 05 00}.{01 00 00 03 00}.{01 00 00 03 00}.{01 01 00}\nJarr, {04 00 00}, sul om\nikka selgroogu!"
   },
   {
    "id": 31,
    "en": "{07 00 00}.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}Listen, not to change\nthe subject, {04 00 00},\nbut...\nYe don't look like ye\nbrought too much money\nwith ye.\n{07 30 00}Do ye have enough to \nget settled?{02 00 00 00 00}\nYup!\nKinda...",
-   "et": "{07 00 00}.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}Kuule, mitte et ma\nteemat vahetaks, {04 00 00},\naga...\nSa ei näe välja, nagu\noleksid palju raha\nkaasa võtnud.\n{07 30 00}Kas sul on piisavalt,\net sisse elada?{02 00 00 00 00}\nJah!\nNatuke..."
+   "et": "{07 00 00}.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}Kuule, mitte et ma\nteemat vahetaks, {04 00 00},\naga...\nSa ei näe välja, nagu\noleksid palju raha\nkaasa võtnud.\n{07 30 00}Kas sul om piisavalt,\net sisse elada?{02 00 00 00 00}\nJah!\nNatuke..."
   },
   {
    "id": 32,
    "en": "{07 00 00}.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}Listen, not to change the\nsubject or anythin',\n{04 00 00}, but...\nYe look like ye been livin'\nthe cushy life up to now.{01 00 00 05 00}\nNot to be blunt, but...{07 30 00}\nDo ye have enough cash\nto get started here?{02 00 00 00 00}\nYup.\nMaybe...",
-   "et": "{07 00 00}.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}Kuule, mitte et ma\nteemat vahetaks või nii,\n{04 00 00}, aga...\nSa näed välja, nagu oleksid\nsenini mugavalt elanud.{01 00 00 05 00}\nOtse öeldes aga...{07 30 00}\nKas sul on piisavalt raha,\net siin alustada?{02 00 00 00 00}\nJah.\nVõib-olla..."
+   "et": "{07 00 00}.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}Kuule, mitte et ma\nteemat vahetaks vöi nii,\n{04 00 00}, aga...\nSa näe välja, nagu oleksid\nsenini mugavalt elanud.{01 00 00 05 00}\nOtse öeldes aga...{07 30 00}\nKas sul om piisavalt raha,\net tääl alustada?{02 00 00 00 00}\nJah.\nVõib-olla..."
   },
   {
    "id": 33,
    "en": "{07 32 00}Yar har har har HAR!{01 00 00 0a 00}\nI see,{01 00 00 05 00} ye wee goldfish.{01 00 00 05 00}\nPlenty o' pirate's booty!\n{07 00 00}Well, {01 00 00 05 00}so long as ye have the\ncoin to pay this fare,{01 00 00 05 00}\nI got no quarrel with ye!",
-   "et": "{07 32 00}Jarr harr harr harr HARR!{01 00 00 0a 00}\nSaan aru,{01 00 00 05 00} sa väike kuldkala.{01 00 00 05 00}\nPiraadiaaret küllaga!\n{07 00 00}Noh, {01 00 00 05 00}kuni sul on münte,\net see sõit kinni maksta,{01 00 00 05 00}\npole mul sinuga tüli!"
+   "et": "{07 32 00}Jarr harr harr harr HARR!{01 00 00 0a 00}\nSaan aru,{01 00 00 05 00} sa väike kuldkala.{01 00 00 05 00}\nPiraadiaaret küllaga!\n{07 00 00}Noh, {01 00 00 05 00}kuni sul om münte,\net see söit kinni maksta,{01 00 00 05 00}\npole mul sinuga tüli!"
   },
   {
    "id": 34,
    "en": "{07 32 00}Yar har har har HAR!{01 00 00 0a 00}\nAren't ye just a hermit\ncrab, hoardin' up riches!\n{07 00 00}Let me tell ye, missy...{01 00 00 05 00}\n{07 30 00}Ye ever want to find pirate\nbooty...{01 00 00 0f 00}I'm yer cabbie!",
-   "et": "{07 32 00}Jarr harr harr harr HARR!{01 00 00 0a 00}\nSa oled nagu erakvähk,\nkes aardeid kokku kuhjab!\n{07 00 00}Ütlen sulle, preili...{01 00 00 05 00}\n{07 30 00}Kui tahad kunagi aaret\nleida...{01 00 00 0f 00}olen sinu taksojuht!"
+   "et": "{07 32 00}Jarr harr harr harr HARR!{01 00 00 0a 00}\nSa ole nagu erakvähk,\nkes aardeid kokku kuhjab!\n{07 00 00}Ütlen sulle, preili...{01 00 00 05 00}\n{07 30 00}Kui taha kunagi aaret\nleida...{01 00 00 0f 00}olen su taksojuht!"
   },
   {
    "id": 35,
    "en": "{07 00 00}Nar, {01 00 00 05 00}don't have a care.{01 00 00 0f 00}\nIf ye haven't the booty fer\nyer fare...\n{07 32 00}I'll just have to make ye\nwork it off, ye scallywag!{01 00 00 05 00}\nYar har har har HAR!",
-   "et": "{07 00 00}Ei, {01 00 00 05 00}ära muretse.{01 00 00 0f 00}\nKui sul pole sõiduraha\nmaksta...\n{07 32 00}Pean su lihtsalt tööle\npanema, sa lurjus!{01 00 00 05 00}\nJarr harr harr harr HARR!"
+   "et": "{07 00 00}Ei, {01 00 00 05 00}ära muretse.{01 00 00 0f 00}\nKui sul söiduraha puudu\nom...\n{07 32 00}Pea su lihtsalt tööle\npanema, sa lurjus!{01 00 00 05 00}\nJarr harr harr harr HARR!"
   },
   {
    "id": 36,
    "en": "{07 00 00}Ye {01 00 00 05 00}got so quiet all of a\nsudden, there, missy{01 00 00 05 00}.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 14 00}\nNar, {01 00 00 05 00}don't ye worry, now.\nIf yer haven't the coin,\n{07 32 00}ye just owe me a dinner.{01 00 00 05 00}\nA romantic one!{01 00 00 05 00} Yar HAR!",
-   "et": "{07 00 00}Sa {01 00 00 05 00}jäid äkki nii\nvaikseks, preili{01 00 00 05 00}.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 14 00}\nEi, {01 00 00 05 00}ära nüüd muretse.\nKui sul raha pole,\n{07 32 00}oled mulle õhtusöögi võlgu.{01 00 00 05 00}\nRomantilise!{01 00 00 05 00} Jarr HARR!"
+   "et": "{07 00 00}Sa {01 00 00 05 00}jäid äkki nii\nvaikseks, preili{01 00 00 05 00}.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 14 00}\nEi, {01 00 00 05 00}ära nüid muretse.\nKui sul raha pole,\n{07 32 00}ole mulle öhtusöögi võlgu.{01 00 00 05 00}\nRomantilise!{01 00 00 05 00} Jarr HARR!"
   },
   {
    "id": 37,
    "en": "{07 00 00}{01 0b 00}.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}Yar,{01 00 00 05 00} well,{01 00 00 14 00} have a look.{01 00 00 05 00}\nThere! {01 00 00 05 00}{0b 03 00}{04 03 00}, ho!{01 00 00 05 00}\nEnd o' the line!\n{07 31 00}And hey,{01 00 00 0f 00} would ye look at\nthat! {01 00 00 05 00}Looks like the blasted{01 00 00 05 00}\nrain is even lettin' up.",
-   "et": "{07 00 00}{01 0b 00}.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}Jarr,{01 00 00 05 00} noh,{01 00 00 14 00} vaata ise.{01 00 00 05 00}\nSeal! {01 00 00 05 00}{0b 03 00}{04 03 00}, ohoi!{01 00 00 05 00}\nLõpp-peatus!\n{07 31 00}Ja näe,{01 00 00 0f 00} vaata aga\nseda! {01 00 00 05 00}Paistab, et neetud{01 00 00 05 00}\nvihm jääb ka järele."
+   "et": "{07 00 00}{01 0b 00}.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}Jarr,{01 00 00 05 00} noh,{01 00 00 14 00} vaata ise.{01 00 00 05 00}\nSääl! {01 00 00 05 00}{0b 03 00}{04 03 00}, ohoi!{01 00 00 05 00}\nLöpp-peatus!\n{07 31 00}Ja näe,{01 00 00 0f 00} vaata aga\nseda! {01 00 00 05 00}Paistab, et neetud{01 00 00 05 00}\nvihm hakkab ka vaibuma."
   },
   {
    "id": 38,
    "en": "{07 00 00}{01 0b 00}.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}Well,{01 00 00 05 00} would ye look there!{01 00 00 0f 00}\nWe're almost at yer town!\n{0b 03 00}{04 03 00}, ho!\nWell, me dear {04 00 00}...\nI know it's heartbreakin',\nbut{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.\n{07 31 00}Nar,{01 00 00 05 00} nar, nar!{01 00 00 0a 00} NAR, says I!{01 00 00 05 00}\nI won't say farewell!{01 00 00 05 00}\n'Tis too painful!\n{07 00 00}Nar.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 0f 00} At least the rain is\nlettin' up...{01 00 00 05 00}though a storm\nbe ragin' in me eyes...",
-   "et": "{07 00 00}{01 0b 00}.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}Noh,{01 00 00 05 00} vaata aga seda!{01 00 00 0f 00}\nOleme peaaegu su linnas!\n{0b 03 00}{04 03 00}, ohoi!\nNoh, mu kallis {04 00 00}...\nTean, see murrab südame,\naga{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.\n{07 31 00}Ei,{01 00 00 05 00} ei, ei!{01 00 00 0a 00} EI, ütlen ma!{01 00 00 05 00}\nMa ei jäta hüvasti!{01 00 00 05 00}\nSee on liiga valus!\n{07 00 00}Ei.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 0f 00} Vähemalt vihm\njääb järele...{01 00 00 05 00}kuigi mu silmis\nmöllab torm..."
+   "et": "{07 00 00}{01 0b 00}.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}Noh,{01 00 00 05 00} vaata aga seda!{01 00 00 0f 00}\nOleme peaaegu su linnas!\n{0b 03 00}{04 03 00}, ohoi!\nNoh, mu kallis {04 00 00}...\nTean, see murrab südame,\naga{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.\n{07 31 00}Ei,{01 00 00 05 00} ei, ei!{01 00 00 0a 00} EI, ütlen ma!{01 00 00 05 00}\nMa ei jäta hüvasti!{01 00 00 05 00}\nSee om liiga valus!\n{07 00 00}Ei.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 0f 00} Vähemalt vihm\nhakkab vaibuma...{01 00 00 05 00}kuigi mu silmis\nmöllab torm..."
   },
   {
    "id": 39,
    "en": "{ff 00 00 01}Yar, I be savin' now...\nPlease wait...and don't be\ntouchin' the Power Button.{01 10 00 14}",
-   "et": "{ff 00 00 01}Jarr, ma salvestan nüüd...\nPalun oota...ja ära\npuuduta toitenuppu.{01 10 00 14}"
+   "et": "{ff 00 00 01}Jarr, ma salvestan nüid...\nPalun oota...ja ära\npuuduta toitenuppu.{01 10 00 14}"
   },
   {
    "id": 40,
    "en": ".{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}Yar, it's too bad yer\nheadin' all the way to\n{04 03 00}...\nLong way to go, an' it's\nrainin' a fair nor'easter...{02 00 00 06 07}\nYeah, it stinks.\nI'm fine...",
-   "et": ".{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}Jarr, kahju, et sa pead\nsõitma nii kaugele, linna\nnimega {04 03 00}...\nPikk tee minna, ja väljas\nsajab kui kirdetormis...{02 00 00 06 07}\nJah, see on jama.\nMul on hästi..."
+   "et": ".{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}Jarr, kahju, et sa pea\nsöitma nii kaugele, linna\nnimega {04 03 00}...\nPikk tee minna, ja väljas\nsajab kui kirdetormis...{02 00 00 06 07}\nJah, see on jama.\nMul on hästi..."
   },
   {
    "id": 41,
    "en": "{07 31 00}Yo ho!{01 01 00} {07 00 00}You mightn't believe\nyer ears, but I know a wee\nminnow by that name.\n{07 32 00}Yar har har! {01 00 00 14 00}That lubber's\na bit o' a squid-brain, if\nye catch me drift...\n{07 00 00}But{01 00 00 0f 00} that's none o' yer\nproblem, no.{01 00 00 03 00}.{01 00 00 03 00}.\n\nIt'd get confusin', though, \nso would ye mind terribly\n{07 30 00}choosin' another name?",
-   "et": "{07 31 00}Jo-ho!{01 01 00} {07 00 00}Sa ei usu oma\nkõrvu, aga tean üht kilu\njust sellise nimega.\n{07 32 00}Jarr harr harr! {01 00 00 14 00}See tüüp\non natuke kalmaariaju, kui\nsa aru saad...\n{07 00 00}Aga{01 00 00 0f 00} see pole sinu\nmure, ei.{01 00 00 03 00}.{01 00 00 03 00}.\n\nSee ajaks aga segadusse,\nnii et ehk oleksid nii kena\n{07 30 00}ja valiksid teise nime?"
+   "et": "{07 31 00}Jo-ho!{01 01 00} {07 00 00}Sa ei usu oma\nkörvu, aga tean üht kilu\njust sellise nimega.\n{07 32 00}Jarr harr harr! {01 00 00 14 00}See tüüp\nom natukene kalmaariaju, kui\nsa aru saa...\n{07 00 00}Aga{01 00 00 0f 00} see pole sinu\nmure, ei.{01 00 00 03 00}.{01 00 00 03 00}.\n\nSee ajaks aga segadusse,\nnii et ehk oleksid nii kena\n{07 30 00}ja valiksid teise nime?"
   },
   {
    "id": 43,
    "en": "{07 32 00}Yar, nature has herself a\nfair chuckle at the plans o'\nman...an' woman, o' course!",
-   "et": "{07 32 00}Jarr, loodus naerab ikka\nmõnuga meeste plaanide üle\n...ja naiste, loomulikult!"
+   "et": "{07 32 00}Jarr, loodus naerab ikka\nmönuga meeste plaanide üle\n...ja naiste, loomulikult!"
   },
   {
    "id": 44,
    "en": "Yar, ye speckled mutefish...{01 00 00 05 00}\n{07 30 00}Ye sure are quiet back\nthere, aren't ye?",
-   "et": "Jarr, sa tähniline kala...{01 00 00 05 00}\n{07 30 00}Sa oled seal taga küll\nvaikne, mis?"
+   "et": "Jarr, tumm nagu kala...{01 00 00 05 00}\n{07 30 00}Sa ole sääl taga tõesti\ntumm, mis?"
   },
   {
    "id": 45,
    "en": ".{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}Well,{01 00 00 05 00} yar, I guess that\njust goes to show folks\ngot different strokes.",
-   "et": ".{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}Noh,{01 00 00 05 00} jarr, see vist\nnäitab, et igaühel on\nomad maitsed."
+   "et": ".{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}Noh,{01 00 00 05 00} jarr, see vist\nnäitab, et igaühel om\noma ujumisstiil."
   },
   {
    "id": 46,
    "en": "Nar, easy, ye surly crab!{01 00 00 05 00}\nPut yer claws away! {01 00 00 05 00}I didn't\nmean nothing by it...",
-   "et": "Ei, rahu, sa tige krabi!{01 00 00 05 00}\nPane sõrad ära! {01 00 00 05 00}Ma ei\nmõelnud midagi halba..."
+   "et": "Ei, rahu, sa tige krabi!{01 00 00 05 00}\nPane sörad ära! {01 00 00 05 00}Ma ei\nmöelnud midagi halba..."
   },
   {
    "id": 47,
    "en": "{07 32 00}Yar har har har har HAR!{01 00 00 0a 00}\nLasses these days...{01 00 00 05 00} Who\nknows what ye be thinkin'?\n{07 00 00}Why, I'd bet me whole cab{01 00 00 05 00}\n{07 30 00}ye wouldn't know a squid\nfrom an octopus. {01 00 00 0f 00}Yar!",
-   "et": "{07 32 00}Jarr harr harr harr HARR!{01 00 00 0a 00}\nTänapäeva tüdrukud...{01 00 00 05 00} Kes\nteab, mida te mõtlete?\n{07 00 00}Panen kogu oma takso{01 00 00 05 00}\n{07 30 00}kihla, et sa ei erista\nkalmaari kaheksajalast!{01 00 00 0f 00}"
+   "et": "{07 32 00}Jarr harr harr harr HARR!{01 00 00 0a 00}\nTänapäeva tüdrukud...{01 00 00 05 00} Kes\nteab, mida te mötlete?\n{07 00 00}Panen kogu oma takso{01 00 00 05 00}\n{07 30 00}kihla, et sa ei erista\nkalmaari kaheksajalast!{01 00 00 0f 00}"
   },
   {
    "id": 48,
    "en": "{07 00 00}Well, that do be an\ninterestin' choice, don't it?\nOl' {04 03 00}{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}\n{07 32 00}It's got its charms, sure,{01 00 00 14 00}\nbut it's sorta on the quiet\nside, if ye gets me drift...\n{07 00 00}Yer travelin' quite a ways\nto get there, too{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}\n\nSo tell me, what is it\n{07 30 00}ye plan to do there?{02 00 00 00 00}\nMoving in!\nVisiting!",
-   "et": "{07 00 00}Noh, see on ju üks\nhuvitav valik, eks?\nVana hea {04 03 00}{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}\n{07 32 00}Sel on oma võlud, muidugi,{01 00 00 14 00}\naga see on pigem vaikne\nkoht, kui sa aru saad...\n{07 00 00}Ja sõidad ka päris kaugele,\net sinna jõuda{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}\n\nÜtle siis, mida sa\n{07 30 00}seal teha kavatsed?{02 00 00 00 00}\nKolin sinna!\nKülla!"
+   "et": "{07 00 00}Noh, see om ju üks\nhuvitav valik, eks?\nVana hea {04 03 00}{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}\n{07 32 00}Sel om oma võlud, muidugi,{01 00 00 14 00}\naga see om pigem vaikne\nkoht, kui sa aru saa...\n{07 00 00}Ja söida ka päris kaugele,\net sinna jöuda{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}\n\nÜtle siis, mida sa\n{07 30 00}sääl teha kavatse?{02 00 00 00 00}\nKolin sinna!\nKülla!"
   },
   {
    "id": 49,
    "en": "{07 00 00}Interestin', to be sure...{01 00 00 14 00}\nBut {01 00 00 03 00}if yer movin', where \nthe heck's all yer stuff?\n{07 00 00}{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.{01 01 00}{07 32 00}Yar,{01 00 00 03 00} I'm thinkin' maybe\nthat's none o' mine, eh?{01 00 00 05 00}\nYar har har har HAR!",
-   "et": "{07 00 00}Huvitav, tõepoolest...{01 00 00 14 00}\nAga {01 00 00 03 00}kui sa kolid, kus\nsiis kõik su asjad on?\n{07 00 00}{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.{01 01 00}{07 32 00}Jarr,{01 00 00 03 00} vist pole see\nminu asi, mis?{01 00 00 05 00}\nJarr harr harr harr HARR!"
+   "et": "{07 00 00}Huvitav, töepoolest...{01 00 00 14 00}\nAga {01 00 00 03 00}kui sa kolid, kus\npaganast köik su asjad om?\n{07 00 00}{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.{01 01 00}{07 32 00}Jarr,{01 00 00 03 00} vist pole see\nminu asi, mis?{01 00 00 05 00}\nJarr harr harr harr HARR!"
   },
   {
    "id": 50,
    "en": "{07 00 00}Interestin', interestin'.{01 00 00 14 00}\nSeems to me yer travelin' a{01 00 00 03 00}\nbit light fer a visit...\n{07 00 00}{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.{01 01 00}{07 32 00}Yar, {01 00 00 03 00} I guess there ain't\nno law against travelin'\nwithout luggage.{01 00 00 05 00} Yar HAR!",
-   "et": "{07 00 00}Huvitav, huvitav.{01 00 00 14 00}\nMulle tundub, et reisid{01 00 00 03 00}\nkülaskäiguks üsna kergelt...\n{07 00 00}{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.{01 01 00}{07 32 00}Jarr, {01 00 00 03 00} pole vist seadust,\nmis keelaks reisida\nilma pagasita.{01 00 00 05 00} Jarr HARR!"
+   "et": "{07 00 00}Huvitav, huvitav.{01 00 00 14 00}\nMulle tundub, et reisi{01 00 00 03 00}\nkülaskäiguks üsna kergelt...\n{07 00 00}{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.{01 01 00}{07 32 00}Jarr, {01 00 00 03 00} pole vist seadust,\nmis keelaks reisida\nilma pagasita.{01 00 00 05 00} Jarr HARR!"
   }
  ]
 }

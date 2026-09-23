@@ -9,7 +9,7 @@
   {
    "id": 1,
    "en": "{07 14 00}{0b 03 00}{01 06 00}Yo yo yo{01 07 00}!{01 00 00 05 00}\nListen up, {ff 00 00 05}{04 1f 00}{ff 00 00 00}!\n\n{07 16 00}I'm feeling stale. {01 00 00 05 00}Real\nstale. {01 00 00 05 00}I got stale moves,\nstale everything{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 00 00}Stalest of all is that thing\nI say all the time. {01 00 00 05 00}I mean,\nI WORK that phrase.\n{07 0b 00}Can you think of a good\nalternative, {01 00 00 05 00}{04 02 00}?",
-   "et": "{07 14 00}{0b 03 00}{01 06 00}Jou jou jou{01 07 00}!{01 00 00 05 00}\nKuula, {ff 00 00 05}{04 1f 00}{ff 00 00 00}!\n\n{07 16 00}Ma olen ära leierdatud.{01 00 00 05 00}\nMu liigutused,{01 00 00 05 00} kõik on\nleierdatud{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 00 00}Kõige vanem on see asi,\nmida ma ütlen. {01 00 00 05 00}Ma lausa\nKURNAN seda fraasi.\n{07 0b 00}Kas sa oskad head\nalternatiivi, {01 00 00 05 00}{04 02 00}?"
+   "et": "{07 14 00}{0b 03 00}{01 06 00}Jou jou jou{01 07 00}!{01 00 00 05 00}\nKuula, {ff 00 00 05}{04 1f 00}{ff 00 00 00}!\n\n{07 16 00}Ma olen ära leierdatud.{01 00 00 05 00}\nMu liigutused,{01 00 00 05 00} kõik on\nleierdatud{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 00 00}Kõige vanem on see asi,\nmida ma ütlen. {01 00 00 05 00}Ma lausa\nKURNAN seda fraasi.\n{07 0b 00}Kas sa oskad head\nalternatiivi pakkuda, {01 00 00 05 00}{04 02 00}?"
   },
   {
    "id": 2,
@@ -54,7 +54,7 @@
   {
    "id": 10,
    "en": "{07 14 00}{0b 03 00}{01 06 00}Word, bird{01 07 00}!{01 00 00 0a 00}\nHow are ya, {04 1f 00}?\n\n{07 00 00}Listen, I just had this\nkiller idea. {01 00 00 05 00}Today, in honor\nof us being buds...\n{07 15 00}Let's come up with a secret\ngreeting for just the two\nof us, {01 00 00 05 00}{04 02 00}!\n{07 14 00}You're the brainy one, so\nyou get to come up with it!{01 01 00}\n{07 06 00}C'mon, it'll be awesome!",
-   "et": "{07 14 00}{0b 03 00}{01 06 00}Jah, mees{01 07 00}!{01 00 00 0a 00}\nKuidas läheb, {04 1f 00}?\n\n{07 00 00}Kuule, mul tuli just\ntapev idee. {01 00 00 05 00}Täna, meie\nsõpruse auks...\n{07 15 00}Mõtleme välja salajase\ntervituse ainult meie\nkahe jaoks, {01 00 00 05 00}{04 02 00}!\n{07 14 00}Sina oled see tarkpea, nii\net sina mõtled selle välja!{01 01 00}\n{07 06 00}Ole nüüd, see tuleb vinge!"
+   "et": "{07 14 00}{0b 03 00}{01 06 00}Jah, mees{01 07 00}!{01 00 00 0a 00}\nKuidas läheb, {04 1f 00}?\n\n{07 00 00}Kuule, mul tuli just\ntappev idee. {01 00 00 05 00}Täna, meie\nsõpruse auks...\n{07 15 00}Mõtleme välja salajase\ntervituse ainult meie\nkahe jaoks, {01 00 00 05 00}{04 02 00}!\n{07 14 00}Sina oled see tarkpea, nii\net sina mõtled selle välja!{01 01 00}\n{07 06 00}Ole nüüd, see tuleb vinge!"
   },
   {
    "id": 11,

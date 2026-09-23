@@ -14,7 +14,7 @@
   {
    "id": 2,
    "en": "{07 07 00}Brrrr! {01 00 00 0f 00}It's freezing,{01 00 00 0f 00}\n{04 1f 00}! \n\n{07 16 00}I{01 00 00 05 00} like snow and\neverything,{01 00 00 0a 00} but I hate\nbeing cold, {04 02 00}.",
-   "et": "{07 07 00}Brrrr! {01 00 00 0f 00}On külmetav,{01 00 00 0f 00}\n{04 1f 00}!\n\n{07 16 00}Mulle{01 00 00 05 00} meeldib lumi ja\nkõik,{01 00 00 0a 00} aga ma vihkan\nkülmetamist, {04 02 00}."
+   "et": "{07 07 00}Brrrr! {01 00 00 0f 00}On hundikülm,{01 00 00 0f 00}\n{04 1f 00}!\n\n{07 16 00}Mulle{01 00 00 05 00} meeldib lumi ja\nkõik,{01 00 00 0a 00} aga ma vihkan\nkülmas olemist, {04 02 00}."
   },
   {
    "id": 3,
@@ -54,7 +54,7 @@
   {
    "id": 10,
    "en": "It's you, {04 1f 00}!{01 00 00 14 00} {07 0b 00}What\nare you doing here at this\nhour, {01 00 00 05 00}{04 02 00}?\n{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00}{07 18 00}What?!{01 00 00 0a 00} You came to see\nme?! {0b 03 00}{04 02 00}!\n\n{07 06 00}{01 00 00 0a 00}Oh, shush!{01 00 00 0a 00} That cheesy line\nsounds like it came right\nout of an old movie!",
-   "et": "See oled sina, {04 1f 00}!{01 00 00 14 00} {07 0b 00}\nMida sa siin sellisel\nkellaajal teed, {01 00 00 05 00}{04 02 00}?\n{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00}{07 18 00}Mis?!{01 00 00 0a 00} Sa tulid mind\nvaatama?! {0b 03 00}{04 02 00}!\n\n{07 06 00}{01 00 00 0a 00}Oi, vaiki!{01 00 00 0a 00} See lääge lause\nkõlab, nagu oleks see\nvanast filmist pärit!"
+   "et": "See oled sina, {04 1f 00}!{01 00 00 14 00} {07 0b 00}\nMida sa siin sellisel\nkellaajal teed, {01 00 00 05 00}{04 02 00}?\n{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00}{07 18 00}Mis?!{01 00 00 0a 00} Sa tulid mind\nvaatama?! {0b 03 00}{04 02 00}!\n\n{07 06 00}{01 00 00 0a 00}Oi, vaiki!{01 00 00 0a 00} See kesine lause\nkõlab, nagu oleks see\nvanast filmist pärit!"
   },
   {
    "id": 11,

@@ -109,7 +109,7 @@
   {
    "id": 21,
    "en": "{07 00 00}When is it appropriate\nto sport legwarmers?\n{02 02 00 ff ff ff ff}\nOn the beach!{0a 00 00 03}\nIn the office!{0a 00 00 01}\nDance class!{0a 00 00 08}\nNever!{0a 00 00 0a}",
-   "et": "{07 00 00}Millal sobib kanda\nsäärisi?\n{02 02 00 ff ff ff ff}\nRannas!{0a 00 00 03}\nKontoris!{0a 00 00 01}\nTantsutunnis!{0a 00 00 08}\nMitte kunagi!{0a 00 00 0a}"
+   "et": "{07 00 00}Millal sobib kanda\nsääremütse?\n{02 02 00 ff ff ff ff}\nRannas!{0a 00 00 03}\nKontoris!{0a 00 00 01}\nTantsutunnis!{0a 00 00 08}\nMitte kunagi!{0a 00 00 0a}"
   },
   {
    "id": 22,
@@ -119,7 +119,7 @@
   {
    "id": 23,
    "en": "{07 00 00}What print looks hot in\nevery season?{02 02 00 ff ff ff ff}\nFloral!{0a 00 00 06}\nFunky!{0a 00 00 02}\nAnimal!{0a 00 00 0a}\nHoundstooth!{0a 00 00 01}",
-   "et": "{07 00 00}Milline muster on kuum\nigal hooajal?{02 02 00 ff ff ff ff}\nLillemuster!{0a 00 00 06}\nFankmuster!{0a 00 00 02}\nLoomamuster!{0a 00 00 0a}\nHanijalg!{0a 00 00 01}"
+   "et": "{07 00 00}Milline muster on kuum\nigal hooajal?{02 02 00 ff ff ff ff}\nLillemuster!{0a 00 00 06}\nFunkmuster!{0a 00 00 02}\nLoomamuster!{0a 00 00 0a}\nHanijalg!{0a 00 00 01}"
   },
   {
    "id": 24,
@@ -244,7 +244,7 @@
   {
    "id": 48,
    "en": "{07 02 00}{01 00 00 0a 00}Oh, my{01 00 00 0f 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}so much!?{07 00 00}\nOh,{01 00 00 0a 00} I mean,{01 00 00 0f 00} of course,\ndarling!{01 00 00 05 00} Tee hee hee!\n{07 14 00}{01 00 00 0a 00}Honey,{01 00 00 05 00} {ff 00 00 06}Gracie{ff 00 00 00} is about to\ngive you the deee-luxe!{01 00 00 05 00}",
-   "et": "{07 02 00}{01 00 00 0a 00}Oh sa{01 00 00 0f 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}nii palju!?{07 00 00}\nOh,{01 00 00 0a 00} ma mõtlen,{01 00 00 0f 00} muidugi,\nkallis!{01 00 00 05 00} Hihihii!\n{07 14 00}{01 00 00 0a 00}Musike,{01 00 00 05 00} {ff 00 00 06}Gracie{ff 00 00 00} annab sulle\nkohe luk-suse!{01 00 00 05 00}"
+   "et": "{07 02 00}{01 00 00 0a 00}Oh sa{01 00 00 0f 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}nii palju!?{07 00 00}\nOh,{01 00 00 0a 00} ma mõtlen,{01 00 00 0f 00} muidugi,\nkallis!{01 00 00 05 00} Hihihii!\n{07 14 00}{01 00 00 0a 00}Musike,{01 00 00 05 00} {ff 00 00 06}Gracie{ff 00 00 00} annab sulle\nkohe täie LUUUKSUSE!{01 00 00 05 00}"
   },
   {
    "id": 49,
@@ -264,7 +264,7 @@
   {
    "id": 55,
    "en": "{07 00 00}Snip snip snip.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} Oh, my!\nI could just eat this up!\n\n{07 0a 00}{01 00 00 0a 00}So bold! So tangy! So SPICY!\nHoney, you got a whole BBQ\nbuffet of style goin' on!",
-   "et": "{07 00 00}Kärts kärts kärts.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} Oh sa!\nMa lausa sööksin selle ära!\n\n{07 0a 00}{01 00 00 0a 00}Nii julge! Nii vürtsikas!\nMusike, sul on terve\ngrillbufee stiili!"
+   "et": "{07 00 00}Kärts kärts kärts.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} Oh sa!\nMa lausa sööksin selle ära!\n\n{07 0a 00}{01 00 00 0a 00}Nii julge! Nii hapukas! Nii VÜRTSIKAS!\nMusike, sul on terve\ngrillbufee stiili!"
   },
   {
    "id": 56,

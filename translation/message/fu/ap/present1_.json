@@ -4,17 +4,17 @@
   {
    "id": 0,
    "en": "{07 14 00}{0b 03 00}{01 06 00}Howdy{01 07 00}!{01 00 00 0f 00}\n{0b 03 00}{04 1f 00}! I've got a quiz\nfor you, {01 00 00 05 00}{04 02 00}!\n{07 00 00}If I were a film star, {07 0b 00}what\nsorts of films do you think\nI'd star in, {01 00 00 05 00}{04 02 00}?{05 05 00 03 03 08 04 03 05 02 06}\nAction!\nRomantic comedy!",
-   "et": "{07 14 00}{0b 03 00}{01 06 00}Terekest{01 07 00}!{01 00 00 0f 00}\n{0b 03 00}{04 1f 00}! Mul on sulle\nviktoriin, {01 00 00 05 00}{04 02 00}!\n{07 00 00}Kui ma oleksin filmitäht,{07 0b 00}\nsorti filmides ma sinu\narust mängiksin, {01 00 00 05 00}{04 02 00}?{05 05 00 03 03 08 04 03 05 02 06}\nMärulis!\nRomantilises komöödias!"
+   "et": "{07 14 00}{0b 03 00}{01 06 00}Terekest{01 07 00}!{01 00 00 0f 00}\n{0b 03 00}{04 1f 00}! Mul on sulle\nviktoriin, {01 00 00 05 00}{04 02 00}!\n{07 00 00}Kui ma oleksin filmitäht,{07 0b 00}\nmillist sorti filmides ma\nsinu arust mängiksin, {01 00 00 05 00}{04 02 00}?{05 05 00 03 03 08 04 03 05 02 06}\nMärulis!\nRomantilises komöödias!"
   },
   {
    "id": 1,
    "en": "{07 14 00}{0b 03 00}{01 06 00}Well, hello there{01 07 00}!{01 00 00 0a 00}\nI know how you love these,\nso here it comes!\nPop-quiz time, {04 1f 00}!\n\n\n{07 00 00}How would you describe my\nrelationship with\n{04 0b 00}?{05 05 00 04 0a 04 0b 07 0c 01 0d}\nBest friends!\nMortal foes!",
-   "et": "{07 14 00}{0b 03 00}{01 06 00}Noh, tere seal{01 07 00}!{01 00 00 0a 00}\nMa tean, kui väga sa neid\narmastad, nii et siin tuleb!\nViktoriini aeg, {04 1f 00}!\n\n\n{07 00 00}Kuidas sa kirjeldaksid mu\nsuhet\n{04 0b 00}iga?{05 05 00 04 0a 04 0b 07 0c 01 0d}\nParimad sõbrad!\nSurmavaenlased!"
+   "et": "{07 14 00}{0b 03 00}{01 06 00}Noh, tere seal{01 07 00}!{01 00 00 0a 00}\nMa tean, kui väga sa neid\narmastad, nii et siin tuleb!\nViktoriini aeg, {04 1f 00}!\n\n\n{07 00 00}Kuidas sa kirjeldaksid minu\nja {04 0b 00}\nvahelist suhet?{05 05 00 04 0a 04 0b 07 0c 01 0d}\nParimad sõbrad!\nSurmavaenlased!"
   },
   {
    "id": 2,
    "en": "{07 14 00}{0b 03 00}{01 06 00}Great timing{01 07 00}!{01 00 00 0a 00}\nI've got a little quiz for\nyou to take, {04 1f 00}!\n{07 00 00}If you had to guess,{07 0b 00} how\nwell would you say I get\nalong with {04 0c 00}?{05 05 00 02 0e 05 0f 04 10 05 11}\nBest friends!\nMortal foes!",
-   "et": "{07 14 00}{0b 03 00}{01 06 00}Suurepärane ajastus{01 07 00}!{01 00 00 0a 00}\nMul on sulle väike\nviktoriin, {04 1f 00}!\n{07 00 00}Kui sa peaksid arvama,{07 0b 00} kui\nhästi ma sinu arust saan\nläbi {04 0c 00}iga?{05 05 00 02 0e 05 0f 04 10 05 11}\nParimad sõbrad!\nSurmavaenlased!"
+   "et": "{07 14 00}{0b 03 00}{01 06 00}Suurepärane ajastus{01 07 00}!{01 00 00 0a 00}\nMul on sulle väike\nviktoriin, {04 1f 00}!\n{07 00 00}Kui sa peaksid arvama,{07 0b 00} kui\nhästi mina ja {04 0c 00}\nläbi saame?{05 05 00 02 0e 05 0f 04 10 05 11}\nParimad sõbrad!\nSurmavaenlased!"
   },
   {
    "id": 3,
@@ -24,7 +24,7 @@
   {
    "id": 4,
    "en": "{07 02 00}Wow! That's very astute of\nyou, {01 00 00 05 00}{04 02 00}! I think I'd\nmake a good action star.\nAnd I am into action\nmovies. But then again,\nisn't everyone, {01 00 00 05 00}{04 02 00}?\n{07 14 00}For giving me such a good\nanswer, I've got a fabulous\ngift for you, {04 1f 00}!",
-   "et": "{07 02 00}Vau! See on sinust väga\ntaiplik, {01 00 00 05 00}{04 02 00}! Ma arvan,\net sobiksin märulitäheks.\nJa mulle meeldivad\nmärulifilmid. Aga jälle,\nkas ei meeldi, {01 00 00 05 00}{04 02 00}?\n{07 14 00}Nii hea vastuse eest on\nmul sulle vapustav\nkingitus, {04 1f 00}!"
+   "et": "{07 02 00}Vau! See on sinust väga\ntaiplik, {01 00 00 05 00}{04 02 00}! Ma arvan,\net sobiksin märulitäheks.\nJa mulle meeldivad\nmärulifilmid. Aga jälle,\nkas kõigile ei meeldi, {01 00 00 05 00}{04 02 00}?\n{07 14 00}Nii hea vastuse eest on\nmul sulle vapustav\nkingitus, {04 1f 00}!"
   },
   {
    "id": 5,
@@ -79,7 +79,7 @@
   {
    "id": 15,
    "en": "{07 02 00}Wow, {01 00 00 0f 00}{04 1f 00}!{01 00 00 0f 00} {07 14 00}You got\nit spot on the money! Nice\nguess, {01 00 00 05 00}{04 02 00}!\n{07 00 00}It's true, things haven't\nbeen going well for us\nlately, but{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n{07 16 00}it's not like I'm curled up\ninto a tiny ball of spite\nwhen I see {04 0c 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 14 00}We're just going over one\nof life's speed bumps,\nthat's all, {01 00 00 05 00}{04 02 00}.\n{07 00 00}But what matters now is{01 00 00 05 00}\nyou were absolutely right,\nand you deserve a prize.",
-   "et": "{07 02 00}Vau, {01 00 00 0f 00}{04 1f 00}!{01 00 00 0f 00} {07 14 00}Sa tabasid\nnaelapea pihta! Kena\narvamine, {01 00 00 05 00}{04 02 00}!\n{07 00 00}On tõsi, viimasel ajal pole\nasjad meil hästi\nläinud, aga{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n{07 16 00}pole nii, et ma tõmbuksin\nvihast kerra, kui näen\n{04 0c 00}it{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 14 00}Me lihtsalt läbime ühe\nelu künka, see on kõik,\n{01 00 00 05 00}{04 02 00}.\n{07 00 00}Aga nüüd on tähtis see,{01 00 00 05 00}\net sul oli täiesti õigus\nja sa väärid auhinda."
+   "et": "{07 02 00}Vau, {01 00 00 0f 00}{04 1f 00}!{01 00 00 0f 00} {07 14 00}Sa tabasid\nnaelapea pihta! Kena\narvamine, {01 00 00 05 00}{04 02 00}!\n{07 00 00}On tõsi, viimasel ajal pole\nasjad meil hästi\nläinud, aga{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n{07 16 00}pole nii, et ma tõmbuksin\nvihast kerra, kui {04 0c 00}\npaistab{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 14 00}Me lihtsalt läbime ühe\nelu künka, see on kõik,\n{01 00 00 05 00}{04 02 00}.\n{07 00 00}Aga nüüd on tähtis see,{01 00 00 05 00}\net sul oli täiesti õigus\nja sa väärid auhinda."
   },
   {
    "id": 16,

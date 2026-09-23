@@ -19,7 +19,7 @@
   {
    "id": 3,
    "en": "I caught a dace!{01 00 00 05 00}\n\nDace in the hole!",
-   "et": "Püüdsin turva!{01 00 00 05 00}\n\nTurvaline saak!"
+   "et": "Püüdsin turba!{01 00 00 05 00}\n\nTurvaline saak!"
   },
   {
    "id": 4,
@@ -69,7 +69,7 @@
   {
    "id": 13,
    "en": "I caught a loach!{01 00 00 05 00}\n\nI'm the loach coach!{01 00 00 05 00} ",
-   "et": "Püüdsin hingi!{01 00 00 05 00}\n\nHinge kinni pidades!{01 00 00 05 00} "
+   "et": "Püüdsin hinki!{01 00 00 05 00}\n\nHinge kinni pidades!{01 00 00 05 00} "
   },
   {
    "id": 14,
@@ -104,7 +104,7 @@
   {
    "id": 20,
    "en": "I caught a pond smelt!{01 00 00 05 00}\n\nWhat's the pond smell like?",
-   "et": "Püüdsin tiigimeritindi!{01 00 00 05 00}\n\nMis lõhna tiik tunneb?"
+   "et": "Püüdsin tiigimeritindi!{01 00 00 05 00}\n\nMis järele tiik lõhnab?"
   },
   {
    "id": 21,
@@ -144,7 +144,7 @@
   {
    "id": 28,
    "en": "I caught a guppy!{01 00 00 05 00}\n\nSmall...but what a bite!",
-   "et": "Püüdsin guppi!{01 00 00 05 00}\n\nVäike...aga milline haare!"
+   "et": "Püüdsin guppi!{01 00 00 05 00}\n\nVäike...aga milline hammustus!"
   },
   {
    "id": 29,
@@ -154,7 +154,7 @@
   {
    "id": 30,
    "en": "I caught a piranha!{01 00 00 05 00}\n\nHe'd better not catch me!{00 01 00}",
-   "et": "Püüdsin piraaja!{01 00 00 05 00}\n\nParem, kui ta mind ei püüa!{00 01 00}"
+   "et": "Püüdsin piraaja!{01 00 00 05 00}\n\nParem oleks, kui ta mind ei püüaks!{00 01 00}"
   },
   {
    "id": 31,
@@ -289,7 +289,7 @@
   {
    "id": 57,
    "en": "I caught a boot!{01 00 00 05 00}\n\nKeep our waters clean!",
-   "et": "Püüdsin saapa!{01 00 00 05 00}\n\nHoidke meie veed puhtad!"
+   "et": "Püüdsin saapa!{01 00 00 05 00}\n\nHoidke meie veed puhtana!"
   },
   {
    "id": 58,

@@ -14,7 +14,7 @@
   {
    "id": 2,
    "en": "{07 00 00}Hey, by the way,{01 00 00 05 00}\nyou delivered that package\nto {ff 00 00 06}{04 10 00}{ff 00 00 00}, right?{01 00 00 0a 00}\n{07 15 00}No?! {01 00 00 05 00}NO?!{01 00 00 05 00} Was it really so\nmuch to ask, {01 00 00 05 00}{04 02 00}?\n\nMan{01 00 00 0f 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} Now I have to go\napologize and look stupid\nto {ff 00 00 06}{04 10 00}{ff 00 00 00}!\n{07 01 00}Forget it! Give it back now,\n{01 00 00 05 00}{04 02 00}!",
-   "et": "{07 00 00}Kuule, muide,{01 00 00 05 00}\nsa viisid selle paki\n{ff 00 00 06}{04 10 00}{ff 00 00 00}le, eks?{01 00 00 0a 00}\n{07 15 00}Ei?! {01 00 00 05 00}EI?!{01 00 00 05 00} Kas see oli nii\npalju palutud, {01 00 00 05 00}{04 02 00}?\n\nPoiss{01 00 00 0f 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} Nüüd pean minema\nvabandama ja näima rumal\n{ff 00 00 06}{04 10 00}{ff 00 00 00} ees!\n{07 01 00}Unusta! Anna kohe tagasi,\n{01 00 00 05 00}{04 02 00}!"
+   "et": "{07 00 00}Kuule, muide,{01 00 00 05 00}\nsa viisid selle paki\ntüübile nimega {ff 00 00 06}{04 10 00}{ff 00 00 00}, eks?{01 00 00 0a 00}\n{07 15 00}Ei?! {01 00 00 05 00}EI?!{01 00 00 05 00} Kas see oli nii\npalju palutud, {01 00 00 05 00}{04 02 00}?\n\nPoiss{01 00 00 0f 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} Nüüd pean minema\nvabandama ja näima rumal\n{ff 00 00 06}{04 10 00}{ff 00 00 00} ees!\n{07 01 00}Unusta! Anna kohe tagasi,\n{01 00 00 05 00}{04 02 00}!"
   }
  ]
 }

@@ -14,7 +14,7 @@
   {
    "id": 2,
    "en": "{07 14 00}Welcome, welcome, welcome!\n\n\nWelcome to {04 01 00}'s{ff 00 00 03}\nFlea Market {ff 00 00 00}showroom floor,\n{01 00 00 05 00}{04 02 00}!",
-   "et": "{07 14 00}Tere, tere, tere tulemast!\n\n\nTere tulemast {04 01 00}i{ff 00 00 03}\nkirbuturu {ff 00 00 00}näidissaali,\n{01 00 00 05 00}{04 02 00}!"
+   "et": "{07 14 00}Tere, tere, tere tulemast!\n\n\nTere tulemast minu, {04 01 00},{ff 00 00 03}\nkirbuturu {ff 00 00 00}näidissaali,\n{01 00 00 05 00}{04 02 00}!"
   },
   {
    "id": 3,
@@ -34,7 +34,7 @@
   {
    "id": 6,
    "en": "{07 00 00}So what do you think? Do\nyou like anything I'm\nselling, {01 00 00 05 00}{04 02 00}?\n{07 14 00}If I were you, I'd buy up\nstuff I wanted now.\nIt might not be here later.",
-   "et": "{07 00 00}Nii, mida sa arvad? Kas\nsulle meeldib midagi, mida\nma müün, {01 00 00 05 00}{04 02 00}?\n{07 14 00}Sinu asemel ostaksin ma\nkohe selle, mida tahan.\nHiljem võib see kadunud."
+   "et": "{07 00 00}Nii, mida sa arvad? Kas\nsulle meeldib midagi, mida\nma müün, {01 00 00 05 00}{04 02 00}?\n{07 14 00}Sinu asemel ostaksin ma\nkohe selle, mida tahan.\nHiljem võib see kadunud olla."
   },
   {
    "id": 7,

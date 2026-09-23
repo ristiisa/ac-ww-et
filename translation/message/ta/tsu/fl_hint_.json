@@ -4,12 +4,12 @@
   {
    "id": 0,
    "en": "{07 0c 00}Whoever said that{01 00 00 0a 00} caring\nfor flowers was like caring\nfor skin was right!\n{07 0e 00}No matter how much you\nwork, they both dry up in\nthe end{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} How depressing.\n{06 00 00 03 04}",
-   "et": "{07 0c 00}Sellel, kes ütles,{01 00 00 0a 00} et lille-\nhooldus on nagu nahahoole,\noli õigus!\n{07 0e 00}Ükskõik kui palju sa\npingutad, mõlemad kuivavad\nlõpuks{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} Kui masendav.\n{06 00 00 03 04}"
+   "et": "{07 0c 00}Sellel, kes ütles,{01 00 00 0a 00} et lille-\nhooldus on nagu nahahooldus,\noli õigus!\n{07 0e 00}Ükskõik kui palju sa\npingutad, mõlemad kuivavad\nlõpuks{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} Kui masendav.\n{06 00 00 03 04}"
   },
   {
    "id": 1,
    "en": "{07 04 00}Ew, {01 00 00 05 00}{04 1f 00}!{01 00 00 05 00} Do you\ncare at all about your\nskin?{01 00 00 05 00} Then take care of it!\n{07 1b 00}Even a wilted flower will\nperk up with a little bit\nof water{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{06 03 00 05 06}",
-   "et": "{07 04 00}Ptüi, {01 00 00 05 00}{04 1f 00}!{01 00 00 05 00} Kas su\nnahk sind üldse huvitab?{01 00 00 05 00}\nSiis hoolitse selle eest!\n{07 1b 00}Isegi närtsinud lill\nergastub väikesest\nveekogusest{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{06 03 00 05 06}"
+   "et": "{07 04 00}Ptüi, {01 00 00 05 00}{04 1f 00}!{01 00 00 05 00} Kas su\nnahk sind üldse huvitab?{01 00 00 05 00}\nSiis hoolitse selle eest!\n{07 1b 00}Isegi närtsinud lill\nläheb väikese veega\ntaas korda{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{06 03 00 05 06}"
   },
   {
    "id": 2,
@@ -34,7 +34,7 @@
   {
    "id": 6,
    "en": "{07 16 00}Girls must take special\ncare to stay hydrated,{01 00 00 05 00}\n{04 02 00}.\n{07 19 00}You have such lovely skin,\nI can tell you're drinking\nyour water! {01 00 00 0a 00}{07 14 00}Keep it up!",
-   "et": "{07 16 00}Tüdrukud peavad eriti\njälgima, et joovad vett,{01 00 00 05 00}\n{04 02 00}.\n{07 19 00}Sul on nii armas nahk,\nma näen, et sa jood\nvett! {01 00 00 0a 00}{07 14 00}Jätka samas vaimus!"
+   "et": "{07 16 00}Tüdrukud peavad eriti\njälgima oma veejoomist,{01 00 00 05 00}\n{04 02 00}.\n{07 19 00}Sul on nii armas nahk,\nma näen, et sa jood\nvett! {01 00 00 0a 00}{07 14 00}Jätka samas vaimus!"
   },
   {
    "id": 7,
@@ -49,7 +49,7 @@
   {
    "id": 9,
    "en": "{07 19 00}After a day of rain, even\nwilted flowers {07 00 00}will perk\nright up!\n{07 14 00}Watering them with your\n{ff 00 00 07}watering can{ff 00 00 00} will do the\nsame thing, {01 00 00 0a 00}{04 02 00}.\n{07 13 00}And remember, for both\nladies and flowers,{01 00 00 05 00}\nhydration is key!",
-   "et": "{07 19 00}Pärast vihmast päeva\nergastuvad {07 00 00}isegi närtsinud\nlilled!\n{07 14 00}Nende kastmine oma\n{ff 00 00 07}kastekannuga{ff 00 00 00} teeb\nsama, {01 00 00 0a 00}{04 02 00}.\n{07 13 00}Ja pea meeles, nii daamide\nkui lillede jaoks{01 00 00 05 00}\non niiskus võti!"
+   "et": "{07 19 00}Pärast vihmast päeva\nkosuvad {07 00 00}isegi närtsinud\nlilled!\n{07 14 00}Nende kastmine oma\n{ff 00 00 07}kastekannuga{ff 00 00 00} teeb\nsama, {01 00 00 0a 00}{04 02 00}.\n{07 13 00}Ja pea meeles, nii daamide\nkui lillede jaoks{01 00 00 05 00}\non niiskus võti!"
   }
  ]
 }

@@ -14,7 +14,7 @@
   {
    "id": 2,
    "en": "I was all psyched to go to\nthe {ff 00 00 08}museum{ff 00 00 00}, but when I got\nthere, it was a bummer.\n{ff 00 00 06}{07 15 00}Blathers{ff 00 00 00} looked kinda\ndepressed, {01 00 00 05 00}{04 02 00}. It\nwas such a downer.",
-   "et": "Ma olin nii elevil, et minna\n{ff 00 00 08}muuseumisse{ff 00 00 00}, aga kui ma\nsinna jõudsin, oli kurb.\n{ff 00 00 06}{07 15 00}Blathers{ff 00 00 00} nägi pisut\nmasendunud välja, {01 00 00 05 00}{04 02 00}.\nSee oli nii kurb."
+   "et": "Ma olin nii elevil, et minna\n{ff 00 00 08}muuseumisse{ff 00 00 00}, aga kui ma\nsinna jõudsin, oli pettumus.\n{ff 00 00 06}{07 15 00}Blathers{ff 00 00 00} nägi pisut\nmasendunud välja, {01 00 00 05 00}{04 02 00}.\nSee oli nii tüütu."
   },
   {
    "id": 3,
@@ -34,7 +34,7 @@
   {
    "id": 6,
    "en": "You know {ff 00 00 06}Mabel{ff 00 00 00} and {ff 00 00 06}Sable{ff 00 00 00},\nthe tailors at the{ff 00 00 08} Able\nSisters {ff 00 00 00}shop, {01 00 00 05 00}{04 02 00}?\n{07 19 00}Well, they were acting like\na pair of chatterboxes\ntoday.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 14 00} ",
-   "et": "Tead {ff 00 00 06}Mabelit{ff 00 00 00} ja {ff 00 00 06}Sable{ff 00 00 00}it,\nrätsepaid{ff 00 00 08} Able Sisters\n{ff 00 00 00}poes, {01 00 00 05 00}{04 02 00}?\n{07 19 00}Noh, nad käitusid täna\nnagu paar\nlobisejat.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 14 00} "
+   "et": "Tead {ff 00 00 06}Mabelit{ff 00 00 00} ja {ff 00 00 06}Sable{ff 00 00 00}'it,\nrätsepaid{ff 00 00 08} Able Sisters\n{ff 00 00 00}poes, {01 00 00 05 00}{04 02 00}?\n{07 19 00}Noh, nad käitusid täna\nnagu paar\nlobisejat.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 14 00} "
   },
   {
    "id": 7,
@@ -44,7 +44,7 @@
   {
    "id": 8,
    "en": "{07 00 00}According to {04 0d 00}, \nthe {ff 00 00 08}Able Sisters {ff 00 00 00}have got\nlots to complain about!\n{07 01 00}Man!{01 00 00 0f 00} I don't know why they\ndidn't share any of that\nwith me!",
-   "et": "{07 00 00}{04 0d 00}i sõnul on \n{ff 00 00 08}Able Sistersil {ff 00 00 00}palju\nkurta!\n{07 01 00}Poiss!{01 00 00 0f 00} Ma ei tea, miks nad\nsellest mulle midagi ei\nrääkinud!"
+   "et": "{07 00 00}{04 0d 00} ütleb, et \n{ff 00 00 08}Able Sistersil {ff 00 00 00}on palju\nkurta!\n{07 01 00}Poiss!{01 00 00 0f 00} Ma ei tea, miks nad\nsellest mulle midagi ei\nrääkinud!"
   },
   {
    "id": 9,
@@ -54,7 +54,7 @@
   {
    "id": 10,
    "en": "Hey, {01 00 00 05 00}{04 1f 00}.{01 00 00 0f 00} How do\nyou feel about those people\nwho work at the {ff 00 00 08}town hall{ff 00 00 00}?{ff 00 00 08}\n{ff 00 00 00}{07 15 00}Y'know, talking to you about\nprivate matters while\nthey're working?{02 01 00 13 14 15}\nIt's OK.\nThat's a no-no.\nDepends...",
-   "et": "Hei, {01 00 00 05 00}{04 1f 00}.{01 00 00 0f 00} Mida sa\narvad neist inimestest,\nkes töötavad {ff 00 00 08}raekojas{ff 00 00 00}?{ff 00 00 08}\n{ff 00 00 00}{07 15 00}Tead küll, räägivad sinuga\neraasjadest, kui nad\ntöötavad?{02 01 00 13 14 15}\nSee on OK.\nSee on paha.\nOleneb..."
+   "et": "Hei, {01 00 00 05 00}{04 1f 00}.{01 00 00 0f 00} Mida sa\narvad neist inimestest,\nkes töötavad {ff 00 00 08}raekojas{ff 00 00 00}?{ff 00 00 08}\n{ff 00 00 00}{07 15 00}Tead küll, räägivad sinuga\neraasjadest, kui nad\ntöötavad?{02 01 00 13 14 15}\nSee on OK.\nSee ei kõlba.\nOleneb..."
   },
   {
    "id": 11,
@@ -69,12 +69,12 @@
   {
    "id": 13,
    "en": "I wonder{01 00 00 0f 00} {07 0e 00}what that {ff 00 00 06}Sable {ff 00 00 00}is\nalways reminiscing about,\n{01 00 00 05 00}{04 02 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 0b 00}Huh?{01 01 00} {07 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}I'm talking about\n{ff 00 00 06}Sable{ff 00 00 00} of the {ff 00 00 08}Able Sisters{ff 00 00 00}.\n{07 15 00}You know any other Sables?",
-   "et": "Huvitav,{01 00 00 0f 00} {07 0e 00}mida {ff 00 00 06}Sable {ff 00 00 00}alati\nmeenutab,\n{01 00 00 05 00}{04 02 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 0b 00}Ah?{01 01 00} {07 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}Ma räägin\n{ff 00 00 06}Sable{ff 00 00 00}ist {ff 00 00 08}Able Sistersist{ff 00 00 00}.\n{07 15 00}Kas sa tead mõnd teist?"
+   "et": "Huvitav,{01 00 00 0f 00} {07 0e 00}mida {ff 00 00 06}Sable {ff 00 00 00}alati\nmeenutab,\n{01 00 00 05 00}{04 02 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 0b 00}Ah?{01 01 00} {07 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}Ma räägin\n{ff 00 00 06}Sable{ff 00 00 00}'ist {ff 00 00 08}Able Sistersist{ff 00 00 00}.\n{07 15 00}Kas sa tead mõnd teist?"
   },
   {
    "id": 14,
    "en": "{07 04 00}Hey, {01 00 00 05 00}yo!{01 00 00 0f 00} {07 0b 00}Um, {01 00 00 05 00}did you hear?\n{01 00 00 05 00}Did ya, {04 02 00}?\n\nAbout {ff 00 00 06}{07 15 00}Sable {ff 00 00 00}of the {ff 00 00 08}Able\nSisters{ff 00 00 00}!{01 00 00 05 00} Well, she{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{02 00 00 1a 1b}\nWHAT? WHAT?!\nThat's old news.",
-   "et": "{07 04 00}Hei, {01 00 00 05 00}jou!{01 00 00 0f 00} {07 0b 00}Ee, {01 00 00 05 00}kas kuulsid?\n{01 00 00 05 00}Kas kuulsid, {04 02 00}?\n\n{ff 00 00 06}{07 15 00}Sable{ff 00 00 00}ist {ff 00 00 08}Able\nSistersist{ff 00 00 00}!{01 00 00 05 00} Noh, ta{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{02 00 00 1a 1b}\nMIDA? MIDA?!\nVana uudis."
+   "et": "{07 04 00}Hei, {01 00 00 05 00}jou!{01 00 00 0f 00} {07 0b 00}Ee, {01 00 00 05 00}kas kuulsid?\n{01 00 00 05 00}Kas kuulsid, {04 02 00}?\n\n{ff 00 00 06}{07 15 00}Sable{ff 00 00 00}'ist {ff 00 00 08}Able\nSistersist{ff 00 00 00}!{01 00 00 05 00} Noh, ta{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{02 00 00 1a 1b}\nMIDA? MIDA?!\nVana uudis."
   },
   {
    "id": 15,

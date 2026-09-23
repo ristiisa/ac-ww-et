@@ -29,7 +29,7 @@
   {
    "id": 5,
    "en": "The fish are onto me.\nEspecially that\n{0b 02 00}{ff 00 00 07}{04 1a 00}.\n{ff 00 00 00}{01 00 00 05 00}Try as I might, I still\nhaven't caught it.{01 00 00 05 00}\n\nGRRR!{01 00 00 0f 00} Who knew fish were\nso{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.cunning!",
-   "et": "Kalad on mu jälil.\nEriti see\n{0b 02 00}{ff 00 00 07}{04 1a 00}.\n{ff 00 00 00}{01 00 00 05 00}Nii palju kui ma ka ei\nüritaks, pole püüdnud.{01 00 00 05 00}\n\nGRRR!{01 00 00 0f 00} Kes teadis, et kalad\non nii{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.kavalad!"
+   "et": "Kalad on mu jälil.\nEriti see\n{0b 02 00}{ff 00 00 07}{04 1a 00}.\n{ff 00 00 00}{01 00 00 05 00}Nii palju kui ma ka ei\nüritaks, pole seda püüdnud.{01 00 00 05 00}\n\nGRRR!{01 00 00 0f 00} Kes teadis, et kalad\non nii{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.kavalad!"
   },
   {
    "id": 6,
@@ -44,7 +44,7 @@
   {
    "id": 8,
    "en": "Hey hey!{01 00 00 0f 00} The fish isn't\ngonna bite with all that\ncommotion{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\nHey! Hold on a sec.{01 00 00 14 00} Do I\nknow you?\n\nWell, I'm {04 01 00}.{01 00 00 14 00} I'm\ntrying to catch\n{ff 00 00 07}{04 1a 00}!{ff 00 00 00}\nIt's nice to make your\nacquaintance, {01 00 00 05 00}{04 02 00}!",
-   "et": "Hei hei!{01 00 00 0f 00} Kala ei näkka\nkogu selle\nmürglisega{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\nHei! Oota hetk.{01 00 00 14 00} Kas ma\ntunnen sind?\n\nNoh, olen {04 01 00}.{01 00 00 14 00} Ma\nüritan püüda\n{ff 00 00 07}{04 1a 00}!{ff 00 00 00}\nMeeldiv tutvuda,\n{01 00 00 05 00}{04 02 00}!"
+   "et": "Hei hei!{01 00 00 0f 00} Kala ei hakka\nkogu selle\nmüraga naksma{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\nHei! Oota hetk.{01 00 00 14 00} Kas ma\ntunnen sind?\n\nNoh, olen {04 01 00}.{01 00 00 14 00} Ma\nüritan püüda\n{ff 00 00 07}{04 1a 00}!{ff 00 00 00}\nMeeldiv tutvuda,\n{01 00 00 05 00}{04 02 00}!"
   },
   {
    "id": 9,

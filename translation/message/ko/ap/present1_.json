@@ -24,7 +24,7 @@
   {
    "id": 4,
    "en": "{07 14 00}Here, {01 00 00 05 00}take my{01 00 00 0f 00}\n{0b 02 00}{04 1b 00}!\n{0b 03 00}{01 00 00 05 00}{04 02 00}!\n{07 00 00}As long as you don't mind\ngetting hand-me-downs,{01 00 00 05 00} I'll\nhook you up occasionally.",
-   "et": "{07 14 00}Säh, {01 00 00 05 00}võta mu{01 00 00 0f 00}\n{0b 02 00}{04 1b 00}!\n{0b 03 00}{01 00 00 05 00}{04 02 00}!\n{07 00 00}Kui sul pole midagi selle\nvastu, et saad kandmata,{01 00 00 05 00}\nannan sulle aeg-ajalt."
+   "et": "{07 14 00}Säh, {01 00 00 05 00}võta mu{01 00 00 0f 00}\n{0b 02 00}{04 1b 00}!\n{0b 03 00}{01 00 00 05 00}{04 02 00}!\n{07 00 00}Kui sul pole midagi selle\nvastu, et saad mu vanu asju,{01 00 00 05 00}\nannan sulle aeg-ajalt."
   },
   {
    "id": 5,
@@ -109,7 +109,7 @@
   {
    "id": 21,
    "en": "{07 00 00}Hey, {01 00 00 0f 00}I ran out of\ntoothpaste, so I've been\nusing anchovy paste.\n{07 0e 00}Yeah. Then{01 00 00 05 00} I rinsed my\nmouth out with\n{04 13 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 14 00}I'd say it's working out\npretty great for me,\n{01 00 00 05 00}{04 02 00}!",
-   "et": "{07 00 00}Hei, {01 00 00 0f 00}mul sai hambapasta\notsa, nii et ma olen\nkasutanud anšoovisepastat.\n{07 0e 00}Jah. Siis{01 00 00 05 00} loputasin ma suu\n{04 13 00}ga\nvälja{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 14 00}Ütleksin, et see toimib\nminu jaoks päris hästi,\n{01 00 00 05 00}{04 02 00}!"
+   "et": "{07 00 00}Hei, {01 00 00 0f 00}mul sai hambapasta\notsa, nii et ma olen\nkasutanud anšoovisepastat.\n{07 0e 00}Jah. Siis{01 00 00 05 00} loputasin ma suu\njoogiga nimega {04 13 00}\nvälja{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 14 00}Ütleksin, et see toimib\nminu jaoks päris hästi,\n{01 00 00 05 00}{04 02 00}!"
   }
  ]
 }

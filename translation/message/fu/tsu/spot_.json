@@ -29,12 +29,12 @@
   {
    "id": 5,
    "en": "{ff 00 00 06}Tom Nook{ff 00 00 00}'s store has all\nkinds of stuff, and it's\nreally convenient.\nBut I also like boutiques\nlike {ff 00 00 06}Mabel {ff 00 00 00}and {ff 00 00 06}Sable{ff 00 00 00}'s.\n\n{07 14 00}You can tell the clerks\nthere are really into their\njobs, {01 00 00 05 00}{04 02 00}!",
-   "et": "{ff 00 00 06}Tom Nooki{ff 00 00 00} poes on igasugust\nkraami ja see on\ntõesti mugav.\nAga mulle meeldivad ka\nbutiigid nagu {ff 00 00 06}Mabel{ff 00 00 00}-{ff 00 00 06}Sable{ff 00 00 00}.\n\n{07 14 00}On näha, et sealsed müüjad\non tõesti oma tööst\nhuvitatud, {01 00 00 05 00}{04 02 00}!"
+   "et": "{ff 00 00 06}Tom Nooki{ff 00 00 00} poes on igasugust\nkraami ja see on\ntõesti mugav.\nAga mulle meeldivad ka\nbutiigid nagu {ff 00 00 06}Mabeli{ff 00 00 00} ja {ff 00 00 06}Sable'i{ff 00 00 00} oma.\n\n{07 14 00}On näha, et sealsed müüjad\non tõesti oma tööst\nhuvitatud, {01 00 00 05 00}{04 02 00}!"
   },
   {
    "id": 6,
    "en": "{ff 00 00 06}Blathers {ff 00 00 00}knows a ton about\neverything! Yep, he's got a\nmassive noggin.\nBut the thing is, he\ndoesn't seem to have many\nfriends, {01 00 00 05 00}{04 02 00}.\n{07 16 00}Hmmmmm, {01 00 00 0f 00}maybe\nwe're not smart enough to\nbe his friends{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.",
-   "et": "{ff 00 00 06}Blathers {ff 00 00 00}teab kõike!\nJah, tal on tohutu pea.\nTa on tark.\nAga asi on selles, et tal\nei paista olevat palju\nsõpru, {01 00 00 05 00}{04 02 00}.\n{07 16 00}Hmmmmm, {01 00 00 0f 00}ehk pole me\npiisavalt targad, et olla\ntema sõbrad{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}."
+   "et": "{ff 00 00 06}Blathers {ff 00 00 00}teab kõike!\nJah, tal on ikka tohutu\npearaud.\nAga asi on selles, et tal\nei paista olevat palju\nsõpru, {01 00 00 05 00}{04 02 00}.\n{07 16 00}Hmmmmm, {01 00 00 0f 00}ehk pole me\npiisavalt targad, et olla\ntema sõbrad{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}."
   },
   {
    "id": 7,
@@ -69,7 +69,7 @@
   {
    "id": 13,
    "en": "{0b 03 00}{04 1f 00},{01 00 00 0a 00} {07 0b 00}have you seen\na {04 15 00}\naround here?\n{07 0e 00}{0b 03 00}{04 0c 00} told me to look\nfor it here{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n\n{07 02 00}Ahh!{01 00 00 0f 00} {07 06 00}If {04 0c 00} is\nmessing with me, I am\ngoing to FLIP!",
-   "et": "{0b 03 00}{04 1f 00},{01 00 00 0a 00} {07 0b 00}kas sa oled\nnäinud siin kandis\n{04 15 00}?\n{07 0e 00}{0b 03 00}{04 0c 00} ütles mulle, et\notsiksin seda siit{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n\n{07 02 00}Ahh!{01 00 00 0f 00} {07 06 00}Kui {04 0c 00} minuga\nnalja teeb, siis ma\nLÄHEN POGRI!"
+   "et": "{0b 03 00}{04 1f 00},{01 00 00 0a 00} {07 0b 00}kas sa oled\nnäinud siin kandis\n{04 15 00}?\n{07 0e 00}{0b 03 00}{04 0c 00} ütles mulle, et\notsiksin seda siit{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n\n{07 02 00}Ahh!{01 00 00 0f 00} {07 06 00}Kui {04 0c 00} minuga\nnalja teeb, siis ma\nPLAHVATAN!"
   },
   {
    "id": 14,

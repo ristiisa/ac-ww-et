@@ -19,7 +19,7 @@
   {
    "id": 3,
    "en": "{07 15 00}You're gonna need a {ff 00 00 07}shovel\n{ff 00 00 00}if you want a chance of\nsurviving in {04 03 00}!\n{07 0e 00}And{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} Oh, man, if you\nwanna catch bugs, you'll\nneed a {ff 00 00 07}net{ff 00 00 00}!\n{07 15 00}And you can't be fishing\nwithout a {ff 00 00 07}fishing rod{ff 00 00 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{01 00 00 05 00}{0b 03 00}{04 02 00}!\n{07 06 00}Arrgh!{01 00 00 0a 00} All this thinking is\ngonna make my burly head\nexplode!",
-   "et": "{07 15 00}Sul on vaja {ff 00 00 07}labidat\n{ff 00 00 00}, kui tahad {04 03 00}s\nellu jääda!\n{07 0e 00}Ja{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} Oh mees, kui sa\ntahad putukaid püüda,\nvajad sa {ff 00 00 07}kahva{ff 00 00 00}!\n{07 15 00}Ja kala ei saa püüda\nilma {ff 00 00 07}õngeta{ff 00 00 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{01 00 00 05 00}{0b 03 00}{04 02 00}!\n{07 06 00}Arrgh!{01 00 00 0a 00} Kogu see mõtlemine\npaneb mu turska pea\nplahvatama!"
+   "et": "{07 15 00}Sul on vaja {ff 00 00 07}labidat\n{ff 00 00 00}, kui tahad {04 03 00} linnas\nellu jääda!\n{07 0e 00}Ja{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} Oh mees, kui sa\ntahad putukaid püüda,\nvajad sa {ff 00 00 07}kahva{ff 00 00 00}!\n{07 15 00}Ja kala ei saa püüda\nilma {ff 00 00 07}õngeta{ff 00 00 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{01 00 00 05 00}{0b 03 00}{04 02 00}!\n{07 06 00}Arrgh!{01 00 00 0a 00} Kogu see mõtlemine\npaneb mu turska pea\nplahvatama!"
   },
   {
    "id": 4,
@@ -69,7 +69,7 @@
   {
    "id": 13,
    "en": "{07 00 00}{0b 03 00}{04 1f 00}! You about \ndone slaving away at your\npart-time job?\nWell, when you are, you have\nGOT to start checking out\n{ff 00 00 06}Tom Nook{ff 00 00 00}'s store every day!\n{07 14 00}He changes up his\ninventory every day just\nto keep things spicy.\n{07 00 00}Personally,{01 00 00 05 00} I'd rather hang\nout in my room doing sets\nof ab blasters all day.\nShopping is totally weak\nsauce, {01 00 00 05 00}{04 02 00}!\nIt's such a HASSLE!",
-   "et": "{07 00 00}{0b 03 00}{04 1f 00}! Kas sa oled \noma osalise ajaga tööga\npeaaegu valmis?\nNoh, kui oled, siis sa PEAD\nhakkama iga päev vaatama\n{ff 00 00 06}Tom Nooki{ff 00 00 00} poodi!\n{07 14 00}Ta vahetab oma kaupa\niga päev, et asjad\npõnevad oleksid.\n{07 00 00}Isiklikult{01 00 00 05 00} veedaksin ma\nparema meelega päeva toas\nkõhulihaseid tehes.\nOstlemine on täiesti\nnõme, {01 00 00 05 00}{04 02 00}!\nSee on selline TÜLI!"
+   "et": "{07 00 00}{0b 03 00}{04 1f 00}! Kas sa oled \noma osalise ajaga tööga\npeaaegu valmis?\nNoh, kui oled, siis sa PEAD\nhakkama iga päev vaatama\n{ff 00 00 06}Tom Nooki{ff 00 00 00} poodi!\n{07 14 00}Ta vahetab oma kaupa\niga päev, et asjad\npõnevad oleksid.\n{07 00 00}Isiklikult{01 00 00 05 00} veedaksin ma\nparema meelega päeva toas\nkõhulihaseid tehes.\nOstlemine on täiesti\nnõme, {01 00 00 05 00}{04 02 00}!\nSee on selline VAEV!"
   },
   {
    "id": 14,

@@ -14,7 +14,7 @@
   {
    "id": 2,
    "en": "{07 16 00}Man, if my delts weren't so\nsore, I'd show you how to \nWORK that {ff 00 00 07}basketball hoop{ff 00 00 00}!\n{07 15 00}Man!{01 00 00 05 00} I coulda done my\npatented Sugar Dunk!",
-   "et": "{07 16 00}Mees, kui mu deltad poleks\nnii valusad, õpetaks sind\n{ff 00 00 07}korvirõngast{ff 00 00 00} KASUTAMA!\n{07 15 00}Mees!{01 00 00 05 00} Oleksin saanud teha\noma kuulsa Suhkrupanni!"
+   "et": "{07 16 00}Mees, kui mu deltad poleks\nnii valusad, õpetaks sind\n{ff 00 00 07}korvirõngast{ff 00 00 00} KASUTAMA!\n{07 15 00}Mees!{01 00 00 05 00} Oleksin saanud teha\noma kuulsa Suhkrutrükki!"
   },
   {
    "id": 3,
@@ -69,7 +69,7 @@
   {
    "id": 13,
    "en": "{07 16 00}If you get on the\n{ff 00 00 07}stadiometer {ff 00 00 00}in your bare\nfeet, you FREEZE!",
-   "et": "{07 16 00}Kui sa lähed\n{ff 00 00 07}pikkusemõõtjale {ff 00 00 00}paljajalu,\nsiis KÜLMETAD ära!"
+   "et": "{07 16 00}Kui sa lähed\n{ff 00 00 07}pikkusemõõtjale {ff 00 00 00}paljajalu,\nsiis KÜLMAVAD jalad ära!"
   },
   {
    "id": 14,
@@ -79,7 +79,7 @@
   {
    "id": 15,
    "en": "{07 04 00}Whoa, I just noticed I\nspilled my protein shake in\nmy lap earlier, {01 00 00 05 00}{04 02 00}!\n{07 14 00}It's nice to have a\n{ff 00 00 07}tissue {ff 00 00 00}in times like this!",
-   "et": "{07 04 00}Ohoo, märkasin just, et\najasin proteiinikokteili\nenne sülle, {01 00 00 05 00}{04 02 00}!\n{07 14 00}Tore, kui sellisel hetkel\non {ff 00 00 07}salvrätt {ff 00 00 00}olemas!"
+   "et": "{07 04 00}Ohoo, märkasin just, et\najasin varem\nproteiinikokteili sülle, {01 00 00 05 00}{04 02 00}!\n{07 14 00}Tore, kui sellisel hetkel\non {ff 00 00 07}salvrätt {ff 00 00 00}olemas!"
   },
   {
    "id": 16,
@@ -99,7 +99,7 @@
   {
    "id": 19,
    "en": "Whoa!{01 00 00 14 00} {07 06 00}I smell barbecue!\n\n\n{07 0b 00}Or is it just me,\n{01 00 00 05 00}{04 02 00}?",
-   "et": "Ohoo!{01 00 00 14 00} {07 06 00}Grilli lõhn!\n\n\n{07 0b 00}Või on see ainult mulle,\n{01 00 00 05 00}{04 02 00}?"
+   "et": "Ohoo!{01 00 00 14 00} {07 06 00}Grilli lõhn!\n\n\n{07 0b 00}Või olen see ainult mina,\n{01 00 00 05 00}{04 02 00}?"
   },
   {
    "id": 20,
@@ -124,12 +124,12 @@
   {
    "id": 24,
    "en": "{07 15 00}You total LIAR!{01 00 00 0f 00}\n{07 16 00}If you surfed, you'd have a\nkiller tan!",
-   "et": "{07 15 00}Sa täielik VALETAJA!{01 00 00 0f 00}\n{07 16 00}Kui sa surfaksid, oleks sul\ntapev päevitus!"
+   "et": "{07 15 00}Sa täielik VALETAJA!{01 00 00 0f 00}\n{07 16 00}Kui sa surfaksid, oleks sul\ntappev päevitus!"
   },
   {
    "id": 25,
    "en": "{07 03 00}War har har har har!{01 00 00 0a 00}\nI knew it, {01 00 00 05 00}{04 02 00}!\n\n{07 16 00}I mean, I bet you'd shrivel\nup in the ocean!\n",
-   "et": "{07 03 00}Vaar haar haar haar!{01 00 00 0a 00}\nMa teadsin, {01 00 00 05 00}{04 02 00}!\n\n{07 16 00}Ma mõtlen, vean kihla, et\nsa kuivaksid ookeanis ära!\n"
+   "et": "{07 03 00}Vaar haar haar haar!{01 00 00 0a 00}\nMa teadsin, {01 00 00 05 00}{04 02 00}!\n\n{07 16 00}Ma mõtlen, vean kihla, et\nsa kärtsiksid ookeanis kokku!\n"
   },
   {
    "id": 26,

@@ -9,12 +9,12 @@
   {
    "id": 1,
    "en": "{07 14 00}Oh, {01 00 00 05 00}{04 1f 00},{01 00 00 0a 00} you look\nso nice today! {01 01 00}{07 19 00}You should\nrock this look more often.{07 00 00}\nToday is a day that my\ntown is famous for.{01 00 00 05 00} I'm\ntalking about {ff 00 00 03}Yay Day{ff 00 00 00}!\n{07 0d 00}So,{01 00 00 05 00} why don't you try your\nhand at it and compliment\nme like no one ever has!",
-   "et": "{07 14 00}Oi, {01 00 00 05 00}{04 1f 00},{01 00 00 0a 00} sa näed\ntäna nii kena välja! {01 01 00}{07 19 00}Kanna\nsellist välimust tihedamini.{07 00 00}\nTäna on päev, mille poolest\nmu linn on kuulus.{01 00 00 05 00} Ma\nräägin {ff 00 00 03}kiidupäevast{ff 00 00 00}!\n{07 0d 00}Nii et{01 00 00 05 00} proovi ja tee\nmulle kompliment, nagu\nkeegi pole varem teinud!"
+   "et": "{07 14 00}Oi, {01 00 00 05 00}{04 1f 00},{01 00 00 0a 00} sa näed\ntäna nii kena välja! {01 01 00}{07 19 00}Kanna\nseda stiili tihedamini.{07 00 00}\nTäna on päev, mille poolest\nmu linn on kuulus.{01 00 00 05 00} Ma\nräägin {ff 00 00 03}kiidupäevast{ff 00 00 00}!\n{07 0d 00}Nii et{01 00 00 05 00} proovi ja tee\nmulle kompliment, nagu\nkeegi pole varem teinud!"
   },
   {
    "id": 2,
    "en": "{07 00 00}\"{0b 03 00}{04 21 00},\" huh{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.{01 01 00}\nHm,{01 00 00 0f 00} {07 14 00}I think I like it!\n\n{07 19 00}Who knew you had such a\nway with words?{01 00 00 14 00} {07 14 00}Not me,\nthat's for sure!",
-   "et": "{07 00 00}„{0b 03 00}{04 21 00}”, mis{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.{01 01 00}\nHm,{01 00 00 0f 00} {07 14 00}mulle vist meeldib!\n\n{07 19 00}Kes oleks arvanud, et sul\non nii sõnaosavus?{01 00 00 14 00} {07 14 00}Mitte\nmina, see on kindel!"
+   "et": "{07 00 00}„{0b 03 00}{04 21 00}”, mis{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.{01 01 00}\nHm,{01 00 00 0f 00} {07 14 00}mulle vist meeldib!\n\n{07 19 00}Kes oleks arvanud, et sa\noled nii sõnaosav?{01 00 00 14 00} {07 14 00}Mitte\nmina, see on kindel!"
   },
   {
    "id": 3,
@@ -79,7 +79,7 @@
   {
    "id": 15,
    "en": "{07 16 00}\"{0b 03 00}{04 21 00},\" huh{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.{01 01 00}\n{07 00 00}Hm,{01 00 00 0a 00} that sounds kinda\nnice. \nFrom now on, {01 00 00 03 00}I'm going to \nlive up to{01 00 00 05 00} the compliment\n\"{04 21 00}\"!",
-   "et": "{07 16 00}„{0b 03 00}{04 21 00}”, mis{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.{01 01 00}\n{07 00 00}Hm,{01 00 00 0a 00} see kõlab üsna\nkenasti.\nNüüdsest {01 00 00 03 00}üritan ma\nvastata{01 00 00 05 00} komplimendile\n„{04 21 00}”!"
+   "et": "{07 16 00}„{0b 03 00}{04 21 00}”, mis{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.{01 01 00}\n{07 00 00}Hm,{01 00 00 0a 00} see kõlab üsna\nkenasti.\nNüüdsest {01 00 00 03 00}üritan ma\nväärida{01 00 00 05 00} komplimenti\n„{04 21 00}”!"
   }
  ]
 }

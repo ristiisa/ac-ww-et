@@ -19,7 +19,7 @@
   {
    "id": 3,
    "en": "{07 1d 00}Can you even believe my\n{0b 02 00}{04 1a 00}\nwas {07 14 00}{ff 00 00 02}{04 0f 00} mm{ff 00 00 00} long?\nIt's, like, easily the hugest\none caught so far,\n{01 00 00 05 00}{04 02 00}!\n{07 17 00}I'd call myself lucky, but\nI'm pretty sure it was\ntalent.",
-   "et": "{07 1d 00}Kas sa suudad uskuda, et\nmu {0b 02 00}{04 1a 00}\noli {07 14 00}{ff 00 00 02}{04 0f 00} mm{ff 00 00 00} pikk?\nSee on, nagu, kergelt\nsuurim, mis siiani püütud,\n{01 00 00 05 00}{04 02 00}!\n{07 17 00}Ma ütleks, et mul vedas,\naga olen üsna kindel, et see\noli anne."
+   "et": "{07 1d 00}Kas sa suudad uskuda, et\nmu {0b 02 00}{04 1a 00}\noli {07 14 00}{ff 00 00 02}{04 0f 00} mm{ff 00 00 00} pikk?\nSee on, nagu, kaugelt\nsuurim, mis siiani püütud,\n{01 00 00 05 00}{04 02 00}!\n{07 17 00}Ma ütleks, et mul vedas,\naga olen üsna kindel, et see\noli anne."
   },
   {
    "id": 4,
@@ -29,7 +29,7 @@
   {
    "id": 5,
    "en": "{07 14 00}{0b 03 00}{04 1f 00}!{01 00 00 0a 00} The current\nrecord is{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n\n{07 17 00}My {ff 00 00 02}{04 0f 00}-mm{ff 00 00 00}\n{0b 02 00}{04 1a 00}!\n\n{07 0f 00}It's almost TOO big. Kinda\ngross, even{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{04 02 00}!",
-   "et": "{07 14 00}{0b 03 00}{04 1f 00}!{01 00 00 0a 00} Praegune\nrekord on{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n\n{07 17 00}Minu {ff 00 00 02}{04 0f 00} mm{ff 00 00 00}\n{0b 02 00}{04 1a 00}!\n\n{07 0f 00}See on peaaegu LIIGA suur.\nIsegi natuke jälk{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{04 02 00}!"
+   "et": "{07 14 00}{0b 03 00}{04 1f 00}!{01 00 00 0a 00} Praegune\nrekord on{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n\n{07 17 00}Minu {ff 00 00 02}{04 0f 00} mm{ff 00 00 00}\n{0b 02 00}{04 1a 00}!\n\n{07 0f 00}See on peaaegu LIIGA suur.\nIsegi natuke jäle{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{04 02 00}!"
   },
   {
    "id": 6,
@@ -39,22 +39,22 @@
   {
    "id": 7,
    "en": "{07 16 00}I don't have much to say\nabout bugs. {01 00 00 05 00}They're squishy,\nthat's about it.",
-   "et": "{07 16 00}Mul pole putukate kohta\npalju öelda. {01 00 00 05 00}Nad on limased,\nsellega kõik."
+   "et": "{07 16 00}Mul pole putukate kohta\npalju öelda. {01 00 00 05 00}Nad on pehmed,\nsellega kõik."
   },
   {
    "id": 8,
    "en": "{07 06 00}What's up with that\n{ff 00 00 02}{04 0f 00}-mm\n{0b 02 00}{ff 00 00 00}{04 1a 00}?!\n{07 0b 00}Is it in season right now,\n{01 00 00 05 00}{04 02 00}?",
-   "et": "{07 06 00}Mis lugu on selle\n{ff 00 00 02}{04 0f 00} mm\n{0b 02 00}{ff 00 00 00}{04 1a 00}ga?!\n{07 0b 00}Kas tal on praegu hooaeg,\n{01 00 00 05 00}{04 02 00}?"
+   "et": "{07 06 00}Mis lugu on selle\n{ff 00 00 02}{04 0f 00} mm\n{0b 02 00}{ff 00 00 00}putukaga nimega {04 1a 00}?!\n{07 0b 00}Kas tal on praegu hooaeg,\n{01 00 00 05 00}{04 02 00}?"
   },
   {
    "id": 9,
    "en": "{07 06 00}Bugs won't even come near\nme! {01 00 00 05 00}Why?! {01 00 00 05 00}{07 16 00}Don't they know\nthat I'm cute?!\n{07 16 00}OH NO! {01 00 00 05 00}Maybe I smell funky!\n",
-   "et": "{07 06 00}Putukad ei tule mulle isegi\nlähedale! {01 00 00 05 00}Miks?! {01 00 00 05 00}{07 16 00}Kas nad ei\ntea, et ma olen nunnu?! {07 16 00}OI\nEI! {01 00 00 05 00}Ehk ma haisen imelikult!\n"
+   "et": "{07 06 00}Putukad ei tule mulle isegi\nlähedale! {01 00 00 05 00}Miks?! {01 00 00 05 00}{07 16 00}Kas nad ei\ntea, et ma olen nunnu?! {07 16 00}OI\nEI! {01 00 00 05 00}Ehk ma lõhnan imelikult!\n"
   },
   {
    "id": 10,
    "en": "{07 15 00}I can never lose to\n{04 10 00}! NEVER,\n{01 00 00 05 00}{04 02 00}!\n{07 06 00}Oh! Hey, {01 00 00 05 00}{04 1f 00}!\nI want that {ff 00 00 07}trophy{ff 00 00 00} SO bad!",
-   "et": "{07 15 00}Ma ei tohi kunagi kaotada\n{04 10 00}le! MITTE KUNAGI,\n{01 00 00 05 00}{04 02 00}!\n{07 06 00}Oi! Hei, {01 00 00 05 00}{04 1f 00}! Ma\ntahan seda {ff 00 00 07}karikat{ff 00 00 00} NII väga!"
+   "et": "{07 15 00}Mind ei tohi kunagi võita\n{04 10 00}! MITTE KUNAGI,\n{01 00 00 05 00}{04 02 00}!\n{07 06 00}Oi! Hei, {01 00 00 05 00}{04 1f 00}! Ma\ntahan seda {ff 00 00 07}karikat{ff 00 00 00} NII väga!"
   },
   {
    "id": 11,

@@ -34,12 +34,12 @@
   {
    "id": 6,
    "en": "This ends the {ff 00 00 03}Fireworks\nShow{ff 00 00 00} for tonight!{01 10 00 3c}",
-   "et": "See lõpetab tänase\n{ff 00 00 03}ilutulestiku{ff 00 00 00}!{01 10 00 3c}"
+   "et": "Sellega on tänane\n{ff 00 00 03}ilutulestikushow{ff 00 00 00} läbi!{01 10 00 3c}"
   },
   {
    "id": 7,
    "en": "That's it for this year's\n{ff 00 00 03}Acorn Festival{ff 00 00 00}!{01 10 00 3c}",
-   "et": "Sellega on selle aasta\n{ff 00 00 03}tõrufestival{ff 00 00 00} läbi!{01 10 00 3c}"
+   "et": "Sellega on selle aasta\n{ff 00 00 03}tõrupidu{ff 00 00 00} läbi!{01 10 00 3c}"
   },
   {
    "id": 8,

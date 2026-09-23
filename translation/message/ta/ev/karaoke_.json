@@ -4,7 +4,7 @@
   {
    "id": 0,
    "en": "{07 14 00}Hey,{01 00 00 0a 00} it's {ff 00 00 03}La-Di-Day {ff 00 00 00}today.\n{07 17 00}Lucky for me,{01 00 00 05 00} I was THIS\nclose to being a pop star.\n{07 14 00}But you better give it your\nall, {04 1f 00}. You could\ncreate a new town tune!",
-   "et": "{07 14 00}Hei,{01 00 00 0a 00} täna on {ff 00 00 03}laulupäev{ff 00 00 00}.\n{07 17 00}Minu õnneks{01 00 00 05 00} olin SELLE\nvõrra popstaarist kaugel.\n{07 14 00}Aga anna endast parim,\n{04 1f 00}. Sa võid luua\nuue linna viisi!"
+   "et": "{07 14 00}Hei,{01 00 00 0a 00} täna on {ff 00 00 03}laulupäev{ff 00 00 00}.\n{07 17 00}Minu õnneks{01 00 00 05 00} jäi popstaarist\npuudu vaid SELLE võrra.\n{07 14 00}Aga anna endast parim,\n{04 1f 00}. Sa võid luua\nuue linna viisi!"
   },
   {
    "id": 1,
@@ -74,7 +74,7 @@
   {
    "id": 14,
    "en": "Hey, {01 00 00 05 00}{07 0b 00}have you already heard\n{ff 00 00 06}{04 0b 00}{ff 00 00 00}'s song?\n\n{07 14 00}{ff 00 00 06}{0b 03 00}{04 0b 00}{ff 00 00 00}'s got a pretty \nimpressive voice, and solid\nsongwriting skills.\n{07 19 00}Now there's talent that's\nworthy of being considered\nmy competition!{07 00 00}",
-   "et": "Hei, {01 00 00 05 00}{07 0b 00}kas sa oled juba\n{ff 00 00 06}{04 0b 00}{ff 00 00 00} laulu kuulnud?\n\n{07 14 00}{ff 00 00 06}{0b 03 00}{04 0b 00}{ff 00 00 00}l on päris\nmuljetavaldav hääl ja\ntugev viisiloomeoskus.\n{07 19 00}Vaat see on talent, mida\nvõib pidada minu\nkonkurendiks!{07 00 00}"
+   "et": "Hei, {01 00 00 05 00}{07 0b 00}kas sa oled juba\n{ff 00 00 06}{04 0b 00}{ff 00 00 00} laulu kuulnud?\n\n{07 14 00}Tüübil nimega {ff 00 00 06}{0b 03 00}{04 0b 00}{ff 00 00 00}\non päris muljetavaldav hääl ja\ntugev viisiloomeoskus.\n{07 19 00}Vaat see on talent, mida\nvõib pidada minu\nkonkurendiks!{07 00 00}"
   },
   {
    "id": 15,
@@ -84,7 +84,7 @@
   {
    "id": 16,
    "en": "{07 17 00}Actually, {01 00 00 05 00}I have perfect\npitch.\n\n{07 1d 00}What! {01 00 00 05 00}I'm telling the truth!{01 01 00}\n{07 19 00}An ex-boyfriend told me\nthat once, {01 00 00 05 00}{04 02 00}!{07 15 00}",
-   "et": "{07 17 00}Tegelikult {01 00 00 05 00}on mul väga hea\nkuulmine.\n\n{07 1d 00}Mida! {01 00 00 05 00}Ma räägin tõtt!{01 01 00}\n{07 19 00}Üks endine kallim ütles\nmulle seda kord, {01 00 00 05 00}{04 02 00}!{07 15 00}"
+   "et": "{07 17 00}Tegelikult {01 00 00 05 00}on mul absoluutne\nkuulmine.\n\n{07 1d 00}Mida! {01 00 00 05 00}Ma räägin tõtt!{01 01 00}\n{07 19 00}Üks endine kallim ütles\nmulle seda kord, {01 00 00 05 00}{04 02 00}!{07 15 00}"
   },
   {
    "id": 17,

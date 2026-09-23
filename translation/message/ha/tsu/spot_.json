@@ -9,7 +9,7 @@
   {
    "id": 1,
    "en": "{07 00 00}Weird. {01 00 00 05 00}{ff 00 00 06}Pelly {ff 00 00 00}and {ff 00 00 06}Phyllis{ff 00 00 00} work\nat the {ff 00 00 08}town hall{ff 00 00 00} together\nAND they're sisters...\n{07 16 00}But you really never see\n'em hanging out together,\ndo ya?\n{07 0b 00}I wonder why, {01 00 00 05 00}{04 02 00}?",
-   "et": "{07 00 00}Imelik. {01 00 00 05 00}{ff 00 00 06}Pelly {ff 00 00 00}ja {ff 00 00 06}Phyllis{ff 00 00 00}\ntöötavad koos {ff 00 00 08}raekojas{ff 00 00 00}\nJA nad on õed...\n{07 16 00}Aga sa ei näe neid kunagi\nkoos hängimas,\nkas pole?\n{07 0b 00}Huvitav, miks, {01 00 00 05 00}{04 02 00}?"
+   "et": "{07 00 00}Imelik. {01 00 00 05 00}{ff 00 00 06}Pelly {ff 00 00 00}ja {ff 00 00 06}Phyllis{ff 00 00 00}\ntöötavad koos {ff 00 00 08}raekojas{ff 00 00 00}\nJA nad on õed...\n{07 16 00}Aga sa ei näe neid kunagi\nkoos hängimas,\neks?\n{07 0b 00}Huvitav, miks, {01 00 00 05 00}{04 02 00}?"
   },
   {
    "id": 2,
@@ -54,7 +54,7 @@
   {
    "id": 10,
    "en": "{07 14 00}Not bad, huh?!{01 00 00 0a 00} This is where\nme and my biceps live...{01 00 00 05 00}\nThey say welcome!\n{07 0d 00}All housewarming gifts\ngo here.{01 00 00 05 00} Kick back for a\nwhile, {01 00 00 05 00}{04 02 00}!",
-   "et": "{07 14 00}Pole paha, mis?!{01 00 00 0a 00} Siin elame\nmina ja mu biitsepsid...{01 00 00 05 00}\nNad ütlevad tere!\n{07 0d 00}Kõik soojendusekingid\nsiia.{01 00 00 05 00} Tee end mõneks ajaks\nmugavaks, {01 00 00 05 00}{04 02 00}!"
+   "et": "{07 14 00}Pole paha, mis?!{01 00 00 0a 00} Siin elame\nmina ja mu biitsepsid...{01 00 00 05 00}\nNad ütlevad tere!\n{07 0d 00}Kõik sissekolimiskingid\nsiia.{01 00 00 05 00} Tee end mõneks ajaks\nmugavaks, {01 00 00 05 00}{04 02 00}!"
   },
   {
    "id": 11,
@@ -104,7 +104,7 @@
   {
    "id": 20,
    "en": "{07 00 00}Well then, {01 00 00 05 00}lemme tell you.{01 00 00 14 00}\n{07 0e 00}Hmmm...{01 00 00 0a 00} In a nutshell{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n\n{07 15 00}He looks like two stacked\nscoops of furry chocolate\nice cream, {01 00 00 05 00}{04 02 00}!\n{07 16 00}Hm{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} That doesn't help,\ndoes it?",
-   "et": "{07 00 00}Noh siis, {01 00 00 05 00}las ma räägin.{01 00 00 14 00}\n{07 0e 00}Hmmm...{01 00 00 0a 00} Lühidalt{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n\n{07 15 00}Ta näeb välja nagu kaks\nkuhjatud kulpi karvast\nšokolaadijäätist, {01 00 00 05 00}{04 02 00}!\n{07 16 00}Hm{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} See ei aita,\nkas pole?"
+   "et": "{07 00 00}Noh siis, {01 00 00 05 00}las ma räägin.{01 00 00 14 00}\n{07 0e 00}Hmmm...{01 00 00 0a 00} Lühidalt{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n\n{07 15 00}Ta näeb välja nagu kaks\nkuhjatud kulpi karvast\nšokolaadijäätist, {01 00 00 05 00}{04 02 00}!\n{07 16 00}Hm{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} See ei aita,\neks?"
   },
   {
    "id": 21,
@@ -144,7 +144,7 @@
   {
    "id": 28,
    "en": "{07 15 00}Talk about anti-beefcake!{01 00 00 05 00}\nThat guy's got to man up,\n{01 00 00 05 00}{04 02 00}!",
-   "et": "{07 15 00}Räägi veel vastu-lihasest!{01 00 00 05 00}\nSee tüüp peab meheks\nhakkama, {01 00 00 05 00}{04 02 00}!"
+   "et": "{07 15 00}Räägi veel anti-lihasest!{01 00 00 05 00}\nSee tüüp peab meheks\nhakkama, {01 00 00 05 00}{04 02 00}!"
   },
   {
    "id": 29,
@@ -164,7 +164,7 @@
   {
    "id": 32,
    "en": "{07 00 00}Ever noticed{01 00 00 05 00} that guy\nsleeps all day?{01 00 00 05 00} Ya think he\n{07 0b 00}slept through his classes?{07 00 00}\nMan{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 06 00} I'd go to a school\nwhere you could snooze in\na dang HEARTBEAT!",
-   "et": "{07 00 00}Kas märkasid,{01 00 00 05 00} et ta\nmagab terve päeva?{01 00 00 05 00} Arvad,\n{07 0b 00}et ta magas tunnid läbi?{07 00 00}\nMees{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 06 00} Ma läheksin kooli,\nkus saab tukkuda, pagana\nKIIRESTI!"
+   "et": "{07 00 00}Kas märkasid,{01 00 00 05 00} et ta\nmagab terve päeva?{01 00 00 05 00} Arvad,\n{07 0b 00}et ta magas tunnid läbi?{07 00 00}\nMees{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 06 00} Kool, kus tohib\ntukkuda? Ma liituks SILM\nPILGUTAMATA!"
   },
   {
    "id": 33,

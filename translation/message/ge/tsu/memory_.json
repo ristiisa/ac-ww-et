@@ -9,12 +9,12 @@
   {
    "id": 1,
    "en": "{07 00 00}Y'know that {ff 00 00 05}{04 19 00}{ff 00 00 00}\nfrom {ff 00 00 08}{04 18 00}{ff 00 00 00}?\n\n{07 14 00}That kid is a total\n{04 11 00}, know what\nI mean, {01 00 00 05 00}{04 02 00}?\n{07 00 00}It's been {04 0f 00} days since I\nlast saw that character{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n{07 0b 00}Hope things are going well!",
-   "et": "{07 00 00}Tead seda {ff 00 00 05}{04 19 00}{ff 00 00 00}\n{ff 00 00 08}{04 18 00}{ff 00 00 00}st?\n\n{07 14 00}See laps on täielik\n{04 11 00}, saad\naru, {01 00 00 05 00}{04 02 00}?\n{07 00 00}{04 0f 00} päeva on läinud,\nkui ma teda viimati nägin{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n{07 0b 00}Loodan, et kõik läheb hästi!"
+   "et": "{07 00 00}Tead seda {ff 00 00 05}{04 19 00}{ff 00 00 00}\nlinnast {ff 00 00 08}{04 18 00}{ff 00 00 00}?\n\n{07 14 00}See laps on täielik\n{04 11 00}, saad\naru, {01 00 00 05 00}{04 02 00}?\n{07 00 00}{04 0f 00} päeva on läinud,\nkui ma teda viimati nägin{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n{07 0b 00}Loodan, et kõik läheb hästi!"
   },
   {
    "id": 2,
    "en": "{07 16 00}Ah, {ff 00 00 05}{04 19 00}{ff 00 00 00} from\n{ff 00 00 08}{04 18 00}{ff 00 00 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n\n{07 15 00}Even after {04 0f 00} days, I still\nremember that kid!\n\n{07 16 00}You oughta know, I hope\nyou aren't a similar sort\nof person...\nSeriously, that kid was,{01 00 00 05 00}\nlike, a complete and total\n{04 11 00}, y'know?\n{07 15 00}Honestly, it would just push\nmy buttons, {01 00 00 05 00}{04 02 00}!",
-   "et": "{07 16 00}Ah, {ff 00 00 05}{04 19 00}{ff 00 00 00}\n{ff 00 00 08}{04 18 00}{ff 00 00 00}st{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n\n{07 15 00}Isegi {04 0f 00} päeva pärast\nmäletan ma seda last ikka!\n\n{07 16 00}Sa peaksid teadma, et\nloodan, et sina pole\nsarnane tüüp...\nTõsiselt, see laps oli,{01 00 00 05 00}\nnagu, täielik ja lõplik\n{04 11 00}, tead?\n{07 15 00}Ausalt, see läheks mulle\nlihtsalt närvidele, {01 00 00 05 00}{04 02 00}!"
+   "et": "{07 16 00}Ah, {ff 00 00 05}{04 19 00}{ff 00 00 00}\nlinnast {ff 00 00 08}{04 18 00}{ff 00 00 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n\n{07 15 00}Isegi {04 0f 00} päeva pärast\nmäletan ma seda last ikka!\n\n{07 16 00}Sa peaksid teadma, et\nloodan, et sina pole\nsarnane tüüp...\nTõsiselt, see laps oli,{01 00 00 05 00}\nnagu, täielik ja lõplik\n{04 11 00}, tead?\n{07 15 00}Ausalt, see läheks mulle\nlihtsalt närvidele, {01 00 00 05 00}{04 02 00}!"
   },
   {
    "id": 3,
@@ -64,7 +64,7 @@
   {
    "id": 12,
    "en": "{07 0b 00}So? {01 00 00 05 00}Doesn't that melody\njust set up camp and hang\nout, {01 00 00 05 00}{04 02 00}?\n{07 00 00}Whenever I hear that\nmelody, I think fondly\nof {ff 00 00 05}{04 19 00}{ff 00 00 00}....\n{07 14 00}I wonder how things are\ngoing there, {01 00 00 05 00}{04 02 00}?",
-   "et": "{07 0b 00}Noh? {01 00 00 05 00}Kas see viis ei jää\nlihtsalt pähe kummitama,\n{01 00 00 05 00}{04 02 00}?\n{07 00 00}Iga kord kui ma seda\nviisi kuulen, mõtlen ma\nsoojalt {ff 00 00 05}{04 19 00}{ff 00 00 00}le....\n{07 14 00}Huvitav, kuidas seal\nläheb, {01 00 00 05 00}{04 02 00}?"
+   "et": "{07 0b 00}Noh? {01 00 00 05 00}Kas see viis ei jää\nlihtsalt pähe kummitama,\n{01 00 00 05 00}{04 02 00}?\n{07 00 00}Iga kord kui ma seda\nviisi kuulen, mõtlen ma\nsoojalt temale, {ff 00 00 05}{04 19 00}{ff 00 00 00}....\n{07 14 00}Huvitav, kuidas seal\nläheb, {01 00 00 05 00}{04 02 00}?"
   },
   {
    "id": 13,

@@ -19,7 +19,7 @@
   {
    "id": 3,
    "en": "{07 03 00}Whee!{01 01 00} {07 14 00}Right now, my record\nis numero uno!\n\n{07 14 00}I'm talking about my\n{ff 00 00 02}{04 0f 00}-inch\n{0b 02 00}{ff 00 00 00}{04 1a 00}!",
-   "et": "{07 03 00}Jihuu!{01 01 00} {07 14 00}Praegu on mu rekord\nnumber üks!\n\n{07 14 00}Ma räägin oma\n{ff 00 00 02}{04 0f 00}-tollisest\n{0b 02 00}{ff 00 00 00}{04 1a 00}st!"
+   "et": "{07 03 00}Jihuu!{01 01 00} {07 14 00}Praegu on mu rekord\nnumber üks!\n\n{07 14 00}Ma räägin oma\n{ff 00 00 02}{04 0f 00}-tollisest\n{0b 02 00}{ff 00 00 00}kalast nimega {04 1a 00}!"
   },
   {
    "id": 4,

@@ -4,12 +4,12 @@
   {
    "id": 0,
    "en": "{07 1c 00}Oh, boy{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n\n\n{07 00 00}Oh, hi!{01 00 00 05 00} Didn't see you there!{01 00 00 0f 00}\nCan I help you?{02 07 00 00 00 16 00 00}\nI wanna design!\nI wanna sell!\nWhat's up?\nWhere am I?\nNope.",
-   "et": "{07 1c 00}Oh, boy{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n\n\n{07 00 00}Oh, tere!{01 00 00 05 00} Ei märganud sind!{01 00 00 0f 00}\nKas saan aidata?{02 07 00 00 00 16 00 00}\nTahan kujundada!\nTahan müüa!\nMis toimub?\nKus ma olen?\nEi."
+   "et": "{07 1c 00}Oh issand{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n\n\n{07 00 00}Oh, tere!{01 00 00 05 00} Ei märganud sind!{01 00 00 0f 00}\nKas saan aidata?{02 07 00 00 00 16 00 00}\nTahan kujundada!\nTahan müüa!\nMis toimub?\nKus ma olen?\nEi."
   },
   {
    "id": 1,
    "en": "{07 1c 00}Gosh{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n\n\n{07 00 00}Oh, wow!{01 00 00 05 00} Sorry about that!{01 00 00 0f 00}\nWhat brings you here?{02 07 00 00 00 18 00 00}\nI wanna design!\nI wanna sell!\nSomething wrong?\nWhere am I?\nNothing.",
-   "et": "{07 1c 00}Heldeke{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n\n\n{07 00 00}Oh, vau!{01 00 00 05 00} Vabandust!{01 00 00 0f 00}\nMis sind siia toob?{02 07 00 00 00 18 00 00}\nTahan kujundada!\nTahan müüa!\nKas midagi on?\nKus ma olen?\nMitte midagi."
+   "et": "{07 1c 00}Oh heldust{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n\n\n{07 00 00}Oh, vau!{01 00 00 05 00} Vabandust!{01 00 00 0f 00}\nMis sind siia toob?{02 07 00 00 00 18 00 00}\nTahan kujundada!\nTahan müüa!\nKas midagi on?\nKus ma olen?\nMitte midagi."
   },
   {
    "id": 2,
@@ -129,7 +129,7 @@
   {
    "id": 25,
    "en": "{07 00 00}Yeah, well, the other day{01 00 00 05 00}\nmy older sis and I baked a\ncake, right?\nAnd we thought it might be\nnice to take a slice to ole\n{ff 00 00 06}Nook{ff 00 00 00} over there.\n{07 15 00}And {ff 00 00 06}Nook{ff 00 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} That killjoy.{01 00 00 05 00}\n{07 0b 00}What do you think he said?!\n\n{07 00 00}{01 04 00}\"{ff 00 00 02}How much do you expect for\nthis slice of cake, hm?{ff 00 00 00}\"{01 05 00}{01 01 00}\n.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 15 00}Can you BELIEVE it?!\n{07 01 00}I was {01 00 00 05 00}just so disgusted\nthat I{01 00 00 05 00} didn't know what\nto say to him!",
-   "et": "{07 00 00}Jah, noh, teine päev{01 00 00 05 00}\nküpsetasime mu vanema õega\nkoogi, eks?\nJa mõtlesime, et oleks kena\nviia üks viil sinna\nvanale {ff 00 00 06}Nookile{ff 00 00 00}.\n{07 15 00}Ja {ff 00 00 06}Nook{ff 00 00 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}. Tuju rikkuja.{01 00 00 05 00}\n{07 0b 00}Mis sa arvad, mida ta ütles?\n\n{07 00 00}{01 04 00}„{ff 00 00 02}Kui palju sa selle\nkoogiviilu eest tahad, ah?{ff 00 00 00}”{01 05 00}{01 01 00}\n.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 15 00}Kas sa USUD seda?!\n{07 01 00}Olin {01 00 00 05 00}nii jälestunud,\net ma{01 00 00 05 00} ei teadnud, mida\ntalle öelda!"
+   "et": "{07 00 00}Jah, noh, teine päev{01 00 00 05 00}\nküpsetasime mu vanema õega\nkoogi, eks?\nJa mõtlesime, et oleks kena\nviia üks viil sinna\nvanale {ff 00 00 06}Nookile{ff 00 00 00}.\n{07 15 00}Ja {ff 00 00 06}Nook{ff 00 00 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}. Tuju rikkuja.{01 00 00 05 00}\n{07 0b 00}Mis sa arvad, mida ta ütles?\n\n{07 00 00}{01 04 00}„{ff 00 00 02}Kui palju sa selle\nkoogiviilu eest tahad, ah?{ff 00 00 00}”{01 05 00}{01 01 00}\n.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 15 00}Kas sa USUD seda?!\n{07 01 00}Mul oli {01 00 00 05 00}nii vastik,\net ma{01 00 00 05 00} ei teadnud, mida\ntalle öelda!"
   },
   {
    "id": 26,

@@ -14,7 +14,7 @@
   {
    "id": 2,
    "en": "{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 14 00}{07 02 00}{01 00 00 05 00}What?{01 01 00} {07 06 00}What happened?{01 00 00 0a 00}\nWhere'd you drop it?!{01 01 00}\n{07 05 00}{01 00 00 14 00}Ugh! You're so irresponsible!\nHow would YOU like it if I\ntook something of yours\nand just {07 01 00}{01 00 00 0a 00}left it somewhere!",
-   "et": "{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 14 00}{07 02 00}{01 00 00 05 00}Mis?{01 01 00} {07 06 00}Mis juhtus?{01 00 00 0a 00}\nKuhu sa selle pillasid?!{01 01 00}\n{07 05 00}{01 00 00 14 00}Öök! Sa oled hoolimatu!\nKuidas SULLE meeldiks, kui\nvõtaksin midagi sinu oma\nja lihtsalt {07 01 00}{01 00 00 0a 00}jätaksin kuskile!"
+   "et": "{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 14 00}{07 02 00}{01 00 00 05 00}Mis?{01 01 00} {07 06 00}Mis juhtus?{01 00 00 0a 00}\nKus sa selle ära kaotasid?!{01 01 00}\n{07 05 00}{01 00 00 14 00}Öök! Sa oled hoolimatu!\nKuidas SULLE meeldiks, kui\nvõtaksin midagi sinu oma\nja lihtsalt {07 01 00}{01 00 00 0a 00}jätaksin kuskile!"
   }
  ]
 }

@@ -39,7 +39,7 @@
   {
    "id": 7,
    "en": "Well, I suppose I could go\n{04 22 00}... But I\ndid that yesterday. Hmmm...\n{07 0c 00}Oh, maybe {04 0b 00} and I\nshould give {04 16 00}\na go... That'd be SWEET!",
-   "et": "Noh, ma vist võiksin minna\n{04 22 00}... Aga ma\ntegin seda eile. Hmmm...\n{07 0c 00}Oi, ehk peaksime {04 0b 00}ga\nproovima {04 16 00}\nära... See oleks MAGUS!"
+   "et": "Noh, ma vist võiksin minna\n{04 22 00}... Aga ma\ntegin seda eile. Hmmm...\n{07 0c 00}Oi, ehk peaksime mina ja\n{04 0b 00} proovima {04 16 00}\nära... See oleks MAGUS!"
   },
   {
    "id": 8,
@@ -54,7 +54,7 @@
   {
    "id": 10,
    "en": "So you wanna chat with me\nsome more, {01 00 00 05 00}right? Yeah, I\nlike chatting with me, too!",
-   "et": "Nii et sa tahad minuga veel\nveidi vestelda, {01 00 00 05 00}eks? Jah, ka\nmulle meeldib minuga!"
+   "et": "Nii et sa tahad minuga veel\nveidi vestelda, {01 00 00 05 00}eks? Jah, ka\nmulle meeldib minuga vestelda!"
   },
   {
    "id": 11,
@@ -79,7 +79,7 @@
   {
    "id": 15,
    "en": "{07 14 00}I told {04 0d 00} that I\nwas gonna enter some big\n{04 16 00} tourney{01 00 00 05 00}...\n{07 11 00}But I'm NOT! I'm gonna, like,\nkick back and watch TV and\neat pudding or something!",
-   "et": "{07 14 00}Ütlesin {04 0d 00}le, et\nlähen mingile suurele\n{04 16 00} võistlusele{01 00 00 05 00}...\n{07 11 00}Aga ma EI lähe! Ma, nagu,\nlesin ja vaatan telekat ja\nsöön pudingut või midagi!"
+   "et": "{07 14 00}Ütlesin talle, {04 0d 00}, et\nlähen mingile suurele\n{04 16 00} võistlusele{01 00 00 05 00}...\n{07 11 00}Aga ma EI lähe! Ma, nagu,\nlesin ja vaatan telekat ja\nsöön pudingut või midagi!"
   }
  ]
 }

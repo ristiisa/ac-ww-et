@@ -19,7 +19,7 @@
   {
    "id": 3,
    "en": "{07 0a 00}{01 00 00 05 00}Fishing time!{01 00 00 0a 00} Grab your\nrods!{01 00 00 0f 00} Today is {04 03 00}'s\n{ff 00 00 03}Fishing Tourney{ff 00 00 00}!\n{07 00 00}Hey, {04 00 00},{07 0b 00}{01 00 00 0a 00} would you\nlike me to tell you about{01 00 00 05 00}\nthe {ff 00 00 03}Fishing Tourney{ff 00 00 00}?{02 04 00 06 05}\nTell me!\nNo, thanks!",
-   "et": "{07 0a 00}{01 00 00 05 00}Kalapüügiaeg!{01 00 00 0a 00} Haarake\nõnged!{01 00 00 0f 00} Täna on {04 03 00}\n{ff 00 00 03}kalapüügivõistlus{ff 00 00 00}!\n{07 00 00}Hei, {04 00 00},{07 0b 00}{01 00 00 0a 00} kas sa\ntahad, et räägin sulle{01 00 00 05 00}\n{ff 00 00 03}kalapüügivõistlusest{ff 00 00 00}?{02 04 00 06 05}\nRäägi!\nEi, aitäh!"
+   "et": "{07 0a 00}{01 00 00 05 00}Kalapüügiaeg!{01 00 00 0a 00} Haara\nõng kätte!{01 00 00 0f 00} Täna on {04 03 00}\n{ff 00 00 03}kalapüügivõistlus{ff 00 00 00}!\n{07 00 00}Hei, {04 00 00},{07 0b 00}{01 00 00 0a 00} kas sa\ntahad, et räägin sulle{01 00 00 05 00}\n{ff 00 00 03}kalapüügivõistlusest{ff 00 00 00}?{02 04 00 06 05}\nRäägi!\nEi, aitäh!"
   },
   {
    "id": 4,
@@ -49,7 +49,7 @@
   {
    "id": 9,
    "en": "{07 16 00}{01 00 00 0a 00}What's this?{01 00 00 05 00} Don't worry,\nsprout! {07 00 00}Your record of{01 00 00 05 00}\n{ff 00 00 02}{04 0f 00} inches{ff 00 00 00} still stands!\n{07 14 00}{01 00 00 0a 00}Relax and go another round\nwith those fish!{01 00 00 05 00} Go get 'em,\ntiger!",
-   "et": "{07 16 00}{01 00 00 0a 00}Mis see on?{01 00 00 05 00} Ära muretse,\nvõsuke! {07 00 00}Sinu rekord{01 00 00 05 00}\n{ff 00 00 02}{04 0f 00} tolli{ff 00 00 00} püsib ikka!\n{07 14 00}{01 00 00 0a 00}Lõõgastu ja mine kaladega\nuus ring!{01 00 00 05 00} Mine võta,\ntiiger!"
+   "et": "{07 16 00}{01 00 00 0a 00}Mis see on?{01 00 00 05 00} Ära muretse,\nvõsuke! {07 00 00}Sinu rekord{01 00 00 05 00}\n{ff 00 00 02}{04 0f 00} tolli{ff 00 00 00} püsib ikka!\n{07 14 00}{01 00 00 0a 00}Lõõgastu ja proovi kaladega\nveel korra!{01 00 00 05 00} Anna neile\ntuld, tiiger!"
   },
   {
    "id": 10,
@@ -64,7 +64,7 @@
   {
    "id": 12,
    "en": "{07 15 00}{01 00 00 0a 00}I only want fish!{01 01 00} {07 03 00}{01 00 00 0a 00}Why?! {01 00 00 0a 00}I'm\nthe {ff 00 00 06}mayor{ff 00 00 00}, that's why! {01 00 00 0a 00}Oh, I\njust love saying that!",
-   "et": "{07 15 00}{01 00 00 0a 00}Tahan ainult kala!{01 01 00} {07 03 00}{01 00 00 0a 00}Miks?! {01 00 00 0a 00}Ma\nolen {ff 00 00 06}linnapea{ff 00 00 00}, sest!{01 00 00 0a 00} Oh,\nmulle meeldib seda öelda!"
+   "et": "{07 15 00}{01 00 00 0a 00}Tahan ainult kala!{01 01 00} {07 03 00}{01 00 00 0a 00}Miks?! {01 00 00 0a 00}Ma\nolen {ff 00 00 06}linnapea{ff 00 00 00}, sellepärast!{01 00 00 0a 00} Oh,\nmulle meeldib seda öelda!"
   },
   {
    "id": 13,

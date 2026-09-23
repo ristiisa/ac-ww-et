@@ -4,7 +4,7 @@
   {
    "id": 0,
    "en": "{07 0b 00}Huh?!{01 00 00 0f 00}{07 04 00} From {ff 00 00 06}{04 0f 00}{ff 00 00 00}?\nThat's kinda weird.\n\n{07 00 00}Well, I guess it isn't a \ncompletely unpleasant \nsurprise, {01 00 00 05 00}{04 02 00}!\n{07 00 00}I wonder what it says?",
-   "et": "{07 0b 00}Ah?!{01 00 00 0f 00}{07 04 00} {ff 00 00 06}{04 0f 00}{ff 00 00 00}lt?\nSee on kuidagi imelik.\n\n{07 00 00}Noh, vist pole see päris\nebameeldiv\nüllatus, {01 00 00 05 00}{04 02 00}!\n{07 00 00}Huvitav, mis seal kirjas?"
+   "et": "{07 0b 00}Ah?!{01 00 00 0f 00}{07 04 00} {ff 00 00 06}{04 0f 00}{ff 00 00 00} käest?\nSee on kuidagi imelik.\n\n{07 00 00}Noh, vist pole see päris\nebameeldiv\nüllatus, {01 00 00 05 00}{04 02 00}!\n{07 00 00}Huvitav, mis seal kirjas?"
   },
   {
    "id": 1,
@@ -14,7 +14,7 @@
   {
    "id": 2,
    "en": "{07 04 00}Whaaaaa? {01 00 00 0a 00}It's a letter from\n{ff 00 00 06}{04 0f 00}{ff 00 00 00}! {01 00 00 05 00}{0b 03 00}{04 02 00}!\n\n{07 00 00}And you actually\ngot off your rear to\ndeliver the letter?\nI'd say I was flabbergasted,\nbut that word is kinda\nstupid, {01 00 00 05 00}{04 02 00}!",
-   "et": "{07 04 00}Miiiida? {01 00 00 0a 00}See on kiri\n{ff 00 00 06}{04 0f 00}{ff 00 00 00}lt! {01 00 00 05 00}{0b 03 00}{04 02 00}!\n\n{07 00 00}Ja sa tõesti\najasid end püsti ja\ntõid kirja kohale?\nÜtleksin, et olen rabatud,\naga see sõna on kuidagi\nrumal, {01 00 00 05 00}{04 02 00}!"
+   "et": "{07 04 00}Miiiida? {01 00 00 0a 00}See on kiri\n{ff 00 00 06}{04 0f 00}{ff 00 00 00} käest! {01 00 00 05 00}{0b 03 00}{04 02 00}!\n\n{07 00 00}Ja sa tõesti\najasid end püsti ja\ntõid kirja kohale?\nÜtleksin, et olen rabatud,\naga see sõna on kuidagi\nrumal, {01 00 00 05 00}{04 02 00}!"
   }
  ]
 }

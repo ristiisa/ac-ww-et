@@ -9,7 +9,7 @@
   {
    "id": 1,
    "en": "{07 00 00}Hey, {01 00 00 05 00}{04 1f 00}.{01 00 00 0a 00} {07 14 00}Do you\nhave any interest in my{01 00 00 0a 00}\n{0b 02 00}{04 1c 00}?\n{07 0b 00}How about for {04 11 00} Bells?{01 00 00 14 00}\n{07 00 00}It's a steal at that price,\n{01 00 00 0a 00}{04 02 00}!{02 00 00 17 18}\nI'm in!\nNo thanks.",
-   "et": "{07 00 00}Hei, {01 00 00 05 00}{04 1f 00}.{01 00 00 0a 00} {07 14 00}Kas sind\nhuvitab mu{01 00 00 0a 00}\n{0b 02 00}{04 1c 00}?\n{07 0b 00}Kuidas oleks {04 11 00} kella\neest?{01 00 00 14 00} {07 00 00}Selle hinnaga on see\npihta pandud, {01 00 00 0a 00}{04 02 00}!{02 00 00 17 18}\nOlen nõus!\nEi, aitäh."
+   "et": "{07 00 00}Hei, {01 00 00 05 00}{04 1f 00}.{01 00 00 0a 00} {07 14 00}Kas sind\nhuvitab mu{01 00 00 0a 00}\n{0b 02 00}{04 1c 00}?\n{07 0b 00}Kuidas oleks {04 11 00} kella\neest?{01 00 00 14 00} {07 00 00}Selle hinnaga on see\nju sama hea kui tasuta, {01 00 00 0a 00}{04 02 00}!{02 00 00 17 18}\nOlen nõus!\nEi, aitäh."
   },
   {
    "id": 2,
@@ -34,7 +34,7 @@
   {
    "id": 6,
    "en": "{07 1b 00}Well, {01 00 00 0a 00}believe it or not, I'd\nactually feel bad if I took\nall that from you.\n{07 14 00}So how about{01 00 00 0a 00} {04 11 00} Bells?{01 00 00 0a 00}\nThat seems like a fair\nprice to me.{02 00 00 11 12}\nDeal!\nTry again.",
-   "et": "{07 1b 00}Noh, {01 00 00 0a 00}usu või mitte, mul\nhakkaks tõesti halb, kui ma\nkõik selle sinult võtaksin.\n{07 14 00}Kuidas oleks{01 00 00 0a 00} {04 11 00} kella?{01 00 00 0a 00}\nSee tundub mulle aus\nhind.{02 00 00 11 12}\nKäed löödud!\nProovi uuesti."
+   "et": "{07 1b 00}Noh, {01 00 00 0a 00}usu või mitte, mul\nhakkaks tõesti piinlik, kui\nma kõik selle sinult võtaksin.\n{07 14 00}Kuidas oleks{01 00 00 0a 00} {04 11 00} kella?{01 00 00 0a 00}\nSee tundub mulle aus\nhind.{02 00 00 11 12}\nKäed löödud!\nProovi uuesti."
   },
   {
    "id": 7,
@@ -59,7 +59,7 @@
   {
    "id": 11,
    "en": "{07 00 00}Wow, how very YOU of you to\ngive me such a \"realistic\"\noffer.\n{07 1b 00}I don't feel like selling\nanymore, {01 00 00 05 00}{04 02 00}!",
-   "et": "{07 00 00}Vau, kui SINU moodi sinust\nteha mulle selline\n„realistlik” pakkumine.\n{07 1b 00}Mul pole enam tuju\nmüüa, {01 00 00 05 00}{04 02 00}!"
+   "et": "{07 00 00}Vau, kui TÜÜPILINE sinu\nkohta — teha mulle selline\n„realistlik” pakkumine.\n{07 1b 00}Mul pole enam tuju\nmüüa, {01 00 00 05 00}{04 02 00}!"
   },
   {
    "id": 12,
@@ -74,7 +74,7 @@
   {
    "id": 14,
    "en": "{07 00 00}Are you {01 00 00 05 00}{07 0b 00}poor or something?{01 01 00}\n{07 00 00}Now you're making me feel\nall sorry for you.\n{07 14 00}Fine, I accept your offer.\n{01 00 00 05 00}Here!",
-   "et": "{07 00 00}Kas sa oled {01 00 00 05 00}{07 0b 00}vaene või\nmidagi?{01 01 00} {07 00 00}Nüüd hakkad sa\nmulle kahju tekitama.\n{07 14 00}Olgu, ma võtan su pakkumise\nvastu. {01 00 00 05 00}Säh!"
+   "et": "{07 00 00}Kas sa oled {01 00 00 05 00}{07 0b 00}vaene või\nmidagi?{01 01 00} {07 00 00}Nüüd hakkad sa\nmulle lausa kahju.\n{07 14 00}Olgu, ma võtan su pakkumise\nvastu. {01 00 00 05 00}Säh!"
   },
   {
    "id": 16,
@@ -109,7 +109,7 @@
   {
    "id": 22,
    "en": "{07 0b 00}Really?{01 01 00} {07 14 00}Well, {01 00 00 0a 00}I guess I\ncould always just give it to\n{04 0b 00}, {01 00 00 0a 00}{04 02 00}.",
-   "et": "{07 0b 00}Tõesti?{01 01 00} {07 14 00}Noh, {01 00 00 0a 00}ma võin selle\nvist alati anda\n{04 0b 00}le, {01 00 00 0a 00}{04 02 00}."
+   "et": "{07 0b 00}Tõesti?{01 01 00} {07 14 00}Noh, {01 00 00 0a 00}ma võin selle\nvist alati anda talle,\n{04 0b 00}, {01 00 00 0a 00}{04 02 00}."
   },
   {
    "id": 23,
@@ -129,7 +129,7 @@
   {
    "id": 26,
    "en": "{07 14 00}I knew I could count on\nyou, {04 1f 00}!{01 00 00 14 00} {07 00 00}You're\nsuch a pal, {01 00 00 05 00}{04 02 00}!\n{07 0e 00}I feel kinda bad taking \nyour money, so...{07 14 00}you keep\nthe Bells and {01 00 00 05 00}take this.",
-   "et": "{07 14 00}Ma teadsin, et võin sinu\npeale loota, {04 1f 00}!{01 00 00 14 00} {07 00 00}Sa\noled tõeline sõber, {01 00 00 05 00}{04 02 00}\n! {07 0e 00}Mul on natuke halb sinu\nraha võtta, nii et...{07 14 00}jäta\nkellad endale ja {01 00 00 05 00}võta see."
+   "et": "{07 14 00}Ma teadsin, et võin sinu\npeale loota, {04 1f 00}!{01 00 00 14 00} {07 00 00}Sa\noled tõeline sõber, {01 00 00 05 00}{04 02 00}\n! {07 0e 00}Mul on natuke piinlik sinu\nraha võtta, nii et...{07 14 00}jäta\nkellad endale ja {01 00 00 05 00}võta see."
   },
   {
    "id": 27,

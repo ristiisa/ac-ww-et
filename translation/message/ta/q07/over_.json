@@ -4,17 +4,17 @@
   {
    "id": 0,
    "en": "{07 00 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 04 00}Hey!{01 01 00} {07 15 00}Do you realize{01 00 00 0a 00} what\ntime it is, {01 00 00 05 00}{04 02 00}?!\n\nTime for you to give me\nback my letter for\n{ff 00 00 06}{04 10 00}{ff 00 00 00}!",
-   "et": "{07 00 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 04 00}Hei!{01 01 00} {07 15 00}Kas sa taipad,{01 00 00 0a 00} mis\nkell on, {01 00 00 05 00}{04 02 00}?!\n\nAeg anda mulle\ntagasi mu kiri\n{ff 00 00 06}{04 10 00}{ff 00 00 00}le!"
+   "et": "{07 00 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 04 00}Hei!{01 01 00} {07 15 00}Kas sa taipad,{01 00 00 0a 00} mis\nkell on, {01 00 00 05 00}{04 02 00}?!\n\nAeg anda mulle\ntagasi mu kiri\ntüübile nimega {ff 00 00 06}{04 10 00}{ff 00 00 00}!"
   },
   {
    "id": 1,
    "en": "{07 00 00}By the way{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00} Did you get\nmy letter to {ff 00 00 06}{04 10 00}{ff 00 00 00},\n{01 00 00 0a 00}{04 02 00}?\n{07 15 00}The deadline has come and \ngone, you know?!\n\n{07 1c 00}Sheesh.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} You're so\nunreliable!{01 00 00 14 00} I'm going myself!{01 01 00}\nGimme back my letter!",
-   "et": "{07 00 00}Muide{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00} Kas sa viisid\nmu kirja {ff 00 00 06}{04 10 00}{ff 00 00 00}le,\n{01 00 00 0a 00}{04 02 00}?\n{07 15 00}Tähtaeg on juba ammu\nmöödas, tead?!\n\n{07 1c 00}Issand.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} Sa oled nii\nebausaldusväärne!{01 00 00 14 00} Ma lähen\nise!{01 01 00} Anna mu kiri tagasi!"
+   "et": "{07 00 00}Muide{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00} Kas sa viisid\nmu kirja {ff 00 00 06}{04 10 00}{ff 00 00 00} kätte,\n{01 00 00 0a 00}{04 02 00}?\n{07 15 00}Tähtaeg on juba ammu\nmöödas, tead?!\n\n{07 1c 00}Issand.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} Sa oled nii\nebausaldusväärne!{01 00 00 14 00} Ma lähen\nise!{01 01 00} Anna mu kiri tagasi!"
   },
   {
    "id": 2,
    "en": "{07 0e 00}Hey!{01 00 00 05 00} I have to talk to you\nabout that letter I wrote\nto {ff 00 00 06}{04 10 00}{ff 00 00 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n{07 14 00}If you have no intention of\ndelivering it, {01 00 00 05 00}can I have it\nback, {01 00 00 05 00}{04 02 00}?!",
-   "et": "{07 0e 00}Hei!{01 00 00 05 00} Ma pean sinuga rääkima\nsellest kirjast, mille\nkirjutasin {ff 00 00 06}{04 10 00}{ff 00 00 00}le{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n{07 14 00}Kui sa ei kavatse seda\nkohale viia, {01 00 00 05 00}kas saan selle\ntagasi, {01 00 00 05 00}{04 02 00}?!"
+   "et": "{07 0e 00}Hei!{01 00 00 05 00} Ma pean sinuga rääkima\nsellest kirjast, mille\nkirjutasin {ff 00 00 06}{04 10 00}{ff 00 00 00} jaoks{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n{07 14 00}Kui sa ei kavatse seda\nkohale viia, {01 00 00 05 00}kas saan selle\ntagasi, {01 00 00 05 00}{04 02 00}?!"
   }
  ]
 }

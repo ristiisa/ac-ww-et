@@ -4,7 +4,7 @@
   {
    "id": 0,
    "en": "{07 0a 00}{01 00 00 0a 00}Whoo hoo!{01 00 00 0f 00} The big {ff 00 00 03}countdown\n{ff 00 00 00}is today! {07 14 00}{01 00 00 0a 00}Get ready for a\ntwo-year party!",
-   "et": "{07 0a 00}{01 00 00 0a 00}Juhhei!{01 00 00 0f 00} Suur {ff 00 00 03}pöördloendus\n{ff 00 00 00}on täna! {07 14 00}{01 00 00 0a 00}Valmistu\nkaheaastaseks peoks!"
+   "et": "{07 0a 00}{01 00 00 0a 00}Juhhei!{01 00 00 0f 00} Suur {ff 00 00 03}aastavahetuse loendus\n{ff 00 00 00}on täna! {07 14 00}{01 00 00 0a 00}Valmistu\nkaheaastaseks peoks!"
   },
   {
    "id": 1,
@@ -24,12 +24,12 @@
   {
    "id": 4,
    "en": "{07 00 00}Still,{01 00 00 05 00} though...{07 16 00}{01 00 00 05 00}was I\nsupposed to start the\n{ff 00 00 03}countdown{ff 00 00 00} this early?",
-   "et": "{07 00 00}Kuigi{01 00 00 05 00}...{07 16 00}{01 00 00 05 00}kas ma pidin\n{ff 00 00 03}pöördloendust{ff 00 00 00} nii\nvara alustama?"
+   "et": "{07 00 00}Kuigi{01 00 00 05 00}...{07 16 00}{01 00 00 05 00}kas ma pidin\n{ff 00 00 03}aastavahetuse loendust{ff 00 00 00} nii\nvara alustama?"
   },
   {
    "id": 5,
    "en": "{07 00 00}I'm a little punchy from\ncounting all day. {01 00 00 0a 00}{07 03 00}Whooee! It\ngoes straight to my head!\n{07 19 00}{01 00 00 0a 00}But if you don't do this,\nthen the new year simply\ndoesn't come!",
-   "et": "{07 00 00}Olen terve päeva lugemisest\nveidi uimane. {01 00 00 0a 00}{07 03 00}Ohoo! See lööb\notse pähe!\n{07 19 00}{01 00 00 0a 00}Aga kui sa seda ei tee,\nsiis uus aasta lihtsalt\nei tulegi!"
+   "et": "{07 00 00}Olen terve päeva lugemisest\nveidi uimane. {01 00 00 0a 00}{07 03 00}Ohoo! See lööb\notse pähe!\n{07 19 00}{01 00 00 0a 00}Aga kui seda mitte teha,\nsiis uus aasta lihtsalt\nei tulegi!"
   },
   {
    "id": 6,
@@ -104,12 +104,12 @@
   {
    "id": 20,
    "en": "{07 00 00}However,{01 00 00 05 00} you have too many\nletters right now, so I\ncan't give it to you.\n{07 0e 00}What a bother{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.",
-   "et": "{07 00 00}Kuid{01 00 00 05 00} sul on praegu liiga\npalju kirju, nii et ma ei\nsaa seda sulle anda.\n{07 0e 00}Milline tüli{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}."
+   "et": "{07 00 00}Kuid{01 00 00 05 00} sul on praegu liiga\npalju kirju, nii et ma ei\nsaa seda sulle anda.\n{07 0e 00}Milline vaev{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}."
   },
   {
    "id": 21,
    "en": "{07 14 00}{01 00 00 0a 00}So, {01 00 00 05 00}what's your fortune for\nthe year, sprout?!\n\n{07 03 00}{01 00 00 0a 00}Goodness! Now you've even\ngot me all excited!",
-   "et": "{07 14 00}{01 00 00 0a 00}Nii, {01 00 00 05 00}mis on sinu ennustus\nselleks aastaks, võsuke?!\n\n{07 03 00}{01 00 00 0a 00}Heldeke! Nüüd oled sa\nka minu põnevile ajanud!"
+   "et": "{07 14 00}{01 00 00 0a 00}Nii, {01 00 00 05 00}mis on sinu ennustus\nselleks aastaks, võsuke?!\n\n{07 03 00}{01 00 00 0a 00}Heldeke! Nüüd oled sa\nka minu elevile ajanud!"
   },
   {
    "id": 22,
@@ -124,22 +124,22 @@
   {
    "id": 24,
    "en": "{07 14 00}{01 00 00 0a 00}By official proclamation of\nthe {ff 00 00 06}mayor{ff 00 00 00}, {07 0a 00}{01 00 00 0f 00}I declare today{01 00 00 05 00}\nan all-day party!",
-   "et": "{07 14 00}{01 00 00 0a 00}{ff 00 00 06}Linnapea{ff 00 00 00} ametliku\nkuulutusega {07 0a 00}{01 00 00 0f 00}kuulutan tänase{01 00 00 05 00}\npäevapikkuseks peoks!"
+   "et": "{07 14 00}{01 00 00 0a 00}{ff 00 00 06}Linnapea{ff 00 00 00} ametliku\nkuulutusega {07 0a 00}{01 00 00 0f 00}kuulutan tänase päeva{01 00 00 05 00}\npäevapikkuseks peoks!"
   },
   {
    "id": 25,
    "en": "Sprout! You must \"get down\"\nfor the {ff 00 00 03}countdown{ff 00 00 00}!\n\n{07 14 00}Let me give you something\nto commemorate the event!",
-   "et": "Võsuke! Sa pead\n{ff 00 00 03}pöördloenduseks{ff 00 00 00} hoo sisse\nsaama!\n{07 14 00}Las ma annan sulle midagi\nselle sündmuse mälestuseks!"
+   "et": "Võsuke! Sa pead\n{ff 00 00 03}aastavahetuse loenduseks{ff 00 00 00} hoo sisse\nsaama!\n{07 14 00}Las ma annan sulle midagi\nselle sündmuse mälestuseks!"
   },
   {
    "id": 26,
    "en": "Now, take this and use it\nto get this {ff 00 00 03}countdown\n{ff 00 00 00}started right!",
-   "et": "Nüüd võta see ja kasuta,\net {ff 00 00 03}pöördloendus\n{ff 00 00 00}korralikult käima panna!"
+   "et": "Nüüd võta see ja kasuta,\net {ff 00 00 03}aastavahetuse loendus\n{ff 00 00 00}korralikult käima panna!"
   },
   {
    "id": 27,
    "en": "{07 14 00}There's no party like a New\nYear's party! {01 00 00 0a 00}{07 00 00}Because a\nNew Year's party goes on...\n{07 03 00}for TWO YEARS! {01 00 00 0a 00}Use this to\nkeep things rolling!",
-   "et": "{07 14 00}Pole paremat pidu kui\nuusaastapidu! {01 00 00 0a 00}{07 00 00}Sest\nuusaastapidu kestab...\n{07 03 00}KAKS AASTAT! {01 00 00 0a 00}Kasuta seda,\net asi käima hoida!"
+   "et": "{07 14 00}Pole paremat pidu kui\nuusaastapidu! {01 00 00 0a 00}{07 00 00}Sest\nuusaastapidu kestab...\n{07 03 00}KAKS AASTAT! {01 00 00 0a 00}Kasuta seda,\net asi käimas hoida!"
   },
   {
    "id": 28,

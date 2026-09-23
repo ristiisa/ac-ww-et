@@ -4,17 +4,17 @@
   {
    "id": 0,
    "en": "{07 00 00}Hey, AWESOME job!{01 00 00 0a 00} It's from\n{ff 00 00 06}{04 0f 00}{ff 00 00 00}, huh?{01 01 00} I wonder\nwhat's in it!",
-   "et": "{07 00 00}Kuule, VÕRRATU töö!{01 00 00 0a 00} See on\n{ff 00 00 06}{04 0f 00}{ff 00 00 00}lt, mis?{01 01 00} Huvitav,\nmis seal sees on!"
+   "et": "{07 00 00}Kuule, VÕRRATU töö!{01 00 00 0a 00} See on\n{ff 00 00 06}{04 0f 00}{ff 00 00 00} käest, mis?{01 01 00} Huvitav,\nmis seal sees on!"
   },
   {
    "id": 1,
    "en": "{07 00 00}Oh, {01 00 00 05 00}from {ff 00 00 06}{04 0f 00}{ff 00 00 00}?{01 01 00}\nI wonder if it's that one\nthing...{01 00 00 05 00}{04 02 00}.",
-   "et": "{07 00 00}Oh, {01 00 00 05 00}{ff 00 00 06}{04 0f 00}{ff 00 00 00}lt?{01 01 00}\nHuvitav, kas see on see üks\nasi...{01 00 00 05 00}{04 02 00}."
+   "et": "{07 00 00}Oh, {01 00 00 05 00}{ff 00 00 06}{04 0f 00}{ff 00 00 00} käest?{01 01 00}\nHuvitav, kas see on see üks\nasi...{01 00 00 05 00}{04 02 00}."
   },
   {
    "id": 2,
    "en": "{07 00 00}From {ff 00 00 06}{04 0f 00}{ff 00 00 00}? {01 00 00 05 00}Cool!{01 00 00 0a 00}\nThat can only mean this\ncontains{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.",
-   "et": "{07 00 00}{ff 00 00 06}{04 0f 00}{ff 00 00 00}lt? {01 00 00 05 00}Lahe!{01 00 00 0a 00}\nSee võib tähendada ainult,\net siin sees on{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}."
+   "et": "{07 00 00}{ff 00 00 06}{04 0f 00}{ff 00 00 00} käest? {01 00 00 05 00}Lahe!{01 00 00 0a 00}\nSee võib tähendada ainult,\net siin sees on{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}."
   }
  ]
 }

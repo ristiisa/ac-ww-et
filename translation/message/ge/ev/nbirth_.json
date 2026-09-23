@@ -44,7 +44,7 @@
   {
    "id": 8,
    "en": "{07 14 00}Don't even worry about it!{01 00 00 0a 00}\nI'm not all materialistic\nanyway, {01 00 00 05 00}{04 02 00}!",
-   "et": "{07 14 00}Ära üldse muretse!{01 00 00 0a 00}\nMa pole niikuinii eriti\nmaterialist, {01 00 00 05 00}{04 02 00}!"
+   "et": "{07 14 00}Ära üldse muretse!{01 00 00 0a 00}\nMa pole niikuinii eriti\nmaterialistlik, {01 00 00 05 00}{04 02 00}!"
   },
   {
    "id": 9,
@@ -104,7 +104,7 @@
   {
    "id": 20,
    "en": "{07 00 00}Growing up is fun.{07 0f 00} {01 00 00 05 00}But I\nwanna be gut-wrenchingly\ncute forever!",
-   "et": "{07 00 00}Kasvamine on lõbus.{07 0f 00} {01 00 00 05 00}Aga ma\ntahan olla südantlõhestavalt\nnunnu igavesti!"
+   "et": "{07 00 00}Kasvamine on lõbus.{07 0f 00} {01 00 00 05 00}Aga ma\ntahan olla valusalt\nnunnu igavesti!"
   },
   {
    "id": 21,
@@ -129,7 +129,7 @@
   {
    "id": 28,
    "en": "Ummmm...{04 1f 00}? {01 00 00 05 00} You\nbrought a present, right?\n\nWell, how about you give it\nright now, {01 00 00 05 00}{04 02 00}?\n\nThe anticipation is just\nKILLING poor {ff 00 00 06}{04 10 00}{ff 00 00 00}!",
-   "et": "Eeee...{04 1f 00}? {01 00 00 05 00} Sa\ntõid kingituse, eks?\n\nkuidas oleks, kui annaksid\nselle kohe, {01 00 00 05 00}{04 02 00}?\n\nOotus lihtsalt TAPAB\nvaest {ff 00 00 06}{04 10 00}t{ff 00 00 00}!"
+   "et": "Eeee...{04 1f 00}? {01 00 00 05 00} Sa\ntõid kingituse, eks?\n\nNoh, kuidas oleks,\nkui annaksid selle kohe, {01 00 00 05 00}{04 02 00}?\n\nOotus lihtsalt TAPAB\nvaest {ff 00 00 06}{04 10 00}{ff 00 00 00}-nimelist!"
   },
   {
    "id": 29,

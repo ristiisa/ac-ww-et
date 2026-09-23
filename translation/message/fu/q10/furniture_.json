@@ -34,7 +34,7 @@
   {
    "id": 6,
    "en": "{07 00 00}{07 14 00}Hey, I don't know much\nabout art, but I do know\nthat's a {ff 00 00 07}fine painting{ff 00 00 00}!\n{0b 03 00}{04 1f 00}{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00} You're an art\nsnob!{01 00 00 0f 00} {07 0a 00}No, I'm kidding! It's\nreally cool, {01 00 00 05 00}{04 02 00}!",
-   "et": "{07 00 00}{07 14 00}Hei, ma ei tea kunstist\npalju, aga ma tean, et\nsee on {ff 00 00 07}peen maal{ff 00 00 00}!\n{0b 03 00}{04 1f 00}{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00} Sa oled kunsti-\nnoss!{01 00 00 0f 00} {07 0a 00}Ei, ma naljatan!\nTõesti lahe, {01 00 00 05 00}{04 02 00}!"
+   "et": "{07 00 00}{07 14 00}Hei, ma ei tea kunstist\npalju, aga ma tean, et\nsee on {ff 00 00 07}peen maal{ff 00 00 00}!\n{0b 03 00}{04 1f 00}{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00} Sa oled kunsti-\nsnobb!{01 00 00 0f 00} {07 0a 00}Ei, ma naljatan!\nTõesti lahe, {01 00 00 05 00}{04 02 00}!"
   },
   {
    "id": 7,
@@ -89,7 +89,7 @@
   {
    "id": 17,
    "en": "{07 0e 00}Um, {04 1f 00}?{01 00 00 05 00} Is that a\n{ff 00 00 07}garden gnome {ff 00 00 00}that you have\nover there?\nWeird.{01 00 00 0a 00} {07 0e 00}Actually,{01 00 00 05 00} I don't even\nknow what a gnome is{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n{07 16 00}They're not evil,{01 00 00 05 00} right?!\n{07 00 00}WHEW!{01 00 00 05 00} {07 14 00}Yeah, {01 00 00 05 00}it looked too\ncute to be something evil,\n{01 00 00 05 00}{04 02 00}.",
-   "et": "{07 0e 00}Ee, {04 1f 00}?{01 00 00 05 00} Kas see on\n{ff 00 00 07}aiapäkapikk{ff 00 00 00}, mis sul\nseal on?\nVeider.{01 00 00 0a 00} {07 0e 00}Tegelikult{01 00 00 05 00} ei tea,\nmis on päkapikk{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n{07 16 00}Nad pole ju kurjad,{01 00 00 05 00} eks?!\n{07 00 00}UHH!{01 00 00 05 00} {07 14 00}Jah, {01 00 00 05 00}ta nägi liiga\nnunnu välja, et olla kuri,\n{01 00 00 05 00}{04 02 00}."
+   "et": "{07 0e 00}Ee, {04 1f 00}?{01 00 00 05 00} Kas see on\n{ff 00 00 07}aiapäkapikk{ff 00 00 00}, mis sul\nseal on?\nVeider.{01 00 00 0a 00} {07 0e 00}Tegelikult{01 00 00 05 00} ei tea,\nmis on päkapikk{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n{07 16 00}Nad pole ju kurjad,{01 00 00 05 00} eks?!\n{07 00 00}PUHH!{01 00 00 05 00} {07 14 00}Jah, {01 00 00 05 00}ta nägi liiga\nnunnu välja, et olla kuri,\n{01 00 00 05 00}{04 02 00}."
   },
   {
    "id": 18,

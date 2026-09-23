@@ -19,12 +19,12 @@
   {
    "id": 3,
    "en": "{07 14 00}Hey, {04 1f 00}, {01 00 00 0a 00}{ff 00 00 03}Bright\nNights {ff 00 00 00}has started, y'know!\n\n{07 00 00}I wanna win the contest \n{ff 00 00 06}Tortimer{ff 00 00 00}'s sponsoring and\nbe the {ff 00 00 02}Bright Star{ff 00 00 00}!  \n{07 16 00}Problem is, decorating the\nhouse is harder than I\nthought, {01 00 00 05 00}{04 02 00}!\n{07 01 00}Dang!{01 00 00 14 00} I wish this was a\nbare-hand snow-plowing\ncontest, {01 00 00 05 00}{04 02 00}!",
-   "et": "{07 14 00}Hei, {04 1f 00}, {01 00 00 0a 00}{ff 00 00 03}valgus-\nööd {ff 00 00 00}on alanud, tead küll!\n\n{07 00 00}Ma tahan võita {ff 00 00 06}Tortimeri{ff 00 00 00}\nkorraldatava võistluse ja\nolla {ff 00 00 02}säratäht{ff 00 00 00}!  \n{07 16 00}Häda on selles, et maja\nkaunistamine on raskem kui\narvasin, {01 00 00 05 00}{04 02 00}!\n{07 01 00}Pagan!{01 00 00 14 00} Ma soovin, et oleks\npaljakäsi lumesahkamise\nvõistlus, {01 00 00 05 00}{04 02 00}!"
+   "et": "{07 14 00}Hei, {04 1f 00}, {01 00 00 0a 00}{ff 00 00 03}valgus-\nööd {ff 00 00 00}on alanud, tead küll!\n\n{07 00 00}Ma tahan võita {ff 00 00 06}Tortimeri{ff 00 00 00}\nkorraldatava võistluse ja\nolla {ff 00 00 02}säratäht{ff 00 00 00}!  \n{07 16 00}Häda on selles, et maja\nkaunistamine on raskem kui\narvasin, {01 00 00 05 00}{04 02 00}!\n{07 01 00}Pagan!{01 00 00 14 00} Ma soovin, et oleks\npaljakäsi lume koristamise\nvõistlus, {01 00 00 05 00}{04 02 00}!"
   },
   {
    "id": 4,
    "en": "{07 14 00}{ff 00 00 03}Bright Nights {ff 00 00 00}starts today,\n{04 1f 00}! {01 00 00 05 00}ROOOCK!\n\n{07 05 00}No WAY am I gonna lose to \n{04 0d 00}, {01 00 00 05 00}{04 02 00}!",
-   "et": "{07 14 00}{ff 00 00 03}Valgusööd {ff 00 00 00}algavad täna,\n{04 1f 00}! {01 00 00 05 00}ROKIIIB!\n\n{07 05 00}POLE VÕIMALIK, et kaotan \n{04 0d 00}le, {01 00 00 05 00}{04 02 00}!"
+   "et": "{07 14 00}{ff 00 00 03}Valgusööd {ff 00 00 00}algavad täna,\n{04 1f 00}! {01 00 00 05 00}ROKIIIB!\n\n{07 05 00}POLE VÕIMALIK, et {04 0d 00}\nmind võidab, {01 00 00 05 00}{04 02 00}!"
   },
   {
    "id": 5,
@@ -34,7 +34,7 @@
   {
    "id": 6,
    "en": "{07 0b 00}Hey, so, {04 1f 00}, you're\non my side in this contest,\nright, {01 00 00 05 00}{04 02 00}?!\n{07 00 00}Sure you are. {01 00 00 05 00}So grab\n{ff 00 00 06}Tortimer {ff 00 00 00}and {07 0d 00}tell him that\n{04 01 00}'s lights are...\n{01 08 00}THE ABSOLUTE BEST!",
-   "et": "{07 0b 00}Hei, {04 1f 00}, sa oled\nselles võistluses minu\npoolel, eks, {01 00 00 05 00}{04 02 00}?!\n{07 00 00}Muidugi oled. {01 00 00 05 00}Nii et haara\n{ff 00 00 06}Tortimer {ff 00 00 00}ja {07 0d 00}ütle talle, et\n{04 01 00}i tuled on...\n{01 08 00}ABSOLUUTSELT PARIMAD!"
+   "et": "{07 0b 00}Hei, {04 1f 00}, sa oled\nselles võistluses minu\npoolel, eks, {01 00 00 05 00}{04 02 00}?!\n{07 00 00}Muidugi oled. {01 00 00 05 00}Nii et haara\n{ff 00 00 06}Tortimer {ff 00 00 00}ja {07 0d 00}ütle talle:\nmehe nimega {04 01 00} tuled\non... {01 08 00}ABSOLUUTSELT PARIMAD!"
   },
   {
    "id": 7,
@@ -44,12 +44,12 @@
   {
    "id": 8,
    "en": "{07 16 00}This is the worst news EVER,{01 00 00 05 00}\n{ff 00 00 05}{04 1f 00}{ff 00 00 00}!{01 00 00 0a 00}\n\n{07 08 00}I didn't win {ff 00 00 03}Bright Nights{ff 00 00 00}!{01 00 00 05 00}\n{07 16 00}I put my lights up faster\nthan {ff 00 00 06}{04 0f 00}{ff 00 00 00}, but...\n{07 1c 00}I wonder what I did wrong{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 05 00}\n{04 02 00}.",
-   "et": "{07 16 00}See on kõigi aegade halvim\nuudis,{01 00 00 05 00} {ff 00 00 05}{04 1f 00}{ff 00 00 00}!{01 00 00 0a 00}\n\n{07 08 00}Ma ei võitnud {ff 00 00 03}valgusöid{ff 00 00 00}!{01 00 00 05 00}\n{07 16 00}Ma panin oma tuled üles\nruttu kui {ff 00 00 06}{04 0f 00}{ff 00 00 00}, aga...\n{07 1c 00}Mida ma valesti tegin{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 05 00}\n{04 02 00}."
+   "et": "{07 16 00}See on kõigi aegade halvim\nuudis,{01 00 00 05 00} {ff 00 00 05}{04 1f 00}{ff 00 00 00}!{01 00 00 0a 00}\n\n{07 08 00}Ma ei võitnud {ff 00 00 03}valgusöid{ff 00 00 00}!{01 00 00 05 00}\n{07 16 00}Ma panin oma tuled üles\nkiiremini kui {ff 00 00 06}{04 0f 00}{ff 00 00 00}, aga...\n{07 1c 00}Mida ma valesti tegin{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 05 00}\n{04 02 00}."
   },
   {
    "id": 9,
    "en": "{07 01 00}This is completely BOGUS!{01 00 00 0a 00}\nI lost the {ff 00 00 03}Bright Nights{ff 00 00 00}\ncontest! {01 00 00 05 00}WEEEEEEAK!\n{07 00 00}Rumor has it {01 00 00 05 00}{ff 00 00 06}{04 0f 00}\n{ff 00 00 00}was the winner, but...\n\n{07 15 00}I was, like, THIS close until\nthe very end, {01 00 00 05 00}{04 02 00}!\n\n{07 0f 00}Now I have to toss this\n{ff 00 00 02}Bright Star{ff 00 00 00} acceptance\nspeech I wrote...",
-   "et": "{07 01 00}See on täiesti VALE!{01 00 00 0a 00}\nMa kaotasin {ff 00 00 03}valgusööde{ff 00 00 00}\nvõistluse! {01 00 00 05 00}NÕÕÕÕME!\n{07 00 00}Kuulujutu järgi {01 00 00 05 00}{ff 00 00 06}{04 0f 00}\n{ff 00 00 00}võitis, aga...\n\n{07 15 00}Ma olin SIIMOODI lähedal\nkuni lõpuni, {01 00 00 05 00}{04 02 00}!\n\n{07 0f 00}Nüüd pean ma ära viskama\nselle {ff 00 00 02}säratähe{ff 00 00 00} tänukõne,\nmille ma kirjutasin..."
+   "et": "{07 01 00}See on täiesti VALE!{01 00 00 0a 00}\nMa kaotasin {ff 00 00 03}valgusööde{ff 00 00 00}\nvõistluse! {01 00 00 05 00}NÕÕÕÕME!\n{07 00 00}Kuulujutu järgi {01 00 00 05 00}{ff 00 00 06}{04 0f 00}\n{ff 00 00 00}võitis, aga...\n\n{07 15 00}Ma olin NII lähedal\nkuni lõpuni, {01 00 00 05 00}{04 02 00}!\n\n{07 0f 00}Nüüd pean ma ära viskama\nselle {ff 00 00 02}säratähe{ff 00 00 00} tänukõne,\nmille ma kirjutasin..."
   },
   {
    "id": 10,
@@ -69,7 +69,7 @@
   {
    "id": 13,
    "en": "{07 14 00}You rock, {04 1f 00}!{01 00 00 0a 00}\nThanks for voting for me\nfor {ff 00 00 02}Bright Star{ff 00 00 00}!\n{07 0b 00}How do I know you did?{01 01 00}\n{07 00 00}Aw, {ff 00 00 06}Tortimer {ff 00 00 00}was mumbling\nabout it...\n{07 16 00}That guy loves mumbling{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}\nDoes he have fake teeth?{01 00 00 05 00}\nOr ANY teeth, {01 00 00 05 00}{04 02 00}?",
-   "et": "{07 14 00}Sa rokid, {04 1f 00}!{01 00 00 0a 00}\nAitäh, et hääletasid minu\npoolt {ff 00 00 02}säratäheks{ff 00 00 00}!\n{07 0b 00}Kust ma tean, et tegid?{01 01 00}\n{07 00 00}Ohh, {ff 00 00 06}Tortimer {ff 00 00 00}pomises\nsellest...\n{07 16 00}Ta armastab pomiseda{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}\nKas tal on valehambad?{01 00 00 05 00}\nVõi ÜLDSE hambad, {01 00 00 05 00}{04 02 00}?"
+   "et": "{07 14 00}Sa rokid, {04 1f 00}!{01 00 00 0a 00}\nAitäh, et hääletasid minu\npoolt {ff 00 00 02}säratäheks{ff 00 00 00}!\n{07 0b 00}Kust ma tean, et tegid?{01 01 00}\n{07 00 00}Ohh, {ff 00 00 06}Tortimer {ff 00 00 00}pomises\nsellest...\n{07 16 00}Ta armastab pomiseda{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}\nKas tal on tehishambad?{01 00 00 05 00}\nVõi ÜLDSE hambad, {01 00 00 05 00}{04 02 00}?"
   },
   {
    "id": 14,
@@ -84,7 +84,7 @@
   {
    "id": 16,
    "en": "{07 0b 00}{ff 00 00 06}{04 10 00}{ff 00 00 00}'s decorations\nwere THAT good?\n\n{07 16 00}Somebody explain to me how\nthose lights were better\nthan mine, {01 00 00 05 00}{04 02 00}!",
-   "et": "{07 0b 00}Kas {ff 00 00 06}{04 10 00}{ff 00 00 00}i kaunistused\nolid NII head?\n\n{07 16 00}Seletagu keegi mulle, kuidas\nneed tuled olid paremad\nkui minu omad, {01 00 00 05 00}{04 02 00}!"
+   "et": "{07 0b 00}Kas {ff 00 00 06}{04 10 00}{ff 00 00 00} kaunistused\nolid NII head?\n\n{07 16 00}Seletagu keegi mulle, kuidas\nneed tuled olid paremad\nkui minu omad, {01 00 00 05 00}{04 02 00}!"
   },
   {
    "id": 17,
@@ -94,7 +94,7 @@
   {
    "id": 18,
    "en": "{07 15 00}The only thing {ff 00 00 03}Bright Nights\n{ff 00 00 00}needs in order to end on\nthe perfect note...\n{07 00 00}...is for none other than\nME to{01 01 00}{07 0d 00} win the {ff 00 00 03}Bright Nights{ff 00 00 00}\ndecoration contest!",
-   "et": "{07 15 00}Ainus asi, mida {ff 00 00 03}valgusööd\n{ff 00 00 00}vajavad, et lõppeda\ntäiuslikult...\n{07 00 00}...on see, et keegi muu kui\nMINA{01 01 00}{07 0d 00} võidaks {ff 00 00 03}valgusööde{ff 00 00 00}\nkaunistusvõistluse!"
+   "et": "{07 15 00}Ainus asi, mida {ff 00 00 03}valgusööd\n{ff 00 00 00}vajavad, et lõppeda\ntäiuslikult...\n{07 00 00}...on see, et mitte keegi muu kui\nMINA{01 01 00}{07 0d 00} võidaks {ff 00 00 03}valgusööde{ff 00 00 00}\nkaunistusvõistluse!"
   },
   {
    "id": 19,

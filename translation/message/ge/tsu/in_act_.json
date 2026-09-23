@@ -4,7 +4,7 @@
   {
    "id": 0,
    "en": "{07 16 00}Y'know, {01 00 00 05 00}I just have a hard\ntime getting into bug\ncatching, {01 00 00 05 00}{04 02 00}!\n{07 14 00}It's just so gross, y'know?{01 00 00 05 00}\nI'd totally rather do\nsomething else.\n{07 11 00}{ff 00 00 04}(Actually, {01 00 00 05 00}I'm totally lying!{01 00 00 05 00}\nI'm fooling my competition.{01 00 00 05 00}\nI'm a psychological genius!)",
-   "et": "{07 16 00}Tead, {01 00 00 05 00}mul on lihtsalt raske\nputukapüügi vastu huvi\ntunda, {01 00 00 05 00}{04 02 00}!\n{07 14 00}See on lihtsalt nii jälk!{01 00 00 05 00}\nMa teeksin palju meelsamini\nmidagi muud.\n{07 11 00}{ff 00 00 04}(Tegelikult {01 00 00 05 00}ma valetan!{01 00 00 05 00}\nMa petan oma konkurente.{01 00 00 05 00}\nOlen psühho-geenius!)"
+   "et": "{07 16 00}Tead, {01 00 00 05 00}mul on lihtsalt raske\nputukapüügi vastu huvi\ntunda, {01 00 00 05 00}{04 02 00}!\n{07 14 00}See on lihtsalt nii jälk!{01 00 00 05 00}\nMa teeksin palju meelsamini\nmidagi muud.\n{07 11 00}{ff 00 00 04}(Tegelikult {01 00 00 05 00}ma valetan!{01 00 00 05 00}\nMa petan oma konkurente.{01 00 00 05 00}\nOlen psühholoogiline geenius!)"
   },
   {
    "id": 1,
@@ -14,7 +14,7 @@
   {
    "id": 2,
    "en": "{07 00 00}{0b 03 00}{04 1f 00}, {01 00 00 05 00}you ever seen\n{07 0b 00}{04 1a 00}? \n\n{07 00 00}Someone showed me one the\nother day, {01 00 00 05 00}but it was so\ntiny!{01 00 00 05 00} I had to squint!\n{07 06 00}I always assumed one of\nthose would be as big as a\n{04 15 00}!",
-   "et": "{07 00 00}{0b 03 00}{04 1f 00}, {01 00 00 05 00}kas sa oled\n{07 0b 00}näinud seda: {04 1a 00}?\n\n{07 00 00}Keegi näitas mulle ühte\nüleeile, {01 00 00 05 00}aga see oli nii\ntilluke!{01 00 00 05 00} Pidin silmi\nkissitama! {07 06 00}Ma arvasin alati,\net selline on nii suur kui\n{04 15 00}!"
+   "et": "{07 00 00}{0b 03 00}{04 1f 00}, {01 00 00 05 00}kas sa oled\n{07 0b 00}näinud seda: {04 1a 00}?\n\n{07 00 00}Keegi näitas mulle ühte\nühel päeval, {01 00 00 05 00}aga see oli nii\ntilluke!{01 00 00 05 00} Pidin silmi\nkissitama! {07 06 00}Ma arvasin alati,\net selline on nii suur kui\n{04 15 00}!"
   },
   {
    "id": 3,
@@ -49,7 +49,7 @@
   {
    "id": 9,
    "en": "{07 16 00}I gotta admit, I'm on a\nsorta tight budget this\nmonth{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 14 00}That's why I gotta get bugs\nand sell 'em to {ff 00 00 06}Tom Nook{ff 00 00 00}!{01 00 00 05 00}\nInstant cash, {04 02 00}!\n{07 06 00}Still, what a gross job!{01 00 00 0a 00}\nHow long do I have to live \nlike this, {01 00 00 05 00}{04 02 00}?!",
-   "et": "{07 16 00}sel kuul\non mul üsna kitsas\neelarve{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 14 00}Seepärast pean putukaid\npüüdma ja {ff 00 00 06}Tom Nookile{ff 00 00 00}\nmüüma!{01 00 00 05 00} Kohene\nraha,{04 02 00} ! {07 06 00}Aga kui jälk\ntöö!{01 00 00 0a 00} Kui kaua ma pean\nnii elama, {01 00 00 05 00}{04 02 00}?!"
+   "et": "{07 16 00}Pean tunnistama, et sel kuul\non mul üsna kitsas\neelarve{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 14 00}Seepärast pean putukaid\npüüdma ja {ff 00 00 06}Tom Nookile{ff 00 00 00}\nmüüma!{01 00 00 05 00} Kohene\nraha,{04 02 00} ! {07 06 00}Aga kui jälk\ntöö!{01 00 00 0a 00} Kui kaua ma pean\nnii elama, {01 00 00 05 00}{04 02 00}?!"
   },
   {
    "id": 10,
@@ -79,7 +79,7 @@
   {
    "id": 15,
    "en": "{07 00 00}When you hunt a bug, you\ngotta hold your breath and{01 00 00 05 00}\n{07 15 00}slooowly, slooowly creep{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 00 00}But {01 00 00 0a 00}just the other day, I\nheld my breath {01 00 00 05 00}too long,\nand {07 09 00}I almost passed out!\n{07 15 00}Me and that bug oughta be\na good match! {01 00 00 05 00}We're both\ntotal idiots, {01 00 00 05 00}{04 02 00}!",
-   "et": "{07 00 00}Kui sa putukat jahid, pead\nhinge kinni hoidma ja{01 00 00 05 00}\n{07 15 00}aegla-aeglaselt hiilima{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 00 00}Aga {01 00 00 0a 00}üleeile hoidsin ma\nhinge {01 00 00 05 00}liiga kaua kinni\nja {07 09 00}peaaegu minestasin!\n{07 15 00}Mina ja see putukas oleks\nhea paar! {01 00 00 05 00}Me oleme mõlemad\ntäielikud lollid, {01 00 00 05 00}{04 02 00}!"
+   "et": "{07 00 00}Kui sa putukat jahid, pead\nhinge kinni hoidma ja{01 00 00 05 00}\n{07 15 00}aegla-aeglaselt hiilima{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 00 00}Aga {01 00 00 0a 00}ühel päeval hoidsin ma\nhinge {01 00 00 05 00}liiga kaua kinni\nja {07 09 00}peaaegu minestasin!\n{07 15 00}Mina ja see putukas oleks\nhea paar! {01 00 00 05 00}Me oleme mõlemad\ntäielikud lollid, {01 00 00 05 00}{04 02 00}!"
   },
   {
    "id": 16,

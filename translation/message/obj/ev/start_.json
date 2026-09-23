@@ -34,12 +34,12 @@
   {
    "id": 6,
    "en": "Hey, everybody!{01 00 00 05 00}\nThe {ff 00 00 03}Fireworks Show{ff 00 00 00} is\ntoday!{01 00 00 05 00} KA-BOOM!{01 10 00 3c}",
-   "et": "Hei, kõik!{01 00 00 05 00}\n{ff 00 00 03}Ilutulestik{ff 00 00 00} on\ntäna!{01 00 00 05 00} PAUH!{01 10 00 3c}"
+   "et": "Hei, kõik!{01 00 00 05 00}\n{ff 00 00 03}Ilutulestikushow{ff 00 00 00} on\ntäna!{01 00 00 05 00} PAUH!{01 10 00 3c}"
   },
   {
    "id": 7,
    "en": "Hey, everybody!{01 00 00 05 00}\nIt's time for the\n{ff 00 00 03}Acorn Festival{ff 00 00 00}!{01 10 00 3c}",
-   "et": "Hei, kõik!{01 00 00 05 00}\nOn aeg\n{ff 00 00 03}tõrufestivaliks{ff 00 00 00}!{01 10 00 3c}"
+   "et": "Hei, kõik!{01 00 00 05 00}\nOn aeg\n{ff 00 00 03}tõrupeoks{ff 00 00 00}!{01 10 00 3c}"
   },
   {
    "id": 8,

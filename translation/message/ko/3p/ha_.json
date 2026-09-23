@@ -4,7 +4,7 @@
   {
    "id": 0,
    "en": "{09 01 00}{09 08 00}{07 00 00}{ff 00 00 06}{04 10 00}{ff 00 00 00}!{01 00 00 0f 00} Yeah, you!\nYou don't just eat meat,\ndo you? Eh, {01 00 00 05 00}{04 02 00}?\n{07 15 00}You gotta eat some veggies,\nman!{01 00 00 05 00} If you don't, you'll\nget all alkaline inside!{09 09 00}",
-   "et": "{09 01 00}{09 08 00}{07 00 00}{ff 00 00 06}{04 10 00}{ff 00 00 00}!{01 00 00 0f 00} Jah, sina!\nSa ei söö ainult liha,\nega? Mis, {01 00 00 05 00}{04 02 00}?\n{07 15 00}Sa pead sööma juurvilja,\nsemu!{01 00 00 05 00} Kui ei söö, lähed\nseest üleni leeliseliseks!{09 09 00}"
+   "et": "{09 01 00}{09 08 00}{07 00 00}{ff 00 00 06}{04 10 00}{ff 00 00 00}!{01 00 00 0f 00} Jah, sina!\nSa ei söö ainult liha,\nega? Mis, {01 00 00 05 00}{04 02 00}?\n{07 15 00}Sa pead sööma köögivilja,\nsemu!{01 00 00 05 00} Kui ei söö, lähed\nseest üleni leeliseliseks!{09 09 00}"
   },
   {
    "id": 1,
@@ -14,7 +14,7 @@
   {
    "id": 2,
    "en": "{09 01 00}{09 04 00}Hey, {01 00 00 05 00}{04 1f 00}!{01 00 00 0f 00}\nI've noticed{01 00 00 05 00} a little extra\njiggle around my gut lately.\n{07 16 00}At this rate I'm gonna look\nall porky in no time,\n{01 00 00 05 00}{04 02 00}!\n{07 0e 00}But, {01 00 00 05 00}the thing is, I love to\neat! I can't be starving \nmyself. That'd be lame{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.\n{07 00 00}{09 08 00}Hey,{01 00 00 05 00} {ff 00 00 06}{04 10 00}{ff 00 00 00}.{01 00 00 0f 00}\nYou know a lot about\ngetting buff, right?\nWhat's a guy gotta do to\nget rid of this flab?{09 09 00}",
-   "et": "{09 01 00}{09 04 00}Hei, {01 00 00 05 00}{04 1f 00}!{01 00 00 0f 00}\nOlen märganud{01 00 00 05 00} viimasel ajal\nkõhu ümber lisalõtku.\n{07 16 00}Sellise tempoga näen ma\nvarsti üleni notsu moodi,\n{01 00 00 05 00}{04 02 00}!\n{07 0e 00}Aga, {01 00 00 05 00}asi on selles, et ma\narmastan süüa! Ma ei saa\nnäljutada. See oleks lörts{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.\n{07 00 00}{09 08 00}Hei,{01 00 00 05 00} {ff 00 00 06}{04 10 00}{ff 00 00 00}.{01 00 00 0f 00}\nSa tead palju\nlihaste kasvatamisest, eks?\nMida peab mees tegema,\net rasvast lahti saada?{09 09 00}"
+   "et": "{09 01 00}{09 04 00}Hei, {01 00 00 05 00}{04 1f 00}!{01 00 00 0f 00}\nOlen märganud{01 00 00 05 00} viimasel ajal\nkõhu ümber lisalõtku.\n{07 16 00}Sellise tempoga näen ma\nvarsti üleni notsu moodi,\n{01 00 00 05 00}{04 02 00}!\n{07 0e 00}Aga, {01 00 00 05 00}asi on selles, et ma\narmastan süüa! Ma ei saa\nnäljutada. See oleks nõme{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.\n{07 00 00}{09 08 00}Hei,{01 00 00 05 00} {ff 00 00 06}{04 10 00}{ff 00 00 00}.{01 00 00 0f 00}\nSa tead palju\nlihaste kasvatamisest, eks?\nMida peab mees tegema,\net rasvast lahti saada?{09 09 00}"
   },
   {
    "id": 3,
@@ -29,7 +29,7 @@
   {
    "id": 5,
    "en": "{09 00 00}{09 08 00}{09 02 00}{09 04 00}{07 00 00}{0b 03 00}{04 1f 00}, do you know\nwhat alkaline is all about?{09 09 00}{02 00 00 06 09}\nOf course!\nUhh...",
-   "et": "{09 00 00}{09 08 00}{09 02 00}{09 04 00}{07 00 00}{0b 03 00}{04 1f 00}, kas sa tead,\nmis asi see leeliseline on?{09 09 00}{02 00 00 06 09}\nMuidugi!\nEe..."
+   "et": "{09 00 00}{09 08 00}{09 02 00}{09 04 00}{07 00 00}{0b 03 00}{04 1f 00}, kas sa tead,\nmida „leeliseline” tähendab?{09 09 00}{02 00 00 06 09}\nMuidugi!\nEe..."
   },
   {
    "id": 6,
@@ -39,7 +39,7 @@
   {
    "id": 7,
    "en": "{09 00 00}{09 08 00}{09 02 00}{07 03 00}Ahahahaha!{01 00 00 14 00} I totally go nuts\non cookies and spill\ncrumbs all over the place!{01 00 00 05 00}\n{07 0d 00}I'm craaaaazy like that!\nWhen I'm done eating, it's\nlike there was an explosion!{09 09 00}",
-   "et": "{09 00 00}{09 08 00}{09 02 00}{07 03 00}Ahahahaha!{01 00 00 14 00} Ma lähen küpsist\nkallal täiesti hulluks ja\najan purud igale poole!{01 00 00 05 00}\n{07 0d 00}Ma olen nii huuuuull!\nKui ma lõpetan, on nagu\noleks plahvatus olnud!{09 09 00}"
+   "et": "{09 00 00}{09 08 00}{09 02 00}{07 03 00}Ahahahaha!{01 00 00 14 00} Ma lähen küpsiste\nkallal täiesti hulluks ja\najan purud igale poole!{01 00 00 05 00}\n{07 0d 00}Ma olen nii huuuuull!\nKui ma lõpetan, on nagu\noleks plahvatus olnud!{09 09 00}"
   },
   {
    "id": 8,
@@ -54,7 +54,7 @@
   {
    "id": 10,
    "en": "{09 00 00}{09 08 00}{09 02 00}{07 03 00}Dude!{01 00 00 14 00} Are you telling me\nnobody knows what alkaline\nis all about?\n{07 15 00}All right, fine!{01 00 00 0f 00}\nLet the master explain!\n\n{07 00 00}First, there are two kinds\nof food, alkaline and\nacidic{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{09 09 00}",
-   "et": "{09 00 00}{09 08 00}{09 02 00}{07 03 00}Semu!{01 00 00 14 00} Kas sa ütled mulle,\net keegi ei tea, mis asi\nsee leeliseline on?\n{07 15 00}Hea küll, olgu!{01 00 00 0f 00}\nLaske meistril seletada!\n\n{07 00 00}Esiteks on kahte sorti\ntoitu, leeliseline ja\nhapu{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{09 09 00}"
+   "et": "{09 00 00}{09 08 00}{09 02 00}{07 03 00}Semu!{01 00 00 14 00} Kas sa ütled mulle,\net keegi ei tea, mida\n„leeliseline” tähendab?\n{07 15 00}Hea küll, olgu!{01 00 00 0f 00}\nLaske meistril seletada!\n\n{07 00 00}Esiteks on kahte sorti\ntoitu, leeliseline ja\nhapu{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{09 09 00}"
   },
   {
    "id": 11,
@@ -94,7 +94,7 @@
   {
    "id": 18,
    "en": "{09 00 00}{09 08 00}{09 02 00}{09 06 00}{07 03 00}War har har har har!{01 00 00 0f 00}\nCrunches, you dweeb!{01 00 00 14 00}\nCrunch 'til you cramp!\n{07 05 00}I mean nonstop. You gotta\neven do crunches while you\neat! Those REALLY burn!{09 09 00}",
-   "et": "{09 00 00}{09 08 00}{09 02 00}{09 06 00}{07 03 00}Var har har har har!{01 00 00 0f 00}\nKõhulihased, sa juhm!{01 00 00 14 00}\nTee, kuni kramp tuleb!\n{07 05 00}Ma mõtlen lakkamatult. Sa\npead neid tegema isegi\nsüües! Need PÕLETAVAD!{09 09 00}"
+   "et": "{09 00 00}{09 08 00}{09 02 00}{09 06 00}{07 03 00}Var har har har har!{01 00 00 0f 00}\nKõhutõused, sa juhm!{01 00 00 14 00}\nTee, kuni kramp tuleb!\n{07 05 00}Ma mõtlen lakkamatult. Sa\npead neid tegema isegi\nsüües! Need PÕLETAVAD!{09 09 00}"
   },
   {
    "id": 19,

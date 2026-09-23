@@ -4,7 +4,7 @@
   {
    "id": 0,
    "en": "{07 07 00}T-tonight is crucial{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\nJust g-gotta make it one\nm-more night{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.",
-   "et": "{07 07 00}T-täna öösel on otsustav{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\nPean v-vastu pidama\nv-veel ühe öö{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}."
+   "et": "{07 07 00}T-tänane öö on otsustav{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\nPean v-vastu pidama\nv-veel ühe öö{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}."
   },
   {
    "id": 1,
@@ -54,7 +54,7 @@
   {
    "id": 10,
    "en": "{07 1c 00}I'm f-fine{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} You should be\nworried about yourself.",
-   "et": "{07 1c 00}Ma olen k-korras{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} Sa\nenda pärast muretsema."
+   "et": "{07 1c 00}Ma olen k-korras{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} Sa\npeaksid enda pärast muretsema."
   },
   {
    "id": 11,
@@ -104,7 +104,7 @@
   {
    "id": 20,
    "en": "{07 1c 00}Yeah, I feel OK{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} {07 14 00}But I'm\ngonna rest a little more,\n{01 00 00 05 00}{04 02 00}.",
-   "et": "{07 1c 00}tunnen end korras{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} {07 14 00}Aga ma\npuhkan veel veidi,\n{01 00 00 05 00}{04 02 00}."
+   "et": "{07 1c 00}Jah, tunnen end korras{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} {07 14 00}Aga ma\npuhkan veel veidi,\n{01 00 00 05 00}{04 02 00}."
   },
   {
    "id": 21,

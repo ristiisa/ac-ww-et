@@ -19,12 +19,12 @@
   {
    "id": 3,
    "en": "{07 1b 00}Ugh!{01 00 00 14 00} {0b 03 00}{04 1f 00}, {01 00 00 05 00}you just \ndon't get it, do you? \n{0b 03 00}{01 00 00 05 00}{04 02 00}!\n{07 15 00}I'm protecting {04 03 00}\nfrom unsavory characters!{01 00 00 05 00}\nI'm on patrol!\nWhen I see evildoers, I lay\ninto 'em with a barrage of\nwry insults and sass!\n{07 00 00}Sign up now and I'll toss in\na free membership to the\n{04 01 00} Security Force!\n{07 15 00}Maybe you should think\nabout helping out a little\nsometime, {01 00 00 05 00}{04 02 00}!",
-   "et": "{07 1b 00}Uhh!{01 00 00 14 00} {0b 03 00}{04 1f 00}, {01 00 00 05 00}sa ei saa\nsellest aru, ega? \n{0b 03 00}{01 00 00 05 00}{04 02 00}!\n{07 15 00}Ma kaitsen {04 03 00}\nkahtlaste tegelaste eest!{01 00 00 05 00}\nMa olen patrullis!\nKui ma näen kurjategijaid,\nründan ma neid kuivade\nsolvangute ja jultumusega!\n{07 00 00}Liitu nüüd ja ma viskan\njuurde tasuta liikmesuse\n{04 01 00}i Turvajõududes!\n{07 15 00}Ehk peaksid sa mõtlema\nsellele, et kunagi natuke\naidata, {01 00 00 05 00}{04 02 00}!"
+   "et": "{07 1b 00}Uhh!{01 00 00 14 00} {0b 03 00}{04 1f 00}, {01 00 00 05 00}sa ei saa\nsellest aru, ega? \n{0b 03 00}{01 00 00 05 00}{04 02 00}!\n{07 15 00}Ma kaitsen {04 03 00}\nkahtlaste tegelaste eest!{01 00 00 05 00}\nMa olen patrullis!\nKui ma näen kurjategijaid,\nründan ma neid kuivade\nsolvangute ja jultumusega!\n{07 00 00}Liitu nüüd ja ma viskan\njuurde tasuta liikmesuse\nTurvajõududes nimega {04 01 00}!\n{07 15 00}Ehk peaksid sa mõtlema\nsellele, et kunagi natuke\naidata, {01 00 00 05 00}{04 02 00}!"
   },
   {
    "id": 4,
    "en": "{07 0b 00}Are you sure?{01 00 00 14 00}{07 00 00} .{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}All right \nthen, soldier. As you were, \n{01 00 00 05 00}{04 02 00}.",
-   "et": "{07 0b 00}Oled kindel?{01 00 00 14 00}{07 00 00} .{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}Hea küll \nsiis, sõdur. Nagu olid, \n{01 00 00 05 00}{04 02 00}."
+   "et": "{07 0b 00}Oled kindel?{01 00 00 14 00}{07 00 00} .{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}Hea küll \nsiis, sõdur. Vabalt! \n{01 00 00 05 00}{04 02 00}."
   },
   {
    "id": 5,

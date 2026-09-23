@@ -17,6 +17,8 @@ eraldi kirjutatud. Kaustad: `translation/message/<kood>/`.
 | `fu` | Female / õrn | viisakas, hooliv, pehme | mahe, hoolitsev, deminutiivid |
 | `ha` | Jock / sportlane | vali, slängirikas, lihaseid täis | „Jou", „mees", „vend", „vinge", „trenn" |
 
+Jock'ide slängireeglid: „killer" = „tappev" („tappev mõte", „TAPEV töö"); „beefy/burly/bulky" = kalapunn **„turske"** (tursk → „turskem kui sumomaadleja", „Turskete Kaupade Maja") — mõlemad taotluslikud, hoida järjepidavana.
+
 ## Erilised tegelased
 
 ### Suure tekstimahuga
@@ -32,7 +34,7 @@ eraldi kirjutatud. Kaustad: `translation/message/<kood>/`.
 | `cafe_` (89) | **Brewster**, tuvi, kohvik | napisõnaline, kuiv, alahinnatud huumor; kibeda kohvi metafoorid |
 | `raccoon_` (88) | **Tom Nook**, kährik | müügimehelik; lause lõpus „hm?" ja „yes?", hõõrub käsi |
 | `osister_` (89) | **Sable**, vanem Able õde | alguses tõrjuv ja pelglik, siis soe; pikad nostalgilised lapsepõlvelood |
-| `cf5_` (80) | **Kapp'n**, merikass | piraadikeel: „Yar har", „ye", „yer", „me hearty", „'twas", meremehesõnavara |
+| `cf5_` (80) | **Kapp'n**, merikass | jaapanis Tōhoku-murrakune maakohtlane meremees (オラ, 〜だべ, 〜くんろ), inglise lokaliseerimis tegi ta piraadiks („Yar har", „ye"); meil **saarte murre** (vt allpool) |
 
 ### Ülejäänud
 
@@ -82,8 +84,21 @@ eraldi kirjutatud. Kaustad: `translation/message/<kood>/`.
 - **Cornimer** — kolmas isik iseendast. „Suur Cornimer ei ole rahul."
 - **Tom Nook** — „hm?" / „yes?" lause lõpus. Eesti: „eks?", „nõnda?"
 
-**Kus stiil on praegu kaduma läinud.** Kapp'n (`cf5_`, `sequence3_`,
-`sequence4_`) on originaalis piraadikeeles, tõlkes kirjakeelne. Eesti vaste
-oleks **saarte murre** (Saaremaa: `õ`→`ö`, „nüid", „sii/sääl", „taris",
-„kena"), sest väljamõeldud apostroofidega piraadikeelt eesti keeles ei ole.
-Sõnavara on juba paigas: „merekaru", „väike makrell", „karpide nimel".
+**Kapp'ni saarte murre (rakendatud).** Jaapani originaalis räägib
+Kapp'n Tōhoku-murrakut meenutavas maakohtlases meremehekeeles, mitte
+piraadikeelt (see oli inglise lokaliseerimise valik). Eesti vaste on
+**keskmise tugevusega saarte murre**. Reeglid:
+
+- `õ` → `ö` kõikjal: „körvu", „öigesti", „söit", „öhtusöök", „möelda"
+- „on" → „om" („kell om", „see om")
+- lõpu `-d` kukub 2. isikul: „sa ole", „ütle", „taha", „näe", „pea"
+- asukohasõnad: „sii" (siia), „sääl" (seal), „tääl" (siin), „nüid" (nüüd),
+  „kuis" (kuidas)
+- sõnavara: „kena", „natukene", „villand", „tösi"
+- meremehemarkerid jäävad: „Jarr!", „Jarr harr harr HARR!", „Jo-ho!",
+  kalanimega pöördumised („sa väike makrell", „sa tursk", „kilu")
+- **Mängija vastusevalikud jäävad kirjakeelde** — murrakus räägib ainult
+  Kapp'n ise
+
+Failid: `cf5_`, `sequence3_` (taksosõit) ja `sequence4_` (ainult kirjed
+0–1; ülejäänud on teised tegelased).

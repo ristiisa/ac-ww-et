@@ -29,7 +29,7 @@
   {
    "id": 6,
    "en": "The other day{01 00 00 05 00}, I saw\n{04 0d 00} with this {07 0e 00}lovely\nlady.{01 00 00 0f 00} {07 0b 00}I wonder who she was?{02 01 00 07 09 0a}\nDon't gossip!\nA friend.\nA family member?",
-   "et": "Üleeile{01 00 00 05 00} nägin ma\n{04 0d 00}t koos ühe {07 0e 00}armsa\ndaamiga.{01 00 00 0f 00} {07 0b 00}Kes ta küll oli?{02 01 00 07 09 0a}\nÄra klatši!\nSõber.\nSugulane?"
+   "et": "Üleeile{01 00 00 05 00} nägin ma\n{04 0d 00} ja üht {07 0e 00}armsat\ndaami koos.{01 00 00 0f 00} {07 0b 00}Kes ta küll oli?{02 01 00 07 09 0a}\nÄra klatši!\nSõber.\nSugulane?"
   },
   {
    "id": 7,
@@ -64,7 +64,7 @@
   {
    "id": 13,
    "en": "{07 15 00}You know those couples who\nsit at a table for four,\nonly drinking water? {01 00 00 0a 00}Hmph!\n{07 1c 00}{01 00 00 05 00}{ff 00 00 06}Brewster {ff 00 00 00}works so hard to\nmake delicious coffee, and\nfor what?! {01 00 00 0a 00}Nothing!",
-   "et": "{07 15 00}Tead neid paare, kes\nistuvad neljasele lauale ja\njoovad ainult vett? {01 00 00 0a 00}Pff!\n{07 1c 00}{01 00 00 05 00}{ff 00 00 06}Brewster {ff 00 00 00}näeb nii vaeva,\net teha maitsvat kohvi, ja\nmille nimel?! {01 00 00 0a 00}Mitte millegi!"
+   "et": "{07 15 00}Tead neid paare, kes\nistuvad neljase laua taha ja\njoovad ainult vett? {01 00 00 0a 00}Pff!\n{07 1c 00}{01 00 00 05 00}{ff 00 00 06}Brewster {ff 00 00 00}näeb nii vaeva,\net teha maitsvat kohvi, ja\nmille nimel?! {01 00 00 0a 00}Mitte millegi!"
   },
   {
    "id": 14,
@@ -79,7 +79,7 @@
   {
    "id": 16,
    "en": "{07 12 00}{01 00 00 0a 00}Huh?{01 00 00 14 00} Oh, {01 00 00 05 00}I'm so sorry{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\nI'm just so sleepy and\nhungry right now...\n{07 14 00}On mornings after\nall-nighters,{01 00 00 0a 00} I gotta have\na {ff 00 00 08}Roost {ff 00 00 00}Special!",
-   "et": "{07 12 00}{01 00 00 0a 00}Mis?{01 00 00 14 00} Ah, {01 00 00 05 00}mul on nii kahju{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\nMa olen lihtsalt nii unine ja\nnäljane praegu...\n{07 14 00}Pärast läbi kootud ööd\npeab mul hommikul{01 00 00 0a 00} olema\n{ff 00 00 08}Roosti {ff 00 00 00}eripakkumine!"
+   "et": "{07 12 00}{01 00 00 0a 00}Mis?{01 00 00 14 00} Ah, {01 00 00 05 00}mul on nii kahju{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\nMa olen lihtsalt nii unine ja\nnäljane praegu...\n{07 14 00}Kui olen terve öö üleval\nolnud, peab mul hommikul{01 00 00 0a 00} olema\n{ff 00 00 08}Roosti {ff 00 00 00}erikohv!"
   },
   {
    "id": 17,
@@ -114,7 +114,7 @@
   {
    "id": 23,
    "en": "{07 19 00}Yeah, {01 00 00 05 00}totally!{01 00 00 14 00} {07 00 00}{ff 00 00 06}Brewster {ff 00 00 00}says\nblack is the best way to\ndrink coffee,\n{07 13 00}but my favorite way to fix\nit is with a little cream\nand sugar, {01 00 00 0a 00}{04 02 00}.",
-   "et": "{07 19 00}{01 00 00 05 00}täiesti!{01 00 00 14 00} {07 00 00}{ff 00 00 06}Brewster {ff 00 00 00}ütleb,\net must on parim viis\nkohvi juua,\n{07 13 00}aga minu lemmikviis on\nväikese koore ja\nsuhkruga, {01 00 00 0a 00}{04 02 00}."
+   "et": "{07 19 00}Jah, {01 00 00 05 00}täiesti!{01 00 00 14 00} {07 00 00}{ff 00 00 06}Brewster {ff 00 00 00}ütleb,\net must on parim viis\nkohvi juua,\n{07 13 00}aga minu lemmikviis on\nväikese koore ja\nsuhkruga, {01 00 00 0a 00}{04 02 00}."
   },
   {
    "id": 24,
@@ -169,7 +169,7 @@
   {
    "id": 34,
    "en": "Do you think you can read\nyour fortune from\n{04 18 00}?\n{07 14 00}I think the shape the milk\nmakes in {04 18 00}\ndetermines your love luck!",
-   "et": "Kas sa arvad, et saab\nlugeda oma tulevikku\n{04 18 00}st?\n{07 14 00}Ma arvan, et kuju, mille\npiim {04 18 00}s teeb,\nmäärab su armuõnne!"
+   "et": "Kas sa arvad, et saab\nlugeda oma tulevikku\njoogist nimega {04 18 00}?\n{07 14 00}Ma arvan, et kuju, mille piim\njoogis nimega {04 18 00} teeb,\nmäärab su armuõnne!"
   },
   {
    "id": 35,

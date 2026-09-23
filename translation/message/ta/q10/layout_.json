@@ -14,7 +14,7 @@
   {
    "id": 2,
    "en": ".{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}I know why this room \nlooks so scattered,\n{01 00 00 0a 00}{04 02 00}.\n{07 00 00}It's because you haven't\nset your furniture up well.\n\n{07 16 00}Unless you have a reason to\nline everything up against\nthe walls{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.\n{07 1b 00}Well, I can only give your\nplace {04 12 00} out of five\nstars, {01 00 00 0a 00}{04 02 00}.",
-   "et": ".{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}Ma tean, miks see tuba\nnii laialivalguv on,\n{01 00 00 0a 00}{04 02 00}.\n{07 00 00}Sest sa pole oma mööblit\nhästi paigutanud.\n\n{07 16 00}Kui sul just pole põhjust\npanna kõike seinte\näärde{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.\n{07 1b 00}Noh, ma saan su kodule\nanda ainult {04 12 00} tärni\nviiest, {01 00 00 0a 00}{04 02 00}."
+   "et": ".{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}Ma tean, miks see tuba\nnii laiali sotitud on,\n{01 00 00 0a 00}{04 02 00}.\n{07 00 00}Sest sa pole oma mööblit\nhästi paigutanud.\n\n{07 16 00}Kui sul just pole põhjust\npanna kõike seinte\näärde{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.\n{07 1b 00}Noh, ma saan su kodule\nanda ainult {04 12 00} tärni\nviiest, {01 00 00 0a 00}{04 02 00}."
   },
   {
    "id": 3,
@@ -54,7 +54,7 @@
   {
    "id": 10,
    "en": "{07 04 00}Hmmm.{01 00 00 0a 00} I'm really very\nimpressed {07 14 00}at what you've\naccomplished!\nI have nothing to say about\nthis place. {07 1a 00}You earned a\n{04 12 00} score!\nHonestly, {01 00 00 05 00}your place is ten\ntimes better than mine!",
-   "et": "{07 04 00}Hmmm.{01 00 00 0a 00} Ma olen tõesti väga\nmuljet avaldatud {07 14 00}sellest,\nmida sa oled saavutanud!\nMul pole selle koha kohta\nmidagi öelda. {07 1a 00}Sa teenisid\n{04 12 00} punkti!\nAusalt, {01 00 00 05 00}su kodu on kümme\nkorda parem kui minu oma!"
+   "et": "{07 04 00}Hmmm.{01 00 00 0a 00} Ma olen tõesti väga\nmuljet avaldanud {07 14 00}sellest,\nmida sa oled saavutanud!\nMul pole selle koha kohta\nmidagi öelda. {07 1a 00}Sa teenisid\n{04 12 00} punkti!\nAusalt, {01 00 00 05 00}su kodu on kümme\nkorda parem kui minu oma!"
   }
  ]
 }

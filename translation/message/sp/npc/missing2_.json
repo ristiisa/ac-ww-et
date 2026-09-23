@@ -14,7 +14,7 @@
   {
    "id": 2,
    "en": "{07 16 00}Where is she?! I just looked\naway for a second! Oh,\nthis is a real pickle!\n{07 0b 00}Perhaps she's wandered off\nto {ff 00 00 08}{04 0f 00}{ff 00 00 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}",
-   "et": "{07 16 00}Kus ta on?! Vaatasin ainult\nhetkeks kõrvale! Oh,\nsee on tõeline pahandus!\n{07 0b 00}Ehk uitas ta\n{ff 00 00 08}{04 0f 00}{ff 00 00 00}-sse{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}"
+   "et": "{07 16 00}Kus ta on?! Vaatasin ainult\nhetkeks kõrvale! Oh,\nnüüd on tõesti häda käes!\n{07 0b 00}Ehk uitas ta\n{ff 00 00 08}{04 0f 00}{ff 00 00 00}-sse{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}"
   },
   {
    "id": 3,
@@ -39,7 +39,7 @@
   {
    "id": 7,
    "en": "{07 15 00}I'm so frustrated!{01 00 00 05 00} Wherever\ncould she have gone?{01 00 00 05 00} {07 00 00}{07 16 00}Oh,\nmy poor, naughty kitten!",
-   "et": "{07 15 00}Olen nii pettunud!{01 00 00 05 00} Kuhu\nta küll minna võis?{01 00 00 05 00} {07 00 00}{07 16 00}Oh,\nmu vaene üleannetu kiisu!"
+   "et": "{07 15 00}Olen nii nõutu!{01 00 00 05 00} Kuhu\nta küll minna võis?{01 00 00 05 00} {07 00 00}{07 16 00}Oh,\nmu vaene üleannetu kiisu!"
   },
   {
    "id": 8,

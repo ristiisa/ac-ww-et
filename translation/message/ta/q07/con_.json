@@ -4,17 +4,17 @@
   {
    "id": 0,
    "en": "{07 00 00}That letter's for \n{ff 00 00 06}{04 10 00}{ff 00 00 00}.\n\n{07 14 00}As long as you deliver it \nby the time you promised,{01 00 00 05 00}\nI won't squawk at you.",
-   "et": "{07 00 00}See kiri on\n{ff 00 00 06}{04 10 00}{ff 00 00 00}le.\n\n{07 14 00}Kuni sa toimetad selle\nkohale lubatud ajaks,{01 00 00 05 00}\nma sinu peale ei kräunu."
+   "et": "{07 00 00}See kiri on\ntüübile nimega {ff 00 00 06}{04 10 00}{ff 00 00 00}.\n\n{07 14 00}Kuni sa toimetad selle\nkohale lubatud ajaks,{01 00 00 05 00}\nma sinu peale ei kräunu."
   },
   {
    "id": 1,
    "en": "{07 16 00}Hey, {04 1f 00}! I don't\nwanna rush you or\nanything, but...\n{07 14 00}If you don't get my letter\nto {ff 00 00 06}{04 10 00}{ff 00 00 00} on time,{01 00 00 0a 00}\nI'll pout at you.",
-   "et": "{07 16 00}Hei, {04 1f 00}! Ma ei taha\nsind tagant kiirustada\nega midagi, aga...\n{07 14 00}Kui sa ei vii mu kirja\n{ff 00 00 06}{04 10 00}{ff 00 00 00}le õigeks ajaks,{01 00 00 0a 00}\nsiis ma tõmban mossi."
+   "et": "{07 16 00}Hei, {04 1f 00}! Ma ei taha\nsind tagant kiirustada\nega midagi, aga...\n{07 14 00}Kui sa ei vii mu kirja\nõigeks ajaks {ff 00 00 06}{04 10 00}{ff 00 00 00} kätte,{01 00 00 0a 00}\nsiis ma tõmban mossi."
   },
   {
    "id": 2,
    "en": "{07 00 00}Hey, {01 00 00 05 00}{04 1f 00},{01 00 00 0a 00} you still\nhave that letter for\n{ff 00 00 06}{04 10 00}{ff 00 00 00}, {07 0b 00}don't you?\n{07 00 00}Deliver it by the time\nwe agreed, OK, {01 00 00 0a 00}{04 02 00}?{01 01 00}\nOr you'll regret it!",
-   "et": "{07 00 00}Hei, {01 00 00 05 00}{04 1f 00},{01 00 00 0a 00} sul on ikka\nsee kiri\n{ff 00 00 06}{04 10 00}{ff 00 00 00}le, {07 0b 00}kas pole?\n{07 00 00}Vii see kokkulepitud ajaks\nkohale, eks, {01 00 00 0a 00}{04 02 00}?{01 01 00}\nVõi sa kahetsed!"
+   "et": "{07 00 00}Hei, {01 00 00 05 00}{04 1f 00},{01 00 00 0a 00} sul on ikka\nsee kiri\n{ff 00 00 06}{04 10 00}{ff 00 00 00} jaoks, {07 0b 00}kas pole?\n{07 00 00}Vii see kokkulepitud ajaks\nkohale, eks, {01 00 00 0a 00}{04 02 00}?{01 01 00}\nVõi sa kahetsed!"
   }
  ]
 }

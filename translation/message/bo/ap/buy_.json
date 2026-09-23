@@ -34,7 +34,7 @@
   {
    "id": 6,
    "en": "{07 16 00}Sheesh!{01 00 00 14 00} So my crocodile\ntears have no effect on\nyou at all, {04 1f 00}?\n{07 11 00}I know {04 0c 00} would\nfall for my sob story in a\nsecond, {01 00 00 0a 00}{04 02 00}!",
-   "et": "{07 16 00}Issand!{01 00 00 14 00} Nii et mu\nkrokodillipisarad ei mõju\nsulle üldse, {04 1f 00}?\n{07 11 00}Tean, et {04 0c 00} langeks\nmu nutuloo õnge hetkega,\n{01 00 00 0a 00}{04 02 00}!"
+   "et": "{07 16 00}Issand!{01 00 00 14 00} Nii et mu\nkrokodillipisarad ei mõju\nsulle üldse, {04 1f 00}?\n{07 11 00}Tean, et {04 0c 00} läheks\nmu nutuloo õnge hetkega,\n{01 00 00 0a 00}{04 02 00}!"
   },
   {
    "id": 7,
@@ -44,7 +44,7 @@
   {
    "id": 8,
    "en": "{07 1d 00}Oh{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00} Is this one of those\nthings that money can't\nbuy, like love and candy?\n{07 19 00}Except you CAN buy candy!{01 00 00 05 00}\nSo there!",
-   "et": "{07 1d 00}Oh{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00} Kas see on üks neist\nasjadest, mida raha eest ei\nsaa, nagu armastus, komm?\n{07 19 00}Ainult et komme SAAB osta!{01 00 00 05 00}\nNii et nii!"
+   "et": "{07 1d 00}Oh{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00} Kas see on üks neist\nasjadest, mida raha eest ei\nsaa, nagu armastus ja kommid?\n{07 19 00}Ainult et komme SAAB osta!{01 00 00 05 00}\nNii et nii!"
   },
   {
    "id": 9,
@@ -89,7 +89,7 @@
   {
    "id": 17,
    "en": "{07 0f 00}Awww!{01 00 00 0a 00} There's no need to be\nsuch a jerk about it,\n{01 00 00 0a 00}{04 02 00}!",
-   "et": "{07 0f 00}Ohh!{01 00 00 0a 00} Pole vaja selle pärast\nnii tobe olla,\n{01 00 00 0a 00}{04 02 00}!"
+   "et": "{07 0f 00}Ohh!{01 00 00 0a 00} Pole vaja selle pärast\nnii tobe käituda,\n{01 00 00 0a 00}{04 02 00}!"
   }
  ]
 }

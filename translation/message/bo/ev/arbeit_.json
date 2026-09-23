@@ -29,7 +29,7 @@
   {
    "id": 5,
    "en": "{07 04 00}Oh,{01 00 00 0a 00} {04 1f 00}! Have you\nalready heard about how to\nsend letters? It's easy!\n{07 00 00}To send mail to someone in\ntown,{01 00 00 0a 00} go to the {ff 00 00 08}post\noffice{ff 00 00 00} in the {ff 00 00 08}town hall{ff 00 00 00}.\n{07 14 00}And if you want to send a\ngift with your letter,\n\n{07 00 00}just {ff 00 00 01}touch{ff 00 00 00} the item in\nyour pockets that you want\nto send,\n{07 0d 00}and then just {ff 00 00 01}slide{ff 00 00 00} it over\nto your letter!\n\n{07 00 00}In fact, I sent a letter to\n{04 0b 00} just the other\nday.\n{07 0f 00}{01 00 00 05 00}But I haven't gotten a\nresponse yet.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{01 00 00 0a 00}{04 02 00}.\n",
-   "et": "{07 04 00}Oh,{01 00 00 0a 00} {04 1f 00}! Kas oled\njuba kuulnud, kuidas kirju\nsaata? See on lihtne!\n{07 00 00}Et saata kiri kellelegi\nlinnas,{01 00 00 0a 00} mine {ff 00 00 08}raekoja\npostkontorisse{ff 00 00 00} {ff 00 00 08}kohale{ff 00 00 00}.\n{07 14 00}Ja kui tahad kirjaga\nkingituse saata,\n\n{07 00 00}lihtsalt {ff 00 00 01}puuduta{ff 00 00 00} taskus\nolevat eset, mida tahad\nsaata,\n{07 0d 00}ja siis {ff 00 00 01}lohista{ff 00 00 00} see\nkirja juurde!\n\n{07 00 00}Tegelikult saatsin hiljuti\nkirja {04 0b 00}-le\nise.\n{07 0f 00}{01 00 00 05 00}Aga ma pole veel vastust\nsaanud{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00}{04 02 00}.\n"
+   "et": "{07 04 00}Oh,{01 00 00 0a 00} {04 1f 00}! Kas oled\njuba kuulnud, kuidas kirju\nsaata? See on lihtne!\n{07 00 00}Et saata kiri kellelegi\nlinnas,{01 00 00 0a 00} mine {ff 00 00 08}raekoja\npostkontorisse{ff 00 00 00}{ff 00 00 08}{ff 00 00 00}.\n{07 14 00}Ja kui tahad kirjaga\nkingituse saata,\n\n{07 00 00}lihtsalt {ff 00 00 01}puuduta{ff 00 00 00} taskus\nolevat eset, mida tahad\nsaata,\n{07 0d 00}ja siis {ff 00 00 01}lohista{ff 00 00 00} see\nkirja juurde!\n\n{07 00 00}Tegelikult saatsin hiljuti\nkirja {04 0b 00}-le\nise.\n{07 0f 00}{01 00 00 05 00}Aga ma pole veel vastust\nsaanud{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00}{04 02 00}.\n"
   },
   {
    "id": 6,
@@ -54,7 +54,7 @@
   {
    "id": 10,
    "en": "{07 00 00}Huh?{01 00 00 14 00} {07 0b 00}Why are you bringing\nthis to me, {04 1f 00}?\n\n{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 14 00}{07 14 00}Oh,{01 00 00 05 00} is that it?{01 00 00 14 00} You're\nhelping out at{01 00 00 05 00} {ff 00 00 06}Tom Nook{ff 00 00 00}'s\nshop, are you?\n{07 00 00}Look at you! Workin' hard!{01 00 00 14 00}\nI'm gonna have to work\nhard, too!\n{07 14 00}Here! Consider this your\nhousewarming present!",
-   "et": "{07 00 00}Ah?{01 00 00 14 00} {07 0b 00}Miks sa tood selle\nminu juurde, {04 1f 00}?\n\n{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 14 00}{07 14 00}Oh,{01 00 00 05 00} kas selles asi?{01 00 00 14 00} Sa\naitad{01 00 00 05 00} {ff 00 00 06}Tom Nooki{ff 00 00 00} poes,\nvõi mis?\n{07 00 00}Vaata sind! Töökas!{01 00 00 14 00}\nPean vist minagi kõvasti\ntööd tegema!\n{07 14 00}Säh! Pea seda oma\nsoojendusepeo kingituseks!"
+   "et": "{07 00 00}Ah?{01 00 00 14 00} {07 0b 00}Miks sa tood selle\nminu juurde, {04 1f 00}?\n\n{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 14 00}{07 14 00}Oh,{01 00 00 05 00} kas selles asi?{01 00 00 14 00} Sa\naitad{01 00 00 05 00} {ff 00 00 06}Tom Nooki{ff 00 00 00} poes,\nvõi mis?\n{07 00 00}Vaata sind! Töökas!{01 00 00 14 00}\nPean vist minagi kõvasti\ntööd tegema!\n{07 14 00}Säh! Pea seda oma\nsisselkolimise kingituseks!"
   },
   {
    "id": 11,
@@ -74,7 +74,7 @@
   {
    "id": 14,
    "en": "{07 14 00}Hey!{01 00 00 05 00} It's {04 1f 00}, the\ndelivery{01 00 00 0a 00} person!{01 00 00 14 00}\n\n{07 14 00}Finally! With this {ff 00 00 07}watering\ncan{ff 00 00 00}, I can get all my wilted\nflowers to bloom again!\n{07 04 00}Oh!{01 00 00 0a 00} By the by,{07 00 00} are you the\none{01 00 00 0a 00} who sent me this\nletter?",
-   "et": "{07 14 00}Hei!{01 00 00 05 00} See on {04 1f 00},\nkulleri{01 00 00 0a 00}tüdruk!{01 00 00 14 00}\n\n{07 14 00}Lõpuks! Selle {ff 00 00 07}kastekannuga\n{ff 00 00 00}saan kõik närbunud lilled\nuuesti õitsele!\n{07 04 00}Oh!{01 00 00 0a 00} Muide,{07 00 00} kas sina\noled see,{01 00 00 0a 00} kes mulle selle\nkirja saatis?"
+   "et": "{07 14 00}Hei!{01 00 00 05 00} See on {04 1f 00},\n{01 00 00 0a 00}kuller!{01 00 00 14 00}\n\n{07 14 00}Lõpuks! Selle {ff 00 00 07}kastekannuga\n{ff 00 00 00}saan kõik närbunud lilled\nuuesti õitsele!\n{07 04 00}Oh!{01 00 00 0a 00} Muide,{07 00 00} kas sina\noled see,{01 00 00 0a 00} kes mulle selle\nkirja saatis?"
   },
   {
    "id": 15,
@@ -99,7 +99,7 @@
   {
    "id": 19,
    "en": "{07 00 00}Hmmm.{01 00 00 05 00} I see, {01 00 00 0a 00}{07 14 00}{04 02 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00}\nI think I understand you a\nlittle bit better.\n{07 1d 00}Oh!{01 00 00 05 00} By the way!{01 01 00} {07 0d 00}You know\nwho I like best?{01 00 00 05 00} My uncle,\n{01 00 00 0a 00}{04 02 00}!",
-   "et": "{07 00 00}Hmmm.{01 00 00 05 00} Selge, {01 00 00 0a 00}{07 14 00}{04 02 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00}\nArvan, et mõistan sind\nnüüd veidi paremini.\n{07 1d 00}Oh!{01 00 00 05 00} Muide!{01 01 00} {07 0d 00}Tead,\nkes meeldib enim?{01 00 00 05 00} Mu onu,\n{01 00 00 0a 00}{04 02 00}!"
+   "et": "{07 00 00}Hmmm.{01 00 00 05 00} Selge, {01 00 00 0a 00}{07 14 00}{04 02 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00}\nArvan, et mõistan sind\nnüüd veidi paremini.\n{07 1d 00}Oh!{01 00 00 05 00} Muide!{01 01 00} {07 0d 00}Tead,\nkes mulle kõige enam meeldib?{01 00 00 05 00} Mu onu,\n{01 00 00 0a 00}{04 02 00}!"
   },
   {
    "id": 20,

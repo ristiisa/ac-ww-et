@@ -19,7 +19,7 @@
   {
    "id": 3,
    "en": "{07 04 00}Whoa! {01 00 00 05 00}I've been chilling\nhere for a long time!\n\n{07 16 00}You totally sucked me\ninto your hypnotizing\n{04 1f 00}-world!\n{07 14 00}Seriously, the {04 1f 00}-\npad is pretty sweet,\n{01 00 00 05 00}{04 02 00}!",
-   "et": "{07 04 00}Ohoo! {01 00 00 05 00}Ma olen siin pikka\naega lesinud!\n\n{07 16 00}Sa tõmbasid mu täiesti\noma hüpnotiseerivasse\n{04 1f 00}-maailma!\n{07 14 00}Tõsiselt, {04 1f 00}i\nkorter on päris magus,\n{01 00 00 05 00}{04 02 00}!"
+   "et": "{07 04 00}Ohoo! {01 00 00 05 00}Ma olen siin pikka\naega lesinud!\n\n{07 16 00}Sa tõmbasid mu täiesti\noma hüpnotiseerivasse\n{04 1f 00}-maailma!\n{07 14 00}Tõsiselt, {04 1f 00}-korter\non päris magus,\n{01 00 00 05 00}{04 02 00}!"
   },
   {
    "id": 4,
@@ -79,7 +79,7 @@
   {
    "id": 15,
    "en": "{07 0d 00}{01 08 00}WAHOOOOOOOOOOOOOOOOOOOOOO!\n{0b 02 00}{0b 03 00}{04 1a 00},\nmeet your new owner!\n{07 07 00}This is going so well that\nit's kinda freaking me out!",
-   "et": "{07 0d 00}{01 08 00}JAHUUUUUUUUUUUUUUUUUUU!\n{0b 02 00}{0b 03 00}{04 1a 00},\ntutvu oma uue omanikuga!\n{07 07 00}See läheb nii hästi, et\najab mu natuke segadusse!"
+   "et": "{07 0d 00}{01 08 00}JAHUUUUUUUUUUUUUUUUUUU!\n{0b 02 00}{0b 03 00}{04 1a 00},\ntutvu oma uue omanikuga!\n{07 07 00}See läheb nii hästi, et\nhakkab mulle hirmu tegema!"
   },
   {
    "id": 16,
@@ -99,7 +99,7 @@
   {
    "id": 19,
    "en": "{07 04 00}WHOA!{01 00 00 0a 00}{07 05 00} You've got\nsacks and sacks of Bells,\n{01 00 00 05 00}{04 02 00}!\n{07 00 00}Don't you know it's\nDANGEROUS to carry that\nmuch cash on you?\n{07 11 00}I could take it off your\nhands, if you want. {01 00 00 05 00}You\nknow, as a favor.",
-   "et": "{07 04 00}OHOO!{01 00 00 0a 00}{07 05 00} Sul on\nkotikaupa kellasid,\n{01 00 00 05 00}{04 02 00}!\n{07 00 00}Kas sa ei tea, et on\nOHTLIK nii palju\nsularaha kaasas kanda?\n{07 11 00}Ma võiksin selle sinult\nära võtta, kui tahad. {01 00 00 05 00}Nagu,\nteene korras."
+   "et": "{07 04 00}OHOO!{01 00 00 0a 00}{07 05 00} Sul on\nkotikaupa kellasid,\n{01 00 00 05 00}{04 02 00}!\n{07 00 00}Kas sa ei tea, et on\nOHTLIK nii palju\nsularaha kaasas kanda?\n{07 11 00}Ma võiksin selle sinult\nära võtta, kui tahad. {01 00 00 05 00}Nagu,\nteeneks."
   }
  ]
 }

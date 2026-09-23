@@ -4,7 +4,7 @@
   {
    "id": 0,
    "en": "{07 1d 00}Oh, cool!{01 00 00 0f 00} It's a present\nfrom {ff 00 00 06}{04 0f 00}{ff 00 00 00}. Oh, I'm\nso excited, {01 00 00 05 00}{04 02 00}!\n{07 0d 00}Now THIS makes me happy!{01 00 00 0a 00}\n{07 00 00}{07 14 00}Heck, I can't wait! I'm gonna\nopen it NOW{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.",
-   "et": "{07 1d 00}Oh, lahe!{01 00 00 0f 00} See on kingitus\n{ff 00 00 06}{04 0f 00}{ff 00 00 00}lt. Oh, ma olen\nnii elevil, {01 00 00 05 00}{04 02 00}!\n{07 0d 00}SEE teeb mind õnnelikuks!{01 00 00 0a 00}\n{07 00 00}{07 14 00}Ma ei jõua oodata! Ma avan\nselle KOHE{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}."
+   "et": "{07 1d 00}Oh, lahe!{01 00 00 0f 00} See on kingitus\n{ff 00 00 06}{04 0f 00}{ff 00 00 00} käest. Oh, ma olen\nnii elevil, {01 00 00 05 00}{04 02 00}!\n{07 0d 00}SEE teeb mind õnnelikuks!{01 00 00 0a 00}\n{07 00 00}{07 14 00}Ma ei jõua oodata! Ma avan\nselle KOHE{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}."
   },
   {
    "id": 1,
@@ -14,7 +14,7 @@
   {
    "id": 2,
    "en": "{07 04 00}Oh, cool! Is this a present\nfrom {ff 00 00 06}{04 0f 00}{ff 00 00 00}?!{01 00 00 0a 00} Wow, \nthis is great, {01 00 00 05 00}{04 02 00}!\n{07 0d 00}And you're even on time and\neverything!{01 00 00 0a 00} Hmmmm... \n{07 0e 00}I wonder what's in it{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.",
-   "et": "{07 04 00}Oh, lahe! Kas see on kink\n{ff 00 00 06}{04 0f 00}{ff 00 00 00}lt?!{01 00 00 0a 00} Vau, \nsee on vinge, {01 00 00 05 00}{04 02 00}!\n{07 0d 00}Ja sa oled isegi õigel ajal\nja kõik!{01 00 00 0a 00} Hmmmm... \n{07 0e 00}Huvitav, mis seal sees on{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}."
+   "et": "{07 04 00}Oh, lahe! Kas see on kink\n{ff 00 00 06}{04 0f 00}{ff 00 00 00} käest?!{01 00 00 0a 00} Vau, \nsee on vinge, {01 00 00 05 00}{04 02 00}!\n{07 0d 00}Ja sa oled isegi õigel ajal\nja kõik!{01 00 00 0a 00} Hmmmm... \n{07 0e 00}Huvitav, mis seal sees on{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}."
   }
  ]
 }

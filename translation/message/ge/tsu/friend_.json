@@ -49,7 +49,7 @@
   {
    "id": 9,
    "en": "{07 00 00}So the whole fight started\nwhen {ff 00 00 06}{04 16 00} {ff 00 00 00}called\n{ff 00 00 06}{04 17 00}{ff 00 00 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 06 00}his ex's name by accident,\n{01 00 00 05 00}{04 02 00}!!!\n\n{07 16 00}OUCH! {01 00 00 05 00}That's gotta sting,\n{01 00 00 05 00}{04 02 00}!",
-   "et": "{07 00 00}Kogu tüli algas sellest,\nkui {ff 00 00 06}{04 16 00} {ff 00 00 00}kutsus\n{ff 00 00 06}{04 17 00}t{ff 00 00 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 06 00}kogemata oma eksi nimega,\n{01 00 00 05 00}{04 02 00}!!!\n\n{07 16 00}AI! {01 00 00 05 00}See pidi kõrvetama,\n{01 00 00 05 00}{04 02 00}!"
+   "et": "{07 00 00}Kogu tüli algas sellest,\nkui {ff 00 00 06}{04 16 00} {ff 00 00 00}kutsus\n{ff 00 00 06}{04 17 00}{ff 00 00 00}-nimelist{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 06 00}kogemata oma eksi nimega,\n{01 00 00 05 00}{04 02 00}!!!\n\n{07 16 00}AI! {01 00 00 05 00}See pidi kõrvetama,\n{01 00 00 05 00}{04 02 00}!"
   },
   {
    "id": 10,
@@ -69,7 +69,7 @@
   {
    "id": 13,
    "en": "{07 00 00}I wonder if{07 0b 00} they'll pair up\nto sing a hot duet on a\nsmash debut album?\n{07 06 00}They'd sell even more if\nthey signed me to join the\ngroup and made it a trio!",
-   "et": "{07 00 00}Huvitav, kas{07 0b 00} nad\nmoodustavad paari ja\nlaulavad kuuma duetti mõnel\nhittalbumil? {07 06 00}Nad müüksid\nveel rohkem, kui mind bändi\nvõtta ja teha triost!"
+   "et": "{07 00 00}Huvitav, kas{07 0b 00} nad\nmoodustavad paari ja\nlaulavad kuuma duetti mõnel\nhittalbumil? {07 06 00}Nad müüksid\nveel rohkem, kui mind bändi\nvõetaks ja tehtaks trioks!"
   },
   {
    "id": 14,

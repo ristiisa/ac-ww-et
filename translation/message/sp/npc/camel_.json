@@ -54,7 +54,7 @@
   {
    "id": 10,
    "en": "{07 0a 00}{01 00 00 0a 00}Ah, thank you!{01 00 00 05 00} Thank you\nmuch! {01 00 00 0a 00}It is hard work, but\nthere is happiness in it!\n{07 00 00}{07 19 00}I have the next one here.{01 00 00 05 00}\nPlease take it to\n{ff 00 00 06}{04 0f 00}{ff 00 00 00}.",
-   "et": "{07 0a 00}{01 00 00 0a 00}Ah, aitäh!{01 00 00 05 00} Suur\naitäh! {01 00 00 0a 00}See on raske töö,\naga selles on õnne!\n{07 00 00}{07 19 00}Mul on järgmine siin.{01 00 00 05 00}\nPalun vii see\n{ff 00 00 06}{04 0f 00}{ff 00 00 00}-le."
+   "et": "{07 0a 00}{01 00 00 0a 00}Ah, aitäh!{01 00 00 05 00} Suur\naitäh! {01 00 00 0a 00}See on raske töö,\naga selles on oma rõõm!\n{07 00 00}{07 19 00}Mul on järgmine siin.{01 00 00 05 00}\nPalun vii see\n{ff 00 00 06}{04 0f 00}{ff 00 00 00}-le."
   },
   {
    "id": 11,
@@ -144,7 +144,7 @@
   {
    "id": 28,
    "en": "{07 14 00}Ah!{01 00 00 05 00} It is the best defense\nagainst a withering desert\nsun!{01 00 00 05 00} A fine thing, yes?",
-   "et": "{07 14 00}Ah!{01 00 00 05 00} See on parim kaitse\nnärbuva kõrbepäikese\nvastu!{01 00 00 05 00} Hea asi, jah?"
+   "et": "{07 14 00}Ah!{01 00 00 05 00} See on parim kaitse\nkõrvetava kõrbepäikese\nvastu!{01 00 00 05 00} Hea asi, jah?"
   },
   {
    "id": 29,

@@ -244,7 +244,7 @@
   {
    "id": 48,
    "en": "{07 04 00}Hoo my!{01 00 00 0a 00} So that is what{01 00 00 0a 00}\n{04 1a 00}\nlooks like up close, hoo!\n{07 00 00}Hm. {01 00 00 05 00}Hoo.{01 00 00 05 00} I must admit,\nnow that I see it...\n\nI would likely have named it{01 00 00 05 00}\n{04 1a 00}{01 00 00 0f 00} as\nwell,{01 00 00 05 00} eh wot?",
-   "et": "{07 04 00}Huu heldeke!{01 00 00 0a 00} Nii et selline{01 00 00 0a 00}\n{04 1a 00}\nlähedalt välja näebki, huu!\n{07 00 00}Hm. {01 00 00 05 00}Huu.{01 00 00 05 00} Tunnistan,\nnüüd kui ma seda näen...\n\net ma oleksin selle{01 00 00 05 00}\nka nii nimetanud: {04 1a 00}{01 00 00 0f 00}\nka,{01 00 00 05 00} eks?"
+   "et": "{07 04 00}Huu heldeke!{01 00 00 0a 00} Nii et selline{01 00 00 0a 00}\n{04 1a 00}\nlähedalt välja näebki, huu!\n{07 00 00}Hm. {01 00 00 05 00}Huu.{01 00 00 05 00} Tunnistan,\nnüüd kui ma seda näen...\n\net ma oleksin selle{01 00 00 05 00}\nka ise {04 1a 00}{01 00 00 0f 00}\nnimeks valinud,{01 00 00 05 00} eks?"
   },
   {
    "id": 49,
@@ -254,7 +254,7 @@
   {
    "id": 50,
    "en": "{07 04 00}Hoo. {01 00 00 05 00}Ah. {01 00 00 05 00}What have we here?{01 00 00 0a 00}\n{0b 03 00}{04 1a 00}, if\nI'm not utterly mistaken?\n{07 00 00}Ah, no, please, don't bother{01 00 00 05 00}\ntaking it out of its cage!{01 00 00 05 00}\nProtocols, you know, wot?{01 00 00 0a 00}\nI'm{01 00 00 05 00} a bit squeamish about\ninsects, you see,{01 00 00 05 00} and I\ndon't fancy touching one.",
-   "et": "{07 04 00}Huu. {01 00 00 05 00}Ah. {01 00 00 05 00}Mis meil siin on?{01 00 00 0a 00}\n{0b 03 00}{04 1a 00}, kui\nma pole täiesti eksinud?\n{07 00 00}Ah, ei, palun, ära vaeva{01 00 00 05 00}\nend selle puurist välja\nvõtmisega!{01 00 00 05 00} Protokollid,\ntead, eks?{01 00 00 0a 00} Ma olen{01 00 00 05 00} putukate\nsuhtes õrn, näed sa,{01 00 00 05 00} ja ma\nei taha neid puudutada."
+   "et": "{07 04 00}Huu. {01 00 00 05 00}Ah. {01 00 00 05 00}Mis meil siin on?{01 00 00 0a 00}\n{0b 03 00}{04 1a 00}, kui\nma pole täiesti eksinud?\n{07 00 00}Ah, ei, palun, ära vaeva{01 00 00 05 00}\nend selle puurist välja\nvõtmisega!{01 00 00 05 00} Protokollid,\ntead, eks?{01 00 00 0a 00} Putukad{01 00 00 05 00} ajavad mu\nkõhu veidi keerama, näed sa,{01 00 00 05 00} ja ma\nei taha neid puudutada."
   },
   {
    "id": 51,
@@ -304,7 +304,7 @@
   {
    "id": 60,
    "en": "{07 16 00}I very much appreciate the\nthought,{01 00 00 05 00} but we only need\nthe one for the exhibit.\n{07 00 00}I shall just return this\none to you, eh wot?\n\n{07 14 00}I look forward to {01 00 00 05 00}your next\ndonation with bated breath!",
-   "et": "{07 16 00}Ma hindan seda mõtet\nväga,{01 00 00 05 00} aga meil on\neksponaatu jaoks vaja vaid\nüht. {07 00 00}Ma tagastan selle\nsulle, eks?\n\n{07 14 00}Ootan {01 00 00 05 00}sinu järgmist\nannetust suure põnevusega!"
+   "et": "{07 16 00}Ma hindan seda mõtet\nväga,{01 00 00 05 00} aga meil on\neksponaadi jaoks vaja vaid\nüht. {07 00 00}Ma tagastan selle\nsulle, eks?\n\n{07 14 00}Ootan {01 00 00 05 00}sinu järgmist\nannetust suure põnevusega!"
   },
   {
    "id": 61,
@@ -369,12 +369,12 @@
   {
    "id": 73,
    "en": "{07 19 00}We have a wide variety of\nexhibits that any curator{01 00 00 05 00}\nwould be most proud of{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.\n{07 14 00}{01 00 00 0a 00}So please,{01 00 00 05 00} I insist you take\nyour time in visiting all of\nthem, wot wot!",
-   "et": "{07 19 00}Meil on lai valik\neksponaatuid, mille üle iga\nkuraator{01 00 00 05 00} oleks väga uhke{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.\n{07 14 00}{01 00 00 0a 00}Nii et palun,{01 00 00 05 00} ma nõuan, et\nvõtaksid aega neid kõiki\nvaadata, eks-eks!"
+   "et": "{07 19 00}Meil on lai valik\neksponaate, mille üle iga\nkuraator{01 00 00 05 00} oleks väga uhke{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.\n{07 14 00}{01 00 00 0a 00}Nii et palun,{01 00 00 05 00} ma nõuan, et\nvõtaksid aega neid kõiki\nvaadata, eks-eks!"
   },
   {
    "id": 74,
    "en": "{07 00 00}We have a rather profound\nphilosophy here at the\nmuseum. {01 00 00 05 00}Hoo, I should say!\n{07 14 00}We strive to increase the\ncultural and scientific\nawareness of {04 03 00}!\nWe focus our efforts on{01 00 00 0a 00}\nfossils,{01 00 00 0a 00} famous paintings,{01 00 00 0a 00}\nbugs,{01 00 00 0a 00} and fish...\n{07 00 00}Yes, hoo, this allows us to\nmake our collections {01 00 00 05 00}{07 0d 00}larger\nthan most other museums.{07 00 00}",
-   "et": "{07 00 00}Meil on siin muuseumis\nüsna sügav\nfilosoofia. {01 00 00 05 00}Huu, ütlen ma!\n{07 14 00}Me püüame suurendada\n{04 03 00} kultuurilist ja\nteaduslikku teadlikkust!\nMe keskendume oma jõud{01 00 00 0a 00}\nfossiilidele,{01 00 00 0a 00} maalidele,{01 00 00 0a 00}\nputukatele{01 00 00 0a 00} ja kaladele...\n{07 00 00}Jah, huu, see lubab meil\nteha oma kogud {01 00 00 05 00}{07 0d 00}suuremaks\nkui enamikul muuseumidel.{07 00 00}"
+   "et": "{07 00 00}Meil on siin muuseumis\nüsna sügav\nfilosoofia. {01 00 00 05 00}Huu, ütlen ma!\n{07 14 00}Me püüame suurendada\n{04 03 00} kultuurilist ja\nteaduslikku teadlikkust!\nMe suuname oma jõupingutused{01 00 00 0a 00}\nfossiilidele,{01 00 00 0a 00} maalidele,{01 00 00 0a 00}\nputukatele{01 00 00 0a 00} ja kaladele...\n{07 00 00}Jah, huu, see lubab meil\nteha oma kogud {01 00 00 05 00}{07 0d 00}suuremaks\nkui enamikul muuseumidel.{07 00 00}"
   },
   {
    "id": 75,
@@ -394,7 +394,7 @@
   {
    "id": 82,
    "en": "{07 14 00}Hoo my, {01 00 00 05 00}THIS is impressive!{01 00 00 0a 00}\nThis fossil is in{01 00 00 0a 00} absolutely\nimpeccable shape, wot wot!\n{07 00 00}{0b 03 00}{0b 02 00}{04 1a 00}{01 00 00 0a 00} are\na veritable treasure chest\nof information.\nFor one thing, you can tell\nwhat the ancient little\nbeasty ate!\nThis was an herbivore, wot?{01 00 00 0a 00}\nAs such, its{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}waste.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}will\ncontain many small rocks...\nAnd why? {01 00 00 05 00}Because this\nparticular beast{01 00 00 05 00} swallowed\nrocks with its plants!\n{07 0e 00}The rocks ground food up in\nits belly to aid with\ndigestion{01 00 00 0a 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} {07 0d 00}Amazing, wot?\n{07 04 00}Oh!{01 00 00 14 00} I'm{01 00 00 05 00} terribly sorry.{01 00 00 0a 00}\n{07 00 00}The very thought of belly\npebbles gets me agitated!",
-   "et": "{07 14 00}Huu heldeke, {01 00 00 05 00}SEE on\nmuljetav!{01 00 00 0a 00} See fossiil on{01 00 00 0a 00}\ntäiesti laitmatus vormis,\neks-eks! {07 00 00}{0b 03 00}{0b 02 00}{04 1a 00}{01 00 00 0a 00} on\ntõeline teabe\naardelaegas.\nNäiteks saab öelda,\nmida see iidne väike\nelukas sõi!\nSee oli taimtoiduline, eks?{01 00 00 0a 00}\nSeega tema{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}jäätmed{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n.sisaldavad palju väikesi\nkive... Ja miks? {01 00 00 05 00}Sest see\nkonkreetne elukas{01 00 00 05 00} neelas\nkoos taimedega kive!\n{07 0e 00}Kivid jahvatasid toitu\nkõhus, et aidata\nseedimist{01 00 00 0a 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} {07 0d 00}Imeline, eks?\n{07 04 00}Oh!{01 00 00 14 00} Mul on{01 00 00 05 00} kohutavalt kahju.{01 00 00 0a 00}\n{07 00 00}Juba mõte kõhukividest\najab mu elevile!"
+   "et": "{07 14 00}Huu heldeke, {01 00 00 05 00}SEE on\nmuljetavaldav!{01 00 00 0a 00} See fossiil on{01 00 00 0a 00}\ntäiesti laitmatus vormis,\neks-eks! {07 00 00}{0b 03 00}{0b 02 00}{04 1a 00}{01 00 00 0a 00} on\ntõeline teabe\naardelaegas.\nNäiteks saab öelda,\nmida see iidne väike\nelukas sõi!\nSee oli taimtoiduline, eks?{01 00 00 0a 00}\nSeega tema{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}jäätmed{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n.sisaldavad palju väikesi\nkive... Ja miks? {01 00 00 05 00}Sest see\nkonkreetne elukas{01 00 00 05 00} neelas\nkoos taimedega kive!\n{07 0e 00}Kivid jahvatasid toitu\nkõhus, et aidata\nseedimist{01 00 00 0a 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} {07 0d 00}Imeline, eks?\n{07 04 00}Oh!{01 00 00 14 00} Mul on{01 00 00 05 00} kohutavalt kahju.{01 00 00 0a 00}\n{07 00 00}Juba mõte kõhukividest\najab mu elevile!"
   },
   {
    "id": 83,
@@ -404,7 +404,7 @@
   {
    "id": 84,
    "en": "{07 14 00}Hoo, a marvelous find!{01 00 00 0a 00}\nThis fossil is in absolutely\ntip-top condition!{01 00 00 0a 00}\n{07 00 00}This piece of fauna had\njust emerged from the sea{01 00 00 0a 00}\nwhen it became preserved.\nRather than seeds,{01 00 00 0a 00} it relied\non its spores to spread.{01 00 00 0a 00} It\nresembles moss with leaves!\n{07 04 00}Ah!{01 00 00 14 00} Terribly sorry, wot?{01 00 00 0a 00}\n{07 00 00}Ancient plants turn me into\na veritable hootbox!",
-   "et": "{07 14 00}Huu, imeline leid!{01 00 00 0a 00}\nSee fossiil on absoluutselt\ntipptasemel seisundis!{01 00 00 0a 00}\n{07 00 00}See taimeriik oli just\nmerest välja tulnud,{01 00 00 0a 00}\nkui see säilis.\nSeemnete asemel{01 00 00 0a 00} lootis\nta eostele levimisel.{01 00 00 0a 00} See\nmeenutab sammalt!\n{07 04 00}Ah!{01 00 00 14 00} Kohutavalt kahju, eks?{01 00 00 0a 00}\n{07 00 00}Iidsed taimed muudavad mu\ntõeliseks lobisemismasinaks!"
+   "et": "{07 14 00}Huu, imeline leid!{01 00 00 0a 00}\nSee fossiil on absoluutselt\ntipptasemel seisundis!{01 00 00 0a 00}\n{07 00 00}See taim oli just\nmerest välja tulnud,{01 00 00 0a 00}\nkui see säilis.\nSeemnete asemel{01 00 00 0a 00} lootis\nta eostele levimisel.{01 00 00 0a 00} See\nmeenutab sammalt!\n{07 04 00}Ah!{01 00 00 14 00} Kohutavalt kahju, eks?{01 00 00 0a 00}\n{07 00 00}Iidsed taimed muudavad mu\ntõeliseks lobisemismasinaks!"
   },
   {
    "id": 85,
@@ -499,7 +499,7 @@
   {
    "id": 103,
    "en": "{07 00 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}This must mean that, at\nlast, {01 00 00 0a 00}{07 04 00}the {ff 00 00 02}triceratops{ff 00 00 00}{01 00 00 05 00} is now\nwell and truly complete!\n{07 14 00}Hoo!{01 00 00 05 00} Indeed, hootie HOO hoo!{01 00 00 0a 00}\nI'm simply awash in joy!\n\n{07 00 00}Allow me to compose myself\nand tell you about the\nmighty {ff 00 00 02}triceratops{ff 00 00 00}.\nThis herbivore was one of\nthe last remaining\ndinosaurs, eh wot?\nThis quiet giant is easily\nrecognized {01 00 00 0a 00}by its three\nhorns and its large collar.\nThe bone in that collar was\ndesigned to build more\nmuscles in the neck...\n{07 14 00}Yes, as a result, the biting\npower of this creature was\nsomething to behold!\n{07 04 00}Ah.{01 00 00 14 00} Hoo.{01 00 00 05 00} Yes, so sorry.{01 00 00 0a 00}\n{07 00 00}I didn't behold it MYSELF,\nof course{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} Hoo.",
-   "et": "{07 00 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}See peab tähendama, et\nlõpuks {01 00 00 0a 00}{07 04 00}on {ff 00 00 02}triceratops{ff 00 00 00}{01 00 00 05 00} nüüd\ntäiesti ja tõeliselt valmis!\n{07 14 00}Huu!{01 00 00 05 00} Tõesti, huhh-HUU huu!{01 00 00 0a 00}\nMa olen lihtsalt rõõmus!\n\n{07 00 00}Lubage mul end koguda\nja rääkida teile vägevast\n{ff 00 00 02}triceratopsist{ff 00 00 00}.\nSee taimtoiduline oli üks\nviimaseid järelejäänud\ndinosauruseid, eks?\nSeda vaikset hiiglast\ntuntakse kergesti {01 00 00 0a 00}kolme\nsarve ja suure krae järgi.\nLuu selles krae sees oli\nmõeldud kasvatama rohkem\nlihaseid kaela...\n{07 14 00}Jah, seetõttu oli selle\nolendi hammustusjõud\nmidagi ennenägematut!\n{07 04 00}Ah.{01 00 00 14 00} Huu.{01 00 00 05 00} Jah, väga kahju.{01 00 00 0a 00}\n{07 00 00}Ma ei näinud seda ju ISE,\nmuidugi{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} Huu."
+   "et": "{07 00 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}See peab tähendama, et\nlõpuks {01 00 00 0a 00}{07 04 00}on {ff 00 00 02}triceratops{ff 00 00 00}{01 00 00 05 00} nüüd\ntäiesti ja tõeliselt valmis!\n{07 14 00}Huu!{01 00 00 05 00} Tõesti, huhh-HUU huu!{01 00 00 0a 00}\nMa olen lihtsalt rõõmus!\n\n{07 00 00}Lubage mul end koguda\nja rääkida teile vägevast\n{ff 00 00 02}triceratopsist{ff 00 00 00}.\nSee taimtoiduline oli üks\nviimaseid järelejäänud\ndinosauruseid, eks?\nSeda vaikset hiiglast\ntuntakse kergesti {01 00 00 0a 00}kolme\nsarve ja suure krae järgi.\nLuu selles krae sees oli\nmõeldud kasvatama rohkem\nlihaseid kaelas...\n{07 14 00}Jah, seetõttu oli selle\nolendi hammustusjõud\nmidagi ennenägematut!\n{07 04 00}Ah.{01 00 00 14 00} Huu.{01 00 00 05 00} Jah, väga kahju.{01 00 00 0a 00}\n{07 00 00}Ma ei näinud seda ju ISE,\nmuidugi{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} Huu."
   },
   {
    "id": 105,
@@ -509,7 +509,7 @@
   {
    "id": 106,
    "en": "{07 04 00}Hoo my!{01 00 00 0a 00} Unfortunately,\n{04 1a 00} has\nalready been donated.\n{07 14 00}What a shame.{01 00 00 05 00} It's lovely!{01 00 00 14 00}\nIf only I had the Bells,{01 00 00 05 00} I'd\nbuy it from you in a wink.{01 00 00 05 00}\n{07 00 00}Sadly, for now, all I can do\nis return it{01 00 00 05 00} to you.",
-   "et": "{07 04 00}Huu heldeke!{01 00 00 0a 00} Kahjuks on\n{04 1a 00}\njuba annetatud.\n{07 14 00}Milline kahju.{01 00 00 05 00} See on kaunis!{01 00 00 14 00}\nKui mul vaid oleks kellasid,{01 00 00 05 00}\nostaksin selle sult\nsilmapilk.{01 00 00 05 00} {07 00 00}Kahjuks saan ma\nvaid selle sulle{01 00 00 05 00} tagastada."
+   "et": "{07 04 00}Huu heldeke!{01 00 00 0a 00} Kahjuks on\n{04 1a 00}\njuba annetatud.\n{07 14 00}Milline kahju.{01 00 00 05 00} See on kaunis!{01 00 00 14 00}\nKui mul vaid oleks kellasid,{01 00 00 05 00}\nostaksin selle sult\nkohe ära.{01 00 00 05 00} {07 00 00}Kahjuks saan ma\nvaid selle sulle{01 00 00 05 00} tagastada."
   },
   {
    "id": 107,
@@ -559,12 +559,12 @@
   {
    "id": 118,
    "en": "{07 00 00}There are many who think\nthat butterflies are cute,{01 00 00 05 00}\nwhile {ff 00 00 07}moths{ff 00 00 00} are repulsive{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n{07 07 00}In this owl's opinion, they\nare both equally grotesque!{01 00 00 05 00}\nBlech, I say!\n{07 00 00}I suppose such revulsion\nis mine and mine alone,\nhowever{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}",
-   "et": "{07 00 00}On palju neid, kes arvavad,\net liblikad on nunnud,{01 00 00 05 00}\nsamas kui {ff 00 00 07}koid{ff 00 00 00} on vastikud{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n.{01 00 00 05 00} {07 07 00}Selle öökulli arvates on\nnad mõlemad võrdselt\ngroteskesed!{01 00 00 05 00} Äkh, ütlen ma!\n{07 00 00}Vist on selline vastikus\nainult minu ja minu\noma, siiski{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}"
+   "et": "{07 00 00}On palju neid, kes arvavad,\net liblikad on nunnud,{01 00 00 05 00}\nsamas kui {ff 00 00 07}koid{ff 00 00 00} on vastikud{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n.{01 00 00 05 00} {07 07 00}Selle öökulli arvates on\nnad mõlemad võrdselt\ngrotesksed!{01 00 00 05 00} Äkh, ütlen ma!\n{07 00 00}Vist on selline vastikus\nainult minu ja minu\noma, siiski{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}"
   },
   {
    "id": 119,
    "en": "{07 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 04 00}Ah!{01 00 00 0a 00} I just looked directly\ninto that {ff 00 00 07}silkmoth{ff 00 00 00}'s fabled\neye-spots!\n{07 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 0f 00}I'm unsure what predator\nwould be fooled. {01 00 00 05 00}Those look\nnothing like owl's eyes.\n{07 16 00}Ah.{01 00 00 05 00} Hm.{01 00 00 05 00} There I go again.{01 00 00 05 00}\nLetting my revulsion taint\nmy scientific analysis{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n{07 00 00}The eye-spots DO work, and\nare a vital evolutionary\nstep!{01 00 00 05 00} .{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}But blech.",
-   "et": "{07 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 04 00}Ah!{01 00 00 0a 00} Ma vaatasin just otse\nselle {ff 00 00 07}siidiliblika{ff 00 00 00} kuulsatesse\nsilmalaikudesse!\n{07 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 0f 00}Ma pole kindel, milline\nkiskja neist petetud saaks.{01 00 00 05 00}\nNad pole öökulli silmad.\n{07 16 00}Ah.{01 00 00 05 00} Hm.{01 00 00 05 00} Jälle ma seda teen.{01 00 00 05 00}\nLasen vastikusel rikkuda\noma teaduslikku analüüsi{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n{07 00 00}Silmalaigud TOIMIVAD ja on\nelutähtis evolutsiooni-\nsamm!{01 00 00 05 00} .{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}Aga äkh."
+   "et": "{07 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 04 00}Ah!{01 00 00 0a 00} Ma vaatasin just otse\nselle {ff 00 00 07}siidiliblika{ff 00 00 00} kuulsatesse\nsilmalaikudesse!\n{07 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 0f 00}Ma pole kindel, milline\nkiskja neist petetud saaks.{01 00 00 05 00}\nNeed ei meenuta öökulli silmi.\n{07 16 00}Ah.{01 00 00 05 00} Hm.{01 00 00 05 00} Jälle ma seda teen.{01 00 00 05 00}\nLasen vastikusel rikkuda\noma teaduslikku analüüsi{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n{07 00 00}Silmalaigud TOIMIVAD ja on\nelutähtis evolutsiooni-\nsamm!{01 00 00 05 00} .{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}Aga äkh."
   },
   {
    "id": 120,
@@ -644,7 +644,7 @@
   {
    "id": 135,
    "en": "{07 00 00}Do you know how {ff 00 00 07}pond-\nskaters {ff 00 00 00}keep themselves\n{07 0b 00}above water, wot?\n{07 00 00}The oil on the hairs of\ntheir feet repel water!{01 00 00 05 00}\nThusly they stay afloat.\n{07 0e 00}Which begs the question,\nif one were to shave their\nfeet, would they sink?\n{07 00 00}I daresay, I cannot think\nof a worse job than being\nthe shaver of insect feet.",
-   "et": "{07 00 00}Kas sa tead, kuidas\n{ff 00 00 07}vesijooksikud {ff 00 00 00}end\n{07 0b 00}vee peal hoiavad, eks?\n{07 00 00}Nende jalakarvadel olev\nõli tõrjub vett!{01 00 00 05 00}\nNii püsivad nad pinnal.\n{07 0e 00}Mis tõstatab küsimuse:\nkui keegi raseeriks nende\njalad, kas nad vajuksid?\n{07 00 00}Julgen öelda, et ma ei\nsuuda kujutleda hullemat\ntööd kui jalgade pügaja."
+   "et": "{07 00 00}Kas sa tead, kuidas\n{ff 00 00 07}vesijooksikud {ff 00 00 00}end\n{07 0b 00}vee peal hoiavad, eks?\n{07 00 00}Nende jalakarvadel olev\nõli tõrjub vett!{01 00 00 05 00}\nNii püsivad nad pinnal.\n{07 0e 00}Mis tõstatab küsimuse:\nkui keegi raseeriks nende\njalad, kas nad vajuksid?\n{07 00 00}Julgen öelda, et ma ei\nsuuda kujutleda hullemat\ntööd kui putukate jalgade pügaja."
   },
   {
    "id": 136,
@@ -684,7 +684,7 @@
   {
    "id": 143,
    "en": "{07 00 00}Just because they are\nconsidered pretty, these\ntend to fetch a high price.{01 00 00 14 00}\n{07 16 00}I simply don't understand\nhow anyone could find this\nbug appealing in the least.\n{07 00 00}Perhaps if I was a-peeling\nit off my foot{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} Hoo hoo!",
-   "et": "{07 00 00}Lihtsalt sellepärast, et\nneid peetakse ilusaks,\nkipuvad nad kõrget hinda\ntooma.{01 00 00 14 00} {07 16 00}Ma ei mõista,\nkuidas keegi võib seda\nputukat vähimalgi määral\nmeeldivaks pidada. {07 00 00}Ehk siis,\nkui kisuksin{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} Huu huu!"
+   "et": "{07 00 00}Lihtsalt sellepärast, et\nneid peetakse ilusaks,\nkipuvad nad kõrget hinda\ntooma.{01 00 00 14 00} {07 16 00}Ma ei mõista,\nkuidas keegi võib seda\nputukat vähimalgi määral\nmeeldivaks pidada. {07 00 00}Ehk siis,\nkui kisuksin ta jalast maha{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} Huu huu!"
   },
   {
    "id": 144,
@@ -844,7 +844,7 @@
   {
    "id": 180,
    "en": "{07 00 00}You'll find these little\nfellows in many pots across\nthe southland, I imagine.\nI've personally never\nsampled one.{01 00 00 05 00} They look\nrather{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}insect-ish.{01 00 00 05 00} Blech.",
-   "et": "{07 00 00}Sa leiad neid väikseid\nselle kandi pottidest,\nkujutan ette.\nMa pole isiklikult ühtki\nmaitsnud.{01 00 00 05 00} Nad näevad üsna\n{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}putukalikud välja.{01 00 00 05 00} Äkh."
+   "et": "{07 00 00}Neid väikseid leiad sa\npaljudest pottidest üle\nlõunamaa, kujutan ette.\nMa pole isiklikult ühtki\nmaitsnud.{01 00 00 05 00} Nad näevad üsna\n{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}putukalikud välja.{01 00 00 05 00} Äkh."
   },
   {
    "id": 181,
@@ -969,7 +969,7 @@
   {
    "id": 205,
    "en": "{07 00 00}The {ff 00 00 07}sea butterfly{ff 00 00 00} is in the\nsame family as snails, as\nyou may or may not know.\n{07 0e 00}You might think it's strange\nto have a snail without a\nshell, eh wot?\n{07 00 00}Indeed, well, slugs are also\nsnails without shells!\n\n{07 16 00}I must admit, being lumped\nin with slugs probably\nangers the {ff 00 00 07}sea butterfly{ff 00 00 00}.",
-   "et": "{07 00 00}{ff 00 00 07}Meriingel{ff 00 00 00} kuulub samasse\nsugukonda kui teod, nagu\nsa võid või ei pruugi teada.\n{07 0e 00}Sa võiksid arvata, et on\nveider, kui teol pole\nkoda, eks?\n{07 00 00}Tõesti, noh, ka nälkjad on\nteod ilma kojata!\n\n{07 16 00}Pean tunnistama, et\nnälkjatega ühte patta\nsee vihastab {ff 00 00 07}meriinglit{ff 00 00 00}."
+   "et": "{07 00 00}{ff 00 00 07}Meriingel{ff 00 00 00} kuulub samasse\nsugukonda kui teod, nagu\nsa võid või ei pruugi teada.\n{07 0e 00}Sa võiksid arvata, et on\nveider, kui teol pole\nkoda, eks?\n{07 00 00}Tõesti, noh, ka nälkjad on\nteod ilma kojata!\n\n{07 16 00}Pean tunnistama, et nälkjatega\nühte patta arvamine vihastab\nvist {ff 00 00 07}meriinglit{ff 00 00 00}."
   },
   {
    "id": 206,
@@ -1049,7 +1049,7 @@
   {
    "id": 221,
    "en": "{07 00 00}To be honest, this is the\nfirst time that I've seen a{01 00 00 0a 00}\nproper{ff 00 00 07} blue marlin{ff 00 00 00}, wot wot!\n{07 15 00}As you can see, {01 00 00 05 00}its bill is\nquite dangerous.{01 00 00 0a 00} Every year\npeople are injured by them.\n{07 00 00}Still, how can one complain?\nIf you were to drag me out\nof the museum one night{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n{07 15 00}I assure you, I would give\nyou a pecking you'd not\nsoon forget, hoo!",
-   "et": "{07 00 00}Ausalt öeldes on see\nesimene kord, kui näen{01 00 00 0a 00}\nkorralikku{ff 00 00 07} sinist marliini{ff 00 00 00},\neks-eks! {07 15 00}Nagu näed, {01 00 00 05 00}on\ntema nokk ohtlik.{01 00 00 0a 00} Igal\naastal saavad inimesed neilt\nvigastusi. {07 00 00}Aga kuidas saab\nkurta? Kui sa tiriksid mind\nühel ööl muuseumist välja{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n{07 15 00}kinnitan sulle, et ma\nnokiksin sind nii, et sa\nei unustaks seda pea, huu!"
+   "et": "{07 00 00}Ausalt öeldes on see\nesimene kord, kui näen{01 00 00 0a 00}\nkorralikku{ff 00 00 07} sinist marliini{ff 00 00 00},\neks-eks! {07 15 00}Nagu näed, {01 00 00 05 00}on\ntema nokk ohtlik.{01 00 00 0a 00} Igal\naastal saavad inimesed neilt\nvigastusi. {07 00 00}Aga kuidas saab\nkurta? Kui sa tiriksid mind\nühel ööl muuseumist välja{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n{07 15 00}kinnitan sulle, et ma\nnokiksin sind nii, et sa\nei unustaks seda nii pea, huu!"
   },
   {
    "id": 222,
