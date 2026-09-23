@@ -269,7 +269,7 @@
   {
    "id": 53,
    "en": "{07 0c 00}{01 00 00 0a 00}Oh, yeah,{01 00 00 05 00} I heard that\n{ff 00 00 06}Tom Nook{ff 00 00 00} likes jasmine tea.\n\n{07 00 00}Wait a second{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 14 00} {07 1b 00}That's not\na black tea, is it?",
-   "et": "{07 0c 00}{01 00 00 0a 00}Ah jaa,{01 00 00 05 00} kuulsin, et\n{ff 00 00 06}Tom Nookile{ff 00 00 00} meeldib jasmiinitee.\n\n{07 00 00}Oota hetk{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 14 00} {07 1b 00}See pole ju\nmust tee, ega?"
+   "et": "{07 0c 00}{01 00 00 0a 00}Ah jaa,{01 00 00 05 00} kuulsin, et\n{ff 00 00 06}Tom Nookile{ff 00 00 00} meeldib\njasmiinitee.\n{07 00 00}Oota hetk{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 14 00} {07 1b 00}See pole ju\nmust tee, ega?"
   },
   {
    "id": 54,
@@ -399,7 +399,7 @@
   {
    "id": 79,
    "en": "{07 00 00}Huh? {01 00 00 0a 00}What?{01 00 00 14 00} I should carry\nmy stuff in a{07 18 00}{01 00 00 05 00} camel hump?!\n{01 00 00 0a 00}{0b 03 00}{04 02 00}! \n{07 01 00}What kind of a freak are\nyou? {01 00 00 0a 00}I'm an ostrich, in case\nyou didn't notice!",
-   "et": "{07 00 00}Ah? {01 00 00 0a 00}Mida?{01 00 00 14 00} Ma peaksin oma\nasju kandma{07 18 00}{01 00 00 05 00} kaamelikühmus?!\n{01 00 00 0a 00}{0b 03 00}{04 02 00}!\n{07 01 00}Mis veidrik sa oled?\n{01 00 00 0a 00}Ma olen jaanalind, juhuks\nkui sa ei märganud!"
+   "et": "{07 00 00}Ah? {01 00 00 0a 00}Mida?{01 00 00 14 00} Ma peaksin oma\nasju kandma{07 18 00}{01 00 00 05 00}\n{01 00 00 0a 00}kaamelikühmus?! {0b 03 00}{04 02 00}!\n{07 01 00}Mis veidrik sa oled?\n{01 00 00 0a 00}Ma olen jaanalind, juhuks\nkui sa ei märganud!"
   },
   {
    "id": 80,

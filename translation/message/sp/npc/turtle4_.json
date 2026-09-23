@@ -34,7 +34,7 @@
   {
    "id": 6,
    "en": "{07 0b 00}{01 00 00 0a 00}Hm?{01 00 00 0f 00} Give you fireworks,{01 00 00 05 00}\nyou say? .{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{01 01 00}{07 03 00}{01 00 00 0a 00}Heh heh heh!{01 00 00 0a 00}\nHO HO HOORF HEEORF!\nAren't YOU a little\nfirecracker, {04 00 00}!",
-   "et": "{07 0b 00}{01 00 00 0a 00}Hm?{01 00 00 0f 00} Anda sulle ilutulestikku,{01 00 00 05 00}\nsa ütled? .{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{01 01 00}{07 03 00}{01 00 00 0a 00}Heh heh heh!{01 00 00 0a 00}\nHO HO HOORF HEEORF!\nOled sa alles väike\npauguti, {04 00 00}!"
+   "et": "{07 0b 00}{01 00 00 0a 00}Hm?{01 00 00 0f 00} Anda sulle\nilutulestikku,{01 00 00 05 00} sa ütled? .{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{01 01 00}{07 03 00}{01 00 00 0a 00}\nHeh heh heh!{01 00 00 0a 00} HO HO HOORF\nHEEORF! Oled sa alles väike\npauguti, {04 00 00}!"
   },
   {
    "id": 7,
@@ -74,7 +74,7 @@
   {
    "id": 14,
    "en": "{07 14 00}{01 00 00 0a 00}If only you regular folk\ncould be as dazzling as\nthese fireworks.",
-   "et": "{07 14 00}{01 00 00 0a 00}Kui te, lihtrahvas, vaid\nsuudaksite olla nii\npimestavad kui see ilutulestik."
+   "et": "{07 14 00}{01 00 00 0a 00}Kui te, lihtrahvas, vaid\nsuudaksite olla nii\npimestavad kui ilutulestik."
   },
   {
    "id": 15,

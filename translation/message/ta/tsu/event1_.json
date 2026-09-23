@@ -14,7 +14,7 @@
   {
    "id": 2,
    "en": "{07 14 00}Hey, {01 00 00 05 00}{04 1f 00},{01 00 00 0a 00} this\nSunday is the {ff 00 00 03}Bug-Off{ff 00 00 00},\n{01 00 00 05 00}{04 02 00}.\n{07 00 00}In actuality, it's just bug\ncatching, but it's{01 00 00 0a 00} really\nfun out there with others!\n{07 15 00}{04 0b 00} is really\nlooking forward to it too,\n{01 00 00 0a 00}{04 02 00}!",
-   "et": "{07 14 00}Hei, {01 00 00 05 00}{04 1f 00},{01 00 00 0a 00} sel\npühapäeval {ff 00 00 03}putukavõistlus{ff 00 00 00},\n{01 00 00 05 00}{04 02 00}.\n{07 00 00}Tegelikult on see lihtsalt\nputukate püüdmine, aga{01 00 00 0a 00} teistega\nkoos on seal tõesti lõbus!\n{07 15 00}{04 0b 00} ootab seda\nsamuti väga,\n{01 00 00 0a 00}{04 02 00}!"
+   "et": "{07 14 00}Hei, {01 00 00 05 00}{04 1f 00},{01 00 00 0a 00} sel\npühapäeval {ff 00 00 03}putukavõistlus{ff 00 00 00},\n{01 00 00 05 00}{04 02 00}.\n{07 00 00}Tegelikult on see lihtsalt\nputukate püüdmine, aga{01 00 00 0a 00}\nteistega koos on seal lõbus!\n{07 15 00}{04 0b 00} ootab seda\nsamuti väga,\n{01 00 00 0a 00}{04 02 00}!"
   },
   {
    "id": 3,

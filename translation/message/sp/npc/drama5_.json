@@ -184,7 +184,7 @@
   {
    "id": 36,
    "en": "{07 16 00}My heart was racing, and I\nstarted pacing, not knowing\nwhat else to do!\n{07 04 00}\"N{01 00 00 05 00}-nice day isn't it?!\"{01 01 00}\n{07 16 00}That's{01 00 00 05 00} all I could force\nmyself to croak out!\n{07 1c 00}And {ff 00 00 06}Pete{ff 00 00 00}{01 00 00 05 00} just stared at me\nwith a blank look on his\nface{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 16 00}Oh, my.{01 00 00 05 00} I'm such an idiot.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\nDumb, {01 00 00 05 00}stupid {01 00 00 05 00}{ff 00 00 06}Pelly {ff 00 00 00}strikes\nagain{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.",
-   "et": "{07 16 00}Mu süda peksles ja ma\nhakkasin edasi-tagasi käima\nteadmata, mida teha!\n{07 04 00}„K{01 00 00 05 00}-kena ilm, eks?!”{01 01 00}\n{07 16 00}See{01 00 00 05 00} oli kõik, mida ma\nendast välja suutsin krooksuda!\n{07 1c 00}Ja {ff 00 00 06}Pete{ff 00 00 00}{01 00 00 05 00} lihtsalt jõllitas\nmind tühja ilmega\nnäol{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 16 00}Oh sa.{01 00 00 05 00} Olen selline idioot.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\nRumal, {01 00 00 05 00}loll {01 00 00 05 00}{ff 00 00 06}Pelly {ff 00 00 00}lööb\njälle{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}."
+   "et": "{07 16 00}Mu süda peksles ja ma\nhakkasin edasi-tagasi käima\nteadmata, mida teha!\n{07 04 00}„K{01 00 00 05 00}-kena ilm, eks?!”{01 01 00}\n{07 16 00}See{01 00 00 05 00} oli kõik, mida ma\nendast välja suutsin\nkrooksuda! {07 1c 00}Ja {ff 00 00 06}Pete{ff 00 00 00}{01 00 00 05 00} jõllitas\nmind tühja ilmega\nnäol{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 16 00}Oh sa.{01 00 00 05 00} Olen selline idioot.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\nRumal, {01 00 00 05 00}loll {01 00 00 05 00}{ff 00 00 06}Pelly {ff 00 00 00}lööb\njälle{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}."
   },
   {
    "id": 37,
@@ -239,7 +239,7 @@
   {
    "id": 47,
    "en": "{07 00 00}I've been watching {ff 00 00 06}Pete{ff 00 00 00}'s\nbehavior lately{01 00 00 05 00} for signs\nof a crush.\n{07 16 00}Do you think maybe, {01 00 00 05 00}just\nmaybe{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{07 06 00}his crush could\nbe{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{02 04 00 30 1a}\nOh, I know!\nStop it!",
-   "et": "{07 00 00}Olen viimasel ajal jälginud\n{ff 00 00 06}Pete'i{ff 00 00 00} käitumist{01 00 00 05 00} armumise\nmärkide otsimiseks.\n{07 16 00}Kas sa arvad, et{01 00 00 05 00} ehk,\nlihtsalt ehk{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{07 06 00}on tema väljavalitu\nhoopis{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{02 04 00 30 1a}\nOh, ma tean!\nLõpeta!"
+   "et": "{07 00 00}Olen viimasel ajal jälginud\n{ff 00 00 06}Pete'i{ff 00 00 00} käitumist{01 00 00 05 00} armumise\nmärkide otsimiseks.\n{07 16 00}Kas sa arvad, et{01 00 00 05 00} ehk,\nehk{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{07 06 00}on tema väljavalitu\nhoopis{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{02 04 00 30 1a}\nOh, ma tean!\nLõpeta!"
   },
   {
    "id": 48,
@@ -294,7 +294,7 @@
   {
    "id": 58,
    "en": "{07 1c 00}Well, {01 00 00 05 00}the other day I got in\na fight with {ff 00 00 06}Phyllis {ff 00 00 00}because{07 16 00}\nshe bad-mouthed poor {ff 00 00 06}Pete{ff 00 00 00}.\n{07 00 00}I didn't think it was fair\nfor her to call someone\nwho is kind and honest \n{07 15 00}\"simply stupid\"{01 00 00 05 00} without a\nreason,{01 00 00 05 00} so I told her off!",
-   "et": "{07 1c 00}Noh, {01 00 00 05 00}teine päev läks mul\n{ff 00 00 06}Phyllisega {ff 00 00 00}tüli, sest{07 16 00}\nta laitis vaest {ff 00 00 06}Pete'i{ff 00 00 00}.\n{07 00 00}Ma ei pidanud õiglaseks,\net ta nimetab kedagi,\nkes on lahke ja aus, \n{07 15 00}„lihtsalt lolliks”{01 00 00 05 00} ilma\npõhjuseta,{01 00 00 05 00} ja ma panin ta paika!"
+   "et": "{07 1c 00}Noh, {01 00 00 05 00}teine päev läks mul\n{ff 00 00 06}Phyllisega {ff 00 00 00}tüli, sest{07 16 00}\nta laitis vaest {ff 00 00 06}Pete'i{ff 00 00 00}.\n{07 00 00}Ma ei pidanud õiglaseks,\net ta nimetab kedagi,\nkes on lahke ja aus, \n{07 15 00}„lihtsalt lolliks”{01 00 00 05 00} ilma\npõhjuseta,{01 00 00 05 00} ja ma noomisin!"
   },
   {
    "id": 59,
@@ -304,7 +304,7 @@
   {
    "id": 60,
    "en": "{07 15 00}I shouted at her, \"{ff 00 00 02}Phyllis!\nI know you're lonely because\nyou don't have a love life!{ff 00 00 00}\n\"{ff 00 00 02}But that doesn't mean you\nshould butt into mine!{ff 00 00 00}\"{01 01 00}\n{07 00 00}I didn't know I had it in me.\n{07 16 00}Then {ff 00 00 06}{01 00 00 05 00}Phyllis {ff 00 00 00}looked so\ndepressed{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.and I felt really\nbad.\nI'm the worst sister in the\nworld.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{01 01 00} {07 06 00}I have to make\nthings OK between us again!",
-   "et": "{07 15 00}Ma karjusin: „{ff 00 00 02}Phyllis!\nTean, et sa oled üksildane,\nsest sul pole armuelu!{ff 00 00 00}\n„{ff 00 00 02}Aga see ei tähenda, et sa\npeaksid mu armuelusse sekkuma!{ff 00 00 00}”{01 01 00}\n{07 00 00}Ma ei teadnud, et suudan.\n{07 16 00}Siis nägi {ff 00 00 06}{01 00 00 05 00}Phyllis {ff 00 00 00}nii\nmasendunud{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.ja mul hakkas\nväga halb.\nOlen maailma halvim\nõde.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{01 01 00} {07 06 00}Pean asjad\nmeie vahel korda tegema!"
+   "et": "{07 15 00}Ma karjusin: „{ff 00 00 02}Phyllis!\nTean, et sa oled üksildane,\nsest sul pole armuelu!{ff 00 00 00}\n„{ff 00 00 02}Aga see ei tähenda, et sa\npeaksid mu armuelusse\nsekkuma!{ff 00 00 00} ”{01 01 00} {07 00 00}Ma ei teadnud,\net suudan. {07 16 00}Siis nägi {ff 00 00 06}{01 00 00 05 00}Phyllis {ff 00 00 00}\nnii masendunud{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.ja mul\nhakkas väga halb.\nOlen maailma halvim\nõde.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{01 01 00} {07 06 00}Pean asjad\nmeie vahel korda tegema!"
   },
   {
    "id": 61,
@@ -359,7 +359,7 @@
   {
    "id": 71,
    "en": "{07 15 00}No, it's not!{01 01 00} Because in my\ndream,{01 00 00 05 00} I could fly!\n\n{07 14 00}All I had to do was\nspread my wings,{01 00 00 05 00} and there\nI was, on top of the cloud!\n{07 0d 00}A rendezvous in the clouds,{01 00 00 0f 00}\njust the two of us. {00 01 00}{01 01 00}\n{07 1c 00}Wow.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{01 00 00 05 00}\n{07 16 00}If I were only so bold in\nreal life, my love wouldn't\nbe just a one-way street.",
-   "et": "{07 15 00}Ei ole!{01 01 00} Sest mu\nunes{01 00 00 05 00} suutsin ma lennata!\n\n{07 14 00}Pidin vaid\ntiivad laiali ajama{01 00 00 05 00} ja seal\nma olingi, pilve tipus!\n{07 0d 00}Kohtumine pilvedes,{01 00 00 0f 00}\nainult meie kahekesi. {00 01 00}{01 01 00}\n{07 1c 00}Vau.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{01 00 00 05 00}\n{07 16 00}Kui ma oleksin päriselus\nsama julge, poleks mu armastus\nlihtsalt ühepoolne."
+   "et": "{07 15 00}Ei ole!{01 01 00} Sest mu\nunes{01 00 00 05 00} suutsin ma lennata!\n\n{07 14 00}Pidin vaid\ntiivad laiali ajama{01 00 00 05 00} ja seal\nma olingi, pilve tipus!\n{07 0d 00}Kohtumine pilvedes,{01 00 00 0f 00}\nainult meie kahekesi. {00 01 00}{01 01 00}\n{07 1c 00}Vau.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{01 00 00 05 00}\n{07 16 00}Kui ma oleksin päriselus\nsama julge, poleks mu\narmastus lihtsalt ühepoolne."
   }
  ]
 }

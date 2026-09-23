@@ -34,7 +34,7 @@ def main():
             prev = old.get(i, {})
             entries.append({'id': i, 'en': en, 'et': prev.get('et', '')})
         os.makedirs(os.path.dirname(dst), exist_ok=True)
-        with open(dst, 'w', encoding='utf-8') as f:
+        with open(dst, 'w', encoding='utf-8', newline='\n') as f:
             json.dump({'file': path, 'messages': entries}, f, ensure_ascii=False, indent=1)
             f.write('\n')
         files += 1

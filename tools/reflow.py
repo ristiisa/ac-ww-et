@@ -59,6 +59,10 @@ def reflow_lines(lines):
             word = lines[i][cut + 1:]
             if not word.strip():
                 break
+            # Inserting after the next line's leading codes would put the
+            # moved word's own codes behind them, changing the code order.
+            if at > 0 and _CODE.search(word):
+                break
             tail = nxt[at:]
             cand_nxt = nxt[:at] + word + (' ' if tail else '') + tail
             if check.width(cand_nxt) > check.MAX_WIDTH:
@@ -82,7 +86,7 @@ def main(paths):
                 hit = True
                 total += 1
         if hit:
-            with open(p, 'w', encoding='utf-8') as f:
+            with open(p, 'w', encoding='utf-8', newline='\n') as f:
                 json.dump(doc, f, ensure_ascii=False, indent=1)
                 f.write('\n')
     print(f'reflowed {total} messages')

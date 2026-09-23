@@ -14,7 +14,7 @@
   {
    "id": 2,
    "en": "Yes, yes, {01 00 00 05 00}{04 00 00},{01 00 00 0a 00} I\nwant you to know we'll be\nclosed {04 16 00} {04 17 00}.\nI know it's sudden,{01 00 00 0a 00} but we\nare expanding, so it's all\nfor the best, hm?\nYou'll benefit in the end,\nso I hope you understand.{01 00 00 05 00} \nBenefits for all, you see?",
-   "et": "Jah, jah, {01 00 00 05 00}{04 00 00},{01 00 00 0a 00} ma\ntahan, et sa teaksid: me oleme\nsuletud {04 16 00} {04 17 00}.\nTean, see on ootamatu,{01 00 00 0a 00} aga\nme laieneme, nii et see on\nkõigi huvides, ah?\nSa võidad sellest lõpuks,\nnii et loodan, et mõistad.{01 00 00 05 00} \nKasu kõigile, näed sa?"
+   "et": "Jah, jah, {01 00 00 05 00}{04 00 00},{01 00 00 0a 00} ma\ntahan, et teaksid: me oleme\nsuletud {04 16 00} {04 17 00}.\nTean, see on ootamatu,{01 00 00 0a 00} aga\nme laieneme, nii et see on\nkõigi huvides, ah?\nSa võidad sellest lõpuks,\nnii et loodan, et mõistad.{01 00 00 05 00} \nKasu kõigile, näed sa?"
   },
   {
    "id": 3,
@@ -114,7 +114,7 @@
   {
    "id": 23,
    "en": "I must apologize! I'm all\nbooked up with orders.\n\nSo,{01 00 00 05 00} obviously, I can't accept\nany new orders, yes?\n\nI'm awfully sorry,{01 00 00 0a 00} but I'll\nbe happy to accept your\norder another time!\nWell, is there anything else\nI can do for you?{02 06 00 07 00 00 15}\nI want to sell!\nCatalog, please!\nTurnip prices!\nNothing, really.",
-   "et": "Pean vabandama! Mul on\ntellimusi täis.\n\nNii et{01 00 00 05 00} ma ei saa muidugi\nuusi tellimusi võtta, jah?\n\nMul on kohutavalt kahju,{01 00 00 0a 00} aga\nvõtan su tellimuse\nhea meelega teine kord!\nNoh, kas saan sinu heaks\nveel midagi teha?{02 06 00 07 00 00 15}\nTahan müüa!\nKataloog, palun!\nNaeri hind!\nTegelikult ei midagi."
+   "et": "Pean vabandama! Mul on\ntellimusi täis.\n\nNii et{01 00 00 05 00} ma ei saa muidugi\nuusi tellimusi võtta, jah?\n\nMul on väga kahju,{01 00 00 0a 00} aga\nvõtan su tellimuse\nhea meelega teine kord!\nNoh, kas saan sinu heaks\nveel midagi teha?{02 06 00 07 00 00 15}\nTahan müüa!\nKataloog, palun!\nNaeri hind!\nTegelikult ei midagi."
   },
   {
    "id": 24,

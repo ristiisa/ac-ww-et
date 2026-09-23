@@ -4,7 +4,7 @@
   {
    "id": 0,
    "en": "{07 06 00}You'd better deliver that\npackage, STAT!{01 00 00 05 00} You hear me,\n{01 00 00 05 00}{04 02 00}?!\n{07 16 00}I told {ff 00 00 06}{04 10 00} {ff 00 00 00}that\nI'd have this thing \ndelivered on time!",
-   "et": "{07 06 00}Sa peaksid selle paki\nKOHE ära toimetama!{01 00 00 05 00} Kuuled,\n{01 00 00 05 00}{04 02 00}?!\n{07 16 00}Ma ütlesin tüübile nimega {ff 00 00 06}{04 10 00}{ff 00 00 00},\net see asi toimetatakse\nõigeks ajaks kohale!"
+   "et": "{07 06 00}Sa peaksid selle paki\nKOHE ära toimetama!{01 00 00 05 00} Kuuled,\n{01 00 00 05 00}{04 02 00}?! Ma ütlesin\n{07 16 00}tüübile nimega {ff 00 00 06}{04 10 00}{ff 00 00 00},\net see asi toimetatakse\nõigeks ajaks kohale!"
   },
   {
    "id": 1,

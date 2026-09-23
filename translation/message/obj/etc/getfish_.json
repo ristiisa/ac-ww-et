@@ -144,7 +144,7 @@
   {
    "id": 28,
    "en": "I caught a guppy!{01 00 00 05 00}\n\nSmall...but what a bite!",
-   "et": "Püüdsin guppi!{01 00 00 05 00}\n\nVäike...aga milline hammustus!"
+   "et": "Püüdsin guppi!{01 00 00 05 00}\n\nVäike...aga kui hammustus!"
   },
   {
    "id": 29,
@@ -154,7 +154,7 @@
   {
    "id": 30,
    "en": "I caught a piranha!{01 00 00 05 00}\n\nHe'd better not catch me!{00 01 00}",
-   "et": "Püüdsin piraaja!{01 00 00 05 00}\n\nParem oleks, kui ta mind ei püüaks!{00 01 00}"
+   "et": "Püüdsin piraaja!{01 00 00 05 00}\n\nParem, kui mind ei püüta!{00 01 00}"
   },
   {
    "id": 31,

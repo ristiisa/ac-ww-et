@@ -59,7 +59,7 @@
   {
    "id": 12,
    "en": "{07 00 00}Ah, {04 00 00}.{01 00 00 0a 00} Poor form.{01 00 00 0f 00}\nMy deepest apologies!\n\nPeople seem to be engaged\nin an activity.{01 00 00 0a 00} I cannot\nprocess your request.",
-   "et": "{07 00 00}Ah, {04 00 00}.{01 00 00 0a 00} Halb lugu.{01 00 00 0f 00}\nMu sügavaim vabandus!\n\nTundub, et inimesed on\nmillestki hõivatud.{01 00 00 0a 00} Ma ei saa\nsu soovi täita."
+   "et": "{07 00 00}Ah, {04 00 00}.{01 00 00 0a 00} Halb lugu.{01 00 00 0f 00}\nMu sügavaim vabandus!\n\nTundub, et inimesed on\nmillestki hõivatud.{01 00 00 0a 00} Ma ei\nsaa su soovi täita."
   },
   {
    "id": 13,
@@ -139,7 +139,7 @@
   {
    "id": 38,
    "en": "{07 22 00}Everything is in order,\n{04 00 00}!{01 00 00 0a 00} Your {ff 00 00 02}friend\ncode {ff 00 00 00}is...\n{ff 00 00 02}{04 14 00}-{04 17 00}-{04 18 00}{ff 00 00 00}!",
-   "et": "{07 22 00}Kõik on korras,\n{04 00 00}!{01 00 00 0a 00} Sinu {ff 00 00 02}sõbrakood\n{ff 00 00 00}on...\n{ff 00 00 02}{04 14 00}-{04 17 00}-{04 18 00}{ff 00 00 00}!"
+   "et": "{07 22 00}Kõik on korras,\n{04 00 00}!{01 00 00 0a 00} Sinu {ff 00 00 02}sõbrakood\n{ff 00 00 00}on... {ff 00 00 02}{04 14 00}-\n{04 17 00}-{04 18 00}{ff 00 00 00}!"
   },
   {
    "id": 39,
@@ -154,7 +154,7 @@
   {
    "id": 41,
    "en": "{07 00 00}A{ff 00 00 02} friend code{ff 00 00 00} identifies\nwho you are, {04 00 00},\n\nwhen you are playing with\na distant friend via\n{ff 00 00 01}Nintendo WFC{ff 00 00 00}.\nBy the way, {04 00 00},\nyour{ff 00 00 02} friend code{ff 00 00 00} is\n{ff 00 00 02}{04 14 00}-{04 17 00}-{04 18 00}{ff 00 00 00}!\nShare it with your friends\nand have them add you to\ntheir {ff 00 00 02}friend rosters{ff 00 00 00}!\nAnd don't forget to ask\nyour friends for their\n{ff 00 00 02}friend codes{01 00 00 05 00}{ff 00 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.\nThat way,{01 00 00 05 00} you can register\nthem to your {ff 00 00 02}friend\nroster{ff 00 00 00}.\nThen, {01 00 00 05 00}you'll be able to\nvisit those friends via\n{ff 00 00 01}Nintendo WFC{ff 00 00 00}. {01 00 00 0a 00}Hoo-rah!",
-   "et": "{07 00 00}{ff 00 00 02}Sõbrakood{ff 00 00 00} näitab,\nkes sa oled, {04 00 00},\n\nkui mängid kauge\nsõbraga\n{ff 00 00 01}Nintendo WFC{ff 00 00 00} kaudu.\nMuide, {04 00 00},\nsinu{ff 00 00 02} sõbrakood{ff 00 00 00} on\n{ff 00 00 02}{04 14 00}-{04 17 00}-{04 18 00}{ff 00 00 00}!\nJaga seda sõpradega ja\nlase neil sind lisada\noma {ff 00 00 02}sõbranimekirja{ff 00 00 00}!\nJa ära unusta küsida\noma sõpradelt nende\n{ff 00 00 02}sõbrakoode{01 00 00 05 00}{ff 00 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.\nNii{01 00 00 05 00} saad sa nemad\nregistreerida oma {ff 00 00 02}sõbra-\nnimekirja{ff 00 00 00}.\nSiis {01 00 00 05 00}saad sa neid sõpru\nkülastada\n{ff 00 00 01}Nintendo WFC{ff 00 00 00} kaudu. {01 00 00 0a 00}Just nii!"
+   "et": "{07 00 00}{ff 00 00 02}Sõbrakood{ff 00 00 00} näitab,\nkes sa oled, {04 00 00},\n\nkui mängid kauge\nsõbraga\n{ff 00 00 01}Nintendo WFC{ff 00 00 00} kaudu.\nMuide, {04 00 00},\nsinu{ff 00 00 02} sõbrakood{ff 00 00 00} on\n{ff 00 00 02}{04 14 00}-{04 17 00}-{04 18 00}{ff 00 00 00}\n! Jaga seda sõpradega ja\nlase neil sind lisada\noma {ff 00 00 02}sõbranimekirja{ff 00 00 00}!\nJa ära unusta küsida\noma sõpradelt nende\n{ff 00 00 02}sõbrakoode{01 00 00 05 00}{ff 00 00 00}.{01 00 00 05 00}.{01 00 00 05 00}.\nNii{01 00 00 05 00} saad sa nemad\nregistreerida oma {ff 00 00 02}sõbra-\nnimekirja{ff 00 00 00}.\nSiis {01 00 00 05 00}saad sa neid sõpru\nkülastada {ff 00 00 01}Nintendo\nWFC{ff 00 00 00} kaudu. {01 00 00 0a 00}Just nii!"
   },
   {
    "id": 42,
@@ -384,7 +384,7 @@
   {
    "id": 118,
    "en": "{07 00 00}Consequently, {01 00 00 05 00}your {ff 00 00 02}friend\ncode{ff 00 00 00} has also changed.{01 01 00}\n{07 22 00}Without further ado,\nI present you, {04 00 00},\nwith your new {ff 00 00 02}friend code{ff 00 00 00}:{01 00 00 05 00}\n{ff 00 00 02}{04 14 00}-{04 17 00}-{04 18 00}{ff 00 00 00}!\n{07 00 00}In order to visit distant \nfriends, and have them\nvisit you,\n{07 00 00}you'll have to ask them to{01 00 00 05 00}\nadd your {ff 00 00 02}friend code{ff 00 00 00} to\ntheir {ff 00 00 02}friend rosters{ff 00 00 00}!",
-   "et": "{07 00 00}Järelikult {01 00 00 05 00}muutus ka sinu\n{ff 00 00 02}sõbrakood{ff 00 00 00}.{01 01 00}\n{07 22 00}Ilma pikema jututa\nesitan sulle, {04 00 00},\nsinu uue {ff 00 00 02}sõbrakoodi{ff 00 00 00}:{01 00 00 05 00}\n{ff 00 00 02}{04 14 00}-{04 17 00}-{04 18 00}{ff 00 00 00}!\n{07 00 00}Et külastada kaugeid\nsõpru ja lasta neil sind\nkülastada,\n{07 00 00}pead sa paluma neil{01 00 00 05 00}\nlisada sinu {ff 00 00 02}sõbrakood{ff 00 00 00} oma\n{ff 00 00 02}sõbranimekirja{ff 00 00 00}!"
+   "et": "{07 00 00}Järelikult {01 00 00 05 00}muutus ka sinu\n{ff 00 00 02}sõbrakood{ff 00 00 00}.{01 01 00}\n{07 22 00}Ilma pikema jututa\nesitan sulle, {04 00 00},\nsinu uue {ff 00 00 02}sõbrakoodi{ff 00 00 00}:{01 00 00 05 00}\n{ff 00 00 02}{04 14 00}-{04 17 00}-{04 18 00}{ff 00 00 00}\n! {07 00 00}Et külastada kaugeid\nsõpru ja lasta neil sind\nkülastada,\n{07 00 00}pead sa paluma neil{01 00 00 05 00}\nlisada sinu {ff 00 00 02}sõbrakood{ff 00 00 00} oma\n{ff 00 00 02}sõbranimekirja{ff 00 00 00}!"
   },
   {
    "id": 119,
@@ -439,47 +439,47 @@
   {
    "id": 131,
    "en": "{07 00 00}{ff 00 00 01}The server is experiencing\nheavy traffic, or Nintendo\nWFC service is down.\nPlease try again later.\nFor help, call\n1-800-895-1672 in the USA\nand Canada, or visit\nwww.nintendowifi.com.\n                 <{04 15 00}{04 16 00}>",
-   "et": "{07 00 00}{ff 00 00 01}Serveris on suur koormus\nvõi Nintendo WFC teenus\non maas.\nPalun proovi hiljem uuesti.\nAbi saamiseks helista\n1-800-895-1672 (USA ja\nKanada) või külasta\nwww.nintendowifi.com.\n                 <{04 15 00}{04 16 00}>"
+   "et": "{07 00 00}{ff 00 00 01}Serveris on suur koormus\nvõi Nintendo WFC teenus\non maas.\nPalun proovi hiljem uuesti.\nAbi saamiseks helista\n1-800-895-1672 (USA ja\nKanada) või külasta\nwww.nintendowifi.com. <\n{04 15 00}{04 16 00}>"
   },
   {
    "id": 132,
    "en": "{07 00 00}{ff 00 00 01}You connected to an access\npoint but were unable to\nconnect to Nintendo WFC.\nFor help, call\n1-800-895-1672 in the USA\nand Canada.\nYou can also visit\nwww.nintendowifi.com.\n                 <{04 15 00}{04 16 00}>",
-   "et": "{07 00 00}{ff 00 00 01}Ühendusid pääsupunktiga,\naga ei saanud ühendust\nNintendo WFC-ga.\nAbi saamiseks helista\n1-800-895-1672 (USA ja\nKanada).\nVõid külastada ka\nwww.nintendowifi.com.\n                 <{04 15 00}{04 16 00}>"
+   "et": "{07 00 00}{ff 00 00 01}Ühendusid pääsupunktiga,\naga ei saanud ühendust\nNintendo WFC-ga.\nAbi saamiseks helista\n1-800-895-1672 (USA ja\nKanada).\nVõid külastada ka\nwww.nintendowifi.com. <\n{04 15 00}{04 16 00}>"
   },
   {
    "id": 133,
    "en": "{07 00 00}{ff 00 00 01}This Wi-Fi ID was inactive\nfor a long time and has\nbeen erased.\nFor help, call\n1-800-895-1672 in the USA\nand Canada.\nYou can also visit\nwww.nintendowifi.com.\n                 <{04 15 00}{04 16 00}>",
-   "et": "{07 00 00}{ff 00 00 01}See Wi-Fi ID oli kaua\naega kasutamata ja on\nkustutatud.\nAbi saamiseks helista\n1-800-895-1672 (USA ja\nKanada).\nVõid külastada ka\nwww.nintendowifi.com.\n                 <{04 15 00}{04 16 00}>"
+   "et": "{07 00 00}{ff 00 00 01}See Wi-Fi ID oli kaua\naega kasutamata ja on\nkustutatud.\nAbi saamiseks helista\n1-800-895-1672 (USA ja\nKanada).\nVõid külastada ka\nwww.nintendowifi.com. <\n{04 15 00}{04 16 00}>"
   },
   {
    "id": 134,
    "en": "{07 00 00}{ff 00 00 01}Nintendo WFC service for\nthis software has been\nhalted.\nVisit www.nintendowifi.com\nfor a list of Nintendo\nWFC-compatible software.\n                 <{04 15 00}{04 16 00}>",
-   "et": "{07 00 00}{ff 00 00 01}Nintendo WFC teenus\nsellele tarkvarale on\npeatatud.\nVaata www.nintendowifi.com,\nkust leiad Nintendo\nWFC-ga ühilduva tarkvara.\n                 <{04 15 00}{04 16 00}>"
+   "et": "{07 00 00}{ff 00 00 01}Nintendo WFC teenus\nsellele tarkvarale on\npeatatud.\nVaata www.nintendowifi.com,\nkust leiad Nintendo\nWFC-ga ühilduva tarkvara. <\n{04 15 00}{04 16 00}>"
   },
   {
    "id": 135,
    "en": "{07 00 00}{ff 00 00 01}Unable to find an access\npoint. Move the Nintendo DS\nwithin range.\nFor help, call\n1-800-895-1672 in the USA\nand Canada.\nYou can also visit\nwww.nintendowifi.com.\n                 <{04 15 00}{04 16 00}>",
-   "et": "{07 00 00}{ff 00 00 01}Pääsupunkti ei leitud.\nVii Nintendo DS\nlevialasse.\nAbi saamiseks helista\n1-800-895-1672 (USA ja\nKanada).\nVõid külastada ka\nwww.nintendowifi.com.\n                 <{04 15 00}{04 16 00}>"
+   "et": "{07 00 00}{ff 00 00 01}Pääsupunkti ei leitud.\nVii Nintendo DS\nlevialasse.\nAbi saamiseks helista\n1-800-895-1672 (USA ja\nKanada).\nVõid külastada ka\nwww.nintendowifi.com. <\n{04 15 00}{04 16 00}>"
   },
   {
    "id": 136,
    "en": "{07 00 00}{ff 00 00 01}No compatible access point\nin range. Please check your\nconnection settings.\nFor help, call\n1-800-895-1672 in the USA\nand Canada.\nYou can also visit\nwww.nintendowifi.com.\n                 <{04 15 00}{04 16 00}>",
-   "et": "{07 00 00}{ff 00 00 01}Levialas pole ühilduvat\npääsupunkti. Palun kontrolli\noma ühenduse seadeid.\nAbi saamiseks helista\n1-800-895-1672 (USA ja\nKanada).\nVõid külastada ka\nwww.nintendowifi.com.\n                 <{04 15 00}{04 16 00}>"
+   "et": "{07 00 00}{ff 00 00 01}Levialas pole ühilduvat\npääsupunkti. Palun kontrolli\noma ühenduse seadeid.\nAbi saamiseks helista\n1-800-895-1672 (USA ja\nKanada).\nVõid külastada ka\nwww.nintendowifi.com. <\n{04 15 00}{04 16 00}>"
   },
   {
    "id": 137,
    "en": "{07 00 00}{ff 00 00 01}Unable to connect to the\nNintendo Wi-Fi USB\nConnector.\nConfirm connection settings\nin the Nintendo WFC setup.\n\nCall 1-800-895-1672 (USA\nand Canada) for help.\n                 <{04 15 00}{04 16 00}>",
-   "et": "{07 00 00}{ff 00 00 01}Ei saa ühendust Nintendo\nWi-Fi USB-ühendajaga.\n\nKontrolli ühenduse seadeid\nNintendo WFC seadistuses.\n\nAbi: 1-800-895-1672 (USA\nja Kanada).\n                 <{04 15 00}{04 16 00}>"
+   "et": "{07 00 00}{ff 00 00 01}Ei saa ühendust Nintendo\nWi-Fi USB-ühendajaga.\n\nKontrolli ühenduse seadeid\nNintendo WFC seadistuses.\n\nAbi: 1-800-895-1672 (USA\nja Kanada). <\n{04 15 00}{04 16 00}>"
   },
   {
    "id": 138,
    "en": "{07 00 00}{ff 00 00 01}This access point is\nexperiencing a high volume\nof traffic.\nYou cannot establish\na connection at this time.\nTry again later.\n                 <{04 15 00}{04 16 00}>",
-   "et": "{07 00 00}{ff 00 00 01}Sellel pääsupunktil on\nsuur liikluskoormus.\n\nSa ei saa praegu\nühendust luua.\nProovi hiljem uuesti.\n                 <{04 15 00}{04 16 00}>"
+   "et": "{07 00 00}{ff 00 00 01}Sellel pääsupunktil on\nsuur liikluskoormus.\n\nSa ei saa praegu\nühendust luua.\nProovi hiljem uuesti. <\n{04 15 00}{04 16 00}>"
   },
   {
    "id": 139,
    "en": "{07 00 00}{ff 00 00 01}Unable to connect to\nNintendo WFC. Please check\nyour connection settings.\nFor help, call\n1-800-895-1672 in the USA\nand Canada.\nYou can also visit\nwww.nintendowifi.com.\n                 <{04 15 00}{04 16 00}>",
-   "et": "{07 00 00}{ff 00 00 01}Ei saa ühendust Nintendo\nWFC-ga. Palun kontrolli\noma ühenduse seadeid.\nAbi saamiseks helista\n1-800-895-1672 (USA ja\nKanada).\nVõid külastada ka\nwww.nintendowifi.com.\n                 <{04 15 00}{04 16 00}>"
+   "et": "{07 00 00}{ff 00 00 01}Ei saa ühendust Nintendo\nWFC-ga. Palun kontrolli\noma ühenduse seadeid.\nAbi saamiseks helista\n1-800-895-1672 (USA ja\nKanada).\nVõid külastada ka\nwww.nintendowifi.com. <\n{04 15 00}{04 16 00}>"
   }
  ]
 }

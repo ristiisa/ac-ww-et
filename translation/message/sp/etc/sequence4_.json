@@ -34,7 +34,7 @@
   {
    "id": 6,
    "en": "Hi there!{01 00 00 0a 00} I don't think we've\nmet.{01 00 00 05 00} I'm Mabel, that's Sable!{01 00 00 05 00}\nWelcome to our humble shop!\n{07 14 00}We here at {ff 00 00 02}Able Sisters{ff 00 00 00}{01 00 00 05 00}\nlook forward to serving{01 00 00 05 00}\nall your tailoring needs!",
-   "et": "Tere!{01 00 00 0a 00} Ma ei usu, et oleme\nkohtunud.{01 00 00 05 00} Olen Mabel, too Sable!{01 00 00 05 00}\nTere tulemast meie poodi!\n{07 14 00}Meie siin {ff 00 00 02}Able õdedes{ff 00 00 00}{01 00 00 05 00}\nootame rõõmuga, et{01 00 00 05 00}\nsind rõivastega aidata!"
+   "et": "Tere!{01 00 00 0a 00} Ma ei usu, et oleme\nkohtunud.{01 00 00 05 00} Olen Mabel, too\nSable!{01 00 00 05 00} Tere tulemast meie\npoodi! {07 14 00}Meie siin {ff 00 00 02}Able õdedes{ff 00 00 00}{01 00 00 05 00}\nootame rõõmuga, et{01 00 00 05 00}\nsind rõivastega aidata!"
   },
   {
    "id": 7,
@@ -134,7 +134,7 @@
   {
    "id": 26,
    "en": "Worry not! {01 00 00 05 00}Worry not, hm?{01 00 00 14 00}\n{07 19 00}If you want to know about\nmaking money, I'll tell you!\n{07 00 00}Yes, actually, I COULD\nexplain it to you, but...\n\n{07 14 00}It's better to learn\nthrough living than\nlistening, yes?\n{07 00 00}Why don't you come work\npart-time at my shop, hm?\n\nYou'll earn some money and{01 00 00 05 00}\nlearn about living in town!{01 00 00 05 00}\n{07 0b 00}Two birds, one stone, hm?\n{07 19 00}Yes, yes!{01 00 00 0a 00} What a great idea!\nAbsolutely top-notch!{01 00 00 05 00} Yes!{01 00 00 14 00}\n{07 00 00}It's official!{01 00 00 0f 00}\nWhy don't you come by the\nshop in a little bit then,\nhm? \nIf you don't know where the\nshop is, then check your\n{ff 00 00 07}map{ff 00 00 00}. {01 00 00 05 00}It's simple, yes?\n{07 14 00}Well then,{01 00 00 05 00} I'll be waiting for\nyou at the store!{01 00 00 05 00}\nCome on by!",
-   "et": "Pole muret! {01 00 00 05 00}Pole muret, ah?{01 00 00 14 00}\n{07 19 00}Kui tahad teada, kuidas\nraha teenida, ma räägin!\n{07 00 00}Jah, tegelikult VÕIKSIN ma\nseda sulle selgitada, aga...\n\n{07 14 00}Parem on õppida\nelades kui\nkuulates, jah?\n{07 00 00}Miks sa ei tuleks minu\npoodi osalise ajaga tööle, ah?\n\nSa teenid veidi raha ja{01 00 00 05 00}\nõpid linnaelu tundma!{01 00 00 05 00}\n{07 0b 00}Kaks kärbest ühe hoobiga?\n{07 19 00}Jah, jah!{01 00 00 0a 00} Milline hea mõte!\nLausa suurepärane!{01 00 00 05 00} Jah!{01 00 00 14 00}\n{07 00 00}See on ametlik!{01 00 00 0f 00}\nMiks sa ei astuks siis\nvarsti poest läbi,\nah? \nKui sa ei tea, kus pood\non, siis vaata oma\n{ff 00 00 07}kaarti{ff 00 00 00}. {01 00 00 05 00}Lihtne, jah?\n{07 14 00}Noh siis,{01 00 00 05 00} ma ootan sind\npoes!{01 00 00 05 00}\nTule läbi!"
+   "et": "Pole muret! {01 00 00 05 00}Pole muret, ah?{01 00 00 14 00}\n{07 19 00}Kui tahad teada, kuidas\nraha teenida, ma räägin!\n{07 00 00}Jah, tegelikult VÕIKSIN ma\nseda sulle selgitada, aga...\n\n{07 14 00}Parem on õppida\nelades kui\nkuulates, jah?\n{07 00 00}Miks sa ei tuleks minu\npoodi osalise ajaga tööle,\nah?\nSa teenid veidi raha ja{01 00 00 05 00}\nõpid linnaelu tundma!{01 00 00 05 00}\n{07 0b 00}Kaks kärbest ühe hoobiga?\n{07 19 00}Jah, jah!{01 00 00 0a 00} Milline hea mõte!\nLausa suurepärane!{01 00 00 05 00} Jah!{01 00 00 14 00}\n{07 00 00}See on ametlik!{01 00 00 0f 00}\nMiks sa ei astuks siis\nvarsti poest läbi,\nah? \nKui sa ei tea, kus pood\non, siis vaata oma\n{ff 00 00 07}kaarti{ff 00 00 00}. {01 00 00 05 00}Lihtne, jah?\n{07 14 00}Noh siis,{01 00 00 05 00} ma ootan sind\npoes!{01 00 00 05 00}\nTule läbi!"
   },
   {
    "id": 27,

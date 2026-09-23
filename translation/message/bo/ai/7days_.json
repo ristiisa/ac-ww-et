@@ -4,7 +4,7 @@
   {
    "id": 0,
    "en": "{07 04 00}{0b 03 00}{01 06 00}Whoa{01 07 00}! {01 00 00 0a 00}\nHow many weeks has it\nbeen?{01 00 00 0a 00} {04 11 00}? We missed you!\n{07 15 00}I've been really focused{01 00 00 0a 00}\nand super productive\nlately{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 17 00}Well, maybe not SUPER\nproductive exactly{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}. {01 00 00 0a 00}\n\nA huh huh huh! {01 00 00 0a 00}OK,{01 00 00 0a 00} I've\nreally just been playing\nvideo games, {04 02 00}!",
-   "et": "{07 04 00}{0b 03 00}{01 06 00}Ohoo{01 07 00}! {01 00 00 0a 00}\nMitu nädalat on möödas?{01 00 00 0a 00}\n{04 11 00}? Me igatsesime sind!\n{07 15 00}Olen viimasel ajal väga\nkeskendunud{01 00 00 0a 00} ja ülimalt\nproduktiivne olnud{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 17 00}Noh, ehk mitte just ÜLIMALT\nproduktiivne{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}. {01 00 00 0a 00}\n\nAh hah hah haa! {01 00 00 0a 00}Olgu,{01 00 00 0a 00} ma\nolen tegelikult lihtsalt\nvideomänge mänginud, {04 02 00}!"
+   "et": "{07 04 00}{0b 03 00}{01 06 00}Ohoo{01 07 00}! {01 00 00 0a 00}\nMitu nädalat on möödas?{01 00 00 0a 00}\n{04 11 00}? Me igatsesime\nsind! {07 15 00}Olen viimasel ajal\nväga keskendunud{01 00 00 0a 00} ja ülimalt\nproduktiivne olnud{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 17 00}Noh, ehk mitte just ÜLIMALT\nproduktiivne{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}. {01 00 00 0a 00}\n\nAh hah hah haa! {01 00 00 0a 00}Olgu,{01 00 00 0a 00} ma\nolen tegelikult lihtsalt\nvideomänge mänginud, {04 02 00}!"
   },
   {
    "id": 1,
@@ -29,7 +29,7 @@
   {
    "id": 5,
    "en": "{07 00 00}How many weeks has it been\nsince we last saw each\nother? {01 00 00 14 00}{04 11 00}? Way too long!\n{01 00 00 0a 00}{07 1b 00}{01 00 00 05 00}You haven't changed a bit!\n{07 16 00}People have been telling me\nthat I've grown a lot,\nbut{01 00 00 0a 00} for you, time seems to\nstand still{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 06 00}It's kind of creepy, really...",
-   "et": "{07 00 00}Mitu nädalat on möödas,\nkui teineteist viimati\nnägime? {01 00 00 14 00}{04 11 00}? Liiga kaua!\n{01 00 00 0a 00}{07 1b 00}{01 00 00 05 00}Sa pole karvavõrdki muutunud!\n{07 16 00}Mulle öeldakse, et olen\npalju kasvanud,\naga{01 00 00 0a 00} sinu jaoks paistab aeg\nseisvat{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 06 00}See on päris jube, tõesti..."
+   "et": "{07 00 00}Mitu nädalat on möödas,\nkui teineteist viimati\nnägime? {01 00 00 14 00}{04 11 00}? Liiga\nkaua! {01 00 00 0a 00}{07 1b 00}{01 00 00 05 00}Sa pole karvavõrdki\nmuutunud! {07 16 00}Mulle öeldakse, et\nolen palju kasvanud,\naga{01 00 00 0a 00} sinu jaoks paistab aeg\nseisvat{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 06 00}See on päris jube, tõesti..."
   }
  ]
 }

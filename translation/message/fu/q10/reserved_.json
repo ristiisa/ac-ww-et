@@ -4,17 +4,17 @@
   {
    "id": 0,
    "en": "{07 00 00}So that's...{01 00 00 05 00}{04 10 00}:{04 11 00} on the\n{04 0f 00}! Got it!{01 01 00} {07 0d 00}I'm going to\ngo get ready!{01 00 00 05 00} Yay!",
-   "et": "{07 00 00}Nii et...{01 00 00 05 00}{04 10 00}:{04 11 00} kuupäeval\n{04 0f 00}! Selge!{01 01 00} {07 0d 00}Ma lähen\nvalmistun!{01 00 00 05 00} Juhhei!"
+   "et": "{07 00 00}Nii et...{01 00 00 05 00}{04 10 00}:{04 11 00}\nkuupäeval {04 0f 00}! Selge!{01 01 00} {07 0d 00}\nMa lähen valmistun!{01 00 00 05 00} Juhhei!"
   },
   {
    "id": 1,
    "en": "{07 14 00}{01 00 00 0a 00}{04 10 00}:{04 11 00}! And we're talking\nthe {04 0f 00}, right? Right!{01 00 00 0a 00}\n{07 0d 00}I can't wait, {01 00 00 05 00}{04 02 00}!",
-   "et": "{07 14 00}{01 00 00 0a 00}{04 10 00}:{04 11 00}! Ja me räägime\n{04 0f 00}-st, eks? Just!{01 00 00 0a 00}\n{07 0d 00}Ma ei jõua oodata, {01 00 00 05 00}{04 02 00}!"
+   "et": "{07 14 00}{01 00 00 0a 00}{04 10 00}:{04 11 00}! Ja me räägime\n{04 0f 00}-st, eks? Just!{01 00 00 0a 00} Ma\n{07 0d 00}ei jõua oodata, {01 00 00 05 00}{04 02 00}!"
   },
   {
    "id": 2,
    "en": "{07 00 00}OK, it's a date!{01 01 00} {07 14 00}Time?\n{04 10 00}:{04 11 00}! Date? The {04 0f 00}!\n\nYou wouldn't stand me up,\nwould you, {01 00 00 05 00}{04 02 00}?\nPromise me you'll be there!",
-   "et": "{07 00 00}Olgu, kokku lepitud!{01 01 00} {07 14 00}Aeg?\n{04 10 00}:{04 11 00}! Kuupäev? {04 0f 00}!\n\nSa ei jätaks mind ootama,\nega, {01 00 00 05 00}{04 02 00}?\nLuba, et sa oled kohal!"
+   "et": "{07 00 00}Olgu, kokku lepitud!{01 01 00} {07 14 00}Aeg?\n{04 10 00}:{04 11 00}! Kuupäev?\n{04 0f 00}!\nSa ei jätaks mind ootama,\nega, {01 00 00 05 00}{04 02 00}?\nLuba, et sa oled kohal!"
   }
  ]
 }

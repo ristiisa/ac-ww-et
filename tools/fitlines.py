@@ -192,8 +192,8 @@ def main(paths):
             # never accept a rewrap that makes some line even wider
             if bad(after) < bad(before) and max(after) <= max(before):
                 e['et'] = cand
-        json.dump(d, open(p, 'w', encoding='utf-8'), ensure_ascii=False, indent=1)
-        open(p, 'a').write('\n')
+        json.dump(d, open(p, 'w', encoding='utf-8', newline='\n'), ensure_ascii=False, indent=1)
+        open(p, 'a', encoding='utf-8', newline='\n').write('\n')
 
 
 if __name__ == '__main__':

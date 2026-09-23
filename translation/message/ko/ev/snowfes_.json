@@ -59,7 +59,7 @@
   {
    "id": 11,
    "en": "{07 0c 00}Hey, {04 1f 00}!{01 00 00 0f 00}\nI did it, {01 00 00 05 00}{04 02 00}!\n\n{07 0d 00}I just won{01 00 00 0f 00} the\n{ff 00 00 03}Bright Nights{ff 00 00 00} contest!\nAhhh, SWEET VICTORY!\n{07 0e 00}So, should I have lobster\nor coelacanth tonight{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.?\n\n{07 14 00}Or both?! I'm gonna go nuts\ntonight, {01 00 00 05 00}{04 02 00}!{01 01 00}\n{07 03 00}Muwahahahahaha!",
-   "et": "{07 0c 00}Hei, {04 1f 00}!{01 00 00 0f 00}\nMa tegin ära, {01 00 00 05 00}{04 02 00}!\n\n{07 0d 00}Ma just võitsin{01 00 00 0f 00}\n{ff 00 00 03}valgusööde{ff 00 00 00} võistluse!\nAhhh, MAGUS VÕIT!\n{07 0e 00}Nii, kas ma peaksin täna\nsööma homaari või latimeeriat{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.?\n\n{07 14 00}Või mõlemat?! Ma lähen täna\nöösel hulluks, {01 00 00 05 00}{04 02 00}!{01 01 00}\n{07 03 00}Muvahahahahaa!"
+   "et": "{07 0c 00}Hei, {04 1f 00}!{01 00 00 0f 00}\nMa tegin ära, {01 00 00 05 00}{04 02 00}!\n\n{07 0d 00}Ma just võitsin{01 00 00 0f 00}\n{ff 00 00 03}valgusööde{ff 00 00 00} võistluse!\nAhhh, MAGUS VÕIT!\n{07 0e 00}Nii, kas ma peaksin täna\nsööma homaari või\nlatimeeriat{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.?\n{07 14 00}Või mõlemat?! Ma lähen täna\nöösel hulluks, {01 00 00 05 00}{04 02 00}!{01 01 00}\n{07 03 00}Muvahahahahaa!"
   },
   {
    "id": 12,

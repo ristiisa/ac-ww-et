@@ -1,0 +1,13 @@
+# The translation files are the deliverable: keep them byte-identical across
+# platforms. Without this, a Windows checkout with core.autocrlf=true rewrites
+# every .json and the diffs become useless.
+*.json  text eol=lf
+*.py    text eol=lf
+*.md    text eol=lf
+
+# ROMs and extracted game data are binary.
+*.nds   binary
+*.bin   binary
+*.bmg   binary
+*.narc  binary
+*.png   binary

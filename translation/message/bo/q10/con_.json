@@ -9,12 +9,12 @@
   {
    "id": 1,
    "en": "{07 00 00}The {04 0f 00} at {04 10 00}:{04 11 00}. I've\ngot it.{01 01 00} {07 14 00}Huh huh huh!{01 00 00 0a 00} I can't\nwait!\n{07 14 00}Now, you better not miss it{01 00 00 05 00}\nwhen I knock at your door!",
-   "et": "{07 00 00}{04 0f 00} kell {04 10 00}:{04 11 00}. Sain\naru.{01 01 00} {07 14 00}Hah hah haa!{01 00 00 0a 00} Ootan\njuba!\n{07 14 00}Aga vaata, et sa ei maga{01 00 00 05 00}\nmaha, kui koputan!"
+   "et": "{07 00 00}{04 0f 00} kell {04 10 00}\n:{04 11 00} . Sain aru.{01 01 00} {07 14 00}Hah\nhah haa!{01 00 00 0a 00} Ootan juba!\n{07 14 00}Aga vaata, et sa ei maga{01 00 00 05 00}\nmaha, kui koputan!"
   },
   {
    "id": 2,
    "en": "{07 16 00}Umm, OK. So, on the {01 00 00 05 00}{04 0f 00}\nat {04 10 00}:{04 11 00}!{01 01 00} {07 00 00}Don't forget,\n{01 00 00 0a 00}{04 02 00}!\nMake sure to be where you\ncan hear me knocking at \nyour door!",
-   "et": "{07 16 00}Ee, olgu. Nii et {01 00 00 05 00}{04 0f 00}\nkell {04 10 00}:{04 11 00}!{01 01 00} {07 00 00}Ära unusta,\n{01 00 00 0a 00}{04 02 00}!\nOle kindlasti seal, kus\nkuuled mind uksele\nkoputamas!"
+   "et": "{07 16 00}Ee, olgu. Nii et {01 00 00 05 00}{04 0f 00}\nkell {04 10 00}:{04 11 00}!{01 01 00} {07 00 00}Ära\n{01 00 00 0a 00}unusta, {04 02 00}!\nOle kindlasti seal, kus\nkuuled mind uksele\nkoputamas!"
   }
  ]
 }

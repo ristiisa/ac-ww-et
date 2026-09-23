@@ -36,7 +36,7 @@ def fill():
                 filled += 1
                 changed = True
         if changed:
-            with open(p, 'w', encoding='utf-8') as f:
+            with open(p, 'w', encoding='utf-8', newline='\n') as f:
                 json.dump(doc, f, ensure_ascii=False, indent=1)
                 f.write('\n')
     print(f'filled {filled} repeated lines from {len(known)} known translations')

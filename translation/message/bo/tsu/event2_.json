@@ -29,7 +29,7 @@
   {
    "id": 5,
    "en": "{07 14 00}I'm{01 00 00 0a 00} sooo looking forward{01 00 00 0a 00} to\nSaturday's {ff 00 00 03}Fireworks Show{ff 00 00 00}!\n\n{07 13 00}{01 00 00 0a 00}Fireworks shot off{01 00 00 0a 00} by a\ngrim, sweaty, old guy{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\nIt'll be a blast!",
-   "et": "{07 14 00}Ma{01 00 00 0a 00} ootan nii väga{01 00 00 0a 00}\nlaupäevast {ff 00 00 03}ilutulestikushow'd{ff 00 00 00}!\n\n{07 13 00}{01 00 00 0a 00}Ilutulestik,{01 00 00 0a 00} mille laseb\nmorn higine vanamees{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\nSee tuleb võimas!"
+   "et": "{07 14 00}Ma{01 00 00 0a 00} ootan nii väga{01 00 00 0a 00}\nlaupäevast\n{ff 00 00 03}ilutulestikushow'd{ff 00 00 00}!\n{07 13 00}{01 00 00 0a 00}Ilutulestik,{01 00 00 0a 00} mille laseb\nmorn higine vanamees{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\nSee tuleb võimas!"
   },
   {
    "id": 6,
@@ -44,12 +44,12 @@
   {
    "id": 8,
    "en": "{07 01 00}{01 08 00}BOOM!{01 00 00 05 00} BOOM!{01 00 00 05 00} KA-BOOM!{01 01 00} {07 00 00}Huh\nhuh huh.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00} How do you like\nmy fireworks impression?\n{07 14 00}I just can't wait for\nSaturday's {ff 00 00 03}Fireworks Show{ff 00 00 00},\n{01 00 00 0a 00}{04 02 00}!",
-   "et": "{07 01 00}{01 08 00}PAUH!{01 00 00 05 00} PAUH!{01 00 00 05 00} KA-PAUH!{01 01 00} {07 00 00}Hah\nhah haa.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00} Kuidas meeldib minu\nilutulestiku-jäljendus?\n{07 14 00}Ma ei jõua ära oodata\nlaupäevast {ff 00 00 03}ilutulestikushow'd{ff 00 00 00},\n{01 00 00 0a 00}{04 02 00}!"
+   "et": "{07 01 00}{01 08 00}PAUH!{01 00 00 05 00} PAUH!{01 00 00 05 00} KA-PAUH!{01 01 00} {07 00 00}Hah\nhah haa.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 0a 00} Kuidas meeldib mu\nilutulestiku-jäljendus?\n{07 14 00}Ma ei jõua ära oodata\nlaupäevast {ff 00 00 03}ilutulestikku{ff 00 00 00},\n{01 00 00 0a 00}{04 02 00}!"
   },
   {
    "id": 9,
    "en": "{07 14 00}I can't believe I finally get\nto see the {ff 00 00 03}Fireworks Show\n{ff 00 00 00}tomorrow! I'm so psyched!\n{07 0a 00}My heart is bursting with\nexcitement, just like a\nfirework,{01 00 00 0a 00} {04 02 00}!",
-   "et": "{07 14 00}Ma ei usu, et saan lõpuks\nhomme näha {ff 00 00 03}ilutulestikushow'd\n{ff 00 00 00}! Olen nii elevil!\n{07 0a 00}Mu süda lõhkeb elevusest,\ntäpselt nagu\nrakett,{01 00 00 0a 00} {04 02 00}!"
+   "et": "{07 14 00}Ma ei usu, et saan lõpuks\nhomme näha {ff 00 00 03}\nilutulestikushow'd {ff 00 00 00}! Olen nii\nelevil! {07 0a 00}Mu süda lõhkeb\nelevusest, täpselt nagu\nrakett,{01 00 00 0a 00} {04 02 00}!"
   },
   {
    "id": 10,

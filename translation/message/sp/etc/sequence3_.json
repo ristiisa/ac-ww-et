@@ -4,7 +4,7 @@
   {
    "id": 0,
    "en": "Welcome aboard!\n\n\n{07 00 00}Clear somethin' up fer me,\nwould ye? {01 00 00 05 00}Today be{01 00 00 05 00}\n{04 05 00} {04 06 00}, {04 04 00}...\nAnd the time o' day be\n{04 10 00}:{04 09 00} {04 0f 00}, right?{02 00 00 05 01}\nYup!\nNo.",
-   "et": "Tere tulemast pardale!\n\n\n{07 00 00}Aita mul üks asi selgeks\nteha, jah? {01 00 00 05 00}Täna om{01 00 00 05 00}\n{04 05 00} {04 06 00}, {04 04 00}...\nJa kell om nüid\n{04 10 00}:{04 09 00} {04 0f 00}, eks?{02 00 00 05 01}\nJah!\nEi."
+   "et": "Tere tulemast pardale!\n\n\n{07 00 00}Aita mul üks asi selgeks\nteha, jah? {01 00 00 05 00}Täna om{01 00 00 05 00}\n{04 05 00} {04 06 00}, {04 04 00}\n... Ja kell om nüid\n{04 10 00}:{04 09 00} {04 0f 00}, eks?{02 00 00 05 01}\nJah!\nEi."
   },
   {
    "id": 1,
@@ -19,7 +19,7 @@
   {
    "id": 3,
    "en": "{07 32 00}Yar har! {01 00 00 05 00}Sorry about that.{01 00 00 05 00}\nThe clock on this car be{01 00 00 0a 00} a\nlittle off, ye see.\n{07 00 00}Jumpin' jellyfishes{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}\nI've had about enough of\nthis here rain!{02 00 00 06 07}\nMe, too.\nI like it!",
-   "et": "{07 32 00}Jarr-harr! {01 00 00 05 00}Vabandust.{01 00 00 05 00}\nSelle auto kell käib{01 00 00 0a 00} natukene\nviltu, näe.\n{07 00 00}Hüppavad meduusid{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}\nMul om sellest vihmast\njuba villand!{02 00 00 06 07}\nMul ka.\nMulle meeldib!"
+   "et": "{07 32 00}Jarr-harr! {01 00 00 05 00}Vabandust.{01 00 00 05 00}\nSelle auto kell käib{01 00 00 0a 00}\nnatukene viltu, näe.\n{07 00 00}Hüppavad meduusid{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}\nMul om sellest vihmast\njuba villand!{02 00 00 06 07}\nMul ka.\nMulle meeldib!"
   },
   {
    "id": 4,
@@ -139,7 +139,7 @@
   {
    "id": 27,
    "en": "{07 31 00}Watch yer tongue, ye slug!{01 00 00 0f 00}\nI were on the briny, true,{01 00 00 05 00}\nbut I ain't some sea rube!\nYe know, most big-city folk\n{07 32 00}started out in small towns.\nYe'd be surprised{01 00 00 05 00}.{01 00 00 03 00}.{01 00 00 03 00}.",
-   "et": "{07 31 00}Hoia keelt, sa nälkjas!{01 00 00 0f 00}\nOlin küll merel, tösi,{01 00 00 05 00}\naga mingi meremats ma pole!\nTead, enamik suurlinlasi\n{07 32 00}alustas väikelinnades.\nSa imestaksid{01 00 00 05 00}.{01 00 00 03 00}.{01 00 00 03 00}."
+   "et": "{07 31 00}Hoia keelt, sa nälkjas!{01 00 00 0f 00}\nOlin küll merel, tösi,{01 00 00 05 00} aga\nmingi meremats ma pole!\nTead, enamik suurlinlasi\n{07 32 00}alustas väikelinnades.\nSa imestaksid{01 00 00 05 00}.{01 00 00 03 00}.{01 00 00 03 00}."
   },
   {
    "id": 28,
@@ -194,7 +194,7 @@
   {
    "id": 38,
    "en": "{07 00 00}{01 0b 00}.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}Well,{01 00 00 05 00} would ye look there!{01 00 00 0f 00}\nWe're almost at yer town!\n{0b 03 00}{04 03 00}, ho!\nWell, me dear {04 00 00}...\nI know it's heartbreakin',\nbut{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.\n{07 31 00}Nar,{01 00 00 05 00} nar, nar!{01 00 00 0a 00} NAR, says I!{01 00 00 05 00}\nI won't say farewell!{01 00 00 05 00}\n'Tis too painful!\n{07 00 00}Nar.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 0f 00} At least the rain is\nlettin' up...{01 00 00 05 00}though a storm\nbe ragin' in me eyes...",
-   "et": "{07 00 00}{01 0b 00}.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}Noh,{01 00 00 05 00} vaata aga seda!{01 00 00 0f 00}\nOleme peaaegu su linnas!\n{0b 03 00}{04 03 00}, ohoi!\nNoh, mu kallis {04 00 00}...\nTean, see murrab südame,\naga{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.\n{07 31 00}Ei,{01 00 00 05 00} ei, ei!{01 00 00 0a 00} EI, ütlen ma!{01 00 00 05 00}\nMa ei jäta hüvasti!{01 00 00 05 00}\nSee om liiga valus!\n{07 00 00}Ei.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 0f 00} Vähemalt vihm\nhakkab vaibuma...{01 00 00 05 00}kuigi mu silmis\nmöllab torm..."
+   "et": "{07 00 00}{01 0b 00}.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}Noh,{01 00 00 05 00} vaata aga seda!{01 00 00 0f 00}\nOleme peaaegu su linnas!\n{0b 03 00}{04 03 00}, ohoi!\nNoh, mu kallis {04 00 00}...\nTean, see murrab südame,\naga{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.\n{07 31 00}Ei,{01 00 00 05 00} ei, ei!{01 00 00 0a 00} EI, ütlen ma!{01 00 00 05 00}\nMa ei jäta hüvasti!{01 00 00 05 00}\nSee om liiga valus!\n{07 00 00}Ei.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 0f 00} Vähemalt vihm\nhakkab vaibuma...{01 00 00 05 00}kuigi mu\nsilmis möllab torm..."
   },
   {
    "id": 39,
@@ -209,7 +209,7 @@
   {
    "id": 41,
    "en": "{07 31 00}Yo ho!{01 01 00} {07 00 00}You mightn't believe\nyer ears, but I know a wee\nminnow by that name.\n{07 32 00}Yar har har! {01 00 00 14 00}That lubber's\na bit o' a squid-brain, if\nye catch me drift...\n{07 00 00}But{01 00 00 0f 00} that's none o' yer\nproblem, no.{01 00 00 03 00}.{01 00 00 03 00}.\n\nIt'd get confusin', though, \nso would ye mind terribly\n{07 30 00}choosin' another name?",
-   "et": "{07 31 00}Jo-ho!{01 01 00} {07 00 00}Sa ei usu oma\nkörvu, aga tean üht kilu\njust sellise nimega.\n{07 32 00}Jarr harr harr! {01 00 00 14 00}See tüüp\nom natukene kalmaariaju, kui\nsa aru saa...\n{07 00 00}Aga{01 00 00 0f 00} see pole sinu\nmure, ei.{01 00 00 03 00}.{01 00 00 03 00}.\n\nSee ajaks aga segadusse,\nnii et ehk oleksid nii kena\n{07 30 00}ja valiksid teise nime?"
+   "et": "{07 31 00}Jo-ho!{01 01 00} {07 00 00}Sa ei usu oma\nkörvu, aga tean üht kilu\njust sellise nimega.\n{07 32 00}Jarr harr harr! {01 00 00 14 00}See tüüp\nom natukene kalmaariaju,\nkui sa aru saa...\n{07 00 00}Aga{01 00 00 0f 00} see pole sinu\nmure, ei.{01 00 00 03 00}.{01 00 00 03 00}.\n\nSee ajaks aga segadusse,\nnii et ehk oleksid nii kena\n{07 30 00}ja valiksid teise nime?"
   },
   {
    "id": 43,

@@ -49,7 +49,7 @@
   {
    "id": 9,
    "en": "{07 14 00}Question, {01 00 00 05 00}{04 1f 00}!{01 00 00 0f 00}\nSay I take some tasty\n{04 12 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\nand I pour it over fresh,\nyummy {04 14 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n{07 0b 00}How would it taste?{05 05 00 05 28 05 29 01 29 05 2a}\nSo good!\nAwful!",
-   "et": "{07 14 00}Küsimus, {01 00 00 05 00}{04 1f 00}!{01 00 00 0f 00}\nOletame, et võtan maitsvat\n{04 12 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\nja valan selle värskele,\nmaitsvale toidule nimega {04 14 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}\n{07 0b 00}Kuidas see maitseks?{05 05 00 05 28 05 29 01 29 05 2a}\nNii hea!\nKohutav!"
+   "et": "{07 14 00}Küsimus, {01 00 00 05 00}{04 1f 00}!{01 00 00 0f 00}\nOletame, et võtan maitsvat\n{04 12 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\nja valan selle värskele,\nmaitsvale toidule\nnimega{04 14 00}{01 00 00 05 00} .{01 00 00 05 00} .{01 00 00 05 00} .{01 00 00 05 00} {07 0b 00}Kuidas\nsee maitseks?{05 05 00 05 28 05 29 01 29 05 2a} Nii hea!\nKohutav!"
   },
   {
    "id": 10,
@@ -179,7 +179,7 @@
   {
    "id": 35,
    "en": "{07 0b 00}You haven't been getting\nenough sleep, have you?\n\n{07 15 00}And you've been doing\ntoo much {04 10 00}\nwith {04 0d 00}, huh?!",
-   "et": "{07 0b 00}Sa pole piisavalt\nmaganud, eks?\n\n{07 15 00}Ja sa oled liiga palju\nteinud {04 10 00}\nkoos tüübiga nimega {04 0d 00}, mis?!"
+   "et": "{07 0b 00}Sa pole piisavalt\nmaganud, eks?\n\n{07 15 00}Ja sa oled liiga palju\nteinud {04 10 00} koos\n{04 0d 00}-ga, mis?!"
   },
   {
    "id": 36,
@@ -189,7 +189,7 @@
   {
    "id": 37,
    "en": "What does that even MEAN?{01 00 00 05 00}\nHow do I do half a push-up?{01 00 00 05 00}\nBend my arms and {07 0b 00}STOP?!\n{07 06 00}That's against the laws of\nphysics or something! {01 00 00 05 00}Your\narms might implode!\n{07 15 00}I'd report you to the\nNational Push-Up Board if\nthere was one, {01 00 00 05 00}{04 02 00}!",
-   "et": "Mida see üldse TÄHENDAB?{01 00 00 05 00}\nKuidas teha poolikut\nkõverdust?{01 00 00 05 00} Painutan käed ja {07 0b 00}PEATUN?!\n{07 06 00}See on füüsikaseaduste\nvastu või midagi! {01 00 00 05 00}Su käed\nvõivad sisse kukkuda!\n{07 15 00}Ma kaebaksin su Riiklikule\nKätekõverduste Nõukogule,\nkui see oleks, {01 00 00 05 00}{04 02 00}!"
+   "et": "Mida see üldse TÄHENDAB?{01 00 00 05 00}\nKuidas teha poolikut\nkõverdust?{01 00 00 05 00} Painutan, {07 0b 00}SEIS?!\n{07 06 00}See on füüsikaseaduste\nvastu või midagi! {01 00 00 05 00}Su käed\nvõivad sisse kukkuda!\n{07 15 00}Ma kaebaksin su Riiklikule\nKätekõverduste Nõukogule,\nkui see oleks, {01 00 00 05 00}{04 02 00}!"
   },
   {
    "id": 38,
@@ -214,7 +214,7 @@
   {
    "id": 42,
    "en": "{07 18 00}Whoa, seriously?!{01 00 00 14 00}\n{07 16 00}Man, I was KIDDING!\n\n{07 04 00}What?{01 00 00 0a 00} You've actually tried\nit and{01 00 00 05 00}{07 0b 00} it tasted good AND\ncleared up your pimples?!\n{07 16 00}Whoa, who would've figured\nthat{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{01 00 00 05 00}{04 02 00}.",
-   "et": "{07 18 00}Ohoo, tõsiselt?!{01 00 00 14 00}\n{07 16 00}Mees, ma tegin NALJA!\n\n{07 04 00}Mida?{01 00 00 0a 00} Sa oled seda päriselt\nproovinud ja{01 00 00 05 00}{07 0b 00} see maitses hästi\nJA ravis su vistrikud ära?!\n{07 16 00}Ohoo, kes oleks arvanud\nseda{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{01 00 00 05 00}{04 02 00}."
+   "et": "{07 18 00}Ohoo, tõsiselt?!{01 00 00 14 00}\n{07 16 00}Mees, ma tegin NALJA!\n\n{07 04 00}Mida?{01 00 00 0a 00} Sa oled seda päriselt\nproovinud ja{01 00 00 05 00}{07 0b 00} see maitses\nhästi JA ravis su vistrikud\nära?! {07 16 00}Ohoo, kes oleks\narvanud seda{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{01 00 00 05 00}{04 02 00}."
   },
   {
    "id": 43,
@@ -274,7 +274,7 @@
   {
    "id": 54,
    "en": "{07 01 00}That's not gonna win you\nany awards!{01 00 00 0f 00} {07 16 00}Have I taught\nyou nothing?!\n{07 00 00}First, push-ups!{01 00 00 05 00} Second,\nsit-ups!{01 00 00 05 00} Then ab-crushers!{01 00 00 05 00}\nThen pectoral-bombs!\nFifth, lateral-squats!{01 00 00 05 00}\n{07 15 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}Got all that?\n\n{07 19 00}Forget all that personality\nstuff! {01 00 00 05 00}You gotta be defined\nby muscles, {01 00 00 05 00}{ff 00 00 05}{04 1f 00}{ff 00 00 00}!",
-   "et": "{07 01 00}See ei võida sulle\nühtegi auhinda!{01 00 00 0f 00} {07 16 00}Kas ma pole\nsulle midagi õpetanud?!\n{07 00 00}Esiteks, kätekõverdused!{01 00 00 05 00}\nTeiseks, kõhutõsted!{01 00 00 05 00} Siis press!{01 00 00 05 00}\nSiis rinnapommid!\nViiendaks, külgkükid!{01 00 00 05 00}\n{07 15 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}Said kõik kätte?\n\n{07 19 00}Unusta kogu see isiksuse\nvärk! {01 00 00 05 00}Sind peavad määrama\nlihased, {01 00 00 05 00}{ff 00 00 05}{04 1f 00}{ff 00 00 00}!"
+   "et": "{07 01 00}See ei võida sulle\nühtegi auhinda!{01 00 00 0f 00} {07 16 00}Kas ma pole\nsulle midagi õpetanud?!\n{07 00 00}Esiteks, kätekõverdused!{01 00 00 05 00}\nTeiseks, kõhutõsted!{01 00 00 05 00} Siis\npress!{01 00 00 05 00} Siis rinnapommid!\nViiendaks, külgkükid!{01 00 00 05 00}\n{07 15 00}{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}Said kõik kätte?\n\n{07 19 00}Unusta kogu see isiksuse\nvärk! {01 00 00 05 00}Sind peavad määrama\nlihased, {01 00 00 05 00}{ff 00 00 05}{04 1f 00}{ff 00 00 00}!"
   },
   {
    "id": 55,
@@ -284,7 +284,7 @@
   {
    "id": 56,
    "en": "{07 15 00}Man, my calves clenched up\nyesterday and they STILL\naren't right, {01 00 00 05 00}{04 02 00}!\n{07 06 00}I can't BEAR to miss any\nworkouts 'cause of this!{01 01 00}\n{07 17 00}Get it?",
-   "et": "{07 15 00}Mees, mu säärelihased\ntõmbusid eile krampi ja pole\nIKKA korras, {01 00 00 05 00}{04 02 00}!\n{07 06 00}Ma EI TALU, et pean selle\npärast trenne vahele jätma!{01 01 00}\n{07 17 00}Saad aru?"
+   "et": "{07 15 00}Mees, mu säärelihased\ntõmbusid eile krampi ja\npole IKKA korras, {01 00 00 05 00}{04 02 00}!\n{07 06 00}Ma EI TALU, et pean selle\npärast trenne vahele jätma!{01 01 00}\n{07 17 00}Saad aru?"
   },
   {
    "id": 57,
@@ -294,7 +294,7 @@
   {
    "id": 58,
    "en": "{07 01 00}At first I was mad because\nI thought NO ONE looked as\ngood as me in a leotard{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 06 00}But now, instead of being\njealous, I'm worried that I\ndreamed the whole thing!",
-   "et": "{07 01 00}Alguses olin ma vihane,\nsest arvasin, et KEEGI ei näe\ntrikoos nii hea välja kui mina{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 06 00}Aga nüüd, kadeduse asemel,\nmuretsen ma, et nägin kogu\nseda asja unes!"
+   "et": "{07 01 00}Alguses olin ma vihane, sest\narvasin, et KEEGI ei näe\ntrikoos nii hea kui mina{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.\n{07 06 00}Aga nüüd, kadeduse asemel,\nmuretsen ma, et nägin kogu\nseda asja unes!"
   },
   {
    "id": 59,

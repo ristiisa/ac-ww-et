@@ -4,7 +4,7 @@
   {
    "id": 0,
    "en": "{07 14 00}{0b 03 00}{01 06 00}Howdy{01 07 00}!{01 00 00 0f 00}\n{0b 03 00}{04 1f 00}! I've got a quiz\nfor you, {01 00 00 05 00}{04 02 00}!\n{07 00 00}If I were a film star, {07 0b 00}what\nsorts of films do you think\nI'd star in, {01 00 00 05 00}{04 02 00}?{05 05 00 03 03 08 04 03 05 02 06}\nAction!\nRomantic comedy!",
-   "et": "{07 14 00}{0b 03 00}{01 06 00}Terekest{01 07 00}!{01 00 00 0f 00}\n{0b 03 00}{04 1f 00}! Mul on sulle\nviktoriin, {01 00 00 05 00}{04 02 00}!\n{07 00 00}Kui ma oleksin filmitäht,{07 0b 00}\nmillist sorti filmides ma\nsinu arust mängiksin, {01 00 00 05 00}{04 02 00}?{05 05 00 03 03 08 04 03 05 02 06}\nMärulis!\nRomantilises komöödias!"
+   "et": "{07 14 00}{0b 03 00}{01 06 00}Terekest{01 07 00}!{01 00 00 0f 00}\n{0b 03 00}{04 1f 00}! Mul on sulle\nviktoriin, {01 00 00 05 00}{04 02 00}!\n{07 00 00}Kui ma oleksin filmitäht,{07 0b 00}\nmillist sorti filmides ma\nsinu arust mängiksin,\n{01 00 00 05 00}{04 02 00} ?{05 05 00 03 03 08 04 03 05 02 06} Märulis!\nRomantilises komöödias!"
   },
   {
    "id": 1,
@@ -24,7 +24,7 @@
   {
    "id": 4,
    "en": "{07 02 00}Wow! That's very astute of\nyou, {01 00 00 05 00}{04 02 00}! I think I'd\nmake a good action star.\nAnd I am into action\nmovies. But then again,\nisn't everyone, {01 00 00 05 00}{04 02 00}?\n{07 14 00}For giving me such a good\nanswer, I've got a fabulous\ngift for you, {04 1f 00}!",
-   "et": "{07 02 00}Vau! See on sinust väga\ntaiplik, {01 00 00 05 00}{04 02 00}! Ma arvan,\net sobiksin märulitäheks.\nJa mulle meeldivad\nmärulifilmid. Aga jälle,\nkas kõigile ei meeldi, {01 00 00 05 00}{04 02 00}?\n{07 14 00}Nii hea vastuse eest on\nmul sulle vapustav\nkingitus, {04 1f 00}!"
+   "et": "{07 02 00}Vau! See on sinust väga\ntaiplik, {01 00 00 05 00}{04 02 00}! Ma arvan,\net sobiksin märulitäheks.\nJa mulle meeldivad\nmärulifilmid. Aga jälle,\nkas kõigile ei\nmeeldi,{01 00 00 05 00}{04 02 00} ? {07 14 00}Nii hea\nvastuse eest on mul sulle\nvapustav kingitus, {04 1f 00}!"
   },
   {
    "id": 5,

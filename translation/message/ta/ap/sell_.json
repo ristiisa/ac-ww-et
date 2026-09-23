@@ -9,7 +9,7 @@
   {
    "id": 1,
    "en": "{07 00 00}Hey, {01 00 00 05 00}{04 1f 00}.{01 00 00 0a 00} {07 14 00}Do you\nhave any interest in my{01 00 00 0a 00}\n{0b 02 00}{04 1c 00}?\n{07 0b 00}How about for {04 11 00} Bells?{01 00 00 14 00}\n{07 00 00}It's a steal at that price,\n{01 00 00 0a 00}{04 02 00}!{02 00 00 17 18}\nI'm in!\nNo thanks.",
-   "et": "{07 00 00}Hei, {01 00 00 05 00}{04 1f 00}.{01 00 00 0a 00} {07 14 00}Kas sind\nhuvitab mu{01 00 00 0a 00}\n{0b 02 00}{04 1c 00}?\n{07 0b 00}Kuidas oleks {04 11 00} kella\neest?{01 00 00 14 00} {07 00 00}Selle hinnaga on see\nju sama hea kui tasuta, {01 00 00 0a 00}{04 02 00}!{02 00 00 17 18}\nOlen nõus!\nEi, aitäh."
+   "et": "{07 00 00}Hei, {01 00 00 05 00}{04 1f 00}.{01 00 00 0a 00} {07 14 00}Kas sind\nhuvitab mu{01 00 00 0a 00}\n{0b 02 00}{04 1c 00}?\n{07 0b 00}Kuidas oleks {04 11 00} kella\neest?{01 00 00 14 00} {07 00 00}Selle hinnaga on see\nju pea tasuta, {01 00 00 0a 00}{04 02 00}!{02 00 00 17 18}\nOlen nõus!\nEi, aitäh."
   },
   {
    "id": 2,
@@ -34,7 +34,7 @@
   {
    "id": 6,
    "en": "{07 1b 00}Well, {01 00 00 0a 00}believe it or not, I'd\nactually feel bad if I took\nall that from you.\n{07 14 00}So how about{01 00 00 0a 00} {04 11 00} Bells?{01 00 00 0a 00}\nThat seems like a fair\nprice to me.{02 00 00 11 12}\nDeal!\nTry again.",
-   "et": "{07 1b 00}Noh, {01 00 00 0a 00}usu või mitte, mul\nhakkaks tõesti piinlik, kui\nma kõik selle sinult võtaksin.\n{07 14 00}Kuidas oleks{01 00 00 0a 00} {04 11 00} kella?{01 00 00 0a 00}\nSee tundub mulle aus\nhind.{02 00 00 11 12}\nKäed löödud!\nProovi uuesti."
+   "et": "{07 1b 00}Noh, {01 00 00 0a 00}usu või mitte, mul\nhakkaks tõesti piinlik, kui\nma kõik selle sinult\nvõtaksin. {07 14 00}Kuidas\noleks{01 00 00 0a 00}{04 11 00} kella?{01 00 00 0a 00} See\ntundub mulle aus hind.{02 00 00 11 12}\nKäed löödud!\nProovi uuesti."
   },
   {
    "id": 7,

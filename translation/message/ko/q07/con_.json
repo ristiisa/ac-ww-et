@@ -4,12 +4,12 @@
   {
    "id": 0,
    "en": "{07 00 00}Must I really remind you\nabout what you promised to\ndo, {01 00 00 05 00}{04 02 00}?\nYou foolishly agreed to\ndeliver the letter to\n{ff 00 00 06}{04 10 00} {ff 00 00 00}on time. \n{07 15 00}Don't even think about\nflaking out on me,\n{01 00 00 05 00}{04 02 00}!",
-   "et": "{07 00 00}Kas ma pean sulle tõesti\nmeelde tuletama, mida sa\nlubasid, {01 00 00 05 00}{04 02 00}?\nSa nõustusid rumalalt\nkirja tüübile nimega {ff 00 00 06}{04 10 00}{ff 00 00 00}\nõigeks ajaks viima.\n{07 15 00}Ära isegi mõtle sellele,\net mind alt vedada,\n{01 00 00 05 00}{04 02 00}!"
+   "et": "{07 00 00}Kas ma pean sulle tõesti\nmeelde tuletama, mida sa\nlubasid, {01 00 00 05 00}{04 02 00}?\nSa nõustusid rumalalt\nkirja tüübile\nnimega{ff 00 00 06}{04 10 00}{ff 00 00 00} õigeks ajaks\nviima. {07 15 00}Ära isegi mõtle\nsellele, et mind alt vedada,\n{01 00 00 05 00}{04 02 00}!"
   },
   {
    "id": 1,
    "en": "{07 00 00}Hey {04 1f 00},{01 00 00 05 00} remember\nthat letter you're supposed\nto give to {ff 00 00 06}{04 10 00}{ff 00 00 00}?\n{07 15 00}You'd better deliver it\nbefore the deadline.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 11 00}or\nelse, {01 00 00 05 00}{04 02 00}!",
-   "et": "{07 00 00}Hei {04 1f 00},{01 00 00 05 00} mäletad\nseda kirja, mille pead\nandma tüübile nimega {ff 00 00 06}{04 10 00}{ff 00 00 00}?\n{07 15 00}Parem vii see kohale\nenne tähtaega.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 11 00}või\nmuidu, {01 00 00 05 00}{04 02 00}!"
+   "et": "{07 00 00}Hei {04 1f 00},{01 00 00 05 00} mäletad\nseda kirja, mille pead\nandma tüübile\nnimega{ff 00 00 06}{04 10 00}{ff 00 00 00} ? {07 15 00}Parem vii\nsee kohale enne tähtaega.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 11 00}\nvõi muidu, {01 00 00 05 00}{04 02 00}!"
   },
   {
    "id": 2,

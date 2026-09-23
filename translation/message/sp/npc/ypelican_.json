@@ -59,7 +59,7 @@
   {
    "id": 12,
    "en": "{07 00 00}So, you want it delivered on\n{ff 00 00 02}{04 11 00} {04 12 00}, {04 10 00}{ff 00 00 00},\n{07 0b 00}is that correct?{02 00 00 07 0d}\nThat's right.\nNo! No!",
-   "et": "{07 00 00}Nii et tahad, et see toodaks\nkohale {ff 00 00 02}{04 11 00} {04 12 00}, {04 10 00}{ff 00 00 00},\n{07 0b 00}kas nii on?{02 00 00 07 0d}\nTäpselt nii.\nEi! Ei!"
+   "et": "{07 00 00}Nii et tahad, et see\ntoodaks {ff 00 00 02}{04 11 00} {04 12 00}\n,{04 10 00}{ff 00 00 00} , {07 0b 00}kas nii on?{02 00 00 07 0d}\nTäpselt nii.\nEi! Ei!"
   },
   {
    "id": 13,
@@ -319,7 +319,7 @@
   {
    "id": 64,
    "en": "{07 00 00}Here, read what one\nresident has to say about\nour town.\n\"{ff 00 00 02}Hmm.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} Well, it's not\npassing,{01 00 00 05 00} but it's not\nfailing either.\n{ff 00 00 00}\"{ff 00 00 02}Like, {01 00 00 05 00}more than milk,{01 00 00 0a 00} but\nnot quite a milk shake,\nknow what I mean?!{ff 00 00 00}\"\nHmm.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} Sounds like there's\nnothing this resident likes\nor dislikes in particular.",
-   "et": "{07 00 00}Siin, loe, mida üks\nelanik meie linna\nkohta ütleb.\n„{ff 00 00 02}Hmm..{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} Noh, see pole\nviis,{01 00 00 05 00} aga pole ka\nkaks.\n{ff 00 00 00}”{ff 00 00 02}Nagu, {01 00 00 05 00}rohkem kui piim,{01 00 00 0a 00} aga\nmitte päris kokteil,\nsaad aru?!{ff 00 00 00}”\nHmm..{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} Tundub, et sellele\nelanikule pole midagi,\nmis eriti meeldiks või mitte."
+   "et": "{07 00 00}Siin, loe, mida üks\nelanik meie linna\nkohta ütleb.\n„{ff 00 00 02}Hmm..{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} Noh, see pole\nviis,{01 00 00 05 00} aga pole ka\nkaks.\n{ff 00 00 00}”{ff 00 00 02}Nagu, {01 00 00 05 00}rohkem kui piim,{01 00 00 0a 00} aga\nmitte päris kokteil,\nsaad aru?!{ff 00 00 00}”\nHmm..{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} Tundub, et sellele\nelanikule pole midagi, mis\neriti meeldiks või mitte."
   },
   {
    "id": 65,

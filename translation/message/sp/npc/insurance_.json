@@ -14,7 +14,7 @@
   {
    "id": 4,
    "en": "{07 00 00}Look, this{ff 00 00 02} questionnaire{ff 00 00 00}?{01 00 00 05 00}\nIt's nothing. Basic info,\nnothing you'll regret.\n{07 19 00}Say the first thing in your\nhead. Don't think, feel.{01 00 00 05 00} Got\nit?{01 00 00 0f 00} {07 14 00}Good. Bang! Here we go.",
-   "et": "{07 00 00}Kuula, see{ff 00 00 02} küsitlus{ff 00 00 00}?{01 00 00 05 00}\nPole midagi. Põhiinfo,\nmitte midagi, mida kahetseksid.\n{07 19 00}Ütle esimene asi, mis\npähe tuleb. Ära mõtle.{01 00 00 05 00}\nSelge?{01 00 00 0f 00} {07 14 00}Hea. Pauk! Läks."
+   "et": "{07 00 00}Kuula, see{ff 00 00 02} küsitlus{ff 00 00 00}?{01 00 00 05 00}\nPole midagi. Põhiinfo, mitte\nmidagi, mida kahetseksid.\n{07 19 00}Ütle esimene asi, mis\npähe tuleb. Ära mõtle.{01 00 00 05 00}\nSelge?{01 00 00 0f 00} {07 14 00}Hea. Pauk! Läks."
   },
   {
    "id": 5,
@@ -159,7 +159,7 @@
   {
    "id": 35,
    "en": "{07 15 00}Fine. Fine. Bust my chops.\nGo ahead. Which item you\ntalking about?",
-   "et": "{07 15 00}Hea küll. Käi närvidele.\nJulgelt edasi. Millisest esemest\nsa räägid?"
+   "et": "{07 15 00}Hea küll. Käi närvidele.\nJulgelt edasi. Millisest\nesemest sa räägid?"
   },
   {
    "id": 36,

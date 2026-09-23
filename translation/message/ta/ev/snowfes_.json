@@ -19,7 +19,7 @@
   {
    "id": 3,
    "en": "{07 14 00}Oh, {01 00 00 03 00}{04 1f 00},{01 00 00 0a 00} today\nmarks the start of the\n{ff 00 00 03}Bright Nights{ff 00 00 00}.\n{07 00 00}I've put up lights around my\nhouse in hopes of winning\nthe decoration contest.\n{07 1b 00}But I wonder...{01 00 00 0a 00} Do you get\nthe theme I'm going for,\n{01 00 00 0a 00}{04 02 00}?",
-   "et": "{07 14 00}Oi, {01 00 00 03 00}{04 1f 00},{01 00 00 0a 00} täna\nalgavad\n{ff 00 00 03}valgusööd{ff 00 00 00}.\n{07 00 00}Panin oma maja ümber tuled,\nlootuses võita\nkaunistusvõistlus.\n{07 1b 00}Aga huvitav...{01 00 00 0a 00} Kas sa saad\naru, mis teemat ma taotlen,\n{01 00 00 0a 00}{04 02 00}?"
+   "et": "{07 14 00}Oi, {01 00 00 03 00}{04 1f 00},{01 00 00 0a 00} täna\nalgavad\n{ff 00 00 03}valgusööd{ff 00 00 00}.\n{07 00 00}Panin oma maja ümber\ntuled, lootuses võita\nkaunistusvõistlus.\n{07 1b 00}Aga huvitav...{01 00 00 0a 00} Kas sa saad\naru, mis teemat ma taotlen,\n{01 00 00 0a 00}{04 02 00}?"
   },
   {
    "id": 4,
@@ -99,7 +99,7 @@
   {
    "id": 19,
    "en": "Of course my house looks\nlovely. That's just a given,\nafter all.\n{07 19 00}But {04 0d 00}'s house\nisn't too shabby either,\n{01 00 00 05 00}{04 02 00}.{07 00 00}\n{07 16 00}Ugh.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00} {07 11 00}Everywhere I go in\nlife, competition surrounds\nme like a thick fog!",
-   "et": "Muidugi näeb mu maja\narmas välja. See on ju\niseenesestmõistetav.\n{07 19 00}Aga {04 0d 00} maja\npole ka paha,\n{01 00 00 05 00}{04 02 00}.{07 00 00}\n{07 16 00}Ptüi.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00} {07 11 00}Kuhu ma elus ka ei\nläheks, konkurents ümbritseb\nmind nagu paks udu!"
+   "et": "Muidugi näeb mu maja\narmas välja. See on ju\niseenesestmõistetav.\n{07 19 00}Aga {04 0d 00} maja\npole ka paha,\n{01 00 00 05 00}{04 02 00}.{07 00 00}\n{07 16 00}Ptüi.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00} {07 11 00}Kuhu ma elus ka ei\nläheks, konkurents piirab\nmind nagu paks udu!"
   }
  ]
 }

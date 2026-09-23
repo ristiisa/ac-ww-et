@@ -4,7 +4,7 @@
   {
    "id": 0,
    "en": "{07 00 00}I don't really understand\nthe letter, but{01 00 00 0a 00}{07 14 00} {ff 00 00 06}{04 0f 00}{ff 00 00 00}\nseems well!\n{07 00 00}Well, {04 1f 00},{01 00 00 0f 00} {07 14 00}do me a\nfavor and tell {ff 00 00 06}{04 0f 00}{ff 00 00 00}\nI said hi, OK, {01 00 00 0a 00}{04 02 00}?",
-   "et": "{07 00 00}Ma ei saa kirjast päris\naru, aga{01 00 00 0a 00}{07 14 00} {ff 00 00 06}{04 0f 00}{ff 00 00 00}\ntundub hästi olevat!\n{07 00 00}Noh, {04 1f 00},{01 00 00 0f 00} {07 14 00}tee mulle\nteene ja ütle tervisi\ntüübile nimega {ff 00 00 06}{04 0f 00}{ff 00 00 00}, eks, {01 00 00 0a 00}{04 02 00}?"
+   "et": "{07 00 00}Ma ei saa kirjast päris\naru, aga{01 00 00 0a 00}{07 14 00} {ff 00 00 06}{04 0f 00}{ff 00 00 00}\ntundub hästi olevat!\n{07 00 00}Noh, {04 1f 00},{01 00 00 0f 00} {07 14 00}tee teene\nja ütle tüübile nimega\n{ff 00 00 06}{04 0f 00}{ff 00 00 00} tervisi, {01 00 00 0a 00}{04 02 00}?"
   },
   {
    "id": 1,
@@ -14,7 +14,7 @@
   {
    "id": 2,
    "en": "{07 14 00}It didn't make much sense\nto me, but{01 00 00 0a 00} I just like\ngetting mail, {01 00 00 0a 00}{04 02 00}.\n{07 00 00}Hey, {04 1f 00},{01 00 00 14 00} {07 14 00}tell\n{ff 00 00 06}{04 0f 00} {ff 00 00 00}I send my best,\nOK?",
-   "et": "{07 14 00}Ma ei saanud sellest\nsuurt midagi aru, aga{01 00 00 0a 00}\nmulle meeldib posti\nsaada,{01 00 00 0a 00}{04 02 00} . {07 00 00}\nHei,{04 1f 00} ,{01 00 00 14 00}{07 14 00} ütle tervisi tüübile\nnimega {ff 00 00 06}{04 0f 00}{ff 00 00 00}, eks?"
+   "et": "{07 14 00}Ma ei saanud sellest\nsuurt midagi aru, aga{01 00 00 0a 00}\nmulle meeldib posti\nsaada,{01 00 00 0a 00}{04 02 00} . {07 00 00}\nHei,{04 1f 00} ,{01 00 00 14 00}{07 14 00} ütle tervisi\ntüübile nimega {ff 00 00 06}{04 0f 00}{ff 00 00 00}"
   }
  ]
 }

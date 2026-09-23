@@ -64,7 +64,7 @@
   {
    "id": 12,
    "en": "{07 00 00}And remember, I only take\nbugs!{07 03 00}{01 00 00 0f 00} I'm the {ff 00 00 06}mayor{ff 00 00 00}, not\nthe recycling bin, mind you!",
-   "et": "{07 00 00}Ja pea meeles, ma võtan\nainult putukaid!{07 03 00}{01 00 00 0f 00} Olen {ff 00 00 06}linnapea{ff 00 00 00},\nmitte taaskasutuskast!"
+   "et": "{07 00 00}Ja pea meeles, ma võtan\nvaid putukaid!{07 03 00}{01 00 00 0f 00} Olen {ff 00 00 06}linnapea{ff 00 00 00},\nmitte taaskasutuskast!"
   },
   {
    "id": 13,

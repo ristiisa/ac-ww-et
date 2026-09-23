@@ -9,7 +9,7 @@
   {
    "id": 1,
    "en": "{07 0c 00}Oh, right!{01 00 00 14 00} {07 00 00}I always forget\nI work at a fancy place\nnow, not the corner barber.\nI'll just call you by your\ngiven name, {01 00 00 0a 00}{04 00 00}!{01 00 00 0a 00}\n{07 14 00}Welcome to {ff 00 00 08}Shampoodle{ff 00 00 00}!{01 00 00 05 00}\nWe understand the crucial\nrole that hair plays in\nmodern life,\nso we pride ourselves on\noffering all the latest\nstyles.\nCute, nice, or spicy! We can\nmake any follicle fantasy\nyou have come true, sugar!\n{07 00 00}So,{01 00 00 05 00} what exactly do you\nwant{01 00 00 05 00} {07 0b 00}to get out of today's\nsession?{02 05 00 00 04 03}\nMake me over!\nUh, who are you?\nNothing at all!",
-   "et": "{07 0c 00}Oh, tõsi!{01 00 00 14 00} {07 00 00}Unustan alati,\net töötan nüüd peenes salongis,\nmitte nurgataguses juuksuris.\nKutsun sind lihtsalt\neesnimepidi, {01 00 00 0a 00}{04 00 00}!{01 00 00 0a 00}\n{07 14 00}Tere tulemast {ff 00 00 08}Šampuudlisse{ff 00 00 00}!{01 00 00 05 00}\nMe mõistame, kui tähtsat\nrolli mängivad juuksed\ntänapäeva elus,\nseepärast oleme uhked, et\npakume kõiki uusimaid\nsoenguid.\nArmas, kena või vürtsikas!\nTäidame iga sinu\njuuksefantaasia, kullake!\n{07 00 00}Nii,{01 00 00 05 00} mida sa täpselt\ntahad{01 00 00 05 00} {07 0b 00}tänasest\nseansist?{02 05 00 00 04 03}\nTee mind uueks!\nEe, kes sa oled?\nMitte midagi!"
+   "et": "{07 0c 00}Oh, tõsi!{01 00 00 14 00} {07 00 00}Unustan alati,\net töötan nüüd peenes\nsalongis, mitte\nnurgataguses juuksuris.\nKutsun sind\neesnimepidi,{01 00 00 0a 00}{04 00 00} !{01 00 00 0a 00} {07 14 00}Tere\ntulemast{ff 00 00 08} Šampuudlisse{ff 00 00 00} !{01 00 00 05 00} Me\nmõistame, kui tähtsat rolli\nmängivad juuksed tänapäeva\nelus, seepärast oleme\nuhked, et pakume kõiki\nuusimaid soenguid.\nArmas, kena või vürtsikas!\nTäidame iga sinu\njuuksefantaasia, kullake!\n{07 00 00}Nii,{01 00 00 05 00} mida sa täpselt\ntahad{01 00 00 05 00} {07 0b 00}tänasest\nseansist?{02 05 00 00 04 03}\nTee mind uueks!\nEe, kes sa oled?\nMitte midagi!"
   },
   {
    "id": 2,
@@ -59,7 +59,7 @@
   {
    "id": 11,
    "en": "{07 04 00}Oh,{01 00 00 0a 00} so you're looking for\nsomething cooler, hmm?{01 00 00 0f 00} {07 14 00}I've\ngot it! Leave it to me!\n{07 00 00}Sometimes, {01 00 00 05 00}warm colors just\ndon't match up with your\nvision of yourself!\n{07 14 00}Well, why don't you think\nagain about what kind of\nhair your true self has?{02 07 00 0c 0c 0c 0c 0a}\nMysterious!\nYoung!\nLush!\nRadiant!\n{00 06 00}Something else!",
-   "et": "{07 04 00}Oh,{01 00 00 0a 00} nii et sa otsid midagi\njahedamat, hmm?{01 00 00 0f 00} {07 14 00}Sain aru!\nJäta see minu hooleks!\n{07 00 00}Vahel {01 00 00 05 00}lihtsalt ei sobi soojad\nvärvid sinu ettekujutusega\niseendast!\n{07 14 00}Noh, mõtle veel kord,\nmillised juuksed on sinu\ntõelisel minal?{02 07 00 0c 0c 0c 0c 0a}\nSalapärased!\nNoored!\nLopsakad!\nSäravad!\n{00 06 00}Midagi muud!"
+   "et": "{07 04 00}Oh,{01 00 00 0a 00} nii et sa otsid midagi\njahedamat, hmm?{01 00 00 0f 00} {07 14 00}Sain aru!\nJäta see minu hooleks!\n{07 00 00}Vahel {01 00 00 05 00}ei sobi soojad\nvärvid sinu ettekujutusega\niseendast!\n{07 14 00}Noh, mõtle veel kord,\nmillised juuksed on sinu\ntõelisel minal?{02 07 00 0c 0c 0c 0c 0a}\nSalapärased!\nNoored!\nLopsakad!\nSäravad!\n{00 06 00}Midagi muud!"
   },
   {
    "id": 12,

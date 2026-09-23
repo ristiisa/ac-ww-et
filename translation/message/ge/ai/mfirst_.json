@@ -9,12 +9,12 @@
   {
    "id": 1,
    "en": "{07 14 00}Howdy! {01 00 00 0a 00}I'm {04 01 00} from\n{ff 00 00 08}{04 10 00}{ff 00 00 00}. {01 00 00 0a 00}Well, I guess\nI'm from {04 03 00} now!\n{07 00 00}My sign is {04 0f 00}, and\nlately, I totally love\n{04 17 00}!\n{07 0e 00}What else{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}. {01 01 00}{07 14 00}Well, feel free\nto bug me! If I don't know\nthe answer, I just fake it!",
-   "et": "{07 14 00}Tere! {01 00 00 0a 00}Olen {04 01 00} linnast\n{ff 00 00 08}{04 10 00}{ff 00 00 00}. {01 00 00 0a 00}No vist olen\nnüüd linnast nimega {04 03 00}!\n{07 00 00}Mu tähtkuju on {04 0f 00} ja\nviimasel ajal armastan ma\n{04 17 00}!\n{07 0e 00}Mis veel{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}. {01 01 00}{07 14 00}Tüüta mind\njulgelt! Kui ma vastust ei\ntea, siis mõtlen välja!"
+   "et": "{07 14 00}Tere! {01 00 00 0a 00}Olen {04 01 00} linnast\n{ff 00 00 08}{04 10 00}{ff 00 00 00}. {01 00 00 0a 00}No vist olen nüüd\nlinnast nimega {04 03 00}!\n{07 00 00}Mu tähtkuju on {04 0f 00} ja\nviimasel ajal armastan ma\n{04 17 00}!\n{07 0e 00}Mis veel{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}. {01 01 00}{07 14 00}Tüüta mind\njulgelt! Kui ma vastust ei\ntea, siis mõtlen välja!"
   },
   {
    "id": 2,
    "en": "{07 14 00}Hey, {01 00 00 05 00}have we met? {01 01 00}I'm from\n{01 00 00 05 00}{ff 00 00 08}{04 10 00}{ff 00 00 00}. My name's\n{04 01 00}!\n{07 00 00}So, you're {04 1f 00}, huh?{01 00 00 05 00}{ff 00 00 08}\n{ff 00 00 00}{07 04 00}Neat! {01 01 00}{07 0d 00}That name is, like, so\nadorably cute, {01 00 00 05 00}{04 02 00}!",
-   "et": "{07 14 00}Hei, {01 00 00 05 00}kas oleme kohtunud? {01 01 00}\nOlen {01 00 00 05 00}linnast nimega {ff 00 00 08}{04 10 00}{ff 00 00 00}.\nMinu nimi on {04 01 00}!\n{07 00 00}Nii et sina oled {04 1f 00},\nmis?{01 00 00 05 00}{ff 00 00 08} {ff 00 00 00}{07 04 00}Vahva! {01 01 00}{07 0d 00}See nimi on\nnii armsalt nunnu, {01 00 00 05 00}{04 02 00}!"
+   "et": "{07 14 00}Hei, {01 00 00 05 00}kas oleme kohtunud? {01 01 00}\nOlen {01 00 00 05 00}linnast {ff 00 00 08}{04 10 00}{ff 00 00 00}.\nMinu nimi on {04 01 00}!\n{07 00 00}Nii et sina oled {04 1f 00},\nmis?{01 00 00 05 00}{ff 00 00 08} {ff 00 00 00}{07 04 00}Vahva! {01 01 00}{07 0d 00}See nimi on\nnii armsalt nunnu, {01 00 00 05 00}{04 02 00}!"
   },
   {
    "id": 3,

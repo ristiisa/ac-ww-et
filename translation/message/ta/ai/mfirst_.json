@@ -14,12 +14,12 @@
   {
    "id": 2,
    "en": "{07 14 00}Hi!{01 00 00 14 00} I always knew that I was\ndestined for the big city,\n{01 00 00 05 00}{04 02 00}!\n{07 00 00}Oh, right. How totally rude\nof me. I'm {04 01 00}.{01 00 00 0a 00} I'm\nfrom {ff 00 00 08}{04 10 00}{ff 00 00 00} originally.\n{07 14 00}I don't know anyone in this\ntown,{01 00 00 0a 00} but you'll help me\nout, right?",
-   "et": "{07 14 00}Tere!{01 00 00 14 00} Ma alati teadsin, et\nmu saatus on suurlinn,\n{01 00 00 05 00}{04 02 00}!\n{07 00 00}Ah jaa. Kui ebaviisakas\nminust. Olen {04 01 00}.{01 00 00 0a 00} Olen pärit\nlinnast {ff 00 00 08}{04 10 00}{ff 00 00 00}.\n{07 14 00}Ma ei tunne siin linnas\nkedagi,{01 00 00 0a 00} aga sa aitad mind,\neks?"
+   "et": "{07 14 00}Tere!{01 00 00 14 00} Ma alati teadsin, et\nmu saatus on suurlinn,\n{01 00 00 05 00}{04 02 00}!\n{07 00 00}Ah jaa. Kui ebaviisakas\nminust. Olen {04 01 00}.{01 00 00 0a 00} Olen\npärit linnast {ff 00 00 08}{04 10 00}{ff 00 00 00}.\n{07 14 00}Ma ei tunne siin linnas\nkedagi,{01 00 00 0a 00} aga sa aitad mind,\neks?"
   },
   {
    "id": 3,
    "en": "{07 04 00}Have we met before,\n{04 02 00}? {01 00 00 0a 00}Hmm. I don't\nthink so.\n{07 00 00}So, {01 00 00 05 00}they call you\n{04 1f 00}, huh. That's\nan.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}unusual name.\n{07 14 00}I'm {04 01 00}.{01 00 00 14 00} I used to\nlive in {ff 00 00 08}{04 10 00}{ff 00 00 00}. I\nlike it here lots better.",
-   "et": "{07 04 00}Kas me oleme varem\nkohtunud, {04 02 00}? {01 00 00 0a 00}Hmm.\nMa ei usu.\n{07 00 00}Nii et, {01 00 00 05 00}sind kutsutakse\n{04 1f 00}, mis. See on\nüks.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}ebatavaline nimi.\n{07 14 00}Mina olen {04 01 00}.{01 00 00 14 00} Ma\nelasin varem linnas {ff 00 00 08}{04 10 00}{ff 00 00 00}.\nSiin on mulle palju parem."
+   "et": "{07 04 00}Kas me oleme varem\nkohtunud, {04 02 00}? {01 00 00 0a 00}Hmm.\nMa ei usu.\n{07 00 00}Nii et, {01 00 00 05 00}sind kutsutakse\n{04 1f 00}, mis. See on\nüks.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}ebatavaline nimi.\n{07 14 00}Mina olen {04 01 00}.{01 00 00 14 00} Ma\ntulin linnast {ff 00 00 08}{04 10 00}{ff 00 00 00}.\nSiin on mulle palju parem."
   },
   {
    "id": 4,
@@ -29,7 +29,7 @@
   {
    "id": 5,
    "en": "{07 14 00}Hello, {01 00 00 05 00}{04 02 00}!{01 01 00} {07 00 00}I'm\nfrom {ff 00 00 08}{04 10 00}{ff 00 00 00}.{01 00 00 0a 00} Well, not\nanymore. Now I'm from here!\n{07 0e 00}Who are you?{01 00 00 14 00}{07 14 00} {0b 03 00}{04 1f 00}?{01 00 00 14 00}\nYour name is kind of\n{04 15 00}. Has anyone\never told you that?\n{07 00 00}Let's get together and\n{04 22 00} sometime,{01 00 00 14 00}\n{07 14 00}{0b 03 00}{04 1f 00}! {01 00 00 05 00}{0b 03 00}{04 02 00}!",
-   "et": "{07 14 00}Tere, {01 00 00 05 00}{04 02 00}!{01 01 00} {07 00 00}Ma olen pärit\nlinnast {ff 00 00 08}{04 10 00}{ff 00 00 00}.{01 00 00 0a 00} Noh, mitte\nenam. Nüüd olen siit!\n{07 0e 00}Kes sina oled?{01 00 00 14 00}{07 14 00} {0b 03 00}{04 1f 00}?{01 00 00 14 00}\nSinu nimi on kuidagi\n{04 15 00}. Kas keegi on\nsulle seda öelnud?\n{07 00 00}Lähme kunagi koos\n{04 22 00},{01 00 00 14 00}\n{07 14 00}{0b 03 00}{04 1f 00}! {01 00 00 05 00}{0b 03 00}{04 02 00}!"
+   "et": "{07 14 00}Tere, {01 00 00 05 00}{04 02 00}!{01 01 00} {07 00 00}Ma olen\npärit linnast {ff 00 00 08}{04 10 00}{ff 00 00 00}.{01 00 00 0a 00}\nmitte enam. Nüüd olen siit!\n{07 0e 00}Kes sina oled?{01 00 00 14 00}{07 14 00} {0b 03 00}{04 1f 00}?{01 00 00 14 00}\nSinu nimi on kuidagi\n{04 15 00}. Kas keegi on\nsulle seda öelnud?\n{07 00 00}Lähme kunagi koos\n{04 22 00},{01 00 00 14 00}\n{07 14 00}{0b 03 00}{04 1f 00}! {01 00 00 05 00}{0b 03 00}{04 02 00}!"
   },
   {
    "id": 7,

@@ -9,7 +9,7 @@
   {
    "id": 1,
    "en": "Fine,{01 00 00 0f 00} don't let the door hit\nyour tail on the way out!{01 00 00 0f 00}\n{ff 00 00 04}(Quit loitering and shoo!)",
-   "et": "Hästi,{01 00 00 0f 00} vaata, et uks su\nvälja minnes sabale ei lööks!{01 00 00 0f 00}\n{ff 00 00 04}(Lõpeta luusimine ja kao!)"
+   "et": "Hästi,{01 00 00 0f 00} vaata, et uks su\nminnes sabale ei lööks!{01 00 00 0f 00}\n{ff 00 00 04}(Lõpeta luusimine ja kao!)"
   },
   {
    "id": 2,
@@ -59,7 +59,7 @@
   {
    "id": 12,
    "en": "{ff 00 00 02}{07 0b 00}{04 11 00} {04 12 00}, {04 10 00}{ff 00 00 00},\ncorrect?{02 00 00 07 0d}\nCorrect!\nUm, nope.",
-   "et": "{ff 00 00 02}{07 0b 00}{04 11 00} {04 12 00}, {04 10 00}{ff 00 00 00},\nõige?{02 00 00 07 0d}\nÕige!\nEe, ei."
+   "et": "{ff 00 00 02}{07 0b 00}{04 11 00} {04 12 00}, {04 10 00}{ff 00 00 00}\n, õige?{02 00 00 07 0d}\nÕige!\nEe, ei."
   },
   {
    "id": 13,
@@ -289,7 +289,7 @@
   {
    "id": 58,
    "en": "{07 00 00}Oh, {01 00 00 0f 00}so you've decided not to\nmove after all?{01 01 00} No. I don't\nmind. {01 00 00 14 00}\n{07 01 00}{01 08 00}Just make up your mind\nalready!!{01 01 00}{07 00 00}\n{ff 00 00 04}(Sheesh...some people...)",
-   "et": "{07 00 00}Oh, {01 00 00 0f 00}nii et sa otsustasid\nlõpuks mitte kolida?{01 01 00} Ei. Mind\nsee ei häiri. {01 00 00 14 00}\n{07 01 00}{01 08 00}Otsusta juba ometi\nära!!{01 01 00}{07 00 00}\n{ff 00 00 04}(Ptüi...mõned inimesed...)"
+   "et": "{07 00 00}Oh, {01 00 00 0f 00}nii et sa otsustasid\nlõpuks mitte kolida?{01 01 00} Ei.\nMind see ei häiri. {01 00 00 14 00}\n{07 01 00}{01 08 00}Otsusta juba ometi\nära!!{01 01 00}{07 00 00}\n{ff 00 00 04}(Ptüi...mõned inimesed...)"
   },
   {
    "id": 59,

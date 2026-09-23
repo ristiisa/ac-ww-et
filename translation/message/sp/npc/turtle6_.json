@@ -4,7 +4,7 @@
   {
    "id": 0,
    "en": "{07 0a 00}{01 00 00 0a 00}Whoo hoo!{01 00 00 0f 00} The big {ff 00 00 03}countdown\n{ff 00 00 00}is today! {07 14 00}{01 00 00 0a 00}Get ready for a\ntwo-year party!",
-   "et": "{07 0a 00}{01 00 00 0a 00}Juhhei!{01 00 00 0f 00} Suur {ff 00 00 03}aastavahetuse loendus\n{ff 00 00 00}on täna! {07 14 00}{01 00 00 0a 00}Valmistu\nkaheaastaseks peoks!"
+   "et": "{07 0a 00}{01 00 00 0a 00}Juhhei!{01 00 00 0f 00} Suur {ff 00 00 03}aastavahetuse\nloendus {ff 00 00 00}on täna! {07 14 00}{01 00 00 0a 00}Valmistu\nkaheaastaseks peoks!"
   },
   {
    "id": 1,
@@ -124,12 +124,12 @@
   {
    "id": 24,
    "en": "{07 14 00}{01 00 00 0a 00}By official proclamation of\nthe {ff 00 00 06}mayor{ff 00 00 00}, {07 0a 00}{01 00 00 0f 00}I declare today{01 00 00 05 00}\nan all-day party!",
-   "et": "{07 14 00}{01 00 00 0a 00}{ff 00 00 06}Linnapea{ff 00 00 00} ametliku\nkuulutusega {07 0a 00}{01 00 00 0f 00}kuulutan tänase päeva{01 00 00 05 00}\npäevapikkuseks peoks!"
+   "et": "{07 14 00}{01 00 00 0a 00}{ff 00 00 06}Linnapea{ff 00 00 00} ametliku\nkuulutusega {07 0a 00}{01 00 00 0f 00}kuulutan tänase\npäeva{01 00 00 05 00} päevapikkuseks peoks!"
   },
   {
    "id": 25,
    "en": "Sprout! You must \"get down\"\nfor the {ff 00 00 03}countdown{ff 00 00 00}!\n\n{07 14 00}Let me give you something\nto commemorate the event!",
-   "et": "Võsuke! Sa pead\n{ff 00 00 03}aastavahetuse loenduseks{ff 00 00 00} hoo sisse\nsaama!\n{07 14 00}Las ma annan sulle midagi\nselle sündmuse mälestuseks!"
+   "et": "Võsuke! Sa pead\n{ff 00 00 03}aastavahetuse loenduseks{ff 00 00 00}\nhoo sisse saama!\n{07 14 00}Las ma annan sulle midagi\nselle sündmuse mälestuseks!"
   },
   {
    "id": 26,

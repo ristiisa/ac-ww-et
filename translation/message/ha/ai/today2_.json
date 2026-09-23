@@ -39,7 +39,7 @@
   {
    "id": 7,
    "en": "{07 14 00}I wanna {04 22 00}\nto {04 17 00} with\n{04 0b 00}!\n{07 0d 00}I wanna, {01 00 00 05 00}I wanna!\nRight NOW, {01 00 00 05 00}{04 02 00}!",
-   "et": "{07 14 00}Ma tahan {04 22 00}\n{04 17 00} saatel koos tüübiga\nnimega {04 0b 00}!\n{07 0d 00}Ma tahan, {01 00 00 05 00}ma tahan!\nJust NÜÜD, {01 00 00 05 00}{04 02 00}!"
+   "et": "{07 14 00}Ma tahan {04 22 00}\n{04 17 00} saatel koos\ntüübiga nimega {04 0b 00}!\n{07 0d 00}Ma tahan, {01 00 00 05 00}ma tahan!\nJust NÜÜD, {01 00 00 05 00}{04 02 00}!"
   },
   {
    "id": 8,
@@ -69,7 +69,7 @@
   {
    "id": 13,
    "en": "If you stay up too late,{01 00 00 05 00}\n{07 16 00}you'll pay for it tomorrow,\n{01 00 00 05 00}{04 02 00}!",
-   "et": "Kui sa liiga kaua üleval oled,{01 00 00 05 00}\n{07 16 00}maksad selle eest homme,\n{01 00 00 05 00}{04 02 00}!"
+   "et": "Kui sa liiga kaua üleval\noled,{01 00 00 05 00} {07 16 00}maksad selle eest\nhomme, {01 00 00 05 00}{04 02 00}!"
   },
   {
    "id": 14,

@@ -44,7 +44,7 @@
   {
    "id": 8,
    "en": "{07 16 00}This is the worst news EVER,{01 00 00 05 00}\n{ff 00 00 05}{04 1f 00}{ff 00 00 00}!{01 00 00 0a 00}\n\n{07 08 00}I didn't win {ff 00 00 03}Bright Nights{ff 00 00 00}!{01 00 00 05 00}\n{07 16 00}I put my lights up faster\nthan {ff 00 00 06}{04 0f 00}{ff 00 00 00}, but...\n{07 1c 00}I wonder what I did wrong{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 05 00}\n{04 02 00}.",
-   "et": "{07 16 00}See on kõigi aegade halvim\nuudis,{01 00 00 05 00} {ff 00 00 05}{04 1f 00}{ff 00 00 00}!{01 00 00 0a 00}\n\n{07 08 00}Ma ei võitnud {ff 00 00 03}valgusöid{ff 00 00 00}!{01 00 00 05 00}\n{07 16 00}Ma panin oma tuled üles\nkiiremini kui {ff 00 00 06}{04 0f 00}{ff 00 00 00}, aga...\n{07 1c 00}Mida ma valesti tegin{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 03 00}.{01 00 00 05 00}\n{04 02 00}."
+   "et": "{07 16 00}See on kõigi aegade halvim\nuudis,{01 00 00 05 00} {ff 00 00 05}{04 1f 00}{ff 00 00 00}!{01 00 00 0a 00}\n\n{07 08 00}Ma ei võitnud {ff 00 00 03}valgusöid{ff 00 00 00}!{01 00 00 05 00}\n{07 16 00}Ma panin oma tuled üles\nkiiremini kui {ff 00 00 06}{04 0f 00}{ff 00 00 00},\naga... {07 1c 00}Mida ma valesti tegin{01 00 00 03 00}.{01 00 00 03 00}\n.{01 00 00 03 00} .{01 00 00 05 00} {04 02 00}."
   },
   {
    "id": 9,
@@ -94,7 +94,7 @@
   {
    "id": 18,
    "en": "{07 15 00}The only thing {ff 00 00 03}Bright Nights\n{ff 00 00 00}needs in order to end on\nthe perfect note...\n{07 00 00}...is for none other than\nME to{01 01 00}{07 0d 00} win the {ff 00 00 03}Bright Nights{ff 00 00 00}\ndecoration contest!",
-   "et": "{07 15 00}Ainus asi, mida {ff 00 00 03}valgusööd\n{ff 00 00 00}vajavad, et lõppeda\ntäiuslikult...\n{07 00 00}...on see, et mitte keegi muu kui\nMINA{01 01 00}{07 0d 00} võidaks {ff 00 00 03}valgusööde{ff 00 00 00}\nkaunistusvõistluse!"
+   "et": "{07 15 00}Ainus asi, mida {ff 00 00 03}valgusööd\n{ff 00 00 00}vajavad, et lõppeda\ntäiuslikult... ...on\n{07 00 00}see, et mitte keegi muu\nkui MINA{01 01 00}{07 0d 00} võidaks {ff 00 00 03}valgusööde{ff 00 00 00}\nkaunistusvõistluse!"
   },
   {
    "id": 19,

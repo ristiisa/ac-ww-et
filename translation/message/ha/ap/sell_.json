@@ -4,7 +4,7 @@
   {
    "id": 0,
    "en": "{07 14 00}Yo yo,{01 00 00 05 00} {04 1f 00}!{01 01 00} It's\n{07 00 00}the {0b 02 00}{04 1c 00}\nyou've always wanted!\nI happen to have it on me!{01 00 00 05 00}\n{07 0b 00}How's {04 11 00} Bells sound?{02 00 00 03 0b}\nI'll buy it!\nNo thanks.",
-   "et": "{07 14 00}Jou jou,{01 00 00 05 00} {04 1f 00}!{01 01 00} See on\n{07 00 00}see {0b 02 00}{04 1c 00},\nmida sa oled alati tahtnud!\nJuhtumisi on see kaasas!{01 00 00 05 00}\n{07 0b 00}Kuidas kõlab {04 11 00} kellukest?{02 00 00 03 0b}\nMa ostan!\nEi, aitäh."
+   "et": "{07 14 00}Jou jou,{01 00 00 05 00} {04 1f 00}!{01 01 00} See on\n{07 00 00}see {0b 02 00}{04 1c 00},\nmida sa oled alati tahtnud!\nJuhtumisi on see kaasas!{01 00 00 05 00}\n{07 0b 00}Kuidas kõlab {04 11 00} kella?{02 00 00 03 0b}\nMa ostan!\nEi, aitäh."
   },
   {
    "id": 1,
@@ -14,7 +14,7 @@
   {
    "id": 2,
    "en": "{07 00 00}Whoa, {04 1f 00}!{01 00 00 05 00}\nGood timing, {04 02 00}!\n\nAt this moment, {01 00 00 05 00}I have the\n{0b 02 00}{04 1c 00} on\nmy person!{01 00 00 05 00}\n{07 0b 00}How much are you willing to\npay for it, {01 00 00 05 00}{04 02 00}?{05 05 00 03 0f 05 10 05 10 03 14}\n10,000 Bells.\nZilch!",
-   "et": "{07 00 00}Ohoo, {04 1f 00}!{01 00 00 05 00}\nHea ajastus, {04 02 00}!\n\nPraegusel hetkel {01 00 00 05 00}on mul\n{0b 02 00}{04 1c 00}\nkaasas!{01 00 00 05 00}\n{07 0b 00}Kui palju sa oled nõus\nselle eest maksma, {01 00 00 05 00}{04 02 00}?{05 05 00 03 0f 05 10 05 10 03 14}\n10 000 kellukest.\nMitte midagi!"
+   "et": "{07 00 00}Ohoo, {04 1f 00}!{01 00 00 05 00}\nHea ajastus, {04 02 00}!\n\nPraegusel hetkel {01 00 00 05 00}on mul\n{0b 02 00}{04 1c 00}\nkaasas!{01 00 00 05 00}\n{07 0b 00}Kui palju sa oled nõus\nselle eest maksma, {01 00 00 05 00}{04 02 00}\n?{05 05 00 03 0f 05 10 05 10 03 14} 10 000 kellukest.\nMitte midagi!"
   },
   {
    "id": 3,

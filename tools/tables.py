@@ -48,7 +48,7 @@ def export(rom):
             en = bmg.decode(name)
             names.append({'ids': ids, 'en': en, 'et': old.get(en, '')})
         os.makedirs(OUT, exist_ok=True)
-        with open(dst, 'w', encoding='utf-8') as f:
+        with open(dst, 'w', encoding='utf-8', newline='\n') as f:
             json.dump({'file': rom_path, 'max': field - 1, 'names': names},
                       f, ensure_ascii=False, indent=1)
             f.write('\n')

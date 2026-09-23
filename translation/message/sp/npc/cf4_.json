@@ -29,7 +29,7 @@
   {
    "id": 5,
    "en": "{07 00 00}Labels. {01 00 00 05 00}Everybody has 'em,\nright? {01 00 00 05 00}Sure, labels. {01 00 00 05 00}Happy.\nSad. Loser. Right? {01 00 00 05 00}Sure.\n{07 37 00}Take me. Take {ff 00 00 06}Lyle{ff 00 00 00}. Folks\ncall me sleaze. Sneak. Liar.{01 00 00 0a 00}\nNot true. I'm a peach.\nSure, some deals don't work\nout, but hey, right? That's\nlife. That's it. {01 00 00 0a 00}Bang.",
-   "et": "{07 00 00}Sildid. {01 00 00 05 00}Kõigil on need,\neks? {01 00 00 05 00}Ikka, sildid. {01 00 00 05 00}Õnnelik.\nKurb. Luuser. Eks? {01 00 00 05 00}Ikka.\n{07 37 00}Võta {ff 00 00 06}Lyle{ff 00 00 00}. Rahvas kutsub mind\nkelmiks. Lurjuseks. Valetajaks.{01 00 00 0a 00}\nPole tõsi. Ma olen kullatükk.\nIkka, mõni tehing läheb\nvussi, aga noh, eks? See on\nelu. Ongi kõik. {01 00 00 0a 00}Pauk."
+   "et": "{07 00 00}Sildid. {01 00 00 05 00}Kõigil on need,\neks? {01 00 00 05 00}Ikka, sildid. {01 00 00 05 00}Õnnelik.\nKurb. Luuser. Eks? {01 00 00 05 00}Ikka.\n{07 37 00}Võta {ff 00 00 06}Lyle{ff 00 00 00}. Rahvas kutsub\nmind kelmiks. Lurjuseks.\nValetajaks.{01 00 00 0a 00} Pole tõsi. Ma\nolen kullatükk. Ikka, mõni\ntehing läheb vussi, eks?\nSee on elu. Ongi kõik. {01 00 00 0a 00}Pauk."
   },
   {
    "id": 6,
@@ -84,7 +84,7 @@
   {
    "id": 18,
    "en": "{07 35 00}{01 04 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 00 00}\"Communication.\"{01 00 00 0a 00}{01 05 00}{07 00 00} Sure,\nyou know what I mean. You\nhear me, sure you do.\nCommunication.{01 00 00 05 00} Phones ring.\nFolks talk. Words get read.\nThat kind of thing.\nMy boss?{01 00 00 0a 00} Busts my chops.{01 00 00 05 00}\nSays I don't communicate.\nSays folks don't like me.\n{07 34 00}I'm friendly! See? {ff 00 00 06}Lyle{ff 00 00 00}'s a\npal!{01 00 00 0a 00} {07 00 00}{07 35 00}No one believes me.\nEven now. Off the clock.\nI'm just no good with\npeople...",
-   "et": "{07 35 00}{01 04 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 00 00}„Suhtlus.”{01 00 00 0a 00}{01 05 00}{07 00 00} Ikka,\nsa tead, mida ma mõtlen. Sa\nkuuled mind, ikka kuuled.\nSuhtlus.{01 00 00 05 00} Telefonid helisevad.\nRahvas räägib. Sõnu\nloetakse. Selliseid asju.\nMu ülemus?{01 00 00 0a 00} Tüütab mind.{01 00 00 05 00}\nÜtleb, et ma ei suhtle.\nÜtleb, et ma rahvale ei meeldi.\n{07 34 00}Ma olen sõbralik! Näed? {ff 00 00 06}Lyle{ff 00 00 00}\non semu!{01 00 00 0a 00} {07 00 00}{07 35 00}Keegi ei usu mind.\nIsegi nüüd. Väljaspool tööd.\nMa lihtsalt ei sobi\ninimestega..."
+   "et": "{07 35 00}{01 04 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}{07 00 00}„Suhtlus.”{01 00 00 0a 00}{01 05 00}{07 00 00} Ikka,\nsa tead, mida ma mõtlen. Sa\nkuuled mind, ikka kuuled.\nSuhtlus.{01 00 00 05 00} Telefonid helisevad.\nRahvas räägib. Sõnu\nloetakse. Selliseid asju.\nMu ülemus?{01 00 00 0a 00} Tüütab mind.{01 00 00 05 00}\nÜtleb, et ma ei suhtle.\nÜtleb, et ma rahvale ei\nmeeldi. {07 34 00}Ma olen sõbralik!\nNäed?{ff 00 00 06} Lyle{ff 00 00 00} on semu!{01 00 00 0a 00} {07 00 00}{07 35 00}Keegi\nei usu mind. Isegi nüüd.\nVäljaspool tööd. Ma ei sobi\ninimestega..."
   },
   {
    "id": 19,

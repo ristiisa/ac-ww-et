@@ -79,7 +79,7 @@
   {
    "id": 15,
    "en": "{07 04 00}Whoa, I just noticed I\nspilled my protein shake in\nmy lap earlier, {01 00 00 05 00}{04 02 00}!\n{07 14 00}It's nice to have a\n{ff 00 00 07}tissue {ff 00 00 00}in times like this!",
-   "et": "{07 04 00}Ohoo, märkasin just, et\najasin varem\nproteiinikokteili sülle, {01 00 00 05 00}{04 02 00}!\n{07 14 00}Tore, kui sellisel hetkel\non {ff 00 00 07}salvrätt {ff 00 00 00}olemas!"
+   "et": "{07 04 00}Ohoo, märkasin just, et\najasin varem\nproteiinikokteili sülle,\n{01 00 00 05 00}{04 02 00} ! {07 14 00}Tore, kui sellisel\nhetkel on {ff 00 00 07}salvrätt {ff 00 00 00}olemas!"
   },
   {
    "id": 16,
@@ -129,7 +129,7 @@
   {
    "id": 25,
    "en": "{07 03 00}War har har har har!{01 00 00 0a 00}\nI knew it, {01 00 00 05 00}{04 02 00}!\n\n{07 16 00}I mean, I bet you'd shrivel\nup in the ocean!\n",
-   "et": "{07 03 00}Vaar haar haar haar!{01 00 00 0a 00}\nMa teadsin, {01 00 00 05 00}{04 02 00}!\n\n{07 16 00}Ma mõtlen, vean kihla, et\nsa kärtsiksid ookeanis kokku!\n"
+   "et": "{07 03 00}Vaar haar haar haar!{01 00 00 0a 00}\nMa teadsin, {01 00 00 05 00}{04 02 00}!\n\n{07 16 00}Ma mõtlen, vean kihla, et\nsa kärtsiksid ookeanis\nkokku!"
   },
   {
    "id": 26,

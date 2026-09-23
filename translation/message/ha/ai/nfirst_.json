@@ -14,7 +14,7 @@
   {
    "id": 2,
    "en": "{07 04 00}Oh! Hang on, now!{01 00 00 0a 00}\n{07 0b 00}Are you from {04 03 00}?\n\n{07 14 00}My name's {04 01 00}!{01 00 00 0a 00}\nI'm the local hunky hunk.{01 00 00 05 00}\nAsk anyone!\n{07 0e 00}And your name is{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.?{01 01 00}\n{07 14 00}Ahh, {01 00 00 05 00}{04 1f 00}, huh?\n\nMaybe{01 00 00 05 00} you can be the funky\nfunkmaster!{01 00 00 05 00} Whatcha think,\n{01 00 00 05 00}{04 02 00}?",
-   "et": "{07 04 00}Oh! Oota korra!{01 00 00 0a 00}\n{07 0b 00}Kas sa oled {04 03 00} linnast?\n\n{07 14 00}Mu nimi on {04 01 00}!{01 00 00 0a 00}\nMa olen kohalik kõvamees.{01 00 00 05 00}\nKüsi kelle tahes käest!\n{07 0e 00}Ja sinu nimi on{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.?{01 01 00}\n{07 14 00}Ahh, {01 00 00 05 00}{04 1f 00}, mis?\n\nÄkki{01 00 00 05 00} saad sina olla funk-\nmeister!{01 00 00 05 00} Mis sa arvad,\n{01 00 00 05 00}{04 02 00}?"
+   "et": "{07 04 00}Oh! Oota korra!{01 00 00 0a 00}\n{07 0b 00}Kas sa oled {04 03 00}\nlinnast?\n{07 14 00}Mu nimi on {04 01 00}!{01 00 00 0a 00}\nMa olen kohalik kõvamees.{01 00 00 05 00}\nKüsi kelle tahes käest!\n{07 0e 00}Ja sinu nimi on{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.?{01 01 00}\n{07 14 00}Ahh, {01 00 00 05 00}{04 1f 00}, mis?\n\nÄkki{01 00 00 05 00} saad sina olla funk-\nmeister!{01 00 00 05 00} Mis sa arvad,\n{01 00 00 05 00}{04 02 00}?"
   },
   {
    "id": 3,
@@ -39,7 +39,7 @@
   {
    "id": 7,
    "en": "{07 14 00}Hey,{01 00 00 05 00} how's your evening?{01 00 00 0a 00}\nOh, hey, and nice to meet\nyou, {01 00 00 05 00}{04 02 00}!\n{07 00 00}I'm {04 01 00}, aka the\nChugging Ninja!{01 00 00 05 00} I just\nmoved here.\nEver tried your hand at \nchugging?{01 00 00 05 00} I mean,\ncompetitively?\n{07 00 00}Well,{01 00 00 05 00} next time, it's on!{01 00 00 05 00}\n{07 0d 00}Fresh {04 18 00}!{01 00 00 05 00}\nYou and me, head to head!",
-   "et": "{07 14 00}Hei,{01 00 00 05 00} kuidas su õhtu?{01 00 00 0a 00}\nOh, hei, ja meeldiv\ntutvuda, {01 00 00 05 00}{04 02 00}!\n{07 00 00}Mina olen {04 01 00}, teise\nnimega Lürpininja!{01 00 00 05 00} Ma just\nkolisin siia.\nKas oled kunagi lürpimist\nproovinud?{01 00 00 05 00} Ma mõtlen,\nvõistluslikult?\n{07 00 00}Noh,{01 00 00 05 00} järgmine kord läheb!{01 00 00 05 00}\n{07 0d 00}Värske {04 18 00}!{01 00 00 05 00}\nSina ja mina, mees mehe vastu!"
+   "et": "{07 14 00}Hei,{01 00 00 05 00} kuidas su õhtu?{01 00 00 0a 00}\nOh, hei, ja meeldiv\ntutvuda, {01 00 00 05 00}{04 02 00}!\n{07 00 00}Mina olen {04 01 00}, teise\nnimega Lürpininja!{01 00 00 05 00} Ma just\nkolisin siia.\nKas oled kunagi lürpimist\nproovinud?{01 00 00 05 00} Ma mõtlen,\nvõistluslikult?\n{07 00 00}Noh,{01 00 00 05 00} järgmine kord läheb!{01 00 00 05 00}\n{07 0d 00}Värske {04 18 00}!{01 00 00 05 00} Sina\nja mina, mees mehe vastu!"
   },
   {
    "id": 8,
@@ -54,7 +54,7 @@
   {
    "id": 10,
    "en": "{07 14 00}Yo yo!{01 00 00 0a 00} I just moved into\ntown a little bit ago.{01 00 00 05 00}\nI'm {04 01 00}!\n{07 00 00}So, {01 00 00 05 00}why are you talking to \nme this late at night?{01 00 00 05 00}\n{07 0b 00}Your days are that busy?\n{07 14 00}Well, I've never got anything\nthat important going on,{01 00 00 05 00}\nso come over...whenever!",
-   "et": "{07 14 00}Jou jou!{01 00 00 0a 00} Ma kolisin linna\nnatuke aega tagasi.{01 00 00 05 00}\nMina olen {04 01 00}!\n{07 00 00}Nii et, {01 00 00 05 00}miks sa minuga räägid \nnii hilja öösel?{01 00 00 05 00}\n{07 0b 00}Kas su päevad on nii kiired?\n{07 14 00}Noh, minul pole kunagi\nmidagi tähtsat käsil,{01 00 00 05 00}\nnii et tule...millal tahes!"
+   "et": "{07 14 00}Jou jou!{01 00 00 0a 00} Ma kolisin linna\nnatuke aega tagasi.{01 00 00 05 00}\nMina olen {04 01 00}!\n{07 00 00}Nii et, {01 00 00 05 00}miks sa minuga\nräägid  nii hilja öösel?{01 00 00 05 00}\n{07 0b 00}Kas su päevad on nii kiired?\n{07 14 00}Noh, minul pole kunagi\nmidagi tähtsat käsil,{01 00 00 05 00}\nnii et tule...millal tahes!"
   },
   {
    "id": 11,

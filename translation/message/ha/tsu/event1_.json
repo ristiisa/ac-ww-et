@@ -9,7 +9,7 @@
   {
    "id": 1,
    "en": "{07 14 00}Yo yo YO, {ff 00 00 05}{04 1f 00}{ff 00 00 00}!{01 00 00 0a 00} The\n{ff 00 00 03}Fishing Tourney{ff 00 00 00} is about\nto start, {01 00 00 05 00}{04 02 00}!\n{07 00 00}If you wanna reel in the\nbig boys, you gotta have\nsome seriously toned arms.\n{07 06 00}You'd better drink protein-\nlaced {04 13 00} to\nget prepped for it!",
-   "et": "{07 14 00}Jou jou, {ff 00 00 05}{04 1f 00}{ff 00 00 00}!{01 00 00 0a 00} {ff 00 00 03}Kala-\npüügivõistlus{ff 00 00 00} hakkab\nalgama, {01 00 00 05 00}{04 02 00}!\n{07 00 00}Kui tahad suuri välja\nvinnata, pead sul olema\ntõsiselt tugevad käed.\n{07 06 00}Sa peaksid jooma valgurikast\n{04 13 00}, et\nselleks valmistuda!"
+   "et": "{07 14 00}Jou jou, {ff 00 00 05}{04 1f 00}{ff 00 00 00}!{01 00 00 0a 00} {ff 00 00 03}Kala-\npüügivõistlus{ff 00 00 00} hakkab\nalgama, {01 00 00 05 00}{04 02 00}!\n{07 00 00}Kui tahad suuri välja\nvinnata, pead sul olema\ntõsiselt tugevad käed.\n{07 06 00}Sa peaksid jooma\nvalgurikast {04 13 00}, et\nselleks valmistuda!"
   },
   {
    "id": 2,
@@ -59,22 +59,22 @@
   {
    "id": 11,
    "en": "The {04 11 00} is {ff 00 00 06}{04 0f 00}{ff 00 00 00}'s\nbirthday, y'know.\n\n{07 0e 00}I've been trying to figure\nout a birthday present that\nwill just plain rule...\n{07 0b 00}How's a {04 15 00}?{01 00 00 05 00}\nCool, {04 02 00}?{02 00 00 15 15}\nSounds good!\nTerrible idea.",
-   "et": "{04 11 00} on tüübi nimega\n{ff 00 00 06}{04 0f 00}{ff 00 00 00} sünnipäev, tead küll.\n\n{07 0e 00}Ma olen üritanud välja\nmõelda sünnipäevakinki,\nmis lihtsalt rokiks...\n{07 0b 00}Kuidas oleks {04 15 00}?{01 00 00 05 00}\nLahe, {04 02 00}?{02 00 00 15 15}\nKõlab hästi!\nKohutav mõte."
+   "et": "{04 11 00} on tüübi nimega\n{ff 00 00 06}{04 0f 00}{ff 00 00 00} sünnipäev, tead.\n\n{07 0e 00}Ma olen üritanud välja\nmõelda sünnipäevakinki,\nmis lihtsalt rokiks...\n{07 0b 00}Kuidas oleks {04 15 00}?{01 00 00 05 00}\nLahe, {04 02 00}?{02 00 00 15 15}\nKõlab hästi!\nKohutav mõte."
   },
   {
    "id": 12,
    "en": "{07 16 00}The year's almost over!{01 01 00}\n{07 00 00}And you know what that\nmeans: {ff 00 00 03}countdown{ff 00 00 00} time!\n{07 14 00}We're gonna count down and\nforget all the bad memories\nof the year, {01 00 00 05 00}{04 02 00}!\n{07 06 00}Actually, {01 00 00 05 00}in my case,{01 00 00 05 00} I may\nforget a bunch of the good\nones, too!",
-   "et": "{07 16 00}Aasta on peaaegu läbi!{01 01 00}\n{07 00 00}Ja sa tead, mida see\ntähendab: {ff 00 00 03}aastavahetuse loendus{ff 00 00 00}!\n{07 14 00}Me loendame tagurpidi ja\nunustame kõik aasta halvad\nmälestused, {01 00 00 05 00}{04 02 00}!\n{07 06 00}Tegelikult {01 00 00 05 00}võin ma{01 00 00 05 00} hunniku\nhäid ka\nunustada!"
+   "et": "{07 16 00}Aasta on peaaegu läbi!{01 01 00}\n{07 00 00}Ja sa tead, mida see\ntähendab: {ff 00 00 03}aastavahetuse\nloendus{ff 00 00 00} ! {07 14 00}Me loendame\ntagurpidi ja unustame kõik\naasta halvad\nmälestused,{01 00 00 05 00}{04 02 00} ! {07 06 00}\nTegelikult{01 00 00 05 00} võin ma{01 00 00 05 00} hunniku\nhäid ka unustada!"
   },
   {
    "id": 13,
    "en": "I'm sure you know, but this\nyear's last event is the\n{ff 00 00 03}countdown{ff 00 00 00}! {01 00 00 05 00}Oh, YEAH!\n{07 14 00}Once it's done,{01 00 00 05 00} the new\nyear will be here right on\ntop of us, {01 00 00 05 00}{04 02 00}!\n{07 15 00}HEAR THIS! {01 00 00 05 00}I will do at least\n200 more dorsal plunges\nbefore the new year comes!",
-   "et": "Ma olen kindel, et sa tead,\naga selle aasta viimane\nüritus on {ff 00 00 03}aastavahetuse loendus{ff 00 00 00}! {01 00 00 05 00}JAA!\n{07 14 00}Kui see läbi,{01 00 00 05 00} on uus\naasta meil kohe\nkaelas, {01 00 00 05 00}{04 02 00}!\n{07 15 00}KUULA! {01 00 00 05 00}Ma teen vähemalt\n200 seljasukeldust enne\nuue aasta tulekut!"
+   "et": "Ma olen kindel, et sa tead,\naga selle aasta viimane\nüritus on {ff 00 00 03}pöördloendus{ff 00 00 00}! {01 00 00 05 00}JAA!\n{07 14 00}Kui see läbi,{01 00 00 05 00} on uus\naasta meil kohe\nkaelas, {01 00 00 05 00}{04 02 00}!\n{07 15 00}KUULA! {01 00 00 05 00}Ma teen vähemalt\n200 seljasukeldust enne\nuue aasta tulekut!"
   },
   {
    "id": 14,
    "en": "{07 14 00}THAT'S what I'm talking\n'bout,{01 00 00 0a 00} {04 1f 00}!{01 00 00 05 00} I like\nyour moxie, {01 00 00 05 00}{04 02 00}!\n{07 00 00}Fishing's just a nice name\nfor Ultimate Fish Battle!\n\nIt's a tooth-and-scale\nbattle to the end{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} {07 05 00}ARRGH!{01 00 00 0a 00}\nI'm getting fired up!{03 01 00 01}",
-   "et": "{07 14 00}SELLEST ma räägingi,{01 00 00 0a 00}\n{04 1f 00}!{01 00 00 05 00} Mulle meeldib\nsu vaim, {01 00 00 05 00}{04 02 00}!\n{07 00 00}Kalapüük on lihtsalt kena\nnimi Ülimale Kalalahingule!\n\nSee on hammaste ja soomuste\nlahing lõpuni{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} {07 05 00}ARRGH!{01 00 00 0a 00}\nMa lähen hoogu!{03 01 00 01}"
+   "et": "{07 14 00}SELLEST ma räägingi,{01 00 00 0a 00}\n{04 1f 00}!{01 00 00 05 00} Mulle meeldib\nsu vaim, {01 00 00 05 00}{04 02 00}!\n{07 00 00}Kalapüük on lihtsalt kena\nnimi Ülimale Kalalahingule!\n\nSee on hammaste ja\nsoomuste lahing lõpuni{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00} {07 05 00}\nARRGH!{01 00 00 0a 00} Ma lähen hoogu!{03 01 00 01}"
   },
   {
    "id": 15,
@@ -99,7 +99,7 @@
   {
    "id": 19,
    "en": "{07 00 00}I didn't even say anything!\nAnd yet you already know{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 01 00}\n{07 18 00}Whoa! {01 00 00 05 00}You're a superhero!",
-   "et": "{07 00 00}Ma ei öelnud veel midagi!\nJa ometi sa juba tead{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 01 00}\n{07 18 00}Ohoo! {01 00 00 05 00}Sa oled superkangelane!"
+   "et": "{07 00 00}Ma ei öelnud veel midagi!\nJa ometi sa juba tead{01 00 00 05 00}.{01 00 00 05 00}.{01 00 00 05 00}.{01 01 00}\n{07 18 00}Ohoo! {01 00 00 05 00}Oled superkangelane!"
   },
   {
    "id": 20,

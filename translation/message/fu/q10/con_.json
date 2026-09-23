@@ -4,17 +4,17 @@
   {
    "id": 0,
    "en": "{07 00 00}The time? {04 10 00}:{04 11 00}! The date?\nThe {04 0f 00}! I'm coming over!\n{07 0b 00}Sound good, {01 00 00 05 00}{04 02 00}?\n{07 14 00}My voice doesn't carry, so\nmake sure that you're\nsomewhere you can hear me!",
-   "et": "{07 00 00}Kellaaeg? {04 10 00}:{04 11 00}! Kuupäev?\n{04 0f 00}! Ma tulen külla!\n{07 0b 00}Kõlab hästi, {01 00 00 05 00}{04 02 00}?\n{07 14 00}Mu hääl ei kanna, nii et\nvaata, et sa oleksid kohas,\nkus sa mind kuuled!"
+   "et": "{07 00 00}Kellaaeg? {04 10 00}:{04 11 00}!\nKuupäev? {04 0f 00}! Ma tulen\nkülla! {07 0b 00}Kõlab hästi, {01 00 00 05 00}{04 02 00}\n? {07 14 00}Mu hääl ei kanna, nii et\nvaata, et sa oleksid kohas,\nkus sa mind kuuled!"
   },
   {
    "id": 1,
    "en": "{07 00 00}I've got our date written\ndown! {04 10 00}:{04 11 00} on the {04 0f 00}!{01 00 00 0a 00}\n{07 14 00}I can't WAIT!\n{07 14 00}Please don't miss the sound\nof my knocking, OK,\n{01 00 00 05 00}{04 02 00}?!",
-   "et": "{07 00 00}Meie kohtumine on kirjas!\n{04 10 00}:{04 11 00} kuupäeval {04 0f 00}!{01 00 00 0a 00}\n{07 14 00}Ma ei jõua ÄRA oodata!\n{07 14 00}Palun ära maga maha mu\nkoputust, eks,\n{01 00 00 05 00}{04 02 00}?!"
+   "et": "{07 00 00}Meie kohtumine on kirjas!\n{04 10 00}:{04 11 00}\nkuupäeval{04 0f 00} !{01 00 00 0a 00} {07 14 00}Ma ei\njõua ÄRA oodata! {07 14 00}Palun ära\nmaga maha mu koputust,\neks, {01 00 00 05 00}{04 02 00}?!"
   },
   {
    "id": 2,
    "en": "{07 00 00}I'm coming over at {04 10 00}:{04 11 00},\nremember? The date is the\n{04 0f 00}, too, don't forget.\n{07 14 00}Oh, and I'm never late! So\nwait for me, {01 00 00 05 00}{04 02 00}!{01 00 00 0a 00}\n{07 03 00}I'd hate to be locked out!",
-   "et": "{07 00 00}Ma tulen kell {04 10 00}:{04 11 00},\nmäletad? Kuupäev on ka\n{04 0f 00}, ära unusta.\n{07 14 00}Oh, ja ma ei hiline kunagi!\nOota mind, {01 00 00 05 00}{04 02 00}!{01 00 00 0a 00}\n{07 03 00}Ei taha ukse taha jääda!"
+   "et": "{07 00 00}Ma tulen kell {04 10 00}\n:{04 11 00} , mäletad?\nKuupäev on ka {04 0f 00}, ära\nunusta. {07 14 00}Oh, ja ma ei hiline\nkunagi! Oota mind, {01 00 00 05 00}{04 02 00}!{01 00 00 0a 00}\n{07 03 00}Ei taha ukse taha jääda!"
   }
  ]
 }
